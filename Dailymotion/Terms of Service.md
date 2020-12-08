@@ -1,0 +1,174 @@
+[Sign In](https://www.dailymotion.com/signin?urlback=%2Fgb%2Flegal)
+
+[Explore](https://www.dailymotion.com/gb) [Library](https://www.dailymotion.com/library)
+
+Create an account or sign in for a tailor-made video experience
+
+Sign Up / Sign In
+
+[What to Watch](https://www.dailymotion.com/gb)
+
+Categories
+
+[All Categories](https://www.dailymotion.com/gb/browse)
+
+Who to Follow
+
+*   [Terms of Use](https://www.dailymotion.com/legal)
+*   [Privacy Policy](https://www.dailymotion.com/legal/privacy)
+*   [Cookie Policy](https://www.dailymotion.com/legal/cookiemanagement)
+*   [Corporate Information](https://www.dailymotion.com/legal/infos)
+*   [Prohibited Content Policy](https://www.dailymotion.com/legal/prohibited)
+*   [Content Protection](https://www.dailymotion.com/legal/contentprotection)
+*   [Child protection](https://www.dailymotion.com/legal/childprotection)
+*   [Copyright Notification](https://www.dailymotion.com/legal/copyright)
+*   [Purchase of Merchandise](https://www.dailymotion.com/legal/purchasemerchandise)
+
+**TERMS OF USE**
+
+**Your use of the Dailymotion Service implies your acceptance of these Terms of Use. We ask that you read them carefully.**
+
+**If you have any questions, please do not hesitate to [contact us](https://faq.dailymotion.com/hc/en-us/requests/new?).**
+
+  
+**SECTION 1: DESCRIPTION OF THE DAILYMOTION SERVICE**
+
+1.1. Dailymotion is an original, free video hosting website that enables users to access, view, upload, store and share videos. The Dailymotion Service is made up of the Dailymotion website, the Dailymotion video player that is embeddable onto any website, the Dailymotion apps and web-apps as accessible via any current or future device capable of distributing the Dailymotion website and/or the video player, and more generally any Dailymotion products, content, channels, software, data feeds, services and functionality (“**Dailymotion Service**”).
+
+1.2. By accessing and/or using the Dailymotion Service, without being logged into Dailymotion Account, You will be hereinafter a “**Visitor**.” As a Visitor, You will only have the ability to access, view or share videos available on the Dailymotion Service, but will not be able to benefit from all the other features available on the Dailymotion Service. A “**Dailymotion Account**” means the video content storage space on the Dailymotion Service which is dedicated to a Viewer or a User Dailymotion Service that can be created by signing up for a Dailymotion Account via [www.dailymotion.com](https://www.dailymotion.com/).
+
+1.3. If You want to be able to upload videos and access some other features of the Dailymotion Service, You will need to first create a Dailymotion Account and have your email address validated. You will then be a “**User**”, being though agreed that after having created Your Dailymotion Account and until You have validated Your email address according to the process defined below, You will be a “**Viewer**” and will not be able to upload videos or access the other features of the Dailymotion Service.
+
+1.4. Information provided by You to create Your Dailymotion Account must be accurate and complete. In order for Dailymotion to verify that the email address You provided is valid, You will receive an email from Dailymotion asking You to validate Your email address.
+
+1.5. By creating a Dailymotion Account, You agree that You alone will be responsible (to Dailymotion and to others) for all activity that occurs under Your Dailymotion Account. The user id and password which are necessary to access the Dailymotion Account and the features associated with it are Your sole responsibility and it is Your obligation to keep them confidential.
+
+1.6. As a User, You will also have the ability to access some more additional features from the Dailymotion Service, and if and when you have accepted the terms of the Dailymotion Partner Program, you will then be a “**Partner**” and will have the opportunity to monetize Your Content uploaded on Your Dailymotion Account.
+
+1.7. If You are a User, You may notably upload video files (that must be compliant with these Terms) on the Dailymotion Service, and have a nickname and an avatar that will be associated with Your Dailymotion Account. Any and all elements posted by You on the Dailymotion Service are deemed to be “**Your Content**.” If you are not a Partner, Your Content may be automatically set to “private mode” so that Your Content will only be available on the Dailymotion website to individuals who have the URL link for Your Content, however You or any third party will still have the ability to embed Your Content on any website through Dailymotion video player.
+
+  
+**SECTION 2: ACCEPTANCE OF THESE TERMS**
+
+2.1. Whether You are a Visitor, a Viewer, a User or a Partner, either an individual or a single entity ("**You**" or "**Your**" as applicable), You signify Your express and unconditional agreement to: (1) these terms and conditions, (2) all other [**policies of Dailymotion**](https://www.dailymotion.com/legal/privacy?localization=en), including but not limited to the Dailymotion privacy and cookie policies, as accessible at any time from the homepage of the Dailymotion website, and incorporated herein by reference, (all collectively, the “**Terms**”). **You may not use the Dailymotion Service if You do not accept any of the Terms**. You understand and agree that Dailymotion will treat Your use of the Dailymotion Service as acceptance of the Terms from that point onwards.
+
+2.2. If you reside in a country of the European Economic Area, these Terms form a legally binding agreement between You and Dailymotion SA in relation to Your use of the Dailymotion Service. Any reference to “Dailymotion” in these Terms or any other policies of Dailymotion will then always refer to “Dailymotion SA” whose details are provided [**here**](https://www.dailymotion.com/legal/infos).  
+  
+If you reside in a country that is not part of the European Economic Area, these Terms form a legally binding agreement between You and Dailymotion Inc. in relation to Your use of the Dailymotion Service. Any reference to “Dailymotion” in these Terms or any other policies of Dailymotion will then always refer to “Dailymotion Inc.” whose details are provided [**here**](https://www.dailymotion.com/legal/infos).
+
+2.3. Dailymotion may, in its sole discretion, modify these Terms from time to time, and You agree to be bound by such modifications. Although we may attempt to notify You when major changes are made to these Terms, You should periodically review the most up-to-date version which shall always be accessible from the homepage of the Dailymotion website. If You do not agree to the modified Terms, Your only recourse is to stop using the Dailymotion Service. Your continued use of the Dailymotion Service after the date the modified Terms are posted will constitute Your acceptance of the modified Terms.
+
+2.4. You shall not use the Dailymotion Service if (a) You are not of legal age to form a binding contract with Dailymotion, or (b) You are a person who is either barred or otherwise legally prohibited from receiving or using the Dailymotion Service under the laws of the country in which You are resident or from which You access or use the Dailymotion Service.
+
+2.5. If You are not an individual, You represent to Dailymotion that You have all necessary corporate or equivalent authority and power to agree to the Terms which You agree shall be binding on the corporation, partnership, association or other entity in whose name You using or accessing the Dailymotion Service.
+
+  
+**SECTION 3: YOUR INTELLECTUAL PROPERTY RIGHTS**
+
+3.1. For the entire period during which Your Content is hosted on the Dailymotion Service, You grant to Dailymotion, and transferable to its affiliates, the non-exclusive rights to reproduce, represent, stream, replay (including offline display without permanent download), exploit, exhibit, show, market, distribute and to technically modify and compress Your Content as is strictly necessary for the purposes of the viewing and/or streaming of Your Content on the Dailymotion Service.
+
+3.2. By making Your Content accessible on the Dailymotion Service, You agree to allow any Visitors of the Dailymotion Service , to view and to share Your Content through the Dailymotion video player on or through any declination of the Dailymotion Service, as accessible (online or offline) via any current or future device capable of distributing the Dailymotion Service by any means of access, including but not restricted to computers, smartphones, tablets, TV devices, IPTV platforms and/or game consoles free-of-charge.
+
+3.3. Despite this allowance, Your Content shall always remain Your property. Please note that due to the nature of the Internet and digital media, data transmitted – including Your Content – cannot be protected against risks of misappropriation and/or piracy, for which Dailymotion shall not be liable. You are responsible for taking all appropriate steps to protect Your data, where applicable.
+
+  
+**SECTION 4: OUR INTELLECTUAL PROPERTY RIGHTS**
+
+4.1. We grant You a personal, non-exclusive, non-transferable and revocable right to access and use the Dailymotion Service, which right is conditioned on Your compliance with the Terms.
+
+4.2. The content (other than Your Content and other users' content) included on or accessible through the Dailymotion Service, such as text, graphics, logos, names, designations, button icons, features, functionalities, images, audio clips, information, data collected from the Dailymotion Service, photographs, graphs, videos, typefaces, graphics, music, sounds, and other material and software (the “**Dailymotion Content**”), is the exclusive property of Dailymotion and its licensors, and is protected by copyrights, trademarks, trade secrets, or other proprietary rights and subject to applicable laws and regulations.
+
+4.3. Dailymotion Content may not be downloaded, copied, reproduced, distributed, transmitted, broadcast, displayed, sold, licensed, or otherwise exploited for any other purpose whatsoever without the prior written consent of Dailymotion or Dailymotion's licensors. You agree to not use or exploit the Dailymotion Content in any manner inconsistent with any of the rights granted or restrictions set forth herein, including, without limitation, prohibitions on downloading, redistribution, alteration, deletion and deactivation of any content protection mechanisms. You are not allowed to modify, enhance, edit, translate, adapt, reverse engineer, decompile, disassemble, or create derivative works based upon or otherwise alter in part or in full any Dailymotion Content.
+
+4.4. All rights not expressly granted in the Terms are reserved to Dailymotion and its licensors.
+
+  
+**SECTION 5: OUR LIABILITY AS HOST**
+
+5.1. In its capacity as a web hosting service provider, Dailymotion is under no legal obligation to monitor content uploaded on the Dailymotion Service, nor obligated to actively seek facts or circumstances indicating illegal content, but shall forthwith remove or disable access from its Dailymotion Service to any infringing content once having been notified of its existence.
+
+5.2. You agree that Your use of the Dailymotion Service shall be at your sole risk and liability. In this regard, You are solely responsible for (i) Your use of the Dailymotion Service and more specifically for Your Content, and (ii) the protection of its computer hardware against any virus or interruption.
+
+5.3. You acknowledge and agree that the Dailymotion Service, in whole or in part (including, without limitation, the look and feel, the thematic channels, the functionality, and/or the Dailymotion video player), on and through which Your Content will be distributed is provided “AS IS” without warranty, provided that Dailymotion may enhance, modify and update the Dailymotion Service at its sole discretion. For the sake of clarity, You shall not be entitled to request any modification to the Dailymotion Service.
+
+5.4. Dailymotion, its affiliated companies, officers, directors, employees, agents, vendors and suppliers (the “**DM Parties**”) disclaim all warranties of any kind, either expressed or implied, including but not limited to, the implied warranties of merchantability, fitness for a particular purpose, and non-infringement to the fullest extent permissible under applicable law. The DM Parties also disclaim all warranties, take no responsibility and assume no liability for the content present on the Dailymotion Service, including but not limited to any mistakes, defamation, libel, slander, omissions, falsehoods, obscenity, pornography or profanity You may encounter on the Dailymotion Service. The DM Parties make no warranty or representation that the Dailymotion Service or its functionalities or technology, in whole or in part, will be uninterrupted, error-free or secure, including with respect to the delivery of Your content and/or any limitations on Your or any other Visitors ability to access, view or use Your Content or any other content, or that any information obtained from the Dailymotion Service will be accurate or reliable.
+
+5.5. Dailymotion shall not be held responsible in any case for (i) any malfunctions, inherent of the nature of the Internet, in the access and/or the use of the Dailymotion Service, (ii) or any default of its obligations caused by force majeure or an unintentional cause. Unless otherwise stated herein, Dailymotion does not grant You any guarantee of any kind, whether expressly or implicitly, in any area, including and in particular any guarantee of fitness for a particular purpose.
+
+5.6. Nothing herein shall exclude or limit Dailymotion's liability for losses which may not be lawfully excluded or limited by applicable law. Subject to this overall provision above, Dailymotion shall not be liable for: (a) any indirect or consequential losses which may be incurred by You. This shall include; (i) any loss of profit (whether incurred directly or indirectly); (ii) any loss of goodwill or business reputation; (iii) any loss of opportunity; or (iv) any loss of data suffered; (b) any loss or damage which may be incurred as a result of: (i) any reliance placed by You on the completeness, accuracy or existence of any advertising, or as a result of any relationship or transaction between You and any advertiser or sponsor whose advertising appears on the Dailymotion Service; (ii) any changes which Dailymotion may make to the Dailymotion Service, or for any permanent or temporary cessation in the provision of the Dailymotion Service (or any of its features); (iii) the deletion of, corruption of, or failure to store, any content and other communications data maintained or transmitted by or through Your use of the Dailymotion Service; (iv) Your failure to provide Dailymotion with accurate account information (v) Your failure to keep Your password or your accounts details secure and confidential.
+
+5.7. The limitations on Dailymotion's liability defined in this section shall apply whether or not Dailymotion has been advised of or should have been aware of the possibility of any such losses arising.  
+Some jurisdictions limit or do not allow the disclaimer of warranties or damages so the above disclaimer may not apply to the extent such jurisdiction's law applies to this agreement.
+
+  
+**SECTION 6: RESTRICTIONS RELATED TO YOUR USE OF THE DAILYMOTION SERVICE AND ITS RELATED TECHNOLOGIES**
+
+6.1. In view of the user-driven nature of the Dailymotion Service, and out of consideration for the general public, You are responsible for maintaining certain ethical standards respecting the Content You upload on the Dailymotion Service. You represent and warrant as an essential condition that Your Content, and any images, data and/or text which you may disseminate through the Dailymotion Service: (i) contains no child pornography; dangerous or illegal acts (including but not limited to incitement to violence, animal abuse or drug abuse); unlawful, obscene, defamatory or libelous material; images of rape or abuse; images of bestiality; or any sexually explicit content (including but not limited to intercourse, masturbation, sadistic or masochistic abuse, explicit depiction of male or female genitalia or pubic areas, pedophilia or necrophilia); (ii) does not infringe the intellectual property rights of any third party (including but not limited to sound, music, excerpts from any animated or non-animated television shows, short, medium-length and/or feature-length films, advertisements or any other material that You have not created yourself or for which You do not have the necessary clearances and permissions from third party rights owners or copyright royalty collection organizations in such materials); (iii) does not infringe personal rights (i.e. that is not defamatory and does not contain insults, abuse, libel, etc.) or personal privacy (including an individual's right to his or her image); (iv) is not contrary to public policy and accepted moral standards; (v) does not display, incite or otherwise promote illegal or immoral activity, and (vi) does not violate any applicable laws or regulations.
+
+6.2. By uploading or disseminating images, data, and/or text to or through the Dailymotion Service, You warrant that You are not uploading any infringing material and expressly warrant that You have all necessary rights and/or authorizations from the copyright owner(s) and have paid any royalties or other fees pursuant to any licenses or permissions needed to upload and distribute Your Content on the Dailymotion Service.
+
+**6.3. Dailymotion reserves the right to decide in its sole discretion whether Your Content, Your Dailymotion Account and/or Your use of the Dailymotion Service violates these Terms for any reasons other than copyright infringement, such as, but not limited to, pornography, obscenity, or excessive length. Failure to comply with these Terms may result in (i) Your Content being removed and/or (ii) Your Dailymotion Account being deactivated and/or (iii) your use of the embeddable Dailymotion video player being blocked and/or (iv) any elements or data related to Your Content or to Your Dailymotion Account being modified or removed (i.e. allegedly infringing username, metadata considered inappropriate, etc.) from the Dailymotion Service, without prior notice. In addition, Dailymotion reserves the right to report any violation of these provisions to applicable legal authorities and You may be personally liable to criminal sanctions applicable to the content in question (fines and imprisonment), in addition to any applicable civil damages.**
+
+6.4. Because the Dailymotion Service is not designed as a video back-up service, You are responsible for taking all necessary precautions to safeguard Your video files. In accordance with internet practice and custom, advertisements may be incorporated into the Dailymotion Service and then associated to your Dailymotion Account and/or Your Content.
+
+6.5. Moreover, You shall not (i) falsely increase the number of views, impression of or clicks associated with Your Content or other users’ content either directly or indirectly, or automatically or manually, or (ii) authorize or encourage any third party including offering any financial incentive to do the same.
+
+6.6. You also warrant that any website or applications on which You export Your Content and/or other users’ content through the embeddable Dailymotion video player does not include any element that: (i) breaches any intellectual property rights of any third parties or (ii) constitutes an injury to any person (including defamation, slander, abuse, etc.) or to any third party’s privacy rights or (iii) encourages violence or hatred against any individual or group, or cruelty to animals (iv) or contains sexually explicit or highly suggestive content or (v) encourages drug use or any illegal activity (vi) constitutes a threat to public order or standards of decency and good morals or (vii) violates any applicable laws. Moreover, You warrant that Your use of the embeddable Dailymotion video player shall not be made for: (i) any activity which may imply any kind of product, trademark or artist endorsement without authorization from the applicable rights owner or (ii) resale of any kind of the Dailymotion Service or (iii) any unauthorized third party contests or (iv) synchronization of the underlying musical composition that might be embodied in the content displayed through the embeddable Dailymotion video player or any other use with any visual media output. You also shall not modify, build upon or block any portion or functionality of the Dailymotion video player including but not limited to links back to the Dailymotion website. By embedding Your Content and/or other user’s content through the embeddable Dailymotion video player on any website or applications, You warrant that You have all the necessary rights and/or authorizations from the owner(s) of such website or applications and have paid any royalties or other fees pursuant to any licenses or permissions needed to such distribution.
+
+6.7. You agree not to alter or modify any part of the Dailymotion Service (including but not limited to the Dailymotion video player and its related technologies).You agree not to (or attempt to) circumvent, disable or otherwise interfere with any security related features of the Dailymotion Service or features that (i) prevent or restrict use or copying of content or (ii) enforce limitations on use of the Dailymotion Service or the content accessible via the Dailymotion Service. You agree not to collect or harvest any personal data of any Visitor, Viewer, User or Partner of the Dailymotion Service and to not use the Dailymotion Service) for the solicitation of business in the course of trade or in connection with a commercial enterprise.
+
+6.8. You agree not to use the Dailymotion Service and any of its related technologies (including without restriction the Dailymotion video player, the website, the app and the webapp) for any commercial use unless You obtain Dailymotion's prior written approval, in particular any of the following uses: (i) the sale of access to the Dailymotion Service, (ii) the sale of advertising, sponsorships or promotions placed on or within the Dailymotion Service or content or Dailymotion video player.
+
+6.9. You agree not to access content hosted on the Dailymotion Service for any reason other than your personal, non-commercial use solely as intended through and permitted by the normal functionality of the Dailymotion Service, and solely for Streaming purposes. "**Streaming**" means a digital transmission of an audiovisual work from the Dailymotion Service to a Visitor operated Internet enabled device in such a manner that the data is intended for real-time viewing and not intended to be permanently downloaded, copied, stored, or redistributed by the Visitor. Accessing a Dailymotion user’s content for any purpose or in any manner other than Streaming and personal use is expressly prohibited. If You wish to use another user’s content for any other purpose, in particular for commercial use, You are solely responsible for obtaining the necessary advance authorization. You agree and shall indemnify and hold Dailymotion- harmless from and against any liability, loss, damages (including punitive damages), claim, settlement payment, cost and expense, interest, award, judgment, diminution in value, fine, fee (including reasonable attorneys’ fees), and penalty, or other charge (including reasonable attorneys’ fees and all other cost of investigating, defending or asserting any claim for indemnification under these Terms) arising from or relating to (i) Your Content, (ii) Your violation of the Terms or any other policy of Dailymotion; (iii) Your use of the Dailymotion Service; and (iv) Your violation of any third party rights, including without limitation any copyright, property, publicity or privacy rights.
+
+6.10  You acknowledge and agree that some other Partners are third party beneficiaries of these Terms and as such they may have the right to enforce these Terms against You as a third party beneficiaries of these Terms.
+
+  
+**SECTION 7: REPORTING PROHIBITED CONTENT**
+
+7.1. Dailymotion has established an easily accessible means of allowing anyone to notify it of the availability of infringing content or illegal content and/or activity on the Dailymotion Service. Such processes to notify Dailymotion of prohibited content are described in detail at the following URL: [http://www.dailymotion.com/legal/prohibited](https://www.dailymotion.com/legal/prohibited?localization=en).
+
+7.2. If You notice infringing or illegal content and/or activity on the Dailymotion Service, You can report it to us at any time by contacting us via the form available from the homepage of the Dailymotion website.
+
+  
+**SECTION 8: DATA AND PRIVACY**
+
+8.1. The records of Dailymotion are stored on our systems in accordance with standard safety practices and applicable laws. The Dailymotion records shall be considered proof of emails exchanged, registration forms sent, videos uploaded, and other activity within the Dailymotion Service, being agreed that, in the event of a discrepancy between our records and any paper or electronic documents in Your possession, our records shall be authoritative and controlling.
+
+8.2. The Dailymotion Service may contain links to websites operated by other entities (a "**Linked Site**"). If You decide to visit any Linked Site, You do so at Your own risk and it is Your responsibility to take all protective measures to guard against viruses or other destructive elements.Dailymotion has no responsibility to You with respect to any Linked Site, and no Linked Site, regardless of the linking form (e.g. hotlinks, hypertext links, IMG links) is maintained, controlled, endorsed, monitored or otherwise governed by Dailymotion.
+
+8.3. Dailymotion takes very seriously Your privacy and the protection of Your personal data, collected and processed in connection with Your use of the Dailymotion Service. If You want to find out more about the personal data collected, how we collect them and the related processes, You can check our [Privacy Policy](https://www.dailymotion.com/legal/privacy?localization=en) available at any time on the Dailymotion website.
+
+  
+**SECTION 9: MISCELLANEOUS**
+
+9.1. You acknowledge and agree that the Terms will continue to be enforceable for as long as You use the Dailymotion Service or any of its features, whether or not if you are a Visitor, a Viewer, a User or a Partner. For the sake of clarity, watching videos from the Dailymotion Service, exporting the Dailymotion video player, and/or maintaining a Dailymotion Account are all deemed to be uses of the Dailymotion Service.
+
+9.2. Any obligations which expressly or by their nature are to continue after termination, cancellation, or expiration of the Terms shall survive and remain in effect after such happening.
+
+9.3. If you reside in a country of the European Economic Area, you agree that any dispute between You and Dailymotion arising out of or relating in any way to these Terms or Your use of the Dailymotion Service shall be interpreted in accordance with the laws of France, without reference to its conflicts of laws, and notwithstanding multiple defendants or third party claims. You also agree that any claim or dispute between You and Dailymotion shall be decided by a court of competent jurisdiction located in Paris.
+
+If you reside in a country that is not part of the European Economic Area, You agree that any dispute between You and Dailymotion arising out of or relating in any way to these Terms or Your use of the Dailymotion Service shall be interpreted in accordance with the New York laws, without reference to its conflicts of laws, and notwithstanding multiple defendants or third party claims. You also agree that any claim or dispute between You and Dailymotion shall be decided by a court of competent jurisdiction located in the New York county.
+
+9.4. These Terms of Use constitute the entire agreement between Dailymotion and You with respect to the Dailymotion Service and shall supersede all prior or contemporaneous communications and proposals, whether electronic, oral, or written, between You and Dailymotion with respect to the Dailymotion Service.
+
+9.5. A printed version of the Terms of Use and of any notice given in electronic form shall be admissible in judicial or administrative proceedings based upon or relating to the Terms to the same extent and subject to the same conditions as other business documents and record originally generated and maintained in printed form.
+
+9.6. You agree that Dailymotion may provide You with notices, including those regarding changes to the Terms, by email, regular mail, or postings on the Dailymotion Service.
+
+9.7. If one or more provision of the Terms is considered to be invalid as such or as a result of the application of a law, regulation, or the decision of a competent body having jurisdiction, it will be treated as not forming part of the Terms and all other conditions of these Terms will remain in force.
+
+9.8. No waiver by either party of any breach or default hereunder shall be deemed to be a waiver of any preceding or subsequent breach or default.
+
+  
+  
+**Last Updated: May 23rd 2018**  
+  
+
+[About us](https://www.dailymotion.com/gb/about) [What's new](https://www.dailymotion.com/about/whats-new) [Help Center](https://faq.dailymotion.com/) [Jobs](https://jobs.dailymotion.com/) [API](https://developer.dailymotion.com/) [Partner UP](https://www.dailymotion.com/monetization) [Manage Cookies](https://www.dailymotion.com/legal/consent)
+
+[Privacy & Cookie Policy](https://www.dailymotion.com/legal/privacy) [Terms](https://www.dailymotion.com/legal/terms) [Blog](https://medium.com/dailymotion) [All videos](https://www.dailymotion.com/archived/index.html) [Family Filter: ON](https://www.dailymotion.com/settings)
+
+© 2005 - 2020 dailymotion. Designed with in Paris, France.
+
+![](https://sb.scorecardresearch.com/p?c1=2&c2=4000005&cv=2.0&cj=1)
