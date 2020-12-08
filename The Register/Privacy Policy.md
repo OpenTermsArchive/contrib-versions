@@ -59,7 +59,7 @@ Customise Settings
 
  [![](/design_picker/c00f80f04b0eaf0123d821f6c9488fc1cb55fd0a/graphics/std/magnifying_glass_white.svg)](https://search.theregister.com/)  [![](/design_picker/c00f80f04b0eaf0123d821f6c9488fc1cb55fd0a/graphics/std/user_icon_white.svg) ![](/design_picker/c00f80f04b0eaf0123d821f6c9488fc1cb55fd0a/graphics/std/user_icon_filled_white.svg)](https://account.theregister.com/register/ "Your Account") 
 
- [![](https://pubads.g.doubleclick.net/gampad/ad?co=1&iu=/6978/reg_misc/other&sz=300x250&tile=2&c=2X8@aCzStJCGxQnqqSEQtZgAAAIM&t=ct%3Dns%26unitnum%3D2%26raptor%3Dcondor%26pos%3Dtop%26test%3D0)](https://pubads.g.doubleclick.net/gampad/jump?co=1&iu=/6978/reg_misc/other&sz=300x250&tile=2&c=2X8@aCzStJCGxQnqqSEQtZgAAAIM&t=ct%3Dns%26unitnum%3D2%26raptor%3Dcondor%26pos%3Dtop%26test%3D0) 
+ [![](https://pubads.g.doubleclick.net/gampad/ad?co=1&iu=/6978/reg_misc/other&sz=300x250&tile=2&c=2X8@cadEuXG3hx7xU0yhNPwAAAJU&t=ct%3Dns%26unitnum%3D2%26raptor%3Dcondor%26pos%3Dtop%26test%3D0)](https://pubads.g.doubleclick.net/gampad/jump?co=1&iu=/6978/reg_misc/other&sz=300x250&tile=2&c=2X8@cadEuXG3hx7xU0yhNPwAAAJU&t=ct%3Dns%26unitnum%3D2%26raptor%3Dcondor%26pos%3Dtop%26test%3D0) 
 
 Privacy Policy
 ==============
@@ -303,7 +303,7 @@ Reader Services: [readerservices@situationpublishing.com](mailto:readerservices@
 
 **Get our** [Tech Resources](https://whitepapers.theregister.com/)
 
- [![](https://pubads.g.doubleclick.net/gampad/ad?co=1&iu=/6978/reg_misc/other&sz=300x250%7C300x50&tile=6&c=66X8@aCzStJCGxQnqqSEQtZgAAAIM&t=ct%3Dns%26unitnum%3D6%26raptor%3Dhawk%26pos%3Dbtm%26test%3D0)](https://pubads.g.doubleclick.net/gampad/jump?co=1&iu=/6978/reg_misc/other&sz=300x250%7C300x50&tile=6&c=66X8@aCzStJCGxQnqqSEQtZgAAAIM&t=ct%3Dns%26unitnum%3D6%26raptor%3Dhawk%26pos%3Dbtm%26test%3D0) 
+ [![](https://pubads.g.doubleclick.net/gampad/ad?co=1&iu=/6978/reg_misc/other&sz=300x250%7C300x50&tile=6&c=66X8@cadEuXG3hx7xU0yhNPwAAAJU&t=ct%3Dns%26unitnum%3D6%26raptor%3Dhawk%26pos%3Dbtm%26test%3D0)](https://pubads.g.doubleclick.net/gampad/jump?co=1&iu=/6978/reg_misc/other&sz=300x250%7C300x50&tile=6&c=66X8@cadEuXG3hx7xU0yhNPwAAAJU&t=ct%3Dns%26unitnum%3D6%26raptor%3Dhawk%26pos%3Dbtm%26test%3D0) 
 
 #### ABOUT US![](/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icon/footer_mob_nav_arrow_black.svg)
 
