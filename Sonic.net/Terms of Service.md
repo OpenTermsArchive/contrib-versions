@@ -5,7 +5,7 @@ Sonic.net Policies
 
 [CES](https://help.sonic.com/hc/en-us/profiles/15328838488-CES)
 
-Updated December 07, 2020 00:16
+Updated December 08, 2020 19:26
 
 [Sonic.net](https://www.sonic.com/), LLC. General Policy
 ========================================================
