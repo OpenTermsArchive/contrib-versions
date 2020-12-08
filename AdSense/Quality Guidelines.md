@@ -1,3 +1,6 @@
+Webmaster Guidelines
+====================
+
 Following the **General Guidelines** below will help Google find, index, and rank your site.
 
 We strongly encourage you to pay very close attention to the **Quality Guidelines** below, which outline some of the illicit practices that may lead to a site being removed entirely from the Google index or otherwise affected by an algorithmic or manual spam action. If a site has been affected by a spam action, it may no longer show up in results on Google.com or on any of Google's partner sites.
