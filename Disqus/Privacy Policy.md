@@ -1,21 +1,3 @@
- [![Disqus](https://downloads.intercomcdn.com/i/o/89882/04711297e4ac978e0ca1f4f2/c56345f6e580f2ddd358475bae6c43b8.png)](https://help.disqus.com/en/) 
-
-[Group 65Go to Disqus](https://disqus.com/)
-
-[All Collections](https://help.disqus.com/en/)
-
-[Terms and Policies](https://help.disqus.com/en/collections/191787-terms-and-policies)
-
-Disqus Privacy Policy
-
-Disqus Privacy Policy
-=====================
-
-![Disqus avatar](https://static.intercomassets.com/avatars/512695/square_128/Disqus_d_icon_%28gray%29.svg-1472681159.png?1472681159)
-
-Written by Disqus  
-Updated over a week ago
-
 Disqus Privacy Policy
 
 Updated June 10, 2020
@@ -152,18 +134,3 @@ a. Contact. If you have any questions about this Privacy Policy, please email us
 b. Changes to Privacy Policy. Disqus may, in its sole discretion, modify or update this Privacy Policy from time to time, and so you should review this page periodically. When we change the policy, we will update the ‘last modified’ date at the bottom of this page. Your continued use of the Site following the posting of any changes to this policy means you accept such changes.
 
 This Privacy Policy was last modified on  June 10, 2020. [Click here](https://help.disqus.com/customer/portal/articles/466260-terms-of-service) to view the Terms of Service.
-
-Did this answer your question?
-
- [![Disqus](https://downloads.intercomcdn.com/i/o/89882/04711297e4ac978e0ca1f4f2/c56345f6e580f2ddd358475bae6c43b8.png)](https://help.disqus.com/en/) 
-
-*   [Features](https://disqus.com/features/)
-*   [Plans and Pricing](https://disqus.com/pricing/)
-*   [Blog](http://blog.disqus.com/)
-*   [API](https://disqus.com/api/)
-*   [Jobs](https://disqus.com/jobs)
-*   [Terms and Policies](https://help.disqus.com/customer/portal/topics/215159-terms-and-policies/articles)
-*   [Get Support](https://disqus.com/support)
-*   [Status](https://status.disqus.com/)
-
-![Intercom](https://static.intercomassets.com/alexandria/assets/intercom-a6a6ac0f033657af1aebe2e9e15b94a3cd5eabf6ae8b9916df6ea49099a894d8.png) [We run on Intercom](https://www.intercom.com/intercom-link?company=Disqus&solution=customer-support&utm_campaign=intercom-link&utm_content=We+run+on+Intercom&utm_medium=help-center&utm_referrer=https%3A%2F%2Fhelp.disqus.com%2Fen%2Farticles%2F1717103-disqus-privacy-policy&utm_source=desktop-web)
