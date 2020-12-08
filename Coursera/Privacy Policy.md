@@ -1,25 +1,3 @@
-[
-
-![Coursera](data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE2LjIuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgogICB3aWR0aD0iMTA4cHgiIGhlaWdodD0iMTdweCIgdmlld0JveD0iMCAwIDEwOCAxNyIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgMTA4IDE3IiB4bWw6c3BhY2U9InByZXNlcnZlIj4KPHBhdGggZmlsbD0iIzJBNzNDQyIgZD0iTTU0LjI4MSw1Ljc3M2MwLjA2Ni0xLjI2OSwwLjUyMS0yLjMwNiwxLjIzMi0zLjExNVYxLjU4aC0wLjk0NWMtMS45MSwwLTMuNTI3LDAuNzMyLTQuNDY3LDIuMzg2aC0wLjA1NQogIFYxLjc2MmgtNC44OTl2MTMuNDQxaDQuOVY5Ljc3N2MwLTIuMzAzLDAuNjc0LTQuMDU5LDMuMzkzLTQuMDU5QzUzLjczNiw1LjcyLDU0LjAxMyw1LjczNyw1NC4yODEsNS43NzN6Ii8+CjxwYXRoIGZpbGw9IiMyQTczQ0MiIGQ9Ik05MS4zOCw1LjcyNGMwLjQwNy0xLjE4OCwxLjA2Ny0yLjI0NiwxLjkyNS0zLjA5NXYtMS4wNWgtMC45NDNjLTEuOTExLDAtMy41MjYsMC43MzItNC40NzEsMi4zODVoLTAuMDUzCiAgVjEuNzYyaC00LjkwMnYxMy40NDFoNC45MDJWOS43NzdjMC0yLjMwMywwLjY3Ni00LjA1OSwzLjM5NS00LjA1OUw5MS4zOCw1LjcyNHoiLz4KPHBhdGggZmlsbD0iIzJBNzNDQyIgZD0iTTY0LjIzMiw1LjIyYy0wLjc1Ni0wLjM5My0xLjgwOC0wLjY1NS0yLjY0NS0wLjY1NWMtMC41NjIsMC0xLjUzMywwLjIzNC0xLjUzMywwLjkxNwogIGMwLDAuOTE4LDEuNTMzLDEuMDQ4LDIuMjExLDEuMTgyYzIuMjg0LDAuNDQ0LDQuMDEyLDEuNDkzLDQuMDEyLDMuOTc5YzAsMy41MzYtMy4zMTMsNS4wMDgtNi41Miw1LjAwOAogIGMtMS45NjcsMC0zLjkwMi0wLjU1MS01LjU3NC0xLjU0N2wxLjc3Ny0zLjMzYzAuOTk1LDAuNjg0LDIuNjY1LDEuMzYzLDMuODc3LDEuMzYzYzAuNjIsMCwxLjUzNS0wLjI4NywxLjUzNS0xLjAyMQogIGMwLTEuMDQ4LTEuNTM1LTEuMTAzLTMuMDcyLTEuNDk1Yy0xLjUzMy0wLjM5My0zLjA2Ni0xLjEyNS0zLjA2Ni0zLjUzNmMwLTMuMzAyLDMuMDY2LTQuNzY3LDYuMDg4LTQuNzY3CiAgYzEuNTYyLDAsMy4xMjUsMC4yMzUsNC41NDksMC44NjRMNjQuMjMyLDUuMjJ6Ii8+CjxwYXRoIGZpbGw9IiMyQTczQ0MiIGQ9Ik0xMDgsMTUuMjAzaC00Ljl2LTEuNDk1aC0wLjA1NGMtMC44NjIsMS4zMzYtMi41NjIsMS45MzgtNC4xNzUsMS45MzhjLTQuMDk2LDAtNi45NzUtMy4zMjgtNi45NzUtNy4xOAogIGMwLTMuODQ4LDIuODI4LTcuMTUxLDYuOTItNy4xNTFjMS41ODgsMCwzLjI2LDAuNTc2LDQuMjgzLDEuNzU0VjEuNzYyaDQuODk5TDEwOCwxNS4yMDNMMTA4LDE1LjIwM3ogTTk2Ljk1OSw4LjQ5NQogIGMwLDEuNzAyLDEuMTYsMy4wMTIsMy4xNSwzLjAxMmMxLjk5MiwwLDMuMTQ3LTEuMzA4LDMuMTQ3LTMuMDEyYzAtMS42NTEtMS4xNTUtMy4wMzktMy4xNDctMy4wMzkKICBDOTguMTE5LDUuNDU3LDk2Ljk1OSw2Ljg0NCw5Ni45NTksOC40OTV6Ii8+CjxwYXRoIGZpbGw9IiMyQTczQ0MiIGQ9Ik04Mi4xNjMsOS4yODNINzEuODQ2YzAsMS45MzcsMS4wNTMsMi45ODQsMy4wNzIsMi45ODRjMS4wNSwwLDEuODAzLTAuMzM5LDIuMzQzLTEuMjMxaDQuNzE0CiAgYy0wLjc4MSwzLjE3MS0zLjg3OSw0LjYxMi03LjAyOSw0LjYxMmMtNC41NzUsMC03Ljk5NS0yLjUxNy03Ljk5NS03LjE1MmMwLTQuNDgsMy4xNDctNy4xNzgsNy42NDQtNy4xNzgKICBjNC43OTMsMCw3LjU3LDIuODgzLDcuNTcsNy40NjZMODIuMTYzLDkuMjgzTDgyLjE2Myw5LjI4M3ogTTc3LjYxMSw2LjUzYy0wLjI0My0xLjI4NC0xLjQ1NS0yLjEyMi0yLjc3My0yLjEyMgogIGMtMS40MjksMC0yLjYwOSwwLjczMS0yLjkxLDIuMTIySDc3LjYxMXoiLz4KPGc+CiAgPGc+CiAgICA8cGF0aCBmaWxsPSIjMkE3M0NDIiBkPSJNMjkuNTYxLDguMjYxYy0wLjAwNS0wLjExNi0wLjAxMy0wLjIyOS0wLjAyMi0wLjM0NGMwLDAsMC0wLjAwMSwwLTAuMDAyYzAsMCwwLTAuMDAxLDAtMC4wMDIKICAgICAgYy0wLjExLTEuMjQ3LTAuNTIyLTIuNDE0LTEuMjIxLTMuNDY4Yy0wLjMxMi0wLjQ3LTAuNjY5LTAuODk3LTEuMDY4LTEuMjhjLTAuNTgzLTAuNTYxLTEuMjU4LTEuMDI1LTIuMDE5LTEuMzkyCiAgICAgIGMtMS4xNDUtMC41NDctMi40MS0wLjgyMy0zLjc2LTAuODIzYy0wLjEzMiwwLTAuMjcsMC4wMDItMC40MDksMC4wMDdDMjAuMTE0LDEsMTkuMTk3LDEuMTgsMTguMzM1LDEuNDk3CiAgICAgIGMtMC44NjksMC4zMTQtMS42MjYsMC43MjktMi4yNDUsMS4yMjdjLTAuMTI2LDAuMS0wLjI2MywwLjIyMy0wLjQxLDAuMzU4bC0wLjEwNiwwLjEwNEwxNS40MjksMy4zNGgwLjAwMWgwLjAwMWwtMC4wNjgsMC4wNjcKICAgICAgTDE1LjMzLDMuNDQzbC0wLjE3MywwLjE4MmMtMC4xMjgsMC4xNDQtMC4yNSwwLjI4OC0wLjM2NCwwLjQyOWwtMC4wMDEtMC4wMDJsLTAuMDA0LTAuMDA0Yy0wLjIzNywwLjI4OC0wLjQ1NiwwLjU4Ni0wLjYxNywwLjg1NAogICAgICBjLTAuMTA5LDAuMTcyLTAuMjE2LDAuMzQ5LTAuMzE4LDAuNTI2TDEyLjQ0LDguMjg1bDAuMDAyLDAuMDAybC0wLjA3NCwwLjE0NWwtMC4xNTYsMC4zMTZjLTAuMzEsMC42MjctMC42NDIsMS4yNTItMS4wMTMsMS43NjgKICAgICAgYy0wLjgyNywwLjkwNy0xLjc2MiwxLjM1MS0yLjk2NCwxLjM1MWMtMC4wODQsMC0wLjE3LTAuMDA0LTAuMjU4LTAuMDA5Yy0wLjcyNC0wLjAyOS0xLjM0NS0wLjItMS44OTYtMC41MjYKICAgICAgYy0wLjA1OS0wLjAzNS0wLjExNi0wLjA3MS0wLjE3MS0wLjEwOGMtMC40NS0wLjI5OS0wLjc5NS0wLjY4My0xLjA1My0xLjE2MmMtMC4yOTEtMC41NDMtMC40Mi0xLjA5OC0wLjQwMi0xLjY4NgogICAgICBDNC40NTYsOC4zNiw0LjQ1Nyw4LjM0Niw0LjQ1Nyw4LjMzM0M0LjQ5Niw3LjM5Nyw0Ljg1Myw2LjY2OSw1LjU3Miw2LjA0QzUuNzQ3LDUuODg5LDUuOTMsNS43NjEsNi4xMjEsNS42NDcKICAgICAgYzAuMDI3LTAuMDE2LDAuMDU0LTAuMDMxLDAuMDgxLTAuMDQ1YzAuNTM0LTAuMjkxLDEuMTQyLTAuNDM2LDEuODM5LTAuNDM2bDAuMjE3LDAuMDA2QzkuMzY1LDUuMjE0LDEwLjIxOSw1LjU2LDEwLjksNi4yMzUKICAgICAgTDEzLjAzNiwyLjRjLTAuNTExLTAuMzQyLTEuMDg4LTAuNjM2LTEuNzI0LTAuODc1Yy0wLjAyNC0wLjAwOS0wLjA0OS0wLjAxOS0wLjA3NC0wLjAyN2MtMC4wNzYtMC4wMjctMC4xNTEtMC4wNTUtMC4yMjktMC4wOAogICAgICBDMTAuMzMzLDEuMTkyLDkuNjI0LDEuMDUzLDguODk0LDAuOTlsMCwwQzguODc2LDAuOTg3LDguODU2LDAuOTg1LDguODM4LDAuOTgzQzguNzI2LDAuOTc2LDguNjEyLDAuOTYyLDguNSwwLjk1NwogICAgICBDOC4zNzgsMC45NTIsOC4yNTUsMC45NSw4LjEzNSwwLjk0OUg4LjA2NmMtMS4zNDMsMC4wMDUtMi41OTEsMC4yOC0zLjczMiwwLjgyNUMzLjA1NiwyLjM5LDIuMDIsMy4yODcsMS4yNTIsNC40NDMKICAgICAgQzAuNDg2LDUuNTk5LDAuMDY4LDYuODgyLDAuMDA4LDguMjU5QzAuMDAzLDguMzc3LDAsOC40OTQsMCw4LjYwOWMtMC4wMDEsMS45MjYsMC43MDEsMy42MiwyLjA5Nyw1LjA0MgogICAgICBjMS40NTcsMS40OTIsMy4zNTIsMi4yOTYsNS42MjcsMi4zOTFjMC4xNDYsMC4wMDYsMC4yOSwwLjAxLDAuNDM0LDAuMDFjMS4yODcsMCwyLjQ3OC0wLjIyOSwzLjU0Ni0wLjY4NwogICAgICBjMC4yNjctMC4xMTQsMC41MjYtMC4yNDgsMC43OTEtMC4zOTdjMC4xNDQtMC4wODMsMC4yOC0wLjE3MSwwLjQxNS0wLjI2NWwwLjEtMC4wNjdsMC4xNjgtMC4xMTUKICAgICAgYzAuMjAyLTAuMTQ1LDAuMzkxLTAuMzAyLDAuNTc1LTAuNDY5bDAuMDY0LTAuMDYxYzAuMTA4LTAuMTAzLDAuMjE2LTAuMjA3LDAuMzE4LTAuMzE0bDAuMzgzLTAuNDMzbDAuMTQ2LTAuMTgzbDAuMDY4LTAuMQogICAgICBsMC4wNjgtMC4wOThjMC41NjktMC45NTYsMi40MjEtNC40MzUsMi40MjEtNC40MzVWOC40MjFsMC4xMS0wLjIxMmwwLjA5Mi0wLjE2NmMwLjI3My0wLjQ5NywwLjQ3LTAuODUsMC43MzEtMS4yMjFsMC4wMDctMC4wMTEKICAgICAgYzAuNjA5LTAuODgzLDEuNjU2LTEuNTEyLDIuODktMS42MThjMi4wNy0wLjE3OCwzLjg4NCwxLjE4Miw0LjA1MSwzLjAzOGMwLjE2NiwxLjg1Ni0xLjM3OCwzLjUwNS0zLjQ0OCwzLjY4NAogICAgICBjLTAuNDMxLDAuMDM3LTAuODUsMC4wMDgtMS4yNDUtMC4wNzlsLTAuMDEsMC4wMDRjLTEuNTE5LTAuMzE2LTIuNDg2LTEuNDI0LTIuOTYzLTEuOTE5bC0xLjk5MiwzLjY2MwogICAgICBjMCwwLDAuNjE5LDAuNjI0LDEuMDQzLDAuOTM2YzAuNDI1LDAuMzExLDAuOTc0LDAuNjE3LDEuNDEyLDAuODA3YzEuMDYzLDAuNDU0LDIuMjE5LDAuNzI2LDMuNDk2LDAuNzI2CiAgICAgIGMwLjE0OCwwLDAuMTE4LDAsMC4yNzItMC4wMDZjMi4yNzMtMC4wOTUsNC4yOTktMC45NjYsNS43Ni0yLjQ1OGMxLjM4NC0xLjQxNywyLjEzNS0zLjAzNSwyLjE0Mi00Ljk1VjguNTgyCiAgICAgIEMyOS41NjgsOC40NzYsMjkuNTY1LDguMzY5LDI5LjU2MSw4LjI2MXoiLz4KICA8L2c+CjwvZz4KPGc+CiAgPHBhdGggZmlsbD0iIzJBNzNDQyIgZD0iTTM3LjE4MSwxNS42NTdjLTEuMDMzLDAtMS45Ny0wLjEyLTIuODExLTAuMzZjLTAuODQxLTAuMjQtMS41NTktMC42MTktMi4xNTQtMS4xMzkKICAgIGMtMC41OTctMC41Mi0xLjA1Ny0xLjE4Mi0xLjM4MS0xLjk4NXMtMC40ODYtMS43NzEtMC40ODYtMi44OTlWMS43NTloNC43Mjd2Ny40NTVjMCwwLjg0NSwwLjIwMiwxLjQ1NywwLjYwNSwxLjgzOQogICAgYzAuNDA0LDAuMzgzLDAuOTE3LDAuNTc0LDEuNTM5LDAuNTc0YzAuNjM2LDAsMS4xNTItMC4xNzgsMS41NS0wLjUzNWMwLjM5Ni0wLjM1NywwLjU5Ni0wLjk0OSwwLjU5Ni0xLjc4MVYxLjc1OWg0LjcyN3Y3LjQxNgogICAgYzAsMS4xNjgtMC4xNjYsMi4xNjEtMC40OTcsMi45NzhjLTAuMzMxLDAuODE4LTAuNzk4LDEuNDg2LTEuMzk5LDIuMDA2Yy0wLjYwNCwwLjUyLTEuMzMxLDAuODk4LTIuMTg2LDEuMTM5CiAgICBDMzkuMTU2LDE1LjUzNywzOC4yMTMsMTUuNjU3LDM3LjE4MSwxNS42NTd6Ii8+CjwvZz4KPC9zdmc+)
-
-](https://www.coursera.org/)
-========================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
-
-*   [Browse](https://www.coursera.org/browse)
-*   [Top Courses](https://www.coursera.org/courses)
-*   [Log In](https://www.coursera.org/about/privacy?authMode=login)
-*   [Join for Free](https://www.coursera.org/about/privacy?authMode=signup)
-
-List
-
-[
-
-![Coursera](data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE2LjIuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IgogICB3aWR0aD0iMTA4cHgiIGhlaWdodD0iMTdweCIgdmlld0JveD0iMCAwIDEwOCAxNyIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgMTA4IDE3IiB4bWw6c3BhY2U9InByZXNlcnZlIj4KPHBhdGggZmlsbD0iIzJBNzNDQyIgZD0iTTU0LjI4MSw1Ljc3M2MwLjA2Ni0xLjI2OSwwLjUyMS0yLjMwNiwxLjIzMi0zLjExNVYxLjU4aC0wLjk0NWMtMS45MSwwLTMuNTI3LDAuNzMyLTQuNDY3LDIuMzg2aC0wLjA1NQogIFYxLjc2MmgtNC44OTl2MTMuNDQxaDQuOVY5Ljc3N2MwLTIuMzAzLDAuNjc0LTQuMDU5LDMuMzkzLTQuMDU5QzUzLjczNiw1LjcyLDU0LjAxMyw1LjczNyw1NC4yODEsNS43NzN6Ii8+CjxwYXRoIGZpbGw9IiMyQTczQ0MiIGQ9Ik05MS4zOCw1LjcyNGMwLjQwNy0xLjE4OCwxLjA2Ny0yLjI0NiwxLjkyNS0zLjA5NXYtMS4wNWgtMC45NDNjLTEuOTExLDAtMy41MjYsMC43MzItNC40NzEsMi4zODVoLTAuMDUzCiAgVjEuNzYyaC00LjkwMnYxMy40NDFoNC45MDJWOS43NzdjMC0yLjMwMywwLjY3Ni00LjA1OSwzLjM5NS00LjA1OUw5MS4zOCw1LjcyNHoiLz4KPHBhdGggZmlsbD0iIzJBNzNDQyIgZD0iTTY0LjIzMiw1LjIyYy0wLjc1Ni0wLjM5My0xLjgwOC0wLjY1NS0yLjY0NS0wLjY1NWMtMC41NjIsMC0xLjUzMywwLjIzNC0xLjUzMywwLjkxNwogIGMwLDAuOTE4LDEuNTMzLDEuMDQ4LDIuMjExLDEuMTgyYzIuMjg0LDAuNDQ0LDQuMDEyLDEuNDkzLDQuMDEyLDMuOTc5YzAsMy41MzYtMy4zMTMsNS4wMDgtNi41Miw1LjAwOAogIGMtMS45NjcsMC0zLjkwMi0wLjU1MS01LjU3NC0xLjU0N2wxLjc3Ny0zLjMzYzAuOTk1LDAuNjg0LDIuNjY1LDEuMzYzLDMuODc3LDEuMzYzYzAuNjIsMCwxLjUzNS0wLjI4NywxLjUzNS0xLjAyMQogIGMwLTEuMDQ4LTEuNTM1LTEuMTAzLTMuMDcyLTEuNDk1Yy0xLjUzMy0wLjM5My0zLjA2Ni0xLjEyNS0zLjA2Ni0zLjUzNmMwLTMuMzAyLDMuMDY2LTQuNzY3LDYuMDg4LTQuNzY3CiAgYzEuNTYyLDAsMy4xMjUsMC4yMzUsNC41NDksMC44NjRMNjQuMjMyLDUuMjJ6Ii8+CjxwYXRoIGZpbGw9IiMyQTczQ0MiIGQ9Ik0xMDgsMTUuMjAzaC00Ljl2LTEuNDk1aC0wLjA1NGMtMC44NjIsMS4zMzYtMi41NjIsMS45MzgtNC4xNzUsMS45MzhjLTQuMDk2LDAtNi45NzUtMy4zMjgtNi45NzUtNy4xOAogIGMwLTMuODQ4LDIuODI4LTcuMTUxLDYuOTItNy4xNTFjMS41ODgsMCwzLjI2LDAuNTc2LDQuMjgzLDEuNzU0VjEuNzYyaDQuODk5TDEwOCwxNS4yMDNMMTA4LDE1LjIwM3ogTTk2Ljk1OSw4LjQ5NQogIGMwLDEuNzAyLDEuMTYsMy4wMTIsMy4xNSwzLjAxMmMxLjk5MiwwLDMuMTQ3LTEuMzA4LDMuMTQ3LTMuMDEyYzAtMS42NTEtMS4xNTUtMy4wMzktMy4xNDctMy4wMzkKICBDOTguMTE5LDUuNDU3LDk2Ljk1OSw2Ljg0NCw5Ni45NTksOC40OTV6Ii8+CjxwYXRoIGZpbGw9IiMyQTczQ0MiIGQ9Ik04Mi4xNjMsOS4yODNINzEuODQ2YzAsMS45MzcsMS4wNTMsMi45ODQsMy4wNzIsMi45ODRjMS4wNSwwLDEuODAzLTAuMzM5LDIuMzQzLTEuMjMxaDQuNzE0CiAgYy0wLjc4MSwzLjE3MS0zLjg3OSw0LjYxMi03LjAyOSw0LjYxMmMtNC41NzUsMC03Ljk5NS0yLjUxNy03Ljk5NS03LjE1MmMwLTQuNDgsMy4xNDctNy4xNzgsNy42NDQtNy4xNzgKICBjNC43OTMsMCw3LjU3LDIuODgzLDcuNTcsNy40NjZMODIuMTYzLDkuMjgzTDgyLjE2Myw5LjI4M3ogTTc3LjYxMSw2LjUzYy0wLjI0My0xLjI4NC0xLjQ1NS0yLjEyMi0yLjc3My0yLjEyMgogIGMtMS40MjksMC0yLjYwOSwwLjczMS0yLjkxLDIuMTIySDc3LjYxMXoiLz4KPGc+CiAgPGc+CiAgICA8cGF0aCBmaWxsPSIjMkE3M0NDIiBkPSJNMjkuNTYxLDguMjYxYy0wLjAwNS0wLjExNi0wLjAxMy0wLjIyOS0wLjAyMi0wLjM0NGMwLDAsMC0wLjAwMSwwLTAuMDAyYzAsMCwwLTAuMDAxLDAtMC4wMDIKICAgICAgYy0wLjExLTEuMjQ3LTAuNTIyLTIuNDE0LTEuMjIxLTMuNDY4Yy0wLjMxMi0wLjQ3LTAuNjY5LTAuODk3LTEuMDY4LTEuMjhjLTAuNTgzLTAuNTYxLTEuMjU4LTEuMDI1LTIuMDE5LTEuMzkyCiAgICAgIGMtMS4xNDUtMC41NDctMi40MS0wLjgyMy0zLjc2LTAuODIzYy0wLjEzMiwwLTAuMjcsMC4wMDItMC40MDksMC4wMDdDMjAuMTE0LDEsMTkuMTk3LDEuMTgsMTguMzM1LDEuNDk3CiAgICAgIGMtMC44NjksMC4zMTQtMS42MjYsMC43MjktMi4yNDUsMS4yMjdjLTAuMTI2LDAuMS0wLjI2MywwLjIyMy0wLjQxLDAuMzU4bC0wLjEwNiwwLjEwNEwxNS40MjksMy4zNGgwLjAwMWgwLjAwMWwtMC4wNjgsMC4wNjcKICAgICAgTDE1LjMzLDMuNDQzbC0wLjE3MywwLjE4MmMtMC4xMjgsMC4xNDQtMC4yNSwwLjI4OC0wLjM2NCwwLjQyOWwtMC4wMDEtMC4wMDJsLTAuMDA0LTAuMDA0Yy0wLjIzNywwLjI4OC0wLjQ1NiwwLjU4Ni0wLjYxNywwLjg1NAogICAgICBjLTAuMTA5LDAuMTcyLTAuMjE2LDAuMzQ5LTAuMzE4LDAuNTI2TDEyLjQ0LDguMjg1bDAuMDAyLDAuMDAybC0wLjA3NCwwLjE0NWwtMC4xNTYsMC4zMTZjLTAuMzEsMC42MjctMC42NDIsMS4yNTItMS4wMTMsMS43NjgKICAgICAgYy0wLjgyNywwLjkwNy0xLjc2MiwxLjM1MS0yLjk2NCwxLjM1MWMtMC4wODQsMC0wLjE3LTAuMDA0LTAuMjU4LTAuMDA5Yy0wLjcyNC0wLjAyOS0xLjM0NS0wLjItMS44OTYtMC41MjYKICAgICAgYy0wLjA1OS0wLjAzNS0wLjExNi0wLjA3MS0wLjE3MS0wLjEwOGMtMC40NS0wLjI5OS0wLjc5NS0wLjY4My0xLjA1My0xLjE2MmMtMC4yOTEtMC41NDMtMC40Mi0xLjA5OC0wLjQwMi0xLjY4NgogICAgICBDNC40NTYsOC4zNiw0LjQ1Nyw4LjM0Niw0LjQ1Nyw4LjMzM0M0LjQ5Niw3LjM5Nyw0Ljg1Myw2LjY2OSw1LjU3Miw2LjA0QzUuNzQ3LDUuODg5LDUuOTMsNS43NjEsNi4xMjEsNS42NDcKICAgICAgYzAuMDI3LTAuMDE2LDAuMDU0LTAuMDMxLDAuMDgxLTAuMDQ1YzAuNTM0LTAuMjkxLDEuMTQyLTAuNDM2LDEuODM5LTAuNDM2bDAuMjE3LDAuMDA2QzkuMzY1LDUuMjE0LDEwLjIxOSw1LjU2LDEwLjksNi4yMzUKICAgICAgTDEzLjAzNiwyLjRjLTAuNTExLTAuMzQyLTEuMDg4LTAuNjM2LTEuNzI0LTAuODc1Yy0wLjAyNC0wLjAwOS0wLjA0OS0wLjAxOS0wLjA3NC0wLjAyN2MtMC4wNzYtMC4wMjctMC4xNTEtMC4wNTUtMC4yMjktMC4wOAogICAgICBDMTAuMzMzLDEuMTkyLDkuNjI0LDEuMDUzLDguODk0LDAuOTlsMCwwQzguODc2LDAuOTg3LDguODU2LDAuOTg1LDguODM4LDAuOTgzQzguNzI2LDAuOTc2LDguNjEyLDAuOTYyLDguNSwwLjk1NwogICAgICBDOC4zNzgsMC45NTIsOC4yNTUsMC45NSw4LjEzNSwwLjk0OUg4LjA2NmMtMS4zNDMsMC4wMDUtMi41OTEsMC4yOC0zLjczMiwwLjgyNUMzLjA1NiwyLjM5LDIuMDIsMy4yODcsMS4yNTIsNC40NDMKICAgICAgQzAuNDg2LDUuNTk5LDAuMDY4LDYuODgyLDAuMDA4LDguMjU5QzAuMDAzLDguMzc3LDAsOC40OTQsMCw4LjYwOWMtMC4wMDEsMS45MjYsMC43MDEsMy42MiwyLjA5Nyw1LjA0MgogICAgICBjMS40NTcsMS40OTIsMy4zNTIsMi4yOTYsNS42MjcsMi4zOTFjMC4xNDYsMC4wMDYsMC4yOSwwLjAxLDAuNDM0LDAuMDFjMS4yODcsMCwyLjQ3OC0wLjIyOSwzLjU0Ni0wLjY4NwogICAgICBjMC4yNjctMC4xMTQsMC41MjYtMC4yNDgsMC43OTEtMC4zOTdjMC4xNDQtMC4wODMsMC4yOC0wLjE3MSwwLjQxNS0wLjI2NWwwLjEtMC4wNjdsMC4xNjgtMC4xMTUKICAgICAgYzAuMjAyLTAuMTQ1LDAuMzkxLTAuMzAyLDAuNTc1LTAuNDY5bDAuMDY0LTAuMDYxYzAuMTA4LTAuMTAzLDAuMjE2LTAuMjA3LDAuMzE4LTAuMzE0bDAuMzgzLTAuNDMzbDAuMTQ2LTAuMTgzbDAuMDY4LTAuMQogICAgICBsMC4wNjgtMC4wOThjMC41NjktMC45NTYsMi40MjEtNC40MzUsMi40MjEtNC40MzVWOC40MjFsMC4xMS0wLjIxMmwwLjA5Mi0wLjE2NmMwLjI3My0wLjQ5NywwLjQ3LTAuODUsMC43MzEtMS4yMjFsMC4wMDctMC4wMTEKICAgICAgYzAuNjA5LTAuODgzLDEuNjU2LTEuNTEyLDIuODktMS42MThjMi4wNy0wLjE3OCwzLjg4NCwxLjE4Miw0LjA1MSwzLjAzOGMwLjE2NiwxLjg1Ni0xLjM3OCwzLjUwNS0zLjQ0OCwzLjY4NAogICAgICBjLTAuNDMxLDAuMDM3LTAuODUsMC4wMDgtMS4yNDUtMC4wNzlsLTAuMDEsMC4wMDRjLTEuNTE5LTAuMzE2LTIuNDg2LTEuNDI0LTIuOTYzLTEuOTE5bC0xLjk5MiwzLjY2MwogICAgICBjMCwwLDAuNjE5LDAuNjI0LDEuMDQzLDAuOTM2YzAuNDI1LDAuMzExLDAuOTc0LDAuNjE3LDEuNDEyLDAuODA3YzEuMDYzLDAuNDU0LDIuMjE5LDAuNzI2LDMuNDk2LDAuNzI2CiAgICAgIGMwLjE0OCwwLDAuMTE4LDAsMC4yNzItMC4wMDZjMi4yNzMtMC4wOTUsNC4yOTktMC45NjYsNS43Ni0yLjQ1OGMxLjM4NC0xLjQxNywyLjEzNS0zLjAzNSwyLjE0Mi00Ljk1VjguNTgyCiAgICAgIEMyOS41NjgsOC40NzYsMjkuNTY1LDguMzY5LDI5LjU2MSw4LjI2MXoiLz4KICA8L2c+CjwvZz4KPGc+CiAgPHBhdGggZmlsbD0iIzJBNzNDQyIgZD0iTTM3LjE4MSwxNS42NTdjLTEuMDMzLDAtMS45Ny0wLjEyLTIuODExLTAuMzZjLTAuODQxLTAuMjQtMS41NTktMC42MTktMi4xNTQtMS4xMzkKICAgIGMtMC41OTctMC41Mi0xLjA1Ny0xLjE4Mi0xLjM4MS0xLjk4NXMtMC40ODYtMS43NzEtMC40ODYtMi44OTlWMS43NTloNC43Mjd2Ny40NTVjMCwwLjg0NSwwLjIwMiwxLjQ1NywwLjYwNSwxLjgzOQogICAgYzAuNDA0LDAuMzgzLDAuOTE3LDAuNTc0LDEuNTM5LDAuNTc0YzAuNjM2LDAsMS4xNTItMC4xNzgsMS41NS0wLjUzNWMwLjM5Ni0wLjM1NywwLjU5Ni0wLjk0OSwwLjU5Ni0xLjc4MVYxLjc1OWg0LjcyN3Y3LjQxNgogICAgYzAsMS4xNjgtMC4xNjYsMi4xNjEtMC40OTcsMi45NzhjLTAuMzMxLDAuODE4LTAuNzk4LDEuNDg2LTEuMzk5LDIuMDA2Yy0wLjYwNCwwLjUyLTEuMzMxLDAuODk4LTIuMTg2LDEuMTM5CiAgICBDMzkuMTU2LDE1LjUzNywzOC4yMTMsMTUuNjU3LDM3LjE4MSwxNS42NTd6Ii8+CjwvZz4KPC9zdmc+)
-
-](https://www.coursera.org/)
-
-[Privacy Notice](https://www.coursera.org/about/privacy)[CCPA Notice](https://www.coursera.org/about/privacy/ccpa)[Data Protection Addendum](https://www.coursera.org/about/privacy/data-protection-addendum)[Cookies Policy](https://www.coursera.org/about/cookies)[Terms of Use](https://www.coursera.org/about/terms)
-
 * * *
 
 Privacy Notice
@@ -32,27 +10,7 @@ _Effective: January 1, 2020._
 Key Information
 ---------------
 
-*   Coursera, Inc. is the data controller of your personal information.
-*   We collect the personal information set out in the "What Information We Collect" section of this Privacy Notice below, including account registration details such as name and email, details of Content Offerings you undertake, survey information (where you provide it), identity verification data, and information about your use of our site and Services.
-*   We use your personal information for the purposes set out in the "How We Use the Information" section of this Privacy Notice below, including providing our site and Services to you, ensuring the security and performance of our site, conducting research relating to Content Offerings, sharing information with our Content Providers and our suppliers, direct marketing, and performing statistical analysis of the use of our site and Services.
-*   You have a number of rights that you can exercise in relation to our use of your personal information, as set out in the "Updating or Deleting Your Personally Identifiable Information" section of this Privacy Notice below.
-
 You can find information about us and how we collect, use and store your personal data in each section of this Privacy Notice:
-
-*   [Purpose and who we are](#purpose-and-who-we-are-privacy-notice)
-*   [What Information this Privacy Notice Covers](#what-information-this-privacy-notice-covers-privacy-notice)
-*   [What You Agree to by Using Our Site](#what-you-agree-to-by-using-our-site-privacy-notice)
-*   [What Information We Collect](#what-information-we-collect-privacy-notice)
-*   [How We Use the Information](#how-we-use-the-information-privacy-notice)
-*   [External Links](#external-links-privacy-notice)
-*   [Retention of Personally Identifiable Information](#retention-of-personally-identifiable-information-privacy-notice)
-*   [Confidentiality & Security of Personally Identifiable Information](#confidentiality-security-of-personally-identifiable-information-privacy-notice)
-*   [Updating or Deleting Your Personally Identifiable Information](#updating-or-deleting-your-personally-identifiable-information-privacy-notice)
-*   [Questions, Suggestions and Complaints](#questions-suggestions-and-complaints-privacy-notice)
-*   [California Privacy Rights](#california-privacy-rights-privacy-notice)
-*   [International Privacy Practices](#international-privacy-practices-privacy-notice)
-*   [Changing Our Privacy Notice](#changing-our-privacy-notice-privacy-notice)
-*   [No Information from Children Under 13](#no-information-from-children-under-13-privacy-notice)
 
 Purpose and who we are
 ----------------------
@@ -71,18 +29,6 @@ What You Agree to by Using Our Site
 
 We consider that the legal bases for using your personal information as set out in this Privacy Notice are as follows:
 
-*   our use of your personal information is necessary to perform our obligations under any contract with you (for example, to comply with the Terms of Use of our Site which you accept by browsing our website and/or to comply with our contract to provide Services to you); or
-*   our use of your personal information is necessary for complying with our legal obligations; or
-*   use of your personal information is necessary for our legitimate interests or the legitimate interests of others. Our legitimate interests are to:
-    *   run, grow and develop our business;
-    *   operate our Site and provide our Services;
-    *   select appropriately skilled and qualified suppliers;
-    *   build relationships with partners and academic institutions;
-    *   carry out research and statistical analysis;
-    *   carry out marketing and business development; and
-    *   for internal administrative and auditing purposes.
-*   consent, to send you certain communications or where you submit certain information to us.
-
 Which legal basis applies to a specific processing activity will depend on the type of personal information processed and the context in which it is processed.
 
 If we rely on our (or another person's) legitimate interests for using your personal information, we will undertake a balancing test to ensure that our (or the other person's) legitimate interests are not outweighed by your interests or fundamental rights and freedoms which require protection of the personal information.
@@ -99,13 +45,6 @@ We gather two types of information about users through the Site:
 1.  **Information relating to your use of our Site.** When users come to our Site, we may track, collect, and aggregate information indicating, among other things, which pages of our Site were visited, the order in which they were visited, when they were visited, and which hyperlinks were clicked. We also collect information from the URLs from which you linked to our Site. Collecting such information may involve logging the IP address, operating system and browser software used by each user of the Site. We may be able to determine from an IP address a user’s Internet Service Provider and the geographic location of his or her point of connectivity. We also use (or may use) cookies and web beacons when you visit our Site. For more information on our use of cookies and web beacons, please refer to our Cookie Policy.
     
 2.  **Personally Identifiable Information provided directly by you or via third parties.** We collect Personally Identifiable Information that you provide to us when you register for an account, update or change information for your account, purchase products or Services, complete a survey, sign-up for email updates, participate in our public forums, send us email messages, and/or participate in Content Offerings or other Services on our Site. We may use the Personally Identifiable Information that you provide to respond to your questions, provide you the specific Content Offering and/or Services you select, send you updates about Content Offerings or other Coursera events, and send you email messages about Site maintenance or updates.
-
-*   Account Registration. If you register for an account on our Site, you may be required to provide us with Personally Identifiable Information such as your name and email address.
-    
-*   Updates. Coursera may offer you the ability to receive updates either via email or by posting on portions of the Site only accessible to registered users. In order to subscribe to these Services, you may be required to provide us with Personally Identifiable Information such as your name and email address.
-    
-*   Forums. Coursera may offer public forums from time to time (the "Forums") where you can share comments and thoughts. In order to participate in the Forums, you may be required to register with us and/or provide us with Personally Identifiable Information such as your name and email address. Please keep in mind that information you post or make available in Forums will be publicly available. You should not include any Personally Identifiable Information or other information of a personal or sensitive nature, whether relating to you or another person, in a Forum post. Please also reference our Terms of Use and our Code of Conduct and additional information about proper use of our Forums.
-*   Participation in Content Offerings. Coursera offers users the opportunity to participate in an Content Offerings on or through the Site. If you desire to participate in a Content Offering, you will be asked to provide us with certain information necessary to conduct such a Content Offering. This information may include, among other things, your name and email address.
 
 If you participate in a Content Offering, we may collect from you certain student-generated content, such as assignments you submit to instructors, peer-graded assignments, and peer grading student feedback. We also collect course data, such as student responses to in-video quizzes, standalone quizzes, exams, and surveys. You should not include any Personally Identifiable Information or other information of a personal or sensitive nature, whether relating to you or another person, on assignments, exams, or surveys, except for information required to participate or submit such assignments, exams, or surveys.
 
@@ -126,32 +65,6 @@ How We Use the Information
 
 1.  **Information relating to your use of our Site.** We use information relating to your use of the Site to build higher quality, more useful Services by performing statistical analyses of the collective characteristics and behavior of our users, and by measuring demographics and interests regarding specific areas of our Site. We may also use this information to ensure the security of our Services and the Site.
 2.  **Personally Identifiable Information provided directly by you or via third parties.** Except as set forth in this Privacy Notice or as specifically agreed to by you, Coursera will not disclose any of your Personally Identifiable Information. In addition to the other uses set forth in this Privacy Notice, we may disclose and otherwise use Personally Identifiable Information as described below.
-
-*   Providing the Site and our Services. We use Personally Identifiable Information which you provide to us in order to allow you to access and use the Site and in order to provide any information, products, or Services that you request from us.
-    
-*   Technical support and security. We may use Personally Identifiable Information to provide technical support to you, where required, and to ensure the security of our Services and the Site.
-    
-*   Updates. We use Personally Identifiable Information collected when you sign-up for our various email or update services to send you the messages in connection with the Site or Content Offerings. We may also archive this information and/or use it for future communications with you, where we are legally entitled to do so.
-    
-*   Forums. You should not post any Personally Identifiable Information or other information of a personal or sensitive nature, whether relating to you or another person, within a Forum post. If you choose to post Personally Identifiable Information, such Personally Identifiable Information may be collected during your use of the Forums. We may publish this information via extensions of our Platform that use third-party services, like mobile applications. We reserve the right to reuse Forum posts that contain Personally Identifiable Information in future versions of the Content Offerings, and to enhance future Content Offerings. We may archive this information and/or use it for future communications with you and/or your designee(s), and/or provide it to the Content Provider, business partner, or the instructor(s) associated with the courses you have taken. We may also use or publish posts submitted on the Forums without using Personally Identification Information.
-    
-*   Participation in Content Offerings. We use the Personally Identifiable Information that we collect from you when you participate in a Content Offering through the Site for processing purposes, including but not limited to tracking attendance, progress, and completion of the Content Offerings. We may also share your Personally Identifiable Information and your performance in a given Content Offering with the instructor or instructors who taught it, with teaching assistants or other individuals designated by the instructor or instructors to assist with the creation, modification, or operation of the Content Offering, and with the Content Provider(s) with which they are affiliated. We may also use the information generated when taking a Content Offering or using the Services for predictive analysis of your performance in the Content Offerings. Also, we may archive this information and/or use it for future communications with you, where we are legally entitled to do so.
-    
-*   Identity Verification. For Services that require identity verification, we may use the Personally Identifiable Information that we collect for verifying your identity, and for authenticating that submissions made on the Site were made by you. This Service may be provided through a third-party identity verification vendor. Your photo identification document will be deleted after successful verification of your profile information.
-    
-*   Communications with or from Coursera. When you send us an email message or otherwise contact us, we may use the information provided by you to respond to your communication and/or as described in this Privacy Notice. We may also archive this information and/or use it for future communications with you where we are legally entitled to do so. Where we send you emails, we may track the way that you interact with these emails (such as when you open an email or click on a link inside an email). We use this information for the purposes of optimizing and better tailoring our communications to you.
-    
-*   Communications with Coursera Business Partners. We may share your Personally Identifiable Information with Content Providers and other business partners of Coursera so that Content Providers and other business partners may share information about their products and services that may be of interest to you where they are legally entitled to do so.
-    
-*   Research. We may share general course data (including quiz or assignment submissions, grades, and forum discussions), information about your activity on our Site, and demographic data from surveys operated by us with our Content Providers and other business partners so that our Content Providers and other business partners may use the data for research related to online education.
-    
-*   Disclosure to Coursera Operations and Maintenance Contractors. We use various service providers, vendors and contractors (collectively, "Contractors") to assist us in providing our Services to you. Our Contractors may have limited access to your Personally Identifiable Information in the course of providing their products or services to us, so that we in turn can provide our Services to you. These Contractors may include vendors and suppliers that provide us with technology, services, and/or content related to the operation and maintenance of the Site or the Content Offerings. Access to your Personally Identifiable Information by these Contractors is limited to the information reasonably necessary for the Contractor to perform its limited function for us.
-    
-*   Government Authorities; Legal Rights and Actions. Coursera may share your Personally Identifiable Information with various government authorities in response to subpoenas, court orders, or other legal process; to establish or exercise our legal rights or to protect our property; to defend against legal claims; or as otherwise required by law. In such cases we reserve the right to raise or waive any legal objection or right available to us. We also may share your Personally Identifiable Information when we believe it is appropriate to investigate, prevent, or take action regarding illegal or suspected illegal activities; to protect and defend the rights, property, or safety of Coursera, the Site, our users, customers, or others; and in connection with our Terms of Use and other agreements.
-    
-*   Disclosure to Acquirers. Coursera may disclose and/or transfer your Personally Identifiable Information to an acquirer, assignee or other successor entity in connection with a sale, merger, or reorganization of all or substantially all of the equity, business, or assets of Coursera to which your Personally Identifiable Information relates.
-    
-*   e-Readers. If we receive any Personally Identifiable Information related to the extent to which you use designated e-Readers to access Coursera materials, we may archive it, and use it for research, business, or other purposes.
 
 External Links
 --------------
@@ -174,14 +87,6 @@ Updating or Deleting Your Personally Identifiable Information
 You have certain rights in relation to your Personally Identifiable Information. You can access your Personally Identifiable Information and confirm that it remains correct and up-to-date, choose whether or not you wish to receive material from us or some of our partners, and request that we delete or provide you with a copy of your personal data by logging into the Site and visiting your user account page.
 
 If you would like further information in relation to your rights or would like to exercise any of them, you may also contact us via [privacy@coursera.org](mailto:privacy@coursera.org). If you reside or are located in the EEA, you have the right to request that we:
-
-*   provide access to any Personally Identifiable Information we hold about you;
-*   prevent the processing of your Personally Identifiable Information for direct-marketing purposes;
-*   update any Personally Identifiable Information which is out of date or incorrect;
-*   delete any Personally Identifiable Information which we are holding about you;
-*   restrict the way that we process your Personally Identifiable Information;
-*   provide your Personally Identifiable Information to a third party provider of services; or
-*   provide you with a copy of any Personally Identifiable Information which we hold about you. We try to answer every email promptly where possible, and provide our response within the time period stated by applicable law. Keep in mind, however, that there will be residual information that will remain within our databases, access logs, and other records, which may or may not contain your Personally Identifiable Information. Please also note that certain Personally Identifiable Information may be exempt from such requests in certain circumstances, which may include if we need to keep processing your Personally Identifiable Information to comply with a legal obligation. When you email us with a request, we may ask that you provide us with information necessary to confirm your identity.
 
 Questions, Suggestions, and Complaints
 --------------------------------------
@@ -274,12 +179,6 @@ The details of the transfer (as well as the personal data covered) are specified
 ### Obligations of the data exporter
 
 The data exporter warrants and undertakes that:
-
-*   The personal data have been collected, processed and transferred in accordance with the laws applicable to the data exporter.
-*   It has used reasonable efforts to determine that the data importer is able to satisfy its legal obligations under these clauses.
-*   It will provide the data importer, when so requested, with copies of relevant data protection laws or references to them (where relevant, and not including legal advice) of the country in which the data exporter is established.
-*   It will respond to enquiries from data subjects and the authority concerning processing of the personal data by the data importer, unless the parties have agreed that the data importer will so respond, in which case the data exporter will still respond to the extent reasonably possible and with the information reasonably available to it if the data importer is unwilling or unable to respond. Responses will be made within a reasonable time.
-*   It will make available, upon request, a copy of the clauses to data subjects who are third party beneficiaries under clause III, unless the clauses contain confidential information, in which case it may remove such information. Where information is removed, the data exporter shall inform data subjects in writing of the reason for removal and of their right to draw the removal to the attention of the authority. However, the data exporter shall abide by a decision of the authority regarding access to the full text of the clauses by data subjects, as long as data subjects have agreed to respect the confidentiality of the confidential information removed. The data exporter shall also provide a copy of the clauses to the authority where required.
 
 ### Clause II
 
@@ -441,157 +340,3 @@ Revisions
 * * *
 
 Below is a list of all the revisions made to our Privacy Policies, with links to view the difference between each revision.
-
-*   2020-08-28: Added Standard Contractual Clauses
-*   [2019-12-20: Updated to incorporate CCPA and increase transparency of data handling practices.](https://www.diffchecker.com/scEvtqHA)
-*   [2019-03-19: Updated to include EU Representative contact info](https://www.diffchecker.com/NHzlNDxU)
-*   [2018-12-11: Updated contact ICDR link](https://www.diffchecker.com/633RrCzZ)
-*   [2018-07-11: Updated for clarification on grounds for data processing.](https://www.diffchecker.com/wggMc4wJ)
-*   [2018-05-16: Added table of contents and summary. Clarified sections on data processing bases and communications](https://www.diffchecker.com/UR43Ilsv)
-*   [2018-03-16: Updated for GDPR and removed outdated Swiss Safe Harbor Policy](https://www.diffchecker.com/dvdXWWJU)
-*   [2017-06-28: Updated Privacy Shield Policy](https://www.diffchecker.com/NcyXrhIL)
-*   [2016-09-29: New Privacy Shield Policy/Revised Safe Harbor Policy](https://www.diffchecker.com/Ri4FAl5U)
-*   [2015-11-04: Update privacy policy to show updated email address for privacy related questions.](https://www.diffchecker.com/09bcgxiv)
-*   2014-01-02: Initial revision
-
-Coursera Footer
----------------
-
-### Top Online Courses
-
-*   [Finding Purpose & Meaning in Life](https://www.coursera.org/learn/finding-purpose-and-meaning-in-life)
-*   [Understanding Medical Research](https://www.coursera.org/learn/medical-research)
-*   [Japanese for Beginners](https://www.coursera.org/learn/japanese-1)
-*   [Introduction to Cloud Computing](https://www.coursera.org/learn/introduction-to-cloud)
-*   [Foundations of Mindfulness](https://www.coursera.org/learn/foundations-of-mindfulness)
-*   [Fundamentals of Finance](https://www.coursera.org/learn/finance-fundamentals)
-*   [Machine Learning](https://www.coursera.org/learn/machine-learning)
-*   [Machine Learning Using Sas Viya](https://www.coursera.org/learn/machine-learning-sas)
-*   [The Science of Well Being](https://www.coursera.org/learn/the-science-of-well-being)
-*   [Covid-19 Contact Tracing](https://www.coursera.org/learn/covid-19-contact-tracing)
-*   [AI for Everyone](https://www.coursera.org/learn/ai-for-everyone)
-*   [Financial Markets](https://www.coursera.org/learn/financial-markets-global)
-*   [Introduction to Psychology](https://www.coursera.org/learn/introduction-psychology)
-*   [Getting Started with AWS](https://www.coursera.org/learn/aws-machine-learning)
-*   [International Marketing](https://www.coursera.org/specializations/international-marketing)
-*   [C++](https://www.coursera.org/learn/c-plus-plus-a)
-*   [Predictive Analytics & Data Mining](https://www.coursera.org/learn/predictive-analytics-data-mining)
-*   [UCSD Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
-*   [Michigan Programming for Everybody](https://www.coursera.org/learn/python)
-*   [JHU R Programming](https://www.coursera.org/learn/r-programming)
-*   [Google CBRS CPI Training](https://www.coursera.org/learn/google-cbrs-cpi-training)
-
-### Top Online Specializations
-
-*   [Natural Language Processing (NLP)](https://www.coursera.org/specializations/natural-language-processing)
-*   [AI for Medicine](https://www.coursera.org/specializations/ai-for-medicine)
-*   [Good with Words: Writing & Editing](https://www.coursera.org/specializations/good-with-words)
-*   [Infections Disease Modeling](https://www.coursera.org/specializations/infectious-disease-modelling)
-*   [The Pronounciation of American English](https://www.coursera.org/specializations/american-english-pronunciation)
-*   [Software Testing Automation](https://www.coursera.org/specializations/software-testing-automation)
-*   [Deep Learning](https://www.coursera.org/specializations/deep-learning)
-*   [Python for Everybody](https://www.coursera.org/specializations/python)
-*   [Data Science](https://www.coursera.org/specializations/jhu-data-science)
-*   [Business Foundations](https://www.coursera.org/specializations/wharton-business-foundations)
-*   [Excel Skills for Business](https://www.coursera.org/specializations/excel)
-*   [Data Science with Python](https://www.coursera.org/specializations/data-science-python)
-*   [Finance for Everyone](https://www.coursera.org/specializations/finance-for-everyone)
-*   [Communication Skills for Engineers](https://www.coursera.org/specializations/leadership-communication-engineers)
-*   [Sales Training](https://www.coursera.org/specializations/sales-training-high-performing-teams)
-*   [Career Brand Management](https://www.coursera.org/specializations/career-brand-management)
-*   [Wharton Business Analytics](https://www.coursera.org/specializations/business-analytics)
-*   [Penn Positive Psychology](https://www.coursera.org/specializations/positivepsychology)
-*   [Washington Machine Learning](https://www.coursera.org/specializations/machine-learning)
-*   [CalArts Graphic Design](https://www.coursera.org/specializations/graphic-design)
-
-### Online Certificates
-
-*   [Professional Certificates](https://www.coursera.org/professional-certificates)
-*   [MasterTrack Certificates](https://www.coursera.org/mastertrack)
-*   [Google IT Support](https://www.coursera.org/professional-certificates/google-it-support)
-*   [IBM Data Science](https://www.coursera.org/professional-certificates/ibm-data-science)
-*   [Google Cloud Data Engineering](https://www.coursera.org/professional-certificates/gcp-data-engineering)
-*   [IBM Applied AI](https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai)
-*   [Google Cloud Architecture](https://www.coursera.org/professional-certificates/gcp-cloud-architect)
-*   [IBM Cybersecurity Analyst](https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst)
-*   [Google IT Automation with Python](https://www.coursera.org/professional-certificates/google-it-automation)
-*   [IBM z/OS Mainframe Practitioner](https://www.coursera.org/professional-certificates/ibm-z-mainframe)
-*   [UCI Applied Project Management](https://www.coursera.org/professional-certificate/applied-project-management)
-*   [Instructional Design Certificate](https://www.coursera.org/mastertrack/instructional-design-illinois)
-*   [Construction Engineering and Management Certificate](https://www.coursera.org/mastertrack/construction-engineering-management-umich)
-*   [Big Data Certificate](https://www.coursera.org/mastertrack/big-data-asu)
-*   [Machine Learning for Analytics Certificate](https://www.coursera.org/mastertrack/machine-learning-analytics-chicago)
-*   [Innovation Management & Entrepreneurship Certificate](https://www.coursera.org/mastertrack/innovation-management-entrepreneurship-hec)
-*   [Sustainabaility and Development Certificate](https://www.coursera.org/mastertrack/sustainability-development-umich)
-*   [Social Work Certificate](https://www.coursera.org/mastertrack/social-work-umich)
-*   [AI and Machine Learning Certificate](https://www.coursera.org/mastertrack/ai-machine-learning-asu)
-*   [Spatial Data Analysis and Visualization Certificate](https://www.coursera.org/mastertrack/spatial-data-analysis-visualization-ucdavis)
-
-### Online Degree Programs
-
-*   [Computer Science Degrees](https://www.coursera.org/degrees/computer-science)
-*   [Business Degrees](https://www.coursera.org/degrees/business)
-*   [Public Health Degrees](https://www.coursera.org/degrees/public-health)
-*   [Data Science Degrees](https://www.coursera.org/degrees/data-science)
-*   [Bachelor's Degrees](https://www.coursera.org/collections/bachelors-degrees)
-*   [Bachelor of Computer Science](https://www.coursera.org/degrees/bachelor-of-science-computer-science-london)
-*   [MS Electrical Engineering](https://www.coursera.org/degrees/msee-boulder)
-*   [Bachelor Completion Degree](https://www.coursera.org/degrees/unt-online-bachelor-completion)
-*   [MS Management](https://www.coursera.org/degrees/ms-management-illinois)
-*   [MS Computer Science](https://www.coursera.org/degrees/master-of-computer-science-asu)
-*   [MPH](https://www.coursera.org/degrees/global-mph-imperial)
-*   [Accounting Master's Degree](https://www.coursera.org/degrees/imsa)
-*   [MCIT](https://www.coursera.org/degrees/mcit-penn)
-*   [MBA Online](https://www.coursera.org/degrees/imba)
-*   [Master of Applied Data Science](https://www.coursera.org/degrees/master-of-applied-data-science-umich)
-*   [Global MBA](https://www.coursera.org/degrees/global-mba-macquarie)
-*   [Master's of Innovation & Entrepreneurship](https://www.coursera.org/degrees/omie)
-*   [MCS Data Science](https://www.coursera.org/degrees/masters-in-computer-data-science)
-*   [Master's in Computer Science](https://www.coursera.org/degrees/master-of-computer-science-illinois)
-*   [Master's in Public Health](https://www.coursera.org/degrees/mph-umich)
-
-### Coursera
-
-*   [About](https://about.coursera.org/)
-*   [Leadership](https://about.coursera.org/leadership)
-*   [Careers](https://www.coursera.org/about/careers)
-*   [Catalog](https://www.coursera.org/browse)
-*   [Certificates](https://www.coursera.org/professional-certificate)
-*   [MasterTrack™ Certificates](https://www.coursera.org/mastertrack)
-*   [Degrees](https://www.coursera.org/degrees)
-*   [For Enterprise](https://www.coursera.org/business?utm_campaign=website&utm_content=corp-to-home-footer-for-enterprise&utm_medium=coursera&utm_source=enterprise)
-*   [For Government](https://www.coursera.org/government?utm_campaign=website&utm_content=corp-to-home-footer-for-government&utm_medium=coursera&utm_source=enterprise)
-*   [For Campus](https://www.coursera.org/campus?utm_campaign=website&utm_content=corp-to-home-footer-for-campus&utm_medium=coursera&utm_source=enterprise)
-*   [Coronavirus Response](https://www.coursera.org/coronavirus-response)
-
-### Community
-
-*   [Learners](https://www.coursera.community/)
-*   [Partners](https://www.coursera.org/about/partners)
-*   [Developers](https://building.coursera.org/developer-program/)
-*   [Beta Testers](https://www.coursera.community/#beta-tester)
-*   [Translators](https://www.coursera.community/#gtc)
-*   [Blog](https://blog.coursera.org/)
-*   [Tech Blog](https://medium.com/coursera-engineering)
-*   [Teaching Center](https://www.coursera.org/teaching-center)
-
-### More
-
-*   [Terms](https://www.coursera.org/about/terms)
-*   [Privacy](https://www.coursera.org/about/privacy)
-*   [Help](https://learner.coursera.help/hc)
-*   [Accessibility](https://learner.coursera.help/hc/en-us/articles/360050668591-Accessibility-Statement)
-*   [Press](https://www.coursera.org/about/press)
-*   [Contact](https://www.coursera.org/about/contact)
-*   [Directory](https://www.coursera.org/directory)
-*   [Affiliates](https://about.coursera.org/affiliates)
-
-[![Download on the App Store](https://d3njjcbhbojbot.cloudfront.net/web/images/icons/download_on_the_app_store_badge_en.svg)](https://itunes.apple.com/app/apple-store/id736535961?pt=2334150&ct=Coursera%20Web%20Promo%20Banner&mt=8)[![Get it on Google Play](https://d3njjcbhbojbot.cloudfront.net/web/images/icons/en_generic_rgb_wo_45.png)](http://play.google.com/store/apps/details?id=org.coursera.android)
-
-© 2020 Coursera Inc. All rights reserved.
-
-*   [![Coursera Facebook](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera_assets/footer/facebook.png?auto=format%2Ccompress&dpr=1&w=28&h=28)](https://www.facebook.com/Coursera)
-*   [![Coursera Linkedin](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera_assets/footer/linkedin.png?auto=format%2Ccompress&dpr=1&w=28&h=28)](https://www.linkedin.com/company/coursera)
-*   [![Coursera Twitter](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera_assets/footer/twitter.png?auto=format%2Ccompress&dpr=1&w=28&h=28)](https://twitter.com/coursera)
-*   [![Coursera YouTube](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera_assets/footer/youtube.png?auto=format%2Ccompress&dpr=1&w=28&h=28)](https://www.youtube.com/user/coursera)
-*   [![Coursera Instagram](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera_assets/footer/instagram.png?auto=format%2Ccompress&dpr=1&w=28&h=28)](https://www.instagram.com/coursera/)
