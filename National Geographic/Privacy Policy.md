@@ -1,0 +1,219 @@
+[Skip to content](#main-content) [Skip to navigation](#menu-menu-1)
+
+× cancel
+
+Country/Region & Language Selector
+==================================
+
+Search Countries
+
+Search Languages
+
+Save
+
+[![The Walt Disney Privacy Center](https://privacy.thewaltdisneycompany.com/app/themes/privacycenter/assets/dist/images/logos/disney-logo.svg "The Walt Disney Privacy Center")](https://privacy.thewaltdisneycompany.com/en/ "The Walt Disney Privacy Center")
+
+[us United States English](https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/)
+
+Search for   
+
+Toggle navigation Toggle navigation Toggle navigation
+
+Search for   
+
+*   [Privacy Policy](https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/ "Privacy Policy")
+    *   [Privacy Policy](https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/ "Privacy Policy")
+    *   [Your California Privacy Rights](https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/your-california-privacy-rights/ "Your California Privacy Rights")
+*   [For Parents](https://privacy.thewaltdisneycompany.com/en/for-parents/ "For Parents")
+    *   [For Parents](https://privacy.thewaltdisneycompany.com/en/for-parents/ "For Parents")
+    *   [Children’s Privacy Policy](https://privacy.thewaltdisneycompany.com/en/for-parents/childrens-online-privacy-policy/ "Children’s Privacy Policy")
+    *   [Internet Safety](https://privacy.thewaltdisneycompany.com/fr-ca/internet-safety/ "Internet Safety")
+
+*   [Privacy Controls](https://privacy.thewaltdisneycompany.com/en/privacy-controls/ "Privacy Controls")
+    *   [Privacy Controls](https://privacy.thewaltdisneycompany.com/en/privacy-controls/ "Privacy Controls")
+    *   [ONLINE TRACKING TECHNOLOGIES AND ADVERTISING](https://privacy.thewaltdisneycompany.com/en/privacy-controls/online-tracking-and-advertising/ "ONLINE TRACKING TECHNOLOGIES AND ADVERTISING")
+    *   [Communication Choices](https://privacy.thewaltdisneycompany.com/en/privacy-controls/communication-choices/ "Communication Choices")
+*   [Contact Us](https://privacy.thewaltdisneycompany.com/en/support/ "Contact Us")
+    *   [Contact Us](https://privacy.thewaltdisneycompany.com/en/support/ "Contact Us")
+*   [News](https://privacy.thewaltdisneycompany.com/en/news/ "News")
+    *   [News](https://privacy.thewaltdisneycompany.com/en/news/ "News")
+
+![Disney Brands](https://privacy.thewaltdisneycompany.com/app/themes/privacycenter/assets/dist/images/logos/drop-down-logos.png)
+
+Search
+
+Privacy Policy
+==============
+
+Last Modified: 10/01/2020
+
+**SCOPE OF THIS POLICY**
+
+This privacy policy describes the processing of information provided or collected on the sites and applications where this privacy policy is posted, whether on our digital properties or on applications we make available on third-party sites or platforms. It also describes the processing of guest information provided to us or collected by us offline in our physical properties, such as in our stores, theme parks, resorts, and cruise ships, or through our guest call centers. We follow this privacy policy in accordance with applicable law in the places where we operate. In some cases, we may provide additional data privacy notices specific to certain products, practices, or regions. Those terms are to be read in conjunction with this policy.
+
+Please keep in mind that when you provide information to us on a third-party site or platform (for example, via our applications), the information you provide may be separately collected by the third-party site or platform. The information we collect is covered by this privacy policy, and the information the third-party site or platform collects is subject to the third-party site or platform’s privacy practices. Privacy choices you have made on the third-party site or platform will not apply to our use of the information we have collected directly through our applications. Please also keep in mind that our sites and applications may contain links to other sites not owned or controlled by us and we are not responsible for the privacy practices of those sites. We encourage you to be aware when you leave our sites or applications and to read the privacy policies of other sites that may collect your [personal information](#)<p>Personal information means information that identifies (whether directly or indirectly) a particular individual, such as the individual’s name, postal address, email address, and telephone number. When anonymous information is directly or indirectly associated with personal information, the resulting information also is treated as personal information.</p><a href='https://privacy.thewaltdisneycompany.com/en/definitions/#Personal-information'>Learn More</a>.
+
+[Expand All](#) [Collapse All](#)
+
+#### [Accordion Toggle WHO WE ARE](#collapse1)
+
+Our company includes many different brands. When you visit, shop, or create an account with us, or use sites and applications, your information is controlled by a [member](#)<p>Member means a subsidiary or affiliated entity that is part of The Walt Disney Family of Companies.</p><a href='https://privacy.thewaltdisneycompany.com/en/definitions/#Member'>Learn More</a> of [The Walt Disney Family of Companies](#)<p>The Walt Disney Family of Companies refers to The Walt Disney Company and its subsidiary and affiliated entities, which offer their products and services under various brand names. These companies engage in a number of businesses, including theme parks and travel, motion pictures and television, publishing, consumer products and interactive services. The Walt Disney Company brands include, among others, the following: ABC Entertainment ABC News Adventures by Disney Aulani, a Disney Resort & Spa Bamtech Media Bindass Buena Vista Catalog Company (including Disney Movie Club) D23 | The Official Disney Fan Club Disney Baby Disney Channels & DisneyNOW Disney Cruise Line Disney Digital Network Disney Family Movies Disney Movie Insiders Disney on Broadway Disney on Ice and Disney Live! Disney PhotoPass Service Disney Rewards Visa Card Disney Vacation Club Disney+ Disneyland Paris Disneyland Resort DisneyLife El Capitan Theatre ESPN ESPN CricInfo ESPN Deportes ESPN+ FiveThirtyEight Freeform FX Networks Genx Entertainment Limited Hollywood Records Hungama TV Lucasfilm (Star Wars) Marvel Marvel Shop Marvel Digital Comics Muppets National Geographic Pixar Animation Studios Radio Disney Read Riordan shopDisney The Undefeated 30 for 30 Podcasts United Home Entertainment Private Limited UTV Software Communication Limited Walt Disney Pictures Walt Disney Studios Home Entertainment Walt Disney World Resort</p><a href='https://privacy.thewaltdisneycompany.com/en/definitions/#The-Walt-Disney-Family-of-Companies'>Learn More</a>. [The list of relevant data controllers can be found here](https://privacy.thewaltdisneycompany.com/en/definitions/#Data-Controller).
+
+#### [Accordion Toggle TYPES OF INFORMATION WE COLLECT](#collapse2)
+
+We collect two basic types of information – [personal information](#)<p>Personal information means information that identifies (whether directly or indirectly) a particular individual, such as the individual’s name, postal address, email address, and telephone number. When anonymous information is directly or indirectly associated with personal information, the resulting information also is treated as personal information.</p><a href='https://privacy.thewaltdisneycompany.com/en/definitions/#Personal-information'>Learn More</a> (as defined in this policy) and [anonymous information](#)<p>Anonymous information means information that does not directly or indirectly identify, and cannot reasonably be used to identify, an individual guest.</p><a href='https://privacy.thewaltdisneycompany.com/en/definitions/#Anonymous-Information'>Learn More</a> (as defined in this policy) – and we may use personal and anonymous information to create a third type of information, [aggregate information](#)<p>Aggregate information means information about groups or categories of guests, which does not identify and cannot reasonably be used to identify an individual guest.</p><a href='https://privacy.thewaltdisneycompany.com/en/definitions/#Aggregate-Information'>Learn More</a> (also defined in this policy).   In particular, we collect:
+
+*   Registration information you provide when you create an account, enter a promotion, or link your profile on a third-party site or platform with your registration account, such as your first name and surname, country of residence, gender, date of birth, email address, username, and password;
+*   Transaction information you provide when you request information, contact Guest Services, or purchase, return, request, or exchange a product or service from us, such as your postal address, telephone number, and payment information;
+*   Information you provide in [public forums](#)<p>Our sites and applications may offer message boards, conversation pages, blogs, chat rooms, social community environments, profile pages, and other forums that do not have a restricted audience. If you provide personal information when you use any of these features, that personal information may be publicly posted and otherwise disclosed without limitation as to its use by us or by a third party.</p><a href='https://privacy.thewaltdisneycompany.com/en/definitions/#Public-Forums'>Learn More</a> on our sites and applications, such as your public posts;
+*   Information sent either one-to-one or within a limited group using our message, chat, post, or similar functionality, where we are permitted by applicable law to collect this information;
+*   Information we obtain from a third party, such as a site or platform provider, about use of our applications on third-party platforms or devices;
+*   Location information, including location information provided by a mobile or other device interacting with one of our sites, applications, or physical properties (including through beacon technologies), or associated with your IP address or other online or device identifier, where we are permitted by law to process this information;
+*   Activity information about your use, and the use by any person(s) you authorize through your account, of our sites and applications, such as the content you view or post, how often you use our services, and your preferences;
+*   Usage, viewing, technical, and device data when you visit our sites, use our applications on third-party sites or platforms, or open emails we send, or connect with our wireless Internet access services and other similar technologies, including your browser or device type, unique device identifier, and IP address;
+*   Still or video images captured by cameras or readers on or around our physical properties; and
+*   Call recordings when you call our reservation centers or other guest services phone numbers.
+
+#### [Accordion Toggle HOW WE COLLECT YOUR INFORMATION](#collapse3)
+
+*   We collect information you provide to us when you request or purchase products, services, or information from us, register with us (including when you link your profile on a third-party site or platform with your registration account), participate in [public forums](#)<p>Our sites and applications may offer message boards, conversation pages, blogs, chat rooms, social community environments, profile pages, and other forums that do not have a restricted audience. If you provide personal information when you use any of these features, that personal information may be publicly posted and otherwise disclosed without limitation as to its use by us or by a third party.</p><a href='https://privacy.thewaltdisneycompany.com/en/definitions/#Public-Forums'>Learn More</a> or other activities on our sites and applications, respond to guest surveys, visit our physical properties, call our reservation centers or other guest services phone numbers, or otherwise interact with us using one or more devices. You may provide information in a variety of ways, including by typing or using voice commands.
+*   We collect information through a variety of technologies, such as cookies, Flash cookies, pixels, tags, software development kits, [application](#)<p>Application means a program or service operated by us (or on our behalf) that may be displayed on various online, mobile, or other platforms and environments, including those operated by third parties, which permits us to interact directly with our guests.</p><a href='https://privacy.thewaltdisneycompany.com/en/definitions/#Application'>Learn More</a> program interfaces, and Web beacons, including when you visit our sites and applications or use our applications on third-party sites or platforms using one or more devices, whether or not you are logged in or registered. Please visit [Online Tracking Technologies and Advertising](https://privacy.thewaltdisneycompany.com/en/privacy-controls/online-tracking-and-advertising/) for further information, including Do Not Track and how to disable cookies and otherwise make choices with respect to such data collection.
+*   We collect information using analytics tools, including when you visit our sites and applications or use our applications on third-party sites or platforms.
+*   We acquire information from other trusted sources to update or supplement the information you provided or we collected automatically, such as when we validate postal address information using third party services.  Applicable law may require that you authorize the third party to share your information with us before we can acquire it.
+
+#### [Accordion Toggle USE OF YOUR INFORMATION BY THE WALT DISNEY FAMILY OF COMPANIES](#collapse4)
+
+The [member](#)<p>Member means a subsidiary or affiliated entity that is part of The Walt Disney Family of Companies.</p><a href='https://privacy.thewaltdisneycompany.com/en/definitions/#Member'>Learn More</a> of [The Walt Disney Family of Companies](#)<p>The Walt Disney Family of Companies refers to The Walt Disney Company and its subsidiary and affiliated entities, which offer their products and services under various brand names. These companies engage in a number of businesses, including theme parks and travel, motion pictures and television, publishing, consumer products and interactive services. The Walt Disney Company brands include, among others, the following: ABC Entertainment ABC News Adventures by Disney Aulani, a Disney Resort & Spa Bamtech Media Bindass Buena Vista Catalog Company (including Disney Movie Club) D23 | The Official Disney Fan Club Disney Baby Disney Channels & DisneyNOW Disney Cruise Line Disney Digital Network Disney Family Movies Disney Movie Insiders Disney on Broadway Disney on Ice and Disney Live! Disney PhotoPass Service Disney Rewards Visa Card Disney Vacation Club Disney+ Disneyland Paris Disneyland Resort DisneyLife El Capitan Theatre ESPN ESPN CricInfo ESPN Deportes ESPN+ FiveThirtyEight Freeform FX Networks Genx Entertainment Limited Hollywood Records Hungama TV Lucasfilm (Star Wars) Marvel Marvel Shop Marvel Digital Comics Muppets National Geographic Pixar Animation Studios Radio Disney Read Riordan shopDisney The Undefeated 30 for 30 Podcasts United Home Entertainment Private Limited UTV Software Communication Limited Walt Disney Pictures Walt Disney Studios Home Entertainment Walt Disney World Resort</p><a href='https://privacy.thewaltdisneycompany.com/en/definitions/#The-Walt-Disney-Family-of-Companies'>Learn More</a> that is the [data controller](#)<p>The data controller is the subsidiary or affiliated entity of The Walt Disney Company that is responsible for the personal information collected and used within the scope of this policy from our sites and applications, as follows: If you live in Europe, Middle East or Africa: The Walt Disney Company Limited (Company Number 530051) 3 Queen Caroline Street Hammersmith London W6 9PE help@disney.co.uk If you are a Disney+ service EU subscriber residing outside the United Kingdom, your personal data is also jointly controlled by: The Walt Disney Company (Benelux) B.V. (Company Number 34076102) De Passage 144 1101 AX Amsterdam The Netherlands help@disneyplus.com US, Canada and Rest of World: Disney Interactive 500 South Buena Vista Street Mail Code 7667 Burbank, CA 91521-7667 United States of America Guest Services</p><a href='https://privacy.thewaltdisneycompany.com/en/definitions/#Data-Controller'>Learn More</a> for your information is responsible for and may use your information for the purposes described in this policy. Other members of The Walt Disney Family of Companies may access your information where they perform services on behalf of the data controllers (as data processors) and, unless prohibited under applicable law, for use on their own behalf (as data controllers) for the purposes described in this policy. Consistent with applicable law and choices and controls that may be available to you, we may use information collected from you, or from devices associated with you, to:
+
+*   Provide you with the experiences, products, and services you request, view, engage with, or purchase;
+*   Communicate with you about your account or transactions with us and send you information or request feedback about features on our sites and applications or changes to our policies;
+*   Send you offers and promotions for our products and services or third-party products and services;
+*   Personalize content and experiences;
+*   Provide you with targeted advertising based on your activity on our sites and applications and on third-party sites and applications;
+    *   to learn more about how we use your information for personalization and tracking, please visit [Online Tracking Technologies and Advertising](https://privacy.thewaltdisneycompany.com/en/privacy-controls/online-tracking-and-advertising/).
+*   Operate, understand, optimize, develop, or improve our sites, applications, products, services and operations, including by using guest survey research and analytics tools; and
+*   Detect, investigate and prevent activities that may violate our policies, pose safety issues, or be fraudulent or illegal; and
+*   Notify you of product recalls or safety issues.
+
+#### [Accordion Toggle SHARING YOUR INFORMATION WITH OTHER ENTITIES](#collapse5)
+
+We will not share your [personal information](#)<p>Personal information means information that identifies (whether directly or indirectly) a particular individual, such as the individual’s name, postal address, email address, and telephone number. When anonymous information is directly or indirectly associated with personal information, the resulting information also is treated as personal information.</p><a href='https://privacy.thewaltdisneycompany.com/en/definitions/#Personal-information'>Learn More</a> with a third party outside [The Walt Disney Family of Companies](#)<p>The Walt Disney Family of Companies refers to The Walt Disney Company and its subsidiary and affiliated entities, which offer their products and services under various brand names. These companies engage in a number of businesses, including theme parks and travel, motion pictures and television, publishing, consumer products and interactive services. The Walt Disney Company brands include, among others, the following: ABC Entertainment ABC News Adventures by Disney Aulani, a Disney Resort & Spa Bamtech Media Bindass Buena Vista Catalog Company (including Disney Movie Club) D23 | The Official Disney Fan Club Disney Baby Disney Channels & DisneyNOW Disney Cruise Line Disney Digital Network Disney Family Movies Disney Movie Insiders Disney on Broadway Disney on Ice and Disney Live! Disney PhotoPass Service Disney Rewards Visa Card Disney Vacation Club Disney+ Disneyland Paris Disneyland Resort DisneyLife El Capitan Theatre ESPN ESPN CricInfo ESPN Deportes ESPN+ FiveThirtyEight Freeform FX Networks Genx Entertainment Limited Hollywood Records Hungama TV Lucasfilm (Star Wars) Marvel Marvel Shop Marvel Digital Comics Muppets National Geographic Pixar Animation Studios Radio Disney Read Riordan shopDisney The Undefeated 30 for 30 Podcasts United Home Entertainment Private Limited UTV Software Communication Limited Walt Disney Pictures Walt Disney Studios Home Entertainment Walt Disney World Resort</p><a href='https://privacy.thewaltdisneycompany.com/en/definitions/#The-Walt-Disney-Family-of-Companies'>Learn More</a> except in limited circumstances, including:
+
+*   When you allow us to share your personal information with another company, by electing to share your personal information with carefully selected companies so that they can send you offers and promotions about their products and services;
+*   When you direct us to share your personal information with another company to fulfill your request, such as:
+    *   When you book travel packages with us that include goods or services provided by third-party partners, such as airlines, ground transportation providers, third-party hotels, and travel insurance providers; and
+    *   When you book dining reservations through us for restaurants operated by third parties.
+*   When you direct us to share your personal information with third-party sites or platforms, such as social networking sites.
+*   Please note that once we share your personal information with another company in the above circumstances, the information received by the other company is controlled by that company and becomes subject to the other company’s privacy practices.
+*   When we cooperate with financial institutions to offer co-branded products or services to you, such as our co-branded Disney Rewards Visa Card; however, we will do so only if permitted by applicable law and, in these cases, the financial institutions are prohibited from using your personal information for purposes other than those related to the co-branded products or services;
+*   When you provide personal information to National Geographic Partners, a joint venture between The Walt Disney Company and the National Geographic Society, National Geographic Partners may share that information with the National Geographic Society, and once shared, the information will be controlled by and subject to the privacy policy of the National Geographic Society;
+*   When companies perform services on our behalf, like package delivery, marketing and advertising, and  customer service; however, these companies are prohibited from using your personal information for purposes other than those requested by us or required by law; and
+*   When we share your personal information with third parties in connection with the sale of a business, to enforce our Terms of Use or rules, to ensure the safety and security of our guests and third parties, to protect our rights and property and the rights and property of our guests and third parties, to comply with legal process, or in other cases if we believe in good faith that disclosure is required by law.
+
+#### [Accordion Toggle YOUR CONTROLS AND CHOICES](#collapse6)
+
+We provide you the ability to exercise certain controls and choices regarding our collection, use and sharing of your information. In accordance with applicable law, your controls and choices may include:
+
+*   Correcting, updating, and deleting [your registration account](#) ([Logout](#));
+*   Choosing or changing your choices for subscriptions, newsletters, and alerts;
+*   Choosing whether to receive from us offers and promotions for our products and services, or products and services that we think may be of interest to you;
+*   Choosing whether we share your [personal information](#)<p>Personal information means information that identifies (whether directly or indirectly) a particular individual, such as the individual’s name, postal address, email address, and telephone number. When anonymous information is directly or indirectly associated with personal information, the resulting information also is treated as personal information.</p><a href='https://privacy.thewaltdisneycompany.com/en/definitions/#Personal-information'>Learn More</a> with other companies so they can send you offers and promotions about their products and services;
+*   Controlling targeted advertising from many ad networks and partners; data exchanges; and marketing analytics and digital advertising and marketing service providers (by visiting the [Digital Advertising Alliance](http://www.aboutads.info/choices));
+*   Choosing to control targeted advertising you receive within applications by using the settings and choices made available to you through your device(s), for example, by re-setting your device’s advertising identifier and/or opting out of interest based ads;
+*   Choosing to limit participation in [Nielsen digital measurement research](https://priv-policy.imrworldwide.com/priv/browser/us/en/optout.html) (for non-Panelists);
+*   Requesting removal of your personal information from a public forum on one of our sites or [application](#)<p>Application means a program or service operated by us (or on our behalf) that may be displayed on various online, mobile, or other platforms and environments, including those operated by third parties, which permits us to interact directly with our guests.</p><a href='https://privacy.thewaltdisneycompany.com/en/definitions/#Application'>Learn More</a>; and
+*   Requesting access to the personal information we hold about you and that we amend or delete it.
+
+You may exercise these controls and choices in various ways, including by visiting [Communication Choices](https://privacy.thewaltdisneycompany.com/en/privacy-controls/communication-choices/) (under the Privacy Controls tab), contacting [Guest Services](https://privacy.thewaltdisneycompany.com/en/support/), following instructions provided in communications sent to you, or by using your device or other available settings (for example, by re-setting your device’s advertising identifier and/or opting out of interest based ads). You can opt out of interest based ads by visiting the [Digital Advertising Alliance](http://www.aboutads.info/choices) or [European Interactive Digital Advertising Alliance](http://www.edaa.eu/) or using the opt-out mechanism in the “Interest Based Ads” link in the footer of the site you are visiting.
+
+Please be aware that if you do not allow us to collect personal information from you, we may not be able to deliver certain experiences, products, and services to you, and some of our services may not be able to take account of your interests and preferences. If collection of personal information is mandatory, we will make that clear at the point of collection so that you can make an informed decision whether to participate.  If you have questions about the specific personal information about you that we process or retain, and your rights regarding that personal information, please contact [Guest Services](https://privacy.thewaltdisneycompany.com/en/support/).
+
+#### [Accordion Toggle CHILDREN'S PRIVACY](#collapse7)
+
+We recognize the need to provide further privacy protections with respect to [personal information](#)<p>Personal information means information that identifies (whether directly or indirectly) a particular individual, such as the individual’s name, postal address, email address, and telephone number. When anonymous information is directly or indirectly associated with personal information, the resulting information also is treated as personal information.</p><a href='https://privacy.thewaltdisneycompany.com/en/definitions/#Personal-information'>Learn More</a> we may collect from [children](#)<p>Children means individuals who we have identified are not of legal age to consent to the collection and processing of their personal information. In the United States and Latin America, the term “children” refers to individuals under 13 years of age.</p><a href='https://privacy.thewaltdisneycompany.com/en/definitions/#Children'>Learn More</a> on our sites and applications. Some of the features on our sites and applications are age-gated so that they are not available for use by children, and we do not knowingly collect personal information from children in connection with those features. When we intend to collect personal information from children, we take additional steps to protect children’s privacy, including:
+
+*   Notifying [parents](#)<p>Parents means a parent or legal guardian.</p><a href='https://privacy.thewaltdisneycompany.com/en/definitions/#Parents'>Learn More</a> about our information practices with regard to children, including the types of personal information we may collect from children, the uses to which we may put that information, and whether and with whom we may share that information;
+*   In accordance with applicable law, and our practices, obtaining consent from parents for the collection of personal information from their children, or for sending information about our products and services directly to their children;
+*   Limiting our collection of personal information from children to no more than is reasonably necessary to participate in an online activity; and
+*   Giving parents access or the ability to request access to personal information we have collected from their children and the ability to request that the personal information be changed or deleted.
+
+For additional information about our practices in the United States regarding children’s personal information, please read our [Children’s Privacy Policy](https://privacy.thewaltdisneycompany.com/en/for-parents/childrens-online-privacy-policy/).
+
+#### [Accordion Toggle DATA SECURITY, INTEGRITY, AND RETENTION](#collapse8)
+
+The security, integrity, and confidentiality of your information are extremely important to us. We have implemented technical, administrative, and physical security measures that are designed to protect guest information from unauthorized access, disclosure, use, and modification. We regularly review our security procedures to consider appropriate new technology and methods. Please be aware that, despite our best efforts, no security measures are perfect or impenetrable. We will retain your [personal information](#)<p>Personal information means information that identifies (whether directly or indirectly) a particular individual, such as the individual’s name, postal address, email address, and telephone number. When anonymous information is directly or indirectly associated with personal information, the resulting information also is treated as personal information.</p><a href='https://privacy.thewaltdisneycompany.com/en/definitions/#Personal-information'>Learn More</a> for the length of time needed to fulfill the purposes outlined in this privacy policy unless a longer retention period is required or permitted by law.
+
+#### [Accordion Toggle DATA TRANSFERS, STORAGE, AND PROCESSING GLOBALLY](#collapse9)
+
+We operate globally and may transfer your [personal information](#)<p>Personal information means information that identifies (whether directly or indirectly) a particular individual, such as the individual’s name, postal address, email address, and telephone number. When anonymous information is directly or indirectly associated with personal information, the resulting information also is treated as personal information.</p><a href='https://privacy.thewaltdisneycompany.com/en/definitions/#Personal-information'>Learn More</a> to individual companies of [The Walt Disney Family of Companies](#)<p>The Walt Disney Family of Companies refers to The Walt Disney Company and its subsidiary and affiliated entities, which offer their products and services under various brand names. These companies engage in a number of businesses, including theme parks and travel, motion pictures and television, publishing, consumer products and interactive services. The Walt Disney Company brands include, among others, the following: ABC Entertainment ABC News Adventures by Disney Aulani, a Disney Resort & Spa Bamtech Media Bindass Buena Vista Catalog Company (including Disney Movie Club) D23 | The Official Disney Fan Club Disney Baby Disney Channels & DisneyNOW Disney Cruise Line Disney Digital Network Disney Family Movies Disney Movie Insiders Disney on Broadway Disney on Ice and Disney Live! Disney PhotoPass Service Disney Rewards Visa Card Disney Vacation Club Disney+ Disneyland Paris Disneyland Resort DisneyLife El Capitan Theatre ESPN ESPN CricInfo ESPN Deportes ESPN+ FiveThirtyEight Freeform FX Networks Genx Entertainment Limited Hollywood Records Hungama TV Lucasfilm (Star Wars) Marvel Marvel Shop Marvel Digital Comics Muppets National Geographic Pixar Animation Studios Radio Disney Read Riordan shopDisney The Undefeated 30 for 30 Podcasts United Home Entertainment Private Limited UTV Software Communication Limited Walt Disney Pictures Walt Disney Studios Home Entertainment Walt Disney World Resort</p><a href='https://privacy.thewaltdisneycompany.com/en/definitions/#The-Walt-Disney-Family-of-Companies'>Learn More</a> or third parties in locations around the world for the purposes described in this privacy policy. Wherever your personal information is transferred, stored or processed by us, we will take reasonable steps to safeguard the privacy of your personal information. These steps may include implementing standard contractual clauses where recognized by law, obtaining your consent, or other lawful means of transferring personal information.
+
+#### [Accordion Toggle CHANGES TO THIS PRIVACY POLICY](#collapse10)
+
+From time to time, we may change this privacy policy to accommodate new technologies, industry practices, regulatory requirements or for other purposes. We will provide notice to you if these changes are material and, where required by applicable law, we will obtain your consent. Notice may be by email to you at the last email address you provided us, by posting notice of such changes on our sites and applications, or by other means, consistent with applicable law.
+
+#### [Accordion Toggle COMMENTS AND QUESTIONS](#collapse11)
+
+If you have a comment or question about this privacy policy, please contact [Guest Services](https://privacy.thewaltdisneycompany.com/en/support/).
+
+#### [Accordion Toggle CALIFORNIA RESIDENTS’ RIGHTS](#collapse12)
+
+Notice to California Residents: If you are a California resident, you may have certain additional privacy rights. Visit our [Your California Privacy Rights](https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/your-california-privacy-rights/) page for more information.
+
+#### [Accordion Toggle UK & EU RESIDENTS' RIGHTS](#collapse13)
+
+Notice to UK & EU Residents: If you are an EU or UK resident, you may have certain additional privacy rights. Visit our [UK & EU Privacy Rights](https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/privacy-notice/) page for more information.
+
+#### [Accordion Toggle BRAZILIAN RESIDENTS' RIGHTS](#collapse14)
+
+Notice to Brazilian Residents: If you are a Brazilian resident, you may have certain additional privacy rights. Visit our [Data Protection in Brazil](https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/data-protection-in-brazil/) page for more information.
+
+#### [Accordion Toggle Definitions](#collapse15)
+
+[Definitions](https://privacy.thewaltdisneycompany.com/en/definitions/)
+
+Children’s Privacy Policy
+-------------------------
+
+The Walt Disney Family of Companies (“TWDC”) is committed to protecting the privacy of children who use our sites and applications.
+
+Learn More
+
+[Children’s Privacy Policy](https://privacy.thewaltdisneycompany.com/en/for-parents/childrens-online-privacy-policy/)
+
+Your California Privacy Rights
+------------------------------
+
+Learn about your California Privacy Rights.
+
+Learn More
+
+[Your California Privacy Rights](https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/your-california-privacy-rights/)
+
+![Disney](https://privacy.thewaltdisneycompany.com/app/uploads/2019/10/disney.svg "Disney")
+
+![Pixar](https://privacy.thewaltdisneycompany.com/app/uploads/2019/12/pixar-footer.svg "Pixar")
+
+![LucasFilm](https://privacy.thewaltdisneycompany.com/app/uploads/2019/10/lucasfilm.svg "LucasFilm")
+
+![Marvel](https://privacy.thewaltdisneycompany.com/app/uploads/2019/10/marvel.svg "Marvel")
+
+![natgeo](https://privacy.thewaltdisneycompany.com/app/uploads/2020/10/NG_logo_greyscale_version.svg "natgeo")
+
+![abc](https://privacy.thewaltdisneycompany.com/app/uploads/2019/10/abc.svg "abc")
+
+![ESPN](https://privacy.thewaltdisneycompany.com/app/uploads/2019/10/espn.svg "ESPN")
+
+![FX](https://privacy.thewaltdisneycompany.com/app/uploads/2019/10/inline-fx.svg "FX")
+
+© Disney. All rights reserved
+
+*   [Interest-Based Ads](http://preferences-mgr.truste.com/?type=disneycolor&affiliateId=115)
+*   [Children’s Online Privacy Policy](https://privacy.thewaltdisneycompany.com/en/for-parents/childrens-online-privacy-policy/)
+*   [Your California Privacy Rights](https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/your-california-privacy-rights/)
+*   [Terms of Use](https://disneytermsofuse.com/)
+*   [Privacy Policy](https://privacy.thewaltdisneycompany.com/)
+*   [Do Not Sell My Info](https://privacy.thewaltdisneycompany.com/en/dnsmi/)
+
+*   Print Page
+
+[Back to Top back-to-top](#)
