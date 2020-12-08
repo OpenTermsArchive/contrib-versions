@@ -1,14 +1,3 @@
- [![Logo](//theme.zdassets.com/theme_assets/968999/51caa74a53a7c7d938c23ab40a5941798a5ccb79.svg) HOME](https://nytimes.com/ "Go to the New York Times homepage") 
-
-[Help](https://help.nytimes.com/hc/en-us) | [Account](https://myaccount.nytimes.com/seg/) | [Contact](https://help.nytimes.com/hc/en-us/articles/115015385887-Contact-Us)
-
-1.  [Help](https://help.nytimes.com/hc/en-us)
-2.  [Permissions & policies](https://help.nytimes.com/hc/en-us/categories/115001547468-Permissions-policies)
-3.  [Permissions & policies](https://help.nytimes.com/hc/en-us/sections/115002797688-Permissions-policies)
-
-Terms of service
-================
-
 _Last updated on January 3rd, 2019_
 
 This page describes the terms and conditions that govern your use of certain New York Times digital products, including NYTimes.com and mobile applications, offered by The New York Company and certain of its subsidiaries ("NYT", “us” or “we”).
@@ -188,22 +177,3 @@ Attention: General Counsel
 212-556-7888
 
 **By email:**[copyrights@nytimes.com](mailto:copyright@nytimes.com)
-
-#### Can't find what you're looking for?
-
-Review our Help topics or chat with one of our Customer Care advocates.
-
-[Return to top](#article-container)
-
-*   [©    The New York Times Company](http://www.nytimes.com/content/help/rights/copyright/copyright-notice.html) 
-
-*   [Contact Us](https://help.nytimes.com/hc/en-us/articles/115015385887-Contact-Us)
-*   [Work with us](http://www.nytco.com/careers)
-*   [Advertise](http://nytmediakit.com/)
-*   [Your Ad Choices](https://www.nytimes.com/content/help/rights/privacy/policy/privacy-policy.html#pp)
-*   [Privacy](https://www.nytimes.com/privacy)
-*   [Terms of Service](https://www.nytimes.com/ref/membercenter/help/agree.html)
-*   [Terms of Sale](https://www.nytimes.com/content/help/rights/sale/terms-of-sale.html)
-*   [Sitemap](http://spiderbites.nytimes.com/)
-*   [Help](https://help.nytimes.com/hc/en-us)
-*   [Subscriptions](https://www.nytimes.com/subscriptions/Multiproduct/lp5558.html?campaignId=37WXW)
