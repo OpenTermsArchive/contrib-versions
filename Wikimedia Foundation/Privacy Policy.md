@@ -1,103 +1,6 @@
 Privacy policy
 ==============
 
-From the Wikimedia Foundation Governance Wiki
-
-[Jump to navigation](#mw-head) [Jump to search](#searchInput)
-
-*   [العربية](https://meta.wikimedia.org/wiki/Privacy_policy/ar "m:Privacy policy/ar")
-*   [azərbaycanca](https://meta.wikimedia.org/wiki/Privacy_policy/az "m:Privacy policy/az")
-*   [تۆرکجه](https://meta.wikimedia.org/wiki/Privacy_policy/azb "m:Privacy policy/azb")
-*   [български](https://meta.wikimedia.org/wiki/Privacy_policy/bg "m:Privacy policy/bg")
-*   [روچ کپتین بلوچی](https://meta.wikimedia.org/wiki/Privacy_policy/bgn "m:Privacy policy/bgn")
-*   [বাংলা](https://meta.wikimedia.org/wiki/Privacy_policy/bn "m:Privacy policy/bn")
-*   [bosanski](https://meta.wikimedia.org/wiki/Privacy_policy/bs "m:Privacy policy/bs")
-*   [català](https://meta.wikimedia.org/wiki/Privacy_policy/ca "m:Privacy policy/ca")
-*   [нохчийн](https://meta.wikimedia.org/wiki/Privacy_policy/ce "m:Privacy policy/ce")
-*   [کوردی](https://meta.wikimedia.org/wiki/Privacy_policy/ckb "m:Privacy policy/ckb")
-*   [čeština](https://meta.wikimedia.org/wiki/Privacy_policy/cs "m:Privacy policy/cs")
-*   [català](https://meta.wikimedia.org/wiki/Privacy_policy/ca "m:Privacy policy/ca")
-*   [Cymraeg](https://meta.wikimedia.org/wiki/Privacy_policy/cy "m:Privacy policy/cy")
-*   [Deutsch](https://meta.wikimedia.org/wiki/Privacy_policy/de "m:Privacy policy/de")
-*   [Deutsch (Sie-Form)‎](https://meta.wikimedia.org/wiki/Privacy_policy/de-formal "m:Privacy policy/de-formal")
-*   [Zazaki](https://meta.wikimedia.org/wiki/Privacy_policy/diq "m:Privacy policy/diq")
-*   [Ελληνικά](https://meta.wikimedia.org/wiki/Privacy_policy/el "m:Privacy policy/el")
-*   [emiliàn e rumagnòl](https://meta.wikimedia.org/wiki/Privacy_policy/eml "m:Privacy policy/eml")
-*   English
-*   [Canadian English](https://meta.wikimedia.org/wiki/Privacy_policy/en-ca "m:Privacy policy/en-ca")
-*   [British English](https://meta.wikimedia.org/wiki/Privacy_policy/en-gb "m:Privacy policy/en-gb")
-*   [Esperanto](https://meta.wikimedia.org/wiki/Privacy_policy/eo "m:Privacy policy/eo")
-*   [español](https://meta.wikimedia.org/wiki/Privacy_policy/es "m:Privacy policy/es")
-*   [euskara](https://meta.wikimedia.org/wiki/Privacy_policy/eu "m:Privacy policy/eu")
-*   [فارسی](https://meta.wikimedia.org/wiki/Privacy_policy/fa "m:Privacy policy/fa")
-*   [suomi](https://meta.wikimedia.org/wiki/Privacy_policy/fi "m:Privacy policy/fi")
-*   [français](https://meta.wikimedia.org/wiki/Privacy_policy/fr "m:Privacy policy/fr")
-*   [Nordfriisk](https://meta.wikimedia.org/wiki/Privacy_policy/frr "m:Privacy policy/frr")
-*   [Frysk](https://meta.wikimedia.org/wiki/Privacy_policy/fy "m:Privacy policy/fy")
-*   [galego](https://meta.wikimedia.org/wiki/Privacy_policy/gl "m:Privacy policy/gl")
-*   [Avañe'ẽ](https://meta.wikimedia.org/wiki/Privacy_policy/gn "m:Privacy policy/gn")
-*   [עברית](https://meta.wikimedia.org/wiki/Privacy_policy/he "m:Privacy policy/he")
-*   [हिन्दी](https://meta.wikimedia.org/wiki/Privacy_policy/hi "m:Privacy policy/hi")
-*   [hrvatski](https://meta.wikimedia.org/wiki/Privacy_policy/hr "m:Privacy policy/hr")
-*   [magyar](https://meta.wikimedia.org/wiki/Privacy_policy/hu "m:Privacy policy/hu")
-*   [Bahasa Indonesia](https://meta.wikimedia.org/wiki/Privacy_policy/id "m:Privacy policy/id")
-*   [italiano](https://meta.wikimedia.org/wiki/Privacy_policy/it "m:Privacy policy/it")
-*   [日本語](https://meta.wikimedia.org/wiki/Privacy_policy/ja "m:Privacy policy/ja")
-*   [ქართული](https://meta.wikimedia.org/wiki/Privacy_policy/ka "m:Privacy policy/ka")
-*   [ភាសាខ្មែរ](https://meta.wikimedia.org/wiki/Privacy_policy/km "m:Privacy policy/km")
-*   [한국어](https://meta.wikimedia.org/wiki/Privacy_policy/ko "m:Privacy policy/ko")
-*   [Ripoarisch](https://meta.wikimedia.org/wiki/Privacy_policy/ksh "m:Privacy policy/ksh")
-*   [Кыргызча](https://meta.wikimedia.org/wiki/Privacy_policy/ky "m:Privacy policy/ky")
-*   [Lëtzebuergesch](https://meta.wikimedia.org/wiki/Privacy_policy/lb "m:Privacy policy/lb")
-*   [Ligure](https://meta.wikimedia.org/wiki/Privacy_policy/lij "m:Privacy policy/lij")
-*   [lietuvių](https://meta.wikimedia.org/wiki/Privacy_policy/lt "m:Privacy policy/lt")
-*   [Basa Banyumasan](https://meta.wikimedia.org/wiki/Privacy_policy/map-bms "m:Privacy policy/map-bms")
-*   [македонски](https://meta.wikimedia.org/wiki/Privacy_policy/mk "m:Privacy policy/mk")
-*   [മലയാളം](https://meta.wikimedia.org/wiki/Privacy_policy/ml "m:Privacy policy/ml")
-*   [Bahasa Melayu](https://meta.wikimedia.org/wiki/Privacy_policy/ms "m:Privacy policy/ms")
-*   [မြန်မာဘာသာ](https://meta.wikimedia.org/wiki/Privacy_policy/my "m:Privacy policy/my")
-*   [مازِرونی](https://meta.wikimedia.org/wiki/Privacy_policy/mzn "m:Privacy policy/mzn")
-*   [Napulitano](https://meta.wikimedia.org/wiki/Privacy_policy/nap "m:Privacy policy/nap")
-*   [norsk bokmål](https://meta.wikimedia.org/wiki/Privacy_policy/nb "m:Privacy policy/nb")
-*   [नेपाली](https://meta.wikimedia.org/wiki/Privacy_policy/ne "m:Privacy policy/ne")
-*   [Nederlands](https://meta.wikimedia.org/wiki/Privacy_policy/nl "m:Privacy policy/nl")
-*   [nl-formal](https://meta.wikimedia.org/wiki/Privacy_policy/nl-formal "m:Privacy policy/nl-formal")
-*   [Diné bizaad](https://meta.wikimedia.org/wiki/Privacy_policy/nv "m:Privacy policy/nv")
-*   [occitan](https://meta.wikimedia.org/wiki/Privacy_policy/oc "m:Privacy policy/oc")
-*   [ਪੰਜਾਬੀ](https://meta.wikimedia.org/wiki/Privacy_policy/pa "m:Privacy policy/pa")
-*   [Plautdietsch](https://meta.wikimedia.org/wiki/Privacy_policy/pdt "m:Privacy policy/pdt")
-*   [polski](https://meta.wikimedia.org/wiki/Privacy_policy/pl "m:Privacy policy/pl")
-*   [پښتو](https://meta.wikimedia.org/wiki/Privacy_policy/ps "m:Privacy policy/ps")
-*   [português](https://meta.wikimedia.org/wiki/Privacy_policy/pt "m:Privacy policy/pt")
-*   [português do Brasil](https://meta.wikimedia.org/wiki/Privacy_policy/pt-br "m:Privacy policy/pt-br")
-*   [română](https://meta.wikimedia.org/wiki/Privacy_policy/ro "m:Privacy policy/ro")
-*   [русский](https://meta.wikimedia.org/wiki/Privacy_policy/ru "m:Privacy policy/ru")
-*   [Scots](https://meta.wikimedia.org/wiki/Privacy_policy/sco "m:Privacy policy/sco")
-*   [سنڌي](https://meta.wikimedia.org/wiki/Privacy_policy/sd "m:Privacy policy/sd")
-*   [ၽႃႇသႃႇတႆး](https://meta.wikimedia.org/wiki/Privacy_policy/shn "m:Privacy policy/shn")
-*   [සිංහල](https://meta.wikimedia.org/wiki/Privacy_policy/si "m:Privacy policy/si")
-*   [Soomaaliga](https://meta.wikimedia.org/wiki/Privacy_policy/so "m:Privacy policy/so")
-*   [shqip](https://meta.wikimedia.org/wiki/Privacy_policy/sq "m:Privacy policy/sq")
-*   [српски / srpski](https://meta.wikimedia.org/wiki/Privacy_policy/sr "m:Privacy policy/sr")
-*   [svenska](https://meta.wikimedia.org/wiki/Privacy_policy/sv "m:Privacy policy/sv")
-*   [Kiswahili](https://meta.wikimedia.org/wiki/Privacy_policy/sw "m:Privacy policy/sw")
-*   [தமிழ்](https://meta.wikimedia.org/wiki/Privacy_policy/ta "m:Privacy policy/ta")
-*   [తెలుగు](https://meta.wikimedia.org/wiki/Privacy_policy/te "m:Privacy policy/te")
-*   [тоҷикӣ](https://meta.wikimedia.org/wiki/Privacy_policy/tg "m:Privacy policy/tg")
-*   [ไทย](https://meta.wikimedia.org/wiki/Privacy_policy/th "m:Privacy policy/th")
-*   [Türkçe](https://meta.wikimedia.org/wiki/Privacy_policy/tr "m:Privacy policy/tr")
-*   [удмурт](https://meta.wikimedia.org/wiki/Privacy_policy/udm "m:Privacy policy/udm")
-*   [українська](https://meta.wikimedia.org/wiki/Privacy_policy/uk "m:Privacy policy/uk")
-*   [اردو](https://meta.wikimedia.org/wiki/Privacy_policy/ur "m:Privacy policy/ur")
-*   [Tiếng Việt](https://meta.wikimedia.org/wiki/Privacy_policy/vi "m:Privacy policy/vi")
-*   [მარგალური](https://meta.wikimedia.org/wiki/Privacy_policy/xmf "m:Privacy policy/xmf")
-*   [ייִדיש](https://meta.wikimedia.org/wiki/Privacy_policy/yi "m:Privacy policy/yi")
-*   [Yorùbá](https://meta.wikimedia.org/wiki/Privacy_policy/yo "m:Privacy policy/yo")
-*   [粵語](https://meta.wikimedia.org/wiki/Privacy_policy/yue "m:Privacy policy/yue")
-*   [中文](https://meta.wikimedia.org/wiki/Privacy_policy/zh "m:Privacy policy/zh")
-*   [中文（简体）‎](https://meta.wikimedia.org/wiki/Privacy_policy/zh-hans "m:Privacy policy/zh-hans")
-*   [中文（繁體）‎](https://meta.wikimedia.org/wiki/Privacy_policy/zh-hant "m:Privacy policy/zh-hant")
-
 This policy is approved by the Wikimedia Foundation [Board of Trustees](https://foundation.wikimedia.org/wiki/Board_of_Trustees "Board of Trustees") to apply to all [Wikimedia projects](https://foundation.wikimedia.org/wiki/Our_projects "Our projects").  
 It may not be circumvented, eroded, or ignored by local policies.
 
@@ -142,32 +45,8 @@ Disclaimer: This summary is not a part of the Privacy Policy and is not a legal 
 *   As part of our commitment to education and research around the world, we occasionally release public information and aggregated or non-personal information to the general public through data dumps and data sets.
 *   For the protection of the Wikimedia Foundation and other users, if you do not agree with this Privacy Policy, you may not use the Wikimedia Sites.
 
-[![WMF open door.png](//upload.wikimedia.org/wikipedia/commons/thumb/b/be/WMF_open_door.png/60px-WMF_open_door.png)](#introduction "#introduction")
-
-[Introduction](#introduction)
-
-[![WMF chart.png](//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/WMF_chart.png/60px-WMF_chart.png)](#use "#use")
-
-[Use of info](#use)
-
-[![WMF share.png](//upload.wikimedia.org/wikipedia/commons/thumb/9/90/WMF_share.png/60px-WMF_share.png)](#sharing "#sharing")
-
-[Sharing](#sharing)
-
-[![WMF safe.png](//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/WMF_safe.png/60px-WMF_safe.png)](#protection "#protection")
-
-[Protection](#protection)
-
-[![WMF sign.png](//upload.wikimedia.org/wikipedia/commons/thumb/9/92/WMF_sign.png/60px-WMF_sign.png)](#important "#important")
-
-[Important info](#important)
-
-| Contents |
-| --- |
-| Contents<br>--------<br><br>*   [1 Introduction](#Introduction)<br>    *   [1.1 Welcome!](#Welcome!)<br>        *   [1.1.1 Definitions](#Definitions)<br>        *   [1.1.2 What This Privacy Policy Does & Doesn't Cover](#What_This_Privacy_Policy_Does_&_Doesn't_Cover)<br>*   [2 Collection & Use of Info](#Collection_&_Use_of_Info)<br>    *   [2.1 Types of Information We Receive From You & How We Get It](#Types_of_Information_We_Receive_From_You_&_How_We_Get_It)<br>        *   [2.1.1 Your Public Contributions](#Your_Public_Contributions)<br>        *   [2.1.2 Account Information & Registration](#Account_Information_&_Registration)<br>        *   [2.1.3 Location Information](#Location_Information)<br>            *   [2.1.3.1 GPS & Other Location Technologies](#GPS_&_Other_Location_Technologies)<br>            *   [2.1.3.2 Metadata](#Metadata)<br>            *   [2.1.3.3 IP Addresses](#IP_Addresses)<br>    *   [2.2 Information Related to Your Use of the Wikimedia Sites](#Information_Related_to_Your_Use_of_the_Wikimedia_Sites)<br>        *   [2.2.1 Information We Receive Automatically](#Information_We_Receive_Automatically)<br>        *   [2.2.2 Information We Collect](#Information_We_Collect)<br>    *   [2.3 How We Use Information We Receive From You](#How_We_Use_Information_We_Receive_From_You)<br>    *   [2.4 Other](#Other)<br>        *   [2.4.1 Location Information](#Location_Information_2)<br>            *   [2.4.1.1 GPS & Other Location Technologies](#GPS_&_Other_Location_Technologies_2)<br>            *   [2.4.1.2 Metadata](#Metadata_2)<br>            *   [2.4.1.3 IP Addresses](#IP_Addresses_2)<br>*   [3 Sharing](#Sharing)<br>    *   [3.1 When May We Share Your Information?](#When_May_We_Share_Your_Information?)<br>        *   [3.1.1 With Your Permission](#With_Your_Permission)<br>        *   [3.1.2 For Legal Reasons](#For_Legal_Reasons)<br>        *   [3.1.3 If the Organization is Transferred (Really Unlikely!)](#If_the_Organization_is_Transferred_(Really_Unlikely!))<br>        *   [3.1.4 To Protect You, Ourselves & Others](#To_Protect_You,_Ourselves_&_Others)<br>        *   [3.1.5 To Our Service Providers](#To_Our_Service_Providers)<br>        *   [3.1.6 To Understand & Experiment](#To_Understand_&_Experiment)<br>        *   [3.1.7 Because You Made It Public](#Because_You_Made_It_Public)<br>*   [4 Protection](#Protection)<br>    *   [4.1 How Do We Protect Your Data?](#How_Do_We_Protect_Your_Data?)<br>    *   [4.2 How Long Do We Keep Your Data?](#How_Long_Do_We_Keep_Your_Data?)<br>*   [5 Important info](#Important_info)<br>    *   [5.1 Where is the Foundation & What Does That Mean for Me?](#Where_is_the_Foundation_&_What_Does_That_Mean_for_Me?)<br>    *   [5.2 Our Response to Do Not Track (DNT) signals](#Our_Response_to_Do_Not_Track_(DNT)_signals)<br>    *   [5.3 Changes to This Privacy Policy](#Changes_to_This_Privacy_Policy)<br>    *   [5.4 Contact Us](#Contact_Us)<br>    *   [5.5 Thank You!](#Thank_You!) |
-
- [![WMF open door.png](//upload.wikimedia.org/wikipedia/commons/thumb/b/be/WMF_open_door.png/60px-WMF_open_door.png)](https://foundation.wikimedia.org/wiki/File:WMF_open_door.png) Introduction
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Introduction
+------------
 
 ### Welcome!
 
@@ -191,8 +70,6 @@ We do not sell or rent your Personal Information, nor do we give it to others to
 After all, it's people like you, the champions of free knowledge, who make it possible for the Wikimedia Sites to not only exist, but also grow and thrive.
 
 #### Definitions
-
-[Back to top](#top) [![WWC arrow up.png](//upload.wikimedia.org/wikipedia/commons/c/ce/WWC_arrow_up.png)](https://foundation.wikimedia.org/wiki/Privacy_policy#top "Privacy policy#top")
 
 We recognize that only a minority of you are familiar with technical terms like “tracking pixels” and “cookies” used in the Privacy Policy. Whether you are brand new to privacy terminology or you are an expert who just wants a refresher, you might find our [Glossary of Key Terms](https://wikimediafoundation.org/wiki/Privacy_policy/Glossary_of_key_terms) helpful.
 
@@ -226,8 +103,8 @@ This Privacy Policy, however, does not cover some situations where we may gather
 
 Where community policies govern information, such as the [CheckUser policy](https://meta.wikimedia.org/wiki/CheckUser_policy "m:CheckUser policy"), the relevant community may add to the rules and obligations set out in this Policy. However, they are not permitted to create new exceptions or otherwise reduce the protections offered by this Policy.
 
- [![WMF chart.png](//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/WMF_chart.png/60px-WMF_chart.png)](https://foundation.wikimedia.org/wiki/File:WMF_chart.png) Collection & Use of Info
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Collection & Use of Info
+------------------------
 
 ### Types of Information We Receive From You & How We Get It
 
@@ -240,8 +117,6 @@ When you make a contribution to any Wikimedia Site, including on user or discuss
 | Publicly Visible Information |
 | --- |
 | Unless this Policy says otherwise, you should assume that information that you actively contribute to the Wikimedia Sites, including Personal Information, is publicly visible and can be found by search engines. Like most things on the Internet, anything you share may be copied and redistributed throughout the Internet by other people. Please do not contribute any information that you are uncomfortable making permanently public, like revealing your real name or location in your contributions.<br><br>You should be aware that specific data made public by you or aggregated data that is made public by us can be used by anyone for analysis and to infer further information, such as which country a user is from, political affiliation and gender. |
-
-[Back to top](#top) [![WWC arrow up.png](//upload.wikimedia.org/wikipedia/commons/c/ce/WWC_arrow_up.png)](https://foundation.wikimedia.org/wiki/Privacy_policy#top "Privacy policy#top")
 
 #### Account Information & Registration
 
@@ -263,8 +138,6 @@ If you want to create a [standard account](https://foundation.wikimedia.org/wiki
 
 To gain a better understanding of the demographics of our users, to localize our services and to learn how we can improve our services, we may ask you for more demographic information, such as gender or age, about yourself. We will tell you if such information is intended to be public or private, so that you can make an informed decision about whether you want to provide us with that information. Providing such information is always completely optional. If you don't want to, you don't have to—it's as simple as that.
 
-[Back to top](#top) [![WWC arrow up.png](//upload.wikimedia.org/wikipedia/commons/c/ce/WWC_arrow_up.png)](https://foundation.wikimedia.org/wiki/Privacy_policy#top "Privacy policy#top")
-
 #### Location Information
 
 ##### GPS & Other Location Technologies
@@ -273,19 +146,13 @@ Some features we offer work better if we know what area you are in.
 
 If you consent, we can use [GPS](https://foundation.wikimedia.org/wiki/Privacy_policy/Glossary_of_key_terms#GPS "Privacy policy/Glossary of key terms") (and other technologies commonly used to determine location) to show you more relevant content. We keep information obtained by these technologies confidential, except as provided in this Policy. You can learn more by checking out the list of examples of how we use these technologies in our [FAQ](https://foundation.wikimedia.org/wiki/Privacy_policy/FAQ#gpsexamplesFAQ "Privacy policy/FAQ").
 
-[Back to top](#top) [![WWC arrow up.png](//upload.wikimedia.org/wikipedia/commons/c/ce/WWC_arrow_up.png)](https://foundation.wikimedia.org/wiki/Privacy_policy#top "Privacy policy#top")
-
 ##### Metadata
 
 Sometimes, we automatically receive location data from your device. For example, if you want to upload a photo on the Wikimedia Commons mobile app, we may receive [metadata](https://foundation.wikimedia.org/wiki/Privacy_policy/Glossary_of_key_terms#Metadata "Privacy policy/Glossary of key terms"), such as the place and time you took the photo, automatically from your device. Please be aware that, unlike location information collected using GPS signals described above, the default setting on your mobile device typically includes the metadata in your photo or video upload to the Wikimedia Sites. If you do not want metadata sent to us and made public at the time of your upload, please change your settings on your device.
 
-[Back to top](#top) [![WWC arrow up.png](//upload.wikimedia.org/wikipedia/commons/c/ce/WWC_arrow_up.png)](https://foundation.wikimedia.org/wiki/Privacy_policy#top "Privacy policy#top")
-
 ##### IP Addresses
 
 Finally, when you visit any Wikimedia Site, we automatically receive the [IP address](https://foundation.wikimedia.org/wiki/Privacy_policy/Glossary_of_key_terms#Internet_Protocol_Address "Privacy policy/Glossary of key terms") of the device (or your [proxy server](https://foundation.wikimedia.org/wiki/Privacy_policy/Glossary_of_key_terms#Proxy_Servers "Privacy policy/Glossary of key terms")) you are using to access the Internet, which could be used to [infer your geographical location](https://foundation.wikimedia.org/wiki/Privacy_policy/FAQ#inferlocationFAQ "Privacy policy/FAQ").
-
-[Back to top](#top) [![WWC arrow up.png](//upload.wikimedia.org/wikipedia/commons/c/ce/WWC_arrow_up.png)](https://foundation.wikimedia.org/wiki/Privacy_policy#top "Privacy policy#top")
 
 ### Information Related to Your Use of the Wikimedia Sites
 
@@ -297,15 +164,11 @@ We also use a variety of commonly-used technologies, like cookies, to collect in
 
 We want to make the Wikimedia Sites better for you by learning more about how you use them. Examples of this might include how often you visit the Wikimedia Sites, what you like, what you find helpful, how you get to the Wikimedia Sites, and whether you would use a helpful feature more if we explained it differently. We also want this Policy and our practices to reflect our community's values. For this reason, we keep information related to your use of the Wikimedia Sites confidential, except as provided in this Policy.
 
-[Back to top](#top) [![WWC arrow up.png](//upload.wikimedia.org/wikipedia/commons/c/ce/WWC_arrow_up.png)](https://foundation.wikimedia.org/wiki/Privacy_policy#top "Privacy policy#top")
-
 #### Information We Receive Automatically
 
 Because of how browsers work, we receive some information automatically when you visit the Wikimedia Sites. This information includes the type of device you are using (possibly including unique device identification numbers, for some beta versions of our mobile applications), the type and version of your [browser](https://foundation.wikimedia.org/wiki/Privacy_policy/Glossary_of_key_terms#Browsers "Privacy policy/Glossary of key terms"), your browser's language preference, the type and version of your device's [operating system](https://foundation.wikimedia.org/wiki/Privacy_policy/Glossary_of_key_terms#Operating_System "Privacy policy/Glossary of key terms"), in some cases the name of your internet service provider or mobile carrier, the website that referred you to the Wikimedia Sites, which pages you request and visit, and the date and time of each request you make to the Wikimedia Sites.
 
 Put simply, we use this information to enhance your experience with Wikimedia Sites. For example, we use this information to administer the sites, provide greater security, and fight vandalism; optimize mobile applications, customize content and set language preferences, test features to see what works, and improve performance; understand how users interact with the Wikimedia Sites, track and study use of various features, gain understanding about the demographics of the different Wikimedia Sites, and analyze trends.
-
-[Back to top](#top) [![WWC arrow up.png](//upload.wikimedia.org/wikipedia/commons/c/ce/WWC_arrow_up.png)](https://foundation.wikimedia.org/wiki/Privacy_policy#top "Privacy policy#top")
 
 #### Information We Collect
 
@@ -326,8 +189,6 @@ Want to know even more? You can read more about some of the specific cookies we 
 We believe this data collection helps improve your user experience, but you may remove or disable some or all locally stored data through your browser settings, depending on your browser. You can learn more about some options you have in our [FAQ](https://foundation.wikimedia.org/wiki/Privacy_policy/FAQ#limitstorageFAQ "Privacy policy/FAQ"). While locally stored data may not be necessary to use our sites, some features will not function properly if you disable locally stored data.
 
 While the examples above concerning information about you collected through the use of data collection tools are kept confidential in accordance with this Policy, please note that some information about the actions taken by your username is made publicly available through [public logs](https://foundation.wikimedia.org/wiki/Privacy_policy/FAQ#publiclogsFAQ "Privacy policy/FAQ") alongside actions taken by other users. For example, a public log may include the date your account was created on a Wikimedia Site along with the dates that other accounts were created on a Wikimedia Site.
-
-[Back to top](#top) [![WWC arrow up.png](//upload.wikimedia.org/wikipedia/commons/c/ce/WWC_arrow_up.png)](https://foundation.wikimedia.org/wiki/Privacy_policy#top "Privacy policy#top")
 
 ### How We Use Information We Receive From You
 
@@ -353,8 +214,6 @@ We and our service providers use your information for the legitimate purpose of 
 | --- |
 | *   To use your public contributions, either aggregated with the public contributions of others or individually, to create new features or data-related products for you or to learn more about how the Wikimedia Sites are used.<br>*   For research and analytics.<br>*   To fight spam, identity theft, malware and other kinds of abuse.<br>*   To optimize mobile and other applications.<br>*   To test features to see what works, understand how users interact with the Wikimedia Sites, track and study use of various features, gain understanding about the demographics of the different Wikimedia Sites and analyze trends.<br><br>We engage in these activities to further our legitimate charitable purpose and/or to comply with our legal obligations. |
 
-[Back to top](#top) [![WWC arrow up.png](//upload.wikimedia.org/wikipedia/commons/c/ce/WWC_arrow_up.png)](https://foundation.wikimedia.org/wiki/Privacy_policy#top "Privacy policy#top")
-
 ### Other
 
 #### Location Information
@@ -365,13 +224,9 @@ We and our service providers use your information for the legitimate purpose of 
 
 As stated above, we can use commonly-used location technologies to show you more relevant content. For example, our mobile apps can identify articles from the Wikimedia sites about points of interest near your location. As a reminder, you can deactivate our access to these location technologies at any time, and still use the Wikimedia Sites.
 
-[Back to top](#top) [![WWC arrow up.png](//upload.wikimedia.org/wikipedia/commons/c/ce/WWC_arrow_up.png)](https://foundation.wikimedia.org/wiki/Privacy_policy#top "Privacy policy#top")
-
 ##### Metadata
 
 As stated above, we may automatically receive location data from your device. For example, if you upload a photo using the Wikimedia Commons mobile app, please be aware that the default setting on your mobile device typically results in the metadata associated with your photo being included in the upload. As a reminder, if you do not want metadata sent to us and made public at the time of your upload, please change your settings on your device.
-
-[Back to top](#top) [![WWC arrow up.png](//upload.wikimedia.org/wikipedia/commons/c/ce/WWC_arrow_up.png)](https://foundation.wikimedia.org/wiki/Privacy_policy#top "Privacy policy#top")
 
 ##### IP Addresses
 
@@ -379,10 +234,8 @@ When you visit any Wikimedia Site, we automatically receive the [IP address](htt
 
 We use this location information to make your experience with the Wikimedia Sites safer and better, to gain a greater understanding of user preferences and their interaction with the Wikimedia Sites, and to generally improve our services. For example, we use this information to provide greater security, optimize mobile applications, and learn how to expand and better support Wikimedia communities. We also use Personal Information in the manner described in the sections of this Policy titled "For Legal Reasons" and "To Protect You, Ourselves & Others."
 
-[Back to top](#top) [![WWC arrow up.png](//upload.wikimedia.org/wikipedia/commons/c/ce/WWC_arrow_up.png)](https://foundation.wikimedia.org/wiki/Privacy_policy#top "Privacy policy#top")
-
- [![WMF share.png](//upload.wikimedia.org/wikipedia/commons/thumb/9/90/WMF_share.png/60px-WMF_share.png)](https://foundation.wikimedia.org/wiki/File:WMF_share.png) Sharing
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Sharing
+-------
 
 ### When May We Share Your Information?
 
@@ -394,8 +247,6 @@ We share your information when you give us specific permission to do so.
 
 We share your information for a particular purpose, if you agree. You can find more information in the list of examples in our [FAQ](https://foundation.wikimedia.org/wiki/Privacy_policy/FAQ#permissionexamplesFAQ "Privacy policy/FAQ").
 
-[Back to top](#top) [![WWC arrow up.png](//upload.wikimedia.org/wikipedia/commons/c/ce/WWC_arrow_up.png)](https://foundation.wikimedia.org/wiki/Privacy_policy#top "Privacy policy#top")
-
 #### For Legal Reasons
 
 We will disclose your information in response to an official legal process only if we believe it to be legally valid. We will notify you of such requests when possible.
@@ -406,15 +257,11 @@ Nothing in this Privacy Policy is intended to limit any legal objections or defe
 
 For more information, see our [Subpoena FAQ](https://foundation.wikimedia.org/wiki/Subpoena_FAQ "Subpoena FAQ").
 
-[Back to top](#top) [![WWC arrow up.png](//upload.wikimedia.org/wikipedia/commons/c/ce/WWC_arrow_up.png)](https://foundation.wikimedia.org/wiki/Privacy_policy#top "Privacy policy#top")
-
 #### If the Organization is Transferred (Really Unlikely!)
 
 In the unlikely event that the ownership of the Foundation changes, we will provide you 30 days’ notice before any personal information is transferred to the new owners or becomes subject to a different privacy policy.
 
 In the extremely unlikely event that ownership of all or substantially all of the Foundation changes, or we go through a reorganization (such as a merger, consolidation, or acquisition), we will continue to keep your Personal Information confidential, except as provided in this Policy, and provide notice to you via the Wikimedia Sites and a notification on [WikimediaAnnounce-L](https://lists.wikimedia.org/mailman/listinfo/wikimediaannounce-l) or similar mailing list at least thirty (30) calendar days before any Personal Information is transferred or becomes subject to a different privacy policy.
-
-[Back to top](#top) [![WWC arrow up.png](//upload.wikimedia.org/wikipedia/commons/c/ce/WWC_arrow_up.png)](https://foundation.wikimedia.org/wiki/Privacy_policy#top "Privacy policy#top")
 
 #### To Protect You, Ourselves & Others
 
@@ -430,8 +277,6 @@ Wikimedia Sites are collaborative, with users writing most of the policies and s
 
 We hope that this never comes up, but we may disclose your Personal Information if we believe that it's reasonably necessary to prevent imminent and serious bodily harm or death to a person, or to protect our organization, employees, contractors, users, or the public. We may also disclose your Personal Information if we reasonably believe it necessary to detect, prevent, or otherwise assess and address potential spam, malware, fraud, abuse, unlawful activity, and security or technical concerns. (Check out the list of examples in our [FAQ](https://foundation.wikimedia.org/wiki/Privacy_policy/FAQ#investigateuseFAQ "Privacy policy/FAQ") for more information.)
 
-[Back to top](#top) [![WWC arrow up.png](//upload.wikimedia.org/wikipedia/commons/c/ce/WWC_arrow_up.png)](https://foundation.wikimedia.org/wiki/Privacy_policy#top "Privacy policy#top")
-
 #### To Our Service Providers
 
 We may disclose personal information to our third party service providers or contractors to help run or improve the Wikimedia Sites and provide services in support of our mission.
@@ -439,8 +284,6 @@ We may disclose personal information to our third party service providers or con
 As hard as we may try, we can't do it all. So sometimes we use third-party service providers or contractors who help run or improve the Wikimedia Sites for you and other users. We give access to your Personal Information to these providers or contractors as needed to perform their services for us or to use their tools and services. We put requirements, such as confidentiality agreements, in place to help ensure that these service providers treat your information consistently with, and no less protective of your privacy than, the principles of this Policy. (Check out the list of examples in our [FAQ](https://foundation.wikimedia.org/wiki/Privacy_policy/FAQ#thirdpartyshareexamplesFAQ "Privacy policy/FAQ").)
 
 If you are visiting Wikimedia Sites with your mobile device, we use your IP address to provide anonymized or aggregated information to service providers regarding the volume of usage in certain areas.
-
-[Back to top](#top) [![WWC arrow up.png](//upload.wikimedia.org/wikipedia/commons/c/ce/WWC_arrow_up.png)](https://foundation.wikimedia.org/wiki/Privacy_policy#top "Privacy policy#top")
 
 #### To Understand & Experiment
 
@@ -454,20 +297,16 @@ Similarly, we share non-Personal Information or aggregated information with rese
 
 When we give access to personal information to third-party developers or researchers, we put requirements, such as reasonable technical and contractual protections, in place to help ensure that these service providers treat your information consistently with the principles of this Policy and in accordance with our instructions. If these developers or researchers later publish their work or findings, we ask that they not disclose your personal information. Please note that, despite the obligations we impose on developers and researchers, we cannot guarantee that they will abide by our agreement, nor do we guarantee that we will regularly screen or audit their projects. (You can learn more about re-identification in our [FAQ](https://foundation.wikimedia.org/wiki/Privacy_policy/FAQ#reidentifiationFAQ "Privacy policy/FAQ").)
 
-[Back to top](#top) [![WWC arrow up.png](//upload.wikimedia.org/wikipedia/commons/c/ce/WWC_arrow_up.png)](https://foundation.wikimedia.org/wiki/Privacy_policy#top "Privacy policy#top")
-
 #### Because You Made It Public
 
 Information that you post is public and can been seen and used by everyone.
 
 Any information you post publicly on the Wikimedia Sites is just that – public. For example, if you put your mailing address on your talk page, that is public, and not protected by this Policy. And if you edit without registering or logging into your account, your IP address will be seen publicly. Please think carefully about your desired level of anonymity before you disclose Personal Information on your user page or elsewhere.
 
-[Back to top](#top) [![WWC arrow up.png](//upload.wikimedia.org/wikipedia/commons/c/ce/WWC_arrow_up.png)](https://foundation.wikimedia.org/wiki/Privacy_policy#top "Privacy policy#top")
-
   
 
- [![WMF safe.png](//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/WMF_safe.png/60px-WMF_safe.png)](https://foundation.wikimedia.org/wiki/File:WMF_safe.png) Protection
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Protection
+----------
 
 ### How Do We Protect Your Data?
 
@@ -477,8 +316,6 @@ We strive to protect your information from unauthorized access, use, or disclosu
 
 We will never ask for your password by email (but may send you a temporary password via email if you have requested a password reset). If you ever receive an email that requests your password, please let us know by sending it to privacy@wikimedia.org, so we can investigate the source of the email.
 
-[Back to top](#top) [![WWC arrow up.png](//upload.wikimedia.org/wikipedia/commons/c/ce/WWC_arrow_up.png)](https://foundation.wikimedia.org/wiki/Privacy_policy#top "Privacy policy#top")
-
 ### How Long Do We Keep Your Data?
 
 Except as otherwise stated in this policy, we only keep your Personal Information as long as necessary to maintain, understand and improve the Wikimedia Sites or to comply with U.S. law.
@@ -487,18 +324,14 @@ Once we receive Personal Information from you, we keep it for the shortest possi
 
 Please remember that certain information, such as your [IP address](https://foundation.wikimedia.org/wiki/Privacy_policy/Glossary_of_key_terms#Internet_Protocol_Address "Privacy policy/Glossary of key terms") (if you edit while not logged in) and any public contributions to the Wikimedia Sites, is archived and displayed indefinitely by design; the transparency of the projects’ contribution and revision histories is critical to their efficacy and trustworthiness. To learn more about our data retention practices, see our [data retention guidelines](https://meta.wikimedia.org/wiki/Data_retention_guidelines). For further information about how you may request access to or deletion of your Personal Information, or other rights you may have with respect to your Personal Information, see our [FAQ](https://foundation.wikimedia.org/wiki/Privacy_policy/FAQ#anonymize "Privacy policy/FAQ").
 
-[Back to top](#top) [![WWC arrow up.png](//upload.wikimedia.org/wikipedia/commons/c/ce/WWC_arrow_up.png)](https://foundation.wikimedia.org/wiki/Privacy_policy#top "Privacy policy#top")
-
- [![WMF sign.png](//upload.wikimedia.org/wikipedia/commons/thumb/9/92/WMF_sign.png/60px-WMF_sign.png)](https://foundation.wikimedia.org/wiki/File:WMF_sign.png) Important info
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Important info
+--------------
 
 **For the protection of the Wikimedia Foundation and other users, if you do not agree with this Privacy Policy, you may not use the Wikimedia Sites.**
 
 ### Where is the Foundation & What Does That Mean for Me?
 
 The Wikimedia Foundation is a non-profit organization based in San Francisco, California, with servers and data centers located in the U.S. If you decide to use Wikimedia Sites, whether from inside or outside of the U.S., you understand that your Personal Information will be collected, transferred, stored, processed, disclosed and otherwise used in the U.S. as described in this Privacy Policy. You also understand that your information may be transferred by us from the U.S. to other countries, which may have different or less stringent data protection laws than your country, in connection with providing services to you.
-
-[Back to top](#top) [![WWC arrow up.png](//upload.wikimedia.org/wikipedia/commons/c/ce/WWC_arrow_up.png)](https://foundation.wikimedia.org/wiki/Privacy_policy#top "Privacy policy#top")
 
 ### Our Response to Do Not Track (DNT) signals
 
@@ -511,8 +344,6 @@ We are strongly committed to not sharing nonpublic information and Personal Info
 Because we protect all users in this manner, we do not change our behavior in response to a web browser's "do not track" signal.
 
 For more information regarding Do Not Track signals and how we handle them, please visit our [FAQ](https://foundation.wikimedia.org/wiki/Privacy_policy/FAQ#DNTFAQ "Privacy policy/FAQ").
-
-[Back to top](#top) [![WWC arrow up.png](//upload.wikimedia.org/wikipedia/commons/c/ce/WWC_arrow_up.png)](https://foundation.wikimedia.org/wiki/Privacy_policy#top "Privacy policy#top")
 
 ### Changes to This Privacy Policy
 
@@ -537,8 +368,6 @@ Thank you for reading our Privacy Policy. We hope you enjoy using the Wikimedia 
 
 **Please note that in the event of any differences in meaning or interpretation between the original English version of this Privacy Policy and a translation, the original English version takes precedence.**
 
-[Back to top](#top) [![WWC arrow up.png](//upload.wikimedia.org/wikipedia/commons/c/ce/WWC_arrow_up.png)](https://foundation.wikimedia.org/wiki/Privacy_policy#top "Privacy policy#top")
-
 * * *
 
 **This version was approved by [Katherine Maher](https://foundation.wikimedia.org/wiki/User:Katherine_(WMF) "User:Katherine (WMF)") on May 17, 2018, pursuant to the [Delegation of policy-making authority](https://foundation.wikimedia.org/wiki/Resolution:Delegation_of_policy-making_authority "Resolution:Delegation of policy-making authority") by the Board, and went into effect on May 24, 2018. Previous versions can be found below:**
@@ -558,99 +387,3 @@ Thank you for reading our Privacy Policy. We hope you enjoy using the Wikimedia 
 Privacy policy **·** [FAQ](https://foundation.wikimedia.org/wiki/Privacy_policy/FAQ "Privacy policy/FAQ") **·** [Glossary of key terms](https://foundation.wikimedia.org/wiki/Privacy_policy/Glossary_of_key_terms "Privacy policy/Glossary of key terms") **·** [Wikimedia blog privacy policy](https://foundation.wikimedia.org/wiki/Wikimedia_blog_privacy_policy "Wikimedia blog privacy policy") **·** [Subpoena FAQ](https://foundation.wikimedia.org/wiki/Privacy_policy/Subpoena_FAQ "Privacy policy/Subpoena FAQ") **·** [Access to nonpublic information](https://meta.wikimedia.org/wiki/Access_to_nonpublic_information_policy "m:Access to nonpublic information policy") **·** [Data retention guidelines](https://meta.wikimedia.org/wiki/Data_retention_guidelines "m:Data retention guidelines") **·** [Donor policy](https://foundation.wikimedia.org/wiki/Donor_policy "Donor policy") **·** [Requests for user information](https://foundation.wikimedia.org/wiki/Requests_for_user_information_procedures_%26_guidelines "Requests for user information procedures & guidelines")
 
 Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Privacy\_policy&oldid=123545](https://foundation.wikimedia.org/w/index.php?title=Privacy_policy&oldid=123545)"
-
-[Categories](https://foundation.wikimedia.org/wiki/Special:Categories "Special:Categories"):
-
-*   [Privacy policy](https://foundation.wikimedia.org/wiki/Category:Privacy_policy "Category:Privacy policy")
-*   [Policy](https://foundation.wikimedia.org/wiki/Category:Policy "Category:Policy")
-
-Hidden category:
-
-*   [Governance wiki](https://foundation.wikimedia.org/wiki/Category:Governance_wiki "Category:Governance wiki")
-
-Navigation menu
----------------
-
-### Personal tools
-
-*   [English](#)
-*   [Log in](https://foundation.wikimedia.org/w/index.php?title=Special:UserLogin&returnto=Privacy+policy "You are encouraged to log in; however, it is not mandatory [o]")
-
-### Namespaces
-
-*   [Page](https://foundation.wikimedia.org/wiki/Privacy_policy "View the content page [c]")
-*   [Discussion](https://foundation.wikimedia.org/w/index.php?title=Talk:Privacy_policy&action=edit&redlink=1 "Discussion about the content page (page does not exist) [t]")
-
-### Variants
-
-### Views
-
-*   [Read](https://foundation.wikimedia.org/wiki/Privacy_policy)
-*   [Feedback](https://foundation.wikimedia.org/w/index.php?title=Privacy_policy&action=edit "This page is protected.
-    You can view its source [e]")
-*   [View history](https://foundation.wikimedia.org/w/index.php?title=Privacy_policy&action=history "Past revisions of this page [h]")
-
-### More
-
-### Search
-
-   
-
-### About Wikimedia
-
-*   [Home](https://foundation.wikimedia.org/wiki/Home "Visit the main page [z]")
-*   [Official website](https://wikimediafoundation.org/)
-*   [Contact us](https://wikimediafoundation.org/about/contact/)
-*   [Wikimedia Blog](https://wikimediafoundation.org/news/)
-*   [Questions for Wikimedia?](https://meta.wikimedia.org/wiki/Answers)
-
-### Support
-
-*   [Donate](https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_wikimediafoundation.org "Support us")
-*   [Volunteering](https://wikimediafoundation.org/participate/)
-*   [Wikimedia Shop](https://store.wikimedia.org/)
-
-### Corporate
-
-*   [Bylaws](https://foundation.wikimedia.org/wiki/Bylaws)
-*   [Values](https://foundation.wikimedia.org/wiki/Values)
-*   [Policies](https://foundation.wikimedia.org/wiki/Policies)
-*   [Resolutions](https://foundation.wikimedia.org/wiki/Resolutions)
-*   [Annual Report](https://annual.wikimedia.org/)
-*   [Financial reports and Form 990](https://wikimediafoundation.org/about/financial-reports/)
-*   [Fundraising reports](https://foundation.wikimedia.org/wiki/Fundraising_reports)
-*   [Movement affiliates](https://meta.wikimedia.org/wiki/Wikimedia_movement_affiliates)
-
-### Wiki
-
-*   [Give feedback](https://foundation.wikimedia.org/wiki/Give_feedback)
-*   [Recent changes](https://foundation.wikimedia.org/wiki/Special:RecentChanges "A list of recent changes in the wiki [r]")
-
-### Tools
-
-*   [What links here](https://foundation.wikimedia.org/wiki/Special:WhatLinksHere/Privacy_policy "A list of all wiki pages that link here [j]")
-*   [Related changes](https://foundation.wikimedia.org/wiki/Special:RecentChangesLinked/Privacy_policy "Recent changes in pages linked from this page [k]")
-*   [Special pages](https://foundation.wikimedia.org/wiki/Special:SpecialPages "A list of all special pages [q]")
-*   [Permanent link](https://foundation.wikimedia.org/w/index.php?title=Privacy_policy&oldid=123545 "Permanent link to this revision of the page")
-*   [Page information](https://foundation.wikimedia.org/w/index.php?title=Privacy_policy&action=info "More information about this page")
-*   [Cite this page](https://foundation.wikimedia.org/w/index.php?title=Special:CiteThisPage&page=Privacy_policy&id=123545&wpFormIdentifier=titleform "Information on how to cite this page")
-
-### Print/export
-
-*   [Create a book](https://foundation.wikimedia.org/w/index.php?title=Special:Book&bookcmd=book_creator&referer=Privacy+policy)
-*   [Download as PDF](https://foundation.wikimedia.org/w/index.php?title=Special:DownloadAsPdf&page=Privacy_policy&action=show-download-screen)
-*   [Printable version](https://foundation.wikimedia.org/w/index.php?title=Privacy_policy&printable=yes "Printable version of this page [p]")
-
-*   This page was last edited on 8 October 2020, at 00:45.
-*   Text is available under the [Creative Commons Attribution-ShareAlike License](https://creativecommons.org/licenses/by-sa/3.0/); additional terms may apply. See [Terms of Use](https://foundation.wikimedia.org/wiki/Terms_of_Use) for details.
-
-*   [Privacy policy](https://foundation.wikimedia.org/wiki/Privacy_policy "Privacy policy")
-*   [About Wikimedia Foundation Governance Wiki](https://foundation.wikimedia.org/wiki/Home "Home")
-*   [Disclaimers](https://foundation.wikimedia.org/wiki/Wikimedia:General_disclaimer "Wikimedia:General disclaimer")
-*   [Mobile view](https://foundation.m.wikimedia.org/w/index.php?title=Privacy_policy&mobileaction=toggle_view_mobile)
-*   [Developers](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute)
-*   [Statistics](https://stats.wikimedia.org/#/foundation.wikimedia.org)
-*   [Cookie statement](https://foundation.wikimedia.org/wiki/Cookie_statement)
-
-*   [![Wikimedia Foundation](/static/images/footer/wikimedia-button.png)](https://wikimediafoundation.org/)
-*   [![Powered by MediaWiki](/static/images/footer/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
