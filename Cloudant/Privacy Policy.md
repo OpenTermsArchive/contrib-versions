@@ -1,18 +1,3 @@
-[IBM®](https://www.ibm.com/be/en)
-
-*   [Site map](https://www.ibm.com/sitemap/be/en)
-
-IBM      
-
-IBM Privacy Statement
-=====================
-
-[Nederlands](https://www.ibm.com/nl-nl/privacy) [Français](https://www.ibm.com/be-fr/privacy)
-
-*   [IBM Privacy Statement](https://www.ibm.com/be-en/privacy)
-*   [IBM Online Privacy Statement](https://www.ibm.com/be-en/privacy/details)
-*   [Contact Us](https://www.ibm.com/be-en/privacy/contactus)
-
 IBM Privacy Statement
 ---------------------
 
@@ -71,8 +56,6 @@ The international footprint of IBM involves a large number of transfers of perso
 *   IBM certified to the Swiss-U.S. Privacy Shield Framework.   
     While the EU-U.S. Privacy Shield Framework may no longer be used or relied upon for transfer of personal information, IBM continues to comply with all EU-U.S. Privacy Shield Framework obligations. More information can be found here: [IBM Privacy Shield Privacy Policy](https://www.ibm.com/privacy/privacy-shield "IBM-Privacy-Shield-Privacy-Policy-for-Certified-IBM-Cloud-Services") and[US Department of Commerce](https://www.privacyshield.gov/welcome).
 
-[Back to top](#ibm-content-main)
-
 **Information Security and Accuracy**  
   
 We intend to protect your personal information and to maintain its accuracy. IBM implements reasonable physical, administrative and technical safeguards to help us protect your personal information from unauthorized access, use and disclosure. For example, we encrypt certain sensitive personal information such as credit card information when we transmit such information over the Internet. We also require that our suppliers protect such information from unauthorized access, use and disclosure.
@@ -111,15 +94,3 @@ In the event you consider our processing of your personal information not to be 
 **Changes to our Privacy Statements**  
   
 We may update this Privacy Statement from time to time to reflect changes to our data governance practices. The revised Privacy Statement will be posted here with an updated revision date. We encourage you to check back periodically for any changes or updates. If we make a material change to our Privacy Statement, we will post a notice at the top of this page for 30 days. By continuing to use our websites after such revision takes effect we consider that you have read and understand the changes.
-
-Other privacy statements & policies
------------------------------------
-
-[Learn about how IBM tailors its interactions with you](https://www.ibm.com/uk-en/privacy/privacy-interactions)
-
-*   [IBM Controller Binding Corporate Rules (US)](https://www.ibm.com/privacy/bcr)
-
-[Back to top](#ibm-content-main)  
- 
-
-*   [Cookie preferences](#)
