@@ -1,64 +1,47 @@
-[Skip to main content](#maincontent)
+![](https://sb.scorecardresearch.com/p?c1=2&c2=6035250&cv=2.0&cj=1&cs_ucfr=0&comscorekw=Supplying content to Guardian News & Media,Information,Help)           
 
-[The Guardian - Back to home](https://www.theguardian.com/uk)
+UK edition
+
+*   [UK edition](https://www.theguardian.com/preference/edition/uk)
+*   [US edition](https://www.theguardian.com/preference/edition/us)
+*   [Australian edition](https://www.theguardian.com/preference/edition/au)
+*   [International edition](https://www.theguardian.com/preference/edition/int)
+
+[The Guardian - Back to home](https://www.theguardian.com/)
 
 [Search jobs](https://jobs.theguardian.com/?INTCMP=jobs_uk_web_newheader)
 
-[Sign in](https://profile.theguardian.com/signin?INTCMP=DOTCOM_NEWHEADER_SIGNIN&componentEventParams=componentType%3Didentityauthentication%26componentId%3Dguardian_signin_header)  My account 
+[Sign in](https://profile.theguardian.com/signin?INTCMP=DOTCOM_NEWHEADER_SIGNIN&ABCMP=ab-sign-in&componentEventParams=componentType%3Didentityauthentication%26componentId%3Dguardian_signin_header)[Search](https://www.google.co.uk/advanced_search?q=site:www.theguardian.com)
 
-*   [Account overview](https://manage.theguardian.com/)
-*   [Billing](https://manage.theguardian.com/billing)
-*   [Profile](https://manage.theguardian.com/public-settings)
-*   [Emails & marketing](https://manage.theguardian.com/email-prefs)
-*   [Settings](https://manage.theguardian.com/account-settings)
-*   [Help](https://manage.theguardian.com/help)
+*   [News](https://www.theguardian.com/)
+*   [Opinion](https://www.theguardian.com/commentisfree)
+*   [Sport](https://www.theguardian.com/sport)
+*   [Culture](https://www.theguardian.com/culture)
+*   [Lifestyle](https://www.theguardian.com/lifeandstyle)
 
-* * *
+ShowMoreShow More
 
-*   Comments & replies
-
-* * *
-
-*   [Sign out](https://profile.theguardian.com/signout)
-
-[Search](https://www.google.co.uk/advanced_search?q=site:www.theguardian.com)
-
-*   [switch to the UK edition](https://www.theguardian.com/preference/edition/uk)
-*   [switch to the US edition](https://www.theguardian.com/preference/edition/us)
-*   [switch to the Australia edition](https://www.theguardian.com/preference/edition/au)
-*   [switch to the International edition](https://www.theguardian.com/preference/edition/int)
-
-current edition: UK edition
-
-*   [News](https://www.theguardian.com/uk)
-*   [Opinion](https://www.theguardian.com/uk/commentisfree)
-*   [Sport](https://www.theguardian.com/uk/sport)
-*   [Culture](https://www.theguardian.com/uk/culture)
-*   [Lifestyle](https://www.theguardian.com/uk/lifeandstyle)
-
-    Show More    
-
-*   News
+*   [ ] News
     *   [UK news](https://www.theguardian.com/uk-news)
     *   [World news](https://www.theguardian.com/world)
-    *   [Business](https://www.theguardian.com/uk/business)
+    *   [Business](https://www.theguardian.com/business)
     *   [Coronavirus](https://www.theguardian.com/world/coronavirus-outbreak)
     *   [Football](https://www.theguardian.com/football)
-    *   [Environment](https://www.theguardian.com/uk/environment)
+    *   [Environment](https://www.theguardian.com/environment)
     *   [UK politics](https://www.theguardian.com/politics)
     *   [Education](https://www.theguardian.com/education)
     *   [Society](https://www.theguardian.com/society)
     *   [Science](https://www.theguardian.com/science)
-    *   [Tech](https://www.theguardian.com/uk/technology)
+    *   [Tech](https://www.theguardian.com/technology)
     *   [Global development](https://www.theguardian.com/global-development)
     *   [Obituaries](https://www.theguardian.com/tone/obituaries)
-*   Opinion
+*   [ ] Opinion
     *   [The Guardian view](https://www.theguardian.com/profile/editorial)
     *   [Columnists](https://www.theguardian.com/index/contributors)
     *   [Cartoons](https://www.theguardian.com/cartoons/archive)
     *   [Opinion videos](https://www.theguardian.com/type/video+tone/comment)
     *   [Letters](https://www.theguardian.com/tone/letters)
-*   Sport
+*   [ ] Sport
     *   [Football](https://www.theguardian.com/football)
     *   [Cricket](https://www.theguardian.com/sport/cricket)
     *   [Rugby union](https://www.theguardian.com/sport/rugby-union)
@@ -70,84 +53,68 @@ current edition: UK edition
     *   [Rugby league](https://www.theguardian.com/sport/rugbyleague)
     *   [Racing](https://www.theguardian.com/sport/horse-racing)
     *   [US sports](https://www.theguardian.com/sport/us-sport)
-*   Culture
-    *   [Film](https://www.theguardian.com/uk/film)
+*   [ ] Culture
+    *   [Film](https://www.theguardian.com/film)
     *   [Music](https://www.theguardian.com/music)
-    *   [TV & radio](https://www.theguardian.com/uk/tv-and-radio)
+    *   [TV & radio](https://www.theguardian.com/tv-and-radio)
     *   [Books](https://www.theguardian.com/books)
     *   [Art & design](https://www.theguardian.com/artanddesign)
     *   [Stage](https://www.theguardian.com/stage)
     *   [Games](https://www.theguardian.com/games)
     *   [Classical](https://www.theguardian.com/music/classicalmusicandopera)
-*   Lifestyle
+*   [ ] Lifestyle
     *   [Fashion](https://www.theguardian.com/fashion)
     *   [Food](https://www.theguardian.com/food)
     *   [Recipes](https://www.theguardian.com/tone/recipes)
-    *   [Travel](https://www.theguardian.com/uk/travel)
+    *   [Travel](https://www.theguardian.com/travel)
     *   [Health & fitness](https://www.theguardian.com/lifeandstyle/health-and-wellbeing)
     *   [Women](https://www.theguardian.com/lifeandstyle/women)
     *   [Men](https://www.theguardian.com/lifeandstyle/men)
     *   [Love & sex](https://www.theguardian.com/lifeandstyle/love-and-sex)
     *   [Beauty](https://www.theguardian.com/fashion/beauty)
     *   [Home & garden](https://www.theguardian.com/lifeandstyle/home-and-garden)
-    *   [Money](https://www.theguardian.com/uk/money)
+    *   [Money](https://www.theguardian.com/money)
     *   [Cars](https://www.theguardian.com/technology/motoring)
-
-   What term do you want to search?    Search with google  
 
 *   [Make a contribution](https://support.theguardian.com/contribute?INTCMP=side_menu_support_contribute&acquisitionData=%7B%22componentType%22:%22ACQUISITIONS_HEADER%22,%22componentId%22:%22side_menu_support_contribute%22,%22source%22:%22GUARDIAN_WEB%22%7D)
 *   [Subscribe](https://support.theguardian.com/subscribe?INTCMP=side_menu_support_subscribe&acquisitionData=%7B%22componentType%22:%22ACQUISITIONS_HEADER%22,%22componentId%22:%22side_menu_support_subscribe%22,%22source%22:%22GUARDIAN_WEB%22%7D)
 
-*   UK edition
-    *   [switch to the US edition](https://www.theguardian.com/preference/edition/us)
-    *   [switch to the Australia edition](https://www.theguardian.com/preference/edition/au)
-    *   [switch to the International edition](https://www.theguardian.com/preference/edition/int)
-
-*   [Search jobs](https://jobs.theguardian.com/?INTCMP=jobs_uk_web_newheader_dropdown)
-*   [Hire with Guardian Jobs](https://recruiters.theguardian.com/?utm_source=gdnwb&amp;utm_medium=navbar&amp;utm_campaign=Guardian_Navbar_Recruiters&amp;CMP_TU=trdmkt&amp;CMP_BUNIT=jobs)
-*   [Holidays](https://holidays.theguardian.com/?INTCMP=holidays_uk_web_newheader)
-*   [Live events](https://membership.theguardian.com/events?INTCMP=live_uk_header_dropdown)
-*   [Masterclasses](https://www.theguardian.com/guardian-masterclasses)
-*   [Digital Archive](https://theguardian.newspapers.com/)
-*   [Guardian Print Shop](https://www.theguardian.com/artanddesign/series/gnm-print-sales)
-*   [Patrons](https://patrons.theguardian.com/?INTCMP=header_patrons)
-*   [Guardian Puzzles app](https://puzzles.theguardian.com/download)
-*   [The Guardian app](https://www.theguardian.com/mobile/2014/may/29/the-guardian-for-mobile-and-tablet)
-*   [Video](https://www.theguardian.com/video)
-*   [Podcasts](https://www.theguardian.com/podcasts)
-*   [Pictures](https://www.theguardian.com/inpictures)
-*   [Newsletters](https://www.theguardian.com/email-newsletters)
-*   [Today's paper](https://www.theguardian.com/theguardian)
-*   [Inside the Guardian](https://www.theguardian.com/membership)
-*   [The Observer](https://www.theguardian.com/observer)
-*   [Guardian Weekly](https://www.theguardian.com/weekly?INTCMP=gdnwb_mawns_editorial_gweekly_GW_TopNav_UK)
-*   [Professional networks](https://www.theguardian.com/guardian-professional)
-*   [Crosswords](https://www.theguardian.com/crosswords)
-*   [Facebook](https://www.facebook.com/theguardian)
-*   [Twitter](https://twitter.com/guardian)
-
-*   [Search jobs](https://jobs.theguardian.com/?INTCMP=jobs_uk_web_newheader_dropdown)
-*   [Hire with Guardian Jobs](https://recruiters.theguardian.com/?utm_source=gdnwb&amp;utm_medium=navbar&amp;utm_campaign=Guardian_Navbar_Recruiters&amp;CMP_TU=trdmkt&amp;CMP_BUNIT=jobs)
-*   [Holidays](https://holidays.theguardian.com/?INTCMP=holidays_uk_web_newheader)
-*   [Live events](https://membership.theguardian.com/events?INTCMP=live_uk_header_dropdown)
-*   [Masterclasses](https://www.theguardian.com/guardian-masterclasses)
-*   [Digital Archive](https://theguardian.newspapers.com/)
-*   [Guardian Print Shop](https://www.theguardian.com/artanddesign/series/gnm-print-sales)
-*   [Patrons](https://patrons.theguardian.com/?INTCMP=header_patrons)
-*   [Guardian Puzzles app](https://puzzles.theguardian.com/download)
-
-  
+*   *   [Search jobs](https://jobs.theguardian.com/?INTCMP=jobs_uk_web_newheader_dropdown)
+    *   [Hire with Guardian Jobs](https://recruiters.theguardian.com/?utm_source=gdnwb&utm_medium=navbar&utm_campaign=Guardian_Navbar_Recruiters&CMP_TU=trdmkt&CMP_BUNIT=jobs)
+    *   [Holidays](https://holidays.theguardian.com/?INTCMP=holidays_uk_web_newheader)
+    *   [Live events](https://membership.theguardian.com/events?INTCMP=live_uk_header_dropdown)
+    *   [Masterclasses](https://www.theguardian.com/guardian-masterclasses)
+    *   [Digital Archive](https://theguardian.newspapers.com/)
+    *   [Guardian Print Shop](https://www.theguardian.com/artanddesign/series/gnm-print-sales)
+    *   [Patrons](https://patrons.theguardian.com/?INTCMP=header_patrons)
+    *   [Guardian Puzzles app](https://puzzles.theguardian.com/download)
+    *   [The Guardian app](https://www.theguardian.com/mobile/2014/may/29/the-guardian-for-mobile-and-tablet)
+    *   [Video](https://www.theguardian.com/video)
+    *   [Podcasts](https://www.theguardian.com/podcasts)
+    *   [Pictures](https://www.theguardian.com/inpictures)
+    *   [Newsletters](https://www.theguardian.com/email-newsletters)
+    *   [Today's paper](https://www.theguardian.com/theguardian)
+    *   [Inside the Guardian](https://www.theguardian.com/membership)
+    *   [The Observer](https://www.theguardian.com/observer)
+    *   [Guardian Weekly](https://www.theguardian.com/weekly?INTCMP=gdnwb_mawns_editorial_gweekly_GW_TopNav_UK)
+    *   [Professional networks](https://www.theguardian.com/guardian-professional)
+    *   [Crosswords](https://www.theguardian.com/crosswords)
+*   *   [Search jobs](https://jobs.theguardian.com/?INTCMP=jobs_uk_web_newheader_dropdown)
+    *   [Hire with Guardian Jobs](https://recruiters.theguardian.com/?utm_source=gdnwb&utm_medium=navbar&utm_campaign=Guardian_Navbar_Recruiters&CMP_TU=trdmkt&CMP_BUNIT=jobs)
+    *   [Holidays](https://holidays.theguardian.com/?INTCMP=holidays_uk_web_newheader)
+    *   [Live events](https://membership.theguardian.com/events?INTCMP=live_uk_header_dropdown)
+    *   [Masterclasses](https://www.theguardian.com/guardian-masterclasses)
+    *   [Digital Archive](https://theguardian.newspapers.com/)
+    *   [Guardian Print Shop](https://www.theguardian.com/artanddesign/series/gnm-print-sales)
+    *   [Patrons](https://patrons.theguardian.com/?INTCMP=header_patrons)
+    *   [Guardian Puzzles app](https://puzzles.theguardian.com/download)
 
 [Supplying content to Guardian News & Media](https://www.theguardian.com/info/contributing-to-the-guardian-and-observer)
 
 Terms and conditions
 ====================
 
-Fri 19 Mar 2010 15.43 GMT First published on Fri 19 Mar 2010 15.43 GMT
-
-*   [Share on Facebook](https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fhelp%2Fterms-of-service%3FCMP%3Dshare_btn_fb "Facebook")
-*   [Share on Twitter](https://twitter.com/intent/tweet?text=Terms%20and%20conditions&url=https%3A%2F%2Fwww.theguardian.com%2Fhelp%2Fterms-of-service%3FCMP%3Dshare_btn_tw "Twitter")
-*   [Share via Email](mailto:?subject=Terms%20and%20conditions&body=https%3A%2F%2Fwww.theguardian.com%2Fhelp%2Fterms-of-service%3FCMP%3Dshare_btn_link "Email")
+Fri 19 Mar 2010 15.43 GMT
 
 **Terms and conditions of use  
 **
@@ -339,24 +306,13 @@ Topics
 
 *   [help](https://www.theguardian.com/tone/help)
 
-*   [Share on Facebook](https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fhelp%2Fterms-of-service%3FCMP%3Dshare_btn_fb "Facebook")
-*   [Share on Twitter](https://twitter.com/intent/tweet?text=Terms%20and%20conditions&url=https%3A%2F%2Fwww.theguardian.com%2Fhelp%2Fterms-of-service%3FCMP%3Dshare_btn_tw "Twitter")
-*   [Share via Email](mailto:?subject=Terms%20and%20conditions&body=https%3A%2F%2Fwww.theguardian.com%2Fhelp%2Fterms-of-service%3FCMP%3Dshare_btn_link "Email")
-*   [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&title=Terms%20and%20conditions&url=https%3A%2F%2Fwww.theguardian.com%2Fhelp%2Fterms-of-service "LinkedIn")
-*   [Share on Pinterest](http://www.pinterest.com/pin/find/?url=https%3A%2F%2Fwww.theguardian.com%2Fhelp%2Fterms-of-service "Pinterest")
-*   [Share on WhatsApp](whatsapp://send?text=%22Terms%20and%20conditions%22%20https%3A%2F%2Fwww.theguardian.com%2Fhelp%2Fterms-of-service%3FCMP%3Dshare_btn_wa "WhatsApp")
-*   [Share on Messenger](fb-messenger://share?link=https%3A%2F%2Fwww.theguardian.com%2Fhelp%2Fterms-of-service%3FCMP%3Dshare_btn_me&app_id=180444840287 "Messenger")
+*   [Reuse this content](https://syndication.theguardian.com/automation/?url=https%3A%2F%2Fwww.theguardian.com%2Fhelp%2Fterms-of-service&type=article&internalpagecode=help/terms-of-service "Reuse this content")
 
-*   [Reuse this content](https://syndication.theguardian.com/automation/?url=https%3A%2F%2Fwww.theguardian.com%2Fhelp%2Fterms-of-service&type=article&internalpagecode=1373767 "Reuse this content")
-
-[Most popular](https://www.theguardian.com/most-read/info)
-----------------------------------------------------------
-
-*   [News](https://www.theguardian.com/uk)
-*   [Opinion](https://www.theguardian.com/uk/commentisfree)
-*   [Sport](https://www.theguardian.com/uk/sport)
-*   [Culture](https://www.theguardian.com/uk/culture)
-*   [Lifestyle](https://www.theguardian.com/uk/lifeandstyle)
+*   [News](https://www.theguardian.com/)
+*   [Opinion](https://www.theguardian.com/commentisfree)
+*   [Sport](https://www.theguardian.com/sport)
+*   [Culture](https://www.theguardian.com/culture)
+*   [Lifestyle](https://www.theguardian.com/lifeandstyle)
 
 *   [About us](https://www.theguardian.com/about)
 *   [Contact us](https://www.theguardian.com/help/contact-us)
@@ -381,20 +337,6 @@ Topics
 *   [Search jobs](https://jobs.theguardian.com/?INTCMP=NGW_FOOTER_UK_GU_JOBS)
 *   [Patrons](https://patrons.theguardian.com/?INTCMP=footer_patrons)
 
-Support The Guardian
-
-Available for everyone, funded by readers
-
-[Contribute](https://support.theguardian.com/contribute?INTCMP=footer_support_contribute&acquisitionData=%7B%22componentType%22:%22ACQUISITIONS_FOOTER%22,%22componentId%22:%22footer_support_contribute%22,%22source%22:%22GUARDIAN_WEB%22%7D) [Subscribe](https://support.theguardian.com/subscribe?INTCMP=footer_support_subscribe&acquisitionData=%7B%22componentType%22:%22ACQUISITIONS_FOOTER%22,%22componentId%22:%22footer_support_subscribe%22,%22source%22:%22GUARDIAN_WEB%22%7D)
-
 [Back to top](#top)
 
-© 2020 Guardian News & Media Limited or its affiliated companies. All rights reserved.
-
-Close
-
-![](//phar.gu-web.net/count/pvg.gif)
-
-![](https://sb.scorecardresearch.com/p?c1=2&c2=6035250&cv=2.0&cj=1&cs_ucfr=0&gdpr=0&comscorekw=Supplying+content+to+Guardian+News+%26+Media%2CInformation%2CHelp)
-
-![](//phar.gu-web.net/count/pv.gif)
+© 2020 Guardian News & Media Limited or its affiliated companies. All rights reserved. (modern)
