@@ -1,151 +1,5 @@
-[Privacy & Terms](https://policies.google.com/ "Privacy & Terms")
-
-*   [
-    
-    Account](https://myaccount.google.com/?utm_source=OGB&utm_medium=app)
-*   [
-    
-    Search](https://www.google.com.qa/webhp)
-*   [
-    
-    Maps](https://maps.google.com.qa/maps?hl=en-GB)
-*   [
-    
-    YouTube](https://www.youtube.com/?gl=QA)
-*   [
-    
-    Play](https://play.google.com/?hl=en-GB)
-*   [
-    
-    News](https://news.google.com/)
-*   [
-    
-    Gmail](https://mail.google.com/mail/)
-*   [
-    
-    Meet](https://meet.google.com/?hs=197)
-*   [
-    
-    Contacts](https://contacts.google.com/?hl=en-GB)
-*   [
-    
-    Drive](https://drive.google.com/)
-*   [
-    
-    Calendar](https://www.google.com/calendar)
-*   [
-    
-    Translate](https://translate.google.com.qa/?hl=en-GB)
-*   [
-    
-    Photos](https://photos.google.com/?pageId=none)
-*   [
-    
-    Duo](https://duo.google.com/?usp=duo_ald)
-*   [
-    
-    Chrome](https://www.google.com/chrome/?brand=CHZO&utm_source=google.com&utm_medium=desktop-app-launcher&utm_campaign=desktop-app-launcher&utm_content=chrome-logo&utm_keyword=CHZO)
-
-*   [
-    
-    Docs](https://docs.google.com/document/?usp=docs_alc)
-*   [
-    
-    Sheets](https://docs.google.com/spreadsheets/?usp=sheets_alc)
-*   [
-    
-    Slides](https://docs.google.com/presentation/?usp=slides_alc)
-*   [
-    
-    Books](https://books.google.com.qa/?hl=en-GB)
-*   [
-    
-    Blogger](https://www.blogger.com/)
-*   [
-    
-    Hangouts](https://hangouts.google.com/)
-*   [
-    
-    Keep](https://keep.google.com/)
-*   [
-    
-    Jamboard](https://jamboard.google.com/?usp=jam_ald)
-*   [
-    
-    Earth](https://earth.google.com/web/)
-*   [
-    
-    Collections](https://www.google.com.qa/save)
-*   [
-    
-    Arts and Culture](https://artsandculture.google.com/?hl=en-GB&utm_source=ogs.google.com&utm_medium=referral)
-*   [
-    
-    Google Ads](https://ads.google.com/home/?subid=ww-ww-et-g-aw-a-vasquette_ads_cons_1!o2)
-*   [
-    
-    Podcasts](https://podcasts.google.com/)
-
-[More from Google](https://www.google.com.qa/intl/en-GB/about/products)
-
-[Sign in](https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://policies.google.com/terms?hl%3Den-GB&followup=https://policies.google.com/terms?hl%3Den-GB&hl=en-GB&ec=GAZAoQQ)
-
-*   [Overview](https://policies.google.com/?hl=en-GB)
-*   [Privacy Policy](https://policies.google.com/privacy?hl=en-GB)
-*   [Terms of Service](https://policies.google.com/terms?hl=en-GB)
-*   [Technologies](https://policies.google.com/technologies?hl=en-GB)
-*   [FAQ](https://policies.google.com/faq?hl=en-GB)
-
-[![Google](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_74x24dp.png)](https://www.google.com/?hl=en_GB)
-================================================================================================================================
-
-Privacy & Terms
-===============
-
-*   [Overview](https://policies.google.com/?hl=en-GB)
-*   [Privacy Policy](https://policies.google.com/privacy?hl=en-GB)
-*   [Terms of Service](https://policies.google.com/terms?hl=en-GB)
-    *   [Updates](https://policies.google.com/terms/archive?hl=en-GB)
-    *   [Definitions](https://policies.google.com/terms/definitions?hl=en-GB)
-    *   [List of services and service-specific additional terms](https://policies.google.com/terms/service-specific?hl=en-GB)
-    *   [How Google handles government requests for user information](https://policies.google.com/terms/information-requests?hl=en-GB)
-*   [Technologies](https://policies.google.com/technologies?hl=en-GB)
-*   [FAQ](https://policies.google.com/faq?hl=en-GB)
-
-[Privacy & Terms](https://policies.google.com/ "Privacy & Terms")
-
-[![Google](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_74x24dp.png)](https://www.google.com/?hl=en_GB)
-================================================================================================================================
-
-[Privacy & Terms](https://policies.google.com/?hl=en-GB)
---------------------------------------------------------
-
-*   [Overview](https://policies.google.com/?hl=en-GB)
-*   [Privacy Policy](https://policies.google.com/privacy?hl=en-GB)
-*   [Terms of Service](https://policies.google.com/terms?hl=en-GB)
-*   [Technologies](https://policies.google.com/technologies?hl=en-GB)
-*   [FAQ](https://policies.google.com/faq?hl=en-GB)
-*   [Google Account](https://myaccount.google.com/?hl=en_GB)
-
-*   Terms
-    *   [Introduction](https://policies.google.com/terms?hl=en-GB#toc-intro)
-    *   [Your relationship with Google](https://policies.google.com/terms?hl=en-GB#toc-relationship)
-    *   [Using Google services](https://policies.google.com/terms?hl=en-GB#toc-using)
-    *   [Content in Google services](https://policies.google.com/terms?hl=en-GB#toc-content)
-    *   [Software in Google services](https://policies.google.com/terms?hl=en-GB#toc-software)
-    *   [In case of problems or disagreements](https://policies.google.com/terms?hl=en-GB#toc-problems)
-    *   [About these terms](https://policies.google.com/terms?hl=en-GB#toc-about)
-*   [Updates](https://policies.google.com/terms/archive?hl=en-GB)
-*   [Definitions](https://policies.google.com/terms/definitions?hl=en-GB)
-*   [List of services and service-specific additional terms](https://policies.google.com/terms/service-specific?hl=en-GB)
-*   [How Google handles government requests for user information](https://policies.google.com/terms/information-requests?hl=en-GB)
-
-![](https://www.gstatic.com/identity/boq/policies/privacy/tos_main_illustration.svg)
-
 Google Terms of Service
 =======================
-
-Effective 31 March 2020 | [Archived versions](https://policies.google.com/terms/archive?hl=en-GB) | [Download PDF](https://www.gstatic.com/policies/terms/pdf/20200331/ba461e2f/google_terms_of_service_en-GB.pdf)
 
 What’s covered in these terms
 -----------------------------
@@ -184,25 +38,6 @@ If you’re a parent or legal guardian, and you allow your child to use the [ser
 
 Some Google services have additional age requirements as described in their [service-specific additional terms and policies](https://policies.google.com/terms/service-specific?hl=en-GB).
 
-Contents
---------
-
-[Introduction](https://policies.google.com/terms?hl=en-GB#toc-intro)
-
-[Your relationship with Google](https://policies.google.com/terms?hl=en-GB#toc-relationship)
-
-[Using Google services](https://policies.google.com/terms?hl=en-GB#toc-using)
-
-[Content in Google services](https://policies.google.com/terms?hl=en-GB#toc-content)
-
-[Software in Google services](https://policies.google.com/terms?hl=en-GB#toc-software)
-
-[In case of problems or disagreements](https://policies.google.com/terms?hl=en-GB#toc-problems)
-
-[About these terms](https://policies.google.com/terms?hl=en-GB#toc-about)
-
-![](https://www.gstatic.com/identity/boq/policies/privacy/your_relationship_illustration.svg)
-
 Your relationship with Google
 =============================
 
@@ -212,8 +47,6 @@ What you can expect from us
 ---------------------------
 
 ### Provide a broad range of useful services
-
-![](https://www.gstatic.com/identity/boq/policies/privacy/provide_services_illustration.svg)
 
 We provide a broad range of services that are subject to these terms, including:
 
@@ -226,8 +59,6 @@ Our services are designed to work together, making it easier for you to move fro
 
 ### Improve Google services
 
-![](https://www.gstatic.com/identity/boq/policies/privacy/improve_services_illustration.svg)
-
 We’re constantly developing new technologies and features to improve our services. For example, we invest in artificial intelligence that uses machine learning to detect and block spam and malware, and to provide you with innovative features like simultaneous translations. As part of this continual improvement, we sometimes add or remove features and functionalities, increase or decrease limits to our services, and start offering new services or stop offering old ones.
 
 If we make material changes that negatively impact your use of our services or if we stop offering a service, we’ll provide you with reasonable advance notice and an opportunity to export [your content](https://policies.google.com/terms?hl=en-GB#footnote-your-content) from your Google Account using [Google Takeout](https://takeout.google.com/settings/takeout?hl=en_GB), except in urgent situations such as preventing abuse, responding to legal requirements or addressing security and operability issues.
@@ -236,8 +67,6 @@ What we expect from you
 -----------------------
 
 ### Follow these terms and service-specific additional terms
-
-![](https://www.gstatic.com/identity/boq/policies/privacy/ssat_illustration.svg)
 
 The permission that we give you to use our [services](https://policies.google.com/terms?hl=en-GB#footnote-services) continues as long as you meet your responsibilities in:
 
@@ -250,8 +79,6 @@ Although we give you permission to use our services, we retain any [intellectual
 
 ### Respect others
 
-![](https://www.gstatic.com/identity/boq/policies/privacy/respect_others_illustration.svg)
-
 Many of our services allow you to interact with others. We want to maintain a respectful environment for everyone, which means that you must follow these basic rules of conduct:
 
 *   comply with applicable laws, including export control, sanctions and human trafficking laws
@@ -262,8 +89,6 @@ Many of our services allow you to interact with others. We want to maintain a re
 Our [service-specific additional terms and policies](https://policies.google.com/terms/service-specific?hl=en-GB) provide additional details about appropriate conduct that everyone using those services must follow. If you find that others aren’t following these rules, many of our services allow you to [report abuse](https://google.com/contact?hl=en_GB). If we act on a report of abuse, we also provide a fair process as described in the _[Taking action in case of problems](https://policies.google.com/terms?hl=en-GB#toc-problems)_ section.
 
 ### Permission to use your content
-
-![](https://www.gstatic.com/identity/boq/policies/privacy/permission_to_use_illustration.svg)
 
 Some of our services are designed to let you upload, submit, store, send, receive or share [your content](https://policies.google.com/terms?hl=en-GB#footnote-your-content). You have no obligation to provide any content to our services and you’re free to choose the content that you want to provide. If you choose to upload or share content, please make sure that you have the necessary rights to do so and that the content is lawful.
 
@@ -312,7 +137,7 @@ This licence is for the limited purpose of:
 *   **operating and improving the services**, which means allowing the services to work as designed and creating new features and functionalities. This includes using automated systems and algorithms to analyse your content:
     *   for spam, malware and illegal content
     *   to recognise patterns in data, such as determining when to suggest a new album in Google Photos to keep related photos together
-    *   to customise our services for you, such as providing recommendations and personalised search results, content and ads (which you can change or turn off in [Ads Settings](https://adssettings.google.com/?utm_source=ps-terms&hl=en_GB))This analysis occurs as the content is sent, received and when it is stored.
+    *   to customise our services for you, such as providing recommendations and personalised search results, content and ads (which you can change or turn off in [Ads Settings](https://adssettings.google.com/?hl=en_GB))This analysis occurs as the content is sent, received and when it is stored.
 *   **using content that you’ve shared publicly to promote the services**. For example, to promote a Google app, we might quote a review that you wrote. Or to promote Google Play, we might show a screenshot of the app that you offer in the Play Store.
 *   **developing new technologies and services** for Google consistent with these terms
 
@@ -324,8 +149,6 @@ If you remove from our services any content that’s covered by this licence, ou
 
 *   If you already shared your content with others before removing it. For example, if you shared a photo with a friend who then made a copy of it, or shared it again, then that photo may continue to appear in your friend’s Google Account even after you remove it from your Google Account.
 *   If you make your content available through other companies' services, it’s possible that search engines, including Google Search, will continue to find and display your content as part of their search results.
-
-![](https://www.gstatic.com/identity/boq/policies/privacy/using_services_illustration.svg)
 
 Using Google services
 =====================
@@ -352,8 +175,6 @@ To provide you with our services, we sometimes send you service announcements an
 
 If you choose to give us feedback, such as suggestions to improve our services, we may act on your feedback without obligation to you.
 
-![](https://www.gstatic.com/identity/boq/policies/privacy/content_in_services_illustration.svg)
-
 Content in Google services
 ==========================
 
@@ -377,8 +198,6 @@ Other content
 
 Finally, some of our [services](https://policies.google.com/terms?hl=en-GB#footnote-services) gives you access to content that belongs to other people or [organisations](https://policies.google.com/terms?hl=en-GB#footnote-organization) – for example, a store owner’s description of their own business, or a newspaper article displayed in Google News. You may not use this content without that person or organisation’s permission, or as otherwise allowed by law. The views expressed in the content of other people or organisations are their own, and don’t necessarily reflect Google’s views.
 
-![](https://www.gstatic.com/identity/boq/policies/privacy/software_in_services_illustration.svg)
-
 Software in Google services
 ===========================
 
@@ -397,8 +216,6 @@ Some of our services include software that’s offered under open-source licence
 You may not copy, modify, distribute, sell or lease any part of our services or software. Also, you may not reverse engineer or attempt to extract any of our source code unless you have our written permission or applicable law lets you do so.
 
 When a service requires or includes downloadable software, that software sometimes updates automatically on your device once a new version or feature is available. Some services let you adjust your automatic update settings.
-
-![](https://www.gstatic.com/identity/boq/policies/privacy/disagreements_illustration.svg)
 
 In case of problems or disagreements
 ====================================
@@ -475,8 +292,6 @@ For information about how to contact Google, please visit our [contact page](htt
 Californian law will govern all disputes arising out of or relating to these terms, [service-specific additional terms](https://policies.google.com/terms/service-specific?hl=en-GB) or any related [services](https://policies.google.com/terms?hl=en-GB#footnote-services), regardless of conflict of laws rules. These disputes will be resolved exclusively in the federal or state courts of Santa Clara County, California, USA, and you and Google consent to personal jurisdiction in those courts.
 
 To the extent that applicable local law prevents certain disputes from being resolved in a California court, then you can file those disputes in your local courts. Likewise, if applicable local law prevents your local court from applying California law to resolve these disputes, then these disputes will be governed by the applicable local laws of your country, region or other place of residence.
-
-![](https://www.gstatic.com/identity/boq/policies/privacy/about_these_terms_illustration.svg)
 
 About these terms
 =================
@@ -568,16 +383,3 @@ Things that you write, upload, submit, store, send, receive or share with Google
 *   emails that you send and receive through Gmail
 *   pictures that you share with friends via Photos
 *   travel itineraries that you share with Google
-
-![](https://www.gstatic.com/images/icons/material/system/svg/keyboard_arrow_up_24px.svg)
-
-Change language:AfrikaansBahasa IndonesiaBahasa MelayuCatalàČeštinaDanskDeutschEestiEnglishEnglish (United Kingdom)EspañolEspañol (Latinoamérica)EuskaraFilipinoFrançaisFrançais (Canada)GalegoHrvatskiIsizuluÍslenskaItalianoKiswahiliLatviešuLietuviųMagyarNederlandsNorskPolskiPortuguês (Brasil)Português (Portugal)RomânăSlovenčinaSlovenščinaSrpskiSuomiSvenskaTiếng ViệtTürkçeΕλληνικάБългарскиРусскийСрпскиУкраїнська‫עברית‬‫اردو‬‫العربية‬‫فارسی‬አማርኛमराठीहिन्दीবাংলাગુજરાતીதமிழ்తెలుగుಕನ್ನಡമലയാളംไทย한국어中文 (香港)中文（简体中文）中文（繁體中文）日本語
-
-*   [Google](https://www.google.com/)
-*   [About Google](https://about.google/)
-*   [Privacy](https://policies.google.com/privacy?hl=en-GB)
-*   [Terms](https://policies.google.com/terms?hl=en-GB)
-
-Google apps
-
-Main menu
