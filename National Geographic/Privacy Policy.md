@@ -1,47 +1,3 @@
-[Skip to content](#main-content) [Skip to navigation](#menu-menu-1)
-
-× cancel
-
-Country/Region & Language Selector
-==================================
-
-Search Countries
-
-Search Languages
-
-Save
-
-[![The Walt Disney Privacy Center](https://privacy.thewaltdisneycompany.com/app/themes/privacycenter/assets/dist/images/logos/disney-logo.svg "The Walt Disney Privacy Center")](https://privacy.thewaltdisneycompany.com/en/ "The Walt Disney Privacy Center")
-
-[us United States English](https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/)
-
-Search for   
-
-Toggle navigation Toggle navigation Toggle navigation
-
-Search for   
-
-*   [Privacy Policy](https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/ "Privacy Policy")
-    *   [Privacy Policy](https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/ "Privacy Policy")
-    *   [Your California Privacy Rights](https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/your-california-privacy-rights/ "Your California Privacy Rights")
-*   [For Parents](https://privacy.thewaltdisneycompany.com/en/for-parents/ "For Parents")
-    *   [For Parents](https://privacy.thewaltdisneycompany.com/en/for-parents/ "For Parents")
-    *   [Children’s Privacy Policy](https://privacy.thewaltdisneycompany.com/en/for-parents/childrens-online-privacy-policy/ "Children’s Privacy Policy")
-    *   [Internet Safety](https://privacy.thewaltdisneycompany.com/fr-ca/internet-safety/ "Internet Safety")
-
-*   [Privacy Controls](https://privacy.thewaltdisneycompany.com/en/privacy-controls/ "Privacy Controls")
-    *   [Privacy Controls](https://privacy.thewaltdisneycompany.com/en/privacy-controls/ "Privacy Controls")
-    *   [ONLINE TRACKING TECHNOLOGIES AND ADVERTISING](https://privacy.thewaltdisneycompany.com/en/privacy-controls/online-tracking-and-advertising/ "ONLINE TRACKING TECHNOLOGIES AND ADVERTISING")
-    *   [Communication Choices](https://privacy.thewaltdisneycompany.com/en/privacy-controls/communication-choices/ "Communication Choices")
-*   [Contact Us](https://privacy.thewaltdisneycompany.com/en/support/ "Contact Us")
-    *   [Contact Us](https://privacy.thewaltdisneycompany.com/en/support/ "Contact Us")
-*   [News](https://privacy.thewaltdisneycompany.com/en/news/ "News")
-    *   [News](https://privacy.thewaltdisneycompany.com/en/news/ "News")
-
-![Disney Brands](https://privacy.thewaltdisneycompany.com/app/themes/privacycenter/assets/dist/images/logos/drop-down-logos.png)
-
-Search
-
 Privacy Policy
 ==============
 
@@ -53,7 +9,7 @@ This privacy policy describes the processing of information provided or collecte
 
 Please keep in mind that when you provide information to us on a third-party site or platform (for example, via our applications), the information you provide may be separately collected by the third-party site or platform. The information we collect is covered by this privacy policy, and the information the third-party site or platform collects is subject to the third-party site or platform’s privacy practices. Privacy choices you have made on the third-party site or platform will not apply to our use of the information we have collected directly through our applications. Please also keep in mind that our sites and applications may contain links to other sites not owned or controlled by us and we are not responsible for the privacy practices of those sites. We encourage you to be aware when you leave our sites or applications and to read the privacy policies of other sites that may collect your [personal information](#)<p>Personal information means information that identifies (whether directly or indirectly) a particular individual, such as the individual’s name, postal address, email address, and telephone number. When anonymous information is directly or indirectly associated with personal information, the resulting information also is treated as personal information.</p><a href='https://privacy.thewaltdisneycompany.com/en/definitions/#Personal-information'>Learn More</a>.
 
-[Expand All](#) [Collapse All](#)
+[Collapse All](#)
 
 #### [Accordion Toggle WHO WE ARE](#collapse1)
 
@@ -170,50 +126,3 @@ Notice to Brazilian Residents: If you are a Brazilian resident, you may have cer
 #### [Accordion Toggle Definitions](#collapse15)
 
 [Definitions](https://privacy.thewaltdisneycompany.com/en/definitions/)
-
-Children’s Privacy Policy
--------------------------
-
-The Walt Disney Family of Companies (“TWDC”) is committed to protecting the privacy of children who use our sites and applications.
-
-Learn More
-
-[Children’s Privacy Policy](https://privacy.thewaltdisneycompany.com/en/for-parents/childrens-online-privacy-policy/)
-
-Your California Privacy Rights
-------------------------------
-
-Learn about your California Privacy Rights.
-
-Learn More
-
-[Your California Privacy Rights](https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/your-california-privacy-rights/)
-
-![Disney](https://privacy.thewaltdisneycompany.com/app/uploads/2019/10/disney.svg "Disney")
-
-![Pixar](https://privacy.thewaltdisneycompany.com/app/uploads/2019/12/pixar-footer.svg "Pixar")
-
-![LucasFilm](https://privacy.thewaltdisneycompany.com/app/uploads/2019/10/lucasfilm.svg "LucasFilm")
-
-![Marvel](https://privacy.thewaltdisneycompany.com/app/uploads/2019/10/marvel.svg "Marvel")
-
-![natgeo](https://privacy.thewaltdisneycompany.com/app/uploads/2020/10/NG_logo_greyscale_version.svg "natgeo")
-
-![abc](https://privacy.thewaltdisneycompany.com/app/uploads/2019/10/abc.svg "abc")
-
-![ESPN](https://privacy.thewaltdisneycompany.com/app/uploads/2019/10/espn.svg "ESPN")
-
-![FX](https://privacy.thewaltdisneycompany.com/app/uploads/2019/10/inline-fx.svg "FX")
-
-© Disney. All rights reserved
-
-*   [Interest-Based Ads](http://preferences-mgr.truste.com/?type=disneycolor&affiliateId=115)
-*   [Children’s Online Privacy Policy](https://privacy.thewaltdisneycompany.com/en/for-parents/childrens-online-privacy-policy/)
-*   [Your California Privacy Rights](https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/your-california-privacy-rights/)
-*   [Terms of Use](https://disneytermsofuse.com/)
-*   [Privacy Policy](https://privacy.thewaltdisneycompany.com/)
-*   [Do Not Sell My Info](https://privacy.thewaltdisneycompany.com/en/dnsmi/)
-
-*   Print Page
-
-[Back to Top back-to-top](#)
