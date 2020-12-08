@@ -1,33 +1,3 @@
-[](https://ubuntu.com/)
-
-##### [Legal](https://ubuntu.com/legal)
-
-[Jump to main content](#main-content)
-
-*   [Enterprise](#enterprise-content)
-*   [Developer](#developer-content)
-*   [Community](#community-content)
-*   [Download](#download-content)
-
-*   [OpenStack](https://ubuntu.com/openstack)
-*   [Kubernetes](https://ubuntu.com/kubernetes)
-*   [Desktop](https://ubuntu.com/desktop)
-*   [IoT](https://ubuntu.com/internet-of-things)
-*   [Support](https://ubuntu.com/support)
-*   [Downloads](https://ubuntu.com/download)
-
- _Clear_ _Search_
-
-[
-
-##### Legal
-
-](https://ubuntu.com/legal)
-
-*   [Terms and policies](https://ubuntu.com/legal/terms-and-policies)
-*   › 
-*   [Terms and conditions](https://ubuntu.com/legal/terms)
-
 Website terms and conditions
 ============================
 
@@ -36,7 +6,7 @@ Valid since 17 April 2014
 Intellectual property
 ---------------------
 
-[Canonical’s intellectual property rights policy](https://ubuntu.com/legal/intellectual-property-policy) governs your use of Canonical’s intellectual property.
+[Canonical's intellectual property rights policy](https://ubuntu.com/legal/intellectual-property-policy) governs your use of Canonical's intellectual property.
 
 Copyright
 ---------
@@ -55,7 +25,7 @@ Trademarks
 
 Any trademarks, logos and service marks displayed on this website are the property of their owners, whether Canonical or third parties. For example, Linux is a registered trademark of Linus Torvalds. Debian is a trademark of Software in the Public Interest, Inc. Windows is a trademark of Microsoft Corporation.
 
-Canonical owns a number of trademarks, including UBUNTU, KUBUNTU, EDUBUNTU, and XUBUNTU, and use of these is subject to compliance with [Canonical’s intellectual property rights’ policy](https://ubuntu.com/legal/intellectual-property-policy).
+Canonical owns a number of trademarks, including UBUNTU, KUBUNTU, EDUBUNTU, and XUBUNTU, and use of these is subject to compliance with [Canonical's intellectual property rights' policy](https://ubuntu.com/legal/intellectual-property-policy).
 
 Privacy policy
 --------------
@@ -65,12 +35,12 @@ Our collection and use of your personal information is governed by the [Canonica
 Links and third-party content
 -----------------------------
 
-This and any other websites hosted by Canonical may contain links to other websites and resources and third party content, for example, message board posts or blog comments. Canonical is not responsible for such content, or that of any linked websites. You will not remove or alter any third party’s copyright or trademark notices or other identifier, except as allowed by the third-party’s licence of that content. Should you reasonably believe that any third-party content you access through our websites is in breach of any law, regulation or third party’s rights, you should notify Canonical in writing at the address below. In doing so, please:
+This and any other websites hosted by Canonical may contain links to other websites and resources and third party content, for example, message board posts or blog comments. Canonical is not responsible for such content, or that of any linked websites. You will not remove or alter any third party's copyright or trademark notices or other identifier, except as allowed by the third-party's licence of that content. Should you reasonably believe that any third-party content you access through our websites is in breach of any law, regulation or third party's rights, you should notify Canonical in writing at the address below. In doing so, please:
 
 *   identify the material which you believe to be infringing;
 *   identify what you believe this material infringes and why;
 *   provide your name, email address, address and telephone number;
-*   confirm that you believe in good faith that this material is infringing a law or third party’s rights and that, to the best of your knowledge, the information you are providing is correct;
+*   confirm that you believe in good faith that this material is infringing a law or third party's rights and that, to the best of your knowledge, the information you are providing is correct;
 *   identify if you are acting on behalf of the third party whose rights may have been infringed;
 *   provide your physical or electronic signature.
 
@@ -88,7 +58,7 @@ Canonical disclaims liability for any direct, indirect, incidental, special, con
 
 This includes, without limitation, any damage to computer systems, hardware or software, loss of data, or any other performance failures, any errors, bugs, viruses or other defects that result from, or are associated with the use of this and any other websites hosted by Canonical.
 
-Yes, it gives most of us a headache to read all of this, but it’s important so thank you for your patience and now, enjoy the site!
+Yes, it gives most of us a headache to read all of this, but it's important so thank you for your patience and now, enjoy the site!
 
 ### Registered office
 
