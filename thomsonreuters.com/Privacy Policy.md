@@ -1,10 +1,3 @@
-*   [Global directory Global directory
-    
-    ](https://www.thomsonreuters.com/en/global-gateway.html)
-    
-
-Thomson Reuters
-
 1.  [Home](https://www.thomsonreuters.com/en.html)
 2.  Privacy statement
 
@@ -471,5 +464,3 @@ Except for clerical/typographical errors and format changes in compliance with e
 In many cases, we are not the source of the information content and Thomson Reuters is not obliged to change or delete the substance of the original content including any personal information unless we receive a verified request from the source of the information content, such as, for example, a court order from the court that issued the court case in the first place.
 
 If you have any questions or concerns regarding the substance of any informational content or your personal information as contained in that information content, please contact the source of the informational content and work with them directly to resolve your questions or concerns.
-
-Thomson Reuters
