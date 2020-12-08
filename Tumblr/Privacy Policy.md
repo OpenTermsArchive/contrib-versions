@@ -1,7 +1,3 @@
-[JavaScript](http://www.enable-javascript.com/) is required to view this site.
-
-[Log in](https://www.tumblr.com/login)[Sign up](https://www.tumblr.com/register)
-
 Privacy PolicyLast Modified: 2020-11-10
 =======================================
 
@@ -214,51 +210,3 @@ Before we can satisfy your request, you’ll need to give us enough information 
 **Personalized Advertising Opt-Out:** Tumblr selectively runs advertisements so we can provide you with Tumblr content for free. To help select which ads to show you, we may share some of your information with advertising partners, or allow our advertising partners to “collect” certain information. The personal information we share includes online identifiers and internet or other network or device activity (such as cookie information, other device identifiers, and IP address), and geolocation data (approximate location information from your IP address). Under the CCPA, this may be considered a “sale.” To learn more about how we select the ads you see, check out [Tumblr’s advertising and affiliate policies](https://tumblr.zendesk.com/hc/articles/360035272334-Tumblr-ads-you). We do not sell (or share) information that identifies you personally, like your name or contact information, in our ads program. Also, we do not knowingly "sell" your personal information if you are under 16.
 
 Learn how you can opt out by going to [California: Do Not Sell My Personal Information](https://tumblr.zendesk.com/hc/en-us/articles/360041012973). If you are a California user who has told us you are under 16, you’ll see in [your settings](https://www.tumblr.com/settings/privacy) that we’ve already opted you out.
-
-*   [About](https://www.tumblr.com/about)
-*   [Apps](https://www.tumblr.com/apps)
-*   [Tips](https://www.tumblr.com/tips)
-*   [Logo](https://www.tumblr.com/logo)
-*   [Business](https://www.tumblr.com/business)
-*   [Buttons](https://www.tumblr.com/buttons)
-*   [Press Info](https://www.tumblr.com/press)
-*   [Jobs](https://www.tumblr.com/jobs)
-*   [Developers](https://www.tumblr.com/developers)
-*   [Terms](https://www.tumblr.com/policy/terms-of-service)
-*   [Copyright](https://www.tumblr.com/policy/terms-of-service#dmca)
-*   [Privacy](https://www.tumblr.com/policy/privacy)
-*   [Guidelines](https://www.tumblr.com/policy/en/community)
-*   [Security](https://www.tumblr.com/security)
-*   [Global Advertising](https://www.tumblr.com/policy/en/global-advertising)
-
-*   **[© Tumblr, Inc.](https://www.tumblr.com/ "Tumblr")**
-*   [Help](https://www.tumblr.com/help)
-*   [About](https://www.tumblr.com/about)
-*   [Apps](https://www.tumblr.com/apps)
-*   [Developers](https://www.tumblr.com/developers)
-*   [Themes](https://www.tumblr.com/themes/ "Tumblr Themes")
-*   [Jobs](https://www.tumblr.com/jobs)
-*   [Legal](https://www.tumblr.com/policy/terms-of-service)
-    
-    *   [Terms](https://www.tumblr.com/policy/terms-of-service)
-    *   [Copyright](https://www.tumblr.com/policy/terms-of-service#dmca)
-    
-*   [Privacy](https://www.tumblr.com/policy/privacy)
-*   *   [English](https://www.tumblr.com/privacy/en?language=en_US "English")
-    *   [Deutsch](https://www.tumblr.com/privacy/en?language=de_DE "German")
-    *   [Français](https://www.tumblr.com/privacy/en?language=fr_FR "French")
-    *   [Italiano](https://www.tumblr.com/privacy/en?language=it_IT "Italian")
-    *   [日本語](https://www.tumblr.com/privacy/en?language=ja_JP "Japanese")
-    *   [Türkçe](https://www.tumblr.com/privacy/en?language=tr_TR "Turkish")
-    *   [Español](https://www.tumblr.com/privacy/en?language=es_ES "Spanish")
-    *   [Pусский](https://www.tumblr.com/privacy/en?language=ru_RU "Russian")
-    *   [Polski](https://www.tumblr.com/privacy/en?language=pl_PL "Polish")
-    *   [Português (PT)](https://www.tumblr.com/privacy/en?language=pt_PT "Portuguese (PT)")
-    *   [Português (BR)](https://www.tumblr.com/privacy/en?language=pt_BR "Portuguese (BR)")
-    *   [Nederlands](https://www.tumblr.com/privacy/en?language=nl_NL "Dutch")
-    *   [한국어](https://www.tumblr.com/privacy/en?language=ko_KR "Korean")
-    *   [简体中文](https://www.tumblr.com/privacy/en?language=zh_CN "Chinese (Simplified)")
-    *   [繁體中文 (台灣)](https://www.tumblr.com/privacy/en?language=zh_TW "Chinese (Traditional)")
-    *   [繁體中文 (香港)](https://www.tumblr.com/privacy/en?language=zh_HK "Chinese (HK)")
-    *   [Bahasa Indonesia](https://www.tumblr.com/privacy/en?language=id_ID "Indonesian")
-    *   [हिंदी](https://www.tumblr.com/privacy/en?language=hi_IN "Hindi")
