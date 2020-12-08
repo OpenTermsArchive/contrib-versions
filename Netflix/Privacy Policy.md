@@ -1,22 +1,3 @@
-Netflix uses [cookies and similar technologies](https://help.netflix.com/legal/privacy#cookies) on this website to collect information about your browsing activities which we use to analyse your use of the website. [Learn more about our use of cookies and your information](#). Netflix uses essential and performance & functionality cookies ([why?](#)). You can change ([your cookie preferences](#)).
-
-[Change your cookie preferences](#) [Close](#)
-
-[Change your cookie preferences](#)
-
-[](https://netflix.com/ "Netflix")[Help Center](https://help.netflix.com/en)
-
-[Join Netflix](https://netflix.com/signup) [Sign In](https://netflix.com/Login?nextpage=https%3A%2F%2Fhelp.netflix.com%2Flegal%2Fprivacy)
-
-[Help Center](https://help.netflix.com/en)
-
-*   [Back to Help Home](https://help.netflix.com/en)
-
-Print
-
-Privacy Statement
-=================
-
 This Privacy Statement explains our practices, including your choices, regarding the collection, use, and disclosure of certain information, including your personal information, by the [Netflix family of companies](https://help.netflix.com/legal/corpinfo) ("Netflix") in connection with the Netflix service.
 
 ### Contacting Us
@@ -235,10 +216,3 @@ There are a number of ways to exercise choice regarding technologies that are si
 To see the prior version of this document, please go to [www.netflix.com/privacyupdates](https://www.netflix.com/privacyupdates).
 
 **Last Updated:** July 31, 2020
-
-Čeština Dansk Deutsch English Français Hrvatski Italiano Magyar Nederlands Norsk Bokmål Polski Română Suomi Svenska Ελληνικά Русский
-
-*   [Terms of Use](https://help.netflix.com/en/legal/termsofuse)
-*   [Privacy](https://help.netflix.com/en/legal/privacy)
-*   [Cookie Preferences](https://help.netflix.com/en/legal/privacy#cookies)
-*   [Corporate Information](https://help.netflix.com/en/legal/corpinfo)
