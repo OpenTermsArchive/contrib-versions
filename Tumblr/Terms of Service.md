@@ -1,5 +1,3 @@
-[Log in](https://www.tumblr.com/login)[Sign up](https://www.tumblr.com/register)
-
 Terms of ServiceLast Modified: 2019-09-25
 =========================================
 
@@ -299,51 +297,3 @@ You can find disclosures related to our use of open source software packages at 
 You will find prior versions of our Terms of Service on GitHub, which will allow you to compare historical versions and see which terms have been updated.
 
 [https://github.com/tumblr/policy/commits/master/terms-of-service.txt](https://github.com/tumblr/policy/commits/master/terms-of-service.txt)
-
-*   [About](https://www.tumblr.com/about)
-*   [Apps](https://www.tumblr.com/apps)
-*   [Tips](https://www.tumblr.com/tips)
-*   [Logo](https://www.tumblr.com/logo)
-*   [Business](https://www.tumblr.com/business)
-*   [Buttons](https://www.tumblr.com/buttons)
-*   [Press Info](https://www.tumblr.com/press)
-*   [Jobs](https://www.tumblr.com/jobs)
-*   [Developers](https://www.tumblr.com/developers)
-*   [Terms](https://www.tumblr.com/policy/terms-of-service)
-*   [Copyright](https://www.tumblr.com/policy/terms-of-service#dmca)
-*   [Privacy](https://www.tumblr.com/policy/privacy)
-*   [Guidelines](https://www.tumblr.com/policy/en/community)
-*   [Security](https://www.tumblr.com/security)
-*   [Global Advertising](https://www.tumblr.com/policy/en/global-advertising)
-
-*   **[© Tumblr, Inc.](https://www.tumblr.com/ "Tumblr")**
-*   [Help](https://www.tumblr.com/help)
-*   [About](https://www.tumblr.com/about)
-*   [Apps](https://www.tumblr.com/apps)
-*   [Developers](https://www.tumblr.com/developers)
-*   [Themes](https://www.tumblr.com/themes/ "Tumblr Themes")
-*   [Jobs](https://www.tumblr.com/jobs)
-*   [Legal](https://www.tumblr.com/policy/terms-of-service)
-    
-    *   [Terms](https://www.tumblr.com/policy/terms-of-service)
-    *   [Copyright](https://www.tumblr.com/policy/terms-of-service#dmca)
-    
-*   [Privacy](https://www.tumblr.com/policy/privacy)
-*   *   [English](https://www.tumblr.com/policy/en/terms-of-service?language=en_US "English")
-    *   [Deutsch](https://www.tumblr.com/policy/en/terms-of-service?language=de_DE "German")
-    *   [Français](https://www.tumblr.com/policy/en/terms-of-service?language=fr_FR "French")
-    *   [Italiano](https://www.tumblr.com/policy/en/terms-of-service?language=it_IT "Italian")
-    *   [日本語](https://www.tumblr.com/policy/en/terms-of-service?language=ja_JP "Japanese")
-    *   [Türkçe](https://www.tumblr.com/policy/en/terms-of-service?language=tr_TR "Turkish")
-    *   [Español](https://www.tumblr.com/policy/en/terms-of-service?language=es_ES "Spanish")
-    *   [Pусский](https://www.tumblr.com/policy/en/terms-of-service?language=ru_RU "Russian")
-    *   [Polski](https://www.tumblr.com/policy/en/terms-of-service?language=pl_PL "Polish")
-    *   [Português (PT)](https://www.tumblr.com/policy/en/terms-of-service?language=pt_PT "Portuguese (PT)")
-    *   [Português (BR)](https://www.tumblr.com/policy/en/terms-of-service?language=pt_BR "Portuguese (BR)")
-    *   [Nederlands](https://www.tumblr.com/policy/en/terms-of-service?language=nl_NL "Dutch")
-    *   [한국어](https://www.tumblr.com/policy/en/terms-of-service?language=ko_KR "Korean")
-    *   [简体中文](https://www.tumblr.com/policy/en/terms-of-service?language=zh_CN "Chinese (Simplified)")
-    *   [繁體中文 (台灣)](https://www.tumblr.com/policy/en/terms-of-service?language=zh_TW "Chinese (Traditional)")
-    *   [繁體中文 (香港)](https://www.tumblr.com/policy/en/terms-of-service?language=zh_HK "Chinese (HK)")
-    *   [Bahasa Indonesia](https://www.tumblr.com/policy/en/terms-of-service?language=id_ID "Indonesian")
-    *   [हिंदी](https://www.tumblr.com/policy/en/terms-of-service?language=hi_IN "Hindi")
