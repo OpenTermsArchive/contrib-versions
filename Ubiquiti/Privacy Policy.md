@@ -1,0 +1,199 @@
+[Ubiquiti](https://www.ui.com/)
+
+*   [UniFi](https://unifi-network.ui.com/ "UniFi")
+*   [ISP](https://airmax.ui.com/ "ISP")
+*   [Products](https://www.ui.com/products/ "Products")
+*   [Buy](https://www.ui.com/distributors/ "Buy")
+
+*   [Downloads](https://www.ui.com/download/ "Downloads")
+*   [Support](https://help.ui.com/ "Support")
+*   [Community](https://community.ui.com/ "Community")
+*   
+*   Search
+
+[Menu](#)
+
+*   Search
+    
+
+*   [UniFi](https://unifi-network.ui.com/ "UniFi")
+*   [ISP](https://airmax.ui.com/ "ISP")
+*   [Products](https://www.ui.com/products/ "Products")
+*   [Buy](# "Buy")
+    *   [UI Store](https://store.ui.com/ "UI Store")
+    *   [Find a Distributor](https://www.ui.com/distributors/ "Find a Distributor")
+    *   [Stock Locator Tool](https://www.ui.com/distributors/stock-locator/ "Stock Locator Tool")
+    *   [Become a Distributor](https://www.ui.com/distributors/become-authorized-distributor/ "Become a Distributor")
+    *   [UniFi Design Tool](https://design.ui.com/ "UniFi Design Tool")
+
+*   [Downloads](https://www.ui.com/download/ "Downloads")
+*   [Support](https://help.ui.com/ "Support")
+*   [Community](https://community.ui.com/ "Community")
+
+*   [Social](# "Social")
+    *   [Facebook](https://www.facebook.com/uieverywhere/ "Facebook")
+    *   [Twitter](https://twitter.com/ubnt "Twitter")
+    *   [YouTube](https://www.youtube.com/user/ubnt?feature=watch "YouTube")
+    *   [Instagram](https://www.instagram.com/uieverywhere/ "Instagram")
+*   [Company](# "Company")
+    *   [Careers](https://careers.ui.com/ "Careers")
+    *   [Contact Us](https://www.ui.com/contact/ "Contact Us")
+    *   [Investors](http://ir.ui.com/ "Investors")
+*   [In the News](# "In the News")
+    *   [Ubiquiti Blog](http://blog.ui.com/ "Ubiquiti Blog")
+    *   [Newsletters](https://www.ui.com/newsletters/ "Newsletters")
+    *   [Case Studies](https://www.ui.com/casestudies/ "Case Studies")
+*   [Training](# "Training")
+    *   [Courses](https://www.ui.com/training/ "Courses")
+    *   [Calendar](https://www.ui.com/training/calendar/ "Calendar")
+    *   [Trainers](https://www.ui.com/training/partners/ "Trainers")
+    *   [Become a Trainer](https://www.ui.com/training/become-trainer/ "Become a Trainer")
+
+Privacy Policy
+--------------
+
+#### Legal Documentation
+
+*   [Terms of Service](https://www.ui.com/legal/termsofservice/)
+*   [EULA](https://www.ui.com/eula/)
+*   [Privacy Policy](https://www.ui.com/legal/privacypolicy/)
+*   [Limited Warranty](https://www.ui.com/support/warranty/)
+*   [Ubiquiti Services General Terms and Conditions](https://www.ui.com/legal/services-terms/)
+*   [UniFi Elite Terms and Conditions](https://www.ui.com/legal/unifi-elite/termsandconditions/)
+*   [UI US and AmpliFi Store Terms and Conditions](https://www.ui.com/legal/ui-store/termsandconditions/)
+*   [UI Europe Store Terms and Conditions](https://www.ui.com/legal/ui-eu-store/termsandconditions/)
+*   [UI Canada Store Terms and Conditions](https://www.ui.com/legal/ui-ca-store/termsandconditions/)
+*   [UI Mexico Store Terms and Conditions](https://www.ui.com/legal/ui-mx-store/termsandconditions/)
+*   [UniFi IOS App License](https://www.ui.com/legal/unifi-ios-app-licenses/)
+*   [Compliance Information](https://www.ui.com/compliance/)
+
+### OUR PRIVACY POLICY WAS UPDATED ON SEPTEMBER 25, 2020
+
+##### Privacy Policy of Ubiquiti Inc.
+
+This Privacy Policy (the “Policy”) describes how Ubiquiti Inc. and its subsidiaries and affiliates ("we", "us", "our") collect and use personal and other information through our 1) websites located at [www.ui.com](https://www.ui.com/ "www.ui.com"), and their sub-domains and any other websites hosted by us (collectively the “Sites”), (2) services or software accessible or downloadable through the Sites (“Web Apps”), (3) software that may be downloaded to your smartphone or tablet to access services (“Mobile Apps”), (4) software (“Firmware”) that is installed on Ubiquiti hardware products (“Products”) and (5) subscription services, including services that can be accessed using the Web Apps and Mobile Apps (“Subscription Services”), all for use in conjunction with Products. The term “Services” means the Sites, Web Apps, Mobile Apps, Firmware, Subscription Services and Products. The term “you” or “your” as used in this Policy, means any person or entity who accesses or uses the Services.
+
+PLEASE READ THIS POLICY CAREFULLY. BY USING, ACCESSING OR DOWNLOADING ANY OF OUR SERVICES, YOU ACCEPT AND AGREE TO THE PRACTICES DESCRIBED IN THIS POLICY, ON BEHALF OF YOURSELF AND ALL PERSONS AND BUSINESSES FOR WHOM YOU ARE REPRESENTING.
+
+This Policy is incorporated by reference into and is subject to any applicable terms governing the Service(s) that you are using, including the general Terms of Service, which are available [here](https://www.ui.com/legal/termsofservice/ "Terms of service"), and the End User License Agreement, which is available [here](https://www.ui.com/eula/ "EULA"). By using the Services, you accept and abide by these additional policies.
+
+Please feel free to contact us, as provided in Section 14, with any questions or comments about this Policy.
+
+*   [Information Collected By Us](#c1)
+*   [The Way We Use Information](#c2)
+*   [How We May Disclose Information](#c3)
+*   [Public Information](#c4)
+*   [Cookies and Other Tracking Technology](#c5)
+*   [Your Choices](#c6)
+*   [Data Security](#c7)
+*   [Third-Party Links](#c8)
+*   [Children's Privacy](#c9)
+*   [Special Note to International Users](#c10)
+*   [California Privacy Rights](#c11)
+*   [Changes and Updates to this Policy](#c12)
+*   [European Union Privacy Shield](#c13)
+*   [Questions, Disputes and Contact Information](#c14)
+
+[](https://www.ui.com/legal/privacypolicy/)*   Information Collected By Us
+    *   User Provided Information. When using our Services, you may provide certain information by which someone could personally identify you such as your name, email address, mailing address, or other contact information (" Personally Identifiable Information"), as well as information about yourself such as your power usage, browser type, webpages of our Services that you access, device configurations, or device performance data, by which someone could not personally identify you (" Non-Personally Identifiable Information").
+    *   Usage Data. As described in this section, we may automatically collect information when you use the Services ("Usage Data"). The Usage Data that we collect may include information such as your device data, including your mobile devices, sensor data, device signals, device parameters, device identifiers that may uniquely identify your devices, including your mobile device, web request, Internet Protocol address, browser type, browser language, referring/exit pages and URLs, platform type, the date and time of your request, and one or more cookies that may uniquely identify your devices or browser. IN ADDITION, WE MAY AUTOMATICALLY COLLECT LOCATION INFORMATION (INCLUDING LATITUDE AND LONGITUDE), PERFORMANCE DATA, MOTION DATA, TEMPERATURE DATA, POWER USAGE DATA, AND ANY DATA OR SIGNALS COLLECTED BY THE DEVICES AS PART OF THE USAGE DATA. WE DO NOT COLLECT THE CONTENTS OF ANY COMMUNICATIONS THAT PASS THROUGH OUR DEVICES OR SERVICES.
+    *   Support Data. We may collect certain support data when you submit a support request, including information about your hardware, software and other information related to your support requirements. We will use this support data to resolve your support incident and for training and product development purposes.
+    *   Payment Data. We may collect certain payment data you provide when you make an online purchase through our Sites. This may include your name, billing address, shipping address, payment instrument number (e.g., credit card), and the security code associated with such instrument. We will only use your payment data to complete your transaction and send you notices about your transactions. Where necessary, we will share your payment data with banks and other third party financial institutions to process your payment transactions, or for fraud prevention. These parties are not allowed to use your payment data for any other purposes.
+[](https://www.ui.com/legal/privacypolicy/)*   The Way We Use Information. In general, we use the information we collect related to the Services as follows:
+    *   Providing the Services. We may use your Personally Identifiable Information, Non-Personally Identifiable Information and Usage Data (together, “User Information”) to operate, maintain and provide the features and functionality of any Service and for related business purposes.
+    *   Communicating with You. We may use your email address or other Personally Identifiable Information to send you marketing emails. Please refer to Section 6(a) of the Policy for more information on marketing communications, including how to opt out of marketing emails.
+    *   Services for Wireless Network Providers. Some of the Usage Data that we may collect may be on behalf of your Internet service provider who may access and use this information for their purposes under their agreement with you. Use of this Usage Data by these third-parties is not subject to this Policy.
+    *   Other Business Uses. We also may use your User Information to (1) understand how users access and use our Services on an aggregate and individualized basis, to improve the quality and design of our Services or Products, and to create new features, promotions, functionality and services by storing, tracking and analyzing user preferences and trends; (2) remember information so that you will not have to re-enter it during your visit or the next time you use our Services; (3) provide you with custom, personalized content and information; (4) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; (5) track your use of our Services; (6) provide custom, personalized data analysis; (7) facilitate the provision of the updates to any Services or authenticate our Products; (8) verify compliance with this Policy; (9) manage job applications; and (10) perform other lawful businesses and commercial activities.
+[](https://www.ui.com/legal/privacypolicy/)*   How We May Disclose Information. We may disclose the information we collect related to the Services as follows, and BY USE OF THE SERVICES, YOU EXPRESSLY CONSENT TO SUCH DISCLOSURE:
+    *   Usage Data. We may provide Usage Data to our customers in connection with the Services which those customers use. For example, our customers may include network providers or operators and we may disclose Usage Data to these customers in connection with the products and devices that are deployed over these customers’ networks. The treatment of Usage Data by these third-parties is subject to their own privacy policies, and not this one. We are not responsible for the content or privacy and security practices and policies of those third parties.
+    *   Aggregate or De-identified Data. We may share Non-Personally Identifiable Information, including Usage Data (such as anonymous or aggregate user usage data, referring/exit pages and URLs, platform types, etc.), with certain third-parties to assist such third-parties in understanding the usage patterns for certain content, services and/or functionality with respect to our Services. We may also share aggregate or de-identified information about users with third-parties for marketing, research, or similar purposes.
+    *   Business Transfers. If we are acquired by or merged with another company, or if substantially all of the assets of one of our business activities are transferred to another company, we may transfer the information we have collected from you to the other company.
+    *   Third Party Service Providers. We may disclose certain User Information to third party vendors, service providers, contractors or agents who perform functions on our behalf (e.g., with vendors that help us with delivering Products to you, including transaction processing and fraud prevention, vendors that help us maintain our Sites, or analytics providers) and may be located in other countries. These third-party vendors, service providers, contractors or agents perform technical operations such as database monitoring, data storage and hosting services and customer support software tools. These third parties may access, process or store Personally Identifiable Information in the course of providing these services but based on our instructions only. If we receive Personally Identifiable Information subject to our certification under the Privacy Shield and then transfer it to a third-party service provider acting as an agent on our behalf, we have certain liability under the Privacy Shield if both (i) the agent processes the personal data in a manner inconsistent with the Privacy Shield and (ii) we are responsible for the event giving rise to the damage.
+    *   Other Disclosures. We may also disclose User Information (1) if required to do so by law, or in the good-faith belief that such action is in compliance with state and federal laws (including, without limitation, copyright laws) or in response to a court order, subpoena, legal process, search warrant or request by a public authority, including to meet national security or law enforcement requirements; (2) if we believe, in good faith, such action is appropriate or necessary to enforce our Terms of Service or any terms applicable to specific Services, exercise our legal rights, take precautions against liability, to investigate and defend ourselves against any claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our Services, and to protect the rights, property, or personal safety of us, our users or others; (3) to any parent company, affiliated entity, or other entity controlled by, controlling, or under common control with, us (in which case, we will require such entities to honor this Policy); or (4) as otherwise described herein.
+[](https://www.ui.com/legal/privacypolicy/)*   Public Information. Please note that if you choose to share information about yourself in any discussion forum or public areas of our Services (such as the Community Forum or review boards on the Ubiquiti World Network) we consider that information to be public information. Any personal information that you include in any content submitted or posted when using the public areas of our Services can be viewed by the general public, so please consider this before submitting any such information or content. You are solely responsible for any information, including any Personally Identifiable Information, you disclose on the discussion or public areas of our Services, and any use of such information by any third-parties regardless of whether you permitted or did not permit such use. We cannot control how others use the information that you post to public areas of our Services.
+[](https://www.ui.com/legal/privacypolicy/)*   Cookies and Other Tracking Technology. We may use cookies, web beacons, local stored objects (LSOs), JavaScript and similar technology in connection with your use of some of our Services, including our Sites and Mobile Apps, to collect Usage Data and other analytics data. We may also permit third-parties to use cookies and other tracking technologies to collect usage and analytics data on our Sites and Mobile Apps. In addition, some of our Services may use analytic software (which may be provided by third-parties) to collect further Usage Data regarding the usage patterns of our users. We may combine Usage Data with the other information we collect (including Personally Identifiable Information), which could enable us to trace Usage Data to an individual user.
+    *   Cookies. Cookies are alphanumeric identifiers that are transferred to your computer’s hard drive through your web browser for record-keeping purposes. Most web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them. The “Help” portion of the toolbar on most browsers will tell you how to prevent your computer from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable or delete cookies altogether. Some features of the Services may not function with cookies disabled.
+        
+        Cookies are grouped into four categories:
+        
+        *   _Strictly necessary cookies_. Some cookies are strictly necessary for you to be able to experience the full functionality of our Sites. For example, these cookies allow you to use the website and log-in to your account as intended. We also use cookies to direct you to the right website based on geography and language and to detect and prevent security threats.
+        *   _Performance cookies_. Performance cookies tell us about how you use the site and they help us to make it better. For example, these cookies count the number of visitors to our website and see how visitors move around when they are using it. This helps us to improve the way our Sites work, for example, by ensuring that users find what they are looking for easily.
+        *   _Functional cookies_. Functional cookies allow the Sites to remember your preferences, helping you to customize your content on our Sites. This type of cookie enables us to highlight products and services we believe is of interest and relevance to you. This way we can remember you when you return to our site and to give you best possible user experience.
+        *   _Targeting cookies_. Targeting cookies allow us to show more relevant advertising by serving you information, offers and promos that are based on your browsing patterns and the way you have interacted with our sites and apps. These cookies may also be set through our sites by our advertising partners. For more information on third party cookies, please review Section 5(d) and 5(e).
+    *   Local Storage Objects. We may use Local Storage Objects ("LSOs"), including Flash LSOs, to store your preferences and to personalize your visit to our site and use of our Services. LSOs are different from browser cookies because of the amount and type of data stored. Typically, you cannot control, delete or disable the acceptance of LSOs through your web browser. For more information on Flash LSOs, or to learn how to manage your settings for Flash LSOs, go [here](https://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html "Manage, disable Local Shared Objects | Flash Player").
+    *   Web Beacons. Web beacons are tiny graphics with a unique identifier, similar in function to cookies. In contrast to cookies, which are stored on your computer’s hard drive, web beacons are embedded invisibly on web pages. We may use web beacons (including clear GIFs) in connection with our Sites, Web Apps and Mobile Apps to, among other things, track the activities of users, help us manage content, and compile statistics about usage. We and our third-party service providers may also use web beacons in HTML emails to our customers, to help track email response rates, identify when our emails are viewed, and track whether our emails are forwarded.
+    *   Third-Party Tracking. Our Sites currently do not honor “Do Not Track” browser signals. We use Google Analytics, which uses cookies and similar technologies to collect and analyze information about use of the Services and report on activities and trends. This service may also collect information regarding the use of other websites, apps and online resources. You can learn about Google’s practices by going to www.google.com/policies/privacy/partners/, and opt out of them by downloading the Google Analytics opt-out browser add-on, available at [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout "Google Analytics opt-out browser add-on").
+    *   Ad Networks
+        *   We may use third-parties, such as network advertisers, to display advertisements on third-party websites and mobile apps, on our behalf. Network advertisers are third-parties that display advertisements based on your use of our Services and other third-party website and mobile applications. This enables us and these third-parties to target advertisements by displaying ads for products and services in which you might be interested. These third-parties may use cookies and other technologies to measure the effectiveness of their ads and to personalize advertising content to you. These third-party cookies and other technologies are governed by each third-party’s specific privacy policy, not this one. We may provide third-party advertisers with aggregate or de-identified information about your usage of our Services. We do not share your Personally Identifiable Information with these third-parties, and we do not permit these third-parties to use cookies and other tracking technologies placed on our Site to automatically collect Personally Identifiable Information about users. If you do not allow these cookies, you will experience less targeted advertising.
+        *   You may opt out of many website third-party ad networks, including those operated by members of the Network Advertising Initiative ("NAI) and the Digital Advertising Alliance ("DAA"). For more information regarding this practice by NAI members and DAA members, and your choices regarding having this information used by these companies, including how to opt out of third-party ad networks operated by NAI and DAA members, please visit their respective websites: [www.networkadvertising.org/optout\_nonppii.asp](https://www.networkadvertising.org/optout_nonppii.asp "Opt Out of Interest-Based Advertising") and [www.aboutads.info/choices](https://www.aboutads.info/choices "USER'S CURRENT IBA STATUS").
+[](https://www.ui.com/legal/privacypolicy/)*   Your Choices. In addition to the actions you may take related to Cookies and Tracking Technology describe above in Section 5, you may consider the following:
+    *   Marketing Communications. We may share User Information with our affiliates who may use such information to send you promotional emails. Consistent with federal CANSPAM laws, you may opt out of receiving marketing emails from us by following the opt-out instructions contained in any marketing email we send you. Please note that it may take up to ten (10) business days for us to process opt-out requests. If you opt out of receiving marketing emails from us, we may still send you emails about your account or any Services you have requested or received from us.
+    *   Account Information. If you maintain an account with us, you may modify your account information by logging into your account and updating your information. Please note that copies of information that you have updated, modified or deleted may remain in our systems, and may also be viewable in cached and archived pages of our Sites for a period of time. Additionally, if you discontinue using our Services or update your account information, we may retain the data previously collected about you.
+[](https://www.ui.com/legal/privacypolicy/)*   Data Security. WE BELIEVE THAT WE HAVE IMPLEMENTED COMMERCIALLY REASONABLE PRECAUTIONS TO PROTECT THE USER INFORMATION FROM LOSS, MISUSE, AND UNAUTHORIZED ACCESS, DISCLOSURE, ALTERATION AND DESTRUCTION. PLEASE BE AWARE THAT DESPITE OUR EFFORTS, NO DATA SECURITY MEASURES CAN GUARANTEE 100% SECURITY. YOU SHOULD TAKE STEPS TO PROTECT AGAINST UNAUTHORIZED ACCESS TO YOUR ACCOUNT AND THE INFORMATION ACCESSIBLE VIA YOUR ACCOUNT BY, AMONGST OTHER THINGS, SIGNING OFF AFTER USING A SHARED COMPUTER, CHOOSING A ROBUST PASSWORD THAT NOBODY ELSE KNOWS OR CAN EASILY GUESS, AND KEEPING YOUR LOG-IN AND PASSWORD PRIVATE. WE ARE NOT RESPONSIBLE FOR ANY LOST, STOLEN OR COMPROMISED PASSWORDS OR FOR ANY ACTIVITY ON YOUR ACCOUNT VIA UNAUTHORIZED PASSWORD ACTIVITY.
+[](https://www.ui.com/legal/privacypolicy/)*   Third-Party Links. Our Services may contain links to third-party websites and products and services offered by third parties. Any access to and use of such linked websites or third-party products and services is not governed by this Policy, but instead is governed by the privacy policies of those third-parties. We are not responsible for the privacy or security practices of such third-parties.
+[](https://www.ui.com/legal/privacypolicy/)*   Children's Privacy. We do not knowingly collect Personally Identifiable Information from children under thirteen (13) years of age, and no part of our Services is directed to children under thirteen (13) years of age. If we learn that Personally Identifiable Information of children under thirteen (13) years of age has been collected on or through our Services, then we will take the appropriate steps to delete this information from our systems. If you are a parent or guardian and discover that your child under thirteen (13) years of age has provided Personally Identifiable Information to us, then you may alert us [here](https://www.ui.com/global-request/) and request that we delete your child’s Personally Identifiable Information from our systems.
+[](https://www.ui.com/legal/privacypolicy/)*   Special Notes to International Users.
+    *   _Data Transfer_. Most of our Services are hosted in the United States. If you are accessing our Services from outside of the United States, where laws or regulations governing personal data collection, use, and disclosure differ from United States laws, please be advised that your continued use of our Services will be governed by United States law, this Policy, and any other terms applicable to our Services. User Information may be transferred to, processed in, and held in countries other than the one in which you reside (including the United States). If you are located in a country outside the United States and submit User Information to us, you thereby consent to the general use of such information as provided in this Policy and to the transfer of that User Information to, or storage of that information in, the United States or other locations in which information is stored. In accordance with Section 13 herein, we remain committed to subject all Personally Identifiable Information received from the European Union to the Privacy Shield principles, including the Supplemental Principles (available [here](https://www.privacyshield.gov/article?id=OVERVIEW "privacyshield")) in reliance on the Privacy Shield.
+    *   _Right to Access_. Some international users have certain legal rights to access certain Personally Identifiable Information we hold about them and to obtain its correction, amendment or deletion. Those users may contact the Legal Department as described in Section 14. Please be advised that because our personnel have a limited ability to identify and access an individual user’s Personally Identifiable Information that our customer has submitted to the Services, if you wish to request access, to limit use, or to limit disclosure, we may first refer your request to the customer who submitted your Personally Identifiable Information, and we will support them as needed in responding to your request. If you would like us to delete your Personally Identifiable Information, we will use commercially reasonable efforts to honor your request. There may be a brief delay in our processing that request, while we verify that the request is valid and originates from you as opposed to an unauthorized third party. We reserve the right to terminate and/or limit your access to the Services, as we may need such information to provide the Services to you. We may retain an archived copy of your records as required by law or for legitimate business purposes.
+[](https://www.ui.com/legal/privacypolicy/)*   California Privacy Rights. If you are a California resident, you may request a list of certain third-parties, if any, to which we have disclosed your Personally Identifiable Information for their own direct marketing purposes. You may make one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for your response. You may request this information in writing by contacting us using the contact information in Section 14 below. Please allow up to thirty (30) days for a response.
+[](https://www.ui.com/legal/privacypolicy/)*   Changes and Updates to this Policy. THIS POLICY MAY BE REVISED PERIODICALLY AND THIS WILL BE REFLECTED UNDER “DATE LAST MODIFIED” BELOW. IF WE MAKE ANY CHANGE TO THE WAY IN WHICH WE TREAT YOUR PERSONALLY IDENTIFIABLE INFORMATION, WE MAY INFORM YOU OF SUCH CHANGE VIA EMAIL OR BY POSTING A NOTICE IN THIS POLICY OR ON ANY OF OUR SITES, DEPENDING UPON THE SIGNIFICANCE OF THE CHANGE. YOUR CONTINUED ACCESS OR USE OF OUR SERVICES AFTER ANY CHANGES BECOME EFFECTIVE CONSTITUTES YOUR CONSENT TO, AND AGREEMENT TO BE BOUND BY, THE REVISED POLICY IN RELATION TO THE USER INFORMATION RECEIVED FROM YOU OR YOUR DEVICES. ANY REVISIONS TO THIS POLICY WILL BE EFFECTIVE AS OF THE DATE INDICATED ABOVE.
+[](https://www.ui.com/legal/privacypolicy/)*   European Union Privacy Shield.
+    
+    We, including Ubiquiti Inc., Ubiquiti Energy, LLC, 6408 Equipment LLC, Ubiquiti Distribution LLC and Ubiquiti Labs, LLC, comply with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. We have certified to the Department of Commerce that we adhere to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov/](https://www.privacyshield.gov/ "privacyshield").
+    
+[](https://www.ui.com/legal/privacypolicy/)*   Questions, Disputes and Contact Information.
+    
+    In compliance with the Privacy Shield Principles, we commit to resolve complaints about our collection or use of your Personally Identifiable information. If you wish to access, modify or have any dispute regarding your User Information, including Personally Identifiable Information, please first contact us with any questions, comments or concerns as follows:
+    
+    If you are a E.U./U.K. resident, please click [here](https://www.ui.com/gdpr-request/) to complete and submit an online request form.
+    
+    If you are a California resident, please click [here](https://www.ui.com/ccpa-request/) to complete and submit an online request form. You may also call us at 1-844-505-1181.
+    
+    For all other inquiries, please click [here](https://www.ui.com/global-request/) to complete and submit an online request form.
+    
+    If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, you may seek further assistance, at no cost to you, from [JAMS](https://www.jamsadr.com/eu-us-privacy-shield "JAMS"), which is an independent dispute resolution body in the United States. Under certain conditions, more fully described on the Privacy Shield website, including when other dispute resolution procedures have been exhausted, you may invoke binding arbitration. We also commit to cooperate with the panel established by the EU data protection authorities (DPAs) and comply with advice given by the panel with regard to human resources data transferred from a European country participating in the Privacy Shield in the context of the employment relationship. We are subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).
+    
+
+Copyright © 2020 Ubiquiti Inc. All rights reserved.
+
+#### Company
+
+*   [Careers](https://careers.ui.com/ "Careers")
+*   [Contact Us](https://www.ui.com/contact/ "Contact Us")
+*   [Investors](http://ir.ui.com/ "Investors")
+
+#### In the News
+
+*   [Ubiquiti Blog](http://blog.ui.com/ "Ubiquiti Blog")
+*   [Case Studies](https://www.ui.com/casestudies/ "Case Studies")
+
+#### Training
+
+*   [Courses](https://www.ui.com/training/ "Courses")
+*   [Calendar](https://www.ui.com/training/calendar/ "Calendar")
+*   [Trainers](https://www.ui.com/training/partners/ "Trainers")
+*   [Become a Trainer](https://www.ui.com/training/become-trainer/ "Become a Trainer")
+
+#### Buy Now
+
+*   [Ubiquiti Store](https://store.ui.com/ "Ubiquiti Store")
+*   [Find a Distributor](https://www.ui.com/distributors/ "Find a Distributor")
+*   [Stock Locator Tool](https://www.ui.com/distributors/stock-locator/ "Stock Locator Tool")
+*   [Become a Distributor](https://www.ui.com/distributors/become-authorized-distributor/ "Become a Distributor")
+*   [UniFi Design Tool](https://design.ui.com/#/ "UniFi Design Tool")
+
+#### Social
+
+*   [Community](https://community.ui.com/ "Community")
+*   [Facebook](https://www.facebook.com/uieverywhere/ "Facebook")
+*   [Twitter](https://twitter.com/ubnt "Twitter")
+*   [YouTube](https://www.youtube.com/user/ubnt?feature=watch "YouTube")
+*   [Instagram](https://www.instagram.com/uieverywhere/ "Instagram")
+
+Stay In Touch
+
+Subscribe
+
+© 2020 Ubiquiti Inc. All rights reserved.
+
+[Terms of Service](https://www.ui.com/legal/termsofservice/ "Terms of Service") | [Privacy Policy](https://www.ui.com/legal/privacypolicy/ "Privacy Policy") | [Legal](https://www.ui.com/legal/ "Legal")
