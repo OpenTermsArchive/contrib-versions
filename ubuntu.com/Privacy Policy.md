@@ -1,33 +1,3 @@
-[](https://ubuntu.com/)
-
-##### [Legal](https://ubuntu.com/legal)
-
-[Jump to main content](#main-content)
-
-*   [Enterprise](#enterprise-content)
-*   [Developer](#developer-content)
-*   [Community](#community-content)
-*   [Download](#download-content)
-
-*   [OpenStack](https://ubuntu.com/openstack)
-*   [Kubernetes](https://ubuntu.com/kubernetes)
-*   [Desktop](https://ubuntu.com/desktop)
-*   [IoT](https://ubuntu.com/internet-of-things)
-*   [Support](https://ubuntu.com/support)
-*   [Downloads](https://ubuntu.com/download)
-
- _Clear_ _Search_
-
-[
-
-##### Legal
-
-](https://ubuntu.com/legal)
-
-*   [Data privacy](https://ubuntu.com/legal/data-privacy)
-*   › 
-*   [Data protection enquiry](https://ubuntu.com/legal/data-privacy/enquiry)
-
 Data privacy
 ============
 
@@ -37,12 +7,12 @@ Canonical collects personal information from you in a number of different ways. 
 
 At Canonical, we consider your privacy to be extremely important to us. These are the fundamental principles that we follow in relation to your personal information:
 
-*   We don’t ask you for personal information unless we truly need it.
-*   We don’t share your personal information with anyone except to provide you with services, products, to comply with the law, or to protect our rights.
-*   We don’t store personal information unless required for the on-going operation of services to you, to provide you with products, to comply with law or to protect our rights.
+*   We don't ask you for personal information unless we truly need it.
+*   We don't share your personal information with anyone except to provide you with services, products, to comply with the law, or to protect our rights.
+*   We don't store personal information unless required for the on-going operation of services to you, to provide you with products, to comply with law or to protect our rights.
 *   We will use personal information that you provide to us in accordance with this privacy policy.
 
-Canonical Group Limited (**“we”**, **“us”** and **“our”**) are committed to protecting and respecting your privacy. Information collected for or on behalf of the Canonical group of companies will be the responsibility of Canonical Group Limited.
+Canonical Group Limited (**"we"**, **"us"** and **"our"**) are committed to protecting and respecting your privacy. Information collected for or on behalf of the Canonical group of companies will be the responsibility of Canonical Group Limited.
 
 [Full list of Canonical contracting entities ›](https://ubuntu.com/legal/companies)
 
@@ -97,17 +67,17 @@ When you register for services or purchase any product from Canonical, we may as
 
 ### Webinars
 
-Some webinars are directly hosted by Canonical on our sites. Where a webinar is operated by a third-party provider, you will be directed to a third-party website and the third-party provider may collect information as part of the webinar registration process. This data will be collected in accordance with the third-party provider’s terms and conditions. Please see “Links and third-party content” in the Terms and Conditions for further details.
+Some webinars are directly hosted by Canonical on our sites. Where a webinar is operated by a third-party provider, you will be directed to a third-party website and the third-party provider may collect information as part of the webinar registration process. This data will be collected in accordance with the third-party provider's terms and conditions. Please see "Links and third-party content" in the Terms and Conditions for further details.
 
 ### Non-personally identifying information
 
-Canonical may collect non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, referring site, and the date and time of each visitor request. Our purpose in collecting non-personally identifying information is to better understand how visitors use our websites and services. For further information about how we use cookies, see the “cookie” section below.
+Canonical may collect non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, referring site, and the date and time of each visitor request. Our purpose in collecting non-personally identifying information is to better understand how visitors use our websites and services. For further information about how we use cookies, see the "cookie" section below.
 
 Please note that Canonical may also collect system information during installation of Ubuntu and on first login to Ubuntu. This system information is subject to a [Legal Notice](https://ubuntu.com/legal/online-account-terms).
 
 ### Error reports
 
-When you chose to send an error report, it includes a unique identifier for your computer. This identifier does not identify you, unless you (or someone acting on your behalf) discloses it separately. An error report may include personal information such as the state of programs that were running at the time. You can block future error reports from the privacy panel of System Settings or by deselecting the "Enable Google Analytics in MAAS UI to shape improvements in user experience” box where applicable.
+When you chose to send an error report, it includes a unique identifier for your computer. This identifier does not identify you, unless you (or someone acting on your behalf) discloses it separately. An error report may include personal information such as the state of programs that were running at the time. You can block future error reports from the privacy panel of System Settings or by deselecting the "Enable Google Analytics in MAAS UI to shape improvements in user experience" box where applicable.
 
 ### Ubuntu online accounts
 
@@ -132,7 +102,7 @@ We may use your information in the following ways:
 *   To study how anonymous users interact with our websites and services.
 *   To market our products or services to you.
 
-Unless you have notified us otherwise, Canonical may occasionally send you email to tell you about new features, solicit feedback, or just to keep you up to date with what’s going on. We may use various community websites (Launchpad Answers, Ubuntu Forums, blogs etc.) to communicate this type of information, so we expect to keep this type of information to a minimum. If you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications, modify the communications preferences in your account or contact us using the contact details provided below.
+Unless you have notified us otherwise, Canonical may occasionally send you email to tell you about new features, solicit feedback, or just to keep you up to date with what's going on. We may use various community websites (Launchpad Answers, Ubuntu Forums, blogs etc.) to communicate this type of information, so we expect to keep this type of information to a minimum. If you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications, modify the communications preferences in your account or contact us using the contact details provided below.
 
 What are your rights?
 ---------------------
@@ -194,14 +164,14 @@ You can find more information about the individual cookies we use and the purpos
 | Cookie | Name | Purpose |
 | --- | --- | --- |
 | Site cookie acceptance | `_cookies_accepted` | This cookie is used to record if a user has accepted the use of cookies on our website. To withdraw your consent after accepting this cookie, delete the `_cookies_accepted` cookie. |
-| Google Tag Manager with Google Analytics | `_utma`, `_utmb`, `_utmc`, `_utmz`, `_ga`, `_gid`, `_id_cpn`, `_id_eml`, `trwsa.sid`, `trwsb.cpv`, `trwsb.sid`, `trwsb.stu`, `trwv.crd`, `trwv.cvd`, `trwv.eml`, `trwv.lvd`, `trwv.uid`, `trwv.uid`, `waiting_in_queue`, `lc_window_state`, `_dc_gtm_UA-XXXXXXX-X`, `__lc.visitor_id.XXXXXXX` | Google Tag Manager to set most of our trackers as well as Google Analytics.<br><br>[Google’s privacy policy](https://policies.google.com/privacy?hl=en-GB&gl=uk) |
-| Crazyegg | `_ceir`, `is_returning`, `_CEFT`, `ceg.s`,`ceg.u` | Crazyegg tracks javascript on some pages of our site to understand what links our visitors are clicking on. This helps us optimize our content for the best user experience. The Crazyegg script may store a cookie on your computer. This cookie may contain a session ID, a visitor ID and a few other dynamically created parameters that allow Crazyegg to track our site's traffic accurately. No personal information is stored within the cookie.<br><br>[Crazy Egg’s privacy policy](https://www.crazyegg.com/privacy) |
-| Marketo Munchkin | `_mkto_trk`, `BIGipServersjrtp3_https`, `firstTouchGA`, `LPVID`, `_A_source`, `_A_time` | Marketo’s cookie allows us to track repeated visits to the website, and link each visit to the information voluntarily provided by the visitor. For example, if the visitor is asked to provide us with their name, company name and email address, we will know the identity of the visitor when they visit the site at a later date, or when we send them email.<br><br>[Marketo’s privacy policy](https://documents.marketo.com/legal/privacy/) |
-| Facebook | `fr`, `datr`, `reg_ext_ref`, `reg_fb_gate`, `reg_fb_ref`, `sb`, `wb` | The Facebook pixel allows us to see how many people take action on our ads and which ad led to a conversion.<br><br>[Facebook’s privacy policy](https://www.facebook.com/about/privacy/) |
-| LinkedIn | `bcookie`, `lidc`, `BizoID`, `UserMatchHistory`, `lang`, `bscookie` | LinkedIn tracking allows us to see how many people take action on our ads and which ad led to a conversion.<br><br>[LinkedIn’s privacy policy](https://www.linkedin.com/legal/privacy-policy) |
-| Twitter | `guest_id`, `personalization_id`, `_ga`, `_gid` | Twitter tracking allows us to see how many people take action on our ads and which ad led to a conversion.<br><br>[Twitter’s privacy policy](https://twitter.com/en/privacy) |
-| LiveChat | `__livechat`, `recent_window`, `notifications[]`, `message_text`, `main_window_timestamp`, `__lc_vv`, `__livechat`, `__livechat_lastvisit` | LiveChat allows potential customers to talk to our sales people through live chat. Cookies help the service function.<br><br>[LiveChat’s privacy policy](https://www.livechatinc.com/privacy-policy/) |
-| Vimeo | `vuid` | Vimeo hosts our videos. Their cookies provides more information about how many people view our videos and for how long.<br><br>[Vimeo’s privacy policy](https://vimeo.com/privacy) |
+| Google Tag Manager with Google Analytics | `_utma`, `_utmb`, `_utmc`, `_utmz`, `_ga`, `_gid`, `_id_cpn`, `_id_eml`, `trwsa.sid`, `trwsb.cpv`, `trwsb.sid`, `trwsb.stu`, `trwv.crd`, `trwv.cvd`, `trwv.eml`, `trwv.lvd`, `trwv.uid`, `trwv.uid`, `waiting_in_queue`, `lc_window_state`, `_dc_gtm_UA-XXXXXXX-X`, `__lc.visitor_id.XXXXXXX` | Google Tag Manager to set most of our trackers as well as Google Analytics.<br><br>[Google's privacy policy](https://policies.google.com/privacy?hl=en-GB&gl=uk) |
+| Crazyegg | `_ceir`, `is_returning`, `_CEFT`, `ceg.s`,`ceg.u` | Crazyegg tracks javascript on some pages of our site to understand what links our visitors are clicking on. This helps us optimize our content for the best user experience. The Crazyegg script may store a cookie on your computer. This cookie may contain a session ID, a visitor ID and a few other dynamically created parameters that allow Crazyegg to track our site's traffic accurately. No personal information is stored within the cookie.<br><br>[Crazy Egg's privacy policy](https://www.crazyegg.com/privacy) |
+| Marketo Munchkin | `_mkto_trk`, `BIGipServersjrtp3_https`, `firstTouchGA`, `LPVID`, `_A_source`, `_A_time` | Marketo's cookie allows us to track repeated visits to the website, and link each visit to the information voluntarily provided by the visitor. For example, if the visitor is asked to provide us with their name, company name and email address, we will know the identity of the visitor when they visit the site at a later date, or when we send them email.<br><br>[Marketo's privacy policy](https://documents.marketo.com/legal/privacy/) |
+| Facebook | `fr`, `datr`, `reg_ext_ref`, `reg_fb_gate`, `reg_fb_ref`, `sb`, `wb` | The Facebook pixel allows us to see how many people take action on our ads and which ad led to a conversion.<br><br>[Facebook's privacy policy](https://www.facebook.com/about/privacy/) |
+| LinkedIn | `bcookie`, `lidc`, `BizoID`, `UserMatchHistory`, `lang`, `bscookie` | LinkedIn tracking allows us to see how many people take action on our ads and which ad led to a conversion.<br><br>[LinkedIn's privacy policy](https://www.linkedin.com/legal/privacy-policy) |
+| Twitter | `guest_id`, `personalization_id`, `_ga`, `_gid` | Twitter tracking allows us to see how many people take action on our ads and which ad led to a conversion.<br><br>[Twitter's privacy policy](https://twitter.com/en/privacy) |
+| LiveChat | `__livechat`, `recent_window`, `notifications[]`, `message_text`, `main_window_timestamp`, `__lc_vv`, `__livechat`, `__livechat_lastvisit` | LiveChat allows potential customers to talk to our sales people through live chat. Cookies help the service function.<br><br>[LiveChat's privacy policy](https://www.livechatinc.com/privacy-policy/) |
+| Vimeo | `vuid` | Vimeo hosts our videos. Their cookies provides more information about how many people view our videos and for how long.<br><br>[Vimeo's privacy policy](https://vimeo.com/privacy) |
 
 Please note that third parties (including, for example, advertising networks and providers of external services like web traffic analysis services) may also use cookies, over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies.
 
@@ -239,7 +209,7 @@ We will also disclose your information to third parties:
 Where we transfer and store your information
 --------------------------------------------
 
-The information that we collect from you will be transferred to, and stored at, a destination outside the European Economic Area (”EEA”). It will also be processed by staff operating outside the EEA who work for us or for one of our suppliers. This includes staff engaged by us for the provision of the services we provide you. Further information can be found [here](https://assets.ubuntu.com/v1/3f8da085-Third_Party-and-Geolocation_Policy.pdf). By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy and all applicable data protection legislation.
+The information that we collect from you will be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It will also be processed by staff operating outside the EEA who work for us or for one of our suppliers. This includes staff engaged by us for the provision of the services we provide you. Further information can be found [here](https://assets.ubuntu.com/v1/3f8da085-Third_Party-and-Geolocation_Policy.pdf). By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy and all applicable data protection legislation.
 
 All information you provide to us is stored on our secure servers. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
@@ -266,7 +236,7 @@ Alternatively you can use the relevant [contact us](https://ubuntu.com/contact-u
 Your right to complain
 ----------------------
 
-If you have a complaint about our use of your information, you can contact the Information Commissioner’s Office via their website at [ico.org.uk/concerns/](https://ico.org.uk/concerns/) or write to them at:
+If you have a complaint about our use of your information, you can contact the Information Commissioner's Office via their website at [ico.org.uk/concerns/](https://ico.org.uk/concerns/) or write to them at:
 
 Information Commissioner's Office  
 Wycliffe House  
