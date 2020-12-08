@@ -356,7 +356,7 @@ Follow
 
 Special
 
-[Conservative Dating](https://www.okcupid.com/s/conservative-dating-sites)Redeem Promotion[Download Apps](https://www.okcupid.com/mobile)
+[Los Angeles Dating](https://www.okcupid.com/s/los-angeles-dating)Redeem Promotion[Download Apps](https://www.okcupid.com/mobile)
 
 5888DB70-F8B3-4FB8-B86A-4E6BA3B1D8D4@2.00x
 
