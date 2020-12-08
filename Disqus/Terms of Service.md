@@ -1,23 +1,3 @@
- [![Disqus](https://downloads.intercomcdn.com/i/o/89882/04711297e4ac978e0ca1f4f2/c56345f6e580f2ddd358475bae6c43b8.png)](https://help.disqus.com/en/) 
-
-[Group 65Go to Disqus](https://disqus.com/)
-
-[All Collections](https://help.disqus.com/en/)
-
-[Terms and Policies](https://help.disqus.com/en/collections/191787-terms-and-policies)
-
-Terms of Service
-
-Terms of Service
-================
-
-Disqus' Terms of Service for Users and Publishers.
-
-![Disqus avatar](https://static.intercomassets.com/avatars/512695/square_128/Disqus_d_icon_%28gray%29.svg-1472681159.png?1472681159)
-
-Written by Disqus  
-Updated over a week ago
-
 DISQUS TERMS
 ------------
 
@@ -245,18 +225,3 @@ PUBLISHER TERMS OF SERVICE AGREEMENT
 11.10 _Governing Law; Jurisdiction._ The validity, interpretation, performance and enforcement of this Agreement shall be governed by the laws of the State of California and each party irrevocably submits to exclusive jurisdiction and venue in the courts located in Santa Clara County, California. The United Nations Convention on contracts for the International Sales of Goods shall not apply. The remedies under this Agreement shall be cumulative and not alternative and the election of one remedy for a breach shall not preclude pursuit of other remedies unless expressly provided otherwise in this Agreement. Licensor shall be entitled to collect its reasonable attorney’s fees, costs and expenses in any action brought to seek amounts past due or to otherwise enforce rights hereunder.
 
 11.11 _Notice._ All notices and other communications hereunder shall be in writing and shall be deemed to have been duly given when delivered in person (including by overnight courier) or three days after being mailed by registered or certified mail (postage prepaid, return receipt requested) or sent by email, and on the date the notice is sent when sent by verified facsimile or email, in each case to the respective Parties at the address first set forth hereto.
-
-Did this answer your question?
-
- [![Disqus](https://downloads.intercomcdn.com/i/o/89882/04711297e4ac978e0ca1f4f2/c56345f6e580f2ddd358475bae6c43b8.png)](https://help.disqus.com/en/) 
-
-*   [Features](https://disqus.com/features/)
-*   [Plans and Pricing](https://disqus.com/pricing/)
-*   [Blog](http://blog.disqus.com/)
-*   [API](https://disqus.com/api/)
-*   [Jobs](https://disqus.com/jobs)
-*   [Terms and Policies](https://help.disqus.com/customer/portal/topics/215159-terms-and-policies/articles)
-*   [Get Support](https://disqus.com/support)
-*   [Status](https://status.disqus.com/)
-
-![Intercom](https://static.intercomassets.com/alexandria/assets/intercom-a6a6ac0f033657af1aebe2e9e15b94a3cd5eabf6ae8b9916df6ea49099a894d8.png) [We run on Intercom](https://www.intercom.com/intercom-link?company=Disqus&solution=customer-support&utm_campaign=intercom-link&utm_content=We+run+on+Intercom&utm_medium=help-center&utm_referrer=https%3A%2F%2Fhelp.disqus.com%2Fen%2Farticles%2F1717102-terms-of-service&utm_source=desktop-web)
