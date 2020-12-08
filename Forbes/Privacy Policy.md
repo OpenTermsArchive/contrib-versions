@@ -1,15 +1,3 @@
-[](https://www.forbes.com/)
-
-*   [Drop Down](https://www.forbes.com/sites)
-*   [Main Text](https://www.forbes.com/sites)
-*   [CSS](https://www.forbes.com/sites)
-
-*   Forbes.com Privacy Statement
-    
-
-*   Select Privacy Statement Language: Dutch English French German Italian Polish Romanian Russian Spanish [![TRUSTe](//privacy-policy.truste.com/privacy-seal/seal?rid=78189057-e468-4f93-be8f-f6c6da58a365)](https://privacy.truste.com/privacy-seal/validation?rid=78189057-e468-4f93-be8f-f6c6da58a365)
-    
-
 *   _Effective as of: November 1, 2020_
     
     **Forbes values your privacy.**
@@ -305,32 +293,3 @@
     We may update this Privacy Statement from time to time in response to changing legal, technical or business developments.  This Privacy Statement describes our data handling practices for the 12 months prior to the date on which it was last updated. When we update our Privacy Statement, we will take appropriate measures to inform you, consistent with the significance of the changes we make.  For example, if we make any material changes we will notify you by email (sent to the email address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We will obtain your consent to any material changes if and where consent is required by applicable laws.  We encourage you to periodically review this page for the latest information on our privacy practices.
     
     Note on Translated Version(s): For your convenience, Forbes may make translated versions of this Privacy Statement available on the Site.  In the event that the terms of any such translated version conflict with the terms of the English version, the terms of the English version of this Privacy Statement will apply.
-    
-
-[](https://www.forbes.com/)© 2020 Forbes Media LLC. All Rights Reserved.
-
-*   [AdChoices](https://preferences-mgr.truste.com/?pid=forbes01)
-*   [AdChoices](https://preferences-mgr.truste.com/?pid=forbes01&aid=forbes_mobile01)
-*   [Privacy Statement](https://www.forbes.com/fdc/privacy.html)
-*   [Terms and Conditions](https://www.forbes.com/terms)
-*   [Contact Us](https://www.forbes.com/fdc/contact.html)
-*   [Send Us Feedback](mailto:feedback@forbes.com)
-*   [Jobs At Forbes](https://www.forbes.com/sites/careers-at-forbes/)
-*   [Reprints & Permissions](http://forbesreprints.magreprints.com/)
-*   [Forbes Press Room](https://www.forbes.com/pr/)
-*   [Forbes Quote of the Day](https://www.forbes.com/quotes/)
-*   [Advertise](http://www.forbesmedia.com/)
-
-[](https://www.forbes.com/)
-
-false
-
-![Cookie Preference](https://consent.trustarc.com/asset/forbes.png)
-
-![](https://contextual.media.net/px.gif?&ch=1&vn=1)![](https://s.mnet-ad.net/px.gif?&ch=2&vn=1)   
-
-![](https://www.facebook.com/tr?id=1494993704116832&ev=PageView&noscript=1)
-
-![](https://c.aaxads.com/pxusr.gif?&type=1&vn=1)![](https://www.aaxdetect.com/pxext.gif?&type=2&vn=1) 
-
-![transparent background](https://consent.trustarc.com/asset/transparent.png)
