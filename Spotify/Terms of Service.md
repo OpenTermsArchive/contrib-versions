@@ -1,21 +1,3 @@
-[Skip to content](#start-of-content)
-
-[Spotify](https://www.spotify.com/us/)
-
-*   [Premium](https://www.spotify.com/us/premium/)
-*   [Support](https://support.spotify.com/)
-*   [Download](https://www.spotify.com/us/download/)
-
-*   [Sign up](https://www.spotify.com/us/signup/)
-*   [Log in](https://www.spotify.com/us/account/overview/)
-
-Toggle navigation
-
-*   Legal
-*   [Terms and Conditions of Use](https://www.spotify.com/us/legal/end-user-agreement/)
-*   [Copyright Policy](https://www.spotify.com/us/legal/copyright-policy/)
-*   [Privacy Policy](https://www.spotify.com/us/legal/privacy-policy/)
-
 Spotify Terms and Conditions of Use
 ===================================
 
@@ -333,46 +315,3 @@ Contracting entity:
 Spotify USA Inc.  
 4 World Trade Center, 150 Greenwich Street, 62nd Floor, New York, NY 10007  
 USA
-
-[Spotify](https://www.spotify.com/us/)
-
-Company
-
-[About](https://www.spotify.com/us/about-us/contact/)
-
-[Jobs](https://www.spotifyjobs.com/)
-
-[For the Record](https://newsroom.spotify.com/)
-
-Communities
-
-[For Artists](https://artists.spotify.com/)
-
-[Developers](https://developer.spotify.com/)
-
-[Advertising](https://ads.spotify.com/)
-
-[Investors](https://investors.spotify.com/)
-
-[Vendors](https://spotifyforvendors.com/)
-
-Useful links
-
-[Support](https://support.spotify.com/)
-
-[Web Player](https://open.spotify.com/)
-
-[Free Mobile App](https://www.spotify.com/us/free/)
-
-[2020 Wrapped](https://www.spotify.com/us/wrapped/)
-
-[USA ![](https://country-flags.scdn.co/flags/us.svg)](https://www.spotify.com/us/select-your-market/) 
-
-*   [Legal](https://www.spotify.com/us/legal/)
-*   [Privacy Center](https://www.spotify.com/us/privacy/)
-*   [Privacy Policy](https://www.spotify.com/us/legal/privacy-policy/)
-*   [Cookies](https://www.spotify.com/us/legal/cookies-policy/)
-*   [About Ads](https://www.spotify.com/us/legal/privacy-policy/#s3)
-*   [Additional CA Privacy Disclosures](https://www.spotify.com/us/legal/California-privacy-disclosure/)
-
-© 2020 Spotify AB
