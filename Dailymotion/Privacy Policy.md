@@ -1,29 +1,3 @@
-[Sign In](https://www.dailymotion.com/signin?urlback=%2Fgb%2Flegal%2Fprivacy)
-
-[Explore](https://www.dailymotion.com/gb) [Library](https://www.dailymotion.com/library)
-
-Create an account or sign in for a tailor-made video experience
-
-Sign Up / Sign In
-
-[What to Watch](https://www.dailymotion.com/gb)
-
-Categories
-
-[All Categories](https://www.dailymotion.com/gb/browse)
-
-Who to Follow
-
-*   [Terms of Use](https://www.dailymotion.com/legal)
-*   [Privacy Policy](https://www.dailymotion.com/legal/privacy)
-*   [Cookie Policy](https://www.dailymotion.com/legal/cookiemanagement)
-*   [Corporate Information](https://www.dailymotion.com/legal/infos)
-*   [Prohibited Content Policy](https://www.dailymotion.com/legal/prohibited)
-*   [Content Protection](https://www.dailymotion.com/legal/contentprotection)
-*   [Child protection](https://www.dailymotion.com/legal/childprotection)
-*   [Copyright Notification](https://www.dailymotion.com/legal/copyright)
-*   [Purchase of Merchandise](https://www.dailymotion.com/legal/purchasemerchandise)
-
 DAILYMOTION PRIVACY POLICY
 ==========================
 
@@ -514,12 +488,3 @@ We encourage you to read this Privacy Policy carefully when using the Dailymotio
           
         
         _Last modified on: April 14th, 2020._
-        
-
-[About us](https://www.dailymotion.com/gb/about) [What's new](https://www.dailymotion.com/about/whats-new) [Help Center](https://faq.dailymotion.com/) [Jobs](https://jobs.dailymotion.com/) [API](https://developer.dailymotion.com/) [Partner UP](https://www.dailymotion.com/monetization) [Manage Cookies](https://www.dailymotion.com/legal/consent)
-
-[Privacy & Cookie Policy](https://www.dailymotion.com/legal/privacy) [Terms](https://www.dailymotion.com/legal/terms) [Blog](https://medium.com/dailymotion) [All videos](https://www.dailymotion.com/archived/index.html) [Family Filter: ON](https://www.dailymotion.com/settings)
-
-© 2005 - 2020 dailymotion. Designed with in Paris, France.
-
-![](https://sb.scorecardresearch.com/p?c1=2&c2=4000005&cv=2.0&cj=1)
