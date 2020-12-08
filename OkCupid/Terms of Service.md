@@ -480,7 +480,7 @@ Follow
 
 Special
 
-[Seattle Dating](https://www.okcupid.com/s/seattle-dating)Redeem Promotion[Download Apps](https://www.okcupid.com/mobile)
+[Spiritual Singles](https://www.okcupid.com/s/spiritual-singles)Redeem Promotion[Download Apps](https://www.okcupid.com/mobile)
 
 5888DB70-F8B3-4FB8-B86A-4E6BA3B1D8D4@2.00x
 
