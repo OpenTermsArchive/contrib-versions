@@ -7,10 +7,6 @@ From the Wikimedia Foundation Governance Wiki
 
 [Jump to navigation](#mw-head) [Jump to search](#searchInput)
 
-|     |     |
-| --- | --- |
-| **In other languages** | **[English](https://foundation.wikimedia.org/wiki/Terms_of_Use "Terms of Use")**  · [العربية](https://foundation.wikimedia.org/wiki/Terms_of_Use/ar "Terms of Use/ar") · [asturianu](https://foundation.wikimedia.org/wiki/Terms_of_Use/ast "Terms of Use/ast") · [български](https://foundation.wikimedia.org/wiki/Terms_of_Use/bg "Terms of Use/bg") · [বাংলা](https://foundation.wikimedia.org/wiki/Terms_of_Use/bn "Terms of Use/bn") · [català](https://foundation.wikimedia.org/wiki/Terms_of_Use/ca "Terms of Use/ca") · [čeština](https://foundation.wikimedia.org/wiki/Terms_of_Use/cs "Terms of Use/cs") · [Deutsch](https://foundation.wikimedia.org/wiki/Terms_of_Use/de "Terms of Use/de") · English · [español](https://foundation.wikimedia.org/wiki/Terms_of_Use/es "Terms of Use/es") · [suomi](https://foundation.wikimedia.org/wiki/Terms_of_Use/fi "Terms of Use/fi") · [français](https://foundation.wikimedia.org/wiki/Terms_of_Use/fr "Terms of Use/fr") · [galego](https://foundation.wikimedia.org/wiki/Terms_of_Use/gl "Terms of Use/gl") · [עברית](https://foundation.wikimedia.org/wiki/Terms_of_Use/he "Terms of Use/he") · [Bahasa Indonesia](https://foundation.wikimedia.org/wiki/Terms_of_Use/id "Terms of Use/id") · [italiano](https://foundation.wikimedia.org/wiki/Terms_of_Use/it "Terms of Use/it") · [日本語](https://foundation.wikimedia.org/wiki/Terms_of_Use/ja "Terms of Use/ja") · [한국어](https://foundation.wikimedia.org/wiki/Terms_of_Use/ko "Terms of Use/ko") · [македонски](https://foundation.wikimedia.org/wiki/Terms_of_Use/mk "Terms of Use/mk") · [മലയാളം](https://foundation.wikimedia.org/wiki/Terms_of_Use/ml "Terms of Use/ml") · [Nederlands](https://foundation.wikimedia.org/wiki/Terms_of_Use/nl "Terms of Use/nl") · [polski](https://foundation.wikimedia.org/wiki/Terms_of_Use/pl "Terms of Use/pl") · [português do Brasil](https://foundation.wikimedia.org/wiki/Terms_of_Use/pt-br "Terms of Use/pt-br") · [русский](https://foundation.wikimedia.org/wiki/Terms_of_Use/ru "Terms of Use/ru") · [ไทย](https://foundation.wikimedia.org/wiki/Terms_of_Use/th "Terms of Use/th") · [українська](https://foundation.wikimedia.org/wiki/Terms_of_Use/uk "Terms of Use/uk") · [Tiếng Việt](https://foundation.wikimedia.org/wiki/Terms_of_Use/vi "Terms of Use/vi") |
-
   
 
   
@@ -49,30 +45,6 @@ You are welcome to join as a contributor, editor, or author, but you should foll
 Please be aware that you are legally responsible for all of your contributions, edits, and re-use of Wikimedia content under the laws of the United States of America and other applicable laws (which may include the laws where you live or where you view or edit content). This means it is important that you use caution when posting content. In light of this responsibility, we have some rules about what you cannot post, most of which is either for your own protection or for the protection of other users like yourself. Please keep in mind that the content we host is for general informational purposes only, so if you need expert advice for a particular question (such as medical, legal, or financial issues), you should seek the help of a licensed or qualified professional. We also include other important notices and disclaimers, so please read these Terms of Use in their entirety.
 
 For clarity, other organizations, such as [local Wikimedia chapters](https://foundation.wikimedia.org/wiki/Chapters/en "Chapters/en") and associations, that may share in the same mission are nevertheless legally independent and separate from the Wikimedia Foundation and have no responsibility for the operations of the website or its content.
-
-Contents
---------
-
-*   [1 Our Terms of Use](#Our_Terms_of_Use)
-*   [2 Overview](#Overview)
-*   [3 1\. Our Services](#1._Our_Services)
-*   [4 2\. Privacy Policy](#2._Privacy_Policy)
-*   [5 3\. Content We Host](#3._Content_We_Host)
-*   [6 4\. Refraining from Certain Activities](#4._Refraining_from_Certain_Activities)
-*   [7 5\. Password Security](#5._Password_Security)
-*   [8 6\. Trademarks](#6._Trademarks)
-*   [9 7\. Licensing of Content](#7._Licensing_of_Content)
-*   [10 8\. DMCA Compliance](#8._DMCA_Compliance)
-*   [11 9\. Third-party Websites and Resources](#9._Third-party_Websites_and_Resources)
-*   [12 10\. Management of Websites](#10._Management_of_Websites)
-*   [13 11\. Resolutions and Project Policies](#11._Resolutions_and_Project_Policies)
-*   [14 12\. Termination](#12._Termination)
-*   [15 13\. Disputes and Jurisdiction](#13._Disputes_and_Jurisdiction)
-*   [16 14\. Disclaimers](#14._Disclaimers)
-*   [17 15\. Limitation on Liability](#15._Limitation_on_Liability)
-*   [18 16\. Modifications to these Terms of Use](#16._Modifications_to_these_Terms_of_Use)
-*   [19 17\. Other Terms](#17._Other_Terms)
-*   [20 Thank You!](#Thank_You!)
 
 1\. Our Services
 ----------------
@@ -339,90 +311,3 @@ Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Terms\_of\_U
 Hidden category:
 
 *   [Governance wiki](https://foundation.wikimedia.org/wiki/Category:Governance_wiki "Category:Governance wiki")
-
-Navigation menu
----------------
-
-### Personal tools
-
-*   [English](#)
-*   [Log in](https://foundation.wikimedia.org/w/index.php?title=Special:UserLogin&returnto=Terms+of+Use%2Fen "You are encouraged to log in; however, it is not mandatory [o]")
-
-### Namespaces
-
-*   [Page](https://foundation.wikimedia.org/wiki/Terms_of_Use/en "View the content page [c]")
-*   [Discussion](https://foundation.wikimedia.org/wiki/Talk:Terms_of_Use/en "Discussion about the content page [t]")
-
-### Variants
-
-### Views
-
-*   [Read](https://foundation.wikimedia.org/wiki/Terms_of_Use/en)
-*   [Feedback](https://foundation.wikimedia.org/w/index.php?title=Terms_of_Use/en&action=edit "This page is protected.
-    You can view its source [e]")
-*   [View history](https://foundation.wikimedia.org/w/index.php?title=Terms_of_Use/en&action=history "Past revisions of this page [h]")
-
-### More
-
-### Search
-
-   
-
-### About Wikimedia
-
-*   [Home](https://foundation.wikimedia.org/wiki/Home "Visit the main page [z]")
-*   [Official website](https://wikimediafoundation.org/)
-*   [Contact us](https://wikimediafoundation.org/about/contact/)
-*   [Wikimedia Blog](https://wikimediafoundation.org/news/)
-*   [Questions for Wikimedia?](https://meta.wikimedia.org/wiki/Answers)
-
-### Support
-
-*   [Donate](https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_wikimediafoundation.org "Support us")
-*   [Volunteering](https://wikimediafoundation.org/participate/)
-*   [Wikimedia Shop](https://store.wikimedia.org/)
-
-### Corporate
-
-*   [Bylaws](https://foundation.wikimedia.org/wiki/Bylaws)
-*   [Values](https://foundation.wikimedia.org/wiki/Values)
-*   [Policies](https://foundation.wikimedia.org/wiki/Policies)
-*   [Resolutions](https://foundation.wikimedia.org/wiki/Resolutions)
-*   [Annual Report](https://annual.wikimedia.org/)
-*   [Financial reports and Form 990](https://wikimediafoundation.org/about/financial-reports/)
-*   [Fundraising reports](https://foundation.wikimedia.org/wiki/Fundraising_reports)
-*   [Movement affiliates](https://meta.wikimedia.org/wiki/Wikimedia_movement_affiliates)
-
-### Wiki
-
-*   [Give feedback](https://foundation.wikimedia.org/wiki/Give_feedback)
-*   [Recent changes](https://foundation.wikimedia.org/wiki/Special:RecentChanges "A list of recent changes in the wiki [r]")
-
-### Tools
-
-*   [What links here](https://foundation.wikimedia.org/wiki/Special:WhatLinksHere/Terms_of_Use/en "A list of all wiki pages that link here [j]")
-*   [Related changes](https://foundation.wikimedia.org/wiki/Special:RecentChangesLinked/Terms_of_Use/en "Recent changes in pages linked from this page [k]")
-*   [Special pages](https://foundation.wikimedia.org/wiki/Special:SpecialPages "A list of all special pages [q]")
-*   [Permanent link](https://foundation.wikimedia.org/w/index.php?title=Terms_of_Use/en&oldid=123089 "Permanent link to this revision of the page")
-*   [Page information](https://foundation.wikimedia.org/w/index.php?title=Terms_of_Use/en&action=info "More information about this page")
-*   [Cite this page](https://foundation.wikimedia.org/w/index.php?title=Special:CiteThisPage&page=Terms_of_Use%2Fen&id=123089&wpFormIdentifier=titleform "Information on how to cite this page")
-
-### Print/export
-
-*   [Create a book](https://foundation.wikimedia.org/w/index.php?title=Special:Book&bookcmd=book_creator&referer=Terms+of+Use%2Fen)
-*   [Download as PDF](https://foundation.wikimedia.org/w/index.php?title=Special:DownloadAsPdf&page=Terms_of_Use%2Fen&action=show-download-screen)
-*   [Printable version](https://foundation.wikimedia.org/w/index.php?title=Terms_of_Use/en&printable=yes "Printable version of this page [p]")
-
-*   This page was last edited on 7 June 2019, at 19:07.
-*   Text is available under the [Creative Commons Attribution-ShareAlike License](https://creativecommons.org/licenses/by-sa/3.0/); additional terms may apply. See [Terms of Use](https://foundation.wikimedia.org/wiki/Terms_of_Use) for details.
-
-*   [Privacy policy](https://foundation.wikimedia.org/wiki/Privacy_policy "Privacy policy")
-*   [About Wikimedia Foundation Governance Wiki](https://foundation.wikimedia.org/wiki/Home "Home")
-*   [Disclaimers](https://foundation.wikimedia.org/wiki/Wikimedia:General_disclaimer "Wikimedia:General disclaimer")
-*   [Mobile view](https://foundation.m.wikimedia.org/w/index.php?title=Terms_of_Use/en&mobileaction=toggle_view_mobile)
-*   [Developers](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute)
-*   [Statistics](https://stats.wikimedia.org/#/foundation.wikimedia.org)
-*   [Cookie statement](https://foundation.wikimedia.org/wiki/Cookie_statement)
-
-*   [![Wikimedia Foundation](/static/images/footer/wikimedia-button.png)](https://wikimediafoundation.org/)
-*   [![Powered by MediaWiki](/static/images/footer/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
