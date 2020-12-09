@@ -1,15 +1,3 @@
-Terms of Use Notice / Privacy Policy
-====================================
-
-Terms of Use Notice
-
-*   [Terms of Use Notice](https://www.asus.com/Terms_of_Use_Notice_Privacy_Policy/Official-Site/)
-*   [Privacy Policy](https://www.asus.com/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy/)
-
-[Terms of Use Notice](https://www.asus.com/Terms_of_Use_Notice_Privacy_Policy/Official-Site/)
-
-[Privacy Policy](https://www.asus.com/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy/)
-
 #### Terms Of Use Notice
 
 ALL PRODUCTS AND SERVICES (“SERVICE”) PROVIDED BY ASUSTEK COMPUTER INC. (“ASUS”) ARE SUBJECT TO THIS TERMS OF USE NOTICE (“NOTICE”). SERVICE MEANS, INCLUDING BUT NOT LIMITED TO, ANY PRODUCT, SERVICE, SERVICE EVENT (DEFINED AS BELOW), SOFTWARE, APPLICATION AND INFORMATION PROVIDED UNDER ASUS BRAND OR ANY OTHER BRAND OWNED BY ASUS. YOU EXPRESSLY ACKNOWLEDGE THAT YOU HAVE READ THIS NOTICE AND UNDERSTAND THE RIGHTS, OBLIGATIONS, TERMS AND CONDITIONS SET FORTH HEREIN. IF YOU ARE A MINOR, YOU SHALL REGISTER AS THE MEMBER OR ACCESS THE SERVICES ONLY AFTER YOUR PARENTS (OR YOUR GUARDIAN) READ AND UNDERSTAND THE RIGHTS, OBLIGATIONS, TERMS AND CONDITIONS CONTAINED IN THIS NOTICE. BY CONTINUING TO INSTALL, COPY, SURF, DOWNLOAD, ACCESS, PURCHASE, ENTER AND/OR OTHERWISE USE THE SERVICE, YOU OR YOUR PARENTS (OR GUARDIAN) EXPRESSLY CONSENT TO BE BOUND BY THIS NOTICE, INCLUDING UPDATED VERSION, AND ALL APLICABLE LAWS AND REGULATIONS.
@@ -198,5 +186,3 @@ Email: LegalCompliance@asus.com
 Telephone: (886) 2 2894 3447  
 Fax: (886) 2 2890 7674  
 Updated March 04, 2015 by ASUS Legal Affairs Center
-
-[](https://www.asus.com/LangSelection.aspx?KeepThis=ture&TB_iframe=ture&height=150&width=300&inlineId=displayWarning&white=true "LangSelection")
