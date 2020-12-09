@@ -1,15 +1,3 @@
-Terms of Use Notice / Privacy Policy
-====================================
-
-Privacy Policy
-
-*   [Terms of Use Notice](https://www.asus.com/Terms_of_Use_Notice_Privacy_Policy/Official-Site/)
-*   [Privacy Policy](https://www.asus.com/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy/)
-
-[Terms of Use Notice](https://www.asus.com/Terms_of_Use_Notice_Privacy_Policy/Official-Site/)
-
-[Privacy Policy](https://www.asus.com/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy/)
-
 ### Privacy Policy
 
   
@@ -289,5 +277,3 @@ Attn: Personal Data Protection Committee
 Address: 15, Li-Te Rd., Taipei 112, Taiwan  
 Email: privacy@asus.com  
 Updated May 23, 2018 by ASUS Personal Data Protection Committee
-
-[](https://www.asus.com/LangSelection.aspx?KeepThis=ture&TB_iframe=ture&height=150&width=300&inlineId=displayWarning&white=true "LangSelection")
