@@ -159,7 +159,7 @@ This policy applies to apps which offer loans directly, lead generators, and tho
 
 **Here is an example of common violations:** 
 
-![](//lh3.googleusercontent.com/syQPIkClOVeod7CL5sKC_uxCJdqM6FU9RXtD8Nuo7dKcwyYkU0Bsk3ASkLBaz3sO09mC=h1000)
+![](//lh3.googleusercontent.com/syQPIkClOVeod7CL5sKC_uxCJdqM6FU9RXtD8Nuo7dKcwyYkU0Bsk3ASkLBaz3sO09mC=h500)
 
 Real-Money Gambling, Games, and Contests
 ----------------------------------------
@@ -340,7 +340,7 @@ We don’t allow apps that induce or encourage copyright infringement. Before yo
 *   Streaming apps that allow users to download a local copy of copyrighted content without authorization.
 *   Apps that encourage users to stream and download copyrighted works, including music and video, in violation of applicable copyright law:
 
-![](//lh3.googleusercontent.com/YgbO-iSTmcQD-qHvikK9QAkUtOqmax97-G_fIZ7xh-IyXRqZErz-1SKt1lBEmcyZLQ=w1100-h900)  
+![](//lh3.googleusercontent.com/YgbO-iSTmcQD-qHvikK9QAkUtOqmax97-G_fIZ7xh-IyXRqZErz-1SKt1lBEmcyZLQ=w550-h450)  
   
   
 ① The description in this app listing encourages users to download copyrighted content without authorization.  
@@ -853,7 +853,7 @@ We don’t allow apps or ads that mimic or interfere with system functionality, 
 
 *   Apps or ads that are delivered through a system notification or alert:
     
-    ![](//lh3.googleusercontent.com/IPFAZO6-lhsNkj6rxpegV2KoiAoj4cJDw8eXO0Bs_dUl99bXsmO2ll2a7RfvuKRodMQ=w600-h1088)
+    ![](//lh3.googleusercontent.com/IPFAZO6-lhsNkj6rxpegV2KoiAoj4cJDw8eXO0Bs_dUl99bXsmO2ll2a7RfvuKRodMQ=w300-h544)
     
     ① The system notification shown in this app is being used to serve an ad.
 
@@ -873,10 +873,10 @@ We don’t allow apps that mislead users by impersonating someone else (e.g. ano
 **Here are some examples of common violations:**
 
 *   Developers that falsely imply a relationship to another company / developer:  
-    ![](//lh3.googleusercontent.com/CTXDDQ5617TOtJ7SXt26hSid4qUaq_sXHYsOkRikG_I5irsQ3Qh8Y5vmcu9Nr8wYEg=w600-h1100)  
+    ![](//lh3.googleusercontent.com/CTXDDQ5617TOtJ7SXt26hSid4qUaq_sXHYsOkRikG_I5irsQ3Qh8Y5vmcu9Nr8wYEg=w300-h550)  
     ① The developer name listed for this app suggests an official relationship with Google, even though such a relationship doesn’t exist.
 *   App titles and icons that are so similar to those of existing products or services that users may be misled:  
-    ![](//lh3.googleusercontent.com/xtZuoVyE6Z5rXwzCzZfzsYu3BSpR4rTHtTF1ix0H4FQVN0ZWdnEunBt8zZkD93Z7D045=w1100-h500)
+    ![](//lh3.googleusercontent.com/xtZuoVyE6Z5rXwzCzZfzsYu3BSpR4rTHtTF1ix0H4FQVN0ZWdnEunBt8zZkD93Z7D045=w550-h250)
 
 Monetization and Ads
 ====================
@@ -932,7 +932,7 @@ You, as a developer, must not mislead users about any subscription services or c
 *   In-app promotions that do not clearly demonstrate that a user can access content without a subscription (when available).
 *   SKU names that do not accurately convey the nature of the subscription, such as "Free Trial" for a subscription with an auto-recurring charge.
 
-![](//lh3.googleusercontent.com/boxh9ZDBx1EYF_KGdg_yFIb77aqm5Fj47bHB0prd4aDuKpDKUtwnIQClUc9UMTqPG68=w600-h1100)
+![](//lh3.googleusercontent.com/boxh9ZDBx1EYF_KGdg_yFIb77aqm5Fj47bHB0prd4aDuKpDKUtwnIQClUc9UMTqPG68=w300-h550)
 
  
 
@@ -955,7 +955,7 @@ You, as a developer, must not mislead users about any subscription services or c
 *   Offers that do not clearly demonstrate that a user can access content without a trial (when available).
 *   Offer pricing and terms that are incompletely localized.
 
-![](//lh3.googleusercontent.com/V8zMyVsaZqkJlcnXA6rMHgSxHaxfiDgsCINMsI4lRICZWdqejj400L6NlPsF5oiDwGU=w600-h1100)
+![](//lh3.googleusercontent.com/V8zMyVsaZqkJlcnXA6rMHgSxHaxfiDgsCINMsI4lRICZWdqejj400L6NlPsF5oiDwGU=w300-h550)
 
  
 
@@ -994,13 +994,13 @@ Ads must not simulate or impersonate the user interface of any app, notification
  
 
 *   Ads that mimic an app's UI:  
-    ![](//lh3.googleusercontent.com/A3Y_qBYVWF2svMNxtSirEHSI-fW6gw0pZzASZgGFVthuyzpMH2nCZs9CMEr46Cg3rQ-_=w600-h1100)  
+    ![](//lh3.googleusercontent.com/A3Y_qBYVWF2svMNxtSirEHSI-fW6gw0pZzASZgGFVthuyzpMH2nCZs9CMEr46Cg3rQ-_=w300-h550)  
       
       
     ① The question mark icon in this app is an ad that takes the user to an external landing page.
 *   Ads that mimic a system notification:  
-    ![](//lh3.googleusercontent.com/IDOi6pcuAVMnhg0htYlx_Yz82l6du38KVHwgT78YR8K3xaI96kKm8ODFHYHadMmkVXBd=h1000)
-*   ![](//lh3.googleusercontent.com/Qf2MbevBq_Ht_9TIMk3ETaATYW8JuUqXdNohKuR2qoGTqs5lKrkNvw98Jyv4hO5qwMI=h1000)
+    ![](//lh3.googleusercontent.com/IDOi6pcuAVMnhg0htYlx_Yz82l6du38KVHwgT78YR8K3xaI96kKm8ODFHYHadMmkVXBd=h500)
+*   ![](//lh3.googleusercontent.com/Qf2MbevBq_Ht_9TIMk3ETaATYW8JuUqXdNohKuR2qoGTqs5lKrkNvw98Jyv4hO5qwMI=h500)
 
 The examples above illustrate ads mimicking various system notifications.
 
@@ -1017,15 +1017,15 @@ Your app cannot force a user to click an ad or submit personal information for a
 **Here** **are** **some example****s** **of common violation****s****:** 
 
 *   Ads that take up the entire screen or interfere with normal use and do not provide a clear means to dismiss the ad:  
-    ![](//lh3.googleusercontent.com/E0g8p7q4jqMMfYsn1OUnAi1Uogg5UsGXqStsTRdDPFCe3covkQl5CWOY4H2wcKaG0g=h1000)  
+    ![](//lh3.googleusercontent.com/E0g8p7q4jqMMfYsn1OUnAi1Uogg5UsGXqStsTRdDPFCe3covkQl5CWOY4H2wcKaG0g=h500)  
     ① This ad does not have a dismiss button.
 *   Ads that force the user to click-through by using a false dismiss button, or by making ads suddenly appear in areas of the app whether the user usually taps for another function.
 
-![](//lh3.googleusercontent.com/ic6YPH3yIwN3IgvC0Ktcsq_mZTODpVUEHczJQkMj_r3qAZmuLio0VMdnOGTxe0ApGoI=h1000)
+![](//lh3.googleusercontent.com/ic6YPH3yIwN3IgvC0Ktcsq_mZTODpVUEHczJQkMj_r3qAZmuLio0VMdnOGTxe0ApGoI=h500)
 
 An ad that is using a false dismiss button
 
-![](//lh3.googleusercontent.com/gySz2Qvqg73VcE2hndSSumL0sqWTjVXxl3lrvwUfjr0-M5YExhIoOCyMYrz4aTrLG7M=h1000)
+![](//lh3.googleusercontent.com/gySz2Qvqg73VcE2hndSSumL0sqWTjVXxl3lrvwUfjr0-M5YExhIoOCyMYrz4aTrLG7M=h500)
 
 An ad that suddenly appears in an area where the user is used to tapping for in-app functions
 
@@ -1037,7 +1037,7 @@ Ads associated with your app must not interfere with other apps, ads, or the ope
 
 *   Ads that display outside of the app serving them:
     
-    ![](//lh3.googleusercontent.com/Q7U-YY47vLNBapedtwVXxxGfp1koPtG5wgvtreSfQEQYLbB8Ck9W1a2NsYdqdq4EMyk=w600-h1100)
+    ![](//lh3.googleusercontent.com/Q7U-YY47vLNBapedtwVXxxGfp1koPtG5wgvtreSfQEQYLbB8Ck9W1a2NsYdqdq4EMyk=w300-h550)
     
     Description: The user navigates to the home screen from this app, and suddenly an ad appears on the homescreen.
     
@@ -1046,7 +1046,7 @@ Ads associated with your app must not interfere with other apps, ads, or the ope
 
 *   Ads that are triggered by the home button or other features explicitly designed for exiting the app:
     
-    ![](//lh3.googleusercontent.com/ctWZGB6U13IZMS903bLwZvw97EJ7y2yknCpSj4SsQrz07ujWapGzT6wlYeZSlIS8SWs=w600-h1100)
+    ![](//lh3.googleusercontent.com/ctWZGB6U13IZMS903bLwZvw97EJ7y2yknCpSj4SsQrz07ujWapGzT6wlYeZSlIS8SWs=w300-h550)
     
     Description: The user attempts to exit the app and navigate to the home screen, but instead, the expected flow is interrupted by an ad.
     
@@ -1059,7 +1059,7 @@ The ads shown within your app must be appropriate for the intended audience of y
 
  
 
-![](//lh3.googleusercontent.com/PBa67hgzNg4f1FflV7_Y4KX5Jc41bGZ-sEtXILC02F6kGkMJsqvrYeKbCCrWTIDoe0s=h900)
+![](//lh3.googleusercontent.com/PBa67hgzNg4f1FflV7_Y4KX5Jc41bGZ-sEtXILC02F6kGkMJsqvrYeKbCCrWTIDoe0s=h450)
 
 ① This ad is inappropriate (Teen) for the intended audience of the app (7+)  
 ② This ad is inappropriate (Mature) for the intended audience of the app (12+)
@@ -1133,7 +1133,7 @@ In addition to the requirements noted here, specific Play Developer Policies may
 
  
 
-![](//lh3.googleusercontent.com/6fgXFpVQR9XwinA29cSiqGMhb0BVUerzBF4wHA6k6C2vRN6Exhqjx1Lit3RQlGqBNlq0=w600-h1100)  
+![](//lh3.googleusercontent.com/6fgXFpVQR9XwinA29cSiqGMhb0BVUerzBF4wHA6k6C2vRN6Exhqjx1Lit3RQlGqBNlq0=w300-h550)  
   
 ① Unattributed or Anonymous User testimonials  
 ② Data comparison of apps or brands  
@@ -1163,7 +1163,7 @@ Developers must not attempt to manipulate the placement of any apps in Google Pl
 
 *   Asking users to rate your app while offering an incentive:
     
-    ![](//lh3.googleusercontent.com/YE3Ni1kHIBr9NCMbR8MHb6d25GeqZSExgXpX7Mun7OQKn54asHNxDzkiAskdc4TLItQ=w600-h1100)  
+    ![](//lh3.googleusercontent.com/YE3Ni1kHIBr9NCMbR8MHb6d25GeqZSExgXpX7Mun7OQKn54asHNxDzkiAskdc4TLItQ=w300-h550)  
         ① This notification offers users a discount in exchange for a high rating.
 
  
@@ -1171,7 +1171,7 @@ Developers must not attempt to manipulate the placement of any apps in Google Pl
 *   Repeatedly submitting ratings to influence the app’s placement on Google Play.
 *   Submitting or encouraging users to submit reviews containing inappropriate content, including affiliates, coupons, game codes, email addresses, or links to websites or other apps:
     
-    ![](//lh3.googleusercontent.com/oinE3IemifnHTMi0UhqU9rz1H7Yti08fhcQpmUktbNdkMijfrcMn-SuceK4fOZjAUjM=w600-h1100)
+    ![](//lh3.googleusercontent.com/oinE3IemifnHTMi0UhqU9rz1H7Yti08fhcQpmUktbNdkMijfrcMn-SuceK4fOZjAUjM=w300-h550)
     
         ② This review encourages users to promote the RescueRover app by making a coupon offer.
     
@@ -1246,7 +1246,7 @@ We don’t allow apps whose primary purpose is to drive affiliate traffic to a w
 
 *   An app whose primary purpose is to drive referral traffic to a website to receive credit for user sign-ups or purchases on that website.
 *   Apps whose primary purpose is to provide a webview of a website without permission:  
-    ![](//lh3.googleusercontent.com/AZr3T8GiGN_g2AS76qWQ622zQNReHU4GKoKjbhrZGWNazx15FhZTOEomNI9z2o2pEps=h1100)  
+    ![](//lh3.googleusercontent.com/AZr3T8GiGN_g2AS76qWQ622zQNReHU4GKoKjbhrZGWNazx15FhZTOEomNI9z2o2pEps=h550)  
     This app is called “Ted’s Shopping Deals” and it simply provides a webview of Google Shopping.
 
  
@@ -1260,7 +1260,7 @@ We don't allow apps that merely provide the same experience as other apps alread
 *   Copying content from other apps without adding any original content or value.
 *   Creating multiple apps with highly similar functionality, content, and user experience. If these apps are each small in content volume, developers should consider creating a single app that aggregates all the content.
 
-![](//lh3.googleusercontent.com/6viGjA--lsmMb74UZL8pAO9YY34hHWCDtxkfQAHlK_pbBAmLd9kq8P39lckZh2ayv8LY=w1100)
+![](//lh3.googleusercontent.com/6viGjA--lsmMb74UZL8pAO9YY34hHWCDtxkfQAHlK_pbBAmLd9kq8P39lckZh2ayv8LY=w550)
 
 ### Made for Ads
 
@@ -1487,14 +1487,14 @@ Ads and offers for in-app purchases must not have deceptive content or be design
 *   Ads that move away from a user's finger as the user tries to close it
 *   Ads that take up the majority or the device screen without providing the user a clear way to dismiss it, as depicted in the example below:
     
-    ![](//lh3.googleusercontent.com/x_00itIxYS9KEaMpKssADj_fX0dSUff6o6Nt04ASG4pey542vycDMIyFXX5clJE_fDSb=w1100-h600)
+    ![](//lh3.googleusercontent.com/x_00itIxYS9KEaMpKssADj_fX0dSUff6o6Nt04ASG4pey542vycDMIyFXX5clJE_fDSb=w550-h300)
     
 
-*   Banner ads showing multiple offers, as depicted in the example below: ![](//lh3.googleusercontent.com/FsWSkB1jUDZN6U3q53gxfYNee-Y5D1QeoVH3bdJ-2uuvIf9iZLM0mDV3fMZSdd18yxM=w1100-h600)
+*   Banner ads showing multiple offers, as depicted in the example below: ![](//lh3.googleusercontent.com/FsWSkB1jUDZN6U3q53gxfYNee-Y5D1QeoVH3bdJ-2uuvIf9iZLM0mDV3fMZSdd18yxM=w550-h300)
 
-*   Ads that could be mistaken by a user for app content, as depicted in the example below: ![](//lh3.googleusercontent.com/JZk0x1JU5sP9YnXXMF4LJ8HDOfFJXJr1ssLSRxAD1UjHhvuGRmDBE2VhR3wzwgAJpgE=w1100-h600)
+*   Ads that could be mistaken by a user for app content, as depicted in the example below: ![](//lh3.googleusercontent.com/JZk0x1JU5sP9YnXXMF4LJ8HDOfFJXJr1ssLSRxAD1UjHhvuGRmDBE2VhR3wzwgAJpgE=w550-h300)
 
-*   Buttons or ads that promote your other Google Play store listings but that are indistinguishable from app content, as depicted in the example below: ![](//lh3.googleusercontent.com/RcNH80fh9w-1FFSzywqZ_GiXKlSPxzcua03TA_TdfQUqX42klFu0SmCw47j0Fd7onMex=w1100-h800)
+*   Buttons or ads that promote your other Google Play store listings but that are indistinguishable from app content, as depicted in the example below: ![](//lh3.googleusercontent.com/RcNH80fh9w-1FFSzywqZ_GiXKlSPxzcua03TA_TdfQUqX42klFu0SmCw47j0Fd7onMex=w550-h400)
 
 **Here are some examples of inappropriate ad content that should not be displayed to children.**
 
