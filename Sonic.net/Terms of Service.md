@@ -1,12 +1,6 @@
 Sonic.net Policies
 ==================
 
-![Avatar](https://secure.gravatar.com/avatar/6e770cda2d14949aea8beb0d89efa9a5?default=https%3A%2F%2Fassets.zendesk.com%2Fhc%2Fassets%2Fdefault_avatar.png&r=g)
-
-[CES](https://help.sonic.com/hc/en-us/profiles/15328838488-CES)
-
-Updated December 09, 2020 08:55
-
 [Sonic.net](https://www.sonic.com/), LLC. General Policy
 ========================================================
 
