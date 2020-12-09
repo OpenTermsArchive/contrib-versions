@@ -1,5 +1,3 @@
- [![Ulster University](//cdn.ulster.ac.uk/home/ulster-frontend/img/blank.gif)](https://www.ulster.ac.uk/) 
-
 Cookies & Privacy
 =================
 
@@ -43,19 +41,3 @@ You may see a cookie message when you first visit ulster.ac.uk. We'll store a co
 We use live chat software on our website, this is provided by Click4Assistance, a 3rd party UK based Software Company.
 
 Information regarding how the data is processed and stored can be viewed [here](https://www.click4assistance.co.uk/click4assistance-web-chat-software-cookie-policy).
-
-[Cookies](https://www.ulster.ac.uk/cookies)
-
-[Accessibility](https://www.ulster.ac.uk/accessibility)
-
-[Copyright](https://www.ulster.ac.uk/copyright)
-
-[Freedom of Information](https://www.ulster.ac.uk/about/governance/compliance/freedom-of-information)
-
-[Modern Slavery Statement](https://www.ulster.ac.uk/finance/visitors/supplying/sustainable-procurement#section-458886)
-
-© Copyright 2020 Ulster University - Ulster University is a registered charity (registered with the Charity Commission for Northern Ireland NIC100166).
-
-![THE Awards 2017 Top 150](https://cdn.ulster.ac.uk/home/ulster-frontend/img/blank.gif)
-
-![THE Awards 2016 Most Improved Student Experience](https://cdn.ulster.ac.uk/home/ulster-frontend/img/blank.gif)
