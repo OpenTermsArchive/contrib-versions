@@ -1,20 +1,3 @@
-[Skip to main content](#maincontent)
-
-[![O'Reilly home](https://cdn.oreillystatic.com/images/sitewide-headers/oreilly_logo_mark_red.svg)](https://www.oreilly.com/ "home page") 
-
-*   *   [Sign In](https://learning.oreilly.com/accounts/login-check/)
-    *   [Try Now](https://www.oreilly.com/online-learning/try-now.html)
-*   *   [Teams](https://www.oreilly.com/online-learning/teams.html)
-    *   [Individuals](https://www.oreilly.com/online-learning/individuals.html)
-    *   [Features](https://www.oreilly.com/online-learning/features.html)
-        *   [Certifications](https://www.oreilly.com/online-learning/feature-certification.html)
-        *   [Interactive learning](https://www.oreilly.com/online-learning/intro-interactive-learning.html)
-        *   [Live online sessions](https://www.oreilly.com/online-learning/live-online-sessions.html)
-        *   [Answers](https://www.oreilly.com/online-learning/feature-answers.html)
-    *   [What’s new](https://www.oreilly.com/whats-new.html)
-    *   [O’Reilly for marketers](https://www.oreilly.com/content-marketing-solutions.html)
-    *   
-
 Terms of service
 ================
 
@@ -178,47 +161,3 @@ This TOS constitutes the complete and exclusive agreement between you and us rel
 California law and controlling U.S. federal law govern this TOS, any action related to this TOS, and/or your use of the site. No choice of law rules of any jurisdiction will apply to any dispute under this TOS. You and O'Reilly agree to submit to the personal and exclusive jurisdiction of the courts located within the county of San Francisco, California, U.S.A. You expressly understand and agree that any dispute, claim or controversy between you and O'Reilly arising out of or in connection with this TOS, or your use of the site, must be brought no later than one (1) year from the date the alleged claim occurred or arose.
 
 No failure to exercise promptly any right under this TOS will create a continuing waiver or any expectation of non-enforcement. If any provision of this TOS is held to be invalid by a court of competent jurisdiction, you agree that such provision will be replaced with a new provision that accomplishes the original purpose, and the other provisions of this TOS will remain in full force and effect.
-
-[About O’Reilly](https://www.oreilly.com/about/)
-------------------------------------------------
-
-*   [Teach/write/train](https://www.oreilly.com/work-with-us.html)
-*   [Careers](https://www.oreilly.com/careers/)
-*   [Community partners](https://www.oreilly.com/partner/signup.csp)
-*   [Affiliate program](https://www.oreilly.com/affiliates/)
-*   [Submit an RFP](https://www.oreilly.com/online-learning/rfp.html)
-*   [Diversity](https://www.oreilly.com/diversity/)
-
-[Support](https://www.oreilly.com/online-learning/support/)
------------------------------------------------------------
-
-*   [Contact us](https://www.oreilly.com/about/contact.html)
-*   [Newsletters](https://www.oreilly.com/emails/newsletters/)
-*   [Privacy policy](https://www.oreilly.com/privacy.html)
-
-[](https://twitter.com/oreillymedia)[facebook-logo](https://www.facebook.com/OReilly/) [linkedin-logo](https://www.linkedin.com/company/oreilly-media) [youtube-logo](https://www.youtube.com/user/OreillyMedia)
-
-Download the O’Reilly App
--------------------------
-
-Take O’Reilly online learning with you and learn anywhere, anytime on your phone and tablet.
-
-[![Apple app store](https://cdn.oreillystatic.com/oreilly/images/app-store-logo.png)](https://itunes.apple.com/us/app/safari-to-go/id881697395) [![Google play store](https://cdn.oreillystatic.com/oreilly/images/google-play-logo.png)](https://play.google.com/store/apps/details?id=com.safariflow.queue)
-
-Watch on your big screen
-------------------------
-
-View all O’Reilly videos, Superstream events, and Meet the Expert sessions on your home TV.
-
-[![Roku Payers and TVs](https://cdn.oreillystatic.com/oreilly/images/roku-tv-logo.png)](https://channelstore.roku.com/details/c8a2d0096693eb9455f6ac165003ee06/oreilly) [![Amazon appstore](https://cdn.oreillystatic.com/oreilly/images/amazon-appstore-logo.png)](https://www.amazon.com/OReilly-Media-Inc/dp/B087YYHL5C/ref=sr_1_2?dchild=1&keywords=oreilly&qid=1604964116&s=mobile-apps&sr=1-2)
-
-Do not sell my personal information
------------------------------------
-
-Exercise your consumer rights by contacting us at [donotsell@oreilly.com](mailto:donotsell@oreilly.com?subject=Do%20Not%20Sell%20My%20Personal%20Information%20Request).
-
- [![O'Reilly home](https://cdn.oreillystatic.com/images/sitewide-headers/oreilly_logo_mark_red.svg)](https://www.oreilly.com/ "home page") 
-
-© 2020, O’Reilly Media, Inc. All trademarks and registered trademarks appearing on oreilly.com are the property of their respective owners.
-
-[Terms of service](https://www.oreilly.com/terms/) • [Privacy policy](https://www.oreilly.com/privacy.html) • [Editorial independence](https://www.oreilly.com/about/editorial_independence.html) • [Modern Slavery Act Statement](https://www.oreilly.com/2020-modern-slavery-act-transparency-statement.html)
