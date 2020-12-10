@@ -1,33 +1,7 @@
-![](//b.scorecardresearch.com/p?c1=2&c2=6885615&c3=&c4=&c5=&c6=&c15=&cj=1)    
-
-![](//secure-us.imrworldwide.com/cgi-bin/m?ci=us-806031h&cg=0&cc=1&ts=noscript)
-
-                                 
-
-[![Ziff Davis](https://www.ziffdavis.com/wp-content/uploads/2016/05/ZD_Main_R.png)](https://www.ziffdavis.com/#)
-
-*   [Brands](https://www.ziffdavis.com/#our-brands)
-*   [Audience](https://www.ziffdavis.com/#the-audience)
-*   [Worldwide](https://www.ziffdavis.com/#worldwide)
-*   [Press](https://www.ziffdavis.com/#newsfeed)
-*   [Leadership](https://www.ziffdavis.com/#leadership)
-*   [Careers](https://www.ziffdavis.com/#careers-quotes)
-*   [Contact](https://www.ziffdavis.com/#contact-us)
-
 ZIFF DAVIS, LLC PRIVACY POLICY
 ==============================
 
   
-
-[![TRUSTe](//privacy-policy.truste.com/privacy-seal/seal?rid=01b0263e-277d-4e52-9ddd-86550128ec1a)
-
-![TRUSTe](//privacy-policy.truste.com/privacy-seal/seal?rid=01b0263e-277d-4e52-9ddd-86550128ec1a)
-
-](https://privacy.truste.com/privacy-seal/validation?rid=01b0263e-277d-4e52-9ddd-86550128ec1a)[![TRUSTe](//privacy-policy.truste.com/privacy-seal/seal?rid=ce211316-dfd0-4abb-8bfb-9cb70de1e37c)
-
-![TRUSTe](//privacy-policy.truste.com/privacy-seal/seal?rid=ce211316-dfd0-4abb-8bfb-9cb70de1e37c)
-
-](https://privacy.truste.com/privacy-seal/validation?rid=ce211316-dfd0-4abb-8bfb-9cb70de1e37c)
 
 Effective April 14, 2020
 
@@ -511,21 +485,3 @@ We may change this Privacy Policy from time to time, and all changes will be eff
 To review Ookla, LLC’s privacy policy and practices, please visit the [Ookla Privacy Policy](https://www.ookla.com/privacy). The [Ookla Terms](https://www.ookla.com/terms) of Use govern your use of websites and services of Ookla (including Speedtest and Speedtest Custom). To review Humble Bundle, Inc.’s privacy policy and practices, please visit the [Humble Bundle Privacy Policy](https://www.humblebundle.com/privacy). The [Humble Bundle Terms of Use](https://www.humblebundle.com/terms) govern your use of the websites and services of Humble Bundle. To review Everyday Health, Inc.’s privacy policy and practices, please visit the [Everyday Health Terms of Use](https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy%3EEveryday%20Health%20Privacy%20Policy%3C/a%3E.%20%20The%20%3Ca%20href=) govern your use of the websites and services of Everyday Health.
 
 Comments are closed.
-
- [![Ziff Davis](https://www.ziffdavis.com/wp-content/uploads/2016/05/ZD_Main_R.png)](https://www.ziffdavis.com/) 
-
-[Facebook](https://www.facebook.com/ziffdavisllc/ "Facebook")
-
-[Linkedin](https://www.linkedin.com/company/4469 "Linkedin")
-
-[Twitter](https://twitter.com/ziffdavis "Twitter")
-
-We strongly encourage you to read our updated [PRIVACY POLICY](#) and [COOKIE POLICY](#).
-
-[×](#)
-
-![](//zdbb.net/l/z0WVjCBSEeGLoxIxOQVEwQ/)
-
-Use of the site is governed by our [Terms of Use](https://www.ziffdavis.com/terms-of-use) and [Privacy Policy](https://www.ziffdavis.com/privacy-policy). Copyright 1996-2019 Ziff Davis. All Rights Reserved. Reproduction in whole or in part in any form or medium without express written permission of Ziff Davis, LLC. is prohibited.
-
-[Back to Top](#)
