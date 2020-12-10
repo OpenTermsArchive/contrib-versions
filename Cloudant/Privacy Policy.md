@@ -1,13 +1,13 @@
 IBM Privacy Statement
 ---------------------
 
-**This Privacy Statement is effective as of 21 September 2020.**
+**This Privacy Statement is effective as of 01 December 2020.**
 
-The previous version of this Statement is available [here (PDF, 173 KB)](https://www.ibm.com/privacy/portal/pdf/PDFDocumentsDec2019PrivacyStatement/IBM-Privacy-Statement-Belgium_Luxembourg-EN.pdf).
+The previous version of this Statement is available [here](https://www.ibm.com/privacy/portal/previous-versions-of-IBM-privacy-statements).
 
 At IBM we recognize the importance of protecting your personal information and are committed to processing it responsibly and in compliance with applicable data protection laws in all countries in which IBM operates.
 
-This Privacy Statement describes IBM's general privacy practices that apply to personal information we collect, use and share about our clients, business partners, supplier and other organizations with which IBM has or contemplates a business relationship as well as the individuals working for them.
+This Privacy Statement describes IBM's general privacy practices that apply to personal information we collect, use and share about our clients, business partners, supplier and other organizations with which IBM has or contemplates a business relationship as well as the individuals working for them. This Privacy Statement does not apply to the extent IBM processes personal information on behalf of clients for their benefit and under their control (as a “processor”), such as Cloud Services or applications (“apps”). It may apply to collection of information related to authorized users of such services to the extent IBM processes this information for its own interests (as “controller”).
 
 This Privacy Statement is supplemented by the [IBM Online Privacy Statement](https://www.ibm.com/be-en/privacy/details), which provides more information in the online context, including recruitment. We may provide additional or more specific information on the collection or use of personal information on websites or related to a specific product or service.
 
@@ -15,8 +15,8 @@ This Privacy Statement is supplemented by the [IBM Online Privacy Statement](htt
 
 We may collect your personal information as an individual for various purposes, such as the following:
 
-*   **Access and use of websites or other online service**  
-    When entering one of our websites, or using an online service, we will record information necessary to provide you with access, for the operation of the website and for us to comply with security and legal requirements in relation to operating our site, such as passwords, IP address and browser settings. We also collect information about your activities during your visit in order to personalize your website experience, such as recording your preferences and settings, and to collect statistics to help us improve and further develop our websites, products and services.
+*   **Access and use of websites or other online service** **(including “apps”)**  
+    When entering one of our websites, or using an online service (where references to online services include desktop or mobile applications or “apps”), we will record information necessary to provide you with access, for the operation of the website and for us to comply with security and legal requirements in relation to operating our site, such as passwords, IP address and browser settings. We also collect information about your activities during your visit in order to personalize your website experience, such as recording your preferences and settings, and to collect statistics to help us improve and further develop our websites, products and services.
 *   **Responding to your request for information, order, or support**  
     When you contact us (online or offline) in connection with a request for information, to order a product or service, to provide you with support, or to participate in a forum or other social computing tool, we collect information necessary to fulfill your request, to grant you access to the product or service, to provide you with support and to be able to contact you. For instance, we collect your name and contact information, details about your request and your agreement with us and the fulfillment, delivery and invoicing of your order and we may include client satisfaction survey information. We retain such information for administrative purposes, defending our rights, and in connection with our relationship with you.  
       
@@ -29,7 +29,7 @@ We may collect your personal information as an individual for various purposes, 
 *   **Visitor information**  
     We register individuals visiting our sites and locations (name, identification and business contact information) and use camera supervision for reasons of security and safety of persons and belongings, as well as for regulatory purposes.
 *   **Marketing**  
-    Most information we collect about you comes from our direct interactions with you. When you register for an event we may collect information (online or offline) in relation to the event organization, and during an event, such as participation in sessions and survey results. We combine the personal information we collect to develop aggregate analysis and business intelligence for conducting our business and for marketing purposes. You can choose to receive information by email, telephone or postal mail about our products and services. When visiting our websites or using our services we may provide you with personalized information. You can always opt out from receiving personalized communication from IBM by submitting [an opt out request form](https://www.ibm.com/account/reg/signup?formid=urx-42537). For subscriptions, please follow the unsubscribe instructions provided at the bottom of each email. More information can be found in the [IBM Online Privacy Statement](https://www.ibm.com/be-en/privacy/details).
+    Most information we collect about you comes from our direct interactions with you. When you register for an event we may collect information (online or offline) in relation to the event organization, and during an event, such as participation in sessions and survey results. We combine the personal information we collect to develop aggregate analysis and business intelligence for conducting our business and for marketing purposes. You can choose to receive information by email, telephone or postal mail about our products and services. When visiting our websites or using our services we may provide you with personalized information. You can always opt out from receiving personalized communication from IBM by setting your marketing communication preferences [here](https://myibm.ibm.com/profile/dataprivacypreferences/welcome/be-en). For subscriptions, please follow the unsubscribe instructions provided at the bottom of each email. More information can be found in the [IBM Online Privacy Statement](https://www.ibm.com/be-en/privacy/details).
 
 Where we reference that we use your personal information in connection with a request, order, transaction or agreement (or preparing for the same), or to provide you with services that you requested (such as a website), we do this because it is necessary for the performance of an agreement with you.
 
@@ -53,8 +53,8 @@ The international footprint of IBM involves a large number of transfers of perso
 
 *   Where required, IBM implements Standard Contractual Clauses approved by the EU Commission, or similar contractual clauses in other jurisdictions. This includes transfers to suppliers or other third parties. You can request a copy of the EU Standard Contractual Clauses [here](https://www.ibm.com/privacy/portal/contact/be-en).
 *   IBM complies with the [APEC Cross Border Privacy Rules](http://www.cbprs.org/) (CBPR) system.
-*   IBM certified to the Swiss-U.S. Privacy Shield Framework.   
-    While the EU-U.S. Privacy Shield Framework may no longer be used or relied upon for transfer of personal information, IBM continues to comply with all EU-U.S. Privacy Shield Framework obligations. More information can be found here: [IBM Privacy Shield Privacy Policy](https://www.ibm.com/privacy/privacy-shield "IBM-Privacy-Shield-Privacy-Policy-for-Certified-IBM-Cloud-Services") and[US Department of Commerce](https://www.privacyshield.gov/welcome).
+
+While the EU-U.S. and Swiss-U.S. Privacy Shield Framework may no longer be used or relied upon for transfer of personal information, IBM continues to comply with all EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework obligations. More information can be found here: [IBM Privacy Shield Privacy Policy](https://www.ibm.com/privacy/privacy-shield "IBM-Privacy-Shield-Privacy-Policy-for-Certified-IBM-Cloud-Services") and[US Department of Commerce](https://www.privacyshield.gov/welcome).
 
 **Information Security and Accuracy**  
   
@@ -68,9 +68,9 @@ Because the circumstances may vary depending on the context and the services, th
 
 **How to contact us**  
   
-If you have a question related to this Privacy Statement, please contact us by using [this form](https://www.ibm.com/privacy/portal/contact/be-en). Your message will be forwarded to the appropriate member of IBM's Data Privacy Team, such as Data Protection Officers or members of their teams.
+If you have a question related to this Privacy Statement, please contact us by using this [form](https://www.ibm.com/privacy/portal/contact/be-en). Your message will be forwarded to the appropriate member of IBM's Data Privacy Team, such as Data Protection Officers or members of their teams.
 
-Where this is relevant, the controller of your personal information is International Business Machines Corporation (IBM Corp.), 1 North Castle Drive Armonk, New York, United States, unless indicated otherwise. Where IBM Corp. or a subsidiary it controls (not established in the European Economic Area (EEA)) is required to appoint a legal representative in the EEA, the representative for all such cases is IBM International Group B.V., Johan Huizingalaan 765, 1066 VH Amsterdam, The Netherlands.
+Where this is relevant, the controller of your personal information is International Business Machines Corporation (IBM Corp.), 1 North Castle Drive Armonk, New York, United States, unless indicated otherwise. Where IBM Corp. or a subsidiary it controls is required under data protection law to appoint a legal representative in the EEA or the UK, the representative for the EEA will be IBM International Group B.V., Johan Huizingalaan 765, 1066 VH Amsterdam, The Netherlands; and the representative for the UK will be IBM United Kingdom Limited, PO Box 41, North Harbour, Portsmouth, Hampshire, PO6 3AU, United Kingdom.
 
 IBM Corp. is not the controller in situations such as:
 
@@ -80,7 +80,7 @@ IBM Corp. is not the controller in situations such as:
 Your Rights
 -----------
 
-You can request to access, update, delete or correct your personal information. You also have the right to object to direct marketing. You can access the request process [here](https://www.ibm.com/privacy/portal/contact/be-en).
+You can request to access, update, or correct, and in certain circumstances, to delete your personal information. You also have the right to object to direct marketing. You can access the request process [here](https://www.ibm.com/privacy/portal/contact/be-en).
 
 You may have additional rights pursuant to your local law applicable to the processing. More information can be found [here](https://www.ibm.com/privacy/additional-data-subjects-rights "country-and-regional-overview").
 
