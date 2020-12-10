@@ -23,7 +23,7 @@ The following describes the information we collect and how we obtain it.
 
 **A) Information Collected Through Times Services.**
 
-1.  **Information That You Voluntarily Give Us**
+1.  **Information You Voluntarily Give Us**
     *   **For Registration:**
         
         When you sign up for a Times Service (e.g., a subscription), we collect your contact information and account credentials. Once you’re registered, we assign you a unique ID number. This ID number helps us recognize you when you’re signed in.
@@ -58,7 +58,7 @@ The following describes the information we collect and how we obtain it.
         
     *   **Personal Contacts Data:**
         
-        We never scan your device for your contacts or upload this data.
+        We never scan your device for your contacts or upload that data.
         
         With your consent, we do comply with your requests to collect data about your friends, family or acquaintances (e.g., Refer a Friend campaigns). This functionality is only meant for U.S. residents. By using it, you acknowledge and agree that both you and your contacts are based in the United States — and that you have everyone’s consent for us to use their contact information.
         
@@ -167,15 +167,13 @@ The above activities can involve outside companies, agents or contractors (“se
 
 You can take part in our sweepstakes, contests and other promotions. Some might have additional rules about how we use and disclose your personal information.
 
-**G) We Allow for Personalized Advertising on Times Services and Create Audiences for Third Party Advertisers.**
+**G) We Allow for Personalized Advertising on Times Services and Create Audiences for Third-Party Advertisers.**
 
-We gather data and work with [third parties](https://www.nytimes.com/privacy/third-party) to show you personalized ads on behalf of advertisers. This data comes from ad tracking technologies set by us or the third party (e.g., cookies), the information you provide (e.g., your email address), your use of Times Services (e.g., your reading history), information from advertisers or advertising vendors (e.g., demographic data) and anything inferred from any of this information. We only use or share this information in a manner that does not reveal your identity.
-
-For example, we use Google to serve ads on Times Services. Google uses cookies or unique device identifiers, in combination with their own data, to show you ads based on you visiting nytimes.com and other sites. You can opt out of the use of the Google cookie by visiting the [related Google privacy policy](https://policies.google.com/technologies/ads?hl=en).
+We gather data and work with [third parties](https://www.nytimes.com/privacy/third-party) to show you personalized ads on behalf of advertisers. This data comes from ad tracking technologies set by us or the third party (e.g., cookies), the information you provide (e.g., your email address), your use of Times Services (e.g., your reading history), information from advertisers or advertising vendors (e.g., demographic data) and anything inferred from any of this information. We only use or share this information in a manner that does not reveal your identity. For example, we use Google to serve ads on Times Services. Google uses cookies or unique device identifiers, in combination with their own data, to show you ads based on you visiting nytimes.com and other sites. You can opt out of the use of the Google cookie by visiting the [related Google privacy policy](https://policies.google.com/technologies/ads?hl=en).
 
 We also identify groups of users to whom to serve personalized ads on behalf of our advertisers. To do this, we combine information we collect through surveys with information we collect automatically using tracking technologies while you browse our sites and apps. This combined information is used to build models. These data models are then used to measure users’ attributes, like their demographic information or their interests. Working with service providers, we use these measurements to group users by common attributes. Each group is associated with a random ID which is then passed to our ad server for use in targeting ad campaigns on our site and apps.
 
-Another example is our link vendors, which we use in our guides and product recommendations. Times Services include links that will send you to vendor URLs and other services not operated or controlled by us. These vendors use cookies and other technologies to collect information about your navigation from the Times Services to the merchant you are visiting. If you buy a product after following a link to a link vendor’s URL, we may earn a commission.
+Another example is our affiliate link vendors, which we use in our guides and product recommendations. Times Services include links that will send you to vendor URLs and other services not operated or controlled by us. These vendors use cookies and other technologies to collect information about your navigation from the Times Services to the merchant you are visiting. If you buy a product after following a link to a link vendor’s URL, we may earn a commission.
 
 **Additional notes:**
 
@@ -356,7 +354,7 @@ It depends. We store your personal information for as long as needed, or permitt
 
 When deciding how long to keep your information, we consider:
 
-*   How long we’ve had a relationship with you or provided a Times Service to you
+*   How long we have had a relationship with you or provided a Times Service to you
 *   Whether we are subject to any legal obligations (e.g., any laws that require us to keep transaction records for a certain period of time before we can delete them)
 *   Whether we have taken any legal positions (e.g., in connection with any statutes of limitation).
 
