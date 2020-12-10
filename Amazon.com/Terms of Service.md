@@ -55,7 +55,7 @@ If you do post content or submit material, and unless we indicate otherwise, you
 INTELLECTUAL PROPERTY COMPLAINTS
 --------------------------------
 
-Amazon respects the intellectual property of others. If you believe that your intellectual property rights are being infringed, please follow our [Notice and Procedure for Making Claims of Copyright Infringement](https://www.amazon.com/gp/help/customer/display.html?nodeId=GLSBYFE9MGKKQXXM).
+Amazon respects the intellectual property of others. If you believe that your intellectual property rights are being infringed, please follow our [Notice and Procedure for Making Claims of Copyright Infringement](https://www.amazon.com/report/infringement).
 
 RISK OF LOSS
 ------------
@@ -84,7 +84,7 @@ We generally do not charge your credit card until after your order has entered t
 APP PERMISSIONS
 ---------------
 
-When you use apps created by Amazon, such as the Amazon App or Kindle App, you may grant certain permissions to us for your device. Most mobile devices provide you with information about these permissions. To learn more about these permissions, [click here](https://www.amazon.com/gp/help/customer/display.html/?nodeId=201818880) .
+When you use apps created by Amazon, such as the Amazon App or Kindle App, you may grant certain permissions to us for your device. Most mobile devices provide you with information about these permissions.
 
 SANCTIONS AND EXPORT POLICY
 ---------------------------
