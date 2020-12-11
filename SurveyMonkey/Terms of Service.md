@@ -3,7 +3,7 @@ Terms of Use
 
 These terms apply to services purchased on SurveyMonkey’s websites. For terms applicable to services offered through SurveyMonkey’s enterprise sales team, please see our [Governing Services Agreement](https://www.surveymonkey.com/mp/legal/msa/).
 
-![Lightbulb icon](https://cdn.smassets.net/assets/cms/cc/app/2.102.0/images/legal-highlight-icon.png)
+![Lightbulb icon](https://cdn.smassets.net/assets/cms/cc/app/2.103.0/images/legal-highlight-icon.png)
 
 These Terms of Use are effective upon sign up for new users and beginning January 1, 2021 for existing users.
 
