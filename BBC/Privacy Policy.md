@@ -168,6 +168,10 @@ Keep in mind, even if you unsubscribe, [we may still contact you.](https://www.b
 
 If you have a [BBC account](https://www.bbc.co.uk/usingthebbc/account/what-is-a-bbc-account/) we might use information that we hold about you to show you relevant and [targeted advertising](https://www.bbc.co.uk/usingthebbc/privacy/do-you-share-my-data/) for BBC services through other companies’ sites, like Facebook, Google, Snapchat or Twitter for example. This could be showing you a [BBC sponsored message](https://www.bbc.co.uk/usingthebbc/privacy/sharing-information-with-social-media-sites/) where we know you have a BBC account and have used BBC services.
 
+Where we do this, we will share your data in a hashed format with these providers so that, where you have an account on the same platform, you will see adverts from the BBC. In these scenarios, we are joint controllers with these companies because we jointly determine the purposes and means of processing your personal data.
+
+We also assess certain characteristics of our audience members in order to find others who are similar to them to provide advertising to those individuals. 
+
 If you don’t want to see our targeted advertising, you can set ad preferences in your social media companies’ settings. Also, you can visit your BBC account and [turn this off](https://www.bbc.co.uk/usingthebbc/privacy/sharing-information-with-social-media-sites/).
 
 [Back to top](#top "Back to top")
