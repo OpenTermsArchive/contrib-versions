@@ -298,4 +298,4 @@ This Agreement, and your relationship with YouTube under this Agreement, will be
 
 If mandatory local law prohibits a dispute under this Agreement from being resolved by the courts of England and Wales, disputes can be brought in your local courts. If mandatory local law prohibits a local court from applying English law to a dispute under this Agreement, that dispute will be resolved according to the laws of your country of residence.
 
-#### Effective as of December 10, 2019 ([view previous version](https://www.youtube.com/t/terms?archive=20180525))
+#### December 10, 2019 tarihinden itibaren geçerli ([önceki sürümü görüntüle](https://www.youtube.com/t/terms?archive=20180525))
