@@ -155,7 +155,7 @@ In order to comply with our legal obligations and as necessary to perform tasks 
 
 In accordance with our legitimate interests to provide an effective and dynamic Platform, we may use your information to:
 
-*   ensure your safety and security, including reviewing User Content, messages and associated metadata for breaches of our [Community Guidelines](https://www.tiktok.com/community-guidelines?lang=en) and our [Terms of Service](https://www.tiktok.com/legal/terms-of-use?lang=en#terms-eea);
+*   ensure your safety and security, including reviewing User Content, messages and associated metadata for breaches of our [Community Guidelines](https://www.tiktok.com/community-guidelines?lang=en) and our [Terms of Service](https://www.tiktok.com/legal/terms-of-use?lang=en#terms-eea);
 
 *   ensure content is presented in the most effective manner for you and your device;
 
@@ -221,7 +221,7 @@ We share your data with the following selected third parties:
 *   We may share your information with law enforcement agencies, public authorities or other third parties if we consider that we are legally required to do so or if such use is reasonably necessary to:
 *   comply with a legal process or request;
 
-*   enforce our [Terms of Service](https://www.tiktok.com/legal/terms-of-use?lang=en#terms-eea) and other agreements, policies, and standards, including investigation of any potential violation;
+*   enforce our [Terms of Service](https://www.tiktok.com/legal/terms-of-use?lang=en#terms-eea) and other agreements, policies, and standards, including investigation of any potential violation;
 
 *   detect, prevent or otherwise address abuse, fraud, illegal activity or security or technical issues; or
 
