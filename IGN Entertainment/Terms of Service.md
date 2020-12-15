@@ -1,19 +1,3 @@
-![](//b.scorecardresearch.com/p?c1=2&c2=6885615&c3=&c4=&c5=&c6=&c15=&cj=1)    
-
-![](//secure-us.imrworldwide.com/cgi-bin/m?ci=us-806031h&cg=0&cc=1&ts=noscript)
-
-                                 
-
-[![Ziff Davis](https://www.ziffdavis.com/wp-content/uploads/2016/05/ZD_Main_R.png)](https://www.ziffdavis.com/#)
-
-*   [Brands](https://www.ziffdavis.com/#our-brands)
-*   [Audience](https://www.ziffdavis.com/#the-audience)
-*   [Worldwide](https://www.ziffdavis.com/#worldwide)
-*   [Press](https://www.ziffdavis.com/#newsfeed)
-*   [Leadership](https://www.ziffdavis.com/#leadership)
-*   [Careers](https://www.ziffdavis.com/#careers-quotes)
-*   [Contact](https://www.ziffdavis.com/#contact-us)
-
 Terms of Use
 ============
 
@@ -333,21 +317,3 @@ The Ziff Davis Privacy Policy will be made available on the property from which 
 **QUESTIONS?** _Please contact [ZDLegal1@ziffdavis.com](mailto:zdlegal1@ziffdavis.com) and insert **“Terms of Use”** in the subject line if you have any questions or comments about the Agreement, or to report user conduct violating the Agreement._
 
 Comments are closed.
-
- [![Ziff Davis](https://www.ziffdavis.com/wp-content/uploads/2016/05/ZD_Main_R.png)](https://www.ziffdavis.com/) 
-
-[Facebook](https://www.facebook.com/ziffdavisllc/ "Facebook")
-
-[Linkedin](https://www.linkedin.com/company/4469 "Linkedin")
-
-[Twitter](https://twitter.com/ziffdavis "Twitter")
-
-We strongly encourage you to read our updated [PRIVACY POLICY](#) and [COOKIE POLICY](#).
-
-[×](#)
-
-![](//zdbb.net/l/z0WVjCBSEeGLoxIxOQVEwQ/)
-
-Use of the site is governed by our [Terms of Use](https://www.ziffdavis.com/terms-of-use) and [Privacy Policy](https://www.ziffdavis.com/privacy-policy). Copyright 1996-2019 Ziff Davis. All Rights Reserved. Reproduction in whole or in part in any form or medium without express written permission of Ziff Davis, LLC. is prohibited.
-
-[Back to Top](#)
