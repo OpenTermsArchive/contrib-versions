@@ -1,11 +1,3 @@
-Asset 5arrow-downarrow-leftarrow-rightarrow-uparticleAsset 31Asset 2Asset 7Asset 6Asset 7Asset 15Asset 16cartAsset 51cart-filledAsset 52checkAsset 50Asset 3chevron-upchevron-leftchevron-rightchevron-upclosecomment-newcomment-filledAsset 11double-caret-downdouble-chevron-downAsset 55double-chevron-upAsset 56email-newemail-filledAsset 14Asset 2fullscreen-closefullscreen-opengallerygallery-filledAsset 15GlobegridAsset 17grid-filledAsset 18headphones-newheadphones-filledAsset 19heart-filledheart-openinteractiveAsset 73linkAsset 48loadingAsset 45Artboard 1minusmutedAsset 29muted-filledAsset 30ng-borderAsset 8pauseAsset 40pause-filledAsset 39Asset 12Asset 13playAsset 33play-filledAsset 32plusNG\_AD\_Iconography\_111317\_JY\_v2Asset 3replayAsset 11Asset 10Asset 4SearchIconshareAsset 34facebookgithubArtboard 1Artboard 1linkedinlinkedin\_inpinterestpinterest\_psnapchatsnapchat\_2twitterwhatsappspeakerAsset 27speaker-filledAsset 28star-filledstar-opentextAsset 43text-filledAsset 42tiltAsset 58Asset 8Asset 9Asset 4userAsset 53user-filledvideo-cameraAsset 35video-camera-filledAsset 36volumeAsset 25volume-filledAsset 26
-
-![](/etc.clientlibs/ui/clientlibs/resources/platform/v2/images/logos/ng-black-logo.ngsversion.5FC84E04.png) [https://www.nationalgeographic.com/legal/terms.html](https://www.nationalgeographic.com/legal/terms.html)
-
-© 1996-2015 National Geographic Society, © 2015- 2020 National Geographic Partners, LLC. All rights reserved
-
-* * *
-
 Terms of Use
 ============
 
