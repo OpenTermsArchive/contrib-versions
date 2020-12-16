@@ -184,4 +184,4 @@ If we make any material changes in the way we collect, use, and/or share informa
 **5\. Contact us**
 ------------------
 
-If you have any questions or comments about this policy, or privacy matters generally, please contact us via email [privacy@tiktok.com](mailto:privacy@tiktok.com).
+If you have any questions or comments about this policy, or privacy matters generally, please contact us at: [https://www.tiktok.com/legal/report/privacy](https://www.tiktok.com/legal/report/privacy).
