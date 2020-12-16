@@ -1,7 +1,7 @@
 **Vimeo Terms of Service**
 ==========================
 
-Last Updated: October 9, 2020
+Last Updated: December 15, 2020
 
 This **Vimeo Terms of Service Agreement** (the “**Agreement**” or “**Terms of Service**”) is made between Vimeo, Inc. (“**Vimeo**,” “**we**,” “**us**,” or “**our**”) and you, our customer (“**you**” or “**your**”). This Agreement governs your use of Vimeo owned-and-operated websites, applications, and embeddable video players (collectively, the “**Services**”). This includes our Vimeo, Vimeo OTT, and Livestream services. Your use of our Magisto, Chant, and Videofy services is governed exclusively by the [Vimeo Creator Tools Terms of Service Agreement](https://www.magisto.com/tos).
 
@@ -56,7 +56,7 @@ We may restrict bandwidth or charge extra for the following uses of our player o
 
 **Transactions:** We may offer digital goods for sale. Purchases of Vimeo On Demand videos are governed by our [Vimeo On Demand Viewer Agreement](https://vimeo.com/vodvieweragreement). Purchases of Vimeo Stock footage and licenses are governed by our [Vimeo Stock License Agreement](https://vimeo.com/stock/standardlicense).
 
-**Monetization:** We may allow you to sell digital goods or earn money through advertising. Your sales of videos are governed by our [Seller Addendum](https://vimeo.com/selleraddendum).
+**Monetization:** We may allow you to sell digital goods or earn money through advertising. Your sales of videos are governed by our [Seller Addendum](https://vimeo.com/selleraddendum). If you are a business established in the European Union and use our “**Vimeo OTT**” platform to offer content to consumers located in the European Union, our [EU OTT Seller Addendum](https://vimeo.com/terms/p2b-addendum) applies.
 
 **Downloadable Software:** We may offer applications for devices (“**Apps**”) directly or through third-party stores. Subject to your compliance with these Terms of Service, Vimeo grants you a limited, non-exclusive, non-transferable, revocable license to download and use the Apps. We may update Apps from time to time to add new features and/or correct bugs. You shall ensure that you are using the most recent version of the App that is compatible with your device. We cannot guarantee that you will be able to use the most recent version of the App on your device. Apps offered through third-party stores are subject to our [Third-Party Service Addendum](https://vimeo.com/terms/thirdpartyservices).
 
@@ -311,6 +311,7 @@ The English version of this Agreement shall control. For convenience, we may pro
 *   [Vimeo On Demand Viewer Agreement](https://vimeo.com/vodvieweragreement)
 *   [Stock Footage License Agreement](https://vimeo.com/stock/standardlicense)
 *   [Seller Addendum](https://vimeo.com/selleraddendum)
+*   [EU OTT Seller Addendum](https://vimeo.com/terms/p2b-addendum)
 *   [API License Addendum](https://developer.vimeo.com/guidelines/terms)
 *   [Arbitration Procedures](https://vimeo.com/terms/arbitration-procedures)
 *   [Enterprise Terms](https://vimeo.com/enterpriseterms)
