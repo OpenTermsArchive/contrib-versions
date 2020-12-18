@@ -159,12 +159,3 @@ Modification de la Politique de protection des données
 La présente Politique de protection des données personnelles peut être amenée à évoluer.
 
 Dernière mise à jour le 08/01/2019
-
-*   [Pourquoi Orange traite vos données ?](#pourquoi-Orange-traite-vos-donnees)
-*   [Quelles sont les données traitées ?](#quelles-sont-les-donnees-traitees)
-*   [Quels sont les destinataires de vos données ?](#quels-sont-les-destinataires-de-vos-donnees)
-*   [Vos données sont-elles traitées hors UE ?](#vos-donnees-sont-elles-traitees-hors-UE)
-*   [Quels sont vos droits ?](#quels-sont-vos-droits)
-*   [Comment exercer vos droits ?](#comment-exercer-vos-droits)
-*   [Comment vos données sont-elles sécurisées ?](#comment-vos-donnees-sont-elles-securisees)
-*   [Modification de la Politique de protection des données](#modification-de-la-Politique-de-protection-des-donnees)
