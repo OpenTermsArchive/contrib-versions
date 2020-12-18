@@ -1,8 +1,3 @@
-*   [Terms of Service](https://about.urbandictionary.com/tos)
-*   Privacy Policy
-*   [DMCA](https://about.urbandictionary.com/dmca)
-*   [Content Guidelines](https://about.urbandictionary.com/content-guidelines)
-
 Privacy Policy
 ==============
 
