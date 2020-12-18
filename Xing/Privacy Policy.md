@@ -15,10 +15,10 @@ General information
   
 We provide this Privacy Policy to inform you about data processing in connection with the entire service XING (including all applications). We also provide additional information about data processing for the following applications, which you can access on the respective websites of the applications:
 
-*   [XING TalentManager](https://www.xing.com/app/user?op=tandc&what=dp_xtm)
-*   [XING TalentpoolManager](https://www.xing.com/app/user?op=tandc&what=dp_xtp)
-*   [XING AdCreator](https://www.xing.com/app/user?op=tandc&what=dp_adc)
-*   [FreelancerManager](https://www.xing.com/app/user?op=tandc&what=dp_freelancer_manager)
+*   [XING TalentManager](https://www.xing.com/legal/privacy_policy_talentmanager)
+*   [XING TalentpoolManager](https://www.xing.com/legal/privacy_policy_talentpoolmanager)
+*   [XING AdCreator](https://www.xing.com/terms)
+*   [FreelancerManager](https://www.xing.com/legal/privacy_policy_freelancermanager)
 
 #### Responsible body
 
@@ -127,7 +127,7 @@ e.g.
 
 #### Visibility
 
-Your optional information is visible to all users in the social network after you enter it. In some cases, you can choose whether optional information should only be visible to certain users in the social network.
+Whether and to what extent your mandatory information is visible to other users depends on whether and to what extent the respective application is geared towards anonymity. Please refer to the respective application for more information.
 
 If you activate the "around you" feature with Bluetooth also activated, other XING users with this feature activated will be sought within a radius of 10 to 20 metres (depending on your device). This feature can act as a substitute for exchanging conventional business cards. To provide this feature, your profile details, including your name, company name, your job title and your photo are displayed to other users. We do not use Bluetooth permanently in the background and do not track your location.
 
@@ -181,7 +181,7 @@ e.g.
 
 #### Visibility
 
-Your optional information is visible to all users in the social network after you enter it. In some cases, you can choose whether optional information should only be visible to certain users in the social network.
+Whether and to what extent your mandatory information is visible to other users depends on whether and to what extent the respective application is geared towards anonymity. Please refer to the respective application for more information.
 
 #### Period saved for
 
@@ -401,7 +401,7 @@ In order to be able to identify you as a valuable business contact or potential 
 
 We use the tracking tool Adobe Digital Analytics. Whenever you are logged in as a user on [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) your data is matched with your user ID during the tracking process. If you are not logged in as a user, tracking is pseudonymous, i.e. we are not able to directly deduce information regarding your identity from information we obtain from tracking. The [cookies](https://privacy.xing.com/en/privacy-policy/glossary/cookies) used for the web analysis contain an ID which allows us to identify your end device’s browser. We have closed a data processing agreement with the provider and your IP addresses are anonymised immediately after collection and [personal data](https://privacy.xing.com/en/privacy-policy/glossary/personal-data) is processed within the European Union.
 
-You can opt out of tracking by Adobe Digital Analytics at any time, simply by clicking on the following link and opting to exclude yourself from visitor session aggregation and analysis: [https://www.adobe.com/de/privacy/opt-out.html](https://www.adobe.com/de/privacy/opt-out.html)  
+You can opt out of tracking by Adobe Digital Analytics at any time, simply by clicking on the following link and opting to exclude yourself from visitor session aggregation and analysis: [https://nats.xing.com/optout.html?popup=1](https://nats.xing.com/optout.html?popup=1)  
   
 Please note that this opt-out option installs a [cookie](https://privacy.xing.com/en/privacy-policy/glossary/cookies) on the end device you’re using when you click on the link. You therefore might not be excluded from tracking if you then delete the [cookie](https://privacy.xing.com/en/privacy-policy/glossary/cookies) in question. When using mobile apps, you need to opt out in the respective app settings.
 
