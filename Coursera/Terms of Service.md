@@ -51,7 +51,7 @@ The Services enable you to share your content, such as homework, quizzes, exams,
 
 #### How Coursera and Others May Use User Content
 
-To the extent that you provide User Content, you grant Coursera a fully-transferable, royalty-free, perpetual, sublicensable, non-exclusive, worldwide license to copy, distribute, modify, create derivative works based on, publicly perform, publicly display, and otherwise use the User Content. This license includes granting Coursera the right to authorize Content Providers to use User Content with their registered students, on-campus learners, or other learners independent of the Services. Nothing in these Terms shall restrict other legal rights Coursera may have to User Content, for example under other licenses. We reserve the right to remove or modify User Content for any reason, including User Content that we believe violates these Terms or other policies including our Acceptable Use Policy and Code of Conduct.
+To the extent that you provide User Content, you grant Coursera a fully-transferable, royalty-free, perpetual, sublicensable, non-exclusive, worldwide license to copy, distribute, modify, create derivative works based on, publicly perform, publicly display, and otherwise use the User Content. This license includes granting Coursera the right to authorize Content Providers to use User Content with their registered students, on-campus learners, or other learners independent of the Services. Nothing in these Terms shall restrict other legal rights Coursera may have to User Content, for example under other licenses. We reserve the right to remove or modify User Content for any reason, including User Content that we believe violates these Terms or other policies including our [Acceptable Use Policy](https://www.coursera.org/about/terms#acceptable-use-policy) and [Code of Conduct](https://learner.coursera.help/hc/en-us/articles/208280036-Coursera-Code-of-Conduct).
 
 #### Feedback
 
@@ -67,8 +67,8 @@ Third Party Content
 
 Through the Services, you will have the ability to access and/or use content provided by instructors, other users, and/or other third parties and links to websites and services maintained by third parties. Coursera cannot guarantee that such third party content, in the Services or elsewhere, will be free of material you may find objectionable or otherwise inappropriate or of malware or other contaminants that may harm your computer, mobile device, or any files therein. Coursera disclaims any responsibility or liability related to your access or use of, or inability to access or use, such third party content.
 
-Copyright and Trademark Policy
-------------------------------
+Copyright and Trademark
+-----------------------
 
 Coursera respects the intellectual property rights of our users, Content Providers, and other third parties and expects our users to do the same when using the Services. We have adopted and implemented the Coursera Copyright and Trademark Policy below in accordance with applicable law, including the Digital Millennium Copyright Act.
 
@@ -168,7 +168,7 @@ Acceptable Use Policy
 
 _Effective: January 1, 2021_
 
-COur mission is to provide universal access to the world’s best education. We believe strongly in preserving free speech and expression for our users as well as academic freedom for our Content Providers and instructors. We also want to make sure that all of our users and instructors feel safe and comfortable while using our Services. We have drafted this policy to ensure that people understand and follow the rules when participating in our online community and otherwise using our Services.
+Our mission is to provide universal access to the world’s best education. We believe strongly in preserving free speech and expression for our users as well as academic freedom for our Content Providers and instructors. We also want to make sure that all of our users and instructors feel safe and comfortable while using our Services. We have drafted this policy to ensure that people understand and follow the rules when participating in our online community and otherwise using our Services.
 
 We may remove or edit inappropriate content or activity identified by or reported to us. We may separately suspend, disable, or terminate a user's access to all or part of the Services.
 
