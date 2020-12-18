@@ -1,19 +1,3 @@
-[![NISSAN GLOBAL TOP](/EN/SHARED/IMAGES/HEADER/logo_nissan.gif)](https://www.nissan-global.com/EN/)
-
-* * *
-
-![TERMS OF USE](/EN/SHARED/IMAGES/PAGE-INFO/main-visual_terms.jpg)
-==================================================================
-
-Location
-
-[TOP](https://www.nissan-global.com/EN/) > _Privacy Policy_
-
-* * *
-
-![Privacy Policy](/EN/SITE_INFO/PRIVACY/IMAGES/idx_hd_page.gif)
----------------------------------------------------------------
-
 In light of the importance of protecting personally identifiable information, Nissan has established the following privacy policy.
 
 ### 1.Establishment of System to Protect Personal Information
@@ -78,18 +62,3 @@ Nissan provides the content of "Handling of Personally Identifiable Information"
 [privacy\_policy@mail.nissan.co.jp](mailto:privacy_policy@mail.nissan.co.jp)
 
 For those applicants based in the European Union, your personal data will be kept for a maximum period of 24 months, from our most recent interaction. If you wish for your data to be retained for a maximum of 12 months or if you wish for your data to be deleted immediately, please notify the European Recruitment team via the following email address: [EuropeGDPR@nissan-europe.com](mailto:EuropeGDPR@nissan-europe.com).
-
-[Go back to top of this page](#frame)
-
-* * *
-
-* * *
-
-*   [Home](https://www.nissan-global.com/EN/)
-*   [Sitemap](https://www.nissan-global.com/EN/SITEMAP/)
-*   [Terms of Use](https://www.nissan-global.com/EN/SITE_INFO/ABOUT/)
-*   [Privacy Policy](https://www.nissan-global.com/EN/SITE_INFO/PRIVACY/)
-*   [Handling of Personally Identifiable Information](https://www.nissan-global.com/EN/SITE_INFO/PERSONAL/)
-
-*   [![NISSAN](/EN/SHARED/IMAGES/FOOTER/logo_nissan.gif)](https://www.nissan-global.com/EN/NISSAN/)
-*   [![INFINITI](/EN/SHARED/IMAGES/FOOTER/logo_infiniti.gif)](https://www.nissan-global.com/EN/INFINITI/)
