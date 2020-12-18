@@ -1,24 +1,3 @@
-*   [Home](http://info.123greetings.com/ "Home")
-*   [Ecards](javascript:void(0); "Send free online ecards")
-    
-*   [Photocards](http://info.123greetings.com/photo_card.html "Upload your photo and send as an ecard")
-*   [Connect](javascript:void(0); "Import address book or check ecards received")
-    
-*   [Studio](http://studio.123greetings.com/ "Create & Upload your card on 123Greetings")
-*   [Mobile App](http://www.123greetings.com/app "Download 123Greetings Mobile App")
-
-*   [123Greetings](http://www.123greetings.com/)»
-*   Privacy Policy
-    ==============
-    
-
-*   [Terms of Use](http://www.123greetings.com/terms_of_use.html)
-*   [Privacy Policy](http://www.123greetings.com/privacy_policy.html)
-*   [Cookie Policy](http://www.123greetings.com/cookie_policy.html)
-*   [Copyright/IP Policy](http://www.123greetings.com/copyright_policy.html)
-*   [Help/FAQ](http://help.123greetings.com/)
-*   [Contact Us](http://help.123greetings.com/contact_us.html)
-
 Privacy Policy
 --------------
 
@@ -139,9 +118,3 @@ Third Parties' Practices: This Privacy Policy does not cover the information pra
 **Non-U.S. Users:** The Website is hosted in the United States. If you are accessing the Website from a jurisdiction with privacy laws or regulations that differ from United States laws, please be advised that through your continued use of the Website, you are transferring your personal information to the United States and you consent to that transfer.
 
 **Last Updated: May 22, 2018**
-
-Stay Connected [B'day Reminders](http://info.123greetings.com/connect/birthdays "B'day Reminders") [Event Reminders](http://info.123greetings.com/connect/events/ "Event Reminders") [Newsletter](http://nl.123greetings.com/ "Newsletter") [Editor Bob's Blog](http://nl.123greetings.com/blog/ "Editor Bob's Blog")[](http://www.addthis.com/bookmark.php "Bookmark")
-
-[Site Map](http://info.123greetings.com/sitemap.html) | [Connect](http://info.123greetings.com/connect/track) | [Studio](http://studio.123greetings.com/) | [Mobile App](http://info.123greetings.com/app) | [Press Room](http://info.123greetings.com/company/pressroom/) | [Blog](http://blog.123greetings.com/) | [Widgets](http://widgets.123greetings.com/) | [RSS Feed](http://info.123greetings.com/rss/) | [Recommend Us](http://nl.123greetings.com/tell-a-friend)  
-[Terms of Use](http://info.123greetings.com/terms_of_use.html) | [Privacy Policy](http://info.123greetings.com/privacy_policy.html) | [Cookie Policy](http://info.123greetings.com/cookie_policy.html) | [Copyright/IP Policy](http://info.123greetings.com/copyright_policy.html) | [Help](http://help.123greetings.com/) | [Contact Us](http://help.123greetings.com/contact_us.html)  
-Copyright © 123Greetings.com, Inc.   All rights reserved.
