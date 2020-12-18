@@ -50,15 +50,15 @@ We consider incitement to violence as advocating for, directing, or encouraging 
 
 We do not allow individuals or organizations on our platform who promote or are engaged in violence. We remove such individuals and organizations, including mass murderers, serial killers and rapists, hate groups, criminal organizations, terrorist organizations, and other non-state armed groups that target civilians.
 
-### Terrorist organizations
+Terrorist organizations
 
 Terrorists and terrorist organizations are non-state actors that threaten violence, use violence, and/or commit serious crimes (such as crimes against humanity) against civilian populations in pursuit of political, religious, ethnic, or ideological objectives.
 
-### Organized hate
+Organized hate
 
 Organized hate refers to those individuals and organizations who attack people based on protected characteristics, such as race, ethnicity, national origin, religion, caste, sexual orientation, sex, gender, gender identity, or immigration status. We consider attacks to include actions that incite violence or hatred, dehumanize individuals or groups, or embrace a hateful ideology.
 
-### Criminal organizations
+Criminal organizations
 
 Criminal organizations are transnational, national, or local groups that have engaged in serious crimes, including violent crimes (e.g., homicide, rape, robbery, assault), trafficking (e.g., human, organ, drug, weapons), kidnapping, financial crimes (e.g., extortion, blackmail, fraud, money laundering), or cybercrime.
 
