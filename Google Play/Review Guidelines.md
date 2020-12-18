@@ -1,5 +1,5 @@
-Developer Program Policy (effective October 21, 2020)
-=====================================================
+Developer Program Policy (effective December 16, 2020)
+======================================================
 
 Let's build the world's most trusted source for apps and games
 ==============================================================
@@ -420,16 +420,14 @@ In addition to the requirements above, the table below describes requirements fo
 
 #### EU-U.S. Privacy Shield
 
-###### Privacy Shield
-
 If you access, use, or process personal information made available by Google that directly or indirectly identifies an individual and that originated in the European Union or Switzerland (“EU Personal Information”), then you must:
 
-*   comply with all applicable privacy, data security, and data protection laws, directives, regulations, and rules;
-*   access, use or process EU Personal Information only for purposes that are consistent with the consent obtained from the individual to whom the EU Personal Information relates;
-*   implement appropriate organizational and technical measures to protect EU Personal Information against loss, misuse, and unauthorized or unlawful access, disclosure, alteration and destruction; and
-*   provide the same level of protection as is required by the [Privacy Shield Principles](https://www.privacyshield.gov/EU-US-Framework).
+*   Comply with all applicable privacy, data security, and data protection laws, directives, regulations, and rules;
+*   Access, use or process EU Personal Information only for purposes that are consistent with the consent obtained from the individual to whom the EU Personal Information relates;
+*   Implement appropriate organizational and technical measures to protect EU Personal Information against loss, misuse, and unauthorized or unlawful access, disclosure, alteration and destruction; and
+*   Provide the same level of protection as is required by the [Privacy Shield Principles](https://www.privacyshield.gov/EU-US-Framework).
 
-You must monitor your compliance with these conditions on a regular basis. If, at any time, you cannot meet these conditions (or if there is a significant risk that you will not be able to meet them), you must immediately notify us by email to data-protection-office@google.com and immediately either stop processing EU Personal Information or take reasonable and appropriate steps to restore an adequate level of protection.
+You must monitor your compliance with these conditions on a regular basis. If, at any time, you cannot meet these conditions (or if there is a significant risk that you will not be able to meet them), you must immediately notify us by email to [data-protection-office@google.com](mailto:data-protection-office@google.com) and immediately either stop processing EU Personal Information or take reasonable and appropriate steps to restore an adequate level of protection.
 
 Permissions
 -----------
@@ -1530,14 +1528,13 @@ Policy Coverage
 
 Our policies apply to any content your app displays or links to, including any ads it shows to users and any user-generated content it hosts or links to. Further, they apply to any content from your developer account which is publicly displayed in Google Play, including your developer name and the landing page of your listed developer website.
 
-We don't allow apps that let users install other apps to their devices. Apps that provide access to other apps, games, or software without installation, including features and experiences provided by third parties, must ensure that all the content they provide access to adheres to all [Google Play policies](https://support.google.com/googleplay/android-developer/topic/9858052) and may also be subject to additional policy reviews.
+We don't allow apps that let users install other apps to their devices. Apps that provide access to other apps, games, or software without installation, including features and experiences provided by third parties, must ensure that all the content they provide access to adheres to all [Google Play policies](https://https//support.google.com/googleplay/android-developer/answer/9904549) and may also be subject to additional policy reviews.
 
-Defined terms used in these policies have the same meaning as in the [Developer Distribution Agreement](https://play.google.com/about/developer-distribution-agreement.html) (DDA). In addition to complying with these policies and the DDA, the content of your app must be rated in accordance with our [Content Rating Guidelines](https://support.google.com/googleplay/android-developer/answer/188189).
+Defined terms used in these policies have the same meaning as in the [Developer Distribution Agreement](https://play.google.com/about/developer-distribution-agreement.html) (DDA). In addition to complying with these policies and the DDA, the content of your app must be rated in accordance with our [Content Rating Guidelines](https://support.google.com/googleplay/android-developer/answer/188189).
 
-In assessing whether to include or remove apps from Google Play, we consider a number of factors including, but not limited to, a pattern of harmful behavior or high risk of abuse. We identify risk of abuse including, but not limited to, items such as previous violation history, user feedback, and use of popular brands, characters, and other assets.
+We don’t allow apps or app content that undermine user trust in the Google Play ecosystem. In assessing whether to include or remove apps from Google Play, we consider a number of factors including, but not limited to, a pattern of harmful behavior or high risk of abuse. We identify risk of abuse including, but not limited to, items such as app- and developer-specific complaints, news reporting, previous violation history, user feedback, and use of popular brands, characters, and other assets.
 
-How Google Play Protect works
------------------------------
+### How Google Play Protect works
 
 Google Play Protect checks apps when you install them. It also periodically scans your device. If it finds a potentially harmful app, it might:
 
@@ -1545,7 +1542,7 @@ Google Play Protect checks apps when you install them. It also periodically scan
 *   Disable the app until you uninstall it.
 *   Remove the app automatically. In most cases, if a harmful app has been detected, you will get a notification saying that the app was removed.
 
-### How malware protection works
+#### How malware protection works
 
 To protect you against malicious third-party software, URLs and other security issues, Google may receive information about:
 
@@ -1557,7 +1554,7 @@ You may get a warning from Google about an app or URL that may be unsafe. The ap
 
 You can choose to disable some of these protections in your device settings. But Google may continue to receive information about apps installed through Google Play, and apps installed on your device from other sources may continue to be checked for security issues without sending information to Google.
 
-### How Privacy alerts work
+#### How Privacy alerts work
 
 Google Play Protect will alert you if an app is removed from the Google Play Store because the app may access your personal information and you’ll have an option to uninstall the app. 
 
