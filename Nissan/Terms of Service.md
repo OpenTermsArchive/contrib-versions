@@ -1,19 +1,3 @@
-[![NISSAN GLOBAL TOP](/EN/SHARED/IMAGES/HEADER/logo_nissan.gif)](https://www.nissan-global.com/EN/)
-
-* * *
-
-![TERMS OF USE](/EN/SHARED/IMAGES/PAGE-INFO/main-visual_terms.jpg)
-==================================================================
-
-Location
-
-[TOP](https://www.nissan-global.com/EN/) > _Terms of Use: Full Site_
-
-* * *
-
-![Website Terms and Conditions of Use: Full Site](IMAGES/idx_hd_page.gif)
--------------------------------------------------------------------------
-
 This website is designed for visitor's use in a convenient and comfortable manner. We suggest visitors to read the following information in browsing/using this website. Please note we may change the contents of our homepage without notice.
 
 ### Regarding web standard activities
@@ -100,18 +84,3 @@ Nissan Motor Company principally declines links other than links to Nissan's aff
 *   \* Internet Explorer is a registered trademark of Microsoft Corporation of the U.S., in the U.S. and other countries.
 *   \* Netscape NavigatorTM is a trademark of Netscape Communications Corporation of the U.S., in the U.S. and other countries.
 *   \* JavaScriptTM is a trademark of Sun Microsystems, Inc. of the U.S., in the U.S. and other countries.
-
-[Go back to top of this page](#frame)
-
-* * *
-
-* * *
-
-*   [Home](https://www.nissan-global.com/EN/)
-*   [Sitemap](https://www.nissan-global.com/EN/SITEMAP/)
-*   [Terms of Use](https://www.nissan-global.com/EN/SITE_INFO/ABOUT/)
-*   [Privacy Policy](https://www.nissan-global.com/EN/SITE_INFO/PRIVACY/)
-*   [Handling of Personally Identifiable Information](https://www.nissan-global.com/EN/SITE_INFO/PERSONAL/)
-
-*   [![NISSAN](/EN/SHARED/IMAGES/FOOTER/logo_nissan.gif)](https://www.nissan-global.com/EN/NISSAN/)
-*   [![INFINITI](/EN/SHARED/IMAGES/FOOTER/logo_infiniti.gif)](https://www.nissan-global.com/EN/INFINITI/)
