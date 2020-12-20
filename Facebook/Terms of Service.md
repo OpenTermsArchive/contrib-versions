@@ -2,6 +2,8 @@
 
 Welcome to Facebook!
 
+For messaging, voice and video calling services included in Facebook Products, please click [here](https://www.facebook.com/legal/terms/eecc/contract_summary) for a contract summary and [here](https://www.facebook.com/legal/terms/eecc/flyout) for other information required by the European Electronic Communications Code.
+
 Facebook builds technologies and services that enable people to connect with each other, build communities and grow businesses. These Terms govern your use of Facebook, Messenger and the other products, features, apps, services, technologies and software that we offer (the [Facebook Products](https://www.facebook.com/help/1561485474074139?ref=tos) or [Products](https://www.facebook.com/help/1561485474074139?ref=tos)), except where we expressly state that separate terms (and not these) apply. These Products are provided to you by Facebook Ireland Limited.
 
 We don't charge you to use Facebook or the other products and services covered by these Terms. Instead, businesses and organisations pay us to show you ads for their products and services. By using our Products, you agree that we can show you ads that we think will be relevant to you and your interests. We use your personal data to help determine which ads to show you.
@@ -234,8 +236,10 @@ We provide these services to you and others to help advance our mission. In exch
     
 *   [Music Guidelines](https://www.facebook.com/legal/music_guidelines): These guidelines outline the Policies that apply if you post or share content containing music on Facebook.
     
-*   [Live Policies](https://www.facebook.com/policies/live): These policies apply to all content broadcast to Facebook through Facebook Live.
+*   [Live Policies](https://www.facebook.com/policies/live): These policies apply to all content broadcast to Facebook Live.
+    
+*   Messaging services terms relevant for EU, EEA and UK users: terms applicable to the messaging, voice and video calling services included in Facebook Products are listed [here](https://www.facebook.com/legal/terms/eecc/contract_summary) and [here](https://www.facebook.com/legal/terms/eecc/flyout) in accordance with EU rules.
     
 
   
-Date of last revision: 22 October 2020
+Date of last revision: 20 December 2020
