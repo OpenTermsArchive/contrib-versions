@@ -240,8 +240,8 @@ These Terms of Service and any separate agreements whereby we provide you Servic
 
 * * *
 
-Changs to Terms of Service
---------------------------
+Changes to Terms of Service
+---------------------------
 
 You can review the most current version of the Terms of Service at any time at this page.
 
