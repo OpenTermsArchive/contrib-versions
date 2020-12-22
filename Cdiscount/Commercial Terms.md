@@ -1304,7 +1304,7 @@ Le crédit sera cumulé sur la Cagnotte :**
 
  \- Soit à l’issue du délai mentionné sur chaque Offre Partenaire au moment de l’achat puisque le délai dépend de la date de confirmation du commerçant partenaire, pour les Offres Partenaires.
 
-Avant l’écoulement de ces périodes, le montant à créditer sera affiché comme étant « En attente » dans l’Espace Client de l’Abonné, rubrique « Ma cagnotte à volonté ».
+Avant l’écoulement de ces périodes, le montant à créditer sera affiché comme étant « En attente » dans l’Espace Client de l’Abonné, rubrique « Ma cagnotte à volonté é.
 
 Il est également précisé, concernant les Offre Site, qu’en cas de commande contenant plusieurs Produits éligibles au Privilège, le total du crédit auquel donne droit cette commande sera cumulé sur la Cagnotte à l’issue d’un délai maximum de trente (30) jours ouvrés à compter de la livraison du dernier Produit éligible de la commande. Concernant les Offres Partenaires, le crédit sera cumulé à l’issue de chacun des délais mentionnés sur lesdites Offres.
 
@@ -1899,7 +1899,7 @@ Cdiscount se réserve ainsi la possibilité de cesser la commercialisation de to
 **7.2. Traitement des déchets d’équipements électriques et électroniques et des déchets d’éléments d’ameublement (DEA) et redevance pour copie privée**  
    
 7.2.1 Traitement des déchets d’équipements électriques (DEEE) et électroniques et des déchets d’éléments d’ameublement (DEA)  
-Aux fins de financer les filières de collecte et de recyclage des Déchets dééquipements électriques et électroniques (DEEE) et des Déchets d’éléments d’ameublement (DEA), Cdiscount a, en sa qualité de distributeur, l’obligation de collecter une éco-participation auprès des Clients Pro. Le montant de l’éco-participation est indiqué sur le Site, sur la fiche produit des articles relevant de cette obligation.   
+Aux fins de financer les filières de collecte et de recyclage des Déchets d’équipements électriques et électroniques (DEEE) et des Déchets d’éléments d’ameublement (DEA), Cdiscount a, en sa qualité de distributeur, l’obligation de collecter une éco-participation auprès des Clients Pro. Le montant de l’éco-participation est indiqué sur le Site, sur la fiche produit des articles relevant de cette obligation.   
   
 Il est précisé que Cdiscount n’assure pas la reprise des équipements électriques et électroniques des Clients Pro, ayant la qualité de revendeur des produits achetés (par opposition aux Clients Pro qui utilisent les produits achetés pour leur activité professionnelle).  
 Cdiscount informe le Client Pro ayant la qualité de revendeur des produits achetés que, conformément aux articles L. 541-10-2 et R. 543-180 du Code de l'Environnement, tout consommateur peut bénéficier d’un droit de reprise gratuite de ses équipements électriques et électroniques usagés ; il appartient donc audit Client Pro d’informer ses propres clients du coût de l’élimination des déchets dans les conditions prévues à la règlementation applicable et d’assurer la reprise des équipements usagés auprès des consommateurs qui en font la demande.  
