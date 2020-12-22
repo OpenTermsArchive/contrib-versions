@@ -1158,7 +1158,8 @@ Si l’Abonné ne souhaite pas renouveler son Abonnement, il pourra contacter le
 
 La résiliation sera effective au terme de la période d'Abonnement en cours et n'entraîne aucun remboursement du prix du Service, sauf exercice de votre droit de rétractation.
 
-Dans l’hypothèse où, à la date de résiliation effective de l’Abonnement au Service par l’Abonné, le solde de la Cagnotte de l’Abonné n’est pas nul, ce solde sera conservé et le crédit dont la durée de validité n’aura pas expiré entre temps sera à nouveau disponible en cas de réactivation de l’Abonnement au Service par l’Abonné. Passée la date d’expiration de l’ensemble du crédit cumulé dans la Cagnotte, le solde de la Cagnotte sera définitivement perdu.
+Dans l’hypothèse où, à la date de résiliation effective de l’Abonnement au Service par l’Abonné, le solde de la Cagnotte de l’Abonné n’est pas nul, ce solde sera perdu et rendu inutilisable pour l'Abonné.  
+Toutefois, le solde sera informatiquement enregistré par Cdiscount et le crédit dont la durée de validité n'aura pas expiré entre temps sera à nouveau disponible en cas de réactivation de l’Abonnement au Service par l’Abonné. Passée la date d’expiration de l’ensemble du crédit cumulé dans la Cagnotte, le solde de la Cagnotte sera définitivement perdu.
 
   
   
@@ -1287,7 +1288,7 @@ En cas de partage d’Abonnement dans les conditions précisées à l’article 
 
 \- Soit, pour les Offres Partenaire, par l’achat d’Offres Partenaires proposées sur la Plateforme accessible via le Site.
 
-Le montant du crédit auquel donne droit une Offre Site ou une Offre Partenaire est précisé soit sur la fiche produit de celui-ci pour les Offres Site, soit sur l’Offre Partenaire concernée pour les Offres Partenaire, sous forme : 
+Le montant du crédit auquel donne droit une Offre Site ou une Offre Partenaire est précisé soit sur la fiche produit du Produit éligible au Privilège pour les Offres Site, soit sur l’Offre Partenaire concernée pour les Offres Partenaire, sous forme : 
 
 \- d’un montant en euros ; ou
 
@@ -1301,11 +1302,11 @@ Le crédit sera cumulé sur la Cagnotte :**
 
  \- Soit à l’issue d’un délai maximum de trente (30) jours ouvrés à compter de la livraison du Produit éligible au Privilège, pour les Offres Site.
 
- \- Soit à l’issue du délai mentionné sur chaque Offre Partenaire au moment de l’achat puisque le délai dépend de la date de confirmation du commerçant partenaire, pour les Offres Partenaire.
+ \- Soit à l’issue du délai mentionné sur chaque Offre Partenaire au moment de l’achat puisque le délai dépend de la date de confirmation du commerçant partenaire, pour les Offres Partenaires.
 
-Avant l’écoulement de ces périodes, le montant à créditer sera affiché comme étant « En attente » dans l’Espace Client de l’Abonné, rubrique « Ma cagnotte à volonté ».
+Avant l’écoulement de ces périodes, le montant à créditer sera affiché comme étant « En attente » dans l’Espace Client de l’Abonné, rubrique « Ma cagnotte à volonté é.
 
-Il est également précisé, concernant les Offre Site, qu’en cas de commande contenant plusieurs Produits éligibles au Privilège, le total du crédit auquel donne droit cette commande sera cumulé sur la Cagnotte à l’issue d’un délai maximum de trente (30) jours ouvrés à compter de la livraison du dernier produit éligible de la commande. Concernant les Offres Partenaires, le crédit sera cumulé à l’issue de chacun des délais mentionnés sur lesdites Offres.
+Il est également précisé, concernant les Offre Site, qu’en cas de commande contenant plusieurs Produits éligibles au Privilège, le total du crédit auquel donne droit cette commande sera cumulé sur la Cagnotte à l’issue d’un délai maximum de trente (30) jours ouvrés à compter de la livraison du dernier Produit éligible de la commande. Concernant les Offres Partenaires, le crédit sera cumulé à l’issue de chacun des délais mentionnés sur lesdites Offres.
 
 A l’issue de ce délai maximum de trente (30) jours ouvrés, le montant ainsi crédité sur la Cagnotte sera affiché comme étant « Actif » dans l’Espace Client de l’Abonné, rubrique « Ma cagnotte à volonté » (ci-après le **« Solde de la Cagnotte** ».
 
@@ -1322,7 +1323,7 @@ Le Solde de la Cagnotte est utilisable dans les conditions définies ci-après.
 
 Il est précisé que la durée de validité est différente selon que le montant crédité provient d’une Offre Site ou d’une Offre Partenaire accessible via la Plateforme.
 
-Tout montant crédité et non utilisé par l’Abonné avant la fin de sa durée de validité sera automatiquement déduit du Solde de la Cagnotte sera définitivement perdu.
+Tout montant crédité et non utilisé par l’Abonné avant la fin de sa durée de validité sera automatiquement déduit du Solde de la Cagnotte et sera donc définitivement perdu.
 
 **9.3.3** L’Abonné pourra utiliser le Solde de la Cagnotte pour payer tout ou partie d’une commande passée sur le Site (produits de la Marketplace inclus, hors frais de port, abonnements, Cdiscount à Volonté, livres et hors services Cdiscount tels que notamment Cdiscount Voyages, Cdiscount Mobile, Cdiscount Energie, Cdiscount Santé, Cdiscount Beauté, Cdiscount Immobilier, Cdiscount Billetterie, Disneyland), sans minimum d’achat.
 
@@ -1343,7 +1344,8 @@ La Cagnotte est active tant que l’Abonnement au Service n’a pas été résil
 
 En cas de renouvellement de l’Abonnement au Service, le Solde de la Cagnotte est conservé, sous réserve de la durée de validité de chaque montant crédité, précisée dans l’Espace Client de l’Abonné, rubrique « Ma cagnotte à volonté ».
 
-En cas de résiliation de l’Abonnement au Service par l’Abonné, le Solde de la Cagnotte sera conservé et le crédit dont la durée de validité n’aura pas expiré entre temps sera à nouveau disponible en cas de réactivation de l’Abonnement au Service.
+En cas de résiliation de l’Abonnement au Service par l’Abonné, le Solde de la Cagnotte sera perd sans que l'Abonné ne puisse prétendre à aucune indemnité à ce titre.  
+Toutefois, en cas de réactivation de l'Abonnement au Service par l'Abonné, dans un délai de trois (3) mois à compter de la date de résiliation de l'Abonnement, le crédit dont la durée de validité n'aura pas expiré entre temps sera à nouveau disponible et utilisable par l'Abonné dans les conditions qui précèdent.
 
 La Cagnotte du Bénéficiaire du Partage reste active pendant toute la durée où il bénéficie de l’Abonnement au Service conformément à l’article 8 ci-dessus.
 
