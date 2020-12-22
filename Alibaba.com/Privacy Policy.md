@@ -1,6 +1,6 @@
 #### Privacy Policy
 
-**New Version (Effective as of November 25,2020)** 
+**New Version (Effective as of December 22,2020)** 
 
 [A. COLLECTION OF INFORMATION.](https://rule.alibaba.com/rule/detail/2034.htm#AA)
 
@@ -72,7 +72,9 @@ If you are a representative or employee of any Buyer or Seller or a sole trader 
 
 · we will process any information provided to us in connection with disputes or to support complaints in connection with the Platform or goods and/or services purchased via the Platform. Please note, Buyers and/or Sellers may submit complaints regarding the products and services on the Platform and/or disputes between the Buyers and Sellers to the Platform and under such circumstances, we will process data provided to us by Buyers and/or Sellers that is relevant to the disputes or complaints submitted. This may include health data of end-users (which may include minors as applicable) of products purchased on the Platform to the extent relevant to the disputes or complaints that are being reviewed by the Platform and to the extent that the individual(s) has provided their explicit consent to their data being shared with us for the purposes of handling the complaints and/or settling the disputes.
 
-· Information you submit to the Platform for publication may be made publicly available on the Platform and therefore accessible by any internet user. You should exercise caution when deciding what information you submit to us for publication.
+· Information you submit to the Platform for publication may be made publicly available on the Platform and therefore accessible by any internet user. You should exercise caution when deciding what information you submit to us for publication. 
+
+· in order to facilitate your use of the services available on the Platform (including on websites and/or mobile applications), we may request for access to, and you may provide us with, contents stored in your devices including but not limited to contacts in address book, photos, videos and/or other files. If you are using our communication tools on the Platform (particularly in case of voice communication), we may require access to your camera and/or microphone, and may conduct voice recordings.
 
 **Information that we collect automatically**  
   
@@ -86,7 +88,7 @@ If you are a representative or employee of any Buyer or Seller or a sole trader 
 
 · From time to time, we may also collect information about the existing and prospective users, during or in connection with trade shows, industry events and/or other functions. Including representative contact names, addresses, phone numbers, fax numbers and email addresses.
 
-· If you visit our Platform, we will automatically collect certain information from your device. In some countries, including countries in the European Economic Area, this information may be considered as personal information under applicable data protection laws. Specifically this information may include IP addresses, device type, unique device identification numbers, browser type, broad geographic location (e.g. country or city-level location), browsing patterns and details of how you have interacted with our Platform and the goods and services available on it. In addition, we gather statistical information about the Platform and visitors to the Platform including, browser software, operating system, software and hardware attributes, pages viewed, number of sessions and unique visitors. Collecting this information enables us to better understand the visitors who come to our Platform, where they come from, and what content is of interest to them.  We use this information for our internal analytics purposes and to improve the quality and relevance of our Platform. Some of this information may be collected using cookies and similar tracking technology, as explained further under the section **[E “COOKIES”](http://rule.alibaba.com/rule/detail/2034.htm#EE)** below.
+· If you visit our Platform, we will automatically collect certain information from your device. In some countries, including countries in the European Economic Area, this information may be considered as personal information under applicable data protection laws. Specifically this information may include IP addresses, device type, unique device identification numbers, browser type, geographic location, browsing patterns and details of how you have interacted with our Platform and the goods and services available on it. In addition, we gather statistical information about the Platform and visitors to the Platform including, browser software, operating system, software and hardware attributes, pages viewed, number of sessions and unique visitors. Collecting this information enables us to better understand the visitors who come to our Platform, where they come from, and what content is of interest to them.  We use this information for our internal analytics purposes and to improve the quality and relevance of our Platform. Some of this information may be collected using cookies and similar tracking technology, as explained further under the section **[E “COOKIES”](http://rule.alibaba.com/rule/detail/2034.htm#EE)** below.
 
 **Information that we receive from third parties**  
  
@@ -134,6 +136,8 @@ We collect and use your personal information for the following purposes:
 · identifying, developing and marketing and advertising products and services that we believe you will value, including across browsers and devices, in accordance with applicable laws. Cookies or other similar technologies may be used to provide you with advertising based upon your browsing activities and interests (see section [**E. "COOKIES"**](http://rule.alibaba.com/rule/detail/2034.htm#E) below).  Where we are required by applicable law, we will seek your consent prior to sending you communications for marketing purposes; 
 
 · if you are a Buyer, we will share details of the last viewed products on the Platform to enable Sellers, their respective affiliates and/or their third-party services provider to contact you with details of products and/or services that might interest you. You can opt not to share this information with Sellers via the Buyer Privacy Settings [here](https://profile.alibaba.com/privacy/privacySettingShow.htm).
+
+·       when you use services that require access to contents stored in and/or functions on your devices (including but not limited to contacts in address book, photos, videos, microphone and/or camera), we use your photos, videos, contact information in your address book, and other personal information to respond to your requests, provide the requested services to you, and improve our services.
 
 We may also use your personal information for other purposes that are not incompatible with the purposes we have disclosed to you (such as archiving purposes in the public interest, scientific or historical research purposes, or statistical purposes) if and where this is permitted by applicable data protection laws.
 
