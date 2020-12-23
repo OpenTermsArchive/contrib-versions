@@ -99,4 +99,38 @@ You agree that your correspondence with or participation in promotions of advert
 
 11.9 We will not be liable, in contract, tort (including, without limitation, negligence), pre-contract or other representations (other than fraudulent misrepresentations) or otherwise out of or in connection with these Terms for (a) any economic losses (including without limitation loss of revenues, profits, business), (b) any loss of goodwill or reputation (c) any special or indirect or consequential losses.
 
-11.10 Nothing in these Terms shall exclude or limit our liability for death or personal injury resulting from our negligence or that of our directors, officers, employees, or agents or any other liability which may no
+11.10 Nothing in these Terms shall exclude or limit our liability for death or personal injury resulting from our negligence or that of our directors, officers, employees, or agents or any other liability which may not be limited or excluded under applicable law.
+
+### 12\. Indemnity
+
+12.1 You agree to defend, indemnify and hold us, our subsidiaries, affiliates, officers, directors, employees, contractors, partners and agents, harmless from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to legal expenses) arising out of or in connection with content that you upload, post or transmit via the Website and your activities on the Website, your use of and access to the Website, any breach by you of the Terms and your violation of any third party right, including without limitation any copyright, property, or privacy right.
+
+12.2 You agree that your obligation to indemnify us will continue even when this Agreement is terminated.
+
+### 13\. Data Protection
+
+13.1 We aim to comply with the applicable Data Protection legislation from time to time in place.
+
+13.2 We will disclose your personal data if we are requested to do so by law or by any regulatory or governmental authority, or upon receipt of a court order or a legitimate request by a third party (for example, the police) in investigating illegal activities to provide information concerning your activities on the Website.
+
+13.3 We reserve the right to notify or provide information to the relevant authority if we believe that you have carried out or are in the process of carrying out any illegal activity.
+
+13.4 If you agree (during the registration process or when entering competitions and other activities) to receive information/offers, etc from other companies (for example marketing and advertising companies), then we may pass your personal information and/or your activities on the Website to other companies.
+
+13.5 We reserve the right to store and use your personal data solely for our own internal purposes and we reserve the right to access, monitor and retrieve password protected information in order to fulfil our obligations, both legal and as established under these Terms.
+
+### 14\. Termination
+
+14.1 We may terminate your registration and account with us immediately and without notice (without prejudice to our other rights and remedies) and we may delete any comments you have posted on the Website.
+
+14.2 You may terminate your account with us at any time [on this page](https://account.theregister.com/delete/) (you will have to log in to do so).
+
+### 15\. Severance of Terms
+
+If the whole or part of any term or provision in these Terms is to any extent held to be void, invalid, illegal or unenforceable under any enactment or rule of law, that term or provision or part of it shall to that extent be deemed not to form part of this agreement, and the validity and enforceability of the remainder of these Terms shall not be affected.
+
+### 16\. Law and Jurisdiction
+
+These Terms (as amended from time to time) are exclusively governed by and are construed in accordance with the laws of England and Wales whose courts will have exclusive jurisdiction in any dispute or any proceedings arising out of or in connection with these Terms, save that we have the right to commence and pursue proceedings in alternative jurisdictions.
+
+**Get our** [Tech Resources](https://whitepapers.theregister.com/)
