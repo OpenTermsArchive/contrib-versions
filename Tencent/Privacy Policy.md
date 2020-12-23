@@ -62,47 +62,4 @@ No matter where our servers are located, we take appropriate measures to safegua
 
 **_Only where reasonably necessary_** will we share your personal information with third parties. Situations where this occur are:
 
-*   **Third parties** that provide services in support of the Website, including providers of cloud services that process information identified in this policy on their servers for the purpose of supporting communication in relation to your enquiries. All companies providing services for us are prohibited from retaining, using, or disclosing your personal information for any purpose other than providing us with their services.
-*   **Companies within our corporate group**who process your personal information in order to respond to your enquiries. All related group companies may only use your personal information in accordance with this Privacy Policy.
-*   **Regulators, judicial authorities and law enforcement agencies, and other third parties for safety, security, or compliance with the law.** There are circumstances in which we are legally required to disclose information about you to authorities, such as to comply with a legal obligation or processes, enforce our terms, address issues relating to security or fraud, or protect our users. These disclosures may be made with or without your consent, and with or without notice, in compliance with the terms of valid legal process such as a subpoena, court order, or search warrant. We are usually prohibited from notifying you of any such disclosures by the terms of the legal process. We may seek your consent to disclose information in response to a governmental entity’s request when that governmental entity has not provided the required subpoena, court order, or search warrant. We may also disclose your information to:
-    *   enforce our terms and conditions and other agreements, including investigation of any potential violation thereof;
-    *   detect, prevent or otherwise address security, fraud or technical issues; or
-    *   protect the rights, property or safety of us, our users, a third party or the public as required or permitted by law (exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction).
-*   **A third party that acquires all or substantially all of us or our business.** We may also disclose your information to third parties if we either: (a) sell, transfer, merge, consolidate or re-organise any part(s) of our business, or merge with, acquire or form a joint venture with, any other business, in which case we may disclose your data to any prospective buyer, new owner, or other third party involved in such change to our business; or (b) sell or transfer any of our assets, in which case the information we hold about you may be sold as part of those assets and may be transferred to any prospective buyer, new owner, or other third party involved in such sale or transfer.
-
-4. The Security of Your Personal Information
-============================================
-
-We are committed to maintaining the privacy and integrity of your personal information no matter where it is stored. We have information security and access policies that limit access to our systems and technology, and we protect data through the use of technological protection measures such as encryption.
-
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will implement and maintain reasonable measures to protect your personal information, we cannot guarantee the security of the information transmitted through the Website or otherwise via the Internet; any transmission is at your own risk.
-
-5.  Data Retention
-==================
-
-We do not keep your data for longer than is necessary unless we are required to do so under law. We will retain your information as follows:
-============================================================================================================================================
-
-*   _Information you provide to us when submitting the enquiry form or contacting us using the details specified in this Privacy Policy:_ until your enquiry is resolved, and then erased within one hundred and eighty (180) days of such resolution, unless you agree to have this data retained and receive more information in the future.
-*   If we are required to retain your information beyond the retention periods set out above, for example to comply with applicable laws, we will store it separately from other types of personal information.
-
-6. Your Rights
-==============
-
-You have legal rights in relation to the personal information we hold about you (to the extent permitted under applicable laws and regulations). You may request access or corrections to the data we process about you. A reasonable fee may be chargeable by us for complying with a data access request.
-
-To exercise any of your rights, please contact us at [privacypolicy@qq.com](mailto:privacypolicy@qq.com)
-
-Please note that the Website does not engage in any personalised advertising. Any emails sent are in response to enquiries submitted by you and are service messages only.
-
-7. Contact & Complaints
-=======================
-
-Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to our designated data protection officer for purposes of applicable privacy law, who can be contacted at [privacypolicy@qq.com](mailto:privacypolicy@qq.com).
-
-**In the event that you wish to make a complaint about how we process your personal information, please contact us in the first instance at [privacypolicy@qq.com](mailto:privacypolicy@qq.com) and we will endeavour to deal with your request as soon as possible.**
-
-8. Changes
-==========
-
-If we make any changes to this Privacy Policy we will post the updated Privacy Policy here. Please check this page frequently to see if there are any updates or changes to this Privacy Policy.
+*   **Third parties**
