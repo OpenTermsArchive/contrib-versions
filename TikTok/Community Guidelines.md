@@ -4,8 +4,6 @@
 
   
 
-**_To keep TikTok a welcoming place for everyone to create and share, we’re updating our Community Guidelines on 12/29/2020. You can find our current guidelines [here](https://www.tiktok.com/safety/resources/old-community-guidelines?lang=en)._**
-
   
 
 **Introduction**
