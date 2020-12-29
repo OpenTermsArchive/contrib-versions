@@ -147,4 +147,31 @@ In the last 12 months, we collected the following categories of personal informa
 
 You can find more information about (a) what we collect and sources of that information, (b) the business and commercial purposes for collecting that information, and (c) the categories of third parties with whom we share that information in the “What We Collect (and How it is Used and Shared)” section above.  
   
-If you ar
+If you are a California resident, you have additional rights under the CCPA, including the right to request access to or deletion of your personal information, and information about our data practices, as well as the right not to be discriminated against for exercising your privacy rights. These rights can be exercised as described in the Data Subject and Consumer Information Requests section above.
+
+**Children**
+
+Children under the age of 13 are not allowed to create an account or otherwise use the Services. Additionally, if you are in the EEA, you must be over the age required by the laws of your country to create an account or otherwise use the Services, or we need to have obtained verifiable consent from your parent or legal guardian.
+
+**Changes to This Policy**
+
+We may change this Privacy Policy from time to time. If we do, we will let you know by revising the date at the top of the policy. If the changes, in our sole discretion, are material, we may also notify you by sending an email to the address associated with your account (if you have chosen to provide an email address) or by otherwise providing notice through our Services. We encourage you to review the Privacy Policy whenever you access or use our Services or otherwise interact with us to stay informed about our information practices and the ways you can help protect your privacy. By continuing to use our Services after Privacy Policy changes go into effect, you agree to be bound by the revised policy.
+
+**Contact Us**
+
+To send a GDPR data subject request or CCPA consumer request, follow the steps in the “Your Rights - Data Subject and Consumer Information Requests” section above.  
+  
+If you have other questions about this Privacy Policy, please contact us at [legal@reddit.com](mailto:legal@reddit.com) or at:  
+  
+Reddit, Inc.  
+548 Market St. #16093  
+San Francisco, California 94104  
+  
+We have also appointed a representative in the EU to receive inquiries about our data practices:  
+  
+Reddit Ireland Limited  
+Attn: Reddit EU Data Inquiries  
+70 Sir John Rogerson's Quay  
+Dublin 2  
+Ireland  
+[eurepresentative@reddit.com](mailto:eurepresentative@reddit.com)
