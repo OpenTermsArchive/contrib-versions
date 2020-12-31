@@ -142,6 +142,12 @@ LibraryThing collects Personally Identifiable Information (PII) for these purpos
 *   To respond to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 *   To provide, support, and improve the services TinyCat offers. This includes sending systematic messages or updates to your patrons, either automatically or on your behalf (such as lending transaction confirmations, setting up checkout or overdue reminders, etc.), allowing you to communicate with your patrons about their account/s, and allowing you to provide patron support.
 
+### Emergency Situations
+
+*   LibraryThing takes member health and safety seriously.
+*   Members are encouraged to report emergency cases, such as when a member has threatened to harm themselves or others, to info@librarything.com and tim@librarything.com. Please put EMERGENCY in the subject line.
+*   LibraryThing cannot guarantee member privacy in emergencies.
+
 ### Member rights
 
 The EU General Data Protection Regulation (GDPR) includes certain rights for certain covered individuals, concerning their personally identifiable information. We intend to voluntarily comply with these provisions, except as limited under applicable law. These rights include:
@@ -168,8 +174,6 @@ LibraryThing uses third-party cookies from Google to anonymously track web usage
 
 When users are not signed in, some LibraryThing pages include Google Adsense advertisements, which set cookies. These cookies are not involved in any site operation, and are not visible to LibraryThing. Google has some new privacy tools for this, debuting soon. For now, out of an abundance of caution, LibraryThing has decided to exclude all Google Adsense advertisements for users determined to be visiting from the EU. These cookies are not essential to site functionality.
 
-LibraryThing does not currently employ, but may soon employ, cookies set by services such as Iovation ([https://www.iovation.com/](https://www.iovation.com/)) or PowerReviews ([https://www.powerreviews.com](https://www.powerreviews.com/)), for the purpose of monitoring for and preventing site abuse, including fraudulent review submission. These cookies are not essential to site functionality, although disabling these cookies may prevent your reviews from being visible outside the site. If part of a larger pattern of site misuse, disabling site-abuse cookies may result in a Terms of Service violation, which is covered elsewhere.
-
 #### Domain Cookies
 
 We use our own domain-specific cookies to store:
@@ -191,6 +195,8 @@ LibraryThing provides Enrichment Services, including LibraryThing for Libraries 
 Our Enrichment Services include aggregate, anonymous and anonymized metadata, such as popularity, average ratings, and tags. No personally-identifiable information is shared with this data.
 
 Our Enrichment Services also include some member-provided reviews. Such sharing includes member names and the content of user reviews. Members can change their settings for the sharing of reviews (see [Privacy Center](https://www.librarything.com/settings/privacy), above), including options to share with no outside entity, with just libraries, or with all entities. Changing these settings in no way affect members' ability to use the site.
+
+Reviews from members who elect to share reviews with all entities may be shared with PowerReviews, a review-aggregation service used by booksellers and retailers. Starting January 15, 2021, this data may include IP addresses, to be used for the sole purpose of PowerReview's fraud- and spam-detection algorithms.
 
 ### Third Party Links
 
