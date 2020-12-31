@@ -7,8 +7,6 @@ Terms of Use
 
 _Effective: January 1, 2021._
 
-To view the previous version, please [click here](https://www.coursera.org/about/terms-old) or scroll down the the Revisions section.
-
 Thank you for using Coursera!
 -----------------------------
 
