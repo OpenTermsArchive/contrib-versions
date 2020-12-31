@@ -7,8 +7,6 @@ Privacy Notice
 
 _Effective: January 1, 2021._
 
-To view the previous version, please [click here](https://www.coursera.org/about/privacy-old) or scroll down the the Revisions section.
-
 Key Information
 ---------------
 
