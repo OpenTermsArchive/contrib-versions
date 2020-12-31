@@ -139,4 +139,4 @@ If you have any questions or concerns about this Privacy Policy, you may contact
 
 By using our Services, you are telling us either that you are 18 years or older and legally able to form contracts, or that an adult with authority to act on your behalf has agreed to these terms and to be responsible for ensuring your compliance with them in your use of the Services and any results you obtain from them. If you don't want to be bound by these terms, do not use the Services or their results.
 
-Revised September 29, 2020
+_Effective January 1, 2021_
