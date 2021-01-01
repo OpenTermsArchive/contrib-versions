@@ -7,13 +7,13 @@ Last modified: April 24, 2018 ([archived versions](https://www.whatsapp.com/lega
 WhatsApp Terms Of Service
 =========================
 
-_If you don't live in the [European Region](https://faq.whatsapp.com/en/26000121), WhatsApp Inc. provides WhatsApp to you under this [Terms of Service](https://www.whatsapp.com/legal?eea=0#terms-of-service) and [Privacy Policy](https://www.whatsapp.com/legal?eea=0#privacy-policy)._
+_If you don't live in the [European Region](https://faq.whatsapp.com/en/26000121), WhatsApp LLC provides WhatsApp to you under this [Terms of Service](https://www.whatsapp.com/legal?eea=0#terms-of-service) and [Privacy Policy](https://www.whatsapp.com/legal?eea=0#privacy-policy)._
 
 In order to provide our Services (as defined below) through our apps, services, features, software, or website, we need to obtain your express agreement to our Terms of Service ("Terms"). You agree to our Terms by registering, installing, accessing, or using our apps, services, features, software, or website.
 
 Our Services
 
-If you live in a country in the European Economic Area (which includes the European Union), and any other included country or territory (collectively referred to as the ["European Region"](https://faq.whatsapp.com/general/26000121/)), WhatsApp Ireland Limited provides the services described below to you; if you live in any other country except those in the [European Region](https://faq.whatsapp.com/general/26000121/), it is WhatsApp Inc. (collectively, "WhatsApp," "our," "we," or "us") that provides the services described below to you (collectively, "Services"):
+If you live in a country in the European Economic Area (which includes the European Union), and any other included country or territory (collectively referred to as the ["European Region"](https://faq.whatsapp.com/general/26000121/)), WhatsApp Ireland Limited provides the services described below to you; if you live in any other country except those in the [European Region](https://faq.whatsapp.com/general/26000121/), it is WhatsApp LLC (collectively, "WhatsApp," "our," "we," or "us") that provides the services described below to you (collectively, "Services"):
 
 *   **Privacy And Security Principles.** Since we started WhatsApp, we've built our Services with strong privacy and security principles in mind.
     
@@ -151,7 +151,7 @@ The arbitration will be administered by the American Arbitration Association (AA
 
 **Opt-Out Procedure.** You may opt out of this agreement to arbitrate. If you do so, neither we nor you can require the other to participate in an arbitration proceeding. To opt out, you must notify us in writing postmarked within 30 days of the later of: (i) the date that you first accepted our Terms; and (ii) the date you became subject to this arbitration provision. You must use this address to opt out:
 
-WhatsApp Inc.  
+WhatsApp LLC  
 Arbitration Opt-Out  
 1601 Willow Road  
 Menlo Park, California 94025  
