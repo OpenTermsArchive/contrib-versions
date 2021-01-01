@@ -88,4 +88,4 @@ Please feel free to contact us, as provided in Section 14, with any questions or
     If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, you may seek further assistance, at no cost to you, from [JAMS](https://www.jamsadr.com/eu-us-privacy-shield "JAMS"), which is an independent dispute resolution body in the United States. Under certain conditions, more fully described on the Privacy Shield website, including when other dispute resolution procedures have been exhausted, you may invoke binding arbitration. We also commit to cooperate with the panel established by the EU data protection authorities (DPAs) and comply with advice given by the panel with regard to human resources data transferred from a European country participating in the Privacy Shield in the context of the employment relationship. We are subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).
     
 
-Copyright © 2020 Ubiquiti Inc. All rights reserved.
+Copyright © 2021 Ubiquiti Inc. All rights reserved.
