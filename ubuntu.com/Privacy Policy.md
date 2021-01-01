@@ -422,7 +422,7 @@ The open source software platform that runs everywhere from the smartphone, the 
 *   [Resources](https://ubuntu.com/engage)
 *   [Press centre](https://ubuntu.com/blog/press-centre)
 
-© 2020 Canonical Ltd. Ubuntu and Canonical are registered trademarks of Canonical Ltd.
+© 2021 Canonical Ltd. Ubuntu and Canonical are registered trademarks of Canonical Ltd.
 
 *   [Legal information](https://ubuntu.com/legal)
 *   [Data privacy](https://ubuntu.com/legal/data-privacy)
