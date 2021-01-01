@@ -7,13 +7,13 @@ Last modified: April 24, 2018 ([archived versions](https://www.whatsapp.com/lega
 WhatsApp Privacy Policy
 =======================
 
-_If you don't live in the [European Region](https://faq.whatsapp.com/en/26000121), WhatsApp Inc. provides WhatsApp to you under this [Terms of Service](https://www.whatsapp.com/legal?eea=0#terms-of-service) and [Privacy Policy](https://www.whatsapp.com/legal?eea=0#privacy-policy)._
+_If you don't live in the [European Region](https://faq.whatsapp.com/en/26000121), WhatsApp LLC provides WhatsApp to you under this [Terms of Service](https://www.whatsapp.com/legal?eea=0#terms-of-service) and [Privacy Policy](https://www.whatsapp.com/legal?eea=0#privacy-policy)._
 
 Respect for your privacy is coded into our DNA. Since we started WhatsApp, we've aspired to build our [Services](https://www.whatsapp.com/legal/?eea=1#terms-of-service-our-services) with a set of strong privacy principles in mind.
 
 If you live in a country in the European Economic Area (which includes the European Union), and any other included country or territory (collectively referred to as the [European Region](https://faq.whatsapp.com/general/26000121/)), your Services are provided by WhatsApp Ireland Limited ("WhatsApp Ireland"), which is also the data controller responsible for your information when you use our Services.
 
-If you live in any other country, except those in the European Region, your Services are provided by WhatsApp Inc., which is also your data controller responsible for your information when you use our Services.
+If you live in any other country, except those in the European Region, your Services are provided by WhatsApp LLC, which is also your data controller responsible for your information when you use our Services.
 
 We are part of the [Facebook Companies](https://faq.whatsapp.com/general/security-and-privacy/the-facebook-companies). Our Privacy Policy ("Privacy Policy") helps explain our information (including message) practices, including the information we process to support our Services. For example, we talk about what information we collect and how this affects you. We also explain the steps we take to protect your privacy - like building WhatsApp so delivered messages aren't stored and giving you control over who you communicate with on our Services.
 
@@ -256,7 +256,7 @@ Our Global Operations
 
 WhatsApp Ireland shares information globally, both internally within the Facebook Companies, and externally with our partners and with those you communicate around the world in accordance with this Privacy Policy. Information controlled by WhatsApp Ireland will be transferred or transmitted to, or stored and processed, in the United States or other countries outside of where you live for the purposes as described in this Privacy Policy. These data transfers are necessary to provide the Services set forth in our [Terms](https://www.whatsapp.com/legal/?eea=1#terms-of-service) and globally to operate and provide our Services to you. We utilize [standard contract clauses](https://faq.whatsapp.com/general/about-standard-contractual-clauses) approved by the European Commission, and may rely on the European Commission's [adequacy decisions](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries) about certain countries, as applicable, for data transfers from the European Economic Area to the United States and other countries.
 
-WhatsApp Inc. shares information globally, both internally within the Facebook Companies, and externally with businesses, service providers, and partners and with those you communicate with around the world. Your information may, for example, be transferred or transmitted to, or stored and processed in the United States or other countries outside of where you live for the purposes as described in this Privacy Policy.
+WhatsApp LLC shares information globally, both internally within the Facebook Companies, and externally with businesses, service providers, and partners and with those you communicate with around the world. Your information may, for example, be transferred or transmitted to, or stored and processed in the United States or other countries outside of where you live for the purposes as described in this Privacy Policy.
 
 Updates To Our Policy
 
@@ -283,7 +283,7 @@ You have the right to lodge a complaint with WhatsApp Ireland's lead supervisory
 
 If you have questions about our Privacy Policy, please [contact us](https://www.whatsapp.com/contact/?subject=privacy&eea=0) or write us here:
 
-WhatsApp Inc.  
+WhatsApp LLC  
 Privacy Policy  
 1601 Willow Road  
 Menlo Park, California 94025  
