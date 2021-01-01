@@ -35,7 +35,7 @@
 
 [17\. Requests for Information and How to Serve a Subpoena](#17-requests-for-information-and-how-to-serve-a-subpoena)
 
-[18\. Specific Terms for Twitch Sings](#18-specific-terms-for-twitch-sings)
+[18\. Specific Terms for Soundtrack by Twitch](#18-specific-terms-for-soundtrack-by-twitch)
 
 #### 1\. Introduction; Your Agreement to these Terms of Service
 
@@ -268,29 +268,7 @@ Please note that Twitch does not accept requests for information or documents, o
 
 The Twitch Services are offered by Twitch Interactive, Inc., located at: 350 Bush Street, 2nd Floor, San Francisco, CA 94104 and email: help@twitch.tv. If you are a California resident, you may have this same information emailed to you by sending a letter to the foregoing address with your email address and a request for this information.
 
-#### 18\. Specific Terms for Twitch Sings
-
-Twitch Sings (“Twitch Sings”), which is part of the Twitch Services, is a free-to-play singing game and streamer tool. It allows anyone to sing rights-cleared music privately or live on their personal Twitch channel, and to create and share VODs with users of Twitch and other users of Twitch Sings. All game activity can be streamed to Twitch without any additional software.
-
-Sing a song start to finish, perform a duet, or go live within a concert setting to hundreds of cheering fans.  Bonus: if you use the Twitch Sings feature that allows you to live stream your performance to Twitch, emotes from chat will rise from the audience, while follows, cheers and subscription notices are highlighted with alerts and in-concert effects.
-
-Before you stage dive on top of screaming fans, several guidelines:
-
-*   Sing the song lyrics as displayed in the app or, when song lyrics are not displayed, to the best of your knowledge;
-*   Avoid altering the fundamental character of any song included in Twitch Sings; and
-*   Behave (in rock parlance: don’t trash the hotel room).  Conduct yourself in accordance with the Community Guidelines and these Terms of Service.
-
-To make available musical works from a variety of artists within Twitch Sings (from rock to pop), Twitch negotiated licenses with many different rights holders and continues to do so in order to add new musical tracks.  The licenses granted to Twitch allow Twitch to use the works, and offer them to you for use, solely in connection with Twitch Sings and the Twitch Services. Twitch Sings content has not been cleared for use outside the Twitch Services. What this means is that, in your new rock-n-roll lifestyle, do not:
-
-*   make unauthorized use of the copyrighted elements of a Twitch Sings song (including the use of the story of a song in another creative work);
-*   assert copyright ownership of the songs (or any arrangements of the songs) provided in Twitch Sings; or
-*   use your performance from Twitch Sings outside the Twitch Services, with the exception that you can use the YouTube exporter tool offered on Twitch.  However, you may not exercise any rights to claim or monetize any exported content, or block, dispute, interfere with, or suppress any attempts by a music rights holder (such as a music publisher who controls the song you recorded) to claim or monetize the exported content.
-
-Doing any of the above may subject you to a notice of alleged infringement from rights holders and their agents. 
-
-Last, we want to alert you to the fact that music rights tend to evolve over time.  Thus, we reserve the right to modify or remove certain songs or other content from Twitch Sings at any time (for example, as necessary to comply with our music licenses or with applicable laws). This may mean that Twitch will be required to take down previously recorded performances. Twitch takes no responsibility and assumes no liability in connection with your use of Twitch Sings.
-
-#### 19\. Specific Terms for Soundtrack by Twitch
+#### 18\. Specific Terms for Soundtrack by Twitch
 
 Soundtrack by Twitch (“Soundtrack”), which is part of the Twitch Services, is a streamer tool designed to give creators the ability to play licensed music in the background of their live streams and upload on-demand videos of those live streams that do not include such music. By downloading, installing, and/or otherwise using Soundtrack, you agree that your download, installation, and/or use of Soundtrack will be governed by these Terms of Service. Twitch’s [Community Guidelines](https://www.twitch.tv/p/legal/community-guidelines/) and [Music Guidelines](https://www.twitch.tv/p/legal/community-guidelines/music/) apply as well, and we recommend that you review both resources prior to using Soundtrack.
 
