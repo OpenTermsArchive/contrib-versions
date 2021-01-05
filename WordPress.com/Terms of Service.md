@@ -373,6 +373,6 @@ The Agreement (together with any other terms we provide that apply to any specif
 
 Automattic may assign its rights under the Agreement without condition. You may only assign your rights under the Agreement with our prior written consent.
 
-[Print friendly version](https://en.support.files.wordpress.com/2020/12/tos-12-07-20.pdf)
+[Print friendly version](https://en.support.files.wordpress.com/2021/01/tos-01-01-21.pdf)
 
 [**Change log**](https://wordpress.com/tos-change-log)
