@@ -1,4 +1,4 @@
-**Last Updated: October 1, 2020**
+**Last Updated: January 5, 2021**
 
 For more information, see [Privacy on Foursquare](https://support.foursquare.com/hc/en-us/articles/201065830).
 
@@ -40,7 +40,7 @@ We may receive data about you from third parties, including:
 *   our Enterprise Customers (e.g. business customers of our Products);
 *   third parties that provide services to us, such as unaffiliated apps and websites, offered by our business partners, including those from whom we license data; and
 
-The information we obtain from third parties includes demographic data, data about how you interact with the third party's websites and apps, device data (including mobile device and advertising identifiers, such as Apple IDFA or Google Advertising ID), and information from cookies, pixels and other similar technologies. In the event that we obtain data about you from our Enterprise Customers and third parties, we will combine all data collected about you into one single profile.
+The information we obtain from third parties includes demographic data, data about how you interact with the third party's websites, apps and smart TVs and streaming devices, device data (including mobile device and advertising identifiers, such as Apple IDFA or Google Advertising ID), and information from cookies, pixels and other similar technologies. In the event that we obtain data about you from our Enterprise Customers and third parties, we will combine all data collected about you into one single profile.
 
 #### 2\. How Is My Data Used By Foursquare?
 
@@ -70,7 +70,7 @@ We may use your data to protect the rights, property or safety of Foursquare, th
 
 Our Products
 
-We use your data in our business products and services (“Products”) that we offer to our partners. In particular, we receive data from unaffiliated apps and websites, online advertising services, and our partners, which we may use to send you advertisements that are tailored to your interests. The data collected for this purpose includes data about how you interact with the Consumer Services or with unaffiliated websites and apps, device data, and data from cookies, pixels or other similar technologies.
+We use your data in our business products and services (“Products”) that we offer to our partners. In particular, we receive data from unaffiliated apps, websites, smart TV providers, online advertising services, and our partners, which we may use to send you advertisements that are tailored to your interests or to measure whether an ad that you were exposed to resulted in a visit to a physical store. The data collected for this purpose includes data about how you interact with the Consumer Services or with unaffiliated websites, and apps, device data, and data from cookies, pixels or other similar technologies.
 
 We combine the data described above with demographic data, location and other interest-based segment data obtained from third parties, including data obtained from the Enterprise Services to provide our Products.
 
@@ -143,7 +143,7 @@ If you are a California resident, please refer to the “California Residents”
 
 #### 7\. Personal Information Retention
 
-To the extent required by applicable law, we keep the personal information you provide for the duration of our relationship, plus a reasonable period thereafter to comply with the applicable statute of limitations and other applicable laws.
+To the extent permitted by applicable law, we keep the personal information you provide for the purposes indicated in this Privacy Policy for the duration of our relationship, plus a period of up to three (3) years, unless we retain the information longer for our legitimate business purposes or to comply with the applicable statute of limitations periods and other applicable laws or legal considerations.
 
 #### 8\. How We Protect Personal Information
 
@@ -159,9 +159,9 @@ U.S. Opt Out
 
 In the United States, the Network Advertising Initiative ("NAI") and the Digital Advertising Alliance ("DAA") have established rules about interest-based advertising including cross-device linking for such advertising. Interest based advertising is a digital advertising that is tailored to a consumer's inferred interests, preferences, and locations. Cross-device linking is the practice of associating different browsers and/or devices (such as mobile devices and televisions) based on information about the likely relationships among them.
 
-Factual Inc. is a member of the NAI and adheres to the NAI Code of Conduct as described on the NAI website. At this time, Foursquare is working towards its compliance with the Code of Conduct. We adhere to the DAA Self-Regulatory Principles as described on the DAA website. At this time, we do not honor web browser Do Not Track (“DNT”) signals or other similar mechanisms. In addition, we may use or transfer data for interest-based advertising, including cross-device linking.
+Foursquare is a member of the NAI and adheres to the NAI Code of Conduct as described on the NAI website. We adhere to the DAA Self-Regulatory Principles as described on the DAA website. At this time, we do not honor web browser Do Not Track (“DNT”) signals or other similar mechanisms. In addition, we may use or transfer data for interest-based advertising, including cross-device linking.
 
-You may opt out of seeing interest-based ads from us or our third party advertising partners on your desktop browser and/or mobile web browser by visiting the DAA at http://www.aboutads.info/choices/ or by visiting the Network Advertising Initiative (“NAI”) at http://www.networkadvertising.org/choices/. You may opt out of seeing interest-based ads and ad delivery/reporting by downloading the DAA’s AppChoices mobile application, which is available here:
+You may opt out of seeing interest-based ads from us or our third party advertising partners on your desktop browser and/or mobile web browser by visiting the DAA at http://www.aboutads.info/choices/ or by visiting the Network Advertising Initiative (“NAI”) at http://www.networkadvertising.org/choices/. You may also opt out of seeing interest-based ads on TV streaming devices and smart TVs by visiting the NAI’s opt out for these devices at https://www.networkadvertising.org/internet-connected-tv-choices/). You may opt out of seeing interest-based ads and ad delivery/reporting by downloading the DAA’s AppChoices mobile application, which is available here:
 
 *   DAA AppChoices iOS
 *   DAA AppChoices Android
@@ -181,11 +181,11 @@ U.S. Segments Disclosure
 
 The NAI requires members to disclose standard interest segments based on health- and wellness-related interests and information, or based on political information or interests, that are used to deliver interest-based advertisements in the United States.
 
-Foursquare Labs, Inc. and its affiliates provide Enterprise Customers with such standard segments to deliver interest-based advertisements and for other purposes; our health segments are based on data that is not considered sensitive under the NAI Code of Conduct. For a list of our standard health and political segments, please [click here](https://foursquare.com/privacy/segments).
+Factual Inc. provides Enterprise Customers with such standard segments to deliver interest-based advertisements and for other purposes; our health segments are based on data that is not considered sensitive under the NAI Code of Conduct. For a list of our standard health and political segments, please [click here](https://foursquare.com/privacy/segments).
 
 #### 11\. California Residents
 
-If you are a California consumer, for more information about your privacy rights, please [click here](https://foursquare.com/legal/ccpa-consumer).
+If you are a California consumer, for more information about your privacy rights, please click [here](https://foursquare.com/legal/ccpa-consumer).
 
 #### 12\. More Information for Consumers From the EEA, UK and Switzerland
 
@@ -220,21 +220,29 @@ Foursquare may transfer the Personal Data we collect about you to recipients in 
 
 EU/Swiss-U.S. Privacy Shield
 
-Foursquare Labs, Inc., Placed, LLC, and Factual Inc. are certified under the EU-U.S. and Swiss-U.S. Privacy Shield frameworks developed by the U.S. Department of Commerce, and the European Commission and Swiss Federal Data Protection and Information Commissioner, respectively. Click [here](https://www.privacyshield.gov/participant?id=a2zt00000008UKoAAM&status=Active) to view Foursquare’s EU/Swiss-U.S. Privacy Shield Privacy Shield certification and [here](https://www.privacyshield.gov/participant?id=a2zt0000000TNnfAAG&status=Active) for Factual Inc’s EU/Swiss-US Privacy Shield Privacy certification.  We no longer rely on the EU-U.S. or the Swiss-U.S. Privacy Shield framework to transfer personal information to the U.S.
+Foursquare Labs, Inc., Placed, LLC, and Factual Inc. are certified under the EU-U.S. and Swiss-U.S. Privacy Shield frameworks developed by the U.S. Department of Commerce, and the European Commission and Swiss Federal Data Protection and Information Commissioner, respectively. Click [here](https://foursquare.com/legal/www.foursquare.com/privacy/privacyshield) to view Foursquare’s EU/Swiss-U.S. Privacy Shield: Consumer Privacy Policy.  We no longer rely on the EU-U.S. Privacy Shield to transfer personal information to the U.S.
 
 Who is Responsible for Your Data?
 
-Foursquare is a data controller for all data collected under this Consumer Services Privacy Policy. We may have shared your data with the following third party data controllers for their own purposes. To learn more about their data practices, please review their privacy policies. 
+Foursquare is a data controller for all data collected under this Consumer Services Privacy Policy.
 
 #### 13\. Changes to this Privacy Policy?
 
-Foursquare may amend this Consumer Services Privacy Policy from time to time. We encourage you to regularly check this page to review any changes we might make in accordance with this Conusmer Services Privacy Policy. We will indicate at the top of the Privacy Policy when it was most recently updated. If we make material changes in the way we use your data, we will notify you by posting an announcement on our Sites or Apps, or by sending you an email (if we have your email).
+Foursquare may amend this Consumer Services Privacy Policy from time to time. We encourage you to regularly check this page to review any changes we might make in accordance with this Consumer Services Privacy Policy. We will indicate at the top of the Privacy Policy when it was most recently updated. If we make material changes in the way we use your data, we will notify you by posting an announcement on our Sites or Apps, or by sending you an email (if we have your email).
 
 #### 14\. Contact Us
 
 If you have any questions or concerns regarding this Privacy Policy, please send a detailed message to our Data Protection Officer: [privacy@foursquare.com](mailto:privacy@foursquare.com) or Foursquare Labs, Inc., 50. West 23rd Street, 8th Floor, New York, NY 10010. We will make every effort to resolve your concerns.
 
-Verasafe has been appointed as Foursquare’s representative in the European Union for data protection matters, pursuant to Article 27 of the General Data Protection Regulation of the European Union. Verasafe can be contacted, in addition to [Foursquare](mailto:privacy@foursquare.com), for matters related to the processing of your personal data only. To make such an inquiry, please contact VeraSafe:
+Verasafe has been appointed as Foursquare’s representative in the (a) European Union for data protection matters, pursuant to Article 27 of the General Data Protection Regulation of the European Union and (b) United Kingdom for data protection matters pursuant to Article 27 of the United Kingdom General Data Protection Regulation. Verasafe can be contacted, in addition to [Foursquare](mailto:privacy@foursquare.com), for matters related to the processing of your personal data only.
+
+If you are in the European Union and would like to make such an inquiry, please contact VeraSafe:
 
 *   online: https://www.verasafe.com/privacy-services/contact-article-27-representative/; or
 *   by mail: VeraSafe Ireland Ltd., Unit 3D North Point House, North Point Business Park, New Mallow Road, Cork T23AT2P, Ireland
+
+If you are in the United Kingdom and would like to make an inquiry, please contact Verasafe:
+
+*   online: https://verasafe.com/public-resources/contactdata-protection-representative;
+*   tel: +44 (20) 4532 2003;
+*   by mail: VeraSafe United Kingdom Ltd. 37 Albert Embankment London SE1 7TL United Kingdom
