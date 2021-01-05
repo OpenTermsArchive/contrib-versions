@@ -134,4 +134,122 @@ FT.com includes comments sections, blogs and other interactive features that all
 
 If you wish to view or participate in a Forum then you must comply with any specific rules posted on the Forum. We also recommend that you read our Comments Guidelines which provide further guidance in relation to commenting on FT.com.
 
-You will retain ownership of the copyright in any of your UGC that you or we publish on FT.com so you are free to re-use it as you wish. You agree that if you post UGC to a Forum then you are granting FT a right (but not an obligation) unlimited in time to publish, re-use, archive, modify, delete or commercially
+You will retain ownership of the copyright in any of your UGC that you or we publish on FT.com so you are free to re-use it as you wish. You agree that if you post UGC to a Forum then you are granting FT a right (but not an obligation) unlimited in time to publish, re-use, archive, modify, delete or commercially exploit that UGC in whole or in part as we see fit, whether on FT.com or otherwise, without any requirement to pay you for this and with or without attribution to you. This means that you grant us a worldwide, non-exclusive, perpetual, irrevocable, royalty-free licence to use any UGC you publish in whole or in part in any manner and for any purpose whatsoever and without further obligation to you. You also waive any moral rights that you may have in regard to the UGC.
+
+You are responsible for all the content of any of your UGC that you or we publish. You are financially responsible to us for any claim against us by any third party that your UGC is not in accordance with the bullet points below or that otherwise relates to your UGC.
+
+You agree that you will:
+
+*   only publish UGC that is your original content and will not infringe the copyright or other rights of any third party when publishing UGC.
+*   not post, link to or otherwise publish any UGC containing any form of advertising or promotion for goods and services or any spam or other form of unsolicited communication.
+*   not post, link to or otherwise publish any UGC with recommendations to buy or not buy a particular share or other investment or which contain confidential information of another party or which otherwise have the purpose of affecting the price or value of any share or other investment.
+*   not post, link to or otherwise publish any UGC that is threatening, offensive, libellous, indecent or otherwise unlawful.
+*   not post comments that are discriminatory in nature, for example, comments which make attacks on the grounds of race, religion, sex, gender, sexual orientation, disability or age.
+*   respectfully challenge different points of view but not personally attack other commentators.
+*   not disguise the origin of any UGC and not impersonate any person or entity (including FT employees or Forum guests or hosts) or misrepresent any connection with any person or entity.
+*   not post or otherwise publish any UGC unrelated to the Forum or the Forum’s topic.
+*   not post or transmit any UGC that contains software viruses, files or code designed to interrupt, destroy or limit the functionality of FT.com or any computer software or equipment.
+*   not collect or store other users’ personal data.
+*   not restrict or inhibit any other user from using the Forums.
+*   comply with the guidelines for commenting set out in our [Commenting FAQ](https://help.ft.com/faq/topic/commenting-on-articles).
+
+The Forums contain UGC submitted by users over whom FT has no control so we cannot therefore guarantee the accuracy, integrity or quality of any UGC. Some users may not behave properly and may post UGC that is misleading, untrue or offensive.
+
+It is not possible for FT to fully monitor all UGC published on FT.com but where we have actually received notice of any UGC that is potentially misleading, untrue, offensive, unlawful, infringes third party rights or is potentially in breach of these terms and conditions, then we will review that UGC, decide whether to remove it from FT.com and act accordingly. This may include banning a user from participation in UGC on FT.com.
+
+Our moderation and community team may contact you from time to time regarding your comments. Comments, including those made under a pseudonym, can be linked to your FT.com account by FT.
+
+For more guidance about commenting on FT.com, please see our Commenting FAQ. If you believe that any UGC published on FT.com infringes any legal rights that you may have or is not allowed under these terms and conditions, please notify us immediately with specific details by contacting us at [help@ft.com](mailto:help@ft.com).
+
+8\. Third Party Sites and Services
+----------------------------------
+
+FT.com may contain links to other Internet websites or online and mobile services provided by independent third parties, including websites of our advertisers and sponsors (what we call “Third Party Sites”), either directly or through frames. Third Party Sites may be co-branded with FT and so include FT’s trade marks.
+
+It is your decision whether you purchase or use any third party products or services made available on or via Third Party Sites and you should read [Section 9](#anchor-our-responsibilities-to-you) below carefully. Our Privacy Policy does not apply to Third Party Sites.
+
+FT.com contains advertising and sponsorship. Advertisers and sponsors are responsible for ensuring that material submitted for inclusion on FT.com complies with international and national law. FT is not responsible for any error or inaccuracy in advertising or sponsorship material.
+
+Copyright in any software that is made available for download from FT.com belongs to FT or its suppliers. Your use of the software is governed by the terms of any licence agreement that may accompany or be included with the software. Do not install or use any of this software unless you agree to such licence agreement. FT is not responsible for any technical or other issues that may happen if you download third party software.
+
+9\. Our Responsibilities To You
+-------------------------------
+
+**A summary of what this section means:** this section is important and you should read it carefully. It makes clear to what extent, if any, FT accepts responsibility (liability) to you for your use of FT.com or the FT Content or in respect of any third party products or services that we refer to or link to on FT.com. Unless you are a personal subscriber to FT.com or have a temporary access pass, we accept no financial responsibility to you arising from your use of FT.com or the FT Content. If you are a personal subscriber to FT.com or have a temporary access pass, we limit our financial responsibility to you arising from your use of FT.com or the FT Content to the price you paid for your subscription or temporary access pass.
+
+In no circumstances do we accept responsibility for your use of Third Party Sites or in respect of any Third Party Products. By Third Party Sites we mean websites, online or mobile services provided by third parties, including websites of advertisers and sponsors that may appear on FT.com. By Third Party Products we mean products or services provided by third parties.
+
+Although this means that we accept very little in the way of financial responsibility for your use of FT.com and the FT Content, we think this is fair on the basis that you can view certain content and services free-of-charge, and the cost of a subscription or temporary access pass for additional access rights is relatively inexpensive. It is not commercially possible for us to accept more responsibility for your use of FT.com than set out in this [Section 9](#anchor-our-responsibilities-to-you) taking into account that we permit you to use FT.com for no or a relatively inexpensive cost.
+
+### **Limitations of FT Content:**
+
+**The FT Content (including any information we publish regarding Third Party Products) is only for your general information and entertainment purposes and is not intended to address your particular requirements. In particular, the FT Content, including UGC and any other content provided by third parties and distributed by FT.com, does not constitute any form of advice, recommendation, representation, endorsement or arrangement by FT. It is not intended to be and should not be relied upon by users in making (or refraining from making) any specific investment, purchase, sale or other decisions. Appropriate independent advice should be obtained before making any such decision, such as from a qualified financial adviser.**
+
+**Any agreements, transactions or other arrangements made between you and any third party named on (or linked to from) FT.com are at your own responsibility and entered into at your own risk. Any information that you receive via FT.com, whether or not it is classified as ”real time”, may have stopped being current by the time it reaches you. Share price information may be rounded up/down and therefore may not be entirely accurate.**
+
+### **What we promise:**
+
+**FT promises to develop and operate FT.com with reasonable skill and care and will use reasonable efforts to promptly remedy any faults of which it is aware.**
+
+### **What we do not promise:**
+
+**FT does not provide any other promises or warranties about FT.com and the FT Content. FT.com and the FT Content are provided on an “as is” and “as available” basis. This means that FT does not make any promises in respect of FT.com or the services and functions available on or through FT.com or of the quality, completeness or accuracy of the information published on or linked to from FT.com other than as expressly stated above.**
+
+**The above disclaimers apply equally to your use of FT.com and all FT Content. Without limiting the above, FT is not liable for matters beyond its reasonable control. FT does not control third party communications networks (including your internet service provider), the internet, acts of god or the acts of third parties.**
+
+### **Our financial responsibility to you:**
+
+**You agree that if we are in breach of these terms and conditions, we will only be responsible to you for any damages that you incur arising out of your use of FT.com or the FT Content (to the extent that FT’s liability is not otherwise excluded by this** **[section 9](#anchor-our-responsibilities-to-you)** **) as follows:**
+
+*   **If you incur any loss as a result of using FT.com or any FT Content outside the scope of these terms and conditions, FT accepts no responsibility (liability) to you for this.**
+*   **You will be responsible for all claims, liabilities, damages, cost and expenses suffered or incurred as a result of your breach of these terms and conditions.**
+*   **FT will only be responsible for loss or damage you suffer which is the reasonably foreseeable result of FT’s breach of a legal duty of care owed to you, but in no event shall the liability of the FT or its affiliates exceed the amount, if any, paid by you to the FT for the particular subscription product to which the claim relates.**
+*   **FT will not be responsible to you for any loss or damage suffered by your business, such as lost data, lost profits or any business interruption.**
+*   **If you have a personal subscription then you may terminate your subscription immediately in writing to FT if FT.com is unavailable or inaccessible to you for either (a) more than 3 consecutive days during your subscription; or (b) more than 5 days in a 30 day period, as a result of the fault or failure of FT, in which case we will refund you any amount that you have paid to us in advance that relates to any period which was still to run on your subscription. You may instead at your option receive a renewal to your subscription free-of-charge at the point of renewal.**
+
+**The limitations of liability in this** **[section 9](#anchor-our-responsibilities-to-you)** **apply for the benefit of FT, its affiliates, including those listed in** **[section 6](#anchor-who-your-personal-subscription-contract-is-with)** **and all of their respective officers, directors, employees, agents or any company who we transfer our rights and obligations to in accordance with these terms and conditions.**
+
+**To the full extent permitted by law you acknowledge and agree that our third party content and data suppliers have no liability whatsoever to you in respect of any of their data supplied to you as part of the FT Content.**
+
+**FT’s liability will not be limited in the case of death or personal injury directly caused by FT’s negligence in those countries where it is unlawful for FT to seek to exclude such liability.**
+
+### **If you use either the Managed Funds or Personal Finance pages:**
+
+**You agree that these areas of FT.com are designed for use by United Kingdom users only and you should not use them if you are ordinarily resident outside of the United Kingdom.**
+
+10\. Choice of Law and Jurisdiction
+-----------------------------------
+
+If you are a user whose principal address or principal use of FT.com occurs in any jurisdiction other than the United States then these terms and conditions will be subject to English law. In this case, to the extent possible in the applicable jurisdiction, both you and we agree that the courts of England will (subject to the final paragraph in this Section 10) have non-exclusive jurisdiction to settle any dispute which may arise out of, under, or in connection with these terms and conditions.
+
+If you are a user whose principal address or principal use of FT.com occurs in the United States then these terms and conditions will be subject to the laws of the State of New York, without regard to its conflict of laws provisions. In this case, to the extent possible in the applicable jurisdiction, both you and we agree that the courts of the State of New York will (subject to the final paragraph in this Section 10) have non-exclusive jurisdiction to settle any dispute which may arise out of, under, or in connection with these terms and conditions.
+
+11\. General
+------------
+
+You may not license or transfer any of your rights under these terms and conditions. We may transfer any of our rights or obligations under these terms and conditions to any company within the Financial Times group of companies but if we do so we will ensure that any company to whom we transfer our rights or obligations will continue to honour your rights under them.
+
+If any provision of these terms and conditions is found to be invalid by any court having competent jurisdiction, the invalidity of that provision will not affect the validity of the remaining provisions of these terms and conditions, which will remain in full force and effect.
+
+Failure by either party to exercise any right or remedy under these terms and conditions does not constitute a waiver of that right or remedy. Headings in these terms and conditions are for convenience only and will have no legal meaning or effect.
+
+These terms and conditions constitute the entire agreement between you and the FT relating to your use of the FT.com website, FT’s mobile and other online services, the Financial Times newspaper and the Content. They supersede all previous communications, representations and arrangements, either written or oral.
+
+FT.com is best viewed with one of our supported browsers. Our current list of supported browsers and the degree to which they are supported can be found [here](http://help.ft.com/faq/browser-compatibility/what-browsers-do-the-ft-support/). Any payment information you send to us over the Internet is encrypted using 128 bit Secure Socket Layer technology. SSL is currently the preferred method to securely transfer credit card data over the Internet.
+
+12\. Content ownership
+----------------------
+
+All FT Content belongs to FT or its licensors who own all intellectual property rights (including copyright and database rights) in the FT Content and any selection or arrangement of the FT Content. No intellectual property rights in any FT Content are transferred to you. ”FT” and ”Financial Times” are registered trade marks and you may not use them without written permission from FT. You are permitted to use FT Content only as set out in our [Copyright Policy](https://help.ft.com/legal-privacy/copyright-policy/).
+
+13\. Corporate Information
+--------------------------
+
+The Financial Times Limited is the publisher of the Financial Times newspaper and the FT.com website, and its corporate details are as follows: registered office address is Bracken House, 1 Friday Street, London, EC4M 9BT; company number is 227590; VAT number GB226162332; and Data Protection Registration Number is Z7087146. In addition, the Managed Funds and Personal Finance areas of FT.com are operated separately by FT Personal Finance Limited whose corporate details are as follows: registered office address is Bracken House, 1 Friday Street, London, EC4M 9BT; company number is 3855520; VAT number GB226162332; and Data Protection Registration Number is Z7670392.
+
+14\. Changes to Terms and Conditions
+------------------------------------
+
+These terms and conditions were published on 1 May 2019 and replace with immediate effect the terms and conditions previously published on 20 June 2018.
+
+[Back to top](#pagetop)
