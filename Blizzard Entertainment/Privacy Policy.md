@@ -478,4 +478,4 @@ If you have questions or concerns regarding your personal information protection
 
 Each EU Member State shall provide one or more independent public authority (ies) to be responsible for monitoring the application of the GDPR in order to protect the fundamental rights and freedoms of natural persons in relation to processing and to facilitate the free flow of personal information within the Union (‘supervisory authority’). If you feel that Blizzard has violated your rights, or if you wish to raise a concern with the data protection authorities, please contact the supervisory authority in the country where you live, work, or where you believe a breach of data protection law has occurred.
 
-Blizzard Entertainment Privacy Policy: Greater European Region, updated 9/2020.
+Blizzard Entertainment Privacy Policy: European Economic Area (EEA) and UK, updated 1/2021.
