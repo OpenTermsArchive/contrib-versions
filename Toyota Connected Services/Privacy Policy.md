@@ -23,7 +23,7 @@ Your vehicle may be equipped with Connected Services that electronically transmi
   
 
 **Toyota Privacy Statement – Summary**  
-This summary of our privacy statement applies to Web sites operated by Toyota Motor Sales, U.S.A., Inc. ("Toyota," "us," or "our") (collectively referred to as the "Platforms"). Some of our products and services may have additional terms that apply, such as vehicles equipped with Connected Vehicle Services technologies. Where product- or service-specific terms conflict with this Privacy Statement, those terms shall govern. Last Updated January 1, 2020
+This summary of our privacy statement applies to Web sites operated by Toyota Motor Sales, U.S.A., Inc. ("Toyota," "us," or "our") (collectively referred to as the "Platforms"). Some of our products and services may have additional terms that apply, such as vehicles equipped with Connected Vehicle Services technologies. Where product- or service-specific terms conflict with this Privacy Statement, those terms shall govern. Last Updated January 1, 2021
 
   
 
@@ -81,7 +81,7 @@ To read our full Privacy Statement [click here.](#privacy)
 
 [\[Versión en Español\]](https://www.toyota.com/espanol/support/privacy.html)
 
-UPDATED AS OF: January 1, 2020
+UPDATED AS OF: January 1, 2021
 
 Toyota Motor Sales, U.S.A., Inc. is committed to maintaining your confidence and trust as it relates to the privacy of your information. Please read below and learn how we collect, protect, share and use your information as part of our technology platforms, including, without limitation, our websites, web pages, interactive features, applications, Twitter, Facebook and other social media networks, and mobile applications ("Platforms"). If you are located in the European Economic Area ("EEA"), which includes the European Union ("EU") Member States, Lichtenstein, Iceland, Norway, and for purposes of this Privacy Statement, the United Kingdom, please visit [https://www.toyota-europe.com/#/ajax/%2Fsys%2Fe-privacy%2Fsettings](https://www.toyota-europe.com/#/ajax/%2Fsys%2Fe-privacy%2Fsettings), as our Platforms are intended only for consumers located in the United States.
 
