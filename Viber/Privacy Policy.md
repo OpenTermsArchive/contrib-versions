@@ -10,7 +10,7 @@ Viber Privacy Policy
 ](http://www.viber.com/viber-privacy-policy#uses-and-retention)[Disclosure  
 ](http://www.viber.com/viber-privacy-policy#disclosure)[Information you Share Publicly  
 ](http://www.viber.com/viber-privacy-policy#information-you-share-publicly)[Your Choices  
-](http://www.viber.com/viber-privacy-policy#your-choices)[Cookies and Tracking Technologies  
+](http://www.viber.com/viber-privacy-policy#your-choices)[Viber Ads, Cookies and Tracking Technologies Policy  
 ](http://www.viber.com/viber-privacy-policy#cookies-and-tracking-technologies)[Accessing Reviewing and Changing Your Personal Information  
 ](http://www.viber.com/viber-privacy-policy#access-review-change-personal-information)[Specific Location Practices: California, EEA residents  
 ](http://www.viber.com/viber-privacy-policy#specific-location-practices)[Third Party Websites  
@@ -27,13 +27,13 @@ In general, we only collect information that allows us to provide you with our b
 
 Starting with Viber 6.0, all of Viber’s core features are secured with end-to-end encryption: Viber calls, one-on-one messages, group messages, private media sharing and linked devices. This means that the encryption keys are stored only on your devices and no one, not even Viber itself, has access to them. To learn more about Viber Encryption, follow this link: [**http://www.viber.com/en/security**](http://www.viber.com/en/security).
 
-Scope and consent
+**Scope and consent**
 
 Before you start sharing good vibes, it’s important you understand that by using our Services, you allow us to collect, use, disclose, and retain your personal information and other information but we will never read or listen to the content you are sharing privately. You can be sure that we will only use your information as described in this Policy.
 
 By using the Service, you are also agreeing to our [**Terms of Use**](http://www.viber.com/terms/viber-terms-use). Please make sure you read and agree with our Terms of Use if you want to use Viber.
 
-Information we collect
+**Information we collect**
 
 First of all, we want you to be assured that we do not read or listen to the content of your messages and/or calls made privately via Viber and we do not store those messages once they have been delivered to their destination (which on average takes less than one second). If for some reason the message wasn’t delivered to its destination within up to 2 weeks, it will be deleted from our servers.
 
@@ -55,13 +55,13 @@ We collect information about the value added services you are using over Viber a
 
 (e) Device and Location Information: We collect additional information when you access our App through a certain device (e.g. your mobile device’s unique identifier; your session’s ip address; information about your device’s operating system, your browser, browser or operating system language; your wireless network, and your mobile carrier; the Viber call log). We may also collect your WPS location data – you can choose whether to allow this by changing your geolocation tracking settings.
 
-Specific Accounts – Viber Out Account, Email Linked to Viber Account
+**Specific Accounts – Viber Out Account, Email Linked to Viber Account**
 
 **Viber Out Account Registration:** Our Viber Out service allows you to call a number outside of the Viber registered community at low cost local rates. When you use Viber Out, you may create a “Viber Account” by selecting a password, and providing certain personal information (e.g., name, email and billing information). We will also keep your Viber Out call detail records for billing and legal records, and to make you relevant offers. When calling through Viber Out, just like regular phone calls you make, details of the call are available to the phone operator of the person you called (and possibly other facilitating phone operators – but this is the same as any regular phone call you make).
 
 **Linking your email to Viber and Rakuten group:** When you select to connect your email to your Viber account, we will use information you provided in the registration process (e.g., name, email, password, phone number), as well as your IP address to do so. When we link your email account to the Viber account, we will also automatically create an account for you with our parent company, Rakuten Inc., and other entities in the Viber corporate family (Group) if you do not already have an account with one of the services. Certain registration and activity data will be shared with the Rakuten corporate family as part of this process, as described below. You can choose to delink your Viber account from the Rakuten account at any time by editing your profile on the app.
 
-Uses and Retention:
+**Uses and Retention:**
 
 Our mission is to constantly improve our Services and provide you with new experiences. As part of this mission, we use your information for the following purposes:
 
@@ -81,7 +81,7 @@ Sending a message to a bot, subscribing to a bot will allow admins of that bot 
 
 **Data Retention:** Unless otherwise specified, we retain information as long as it is necessary and relevant for us to achieve the purposes referred to above or to enable us to comply with our legal data protection retention obligations. Upon deactivation of your account, we will minimize the personal data we keep about you only to such data which we are required to keep to comply with laws, or other legal reasons. We may keep activity data on a non-identifiable basis to improve our services. Your posts on public accounts and communities may remain available if you do not delete them.
 
-Disclosure:
+**Disclosure:**
 
 Your data is kept safe with us, but we do share your personal information with third parties we trust in order to provide you with our services, as follows:
 
@@ -89,7 +89,7 @@ Your data is kept safe with us, but we do share your personal information with t
 
 (b) App Providers and Other Third-Parties: We may disclose your information to service providers and other third-parties under contract who help with providing you and others our Services on our behalf or other services provided by third-parties via our Services (such as, but not limited to, fraud and spam investigations, payment processing, moderation, site analytics and operations, providing special partnership features in our service– either on an aggregate non identifiable basis, or using a unique identifier which is not attributable to you). They are required to secure the data they receive and to use the data for pre-agreed purposes only.
 
-(c) Advertising partners: to enable the limited advertisements on our service, we may share a unique advertising identifier that is not attributable to you, with our third party advertising partners, and advertising service providers, along with certain technical data about you (your language preference, country, city, age, and device data), based on our legitimate interest. This includes partners managing our advertising placements and also advertisers themselves and their agencies or third parties managing their advertising demands. Your unique advertising identifier is created by your mobile device’s operating system and you can change it or choose not to share it at any time. If you want to know more, read our [**Cookies and Tracking Technologies Policy**](https://www.viber.com/terms/cookies-and-tracking/).
+(c) Advertising partners: to enable the limited advertisements on our service, we may share a unique advertising identifier that is not attributable to you, with our third party advertising partners, and advertising service providers, along with certain technical data about you (your language preference, country, city, age, and device data), based on our legitimate interest. This includes partners managing our advertising placements and also advertisers themselves and their agencies or third parties managing their advertising demands. Your unique advertising identifier is created by your mobile device’s operating system and you can change it or choose not to share it at any time. If you want to know more, read our [**Viber Ads, Cookies & Tracking Technologies Policy**](https://www.viber.com/en/terms/cookies-and-tracking/)
 
 (d) Legal and Law Enforcement: We may disclose your information to law enforcement, governmental agencies, or authorized third-parties, in response to a verified request relating to terror acts, criminal investigations or alleged illegal activity or any other activity that may expose us, you, or any other Viber user to legal liability.
 
@@ -97,7 +97,7 @@ Your data is kept safe with us, but we do share your personal information with t
 
 Because Viber is global, the recipients above may be located outside the country in which you are located. See the section on “International Data Transfers” below for more information.
 
-Information You Share Publicly
+**Information You Share Publicly**
 
 Some of our Services allow you to share information with others on a public basis. If you post information on a public feature of our Services or through social media sites, plug-ins or other applications, do not forget this information is public on our Services and, depending upon your privacy settings, may also become public on the Internet. When you post on Communities, the admin of the Community has the ability to allow everybody to access it, but you can always actively delete messages you posted. We cannot prevent or control further use of this information so please make sure you only post information that you’re happy to be seen publicly. We may also further use such public information you share, for various reasons, such as improving our service and providing you with relevant content, and analyzing trends.
 
@@ -105,21 +105,21 @@ You can control what data you share through privacy settings available on some s
 
 At this stage, whatever you share publicly is available to the entire Viber community. If you wish to remove a certain piece of content you have shared in the past, you can do that by deleting that content. It will be removed from our services but may remain on local devices of some users (assuming they have chosen to save it).
 
-Your Choices
+**Your Choices**
 
 We want you to have control over how you communicate. That is why, for example, we allow you to delete messages even after they have been sent (it will be deleted for you, your friend and our service). How cool is that? You can also control your privacy settings within the App to change the visibility of your online status or prevent other users from knowing which Viber apps and games you are using. You can disable the “seen” notification so that other users do not know whether you’ve read a message yet. You can choose not to share your photo and/or birthday, not to allow other users to look you up by name, request your data and request to delete your data along with many other additional options, which are available within the app. You can also make additional choices on your phone’s settings by changing our app’s permissions such as location sharing, access to contact list and more.
 
 Every now and then, Viber may send you updates about administration and operation of the Service (for example, about your transactions, policy changes, technical issues, etc.). We may also send notifications about offerings by Viber or third-parties, that we think may be of interest to you. If you do not wish to receive such notifications, you may adjust your system settings to decline them.
 
-Cookies and Tracking Technologies
+**Viber Ads, Cookies & Tracking Technologies Policy**
 
-When you visit the App and/or our Website, we and our business partners may use cookies and other tracking technologies for a variety of purposes. To learn more, visit our [**Cookies and Tracking Technologies Policy**](http://www.viber.com/terms/cookies-and-tracking).
+When you visit the App and/or our Website, we and our business partners may use cookies and other tracking technologies for a variety of purposes. To learn more, visit our **[Viber Ads, Cookies & Tracking Technologies Policy.](https://www.viber.com/en/terms/cookies-and-tracking/)**  
 
-Accessing, Reviewing, and Changing Your Personal Information
+**Accessing, Reviewing, and Changing Your Personal Information**
 
 As a registered member, you can review and change personal information at any time by accessing your account on the App or contacting our support. Please be sure to update your personal information promptly if it changes or becomes inaccurate. We may retain some information from closed accounts so that we can comply with law, prevent fraud, assist with investigations, resolve disputes, analyze, or troubleshoot programs, enforce our Terms of Use, or take other actions permitted by law. Likewise, if your account or membership is terminated or suspended, we may maintain some information to prevent you from re-registering.
 
-Specific Location Practices: California, EEA residents
+**Specific Location Practices: California, EEA residents**
 
 **California Privacy Rights**
 
@@ -148,39 +148,39 @@ We must have a legal basis to process your personal information. In most cases t
 *   to protect the vital interests of the data subject or of another natural person.
 *   necessary for the performance of a task carried out in the public interest.
 
-We may obtain your consent to collect and use certain types of personal information when we are required to do so by law (for example, in relation to Cookies and Tracking Technologies or when we process accurate location data for purposes other than performing the service). If we ask for your consent to process your personal information, you may withdraw your consent at any time by contacting us using the details at the end of this privacy notice or by changing your setting within the app or by changing the setting within the App. We encourage you to contact us to update or correct your information if it changes or if the personal information we hold about you is inaccurate. Viber Media S.a.r.l is the controller of data we collect and process according to this privacy policy. We are committed to working with you to obtain a fair resolution of any complaint or concern about privacy. If, however, you believe that we have not been able to assist with your complaint or concern, you have the right to make a complaint to your data protection authority or to the data protection authority of Luxembourg using their [**online form**](https://cnpd.public.lu/en/droits/faire-valoir/formulaire-plainte.html).
+We may obtain your consent to collect and use certain types of personal information when we are required to do so by law (for example, in relation to Viber ads, Cookies and Tracking Technologies or when we process accurate location data for purposes other than performing the service). If we ask for your consent to process your personal information, you may withdraw your consent at any time by contacting us using the details at the end of this privacy notice or by changing your setting within the app. We encourage you to contact us to update or correct your information if it changes or if the personal information we hold about you is inaccurate. Viber Media S.a.r.l is the controller of data we collect and process according to this privacy policy. We are committed to working with you to obtain a fair resolution of any complaint or concern about privacy. If, however, you believe that we have not been able to assist with your complaint or concern, you have the right to make a complaint to your data protection authority or to the data protection authority of Luxembourg using their [**online form**](https://cnpd.public.lu/en/droits/faire-valoir/formulaire-plainte.html).
 
 **Viber Land Privacy Rights**
 
 If you made Viber your daily choice for connecting and sharing, make sure to be sending good vibes and make your friends smile. Eventually, this is what Viber is for.
 
-Third-Party websites and Apps:
+**Third-Party websites and Apps:**
 
 Our app may contain links to other third-party websites or you may access Apps from a third- party site. We are not responsible for the privacy practices or the content of these third-party sites.
 
 Back-Up: When you back-up your Viber conversations, they are kept on your device’s service according to operating system’s (Google/ iOS / desktop operating system) terms and policies and are no longer protected by Viber’s end to end encryption.
 
-Security
+**Security**
 
 We know that security is important to our users and we care about the security of your information. We maintain technical, physical, and administrative security measures to protect the security of your personal information against loss, misuse, unauthorized access, disclosure, or alteration. Some of the safeguards we use include firewalls, data encryption, physical access controls to our data centers and information access authorization controls. We need your help too: it is your responsibility to make sure that your personal information is accurate and that your password(s) and account registration information are secure and not shared with third-parties. Starting with Viber 6.0, all of Viber’s core features are secured with end-to-end encryption: Viber calls, one-on-one messages, group messages, private media sharing and secondary devices. This means that the encryption keys are stored only on the clients’ devices and no one, not even Viber itself, has access to them. To learn more about Viber Encryption, follow this link: [**http://www.viber.com/en/security**](http://www.viber.com/en/security).
 
-Children’s Privacy
+**Children’s Privacy**
 
 Our Services are not intended for children under the age of 13. Therefore we do not knowingly collect personal information via our websites, applications, services, or tools from anyone under 13. In the EEA, certain default privacy settings will be applied to users under the age of 16 and can only be changed if the legal guardian instructs so in writing.
 
-International Transfer
+**International Transfer**
 
 We operate internationally and provide our Services to Viber users worldwide allowing them to communicate with each other across the globe. That means that your personal information may need to be processed in countries where data protection and privacy regulations may not offer the same level of protection as in your home country. We store and process your personal information on our computers in the United States, Asia, Europe (including Russia), Australia and Brazil, and use service providers that may be located in various locations outside of the European Economic Area (EEA). We have put in place appropriate safeguards (such as contractual commitments) in accordance with applicable legal requirements to ensure that your data is adequately protected. For more information on the appropriate safeguards in place, please contact us at the details below. As part of the Rakuten Group, Viber relies on the Rakuten Group Binding Corporate Rules to legitimize international data transfers within the Group. The Rakuten Group Binding Corporate Rules can be found at  [**https://corp.rakuten.co.jp/privacy/en/bcr.html**](https://corp.rakuten.co.jp/privacy/en/bcr.html).
 
-B2B Partners Data
+**B2B Partners Data**
 
 When you communicate with us for business purposes as a b2b partner of ours, we will save your contact data provided by you (phone number, email, address etc.), as well as any correspondence we have had. We use trusted third party processors to keep such data, all in accordance with the provisions of this privacy policy. You have the ability to opt out of our direct marketing emails at any time and to contact us with any request regarding your data.
 
-Updates to this Policy
+**Updates to this Policy**
 
 From time to time, as our services evolve, we may update this Policy. You agree that we may notify you about material changes in the way we treat personal information by placing a notice on the App. Please check the App frequently for updates.
 
-Contact Us
+**Contact Us**
 
 If you still have questions about our privacy policy, please feel free to send us an email to [**privacy@viber.com**,](mailto:privacy@viber.com) or using the contact us form on the App. You can also contact us in writing at Viber Media S.à r.l., Attention: Data Privacy Officer, 2, rue du Fossé, L- 1536 Luxembourg, Grand Duchy of Luxembourg.
 
