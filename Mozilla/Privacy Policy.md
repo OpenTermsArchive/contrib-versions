@@ -1,7 +1,7 @@
 Websites, Communications & Cookies Privacy Notice
 =================================================
 
-September 23, 2020
+January 8, 2021
 
 We care about your privacy. When Mozilla (that's us) collects information about you, our [Mozilla Privacy Policy](https://www.mozilla.org/privacy/) describes how we handle that information.
 
@@ -20,7 +20,7 @@ We may receive personal information from you based on your interaction with us o
     
 *   **User Feedback**: You can provide feedback to us on our products and services on webpages like [input.mozilla.org](https://input.mozilla.org/), through an in-product experience, or through channels such as email, Bugzilla, Matrix, a social media account, our Get Involved page, or through a group like Student Ambassadors. Please minimize the personal information you choose to share on these forums because your comments may be accessible to the public.
     
-*   **Accounts & Subscriptions**: Some websites, for example AMO and MDN require account creation to submit developer content or submit user reviews or comments. For account management we use [Firefox Accounts](https://www.mozilla.org/privacy/firefox/), [Github](https://help.github.com/en/github/site-policy/github-privacy-statement#our-use-of-cookies-and-tracking), or custom systems; see [here](https://support.mozilla.org/kb/managing-account-data) to manage account data. You may periodically receive emails in connection with your account or through subscriptions. Our email management vendors are [SalesForce Marketing Cloud](https://www.marketingcloud.com/privacy-policy/website-privacy-statement/), [Send in Blue](https://www.sendinblue.com/legal/privacypolicy/), or [Mailchimp](https://mailchimp.com/legal/privacy/), and you can unsubscribe using the link at the bottom of the email.
+*   **Accounts & Subscriptions**: Some websites, for example AMO and MDN require account creation to submit developer content or submit user reviews or comments. For account management we use [Firefox Accounts](https://www.mozilla.org/privacy/firefox/), [Github](https://help.github.com/en/github/site-policy/github-privacy-statement#our-use-of-cookies-and-tracking), or custom systems; see [here](https://support.mozilla.org/kb/managing-account-data) to manage account data. You may periodically receive emails in connection with your account or through subscriptions. Our email management vendors are [SalesForce Marketing Cloud](https://www.marketingcloud.com/privacy-policy/website-privacy-statement/), [Send in Blue](https://www.sendinblue.com/legal/privacypolicy/), [Mailchimp](https://mailchimp.com/legal/privacy/), or [Acoustic](https://acoustic.com/privacy-notice/) and you can unsubscribe using the link at the bottom of the email.
     
 *   **Product & Policy Campaigns**: Some of our webpages host product or policy campaigns. For example, you can request a link by email or SMS to install Firefox on your mobile device or petition your legislators on internet issues. We may use third parties to manage these campaigns and handle any data that you choose to submit.
     
