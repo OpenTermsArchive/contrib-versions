@@ -3,253 +3,261 @@ Terms and Conditions
 
 Please read this carefully because it sets out the terms of a legally binding agreement between you and the Financial Times. If you subscribe to receive the Financial Times newspaper, [our newspaper terms and conditions](https://help.ft.com/legal-privacy/terms-and-conditions/financial-times-newspaper-terms-and-conditions/) also apply.
 
-1\. Introduction
+1\. About our Terms
+-------------------
+
+**1.1.** We are The Financial Times Limited (""we", "us", or "our"), a limited company registered in England and Wales and our registered address is Bracken House, 1 Friday Street, London, England, EC4M 9BT. Our company number is 00227590, our UK VAT registration number is GB226162332 and our data protection registration number is Z7087146. If you need any of our other tax ID numbers please contact [Customer Care](https://help.ft.com/contact/)
+
+**1.2.** These Terms and Conditions apply whenever you :
+
+*   use FT.com, FT.com mobile and online digital apps and services (together “FT.com”) and access the content and services available on them including the Financial Times newspaper (the “Newspaper”) (together, the “FT Content”); and
+*   purchase access to FT.com, the Newspaper and/or the FT Content (together, the "FT Services") on a subscription basis.
+
+**1.3.** You should read these Terms and Conditions carefully before using FT.com and/or FT Content or subscribing to the FT Services. By accessing, using or subscribing to any of the above, you agree to be bound by these Terms and Conditions (as applicable) and the documents referred to in them.
+
+**1.4.** If you access FT.com under an organisation’s subscription agreement, then your access is primarily governed by the subscription agreement between us and that organisation. In the event of any conflict between these Terms and Conditions and the organisation's subscription agreement (as applicable), the terms of the organisation's subscription agreement shall prevail to the extent of the inconsistency only. If you have any questions about the FT Services or if you have any difficulties using FT.com, please [chat with us online, call us on your regional telephone number](https://help.ft.com/contact/), or email us at [help@ft.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=help@ft.com).
+
+[](#anchor-access-and-use)2\. Your Subscription to the FT Services
+------------------------------------------------------------------
+
+**Subscribing to the FT**
+
+**2.1.** We offer a range of subscriptions:- 
+
+*   to FT.com (“Digital Subscriptions”);
+*   the Newspaper (“Print Subscriptions”),
+*   to both FT.com and the Newspaper (“Bundled Subscriptions”); and 
+*   we also offer subscriptions on a trial basis ("Trial Subscriptions")
+
+The above are referred together as "**the Subscriptions**" and individually as a "Subscription". Please note that separate and/or additional terms and conditions may apply to any Trial Subscriptions that we may offer. Any such additional terms shall be clearly indicated. 
+
+**2.2.** You may not take more than one Trial Subscription in any twelve-month period.  We may cancel any Trial Subscription that you may have purchased, without refund, if you have had access to any other Trial Subscription in the previous twelve months.
+
+**2.3.** You may purchase a Subscription by submitting an order and providing the sign up details on FT.com, by phone, email, using our Live Chat on FT.com or by letter. We will only accept your order when we have successfully verified your email address, processed your payment details and emailed you to confirm this.
+
+**2.4.** We will try to process your Subscription order promptly but cannot guarantee activation by any specified time. We may reject any Subscription order in our discretion. You confirm that your sign up and payment details are complete and accurate, and that you are entitled to purchase a Subscription using those sign up and payment details.  It is your responsibility to update and maintain changes to your sign up details on our [Manage Your Account](https://registration.ft.com/youraccount/details/core/view?execution=e2s1). Each Subscription is for a single user only. We may cancel or suspend your Subscription account if you share your access rights with any third parties, or attempt to allow third parties to avoid our control of access to FT.com. 
+
+**Fees and Payment**
+
+**2.5.** You agree to pay the Subscription fees at the rates and in the currency displayed during the Subscription process.  Prices may vary from time to time and by country, and Subscriptions may be available on a one-off, monthly, annual or other basis.  Discount offers are as stated at the time you subscribe and cannot be changed during the term of your subscription. Unless otherwise indicated, prices stated are inclusive of any applicable value added tax (VAT) or other sales taxes. The breakdown of any VAT will be indicated on the relevant invoice.
+
+**2.6.** If we do not receive payment authorisation or any authorisation is subsequently cancelled, we may immediately terminate or suspend your Subscription. 
+
+**2.7.** If you take a Trial Subscription, we will inform you of the full Subscription price payable at the start of the trial period. Your Subscription will renew automatically at the end of that trial period at the full Subscription price unless you cancel your Subscription before the end of the trial period. To cancel your Subscription during the trial period please go to [Manage Your Account](https://registration.ft.com/youraccount/details/core/view?execution=e2s1) and follow the simple cancellation instructions.
+
+**2.8.** We will give you at least 14 days’ notice of any increase in the price of your Subscription, which will take effect at your next renewal date.
+
+**2.9.** If we incorrectly state a price online or otherwise, we are not obliged to provide you with a Subscription at that price, even if we have mistakenly accepted your offer to buy a Subscription.  If we notify you of a pricing error, you may cancel the Subscription and we will refund you any money paid, or you may pay the correct price. If you do neither, we may cancel your Subscription and refund any money you have paid. We will always act in good faith in determining whether a genuine pricing error has occurred.
+
+**2.10.** If you are entitled to a refund we will credit that refund to the card or other payment method you used to submit payment, unless it has expired in which case we will contact you to arrange.
+
+**2.11.** In addition to the Subscription fees you are responsible for paying for any:
+
+*   broadband, mobile, data, messaging or other internet connection and telecommunications charges that you may incur by accessing FT Content; 
+*   charges that may be levied by your bank or credit card issuer (for example foreign transaction fees on transactions which take place abroad or in a foreign currency).
+
+**2.12.** We will do all that we reasonably can to ensure that all of the information you give us when paying is secure by using an encrypted secure payment mechanism. However, in the absence of negligence on our part, any failure by us to comply with this contract or our Privacy Policy or breach by us of our duties under applicable laws, we will not be legally responsible to you for any loss that you may suffer if a third party gains unauthorised access to any information that you give us.
+
+**Home Delivery**
+
+**2.13.** We will deliver your Newspaper from Monday through to Saturday to the address you provided during the sign-up process if it is within our delivery areas. We do not guarantee delivery to non-secure locations or beyond ground floor levels.  Any special delivery requests may be printed on your Newspaper and seen by third parties, and we cannot guarantee that these requests will be fulfilled.
+
+**2.14.** We aim to commence delivery of your Newspaper within 2 business days (UK), 7-10 business days (Eurozone) or 10-12 business days (United States) of your Subscription commencing.  Delivery times for other regions will be confirmed separately. 
+
+**2.15.** If you do not receive your Newspaper on the expected delivery date, please [contact us](https://help.ft.com/contact/) within 7 days and we may arrange an extension or credit for that delivery (excluding Trial Subscriptions).
+
+**2.16.** If you wish to change your address for home delivery then please [contact us](https://help.ft.com/contact/) at least 10 days' before the date on which you wish your change of address to take effect. If we are not able to provide you with a home delivery service to your new address then:
+
+*   If you have a Print Subscription we will cancel your Subscription and issue a pro rata refund for the unexpired period of your Subscription; and 
+*   If you have a Bundled Subscription we will cancel your Subscription, issue a pro rata refund for the unexpired period of your Subscription and, at your option, transfer you onto a new Digital Subscription. 
+
+**Paper or Digital Vouchers**
+
+**2.17.** You may only redeem vouchers for Newspapers (subject to availability) at participating UK retailers on the date shown on the voucher, except FT Weekend which is also valid on the Sunday of the same weekend.  Vouchers cannot be exchanged for cash or any other products. You must not copy, resell or transfer vouchers to anyone else.  
+
+**2.18.** Paper vouchers will be posted and digital vouchers will be emailed using the information you provided during the sign-up process. 
+
+**2.19.** If your Subscription has been cancelled, vouchers will no longer be valid and you must promptly post any unused paper voucher packs to the address printed on the back of the pack.  We may provide a refund for any vouchers that relate to the remainder of a Subscription period you have already paid for, and we reserve the right to charge you for any voucher packs that have not been returned which relate to a period for which you have not yet paid. 
+
+**Your Cancellation Rights**
+
+**2.20.** Digital Subscriptions:
+
+*   By placing your order for a Digital Subscription subject to these Terms and Conditions, you agree that we may start your Subscription immediately upon our acceptance of your order and that you waive your statutory right to cancel our contract within 14 days of our confirmation email. 
+*   This means that you lose your right to cancel this contract once we have provided confirmation via email of your Digital Subscription (see section 2.3 above) and that any notice of cancellation that you provide (whether before or after the 14-day period) will only take effect at the end of your current subscription period. You will not be entitled to a refund except in the event that there is a fault in our provision of our FT Services. 
+
+**2.21.** Print Subscription or Bundled Subscription:
+
+*   You have the right to cancel our contract for a Print Subscription or Bundled Subscription within 14 days of our confirmation email (see section 2.3 above) without giving any reason. 
+*   If you exercise your right to cancel within that period, we will reimburse all payments received from you, less a \[pro rated\] amount for each Newspaper you received before cancelling.
+*   After the above period has expired, you may cancel your Print Subscription or Bundled Subscription by notifying us at any time of your intention to do so. However, the cancellation will only take effect at the end of your then current Subscription period, and you will not be entitled to a refund except in the event that there is a fault in our provision of our FT Services.
+
+**2.22.** To exercise the above rights to cancel, you must inform us of your decision to cancel the contract by using [our online chat feature, calling us on your regional telephone number,](https://help.ft.com/contact/) or emailling us at [help@ft.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=help@ft.com) with the following: "I/We hereby give notice that I/we cancel my/our subscription". Please then include:
+
+*   the subscriber's full name (person on the billing information if different from the user);
+*   the Account email address or Account Number (Customer Reference Number);
+*   the billing address and delivery address (Including zip code/postcode); and
+*   your contact telephone number.
+
+You may also use your [regional telephone number](https://help.ft.com/contact/) to temporarily suspend Newspaper delivery if you have an Bundled Subscription, for example if you are going on holiday, although you must provide at least 5 business days advance notice for this to be implemented.
+
+**Our Cancellation Rights**
+
+**2.23.** We may suspend or terminate your Subscription if we are prevented from providing services to you by circumstances beyond our control, or if we cease publishing the Newspaper or FT.com or FT Services.  If we terminate for any of these reasons, we will provide you with a pro rata refund.
+
+**2.24.** We may also suspend or terminate your Subscription, without refund, if you breach these Terms and Conditions, or in the event of any verbal or written abuse of any kind (including abusive, offensive or aggressive language) directed towards our Customer Care team, other FT personnel, or any member of the public, with or without notice and without further obligation to you. 
+
+**2.25.** If you are not a Subscriber, then we may suspend or terminate your access to the FT Content at any time, with or without notice and without further obligation to you.
+
+**Effects of cancellation**
+
+**2.26.** If you are entitled to a refund, we will make the reimbursement without undue delay, and not later than 14 days after the day on which we are informed about your decision to cancel your Subscription.
+
+**2.27.** We will make the reimbursement using your registered payment details detailed within [Manage Your Account](https://registration.ft.com/youraccount/details/core/view?execution=e2s1). Additional charges may apply if we are required to reimburse to any other credit card or bank. 
+
+**2.28.** If you have received copies of the Newspaper as part of your Subscription, you will not be expected to return these copies, but we will retain payment for such in accordance with these Terms and Conditions.
+
+**2.29.** If you access the FT Services by exchanging the Newspaper for voucher packs which are issued by us, we reserve the right to charge you the subscription fee for the renewal period if we have sent you voucher packs that have not been returned before your subscription start date. We will provide you with a refund of the subscription fee on receipt of the complete returned voucher pack.
+
+**Renewals**
+
+**2.30. Unless you notify us at least 14 days before the end of your current subscription period that you wish to cancel, your subscription will continue to renew for further equivalent periods and will be subject to these Terms and Conditions. We will charge the subscription using the same card or other payment method that you previously used. In the case of annual subscriptions, we will send you a reminder notice at least 14 days before the renewal date stating the rate that will apply for the renewal period.** 
+
+3\. Using FT.com
 ----------------
 
-This page sets out the terms and conditions on which you may use FT.com, the Financial Times newspaper and the content/services available on them (which we call “FT Content”). We only make these terms and conditions available in the English language.
+**Ownership of FT.com and FT Content**
 
-In these terms we use the term “FT.com” to refer to our website at [FT.com](https://ft.com/) and our other mobile and online digital apps and services.
+**3.1.** FT.com and FT Content and all intellectual property rights in each are owned by us, our licensors or both (as applicable). Intellectual property rights means rights such as: copyright, trade marks, domain names, design rights, database rights, patents and all other intellectual property rights of any kind whether or not they are registered or unregistered (anywhere in the world). We reserve all of our rights in any intellectual property in connection with these Terms and Conditions. This means, for example, that we remain owners of them and free to use them as we see fit.
 
-Except where we state otherwise in [Section 7](#anchor-user-generated-content), references in these terms and conditions to “FT” (or “we”, “us” or “our”) refer to the company operating FT.com. See [Section 12](#anchor-content-ownership) below for our corporate information.
+**3.2.** Nothing in these Terms and Conditions grants you any legal rights in FT.com or the FT Content other than as necessary to enable you to access FT.com and use the FT Services. You agree not to adjust, to try to circumvent or delete any notices contained on FT.com (including any intellectual property notices) and in particular in any digital rights or other security technology embedded or contained within FT.com.
 
-These terms apply in different ways depending on what type of user you are, as follows:
+**3.3.** "FT" and "Financial Times" are registered trade marks and you may not use them without written permission from FT. You are permitted to use the FT Content only as set out in our [Copyright Policy](https://help.ft.com/legal-privacy/copyright-policy/).
 
-**Registered users and personal subscribers:** These terms apply to your use of FT.com and all FT Content irrespective of the delivery platform or device you use to access it. By accessing FT.com you are agreeing to these terms and conditions. If you do not agree with the terms and conditions you should not use FT.com or any FT Content and should cancel any subscription in accordance with your cancellation rights (see [Section 6](#anchor-who-your-personal-subscription-contract-is-with) below). If you have any questions please contact [help@ft.com](mailto:help@ft.com).
+**Accessing and using FT Content** 
 
-We strongly recommend that you read these terms and conditions in their entirety. For further details of our registration and subscription options, please see our Registering and Subscribing Guide.
+**3.4.** You agree to comply with our [Copyright Policy](https://help.ft.com/legal-privacy/copyright-policy/) when using FT Content. You are responsible for all use of FT Content whether accessed without a Subscription as a registered user, under your Subscription, or under your organisation’s Subscription.
 
-**Users with access under an organisation’s subscription agreement:** Your continued access is primarily governed by the subscription agreement of the organisation through which you are able to use the FT.com website. Sections 4 to 6 below are not applicable to such users. The remaining terms and conditions apply to your use of the FT.com website or any FT Content. By accessing FT.com you are agreeing to these terms and conditions. If you do not agree with these terms and conditions, then you should not use FT.com or any FT Content.
+**3.5.** The amount and types of FT Content that you can view depend on what type of subscription you have. If you already have a subscription, details of your access rights can be found at [Your Account](https://registration.ft.com/youraccount/subscriptions). We may vary or cancel the access rights of non-paying users at any time.  
 
-**All users:** These terms and conditions replace all previous terms and conditions for FT.com. FT may update these terms and conditions for legal or regulatory reasons, or to reflect changes in our services or business practices. We will provide notice of any significant changes in [Section 14](#anchor-changes-to-terms-and-conditions) below. You should regularly check [Section 14](#anchor-changes-to-terms-and-conditions) to see if any changes have been made. If you are an FT.com subscriber, any changes to our terms and conditions will become effective from the date of your next payment following the change unless we notify you otherwise. If you are not an FT.com subscriber, any changes will become effective as soon as we post them on FT.com.
+**3.6.** Your access to FT Content will vary depending on whether you have a FT Standard or FT Premium Digital Subscription. An FT Standard Subscription provides an overview of the most important business, political and economic stories from around the world whereas an FT Premium Subscription gives readers full access to FT journalism, including exclusive additional analysis and insight. 
 
-We may in exceptional circumstances cease to publish FT.com, the FT Content or cease to provide subscription services. We will give you at least 90 days’ notice of this, if possible. If we do so, then we will have no further obligation to you, unless you are a personal subscriber in which case we will offer you a refund of the unexpired period of your paid subscription. See [Section 5](#anchor-renewals-and-cancellations) for details.
+**3.7.** We reserve the right to amend the scope of your Digital Subscription from time to time. We will give you at least 30 days’ notice of any significant reduction in the scope of your Digital Subscription, and these will only take effect from the date of your next payment following that 30-day period. This does not apply where a type of content or service intended for FT Premium subscriptions is made available to FT Standard subscribers on an introductory, temporary or trial basis. 
 
-[](#anchor-access-and-use)2\. Access and Use
---------------------------------------------
+**3.8.** On registration, you will choose a user name and password (“ID”). It is your responsibility to keep your ID confidential. The email address must not correspond to a generic or shared email account, and you must be entitled to use that e-mail address.  All information received by us from your use of FT Content will be used by FT in accordance with our [Privacy Policy](https://help.ft.com/legal-privacy/privacy-policy/).
 
-Our ability to invest in high quality journalism depends on our users complying with this [Section 2](#anchor-access-and-use). Please read our [Copyright Policy](https://help.ft.com/legal-privacy/copyright-policy/) that summarises how you are allowed to use FT Content and provides guidance on the types of use we do not permit without the purchase of additional licences from the FT. You agree that you will comply with our Copyright Policy.
+**3.9.** If you believe there has been any breach of security such as the disclosure, theft or unauthorised use of your ID or any payment information, you must notify FT immediately by e-mailing us at [help@ft.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=help@ft.com). We recommend that you do not use FT.com’s “Remember me” log in feature on any device that may be used by anyone other than you in order to prevent unauthorised access to FT.com and your Subscription details.
 
-Organisations that may be using FT Content without the appropriate permissions may approach us with a view to discussing the purchase of a licence to legitimise that use. See [http://ftcorporate.ft.com/](http://ftcorporate.ft.com/) for details.
+**User Generated Content**
 
-The amount and types of FT Content that you can view, and the platforms on which you can view FT Content, depend on what type of user you are and what type of subscription (if any) you have. We can vary the access rights of registered users who are not accessing through a paid subscription at any time at our discretion.
+**3.10.** FT.com includes comments sections, blogs and other features that allow interaction between users and between users and FT journalists (“Forums”). If you post information to these Forums (“User Generated Content” or “UGC”) then you must comply with our [guidance for commenting on articles](https://help.ft.com/faq/topic/commenting-on-articles) plus any specific rules posted on the Forum. You are responsible for all the content of any of your UGC that you or we publish. You are financially responsible to us for any claim against us by any third party that your UGC is not in accordance with these Terms and Conditions or that otherwise relates to your UGC.
 
-For further access, we offer various types of individual and corporate subscriptions; see [Section 4](#anchor-personal-subscription-services) for details of individual subscriptions, and [http://ftcorporate.ft.com/](http://ftcorporate.ft.com/) for details of our corporate subscriptions. If you already have a subscription, details of your access rights can be found at [Your Account](https://registration.ft.com/youraccount/subscriptions).
+**3.11.** You own the copyright in your UGC, and you agree to grant FT a right (but not an obligation) unlimited in time to publish, re-use, archive, modify, delete or commercially exploit that UGC in whole or in part as we see fit, whether on FT.com or otherwise, without any requirement to pay you for this and with or without attribution to you. You also waive any moral rights that you may have in regard to the UGC.
 
-3\. Privacy Policy and Registration
------------------------------------
+**3.12.** You agree that you will:
 
-All information received by us from your use of FT.com will be used by FT in accordance with our [Privacy Policy](https://help.ft.com/legal-privacy/privacy-policy/). Please read this for details of how we may process your personal data.
-
-On registration, you must provide FT with accurate, complete registration information and it is your responsibility to update and maintain changes to that information on the applicable FT.com registration or subscription pages. FT is entitled to rely on any information you provide to us.
-
-Each registration is for a single user only. On registration, you will choose a user name and password (“ID”). The email address that you provide on registration must correspond to a named email account and not a generic or shared email account. You are not allowed to share your ID or give access to FT Content through your ID to anyone else. FT does not allow multiple users on a network or within an organisation to use the same ID. FT may cancel or suspend your access to FT.com if you share your ID without further obligation to you. You may not create additional registration or subscription accounts for the benefit of others or with the aim of avoiding our use of IDs to control access to and use of FT.com.
-
-You are responsible for all use of FT.com made by you or anyone else using your ID and for preventing unauthorised use of your ID. If you believe there has been any breach of security such as the disclosure, theft or unauthorised use of your ID or any payment information, you must notify FT immediately by e-mailing us at [help@ft.com](mailto:help@ft.com). We recommend that you do not select an obvious user password (such as your name) and that you change it regularly.
-
-If you provide FT with an email address that will result in any messages FT may send you being sent to you via a network or device operated or owned by a third party (e.g. your employer or colleague) then you promise that you are entitled to receive those messages. You also agree that FT may stop sending messages to you without notifying you.
-
-If you are a registered user of or subscriber to FT.com then you may choose to use FT.com’s “Remember me” login feature that enables you to be logged in automatically to FT.com whenever you visit FT.com without having to manually log in each time. We recommend that you do not enable this feature on any computer that is or may be used by anyone other than you in order to prevent unauthorised access by third parties to both your subscription details and features of FT.com personal to you.
-
-4\. Personal Subscription Services and Temporary Access Passes
---------------------------------------------------------------
-
-We offer subscription services through FT.com and recommend that you read our Frequently Asked Questions for more details and before purchasing a subscription.
-
-**Types of subscription:** Unless you purchase a subscription to use FT.com then your usage rights will be limited as set out at [www.ft.com/psp](https://www.ft.com/psp). We offer various types of subscription: the options currently available are set out at [www.ft.com/psp](https://www.ft.com/psp).
-
-In certain countries we also offer what we call a “Bundled Subscription” which allows you to purchase an FT.com subscription together with a subscription to buy the Financial Times newspaper.
-
-FT reserves the right to vary the amount of content and types of service that it makes available to different categories of user. If you are an FT.com subscriber, any significant reduction in the scope of your subscription will take effect only after we have given you at least 30 days’ notice, and will apply from the date of your next payment following that 30-day period. This does not apply where a type of content or service intended for Premium subscriptions is made available to Standard subscribers on an introductory, temporary or trial basis.
-
-**Contract formation:** FT will try to process your subscription promptly but does not guarantee that your subscription will be activated by any specified time. By submitting your payment and other subscription details, you are making an offer to us to buy a subscription. Your offer will only be accepted by us and a contract formed when we have successfully verified your payment details and email address, at which point we will provide you with access to your subscription. FT reserves the right to reject any offer in its discretion, for any or no reason.
-
-**Payment details:** When you purchase a subscription, you must provide us with complete and accurate payment information. By submitting payment details you promise that you are entitled to purchase a subscription using those payment details. If we do not receive payment authorisation or any authorisation is subsequently cancelled, we may immediately terminate or suspend your access to your subscription. In suspicious circumstances we may contact the issuing bank/payment provider and/or law enforcement authorities or other appropriate third parties. If you are entitled to a refund under these terms and conditions we will credit that refund to the card or other payment method you used to submit payment, unless it has expired in which case we will contact you.
-
-**Pricing:** The subscription price will be made clear to you on our sign-up pages or otherwise during the sign-up process and may vary from time to time or by country. You agree to pay the fees at the rates notified to you at the time you purchase your subscription. For certain subscriptions you can take out either an annual or monthly (or other frequency we offer) subscription. Other subscription services may only require a one-off payment. You can also take out any other fixed term or payment frequency that we may offer from time to time. The currency in which your subscription is payable will be specified during the order process, depending on the service and your country of residence. Eligibility for any discounts is ascertained at the time you subscribe and cannot be changed during the term of your subscription. We will always tell you in advance of any increase in the price of your subscription and offer you an opportunity to cancel it if you do not wish to pay the new price.
-
-**Trial subscriptions:** Where we provide a trial subscription, we will inform you of the full subscription price that is payable after the trial period. After the trial, your subscription will renew automatically at the full subscription price unless you cancel your subscription before the end of the trial. To cancel your subscription during the trial please go to [Manage Your Account](https://registration.ft.com/youraccount/details/core/view?execution=e2s1) and follow the simple cancellation instructions.
-
-Please note that no more than one trial subscription per subscriber is allowed in any twelve month period. We reserve the right to cancel any trial subscription immediately, without refund, if we become aware that the subscriber has already had another trial subscription in the previous twelve months.
-
-**Taxes:** Financial Times Limited (FT) is registered for VAT in a number of European Union (EU) countries. We also have some non-EU indirect tax registrations. Our UK VAT registration number is GB226162332. If you want any of our other tax ID numbers please contact [Customer Care](https://help.ft.com/contact/).
-
-Unless otherwise indicated, prices stated on our website are inclusive of any applicable value added tax (VAT) or other sales taxes. The breakdown of any applicable VAT payable with your order is indicated on the invoice you will receive with your purchase.
-
-If you are based in the EU outside the UK, please click here for important information on how VAT is included in our prices.
-
-**Pricing errors:** If we incorrectly state a price to you whether online or otherwise, we are not obliged to provide you with a subscription at that price, even if we have mistakenly accepted your offer to buy a subscription at that price, and we reserve the right to subsequently notify you of any pricing error. If we do this, you may cancel the subscription without any obligation to us and we will refund you any money you have paid us in full, or you may pay the correct price. If you refuse to exercise either of these choices then we may cancel your subscription and will refund you any money you have paid us in full. We will always act in good faith in determining whether a genuine pricing error has occurred.
-
-**Other costs:** In addition to the subscription fee you are charged, certain banks and credit card issuers will charge a foreign transaction fee on transactions which take place abroad or in a foreign currency. The majority of payments for subscriptions we take by card are processed in the United Kingdom therefore please check with your bank or credit card issuer to find out if such charges will be applied to you; the FT is not responsible for any such charges. You are also responsible for paying any internet connection or telecommunications charges that you may incur by accessing FT.com or using the services available on it. For example, if you use any of our mobile services then your network operator may charge you for data or messaging services.
-
-**Moving house:** If you have a bundled subscription and are moving house, then we will transfer your newspaper delivery to your new address. However, if we are unable to provide you with a home delivery service to your new address, we will provide you with a pro rata refund for the newspaper element of your subscription, which means that we will refund part of your subscription fee for the unexpired period of the subscription.
-
-**Newspaper delivery:** FT will aim to commence delivery of the Financial Times newspaper to you within 2 business days (UK), 7-10 business days (Eurozone) or 10-12 business days (United States) of your subscription commencing, delivery times for other regions will be confirmed to you separately. Once delivery has commenced, the Financial Times newspaper will be delivered Monday through to Saturday at the one delivery address specified when your order was confirmed.
-
-5\. Renewal and Cancellation of Personal Subscriptions
-------------------------------------------------------
-
-**Renewals: If you chose to pay monthly**, your subscription will continue until you tell us that you no longer wish to receive it, in which case you will stop paying the monthly fees. We will notify you at least 14 days in advance of any changes to the price in your subscription that will apply upon next monthly renewal. Please see the “How to cancel” section below for details of how to cancel your monthly subscription. **If you chose to pay annually**, at least 14 days before each renewal you will be sent a reminder notice stating the rate that will apply for the renewal period. Unless you notify us before the end of your annual subscription period that you no longer wish to receive it, your annual subscription will renew for another year. We will charge the subscription using the same card or other payment method that you previously used.  For voucher pack subscribers, if you choose to cancel we reserve the right to charge you the subscription fee for the renewal period if we have sent you voucher packs that have not been returned before your subscription start date. We will provide you with a refund of the subscription fee on receipt of the complete returned voucher pack.
-
-**Initial cancellation period**: Depending on the type of subscription you have, you may have a right to cancel your subscription within a limited period after placing your order, as follows.
-
-Online-only subscriptions: If your subscription does not include newspaper deliveries, then by placing your order you agree that we may start your subscription immediately upon our accepting your order. This means that you are not entitled to a refund if you change your mind after we have provided you with access to your subscription.
-
-Newspaper or bundled subscriptions: If your subscription includes newspaper deliveries (with or without any digital access), then you have the right to cancel your subscription, without giving any reason, within a **14 day** period from the day on which you receive the first newspaper forming part of your subscription. If you exercise your right to cancel within that period, then we will reimburse all payments received from you, less a pro-rated amount for each newspaper you received before cancelling. You do not need to return any of the newspapers to us. For more details (including an optional cancellation form), see our [cancellation information](https://help.ft.com/faq/changing-your-subscription/what-are-my-cancellation-rights/).
-
-**Subsequent cancellation of your subscription**: Except as set out in the previous section, you do not have any right to cancel your subscription or any part of it until the end of your then current subscription period. Although you may notify us of your intention to cancel at any time, such notice will only take effect at the end of your then current subscription period, and you will not receive a refund (except in the limited circumstances set out in these terms). For voucher pack subscribers, you must return any voucher packs we have sent you that relate to further subscription periods by post to the address printed on the back of the voucher pack.
-
-**How to cancel:** You may notify us of your wish to cancel your subscription by contacting our Customer Care team. [Chat with us online, call us on your regional telephone number](https://help.ft.com/contact/), or email us at [help@ft.com](mailto:help@ft.com) with the following: “I/We hereby give notice that I/we cancel my/our subscription”. Please then include:
-
-*   The subscriber's full name (person on the billing information if different from the user)
-*   The Account email address or Account Number (Customer Reference Number)
-*   The billing address or delivery address (Including zip code/postcode)
-*   Your contact telephone number
-
-You may also use your [regional telephone number](https://help.ft.com/contact/) to temporarily suspend your newspaper delivery if you have an FT Bundled subscription, for example if you are going on holiday, although you must provide at least 5 business days' advance notice for this to be implemented.
-
-**Cancellations by us:** FT reserves the right to suspend or terminate your subscription if you breach these terms and conditions, with or without notice and without further obligation to you. We may also suspend or terminate your subscription if we are prevented from providing services to you by circumstances beyond our control. If we terminate your subscription for any reason and/or permanently cease publishing FT.com, the FT Content or cease to provide subscription services then, unless there are exceptional circumstances, we will provide you with a pro rata refund to your credit card. This means that we will refund you with any amounts that you have paid us in advance that relate to any remaining and unexpired period of your subscription.
-
-FT reserves the right to suspend or terminate your subscription without refund in the event of any verbal or written abuse of any kind (including abusive, offensive or aggressive language) directed towards our Customer Care team or other FT personnel.
-
-**Cancellation of your registration:** If you are a registered user, but not a subscriber, then FT reserves the right to suspend or terminate your registration at any time, with or without notice and without further obligation to you. If you would like to cancel your registration then please contact our Customer Care team at [help@ft.com](mailto:help@ft.com) or using the telephone numbers set out above.
-
-6\. Who Your Personal Subscription Contract is with
----------------------------------------------------
-
-If you buy an FT.com subscription only or temporary access pass or other subscription service or if you buy an FT Bundled subscription (i.e. FT.com subscription and Financial Times newspaper subscription together) and are resident in any country OTHER THAN those specified below, then you will be contracting with The Financial Times Limited, whose principal place of business is at Bracken House, 1 Friday Street, London, EC4M 9BT, United Kingdom.
-
-If you buy an FT Bundled subscription (i.e. FT.com subscription and Financial Times newspaper subscription together) and are a resident in one of the countries specified below, you will be contracting with the applicable entity listed below:
-
-*   **Americas:** F.T. Publications, Inc, whose principal place of business is at 330 Hudson Street, 8th Floor, New York, NY 10013, USA.
-*   **Japan or South Korea:** The Financial Times (Japan) Limited, whose principal place of business is at 10F Nihon Keizai Shimbunsha Tokyo Honsha Building, 1-3-7 Otemachi, Chiyoda-ku, Tokyo, 100-8066, Japan.
-*   **Singapore:** The Financial Times (Singapore) Pte Limited, whose principal place of business is at 60 Anson Road, #06-02 Mapletree Anson, Singapore 079914.
-*   **Asia** (other than Japan, South Korea or Singapore) **or Oceania**: The Financial Times (H.K.) Limited, whose principal place of business is at 18/F Nan Fung Tower, 88 Connaught Road, Central, Hong Kong.
-
-These terms and conditions apply for the benefit for any or all of the above entities who may rely on them and/or enforce them in their own right.
-
-7\. User Generated Content
---------------------------
-
-FT.com includes comments sections, blogs and other interactive features that allow interaction between users and between users and FT journalists (we call these “Forums”). We call the information posted to these Forums by users “User Generated Content” or “UGC”.
-
-If you wish to view or participate in a Forum then you must comply with any specific rules posted on the Forum. We also recommend that you read our Comments Guidelines which provide further guidance in relation to commenting on FT.com.
-
-You will retain ownership of the copyright in any of your UGC that you or we publish on FT.com so you are free to re-use it as you wish. You agree that if you post UGC to a Forum then you are granting FT a right (but not an obligation) unlimited in time to publish, re-use, archive, modify, delete or commercially exploit that UGC in whole or in part as we see fit, whether on FT.com or otherwise, without any requirement to pay you for this and with or without attribution to you. This means that you grant us a worldwide, non-exclusive, perpetual, irrevocable, royalty-free licence to use any UGC you publish in whole or in part in any manner and for any purpose whatsoever and without further obligation to you. You also waive any moral rights that you may have in regard to the UGC.
-
-You are responsible for all the content of any of your UGC that you or we publish. You are financially responsible to us for any claim against us by any third party that your UGC is not in accordance with the bullet points below or that otherwise relates to your UGC.
-
-You agree that you will:
-
-*   only publish UGC that is your original content and will not infringe the copyright or other rights of any third party when publishing UGC.
-*   not post, link to or otherwise publish any UGC containing any form of advertising or promotion for goods and services or any spam or other form of unsolicited communication.
-*   not post, link to or otherwise publish any UGC with recommendations to buy or not buy a particular share or other investment or which contain confidential information of another party or which otherwise have the purpose of affecting the price or value of any share or other investment.
-*   not post, link to or otherwise publish any UGC that is threatening, offensive, libellous, indecent or otherwise unlawful.
-*   not post comments that are discriminatory in nature, for example, comments which make attacks on the grounds of race, religion, sex, gender, sexual orientation, disability or age.
+*   only post original content and not infringe the copyright or other rights of any third party;
+*   not post any UGC containing any form of advertising or promotion for goods and services or any form of unsolicited communication;
+*   not post any confidential information of a third party;
+*   not post any recommendations to buy or not buy a particular share or investment or which otherwise has the purpose of affecting the price or value of any share or other investment;
+*   not post anything that is threatening, offensive, libellous, indecent or unlawful;
+*   not post anything that is discriminatory in nature, for example, comments which make attacks on the grounds of race, religion, sex, gender, sexual orientation, disability or age;
 *   respectfully challenge different points of view but not personally attack other commentators.
-*   not disguise the origin of any UGC and not impersonate any person or entity (including FT employees or Forum guests or hosts) or misrepresent any connection with any person or entity.
-*   not post or otherwise publish any UGC unrelated to the Forum or the Forum’s topic.
-*   not post or transmit any UGC that contains software viruses, files or code designed to interrupt, destroy or limit the functionality of FT.com or any computer software or equipment.
-*   not collect or store other users’ personal data.
-*   not restrict or inhibit any other user from using the Forums.
+*   not disguise the origin of any UGC and not impersonate any person or entity (including FT employees or Forum guests or hosts) or misrepresent any connection with any person or entity;
+*   not post any UGC unrelated to the Forum or the Forum’s topic;
+*   not post any UGC that contains software viruses, files or code designed to interrupt, destroy or limit the functionality of FT.com or any computer software or equipment;
+*   not collect or store other users’ personal data;
+*   not restrict or inhibit any other user from using the Forums; and
 *   comply with the guidelines for commenting set out in our [Commenting FAQ](https://help.ft.com/faq/topic/commenting-on-articles).
 
-The Forums contain UGC submitted by users over whom FT has no control so we cannot therefore guarantee the accuracy, integrity or quality of any UGC. Some users may not behave properly and may post UGC that is misleading, untrue or offensive.
+**3.13.** It is not possible for FT to fully monitor all UGC published on FT.com but where we have actually received notice of any UGC that is potentially misleading, untrue, offensive, unlawful, infringes third party rights or is potentially in breach of these Terms and Conditions, then we will review that UGC, decide whether to remove it from FT.com and act accordingly. This may include banning a user from participation in UGC on FT.com. If you are aware of any such UGC, please notify us immediately with specific details by contacting us at [help@ft.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=help@ft.com).
 
-It is not possible for FT to fully monitor all UGC published on FT.com but where we have actually received notice of any UGC that is potentially misleading, untrue, offensive, unlawful, infringes third party rights or is potentially in breach of these terms and conditions, then we will review that UGC, decide whether to remove it from FT.com and act accordingly. This may include banning a user from participation in UGC on FT.com.
+**3.14.** We can link your UGC, including anything posted under a pseudonym, to your FT.com account. Our moderation and community team may contact you from time to time regarding your UGC.
 
-Our moderation and community team may contact you from time to time regarding your comments. Comments, including those made under a pseudonym, can be linked to your FT.com account by FT.
+**Accuracy of information and availability of FT.com**
 
-For more guidance about commenting on FT.com, please see our Commenting FAQ. If you believe that any UGC published on FT.com infringes any legal rights that you may have or is not allowed under these terms and conditions, please notify us immediately with specific details by contacting us at [help@ft.com](mailto:help@ft.com).
+**3.15.** While we try to make sure that FT.com and all FT Content is accurate, up-to-date and free from bugs, we cannot promise that it will be. Furthermore, we cannot promise that FT.com will be fit or suitable for any purpose. Any reliance that you may place on the information on FT.com is at your own risk.
 
-8\. Third Party Sites and Services
-----------------------------------
+**3.16.** FT Content is provided for your general information purposes only and to inform you about us and our products and news, features, services and other websites that may be of interest. It does not constitute technical, financial or legal advice or any other type of advice and should not be relied on for any purposes.
 
-FT.com may contain links to other Internet websites or online and mobile services provided by independent third parties, including websites of our advertisers and sponsors (what we call “Third Party Sites”), either directly or through frames. Third Party Sites may be co-branded with FT and so include FT’s trade marks.
+**3.17.** If you use either [Managed Funds](https://markets.ft.com/data/funds/uk) or [Personal Finance](https://www.ft.com/personal-finance) on FT.com you acknowledge that these areas of FT.com are designed for use by UK users only and you should not use them if you are ordinarily resident outside of the UK.
 
-It is your decision whether you purchase or use any third party products or services made available on or via Third Party Sites and you should read [Section 9](#anchor-our-responsibilities-to-you) below carefully. Our Privacy Policy does not apply to Third Party Sites.
+**3.18.** We may suspend or terminate operation of FT.com or any part thereof at any time as we see fit.
 
-FT.com contains advertising and sponsorship. Advertisers and sponsors are responsible for ensuring that material submitted for inclusion on FT.com complies with international and national law. FT is not responsible for any error or inaccuracy in advertising or sponsorship material.
+**3.19.** While we try to make sure that FT.com is available for your use, we do not promise that FT.com is available at all times nor do we promise the uninterrupted use by you of FT.com.
 
-Copyright in any software that is made available for download from FT.com belongs to FT or its suppliers. Your use of the software is governed by the terms of any licence agreement that may accompany or be included with the software. Do not install or use any of this software unless you agree to such licence agreement. FT is not responsible for any technical or other issues that may happen if you download third party software.
+**Third party sites and products**
 
-9\. Our Responsibilities To You
+**3.20.** FT.com may contain hyperlinks or references to third party websites and third party products. Any such hyperlinks or references are provided for your convenience only. We have no control over third party websites and accept no legal responsibility for any products, content, material or information contained in them. The display of any hyperlink and reference to any third party website or third party product (including any advert or sponsor) does not mean that we endorse that third party's website, products or services. Your use of a third party site may be governed by the terms and conditions of that third party site.
+
+**3.21.** Any agreements, transactions or other arrangements made between you and any third party named on (or linked to/from) FT.com are at your own responsibility and entered into at your own risk.
+
+4\. Your Privacy and Personal Information
+-----------------------------------------
+
+**4.1.** Your privacy and personal information are important to us. Any personal information that you provide to us will be dealt with in line with our [Privacy Policy](https://help.ft.com/legal-privacy/privacy-policy/), which explains what personal information we collect from you, how and why we collect, store, use and share such information, your rights in relation to your personal information and how to contact us and supervisory authorities in the event you have a query or complaint about the use of your personal information.
+
+5\. Limitation on Our Liability
 -------------------------------
 
-**A summary of what this section means:** this section is important and you should read it carefully. It makes clear to what extent, if any, FT accepts responsibility (liability) to you for your use of FT.com or the FT Content or in respect of any third party products or services that we refer to or link to on FT.com. Unless you are a personal subscriber to FT.com or have a temporary access pass, we accept no financial responsibility to you arising from your use of FT.com or the FT Content. If you are a personal subscriber to FT.com or have a temporary access pass, we limit our financial responsibility to you arising from your use of FT.com or the FT Content to the price you paid for your subscription or temporary access pass.
+**5.1. Except for any legal responsibility that we cannot exclude in law (such as for death or personal injury) or arising under applicable laws relating to the protection of your personal information, we are not legally responsible for any:**
 
-In no circumstances do we accept responsibility for your use of Third Party Sites or in respect of any Third Party Products. By Third Party Sites we mean websites, online or mobile services provided by third parties, including websites of advertisers and sponsors that may appear on FT.com. By Third Party Products we mean products or services provided by third parties.
+*   losses that:
 
-Although this means that we accept very little in the way of financial responsibility for your use of FT.com and the FT Content, we think this is fair on the basis that you can view certain content and services free-of-charge, and the cost of a subscription or temporary access pass for additional access rights is relatively inexpensive. It is not commercially possible for us to accept more responsibility for your use of FT.com than set out in this [Section 9](#anchor-our-responsibilities-to-you) taking into account that we permit you to use FT.com for no or a relatively inexpensive cost.
+           (a) were not foreseeable to you and us when these Terms and Conditions were formed; or
 
-### **Limitations of FT Content:**
+           (b) that were not caused by any breach on our part;
 
-**The FT Content (including any information we publish regarding Third Party Products) is only for your general information and entertainment purposes and is not intended to address your particular requirements. In particular, the FT Content, including UGC and any other content provided by third parties and distributed by FT.com, does not constitute any form of advice, recommendation, representation, endorsement or arrangement by FT. It is not intended to be and should not be relied upon by users in making (or refraining from making) any specific investment, purchase, sale or other decisions. Appropriate independent advice should be obtained before making any such decision, such as from a qualified financial adviser.**
+*   business losses; and
+*   losses to non-consumers.
 
-**Any agreements, transactions or other arrangements made between you and any third party named on (or linked to from) FT.com are at your own responsibility and entered into at your own risk. Any information that you receive via FT.com, whether or not it is classified as ”real time”, may have stopped being current by the time it reaches you. Share price information may be rounded up/down and therefore may not be entirely accurate.**
+**5.2.** You may terminate your Subscription immediately in writing to FT if FT.com is unavailable or inaccessible to you for either (a) more than 3 consecutive days during your Subscription; or (b) more than 5 days in a 30 day period, as a result of the fault or failure of FT, in which case we will refund you any amount that you have paid to us in advance that relates to any period which was still to run on your Subscription. 
 
-### **What we promise:**
+**5.3.** The limitations of liability in this section 5 apply for the benefit of FT, its affiliates, including those listed in section 6 and all of their respective officers, directors, employees, agents or any company who we transfer our rights and obligations to in accordance with these terms and conditions.
 
-**FT promises to develop and operate FT.com with reasonable skill and care and will use reasonable efforts to promptly remedy any faults of which it is aware.**
+6\. Corporate Information
+-------------------------
 
-### **What we do not promise:**
+**6.1.** If you buy a Digital or Bundled Subscription and are resident in any country other than those listed in section 6.2 below or you access the FT Content under an organisation's subscription agreement, then you will be contracting with The Financial Times Limited, whose principal place of business is at Bracken House, 1 Friday Street, London, EC4M 9BT, United Kingdom.
 
-**FT does not provide any other promises or warranties about FT.com and the FT Content. FT.com and the FT Content are provided on an “as is” and “as available” basis. This means that FT does not make any promises in respect of FT.com or the services and functions available on or through FT.com or of the quality, completeness or accuracy of the information published on or linked to from FT.com other than as expressly stated above.**
+**6.2.** If you buy a Newspaper or Bundled Subscription and are resident in one of the countries specified below, you will be contracting with the applicable entity listed below:
 
-**The above disclaimers apply equally to your use of FT.com and all FT Content. Without limiting the above, FT is not liable for matters beyond its reasonable control. FT does not control third party communications networks (including your internet service provider), the internet, acts of god or the acts of third parties.**
+*   Americas: F.T. Publications, Inc, whose principal place of business is at 330 Hudson Street, 8th Floor, New York, NY 10013, USA.
+*   Japan or South Korea: The Financial Times (Japan) Limited, whose principal place of business is at 10F Nihon Keizai Shimbunsha Tokyo Honsha Building, 1-3-7 Otemachi, Chiyoda-ku, Tokyo, 100-8066, Japan.
+*   Singapore: The Financial Times (Singapore) Pte Limited, whose principal place of business is at 60 Anson Road, #06-02 Mapletree Anson, Singapore 079914.
+*   Asia (other than Japan, South Korea or Singapore) or Oceania: The Financial Times (H.K.) Limited, whose principal place of business is at 18/F Nan Fung Tower, 88 Connaught Road, Central, Hong Kong.
 
-### **Our financial responsibility to you:**
+**6.3.** The Financial Times Limited is the publisher of the Newspaper and FT.com, and its corporate details are as set out in section 1.1.
 
-**You agree that if we are in breach of these terms and conditions, we will only be responsible to you for any damages that you incur arising out of your use of FT.com or the FT Content (to the extent that FT’s liability is not otherwise excluded by this** **[section 9](#anchor-our-responsibilities-to-you)** **) as follows:**
+**6.4.** The Managed Funds and Personal Finance areas of FT.com are operated separately by FT Personal Finance Limited whose corporate details are as follows: registered office address is Bracken House, 1 Friday Street, London, EC4M 9BT; company number is 3855520; VAT number GB226162332; and Data Protection Registration Number is Z7670392.
 
-*   **If you incur any loss as a result of using FT.com or any FT Content outside the scope of these terms and conditions, FT accepts no responsibility (liability) to you for this.**
-*   **You will be responsible for all claims, liabilities, damages, cost and expenses suffered or incurred as a result of your breach of these terms and conditions.**
-*   **FT will only be responsible for loss or damage you suffer which is the reasonably foreseeable result of FT’s breach of a legal duty of care owed to you, but in no event shall the liability of the FT or its affiliates exceed the amount, if any, paid by you to the FT for the particular subscription product to which the claim relates.**
-*   **FT will not be responsible to you for any loss or damage suffered by your business, such as lost data, lost profits or any business interruption.**
-*   **If you have a personal subscription then you may terminate your subscription immediately in writing to FT if FT.com is unavailable or inaccessible to you for either (a) more than 3 consecutive days during your subscription; or (b) more than 5 days in a 30 day period, as a result of the fault or failure of FT, in which case we will refund you any amount that you have paid to us in advance that relates to any period which was still to run on your subscription. You may instead at your option receive a renewal to your subscription free-of-charge at the point of renewal.**
+7\. Changes to these Terms and Conditions
+-----------------------------------------
 
-**The limitations of liability in this** **[section 9](#anchor-our-responsibilities-to-you)** **apply for the benefit of FT, its affiliates, including those listed in** **[section 6](#anchor-who-your-personal-subscription-contract-is-with)** **and all of their respective officers, directors, employees, agents or any company who we transfer our rights and obligations to in accordance with these terms and conditions.**
+**7.1.** These Terms and Conditions were published on 7 January 2021 and replace with immediate effect the terms and conditions previously published on 1 May 2019.
 
-**To the full extent permitted by law you acknowledge and agree that our third party content and data suppliers have no liability whatsoever to you in respect of any of their data supplied to you as part of the FT Content.**
+**7.2.** We may update these Terms and Conditions for legal or regulatory reasons, or to reflect changes in our services or business practices. We will provide notice of any significant changes below. You should regularly check this section to see if any changes have been made. If you are a paying subscriber, any changes to our terms and conditions will become effective from the date of your next payment following the change unless we notify you otherwise. If you are not a paying subscriber, any changes will become effective as soon as we post them on FT.com.
 
-**FT’s liability will not be limited in the case of death or personal injury directly caused by FT’s negligence in those countries where it is unlawful for FT to seek to exclude such liability.**
+8\. Law and Jurisdiction
+------------------------
 
-### **If you use either the Managed Funds or Personal Finance pages:**
+**8.1.** If you are a user whose principal address or principal use of FT.com occurs in any jurisdiction other than the United States then these Terms and Conditions will be subject to English law. In this case, to the extent possible in the applicable jurisdiction, both you and we agree that the courts of England will (subject to the final paragraph in this section 8) have non-exclusive jurisdiction to settle any dispute which may arise out of, under, or in connection with these Terms and Conditions.
 
-**You agree that these areas of FT.com are designed for use by United Kingdom users only and you should not use them if you are ordinarily resident outside of the United Kingdom.**
+**8.2.** If you are a user whose principal address or principal use of FT.com occurs in the United States then these terms and conditions will be subject to the laws of the State of New York, without regard to its conflict of laws provisions. In this case, to the extent possible in the applicable jurisdiction, both you and we agree that the courts of the State of New York will (subject to the final paragraph in this section 8) have non-exclusive jurisdiction to settle any dispute which may arise out of, under, or in connection with these Terms and Conditions.
 
-10\. Choice of Law and Jurisdiction
------------------------------------
+9\. General
+-----------
 
-If you are a user whose principal address or principal use of FT.com occurs in any jurisdiction other than the United States then these terms and conditions will be subject to English law. In this case, to the extent possible in the applicable jurisdiction, both you and we agree that the courts of England will (subject to the final paragraph in this Section 10) have non-exclusive jurisdiction to settle any dispute which may arise out of, under, or in connection with these terms and conditions.
+**9.1.** We shall have no liability to you for any breach of these Terms and Conditions caused by any event or circumstance beyond our reasonable control including, but not limited to, strikes, lock-outs or other industrial disputes; epidemic or pandemic; breakdown of systems or network access; or flood, fire, explosion or accident.
 
-If you are a user whose principal address or principal use of FT.com occurs in the United States then these terms and conditions will be subject to the laws of the State of New York, without regard to its conflict of laws provisions. In this case, to the extent possible in the applicable jurisdiction, both you and we agree that the courts of the State of New York will (subject to the final paragraph in this Section 10) have non-exclusive jurisdiction to settle any dispute which may arise out of, under, or in connection with these terms and conditions.
+**9.2.** You may not license or transfer any of your rights under these Terms and Conditions. We may transfer any of our rights or obligations under these Terms and Conditions to any company within the Financial Times group of companies, but if we do so we will ensure that any company to whom we transfer our rights or obligations will continue to honour your rights under them.
 
-11\. General
-------------
+**9.3.** If any provision of these Terms and Conditions is found to be invalid by any court having competent jurisdiction, the invalidity of that provision will not affect the validity of the remaining provisions of these Terms and Conditions, which will remain in full force and effect.
 
-You may not license or transfer any of your rights under these terms and conditions. We may transfer any of our rights or obligations under these terms and conditions to any company within the Financial Times group of companies but if we do so we will ensure that any company to whom we transfer our rights or obligations will continue to honour your rights under them.
+**9.4.** Failure by either party to exercise any right or remedy under these Terms and Conditions does not constitute a waiver of that right or remedy. Headings in these Terms and Conditions are for convenience only and will have no legal meaning or effect.
 
-If any provision of these terms and conditions is found to be invalid by any court having competent jurisdiction, the invalidity of that provision will not affect the validity of the remaining provisions of these terms and conditions, which will remain in full force and effect.
+**9.5.** These Terms and Conditions (together with the documents referred to within these Terms and Conditions including in sections 1.4 and 2.1) constitute the entire agreement between you and the FT relating to your use of the FT Services. They supersede all previous communications, representations and arrangements, either written or oral.
 
-Failure by either party to exercise any right or remedy under these terms and conditions does not constitute a waiver of that right or remedy. Headings in these terms and conditions are for convenience only and will have no legal meaning or effect.
-
-These terms and conditions constitute the entire agreement between you and the FT relating to your use of the FT.com website, FT’s mobile and other online services, the Financial Times newspaper and the Content. They supersede all previous communications, representations and arrangements, either written or oral.
-
-FT.com is best viewed with one of our supported browsers. Our current list of supported browsers and the degree to which they are supported can be found [here](http://help.ft.com/faq/browser-compatibility/what-browsers-do-the-ft-support/). Any payment information you send to us over the Internet is encrypted using 128 bit Secure Socket Layer technology. SSL is currently the preferred method to securely transfer credit card data over the Internet.
-
-12\. Content ownership
-----------------------
-
-All FT Content belongs to FT or its licensors who own all intellectual property rights (including copyright and database rights) in the FT Content and any selection or arrangement of the FT Content. No intellectual property rights in any FT Content are transferred to you. ”FT” and ”Financial Times” are registered trade marks and you may not use them without written permission from FT. You are permitted to use FT Content only as set out in our [Copyright Policy](https://help.ft.com/legal-privacy/copyright-policy/).
-
-13\. Corporate Information
---------------------------
-
-The Financial Times Limited is the publisher of the Financial Times newspaper and the FT.com website, and its corporate details are as follows: registered office address is Bracken House, 1 Friday Street, London, EC4M 9BT; company number is 227590; VAT number GB226162332; and Data Protection Registration Number is Z7087146. In addition, the Managed Funds and Personal Finance areas of FT.com are operated separately by FT Personal Finance Limited whose corporate details are as follows: registered office address is Bracken House, 1 Friday Street, London, EC4M 9BT; company number is 3855520; VAT number GB226162332; and Data Protection Registration Number is Z7670392.
-
-14\. Changes to Terms and Conditions
-------------------------------------
-
-These terms and conditions were published on 1 May 2019 and replace with immediate effect the terms and conditions previously published on 20 June 2018.
+**9.6.** FT.com is best viewed with one of our supported browsers. Our current list of supported browsers and the degree to which they are supported can be found [here](http://help.ft.com/faq/browser-compatibility/what-browsers-do-the-ft-support/). Any payment information you send to us over the Internet is encrypted using 128 bit Secure Socket Layer technology. SSL is currently the preferred method to securely transfer credit card data over the Internet.
 
 [Back to top](#pagetop)
