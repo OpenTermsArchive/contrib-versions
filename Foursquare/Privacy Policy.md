@@ -220,7 +220,7 @@ Foursquare may transfer the Personal Data we collect about you to recipients in 
 
 EU/Swiss-U.S. Privacy Shield
 
-Foursquare Labs, Inc., Placed, LLC, and Factual Inc. are certified under the EU-U.S. and Swiss-U.S. Privacy Shield frameworks developed by the U.S. Department of Commerce, and the European Commission and Swiss Federal Data Protection and Information Commissioner, respectively. Click [here](https://foursquare.com/legal/www.foursquare.com/privacy/privacyshield) to view Foursquare’s EU/Swiss-U.S. Privacy Shield: Consumer Privacy Policy.  We no longer rely on the EU-U.S. Privacy Shield to transfer personal information to the U.S.
+Foursquare Labs, Inc., Placed, LLC, and Factual Inc. are certified under the EU-U.S. and Swiss-U.S. Privacy Shield frameworks developed by the U.S. Department of Commerce, and the European Commission and Swiss Federal Data Protection and Information Commissioner, respectively. Click [here](https://www.foursquare.com/privacy/privacyshield) to view Foursquare’s EU/Swiss-U.S. Privacy Shield: Consumer Privacy Policy. We no longer rely on the EU-U.S. Privacy Shield to transfer personal information to the U.S.
 
 Who is Responsible for Your Data?
 
