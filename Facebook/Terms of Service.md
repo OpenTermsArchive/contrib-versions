@@ -10,7 +10,7 @@ We don't charge you to use Facebook or the other products and services covered b
 
 We don't sell your personal data to advertisers, and we don't share information that directly identifies you (such as your name, email address or other contact information) with advertisers unless you give us specific permission. Instead, advertisers can tell us things such as the kind of audience that they want to see their ads, and we show those ads to people who may be interested. We provide advertisers with reports about the performance of their ads that help them understand how people are interacting with their content. See Section 2 below to learn more.
 
-Our [Data Policy](https://www.facebook.com/about/privacy/update) explains how we collect and use your personal data to determine some of the ads that you see and provide all of the other services described below. You can also go to your [settings](https://www.facebook.com/settings) at any time to review the privacy choices you have about how we use your data.
+Our [Data Policy](https://www.facebook.com/about/privacy/update) explains how we collect and use your personal data to determine some of the ads that you see and provide all of the other services described below. You can also go to your [settings](https://www.facebook.com/settings) at any time to review the privacy choices that you have about how we use your data.
 
 **1\. The services we provide**
 -------------------------------
@@ -147,7 +147,7 @@ We provide these services to you and others to help advance our mission. In exch
       
     
 4.  Limits on using our intellectual property  
-    If you use content covered by intellectual property rights that we have and make available in our Products (for example, images, designs, videos or sounds we provide that you add to content you create or share on Facebook), we retain all rights to that content (but not yours). You can only use our copyrights or [trademarks (or any similar marks)](https://en.facebookbrand.com/trademarks/) as expressly permitted by our [Brand Usage Guidelines](https://en.facebookbrand.com/guidelines/brand) or with our prior written permission. You must obtain our written permission (or permission under an open source licence) to modify, create derivative works of, decompile or otherwise attempt to extract source code from us.
+    If you use content covered by intellectual property rights that we have and make available in our Products (for example, images, designs, videos or sounds we provide that you add to content you create or share on Facebook), we retain all rights to that content (but not yours). You can only use our copyrights or [trademarks (or any similar marks)](https://en.facebookbrand.com/trademarks/) as expressly permitted by our [Brand Usage Guidelines](https://en.facebookbrand.com/guidelines/brand) or with our prior written permission. You must obtain our written permission (or permission under an open-source licence) to modify, create derivative works of, decompile or otherwise attempt to extract source code from us.
 
   
 
@@ -211,7 +211,7 @@ We provide these services to you and others to help advance our mission. In exch
   
   
 
-**5\. Other Terms and Policies that may apply to you**
+**5\. Other terms and policies that may apply to you**
 ------------------------------------------------------
 
 *   [Community Standards](https://www.facebook.com/communitystandards): These guidelines outline our standards regarding the content that you post to Facebook and your activity on Facebook and other Facebook Products.
