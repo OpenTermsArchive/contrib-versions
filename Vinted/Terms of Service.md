@@ -299,5 +299,3 @@ THIS SECTION LIMITS CERTAIN RIGHTS, INCLUDING THE RIGHT TO MAINTAIN A COURT ACTI
 **30\. CONTACT**
 
 For all support based enquiries, you can contact the team here:  **[Contact us](https://www.vinted.com/help)**. For all legal based enquiries, please contact us through **legal@vinted.com**
-
-* * *
