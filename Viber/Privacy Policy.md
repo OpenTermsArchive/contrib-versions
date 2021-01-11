@@ -13,7 +13,7 @@ Viber Privacy Policy
 ](http://www.viber.com/viber-privacy-policy#your-choices)[Viber Ads, Cookies and Tracking Technologies Policy  
 ](http://www.viber.com/viber-privacy-policy#cookies-and-tracking-technologies)[Accessing Reviewing and Changing Your Personal Information  
 ](http://www.viber.com/viber-privacy-policy#access-review-change-personal-information)[Specific Location Practices: California, EEA residents  
-](http://www.viber.com/viber-privacy-policy#specific-location-practices)[Third Party Websites  
+](http://www.viber.com/viber-privacy-policy#specific-location-practices)[Third-Party Websites and Apps  
 ](http://www.viber.com/viber-privacy-policy#third-party-websites-and-apps)[Security  
 ](http://www.viber.com/viber-privacy-policy#security)[Children’s Privacy  
 ](http://www.viber.com/viber-privacy-policy#childrens-privacy)[International Transfer  
