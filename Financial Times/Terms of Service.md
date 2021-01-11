@@ -1,8 +1,6 @@
 Terms and Conditions
 ====================
 
-Please read this carefully because it sets out the terms of a legally binding agreement between you and the Financial Times. If you subscribe to receive the Financial Times newspaper, [our newspaper terms and conditions](https://help.ft.com/legal-privacy/terms-and-conditions/financial-times-newspaper-terms-and-conditions/) also apply.
-
 1\. About our Terms
 -------------------
 
@@ -202,14 +200,14 @@ You may also use your [regional telephone number](https://help.ft.com/contact/)
 
 **5.1. Except for any legal responsibility that we cannot exclude in law (such as for death or personal injury) or arising under applicable laws relating to the protection of your personal information, we are not legally responsible for any:**
 
-*   losses that:
+*   **losses that:**
 
-           (a) were not foreseeable to you and us when these Terms and Conditions were formed; or
+ **(a) were not foreseeable to you and us when these Terms and Conditions were formed; or**
 
-           (b) that were not caused by any breach on our part;
+ **(b) that were not caused by any breach on our part;**
 
-*   business losses; and
-*   losses to non-consumers.
+*   **business losses; and**
+*   **losses to non-consumers.**
 
 **5.2.** You may terminate your Subscription immediately in writing to FT if FT.com is unavailable or inaccessible to you for either (a) more than 3 consecutive days during your Subscription; or (b) more than 5 days in a 30 day period, as a result of the fault or failure of FT, in which case we will refund you any amount that you have paid to us in advance that relates to any period which was still to run on your Subscription. 
 
