@@ -5,7 +5,7 @@ Welcome to The Register. The Register is a news organisation owned and operated 
 
 ### 1\. Your acceptance of these Terms
 
- [![](https://pubads.g.doubleclick.net/gampad/ad?co=1&iu=/6978/reg_misc/other&sz=300x250%7C300x252%7C300x600&tile=3&c=33X-2y6qohVIGrjANQK-0yWAAAAg4&t=ct%3Dns%26unitnum%3D3%26raptor%3Deagle%26pos%3Dtop%26test%3D0)](https://pubads.g.doubleclick.net/gampad/jump?co=1&iu=/6978/reg_misc/other&sz=300x250%7C300x252%7C300x600&tile=3&c=33X-2y6qohVIGrjANQK-0yWAAAAg4&t=ct%3Dns%26unitnum%3D3%26raptor%3Deagle%26pos%3Dtop%26test%3D0) 
+ [![](https://pubads.g.doubleclick.net/gampad/ad?co=1&iu=/6978/reg_misc/other&sz=300x250%7C300x252%7C300x600&tile=3&c=33X-3A@6ohVIGrjANQK-1HFwAAAhg&t=ct%3Dns%26unitnum%3D3%26raptor%3Deagle%26pos%3Dtop%26test%3D0)](https://pubads.g.doubleclick.net/gampad/jump?co=1&iu=/6978/reg_misc/other&sz=300x250%7C300x252%7C300x600&tile=3&c=33X-3A@6ohVIGrjANQK-1HFwAAAhg&t=ct%3Dns%26unitnum%3D3%26raptor%3Deagle%26pos%3Dtop%26test%3D0) 
 
 1.1 By using, visiting, accessing and/or registering with The Register’s website (“Website”) (including all content available through this Website), you have read, understood and agree to be bound by these Terms and the terms and conditions of our [privacy policy which can be found here](https://www.theregister.com/about/company/privacy/) and which are incorporated in these Terms by reference. If you do not agree to be bound by these Terms (as amended from time to time), then please do not use this Website.
 
@@ -133,7 +133,7 @@ If the whole or part of any term or provision in these Terms is to any extent he
 
 ### 16\. Law and Jurisdiction
 
- [![](https://pubads.g.doubleclick.net/gampad/ad?co=1&iu=/6978/reg_misc/other&sz=300x100%7C300x250%7C300x251&tile=4&c=44X-2y6qohVIGrjANQK-0yWAAAAg4&t=ct%3Dns%26unitnum%3D426raptor%3Dfalcon%26pos%3Dmid%26test%3D0)](https://pubads.g.doubleclick.net/gampad/jump?co=1&iu=/6978/reg_misc/other&sz=300x100%7C300x250%7C300x251&tile=4&c=44X-2y6qohVIGrjANQK-0yWAAAAg4&t=ct%3Dns%26unitnum%3D4%26raptor%3Dfalcon%26pos%3Dmid%26test%3D0) 
+ [![](https://pubads.g.doubleclick.net/gampad/ad?co=1&iu=/6978/reg_misc/other&sz=300x100%7C300x250%7C300x251&tile=4&c=44X-3A@6ohVIGrjANQK-1HFwAAAhg&t=ct%3Dns%26unitnum%3D426raptor%3Dfalcon%26pos%3Dmid%26test%3D0)](https://pubads.g.doubleclick.net/gampad/jump?co=1&iu=/6978/reg_misc/other&sz=300x100%7C300x250%7C300x251&tile=4&c=44X-3A@6ohVIGrjANQK-1HFwAAAhg&t=ct%3Dns%26unitnum%3D4%26raptor%3Dfalcon%26pos%3Dmid%26test%3D0) 
 
 These Terms (as amended from time to time) are exclusively governed by and are construed in accordance with the laws of England and Wales whose courts will have exclusive jurisdiction in any dispute or any proceedings arising out of or in connection with these Terms, save that we have the right to commence and pursue proceedings in alternative jurisdictions.
 
