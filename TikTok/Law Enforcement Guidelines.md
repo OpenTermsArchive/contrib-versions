@@ -152,7 +152,7 @@ When requesting information regarding a specific user of our services, you must 
 What information regarding the requesting party must I include?
 ---------------------------------------------------------------
 
-An access request may be submitted through email at legal@tiktok.com. Please [click here](https://s16.tiktokcdn.com/musical/resource/mtact/static/docx/Access_Request_Form.docx) for a sample access request form. If a law enforcement agency requires TikTok to provide them with personal data of a user without the user's consent, written authorization signed by the head or director of that law enforcement agency or a person of similar rank certifying that the personal data is necessary for the purpose of the functions or duties of the officer must be provided to TikTok before such data is provided.
+An access request may be submitted through email at legal@tiktok.com. If a law enforcement agency requires TikTok to provide them with personal data of a user without the user's consent, written authorization signed by the head or director of that law enforcement agency or a person of similar rank certifying that the personal data is necessary for the purpose of the functions or duties of the officer must be provided to TikTok before such data is provided.
 
 Will TikTok honor preservation requests?
 ----------------------------------------
