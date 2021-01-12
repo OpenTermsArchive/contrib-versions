@@ -10,7 +10,7 @@ General Guidelines
 
 #### Help Google find your pages
 
-*   Ensure that all pages on the site can be reached by a link from another findable page. The referring link should include either text or, for images, an alt attribute, that is relevant to the target page. Crawlable links are [`<a>` tags with an href attribute](https://developers.google.com/search/docs/advanced/guidelines/links-crawlable).
+*   Ensure that all pages on the site can be reached by a link from another findable page. The referring link should include either text or, for images, an alt attribute, that is relevant to the target page. Crawlable links are [`<a>` tags with an href attribute](https://support.google.com/search/docs/advanced/guidelines/links-crawlable).
 *   Provide a [sitemap file](http://sitemaps.org/) with links that point to the important pages on your site. Also provide a page with a human-readable list of links to these pages (sometimes called a site index or site map page).
 *   Limit the number of links on a page to a reasonable number (a few thousand at most).
 *   Make sure that your web server correctly supports the `If-Modified-Since` HTTP header. This feature directs your web server to tell Google if your content has changed since we last crawled your site. Supporting this feature saves you bandwidth and overhead.
@@ -18,7 +18,7 @@ General Guidelines
 
 **Ways to help Google find your site:**
 
-*   [Ask Google to crawl your pages](https://developers.google.com/search/docs/advanced/crawling/ask-google-to-recrawl).
+*   [Ask Google to crawl your pages](https://support.google.com/search/docs/advanced/crawling/ask-google-to-recrawl).
 *   Make sure that any sites that should know about your pages are aware your site is online.
 
 #### Help Google understand your pages
@@ -27,7 +27,7 @@ General Guidelines
 *   Think about the words users would type to find your pages, and make sure that your site actually includes those words within it.
 *   Ensure that your `<title>` elements and `alt` attributes are descriptive, specific, and accurate.
 *   Design your site to have a clear conceptual page hierarchy.
-*   Follow our recommended best practices for [images](https://developers.google.com/search/docs/advanced/guidelines/google-images), [video](https://developers.google.com/search/docs/advanced/guidelines/video), and [structured data](https://developers.google.com/structured-data/).
+*   Follow our recommended best practices for [images](https://support.google.com/search/docs/advanced/guidelines/google-images), [video](https://support.google.com/search/docs/advanced/guidelines/video), and [structured data](https://developers.google.com/structured-data/).
 *   When using a content management system (for example, Wix or WordPress), make sure that it creates pages and links that search engines can crawl.
 *   To help Google fully understand your site's contents, allow all site assets that would significantly affect page rendering to be crawled: for example, CSS and JavaScript files that affect the understanding of the pages. The Google indexing system renders a web page as the user would see it, including images, CSS, and JavaScript files. To see which page assets that Googlebot cannot crawl use the [URL Inspection tool](https://support.google.com/webmasters/answer/9012289); to debug directives in your robots.txt file, use the [robots.txt Tester](https://support.google.com/webmasters/answer/6062598) tool.
 *   Allow search bots to crawl your site without session IDs or URL parameters that track their path through the site. These techniques are useful for tracking individual user behavior, but the access pattern of bots is entirely different. Using these techniques may result in incomplete indexing of your site, as bots may not be able to eliminate URLs that look different but actually point to the same page.
@@ -40,8 +40,8 @@ General Guidelines
 *   Ensure that all links go to live web pages. Use [valid HTML](https://validator.w3.org/).
 *   Optimize your page loading times. Fast sites make users happy and improve the overall quality of the web (especially for those users with slow Internet connections). Google recommends that you use tools like [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) and [Webpagetest.org](http://www.webpagetest.org/) to test the performance of your page.
 *   Design your site for all device types and sizes, including desktops, tablets, and smartphones. Use the [mobile friendly testing tool](https://search.google.com/test/mobile-friendly) to test how well your pages work on mobile devices, and get feedback on what needs to be fixed.
-*   Ensure that your site [appears correctly in different browsers](https://developers.google.com/search/docs/advanced/guidelines/browser-compatibility).
-*   If possible, [secure your site's connections](https://developers.google.com/search/docs/advanced/security/https) with HTTPS. Encrypting interactions between the user and your website is a good practice for communication on the web.
+*   Ensure that your site [appears correctly in different browsers](https://support.google.com/search/docs/advanced/guidelines/browser-compatibility).
+*   If possible, [secure your site's connections](https://support.google.com/search/docs/advanced/security/https) with HTTPS. Encrypting interactions between the user and your website is a good practice for communication on the web.
 *   Ensure that your pages are useful for readers with visual impairments, for example, by testing usability with a screen-reader.
 
 Quality guidelines
@@ -62,23 +62,23 @@ If you believe that another site is abusing Google's quality guidelines, please 
 
 **Avoid** the following techniques:
 
-*   [Automatically generated content](https://developers.google.com/search/docs/advanced/guidelines/auto-gen-content)
-*   Participating in [link schemes](https://developers.google.com/search/docs/advanced/guidelines/link-schemes)
+*   [Automatically generated content](https://support.google.com/search/docs/advanced/guidelines/auto-gen-content)
+*   Participating in [link schemes](https://support.google.com/search/docs/advanced/guidelines/link-schemes)
 *   Creating pages with [little or no original content](https://support.google.com/webmasters/answer/66361)
-*   [Cloaking](https://developers.google.com/search/docs/advanced/guidelines/cloaking)
-*   [Sneaky redirects](https://developers.google.com/search/docs/advanced/guidelines/sneaky-redirects)
-*   [Hidden text or links](https://developers.google.com/search/docs/advanced/guidelines/hidden-text-links)
-*   [Doorway pages](https://developers.google.com/search/docs/advanced/guidelines/doorway-pages)
-*   [Scraped content](https://developers.google.com/search/docs/advanced/guidelines/scraped-content)
-*   Participating in [affiliate programs without adding sufficient value](https://developers.google.com/search/docs/advanced/guidelines/affiliate-programs)
-*   Loading pages with [irrelevant keywords](https://developers.google.com/search/docs/advanced/guidelines/irrelevant-keywords)
-*   Creating pages with [malicious behavior](https://developers.google.com/search/docs/advanced/guidelines/malicious-behavior), such as phishing or installing viruses, trojans, or other badware
-*   Abusing [structured data](https://developers.google.com/search/docs/guides/sd-policies) markup
+*   [Cloaking](https://support.google.com/search/docs/advanced/guidelines/cloaking)
+*   [Sneaky redirects](https://support.google.com/search/docs/advanced/guidelines/sneaky-redirects)
+*   [Hidden text or links](https://support.google.com/search/docs/advanced/guidelines/hidden-text-links)
+*   [Doorway pages](https://support.google.com/search/docs/advanced/guidelines/doorway-pages)
+*   [Scraped content](https://support.google.com/search/docs/advanced/guidelines/scraped-content)
+*   Participating in [affiliate programs without adding sufficient value](https://support.google.com/search/docs/advanced/guidelines/affiliate-programs)
+*   Loading pages with [irrelevant keywords](https://support.google.com/search/docs/advanced/guidelines/irrelevant-keywords)
+*   Creating pages with [malicious behavior](https://support.google.com/search/docs/advanced/guidelines/malicious-behavior), such as phishing or installing viruses, trojans, or other badware
+*   Abusing [structured data](https://support.google.com/search/docs/guides/sd-policies) markup
 *   Sending [automated queries](https://support.google.com/webmasters/answer/66357) to Google
 
 **Follow** good practices like these:
 
-*   Monitoring your site for [hacking](https://developers.google.com/search/docs/advanced/security/what-is-hacked) and removing hacked content as soon as it appears
-*   Preventing and removing [user-generated spam](https://developers.google.com/search/docs/advanced/guidelines/user-gen-spam) on your site
+*   Monitoring your site for [hacking](https://support.google.com/search/docs/advanced/security/what-is-hacked) and removing hacked content as soon as it appears
+*   Preventing and removing [user-generated spam](https://support.google.com/search/docs/advanced/guidelines/user-gen-spam) on your site
 
 If your site violates one or more of these guidelines, then Google may take [manual action](https://support.google.com/webmasters/answer/9044175) against it. Once you have remedied the problem, you can [submit your site for reconsideration](https://support.google.com/webmasters/answer/35843).
