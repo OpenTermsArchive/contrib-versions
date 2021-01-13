@@ -730,19 +730,21 @@ Legal basis for such collection and use is our legitimate interest to protect th
 
 Personal data collected and used for this purpose are kept for 4 days after the security check is passed.
 
-2.3.7. To check whether items are genuine
------------------------------------------
+**2.3.7. To ensure that listings comply with our Authenticity Policy**
+----------------------------------------------------------------------
 
-If you list items of premium brands, we collect and use the following data in order to check whether the items are genuine:
+For some listings which are reported to us, we collect and use the following data in order to ensure that such listings comply with our Authenticity Policy:
 
-1.  Information provided in the listing (see 2.1.5 above);
-2.  Proof of authenticity: a photo of the receipt, certificate, tag, logo, pattern, stitches, original packaging, date code, authenticity code or any other relevant information that would allow determining the authenticity of the item.
+1.  Information provided in the listing (see 2.1.5 above);  
+      
+    
+2.  Information on the item’s authenticity: photos of e.g. the receipt, certificate, tag, logo, pattern, stitches, original packaging, date code, authenticity code or any other relevant information that would showcase the authenticity of the item.
 
-Legal basis for such collection and use is our legitimate interest to protect the Platform and our members from replicas (Art. 6 (1) (f) of the GDPR).
-
-We can share photos of listings and other proofs of authenticity without your personal data with premium brand owners in order to check the authenticity of listed items.
-
-Personal data collected and used for this purpose are kept for 2 years.
+Legal basis for such collection and use is our legitimate interest to protect the Platform and our members from eventual counterfeit (Art. 6 (1) (f) of the GDPR).  
+  
+We can share photos of listings and other proofs of authenticity without your personal data with brand owners in order to check some items.  
+  
+Personal data collected and used for this purpose are kept for 2 years. 
 
 2.3.8. To report suicidal posts
 -------------------------------
