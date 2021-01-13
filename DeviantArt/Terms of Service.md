@@ -23,7 +23,7 @@ This Service is provided by DeviantArt on an "AS IS" and "AS AVAILABLE" basis an
 
 **2\. Privacy**
 
-DeviantArt has a firm commitment to safeguarding your privacy. Please review DeviantArt's [Privacy Policy](https://about.deviantart.com/policy/privacy/). The terms of DeviantArt's privacy policy are incorporated into, and form a part of, these Terms.
+DeviantArt has a firm commitment to safeguarding your privacy. Please review DeviantArt's [Privacy Policy](https://deviantart.com/about/policy/privacy/). The terms of DeviantArt's privacy policy are incorporated into, and form a part of, these Terms.
 
   
 
@@ -50,7 +50,7 @@ DeviantArt respects the intellectual property rights of others and expects users
 5.  A statement that the complaining party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner.
 6.  A statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
 
-Please see DeviantArt's [Copyright Policy](https://about.deviantart.com/policy/copyright/) for further information and details.
+Please see DeviantArt's [Copyright Policy](https://deviantart.com/about/policy/copyright/) for further information and details.
 
   
 
@@ -118,7 +118,7 @@ _Chat Rooms and Forums_ - As a registered member of the Service, you will be gra
 
   
 
-_Artist Materials -_ As a registered member of the Service, you will also be granted the privilege of submitting certain types of Your Content, known as "Artist Materials," for display on your user page. Prior to submitting Artist Materials, you must accept the additional terms and conditions of the [Submission Policy](https://about.deviantart.com/policy/submission/), which is incorporated into, and forms a part of, the Terms.
+_Artist Materials -_ As a registered member of the Service, you will also be granted the privilege of submitting certain types of Your Content, known as "Artist Materials," for display on your user page. Prior to submitting Artist Materials, you must accept the additional terms and conditions of the [Submission Policy](https://deviantart.com/about/policy/submission/), which is incorporated into, and forms a part of, the Terms.
 
   
 
@@ -142,7 +142,7 @@ At this time, DeviantArt provides free online storage of Your Content to registe
 
 **19\. Conduct**
 
-You agree to be subject to and to conduct yourself in accordance with the DeviantArt [Etiquette Policy](https://about.deviantart.com/policy/etiquette/).You are responsible for all of Your Content you upload, download, and otherwise copy, distribute and display using the Service. You must have the legal right to copy, distribute and display all parts of any content that you upload, download and otherwise copy, distribute and display. Content provided to you by others, or made available through websites, magazines, books and other sources, are protected by copyright and should not be uploaded, downloaded, or otherwise copied, distributed or displayed without the consent of the copyright owner or as otherwise permitted by law. Please refer to DeviantArt's [Copyright Policy](https://about.deviantart.com/policy/copyright/) for further details.
+You agree to be subject to and to conduct yourself in accordance with the DeviantArt [Etiquette Policy](https://deviantart.com/about/policy/etiquette/).You are responsible for all of Your Content you upload, download, and otherwise copy, distribute and display using the Service. You must have the legal right to copy, distribute and display all parts of any content that you upload, download and otherwise copy, distribute and display. Content provided to you by others, or made available through websites, magazines, books and other sources, are protected by copyright and should not be uploaded, downloaded, or otherwise copied, distributed or displayed without the consent of the copyright owner or as otherwise permitted by law. Please refer to DeviantArt's [Copyright Policy](https://deviantart.com/about/policy/copyright/) for further details.
 
   
 
