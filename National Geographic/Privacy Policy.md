@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-Last Modified: 10/01/2020
+Last Modified: 01/11/2021
 
 **SCOPE OF THIS POLICY**
 
@@ -113,7 +113,7 @@ If you have a comment or question about this privacy policy, please contact [Gue
 
 #### [Accordion Toggle CALIFORNIA RESIDENTS’ RIGHTS](#collapse12)
 
-Notice to California Residents: If you are a California resident, you may have certain additional privacy rights. Visit our [Your California Privacy Rights](https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/your-california-privacy-rights/) page for more information.
+Notice to California Residents: If you are a California resident, you may have certain additional privacy rights. Visit our [Your California Privacy Rights](https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/your-california-privacy-rights/) page for more information, including how Authorized Agents may make certain requests on behalf of California Residents.
 
 #### [Accordion Toggle UK & EU RESIDENTS' RIGHTS](#collapse13)
 
