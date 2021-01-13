@@ -409,6 +409,8 @@ The open source software platform that runs everywhere from the smartphone, the 
 *   *   [Public cloud](https://ubuntu.com/public-cloud)
     *   [Containers](https://ubuntu.com/containers)
     *   [Core](https://ubuntu.com/core)
+        -------------------------------
+        
     *   [Tutorials](https://ubuntu.com/tutorials)
 
 * * *
