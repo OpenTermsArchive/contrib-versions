@@ -1,7 +1,7 @@
 [Spotify Terms and Conditions of Use](#spotify-terms-and-conditions-of-use)
 ===========================================================================
 
-Effective as of 2019-02-12
+Effective as of 2019-02-07
 
 1 [Introduction](#1-introduction)  
 2 [Changes to the Agreements](#s2)  
