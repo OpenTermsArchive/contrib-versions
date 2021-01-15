@@ -407,6 +407,7 @@ The open source software platform that runs everywhere from the smartphone, the 
     *   [Telco](https://ubuntu.com/telco)
     *   [Finance](https://ubuntu.com/financial-services)
 *   *   [Public cloud](https://ubuntu.com/public-cloud)
+    *   [Cloud](https://ubuntu.com/cloud)
     *   [Containers](https://ubuntu.com/containers)
     *   [Core](https://ubuntu.com/core)
         -------------------------------
