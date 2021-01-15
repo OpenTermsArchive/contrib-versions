@@ -1,7 +1,7 @@
 **Vimeo Privacy Policy**
 ========================
 
-Last Updated: September 4, 2020
+Last Updated: January 15, 2021
 
 This Privacy Policy explains the information that Vimeo collects when you use its products and services, how that information is used, with whom it may be shared, and your privacy choices.
 
@@ -107,14 +107,14 @@ If you require further information about the balancing test that Vimeo has under
 
 We share data with third parties as follows:
 
-*   **As you instruct:** We may make your profile and videos available to others as you instruct in using our services. We may share your data with persons to whom you have granted account-level access.
-*   **With your consent:** We may share your data with third parties where we have obtained your express consent to do so.
-*   **Authorized vendors:** We may share your data with third-party vendors that help us operate our services, process orders, and comply with your instructions and our contractual obligations. This includes payment processors, content delivery networks (CDNs), cloud-based hosting services, monitoring services, email service providers, quality assurance and testing vendors, fraud and abuse prevention vendors, customer relations management (CRM) vendors, and shipment vendors.
-*   **Advertising:** We may share your data with advertising companies to display relevant ads to you.
-*   **Analytics:** We may share your data with analytics providers which help us understand how customers are using our services.
-*   **Affiliates and advisors:** We may share your data with our parent company, IAC/InterActiveCorp, and our auditors and advisors for planning, financial reporting, accounting, auditing, tax filings, and legal compliance. We may share your data with our affiliates to the extent necessary to provide you with the services ordered.
-*   **Certain legal situations:** We may share your data where we believe disclosure is necessary to comply with a legal obligation or in connection with a corporate transaction as discussed in Section 6.
-*   **Aggregated or anonymized information:** We may publicly disclose non-personal aggregated or anonymized information such as our number of visitors and registered users.
+*   **As you instruct:** We may make your profile and videos available to others as you instruct in using our services. We may share your data with persons to whom you have granted account-level access.
+*   **With your consent:** We may share your data with third parties where we have obtained your express consent to do so.
+*   **Authorized vendors:** We may share your data with third-party vendors that help us operate our services, process orders, and comply with your instructions and our contractual obligations. This includes payment processors, content delivery networks (CDNs), cloud-based hosting services, monitoring services, email service providers, quality assurance and testing vendors, fraud and abuse prevention vendors, customer relations management (CRM) vendors, and shipment vendors.
+*   **Advertising:** We may share your data with advertising companies to display relevant ads to you.
+*   **Analytics:** We may share your data with analytics providers which help us understand how customers are using our services.
+*   **Affiliates and advisors:** We may share your data with our parent company, IAC/InterActiveCorp, and our auditors and advisors for planning, financial reporting, accounting, auditing, tax filings, and legal compliance. We may share your data with our affiliates to the extent necessary to provide you with the services ordered.
+*   **Certain legal situations:** We may share your data where we believe disclosure is necessary to comply with a legal obligation or in connection with a corporate transaction as discussed in Section 6.
+*   **Aggregated or anonymized information:** We may publicly disclose non-personal aggregated or anonymized information such as our number of visitors and registered users.
 
 We use reasonable efforts to vet vendors for their privacy and data security practices. We require that such vendors agree to protect the data we share.
 
@@ -127,7 +127,11 @@ Where the services are provided to you through your employer or another organiza
 *   Delete or limit access to your account or its content; and/or
 *   Change the email address associated with your account.
 
-Please contact the organization’s administrator for further details.
+If you sign up for a Vimeo account using an email address belonging to an organization (i.e. your employer), we may disclose information about your account (such as the primary email address and the account type) to the corresponding organization.
+
+  
+
+Please contact your organization’s administrator for further details.
 
 6\. Legal and Safety-Related Disclosures
 ----------------------------------------
@@ -226,18 +230,18 @@ You may use our service through third-party sites and to send you offers. For ex
 
 ### **14.1 Location of Data**
 
-Vimeo is based in the United States. We provide services globally using computer systems, servers, and databases located in the U.S. and other countries. When you use our services from outside of the U.S., your information may be transferred to and processed in the U.S.. Please note that U.S. data and privacy laws may not be as comprehensive as those in your country. Residents of certain countries may be subject to additional protections as set forth in **Sections 14.2** and **14.3** below.
+Vimeo is based in the United States. We provide services globally using computer systems, servers, and databases located in the U.S. and other countries. When you use our services from outside of the U.S., your information may be transferred to and processed in the U.S.. Please note that U.S. data and privacy laws may not be as comprehensive as those in your country. Residents of certain countries may be subject to additional protections as set forth in **Sections 14.2** and **14.3** below.
 
-### **14.2 GDPR (EEA Users)**
+### **14.2 GDPR (EEA and UK Users)**
 
-This **Section 14.2** applies only to natural persons residing in the European Economic Area (for the purpose of this section only, "you" or "your" shall be limited accordingly). It is Vimeo's policy to comply with the EEA's General Data Protection Regulation (GDPR). In accordance with the GDPR, we may transfer your personal information from your home country to the U.S. (or other countries) based upon the following legal bases:
+This **Section 14.2** applies only to natural persons residing in the European Economic Area and the United Kingdom (for the purpose of this section only, "you" or "your" shall be limited accordingly). It is Vimeo's policy to comply with the EEA's General Data Protection Regulation (GDPR). In accordance with the GDPR, we may transfer your personal information from your home country to the U.S. (or other countries) based upon the following legal bases:
 
 *   Legitimate business interests: We could not provide our services or comply with our legal obligations without transferring your personal information to the U.S.
 *   Our use of Standard Contractual Clauses (also known as "Model Clauses") where appropriate.
 
-You have the right to: opt out of non-essential cookies (see our [Cookie Policy](https://vimeo.com/cookie_policy)); access, correct, delete, restrict, or object to our use of your personal information; be forgotten; port your data; and withdraw consents. We enable exercise of these rights primarily through our services (which we reserve the right to modify). For example, we allow users to change their information, download their videos, and close their accounts. We also fulfil our obligations in response to direct requests. We will endeavor to process requests within one month. Please note that we may not be able to comply with requests to the extent that they would cause us to violate any law or infringe any other person's rights. We reserve the right to request appropriate identification. We will process requests free of charge unless they would impose an unreasonable cost on us.
+You have the right to: opt out of non-essential cookies (see our [Cookie Policy](https://vimeo.com/cookie_policy)); access, correct, delete, restrict, or object to our use of your personal information; be forgotten; port your data; and withdraw consents. We enable exercise of these rights primarily through our services (which we reserve the right to modify). For example, we allow users to change their information, download their videos, and close their accounts. We also fulfil our obligations in response to direct requests. We will endeavor to process requests within one month. Please note that we may not be able to comply with requests to the extent that they would cause us to violate any law or infringe any other person's rights. We reserve the right to request appropriate identification. We will process requests free of charge unless they would impose an unreasonable cost on us.
 
-If you have a request, complaint or inquiry, please contact our Data Protection Officer at the address listed in **Section 15**. We are committed to working with you to obtain a fair resolution of any issue. You also have the right to file a complaint with the supervisory data protection authority of your jurisdiction.
+If you have a request, complaint or inquiry, please contact our Data Protection Officer at the address listed in **Section 15**. We are committed to working with you to obtain a fair resolution of any issue. You also have the right to file a complaint with the supervisory data protection authority of your jurisdiction.
 
 ### **14.3 California Users**
 
@@ -245,19 +249,19 @@ Under California’s “Shine the Light” law, California residents have the ri
 
 Under the California Consumer Privacy Act (“CCPA”), California consumers have the following rights, which can be exercised directly or in certain cases, through an authorized agent:
 
-**Right to Know.** You have the right to request information about the categories and sources of personal information we collect, our purposes for collecting the information, and the types of third parties that receive that information. Details about our data collection, use and third-party disclosures can be found [here](https://vimeo.com/privacy/california-privacy). In addition, you have the right to request a copy of your personal information. You may exercise this right once per 12-month period by using this [form](https://vimeo.com/help/contact?category=cf_account&subcategory=cf_privacy_related_request).
+**Right to Know.** You have the right to request information about the categories and sources of personal information we collect, our purposes for collecting the information, and the types of third parties that receive that information. Details about our data collection, use and third-party disclosures can be found [here](https://vimeo.com/privacy/california-privacy). In addition, you have the right to request a copy of your personal information. You may exercise this right once per 12-month period by using this [form](https://vimeo.com/help/contact?category=cf_account&subcategory=cf_privacy_related_request).
 
-**Right to Delete.** You have the right to request that we delete some or all of the personal information that we have about you. Deleting all data will typically require the deletion of your account, along with all content, including your videos. Notwithstanding the foregoing, we may retain information to provide services you have ordered, complete transactions, honor opt-outs, prevent fraud, spam, and other abuse, comply with our legal obligations, cooperate with law enforcement, and to exercise and defend our rights. You may exercise your right to delete using this [form](https://vimeo.com/help/contact?category=cf_account&subcategory=cf_privacy_related_request).
+**Right to Delete.** You have the right to request that we delete some or all of the personal information that we have about you. Deleting all data will typically require the deletion of your account, along with all content, including your videos. Notwithstanding the foregoing, we may retain information to provide services you have ordered, complete transactions, honor opt-outs, prevent fraud, spam, and other abuse, comply with our legal obligations, cooperate with law enforcement, and to exercise and defend our rights. You may exercise your right to delete using this [form](https://vimeo.com/help/contact?category=cf_account&subcategory=cf_privacy_related_request).
 
-**Do Not Sell.** You have the right to opt out of the sale of your personal information, and to request information about whether we have sold your personal information in the past 12 months. Vimeo does not sell personal information, and we have not done so in the last year. If we begin to do so, we will update this notice and provide a mechanism to opt out of any such sale.
+**Do Not Sell.** You have the right to opt out of the sale of your personal information, and to request information about whether we have sold your personal information in the past 12 months. When you use our services, we may share your personal information with advertising partners in a way that may constitute a sale under the CCPA. You may opt out via the link provided on the relevant page or app. If we do not provide an opt-out mechanism, it is because we do not believe in good faith that your personal information is being sold. 
 
-**Non-Discrimination.** We won’t discriminate against you because you exercise any rights herein.
+**Non-Discrimination.** We won’t discriminate against you because you exercise any rights herein.
 
 To exercise your rights to know and delete, we must be able to verify your identity as the owner of the Vimeo account you are inquiring about. We may not be able to fulfill your request until we can do so. In general, we verify identity by confirming that you are the owner of the email address associated with the account. An authorized agent submitting a request on your behalf must also have access to the email address associated with the account, along with sufficient evidence that you have authorized that person to submit the request on your behalf. Although you need not have a Vimeo account to submit a request, we may not be able to locate certain information to process your request if you don’t have one.
 
 ### **14.4 Nevada Users**
 
-Nevada residents have the right to opt out of the sale of certain "covered information" collected by operators of websites or online services. We currently do not sell covered information, as "sale" is defined by such law, and we don't have plans to sell this information. However, if you would like to be notified if we decide in the future to sell personal information covered by the Act, you can provide us with your name and email address [here](https://forms.gle/Fz9PvcKHMdT7WTer5). You are responsible for updating any change in your email address by the same method and we are not obligated to cross-reference other emails you may have otherwise provided us for other purposes. We will maintain this information and contact you if our plans change. At that time, we will create a process for verifying your identity and providing an opportunity to verified consumers to complete their opt-out. Please become familiar with our data practices as set forth in this Privacy Policy. We may share your data as explained in this Privacy Policy, such as to enhance your experiences and our services, and those activities will be unaffected by a Nevada do not sell request.
+Nevada residents have the right to opt out of the sale of certain "covered information" collected by operators of websites or online services. We currently do not sell covered information, as "sale" is defined by such law, and we don't have plans to sell this information. However, if you would like to be notified if we decide in the future to sell personal information covered by the Act, you can provide us with your name and email address [here](https://forms.gle/Fz9PvcKHMdT7WTer5). You are responsible for updating any change in your email address by the same method and we are not obligated to cross-reference other emails you may have otherwise provided us for other purposes. We will maintain this information and contact you if our plans change. At that time, we will create a process for verifying your identity and providing an opportunity to verified consumers to complete their opt-out. Please become familiar with our data practices as set forth in this Privacy Policy. We may share your data as explained in this Privacy Policy, such as to enhance your experiences and our services, and those activities will be unaffected by a Nevada do not sell request.
 
 15\. How to Contact Us
 ----------------------
