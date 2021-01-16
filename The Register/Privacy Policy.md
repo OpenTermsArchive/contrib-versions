@@ -8,7 +8,7 @@ Last updated at: February 9, 2020
 
 **The Register ("The Register", "our", "we") is owned and operated by [Situation Publishing Limited](https://situationpublishing.com/)**.
 
- [![](https://pubads.g.doubleclick.net/gampad/ad?co=1&iu=/6978/reg_misc/other&sz=300x250&tile=2&c=2YAI0DVi@YkccBZB8wtW0aQAAAME&t=ct%3Dns%26unitnum%3D2%26raptor%3Dcondor%26pos%3Dtop%26test%3D0)](https://pubads.g.doubleclick.net/gampad/jump?co=1&iu=/6978/reg_misc/other&sz=300x250&tile=2&c=2YAI0DVi@YkccBZB8wtW0aQAAAME&t=ct%3Dns%26unitnum%3D2%26raptor%3Dcondor%26pos%3Dtop%26test%3D0) 
+ [![](https://pubads.g.doubleclick.net/gampad/ad?co=1&iu=/6978/reg_misc/other&sz=300x250&tile=2&c=2YAJCRCrD4V7AMdEWa40BCgAAAJg&t=ct%3Dns%26unitnum%3D2%26raptor%3Dcondor%26pos%3Dtop%26test%3D0)](https://pubads.g.doubleclick.net/gampad/jump?co=1&iu=/6978/reg_misc/other&sz=300x250&tile=2&c=2YAJCRCrD4V7AMdEWa40BCgAAAJg&t=ct%3Dns%26unitnum%3D2%26raptor%3Dcondor%26pos%3Dtop%26test%3D0) 
 
 Situation Publishing Limited  
 Unit 1  
@@ -19,7 +19,7 @@ PR8 1LJ
 
 ### Introduction
 
- [![](https://pubads.g.doubleclick.net/gampad/ad?co=1&iu=/6978/reg_misc/other&sz=300x250%7C300x252%7C300x600&tile=3&c=33YAI0DVi@YkccBZB8wtW0aQAAAME&t=ct%3Dns%26unitnum%3D3%26raptor%3Deagle%26pos%3Dtop%26test%3D0)](https://pubads.g.doubleclick.net/gampad/jump?co=1&iu=/6978/reg_misc/other&sz=300x250%7C300x252%7C300x600&tile=3&c=33YAI0DVi@YkccBZB8wtW0aQAAAME&t=ct%3Dns%26unitnum%3D3%26raptor%3Deagle%26pos%3Dtop%26test%3D0) 
+ [![](https://pubads.g.doubleclick.net/gampad/ad?co=1&iu=/6978/reg_misc/other&sz=300x250%7C300x252%7C300x600&tile=3&c=33YAJCRCrD4V7AMdEWa40BCgAAAJg&t=ct%3Dns%26unitnum%3D3%26raptor%3Deagle%26pos%3Dtop%26test%3D0)](https://pubads.g.doubleclick.net/gampad/jump?co=1&iu=/6978/reg_misc/other&sz=300x250%7C300x252%7C300x600&tile=3&c=33YAJCRCrD4V7AMdEWa40BCgAAAJg&t=ct%3Dns%26unitnum%3D3%26raptor%3Deagle%26pos%3Dtop%26test%3D0) 
 
 The Register strongly believes in respecting individuals' right to privacy. The Register will never use your personal data for any use beyond that stated or the permissions you give us or as required by law. This Privacy Policy ("**Privacy Policy**") aims to give you information on how The Register collects and processes your personal data when you use www.theregister.com ("**Website**").
 
@@ -239,7 +239,7 @@ Unit 1 Portland Street Trading Estate
 Southport  
 PR8 1LJ
 
- [![](https://pubads.g.doubleclick.net/gampad/ad?co=1&iu=/6978/reg_misc/other&sz=300x100%7C300x250%7C300x251&tile=4&c=44YAI0DVi@YkccBZB8wtW0aQAAAME&t=ct%3Dns%26unitnum%3D426raptor%3Dfalcon%26pos%3Dmid%26test%3D0)](https://pubads.g.doubleclick.net/gampad/jump?co=1&iu=/6978/reg_misc/other&sz=300x100%7C300x250%7C300x251&tile=4&c=44YAI0DVi@YkccBZB8wtW0aQAAAME&t=ct%3Dns%26unitnum%3D4%26raptor%3Dfalcon%26pos%3Dmid%26test%3D0) 
+ [![](https://pubads.g.doubleclick.net/gampad/ad?co=1&iu=/6978/reg_misc/other&sz=300x100%7C300x250%7C300x251&tile=4&c=44YAJCRCrD4V7AMdEWa40BCgAAAJg&t=ct%3Dns%26unitnum%3D426raptor%3Dfalcon%26pos%3Dmid%26test%3D0)](https://pubads.g.doubleclick.net/gampad/jump?co=1&iu=/6978/reg_misc/other&sz=300x100%7C300x250%7C300x251&tile=4&c=44YAJCRCrD4V7AMdEWa40BCgAAAJg&t=ct%3Dns%26unitnum%3D4%26raptor%3Dfalcon%26pos%3Dmid%26test%3D0) 
 
 **By Email**  
 Reader Services: [readerservices@situationpublishing.com](mailto:readerservices@situationpublishing.com)
