@@ -1,6 +1,6 @@
 #### Privacy Policy
 
-**New Version (Effective as of December 22,2020)** 
+**New Version (Effective as of January 16,2021)** 
 
 [A. COLLECTION OF INFORMATION.](https://rule.alibaba.com/rule/detail/2034.htm#AA)
 
@@ -36,7 +36,7 @@
 
 [K. LANGUAGE.](http://rule.alibaba.com/rule/detail/2034.htm#KK)
 
-**Note: this Alibaba.com Privacy Policy applies to the collection, use and disclosure of information in connection with the products and services offered by Alibaba.com. Please refer to** **[AliExpress.com Privacy Policy](https://helppage.aliexpress.com/buyercenter/questionAnswer.htm?spm=a2g19.helppage_7aypo.0.0.4725150bh7ob3A&isRouter=0&viewKey=1&id=1000099018&categoryIds=9205401&lang=ru)** **for the privacy policy that governs the collection, use and disclosure of information in connection with the products and services offered by AliExpress.com.**   
+**Note: this Alibaba.com Privacy Policy applies to the collection, use and disclosure of information in connection with the products and services offered by Alibaba.com. Please refer to** **[AliExpress.com Privacy Policy](https://service.aliexpress.com/page/knowledge?pageId=37&category=1000022028&knowledge=1060015216&language=en)** **for the privacy policy that governs the collection, use and disclosure of information in connection with the products and services offered by AliExpress.com.**   
  
 
 We at Alibaba.com (**"we", "us"**) recognize the importance of privacy and confidentiality of personal information.   
