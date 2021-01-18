@@ -55,7 +55,7 @@ For example, we use Google Analytics to help us understand how our customers use
 
 We also use Shopify to power our online store--you can read more about how Shopify uses your Personal Information here: [https://www.shopify.com/legal/privacy](https://www.shopify.com/legal/privacy).
 
-We fund our site by showing adverts as you browse our site. These adverts are usually managed by a partner specializing in providing adverts for multiple sites. Invariably these partners collect anonymous data about the websites you visits so they can personalize the adverts to you, ensure that you don't see the same adverts too frequently and ultimately report to advertisers on which adverts are working.
+We fund our site by showing adverts as you browse our site. These adverts are usually managed by a partner specializing in providing adverts for multiple sites. Invariably these partners collect anonymous data about the websites you visits so they can personalize the adverts to you, ensure that you don't see the same adverts too frequently and ultimately report to advertisers on which adverts are working. We use a third-party to provide monetization technologies for our site. You can review their [privacy and cookie policy here](https://www.snigel.com/privacy-policy/).
 
 Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
 
