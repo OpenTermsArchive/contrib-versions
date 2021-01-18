@@ -127,11 +127,7 @@ Where the services are provided to you through your employer or another organiza
 *   Delete or limit access to your account or its content; and/or
 *   Change the email address associated with your account.
 
-If you sign up for a Vimeo account using an email address belonging to an organization (i.e. your employer), we may disclose information about your account (such as the primary email address and the account type) to the corresponding organization.
-
-  
-
-Please contact your organization’s administrator for further details.
+If you sign up for a Vimeo account using an email address belonging to an organization (i.e. your employer), we may disclose information about your account (such as the primary email address and the account type) to the corresponding organization. Please contact your organization’s administrator for further details.
 
 6\. Legal and Safety-Related Disclosures
 ----------------------------------------
