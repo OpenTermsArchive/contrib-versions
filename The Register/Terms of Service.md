@@ -5,13 +5,9 @@ Welcome to The Register. The Register is a news organisation owned and operated 
 
 ### 1\. Your acceptance of these Terms
 
- [![](https://pubads.g.doubleclick.net/gampad/ad?co=1&iu=/6978/reg_misc/other&sz=300x250&tile=2&c=2YANyCSrD4V7AMdEWa42G0AAAAIk&t=ct%3Dns%26unitnum%3D2%26raptor%3Dcondor%26pos%3Dtop%26test%3D0)](https://pubads.g.doubleclick.net/gampad/jump?co=1&iu=/6978/reg_misc/other&sz=300x250&tile=2&c=2YANyCSrD4V7AMdEWa42G0AAAAIk&t=ct%3Dns%26unitnum%3D2%26raptor%3Dcondor%26pos%3Dtop%26test%3D0) 
-
 1.1 By using, visiting, accessing and/or registering with The Register’s website (“Website”) (including all content available through this Website), you have read, understood and agree to be bound by these Terms and the terms and conditions of our [privacy policy which can be found here](https://www.theregister.com/about/company/privacy/) and which are incorporated in these Terms by reference. If you do not agree to be bound by these Terms (as amended from time to time), then please do not use this Website.
 
 1.2 We reserve the right to change, modify, add or delete parts of these Terms at any time and without further notice. Such amendments shall be effective upon posting the revised Terms on the Website.
-
- [![](https://pubads.g.doubleclick.net/gampad/ad?co=1&iu=/6978/reg_misc/other&sz=300x250%7C300x252%7C300x600&tile=3&c=33YANyCSrD4V7AMdEWa42G0AAAAIk&t=ct%3Dns%26unitnum%3D3%26raptor%3Deagle%26pos%3Dtop%26test%3D0)](https://pubads.g.doubleclick.net/gampad/jump?co=1&iu=/6978/reg_misc/other&sz=300x250%7C300x252%7C300x600&tile=3&c=33YANyCSrD4V7AMdEWa42G0AAAAIk&t=ct%3Dns%26unitnum%3D3%26raptor%3Deagle%26pos%3Dtop%26test%3D0) 
 
 1.3 These Terms are binding on Members and on non-Members who access and use the Website (“Users”)
 
@@ -134,8 +130,6 @@ You agree that your correspondence with or participation in promotions of advert
 If the whole or part of any term or provision in these Terms is to any extent held to be void, invalid, illegal or unenforceable under any enactment or rule of law, that term or provision or part of it shall to that extent be deemed not to form part of this agreement, and the validity and enforceability of the remainder of these Terms shall not be affected.
 
 ### 16\. Law and Jurisdiction
-
- [![](https://pubads.g.doubleclick.net/gampad/ad?co=1&iu=/6978/reg_misc/other&sz=300x100%7C300x250%7C300x251&tile=4&c=44YANyCSrD4V7AMdEWa42G0AAAAIk&t=ct%3Dns%26unitnum%3D426raptor%3Dfalcon%26pos%3Dmid%26test%3D0)](https://pubads.g.doubleclick.net/gampad/jump?co=1&iu=/6978/reg_misc/other&sz=300x100%7C300x250%7C300x251&tile=4&c=44YANyCSrD4V7AMdEWa42G0AAAAIk&t=ct%3Dns%26unitnum%3D4%26raptor%3Dfalcon%26pos%3Dmid%26test%3D0) 
 
 These Terms (as amended from time to time) are exclusively governed by and are construed in accordance with the laws of England and Wales whose courts will have exclusive jurisdiction in any dispute or any proceedings arising out of or in connection with these Terms, save that we have the right to commence and pursue proceedings in alternative jurisdictions.
 
