@@ -9,7 +9,7 @@ Content
 *   TCs:
     0.  [Definitions](#tcs_s0)
     1.  [Scope and nature of our Service](#tcs_s1)
-    2.  [Prices, crossed-out rates, Best Price Guarantee and Genius programme](#tcs_s2)
+    2.  [Prices, We Price Match, Genius programme and offers facilitated by a partner company](#tcs_s2)
     3.  [Privacy and cookies](#tcs_s3)
     4.  [Free of charge for consumers, only Trip Providers pay!](#tcs_s4)
     5.  [Credit card or bank transfer](#tcs_s5)
@@ -63,8 +63,8 @@ When rendering our Trip Service, the information that we disclose is based on th
 
 Our Trip Service is made available for personal and non-commercial use only. Therefore, you are not allowed to re-sell, deep-link, use, copy, monitor (e.g. spider, scrape), display, download or reproduce any content or information, software, reservations, tickets, products or services available on our Platform for any commercial or competitive activity or purpose.
 
-2\. Prices, crossed-out rates, Best Price Guarantee and Genius programme
-------------------------------------------------------------------------
+2\. Prices, We Price Match, Genius programme and offers facilitated by a partner company
+----------------------------------------------------------------------------------------
 
 The prices as offered by the Trip Providers on our Platform are highly competitive. All prices for your Trip are displayed including VAT/sales tax and all other taxes (subject to change of such taxes) and fees, unless stated differently on our Platform or the confirmation email/ticket. Ticket prices are per person or group and subject to validity or expiration as indicated on the ticket, if applicable. Applicable fees and taxes (including tourist/city tax) may be charged by the Trip Provider in the event of a no-show or cancellation.
 
