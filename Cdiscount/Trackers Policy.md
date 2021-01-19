@@ -388,9 +388,11 @@ Profilage** : Le profilage consiste en l’établissement d’un profil individu
 Cdiscount.com - Le e-commerce made in France
 ============================================
 
-(#) Paiement en 4 fois sur tout le site. voir conditions [ici](https://i2.cdscdn.com/resources/InterestRateConfiguration/4f.pdf) et sous réserve d’acceptation de Cdiscount ou de FLOA Bank  
+°Sur produits signalés, période de Soldes du 20 Janvier au 16 Février 2021  
+\*\*Réduction maximale constatée sur une sélection d’articles  
+(#)Paiement en 4 fois sur tout le site. voir conditions [ici](https://i2.cdscdn.com/resources/InterestRateConfiguration/4f.pdf) et sous réserve d’acceptation de Cdiscount ou de FLOA Bank  
 @ voir les mentions de l’offre [ici](https://www.cdiscount.com/carte-cdiscount/commande)  
-(1) En France métropolitaine, voir conditions [ici](https://www.cdiscount.com/shipping/shippinginfo.html)  
-(2) Voir conditions et modalités particulières dans les CGV pour les produits d’occasion. Ces garanties ne sont pas applicables aux produits vendus sur la Marketplace, merci de vous référer aux CGV du vendeur.  
-(3) En application du droit de rétractation dont vous bénéficiez en vertu de l’article L. 221-18 et s. du Code de la Consommation. Voir modalités d’exercice de ce droit en cliquant [ici](https://clients.cdiscount.com/simple/cgv.aspx)  
-(4) « Garantie Légale de Conformité dont vous bénéficiez en vertu des articles L 217-4 et suivants du Code de la Consommation – voir conditions en cliquant [ici](https://clients.cdiscount.com/simple/cgv.aspx)
+(1)En France métropolitaine, voir conditions [ici](https://www.cdiscount.com/shipping/shippinginfo.html)  
+(2)Voir conditions et modalités particulières dans les CGV pour les produits d’occasion. Ces garanties ne sont pas applicables aux produits vendus sur la Marketplace, merci de vous référer aux CGV du vendeur.  
+(3)En application du droit de rétractation dont vous bénéficiez en vertu de l’article L. 221-18 et s. du Code de la Consommation. Voir modalités d’exercice de ce droit en cliquant [ici](https://clients.cdiscount.com/simple/cgv.aspx)  
+(4)«Garantie Légale de Conformité dont vous bénéficiez en vertu des articles L 217-4 et suivants du Code de la Consommation – voir conditions en cliquant [ici](https://clients.cdiscount.com/simple/cgv.aspx)
