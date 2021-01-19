@@ -1,7 +1,7 @@
 Reddit Content Policy for Live Video
 ====================================
 
-For content broadcast live on Reddit, all aspects of the Reddit [Content Policy](https://www.redditinc.com/policies/content-policy) apply as usual.
+The Reddit [Content Policy](https://www.redditinc.com/policies/content-policy) applies to all content, including chats, on Reddit Live.
 
 Additionally:
 
