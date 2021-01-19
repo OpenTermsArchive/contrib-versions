@@ -3,6 +3,10 @@ Terms of Use
 
 These terms apply to services purchased on SurveyMonkey’s websites. For terms applicable to services offered through SurveyMonkey’s enterprise sales team, please see our [Governing Services Agreement](https://www.surveymonkey.com/mp/legal/msa/).
 
+![Lightbulb icon](https://cdn.smassets.net/assets/cms/cc/app/2.103.0/images/legal-highlight-icon.png)
+
+These Terms of Use are effective upon sign up for new users and beginning January 1, 2021 for existing users.
+
 Versions:
 
 November 2, 2020 (current)November 20, 2019September 26, 2019February 27, 2019January 2, 2019April 11, 2018June 2, 2016July 8, 2015 (International)January 1, 2015 (International)June 25, 2013March 28, 2012 (International)December 12, 2011 (U.S.)July 21, 2010 (International)June 23, 2010 (U.S.)May 28, 2008 (U.S.)Wufoo Terms of Service (archived)
