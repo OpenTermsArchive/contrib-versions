@@ -139,41 +139,4 @@ Each registration is for a single user only. You are not allowed to share your r
 
 **11\. GOVERNING LAW; JURISDICTION**
 
-11.1 These Terms of Service have been made and shall be construed and enforced in accordance with the laws of the United States of America and the State of New York as an agreement wholly performed therein without regard to their conflict of law provisions and the United Nations Conventions on Contracts (if applicable).
-
-11.2 Any claim or cause of action arising out of or related to use of the Services or these Terms of Services must be filed within one year after such claim or cause of action arose or be forever barred. Any claim by you that may arise in connection with these Terms of Service will be compensable by monetary damages and you will in no event be entitled to injunctive or other equitable relief. You also hereby expressly waive any right to resort to any form of class action.
-
-**12\. MISCELLANEOUS**
-
-12.1 These Terms of Service have been made in and shall be construed and enforced in accordance with New York law. Any action to enforce these Terms of Service shall be brought in the federal or state courts located in New York City.
-
-12.2 Nothing in these Terms of Service will serve to preempt the promises made in our [Privacy Policy](https://help.nytimes.com/hc/en-us/articles/115014892108-Privacy-policy).
-
-12.3 Correspondence should be sent to [help@nytimes.com](mailto:help@nytimes.com).
-
-12.4 You agree to report any violations of the Terms of Service to NYT as soon as you become aware of them. In the event you have a claim of copyright infringement with respect to material that is contained in a Service, please notify [copyrights@nytimes.com](mailto:copyrights@nytimes.com). (Please direct all general questions to [help@nytimes.com](mailto:help@nytimes.com).)
-
-12.5 Our failure to enforce any provision of these Terms of Service or to respond to a breach by you or other parties shall not in any way constitute a waiver of our right to enforce subsequently any terms or conditions of these Terms of Service or to act with respect to similar breaches.
-
-12.6  If you believe that your work has been copied in a way that constitutes copyright infringement, please provide us the following information. Please be advised that to be effective, the Notice must include ALL of the following:
-
-1.  a physical or electronic signature of the person authorized to act on behalf of the owner of an exclusive copyright that is allegedly infringed;  
-    
-2.  a description of the copyrighted work that you claim has been infringed;
-3.  a description of where the material that you claim is infringing is located on the Site
-4.  your address, telephone number, and email address and all other information reasonably sufficient to permit us to contact you;
-5.  a statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law;
-6.  a statement by you, made under penalty of perjury, that the above information in your Notice is accurate and that you are the copyright owner or authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
-
-**Notices of claimed copyright infringement should be directed to:**
-
-**By mail:**
-
-The New York Times Company  
-620 Eighth Avenue  
-New York, NY 10018
-
-Attention: General Counsel  
-212-556-7888
-
-**By email:**[copyrights@nytimes.com](mailto:copyright@nytimes.com)
+11.1 These Terms of Service have been made and shall be construed and enforced in accordance with the laws of the United States of America and the State of New York as an agreement wholly performed therein without regard to their conflict of law provisions and the United Nations Conventions
