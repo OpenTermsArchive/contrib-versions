@@ -167,7 +167,7 @@ Par ailleurs, vous pouvez demander à exercer votre droit d’opposition pour de
 
 Rue du Commerce souhaite vous informer que le non renseignement ou la modification de vos données sont susceptibles d’avoir des conséquences dans le traitement de certaines demandes dans le cadre de l’exécution des conditions générales du programme de fidélité et que vos demandes au titre de l’exercice des droits sera conservées à des fins de suivi.
 
-Pour exercer vos droits, il vous suffit d’écrire à Rue du Commerce, Service Client - 44/50 Avenue du Capitaine Glarner - 93585 Saint-Ouen CEDEX en nous indiquant vos nom, prénom, adresse e-mail et si possible votre référence client. Conformément à la réglementation en vigueur, votre demande doit être signée et accompagnée de la photocopie d’un titre d’identité portant votre signature et préciser l’adresse à laquelle doit vous parvenir la réponse. Une réponse vous sera alors adressée dans les meilleurs délais.
+Pour exercer vos droits, il vous suffit d’écrire à Rue du Commerce, Service Client - 44/50 Avenue du Capitaine Glarner - 93585 Saint-Ouen CEDEX, ou par email à l'adresse suivante : dpo@rueducommerce.com en nous indiquant vos nom, prénom, adresse e-mail et si possible votre référence client. Une réponse vous sera alors adressée dans les meilleurs délais.
 
 Nous vous informons par ailleurs de l’existence de la liste d'opposition au démarchage téléphonique « Bloctel », gérée par Opposetel, sur laquelle vous pouvez vous inscrire gratuitement ici : [https://conso.bloctel.fr/](https://conso.bloctel.fr/).
 
@@ -461,7 +461,7 @@ Par ailleurs, vous pouvez demander à exercer votre droit d’opposition pour de
 
 Rue du Commerce souhaite vous informer que le non renseignement ou la modification de vos données sont susceptibles d’avoir des conséquences dans le traitement de certaines demandes dans le cadre de l’exécution des conditions générales du programme de fidélité et que vos demandes au titre de l’exercice des droits sera conservées à des fins de suivi.
 
-Pour exercer vos droits, il vous suffit d’écrire à Rue du Commerce, Service Client - 44/50 Avenue du Capitaine Glarner - 93585 Saint-Ouen CEDEX en nous indiquant vos nom, prénom, adresse e-mail et si possible votre référence client. Conformément à la réglementation en vigueur, votre demande doit être signée et accompagnée de la photocopie d’un titre d’identité portant votre signature et préciser l’adresse à laquelle doit vous parvenir la réponse. Une réponse vous sera alors adressée dans les meilleurs délais.
+Pour exercer vos droits, il vous suffit d’écrire à Rue du Commerce, Service Client - 44/50 Avenue du Capitaine Glarner - 93585 Saint-Ouen CEDEX, ou par email à l'adresse suivante : dpo@rueducommerce.com en nous indiquant vos nom, prénom, adresse e-mail et si possible votre référence client. Une réponse vous sera alors adressée dans les meilleurs délais.
 
 Nous vous informons par ailleurs de l’existence de la liste d'opposition au démarchage téléphonique « Bloctel », gérée par Opposetel, sur laquelle vous pouvez vous inscrire gratuitement ici : [https://conso.bloctel.fr/](https://conso.bloctel.fr/).
 
