@@ -38,7 +38,7 @@ General Guidelines
 
 *   Try to use text instead of images to display important names, content, or links. If you must use images for textual content, use the `alt` attribute to include a few words of descriptive text.
 *   Ensure that all links go to live web pages. Use [valid HTML](https://validator.w3.org/).
-*   Optimize your page loading times. Fast sites make users happy and improve the overall quality of the web (especially for those users with slow Internet connections). Google recommends that you use tools like [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) and [Webpagetest.org](http://www.webpagetest.org/) to test the performance of your page.
+*   Optimize your page loading times. Fast sites make users happy and improve the overall quality of the web (especially for those users with slow Internet connections). Google recommends that you use tools like [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) and [Webpagetest.org](https://www.webpagetest.org/) to test the performance of your page.
 *   Design your site for all device types and sizes, including desktops, tablets, and smartphones. Use the [mobile friendly testing tool](https://search.google.com/test/mobile-friendly) to test how well your pages work on mobile devices, and get feedback on what needs to be fixed.
 *   Ensure that your site [appears correctly in different browsers](https://support.google.com/search/docs/advanced/guidelines/browser-compatibility).
 *   If possible, [secure your site's connections](https://support.google.com/search/docs/advanced/security/https) with HTTPS. Encrypting interactions between the user and your website is a good practice for communication on the web.
