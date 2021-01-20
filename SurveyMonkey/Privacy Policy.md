@@ -7,10 +7,6 @@ November 2, 2020 (current)August 6, 2020July 7, 2020November 20, 2019September 2
 
 LAST UPDATED: NOVEMBER 2, 2020
 
-![Lightbulb icon](https://cdn.smassets.net/assets/cms/cc/app/2.103.0/images/legal-highlight-icon.png)
-
-This Privacy Notice is effective upon sign up for new users (Creators), or on most recent visit to our sites (Visitors/Respondents) and otherwise, beginning January 1, 2021 for existing users (Creators) of our services.
-
 California residents: Please visit our [California Supplemental Privacy Notice](https://www.surveymonkey.com/mp/legal/region-specific-privacy-statement/) for more information on our privacy practices.
 
 1\. Introduction
