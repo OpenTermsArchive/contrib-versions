@@ -1,5 +1,5 @@
-Developer Program Policy (effective December 16, 2020)
-======================================================
+Developer Program Policy (effective January 20, 2021)
+=====================================================
 
 Let's build the world's most trusted source for apps and games
 ==============================================================
@@ -884,36 +884,37 @@ Google Play supports a variety of monetization strategies to benefit developers 
 Payments
 --------
 
-Apps that employ in-store or in-app purchases must comply with the following guidelines:
-
-**In-store purchases:** Developers charging for apps and downloads from Google Play must use Google Play’s payment system.
-
-**In-app purchases:**
-
-*   Developers offering products within a game downloaded on Google Play or providing access to game content must use [Google Play In-app Billing](https://developer.android.com/google/play/billing/index.html) as the method of payment.
-*   Developers offering products within another category of app downloaded on Google Play must use [Google Play In-app Billing](https://developer.android.com/google/play/billing/index.html) as the method of payment, except for the following cases:
-    *   Payment is solely for physical products
-    *   Payment is for digital content that may be consumed outside of the app itself (e.g. songs that can be played on other music players).
-*   In-app virtual currencies must only be used within the app or game title for which they were purchased.
-*   Developers must not mislead users about the apps they are selling nor about any in-app services, goods, content, or functionality offered for purchase. If your product description on Google Play refers to in-app features that may require a specific or additional charge, your description must clearly notify users that payment is required to access those features.
-*   Apps offering mechanisms to receive randomized virtual items from a purchase (i.e. "loot boxes") must clearly disclose the odds of receiving those items in advance of purchase.
-
-#### Here are some examples of products supported by Google Play In-app Billing:
-
-*   **Virtual game products**, including coins, gems, extra lives or turns, special items or equipment, characters or avatars, additional levels or playtime.
-*   **App functionality or content**, such as an ad-free version of an app or new features not available in the free version.
-*   **Subscription services**, such as streaming music, video, book, or other media services; digital publications, including when bundled with a physical edition; and social networking services.
-*   **Cloud software products**, including data storage services, business productivity software, and financial management software.
-
-#### Here are some examples of products not currently supported by Google Play In-app Billing:
-
-*   **Retail merchandise**, such as groceries, clothing, housewares, and electronics.
-*   **Service fees**, including taxi and transportation services, cleaning services, food delivery, airfare, and event tickets.
-*   **One-time membership fees or recurring dues**, including gym memberships, loyalty programs, or clubs offering accessories, clothing, or other physical products.
-*   **One time-payments**, including peer-to-peer payments, online auctions, and donations.
-*   **Electronic bill payment**, including credit card bills, utilities, and cable or telecommunications services.
-
-**Note that we offer the Google Pay API for apps selling physical products and services. For more information, please visit our [Google Pay developer page](https://developers.google.com/payments)**.
+1.  Developers charging for apps and downloads from Google Play must use Google Play's billing system as the method of payment.
+2.  Play-distributed apps must use Google Play's billing system as the method of payment if they require or accept payment for access to features or services, including any app functionality, digital content or goods.
+    
+    1.  Examples of app features or services requiring use of Google Play's billing system include, but are not limited to, in-app purchases of:
+        *   Items (such as virtual currencies, extra lives, additional playtime, add-on items, characters and avatars);
+        *   subscription services (such as fitness, game, dating, education, music, video, and other content subscription services);
+        *   app functionality or content (such as an ad-free version of an app or new features not available in the free version); and
+        *   cloud software and services (such as data storage services, business productivity software, and financial management software).
+    2.  Google Play's billing system must not be used in cases where: 
+        *   payment is primarily:
+            
+            Note: In some markets, we offer Google Pay for apps selling physical goods and/or services. For more information, please visit our [Google Pay developer page](https://developers.google.com/pay/).
+            
+            *   for the purchase or rental of physical goods (such as groceries, clothing, housewares, electronics);
+            *   for the purchase of physical services (such as transportation services, cleaning services, airfare, gym memberships, food delivery, tickets for live events); or
+            *   a remittance in respect of a credit card bill or utility bill (such as cable and telecommunications services);
+        *   payments include peer-to-peer payments, online auctions, and tax exempt donations;
+        *   payment is for content or services that facilitate online gambling, as described in the [Gambling Apps](https://support.google.com/googleplay/android-developer/answer/9877032#gambling-apps) section of the [Real-Money Gambling, Games, and Contests](https://support.google.com/googleplay/android-developer/answer/9877032) policy;
+        *   payment is in respect of any product category deemed unacceptable under Google’s [Payments Center Content Policies](https://support.google.com/payments/merchant/answer/75724?visit_id=1-636308113142509927-1253831182&payments_to_biz=&rd=1).
+3.  Apps other than those described in 2(b) may not lead users to a payment method other than Google Play's billing system.  This prohibition includes, but is not limited to, leading users to other payment methods via:
+    
+    *   An app’s listing in Google Play;
+    *   In-app promotions related to purchasable content; 
+    *   In-app webviews, buttons, links, messaging, advertisements or other calls to action; and
+    *   In-app user interface flows, including account creation or sign-up flows, that lead users from an app to a payment method other than Google Play's billing system as part of those flows. 
+4.  In-app virtual currencies must only be used within the app or game title for which they were purchased.
+    
+5.  Developers must clearly and accurately inform users about the terms and pricing of their app or any in-app features or subscriptions offered for purchase. In-app pricing must match the pricing displayed in the user-facing Play billing interface. If your product description on Google Play refers to in-app features that may require a specific or additional charge, your app listing must clearly notify users that payment is required to access those features.
+    
+6.  Apps and games offering mechanisms to receive randomized virtual items from a purchase including, but not limited to, “loot boxes” must clearly disclose the odds of receiving those items in advance of, and in close and timely proximity to, that purchase.
+    
 
 Subscriptions
 -------------
