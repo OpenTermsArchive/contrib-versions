@@ -172,6 +172,7 @@ The open source software platform that runs everywhere from the smartphone, the 
     *   [FIPS](https://ubuntu.com/security/certifications#fips)
     *   [Hardening](https://ubuntu.com/security/certifications#cis)
     *   [Certifications](https://ubuntu.com/security/certifications)
+    *   [CVEs](https://ubuntu.com/security/cve)
     *   [Notices](https://ubuntu.com/security/notices)
     *   [OVAL](https://ubuntu.com/security/oval)
     *   [Docker Images](https://ubuntu.com/security/docker-images)
