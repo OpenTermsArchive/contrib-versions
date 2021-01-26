@@ -131,7 +131,7 @@ What do we mean by that? This sort of thing:
 
 **c. Play it safe**
 
-When you watch or play an app or game, be aware of your surroundings and use your device safely.
+Be aware of your surroundings especially when you’re using our services or content on the move and always use your device safely.
 
 Don’t use our 360° and virtual reality apps if you:
 
