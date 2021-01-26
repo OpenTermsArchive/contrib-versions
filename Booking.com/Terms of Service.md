@@ -70,8 +70,6 @@ The prices as offered by the Trip Providers on our Platform are highly competiti
 
 Sometimes cheaper rates are available on our Platform for a specific stay, product or service, however, these rates made available by Trip Providers may carry special restrictions and conditions, for example non-cancelable and non-refundable. Please check the relevant product, service and reservation conditions and details thoroughly for any such conditions prior to making your reservation.
 
-The crossed-out rate shown for rooms is based on the third-highest current price of the Trip Provider for your Trip with the same reservation or purchase conditions 15 days before and 15 days after check-in or consummation date. If less than 15 days are between today and the check-in or consummation date, we will use the corresponding number of days after the check-in or consummation date to result in a 30-day total.
-
 We want you to pay the lowest price possible for your product and service of choice. Should you find your property of choice booked through the Platform, with the same Trip conditions, at a lower rate on the Internet after you have made a reservation through us, we will match the difference between our rate and the lower rate under the terms and conditions of the [We Price Match](https://www.booking.com/general.en-gb.html;tmpl=doc/rate_guarantee). Our We Price Match promise does not apply to non-accommodations related products and services.
 
 The currency converter is for information purposes only and should not be relied upon as accurate and real time; actual rates may vary.
@@ -93,6 +91,16 @@ Booking.com reserves the right to revoke and cancel the Genius membership of any
 The Genius rate cannot be combined or used with other discounts (unless approved by the accommodation or indicated otherwise). Booking.com may, at its discretion, (partially) alter, limit or modify the Genius programme structure or any other feature of the programme (including but not limited to the (status of the) subject Genius level(s)), for any reason, without prior notice.
 
 The Genius membership is linked to your account on Booking.com and will not expire or otherwise terminate unless you terminate, close, delete or otherwise revoke your account. Without notice to you, Booking.com also reserves the right to “unregister" or otherwise disable an account that is inactive. An inactive account is defined as an account that has not made a reservation for more than five (5) years. In the event that your account is disabled, you will no longer be eligible for the Genius benefits. You may reactivate your account by making a qualifying reservation using your Booking.com account.
+
+### Partner offer
+
+Booking.com may display offers that are not directly sourced from Trip Providers, but are facilitated by a Booking.com partner company, such as another platform (Partner offer). Partner offers will be clearly displayed and distinguished from the regular offers directly sourced from Trip Providers and have the following special conditions, unless mentioned otherwise on our Platform:
+
+*   Price policy: as displayed on our Platform.
+*   Pay in advance: You’ll pay securely with Booking.com at the time of the booking.
+*   No modifications: Once your booking is completed, any changes to your personal or booking details will not be possible. Requests can be made directly with the property, but are not guaranteed.
+*   Cannot combine with other offers: Other promotions, incentives and rewards are not eligible on the booking.
+*   No guest review: It’s not possible to leave a guest review on our Platform.
 
 3\. Privacy and cookies
 -----------------------
