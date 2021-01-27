@@ -218,6 +218,7 @@ The open source software platform that runs everywhere from the smartphone, the 
     *   [Core](https://ubuntu.com/core)
         -------------------------------
         
+        *   [Docs](https://ubuntu.com/core/docs)
     *   [Tutorials](https://ubuntu.com/tutorials)
 
 * * *
