@@ -35,6 +35,7 @@ These Terms cover the following Ziff Davis websites and mobile applications:
 *   [CouponCodes.com](http://www.couponcodes.com/)
 *   [Black Friday](http://www.blackfriday.com/)
 *   [Best Black Friday](http://www.bestblackfriday.com/)
+*   [Retail Me Not](https://www.retailmenot.com/)
 *   [Ookla](http://www.ookla.com/), [Speedtest.net](http://www.speedtest.net/), [Speedtest Custom](http://www.speedtestcustom.com/)
 *   [Toolbox.com](http://www.toolbox.com/), [Inside CRM](http://www.insidecrm.com/), [Inside-Erp](http://www.inside-erp.com/), [IT Management](http://www.itmanagement.com/), [IT Security](http://www.itsecurity.com/), [VoIP-News](http://www.voip-news.com/)
 *   [emedia.com](http://www.emedia.com/), [emedia.co.uk](http://www.emedia.co.uk/)
