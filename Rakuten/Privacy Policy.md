@@ -113,7 +113,7 @@ Rakuten ID est un programme unifié qui vous permet de vous connecter facilement
 
 Vos données ne seront partagées que si vous avez choisi de vous connecter à un autre service ID Rakuten. En vous connectant à un autre service Rakuten ID, vous demandez aux services Rakuten ID de partager vos données aux fins décrites dans la [Politique de confidentialité de Rakuten ID](https://corp.rakuten.co.jp/privacy/fr/rakuten-id.html). Nous partageons les identifiants de votre compte et les données de votre profil (adresse et date de naissance) avec les services Rakuten ID.
 
-Tous les comptes créés sur la Plateforme après le 19 avril 2018 bénéficient automatiquement de Rakuten ID. Si vous disposiez d’un compte Rakuten avant cette date, vous pouvez continuer à l'utiliser sans bénéficier de Rakuten ID, en choisissant cette option lors de votre première connexion à compter de cette date. Néanmoins, votre compte ne vous permettra plus de gagner des Rakuten Super Points dans la mesure où leur gestion est désormais assurée au niveau global.
+Tous les comptes créés sur la Plateforme après le 19 avril 2018 bénéficient automatiquement de Rakuten ID. Si vous disposiez d’un compte Rakuten avant cette date, vous pouvez continuer à l'utiliser sans bénéficier de Rakuten ID, en choisissant cette option lors de votre première connexion à compter de cette date. Néanmoins, votre compte ne vous permettra plus de gagner des Rakuten Points dans la mesure où leur gestion est désormais assurée au niveau global.
 
 **4.3.2. Rakuten Points**
 
