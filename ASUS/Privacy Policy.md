@@ -267,13 +267,3 @@ We may change the Privacy Policy from time to time, we highly recommend you peri
 ### 12\. Contacting Us
 
 If you have any inquiries, questions, comments or complaints about the Privacy Policy, or if you believe that ASUS did not comply with the Privacy Policy, please feel free to contact us. If you consider we may not appropriately deal with any issues related to your personal data collected by ASUS, please be noted that it is your right to lodge a complaint with government authorities handling personal data protection in your country.
-
-  
-  
-  
-ASUSTeK COMPUTER INC.
-
-Attn: Personal Data Protection Committee  
-Address: 15, Li-Te Rd., Taipei 112, Taiwan  
-Email: privacy@asus.com  
-Updated May 23, 2018 by ASUS Personal Data Protection Committee
