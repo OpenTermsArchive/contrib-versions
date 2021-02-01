@@ -60,4 +60,129 @@ ALL PRODUCTS AND SERVICES (“SERVICE”) PROVIDED BY ASUSTEK COMPUTER INC. (“
     
     2.2
     
-    When YOU uploaded, transmitted, inputted or provided the Information to this SERVICE, YOU grant ASUS, its affiliates and subsidiaries, a worldwide, non-exclusive, non-revocable, royalty-free, transferable, sub-licensable right to promote and distribute part o
+    When YOU uploaded, transmitted, inputted or provided the Information to this SERVICE, YOU grant ASUS, its affiliates and subsidiaries, a worldwide, non-exclusive, non-revocable, royalty-free, transferable, sub-licensable right to promote and distribute part or all of the Information in any media formats with any manner, including without limitation to modify, reproduce, public broadcast, public transmission, adapt, distribute, publish, public release, or otherwise use the Information.
+    
+    2.3
+    
+    If YOU do not have authorization for the above right, please do not upload, transmit, input or provide Information to this SERVICE.
+    
+    2.4
+    
+    If YOU are accused of allegedly infringing any third party IPR on three or more occasions, ASUS reserves the right to terminate and/or restrict YOUR access to the SERVICE.
+    
+    2.5
+    
+    All title and intellectual property rights in and to any third party content that is contained in the SERVICE or may be accessed through the use of the SERVICE, is the property of the respective content owners and may be protected by applicable intellectual property related laws and treaties.
+    
+    2.6
+    
+    If YOU are aware of any actual or prospective infringement of any content of the SERVICE, or an infringement notification is required in accordance with applicable laws or regulations, please submit the notification to ASUS Legal Compliance Department with the contact information indicated in this NOTICE, ASUS will proceed with the corresponding procedure in accordance with applicable laws.
+    
+    2.7
+    
+    Upon receipt of an infringement notification from a copyright holder or its agent, ASUS will remove, disable YOUR access to or may take other actions to alleged infringing content or services in accordance with applicable laws. If YOU believe that such content or services were not infringing, YOU may submit a counter notification to ASUS Legal Compliance Department with the contact information indicated in this NOTICE, ASUS will proceed with the corresponding procedure in accordance with applicable laws.
+    
+3.  **Registration**
+    
+    To use all services provided in this SERVICE, YOU acknowledge and accept the followings:
+    
+    3.1
+    
+    YOU are required to provide true, accurate, current and complete information about YOURSELF if prompted and requested by a registration process of ASUS Account. YOU may access and correct YOUR personal information through this SERVICE at any time.
+    
+    3.2
+    
+    YOU may view and change YOUR registration information by logging in and editing YOUR account settings on SERVICE. For the security of YOUR account, YOU will be required to sign in with YOUR login ID and password. YOU are solely and entirely responsible for securing the confidentiality of YOUR password and user name and for any and all activities that occur under YOUR account.
+    
+    3.3
+    
+    If ASUS finds that the account/password of ASUS Account had been misappropriated, ASUS may immediately suspend or terminate such ASUS Account's password, account (or any part thereof) or use of this SERVICE, and remove all the Information related to such ASUS Account from this SERVICE.
+    
+    3.4
+    
+    YOU shall comply with this NOTICE and shall not be in violation of any applicable laws and regulations. ASUS reserves the right to verify the validity of YOUR membership at any time during or after any Website Event, and reserves the right to disqualify YOU (even a Winner) from any Website Event including YOUR prize qualification who constitutes any misconduct for tampering or suspicion of tampering with Website Event without any notice. Failure of ASUS to enforce any of its rights hereof does not constitute a waiver of those rights.
+    
+4.  **Privacy Policy**
+    
+    Due to respect to personal information, ASUS is committed to protecting and respecting YOUR privacy with [ASUS Privacy Policy](http://www.asus.com/Terms_of_Use_Notice_Privacy_Policy/Privacy_Policy) .
+    
+5.  **License and Restriction**
+    
+    5.1
+    
+    Subject to the terms of this NOTICE, ASUS hereby grants YOU a limited, personal, non-commercial, non-exclusive, non-sublicensable, non-assignable, free of charge license to access or enter the SERVICE and its services. Except for rights granted expressly herein, YOU acknowledge that all other rights remain with ASUS. Any and all rights, including without limitation, in the SERVICE, are and shall remain the exclusive property of ASUS and/or its licensors. Nothing in this NOTICE intends to transfer any such rights, or to vest any such rights to YOU.
+    
+    5.2
+    
+    No Removal of Notices: YOU agree that YOU will not remove, obscure, make illegible or alter any notices or indications of any rights and/or ASUS’s rights and ownership thereof, whether such notice or indications are affixed on, contained in or otherwise connected to any materials.
+    
+6.  **E-Commerce**
+    
+    Any purchases of products and services/support packages provided by ASUS, shall be governed by the terms and conditions of the e-commerce store, please refer to ASUS sales agreements and relevant policies.
+    
+7.  **Term and Termination**
+    
+    7.1
+    
+    If for any reason this SERVICE is not capable of running as planned, including but not limited to force majeure, technical failures, unauthorized intervention, fraud or any other cause beyond the control of ASUS which corrupts or affects the administration, security, fairness, integrity or proper conduct of this SERVICE, ASUS reserves the right in its sole discretion to cancel, terminate, modify or suspend the SERVICE subject to any written directions from a relevant governmental authority.
+    
+    7.1
+    
+    This NOTICE is effective until terminated by YOU or ASUS. YOUR rights to use the SERVICE will be terminated automatically without notice if YOU fail to comply with the terms and conditions mentioned in this NOTICE. In this regard, ASUS will not bear any responsibility to YOU. Upon termination of this NOTICE, YOU shall immediately cease all use of the SERVICE and its copies, in whole or in part.
+    
+8.  **Warranty Disclaimer and Limitation of Liability**
+    
+    8.1
+    
+    ASUS ensures that the computer system used in the SERVICE has the reasonable expected safety standard.
+    
+    8.2
+    
+    YOU ACKNOWLEDGE THAT THE SERVICE IS PROVIDED “AS IS.” THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THIS SERVICE IS WITH YOU, INCLUDING BUT NOT LIMITED TO RELATED COST OF ALL NECESSARY SERVICING AND REPAIR. TO THE EXTENT PERMITTED BY LAW, ASUS MAKES NO WARRANTIES, EXPRESS OR IMPLIED, WITH RESPECT TO THIS SERVICE OR ANY OTHER INFORMATION OR DOCUMENTATION PROVIDED UNDER THIS NOTICE OR FOR THIS SERVICE, INCLUDING BUT NOT LIMITED TO ANY WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR AGAINST INFRINGEMENT, OR ANY WARRANTY ARISING OUT OF USAGE OR OUT OF COURSE OF PERFORMANCE. ASUS ALSO MAKES NO WARRANTY AS TO THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF THIS SERVICES OR AS TO THE ACCURACY OR RELIABILITY OF ANY INFORMATION OBTAINED THROUGH THIS SERVICE. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES OR THE LIMITATION OR EXCLUSION OF LIABILITY FOR CERTAIN DAMAGES. ACCORDINGLY, SOME OF THE ABOVE DISCLAIMERS AND LIMITATIONS OF LIABILITY MAY NOT APPLY TO YOU.
+    
+    8.3
+    
+    THE ENTIRE RISK ARISING OUT OF THE USE AND/OR PERFORMANCE OF THIS SERVICE REMAINS WITH YOU. IN NO EVENT SHALL ASUS, ITS LICENSORS OR ANY OF THEIR RESPECTIVE OFFICERS, DIRECTORS, EMPLOYEES, AGENTS OR AFFILIATES BE LIABLE FOR ANY CONSEQUENTIAL, INCIDENTAL, DIRECT, INDIRECT, SPECIAL, PUNITIVE, OR OTHER DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF PROFITS, INTERRUPTION, LOSS OF INFORMATION, OR OTHER PECUNIARY LOSS) ARISING OUT OF OR RELATING TO THIS NOTICE OR THE USE OF OR INABILITY TO USE THE SERVICE OR ANY PART THEREOF, EVEN IF ASUS HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES OR THE LIMITATION OR EXCLUSION OF LIABILITY FOR CERTAIN DAMAGES. ACCORDINGLY, SOME OF THE ABOVE DISCLAIMERS AND LIMITATIONS OF LIABILITY MAY NOT APPLY TO YOU.
+    
+    8.4
+    
+    ASUS shall not be responsible for any incorrect or inaccurate information, caused by the internet user or for any of the equipment or programming associated with or utilized in this SERVICE, or for any technical error, or any combination thereof that may occur in the course of the administration of this SERVICE including any omission, interruption, deletion, defect, delay in operation or transmission, communications line or telephone, mobile or satellite network failure, technical problems or traffic congestion on the internet or website, software failure, theft or destruction or unauthorized access to or alteration of entries and any injury or damage to YOUR computer related to or resulting from participating in or downloading any materials in this SERVICE.
+    
+    8.5
+    
+    In the event that any prize is provided in Website Event, YOU acknowledge the following:
+    
+    8.5.1
+    
+    ASUS accepts no responsibility for any tax implications that may arise from YOUR acceptance of the prize. Independent financial advice should be sought by YOU.
+    
+    8.5.2
+    
+    A prize, in whole or in part, is not allowed to transfer or exchange and cannot be liquidated unless specified otherwise.
+    
+    8.5.3
+    
+    In the event that a prize is not available despite ASUS’s reasonable endeavors to procure the prize, ASUS reserves the right to substitute a prize of equal recommended retail value, subject to any written directions from a relevant governmental authority.
+    
+    8.5.4
+    
+    ASUS accepts no responsibility for any subsequent variation in the prize value.
+    
+    8.5.5
+    
+    In the event that any failure of a prize winner to take the prize within a certain period of time indicated in the Website Event is deemed a waiver of the right for a prize, and ASUS, on its sole discretion, has the right to decide the substitution method of such prize winner.
+    
+9.  **Indemnity**  
+    YOU agree to defend, indemnify and hold harmless ASUS and its affiliates, service providers, syndicators, distributors, licensors, officers, directors and employees, from and against any and all losses, damages, liabilities, and expenses arising out of any claim or demand (including reasonable attorneys' fees and court costs), due to or in connection with YOUR violation of this Notice or any applicable law or regulation, or third-party right.
+
+For further information regarding this NOTICE and referenced guidelines, contact ASUS Legal Compliance Department by registered mail, facsimile, e-mail or phone at:  
+
+ASUSTeK Computer Inc.  
+Company Representative: Mr. Jonney Shih  
+Legal Affairs Center  
+Legal Compliance Department  
+Address: 15, Li-Te Rd., Taipei 112, Taiwan  
+Email: LegalCompliance@asus.com  
+Telephone: (886) 2 2894 3447  
+Fax: (886) 2 2890 7674  
+Updated March 04, 2015 by ASUS Legal Affairs Center
