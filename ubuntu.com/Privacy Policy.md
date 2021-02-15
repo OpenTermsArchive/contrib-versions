@@ -40,6 +40,7 @@ Specific details about personal data collection can be found in the relevant pri
 *   [Events privacy notice ›](https://ubuntu.com/legal/data-privacy/events)
 *   [Online competitions privacy notice ›](https://ubuntu.com/legal/data-privacy/online-competitions)
 *   [Confidentiality agreement privacy notice ›](https://ubuntu.com/legal/data-privacy/unilateral-nda)
+*   [CUBE Beta privacy notice ›](https://ubuntu.com/legal/data-privacy/cube-beta)
 
 Information we collect from you
 -------------------------------
@@ -295,7 +296,7 @@ The open source software platform that runs everywhere from the smartphone, the 
     *   [Managed](https://ubuntu.com/openstack/managed)
     *   [Consulting](https://ubuntu.com/openstack/consulting)
     *   [Compare](https://ubuntu.com/openstack/compare)
-    *   [TCO calculator](https://ubuntu.com/tco-calculator)
+    *   [TCO calculator](https://ubuntu.com/openstack/tco-calculator)
     *   [Install](https://ubuntu.com/openstack/install)
 *   [Ceph](https://ubuntu.com/ceph)
     -------------------------------
@@ -341,10 +342,14 @@ The open source software platform that runs everywhere from the smartphone, the 
     
     *   [Desktop](https://ubuntu.com/raspberry-pi/desktop)
     *   [Server](https://ubuntu.com/raspberry-pi/server)
-*   [SMART START](https://ubuntu.com/smartstart)
-    --------------------------------------------
+*   [Core](https://ubuntu.com/core)
+    -------------------------------
     
-    *   [Guide](https://ubuntu.com/smartstart/guide)
+    *   [Docs](https://ubuntu.com/core/docs)
+    *   [Tutorials](https://ubuntu.com/tutorials?q=core)
+    *   [Features](https://ubuntu.com/core/features)
+    *   [Success stories](https://ubuntu.com/core/stories)
+    *   [Consulting](https://ubuntu.com/core/smartstart)
 
 *   [Desktop](https://ubuntu.com/desktop)
     -------------------------------------
@@ -405,15 +410,12 @@ The open source software platform that runs everywhere from the smartphone, the 
 *   Sectors
     -------
     
+    *   [Industrial](https://ubuntu.com/industrial)
     *   [Telco](https://ubuntu.com/telco)
     *   [Finance](https://ubuntu.com/financial-services)
 *   *   [Public cloud](https://ubuntu.com/public-cloud)
     *   [Cloud](https://ubuntu.com/cloud)
     *   [Containers](https://ubuntu.com/containers)
-    *   [Core](https://ubuntu.com/core)
-        -------------------------------
-        
-        *   [Docs](https://ubuntu.com/core/docs)
     *   [Tutorials](https://ubuntu.com/tutorials)
 
 * * *
