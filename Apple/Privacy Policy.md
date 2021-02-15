@@ -5,7 +5,7 @@ Apple Privacy Policy
 
 Apple’s Privacy Policy describes how Apple collects, uses, and shares your personal data.
 
-In addition to this Privacy Policy, we provide data and privacy information imbedded in our products and certain features that ask to use your personal information. This product-specific information is accompanied by our Data & Privacy Icon.
+In addition to this Privacy Policy, we provide data and privacy information embedded in our products and certain features that ask to use your personal information. This product-specific information is accompanied by our Data & Privacy Icon.
 
 ![](https://www.apple.com/legal/images/icon_dataprivacy.png)
 
@@ -174,3 +174,6 @@ Please take a moment to familiarize yourself with our privacy practices, accessi
     When there is a material change to this Privacy Policy, we’ll post a notice on this website at least a week in advance of doing so and contact you directly about the change if we have your data on file.
     
     Apple Inc. One Apple Park Way, Cupertino, California, USA, 95014
+    
+
+[![TRUSTe](//privacy-policy.truste.com/privacy-seal/seal?rid=1580fe3d-f313-4354-8fa1-008e083ce49e)](https://privacy.truste.com/privacy-seal/validation?rid=1580fe3d-f313-4354-8fa1-008e083ce49e)
