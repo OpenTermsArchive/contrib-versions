@@ -1,15 +1,12 @@
-Privacy Policy
-==============
-
-**Effective Date:** January 1, 2020
+**Effective Date:** January 29, 2021
 
 When you use Zillow Group services to find, buy, rent, or sell your home, get a mortgage, or connect to a real estate pro, we know you’re trusting us with your data. We also know we have a responsibility to respect your privacy, and we work hard to do just that.  This policy explains what information we collect, why we use it, who we share it with, and how we protect it, along with the tools you can use to manage your privacy.
 
-*   [Introduction](#introduction)
+*   [Introduction](#Introduction)
 *   [Information collected by Zillow](#Information-collected-by-Zillow)
 *   [Why Zillow uses your information](#Why-Zillow-uses-your-information)
 *   [Sharing your information](#Sharing-your-information)
-*   [Privacy tools and choices](#Privacy-tools-and-choices)
+*   [Privacy tools and](#Privacy-tools-and-choices) [choices](https://www.zillowgroup.com/zg-privacy-policy/#Privacy-tools-and-choices)
 *   [Protecting your information](#Protecting-your-information)
 *   [Applicability of this policy](#Applicability-of-this-policy)
 *   [Legal disclosures](#Legal-disclosures)
@@ -25,15 +22,15 @@ We know that everyone’s home journey is different, and that deciding on the ri
 
 We carefully evaluate how we use data to make sure that we’re using your information to provide value **for you**.  On this page, we aim to explain everything you need to know about your privacy at Zillow.   If you have any questions that we haven’t answered here, you can always contact us at [privacy@zil](mailto:privacy@zillow.com)[low.com](mailto:privacy@zillow.com).
 
-Information collected by Zillow
--------------------------------
+**Information collected by Zillow**
+-----------------------------------
 
 When you use our services, we collect a variety of information from and about you and your devices.  Some of this information identifies you directly (like an email address) while some of it is associated with you through your account, profile, or device (like the homes you choose to save or your location data).
 
 The kind of data we collect about you depends on how you use Zillow.  If you only use our services to browse for homes, we’ll have less information about you than if we help you [sell your home](https://www.zillow.com/offers/), [get a mortgage](https://www.zillow.com/home-loans/), [sign your lease](https://www.zillow.com/rent/guide/), or if you use any of our other transaction services.  Even if you don’t have an account with us, we may still collect some data about you, like your email address and phone number if you choose to contact a real estate agent through our platform, or your IP address and other device information when you browse our sites or use our apps.
 
-Information you give us or create using our services
-----------------------------------------------------
+**Information you give us or create using our services**
+--------------------------------------------------------
 
 When you use our services, we often ask you for information about yourself.  This usually includes basic things like your name, email address, and phone number.  If you use our transaction services, we might ask you for more sensitive data like your income, housing history, and credit score.  If you contribute information, such as agent reviews, we’ll store that as well.
 
@@ -41,7 +38,7 @@ You may also provide information about other people through our services. For ex
 
 Below are some examples of what information we collect for our main products and services and how we collect it.
 
-### **Zillow Offers**
+### Zillow Offers
 
 Zillow Offers extends cash offers on residential real estate in select U.S. cities.  If you ask for an offer on your home, we will ask you for information about you and your home. This includes contact information (such as an email address or phone number), identifying information about you, and details about your home.  We may also take some photos of your home so we know what types of repairs may be necessary.  If we agree to buy your home, we’ll need to collect more information from you that is typical of any real estate transaction, including financial information.
 
@@ -65,26 +62,24 @@ When you pay your rent through Zillow, we collect your transaction information, 
 
 If you sign your lease documents through Zillow, we will collect and store your contact information, signature, and any other information contained in the lease documents, which can vary by state and city.
 
-### **Zillow Home Loans**
+### **Zillow Home Loans and Zillow Closing Services**
 
-This privacy policy does not apply to Zillow Home Loans.  To understand what kind of information Zillow Home Loans collects, please read the [Zillow Home Loans Privacy Policy](https://www.zillowhomeloans.com/privacy).
+This privacy policy does not apply to Zillow Home Loans or Zillow Closing Services.  To understand what kind of information Zillow Home Loans collects, please read the [Zillow Home Loans Privacy Policy](https://www.zillowhomeloans.com/privacy).  To understand what kind of information Zillow Closing Services collects, please read the [Zillow Closing Services Privacy Policy](https://www.zillowclosings.com/privacy-policy/).
 
-Services and Products for Professionals
----------------------------------------
+### **Services and Products for Professionals**
 
 If you are a real estate professional, you may be able to connect your third-party email account (such as Gmail) to your Zillow account.  If you enable that connection, Zillow will access your messages, contacts, and settings only to provide the requested services to you.  We do not access or collect any of the contents of your email messages in providing interest-based advertising.  We use information received from Gmail APIs only in compliance with [Google’s Limited Use Requirements](https://developers.google.com/terms/api-services-user-data-policy#additional-requirements-for-specific-api-scopes).
 
 We also collect your contact and payment details, along with professional information such as brokerage affiliation, associated listings and sales, and licensing history.
 
-Information from Public Sources and Third Parties
--------------------------------------------------
+### **Information from Public Sources and Third Parties**
 
 Zillow collects information from public sources, such as county and state tax and property records, government agencies, and multiple listing services (or MLS).  Most of this information is about properties, not people.  But some information we collect, like the identity of a property’s owner or real estate license information, may relate to individuals.
 
 We also collect information about you from various third parties in order to provide better service to you, or as part of the employment application process.  This may include demographic information and other attributes about you.
 
-Information we collect as you use our services
-----------------------------------------------
+**Information we collect as you use our services**
+--------------------------------------------------
 
 Along with the information you give us directly, we collect a variety of information automatically as you use Zillow services.
 
@@ -124,8 +119,7 @@ If you use social media logins (like Google and Facebook) to log in to Zillow, w
 
 To improve our services and make them more useful to you, we use data about your activity to understand and infer your preferences.  For example, if you usually search for homes for rent rather than homes to buy, we may assume that you are not looking to buy a home and show you more information helpful for renters.
 
-Commercial Information
-----------------------
+### **Commercial Information**
 
 We collect information about the products and services you purchase or consider purchasing from us.  This includes products for professionals, such as our advertising products, as well as consumer services like Zillow Offers.
 
@@ -133,8 +127,8 @@ We collect information about the products and services you purchase or consider 
 
 If you visit a home owned by Zillow, we may capture your likeness and voice using cameras and audio recording equipment for safety reasons.
 
-Why Zillow uses your information
---------------------------------
+**Why Zillow uses your information**
+------------------------------------
 
 ### Completing your transactions
 
@@ -162,8 +156,8 @@ We also use your data to detect, investigate, and prevent fraudulent transaction
 
 Occasionally, there may be a reason we’d like to use your information in a way that isn’t described here.  If that happens, we’ll let you know so you can decide if you’re comfortable with it.
 
-Sharing your information
-------------------------
+**Sharing your information**
+----------------------------
 
 We understand that sharing information with third parties is a big responsibility.  We’re committed to sharing information only when needed for a legitimate business or legal purpose, and then only with recipients who will protect it.
 
@@ -193,12 +187,12 @@ Zillow allows certain companies to place tracking technologies like cookies and 
 
 You always have full control over whether these technologies work on your devices.  You can disable them entirely using our cookie consent preference tools (see the Zillow Privacy Center for instructions), or by clicking the “Do Not Sell My Information” link on our websites.
 
-Privacy tools and choices
--------------------------
+**Privacy tools and choices**
+-----------------------------
 
 ### Accessing and deleting your information
 
-We’ve made a variety of privacy tools available on Zillow.  Using the Zillow Privacy Center, you can see what kind of data we’ve collected about you and the types of third parties we share it with.  You can also download a copy of the data and take it with you to a service outside of Zillow if you want. If you’d like to delete your data or close your account, you can do that using the Zillow Privacy Center as well.
+We’ve made a variety of privacy tools available on our sites.  Using the Zillow Privacy Center, you can see what kind of data we’ve collected about you and the types of third parties we share it with.  You can also download a copy of your Zillow, Trulia, and HotPads data and take it with you to a service outside of Zillow. If you’d like to delete your Zillow, Trulia, or HotPads data or close your account, you can do that using the Zillow Privacy Center as well.
 
 We provide these tools for your benefit and we will never discriminate against you for using them. But if you choose to delete your data or close your account, we won’t be able to offer you services that require us to use your data.
 
@@ -208,19 +202,18 @@ The Zillow [Privacy Center](https://privacy.zillowgroup.com/) has information 
 
 Zillow’s third-party ad servers, ad network providers, and third-party advertisers provide ad content that appears on Zillow. To measure how effective those ads are and to make them more relevant, ad providers may use their own tracking technologies to collect your information. These are used to record users’ activity, such as the pages visited, and to learn what types of information are of most interest to the users. For more information regarding the choices you have about these technologies (such as opting out), visit the [Network Advertising Initiative](http://www.networkadvertising.org/), [Digital Advertising Alliance](http://www.aboutads.info/choices/), [Omniture](https://www.d1.sc.omtrdc.net/optout.html), and [PrivacyChoice](http://privacychoice.org/trackerblock).
 
-Managing communications preferences
------------------------------------
+### **Managing communications preferences**
 
-### Email subscriptions
+#### Email subscriptions
 
 Zillow may send you email for a variety of reasons.  For example, if you save a search, we’ll send you emails with new homes on the market that match your search.  If you save a home, we’ll keep you posted on status updates like when that home has an open house scheduled and when it has an offer pending.  When you use our transaction services, we’ll send you status updates and other information about your transaction.  If you have an account with Zillow, you can select your preferences through your account settings. Also, you can manage the types of email you receive by following the instructions included in each email we send you. Even if you unsubscribe from some email subscriptions, we may still need to email you with important transactional or other non-advertising information.
 
-### Calls and texts
+#### Calls and texts
 
 Some of our services allow you to provide your phone number to us.  If you give us your number, we may call or text you, for example, to give you information about getting an offer on your home through Zillow Offers. We will contact you through these methods only in accordance with applicable legal requirements, and you always have the ability to opt out of further calls or texts.
 
-Protecting your information
----------------------------
+**Protecting your information**
+-------------------------------
 
 We understand that no matter how we collect your information, we have a responsibility to protect it.  We take that responsibility seriously.  We build security into our products and features from the ground up to help protect data from unauthorized access, disclosure, alteration, and destruction.
 
@@ -228,15 +221,15 @@ We’re always looking for threats and take reasonable steps to respond to those
 
 Zillow is based in the United States and the information we collect is governed primarily by U.S. law.  Where we are subject to the privacy laws of other countries, we comply with those requirements.  If you access or use our services or provide information to us, your information will be processed and stored in the United States, where you may not have the same rights and protections as you do under your local law.
 
-Applicability of this policy
-----------------------------
+**Applicability of this policy**
+--------------------------------
 
-This policy applies to every service of ours that links to it.  It does not apply to Zillow Home Loans, which has a separate privacy policy available [here](https://www.zillowhomeloans.com/privacy).
+This policy applies to every service of ours that links to it, including Zillow, Inc.  It does not apply to Zillow Home Loans, which has a separate privacy policy available [here](https://www.zillowhomeloans.com/privacy), or Zillow Closing Services, which has a separate privacy policy available [here](https://www.zillowclosings.com/privacy-policy/).
 
 Our apps and services may link to other companies’ websites. Some features may also involve the sharing of your information with third-party websites. These third-party websites may collect information about users on those websites.  Zillow doesn’t control those sites, and this privacy policy does not apply to these external websites and third parties.
 
-Legal Disclosures
------------------
+**Legal Disclosures**
+---------------------
 
 In this section, we’ve provided some legally required disclosures under state privacy laws.  There shouldn’t be anything surprising in this section, and we’ve tried to explain our privacy practices in plain English throughout the rest of the policy.
 
@@ -267,12 +260,12 @@ Categories of Personal Information under the California Consumer Privacy Act
 | **Education information** We collect this information from our customers | To provide services or products you’ve requested | People who use our rental application services; obtain a mortgage loan from us; buy a home from us | We share this data with our service providers and with business partners, including those to whom you instruct us to send this information |
 | **Inferences** We generate these internally | To understand how our users interact with our sites, to develop and offer more relevant and useful services and products, and to improve the products and services we offer | People who use our sites or mobile applications, including users who: receive a Zillow Offer; ask to be connected with real estate pros; or apply for a mortgage through us | We don’t share |
 
-_While California law applies only to California residents, we believe everyone should have the same privacy rights regardless of where you live.  So our privacy tools are available to all of our users.  You can access these tools through the Zillow Privacy Center__._
+_While California law applies only to California residents, we believe everyone should have the same privacy rights regardless of where you live.  So our privacy tools are available to all of our users.  You can access these tools through the Zillow Privacy Center._
 
-Contacting Zillow Group
------------------------
+Contacting Zillow
+-----------------
 
-If you have any questions about this privacy policy, or the privacy practices of Zillow, please check out the Privacy Support Center  for FAQs and other information.
+If you have any questions about this privacy policy, or the privacy practices of Zillow, please check out the Privacy Support Center for FAQs and other information.
 
 You can also email us at privacy@zillow.com, or you can write to us at:
 
@@ -286,6 +279,10 @@ Changes to this policy
 
 We are always reviewing our privacy practices to make sure they comply with this policy.  Sometimes, we’ll need to update the policy to reflect changes in our products, technology, and uses of data. We won’t change the policy in a way that reduces your rights or significantly changes the way we use or share data without telling you ahead of time and giving you a chance to stop using our services if you want.
 
-See our previous Privacy Policy:
+See our previous Privacy Policies:
 
-[Effective June 25, 2019](http://www.zillowgroup.com/previous-privacy-policy/)
+[Effective January 1, 2020](https://www.zillowgroup.com/previous-privacy-policy)
+
+[Effective June 25, 2019](http://www.zillowgroup.com/previous-privacy-policy-june-25-2019)
+
+* * *
