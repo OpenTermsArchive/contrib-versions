@@ -36,7 +36,7 @@ Your content
 
 While Google isn't responsible for your Business Profile or the entity listed on your Business Profile, once you've claimed, you understand that we have the right, but not the obligation, to moderate the content that you provide to your Business Profile using Google My Business Services. 
 
-We’re constantly striving to ensure that information in your Business Profile is complete, relevant and up to date, so that the business details displayed on Google are as useful as possible for you and our users. This means that occasionally, we may choose not to display your content (for example, if trusted signals indicate that your content is not accurate), or we may choose to show only an edited version of your content or to show content from an alternative source in place of your content. You can find more information about how Google sources and displays information in local listings [here](https://support.google.com/business/answer/9851099). 
+We’re constantly striving to ensure that information in your Business Profile is complete, relevant and up to date, so that the business details displayed on Google are as useful as possible for you and our users. This means that occasionally, we may choose not to display your content (for example, if trusted signals indicate that your content is not accurate), or we may choose to show only an edited version of your content or to show content from an alternative source in place of your content. You can find more information about how Google sources and displays information in local listings [here](https://support.google.com/business/answer/2721884). 
 
 Licence
 -------
