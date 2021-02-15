@@ -81,7 +81,7 @@ The following describes the information we collect and how we obtain it.
         
         We combine this data with other information we collect about you. For more information about tracking methods on Times Services, and how to manage them, read our [Cookie Policy](https://www.nytimes.com/subscription/dg-cookie-policy/cookie-policy.html).
         
-        If your browser doesn’t accept our cookies, you can’t access certain parts of our websites (e.g., your account on nytimes.com). Because the “Do Not Track” browser-based standard signal has yet to gain widespread acceptance, we don’t currently respond to those signals.
+        If your browser doesn’t accept our cookies, you can’t access certain parts of our websites (e.g., your account on nytimes.com). Because the “Do Not Track” browser-based standard signal has yet to gain widespread acceptance, we don’t currently respond to those signals. We however respond to the [Global Privacy Control](https://globalprivacycontrol.org/) in certain territories, such as Europe and California.
         
     *   **With GPS Technologies:**
         
@@ -100,13 +100,13 @@ The following describes the information we collect and how we obtain it.
     
 2.  **Social Media Platforms and Other Third-Party Services:**
     
-    (Social media platforms include Facebook. Third-party services include Google, Kindle and Nook.)
+    (Social media platforms include Facebook. Third-party services include Google and Nook.)
     
     You can link your social media or other third-party account to a Times Service. By linking the services, you authorize us to collect, store and use any information they may give us (e.g., your email address). You can disconnect your nytimes.com registration from third-party accounts at any time.
     
     We also receive information from you when you interact with our pages, groups, accounts or posts on social media platforms. This includes aggregate data on our followers (e.g., age, gender and location), engagement data (e.g., “likes,” comments, shares, reposts and clicks), awareness data (e.g., number of impressions and reach) and individual users’ public profiles.
     
-    For more information, refer to our [social login](https://help.nytimes.com/hc/en-us/articles/115014887628-Social-login), [Kindle](https://help.nytimes.com/hc/en-us/articles/115014889068-Kindle-subscribers) and [Nook](https://help.nytimes.com/hc/en-us/articles/115014917867-NOOK-subscribers) F.A.Q.
+    For more information, refer to our [social login](https://help.nytimes.com/hc/en-us/articles/115014887628-Social-login) and [Nook](https://help.nytimes.com/hc/en-us/articles/115014917867-NOOK-subscribers) F.A.Q.
     
 3.  **Workplace and Schools:**
     
@@ -171,7 +171,7 @@ You can take part in our sweepstakes, contests and other promotions. Some might 
 
 We gather data and work with [third parties](https://www.nytimes.com/privacy/third-party) to show you personalized ads on behalf of advertisers. This data comes from ad tracking technologies set by us or the third party (e.g., cookies), the information you provide (e.g., your email address), your use of Times Services (e.g., your reading history), information from advertisers or advertising vendors (e.g., demographic data) and anything inferred from any of this information. We only use or share this information in a manner that does not reveal your identity. For example, we use Google to serve ads on Times Services. Google uses cookies or unique device identifiers, in combination with their own data, to show you ads based on you visiting nytimes.com and other sites. You can opt out of the use of the Google cookie by visiting the [related Google privacy policy](https://policies.google.com/technologies/ads?hl=en).
 
-We also identify groups of users to whom to serve personalized ads on behalf of our advertisers. To do this, we combine information we collect through surveys with information we collect automatically using tracking technologies while you browse our sites and apps. This combined information is used to build models. These data models are then used to measure users’ attributes, like their demographic information or their interests. Working with service providers, we use these measurements to group users by common attributes. Each group is associated with a random ID which is then passed to our ad server for use in targeting ad campaigns on our site and apps.
+We also identify groups of users to whom to serve personalized ads on behalf of our advertisers. To do this, we combine information we collect through surveys or registration with information we collect automatically using tracking technologies while you browse our sites and apps. This combined information is used to build models. These data models are then used to measure users’ attributes, like their demographic information or their interests. Working with service providers, we use these measurements to group users by common attributes. Each group is associated with a random ID which is then passed to our ad server for use in targeting ad campaigns on our sites and apps.
 
 Another example is our affiliate link vendors, which we use in our guides and product recommendations. Times Services include links that will send you to vendor URLs and other services not operated or controlled by us. These vendors use cookies and other technologies to collect information about your navigation from the Times Services to the merchant you are visiting. If you buy a product after following a link to a link vendor’s URL, we may earn a commission.
 
@@ -281,7 +281,7 @@ The opt-out methods described below are limited to the email address, phone or d
     
     You can ask us to unsubscribe from our mail or telephone solicitations. You can also ask us to not share your information with third parties for marketing purposes. To do so, email us at [privacy@nytimes.com](mailto:privacy@nytimes.com) with “Opt Out” in the subject line, and your account number and phone number in the body of the email.
     
-    You can write to us at: Customer Care, P.O. Box 8041, Davenport, IA 52808-8041 — or, for International Edition customers, The New York Times International Edition, Immeuble Le Lavoisier, 4, Place des Vosges, CS 10001, 92052 Paris La Défense Cedex, France. Please include your account number and phone number in the body of the letter.
+    You can write to us at: Customer Care/Call Center 620 Eighth Avenue, New York, NY 10018, Attn: Postal — or, for International Edition customers, The New York Times International Edition, Immeuble Le Lavoisier, 4, Place des Vosges, CS 10001, 92052 Paris La Défense Cedex, France. Please include your account number and phone number in the body of the letter.
     
 3.  **Push Notifications:**
     
