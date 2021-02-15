@@ -15,7 +15,7 @@ TikTok is a leading platform for creating and sharing short-form videos (the “
 The Services are provided by the company that offers the Services in your region (“**TikTok**”, “**we**” or “**us**”): 
 
 *   Residents of the EEA + Switzerland: The Services are provided by TikTok Technology Limited, which is registered in Ireland with its registered office at 10 Earlsfort Terrace, Dublin, D02 T380, Ireland and company number 635755.
-*   Residents of the United Kingdom: The Services are provided by TikTok Information Technologies UK Limited, which is registered in England with its registered office at Wework, 125 Kingsway, London, WC2B 6NH and company number 10165711.
+*   Residents of the United Kingdom: The Services are provided by TikTok Information Technologies UK Limited, which is registered in England with its registered office at 6th Floor, One London Wall, London, EC2Y 5EB, United Kingdom.
 
 Your Service provider may change if you relocate to another country and continue using our Services. The Services are provided for private, non-commercial use. For the purposes of these Terms, “**you**” and “**your**” means you as the user of the Services.
 
