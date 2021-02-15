@@ -51,8 +51,8 @@ This Privacy Policy covers information collected through the following websites 
 *   [TechBargains](http://www.techbargains.com/)
 *   [Mashable](http://www.mashable.com/)
 *   [Offers.com](http://www.offers.com/)
-*   [Credit Cards Explained](http://www.creditcardsexplained.com/)
 *   [Tippit](http://www.tippit.com/)
+*   [Credit Cards Explained](http://www.creditcardsexplained.com/)
 *   [CouponCodes.com](http://www.couponcodes.com/)
 *   [Black Friday](http://www.blackfriday.com/)
 *   [ZiffDavisB2B](http://b2b.ziffdavis.com/pages/index), [Toolbox.com](http://www.toolbox.com/), [Inside CRM](http://www.insidecrm.com/), [Inside-Erp](http://www.inside-erp.com/), [IT Management](http://www.itmanagement.com/), [IT Security](http://www.itsecurity.com/), [VoIP-News](http://www.voip-news.com/)
@@ -67,6 +67,7 @@ This Privacy Policy covers information collected through the following websites 
 *   [Best Gifts](https://bestgifts.com/)
 *   [PCMag Shop](https://shop.pcmag.com/)
 *   [Offers Shop](https://shop.offers.com/)
+*   [Mashable Shop](https://shop.mashable.com/)
 *   [IGN Store](https://store.ign.com/)
 
 Applications:
