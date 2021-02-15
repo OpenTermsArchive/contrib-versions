@@ -586,7 +586,7 @@ We always look for ways to improve your experience when using Vinted. That is wh
 1.  User ID;
 2.  Your gender;
 3.  Your age;
-4.  Your live area;
+4.  Your living area;
 5.  Your responses to our questions (e.g. your satisfaction with Platform, your needs for Platform, problems that you encounter using Platform).
 
 Legal basis for inviting you to participate in the survey is our legitimate interest to receive feedback from our members and use it to improve the Platform (Art. 6 (1) (f) of the GDPR, Art. 13 (2) of Directive 2002/58/EC of the European Parliament and of the Council of 12 July 2002 concerning the processing of personal data and the protection of privacy in the electronic communications sector (Directive on privacy and electronic communications), Art. 69 (2) of Lithuanian Law on Electronic Communications).
