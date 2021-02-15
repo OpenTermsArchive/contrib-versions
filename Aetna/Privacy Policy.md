@@ -1,7 +1,3 @@
-Welcome to Aetna’s web and mobile experience.  This Aetna Web & Mobile Privacy Statement (the “Privacy Statement”) describes our practices in connection with information we collect through software applications (including mobile applications) and websites that we operate and that contain a link to this Privacy Statement (an “Application” or, together, the “Applications”).  This Privacy Statement is designed to transparently describe our privacy practices, in a format that is easy to navigate, read, and understand.  We are committed to treating your information with care and respect and managing our Applications in a manner which is compliant with law.
-
-As you navigate our Applications and communicate with Aetna (sometimes referred to as “we” “us” or “our”) via the Applications, we may ask you to disclose certain information so that we can provide you with the highest quality information and services. In order for you to make an informed decision about whether to disclose your information to us via the Applications, we are providing you with the following information about how we collect and use your information.
-
 What does this statement cover?
 
 This Privacy Statement describes our practices in connection with information we collect through Applications that contain a link to this Privacy Statement.
@@ -89,5 +85,3 @@ We may also provide links to other websites or mobile applications that are cont
 Changes to Aetna’s privacy statement
 
 Aetna may change this Privacy Statement from time to time; when updates are made, the version date (located at the bottom of this Privacy Statement) will also be updated to reflect that a revision occurred. We encourage you to periodically reread this Privacy Statement to see if there have been any changes that may affect you. This Privacy Statement is not intended to and does not create any contractual or other legal rights in or on behalf of any party.
-
-Privacy statement update: 9/19/17
