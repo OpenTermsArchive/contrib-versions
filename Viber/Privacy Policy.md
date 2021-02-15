@@ -4,22 +4,22 @@ Viber Privacy Policy
 **(Last Updated: November 2019 –** [**What changed**](https://www.viber.com/blog/2019-11-28/your-privacy-your-power-vibers-updated-privacy-policy/)**?)**
 
 [Scope and Consent  
-](http://www.viber.com/viber-privacy-policy#scope-and-consent)[Information we Collect  
-](http://www.viber.com/viber-privacy-policy#information-we-collect)[Specific Accounts – Viber Out Account, Email Linked to Viber Account  
-](http://www.viber.com/viber-privacy-policy#specific-accounts)[Uses and Retention  
-](http://www.viber.com/viber-privacy-policy#uses-and-retention)[Disclosure  
-](http://www.viber.com/viber-privacy-policy#disclosure)[Information you Share Publicly  
-](http://www.viber.com/viber-privacy-policy#information-you-share-publicly)[Your Choices  
-](http://www.viber.com/viber-privacy-policy#your-choices)[Viber Ads, Cookies and Tracking Technologies Policy  
-](http://www.viber.com/viber-privacy-policy#cookies-and-tracking-technologies)[Accessing Reviewing and Changing Your Personal Information  
-](http://www.viber.com/viber-privacy-policy#access-review-change-personal-information)[Specific Location Practices: California, EEA residents  
-](http://www.viber.com/viber-privacy-policy#specific-location-practices)[Third-Party Websites and Apps  
-](http://www.viber.com/viber-privacy-policy#third-party-websites-and-apps)[Security  
-](http://www.viber.com/viber-privacy-policy#security)[Children’s Privacy  
-](http://www.viber.com/viber-privacy-policy#childrens-privacy)[International Transfer  
-](http://www.viber.com/viber-privacy-policy#international-transfer)[B2B Partners Data  
-](http://www.viber.com/viber-privacy-policy#b2b-partners-data)[Updates to this Policy  
-](http://www.viber.com/viber-privacy-policy#updates)[Contact Us](http://www.viber.com/viber-privacy-policy#contact-us)
+](https://www.viber.com/en/terms/viber-privacy-policy/#scope-and-consent)[Information we Collect  
+](https://www.viber.com/en/terms/viber-privacy-policy/#information-we-collect)[Specific Accounts – Viber Out Account, Email Linked to Viber Account  
+](https://www.viber.com/en/terms/viber-privacy-policy/#specific-accounts)[Uses and Retention  
+](https://www.viber.com/en/terms/viber-privacy-policy/#uses-and-retention)[Disclosure  
+](https://www.viber.com/en/terms/viber-privacy-policy/#disclosure)[Information you Share Publicly  
+](https://www.viber.com/en/terms/viber-privacy-policy/#information-you-share-publicly)[Your Choices  
+](https://www.viber.com/en/terms/viber-privacy-policy/#your-choices)[Viber Ads, Cookies and Tracking Technologies Policy  
+](https://www.viber.com/en/terms/viber-privacy-policy/#cookies-and-tracking-technologies)[Accessing Reviewing and Changing Your Personal Information  
+](https://www.viber.com/en/terms/viber-privacy-policy/#access-review-change-personal-information)[Specific Location Practices: California, EEA residents  
+](https://www.viber.com/en/terms/viber-privacy-policy/#specific-location-practices)[Third-Party Websites and Apps  
+](https://www.viber.com/en/terms/viber-privacy-policy/#third-party-websites-and-apps)[Security  
+](https://www.viber.com/en/terms/viber-privacy-policy/#security)[Children’s Privacy  
+](https://www.viber.com/en/terms/viber-privacy-policy/#childrens-privacy)[International Transfer  
+](https://www.viber.com/en/terms/viber-privacy-policy/#international-transfer)[B2B Partners Data  
+](https://www.viber.com/en/terms/viber-privacy-policy/#b2b-partners-data)[Updates to this Policy  
+](https://www.viber.com/en/terms/viber-privacy-policy/#updates)[Contact Us](https://www.viber.com/en/terms/viber-privacy-policy/#contact-us)
 
 As part of our mission to spread good vibes, we want you to share the things that matter to you most with your friends, family and anyone else around you. It’s important to us that you feel comfortable and trust us with your information when you use the Viber services (the “Services”). Please take a few minutes to read this Privacy Policy, so that you understand what information we collect, what we do with it and why, how we protect it and what are your rights in relation to this information.
 
@@ -129,7 +129,7 @@ California Consumer Privacy Act (CCPA) requires disclosing the collection of per
 
 The following categories of your personal information may be shared within the scope of the disclosures described in the section “Disclosure” above: “identifiers”, “protected characteristics”, “commercial information”, “geolocation data”, “internet or other electronic network activity information”, and “audio, electronic, visual, or similar information”, and “inferences drawn from any of the above information categories”.
 
-We may also make the following processing which may amount to a sale of your personal information:  we may transfer the advertising ID of your device to third party advertisers, along with your age (if we have it), IP address, device characteristics, for them to place tailored ads on our service. If you wish to avoid this you can simply open our mobile app, access the “Settings/privacy/personal data” menu within the app and switch the “**Do Not Sell My Personal Information**” toggle on. If you have trouble finding the toggle or need further instructions you can send us a “**Do Not Sell My Personal Information**” request at any time via the following link: [**https://support.viber.com/customer/portal/emails/new?type=CA**](https://support.viber.com/customer/portal/emails/new?type=CA) or by sending an email to [**privacy@viber.com**](mailto:privacy@viber.com).
+We may also make the following processing which may amount to a sale of your personal information:  we may transfer the advertising ID of your device to third party advertisers, along with your age (if we have it), IP address, device characteristics, for them to place tailored ads on our service. If you wish to avoid this you can simply open our mobile app, access the “Settings/privacy/personal data” menu within the app and switch the “**Do Not Sell My Personal Information**” toggle on. If you have trouble finding the toggle or need further instructions you can send us a “**Do Not Sell My Personal Information**” request at any time via the following link: [**https://support.viber.com/customer/portal/emails/new?type=CA**](https://support.viber.com/customer/portal/emails/new?type=CA) or by sending an email to [https://help.viber.com/en/contact](https://help.viber.com/en/contact).
 
 California residents may have the following rights under the CCPA: right to access your personal information, right to deletion, right to disclosure, right to opt out of sales, and right to be free from discrimination. To learn more about exercising these rights, visit our [**CCPA rights page**](https://www.viber.com/terms/ccpa-privacy-rights/).
 
@@ -182,7 +182,7 @@ From time to time, as our services evolve, we may update this Policy. You agree 
 
 **Contact Us**
 
-If you still have questions about our privacy policy, please feel free to send us an email to [**privacy@viber.com**,](mailto:privacy@viber.com) or using the contact us form on the App. You can also contact us in writing at Viber Media S.à r.l., Attention: Data Privacy Officer, 2, rue du Fossé, L- 1536 Luxembourg, Grand Duchy of Luxembourg.
+If you still have questions about our privacy policy, please feel free to send us an email to [https://help.viber.com/en/contact,](https://help.viber.com/en/contact) or using the contact us form on the App. You can also contact us in writing at Viber Media S.à r.l., Attention: Data Privacy Officer, 2, rue du Fossé, L- 1536 Luxembourg, Grand Duchy of Luxembourg.
 
 In the event you read this Privacy Policy in any language other than English, you agree that in the event of any discrepancies, the English version shall prevail.
 
