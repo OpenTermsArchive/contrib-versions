@@ -50,7 +50,7 @@ We collect information about your activity in our services, which we use to do t
 *   Activity on third-party sites and apps that use our services
 *   Chrome browsing history that you’ve [synced with your Google Account](https://policies.google.com/privacy?hl=en-GB#footnote-chrome-sync)
 
-If you use our [services to make and receive calls or send and receive messages](https://policies.google.com/privacy?hl=en-GB#footnote-calls-messages), we may collect telephony log information such as your phone number, calling-party number, receiving-party number, forwarding numbers, time and date of calls and messages, duration of calls, routing information and types of calls.
+If you use our [services to make and receive calls or send and receive messages](https://policies.google.com/privacy?hl=en-GB#footnote-calls-messages), we may collect call and message log information like your phone number, calling-party number, receiving-party number, forwarding numbers, sender and recipient email address, time and date of calls and messages, duration of calls, routing information and types and volumes of calls and messages.
 
 You can visit your Google Account to find and manage activity information that’s saved in your account.
 
@@ -107,7 +107,7 @@ Depending on your settings, we may also show you [personalised ads](https://poli
 
 ### Measure performance
 
-We use data for analytics and measurement to understand how our services are used. For example, we analyse data about your visits to our sites to do things like optimise product design. And we also use data about the ads with which you interact to help advertisers understand the performance of their ad campaigns. We use a variety of tools to do this, including Google Analytics. When you visit sites that use Google Analytics, Google and a Google Analytics customer [may link information](https://policies.google.com/privacy?hl=en-GB#footnote-link-info) about your activity from that site with activity from other sites that use our ad services.
+We use data for analytics and measurement to understand how our services are used. For example, we analyse data about your visits to our sites to do things like optimise product design. And we also use data about the ads with which you interact to help advertisers understand the performance of their ad campaigns. We use a variety of tools to do this, including Google Analytics. When you visit sites that use Google Analytics, a Google Analytics customer may choose to enable Google to [link information](https://policies.google.com/privacy?hl=en-GB#footnote-link-info) about your activity from that site with activity from other sites that use our ad services.
 
 ### Communicate with you
 
@@ -363,6 +363,8 @@ The following privacy notices provide additional information about some Google s
 *   [Google Accounts Managed with Family Link, for Children under 13 (or applicable age in your country)](https://families.google.com/familylink/privacy/child-policy/)
 *   [Voice and audio collection from children’s features on the Google Assistant](https://assistant.google.com/privacy-notice-childrens-features/?hl=en_GB)
 
+If you’re a member of an organisation that uses Google Workspace or Google Cloud Platform, learn how these services collect and use your personal information in the [Google Cloud Privacy Notice](https://cloud.google.com/terms/cloud-privacy-notice?hl=en_GB).
+
 Other useful resources
 ----------------------
 
@@ -581,8 +583,11 @@ For example, we operate data centres located [around the world](https://www.goog
 
 Examples of these services include:
 
-*   Google Hangouts, for making domestic and international calls
-*   Google Voice, for making calls, sending text messages and managing voicemail
+*   Google Voice, for making and receiving calls, sending text messages and managing voicemail
+*   Google Meet, for making and receiving video calls
+*   Gmail, for sending and receiving emails
+*   Google Chat, for sending and receiving messages
+*   Google Duo, for making and receiving video calls and sending and receiving messages
 *   Google Fi, for a phone plan
 
 ### show trends
