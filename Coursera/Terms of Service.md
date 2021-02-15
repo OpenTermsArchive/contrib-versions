@@ -152,10 +152,10 @@ Under California Civil Code Section 1789.3, California website users are entitle
 Referenced Policies
 -------------------
 
-1.  [Acceptable Use Policy](#acceptable-use-policy)
-2.  [Copyright and Trademark Infringement Policy](#copyright-and-trademark-policy)
-3.  [Refund Policy](#coursera-refund-policy)
-4.  [Honor Code](#honor-code)
+*   [Acceptable Use Policy](#acceptable-use-policy)
+*   [Copyright and Trademark Infringement Policy](#copyright-and-trademark-policy)
+*   [Refund Policy](#coursera-refund-policy)
+*   [Honor Code](#honor-code)
 
 * * *
 
@@ -213,17 +213,17 @@ If you believe in good faith that materials on the Coursera platform infringe yo
 
 The notice must include the following information:
 
-1.  the physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed;
-2.  identification of the copyrighted work claimed to have been infringed (or, if multiple copyrighted works located on the platform are covered by a single notification, a representative list of such works);
-3.  identification of the material that is claimed to be infringing or the subject of infringing activity, and information reasonably sufficient to allow Coursera to locate the material on the platform;
-4.  the name, address, telephone number, and email address (if available) of the complaining party;
-5.  a statement that the complaining party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and
-6.  a statement that the information in the notification is accurate and, under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+*   the physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed;
+*   identification of the copyrighted work claimed to have been infringed (or, if multiple copyrighted works located on the platform are covered by a single notification, a representative list of such works);
+*   identification of the material that is claimed to be infringing or the subject of infringing activity, and information reasonably sufficient to allow Coursera to locate the material on the platform;
+*   the name, address, telephone number, and email address (if available) of the complaining party;
+*   a statement that the complaining party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and
+*   a statement that the information in the notification is accurate and, under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
 
 Notices must meet the then-current statutory requirements imposed by the DMCA. Notices and counter-notices with respect to the Services can either be sent:
 
-1.  via mail: Copyright Agent, Coursera 381 E. Evelyn Ave Mountain View, CA 94041
-2.  via email: [copyright@coursera.org](mailto:copyright@coursera.org)
+*   via mail: Copyright Agent, Coursera 381 E. Evelyn Ave Mountain View, CA 94041
+*   via email: [copyright@coursera.org](mailto:copyright@coursera.org)
 
 We suggest that you consult your legal advisor before filing a notice. Also, be aware that there can be penalties for false claims under the DMCA.
 
@@ -300,10 +300,10 @@ _Effective as of January 1, 2021_
 
 All users participating in Content Offerings must agree to abide by the following code:
 
-1.  I will register for only one account, unless expressly permitted to register for additional accounts by Coursera.
-2.  My answers to homework, quizzes, exams, projects, and other assignments will be my own work (except for assignments that explicitly permit collaboration) as specified in the Coursera [Plagiarism Policy](https://learner.coursera.help/hc/en-us/articles/209818863-Coursera-Honor-Code).
-3.  I will not make solutions to homework, quizzes, exams, projects, and other assignments available to anyone else (except to the extent an assignment explicitly permits sharing solutions). This includes both solutions written by me, as well as any solutions provided by the course staff or others.
-4.  I will not engage in any other activities that will dishonestly improve my results or dishonestly improve or hurt the results of others.
+*   I will register for only one account, unless expressly permitted to register for additional accounts by Coursera.
+*   My answers to homework, quizzes, exams, projects, and other assignments will be my own work (except for assignments that explicitly permit collaboration) as specified in the Coursera [Plagiarism Policy](https://learner.coursera.help/hc/en-us/articles/209818863-Coursera-Honor-Code).
+*   I will not make solutions to homework, quizzes, exams, projects, and other assignments available to anyone else (except to the extent an assignment explicitly permits sharing solutions). This includes both solutions written by me, as well as any solutions provided by the course staff or others.
+*   I will not engage in any other activities that will dishonestly improve my results or dishonestly improve or hurt the results of others.
 
 Any violation of this code may result in your access to all or part of the Services being suspended, disabled, or terminated.
 
