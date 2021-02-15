@@ -135,9 +135,15 @@ We do not allow content that:
     
     **Examples**: Rape, incest, bestiality, necrophilia, snuff, lolita or teen-themed pornography, underage dating
     
+
+Compensated sexual acts
+-----------------------
+
+We do not allow content that:
+
 *   may be interpreted as promoting a sexual act in exchange for compensation.
     
-    **Examples**: Prostitution, companionship and escort services, intimate massage, cuddling sites
+    **Examples**: Prostitution; companionship and escort services; intimate massage; cuddling sites; compensated dating or sexual arrangements where one participant is expected to provide money, gifts, financial support, mentorship, or other valuable benefits to another participant such as "Sugar" dating
     
 
 Mail order brides
