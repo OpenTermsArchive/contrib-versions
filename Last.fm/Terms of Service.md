@@ -153,9 +153,8 @@ By mail:
 
 Copyright Agent, Legal Department  
 Last.fm Limited  
-The Warehouse, The Bower  
-207-211 Old Street  
-London, EC1V 9NR  
+17-29 Hawley Crescent,  
+London, NW1 8TT,  
 United Kingdom  
 Phone: +44 207 021 1000
 
