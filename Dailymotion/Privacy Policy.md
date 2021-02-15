@@ -486,15 +486,14 @@ We encourage you to read this Privacy Policy carefully when using the Dailymotio
         
         If you reside in Turkey, the following additional terms apply to you:
         
-        Dailymotion may process Data listed under Section 2 for the purposes explained under Section 3 based on the following legal grounds:
-        
-        1.  processing is explicitly laid down in or dictated by laws;
-        2.  processing of your Data, is necessary provided that it is directly related to the conclusion or fulfilment of your contract with us;
-        3.  processing is mandatory for us to be able to comply with our legal obligations;
-        4.  the relevant data is made available to the public by yourself;
-        5.  processing is mandatory for the establishment, exercise or protection of a right;
-        6.  processing is mandatory for our legitimate interests, provided that it does not violate your fundamental rights and freedoms;
-        7.  your explicit consent (this legal basis is only used in relation to processing that requires your consent and is not used for any processing that might be performed based on another legal ground).
+        *   \- For Privacy Matters: Pursuant to applicable privacy laws in Turkey, Dailymotion may process Data listed under Section 2 for the purposes explained under Section 3 based on the following legal grounds:
+        *   1.  processing is explicitly laid down in or dictated by laws;
+            2.  processing of your Data, is necessary provided that it is directly related to the conclusion or fulfilment of your contract with us;
+            3.  processing is mandatory for us to be able to comply with our legal obligations;
+            4.  the relevant data is made available to the public by yourself;
+            5.  processing is mandatory for the establishment, exercise or protection of a right;
+            6.  processing is mandatory for our legitimate interests, provided that it does not violate your fundamental rights and freedoms;
+            7.  your explicit consent (this legal basis is only used in relation to processing that requires your consent and is not used for any processing that might be performed based on another legal ground).
         
         Pursuant to the applicable privacy laws in Turkey, you have the following rights regarding your Data:
         
@@ -518,5 +517,16 @@ We encourage you to read this Privacy Policy carefully when using the Dailymotio
         
           
         
+        *   \- For takedown requests: the easiest and most efficient way to report a content that you deem inappropriate is to click the “report” button below each video. In addition to such online tool, you may also, as a Turkish resident, send a letter or an email to the Representative appointed by Dailymotion in Turkey, in the scope of the Law No. 5651:
+        *   *   (a) Name: Gökhan Gökçe
+            *   (b) Address: Buyukdere Cd. No. 193/2 Esentepe – Sisli – Istanbul
+            *   (c) Email: \[[Email reserved for content takedown requests from Turkey only](mailto:Gokhan.gokce.external@dailymotion.com)\]
+        *   \- Eğer Türkiye’de ikamet ediyorsanız, 5651 sayılı Kanun kapsamında görevlendirilen Temsilciye yazılı olarak ya da eposta yoluyla bildirim gönderebilirsiniz.
+        *   *   (a) İsim: Gökhan Gökçe
+            *   (b) Adres: Buyukdere Cd. No. 193/2 Esentepe – Sisli – Istanbul
+            *   (c) Eposta adresi: \[[yalnızca türkiye'den içerik kaldırma taleplerine ayrılmıştır](mailto:Gokhan.gokce.external@dailymotion.com)\]
+        
+          
+        
 
-_Last modified on: November 9th, 2020._
+_Last modified on: February 1st, 2021._
