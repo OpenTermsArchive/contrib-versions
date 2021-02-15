@@ -4,7 +4,7 @@ Privacy Policy (printable version)
 General information
 -------------------
 
-*   Last updated: 11 December 2020
+*   Last updated: 5 February 2021
 *   Here we inform you about data processing in connection with the entire service XING and its applications (kununu etc.).
 *   New Work SE is the body responsible for the processing of personal data.
 *   Our Data Protection Officer is Felix Lasse.
@@ -182,7 +182,7 @@ e.g.
 
 #### Visibility
 
-Your optional information is visible to all users in the social network after you enter it. In some cases, you can choose whether optional information should only be visible to certain users in the social network.
+Whether and to what extent your mandatory information is visible to other users depends on whether and to what extent the respective application is geared towards anonymity. Please refer to the respective application for more information.
 
 #### Period saved for
 
