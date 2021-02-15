@@ -1,6 +1,6 @@
 Our Privacy Policy explained
 
-Effective December 4, 2020 | [Download PDF](https://www.xfinity.com///cdn.comcast.com/-/media/Images/cpp-privacy-portal/policy/pdfs/Privacy%20Policy%20English%2020201204.pdf "Download PDF")
+Effective February 9, 2021 | [Download PDF](https://cdn.comcast.com/-/media/Images/cpp-privacy-portal/policy/pdfs/Privacy%20Policy%20English%2020200210.pdf?rev=d6fe2067-fcb4-4b80-b768-9c86c18a80a9&la=en "Download PDF")
 
 Table of Contents
 
