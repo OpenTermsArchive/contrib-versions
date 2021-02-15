@@ -469,7 +469,7 @@ We have also provided an FAQ page [here](https://www.surveymonkey.com/mp/legal/f
 
 EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield.
 
-SurveyMonkey Inc. participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield. SurveyMonkey is committed to subjecting all personal information received from the European Union (EU) member countries and Switzerland, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List. [https://www.privacyshield.gov/](https://www.privacyshield.gov/).
+SurveyMonkey Inc. participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield. SurveyMonkey is committed to subjecting all personal information received from the European Union (EU) member countries, the United Kingdom, and Switzerland, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List. [https://www.privacyshield.gov/](https://www.privacyshield.gov/).
 
 SurveyMonkey also complies with the onward transfer liability provisions of the Privacy Shield Principles.
 
