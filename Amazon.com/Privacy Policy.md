@@ -1,7 +1,7 @@
 Amazon.com Privacy Notice
 =========================
 
-**Last updated: January 1, 2020.** To see prior version, click [here](https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=16015091).
+**Last updated: February 12, 2021.** To see prior version, click [here](https://www.amazon.com/gp/help/customer/display.html?nodeId=202056900).
 
 We know that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This Privacy Notice describes how Amazon.com and its affiliates (collectively "Amazon") collect and process your personal information through Amazon websites, devices, products, services, online and physical stores, and applications that reference this Privacy Notice (together "Amazon Services"). **By using Amazon Services, you are consenting to the practices described in this Privacy Notice.**
 
@@ -42,13 +42,13 @@ We use your personal information to operate, provide, develop, and improve the p
 *   **Provide voice, image and camera services.** When you use our voice, image and camera services, we use your voice input, images, videos, and other personal information to respond to your requests, provide the requested service to you, and improve our services. For more information about Alexa voice services , click [here](https://www.amazon.com/gp/help/customer/display.html?nodeId=GVP69FUJ48X9DK8V).
 *   **Comply with legal obligations.** In certain cases, we collect and use your personal information to comply with laws. For instance, we collect from sellers information regarding place of establishment and bank account information for identity verification and other purposes.
 *   **Communicate with you.** We use your personal information to communicate with you in relation to Amazon Services via different channels (e.g., by phone, email, chat).
-*   **Advertising.** We use your personal information to display interest-based ads for features, products, and services that might be of interest to you. We do not use information that personally identifies you to display interest-based ads. To learn more, please read our [Interest-Based Ads](https://www.amazon.com/gp/help/customer/display.html?nodeId=202075050) notice.
+*   **Advertising.** We use your personal information to display interest-based ads for features, products, and services that might be of interest to you. We do not use information that personally identifies you to display interest-based ads. To learn more, please read our [Interest-Based Ads](https://www.amazon.com/ibanotice) notice.
 *   **Fraud Prevention and Credit Risks.** We use personal information to prevent and detect fraud and abuse in order to protect the security of our customers, Amazon, and others. We may also use scoring methods to assess and manage credit risks.
 
 What About Cookies and Other Identifiers?
 -----------------------------------------
 
-To enable our systems to recognize your browser or device and to provide and improve Amazon Services, we use cookies and other identifiers. For more information about cookies and how we use them, please read our [Cookies Notice](https://www.amazon.com/gp/help/customer/display.html/?nodeId=201890250).
+To enable our systems to recognize your browser or device and to provide and improve Amazon Services, we use cookies and other identifiers. For more information about cookies and how we use them, please read our [Cookies Notice](https://www.amazon.com/cookies).
 
 Does Amazon Share Your Personal Information?
 --------------------------------------------
@@ -69,14 +69,14 @@ We design our systems with your security and privacy in mind.
 
 *   We work to protect the security of your personal information during transmission by using encryption protocols and software.
 *   We follow the Payment Card Industry Data Security Standard (PCI DSS) when handling credit card data.
-*   We maintain physical, electronic, and procedural safeguards in connection with the collection, storage, and disclosure of personal customer information. Our security procedures mean that we may occasionally request proof of identity before we disclose personal information to you.
+*   We maintain physical, electronic, and procedural safeguards in connection with the collection, storage, and disclosure of customer personal information. Our security procedures mean that we may ask to verify your identity before we disclose personal information to you.
 *   Our devices offer security features to protect them against unauthorized access and loss of data. You can control these features and configure them based on your needs. Click [here](https://www.amazon.com/gp/help/customer/display.html?nodeId=200127470) for more information on how to manage the security settings of your device.
-*   It is important for you to protect against unauthorized access to your password and to your computers, devices, and applications. Be sure to sign off when finished using a shared computer. Click [here](https://www.amazon.com/gp/help/customer/display.html?nodeId=201293120) for more information on how to sign off.
+*   It is important for you to protect against unauthorized access to your password and to your computers, devices, and applications. We recommend using a unique password for your Amazon account that is not used for other online accounts. Be sure to sign off when finished using a shared computer. Click [here](https://www.amazon.com/gp/help/customer/display.html?nodeId=201293120) for more information on how to sign off.
 
 What About Advertising?
 -----------------------
 
-*   **Third-Party Advertisers and Links to Other Websites:** Amazon Services may include third-party advertising and links to other websites and apps. Third-party advertising partners may collect information about you when you interact with their content, advertising, and services. For more information about third-party advertising at Amazon, including interest-based ads, please read our [Interest-Based Ads](https://www.amazon.com/gp/help/customer/display.html?nodeId=202075050) policy. To adjust your advertising preferences, please go to the [Advertising Preferences](https://www.amazon.com/adprefs) page.
+*   **Third-Party Advertisers and Links to Other Websites:** Amazon Services may include third-party advertising and links to other websites and apps. Third-party advertising partners may collect information about you when you interact with their content, advertising, and services. For more information about third-party advertising at Amazon, including interest-based ads, please read our [Interest-Based Ads](https://www.amazon.com/ibanotice) notice. To adjust your advertising preferences, please go to the [Advertising Preferences](https://www.amazon.com/adprefs) page.
 *   **Use of Third-Party Advertising Services:** We provide ad companies with information that allows them to serve you with more useful and relevant Amazon ads and to measure their effectiveness. We never share your name or other information that directly identifies you when we do this. Instead, we use an advertising identifier like a cookie or other device identifier. For example, if you have already downloaded one of our apps, we will share your advertising identifier and data about that event so that you will not be served an ad to download the app again. Some ad companies also use this information to serve you relevant ads from other advertisers. You can learn more about how to opt-out of interest-based advertising by going to the [Advertising Preferences](https://www.amazon.com/adprefs) page.
 
 What Information Can I Access?
@@ -93,18 +93,19 @@ If you have any questions as to how we collect and use your personal information
 *   You can add or update certain information on pages such as those referenced in [What Information Can I Access?](#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_87C837F9CCD84769B4AE2BEB14AF4F01). When you update information, we usually keep a copy of the prior version for our records.
 *   If you do not want to receive email or other communications from us, please adjust your [Customer Communication Preferences](https://www.amazon.com/gp/cpc/homepage?ref=gss_to_cpc). If you don't want to receive in-app notifications from us, please adjust your notification settings in the app or device.
 *   If you do not want to see interest-based ads, please adjust your [Advertising Preferences](https://www.amazon.com/adprefs).
-*   The Help feature on most browsers and devices will tell you how to prevent your browser or device from accepting new cookies or other identifiers, how to have the browser notify you when you receive a new cookie, or how to block cookies altogether. Because cookies and identifiers allow you to take advantage of some essential features of Amazon Services, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Cart, proceed to Checkout, or use any Services that require you to Sign in. For more information about cookies and other identifiers, see our [Cookies Notice](https://www.amazon.com/gp/help/customer/display.html/?nodeId=201890250).
+*   The Help feature on most browsers and devices will tell you how to prevent your browser or device from accepting new cookies or other identifiers, how to have the browser notify you when you receive a new cookie, or how to block cookies altogether. Because cookies and identifiers allow you to take advantage of some essential features of Amazon Services, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Cart, proceed to Checkout, or use any Services that require you to Sign in. For more information about cookies and other identifiers, see our [Cookies Notice](https://www.amazon.com/cookies).
 *   If you want to browse our websites without linking the browsing history to your account, you may do so by logging out of your account [here](https://www.amazon.com/gp/help/customer/display.html?nodeId=201293120) and blocking cookies on your browser.
+*   You can manage the recommendations you receive in our store [here](https://www.amazon.com/gp/yourstore/iyr/), remove recommendations you don’t want to see [here](https://www.amazon.com/gp/yourstore/home) by selecting View All and Manage then selecting the Remove Items toggle that appears at the top of the page, and edit your browsing history [here](https://www.amazon.com/gp/yourstore/pym/cc).
 *   You will also be able to opt out of certain other types of data usage by updating your settings on the applicable Amazon website (e.g., in "Manage Your Content and Devices"), device, or application. For more information click [here](https://www.amazon.com/gp/help/customer/display.html?nodeId=GQFYXZHZB2H629WN). Most non-Amazon devices also provide users with the ability to change device permissions (e.g., disable/access location services, contacts). For most devices, these controls are located in the device's settings menu. If you have questions about how to change your device permissions on devices manufactured by third parties, we recommend you contact your mobile service carrier or your device manufacturer.
 *   If you are a seller, you can add or update certain information in [Seller Central](https://sellercentral.amazon.com/), update your account information by accessing your [Seller Account Information](https://sellercentral.amazon.com/hz/sc/account-information), and adjust your email or other communications you receive from us by updating your [Notification Preferences](https://sellercentral.amazon.com/notifications/preferences/ref=xx_notifpref_dnav_xx).
 *   If you are an author, you can add or update the information you have provided in the [Author Portal](https://authorcentral.amazon.com/gp/help?topicID=200649520) and [Author Central](https://authorcentral.amazon.com/) by accessing your accounts in the Author Portal and Author Central, respectively.
 
-In addition, to the extent required by applicable law, you may have the right to request access to or delete your personal data. If you wish to do any of these things, please contact [Customer Service](https://www.amazon.com/gp/help/contact-us). Depending on your data choices, certain services may be limited or unavailable.
+In addition, to the extent required by applicable law, you may have the right to request access to or delete your personal information. If you wish to do any of these things, please contact [Customer Service](https://www.amazon.com/gp/help/contact-us). Depending on your data choices, certain services may be limited or unavailable.
 
 Are Children Allowed to Use Amazon Services?
 --------------------------------------------
 
-Amazon does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use Amazon Services only with the involvement of a parent or guardian. We do not knowingly collect personal information from children under the age of 13 without the consent of the child's parent or guardian. For more information, please see our [Children's Privacy Disclosure](https://www.amazon.com/gp/help/customer/display.html?nodeId=202185560).
+Amazon does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use Amazon Services only with the involvement of a parent or guardian. We do not knowingly collect personal information from children under the age of 13 without the consent of the child's parent or guardian. For more information, please see our [Children's Privacy Disclosure](https://www.amazon.com/childprivacydisclosure).
 
 EU-US and Swiss-US Privacy Shield
 ---------------------------------
@@ -114,7 +115,7 @@ Amazon.com, Inc. participates in the EU-US and Swiss-US Privacy Shield framework
 California Consumer Privacy Act
 -------------------------------
 
-Click [here](https://www.amazon.com/gp/help/customer/display.html?nodeId=GC5HB5DVMU5Y8CJ2) to read additional disclosures required under the California Consumer Privacy Act.
+Click [here](https://www.amazon.com/ccpadisclosure) to read additional disclosures required under the California Consumer Privacy Act.
 
 Conditions of Use, Notices, and Revisions
 -----------------------------------------
