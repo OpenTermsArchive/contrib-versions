@@ -6,7 +6,7 @@ Privacy Notice/Notice At Collection
 Privacy Notice /Notice At Collection – Highlights 
 --------------------------------------------------
 
-Last Updated: October 2, 2020
+Last Updated: February 9, 2021
 
 When you use or interact with a U.S. website, mobile app or other digital service (each a “**Digital Service**”) operated or owned by Hearst Magazine Media, Inc. or its affiliates, we and third parties may obtain certain information about you. In this Highlights section, we provide an overview of our privacy practices related to the Digital Services. Please review our full [Privacy Notice](#_PRIVACY_NOTICE) below for a detailed explanation of our practices. 
 
@@ -67,7 +67,7 @@ If you have questions about our Privacy Notice you can contact us by email at [
 **PRIVACY NOTICE/NOTICE AT COLLECTION**
 ---------------------------------------
 
-**Last Updated:** October 2, 2020
+**Last Updated:** February 9, 2021
 
 1.  [Introduction](#_INTRO)
 2.  [What Information We Obtain](#_WHAT_INFO)
@@ -208,6 +208,7 @@ The technologies used to deliver ads on websites and mobile apps differ. Please 
 2.  **Opt-out Cookies.** You can follow [the instructions provided by the Digital Advertising Alliance (“DAA”) here](http://www.aboutads.info/) and/or [the Network Advertising Initiative (“NAI”)](http://optout.networkadvertising.org/) here to place an opt-out cookie on your browser. These opt-out cookies enable you to block participating companies from installing future cookies on your computer or browser.
     *   If you place opt-out cookies but subsequently clear or delete cookies on your computer or device browser, your opt-out cookies may be deleted and you may have to renew your opt-out choices for that specific browser.
     *   The opt-out mechanisms offered by the DAA and NAI are provided by third parties. Hearst does not control or operate these mechanisms or the choices provided through these mechanisms.
+    *   The Digital Services may use measurement technology provided by Nielsen, including the Nielsen Digital Ad Ratings (DAR) Service for Google Ad Manager.  To learn more about Nielsen digital measurement products and your choices applicable to them, including in mobile apps and connected devices, please visit [http://www.nielsen.com/digitalprivacy](http://www.nielsen.com/digitalprivacy) for more information.
 
 #### **Mobile App Opt-Out**
 
