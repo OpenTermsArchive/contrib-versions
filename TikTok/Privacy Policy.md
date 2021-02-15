@@ -303,6 +303,6 @@ If you have questions or complaints regarding this policy, or if you wish to rea
 
 **For users in the European Union, European Economic Area and Switzerland:** TikTok Technology Limited, 10 Earlsfort Terrace, Dublin, D02 T380, Ireland. 
 
-**For users in the United Kingdom:** TikTok Information Technologies UK Limited, WeWork, 125 Kingsway, London, WC2B 6NH, United Kingdom.
+**For users in the United Kingdom:** 6th Floor, One London Wall, London, EC2Y 5EB, United Kingdom.
 
 If contacting us does not resolve your complaint you have the right to complain to your local data protection supervisory authority.
