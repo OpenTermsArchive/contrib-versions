@@ -46,8 +46,6 @@ Depuis le Luxembourg au 0800 40 234 (numéro gratuit) du lundi au vendredi de 9h
   
 Depuis l'Autriche au 0800 70 10 07 (numéro gratuit) du lundi au vendredi de 9h à 19h et le samedi de 9h à 18h.  
   
-Depuis la Suisse au 0800 00 22 13 (numéro gratuit) du lundi au vendredi de 9h à 19h et le samedi de 9h à 18h.  
-  
 Depuis l'Irlande au 1 800 83 22 86 (numéro gratuit) du lundi au vendredi de 9h à 19h et le samedi de 9h à 18h.  
   
 Depuis les Pays-Bas au 0800 251 21 24 (numéro gratuit) du lundi au vendredi de 9h à 19h et le samedi de 9h à 18h.  
@@ -76,8 +74,6 @@ Depuis le Portugal au 0800 60 00 45 (numéro gratuit) du lundi au vendredi de 9
   
                - depuis l'Autriche au 0800 70 10 07 (numéro gratuit) du lundi au vendredi de 9h à 19h et le samedi de 9h à 18h ;  
   
-               - depuis la Suisse au 0800 00 22 13 (numéro gratuit) du lundi au vendredi de 9h à 19h et le samedi de 9h à 18h ;  
-  
                - depuis l'Irlande au 1 800 83 22 86 (numéro gratuit) du lundi au vendredi de 9h à 19h et le samedi de 9h à 18h ;  
   
                - depuis les Pays-Bas au 0800 251 21 24 (numéro gratuit) du lundi au vendredi de 9h à 19h et le samedi de 9h à 18h ;  
@@ -98,7 +94,6 @@ Les présentes conditions générales de vente (ci-après « CGV ») s'appliquen
 *   depuis l’Espagne au 0800 00 01 17 (numéro gratuit);
 *   depuis le Luxembourg au 0800 40 234 (numéro gratuit);
 *   depuis l'Autriche au 0800 70 10 07 (numéro gratuit);
-*   depuis la Suisse au 0800 00 22 13 (numéro gratuit);
 *   depuis l'Irlande au 1 800 83 22 86 (numéro gratuit);
 *   depuis les Pays-Bas au 0800 251 21 24 (numéro gratuit);
 *   depuis le Portugal au 0800 60 00 45 (numéro gratuit).
@@ -186,7 +181,6 @@ Si malgré tous nos efforts, un produit ou un service devenait indisponible post
   
        - depuis l'Autriche au 0800 70 10 07 (numéro gratuit) du lundi au vendredi de 9h à 19h et le samedi de 9h à 18h ;   
   
-       - depuis la Suisse au 0800 00 22 13 (numéro gratuit) du lundi au vendredi de 9h à 19h et le samedi de 9h à 18h ;  
   
        - depuis l'Irlande au 1 800 83 22 86 (numéro gratuit) du lundi au vendredi de 9h à 19h et le samedi de 9h à 18h ;  
   
@@ -338,13 +332,13 @@ Pour plus d’informations concernant l’ensemble des modes de livraison[, cliq
 
  Pour la livraison de vos produits de petit gabarit à l’adresse de votre choix, CDISCOUNT peut vous proposer un ou plusieurs des modes de livraison suivants (selon le pays de livraison ) :
 
- |     |     |     |     |     |     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     | France | Belgique | Italie | Allemagne | Espagne | Luxembourg | Autriche | Suisse | Irlande | Pays-Bas | Portugal |
-| _Livraison domicile standard_ :<br><br>La livraison des produits commandés s’effectue à l’adresse de livraison indiquée lors de votre commande. | x   | x   | x   | x   | x   | x   | x   | x   | x   | x   | x   |
-| _Livraison domicile express_ :<br><br>La livraison des produits commandés s’effectue le lendemain de votre commande à l’adresse de livraison indiquée lors de votre commande, sous réserve des conditions indiquées à l’article 6.2.1. | x   |     |     |     |     |     |     |     |     |     |     |
-| _Livraison sur RDV :_<br><br>Disponible uniquement dans certaines villes. Les conditions applicables à ce mode de livraison sont accessibles [ici](https://www.cdiscount.com/shipping/shippinginfo.html?shippingpartnerorigin=ft&_ga=2.215965202.425076763.1551370715-192888749.1541423841#Chronopost_Rendez_vous). | x   |     |     |     |     |     |     |     |     |     |     |
-| _Livraison « same day » :_<br><br>Disponible uniquement dans certaines villes, selon l’heure à laquelle est passée la commande. Les conditions applicables à ce mode de livraison sont accessibles [ ici](https://www.cdiscount.com/shipping/shippinginfo.html?shippingpartnerorigin=ft&_ga=2.215965202.425076763.1551370715-192888749.1541423841#Chronopost_soiree). | x   |     |     |     |     |     |     |     |     |     |     |
+ |     |     |     |     |     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|     | France | Belgique | Italie | Allemagne | Espagne | Luxembourg | Autriche | Irlande | Pays-Bas | Portugal |
+| _Livraison domicile standard_ :<br><br>La livraison des produits commandés s’effectue à l’adresse de livraison indiquée lors de votre commande. | x   | x   | x   | x   | x   | x   | x   | x   | x   | x   |
+| _Livraison domicile express_ :<br><br>La livraison des produits commandés s’effectue le lendemain de votre commande à l’adresse de livraison indiquée lors de votre commande, sous réserve des conditions indiquées à l’article 6.2.1. | x   |     |     |     |     |     |     |     |     |     |
+| _Livraison sur RDV :_<br><br>Disponible uniquement dans certaines villes. Les conditions applicables à ce mode de livraison sont accessibles [ici](https://www.cdiscount.com/shipping/shippinginfo.html?shippingpartnerorigin=ft&_ga=2.215965202.425076763.1551370715-192888749.1541423841#Chronopost_Rendez_vous). | x   |     |     |     |     |     |     |     |     |     |
+| _Livraison « same day » :_<br><br>Disponible uniquement dans certaines villes, selon l’heure à laquelle est passée la commande. Les conditions applicables à ce mode de livraison sont accessibles [ ici](https://www.cdiscount.com/shipping/shippinginfo.html?shippingpartnerorigin=ft&_ga=2.215965202.425076763.1551370715-192888749.1541423841#Chronopost_soiree). | x   |     |     |     |     |     |     |     |     |     |
 
    
 
@@ -352,12 +346,12 @@ Pour plus d’informations concernant l’ensemble des modes de livraison[, cliq
 LIVRAISON EN POINT DE RETRAIT ET CONSIGNE  
 ** 
 
-|     |     |     |     |     |     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     | France | Belgique | Italie | Allemagne | Espagne | Luxembourg | Autriche | Suisse | Irlande | Pays-Bas | Portugal |
-| _Livraison en point de retrait standard_ :<br><br>La livraison des produits commandés s’effectue chez un commerçant ou un bureau de Poste proche de chez vous ou de votre lieu de travail. | x   | x   |     | x   | x   | x   |     |     |     |     |     |
-| _Livraison en point de retrait express :_<br><br>_Les conditions applicables à ce mode de livraison sont accessibles_ _[ ici](https://www.cdiscount.com/shipping/shippinginfo.html?shippingpartnerorigin=ft&_ga=2.173872678.425076763.1551370715-192888749.1541423841)__._ | x   |     |     |     |     |     |     |     |     |     |     |
-| _Livraison en consigne :_<br><br>Les conditions applicables à ce mode de livraison sont accessibles [ici](https://www.cdiscount.com/shipping/shippinginfo.html?shippingpartnerorigin=ft&_ga=2.173872678.425076763.1551370715-192888749.1541423841#Chronopost_consigne). | x   |     |     |     |     |     |     |     |     |     |     | 
+|     |     |     |     |     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|     | France | Belgique | Italie | Allemagne | Espagne | Luxembourg | Autriche | Irlande | Pays-Bas | Portugal |
+| _Livraison en point de retrait standard_ :<br><br>La livraison des produits commandés s’effectue chez un commerçant ou un bureau de Poste proche de chez vous ou de votre lieu de travail. | x   | x   |     | x   | x   | x   |     |     |     |     |
+| _Livraison en point de retrait express :_<br><br>_Les conditions applicables à ce mode de livraison sont accessibles_ _[ ici](https://www.cdiscount.com/shipping/shippinginfo.html?shippingpartnerorigin=ft&_ga=2.173872678.425076763.1551370715-192888749.1541423841)__._ | x   |     |     |     |     |     |     |     |     |     |
+| _Livraison en consigne :_<br><br>Les conditions applicables à ce mode de livraison sont accessibles [ici](https://www.cdiscount.com/shipping/shippinginfo.html?shippingpartnerorigin=ft&_ga=2.173872678.425076763.1551370715-192888749.1541423841#Chronopost_consigne). | x   |     |     |     |     |     |     |     |     |     | 
 
 **6.1.2  Produits de gros gabarit** (uniquement en France et en Belgique)
 
@@ -464,7 +458,7 @@ Votre produit sera déposé dans la pièce de votre choix. En revanche, cette pr
 6.2.2 Territoires desservis  
   
   
-CDISCOUNT livre les commandes en France Métropolitaine, Corse comprise, en Belgique, en Italie, en Allemagne, en Espagne, au Luxembourg, en Autriche, en Suisse, en Irlande, aux Pays-Bas et au Portugal sauf exclusions particulières.
+CDISCOUNT livre les commandes en France Métropolitaine, Corse comprise, en Belgique, en Italie, en Allemagne, en Espagne, au Luxembourg, en Autriche, en Irlande, aux Pays-Bas et au Portugal sauf exclusions particulières.
 
  Certains produits ne peuvent être livrés en Corse ou à l'étranger. Vous serez informé de l’éligibilité de votre produit pour une livraison en Corse lors de votre commande.   
 
@@ -501,8 +495,6 @@ Pour le suivi de votre commande et le service après-vente, vous pouvez nous con
                 \- depuis le Luxembourg au 0800 40 234 (numéro gratuit) du lundi au vendredi de 9h à 19h et le samedi de 9h à 18h.       
   
  - depuis l'Autriche au 0800 70 10 07 (numéro gratuit) du lundi au vendredi de 9h à 19h et le samedi de 9h à 18h ;   
-  
-              - depuis la Suisse au 0800 00 22 13 (numéro gratuit) du lundi au vendredi de 9h à 19h et le samedi de 9h à 18h ;  
   
               - depuis l'Irlande au 1 800 83 22 86 (numéro gratuit) du lundi au vendredi de 9h à 19h et le samedi de 9h à 18h ;  
   
@@ -716,7 +708,6 @@ Pour bénéficier de la garantie légale de conformité ou de la garantie des vi
 
  - depuis le Luxembourg au 0800 40 234 (numéro gratuit) ;  
             - depuis l'Autriche au 0800 70 10 07 (numéro gratuit) ;  
-            - depuis la Suisse au 0800 00 22 13 (numéro gratuit) ;  
             - depuis Irlande au 1 800 83 22 86 (numéro gratuit) ;  
             - depuis les Pays-Bas au 0800 251 21 24 (numéro gratuit) ;  
             -depuis le Portugal au 0800 60 00 45 (numéro gratuit).
@@ -1304,7 +1295,7 @@ Le crédit sera cumulé sur la Cagnotte :**
 
  \- Soit à l’issue du délai mentionné sur chaque Offre Partenaire au moment de l’achat puisque le délai dépend de la date de confirmation du commerçant partenaire, pour les Offres Partenaires.
 
-Avant l’écoulement de ces périodes, le montant à créditer sera affiché comme étant « En attente » dans l’Espace Client de l’Abonné, rubrique « Ma cagnotte é volonté ».
+Avant l’écoulement de ces périodes, le montant à créditer sera affiché comme étant « En attente » dans l’Espace Client de l’Abonné, rubrique « Ma cagnotte à volonté ».
 
 Il est également précisé, concernant les Offre Site, qu’en cas de commande contenant plusieurs Produits éligibles au Privilège, le total du crédit auquel donne droit cette commande sera cumulé sur la Cagnotte à l’issue d’un délai maximum de trente (30) jours ouvrés à compter de la livraison du dernier Produit éligible de la commande. Concernant les Offres Partenaires, le crédit sera cumulé à l’issue de chacun des délais mentionnés sur lesdites Offres.
 
@@ -2081,7 +2072,7 @@ _ARTICLE 15 :  LOI APPLICABLE ET ATTRIBUTION DE COMPETENCE_
 
   
   
-15.1    Le contrat existant entre les Parties est régi par le droit français.  
+15.1    Le contrat existant entre les Parties est régi par le droit franéais.  
   
 15.2. En cas de différend, les parties s’efforceront de se rapprocher afin de trouver une solution amiable.  
   
@@ -2142,9 +2133,6 @@ De bénéficier :
   
   
 • de ventes privilèges sur une sélection de produits ;   
-  
-  
-• de la presse en ligne en illimitée   
   
   
 • Et d’autres avantages offerts par les partenaires de Cdiscount, qui peuvent être différents en fonction du pays de résidence de l’Abonné Pro, et dont la disponibilité peut varier en cours d’Abonnement.  
