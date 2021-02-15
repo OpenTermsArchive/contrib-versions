@@ -55,7 +55,7 @@ If you do post content or submit material, and unless we indicate otherwise, you
 INTELLECTUAL PROPERTY COMPLAINTS
 --------------------------------
 
-Amazon respects the intellectual property of others. If you believe that your intellectual property rights are being infringed, please follow our [Notice and Procedure for Making Claims of Copyright Infringement](https://www.amazon.com/report/infringement).
+Amazon respects the intellectual property of others. If you believe that your intellectual property rights are being infringed, please follow our [Notice and Procedure for Making Claims of Copyright Infringement](https://www.amazon.com/gp/help/customer/display.html?nodeId=GLSBYFE9MGKKQXXM).
 
 RISK OF LOSS
 ------------
@@ -84,7 +84,7 @@ We generally do not charge your credit card until after your order has entered t
 APP PERMISSIONS
 ---------------
 
-When you use apps created by Amazon, such as the Amazon App or Kindle App, you may grant certain permissions to us for your device. Most mobile devices provide you with information about these permissions.
+When you use apps created by Amazon, such as the Amazon App or Kindle App, you may grant certain permissions to us for your device. Most mobile devices provide you with information about these permissions. To learn more about these permissions, [click here](https://www.amazon.com/gp/help/customer/display.html/?nodeId=201818880) .
 
 SANCTIONS AND EXPORT POLICY
 ---------------------------
@@ -110,7 +110,7 @@ DISPUTES
 
 **There is no judge or jury in arbitration, and court review of an arbitration award is limited. However, an arbitrator can award on an individual basis the same damages and relief as a court (including injunctive and declaratory relief or statutory damages), and must follow the terms of these Conditions of Use as a court would.**
 
-To begin an arbitration proceeding, you must send a letter requesting arbitration and describing your claim to our registered agent Corporation Service Company, 300 Deschutes Way SW, Suite 304, Tumwater, WA 98501. The arbitration will be conducted by the American Arbitration Association (AAA) under its rules, including the AAA's Supplementary Procedures for Consumer-Related Disputes. The AAA's rules are available at www.adr.org or by calling 1-800-778-7879. Payment of all filing, administration and arbitrator fees will be governed by the AAA's rules. We will reimburse those fees for claims totaling less than $10,000 unless the arbitrator determines the claims are frivolous. Likewise, Amazon will not seek attorneys' fees and costs in arbitration unless the arbitrator determines the claims are frivolous. You may choose to have the arbitration conducted by telephone, based on written submissions, or in person in the county where you live or at another mutually agreed location.
+To begin an arbitration proceeding, you must send a letter requesting arbitration and describing your claim to our registered agent Corporation Service Company, 300 Deschutes Way SW, Suite 208 MC-CSC1, Tumwater, WA 98501. The arbitration will be conducted by the American Arbitration Association (AAA) under its rules, including the AAA's Supplementary Procedures for Consumer-Related Disputes. The AAA's rules are available at www.adr.org or by calling 1-800-778-7879. Payment of all filing, administration and arbitrator fees will be governed by the AAA's rules. We will reimburse those fees for claims totaling less than $10,000 unless the arbitrator determines the claims are frivolous. Likewise, Amazon will not seek attorneys' fees and costs in arbitration unless the arbitrator determines the claims are frivolous. You may choose to have the arbitration conducted by telephone, based on written submissions, or in person in the county where you live or at another mutually agreed location.
 
 **We each agree that any dispute resolution proceedings will be conducted only on an individual basis and not in a class, consolidated or representative action.** If for any reason a claim proceeds in court rather than in arbitration **we each waive any right to a jury trial**. We also both agree that you or we may bring suit in court to enjoin infringement or other misuse of intellectual property rights.
 
@@ -152,7 +152,7 @@ Amazon accepts service of subpoenas or other legal process only through Amazonâ€
 
 Amazon.com, Inc.
 Corporation Service Company
-300 Deschutes Way SW, Suite 208
+300 Deschutes Way SW, Suite 208 MC-CSC1
 Tumwater, WA 98501
 Attn: Legal Department â€“ Legal Process
 
