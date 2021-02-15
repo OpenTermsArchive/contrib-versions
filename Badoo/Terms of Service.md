@@ -53,7 +53,9 @@ There are some rules about what is acceptable though, so when you are using Bado
 11.  shows another person where such Content was created or distributed without that person’s knowledge, and without that person having been afforded an opportunity to refuse such creation or distribution; or
 12.  contains images of children, even if you are also in the photo, or endangers minors.
 
-Please use your common sense when picking the Content that you choose to post on, upload or send via Badoo because you are solely responsible for, and bear all liability in relation to, such Content. If you repeatedly infringe our rules, you may be prevented from using Badoo and we may disable your account or block you from further use of Badoo. We may remove any Content you submit to Badoo if we believe it violates the Terms or we are required to do so by applicable law.
+Please use your common sense when picking the Content that you choose to post on, upload or send via Badoo because you are solely responsible for, and bear all liability in relation to, such Content.
+
+We use a combination of automated systems and a team of moderators to monitor and review accounts and messages for content that indicates breaches of these Terms. If you repeatedly infringe our rules, you may be prevented from using Badoo and we may disable your account or block you from further use of Badoo. We may remove any Content you submit to Badoo if we believe it violates the Terms or we are required to do so by applicable law.
 
 ### Are there any rules relating to personal data like my email address?
 
@@ -248,4 +250,4 @@ Our registered office is at The Broadgate Tower, Third Floor, 20 Primrose Street
 Effective date
 --------------
 
-The Terms were last updated on: 29 April 2020.
+The Terms were last updated on: 12 February 2021.
