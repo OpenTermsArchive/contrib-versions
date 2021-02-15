@@ -245,3 +245,71 @@ A cookie is a small file containing a string of characters that is sent to your 
 ### Google Account
 
 You may access some of our services by signing up for a [Google Account](https://www.google.com/accounts/) and providing us with some personal information (typically your name, email address and a password). This account information is used to authenticate you when you access Google services and protect your account from unauthorized access by others. You can edit or delete your account at any time through your Google Account settings.
+
+[Close](#)
+
+![](/chrome/static/images/chrome-logo.svg)
+
+#### Help us make Chrome.com even better
+
+We'd like to ask you a few brief questions to help us improve Chrome.com. About one minute of your time is all it will take to help us deliver a better experience for everyone.
+
+Start the survey
+
+![](/chrome/static/images/chrome-logo.svg)
+
+#### Why are you visiting Chrome.com today?
+
+ To download Chrome
+
+ To learn more about Chrome
+
+ To troubleshoot an issue with Chrome
+
+ Other
+
+[Next question Arrow](#)
+
+##### Question 2 of 3
+
+![](/chrome/static/images/chrome-logo.svg)
+
+#### Why are you interested in downloading Chrome?
+
+ I am using a new computer and want to download Chrome 
+
+ I have been using a different browser and want to try using Chrome 
+
+ I have to download Chrome in order to use a specific website, app, game, etc. 
+
+  
+
+[Next question Arrow](#)
+
+##### Question 3 of 3
+
+![](/chrome/static/images/chrome-logo.svg)
+
+#### How easy or difficult is it to find what you’re looking for on Chrome.com today?
+
+ 1
+
+ 2
+
+ 3
+
+ 4
+
+ 5
+
+ 6
+
+ 7
+
+It’s very difficult to find what I’m looking for It’s very easy to find what I was looking for
+
+[Submit Arrow](#)
+
+![](/chrome/static/images/chrome-logo.svg)
+
+#### Thank you for helping us build a better site.
