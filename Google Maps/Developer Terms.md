@@ -1,7 +1,7 @@
 Legal Notices for Google Maps/Google Earth and Google Maps/Google Earth APIs
 ============================================================================
 
-Last Modified: June 16, 2020
+Last Modified: February 1, 2021
 
 Google is providing the following notices under applicable laws and contracts (the **"Legal Notices"**).
 
@@ -249,7 +249,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   © Principauté de Monaco
             
-        *   Contains information from [STIF Open Data](https://data.iledefrance-mobilites.fr/page/home/), which is made available here under the [Open Data License (ODbL).](https://data.iledefrance-mobilites.fr/explore/?sort=modified&disjunctive.theme&disjunctive.keyword&disjunctive.publisher&disjunctive.modified&disjunctive.features&disjunctive.language) Modifications and improvements to the database made available in GTFS format [here.](https://pub.mecatran.com/opendata/stif.gtfs.zip)
+        *   Contains information from [IDFM Open Data](https://data.iledefrance-mobilites.fr/page/home/), which is made available here under the Open Data License (ODbL). Modifications and improvements to the database made available in GTFS format [here.](https://gtech-transit-prod.apigee.net/v1/google/gtfs/odbl/paris.zip?apikey=BasyG6OFZXgXnzWdQLTwJFGcGmeOs204&secret=gNo6F5PhQpsGRBCK)
             
         *   © DIREN Centre
             
@@ -258,6 +258,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         *   Google utilise les dernières versions des jeux de données communiquées par les producteurs ci-dessous ; ces données sont disponibles sur [transport.data.gouv.fr](https://transport.data.gouv.fr/) sous la licence « Open Database Licence » (ODbL) et sous les conditions d'utilisation précisant que la clause de partage à l’identique figurant à l’article 4.4 concerne les informations de même nature, de même granularité, de même conditions temporelles et de même emprise géographique :
             
             *   SNCF ; les modifications et améliorations aux données sont disponibles [ici](https://opendata.itoworld.com/france_sncf/france_sncf_gtfs.zip)
+            *   Bordeaux Métropole ; les modifications et améliorations aux données sont disponibles [ici](https://gtech-transit-prod.apigee.net/v1/google/gtfs/odbl/bordeaux.zip?apikey=BasyG6OFZXgXnzWdQLTwJFGcGmeOs204&secret=gNo6F5PhQpsGRBCK)
             *   Nantes Métropole
             *   Nîmes Métropole
             *   Grand Guéret Agglo
@@ -378,9 +379,9 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   この地図の作成にあたり、平凡社と平凡社地図出版からのライセンス提供を受けています。
             
-        *   交承 平成 25 年 110 号 JR データの内容は、株式会社交通新聞社発行の「JR 時刻表」([https://www.kotsu.co.jp/jrlogo/](https://www.kotsu.co.jp/jrlogo/)) 令和3年 1 月号に基づ いています。この時刻データを無断で転載・複写し、又は紙媒体、電磁媒体その他いかなる媒体に加工することも禁じます。
+        *   交承 平成 25 年 110 号 JR データの内容は、株式会社交通新聞社発行の「JR 時刻表」([https://www.kotsu.co.jp/jrlogo/](https://www.kotsu.co.jp/jrlogo/)) 令和3年 2 月号に基づ いています。この時刻データを無断で転載・複写し、又は紙媒体、電磁媒体その他いかなる媒体に加工することも禁じます。
             
-        *   JRバスデータの内容は、株式会社交通新聞社作成のデータ令和3年 1 月分に基づいています。この時刻データを無断転載・複写や電磁媒体等に加工することを禁じます。
+        *   JRバスデータの内容は、株式会社交通新聞社作成のデータ令和3年 2 月分に基づいています。この時刻データを無断転載・複写や電磁媒体等に加工することを禁じます。
             
         *   インクリメントP（株）の提供する地図データに基づいています。この地図データは世界各国の著作権法および国際的な著作権協定によって保護されています。Googleの利用規約類およびポリシーにより認められている場合を除き、当該データを無断転載／複写又は加工することを禁じます。[https://business.mapfan.com/aboutmap/](https://business.mapfan.com/aboutmap/)
             
