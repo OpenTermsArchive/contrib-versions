@@ -2072,7 +2072,7 @@ _ARTICLE 15 :  LOI APPLICABLE ET ATTRIBUTION DE COMPETENCE_
 
   
   
-15.1    Le contrat existant entre les Parties est régi par le droit français.  
+15.1    Le contrat existant entre les Parties est régi par le droit franéais.  
   
 15.2. En cas de différend, les parties s’efforceront de se rapprocher afin de trouver une solution amiable.  
   
