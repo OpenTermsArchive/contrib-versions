@@ -40,7 +40,7 @@ Please see our [privacy statement](https://www.timeanddate.com/information/priva
 4\. Use of Material on timeanddate.com
 --------------------------------------
 
-Use of material on timeanddate.com is for your own personal and non-commercial use only. You acknowledge that, as between the site and you, timeanddate.com is the sole owner of all content on the site, including, without limitation, all applicable copyrights, patents, trademarks, service marks, trade secrets, trade names, logos, and other intellectual property rights thereto, as well as text, images, graphics, logos, audio, video, and other material appearing on timeanddate.com.
+Use of material on timeanddate.com is for your own personal and non-commercial use only. You acknowledge that, as between the site and you, timeanddate.com is the sole owner of all content on the site, including, without limitation, all applicable copyrights, patents, trademarks, service marks, trade secrets, trade names, logos, and other intellectual property rights thereto, as well as text, images, graphics, logos, audio, video, and other material appearing on timeanddate.com. This does **not** include content, such as logos or images, uploaded by the user to our pages.
 
 You may download and print extracts from timeanddate.com for your own personal and non-commercial use only, provided you maintain and abide by our [copyright rules](https://www.timeanddate.com/information/copyright.html). If you wish to use our content other than as permitted by these rules, please use our [contact form](https://www.timeanddate.com/information/feedback.html?url=/) or email: [webmaster@timeanddate.com](mailto:webmaster@timeanddate.com).
 
