@@ -385,8 +385,8 @@ Profilage** : Le profilage consiste en l’établissement d’un profil individu
 
 [\[1\]](https://www.cdiscount.com/#_ftnref1) Cf. Délibération n° 2018-303 de la CNIL du 6 septembre 2018 sur la conservation des données bancaires\[2\] « _Privacy by Design_ » signifie protection de la vie privée dès la conception et désigne une approche de l’ingénierie des systèmes qui prend en compte la vie privée tout au long du processus. 
 
-Cdiscount.com - Le e-commerce made in France
-============================================
+Cdiscount : Meuble, Déco, High Tech, Bricolage, Jardin, Sport
+=============================================================
 
 °Sur produits signalés, période de Soldes du 20 Janvier au 16 Février 2021  
 \*\*Réduction maximale constatée sur une sélection d’articles  
