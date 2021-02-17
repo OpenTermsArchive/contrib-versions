@@ -51,7 +51,6 @@ This Privacy Policy covers information collected through the following websites 
 *   [TechBargains](http://www.techbargains.com/)
 *   [Mashable](http://www.mashable.com/)
 *   [Offers.com](http://www.offers.com/)
-*   [Tippit](http://www.tippit.com/)
 *   [Credit Cards Explained](http://www.creditcardsexplained.com/)
 *   [CouponCodes.com](http://www.couponcodes.com/)
 *   [Black Friday](http://www.blackfriday.com/)
@@ -65,8 +64,6 @@ This Privacy Policy covers information collected through the following websites 
 *   [The Black Friday](https://theblackfriday.com/)
 *   [Deals of America](https://dealsofamerica.com/)
 *   [Best Gifts](https://bestgifts.com/)
-*   [PCMag Shop](https://shop.pcmag.com/)
-*   [Offers Shop](https://shop.offers.com/)
 *   [Mashable Shop](https://shop.mashable.com/)
 *   [IGN Store](https://store.ign.com/)
 
