@@ -3,7 +3,7 @@ ASSOCIATED NEWSPAPERS LIMITED
 
 Privacy & Cookies Policy (the 'Policy')  
 
-Last Updated: 22 January 2021
+Last Updated: 16 February 2021
 
 Previous version(s): 23 September  2020
 
@@ -25,7 +25,7 @@ These brands also share infrastructure, systems and technology and all fall unde
 
 If you are a [MyMail](https://www.mymail.co.uk/home) member and have linked your account with your [Nectar](https://www.nectar.com/) Account, Associated Newspapers Ltd. and Nectar Loyalty Ltd. ('Nectar') will each be data controllers of your personal data. Associated Newspapers Ltd will handle your personal data in accordance with this Policy and [Nectar](https://www.nectar.com/) will handle your data in accordance with Nectar's [Privacy Policy](https://www.nectar.com/about/privacy-and-legal/privacy-policy) and [Cookie Policy](https://www.nectar.com/about/privacy-and-legal/cookie-policy). 
 
-If you engage with certain online bargains, discounts, last-minute vouchers and/or similar promotional offers (“Offers”) made available on our websites, or make use of the DailyMail Extras extension for desktop web browsers (“Extension”), we will process your data as joint controllers with Global Savings Group Ltd (“GSG”) and its affiliate CupoNation GmbH, who assist GSG as a marketing partner. GSG will handle your data in accordance with its [Privacy Policy](https://global-savings-group.com/privacy-policy/) and CupoNation GmbH will handle your data in accordance with its [Privacy Policy](https://www.cuponation.com/privacy-policy/) and [Cookie Policy](https://www.cuponation.com/cookie-policy/). 
+If you engage with certain online bargains, discounts, last-minute vouchers, best buys and/or similar promotional offers (“Offers”) made available on our websites, or make use of the DailyMail Extras extension for desktop web browsers (“Extension”), we will process your data as joint controllers with Global Savings Group Ltd (“GSG”) and its affiliate CupoNation GmbH, who assist GSG as a marketing partner. GSG will handle your data in accordance with its [Privacy Policy](https://global-savings-group.com/privacy-policy/) and CupoNation GmbH will handle your data in accordance with its [Privacy Policy](https://www.cuponation.com/privacy-policy/) and [Cookie Policy](https://www.cuponation.com/cookie-policy/). 
 
  3.  What kinds of information do we collect:
 ---------------------------------------------
