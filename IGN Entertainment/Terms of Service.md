@@ -30,7 +30,6 @@ These Terms cover the following Ziff Davis websites and mobile applications:
 *   [TechBargains](http://www.techbargains.com/)
 *   [Mashable](http://www.mashable.com/)
 *   [Offers.com](http://www.offers.com/)
-*   [Tippit](http://www.tippit.com/)
 *   [Credit Cards Explained](http://www.creditcardsexplained.com/)
 *   [CouponCodes.com](http://www.couponcodes.com/)
 *   [Black Friday](http://www.blackfriday.com/)
@@ -45,8 +44,6 @@ These Terms cover the following Ziff Davis websites and mobile applications:
 *   [Bestgifts.com](https://bestgifts.com/)
 *   [Deals of America](https://dealsofamerica.com/)
 *   [The Black Friday](https://theblackfriday.com/)
-*   [PCMag Shop](https://shop.pcmag.com/)
-*   [Offers Shop](https://shop.offers.com/)
 *   [Mashable Shop](https://shop.mashable.com/)
 *   [IGN Store](https://store.ign.com/)
 
