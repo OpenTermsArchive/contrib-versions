@@ -279,9 +279,9 @@ The opt-out methods described below are limited to the email address, phone or d
     
 2.  **Mail or Telephone Promotions:**
     
-    You can ask us to unsubscribe from our mail or telephone solicitations. You can also ask us to not share your information with third parties for marketing purposes. To do so, email us at [privacy@nytimes.com](mailto:privacy@nytimes.com) with “Opt Out” in the subject line, and your account number and phone number in the body of the email.
+    You can ask us to unsubscribe from our mail or telephone solicitations. You can also ask us to not share your information with third parties for marketing purposes. To do so, call us at 1-800-698-4637 or [chat with us](https://help.nytimes.com/hc/en-us/articles/115015385887-Contact-us). You may also email us at [privacy@nytimes.com](mailto:privacy@nytimes.com) with “Opt Out” in the subject line, and your account number and phone number in the body of the email.
     
-    You can write to us at: Customer Care/Call Center 620 Eighth Avenue, New York, NY 10018, Attn: Postal — or, for International Edition customers, The New York Times International Edition, Immeuble Le Lavoisier, 4, Place des Vosges, CS 10001, 92052 Paris La Défense Cedex, France. Please include your account number and phone number in the body of the letter.
+    For International Edition customers, you can write us at: The New York Times International Edition, Subscription Dept. 18 Museum Street, London, WC1A 1JN, United Kingdom. Please include your account number and phone number in the body of the letter.
     
 3.  **Push Notifications:**
     
