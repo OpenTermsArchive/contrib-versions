@@ -48,9 +48,13 @@ When you visit or use our Applications, we collect certain Non-Personally-Identi
 *   Tracking pixels or beacons. These techniques use electronic files to track your navigation of our Applications, your completion of transactions and other browsing behavior.
 *   IP Address: When you subscribe to an Internet Service Provider (ISP), your computing device is assigned an IP Address. We may track and store this address to help us manage security, monitor usage volume and patterns, and to customize experience and content when you use our Applications.
 
+Deidentified Patient Information
+
+In addition to personal information, we may sell or disclose patient and/or member information that has been deidentified as permitted by law. To the extent we sell or share such deidentified patient and/or member information, we do so pursuant to one of the deidentification methodologies described in Section 164.514(b)(1) or (b)(2) of Title 45 of the Code of Federal Regulations, commonly known as the HIPAA expert determination method and the HIPAA safe harbor method, respectively.
+
 How do we protect your information?
 
-The security, integrity, and confidentiality of your information are extremely important to us.  We have implemented technical, administrative and physical security measures that are designed to protect your information from unauthorized access, disclosure, use and modification.  We regularly review our security practices to consider appropriate new technology and methods.  We also periodically subject our Applications to simulated intrusion tests and have developed comprehensive disaster recovery plans. However, please be aware that despite our best efforts, no security measures are perfect or impenetrable.
+The security, integrity, and confidentiality of your information are extremely important to us. We have implemented technical, administrative and physical security measures that are designed to protect your information from unauthorized access, disclosure, use and modification. We regularly review our security practices to consider appropriate new technology and methods. We also periodically subject our Applications to simulated intrusion tests and have developed comprehensive disaster recovery plans. However, please be aware that despite our best efforts, no security measures are perfect or impenetrable.
 
 Behavioral advertising
 
