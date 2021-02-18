@@ -42,11 +42,11 @@ The Personal Information comes from you when you visit or use our services, Pers
 
 ### 2.2. Users of Users Personal Information
 
-We may also collect Personal Information pertaining to visitors and users of our User’s websites or services (“Users-of-Users”), solely for and on our Users’ behalf (as further described in [Section ‎6](https://www.wix.com/about/privacy/) below).
+We may also collect Personal Information pertaining to visitors and users of our User’s websites or services (“Users-of-Users”), solely for and on our Users’ behalf (as further described in [Section ‎6](https://www.wix.com/about/privacy) below).
 
 ### 2.3. Wix Jobs Applicant Information
 
-We also collect information that is provided to us by Wix jobs candidates (“Applicants”), when they apply to any of the open positions published at [[https://www.wix.com/jobs](https://www.wix.com/jobs)](https://www.wix.com/jobs), by e-mail or otherwise (as further described in [Section ‎15](https://www.wix.com/about/privacy/) below).
+We also collect information that is provided to us by Wix jobs candidates (“Applicants”), when they apply to any of the open positions published at [[https://www.wix.com/jobs](https://www.wix.com/jobs)](https://www.wix.com/jobs), by e-mail or otherwise (as further described in [Section ‎15](https://www.wix.com/about/privacy) below).
 
 3\. Why do We collect such Personal information
 -----------------------------------------------
@@ -59,7 +59,7 @@ We use your Personal Information for the following purposes:
     
 3.  To provide our Users with ongoing customer assistance and technical support;
     
-4.  To be able to contact our Users with general or personalized service-related notices and promotional messages (as further detailed in [Section 8](https://www.wix.com/about/privacy/) below);
+4.  To be able to contact our Users with general or personalized service-related notices and promotional messages (as further detailed in [Section 8](https://www.wix.com/about/privacy) below);
     
 5.  To help us to update, expand and analyze our records to identify new customers;
     
@@ -235,9 +235,9 @@ Wix cannot provide legal advice to Users or their Users-of-Users, however we do 
 
 ​
 
-For more information on how Users-of-Users Personal Information may be handled by Wix (which may be relevant for any specific notice you provide to and/or consent you obtain from your Users-of-Users), please see Sections [4](https://www.wix.com/about/privacy/), [12](https://www.wix.com/about/privacy/) and [13](https://www.wix.com/about/privacy/).
+For more information on how Users-of-Users Personal Information may be handled by Wix (which may be relevant for any specific notice you provide to and/or consent you obtain from your Users-of-Users), please see Sections [4](https://www.wix.com/about/privacy), [12](https://www.wix.com/about/privacy) and [13](https://www.wix.com/about/privacy).
 
-If you are a visitor, user or customer of any of our Users, please read the following: Wix has no direct relationship with Users-of-Users whose Personal Information it processes. If you are a visitor, user or customer of any of our Users, and would like to make any requests or queries regarding your Personal Information, please contact such User(s) directly. For example, if you wish to request to access, correct, amend, or delete inaccurate Personal Information processed by Wix on behalf of its Users, please direct your query to the relevant User (who is the “Controller” of such data). If Wix is requested by our Users to remove any Users-of-Users’ Personal Information, we will respond to such requests in a timely manner upon verification and in accordance with applicable law (for example, thirty (30) days under the GDPR). Unless otherwise instructed by our User, we will retain their Users-of-Users’ Personal Information for the period set forth in [Section 12](https://www.wix.com/about/privacy/) below.
+If you are a visitor, user or customer of any of our Users, please read the following: Wix has no direct relationship with Users-of-Users whose Personal Information it processes. If you are a visitor, user or customer of any of our Users, and would like to make any requests or queries regarding your Personal Information, please contact such User(s) directly. For example, if you wish to request to access, correct, amend, or delete inaccurate Personal Information processed by Wix on behalf of its Users, please direct your query to the relevant User (who is the “Controller” of such data). If Wix is requested by our Users to remove any Users-of-Users’ Personal Information, we will respond to such requests in a timely manner upon verification and in accordance with applicable law (for example, thirty (30) days under the GDPR). Unless otherwise instructed by our User, we will retain their Users-of-Users’ Personal Information for the period set forth in [Section 12](https://www.wix.com/about/privacy) below.
 
 #### #ItsThatEasy
 
