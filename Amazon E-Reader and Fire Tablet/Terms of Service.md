@@ -7,22 +7,22 @@ If you place an order for or register any Kindle e-reader device, any Fire table
 *   [Amazon.com Conditions of Use](https://www.amazon.com/gp/help/customer/display.html?nodeId=201909000)
 *   [Amazon.com Privacy Notice](https://www.amazon.com/gp/help/customer/display.html?nodeId=468496)
 *   [Amazon Device Terms of Use](https://www.amazon.com/deviceterms)
-*   [Amazon Drive and Prime Photos Terms of Use](https://www.amazon.com/gp/help/customer/display.html?nodeId=201376540)
+*   [Amazon Photos Terms of Use](https://www.amazon.com/gp/help/customer/display.html?nodeId=201376540)
 *   [Audible Conditions of Use](https://www.audible.com/conditions-of-use)
 *   [Kindle Personal Documents Distributor Terms of Use](https://www.amazon.com/gp/help/customer/display.html?nodeId=201124320)
 *   [Alexa Terms of Use](https://www.amazon.com/gp/help/customer/display.html?nodeId=201809740)
 
-If you purchase or use Amazon Prime, Amazon or Kindle FreeTime Unlimited, or Kindle Unlimited with your compatible Kindle e-reader, Fire tablet or reading application, then you agree to the following terms:
+If you purchase or use Amazon Prime, Amazon Kids or Amazon Kids+, or Kindle Unlimited with your compatible Kindle e-reader, Fire tablet or reading application, then you agree to the following terms:
 
 *   [Amazon Prime Terms & Conditions](https://www.amazon.com/gp/help/customer/display.html?nodeId=13819201)
-*   [Amazon FreeTime Unlimited Terms & Conditions and Kindle FreeTime Unlimited Terms & Conditions](https://www.amazon.com/gp/help/customer/display.html?nodeId=201222340)
+*   [Amazon Kids+ Terms & Conditions](https://www.amazon.com/gp/help/customer/display.html?nodeId=201222340)
 *   [Kindle Unlimited Terms of Use](https://www.amazon.com/gp/help/customer/display.html?nodeId=201556940)
 
 If you purchase a Kindle e-reader or Fire tablet using monthly payments, then you agree to the following terms:
 
 *   [Monthly Payments Terms and Conditions](https://www.amazon.com/gp/help/customer/display.html?nodeId=201643730)
 
-If you place an order for or register any Fire tablet with Special Offers device or the Amazon app suite, you also agree to the following additional terms:
+If you place an order for or register any ad-supported Fire tablet or the Amazon app suite, you also agree to the following additional terms:
 
 *   [Limited-Time Special Offers Promotional Discount Terms & Conditions](https://www.amazon.com/gp/help/customer/display.html?nodeId=201339330)
 *   [Special Offer Text Notifications Terms & Conditions](https://www.amazon.com/gp/help/customer/display.html?nodeId=201339340)
