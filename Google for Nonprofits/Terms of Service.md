@@ -1,46 +1,48 @@
 Google for Nonprofits Additional Terms of Service
 =================================================
 
-Last modified: 7 February 2020
+Last modified: 7 February 2021
 
- 
+To request an account with Google for Nonprofits or to use Google for Nonprofits programme features, you must accept (1) the [Google Terms of Service](https://policies.google.com/terms?), and (2) these Google for Nonprofits Additional Terms of Service (the 'Google for Nonprofits Additional Terms'). 
 
-To request a Google for Nonprofits account, you must accept (1) [the Google Terms of Service](https://policies.google.com/terms?hl=en-US), and (2) these Google for Nonprofits Additional Terms of Service (the '**Google for Nonprofits Additional Terms**') on behalf of yourself and your organisation. 
+Please read each of these documents carefully. Together, these documents are known as the 'Terms'. They establish what you can expect from us as you use your Google for Nonprofits  account and features, and what we expect from you.  
+If these Google for Nonprofits Additional Terms conflict with the Google Terms of Service, these Google for Nonprofits Additional Terms will govern for the Google for Nonprofits programme. 
 
- 
+Although it’s not a part of these Terms, we encourage you to read our [Privacy Policy](https://policies.google.com/privacy?) to better understand how you can update, manage, export and delete your information.
 
-Please read each of these documents carefully. Together, these documents are known as the '**Terms**'. They establish what you can expect from us as you use our services, and what we expect from you.
+### Age and relationship
 
- 
+You must be above the legal age of majority in your country (or above the age of 18, whichever is higher) to have a Google for Nonprofits account.
 
-If these Google for Nonprofits Additional Terms conflict with [the Google Terms of Service](https://policies.google.com/terms?hl=en-US), these Google for Nonprofits Additional Terms will govern for the Google for Nonprofits programme. 
+In addition, you must be an authorised representative who is able to bind others on behalf of the entity listed in your Google for Nonprofits account and nonprofit profile.
 
- 
+### Binding others and administrator privacy
 
-Although it’s not a part of these Terms, we encourage you to read [our Privacy Policy](https://policies.google.com/privacy?hl=en-US) to better understand how you can [update, manage, export and delete your information](http://account.google.com/).
+If your organisation’s Google for Nonprofits account request is approved, you will become the administrator for your organisation’s Google for Nonprofits account. If you later add or approve other users to be co-administrators of your organisation’s account, you must bind those users to these Terms before adding or approving them as co-administrators. Co-administrators will have the same rights as you to control your organisation’s account, including the ability to remove you as an administrator. By agreeing to add co-administrators to your organisation’s Google for Nonprofits account, you are consenting to co-administrators viewing your name and the details of your administrative actions, including removal of co-administrators, rejection of users applying to be co-administrators and your organisation’s requests for Google products offered through Google for Nonprofits.
 
- 
+### What we expect from you
 
-You represent that you are 18 years of age or older and capable of entering into a legally binding agreement. The Terms are effective as of the day that you click on the 'Submit' button.  If you don’t have the legal authority to bind your organisation, do not click the 'Submit' button.
+In addition to following the basic rules of conduct in the [Google Terms of Service](https://policies.google.com/terms), you must, when using your organisation’s Google for Nonprofits account and nonprofit profile, ensure that:
 
-1\. Activation and Terms for G4NP-offered products 
+*   The information submitted in your organisation’s Google for Nonprofits request is true and correct and the content in your organisation’s nonprofit profile is correct, up to date and complete
+*   Your organisation does not discriminate against any person or group of people in either hiring/employment practices or in the administration of programmes and services, including on the basis of sexual orientation or gender identity
+*   Your organisation’s use of Google for Nonprofits complies with its own policies and will not negatively impact Google's current or future ability to do business with your organisation
+*   You will not use Google for Nonprofits to (i) corruptly influence any government official to obtain or retain business or any improper advantage, (ii) gain or retain business, (iii) cause a government official to do or not do something in their official capacity or (iv) gain any other improper advantage. 
 
-1.1 The Terms govern you and your organisation’s application and use of the Google for Nonprofits platform and programme ('G4NP Programme'). Acceptance into the G4NP Programme does not necessarily enable you or your organisation to use the Google products offered through the G4NP Programme without taking additional steps to activate products, including agreeing to separate product-specific Terms of Service. 
+### Public use of your nonprofit profile
 
-2\. Your Warranties
+You agree that if you include content in your organisation’s nonprofit profile, the content that you provide may be used in other Google products and may be publicly displayed (such as in fundraising features on YouTube). 
 
-2.1 You represent and warrant that:
+While Google is not responsible for your nonprofit profile if you have provided information about your organisation in your nonprofit profile, you understand that we have the right, but not the obligation, to moderate that content. 
 
-2.1.1 The information submitted in your organisation’s Google for Nonprofits request is true and correct.
+### Other products/services
 
-2.1.2 Your organisation does not discriminate against any person or group of people in either hiring/employment practices or in the administration of programmes and services, including on the basis of sexual orientation or gender identity.
+The Terms govern your use of your organisation’s Google for Nonprofits account and features (such as nonprofit profiles). Google products offered through Google for Nonprofits may require additional steps to activate, including agreeing to separate product-specific Terms of Service. 
 
-2.1.3 Your organisation may use the G4NP Programme under its own policies and applicable laws and regulations, and your organisation’s use of the G4NP Programme will not negatively impact Google's current or future ability to do business with your organisation.
+### Google access
 
-2.1.4 You and your organisation will comply with all applicable laws, including all applicable export laws and trade sanctions programmes, and all anti-bribery or anti-corruption laws, in connection with its use of the G4NP Programme, and the G4NP Programme will not be used to (i) corruptly influence any government official to obtain or retain business or any improper advantage, (ii) gain or retain business, (iii) cause a government official to do or not do something in their official capacity or (iv) to gain any other improper advantage. 
+By participating in Google for Nonprofits or using its features, you authorise Google to access your organisation’s account, including your organisation’s nonprofit profile, to help you manage your organisation’s account and information provided about your organisation.
 
-3\. Designation of Account Administrator and Privacy
+### Questions or complaints
 
-3.1 If your organisation’s application is approved, you will become an administrator for your organisation’s G4NP Programme account. If you approve other users to be administrators of your organisation’s account, they will have the same rights as you to control your organisation’s account, including the ability to remove you as an administrator.
-
-3.2 You consent to other administrators for your organisation’s account seeing your name and the details of your administrative actions, including, removal of administrators, rejection of users applying to be administrators and applications for Google for Nonprofits products.
+If you have any questions or complaints regarding the Google for Nonprofits programme, your organisation’s account or nonprofit profile, please visit our [Help Centre](https://support.google.com/nonprofits/?hl=en#topic=3247288) and if your questions are not answered there, you can get in touch using the  'contact us' form accessible in the Help Centre.
