@@ -400,7 +400,7 @@ Where we use any third parties to assist us in service delivery for you (the Cre
 6\. Cookies
 -----------
 
-New Cookie Management Tool now available in some regions – click on Cookie Preferences in the footer of our Sites to manage your cookie preferences at any time! You can also [manage cookies within your browser](https://help.surveymonkey.com/articles/en_US/kb/How-do-I-enable-cookies-on-my-computer).
+New Cookie Management Tool coming soon! This will make it easier for you to manage your preferences regarding cookies and similar technologies on our sites. In the meantime, you are able to [manage cookies within your browser.](https://help.surveymonkey.com/articles/en_US/kb/How-do-I-enable-cookies-on-my-computer)
 
 We and our partners use cookies and similar technologies on our websites. For more information see our [Cookies Notice](https://www.surveymonkey.com/mp/legal/cookies/?ut_source=legal&ut_source2=privacy&ut_source3=inline). For information about cookies used in our surveys please see [Cookies used on Survey Pages](https://www.surveymonkey.com/mp/legal/survey-page-cookies/). If you are a customer of SurveyMonkey and separately use cookies or similar technologies in conjunction with any of our products and services, then you yourself will be responsible for complying with any laws related to the use of those technologies and this Privacy Notice is not applicable to that use by you.
 
