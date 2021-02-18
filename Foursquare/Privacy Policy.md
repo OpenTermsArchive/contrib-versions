@@ -243,6 +243,6 @@ If you are in the European Union and would like to make such an inquiry, please 
 
 If you are in the United Kingdom and would like to make an inquiry, please contact Verasafe:
 
-*   online: https://verasafe.com/public-resources/contactdata-protection-representative;
+*   online: https://verasafe.com/public-resources/contact-data-protection-representative;
 *   tel: +44 (20) 4532 2003;
 *   by mail: VeraSafe United Kingdom Ltd. 37 Albert Embankment London SE1 7TL United Kingdom
