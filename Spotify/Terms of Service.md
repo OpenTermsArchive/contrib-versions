@@ -4,7 +4,7 @@
 Effective as of 2019-02-07
 
 1 [Introduction](#1-introduction)  
-2 [Changes to the Agreements](#s2)  
+2 [Changes to the Agreements](#2-changes-to-the-agreements)  
 3 [Enjoying Spotify](#2-changes-to-the-agreements)  
 4 [Payments and cancellations](#4-payments-and-cancellations)  
 5 [Using our service](#5-using-our-service)  
