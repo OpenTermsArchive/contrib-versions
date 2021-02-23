@@ -239,9 +239,4 @@ The open source software platform that runs everywhere from the smartphone, the 
 *   [Manage your tracker settings](https://ubuntu.com/legal/terms)
 *   [Report a bug on this site](https://github.com/canonical-websites/www.ubuntu.com/issues/new)
 
-*   [](https://twitter.com/ubuntu "Follow Ubuntu on Twitter")
-*   [](https://www.facebook.com/ubuntulinux/ "Follow Ubuntu on Facebook")
-*   [](https://www.linkedin.com/company/234280 "Find Canonical on LinkedIn")
-*   [](https://ubuntu.com/blog/feed "Use the Ubuntu Blog rss feed")
-
 [Go to the top of the page](#)
