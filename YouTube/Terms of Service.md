@@ -1,10 +1,13 @@
+Terms of Service
+================
+
 **Our Terms of Service have been updated.**
 ===========================================
 
 This summary is designed to help you understand some of the key updates we’ve made to our Terms of Service (Terms). We hope this serves as a useful guide, but please ensure you read the new Terms in full.
 
-[**Welcome to YouTube!**](#01ecb9629a)
---------------------------------------
+**Welcome to YouTube!**
+-----------------------
 
 This section outlines our relationship with you. It includes a description of the Service, defines our Agreement, and names your service provider. Key updates:
 
@@ -12,8 +15,8 @@ This section outlines our relationship with you. It includes a description of th
 *   **Policies.** We have added a link to the [Policy](https://support.google.com/youtube/topic/9223153)[, Safety and Copyright Policies](https://support.google.com/youtube/topic/9223153), and our [Advertising on YouTube Policies](https://support.google.com/youtube/topic/30084), which all form part of the Agreement. These are the policies that underpin our [Community Guidelines](https://www.youtube.com/t/community_guidelines), and we wanted to make sure to call out this detail to you upfront in our Terms.
 *   **Affiliates.** To ensure you understand exactly who we mean when we talk about our group companies, we’ve included a definition of our “Affiliates”, meaning the companies in the Alphabet corporate group.
 
-[**Who May Use the Service?**](#2fda3bcdb3)
--------------------------------------------
+**Who May Use the Service?**
+----------------------------
 
 This section sets out certain requirements for use of the Service, and defines categories of users. Key updates:
 
@@ -21,8 +24,8 @@ This section sets out certain requirements for use of the Service, and defines c
 *   **Parental Permission.** We’ve added a section to explain your responsibility if you allow your child to use YouTube.
 *   **Businesses.** Our Terms now make clear that, if you are using the Service on behalf of a company or organisation, that business accepts this Agreement.
 
-[**Your Use of the Service**](#2e119213fc)
-------------------------------------------
+**Your Use of the Service**
+---------------------------
 
 This section explains your rights to use the Service, and the conditions that apply to your use of the Service. It also explains how we may make changes to the Service. Key updates:
 
@@ -31,8 +34,8 @@ This section explains your rights to use the Service, and the conditions that ap
 *   **Restrictions**. We have updated this section to reflect our requirements around contests, and to include a prohibition on manipulating metrics.  
 *   **Service Changes.** We have improved our Terms to be more transparent about why we might need to make changes to the Service, and provided a commitment to give you notice when those changes might affect you.
 
-[**Your Content and Conduct**](#4562d95e51)
--------------------------------------------
+**Your Content and Conduct**
+----------------------------
 
 This section applies to users who provide Content to the Service. It defines the scope of the permissions that you grant by uploading your Content, and includes your agreement not to upload anything that infringes on anyone else’s rights. Key updates:
 
@@ -41,29 +44,29 @@ This section applies to users who provide Content to the Service. It defines the
 *   **Removals.** We have included a [link](https://support.google.com/youtube/answer/55770) to the tools you will need to remove your content, as well as a clear description about why we might need to take down content, and how to [appeal removals](https://support.google.com/youtube/answer/6395024). 
 *   **Analyzing Content.** We may automatically analyze content on YouTube, to help detect abuse and keep the platform safe.
 
-[**Account Suspension and Termination**](#211b240859)
------------------------------------------------------
+**Account Suspension and Termination**
+--------------------------------------
 
 This section explains how you and YouTube may terminate this relationship. Key updates:
 
 *   **Terminations.** Our Terms now include more details about when we might need to terminate our Agreement with bad actors. We provide a greater commitment to give notice when we take such action and what you can do to [appeal](https://support.google.com/accounts/contact/suspended?p=youtube) if you think we’ve got it wrong. We’ve also added [instructions](https://myaccount.google.com/delete-services-or-account) for you, if you decide you no longer want to use the Service.
 
-[**About Software in the Service**](#59588e5094)
-------------------------------------------------
+**About Software in the Service**
+---------------------------------
 
 This section includes details about software on the Service. Key updates:
 
 *   **Software Licences.** We’ve made the software licence we grant you more specific, and included some details around open source.
 
-[**Other Legal Terms**](#abd83303f9)
-------------------------------------
+**Other Legal Terms**
+---------------------
 
 This section includes our service commitment to you. It also explains that there are some things we will not be responsible for. Key updates:
 
 *   **Our liability.** We’ve made changes to the disclaimers and limitations of liability in the Terms.
 
-[**About this Agreement**](#4828f45dfd)
----------------------------------------
+**About this Agreement**
+------------------------
 
 This section includes some further important details about our contract, including what to expect if we need to make changes to these Terms; or which law applies to them. Key updates:
 
