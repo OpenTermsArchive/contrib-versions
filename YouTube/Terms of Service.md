@@ -1,73 +1,38 @@
 Terms of Service
 ================
 
-**Our Terms of Service have been updated.**
-===========================================
-
 **What’s in these terms?**
 ==========================
 
-**Welcome to YouTube!**
------------------------
-
-This section outlines our relationship with you. It includes a description of the Service, defines our Agreement, and names your service provider. Key updates:
-
-*   **Service Provider****.** Your service provider is now Google LLC.
-*   **Policies.** We have added a link to the [Policy](https://support.google.com/youtube/topic/9223153)[, Safety and Copyright Policies](https://support.google.com/youtube/topic/9223153), and our [Advertising on YouTube Policies](https://support.google.com/youtube/topic/30084), which all form part of the Agreement. These are the policies that underpin our [Community Guidelines](https://www.youtube.com/t/community_guidelines), and we wanted to make sure to call out this detail to you upfront in our Terms.
-*   **Affiliates.** To ensure you understand exactly who we mean when we talk about our group companies, we’ve included a definition of our “Affiliates”, meaning the companies in the Alphabet corporate group.
-
-**Who May Use the Service?**
-----------------------------
-
-This section sets out certain requirements for use of the Service, and defines categories of users. Key updates:
-
-*   **Age Requirements.** We have stated the specific age requirements for your country, reflecting our [Google wide policies](https://support.google.com/accounts/answer/1350409), and included a notice that, if you are a minor in your country, you must always have your parent or guardian’s permission before using the Service.
-*   **Parental Permission.** We’ve added a section to explain your responsibility if you allow your child to use YouTube.
-*   **Businesses.** Our Terms now make clear that, if you are using the Service on behalf of a company or organisation, that business accepts this Agreement.
-
-**Your Use of the Service**
----------------------------
-
-This section explains your rights to use the Service, and the conditions that apply to your use of the Service. It also explains how we may make changes to the Service. Key updates:
-
-*   **Google Accounts and YouTube Channels****.** We’ve provided details about which features of the Service can be accessed without a [Google account](https://support.google.com/youtube/answer/69961) or [YouTube channel](https://support.google.com/youtube/answer/1646861), and which features require one.
-*   **Your Information.** We haven’t made any changes to the way we treat your information. You can read about our privacy practices by reviewing the [Privacy Policy](https://www.youtube.com/t/privacy) and [YouTube Kids Privacy](https://kids.youtube.com/t/privacynotice) [](https://kids.youtube.com/t/privacynotice) [Notice](https://kids.youtube.com/t/privacynotice). As a reminder, you can always review your privacy settings and manage your data and personalisation by visiting your [Google Account](https://myaccount.google.com/).
-*   **Restrictions**. We have updated this section to reflect our requirements around contests, and to include a prohibition on manipulating metrics.  
-*   **Service Changes.** We have improved our Terms to be more transparent about why we might need to make changes to the Service, and provided a commitment to give you notice when those changes might affect you.
-
-**Your Content and Conduct**
-----------------------------
+This index is designed to help you understand some of the key updates we’ve made to our Terms of Service (Terms). We hope this serves as a useful guide, but please ensure you read the Terms in full.
 
 **Welcome to YouTube!**
 -----------------------
 
 This section outlines our relationship with you. It includes a description of the Service, defines our Agreement, and names your service provider.
 
-**Account Suspension and Termination**
---------------------------------------
+**Who May Use the Service?**
+----------------------------
 
 This section sets out certain requirements for use of the Service, and defines categories of users.
 
-*   **Terminations.** Our Terms now include more details about when we might need to terminate our Agreement with bad actors. We provide a greater commitment to give notice when we take such action and what you can do to [appeal](https://support.google.com/accounts/contact/suspended?p=youtube) if you think we’ve got it wrong. We’ve also added [instructions](https://myaccount.google.com/delete-services-or-account) for you, if you decide you no longer want to use the Service.
-
-**About Software in the Service**
----------------------------------
+**Your Use of the Service**
+---------------------------
 
 This section explains your rights to use the Service, and the conditions that apply to your use of the Service. It also explains how we may make changes to the Service.
 
 **Your Content and Conduct**
 ----------------------------
 
-**Other Legal Terms**
----------------------
+This section applies to users who provide Content to the Service. It defines the scope of the permissions that you grant by uploading your Content, and includes your agreement not to upload anything that infringes on anyone else’s rights. 
 
 **Account Suspension and Termination**
 --------------------------------------
 
 This section explains how you and YouTube may terminate this relationship.
 
-**About this Agreement**
-------------------------
+**About Software in the Service**
+---------------------------------
 
 This section includes details about software on the Service.
 
