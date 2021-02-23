@@ -173,8 +173,6 @@ This clause 4 means, for example (without limitation), that we can:
 
 If you see something which you reasonably believe breaches these Terms or our [House Rules](https://www.dailymail.co.uk/houserules), please use the Report Abuse facility. If there is no facility available, please contact us on [community@dailymailonline.co.uk.](mailto:community@dailymailonline.co.uk)
 
-[](mailto:community@dailymailonline.co.uk)
-
 8\. Your personal information
 -----------------------------
 
