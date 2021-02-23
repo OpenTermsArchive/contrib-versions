@@ -107,6 +107,7 @@ The open source software platform that runs everywhere from the smartphone, the 
     
     *   [What is Ceph](https://ubuntu.com/ceph/what-is-ceph)
     *   [Docs](https://ubuntu.com/ceph/docs)
+    *   [Install](https://ubuntu.com/ceph/install)
 *   [Managed](https://ubuntu.com/managed)
     -------------------------------------
     
@@ -122,13 +123,12 @@ The open source software platform that runs everywhere from the smartphone, the 
     *   [Compare](https://ubuntu.com/kubernetes/compare)
     *   [Install](https://ubuntu.com/kubernetes/install)
     *   [Docs](https://ubuntu.com/kubernetes/docs)
-*   [Kubeflow](https://ubuntu.com/kubeflow)
-    ---------------------------------------
+*   [AI / ML](https://ubuntu.com/ai)
+    --------------------------------
     
-    *   [What is Kubeflow](https://ubuntu.com/kubeflow/what-is-kubeflow)
-    *   [Features](https://ubuntu.com/kubeflow/features)
-    *   [Install](https://ubuntu.com/kubeflow/install)
-    *   [Consulting](https://ubuntu.com/kubeflow/consulting)
+    *   [What is Kubeflow](https://ubuntu.com/ai/what-is-kubeflow)
+    *   [Install Kubeflow](https://ubuntu.com/ai/install-kubeflow)
+    *   [Services](https://ubuntu.com/ai/services)
 
 *   [IoT](https://ubuntu.com/internet-of-things)
     --------------------------------------------
