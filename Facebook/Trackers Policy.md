@@ -1,149 +1,149 @@
-Cookies & other storage technologies
-------------------------------------
+Cookies et autres technologies de stockage
+------------------------------------------
 
-Cookies are small pieces of text used to store information on web browsers. Cookies are used to store and receive identifiers and other information on computers, phones and other devices. Other technologies, including data that we store on your web browser or device, identifiers associated with your device and other software, are used for similar purposes. In this policy, we refer to all of these technologies as "cookies".  
+Les cookies sont de petits éléments de texte qui servent à stocker des informations sur les navigateurs web. Les cookies sont notamment utilisés pour stocker et recevoir des identifiants et d’autres informations sur des appareils comme les ordinateurs ou les téléphones. D’autres technologies, dont les données que nous stockons sur votre navigateur web ou sur votre appareil, les identifiants associés à votre appareil et d’autres logiciels, sont utilisées dans des buts similaires. Dans la présente politique, nous désignons toutes ces technologies par le terme « cookies ».  
   
-We use cookies if you have a Facebook account, use the [Facebook Products](https://www.facebook.com/help/1561485474074139), including our website and apps, or visit other websites and apps that use the Facebook Products (including the Like button or other Facebook Technologies). Cookies enable Facebook to offer the Facebook Products to you and to understand the information that we receive about you, including information about your use of other websites and apps, whether or not you are registered or logged in.  
+Nous utilisons des cookies si vous avez un compte Facebook, si vous utilisez les [Produits Facebook](https://www.facebook.com/help/1561485474074139), y compris notre site web et nos applications, ou si vous consultez d’autres sites web et applications qui ont recours aux Produits Facebook (notamment le bouton J’aime et d’autres Technologies Facebook). Les cookies permettent à Facebook de vous proposer les Produits Facebook et de comprendre les informations reçues de votre part, notamment les informations concernant votre utilisation des autres sites web et applications, que vous soyez inscrit(e) ou connecté(e) ou non.  
   
-This policy explains how we use cookies and the choices you have. Except as otherwise stated in this policy, the [Data Policy](https://www.facebook.com/about/privacy/update) will apply to our processing of the data that we collect via cookies.
+Cette politique explique comment nous utilisons les cookies et présente les choix dont vous disposez à cet égard. Sauf indication contraire dans la présente politique, la [Politique d’utilisation des données](https://www.facebook.com/about/privacy/update) s’appliquera à nos traitements des données que nous collectons au moyen des cookies.
 
-### Why do we use cookies?
+### Pourquoi utilisons-nous des cookies ?
 
-Cookies help us provide, protect and improve the Facebook Products, such as by personalising content, tailoring and measuring ads, and providing a safer experience. The cookies that we use include session cookies, which are deleted when you close your browser, and persistent cookies, which stay in your browser until they expire or you delete them. While the cookies that we use may change from time to time as we improve and update the Facebook Products, we use them for the following purposes:
+Les cookies nous aident à proposer, à protéger et à améliorer les Produits Facebook (par exemple, en personnalisant le contenu), ainsi qu’à adapter et à mesurer les publicités, et à offrir une expérience plus sûre. Les cookies que nous utilisons comprennent des cookies de session, qui sont supprimés lorsque vous fermez votre navigateur, et des cookies permanents, qui restent sur votre navigateur jusqu’à ce qu’ils expirent ou que vous les supprimiez. Bien que les cookies que nous utilisons puissent changer au fil des améliorations et des mises à jour des Produits Facebook, nous les utilisons aux fins suivantes :
 
-Authentication
+Authentification
 
-We use cookies to verify your account and determine when you're logged in so that we can make it easier for you to access the Facebook Products and show you the appropriate experience and features.
+Nous utilisons des cookies pour vérifier votre compte et pour déterminer les moments où vous êtes connecté(e), de façon à faciliter votre accès aux Produits Facebook et à vous proposer une expérience et des fonctionnalités adaptées à votre utilisation.
 
-> _For example:_ We use cookies to keep you logged in as you navigate between Facebook Pages. Cookies also help us remember your browser so you don't have to keep logging in to Facebook and so you can more easily log in to Facebook via third-party apps and websites. For example, we use the "c\_user" and "xs" cookies for this purpose, with a lifespan of 365 days.
+> _Par exemple :_ Nous utilisons des cookies pour que vous restiez connecté(e) lorsque vous naviguez d’une Page Facebook à l’autre. Ils nous aident aussi à enregistrer votre navigateur web pour que vous n’ayez pas à vous reconnecter à Facebook à chaque fois et pour que vous puissiez plus facilement vous connecter à Facebook par le biais d’applications et de sites web tiers. Par exemple, nous utilisons les cookies « c\_user » and « xs » à cette fin, dont la durée de vie est de 365 jours.
 
-Security, site and product integrity
+Sécurité du site et intégrité des produits
 
-We use cookies to help us keep your account, data and the Facebook Products safe and secure.
+Nous utilisons des cookies pour garantir la sécurité de votre compte, de vos données et des Produits Facebook.
 
-> _For example:_ Cookies can help us identify and impose additional security measures when someone may be attempting to access a Facebook account without authorisation, for instance, by rapidly guessing different passwords. We also use cookies to store information that allows us to recover your account in the event that you forget your password or to require additional authentication if you tell us that your account has been hacked. This includes, for example, our "sb" and "dbln" cookies, which enable us to identify your browser securely.
+> _Par exemple :_ Les cookies peuvent nous aider à déterminer si quelqu’un tente d’accéder à un compte Facebook sans autorisation (par exemple, en devinant rapidement différents mots de passe) et à imposer des mesures de sécurité supplémentaires. Nous utilisons également des cookies pour stocker des informations qui nous permettent de récupérer votre compte si vous oubliez votre mot de passe, ou de demander une authentification supplémentaire si vous nous prévenez que votre compte a été piraté. Cela inclut, par exemple, nos cookies « sb » et « dbin », qui nous permettent d’identifier votre navigateur en toute sécurité.
 
-We also use cookies to combat activity that violates our policies or otherwise degrades our ability to provide the Facebook Products.
+Les cookies nous permettent également de lutter contre les activités qui enfreignent nos politiques ou qui dégradent notre capacité à fournir les Produits Facebook.
 
-> _For example:_ Cookies help us fight spam and phishing attacks by enabling us to identify computers that are used to create large numbers of fake Facebook accounts. We also use cookies to detect computers infected with malware and to take steps to prevent them from causing further harm. Our "csrf" cookie, for example, helps us prevent cross-site request forgery attacks. Cookies also help us prevent underage people from registering for Facebook accounts.
+> _Par exemple :_ Les cookies nous aident à lutter contre les spams et les tentatives d’hameçonnage, en nous permettant d’identifier des ordinateurs utilisés pour créer un nombre important de faux comptes Facebook. Nous utilisons également des cookies pour détecter les ordinateurs infectés par des logiciels malveillants et les empêcher de causer davantage de dégâts. Notre cookie « csrf », par exemple, nous aide à empêcher des attaques de type « Cross-site request forgery ». Les cookies nous aident également à empêcher la création de comptes Facebook par des personnes non autorisées à s’inscrire en raison de leur âge.
 
-Advertising, recommendations, insights and measurement
+Publicités, recommandations, statistiques et mesures
 
-We use cookies to help us show ads and to make recommendations for businesses and other organisations to people who may be interested in the products, services or causes they promote.
+Nous utilisons des cookies afin de proposer des publicités et de faire des recommandations pour des entreprises et d’autres organisations à des gens qui pourraient être intéressés par leurs produits, leurs services ou les causes qu’elles soutiennent.
 
-> _For example:_ Cookies allow us to help deliver ads to people who have previously visited a business's website, purchased its products or used its apps and to recommend products and services based on that activity. Cookies also allow us to limit the number of times that you see an ad so you don't see the same ad over and over again. For example, the "fr" cookie is used to deliver, measure and improve the relevancy of ads, with a lifespan of 90 days.
+> _Par exemple :_ Les cookies nous permettent de présenter des publicités à des personnes qui ont déjà consulté le site web d’une entreprise ou acheté ses produits ou utilisé ses applications, et pour recommander des produits et des services sur la base de cette activité. Les cookies nous permettent de limiter le nombre de fois que vous voyez une publicité, pour que la même publicité ne s’affiche pas encore et encore. Par exemple, le cookie « fr » est utilisé pour fournir, mesurer et améliorer la pertinence des publicités, et sa durée de vie est de 90 jours.
 
-We also use cookies to help measure the performance of ad campaigns for businesses that use the Facebook Products.
+Ils nous aident également à mesurer l’efficacité des campagnes publicitaires diffusées par des entreprises qui utilisent les Produits Facebook.
 
-> _For example:_ We use cookies to count the number of times that an ad is shown and to calculate the cost of those ads. We also use cookies to measure how often people do things, such as make a purchase following an ad impression. The "\_fbp" cookie identifies browsers for the purposes of providing advertising and site analytics services and has a lifespan of 90 days. .
+> _Par exemple :_ Nous utilisons des cookies pour compter le nombre de fois où une publicité est diffusée et pour calculer le coût de ces publicités. Nous utilisons également des cookies pour mesurer la fréquence à laquelle les personnes agissent, comme le fait de faire un achat après avoir vu une publicité. Le cookie « \_fbp » identifie les navigateurs pour offrir des services publicitaires et d’analyse de sites, et a une durée de vie de 90 jours. .
 
-Cookies help us serve and measure ads across different browsers and devices used by the same person.
+Les cookies nous aident à diffuser et à mesurer des publicités sur différents navigateurs et appareils utilisés par une même personne.
 
-> _For example:_ We can use cookies to prevent you from seeing the same ad over and over again across the different devices that you use.
+> _Par exemple :_ Nous pouvons utiliser des cookies pour que la même publicité ne s’affiche pas encore et encore sur les différents appareils dont vous vous servez.
 
-Cookies also allow us to provide insights about the people who use the Facebook Products, as well as the people who interact with the ads, websites and apps of our advertisers and the businesses that use the Facebook Products.
+Ils nous permettent également de proposer des statistiques sur les personnes qui utilisent les Produits Facebook et les personnes qui interagissent avec les publicités, les sites web et les applications de nos annonceurs et des entreprises qui utilisent les Produits Facebook.
 
-> _For example:_ We use cookies to help businesses understand the kinds of people who like their Facebook Page or use their apps so that they can provide more relevant content and develop features that are likely to be interesting to their customers.
+> _Par exemple :_ Grâce aux cookies, nous aidons les entreprises à comprendre qui sont les personnes qui aiment leur Page Facebook ou qui utilisent leurs applications, afin qu’elles puissent proposer un contenu plus pertinent et développer des fonctionnalités susceptibles d’intéresser leurs clients.
 
-We also use cookies, such as our "oo" cookie, which has a lifespan of five years, to help you opt out of seeing ads from Facebook based on your activity on third-party websites. [Learn more](https://www.facebook.com/help/769828729705201?ref=cookies) about the information we receive, how we decide which ads to show you on and off the Facebook Products and the controls that are available to you.
+Nous utilisons aussi des cookies, comme notre cookie « oo » dont la durée de vie est de cinq ans, pour vous permettre de ne plus voir certaines publicités sur Facebook en fonction de vos activités sur les sites web tiers. [Découvrez](https://www.facebook.com/help/769828729705201?ref=cookies) quelles informations nous recevons, comment nous choisissons les publicités que nous vous proposons sur les Produits Facebook et en dehors, et les possibilités de contrôle qui s’offrent à vous.
 
-Site features and services
+Fonctionnalités et services du site
 
-We use cookies to enable the functionality that helps us provide the Facebook Products.
+Nous utilisons des cookies pour mettre en place des fonctionnalités qui nous aident à proposer les Produits Facebook.
 
-> _For example:_ Cookies help us store preferences, know when you've seen or interacted with Facebook Products' content and provide you with customised content and experiences. For instance, cookies allow us to make suggestions to you and others, and to customise content on third-party sites that integrate our social plugins. If you are a Page administrator, cookies allow you to switch between posting from your personal Facebook account and the Page. We use cookies such as the session-based "presence" cookie to support your use of Messenger chat windows.
+> _Par exemple :_ Les cookies nous aident à enregistrer les préférences, à savoir quand vous avez vu ou interagi avec le contenu des Produits Facebook, et à vous proposer un contenu et des expériences personnalisés. Par exemple, les cookies nous permettent de faire des suggestions, à vous et aux autres personnes, mais aussi de personnaliser le contenu des sites tiers dans lesquels nos modules sociaux sont intégrés. Si vous êtes administrateur d’une Page, les cookies vous permettent de passer d’une publication sur votre compte Facebook personnel à une publication sur cette Page. Nous utilisons des cookies comme le cookie de présence temporaire pour supporter votre utilisation des fenêtres de discussion Messenger.
 
-We also use cookies to help provide you with content relevant to your locale.
+Nous utilisons également des cookies pour vous proposer un contenu qui correspond à vos paramètres régionaux.
 
-> _For example:_ We store information in a cookie that is placed on your browser or device so that you will see the site in your preferred language.
+> _Par exemple :_ Nous stockons des données dans un cookie placé sur votre navigateur ou votre appareil, afin que le site s’affiche dans votre langue de préférence.
 
 Performance
 
-We use cookies to provide you with the best experience possible.
+Les cookies nous servent à rendre votre utilisation du site aussi agréable que possible.
 
-> _For example:_ Cookies help us route traffic between servers and understand how quickly Facebook Products load for different people. Cookies also help us record the ratio and dimensions of your screen and windows and know whether you've enabled high-contrast mode, so that we can render our sites and apps correctly. For example, we set the "dpr" and "wd" cookies, each with a lifespan of 7 days, to deliver an optimal experience for your device's screen.
+> _Par exemple :_ Les cookies nous aident à acheminer le trafic entre les serveurs et à comprendre la vitesse de chargement des Produits Facebook pour différentes personnes. Les cookies nous aident aussi à enregistrer le format et les dimensions de votre écran et de vos fenêtres et à savoir lorsque vous activez le mode de contraste élevé, de façon à afficher correctement notre site et nos applications. Par exemple, nous installons les cookies « dpr » et « wd », ayant chacun une durée de vie de 7 jours, pour fournir une expérience optimale sur l’écran de votre appareil.
 
-Analytics and research
+Analyse et recherche
 
-We use cookies to better understand how people use the Facebook Products so that we can improve them.
+Nous utilisons des cookies pour mieux comprendre comment les gens se servent des Produits Facebook, afin de pouvoir les améliorer.
 
-> _For example:_ Cookies can help us understand how people use the Facebook service, analyse which parts of the Facebook Products people find most useful and engaging, and identify features that could be improved.
+> _Par exemple :_ Les cookies nous aident à comprendre comment les gens se servent du Service Facebook, à analyser quelles parties des Produits Facebook ils trouvent les plus utiles et intéressantes, et à identifier les fonctionnalités qui pourraient être améliorées.
 
-Google Analytics
+Google Analytics
 
-We also set cookies from the Facebook.com domain that work with the Google Analytics service to help us understand how businesses use Facebook's developer sites. These cookies have names such as \_\_utma, \_\_utmb, \_\_utmc, \_\_utmz, \_\_qca and \_ga.
+Nous plaçons également des cookies depuis le domaine Facebook.com qui fonctionnent avec le service Google Analytics, afin de comprendre comment les entreprises utilisent les sites de développeurs de Facebook. Ces cookies ont des noms tels que \_\_utma, \_\_utmb, \_\_utmc, \_\_utmz, \_\_qca, and \_ga.
 
-Third-party websites and apps
+Sites web et applications externes
 
-Our business partners may also choose to share information with Facebook from cookies set in their own websites' domains, whether or not you have a Facebook account or are logged in. Specifically, cookies named \_fbc or \_fbp may be set on the domain of the Facebook business partner whose site you're visiting. Unlike cookies that are set on Facebook's own domains, these cookies aren't accessible by Facebook when you're on a site other than the one on which they were set, including when you are on one of our domains. They serve the same purposes as cookies set in Facebook's own domain, which are to personalise content (including ads), measure ads, produce analytics and provide a safer experience, as set out in this Cookies Policy.
+Nos partenaires commerciaux peuvent également choisir de partager leurs informations avec Facebook à l’aide de cookies placés sur les domaines de leurs propres site web, que vous ayez ou non un compte Facebook ou que vous soyez connecté(e) ou non. Plus précisément, des cookies nommés \_fbc ou \_fbp peuvent être placés sur le domaine du partenaire commercial de Facebook dont vous consultez le site. Contrairement aux cookies installés sur les domaines appartenant à Facebook, Facebook ne peut pas accéder à ces cookies lorsque vous êtes sur un autre site que celui sur lequel ils sont installés, y compris lorsque vous vous trouvez sur l’un de nos domaines. Ils ont les mêmes fonctions que les cookies placés sur les domaines de Facebook, c’est-à-dire de personnaliser le contenu (y compris les publicités), d’adapter et de mesurer les publicités, de produire des données d’analyse et de proposer une expérience plus sécurisée, comme indiqué en détail dans cette Politique d’utilisation des cookies.
 
-### Where do we use cookies?
+### Quand utilisons-nous des cookies ?
 
-We may place cookies on your computer or device and receive information stored in cookies when you use or visit:  
+Nous pouvons placer des cookies sur votre ordinateur ou votre appareil et recevoir les informations stockées dans des cookies lorsque vous utilisez ou consultez :  
   
 
-*   The [Facebook Products](https://www.facebook.com/help/1561485474074139?ref=cookies);
+*   les [Produits Facebook](https://www.facebook.com/help/1561485474074139?ref=cookies) ;
     
-*   Products provided by other members of the [Facebook Companies](https://www.facebook.com/help/111814505650678?ref=cookies); and
+*   les produits proposés par d’autres membres des [Entités Facebook](https://www.facebook.com/help/111814505650678?ref=cookies) ; et
     
-*   Websites and apps provided by other companies that use the Facebook Products, including companies that incorporate the Facebook Technologies into their websites and apps. Facebook uses cookies and receives information when you visit those sites and apps, including device information and information about your activity, without any further action from you. This occurs whether or not you have a Facebook account or are logged in.
+*   des sites web et des applications proposés par d’autres entreprises qui utilisent les Produits Facebook, notamment des entreprises qui intègrent les Technologies Facebook à leurs sites web et à leurs applications. Facebook utilise des cookies et reçoit des informations lorsque vous consultez ces sites et ces applications, notamment des informations sur les appareils et des informations à propos de votre activité, sans autre action de votre part. Cela se produit que vous ayez ou non un compte Facebook et que vous soyez ou non connecté(e).
     
 
-### Do other parties use cookies in connection with the Facebook Products?
+### D’autres entités utilisent-elles des cookies en lien avec les Produits Facebook ?
 
-Yes, other parties may use cookies on the Facebook Products to provide services to us and the businesses that advertise on Facebook.  
+Oui, d’autres entités sont susceptibles d’utiliser des cookies sur les Produits Facebook pour nous fournir des services, à nous ainsi qu’aux entreprises qui font de la publicité sur Facebook.  
   
-For example, our measurement partners use cookies on the Facebook Products to help advertisers understand the effectiveness of their Facebook advertising campaigns and to compare the performance of those campaigns against ads displayed on other websites and apps. Learn more about the companies that use cookies on the Facebook Products.  
+Par exemple, nos partenaires de mesure utilisent des cookies sur les Produits Facebook pour aider les annonceurs à comprendre l’efficacité de leurs campagnes publicitaires Facebook et pour comparer les performances de ces campagnes à celles de publicités diffusées sur d’autres sites web ou d’autres applications. Découvrez quelles entreprises utilisent des cookies sur les Produits Facebook.  
   
-Third parties also use cookies on their own sites and apps in connection with the Facebook Products. To understand how other parties use cookies, please review their policies.
+Des tiers peuvent également utiliser des cookies sur leurs propres sites et applications en lien avec les Produits Facebook. Pour comprendre comment ces tiers utilisent les cookies, veuillez consulter leurs politiques.
 
-### How can you control Facebook's use of cookies?
+### Comment pouvez-vous contrôler l’utilisation des cookies par Facebook ?
 
-We use cookies to help personalise and improve content and services, provide a safer experience and to show you useful and relevant ads on and off Facebook. You can control how we use data to show you ads and more by using the tools described below.
+Nous utilisons des cookies pour vous aider à personnaliser et améliorer le contenu et les services, fournir une expérience plus sécurisée et vous montrer des publicités utiles et pertinentes sur Facebook et ailleurs. Vous pouvez contrôler la façon dont nous exploitons les données pour vous proposer des publicités et plus, grâce aux outils décrits ci-dessous.
 
-If you have a Facebook account:
+Si vous avez un compte Facebook :
 
-*   You can use your [ad preferences](https://www.facebook.com/ads/preferences/edit/) to learn why you're seeing a particular ad and control how we use information that we collect to show you ads.
+*   Vous pouvez utiliser vos [préférences publicitaires](https://www.facebook.com/ads/preferences/edit/) afin de savoir pourquoi vous voyez une publicité en particulier et de contrôler la façon dont nous utilisons les informations que nous recueillons pour vous proposer des publicités.
     
-*   To show you better ads, we use data that advertisers and other partners provide us about your activity off Facebook Company Products, including websites and apps. You can control whether we use this data to show you ads in your [ad settings](https://www.facebook.com/ads/settings).
+*   Afin de vous montrer des publicités plus pertinentes, nous utilisons les données que les annonceurs et d’autres partenaires nous fournissent à propos de votre activité en dehors des Produits des Entités Facebook, notamment les sites web et les applications. Vous pouvez décider si nous pouvons utiliser ces données pour vous présenter des publicités dans vos [paramètres publicitaires](https://www.facebook.com/ads/settings).
     
-*   The Facebook Audience Network is a way for advertisers to show you ads in apps and websites off the Facebook Company Products. One of the ways that Audience Network shows relevant ads is by using your ad preferences to determine which ads you may be interested in seeing. You can control this in your [ad settings.](https://www.facebook.com/ads/settings)
+*   L’Audience Network de Facebook permet aux annonceurs de vous présenter des publicités sur des applications et des sites web qui ne font pas partie des Produits des entités Facebook. L’Audience Network peut vous présenter des publicités pertinentes en analysant, entre autres, vos préférences publicitaires et en déterminant ainsi les publicités susceptibles de vous intéresser. Vous pouvez définir cela dans vos [paramètres publicitaires.](https://www.facebook.com/ads/settings)
     
-*   You can review your Off-Facebook activity, which is a summary of activity that businesses and organisations share with us about your interactions with them, such as visiting their apps or websites. They use our [business tools](https://www.facebook.com/help/2230503797265156?helpref=faq_content), such as Facebook pixel, to share this information with us. This helps us do things like give you a more personalised experience on Facebook. Learn more [about off-Facebook activity](https://www.facebook.com/help/2207256696182627?helpref=faq_content), how we use it and how you can manage it.
-    
-
-Everyone:
-
-You can opt out of seeing online interest-based ads from Facebook and other participating companies through the [Digital Advertising Alliance](http://www.aboutads.info/choices/) in the US, the [Digital Advertising Alliance of Canada](http://youradchoices.ca/) in Canada or the [European Interactive Digital Advertising Alliance](http://www.youronlinechoices.eu/) in Europe or through your mobile device settings, where available, using Android, iOS 13 or an earlier version of iOS. Please note that ad blockers and tools that restrict our cookie use may interfere with these controls.
-
-More information about online advertising:
-
-The advertising companies we work with generally use cookies and similar technologies as part of their services. To learn more about how advertisers generally use cookies and the choices they offer, you can review the following resources:  
-
-*   [Digital Advertising Alliance](http://www.aboutads.info/choices/)
-    
-*   [Digital Advertising Alliance of Canada](http://youradchoices.ca/)
-    
-*   [European Interactive Digital Advertising Alliance](http://www.youronlinechoices.eu/)
+*   Vous pouvez consulter votre activité en dehors de Facebook que des entreprises et des organisations partagent avec nous au sujet de vos interactions avec elles, comme les visites sur leurs applications ou sites web. Ils utilisent nos [Outils Business](https://www.facebook.com/help/2230503797265156?helpref=faq_content), comme le pixel Facebook, pour partager des informations avec nous. Cela nous permet notamment de vous offrir une expérience plus personnalisée sur Facebook. En savoir plus [sur l’activité en dehors de Facebook](https://www.facebook.com/help/2207256696182627?helpref=faq_content), comment nous l’utilisons et comment vous pouvez la gérer.
     
 
-Browser cookie controls:
+Tout le monde :
 
-In addition, your browser or device may offer settings that allow you to choose whether browser cookies are set and to delete them. These controls vary by browser, and manufacturers may change both the settings they make available and how they work at any time. As of 5 October 2020, you may find additional information about the controls offered by popular browsers at the links below. Certain parts of the Facebook Products may not work properly if you have disabled browser cookie use. Please be aware that these controls are distinct from the controls that Facebook offers you.  
+Vous pouvez vous désinscrire des publicités basées sur les centres d’intérêt en ligne émanant de Facebook et de toutes entreprises participantes par le biais de la [Digital Advertising Alliance](http://www.aboutads.info/choices/) aux États-Unis, la [Digital Advertising Alliance of Canada](http://youradchoices.ca/) au Canada ou la [European Interactive Digital Advertising Alliance](http://www.youronlinechoices.eu/) en Europe, ou par le biais des paramètres de votre appareil mobile, lorsqu’ils sont disponibles, si vous utilisez Android, iOS 13 ou une version antérieure d’iOS. Remarque : les bloqueurs de publicité et les outils qui restreignent notre utilisation des cookies peuvent interférer avec ces contrôles.
 
-*   [Google Chrome](https://support.google.com/chrome/answer/95647)
+Plus d’informations sur la publicité en ligne :
+
+Les agences de publicité avec lesquelles nous travaillons utilisent généralement des cookies et des technologies similaires dans le cadre de leurs services. Pour en savoir plus sur la manière dont les annonceurs utilisent généralement les cookies et sur les choix dont vous disposez par rapport à ceux-ci, reportez-vous aux ressources ci-après :  
+
+*   [Alliance de la publicité numérique](http://www.aboutads.info/choices/)
     
-*   [Internet Explorer](https://support.microsoft.com/en-ie/help/17442/windows-internet-explorer-delete-manage-cookies)
+*   [Alliance canadienne de la publicité numérique](http://youradchoices.ca/)
     
-*   [Firefox](https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop)
+*   [Alliance européenne pour l’éthique en matière de publicité numérique](http://www.youronlinechoices.eu/)
     
-*   [Safari](https://support.apple.com/en-ie/guide/safari/sfri11471/mac)
+
+Contrôle des cookies de navigateur :
+
+De plus, votre navigateur ou votre appareil propose peut-être des paramètres vous permettant de choisir si les cookies du navigateur sont activés et de les supprimer. Ces contrôles varient en fonction du navigateur et les fabricants peuvent modifier les paramètres disponibles et le fonctionnement de ceux-ci à tout moment. Depuis le 5 octobre 2020, vous pouvez trouver des informations supplémentaires sur les contrôles proposés par les navigateurs populaires en consultant les liens ci-dessous. Certaines parties des Produits Facebook peuvent ne pas fonctionner correctement si vous avez désactivé l’utilisation des cookies dans votre navigateur. Soyez conscient que ces contrôles sont distincts de ceux que Facebook vous propose.  
+
+*   [Google Chrome ;](https://support.google.com/chrome/answer/95647)
+    
+*   [Internet Explorer.](https://support.microsoft.com/en-ie/help/17442/windows-internet-explorer-delete-manage-cookies)
+    
+*   [Firefox ;](https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop)
+    
+*   [Safari ;](https://support.apple.com/en-ie/guide/safari/sfri11471/mac)
     
 *   [Safari Mobile](https://support.apple.com/en-us/HT201265)
     
-*   [Opera](https://blogs.opera.com/news/2015/08/how-to-manage-cookies-in-opera/)
+*   [Opera.](https://blogs.opera.com/news/2015/08/how-to-manage-cookies-in-opera/)
     
 
   
   
-Date of last revision: 5 October 2020
+Date de la dernière révision : 5 octobre 2020
