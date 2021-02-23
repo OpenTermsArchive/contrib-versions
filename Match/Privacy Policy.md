@@ -39,8 +39,6 @@ EFFECTIVE DATE: May 25, 2018
 12.  PRIVACY POLICY CHANGES
 13.  HOW TO CONTACT US
 
- 
-
 1.      WHO WE ARE
 ==================
 
