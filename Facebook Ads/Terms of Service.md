@@ -1,81 +1,81 @@
-Conditions d’utilisation des publicités en libre-service
+Self-Serve Ad Terms
 
-Les conditions suivantes (« **Conditions d’utilisation des publicités en libre-service** ou **Conditions d’utilisation des pubs en libre-service** ») s’appliquent à votre utilisation des [produits Facebook](https://www.facebook.com/help/1561485474074139) (notamment les API et interfaces de publicité en libre-service) pour la création, la soumission ou la diffusion de publicités ou toute autre activité ou tout autre contenu commercial ou sponsorisé (collectivement dénommés les « **Interfaces de publicité en libre-service** »), et à toutes les commandes que vous passez au moyen des Interfaces de publicité en libre-service (« **Commande** »).
+The following terms (“**Self-Serve Advertising Terms**” or “**Self-Serve Ad Terms**”) apply to your use of [Facebook Products](https://www.facebook.com/help/1561485474074139) (such as the self-service advertising interfaces and APIs) for creation, submission and/or delivery of any advertising or other commercial or sponsored activity or content (collectively, “**Self-Serve Ad Interfaces**”) and any order you place through the Self-Serve Ad Interfaces (“**Order**”).
 
-Vous pouvez cibler l’audience souhaitée en achetant des publicités à diffuser sur Facebook, Messenger, Instagram, notre réseau d’éditeurs ou tout autre endroit où nous diffusons des publicités.
+You can target your desired audience by buying ads to be delivered on Facebook, Messenger, Instagram, our publisher network, or any place we serve ads.
 
-1.  Lorsque vous passez une Commande, vous nous communiquez le type de publicités que vous souhaitez acheter, le montant que vous voulez dépenser et votre enchère. Si nous acceptons votre Commande, nous diffusons vos publicités dans l’ordre d’écoulement de l’inventaire. Lors de la diffusion de votre publicité, nous nous efforçons de la présenter à l’audience que vous ciblez ou d’obtenir les résultats que vous sélectionnez, mais ne pouvons pas garantir qu’elle atteindra toujours sa cible ou générera les résultats de votre choix.
+1.  When you place an Order, you will tell us the type of advertising you want to buy, the amount you want to spend, and your bid. If we accept your Order, we will deliver your ads as inventory becomes available. When serving your ad, we use best efforts to deliver the ads to the audience you specify or to achieve the outcome you select, though we cannot guarantee in every instance that your ad will reach its intended target or achieve the outcome you select.
     
-2.  Vos publicités doivent se conformer à toutes les lois, réglementations et règles en vigueur, ainsi qu’à nos [Règles publicitaires](https://www.facebook.com/policies/ads/). Le non-respect de votre part pourrait entraîner diverses conséquences, notamment l’annulation des publicités que vous avez commandées et la résiliation de votre compte.
+2.  Your ads must comply with all applicable laws, regulations, and guidelines, as well as our [Advertising Policies](https://www.facebook.com/policies/ads/). Failure to comply may result in a variety of consequences, including the cancellation of ads you have placed and termination of your account.
     
-3.  Nous pouvons refuser ou retirer toute publicité, sans avoir à le justifier.
+3.  We may reject or remove any ad for any reason.
     
-4.  Vous vous acquitterez du coût de vos Commandes conformément aux dispositions suivantes :
+4.  You will pay for your Orders in accordance with the following:
     
-    1.  Vous vous conformerez aux [Modalités de paiement de la communauté](https://www.facebook.com/payments_terms) dans la mesure du possible.
+    1.  You will comply with our [Community Payments Terms](https://www.facebook.com/payments_terms) to the extent applicable.
         
-    2.  Vous réglerez tous les montants précisés dans chaque Commande que vous passez ainsi que toute taxe applicable. Le montant que vous devez pour chaque Commande sera calculé sur la base de nos mécanismes de suivi.
+    2.  You will pay all amounts specified in each Order you place, along with any applicable taxes. The amount you owe for each Order will be calculated based on our tracking mechanisms.
         
-    3.  En passant Commande, vous nous autorisez à nous procurer votre rapport de solvabilité personnelle ou professionnelle auprès d’une société de renseignements commerciaux, lorsque vous passez une Commande ou à tout moment par la suite.
+    3.  By placing an Order, you authorize us to obtain your personal and/or business credit report from a credit bureau, either when you place an Order or at any time thereafter.
         
-    4.  Vous êtes responsable de la sécurité de votre compte publicitaire et vous comprenez que toute Commande passée par l’intermédiaire de votre compte vous sera facturée.
+    4.  You are responsible for maintaining the security of your advertising account, and you understand that you will be charged for any Orders placed on or through your advertising account.
         
-    5.  En cas de paiement par prélèvement bancaire, vous acceptez que nous puissions débiter tout montant compris dans la plage que vous avez acceptée à l’inscription. Nous vous avertirons en cas de dépassement de la plage acceptée.
+    5.  If you are making direct debit payments, you agree that we can charge you any amount that falls within the range you agreed to upon signup. We will notify you in advance if any charge will exceed the agreed-upon range.
         
-    6.  Vous pouvez annuler une Commande à tout moment, mais vos publicités peuvent être diffusées pendant 24 heures après votre demande d’interruption, les frais correspondants à toutes les publicités diffusées restant à votre charge.
+    6.  You can cancel an Order at any time, but your ads may run for 24 hours after you notify us, and you are still responsible for paying for all ads that run.
         
-    7.  Les montants que nous vous facturons peuvent faire l’objet de taxes et de prélèvements, notamment, sans s’y limiter, de retenues à la source. Vous êtes responsable de l’acquittement et du versement de toute taxe qui s’applique à vos transactions. Vous acceptez de nous indemniser et de nous exonérer de toute responsabilité en cas de plainte concernant votre manquement à cet égard.
+    7.  The amounts we charge you may be subject to and include applicable taxes and levies, including without limitation withholding taxes. You are responsible for bearing and remitting any taxes that apply to your transactions. You will indemnify and hold us harmless from and against any claim arising out of your failure to do so.
         
-    8.  Si votre moyen de paiement ne nous permet pas de récolter les fonds ou si votre compte est débiteur, nous pouvons prendre des mesures supplémentaires pour récolter les montants dus. Vous acceptez de vous acquitter de tous les frais associés à une telle récupération des fonds, notamment les frais de justice raisonnables. Les montants dus accumuleront des intérêts à hauteur de 1 % par mois ou du montant légal maximum, selon le plus faible des deux.
+    8.  If your payment method fails or your account is past due, we may take additional steps to collect past due amounts. You will pay all expenses associated with such collection, including reasonable attorneys' fees. Past due amounts will accrue interest at 1% per month or the lawful maximum, whichever is less.
         
-    9.  Nous pouvons vous autoriser à acheter des publicités à l’aide d’un « Solde d’annonceur » qui est un solde prépayé pouvant uniquement servir à acheter des publicités sur Facebook. Les Soldes d’annonceur sont réservés à des fins commerciales ou professionnelles uniquement. Les Soldes d’annonceur ne sont pas remboursables, sauf lorsque la loi nous y oblige. Facebook n’est pas une banque et ne propose pas de services bancaires. Par conséquent, les Soldes d’annonceur ne rapportent aucun intérêt, ne constituent pas des obligations de dépôt, et ne sont pas garantis par la FDIC (Federal Deposit Insurance Corporation), le FSCS (Financial Services Compensation Scheme), ni toute autre entité ou tout programme d’assurance, publics ou privés.
+    9.  We may allow you to purchase ads with an “Advertiser Balance,” which is a pre-paid balance that can be used solely to purchase ads on Facebook. Advertiser Balances are only for business or commercial purposes. Advertiser Balances are non-refundable except where required by law. Facebook is not a bank and does not offer banking services; accordingly, Advertiser Balances do not earn interest, are not deposit obligations, and are not insured by the Federal Deposit Insurance Corporation, the Financial Services Compensation Scheme, or any other entity or insurance scheme, whether governmental or private.
         
-    10.  Vous serez classé dans l'une des deux catégories suivantes en fonction de votre mode de paiement : client avec facturation ou sans facturation. Les clients avec facturation sont ceux pour lesquels Facebook fixe une limite maximale de dépense et fournit des factures à intervalles réguliers pour les paiements conformément aux conditions de facturation en vigueur. Les clients sans facturation sont ceux qui doivent effectuer des paiements au moment de l’achat lui-même. Facebook peut, à son entière discrétion, classer des clients comme clients avec facturation en fonction de facteurs tels que les dépenses publicitaires et la solvabilité.
+    10.  You will fall under one of two categories depending on your payment method: invoiced or non-invoiced client. Invoiced clients are those for whom Facebook sets a maximum spending limit and issues invoices on a periodic basis for payment in accordance with the applicable invoicing terms. Non-invoiced clients are those who must make payments at the time of purchase itself. In its sole discretion, Facebook may classify clients as invoiced clients based on factors such as ad spend and creditworthiness.
     
-5.  Nous avons parfois besoin de tester les améliorations apportées à nos audiences et nos systèmes de diffusion, ce qui peut avoir un impact sur vos publicités. Les tests sont destinés à améliorer les performances de vos publicités. Nous nous réservons le droit de réaliser des tests lorsque nous pensons qu’ils optimiseront les performances de l’annonceur.
+5.  From time to time, we need to test improvements to our audiences and delivery systems, which could impact your advertising. Our testing is designed to improve the effectiveness of your advertising performance. We reserve the right to test when we believe it will be beneficial for advertiser performance.
     
-6.  Nous déciderons de la taille, du placement et de la position de vos publicités.
+6.  We will determine the size, placement, and positioning of your ads.
     
-7.  La planification de la diffusion est soumise à disponibilité et peut ne pas être continue.
+7.  Scheduling of delivery is subject to availability and may not be continuous.
     
-8.  Nous ne garantissons pas la portée ou les performances de vos publicités, notamment le nombre de personnes qui les verront ou le nombre de clics qu’elles généreront.
+8.  We do not guarantee the reach or performance that your ads will receive, such as the number of people who will see your ads or the number of clicks your ads will get.
     
-9.  Nous ne pouvons pas contrôler la manière dont les clics sont générés sur vos publicités. Nous disposons de systèmes permettant de détecter et de filtrer certaines activités de clic, mais nous ne sommes pas responsables des fraudes au clic, des problèmes technologiques ou d’autres activités de clic potentiellement anormales pouvant affecter le coût de diffusion des publicités.
+9.  We cannot control how clicks are generated on your ads. We have systems that attempt to detect and filter certain click activity, but we are not responsible for click fraud, technological issues, or other potentially invalid click activity that may affect the cost of running ads.
     
-10.  Notre licence de diffusion de vos publicités expire une fois la Commande exécutée. Vous comprenez toutefois les dispositions suivantes :
+10.  Our license to deliver your ad will end when we have completed your Order. You understand, however, that:
     
-    1.  Une fois affichées, les publicités deviennent des informations publiques. Il est possible que les publicités soient repartagées et que des personnes extérieures à l’audience ciblée y accèdent (notamment à partir de la Page Facebook qui diffuse les publicités ou au sein des Produits Facebook). Si des utilisateurs ont interagi avec vos publicités, ces dernières peuvent demeurer sur nos Produits (_par exemple, être partagées jusqu’à ce que les utilisateurs les suppriment ou être vues par les utilisateurs au moyen des outils de leur compte).
+    1.  Once displayed, ads are public information. Ads may be re-shared and accessed outside of the targeted audience (including from the Facebook Page running the ads or within Facebook Products). If users have interacted with your ad, your ad may remain on our Products (_e.g., shared until the users delete it or visible to users through their account tools).
         
         _
-    2.  Si votre publicité porte sur des [enjeux sociaux, électoraux et politiques](https://www.facebook.com/policies/ads/restricted_content/political), Facebook peut permettre l’accès (sans aucun frais pour vous) au contenu publicitaire et au contenu de la publicité, ainsi qu’aux informations concernant la campagne publicitaire (comme les dépenses totales, les données de diffusion et les informations de ciblage) pendant une période de sept ans suivant votre commande.
+    2.  If your ad is about [Social Issues, Elections or Politics](https://www.facebook.com/policies/ads/restricted_content/political), Facebook may display (at no cost to you) and provide access to the ad content and creative, and information about the ad campaign (such as total spend and delivery data, and targeting information) for a period of seven years from the completion of your order.
         
-    3.  Vous acceptez que Facebook puisse divulguer votre compte publicitaire, ainsi que toutes les informations associées avec votre publicité, à une entité ou un organisme gouvernemental si Facebook juge que cette divulgation peut contribuer à une enquête judiciaire.
+    3.  You consent that Facebook may disclose your advertising content, and all information associated with your advertising, to a governmental entity or body if Facebook believes that disclosure would assist in a lawful investigation.
     
-11.  Nous vous communiquerons des rapports concernant les types des personnes qui voient vos publicités et les performances de ces dernières. Votre utilisation de ces rapports est soumise aux restrictions relatives à l’utilisation des données contenues dans nos [Règles publicitaires](https://www.facebook.com/policies/ads/). Nous pouvons fournir à une entreprise et à tous ses annonceurs des informations relatives au nombre de publicités diffusées pour l’entreprise sur les produits Facebook et à toute restriction applicable à ces publicités.
+11.  We will provide you with reports about the kinds of people seeing your ads and how your ads are performing. Your use of these reports is subject to the Data Use Restrictions in our [Advertising Policies](https://www.facebook.com/policies/ads/). We may provide a business, and all those who advertise for the business, with information about the number of ads being run for the business across the Facebook Products and any applicable restrictions on those ads.
     
-12.  Nous mettons à disposition des outils permettant de fournir une transparence à nos utilisateurs quant au fonctionnement des publicités Facebook ainsi qu’un contrôle de leur expérience publicitaire, notamment des informations suffisantes pour leur montrer pourquoi ils voient des publicités en particulier. Vous acceptez que les informations associées à votre publicité puissent être incluses dans ces outils et que ces derniers puissent influencer votre capacité à diffuser des publicités auprès des utilisateurs ou à les empêcher de voir vos publicités.
+12.  We offer tools to provide transparency to our users about how Facebook advertising works and control over their ads experience, including information sufficient to show them why they are being shown specific ads. You agree that information associated with your advertising may be included in these tools, and that those tools may impact your ability to advertise to those users or to prevent them from seeing your ads.
     
-13.  Vous ne publierez pas de communiqué de presse ni de déclaration publique concernant votre relation avec Facebook ou les produits Facebook sans notre autorisation écrite préalable.
+13.  You will not issue any press release or make public statements about your relationship with Facebook or the Facebook Products without our prior written permission.
     
-14.  Si vous diffusez des publicités au nom d’une autre personne, vous devez en avoir l’autorisation et acceptez ce qui suit :
+14.  If you are placing ads on someone else's behalf, you must have permission to place those ads, and agree as follows:
     
-    1.  Vous déclarez et garantissez que vous êtes habilité à accepter et que vous accepterez les présentes Conditions d’utilisation des publicités en libre-service, les Conditions de service et les [Conditions commerciales](https://www.facebook.com/legal/commercial_terms).
+    1.  You represent and warrant that you have the authority to and will bind the advertiser to these Self-Serve Ad Terms and the Terms of Service, and the [Commercial Terms](https://www.facebook.com/legal/commercial_terms), to which you also agree.
         
-    2.  Si l’annonceur que vous représentez ne respecte pas les présentes Conditions d’utilisation des publicités en libre-service, les Conditions de service ou les Conditions commerciales, nous pouvons vous en tenir responsable.
+    2.  If the advertiser you represent violates these Self-Serve Ad Terms, the Terms of Service, or the Commercial Terms, we may hold you responsible for that violation.
         
-    3.  Vous acceptez que nous puissions fournir des informations de signalement sur les campagnes à l’annonceur final pour lequel vous avez commandé une campagne.
+    3.  You agree that we may provide campaign reporting information to the end advertiser for whom you placed a campaign.
     
-15.  Nous pourrons vous demander d’examiner et d’accepter des conditions supplémentaires qui s’appliquent à votre utilisation d’une fonction ou d’une fonctionnalité particulière mise à votre disposition par le biais des Interfaces de publicité en libre-service. Dans la mesure où ces conditions supplémentaires entreraient en conflit avec les présentes Conditions d’utilisation des publicités en libre-service, les conditions supplémentaires régiront votre utilisation de la fonction ou de la fonctionnalité particulière dans la mesure du conflit. Nous sommes susceptibles de modifier ou d’actualiser des présentes Conditions d’utilisation des publicités en libre-service. Votre utilisation continue des Interfaces de publicité en libre-service vaut acceptation de ces modifications ou mises à jour.
+15.  We may ask you to review and accept supplemental terms that apply to your use of a specific feature or functionality made available through the Self-Serve Ad Interfaces. To the extent those supplemental terms conflict with these Self-Serve Ad Terms, the supplemental terms will govern with respect to your use of the specific feature or functionality to the extent of the conflict. We may change or update these Self-Serve Ad Terms from time to time and your continued use of the Self-Serve Ad Interfaces constitutes acceptance of those changes.
 
-17.  Partie contractante :
+17.  Contracting party:
     
-    1.  Si vous résidez ou que votre lieu d’activité principal se trouve aux États-Unis ou au Canada, Facebook, Inc. vous fournira les Interfaces de publicité en libre-service.
-    2.  Si vous résidez ou que votre lieu d’activité principal se trouve en dehors des États-Unis ou du Canada, Facebook Ireland Limited vous fournira les Interfaces de publicité en libre-service. Toutefois, les annonceurs de certains pays peuvent, dans certaines circonstances, conclure directement des contrats avec des filiales de Facebook **uniquement** dans le but de passer des commandes. [Au besoin, vous trouverez ici des dispositions spéciales applicables à vos Commandes auprès de ces filiales.](https://www.facebook.com/legal/country_specific_ads_terms)
-    3.  Pour lever toute ambiguïté, quelle que soit l'entité avec laquelle vous passez un contrat (tel que décrit aux sections 16.a et 16.b), les [Règles publicitaires](https://www.facebook.com/policies/ads/) de Facebook (et les Standards de la communauté intégrés) sont appliquées conformément aux Conditions de service par l'entité qui fournit les produits Facebook conformément aux Conditions de service applicables dans votre région.
+    1.  If you reside or have your principal place of business in the United States or Canada, Facebook, Inc. provides the Self-Serve Ad Interfaces.
+    2.  If you reside or have your principal place of business outside the United States or Canada, Facebook Ireland Limited provides the Self-Serve Ad Interfaces, except that advertisers in some countries may under certain circumstances contract directly with Facebook affiliate companies **solely** for purposes of placing Orders. [If applicable to you, you can find special provisions applicable to your Orders from those affiliates here](https://www.facebook.com/legal/country_specific_ads_terms).
+    3.  For the avoidance of doubt, regardless which entity you contract with (as described in Sections 16.a and 16.b), Facebook’s [Advertising Policies](https://www.facebook.com/policies/ads/) (and its Community Standards as incorporated) are enforced under the Terms of Service by the entity that provides the Facebook Products under the applicable Terms of Service in your region.
     
-18.  Toute réclamation, motif de poursuite ou litige découlant ou se rapportant aux présentes Conditions d’utilisation des publicités en libre-service est soumis à la clause de résolution des litiges des Conditions commerciales.
-19.  Si les présentes Conditions d’utilisation des publicités en libre-service seront résiliées en cas d’expiration des Conditions commerciales, les dispositions suivantes resteront toutefois en vigueur : le paragraphe d’introduction, les sections 2, 4, 8-12 et 15-18.
+18.  Any claim, cause of action, or dispute that arises out of or relates to these Self-Serve Ad Terms is subject to the disputes resolution clause in the Commercial Terms.
+19.  These Self-Serve Ad Terms will terminate in the event of any termination of the Commercial Terms, but the following provisions will still apply: the lead-in paragraph, Sections 2, 4, 8-12 and 15-18.
 
   
 
-Date d’entrée en vigueur : 31 août 2020
+Effective Date: August 31, 2020.
