@@ -1,3 +1,5 @@
+Last modified on 10/15/2020
+
 **Privacy Notice**
 ------------------
 
@@ -7,7 +9,7 @@ For purposes of data protection laws, Twitch Interactive, Inc. located at 350 Bu
 
 You may share personal information when using the Twitch Services. One example is when you provide information about yourself as part of the Twitch account creation process. Another is when you take certain actions on the Twitch Services that are public or intended to be public in nature, such as when you broadcast content, participate in a chat room, post profile information, follow a channel, or subscribe to a broadcast channel. Given the social nature of some of the Twitch Services, that information may be collected, used, or disclosed by others who are part of that social interaction. In addition, some features of the Twitch Services are designed to provide others with information about user activity, such as identifying the user who created a particular Clip or the subscription status of users for a given channel. We encourage you to be mindful of this when considering your activity on the Twitch Services.
 
-Storage and access to cookies that are set in connection with the Twitch Services are governed by the Twitch [Cookie Policy](https://www.twitch.tv/p/legal/cookie-policy) (“Cookie Policy”).
+Storage and access to cookies that are set in connection with the Twitch Services are governed by the Twitch [Cookie Policy](https://www.twitch.tv/p/en/legal/cookie-policy) (“Cookie Policy”).
 
 #### Table of Contents
 
@@ -22,7 +24,7 @@ Storage and access to cookies that are set in connection with the Twitch Service
 9.  [Do Not Track](#do_not_track)
 10.  [Data Security](#data_security)
 11.  [Retention of Your Information](#retention_of_your_information)
-12.  [Children's Privacy](#children_rsquo_s_privacy)
+12.  [Children’s Privacy](#children_rsquo_s_privacy)
 13.  [Merger or Sale](#merger_or_sale)
 14.  [International Data Transfers](#international_data_transfers)
 15.  [Changes and Updates to This Privacy Notice](#changes_and_updates_to_this_privacy_notice)
@@ -59,7 +61,7 @@ Other than as set out in this Privacy Notice, you will receive notice when perso
 
 #### Data Subject Rights and Your Choices
 
-Twitch’s [Privacy Choices](https://www.twitch.tv/p/legal/privacy-choices/) page describes your privacy options with respect to the Twitch services, including information about how you may be able to review, update, or delete information that Twitch may have about you. You may decline to share certain information with Twitch, in which case Twitch may not be able to provide to you some of the features and functionality found on the Twitch Services. If you have created a Twitch Services account, depending on the service, you may be able to update your profile information and preferences or disable your account by logging in and going to the settings page -- for example, [www.twitch.tv](https://www.twitch.tv/). 
+Twitch’s [Privacy Choices](https://www.twitch.tv/p/en/legal/privacy-choices) page describes your privacy options with respect to the Twitch services, including information about how you may be able to review, update, or delete information that Twitch may have about you. You may decline to share certain information with Twitch, in which case Twitch may not be able to provide to you some of the features and functionality found on the Twitch Services. If you have created a Twitch Services account, depending on the service, you may be able to update your profile information and preferences or disable your account by logging in and going to the settings page – for example, [www.twitch.tv](https://www.twitch.tv/). 
 
 For other requests to review, update, delete, or otherwise limit Twitch’s use of information that you have provided directly to Twitch, you may contact privacy@twitch.tv. In your request, please include your email address, name, address, and telephone number and specify all relevant background. To protect your privacy and security, we may take steps to verify your identity before granting you access or making corrections to your information. You are responsible for maintaining the secrecy of your unique password and account information at all times.
 
@@ -87,7 +89,7 @@ If you connect to a third-party service (such as Facebook, Twitter, or another t
 
 #### Extensions
 
-The [Twitch Extensions](https://dev.twitch.tv/extensions) program allows broadcasters to embed interactive, custom, third-party content and applications on their channel pages. You can find out more about the specific Extension(s) operating on a given channel by clicking on the attribution links or icons that Twitch will make available on the channel page, for example, on the Twitch video player or at the bottom of an Extension's panel.
+The [Twitch Extensions](https://dev.twitch.tv/extensions) program allows broadcasters to embed interactive, custom, third-party content and applications on their channel pages. You can find out more about the specific Extension(s) operating on a given channel by clicking on the attribution links or icons that Twitch will make available on the channel page, for example, on the Twitch video player or at the bottom of an Extension’s panel.
 
 Interaction by a viewer with an Extension or with the channel on which the Extension is activated will provide the developer that operates the Extension with viewer information of the nature described above in “Automatically Collected Information.” Twitch does not provide access to your user name or ID to third-party Extension developers as part of the Twitch Extensions program unless you click “Grant Access” within the Extension or you install an Extension on your channel. You are responsible for any information you provide to the developer independently, for example, through a web form on the Extension or visiting that developer’s website.
 
@@ -145,7 +147,7 @@ For the purposes of the General Data Protection Regulation, Twitch UK Limited ha
 
 #### California Privacy Disclosures
 
-[Click here](https://www.twitch.tv/p/legal/california-privacy-disclosure/) to read additional disclosures required under the California Consumer Privacy Act and other California laws.
+[Click here](https://www.twitch.tv/p/en/legal/california-privacy-disclosure) to read additional disclosures required under the California Consumer Privacy Act and other California laws.
 
 #### Republic of Korea Privacy Notice
 
