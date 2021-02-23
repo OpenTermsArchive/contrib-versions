@@ -146,9 +146,9 @@ There are additional guidelines for multi-location stores ([chains and brands](#
 
 #### Custom names
 
-Your short name should be associated with your business name or the most common name that people call your business. We recommend that you include your location to make the short name more distinct. You can use your business name with your city or local area, for example, 'Jessie's Fish Shack Weymouth'.    
+Your short name should be associated with your business name or the most common name that people call your business. We recommend that you include your location to make the short name more distinct. You can use your business name with your city or neighbourhood. For example: 'javierscrabhutdallas'.    
   
-Keep your short name simple so that it’s easy to promote and so that customers can remember it. If you have a short name, you’ll get a short URL to request reviews from your customers. [Learn more about short URLs for reviews](https://support.google.com/business/answer/7035772).
+Keep your short name simple so it’s easy to promote and customers can remember it. If you have a short name, you’ll get a short URL to request reviews from your customers. [Learn more about short URLs for reviews](https://support.google.com/business/answer/7035772).
 
 Learn more about the [custom names policies](https://support.google.com/business/answer/9273900#shortnames_policies).
 
