@@ -4,7 +4,7 @@ This Privacy Statement explains our practices, including your choices, regarding
 
 If you have general questions about your account or how to contact customer service for assistance, please visit our online help center at [help.netflix.com](https://help.netflix.com/). For questions specifically about this Privacy Statement, or our use of your personal information, cookies or similar technologies, please contact our Data Protection Officer/Privacy Office by email at [privacy@netflix.com](mailto:privacy@netflix.com).
 
-The data controller of your personal information is [Netflix Services UK Limited](https://help.netflix.com/legal/corpinfo). Please note that if you contact us to assist you, for your safety and ours we may need to authenticate your identity before fulfilling your request.
+The data controller of your personal information is [Netflix International B.V](https://help.netflix.com/legal/corpinfo). Please note that if you contact us to assist you, for your safety and ours we may need to authenticate your identity before fulfilling your request.
 
 ### Collection of Information
 
@@ -70,8 +70,6 @@ We use information to provide, analyze, administer, enhance and personalize our 
 *   communicate with you concerning our service so that we can send you news about Netflix, details about new features and content available on Netflix, special offers, promotional announcements, consumer surveys, and to assist you with operational requests such as password reset requests. These communications may be by various methods, such as email, push notifications, text message, online messaging channels, and matched identifier communications (described below). Please see the "Your Choices" section of this Privacy Statement to learn how to set or change your communications preferences.
     
 
-Our legal basis for collecting and using the personal information described in this Privacy Statement will depend on the personal information concerned and the specific context in which we collect and use it. We will normally collect personal information from you where we need the personal information to perform a contract with you (for example, to provide our services to you), where the processing is in our legitimate interests and not overridden by your data protection interests or fundamental rights and freedoms (for example, our direct marketing activities in accordance with your preferences), or where we have your consent to do so (for example, for you to participate in certain consumer insights activities like specific surveys and focus groups). In some cases, we may also have a legal obligation to collect personal information from you or may otherwise need the personal information to protect your vital interests or those of another person (for example, to prevent payment fraud or confirm your identity). For questions about our use of your personal information (including legal bases and transfer mechanisms we rely on), cookies or similar technologies, please contact our Data Protection Officer/Privacy Office by email at [privacy@netflix.com](mailto:privacy@netflix.com). Please visit our online help center at [help.netflix.com](https://help.netflix.com/) for more information about these topics.
-
 ### Disclosure of Information
 
 We disclose your information for certain purposes and to third parties, as described below:
@@ -133,15 +131,13 @@ Social plugins and social applications are operated by the social networks thems
 
 You can request access to your personal information, or correct or update out-of-date or inaccurate personal information we hold about you. You may also request that we delete personal information that we hold about you.
 
-When you visit the "Account" portion of our website, where you have the ability to access and update a broad range of information about your account, including your contact information, your Netflix payment information, and various related information about your account (such as the content you have viewed and rated). You must be signed in to access the "Account" section.
+When you visit the "Account" portion of our website, you have the ability to access and update a broad range of information about your account, including your contact information, your Netflix payment information, and various related information about your account (such as the content you have viewed and rated). You must be signed in to access the "Account" section.
 
 If you are the account owner, to download a copy of your personal information go to: [www.netflix.com/account/getmyinfo](https://www.netflix.com/account/getmyinfo) (you must be signed in to access the "Account" section), and follow the instructions.
 
-For other requests, or if you have a question regarding our privacy practices, please contact our Data Protection Officer/Privacy Office at [privacy@netflix.com](mailto:privacy@netflix.com).  For more information about how to access your information, including our verification process, please reference this help article:  [help.netflix.com/node/100624](https://help.netflix.com/en/node/100624). For information about deletion, removal and retention of information, please reference this help article: [help.netflix.com/node/100625](https://help.netflix.com/en/node/100625). We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws. Please also see the "Your Choices" section of this Privacy Statement for additional choices regarding your information.
+For other requests, or if you have a question regarding our privacy practices, please contact our Data Protection Officer/Privacy Office at [privacy@netflix.com](mailto:privacy@netflix.com). For more information about how to access your information, including our verification process, please reference this help article:  [help.netflix.com/node/100624](https://help.netflix.com/en/node/100624). For information about deletion, removal and retention of information, please reference this help article: [help.netflix.com/node/100625](https://help.netflix.com/en/node/100625). We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws. Please also see the "Your Choices" section of this Privacy Statement for additional choices regarding your information.
 
-You can object to processing of your personal information, ask us to restrict processing of your personal information or request portability of your personal information; if we have collected and process your personal information with your consent, then you can withdraw your consent at any time; withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent; you have the right to complain to a data protection authority about our collection and use of your personal information (for the UK, the office of the UK Information Commissioner). Please visit our online help center at [help.netflix.com](https://help.netflix.com/) for more information about these topics.
-
-We may retain information as required or permitted by applicable laws and regulations, including to honor your choices, for our billing or records purposes and to fulfill the purposes described in this Privacy Statement. We take reasonable measures to destroy or de-identify personal information in a secure manner when it is no longer required.
+We may reject requests that are unreasonable or not required by law, including those that would be extremely impractical, could require disproportionate technical effort, or could expose us to operational risks such as free trial fraud. We may retain information as required or permitted by applicable laws and regulations, including to honor your choices, for our billing or records purposes and to fulfill the purposes described in this Privacy Statement. We take reasonable measures to destroy or de-identify personal information in a secure manner when it is no longer required.
 
 ### Security
 
@@ -188,7 +184,7 @@ Common uses of this type of information are to judge the effectiveness of and op
 
 Netflix uses contractual and technical measures designed to prevent Advertising Partners from accessing information regarding specific title selections you make, URLs you land on, or shows you have watched on our service. We do not share information about title selections or your shows you have watched on our service.  
 
-**How can I exercise choice regarding these technologies?** 
+**How can I exercise choice regarding these technologies?** 
 
 **To exercise choice regarding cookies**
 
@@ -207,7 +203,7 @@ Netflix supports the following self-regulatory programs, which provide additiona
 
 **To exercise choice regarding other technologies**
 
-There are a number of ways to exercise choice regarding technologies that are similar to cookies, such as browser storage and plugins (e.g., HTML5, IndexedDB, and WebSQL). For example, many popular browsers provide the ability to clear browser storage, commonly in the settings or preferences area; see your browser's help function or support area to learn more. Other technologies, such as Silverlight storage, may be cleared from within the application. 
+There are a number of ways to exercise choice regarding technologies that are similar to cookies, such as browser storage and plugins (e.g., HTML5, IndexedDB, and WebSQL). For example, many popular browsers provide the ability to clear browser storage, commonly in the settings or preferences area; see your browser's help function or support area to learn more. Other technologies, such as Silverlight storage, may be cleared from within the application.
 
 To see the prior version of this document, please go to [www.netflix.com/privacyupdates](https://www.netflix.com/privacyupdates).
 
