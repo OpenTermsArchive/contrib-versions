@@ -627,7 +627,7 @@ En toute hypothèse, nous vous adresserons un accord de retour contenant un num�
 
 Vous vous engagez à retourner à CDISCOUNT les produits faisant l’objet d’une rétractation dans les 14 jours calendaires suivants l’envoi de la notification de votre décision de vous rétracter.  
   
-Seuls les produits retournés dans un état permettant leur remise en vente par CDISCOUNT (ceci supposant qu’ils soient retournés dans leur emballage d’origine ou dans un emballage permettant une protection équivalente desdits produits au cours de leur transport retour) seront acceptés au titre de la rétractation et remboursés conformément aux CGV. En conséquence, les produits retournés incomplets, abîmés, endommagés ou salis ne seront pas repris au titre d’une rétractation.
+Conformément aux dispositions de l’article L. 221-23 du Code de la consommation, vous êtes responsable de la manipulation des biens et de la dépréciation de leur valeur au cours du délai de rétractation. A ce titre, Cdiscount se réserve la faculté d’engager votre responsabilité en cas de dépréciation des produits retournés dans le cadre de l’exercice du droit de rétractation, résultant de manipulations autres que celles nécessaires pour établir la nature, les caractéristiques et le bon fonctionnement de ces produits.
 
 **  
 8.3 Exceptions**
@@ -638,11 +638,9 @@ Conformément à l’article L221-28 du Code de la Consommation, le droit de ré
   
 \- Les biens confectionnés selon vos spécifications ou nettement personnalisés ;
 
-\- Les biens susceptibles de se détériorer ou de se périmer rapidement.
-
-C’est par exemple le cas pour les produits assortis d’un compteur kilométrique et dont tout kilomètre effectué emporterait une dépréciation substantielle immédiate de leur valeur.  
+\- Les biens susceptibles de se détériorer ou de se périmer rapidement.  
   
-\- Les biens qui ont été descellés après la livraison et qui ne peuvent être renvoyés pour des raisons d'hygiène ou de protection de la santé : c’est par exemple le cas des articles textiles livrés avec des scellés d’hygiène (sous-vêtements, maillots de bain, etc.) lorsque ceux-ci auront été retirés, les vêtements qui auront été visiblement portés et/ou lavés, les produits du rayon Bijoux tels que les piercings et boucles d'oreilles, etc...  
+\- Les biens qui ont été descellés après la livraison et qui ne peuvent être renvoyés pour des raisons d'hygiène ou de protection de la santé : c’est par exemple le cas des articles textiles livrés avec des scellés d’hygiène (sous-vêtements, maillots de bain, etc.) lorsque ceux-ci auront été retirés, les produits du rayon Bijoux tels que les piercings et boucles d'oreilles, etc...  
   
 \- Les biens qui, après avoir été livrés et de par leur nature, sont mélangés de manière indissociable avec d'autres articles ;  
   
