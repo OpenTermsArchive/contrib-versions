@@ -1,3 +1,5 @@
+Last modified on 01/01/2021
+
 **Terms of Service**
 --------------------
 
@@ -41,7 +43,7 @@
 
 PLEASE READ THESE TERMS OF SERVICE CAREFULLY. THIS IS A BINDING CONTRACT. Welcome to the services operated by Twitch Interactive, Inc. (collectively with its affiliates, “Twitch” or “We”) consisting of the website available at https://www.twitch.tv, and its network of websites, software applications, or any other products or services offered by Twitch (the “Twitch Services”). Other services offered by Twitch may be subject to separate terms.
 
-When using the Twitch Services, you will be subject to Twitch’s [Community](https://www.twitch.tv/p/legal/community-guidelines/) [Guidelines](https://www.twitch.tv/p/legal/community-guidelines/) and additional guidelines or rules that are posted on the Twitch Services, made available to you, or disclosed to you in connection with specific services and features. Twitch may also offer certain paid services, which are subject to the [Twitch Terms of Sale](https://www.twitch.tv/p/legal/terms-of-sale) as well as any additional terms or conditions that are disclosed to you in connection with such services. All such terms and guidelines (the "Guidelines") are incorporated into these Terms of Service by reference.
+When using the Twitch Services, you will be subject to Twitch’s [Community Guidelines](https://www.twitch.tv/p/legal/community-guidelines/) and additional guidelines or rules that are posted on the Twitch Services, made available to you, or disclosed to you in connection with specific services and features. Twitch may also offer certain paid services, which are subject to the [Twitch Terms of Sale](https://www.twitch.tv/p/legal/terms-of-sale) as well as any additional terms or conditions that are disclosed to you in connection with such services. All such terms and guidelines (the “Guidelines”) are incorporated into these Terms of Service by reference.
 
 The Terms of Service apply whether you are a user that registers an account with the Twitch Services or an unregistered user. You agree that by clicking “Sign Up” or otherwise registering, downloading, accessing, or using the Twitch Services, you are entering into a legally binding agreement between you and Twitch regarding your use of the Twitch Services. You acknowledge that you have read, understood, and agree to be bound by these Terms of Service. If you do not agree to these Terms of Service, do not access or otherwise use any of the Twitch Services.
 
@@ -57,7 +59,7 @@ BY DOWNLOADING, INSTALLING, OR OTHERWISE USING THE TWITCH SERVICES, YOU REPRESEN
 
 #### 3\. Privacy Notice
 
-Your privacy is important to Twitch. Please see our [Privacy](https://www.twitch.tv/p/legal/privacy-policy) [Notice](https://www.twitch.tv/p/legal/privacy-policy) for information relating to how we collect, use, and disclose your personal information, and our [Privacy Choices](https://www.twitch.tv/p/legal/privacy-choices) on how you can manage your online privacy when you use the Twitch Services.
+Your privacy is important to Twitch. Please see our [Privacy Notice](https://www.twitch.tv/p/legal/privacy-policy) for information relating to how we collect, use, and disclose your personal information, and our [Privacy Choices](https://www.twitch.tv/p/legal/privacy-choices) on how you can manage your online privacy when you use the Twitch Services.
 
 #### 4\. Account
 
@@ -115,9 +117,9 @@ Users may promote, administer, or conduct a promotion (e.g., a contest or sweeps
 
 ##### **e. Endorsements/Testimonials**
 
-You agree that your User Content will comply with the FTC’s [Guidelines Concerning the Use of Testimonials and Endorsements in Advertising](http://www.ftc.gov/sites/default/files/attachments/press-releases/ftc-publishes-final-guides-governing-endorsements-testimonials/091005revisedendorsementguides.pdf), the FTC’s [](https://www.ftc.gov/system/files/documents/plain-language/bus41-dot-com-disclosures-information-about-online-advertising.pdf) [Disclosures Guide](https://www.ftc.gov/system/files/documents/plain-language/bus41-dot-com-disclosures-information-about-online-advertising.pdf), the FTC’s [Native Advertising Guidelines](https://www.ftc.gov/tips-advice/business-center/guidance/native-advertising-guide-businesses), and any other guidelines issued by the FTC from time to time (the “FTC Guidelines”), as well as any other advertising guidelines required under applicable law. For example, if you have been paid or provided with free products in exchange for discussing or promoting a product or service through the Twitch Services, or if you are an employee of a company and you decide to discuss or promote that company’s products or services through the Twitch Services, you agree to comply with the FTC Guidelines’ requirements for disclosing such relationships. You, and not Twitch, are solely responsible for any endorsements or testimonials you make regarding any product or service through the Twitch Services.
+You agree that your User Content will comply with the FTC’s [Guidelines Concerning the Use of Testimonials and Endorsements in Advertising](http://www.ftc.gov/sites/default/files/attachments/press-releases/ftc-publishes-final-guides-governing-endorsements-testimonials/091005revisedendorsementguides.pdf), the FTC’s [Disclosures Guide](https://www.ftc.gov/system/files/documents/plain-language/bus41-dot-com-disclosures-information-about-online-advertising.pdf), the FTC’s [Native Advertising Guidelines](https://www.ftc.gov/tips-advice/business-center/guidance/native-advertising-guide-businesses), and any other guidelines issued by the FTC from time to time (the “FTC Guidelines”), as well as any other advertising guidelines required under applicable law. For example, if you have been paid or provided with free products in exchange for discussing or promoting a product or service through the Twitch Services, or if you are an employee of a company and you decide to discuss or promote that company’s products or services through the Twitch Services, you agree to comply with the FTC Guidelines’ requirements for disclosing such relationships. You, and not Twitch, are solely responsible for any endorsements or testimonials you make regarding any product or service through the Twitch Services.
 
-##### **f.  Political Activity**
+##### **f. Political Activity**
 
 Subject to these Terms of Service and the Community Guidelines, you may share political opinions; participate in political activity; provide links to a political committee’s official website, including the contribution page of a political committee; and solicit viewers to make contributions directly to a political committee. You agree, however, that these activities are entirely your own. Moreover, by engaging in these activities, you represent and warrant that you are eligible to engage in them under applicable law, and that you will abide by all relevant laws and regulations while doing so.
 
@@ -175,7 +177,7 @@ Twitch respects the intellectual property of others and follows the requirements
 
 #### 11\. Trademarks
 
-TWITCH, the Twitch logos, and any other product or service name, logo, or slogan used by Twitch, and the look and feel of the Twitch Services, including all page headers, custom graphics, button icons, and scripts, are trademarks or trade dress of Twitch, and may not be used in whole or in part in connection with any product or service that is not Twitch’s, in any manner that is likely to cause confusion among customers, or in any manner that disparages or discredits Twitch, without our prior written permission. Any use of these trademarks must be in accordance with the Twitch [Trademark](https://www.twitch.tv/p/legal/trademark/) [G](https://www.twitch.tv/p/legal/trademark/)[uidelines](https://www.twitch.tv/p/legal/trademark/).
+TWITCH, the Twitch logos, and any other product or service name, logo, or slogan used by Twitch, and the look and feel of the Twitch Services, including all page headers, custom graphics, button icons, and scripts, are trademarks or trade dress of Twitch, and may not be used in whole or in part in connection with any product or service that is not Twitch’s, in any manner that is likely to cause confusion among customers, or in any manner that disparages or discredits Twitch, without our prior written permission. Any use of these trademarks must be in accordance with the Twitch [Trademark Guidelines](https://www.twitch.tv/p/legal/trademark/).
 
 All other trademarks referenced in the Twitch Services are the property of their respective owners. Reference on the Twitch Services to any products, services, processes, or other information by trade name, trademark, manufacturer, supplier, or otherwise does not constitute or imply endorsement, sponsorship, or recommendation thereof by us or any other affiliation.
 
@@ -229,7 +231,7 @@ You and Twitch agree to arbitrate any dispute arising from these Terms of Servic
 
 (ii) If you are a resident in any jurisdiction in which the provision in the section above is found to be unenforceable, then any disputes, claims, or causes of action arising out of or in connection with these Terms of Service will be governed by and construed under the laws of your jurisdiction of residence, and shall be resolved by competent civil courts within your jurisdiction of residence.
 
-**e.  Claims**
+**e. Claims**
 
 YOU AND TWITCH AGREE THAT ANY CAUSE OF ACTION ARISING OUT OF OR RELATED TO THE TWITCH SERVICES MUST COMMENCE WITHIN ONE (1) YEAR AFTER THE CAUSE OF ACTION ACCRUES. OTHERWISE, SUCH CAUSE OF ACTION IS PERMANENTLY BARRED.
 
@@ -276,7 +278,7 @@ Soundtrack was borne out of Twitch’s desire to offer creators a wide variety o
 
 The licenses Twitch secured allow Twitch to make these materials available to you for your use in live streams on your Twitch channel. Music and other materials made available through Soundtrack have not been licensed for your use in pre-recorded content, in content that can be streamed on-demand (such as VODs and Clips), or outside the Twitch Services. What this means is that you may not:
 
-*   Create on-demand content containing materials from Soundtrack -- we have designed Soundtrack with this restriction in mind, and proper setup will allow you to create and use music-free on-demand videos of live streams that include Soundtrack music; or
+*   Create on-demand content containing materials from Soundtrack – we have designed Soundtrack with this restriction in mind, and proper setup will allow you to create and use music-free on-demand videos of live streams that include Soundtrack music; or
 *   Live stream content that includes music or other materials from Soundtrack outside the Twitch Services.
 
 Doing any of the above may subject you to a notice of alleged infringement from rights holders and their agents.
