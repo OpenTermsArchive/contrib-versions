@@ -1,6 +1,3 @@
-Privacy policy
-==============
-
 **Introduction and contents**
 -----------------------------
 
