@@ -303,6 +303,7 @@ The open source software platform that runs everywhere from the smartphone, the 
     
     *   [What is Ceph](https://ubuntu.com/ceph/what-is-ceph)
     *   [Docs](https://ubuntu.com/ceph/docs)
+    *   [Install](https://ubuntu.com/ceph/install)
 *   [Managed](https://ubuntu.com/managed)
     -------------------------------------
     
