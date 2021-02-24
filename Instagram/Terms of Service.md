@@ -5,11 +5,7 @@ Welcome to Instagram!
   
 These Terms of Use (or “Terms”) govern your use of Instagram, except where we expressly state that separate terms (and not these) apply, and provide information about the Instagram Service (the “Service”), outlined below. When you create an Instagram account or use Instagram, you agree to these terms. The Facebook Terms of Service do not apply to this Service.  
   
-Click [here](http://help.instagram.com/1190972084654673) for a Contract Summary and [here](http://help.instagram.com/430517971668717) for other information we are required by the European Electronic Communications Code to provide.  
-  
-If you are a business established in the EU and use Instagram Shopping to sell goods to consumers located in the EU, you can learn more about your commercial relationship with us by reviewing the [Platform to Business Notice](https://www.facebook.com/legal/platformtobusinessnotice) which supplements our Terms of Use.  
-  
-The Instagram Service is one of the [Facebook Products](https://www.facebook.com/help/1561485474074139?ref=igtos), provided to you by Facebook Ireland Limited. These Terms of Use therefore constitute an agreement between you and Facebook Ireland Limited.  
+The Instagram Service is one of the [Facebook Products](https://www.facebook.com/help/1561485474074139?ref=igtos), provided to you by Facebook, Inc. These Terms of Use therefore constitute an agreement between you and Facebook, Inc.  
   
 
 ### **The Instagram Service**
@@ -35,7 +31,7 @@ We agree to provide you with the Instagram Service. The Service includes all of 
     We use data from Instagram and other Facebook Company Products, as well as from third-party partners, to show you ads, offers, and other sponsored content that we believe will be meaningful to you. And we try to make that content as relevant as all your other experiences on Instagram.
     
 *   **Research and innovation.**  
-    We use the information we have to develop, test, and improve our Service and collaborate with others on research to make our Service better and contribute to the well-being of our community. This includes analyzing the data we have about our users and understanding how people use our Services, for example by conducting surveys and testing and troubleshooting new features.
+    We use the information we have to study our Service and collaborate with others on research to make our Service better and contribute to the well-being of our community.
     
 
   
@@ -54,7 +50,7 @@ You may see branded content on Instagram posted by account holders who promote p
 
 ### **The Data Policy**
 
-Providing our Service requires collecting and using your information. The [Data Policy](http://help.instagram.com/519522125107875?helpref=page_content) explains how we collect, use, and share information across the [Facebook Products](https://www.facebook.com/help/1561485474074139?helpref=page_content). It also explains the many ways you can control your information, including in the [Instagram Privacy and Security Settings](http://help.instagram.com/285881641526716?helpref=page_content).
+Providing our Service requires collecting and using your information. The [Data Policy](http://help.instagram.com/519522125107875?helpref=page_content) explains how we collect, use, and share information across the [Facebook Products](https://www.facebook.com/help/1561485474074139?helpref=page_content). It also explains the many ways you can control your information, including in the [Instagram Privacy and Security Settings](http://help.instagram.com/285881641526716?helpref=page_content). You must agree to the Data Policy to use Instagram.
 
   
 
@@ -64,7 +60,7 @@ In return for our commitment to provide the Service, we require you to make the 
 
 **Who Can Use Instagram.** We want our Service to be as open and inclusive as possible, but we also want it to be safe, secure, and in accordance with the law. So, we need you to commit to a few restrictions in order to be part of the Instagram community.
 
-*   You must be at least 13 years old.
+*   You must be at least 13 years old or the minimum legal age in your country to use Instagram.
     
 *   You must not be prohibited from receiving any aspect of our Service under applicable laws or engaging in payments related Services if you are on an applicable denied party listing.
     
@@ -128,7 +124,7 @@ In return for our commitment to provide the Service, we require you to make the 
 
 ### **Content Removal and Disabling or Terminating Your Account**
 
-*   We can remove any content or information you share on the Service if we believe that it violates these Terms of Use, our policies (including our [Instagram Community Guidelines](http://help.instagram.com/477434105621119)), or we are required to do so by law. We can refuse to provide or stop providing all or part of the Service to you (including terminating or disabling your access to the Facebook Products and Facebook Company Products) immediately to protect our community or services, or if you create risk or legal exposure for us, violate these Terms of Use or our policies (including our [Instagram Community Guidelines](http://help.instagram.com/477434105621119)), if you repeatedly infringe other people’s intellectual property rights, or where we are required to do so by law. We can also terminate or change the Service, remove or block content or information shared on our Service, or stop providing all or part of the Service if we determine that doing so is reasonably necessary to avoid or mitigate adverse legal or regulatory impacts on us. In some cases when we remove content, we’ll let you know and explain any options you have to request another review, unless you seriously or repeatedly violate these Terms or if doing so may expose us or others to legal liability; harm our community of users; compromise or interfere with the integrity or operation of any of our services, systems, or products; where we are restricted due to technical limitations; or where we are prohibited from doing so for legal reasons. If you believe your account has been terminated in error, or you want to disable or permanently delete your account, consult our [Help Center](http://help.instagram.com/). When you request to delete content or your account, the deletion process will automatically begin no more than 30 days after your request. It may take up to 90 days to delete content after the deletion process begins. While the deletion process for such content is being undertaken, the content is no longer visible to other users, but remains subject to these Terms of Use and our Data Policy. After the content is deleted, it may take us up to another 90 days to remove it from backups and disaster recovery systems.
+*   We can remove any content or information you share on the Service if we believe that it violates these Terms of Use, our policies (including our [Instagram Community Guidelines](http://help.instagram.com/477434105621119)), or we are permitted or required to do so by law. We can refuse to provide or stop providing all or part of the Service to you (including terminating or disabling your access to the Facebook Products and Facebook Company Products) immediately to protect our community or services, or if you create risk or legal exposure for us, violate these Terms of Use or our policies (including our [Instagram Community Guidelines](http://help.instagram.com/477434105621119)), if you repeatedly infringe other people's intellectual property rights, or where we are permitted or required to do so by law. We can also terminate or change the Service, remove or block content or information shared on our Service, or stop providing all or part of the Service if we determine that doing so is reasonably necessary to avoid or mitigate adverse legal or regulatory impacts on us. If you believe your account has been terminated in error, or you want to disable or permanently delete your account, consult our [Help Center](http://help.instagram.com/). When you request to delete content or your account, the deletion process will automatically begin no more than 30 days after your request. It may take up to 90 days to delete content after the deletion process begins. While the deletion process for such content is being undertaken, the content is no longer visible to other users, but remains subject to these Terms of Use and our Data Policy. After the content is deleted, it may take us up to another 90 days to remove it from backups and disaster recovery systems.
     
 *   Content will not be deleted within 90 days of the account deletion or content deletion process beginning in the following situations:
     
@@ -159,7 +155,7 @@ In return for our commitment to provide the Service, we require you to make the 
 
 **Our Agreement.**
 
-*   Your use of music on the Service is also subject to our [Music Guidelines](https://www.facebook.com/legal/music_guidelines), and your use of our API is subject to our [Facebook Platform Terms and Developer Policies](https://developers.facebook.com/terms). If you use certain other features or related services, you will be provided with an opportunity to agree to additional terms that will also become a part of our agreement. For example, if you use payment features, you will be asked to agree to the [Community Payment Terms](https://www.facebook.com/payments_terms). If any of those terms conflict with this agreement, those other terms will govern.
+*   Your use of music on the Service is also subject to our [Music Guidelines](https://www.facebook.com/legal/music_guidelines), and your use of our API is subject to our [Facebook Platform Terms and Developer Policies](https://developers.facebook.com/terms). If you use certain other features or related services, additional terms will be made available and will also become a part of our agreement. For example, if you use payment features, you will be asked to agree to the [Community Payment Terms](https://www.facebook.com/payments_terms). If any of those terms conflict with this agreement, those other terms will govern.
     
 *   If any aspect of this agreement is unenforceable, the rest will remain in effect.
     
@@ -177,18 +173,19 @@ In return for our commitment to provide the Service, we require you to make the 
 *   Our rights and obligations can be assigned to others. For example, this could occur if our ownership changes (as in a merger, acquisition, or sale of assets) or by law.
     
 
+  
 **Who Is Responsible if Something Happens.**
 
-*   We will use reasonable skill and care in providing our Service to you and in keeping a safe, secure, and error-free environment, but we cannot guarantee that our Service will always function without disruptions, delays, or imperfections. Provided we have acted with reasonable skill and care, we do not accept responsibility for: losses not caused by our breach of these Terms or otherwise by our acts; losses which are not reasonably foreseeable by you and us at the time of entering into these Terms; any offensive, inappropriate, obscene, unlawful, or otherwise objectionable content posted by others that you may encounter on our Service; and events beyond our reasonable control.
+*   Our Service is provided "as is," and we can't guarantee it will be safe and secure or will work perfectly all the time. TO THE EXTENT PERMITTED BY LAW, WE ALSO DISCLAIM ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
     
-*   The above does not exclude or limit our liability for death, personal injury, or fraudulent misrepresentation caused by our negligence. It also does not exclude or limit our liability for any other things where the law does not permit us to do so.
+*   We also don’t control what people and others do or say, and we aren’t responsible for their (or your) actions or conduct (whether online or offline) or content (including unlawful or objectionable content). We also aren’t responsible for services and features offered by other people or companies, even if you access them through our Service.
+    
+*   Our responsibility for anything that happens on the Service (also called "liability") is limited as much as the law will allow. If there is an issue with our Service, we can't know what all the possible impacts might be. You agree that we won't be responsible ("liable") for any lost profits, revenues, information, or data, or consequential, special, indirect, exemplary, punitive, or incidental damages arising out of or related to these Terms, even if we know they are possible. This includes when we delete your content, information, or account.
     
 
 **How We Will Handle Disputes.**
 
-> If a claim or dispute arises out of or relates to your use of the Service as a consumer, both you and us agree that you may resolve your individual claim or dispute against us, and we may resolve our claim or dispute against you, in any competent court in the country of your main residence that has jurisdiction over your claim or dispute, and the laws of that country will apply without regard to conflict of law provisions.  
->   
-> If a claim or dispute arises between us that relates to use of the Service in any other capacity, including, but not limited to, access or use of the Service for a business or commercial purpose, you agree that any such claim or dispute must be resolved in a competent court in Ireland and that Irish law will apply without regard to conflict of law provisions.
+> If you are a consumer, the laws of the country in which you reside will apply to any claim, cause of action, or dispute you have against us that arises out of or relates to these Terms ("claim"), and you may resolve your claim in any competent court in that country that has jurisdiction over the claim. In all other cases, you agree that the claim must be resolved exclusively in the U.S. District Court for the Northern District of California or a state court located in San Mateo County, that you submit to the personal jurisdiction of either of these courts for the purpose of litigating any such claim, and that the laws of the State of California will govern these Terms and any claim, without regard to conflict of law provisions. Without prejudice to the foregoing, you agree that, in its sole discretion, Facebook Inc. may also bring any claim we have against you related to efforts to abuse, interfere, or engage with our products in unauthorized ways in the country in which you reside that has jurisdiction over the claim.
 
 **Unsolicited Material.**
 
@@ -198,6 +195,6 @@ In return for our commitment to provide the Service, we require you to make the 
 
 ### **Updating These Terms**
 
-We may change our Service and policies, and we may need to make changes to these Terms so that they accurately reflect our Service and policies. Unless otherwise required by law, we will notify you (for example, through our Service) at least 30 days before we make changes to these Terms and give you an opportunity to review them before they go into effect. Then, if you continue to use the Service, you will be bound by the updated Terms. If you do not want to agree to these or any updated Terms, you can delete your account, [here](https://help.instagram.com/370452623149242?ref=igtos).  
+We may change our Service and policies, and we may need to make changes to these Terms so that they accurately reflect our Service and policies. Unless otherwise required by law, we will notify you (for example, through our Service) before we make changes to these Terms and give you an opportunity to review them before they go into effect. Then, if you continue to use the Service, you will be bound by the updated Terms. If you do not want to agree to these or any updated Terms, you can delete your account, [here](https://help.instagram.com/370452623149242?ref=igtos).  
 
 Revised: December 20, 2020
