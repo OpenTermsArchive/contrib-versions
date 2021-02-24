@@ -741,18 +741,6 @@ You can also contact our Data Protection Officer at:
 
  DPO@dmgmedia.co.uk 
 
-Alternatively, you can write to them at:
-
-Kemp Little LLP 
-
-F.A.O Data Protection Officer - Associated Newspapers Ltd
-
-Cheapside House, 138 Cheapside, 
-
-London EC2V 6BJ, 
-
-U.K.  
-
 You may also get in touch with us through the technical support option on our [Contact Us](https://www.dailymail.co.uk/home/contactus/article-3701127/Tech-Support.html) page . 
 
 If you would like to contact one of our offices, news desks, customer services or communications team, please click [here](https://www.dailymail.co.uk/home/contactus/index.html).

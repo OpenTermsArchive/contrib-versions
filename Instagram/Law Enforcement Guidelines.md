@@ -71,19 +71,19 @@ Online:
 
 Law enforcement officials seeking Instagram account records must address their request to:
 
-Facebook, Inc.  
-1601 Willow Road  
-Menlo Park, CA 94025  
-United States
+Facebook Ireland Ltd.,  
+4 Grand Canal Square,  
+Dublin 2,  
+Ireland
 
 Law enforcement officials are encouraged to use the Law Enforcement Online Request System at facebook.com/records for the submission, tracking and processing of requests. Please note that a government-issued email address is required to access the Law Enforcement Online Request System.
 
 Mail:
 
-Facebook, Inc.  
+Facebook, Ireland Ltd.,  
 Attn: Law Enforcement Response Team  
-1601 Willow Road  
-Menlo Park, CA 94025
+4 Grand Canal Square  
+Dublin 2, Ireland
 
 _Law enforcement officials who do not submit requests through the Law Enforcement Online Request System at facebook.com/records should expect longer response times._
 
