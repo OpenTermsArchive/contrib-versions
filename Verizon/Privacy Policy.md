@@ -819,6 +819,8 @@ Read
 
 Our Transparency Report provides information about data requests we receive.
 
+[](https://www.verizon.com/about/portal/transparency-report/)
+
 Tips
 
 ### Discover tips to keep your account secure.
@@ -827,6 +829,8 @@ Tips
 
 Protect yourself from frauds and scams.
 
+[](https://www.verizon.com/about/responsibility/account-security)
+
 Read
 
 ### Looking for parenting support in a digital world?
@@ -834,6 +838,8 @@ Read
 [Looking for parenting support in a digital world?](https://www.verizon.com/about/responsibility/parenting-in-a-digital-world)
 
 Navigate tips and advice for your connected family.
+
+[](https://www.verizon.com/about/responsibility/parenting-in-a-digital-world)
 
 ### Contact us with any questions or concerns related to privacy.
 
