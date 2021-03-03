@@ -14,7 +14,7 @@ Introduction
 
 Thanks for using SurveyMonkey’s products, services, websites, and apps which are branded as “SurveyMonkey” (“SurveyMonkey Services”) or “Wufoo” (“Wufoo Services”) (SurveyMonkey Services and Wufoo Services collectively “Services”).
 
-These Terms of Use (“TOU”) contain the terms under which SurveyMonkey and its affiliates provide their Services to you and describe how the Services may be accessed and used. These TOU do not apply to SurveyMonkey Services which are available solely through our [sales](https://www.surveymonkey.com/enterprise/?ut_source=pricing_page&ut_source2=terms-of-use&ut_source3=inline&form_autoload=) channel.
+These Terms of Use (“TOU”) contain the terms under which SurveyMonkey and its affiliates provide their Services to you and describe how the Services may be accessed and used. These TOU do not apply to SurveyMonkey Services which are available solely through our [sales](https://www.surveymonkey.com/enterprise/?form_autoload=&ut_source=pricing_page&ut_source2=terms-of-use&ut_source3=inline) channel.
 
 SurveyMonkey provides a variety of different services. Additional service-specific [terms and policies](https://www.surveymonkey.com/mp/legal/which-terms-apply/) (including rules and guidelines) apply to some Services (“Additional Terms”). Those Additional Terms become a part of your agreement with us if you use those Services. For example, if you use our survey services, the [Survey Platform Terms of Service](https://www.surveymonkey.com/mp/legal/survey-platform-terms-of-service/) apply.
 
@@ -97,7 +97,7 @@ SurveyMonkey may identify you (by name and logo) as a SurveyMonkey Services and/
 
 ### 3.5. Copyright Claims (DCMA Notices).
 
-SurveyMonkey Inc. responds to notices of alleged copyright infringement in accordance with the U.S. Digital Millennium Copyright Act (DMCA). If you believe that your work has been exploited in a way that constitutes copyright infringement, you may [notify SurveyMonkey’s agent for claims of copyright infringement](https://help.surveymonkey.com/articles/en_US/kb/Who-is-your-designated-DMCA-agent?).
+SurveyMonkey Inc. responds to notices of alleged copyright infringement in accordance with the U.S. Digital Millennium Copyright Act (DMCA). If you believe that your work has been exploited in a way that constitutes copyright infringement, you may [notify SurveyMonkey’s agent for claims of copyright infringement](https://help.surveymonkey.com/articles/en_US/kb/Who-is-your-designated-DMCA-agent).
 
 ### 3.6. Other IP Claims.
 
@@ -377,7 +377,7 @@ If you are a consumer: (a) statutory warranties provided in the Law No. 8.078/19
 
 EU1. Right of Withdrawal.
 
-In certain European countries, you have a legal right to cancel Subscriptions within a certain period of time. For details, see the country-specific terms for your country and our [Subscription](https://help.surveymonkey.com/articles/en_US/kb/Subscription-Cancellation-Policy-Europe-only?) [Cancellation Policy (Europe only)](http://help.surveymonkey.com/articles/en_US/kb/Subscription-Cancellation-Policy-Europe-only?). For Wufoo Services, see our [Wufoo Subscription Cancellation Policy and VAT Info (EU Only)](https://help.wufoo.com/articles/en/kb/Wufoo-Subscription-Cancellation-VAT-Policy-EU-Only).
+In certain European countries, you have a legal right to cancel Subscriptions within a certain period of time. For details, see the country-specific terms for your country and our [Subscription](https://help.surveymonkey.com/articles/en_US/kb/Subscription-Cancellation-Policy-Europe-only) [Cancellation Policy (Europe only)](http://help.surveymonkey.com/articles/en_US/kb/Subscription-Cancellation-Policy-Europe-only). For Wufoo Services, see our [Wufoo Subscription Cancellation Policy and VAT Info (EU Only)](https://help.wufoo.com/articles/en/kb/Wufoo-Subscription-Cancellation-VAT-Policy-EU-Only).
 
 EU2. GDPR Terms for Customers
 
@@ -483,7 +483,7 @@ Section 11.3 (Limitation of Liability) does not apply to you if you are a consum
 
 DE1. Right of Withdrawal.
 
-If you are a consumer, you may withdraw your contractual declaration within 14 days without giving reasons in text form (e.g. by mail, fax, email). The time period commences upon your receipt of this information notice in textual form, but not before the conclusion of the contract and also not before we have met our information requirements as set forth under Article 246 § 2 in conjunction with § 1 paragraph 1 and 2 of the Introductory Act to the German Civil Code and our information requirements under § 312 g paragraph 1, first sentence German Civil Code in conjunction with Article 246 § 3 of the Introductory Act to the German Civil Code. Punctual dispatch of the declaration of withdrawal suffices to observe the withdrawal period. The declaration of withdrawal has to be directed to our customer support team by email to [support@surveymonkey.com](mailto:support@surveymonkey.com?ut_source=legal&ut_source2=terms-of-use&ut_source3=inline) or through our [Help Center](https://help.surveymonkey.com/?l=en).
+If you are a consumer, you may withdraw your contractual declaration within 14 days without giving reasons in text form (e.g. by mail, fax, email). The time period commences upon your receipt of this information notice in textual form, but not before the conclusion of the contract and also not before we have met our information requirements as set forth under Article 246 § 2 in conjunction with § 1 paragraph 1 and 2 of the Introductory Act to the German Civil Code and our information requirements under § 312 g paragraph 1, first sentence German Civil Code in conjunction with Article 246 § 3 of the Introductory Act to the German Civil Code. Punctual dispatch of the declaration of withdrawal suffices to observe the withdrawal period. The declaration of withdrawal has to be directed to our customer support team by email to [support@surveymonkey.com](https://www.surveymonkey.com/mp/legal/terms-of-use/support@surveymonkey.com?ut_source=legal&ut_source2=terms-of-use&ut_source3=inline) or through our [Help Center](https://help.surveymonkey.com/?l=en).
 
 DE2. Consequences of Withdrawal.
 
