@@ -46,7 +46,15 @@ We will remove such content and take appropriate action, which may include repor
 
 Circumvention
 
-Do not engage in actions intended to bypass our policies or subvert restrictions placed on your account. This includes the creation or use of multiple accounts or other methods intended to engage in behaviour that was previously prohibited. We may take appropriate action if we are notified of circumvention, which may include removing access to some of our products or disabling your Google Account.
+Do not engage in actions intended to bypass our policies, subvert restrictions placed on your account, or distribute content removed in [other Google products](https://policies.google.com/terms/service-specific).
+
+This includes, but is not limited to:
+
+*   Creating or using multiple accounts or other methods intended to engage in a behaviour that was previously prohibited.
+*   Publicly sharing apps suspended by [Google Play Developer Policies](https://play.google.com/about/developer-content-policy/).
+*   Publicly sharing videos that do not comply with the [YouTube Community Guidelines](https://www.youtube.com/howyoutubeworks/policies/community-guidelines/).
+
+We may take appropriate action if we are notified of circumvention, which may include restricting the sharing of files, removing access to some of our products or disabling your Google Account.
 
 Dangerous and illegal activities
 
@@ -179,8 +187,8 @@ Copyright infringement
 
 Respect copyright laws. Do not share copyrighted content without authorisation or provide links to sites where people can obtain unauthorised downloads of copyrighted content. It is our policy to respond to clear notices of alleged copyright infringement. Repeated infringement of intellectual property rights, including copyright, will result in account termination. If you see a violation of Google's copyright policies, [report copyright infringement](https://support.google.com/legal/troubleshooter/1114905).
 
-Content distribution and YouTube circumvention policy
+Content distribution 
 
-Do not use Drive as a replacement for a content distribution network. For broad video distribution, YouTube is a better fit. Drive will restrict usage and access when it appears that it's being used for broad video distribution.  If you use Drive to share a video widely or share a link to a video that anyone can access, that video content must also comply with [YouTube Community Guidelines](https://www.youtube.com/howyoutubeworks/policies/community-guidelines/).
+Google Drive allows you to store, share and stream video content, but should not be used as a replacement for a content distribution network. For large-scale public streaming, YouTube is a better fit. Google Drive will restrict usage when it appears that it's being used for large-scale public streaming. Repeated violations may result in additional action, including terminating your account or your ability to use Google Drive.
 
 Translations of our policies are provided for your convenience. If there is a conflict between the text of this policy and the text of the English-language version of the policy, the text of the English-language version of the policy will take precedence.
