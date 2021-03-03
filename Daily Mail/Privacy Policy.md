@@ -551,6 +551,8 @@ This section of the Policy applies to:
 
 In certain circumstances, for example if you are a Brazil resident, you may exercise the rights available to you (with some exceptions and restrictions) under the LGPD. Please see Section 9 above for details of the rights of information, access, portability, deletion, correction, revoke consent for direct marketing and opt-out of online behavioural advertising. Also, see Section 9 above for details of how to exercise your rights. Please include in your request that you are making your request under the LGPD.
 
+ [](https://www.dailymail.co.uk/home/contactus/index.html)
+
 12. Data retention and account deletion
 ---------------------------------------
 
@@ -634,7 +636,7 @@ We may combine information collected by analytics cookies with other information
 
 We may also use this combined information to improve our products and services. For instance, we may analyse this information in aggregate to improve our advertising systems. 
 
-Our properties may also feature Nielsen proprietary measurement software, which will allow you to contribute to market research, such as Nielsen TV Ratings. To learn more about the information that Nielsen software may collect and your choices with regard to it, please see the Nielsen Digital Measurement [Privacy Policy](https://priv-policy.imrworldwide.com/priv/browser/us/en/optout.html).  
+Our properties may also feature Nielsen proprietary measurement software, which will allow you to contribute to market research, such as Nielsen TV Ratings. To learn more about the information that Nielsen software may collect and your choices with regard to it, please see the Nielsen Digital Measurement [Privacy Policy](https://priv-policy.imrworldwide.com/priv/browser/us/en/optout.html). [](https://priv-policy.imrworldwide.com/priv/browser/us/en/optout.html) 
 
 *   Cookies used to show advertising that is relevant to you (Tracking and Advertising) 
 
