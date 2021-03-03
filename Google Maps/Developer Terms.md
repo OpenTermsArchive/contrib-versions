@@ -342,6 +342,28 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   This Service includes [mapping data](https://www.osi.ie/about/open-data/) in modified form licensed from Ordnance Survey Ireland under a [Creative Commons Attribution 4.0 licence](https://creativecommons.org/licenses/by/4.0/legalcode), which includes disclaimers of warranties. © Ordnance Survey Ireland.
             
+        *   This Service includes mapping data from [https://www.transportforireland.ie/transitData/google\_transit\_irishrail.zip](https://www.transportforireland.ie/transitData/google_transit_irishrail.zip) \[in an adapted form\] licensed under a Creative Commons Attribution 4.0 licence, which includes disclaimers of warranties. © Iarnród Éireann - Irish Rail.
+            
+        *   This Service includes mapping data from [www.transportforireland.ie/transitData/google\_transit\_aircoach.zip](https://www.transportforireland.ie/transitData/google_transit_aircoach.zip) \[in an adapted form\] licensed under a Creative Commons Attribution 4.0 licence, which includes disclaimers of warranties. © Aircoach.
+            
+        *   This Service includes mapping data from [http://www.transportforireland.ie/transitData/google\_transit\_ashbourneconnect.zip](https://www.transportforireland.ie/transitData/google_transit_ashbourneconnect.zip) \[in an adapted form\] licensed under a Creative Commons Attribution 4.0 licence, which includes disclaimers of warranties. © Ashbourne Connect.
+            
+        *   This Service includes mapping data from [http://www.transportforireland.ie/transitData/google\_transit\_dualway.zip](https://www.transportforireland.ie/transitData/google_transit_dualway.zip) \[in an adapted form\] licensed under a Creative Commons Attribution 4.0 licence, which includes disclaimers of warranties. © Dualway.
+            
+        *   This Service includes mapping data from [https://www.transportforireland.ie/transitData/google\_transit\_dublincoach.zip](https://www.transportforireland.ie/transitData/google_transit_dublincoach.zip) \[in an adapted form\] licensed under a Creative Commons Attribution 4.0 licence, which includes disclaimers of warranties. © Dublin Coach.
+            
+        *   This Service includes mapping data from [https://www.transportforireland.ie/transitData/google\_transit\_sro.zip](https://www.transportforireland.ie/transitData/google_transit_sro.zip) \[in an adapted form\] licensed under a Creative Commons Attribution 4.0 licence, which includes disclaimers of warranties. © GoBus.ie.
+            
+        *   This Service includes mapping data from [https://www.transportforireland.ie/transitData/google\_transit\_citylink.zip](https://www.transportforireland.ie/transitData/google_transit_citylink.zip) \[in an adapted form\] licensed under a Creative Commons Attribution 4.0 licence, which includes disclaimers of warranties. © Irish Citylink.
+            
+        *   This Service includes mapping data from [https://www.transportforireland.ie/transitData/google\_transit\_buseireann.zip](https://www.transportforireland.ie/transitData/google_transit_buseireann.zip) \[in an adapted form\] licensed under a Creative Commons Attribution 4.0 licence, which includes disclaimers of warranties. © Bus Éireann.
+            
+        *   This Service includes mapping data from [https://www.transportforireland.ie/transitData/google\_transit\_dublinbus.zip](https://www.transportforireland.ie/transitData/google_transit_dublinbus.zip) \[in an adapted form\] licensed under a Creative Commons Attribution 4.0 licence, which includes disclaimers of warranties. © Dublin Bus.
+            
+        *   This Service includes mapping data from [https://www.transportforireland.ie/transitData/google\_transit\_expressbus.zip](https://www.transportforireland.ie/transitData/google_transit_expressbus.zip) \[in an adapted form\] licensed under a Creative Commons Attribution 4.0 licence, which includes disclaimers of warranties. © Express Bus (Dublin).
+            
+        *   This Service includes mapping data from [https://www.transportforireland.ie/transitData/google\_transit\_luas.zip](https://www.transportforireland.ie/transitData/google_transit_luas.zip) \[in an adapted form\] licensed under a Creative Commons Attribution 4.0 licence, which includes disclaimers of warranties. © Transdev.
+            
     18.  **Isle of Man**
         
         Isle of Man Government
@@ -379,9 +401,9 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   この地図の作成にあたり、平凡社と平凡社地図出版からのライセンス提供を受けています。
             
-        *   交承 平成 25 年 110 号 JR データの内容は、株式会社交通新聞社発行の「JR 時刻表」([https://www.kotsu.co.jp/jrlogo/](https://www.kotsu.co.jp/jrlogo/)) 令和3年 2 月号に基づ いています。この時刻データを無断で転載・複写し、又は紙媒体、電磁媒体その他いかなる媒体に加工することも禁じます。
+        *   交承 平成 25 年 110 号 JR データの内容は、株式会社交通新聞社発行の「JR 時刻表」([https://www.kotsu.co.jp/jrlogo/](https://www.kotsu.co.jp/jrlogo/)) 令和3年 3 月号に基づ いています。この時刻データを無断で転載・複写し、又は紙媒体、電磁媒体その他いかなる媒体に加工することも禁じます。
             
-        *   JRバスデータの内容は、株式会社交通新聞社作成のデータ令和3年 2 月分に基づいています。この時刻データを無断転載・複写や電磁媒体等に加工することを禁じます。
+        *   JRバスデータの内容は、株式会社交通新聞社作成のデータ令和3年 3 月分に基づいています。この時刻データを無断転載・複写や電磁媒体等に加工することを禁じます。
             
         *   インクリメントP（株）の提供する地図データに基づいています。この地図データは世界各国の著作権法および国際的な著作権協定によって保護されています。Googleの利用規約類およびポリシーにより認められている場合を除き、当該データを無断転載／複写又は加工することを禁じます。[https://business.mapfan.com/aboutmap/](https://business.mapfan.com/aboutmap/)
             
