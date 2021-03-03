@@ -6,11 +6,11 @@ Google Publisher Restrictions
 
 [](https://support.google.com/adsense/answer/9335564?hl=en&ref_topic=1250104)[Next: Understand the Google Publisher Policies and Google Publisher Restrictions](https://support.google.com/adsense/answer/10008391?hl=en&ref_topic=1250104)
 
-Google helps to enable a free and open internet by providing the ability for publishers to monetize their content and for advertisers to reach prospective customers with useful, relevant products and services.
-
 Publisher restrictions identify content that is restricted from receiving certain sources of advertising. By content, we mean anything present on your page or app - including other advertisements and links to other sites or apps. If your content is labeled with an inventory restriction, fewer advertising sources will be eligible to bid on it. In some cases this will mean that no advertising sources are bidding on your inventory and no ads will appear on your content. Please note that Google Ads (formerly AdWords) advertisements will not serve on content labeled with these restrictions. Therefore, while you can choose to monetize content covered by these Google Publisher Restrictions, this content will likely receive less advertising than other, nonrestricted content.
 
 These restrictions apply in addition to any other policies governing your use of Google publisher products.
+
+Google helps to enable a free and open internet by providing the ability for publishers to monetize their content and for advertisers to reach prospective customers with useful, relevant products and services.
 
 Sexual content
 --------------
