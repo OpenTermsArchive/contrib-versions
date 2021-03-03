@@ -1,7 +1,7 @@
 **Privacy Policy**
 ==================
 
-(If you are a user having your usual residence in the European Economic Area (EEA) or the UK, or Switzerland)
+(If you are a user having your usual residence in the European Economic Area (EEA) or the United Kingdom, or Switzerland)
 
 _Last updated: July 2020_
 
