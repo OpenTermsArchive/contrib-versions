@@ -274,10 +274,8 @@ In order to respond to your inquiries, Vinted provides your data to service part
 5.  Transcom Worldwide Portugal, S.L.U (Portugal) (if you use our .fr Platform);
 6.  Transcom Worldwide Albania SH.P.K. (Albania) (if you use our .fr Platform);
 7.  Transcom Worldwide Tunis Sarl (Tunisia) (if you use our .fr, .es, .be, .nl, .lu, .de or .at Platforms);
-8.  Tunis Call Center (Tunisia) (if you use our .fr Platform);
-9.  Phoneact S.A.R.L (Tunisia) (if you use our .fr Platform);
-10.  Conectys Serv Telecom SRL (Romania) (if you use our .fr Platform);
-11.  UAB „Planas chuliganas” (Lithuania) (if you use our .fr, .es, .be, .nl, .lu, .de or .at Platforms).
+8.  Phoneact S.A.R.L (Tunisia) (if you use our .fr Platform);
+9.  UAB „Planas chuliganas” (Lithuania) (if you use our .fr, .es, .be, .nl, .lu, .de or .at Platforms).
 
 If you receive customer support on our .fr, .es, .be, .nl, .lu, .de or .at Platform, this results in your data being shared with our customer support agents outside the European Economic Area. In this case the data is protected by the service providers entering into the [EU standard contractual clauses](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010D0087&from=en) for the transfer of data as approved by the European Commission.
 
