@@ -8,7 +8,7 @@ What’s covered in these terms
 
 ### We know it’s tempting to skip these Terms of Service, but it’s important to establish what you can expect from us as you use Google [services](https://policies.google.com/terms?hl=en-GB#footnote-services), and what we expect from you.
 
-These Terms of Service reflect [the way that Google’s business works](https://about.google/intl/en-GB_MU/how-our-business-works), the laws that apply to our company, and [certain things that we’ve always believed to be true](https://www.google.com/about/philosophy.html?hl=en_GB). As a result, these Terms of Service help define Google’s relationship with you as you interact with our services. For example, these terms include the following topic headings:
+These Terms of Service reflect [the way that Google’s business works](https://about.google/intl/en-GB_QA/how-our-business-works), the laws that apply to our company, and [certain things that we’ve always believed to be true](https://www.google.com/about/philosophy.html?hl=en_GB). As a result, these Terms of Service help define Google’s relationship with you as you interact with our services. For example, these terms include the following topic headings:
 
 *   [What you can expect from us](https://policies.google.com/terms?hl=en-GB#toc-what-you-expect), which describes how we provide and develop our services
 *   [What we expect from you](https://policies.google.com/terms?hl=en-GB#toc-what-we-expect), which establishes certain rules for using our services
@@ -60,7 +60,7 @@ Contents
 Your relationship with Google
 =============================
 
-These terms help define the relationship between you and Google. Broadly speaking, we give you permission to use our [services](https://policies.google.com/terms?hl=en-GB#footnote-services) if you agree to follow these terms, which reflect [how Google’s business works and how we earn money](https://about.google/intl/en-GB_MU/how-our-business-works). When we speak of 'Google', 'we', 'us' and 'our', we mean Google LLC and its [affiliates](https://policies.google.com/terms?hl=en-GB#footnote-affiliates).
+These terms help define the relationship between you and Google. Broadly speaking, we give you permission to use our [services](https://policies.google.com/terms?hl=en-GB#footnote-services) if you agree to follow these terms, which reflect [how Google’s business works and how we earn money](https://about.google/intl/en-GB_QA/how-our-business-works). When we speak of 'Google', 'we', 'us' and 'our', we mean Google LLC and its [affiliates](https://policies.google.com/terms?hl=en-GB#footnote-affiliates).
 
 What you can expect from us
 ---------------------------
