@@ -1,7 +1,7 @@
 **Terms of Service**
 ====================
 
-(If you are a user having your residence in the EEA, Switzerland and the United Kingdom)
+(If you are a user having your residence in the EEA, the United Kingdom or Switzerland)
 
 _Last updated: July 2020_
 
