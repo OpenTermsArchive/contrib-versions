@@ -6,11 +6,11 @@ Google Publisher Policies
 
 [](https://support.google.com/adsense/answer/1282103?hl=en&ref_topic=1250104)[Next: Google Publisher Restrictions](https://support.google.com/adsense/answer/9335567?hl=en&ref_topic=1250104)
 
-Google helps to enable a free and open web by helping publishers monetize their content and advertisers reach prospective customers with useful, relevant products and services. Maintaining trust in the ads ecosystem requires setting limits on what we will monetize.
-
 When you monetize your content with Google ad code you are required to adhere to the following policies. By content we mean anything present on your page or app - including other advertisements and links to other sites or apps. Failure to comply with these policies may result in Google blocking ads from appearing against your content, or suspending or terminating your account.
 
 These restrictions apply in addition to any other policies governing your use of Google publisher products.
+
+Google helps to enable a free and open web by helping publishers monetize their content and advertisers reach prospective customers with useful, relevant products and services. Maintaining trust in the ads ecosystem requires setting limits on what we will monetize.
 
 Illegal content
 ---------------
