@@ -135,7 +135,7 @@ Addicting Games, Inc.
 Suite 200, 15332 Antioch Street  
 Los Angeles, California 9027  
 Attn: California Privacy  
-E-mail: [\[email protected\]](http://www.shockwave.com/cdn-cgi/l/email-protection)
+E-mail: [\[email protected\]](http://www.shockwave.com/cdn-cgi/l/email-protection)games.com
 
 The California Business & Professions Code Section 22575(b) (as amended effective January 1, 2014) provides that California residents are entitled to know how the Site responds to âDo Not Trackâ browser settings. The Site does not currently take action to respond to Do Not Track signals, as a uniform technological standard has not yet been developed and we do not respond to such signals. We continue to review new technologies and reserve the right to adopt a standard once one is created.
 
