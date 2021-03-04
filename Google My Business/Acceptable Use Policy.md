@@ -12,7 +12,7 @@ For best results using Google My Business:
 *   Choose the fewest number of categories that it takes to describe your overall core business.
 *   There should only be one profile per business, as this can cause problems with how your information displays on Google Maps and Search.
 
-Brands, organisations, artists and other online-only businesses aren't eligible for Google My Business listings.
+Brands, organisations, artists and other online-only businesses aren't eligible for Google My Business Profiles.
 
 |     |
 | --- |
