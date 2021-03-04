@@ -9,6 +9,24 @@ Please read each of these documents carefully. Together, these documents are kno
 
 If these Google My Business Additional Terms conflict with [the Google Terms of Service](https://policies.google.com/terms), these Google My Business Additional Terms will govern for the Google My Business Services. 
 
+What we expect from you
+-----------------------
+
+You are responsible for the entity listed on your Business Profile, which means that in addition to following the basic rules of conduct in [the Google Terms of Service](https://policies.google.com/terms), you must, when using the Google My Business Services:
+
+*   Comply with applicable laws and industry best practices when operating and promoting your entity, including obtaining all applicable licences and approvals.
+*   Ensure that your content is correct, up to date and complete.
+*   Supply all required disclaimers, warnings and notices (or if you rely on any supplied by Google, ensure their sufficiency for your entity); and
+*   Comply with [these policies](https://support.google.com/business/answer/7667250) which apply to the Google My Business Services.  
+     
+
+Access to your content
+----------------------
+
+You'll maintain access to your content in Google My Business Services in accordance with the functionality described [here](https://support.google.com/business/answer/3038063). You can [download a copy of your content](https://support.google.com/accounts/answer/3024190) any time.
+
+Although it’s not a part of these Terms, we encourage you to read [our Privacy Policy](https://policies.google.com/privacy) to better understand how you can [update, manage, export and delete your information](http://account.google.com/).
+
 Age and relationship
 --------------------
 
@@ -21,22 +39,15 @@ Binding others
 
 You must bind any users that manage or subsequently own your Business Profile to these terms before making them managers or owners.
 
-What we expect from you
------------------------
+Changes to the Terms
+--------------------
 
-You're responsible for the entity listed on your Business Profile, which means that in addition to following the basic rules of conduct in [the Google Terms of Service](https://policies.google.com/terms), you must, when using the Google My Business Services:
+If we materially change the Terms, we’ll provide you with no less than 15 days advance notice, if required by applicable law.
 
-*   Comply with applicable laws and industry best practices when operating and promoting your entity, including obtaining all applicable licences and approvals.
-*   Ensure that your content is correct, up to date and complete.
-*   Supply all required disclaimers, warnings and notices (or if you rely on any supplied by Google, ensure their sufficiency for your entity); and
-*   Comply with [these policies](https://support.google.com/business/answer/7667250) which apply to the Google My Business Services.
+Google access
+-------------
 
-Your content
-------------
-
-While Google isn't responsible for your Business Profile or the entity listed on your Business Profile, once you've claimed, you understand that we have the right, but not the obligation, to moderate the content that you provide to your Business Profile using Google My Business Services. 
-
-We’re constantly striving to ensure that information in your Business Profile is complete, relevant and up to date, so that the business details displayed on Google are as useful as possible for you and our users. This means that occasionally, we may choose not to display your content (for example, if trusted signals indicate that your content is not accurate), or we may choose to show only an edited version of your content or to show content from an alternative source in place of your content. You can find more information about how Google sources and displays information in local listings [here](https://support.google.com/business/answer/2721884). 
+If you authorise us to do so, we may access your account to help you manage your Business Profile and account.
 
 Licence
 -------
@@ -54,17 +65,10 @@ Other products/services
 
 You may be provided access to other products/services within your account. These products/services may be subject to their own separate terms and policies, which will be made available to you.
 
-Google access
--------------
+Settling disputes
+-----------------
 
-If you authorise us to do so, we may access your account to help you manage your Business Profile and account.
-
-Access to your content
-----------------------
-
-You'll maintain access to your content in Google My Business Services in accordance with the functionality described [here](https://support.google.com/business/answer/3038063). You can [download a copy of your content](https://support.google.com/accounts/answer/3024190) any time.
-
-Although it’s not a part of these Terms, we encourage you to read [our Privacy Policy](https://policies.google.com/privacy) to better understand how you can [update, manage, export and delete your information](http://account.google.com/).
+If you're a business user based in the EU or the United Kingdom, you can also apply to resolve a dispute under these Terms with mediation. Find more details about the mediators that we're willing to engage with and instructions about how to [request mediation here](http://g.co/help/mediation). Except as required by applicable law, mediation is voluntary and neither you nor Google are obliged to settle disputes through mediation.
 
 Taking action in case of problems
 ---------------------------------
@@ -76,12 +80,9 @@ Questions or complaints
 
 If you have any questions or complaints regarding Google My Business Services. please visit our [Help Centre](https://support.google.com/business/) or you can [contact us](https://support.google.com/business/gethelp). If you believe your access to Google My Business Services has been suspended or terminated in error, you can [appeal](https://support.google.com/business/answer/4569145).
 
-Settling disputes
------------------
+Your content
+------------
 
-If you're a business user based in the EU or the United Kingdom, you can also apply to resolve a dispute under these Terms with mediation. Find more details about the mediators that we're willing to engage with and instructions about how to [request mediation here](http://g.co/help/mediation). Except as required by applicable law, mediation is voluntary and neither you nor Google are obliged to settle disputes through mediation.
+While Google isn't responsible for your Business Profile or the entity listed on your Business Profile, once you've claimed, you understand that we have the right, but not the obligation, to moderate the content that you provide to your Business Profile using Google My Business Services. 
 
-Changes to the Terms
---------------------
-
-If we materially change the Terms, we’ll provide you with no less than 15 days advance notice, if required by applicable law.
+We’re constantly striving to ensure that information in your Business Profile is complete, relevant and up to date, so that the business details displayed on Google are as useful as possible for you and our users. This means that occasionally, we may choose not to display your content (for example, if trusted signals indicate that your content is not accurate), or we may choose to show only an edited version of your content or to show content from an alternative source in place of your content. [Learn more about how Google sources and displays information in local profiles](https://support.google.com/business/answer/2721884).
