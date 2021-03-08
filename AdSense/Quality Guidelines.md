@@ -14,7 +14,7 @@ General Guidelines
 *   Provide a [sitemap file](http://sitemaps.org/) with links that point to the important pages on your site. Also provide a page with a human-readable list of links to these pages (sometimes called a site index or site map page).
 *   Limit the number of links on a page to a reasonable number (a few thousand at most).
 *   Make sure that your web server correctly supports the `If-Modified-Since` HTTP header. This feature directs your web server to tell Google if your content has changed since we last crawled your site. Supporting this feature saves you bandwidth and overhead.
-*   Use the robots.txt file on your web server to manage your crawling budget by preventing crawling of infinite spaces such as search result pages. Keep your robots.txt file up to date. [Learn how to manage crawling with the robots.txt file](https://developers.google.com/webmasters/control-crawl-index/docs/faq). Test the coverage and syntax of your robots.txt file using the [robots.txt testing tool](https://www.google.com/webmasters/tools/robots-testing-tool).
+*   Use the robots.txt file on your web server to manage your crawling budget by preventing crawling of infinite spaces such as search result pages. Keep your robots.txt file up to date. [Learn how to manage crawling with the robots.txt file](https://support.google.com/search/docs/advanced/robots/robots-faq). Test the coverage and syntax of your robots.txt file using the [robots.txt testing tool](https://www.google.com/webmasters/tools/robots-testing-tool).
 
 **Ways to help Google find your site:**
 
@@ -27,7 +27,7 @@ General Guidelines
 *   Think about the words users would type to find your pages, and make sure that your site actually includes those words within it.
 *   Ensure that your `<title>` elements and `alt` attributes are descriptive, specific, and accurate.
 *   Design your site to have a clear conceptual page hierarchy.
-*   Follow our recommended best practices for [images](https://support.google.com/search/docs/advanced/guidelines/google-images), [video](https://support.google.com/search/docs/advanced/guidelines/video), and [structured data](https://developers.google.com/structured-data/).
+*   Follow our recommended best practices for [images](https://support.google.com/search/docs/advanced/guidelines/google-images), [video](https://support.google.com/search/docs/advanced/guidelines/video), and [structured data](https://support.google.com/search/docs/guides/intro-structured-data).
 *   When using a content management system (for example, Wix or WordPress), make sure that it creates pages and links that search engines can crawl.
 *   To help Google fully understand your site's contents, allow all site assets that would significantly affect page rendering to be crawled: for example, CSS and JavaScript files that affect the understanding of the pages. The Google indexing system renders a web page as the user would see it, including images, CSS, and JavaScript files. To see which page assets that Googlebot cannot crawl use the [URL Inspection tool](https://support.google.com/webmasters/answer/9012289); to debug directives in your robots.txt file, use the [robots.txt Tester](https://support.google.com/webmasters/answer/6062598) tool.
 *   Allow search bots to crawl your site without session IDs or URL parameters that track their path through the site. These techniques are useful for tracking individual user behavior, but the access pattern of bots is entirely different. Using these techniques may result in incomplete indexing of your site, as bots may not be able to eliminate URLs that look different but actually point to the same page.
@@ -74,7 +74,7 @@ If you believe that another site is abusing Google's quality guidelines, please 
 *   Loading pages with [irrelevant keywords](https://support.google.com/search/docs/advanced/guidelines/irrelevant-keywords)
 *   Creating pages with [malicious behavior](https://support.google.com/search/docs/advanced/guidelines/malicious-behavior), such as phishing or installing viruses, trojans, or other badware
 *   Abusing [structured data](https://support.google.com/search/docs/guides/sd-policies) markup
-*   Sending [automated queries](https://support.google.com/webmasters/answer/66357) to Google
+*   Sending [automated queries](https://support.google.com/search/docs/advanced/guidelines/automated-queries) to Google
 
 **Follow** good practices like these:
 
