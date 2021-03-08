@@ -1,3 +1,8 @@
+Privacy Policy
+==============
+
+The information we collect, why we use it, who we share it with, and how we protect it, along with the tools you can use to manage your privacy.
+
 **Effective Date:** January 29, 2021
 
 When you use Zillow Group services to find, buy, rent, or sell your home, get a mortgage, or connect to a real estate pro, we know you’re trusting us with your data. We also know we have a responsibility to respect your privacy, and we work hard to do just that.  This policy explains what information we collect, why we use it, who we share it with, and how we protect it, along with the tools you can use to manage your privacy.
