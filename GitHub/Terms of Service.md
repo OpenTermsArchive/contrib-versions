@@ -200,7 +200,7 @@ Some Service features may be subject to additional terms specific to that featur
 
 ### [J. Beta Previews](#j-beta-previews)
 
-**Short version:** _Beta Previews may not be supported or may change at any time, you may receive confidential information through those programs that must remain confidential while the program is private, and we'd love your feedback to make our Beta Previews better._
+**Short version:** _Beta Previews may not be supported or may change at any time. You may receive confidential information through those programs that must remain confidential while the program is private. We'd love your feedback to make our Beta Previews better._
 
 #### [1\. Subject to Change](#1-subject-to-change)
 
