@@ -138,7 +138,7 @@ While our goal is to prevent any unauthorized disclosure of PII, Windstream cann
 M. Contact Us
 -------------
 
-If you have questions, concerns, or complaints about this Statement or Windstream’s privacy practices, please contact a Windstream customer care representative; email us at [\[email protected\]](https://www.windstream.com/cdn-cgi/l/email-protection#8ef9e7e0eafdfafcebefe3a0fefce7f8efedf7a0fdfaeffaebe3ebe0facef9e7e0eafdfafcebefe3a0ede1e3); or write to us at Windstream Services, LLC, ATTN: Legal Department, 4001 Rodney Parham Road, Little Rock, Arkansas 72212. We will respond to your inquiries in a timely manner.
+If you have questions, concerns, or complaints about this Statement or Windstream’s privacy practices, please contact a Windstream customer care representative; email us at [\[email protected\]](https://www.windstream.com/cdn-cgi/l/email-protection#90e7f9fef4e3e4e2f5f1fdbee0e2f9e6f1f3e9bee3e4f1e4f5fdf5fee4d0e7f9fef4e3e4e2f5f1fdbef3fffd); or write to us at Windstream Services, LLC, ATTN: Legal Department, 4001 Rodney Parham Road, Little Rock, Arkansas 72212. We will respond to your inquiries in a timely manner.
 
 N. Definitions
 --------------
