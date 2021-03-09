@@ -265,6 +265,9 @@ Pour en savoir plus sur la Solution de Crédit - "Payez en plusieurs fois", [cli
 (xi)         Par carte(s) cadeau(x) ILLICADO : Vous pouvez également utiliser une ou plusieurs carte(s) cadeau(x) ILLICADO pour le paiement de tout ou partie de votre commande, dans la limite de deux-cents cinquante (250) euros (produits de la Marketplace inclus, à l’exception des produits dématérialisés et des offres de services tels que, notamment : voyages, forfaits mobiles, électricité/fioul, billetterie, etc.). Pour en savoir plus sur ce mode de paiement, [cliquez ici](https://www.illicado.com/utilisation-carte).
 
 En cas d'abandon, de rétractation, ou tout autre motif d’annulation d’une commande payée par carte(s) cadeau(x) ILLICADO, les sommes débitées sur la ou les carte(s) cadeau(x) ILLICADO utilisée(s) seront remboursées sous forme d’un ou plusieurs bon(s) d’achat, disponible(s) dans votre espace client et utilisable sur le Site pendant un (1) an.  
+  
+(xii) Paiement par virement sécurisé par Bridge powered by Bankin’ : ce mode de paiement n’est disponible que pour les règlements effectués depuis la plateforme de recouvrement de Cdiscount. Vous avez la possibilité de régulariser votre commande par virement bancaire en validant votre demande de virement directement depuis l’interface de votre banque, grâce à la solution Bridge powered by Bankin’, éditée par Perspecteev SAS - société par actions simplifiée immatriculée au RCS Paris numéro B 529 196 313 dont le siège social est 4 rue de la Pierre Levée - 75011 Paris. Perspecteev est un établissement de paiement agréé par l'ACPR sous le numéro 16918P, et est immatriculé à l'ORIAS sous le numéro 18003177 en tant que mandataire d'intermédiaire d'assurance. Perspecteev ne peut être assimilé à un établissement de crédit. Pour en savoir plus sur ce mode de paiement, [cliquez ici](https://pay.bridgeapi.io/docs/mention-information.pdf).  
+  
 
 **Généralités**
 
