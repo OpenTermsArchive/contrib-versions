@@ -40,4 +40,4 @@ You may see a cookie message when you first visit ulster.ac.uk. We'll store a co
 
 We use live chat software on our website, this is provided by Click4Assistance, a 3rd party UK based Software Company.
 
-Information regarding how the data is processed and stored can be viewed [here](https://www.click4assistance.co.uk/click4assistance-web-chat-software-cookie-policy).
+Get more information about [how the data is processed and stored](https://www.click4assistance.co.uk/click4assistance-web-chat-software-cookie-policy).
