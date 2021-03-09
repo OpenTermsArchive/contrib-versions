@@ -1,7 +1,7 @@
 Websites, Communications & Cookies Privacy Notice
 =================================================
 
-January 8, 2021
+March 8, 2021
 
 We care about your privacy. When Mozilla (that's us) collects information about you, our [Mozilla Privacy Policy](https://www.mozilla.org/privacy/) describes how we handle that information.
 
@@ -70,6 +70,6 @@ Some Mozilla websites allow you to make purchases (such as apps or gear), contri
 
 *   **Payment Processing**: Except for payments made by check, money order, and direct debit, and wire transfers, Mozilla does not receive any financial information, which is transmitted from you to the named third party vendor for processing (e.g., Braintree, PayPal, Bitpay, Stripe).
     
-*   **Personal Data**: We may also receive your name, mailing address, and/or email address. This data is used for fraud detection and record-keeping. We use [SalesForce Marketing Cloud](https://www.marketingcloud.com/privacy-policy/website-privacy-statement/) to email receipts and store records, which are retained for four years from the date of last payment.
+*   **Personal Data**: We may also receive your name, mailing address, and/or email address. This data is used for fraud detection and record-keeping. We use [Acoustic](https://acoustic.com/privacy-notice/) to email receipts and store records, which are retained for four years from the date of last payment.
     
 *   **Third Party Data**: We use [WealthEngine](https://www.wealthengine.com/wealthengine-inc-privacy-policy/) to improve our fundraising efforts to keep the internet healthy, open, and accessible for all. Donors can [opt-out](https://app.onetrust.com/app/#/webform/4ba08202-2ede-4934-a89e-f0b0870f95f0) of Mozilla’s use.
