@@ -5,6 +5,17 @@ Snap Group Limited Terms of Service
 
 Effective: 27 May 2020
 
+Welcome!
+--------
+
+We’ve drafted these Terms of Service (which we call the “Terms”) so you’ll know the rules that govern our relationship with you. Although we have tried our best to strip the legalese from the Terms, there are places where these Terms may still read like a traditional contract. There’s a good reason for that: these Terms do indeed form a legally binding contract between you and Snap Group Limited. So please read them carefully.
+
+In order to use Snapchat, Bitmoji or any of our other products or services that link to these Terms (we refer to these collectively as the “Services”), you must have accepted our Terms and Privacy Policy, which are presented to you (i) when you first open the app and (ii) when we make any material changes to the Terms or the Privacy Policy. Of course, if you don’t accept them, then don’t use the Services.
+
+These Terms apply to you if you live outside the United States or if you are using the Services on behalf of a business located outside the United States. If you live in the United States or are using the Services on behalf of a business located there, the [Snap Inc.  Terms of Service](https://www.snap.com/en-GB/terms#terms-us) apply.
+
+**ARBITRATION NOTICE: IF YOU’RE USING THE SERVICES ON BEHALF OF A BUSINESS, THEN YOUR BUSINESS WILL BE BOUND BY THE** [**ARBITRATION CLAUSE**](https://www.snap.com/en-GB/terms#arbitration-row) **THAT APPEARS LATER IN THESE TERMS.**
+
 1\. Who can use the services
 ----------------------------
 
