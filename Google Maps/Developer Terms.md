@@ -258,6 +258,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         *   Google utilise les dernières versions des jeux de données communiquées par les producteurs ci-dessous ; ces données sont disponibles sur [transport.data.gouv.fr](https://transport.data.gouv.fr/) sous la licence « Open Database Licence » (ODbL) et sous les conditions d'utilisation précisant que la clause de partage à l’identique figurant à l’article 4.4 concerne les informations de même nature, de même granularité, de même conditions temporelles et de même emprise géographique :
             
             *   SNCF ; les modifications et améliorations aux données sont disponibles [ici](https://opendata.itoworld.com/france_sncf/france_sncf_gtfs.zip)
+            *   Lyon Métropole (Sytral) ; les modifications et améliorations aux données sont disponibles [ici](https://gtech-transit-prod.apigee.net/v1/google/gtfs/odbl/lyon.zip?apikey=BasyG6OFZXgXnzWdQLTwJFGcGmeOs204&secret=gNo6F5PhQpsGRBCK)
             *   Bordeaux Métropole ; les modifications et améliorations aux données sont disponibles [ici](https://gtech-transit-prod.apigee.net/v1/google/gtfs/odbl/bordeaux.zip?apikey=BasyG6OFZXgXnzWdQLTwJFGcGmeOs204&secret=gNo6F5PhQpsGRBCK)
             *   Nantes Métropole
             *   Nîmes Métropole
