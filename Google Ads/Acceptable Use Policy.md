@@ -9,10 +9,10 @@ We use a combination of automated and human evaluation to ensure Google Ads comp
 
 Our advertising policies cover four broad areas:
 
-*   ![](//lh4.ggpht.com/a6ATZem5pygs6xvEh8FOkIDrLOoFKfFV2HpYjPo-qWpLWalSGPW7NOxI-wqr0YxwlMxKVmY=w48) **[Prohibited content](#con):** Content you can't advertise on the Google Network
-*   ![](//lh6.ggpht.com/7skHn-AkqcyuGzvlsxuUACKw4-yoB5SJ6kV17OvHrKIdcEo9RqG1807r_UDm_LHDcoNWmxzf2A=w48) **[Prohibited practices](#pra):** Things you can't do if you want to advertise with us
-*   ![](//lh3.ggpht.com/6Zwu1kJ2A2j0P8ad7LrILT33PLuJ4KROB6UqtRcDVLCotV5VJF2H9NeVLIULQshDape0U6Y=w48) **[Restricted content and features](#res):** Content you can advertise, but with limitations
-*     ![](//www.google.com/images/icons/feature/checklist_pencil-b42.png) **[Editorial and technical](#ed):** Quality standards for your ads, websites, and apps
+*   ![Google Ads policies | prohibited content](//storage.googleapis.com/support-kms-prod/RrjdySjRxcYJL3NpcXaobwTxuk7zctDbL8rX "Google Ads policies | prohibited content") **[Prohibited content](#con):** Content you can't advertise on the Google Network
+*   ![Google Ads policies | prohibited practice](//storage.googleapis.com/support-kms-prod/aYpRwkWqocXCGj8TVXwShJAbVpbcYO9qABIs "Google Ads policies | prohibited practice") **[Prohibited practices](#pra):** Things you can't do if you want to advertise with us
+*   ![Google Ads policies | restricted content](//storage.googleapis.com/support-kms-prod/tNErobNFH6ZkSwZtpMfEXrQkhCi1uMdPn3ur "Google Ads policies | restricted content") **[Restricted content and features](#res):** Content you can advertise, but with limitations
+*   ![Google Ads policies | Editorial and technical](//storage.googleapis.com/support-kms-prod/hza1ZDCgK38me1XBTkYHl7o1eUaDUDjNGfVT "Google Ads policies | Editorial and technical") **[Editorial and technical](#ed):** Quality standards for your ads, websites, and apps
 
 * * *
 
@@ -81,13 +81,13 @@ The policies below cover content that is sometimes legally or culturally sensiti
 
 For that reason, we allow the promotion of the content below, but on a limited basis. These promotions may not show to every user in every location, and advertisers may need to meet additional requirements before their ads are eligible to run. Note that not all ad products, features, or networks are able to support this restricted content. Further details can be found in the Policy Center.
 
-### [Adult content](https://support.google.com/adspolicy/answer/6023699)
+### [Sexual content](https://support.google.com/adspolicy/answer/6023699)
 
 > Ads should respect user preferences and comply with legal regulations, so we don’t allow certain kinds of adult content in ads and destinations. Some kinds of adult-oriented ads and destinations are allowed if they comply with the policies below and don’t target minors, but they will only show in limited scenarios based on user search queries, user age, and local laws where the ad is being served.
 > 
 > Learn about [what happens if you violate our policies](https://support.google.com/adwordspolicy/answer/7187501).
 > 
-> _Examples of restricted adult content:_ strip clubs, erotic cinemas, sex toys, adult magazines, sexual enhancement products, matchmaking sites, models in sexualized poses
+> _Examples of restricted sexual content:_ Visible genitalia and female breasts, hook-up dating, sex toys, strip clubs, sexually suggestive live chat, and models in sexualized poses.
 
 ### [Alcohol](https://support.google.com/adspolicy/answer/6012382)
 
