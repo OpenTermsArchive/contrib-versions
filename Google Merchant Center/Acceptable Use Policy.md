@@ -5,9 +5,9 @@ Welcome to the Shopping Ads Policy Centre! Here you'll find the requirements for
 
 Our policies cover four broad areas:
 
-*   **[Prohibited content](#con):** Content that you're not allowed to promote on the Google Network
-*   **[Prohibited practices](#pra):** Things you can't do if you want to advertise with us
-*   **[Restricted content](#res):** Content that you can advertise, but with limitations
+*   ![Google Ads policies | prohibited content](//storage.googleapis.com/support-kms-prod/RrjdySjRxcYJL3NpcXaobwTxuk7zctDbL8rX "Google Ads policies | prohibited content") **[Prohibited content](#con):** Content that you're not allowed to promote on the Google Network
+*   ![Google Ads policies | prohibited practice](//storage.googleapis.com/support-kms-prod/aYpRwkWqocXCGj8TVXwShJAbVpbcYO9qABIs "Google Ads policies | prohibited practice") **[Prohibited practices](#pra):** Things you can't do if you want to advertise with us
+*   ![Google Ads policies | restricted content](//storage.googleapis.com/support-kms-prod/tNErobNFH6ZkSwZtpMfEXrQkhCi1uMdPn3ur "Google Ads policies | restricted content") **[Restricted content](#res):** Content that you can advertise, but with limitations
 *      **[Editorial and technical requirements](#ed):** Quality standards for your ads and website
 
 * * *
