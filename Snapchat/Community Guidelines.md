@@ -18,15 +18,13 @@ Sexually explicit content
 Harassment & bullying
 ---------------------
 
-*   We have zero tolerance for bullying or harassment of any kind. 
+*   We prohibit bullying or harassment of any kind.
     
 *   Don’t send a Snap with the intention of making someone feel bad. If someone blocks you, don’t try to contact them from another account.
     
-*   Don’t take Snaps of people in private spaces – like a bathroom, changing room or hospital – without their knowledge and consent.
+*   Sharing another person’s private information and Snaps of people in private spaces – like a bathroom, bedroom, locker room or a medical facility – without their knowledge and consent is not allowed.
     
 *   If someone is in your Snap and asks you to remove it, please do!
-    
-*   When playing a game, don’t harass other players or deliberately ruin the fun by playing in an unintended way.
     
 
 Threats, violence & harm
