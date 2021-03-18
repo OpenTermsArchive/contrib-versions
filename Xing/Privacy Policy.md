@@ -776,12 +776,31 @@ You have the right to demand confirmation as to whether we process your [persona
   
 As a user of the [social network](https://privacy.xing.com/en/privacy-policy/glossary/social-network) you can request this information at [https://www.xing.com/settings/privacy/data/disclosure](https://www.xing.com/settings/privacy/data/disclosure).  
   
-As a kununu, kununu engage, XING TicketingManager or HalloFreelancer user you can also easily access the data we have saved about you there. Simply send an e-mail request or follow the respective link:
+As a kununu, kununu engage, XING EventManager, HalloFreelancer, XING TalentService or XING Exchange user you can also easily access the data we have saved about you there. Simply send an e-mail request:
 
-*   [Data disclosure report from kununu](https://www.kununu.com/user/inquiry)
-*   [Request data disclosure report from kununu engage by e-mail](mailto:engage@kununu.com)
-*   [Request data disclosure report from the XING TicketingManager by e-mail](mailto:support@xing-events.com)
-*   [Request data disclosure report from HalloFreelancer by e-mail](mailto:hallo@hallofreelancer.com)
+#### kununu
+
+Use the following link to request the data we saved about you in this application: [kununu data disclosure report](https://www.kununu.com/user/inquiry)
+
+#### kununu engage
+
+Use the following link to request the data we saved about you in this application: [kununu enagage data disclosure report](https://app.engage.kununu.com/us/user/settings)
+
+#### XING EventManager
+
+Use the following e-mail address to request the data we saved about you in this application: [XING EventManager data disclosure report](mailto:support@xing-events.com)
+
+#### HalloFreelancer
+
+Use the following e-mail address to request the data we saved about you in this application: [HalloFreelancer data disclosure report](mailto:support@hallofreelancer.com)
+
+#### XING TalentService
+
+Use the following e-mail address to request the data we saved about you in XING TalentService: [gdpr\_xts@xing.com](mailto:gdpr_xts@xing.com)
+
+#### XING Exchange
+
+Die Daten, die wir in dieser Anwendung über Dich gespeichert haben, kannst Du per E-Mail an [xing-exchange@xing.com](mailto:xing-exchange@xing.com) anfordern.
 
 You also have a right to access the following information:
 
