@@ -30,7 +30,7 @@ This Policy also applies to information we collect from you via our survey or di
 
 If you participate in the Shared Services Leadership Council, please refer to the information in the section below for Shared Services-specific terms.  
 
-This Policy will apply whether you have provided the information directly to us or we have obtained it from a different source, such as a third party.      
+This Policy will apply whether you have provided the information directly to us or we have obtained it from a different source, such as a third party. 
 
 ### 1\. INFORMATION THAT WE COLLECT ABOUT YOU
 
@@ -154,7 +154,7 @@ We will retain your personal information for as long as required to perform the 
 In general terms, this will mean that your personal information will be kept for the duration of our relationship with you and:
 
 *   the period required by tax and company laws and regulations; and
-*   as long as it is necessary for you to be able to bring a claim against us and for us to be able to defend ourselves against any legal claims. This will generally be the length of the relationship plus the length of any applicable statutory limitation period under local laws. 
+*   as long as it is necessary for you to be able to bring a claim against us and for us to be able to defend ourselves against any legal claims. This will generally be the length of the relationship plus the length of any applicable statutory limitation period under local laws. 
 
 ### 6\. CHOICES ABOUT YOUR INFORMATION
 
@@ -199,7 +199,7 @@ More detailed information on how we use cookies and other web technologies can b
 
 The Shared Services Leadership Council (“Shared Services”) prides itself in facilitating clients’ connections with one another. If you use the Shared Services site, you agree to provide and share with other Shared Services users certain pieces of contact information which may include your name, job title, organization's name, business email address, phone number, and your business address.
 
-Shared Services encourages clients to participate in surveys, including Process Surveys and ASK Questions. If you participate in a Process Survey, your company name will be attributed to the quartile in which your response to the question falls and/or your response to the question. If you use the ASK question feature, your company name and individual name will attributed to that question. If you respond to an ASK Question, your company name and individual name will appear next to your response, and/or to any comments that are added to an ASK question. 
+Shared Services encourages clients to participate in surveys, including Process Surveys and ASK Questions. If you participate in a Process Survey, your company name will be attributed to the quartile in which your response to the question falls and/or your response to the question. If you use the ASK question feature, your company name and individual name will attributed to that question. If you respond to an ASK Question, your company name and individual name will appear next to your response, and/or to any comments that are added to an ASK question. 
 
 ### 10\. MISCELLANEOUS
 
