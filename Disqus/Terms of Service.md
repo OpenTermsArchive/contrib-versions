@@ -103,7 +103,7 @@ Deceitful data collection; Malware Collecting or harvesting any personally ident
 
 Spam. Users are prohibited from posting or sending Spam through the service. What constitutes Spam is constantly evolving. Generally, Spam means repeated actions that negatively impact others, such as repeatedly posting a comment with the intent to post a thread etc.
 
-The list of rules above is contently evolving. Disqus may update and revise these rules at any time, please review [Disqus Basic Rules](https://zetacorporate-my.sharepoint.com/personal/efagiola_zetaglobal_com/Documents/Contract%20Work/Disqus/Form/Online%20Terms/Disqu) for more information. 
+The list of rules above is contently evolving. Disqus may update and revise these rules at any time, please review [Disqus Basic Rules](https://help.disqus.com/en/articles/1717116-basic-rules-for-disqus) for more information. 
 
 **Disclaimers and Limitation of Liability**
 
