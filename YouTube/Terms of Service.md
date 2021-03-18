@@ -1,90 +1,60 @@
 Terms of Service
 ================
 
-**Our Terms of Service have been updated.**
-===========================================
+**What’s in these terms?**
+==========================
 
-This summary is designed to help you understand some of the key updates we’ve made to our Terms of Service (Terms). We hope this serves as a useful guide, but please ensure you read the new Terms in full.
+This index is designed to help you understand some of the key updates we’ve made to our Terms of Service (Terms). We hope this serves as a useful guide, but please ensure you read the Terms in full.
 
 **Welcome to YouTube!**
 -----------------------
 
-This section outlines our relationship with you. It includes a description of the Service, defines our Agreement, and names your service provider. Key updates:
-
-*   **Service Provider****.** Your service provider is now Google LLC.
-*   **Policies.** We have added a link to the [Policy](https://support.google.com/youtube/topic/9223153)[, Safety and Copyright Policies](https://support.google.com/youtube/topic/9223153), and our [Advertising on YouTube Policies](https://support.google.com/youtube/topic/30084), which all form part of the Agreement. These are the policies that underpin our [Community Guidelines](https://www.youtube.com/t/community_guidelines), and we wanted to make sure to call out this detail to you upfront in our Terms.
-*   **Affiliates.** To ensure you understand exactly who we mean when we talk about our group companies, we’ve included a definition of our “Affiliates”, meaning the companies in the Alphabet corporate group.
+This section outlines our relationship with you. It includes a description of the Service, defines our Agreement, and names your service provider.
 
 **Who May Use the Service?**
 ----------------------------
 
-This section sets out certain requirements for use of the Service, and defines categories of users. Key updates:
-
-*   **Age Requirements.** We have stated the specific age requirements for your country, reflecting our [Google wide policies](https://support.google.com/accounts/answer/1350409), and included a notice that, if you are a minor in your country, you must always have your parent or guardian’s permission before using the Service.
-*   **Parental Permission.** We’ve added a section to explain your responsibility if you allow your child to use YouTube.
-*   **Businesses.** Our Terms now make clear that, if you are using the Service on behalf of a company or organisation, that business accepts this Agreement.
+This section sets out certain requirements for use of the Service, and defines categories of users.
 
 **Your Use of the Service**
 ---------------------------
 
-This section explains your rights to use the Service, and the conditions that apply to your use of the Service. It also explains how we may make changes to the Service. Key updates:
-
-*   **Google Accounts and YouTube Channels****.** We’ve provided details about which features of the Service can be accessed without a [Google account](https://support.google.com/youtube/answer/69961) or [YouTube channel](https://support.google.com/youtube/answer/1646861), and which features require one.
-*   **Your Information.** We haven’t made any changes to the way we treat your information. You can read about our privacy practices by reviewing the [Privacy Policy](https://www.youtube.com/t/privacy) and [YouTube Kids Privacy](https://kids.youtube.com/t/privacynotice) [](https://kids.youtube.com/t/privacynotice) [Notice](https://kids.youtube.com/t/privacynotice). As a reminder, you can always review your privacy settings and manage your data and personalisation by visiting your [Google Account](https://myaccount.google.com/).
-*   **Restrictions**. We have updated this section to reflect our requirements around contests, and to include a prohibition on manipulating metrics.  
-*   **Service Changes.** We have improved our Terms to be more transparent about why we might need to make changes to the Service, and provided a commitment to give you notice when those changes might affect you.
+This section explains your rights to use the Service, and the conditions that apply to your use of the Service. It also explains how we may make changes to the Service.
 
 **Your Content and Conduct**
 ----------------------------
 
-This section applies to users who provide Content to the Service. It defines the scope of the permissions that you grant by uploading your Content, and includes your agreement not to upload anything that infringes on anyone else’s rights. Key updates:
-
-*   **License.** We’ve clarified the content license you grant us to make it easier to understand. We’re not asking for additional permissions and there’s no difference in how we’re using your content.
-*   **Duration.** We have removed the right for YouTube to use your comments in perpetuity.
-*   **Removals.** We have included a [link](https://support.google.com/youtube/answer/55770) to the tools you will need to remove your content, as well as a clear description about why we might need to take down content, and how to [appeal removals](https://support.google.com/youtube/answer/6395024). 
-*   **Analyzing Content.** We may automatically analyze content on YouTube, to help detect abuse and keep the platform safe.
+This section applies to users who provide Content to the Service. It defines the scope of the permissions that you grant by uploading your Content, and includes your agreement not to upload anything that infringes on anyone else’s rights. 
 
 **Account Suspension and Termination**
 --------------------------------------
 
-This section explains how you and YouTube may terminate this relationship. Key updates:
-
-*   **Terminations.** Our Terms now include more details about when we might need to terminate our Agreement with bad actors. We provide a greater commitment to give notice when we take such action and what you can do to [appeal](https://support.google.com/accounts/contact/suspended?p=youtube) if you think we’ve got it wrong. We’ve also added [instructions](https://myaccount.google.com/delete-services-or-account) for you, if you decide you no longer want to use the Service.
+This section explains how you and YouTube may terminate this relationship.
 
 **About Software in the Service**
 ---------------------------------
 
-This section includes details about software on the Service. Key updates:
-
-*   **Software Licences.** We’ve made the software licence we grant you more specific, and included some details around open source.
+This section includes details about software on the Service.
 
 **Other Legal Terms**
 ---------------------
 
-This section includes our service commitment to you. It also explains that there are some things we will not be responsible for. Key updates:
-
-*   **Our liability.** We’ve made changes to the disclaimers and limitations of liability in the Terms.
+This section includes our service commitment to you. It also explains that there are some things we will not be responsible for.
 
 **About this Agreement**
 ------------------------
 
-This section includes some further important details about our contract, including what to expect if we need to make changes to these Terms; or which law applies to them. Key updates:
-
-*   **Modifications.** We want to give you the chance to review future material updates to these Terms.
-
-**Still have questions?**
-
-You can also find further details in our [Help Cente](https://support.google.com/youtube/answer/9326895)[r](https://support.google.com/youtube/answer/9326895).
-
-**\-----**
+This section includes some further important details about our contract, including what to expect if we need to make changes to these Terms; or which law applies to them.
 
 **Terms of Service**
 ====================
 
-Dated: December 10, 2019
+Dated: March 17, 2021
 
 **Welcome to YouTube!**
 =======================
+
+We have updated our Terms of Service on March 17, 2021 to clarify how children of all ages may use the Service if enabled by a parent or legal guardian.
 
 English Courtesy Translation
 
@@ -111,15 +81,13 @@ Please read this Agreement carefully and make sure you understand it. If you do 
 
 **Age Requirements**
 
-You may use the Service if you are at least 13 years old.
-
-Children of all ages may use YouTube Kids (where available) if enabled by a parent or legal guardian.
+You may use the Service if you are at least 13 years old; however, children of all ages may use the Service and YouTube Kids (where available) if enabled by a parent or legal guardian.
 
 **Permission by Parent or Guardian**
 
 If you are under 18, you must have your parent or legal guardian’s permission to use the Service. Please have them read this Agreement with you.
 
-If you are a parent or legal guardian of a user under the age of 18, by allowing your child to use the Service, you are subject to the terms of this Agreement and responsible for your child’s activity on the Service. You can find tools and resources to help you manage your family’s experience on YouTube in our [Help Center](https://support.google.com/youtube/answer/2802272) [and through](https://support.google.com/youtube/answer/2802272) Google’s [Family Link](https://families.google.com/familylink/).
+If you are a parent or legal guardian of a user under the age of 18, by allowing your child to use the Service, you are subject to the terms of this Agreement and responsible for your child’s activity on the Service. You can find tools and resources to help you manage your family’s experience on YouTube (including how to enable a child under the age of 13 to use the Service and YouTube Kids) in our [Help Center](https://support.google.com/youtube/answer/2802272) [and through](https://support.google.com/youtube/answer/2802272) Google’s [Family Link](https://families.google.com/familylink/).
 
 **Businesses**
 
@@ -301,4 +269,4 @@ This Agreement, and your relationship with YouTube under this Agreement, will be
 
 If mandatory local law prohibits a dispute under this Agreement from being resolved by the courts of England and Wales, disputes can be brought in your local courts. If mandatory local law prohibits a local court from applying English law to a dispute under this Agreement, that dispute will be resolved according to the laws of your country of residence.
 
-#### Effective as of December 10, 2019 ([view previous version](https://www.youtube.com/t/terms?archive=20180525))
+#### Effective as of March 17, 2021 ([view previous version](https://www.youtube.com/t/terms?archive=20191210))
