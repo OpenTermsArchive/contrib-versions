@@ -56,3 +56,5 @@ You can also block certain cookies by adjusting your settings on our sites.
 [Spectacles.com cookie settings](https://www.spectacles.com/cookie-settings)
 
 [Yellowla.com cookie settings](https://www.yellowla.com/cookie-settings)
+
+[Snapfoundation.org Cookie Settings](https://www.snapfoundation.org/cookie-settings)
