@@ -15,11 +15,12 @@ This privacy policy and our related Privacy Notices (see below) describe how we 
 
 We have set out below, an overview of how our privacy policies work. Depending on how you interact with us, we will collect and process your personal information as shown in the table below.
 
-This statement should be read together with our related Privacy Notices, in particular our [Privacy Notice for the Public Network](https://stackoverflow.com/legal/privacy-policy/public-network), [Privacy Notice for Stack Overflow Teams Basic](https://stackoverflow.com/legal/privacy-policy/teams-basic), [Privacy Notice for Stack Overflow Teams Business](https://stackoverflow.com/legal/privacy-policy/teams-business), [Privacy Notice for Stack Overflow Teams Enterprise](https://stackoverflow.com/legal/privacy-policy/teams-enterprise), [Privacy Notice for Stack Overflow Talent and Jobs](https://stackoverflow.com/legal/privacy-policy/talent) and our Employee Privacy Notice.
+This statement should be read together with our related Privacy Notices, in particular our [Privacy Notice for the Public Network](https://stackoverflow.com/legal/privacy-policy/public-network), [Privacy Notice for Stack Overflow Teams Free](https://stackoverflow.com/legal/privacy-policy/teams-free), [Privacy Notice for Stack Overflow Teams Basic](https://stackoverflow.com/legal/privacy-policy/teams-basic), [Privacy Notice for Stack Overflow Teams Business](https://stackoverflow.com/legal/privacy-policy/teams-business), [Privacy Notice for Stack Overflow Teams Enterprise](https://stackoverflow.com/legal/privacy-policy/teams-enterprise), [Privacy Notice for Stack Overflow Talent and Jobs](https://stackoverflow.com/legal/privacy-policy/talent) and our Employee Privacy Notice.
 
 |     |     |
 | --- | --- |
 | If you interact with us through the Public Network | In addition, we will collect and process your personal information in accordance with the [Stack Overflow Privacy Notice for the Public Network](https://stackoverflow.com/legal/privacy-policy/public-network). |
+| If you are a Stack Overflow for Teams, Free customer | In addition, we will collect and process your personal information in accordance with the [Stack Overflow for Teams Free Privacy Notice](https://stackoverflow.com/legal/privacy-policy/teams-free). |
 | If you are a Stack Overflow for Teams, Basic customer | In addition, we will collect and process your personal information in accordance with the [Stack Overflow for Teams Basic Privacy Notice](https://stackoverflow.com/legal/privacy-policy/teams-basic). |
 | If you are a Stack Overflow for Teams, Business customer | In addition, we will collect and process your personal information in accordance with the [Stack Overflow for Teams, Business Privacy Notice](https://stackoverflow.com/legal/privacy-policy/teams-business) and any other agreement that we may have with you. |
 | If you are a Stack Overflow Talent customer | This statement should be read together with our related Privacy Notices, in particular our [Stack Overflow Talent Privacy Notice](https://stackoverflow.com/legal/privacy-policy/talent) and any other agreement that we may have with you. |
@@ -176,6 +177,7 @@ When you register for our services or if you or your organization set up a Priva
 Click below for links to the Privacy Notices for each of our Products and Service Offerings:
 
 [Privacy Notice for the Public Network](https://stackoverflow.com/legal/privacy-policy/public-network)  
+[Privacy Notice for Stack Overflow Teams, Free](https://stackoverflow.com/legal/privacy-policy/teams-free)  
 [Privacy Notice for Stack Overflow Teams, Basic](https://stackoverflow.com/legal/privacy-policy/teams-basic)  
 [Privacy Notice for Stack Overflow Teams, Business](https://stackoverflow.com/legal/privacy-policy/teams-business)  
 [Privacy Notice for Stack Overflow Teams, Enterprise](https://stackoverflow.com/legal/privacy-policy/teams-enterprise)  
