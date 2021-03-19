@@ -140,4 +140,44 @@ BECAUSE SOME STATES OR JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF
 
 The Australian Consumer Law may confer certain rights and remedies on you in relation to the provision by Guardian of goods and services under these terms and conditions. Notwithstanding the disclaimers and limitations of liability in Sections 4, 16 and 17 above, these terms and conditions do not exclude, restrict or modify the application of any condition, warranty, guarantee, right or remedy conferred by or implied under any provision of the Australian Consumer Law or any other statute where to do so would: (i) contravene the relevant statute; or (ii) cause any part of these terms and conditions to be void and/or unenforceable (“Non-Excludable Obligation”).
 
-Except in relation to Non-Excludable Obligati
+Except in relation to Non-Excludable Obligations, all conditions, warranties and other provisions implied or conferred by statute, custom, or the general law that impose any liability or obligation on Guardian are expressly excluded under these terms and conditions.
+
+**19\. Non-Excludable Obligations (for Australian users)**
+
+In relation to Non-Excludable Obligations (other than a guarantee as to title, encumbrances or quiet possession conferred by the Australian Consumer Law), except for goods or services of a kind ordinarily acquired for personal, domestic or household use or consumption (in respect of which our liability is not so limited under these terms and conditions), Guardian’s liability to you for a failure to comply with any Non-Excludable Obligation is limited to: (i) in the case of services, the lowest of the cost of supplying the services again and payment of the cost of having the services supplied again; and (ii) in the case of goods, the lowest of the cost of replacing the goods, supplying equivalent goods or having the goods repaired, or payment of the cost of replacing the goods, supplying equivalent goods or having the goods repaired.
+
+**Details of variations**
+
+September 8 2005: Section 1 adapted to include reference to mobile phones. Section 7 adapted to include references to blogs and Been There service.  
+  
+November 1 2005: Addition to Section 8 regarding email alerts for Guardian Jobs users.
+
+When you register for Guardian Jobs services you will be asked to provide some further information.
+
+If you have asked to receive email alerts about specific jobs the frequency with which you will receive these will depend upon the service that you have chosen. Additionally you will receive regular newsletters with information about developments with the Guardian Jobs website. If you have not subscribed to specific email alerts you will still receive these regular emails but can unsubscribe at any time.
+
+We do not allow employers to view any of your personal details without your express consent.
+
+Guardian Jobmatch only operates as an employment agency in relation to the hirer to the extent that it matches profiles submitted by jobseekers in response to existing job vacancies on the site. Guardian Jobmatch does not have any authority as an employment agency or otherwise to act for the hirer and does not effect introductions between hirers and jobseekers, or vice versa.
+
+May 7 2008: Link to privacy policy inserted to replace text in Section 8 for consistency. Community Standards and Participation Guidelines incorporated in Sections 6 and 7.
+
+1 February 2010: A reference to the Guardian headline service was removed from Section 3 and replaced with information about the NLA’s ability to issues licences to certain news aggregators.
+
+In Section 6 the licence granted in respect of graphical and photographic works submitted to us was updated to include print use.
+
+18 April 2011: Revised and merged terms for the submission of content by site users. Subsequent paragraphs renumbered.
+
+19 September 2011: Modified to cover guardiannews.com and to introduce specific terms for users accessing the site in the US.
+
+27 February 2012: New section included at 7 to address Apps and consequential section renumbering.
+
+17 January 2013: Section 6 amended to include reference to under 16s submitting content. Section 7 modified to capture user content submitted via Apps.
+
+2 May 2013: New Sections 18 and 19 included to introduce specific terms for users accessing the site from Australia. Amendments to section 17. Consequential amendments to other provisions.
+
+30 July 2013: Modified to include reference to theguardian.com
+
+25 May 2018: Updated reference to privacy policy in Section 8.
+
+© 2013 Guardian News and Media Limited or its affiliated companies. All rights reserved.
