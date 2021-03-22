@@ -1,7 +1,7 @@
 Microsoft Privacy Statement
 ===========================
 
-Last Updated: January 2021
+Last Updated: March 2021
 
 Your privacy is important to us. This privacy statement explains the personal data Microsoft processes, how Microsoft processes it, and for what purposes.
 
@@ -365,6 +365,86 @@ If you sign in to Microsoft products with a work or school account, note:
 
 **Third-party accounts**. The data associated with a third-party Microsoft account, and how it will be used, is generally similar to the use and collection of data associated with a personal Microsoft account. Your service provider has control over your account, including the ability to access or delete your account. **You should carefully review the terms the third party provided you to understand what it can do with your account**.
 
+Collection of data from childrenCollection of data from childrenmaincollectionofdatafromchildrenmodule
+
+When a Microsoft product collects age, and there is an age in your jurisdiction under which parental consent or authorisation is required to use the product, the product will either block users under that age or will ask them to provide consent or authorisation from a parent or guardian before they can use it. We will not knowingly ask children under that age to provide more data than is required to provide for the product.
+
+Once parental consent or authorisation is granted, the child's account is treated much like any other account. The child can access communication services, like Outlook and Skype, and can freely communicate and share data with other users of all ages. [Learn more about parental consent and Microsoft child accounts](https://support.microsoft.com/help/4090274/microsoft-account-parental-consent-and-child-accounts).
+
+Parents or guardians can change or revoke the consent choices previously made, and review, edit or request the deletion of the personal data of the minors for whom they provided consent or authorisation. As the organiser of a Microsoft family group, the parent or guardian can manage a child’s information and settings on their [Family Safety](https://account.microsoft.com/family) page and view and delete a child’s data on their [privacy dashboard](https://account.microsoft.com/privacy).
+
+Select Learn more below for more information about children and Xbox profiles.
+
+When a Microsoft product collects age, and there is an age in your jurisdiction under which parental consent or authorisation is required to use the product, the product will either block users under that age or will ask them to provide consent or authorisation from a parent or guardian before they can use it. We will not knowingly ask children under that age to provide more data than is required to provide for the product.
+
+Once parental consent or authorisation is granted, the child's account is treated much like any other account. The child can access communication services, like Outlook and Skype, and can freely communicate and share data with other users of all ages. [Learn more about parental consent and Microsoft child accounts](https://support.microsoft.com/help/4090274/microsoft-account-parental-consent-and-child-accounts).
+
+Parents or guardians can change or revoke the consent choices previously made, and review, edit or request the deletion of the personal data of the minors for whom they provided consent or authorisation. As the organiser of a Microsoft family group, the parent or guardian can manage a child’s information and settings on their [Family Safety](https://account.microsoft.com/family) page and view and delete a child’s data on their [privacy dashboard](https://account.microsoft.com/privacy).
+
+Below is additional information about the collection of data from children as related to Xbox.
+
+**What is Xbox Live?** Xbox is the gaming and entertainment division of Microsoft. Xbox hosts an online network that consists of software and online experiences crossing multiple platforms. This service lets you find and play games, view content, and connect with friends on Xbox and other gaming and social networks. You can connect to the Xbox network using Xbox consoles, Windows 10 PCs, and mobile devices (Android and iPhone).
+
+Xbox consoles are devices you can use to find and play games, movies, music, and other digital entertainment. When you sign in to Xbox experiences, in apps or on a console, we also assign a unique device identifier. When your Xbox console is connected to the internet, for instance, and you sign in to the console, we identify which console and which version of the console’s operating system you’re using.
+
+Xbox continues to provide new experiences in client apps that are connected to and backed by services such as Xbox services and cloud gaming. To ensure these connected experiences remain reliable, up to date, secure, and performing as expected, required service data may be collected whenever you use a connected experience.
+
+**Data we collect when you create an Xbox profile**. You as the parent or guardian are required to consent to the collection of personal data from a child under 13 years old. With your permission, your child can have an Xbox profile and use the online Xbox network. During the child Xbox profile creation, you will sign in with your own Microsoft account to verify that you are an adult organiser in your Microsoft family group. We collect an alternative email address or phone number to boost account security. If your child needs help accessing their account, they will be able to use one of these alternatives to validate they own the Microsoft account.
+
+We collect limited information about children, including name, birth date, email address, and region. When you sign up your child for an Xbox profile, they get a gamertag (a public nickname) and a unique identifier. When you create your child’s Xbox profile you consent to Microsoft collecting, using, and sharing information based on their privacy and communication settings on the Xbox online network. Your child’s privacy and communication settings are defaulted to the most restrictive.
+
+**Data we collect**.  We collect information about your child’s use of Xbox services, games, apps, and consoles including:
+
+*   When you sign in and sign out of Xbox, the games you play and apps you use, your game progress, achievements, and play statistics, any purchases you make, and content you obtain.
+*   Performance data about Xbox consoles, Xbox Game Pass and other Xbox apps, the Xbox network, connected devices, and your network connection, including software or hardware errors.
+*   Content you add, upload, or share through the Xbox network, including text, pictures, and video you capture in games and apps.
+*   Social activity, including chat data and interactions with other gamers, and connections you make (friends you add and people who follow you) on the Xbox network.
+
+If you use an Xbox console or Xbox app on another device capable of accessing the Xbox network, and that device includes a storage device (hard drive or memory unit), usage data will be stored on the storage device and sent to Microsoft the next time you sign in to Xbox, even if you’ve been playing offline.
+
+**Xbox console diagnostic data**. If you use an Xbox console, the console will send required data to Microsoft. The minimum data necessary to help keep Xbox safe, secure, up to date, and performing as expected.
+
+**Game captures**. Any player in a multiplayer game session can record video (game clips) and capture screenshots of their view of the game play. Other players’ game clips and screenshots can capture your child’s in-game character and gamertag during that session. If a player captures game clips and screenshots on a PC, the resulting game clips might also capture audio chat if your child’s privacy and communication settings on the Xbox online network allow it.
+
+**Captioning**. During Xbox real-time (“party”) chat, players may activate a voice-to-text feature that lets them view that in-game chat as text. Microsoft uses the resulting text data to provide captioning of chat for players who need it, as well as the other purposes described in this statement. This data may also be used to provide a safe gaming environment and enforce the [Community Standards for Xbox](https://www.xbox.com/legal/codeofconduct).
+
+**Data use**. Microsoft uses the data we collect from your use of Xbox consoles, Xbox apps, and the Xbox network to provide you with those experiences, and make them safer and more fun over time. Data we collect includes device information and game play statistics, such as the number of unique players and play time per game. Data we collect also enables us to provide you with personalised, curated experiences. This includes connecting them to games, content, services, and recommendations.
+
+**Xbox data viewable by others**. When your child is using the Xbox network, their online presence (which can be set to “appear offline” or “blocked”), gamertag, game play statistics, and achievements are visible to other players on the network. Depending on how you set your child’s Xbox safety settings, they might share information when playing or communicating with others on the Xbox network. 
+
+The Xbox network includes communications features such as text and voice, direct messaging, and real-time text and voice chat. In order to help provide a safe gaming environment and enforce the [Community Standards for Xbox](https://www.xbox.com/legal/codeofconduct), we collect and monitor text communications during hosted multi-player game sessions, direct messages, and other features of the service, including activity feeds and clubs.
+
+**Xbox data shared with game and apps publishers**. When you use an Xbox online game or any network-connected app on your Xbox console, PC, or mobile device, the publisher of that game or app has access to data about your usage to help the publisher deliver, support, and improve its product. This data may include: your Xbox user ID, gamertag, limited account info such as country and age range, data about your in-game communications, any Xbox enforcement activity, game-play sessions (for example, moves made in-game, types of vehicles used in-game), your presence on the Xbox network, the time you spend playing the game or app, rankings, statistics, gamer profiles, avatars, or gamerpics, friends lists, activity feeds for official clubs you belong to, official club memberships, and any content you create or submit in the game or app.
+
+Third-party publishers and developers of games and apps have their own distinct and independent relationship with users and their collection and usage of personal data is subject to their specific privacy policies. You should carefully review their policies to determine how they use the data. For example, publishers may choose to disclose or display game data (such as on leaderboards) through their own services. You may find their policies linked from game or app detail pages in the Microsoft Store.
+
+Learn more at [Data Sharing with Games and Apps](https://www.xbox.com/Legal/ThirdPartyDataSharing).
+
+To stop sharing game or app data with a publisher, remove its games or app from all devices where you have installed them. Some publisher access to your child’s data may be revoked at [microsoft.com/consent](https://microsoft.com/consent).
+
+**Managing child settings**. As the organiser of a Microsoft family group, you can manage a child’s information and settings on their [Family Safety](https://account.microsoft.com/family) page, as well as their Xbox profile privacy settings from their [Xbox Privacy & online safety page](https://account.xbox.com/settings).
+
+You can also use the [Xbox Family Settings](https://www.xbox.com/apps/family-settings-app) app to manage your child’s experience on the Xbox Network including: spending for Microsoft and Xbox stores, viewing your child’s Xbox activity, and setting age ratings and the amount of screen time.
+
+Learn more about managing Xbox profiles at [Xbox online safety and privacy settings](https://support.xbox.com/help/family-online-safety/online-safety/manage-online-safety-and-privacy-settings-xbox-one).
+
+Learn more about Microsoft family groups at [Simplify your family’s life](https://account.microsoft.com/family/about).
+
+**Accessing child data**.  As the organiser of a Microsoft family group, a parent can view and delete a child’s data on their [privacy dashboard](https://account.microsoft.com/privacy). The dashboard allows you to review your child's personal information, have it deleted, and refuse to permit further collection or use of your child's information.
+
+To close your child’s account, sign in with their account info at  [account.microsoft.com/profile](https://account.microsoft.com/profile) and select ”How to close your account.” 
+
+**Legacy**.
+
+*   **Xbox 360**. This Xbox console collects limited required diagnostic data. This data helps ensure your child’s console is functioning as expected.
+*   **Kinect**. The Kinect sensor is a combination of camera, microphone, and infrared sensor that can enable motions and voice to be used to control gameplay. For example:
+    *   If you choose, the camera can be used to sign you in to the Xbox network automatically using facial recognition. This data stays on the console and is not shared with anyone, and you can choose to delete this data from your console at any time.
+    *   For game play, Kinect will map distances between your body's joints to create a stick figure representation of you that helps Kinect enable play.
+    *   The Kinect microphone can enable voice chat between players during play. The microphone also enables voice commands for control of the console, game, or app, or to enter search terms.
+    *   The Kinect sensor can also be used for audio and video communications through services such as Skype.
+
+Learn more about Kinect at [Xbox Kinect and Privacy](https://aka.ms/kinectprivacy/).
+
 Other important privacy informationOther important privacy informationmainotherimportantprivacyinformationmodule
 
 Below you will find additional privacy information, such as how we secure your data, where we process your data, and how long we retain your data. You can find more information on Microsoft and our commitment to protecting your privacy at [Microsoft Privacy](https://privacy.microsoft.com/).
@@ -420,27 +500,27 @@ Categories of Personal Data
     *   Recipients: Service providers and user-directed entities
 *   Credentials
     *   Sources of personal data: Interactions with users and organisations that represent users
-    *   Purposes of processing (Collection and sharing with third parties): Provide our products; authentication and account access; and help, secure and troubleshoot
+    *   Purposes of Processing (Collection and Sharing with Third Parties): Provide our products; authentication and account access; and help, secure and troubleshoot
     *   Recipients: Service providers and user-directed entities
 *   Demographic data
     *   Sources of personal data: Interactions with users and purchases from data brokers
-    *   Purposes of processing (Collection and sharing with third parties): Provide and personalise our products; product development; help, secure and troubleshoot; and marketing
+    *   Purposes of Processing (Collection and Sharing with Third Parties): Provide and personalise our products; product development; help, secure, and troubleshoot; and marketing
     *   Recipients: Service providers and user-directed entities
 *   Payment data
     *   Sources of personal data: Interactions with users and financial institutions
-    *   Purposes of processing (Collection and sharing with third parties): Transact commerce; process transactions; fulfil orders; help, secure and troubleshoot; and detect and prevent fraud
+    *   Purposes of Processing (Collection and Sharing with Third Parties): Transact commerce; process transactions; fulfil orders; help, secure, and troubleshoot; and detect and prevent fraud
     *   Recipients: Service providers and user-directed entities
 *   Subscription and licensing data
     *   Sources of personal data: Interactions with users and organisations that represent users
-    *   Purposes of processing (Collection and sharing with third parties): Provide, personalise and activate our products; customer support; help, secure and troubleshoot; and marketing
+    *   Purposes of Processing (Collection and Sharing with Third Parties): Provide, personalise, and activate our products; customer support; help, secure, and troubleshoot; and marketing
     *   Recipients: Service providers and user-directed entities
 *   Interactions
     *   Sources of personal data: Interactions with users including data Microsoft generates through those interactions
-    *   Purposes of processing (Collection and sharing with third parties): Provide and personalise our products; product improvement; product development; marketing; and help, secure and troubleshoot
+    *   Purposes of Processing (Collection and Sharing with Third Parties): Provide and personalise our products; product improvement; product development; marketing; and help, secure and troubleshoot
     *   Recipients: Service providers and user-directed entities
 *   Content
     *   Sources of personal data: Interactions with users and organisations that represent users
-    *   Purposes of processing (Collection and sharing with third parties): Provide our products; safety; and help, secure and troubleshoot
+    *   Purposes of Processing (Collection and Sharing with Third Parties): Provide our products; safety; and help, secure, and troubleshoot
     *   Recipients: Service providers and user-directed entities
 *   Video or recordings
     *   Sources of personal data: Interactions with users and publicly available sources
@@ -454,6 +534,8 @@ Categories of Personal Data
 While the bulleted list above contains the primary sources and purposes of processing for each category of personal data, we also collect personal data from the sources listed in the [Personal data we collect](#mainpersonaldatawecollect) section, such as developers who create experiences through or for Microsoft products. Similarly, we process all categories of personal data for the purposes described in the [How we use personal data](#mainhowweusepersonaldatamodule) section, such as meeting our legal obligations, developing our workforce, and doing research.
 
 **Disclosures of personal data for business or commercial purposes**. As indicated in the [Reasons we share personal data](#mainreasonswesharepersonaldatamodule) section, we share personal data with third parties for various business and commercial purposes. The primary business and commercial purposes for which we share personal data are the purposes of processing listed in the table above. However, we share all categories of personal data for the business and commercial purposes in the [Reasons we share personal data](#mainreasonswesharepersonaldatamodule) section.
+
+See our [CCPA Notice](https://aka.ms/ccpa) for additional information.
 
 AdvertisingAdvertisingmainadvertisingmodule
 
@@ -483,14 +565,6 @@ Further details regarding our advertising-related uses of data include:
 
 **Data collected by other advertising companies**. Advertisers sometimes include their own web beacons (or those of their other advertising partners) within their advertisements that we display, enabling them to set and read their own cookie. Additionally, Microsoft partners with third-party ad companies to help provide some of our advertising services, and we also allow other third-party ad companies to display advertisements on our sites. These third parties may place cookies on your computer and collect data about your online activities across websites or online services. These companies currently include, but are not limited to: [AppNexus](https://www.appnexus.com/), [Facebook](https://www.facebook.com/help/568137493302217), [Media.net](https://www.media.net/adchoices), [Outbrain](https://my.outbrain.com/recommendations-settings/home), [Taboola](https://www.taboola.com/privacy-policy#user-choices-and-optout) and [Verizon Media](https://www.verizonmedia.com/policies/us/en/verizonmedia/privacy/index.html). Select any of the preceding links to find more information on each company's practices, including the choices it offers. Many of these companies are also members of the [NAI](https://www.networkadvertising.org/managing/opt_out.aspx) or [DAA](https://www.aboutads.info/choices/), which each provide a simple way to opt out of ad targeting from participating companies.
 
-Collection of data from childrenCollection of data from childrenmaincollectionofdatafromchildrenmodule
-
-When a Microsoft product collects age, and there is an age in your jurisdiction under which parental consent or authorisation is required to use the product, the product will either block users under that age or will ask them to provide consent or authorisation from a parent or guardian before they can use it. We will not knowingly ask children under that age to provide more data than is required to provide for the product.
-
-Once parental consent or authorisation has been granted, the child’s account is treated much like any other account. The child can access communication services, like Outlook and Skype, and can freely communicate and share data with other users of all ages. [Learn more about parental consent and Microsoft child accounts](https://support.microsoft.com/help/4090274/microsoft-account-parental-consent-and-child-accounts).
-
-Parents or guardians can change or revoke the consent choices previously made, and review, edit or request the deletion of the personal data of the minors for whom they provided consent or authorisation. As the organiser of a Microsoft family group, the parent or guardian can manage a minor’s information and settings on their [Family Safety](https://account.microsoft.com/family) page and view and delete a minor’s data on their [privacy dashboard](https://account.microsoft.com/privacy).
-
 Speech recognition technologiesSpeech recognition technologiesmainspeechrecognitionmodule
 
 Speech recognition technologies are integrated into many Microsoft products and services. Microsoft provides both device-based speech recognition features and cloud-based (online) speech recognition features. Microsoft’s speech recognition technology transcribes voice data into text. With your permission, Microsoft employees and vendors working on behalf of Microsoft, will be able to review snippets of your voice data or voice clips in order to build and improve our speech recognition technologies. These improvements allow us to build better voice-enabled capabilities that benefit users across all our consumer and enterprise products and services. Prior to employee or vendor review of voice data, we protect users’ privacy by taking steps to de-identify the data, requiring non-disclosure agreements with relevant vendors and their employees, and requiring that employees and vendors meet high privacy standards. [Learn more about Microsoft and your voice data](https://go.microsoft.com/fwlink/p/?linkid=2145715).
@@ -511,7 +585,7 @@ When we post changes to this statement, we will revise the "last updated" date a
 
 How to contact usHow to contact usmainhowtocontactusmodule
 
-If you have a privacy concern, complaint, or question for the Microsoft Chief Privacy Officer or the Data Protection Officer for your region, please contact us by using our [web form](https://go.microsoft.com/fwlink/p/?linkid=2126612). We will respond to questions or concerns within 30 days. You can also raise a concern or lodge a complaint with a data protection authority or other official with jurisdiction.
+If you have a privacy concern, complaint, or question for the Microsoft Chief Privacy Officer or the Data Protection Officer for your region, please contact us by using our [web form](https://go.microsoft.com/fwlink/p/?linkid=2126612). We will respond to questions or concerns as required by law and within a period no longer than 30 days. You can also raise a concern or lodge a complaint with a data protection authority or other official with jurisdiction.
 
 When Microsoft is a controller, unless otherwise stated, Microsoft Corporation and, for those in the European Economic Area, the United Kingdom, and Switzerland, Microsoft Ireland Operations Limited are the data controllers for personal data we collect through the products subject to this statement. Our addresses are:
 
@@ -531,7 +605,7 @@ Enterprise and developer productsEnterprise and developer productsmainenterprise
 Enterprise and Developer Products are Microsoft products and related software offered to and designed primarily for use by organisations and developers. They include:
 
 *   Cloud services, referred to as Online Services in the [Microsoft Online Services Terms](https://go.microsoft.com/fwlink/p/?linkid=873404) (OST), such as Microsoft 365 and Office 365, Microsoft Azure, Microsoft Dynamics365 and Microsoft Intune for which an organisation (our customer) contracts with Microsoft for the services (“Enterprise Online Services”).
-*   Other enterprise and developer tools and cloud-based services, such as PlayFab Services.
+*   Other enterprise and developer tools and cloud-based services, such as Azure PlayFab Services (to learn more see [Azure PlayFab Terms of Service](https://playfab.com/terms/)).
 *   Server, developer and hybrid cloud platform products, such as Windows Server, SQL Server, Visual Studio, System Centre, Azure Stack and open-source software such as Bot Framework solutions (“Enterprise and Developer Software”).
 *   Appliances and hardware used for storage infrastructure, such as StorSimple (“Enterprise Appliances”).
 *   Professional services referred to in the OST that are available with Enterprise Online Services, such as onboarding services, data migration services, data science services, or services to supplement existing features in the Enterprise Online Services.
@@ -1046,17 +1120,17 @@ A number of Microsoft apps are included with Windows and others are available in
 
 You can keep track of your favorite places and recent map searches in the Maps app. Your favorite places and search history will be included as search suggestions. If you're signed in with your Microsoft account, your favorite places, search history, and certain app settings will be synced across other devices and services (for example, Cortana). For more information, see the [Sync settings](#mainsyncsettingsmodule) section of this privacy statement.
 
-**Camera and Photos apps**. Both the Camera and Photos apps can utilise location data. If you allow the Camera app to use your location, location data is embedded in the photos you take with your device. Other descriptive data, such as camera model and the date that the picture was taken, is also embedded in photos and videos. If you choose to share a photo or video, any embedded data will be accessible to the people and services you share with. You can disable the Camera app's access to your location by turning off all access to the location service in your device's Settings menu or turning off the Camera app's access to the location service. The Photos app can group your photos and videos by time and location when you import photos and videos that include location data. To do so, the Photos app sends location data in your photos and videos to Microsoft to determine the names of locations, such as "Seattle, Washington".
+**Camera app**. If you allow the Camera app to use your location, location data is embedded in the photos you take with your device. Other descriptive data, such as camera model and the date that the picture was taken, is also embedded in photos and videos. If you choose to share a photo or video, any embedded data will be accessible to the people and services you share with. You can disable the Camera app's access to your location by turning off all access to the location service in your device's Settings menu or turning off the Camera app's access to the location service.
 
-The Camera app enables face detection technology to optimise the device camera settings, such as assisting with the automatic focus, white balance and exposure of photo captures. The Camera app does not use identifiers to group people or identify who the person is in a focal frame. The Camera app does not retain any face detection data.
+When the Camera app is open, it shows rectangles detected by the selected camera for areas in the image that are potentially used for image enhancement. The Camera app does not retain any face detection data. You can always change your camera access settings in the Camera app’s Settings menu or the Windows Settings menu.
 
-The Photos app presents different tabs to group photos and videos by time, location, tags, and faces. The Collection tab displays photos and videos according to their time. The Album tab helps users organise their photos and videos by location and common tags. The People tab helps you organise your photos and videos by grouping photos and videos with similar faces, which you can then associate with contacts.
+**Photos app**. The Photos app helps you organise and share your photos. The Photos app presents different tabs to group photos and videos by time, location, tags, and faces. The Collection tab displays photos and videos according to the date they are taken. The Album tab helps users organise their photos and videos by location and common tags. The People tab helps you organise your photos and videos by grouping photos and videos with similar faces, which you can then associate with contacts.
 
-If you enable the People setting on the Photos app's settings page, the app will use both face detection and recognition technologies to organise your photos and videos into groups. The grouping feature uses facial detection to identify photos and videos containing faces and facial recognition to group photos and videos associated with a given person. Once grouped, you may associate a facial grouping with a contact from your People App.
+If you enable the People setting on the Photos app's settings page, the app will use both face detection and recognition technologies to organise your photos and videos into groups. The grouping feature can detect faces in a photo or video and determine whether they are visually similar to faces in other photos and videos in your local photo collection. Once grouped, you may associate a facial grouping with a contact from your People App.
 
-Photos' facial groupings and associated data are only accessible to you within the Photos app. Microsoft does not access or use this facial data for any purpose outside the Photos app. You, and not Microsoft, are responsible for ensuring you have appropriate permissions from the people in your photos and videos to use facial grouping technology to group your photos and videos in your personal albums.
+If you choose to share a photo or video using the Photos app, any embedded data (such as location, camera model, and date) will be accessible to the people and services you share the photo or video. If enabled, facial groupings are only accessible to you, on that device, within the Photos app and the groups and grouping data are not embedded in any shared photos or videos. You, and not Microsoft, are responsible for ensuring you have appropriate permissions from the people in your photos and videos to use facial grouping technology to group your photos and videos in your personal albums.
 
-Your groupings will be stored on your device for as long as you elect to keep the groupings or the photos or videos. If the People setting is turned on, you will be prompted to allow the Photos app to continue to permit facial groupings after three years of non-interaction with the Photos app. At any time, you can go to the Settings page in the Photos app to turn the People setting on or off. [Learn more about the Photos app, facial recognition, and grouping](https://support.microsoft.com/help/4468245/group-photos-by-faces)
+Your groupings will be stored on your device for as long as you elect to keep the groupings or the photos or videos. If the People setting is turned on, you will be prompted to allow the Photos app to continue to permit facial groupings after three years of non-interaction with the Photos app. At any time, you can go to the Settings page in the Photos app to turn the People setting on or off. This will remove facial grouping data from the Photos app, but will not remove your photos or videos. [Learn more about the Photos app, facial recognition, and grouping](https://support.microsoft.com/windows/group-photos-by-faces-1ab09703-f0a6-5835-d27b-58672b23fdd2).
 
 **People app**. The People app lets you see and interact with all your contacts in one place. When you add an account to the People app, your contacts from your account will be automatically added to the People app. You can add other accounts to the People app, including your social networks (such as Facebook and Twitter) and email accounts. When you add an account, we tell you what data the People app can import or sync with the particular service and let you choose what you want to add. Other apps you install may also sync data to the People app, including providing additional details to existing contacts. When you view a contact in the People app, information about your recent interactions with the contact (such as emails and calendar events, including from apps that the People app syncs data from) will be retrieved and displayed to you. You can remove an account from the People app at any time.
 
@@ -1122,11 +1196,11 @@ XboxXboxmainxboxmodule
 
 The Xbox network is the online gaming and entertainment service from Microsoft that consists of software and online experiences across different platforms. This service lets you find and play games, view content, and connect with friends on Xbox and other gaming and social networks. You can connect to the Xbox network using Xbox consoles, Windows 10 PCs, and mobile devices (Android and iPhone).
 
-When you sign up for an Xbox online profile, we assign a gamertag (a public nickname) and a unique ID to identify you. When you sign in on Xbox devices, apps, and services, the data we collect about your use is stored using these unique identifier(s).
+When you sign up for an Xbox profile, we assign a gamertag (a public nickname) and a unique identifier. When you sign in on Xbox devices, apps, and services, the data we collect about your use is stored using these unique identifier(s).
 
 Xbox consoles are devices you can use to find and play games, movies, music, and other digital entertainment. When you sign in to Xbox experiences—in apps or on a console—we also assign a unique device identifier. When your Xbox console is connected to the internet, for instance, and you sign in to the console, we identify which console and which version of the console’s operating system you’re using.
 
-Xbox continues to provide new experiences in client apps that are connected to and backed by services such as Xbox services and cloud gaming. To ensure these connected experiences remain reliable, up to date, secure, and performing as expected, required service data may be collected whenever you use a connected experience.
+Xbox continues to provide new experiences in client apps that are connected to and backed by services such as the Xbox network and cloud gaming. To ensure these connected experiences remain reliable, up to date, secure, and performing as expected, required service data may be collected whenever you use a connected experience.
 
 **Data we collect** about your use of Xbox services, games, apps, and consoles includes:
 
@@ -1146,9 +1220,9 @@ Learn more at [Manage settings for optional data sharing](https://www.xbox.com/m
 
 **Game captures**. Any player in a multiplayer game session can record video (game clips) and capture screenshots of their view of the game play. Other players’ game clips and screenshots can capture your in-game character and gamertag during that session. If a player captures game clips and screenshots on a PC, the resulting game clips might also capture audio chat.
 
-**Captioning**. During Xbox real-time (“party”) chat, players may activate a voice-to-text feature that lets them view that in-game chat as text. If a player activates this feature, no notice is given to other players. Microsoft uses the resulting text data to provide captioning of chat for players who need it, as well as the other purposes described in this statement.
+**Captioning**. During Xbox real-time (“party”) chat, players may activate a voice-to-text feature that lets them view that in-game chat as text. If a player activates this feature, all voice communication in the party is captioned for the player. Microsoft uses the resulting text data to provide captioning of chat for players who need it, as well as the other purposes described in this statement.
 
-**Data use**. Microsoft uses the data we collect from your use of Xbox consoles, Xbox apps, and the Xbox network to provide you with those experiences—and make them safer and more fun over time. Data we collect includes device information and game play statistics, such as the number of unique players and play time per game.
+**Data use**. Microsoft uses the data we collect from your use of Xbox consoles, Xbox apps, Xbox store and the Xbox network to provide you with those experiences, and make them safer and more fun over time. Data we collect includes device information and game play statistics, such as the number of unique players and play time per game.
 
 Data we collect also enables us to provide you with personalised, curated experiences. This includes connecting you to games, content, and services, as well as presenting you with offers, discounts, and recommendations.
 
@@ -1162,19 +1236,7 @@ For example, your gamertag and scores that show on game leaderboards are conside
 
 Learn more at [Use your safety settings](https://support.xbox.com/help/friends-social-activity/community/use-safety-settings).
 
-**Data we share with third parties**. If you use an Xbox online game or Xbox app, Microsoft may share information with the publisher of that game or app in order to deliver your online experiences, improve the game or app, diagnose problems, provide support, and connect you with other players. We may also share relevant data with partner companies, such as network operators and device manufacturers, so they can improve your Xbox experiences on their products and services.
-
-Information we share may include:
-
-*   Limited Microsoft account data such as country and age range.
-*   Xbox profile data such as user ID, gamertag, and avatars.
-*   Data about your game play or app session, including achievements unlocked, time using the game or app, presence, game statistics and rankings, and enforcement activity about you in the game or app.
-*   Social data (including club memberships), friends, others you have played with, and information about your interactions and communications.
-*   Data about the game or app’s performance on the console, PC, or mobile device, including error reports.
-*   Content you create, upload, or share in the game, app, or on the Xbox network.
-*   Other data, like gamerpic (profile picture) and real name, that you choose to share based on your settings or by providing additional consent.
-
-**Xbox data shared with game and apps publishers**. When you use an Xbox online game or any network-connected app on your Xbox console, PC, or mobile device, the publisher of that game or app has access to data about your usage to help the publisher deliver, support, and improve its product. This data may include: your Xbox user ID, gamertag, limited account info such as country and age range, data about your in-game communications, any Xbox enforcement activity, game-play sessions (for example, moves made in-game, types of vehicles used in-game), your presence on the Xbox network, the time you spend playing the game or app, rankings, statistics, gamer profiles, avatars, or gamerpics, friends lists, activity feeds for official clubs you belong to, official club memberships, and any content you create or submit in the game or app.
+**Xbox data shared with third parties including game and apps publishers**. When you use an Xbox online game or any network-connected app on your Xbox console, PC, or mobile device, the publisher of that game or app has access to data about your usage to help the publisher deliver, support, and improve its product. This data may include: your Xbox user ID, gamertag, limited account info such as country and age range, data about your in-game communications, any Xbox enforcement activity, game-play sessions (for example, moves made in-game, types of vehicles used in-game), your presence on the Xbox network, the time you spend playing the game or app, rankings, statistics, gamer profiles, avatars, or gamerpics, friends lists, activity feeds for official clubs you belong to, official club memberships, and any content you create or submit in the game or app.
 
 Third-party publishers and developers of games and apps have their own distinct and independent relationship with users and their collection and usage of personal data is subject to their specific privacy policies. You should carefully review their policies to determine how they use the data. For example, publishers may choose to disclose or display game data (such as on leaderboards) through their own services. You may find their policies linked from game or app detail pages in the Microsoft Store.
 
@@ -1187,6 +1249,8 @@ To stop sharing game or app data with a publisher, remove its games or app from 
 Learn more about Microsoft family groups at [Simplify your family’s life](https://account.microsoft.com/family/about).
 
 Learn more about managing Xbox profiles, at [Xbox online safety and privacy settings](https://support.xbox.com/help/family-online-safety/online-safety/manage-online-safety-and-privacy-settings-xbox-one).
+
+For more information about Microsoft’s collection of data from children, including Xbox, please see the [Collection of data from children](#maincollectionofdatafromchildrenmodule) section of this privacy statement.
 
 **Safety**. The Xbox network includes communications features such as text and voice, direct messaging, and real-time text and voice chat. In order to help provide a safe gaming environment and enforce the [Community Standards for Xbox](https://www.xbox.com/legal/codeofconduct), we collect and monitor text communications during hosted multiplayer game sessions, direct messages, and other features of the service, including activity feeds and clubs.
 
