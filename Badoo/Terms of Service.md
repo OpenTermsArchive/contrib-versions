@@ -148,16 +148,16 @@ By accessing Badoo or agreeing to receive messages or notifications from Badoo t
 
 Non-registered users are able to access only that portion of Badoo that is publicly available. They will not have a Profile but may have limited ability to upload any Content. The extent of registered users’ access to Badoo will depend on certain criteria relating to their Profile being met. We may change or update the criteria from time to time without prior notice and at our discretion.
 
-6\. Termination of use by you
+5\. Termination of use by you
 -----------------------------
 
 ### They say that you can have too much of a good thing… what do I do if I want to “unregister” myself from Badoo?
 
-If you have registered on Badoo, you can terminate your registration at any time by going to the ‘Settings’ control on Badoo when you are logged in and choosing the ‘delete profile’ link. We save your profile information in case you later decide to restore your account. Many users deactivate their accounts for temporary reasons and in doing so expect us to maintain their information until they return to Badoo. You will therefore be able to restore your account and your profile in its entirety within 30 days of de-activating it. Once your registration is terminated, we have the right to delete any related Content that you have submitted or uploaded on to Badoo. For further details, please refer to our [Privacy Policy](https://badoo.com/privacy/).
+If you have registered on Badoo, you can terminate your registration at any time by going to the ‘Settings’ control on Badoo when you are logged in and choosing the ‘delete profile’ link. We save your profile information in case you later decide to restore your account. Many users deactivate their accounts for temporary reasons and in doing so expect us to maintain their information until they return to Badoo. You will therefore be able to restore your account and your profile in its entirety within 28 days of de-activating it. Once your registration is terminated, we have the right to delete any related Content that you have submitted or uploaded on to Badoo. For further details, please refer to our [Privacy Policy](https://badoo.com/privacy/).
 
 Content that you have uploaded to Badoo, other than your Profile (such as comments or email messages), may still appear on Badoo following termination of your registration.
 
-7\. Abuse/Complaints
+6\. Abuse/Complaints
 --------------------
 
 ### Someone is not obeying the Terms, who do I tell?
@@ -166,14 +166,14 @@ You can report any abuse or complain about Content on Badoo by contacting us via
 
 We will always try our best to help resolve any issue that you may encounter with our service. If your complaint or dispute remains unresolved, however, you may be eligible to use the European Commission’s online dispute resolution platform [here](https://webgate.ec.europa.eu/odr/main/index.cfm?event=main.home.chooseLanguage).
 
-8\. Privacy Policy
+7\. Privacy Policy
 ------------------
 
 ### Do you have guidelines in place about what you can do with my personal data?
 
 We process information in accordance with our [Privacy Policy](https://badoo.com/privacy/) which is incorporated into these Terms and Conditions of Use. Please read the terms of our [Privacy Policy](https://badoo.com/privacy/) prior to using Badoo. By using Badoo, you agree to such processing and you warrant that all data provided by you is true, correct and accurate.
 
-9\. Links
+8\. Links
 ---------
 
 ### Are the links on the app or site anything to do with Badoo?
@@ -182,8 +182,8 @@ Badoo may contain links to other sites, resources and purchase opportunities pro
 
 Please note that we have no control over the contents of any third party sites or resources, and we accept no responsibility for them, including (but not limited to) the third party site’s compliance with any applicable laws or regulations.
 
-10\. Disclaimer of warranties and limitation of liability
----------------------------------------------------------
+9\. Disclaimer of warranties and limitation of liability
+--------------------------------------------------------
 
 ### I forgot the rules about conduct on here and now someone is threatening to sue me. Will your lawyers sort it out?
 
@@ -208,7 +208,7 @@ What about the reliability of Badoo and the information contained on it?
 
 Badoo has taken reasonable steps to ensure the currency, availability, correctness and completeness of the information contained on Badoo and provides that information on an "as is", "as available" basis. Badoo does not give or make any warranty or representation of any kind about the information contained on Badoo, whether express or implied. Use of Badoo and the materials available on it is at your sole risk. Badoo cannot be held responsible for any loss arising from the transmission, use of data, or inaccurate Content posted by users. You are responsible for taking all necessary precautions to ensure that any material you may obtain from Badoo is free of viruses or other harmful components. You accept that Badoo will not be provided uninterrupted or error free, that defects may not be corrected or that Badoo, or the server that makes it available, are free of viruses or bugs, spyware, Trojan horses or any similar malicious software. Badoo is not responsible for any damage to your computer hardware, computer software, or other equipment or technology including, but without limitation damage from any security breach or from any virus, bugs, tampering, fraud, error, omission, interruption, defect, delay in operation or transmission, computer line or network failure or any other technical or other malfunction. In the unlikely event that any defect is discovered within Badoo, we will use every effort to repair or fix the defect free of charge, without significant inconvenience to you, as soon as practicable.
 
-11\. Indemnity
+10\. Indemnity
 --------------
 
 ### I forgot the rules about conduct on here and now someone is threatening to sue YOU. What now?
@@ -217,7 +217,7 @@ If we are sued as a result of your use of Badoo then we have the right to defend
 
 You agree to hold harmless and indemnify us and our officers, directors, employees, agents, representatives and licensors from and against any third party claims, damages (actual and/or consequential), actions, proceedings, demands, losses, liabilities, costs and expenses (including reasonable solicitors’ fees) suffered or reasonably incurred by us arising as a result of, or in connection with, your access to and use of Badoo, the uploading or submission of Content to Badoo by you or your conduct, other than in accordance with the Terms or any applicable law or regulation (“**Claim**”). Badoo retains the exclusive right to settle, compromise and pay any and all Claims or causes of action which are brought against us without your prior consent.
 
-12\. Miscellaneous
+11\. Miscellaneous
 ------------------
 
 ### What about all of those standard clauses that you see at the end of most contracts? They’re the best bit!
