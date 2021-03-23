@@ -161,4 +161,73 @@ Learn more about how to manage notifications, your publicly available informatio
 | **Spotify partners** | Depending on how you sign up for the Spotify Service (e.g. through a third party service or a mobile provider), we share your Spotify username or other User Data as necessary to enable your account. We may also share personal data with that third party about your use of the Spotify Service, such as whether and to what extent you have used the offer, activated a Spotify account, or actively used the Spotify Service. We also may share your personal data in a pseudonymised format with our music industry partners to help them understand how the content they license to us is performing and to enable you to listen to streaming content via the Spotify Service. |
 | **Academic researchers** | We will share your personal data for activities such as statistical analysis and academic study but only in a pseudonymised format. |
 | **Other Spotify group companies** | We will share your personal data with other Spotify group companies to carry out our daily business operations and to enable us to maintain and provide the Spotify Service to you. |
-| **Law enf** |
+| **Law enforcement and data protection authorities** | We share your personal data when we in good faith believe it is necessary for us to do so in order to comply with a legal obligation under applicable law, or respond to valid legal process, such as a search warrant, a court order, or a subpoena. We also share your personal data where we in good faith believe that it is necessary for the purpose of our own, or a third party’s legitimate interest relating to national security, law enforcement, litigation, criminal investigation, protecting the safety of any person, or to prevent death or imminent bodily harm, provided that we deem that such interest is not overridden by your interests or fundamental rights and freedoms requiring the protection of your personal data. |
+| **Purchasers of our business** | We will share your personal data in those cases where we sell or negotiate to sell our business to a buyer or prospective buyer. In this situation, Spotify will continue to ensure the confidentiality of your personal data and give you notice before your personal data is transferred to the buyer or becomes subject to a different privacy policy. |
+
+[7\. Data retention and deletion](#7-data-retention-and-deletion)
+-----------------------------------------------------------------
+
+We keep your personal data only as long as necessary to provide you with the Spotify Service and for legitimate and essential business purposes, such as maintaining the performance of the Spotify Service, making data-driven business decisions about new features and offerings, complying with our legal obligations, and resolving disputes. We keep some of your personal data for as long as you are a user of the Spotify Service. For example, we keep your playlists, song library, and account information.
+
+If you request, we will delete or anonymise your personal data so that it no longer identifies you, unless we are legally allowed or required to maintain certain personal data, including situations such as the following:
+
+*   If there is an unresolved issue relating to your account, such as an outstanding credit on your account or an unresolved claim or dispute we will retain the necessary personal data until the issue is resolved;
+*   Where we need to retain the personal data for our legal, tax, audit, and accounting obligations, we will retain the necessary personal data for the period required by applicable law; and/or,
+*   Where necessary for our legitimate business interests such as fraud prevention or to maintain the security of our users.
+
+[8\. Transfer to other countries](#8-transfer-to-other-countries)
+-----------------------------------------------------------------
+
+Spotify shares your personal data globally with Spotify group companies in order to carry out the activities specified in this Policy. Spotify may also subcontract processing to, or share your personal data with, third parties located in countries other than your country. Your personal data, therefore, may be subject to privacy laws that are different from those in your country.
+
+Personal data collected within the European Union and Switzerland may, for example, be transferred to and processed by third parties located in a country outside of the European Union and Switzerland. In such instances Spotify shall ensure that the transfer of your personal data is carried out in accordance with applicable privacy laws and, in particular, that appropriate contractual, technical, and organisational measures are in place such as the Standard Contractual Clauses approved by the EU Commission.
+
+For further details of the security measures we use to protect your personal data, please see [Section 10 'Keeping your personal data safe'](#10-keeping-your-personal-data-safe) of this Policy.
+
+[9\. Links](#9-links)
+---------------------
+
+We may display advertisements from third parties and other content that links to third-party websites. We cannot control or be held responsible for third parties' privacy practices and content. If you click on a third-party advertisement or link, please understand that you are leaving the Spotify Service and any personal data you provide will not be covered by this Policy. Please read their privacy policies to find out how they collect and process your personal data.
+
+[10\. Keeping your personal data safe](#10-keeping-your-personal-data-safe)
+---------------------------------------------------------------------------
+
+We are committed to protecting our users' personal data. We implement appropriate technical and organisational measures to help protect the security of your personal data; however, please note that no system is ever completely secure. We have implemented various policies including pseudonymisation, encryption, access, and retention policies to guard against unauthorised access and unnecessary retention of personal data in our systems.
+
+Your password protects your user account, so we encourage you to use a strong password that is unique to your Spotify account, never share your password with anyone, limit access to your computer and browser, and log out after having used the Spotify Service.
+
+[11\. Children](#11-children)
+-----------------------------
+
+With the exception of Spotify Kids, a separate Spotify application available in certain markets, the Spotify Service is not directed to children under the age of 13 years. The Spotify Service is also not offered to children whose age makes it illegal to process their personal data or requires parental consent for the processing of their personal data under the GDPR or other local law.
+
+We do not knowingly collect personal data from children under 13 years or under the applicable age limit (the "Age Limit"). If you are under the Age Limit, please do not use the Spotify Service, and do not provide any personal data to us.
+
+If you are a parent of a child under the Age Limit and become aware that your child has provided personal data to Spotify, please contact us using the 'Contact Us' form on the [Privacy Center](https://www.spotify.com/us/privacy), and you may request exercise of your applicable rights detailed in [Section 3 'Your rights and your preferences: Giving you choice and control'](#3-your-rights-and-your-preferences-giving-you-choice-and-control) of this Policy.
+
+If we learn that we have collected the personal data of a child under the age of 13 years, we will take reasonable steps to delete the personal data. This may require us to delete the Spotify account for that child.
+
+[12\. Changes to this Policy](#12-changes-to-this-policy)
+---------------------------------------------------------
+
+We may occasionally make changes to this Policy.
+
+When we make material changes to this Policy, we'll provide you with prominent notice as appropriate under the circumstances, e.g., by displaying a prominent notice within the Spotify Service or by sending you an email and/or a device notification. We may notify you in advance.
+
+Please, therefore, make sure you read any such notice carefully.
+
+If you want to find out more about this Policy and how Spotify uses your personal data, please visit the [Privacy Center](https://www.spotify.com/us/privacy) on spotify.com to find out more.
+
+[13\. How to contact us](#13-how-to-contact-us)
+-----------------------------------------------
+
+Thank you for reading our Policy. If you have any questions about this Policy, please contact our Data Protection Officer by using the 'Contact Us' form on the [Privacy Center](https://www.spotify.com/us/privacy), emailing [privacy@spotify.com](mailto:privacy@spotify.com), or by writing to us at the following address:
+
+Spotify USA Inc.  
+150 Greenwich Street, Floor 62  
+New York, NY 10007  
+USA
+
+We hope you enjoy Spotify!
+
+© Spotify USA Inc.
