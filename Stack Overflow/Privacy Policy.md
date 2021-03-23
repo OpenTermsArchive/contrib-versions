@@ -1,7 +1,7 @@
 Stack Exchange, Inc. Privacy Policy
 -----------------------------------
 
-Updated 07 February 2020
+Updated 17 March 2021
 
 ABOUT STACK OVERFLOW
 
@@ -250,5 +250,3 @@ Privacy Shield
 EU Representative
 
 *   Privacy Officer, Bentima House, 168-172 Old Street, London EC1V 9BP, privacy@stackoverflow.com, phone: +44 (0) 20 3349 1000
-
-Last update: February 07, 2020
