@@ -11,7 +11,7 @@ Looking to change your privacy settings?
 
 [Take the Privacy Checkup](https://myaccount.google.com/privacycheckup?utm_source=pp&utm_medium=Promo-in-product&utm_campaign=pp_intro)
 
-Effective February 4, 2021 | [Archived versions](https://policies.google.com/privacy/archive) | [Download PDF](https://www.gstatic.com/policies/privacy/pdf/20210204/3jla0xz1/google_privacy_policy_en.pdf)
+Effective February 4, 2021 | [Archived versions](https://policies.google.com/privacy/archive) | [Download PDF](https://www.gstatic.com/policies/privacy/pdf/20210204/3jla0xz1/google_privacy_policy_en_eu.pdf)
 
 Contents
 --------
@@ -367,6 +367,47 @@ We maintain [servers around the world](https://policies.google.com/privacy#footn
 
 When we receive formal written complaints, we respond by contacting the person who made the complaint. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of your data that we cannot resolve with you directly.
 
+European requirements
+---------------------
+
+If European Union (EU) or United Kingdom (UK) data protection law applies to the processing of your information, we provide the controls described in this policy so you can exercise your right to request access to, update, remove, and restrict the processing of your information. You also have the right to object to the processing of your information or export your information to another service.
+
+For users based in the European Economic Area or Switzerland, the data controller responsible for your information is Google Ireland Limited, unless otherwise stated in a service-specific privacy notice. In other words, Google Ireland Limited is the Google affiliate that is responsible for processing your information and for complying with applicable privacy laws.
+
+We process your information for the purposes described in this policy, based on the following legal grounds:
+
+### With your consent
+
+We ask for your agreement to process your information for specific purposes and you have the right to withdraw your consent at any time. For example, we ask for your consent to provide you with personalized services, such as ads based on your interests. We also ask for your consent to collect your voice and audio activity for speech recognition. You can manage these settings in your [Google Account](https://myaccount.google.com/).
+
+### When we’re pursuing legitimate interests
+
+We process your information for our legitimate interests and those of [third parties](https://policies.google.com/privacy#footnote-third-parties) while applying [appropriate safeguards](https://policies.google.com/privacy#footnote-safeguards) that protect your privacy. This means that we process your information for things like:
+
+*   Providing, maintaining, and improving our services to meet the needs of our users
+*   Developing new products and features that are useful for our users
+*   Understanding how people use our services to [ensure and improve](https://policies.google.com/privacy#footnote-improve) the performance of our services
+*   [Customizing our services](https://policies.google.com/privacy#footnote-customizing) to provide you with a better user experience
+*   Marketing to inform users about our services
+*   Providing advertising, which keeps many of our services free (and when ads are personalized, we ask for your consent)
+*   Detecting, preventing, or otherwise addressing fraud, abuse, security, or technical issues with our services
+*   Protecting against harm to the rights, property or safety of Google, our users, or the public as required or permitted by law, including disclosing information to government authorities
+*   Performing research that improves our services for our users and benefits the public
+*   Fulfilling obligations to our partners like developers and rights holders
+*   Enforcing legal claims, including investigation of potential violations of applicable Terms of Service
+
+### When we’re providing a service
+
+We process your data to provide a service you’ve asked for under a contract. For example, we process your payment information when you buy extra storage for Google Drive.
+
+### When we’re complying with legal obligations
+
+We’ll process your data when we have a legal obligation to do so, for example, if we’re responding to [legal process or an enforceable governmental request](https://policies.google.com/privacy#footnote-legal).
+
+* * *
+
+If you have questions, [you can contact Google and our data protection office](https://support.google.com/policies/troubleshooter/7575787). And you can contact your local data protection authority if you have concerns regarding your rights under local law.
+
 About this policy
 =================
 
@@ -398,7 +439,7 @@ The following privacy notices provide additional information about some Google s
 *   [Fiber](https://fiber.google.com/legal/privacy.html)
 *   [Google Fi](https://fi.google.com/about/tos/#project-fi-privacy-notice)
 *   [G Suite for Education](https://www.google.com/work/apps/terms/education_privacy.html)
-*   [Read Along](https://readalong.google/intl/en_QA/privacy)
+*   [Read Along](https://readalong.google/intl/en_FR/privacy)
 *   [YouTube Kids](https://kids.youtube.com/privacynotice)
 *   [Google Accounts Managed with Family Link, for Children under 13 (or applicable age in your country)](https://families.google.com/familylink/privacy/child-policy/)
 *   [Voice and Audio Collection from Children’s Features on the Google Assistant](https://assistant.google.com/privacy-notice-childrens-features/)
@@ -515,6 +556,10 @@ For example, advertisers may upload data from their loyalty-card programs so tha
 
 Android devices with Google apps include devices sold by Google or one of our partners and include phones, cameras, vehicles, wearables, and televisions. These devices use Google Play Services and other pre-installed apps that include services like Gmail, Maps, your phone’s camera and phone dialer, text-to-speech conversion, keyboard input, and security features.
 
+### appropriate safeguards
+
+For example, we may anonymize data, or encrypt data to ensure it can’t be linked to other information about you. [Learn more](https://policies.google.com/technologies/anonymization)
+
 ### combine the information we collect
 
 Some examples of how we combine the information we collect include:
@@ -527,6 +572,10 @@ Some examples of how we combine the information we collect include:
 ### customized search results
 
 For example, when you’re signed in to your Google Account and have the Web & App Activity control enabled, you can get more relevant search results that are based on your previous searches and activity from other Google services. You can [learn more here](https://support.google.com/websearch?p=privpol_searchactivity). You may also get customized search results even when you’re signed out. If you don’t want this level of search customization, you can [search and browse privately](https://support.google.com/websearch?p=privpol_incognito) or turn off [signed-out search personalization](https://www.google.com/history/optout?utm_source=pp).
+
+### Customizing our services
+
+For example, we may display a Google Doodle on the Search homepage to celebrate an event specific to your country.
 
 ### deliver our services
 
