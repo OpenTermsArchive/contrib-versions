@@ -91,7 +91,7 @@ Nous traitons vos Données pour les finalités exposées dans le tableau suivant
 | Gestion administrative et comptable des comptes vendeurs | · Obligation légale<br><br>· Intérêt légitime poursuivi par Cdiscount |
 | Gestion des échanges avec les vendeurs marketplace :<br><br>\- Gestion des échanges via des mails<br><br>\- Formulaires de contact sur le site institutionnel<br><br>\- Améliorer la prise en compte des demandes des clients par les vendeurs<br><br>\- Gestion des demandes des vendeurs | · Exécution du contrat<br><br>· Obligation légale<br><br>· Intérêt légitime poursuivi par Cdiscount |
 | Analyse de la performance de la Marketplace | · Intérêt légitime poursuivi par Cdiscount |
-| Activité n°8 - Cdiscount à volonté | Pilotage de l’activité liée aux ventes Cdiscount à Volonté | · Intérêt légitime poursuivi par Cdiscount |
+| Activité n°8 - Cdiscount à volonté | Pilotage de l’activité liée aux ventes Cdiscount à Volonté | · Intérêt légitime poursuivi par Cdiscount  <br>\- Exécution du contrat |
 | Optimisation et personnalisation du parcours client abonné à Cdiscount à Volonté |
 | Renouvellement de l’abonnement Cdiscount à Volonté |
 
