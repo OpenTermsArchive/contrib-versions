@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-Effective: 14 September 2020
+Effective: 24 March 2021
 
 Snap Inc. is a camera company. Our products and services – including Snapchat, Bitmoji, Spectacles, advertising and others that link to this Privacy Policy – provide fast and fun ways to express yourself, live in the moment, learn about the world and have fun together!
 
@@ -230,7 +230,7 @@ You have the right to object to our use of your information. With many types of 
 
 We may collect your personal information from, transfer it to and store and process it in the United States and other countries outside of where you live. Whenever we share information of EU users outside the EU, we make sure an adequate transfer mechanism is in place. You can find more information on the categories of third parties we share information with [here](https://support.snapchat.com/a/snapchat-service-providers).
 
-**Complaints?**  If you’re based in the EU, you can always file a complaint with the [supervisory authority](https://edpb.europa.eu/about-edpb/board/members_en) in your Member State.
+**Complaints or questions?** If you’re based in the EU, you can always file a complaint with the [supervisory authority](https://edpb.europa.eu/about-edpb/board/members_en) in your Member State. Additionally, we have appointed a Data Protection Officer (“DPO”). To contact our DPO, please email dpo @ snap.com.
 
 Users in Brazil
 ---------------
@@ -258,7 +258,7 @@ Your country only allows us to use your personal information when certain condit
 
 You have the right to object to our use of your information. With many types of data, we’ve provided you with the ability to simply delete it if you don’t want us processing it any more. For other types of data, we’ve given you the ability to stop the use of your data by disabling the feature altogether. You can do these things in the app. If there are other types of information you don’t agree with us processing, you can contact us.
 
-**Complaints?**  You can always file a complaint with the national authority in your country. Additionally, we have appointed a Data Protection Officer (“DPO”). To contact our DPO, please email dpo @ snap.com.
+**Complaints or questions?**  You can always file a complaint with the national authority in your country. Additionally, we have appointed a Data Protection Officer (“DPO”). To contact our DPO, please email dpo @ snap.com.
 
 Users in Mexico
 ---------------
