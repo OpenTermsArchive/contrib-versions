@@ -250,4 +250,4 @@ Our registered office is at The Broadgate Tower, Third Floor, 20 Primrose Street
 Effective date
 --------------
 
-The Terms were last updated on: 12 February 2021.
+The Terms were last updated on: 22 March 2021.
