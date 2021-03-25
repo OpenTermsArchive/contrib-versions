@@ -17,12 +17,13 @@ Brands, organisations, artists and other online-only businesses aren't eligible 
 |     |
 | --- |
 | **Fields** |
-| [Eligible businesses](#eligible)  <br>[Ineligible businesses](#ineligible)  <br>[Ownership](#ownership)  <br>[Business description guidelines](#description)  <br>[Name](#name)  <br>[Address](#address)  <br>[Website and phone](#websitephone)  <br>[Opening hours](#hours)  <br>[Categories](#Categories)  <br>[Menu](#menu)  <br>[Chains and brands](#chains)  <br>[Departments within other businesses, universities or institutions](#departments)  <br>[I](#illegal)[Individual practitioners](#pract)  <br>[Illegal activities](#illegal)  <br>[Marketing, promotions or other contests](#marketing) |
+| [Eligible businesses](#eligible)  <br>[Ineligible businesses](#ineligible)  <br>[Ownership](#ownership)  <br>[Business description guidelines](#description)  <br>[Name](#name)  <br>[Address](#address)  <br>[Website and phone](#websitephone)  <br>[Opening hours](#hours)  <br>[Categories](#Categories)  <br>[Menu](#menu)  <br>[Chains and brands](#chains)  <br>[Departments within other businesses, universities or institutions](#departments)  <br>[Individual practitioners](#pract)  <br>[Illegal activities](#illegal)  <br>[Marketing, promotions or other contests](#marketing) |
 
 Basic guidelines
 ----------------
 
-### Eligible businesses
+Eligible businesses
+-------------------
 
 In order to qualify for a Business Profile on Google, a business must make in-person contact with customers during its stated hours.
 
@@ -32,7 +33,8 @@ There are some exceptions:
 *   Seasonal businesses, like an ice-skating rink only open in winter months, are eligible. These businesses must display permanent signage at their location year-round.
 *   Virtual Kitchens are permitted. Virtual Kitchens are professional food preparation and cooking facilities set up to prepare delivery-only meals via third-party services. They are also referred to as Ghost Kitchens and Cloud Kitchens. A Virtual Kitchen should create their Business Profile as a [service area business](https://support.google.com/business/answer/9157481).
 
-### Ineligible businesses
+Ineligible businesses
+---------------------
 
 The following businesses are not eligible for a business listing:
 
@@ -40,11 +42,13 @@ The following businesses are not eligible for a business listing:
 *   An ongoing service, class or meeting at a location that you don't own or have the authority to represent.
 *   Lead generation agents or companies.
 
-### Ownership
+Ownership
+---------
 
 Only business owners or authorised representatives may verify and manage their business information on Google My Business. If you wish to share management access to your listing with others, you can [add a manager](https://support.google.com/business/answer/3403100).
 
-#### Additional guidelines for authorised representatives
+Additional guidelines for authorised representatives
+----------------------------------------------------
 
 Any individual or company that manages business information on Google My Business for a business that they don’t own is considered an **authorised representative**. For example: a third-party SEO/SEM company; a friend of the business owner; an online ordering, scheduling or booking provider and an affiliate network provider.
 
@@ -372,7 +376,7 @@ For each department, the category that is the most representative of that depart
 *   The main business "Southend Toyota" has the category "Toyota Dealer" whereas "Southend Toyota Service & Parts" has the category "Auto Repair Shop" (plus the category "Auto Parts Shop")
 *   The main business "GetGo" has the category "Convenience Store" (plus the category "Sandwich Shop") whereas the department "GetGo Fuel" has the category "Gas Station", and the department "WetGo" has the category "Car Wash"
 
-### Individual practitioners (e.g. doctors, lawyers, estate agents)
+Individual practitioners (e.g. doctors, lawyers, estate agents)
 
 An individual practitioner is a public-facing professional, typically with their own customer base. Doctors, dentists, lawyers, financial planners and insurance or estate agents are all individual practitioners. Listings for practitioners may include title or degree certification (e.g. Dr., MD, JD, Esq., CFA).
 
