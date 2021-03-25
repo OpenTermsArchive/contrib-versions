@@ -67,7 +67,7 @@ When you send photos, videos or files via secret chats, before being uploaded, e
 
 In addition to private messages, Telegram also supports public channels and public groups. All public chats are cloud chats (see [section 3.3.1 above](#3-3-1-cloud-chats)). Like everything on Telegram, the data you post in public communities is encrypted, both in storage and in transit — but everything you post in public will be accessible to everyone.
 
-##### [](#3-3-5-phone-number-and-contacts)3.3.5. Phone Number and Contacts
+##### [](#3-4-phone-number-and-contacts)3.4. Phone Number and Contacts
 
 Telegram uses phone numbers as unique identifiers so that it is easy for you to switch from SMS and other messaging apps and retain your social graph. We ask your permission before syncing your contacts.
 
@@ -79,7 +79,13 @@ You can always stop syncing contacts or delete them from our servers in Settings
 
 > If you are using Android, Telegram will ask you for permission to access your phone call logs (READ\_CALL\_LOG). If you grant this permission, Telegram will be able verify your account by transmitting a phone call instead of asking you to enter a code. Telegram uses this permission only to confirm receipt of the confirmation call by verifying the number in the call log.
 
-##### [](#3-3-6-cookies)3.3.6. Cookies
+#### [](#3-5-location-data)3.5. Location Data
+
+If you share a location in a chat, this location data is treated like other messages in [cloud](https://telegram.org/privacy?setln=en#3-3-1-cloud-chats) or [secret chats](https://telegram.org/privacy?setln=en#3-3-2-secret-chats) respectively.
+
+If you share your [Live Location](https://telegram.org/blog/live-locations) in any chat or turn on _’Make Myself Visible’_ in [People Nearby](https://telegram.org/blog/new-profiles-people-nearby#people-nearby-2-0), Telegram will use your data to display your location to those users with whom you are sharing it, even when the app is closed – for as long as you keep these optional features activated.
+
+##### [](#3-6-cookies)3.6. Cookies
 
 The only cookies we use are those to operate and provide our Services on the web. We do not use cookies for profiling or advertising. The cookies we use are small text files that allow us to provide and customize our Services, and in doing so provide you with an enhanced user experience. Your browser should allow you to control these cookies, including whether or not to accept them and how to remove them. You may choose to block cookies with your web browser, however, if you do disable these cookies you will not be able to log in to Telegram Web.
 
@@ -235,6 +241,11 @@ We will review and may update this Privacy Policy from time to time. Any changes
 **March 25, 2019**
 
 *   Expanded \[10.2. Deleting Messages\] with data on the new features in [version 5.5](https://telegram.org/blog/unsend-privacy-emoji), which allow both participants to remove any messages from one-on-one chats for both sides without a time limit.
+
+**March 24, 2021**
+
+*   Added [3.5. Location Data](#3-5-location-data).
+*   Improved stucture, moving 3.3.5 to [3.4](#3-4-phone-number-and-contacts) and 3.3.6 to [3.6](#3-6-cookies).
 
 Important changes made to this Privacy Policy will be notified to you via Telegram.
 
