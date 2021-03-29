@@ -192,7 +192,7 @@ Netflix uses contractual and technical measures designed to prevent Advertising 
 
 **To exercise choice regarding cookies**
 
-For more information about cookies set through our website, as well as other types of online tracking (including the collection of information by third parties about your online activities over time and across third-party web sites or online services for online interest based advertising), and to exercise choices regarding them, [click here](#cookie-preferences). At this time, we do not respond to web browser "do not track" signals. 
+For more information about cookies set through our website, as well as other types of online tracking (including the collection of information by third parties about your online activities over time and across third-party web sites or online services for online interest based advertising), and to exercise choices regarding them, [click here](http://info.evidon.com/pub_info/16083?v=1). At this time, we do not respond to web browser "do not track" signals. 
 
 **To exercise choice regarding resettable device identifiers**
 
