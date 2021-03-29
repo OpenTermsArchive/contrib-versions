@@ -83,9 +83,9 @@ For that reason, we allow the promotion of the content below, but on a limited b
 
 ### [Sexual content](https://support.google.com/adspolicy/answer/6023699)
 
-> Ads should respect user preferences and comply with legal regulations, so we don’t allow certain kinds of adult content in ads and destinations. Some kinds of adult-oriented ads and destinations are allowed if they comply with the policies below and don’t target minors, but they will only show in limited scenarios based on user search queries, user age, and local laws where the ad is being served.
+> Ads should respect user preferences and comply with legal regulations, so we don't allow certain kinds of sexual content in ads and destinations.  Some kinds of sexual content in ads and destinations are allowed only if they comply with the policies below and don't target minors, but they will only show in limited scenarios based on user search queries, user age, and local laws where the ad is being served. 
 > 
-> Learn about [what happens if you violate our policies](https://support.google.com/adwordspolicy/answer/7187501).
+> Learn about [what happens if you violate our policies](https://support.google.com/adspolicy/answer/7187501).
 > 
 > _Examples of restricted sexual content:_ Visible genitalia and female breasts, hook-up dating, sex toys, strip clubs, sexually suggestive live chat, and models in sexualized poses.
 
