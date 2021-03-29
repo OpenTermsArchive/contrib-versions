@@ -207,46 +207,4 @@ INTERNATIONAL DATA TRANSFERS
 
 Stack Overflow is a global community and as such, you may access the Stack Overflow Network from almost anywhere in the world. When you do this, you will also be subject to the local laws of your jurisdiction you are accessing it from. By accessing the Stack Overflow Network and engaging with our Products and Services, you acknowledge that your personal data may be collected and transferred from your local jurisdiction (including member states to the European Union) to the United States.
 
-Where Stack Overflow transfers your personal data from your local jurisdiction (including member states to the European Union) we rely on certain lawful transfer mechanisms to do so, including the following lawful bases for such transfers:
-
-Privacy shield
-
-Stack Overflow complies with the EU - US Privacy Shield Framework and Swiss - US Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information transferred from the European Union and Switzerland to the United States. Stack Overflow has certified (note: certification under legal name Stack Exchange, Inc.) to the Department of Commerce that it adheres to the Privacy Shield Principles including onward transfer principles as amended by the GDPR where applicable. Stack Overflow acknowledges accountability under the onward transfer principles of the Privacy Shield Framework when transferring data to third parties. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov/](https://www.privacyshield.gov/). Stack Exchange, Inc. is subject to the investigative and enforcement powers of the Federal Trade Commission. Under certain circumstances, you may invoke binding arbitration to determine, for residual claims, whether Stack Overflow has violated its Privacy Shield obligations, and whether any such violation remains fully or partially unremedied. Stack Overflow has further committed to refer unresolved Privacy Shield complaints to the PrivacyTrust Shield Program, an alternative dispute resolution provider located in the United Kingdom. If you do not receive timely acknowledgement of your complaint from Stack Overflow, or if we have not addressed your concern to your satisfaction, please contact us: privacy@stackoverflow.com or visit [https://privacytrust.com/drs/stackexchange](https://privacytrust.com/drs/stackexchange) or at the contact information provided below.
-
-Standard contractual clauses
-
-The European Commission has adopted standard contractual clauses (also referred to as model clauses), which provide safeguards to protect the transfer of personal information outside of the European Union. We may use these standard contractual clauses when transferring personal information outside of the European Union. You may review and request a copy of such standard contractual clauses as used by Stack Overflow by contacting us at legal@stackoverflow.com.
-
-OUR ONGOING COMMITMENT TO DATA SECURITY
-
-Security is important to us and we know it is important to you. Stack Overflow follows generally accepted standards to protect your personal information when processing, transferring, and storing your personal information including Transport Layer Security (“TLS”), by restricting your personal data when we do not need to access it and by keeping your personal data only as necessary to perform our legitimate business interests.
-
-As the data subject, you too have an important role to play in helping us protect your personal information. We encourage you to protect yourself against unauthorized access to your personal information by choosing a password carefully and in accordance with industry best standards. Do not share your password with anyone you do not trust, and make sure your computer accesses Stack Overflow via a secure network and that you do not leave your personal information vulnerable to hackers and other bad actors by leaving your computer unattended or by failing to logout of your account when you have ended your session activity.
-
-DIRECT MARKETING OPT OUT
-
-You may opt-out of receiving Stack Overflow email marketing materials by using the unsubscribe link in these communications or by changing your Email Settings.
-
-ADDITIONAL INFORMATION FOR CALIFORNIA CONSUMERS
-
-Under the California Consumer Privacy Act (“CCPA”), we are required to notify California consumers about our collection, use, and disclosure of their personal information (whether collected through this website or offline). Please see more information about this in the Legal section of our website.
-
-PRIVACY POLICY AMENDMENTS
-
-We may amend or update this policy from time to time and will notify you of any material changes to this policy. Previous versions of this privacy policy are available upon request.
-
-CONTACT US
-
-General Contact Information
-
-Privacy Officer
-
-*   Privacy Officer, 110 William Street, Floor 28, New York, NY 10038, privacy@stackoverflow.com, phone: 212-232-8280
-
-Privacy Shield
-
-*   Privacy Trust, Communications House, 26 York Street, London, W1U 6PZ
-
-EU Representative
-
-*   Privacy Officer, Bentima House, 168-172 Old Street, London EC1V 9BP, privacy@stackoverflow.com, phone: +44 (0) 20 3349 1000
+Where Stack Overflow transfers your personal data from your local jurisdiction (including member states to the European Union) we rely on certain lawful transfer mechanisms to do so, including the following lawful bases for such transfers
