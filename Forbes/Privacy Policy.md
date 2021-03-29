@@ -284,7 +284,7 @@
     
     If you are a Nevada consumer and would like to make a request pursuant to Nevada Senate Bill 220, [click here](https://submit-irm.trustarc.com/services/validation/3b4a34c3-f529-46b1-bafc-954b79909d32).
     
-    If you have any other questions regarding this Privacy Statement or how to remove or modify your user information or related consents, please feel free to contact us at [privacy@forbes.com](mailto:privacy@forbes.com) or Forbes Media, Privacy Team - Customer Service, 499 Washington Blvd., 9th Floor, Jersey City, NJ 07310. The data controller of your user information is Forbes Media LLC.  Our EU and UK representative can be contacted at [privacy@forbes.com](mailto:privacy@forbes.com) or Forbes Media - EU/UK Representative, 151 Wardour Street, Offices 201-203, London, W1F 8WE.
+    If you have any other questions regarding this Privacy Statement or how to remove or modify your user information or related consents, please feel free to contact us at [privacy@forbes.com](mailto:privacy@forbes.com) or Forbes Media, Privacy Team - Customer Service, 499 Washington Blvd., 9th Floor, Jersey City, NJ 07310. The data controller of your user information is Forbes Media LLC.  You may contact our EU and UK GDPR Data Protection Officer at [gdpr.dpo@forbes.com](mailto:gdpr.dpo@forbes.com) and our EU and UK representative at Forbes Media - EU/UK Representative, 151 Wardour Street, Offices 201-203, London, W1F 8WE
     
     If you are a California resident who has a disability and requires assistance to access this Privacy Statement in an alternative format, contact us by any of the methods set out here. You can access a printable copy of this Privacy Statement by printing this page.
     
