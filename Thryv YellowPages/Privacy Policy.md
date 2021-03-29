@@ -5,6 +5,8 @@ Thryv, Inc. and its affiliates (individually and collectively known as “**Thry
 
 This Privacy Notice version is effective as of **January 1, 2020**.
 
+**If you are located in Australia, the Sensis Pty Ltd applies to you. Please see [www.sensis.com.au/about/privacy](https://www.sensis.com.au/about/privacy).**
+
 **Summary of Privacy Policy**
 
 This Privacy Policy describes how Thryv collects, uses, shares and secures information related to users of our consumer-facing websites and mobile applications, including the business search services we provide on those digital properties, as well as any services we use to engage or communicate with consumers and to facilitate communications between consumers and the businesses that advertise with us. Our primary purpose in collecting and using information about you on our consumer-facing websites is to enable you to effectively use our business search services, to provide you with business information responsive to your queries, to facilitate connections between you and businesses with which you engage on This Website (as defined below), and to provide you with advertisements and marketing that match your interests and preferences.
