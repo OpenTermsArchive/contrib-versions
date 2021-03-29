@@ -88,7 +88,7 @@ All special offers and promotions are marked as such. If they are not labelled a
 
 The Genius rate is a discounted rate offered by participating properties for certain rooms/accommodation types.
 
-The Genius rate is for members of the Booking.com Genius programme. The Genius programme is open to anyone that has an account on the Platform. There are no membership fees and all you need to do to become a member is complete two (2) stays in two (2) years. The membership and the Genius rates are for that individual member and are non-transferable. Membership can also be linked to specific campaigns or incentives, as occasionally launched or communicated per Booking.com’s sole discretion.
+The Genius rate is for members of the Booking.com Genius programme. The Genius programme is open to anyone that has an account on the Platform. There are no membership fees and all you need to do to become a member is to create an account on Booking.com. The membership and the Genius rates are for that individual member and are non-transferable. Membership can also be linked to specific campaigns or incentives, as occasionally launched or communicated per Booking.com’s sole discretion.
 
 The Genius programme consists of multiple membership levels based upon the number of reservations made through the Booking.com platform, each with different levels of discount on selected properties and/or selected options (https://www.booking.com/genius.html). Membership levels may vary and may be subject to change, at the sole discretion of Booking.com.
 
