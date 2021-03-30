@@ -1,7 +1,7 @@
 Terms of Service
 ----------------
 
-_Last Updated: January 25, 2021_
+_Last Updated: March 30, 2021_
 
 The Gist
 --------
@@ -314,7 +314,7 @@ If you use any Third-Party Services, you understand that:
 
 In rare cases we may at our discretion, suspend, disable, or remove Third-Party Services from your account or website.
 
-If you purchase G Suite, there are a few other things we want to highlight: G Suite is provided by Google, and your use of G Suite is subject to [Google’s Terms of Use](https://www.google.com/apps/intl/en/terms/reseller_premier_terms.html) for the services, which you’ll accept before using G Suite for the first time. We’re an authorized reseller of G Suite, but make no warranties about Google’s services, and disclaim Google’s liability for any damages arising from our distribution and resale of their services. Google will provide technical support for its services, per its [Technical Support Services Guidelines](https://www.google.com/apps/intl/en/terms/tssg.html). If you’re a business and purchase G Suite for your WordPress.com website, you represent that you have 749 or fewer staff members.
+If you purchase Google Workspace or G Suite, there are a few other things we want to highlight: these services are provided by Google, and your use of them is subject to [Google’s Terms of Use](https://workspace.google.com/terms/premier_terms.html) for the services, which you’ll accept before using Google Workspace or G Suite for the first time. We’re an authorized reseller of Google Workspace and G Suite, but make no warranties about Google’s services, and disclaim Google’s liability for any damages arising from our distribution and resale of their services. Google will provide technical support for its services, per its [Technical Support Services Guidelines](https://www.google.com/apps/intl/en/terms/tssg.html).
 
 12\. Changes
 ------------
@@ -375,6 +375,6 @@ The Agreement (together with any other terms we provide that apply to any specif
 
 Automattic may assign its rights under the Agreement without condition. You may only assign your rights under the Agreement with our prior written consent.
 
-[Print friendly version](https://en.support.files.wordpress.com/2021/02/tos-01-25-21.pdf)
+[Print friendly version](https://en.support.files.wordpress.com/2021/03/tos-03-31-21.pdf)
 
 [**Change log**](https://wordpress.com/tos-change-log)
