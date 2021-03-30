@@ -279,5 +279,3 @@ We reserve the right to modify this Policy from time to time. If we make changes
 The language of this Policy is English. Where Zoosk has provided a translation of the English version of this Policy, you agree that the translation is provided for your convenience only and that the English language version of this Policy will govern your relationship with Zoosk. If there is any contradiction between what the English language version of this Policy says and what a translation says, then the English language version will take precedence.
 
 This Policy was last revised on May 15, 2018. For users who registered for the Services prior to May 15, 2018, this Policy will be effective on May 25, 2018.
-
-Cookie Settings
