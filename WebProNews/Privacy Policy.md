@@ -1,6 +1,9 @@
 Privacy Policy
 ==============
 
+Privacy Policy
+==============
+
 The iEntry Network (ientry.com) website and email newsletter network which also includes WebProNews (webpronews.com), Twellow (twellow.com), and Jayde (jayde.com) and reserves the right to change this policy at any time by notifying users through a notice posted on iEntry.com or WebProNews.com or by email, of the existence of a new privacy policy or any updates.
 
 Registration
