@@ -182,7 +182,7 @@ You control whether your User Content is made publicly available on the Services
 
 We accept no liability in respect of any content or information submitted by users of the Services and published by us, or on our behalf, on any of the Services or elsewhere by third parties.
 
-If you find inappropriate content that violates our [Community Guidelines](https://www.tiktok.com/community-guidelines) or have any other issues you'd like to raise, you can [send us a report](https://www.tiktok.com/legal/report/reports). 
+If you find inappropriate content that violates our [Community Guidelines](https://www.tiktok.com/community-guidelines) or have any other issues you'd like to raise, you can [send us a report](https://www.tiktok.com/legal/report/reports). 
 
 While our own staff is continually working to develop and evaluate our own product ideas and features, we pride ourselves on paying close attention to the interests, feedback, comments, and suggestions we receive from the user community. If you choose to contribute by sending us or our employees any ideas for products, services, features, modifications, enhancements, content, refinements, technologies, content offerings (such as audio, visual, games, or other types of content), promotions, strategies, or product/feature names, or any related documentation, artwork, computer code, diagrams, or other materials (collectively “**Feedback**”**),** then regardless of what your accompanying communication may say, the following terms will apply, so that the status of such Feedback is clearly understood by you and us. Accordingly, by sending Feedback to us, you agree that:
 
