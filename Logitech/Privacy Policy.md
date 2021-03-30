@@ -1,20 +1,24 @@
 Logitech, Inc. and its affiliates (collectively “Logitech”, “We” and “Us”) respect your privacy. This Privacy Statement explains how Logitech collects and uses personal data from visitors to its web and mobile sites that link directly to this Privacy Statement (collectively “Sites”).
 
-#### Actively Submitted Data
+Actively Submitted Data
+-----------------------
 
 If you call us, send us an email, or fill out a form on one of our Sites, we use the information you provide to respond to your request or to otherwise communicate with you or assist you. If you make purchases through our Sites, we may collect data necessary to process your order, such as your shipping address, products ordered, and your contact information.
 
-#### Passively Provided Data
+Passively Provided Data
+-----------------------
 
 When you access our Sites, depending on your opt-in choices, certain information about your computer or mobile device is shared with us, which may include the activities you perform on our Sites, the type of hardware and software you are using, (such as your operating system or browser), information stored in cookies, IP address, access times, the web pages from which you came, the regions from which you navigate the web page, and the web pages you access. We use this information to better understand the interests of the users of our Sites, to improve our Sites, services, and products.
 
 We do not currently respond to “Do Not Track” signals in browsers as we are trying to provide a customized website experience.
 
-#### Cookies
+Cookies
+-------
 
 Logitech uses cookies that are essentially small data files placed on your computer, tablet, mobile phone, or other devices. Click [here](https://www.logitech.com/en-gb/legal/cookie-policy.html) to learn more about cookies.
 
-#### Data use and sharing
+Data use and sharing
+--------------------
 
 We use the data we collect to provide you with rich, interactive experiences. In particular, we may use data to:
 
@@ -51,41 +55,25 @@ We may share your personal data for purposes of a business deal, or negotiation 
 
 We also freely use and share aggregated and pseudonymous information for performance and analytics purposes that cannot be used to identify you individually.
 
-#### Children
+Children
+--------
 
 We do not knowingly collect or maintain information about persons under 13 years of age. If we learn that information about persons under 13 years of age has been collected on or through the Sites, we will take appropriate steps to delete this information. If you are the parent or legal guardian of a child under 13 years of age who has registered for an account or service on our Sites, please contact us using the contact information below to have that child’s account or service terminated and personal information deleted.
 
-#### Data Retention
+Data Retention
+--------------
 
 We retain personal data for as long as necessary to provide functionality and fulfill the transactions you have requested, or for other legitimate purposes such as complying with our legal obligations, resolving disputes, and enforcing our agreements. Because these needs can vary for different data types, the context of our interactions with you or your use of our Sites, actual retention periods can vary significantly.
 
-#### Data Security
+Data Security
+-------------
 
 We use TLS certificates, encryption, data access limitations, anti-virus software, and firewalls to reduce the risk of unauthorized access to personal data. No data transmission over the Internet or any wireless network is entirely secure. Be mindful of security risks when you transmit personal data to us and when you post information in our public forums.
 
 If you would like to report any security issues in any of our products, please fill out the form and required attachments and send it to [Logitech Security](https://www.logitech.com/en-us/legal/security-vulnerability-reporting.html).
 
-#### EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield
-
-Logitech, Inc. and our U.S.-based entities including Logitech Latin America Inc., participate in and have certified their compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov/](https://www.privacyshield.gov/)
-
-Read more
-
-We are responsible for the processing of personal data we receive, under each Privacy Shield Framework, and subsequent transfers to third parties acting as agents on our behalf. We comply with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
-
-With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Logitech is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
-
-In compliance with the Privacy Shield Principles, we commit to resolving complaints about our collection or use of your personal information. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact us using the contact information below.
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) using the following form: [https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request).
-
-Under certain conditions, more fully described on the Privacy Shield website, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
-
-For Human Resources Data Only: We commit to cooperating with the EU data protection authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner (FDPIC), as applicable, and to comply with the advice given by such authorities, with regard to human resources data transferred from the EU and Switzerland to the United States in the context of an employment relationship.
-
-Logitech is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (“FTC”).
-
-#### Controlling and accessing your information
+Controlling and accessing your information
+------------------------------------------
 
 You may request that we update or delete/deactivate certain information pertaining to you.
 
@@ -99,13 +87,14 @@ We will endeavor to respond to your request to review the information we have on
 
 If you have questions, comments, or would like to make a request regarding your data or our Statement, past Statements, and data practices, please contact us at [support.logitech.com/response-center](https://support.logitech.com/response-center) or through the following methods:
 
-Phone: +1 646-454-3200  
-Email: [support.logitech.com/response-center](https://support.logitech.com/response-center)  
-Postal Mail: Logitech Privacy Officer, 7700 Gateway Blvd., Newark, CA 94560 USA
+**Phone:** +1 646-454-3200  
+**Email:** [support.logitech.com/response-center](https://support.logitech.com/response-center)  
+**Postal Mail:** Logitech Privacy Officer, 7700 Gateway Blvd., Newark, CA 94560 USA
 
 If you are not satisfied with our response, you can refer your privacy complaint or dispute to the relevant state or national data protection authority in your jurisdiction.
 
-#### Special information for EU and Swiss users
+Special information for EU, UK and Swiss users
+----------------------------------------------
 
 From May 25, 2018, the processing of personal data of individuals in the European Union is subject to the [EU General Data Protection Regulation (“GDPR”)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.119.01.0001.01.ENG&toc=OJ:L:2016:119:TOC). This section provides information relating to EU users' rights and Logitech’s obligations under the GDPR. Personal data processed through the use of our Sites is controlled by Logitech Inc, 7700 Gateway Blvd., Newark, CA 94560 USA. The European Representative is Logitech Ireland Services Ltd, 3400, Airport Business Park, Kinsale Road, Cork, Ireland.
 
@@ -172,8 +161,9 @@ To invoke any of these rights, please fill out the form [here](https://support.l
 
 ##### International transfers
 
-We and our affiliates and service providers process and store your personal data on servers in the United States. In order to demonstrate that Logitech provides adequate data protection standards, Logitech has certified under the [Privacy Shield Framework](https://www.privacyshield.gov/participant?id=a2zt0000000TR2IAAW&status=Active) for EU-US data transfers. For all other transfers of personal data from the EEA to other areas outside of the EEA, Logitech provides adequate protection by having entered into data processing agreements and data transfer agreements that include standard contractual clauses approved by the European Commission. Such data processing agreements are available upon request to [privacy@logitech.com](mailto:privacy@logitech.com).
+We will only transfer your personal data from the European Economic Area (EEA) to countries outside the EEA, on the basis of appropriate safeguards. When Logitech transfers data internationally we rely on i) Adequacy Decisions as adopted by European Commission on the basis of Article 45 of Regulation (EU) 2016/679 (GDPR), or ii)Standard Contractual Clauses issued by the European Commission (2010/87/EU, 2001/497/EC or 2004/915/EC). These agreements are available upon request to [privacy@logitech.com](mailto:privacy@logitech.com).
 
-#### Effective date
+Effective date
+--------------
 
-This Privacy Statement is effective February 24, 2020.
+This Privacy Statement is effective March 8, 2021.
