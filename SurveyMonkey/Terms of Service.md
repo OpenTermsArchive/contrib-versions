@@ -5,16 +5,16 @@ These terms apply to services purchased on SurveyMonkey’s websites. For terms 
 
 Versions:
 
-November 2, 2020 (current)November 20, 2019September 26, 2019February 27, 2019January 2, 2019April 11, 2018June 2, 2016July 8, 2015 (International)January 1, 2015 (International)June 25, 2013March 28, 2012 (International)December 12, 2011 (U.S.)July 21, 2010 (International)June 23, 2010 (U.S.)May 28, 2008 (U.S.)Wufoo Terms of Service (archived)
+March 30, 2021 (current)November 2, 2020November 20, 2019September 26, 2019February 27, 2019January 2, 2019April 11, 2018June 2, 2016July 8, 2015 (International)January 1, 2015 (International)June 25, 2013March 28, 2012 (International)December 12, 2011 (U.S.)July 21, 2010 (International)June 23, 2010 (U.S.)May 28, 2008 (U.S.)Wufoo Terms of Service (archived)
 
-LAST UPDATED: NOVEMBER 2, 2020
+LAST UPDATED: MARCH 30, 2021
 
 Introduction
 ------------
 
-Thanks for using SurveyMonkey’s products, services, websites, and apps which are branded as “SurveyMonkey” (“SurveyMonkey Services”) or “Wufoo” (“Wufoo Services”) (SurveyMonkey Services and Wufoo Services collectively “Services”).
+Thanks for using SurveyMonkey’s products, services, websites, and apps which are branded as “SurveyMonkey”, “Wufoo” or “GetFeedback” (collectively the “Service(s)”).
 
-These Terms of Use (“TOU”) contain the terms under which SurveyMonkey and its affiliates provide their Services to you and describe how the Services may be accessed and used. These TOU do not apply to SurveyMonkey Services which are available solely through our [sales](https://www.surveymonkey.com/enterprise/?form_autoload=&ut_source=pricing_page&ut_source2=terms-of-use&ut_source3=inline) channel.
+These Terms of Use (“TOU”) contain the terms under which SurveyMonkey and its affiliates provide their Services to you and describe how the Services may be accessed and used. These TOU do not apply to Services which are available solely through our [sales](https://www.surveymonkey.com/enterprise/?form_autoload=&ut_source=pricing_page&ut_source2=terms-of-use&ut_source3=inline) channel.
 
 SurveyMonkey provides a variety of different services. Additional service-specific [terms and policies](https://www.surveymonkey.com/mp/legal/which-terms-apply/) (including rules and guidelines) apply to some Services (“Additional Terms”). Those Additional Terms become a part of your agreement with us if you use those Services. For example, if you use our survey services, the [Survey Platform Terms of Service](https://www.surveymonkey.com/mp/legal/survey-platform-terms-of-service/) apply.
 
@@ -93,7 +93,7 @@ You represent and warrant that: (a) you own or control the appropriate rights in
 
 ### **3.4** Customer Lists.
 
-SurveyMonkey may identify you (by name and logo) as a SurveyMonkey Services and/or Wufoo Services customer on SurveyMonkey and/or Wufoo’s website and on other promotional materials. Any goodwill arising from the use of your name and logo will inure to your benefit.
+SurveyMonkey may identify you by name and logo as a customer of the Services on our websites and on other promotional materials. Any goodwill arising from the use of your name and logo will inure to your benefit.
 
 ### 3.5. Copyright Claims (DCMA Notices).
 
@@ -439,7 +439,7 @@ The parties agree that, except as otherwise required by order or other binding d
 
 EU 2.9 International Transfer.
 
-To the extent applicable, SurveyMonkey Europe UC relies (in order of precedence) upon (i) SurveyMonkey Inc.’s Privacy Shield certification; (ii) standard contractual clauses, for data transfer to the United States to SurveyMonkey Inc. SurveyMonkey Europe UC also relies on standard contractual clauses for data transfers to other third parties based in countries outside the European Economic Area, the United States, or countries that do not have adequate levels of data protection as determined by the European Commission. To the extent applicable, you appoint SurveyMonkey as your agent for purposes of entering into any standard contractual clauses for such purposes on your behalf under these Terms. If you hold a qualifying account and are availing of the SurveyMonkey Data Processing Agreement with standard contractual clauses, the terms set out in that Data Processing Agreement with standard contractual clauses are supplementary to these Terms and, where there is a conflict between the terms of that Data Processing Agreement with standard contractual clauses and these Terms, the terms of the Data Processing Agreement with standard contractual clauses will prevail.
+To the extent applicable, SurveyMonkey Europe UC relies (in order of precedence) upon (i) any adequacy decisions made by the European Commission at any time; and/or (ii) standard contractual clauses, for data transfer to the United States to SurveyMonkey Inc. SurveyMonkey Europe UC also relies on standard contractual clauses for data transfers to other third parties based in countries outside the European Economic Area, the United States, or countries that do not have adequate levels of data protection as determined by the European Commission. To the extent applicable, you appoint SurveyMonkey as your agent for purposes of entering into any standard contractual clauses for such purposes on your behalf under these Terms. If you hold a qualifying account and are availing of the SurveyMonkey Data Processing Agreement with standard contractual clauses, the terms set out in that Data Processing Agreement with standard contractual clauses are supplementary to these Terms and, where there is a conflict between the terms of that Data Processing Agreement with standard contractual clauses and these Terms, the terms of the Data Processing Agreement with standard contractual clauses will prevail.
 
 EU 2.10 Liability for Data Processing.
 
