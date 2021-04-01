@@ -1,9 +1,9 @@
-VANCO PAYMENT SOLUTIONS – PRIVACY POLICY
-----------------------------------------
+VANCO – PRIVACY POLICY
+----------------------
 
-Last updated: April 6, 2020
+Last updated: March 31, 2021
 
-Vanco Companies (“Vanco,” “we,” or “us”) understands the importance of your privacy and we take our responsibility to protect your information seriously. This Privacy Policy (the “Policy”) describes the types of information that we collect from you, how we use and share that information, and certain choices you may have regarding your information. This Policy applies to information we collect from you through your use of our services, including ASAP, Charms, PT Avenue, RevTrak WebStore, ConnexPoint™, RegWerks, Vanco Events, Vanco Mobile, GivePlus, GivePlus Mobile, GivePlus Text, GivePlus Kiosk, GivePlus Swipe, and PMX (the “Services”). It also applies to information we collect from you through our website(s), direct communications and inquiries, or otherwise.
+Vanco Companies (“Vanco,” “we,” or “us”) understands the importance of your privacy and we take our responsibility to protect your information seriously. This Privacy Policy (the “Policy”) describes the types of information that we collect from you, how we use and share that information, and certain choices you may have regarding your information. This Policy applies to information we collect from you through your use of our services, including ASAP, Charms, PT Avenue, RevTrak WebStore, ConnexPoint™, RegWerks, Vanco Events, Smartcare, Food Service Solutions, Vanco Mobile, GivePlus, GivePlus Mobile, GivePlus Text, GivePlus Kiosk, GivePlus Swipe, and PMX (the “Services”). It also applies to information we collect from you through our website(s), apps, any device provided to you by Vanco, direct communications and inquires, or otherwise.
 
 Please read this Policy carefully before using our website or Services. By using our website and Services, you agree to the terms of this Policy and our collection, use, and disclosure of information as described below. If you do not agree with the practices described in this Policy, you may choose not to use the website or our Services. Your use of our Services is also subject to any applicable Terms of Service or other agreements.
 
