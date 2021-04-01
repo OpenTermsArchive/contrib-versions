@@ -284,8 +284,8 @@
         In case of any third-party claim or loss covered by your insurance, you agree not to look to Comcast for reimbursement. **YOU WAIVE ANY RIGHTS THAT YOUR INSURANCE CARRIER OR OTHERS CLAIMING THROUGH YOU MAY HAVE AGAINST COMCAST, INCLUDING ANY RIGHTS OF SUBROGATION.**
         
 
-Stnd 0121
+Stnd 0421
 
 View full agreement
 
-[English (PDF)](https://cdn.comcast.com/-/media/Files/FEDCM-MIG/Policies/Q1%202021/ResServicesHomeNetworkingUniLegalSTDENGcomcastcom.pdf?rev=7661204a-769b-449a-b570-ae9a88197d1c&la=en) | [Spanish (PDF)](https://cdn.comcast.com/-/media/Files/FEDCM-MIG/Policies/Q1%202021/ResServicesHomeNetworkingUniLegalSTDSPcomcastcom.pdf?rev=458bfc15-0070-4a44-995d-d372aa9e7aa3&la=en)
+[English (PDF)](https://cdn.comcast.com/-/media/Files/FEDCM-MIG/Batch-2/PDF/pages/Corporate/Customers/Policies/SubscriberAgreement/April2021ResServicesHomeNetworkingUniLegalSTDENGcomcastcom.pdf?rev=657a400d-47f7-4c30-9a13-f14fc032967f&la=en) | [Spanish (PDF)](https://cdn.comcast.com/-/media/Files/FEDCM-MIG/Batch-2/PDF/pages/Corporate/Customers/Policies/SubscriberAgreement/April2021ResServicesHomeNetworkingUniLegalSTDSPcomcastcom.pdf?rev=b61591a1-5050-46e3-82d0-79802fcdb34b&la=en)
