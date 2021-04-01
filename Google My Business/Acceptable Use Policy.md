@@ -414,3 +414,8 @@ Fraudulent or illegal activities aren’t tolerated on Google and may result in 
 Any promotion, marketing, contests or other giveaways should clearly link to the terms of the activity and provide clear guidelines and qualifications. All such promises, given or implied, should be adhered to.
 
 **Note:** Google reserves the right to suspend access to Google My Business or other Google Services to individuals or businesses that violate these guidelines, and may work with law enforcement in the event that the violation is unlawful.
+
+Related resources
+-----------------
+
+*   [Report a third party that violates Google My Business third-party policies](https://support.google.com/business/contact/gmb_3p_complaints).
