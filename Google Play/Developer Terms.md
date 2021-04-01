@@ -36,7 +36,7 @@ Effective as of November 17, 2020 ([view archived version](https://play.google.c
 2\. Accepting this Agreement
 ----------------------------
 
-2.1 This agreement ("**Agreement**") forms a legally binding contract between You and Google in relation to Your use of Google Play to distribute Products. You are contracting with the applicable Google entity based on where You have selected to distribute Your Product (as set forth [here](https://support.google.com/googleplay/android-developer/table/3539140?hl=en)). You acknowledge that Google will, solely at Your direction, and acting pursuant to the relationship identified in Section 3.1, display and make Your Products available for viewing, download, and purchase by users. In order to use Google Play to distribute Products, You accept this Agreement and will provide and maintain complete and accurate information in the Play Console.
+2.1 This agreement ("**Agreement**") forms a legally binding contract between You and Google in relation to Your use of Google Play to distribute Products. You are contracting with the applicable Google entity based on where You have selected to distribute Your Product (as set forth [here](https://support.google.com/googleplay/android-developer/answer/10532353?hl=en)). You acknowledge that Google will, solely at Your direction, and acting pursuant to the relationship identified in Section 3.1, display and make Your Products available for viewing, download, and purchase by users. In order to use Google Play to distribute Products, You accept this Agreement and will provide and maintain complete and accurate information in the Play Console.
 
 2.2 Google will not permit the distribution of Your Products through Google Play, and You may not accept the Agreement, unless You are verified as a Developer in good standing.
 
@@ -45,7 +45,7 @@ Effective as of November 17, 2020 ([view archived version](https://play.google.c
 3\. Commercial Relationship, Pricing, Payments, and Taxes
 ---------------------------------------------------------
 
-3.1 You hereby appoint Google as Your agent or marketplace service provider as outlined [here](https://support.google.com/googleplay/android-developer/table/3539140?hl=en) to make Your Products available in Google Play.
+3.1 You hereby appoint Google as Your agent or marketplace service provider as outlined [here](https://support.google.com/googleplay/android-developer/answer/10532353?hl=en) to make Your Products available in Google Play.
 
 3.2 This Agreement covers both Products that users can access for free and Products that users pay a fee to access. In order for You to charge a fee for Your Products and to be paid for Products distributed via Google Play, You must have a valid Payment Account under a separate agreement with a Payment Processor, be approved by a Payment Processor for a Payment Account, and maintain that account in good standing. If there is a conflict between Your Payment Processor agreement and this Agreement, the terms of this Agreement will apply.
 
