@@ -265,6 +265,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             *   Grand Guéret Agglo
             *   Tout'enbus Aubenas
         *   [Data.gouv.fr](https://www.data.gouv.fr/fr/) : [Sites de prélèvements pour les tests COVID](https://www.data.gouv.fr/fr/datasets/sites-de-prelevements-pour-les-tests-covid/); [Lieux de vaccination contre la Covid-19](https://www.data.gouv.fr/fr/datasets/lieux-de-vaccination-contre-la-covid-19/)
+        *   SNCF : les Informations sont fournies par l’intermédiaire de l’API SNCF ; la réutilisation de ces données est réalisée de manière indépendante de SNCF
+            
     10.  **Germany**
         *   Bundesamt für Kartographie und Geodäsie - © Vermessungsverwaltungen der Bundesländer und Bundesamt für Kartographie und Geodäsie
             
@@ -301,7 +303,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   2015 UK roadworks and traffic disruptions data provided by Elgin and its licensors, which include Local Highway Authorities, Highways Agency, Traffic Scotland, Traffic Wales and Transport for London. For further information see [https://www.elgintech.com/](https://www.elgintech.com/).
             
-        *   Powered by TfL Open Data.
+        *   Powered by TfL Open Data, Contains OS data © Crown copyright and database rights 2016' and Geomni UK Map data © and database rights \[2019\].
             
         *   DSS Consortium
             
