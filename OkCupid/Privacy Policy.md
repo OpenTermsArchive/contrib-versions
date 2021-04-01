@@ -61,22 +61,23 @@ Please see our [California Privacy Statement](https://www.okcupid.com/legal/ccpa
 
 #### 1\. WHO WE ARE
 
-If you live in the European Union, the company that is responsible for your information under this Privacy Policy (the “data controller”) is:
+For Users who live in the European Union:
 
-Privacy Officer  
-MTCH Technology Services  
+MTCH Technology Services Limited, an Irish company limited by shares   
 OkCupid  
-WeWork Charlemont Exchange  
-42 Charlemont Street  
-Dublin 2, D02 R593  
-Ireland
+Block D, Iveagh Court  
+Harcourt Road, Dublin 2  
+Ireland  
+Legal Representative - Francisco Villamar, Director   
+Share Capital - €1,000,000.00
 
-If you live outside the European Union, the company responsible for your information is:
+For Users who live outside the European Union: 
 
-Privacy Officer  
-Humor Rainbow, Inc.  
-555 West 18th Street  
-New York, NY 10011
+Humor Rainbow, Inc., a New York corporation  
+555 W. 18th St.New York, NY 10011  
+Legal Representative – Sharmistha Dubey, CEO  
+Website Host – Humor Rainbow, Inc., a New York corporation  
+You may view the OkCupid Terms of Use [here.](https://www.okcupid.com/legal/terms)
 
 #### 2\. WHERE THIS PRIVACY POLICY APPLIES
 
@@ -293,27 +294,29 @@ Because we’re always looking for new and innovative ways to help you build mea
 
 If you have questions about this Privacy Policy, here’s how you can reach us:
 
-**If you live in the European Union** :
+**For Users who live in the European Union:**
 
 Online: E-mail us at [support@okcupid.com](mailto:support@okcupid.com)
 
 By post:
 
-Privacy Officer  
-MTCH Technology Services  
+MTCH Technology Services Limited, an Irish company limited by shares   
 OkCupid  
-WeWork Charlemont Exchange  
-42 Charlemont Street  
-Dublin 2, D02 R593  
-Ireland
+Block D, Iveagh Court  
+Harcourt Road, Dublin 2  
+Ireland  
+Legal Representative - Francisco Villamar, Director   
+Share Capital - €1,000,000.00
 
-**If you live outside the European Union** :
+**For Users who live outside the European Union:**
 
 Online: E-mail us at [support@okcupid.com](mailto:support@okcupid.com)
 
 By post:
 
-Privacy Officer  
-Humor Rainbow, Inc.  
-555 West 18th Street  
-New York, NY 10011
+Humor Rainbow, Inc., a New York corporation  
+555 W. 18th St.  
+New York, NY 10011  
+Legal Representative – Sharmistha Dubey, CEO  
+Website Host – Humor Rainbow, Inc., a New York corporation  
+You may view the OkCupid Terms of Use [here.](https://www.okcupid.com/legal/terms)
