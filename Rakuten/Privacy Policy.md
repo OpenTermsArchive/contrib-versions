@@ -99,7 +99,7 @@ Lorsque nous avons recours à des prestataires, nous veillons à ce qu’ils pr�
 
 #### **4.2. Nos partenaires**
 
-Sous réserve que vous y consentiez, nous sommes susceptibles de partager certaines de vos données, comme votre adresse électronique et/ou votre numéro de téléphone, avec nos partenaires commerciaux, dont vous trouverez la liste ici, à des fins de prospection commerciale.
+Sous réserve que vous y consentiez, nous sommes susceptibles de partager certaines de vos données, comme votre adresse électronique et/ou votre numéro de téléphone, avec nos partenaires commerciaux, dont vous trouverez la liste [ici](https://fr.shopping.rakuten.com/newhelp/liste-partenaires/), à des fins de prospection commerciale.
 
 #### **4.3. Le Groupe Rakuten**
 
@@ -109,7 +109,7 @@ Dans la mesure où Rakuten France est une société du Groupe Rakuten, nous part
 
 Le Groupe Rakuten a pour objectif de vous offrir une expérience de service unique via le « _Rakuten ID_ ».
 
-Rakuten ID est un programme unifié qui vous permet de vous connecter facilement à d'autres services Rakuten avec un seul identifiant, de partager vos données de compte et de rejoindre un programme de fidélité avec les différentes sociétés du Groupe Rakuten participant au programme Rakuten ID : [https://corp.rakuten.co.jp/privacy/fr/rakuten-id/](https://corp.rakuten.co.jp/privacy/fr/rakuten-id/)
+Rakuten ID est un programme unifié qui vous permet de vous connecter facilement à d'autres services Rakuten avec un seul identifiant, de partager vos données de compte et de rejoindre un programme de fidélité avec les différentes sociétés du Groupe Rakuten participant au programme.
 
 Vos données ne seront partagées que si vous avez choisi de vous connecter à un autre service ID Rakuten. En vous connectant à un autre service Rakuten ID, vous demandez aux services Rakuten ID de partager vos données aux fins décrites dans la [Politique de confidentialité de Rakuten ID](https://corp.rakuten.co.jp/privacy/fr/rakuten-id.html). Nous partageons les identifiants de votre compte et les données de votre profil (adresse et date de naissance) avec les services Rakuten ID.
 
@@ -168,10 +168,16 @@ Nos campagnes commerciales étant prévues à l’avance, vous pouvez continuer 
 
 #### **7.2. Vos choix en matière de cookies et technologies similaires**
 
-Nous veillons également à recueillir votre consentement avant d’avoir recours à des traceurs nous permettant d’analyser votre parcours sur notre Plateforme et réaliser des profils en vue de vous proposer des publicités et des contenus correspondant à vos centres d'intérêts.
+**7.2.1. Personnalisation de la publicité et du contenu** 
 
-Vous pouvez à tout moment revenir sur vos choix et en apprendre davantage sur les traceurs que nous utilisons en cliquant sur la rubrique « Gestion des cookies » se trouvant en bas de page de notre site ou depuis les paramètres de nos applications.
+Nous veillons également à recueillir votre consentement avant d’avoir recours à des traceurs pour réaliser, directement ou indirectement, des profils en vue de vous proposer des publicités et des contenus correspondant à vos centres intérêts.  
 
-Dans le cadre du Club Rakuten Everywhere et pour assurer l’attribution de vos Rakuten Points, nous déposons automatiquement, lorsque vous acceptez de vous rendre sur le site du partenaire affilié ou d’y activer notre extension, un cookie nous permettant de vous identifier. Si vous rejetez systématiquement tous les cookies sur votre terminal, nous ne serons plus en mesure de vous identifier lors de vos transactions auprès de nos partenaires affiliés et, par conséquent, vous attribuer vos Rakuten Points.
+Vous pouvez à tout moment revenir sur vos choix et en apprendre davantage sur les traceurs que nous utilisons en cliquant sur la rubrique « Gestion des cookies » se trouvant en bas de page de notre site ou depuis les paramètres de nos applications. 
 
-Nous participons également à plusieurs programmes d’affiliation qui, sur le même modèle que le Club Rakuten Everywhere, nécessitent que nous déposions un cookie afin de vous identifier et de nous voir attribuer une certaine commission. Les cookies sont alors déposés au moment où vous cliquez sur le lien d'affiliation.
+**7.2.2. Mesure d’audience**  
+
+Nous avons recours à une solution respectueuse de votre vie privée pour comprendre la manière dont vous utilisez notre Plateforme.  
+
+Cette solution est mise à disposition par la société Applied Technologies Internet et bénéficie d’une exemption de la CNIL nous permettant de l’activer sans qu’il soit nécessaire de recueillir votre consentement. 
+
+Vous pouvez toutefois vous opposer à l’utilisation de cette solution en .
