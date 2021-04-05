@@ -3,7 +3,7 @@ About Us: Terms of Service
 
 **Introduction**
 
-Please read these Terms of Service ("Terms") carefully. They contain the legal terms and conditions that govern your use of services provided to you by DeviantArt, including information, text, images, graphics, data or other materials ("Content") and products and services provided through [www.DeviantArt.com](https://www.deviantart.com/) , [shop.deviantart.com](https://shop.deviantart.com/) , Sta.sh and other DeviantArt mobile applications as well as all elements, software, programs and code forming or incorporated in to [www.DeviantArt.com](https://www.deviantart.com/) (the "Service"). This Service is operated by DeviantArt, Inc. ("DeviantArt"). DeviantArt is also referred to in these Terms as "we", "our", and "us".
+Please read these Terms of Service ("Terms") carefully. They contain the legal terms and conditions that govern your use of services provided to you by DeviantArt, including information, text, images, graphics, data or other materials ("Content") and products and services provided through [www.DeviantArt.com](https://www.deviantart.com/) , [www.deviantart.com/shop](https://www.deviantart.com/shop) , Sta.sh and other DeviantArt mobile applications as well as all elements, software, programs and code forming or incorporated in to [www.DeviantArt.com](https://www.deviantart.com/) (the "Service"). This Service is operated by DeviantArt, Inc. ("DeviantArt"). DeviantArt is also referred to in these Terms as "we", "our", and "us".
 
   
 
@@ -185,7 +185,7 @@ You agree that DeviantArt may at any time, and without notice, suspend or termin
 
 **21\. Product Purchases from the DeviantArt Shop**
 
-From time to time, DeviantArt may make certain products available for purchase through the [DeviantArt Shop](https://shop.deviantart.com/). For example, you may have the opportunity to purchase "Artwork" that a registered member has listed for sale through the Print Program.
+From time to time, DeviantArt may make certain products available for purchase through the [DeviantArt Shop](https://www.deviantart.com/shop/). For example, you may have the opportunity to purchase "Artwork" that a registered member has listed for sale through the Print Program.
 
   
 
