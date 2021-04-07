@@ -1,9 +1,19 @@
-**Last Updated: September 30, 2019**
+**Last Updated: April 1, 2021**
 
-FOURSQUARE LABS, INC. TERMS OF USE
-----------------------------------
+Foursquare Consumer Services Terms of Use
+-----------------------------------------
 
-PLEASE READ THESE TERMS OF USE CAREFULLY BEFORE USING THE SERVICES OFFERED BY FOURSQUARE LABS, INC. AND PLACED, LLC (COLLECTIVELY, "FOURSQUARE"). THESE TERMS OF USE SET FORTH THE LEGALLY BINDING TERMS AND CONDITIONS FOR YOUR USE OF THE WEBSITES AT [HTTPS://FOURSQUARE.COM](https://foursquare.com/) AND [HTTPS://PLACED.COM](https://placed.com/) (EACH A "SITE", COLLECTIVELY, THE “SITES”), OUR FOURSQUARE CITYGUIDE, SWARM, AND MARSBOT MOBILE APPLICATIONS, AND OUR PLACED PANEL APP, GIVE 2 CHARITY, PATHKEEPER, AND FREQUENT FLYER MOBILE APPLICATIONS (COLLECTIVELY, THE “APPS”) AND THE SERVICES, FEATURES, CONTENT, APPLICATIONS OR WIDGETS OFFERED BY FOURSQUARE (COLLECTIVELY WITH THE SITES AND THE APPS, THE "SERVICES").
+ARBITRATION NOTICE: THESE FOURSQUARE CONSUMER SERVICES TERMS OF USE (“TERMS OF USE”) CONTAIN A MANDATORY ARBITRATION PROVISION. EXCEPT FOR CERTAIN TYPES OF DISPUTES MENTIONED IN THAT PROVISION, YOU AND THE FOURSQUARE PARTIES AGREE THAT DISPUTES BETWEEN US WILL BE RESOLVED BY MANDATORY BINDING ARBITRATION, AND YOU AND THE FOURSQUARE PARTIES WAIVE ANY RIGHT TO PARTICIPATE IN A CLASS-ACTION LAWSUIT OR CLASS-WIDE ARBITRATION.
+
+These Terms of Use are a legally binding contract between you and Foursquare Labs, Inc. (on behalf of itself and its wholly-owned subsidiaries, Factual Inc. and Placed LLC). We’ll refer to all of those entities together as “Foursquare”.
+
+These Terms of Use cover your use of the Foursquare consumer services, which we’ll refer to as the “Services”. The Services consist of:
+
+*   These websites: [foursquare.com/city-guide](https://foursquare.com/city-guide), [swarmapp.com](https://www.swarmapp.com/), [marsbotapp.com](https://marsbotapp.com/), [getpanelapp.com](https://getpanelapp.com/), and any other consumer websites offered by Foursquare (collectively, the “Sites”);
+*   These mobile apps: Foursquare CityGuide, Swarm, Marsbot, Marsbot for AirPods®, Placed Panel App, Give 2 Charity, Pathkeeper and Frequent Flier App, and any other consumer mobile apps offered by Foursquare (collectively, the “Apps”); and
+*   The services, features, content and widgets offered by Foursquare in connection with the above.
+
+These Terms of Use do not cover our enterprise (business) websites or services. Those services are described in our [Enterprise Site Terms](https://foursquare.com/legal/enterprise/siteterms).
 
 ### Acceptance of Terms.
 
