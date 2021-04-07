@@ -136,7 +136,7 @@
     
     Advertising Cookies. To help support the Site and further tailor your experience, Forbes and its advertising partners (and/or their third-party analytics providers) may also use cookies on the Site to personalize the content and advertisements you may be shown. Such advertisements use cookies to provide you targeted advertisements that may be more consistent with your interests than non-targeted advertisements. Certain Forbes advertising partners may also use cookies to monitor or track the performance of their advertising content, including native advertising content (e.g., BrandVoice). Forbes does not provide user information to advertising partners except in connection with the Site or as required by law.
     
-    If you would like to manage your cookie preferences or learn more information about this practice and your right to decline (or opt-out of) cookies placed by some or all of these companies, please [click here](http://preferences-mgr.truste.com/). If you are a California resident and to the extent our use of cookies qualifies as selling personal information under the CCPA, you can opt out of that sale by clicking the “Cookies on Forbes” tab or by contacting us as indicated below.
+    If you would like to manage your cookie preferences or learn more information about this practice and your right to decline (or opt-out of) cookies placed by some or all of these companies, please [click here](http://optout.networkadvertising.org/). If you are a California resident and to the extent our use of cookies qualifies as selling personal information under the CCPA, you can opt out of that sale by clicking the “Cookies on Forbes” tab or by contacting us as indicated below.
     
     Please be aware that if you do choose to disable the receipt of cookies from our Site, you may not be able to use or benefit from certain features of the Site, particularly the features that are designed to personalize your experience.  To learn more about the use of cookies in online advertising including how to manage or delete them [click here](https://www.networkadvertising.org/understanding-online-advertising/what-are-my-options).
     
@@ -200,7 +200,7 @@
     
     We partner with third party ad networks to either display advertising on the Site or to manage our advertising on other sites. Our ad network partners use cookies and web beacons to collect user information about your activities on the Site and other websites to provide you targeted advertising based upon your interests.
     
-    If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out or modify your choices by [clicking here](http://preferences-mgr.truste.com/), if you are a California resident, by clicking the “Cookies on Forbes” tab or, if located in the Europe or, by [clicking here](http://www.youronlinechoices.eu/). Please note this does not opt you out of being served advertising. You will continue to receive non-targeted ads.
+    If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out or modify your choices by [clicking here](http://optout.networkadvertising.org/), if you are a California resident, by clicking the “Cookies on Forbes” tab or, if located in the Europe or, by [clicking here](http://www.youronlinechoices.eu/). Please note this does not opt you out of being served advertising. You will continue to receive non-targeted ads.
     
     #### As Necessary to Provide Services to You
     
