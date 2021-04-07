@@ -203,7 +203,7 @@ EXCEPT AS EXPRESSLY PROVIDED IN THIS SECTION 21, ANY PRODUCT PURCHASED THROUGH T
 
 **22\. Print Program**
 
-As a registered member of the Service, you will also be granted the privilege of listing certain types of Artist Materials, known as "Artwork," for sale through the DeviantArt Shop. Visit [https://www.deviantart.com/sell/](https://www.deviantart.com/sell/) for additional details on the Print Program. Prior to submitting Artwork for sale, you must accept the additional terms and conditions of the [Print Program Agreement](https://services.deviantart.com/prints/agreement), which is incorporated into, and forms a part of, the Terms.
+As a registered member of the Service, you will also be granted the privilege of listing certain types of Artist Materials, known as "Artwork," for sale through the DeviantArt Shop. Visit [https://www.deviantart.com/sell/](https://www.deviantart.com/sell/) for additional details on the Print Program. Prior to submitting Artwork for sale, you must accept the additional terms and conditions of the [Print Program Agreement](https://www.deviantart.com/about/policy/prints/agreement), which is incorporated into, and forms a part of, the Terms.
 
   
 
