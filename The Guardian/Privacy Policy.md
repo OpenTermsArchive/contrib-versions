@@ -462,7 +462,6 @@ Topics
 *   [Share on Twitter](https://twitter.com/intent/tweet?text=Privacy%20policy&url=https%3A%2F%2Fwww.theguardian.com%2Fhelp%2Fprivacy-policy%3FCMP%3Dshare_btn_tw "Twitter")
 *   [Share via Email](mailto:?subject=Privacy%20policy&body=https%3A%2F%2Fwww.theguardian.com%2Fhelp%2Fprivacy-policy%3FCMP%3Dshare_btn_link "Email")
 *   [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&title=Privacy%20policy&url=https%3A%2F%2Fwww.theguardian.com%2Fhelp%2Fprivacy-policy "LinkedIn")
-*   [Share on Pinterest](http://www.pinterest.com/pin/find/?url=https%3A%2F%2Fwww.theguardian.com%2Fhelp%2Fprivacy-policy "Pinterest")
 *   [Share on WhatsApp](whatsapp://send?text=%22Privacy%20policy%22%20https%3A%2F%2Fwww.theguardian.com%2Fhelp%2Fprivacy-policy%3FCMP%3Dshare_btn_wa "WhatsApp")
 *   [Share on Messenger](fb-messenger://share?link=https%3A%2F%2Fwww.theguardian.com%2Fhelp%2Fprivacy-policy%3FCMP%3Dshare_btn_me&app_id=180444840287 "Messenger")
 
