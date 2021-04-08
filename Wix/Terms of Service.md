@@ -184,7 +184,7 @@ You agree that Wix has the right to impose and change price plans for its Servic
     
 17.  use any of the Wix Services and/or User Platform in connection with any form of spam, unsolicited mail, fraud, scam, phishing, “chain letters”, “pyramid schemes” or similar conduct, or otherwise engage in unethical marketing or advertising;
     
-18.  use the Wix Services for the creation and operation of websites whose main purpose is video streaming (directly or indirectly) ;
+18.  use the Wix Services for the creation and operation of websites whose main purpose (directly or indirectly) is video streaming;
     
 19.  access to Wix Services, User Accounts, Licensed Content and/or User Content, through any means or technology (e.g. scraping and crawling), other than our publicly supported interfaces.
     
