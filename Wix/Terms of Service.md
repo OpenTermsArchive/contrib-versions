@@ -1,7 +1,7 @@
 Wix.com Terms of Use
 ====================
 
-Last Revised: February 10, 2020
+Last Revised: April 8, 2021
 
 Welcome to Wix.com’s Terms of Use! We are truly excited to have you aboard. Thank you for choosing to use our services.
 
@@ -184,15 +184,17 @@ You agree that Wix has the right to impose and change price plans for its Servic
     
 17.  use any of the Wix Services and/or User Platform in connection with any form of spam, unsolicited mail, fraud, scam, phishing, “chain letters”, “pyramid schemes” or similar conduct, or otherwise engage in unethical marketing or advertising;
     
-18.  access to Wix Services, User Accounts, Licensed Content and/or User Content, through any means or technology (e.g. scraping and crawling), other than our publicly supported interfaces.
+18.  use the Wix Services for the creation and operation of websites whose main purpose is video streaming (directly or indirectly) ;
     
-19.  sell, license, or exploit for any commercial purposes any use of or access to the Licensed Content and/or Wix Services, except as expressly permitted by the Wix Terms;
+19.  access to Wix Services, User Accounts, Licensed Content and/or User Content, through any means or technology (e.g. scraping and crawling), other than our publicly supported interfaces.
     
-20.  remove or alter any copyright notices, watermarks, restrictions and signs indicating proprietary rights of any of our licensors, including copyright mark \[©\], Creative Commons \[(cc)\] indicators, or trademarks \[® or ™\] contained in or accompanying the Wix Services and/or Licensed Content; or
+20.  sell, license, or exploit for any commercial purposes any use of or access to the Licensed Content and/or Wix Services, except as expressly permitted by the Wix Terms;
     
-21.  violate, attempt to violate, or otherwise fail to comply with any of the Wix Terms or any laws or requirements applicable to your use of the Wix Services.
+21.  remove or alter any copyright notices, watermarks, restrictions and signs indicating proprietary rights of any of our licensors, including copyright mark \[©\], Creative Commons \[(cc)\] indicators, or trademarks \[® or ™\] contained in or accompanying the Wix Services and/or Licensed Content; or
     
-22.  access or use the Services for benchmarking or similar competitive analysis purposes or in order to build a competitive product or service.
+22.  violate, attempt to violate, or otherwise fail to comply with any of the Wix Terms or any laws or requirements applicable to your use of the Wix Services.
+    
+23.  access or use the Services for benchmarking or similar competitive analysis purposes or in order to build a competitive product or service.
     
 
 ​
