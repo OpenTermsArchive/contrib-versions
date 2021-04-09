@@ -27,7 +27,7 @@ We, New Work SE, assume the role of controller as per the [EU General Data Prote
 
 #### Data Protection Officer
 
-Our Data Protection Officer is Felix Lasse, Dammtorstrasse 30, 20354 Hamburg, Germany, E-mail: [Datenschutzbeauftragter@xing.com](mailto:datenschutzbeauftragter@xing.com).
+Our Data Protection Officer is Felix Lasse, Dammtorstrasse 30, 20354 Hamburg, Germany, e-mail: [Datenschutzbeauftragter@xing.com](mailto:datenschutzbeauftragter@xing.com).
 
 #### Processing for another purpose
 
@@ -83,7 +83,7 @@ The legal basis for this processing of [personal data](https://privacy.xing.com/
 
 #### Mandatory information in the social network
 
-You have to fill in certain mandatory fields when you register. This information is essential for a functioning professional network.
+You are required to complete certain mandatory fields. This information is essential for a functioning professional network.
 
 #### Category
 
@@ -659,7 +659,7 @@ In cases where we work together with external service providers for our data pro
 
 #### Other users
 
-You can learn more about how visible you are to other users under [“Information you provide to us”](https://privacy.xing.com/privacy-policy/information-you-provide-us-with).
+You can learn more about how visible you are to other users under [“Information you provide to us”](https://privacy.xing.com/privacy-policy/information-we-automatically-receive-through-your-use-of-xing/provision-of-our-service/examples) and by way of the examples of how we use your usage data to meet our contractual obligations and to render the service you use.
 
 #### Non-users of the social network
 
@@ -800,7 +800,7 @@ Use the following e-mail address to request the data we saved about you in XING 
 
 #### XING Exchange
 
-Die Daten, die wir in dieser Anwendung über Dich gespeichert haben, kannst Du per E-Mail an [xing-exchange@xing.com](mailto:xing-exchange@xing.com) anfordern.
+Use the following e-mail address to request the data we saved about you in this application: [xing-exchange@xing.com](mailto:xing-exchange@xing.com)
 
 You also have a right to access the following information:
 
