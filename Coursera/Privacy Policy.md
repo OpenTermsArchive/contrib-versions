@@ -163,6 +163,15 @@ No Information from Children Under 13
 
 Coursera strongly believes in protecting the privacy of children. Any use or access by anyone under the age of 13 is prohibited, and certain regions and Content Offerings may have additional requirements and/or restrictions. In line with this belief, we do not knowingly collect or maintain Personal Data on our Site from persons under 13 years of age, and no part of our Site is directed to persons under 13 years of age. If you are under 13 years of age, then please do not use or access this Site at any time or in any manner. We will take appropriate steps to delete any Personal Data of persons less than 13 years of age that has been collected on our Site without verified parental consent upon learning of the existence of such Personal Data.
 
+Live2Coursera Privacy Notice
+----------------------------
+
+This section explains how Coursera collects and uses the Personal Data of those who use our Live2Coursera Services, and supplements but does not replace our [Privacy Notice](https://www.coursera.org/about/privacy), which governs how we handle the Personal Data of all Coursera users. The Terms of Use for Live2Coursera can be found [here](https://www.coursera.org/about/live2coursera-terms). Any defined terms used in this section and not otherwise defined in the Privacy Notice are found in the Live2Coursera Terms of Use.
+
+Live2Coursera enables instructors to record, share, and upload lectures, including those recorded using Third Party Offerings, to Coursera for their students to view on the students’ mobile devices or computers. **In addition to the activities outlined elsewhere in our Privacy Notice, Live2Coursera users are directed to review the following**:
+
+If you have any questions about how we handle your information, please contact us at privacy@coursera.org.
+
 * * *
 
 Privacy Shield Notice
