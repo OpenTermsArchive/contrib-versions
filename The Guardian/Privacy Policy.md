@@ -454,8 +454,9 @@ A list of all previous changes are available upon request.
 
 Topics
 
-*   [Privacy](https://www.theguardian.com/info/privacy)
+*   [Privacy](https://www.theguardian.com/Some(info/privacy))
 
+*   [Privacy](https://www.theguardian.com/info/privacy)
 *   [help](https://www.theguardian.com/tone/help)
 
 *   [Share on Facebook](https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fhelp%2Fprivacy-policy%3FCMP%3Dshare_btn_fb "Facebook")
