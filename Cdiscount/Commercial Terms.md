@@ -237,7 +237,9 @@ Les modes de paiement listés ci-après peuvent être proposés par CDISCOUNT :
   
 (i) Cartes bancaires : Visa, Mastercard.  
   
-(ii) Paiement en « 4 fois » : le paiement en « 4 fois » peut être effectué par carte bancaire conformément aux conditions générales du paiement en « 4 fois », dont vous devez prendre connaissance au moment de la passation de votre commande.  Les conditions générales du paiement en « 4 fois » sont accessibles [en cliquant ici.](https://i2.cdscdn.com/resources/InterestRateConfiguration/4f.pdf) Le paiement en "4 fois" n'est pas proposé de manière systématique à tous nos clients et/ou pour toutes les commandes. Nous mettons en œuvre une décision individuelle automatisée afin d'identifier les clients et les commandes éligibles au paiement en "4 fois".  
+(ii) Paiement en « 4 fois » : le paiement en « 4 fois » peut être effectué par carte bancaire conformément aux conditions générales du paiement en « 4 fois », dont vous devez prendre connaissance au moment de la passation de votre commande.  Les conditions générales du paiement en « 4 fois » sont accessibles [en cliquant ici](https://i2.cdscdn.com/odr/ImagesOK/CommercialOffer/conditions_58393202104091706398021.pdf?rnd=29030A04)
+
+  [](https://i2.cdscdn.com/resources/InterestRateConfiguration/4f.pdf) Le paiement en "4 fois" n'est pas proposé de manière systématique à tous nos clients et/ou pour toutes les commandes. Nous mettons en œuvre une décision individuelle automatisée afin d'identifier les clients et les commandes éligibles au paiement en "4 fois".  
   
 (iii) Paiement en magasin : Cdiscount peut vous proposer de régler votre commande dans certains magasins, jusqu’à 3000 euros (dans la limite de 1000€ en espèces). Pour tout savoir sur ce mode de paiement, [cliquez ici](https://www.cdiscount.com/payment/paymentinfo.html).  
   
