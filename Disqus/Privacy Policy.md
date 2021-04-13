@@ -1,6 +1,6 @@
 Disqus Privacy Policy
 
-Updated June 10, 2020
+Updated April 12, 2021
 
 This Privacy Policy tells you about how Disqus collects, uses, sells, discloses  
 and protects data relating to you in connection with our Service (as defined  
@@ -59,14 +59,14 @@ c. Note that we may process your personal data for more than one lawful ground d
 
 d.
 
-[![](https://downloads.intercomcdn.com/i/o/178331596/a9fae6434fa87f8a5f0077ef/pripolicy_final.png?expires=1620471600&signature=dc6facd52c7c693beda6843d944918e30cfc938f63820ab561ca8f4a1f615d77)](https://downloads.intercomcdn.com/i/o/178331596/a9fae6434fa87f8a5f0077ef/pripolicy_final.png?expires=1620471600&signature=dc6facd52c7c693beda6843d944918e30cfc938f63820ab561ca8f4a1f615d77)
+[![](https://downloads.intercomcdn.com/i/o/178331596/a9fae6434fa87f8a5f0077ef/pripolicy_final.png?expires=1620856800&signature=6dd96f335bee5b76ed89de531a191aa1cf79f8a210fe89283bfe3a6f12f28252)](https://downloads.intercomcdn.com/i/o/178331596/a9fae6434fa87f8a5f0077ef/pripolicy_final.png?expires=1620856800&signature=6dd96f335bee5b76ed89de531a191aa1cf79f8a210fe89283bfe3a6f12f28252)
 
 **6\. DISCLOSURES OF YOUR PERSONAL DATA**  
-a. We may have to share your personal data with the parties set out below for the purposes set out in the table in paragraph 5 above.
+a. We may sell or share your personal data with the parties set out below for the purposes set out in the table in paragraph 5 above.
 
 Internal Third Parties as follows: Zeta Global.
 
-For a list of external third parties, please click **[here](https://disqus.com/data-sharing-settings/)** . 
+For a list of external third parties, please click **[here](https://disqus.com/data-sharing-settings/)**. We may also sell to advertisers with whom you have already shared your data interest categories based on your online activity, for marketing purposes. 
 
 We may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this privacy notice.  We may also do some limited data sharing in order to evaluate and test our potential data partners. Where such testing takes place, the data is encrypted and hashed before it is shared. Furthermore, such sharing is subject to appropriate contractual provisions and the data is promptly deleted after the testing is completed. 
 
