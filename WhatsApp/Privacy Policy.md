@@ -21,31 +21,6 @@ This Privacy Policy applies to all of our Services unless specified otherwise.
 
 Please also read [WhatsApp's Terms of Service](https://www.whatsapp.com/legal/?eea=1#terms-of-service) ("Terms"), which describes the terms under which you use our Services.
 
-Key Updates
-
-**Our Updated Terms and Privacy Policy.** Our updated [Terms of Service](https://www.whatsapp.com/legal/?eea=1#terms-of-service) explains our agreement with you to use our Services. Our updated [Privacy Policy](https://www.whatsapp.com/legal/?eea=1#privacy-policy) explains what information we collect, how we use and share it, and the choices you have, including how to manage your privacy settings, access the information we have about you, and delete your account. We build WhatsApp with strong privacy and security principles, like [end-to-end encryption](https://faq.whatsapp.com/general/28030015/) of your messages and calls, which means we and third parties can't read or listen to them. Here are some important points:
-
-**WhatsApp Ireland.** WhatsApp Ireland Limited provides our Services and is responsible for your information when you use WhatsApp.
-
-**Age Requirement.** To use WhatsApp, you must be [at least 16 years old](https://www.whatsapp.com/legal/?eea=1#terms-of-service-age).
-
-**How WhatsApp Works With The Other Facebook Companies.** WhatsApp is one of the [Facebook Companies](https://faq.whatsapp.com/general/security-and-privacy/the-facebook-companies). WhatsApp works and shares information with the other Facebook Companies to receive services like infrastructure, technology, and systems that help us provide and improve WhatsApp and to keep WhatsApp and the Facebook Companies safe and secure. When we receive services from the Facebook Companies, the information we share with them is used to help WhatsApp in accordance with our instructions. Working together allows us to:
-
-*   Provide you fast and reliable messaging and calls around the world and understand how our services and features are performing.
-*   Ensure safety and security across WhatsApp and the Facebook Company Products by removing spam accounts and combatting abusive activity.
-*   Connect your WhatsApp experience with Facebook Company Products. For example, you could share a link to a post from Facebook to a WhatsApp chat.
-*   Enable you to communicate with businesses on WhatsApp. For example, if you visit a business's Facebook page, you might see a button that lets you easily open a WhatsApp chat with them.
-
-Nothing you share on WhatsApp, including your messages, photos, and account information, will be shared onto Facebook or any of our other family of apps for others to see, and nothing you post on those apps will be shared on WhatsApp for others to see, unless you choose to do so.
-
-Today, Facebook does not use your WhatsApp account information to improve your Facebook product experiences or provide you more relevant Facebook ad experiences on Facebook. [Learn more](https://faq.whatsapp.com/general/26000112/?eea=1) about how WhatsApp works with the Facebook Companies.
-
-We're always working on new ways to improve how you experience WhatsApp and the other Facebook Company Products you use. We'll keep you updated on new experiences we offer and our information practices.
-
-**New Ways To Use WhatsApp.** We offer new features like improvements to group chats and video calling. We're continuing to build ways for you to communicate with businesses, and you'll be able to manage these communications.
-
-**Infrastructure And Systems.** Our Privacy Policy also explains how we use infrastructure, systems, and service providers around the world, and that we transfer information outside of the European Economic Area. [Learn More](https://www.whatsapp.com/legal/?eea=1#privacy-policy-our-global-operations)
-
 Information We Collect
 
 WhatsApp must receive or collect some information to operate, provide, improve, understand, customize, support, and market our Services, including when you install, access, or use our Services. The types of information we receive and collect depend on how you use our Services.
