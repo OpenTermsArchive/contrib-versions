@@ -1,6 +1,8 @@
 Google Ads policies
 ===================
 
+Google provides translated versions of our Help Center as a convenience, though they are not meant to change the content of our policies. The English version is the official language we use to enforce our policies. To view this article in a different language, use the language dropdown at the bottom of the page.
+
 Welcome to the Google Advertising Policies Center.
 
 We want to support a healthy digital advertising ecosystem—one that is trustworthy and transparent, and works for users, advertisers, and publishers. The purpose of this website is to help you build Google Ads campaigns that align with our advertising policies listed below. These policies are designed not only to abide by laws but to ensure a safe and positive experience for our users. This means that our policies prohibit some content that we believe to be harmful to users and the overall advertising ecosystem.
