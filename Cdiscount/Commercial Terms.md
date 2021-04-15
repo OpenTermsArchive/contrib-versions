@@ -581,7 +581,7 @@ Le montant des frais de retour est calculé en fonction de la typologie du produ
 | Salon de jardin (petit) | **Entre 60€ et 80€** |
 | Salon de jardin (grand) | **Entre 75€ et 100€** |
 | Lit bébé combiné | **Entre 50€ et 70€** |
-| Abri jardin | **Entre 60€ et 90€** |
+| Abri jardin | **Entre 60' et 90€** |
 | Cuisine IRMA | **Entre 70€ et 90€** |
 | Poele à bois | **Entre 70€ et 100€** |
 | Piscine | **Entre 65€ et 120€** |
