@@ -1,9 +1,9 @@
 **Vimeo Terms of Service**
 ==========================
 
-Last Updated: December 15, 2020
+Last Updated: April 15, 2021
 
-This **Vimeo Terms of Service Agreement** (the “**Agreement**” or “**Terms of Service**”) is made between Vimeo, Inc. (“**Vimeo**,” “**we**,” “**us**,” or “**our**”) and you, our customer (“**you**” or “**your**”). This Agreement governs your use of Vimeo owned-and-operated websites, applications, and embeddable video players (collectively, the “**Services**”). This includes our Vimeo, Vimeo OTT, and Livestream services. Your use of our Magisto, Chant, and Videofy services is governed exclusively by the [Vimeo Creator Tools Terms of Service Agreement](https://www.magisto.com/tos).
+This **Vimeo Terms of Service Agreement** (the “**Agreement**” or “**Terms of Service**”) is made between Vimeo, Inc. (“**Vimeo**,” “**we**,” “**us**,” or “**our**”) and you, our customer (“**you**” or “**your**”). This Agreement governs your use of Vimeo owned-and-operated websites, applications, and embeddable video players (collectively, the “**Services**”). This includes our Vimeo, Vimeo OTT, and Livestream services. Your use of our Magisto, Chant, and Videofy services is governed exclusively by the [Vimeo Creator Tools Terms of Service Agreement](https://www.magisto.com/tos).
 
 **Notice:** Section 11 of this Agreement contains a mandatory ARBITRATION AGREEMENT for certain privacy claims that you or Vimeo could assert. By using our Services and accepting this Agreement, you (1) agree to binding arbitration of these claims before a neutral arbitrator; and (2) waive your rights to go to court, have a jury hear your case, or participate as part of a class of plaintiffs with respect to such claims.
 
@@ -137,14 +137,14 @@ You may not submit any content that:
 *   Contains instructions on how to assemble explosive/incendiary devices or homemade/improvised firearms;
 *   Exploits or endangers minors;
 *   Depicts or encourages self-harm or suicide;
-*   Depicts (1) unlawful real-world acts of extreme violence, or (2) animal cruelty or extreme violence towards animals;
+*   Depicts (1) unlawful real-world acts of extreme violence, (2) vivid, realistic, or particularly graphic acts of violence and brutality, (3) sexualized violence, including rape, torture, abuse, and humiliation, or (4) animal cruelty or extreme violence towards animals;
 *   Promotes fraudulent or dubious money-making schemes, proposes an unlawful transaction, or uses deceptive marketing practices;
 *   Contains false or misleading claims about (1) vaccination safety, or (2) health-related information that has a serious potential to cause public harm;
 *   Contains false or misleading information about voting;
 *   Contains conspiracy-related content where the underlying conspiracy theory makes claims that (1) suggest that a real-world tragedy did not occur, or (2) violate other content restrictions; or
 *   Violates any applicable law.
 
-Please see the [Vimeo Guidelines](https://vimeo.com/help/guidelines) for guidance on how we interpret these terms.
+Please see the [Vimeo Guidelines](https://vimeo.com/help/guidelines) for guidance on how we interpret these terms.
 
 ### **5.3 Code of Conduct**
 
