@@ -1,7 +1,7 @@
 **Vimeo Privacy Policy**
 ========================
 
-Last Updated: January 15, 2021
+Last Updated: April 15, 2021
 
 This Privacy Policy explains the information that Vimeo collects when you use its products and services, how that information is used, with whom it may be shared, and your privacy choices.
 
@@ -40,7 +40,7 @@ We do not knowingly collect personal information from individuals who are under 
 3\. Data We Collect About You
 -----------------------------
 
-We collect information about you when you use our services. In addition, third parties may collect information about you when you use our services. Collected information may include or reflect personal information that could identify you, as well as non-personal information. We refer to your information as **"your data"** for short.
+We collect information about you when you use our services. In addition, third parties may collect information about you when you use our services. Collected information may include or reflect personal information that could identify you, as well as non-personal information. We refer to your information as **"your data"** for short.
 
 ### **Account Information**
 
@@ -52,11 +52,15 @@ To make a purchase, you may need to provide a valid payment method (e.g., credit
 
 If you wish to sell items or earn money from advertising through our services, you must provide an account to receive funds and tax information, which may include your name, address, and taxpayer identification number.
 
-### **Content**
+### **Content** 
 
-Accountholders may create an account and upload and create content such as videos, text, photographs, and artwork. Your profile may display information about you and your activities. This information may be accessed by others. Your videos may be viewed and otherwise accessed by others, and associated metadata (e.g., titles, descriptions, tags, etc.) are viewable by others. Your interactions with other users (e.g., comments, "likes," private messages) may be seen by others. You may choose to limit the availability of your profile and videos. For more details, see **Section 9**.
+Accountholders may create an account and upload and create content such as videos, text, photographs, and artwork. Your profile may display information about you and your activities. This information may be accessed by others. Your videos may be viewed and otherwise accessed by others, and associated metadata (e.g., titles, descriptions, tags, etc.) are viewable by others. Your interactions with other users (e.g., comments, "likes," private messages) may be seen by others. You may choose to limit the availability of your profile and videos. For more details, see **Section 9**.
 
 If you submit images or videos to us in connection with our video creation and editing tools, we may analyze such content using a variety of techniques, including machine-learning algorithms, for the sole purpose of creating a video at your direction. In doing so, we may derive facial-related information from your content solely for the purpose of creating a video for you. This information may be used, for example, to locate a face within a frame. Facial landmarks are retained for 48 hours after a video editing session. We do not collect, use, or store any facial-related information for the purpose of recognizing faces outside of the limited video-creation purposes set forth herein.
+
+### **Video Embed Capture Forms**
+
+You may submit information through a form within our embeddable video player. This information will be received by both Vimeo and the video owner and is subject to both Vimeo's Privacy Policy as well as the video owner's privacy policy. Except where Vimeo is the video owner, Vimeo will not use any information you submit through such forms for direct marketing purposes.
 
 ### **Other Information You May Submit**
 
@@ -64,7 +68,7 @@ You may submit data to us for limited purposes such as requesting customer suppo
 
 ### **Automatically-Collected Information**
 
-We automatically collect certain types of data when you use our services, regardless of whether you have an account. This data includes your IP address, technical information about your device (e.g., browser type, operating system, basic device information), the web page you visited or search query you entered before reaching us, and your activities. We may track your activities using cookies and similar technologies. By using our services, you agree to our use of these methods as set forth in our [Cookie Policy](https://vimeo.com/cookie_policy).
+We automatically collect certain types of data when you use our services, regardless of whether you have an account. This data includes your IP address, technical information about your device (e.g., browser type, operating system, basic device information), the web page you visited or search query you entered before reaching us, and your activities. We may track your activities using cookies and similar technologies. By using our services, you agree to our use of these methods as set forth in our [Cookie Policy](https://vimeo.com/cookie_policy).
 
 ### **Physical Products**
 
