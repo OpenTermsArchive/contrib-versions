@@ -5,7 +5,7 @@ The Facebook Payments service (“Facebook Payments”) helps developers who wis
 
 The Facebook Platform Policy has been updated and incorporated into the new Facebook Platform Terms and Developer Policies, effective August 31, 2020. [Learn More](https://developers.facebook.com/blog/post/2020/07/01/platform-terms-developer-policies/)
 
-_Date of Last Revision: December 29, 2016_
+_Date of Last Revision: April 15, 2021_
 
 To enhance the quality, convenience, and security of the user experience on Facebook, these Facebook Developer Payments Terms (the “Terms”) apply to all developers of apps using Facebook Payments. We have provided section headers for your convenience, but you should carefully read though these Terms in order to understand your rights and responsibilities, as well as ours.
 
@@ -16,7 +16,14 @@ This agreement was written in English (US). To the extent any translated version
 1.  ### Transactions
     
     1.  Eligibility . We may approve or deny your request to integrate Facebook Payments at our sole discretion. You must be eighteen (18) years of age or older to integrate Facebook Payments in your app; in addition, you may not be listed as an administrator for a Payments-enabled app if you are under the age of sixteen (16). We may also revoke your eligibility to continue utilizing Facebook Payments at any time at our sole discretion.
-    2.  Roles of parties . You accept responsibility for fulfilling each transaction pursuant to the terms you offer. Facebook is not involved in any underlying transaction between or among developers and users except as noted in Section 3.9 of these Terms.
+    2.  Roles of parties
+        1.  You accept responsibility for fulfilling each transaction pursuant to the terms you offer. Facebook is not involved in any underlying transaction between or among developers and users except as noted in Section 3.9 of these Terms.
+        2.  You appoint Facebook Payments Inc. (“FBP”) as your limited payment collection agent for the sole purpose of accepting payment on your behalf from users for content you offer on Facebook and, depending on the region, applicable taxes and fees.  
+              
+            You agree that:  
+            1.  Payment made by a user to FBP constitutes payment made directly to you and fully satisfies the user’s obligation to you for that payment, and you must fulfill your obligations to the user as if you had received the payment directly from the user;
+            2.  FBP is responsible for remitting to you any payments received from users on your behalf, less any amounts payable to FBP or any of its affiliates pursuant to these Terms; and
+            3.  If FBP does not remit any amounts received from users on your behalf which are due to you in accordance with these Terms, you will only have recourse against FBP.
     3.  Pricing . Price-setting in apps is governed by the following rules:
         1.  You may price items for sale in your own local currency where such pricing is supported.
         2.  You may not price an item differently based on a user’s electronic value Balance.
@@ -41,7 +48,7 @@ This agreement was written in English (US). To the extent any translated version
     2.  Nature of Service . Facebook is not a bank and does not offer banking services. You will not earn interest on your Developer Balance. Developer Balances are not deposit obligations and are not insured by the Federal Deposit Insurance Corporation, the Financial Services Compensation Scheme, or any other entity or insurance scheme, whether governmental or private. All Developer Balances are held and expressed in United States Dollars; if your transaction was in a different currency, proceeds from the sale will be converted at the time of the transaction according to the day’s published exchange rate before being credited to your Developer Balance.
     3.  Payout . We will redeem your Developer Balance according to the following rules:
         1.  We can redeem your Developer Balance only if we have your current banking information and any other information we need to make the payment on record, including, if required, identification and tax and business formation documentation. A list of our current payout methods is posted [on our site](https://www.facebook.com/help/?page=198118756901516) .
-        2.  We will make Developer Balance redemption payments only to the account entered by the developer in the Payout Information field of the Developer’s \[Company Settings\](/settings?tab=payments)
+        2.  We will make Developer Balance redemption payments only to the account entered by the developer in the Payout Information field of the Developer’s [Company Settings](https://developers.facebook.com/settings?tab=payments).
         3.  Facebook will redeem your Developer Balance approximately 21 days following the end of the bimonthly period (either the 1st through 15th of the month or the 16th through the end of the month) in which the transaction occurred, except as otherwise set forth herein.
         4.  Developer Balances will be redeemed only in United States Dollars.
         5.  If a Developer Balance redemption payment for any given pay period would be less than One Hundred United States Dollars ($100.00), we will roll payment over to the next month, unless your account is being deactivated or deleted, or if it has been one year since either your last redemption payment or your first use of Facebook Payments or Credits.
