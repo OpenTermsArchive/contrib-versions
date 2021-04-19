@@ -76,7 +76,7 @@ What we do with the info we collect
     We also have a legitimate interest in making Pinterest safe and improving our product features so you keep finding the inspiration you want. We all benefit when we use your information to:
     
     *   Suggest other people who have similar interests. For example, if you follow interior design boards, we may suggest interior designers that you might like.
-    *   Help your friends and contacts find you on Pinterest, if you agree to this in your settings. For example, if you sign up using a Facebook account, we can help your Facebook friends find you on Pinterest when they first sign up for Pinterest. Or people can search for your account on Pinterest using your email.
+    *   Help your friends and contacts find you on Pinterest. For example, if you sign up using a Facebook account, we can help your Facebook friends find you on Pinterest when they first sign up for Pinterest. Or people can search for your account on Pinterest using your email.
     *   Work with law enforcement and keep Pinterest safe. We may get requests for account information from law enforcement authorities like the police or courts. To find out more about how we respond to law enforcement requests, please see our [Law Enforcement Guidelines](https://help.pinterest.com/article/law-enforcement-guidelines).
     *   Review your messages on Pinterest to detect activity that poses a risk to the safety of you, our community and/or members of the public.
     *   Conduct analytics and research on who is using Pinterest and what they are doing. For example, by logging how often people use two different versions of a feature on Pinterest, we can understand which version is better.
@@ -235,4 +235,4 @@ Contact us
 *   The best way to get in touch with us or to exercise your options described above is through the [Help Center](https://help.pinterest.com/contact). If you live in the United States, Pinterest, Inc. is responsible for your information. You can contact Pinterest Inc. at 651 Brannan Street, San Francisco, CA 94107, USA.
     
     Effective Date September 2, 2020  
-    Last updated September 2, 2020
+    Last updated April 16, 2021
