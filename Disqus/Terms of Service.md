@@ -49,11 +49,17 @@ By using the Service you represent and warrant that your User Content does not v
 If you believe that your copyrighted work has been copied in a way that constitutes copyright infringement under the DMCA and is accessible via the Service, please notify Disqus’ copyright agent at the contact information below. For your complaint to be valid under the DMCA, you must provide the following information in writing:
 
 *   An electronic or physical signature of a person authorized to act on behalf of the copyright owner;
+    
 *   Identification of the copyrighted work that you claim has been infringed;
+    
 *   Identification of the material that is claimed to be infringing and where it is located on the Service;
+    
 *   Information reasonably sufficient to permit Disqus to contact you, such as your address, telephone number, and, e-mail address;
+    
 *   A statement that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or law; and
+    
 *   A statement, made under penalty of perjury, that the above information is accurate, and that you are the copyright owner or are authorized to act on behalf of the owner.
+    
 
 DMCA Agent Contact Information: 
 
