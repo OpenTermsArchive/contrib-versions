@@ -19,11 +19,17 @@ a. Personal data, or personal information, means any information about an indivi
 b. We may collect, use, store and transfer different kinds of personal data about you which we have categorized as follows:
 
 *   i. **Identity Data** includes first name, last name, username or similar identifier, date of birth, email address, telephone number, and mailing address.
+    
 *   ii. **Technical Data** includes internet protocol (IP) address, unique Cookie ID, Device ID, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access the Service.
+    
 *   iii. **Profile Data** includes your username and password, your interests, preferences, feedback and survey responses, marital status, gender, title.
+    
 *   iv. **Usage Data** includes information about how you use the Service, and the content of comments that you post.
+    
 *   v. **Aggregated Data** includes statistical or demographic data for any purpose. 
+    
 *   vi. **Special Data** We do not intentionally collect any personal data about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data, or information about criminal convictions and offences. However, if you make comments using the Service that include such data about yourself it will be publicly available and may be processed by Disqus or others.
+    
 
 **3\. HOW IS YOUR PERSONAL DATA COLLECTED?**  
 We use different methods to collect data from and about you including through:
@@ -59,7 +65,7 @@ c. Note that we may process your personal data for more than one lawful ground d
 
 d.
 
-[![](https://downloads.intercomcdn.com/i/o/178331596/a9fae6434fa87f8a5f0077ef/pripolicy_final.png?expires=1618956000&signature=dea40c711a41ababd6c969d5f21909aa4a9f1391c80de0ef3109050dceae7c92)](https://downloads.intercomcdn.com/i/o/178331596/a9fae6434fa87f8a5f0077ef/pripolicy_final.png?expires=1618956000&signature=dea40c711a41ababd6c969d5f21909aa4a9f1391c80de0ef3109050dceae7c92)
+[![](https://downloads.intercomcdn.com/i/o/178331596/a9fae6434fa87f8a5f0077ef/pripolicy_final.png?expires=1619017200&signature=13efbd3546fab380d972c991eaaf8ac08d065ad45fb63bafcfc13fef11330181)](https://downloads.intercomcdn.com/i/o/178331596/a9fae6434fa87f8a5f0077ef/pripolicy_final.png?expires=1619017200&signature=13efbd3546fab380d972c991eaaf8ac08d065ad45fb63bafcfc13fef11330181)
 
 **6\. DISCLOSURES OF YOUR PERSONAL DATA**  
 a. We may sell or share your personal data with the parties set out below for the purposes set out in the table in paragraph 5 above.
