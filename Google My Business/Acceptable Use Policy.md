@@ -1,7 +1,7 @@
 Guidelines for representing your business on Google
 ===================================================
 
-**Summary:** Listings on Google My Business can only be created for businesses that either have a physical location that customers can visit, or that travel to visit customers where they are. Creating a successful listing that won’t be suspended requires avoiding [prohibited content](https://support.google.com/business/answer/3038177#illegal), accurately reflecting your business and complying with the rest of the policies below.
+**Summary:** Business Profiles on Google My Business can only be created for businesses that either have a physical location that customers can visit, or that travel to visit customers where they are. Creating a successful Business Profile that won’t be suspended requires avoiding [prohibited content](https://support.google.com/business/answer/3038177#illegal), accurately reflecting your business, and complying with the rest of the policies below.
 
 We've come up with a list of guidelines for local businesses to maintain high quality information on Google. Following these guidelines helps to avoid common problems, including changes to your information or, in some cases, removal of your business information from Google.
 
@@ -36,7 +36,7 @@ There are some exceptions:
 Ineligible businesses
 ---------------------
 
-The following businesses are not eligible for a business listing:
+The following businesses are not eligible for a Business Profile:
 
 *   Rental or for-sale properties, such as holiday homes, show homes or vacant apartments. Sales or leasing offices, however, are eligible for verification.
 *   An ongoing service, class or meeting at a location that you don't own or have the authority to represent.
@@ -45,7 +45,7 @@ The following businesses are not eligible for a business listing:
 Ownership
 ---------
 
-Only business owners or authorised representatives may verify and manage their business information on Google My Business. If you wish to share management access to your listing with others, you can [add a manager](https://support.google.com/business/answer/3403100).
+Only business owners or authorised representatives may verify and manage their business information on Google My Business. If you wish to share management access to your Business Profile with others, you can [add a manager](https://support.google.com/business/answer/3403100).
 
 Additional guidelines for authorised representatives
 ----------------------------------------------------
@@ -54,7 +54,7 @@ Any individual or company that manages business information on Google My Busines
 
 Authorised representatives must:
 
-*   **Never claim a business listing without express consent from the business owner.**
+*   **Never claim a Business** **Profile** **without express consent from the business owner.**
 *   **Never make false, misleading or unrealistic claims.**
 *   **Never use harassing, abusive or untrustworthy tactics with potential or existing customers.**
 *   Always work directly with the business owner to complete verification. [Learn more about verification](https://support.google.com/business/answer/2911778).
@@ -64,11 +64,11 @@ Authorised representatives must:
     *   [Edit your business information](https://support.google.com/business/answer/3039617)
     *   [How Google uses business information](https://support.google.com/business/answer/2721884)
     *   [Someone else verified my business](https://support.google.com/business/answer/4566671)
-*   Always keep the business owner informed about what actions the authorised representative will take on the business listing.
-*   Always follow [Guidelines for representing your business on Google](https://support.google.com/business/answer/3038177). Note that the phone number and website for a listing should always be the single, authoritative phone number and website for the business and be verifiable by the business owner. Website content must be owned and managed by the business owner.
-*   Always respond to management access requests promptly, and always transfer listing ownership to the business owner immediately upon request. Authorised representatives must, whenever possible, encourage the business owner to create an account, own the listing and add authorised representatives as managers. [Learn more about transferring ownership](https://support.google.com/business/answer/3415281).
+*   Always keep the business owner informed about which actions the authorised representative will take on the Business Profile.
+*   Always follow [Guidelines for representing your business on Google](https://support.google.com/business/answer/3038177). Note that the phone number and website for a Business Profile should always be the single, authoritative phone number and website for the business and be verifiable by the business owner. Website content must be owned and managed by the business owner.
+*   Always respond to management access requests promptly, and always transfer Business Profile ownership to the business owner immediately upon request. Authorised representatives must, whenever possible, encourage the business owner to create an account, own the Business Profile and add authorised representatives as managers. [Learn more about transferring ownership](https://support.google.com/business/answer/3415281).
 
-Failure to adhere to these policies may result in a suspension for the listing and/or account.
+Failure to adhere to these policies may result in a suspension for the Business Profile and/or account.
 
 Business description guidelines
 -------------------------------
@@ -100,14 +100,14 @@ Your name should reflect your business’ real-world name, as used consistently 
 
 Add additional details like [address](https://support.google.com/business/answer/3038177#address) and/or [service area](https://support.google.com/business/answer/3038177#address), [business hours](https://support.google.com/business/answer/3038177/#hours) and [category](https://support.google.com/business/answer/3038177/#categories) in the other sections of your business information. 
 
-For example, if you were creating a listing for a 24-hour coffee shop in Southampton city centre called Shelly’s Coffee, you would enter that business information as:
+For example, if you were creating a Business Profile for a 24-hour coffee shop in Southampton city centre called Shelly’s Coffee, you would enter that business information as:
 
 *   **Business name**: Shelly’s Coffee
 *   **Address**: 324 Poppy Street, Southampton
 *   **Hours**: Open 24 hours
 *   **Category**: Coffee shop
 
-Including unnecessary information in your business name is not permitted, and could result in your listing being suspended. Refer to the specific examples below to determine what you can and can't include in your business name.
+Including unnecessary information in your business name is not permitted, and could result in your Business Profile being suspended. Refer to the specific examples below to determine what you can and can't include in your business name.
 
 Learn more
 
@@ -162,12 +162,13 @@ Use a precise, accurate address and/or service area to describe your business lo
 
 Learn more
 
-*   Make sure that your Business Profile is created for your actual, real-world location.
+*   Create your Business Profile for your actual, real-world location.
     *   Suite numbers, floors, building numbers and so on may also be included. Only include information like cross-streets and nearby landmarks in regions where the official street address doesn’t accurately pinpoint the business's location.
     *   If you must specify a mailbox or suite number:
         *   Enter your physical address as 'Address Line 1'.
         *   Enter your mailbox or suite number as 'Address Line 2'.
-    *   If your business rents a temporary, 'virtual' office at a different address from your primary business, don’t create a page for that location. Businesses can't list a 'virtual' office unless that office is staffed during opening hours by your business staff.
+    *   If your business rents a physical mailing address but doesn't operate out of that location, also known as a virtual office, that location is not eligible for a Business Profile on Google. 
+    *   Businesses can't list an office at a co-working space unless that office maintains clear signage, receives customers at the location during business hours, and is staffed during business hours by your business staff.
 *   Don’t include information in address lines that doesn't pertain to your business’s physical location, like URLs or keywords.
 *   Don’t create more than one page for each location of your business, either in a single account or multiple accounts.
     *   Individual practitioners and departments within businesses, universities, hospitals and government buildings may have separate pages. For more info, go to specific guidelines about [individual practitioners](#pract) and [departments](#departments).
@@ -181,7 +182,7 @@ Some businesses, like pizzerias that have restaurant seating and deliver pizza t
 
 Google determines how best to display your business address based on your business information and information from other sources.
 
-#### Shop front vs service-area businesses
+#### Shopfront versus service-area businesses
 
 If your business doesn’t have a shop front with clear signage but travels to customers at their physical locations, you’re allowed one service-area Business Profile.
 
@@ -213,13 +214,13 @@ Learn more
 
 Certain types of businesses shouldn’t provide hours, including those with varied hours (like schedules for different types of activities, including showtimes, worship services or classes) and those that operate only by appointment. Examples of business that _shouldn’t_ provide hours include, but are not limited to: hotels and motels, cinemas, schools and universities, transportation services, airports, event venues and natural features.
 
-If your business has departments (see “[Departments](#departments)”), provide the opening times for each department in that department’s separate listing, and provide the opening times for the main business on the main business’s listing.
+If your business has departments (see '[Departments](#departments)'), provide the opening hours for each department on that department’s separate Business Profile, and provide the opening hours for the main business on the main  Business Profile
 
-#### Multiple sets of hours
+#### sets of hours
 
 If your business has multiple sets of hours, refer to these guidelines for particular industries:
 
-*   Banks: Use lobby hours if possible. Otherwise, use drive-through hours. A cash machine attached to a bank can use its own separate listing with its own, different hours.
+*   Banks: Use lobby hours if possible. Otherwise, use drive-through hours. An ATM attached to a bank can use its own separate Business Profile with its own, different hours.
 *   Car dealerships: Use car sales hours. If hours for new car sales and pre-owned car sales differ, use the new sales hours.
 *   Petrol stations: Use the hours for your petrol pumps.
 *   Restaurants: Use the hours when diners can sit down and dine in your restaurant. Otherwise, use takeaway hours. If neither of these is possible, use drive-through hours, or, as a last resort, delivery hours.
@@ -287,7 +288,7 @@ Both kinds of menu must follow the following guidelines:
 *   The menu should be representative of the items and services that are available for customers at the business. Full menus can be meal-specific (such as breakfast, lunch or dinner) and have links to other menu pages. For example, you may choose to link to your business’s dinner menu, which in turn may include links to the breakfast and lunch menus.
 *   Sample menus that only list “popular items” (or similar excerpts) should not be submitted.
 *   Menu URLs can’t be direct links to third-party ordering or delivery services.
-*   Third parties that manage listings on behalf of clients must notify and have the consent of the business owner to submit a menu URL for a business.
+*   Third parties that manage Business Profiles on behalf of clients must notify and have the consent of the business owner to submit a menu URL for a business.
 
 Chains, departments and individual practitioners
 ------------------------------------------------
@@ -323,19 +324,19 @@ All the locations of a business must share the one category that best represents
 
 #### Two or more brands at the same location
 
-If your business location combines two or more brands, don't combine the brand names into a single listing. Instead, pick one brand’s name for the listing. If the brands operate independently, you may use a separate listing for each brand at this location.
+If your business location combines two or more brands, do not combine the brand names into a single Business Profile. Instead, pick one brand’s name for the Business Profile. If the brands operate independently, you may use a separate Profile for each brand at this location.
 
-*   Not Acceptable: "KFC_/Taco Bell_" or "Dunkin' Donuts_/Baskin Robbins_"
-*   Acceptable: "Taco Bell", "KFC", "Dunkin’ Donuts", "Baskin Robbins"
+*   Not Acceptable: 'KFC_/Taco Bell_' or 'Dunkin' Donuts_/Baskin Robbins_'
+*   Acceptable: 'Taco Bell', 'KFC', 'Dunkin’ Donuts', 'Baskin Robbins'
 
-If your business sells another business brand’s product(s) or service(s), use only the name of the business, excluding the name of the brand being sold, which can't have a listing for this location.
+If your business sells another business brand’s product(s) or service(s), use only the name of the business, excluding the name of the brand being sold, which can't have a Business Profile for this location.
 
 *   Not Acceptable: "Rymans_/Staedtler", "_Steve’s Tyres_/Firestone_"
 *   Acceptable: "Rymans", "Steve’s Tyres"
 
-However, if the business location is an authorised and fully dedicated seller of the branded product or service (sometimes known as a "franchisee"), you may use the underlying brand name when creating the listing.
+However, if the business location is an authorised and fully dedicated seller of the branded product or service (sometimes known as a 'franchisee'), you may use the underlying brand name when creating the Business Profile.
 
-*   Acceptable: "EE Authorised Retailer", "Shell Oil Local Distributor"
+*   Acceptable: 'EE Authorised Retailer', 'Shell Oil Local Distributor'
 
 #### Rebranding
 
@@ -346,15 +347,15 @@ Your business may be eligible for rebranding if:
 
 If your business meets the rebranding criteria above, you can update your business name by [editing your business information](https://support.google.com/business/answer/4577733).
 
-If your business changes its name but doesn't meet the criteria above, then it's considered a new business. You'll need to [mark the existing business listing as closed](https://support.google.com/business/answer/6314541), then create a new listing using your new business name.
+If your business changes its name but doesn't meet the criteria above, then it's considered a new business. You'll need to [mark the existing Business Profile as closed](https://support.google.com/business/answer/6314541), then create a new Business Profile using your new business name.
 
-**Note:** If you assume ownership of a business listing, you'll first need to have the previous owner [add you as an owner](https://support.google.com/business/answer/3403100) and [transfer ownership](https://support.google.com/business/answer/3415281) to you.
+**Note:** If you assume ownership of a Business Profile, you'll first need to have the previous owner [add you as an owner](https://support.google.com/business/answer/3403100) and [transfer ownership](https://support.google.com/business/answer/3415281) to you.
 
 If you encounter any issues with rebranding, please [contact us](https://support.google.com/business/contactflow). 
 
 ### Departments within other businesses, universities or institutions
 
-Departments within businesses, universities, hospitals and government institutions may have their own listings on Google.
+Departments within businesses, universities, hospitals and government institutions may have their own Business Profiles on Google.
 
 Auto dealers and healthcare providers have specific and separate guidelines. Get started with Google My Business for [auto dealers](https://support.google.com/business/answer/9074290) and [healthcare providers](https://support.google.com/business/answer/9798848).
 
@@ -362,30 +363,30 @@ Learn more
 
 Public-facing departments that operate as distinct entities should have their own page. The exact name of each department must be different from that of the main business and that of other departments. Typically such departments have a separate customer entrance and should each have distinct categories. Their hours may sometimes differ from those of the main business.
 
-*   Acceptable (as distinct listings):
-    *   "Spring Gardens Optical Centre"
-    *   "Cafe Nero"
-    *   "Manchester General Hospital Department of Dermatology"
-*   Not acceptable (as distinct listings):
+*   Acceptable (as distinct Business Profiles):
+    *   'Spring Gardens Optical Centre'
+    *   'Cafe Nero'
+    *   'Manchester General Hospital Department of Dermatology'
+*   Not acceptable (as distinct Business Profiles):
     *   The _Apple_ _products_ section of PC World
     *   The _hot food bar_ inside Meadowhall
 
 For each department, the category that is the most representative of that department must be different from that of the main business and that of other departments.
 
-*   The main business "Barclays" has the category "Bank" whereas the department "Barclays Advisors" has the category "Financial Consultant"
-*   The main business "Southend Toyota" has the category "Toyota Dealer" whereas "Southend Toyota Service & Parts" has the category "Auto Repair Shop" (plus the category "Auto Parts Shop")
-*   The main business "GetGo" has the category "Convenience Store" (plus the category "Sandwich Shop") whereas the department "GetGo Fuel" has the category "Gas Station", and the department "WetGo" has the category "Car Wash"
+*   The main business 'Barclays' has the category 'Bank' whereas the department 'Barclays Advisors' has the category 'Financial Consultant'
+*   The main business 'Southend Toyota' has the category 'Toyota Dealer' whereas 'Southend Toyota Service & Parts' has the category 'Auto Repair Shop' (plus the category 'Auto Parts Shop')
+*   The main business 'GetGo' has the category 'Convenience Store' (plus the category 'Sandwich Shop') whereas the department 'GetGo Fuel' has the category 'Petrol Station', and the department 'WetGo' has the category 'Car Wash'
 
 Individual practitioners (e.g. doctors, lawyers, estate agents)
 
-An individual practitioner is a public-facing professional, typically with their own customer base. Doctors, dentists, lawyers, financial planners and insurance or estate agents are all individual practitioners. Listings for practitioners may include title or degree certification (e.g. Dr., MD, JD, Esq., CFA).
+An individual practitioner is a public-facing professional, typically with their own customer base. Doctors, dentists, lawyers, financial planners and insurance or estate agents are all individual practitioners. Business Profiles for practitioners may include title or degree certification (e.g. Dr, MD, JD, Esq., CFA).
 
-An individual practitioner should create their own dedicated listing if:
+An individual practitioner should create their own dedicated Business Profile if:
 
-*   They operate in a public-facing role. Support staff should not create their own listings.
+*   They operate in a public-facing role. Support staff should not create their own Business Profiles.
 *   They can be contacted directly at the verified location during stated hours.
 
-A practitioner shouldn't have multiple listings to cover all of their specialisations. Sales associates or lead generation agents for corporations aren't individual practitioners and aren't eligible for a listing.
+A practitioner shouldn't have multiple Business Profiles to cover all of their specialisations. Sales associates or lead generation agents for corporations aren't individual practitioners and aren't eligible for a Business Profile.
 
 Learn more
 
@@ -393,14 +394,14 @@ Learn more
 
 If the practitioner is one of several public-facing practitioners at this location:
 
-*   The organisation should create a listing for this location, separate from that of the practitioner.
-*   The title of the listing for the practitioner should include only the name of the practitioner, and shouldn’t include the name of the organisation.
+*   The organisation should create a Business Profile for this location, separate from that of the practitioner.
+*   The title of the Business Profile for the practitioner should include only the name of the practitioner, and shouldn’t include the name of the organisation.
 
 #### Solo practitioners that belong to branded organisations
 
-If a practitioner is the only public-facing practitioner at a location and represents a branded organisation, it's best for the practitioner to share a listing with the organisation. Create a single listing, named using the following format: \[brand/company\]: \[practitioner name\].
+If a practitioner is the only public-facing practitioner at a location and represents a branded organisation, it's best for the practitioner to share a Business Profile with the organisation. Create a single Business Profile, named using the following format: \[brand/company\]: \[practitioner name\].
 
-Acceptable: "Arnedale: Joe Miller" (if Joe is the sole public-facing practitioner at this Arnedale-branded location)
+Acceptable: 'Arnedale: Joe Miller' (if Joe is the sole public-facing practitioner at this Arnedale-branded location)
 
 Other items of note
 -------------------
