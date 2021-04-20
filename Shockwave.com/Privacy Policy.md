@@ -173,4 +173,4 @@ Addicting Games, Inc.
 366 5th Avenue, 4th Floor  
 New York, NY 10001  
 Attn: Privacy  
-E-mail: [\[email protected\]](http://www.shockwave.com/cdn-cgi/l/email-protection)
+E-mail: priv[\[email protected\]](http://www.shockwave.com/cdn-cgi/l/email-protection)
