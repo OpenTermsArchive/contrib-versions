@@ -11,6 +11,16 @@ Airbnb exists to help build connections between people and make the world more o
 
 This Privacy Policy describes how Airbnb, Inc. and its affiliates (“**we**,” “**us**,” or “**Airbnb**”), process personal information that we collect through the Airbnb Platform. Depending on where you live and what you are doing on the Airbnb Platform, the supplemental privacy pages listed below may apply to you. Please follow the links and review the supplemental information provided there with information about how we process personal information for those regions and services.
 
+**IMPORTANT SUPPLEMENTAL INFORMATION**
+
+**Outside of the United States**. If you reside outside of the United States, such as in the European Economic Area (“**EEA**”) visit our “[Outside of the United States](https://www.airbnb.co.uk/terms/outside_us)” page to learn about (i) the controller(s) of your personal information; (ii) legal bases, including legitimate interests, for collecting and processing your personal information, (iii) safeguards relied upon for transferring personal information outside the EEA; (iv) your rights, and (v) contact details of the controller(s) and Data Protection Officer.
+
+**California and Vermont**. If you reside in California or Vermont, visit our “[California and Vermont](https://www.airbnb.co.uk/terms/california_vermont)” page to learn about specific privacy information that applies to you.
+
+**China**. If you reside in the People’s Republic of China, which for purposes of this Privacy Policy does not include Hong Kong, Macau and Taiwan (“**China**”), visit our “[China](https://www.airbnb.co.uk/terms/China_privacy_policy)” page to learn about your rights and other specific information that applies to you.
+
+**Enterprise Customers and Airbnb for Work**. If you use our enterprise services or have linked your account with an Airbnb for Work customer, visit our “[Enterprise Customers and Airbnb for Work](https://www.airbnb.co.uk/terms/enterprise)” page to learn about specific privacy information that applies to you.
+
 **1\. DEFINITIONS**
 
 Undefined terms in this Privacy Policy have the same definition as in our [Terms of Service](https://www.airbnb.co.uk/terms) (“**Terms**”).
@@ -53,6 +63,8 @@ We collect personal information from other sources, such as:.
 *   **Other Sources**. To the extent permitted by applicable law, we may receive additional information about you, such as [references](https://www.airbnb.co.uk/help/article/173/what-are-references-on-airbnb), demographic data or information to help detect fraud and safety issues from third party service providers and/or partners, and combine it with information we have about you. For example, we may receive background check results or fraud warnings from identity verification service providers for use in our fraud prevention and risk assessment efforts. We may receive information about you and your activities on and off the Airbnb Platform, or about your experiences and interactions from our partners. We may receive health information, including but not limited to health information related to contagious diseases.
 
 **3\. HOW WE USE INFORMATION WE COLLECT**  
+
+If you reside outside of the United States click [here](https://www.airbnb.co.uk/terms/outside_us) to learn about our legal bases for collection and processing personal information.
 
 **3.1 Provide, Improve, and Develop the Airbnb Platform**. We use personal information to:
 
@@ -97,6 +109,8 @@ We collect personal information from other sources, such as:.
 *   Provide and improve the Payment Services.
 
 **4\. SHARING & DISCLOSURE**
+
+If you reside outside of the United States, learn about safeguards we rely on for transferring personal information to recipients outside of the EEA [here](https://www.airbnb.co.uk/terms/outside_us).
 
 **4.1 Sharing With Your Consent or at Your Direction**.
 
@@ -198,6 +212,10 @@ Parts of Airbnb may link to third-party services, not owned or controlled by Air
 
 You can exercise any of the rights described in this section consistent with applicable law. See [here](https://www.airbnb.co.uk/help/article/2273/i-am-an-airbnb-user-how-do-i-exercise-my-data-subject-rights-under-the-general-data-protection-regulation-gdpr) for information on data subject rights requests and how to submit a request. Please note that we may ask you to verify your identity and request before taking further action on your request.
 
+Learn more about rights under GDPR [here](https://www.airbnb.co.uk/terms/outside_us).
+
+If your country of residence is China, learn more about your rights [here](https://www.airbnb.co.uk/terms/China_privacy_policy).
+
 **6.1 Managing Your Information**.
 
 You can access and update some of your personal information through your Account settings. If you connected your Airbnb Account to a third-party service, like Facebook or Google, you can change your settings and unlink from that service in your Account settings. You are responsible for keeping your personal information up to date.
@@ -226,3 +244,5 @@ We reserve the right to modify this Privacy Policy at any time in accordance wit
 **9\. CONTACT INFORMATION AND RESPONSIBLE AIRBNB ENTITIES**
 
 For questions or complaints about this Privacy Policy or Airbnb’s handling of personal information (i) If you reside in the United States contact Airbnb, Inc., Legal Privacy, 888 Brannan Street, San Francisco, CA 94103 USA; (ii) for payments related matter please use the contact information provided in the [Payments Terms of Service](https://www.airbnb.co.uk/terms/payments_terms) page, and (iii) if you reside outside the United States, please use the contact information for your controller provided in the [Outside of the United States](https://www.airbnb.co.uk/terms/outside_us) page.
+
+Review the [previous version of this page](https://www.airbnb.co.uk/help/article/2859/).
