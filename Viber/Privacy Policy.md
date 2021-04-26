@@ -4,22 +4,22 @@ Viber Privacy Policy
 **(Last Updated: November 2019 –** [**What changed**](https://www.viber.com/blog/2019-11-28/your-privacy-your-power-vibers-updated-privacy-policy/)**?)**
 
 [Scope and Consent  
-](https://www.viber.com/en/terms/viber-privacy-policy/#scope-and-consent)[Information we Collect  
-](https://www.viber.com/en/terms/viber-privacy-policy/#information-we-collect)[Specific Accounts – Viber Out Account, Email Linked to Viber Account  
-](https://www.viber.com/en/terms/viber-privacy-policy/#specific-accounts)[Uses and Retention  
-](https://www.viber.com/en/terms/viber-privacy-policy/#uses-and-retention)[Disclosure  
-](https://www.viber.com/en/terms/viber-privacy-policy/#disclosure)[Information you Share Publicly  
-](https://www.viber.com/en/terms/viber-privacy-policy/#information-you-share-publicly)[Your Choices  
-](https://www.viber.com/en/terms/viber-privacy-policy/#your-choices)[Viber Ads, Cookies and Tracking Technologies Policy  
-](https://www.viber.com/en/terms/viber-privacy-policy/#cookies-and-tracking-technologies)[Accessing Reviewing and Changing Your Personal Information  
-](https://www.viber.com/en/terms/viber-privacy-policy/#access-review-change-personal-information)[Specific Location Practices: California, EEA residents  
-](https://www.viber.com/en/terms/viber-privacy-policy/#specific-location-practices)[Third-Party Websites and Apps  
-](https://www.viber.com/en/terms/viber-privacy-policy/#third-party-websites-and-apps)[Security  
-](https://www.viber.com/en/terms/viber-privacy-policy/#security)[Children’s Privacy  
-](https://www.viber.com/en/terms/viber-privacy-policy/#childrens-privacy)[International Transfer  
-](https://www.viber.com/en/terms/viber-privacy-policy/#international-transfer)[B2B Partners Data  
-](https://www.viber.com/en/terms/viber-privacy-policy/#b2b-partners-data)[Updates to this Policy  
-](https://www.viber.com/en/terms/viber-privacy-policy/#updates)[Contact Us](https://www.viber.com/en/terms/viber-privacy-policy/#contact-us)
+](http://www.viber.com/en/viber-privacy-policy#scope-and-consent)[Information we Collect  
+](http://www.viber.com/en/viber-privacy-policy#information-we-collect)[Specific Accounts – Viber Out Account, Email Linked to Viber Account  
+](http://www.viber.com/en/viber-privacy-policy#specific-accounts)[Uses and Retention  
+](http://www.viber.com/en/viber-privacy-policy#uses-and-retention)[Disclosure  
+](http://www.viber.com/en/viber-privacy-policy#disclosure)[Information you Share Publicly  
+](http://www.viber.com/en/viber-privacy-policy#information-you-share-publicly)[Your Choices  
+](http://www.viber.com/en/viber-privacy-policy#your-choices)[Cookies and Tracking Technologies  
+](http://www.viber.com/en/viber-privacy-policy#cookies-and-tracking-technologies)[Accessing Reviewing and Changing Your Personal Information  
+](http://www.viber.com/en/viber-privacy-policy#access-review-change-personal-information)[Specific Location Practices: California, EEA residents  
+](http://www.viber.com/en/viber-privacy-policy#specific-location-practices)[Third Party Websites  
+](http://www.viber.com/en/viber-privacy-policy#third-party-websites-and-apps)[Security  
+](http://www.viber.com/en/viber-privacy-policy#security)[Children’s Privacy  
+](http://www.viber.com/en/viber-privacy-policy#childrens-privacy)[International Transfer  
+](http://www.viber.com/en/viber-privacy-policy#international-transfer)[B2B Partners Data  
+](http://www.viber.com/en/viber-privacy-policy#b2b-partners-data)[Updates to this Policy  
+](http://www.viber.com/en/viber-privacy-policy#updates)[Contact Us](http://www.viber.com/en/viber-privacy-policy#contact-us)
 
 As part of our mission to spread good vibes, we want you to share the things that matter to you most with your friends, family and anyone else around you. It’s important to us that you feel comfortable and trust us with your information when you use the Viber services (the “Services”). Please take a few minutes to read this Privacy Policy, so that you understand what information we collect, what we do with it and why, how we protect it and what are your rights in relation to this information.
 
