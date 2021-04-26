@@ -208,7 +208,7 @@ Non-law enforcement requests should be directed as follows:
 *   **Report Content**: Details of how to report various types of content that may be in breach of TikTok’s Community Guidelines are available [here](https://support.tiktok.com/en/safety-hc/report-a-problem).
 
 *   **Report IP infringement**: Reports of alleged copyright or trademark infringement should be made in accordance with TikTok’s [Intellectual Property Policy](https://www.tiktok.com/legal/copyright-policy) and can be filed as a [Copyright Infringement Report](https://www.tiktok.com/legal/report/Copyright) or as a [Trademark Infringement Report](https://www.tiktok.com/legal/report/Trademark).
-*   **Civil law matters**: A copy of any civil law matters (including those related to litigation or other proceedings) should be sent to legal@tiktok.com with the subject line clearly labelled as “Civil Law Proceedings” and with the relevant parties named. However, any receipt of correspondence by email is for convenience only and, in doing so, TikTok does not waive any rights of objection including for lack of jurisdiction, invalid legal process or lack of proper service under applicable laws.
+*   **Civil law matters**: A copy of any civil law matters (including those related to litigation or other proceedings) should be sent to [lert@tiktok.com](https://www.tiktok.com/legal/lert@tiktok.com) with the subject line clearly labelled as “Civil Law Proceedings” and with the relevant parties named. However, any receipt of correspondence by email is for convenience only and, in doing so, TikTok does not waive any rights of objection including for lack of jurisdiction, invalid legal process or lack of proper service under applicable laws.
 
 ### **Q: How quickly does TikTok process requests?**
 
