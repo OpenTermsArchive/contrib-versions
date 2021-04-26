@@ -38,7 +38,7 @@ We use different methods to collect data from and about you including through:
 
 **Automated technologies or interactions.** As you interact with our Service, we may automatically collect Technical Data about your equipment, browsing actions and patterns. 
 
-**Cookies:**  Please see our [cookie policy](https://disqus.com/data-sharing-settings/) for further details about specific types of cookies we use.
+**Cookies:**  Please see our [cookie policy](https://disqus.com/cookie-policy/) for further details about specific types of cookies we use.
 
 **Log File Information:**These server logs may collect Technical Data such as your IP address, browser type, and information about the number of clicks and how you interact with links on the Service, Partner Sites, domain names, landing pages, pages viewed, and other such information.
 
@@ -65,7 +65,7 @@ c. Note that we may process your personal data for more than one lawful ground d
 
 d.
 
-[![](https://downloads.intercomcdn.com/i/o/178331596/a9fae6434fa87f8a5f0077ef/pripolicy_final.png?expires=1619017200&signature=13efbd3546fab380d972c991eaaf8ac08d065ad45fb63bafcfc13fef11330181)](https://downloads.intercomcdn.com/i/o/178331596/a9fae6434fa87f8a5f0077ef/pripolicy_final.png?expires=1619017200&signature=13efbd3546fab380d972c991eaaf8ac08d065ad45fb63bafcfc13fef11330181)
+[![](https://downloads.intercomcdn.com/i/o/178331596/a9fae6434fa87f8a5f0077ef/pripolicy_final.png?expires=1619546776&signature=8da96006e670f3080177a8df9947ac8a6069e6738d15d98af2c61b0520fc6a5a)](https://downloads.intercomcdn.com/i/o/178331596/a9fae6434fa87f8a5f0077ef/pripolicy_final.png?expires=1619546776&signature=8da96006e670f3080177a8df9947ac8a6069e6738d15d98af2c61b0520fc6a5a)
 
 **6\. DISCLOSURES OF YOUR PERSONAL DATA**  
 a. We may sell or share your personal data with the parties set out below for the purposes set out in the table in paragraph 5 above.
