@@ -175,7 +175,6 @@ Your information is controlled by GitLab B.V. and GitLab Inc. If you have questi
 *   [Product](https://about.gitlab.com/stages-devops-lifecycle/)
 *   [Solutions](https://about.gitlab.com/solutions/)
 *   [Services](https://about.gitlab.com/services/)
-*   [DevOps lifecycle](https://about.gitlab.com/stages-devops-lifecycle/)
 *   [DevOps tools](https://about.gitlab.com/devops-tools/)
 *   [Is it any good?](https://about.gitlab.com/is-it-any-good/)
 *   [Releases](https://about.gitlab.com/releases/)
