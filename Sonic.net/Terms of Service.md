@@ -157,7 +157,7 @@ Bandwidth and Disk use quotas
 Regulatory
 ==========
 
-**[CA Tariff - Local Exchange Services](https://wiki.sonic.net/images/0/0e/SonicTariff.pdf "SonicTariff.pdf")** **[CA Access Services Tariff – Intrastate](https://wiki.sonic.net/images/5/56/Access_Services_Tariff_-_CA_-_Intrastate_-_Feb_2014.pdf "Access Services Tariff - CA - Intrastate - Feb 2014.pdf")**
+**[CA Tariff - Local Exchange Services](https://help.sonic.com/hc/en-us/articles/115000380368-Local-Exchange-Services "SonicTariff.pdf")**
 
 Terms and Conditions of Global Calling
 ======================================
