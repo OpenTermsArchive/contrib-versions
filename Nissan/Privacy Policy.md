@@ -44,9 +44,9 @@ When visiting our Site or using our Services, you will sometimes provide your Pe
 | --- | --- |
 | When you request information from us | �Contact information such as name, address, email and phone number �Content and type of your request or query |
 | When you indicate to us what kind of offers, services and/or vehicles may interest you | �Contact information such as your name and e-mail address  <br>�Your preference regarding vehicle types  <br>�Your current subscriptions to our services or past transactions |
-| When we evaluate the quality of our services | �<br><br>Detailed information on your transaction such as vehicle model and dealership, products and services you requested<br><br>�<br><br>Your comments and feedback on your experience or satisfaction level in how we dealt with you |
+| When we evaluate the quality of our services | �Detailed information on your transaction such as vehicle model and  dealership, products and services you requested  <br>�Your comments and feedback on your experience or satisfaction level  in how we dealt with you |
 | When we conduct client surveys | �Contact information such as name, email, address, phone number  <br>�Your comments and any information you provide in the survey(s) |
-| When you search or apply for a job through our Site | �<br><br>The content of your search<br><br>�<br><br>Contact information such as name, email, address, phone number<br><br>�<br><br>Any information you enter into the form we provide<br><br>�<br><br>Your CV and any other document you provide us as part of your job application |
+| When you search or apply for a job through our Site | �The content of your search  <br>�Contact information such as name, email, address, phone number  <br>�Any information you enter into the form we provide  <br>�Your CV and any other document you provide us as part of your job  application |
 
 **(2) Personal Data We Automatically Collect From You**
 
