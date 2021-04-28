@@ -139,4 +139,20 @@ You may opt out of receiving promotional communications from Couchsurfing by fol
 
 If you have any questions about this Privacy Policy, please contact us [here](https://support.couchsurfing.com/) or via mail at Couchsurfing International, Inc. Attention: Legal Department, PO Box 7775 ECM 86600, San Francisco, CA 94120, United States or email at [privacy@couchsurfing.com](mailto:privacy@couchsurfing.com).
 
-In addition, EU members can direct privacy-related inquiries or complaints to [privacy@couchsurfing.com](mailto:privacy@couchsurfing.com). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at [https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request). If your complaint is not resolved, you may have the option of engaging in binding arbitration through the Privacy Shield Panel. You can reach our Data Protection Officer at [dpo@couchsurfing.com](mailto:dpo@couchsurfing.com). You have a right to lodge a complaint with a supervisory authority, in particular in the Member State of your habitual residence, place of work or place of the alleged infringement, if you believe that the processing of your personal data infringes on the Global Data Protection Regulation. Couchsurfing is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).
+Couchsurfing International, Inc. ("Couchsurfing"), which processes the personal data of individuals in the European Union, European Economic Area and/or UK, in either the role of 'data controller' or 'data processor', has appointed DataRep as its Data Protection Representative for the purposes of GDPR (The General Data Protection Regulation, EU 2016/769) in the EU/EEA and The Data Protection Act 2018 (as amended) in the UK.
+
+If Couchsurfing has processed or is processing your personal data, you may be entitled to exercise your rights under GDPR in respect of that personal data. For more details on the right you have in respect of your personal data, please refer to the European Commission ([https://ec.europa.eu/info/law/law-topic/data-protection/data-protection-eu\_en](https://ec.europa.eu/info/law/law-topic/data-protection/data-protection-eu_en)) or the National Data Protection Authority in your country.
+
+Couchsurfing takes the protection of personal data seriously, and has appointed DataRep as their Data Protection Representative in the European Union so that you can now contact them directly in your home country. DataRep has locations in each of the 27 EU countries, the UK, and Norway & Iceland in the European Economic Area (EEA), so that Couchsurfing's customers can always raise the questions they want with them.
+
+If you want to raise a question to Couchsurfing, or otherwise exercise your rights in respect of your personal data, you may do so by:
+
+*   sending an email to DataRep at [couchsurfing@datarep.com](mailto:couchsurfing@datarep.com)
+*   contacting us on our online webform at [www.datarep.com/data-request](https://www.datarep.com/data-request), or
+*   mailing your inquiry to DataRep at the most convenient of the addresses mentioned below
+
+Please note: When mailing inquiries, it is essential that you mark your letters for "DataRep" and not "Couchsurfing", or your inquiry may not reach DataRep. Please refer clearly to Couchsurfing in your correspondence. On receiving your correspondence, Couchsurfing is likely to request evidence of your identity, to ensure your personal data and information connected with it is not provided to anyone other than you.
+
+If you have any concerns over how DataRep will handle the personal data we will require to undertake our services, please refer to their privacy notice at www.datarep.com.privacy-policy
+
+The mailing addresses for DataRep can be found in [this Word Document here](https://about.couchsurfing.com/files/DataRep_ContactLocations.docx).
