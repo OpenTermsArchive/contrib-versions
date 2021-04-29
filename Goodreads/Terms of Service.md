@@ -1,8 +1,6 @@
-This Agreement was last revised on Dec 6, 2017.
+This Agreement was last revised on April 28, 2021.
 
-[Recent updates to this Agreement.](#updates)
-
-Welcome to Goodreads.com, the website and online service of Goodreads LLC (together with its affiliates, "Goodreads" "we," or "us"). This page explains the terms by which you may use our service. By accessing or using the Goodreads services, website and software provided through or in connection with the service ("Service"), you signify that you have read, understood, and agree to be bound by this Terms of Use Agreement, the Goodreads Privacy Policy, the [Amazon.com Conditions of Use](https://www.amazon.com/gp/help/customer/display.html/?nodeId=508088), and the other applicable rules, policies and terms posted on the Goodreads.com website or provided with the Service (collectively, this "Agreement"), whether or not you are a registered user of our Service.
+Welcome to Goodreads.com, the website and online service of Goodreads LLC (together with its affiliates, "Goodreads" "we," or "us"). This page explains the terms by which you may use our service. By accessing or using the Goodreads services, website and software provided through or in connection with the service ("Service"), you agree on behalf of yourself and all members of your household and others who use this Service under your account ("you" or "your") to be bound by this Terms of Use Agreement, the Goodreads Privacy Policy, the [Amazon.com Conditions of Use](https://www.amazon.com/gp/help/customer/display.html/?nodeId=508088), and the other applicable rules, policies and terms posted on the Goodreads.com website or provided with the Service (collectively, this "Agreement"), whether or not you are a registered user of our Service.
 
 We reserve the right to amend this Agreement at any time in our sole discretion by posting the revised Agreement on the Goodreads.com website. Your continued use of the Service after any such changes constitutes your acceptance of the revised Agreement. This Agreement applies to all visitors, users, and others who access the Service ("Users").
 
@@ -103,14 +101,8 @@ TO THE FULL EXTENT PERMISSIBLE BY APPLICABLE LAW, GOODREADS DISCLAIMS ALL WARRAN
 
 **Assignment.** This Agreement, and any rights and licenses granted hereunder, may not be transferred or assigned by you, but may be assigned by Goodreads without restriction.
 
-**Disputes/Binding Arbitration.** Any dispute or claim arising from or relating to this Agreement or a Kindle, any Reading Application, the Software, the Digital Content or the Service is subject to the binding arbitration, governing law, disclaimer of warranties, limitation of liability and all other terms in the [Amazon.com Conditions of Use](https://www.amazon.com/gp/help/customer/display.html/?nodeId=508088). You agree to those terms by entering into this Agreement or using a Kindle, any Reading Application, or the Service.
+**Disputes** Any dispute or claim arising from or relating to this Agreement or a Kindle, any Reading Application, the Software, the Digital Content or the Service is subject to the dispute resolution, governing law, disclaimer of warranties, limitation of liability and all other terms in the [Amazon.com Conditions of Use](https://www.amazon.com/gp/help/customer/display.html/?nodeId=508088).
 
 **No Waiver.** No waiver of any term of this Agreement shall be deemed a further or continuing waiver of such term or any other term, and Goodreads' failure to assert any right or provision under this Agreement shall not constitute a waiver of such right or provision.
 
 Please [contact us](https://www.goodreads.com/about/contact_us) with any questions regarding this Agreement.
-
-### Updates
-
-*   December 6, 2017: We have updated our terms of use agreement. Please read this Agreement carefully.
-*   April 7, 2010: We added [Terms of Use for Writers](https://www.goodreads.com/ebooks/terms), which apply to works submitted to the Service via the "My Writing" or "Ebook" features.
-*   October 16, 2008: We replaced our [former terms of use agreement](https://www.goodreads.com/about/terms1) with a new agreement. Please read this Agreement carefully.
