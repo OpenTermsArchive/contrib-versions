@@ -22,7 +22,7 @@ Website Terms of Use
 
 **PLEASE READ THIS AGREEMENT CAREFULLY BEFORE ACCESSING OR USING THE WEBSITE. BY ACCESSING OR USING ANY PART OF THE WEBSITE, YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS AGREEMENT. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS AGREEMENT, THEN YOU MAY NOT ACCESS THE WEBSITE. THE WEBSITE IS AVAILABLE ONLY TO INDIVIDUALS WHO ARE AT LEAST 13 YEARS OLD.**
 
-These Website Terms of Use (the “Agreement”) govern all use of the GitLab.com website, or other website(s) owned and operated by GitLab (the “Website”). The Website is offered subject to your acceptance, without modification, to the terms and conditions contained herein as updated subject to this Agreement. For the avoidance of doubt, this Agreement does not control or govern your use of the GitLab products and services. Please visit the \[GitLab Terms Page\] (https://about.gitlab.com/terms/) to see the applicable agreement(s) related to your use of GitLab products and services.
+These Website Terms of Use (the “Agreement”) govern all use of the GitLab.com website, or other website(s) owned and operated by GitLab (the “Website”). The Website is offered subject to your acceptance, without modification, to the terms and conditions contained herein as updated subject to this Agreement. For the avoidance of doubt, this Agreement does not control or govern your use of the GitLab products and services. Please visit the [GitLab Terms Page](https://about.gitlab.com/handbook/legal/policies/website-terms-of-use/about.gitlab.com/terms/) to see the applicable agreement(s) related to your use of GitLab products and services.
 
 #### 1\. Website Eligibility.
 
