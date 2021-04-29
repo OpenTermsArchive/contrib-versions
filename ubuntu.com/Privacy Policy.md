@@ -298,6 +298,7 @@ The open source software platform that runs everywhere from the smartphone, the 
     *   [Compare](https://ubuntu.com/openstack/compare)
     *   [TCO calculator](https://ubuntu.com/openstack/tco-calculator)
     *   [Install](https://ubuntu.com/openstack/install)
+    *   [Docs](https://ubuntu.com/openstack/docs)
 *   [Ceph](https://ubuntu.com/ceph)
     -------------------------------
     
