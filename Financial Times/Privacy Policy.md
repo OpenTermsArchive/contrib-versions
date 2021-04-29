@@ -21,8 +21,11 @@ If you decide to create an account or enquire about one of our products or servi
 *   Basic personal details – such as name, title and date of birth;
 *   Personal contact details – such as home address, delivery address, home phone number, mobile phone number, and email address;
 *   Work details – such as job title, department, company name, company address, work email address and office phone number;
+*   Student or Institution details, if you are signing up to a subscription of an educational establishment - such as student status, graduation year, establishment name.
 *   Login details – such as username and password;
 *   Payment details – such as your bank account and payment card information.
+
+We may also use your account information, such as your title, name and country, to infer your gender.
 
 ### Additional information
 
@@ -36,7 +39,7 @@ On occasion, we will ask you to voluntarily provide additional information, for 
 
 ### Information we obtain from partners and public sources
 
-In some circumstances, we collect information about you from our partners or from publicly available websites to help us better understand our audience and enhance the relevance of our content. For example, in some cases we obtain the contact details of potential speakers for FT Live events from public websites.
+In some circumstances, we collect information about you from our partners or from publicly available sources to help us better understand our audience and enhance the relevance of our content and Marketing. For example, in some cases we obtain the contact details of potential speakers for FT Live events from public websites. We also obtain some information from publicly available sources for the purpose of inclusion in our directories, such as MandateWire.
 
 ### Information we obtain through cookies and similar tools
 
@@ -47,17 +50,19 @@ We use cookies (and similar technologies) and analytics tools across our Sites t
 *   **Your device** – we use cookies to understand what type of device you are using to show you the best version of the site.
 *   **Your engagement with advertisements** – we use cookies to understand what advertisements you have been shown, or clicked on, to bill our advertising partners, and to present you with advertisements that are more relevant to you.
 
-If you wish to manage your cookies, please follow the instructions in the “How to manage cookies” section within our [Cookie Policy.](https://help.ft.com/legal-privacy/cookies/)
+If you wish to manage your cookies, please follow the instructions on our [Manage Cookies](https://www.ft.com/preferences/manage-cookies) page.
 
 Lawful basis for processing
 ---------------------------
 
 We only process personal information where we have a lawful basis for doing so, such as the following:
 
-*   **User consent** – This is where you have given us explicit permission to process personal information for a given purpose. For example, if you complete one of our general enquiry forms, we would ask for your consent if we wanted to use your personal information for any other purpose. You have the right to withdraw this consent at any time. You can manage your preferences within your account or by contacting Customer Care.
+*   **User consent** – This is where you have given us permission to process personal information for a given purpose. For example, if you complete one of our general enquiry forms, we would ask for your consent if we wanted to use your personal information for any other purpose. You have the right to withdraw this consent at any time. You can manage your preferences within your account or by contacting Customer Care.
 *   **Legitimate business purposes** – This is where we have a legitimate interest, as a business, to process personal information. For example, where we are aware of copyright infringements on our Site, it is in our legitimate interests as a business to identify those responsible. We take due care to balance our interests against your right to privacy.
 *   **Contractual necessity** – This is where we have to process personal information to meet our contractual obligations. For example, if you are a print subscriber, we would need to process your delivery address to fulfil your subscription.
 *   **Legal obligation** – This is where we have to process personal information in order to comply with the law. For example, we process and retain customer invoice information to comply with financial regulations.
+
+We may also rely on relevant exemptions under the GDPR to the requirement to identify a lawful basis for processing, for example, the journalism exemption.
 
 How we use your personal information
 ------------------------------------
@@ -70,17 +75,18 @@ We collect personal information for the following main reasons:
 4.  **To monitor compliance with our policies and terms**  – We monitor for breaches of our terms and conditions and copyright policies. For example, we reserve the right to inform the subscription holder if, through use of a group subscription, you are using our content in breach of the terms and conditions or copyright policies of our Sites. We also monitor activity on our Sites to detect and prevent invalid or fraudulent traffic.
 5.  **To personalise our products and services** – We improve your experience of our products and services by personalising parts of our Sites and apps with the information you give us and what we learn about you. This includes showing you articles you may be interested in and recommending emails you may wish to sign up to. Where our Sites have such functionality, you can manage elements of personalisation in your account.
 6.  **To communicate product changes and offers** – We want you to get the most out of our products and services, including showcasing our latest content and newsletters. We will contact you with carefully-curated FT offers and promotions, exclusive event invitations and feature announcements. For example, if there are no updates on topics you follow in MyFT, we will send you articles on other topics that we think you might be interested in. You are able to change your preferences at any time through your account or by contacting Customer Care. We also personalise our communications for strategic purposes. For example, we might offer group subscriptions to portfolio managers.
-7.  **For the purpose of advertising** – We rely on advertising revenue in part to support our award-winning journalism. We need to process your information to understand the effectiveness of the advertising we serve to you and others, and to deliver relevant personalised advertising. We use the information you give us and the information we collect about you to serve you with the most appropriate advertisements. You can manage your advertising settings for the Sites that carry out this activity in your account. If you do decide to turn off personalised advertisements or advertisements tailored to you, you will still see the same number of advertisements but they may be less relevant to you. You may continue to see advertisements that are targeted to you based on other non-personal information, for example, the article that you are reading.
+7.  **For the purpose of advertising** – We rely on advertising revenue in part to support our award-winning journalism. We need to process your information to understand the effectiveness of the advertising we serve to you and others, and to deliver relevant personalised advertising. We use the information you give us, the information we collect about you and the information we infer, to serve you with the most appropriate advertisements. You can manage your advertising settings for the Sites that carry out this activity in your account. If you do decide to turn off personalised advertisements or advertisements tailored to you, you will still see the same number of advertisements but they may be less relevant to you. You may continue to see advertisements that are targeted to you based on other non-personal information, for example, the article that you are reading.
 8.  **Recruitment** – If you apply for a role via one of our Sites, we will process your information in order to facilitate the application process.
-9.  **To build directories** – A number of our sites (including The Banker and fDi Intelligence) process personal information to create databases and directories. These directories provide key business insights and profiles to those that have licensed access. Where we make an individual’s contact details accessible on our Sites, we inform the individual and provide instructions on how to have their contact details removed.
+9.  **To build directories** – A number of our sites (including The Banker, fDi Intelligence and MandateWire) process personal information to create databases and directories. These directories provide key business insights and profiles to those that have licensed access. Where we make an individual’s contact details accessible in our directories, we inform the individual and provide instructions on how to have their contact details removed.
 10.  **To administer prize draws and competitions** – If you enter a prize draw or competition, we will process your information in order to run the competition or administer the prize draw. For example, we will process your address information if you are a winner and we need to send your prize by post. We may be required to publish or otherwise make available your name and/or region if you are selected as a winner in a competition or prize draw.
+11.  **For the purpose of diversity & inclusion initiatives -** We rely on information, such as inferred gender, to understand the composition of our audience and ensure that our products and services are engaging across our audience.
 
 Who we share your personal information with
 -------------------------------------------
 
 We disclose personal information to facilitate the running of our business or to provide specific services you have requested. Commonly, we will disclose information to:
 
-*   **Service providers** – We engage service providers who help to support our business and improve our products. These service providers include, for example, fulfilment providers for delivery of our digital content and marketing; customer service agencies; hosts, organisers and sponsors of our events; organisations that host our Sites or databases; and providers of online surveys.We also work with a number of distribution partners to deliver subscriptions. We have contracts in place with these data processors and they can only use your personal information under our instruction. For example, if you have a print subscription with us, we will disclose your information (address, contact details) to our distribution partners to facilitate delivery of the newspaper or magazine.
+*   **Service providers** – We engage service providers who help to support our business and improve our products. These service providers include, for example, fulfilment providers for delivery of our digital content and marketing; customer service agencies; hosts, organisers and sponsors of our events; organisations that host our sites, events or databases; and providers of online surveys.We also work with a number of distribution partners to deliver subscriptions. We have contracts in place with suppliers who process data to provide these services and they can only use your personal information under our instruction. For example, if you have a print subscription with us, we will disclose your information (address, contact details) to our distribution partners to facilitate delivery of the newspaper or magazine.
 *   **Advertisers** – We, and our advertising partners, use cookies to collect personal information and serve you with advertisements that we believe are relevant to you and your interests. There is more specific information about our advertising partners and data sharing in our [Cookie Policy.](https://help.ft.com/legal-privacy/cookies/)
 *   **Institutional customers** – If your subscription is provided under a group subscription or trial, we will provide our client with information about your activity on our Site(s) for the purposes of user management, licence administration, content suggestion and  billing. We may also make online tools available to our client for these purposes. Information about your activity is provided at a high level and our client cannot track exactly what articles you have read. We may also provide current or prospective clients with activity information about individual subscribers who registered using that entity’s email address. We will always contact individual subscribers before doing so, and will respect any requests not to share this information.
 *   **Recruiters**  
@@ -93,7 +99,7 @@ We disclose personal information to facilitate the running of our business or to
     *   For the purposes of targeted advertising on social media platforms, and to create lookalike audiences for these purposes;
     *   To encourage users to get the most out of their subscription.
 *   **Other users** – Our Sites are publicly accessible and anyone around the world who accesses our Sites will be able to see anything you post, such as comments about an article. We encourage you to use a pseudonym when commenting on our Sites if you do not wish to be identifiable to other readers.
-*   **FT group** – We share your information within the FT group to provide our services and to better understand the relationship between our products. More information about FT group is on our “About us” website. For example, FT Live may send exclusive invitations to FT.com subscribers if an event may be of particular interest to that individual.
+*   **FT group** – We share your information within the FT group to provide our services and to better understand the relationship between our products. More information about FT group is on our “[About us](https://aboutus.ft.com/company/ft-group)” website. Sometimes services are provided between legal entities in the FT group, which may involve the processing of personal data by one entity on behalf of another. For example, we may share publicly available personal data with Money Media Inc for inclusion in our MandateWire directories.
 *   **Legal processes and successors in title** – We, and our suppliers, may also disclose your information to comply with applicable laws, court orders or other valid legal processes, and to enforce or apply our terms of use, any subscription agreement, or any of our other rights.We may transfer or disclose your personal information to any entity which takes over or acquires the relevant FT business.We also share aggregated, non-identifiable information with third parties. Before sharing this information, we ensure that it cannot identify you as an individual. For example, we regularly release information about the size and growth of our audiences.
 
 How long we retain your personal information
@@ -135,7 +141,7 @@ We operate a global business, so your personal information may be processed and 
 Your rights
 -----------
 
-Under data protection laws, you have rights as an individual in relation to the personal data we hold about you. These rights include:
+Under data protection laws, you may have rights as an individual in relation to the personal data we hold about you. These rights include:
 
 *   The right to object to direct marketing - your preferences, including in relation to direct marketing, can be found in your account;
 *   The right to access the personal data that we process about you;
@@ -144,13 +150,12 @@ Under data protection laws, you have rights as an individual in relation to the 
 
 You can exercise these rights through your account or by contacting Customer Care.
 
-You also have the right to lodge a complaint with a supervisory authority. In the UK, this is the Information Commissioner’s Office (ICO).  
- 
+You also have the right to lodge a complaint with a supervisory authority. In the UK, this is the [Information Commissioner’s Office](https://ico.org.uk/) (ICO).
 
 Where this Privacy Policy applies
 ---------------------------------
 
-Personal information is collected by The Financial Times Limited on behalf of the Financial Times group of companies and its trading entities (including FDI Intelligence and Exec-Appointments).
+Personal information is collected by The Financial Times Limited on behalf of the Financial Times group of companies and its trading entities (including FDI Intelligence, MandateWire and Exec-Appointments).
 
 Our Sites are not intended for children under 16 years of age. We do not intentionally collect or use any information from children.
 
@@ -162,17 +167,29 @@ The Financial Times Ltd
 Registered Office: Bracken House, 1 Friday Street, London, EC4M 9BT  
 Registered Number: 227590
 
-Changes to this Privacy Policy
-------------------------------
+EU Representative
+-----------------
 
-This policy is effective from 14/05/2018.
+To comply with the General Data Protection Regulation (2016/679) we have appointed a European representative. If you wish to contact them, their details are as follows:
 
-Any changes we may make to this privacy policy will be posted on this page. If changes are significant, we may choose to notify you by email or to clearly indicate on our home page that the policy has been updated.
+Bird & Bird GDPR Representative Services Ireland 
+
+Deloitte House 
+
+29 Earlsfort Terrace 
+
+Dublin 2 
+
+D02 AY28
+
+[EUrepresentative.FinancialTimes@twobirds.com](mailto:EUrepresentative.FinancialTimes@twobirds.com) 
+
+Key Contact: Vincent Rezzouk-Hammachi
 
 Privacy notice for California Consumer Privacy Act
 --------------------------------------------------
 
-This section was updated on 26 June 2020 and supplements the information in our Privacy Policy above. 
+This section is intended for California residents and supplements the above. 
 
 #### Rights for California residents
 
@@ -184,7 +201,7 @@ If you are a California resident, the California Consumer Privacy Act (CCPA) may
 *   The right to opt-out from the sale of your personal information, if applicable;
 *   The right to not be discriminated against for exercising any of the rights above. 
 
-You can exercise any applicable rights by emailing ccpa.privacy@ft.com or contacting our Customer Care team. You may be required to submit proof of your identity and/or address, if we are unable to confirm your identity or cannot verify that you are a California resident. We endeavor to respond to a verifiable consumer request within 45 days. You may also designate an authorised agent to make a request on your behalf, subject to proof of identity and authorisation. 
+You can exercise any applicable rights by emailing [ccpa.privacy@ft.com](mailto:ccpa.privacy@ft.com) or contacting [Customer Care](https://help.ft.com/help/contact-us/). You may be required to submit proof of your identity and/or address, if we are unable to confirm your identity or cannot verify that you are a California resident. We endeavor to respond to a verifiable consumer request within 45 days. You may also designate an authorised agent to make a request on your behalf, subject to proof of identity and authorisation. 
 
 #### Summary of consumers’ personal information we have collected in the preceding 12 months
 
@@ -224,5 +241,12 @@ If your contact details have been included in the database, you will have receiv
 #### More Information
 
 For more information on how we use your personal information and who we share your personal information with, please see our Privacy Policy above or contact [ccpa.privacy@ft.com](mailto:ccpa.privacy@ft.com).
+
+Changes to this Privacy Policy
+------------------------------
+
+This policy was reviewed on 22/04/2021 and last updated on 22/04/2021.
+
+Any changes we may make to this privacy policy will be posted on this page. If changes are significant, we may choose to notify you by email or to clearly indicate on our home page that the policy has been updated. 
 
 [Back to top](#pagetop)
