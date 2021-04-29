@@ -27,17 +27,6 @@ WhatsApp must receive or collect some information to operate, provide, improve, 
 
 **Information You Provide**
 
-*   **Your Account Information.** You provide your mobile phone number and basic information (including a profile name) to create a WhatsApp account. You provide us, all in accordance with applicable laws, the phone numbers in your mobile address book on a regular basis, including those of both the users of our Services and your other contacts. You may provide us an email address. You may also add other information to your account, such as a profile picture and about information.
-    
-*   **Your Messages.** We do not retain your messages in the ordinary course of providing our Services to you. Once your messages (including your chats, photos, videos, voice messages, files, and share location information) are delivered, they are deleted from our servers. Your messages are stored on your own device. If a message cannot be delivered immediately (for example, if you are offline), we may keep it on our servers for up to 30 days as we try to deliver it. If a message is still undelivered after 30 days, we delete it. To improve performance and deliver media messages more efficiently, such as when many people are sharing a popular photo or video, we may retain that content on our servers for a longer period of time. We also offer end-to-end encryption for our Services, which is on by default, when you and the people with whom you message use a version of our app released after April 2, 2016. End-to-end encryption means that your messages are encrypted to protect against us and third parties from reading them. Learn more about [End-to-End Encryption](https://faq.whatsapp.com/general/28030015/) and [Businesses on WhatsApp](https://www.whatsapp.com/legal/#privacy-policy-businesses-on-WhatsApp).
-    
-*   **Your Connections.** To help you organize how you communicate with others, we may help you identify your contacts who also use WhatsApp, and you can create, join, or get added to groups and broadcast lists, and such groups and lists get associated with your account information. You give your groups a name. You may choose to provide a group profile picture or description.
-    
-*   **Your Use Of Our Payments Services.** If you use our payment services available in your country, we process purchase and transaction information as described in the applicable [Payments Privacy Policy](https://www.whatsapp.com/legal/?eea=0#payments-in-privacy-policy).
-    
-*   **Customer Support.** You may provide us with information related to your use of our Services, including copies of your messages, and how to contact you so we can provide you customer support. For example, you may send us an email with information relating to our app performance or other issues.
-    
-
 **Automatically Collected Information**
 
 *   **Usage And Log Information.** We collect information about your activity on our Services, like service-related, diagnostic, and performance information. This includes information about your activity (including how you use our Services, your Services settings, how you interact with others using our Services, and the time, frequency, and duration of your activities and interactions), log files, and diagnostic, crash, website, and performance logs and reports. This also includes information about when you registered to use our Services, the features you use like our messaging, calling, Status, or groups features, profile photo, about information, whether you are online, when you last used our Services (your "last seen"), and when you last updated your about information.
@@ -110,19 +99,6 @@ How The General Data Protection Regulation Applies To Our European Region Users
 
 We [collect](https://www.whatsapp.com/legal/?eea=1#privacy-policy-information-we-collect), [use](https://www.whatsapp.com/legal/?eea=1#privacy-policy-how-we-use-information), and [share](https://www.whatsapp.com/legal/?eea=1#privacy-policy-information-you-and-we-share) the information we have as described above:
 
-*   as necessary to fulfill our [Terms](https://www.whatsapp.com/legal/?eea=1#terms-of-service);
-    
-*   consistent with your consent, which you can revoke at any time;
-    
-*   as necessary to comply with our legal obligations;
-    
-*   occasionally to protect your vital interests, or those of others;
-    
-*   as necessary in the public interest; and
-    
-*   as necessary for our (or others') legitimate interests, including our interests in providing an innovative, relevant, safe, and profitable service to our users and partners, unless those interests are overridden by your interests or fundamental rights and freedoms that require protection of personal data. [Learn More](https://www.whatsapp.com/legal/?eea=1#how-we-process-your-information)
-    
-
 **[](#)How You Exercise Your Rights**
 
 Under the General Data Protection Regulation or other applicable local laws, you have the right to access, rectify, port, and erase your information, as well as the right to restrict and object to certain processing of your information. This includes the right to object to our processing of your information for direct marketing and the right to object to our processing of your information where we are performing a task in the public interest or pursuing our legitimate interests or those of a third party. You can access or port your information using our in-app Request Account Info feature (available under Settings > Account). You can access tools to rectify, update, and erase your information directly in-app as described in the Managing and Deleting Your Information section. If we process your information based on our legitimate interests or those of a third party, or in the public interest, you can object to this processing, and we will cease processing your information, unless the processing is based on compelling legitimate grounds or is needed for legal reasons. You can also object to our processing of your information and learn more about your options for restricting the way we use your information by going [here](https://faq.whatsapp.com/en/general/26000153/). Where we use your information for direct marketing for our own Services, you can always object and opt out of future marketing messages using the unsubscribe link in such communications, or by using our in-app "Block" feature.
@@ -132,11 +108,6 @@ How We Process Your Information
 Under European law, companies must have a legal basis to process data. You have particular rights available to you depending on which legal basis we use, and we've explained these below. You should know that no matter what legal basis applies, you always have the right to request access to, rectification of, and erasure of your data under the General Data Protection Regulation (the "GDPR"). To exercise your rights, see our Privacy Policy under [How You Exercise Your Rights](https://www.whatsapp.com/legal/?eea=1#privacy-policy-how-you-exercise-your-rights).
 
 For all people who have legal capacity to enter into an enforceable contract, we process data as necessary to perform our contracts with you (the [Terms of Service](https://www.whatsapp.com/legal/?eea=1#terms-of-service), the "Terms"). We describe the contractual services for which this data processing is necessary in [Our Services](https://www.whatsapp.com/legal/?eea=1#terms-of-service-our-services) section of the Terms and in the additional informational resources accessible from our Terms. The core data uses necessary to provide our contractual services are:
-
-*   To provide, improve, customize, and support our Services as described in "Our Services";
-*   To promote safety and security;
-*   To transfer, transmit, store, or process your data outside the EEA, including to within the United States and other countries; and
-*   To communicate with you, for example, on Service-related issues.
 
 These uses are explained in more detail in our Privacy Policy, under [How We Use Information](https://www.whatsapp.com/legal/?eea=1#privacy-policy-how-we-use-information) and [Our Global Operations](https://www.whatsapp.com/legal/?eea=1#privacy-policy-our-global-operations). We'll use the data we have to provide these services; if you choose not to provide certain data, the quality of your experience using WhatsApp may be impacted.
 
@@ -215,13 +186,6 @@ Managing And Deleting Your Information
 We store information until it is no longer necessary to provide our services, or until your account is deleted, whichever comes first. This is a case-by-case determination that depends on things like the nature of the information, why it is collected and processed, and relevant legal or operational retention needs.
 
 If you would like to manage, change, limit, or delete your information, we allow you to do that through the following tools:
-
-*   **Services Settings.** You can change your Services settings to manage certain information available to other users. You can manage your contacts, groups, and broadcast lists, or use our block feature to manage the users with whom you communicate.
-    
-*   **Changing Your Mobile Phone Number, Profile Name And Picture, And About Information.** You must change your mobile phone number using our in-app change number feature and transfer your account to your new mobile phone number. You can also change your profile name, profile picture, and about information at any time.
-    
-*   **Deleting Your WhatsApp Account.** You may delete your WhatsApp account at any time (including if you want to revoke your consent to our use of your information) using our in-app delete my account feature. When you delete your WhatsApp account, your undelivered messages are deleted from our servers as well as any of your other information we no longer need to operate and provide our Services. Be mindful that if you only delete our Services from your device without using our in-app delete my account feature, your information may be stored with us for a longer period. Please remember that when you delete your account, it does not affect the information other users have relating to you, such as their copy of the messages you sent them.
-    
 
 Law And Protection
 
