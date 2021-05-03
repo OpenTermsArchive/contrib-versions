@@ -30,7 +30,8 @@ Personal User Information
 
 When we talk about "Personal Information" in this Privacy Policy, we are talking both about Device Information and Order Information.
 
-How do we use your personal information?  
+How do we use your personal information?
+
 We use the Order Information that we collect generally to fulfill any orders placed through the Site (including processing your payment information, arranging for shipping, and providing you with invoices and/or order confirmations). Additionally, we use this Order Information to:
 
 *   Communicate with you;
