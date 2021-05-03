@@ -1,7 +1,7 @@
 Alexa Terms of Use
 ==================
 
-**Last Updated: March 25, 2021**
+**Last Updated: April 30, 2021**
 
 This is an agreement between you and Amazon.com Services LLC (with its affiliates, "Amazon" or "we"). Before using Alexa, please read these Alexa Terms of Use, including the attached schedules, the [Amazon.com Privacy Notice](https://www.amazon.com/privacy), the [Amazon.com Conditions of Use](https://www.amazon.com/conditionsofuse), and the other applicable rules, policies, and terms posted on the Amazon.com website, available through your Alexa App, or provided with Alexa Enabled Products (collectively, this "Agreement"). By using Alexa, you agree to the terms of this Agreement on behalf of yourself and all other persons who use Alexa under your account. If you do not accept the terms of this Agreement, then you may not use Alexa.
 
@@ -61,7 +61,7 @@ You can find more information about Amazon-Processed Purchases and donations in 
 
 **4.5 Termination.** We may terminate your access to Alexa at our discretion without notice (except as may be required by applicable law). Your rights under this Agreement will automatically terminate without notice if you fail to comply with any of its terms. In case of such termination, Amazon may immediately revoke your access to Alexa without refund of any fees. Amazon's failure to insist upon or enforce your strict compliance with this Agreement will not constitute a waiver of any of its rights.
 
-**4.6 Disputes/Binding Arbitration. Any dispute or claim arising from or relating to this Agreement or Alexa is subject to the binding arbitration, governing law, disclaimer of warranties, limitation of liability, and all other terms in the** **[Amazon.com Conditions of Use](https://www.amazon.com/conditionsofuse)****. By using Alexa, you agree to be bound by those terms.**
+**4.6 Disputes. Any dispute or claim arising from or relating to this Agreement or Alexa is subject to the dispute resolution, governing law, disclaimer of warranties, limitation of liability, and all other terms in the** **[Amazon.com Conditions of Use](https://www.amazon.com/conditionsofuse)**.
 
 **4.7 Disclaimer of Warranties and Limitation of Liability. Without limiting the Disclaimer of Warranties and Limitation of Liability terms in the Amazon.com Conditions of Use, and unless otherwise required by applicable law, in no event will our or our licensors' or our service providers' aggregate liability with respect to any claim arising from or relating to this Agreement or your use of Alexa exceed fifty dollars ($50).**
 
