@@ -1,9 +1,9 @@
 Amazon Silk Terms & Conditions
 ==============================
 
-**Last updated: December 13, 2017**
+**Last updated: April 30, 2021**
 
-Please read these Terms & Conditions, [Amazon.com Privacy Notice](https://www.amazon.com/privacy), and the [Amazon.com Conditions of Use](https://www.amazon.com/gp/help/customer/display.html?&nodeId=508088) (collectively, the "Agreement") before using the Amazon Silk browser software and related services (collectively, "Amazon Silk"). By choosing a browser operating mode and installing, using, or accessing Amazon Silk, you accept and agree to be bound by this Agreement. If you don't want to be bound by the Agreement, exit the browser and do not install, use, or access Amazon Silk.
+Please read these Terms & Conditions, [Amazon.com Privacy Notice](https://www.amazon.com/privacy), and the [Amazon.com Conditions of Use](https://www.amazon.com/gp/help/customer/display.html?&nodeId=508088) (collectively, the "Agreement") before using the Amazon Silk browser software and related services (collectively, "Amazon Silk"). By choosing a browser operating mode and installing, using, or accessing Amazon Silk, you accept and agree to be bound by this Agreement on behalf of yourself and all members of your household and others who use Silk under your account. If you don't want to be bound by the Agreement, exit the browser and do not install, use, or access Amazon Silk.
 
   
 
