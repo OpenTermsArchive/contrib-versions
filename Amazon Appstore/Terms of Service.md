@@ -1,11 +1,11 @@
 Amazon Appstore for Android Terms of Use
 ========================================
 
-**Last updated: January 1, 2020**
+Last updated: April 30, 2021
 
-**These Terms of Use are part of an agreement between you and Amazon.com Services LLC (together with its affiliates, "Amazon" or "we") regarding use of the Amazon Appstore for Android and associated software, services and purchases ("Amazon Appstore"). Before you use the Amazon Appstore or download any Apps made available through it, please read these Terms of Use, the Amazon.com Privacy Notice at [https://www.amazon.com/privacy](https://www.amazon.com/gp/redirect.html/ref=amb_link_355618602_1?location=http://www.amazon.com/privacy&token=3A0F170E7CEFE27BDC730D3D7344512BC1296B83&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=center-3&pf_rd_r=0NYXH8Q5MSDNGAE068Q9&pf_rd_t=1401&pf_rd_p=1558395322&pf_rd_i=1000667601), the Amazon.com Conditions of Use at [https://www.amazon.com/conditionsofuse](https://www.amazon.com/gp/redirect.html/ref=amb_link_355618602_2?location=http://www.amazon.com/conditionsofuse&token=3A0F170E7CEFE27BDC730D3D7344512BC1296B83&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=center-3&pf_rd_r=0NYXH8Q5MSDNGAE068Q9&pf_rd_t=1401&pf_rd_p=1558395322&pf_rd_i=1000667601), and all rules and policies related to the Amazon Appstore (including, but not limited to, any rules or usage provisions specified on any product detail page or on any help or other informational page for the Amazon Appstore) (collectively, the "Agreement").**
+**These Terms of Use are part of an agreement between you and Amazon.com Services LLC (together with its affiliates, "Amazon" or "we") regarding use of the Amazon Appstore for Android and associated software, services and purchases ("Amazon Appstore"). Before you use the Amazon Appstore or download any Apps made available through it, please read these Terms of Use, the Amazon.com Privacy Notice at [https://www.amazon.com/privacy](https://www.amazon.com/privacy), the Amazon.com Conditions of Use at** [**https://www.amazon.com/conditionsofuse**](https://www.amazon.com/conditionsofuse)**, and all rules and policies related to the Amazon Appstore (including, but not limited to, any rules or usage provisions specified on any product detail page or on any help or other informational page for the Amazon Appstore) (collectively, the "Agreement").**
 
-**IF YOU USE THE AMAZON APPSTORE, YOU WILL BE BOUND BY THIS AGREEMENT.**
+**IF YOU USE THE AMAZON APPSTORE, YOU AGREE TO BE BOUND BY THIS AGREEMENT ON BEHALF OF YOURSELF AND ALL MEMBERS OF YOUR HOUSEHOLD AND OTHERS WHO USE THE AMAZON APPSTORE UNDER YOUR ACCOUNT.**
 
 **1\. The Amazon Appstore**
 
@@ -35,7 +35,7 @@ We may terminate a subscription at any time, for example, if the applicable Amaz
 
 **2.5 All Sales Final.**
 
-All purchases of Apps and Amazon-Sold In-App Products are final, except as expressly stated in [Digital Products Return Policy](https://www.amazon.com/gp/help/customer/display.html?nodeId=15015721#GUID-7AE4D2C8-CAF9-465E-A54A-2D1C166C9385__SECTION_D5E9EE1A2A654FBEA55DE422D94F3078). Once you have purchased an App or Amazon-Sold In-App Product, we encourage you to download (if applicable) and access it promptly to be sure you have received it. If you are unable to complete a download or access an App or Amazon-Sold In-App Product, please contact Amazon customer service for assistance. Once you purchase an App or Amazon-Sold In-App Product and we make it available to you, you bear responsibility for completing the download (if applicable) and for all risk of loss after downloading or accessing the App or Amazon-Sold In-App Product, including any loss due to a device malfunction.
+All purchases of Apps and Amazon-Sold In-App Products are final, except as expressly stated in [Digital Products Return Policy](https://www.amazon.com/gp/help/customer/display.html?nodeId=15015721#GUID-D26A35E8-EE23-4B88-8B62-B357ABA6DDEE__SECTION_D5E9EE1A2A654FBEA55DE422D94F3078). We do not accept returns of Apps or Amazon-Sold In-App Products. Once you have purchased an App or Amazon-Sold In-App Product, we encourage you to download (if applicable) and access it promptly to be sure you have received it. If you are unable to complete a download or access an App or Amazon-Sold In-App Product, please contact Amazon customer service for assistance. Once you purchase an App or Amazon-Sold In-App Product and we make it available to you, you bear responsibility for completing the download (if applicable) and for all risk of loss after downloading or accessing the App or Amazon-Sold In-App Product, including any loss due to a device malfunction.
 
 **2.6 Downloading and Availability of Apps after Purchase.**
 
@@ -57,7 +57,7 @@ We may make available to you software that you need to install on your device in
 
 **3.2 Information Provided to Amazon.**
 
-Amazon respects your privacy, and the Appstore Software will not access files or other information on any device where your Apps are located that are not used by or otherwise related to the Appstore Software or performance of the Apps. The Appstore Software and Apps will provide Amazon with information relating to the download, use and performance of the Appstore Software and your Apps, as well as information regarding the devices on which you download and use the Appstore Software or Apps. For example, the Appstore Software and Apps may provide Amazon with information about the device type, network connectivity, location of the device running an App, information about when an App is launched, individual session lengths for Apps, or why an App may not be working. Any information we receive is subject to the Amazon.com Privacy Notice located at **[www.amazon.com/privacy](https://www.amazon.com/privacy)**.
+Amazon respects your privacy, and the Appstore Software will not access files or other information on any device where your Apps are located that are not used by or otherwise related to the Appstore Software or performance of the Apps. The Appstore Software and Apps will provide Amazon with information relating to the download, use and performance of the Appstore Software and your Apps, as well as information regarding the devices on which you download and use the Appstore Software or Apps. For example, the Appstore Software and Apps may provide Amazon with information about the device type, network connectivity, location of the device running an App, information about when an App is launched, individual session lengths for Apps, or why an App may not be working. Any information we receive is subject to the Amazon.com Privacy Notice located at [https://www.amazon.com/privacy](https://www.amazon.com/privacy).
 
 **3.3 Separate Licenses to Use Apps.**
 
@@ -99,7 +99,7 @@ Your rights under this Agreement will automatically terminate without notice fro
 
 For communications concerning this Agreement, please write to Amazon, Attn: Legal Department, P.O. Box 81226, Seattle, WA 98108-1226.
 
-**4.5 Disputes / Binding Arbitration. Any dispute or claim arising from or relating to the Agreement or the Amazon Appstore is subject to the binding arbitration, governing law, disclaimer of warranties and limitation of liability and all other terms in the Amazon.com Conditions of Use at [https://www.amazon.com/conditionsofuse](https://www.amazon.com/gp/redirect.html/ref=amb_link_355618602_4?location=http://www.amazon.com/conditionsofuse&token=3A0F170E7CEFE27BDC730D3D7344512BC1296B83&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=center-3&pf_rd_r=0NYXH8Q5MSDNGAE068Q9&pf_rd_t=1401&pf_rd_p=1558395322&pf_rd_i=1000667601). You agree to those terms by entering into the Agreement or by using the Amazon Appstore.**
+**4.5 Disputes. Any dispute or claim arising from or relating to the Agreement or the Amazon Appstore is subject to the dispute resolution, governing law, disclaimer of warranties and limitation of liability, and all other terms in the Amazon.com Conditions of Use at** [**https://www.amazon.com/conditionsofuse**](https://www.amazon.com/conditionsofuse)**.**
 
 **4.6 Limitation of Liability.**
 
