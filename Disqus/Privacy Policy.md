@@ -65,7 +65,7 @@ c. Note that we may process your personal data for more than one lawful ground d
 
 d.
 
-[![](https://downloads.intercomcdn.com/i/o/178331596/a9fae6434fa87f8a5f0077ef/pripolicy_final.png?expires=1619546776&signature=8da96006e670f3080177a8df9947ac8a6069e6738d15d98af2c61b0520fc6a5a)](https://downloads.intercomcdn.com/i/o/178331596/a9fae6434fa87f8a5f0077ef/pripolicy_final.png?expires=1619546776&signature=8da96006e670f3080177a8df9947ac8a6069e6738d15d98af2c61b0520fc6a5a)
+[![](https://downloads.intercomcdn.com/i/o/178331596/a9fae6434fa87f8a5f0077ef/pripolicy_final.png?expires=1620066978&signature=dd0d228d17f4914bf33d9861bc66886c7dfd2718e099e06f202b75b87221fb96)](https://downloads.intercomcdn.com/i/o/178331596/a9fae6434fa87f8a5f0077ef/pripolicy_final.png?expires=1620066978&signature=dd0d228d17f4914bf33d9861bc66886c7dfd2718e099e06f202b75b87221fb96)
 
 **6\. DISCLOSURES OF YOUR PERSONAL DATA**  
 a. We may sell or share your personal data with the parties set out below for the purposes set out in the table in paragraph 5 above.
