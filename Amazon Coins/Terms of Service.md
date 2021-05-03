@@ -1,7 +1,7 @@
 Amazon Coins Terms
 ==================
 
-Last updated: June 15, 2017
+Last updated: April 28, 2021
 
   
 
@@ -11,7 +11,7 @@ Last updated: June 15, 2017
 Amazon Coins Terms and Conditions
 ---------------------------------
 
-This is an agreement between you and ACI Gift Cards LLC (with its affiliates, "**Amazon**" or "**we**") regarding the Amazon Coins program (the "**Program**"). Before purchasing or redeeming any Amazon Coins or otherwise using the Program, please read these Terms and Conditions, all rules and policies related to the Program (including any rules or provisions on any product detail page or any help or informational page relating to the Program), the Amazon.com Privacy Notice at **[http://www.amazon.com/privacy](https://www.amazon.com/gp/redirect.html/ref=amb_link_375620262_3?location=http://www.amazon.com/privacy&token=3a0f170e7cefe27bdc730d3d7344512bc1296b83&pf_rd_m=atvpdkikx0der&pf_rd_s=center-3&pf_rd_r=1s2ge4v2wwkrmqpjfd9e&pf_rd_t=1401&pf_rd_p=1687998282&pf_rd_i=1001187121)**, and the Amazon.com Conditions of Use at **[http://www.amazon.com/conditionsofuse](https://www.amazon.com/gp/redirect.html/ref=amb_link_375620262_4?location=http://www.amazon.com/conditionsofuse&token=3a0f170e7cefe27bdc730d3d7344512bc1296b83&pf_rd_m=atvpdkikx0der&pf_rd_s=center-3&pf_rd_r=1s2ge4v2wwkrmqpjfd9e&pf_rd_t=1401&pf_rd_p=1687998282&pf_rd_i=1001187121)** (collectively, the "**Agreement**"). If you receive, purchase, or redeem any Amazon Coins or otherwise use the Program, you will be bound by the Agreement.
+This is an agreement between you and ACI Gift Cards LLC (with its affiliates, "**Amazon**" or "**we**") regarding the Amazon Coins program (the "**Program**"). Before purchasing or redeeming any Amazon Coins or otherwise using the Program, please read these Terms and Conditions, all rules and policies related to the Program (including any rules or provisions on any product detail page or any help or informational page relating to the Program), the Amazon.com Privacy Notice at **[https://www.amazon.com/privacy](https://www.amazon.com/privacy)**, and the Amazon.com Conditions of Use at **[https://www.amazon.com/conditionsofuse](https://www.amazon.com/conditionsofuse)** (collectively, the "**Agreement**"). If you receive, purchase, or redeem any Amazon Coins or otherwise use the Program, you agree to be bound by the Agreement on behalf of yourself and all members of your household and others who use Amazon Coins or otherwise use the Program under your account.
 
 **1\. Amazon Coins**
 
@@ -31,7 +31,7 @@ The Program allows customers to receive and purchase Amazon Coins ("**Coins**") 
 
 **2.6 Restrictions**. Coins cannot be resold, transferred for value or redeemed for cash, except to the extent required by law. Coins in one Amazon account may not be transferred to another Amazon account. We may limit the number of Coins you can purchase or receive within certain periods of time, or implement other restrictions on the receipt or use of Coins. If we give you Promotional Coins in connection with your purchase of a product and you later return or receive a refund for that product, we may revoke those Promotional Coins. If you have already used those Coins, we may deduct the same number of other Promotional Coins or Purchased Coins from your account or charge your credit card or other payment instrument for any products you purchased using those Coins.
 
-**3\. Software**. We may make available to you software for your use in connection with the Program. Terms contained in the Amazon.com **[Conditions of Use](https://www.amazon.com/gp/redirect.html/ref=amb_link_375620262_5?location=http://www.amazon.com/conditionsofuse&token=3a0f170e7cefe27bdc730d3d7344512bc1296b83&pf_rd_m=atvpdkikx0der&pf_rd_s=center-3&pf_rd_r=1s2ge4v2wwkrmqpjfd9e&pf_rd_t=1401&pf_rd_p=1687998282&pf_rd_i=1001187121)** apply to your use of that software.
+**3\. Software**. We may make available to you software for your use in connection with the Program. Terms contained in the Amazon.com **[Conditions of Use](https://www.amazon.com/conditionsofuse)** apply to your use of that software.
 
 **4\. Limited to U.S.** The Program is currently only available to customers located in the United States. You may not purchase, receive, or redeem Coins if you are outside the United States. "United States" refers to the 48 contiguous states, the District of Columbia, Alaska, Hawaii, Puerto Rico, American Samoa, Guam, the Northern Mariana Islands, and the U.S. Virgin Islands.
 
@@ -45,7 +45,7 @@ The Program allows customers to receive and purchase Amazon Coins ("**Coins**") 
 
 **5.4 Contact Information**. For communications concerning this Agreement, please write to Amazon, Attn: Legal Department, P.O. Box 81226, Seattle, WA, 98108-1226.
 
-**5.5 Disputes/Binding Arbitration. Any dispute or claim arising from or relating to the Agreement or the Program is subject to the binding arbitration, governing law, disclaimer of warranties and all other terms in the Amazon.com Conditions of Use at [http://www.amazon.com/conditionsofuse](https://www.amazon.com/gp/redirect.html/ref=amb_link_375620262_6?location=http://www.amazon.com/conditionsofuse&token=3a0f170e7cefe27bdc730d3d7344512bc1296b83&pf_rd_m=atvpdkikx0der&pf_rd_s=center-3&pf_rd_r=1s2ge4v2wwkrmqpjfd9e&pf_rd_t=1401&pf_rd_p=1687998282&pf_rd_i=1001187121). You accept and agree to those terms by entering into the Agreement or using the Program.**
+**5.5 Disputes. Any dispute or claim arising from or relating to the Agreement or the Program is subject to the dispute resolution, governing law, disclaimer of warranties and limitation of liability, and all other terms in the Amazon.com Conditions of Use at [https://www.amazon.com/conditionsofuse](https://www.amazon.com/conditionsofuse).**
 
 **5.6 Limitation of Liability**. Without limiting the disclaimer of warranties and limitation of liability in the Amazon.com Conditions of Use, in no event will our total liability to you for all damages arising out of or related to the Program exceed the amount you paid for any Purchased Coins that you have not redeemed. This limitation will apply to you even if the remedies fail of their essential purpose. We are not responsible for any Coins used through your account without your permission.
 
