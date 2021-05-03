@@ -324,7 +324,6 @@ The open source software platform that runs everywhere from the smartphone, the 
     --------------------------------
     
     *   [What is Kubeflow](https://ubuntu.com/ai/what-is-kubeflow)
-    *   [Install Kubeflow](https://ubuntu.com/ai/install-kubeflow)
     *   [Services](https://ubuntu.com/ai/services)
 *   [Robotics](https://ubuntu.com/robotics)
     ---------------------------------------
@@ -418,6 +417,7 @@ The open source software platform that runs everywhere from the smartphone, the 
     -------
     
     *   [Industrial](https://ubuntu.com/industrial)
+    *   [Government](https://ubuntu.com/gov)
     *   [Telco](https://ubuntu.com/telco)
     *   [Finance](https://ubuntu.com/financial-services)
 *   *   [Public cloud](https://ubuntu.com/public-cloud)
