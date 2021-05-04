@@ -11,7 +11,7 @@ Pour vous permettre de mieux comprendre la manière dont nous traitons vos donn�
 
 Rakuten France S.A.S., immatriculée au Registre du Commerce et des Sociétés de Paris sous le n° 432 647 584 et dont le siège social est sis 92, rue Réaumur, 75002 Paris, est responsable des traitements mis en œuvre lorsque vous naviguez, créez un compte, vendez ou achetez un article depuis notre site Internet [https://fr.shopping.rakuten.com/](https://fr.shopping.rakuten.com/), via nos applications ou que vous utilisez notre extension liée au Club Rakuten Everywhere (la « Plateforme »). La Plateforme permet de mettre des vendeurs, professionnels ou particuliers, en relation avec des acheteurs intéressés par des produits neufs ou d’occasion.
 
-Rakuten France est une société du Groupe Rakuten qui inclut l'ensemble des filiales de la société japonaise Rakuten, Inc. ayant son siège social à Tokyo. Plus d'information sont disponibles [ici](https://global.rakuten.com/corp/about/fr/).
+Rakuten France est une société du Groupe Rakuten qui inclut l'ensemble des filiales de la société japonaise Rakuten Group, Inc. ayant son siège social à Tokyo. Plus d'information sont disponibles [ici](https://global.rakuten.com/corp/about/fr/).
 
 Les principes énumérés dans notre Politique Vie privée ne font pas obstacle à la cession ou au transfert de tout ou partie des activités de Rakuten France à un ou plusieurs tiers.
 
@@ -170,7 +170,9 @@ Nos campagnes commerciales étant prévues à l’avance, vous pouvez continuer 
 
 **7.2.1. Personnalisation de la publicité et du contenu** 
 
-Nous veillons également à recueillir votre consentement avant d’avoir recours à des traceurs pour réaliser, directement ou indirectement, des profils en vue de vous proposer des publicités et des contenus correspondant à vos centres intérêts.  
+Nous veillons à recueillir votre consentement avant d’avoir recours à des traceurs pour réaliser, directement ou indirectement, des profils en vue de vous proposer des publicités et des contenus correspondant à vos centres d'intérêts. 
+
+Ainsi, lorsque vous y consentez, LiveRamp dépose des traceurs sur votre terminal et accède à certaines de vos données, comme votre adresse électronique hachée, votre adresse IP et d’autres informations techniques liées à votre navigateur ou à votre système d’exploitation. LiveRamp et les différentes sociétés de son groupe peuvent combiner ces informations avec d’autres informations sociodémographiques ou liées à vos habitudes de consommation, qu’elle ou ses partenaires et clients, avec lesquels nous n’entretenons aucun lien, ont pu collecter par ailleurs auprès de vous afin de vous faire bénéficier de contenus ou de publicités personnalisés tout au long de votre expérience en ligne. Si vous souhaitez en apprendre plus sur les traitements réalisés par LiveRamp ou vous opposer à ces traitements, nous vous invitons à prendre connaissance de leur [Politique de confidentialité](https://urldefense.com/v3/__https:/liveramp.fr/politique-confidentialite-produits-services/__;!!N_8-zXFmNQ!mqoFaUNHp7tqNujQWmz1IrLiBbrA03RFwJ-OXCTwFIi64m5YnRe2AA-pQAtXii6CYeug$).
 
 Vous pouvez à tout moment revenir sur vos choix et en apprendre davantage sur les traceurs que nous utilisons en cliquant sur la rubrique « Gestion des cookies » se trouvant en bas de page de notre site ou depuis les paramètres de nos applications. 
 
