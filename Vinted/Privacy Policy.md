@@ -5,7 +5,7 @@ Vinted - Data Protection Statement
 Vinted - Privacy Policy
 =======================
 
-_Date last updated: 2020-11-26_
+_Date last updated: 2021-05-04_
 
 1\. General
 -----------
@@ -728,21 +728,19 @@ Legal basis for such collection and use is our legitimate interest to protect th
 
 Personal data collected and used for this purpose are kept for 4 days after the security check is passed.
 
-**2.3.7. To ensure that listings comply with our Authenticity Policy**
-----------------------------------------------------------------------
+**2.3.7. To ensure that listings comply with our [Authenticity Policy](https://www.vinted.com/help/307-what-is-vinted-s-authenticity-policy)**
+----------------------------------------------------------------------------------------------------------------------------------------------
 
 For some listings which are reported to us, we collect and use the following data in order to ensure that such listings comply with our Authenticity Policy:
 
-1.  Information provided in the listing (see 2.1.5 above);  
-      
-    
-2.  Information on the item’s authenticity: photos of e.g. the receipt, certificate, tag, logo, pattern, stitches, original packaging, date code, authenticity code or any other relevant information that would showcase the authenticity of the item.
+1.  Information provided in the listing (see 2.1.5 above);
+2.  Information on the item’s authenticity: photos of e.g. the receipt, certificate, tag, logo, pattern, stitches, original packaging, date code, authenticity code or any other relevant information that would showcase the authenticity of the item.
 
-Legal basis for such collection and use is our legitimate interest to protect the Platform and our members from eventual counterfeit (Art. 6 (1) (f) of the GDPR).  
-  
-We can share photos of listings and other proofs of authenticity without your personal data with brand owners in order to check some items.  
-  
-Personal data collected and used for this purpose are kept for 2 years. 
+Legal basis for such collection and use is our legitimate interest to protect the Platform and our members from eventual counterfeit (Art. 6 (1) (f) of the GDPR).
+
+We can share photos of listings and other proofs of authenticity without your personal data with brand owners in order to check some items.
+
+Personal data collected and used for this purpose are kept for 2 years when it is necessary to solve a dispute between our users.
 
 2.3.8. To report suicidal posts
 -------------------------------
@@ -790,7 +788,7 @@ Vinted collects and uses your personal data for this purpose for as long as we k
 2.4.3. To moderate your activity on the Platform
 ------------------------------------------------
 
-In order to ensure the security of the Platform and its members we regularly moderate your activity on the Platform. We may check your listings proactively (automatically) or we may check your listings, comments, messages when we receive other members’ reports.
+In order to ensure the security of the Platform and its members we regularly moderate your activity on the Platform. We may check your listings automatically or we may check your listings, comments, messages when we receive other members’ or third party’s reports.
 
 If you communicate with another Vinted member via private messages and either you or another member sends us a report or escalates a transaction, we collect and use information contained in your communication to check for a potential violation of our GTC.
 
