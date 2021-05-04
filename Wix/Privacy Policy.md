@@ -1,513 +1,504 @@
-Wix.com 개인정보 취급방침
-=================
+Wix.com Privacy Policy
+======================
 
-###### 방침 최종 수정일: 2020년7월 1일
+Effective from December 16, 2020
 
-Wix.com의 개인정보 취급방침에 오신 것을 환영합니다!
+Welcome to Wix.com’s Privacy Policy
 
-##### 1\. 주의 깊게 읽으십시오!
+1\. Please read carefully
+-------------------------
 
-Wix.com은 방문자와 사용자의 개인정보 보호에 깊은 관심을 기울이고 있습니다. 이 개인정보 취급방침(이하 “개인정보 취급방침”)은 그러한 목적으로, 당사(Wix.com LTD. 및 전 세계의 계열사를 의미하며, 이하 "Wix”, 또는 “당사”)가 사용자의 개인정보를 수집하여 사용, 공유하는 방법에 대해 기술하고, 그러한 개인정보에 대해 사용자에게 주어질 수 있는 데이터권(data right)에 대해 설명합니다. 이 개인정보 취급방침은 모든 Wix 사용자(미등록 방문자, 등록 방문자, 프리미엄 사용자 등 포함, 통칭하여  이하 “사용자” 또는 “귀하”), 그리고 당사 웹사이트([www.wix.com](http://www.wix.com/) 및 그 하위 도메인 포함, 이하 “웹사이트”), 웹 애플리케이션(이하 “Wix 앱”), 모바일 애플리케이션(이하 “모바일 앱”), 관련 서비스 등을 포함한 모든 Wix 서비스(포괄적으로 이하 “서비스”)에 적용됩니다. 이 개인정보 취급방침은 사용자가 당사와 체결한 계약 조건이나 관련 개인정보보호법에서 사용자에게 주어질 수 있는 권리에 우선하기 위한 것이 아닙니다.
+Wix.com cares deeply about the privacy of its visitors and users. To that end, this Privacy Policy (“Privacy Policy”) describes how Wix.com Ltd., together with its affiliated companies worldwide (“Wix”, “we”, “our”, or “us”), collect, use, and share your Personal Information, as well as an explanation of the data rights you may have in that Personal Information. This Privacy Policy applies to all Wix users, including unregistered visitors, registered users, and premium users (collectively, “Users”, “you”, or “your”), and to all Wix services, including our websites (including [www.wix.com](http://www.wix.com/) and any of its subdomains, the “Website”), web applications (“Wix Apps”), mobile applications (“Mobile Apps”), and related services (collectively, the “Services”). This Privacy Policy is not intended to override the terms of any contract you have with us, nor any rights you may have under other applicable data privacy laws.
 
-​
+Prior to accessing or using our Services, please read this policy and make sure you fully understand our practices in relation to your Personal Information.  If you read and fully understand this Privacy Policy, and remain opposed to our practices, you must immediately leave and discontinue all use of any of our Services.  If you have any questions or concerns regarding this policy, please contact us at [privacy@wix.com](mailto:privacy@wix.com).
 
-​당사의 서비스에 접근하거나 당사의 서비스를 사용하기 전에 이 방침을 읽고 귀하의 개인정보에 관한 당사의 관행을 충분히 이해하실 것을 강력히 권합니다.  이 개인정보 취급방침을 읽고 충분히 이해하고 나서도 당사의 관행에 반대하신다면, 당사 서비스를 즉시 떠나 당사 서비스의 사용을 중단해야 합니다.  이 방침에 대해 의문이나 우려사항이 있을 경우, [privacy@wix.com](mailto:privacy@wix.com)으로 연락주십시오.
+#### #ItsThatEasy
 
-#ItsThatEasy(요점)
-
-이 방침은 사용자에 대해 당사가 수집하는 개인정보의 내용, 그러한 정보의 활용 방법, 공유 방법, 그리고 그러한 개인정보에 대한 사용자의 권리 등 개인정보 보호 관행에 대해 기술합니다.
-
-​
-
-귀하가 당사의 서비스에 접근하거나 사용하면, 귀하가 이 개인정보 취급방침을 읽었음을 인정하는 것이 됩니다.
-
-##### 2. 당사가 수집하는 개인정보의 내용
-
-###### 2.1. 사용자 정보:
-
-당사는 서비스를 제공하기 위해 식별된 또는 식별 가능한 자연인에 대한 개인정보(이하 “개인정보”)를 수집해야 합니다. 당사는 사용자가 제공하는 개인정보, 사용자에 의한 서비스 사용으로부터 오는 정보, 그리고 기타 출처에서 확보되는 정보를 수집합니다. 당사가 사용자에 대하여 수집하는 개인정보의 종류는 다음과 같습니다.
-
-1.  사용자가 당사에 제공하는 정보. 사용자가 당사 서비스에 등록하거나, 도메인 이름을 구매 또는 등록하거나, 당사의 서비스를 이용할 때, 또는 통신 채널(예: Wix의 고객지원 티켓, 이메일 등)을 통해 직접 연락하실 때, 성명, 이메일 주소, 전화번호, 결제 정보(유료 서비스 사용자인 경우)를 제공하거나, 당사에 연락하실 때 포함시킨 개인정보, 그리고 스캔한 신분증서(주민등록카드, 운전면허증, 여권, 회사의 공식 등록 서류 등)에 포함된 개인정보 등을 제공할 수 있습니다. 
-    
-2.  사용자가 서비스를 사용할 때 당사가 수집하는 정보 사용자가 당사 웹사이트를 방문하거나 당사 서비스를 다운로드 받거나 사용할 때, 당사는, 당사 서비스에서의 방문자 또는 사용자의 브라우저 사용내역, “클릭 스트림(click-stream)” 활동, 그리고 세션 히트맵(session heatmap)과 스크롤 내역, 방문자 또는 사용자의 기기, 운영체제, 인터넷 브라우저, 화면 해상도, 언어 및 키보드 설정, 인터넷 서비스 제공자, 참조 페이지 또는 출구 페이지, 날짜/시간 스탬프 등과 같은 비식별 개인정보 등 통합 사용 개인정보를 수집할 수 있습니다.
-    
-3.  다른 출처로부터 당사가 수집하는 정보  당사는, i) 예를 들어, 사기와 관련된 사용자를 걸러내도록 도와주는 보안 서비스 제공자, 사기 감지 및 방지 서비스 제공자, ii) 소셜 미디어 계정을 사용하여 로그인하거나 가입할 때 이용하는 소셜 미디어 플랫폼 (당사는 그러한 서비스 업체로부터 개인정보\[예: 사용자명, 기본 프로필 사용자 정보\]를 수신할 수 있으며, 일부의 경우 서비스 공급을 개선하도록 지원하는 주요 기능개선 업체로부터 개인정보를 수집함), iii) 당사의 광고 캠페인에 대한 모니터링, 관리, 측정 목적을 위한 광고 및 마케팅 파트너 등의 제3자로부터 사용자에 관한 개인정보를 수집할 수 있습니다.
-    
-
-#ItsThatEasy(요점)
-
-당사는 당사 서비스를 제공하기 위해 당사 사용자들에 관한 개인정보를 수집합니다.
+This policy describes our privacy practices – what Personal Information we collect about our Users, what we do with it, how we share it, and your rights regarding that Personal Information.
 
 ​
 
-​개인정보는 사용자가 당사 서비스를 방문하거나 사용할 때 사용자로부터 오거나, 당사가 자동으로 수집하는 개인정보 및 당사가 다른 출처로부터 수집하는 개인정보로부터 옵니다.
+By accessing or using any of our Services, you acknowledge that you have read this Privacy Policy.
 
-###### 2.2. 사용자의 사용자에 대한 정보
+2\. What ‘Personal Information’ do we collect?
+----------------------------------------------
 
-당사는 또한, 오로지 당사의 사용자를 대신하여 당사 사용자 웹사이트나 서비스의 방문자 및 사용자(“사용자의 사용자”)(자세한 내용은 아래 섹션 6 참조)에 관한 개인정보를 수집할 수도 있습니다.
+###### 2.1. User information:
 
-##### 3\. 당사가 사용자의 개인정보를 수집하는 목적
+To provide you the Services, we must collect Personal Information relating to an identified or identifiable natural person (“Personal Information”). We collect Personal Information you provide us, from your use of the Services, and from other sources. Here are the types of Personal Information we collect about you:
 
-당사는 다음과 같은 목적으로 사용자의 개인정보를 사용합니다.
-
-1.  서비스를 제공하고 운영할 목적.
+1.  Information you provide us. When you register for our Services, purchase and/or register domain names, use any of our Services; and/or when you contact us directly by any communication channel (e.g., Wix’s support tickets, emails), you may provide us Personal Information, such as name, email address, phone number, payment information (for Users with Paid Services), information you include in your communications with us and with other users on our platform, and Personal Information contained in scanned identification documents (such as an ID card, driver’s license, passport, or official company registration documents). 
     
-2.  사용자의 일반 또는 개인 환경설정, 경험 및 애로 사항을 기초로 하여 당사 서비스를 추가로 개발, 사용자 정의, 확장, 개선 등을 할 목적.
+2.  Information we collect when you use the Services. When you visit, download, and/or use any of our Services, we may collect aggregated usage Personal Information, such as Visitors’ and Users’ browsing and ‘click-stream’ activity on the Services, session heatmaps and scrolls, non-identifying Personal Information regarding the Visitor’s or User’s device, operating system, internet browser, screen resolution, language and keyboard settings, internet service provider, referring/exit pages, date/time stamps, etc
     
-3.  이용자에게 지속적인 고객 지원과 기술 지원을 제공할 목적.
-    
-4.  일반 또는 사용자 맞춤 서비스 관련 공지 사항 및 홍보 메시지(상세한 내용은 아래 섹션 8 참조)로 사용자에게 연락할 목적.
-    
-5.  신규 고객을 파악하기 위해 기록을 업데이트, 확장, 분석할 목적.
-    
-6.  특정 경연대회, 이벤트, 프로모션을 촉진, 후원, 제안하고, 참가자의 자격을 결정하고, 성적을 모니터링하고, 수상자에게 연락을 취하고, 상품과 혜택을 교부할 목적.
-    
-7.  당사 또는 당사의 사업 파트너가 각자의 서비스를 제공하고 개선하기 위해 사용할 수 있는, 집계된 통계 데이터 및 기타 집계되거나 추론된 개인정보를 생성할 목적.
-    
-8.  사용자 요청이 있을 경우에 한정하여, 사용자에게 업무적 지원을 제공할 목적.
-    
-9.  데이터 보안 및 사기 방지 기능을 강화할 목적.
-    
-10.  관련법과 규정을 준수할 목적.
+3.  Information we collect from other sources. We may receive Personal Information about you from third-party sources, such as i) security providers , fraud detection and prevention providers for example to help us screen out users associated with fraud, ii) social media platforms, when you log-in or sign-up using your social media account, we may receive Personal Information from that service (e.g., your username, basic profile Personal Information) and in some cases, we may collect Personal Information from lead enhancement companies which help us to improve our service offering; iii) advertising and marketing partners in order to monitor, manage and measure our ad campaigns.
     
 
-​
+#### #ItsThatEasy
 
-당사는 아래의 경우, 섹션 3에 규정된 목적을 위해서 사용자의 개인정보를 사용합니다.
+To provide our Services, we collect Personal Information about our Users.
 
-1.  사용자와의 계약을 수행하거나 사용자와 계약을 체결하기 위한 조치로서(예를 들어, 사용자에게 웹사이트 제작도구를 제공하거나, 고객지원 및 기술지원을 제공하는 경우) 사용자의 개인정보를 사용하는 것이 필요할 경우.
+The Personal Information comes from you when you visit or use our services, Personal Information we collect automatically, and Personal Information we collect from other sources.
+
+### 2.2. Users of users ‘Personal Information’
+
+We may also collect Personal Information pertaining to visitors and users of our User’s websites or services (“Users-of-Users”), solely for and on our Users’ behalf (as further described in [Section ‎6](https://www.wix.com/about/privacy) below).
+
+### 2.3. Wix jobs applicant information
+
+We also collect information that is provided to us by Wix jobs candidates (“Applicants”), when they apply to any of the open positions published at [[https://www.wix.com/jobs](https://www.wix.com/jobs)](https://www.wix.com/jobs), by e-mail or otherwise (as further described in [Section ‎15](https://www.wix.com/about/privacy) below).
+
+3\. Why do we collect such ‘Personal Information’
+-------------------------------------------------
+
+We use your Personal Information for the following purposes:
+
+1.  To provide and operate the Services;
     
-2.  당사의 법적, 규제적 의무를 준수하기 위해 사용자의 개인정보를 사용하는 것이 필요한 경우.
+2.  .To further develop, customize, expand, and improve our Services, based on Users’ common or personal preferences, experiences and difficulties;
     
-3.  ​사용자의 개인정보를 사용하는 것이 정당한 이익과 사업 목적을 지원하는 데 필요한 경우(예를 들어, 기술적 문제를 파악함으로써 당사의 서비스와 Wix의 유효성을 유지하고 개선하는 일). 단, 그러한 사용은 비례성이 있어야 하며, 사용자의 개인정보의 권리를 존중하는 방식으로 이루어져야 합니다.
+3.  To provide our Users with ongoing customer assistance and technical support;
     
-
-#ItsThatEasy(요점)
-
-당사는 서비스를 제공하고 서비스를 더욱 향상시키고 안전하게 만들기 위해서 사용자에 대한 개인정보를 수집하여 사용합니다.
-
-또한 사용자에게 연락하기 위해, 그리고 당사에 적용되는 관련법을 준수하기 위해 개인정보를 수집하고 사용합니다.
-
-##### 4\. 당사가 사용자의 개인정보를 공유하는 방법
-
-당사는 다음과 같은 방법과 해당되는 경우에만 사용자의 개인정보를 서비스 제공자 및 제3자와 공유(또는 해당 정보에 접속하도록 허용)할 수 있습니다.
-
-제3자 서비스 제공자: Wix는 당사의 서비스를 보완, 촉진, 강화하는 서비스 및 솔루션을 보유하고 있는 다수의 선별된 서비스 제공자와 제휴를 맺고 있습니다. 그러한 서비스와 솔루션으로는, 호스팅 및 서버 공유(co-location) 서비스, 통신 및 콘텐츠 전송 네트워크(CDNs), 데이터 및 사이버 보안 서비스, 비용청구 및 결제처리 서비스, 도메인 이름 등록, 사기 탐지 및 방지 서비스, 웹 분석, 전자메일 배포 및 모니터링 서비스, 세션 기록 및 원격접속 서비스, 성능 측정, 데이터 최적화 및 마케팅 서비스, 콘텐츠 제공자, 당사의 법률 및 금융 자문(포괄하여 이하 “제3자 서비스 제공자”) 등이 있습니다.
-
-​
-
-Wix는 업무 목적으로 아래 범주의 개인정보를 '제3자 서비스 제공자'와 공유할 수 있습니다.
-
-*   식별자 – 이름, 별칭, 우편 주소, 고유의 개인 식별자, 온라인 식별자, 인터넷 프로토콜 주소, 이메일 주소, 계정 이름, 기타 유사한 식별자 등.
+4.  To be able to contact our Users with general or personalized service-related notices and promotional messages (as further detailed in [Section 8](https://www.wix.com/about/privacy) below);
     
-*   상업용 개인정보 – 예를 들어, 구매 또는 입수했거나 고려 중인 제품이나 서비스에 관련되는 개인정보.
+5.  To help us to update, expand and analyze our records to identify new customers;
+    
+6.  To facilitate, sponsor, and offer certain contests, events, and promotions, determine participants’ eligibility, monitor performance, contact winners, and grant prizes and benefits;
+    
+7.  To analyze our performance and marketing activities;
+    
+8.  To create aggregated statistical data and other aggregated and/or inferred information, which we or our business partners may use to provide and improve our respective services;
+    
+9.  To provide you with professional assistance , only upon your request;
+    
+10.  To enhance our data security and fraud prevention capabilities; and
+    
+11.  To comply with any applicable laws and regulations.
     
 
 ​
 
-Wix는 프라이버시 실드(Privacy Shield) 하에 수신한 후 프라이버시 실드 원칙의 규정에 따라 제3자에게 이전하는 개인정보에 대해 책임을 집니다. 특히, Wix는, 제3자 서비스 제공자가 프라이버시 실드 원칙을 벗어난 방식으로 개인정보를 대행 처리하는 경우, 손해를 유발한 사건에 대해 Wix가 책임이 없음을 입증하지 못하는 한, 프라이버시 실드 원칙에 따른 법적 책임을 부담합니다.
+We use your Personal Information for the purposes set out in Section 3 where:
+
+1.  Our use of your Personal Information is necessary to perform a contract or to take steps to enter into a contract with you (e.g. to provide you with a website builder, to provide you with our customer assistance and technical support);
+    
+2.  Our use of your Personal Information is necessary to comply with a relevant legal or regulatory obligation that we have; or
+    
+3.  Our use of your Personal Information is necessary to support legitimate interests and business purposes (for example, to maintain and improve our Services and the effectiveness of Wix by identifying technical issues), provided it is conducted in a way that is proportionate and that respects your privacy rights.
+    
+
+#### #ItsThatEasy
+
+We use the Personal Information we collect about you to provide our services and make them better and safer.
+
+​
+
+We also collect and use Personal Information in order to contact Users and to comply with the laws applicable to us.
+
+4\. How we share your ‘Personal Information’
+--------------------------------------------
+
+We may share your Personal Information with service providers and others (or otherwise allow them access to it) in the following manners and instances:
+
+Third Party Service Providers: Wix has partnered with a number of selected service providers, whose services and solutions complement, facilitate and enhance our own. These include hosting and server co-location services, communications and content delivery networks (CDNs), data and cyber security services, billing and payment processing services, domain name registrars, fraud detection and prevention services, web analytics, e-mail distribution and monitoring services, session recording and remote access services, performance measurement, data optimization and marketing services, content providers, and our legal and financial advisors (collectively, “Third Party Service Provider(s)”).
+
+​
+
+Wix may share the following categories of Personal Information with Third Party Service Providers for a business purpose:
+
+*   identifiers, including name, alias, postal address, unique personal identifier, online identifier, internet protocol address, email address, account name, or other similar identifiers
+    
+*   commercial information, for example information regarding products or services purchased, obtained, or considered
+    
 
 4.1.
 
-#ItsThatEasy(요점)
+#### #ItsThatEasy
 
-당사는 사용자의 개인정보 및 ‘사용자의 사용자’(Users-of-Users)의 개인정보를 특정 서비스 제공자 및 법집행관 등 다양한 제3자와 공유할 수 있습니다.
+We may share the Personal Information of our Users and Users-of-Users with various third parties, including certain service providers and law enforcement officials.
 
-​관련 정보는 이 방침에 따라서만 공유될 수 있습니다.
+​
 
-법집행, 법적 요구, 의무: Wix는 법에 의해 요구된다고 선의로 믿는 한, 소환, 법적 절차, 수색 영장 또는 법원 명령 등의 법적 요구에 따라, 또는 관련법을 준수하여, 사용자에게 고지를 하든 하지 않든, 사용자의 개인정보를 공개하거나 사용자의 개인정보에 접속하도록 허용할 수 있습니다.
+The Personal Information may be shared solely in accordance with this policy.
+
+Law Enforcement, Legal Requests and Duties: Wix may disclose or otherwise allow access to your Personal Information pursuant to a legal request, such as a subpoena, legal proceedings, search warrant or court order, or in compliance with applicable laws, if we have a good faith belief that the law requires us to do so, with or without notice to you.
 
 4.2.
 
-권리와 안전의 보호: Wix는 당사, 당사의 모든 사용자 또는 사용자의 사용자, 일반인 등의 권리, 재산 또는 개인적 안전을 보호하는 데 도움이 될 것이라고 선의로써 믿는 경우, 통지하거나 통지하지 않은 채 사용자의 개인정보를 공유할 수 있습니다.
+Protecting Rights and Safety: Wix may share your Personal Information if we believe in good faith that this will help protect the rights, property or personal safety of Wix, any of our Users, any Users-of-Users, or any member of the general public, with or without notice to you.
 
 4.3.
 
-소셜 미디어 기능 및 프레임으로 구성된 페이지: 당사 서비스에는, “페이스북 커넥트(Connect)”, “Google 로그인”, "페이스북 좋아요", 또는 "공유" 버튼, 또는 다른 대화형 미니 프로그램(이하 “소셜 미디어 기능”)과 같은 소셜 미디어 기능과 위젯, 싱글사인온 기능 등이 포함됩니다. 소셜 미디어 기능은 사용자의 IP 주소, 당사 웹사이트 방문 페이지 등 특정 개인정보를 수집할 수 있고, 그러한 기능이 제대로 작동하게 하기 위해 쿠키를 설정할 수 있습니다. 소셜 미디어 기능은 제3자에 의해 호스팅되거나 당사의 서비스에서 직접 호스팅됩니다. 이러한 제3자 소셜 미디어 기능과 당사가 상호작용할 경우는 당사의 방침이 적용되지 않고, 그 제3자의 방침이 적용됩니다.
+Social Media Features and Framed Pages: Our Services include certain Social Media features, widgets, and single sign on features, such as the “Facebook Connect,” “Google Sign-in,” “Facebook Like”, or “Share this” button or other interactive mini-programs (“Social Media Features”). These Social Media Features may collect certain Personal Information such as your IP address or which page you are visiting on our Website and may set a cookie to enable them to function properly. Social Media Features are either hosted by a third party or hosted directly on our Services. Your interactions with these third parties’ Social Media Features are governed by their policies and not ours.
 
 ​
 
-​또한, 당사 서비스는, 당사 웹사이트 및 서비스의 외관과 느낌(이하 “프레임”)을 유지하면서, 제3자 서비스 제공자 또는 다른 당사자와 콘텐츠를 주고 받기 위한 페이지 프레이밍 기법 등을 이용하여 사용자로 하여금 사용자의 개인정보를 제3자와 직접 공유할 수 있도록 할 수 있습니다. 귀하가 그러한 프레임을 통해 상호 교류를 하거나, 개인정보를 공유하기로 한 경우, 귀하는 사실상 그러한 정보를 당사가 아닌 제3자에게 제공하는 것이며, 그러한 상호작용과 공유에는 당사의 방침이 아닌 제3자의 방침이 적용된다는 점을 유의해야 합니다.
+In addition, our Services may enable you to share your Personal Information with third parties directly, such as via page framing techniques to serve content to or from Third-Party Service Providers or other parties, while preserving the look and feel of our Website and Services (“Frames”). Please be aware that if you choose to interact or share any Personal Information via such Frames, you are in fact providing it to these third parties and not to us, and such interactions and sharing are governed by those third parties’ policies and not ours.
 
 4.4.
 
-앱 마켓 개발자: 당사는, 당사의 앱 마켓(App Market) 프로그램의 일환으로, 제3자 개발자(이하 “제3자 개발자”)가 Wix와 협력하여 Wix 앱 마켓을 통해 자체 애플리케이션(이하 "제3자 앱")을 개발하여 출시하는 것을 허용합니다.
+App Market Developers: As part of our App Market program, we allow third party developers (“Third Party Developer(s)”) to develop and offer their own applications via the Wix App Market (“Third Party App(s)”), in conjunction with Wix.
 
 ​
 
-각 제3자 개발자는 [Wix 앱 마켓 – 파트너 프로그램 계약](https://devforum.wix.com/en/article/partner-agreement)에 의해 구속되며, 이 계약은 특히, 사용자나 사용자의 사용자가 그 개발자나 당사에 제공하는 개인정보에 대한 액세스, 저장, 공유, 사용 등의 방법에 대한 제한 사항을 정하고 있습니다 (자세한 내용은 [Wix 앱 마켓 이용약관](https://ko.wix.com/about/app-market-terms) 참조)
-
-당사는, 사용자는 제3자 앱에 동반되는 개인정보 취급방침을 검토하고, 제3자 앱을 사용하기 전에 필요 시 제3자 개발자에게 자세한 설명을 요구할 것을 권장합니다. Wix는 제3자 개발자의 방침이나 조치에 대해 통제를 하거나 책임을 지지 않으며, 귀하가 제3자 앱을 사용하는 것은 전적으로 귀하 자신의 책임입니다.
+Each Third Party Developer is bound by the [Wix App Market – Partner Program Agreement](http://dev.wix.com/docs/publish/partners-agreement), which among others, contains restrictions on how they may access, store, share, and use the Personal Information you and/or your Users-of-Users provide them or us (as further detailed in the [Wix App Market Terms of Use](http://about.wix.com/app-market-terms))
 
 ​
 
-사용자의 사용자에게, 사용자의 사용자 정보가 수집, 처리, 사용됨을 통보하고, 그러한 정보가 귀하를 대신하여 Wix에 의해 전송되어 처리됨을 알리는 책임은 전적으로 귀하에게 있습니다.
+We encourage you to review any privacy policy accompanying a Third Party App and ask Third Party Developers for any clarifications you may need before deciding to install and use their Third Party App. Wix does not control and is not responsible for the actions or policies of any Third Party Developers, and your use of any Third Party App is at your own risk.
+
+​
+
+You are solely responsible for notifying your Users-of-Users of the collection, processing and use of their Information and informing them that their Information will be transferred to and processed by Wix on your behalf.
 
 4.5.
 
-Wix 자회사 및 계열사: 당사는, 이 개인정보 취급방침에 명시된 목적을 위해, 계열사 간에 내부적으로 사용자의 개인정보를 공유할 수 있습니다. 예를 들어, 사용자에게(그리고 사용자의 사용자에게) 당사 서비스를 촉진하고 제공하는 과정에서, 사용자의 개인정보를 당사의 미국 소재 자회사인 Wix.com 사(Wix.com Inc.)와 공유할 수 있습니다.
+Wix Subsidiaries and Affiliated Companies: We may share your Personal Information internally within our family of companies, for the purposes described in this Privacy Policy. For example, we may share your Personal Information with Wix.com Inc., our US-based subsidiary, in the course of facilitating and providing you (and your Users-of-Users) with our Services.
 
 ​
 
-​EU와 스위스에 있는 Wix 자회사 및 계열사로부터 받은 개인정보를 Wix의 미국 자회사와 공유할 경우 EU-미국 및 스위스-미국 프라이버시 실드 기본준칙을 준수합니다.
+Sharing Personal Information from Wix subsidiaries and affiliated companies in the European Union and Switzerland to Wix’s United States subsidiary will be only when the relevant Model Standard Contractual Clauses are in place .
 
 4.6.
 
-기업 지배구조의 변경과 관련하여: 또한, 실질적으로 모든 자산을 합병, 인수 또는 매입하는 등의 방법으로 지배구조에서의 변화가 있는 경우, Wix 또는 그 계열사는 사용자의 개인정보를 그러한 일에 관련된 당사자들과 공유할 수 있습니다.
+Connection With a Change in Corporate Control: In addition, should Wix or any of its affiliates undergo any change in control, including by means of merger, acquisition or purchase of substantially all of its assets, your Personal Information may be shared with the parties involved in such event.
 
 4.7.
 
-사용자의 추가 지시가 있을 경우: 사용자의 추가 지시가 있거나 명시적 승인이 있을 경우, Wix는 다른 목적으로 사용자의 개인정보를 제3자와 공유할 수 있습니다. 
+Upon Your Further Direction: Wix may also share your Personal Information with third parties for other purposes upon your further direction or with your explicit approval. 
 
 4.8.
 
-##### 5\. 당사가 사용자의 개인정보를 저장하는 장소
+5\. Where do we store your ‘Personal Information’?
+--------------------------------------------------
 
-사용자의 개인정보 및 '사용자의 사용자'의 개인정보는 미국, 아일랜드, 한국, 대만, 이스라엘에 있는 데이터센터에 보관될 수 있습니다. 당사는 당사의 서비스를 적절히 제공하기 위해 필요하거나 법에 의해 요구되는 바에 따라 다른 관할지를 사용할 수 있습니다.
-
-​
-
-주식회사 Wix.com (Wix.com Ltd.)은 EU회원국 거주자의 개인정보에 대해서 적절한 수준의 보호를 제공할 수 있다고 유럽연합 집행위원회에 의해 간주되는 이스라엘에 본사를 두고 있습니다.
+Users’ and Users-of-Users’ Personal Information may be stored in data centers located in the United States of America, Ireland, Japan and Israel. We may use other jurisdictions as necessary for the proper delivery of our Services and/or as may be required by law.
 
 ​
 
-Wix를 대신하여 사용자의 개인정보를 보관하거나 처리하는 Wix 계열사 및 제3자 서비스 제공자는 자신의 관할지에서 적용될 수 있는 법적 요건이 더욱 느슨한지의 여부와 상관없이 산업표준에 따라 개인정보를 보호하고 보안을 유지할 계약적 책임을 지고 있습니다.
+Wix.com Ltd. is based in Israel, which is considered by the European Commission to be offering an adequate level of protection for the Personal Information of EU Member State residents.
+
+​
+
+Wix affiliates and Third-Party Service Providers that store or process your Personal Information on Wix’s behalf are contractually committed to keep it protected and secured, in accordance with industry standards and regardless of any lesser legal requirements which may apply in their jurisdiction.
 
 5.1.
 
-EU-미국 프라이버시 실드(Privacy Shield) 및 스위스-미국 프라이버시 실드 공개
-
-​
-
-Wix는 EU-미국 프라이버시 실드 기본준칙(Privacy Shield Framework) 및 스위스-미국 프라이버시 실드 프레임워크에 참여하고 있으며, 그에 대한 자신의 준수를 인증하고 있습니다. Wix는, 유럽연합(EU) 가입국 및 스위스로부터 각각 받은 모든 개인정보를 프라이버시 실드 프레임워크에 따라, 그 프레임워크의 관련 원칙에 적용할 것을 약속합니다.  프라이버시 실드 프레임워크에 대해 자세히 알아보시려면, 미국 상무부의 프라이버시 실드 목록을 [여기](https://www.privacyshield.gov/)에서 참조하십시오.
-
-​
-
-Wix는, 프라이버시 실드 기본준칙에 따라 자신이 받는 개인정보의 처리 및 Wix를 위하여 대리인 역할을 하는 제3자에게로의 후속 전송에 대해 책임을 집니다. Wix는 EU로부터 받은 개인정보의 모든 향후 전송에 대해, 향후 전송 책임 규정 등 프라이버시 실드 원칙을 준수합니다.
-
-​
-
-Wix는 '프라이버시 실드 기본준칙'에 따라 받거나 전송하는 개인정보와 관련하여, 미국 연방통상위원회(FTC)의 규제적 법집행력 적용을 받습니다. Wix는 일정한 상황에 있어서, 국가 안보 요건이나 법집행 요건 충족 등 공공기관의 합법적 요청에 응하여 개인정보를 공개해야 할 수 있으며, 현지 데이터보호법에 의해 허용되는 한, 그렇게 할 것입니다.
-
-​
-
-당사가 충분히 다루지 못한, 해결되지 않은 프라이버시 우려사항이나 데이터 이용 관련 우려사항이 있으실 경우, 미국에 본사를 두고 있는 제3자 분쟁해결 제공자에게 다음으로 연락하십시오(무료 이용 가능) — [https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request). 
-
-​
-
-귀하는, [프라이버시 실드 웹사이트](https://www.privacyshield.gov/)에서 더 충분히 설명하고 있는 일정한 조건 하에서, 다른 분쟁해결 절차가 모두 고갈된 경우 구속력 있는 중재를 신청할 수 있습니다.
-
-​
-
-요청이 있을 경우, Wix는 당사가 귀하의 개인정보를 보유하고 있는지 여부에 대해 알려드릴 것입니다. 귀하는, Wix 도움말 센터(Wix Help Center)의 다음 글에서 제공되어 있는 안내에 따라 귀하의 개인정보에 접근하거나 정정하거나 삭제를 요청할 수 있습니다 —  "[Wix 계정 데이터 가져오기"](https://support.wix.com/ko/article/gdpr-retrieving-your-wix-account-data) 또는 “[Wix 계정의 영구적 삭제](https://support.wix.com/ko/article/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4-%EB%B3%B4%ED%98%B8-wix-%EA%B3%84%EC%A0%95-%EC%98%81%EA%B5%AC-%EC%82%AD%EC%A0%9C%ED%95%98%EA%B8%B0)". 당사는 현지법이 정하고 있는 시간이나 합리적인 시간 내에 귀하의 요청에 답을 드릴 것입니다.
-
-​
-
-​귀하의 Wix 계정을 영구적으로 삭제하는 것은 Wix의 데이터베이스에 있는 귀하의 개인정보를 모두 없애게 되는 것임을 숙지하십시오. 이 절차를 마치게 되면 귀하는 더 이상 서비스를 이용할 수 없으며, 귀하의 이용자 계정과 그에 관련되는 모든 데이터는 영구적으로 삭제되며, Wix는 장래에 귀하의 계정을 복구하거나 귀하의 개인정보를 되찾을 수 없습니다. 귀하가 향후 Wix 지원부서에 연락하실 경우, 시스템은 귀하의 계정을 인식하지 못하며, 지원부서 담당자는 삭제된 계정을 찾을 수 없게 됩니다.
+Transfer of EU Personal data : If you are located in Europe, when we will transfer your Personal Information to the United States or anywhere outside Europe, we will make sure that (i) there is a level of protection deemed adequate by the European Commission or (ii) that the relevant Model Standard Contractual Clauses are in place. 
 
 5.2.
 
-데이터 현지화 의무: 사용자가 "데이터 현지화" 또는 "데이터 거주지" 의무(즉, 거주자의 개인정보가 관할권의 영토 경계 내에서 보관되도록 요구)를 부과하는 관할지에 거주하고 있고, 이러한 사실을 당사가 알게 된 경우, 당사가 그렇게 할 법적 의무가 있다면, 사용자의 개인정보를 그러한 영토 경계 내에서 유지할 수 있습니다.
+#### #ItsThatEasy
+
+We may store and process Personal Information in the USA, Europe, Israel, or other jurisdictions, whether by ourselves or with the help of our affiliates and service providers.
+
+Wix’s data storage providers are contractually committed to protect and secure your data.
+
+Among other things, Wix will ensure that there is the adequate level of protection or that   relevant Model Standard Contractual Clauses are in place for the international transfer of our EU users’ data.
+
+Privacy Shield Certification: Wix and its affiliates, including DeviantArt Inc., participates in, and has certified its compliance with, the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List, [here](https://www.privacyshield.gov/welcome).
 
 ​
 
-​사용자는, 위에서 설명한 것과 같이 당사가 그렇게 하는 과정에서, 미국을 포함한 다른 곳에서 사용자의 개인정보를 계속해서 수집, 보관, 사용할 수 있음을 인정합니다.
+In compliance with the Privacy Shield Principles, Wix.com commits to resolve complaints about our collection or use of your personal information.  EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact us at: [privacy@wix.com](mailto:privacy@wix.com). For the avoidance of doubt, Wix does not rely on the Privacy Shield as a mechanism for transferring GDPR protected personal data.
+
+​
+
+Wix.com has further committed to refer unresolved Privacy Shield complaints to an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please visit If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider at [https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request) for more information or to file a complaint.  The services are provided at no cost to you.
 
 5.3.
 
-#ItsThatEasy(요점)
+6\. Users-of-users’ ‘Personal Information’
+------------------------------------------
 
-당사는 스스로 또는 계열사 및 서비스 제공자의 도움으로, 개인정보를 미국, 유럽, 이스라엘, 또는 기타 관할지에서 보관 및 처리할 수 있습니다.
-
-Wix의 데이터 보관 제공자는 사용자의 데이터를 보호하고 그에 대한 보안을 유지하기 위해 계약에 따른 노력을 다하고 있습니다.
-
-무엇보다도 Wix는 사용자의 프라이버시를 보호하고 강화하기 위해서 EU-미국 프라이버시 실드 원칙 및 스위스-미국 프라이버시 실드 원칙을 준수합니다.
-
-일부 관할지에서는 거주자의 개인정보를 해당 지역에서 보유하고 보관하도록 의무를 부과하고 있습니다.
-
-당사는 그러한 개인정보를 미국을 포함한 그밖의 다른 곳에서도 수집, 처리, 보관할 수 있습니다.
-
-##### 6\. 사용자의 사용자에 관한 개인정보
-
-Wix는 오로지 사용자를 대신하여 사용자의 지시에 따라 사용자의 사용자의 특정 개인정보(이하 “사용자의 사용자 정보”)를 수집, 보관, 처리할 수 있습니다. 예를 들어, 각 사용자는 Gmail과 같은 제3자 서비스로부터 이메일 연락처를 가져오거나, 자신의 사용자 웹사이트를 통해 연락처를 수집하여 관리할 수 있습니다. 그러한 연락처는 사용자를 위하여 Wix에 보관됩니다.
+Wix may collect, store and process certain Personal Information of Users-of-Users (“Users-of-Users Information”), solely on our Users’ behalf and at their direction. For example, each of our Users is able to import their e-mail contacts from third-party services like Gmail, or otherwise collect and manage contacts via their User Website. Such contacts are then stored with Wix, on the User’s behalf.
 
 ​
 
-그러한 목적상 Wix는 사용자의 사용자 정보에 대한 ‘통제자'가 아닌 '처리자'(이 두가지 용어는 EU의 일반개인정보보호법(“GDPR”)에 정의되어 있는 바에 따름)로서의 역할을 수행하는 것이며, 또한 그렇게 간주되어야 합니다.
+ For such purposes, Wix serves and shall be considered as a “Processor” and not as the “Controller” (as both such capitalized terms are defined in the European Union General Data Protection Regulation (“GDPR”)) of such Users-of-Users Information.
 
 ​
 
-그러한 사용자 웹사이트를 통제 및 운영하는 사용자는 사용자의 사용자 정보의 '통제자'로 간주되며, 사용자의 사용자 정보의 수집 및 통제에 적용될 수 있는 모든 법과 규정, 그리고 모든 해당 관할지역의 모든 개인정보 보호법 및 데이터 보호법을 준수할 책임이 있습니다.
+The Users controlling and operating such User Websites shall be considered as the “Controllers” of such Users-of-Users Information, and are responsible for complying with all laws and regulations that may apply to the collection and control of such Users-of-Users Information, including all privacy and data protection laws of all relevant jurisdictions.
 
 ​
 
-사용자는 사용자의 사용자에 관한 개인정보의 보안, 무결성, 승인된 사용 등을 보장하고, 그러한 개인정보의 수집 및 사용을 위해 요구되는 동의 및 허락을 받고, 정보 주체권 및 공정한 처리에 대한 필수적 고지를 할 책임이 있습니다.
+The Processing of the Users-of-users’ Personal Information shall take place within the territory of the European Union, Israel or a third country, territory or one or more specified sectors within that third country of which the European Commission has decided that it ensures an adequate level of protection and such processing and transfer will be in accordance to the [Data Processing Agreement – Users](https://www.wix.com/about/privacy-dpa-users) (“DPA"). Any transfer to and Processing in a third country outside the European Union that does not ensure an adequate level of protection according to the European Commission, shall be undertaken in accordance with the the Standard Contractual Clauses (2010/87/EU) set out in Annex 1of the DPA. For the sake of clarity, “Processing” should be understood as per the definition provided in the DPA.
 
 ​
 
-Wix는 사용자 및 사용자의 사용자들에게 법적 조언을 제공할 수 없지만, 모든 사용자가 관련법 및 관련 규정에 따라 사용자 웹사이트에 명확하고 포괄적인 개인정보보호 방침을 게시하여 관리하고, 모든 사용자의 사용자들이 그 방침을 읽어 이해하고, 관련법이 요구하는 범위 내에서 그에 동의하도록 할 것을 권고합니다.
+You are responsible for the security, integrity and authorized usage of Personal Information about Users-of-Users’, and for obtaining consents, permissions and providing any required data subject rights and fair processing notices required for the collection and usage of such Personal Information.
 
 ​
 
-Wix가 사용자의 사용자 개인정보를 취급하는 방법(귀하가 사용자의 사용자에게 하는 통지, 또는 사용자의 사용자로부터 받는 동의에 해당될 수 있는 내용)에 관한 자세한 내용은 섹션 [4](https://ko.wix.com/about/privacy), [12](https://ko.wix.com/about/privacy) 및 [13](https://ko.wix.com/about/privacy)을 참조하십시오.
+Wix cannot provide legal advice to Users or their Users-of-Users, however we do recommend that all Users publish and maintain clear and comprehensive privacy policies on their User Websites in accordance with any applicable laws and regulations, and that all Users-of-Users carefully read those policies and make sure that they understand and, to the extent required by applicable law, consent to them.
 
 ​
 
-​귀하가 당사 사용자의 방문자, 사용자 또는 고객인 경우, 다음 내용을 읽으십시오. Wix는 당사가 처리하는 개인정보의 출처인 사용자의 사용자와는 직접적인 관계가 없습니다. 귀하가 당사 사용자의 방문자, 사용자 또는 고객으로서 귀하의 개인정보와 관련하여 어떤 요청이나 문의를 하시고자 하는 경우, 그 사용자에게 직접 연락하십시오. 예를 들어, 사용자를 대신하여 Wix에 의해 처리되는 부정확한 개인정보에 접속하여 정정, 변경 또는 삭제하고자 하실 경우, 해당 사용자(즉 그러한 데이터의 “통제자”)에게 직접 문의하십시오. Wix가 당사 사용자로부터 사용자의 사용자의 개인정보를 삭제하라는 요청을 받은 경우, 당사는 확인 후 관련법에 따라 적시에(예를 들면, 개인정보보호법(GDPR)에서와 같이 30일 이내에) 그러한 요청에 응답할 것입니다. 당사의 사용자가 달리 지시하지 않는 한, 당사는 아래 섹션 12에 규정된 기간 동안 사용자의 사용자의 개인정보를 보유합니다.
+For more information on how Users-of-Users Personal Information may be handled by Wix (which may be relevant for any specific notice you provide to and/or consent you obtain from your Users-of-Users), please see Sections [4](https://www.wix.com/about/privacy), [12](https://www.wix.com/about/privacy) and [13](https://www.wix.com/about/privacy).
 
-#ItsThatEasy(요점)
+If you are a visitor, user or customer of any of our Users, please read the following: Wix has no direct relationship with Users-of-Users whose Personal Information it processes. If you are a visitor, user or customer of any of our Users, and would like to make any requests or queries regarding your Personal Information, please contact such User(s) directly. For example, if you wish to request to access, correct, amend, or delete inaccurate Personal Information processed by Wix on behalf of its Users, please direct your query to the relevant User (who is the “Controller” of such data). If Wix is requested by our Users to remove any Users-of-Users’ Personal Information, we will respond to such requests in a timely manner upon verification and in accordance with applicable law (for example, thirty (30) days under the GDPR). Unless otherwise instructed by our User, we will retain their Users-of-Users’ Personal Information for the period set forth in [Section 12](https://www.wix.com/about/privacy) below.
 
-Wix는 사용자의 사용자에 관한 개인정보를 수집하여 처리할 수 있습니다.
+#### #ItsThatEasy
 
-당사는 이러한 업무를 오로지 사용자를 대신하여 사용자의 지시에 따라 수행합니다.
+Wix may collect and process Personal Information regarding the users of our users.
 
-당사의 사용자는 '사용자의 사용자'의 개인정보 그리고 그 정보의 적법성, 보안 및 무결성에 대해 전적으로 책임을 집니다.
+We do this solely on our users’ behalf, and at their direction.
 
-Wix는 사용자의 사용자와는 직접적인 관계가 없습니다. 귀하가 사용자의 사용자인 경우, Wix 사이트 소유자에게 직접 연락하십시오.
+Our users are solely responsible for their users-of-users information, including for its legality, security and integrity.
 
-##### 7\. 쿠키의 사용과 다른 제3자 기술
+Wix has no direct relationship with any of its users’ users. If you are a user-of-user, please contact the Wix site owner directly.
 
-당사와 당사의 제3자 서비스 제공자는, 당사가 서비스를 제공하고, 그러한 서비스가 적절하게 제공되도록 하고, 성과 및 마케팅 활동을 분석하고, 사용자의 경험을 개인적으로 맞추기 위해, 쿠키 및 기타 유사한 기술(이하 “쿠키”)을 사용합니다.
+7. Use of cookies and other third-party technologies
+----------------------------------------------------
 
-​
-
-당사가 쿠키를 사용하는 방법, 사용자가 쿠키에 대한 통제를 실행하는 방법 등에 대해서는, 당사의 [쿠키 취급방침](https://ko.wix.com/about/cookie-policy)에서 자세히 알아보실 수 있습니다.
-
-​
-
-​당사는 브라우저나 모바일 앱의 HTTP 헤더에 있는 “추적하지 않음(Do Not Track)” 신호에 응하여 당사의 관행을 바꾸지는 않지만, 사용자는 대부분의 브라우저를 통해 쿠키를 수락할 것인지의 여부를 결정하고, 쿠키를 제거하는 등 쿠키를 관리할 수 있습니다. 대부분의 브라우저에서, 사용자가 쿠키를 받게 되면 사용자에게 통지를 하도록 설정할 수 있거나, 사용자가 자신의 브라우저에서 쿠키를 차단하도록 선택할 수 있습니다.
-
-#ItsThatEasy(요점)
-
-당사 및 특정 제3자 서비스 제공자는 당사 서비스 전체에 걸쳐 쿠키, 그리고 쿠키와 유사한 추적 기술을 사용할 수 있습니다.
+We and our Third Party Service Providers use cookies and other similar technologies (“Cookies”) in  order for us to provide our Service and ensure that it performs properly, to analyze our performance and marketing activities, and to personalize your experience.
 
 ​
 
-이러한 기술은 주로 안정성, 보안, 기능성, 성능, 광고 등의 목적으로 사용됩니다.
-
-##### 8\. Wix로부터의 연락
-
-오직 다음과 같은 방법과 경우에만 귀하의 개인 정보를 제3자와 공유(또는 제3자의 사용을 허용)할 수 있습니다:
-
-###### 8.1. 홍보 메시지:
-
-당사는, 당사의 플랫폼 내에서 이메일, 문자, 통지에 의해, 그리고 그러한 수단을 통하여 Wix나 그 협력업체(Wix를 대행하여)의 마케팅 전화 및 유사한 형태의 통신에 의해 홍보성 내용과 메시지를 사용자에게 보내기 위해 사용자의 개인정보를 이용할 수 있습니다.
+You can learn more about how we use cookies and similar technologies and how you can exercise control over them in our [Cookie Policy](https://www.wix.com/about/cookie-policy).
 
 ​
 
-그런 홍보 메시지나 전화를 받지 않으려면, 언제든지 Wix에 통지하거나 수신된 홍보 통신문에 포함된 “가입 해지” 또는 "수신 거절" 안내를 따르십시오.
+Please note that we do not change our practices in response to a “Do Not Track” signal in the HTTP header from a browser or mobile application, however, most browsers allow you to control cookies, including whether or not to accept them and how to remove them. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser.
 
-###### 8.2. 서비스 및 과금 메시지:
+#### #ItsThatEasy
 
-Wix는 또한, 당사 서비스 또는 사용자에 의한 그러한 서비스의 사용과 관련하여 중요한 개인정보를 가지고 사용자에게 연락할 수 있습니다.
+We and certain third party services may use cookies and similar tracking technologies throughout our services.
 
-​
+These technologies are used mostly for stability, security, functionality, performance and advertising purposes.
 
-예를 들어, 당사는 유지관리를 위해 특정 서비스를 일시적으로 중단할 때 이를 사용자에게 알리는 통지문을 보낼 수 있으며(사용 가능한 수단을 통해), 사용자의 지원 요청 티켓이나 이메일에 회신하거나, 현재 또는 다음 구독에 대한 예정 납부액이나 지연 납부액에 대한 알림 또는 경고문을 보내거나, 사용자 웹사이트와 관련하여 남용에 대한 불만을 전달하거나, 당사 서비스의 중대한 변동 사항을 통지할 수 있습니다.
+8\. Communications from Wix
+---------------------------
 
-​
+### 8.1. Promotional messages
 
-귀하가 그러한 메시지를 항상 받을 수 있도록 하는 것이 중요합니다. 이러한 이유로, 귀하가 더 이상 Wix 사용자가 아닌 경우(계정을 비활성화함으로써)가 아닌 한, 귀하가 그러한 서비스 및 요금청구 메시지를 받지 않도록 수신거부를 할 수는 없습니다.
-
-#ItsThatEasy(요점)
-
-당사는 사용자에게 홍보 메시지와 콘텐츠를 전송할 수 있습니다.
-
-사용자는 당사에 연락하거나 구독 해지를 함으로써 간편하게 홍보 메시지 수신을 거부할 수 있습니다.
+We may use your Personal Information to send you promotional content and messages by e-mail, text messages, notifications within our platform, marketing calls and similar forms of communication from Wix or our partners (acting on Wix’s behalf) through such means.
 
 ​
 
-당사도 서비스 및 요금청구 관련 메시지나 콘텐츠로 사용자에게 연락할 수 있습니다. 사용자는 그러한 메시지의 수신을 거부할 수 없습니다.
+If you do not wish to receive such promotional messages or calls, you may notify Wix at any time or follow the “unsubscribe” or STOP instructions contained in the promotional communications you receive.
 
-##### 9\. 개인정보에 대한 사용자의 권리
+#### #ItsThatEasy
 
-Wix는 사용자가 사용자 본인의 개인정보에 대한 통제력을 갖는 것이 필수적이라는 점에 동의합니다. Wix는 전 세계 개인정보 보호 법규에 따라, 사용자가 사용자의 개인정보에 대한 접근을 요청하고, 그 사본을 수신하고, 개인정보를 갱신, 변경, 삭제하거나 그 사용을 제한할 수 있도록 하기 위한 조치를 취하고 있습니다.
+We may send you promotional messages and content.  
+You can easily opt-out of receiving promotional messages by contacting us or unsubscribing.
 
-​
+### 8.2. Service and billing messages
 
-당사는 사용자의 요청을 이행하기 전에, 신원을 확인하고 보안을 확보하기 위한 차원에서 사용자에게 추가 정보를 요구할 수 있습니다. 당사는 법이 허용하는 한, 수수료를 부과(예를 들어, 사용자의 요청이 근거가 없거나 과도할 경우)할 권리가 있습니다.
-
-​
-
-사용자는 정보 보호를 위해 지역 감독기관에 민원을 제기할 권리가 있습니다(하지만, 먼저 당사에 연락을 하실 것을 권합니다).
+Wix may also contact you with important information regarding our Services, or your use thereof. For example, we may send you a notice (through any of the means available to us) if a certain Service is temporarily suspended for maintenance; reply to your support ticket or e-mail; send you reminders or warnings regarding upcoming or late payments for your current or upcoming subscriptions; forward abuse complaints regarding your User Website; or notify you of material changes in our Services.
 
 ​
 
-귀하가 Wix 사용자로서, 당사에 보관해 둔 개인정보(귀하 본인의 것이든, 사용자의 사용자의 것이든)의 사본을 받거나 그 개인정보에 접속하고 싶거나, 당사가 귀하의 개인정보를 정정해 줄 것을 요청하고 싶거나, 당사가 직접 마케팅 목적으로 제3자에게 공개한 것으로서 귀하에 대하여 가지고 있는 개인정보(있을 경우)의 목록을 요청하시려면, Wix 도움말 센터(Wix Help Center)의 다음 글에서 제공되어 있는 안내를 따르십시오 —  "[Wix 계정 데이터 가져오기](https://support.wix.com/ko/article/gdpr-retrieving-your-wix-account-data)" [또는 Wix 계정의 영구적 삭제](https://support.wix.com/ko/article/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4-%EB%B3%B4%ED%98%B8-wix-%EA%B3%84%EC%A0%95-%EC%98%81%EA%B5%AC-%EC%82%AD%EC%A0%9C%ED%95%98%EA%B8%B0)". 귀하의 신청서를 Wix.com, 40 Namal Tel Aviv St., Tel Aviv 6350671, Israel로 우편으로 보내실 수도 있습니다. 당사는, 법적 고려사항 및 다른 허용 가능한 고려사항에 따를 것을 조건으로, 귀하의 신청을 즉시(귀하의 요청을 처리하기 위해서 귀하로부터 추가 정보가 필요한 경우가 아닌 한) 처리하기 위해 합리적인 노력을 기울일 것입니다.
+It is important that you are always able to receive such messages. For this reason, you are not be able to opt-out of receiving such Service and Billing Messages unless you are no longer a Wix User (which can be done by deactivating your account).
+
+We may also contact you with service and billing-related messages and content. You will not be able to opt-out of receiving such messages.
+
+9\. Your rights in relation to your ‘Personal Information’
+----------------------------------------------------------
+
+Wix agrees that it is imperative that you have control over your Personal Information. Pursuant to privacy regulations worldwide, Wix is taking steps to enable you to request access to, receive a copy of, update, amend, delete, or limit the use of your Personal Information.
 
 ​
 
-​귀하의 Wix 계정을 영구적으로 삭제하는 것은 Wix의 데이터베이스에 있는 귀하의 개인정보를 모두 없애게 되는 것임을 숙지하십시오. 이 절차를 마치게 되면, 귀하는 더 이상 Wix 서비스를 이용할 수 없으며, 귀하의 계정과 모든 데이터는 영구적으로 삭제되며, Wix는 장래에 귀하의 계정을 복구하거나 귀하의 데이터를 되찾을 수 없습니다. 귀하가 향후 당사의 지원부서에 연락하실 경우, 시스템은 귀하의 계정을 인식하지 못하여 지원부서 담당자는 삭제된 계정을 찾을 수 없게 됩니다.
-
-#ItsThatEasy(요점)
-
-귀하는, 귀하를 통해 당사에 저장되어 있는 귀하의 개인정보에 접속하고 사본을 받고 개인정보를 갱신, 변경, 삭제할 것을 요청할 수 있습니다. 당사에 이메일을 보내시거나 당사 전용의 개인정보보호법(GDPR) 양식을 작성해 주십시오. 귀하의 계정을 통해서나 웹사이트 설정을 통해 귀하의 개인정보를 정정하거나 갱신할 수 있습니다.  귀하의 전체 계정을 삭제함으로써 귀하의 개인정보를 삭제할 수 있습니다. 당사는 합리적인 시간 내에 귀하의 요청에 답을 드릴 것입니다.
-
-##### 10\. 캘리포니아 거주자를 위한 추가 정보
-
-귀하가 서비스를 이용하는 캘리포니아 거주자인 경우, 캘리포니아 소비자 개인정보 보호법(이하 "CCPA")에 따라 귀하에게는 자신의 개인정보 접근 및 삭제를 요구할 권리가 주어질 수 있습니다.
+Before fulfilling your request, we may ask you for additional information in order to confirm your identity and for security purposes. We reserve the right to charge a fee where permitted by law (e.g. if your request is unfounded or excessive).
 
 ​
 
-개인정보 접근 및 삭제 요구권을 행사하려면 위의 섹션 9를 참조하십시오. 당사는 이 섹션에서 사용자에게 부여되는 개인정보 보호의 권리 행사를 이유로 차별하지 않습니다. 
+You have the right to file a complaint with your local supervisory authority for data protection (but we still recommend that you contact us first).
 
 ​
 
-Wix는 CCPA의 취지와 목적에 따라, 사용자의 개인정보를 제3자에게 판매하지 않습니다. 
+If you are a Wix User, and you wish to receive a copy, access and/or request us to make corrections to the Personal Information that you have stored with us (either yours or your Users-of-Users’), or wish to request a list of what Personal Information (if any) pertaining to you we disclosed to third parties for direct marketing purposes, please follow the instructions provided in these Help Center articles: “[Retrieving Your Wix Account Data](https://support.wix.com/en/article/gdpr-retrieving-your-wix-account-data)” or [Permanently Deleting Your Wix Account](https://support.wix.com/en/article/privacy-permanently-deleting-your-wix-account-2888065)”. You can also mail your request to Wix.com, 40 Namal Tel Aviv St., Tel Aviv 6350671, Israel. We will make reasonable efforts to honor your request promptly (unless we require further information from you in order to fulfil your request), subject to legal and other permissible considerations.
 
 ​
 
-위의 섹션 6에서 설명한 바와 같이, Wix는 오로지 사용자를 대신하여 사용자의 지시에 따라서만 사용자의 사용자의 특정 개인정보를 수집, 보관, 처리할 수 있습니다.  그러한 목적상, Wix는 “사업자”가 아닌 “서비스 제공자”(이 두가지 용어는 CCPA에 정의되어 있는 바에 따름)로서의 역할을 수행하는 것이며, 또한 그렇게 간주되어야 합니다. Wix는 사용자의 고객(사용자의 사용자)의 개인정보를 판매하지 않으며 향후에도 판매하지 않을 것입니다.
+Please note that permanently deleting your Wix account erases all of your Personal Information from Wix's databases. After completing this process, you can no longer use any of your Wix Services, your account and all its data will be removed permanently, and Wix will not be able to restore your account or retrieve your data in the future. If you contact our support channels in the future, the system will not recognize your account and support agents will not be able to locate the deleted account.
+
+#ItsThatEasy
+
+You may request to access, receive a copy of, update, amend, delete, or limit the use of your Personal Information you have stored with us. Just send us an e-mail or fill out our dedicated GDPR form. You may also correct and/or update your Personal Information through your account or website settings.
 
 ​
 
-​캘리포니아 거주자인 서비스 사용자로서 18세 미만인 사람은 당사에 이메일([privacy@wix.com](mailto:privacy@wix.com))을 보내서 자신이 게시한 콘텐츠 삭제를 요청하거나 콘텐츠를 입수할 수 있습니다.  모든 요구를 발송할 때에는 이메일이나 일반 우편물에 “캘리포니아 제거 요청”(California Removal Request)이라고 표시해야 합니다. 모든 요청서는 당사가 해당 콘텐츠를 찾을 수 있을 만큼 삭제를 원하는 콘텐츠와 정보를 합리적인 정도로 충분히 기술해야 합니다. 적절히 표시되지 않았거나 발송되지 않은 통지에 대해서는 당사가 책임을 지지 않으며, 귀하가 적절한 정보를 제공하지 않을 경우 답을 드리지 못할 수도 있습니다. 요청한다고 해서 자료를 완전히 포괄적으로 삭제할 수 있는 것은 아닙니다. 예를 들어, 사용자가 게시한 자료가 다른 사용자나 제3자에 의해 다시 발표되거나 게시될 수도 있기 때문입니다.
+You can delete your Personal Information by deleting  your entire account. We will respond to your requests within a reasonable timeframe. 
 
-#ItsThatEasy(요점)
+10\.  Additional information for California residents
+-----------------------------------------------------
 
-캘리포니아 거주자는 자신의 개인정보에 대한 접근 및 삭제의 권리를 행사할 수 있습니다. 요청을 하시려면, (i) 당사의 인터넷 양식(webform)을 사용하시거나 (ii) 이메일을 보내 주십시오.
-
-##### 11\. 질문과 불만사항
-
-당사에 의한 개인정보의 수집, 사용, 공개에 대하여 질문이나 우려사항이 있거나, 당사가 이 개인정보 취급방침이나 관련 개인정보 보호법을 준수하지 않았다고 생각되시면, 당사에 연락을 주십시오. 이 개인정보 취급방침 마지막에 자세한 내용이 설명되어 있습니다.
+If you are a California resident using the Services, the California Consumer Privacy Act (“CCPA”) may provide you the right to request access to and deletion of your Personal Information.
 
 ​
 
-당사의 개인정보책임자가 불만사항을 조사하여, 위반이 발생하였는지, 필요 시 어떤 조치를 취할 것인지를 결정할 것입니다. 당사는 모든 프라이버시에 대한 불만제기를 진지하게 받아들이며, 그러한 불만사항을 관련법에 따라 즉시 해결하기 위해 합리적인 모든 노력을 기울일 것입니다. 
+In order to exercise the right to request access to and deletion of your Personal  Information, please see the information on the section 9, above. We do not discriminate based on the exercise of any privacy rights that you might have under this Section.
 
 ​
 
-​사용자는 개인정보 보호를 위하여 언제든지 지역 감독기관에 민원을 제기할 권리가 있지만, 당사로서는 당사가 문제를 해결할 수 있도록 먼저 당사에 연락을 주실 것을 권장합니다.
-
-#ItsThatEasy(요점)
-
-사용자는 개인정보 보호를 위하여 언제든지 지역 감독기관에 민원을 제기할 권리가 있습니다.  당사가 귀하의 우려사항을 해결할 수 있도록 당사에 먼저 연락을 주십시오.
-
-##### 12\. 개인정보 보존
-
-당사는 이 개인정보 취급방침에서 설명된 바와 같이 사용자 계정이 활성화되어 있는 한, 또는 사용자에게 당사 서비스를 제공하는 데 필요한 한, 사용자의 개인정보 (귀하의 사용자의 사용자 개인정보도 마찬가지로)를 보유할 수 있습니다.
+Wix does not sell user Personal Information to third parties for the intents and purposes of the CCPA. 
 
 ​
 
-당사는 사용자가 자신의 사용자 계정을 비활성화하거나 특정 서비스의 사용을 중단한 후에도, 법적 의무 준수, 사용자 또는 사용자의 사용자와 관련된 분쟁 해결, 사기 및 남용 예방, 계약 이행 또는 당사의 합법적인 이해관계 보호를 위해 합리적으로 필요할 만큼, 사용자의 개인정보를 계속 보유할 수 있습니다.
+As informed in section 6 above, Wix may collect, store and process certain Personal Information of Users-of-Users, solely on our Users’ behalf and at their direction.  For such purposes, Wix serves and shall be considered as a “Service Provider” and not as the “Business” (as both such capitalized terms are defined in the CCPA. Wix does not and will not sell your customers’ (User-of-User) Personal Information.
 
 ​
 
-당사는 당사의 관리 하에 있는 개인정보에 적용하는 개인정보 보존방침을 두고 있습니다.
+Users of the Services who are California residents and under 18 years of age may request and obtain removal of content they posted by emailing us at  [privacy@wix.com](mailto:privacy@wix.com). All requests must be labeled “California Removal Request” on the email subject line. All requests must provide a description of the content you want removed and information reasonably sufficient to permit us to locate that content. We do not accept California Removal Requests via postal mail, telephone, or facsimile. We are not responsible for notices that are not labeled or sent properly, and we may not be able to respond if you do not provide adequate information. Please note that your request does not ensure complete or comprehensive removal of the material. For example, materials that you have posted may be republished or reposted by another user or third party
 
-#ItsThatEasy(요점)
+#### #ItsThatEasy
 
-당사는 사용자의 계정이 활성화되어 있는 한, 그리고 필요에 따라 더 긴 기간 동안(예를 들어, 법적으로 더 오래 보존해야 할 의무가 있거나 당사의 이해관계 보호를 위해 필요한 경우) 사용자의 개인정보를 보존할 수 있습니다.
+California residents may exercise their right to access and delete their Personal Information. To make a request, (i) visit our webform, (ii) send us an email;
 
-##### 13\. 보안
+11\. Questions and complaints
+-----------------------------
 
-Wix는 물리적, 전자적, 절차적 조치를 포함하여, 사용자가 당사와 공유하는 개인정보를 보호하도록 설계된 보안 조치를 구현하였습니다. 특히 그 중에서도, 대부분의 당사 서비스 영역에서 HTTPS 보안 액세스를 제공하며, 지정된 구매 양식을 통해 중요한 지불 정보(예: 신용 카드 번호)를 전송할 경우 산업 표준 SSL/TLS 암호화 연결에 의해 보호되며, PCI DSS(결제카드 산업데이터 보안표준) 인증을 정기적으로 유지 관리합니다. 또한, 가능한 취약성 및 공격에 대비하여 시스템을 정기적으로 모니터링하고, 서비스 보안을 강화하고, 방문자 및 사용자의 개인정보를 보호하기 위해 정기적으로 새로운 방안과 함께 제3자 서비스를 모색합니다.
-
-​
-
-Wix가 취하는 조치와 노력에 관계없이, 당사는 사용자의 개인정보, 사용자의 사용자의 개인정보, 또는 사용자가 업로드 또는 게시하거나 다른 방식으로 Wix 또는 타인과 공유하는 다른 정보에 대해 절대적인 보호 및 보안을 보장할 수 없습니다. 사용자의 사용자 계정 및 사용자 웹사이트에 대해 강력한 암호를 설정하고, 공개 시 상당한 또는 복구할 수 없는 피해를 야기할 수 있는 중요한 개인정보는 당사나 타인에게 제공하지 않는 것이 좋습니다.
+If you have any questions or concerns about our collection, use or disclosure of Personal Information, or if you believe that we have not complied with this Privacy Policy or applicable data protection laws, please contact us – our details are set out at the end of this Privacy Policy.
 
 ​
 
-또한, 당사 서비스의 특정 영역은 다른 영역보다 상대적으로 덜 안전하기 때문에 (예를 들어 지원 게시판 티켓을 "비공개" 대신 "공개"로 설정하거나 비SSL 페이지를 탐색하는 경우), 그리고 이메일 및 문자 메시지는 안전한 형태의 통신으로 인정되지 않으므로, 이러한 영역이나 방법을 통해 개인정보를 공유하지 않을 것을 요청하고 권장합니다.
+Our Data Protection Officer team will investigate the complaint and determine whether a breach has occurred and what action, if any, to take. We take every privacy complaint seriously and will make all reasonable efforts to resolve your complaint promptly and in accordance with applicable law. 
 
 ​
 
-​당사의 서비스 보안에 관해 궁금한 점이 있으면, [privacy@wix.com](mailto:privacy@wix.com)으로 연락 주십시오.
+You can file a complaint with your local supervisory authority for data protection at any time, however we recommend that you contact us first so we can try to resolve it.
 
-#ItsThatEasy(요점)
+#### #ItsThatEasy
 
-중요하게 생각하며, 개인정보를 보호하기 위해 최선을 다합니다. 
+You can file a complaint with your local supervisory authority for data protection at any time.  Please contact us first so we can try to resolve your concerns.
 
-그러나, 절대적인 보호를 보장할 수는 없으므로, 계정에 강력한 비밀번호를 설정하도록 유의하시고, 노출될 경우 심각한 피해를 야기할 수 있는 민감한 정보의 제출을 피하십시오.
+12\. Data retention
+-------------------
 
-##### 14\. 제3자 웹사이트
-
-당사의 서비스에는 다른 웹사이트나 서비스로 연결되는 링크가 포함되어 있을 수 있습니다. 당사는 이러한 웹사이트 또는 서비스의 개인정보 보호관행에 대해 책임을 지지 않습니다. 사용자는 당사의 서비스를 벗어나는 시점을 인식하고, 자신의 개인정보를 제공하기 전에 방문하는 각 웹사이트 및 서비스의 개인정보 보호에 관한 선언을 확인하실 것이 권고됩니다. 이 개인정보 취급방침은 링크된 그러한 제3자 웹사이트 및 서비스에는 적용되지 않습니다.
-
-#ItsThatEasy(요점)
-
-당사의 서비스에는 다른 웹사이트나 서비스로 연결되는 링크가 포함되어 있을 수 있습니다
-
-##### 15\. Wix 채용 지원
-
-Wix는 모든 유자격 채용 지원자들이 당사 웹사이트에 있는 해당 직책 지원서 또는 당사가 제공하는 다른 수단을 통해 자신의 연락처 정보와 이력서(“지원자 정보”)를 당사로 보내서 [https://www.wix.com/jobs](https://www.wix.com/jobs)에 게시된 채용 부문에 응모하는 것을 환영합니다.
+We may retain your Personal Information (as well as your Users-of-Users’ Personal Information) for as long as your User Account is active, as indicated in this Privacy Policy, or as otherwise needed to provide you with our Services.
 
 ​
 
-당사는, 개인정보 보호와 신중함이 지원자에게 매우 중요함을 이해하고 있으며, 지원자 정보를 비공개로 유지하고, Wix의 내부 채용 목적(지원자 식별, 지원자 평가, 채용 및 고용 결정, 전화나 서면으로 지원자에게 연락 등)을 위해서만 지원자 정보를 사용할 것을 약속합니다.
+We may continue to retain your Personal Information after you deactivate your User Account and/or cease to use any particular Services, as reasonably necessary to comply with our legal obligations, to resolve disputes regarding our Users or their Users-of-Users, prevent fraud and abuse, enforce our agreements and/or protect our legitimate interests.
 
 ​
 
-Wix는 지원한 직책이 채워지거나 마감된 후, 제출된 지원자 정보를 2년이 넘지 않는 범위에서 보유할 수 있습니다. 이는 Wix의 다른 직책과 기회에 대해 지원자를 재고하기 위한 것이며, 따라서 지원자 정보를 미래에 제출될 지원서에 대한 참조 자료로 사용할 수 있으며, 지원자가 고용될 경우 추가 고용 및 Wix에서 당사자의 업무와 관련된 직무 목적으로 사용할 수 있습니다.
+We maintain a data retention policy which we apply to Personal Information in our care.
+
+#### #ItsThatEasy
+
+We may keep your Personal Information for as long as your account is active, and longer as needed (for example, if we are legally obligated to keep it longer, or need it to protect our interests).
+
+13\. Security
+-------------
+
+Wix has implemented security measures designed to protect the Personal Information you share with us, including physical, electronic and procedural measures. Among other things, we offer HTTPS secure access to most areas on our Services; the transmission of sensitive payment information (such as a credit card number) through our designated purchase forms is protected by an industry standard SSL/TLS encrypted connection; and we regularly maintain a PCI DSS (Payment Card Industry Data Security Standards) certification. We also regularly monitor our systems for possible vulnerabilities and attacks, and regularly seek new ways and Third Party Services for further enhancing the security of our Services and protection of our Visitors’ and Users’ privacy.
 
 ​
 
-이전에 지원자 정보를 Wix에 제출한 후, Wix 시스템에서 그 내용에 접근, 갱신, 또는 삭제를 원하는 경우, [jobs@wix.com](mailto:jobs@wix.com)으로 문의하십시오.
+Regardless of the measures and efforts taken by Wix, we cannot and do not guarantee the absolute protection and security of your Personal Information, your Users-of-Users’ Personal Information or any other information you upload, publish or otherwise share with Wix or anyone else. We encourage you to set strong passwords for your User Account and User Website, and avoid providing us or anyone with any sensitive Personal Information of which you believe its disclosure could cause you substantial or irreparable harm.
 
-#ItsThatEasy(요점)
-
-당사는 모든 유자격 취업 희망자들이 그들의 연락처 정보와 이력서를 당사에 보내어 채용 부문에 응모하는 것을 환영합니다.
-
-당사는 그런 개인정보를 오직 내부의 모집, 채용 및 업무 목적으로만 사용합니다.
-
-##### 16\. 공개 게시판 및 사용자 콘텐츠
-
-당사의 서비스에는 공개적으로 접근 가능한 블로그, 커뮤니티, 지원 게시판 등이 있습니다. 이러한 영역에서 사용자가 제공하는 개인정보는 해당 정보에 접근하는 다른 사람이 읽고 수집하고 사용할 수 있습니다. 당사 블로그나 커뮤니티, 게시판 등에서 귀하의 개인정보를 삭제해 줄 것을 요청하시려면, [privacy@wix.com](mailto:privacy@wix.com)으로 문의하십시오. 어떤 경우에는 그러한 영역으로부터 귀하의 개인정보를 제거하지 못할 수 있습니다. 예를 들어, 제3자의 관련 프로필에 로그인한 상태에서 댓글 게시를 위해 제3자 애플리케이션(예: Facebook 소셜 플러그인 애플리케이션)을 사용할 경우, 해당 플랫폼에 게시한 개인정보를 삭제하려면 해당 애플리케이션에 로그인하거나 해당 제공자에게 문의해야 합니다.
+Furthermore, because certain areas on our Services are less secure than others (for example, if you set your Support forum ticket to be “Public” instead of “Private”, or if you browse to a non-SSL page), and since e-mail and instant messaging are not recognized as secure forms of communications, we request and encourage you not to share any Personal Information on any of these areas or via any of these methods.
 
 ​
 
-어떠한 경우든, 이러한 플랫폼에서 공표되기를 원하지 않는 정보를 게시(또는 정보를 게시할 수 있는 게시 수단의 이용)하지 않을 것이 권장됩니다.
+If you have any questions regarding the security of our Services, you are welcome to contact us at [privacy@wix.com](mailto:privacy@wix.com).
+
+#### #ItsThatEasy
+
+Wix values the security of our customers' Personal Information and we do everything in our power to protect it. 
+
+However, as we can’t guarantee absolute protection – we encourage you to be careful, set a strong password for your account, and avoid submitting any sensitive information which, if exposed, could cause you major harm.
+
+14\. Third-party websites
+-------------------------
+
+Our Services may contain links to other websites or services. We are not responsible for such websites’ or services’ privacy practices. We encourage you to be aware when you leave our Services and to read the privacy statements of each and every website and service you visit before providing your Personal Information. This Privacy Policy does not apply to such linked third party websites and services.
+
+#### #ItsThatEasy
+
+Our Services may contain links to other websites or services.
+
+15\. Wix jobs applications
+--------------------------
+
+Wix welcomes all qualified Applicants to apply to any of the open positions published at [https://www.wix.com/jobs](https://www.wix.com/jobs), by sending us their contact details and CV (“Applicants Information”) via the relevant Position Application Form on our Website, or through any other means provided by us.
+
+We understand that privacy and discreetness are crucial to our Applicants, and are committed to keep Applicants Personal Information  private and use it solely for Wix’s internal recruitment purposes (including for identifying Applicants, evaluating their applications, making hiring and employment decisions, and contacting Applicants by phone or in writing).
 
 ​
 
-사용자가 사용자 콘텐츠를 자신의 사용자 계정에 업로드하거나 자신의 사용자 웹사이트에 게시하여 서비스 사용의 일부로서 다른 방식으로 그 내용을 제공할 경우, 그것은 자신의 책임 하에 수행하는 것입니다.
+If you previously submitted your Applicants Personal Information to Wix, and now wish to access it, update it or have it deleted from Wix’s systems, please contact us at [jobs@wix.com](mailto:jobs@wix.com).
 
-당사는 사용자의 개인정보를 보호하기 위해 적절한 보안 조치를 강구해 두었습니다.  하지만, 당사는 귀하의 사용자 콘텐츠에 접근할 수 있는 다른 사용자나 대중의 행위를 통제할 수 없으며, 귀하나 당사가 귀하의 사용자 웹사이트에 설정한 개인정보보호 설정 또는 보안 조치(예: 귀하의 사용자 웹사이트에 있는 비밀번호 보호 영역 등)를 우회하는 것에 대해 책임을 지지 않습니다. 귀하는 자신이나 당사가 콘텐츠를 삭제한 후에도 여전히 사용자 콘텐츠의 사본을 캐시된 페이지 및 보관된 페이지에서 볼 수 있고, 제3자(사용자의 사용자 등 포함)가 그 사용자 콘텐츠를 복사하거나 저장한 경우에도 계속 볼 수 있음을 이해하고 인정합니다. 분명하게 하기 위해, 공개되는 것을 원하지 않는 정보라면 업로드하거나 게시하지 않을 것을 권합니다.
+#### #ItsThatEasy
 
-#ItsThatEasy(요점)
+We welcome all qualified job seekers to apply to any of our open positions, by sending us their contact details and CV.
 
-개인정보가 공개되는 것을 원하지 않을 경우, 개인정보를 당사 서비스의 공개 영역이나 귀하의 웹사이트에 게시하지 마십시오.
+We will use such Personal Information solely for our internal recruitment, employment and business purposes.
 
-##### 17. 개정 및 해석
+16\. Public forums and user content
+-----------------------------------
 
-당사는 관련법이 요구하는 바에 따라, 그리고 당사의 개인정보 수집, 사용, 보관 관행의 변경을 반영하기 위해 이 개인정보 취급방침을 개정할 수 있습니다. 당사가 “중대한”(당사 자체의 선의적 재량에 따라 판단함) 변경을 수행할 경우, 변경 사항이 발효되기 전에 귀하에게 통지([이용약관](http://www.wix.com/about/terms-of-use) 섹션 15.3에 명시된 통지 방법 중 하나를 사용하여)할 것입니다. 개정된 개인정보 취급방침과 관련하여 관련법이 요구하는 바에 따라, 사용자에게 통지하여 사용자의 동의를 받거나 기타 다른 조치를 취할 것입니다. 이 페이지를 주기적으로 확인하여 당사 개인정보 보호 관행의 최신 정보에 대해 알아보실 것을 권장합니다. 달리 규정하지 않는 한, 당사 웹사이트, Wix 앱, 모바일 앱, 기타 서비스와 관련하여 당사가 사용자 및 사용자의 사용자에 대해 보유하고 있는 모든 정보에 당사의 최신 개인정보 취급방침이 적용됩니다.
-
-​
-
-여기에 포함된 표제, 제목 또는 섹션 제목 및 오른쪽 "#요점" 칼럼에 있는 설명 또는 요약 내용은 편의상 제공되는 것이며 어떠한 식으로든 섹션이나 조항을 정의, 설명하는 것이 아니며, 또한 법적 구속력을 갖지 않습니다.
+Our Services offer publicly accessible blogs, communities and support forums. Please be aware that any Personal Information you provide in any such areas may be read, collected, and used by others who access them. To request removal of your Personal Information from our blogs, communities or forums, feel free to contact us at: [privacy@wix.com](mailto:privacy@wix.com). In some cases, we may not be able to remove your Personal Information from such areas. For example, if you use a third party application to post a comment (e.g., the Facebook social plugin application) while logged in to your related profile with such third party, you must login into such application or contact its provider if you want to remove the Personal Information you posted on that platform. 
 
 ​
 
-​이 개인정보 취급방침은 영어로 작성되었으며, 사용자의 편의를 위해 다른 언어로 번역될 수 있습니다. Wix 웹사이트 언어 설정을 변경하여 다른 언어본으로 접근하여 볼 수 있습니다. 이 개인정보 취급방침의 번역본(영어 이외의 버전)이 영어본과 상충할 경우, 영어본의 규정이 우선합니다.
-
-#ItsThatEasy(요점)
-
-당사는 이 방침을 언제든지 변경할 수 있습니다. 변경 사항은 관련법의 규정에 따라 사용자에게 통지하게 됩니다.
+In any event, we advise against posting any Personal Information (via any means) you don’t wish to publicize.
 
 ​
 
-왼쪽 칼럼의 내용만 법적으로 구속력이 있습니다 (이 칼럼은 단지 명확성을 기하기 위한 것입니다).
+If you upload any user content to your User Account or post it on your User Website and provide it in any other way as part of the use of any Service, you do so at your own risk.
 
-본 약관의 번역본(영어 이외의)은 단순히 편의상 제공되는 것입니다.
+We have put adequate security measures in place to protect your Personal Information.  However, we cannot control the actions of other Users or members of the public who may access your User Content, and are not responsible for the circumvention of any privacy settings or security measures you or we may have placed on your User Website (including, for instance, password-protected areas on your User Website). You understand and acknowledge that, even after its removal by you or us, copies of User Content may remain viewable in cached and archived pages or if any third parties (including any of your Users-of-Users) have copied or stored such User Content. To clarify, we advise against uploading or posting any information you do not wish to be public.
 
-##### 18. 문의처
+#### #ItsThatEasy
 
-이 개인정보 취급방침에 대해 질문이 있거나 섹션 9 또는 10에서 정하고 있는 사용자의 권리를 행사하고자 하는 경우, 정보보호책임자(Data Protection Officer)에게 [privacy@wix.com](mailto:privacy@wix.com)으로 연락하십시오. 당사는 이 개인정보 취급방침에 따라, 사용자의 개인정보 사용에 관련되는 불만사항을 해결하기 위해 노력할 것입니다.
+Avoid posting any Personal Information to any of the public areas on our Services, or to your own website, if you don’t want it to become publicly available.
+
+17. Updates and interpretation
+------------------------------
+
+We may update this Privacy Policy as required by applicable law, and to reflect changes to our Personal Information collection, usage and storage practices. If we make any changes that we deem as “material” (in our sole good faith discretion), we will notify you (using one of the notification methods set forth in Section 15.3 of the [Terms of Use](http://www.wix.com/about/terms-of-use)) prior to the change becoming effective. In relation to any updated Privacy Policy, we will, as required by applicable law, notify you, seek your consent and/or take any other measures. We encourage you to periodically review this page for the latest Information on our privacy practices. Unless stated otherwise, our most current Privacy Policy applies to all information that we have about you and your Users-of-Users, with respect to our Website, Wix Apps, Mobile Apps and other Services. 
 
 ​
 
-아래의 주소로 우편으로 연락하실 수도 있습니다.
+Any heading, caption or section title contained herein, and any explanation or summary under the right “#ItsThatEasy” column, is provided only for convenience, and in no way defines or explains any section or provision hereof, or legally binds any of us in any way.
 
-*   40 Namal Tel Aviv St., Tel Aviv, Israel, 또는 
+​
+
+This Privacy Policy was written in English, and may be translated into other languages for your convenience. You may access and view other language versions by changing your Wix Website language settings. If a translated (non-English) version of this Privacy Policy conflicts in any way with its English version, the provisions of the English version shall prevail.
+
+#### #ItsThatEasy
+
+We may change this policy at any time. We will notify you of changes as required by applicable law.
+
+​
+
+Only the left column is legally binding (this column is just for clarity).
+
+​
+
+Translated (non-English) versions of these terms are provided for convenience only.
+
+18. Contacting us
+-----------------
+
+If you have any questions about this Privacy Policy or wish to exercise any of your rights as described in Sections 9 or 10 please refer to those sections or contact the Data Protection Officer team at [privacy@wix.com](mailto:privacy@wix.com). We will attempt to resolve any complaints regarding the use of your Personal Information in accordance with this Privacy Policy.
+
+​
+
+You may also contact us by mail at:
+
+*   40 Namal Tel Aviv St., Tel Aviv, Israel; or 
     
 *   500 Terry A. Francois Boulevard, 6th Floor, San Francisco, CA, 94158.
     
 
 ​
 
-개인정보보호법(GDPR) (27조)의 목적상, 사용자는 아일랜드에 소재하고 있는 당사 EU 대리인인 Wix Online Platforms Limited (주소: 1 Grant’s Row, Dublin 2 D02HX96, Ireland)에 연락하실 수 있습니다.
+For the purposes of GDPR (Article 27), you may contact our EU representative at Wix Online Platforms Limited, 1 Grant’s Row, Dublin 2 D02HX96, Ireland.
 
-#ItsThatEasy(요점)
+#### #ItsThatEasy
 
-질문이나 제안이 있으십니까? 당사는 어떤 질문이나 의견도 환영합니다!
+We may change this policy at any time. We will notify you of changes as required by applicable law.
+
+​
+
+Only the left column is legally binding (this column is just for clarity).
+
+​
+
+Translated (non-English) versions of these terms are provided for convenience only.
