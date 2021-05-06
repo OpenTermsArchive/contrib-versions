@@ -642,19 +642,17 @@ Toll Fraud includes any type of billing except premium SMS and premium calls. Ex
 
 ### Stalkerware
 
-Code that transmits personal information off the device without adequate notice or consent and doesn't display a persistent notification that this is happening.
+Code that collects and/or transmits personal or sensitive user data from a device without adequate notice or consent and doesn't display a persistent notification that this is happening.
 
-Stalkerware apps typically transmit data to a party other than the PHA provider. 
+Stalkerware apps target device users by monitoring personal or sensitive user data, and transmitting or making this data accessible to third parties. 
 
-Acceptable forms of these apps can be used by parents to track their children. However, these apps cannot be used to track a person (a spouse, for example) without their knowledge or permission unless a persistent notification is displayed while the data is being transmitted.
-
-Only policy compliant apps exclusively designed and marketed for parental (including family) monitoring or enterprise management may distribute on the Play Store with tracking and reporting features, provided they fully comply with the requirements described below.
+Apps exclusively designed and marketed for parents to track their children or enterprise management, provided they fully comply with the requirements described below are the only acceptable surveillance apps. These apps cannot be used to track anyone else (a spouse, for example) even with their knowledge and permission, regardless if persistent notification is displayed.
 
 Non-stalkerware apps distributed on the Play Store which monitor or track a user's behavior on a device must minimally comply with these requirements:
 
 *   Apps must not present themselves as a spying or secret surveillance solution.
 *   Apps must not hide or cloak tracking behavior or attempt to mislead users about such functionality.
-*   Apps must present users with a persistent notification and unique icon that clearly identifies the app.
+*   Apps must present users with a persistent notification at all times when the app is running and a unique icon that clearly identifies the app.
 *   Apps and app listings on Google Play must not provide any means to activate or access functionality that violate these terms, such as linking to a non-compliant APK hosted outside Google Play.
 *   You are solely responsible for determining the legality of your app in its targeted locale. Apps determined to be unlawful in locations where they are published will be removed.
 
@@ -1206,20 +1204,24 @@ If you do not agree with the rating assigned to your app, you can appeal directl
 News 
 -----
 
-An app that declares itself as a "News" app on Google Play must meet all of the following requirements.
+An app that declares itself as a "News" app in the Google Play console (“News apps”) must meet all of the following requirements.
 
-News apps that require a user to purchase a membership must provide a content preview for users prior to purchase. 
+News apps that require a user to purchase a membership must provide an in-app content preview for users prior to purchase. 
 
 News apps MUST:
 
 *   provide ownership information about the news publisher and its contributors including, but not limited to, the official website for the news published in your app, valid and verifiable contact information, and the original publisher of each article, and 
-*   have a website or in-app page that provides valid contact information for the news publisher.
+*   have a dedicated website or in-app page that is clearly labelled as containing contact information, is easy to find (e.g., linked at the bottom of the home page or in the site navigation bar), and provides valid contact information for the news publisher, including at least a contact email address and phone number.
+
+Please note that links to social media accounts are not sufficient forms of publisher contact information.  Additionally, apps that contain primarily user generated content (e.g., social media apps) should not declare themselves as News apps.
 
 News apps MUST NOT:
 
 *   contain significant spelling & or grammatical errors,
 *   contain only static content (e.g., content that is several months old), and 
 *   have affiliate marketing or ad revenue as its primary purpose.  
+
+Please note that News apps _may_ use ads and other forms of marketing to monetize as long as the app’s primary purpose isn’t to sell products and services or generate advertising revenue.
 
 News apps that aggregate content from different publishing sources must be transparent about the publishing source of the content in the app and each of the sources must meet News policy requirements.
 
@@ -1484,6 +1486,8 @@ Ads and offers for in-app purchases must not have deceptive content or be design
 **Here are some examples of common ad format violations** 
 
 *   Ads that move away from a user's finger as the user tries to close it
+*   Ads that do not provide a user with a way to a exit the ad experience after five (5) seconds as depicted in the example below:  
+    ![](//storage.googleapis.com/support-kms-prod/Yney83HbD6X1WyFsKQfZSu3R3dZRYRRe24aq)
 *   Ads that take up the majority or the device screen without providing the user a clear way to dismiss it, as depicted in the example below:
     
     ![](//lh3.googleusercontent.com/x_00itIxYS9KEaMpKssADj_fX0dSUff6o6Nt04ASG4pey542vycDMIyFXX5clJE_fDSb=w1100-h600)
