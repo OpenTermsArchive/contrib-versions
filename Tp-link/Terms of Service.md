@@ -3,7 +3,7 @@ TERMS OF USE
 
 Welcome to TP-Link!
 
-The Services defined here in are provided by TP-Link Corporation Limited. This document may refer to the service provider as “TP-Link Corporation Limited.”, "TP-Link”, "we”, "us", or "our”. These are the rules and restrictions that govern your use of our website(s), products, services, mobile applications, and other software (collectively, the "Services").
+The Services defined herein are provided by TP-Link Corporation Limited. This document may refer to the service provider as “TP-Link Corporation Limited.”, "TP-Link”, "we”, "us", or "our”. These are the rules and restrictions that govern your use of our website(s), products, services, mobile applications, and other software (collectively, the "Services").
 
 The term “Services” means the Sites, Web Apps, Mobile Apps, and Subscription Services, which may be used in conjunction with Products and in other ways provided by TP-Link, as defined at points 1-5, below.. Some Products and Services of TP-Link can be used together or in ways that integrate with products and services from third parties.
 
@@ -17,7 +17,7 @@ The term “Services” means the Sites, Web Apps, Mobile Apps, and Subscription
 
 (5) Subscription services, including services that can be accessed using the Web Apps and Mobile Apps (“Subscription Services”);
 
-These are the rules and restrictions that govern your use of our Products and Services. Please read these Terms of Use (the “Terms”) carefully before using the Services, because they affect your legal rights and obligations (e.g., requiring arbitration and no class action relief and limiting our liability). You acknowledge and agree that, except for physical TP-Link Products that you may have purchased such as routers or switches, the Services and the software embedded in the Product (and any updates thereto) (“Product Software”) are licensed, not sold, to you. You do not acquire any ownership interest in any Service or Product Software under these Terms, or any other rights thereto other than to use such Service and Product Software in accordance with the license granted, and subject to all terms, conditions, and restrictions under these Terms. Certain features of the Services may be subject to additional guidelines, terms, or rules, which will be presented through the Services in connection with such features (for example, additional terms of service for Kasa Care). You must review and agree to the additional guidelines, terms, or rules before using such Services.
+These are the rules and restrictions that govern your use of our Products and Services. Please read these Terms of Use (the “Terms”) carefully before using the Services, because they affect your legal rights and obligations (e.g., requiring arbitration and no class action relief and limiting our liability). You acknowledge and agree that except for physical TP-Link Products that you may have purchased such as routers or switches, the Services and the software embedded in the Product (and any updates thereto) (“Product Software”) are licensed, not sold, to you. You do not acquire any ownership interest in any Service or Product Software under these Terms, or any other rights thereto other than to use such Service and Product Software in accordance with the license granted, and subject to all terms, conditions, and restrictions under these Terms. Certain features of the Services may be subject to additional guidelines, terms, or rules, which will be presented through the Services in connection with such features (for example, additional terms of service for Kasa Care). You must review and agree to the additional guidelines, terms, or rules before using such Services.
 
 ### **Your Acceptance**
 
@@ -79,7 +79,7 @@ TP-Link will consider anything you provide to us and/or contribute to the Servic
 
 You are solely responsible for all content, including, without limitation, reviews, responses, profile entries, posts, questions, videos, images, and audios that you upload, post, email, transmit, or otherwise disseminate using, or in connection with, our Services. You represent and warrant that you have all rights necessary to do so. For some of our Services’ features, other users may be able to request email notifications of your new public content or publish their own comments to your comments. We may use this public content to develop aggregate ratings, personalize site views, market products, identify or feature popular users, protect you, improve our Products and Services, and/or develop new Products and Services. By posting or uploading any content to the Services (including, without limitation, posts, responses, videos, images, and audios) and/or providing any communication or material to TP-Link (collectively, “User Content”), you automatically and irrevocably:
 
-1\. Grant and assign to TP-Link a royalty-free, perpetual, non-exclusive, unrestricted, worldwide license to any and all rights in the User Content including without limitation copyright, together with all consents (if any) necessary to enable its reproduction, distribution, modification, publishing, and/or other exploitation by TP-Link and/or by any person authorized by TP-Link, by any means and in all media now known or hereafter devised, without payment or other reference to you or any other person, and to advertise and promote such exploitation, for the full period of all such rights (together with any extensions and renewals) and insofar as possible in perpetuity;  
+1\. Grant and assign to TP-Link a royalty-free, perpetual, non-exclusive, unrestricted, worldwide license to any and all rights in the User Content including without limitation copyright, together with all consents (if any) necessary to enable its reproduction, distribution, modification, publishing, and/or other exploitation by TP-Link and/or by any person authorized by TP-Link, by any means and in all media now known or hereafter devised, without payment or other references to you or any other person, and to advertise and promote such exploitation, for the full period of all such rights (together with any extensions and renewals) and insofar as possible in perpetuity;  
 2. Waive all moral rights in the User Content which may be available to you in any part of the world and confirm that no such rights have been asserted;  
 3. Appoint TP-Link as your agent with full power to enter into any document and/or do any act TP-Link may consider appropriate to confirm the grant and assignment, consent and waiver set out above;  
 4. Warrant that you have the rights to and are the owner of the User Content and entitled to enter into these Terms;  
@@ -117,17 +117,17 @@ You accept that TP-Link is not responsible for the risks you take associated wit
 
 The Services may link you to other sites on the Internet. These sites may contain information or material that some people may find inappropriate or offensive. These other sites are not under the control of TP-Link, and you acknowledge that (whether or not such sites are affiliated in any way with TP-Link) the TP-Link Group is not responsible for the accuracy, copyright compliance, legality, decency, or any other aspect of the content of such sites. The inclusion of such a link does not imply endorsement of any site by TP-Link Group or any association with its operators.
 
-TP-Link cannot ensure that you will be satisfied with any products or services that you purchase from any third-party site that links to or from TP-Link since the third-party sites are owned and operated by independent retailers. TP-Link does not endorse any of the merchandise purchased from any third-party site, nor has TP-Link taken any steps to confirm the accuracy or reliability of any of the information contained on such third-party sites. TP-Link does not make any representations or warranties as to the security of any information (including, without limitation, credit card and other personal information) you might be requested to give any third-party, and you irrevocably waive any claim against us with respect to such sites. We strongly encourage you to make whatever investigation you feel necessary or appropriate before proceeding with any online transaction with any of these third-parties.
+TP-Link cannot ensure that you will be satisfied with any products or services that you purchase from any third-party site that links to or from TP-Link since the third-party sites are owned and operated by independent retailers. TP-Link does not endorse any of the merchandise purchased from any third-party site, nor has TP-Link taken any steps to confirm the accuracy or reliability of any of the information contained on such third-party sites. TP-Link does not make any representations or warranties as to the security of any information (including, without limitation, credit card and other personal information) you might be requested to give any third-party, and you irrevocably waive any claim against us with respect to such sites. We strongly encourage you to make whatever investigation you feel necessary or appropriate before proceeding with any online transaction with any of these third parties.
 
 ### **Termination**
 
 You are free to stop using the Services at any time. You understand and agree that we may or may not delete your User Content in the event that you stop using the Services. At any time, TP-Link may (a) suspend or terminate your rights to access or use the Services if TP-Link in good faith believes that you have used the Services in violation of these Terms, including any incorporated guidelines, terms, or rules. If you transfer a Product to a new owner, your right to use the Services with respect to that Product automatically terminates. The new owner will have no right to use the Product or Services under your account and will need to register for a separate account with TP-Link unless the new owner already has an account with TP-Link that can be connected to that Product or Service.
 
-In the event that we elect to terminate your account, we will try to provide advance notice to you prior to termination so that you are able to retrieve any important User Content stored in your account. You understand and agree that we may provide no advanced notice for any reason, but usually because it would be impractical, illegal, not in the interest of someone's safety or security, or otherwise harmful to the rights or property of TP-Link.
+In the event that we elect to terminate your account, we will try to provide advance notice to you prior to termination so that you are able to retrieve any important User Content stored in your account. You understand and agree that we may provide no advanced notice for any reason, but usually, because it would be impractical, illegal, not in the interest of someone's safety or security, or otherwise harmful to the rights or property of TP-Link.
 
 ### **Product Specifications, Pricing, Typographical Errors**
 
-We do our best to describe every product or service offered on the Services as accurately as possible. However, we are human, and therefore we do not warrant that product specifications, pricing, or other content on the Services is complete, accurate, reliable, current, or error-free. In the event of any errors relating to the pricing or specifications, TP-Link shall have the right to refuse or cancel any orders in its sole discretion. If we charged your credit card or other account prior to cancellation, we will issue a credit to your account in the amount of the charge. Additional Terms may apply.
+We do our best to describe every product or service offered on the Services as accurately as possible. However, we are human, and therefore we do not warrant that product specification, pricing, or other content on the Services is complete, accurate, reliable, current, or error-free. In the event of any errors relating to the pricing or specifications, TP-Link shall have the right to refuse or cancel any orders at its sole discretion. If we charged your credit card or other accounts prior to cancellation, we will issue a credit to your account in the amount of the charge. Additional Terms may apply.
 
 ### **Security**
 
@@ -161,7 +161,7 @@ We shall have no liability to you for any breach of these Terms caused by any ev
 
 YOU ACKNOWLEDGE AND AGREE THAT YOUR USE OF THE SERVICES (INCLUDING, WITHOUT LIMITATION, USING THE SERVICES TO SECURE OR OTHERWISE CONTROL ACCESS TO ANY REAL OR PERSONAL PROPERTY) IS SOLELY AT YOUR OWN RISK, AND THAT YOU ACCEPT RESPONSIBILITY FOR ALL LOSSES, DAMAGES, AND EXPENSES ARISING OUT OF SUCH USE. TP-LINK IS NOT AN INSURER. YOU ARE RESPONSIBLE FOR MAINTAINING INSURANCE COVERING ALL LOSS, DAMAGE, OR EXPENSE, WHETHER FOR PROPERTY DAMAGE, PERSONAL INJURY (INCLUDING DEATH), ECONOMIC LOSSES, OR ANY OTHER FORM OF LOSS, DAMAGE, OR EXPENSE ARISING OUT OF OR FROM (I) THESE TERMS, OR (II) THE SERVICES.
 
-TP-Link is or may be the seller of various goods and services available on the Services. All items purchased from the Services are made pursuant to a shipment contract. This means that the risk of loss and title for such items pass to you upon TP-Link’s delivery to the carrier.
+TP-Link is or maybe the seller of various goods and services available on the Services. All items purchased from the Services are made pursuant to a shipment contract. This means that the risk of loss and title for such items pass to you upon TP-Link’s delivery to the carrier.
 
 ### **Indemnity**
 
@@ -220,3 +220,28 @@ We will try to resolve any disputes with you quickly and efficiently. If you are
 Please forward any comments, complaints about the Services or questions you may have to [support@tp-link.com](http://support@tp-link.com/)
 
 _**Effective Date: Sep 1, 2019.**_
+
+User Experience Improvement Program (UEIP)
+------------------------------------------
+
+Dear users of TP-Link products,
+
+Providing products beyond user expectations has always been the goal pursued by TP-Link Corporation Limited (TP-Link). To help us optimally meet your needs, improve product quality and services, TP-Link sincerely invites you to participate in our User Experience Improvement Program (UEIP), and we kindly ask you to read the following statement. Giving consent to participate in our UEIP means that you have carefully read and completely agree to this statement (children under the age of 18 should read in the company with their parents). TP-Link reminds you, as the products improve, this statement may be subject to changes from time to time. Upon any changes, we shall display them in a prominent position on the products or relevant pages to inform you. If you do not accept the changes, you have the right to opt out of the UEIP at any time, and remaining in the program will be seen as consent to such changes.
+
+### **Information Collection**
+
+Users participating in the program only send the following data to the TP-Link Server:
+
+(1) General information of the product, including device model, software version, system information, etc.
+
+(2) The usage status of the product functions. We aim to collect the specific usage status of the functions to understand the importance of each function, so as to adjust the priority of research and development. For example, the use frequency of each functional module and taps on pages all help us optimally improve the products.
+
+The collected information in the program will not relate to your personal identity, including your name, gender, age, address, personal email, phone number, username, password, etc. We fully respect your privacy, and for more information, please refer to our Privacy Policy.
+
+### **Information Usage**
+
+TP-Link hereby promises that we abide by relevant national laws and regulations. We will hold the collected information under strict confidentiality, and only use them for the improvement of products and services. The information will not be disclosed to any third-party companies that are irrelevant to the above purpose.
+
+### **Participating in and opting out of the program**
+
+Users can voluntarily enable or disable the function in the “Advanced-System-User Experience Improvement Program”. Enabling the function means you choose to participate in the TP-Link UEIP; while disabling the function means you opt out of the program.
