@@ -3,7 +3,7 @@ Vinted - Data Protection Statement
 **Vinted – Privacy Policy**
 ===========================
 
-_Date last updated: 2021-05-04_
+_Date last updated: 2021-05-07_
 
 **1\. General**
 ===============
@@ -1540,7 +1540,9 @@ Sure. You may use an authorized agent to submit a request to opt-out on your beh
 
 If you have any queries regarding the collection and use of your data as part of your use of the Platform, or regarding your rights, please contact our data protection officer at
 
-If you use our .fr, .it, .be or .lu Platform: [dpo@vinted.fr](mailto:dpo@vinted.fr)
+If you use our .fr, .be or .lu Platform: [dpo@vinted.fr](mailto:dpo@vinted.fr)
+
+If you use our .it Platform: [dpo@vinted.es](mailto:dpo@vinted.lt)
 
 If you use our .es Platform: [dpo@vinted.es](mailto:dpo@vinted.lt)
 
