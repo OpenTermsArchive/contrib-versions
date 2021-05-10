@@ -673,7 +673,7 @@ _Article 9 : GARANTIES_
 
 **9.1 Les Garanties Légales**
 
-Pour les produits directement vendus par Cdiscount (à l’exclusion des produits vendus par les vendeurs inscrits sur la Marketplace de Cdiscount), Cdiscount est tenue des défauts de conformité du bien au contrat dans les conditions de [l'article L. 211-4 et suivants](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006069565&idArticle=LEGIARTI000006292208&dateTexte=&categorieLien=cid) du Code de la consommation et des défauts cachés de la chose vendue dans les conditions prévues aux [articles 1641 et suivants](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006070721&idArticle=LEGIARTI000006441924&dateTexte=&categorieLien=cid) du code civil. S’agissant de la garantie des vices cachés, le consommateur peut décider de mettre en œuvre cette garantie au sens de l’article 1641 du code civil et, dans cette hypothèse, il peut choisir entre la résolution de la vente ou une réduction du prix de vente conformément à l’article 1644 du code civil.
+Pour les produits directement vendus par Cdiscount (à l’exclusion des produits vendus par les vendeurs inscrits sur la Marketplace de Cdiscount), Cdiscount est tenue des défauts de conformité du bien au contrat dans les conditions de [l'article L. 217-4 et suivants](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006069565&idArticle=LEGIARTI000006292208&dateTexte=&categorieLien=cid) du Code de la consommation et des défauts cachés de la chose vendue dans les conditions prévues aux [articles 1641 et suivants](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006070721&idArticle=LEGIARTI000006441924&dateTexte=&categorieLien=cid) du code civil. S’agissant de la garantie des vices cachés, le consommateur peut décider de mettre en œuvre cette garantie au sens de l’article 1641 du code civil et, dans cette hypothèse, il peut choisir entre la résolution de la vente ou une réduction du prix de vente conformément à l’article 1644 du code civil.
 
 **Attention, pour les produits achetés auprès d’un vendeur de la Marketplace, vous devez vous rapprocher du vendeur concerné pour exercer vos droits, CDISCOUNT ne pouvant se substituer au vendeur.** 
 
@@ -730,7 +730,7 @@ Ainsi, vous pourrez être amenés :
 \- Soit à appliquer la procédure qui vous sera directement communiquée par le fabricant du produit.
 
   
-Dans tous les cas, à défaut de panne constatée ou en cas d’utilisation anormale de votre produit (notamment, sans que cette liste soit exhaustive : produit cassé, oxydation, utilisation non conforme aux recommandations du fabricant ou à la destination du produit), nous ne procèderons ni à la réparation, ni à l’échange du produit ; nous serons en outre susceptibles de vous facturer les frais de déplacement et de main d’œuvre occasionnés.
+Dans tous les cas, à défaut de panne constatée ou en cas d’utilisation anormale de votre produit (notamment, sans que cette liste soit exhaustive : produit cassé, oxydation, utilisation non conforme aux recommandations du fabricant ou à la destination du produit), nous ne procèderons ni à la réparation, ni à l’échange du produit ; nous serons en outre susceptibles de vous facturer les frais de déplacement et de main d’œuvre occasionnés.  
 
 **Reproduction des dispositions légales :**
 
@@ -767,6 +767,8 @@ Le vendeur est tenu de la garantie à raison des défauts cachés de la chose ve
 **Article 1648 alinéa 1er du Code Civil** 
 
 L’action résultant des vices rédhibitoires doit être intentée par l’acheteur dans un délai de 2 ans à compter de la découverte du vice. 
+
+  
 
 **9.2 Les Garanties contractuelles**
 
