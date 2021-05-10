@@ -12,9 +12,7 @@ In event of dispute, account ownership is determined as follows: If a paid accou
 #### Freedom of discussion and personal attacks
 
 *   LibraryThing prohibits all personal attacks on members. As [Wikipedia's](http://en.wikipedia.org/wiki/Wikipedia:No_personal_attacks) policy states, "Comment on content, not on the contributor."
-*   Personal attacks are attacks on a person. To dispute or disparage someone's words is not a personal attack. It is the line between "You are a liar" and "Your recent post was a lie." The former is a violation of the TOS. The latter is not.
-*   Personal attacks include name-calling. Name-calling is not restricted to pure insults (e.g., "asshole"), but also ones that imply both a personal and a content problem (e.g., "liar," "Nazi").
-*   LibraryThing has no speech code per se. You can dispute ideas and words without limitation.
+*   LibraryThing has no speech code. You can dispute ideas and words without limitation.
 
 #### Good advice
 
