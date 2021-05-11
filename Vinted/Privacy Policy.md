@@ -1542,7 +1542,7 @@ If you have any queries regarding the collection and use of your data as part of
 
 If you use our .fr, .be or .lu Platform: [dpo@vinted.fr](mailto:dpo@vinted.fr)
 
-If you use our .it Platform: [dpo@vinted.es](mailto:dpo@vinted.lt)
+If you use our .it Platform: [dpo@vinted.it](mailto:dpo@vinted.lt)
 
 If you use our .es Platform: [dpo@vinted.es](mailto:dpo@vinted.lt)
 
