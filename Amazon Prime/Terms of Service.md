@@ -1,7 +1,7 @@
 Amazon Prime Terms & Conditions
 ===============================
 
-Last updated June 30, 2020
+Last updated May 11, 2021
 
 Welcome to the terms and conditions ("**Terms**") for Amazon Prime. These Terms are between you and Amazon.com Services LLC and/or its affiliates ("**Amazon.com**" or "**Us**") and govern our respective rights and obligations. Please note that your use of the Amazon.com website and Prime membership are also governed by the agreements listed and linked to below, as well as all other applicable terms, conditions, limitations, and requirements on the Amazon.com website, all of which (as changed over time) are incorporated into these Terms. If you sign up for a Prime membership, you accept these terms, conditions, limitations and requirements.
 
@@ -42,7 +42,7 @@ Other Limitations
 Fees and Renewal
 ----------------
 
-The membership fee for Prime is stated in the [Prime section](https://www.amazon.com/gp/help/customer/display.html?nodeId=200966690) of our Help pages. From time to time, we may offer different membership terms, and the fees for such membership may vary. The Prime membership fee is non-refundable except as expressly set forth in these Terms. Taxes may apply on either or both of the membership fee and the reduced shipping charges for Prime.
+The membership fee for Prime is stated in the [Prime section](https://www.amazon.com/GP/HELP/CUSTOMER/DISPLAY.HTML?NODEID=200966690) of our Help pages. From time to time, we may offer different membership terms, and the fees for such membership may vary. The Prime membership fee is non-refundable except as expressly set forth in these Terms. Taxes may apply on either or both of the membership fee and the reduced shipping charges for Prime.
 
 If you sign up for your Prime membership through us and are billed by us, then the billing terms described below will apply to your membership.
 
@@ -57,7 +57,7 @@ Promotional Trial and Qualification-Based Memberships
 
 We sometimes offer certain customers various trial or other promotional memberships, which are subject to these Terms except as otherwise stated in the promotional offers. Trial members may at any time (through Your Account) choose not to continue to paid membership at the end of the trial period.
 
-If you sign up for a qualification-based Prime membership (including but not limited to Prime Student and Prime for qualifying customers with an EBT or Medicaid card), you will receive certain Prime benefits for the reduced rate specified in the [Prime section](https://www.amazon.com/gp/help/customer/display.html?nodeId=200966690) of our Help page. To sign up for and use a qualification-based Prime membership, you must meet the eligibility conditions described on the applicable enrollment page and provide any required documentation.
+If you sign up for a qualification-based Prime membership (including but not limited to Prime Student and Prime for [qualifying EBT and government assistance recipients](https://www.amazon.com/gp/help/customer/display.html/?nodeId=G54BETR9USUZFZW5)), you will receive certain Prime benefits for the reduced rate specified in the [Prime section](https://www.amazon.com/GP/HELP/CUSTOMER/DISPLAY.HTML?NODEID=200966690) of our Help page. To sign up for and use a qualification-based Prime membership, you must meet the eligibility conditions described on the applicable enrollment page and provide any required documentation.
 
 Agreement Changes
 -----------------
@@ -77,10 +77,4 @@ IN ADDITION TO OTHER LIMITATIONS AND EXCLUSIONS IN AMAZON.COM'S [CONDITIONS OF U
 Disputes
 --------
 
-**Any dispute or claim relating in any way to these Terms or your use of Prime, or to any products or services sold or distributed by Amazon or through Amazon.com will be resolved by binding arbitration, rather than in court,** except that you may assert claims in small claims court if your claims qualify. The Federal Arbitration Act and federal arbitration law apply to this agreement.
-
-**There is no judge or jury in arbitration, and court review of an arbitration award is limited. However, an arbitrator can award on an individual basis the same damages and relief as a court (including injunctive and declaratory relief or statutory damages), and must follow the terms of these Conditions of Use as a court would.**
-
-To begin an arbitration proceeding, you must send a letter requesting arbitration and describing your claim to our registered agent Corporation Service Company, 300 Deschutes Way SW, Suite 304, Tumwater, WA 98501. The arbitration will be conducted by the American Arbitration Association (AAA) under its rules, including the AAA's Supplementary Procedures for Consumer-Related Disputes. The AAA's rules are available at www.adr.org or by calling 1-800-778-7879. Payment of all filing, administration and arbitrator fees will be governed by the AAA's rules. We will reimburse those fees for claims totaling less than $10,000 unless the arbitrator determines the claims are frivolous. Likewise, Amazon will not seek attorneys' fees and costs in arbitration unless the arbitrator determines the claims are frivolous. You may choose to have the arbitration conducted by telephone, based on written submissions, or in person in the county where you live or at another mutually agreed location.
-
-**We each agree that any dispute resolution proceedings will be conducted only on an individual basis and not in a class, consolidated or representative action.** If for any reason a claim proceeds in court rather than in arbitration we each waive any right to a jury trial. We also both agree that you or we may bring suit in court to enjoin infringement or other misuse of intellectual property rights.
+Any dispute or claim relating in any way to these Terms or your use of Prime will be adjudicated in the state or Federal courts in King County, Washington, and you consent to exclusive jurisdiction and venue in these courts. We each waive any right to a jury trial.
