@@ -1525,7 +1525,7 @@ You have a right to request the deletion of your personal data collected and mai
 
 ### **6.4. What is my Right to Opt-Out of sharing my personal data with ad partners?**
 
-We provide Usage Data to advertising partners, which enables us to provide you with interest-based advertising. For more information on interest-based advertising, please see our [Cookie Policy](https://www.vinted.com/cookie-policy). You have a right to direct us to stop sharing your personal data with our [ad partners](https://www.vinted.com/third-party-ads), and to refrain from doing so in the future. If you wish to do so, please adjust the settings accordingly by going to our [Cookie Policy](https://www.vinted.com/cookie-policy).
+We provide Usage Data to advertising partners, which enables us to provide you with interest-based advertising. For more information on interest-based advertising, please see our [Cookie Policy](https://www.vinted.com/cookie-policy). You have a right to direct us to stop sharing your personal data with our ad partners, and to refrain from doing so in the future. If you wish to do so, please adjust the settings accordingly by going to our [Cookie Policy](https://www.vinted.com/cookie-policy).
 
 ### **6.5. How will you verify my request?**
 
