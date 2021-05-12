@@ -63,7 +63,7 @@ iEntry Network or WebProNews.com’s failure to insist upon or enforce strict pe
 
 ### Contact Info
 
-Please send notices by care of email to _su[\[email protected\]](https://www.webpronews.com/cdn-cgi/l/email-protection)_ or reach us at our physical mailing address or by telephone.
+Please send notices by care of email to _[\[email protected\]](https://www.webpronews.com/cdn-cgi/l/email-protection)_ or reach us at our physical mailing address or by telephone.
 
 iEntry, Inc.
 
