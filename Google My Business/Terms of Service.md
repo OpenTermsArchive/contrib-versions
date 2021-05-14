@@ -9,6 +9,8 @@ Please read each of these documents carefully. Together, these documents are kno
 
 If these Google My Business Additional Terms conflict with [the Google Terms of Service](https://policies.google.com/terms), these Google My Business Additional Terms will govern for the Google My Business Services. 
 
+**Important:** As a precaution in light of COVID-19, we're operating with a limited team. It may take longer than usual to connect with us. We recommend our [Help Community](https://support.google.com/business/community) and [YouTube Channel](https://www.youtube.com/c/GoogleMyBusinessHelp/featured). Thank you for your patience.
+
 What we expect from you
 -----------------------
 
