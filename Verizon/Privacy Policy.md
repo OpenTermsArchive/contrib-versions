@@ -424,7 +424,7 @@ Open all Close all
     
     The program uses:
     
-    *    information about how you use your mobile device (such as web browsing, device location, and app/feature use)
+    *   information about how you use your mobile device (such as web browsing, device location, and app/feature use)
     *   certain information about your Verizon products and services (such as device type and amount of use)
     *   demographic and interest information you provide or that we or Verizon Media obtain from other companies (such as gender, age range and interests)
     *   location and point of interest information that Verizon Media collects, purchases or develops
@@ -435,14 +435,6 @@ Open all Close all
     Business And Marketing Insights
     
     Insights are observations about groups of people that can be used to better understand consumer actions. For example, we may create insights about the number of customers in different age groups who visit a website, use an app, or go to a retail store or stadium. We also can develop insights to help estimate traffic patterns about people who move from one area to another during the morning rush hour.
-    
-    This program also may share location information with others in a way that does not personally identify you to develop additional aggregate insights, such as traffic reports. The Business and Marketing Insights program may continue to use Verizon Media data to create insights even if you opt out of the use of Verizon information. Additional details about Verizon Media information used for this program can be found in [Verizon Media’s Privacy Policy.](https://www.verizonmedia.com/policies/in/en/verizonmedia/privacy/index.html)
-    
-    Verizon, Verizon Media and third-party information
-    
-    This includes information about how you use your mobile device (such as web browsing, device location, and app/feature use), certain information about your Verizon products and services (such as device type and amount of use), and demographic and interest information you provide or we obtain from other companies (such as gender, age range and interests). We may also use information about your use of Verizon Media services (such as email, search, sites and apps) and visits to third party sites and apps that include Verizon Media services (such as web browsing, app usage and location) as well as information Verizon Media obtains from third-party partners.
-    
-    The Insights program may also use information provided by business and marketing clients who want insights related to their own businesses.  
     
     ### The Verizon Selects program helps personalize content and ads you see.
     
@@ -533,7 +525,7 @@ Open all Close all
     Update your preferences at the [Verizon Selects Preference Center](https://myvpostpay.verizonwireless.com/vzw/secure/mcm/mcmDisplayPreferences.action).
     
     **Business and Marketing Insights program**  
-    Account owners can update preferences for each line on their account using the [privacy choices page in My Verizon](http://verizonwireless.com/myprivacy) or in the My Verizon app; or by calling 1-866-211-0874. You will need to make changes for each line on your account. Please note that Verizon Media may continue to use its data to create aggregate insights even if you opt out of this Verizon program.
+    Account owners can update preferences for each line on their account using the [privacy choices page in My Verizon](http://verizonwireless.com/myprivacy) or in the My Verizon app; or by calling 1-866-211-0874. Please note that Verizon Media may continue to use its data to create aggregate insights even if you opt out of this Verizon program.
     
     **Identity Verification service**  
     If you do not want your information shared with third parties for the purpose of verifying your identity, you can go online to My Verizon -> My Profile -> Privacy Settings. If you opt out, your information will not be sent to companies who participate in this program.
