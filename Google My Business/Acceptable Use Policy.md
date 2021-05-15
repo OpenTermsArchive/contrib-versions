@@ -3,6 +3,8 @@ Guidelines for representing your business on Google
 
 **Summary:** Business Profiles on Google My Business can only be created for businesses that either have a physical location that customers can visit, or that travel to visit customers where they are. Creating a successful Business Profile that won’t be suspended requires avoiding [prohibited content](https://support.google.com/business/answer/3038177#illegal), accurately reflecting your business, and complying with the rest of the policies below.
 
+**Important:** As a precaution in light of COVID-19, we're operating with a limited team. It may take longer than usual to connect with us. We recommend our [Help Community](https://support.google.com/business/community) and [YouTube Channel](https://www.youtube.com/c/GoogleMyBusinessHelp/featured). Thank you for your patience.
+
 We've come up with a list of guidelines for local businesses to maintain high quality information on Google. Following these guidelines helps to avoid common problems, including changes to your information or, in some cases, removal of your business information from Google.
 
 For best results using Google My Business:
