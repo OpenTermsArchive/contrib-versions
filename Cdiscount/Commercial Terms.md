@@ -1804,7 +1804,7 @@ Nonobstant la clause de réserve de propriété, et à compter du transfert des 
    
 5.3.3. Dans les autres cas, l’application de pénalités suppose que Cdiscount ait été en mesure de contrôler la réalité des griefs qui lui sont reprochés par le Client Pro. En conséquence, aucune pénalité ne saurait être appliquée de manière unilatérale et non contradictoire par le Client Pro. Toute compensation avec une somme due par le Client Pro à Cdiscount suppose, en outre, que Cdiscount ait expressément reconnu, par écrit et préalablement, la réalité du grief justifiant l’application des pénalités.  
    
-5.3.4. En tout état de cause, l’application de pénalités ne saurait revétir un caractère purement forfaitaire et prédéterminé. En effet, toute pénalité doit refléter la réalité du préjudice effectivement subi par le Client Pro et ne pourra porter que sur les Produits non-livrés (pour lesquels le Client Pro a clairement démontré avoir subi un préjudice) et non sur la totalité de la commande.  
+5.3.4. En tout état de cause, l’application de pénalités ne saurait revêtir un caractère purement forfaitaire et prédéterminé. En effet, toute pénalité doit refléter la réalité du préjudice effectivement subi par le Client Pro et ne pourra porter que sur les Produits non-livrés (pour lesquels le Client Pro a clairement démontré avoir subi un préjudice) et non sur la totalité de la commande.  
   
 5.3.5. Tout refus de livraison opéré unilatéralement par le Client, sans respect des stipulations de l’article 7, pour des raisons non imputables à Cdiscount et non liées, notamment, à un problème de retard de livraison, de qualité etc., engagera la responsabilité du Client Pro vis-à-vis de Cdiscount.  
   
