@@ -68,3 +68,9 @@ Flash cookies operate differently than browser cookies, and cookie management to
 Your mobile device may allow you to control cookies through its settings function. Refer to your device manufacturer’s instructions for more information.
 
 If you choose to decline cookies, some parts of the Airbnb Platform may not work as intended or may not work at all.
+
+Did you get the help you needed?
+
+Yes
+
+No
