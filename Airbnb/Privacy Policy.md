@@ -246,3 +246,9 @@ We reserve the right to modify this Privacy Policy at any time in accordance wit
 For questions or complaints about this Privacy Policy or Airbnb’s handling of personal information (i) If you reside in the United States contact Airbnb, Inc., Legal Privacy, 888 Brannan Street, San Francisco, CA 94103 USA; (ii) for payments related matter please use the contact information provided in the [Payments Terms of Service](https://www.airbnb.co.uk/terms/payments_terms) page, and (iii) if you reside outside the United States, please use the contact information for your controller provided in the [Outside of the United States](https://www.airbnb.co.uk/terms/outside_us) page.
 
 Review the [previous version of this page](https://www.airbnb.co.uk/help/article/2859/).
+
+Did you get the help you needed?
+
+Yes
+
+No
