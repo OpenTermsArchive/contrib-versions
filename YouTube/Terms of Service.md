@@ -1,6 +1,12 @@
 Terms of Service
 ================
 
+On June 1, 2021, we will update the YouTube Terms of Service to explicitly prohibit the collection of any information that might identify a person without their permission and clarify how we monetize Content on the Service:
+
+#### Right to Monetize
+
+You grant to YouTube the right to monetize your Content on the Service (and such monetization may include displaying ads on or within Content or charging users a fee for access). This Agreement does not entitle you to any payments. Starting June 1, 2021, any payments you may be entitled to receive from YouTube under any other agreement between you and YouTube (including for example payments under the YouTube Partner Program, Channel memberships or Super Chat) will be treated as royalties. If required by law, Google will withhold taxes from such payments.
+
 **What’s in these Terms?**
 ==========================
 
@@ -53,8 +59,6 @@ Dated: March 17, 2021
 
 **Welcome to YouTube!**
 =======================
-
-We have updated our Terms of Service on March 17, 2021 to clarify how children of all ages may use the Service if enabled by a parent or legal guardian.
 
 English Courtesy Translation
 
