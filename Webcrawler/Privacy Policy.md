@@ -29,7 +29,6 @@ Our Services are not intended for use by children under 13 years of age. No one 
 
 Attn: Privacy Officer  
 1401 Main Street  
-Suite 101  
 Venice, CA 90291
 
 ### Information We Collect About You and How We Collect It
@@ -237,5 +236,4 @@ It is our policy to post any changes we make to our Policy on this page. If we m
 To ask questions or comment about this Policy and our privacy practices, contact us at:  
 Attn: Privacy Officer  
 1401 Main Street  
-Suite 101  
 Venice, CA 90291
