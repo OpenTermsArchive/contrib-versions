@@ -28,7 +28,7 @@ System1 is subject to the investigatory and enforcement powers of the Federal Tr
 Our Services are not intended for use by children under 13 years of age. No one under age 13 may provide any information to or through our Services. We do not knowingly collect personal information from children under 13 and do not target our Services to children under the age of 13. If you are under 13, do not use or provide any information through our Services. If we learn we have collected or received personal information from a child under the age of 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under the age of 13, please contact us at:
 
 Attn: Privacy Officer  
-1501 Main Street  
+1401 Main Street  
 Suite 101  
 Venice, CA 90291
 
@@ -236,6 +236,6 @@ It is our policy to post any changes we make to our Policy on this page. If we m
 
 To ask questions or comment about this Policy and our privacy practices, contact us at:  
 Attn: Privacy Officer  
-1501 Main Street  
+1401 Main Street  
 Suite 101  
 Venice, CA 90291
