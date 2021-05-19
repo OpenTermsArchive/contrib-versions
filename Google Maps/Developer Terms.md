@@ -321,6 +321,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   © Infoterra Ltd & Bluesky
             
+        *   The City of Edinburgh Council ([https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/))
+            
+        *   Leeds City Council ([https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/))
+            
     12.  **Greece**
         *   EuroGeographics; Copyright Geomatics Ltd.
             
