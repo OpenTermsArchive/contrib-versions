@@ -7,12 +7,12 @@ We need to curb abuse that threatens our ability to provide these services, and 
 
 When applying these policies, we may make exceptions based on educational, documentary, scientific, or artistic considerations, or where there are other substantial benefits to the public from not taking action on the content. 
 
-Be sure to check back from time to time, as these policies may change. Please also refer to [Google’s Terms of Service](https://policies.google.com/terms?hl=en-US), Privacy Policy, and the terms of service and policies for G Suite services, including Google Drive, Docs, Gmail and Calendar.
+Be sure to check back from time to time, as these policies may change. Please also refer to [Google’s Terms of Service](https://policies.google.com/terms?hl=en-US), Privacy Policy, and the terms of service and policies for Workspace services, including Google Drive, Docs, Gmail and Calendar.
 
 Report abuse
 ------------
 
-If you believe that someone is violating the policies found below, [report abuse](https://support.google.com/edu/classroom/answer/7299017). If you’re a G Suite user, contact your organization administrator to report a violation of these policies.
+If you believe that someone is violating the policies found below, [report abuse](https://support.google.com/edu/classroom/answer/7299017). If you’re a Workspace user, contact your organization administrator to report a violation of these policies.
 
 To report copyright infringement or other legal issues, please use this [tool](https://support.google.com/legal/troubleshooter/1114905) which will guide you through the process of reporting content that you believe warrants removal from Google's services based on applicable laws.
 
@@ -123,4 +123,4 @@ Do not distribute copyrighted content without authorization or provide links to 
 
 User Accounts
 
-Students cannot use this product while at a school with a personal Google account. To use this product with students, schools must sign up for a free [G Suite for Education](https://www.google.com/edu/products/productivity-tools/#how-to) account. If you believe this product is being used at a school with personal accounts, [report](https://support.google.com/edu/classroom/contact/reportclass) the class.
+Students cannot use this product while at a school with a personal Google account. To use this product with students, schools must sign up for a free [Workspace for Education](https://www.google.com/edu/products/productivity-tools/#how-to) account. If you believe this product is being used at a school with personal accounts, [report](https://support.google.com/edu/classroom/contact/reportclass) the class.
