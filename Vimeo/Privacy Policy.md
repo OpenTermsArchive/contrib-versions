@@ -1,7 +1,7 @@
 **Vimeo Privacy Policy**
 ========================
 
-Last Updated: April 15, 2021
+Last Updated: May 21, 2021
 
 This Privacy Policy explains the information that Vimeo collects when you use its products and services, how that information is used, with whom it may be shared, and your privacy choices.
 
@@ -26,7 +26,7 @@ This Privacy Policy explains the information that Vimeo collects when you use it
 
 ### **Who we are and what we do**
 
-This Privacy Policy covers Vimeo, Inc. (collectively, “Vimeo,” “we” “us” or “our”). We provide online video hosting, sharing and related services through our owned-and-operated websites, including Vimeo.com and Livestream.com, our branded applications for mobile and connected devices, and our embeddable video players (collectively, the “services”).
+This Privacy Policy covers Vimeo.com, Inc. (collectively, “Vimeo,” “we” “us” or “our”). We provide online video hosting, sharing and related services through our owned-and-operated websites, including Vimeo.com and Livestream.com, our branded applications for mobile and connected devices, and our embeddable video players (collectively, the “services”).
 
 ### **Acceptance and Changes**
 
@@ -268,7 +268,7 @@ Nevada residents have the right to opt out of the sale of certain "covered infor
 
 For any questions, inquiries, or complaints relating to your privacy, please contact us at:
 
-**_Vimeo, Inc._**
+**_Vimeo.com, Inc._**
 
 _Attention: Data Protection Officer_
 
