@@ -130,6 +130,10 @@ What’s an example of when my audio recordings might be shared with third-party
 
 One example of this is how we may offer the option to share audio clips from Nest Cam with your home security service, so that they can help keep your home safe.
 
+#### 
+
+Home sensors
+
 Some of our devices include sensors that detect information about your home’s environment and what’s happening in it, such as motion, whether someone is home, ambient light, temperature and humidity. These sensors serve a variety of purposes, such as helping your home take better care of you – like when your Nest Learning Thermostat turns itself down when you’re away – and helping us make your devices and services better.
 
   
