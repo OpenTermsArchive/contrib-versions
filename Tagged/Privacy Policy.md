@@ -1,13 +1,13 @@
 PRIVACY POLICY
 --------------
 
-Updated as of December 31, 2019
+Updated as of May 24, 2021
 
 TAGGED AND HI5 (collectively, the “Services”) are owned and operated by The Meet Group, Inc. If you have any questions or comments about this Privacy Policy, please contact us at [support@themeetgroup.com](mailto:support@themeetgroup.com) or [here](https://www.themeetgroup.com/contact-us/). This Privacy Policy is applicable to all of our Services unless otherwise noted.
 
 By downloading or using any of our Services you agree to this Privacy Policy and the applicable Terms of Service (for Tagged, click [here](https://www.tagged.com/terms_of_service.html); and for Hi5, click [here](https://www.hi5.com/terms_of_service.html)).
 
-When you create a profile on one of our Services, your personal information may be visible also to users of our other Services, and other applications we own, such as Flurv, Boy Ahoy and others. You may opt out of this feature in your Settings tab.
+When you create a profile on one of our Services, your personal information may be visible also to users of our other Services, and other applications we own and other applications and websites not owned by us with which we share our live platform. For a list of our current live partners, click [here](https://talent.tagged.com/partner-policy-tagged.html).
 
 If you are under the age of 18, you may not download or use Tagged or Hi5. We do not knowingly collect, maintain, or sell information from minors under 18. We do not knowingly collect, maintain, or sell personal information from children under age 13.
 
@@ -17,7 +17,7 @@ Parents: If your child is under the age of 13 and has joined any of the Services
 
 This Privacy Policy describes how our mobile applications, websites and products collect, store, use, and share your personal information. It also describes how you can control and protect your privacy on our Services.
 
-This Privacy Policy does _not_ apply to the practices of companies that we do not own or control, such as companies that advertise on our Services. For example, companies that advertise on our Services may tag your device or computer with cookies. We do not control these third party cookies and their privacy policies may differ from ours.
+This Privacy Policy does _not_ apply to the practices of companies that we do not own or control, such as companies that advertise on our Services or companies with whom we partner for certain services. For example, companies that advertise on our Services may tag your device or computer with cookies. We do not control these third party cookies and their privacy policies may differ from ours.
 
 ### II. Controlling and Protecting Your Privacy
 
