@@ -126,22 +126,48 @@ Premium Services may be provided as automatically-renewing subscriptions (e.g., 
 
 If you purchased Premium Services or a subscription directly from Badoo Group, you may change your Premium Payment Method via the payment settings option under your profile. If you purchased a subscription directly from Badoo Group or the Google Play Store and you would like to cancel your subscription, you may do this following the instructions in the App – cancelling your Premium Payment Method **DOES NOT** cancel the subscription. If you purchased a subscription through the Apple App Store, you will need to access your account with Apple and follow instructions to change or cancel your subscription. If you cancel your subscription, you may use your subscription until the end of the period you last paid for, but your subscription will not be renewed when that period expires and you will then no longer be able to use the Premium Services enabled by your subscription.
 
+### When can I seek a refund?
+
+Generally, all charges for purchases are nonrefundable, and there are no refunds or credits for partially used periods.
+
+For subscribers residing in Arizona, California, Connecticut, Illinois, Iowa, Minnesota, New York, North Carolina, Ohio, Rhode Island and Wisconsin, the terms below apply:
+
+You may cancel your subscription, without penalty or obligation, at any time prior to midnight of the third business day following the date you subscribed. In the event that you die before the end of your subscription period, your estate shall be entitled to a refund of that portion of any payment you had made for your subscription which is allocable to the period after your death. In the event that you become disabled (such that you are unable to use the services of Badoo) before the end of your subscription period, you shall be entitled to a refund of that portion of any payment you had made for your subscription which is allocable to the period after your disability by providing the company notice in the same manner as you request a refund as described below.
+
+To request a refund:
+
+If you subscribed using your Apple ID, refunds are handled by Apple, not Badoo. To request a refund, go to iTunes, click on your Apple ID, select “Purchase history,” find the transaction and hit “Report Problem”. You can also submit a request at [https://getsupport.apple.com.](https://getsupport.apple.com/)
+
+If you subscribed using your Google Play Store account or through Badoo directly: please contact [customer support](https://badoo.com/help/) with your order number for the Google Play Store (you can find the order number in the order confirmation email or by logging in to Google Wallet). You may also mail or deliver a signed and dated notice which states that you, the buyer, are cancelling this agreement, or words of similar effect. Please also include the email address or mobile number associated with your account along with your order number. This notice shall be sent to: Badoo, Attn.: Cancellations, P.O. Box 300940, Austin, Texas, 78703 (in addition, California and Ohio members may send a facsimile to 512-696-1545).
+
+### Can I transfer any of my Premium Services or Credits to another Badoo user?
+
+The Premium Services and Credits are not transferable, whether for free or as a sale or barter transaction, and Badoo does not recognise any purported transfers of Premium Services or Credits. Accordingly, you may not trade, sell, gift or attempt to sell any Premium Services or Credits for value of any kind. Any such transfer or attempted transfer is prohibited and void, and will subject your account to termination.
+
 ### Do my credits last forever?
 
 No. Unused Credits expire 6 months after the date of purchase (unless the credits are purchased through the Apple App Store). If you delete your account or if your account is terminated by us due to breach of these Terms, you will lose any accumulated credits. If you receive free or promotional credits, we may expire them at any time. Credits are not redeemable for any sum of money or monetary value from us unless we agree otherwise in writing.
+
+### Do sales taxes apply?
+
+The payments required under Section 3 of these Terms do not include any Sales Tax that may be due in connection with the Premium Services provided under these Terms. If Badoo Group determines it has a legal obligation to collect a Sales Tax from you, Badoo Group shall collect such Sales Tax in addition to the payments required under Section 3 of these Terms. If any Premium Services, or payments for any Premium Services, under these Terms are subject to any Sales Tax in any jurisdiction and you have not remitted the applicable Sales Tax to Badoo Group, you will be responsible for the payment of such Sales Tax and any related penalties or interest to the relevant tax authority, and you will indemnify Badoo Group for any liability or expense Badoo Group may incur in connection with such Sales Taxes. Upon Badoo Group’s request, you will provide us with official receipts issued by the appropriate taxing authority, or other such evidence that you have paid all applicable taxes. For purposes of this section, “Sales Tax” shall mean any sales or use tax and any other tax measured by sales proceeds that is the functional equivalent of a sales tax where the applicable taxing jurisdiction does not otherwise impose a sales or use tax.
+
+### What about withholding taxes?
+
+You agree to make all payments of fees to Badoo Group free and clear of, and without reduction for, any withholding taxes. Any such taxes imposed on payments of fees to Badoo Group will be your sole responsibility, and you will provide Badoo Group with official receipts issued by the appropriate taxing authority, or such other evidence as we may reasonably request, to establish that such taxes have been paid.
 
 4\. Access to the app and site
 ------------------------------
 
 ### Do you guarantee that Badoo will be up and running at all times?
 
-Unfortunately we can’t guarantee that because sometimes we have to carry out maintenance to the app or site or they may be affected by a fault or circumstances which are outside our control, so Badoo is provided on an “as is” “as available” basis. No warranty is given about the quality, accuracy, functionality, availability or performance of Badoo and we reserve the right to suspend, withdraw, amend, modify or vary the service provided on Badoo without notice and without incurring any liability to you.
+Unfortunately we can’t guarantee that because sometimes we have to carry out maintenance to the app or site or they may be affected by a fault or circumstances which are outside our control, so Badoo is provided on an “as is” “as available” basis. NO WARRANTY IS GIVEN ABOUT THE QUALITY, ACCURACY, FUNCTIONALITY, AVAILABILITY OR PERFORMANCE OF BADOO AND WE RESERVE THE RIGHT TO SUSPEND, WITHDRAW, AMEND, MODIFY OR VARY THE SERVICE PROVIDED ON BADOO WITHOUT NOTICE AND WITHOUT INCURRING ANY LIABILITY TO YOU.
 
-### What about mobile access?
+### What about mobile access and communications with Badoo Group?
 
 You are responsible for making all the necessary arrangements to ensure you can access Badoo (including, but not limited to Internet provider and mobile internet provider fees and, any other charges associated with such access). We shall not be held responsible for any reduced functionality you may encounter as result of or in connection with accessing Badoo through mobile services or any similar service currently known or developed in the future.
 
-By accessing Badoo or agreeing to receive messages or notifications from Badoo through your mobile phone and/or any other connected media device, you accept that you may incur charges from your internet or mobile service provider. We shall not under any circumstances be liable for such charges.
+By entering into these Terms or using Badoo, you agree to receive communications from us, including via e-mail, text message, calls, and push notifications. You agree that texts, calls or prerecorded messages may be generated by automatic telephone dialling systems. Communications from us and our affiliated companies may include but are not limited to: operational communications concerning your account or the use of Badoo. By accessing Badoo or agreeing to receive messages or notifications from Badoo through your mobile phone and/or any other connected media device, you accept that you may incur charges from your internet or mobile service provider. We shall not under any circumstances be liable for such charges. You may opt-out of receiving certain communications by unsubscribing.
 
 ### I’m not registered and I can’t seem to access some Content or features on the app or site. Why is that?
 
@@ -150,27 +176,41 @@ Non-registered users are able to access only that portion of Badoo that is publi
 5\. Termination of use by you
 -----------------------------
 
-### They say that you can have too much of a good thing… what do I do if I want to “unregister” myself from Badoo?
+### What do I do if I want to “unregister” myself from Badoo?
 
-If you have registered on Badoo, you can terminate your registration at any time by going to the ‘Settings’ control on Badoo when you are logged in and choosing the ‘delete profile’ link. We save your profile information in case you later decide to restore your account. Many users deactivate their accounts for temporary reasons and in doing so expect us to maintain their information until they return to Badoo. You will therefore be able to restore your account and your profile in its entirety within 28 days of de-activating it. Once your registration is terminated, we have the right to delete any related Content that you have submitted or uploaded on to Badoo. For further details, please refer to our [Privacy Policy](https://badoo.com/privacy/).
+If you have registered for an account on Badoo, you can terminate your account at any time by going to the ‘Settings’ control on Badoo when you are logged in and choosing the ‘delete profile’ link. We save your profile information in case you later decide to restore your account. Many users deactivate their accounts for temporary reasons and in doing so expect us to maintain their information until they return to Badoo. You will therefore be able to restore your account and your profile in its entirety within 30 days of deactivating it. Once your registration is terminated, we have the right to delete any related Content that you have submitted or uploaded on to Badoo. For further details, please refer to our [Privacy Policy](https://badoo.com/privacy/).
 
-Content that you have uploaded to Badoo, other than your Profile (such as comments or email messages), may still appear on Badoo following termination of your registration.
+### When might Badoo terminate my account?
+
+We reserve the right at our sole discretion to terminate or suspend any Account, or make use of any operational, technological, legal or other means available to enforce the Terms (including without limitation blocking specific IP addresses), at any time without liability and without the need to give you prior notice. Without limiting the foregoing in any way, we expressly reserve the right to terminate or suspend your Account without notice (1) for violating these terms, (2) due to your conduct on the App, or your conduct with other users of the App (including your “offline” conduct), if we, in our sole discretion, determine your conduct was inappropriate or improper, (3) if we or our affiliates, in our or their sole discretion, determine your conduct on other apps operated by our affiliates was inappropriate or improper, or (4) for any reasons whatsoever that we deem, in our sole discretion, justifies termination. If your Account is terminated or suspended, you agree you will not receive a refund for any paid service or features you have already been charged for.
+
+### What happens once my account has been terminated?
+
+Following termination of these Terms and/or your account, the Content that you have uploaded to Badoo, other than your profile (such as comments or email messages), may still appear on Badoo following termination of your registration, although Badoo may delete such information. In addition, termination of these Terms and/or your account includes removal of access to your account, and all related information and Content associated with or inside your account. We reserve the right to enforce all rights in connection with any Content that remains active or otherwise available on Badoo or its services.
+
+All provisions of these Terms, which by their nature should survive, shall survive termination of these Terms, including, without limitation, ownership provisions, warranty disclaimers, dispute resolution provisions, and limitations of liability.
 
 6\. Abuse/Complaints
 --------------------
 
 ### Someone is not obeying the Terms, who do I tell?
 
-You can report any abuse or complain about Content on Badoo by contacting us via [Feedback page](https://badoo.com/feedback/), outlining the abuse and or complaint. You can also report a user directly from a profile, by clicking the ‘Report Abuse’ link on their profile, choosing the reason for the complaint and providing us with any additional information you think fit.
+You can report any abuse or complain about Content on Badoo by contacting us via our [Feedback page](https://badoo.com/feedback/), outlining the abuse and or complaint. You can also report a user directly from a profile, by clicking the ‘Report Abuse’ link on their profile, choosing the reason for the complaint and providing us with any additional information you think fit.
 
-We will always try our best to help resolve any issue that you may encounter with our service. If your complaint or dispute remains unresolved, however, you may be eligible to use the European Commission’s online dispute resolution platform [here](https://webgate.ec.europa.eu/odr/main/index.cfm?event=main.home.chooseLanguage).
+We reserve the right to help attempt to resolve any issue that you may encounter with any other users of our service.
+
+### Are other users vetted?
+
+NO. YOU UNDERSTAND THAT IN THE ORDINARY COURSE OF BADOO’S OPERATIONS, BADOO GROUP DOES NOT CONDUCT CRIMINAL BACKGROUND CHECKS ON ITS USERS OR OTHERWISE REGULARLY INQUIRE INTO THE BACKGROUNDS OF ITS USERS OR ATTEMPT TO VERIFY THE STATEMENTS OF ITS USERS. BADOO GROUP MAKES NO REPRESENTATIONS OR WARRANTIES AS TO THE CONDUCT OF ANY USERS OR THEIR COMPATIBILITY WITH ANY CURRENT OR FUTURE USERS. BADOO GROUP RESERVES THE RIGHT TO CONDUCT ANY CRIMINAL BACKGROUND CHECK OR OTHER SCREENINGS (SUCH AS SEX OFFENDER REGISTER SEARCHES) AT ANY TIME AND TO USE AVAILABLE PUBLIC RECORDS FOR ANY PURPOSE.
+
+You agree to, and hereby do, to the maximum extent permissible under applicable law, release Badoo Group and its affiliates, and their respective officers, directors, employees, agents, representatives and successors from any claims, demands, losses, damages, rights, and actions of any kind, including personal injuries, death and property damage, that either directly or indirectly arises from your interactions with or conduct of other users of Badoo. If you are a California resident, you hereby waive California Civil Code Section 1542, which states, “A general release does not extend to claims that the creditor or releasing party does not know or suspect to exist in his or her favour at the time of executing the release and that, if known by him or her, would have materially affected his or her settlement with the debtor or released party.”
 
 7\. Privacy Policy
 ------------------
 
 ### Do you have guidelines in place about what you can do with my personal data?
 
-We process information in accordance with our [Privacy Policy](https://badoo.com/privacy/) which is incorporated into these Terms and Conditions of Use. Please read the terms of our [Privacy Policy](https://badoo.com/privacy/) prior to using Badoo. By using Badoo, you agree to such processing and you warrant that all data provided by you is true, correct and accurate.
+We process information in accordance with our [Privacy Policy](https://badoo.com/privacy/) which is incorporated into these Terms and Conditions of Use. Please read the terms of our [Privacy Policy](https://badoo.com/privacy/) prior to using Badoo.
 
 8\. Links
 ---------
@@ -184,30 +224,35 @@ Please note that we have no control over the contents of any third party sites o
 9\. Disclaimer of warranties and limitation of liability
 --------------------------------------------------------
 
-### I forgot the rules about conduct on here and now someone is threatening to sue me. Will your lawyers sort it out?
+### I forgot the rules about conduct in these Terms and now someone is threatening to sue me. Will your lawyers sort it out?
 
 No. If you act in a way that upsets other users then you have to be responsible for the consequences. We expressly disclaim any and all responsibility and liability for your conduct or the conduct of any other user of Badoo, and expressly disclaim any liability for Content uploaded by you or by any other user.
 
-### My friend is a lawyer and says that you can’t exclude liability for everything…
+### What about the reliability of Badoo and the information contained on it?
+
+The information and Content contained on Badoo is provided by Badoo Group on an "as is", "as available" basis. BADOO DOES NOT GIVE OR MAKE ANY WARRANTY OR REPRESENTATION OF ANY KIND ABOUT BADOO OR THE INFORMATION CONTAINED ON BADOO, WHETHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. USE OF BADOO AND THE INFORMATION AND CONTENT AVAILABLE ON IT IS AT YOUR SOLE RISK.
+
+Badoo cannot be held responsible for any loss arising from the transmission, use of data, or inaccurate Content posted by users. You are responsible for taking all necessary precautions to ensure that any material you may obtain from Badoo is free of viruses or other harmful components. You accept that Badoo will not be provided uninterrupted or error free, that defects may not be corrected or that Badoo, or the server that makes it available, are free of viruses or bugs, spyware, Trojan horses or any similar malicious software. Badoo is not responsible for any damage to your computer or device hardware, software, or other equipment or technology including, but without limitation damage from any security breach or from any virus, bugs, tampering, fraud, error, omission, interruption, defect, delay in operation or transmission, computer line or network failure or any other technical or other malfunction.
+
+10\. Limitation of Liability
+----------------------------
+
+### My friend is a lawyer and says that you can’t exclude liability for everything...
 
 Nothing in the Terms limits or excludes our liability for:
 
-1.  death or personal injury caused by their proven negligence;
-2.  fraud or fraudulent misrepresentation;or
+1.  death or personal injury caused by our proven negligence;
+2.  our fraud or fraudulent misrepresentation; or
 3.  any liability which cannot be limited or excluded by law.
 
-To the fullest extent permitted by law, Badoo expressly excludes:
+TO THE FULLEST EXTENT PERMITTED BY LAW, BADOO GROUP EXPRESSLY EXCLUDES, DISCLAIMS AND SHALL NOT BE LIABLE FOR:
 
-1.  all conditions, representations, warranties and other terms which might otherwise be implied by statute, common law or the law of equity; and
-2.  any liability incurred by you arising from use of Badoo, its services or these Terms, including without limitation for any claims, charges, demands, damages, liabilities, losses or expenses of whatever nature and howsoever direct, indirect, incidental, special, exemplary, punitive or consequential damages (however arising including negligence), loss of use, loss of data, loss caused by a computer or electronic virus, loss of income or profit, loss of or damage to property, wasted management or office time, breach of contract or claims of third parties or other losses of any kind or character, even if Badoo has been advised of the possibility of such damages or losses, arising out of or in connection with the use of Badoo. This limitation on liability applies to, but is not limited to, the transmission of any disabling device or virus that may infect your equipment, failure or mechanical or electrical equipment or communication lines, telephone or other interconnect problems (e.g., you cannot access your internet service provider), unauthorized access, theft, bodily injury, property damage, operator errors, strikes or other labor problems or any act of god. in connection with Badoo including, without limitation, any liability for loss of revenue or income, loss of profits or contracts, loss of business, loss of anticipated savings, loss of goodwill, loss of data, wasted management or office time and any other loss or damage of any kind, however arising and whether caused by tort (including, but not limited to, negligence), breach of contract or otherwise, even if foreseeable whether arising directly or indirectly.
+1.  ALL CONDITIONS, REPRESENTATIONS, WARRANTIES AND OTHER TERMS WHICH MIGHT OTHERWISE BE IMPLIED BY STATUTE, COMMON LAW OR THE LAW OF EQUITY; AND
+2.  ANY INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, PUNITIVE OR CONSEQUENTIAL DAMAGES (HOWEVER ARISING INCLUDING NEGLIGENCE), OR ANY CLAIMS, CHARGES, DEMANDS, LIABILITIES, LOSSES OR EXPENSES ARISING OUT OF LOSS OF USE, LOSS OF DATA, LOSS CAUSED BY A COMPUTER OR ELECTRONIC VIRUS, LOSS OF INCOME OR PROFIT, LOSS OF OR DAMAGE TO PROPERTY, WASTED MANAGEMENT OR OFFICE TIME, BREACH OF CONTRACT OR CLAIMS OF THIRD PARTIES OR OTHER LOSSES OF ANY KIND OR CHARACTER, EVEN IF BADOO GROUP HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES OR LOSSES, ARISING OUT OF OR IN CONNECTION WITH THE USE OF BADOO.
 
-Badoo’s total liability to you in respect of losses arising under or in connection with the Terms, whether in contract, tort (including negligence, breach of statutory duty, or otherwise) shall in no circumstances exceed £20.
+IN NO EVENT WILL BADOO GROUP’S TOTAL LIABILITY TO YOU IN RESPECT OF BADOO AND ANY LOSSES ARISING UNDER OR IN CONNECTION WITH YOUR USE OF BADOO OR THE TERMS, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE, BREACH OF STATUTORY DUTY, OR OTHERWISE) EXCEED THE GREATER OF (I)$50 USD, OR (II) THE AMOUNTS PAID BY YOU TO BADOO GROUP DURING THE THREE (3) MONTH PERIOD IMMEDIATELY PRECEDING THE EVENT(S) GIVING RISE TO SUCH LIABILITY.
 
-What about the reliability of Badoo and the information contained on it?
-
-Badoo has taken reasonable steps to ensure the currency, availability, correctness and completeness of the information contained on Badoo and provides that information on an "as is", "as available" basis. Badoo does not give or make any warranty or representation of any kind about the information contained on Badoo, whether express or implied. Use of Badoo and the materials available on it is at your sole risk. Badoo cannot be held responsible for any loss arising from the transmission, use of data, or inaccurate Content posted by users. You are responsible for taking all necessary precautions to ensure that any material you may obtain from Badoo is free of viruses or other harmful components. You accept that Badoo will not be provided uninterrupted or error free, that defects may not be corrected or that Badoo, or the server that makes it available, are free of viruses or bugs, spyware, Trojan horses or any similar malicious software. Badoo is not responsible for any damage to your computer hardware, computer software, or other equipment or technology including, but without limitation damage from any security breach or from any virus, bugs, tampering, fraud, error, omission, interruption, defect, delay in operation or transmission, computer line or network failure or any other technical or other malfunction. In the unlikely event that any defect is discovered within Badoo, we will use every effort to repair or fix the defect free of charge, without significant inconvenience to you, as soon as practicable.
-
-10\. Indemnity
+11\. Indemnity
 --------------
 
 ### I forgot the rules about conduct on here and now someone is threatening to sue YOU. What now?
@@ -216,7 +261,7 @@ If we are sued as a result of your use of Badoo then we have the right to defend
 
 You agree to hold harmless and indemnify us and our officers, directors, employees, agents, representatives and licensors from and against any third party claims, damages (actual and/or consequential), actions, proceedings, demands, losses, liabilities, costs and expenses (including reasonable solicitors’ fees) suffered or reasonably incurred by us arising as a result of, or in connection with, your access to and use of Badoo, the uploading or submission of Content to Badoo by you or your conduct, other than in accordance with the Terms or any applicable law or regulation (“**Claim**”). Badoo retains the exclusive right to settle, compromise and pay any and all Claims or causes of action which are brought against us without your prior consent.
 
-11\. Miscellaneous
+12\. Miscellaneous
 ------------------
 
 ### What about all of those standard clauses that you see at the end of most contracts? They’re the best bit!
