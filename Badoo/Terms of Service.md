@@ -106,27 +106,29 @@ Other than in relation to Content submitted by you to Badoo, and apart from the 
 
 ### What can I buy on Badoo?
 
-Badoo offers you the opportunity to pay for certain services offered on the site. Badoo’s premium services include various opportunities to find and meet additional people, to customise your profile and to boost your profile so more people find you. Badoo also offers the ability to play various games on the site. All of these premium services can be purchased after you register, and you may subscribe to the premium services for various lengths of time.
+Badoo offers you the opportunity to pay for certain services offered on Badoo (“**Premium Services**”). Badoo’s Premium Services include various opportunities to find and meet additional people, to customise your profile and to boost your profile so more people find you. All of these Premium Services can be purchased after you register, and you may subscribe to the Premium Services for various lengths of time as described within Badoo.
 
-Once you have paid for any premium services, you have the right to cancel and be reimbursed for all payments received within 14 days. If you wish to cancel please let us know via [Feedback Page](https://badoo.com/feedback/). Please note that if you choose to download any of the Content which forms part of any paid for service within the 14 day period, you may lose this right. After the 14 days have expired, the paid for services are non-refundable.
-
-You can change your Auto Top-up at anytime in your payment settings on your profile page. The pricing may vary due to a number of factors, such as (but not limited to) promotional offers, loyalty bonuses and other discounts.
+You may also buy credits that may be redeemed towards Premium Services (each, a “**Credit**”).
 
 Paid for services are not available in sanctioned countries.
 
-### How do I renew my premium services with Badoo?
+### How do payments generally work?
 
-Once you have requested a Badoo premium service, you authorise Badoo to charge your chosen payment method. If you want to cancel or change your payment method at any time, you can do either via the payment settings option under your profile or by contacting your mobile service provider. If your chosen payment method is via your mobile service provider, then please check with them about their payment terms, as their payment terms will govern how payments to Badoo are made as well as how such payments may be changed or cancelled. Your subscription to Badoo’s premium services will automatically renew until you decide to cancel, and if you have enabled the Auto Top-up feature, your account will automatically be topped up until you decide to disable this feature.
+If you order any Premium Services or Credits on Badoo, you agree to pay for them in accordance with the billing terms in effect at the time of purchase. You may purchase Premium Services or Credits through the following payment methods (each, a “**Premium Payment Method**”): (a) making a purchase through a third party platform such as the Apple App Store or Google Play Store (each, a “**Third Party Store**”), or (b) paying with any credit or debit card that we accept or (c) a PayPal account or (d) any other payment method available to you at your current location from time to time. Once you have requested a Premium Service or Credit, you authorise us to charge your chosen Premium Payment Method. If we do not receive payment from your chosen Premium Payment Method, you agree to promptly pay all amounts due upon demand by us.
 
-### Can I transfer any of my paid for services to another Badoo user?
+### Can I automatically refill my credits?
 
-If you elect to partake in any of the games, premium features or range of services designed to improve your Badoo user experience, you agree to use these services for yourself and not to transfer (for free or as a sale) to or purchase, or sell such services from other Badoo users. Badoo reserves the right not to honour any paid for services where you have attempted to transfer those services to another use or you have attempted to buy those services from another user. Badoo will only provide paid for services to you if you are the person to whom it was issued.
+Yes. Badoo may also offer users the ability to automatically refill their Credits with our Auto Top-up feature (“**Auto Top-up**”). By default, our Auto Top-up feature is turned on, your Credits will be automatically refilled to an amount equal to the amount you initially paid using such feature and your Premium Payment Method will be automatically charged when your Account has 200 Credits or less. You can change your Auto Top-up at any time in your payment settings on your account’s profile page. The pricing may vary due to a number of factors, such as (but not limited to) promotional offers, loyalty bonuses and other discounts.
+
+### How do I cancel automatic renewal of my Premium Services with Badoo?
+
+Premium Services may be provided as automatically-renewing subscriptions (e.g., an automatically renewing one-week subscription, one-month subscription, or three-month subscription.). **IF YOU PURCHASE AN AUTOMATICALLY RENEWING SUBSCRIPTION, YOUR SUBSCRIPTION WILL RENEW AT THE END OF THE INITIAL SUBSCRIPTION PERIOD AND EACH SUBSEQUENT RENEWAL PERIOD AT BADOOS THEN CURRENT PRICE FOR SUCH SUBSCRIPTION, UNLESS YOU CANCEL.** To avoid charges for a new subscription period, you must cancel at least twenty four (24) hours before the end of the prior subscription period as described below. Deleting your account or deleting the application from your device **DOES NOT** cancel your subscription. You will be given notice of changes in the pricing of the Premium Services for which you have subscriptions and an opportunity to cancel. If Badoo Group changes these prices and you do not cancel your subscription, you agree that you will be charged at Badoo Group’s then-current pricing for subscription.
+
+If you purchased Premium Services or a subscription directly from Badoo Group, you may change your Premium Payment Method via the payment settings option under your profile. If you purchased a subscription directly from Badoo Group or the Google Play Store and you would like to cancel your subscription, you may do this following the instructions in the App – cancelling your Premium Payment Method **DOES NOT** cancel the subscription. If you purchased a subscription through the Apple App Store, you will need to access your account with Apple and follow instructions to change or cancel your subscription. If you cancel your subscription, you may use your subscription until the end of the period you last paid for, but your subscription will not be renewed when that period expires and you will then no longer be able to use the Premium Services enabled by your subscription.
 
 ### Do my credits last forever?
 
-No. We reserve the right to expire any unused credits expire 6 months (unless the credits are purchased through Itunes). If you delete your account or if your account is terminated by us due to breach of these Terms, you will lose any accumulated credits. If you receive free or promotional credits, we may expire them at any time. Credits are not redeemable for any sum of money or monetary value from us unless we agree otherwise in writing.
-
-Please refer to the Service Conditions on your ‘top-up’ page for further details relating to your payments.
+No. Unused Credits expire 6 months after the date of purchase (unless the credits are purchased through the Apple App Store). If you delete your account or if your account is terminated by us due to breach of these Terms, you will lose any accumulated credits. If you receive free or promotional credits, we may expire them at any time. Credits are not redeemable for any sum of money or monetary value from us unless we agree otherwise in writing.
 
 4\. Access to the app and site
 ------------------------------
