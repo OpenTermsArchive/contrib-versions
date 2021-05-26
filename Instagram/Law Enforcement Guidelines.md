@@ -16,7 +16,7 @@ We disclose account records solely in accordance with our terms of service and a
 
 It is important to note that some information we store is collected automatically, while other information is provided by the user. We do not require email or phone verification, and we do not require people to use real names or identities on Instagram.
 
-For additional information about Instagram, please read our [Data Policy](http://help.instagram.com/519522125107875?helpref=page_content) and [Terms of Use](http://help.instagram.com/581066165581870?helpref=page_content).
+For additional information about Instagram, please read our [Data Policy](https://help.instagram.com/519522125107875) and [Terms of Use](https://help.instagram.com/581066165581870).
 
 ### Data Retention and Availability
 
@@ -43,7 +43,7 @@ If a request relates to a child exploitation or safety matter, please specify th
 
 ### International Legal Process Requirements
 
-We disclose account records solely in accordance with applicable terms of service and applicable law. A Mutual Legal Assistance Treaty request or letter rogatory may be required to compel the disclosure of the contents of an account. Further information can be found [in our Data Policy](http://help.instagram.com/519522125107875?helpref=page_content).
+We disclose account records solely in accordance with applicable terms of service and applicable law. A Mutual Legal Assistance Treaty request or letter rogatory may be required to compel the disclosure of the contents of an account. Further information can be found [in our Data Policy](https://help.instagram.com/155833707900388/).
 
 ### Account Preservation
 
