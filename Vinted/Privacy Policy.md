@@ -1269,7 +1269,7 @@ Legal basis to perform this is Art. 61(4) of Lithuanian Law on Electronic Commun
 
 You can, at any time, choose not to receive personalized marketing and advertisements by changing relevant settings on the Platform. Withdrawal of permission will not affect the lawfulness of the collection and use carried out prior to the withdrawal of permission.
 
-To enable our service providers to show you personalized advertisements, we provide your data to partners which provide personalized advertisement services (please see the list of advertising partners here ([https://www.vinted.com/third-party-ads](https://www.vinted.com/third-party-ads)).
+To enable our service providers to show you personalized advertisements, we provide your data to partners which provide personalized advertisement services.
 
 Vinted collects and uses your personal data for this purpose for as long as we keep your Vinted account - for 3 months from the date of deletion of your Vinted account or for 5 years and 3 months of inactivity on your account or until you withdraw your permission.
 
@@ -1287,7 +1287,7 @@ In order to carry out the aforementioned evaluating, we use services provided by
 In order to optimize our advertising campaigns, we send certain information on your activities like app opens, sessions, registrations, logins, information about you listing an item, uploading an item’s photo or buying an item, etc. to Google and Facebook advertising platforms. Thus, we transfer the data of your activities to the following recipients:
 
 1.  Facebook (personal data is protected by the service provider entering into the [EU Standard Contractual Clauses](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010D0087&from=en) for the transfer of data as approved by the European Commission);
-2.  (personal data is protected by the service provider entering into the [EU Standard Contractual Clauses](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010D0087&from=en) for the transfer of data as approved by the European Commission).
+2.  Google (personal data is protected by the service provider entering into the [EU Standard Contractual Clauses](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010D0087&from=en) for the transfer of data as approved by the European Commission).
 
 Vinted collects and uses your personal data for this purpose for as long as we keep your Vinted account - for 3 months from the date of deletion of your Vinted account or for 5 years and 3 months of inactivity on your account.
 
