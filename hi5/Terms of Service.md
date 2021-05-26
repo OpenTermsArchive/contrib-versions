@@ -1,7 +1,7 @@
 Terms of Service
 ----------------
 
-Updated as of June 26, 2019
+Updated as of May 24, 2021
 
 WE DO NOT CONDUCT CRIMINAL BACKGROUND CHECKS. PLEASE BE SAFE WHEN INTERACTING WITH USERS.
 
@@ -27,7 +27,7 @@ Use of the Services by you, as a Member, is subject to all applicable local, sta
 2.  Members shall not attempt to change, translate, adapt, edit, decompile, disassemble, or reverse engineer any software programs used by Company in connection with the Services.
 3.  Members shall not engage in any activity that disrupts, diminishes the quality of, interferes with the performance of, or impairs the functionality of, the Services.
 4.  Members shall not use the account, username, or password of another Member at any time or disclose their password to any third party or permit any third party to access their account.
-5.  Members shall not attempt to buy Gold outside of the hi5.com website.
+5.  Members shall not attempt to buy Tagged Gold outside of the hi5.com website.
 6.  Members shall not attempt to sell Tagged Gold.
 7.  Members shall not attempt to sell a user account associated with one of the Services.
 
@@ -35,7 +35,7 @@ All decisions concerning the applicability of these guidelines shall be at the s
 
 ### D) Privacy
 
-The Company has established a [Privacy Policy](#privacy_policy) to explain to Members how their information is collected and used. The policy explains how and when the Company may use Member information and content. Member's use of the Services signifies acknowledgment of and agreement to the Company’s Privacy Policy.
+The Company has established a [Privacy Policy](#privacy_policy) to explain to Members how their information is collected and used. The policy explains how and when the Company may use Member information and content. Member's use of our Services signifies acknowledgment of and agreement to the Company’s Privacy Policy.
 
 ### E) Document Retention Schedule
 
@@ -53,7 +53,7 @@ Once Member registers for the Services, Member will have a password and an accou
 
 You may purchase virtual currency for use solely on the Tagged site ("Gold"). Purchases or other acquisitions of Gold provide only a limited, non-transferable, non-sublicensable, fully-revocable license to use such Gold to access Services that we expressly make available for use with such Gold for your personal non-commercial use. Gold is redeemable only on the Tagged site for Tagged digital merchandise and content. Gold does not expire. Gold is non-refundable. Gold has no monetary value and does not constitute currency or property of any type. Gold is not transferable or assignable. You will not be entitled to a refund, money or any other compensation for unused Gold and virtual items when an account is closed, whether such closure was voluntary or involuntary.
 
-You may use Gold to purchase Gifts for other users. The price for each Gift will be displayed at the point of purchase. Gifts constitute a limited license to access a certain feature on the Tagged platform when, as, and if allowed by Tagged. All sales of Gifts are final and Tagged does not offer refunds for any purchased Gifts. Tagged is not responsible for repairing or replacing Gifts, or providing you with any credit or refund in the event that Tagged modifies, suspends, or terminates the Gift program, or for loss or damage due to any service error, or any other reason.
+You may use Gold to purchase Gifts for other users of our app or other apps which are visible to you. The price for each Gift will be displayed at the point of purchase. Gifts constitute a limited license to access a certain feature on the Tagged platform when, as, and if allowed by Tagged. All sales of Gifts are final and Tagged does not offer refunds for any purchased Gifts. Tagged is not responsible for repairing or replacing Gifts, or providing you with any credit or refund in the event that Tagged modifies, suspends, or terminates the Gift program, or for loss or damage due to any service error, or any other reason.
 
 Gifts purchased or received by any user do not constitute property and are not transferable.
 
