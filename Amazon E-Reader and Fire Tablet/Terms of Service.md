@@ -22,15 +22,10 @@ If you purchase a Kindle e-reader or Fire tablet using monthly payments, then yo
 
 *   [Monthly Payments Terms and Conditions](https://www.amazon.com/gp/help/customer/display.html?nodeId=201643730)
 
-If you place an order for or register any ad-supported Fire tablet or the Amazon app suite, you also agree to the following additional terms:
-
-*   [Limited-Time Special Offers Promotional Discount Terms & Conditions](https://www.amazon.com/gp/help/customer/display.html?nodeId=201339330)
-*   [Special Offer Text Notifications Terms & Conditions](https://www.amazon.com/gp/help/customer/display.html?nodeId=201339340)
-
 If you place an order for or register any Fire tablet or the Amazon app suite, you also agree to the following additional terms, with the exception of the Amazon Video Terms of Use, which you agree to by clicking **Watch Now**, **Buy**, **Rent**, or their equivalent on the Amazon Video service.
 
 *   [Amazon Music Terms of Use](https://www.amazon.com/gp/help/customer/display.html?nodeId=201380010)
-*   [Amazon Video Terms of Use](https://www.amazon.com/gp/help/customer/display.html?nodeId=201422760)
+*   [Amazon Prime Video Terms of Use](https://www.primevideo.com/help?nodeId=202095490&view-type=content-only)
 *   [Amazon Appstore for Android Terms of Use](https://www.amazon.com/gp/help/customer/display.html?nodeId=201485660)
 *   [Amazon Silk Terms & Conditions](https://www.amazon.com/gp/help/customer/display.html?nodeId=200775270)
 *   [Amazon GameCircle Terms of Use](https://www.amazon.com/gp/help/customer/display.html?nodeId=201487670)
