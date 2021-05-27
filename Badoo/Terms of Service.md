@@ -10,7 +10,7 @@ You should read these terms and conditions in full.
 3.  If you post any content that actually belongs to someone else and they get annoyed (or even call in their lawyers), we are not responsible or liable. You have to take responsibility for what you post.
 4.  Please refer to our Community Guidelines and Safety Tips for additional Dos and Don’ts, and information on staying safe.
 5.  **THESE TERMS AND CONDITIONS REQUIRE THE USE OF BINDING ARBITRATION TO SETTLE ANY DISPUTES BETWEEN YOU AND BADOO GROUP, WHICH INCLUDES A WAIVER OF JURY TRIALS AND A CLASS ACTION WAIVER.**
-6.  If you are concerned about how your data is being used by Badoo then please refer to our Privacy Policy, which explains how we treat your personal data and protect your privacy when you use Badoo. By using Badoo, you agree that we can use such data in accordance with our Privacy Policy. Our website and apps also use cookies or similar technologies which we tell you more about [here.](https://badoo.com/privacy/#cookies)
+6.  If you are concerned about how your data is being used by Badoo then please refer to our [Privacy Policy](https://badoo.com/privacy/), which explains how we treat your personal data and protect your privacy when you use Badoo. By using Badoo, you agree that we can use such data in accordance with our Privacy Policy. Our website and apps also use cookies or similar technologies which we tell you more about [here.](https://badoo.com/privacy/#cookies)
 
 Badoo is a social media website and app designed as a forum for meeting new people, a place to have discussions and to share photos, news and information. It is intended to be a fun place to visit and it is important to us (and for you) that it remains a safe and friendly environment so you agree that you will only use Badoo in a manner consistent with its purpose and which is in accordance with these terms and conditions, as well as the Badoo Community Guidelines and Safety Tips (collectively, the “**Terms**”). When we mention “**Badoo**”, we mean www.badoo.com, together with affiliated websites and applications.
 
@@ -62,7 +62,7 @@ You may not display any personal contact or banking information on your individu
 
 ### What about other people’s personal data, can I use it?
 
-You may only use other Badoo users’ personal data to the extent that your use of it matches Badoo’s purpose of allowing people to meet one another. You may not use other users' information for commercial purposes, to spam, to harass, stalk or to make unlawful threats. Badoo reserves the right to terminate your account, or prevent access to its features if you misuse other users' information.
+You may only use other Badoo users’ personal data to the extent that your use of it matches Badoo’s purpose of allowing people to meet one another. You may not use other users’ information for commercial purposes, to spam, to harass, stalk or to make unlawful threats. Badoo reserves the right to terminate your account, or prevent access to its features if you misuse other users’ information.
 
 ### Some of my friends want to see all the people I’m chatting with. Can I tell them my password and let them log on as me?
 
