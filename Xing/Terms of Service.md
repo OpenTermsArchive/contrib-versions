@@ -268,7 +268,7 @@ This price modification provision (Section 6.5) shall apply without limitation t
 
 **11.7** Place of jurisdiction for merchants within the scope of the German Commercial Code (HGB) shall be the main place of business of New Work SE.
 
-**11.8** These GTC and the contractual relationship shall be governed by German law, excluding international private law and the provisions of the United Nations Convention on Contracts for the International Sale of Goods that have been adopted by German law.
+**11.8** These GTC and the contractual relationship shall be governed by German law, excluding international private law and the provisions of the United Nations Convention on Contracts for the International Sale of Goods that have been adopted by German law. This does not affect obligatory consumer protection law of the Member State in which a user has its regular place of residence.
 
 **11.9** These GTC are available in English, German, French and Spanish. In the event of any contradiction between the different language versions of these GTC, the German version shall take precedence.
 
