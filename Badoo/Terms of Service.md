@@ -178,7 +178,7 @@ Non-registered users are able to access only that portion of Badoo that is publi
 
 ### What do I do if I want to “unregister” myself from Badoo?
 
-If you have registered for an account on Badoo, you can terminate your account at any time by going to the ‘Settings’ control on Badoo when you are logged in and choosing the ‘delete profile’ link. We save your profile information in case you later decide to restore your account. Many users deactivate their accounts for temporary reasons and in doing so expect us to maintain their information until they return to Badoo. You will therefore be able to restore your account and your profile in its entirety within 30 days of deactivating it. Once your registration is terminated, we have the right to delete any related Content that you have submitted or uploaded on to Badoo. For further details, please refer to our [Privacy Policy](https://badoo.com/privacy/).
+If you have registered for an account on Badoo, you can terminate your account at any time by going to the ‘Settings’ control on Badoo when you are logged in and choosing the ‘delete profile’ link. We save your profile information in case you later decide to restore your account. Many users deactivate their accounts for temporary reasons and in doing so expect us to maintain their information until they return to Badoo. You will therefore be able to restore your account and your profile in its entirety within 28 days of deactivating it. Once your registration is terminated, we have the right to delete any related Content that you have submitted or uploaded on to Badoo. For further details, please refer to our [Privacy Policy](https://badoo.com/privacy/).
 
 ### When might Badoo terminate my account?
 
