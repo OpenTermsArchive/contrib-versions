@@ -230,7 +230,7 @@ No. If you act in a way that upsets other users then you have to be responsible 
 
 ### What about the reliability of Badoo and the information contained on it?
 
-The information and Content contained on Badoo is provided by Badoo Group on an "as is", "as available" basis. BADOO DOES NOT GIVE OR MAKE ANY WARRANTY OR REPRESENTATION OF ANY KIND ABOUT BADOO OR THE INFORMATION CONTAINED ON BADOO, WHETHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. USE OF BADOO AND THE INFORMATION AND CONTENT AVAILABLE ON IT IS AT YOUR SOLE RISK.
+The information and Content contained on Badoo is provided by Badoo Group on an “as is”, “as available” basis. BADOO DOES NOT GIVE OR MAKE ANY WARRANTY OR REPRESENTATION OF ANY KIND ABOUT BADOO OR THE INFORMATION CONTAINED ON BADOO, WHETHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. USE OF BADOO AND THE INFORMATION AND CONTENT AVAILABLE ON IT IS AT YOUR SOLE RISK.
 
 Badoo cannot be held responsible for any loss arising from the transmission, use of data, or inaccurate Content posted by users. You are responsible for taking all necessary precautions to ensure that any material you may obtain from Badoo is free of viruses or other harmful components. You accept that Badoo will not be provided uninterrupted or error free, that defects may not be corrected or that Badoo, or the server that makes it available, are free of viruses or bugs, spyware, Trojan horses or any similar malicious software. Badoo is not responsible for any damage to your computer or device hardware, software, or other equipment or technology including, but without limitation damage from any security breach or from any virus, bugs, tampering, fraud, error, omission, interruption, defect, delay in operation or transmission, computer line or network failure or any other technical or other malfunction.
 
@@ -264,7 +264,7 @@ To the fullest extent permitted by applicable law, you agree to hold harmless an
 12\. Procedures for Making Claims of Infringement
 -------------------------------------------------
 
-Badoo Group has adopted the following policy towards copyright infringement in accordance with the Digital Millennium Copyright Act (the "**DMCA**") of the United States. If you believe any Content on Badoo infringes upon your intellectual property rights, please submit a notification alleging such infringement ("**DMCA Takedown Notice**") to Badoo Group’s Copyright Agent as identified below, including the following:
+Badoo Group has adopted the following policy towards copyright infringement in accordance with the Digital Millennium Copyright Act (the “**DMCA**”) of the United States. If you believe any Content on Badoo infringes upon your intellectual property rights, please submit a notification alleging such infringement (“**DMCA Takedown Notice**”) to Badoo Group’s Copyright Agent as identified below, including the following:
 
 1.  A physical or electronic signature of a person authorised to act on behalf of the owner of an exclusive right that is allegedly infringed;
 2.  Identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works;
