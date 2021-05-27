@@ -219,6 +219,8 @@ We may ask for your consent to share your information with third parties. In any
 
 We may use and share non-personal information (meaning information that, by itself, does not identify who you are such as device information, general demographics, general behavioral data, geolocation in de-identified form), as well as personal information in hashed, non-human readable form, under any of the above circumstances.  We may also share this information with other Match Group companies and third parties (notably advertisers) to develop and deliver targeted advertising on our services and on websites or applications of third parties, and to analyze and report on advertising you see. We may combine this information with additional non-personal information or personal information in hashed, non-human readable form collected from other sources. More information on our use of cookies and similar technologies can be found in our Cookie Policy [link](https://uk.match.com/pages/misc/cookie?styled=1).
 
+_Starting with iOS 14.5, Apple requires app publishers to receive their users’ permission through Apple’s AppTrackingTransparency (ATT) framework to track them or access their device’s advertising identifier and we are not showing Apple’s ATT prompt on our services because we do not take those actions for such iOS users._
+
 7.      CROSS-BORDER DATA TRANSFERS
 ===================================
 
