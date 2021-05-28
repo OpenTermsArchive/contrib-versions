@@ -17,6 +17,8 @@ These include our:
 *   Social media partners
 *   Advertising partners
 
+The data controller for this website and for the processing activities carried out on this website is HSBC Holdings plc. We’ve set out contact details at the end of this notice if you need to reach us.
+
 Our privacy notices
 -------------------
 
@@ -25,7 +27,7 @@ This is our website notice.
 We have other notices. Some of these may apply to you as well. It depends on how you choose to interact with us.
 
 *   Public website notice (you are here): this notice covers parts of this website where you don’t need a password (like this page)
-*   Full privacy notice: our full privacy notice contains more information to read alongside this notice. It will tell you more details, such as the full company names of HSBC’s data controllers. It also tells you how HSBC uses your personal information in general. You can read that by visiting the website for the product or services we provide you. A list of these websites can be found on our [Contact us page](https://www.hsbc.com/contact-us)
+*   Full privacy notice: our full privacy notices contain more information to read alongside this notice. These notices are country/territory-specific and will tell you more details, such as the full company names of HSBC’s data controllers in those countries and territories, and the products and services they cover. They also tell you how HSBC uses your personal information in general for those products and services and in those countries and territories. You can read them by visiting the website for the relevant product or service, or you can contact your customer services team for a copy. A list of these websites can be found on our [Contact us page](https://www.hsbc.com/contact-us)
 *   Cookie notice: this notice covers how we collect information from your web browser or mobile device
 *   Other notices: some of our apps or parts of our websites have their own privacy notices. For example, our mobile apps have privacy notices. So does our careers section of our website at hsbc.com/careers. You can usually find our notices in the footer of the webpage. If you’re using an app, it will usually be in the menu. Our full privacy notice is our main one and can be found by visiting the website for the product or services we provide you. A list of these websites can be found on our [Contact us page](https://www.hsbc.com/contact-us)
 
@@ -83,6 +85,8 @@ We use your information to operate the website and monitor how well it is workin
 *   Respond to your questions
 *   Provide you with information, products or services you have requested or which we feel may interest you
 *   Provide you with alerts or updates if you sign up for them
+
+We may need to share your information with other companies within the HSBC Group to provide you with information you have requested (for example, if you have raised a question regarding your products and services). If we do this, the relevant full privacy notice will also apply to how we use your information.
 
 ### To improve our business
 
@@ -186,11 +190,11 @@ Other important information
 
 We have a couple more things to tell you.
 
-*   **Transfers:** we transfer your information outside of the European Economic Area. If this happens your information may not have the same level of protection
+*   **Transfers:** we may transfer your information outside of the United Kingdom and the European Economic Area. If this happens your information may not have the same level of protection
 *   **Security:** we’ll use a range of measures to keep your information safe and secure, such as encryption
 *   **Storage:** we keep your information in line with our data retention policy. We do this to comply with legal and regulatory requirements, and for our legitimate purposes
 
-Our full privacy notice contains more information about these topics.
+Our full privacy notices contain more information about these topics.
 
 Contact us
 ----------
@@ -200,14 +204,13 @@ We’re always happy to hear from you.
 You can contact our Data Protection Officer at:
 
 For the attention of: the DPO  
-HSBC UK,  
-P.O. Box 6201,  
-Coventry, CV3 9HW  
-UK
+HSBC Holdings plc  
+Customer Service Centre  
+BX8 1HB
 
 This privacy notice may be updated from time to time, and you’ll always be able to find the most recent version on this site.
 
-Last updated: 1 April 2021
+Last updated: 28 May 2021
 
 Thank you for reading this privacy notice.
 
