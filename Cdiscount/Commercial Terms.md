@@ -204,7 +204,7 @@ La vente de boissons alcooliques à des mineurs est interdite.
 
 **3.3 Enregistrement des commandes**
 
-Une fois votre commande passée conformément à l’article 3.2, CDISCOUNT en accusera réception en vous adressant un email de confirmation de commande comprenant :
+Une fois votre commande passée conformément à léarticle 3.2, CDISCOUNT en accusera réception en vous adressant un email de confirmation de commande comprenant :
 
 *   le récapitulatif de votre commande,
 *   son numéro,
