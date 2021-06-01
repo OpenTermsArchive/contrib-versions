@@ -66,40 +66,40 @@ The contract is concluded with New Work SE, Dammtorstraße 30, 20354 Hamburg, Ge
 
 **Instructions on withdrawal and model withdrawal form**
 
-You have the right to withdraw from this contract within 14 days without giving any reason. The withdrawal period will expire after 14 days from the date of contract conclusion.
+**You have the right to withdraw from this contract within 14 days without giving any reason. The withdrawal period will expire after 14 days from the date of contract conclusion.**
 
-To exercise the right of withdrawal, you must inform us
+**To exercise the right of withdrawal, you must inform us**
 
-New Work SE  
-Dammtorstraße 30  
-20354 Hamburg  
-Germany
+**New Work SE**  
+**Dammtorstraße 30**  
+**20354 Hamburg**  
+**Germany**
 
-Phone: +49 40 419 131 0  
-Fax: +49 40 419 131 11  
-E-mail: [withdraw@xing.com](mailto:withdraw@xing.com)
+**Phone: +49 40 419 131 0**  
+**Fax: +49 40 419 131 11**  
+**E-mail:** [**withdraw@xing.com**](mailto:withdraw@xing.com)
 
-of your decision to withdraw from this contract by an unequivocal statement (e.g. a letter sent by post, fax, e-mail or via the contact form available on each of our webpages). You may use this [model withdrawal form](https://www.xing.com/pdf/Muster-Widerrufsformular_New_Work_SE_en.pdf), but it is not obligatory.
+**of your decision to withdraw from this contract by an unequivocal statement (e.g. a letter sent by post, fax, e-mail or via the contact form available on each of our webpages). You may use this** [**model withdrawal form**](https://www.xing.com/pdf/Muster-Widerrufsformular_New_Work_SE_en.pdf)**, but it is not obligatory.**
 
-To meet the withdrawal deadline, it is sufficient for you to send your communication concerning your exercise of the right of withdrawal before the withdrawal period has expired.
+**To meet the withdrawal deadline, it is sufficient for you to send your communication concerning your exercise of the right of withdrawal before the withdrawal period has expired.**
 
 **Effects of withdrawal**
 
-If you withdraw from this contract, we shall reimburse to you all payments received from you, including the costs of delivery (with the exception of the supplementary costs resulting from your choice of a type of delivery other than the least expensive type of standard delivery offered by us), without undue delay and in any event not later than 14 days from the day on which we are informed about your decision to withdraw from this contract. We will carry out such reimbursement using the same means of payment as you used for the initial transaction, unless you have expressly agreed otherwise; in any event, you will not incur any fees as a result of such reimbursement.
+**If you withdraw from this contract, we shall reimburse to you all payments received from you, including the costs of delivery (with the exception of the supplementary costs resulting from your choice of a type of delivery other than the least expensive type of standard delivery offered by us), without undue delay and in any event not later than 14 days from the day on which we are informed about your decision to withdraw from this contract. We will carry out such reimbursement using the same means of payment as you used for the initial transaction, unless you have expressly agreed otherwise; in any event, you will not incur any fees as a result of such reimbursement.**
 
-If you requested to begin the performance of services during the withdrawal period, you shall pay us an amount which is in proportion to what has been provided until you have communicated us your withdrawal from this contract, in comparison with the full coverage of the contract.
+**If you requested to begin the performance of services during the withdrawal period, you shall pay us an amount which is in proportion to what has been provided until you have communicated us your withdrawal from this contract, in comparison with the full coverage of the contract.**
 
-You may download and use the model withdrawal form available [here](https://www.xing.com/pdf/Muster-Widerrufsformular_New_Work_SE_en.pdf) as a PDF file.
+**You may download and use the model withdrawal form available** [**here**](https://www.xing.com/pdf/Muster-Widerrufsformular_New_Work_SE_en.pdf) **as a PDF file.**
 
 **Exclusion of right of cancellation:**
 
-The right of cancellation does not exist if, when entering into a legal transaction, you predominantly act in exercise of your trade, business or profession and are therefore deemed to be an entrepreneur (Section 14 BGB).
+**The right of cancellation does not exist if, when entering into a legal transaction, you predominantly act in exercise of your trade, business or profession and are therefore deemed to be an entrepreneur (Section 14 BGB).**
 
-The right of cancellation vis-à-vis XING does not apply to agreements you enter into with third parties, i.e. where XING is not legally involved. Any such rights of cancellation may only be brought against the respective third party.
+**The right of cancellation vis-à-vis XING does not apply to agreements you enter into with third parties, i.e. where XING is not legally involved. Any such rights of cancellation may only be brought against the respective third party.**
 
 **Other additional information:**
 
-You expressly agree that we will start to render the service before the end of the cancellation period.
+**You expressly agree that we will start to render the service before the end of the cancellation period.**
 
 ### 4\. General obligations of the user and special provisions for using the social network 
 
@@ -301,35 +301,35 @@ These additional terms and conditions for the use of the events platform supplem
 
 **Right of withdrawal**
 
-You may withdraw from your contractual agreement with XING in writing (e.g. by letter, fax or e-mail) within fourteen (14) days without stating a reason. The two-week period begins upon receipt of these instructions, but not before the contract has been executed, and also not prior to fulfilment of our informational duties as per Article 246 Section 2 in connection with Section 1 (1 and 2) EGBGB, as well as our duties as per Section 312g (1) line 1 BGB in connection with Article 246 Section 3 EGBGB. You can withdraw from the contract by sending timely notification to:
+**You may withdraw from your contractual agreement with XING in writing (e.g. by letter, fax or e-mail) within fourteen (14) days without stating a reason. The two-week period begins upon receipt of these instructions, but not before the contract has been executed, and also not prior to fulfilment of our informational duties as per Article 246 Section 2 in connection with Section 1 (1 and 2) EGBGB, as well as our duties as per Section 312g (1) line 1 BGB in connection with Article 246 Section 3 EGBGB. You can withdraw from the contract by sending timely notification to:**
 
-XING Events GmbH  
-Sandstr. 33  
-80335 Munich  
-Germany
+**XING Events GmbH**  
+**Sandstr. 33**  
+**80335 Munich**  
+**Germany**
 
-Fax: +49 89 552 73 58 10  
-E-mail: info@xing-events.com
+**Fax: +49 89 552 73 58 10**  
+**E-mail: info@xing-events.com**
 
 **Consequences of withdrawal**
 
-In the event of a valid withdrawal, services and fees provided by both parties are to be returned, and any economic advantages gained (e.g. interest) are to be repaid. If you are not able to return the services and utilisation (exercised benefits) rendered fully or in part, or only in a lesser form, you are obliged to reimburse us for the value lost. This can mean that you are required to fulfil the contractual payment obligations for the time period until withdrawal. Obligations to reimburse payments must be fulfilled within 30 days. This period begins for you when you send your contract withdrawal, for us when we receive it.
+**In the event of a valid withdrawal, services and fees provided by both parties are to be returned, and any economic advantages gained (e.g. interest) are to be repaid. If you are not able to return the services and utilisation (exercised benefits) rendered fully or in part, or only in a lesser form, you are obliged to reimburse us for the value lost. This can mean that you are required to fulfil the contractual payment obligations for the time period until withdrawal. Obligations to reimburse payments must be fulfilled within 30 days. This period begins for you when you send your contract withdrawal, for us when we receive it.**
 
 **Additional information:**
 
-Your right of withdrawal lapses before the end of the right of withdrawal period if the contract has been completely fulfilled to the satisfaction of both parties before you exercise your right of withdrawal.
+**Your right of withdrawal lapses before the end of the right of withdrawal period if the contract has been completely fulfilled to the satisfaction of both parties before you exercise your right of withdrawal.**
 
 **Exclusion of right of withdrawal:**
 
-The right of withdrawal does not exist if, when entering into a legal transaction, you act in exercise of your trade, business or profession and are therefore deemed to be an entrepreneur (Section 14 BGB).
+**The right of withdrawal does not exist if, when entering into a legal transaction, you act in exercise of your trade, business or profession and are therefore deemed to be an entrepreneur (Section 14 BGB).**
 
-The right of withdrawal vis-à-vis XING does not apply to agreements you enter into with third parties, i.e. where XING is not legally involved. Any such rights of withdrawal may only be brought against the respective third party, which is why there is no right of withdrawal vis-à-vis XING when purchasing tickets on the events platform.
+**The right of withdrawal vis-à-vis XING does not apply to agreements you enter into with third parties, i.e. where XING is not legally involved. Any such rights of withdrawal may only be brought against the respective third party, which is why there is no right of withdrawal vis-à-vis XING when purchasing tickets on the events platform.**
 
 **Other additional information:**
 
-You expressly agree that we will start to render the service before the end of the withdrawal period.
+**You expressly agree that we will start to render the service before the end of the withdrawal period.**
 
-You are required to pay the fees agreed for services we render up until the time you withdraw from your contract.
+**You are required to pay the fees agreed for services we render up until the time you withdraw from your contract.**
 
 ### 3\. Obligations of the user and special provisions for users 
 
