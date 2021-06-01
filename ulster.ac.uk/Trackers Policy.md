@@ -1,5 +1,5 @@
-Privacy Notice
-==============
+Privacy notice for www.ulster.ac.uk
+===================================
 
 Ulster.ac.uk (www.ulster.ac.uk) is provided by Ulster University.
 
