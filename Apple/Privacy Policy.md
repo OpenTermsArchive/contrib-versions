@@ -1,7 +1,7 @@
 Apple Privacy Policy
 ====================
 
-### Updated December 14, 2020
+### Updated June 1, 2021
 
 Apple’s Privacy Policy describes how Apple collects, uses, and shares your personal data.
 
@@ -9,19 +9,19 @@ In addition to this Privacy Policy, we provide data and privacy information embe
 
 ![](https://www.apple.com/legal/images/icon_dataprivacy.png)
 
-You will be given an opportunity to review this product-specific information before enabling these features. You also can view this information at any time, either in Settings related to those features and/or online at [apple.com/legal/privacy](https://www.apple.com/legal/privacy/).
+You will be given an opportunity to review this product-specific information before using these features.  You also can view this information at any time, either in Settings related to those features and/or online at [apple.com/legal/privacy](https://www.apple.com/legal/privacy/).
 
 Please take a moment to familiarize yourself with our privacy practices, accessible via the headings below, and [contact us](https://www.apple.com/legal/privacy/en-ww/contact/) if you have any questions.
 
 [Download a copy of this Privacy Policy](https://www.apple.com/legal/privacy/pdfs/apple-privacy-policy-en-ww.pdf)  
    
 [Your California Privacy Disclosures](https://www.apple.com/legal/privacy/california/)   
-[Apple Health Research Apps Privacy Policy](https://www.apple.com/legal/privacy/apple-health-studies/en-ww)  
+[Apple Health Study Apps Privacy Policy](https://www.apple.com/legal/privacy/apple-health-studies/en-ww)  
 
 *   What Is Personal Data at Apple?
     -------------------------------
     
-    At Apple, we believe strongly in fundamental privacy rights — and that those fundamental rights should not differ depending on where you live in the world. **That’s why we treat any data that relates to an identified or identifiable individual or that is linked or linkable to them by Apple as “personal data,” no matter where the individual lives.** This means that data that directly identifies you — such as your name — is personal data, and also data that does not directly identify you, but that can reasonably be used to identify you — such as the serial number of your device — is personal data.
+    At Apple, we believe strongly in fundamental privacy rights — and that those fundamental rights should not differ depending on where you live in the world. **That’s why we treat any data that relates to an identified or identifiable individual or that is linked or linkable to them by Apple as “personal data,” no matter where the individual lives.** This means that data that directly identifies you — such as your name — is personal data, and also data that does not directly identify you, but that can reasonably be used to identify you — such as the serial number of your device — is personal data. Aggregated data is considered non‑personal data for the purposes of this Privacy Policy.
     
     This Privacy Policy covers how [Apple or an Apple-affiliated company](https://www.apple.com/legal/privacy/en/affiliated-company/) handles personal data whether you interact with us on our websites, through Apple apps (such as Apple Music or Wallet), or in person (including by phone or when visiting our retail stores). Apple may also link to third parties on our services or make third-party apps available for download in our App Store. Apple’s Privacy Policy does not apply to how third parties define personal data or how they use it. We encourage you to read their privacy policies and know your privacy rights before interacting with them. 
     
@@ -30,13 +30,13 @@ Please take a moment to familiarize yourself with our privacy practices, accessi
     
     At Apple, we respect your ability to know, access, correct, transfer, restrict the processing of, and delete your personal data. We have provided these rights to our global customer base and if you choose to exercise these privacy rights, you have the right not to be treated in a discriminatory way nor to receive a lesser degree of service from Apple. Apple does not sell your data including as “sale” is defined in Nevada and California. 
     
-    **To exercise your privacy rights and choices, visit the Apple Privacy Portal at** [privacy.apple.com](https://privacy.apple.com/) **for Apple or** [shazam.com/privacy](https://shazam.com/privacy) **for Shazam.** To help protect the security of your personal data, you must sign in to your account and your identity will be verified. If the Privacy Portal is not available in your region, you can make privacy rights requests at [apple.com/legal/privacy/contact](https://apple.com/legal/privacy/contact). 
+    **To exercise your privacy rights and choices, visit the Apple Data and Privacy page at** [privacy.apple.com](https://privacy.apple.com/) **for Apple or** [shazam.com/privacy](https://shazam.com/privacy) **for Shazam.** To help protect the security of your personal data, you must sign in to your account and your identity will be verified. If the Data and Privacy page is not available in your region, you can make privacy rights requests at [apple.com/legal/privacy/contact](https://apple.com/legal/privacy/contact). 
     
     There may be situations where we cannot grant your request — for example, if you ask us to delete your transaction data and Apple is legally obligated to keep a record of that transaction to comply with law. We may also decline to grant a request where doing so would undermine our legitimate use of data for anti-fraud and security purposes, such as when you request deletion of an account that is being investigated for security concerns. Other reasons your privacy request may be denied are if it jeopardizes the privacy of others, is frivolous or vexatious, or would be extremely impractical.
     
-    _If you live in California,_ if you cannot access Apple’s Privacy Portal, you or your authorized agent can make a request at [apple.com/legal/privacy/contact](https://apple.com/legal/privacy/contact) or by calling 1-800-275-2273.
+    _If you live in California,_ if you cannot access Apple’s Data and Privacy page, you or your authorized agent can make a request at [apple.com/legal/privacy/contact](https://apple.com/legal/privacy/contact) or by calling 1-800-275-2273.
     
-    For more information on exercising your rights, visit [support.apple.com/HT208501](https://support.apple.com/HT208501). 
+    For more information on exercising your rights, visit [support.apple.com/kb/HT208501](https://support.apple.com/kb/HT208501). 
     
 *   Personal Data Apple Collects from You
     -------------------------------------
@@ -97,12 +97,12 @@ Please take a moment to familiarize yourself with our privacy practices, accessi
     
     Apple may share personal data with **service providers** who act on our behalf, our **partners**, or others **at your direction**. Further, Apple does not share personal data with third parties for their own marketing purposes. 
     
-    *   **Service Providers.** Apple may engage third parties to act as our service providers and perform certain tasks on our behalf, such as delivering products to customers. Apple service providers are obligated to handle personal data consistent with this Privacy Policy and according to our instructions. They cannot use the personal data we share for their own purposes and must delete or return the personal data once they've fulfilled our request.
+    *   **Service Providers.** Apple may engage third parties to act as our service providers and perform certain tasks on our behalf, such as processing or storing data, including personal data, in connection with your use of our services and delivering products to customers. Apple service providers are obligated to handle personal data consistent with this Privacy Policy and according to our instructions. They cannot use the personal data we share for their own purposes and must delete or return the personal data once they've fulfilled our request.
     *   **Partners.** At times, Apple may partner with third parties to provide services or other offerings. For example, Apple financial offerings like Apple Card and Apple Cash are offered by Apple and our partners. Apple requires its partners to protect your personal data.
     *   **Others.** Apple may share personal data with others at your direction or with your consent, such as when we share information with your carrier to activate your account. We may also disclose information about you if we determine that for purposes of national security, law enforcement, or other issues of public importance, disclosure is necessary or appropriate. We may also disclose information about you where there is a lawful basis for doing so, if we determine that disclosure is reasonably necessary to enforce our terms and conditions or to protect our operations or users, or in the event of a reorganization, merger, or sale.   
          
     
-    If you purchase a subscription in a third-party app or within Apple News, we create a Subscriber ID that is unique to you and the developer or publisher. The Subscriber ID may be used to provide reports to the developer or publisher, which include information about the subscription you purchased and your country of residence. If you cancel all of your subscriptions with a particular developer or publisher, the Subscriber ID will reset after 180 days if you do not resubscribe. This information is provided to developers so that they can understand the performance of their subscriptions.
+    If you purchase a third-party subscription from the App Store or within Apple News, we create a Subscriber ID that is unique to you and the developer or publisher. The Subscriber ID may be used to provide reports to the developer or publisher, which include information about the subscription you purchased and your country of residence. If you cancel all of your subscriptions with a particular developer or publisher, the Subscriber ID will reset after 180 days if you do not resubscribe. This information is provided to developers or publishers so that they can understand the performance of their subscriptions.
     
 *   Protection of Personal Data at Apple
     ------------------------------------
@@ -122,12 +122,12 @@ Please take a moment to familiarize yourself with our privacy practices, accessi
     
     If we learn that a child's personal data was collected without appropriate authorization, it will be deleted as soon as possible.
     
-    **To exercise privacy rights for your child's information, visit the Apple Privacy Portal at** [privacy.apple.com](https://privacy.apple.com/) **and sign in to their account.**
+    **To exercise privacy rights for your child's information, visit the Apple Data and Privacy page at** [privacy.apple.com](https://privacy.apple.com/) **and sign in to their account.**
     
 *   Cookies and Other Technologies
     ------------------------------
     
-    Apple’s websites, online services, interactive applications, email messages, and advertisements may use [“cookies” and other technologies](https://www.apple.com/legal/privacy/en-ww/cookies/) such as pixel tags and web beacons. **These technologies help us to better understand user behavior including for security and fraud prevention purposes, tell us which parts of our websites people have visited, and facilitate and measure the effectiveness of advertisements and web searches.**
+    Apple’s websites, online services, interactive applications, and advertisements may use [“cookies” and other technologies](https://www.apple.com/legal/privacy/en-ww/cookies/) such as web beacons. **These technologies help us to better understand user behavior including for security and fraud prevention purposes, tell us which parts of our websites people have visited, and facilitate and measure the effectiveness of advertisements and web searches.**
     
     *   **Communications Cookies.** These cookies are used to enable network traffic to and from Apple’s systems, including by helping us detect any errors.
     *   **Strictly Necessary Cookies.** These cookies are set as required to provide a specific feature or service that you have accessed or requested. For example, they allow us to display our websites in the proper format and language, to authenticate and verify your transactions, and to preserve the contents of your Bag when shopping online at apple.com. 
@@ -140,11 +140,9 @@ Please take a moment to familiarize yourself with our privacy practices, accessi
     
     In some email messages Apple sends to you, we provide a “click-through URL” that links you to content on the Apple website. When you click one of these URLs, they pass through a separate server before arriving at the destination page on our website. We track this click-through to help us determine interest in particular topics and measure whether we are communicating with you effectively. If you prefer not to be tracked in this way, you should not click graphic or text links in email messages.
     
-    Pixel tags enable us to send email messages in a format that you can read, and they tell us whether mail has been opened. We may use this data to reduce or eliminate messages sent to customers.
+    **Apple generally treats data we collect using these cookies and similar technologies as nonpersonal data.** However, to the extent that Internet Protocol (IP) addresses or similar identifiers are considered personal data by local law, we also treat these identifiers as personal data in those regions. In addition, Apple sometimes combines nonpersonal data collected from these technologies with other personal data Apple holds. When we combine data in this way, we treat the combined data as personal data for purposes of this Privacy Policy.
     
-    **Apple generally treats data we collect using these cookies and similar technologies as nonpersonal data.** However, to the extent that Internet Protocol (IP) addresses or similar identifiers are considered personal data by local law, we also treat these identifiers as personal data. In addition, Apple sometimes combines nonpersonal data collected from these technologies with other personal data Apple holds. When we combine data in this way, we treat the combined data as personal data for purposes of this Privacy Policy.
-    
-    Ads that are delivered by Apple’s advertising platform may appear in Apple News or the Stocks app and in the App Store. If you do not want to receive ads targeted to your interests from Apple's advertising platform in those apps, you can choose to disable Personalized Ads, which will opt your Apple ID out of receiving such ads regardless of what device you are using. On your iOS or iPadOS device, you can disable Personalized Ads by going to Settings > Privacy > Apple Advertising and tapping to turn off Personalized Ads. On your Mac, you can disable Personalized Ads by choosing Apple menu > System Preferences > Security & Privacy, clicking Privacy, clicking Advertising, and deselecting Personalized Ads. You may still see ads in the App Store or Apple News based on context like your search query or the channel you are reading. If you disable Allow Apps to Request to Track, third-party apps cannot request to use the Advertising Identifier, a non personal identifier served by the operating system on your device, to track you across apps and websites owned by other companies.
+    Ads that are delivered by Apple’s advertising platform may appear in Apple News, Stocks, or in the App Store. If you do not want to receive ads targeted to your interests from Apple's advertising platform in those apps, you can choose to disable Personalized Ads, which will opt your Apple ID out of receiving such ads regardless of what device you are using. On your iOS or iPadOS device, you can disable Personalized Ads by going to Settings > Privacy > Apple Advertising and tapping to turn off Personalized Ads. On your Mac, you can disable Personalized Ads by choosing Apple menu > System Preferences > Security & Privacy, clicking Privacy, clicking Advertising, and deselecting Personalized Ads. You may still see ads in the App Store, Apple News, or Stocks based on context like your search query or the channel you are reading. If you disable Allow Apps to Request to Track, third-party apps cannot request to use the Advertising Identifier, a non personal identifier served by the operating system on your device, to track you across apps and websites owned by other companies.
     
 *   Transfer of Personal Data Between Countries
     -------------------------------------------
