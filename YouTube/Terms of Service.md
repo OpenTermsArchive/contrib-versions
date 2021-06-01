@@ -1,12 +1,6 @@
 Terms of Service
 ================
 
-On June 1, 2021, we will update the YouTube Terms of Service to explicitly prohibit the collection of any information that might identify a person without their permission and clarify how we monetize Content on the Service:
-
-#### Right to Monetize
-
-You grant to YouTube the right to monetize your Content on the Service (and such monetization may include displaying ads on or within Content or charging users a fee for access). This Agreement does not entitle you to any payments. Starting June 1, 2021, any payments you may be entitled to receive from YouTube under any other agreement between you and YouTube (including for example payments under the YouTube Partner Program, Channel memberships or Super Chat) will be treated as royalties. If required by law, Google will withhold taxes from such payments.
-
 **What’s in these Terms?**
 ==========================
 
@@ -55,12 +49,12 @@ This section includes some further important details about our contract, includi
 **Terms of Service**
 ====================
 
-Dated: March 17, 2021
+Dated: June 1, 2021
+
+English Courtesy Translation
 
 **Welcome to YouTube!**
 =======================
-
-English Courtesy Translation
 
 **Introduction**
 ----------------
@@ -97,7 +91,7 @@ You may use the Service if you are at least 15 years old; however, children o
 
 If you are under 18, you must have your parent or legal guardian’s permission to use the Service. Please have them read this Agreement with you.
 
-If you are a parent or legal guardian of a user under the age of 18, when you accept this Agreement you agree that by allowing your child to use the Service, you are subject to the terms of this Agreement and responsible for your child’s activity on the Service. You can find tools and resources to help you manage your family’s experience on YouTube (including how to enable a child under the age of 15 to use the Service and YouTube Kids) in our [Help Center](https://support.google.com/youtube/answer/2802272) [and through](https://support.google.com/youtube/answer/2802272) Google’s [Family Link](https://families.google.com/familylink/).
+If you are a parent or legal guardian of a user under the age of 18, when you accept this Agreement you agree that by allowing your child to use the Service, you are subject to the terms of this Agreement and responsible for your child’s activity on the Service. You can find tools and resources to help you manage your family’s experience on YouTube (including how to enable a child under the age of 15 to use the Service and YouTube Kids) in our [Help Center](https://support.google.com/youtube/answer/2802272) [and through](https://support.google.com/youtube/answer/2802272) Google’s [Family Link](https://families.google.com/familylink/).
 
 **Businesses**
 --------------
@@ -138,7 +132,7 @@ The following restrictions apply to your use of the Service. You are not allowed
 1.  access, reproduce, download, distribute, transmit, broadcast, display, sell, license, alter, modify or otherwise use any part of the Service or any Content except: (a) as specifically permitted by the Service;  (b) with prior written permission from YouTube and, if applicable, the respective rights holders; or (c) as permitted by applicable law;
 2.  circumvent, disable, fraudulently engage, or otherwise interfere with the Service (or attempt to do any of these things), including security-related features or features that: (a) prevent or restrict the copying or other use of Content; or (b) limit the use of the Service or Content;
 3.  access the Service using any automated means (such as robots, botnets or scrapers) except: (a) in the case of public search engines, in accordance with YouTube’s robots.txt file; (b) with YouTube’s prior written permission; or (c) as permitted by applicable law;
-4.  collect or use any information that might identify a person (for example, harvesting usernames), unless permitted by that person or allowed under section 3 above;
+4.  collect or use any information that might identify a person (for example, harvesting usernames or faces), unless permitted by that person or allowed under section 3 above;
 5.  use the Service to distribute unsolicited promotional or commercial content or other unwanted or mass solicitations (spam);
 6.  cause or encourage any inaccurate measurements of genuine user engagement with the Service, including by paying people or providing them with incentives to increase a video’s views, likes, or dislikes, or to increase a channel’s subscribers, or otherwise manipulate metrics;
 7.  misuse any reporting, flagging, complaint, dispute, or appeals process, including by making groundless, vexatious, or frivolous submissions;
@@ -162,7 +156,7 @@ YouTube is constantly changing and improving the Service. We may also need to al
 **Uploading Content**
 ---------------------
 
-If you have a YouTube channel, you may be able to upload Content to the Service. You may use your Content to promote your business or artistic enterprise. If you choose to upload Content, you must not submit to the Service any Content that does not comply with this Agreement or the law. For example, the Content you submit must not include third-party intellectual property (such as copyrighted material) unless you have permission from that party or are otherwise legally entitled to do so. You are legally responsible for the Content you submit to the Service. We may use automated systems that analyze your Content to help detect infringement and abuse, such as spam, malware, and illegal content.
+If you have a YouTube channel, you may be able to upload Content to the Service. You may use your Content to promote your business or artistic enterprise. If you choose to upload Content, you must not submit to the Service any Content that does not comply with this Agreement or the law. For example, the Content you submit must not include third-party intellectual property (such as copyrighted material) unless you have permission from that party or are otherwise legally entitled to do so (including by way of any available exceptions or limitations to copyright or related rights provided for in European Union law). You are legally responsible for the Content you submit to the Service. We may use automated systems that analyze your Content to help detect infringement and abuse, such as spam, malware, and illegal content.
 
 **Rights you Grant**
 --------------------
@@ -183,6 +177,10 @@ You also grant each other user of the Service a worldwide, non-exclusive, royalt
 -----------------------
 
 The licences granted by you continue until the Content is removed as described below. Once removed, the licences will terminate, except where the operation of the Service, use of Content permitted before your removal, or the law requires otherwise.  For example, removal of Content by you does not require YouTube to: (a) recall Content that is being used by other users within any limited offline viewing functionality of the Service; or (b) delete copies we reasonably need to keep for legal purposes.
+
+**Right to Monetize**
+
+You grant to YouTube the right to monetize your Content on the Service (and such monetization may include displaying ads on or within Content or charging users a fee for access). This Agreement does not entitle you to any payments. Starting June 1, 2021, any payments you may be entitled to receive from YouTube under any other agreement between you and YouTube (including for example payments under the YouTube Partner Program, Channel memberships or Super Chat) will be treated as royalties.  If required by law, Google will withhold taxes from such payments.
 
 **Removing Your Content**
 -------------------------
@@ -309,4 +307,4 @@ If you do not comply with this Agreement and we do not take action immediately, 
 
 If you live in the European Economic Area, or Switzerland, this Agreement, and your relationship with YouTube under this Agreement, will be governed by the laws of your country of residence, and legal proceedings may be brought in your local courts.
 
-#### Effective as of March 17, 2021 ([view previous version](https://www.youtube.com/t/terms?archive=20190722))
+#### Effective as of June 1, 2021 ([view previous version](https://www.youtube.com/t/terms?archive=20210317))
