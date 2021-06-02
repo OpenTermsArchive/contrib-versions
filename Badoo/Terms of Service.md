@@ -1,6 +1,8 @@
 Badoo’s Terms and Conditions of Use
 ===================================
 
+If you live outside the United States, these Terms and Conditions apply to you. If you live in the United States, the Badoo Terms and Conditions available [here](https://badoo.com/en-us/terms/) apply to you.
+
 The Summary
 -----------
 
