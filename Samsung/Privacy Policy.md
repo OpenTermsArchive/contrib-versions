@@ -25,7 +25,7 @@ We may share your personal information with affiliate companies of Samsung Elect
 
 *   ### [GENERAL PRIVACY POLICY](javascript:void(0))
     
-    _Effective Date: 26th October, 2020_
+    _Effective Date: 3rd June 2021_
     
     This Privacy Policy applies to all of our Samsung devices and services, from mobile phones and tablets to TVs, home appliances, online services, and more, collectively called Services.
     
@@ -248,7 +248,7 @@ We may share your personal information with affiliate companies of Samsung Elect
     
     European Data Protection Officer  
     Samsung Electronics (UK) Limited  
-    Samsung House, 1000 Hillswood Drive, Chertsey, Surrey KT16 0PS  
+    Samsung House, 2000 Hillswood Drive, Chertsey, Surrey KT16 0RS, UK  
     
       
     
@@ -405,7 +405,10 @@ We may share your personal information with affiliate companies of Samsung Elect
     
     Samsung Electronics (UK) Limited
     
-    Samsung House, 1000 Hillswood Drive, Chertsey, Surrey KT16 0PS
+    Samsung House, 2000 Hillswood Drive, Chertsey, Surrey KT16 0RS, UK
+    
+      
+      
     
     Samsung Electronics Co., Ltd.
     
@@ -413,13 +416,16 @@ We may share your personal information with affiliate companies of Samsung Elect
     
     Suwon-si, Gyeonggi-do 16677, Korea
     
+      
+      
+    
     If you have any specific questions, please contact us at:
     
     European Data Protection Officer
     
     Samsung Electronics (UK) Limited
     
-    Samsung House, 1000 Hillswood Drive, Chertsey, Surrey KT16 0PS
+    Samsung House, 2000 Hillswood Drive, Chertsey, Surrey KT16 0RS, UK
     
     You can also contact us by visiting our [Privacy Support Page](https://www.samsung.com/request-desk/). We are a global company with offices across Europe. This means that we will ensure your request or query is dealt with by the data protection team based in your region.
     
