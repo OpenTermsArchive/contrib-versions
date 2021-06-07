@@ -1,512 +1,504 @@
-นโยบายการคุ้มครองข้อมูลส่วนบุคคลของ Wix.com
-===========================================
+Wix.com Privacy Policy
+======================
 
-###### อัปเดตนโยบายครั้งล่าสุด: 1 กรกฎาคม 2563
+Effective from December 16, 2020
 
-ยินดีต้อนรับสู่นโยบายการคุ้มครองข้อมูลส่วนบุคคลของ Wix.com
+Welcome to Wix.com’s Privacy Policy
 
-##### 1\. กรุณาอ่านอย่างละเอียดถี่ถ้วน
+1\. Please read carefully
+-------------------------
 
-Wix.com ใส่ใจอย่างยิ่งในข้อมูลส่วนบุคคลของผู้เข้าชมและผู้ใช้ ด้วยสาเหตุนี้เองนโยบายการคุ้มครองข้อมูลส่วนบุคคลฉบับนี้ ("นโยบายการคุ้มครองข้อมูลส่วนบุคคล") จะอธิบายว่า Wix.com Ltd. และบริษัทในเครือทั่วโลก ("Wix", "เรา" หรือ "ของเรา" ) จะรวบรวม ใช้งาน และแชร์ข้อมูลส่วนบุคคลของคุณอย่างไร รวมทั้งอธิบายถึงสิทธิในข้อมูลส่วนบุคคลที่คุณมี นโยบายการคุ้มครองข้อมูลส่วนบุคคลนี้มีผลบังคับต่อผู้ใช้ของ Wix ทุกราย รวมทั้งผู้เข้าชมที่ไม่ได้ลงทะเบียน ผู้ใช้ที่ลงทะเบียน และผู้ใช้ระดับพรีเมียมด้วย (เรียกโดยรวมว่า "ผู้ใช้" "คุณ" หรือ "ของคุณ") และต่อทุกบริการของ Wix รวมทั้งเว็บไซต์ของเรา
+Wix.com cares deeply about the privacy of its visitors and users. To that end, this Privacy Policy (“Privacy Policy”) describes how Wix.com Ltd., together with its affiliated companies worldwide (“Wix”, “we”, “our”, or “us”), collect, use, and share your Personal Information, as well as an explanation of the data rights you may have in that Personal Information. This Privacy Policy applies to all Wix users, including unregistered visitors, registered users, and premium users (collectively, “Users”, “you”, or “your”), and to all Wix services, including our websites (including [www.wix.com](http://www.wix.com/) and any of its subdomains, the “Website”), web applications (“Wix Apps”), mobile applications (“Mobile Apps”), and related services (collectively, the “Services”). This Privacy Policy is not intended to override the terms of any contract you have with us, nor any rights you may have under other applicable data privacy laws.
 
-([www.wix.com](http://www.wix.com/) และซับโดเมนใดๆ ก็ตาม หรือที่เรียกว่า "เว็บไซต์"), เว็บแอปพลิเคชัน ("Wix Apps"), แอปพลิเคชันสำหรับมือถือ ("Mobile Apps") และบริการอื่นๆ ที่เกี่ยวข้อง (เรียกโดยรวมว่า "บริการ") นโยบายการคุ้มครองข้อมูลส่วนบุคคลฉบับนี้ไม่มีเจตนาที่จะลบล้างข้อกำหนดในสัญญาที่คุณได้ลงไว้กับเราหรือสิทธิใดๆ ก็ตามที่คุณมีภายใต้กฎหมายการคุ้มครองข้อมูลอื่นๆ ที่มีผลบังคับใช้ก่อนที่จะเข้าสู่หรือใช้บริการของเรา กรุณาอ่านนโยบายนี้และทำความเข้าใจเกี่ยวกับหลักปฏิบัติของเรา ในแง่ของข้อมูลส่วนบุคคลของคุณให้ถ่องแท้เสียก่อน  หากคุณได้อ่านและทำความเข้าใจนโยบายการคุ้มครองข้อมูลส่วนบุคคลนี้แล้วแต่ยังคงไม่เห็นด้วยกับหลักปฏิบัติของเรา คุณต้องออกจากและเลิกใช้บริการของเราโดยทั้งหมดทั้งปวงทันที  หากคุณมีคำถามหรือข้อกังวลเกี่ยวกับนโยบายนี้ กรุณาติดต่อเราที่ [privacy@wix.com](mailto:privacy@wix.com)
+Prior to accessing or using our Services, please read this policy and make sure you fully understand our practices in relation to your Personal Information.  If you read and fully understand this Privacy Policy, and remain opposed to our practices, you must immediately leave and discontinue all use of any of our Services.  If you have any questions or concerns regarding this policy, please contact us at [privacy@wix.com](mailto:privacy@wix.com).
 
-#ItsThatEasy
+#### #ItsThatEasy
 
-นโยบายนี้อธิบายถึงหลักปฏิบัติของเราในเรื่องประภทข้อมูลส่วนบุคคลที่เรารวบรวมจากผู้ใช้ เรานำข้อมูลไปทำอะไร แชร์ข้อมูลอย่างไร และสิทธิของคุณเกี่ยวกับข้อมูลส่วนบุคคลนั้น
-
-​
-
-การเข้าสู่หรือการใช้บริการใดของเราก็ตาม จะถือว่าคุณยอมรับและได้อ่านนโยบายการคุ้มครองข้อมูลส่วนบุคคลนี้แล้ว
-
-##### 2. ข้อมูลส่วนบุคคลใดบ้างที่เรารวบรวม
-
-###### 2.1. ข้อมูลของผู้ใช้:
-
-เพื่อให้เราสามารถมอบบริการให้แก่คุณ เราจำเป็นต้องรวบรวมข้อมูลส่วนบุคคล ที่เกี่ยวข้องกับบุคคลธรรมดาที่ได้รับการระบุตัวตนหรือสามารถระบุตัวตนได้ ("ข้อมูลส่วนบุคคล") เรารวบรวมข้อมูลส่วนบุคคลที่คุณมอบให้จากการที่คุณใช้บริการของเรา และจากแหล่งอื่นๆ ต่อไปนี้คือประเภทของข้อมูลส่วนบุคคลเกี่ยวกับตัวคุณที่เรารวบรวม:
-
-1.  ข้อมูลส่วนบุคคลที่คุณมอบให้เรา มาจากข้อมูลที่คุณลงทะเบียนเข้าใช้บริการของเรา ซื้อและ/หรือจดทะเบียนโดเมนเนม ใช้บริการใดๆ ของเรา และ/หรือติดต่อเราโดยตรงผ่านช่องทางการสื่อสารใดก็ตาม (เช่น ตั๋วซัพพอร์ตของ Wix, อีเมล) ข้อมูลส่วนบุคคลอาจเป็น ชื่อนามสกุล, ที่อยู่อีเมล, หมายเลขโทรศัพท์, ข้อมูลส่วนบุคคลเพื่อชำระเงิน (สำหรับผู้ใช้ที่ใช้บริการที่ต้องชำระเงิน), ข้อมูลส่วนบุคคลที่คุณแจ้งมาในช่องทางการติดต่อสื่อสาร และข้อมูลส่วนบุคคลที่ปรากฏอยู่ในเอกสารพิสูจน์ตัวตนที่ได้รับการสแกน (เช่น บัตรประจำตัวประชาชน, ใบอนุญาตขับขี่, หนังสือเดินทาง หรือเอกสารการจดทะเบียนบริษัทอย่างเป็นทางการ เป็นต้น) 
-    
-2.  ข้อมูลที่เรารวบรวมเมื่อคุณใช้บริการ เมื่อคุณเข้าชม ดาวน์โหลด และ/หรือใช้บริการใดบริการหนึ่งของเรา เราอาจรวบรวม ข้อมูลส่วนบุคคลในรูปแบบรวม เช่น การท่องเว็บของผู้เข้าชมและของผู้ใช้ และกิจกรรมการ "คลิก-สตรีม" ที่บริการที่เราเสนอ, "heatmap" ของแต่ละเซสชันและการเลื่อนขึ้นลง, ข้อมูลส่วนบุคคลที่ไม่ระบุตัวตนเกี่ยวกับอุปกรณ์ของผู้เข้าชมหรือผู้ใช้, ระบบปฏิบัติการ, เบราว์เซอร์, ความละเอียดของหน้าจอ, การตั้งค่าภาษาและแป้นพิมพ์, ผู้ให้บริการอินเตอร์เน็ต, เพจที่เชื่อมโยงเข้ามา/เชื่อมโยงออกไป, วันที่/เวลาประทับ ฯลฯ
-    
-3.  ข้อมูลที่เรารวบรวมจากแหล่งอื่นๆ เราอาจได้รับข้อมูลส่วนบุคคลของคุณจากแหล่งข้อมูลภายนอก เช่น ก) ผู้ให้บริการด้านการรักษาความปลอดภัย, ผู้ให้บริการในการป้องกันและตรวจจับการฉ้อโกง  ฯลฯ เพื่อให้เราสามารถคัดกรองผู้ใช้ที่อาจเกี่ยวข้องกับการฉ้อโกง ข) แพลตฟอร์มของโซเชียลมีเดีย เมื่อคุณล็อกอินหรือสมัครสมาชิกด้วยบัญชีโซเชียลมีเดียของคุณ เราอาจได้รับข้อมูลส่วนบุคคลจากบริการนั้น (เช่น ชื่อผู้ใช้ของคุณ, ข้อมูลส่วนบุคคลในโปรไฟล์ทั่วไป) และในบางกรณีเราอาจรวบรวมข้อมูลส่วนบุคคลจากบริษัทช่วยเพิ่มผู้มีแนวโน้มที่จะเป็นลูกค้า (lead) ซึ่งจะช่วยให้เราสามารถนำข้อมูลไปปรับปรุงข้อเสนอการให้บริการของเรา ค) คู่ค้าในการโฆษณาและการตลาดเพื่อติดตาม จัดการ และวัดประสิทธิภาพแคมเปญโฆษณาของเรา
-    
-
-#ItsThatEasy
-
-เพื่อการให้บริการเราจึงรวบรวมข้อมูลส่วนบุคคลเกี่ยวกับผู้ใช้ของเรา
-
-ข้อมูลส่วนบุคคลมาจากตัวคุณเองเมื่อคุณเยี่ยมชมหรือใช้บริการของเรา และมาจากข้อมูลส่วนบุคคลที่เรารวบรวมโดยอัตโนมัติ และจากข้อมูลส่วนบุคคลที่เรารวบรวมจากแหล่งอื่น
-
-###### 2.2. ข้อมูลจากผู้ใช้งานของผู้ใช้
-
-เราอาจรวบรวมข้อมูลส่วนบุคคลจากผู้เข้าชมและจากเว็บไซต์หรือบริการของผู้ใช้งานของผู้ใช้ของเรา ("ผู้ใช้งานของผู้ใช้") เพื่อจุดประสงค์สำหรับและในนามของผู้ใช้ของเราเท่านั้น (ดังที่จะอธิบายเพิ่มเติมใน มาตราที่ [6 ด้านล่าง](https://th.wix.com/about/privacy))
-
-##### 3\. เรานำข้อมูลส่วนบุคคลเหล่านั้นไปใช้งานในลักษณะใด
-
-เราใช้ข้อมูลส่วนบุคคลของคุณเพื่อจุดประสงค์ต่อไปนี้:
-
-1.  เพื่อมอบและดำเนินการมอบบริการ
-    
-2.  เพื่อพัฒนา ปรับแต่ง ขยาย และปรับปรุงบริการของเราให้ดียิ่งขึ้น ตามความชื่นชอบโดยรวมและความชื่นชอบส่วนตัว ตามประสบการณ์ และปัญหาของผู้ใช้
-    
-3.  เพื่อมอบคำแนะนำสำหรับลูกค้าและความช่วยเหลือทางเทคนิคให้แก่ผู้ใช้ของเราอย่างต่อเนื่อง
-    
-4.  เพื่อสามารถติดต่อผู้ใช้ของเราด้วยคำประกาศทั่วไปหรือคำประกาศที่เกี่ยวกับการบริการสำหรับบุคคลนั้นโดยเฉพาะ และด้วยข้อความโฆษณา (ดังที่แจกแจงรายละเอียดไว้ในมาตราที่ 8 ด้านล่าง)
-    
-5.  เพื่อช่วยให้เราอัปเดต ขยาย และวิเคราะห์ระเบียนข้อมูลของเราเพื่อสามารถบ่งชี้ถึงลูกค้ารายใหม่ได้
-    
-6.  เพื่อมอบความสะดวก ให้การสนับสนุนทางการเงิน และเสนอการแข่งขัน อีเวนท์และโปรโมชันบางอย่าง, เพื่อระบุสิทธิในการรับเลือกของผู้เข้าร่วม, เพื่อติดตามประสิทธิภาพการดำเนินการ เพื่อติดต่อผู้ชนะ และเพื่อมอบรางวัลและสิทธิประโยชน์ต่างๆ
-    
-7.  เพื่อสร้างข้อมูลทางสถิติแบบรวม และข้อมูลส่วนบุคคลอื่นๆ แบบรวมและ/หรือจากการอนุมาน ซึ่งเราเองหรือคู่ค้าทางธุรกิจของเราอาจใช้เพื่อเสนอและปรับปรุงบริการของเรา
-    
-8.  เพื่อมอบความช่วยเหลือระดับมืออาชีพให้แก่คุณ หากคุณต้องการเท่านั้น
-    
-9.  เพื่อยกระดับความสามารถของเราในการรักษาความปลอดภัยของข้อมูลและการป้องกันการฉ้อโกง
-    
-10.  เพื่อปฏิบัติตามกฎและข้อบังคับที่เกี่ยวข้อง
-    
+This policy describes our privacy practices – what Personal Information we collect about our Users, what we do with it, how we share it, and your rights regarding that Personal Information.
 
 ​
 
-เราจะใช้ข้อมูลส่วนบุคคลของคุณเพื่อจุดประสงค์ที่ประกาศไว้ในมาตราที่ 3 เมื่อเราเชื่อว่า:
+By accessing or using any of our Services, you acknowledge that you have read this Privacy Policy.
 
-1.  การนำข้อมูลส่วนบุคคลของคุณไปใช้มีความจำเป็นต่อการดำเนินสัญญาหรือต่อขั้นตอนการลงสัญญากับคุณ (เช่น เพื่อมอบโปรแกรมสร้างเว็บไซต์ให้คุณ เพื่อมอบคำแนะนำสำหรับลูกค้าและความช่วยเหลือทางเทคนิคให้กับคุณ)
+2\. What ‘Personal Information’ do we collect?
+----------------------------------------------
+
+###### 2.1. User information:
+
+To provide you the Services, we must collect Personal Information relating to an identified or identifiable natural person (“Personal Information”). We collect Personal Information you provide us, from your use of the Services, and from other sources. Here are the types of Personal Information we collect about you:
+
+1.  Information you provide us. When you register for our Services, purchase and/or register domain names, use any of our Services; and/or when you contact us directly by any communication channel (e.g., Wix’s support tickets, emails), you may provide us Personal Information, such as name, email address, phone number, payment information (for Users with Paid Services), information you include in your communications with us and with other users on our platform, and Personal Information contained in scanned identification documents (such as an ID card, driver’s license, passport, or official company registration documents). 
     
-2.  การนำข้อมูลส่วนบุคคลของคุณไปใช้มีความจำเป็นต่อการปฏิบัติตามพันธะทางกฎหมายหรือทางกฎข้อบังคับที่เกี่ยวข้องที่เรามี หรือ
+2.  Information we collect when you use the Services. When you visit, download, and/or use any of our Services, we may collect aggregated usage Personal Information, such as Visitors’ and Users’ browsing and ‘click-stream’ activity on the Services, session heatmaps and scrolls, non-identifying Personal Information regarding the Visitor’s or User’s device, operating system, internet browser, screen resolution, language and keyboard settings, internet service provider, referring/exit pages, date/time stamps, etc
     
-3.  การนำข้อมูลส่วนบุคคลของคุณไปใช้มีความจำเป็นต่อการสนับสนุนส่วนได้ส่วนเสียตามกฎหมายและจุดประสงค์ทางธุรกิจ (เช่น เพื่อคงระดับและปรับปรุงบริการและประสิทธิภาพของ Wix โดยการระบุปัญหาทางเทคนิค) โดยที่ว่าการนำข้อมูลดังกล่าวไปใช้นั้นต้องอยู่ในสัดส่วนที่เหมาะสมและเคารพสิทธิความเป็นส่วนตัวของคุณ
+3.  Information we collect from other sources. We may receive Personal Information about you from third-party sources, such as i) security providers , fraud detection and prevention providers for example to help us screen out users associated with fraud, ii) social media platforms, when you log-in or sign-up using your social media account, we may receive Personal Information from that service (e.g., your username, basic profile Personal Information) and in some cases, we may collect Personal Information from lead enhancement companies which help us to improve our service offering; iii) advertising and marketing partners in order to monitor, manage and measure our ad campaigns.
     
 
-#ItsThatEasy
+#### #ItsThatEasy
 
-เราใช้ข้อมูลส่วนบุคคลของคุณที่รวบรวมได้เพื่อให้เราสามารถเสนอบริการ และเพื่อปรับปรุงบริการดังกล่าวให้ดีขึ้นและปลอดภัยขึ้น
+To provide our Services, we collect Personal Information about our Users.
 
-​
+The Personal Information comes from you when you visit or use our services, Personal Information we collect automatically, and Personal Information we collect from other sources.
 
-เรายังรวบรวมและใช้ข้อมูลส่วนบุคคลเพื่อติดต่อผู้ใช้ และเพื่อปฏิบัติการให้สอดคล้องกับกฎหมายที่เกี่ยวข้องกับเรา
+### 2.2. Users of users ‘Personal Information’
 
-##### 4\. ราแชร์ข้อมูลส่วนบุคคลของคุณอย่างไร
+We may also collect Personal Information pertaining to visitors and users of our User’s websites or services (“Users-of-Users”), solely for and on our Users’ behalf (as further described in [Section ‎6](https://www.wix.com/about/privacy) below).
 
-เรามีสิทธิแชร์ข้อมูลส่วนบุคคลของคุณกับผู้ให้บริการและผู้อื่น (หรืออนุญาตให้บุคคลเหล่านั้นเข้าถึงข้อมูลได้) ในลักษณะและกรณีดังต่อไปนี้:
+### 2.3. Wix jobs applicant information
 
-บริการจากบุคคลภายนอก: Wix ได้ร่วมธุรกิจกับผู้ให้บริการที่คัดสรรแล้วจำนวนหนึ่ง ซึ่งบริการและโซลูชันจากผู้ให้บริการเหล่านั้นช่วยสร้างความสมบูรณ์ มอบความสะดวก และยกระดับบริการของเรา บริการดังกล่าวครอบคลุมถึงบริการโฮสติงและบริการเช่าพื้นที่วางเซิร์ฟเวอร์, การติดต่อสื่อสารและระบบเครือข่าย CDN, บริการรักษาความปลอดภัยทางข้อมูลและความมั่นคงปลอดภัยทางไซเบอร์, บริการเรียกเก็บเงินและประมวลการชำระเงิน, การจดทะเบียนโดเมนเนม, บริการป้องกันและตรวจจับการฉ้อโกง, การวิเคราะห์เว็บไซต์, บริการแจกจ่ายและติดตามอีเมล, บริการบันทึกการเข้าใช้เว็บไซต์และการเข้าถึงเครือข่ายจากระยะไกล, การวัดสมรรถภาพ, บริการทางการตลาดและเพิ่มประสิทธิภาพข้อมูล, ผู้ให้บริการพัฒนา/จัดหาข้อมูลหรือเนื้อหา และที่ปรึกษาด้านกฎหมายและการเงินของเรา (เรียกโดยรวมว่า "บริการจากบุคคลภายนอก")
+We also collect information that is provided to us by Wix jobs candidates (“Applicants”), when they apply to any of the open positions published at [[https://www.wix.com/jobs](https://www.wix.com/jobs)](https://www.wix.com/jobs), by e-mail or otherwise (as further described in [Section ‎15](https://www.wix.com/about/privacy) below).
 
-​
+3\. Why do we collect such ‘Personal Information’
+-------------------------------------------------
 
-Wix อาจแชร์ข้อมูลส่วนบุคคลประเภทต่อไปนี้ให้กับผู้ให้บริการจากภายนอกเพื่อจุดประสงค์ทางธุรกิจ:
+We use your Personal Information for the following purposes:
 
-*   ข้อมูลระบุตัวบุคคล ซึ่งได้แก่ ชื่อ, นามสมมุติ, รหัสไปรษณีย์, ข้อมูลระบุเฉพาะตัวบุคคล, ข้อมูลระบุตัวบุคคลทางออนไลน์, ที่อยู่ IP, ที่อยู่อีเมล, ชื่อบัญชี หรือข้อมูลระบุตัวบุคคลอื่นในลักษณะเดียวกัน
+1.  To provide and operate the Services;
     
-*   ข้อมูลส่วนบุคคลเชิงพาณิชย์ เช่น ข้อมูลส่วนบุคคลเกี่ยวกับผลิตภัณฑ์หรือบริการที่ซื้อไป ที่ได้รับมา หรือที่พิจารณาว่าจะซื้อ
+2.  .To further develop, customize, expand, and improve our Services, based on Users’ common or personal preferences, experiences and difficulties;
+    
+3.  To provide our Users with ongoing customer assistance and technical support;
+    
+4.  To be able to contact our Users with general or personalized service-related notices and promotional messages (as further detailed in [Section 8](https://www.wix.com/about/privacy) below);
+    
+5.  To help us to update, expand and analyze our records to identify new customers;
+    
+6.  To facilitate, sponsor, and offer certain contests, events, and promotions, determine participants’ eligibility, monitor performance, contact winners, and grant prizes and benefits;
+    
+7.  To analyze our performance and marketing activities;
+    
+8.  To create aggregated statistical data and other aggregated and/or inferred information, which we or our business partners may use to provide and improve our respective services;
+    
+9.  To provide you with professional assistance , only upon your request;
+    
+10.  To enhance our data security and fraud prevention capabilities; and
+    
+11.  To comply with any applicable laws and regulations.
     
 
 ​
 
-Wix จะรับผิดชอบข้อมูลส่วนบุคคลที่ได้รับภายใต้การคุ้มครองความเป็นส่วนตัวในการโอนข้อมูล และจะโอนข้อมูลดังกล่าวไปยังบุคคลภายนอกตามที่แจกแจงไว้ในหลักปฏิบัติการคุ้มครองความเป็นส่วนตัวในการโอนข้อมูล โดยเฉพาะอย่างยิ่งแล้ว Wix ยังคงมีหน้าที่รับผิดชอบและรับผิด ภายใต้หลักปฏิบัติการคุ้มครองความเป็นส่วนตัวในการโอนข้อมูลอยู่เช่นเดิม หากผู้ให้บริการจากภายนอกประมวลข้อมูลส่วนบุคคลในนามของ Wix ในลักษณะที่ไม่สอดคล้องกับหลักปฏิบัติฯ เว้นเสียแต่ว่า Wix พิสูจน์ได้ว่าตนไม่มีหน้าที่รับผิดชอบต่อสถานการณ์ที่เป็นต้นเหตุของความเสียหายนั้น
+We use your Personal Information for the purposes set out in Section 3 where:
+
+1.  Our use of your Personal Information is necessary to perform a contract or to take steps to enter into a contract with you (e.g. to provide you with a website builder, to provide you with our customer assistance and technical support);
+    
+2.  Our use of your Personal Information is necessary to comply with a relevant legal or regulatory obligation that we have; or
+    
+3.  Our use of your Personal Information is necessary to support legitimate interests and business purposes (for example, to maintain and improve our Services and the effectiveness of Wix by identifying technical issues), provided it is conducted in a way that is proportionate and that respects your privacy rights.
+    
+
+#### #ItsThatEasy
+
+We use the Personal Information we collect about you to provide our services and make them better and safer.
+
+​
+
+We also collect and use Personal Information in order to contact Users and to comply with the laws applicable to us.
+
+4\. How we share your ‘Personal Information’
+--------------------------------------------
+
+We may share your Personal Information with service providers and others (or otherwise allow them access to it) in the following manners and instances:
+
+Third Party Service Providers: Wix has partnered with a number of selected service providers, whose services and solutions complement, facilitate and enhance our own. These include hosting and server co-location services, communications and content delivery networks (CDNs), data and cyber security services, billing and payment processing services, domain name registrars, fraud detection and prevention services, web analytics, e-mail distribution and monitoring services, session recording and remote access services, performance measurement, data optimization and marketing services, content providers, and our legal and financial advisors (collectively, “Third Party Service Provider(s)”).
+
+​
+
+Wix may share the following categories of Personal Information with Third Party Service Providers for a business purpose:
+
+*   identifiers, including name, alias, postal address, unique personal identifier, online identifier, internet protocol address, email address, account name, or other similar identifiers
+    
+*   commercial information, for example information regarding products or services purchased, obtained, or considered
+    
 
 4.1.
 
-#ItsThatEasy
+#### #ItsThatEasy
 
-เราอาจแชร์ข้อมูลส่วนบุคคลของผู้ใช้และผู้ใช้งานของผู้ใช้ของเรากับบุคคลภายนอกรายต่างๆ รวมทั้งกับผู้ให้บริการรายเฉพาะและเจ้าหน้าที่จากหน่วยงานผู้บังคับใช้กฎหมาย
+We may share the Personal Information of our Users and Users-of-Users with various third parties, including certain service providers and law enforcement officials.
 
 ​
 
-​เราสามารถแชร์ข้อมูลส่วนบุคคลในลักษณะที่สอดคล้องกับนโยบายนี้เท่านั้น
+The Personal Information may be shared solely in accordance with this policy.
 
-การบังคับใช้กฎหมาย คำร้องทางกฎหมาย และหน้าที่รับผิดชอบ: Wix มีสิทธิเปิดเผยหรืออนุญาตให้ผู้อื่นเข้าถึงข้อมูลส่วนบุคคลของคุณตามคำร้องทางกฎหมาย เช่น ตามหมายเรียกพยาน ตามการดำเนินการทางกฎหมาย ตามหมายค้นหรือคำสั่งศาล หรือเพื่อให้สอดคล้องกับกฎหมายที่มีผลบังคับใช้ หากเราเชื่ออย่างสุจริตใจว่ากฎหมายกำหนดให้เราดำเนินการเช่นนั้น โดยไม่ต้องคำนึงว่าต้องแจ้งให้คุณทราบล่วงหน้าหรือไม่
+Law Enforcement, Legal Requests and Duties: Wix may disclose or otherwise allow access to your Personal Information pursuant to a legal request, such as a subpoena, legal proceedings, search warrant or court order, or in compliance with applicable laws, if we have a good faith belief that the law requires us to do so, with or without notice to you.
 
 4.2.
 
-การคุ้มครองสิทธิและความปลอดภัย: Wix อาจแชร์ข้อมูลส่วนบุคคลของคุณหากเราเชื่ออย่างสุจริตใจว่า การกระทำดังกล่าวจะช่วยคุ้มครองสิทธิ ทรัพย์สิน หรือความปลอดภัยของ Wix, ของผู้ใช้ของเรา, ของผู้ใช้งานของผู้ใช้ หรือของบุคคลทั่วไป โดยไม่คำนึงว่าต้องแจ้งให้คุณทราบล่วงหน้า
+Protecting Rights and Safety: Wix may share your Personal Information if we believe in good faith that this will help protect the rights, property or personal safety of Wix, any of our Users, any Users-of-Users, or any member of the general public, with or without notice to you.
 
 4.3.
 
-ฟีเจอร์การใช้งานบนโซเชียลมีเดียและเพจที่ถูกเฟรม: บริการของเราประกอบด้วยฟีเจอร์การใช้งานบนโซเชียลมีเดียบางประการ วิดเจ็ต และฟีเจอร์การพิสูจน์ตนเพียงครั้งเดียว เช่น "Facebook Connect", "Google Sign-in", "Facebook Like" หรือปุ่ม "Share this" หรือโปรแกรมจิ๋วที่สร้างปฏิสัมพันธ์อื่นๆ ("ฟีเจอร์การใช้งานบนโซเชียลมีเดีย") ฟีเจอร์การใช้งานบนโซเชียลมีเดียเหล่านี้อาจรวบรวมข้อมูลส่วนบุคคลบางประการ เช่น ที่อยู่ IP ของคุณหรือเพจที่คุณกำลังเข้าชมในเว็บไซต์ของเรา และอาจตั้งคุกกี้เพื่อทำให้ฟีเจอร์เหล่านั้นทำงานได้อย่างเหมาะสม ฟีเจอร์การใช้งานบนโซเชียลมีเดียได้รับการโฮสต์โดยบุคคลภายนอกหรือบนบริการของเราโดยตรง นโยบายของบุคคลภายนอก (ไม่ใช่ของเรา) เป็นตัวกำกับดูแลปฏิสัมพันธ์ของคุณกับฟีเจอร์โซเชียลมีเดียเหล่านั้น
+Social Media Features and Framed Pages: Our Services include certain Social Media features, widgets, and single sign on features, such as the “Facebook Connect,” “Google Sign-in,” “Facebook Like”, or “Share this” button or other interactive mini-programs (“Social Media Features”). These Social Media Features may collect certain Personal Information such as your IP address or which page you are visiting on our Website and may set a cookie to enable them to function properly. Social Media Features are either hosted by a third party or hosted directly on our Services. Your interactions with these third parties’ Social Media Features are governed by their policies and not ours.
 
 ​
 
-นอกจากนั้นบริการของเราอาจเปิดโอกาสให้คุณแชร์ข้อมูลส่วนบุคคลของคุณกับบุคคลภายนอกได้โดยตรง เช่น ด้วยเทคนิคการเฟรมเพจเพื่อส่งหรือรับเนื้อหามาจากบริการของบุคคลภายนอกหรือบุคคลอื่น ในขณะที่ยังคงรูปลักษณ์และลักษณะในการใช้งานเว็บไซต์และบริการของเราอยู่เช่นเดิม ("เฟรม") โปรดระวังว่าหากคุณเลือกสร้างปฏิสัมพันธ์หรือแชร์ข้อมูลส่วนบุคคลผ่านเฟรมดังกล่าว นั่นหมายถึงการมอบข้อมูลของคุณให้กับบุคคลภายนอกเหล่านั้น (และไม่ได้มอบให้กับเรา) และนโยบายของบุคคลภายนอก (ไม่ใช่ของเรา) จะเป็นตัวกำกับดูแลปฏิสัมพันธ์และการแชร์ข้อมูล
+In addition, our Services may enable you to share your Personal Information with third parties directly, such as via page framing techniques to serve content to or from Third-Party Service Providers or other parties, while preserving the look and feel of our Website and Services (“Frames”). Please be aware that if you choose to interact or share any Personal Information via such Frames, you are in fact providing it to these third parties and not to us, and such interactions and sharing are governed by those third parties’ policies and not ours.
 
 4.4.
 
-นักพัฒนา App Market: ตามหลักการของโครงการ App Market ของเรา เราอนุญาตให้นักพัฒนาจากภายนอก ("นักพัฒนาจากภายนอก") พัฒนาและเสนอแอปพลิเคชันของตนผ่าน Wix App Market ("แอปจากบุคคลภายนอก") ร่วมกับ Wix
+App Market Developers: As part of our App Market program, we allow third party developers (“Third Party Developer(s)”) to develop and offer their own applications via the Wix App Market (“Third Party App(s)”), in conjunction with Wix.
 
 ​
 
-นักพัฒนาจากภายนอกแต่ละรายจำเป็นต้องปฏิบัติตาม [ข้อตกลงสำหรับโครงการคู่ค้าธุรกิจใน Wix App Market](https://devforum.wix.com/en/article/partner-agreement)  ซึ่งมีข้อจำกัดเกี่ยวกับวิธีที่นักพัฒนาเหล่านั้นเข้าถึง จัดเก็บ แชร์ และใช้ข้อมูลส่วนบุคคล ซึ่งคุณและ/หรือผู้ใช้งานของผู้ใช้มอบให้แก่เหล่านักพัฒนาหรือแก่เรา (ตามที่ได้แจกแจงรายละเอียดเพิ่มเติมใน [ข้อกำหนดในการใช้งาน Wix App Market](http://about.wix.com/app-market-terms))
+Each Third Party Developer is bound by the [Wix App Market – Partner Program Agreement](http://dev.wix.com/docs/publish/partners-agreement), which among others, contains restrictions on how they may access, store, share, and use the Personal Information you and/or your Users-of-Users provide them or us (as further detailed in the [Wix App Market Terms of Use](http://about.wix.com/app-market-terms))
 
 ​
 
-เราขอแนะนำให้คุณตรวจสอบนโยบายการคุ้มครองข้อมูลส่วนบุคคลที่เสนอมากับแอปของบุคคลภายนอก และขอรับคำอธิบายจากนักพัฒนาจากภายนอก ก่อนที่จะตัดสินใจว่าจะติดตั้งและใช้แอปของบุคคลภายนอกเหล่านั้นหรือไม่ Wix ไม่ควบคุมหรือไม่มีส่วนรับผิดชอบการกระทำหรือนโยบายของนักพัฒนาจากภายนอก ดังนั้นการใช้งานแอปของบุคคลภายนอกอยู่ภายใต้ดุลพินิจของคุณเอง
+We encourage you to review any privacy policy accompanying a Third Party App and ask Third Party Developers for any clarifications you may need before deciding to install and use their Third Party App. Wix does not control and is not responsible for the actions or policies of any Third Party Developers, and your use of any Third Party App is at your own risk.
 
 ​
 
-​คุณแต่เพียงผู้เดียวเท่านั้นมีหน้าที่รับผิดชอบในการแจ้งให้ผู้ใช้งานของผู้ใช้ทราบถึงการรวบรวม การประมวล และการใช้ข้อมูลของพวกเขา ทั้งยังต้องแจ้งให้บุคคลดังกล่าวทราบด้วยว่า Wix จะโอนและประมวลข้อมูลของพวกเขาในนามของคุณ
+You are solely responsible for notifying your Users-of-Users of the collection, processing and use of their Information and informing them that their Information will be transferred to and processed by Wix on your behalf.
 
 4.5.
 
-บริษัทสาขาและบริษัทในเครือของ Wix: เราอาจแชร์ข้อมูลส่วนบุคคลของคุณกับบริษัทในเครือของเรา เพื่อจุดประสงค์ที่อธิบายไว้ในนโยบายการคุ้มครองข้อมูลส่วนบุคคลฉบับนี้ ตัวอย่างเช่น เราอาจแชร์ข้อมูลส่วนบุคคลของคุณกับ Wix.com Inc. ซึ่งเป็นบริษัทสาขาสหรัฐฯ ของเรา เพื่อช่วยสร้างความสะดวกและมอบบริการของเราให้กับคุณ (และให้กับผู้ใช้งานของผู้ใช้)
+Wix Subsidiaries and Affiliated Companies: We may share your Personal Information internally within our family of companies, for the purposes described in this Privacy Policy. For example, we may share your Personal Information with Wix.com Inc., our US-based subsidiary, in the course of facilitating and providing you (and your Users-of-Users) with our Services.
 
 ​
 
-​การแชร์ข้อมูลส่วนบุคคลจากบริษัทสาขาและบริษัทในเครือของ Wix ในสหภาพยุโรปและสวิตเซอร์แลนด์ไปยังบริษัทสาขาของ Wix ในสหรัฐอเมริกา จะเป็นไปตามกรอบโครงสร้างการคุ้มครองความเป็นส่วนตัวในการโอนข้อมูลระหว่างสหภาพยุโรปและสหรัฐอเมริกาและกรอบโครงสร้างฯ ระหว่างสวิตเซอร์แลนด์และสหรัฐอเมริกา
+Sharing Personal Information from Wix subsidiaries and affiliated companies in the European Union and Switzerland to Wix’s United States subsidiary will be only when the relevant Model Standard Contractual Clauses are in place .
 
 4.6.
 
-ในกรณีที่มีการเปลี่ยนแปลงการควบคุมบังคับบัญชาบริษัทธุรกิจ: นอกจากนั้นหาก Wix หรือบริษัทในเครือมีการเปลี่ยนแปลงอำนาจควบคุม ด้วยวิธีของการควบรวมกิจการ การซื้อกิจการ หรือการซื้อทรัพย์สินส่วนใหญ่ทั้งหมด เป็นต้น ข้อมูลส่วนบุคคลของคุณอาจถูกแชร์กับฝ่ายอื่นที่มีส่วนเกี่ยวข้องกับสถานการณ์นั้นๆ
+Connection With a Change in Corporate Control: In addition, should Wix or any of its affiliates undergo any change in control, including by means of merger, acquisition or purchase of substantially all of its assets, your Personal Information may be shared with the parties involved in such event.
 
 4.7.
 
-ตามคำสั่งเพิ่มเติมของคุณ: Wix อาจแชร์ข้อมูลส่วนบุคคลของคุณกับบุคคลภายนอกเพื่อจุดประสงค์อื่น ตามคำสั่งเพิ่มเติมของคุณหรือเมื่อคุณได้อนุมัติอย่างชัดเจน
+Upon Your Further Direction: Wix may also share your Personal Information with third parties for other purposes upon your further direction or with your explicit approval. 
 
 4.8.
 
-##### 5\. เราเก็บข้อมูลส่วนบุคคลของคุณไว้ที่ไหน?
+5\. Where do we store your ‘Personal Information’?
+--------------------------------------------------
 
-ข้อมูลส่วนบุคคลของผู้ใช้และของผู้ใช้งานของผู้ใช้อาจได้รับการจัดเก็บในศูนย์ข้อมูลซึ่งตั้งอยู่ในสหรัฐอเมริกา ไอร์แลนด์ เกาหลีใต้ ไต้หวัน และอิสราเอล เราอาจใช้เขตอำนาจรัฐอื่นตามความจำเป็นเพื่อให้สามารถมอบบริการของเราได้อย่างเหมาะสม และ/หรือตามที่กฎหมายกำหนด (ตามที่ได้แจกแจงรายละเอียดเพิ่มเติมด้านล่าง)
-
-​
-
-บริษัท Wix.com Ltd. จำกัด ตั้งอยู่ในประเทศอิสราเอล และได้รับการพิจารณาจากคณะกรรมาธิการยุโรปว่าสามารถเสนอระดับการคุ้มครองข้อมูลส่วนบุคคลของผู้พำนักอาศัยในรัฐสมาชิกสหภาพยุโรปได้อย่างเหมาะสม
+Users’ and Users-of-Users’ Personal Information may be stored in data centers located in the United States of America, Ireland, Japan and Israel. We may use other jurisdictions as necessary for the proper delivery of our Services and/or as may be required by law.
 
 ​
 
-บริษัทในเครือของ Wix และผู้ให้บริการจากภายนอก ที่จัดเก็บหรือประมวลข้อมูลส่วนบุคคลของคุณในนามของ Wix ต่างมีพันธะตามที่ลงนามในสัญญาที่จะต้องปกป้องและรักษาความปลอดภัยให้กับข้อมูลนั้นๆ ตามมาตรฐานของอุตสาหกรรม โดยไม่คำนึงว่าข้อบังคับทางกฎหมายที่มีผลบังคับใช้ในเขตอำนาจรัฐของตนอาจมีความเคร่งครัดน้อยกว่าหรือไม่
+Wix.com Ltd. is based in Israel, which is considered by the European Commission to be offering an adequate level of protection for the Personal Information of EU Member State residents.
+
+​
+
+Wix affiliates and Third-Party Service Providers that store or process your Personal Information on Wix’s behalf are contractually committed to keep it protected and secured, in accordance with industry standards and regardless of any lesser legal requirements which may apply in their jurisdiction.
 
 5.1.
 
-#ItsThatEasy
-
-เราอาจเป็นผู้จัดเก็บและประมวลข้อมูลส่วนบุคคลในสหรัฐฯ ยุโรป อิสราเอล หรือเขตอำนาจรัฐอื่นเอง หรือรับความช่วยเหลือของบริษัทในเครือและผู้ให้บริการของเรา
-
-การเปิดเผยข้อมูลตามการคุ้มครองความเป็นส่วนตัวในการโอนข้อมูลระหว่างสหภาพยุโรปและสหรัฐอเมริกาและการคุ้มครองความเป็นส่วนตัวในการโอนข้อมูลระหว่างสวิตเซอร์แลนด์และสหรัฐอเมริกา
-
-​
-
-Wix เข้าร่วมและได้ลงนามรับรองวิธีการปฏิบัติงานของตน ตามกรอบโครงสร้างการคุ้มครองความเป็นส่วนตัวในการโอนข้อมูลระหว่างสหภาพยุโรปและสหรัฐอเมริกา (EU-U.S. Privacy Shield) และกรอบโครงสร้างการคุ้มครองความเป็นส่วนตัวในการโอนข้อมูลระหว่างสวิตเซอร์แลนด์และสหรัฐอเมริกา (Swiss-U.S. Privacy Shield) ส่วนในประเด็นของกรอบโครงสร้างการคุ้มครองความเป็นส่วนตัวในการโอนข้อมูล ทาง Wix มีพันธะที่จะต้องดำเนินการกับข้อมูลส่วนบุคคลทั้งหมดที่ได้รับจากประเทศสมาชิกในสหภาพยุโรป (EU) และสวิตเซอร์แลนด์ตามหลักปฏิบัติที่เกี่ยวข้องของกรอบโครงสร้างนั้น  เพื่อศึกษาเพิ่มเติมเกี่ยวกับกรอบโครงสร้างการคุ้มครองความเป็นส่วนตัวในการโอนข้อมูล กรุณาเยี่ยมชมรายละเอียดการคุ้มครองความเป็นส่วนตัวในการโอนข้อมูลของกระทรวงพาณิชย์แห่งสหรัฐอเมริกา[ที่นี่](https://www.privacyshield.gov/)
-
-​
-
-Wix รับผิดชอบเรื่องการประมวลข้อมูลส่วนบุคคลที่ได้รับภายใต้กรอบโครงสร้างการคุ้มครองความเป็นส่วนตัวในการโอนข้อมูล และจะโอนข้อมูลต่อไปยังบุคคลภายนอกที่ทำหน้าที่เป็นตัวแทนดำเนินการ และ Wix มีหน้าที่ดำเนินการให้สอดคล้องกับหลักปฏิบัติการคุ้มครองความเป็นส่วนตัวในการโอนข้อมูลสำหรับการส่งยื่นข้อมูลส่วนบุคคลจากสหภาพยุโรป และกับบทบัญญัติเรื่องความรับผิดชอบความเสียหายในการส่งยื่นข้อมูล
-
-​
-
-ในแง่ของข้อมูลส่วนบุคคลที่ได้รับหรือโอนต่อไปตามกรอบโครงสร้างการคุ้มครองความเป็นส่วนตัวในการโอนข้อมูล ทาง Wix จำต้องปฏิบัติตามอำนาจหน้าที่ในการบังคับใช้กฎหมายของคณะกรรมการการค้าแห่งสหรัฐอเมริกา (FTC) ในบางกรณี Wix อาจได้รับคำร้องตามกฎหมายจากเจ้าหน้าที่รัฐให้เปิดเผยข้อมูลส่วนบุคคล รวมทั้งให้ปฏิบัติตามข้อบังคับด้านการรักษาความปลอดภัยแห่งชาติหรือด้านการบังคับใช้กฎหมาย และจะปฏิบัติการตามนั้นหากได้รับอนุญาตจากกฎหมายการคุ้มครองข้อมูลในท้องถิ่น
-
-​
-
-หากคุณมีข้อกังขาเรื่องการคุ้มครองข้อมูลส่วนบุคคลหรือการใช้ข้อมูลที่เราไม่ได้ดูแลอย่างน่าพอใจ กรุณาติดต่อผู้ให้บริการระงับข้อพิพาทจากภายนอกซึ่งตั้งอยู่ในสหรัฐฯ (ไม่มีค่าธรรมเนียม) ได้ที่ [https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request) 
-
-​
-
-ภายใต้เงื่อนไขบางประการ ซึ่งอธิบายอย่างละเอียดมากขึ้นใน [เว็บไซต์ของการคุ้มครองความเป็นส่วนตัวในการโอนข้อมูล](https://www.privacyshield.gov/) คุณมีสิทธิยื่นเรื่องต่ออนุญาโตตุลาการหากใช้กระบวนการระงับข้อพิพาทอื่นๆ ทั้งหมดแล้ว
-
-​
-
-เมื่อมีการร้องของ ทาง Wix จะแสดงข้อมูลเพื่อให้คุณรับทราบว่าเราได้จัดเก็บข้อมูลส่วนบุคคลของคุณหรือไม่อย่างไร โดยคุณสามารถเข้าถึง แก้ไข หรือส่งคำร้องขอลบข้อมูลส่วนบุคคลของคุณได้โดยปฏิบัติตามขั้นตอนที่แจ้งไว้ในบทความในศูนย์ช่วยเหลือ: "[การเรียกข้อมูลในบัญชี Wix ของคุณกลับคืน](https://support.wix.com/en/article/gdpr-retrieving-your-wix-account-data)" หรือ "[การลบบัญชี Wix ของคุณอย่างถาวร](https://support.wix.com/en/article/gdpr-permanently-deleting-your-wix-account)" หลังจากนั้นเราจะติดต่อกลับไปภายในกรอบเวลาที่กฎหมายท้องถิ่นกำหนดหรือตามความเหมาะสม
-
-​
-
-​โปรดทราบว่าการลบบัญชี Wix ของคุณอย่างถาวรจะลบข้อมูลส่วนบุคคลทั้งหมดของคุณจากฐานข้อมูลของ Wix เมื่อขั้นตอนดังกล่าวสิ้นสุดลงคุณจะไม่สามารถใช้บริการใดได้อีกต่อไป และบัญชีผู้ใช้ของคุณรวมทั้งข้อมูลทั้งหมดจะถูกลบอย่างถาวร ทาง Wix จะไม่สามารถกู้บัญชีของคุณหรือเรียกข้อมูลส่วนบุคคลของคุณกลับคืนมาได้ในอนาคต หากคุณติดต่อฝ่ายช่วยเหลือของ Wix ในอนาคต ระบบจะไม่สามารถจำได้ว่าเป็นบัญชีของคุณและเจ้าหน้าที่ฝ่ายช่วยเหลือจะไม่สามารถระบุที่อยู่ของบัญชีที่ลบไปแล้วได้
+Transfer of EU Personal data : If you are located in Europe, when we will transfer your Personal Information to the United States or anywhere outside Europe, we will make sure that (i) there is a level of protection deemed adequate by the European Commission or (ii) that the relevant Model Standard Contractual Clauses are in place. 
 
 5.2.
 
-ผู้ให้บริการการจัดเก็บข้อมูลของ Wix มีพันธะตามสัญญาว่าจะต้องปกป้องและรักษาข้อมูลของคุณให้ปลอดภัย
+#### #ItsThatEasy
 
-นอกจากนั้น Wix ยังยึดถือหลักปฏิบัติการคุ้มครองความเป็นส่วนตัวในการโอนข้อมูลระหว่างยุโรปและสหรัฐอเมริกา และระหว่างสวิตเซอร์แลนด์และสหรัฐอเมริกา เพื่อปกป้องและยกระดับความเป็นส่วนตัวของผู้ใช้ของเราให้มากขึ้นด้วย
+We may store and process Personal Information in the USA, Europe, Israel, or other jurisdictions, whether by ourselves or with the help of our affiliates and service providers.
 
-#ItsThatEasy
+Wix’s data storage providers are contractually committed to protect and secure your data.
 
-เขตอำนาจรัฐบางแห่งกำหนดให้เราเก็บรักษาและจัดเก็บข้อมูลส่วนบุคคลของประชากรของตนภายในท้องถิ่นเท่านั้น
+Among other things, Wix will ensure that there is the adequate level of protection or that   relevant Model Standard Contractual Clauses are in place for the international transfer of our EU users’ data.
 
-​
-
-​เราอาจรวบรวม ประมวล จัดเก็บ และใช้ข้อมูลส่วนบุคคลดังกล่าวในเขตแดนอื่น รวมทั้งในสหรัฐฯ
-
-ข้อบังคับในการเก็บข้อมูลภายในเขตแดน: หากคุณพำนักอยู่ในเขตอำนาจรัฐที่กำหนดให้มี "การเก็บข้อมูลภายในเขตแดน" หรือ "ถิ่นที่อยู่ของข้อมูล" (คือกำหนดว่าจะต้องเก็บรักษาข้อมูลส่วนบุคคลของผู้พำนักอาศัยภายในเขตแดนของเขตอำนาจรัฐนั้นๆ) และเราได้รับทราบถึงข้อเท็จจริงนี้ เราอาจเก็บรักษาข้อมูลส่วนบุคคลของคุณไว้ภายในเขตแดนดังกล่าวหากกฎหมายกำหนดให้เราปฏิบัติเช่นนั้น
+Privacy Shield Certification: Wix and its affiliates, including DeviantArt Inc., participates in, and has certified its compliance with, the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List, [here](https://www.privacyshield.gov/welcome).
 
 ​
 
-อย่างไรก็ตามคุณรับทราบและเห็นพ้อง ณ ที่นี้ว่าแม้ว่าเราจะดำเนินการตามข้อกำหนดนั้น เรายังคงสามารถรวบรวม จัดเก็บ และใช้ข้อมูลส่วนบุคคลของคุณในสถานที่อื่นต่อไปได้ รวมทั้งในสหรัฐอเมริกา ดังที่อธิบายไว้ข้างต้น
+In compliance with the Privacy Shield Principles, Wix.com commits to resolve complaints about our collection or use of your personal information.  EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact us at: [privacy@wix.com](mailto:privacy@wix.com). For the avoidance of doubt, Wix does not rely on the Privacy Shield as a mechanism for transferring GDPR protected personal data.
+
+​
+
+Wix.com has further committed to refer unresolved Privacy Shield complaints to an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please visit If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider at [https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request) for more information or to file a complaint.  The services are provided at no cost to you.
 
 5.3.
 
-##### 6\. ข้อมูลส่วนบุคคลจากผู้ใช้งานของผู้ใช้
+6\. Users-of-users’ ‘Personal Information’
+------------------------------------------
 
-Wix อาจรวบรวม จัดเก็บ และประมวลข้อมูลส่วนบุคคลบางอย่างของผู้ใช้งานของผู้ใช้ ("ข้อมูลของผู้ใช้งานของผู้ใช้") ในนามและตามคำสั่งของผู้ใช้ของเราเท่านั้น ตัวอย่างเช่น ผู้ใช้แต่ละคนสามารถนำเข้ารายชื่อติดต่อทางอีเมลจากผู้ให้บริการภายนอก เช่น Gmail หรือจะรวบรวมและจัดการรายชื่อติดต่อผ่านเว็บไซต์ผู้ใช้ของตนก็ได้ รายชื่อติดต่อเหล่านั้นจะได้รับการจัดเก็บในนามของ ผู้ใช้กับทาง Wix
-
-​
-
-เพื่อจุดประสงค์ที่กล่าวมา Wix ทำหน้าที่และควรได้รับพิจารณาว่าเป็น "ผู้ประมวล (Processor)" และไม่ใช่ "ผู้ควบคุม (Controller)" ข้อมูลของผู้ใช้งานของผู้ใช้ (คำศัพท์ทั้งสองที่ขึ้นต้นด้วยอักษรใหญ่นี้ได้รับคำนิยามในหลักกฎหมายคุ้มครองข้อมูลส่วนบุคคลแห่งสหภาพยุโรปหรือ GDPR)
+Wix may collect, store and process certain Personal Information of Users-of-Users (“Users-of-Users Information”), solely on our Users’ behalf and at their direction. For example, each of our Users is able to import their e-mail contacts from third-party services like Gmail, or otherwise collect and manage contacts via their User Website. Such contacts are then stored with Wix, on the User’s behalf.
 
 ​
 
-ผู้ใช้ที่ควบคุมและดูแลเว็บไซต์ของผู้ใช้จะได้รับพิจารณาว่าเป็น "ผู้ควบคุม" ข้อมูลของผู้ใช้งานของผู้ใช้ และมีหน้าที่ที่จะต้องปฏิบัติตามกฎหมายและข้อบังคับทั้งหมดที่อาจมีผลบังคับต่อการรวบรวมและการควบคุมข้อมูลของ ผู้ใช้งานของผู้ใช้ รวมทั้งกฎหมายด้านความเป็นส่วนตัวและการคุ้มครองข้อมูลของทุกเขตอำนาจรัฐที่เกี่ยวข้อง
+ For such purposes, Wix serves and shall be considered as a “Processor” and not as the “Controller” (as both such capitalized terms are defined in the European Union General Data Protection Regulation (“GDPR”)) of such Users-of-Users Information.
 
 ​
 
-คุณมีหน้าที่รับผิดชอบเรื่องการรักษาความปลอดภัย จริยธรรม และการใช้งานข้อมูลส่วนบุคคลเกี่ยวกับผู้ใช้งานของผู้ใช้ที่ได้รับอนุญาตแล้ว รวมทั้งเรื่องการได้รับคำยินยอมและคำอนุญาต และมอบสิทธิของเจ้าของข้อมูลส่วนบุคคลและคำแจ้งการประมวลข้อมูลที่ยุติธรรม (fair processing notice) ที่จำเป็นต่อการรวบรวมและการใช้ข้อมูลส่วนบุคคลดังกล่าว
+The Users controlling and operating such User Websites shall be considered as the “Controllers” of such Users-of-Users Information, and are responsible for complying with all laws and regulations that may apply to the collection and control of such Users-of-Users Information, including all privacy and data protection laws of all relevant jurisdictions.
 
 ​
 
-Wix ไม่สามารถให้คำแนะนำทางกฎหมายแก่ผู้ใช้หรือผู้ใช้งานของผู้ใช้ได้ อย่างไรก็ตามเราขอแนะนำให้ ผู้ใช้ทุกรายเผยแพร่และแจ้งนโยบายการคุ้มครองข้อมูลส่วนบุคคลในหน้าเว็บไซต์ของตนอย่างชัดเจนและครบถ้วนตามกฎและข้อบังคับที่เกี่ยวข้อง พร้อมทั้งกำหนดให้ผู้ใช้งานของผู้ใช้อ่านนโยบายดังกล่าวให้ละเอียดถี่ถ้วน และพิสูจน์ให้แน่ใจว่าผู้ใช้งานเหล่านั้นเข้าใจและยอมรับนโยบาย ตามที่กฎหมายที่เกี่ยวข้องกำหนด 
+The Processing of the Users-of-users’ Personal Information shall take place within the territory of the European Union, Israel or a third country, territory or one or more specified sectors within that third country of which the European Commission has decided that it ensures an adequate level of protection and such processing and transfer will be in accordance to the [Data Processing Agreement – Users](https://www.wix.com/about/privacy-dpa-users) (“DPA"). Any transfer to and Processing in a third country outside the European Union that does not ensure an adequate level of protection according to the European Commission, shall be undertaken in accordance with the the Standard Contractual Clauses (2010/87/EU) set out in Annex 1of the DPA. For the sake of clarity, “Processing” should be understood as per the definition provided in the DPA.
 
 ​
 
-เพื่อศึกษาเพิ่มเติมเกี่ยวกับวิธีที่ Wix ดำเนินการกับข้อมูลส่วนบุคคลของผู้ใช้งานของผู้ใช้ (ซึ่งอาจเกี่ยวข้องกับคำประกาศบางข้อที่คุณมอบให้และ/หรือคำยินยอมที่คุณได้รับจากผู้ใช้งานของผู้ใช้) กรุณาดูที่มาตราที่ [4](https://th.wix.com/about/privacy), [12](https://th.wix.com/about/privacy) และ [13](https://th.wix.com/about/privacy)
+You are responsible for the security, integrity and authorized usage of Personal Information about Users-of-Users’, and for obtaining consents, permissions and providing any required data subject rights and fair processing notices required for the collection and usage of such Personal Information.
 
 ​
 
-หากคุณเป็นผู้เข้าชม ผู้ใช้ หรือลูกค้าของผู้ใช้ของเรา กรุณาอ่านข้อความต่อไปนี้: Wix ไม่มีความสัมพันธ์โดยตรงกับผู้ใช้งานของผู้ใช้ที่เราเป็นผู้ดำเนินการประมวลข้อมูลส่วนบุคคลให้ หากคุณเป็นผู้เข้าชม ผู้ใช้ หรือลูกค้าของผู้ใช้ของเรา และต้องการยื่นคำร้องหรือข้อซักถามเกี่ยวกับข้อมูลส่วนบุคคลของคุณ กรุณาติดต่อผู้ใช้รายนั้นๆ เองโดยตรง เช่น หากคุณประสงค์ที่จะเข้าถึง แก้ไขให้ถูกต้อง เปลี่ยนแปลงแก้ไข หรือลบข้อมูลส่วนบุคคลที่ไม่เที่ยงตรงซึ่ง Wix เป็นผู้ทำการประมวลให้ในนามของผู้ใช้ กรุณาส่งข้อซักถามไปยังผู้ใช้รายดังกล่าวโดยตรง (ซึ่งเป็น "ผู้ควบคุม" ข้อมูลนั้น) หากผู้ใช้ยื่นคำร้องให้ Wix ลบข้อมูลส่วนบุคคลของผู้ใช้งานของผู้ใช้ เราจะดำเนินการตามคำร้องดังกล่าวตามเวลาที่เหมาะสมหลังจากที่ดำเนินการตรวจสอบเรียบร้อยแล้วและเป็นไปตามกฎหมายที่เกี่ยวข้อง (เช่น สามสิบ (30) วันตามข้อบังคับ GDPR) เว้นเสียแต่ว่าผู้ใช้ของเราจะแจ้งไว้เป็นอื่น เราจะเก็บข้อมูลส่วนบุคคลของผู้ใช้งานของผู้ใช้ไว้เป็นระยะเวลาตามที่ระบุไว้ใน มาตราที่ [12 ด้านล่าง](https://th.wix.com/about/privacy)
+Wix cannot provide legal advice to Users or their Users-of-Users, however we do recommend that all Users publish and maintain clear and comprehensive privacy policies on their User Websites in accordance with any applicable laws and regulations, and that all Users-of-Users carefully read those policies and make sure that they understand and, to the extent required by applicable law, consent to them.
+
+​
+
+For more information on how Users-of-Users Personal Information may be handled by Wix (which may be relevant for any specific notice you provide to and/or consent you obtain from your Users-of-Users), please see Sections [4](https://www.wix.com/about/privacy), [12](https://www.wix.com/about/privacy) and [13](https://www.wix.com/about/privacy).
+
+If you are a visitor, user or customer of any of our Users, please read the following: Wix has no direct relationship with Users-of-Users whose Personal Information it processes. If you are a visitor, user or customer of any of our Users, and would like to make any requests or queries regarding your Personal Information, please contact such User(s) directly. For example, if you wish to request to access, correct, amend, or delete inaccurate Personal Information processed by Wix on behalf of its Users, please direct your query to the relevant User (who is the “Controller” of such data). If Wix is requested by our Users to remove any Users-of-Users’ Personal Information, we will respond to such requests in a timely manner upon verification and in accordance with applicable law (for example, thirty (30) days under the GDPR). Unless otherwise instructed by our User, we will retain their Users-of-Users’ Personal Information for the period set forth in [Section 12](https://www.wix.com/about/privacy) below.
+
+#### #ItsThatEasy
+
+Wix may collect and process Personal Information regarding the users of our users.
+
+We do this solely on our users’ behalf, and at their direction.
+
+Our users are solely responsible for their users-of-users information, including for its legality, security and integrity.
+
+Wix has no direct relationship with any of its users’ users. If you are a user-of-user, please contact the Wix site owner directly.
+
+7. Use of cookies and other third-party technologies
+----------------------------------------------------
+
+We and our Third Party Service Providers use cookies and other similar technologies (“Cookies”) in  order for us to provide our Service and ensure that it performs properly, to analyze our performance and marketing activities, and to personalize your experience.
+
+​
+
+You can learn more about how we use cookies and similar technologies and how you can exercise control over them in our [Cookie Policy](https://www.wix.com/about/cookie-policy).
+
+​
+
+Please note that we do not change our practices in response to a “Do Not Track” signal in the HTTP header from a browser or mobile application, however, most browsers allow you to control cookies, including whether or not to accept them and how to remove them. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser.
+
+#### #ItsThatEasy
+
+We and certain third party services may use cookies and similar tracking technologies throughout our services.
+
+These technologies are used mostly for stability, security, functionality, performance and advertising purposes.
+
+8\. Communications from Wix
+---------------------------
+
+### 8.1. Promotional messages
+
+We may use your Personal Information to send you promotional content and messages by e-mail, text messages, notifications within our platform, marketing calls and similar forms of communication from Wix or our partners (acting on Wix’s behalf) through such means.
+
+​
+
+If you do not wish to receive such promotional messages or calls, you may notify Wix at any time or follow the “unsubscribe” or STOP instructions contained in the promotional communications you receive.
+
+#### #ItsThatEasy
+
+We may send you promotional messages and content.  
+You can easily opt-out of receiving promotional messages by contacting us or unsubscribing.
+
+### 8.2. Service and billing messages
+
+Wix may also contact you with important information regarding our Services, or your use thereof. For example, we may send you a notice (through any of the means available to us) if a certain Service is temporarily suspended for maintenance; reply to your support ticket or e-mail; send you reminders or warnings regarding upcoming or late payments for your current or upcoming subscriptions; forward abuse complaints regarding your User Website; or notify you of material changes in our Services.
+
+​
+
+It is important that you are always able to receive such messages. For this reason, you are not be able to opt-out of receiving such Service and Billing Messages unless you are no longer a Wix User (which can be done by deactivating your account).
+
+We may also contact you with service and billing-related messages and content. You will not be able to opt-out of receiving such messages.
+
+9\. Your rights in relation to your ‘Personal Information’
+----------------------------------------------------------
+
+Wix agrees that it is imperative that you have control over your Personal Information. Pursuant to privacy regulations worldwide, Wix is taking steps to enable you to request access to, receive a copy of, update, amend, delete, or limit the use of your Personal Information.
+
+​
+
+Before fulfilling your request, we may ask you for additional information in order to confirm your identity and for security purposes. We reserve the right to charge a fee where permitted by law (e.g. if your request is unfounded or excessive).
+
+​
+
+You have the right to file a complaint with your local supervisory authority for data protection (but we still recommend that you contact us first).
+
+​
+
+If you are a Wix User, and you wish to receive a copy, access and/or request us to make corrections to the Personal Information that you have stored with us (either yours or your Users-of-Users’), or wish to request a list of what Personal Information (if any) pertaining to you we disclosed to third parties for direct marketing purposes, please follow the instructions provided in these Help Center articles: “[Retrieving Your Wix Account Data](https://support.wix.com/en/article/gdpr-retrieving-your-wix-account-data)” or [Permanently Deleting Your Wix Account](https://support.wix.com/en/article/privacy-permanently-deleting-your-wix-account-2888065)”. You can also mail your request to Wix.com, 40 Namal Tel Aviv St., Tel Aviv 6350671, Israel. We will make reasonable efforts to honor your request promptly (unless we require further information from you in order to fulfil your request), subject to legal and other permissible considerations.
+
+​
+
+Please note that permanently deleting your Wix account erases all of your Personal Information from Wix's databases. After completing this process, you can no longer use any of your Wix Services, your account and all its data will be removed permanently, and Wix will not be able to restore your account or retrieve your data in the future. If you contact our support channels in the future, the system will not recognize your account and support agents will not be able to locate the deleted account.
 
 #ItsThatEasy
 
-Wix อาจรวบรวมและประมวลข้อมูลส่วนบุคคลเกี่ยวกับผู้ใช้งานของผู้ใช้
-
-เราดำเนินขั้นตอนนี้ในนามและตามคำสั่งของผู้ใช้ของเราเท่านั้น
-
-ผู้ใช้ของเราแต่เพียงผู้เดียวเท่านั้นที่เป็นผู้รับผิดชอบข้อมูลส่วนบุคคลของผู้ใช้งานของตน รวมทั้งเรื่องความถูกต้องตามกฎหมาย ความปลอดภัย และคุณธรรม
-
-Wix ไม่มีความสัมพันธ์โดยตรงกับผู้ใช้งานของผู้ใช้รายใดเลย หากคุณเป็นผู้ใช้งานของผู้ใช้ กรุณาติดต่อเจ้าของเว็บไซต์ Wix นั้นๆ โดยตรง
-
-##### 7\. การใช้คุกกี้และเทคโนโลยีจากบุคคลภายนอกอื่นๆ
-
-เราและผู้ให้บริการของเราซึ่งเป็นบุคคลภายนอกใช้คุกกี้และเทคโนโลยีที่คล้ายคลึงอื่นๆ ("คุกกี้") เพื่อช่วยให้สามารถมอบบริการได้ และเพื่อให้มั่นใจว่าบริการเหล่านั้นทำงานอย่างเหมาะสม เพื่อวิเคราะห์ประสิทธิภาพและกิจกรรมทางการตลาดของเรา รวมทั้งมอบประสบการณ์การใช้งานตามที่คุณชื่นชอบ
+You may request to access, receive a copy of, update, amend, delete, or limit the use of your Personal Information you have stored with us. Just send us an e-mail or fill out our dedicated GDPR form. You may also correct and/or update your Personal Information through your account or website settings.
 
 ​
 
-คุณสามารถศึกษาเพิ่มเติมว่าเราใช้งานคุกกี้อย่างไรและคุณสามารถควบคุมการใช้คุกกี้ได้อย่างไร ใน[นโยบายคุกกี้](https://www.wix.com/about/cookie-policy)ของเรา
+You can delete your Personal Information by deleting  your entire account. We will respond to your requests within a reasonable timeframe. 
+
+10\.  Additional information for California residents
+-----------------------------------------------------
+
+If you are a California resident using the Services, the California Consumer Privacy Act (“CCPA”) may provide you the right to request access to and deletion of your Personal Information.
 
 ​
 
-​โปรดทราบว่าเราไม่เปลี่ยนแปลงหลักปฏิบัติของเราเพื่อตอบรับกับสัญญาณ "Do Not Track" ในเฮดเดอร์ HTTP จากเบราว์เซอร์หรือแอปพลิเคชันสำหรับมือถือ อย่างไรก็ตามเบราว์เซอร์ส่วนมากจะอนุญาตให้คุณควบคุมคุกกี้ได้ และให้เลือกว่าจะยอมรับคุกกี้หรือไม่และจะลบคุกกี้อย่างไร คุณสามารถกำหนดให้เบราว์เซอร์ส่วนใหญ่แจ้งเตือนคุณได้ในกรณีที่ได้รับคุกกี้ หรือคุณจะเลือกบล็อคคุกกี้ด้วยเบราว์เซอร์ของคุณก็ได้
-
-#ItsThatEasy
-
-เราและบริการจากบุคคลภายนอกบางอย่างอาจใช้คุกกี้และเทคโนโลยีการติดตามที่มีลักษณะคล้ายกันตลอดการให้บริการ
+In order to exercise the right to request access to and deletion of your Personal  Information, please see the information on the section 9, above. We do not discriminate based on the exercise of any privacy rights that you might have under this Section.
 
 ​
 
-เทคโนโลยีเหล่านี้มักจะนำมาใช้เพื่อสร้างความมั่นคง การรักษาความปลอดภัย การปฏิบัติการ สมรรถภาพ และการโฆษณา
-
-##### 8\. ​การติดต่อสื่อสารจาก Wix
-
-###### 8.1. ข้อความโฆษณา:
-
-#ItsThatEasy
-
-เราอาจใช้ข้อมูลส่วนบุคคลของคุณเพื่อส่งเนื้อหาและข้อความโฆษณาจาก Wix หรือจากคู่ค้าของเรา (ที่ดำเนินการในนามของ Wix) ไปหาคุณผ่านทางอีเมล, SMS, การแจ้งเตือนภายในแพลตฟอร์มของเรา, การโทรติดต่อทางการตลาด และรูปแบบการติดต่อสื่อสารที่คล้ายคลึงกัน
+Wix does not sell user Personal Information to third parties for the intents and purposes of the CCPA. 
 
 ​
 
-หากคุณไม่ประสงค์ที่จะรับการโทรติดต่อหรือข้อความเพื่อการโฆษณา คุณสามารถแจ้งให้ Wix ทราบได้ทุกเมื่อหรือปฏิบัติตามขั้นตอน "ยกเลิกการสมัคร" หรือตามคำสั่ง STOP ที่ปรากฏอยู่ในวิธีการติดต่อสื่อสารเพื่อการโฆษณาเหล่านั้น
-
-เรามีสิทธิส่งข้อความและเนื้อหาโฆษณาไปหาคุณได้  
-คุณสามารถถอนตัวจากการรับข้อความโฆษณาได้ง่ายๆ โดยติดต่อเราหรือยกเลิกการเป็นสมาชิก
+As informed in section 6 above, Wix may collect, store and process certain Personal Information of Users-of-Users, solely on our Users’ behalf and at their direction.  For such purposes, Wix serves and shall be considered as a “Service Provider” and not as the “Business” (as both such capitalized terms are defined in the CCPA. Wix does not and will not sell your customers’ (User-of-User) Personal Information.
 
 ​
 
-เราสามารถติดต่อคุณด้วยการส่งข้อความและเนื้อหาเกี่ยวกับบริการและการเรียกชำระเงิน สำหรับข้อความเหล่านี้คุณจะไม่มีสิทธิถอนตัวที่จะไม่รับ
+Users of the Services who are California residents and under 18 years of age may request and obtain removal of content they posted by emailing us at  [privacy@wix.com](mailto:privacy@wix.com). All requests must be labeled “California Removal Request” on the email subject line. All requests must provide a description of the content you want removed and information reasonably sufficient to permit us to locate that content. We do not accept California Removal Requests via postal mail, telephone, or facsimile. We are not responsible for notices that are not labeled or sent properly, and we may not be able to respond if you do not provide adequate information. Please note that your request does not ensure complete or comprehensive removal of the material. For example, materials that you have posted may be republished or reposted by another user or third party
 
-###### 8.2. ข้อความเกี่ยวกับบริการและการเรียกชำระเงิน:
+#### #ItsThatEasy
 
-Wix อาจติดต่อถึงคุณด้วยข้อมูลที่สำคัญ ที่เกี่ยวกับบริการของเราหรือการใช้บริการนั้นๆ ของคุณ
+California residents may exercise their right to access and delete their Personal Information. To make a request, (i) visit our webform, (ii) send us an email;
 
-เช่น เราอาจส่งคำประกาศแจ้งล่วงหน้า (ผ่านวิธีใดก็ได้ที่เรามี) หากเราระงับให้บริการบางอย่างชั่วคราวเพื่อการบำรุงรักษา หรืออาจตอบตั๋วหรืออีเมลขอรับการช่วยเหลือสนับสนุนของคุณ หรือส่งข้อความช่วยเตือนความจำหรือคำเตือนเกี่ยวกับงวดชำระเงินที่จะมาถึงหรือที่ชำระไม่ตรงเวลาสำหรับสถานะสมาชิกในปัจจุบันหรือที่จะเกิดขึ้น หรือส่งต่อคำร้องการใช้งานในทางที่ผิดเกี่ยวกับเว็บไซต์ผู้ใช้ของคุณ หรือแจ้งให้คุณทราบถึงการเปลี่ยนแปลงที่มีนัยสำคัญในบริการของเรา
+11\. Questions and complaints
+-----------------------------
 
-​
-
-​ฉะนั้นจึงเป็นสิ่งสำคัญที่คุณสามารถรับข้อความเหล่านั้นได้เสมอ ด้วยเหตุนี้คุณจึงไม่มีสิทธิ์ถอนตัวไม่รับข้อความเรื่องบริการและการเรียกชำระเงิน เว้นเสียแต่ว่าคุณไม่ได้เป็นผู้ใช้ของ Wix อีกต่อไป (ซึ่งสามารถทำได้โดยการปิดใช้งานบัญชีของคุณ)
-
-##### 9\. สิทธิของคุณเกี่ยวกับข้อมูลส่วนบุคคลของคุณเอง
-
-Wix เห็นพ้องว่าการที่คุณมีอำนาจควบคุมข้อมูลส่วนบุคคลของตัวเองถือเป็นประเด็นที่สำคัญยิ่งซึ่งเป็นไปตามข้อบังคับด้านการคุ้มครองข้อมูลส่วนบุคคลที่เกิดขึ้นทั่วโลก Wix จึงดำเนินการอย่างเป็นขั้นตอนเพื่อช่วยให้คุณสามารถเข้าถึง รับสำเนา อัปเดต แก้ไข ลบ หรือจำกัดการใช้ข้อมูลส่วนบุคคลของคุณได้
+If you have any questions or concerns about our collection, use or disclosure of Personal Information, or if you believe that we have not complied with this Privacy Policy or applicable data protection laws, please contact us – our details are set out at the end of this Privacy Policy.
 
 ​
 
-ก่อนที่จะดำเนินการตามคำร้องของคุณ ทางเราอาจต้องขอข้อมูลเพิ่มเติมจากคุณเพื่อยืนยันตัวตนและเพื่อจุดประสงค์ด้านความปลอดภัย เราขอสงวนสิทธิ์ในการเรียกชำระค่าธรรมเนียมหากกฎหมายอนุญาต (เช่น หากคำร้องของคุณไม่แสดงผลลัพธ์หรือมากเกินพอดี)
+Our Data Protection Officer team will investigate the complaint and determine whether a breach has occurred and what action, if any, to take. We take every privacy complaint seriously and will make all reasonable efforts to resolve your complaint promptly and in accordance with applicable law. 
 
 ​
 
-คุณมีสิทธิ์ส่งคำร้องเรียนไปยังหน่วยงานควบคุมดูแลประจำท้องถิ่นสำหรับการคุ้มครองข้อมูล (แต่เราขอแนะนำให้คุณติดต่อเราก่อน)
+You can file a complaint with your local supervisory authority for data protection at any time, however we recommend that you contact us first so we can try to resolve it.
+
+#### #ItsThatEasy
+
+You can file a complaint with your local supervisory authority for data protection at any time.  Please contact us first so we can try to resolve your concerns.
+
+12\. Data retention
+-------------------
+
+We may retain your Personal Information (as well as your Users-of-Users’ Personal Information) for as long as your User Account is active, as indicated in this Privacy Policy, or as otherwise needed to provide you with our Services.
 
 ​
 
-หากคุณเป็นผู้ใช้ของ Wix และประสงค์ที่จะรับสำเนา เข้าถึง และ/หรือขอให้เราแก้ไขข้อมูลส่วนบุคคลที่คุณได้จัดเก็บไว้กับเราให้ถูกต้อง (ไม่ว่าจะเป็นข้อมูลของคุณเองหรือของผู้ใช้งานของผู้ใช้) หรือประสงค์ที่จะขอรับรายการแสดงข้อมูลส่วนบุคคล (หากมี) เกี่ยวกับคุณที่เราเปิดเผยให้บุคคลภายนอกทราบเพื่อจุดประสงค์ด้านการตลาดทางตรง กรุณาปฏิบัติตามขั้นตอนที่แจ้งไว้ในบทความในศูนย์ช่วยเหลือต่อไปนี้: "[การเรียกข้อมูลบัญชี Wix ของคุณกลับคืน](https://support.wix.com/en/article/gdpr-retrieving-your-wix-account-data)" หรือ "[การลบบัญชี Wix ของคุณอย่างถาวร](https://support.wix.com/en/article/gdpr-permanently-deleting-your-wix-account)"  คุณสามารถยื่นคำร้องทางไปรษณีย์ไปยัง Wix.com, 40 Namal Tel Aviv St., Tel Aviv 6350671, Israel ได้เช่นกัน หลังจากนั้นเราจะพยายามอย่างเต็มที่ที่จะตอบสนองคำร้องที่คุณส่งเข้ามาให้เร็วที่สุด (เว้นเสียแต่ว่าเราต้องขอรับข้อมูลเพิ่มเติมจากคุณเพื่อให้ดำเนินการตามคำร้องให้สำเร็จ) ตามวิจารณญาณทางกฎหมายและวิจารณญาณอื่นๆ ที่อนุญาต
+We may continue to retain your Personal Information after you deactivate your User Account and/or cease to use any particular Services, as reasonably necessary to comply with our legal obligations, to resolve disputes regarding our Users or their Users-of-Users, prevent fraud and abuse, enforce our agreements and/or protect our legitimate interests.
 
 ​
 
-​โปรดทราบว่าการลบบัญชี Wix ของคุณอย่างถาวรจะลบข้อมูลส่วนบุคคลทั้งหมดของคุณออกจากฐานข้อมูลของ Wix หลังจากที่ดำเนินขั้นตอนดังกล่าวแล้ว คุณจะไม่สามารถใช้บริการใดของ Wix ได้อีกต่อไป บัญชีผู้ใช้ของคุณรวมทั้งข้อมูลทั้งหมดจะถูกลบอย่างถาวร และทาง Wix จะไม่สามารถกู้บัญชีของคุณหรือเรียกข้อมูลของคุณกลับคืนมาได้อีกในอนาคต หากคุณติดต่อช่องทางให้ความช่วยเหลือใดของ Wix ในอนาคต ระบบจะไม่สามารถจดจำหรือระบุได้ว่าเป็นบัญชีของคุณ และเจ้าหน้าที่ฝ่ายช่วยเหลือจะไม่สามารถระบุที่อยู่ของบัญชีที่ลบไปแล้วได้
+We maintain a data retention policy which we apply to Personal Information in our care.
 
-#ItsThatEasy
+#### #ItsThatEasy
 
-คุณสามารถยื่นคำร้องเพื่อขอเข้าถึง รับสำเนา อัปเดต แก้ไข ลบ หรือจำกัดการใช้ข้อมูลส่วนบุคคลของคุณที่คุณจัดเก็บไว้กับเรา เพียงส่งอีเมลหาเราหรือกรอกแบบฟอร์ม GDPR ที่เราจัดสรรให้โดยเฉพาะ นอกจากนั้นคุณสามารถแก้ไขให้ถูกต้องและ/หรืออัปเดตข้อมูลส่วนบุคคลผ่านทางบัญชีหรือการตั้งค่าเว็บไซต์ของคุณได้เช่นกัน  หรือจะลบข้อมูลส่วนบุคคลโดยลบบัญชีของคุณทั้งบัญชีเลยก็ได้ เราจะตอบคำร้องของคุณกลับไปในระยะเวลาที่เหมาะสม
+We may keep your Personal Information for as long as your account is active, and longer as needed (for example, if we are legally obligated to keep it longer, or need it to protect our interests).
 
-##### 10\. ข้อมูลเพิ่มเติมสำหรับผู้พำนักของแคลิฟอร์เนีย
+13\. Security
+-------------
 
-หากคุณเป็นผู้พำนักของแคลิฟอร์เนียและใช้บริการของเรา รัฐบัญญัติความเป็นส่วนตัวของผู้บริโภคในรัฐแคลิฟอร์เนีย ("CCPA") อาจมอบสิทธิให้คุณสามารถขอเข้าถึงและลบข้อมูลส่วนบุคคลของคุณได้
-
-​
-
-เพื่อใช้สิทธิที่มีในการขอเข้าถึงและลบข้อมูลส่วนบุคคลของคุณ กรุณาดูที่มาตราที่ 9 ด้านบน เราไม่ขอแบ่งพรรคพวกโดยอิงการใช้สิทธิความเป็นส่วนตัวที่คุณอาจมีภายใต้มาตรานี้
+Wix has implemented security measures designed to protect the Personal Information you share with us, including physical, electronic and procedural measures. Among other things, we offer HTTPS secure access to most areas on our Services; the transmission of sensitive payment information (such as a credit card number) through our designated purchase forms is protected by an industry standard SSL/TLS encrypted connection; and we regularly maintain a PCI DSS (Payment Card Industry Data Security Standards) certification. We also regularly monitor our systems for possible vulnerabilities and attacks, and regularly seek new ways and Third Party Services for further enhancing the security of our Services and protection of our Visitors’ and Users’ privacy.
 
 ​
 
-ตามเจตนาและจุดประสงค์ของ CCPA, Wix จะไม่ขายข้อมูลส่วนบุคคลของผู้ใช้ให้แก่บุคคลภายนอก
+Regardless of the measures and efforts taken by Wix, we cannot and do not guarantee the absolute protection and security of your Personal Information, your Users-of-Users’ Personal Information or any other information you upload, publish or otherwise share with Wix or anyone else. We encourage you to set strong passwords for your User Account and User Website, and avoid providing us or anyone with any sensitive Personal Information of which you believe its disclosure could cause you substantial or irreparable harm.
+
+Furthermore, because certain areas on our Services are less secure than others (for example, if you set your Support forum ticket to be “Public” instead of “Private”, or if you browse to a non-SSL page), and since e-mail and instant messaging are not recognized as secure forms of communications, we request and encourage you not to share any Personal Information on any of these areas or via any of these methods.
 
 ​
 
-ตามที่ได้แจ้งไว้ในมาตราที่ 6 ข้างต้น Wix อาจรวบรวม จัดเก็บ และประมวลข้อมูลส่วนบุคคลบางอย่างของ ผู้ใช้งานของผู้ใช้ในนามและตามคำสั่งของผู้ใช้ของเราเท่านั้น  สำหรับจุดประสงค์เหล่านั้น Wix ทำหน้าที่เป็นและจะอยู่ในฐานะของ "ผู้ให้บริการ" เท่านั้นและไม่ได้เป็น "ธุรกิจ" (ตามที่ได้รับการนิยามใน CCPA สำหรับคำที่ขึ้นต้นด้วยอักษรใหญ่) Wix ไม่และจะไม่ขายข้อมูลส่วนบุคคลของลูกค้า (ผู้ใช้งานของผู้ใช้) ของคุณ
+If you have any questions regarding the security of our Services, you are welcome to contact us at [privacy@wix.com](mailto:privacy@wix.com).
+
+#### #ItsThatEasy
+
+Wix values the security of our customers' Personal Information and we do everything in our power to protect it. 
+
+However, as we can’t guarantee absolute protection – we encourage you to be careful, set a strong password for your account, and avoid submitting any sensitive information which, if exposed, could cause you major harm.
+
+14\. Third-party websites
+-------------------------
+
+Our Services may contain links to other websites or services. We are not responsible for such websites’ or services’ privacy practices. We encourage you to be aware when you leave our Services and to read the privacy statements of each and every website and service you visit before providing your Personal Information. This Privacy Policy does not apply to such linked third party websites and services.
+
+#### #ItsThatEasy
+
+Our Services may contain links to other websites or services.
+
+15\. Wix jobs applications
+--------------------------
+
+Wix welcomes all qualified Applicants to apply to any of the open positions published at [https://www.wix.com/jobs](https://www.wix.com/jobs), by sending us their contact details and CV (“Applicants Information”) via the relevant Position Application Form on our Website, or through any other means provided by us.
+
+We understand that privacy and discreetness are crucial to our Applicants, and are committed to keep Applicants Personal Information  private and use it solely for Wix’s internal recruitment purposes (including for identifying Applicants, evaluating their applications, making hiring and employment decisions, and contacting Applicants by phone or in writing).
 
 ​
 
-​ผู้ใช้บริการที่เป็นผู้พำนักของแคลิฟอร์เนียและมีอายุต่ำกว่า 18 สามารถยื่นคำร้องและขอให้ลบเนื้อหาที่ตนเองโพสต์ได้ โดยส่งอีเมลมาที่  [privacy@wix.com](mailto:privacy@wix.com)  ทุกคำร้องต้องมีชื่อกำกับว่า "คำร้องขอลบข้อมูลตามกฎของแคลิฟอร์เนีย" ที่หัวข้อเรื่องของอีเมล ทุกคำร้องต้องมีคำบรรยายประกอบอธิบายถึงเนื้อหาที่คุณต้องการให้ลบออก รวมทั้งมอบข้อมูลที่เพียงพอตามเห็นควรเพื่อช่วยให้เราสามารถระบุที่อยู่ของเนื้อหานั้นได้ เราไม่รับคำร้องขอลบข้อมูลตามกฎของแคลิฟอร์เนียทางไปรษณีย์ โทรศัพท์ หรือโทรสาร และเราไม่รับผิดชอบคำร้องที่ไม่มีชื่อกำกับหรือไม่ได้ส่งมาอย่างถูกต้องเหมาะสม และเราอาจไม่สามารถโต้ตอบและดำเนินการใดๆ ได้หากคุณไม่มอบข้อมูลให้เราเพียงพอ โปรดทราบว่าคำร้องของคุณไม่ได้เป็นการยืนยันว่าเนื้อหาที่คุณต้องการให้ลบออกจะถูกลบออกอย่างสมบูรณ์หรือโดยทั้งสิ้นทั้งปวง ตัวอย่างเช่น เนื้อหาที่คุณได้โพสต์ไปอาจได้รับการเผยแพร่และโพสต์ต่อโดยผู้ใช้รายอื่นหรือบุคคลภายนอก
+If you previously submitted your Applicants Personal Information to Wix, and now wish to access it, update it or have it deleted from Wix’s systems, please contact us at [jobs@wix.com](mailto:jobs@wix.com).
 
-#ItsThatEasy
+#### #ItsThatEasy
 
-ผู้พำนักของแคลิฟอร์เนียสามารถใช้สิทธิของตนในการเข้าถึงและลบข้อมูลส่วนบุคคลได้ เพื่อยื่นคำร้อง กรุณา (ก) เข้าไปที่เว็บฟอร์มของเรา (ข) ส่งอีเมลถึงเรา
+We welcome all qualified job seekers to apply to any of our open positions, by sending us their contact details and CV.
 
-##### 11\. คำถามและคำร้องเรียน
+We will use such Personal Information solely for our internal recruitment, employment and business purposes.
 
-หากคุณมีคำถามหรือข้อสงสัยเกี่ยวกับการรวบรวม การใช้ หรือการเปิดเผยข้อมูลส่วนบุคคลของเรา หรือคุณเชื่อว่าเราไม่ได้ปฏิบัติตามนโยบายการคุ้มครองข้อมูลส่วนบุคคลฉบับนี้หรือกฎหมายการคุ้มครองข้อมูลที่เกี่ยวข้อง กรุณาติดต่อเรา รายละเอียดติดต่อของเราปรากฏอยู่ที่ท้ายนโยบายการคุ้มครองข้อมูลส่วนบุคคลฉบับนี้
+16\. Public forums and user content
+-----------------------------------
 
-​
-
-ทีมงานเจ้าหน้าที่ฝ่ายคุ้มครองข้อมูลจะทำการตรวจสอบคำร้องเรียนอย่างเป็นขั้นเป็นตอน และตัดสินใจว่ามีการละเมิดเกิดขึ้นจริงหรือไม่และต้องดำเนินการอย่างไรต่อไป (หากมี) เราใส่ใจทุกคำร้องเรียนที่เกี่ยวข้องกับการคุ้มครองข้อมูลส่วนบุคคลอย่างยิ่ง และจะพยายามทุกวิถีทางที่เป็นไปได้ที่จะจัดการกับคำร้องเรียนของคุณทันทีและเป็นไปตามกฎหมายที่บังคับใช้
-
-​
-
-​คุณสามารถยื่นคำร้องเรียนไปยังหน่วยงานควบคุมดูแลประจำท้องถิ่นของคุณสำหรับการคุ้มครองข้อมูลได้ทุกเมื่อ อย่างไรก็ตามเราขอแนะนำให้คุณติดต่อเราก่อนเพื่อให้เรามีโอกาสลองแก้ไขปัญหานั้น
-
-#ItsThatEasy
-
-คุณสามารถยื่นคำร้องเรียนไปยังหน่วยงานควบคุมดูแลประจำท้องถิ่นของคุณสำหรับการคุ้มครองข้อมูลได้ทุกเมื่อ  โปรดติดต่อเราเป็นก่อนเพื่อให้โอกาสเราลองแก้ไขปัญหานั้นก่อน
-
-##### 12\. การเก็บรักษาข้อมูล
-
-เราอาจเก็บรักษาข้อมูลส่วนบุคคลของคุณ (และข้อมูลส่วนบุคคลของผู้ใช้งานของผู้ใช้) ตราบเท่าที่ยังมีการใช้งานบัญชีผู้ใช้ของคุณอยู่ หรือตราบเท่าที่เรายังจำเป็นต้องใช้บัญชีนั้นเพื่อมอบบริการให้คุณอยู่ ตามที่ระบุไว้ในนโยบายการคุ้มครองข้อมูลส่วนบุคคลนี้
+Our Services offer publicly accessible blogs, communities and support forums. Please be aware that any Personal Information you provide in any such areas may be read, collected, and used by others who access them. To request removal of your Personal Information from our blogs, communities or forums, feel free to contact us at: [privacy@wix.com](mailto:privacy@wix.com). In some cases, we may not be able to remove your Personal Information from such areas. For example, if you use a third party application to post a comment (e.g., the Facebook social plugin application) while logged in to your related profile with such third party, you must login into such application or contact its provider if you want to remove the Personal Information you posted on that platform. 
 
 ​
 
-เราอาจเก็บรักษาข้อมูลส่วนบุคคลนั้นต่อไปตามที่เห็นควรหลังจากที่คุณได้ปิดใช้งานบัญชีผู้ใช้ของคุณและ/หรือเลิกใช้งานบริการบางอย่างแล้วก็ตาม เพื่อให้สอดคล้องกับข้อบังคับทางกฎหมายของเรา เพื่อระงับข้อพิพาทเกี่ยวกับผู้ใช้ของเราหรือผู้ใช้งานของผู้ใช้ เพื่อป้องกันการฉ้อโกงและการนำไปใช้ในทางที่ผิด เพื่อบังคับใช้ข้อตกลงของเราและ/หรือป้องกันส่วนได้ส่วนเสียตามกฎหมายของเรา
+In any event, we advise against posting any Personal Information (via any means) you don’t wish to publicize.
 
 ​
 
-​เรายังคงใช้นโยบายการเก็บรักษาข้อมูลซึ่งมีผลบังคับใช้กับข้อมูลส่วนบุคคลที่อยู่ในการดูแลของเราต่อไป
+If you upload any user content to your User Account or post it on your User Website and provide it in any other way as part of the use of any Service, you do so at your own risk.
 
-#ItsThatEasy
+We have put adequate security measures in place to protect your Personal Information.  However, we cannot control the actions of other Users or members of the public who may access your User Content, and are not responsible for the circumvention of any privacy settings or security measures you or we may have placed on your User Website (including, for instance, password-protected areas on your User Website). You understand and acknowledge that, even after its removal by you or us, copies of User Content may remain viewable in cached and archived pages or if any third parties (including any of your Users-of-Users) have copied or stored such User Content. To clarify, we advise against uploading or posting any information you do not wish to be public.
 
-เราอาจเก็บข้อมูลส่วนบุคคลของคุณไว้ตราบเท่าที่ยังมีการใช้งานบัญชีอยู่ หรืออาจนานกว่านั้นหากจำเป็น (เช่น หากเราจำต้องเก็บข้อมูลให้นานขึ้นตามกำหนดทางกฎหมายหรือเพื่อปกป้องส่วนได้ส่วนเสียของเรา)
+#### #ItsThatEasy
 
-##### 13\. การรักษาความปลอดภัย
+Avoid posting any Personal Information to any of the public areas on our Services, or to your own website, if you don’t want it to become publicly available.
 
-Wix ได้นำมาตรการรักษาความปลอดภัยมาใช้ ซึ่งออกแบบขึ้นเพื่อคุ้มครองข้อมูลส่วนบุคคลที่คุณแชร์กับเรา รวมทั้งมาตรการทางกายภาพ ทางอิเล็กทรอนิกส์ และทางกระบวนการ ตัวอย่างเช่น เราเสนอการเข้าถึงส่วนต่างๆ ของบริการของเราอย่างปลอดภัยในรูปแบบ HTTPS ส่วนการส่งข้อมูลลับสำหรับการชำระเงิน (เช่นหมายเลขบัตรเครดิต) ผ่านแบบฟอร์มการซื้อก็ได้รับการปกป้องด้วยการเชื่อมต่อที่เข้ารหัสลับ SSL/TLS ตามมาตรฐานอุตสาหกรรม นอกจากนั้นเรายังใช้การรับรองมาตรฐานความปลอดภัยข้อมูล PCI DSS (Payment Card Industry Data Security Standards) อย่างสม่ำเสมออีกด้วย นอกเหนือไปจากนี้เรายังคอยติดตามดูระบบของเราอยู่เสมอเพื่อสังเกตช่องโหว่และการโจมตีที่อาจเกิดขึ้นได้ และคอยหาวิถีทางใหม่ๆ รวมทั้งบริการจากบุคคลภายนอกเพื่อยกระดับการรักษาความปลอดภัยของบริการของเราและการคุ้มครองความเป็นส่วนตัวของผู้เข้าชมและผู้ใช้ของเราให้ดียิ่งขึ้น
+17. Updates and interpretation
+------------------------------
 
-​
-
-อย่างไรก็ตามแม้ว่า Wix จะใช้มาตรการและความพยายามมากเพียงใด เราไม่สามารถและไม่ขอรับประกันการคุ้มครองและการรักษาความปลอดภัยของข้อมูลส่วนบุคคลของคุณ รวมทั้งข้อมูลส่วนบุคคลของผู้ใช้งานของผู้ใช้ หรือข้อมูลอื่นใดที่คุณอัปโหลด เผยแพร่ หรือแชร์กับ Wix หรือบุคคลอื่นได้อย่างสมบูรณ์ ด้วยเหตุนี้เราจึงขอแนะนำให้คุณตั้งรหัสผ่านสำหรับบัญชีผู้ใช้และเว็บไซต์ผู้ใช้ของคุณให้รัดกุม และหลีกเลี่ยงการมอบข้อมูลส่วนบุคคลที่เป็นความลับที่คุณคิดว่าจะก่ออันตรายที่รุนแรงหรือที่เรียกคืนไม่ได้หากมีการเปิดเผย ให้เราหรือบุคคลอื่นทราบ
-
-ยิ่งไปกว่านั้นบางส่วนของบริการของเรามีความปลอดภัยน้อยกว่าส่วนอื่นๆ (เช่น หากคุณตั้งค่าตั๋วฟอรัมขอรับความช่วยเหลือของคุณให้เป็น "สาธารณะ" แทนที่จะเป็น "ส่วนตัว" หรือคุณดูเพจที่ไม่เข้ารหัสลับ SSL) และเพราะอีเมลและการส่งข้อความด่วนไม่ถือว่าเป็นรูปแบบการติดต่อสื่อสารที่ปลอดภัย เราจึงขอร้องและขอแนะนำไม่ให้คุณแชร์ข้อมูลส่วนบุคคลในส่วนบริการเหล่านี้หรือผ่านวิธีติดต่อสื่อสารเหล่านี้
+We may update this Privacy Policy as required by applicable law, and to reflect changes to our Personal Information collection, usage and storage practices. If we make any changes that we deem as “material” (in our sole good faith discretion), we will notify you (using one of the notification methods set forth in Section 15.3 of the [Terms of Use](http://www.wix.com/about/terms-of-use)) prior to the change becoming effective. In relation to any updated Privacy Policy, we will, as required by applicable law, notify you, seek your consent and/or take any other measures. We encourage you to periodically review this page for the latest Information on our privacy practices. Unless stated otherwise, our most current Privacy Policy applies to all information that we have about you and your Users-of-Users, with respect to our Website, Wix Apps, Mobile Apps and other Services. 
 
 ​
 
-​หากคุณมีคำถามเกี่ยวกับการรักษาความปลอดภัยของบริการของเรา กรุณาติดต่อเราที่ [privacy@wix.com](mailto:privacy@wix.com) เราพร้อมให้ความช่วยเหลือเสมอ
-
-#ItsThatEasy
-
-Wix ให้ความสำคัญเรื่องการรักษาความปลอดภัยข้อมูลส่วนบุคคลของลูกค้าของเราอย่างมาก และจะทำทุกอย่างที่อยู่ในอำนาจของเราเพื่อปกป้องข้อมูลดังกล่าว
+Any heading, caption or section title contained herein, and any explanation or summary under the right “#ItsThatEasy” column, is provided only for convenience, and in no way defines or explains any section or provision hereof, or legally binds any of us in any way.
 
 ​
 
-อย่างไรก็ตามเนื่องจากว่าเราไม่สามารถรับประกันการปกป้องได้อย่างสมบูรณ์ เราขอให้คุณระมัดระวังอยู่เสมอ โดยการตั้งรหัสผ่านที่รัดกุมสำหรับบัญชีของคุณ และหลีกเลี่ยงการส่งยื่นข้อมูลลับที่อาจสร้างความเสียหายที่รุนแรงต่อคุณหากถูกเปิดเผย
+This Privacy Policy was written in English, and may be translated into other languages for your convenience. You may access and view other language versions by changing your Wix Website language settings. If a translated (non-English) version of this Privacy Policy conflicts in any way with its English version, the provisions of the English version shall prevail.
 
-##### 14\. เว็บไซต์ของบุคคลภายนอก
+#### #ItsThatEasy
 
-บริการของเราอาจมีลิงก์เชื่อมต่อไปยังเว็บไซต์หรือบริการอื่น ซึ่งเราจะไม่รับผิดชอบต่อหลักปฏิบัติในแง่ของการคุ้มครองข้อมูลส่วนบุคคลของเว็บไซต์หรือบริการเหล่านั้น เราขอแนะนำให้คุณระมัดระวังเมื่อออกจากบริการของเรา และก่อนที่จะมอบข้อมูลส่วนบุคคลของคุณให้เว็บไซต์หรือบริการที่คุณเข้าเยี่ยมชมให้คุณอ่านคำประกาศเกี่ยวกับการคุ้มครองข้อมูลส่วนบุคคลของเว็บไซต์และทุกบริการดังกล่าวให้ถี่ถ้วน นโยบายการคุ้มครองข้อมูลส่วนบุคคลฉบับนี้ไม่มีผลบังคับใช้กับเว็บไซต์และบริการจากบุคคลภายนอกที่เชื่อมต่ออยู่
-
-#ItsThatEasy
-
-บริการของเราอาจมีลิงก์เชื่อมต่อไปยังเว็บไซต์หรือบริการอื่น
-
-##### 15\. การสมัครงานกับ Wix 
-
-Wix ยินดีต้อนรับผู้สมัครทุกรายที่มีคุณสมบัติเหมาะสมในการสมัครตำแหน่งที่เปิดรับ ซึ่งประกาศอยู่ใน [https://www.wix.com/jobs](https://www.wix.com/jobs) โดยส่งรายละเอียดติดต่อและประวัติและผลงานของตน ("ข้อมูลของผู้สมัคร") ผ่านแบบฟอร์มการสมัครเข้ารับตำแหน่งบนเว็บไซต์ของเรา หรือผ่านวิธีอื่นๆ ที่เราเสนอ
-
-เราเข้าใจดีว่าความเป็นส่วนตัวและความสำรวมเป็นสิ่งสำคัญสำหรับผู้สมัครของเรา ฉะนั้นเราจึงมุ่งมั่นที่จะเก็บข้อมูลของผู้สมัครไว้เป็นความลับและนำไปใช้เพื่อจุดประสงค์ในการสรรหาบุคลากรภายในของ Wix เท่านั้น (รวมทั้งสำหรับการระบุตัวผู้สมัคร การประเมินใบสมัคร การตัดสินใจว่าจ้าง และการติดต่อผู้สมัครทางโทรศัพท์หรือเป็นลายลักษณ์อักษร)
-
-โปรดทราบว่า Wix มีสิทธิ์เก็บข้อมูลของผู้สมัครที่ส่งยื่นเข้ามาเป็นระยะเวลาไม่เกิน 2 ปีหลังจากที่สรรหาบุคลากรสำหรับตำแหน่งนั้นเจอหรือปิดรับตำแหน่งนั้นแล้ว เพื่อที่ว่าเราจะได้สามารถพิจารณาผู้สมัครรายนั้นๆ อีกครั้งสำหรับตำแหน่งและโอกาสอื่นที่ Wix และเพื่อ
-
-สามารถใช้ข้อมูลของผู้สมัครเป็นข้อมูลอ้างอิงสำหรับการสมัครครั้งถัดๆ ไปในอนาคต และเพื่อการว่าจ้างเพิ่มเติมและจุดประสงค์ทางธุรกิจอื่นเกี่ยวกับตำแหน่งที่ Wix ของบุคคลดังกล่าวหากบุคคลนั้นได้รับการว่าจ้าง
-
-​หากคุณเคยยื่นข้อมูลสมัครงานมาที่ Wix แล้วและประสงค์ที่จะเข้าสู่ข้อมูล อัปเดต หรือลบข้อมูลออกจากระบบของ Wix กรุณาติดต่อเราที่ [jobs@wix.com](mailto:jobs@wix.com)
-
-#ItsThatEasy
-
-เรายินดีต้อนรับผู้หางานทุกรายที่มีคุณสมบัติเหมาะสมให้ร่วมสมัครตำแหน่งที่ว่างอยู่ของเรา โดยส่งรายละเอียดติดต่อรวมทั้งประวัติและผลงานมาถึงเรา
+We may change this policy at any time. We will notify you of changes as required by applicable law.
 
 ​
 
-เราจะใช้ข้อมูลส่วนบุคคลดังกล่าวเพื่อการสรรหาบุคลากรภายใน เพื่อการจ้างงาน และจุดประสงค์ทางธุรกิจของเราเท่านั้น
-
-##### 16. ​ฟอรัมสาธารณะและเนื้อหาที่เกิดจากผู้ใช้
-
-บริการของเราเสนอบล็อก คอมมิวนิตี้ และฟอรัมให้ความช่วยเหลือที่สาธารณชนเข้าถึงได้ ฉะนั้นกรุณาตระหนักให้ดีว่าข้อมูลส่วนบุคคลที่คุณเสนอไว้ในส่วนดังกล่าวอาจถูกบุคคลอื่นที่สามารถเข้าถึงข้อมูลนำไปอ่าน รวบรวม และนำไปใช้ หากคุณต้องการยื่นคำร้องขอลบข้อมูลส่วนบุคคลของคุณออกจากบล็อก คอมมิวนิตี้ หรือฟอรัมของเรา โปรดติดต่อเราทันทีที่: [privacy@wix.com](mailto:privacy@wix.com) ในบางกรณีเราไม่อาจลบข้อมูลส่วนบุคคลของคุณออกจากส่วนนั้นๆ ได้ ยกตัวอย่างเช่น กรณีที่คุณใช้แอปพลิเคชันของบุคคลภายนอกเพื่อโพสต์ความคิดเห็น (เช่น แอปพลิเคชัน social plugin ของ Facebook) ในขณะที่กำลังล็อกอินอยู่ในโปรไฟล์ของคุณที่มีกับบุคคลภายนอกนั้น คุณจะต้องล็อกอินเข้าสู่แอปพลิเคชันดังกล่าวหรือติดต่อผู้ให้บริการเพื่อขอให้ลบข้อมูลส่วนบุคคลที่คุณโพสต์ผ่านแพลตฟอร์มนั้นออก
+Only the left column is legally binding (this column is just for clarity).
 
 ​
 
-ในกรณีใดก็ตาม เราขอแนะนำว่ากรุณาอย่าโพสต์ข้อมูลส่วนบุคคลที่คุณไม่ต้องการให้สาธารณชนรับทราบ (ไม่ว่าจะด้วยวิธีใด)
+Translated (non-English) versions of these terms are provided for convenience only.
+
+18. Contacting us
+-----------------
+
+If you have any questions about this Privacy Policy or wish to exercise any of your rights as described in Sections 9 or 10 please refer to those sections or contact the Data Protection Officer team at [privacy@wix.com](mailto:privacy@wix.com). We will attempt to resolve any complaints regarding the use of your Personal Information in accordance with this Privacy Policy.
 
 ​
 
-หากคุณอัปโหลดเนื้อหาที่เกิดจากผู้ใช้ขึ้นสู่บัญชีผู้ใช้ของคุณ หรือโพสต์เนื้อหานั้นลงในเว็บไซต์ผู้ใช้ของคุณ และ/หรือมอบข้อมูลในลักษณะอื่นที่ถือว่าเป็นส่วนหนึ่งของการใช้บริการ จะถือว่าคุณกระทำเช่นนั้นภายใต้ดุลพินิจของคุณเอง
+You may also contact us by mail at:
 
-เราได้ใช้มาตรการรักษาความปลอดภัยที่เหมาะสมเพื่อปกป้องและคุ้มครองข้อมูลส่วนบุคคลของคุณ  อย่างไรก็ตามเราไม่สามารถควบคุมการกระทำของผู้ใช้หรือสมาชิกสาธารณะรายอื่นที่อาจเข้าสู่เนื้อหาที่เกิดจากผู้ใช้ของคุณได้ และเราไม่มีหน้าที่รับผิดชอบเรื่องการหลบเลี่ยงการปิดกั้นการตั้งค่าความเป็นส่วนตัวหรือมาตรการรักษาความปลอดภัย ที่คุณหรือเราได้ตั้งไว้บนเว็บไซต์ผู้ใช้ของคุณ (รวมทั้งส่วนในหน้าเว็บไซต์ผู้ใช้ของคุณที่ป้องกันด้วยการกรอกรหัสผ่าน เป็นต้น) คุณเข้าใจและรับทราบว่าแม้แต่หลังจากที่คุณหรือเราลบเนื้อหาออกไปแล้ว สำเนาของเนื้อหาที่เกิดจากผู้ใช้อาจยังปรากฏต่อไปในเพจที่ถูกเก็บเป็นความจำสำรองและเพจที่เก็บเข้าคลัง หรือในกรณีที่บุคคลภายนอก (รวมทั้งผู้ใช้งานของผู้ใช้) ได้ทำสำเนาหรือจัดเก็บเนื้อหาดังกล่าว เพื่อความกระจ่างแจ้ง เราขอแนะนำว่ากรุณาอย่าอัปโหลดหรือโพสต์ข้อมูลใดๆ ก็ตามที่คุณไม่ต้องการให้สาธารณชนรับทราบ
-
-#ItsThatEasy
-
-หากคุณไม่ต้องการให้ข้อมูลส่วนบุคคลเป็นที่ทราบและเข้าถึงได้จากสาธารณะ กรุณาหลีกเลี่ยงการโพสต์ข้อมูลส่วนบุคคลลงในบริการของเราที่เปิดสำหรับสาธารณะ หรือลงในเว็บไซต์ของคุณเอง
-
-##### 17. ​ อัปเดตและการตีความ
-
-เราอาจอัปเดตนโยบายการคุ้มครองข้อมูลส่วนบุคคลนี้ตามที่กฎหมายที่เกี่ยวข้องกำหนดไว้ เพื่อให้รับทราบถึงการเปลี่ยนแปลงในเรื่องหลักปฏิบัติในการรวบรวม การใช้งาน และการจัดเก็บข้อมูลส่วนบุคคลของเรา หากเราดำเนินการเปลี่ยนแปลงที่เห็นว่า "มีนัยสำคัญ" (ตามวิจารณญาณอย่างสุจริตของเรา) เราจะแจ้งให้คุณทราบ (ด้วยวิธีการแจ้งที่อธิบายในมาตรา 15.3 ของ[ข้อกำหนดในการใช้งาน](http://www.wix.com/about/terms-of-use)) ก่อนที่การเปลี่ยนแปลงนั้นจะมีผลบังคับใช้ ส่วนในแง่ ของนโยบายการคุ้มครองข้อมูลส่วนบุคคลที่ได้รับการอัปเดต เราจะแจ้งให้คุณทราบ ขอรับคำยินยอมจากคุณ และ/หรือดำเนินมาตรการอื่นตามที่กฎหมายที่เกี่ยวข้องกำหนดไว้ เราขอแนะนำให้คุณอ่านทบทวนเพจนี้เป็นระยะๆ เพื่อศึกษาเกี่ยวกับข้อมูลล่าสุดในหลักปฏิบัติของเราด้านความเป็นส่วนตัว นโยบายการคุ้มครองข้อมูลส่วนบุคคลครั้งล่าสุดของเรามีผลบังคับใช้กับข้อมูลทั้งหมดที่เรามีเกี่ยวกับตัวคุณและผู้ใช้งานของผู้ใช้ ในเรื่องเว็บไซต์, Wix Apps, Mobile Apps และบริการอื่นๆ ของเรา เว้นเสียแต่ว่าจะระบุไว้เป็นเช่นอื่น
-
-บริเวณส่วนหัว คำบรรยาย หรือชื่อหมวดที่ปรากฏอยู่ในนโยบายฉบับนี้ และคำอธิบายหรือคำสรุปใดๆ ใต้คอลัมน์  "#ItsThatEasy" ทางขวามือมีให้เพื่อความสะดวกเท่านั้น และไม่ได้นิยามหรืออธิบายมาตราหรือบทบัญญัติใดในนี้ หรือผูกมัดเราทางกฎหมายแต่อย่างใดเลย
-
-​
-
-นโยบายการคุ้มครองข้อมูลส่วนบุคคลฉบับนี้เขียนขึ้นในภาษาอังกฤษ และสามารถแปลเป็นภาษาอื่นได้เพื่อความสะดวกของคุณ คุณอาจเข้าถึงหรือดูเวอร์ชันภาษาอื่นได้โดยการเปลี่ยนการตั้งค่าภาษาในเว็บไซต์ Wix ของคุณ ในกรณีที่เวอร์ชันคำแปล (ที่ไม่ใช่ภาษาอังกฤษ) ของนโยบายการคุ้มครองข้อมูลส่วนบุคคลฉบับนี้ขัดแย้งกับเวอร์ชันภาษาอังกฤษ ให้ยึดบทบัญญัติในเวอร์ชันภาษาอังกฤษเป็นหลัก
-
-#ItsThatEasy
-
-เราสามารถเปลี่ยนแปลงนโยบายนี้ได้ทุกเมื่อ ซึ่งเราจะแจ้งให้คุณทราบถึงการเปลี่ยนแปลงที่จะมี ตามที่กฎหมายที่เกี่ยวข้องกำหนดไว้
-
-​
-
-เฉพาะคอลัมน์ทางซ้ายมือเท่านั้นที่มีผลผูกมัดตามกฎหมาย (คอลัมน์นี้มีเพื่อความกระจ่างแจ้งเท่านั้น)
-
-​
-
-เวอร์ชันคำแปล (ที่ไม่ใช่ภาษาอังกฤษ) ของข้อกำหนดเหล่านี้จัดทำขึ้นเพื่อมอบความสะดวกเท่านั้น
-
-##### 18. ​ติดต่อเรา
-
-หากคุณมีคำถามเกี่ยวกับนโยบายการคุ้มครองข้อมูลส่วนบุคคลฉบับนี้หรือประสงค์ที่จะใช้สิทธิใดๆ ที่คุณมีตามที่อธิบายไว้ในมาตราที่ 9 หรือ 10 กรุณาดูที่มาตราเหล่านั้นหรือติดต่อทีมเจ้าหน้าที่ฝ่ายคุ้มครองข้อมูลที่  [privacy@wix.com](mailto:privacy@wix.com) เราจะพยายามแก้ปัญหาคำร้องเรียนที่เกี่ยวกับการใช้ข้อมูลส่วนบุคคลของคุณให้สอดคล้องกับนโยบายการคุ้มครองข้อมูลส่วนบุคคลฉบับนี้
-
-​
-
-คุณสามารถติดต่อเราทางไปรษณีย์ได้ที่:
-
-*   40 Namal Tel Aviv St., Tel Aviv, Israel หรือ
+*   40 Namal Tel Aviv St., Tel Aviv, Israel; or 
     
-*   500 Terry A. Francois Boulevard, 6th Floor, San Francisco, CA, 94158
+*   500 Terry A. Francois Boulevard, 6th Floor, San Francisco, CA, 94158.
     
 
 ​
 
-เพื่อจุดประสงค์ของ GDPR (มาตราที่ 27) คุณสามารถติดต่อตัวแทนประจำ EU ของเราได้ที่ Wix Online Platforms Limited, 1 Grant’s Row, Dublin 2 D02HX96, Ireland
+For the purposes of GDPR (Article 27), you may contact our EU representative at Wix Online Platforms Limited, 1 Grant’s Row, Dublin 2 D02HX96, Ireland.
 
-#ItsThatEasy
+#### #ItsThatEasy
 
-มีคำถามหรือคำแนะนำ? เรายินดีรับฟังเสมอ!
+We may change this policy at any time. We will notify you of changes as required by applicable law.
+
+​
+
+Only the left column is legally binding (this column is just for clarity).
+
+​
+
+Translated (non-English) versions of these terms are provided for convenience only.
