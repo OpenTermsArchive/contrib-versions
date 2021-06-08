@@ -1,6 +1,6 @@
 **Last Updated: January 5, 2021**
 
-For more information, see [Privacy on Foursquare](https://support.foursquare.com/hc/en-us/articles/201065830).
+For more information, see [Privacy on Foursquare](https://foursquare.atlassian.net/servicedesk/customer/portal/20/topic/4461659e-7b3d-41dd-84a1-a2d41fafb600/article/938377420).
 
 Foursquare Consumer Services Privacy Policy
 -------------------------------------------
