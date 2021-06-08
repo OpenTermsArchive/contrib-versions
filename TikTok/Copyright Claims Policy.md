@@ -58,8 +58,6 @@ The counter-notification process will take time to complete, please be patient. 
 
 If we do not receive notice that the original reporter is seeking a court order to prevent further infringement of the material at issue, we may replace or cease disabling access to the material that was removed if the material does not infringe on third-party copyright. The decision to re-post any material is at TikTok’s sole discretion.
 
-If you submit a report or infringement notification to us, we may contact you if we have additional questions about your report or notification. Please note that TikTok is not in a position to adjudicate disputes between third parties, and may not be able to remove the content or suspend the account you reported. As an alternative, you may want to contact the person who posted the content or owns the account to try to resolve your issue directly. 
-
 **_If you are a user located in the European Union_**
 
 If you receive a copyright infringement notification and believe that you have the right to post the content in question, you can complete a Counter Notification Form.
