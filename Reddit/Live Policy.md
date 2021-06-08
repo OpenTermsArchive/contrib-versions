@@ -1,9 +1,9 @@
-Reddit Content Policy for Live Video
-====================================
+Reddit Content Policy for Live Video and Audio
+==============================================
 
 The Reddit [Content Policy](https://www.redditinc.com/policies/content-policy) applies to all content, including chats, on Reddit Live.
 
-Additionally:
+Additionally, any live video or audio content is also subject to the following:
 
 **No NSFW Content**
 
