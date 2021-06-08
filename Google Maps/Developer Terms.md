@@ -259,13 +259,16 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
             *   SNCF ; les modifications et améliorations aux données sont disponibles [ici](https://opendata.itoworld.com/france_sncf/france_sncf_gtfs.zip)
             *   Lyon Métropole (Sytral) ; les modifications et améliorations aux données sont disponibles [ici](https://gtech-transit-prod.apigee.net/v1/google/gtfs/odbl/lyon.zip?apikey=BasyG6OFZXgXnzWdQLTwJFGcGmeOs204&secret=gNo6F5PhQpsGRBCK)
-            *   Bordeaux Métropole ; les modifications et améliorations aux données sont disponibles [ici](https://gtech-transit-prod.apigee.net/v1/google/gtfs/odbl/bordeaux.zip?apikey=BasyG6OFZXgXnzWdQLTwJFGcGmeOs204&secret=gNo6F5PhQpsGRBCK)
             *   Nantes Métropole
             *   Nîmes Métropole
             *   Grand Guéret Agglo
             *   Tout'enbus Aubenas
         *   [Data.gouv.fr](https://www.data.gouv.fr/fr/) : [Sites de prélèvements pour les tests COVID](https://www.data.gouv.fr/fr/datasets/sites-de-prelevements-pour-les-tests-covid/); [Lieux de vaccination contre la Covid-19](https://www.data.gouv.fr/fr/datasets/lieux-de-vaccination-contre-la-covid-19/)
         *   SNCF : les Informations sont fournies par l’intermédiaire de l’API SNCF ; la réutilisation de ces données est réalisée de manière indépendante de SNCF
+            
+        *   Bordeaux Métropole : [source](https://opendata.bordeaux-metropole.fr/explore/dataset/sv_horai_a/information/)
+            
+        *   Métropole Nice Côte d'Azur : [source](https://opendata.nicecotedazur.org/data/dataset/export-quotidien-au-format-gtfs-du-reseau-de-transport-lignes-d-azur)
             
     10.  **Germany**
         *   Bundesamt für Kartographie und Geodäsie - © Vermessungsverwaltungen der Bundesländer und Bundesamt für Kartographie und Geodäsie
