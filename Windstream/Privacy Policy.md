@@ -72,7 +72,7 @@ Information about our customers and users, including PII, may be shared and tran
 C. SMS/Text Messaging
 ---------------------
 
-If you create an account and provide your cellular telephone number, Windstream may send you administrative text messages. If you opt in to receive promotional/marketing text messages, Windstream may also send you promotional/marketing text messages. If you wish to opt out of any type of text messaging sent to you by Windstream, you may do so by following the "opt-out" instructions in the text message, or by editing your account settings.
+By selecting Mobile you agree to receive Windstream notifications via text to the mobile number provided and agree to the Terms within this page: [https://www.windstream.com/about/legal/Terms-and-Conditions](https://www.windstream.com/about/legal/Terms-and-Conditions) . Message frequency will vary. Message and data rates may apply. You can reply STOP any time to 22023 to cancel. Reply HELP to 22023 or click on CUSTOMER SERVICE: [www.windstream.com/Support](http://www.windstream.com/Support)  for help.
 
 D. Customer Proprietary Network Information (CPNI)
 --------------------------------------------------
@@ -138,7 +138,7 @@ While our goal is to prevent any unauthorized disclosure of PII, Windstream cann
 M. Contact Us
 -------------
 
-If you have questions, concerns, or complaints about this Statement or Windstream’s privacy practices, please contact a Windstream customer care representative; email us at [\[email protected\]](https://www.windstream.com/cdn-cgi/l/email-protection#17607e797364636572767a3967657e6176746e3964637663727a72796357607e797364636572767a3974787a); or write to us at Windstream Services, LLC, ATTN: Legal Department, 4001 Rodney Parham Road, Little Rock, Arkansas 72212. We will respond to your inquiries in a timely manner.
+If you have questions, concerns, or complaints about this Statement or Windstream’s privacy practices, please contact a Windstream customer care representative; email us at [\[email protected\]](https://www.windstream.com/cdn-cgi/l/email-protection#23544a4d4750575146424e0d53514a5542405a0d50574257464e464d5763544a4d4750575146424e0d404c4e); or write to us at Windstream Services, LLC, ATTN: Legal Department, 4001 Rodney Parham Road, Little Rock, Arkansas 72212. We will respond to your inquiries in a timely manner.
 
 N. Definitions
 --------------
