@@ -3,7 +3,7 @@ Vinted - Data Protection Statement
 **Vinted – Privacy Policy**
 ===========================
 
-_Date last updated: 2021-05-07_
+_Date last updated: 2021-06-09_
 
 **1\. General**
 ===============
@@ -867,9 +867,7 @@ Legal basis for the collection and use of data is the performance of a contract 
 
 Personal data are required to perform a contract (GTC) with you. In case you do not provide us with this personal data, we will not be able to conclude and execute a contract (GTC) with you.
 
-When you make a purchase, we will store your credit card details for future use. Legal basis for the collection and use is the legitimate interest of Vinted and its members (Art. 6 (1) (f) of the GDPR) to facilitate subsequent purchases on the Platform and improve the experience making the Platform more convenient.
-
-You can easily opt-out of further storage of your card details both at the time of purchase and afterwards by removing the credit card from your account by going into settings and removing it as a payment method.
+If you agree, we will store your bank card details for future use. Legal basis for such collection and use is your consent (Art. 6 (1) (a) of the GDPR). You can remove the bank card anytime in your payment settings.
 
 Vinted collects and uses your personal data for this purpose for as long as we keep your Vinted account - for 3 months from the date of deletion of your Vinted account or for 5 years and 3 months of inactivity on your account.
 
