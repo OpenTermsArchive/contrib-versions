@@ -38,6 +38,8 @@ We may provide the account holder with your contact information, including the e
 
 Before submitting a notification, please be aware that intentionally submitting a misleading or fraudulent report may lead to liability for damages under section 512(f) of the United States Digital Millennium Copyright Act (DMCA) or similar laws as may be applicable in other countries.
 
+If you submit a report or infringement notification to us, we may contact you if we have additional questions about your report or notification. Please note that TikTok is not in a position to adjudicate disputes between third parties, and may not be able to remove the content or suspend the account you reported. As an alternative, you may want to contact the person who posted the content or owns the account to try to resolve your issue directly.
+
 **EU Copyright Directive**
 
 Pursuant to Article 17 of the Copyright Directive (EU 2019/790), if you want to make an enquiry about granting an authorisation to TikTok to make your copyright-protected works available on TikTok, please use [this form](https://docs.google.com/forms/d/e/1FAIpQLSd6yCYJoiw0LK6iB8fTHCMcqL3HTsMmCCpEWY5ktxnJkqQQHQ/viewform?usp=sf_link). We will review your request and be in touch.
