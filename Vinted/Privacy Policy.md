@@ -3,12 +3,12 @@ Vinted - Data Protection Statement
 **Vinted – Privacy Policy**
 ===========================
 
-_Date last updated: 2021-06-09_
+_Date last updated: 2021-06-10_
 
 **1\. General**
 ===============
 
-This Privacy Policy applies to the online platforms Vinted.fr, Vinted.es, Vinted.nl, Vinted.be, Vinted.lu, Vinted.lt, Musumazyliai.lt Vinted.cz, Vinted.pl, Vinted.de, Vinted.co.uk, Vinted.com, Kleiderkreisel.de, Kleiderkreisel.at, Mamikreisel.de, Mamikreisel.at (“Website”) and to the associated app (“App”). Vinted.fr, Vinted.es, Vinted.nl, Vinted.be, Vinted.lu, Vinted.lt, Vinted.cz, Vinted.pl, Vinted.de and Vinted.co.uk online platforms are operated by Vinted, UAB, Švitrigailos st. 13, LT-03228 Vilnius, Republic of Lithuania; Kleiderkreisel.de, Kleiderkreisel.at, Mamikreisel.de, Mamikreisel.at online platforms are operated by Kleiderkreisel GmbH, Wallstraße 65, 10179 Berlin, Germany, and Vinted.com online platform is operated by Vinted Inc, a company registered in Delaware, with business location at C/o AG Accounting 735 Geary St. #303 San Francisco, CA 94109. (hereinafter jointly referred to as “Us”, “We” or “Vinted”). Unless otherwise specified under specific sections, this Privacy Policy applies to all of our Platforms. More details about how to get in contact with us can be found at the end of this Privacy Policy under no. 7.
+This Privacy Policy applies to the online platforms Vinted.fr, Vinted.es, Vinted.pt, Vinted.nl, Vinted.be, Vinted.lu, Vinted.lt, Musumazyliai.lt Vinted.cz, Vinted.pl, Vinted.de, Vinted.co.uk, Vinted.com, Kleiderkreisel.de, Kleiderkreisel.at, Mamikreisel.de, Mamikreisel.at (“Website”) and to the associated app (“App”). Vinted.fr, Vinted.es, Vinted.pt, Vinted.nl, Vinted.be, Vinted.lu, Vinted.lt, Vinted.cz, Vinted.pl, Vinted.de and Vinted.co.uk online platforms are operated by Vinted, UAB, Švitrigailos st. 13, LT-03228 Vilnius, Republic of Lithuania; Kleiderkreisel.de, Kleiderkreisel.at, Mamikreisel.de, Mamikreisel.at online platforms are operated by Kleiderkreisel GmbH, Wallstraße 65, 10179 Berlin, Germany, and Vinted.com online platform is operated by Vinted Inc, a company registered in Delaware, with business location at C/o AG Accounting 735 Geary St. #303 San Francisco, CA 94109. (hereinafter jointly referred to as “Us”, “We” or “Vinted”). Unless otherwise specified under specific sections, this Privacy Policy applies to all of our Platforms. More details about how to get in contact with us can be found at the end of this Privacy Policy under no. 7.
 
 We take your privacy extremely seriously. All data will be collected, stored and used by us in accordance with the European Union General Data Protection Regulation No. 2016/679 (“**GDPR**”), other statutory regulations.
 
@@ -268,7 +268,7 @@ In order to respond to your inquiries, Vinted provides your data to service part
 2.  Transcom Worldwide Spain S.L.U (Spain) (if you use our .es Platform);
 3.  Transcom Worldwide Poland sp. Z.o.o. (Poland) (if you use our .pl or .fr Platforms);
 4.  UAB Transcom Worldwide Vilnius (Lithuania) (if you use our .fr, .es, .be, .nl, .lu, .de or .at Platforms);
-5.  Transcom Worldwide Portugal, S.L.U (Portugal) (if you use our .fr Platform);
+5.  Transcom Worldwide Portugal, S.L.U (Portugal) (if you use our .fr or .pt Platforms);
 6.  Transcom Worldwide Albania SH.P.K. (Albania) (if you use our .fr Platform);
 7.  Transcom Worldwide Tunis Sarl (Tunisia) (if you use our .fr, .es, .be, .nl, .lu, .de or .at Platforms);
 8.  Phoneact S.A.R.L (Tunisia) (if you use our .fr Platform);
@@ -874,7 +874,7 @@ Vinted collects and uses your personal data for this purpose for as long as we k
 **2.5.2. To allow you to add a bank account for withdrawal purposes**
 ---------------------------------------------------------------------
 
-Please note, this section only applies to our French, Dutch, Belgian, Luxembourg, Spanish, English, German, Austrian, Polish and American Platforms.
+Please note, this section only applies to our French, Dutch, Belgian, Luxembourg, Spanish, Portuguese, English, German, Austrian, Polish and American Platforms.
 
 When you add a bank account for withdrawal purposes, we collect and use the following data for the purpose of allowing you to withdraw money:
 
@@ -887,10 +887,10 @@ Personal data are required to perform a contract (GTC) with you. In case you do 
 
 Vinted collects and uses your personal data for this purpose for as long as we keep your Vinted account - for 3 months from the date of deletion of your Vinted account or for 5 years and 3 months of inactivity on your account.
 
-**2.5.3. To enable you to pay on our .fr, .nl, .be, .lu, .es, .uk, .de, .at Platforms**
----------------------------------------------------------------------------------------
+**2.5.3. To enable you to pay on our .fr, .nl, .be, .lu, .es, .pt, .uk, .de, .at Platforms**
+--------------------------------------------------------------------------------------------
 
-Please note, this section only applies to our French, Dutch, Belgian, Luxembourg, Spanish, English, German and Austrian Platforms.
+Please note, this section only applies to our French, Dutch, Belgian, Luxembourg, Spanish, Portuguese, English, German and Austrian Platforms.
 
 If you opt to pay a seller by credit card, PayPal, or if you accept payment from a buyer via one of these methods, or if you use other services on the Platform for which a charge is made, the transaction in question will be collected and used via our electronic payment system, MANGOPAY (see our [GTC](https://www.vinted.fr/terms-and-conditions)), which is operated by MANGOPAY S.A. (Luxembourg) ("**MANGOPAY**"). To use MANGOPAY, you will need to set up an e-wallet on the Platform (referred to on the Platform as a "wallet") and provide us with the following information, which we will transfer to MANGOPAY:
 
@@ -984,10 +984,10 @@ Personal data are required to perform a contract (GTC) with you. In case you do 
 
 Transaction data are kept for 13 months from the day of the transaction.
 
-**2.5.6. To implement Know Your Customer (KYC) checks on .fr, .nl, .be, .lu, .es, .uk, .de, .at Platforms**
------------------------------------------------------------------------------------------------------------
+**2.5.6. To implement Know Your Customer (KYC) checks on .fr, .nl, .be, .lu, .es, .pt, .uk, .de, .at Platforms**
+----------------------------------------------------------------------------------------------------------------
 
-Please note, this section only applies to our French, Dutch, Belgian, Luxembourg, Spanish, English, German and Austrian Platforms.
+Please note, this section only applies to our French, Dutch, Belgian, Luxembourg, Spanish, Portuguese, English, German and Austrian Platforms.
 
 Whenever you are about to reach a pay-in or pay-out threshold, MANGOPAY will request you to provide a copy of your passport, ID card or driver’s license, including the provisional license. In that case, we will collect and transfer the following data to the payment service providers in order to allow a payment service provider to perform a safety check (so-called Know Your Customer, KYC):
 
@@ -1049,10 +1049,10 @@ This is necessary in order to fulfill our legitimate interest to provide STRIPE 
 
 Personal data collected and used for the aforementioned purpose are kept until this information is transferred to our payment service provider STRIPE.
 
-**2.5.9. To carry out Politically Exposed Persons (PEP) checks on .fr, .nl, .be, .lu, .es, .uk, .de, .at Platforms**
---------------------------------------------------------------------------------------------------------------------
+**2.5.9. To carry out Politically Exposed Persons (PEP) checks on .fr, .nl, .be, .lu, .es, .pt, .uk, .de, .at Platforms**
+-------------------------------------------------------------------------------------------------------------------------
 
-Please note, this section only applies to our French, Dutch, Belgian, Luxembourg, Spanish, English, German and Austrian Platforms.
+Please note, this section only applies to our French, Dutch, Belgian, Luxembourg, Spanish, Portuguese, English, German and Austrian Platforms.
 
 In rare cases, additional information may be required in order to continue using Vinted. When you have a lot of transactions on our Platform, we may be required by our payment provider MANGOPAY to carry out further checks as part of anti-money laundering and counter-terrorist financing measures. In that case, we collect and use the following personal data provided in a declaration regarding Politically Exposed Persons (PEP):
 
@@ -1543,6 +1543,8 @@ If you use our .fr, .be or .lu Platform: [dpo@vinted.fr](mailto:dpo@vinted.fr)
 If you use our .it Platform: [dpo@vinted.it](mailto:dpo@vinted.lt)
 
 If you use our .es Platform: [dpo@vinted.es](mailto:dpo@vinted.lt)
+
+If you use our .pt Platform: [dpo@vinted.pt](mailto:dpo@vinted.lt)
 
 If you use our .nl Platform: [dpo@vinted.nl](mailto:dpo@vinted.lt)
 
