@@ -1,6 +1,8 @@
 CNN Terms of Use
 ================
 
+Updated 1639 GMT (0039 HKT) June 14, 2021
+
 MOBILE APPS/WEBSITE TERMS OF USE
 
 **Welcome to CNN!**
