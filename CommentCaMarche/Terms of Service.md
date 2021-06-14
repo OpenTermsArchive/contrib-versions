@@ -3,7 +3,9 @@ General Terms and Conditions of Use
 
 Latest update on **Friday 20 December 2019 à 03:47** by Aoife McCambridge.
 
-**All Rights Reserved - 2018 © CCM BENCHMARK GROUP**
+**All Rights Reserved - 2018 © CCM BENCHMARK GROUP**  
+  
+  
 
 Object
 ------
@@ -13,20 +15,25 @@ These General Terms and Conditions are meant to define the ways in which the ser
 Legal Disclaimers and Imprint
 -----------------------------
 
-The website CCM.net is published by:  
-
+The website CCM.net is published by:    
+  
+  
+  
 CCM BENCHMARK GROUP   
 SAS (Simplified Joint-Stock Company)   
-with a capital of 1 848 864,45 €,
-
+with a capital of 1 848 864,45 €,  
+  
 Headquartered at:   
-94 rue de Provence – 75009 Paris, France 
+94 rue de Provence – 75009 Paris, France   
+  
+Registered in the Registre du Commerce et des Sociétés (Registry of Commerce and Companies) as number **512 085 630** PARIS  
+  
+The director of publication is **Marc Feuillée**.  
+  
+**CCM BENCHMARK GROUP** is a subsidiary of France's **Figaro CCM Benchmark Group**.  
+  
 
-Registered in the Registre du Commerce et des Sociétés (Registry of Commerce and Companies) as number **512 085 630** PARIS
-
-The director of publication is **Marc Feuillée**.
-
-**CCM BENCHMARK GROUP** is a subsidiary of France's **Figaro CCM Benchmark Group**.
+  
 
 Definitions
 -----------
@@ -72,57 +79,59 @@ CCM BENCHMARK GROUP reserves the right to delete any or all User Content, at any
 Personal Data
 -------------
 
-To respect the privacy of its Users, CCM BENCHMARK GROUP guarantees the User the right to correct, access, and remove data concerning said User. The User can exercise this right:
-
-on the site, in the [Members area](https://ccm.net/forum/members-cafe-4);
-
-by using the provided [contact form](https://ccm.net/contact/);
-
-by contacting CCM directly at the following address: contact@ccm.net
-
-For more information about the processing of personal data, please read our [Privacy Policy](https://ccm.net/contents/957-processing-of-personal-data-ccm)
+To respect the privacy of its Users, CCM BENCHMARK GROUP guarantees the User the right to correct, access, and remove data concerning said User. The User can exercise this right:  
+  
+  
+on the site, in the [Members area](https://ccm.net/forum/members-cafe-4);  
+  
+by using the provided [contact form](https://ccm.net/contact/);  
+  
+by contacting CCM directly at the following address: contact@ccm.net  
+  
+For more information about the processing of personal data, please read our [Privacy Policy](https://ccm.net/contents/957-processing-of-personal-data-ccm)  
 
 Limitation of Liability
 -----------------------
 
-The website CCM.net is an informative website on new media technology, and in particular on subjects related to information technology.
-
-Information distributed on the website CCM.net comes from purportedly reliable sources. Nevertheless, **CCM BENCHMARK GROUP** cannot guarantee the accuracy or completeness of this data. Furthermore, information is provided on this website for information purposes only, and may not be construed as advice or recommendations of any nature whatsoever.
-
-Consequently, the Use of information and content available throughout the site shall not incur any liability whatsoever to CCM BENCHMARK GROUP. The User alone is responsible for the proper and judicious use of the information provided on the Site.
-
-Additionally, the User agrees to hold harmless and indemnify CCM BENCHMARK GROUP for any damages that may result, directly or indirectly, from using the Service.
-
-Access to certain areas of the CCM.net website requires a User Name and Password. The Password, chosen by the User, is personal and private. The User agrees to keep his or her password secret and not to divulge it in any way whatsoever. The use of his or her User Name and his or her Password on the Internet is done at the User's own risk. It is the User's responsibility to take all measures needed to protect his or her own data from any disclosure.
-
-CCM BENCHMARK GROUP, however, agrees to implement all means necessary to guarantee the security and privacy of data transmitted. The User is aware that one or more cookies, containing no personal information, may be placed on his or her hard drive in order to facilitate the login and identification process.
-
-The User is aware of the limitations and restrictions of the Internet, and recognises that it is impossible to guarantee total security when transferring data. CCM BENCHMARK GROUP may not be held responsible for any loss or harm arising from the transmission of any information, including User Names and Passwords, via the Service.
-
-CCM BENCHMARK GROUP may not in any case, as far as the law applies, be held responsible for damage and/or harm, direct or indirect, material or immaterial, or of any nature whatsoever, arising from any unavailability of the Service or its Use. The term "Use" must be understood in its broadest sense, to wit, any usage of the Site of any kind, whether legal or not.
-
-The User agrees to comply with all regulations provided for by French law.
+The website CCM.net is an informative website on new media technology, and in particular on subjects related to information technology.  
+  
+  
+Information distributed on the website CCM.net comes from purportedly reliable sources. Nevertheless, **CCM BENCHMARK GROUP** cannot guarantee the accuracy or completeness of this data. Furthermore, information is provided on this website for information purposes only, and may not be construed as advice or recommendations of any nature whatsoever.  
+  
+Consequently, the Use of information and content available throughout the site shall not incur any liability whatsoever to CCM BENCHMARK GROUP. The User alone is responsible for the proper and judicious use of the information provided on the Site.  
+  
+Additionally, the User agrees to hold harmless and indemnify CCM BENCHMARK GROUP for any damages that may result, directly or indirectly, from using the Service.  
+  
+Access to certain areas of the CCM.net website requires a User Name and Password. The Password, chosen by the User, is personal and private. The User agrees to keep his or her password secret and not to divulge it in any way whatsoever. The use of his or her User Name and his or her Password on the Internet is done at the User's own risk. It is the User's responsibility to take all measures needed to protect his or her own data from any disclosure.  
+  
+CCM BENCHMARK GROUP, however, agrees to implement all means necessary to guarantee the security and privacy of data transmitted. The User is aware that one or more cookies, containing no personal information, may be placed on his or her hard drive in order to facilitate the login and identification process.  
+  
+The User is aware of the limitations and restrictions of the Internet, and recognises that it is impossible to guarantee total security when transferring data. CCM BENCHMARK GROUP may not be held responsible for any loss or harm arising from the transmission of any information, including User Names and Passwords, via the Service.  
+  
+CCM BENCHMARK GROUP may not in any case, as far as the law applies, be held responsible for damage and/or harm, direct or indirect, material or immaterial, or of any nature whatsoever, arising from any unavailability of the Service or its Use. The term "Use" must be understood in its broadest sense, to wit, any usage of the Site of any kind, whether legal or not.  
+  
+The User agrees to comply with all regulations provided for by French law.  
 
 Hyperlinks
 ----------
 
 CCM.net includes hyperlinks to websites published and/or managed by third parties.  
-As CCM BENCHMARK GROUP cannot control these external resources, the User recognises that CCM BENCHMARK GROUP takes no responsibility for them, and cannot be held responsible for their content.
+As CCM BENCHMARK GROUP cannot control these external resources, the User recognises that CCM BENCHMARK GROUP takes no responsibility for them, and cannot be held responsible for their content.  
 
 Force majeure
 -------------
 
-**CCM BENCHMARK GROUP** shall not be held liable in the event of force majeure or any events outside its control.
+**CCM BENCHMARK GROUP** shall not be held liable in the event of force majeure or any events outside its control.  
 
 Modifications to this Contract
 ------------------------------
 
-CCM BENCHMARK GROUP reserves the right to modify the terms and conditions of this contract at any time. The User is therefore advised to regularly consult the latest version of the Terms and Conditions of Use available at CCM.net.
+CCM BENCHMARK GROUP reserves the right to modify the terms and conditions of this contract at any time. The User is therefore advised to regularly consult the latest version of the Terms and Conditions of Use available at CCM.net.  
 
 Duration and Dissolution
 ------------------------
 
-The contract is agreed to for an indefinite duration, beginning with Use of the Service by the User.
+The contract is agreed to for an indefinite duration, beginning with Use of the Service by the User.  
 
 Legal Jurisdiction
 ------------------
