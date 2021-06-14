@@ -137,7 +137,7 @@ You consent to receive notifications from us electronically to the e-mail addres
 
 **10\. TERMINATION; SURVIVAL**
 
-10.1 You may terminate your account at any time by calling Customer Care at 866-273-3612 (please see our [international contact information](https://help.nytimes.com/hc/en-us/articles/115014792927-International-contact-info) if you are outside the U.S.) or chatting with Customer Care [here](https://help.nytimes.com/hc/en-us/articles/115015385887-Contact-us). Termination of paid digital products will be governed by our [Cancellation and Refund Policy for Digital Products](http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html#cancel).
+10.1 You may terminate your account at any time by calling Customer Care at 866-273-3612 (please see our [international contact information](https://help.nytimes.com/hc/en-us/articles/115014792927-International-contact-info) if you are outside the U.S.) or chatting with Customer Care [here](https://help.nytimes.com/hc/en-us/articles/115015385887-Contact-us). Termination of paid digital products will be governed by our [Cancellation and Refund Policy for Digital Products](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale#cancellation).
 
 10.2 NYT may, in its sole discretion, terminate or suspend your access to all or part of the Services for any reason, including, without limitation, breach or assignment of these Terms of Service.
 
