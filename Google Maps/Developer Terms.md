@@ -507,6 +507,12 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   © Tatrzanski Park Narodowy
             
+        *   © Koleje Mazowieckie – KM sp. z o.o, [https://www.mazowieckie.com.pl/](https://www.mazowieckie.com.pl/) Google strives to update this data on an ongoing basis. However the most current version is available at the websites mentioned above. The data made available here has been enhanced from the original source by adding additional information.
+            
+        *   © Urząd [m.st](https://m.st/). Warszawy, [https://warszawa19115.pl/-/dane-po-warszawsku](https://warszawa19115.pl/-/dane-po-warszawsku) Google strives to update this data on an ongoing basis. However the most current version is available at the websites mentioned above. The data made available here has been enhanced from the original source by adding additional information.
+            
+        *   © Zarząd Transportu Miejskiego [https://www.ztm.waw.pl](https://www.ztm.waw.pl/) and [https://www.wtp.waw.pl/](https://www.wtp.waw.pl/) Google strives to update this data on an ongoing basis. However the most current version is available at the websites mentioned above. The data made available here has been enhanced from the original source by adding additional information.
+            
     29.  **Portugal**
         *   IgeoE - Portugal
             
