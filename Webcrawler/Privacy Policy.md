@@ -233,7 +233,10 @@ It is our policy to post any changes we make to our Policy on this page. If we m
 
 ### Contact Information
 
-To ask questions or comment about this Policy and our privacy practices, contact us at:  
+To ask questions or comment about this Policy and our privacy practices, contact us at:
+
+![](https://admin.system1.com/wp-content/uploads/2021/06/contact-email.png)
+
 Attn: Privacy Officer  
 1401 Main Street  
 Venice, CA 90291
