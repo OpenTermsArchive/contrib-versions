@@ -24,6 +24,8 @@ Brands, organisations, artists and other online-only businesses aren't eligible 
 Basic guidelines
 ----------------
 
+**Tip:** If you would like to receive one-on-one guidance and tailored recommendations on how to make the most out of your profile, [consider booking an appointment with Small Business Advisors](http://business.google.com/advisors).
+
 Eligible businesses
 -------------------
 
@@ -150,14 +152,6 @@ Your name must **not** include:
 
 There are additional guidelines for multi-location stores ([chains and brands](#chains)), [departments](#departments) and [individual practitioners](#pract) (e.g. doctors, lawyers and estate agents) below.
 
-#### Custom names
-
-Your short name should be associated with your business name or the most common name that people call your business. We recommend that you include your location to make the short name more distinct. You can use your business name with your city or neighbourhood. For example: 'javierscrabhutdallas'.    
-  
-Keep your short name simple so it’s easy to promote and customers can remember it. If you have a short name, you’ll get a short URL to request reviews from your customers. [Learn more about short URLs for reviews](https://support.google.com/business/answer/7035772).
-
-Learn more about the [custom names policies](https://support.google.com/business/answer/9273900#shortnames_policies).
-
 ### Address
 
 Use a precise, accurate address and/or service area to describe your business location. PO boxes or mailboxes located at remote locations aren't acceptable.
@@ -198,12 +192,12 @@ If you’re a service-area business, you should hide your business address from 
 
 [Learn how to Add or edit your business address](https://support.google.com/business/answer/2853879).
 
-### Website and phone
+### Website & phone
 
 Provide a phone number that connects to your individual business location as directly as possible, **or** provide one website that represents your individual business location.
 
-*   Use a local phone number instead of central, call centre helpline number whenever possible.
-*   Do not provide phone numbers or URLs that redirect or "refer" users to landing pages or phone numbers other than those of the actual business, including pages created on social media sites.
+*   Use a local phone number instead of a central call centre helpline number whenever possible.
+*   Do not provide phone numbers or URLs that redirect or 'refer' users to landing pages or phone numbers other than those of the actual business, including pages created on social media sites.
 *   The phone number must be under the direct control of the business.
 *   Additional phone numbers can be used on Google My Business websites and other local surfaces.
 *   Premium-rate telephone numbers are not allowed. These phone numbers charge high rates to the caller.
@@ -277,7 +271,7 @@ The following types of co-located businesses should each have their own page. If
 
 ### Menu
 
-There are two kinds of menu:
+There are 2 kinds of menus:
 
 *   A menu for an eating and drinking establishment (such as restaurants or cocktail bars) that lists the complete set of food and drink items that are available at the business.
 *   A menu for a service business such as a barber, spa or vehicle repair shop that lists the complete set of services that are available at the business.
