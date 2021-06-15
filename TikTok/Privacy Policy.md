@@ -305,4 +305,21 @@ If you have questions or complaints regarding this policy, or if you wish to rea
 
 **For users in the United Kingdom:** 6th Floor, One London Wall, London, EC2Y 5EB, United Kingdom.
 
-If contacting us does not resolve your complaint you have the right to complain to your local data protection supervisory authority.
+If contacting us does not resolve your complaint you have the right to complain to your local data protection supervisory authority. 
+
+**Additional EU Privacy Policy available**
+------------------------------------------
+
+*   Bulgarian: [Политика за защита на личните данни](https://www.tiktok.com/legal/bul-privacy-policy?lang=en)  
+    
+*   Croatian: [Pravila o zaštiti privatnosti](https://www.tiktok.com/legal/hr-privacy-policy?lang=en)  
+    
+*   Danish: [Databeskyttelsespolitik](https://www.tiktok.com/legal/da-privacy-policy?lang=en)  
+    
+*   Estonian: [Andmekaitsepõhimõtted](https://www.tiktok.com/legal/et-privacy-policy?lang=en)  
+    
+*   Latvian: [Privātuma politika](https://www.tiktok.com/legal/lv-privacy-policy?lang=en)  
+    
+*   Lithuanian: [Privatumo politika](https://www.tiktok.com/legal/lt-privacy-policy?lang=en)  
+    
+*   Norwegian: [Personvernerklæring](https://www.tiktok.com/legal/nb-privacy-policy?lang=en)
