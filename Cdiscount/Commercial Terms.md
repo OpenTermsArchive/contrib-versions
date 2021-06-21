@@ -1521,7 +1521,7 @@ Les CGA et CGV applicables sont celles en vigueur au jour de votre souscription 
 
 Pour bénéficier du Service, il suffit d’ajouter un Produit Eligible dans votre panier, en précisant la fréquence et la quantité souhaitées puis de procéder au règlement de votre première commande conformément aux CGV.
 
-Vous ne pouvez ajouter quéun seul Produit Eligible à votre panier. Si vous souhaitez commander plusieurs Produits Eligibles, vous devez passer plusieurs commandes. Vous pouvez toutefois ajouter à un même panier, un Produit Eligible et des produits non éligibles au service Cdiscount abonnement.  
+Vous ne pouvez ajouter qu’un seul Produit Eligible à votre panier. Si vous souhaitez commander plusieurs Produits Eligibles, vous devez passer plusieurs commandes. Vous pouvez toutefois ajouter à un même panier, un Produit Eligible et des produits non éligibles au service Cdiscount abonnement.  
   
 
 **ARTICLE 4 - PRODUIT ELIGIBLES** 
