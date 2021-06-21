@@ -9,6 +9,7 @@ Welcome to our digital information network. These are our terms and conditions f
 You may access areas of the Guardian Site that require registration by becoming a registered member and creating an account with us. You agree to be responsible for maintaining the confidentiality of your passwords or other account identifiers which you choose and all activities that occur under your account.
 
 By registering on the Guardian Site, you agree that:  
+  
 (i) your account and password are personal to you and may not be used by anyone else to access the Guardian Site;
 
 (ii) you will not do anything which would assist anyone who is not a registered user to gain access to any registration area of the Guardian Site; and
@@ -22,6 +23,7 @@ You agree to notify us immediately if you become aware any unauthorised use of y
 If you no longer wish to have a registered account, you may terminate your account by sending an email to [userhelp@theguardian.com](mailto:userhelp@theguardian.com). If you no longer accept these terms and conditions, or any future modification to these terms and conditions, you must cease using the Guardian Site. Continued use of the Guardian Site indicates your continued acceptance of these terms and conditions.
 
 If, for any reason, we believe that you have not complied with these terms and conditions, we may, at our sole discretion, cancel your access to the registration areas of Guardian Site immediately and without prior notice.  
+  
 We may terminate your registered account, at our sole discretion, by emailing you at the address you have registered stating that the agreement has terminated.
 
 **3\. Use of material appearing on the Guardian Site**
@@ -48,7 +50,7 @@ If you are accessing the Guardian Site from the United States or Australia, the 
 
 You will see advertising material submitted by third parties on the Guardian Site. Each individual advertiser is solely responsible for the content of its advertising material. We accept no responsibility for the content of advertising material, including, without limitation, any error, omission or inaccuracy therein.
 
-If you want to advertise on the Guardian Site, please email the user help team at [userhelp@theguardian.com](mailto:userhelp@theguardian.com), and they will pass your details on to our advertising sales team.
+If you want to advertise on the Guardian site, please contact the sales team via [this online form](https://advertising.theguardian.com/advertising/contact).
 
 **6\. User content**
 
