@@ -190,7 +190,7 @@ Your information is controlled by GitLab B.V. and GitLab Inc. If you have questi
 *   [Events](https://about.gitlab.com/events/)
 *   [Webcasts](https://about.gitlab.com/webcast/)
 *   [Topics](https://about.gitlab.com/topics/)
-*   [Training](https://about.gitlab.com/training/)
+*   [Training](https://about.gitlab.com/learn/)
 *   [Docs](https://docs.gitlab.com/)
 *   [Install](https://about.gitlab.com/install/)
 
