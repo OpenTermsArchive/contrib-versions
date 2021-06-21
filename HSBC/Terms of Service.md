@@ -8,7 +8,7 @@ The information contained on the Site is for information purposes only. HSBC Hol
 *   References to 'Local Sites' are references to other HSBC pages and web sites or pages and web sites issued by other entities within the HSBC Group
 *   References to 'you', 'your' and 'yours' are references to the person(s) accessing the Site or any Local Site
 *   References to 'we', 'us' and 'our' are references to HSBC Holdings plc
-*   References to the 'HSBC Group' are references to HSBC Holdings plc, its subsidiaries and affiliated companies.
+*   References to the 'HSBC Group' are references to HSBC Holdings plc, its subsidiaries and affiliated companies
 
 About hsbc.com
 --------------
@@ -145,30 +145,30 @@ Additional terms of use conditions, such as those in place by the third party pl
 Fostering Responsible Engagement
 --------------------------------
 
-*   So we can improve our services and ensure we are providing the best engagement, we may monitor and record comments and posts made to our channels.
-*   We are not responsible for any information posted on our channels that we, HSBC, have not posted ourselves.
-*   The content provided on our sites is owned or licensed by HSBC, unless otherwise indicated. Do not copy, download, transfer, modify, or otherwise use or commercially exploit the content on our pages without permission.
-*   While we may follow or share information from other sites or users, we do not endorse specific social media sites themselves, or any information posted on them by third parties or other users nor does HSBC guarantee the accuracy of content that is not directly posted by HSBC (such as a share or retweet).
-*   HSBC does not directly offer financial services or products on social media though we may from time to time advertise or promote such items. Our operation of social media channels, pages and accounts does not constitute an offer of any products or services provided by HSBC Group or its members.
-*   We don't give investment, tax or other professional advice via social media. You should always seek independent professional advice before making such decisions.
-*   Our pages should not be used for illegal purposes, to breach any laws, or transmit through our profiles any computer viruses or defamatory materials deemed to be offensive or obscene.
-*   We do not allow and will remove posts that infringe upon the rights of others. Users may not harass, bully, or cause distress to other users on our pages.
-*   Administration of our pages, features, functions and content provided within our official profiles are the right of HSBC and its members and are not for the use of others without our express permission.
+*   So we can improve our services and ensure we are providing the best engagement, we may monitor and record comments and posts made to our channels
+*   We are not responsible for any information posted on our channels that we, HSBC, have not posted ourselves
+*   The content provided on our sites is owned or licensed by HSBC, unless otherwise indicated. Do not copy, download, transfer, modify, or otherwise use or commercially exploit the content on our pages without permission
+*   While we may follow or share information from other sites or users, we do not endorse specific social media sites themselves, or any information posted on them by third parties or other users nor does HSBC guarantee the accuracy of content that is not directly posted by HSBC (such as a share or retweet)
+*   HSBC does not directly offer financial services or products on social media though we may from time to time advertise or promote such items. Our operation of social media channels, pages and accounts does not constitute an offer of any products or services provided by HSBC Group or its members
+*   We don't give investment, tax or other professional advice via social media. You should always seek independent professional advice before making such decisions
+*   Our pages should not be used for illegal purposes, to breach any laws, or transmit through our profiles any computer viruses or defamatory materials deemed to be offensive or obscene
+*   We do not allow and will remove posts that infringe upon the rights of others. Users may not harass, bully, or cause distress to other users on our pages
+*   Administration of our pages, features, functions and content provided within our official profiles are the right of HSBC and its members and are not for the use of others without our express permission
 
 Protecting Your Information
 ---------------------------
 
-*   When you engage with us via social media (e.g. Twitter, Facebook, LinkedIn) it is important for you to know that information shared may be stored on that Site's servers, which are outside our control and may be in the U.S. or elsewhere inside or outside the EU. Any information posted to such Sites may be accessed and read by the general public. It is not an appropriate forum to discuss customers' products or financial arrangements.
-*   We will never ask you to share personal, account, or security information via our social media sites. For your own protection, always be thoughtful about what you publish - particularly on external platforms. You must make sure you do not disclose or use confidential or proprietary information in any online social platform.
-*   Do not post materials on our pages that are false, fraudulent, libelous, defamatory, obscene, threatening, are invasive of privacy or publicity rights, infringe on intellectual property rights, are abusive, harassing, illegal, or otherwise objectionable.
+*   When you engage with us via social media (e.g. Twitter, Facebook, LinkedIn) it is important for you to know that information shared may be stored on that Site's servers, which are outside our control and may be in the U.S. or elsewhere inside or outside the EU. Any information posted to such Sites may be accessed and read by the general public. It is not an appropriate forum to discuss customers' products or financial arrangements
+*   We will never ask you to share personal, account, or security information via our social media sites. For your own protection, always be thoughtful about what you publish - particularly on external platforms. You must make sure you do not disclose or use confidential or proprietary information in any online social platform
+*   Do not post materials on our pages that are false, fraudulent, libelous, defamatory, obscene, threatening, are invasive of privacy or publicity rights, infringe on intellectual property rights, are abusive, harassing, illegal, or otherwise objectionable
 
 Supporting Your Ideas
 ---------------------
 
-*   We regularly update and monitor our social media accounts and welcome feedback and ideas submitted via these channels. We may from time to time join the conversation, however, we cannot guarantee to read or reply to all messages sent to our accounts.
-*   Emerging themes and helpful suggestions are passed to the relevant people within the HSBC Group for consideration, however no guarantee is made that any proposals will be acted upon.
-*   If you do submit an idea, you are agreeing that HSBC can use your ideas (without compensation to you) for any purpose and in any way, and that any information you provide will be considered non-confidential, non-proprietary.
-*   By tagging comments, content, or images to us you are providing us permission to share, like, re-use, or retweet the content freely.
+*   We regularly update and monitor our social media accounts and welcome feedback and ideas submitted via these channels. We may from time to time join the conversation, however, we cannot guarantee to read or reply to all messages sent to our accounts
+*   Emerging themes and helpful suggestions are passed to the relevant people within the HSBC Group for consideration, however no guarantee is made that any proposals will be acted upon
+*   If you do submit an idea, you are agreeing that HSBC can use your ideas (without compensation to you) for any purpose and in any way, and that any information you provide will be considered non-confidential, non-proprietary
+*   By tagging comments, content, or images to us you are providing us permission to share, like, re-use, or retweet the content freely
 
 Data Treasury Corporation (DTC) Licence
 ---------------------------------------
