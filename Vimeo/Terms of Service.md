@@ -1,7 +1,7 @@
 **Vimeo Terms of Service**
 ==========================
 
-Last Updated: May 21, 2021
+Last Updated: June 16, 2021
 
 This **Vimeo Terms of Service Agreement** (the “**Agreement**” or “**Terms of Service**”) is made between Vimeo.com, Inc. (“**Vimeo**,” “**we**,” “**us**,” or “**our**”) and you, our customer (“**you**” or “**your**”). This Agreement governs your use of Vimeo owned-and-operated websites, applications, and embeddable video players (collectively, the “**Services**”). This includes our Vimeo, Vimeo OTT, and Livestream services. Your use of our Magisto, Chant, and Videofy services is governed exclusively by the [Vimeo Creator Tools Terms of Service Agreement](https://www.magisto.com/tos).
 
@@ -81,15 +81,15 @@ For more information on bandwidth and our fair use policy, please see our [Bandw
 4\. Subscription Plans
 ----------------------
 
-**Plan Types:** We offer free (Basic) memberships and paid subscriptions that allow you to upload and share video content. You may purchase a “**Self-Serve**” plan (you sign up and pay online) or an “**Enterprise**” plan (you work with a sales representative and execute an individualized agreement). Advertised prices and features may change.
+**Plan Types:** We offer free (Basic) memberships and paid subscriptions that allow you to upload and share video content. You may purchase a “**Self-Serve**” plan (you sign up and pay online) or an “**Enterprise**” plan (you work with a sales representative and execute an individualized agreement). Advertised prices and features may change.
 
 **Basic (Free) Accounts**: Basic (free) members may not submit videos that they did not create or play a material part in creating.
 
-**Fees:** You must pay all fees (plus any taxes) during your subscription period and any renewal periods. Our fees may include a fixed monthly or annual fee plus variable fees for transactions or usage.
+**Fees:** You must pay all fees (plus any taxes) during your subscription period and any renewal periods. Our fees may include a fixed monthly or annual fee plus variable fees for transactions or usage.
 
-**Free Trials and Discounts:** We may offer free-trial or discounted subscriptions. When a free-trial period ends, your paid subscription begins (unless you have cancelled) and you must pay the full monthly or annual fee. If we provide a discount for the first subscription period, you must pay the discounted fee; in any renewal, you must pay the full fee.
+**Free Trials and Discounts:** We may offer free-trial or discounted subscriptions. When a free-trial period ends, your paid subscription begins (unless you have cancelled) and you must pay the full monthly or annual fee. If we provide a discount for the first subscription period, you must pay the discounted fee; in any renewal, you must pay the full fee.
 
-**Refund Policy:** Subject to the terms hereof, Self-Serve subscribers who purchase plans directly from Vimeo may cancel and receive a full refund of their initial purchase within **thirty (30) days** after purchasing an annual plan and **five (5) days** after purchasing a monthly plan. Our refund policy does not apply to:
+**Refund Policy:** Subject to the terms hereof, Self-Serve subscribers who purchase plans directly from Vimeo may cancel and receive a full refund of their initial purchase within **thirty (30) days** after purchasing an annual plan and **five (5) days** after purchasing a monthly plan. Our refund policy does not apply to:
 
 *   In-app purchases;
 *   Fees charged immediately after a free-trial period ends;
@@ -97,20 +97,20 @@ For more information on bandwidth and our fair use policy, please see our [Bandw
 *   Subscription renewals or migrations to other plans;
 *   Fees other than annual or monthly subscription fees;
 *   Requests made after the specified periods;
-*   Customers who have breached this Agreement or whose accounts were terminated in accordance with our [Copyright Policy](https://vimeo.com/dmca);
+*   Customers who have breached this Agreement or whose accounts were terminated in accordance with our [Copyright Policy](https://vimeo.com/dmca);
 *   Customers who joined using a promotion that expressly disclaimed our refund policy;
 *   Customers who have initiated a chargeback dispute; or
 *   Enterprise plan customers.
 
-**Automatic Renewal:** **To the extent permitted by applicable law, subscriptions automatically renew at the end of each subscription period unless cancelled beforehand. Monthly plans renew for 30-day periods. Annual plans renew for one-year periods.** You must pay the annual or monthly fee (plus any taxes) when each renewal period starts. Unused storage, bandwidth, and other usage limits do not roll over.
+**Automatic Renewal:** **To the extent permitted by applicable law, subscriptions automatically renew at the end of each subscription period unless cancelled beforehand. Monthly plans renew for 30-day periods. Annual plans renew for one-year periods.** You must pay the annual or monthly fee (plus any taxes) when each renewal period starts. Unused storage, bandwidth, and other usage limits do not roll over.
 
-**How to Decline Renewal:** **Self-Serve subscribers may opt out of automatic renewal by changing their account settings. Enterprise plan customers may opt out according to the** [**Enterprise Terms**](https://vimeo.com/enterpriseterms)**.** Any opt-out or notice of non-renewal will not affect the current subscription period. Vimeo may decline renewals.
+**How to Decline Renewal:** **Self-Serve subscribers may opt out of automatic renewal by changing their account settings. Enterprise plan customers may opt out according to the** [**Enterprise Terms**](https://vimeo.com/enterpriseterms)**.** Any opt-out or notice of non-renewal will not affect the current subscription period. Vimeo may decline renewals.
 
-**Lapse Policy:** When a subscription ends, the account will, at Vimeo’s option, revert to Basic (free) account status or will be deleted. Any content in the account may be deleted to comply with the limitations of the new account status. You are responsible for archiving your content. Vimeo shall not be responsible for the loss of any content. We may publish additional guidelines regarding the treatment of lapsed subscriptions. These guidelines describe current practices only and shall not require Vimeo to provide any level of post-subscription account status.
+**Lapse Policy:** When a subscription ends, the account will, at Vimeo’s option, revert to Basic (free) account status or will be deleted. Any content in the account may be deleted to comply with the limitations of the new account status. You are responsible for archiving your content. Vimeo shall not be responsible for the loss of any content. We may publish additional guidelines regarding the treatment of lapsed subscriptions. These guidelines describe current practices only and shall not require Vimeo to provide any level of post-subscription account status.
 
-**In-App Purchase:** We may allow you to purchase subscriptions within Apps. When you make such “in-app” purchases, you will be billed by the app platform, not us. **To turn off automatic renewal for subscriptions, access your platform’s account settings (not Vimeo’s).** Our refund policy does not apply to in-app purchases. Any billing inquiries should be directed to the app platform.
+**In-App Purchase:** We may allow you to purchase subscriptions within Apps. When you make such “in-app” purchases, you will be billed by the app platform, not us. **To turn off automatic renewal for subscriptions, access your platform’s account settings (not Vimeo’s).** Our refund policy does not apply to in-app purchases. Any billing inquiries should be directed to the app platform.
 
-**Resale:** You may not sell, resell, rent, lease, or distribute any plan or any other aspect of our Services to any third party unless authorized by us in writing.
+**Resale:** You may not sell, resell, rent, lease, or distribute any plan or any other aspect of our Services to any third party unless authorized by us in writing. We may suspend or terminate accounts sold via authorized resellers for non-payment to the reseller or any violation of the restrictions set forth in this Agreement.
 
 5\. Acceptable Use Policy
 -------------------------
@@ -191,12 +191,14 @@ By submitting a video, you grant Vimeo permission to:
 *   Embed the video on third-party websites;
 *   Distribute the video via our APIs;
 *   Make the video available for download;
-*   Transcode the video (create compressed versions of your video file that are optimized for streaming); and
-*   Generate stills (i.e., “thumbnails”) from your video to represent it (if you have not selected one).
+*   Transcode the video (create compressed versions of your video file that are optimized for streaming);
+*   Generate stills (i.e., “thumbnails”) from your video to represent it (if you have not selected one);
+*   Automatically generate and display closed captions or subtitles from your video; and
+*   Alter or enhance your video as directed by you.
 
-If you have enabled a video privacy setting or disabled downloading or embedding, we will limit distribution of your video pursuant to your selection. By enabling access to your video to any third party, you grant each such person permission to stream (and/or download or embed, as applicable) your video. For the purposes of this **Section 6.1**, your video includes its title, description, tags, and other metadata.
+If you have enabled a video privacy setting or disabled downloading or embedding, we will limit distribution of your video pursuant to your selection. By enabling access to your video to any third party, you grant each such person permission to stream (and/or download or embed, as applicable) your video. For the purposes of this **Section 6.1**, your video includes its title, description, tags, and other metadata.
 
-The license period begins when you submit the video to Vimeo and ends when you or Vimeo delete it; _provided_ that Vimeo may retain archival copies: (a) for a limited period of time in case you wish to restore it; (b) when the video is the subject of a takedown notice or other legal claim; or (c) when Vimeo in good faith believes that it is legally obligated to do so.
+The license period begins when you submit the video to Vimeo and ends when you or Vimeo delete it; _provided_ that Vimeo may retain archival copies: (a) for a limited period of time in case you wish to restore it; (b) when the video is the subject of a takedown notice or other legal claim; or (c) when Vimeo in good faith believes that it is legally obligated to do so.
 
 ### **6.2 Vimeo Create Content**
 
@@ -234,11 +236,11 @@ You will indemnify, defend, and hold harmless Vimeo and its subsidiaries, parent
 **8\. Term and Termination**
 ----------------------------
 
-This Agreement begins when you first use our Services and continues so long as you use our Service or have an account with us, whichever is longer. Paid accounts will continue for the subscription period and will renew in accordance with **Section 4** above. With respect to users who do not have a subscription plan (i.e., free users), (a) Vimeo may terminate this Agreement at any time by providing thirty (30) days’ written notice, and (b) applicable users may terminate at any time by deleting their accounts.
+This Agreement begins when you first use our Services and continues so long as you use our Service or have an account with us, whichever is longer. Paid accounts will continue for the subscription period and will renew in accordance with **Section 4** above. With respect to users who do not have a subscription plan (i.e., free users), (a) Vimeo may terminate this Agreement at any time by providing thirty (30) days’ written notice, and (b) applicable users may terminate at any time by deleting their accounts.
 
-If you breach this Agreement, Vimeo may, at its option: (a) terminate this Agreement immediately, with or without advance written notice; (b) suspend, delete, or limit access to your account or any content within it; and (c) to the extent permitted by applicable law, retain any amounts payable to you (which you forfeit). If Vimeo deletes your account for breach, you may not re-register.
+If you breach this Agreement, Vimeo may, at its option: (a) terminate this Agreement immediately, with or without advance written notice; (b) suspend, delete, or limit access to your account (and other accounts you control) or any content within it; and (c) to the extent permitted by applicable law, retain any amounts payable to you (which you forfeit). If Vimeo deletes your account for breach, you may not re-register.
 
-In the event of any termination or expiration, the following sections will survive: **Section 6.4** (Other Content; Feedback), **Section 7.2** (Indemnification), **Section 9** (Disclaimers), **Section 10** (Limitation of Liability), **Section 11** (Disputes, Arbitration, and Choice of Law), and **Section 12** (General Provisions).
+In the event of any termination or expiration, the following sections will survive: **Section 6.4** (Other Content; Feedback), **Section 7.2** (Indemnification), **Section 9** (Disclaimers), **Section 10** (Limitation of Liability), **Section 11** (Disputes, Arbitration, and Choice of Law), and **Section 12** (General Provisions).
 
 **9\. Disclaimers**
 -------------------
