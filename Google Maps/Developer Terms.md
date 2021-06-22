@@ -651,7 +651,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         
         1.  U.S. Fish and Wildlife Service - [https://www.fws.gov/](https://www.fws.gov/)
             
-        2.  U.S. Census Bureau - [https://www.census.gov/](https://www.census.gov/)
+        2.  U.S. Census Bureau - [https://www.census.gov/](https://www.census.gov/) This product uses the Census Bureau Data API but is not endorsed or certified by the [Census Bureau](https://www.census.gov/data/developers/about/terms-of-service.html).
             
         3.  USDA Forest Service - [https://www.fs.usda.gov/](https://www.fs.usda.gov/)
             
