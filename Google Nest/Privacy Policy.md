@@ -71,7 +71,6 @@ For all our connected-home devices with cameras, we commit to you:
 • Nest Hub Max offers on-device camera sensing features that help you personalise and control your experience based on what the camera sees, such as Face Match (which helps your device recognise you) and quick gestures (which helps you control your device). Once enabled, these on-device camera sensing features don’t send video or images from your Nest Hub Max to Google.
 
 Additional details
-==================
 
 How can I review and delete my stored video footage?
 
@@ -116,7 +115,6 @@ For all our connected-home devices with microphones, we commit to you:
 • We will only share audio recordings from your devices with third-party apps and services that work with our devices if you or a member of your home explicitly gives us permission, and we’ll only ask for this permission in order to provide a helpful experience from an approved partner (such as a home security service provider).
 
 Additional details
-==================
 
 How can I review and delete my stored audio recordings?
 
@@ -149,7 +147,6 @@ For all our connected-home devices with these environmental and activity sensors
 • We will only share your device sensor data with third-party apps and services that work with our devices if you or a member of your home explicitly gives us permission, and we’ll only ask for this permission in order to provide a helpful experience from an approved partner (such as an energy utility company).
 
 Additional details
-==================
 
 Why does Google collect environmental and activity-sensor data from my home and how is it used?
 
@@ -196,7 +193,6 @@ For Google Wifi, we commit to you:
 • We will only share Wi-Fi network performance data from your Google Wifi with third-party apps and services that work with our connected-home devices if you or a manager of your Wi-Fi network gives us permission, and we’ll only ask for this permission in order to provide a helpful experience from an approved partner (such as an Internet Service Provider).
 
 Additional details
-==================
 
 Why is data from my Google Wifi router sent to Google, and how is it used?
 
