@@ -1,5 +1,5 @@
-Cookies & other storage technologies
-------------------------------------
+Cookies and other storage technologies
+--------------------------------------
 
 Cookies are small pieces of text used to store information on web browsers. Cookies are used to store and receive identifiers and other information on computers, phones and other devices. Other technologies, including data that we store on your web browser or device, identifiers associated with your device and other software, are used for similar purposes. In this policy, we refer to all of these technologies as "cookies".  
   
@@ -15,13 +15,13 @@ Authentication
 
 We use cookies to verify your account and determine when you're logged in so that we can make it easier for you to access the Facebook Products and show you the appropriate experience and features.
 
-> _For example:_ We use cookies to keep you logged in as you navigate between Facebook Pages. Cookies also help us remember your browser so you don't have to keep logging in to Facebook and so you can more easily log in to Facebook via third-party apps and websites. For example, we use the "c\_user" and "xs" cookies for this purpose, with a lifespan of 365 days.
+> _For example:_ We use cookies to keep you logged in as you navigate between Facebook Pages. Cookies also help us remember your browser so you don't have to keep logging in to Facebook and so you can more easily log in to Facebook via third-party apps and websites. For example, we use the "c\_user" and "xs" cookies, including for this purpose, which have a lifespan of 365 days.
 
 Security, site and product integrity
 
 We use cookies to help us keep your account, data and the Facebook Products safe and secure.
 
-> _For example:_ Cookies can help us identify and impose additional security measures when someone may be attempting to access a Facebook account without authorisation, for instance, by rapidly guessing different passwords. We also use cookies to store information that allows us to recover your account in the event that you forget your password or to require additional authentication if you tell us that your account has been hacked. This includes, for example, our "sb" and "dbln" cookies, which enable us to identify your browser securely.
+> _For example:_ Cookies can help us identify and impose additional security measures when someone may be attempting to access a Facebook account without authorisation, for instance, by rapidly guessing different passwords. We also use cookies to store information that allows us to recover your account in the event that you forget your password, or to require additional authentication if you tell us that your account has been hacked. This includes, for example, our "sb" and "dbln" cookies, which enable us to identify your browser securely.
 
 We also use cookies to combat activity that violates our policies or otherwise degrades our ability to provide the Facebook Products.
 
@@ -35,7 +35,7 @@ We use cookies to help us show ads and to make recommendations for businesses an
 
 We also use cookies to help measure the performance of ad campaigns for businesses that use the Facebook Products.
 
-> _For example:_ We use cookies to count the number of times that an ad is shown and to calculate the cost of those ads. We also use cookies to measure how often people do things, such as make a purchase following an ad impression. The "\_fbp" cookie identifies browsers for the purposes of providing advertising and site analytics services and has a lifespan of 90 days. .
+> _For example:_ We use cookies to count the number of times that an ad is shown and to calculate the cost of those ads. We also use cookies to measure how often people do things, such as make a purchase following an ad impression. For example, the "\_fbp" cookie identifies browsers for the purposes of providing advertising and site analytics services and has a lifespan of 90 days.
 
 Cookies help us serve and measure ads across different browsers and devices used by the same person.
 
@@ -61,17 +61,13 @@ Performance
 
 We use cookies to provide you with the best experience possible.
 
-> _For example:_ Cookies help us route traffic between servers and understand how quickly Facebook Products load for different people. Cookies also help us record the ratio and dimensions of your screen and windows and know whether you've enabled high-contrast mode, so that we can render our sites and apps correctly. For example, we set the "dpr" and "wd" cookies, each with a lifespan of 7 days, to deliver an optimal experience for your device's screen.
+> _For example:_ Cookies help us route traffic between servers and understand how quickly Facebook Products load for different people. Cookies also help us record the ratio and dimensions of your screen and windows and know whether you've enabled high-contrast mode, so that we can render our sites and apps correctly. For example, we set the "dpr" and "wd" cookies, each with a lifespan of seven days, for purposes including to deliver an optimal experience for your device's screen.
 
 Analytics and research
 
 We use cookies to better understand how people use the Facebook Products so that we can improve them.
 
 > _For example:_ Cookies can help us understand how people use the Facebook service, analyse which parts of the Facebook Products people find most useful and engaging, and identify features that could be improved.
-
-Google Analytics
-
-We also set cookies from the Facebook.com domain that work with the Google Analytics service to help us understand how businesses use Facebook's developer sites. These cookies have names such as \_\_utma, \_\_utmb, \_\_utmc, \_\_utmz, \_\_qca and \_ga.
 
 Third-party websites and apps
 
@@ -89,15 +85,15 @@ We may place cookies on your computer or device and receive information stored i
 *   Websites and apps provided by other companies that use the Facebook Products, including companies that incorporate the Facebook Technologies into their websites and apps. Facebook uses cookies and receives information when you visit those sites and apps, including device information and information about your activity, without any further action from you. This occurs whether or not you have a Facebook account or are logged in.
     
 
-### Do other parties use cookies in connection with the Facebook Products?
+### Do other companies use cookies in connection with the Facebook Products?
 
-Yes, other parties may use cookies on the Facebook Products to provide services to us and the businesses that advertise on Facebook.  
+Yes, other companies use cookies on the Facebook Products to provide advertising, measurement, marketing and analytics services to us, and to provide certain features and improve our services for you.  
   
-For example, our measurement partners use cookies on the Facebook Products to help advertisers understand the effectiveness of their Facebook advertising campaigns and to compare the performance of those campaigns against ads displayed on other websites and apps. Learn more about the companies that use cookies on the Facebook Products.  
+For example, other companies' cookies help tailor ads off Facebook, measure their performance and effectiveness and support marketing and analytics. Certain features on the Facebook Products use cookies from other companies to function, for example, certain maps, payment and security features. Learn more about the companies that use cookies on the Facebook Products.  
   
-Third parties also use cookies on their own sites and apps in connection with the Facebook Products. To understand how other parties use cookies, please review their policies.
+Third-party companies also use cookies on their own sites and apps in connection with the Facebook Products. To understand how other companies use cookies, please review their policies.
 
-### How can you control Facebook's use of cookies?
+### How can you control your information?
 
 We use cookies to help personalise and improve content and services, provide a safer experience and to show you useful and relevant ads on and off Facebook. You can control how we use data to show you ads and more by using the tools described below.
 
@@ -109,7 +105,7 @@ If you have a Facebook account:
     
 *   The Facebook Audience Network is a way for advertisers to show you ads in apps and websites off the Facebook Company Products. One of the ways that Audience Network shows relevant ads is by using your ad preferences to determine which ads you may be interested in seeing. You can control this in your [ad settings.](https://www.facebook.com/ads/settings)
     
-*   You can review your Off-Facebook activity, which is a summary of activity that businesses and organisations share with us about your interactions with them, such as visiting their apps or websites. They use our [business tools](https://www.facebook.com/help/2230503797265156?helpref=faq_content), such as Facebook pixel, to share this information with us. This helps us do things like give you a more personalised experience on Facebook. Learn more [about off-Facebook activity](https://www.facebook.com/help/2207256696182627?helpref=faq_content), how we use it and how you can manage it.
+*   You can review your Off-Facebook activity, which is a summary of activity that businesses and organisations share with us about your interactions with them, such as visiting their apps or websites. They use our [business tools](https://www.facebook.com/help/2230503797265156?helpref=faq_content), such as Facebook pixel, to share this information with us. This helps us do things such as give you a more personalised experience on Facebook. Learn more [about off-Facebook activity](https://www.facebook.com/help/2207256696182627?helpref=faq_content), how we use it and how you can manage it.
     
 
 Everyone:
@@ -129,7 +125,7 @@ The advertising companies we work with generally use cookies and similar technol
 
 Browser cookie controls:
 
-In addition, your browser or device may offer settings that allow you to choose whether browser cookies are set and to delete them. These controls vary by browser, and manufacturers may change both the settings they make available and how they work at any time. As of 5 October 2020, you may find additional information about the controls offered by popular browsers at the links below. Certain parts of the Facebook Products may not work properly if you have disabled browser cookie use. Please be aware that these controls are distinct from the controls that Facebook offers you.  
+In addition, your browser or device may offer settings that allow you to choose whether browser cookies are set and to delete them. These controls vary by browser, and manufacturers may change both the settings that they make available and how they work at any time. As of 23 June 2021, you may find additional information about the controls offered by popular browsers at the links below. Certain parts of the Facebook Products may not work properly if you have disabled browser cookie use. Please be aware that these controls are distinct from the controls that Facebook offers you.  
 
 *   [Google Chrome](https://support.google.com/chrome/answer/95647)
     
@@ -146,4 +142,4 @@ In addition, your browser or device may offer settings that allow you to choose 
 
   
   
-Date of last revision: 5 October 2020
+Date of last revision: 23 June 2021
