@@ -8,12 +8,16 @@ The Office of the University Secretary is the data controller for ulster.ac.uk (
 What data we collect
 --------------------
 
-The personal data we collect from you includes:
+The personal data we collect from you may include the following:
 
 *   questions, queries or feedback you leave, including your email address if you contact Ulster University or sign up to our email alerts
+*   your name
+*   telephone numbers
 *   how you use our emails - for example whether you open them and which links you click on
 *   your Internet Protocol (IP) address, and details of which version of web browser you used
 *   information on how you use the site, using cookies and page tagging techniques
+
+### Third party cookies
 
 We use third party cookies, including Google Analytics, to collect information about how you use Ulster.ac.uk. This includes IP addresses. The data is anonymised before being used for analytics processing.
 
@@ -35,7 +39,9 @@ We continuously test and monitor our data protection controls to make sure they�
 Why we need your data
 ---------------------
 
-We collect information to see how you use the site and our digital services. We do this to help:
+We collect information to see how you use the site and our digital services.
+
+We do this to help:
 
 *   make sure the site is meeting the needs of its users
 *   make improvements, for example, improving site search
@@ -68,13 +74,15 @@ The legal basis for processing all other personal data is that it’s necessary:
 What we do with your data
 -------------------------
 
-The data we collect may be shared with other agencies and public bodies. It may also be shared with our technology suppliers, for example our hosting provider.
+The data we collect may be shared with other agencies and public bodies. It may also be shared with our technology suppliers, for example our student software providers and customer record management systems.
 
 We will not:
 
 *   sell or rent your data to third parties
 *   share your data with third parties for marketing purposes
 *   use your data in analytics
+
+We only allow 3rd parties to handle your data if we are satisfied they have taken appropriate measures to protect your data.  We also impose contractual obligations to ensure they protect your personal data.
 
 We will share your data if we are required to do so by law - for example, by court order, or to prevent fraud or other crime.
 
