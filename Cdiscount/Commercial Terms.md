@@ -1,5 +1,5 @@
-_PREAMBULE GENERAL_
--------------------
+_Article 3 : COMMANDES_
+-----------------------
 
   
   
@@ -21,8 +21,8 @@ Toute commande passée par un client professionnel est régie par les "Condition
   
   
 
-_PREAMBULE Modalités de contact_
---------------------------------
+_Article 3 : COMMANDES_
+-----------------------
 
   
   
@@ -32,7 +32,7 @@ _PREAMBULE Modalités de contact_
 
 **Pour toute information ou conseil**, vous pouvez contacter CDISCOUNT sur notre Ligne Conseil  
   
-Depuis la France au 39 79 (0,70cts/min + prix de l'appel) du lundi au vendredi de 9h à 21h et le week-end et les jours fériés de 9h à 18h.  
+Depuis la France au 39 79 (0,70cts/min + prix de l'appel) du lundi au vendredi de 9h à 19h et le week-end et les jours fériés de 9h à 18h.  
   
 Depuis la Belgique au 0800 58 211 (numéro gratuit) du lundi au vendredi de 9h à 19h et le samedi de 9h à 18h.  
   
@@ -62,7 +62,7 @@ Depuis le Portugal au 0800 60 00 45 (numéro gratuit) du lundi au vendredi de 9
 
  - ou téléphoner :
 
- - depuis la France au 39 79 (0,70cts/min + prix de l'appel), du lundi au vendredi de 8h30 à 23h et le week-end et les jours fériés de 9h à 23h ;   
+ - depuis la France au 39 79 (0,70cts/min + prix de l'appel), du lundi au vendredi de 9h à 19h et le week-end et les jours fériés de 9h à 18h ;   
   
                 - depuis la Belgique au 0800 58 211 (numéro gratuit) du lundi au vendredi de 9h à 19h et le samedi de 9h à 18h ;   
                 - depuis l’Italie au 800 694 130 (numéro gratuit) du lundi au vendredi de 9h à 19h et le samedi de 9h à 18h ;   
@@ -76,7 +76,7 @@ Depuis le Portugal au 0800 60 00 45 (numéro gratuit) du lundi au vendredi de 9
   
                - depuis l'Irlande au 1 800 83 22 86 (numéro gratuit) du lundi au vendredi de 9h à 19h et le samedi de 9h à 18h ;  
   
-               - depuis les Pays-Bas au 0800 251 21 24 (numéro gratuit) du lundi au vendredi de 9h à 19h et le samedi de 9h à 18h ;  
+ - depuis les Pays-Bas au 0800 251 21 24 (numéro gratuit) du lundi au vendredi de 9h à 19h et le samedi de 9h à 18h ;  
   
                - depuis le Portugal au 0800 60 00 45 (numéro gratuit) du lundi au vendredi de 9h à 19h et le samedi de 9h à 18h.
 
@@ -167,7 +167,7 @@ Si malgré tous nos efforts, un produit ou un service devenait indisponible post
 \- En ligne via les applications CDISCOUNT pour smartphones ou pour tablettes ;  
 \- Par téléphone en appelant :  
   
-        - depuis la France au 3979 (0.70 cts €/min + prix de l'appel) du lundi au vendredi de 8h30 à 23h et les week-ends et jours fériés de 9h à 23h ;  
+        - depuis la France au 3979 (0.70 cts €/min + prix de l'appel) du lundi au vendredi de 9h à 19h et les week-ends et jours fériés de 9h à 18h ;  
   
         - depuis la Belgique au 0800 58 211 (numéro gratuit) du lundi au vendredi de 9h à 19h et le samedi de 9h à 18h ;   
   
@@ -537,8 +537,8 @@ Dans le cas où, après acceptation du colis, vous constateriez que le produit c
 
 et ce, au plus tard dans les trois (3) jours calendaires après réception de votre commande.
 
-_Article 8 : RETRACTATION_
---------------------------
+_Article 3 : COMMANDES_
+-----------------------
 
 **8.1 Principe**
 
@@ -602,7 +602,11 @@ Cette notification doit être effectuée par écrit, par tout moyen et notamment
   
 a) **Via votre Espace Client :** pour faciliter l’exercice de votre droit de rétractation, CDISCOUNT a mis en place une procédure simple : rendez-vous sur votre compte client et cliquez sur « Mes commandes » puis sur le bouton « Contacter le Service Client ».
 
-Sélectionnez votre commande et cliquez dans l’espace « je viens de recevoir mon/mes colis » sur « je souhaite me rétracter sur ce produit » puis laissez-vous guider. b) **ou en nous retournant, à l’adresse postale indiquée, le formulaire suivant complété et signé :  
+Sélectionnez votre commande et cliquez dans l’espace « je viens de recevoir mon/mes colis » sur « je souhaite me rétracter sur ce produit » puis laissez-vous guider.   
+  
+Pour garantir un traitement optimal et plus rapide des demandes, l'exercice du droit de rétractation est dissocié et individualisé ; ainsi, chaque produit d'une même commande doit faire l'objet d'une demande de retour distincte et devra être entreposé dans un colis de retour distinct.  
+  
+b) **ou en nous retournant, à l’adresse postale indiquée, le formulaire suivant complété et signé :  
   
 **
 
@@ -631,6 +635,9 @@ Sélectionnez votre commande et cliquez dans l’espace « je viens de recevoir
 En toute hypothèse, nous vous adresserons un accord de retour contenant un numéro de retour et précisant les modalités de retour de votre colis. Nous vous recommandons d’imprimer et de coller ce numéro de retour sur le colis afin de permettre un traitement plus rapide de votre demande.
 
 Vous vous engagez à retourner à CDISCOUNT les produits faisant l’objet d’une rétractation dans les 14 jours calendaires suivants l’envoi de la notification de votre décision de vous rétracter.  
+  
+Si une même commande contient plusieurs produits, livrés par colis distincts, alors le retour des produits concernés par une demande de rétractation se fait de manière dissociée selon les modalités prévues au paragraphe 8.2.  
+Pour un meilleur traitement des demandes de rétractation, chaque produit d'une même commande qui fait l'objet d'une demande de rétractation, doit faire l'objet d'un retour dans un colis distinct.  
   
 Conformément aux dispositions de l’article L. 221-23 du Code de la consommation, vous êtes responsable de la manipulation des biens et de la dépréciation de leur valeur au cours du délai de rétractation. A ce titre, Cdiscount se réserve la faculté d’engager votre responsabilité en cas de dépréciation des produits retournés dans le cadre de l’exercice du droit de rétractation, résultant de manipulations autres que celles nécessaires pour établir la nature, les caractéristiques et le bon fonctionnement de ces produits.
 
