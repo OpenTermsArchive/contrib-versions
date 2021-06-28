@@ -160,6 +160,10 @@ Our app may contain links to other third-party websites or you may access Apps 
 
 Back-Up: When you back-up your Viber conversations, they are kept on your device’s service according to operating system’s (Google/ iOS / desktop operating system) terms and policies and are no longer protected by Viber’s end to end encryption.
 
+**TrueDepth APIs:**
+
+Starting the end of June 2021 we added a new face lense feature that uses camera capabilities in order to add graphic elements on the user’s face. Some lenses can make use of TrueDepth API. TrueDepth API is only active when those lenses are running. It is a very specific feature and **none of the Viber lenses will be using it at the moment**. Types of lenses that might use it are virtual try-on which we don’t have. **Viber does not collect any data from these sensors or ever store it anywhere. The data never leaves the user’s device (so cannot be and is not shared by Viber with third parties) and is only used for lens operation.**
+
 **Security**
 
 We know that security is important to our users and we care about the security of your information. We maintain technical, physical, and administrative security measures to protect the security of your personal information against loss, misuse, unauthorized access, disclosure, or alteration. Some of the safeguards we use include firewalls, data encryption, physical access controls to our data centers and information access authorization controls. We need your help too: it is your responsibility to make sure that your personal information is accurate and that your password(s) and account registration information are secure and not shared with third-parties. Starting with Viber 6.0, all of Viber’s core features are secured with end-to-end encryption: Viber calls, one-on-one messages, group messages, private media sharing and secondary devices. This means that the encryption keys are stored only on the clients’ devices and no one, not even Viber itself, has access to them. To learn more about Viber Encryption, follow this link: [**http://www.viber.com/en/security**](http://www.viber.com/en/security).
