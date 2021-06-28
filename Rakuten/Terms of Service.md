@@ -3,6 +3,8 @@ Conditions Générales d’Utilisation
 
 _**Version mise à jour le 20 mai 2021**_
 
+_Pour consulter la version précédemment en vigueur des Conditions Générales d'Utilisation, cliquez [ici](https://fr.shopping.rakuten.com/visuels/0_merch/contest/reglement/Conditions_Generales_dUtilisation_CGU-version_en_vigueur_avant_le_20_mai_2021.pdf)._
+
 **PRÉAMBULE**
 
 Le service d'annonces en ligne Rakuten (ci-après la « Plateforme Rakuten ») est opéré par la société Rakuten France (ci-après « Rakuten »), société par actions simplifiée au capital de 355 964,80 euros, dont le siège social est sis 92 rue Réaumur, 75002 PARIS, France, immatriculée au Registre du commerce et des sociétés de Paris sous le numéro B 432 647 584, Tél. : 09.70.75.64.60 (appel non surtaxé) - Fax : 01.42.78.80.61 - [courrier électronique](https://fr.shopping.rakuten.com/help/cnh-oth-contact-us), numéro de TVA Intracommunautaire FR23432647584, enregistrée à l'ORIAS sous le numéro 13005139. Rakuten est un agent mandaté par la société Rakuten Europe Bank, société anonyme de droit luxembourgeois dont le siège est sis 2 rue du Fossé, 1536 LUXEMBOURG, immatriculée au Registre du commerce de Luxembourg sous le numéro B181868 et par la société MangoPay, société anonyme de droit luxembourgeois dont le siège social est situé 2 avenue Amélie, 2449 LUXEMBOURG, immatriculée au Registre du commerce et des sociétés de Luxembourg sous le numéro B173459, pour fournir des services de paiement.
@@ -29,7 +31,7 @@ L'acceptation des présentes Conditions Générales d'Utilisation de la Platefor
 
 **Plateforme Rakuten :** désigne la structure fonctionnelle et organisationnelle mise en place par Rakuten permettant la Mise en Relation de Vendeurs et d'Acheteurs de Produits. Les offres s'opèrent selon les moyens informatiques de télécommunications décrits dans l'Aide en ligne.
 
-**Porte-Monnaie** : Porte-monnaie électronique destiné à permettre au Membre de recevoir de la monnaie électronique dans le cadre de l’utilisation de la Plateforme Rakuten. Le Porte-Monnaie fonctionne conformément aux présentes Conditions générales d'utilisation de la Plateforme Rakuten, aux [Conditions d'utilisation du Porte-Monnaie Rakuten](https://fr.shopping.rakuten.com/newhelp/conditions-dutilisation-du-porte-monnaie-priceminister/), ainsi qu’aux [Conditions d'utilisation de la Monnaie Électronique du Porte-Monnaie](https://fr.shopping.rakuten.com/newhelp/conditions-dutilisation-de-la-monnaie-electronique-du-porte-monnaie/) conclues entre le Membre et Rakuten Europe Bank S.A.
+**Porte-Monnaie** : Porte-monnaie électronique destiné à permettre au Membre de recevoir de la monnaie électronique dans le cadre de l’utilisation de la Plateforme Rakuten. Le Porte-Monnaie fonctionne conformément aux présentes Conditions générales d'utilisation de la Plateforme Rakuten, aux [Conditions d'utilisation du Porte-Monnaie Rakuten](https://fr.shopping.rakuten.com/newhelp/conditions-dutilisation-du-porte-monnaie-rakuten/), ainsi qu’aux [Conditions d'utilisation de la Monnaie Électronique du Porte-Monnaie](https://fr.shopping.rakuten.com/newhelp/conditions-dutilisation-de-la-monnaie-electronique-du-porte-monnaie/) conclues entre le Membre et Rakuten Europe Bank S.A.
 
 **Prix :** désigne le prix proposé par le Vendeur pour son offre de vente d'un Produit. Le Prix constitue l'assiette de la Commission de Rakuten. En ce qui concerne les livres, le prix neuf s'entend au sens et dans les limites de la loi du 10 août 1981 relative au prix du livre (dite « loi Lang »).
 
