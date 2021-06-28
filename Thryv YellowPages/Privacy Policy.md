@@ -5,7 +5,7 @@ Thryv, Inc. and its affiliates (individually and collectively known as “**Thry
 
 This Privacy Notice version is effective as of **January 1, 2020**.
 
-**If you are located in Australia, the Sensis Pty Ltd applies to you. Please see [www.sensis.com.au/about/privacy](https://www.sensis.com.au/about/privacy).**
+**If you are located in Australia, the Sensis Pty Ltd privacy policy applies to you. Please see [www.sensis.com.au/about/privacy](https://www.sensis.com.au/about/privacy).**
 
 **Summary of Privacy Policy**
 
