@@ -4,7 +4,7 @@ Privacy and Cookie Statement
 Privacy Statement
 -----------------
 
-30 Sept 2020
+25 Jun 2021
 
 First things first – your privacy is important to us. That might be the kind of thing all these notices say, but we mean it. You place your trust in us by using Booking.com services and we value that trust. That means we’re committed to protecting and safeguarding any personal data you give us. We act in our customers’ best interest and we are transparent about the processing of your personal data.
 
@@ -554,15 +554,15 @@ If you are an authorized agent wishing to exercise rights on behalf of a Califor
 
 Booking.com’s services are not directed at children under the age of 16 years. Therefore, Booking.com does not knowingly sell the personal information of minors under the age of 16 years without appropriate consent, as required under the California Consumer Privacy Act (CCPA).
 
-Booking.com has compiled the following statistics about the receipt and handling of requests identified as being submitted under the CCPA by consumers from California, for the period between 1 January 2020 and 22 June 2020:
+Booking.com has compiled the following statistics about the receipt and handling of requests identified as being submitted under the CCPA by consumers from California, for the period between 1 January 2020 and 31 December 2020:
 
-*   Number of ‘requests to know’ that Booking.com received, complied with (wholly or in part) or denied: 3
+*   Number of ‘requests to know’ that Booking.com received, complied with (wholly or in part) or denied: 27
     
-*   Number of ‘requests to delete’ that Booking.com received, complied with (wholly or in part) or denied: 13
+*   Number of ‘requests to delete’ that Booking.com received, complied with (wholly or in part) or denied: 136
     
-*   Number of ‘requests to opt out of sales’ that Booking.com complied with (wholly or in part) or denied: 6,960
+*   Number of ‘requests to opt out of sales’ that Booking.com complied with (wholly or in part) or denied: 13,866
     
-*   Average number of days taken by Booking.com to substantially respond to requests to know, delete or opt out: 7.6
+*   Average number of days taken by Booking.com to substantially respond to requests to know, delete or opt out: 8.514
     
 
 ### South Korea
