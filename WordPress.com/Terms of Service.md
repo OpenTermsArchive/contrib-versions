@@ -1,7 +1,7 @@
 Terms of Service
 ----------------
 
-_Last Updated: May 5, 2021_
+_Last Updated: June 25, 2021_
 
 The Gist
 --------
@@ -254,7 +254,7 @@ If you use Ecommerce Services, the terms in this subsection apply, along with th
 
 We may terminate your access to our Services or force refunds (where possible) to your subscribers and customers without notice to you if we determine (in our sole discretion) that your use violates the Agreement, or if a payment processor or regulatory authority requires it.
 
-**Fees and Negative Balances.** In some cases, you pay us fees relating to the Ecommerce Services you use. For example, the fee for the Payments feature is a [percentage](https://en.support.wordpress.com/recurring-payments-button/#related-fees) (which depends on your plan) of the revenue your website generates through the Payment feature, and when you use the feature, you authorize Stripe to direct payment of that percentage to us. As another example, if you use WooCommerce Payments, there are [transaction fees and dispute fees](https://docs.woocommerce.com/document/payments/faq/fees/). Please note that we have no obligation to reimburse or refund these revenue-based fees when you issue refunds to your subscribers or customers.
+**Fees and Negative Balances.** In some cases, you pay us fees relating to the Ecommerce Services you use. For example, the fee for the Payments feature is a [percentage](https://wordpress.com/support/wordpress-editor/blocks/payments/#related-fees) (which depends on your plan) of the revenue your website generates through the Payment feature, and when you use the feature, you authorize Stripe to direct payment of that percentage to us. As another example, if you use WooCommerce Payments, there are [transaction fees and dispute fees](https://docs.woocommerce.com/document/payments/faq/fees/). Please note that we have no obligation to reimburse or refund these revenue-based fees when you issue refunds to your subscribers or customers.
 
 If you have a negative account balance (for example because of fraud, chargebacks, or other operational issues) or we’re obligated to pay or collect any fees relating to your ecommerce activities or your use of Ecommerce Services, you’re responsible for those losses and fees, and we may collect payment for those losses and fees.
 
@@ -273,6 +273,8 @@ Some of these third party services (like TaxJar, if you use [Store](https://en.s
 We may refuse, condition, or suspend any transaction or account (including your use of WooCommerce Payments) if we believe you have violated this Agreement or that your activities or transactions expose you, us, or others to unacceptable risks, as determined by us in our sole discretion.
 
 You authorize us to share data relating to WooCommerce Payments with the applicable payment processing third party for their use in accordance with their privacy policy. Please refer to our privacy policy for details on how we otherwise collect, use, and disclose data made available to us as part of WooCommerce Payments.
+
+We may also offer you the ability to process certain transactions in-person through our In-Person Payments feature. As part of this feature, we may provide you with a point-of-sale (POS) terminal. These POS terminals are manufactured by third parties and are provided “as-is.” When processing transactions in-person, you must give your customers an option to receive a written receipt for any transactions greater than $15.
 
 **More on Shipping Services Specifically.** Our shipping Services allow you to check shipping rates or buy shipping labels from certain mailing services, like [UPS](https://www.ups.com/), [USPS](https://www.usps.com/), [DHL](https://www.dhl.com/), and [Canada Post](https://www.canadapost.ca/). We’re only an intermediary between you and these third parties; we aren’t involved in any way with your product or its shipment. We also don’t guarantee that the results you obtain from the use of these services (like rates, labels, or delivery timeframes) will be accurate or reliable.
 
@@ -375,6 +377,6 @@ The Agreement (together with any other terms we provide that apply to any specif
 
 Automattic may assign its rights under the Agreement without condition. You may only assign your rights under the Agreement with our prior written consent.
 
-[Print friendly version](https://en.support.files.wordpress.com/2021/03/tos-03-31-21.pdf)
+[Print friendly version](https://en.support.files.wordpress.com/2021/06/tos-06-25-21.pdf)
 
 [**Change log**](https://wordpress.com/tos-change-log)
