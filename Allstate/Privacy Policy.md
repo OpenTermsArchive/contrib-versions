@@ -210,6 +210,48 @@ California residents have certain rights under CCPA to access and delete persona
 
 **Non-Discrimination Rights:** You have the right not to receive discriminatory treatment by us for the exercise of your California privacy rights.
 
+**Consumer Request Metrics:** The chart below lists the number of access and deletion requests Allstate received, complied with and denied from residents of California in 2020 along with the average amount of days it took to complete a request.
+
+2020 Data Access Requests
+
+Quantity
+
+Number of requests received
+
+49
+
+Number of requests complied with in whole or in part
+
+11
+
+Number of requests denied
+
+37
+
+Average days to complete a request
+
+11
+
+2020 Data Deletion Requests
+
+Quantity
+
+Number of requests received
+
+70
+
+Number of requests complied with in whole or in part
+
+21
+
+Number of requests denied
+
+49
+
+Average days to complete a request
+
+3
+
 #### OTHER STATE SPECIFIC PRIVACY RIGHTS AND CHOICES
 
 **Montana Residents:**  
