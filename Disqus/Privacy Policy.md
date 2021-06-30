@@ -6,14 +6,14 @@ This Privacy Policy tells you about how Disqus collects, uses, sells, discloses
 and protects data relating to you in connection with our Service (as defined  
 below), as well as your choices regarding our collection and use of this data.
 
-**1.INTRODUCTION**  
+**1\. INTRODUCTION**  
 a. Overview. Disqus offers an online public comment sharing platform where users login and create profiles to participate in conversations with peers and enjoy an interactive experience. Use of our platform and software (collectively the “Service”)  is subject to the terms of this Privacy Policy. You further understand that the Service is a public platform and that we or others may search for, see, use, or re-post any of your User Content (as defined in our Terms of Use) that you post through the Service.
 
 b. Applicability and third-party websites and services. This Privacy Policy only applies to the data we collect when you use the Service or view the comments and does not apply to any website that uses the Service or other website linked to from the Service. We are not responsible for the practices employed by websites linked to or from the Service, including Partner Sites. Please remember that when you use a link to go from the Service to another website, our Privacy Policy is no longer applicable, it also does not apply to the Partner Site on which you are commenting. Your browsing activity and interaction with any other website, including those that you link to from the Service, is subject to that website's privacy policy. 
 
 c. Children’s Privacy. The Service is not intended for use by children under the age of 16. We do not knowingly collect or sell personal information from children under 16 or knowingly allow such persons to register for an account. In the event that we learn that we have collected personal information from a child under the age of 16, we will delete it. If you believe that we might have collected personal information from a child under 16, please contact using the information below.
 
-**2.THE DATA WE COLLECT ABOUT YOU**  
+**2\. THE DATA WE COLLECT ABOUT YOU**  
 a. Personal data, or personal information, means any information about an individual from which that person can be identified. It does not include data that cannot be linked back to a specific person (anonymous data).
 
 b. We may collect, use, store and transfer different kinds of personal data about you which we have categorized as follows:
@@ -121,9 +121,24 @@ vi. Request the transfer of your personal data to you or to a third party (we wi
 vii. Request us not to sell your personal data. We will not sell your data on to third parties. In order to exercise this right, please click [here](https://disqus.com/data-sharing-settings/).    
 vii. Withdraw consent at any time (we will treat this as a request for data deletion). 
 
-**How To Make a Valid Request** If you wish to exercise any of the above rights please click [here](https://privacyportal-cdn.onetrust.com/dsarwebform/bc2d3301-11a5-4de5-b15e-ce796187a352/9a049fa1-37af-4598-a87a-d0df2e2d904b.html) . You may only make a verifiable consumer request for access or data portability twice within a 12-month period. The verifiable consumer request must contain information that permits us to reasonably verify your identity. Making a verifiable consumer request does not require you to create an account with us. We will only use personal data provided in a consumer request to verify the requestor’s identity or authority to make the request. This is a security measure to ensure that personal data is not disclosed to an unauthorized person. Furthermore we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. If your request cannot be fulfilled, we will inform you of the reason. 
+**How To Make a Valid Request** If you wish to exercise any of the above rights please click [here](https://privacyportal-cdn.onetrust.com/dsarwebform/bc2d3301-11a5-4de5-b15e-ce796187a352/9a049fa1-37af-4598-a87a-d0df2e2d904b.html) . You may only make a verifiable consumer request for access or data portability twice within a 12-month period. The verifiable consumer request must contain information that permits us to reasonably verify your identity. Making a verifiable consumer request does not require you to create an account with us. We will only use personal data provided in a consumer request to verify the requestor’s identity or authority to make the request. This is a security measure to ensure that personal data is not disclosed to an unauthorized person. Furthermore we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. If your request cannot be fulfilled, we will inform you of the reason.   
+  
+We are required to publish statistics on how many people exercised their privacy rights in the previous year. The following statistics are for people who made requests relating to Disqus during 2020. These statistics cover all requests received from individuals around the world.
 
-**12\. INTERNATIONAL DATA TRANSFERS.**  
+*   Number of requests for access to (copy of) data: 111
+    
+    *   Number of these requests that were not actioned because the requestor did not complete the verification process: 7
+        
+*   Number of requests for data deletion: 641
+    
+    *   Number of these requests that were not actioned because the requestor did not complete the verification process: 30
+        
+*   Number of requests for opt-out (Do Not Sell): 76
+    
+    *   Number of these requests that were not actioned because the requestor did not complete the verification process: 7
+        
+
+**11\. INTERNATIONAL DATA TRANSFERS.**  
 For users based in the European Economic Area (EEA) we may share your personal data within the Disqus Group or with external third parties. This may involve transferring your data outside the EEA.
 
 Whenever we transfer your personal data out of the EEA, we ensure a similar degree of protection is afforded to it by ensuring at least one of the following safeguards is implemented:
@@ -134,7 +149,7 @@ Whenever we transfer your personal data out of the EEA, we ensure a similar degr
 
 •For some service providers based in the US, we may transfer data to them if they participate in the EU-US Privacy Shield program, which requires them to provide similar protection to personal data shared between the Europe and the US.
 
-**13\. GENERAL**  
+**12\. GENERAL**  
 a. Contact. If you have any questions about this Privacy Policy, please email us at [privacy@disqus.com](mailto:privacy@disqus.com), or contact us by mail at 717 Market Street, Suite 700, San Francisco, CA 94103.
 
 b. Changes to Privacy Policy. Disqus may, in its sole discretion, modify or update this Privacy Policy from time to time, and so you should review this page periodically. When we change the policy, we will update the ‘last modified’ date at the bottom of this page. Your continued use of the Site following the posting of any changes to this policy means you accept such changes.
