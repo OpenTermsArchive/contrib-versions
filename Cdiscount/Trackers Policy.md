@@ -390,6 +390,8 @@ Profilage** : Le profilage consiste en l’établissement d’un profil individu
 Cdiscount : Meuble, Déco, High Tech, Bricolage, Jardin, Sport
 =============================================================
 
+°Sur produits signalés, période de Soldes du 30 Juin au 27 Juillet 2021.  
+\*\*Réduction maximale constatée sur une sélection d’articles.  
 (#) Voir conditions du paiement en 4 fois à l'article 4 de nos Conditions générales de vente. Sous réserve d'acceptation de Cdiscount ou de FLOA Bank  
 (1) En France métropolitaine, voir conditions en page « Les Modes et Frais de livraison » accessible en pied de page  
 (2) Garantie Légale de Conformité dont vous bénéficiez en vertu des articles L 217-4 et suivants du Code de la Consommation
