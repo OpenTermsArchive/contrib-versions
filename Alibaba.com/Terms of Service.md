@@ -1,12 +1,12 @@
 #### Terms of Use
 
-**Part A:  New version - effective as of** **April 30, 2021**
+**Part A:  New version - effective as of April 30, 2021**
 
 PLEASE READ THESE TERMS AND CONDITIONS CAREFULLY!
 
 Welcome to www.alibaba.com and www.aliexpress.com!  These Terms of Use describe the terms and conditions applicable to your access and use of the websites, mobile sites, mobile applications and other portals owned, operated, branded or made available by Alibaba.com (defined below) from time to time which relate to (a) the Alibaba e-commerce platform including but not limited to the web and mobile-optimized versions of the websites identified by the uniform resource locator “www.alibaba.com” and the mobile applications of the Alibaba.com e-commerce platform (the “Alibaba Sites”); and (b) the AliExpress e-commerce platform including but not limited to the web and mobile-optimized versions of the websites identified by the uniform resource locators “www.aliexpress.com”, “www.aliexpress.ru” and “www.tmall.ru” (“AliExpress Sites”), and the mobile applications of the AliExpress e-commerce platforms,(with Alibaba.com Sites and AliExpress Sites collectively the “Sites”).  This document is a legally binding agreement between you as the user(s) of the Sites (referred to as “you”, “your” or “User” hereinafter) and the Alibaba.com contracting entity determined in accordance with clause 2.1 below (referred to as “we”, “our” or “Alibaba.com” hereinafter).
 
-1.  **Application and Acceptance of the Terms**
+**1\. Application and Acceptance of the Terms**
 
 1.1 Your access to and use of the Sites and Alibaba.com’s services, software and products through the Sites, which shall include the platforms described in clause 7.1 of the Terms (such services, software and products collectively referred to as the “**Services**” hereinafter) is subject to the terms and conditions contained in this document as well as the [Privacy Policy](https://rule.alibaba.com/rule/detail/2034.htm) (defined in clause 3.3 below), the [Product Listing Policy](https://rule.alibaba.com/rule/detail/2047.htm?spm=a271m.8038972.0.0.7d0e495bPfQfya) and any other rules and policies of the Sites that Alibaba.com may publish from time to time.  This document and such other rules and policies of the Sites are collectively referred to below as the “**Terms**”.  By accessing and use of the Sites and Services, you agree to accept and be bound by the Terms.  Please do not access or use the Services or the Sites if you do not accept all of the Terms.   
  
@@ -24,7 +24,7 @@ Welcome to www.alibaba.com and www.aliexpress.com!  These Terms of Use describe
 
 1.6 The Terms may not otherwise be modified except in writing by an authorized officer of Alibaba.com. 
 
-1.  **Provision of Services**
+**2\. Provision of Services**
 
 2.1  If you are a registered member of any of the Sites, and you are from mainland China, you are contracting with Hangzhou Alibaba Advertising Co., Ltd.
 
@@ -134,19 +134,19 @@ l) not engage in any activities that would otherwise create any liability for Al
 
 5.13 Each Member represents, warrants and agrees that 
 
-(a)     you and your affiliates shall comply with applicable laws and regulations in conducting
+a) you and your affiliates shall comply with applicable laws and regulations in conducting your respective      business (including without limitation applicable laws and regulations with respect to product safety, intellectual property rights, data privacy, consumer protection, product or regulatory certification, import and export control, unfair competition, price gouging, false advertising, labor, environment, health and safety, anti-bribery and anti-money laundering).
 
-your respective business (including without limitation applicable laws and regulations with respect to product safety, intellectual property rights, data privacy, consumer protection, product or regulatory certification, import and export control, unfair competition, price gouging, false advertising, labor, environment, health and safety, anti-bribery and anti-money laundering).
+b) you and your affiliates are not the subject of any trade restrictions, sanctions or other legal restrictions enacted or proposed to be enacted by any country, international organization or jurisdiction ("Relevant Subjects");
 
-(b)     you and your affiliates are not the subject of any trade restrictions, sanctions or other legal restrictions enacted or proposed to be enacted by any country, international organization or jurisdiction ("Relevant Subjects");
+c) you and your affiliates are not offering products or services that would likely trigger any international trade restrictions, sanctions or other legal restrictions by any Relevant Subjects;
 
-(c)     you and your affiliates are not offering products or services that would likely trigger any international trade restrictions, sanctions or other legal restrictions by any Relevant Subjects;
+d) neither you, or any of your parent companies or affiliates, directly or indirectly, deals with, or provides any funds, goods or services to Relevant Subjects;
 
-(d)     neither you, or any of your parent companies or affiliates, directly or indirectly, deals with, or provides any funds, goods or services to Relevant Subjects;
+e)  you will at all times comply with all applicable export control and sanctions laws and regulations with regard to products, services, software and technologies in using the Services, including sanctions resolutions, laws and regulations enacted and enforced by the UN Security Council, the People's Republic of China, the United States of America, and any other country; 
 
-(e)     you will at all times comply with all applicable export control and sanctions laws and regulations with regard to products, services, software and technologies in using the Services, including sanctions resolutions, laws and regulations enacted and enforced by the UN Security Council, the People's Republic of China, the United States of America, and any other country; and
+f) If you and your affiliates are a Seller of products which require a warning under California Health & Safety Code Section 25249.6 (a "Proposition 65 Warning”) you (a) will promptly display a Proposition 65 Warning on the product detail page as required under the relevant law; (b) authorize Alibaba.com to display a Proposition 65 Warning on your behalf; and (c) will only revise or remove a Proposition 65 Warning for a product when the prior warning needs to be modified or is no longer legally required, as the case may be; and
 
-(f)  If you and your affiliates are a Seller of products which require a warning under California Health & Safety Code Section 25249.6 (a "Proposition 65 Warning”) you (a) will promptly display a Proposition 65 Warning on the product detail page as required under the relevant law; (b) authorize Alibaba.com to display a Proposition 65 Warning on your behalf; and (c) will only revise or remove a Proposition 65 Warning for a product when the prior warning needs to be modified or is no longer legally required, as the case may be.
+g) You and your affiliates are responsible for your products compliance with the laws and regulations of the country/region of destination, including with relevant labor laws and standards. If a product is not permitted in one or more markets, Sites reserve the right to remove the product listing from, OR STOP THE SALE OF ANY SUCH PRODUCT IN, those markets.
 
 If, at any time, you fail to meet any of the above requirements, you should stop using the Services immediately. If Alibaba.com reasonably believes that any of your conduct violates or threatens to violate any applicable laws and regulations, Alibaba.com may, at its sole discretion, at any time take action as it may deem appropriate in light of the circumstances, including, but not limited to, terminating the provision of Services to you, closing relevant purchase orders, and terminating your accounts, while reserving all rights it may have regarding any non-compliant actions or conduct of its members.
 
