@@ -94,7 +94,7 @@ _Sharing with Users and the Public:_ We may share your personal information with
 
 _Sharing with Managed Accounts and Administrators:_ If you have created a GitLab account with your corporate email address, we may share your personal information with your Company if your Company enters into a commercial relationship with GitLab. If this happens, then your use of the software and your account is subject to the terms and any data protection agreement between your Company and GitLab.
 
-In addition, if you choose to become a member of a project, your username, email address, IP address, the date access was granted, the date access expires, and your access role will be shared with the group owners of that project.
+In addition, if you choose to become a member of a project, your username, email address, IP address, the date when access was granted, the date when access expires, and your access role will be shared with the group owners of that project.
 
 _Sharing with Service Providers:_ We share your personal information with our service providers. These are companies who provide services on our behalf, such as hosting our Services, marketing, advertising, social, analytics, support ticketing, credit card processing, security and other such similar services. These companies are subject to contractual requirements that govern the security and confidentiality of your information.
 
