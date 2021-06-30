@@ -4,6 +4,8 @@ Policies
 Google Publisher Policies
 =========================
 
+[](https://support.google.com/adsense/answer/1282103?hl=en&ref_topic=1250104)[Next: Google Publisher Restrictions](https://support.google.com/adsense/answer/9335567?hl=en&ref_topic=1250104)
+
 When you monetize your content with Google ad code you are required to adhere to the following policies. By content we mean anything present on your page or app - including other advertisements and links to other sites or apps. Failure to comply with these policies may result in Google blocking ads from appearing against your content, or suspending or terminating your account.
 
 These restrictions apply in addition to any other policies governing your use of Google publisher products.
@@ -248,3 +250,13 @@ Minimum content requirements
 We do not allow monetization where there is no content.
 
 *   No content includes placeholder content for sites or apps under construction.
+
+[](https://support.google.com/adsense/answer/1282103?hl=en&ref_topic=1250104)[Next: Google Publisher Restrictions](https://support.google.com/adsense/answer/9335567?hl=en&ref_topic=1250104)
+
+Was this helpful?
+
+How can we improve it?
+
+YesNo
+
+Submit
