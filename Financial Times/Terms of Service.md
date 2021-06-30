@@ -223,7 +223,7 @@ You may also use your [regional telephone number](https://help.ft.com/contact/)
 *   Americas: F.T. Publications, Inc, whose principal place of business is at 330 Hudson Street, 8th Floor, New York, NY 10013, USA.
 *   Japan or South Korea: The Financial Times (Japan) Limited, whose principal place of business is at 10F Nihon Keizai Shimbunsha Tokyo Honsha Building, 1-3-7 Otemachi, Chiyoda-ku, Tokyo, 100-8066, Japan.
 *   Singapore: The Financial Times (Singapore) Pte Limited, whose principal place of business is at 60 Anson Road, #06-02 Mapletree Anson, Singapore 079914.
-*   Asia (other than Japan, South Korea or Singapore) or Oceania: The Financial Times (H.K.) Limited, whose principal place of business is at 18/F Nan Fung Tower, 88 Connaught Road, Central, Hong Kong.
+*   Asia (other than Japan, South Korea or Singapore) or Oceania: The Financial Times (H.K.) Limited, whose principal place of business is at 6/F Nan Fung Tower, 88 Connaught Road, Central, Hong Kong.
 
 **6.3.** The Financial Times Limited is the publisher of the Newspaper and FT.com, and its corporate details are as set out in section 1.1.
 
