@@ -4,7 +4,7 @@ Terms of service
 Thank you for using Pinterest!
 ------------------------------
 
-*   These Terms of Service ("Terms") govern your access to and use of the Pinterest website, apps, APIs, and widgets (“Pinterest” or the “Service”). Please read these Terms carefully, and contact us if you have any questions. By accessing or using Pinterest, you agree to be bound by these Terms, our [Privacy Policy](https://policy.pinterest.com/privacy-policy), our [Cookies Policy](https://policy.pinterest.com/cookies) and our [Community Guidelines](https://policy.pinterest.com/community-guidelines).
+*   These Terms of Service ("Terms") govern your access to and use of the Pinterest website, apps, APIs, and widgets (“Pinterest” or the “Service”). Please read these Terms carefully, and contact us if you have any questions. By accessing or using Pinterest, you agree to be bound by these Terms, our [Privacy Policy](https://policy.pinterest.com/privacy-policy), our [Cookies Policy](https://policy.pinterest.com/cookies) and our [Community Guidelines](https://policy.pinterest.com/community-guidelines). 
     
     **More simply put**
     
