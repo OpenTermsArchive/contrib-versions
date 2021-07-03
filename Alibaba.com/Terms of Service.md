@@ -1,4 +1,4 @@
-#### Terms of Use
+#### Alibaba.com Supplemental Services Agreement
 
 **Part A:  New version - effective as of April 30, 2021**
 
@@ -63,7 +63,7 @@ a) for Users who access or use Sites relating to the Alibaba e-commerce platform
 b) for Users who access or use Sites relating to the AliExpress e-commerce platforms, the [Aliexpress.com Privacy Policy](https://helppage.aliexpress.com/buyercenter/questionAnswer.htm?spm=a2g19.helppage_7aypo.0.0.4725150bh7ob3A&isRouter=0&viewKey=1&id=1000099018&categoryIds=9205401&lang=ru)), or the [Privacy Policy of “www.aliexpress.ru” and “www.tmall.ru”](https://sell.aliexpress.com/ru/__pc/Zj6CxW2d6V.htm)  (collectively, the “Privacy Policy”).  
  
 
-3.4 Alibaba.com may allow Users to access to content, products or services offered by third parties through hyperlinks (in the form of word link, banners, channels or otherwise), API or otherwise to such third parties' web sites. You are cautioned to read such web sites' terms and conditions and/or privacy policies before using the Sites. You acknowledge that Alibaba.com has no control over such third parties' web sites, does not monitor such web sites, and shall not be responsible or liable to anyone for such web sites, or any content, products or services made available on or through such web sites.  
+3.4 Alibaba.com may allow Users to access content, products, or services offered by third parties through hyperlinks (in the form of word links, banners, channels, or otherwise), API, or otherwise to such third parties' websites. You are cautioned to read such websites' terms and conditions and/or privacy policies before using the Sites. You acknowledge that Alibaba.com has no control over such third parties' websites, does not monitor such websites, and shall not be responsible or liable to anyone for such websites, or any content, products, or services made available on or through such websites.  
  
 
 3.5 You agree not to undertake any action to undermine the integrity of the computer systems or networks of Alibaba.com and/or any other User nor to gain unauthorized access to such computer systems or networks. 
@@ -74,7 +74,7 @@ b) for Users who access or use Sites relating to the AliExpress e-commerce pl
 
 **4\. Member Accounts**
 
-4.1 User must be registered on the Sites to access or use some Services (a registered User is also referred to as a “**Member**” below). Except with Alibaba.com’s approval, one User may only register one member account on the Sites. Alibaba.com may cancel or terminate a User’s member account if Alibaba.com has reasons to suspect that the User has concurrently registered or is in control of two or more member accounts. Further, Alibaba.com may reject User’s application for registration for any reason.
+4.1 User must be registered on the Sites to access or use some Services (a registered User is also referred to as a “**Member**” below). Except with Alibaba.com’s approval, one User may only register one member account on the Sites. Alibaba.com may cancel or terminate a User’s member account if Alibaba.com has reasons to suspect that the User has concurrently registered or is in control of two or more member accounts. Further, Alibaba.com may reject the User’s application for registration for any reason.
 
 4.2 Upon registration on the Sites, Alibaba.com shall assign an account and issue a member ID and password (the latter shall be chosen by a registered User during registration) to each registered User. An account may have a web-based email account with limited storage space for the Member to send or receive emails. 
 
