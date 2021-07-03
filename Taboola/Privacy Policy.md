@@ -1,14 +1,14 @@
 TABOOLA PRIVACY POLICY
 ======================
 
-Last Update: August 26th, 2020
+Last Update: July 1st, 2021
 
 If you would like to go directly to Taboola’s opt-out status options, please [click here](#user-choices-and-opting-out).  
-If you would like to learn more about Taboola’s region-specific processing of personal data, you can go directly to the applicable notices for individuals in [Brazil](#notice-to-individuals-in-brazil), [California](#notice-to-individuals-in-the-state-of-california), [Europe](#notice-to-individuals-within-the-european-economic-area-eea), or [Thailand](#notice-to-individuals-in-thailand).
+If you would like to learn more about Taboola’s region-specific processing of personal data, you can go directly to the applicable notices for individuals in [Brazil](#notice-to-individuals-in-brazil), [California](#notice-to-individuals-in-the-state-of-california), [Europe](#notice-to-individuals-within-the-european-economic-area-eea) (including the United Kingdom), or [Thailand](#notice-to-individuals-in-thailand).
 
 ### **Privacy Self-Regulation:**
 
-Taboola is dedicated to providing Internet users the highest level of transparency and control over the use of their data in online advertising. We adhere to the Self-Regulatory Principles set forth by the Digital Advertising Alliance (DAA), the Digital Advertising Alliance Canada (DAAC), and the European Interactive Digital Advertising Alliance (EDAA). Taboola also adheres to the Interactive Advertising Bureau’s (IAB) Self-Regulatory Principles for Online Behavioral Advertising, and the IAB Europe OBA Framework. In addition, Taboola is a proud member in good standing of the Network Advertising Initiative (NAI), an association dedicated to responsible data collection use in digital advertising, and we adhere to the [NAI Code of Conduct](http://www.networkadvertising.org/code-enforcement) for Web and Mobile. To update your AdChoices Opt Out settings, select your region here: [US](http://www.aboutads.info/consumers), [Canada](http://youradchoices.ca/choices), or [Europe](http://www.youronlinechoices.eu/); and to manage all NAI member sites’ settings, click [here](http://optout.networkadvertising.org/#/).
+Taboola is dedicated to providing Internet users the highest level of transparency and control over the use of their data in online advertising. We adhere to the Self-Regulatory Principles set forth by the Digital Advertising Alliance (DAA), the Digital Advertising Alliance Canada (DAAC), and the European Interactive Digital Advertising Alliance (EDAA). Taboola also adheres to the Interactive Advertising Bureau’s (IAB) Self-Regulatory Principles for Online Behavioral Advertising, and the IAB Europe OBA Framework. In addition, Taboola is a proud member in good standing of the Network Advertising Initiative (NAI), an association dedicated to responsible data collection use in digital advertising, and we adhere to the [NAI Code of Conduct](http://www.networkadvertising.org/code-enforcement) for Web and Mobile. To update your AdChoices Opt Out settings, select your region here: [US](http://www.aboutads.info/consumers), [Canada](http://youradchoices.ca/choices), or [Europe](http://www.youronlinechoices.eu/) (including the United Kingdom); and to manage all NAI member sites’ settings, click [here](http://optout.networkadvertising.org/#/).
 
 [![iab logo](https://www.taboola.com/wp-content/uploads/2020/09/image-17.png)](https://www.taboola.com/policies/privacy-policy/image-17)
 
@@ -63,7 +63,7 @@ We use Customer Information for the following purposes:
 
 We may disclose Customer Information as follows:
 
-*   _**Taboola Affiliates**_. We may disclose Customer Information to any of Taboola’s current or future affiliates (affiliates are companies controlling, controlled by, or under common control with us, including, for example, Taboola Europe Limited, Taboola (Thailand) Limited, and Taboola Brasil Internet Ltda., referred to herein as “**Affiliates**”), parent companies, or subsidiaries to process for the purposes described in this Privacy Policy.
+*   _**Taboola Affiliates**_. We may disclose Customer Information to any of Taboola’s current or future affiliates (affiliates are companies controlling, controlled by, or under common control with us, including, for example, Taboola.com Ltd., Taboola Europe Limited, Taboola (Thailand) Limited, and Taboola Brasil Internet Ltda., referred to herein as “**Affiliates**”), parent companies, or subsidiaries to process for the purposes described in this Privacy Policy.
 *   _**Taboola service providers**_. We may disclose Customer Information to vendors, service providers, agents, contractors, or others who perform functions (e.g., maintenance, data analysis, customer relationship management, email marketing, surveys, credit card processing, data hosting, fraud detection) on our behalf.
 *   _**Customers**_. We may disclose Customer Information to other Customers where relevant to the Service we provide. For example, we may provide publishers with information about what advertisers may appear on their network or advertisers with information about which publisher websites their campaigns have appeared on.
 
@@ -136,7 +136,7 @@ Please also note:
     *   You may also visit one of the Digital Advertising Alliance affiliate websites to learn more about User choices and opting out of interest-based advertising displayed by the many member companies.
         *   Users in the United States may visit the DAA consumer choice page at [www.aboutads.info/choices](http://www.aboutads.info/choices)
         *   Users in Canada may visit the DAAC consumer choice page at [www.youradchoices.ca/choices](http://www.youradchoices.ca/choices)
-        *   Users in Europe may visit the EDAA consumer choice page at [www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
+        *   Users in Europe (including the United Kingdom) may visit the EDAA consumer choice page at [www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
     
     Please note that an opt out from one or more companies listed on the DAA, DAAC, or EDAA consumer choice pages will not prevent you from seeing those companies’ advertisements. Rather, the opt out will prevent these companies from using your Information to display targeted content or ads to you. You may continue to receive advertisements that are selected based on the particular website that you are viewing (i.e., contextually based ads).
     
@@ -192,7 +192,7 @@ Site Visitors may opt out of the Taboola Ad Partners that collect information on
 
 *   Users in the United States may visit the DAA consumer choice page at [www.aboutads.info/choices](http://www.aboutads.info/choices)
 *   Users in Canada may visit the DAAC consumer choice page at [www.youradchoices.ca/choices](http://www.youradchoices.ca/choices)
-*   Users in Europe may visit the EDAA consumer choice page at [www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
+*   Users in Europe (including the United Kingdom) may visit the EDAA consumer choice page at [www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
 
 Please note that an opt out from one or more companies listed on the DAA, DAAC, or EDAA consumer choice pages will not prevent you from seeing those companies’ advertisements. Rather, the opt out will prevent these companies from using your Information to display targeted content or ads to you. You may continue to receive advertisements that are selected based on the particular website that you are viewing (i.e., contextually based ads).
 
@@ -246,20 +246,24 @@ We value the security of your Information, including but not limited to the Info
 
 We may transfer your Information outside the country in which it is collected, including to a country that may not offer the same level of protection for Information as the country in which you reside. Rest assured however, that Taboola has arranged all contractual safeguards to ensure your Information is processed in a way that offers an adequate level of protection when it is shared between or among Taboola Affiliates, subsidiaries, and/or parent companies.
 
-If you would like to learn more about EEA Data Transfers, specifically, see Section 5.1.4 below. If you would like to learn more about Thailand Data Transfers, specifically, see Section 5.3.4 below.
+If you would like to learn more about EEA/UK Data Transfers, specifically, see Section 5.1.4 below. If you would like to learn more about Thailand Data Transfers, specifically, see Section 5.3.4 below.
 
 5\. Regional Privacy Rights
 ---------------------------
 
-### 5.1 Notice to Individuals within the European Economic Area (“EEA”)
+### 5.1 Notice to Individuals within the European Economic Area (“EEA”) or United Kingdom ("UK")
 
-### 5.1.1 Data Controller
+### 5.1.1 Data Controller and Representative
 
-If you reside in the EEA, Taboola Europe Limited will be the controller of your Personal Data provided to, collected by or for, or processed by Taboola in connection with our Services.
+If you reside in the EEA or UK, Taboola.com Ltd. will be the controller of your Personal Data provided to, collected by or for, or processed by Taboola in connection with our Services. Taboola.com Ltd. can be contacted at [support@taboola.com](mailto:support@taboola.com).
+
+Our representative in the European Union is Lionheart Squared (Europe) Ltd., 2 Pembroke House, Upper Pembroke Street 28-32, Dublin, D02 EK84 Ireland.
+
+Our representative in the UK is Taboola Europe Limited, Aldgate House, 2nd Floor, 33 Aldgate High Street, London EC3N 1DL, United Kingdom.
 
 ### 5.1.2 Legal Basis for Processing Personal Data
 
-If you are a Customer, Site Visitor, or User from the EEA, our legal basis for collecting and using the Personal Data described above (also referred to in this Section 5.1 as “**EEA Data**”) will depend on the Personal Data concerned and the specific context in which we collect it.
+If you are a Customer, Site Visitor, or User from the EEA or UK, our legal basis for collecting and using the Personal Data described above (also referred to in this Section 5.1 as “**EEA/UK Data**”) will depend on the Personal Data concerned and the specific context in which we collect it.
 
 However, we will normally collect Personal Data from you only (i) where we have your consent to do so, (ii) where we need the Personal Data to perform a contract with you, or (iii) where the processing is in our legitimate interests and not overridden by your data protection interests or fundamental rights and freedoms. In some cases, we may also have a legal obligation to collect Personal Data from you or may otherwise need the Personal Data to protect your vital interests or those of another person.
 
@@ -275,15 +279,17 @@ You have the right to request that Taboola (i) provide you with access to the Pe
 
 You have the right to complain to a data protection authority about our collection and use of your Personal Data. To learn more, please contact your local data protection authority, via the contact methods available [here](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm). However, if you have any questions about our collection and use of your Personal Data, please first contact us at [support@taboola.com](mailto:support@taboola.com). If you are unable to obtain the information or resolution that you seek, you may also contact our Data Protection Officer at [dpo@taboola.com](mailto:dpo@taboola.com).
 
-### 5.1.4 EEA Data Transfers
+### 5.1.4 EEA/UK Data Transfers
 
-Taboola transfers data outside the EEA. Taboola relies on adequacy determinations, because data is controlled and stored by Taboola’s Israeli entity. In addition, Taboola also has in place an Inter Group Data Transfer Agreement across its international entities, which is based on the standard model clauses.
+As part of Taboola’s global operations, our data flows between the EEA, the UK, Israel, the United States, Singapore and Hong Kong, and Taboola stores Customer, User, and Visitor information in our data centers located in Israel and the United States.
 
-As part of Taboola’s global operations, our data flows between the EEA, the United States, Israel and Hong Kong. To ensure that EEA Data is adequately protected when transferred outside the EEA, the Data Protection Directive 95/46/EC and the General Data Protection Regulation mandate that such transfers take place using [certain legal mechanisms](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu_en).
+When Taboola transfers EEA/UK Data to Taboola.com Ltd. in Israel, it relies (as applicable) on (i) the European Commission’s decision, and (ii) UK adequacy regulations that Israel provides a level of data protection that is adequate for EEA/UK Data. These allow the free transfer of EEA/UK Data to Israel without the need for additional data transfer mechanisms.
 
-When transferring EEA data to Israel, Taboola relies on the European Commission’s determination that Israel offers adequate data protection for transfers from the EEA. When transferring EEA data elsewhere, Taboola relies on the European Commission’s approved [Standard Contractual Clauses](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en), which are contractual privacy and security commitments between companies that transfer personal data (for example, from Taboola Europe Limited to Taboola, Inc.). Taboola, Inc. and its Affiliates have accordingly adopted Standard Contractual Clauses to ensure the legality, privacy, and security of the data flows necessary to provide, maintain, and develop our services.
+Similarly, when Taboola transfers any personal data from the EEA to Taboola Europe Limited in the United Kingdom, it relies on the European Commission’s decision that the UK provides a level of data protection that is adequate for personal data from the EEA.
 
-Note: Taboola currently stores Customer, User, and Visitor Information in our data centers located in the United States and Israel.
+Beyond that, when Taboola transfers EEA/UK Data to other countries then, if those countries do not have a European Commission adequacy finding and are not the subject of UK adequacy regulations (as applicable), Taboola implements [Standard Contractual Clauses](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en) approved by the European Commission and/or competent UK authorities (as applicable) to protect the transferred data. The Standard Contractual Clauses are contractual privacy and security commitments that are entered between companies that transfer personal data outside of the EEA.
+
+In particular, non-EEA/UK Taboola Affiliates, like Taboola, Inc. in the United States, have accordingly adopted Standard Contractual Clauses to ensure the legality, privacy, and security of the data flows necessary to provide, maintain, and develop our services.
 
 ### 5.2 Notice to Individuals in the State of California
 
@@ -376,14 +382,7 @@ Note: Taboola currently stores Customer, User, and Visitor Information in our da
 6\. Contact Us
 --------------
 
-If you have questions about the privacy aspects of our Sites or Services, please contact us at:
-
-Taboola, Inc.  
-16 Madison Square West  
-7th Floor  
-New York, New York 10010  
-Phone: 212.206.7663  
-Email: [support@taboola.com](mailto:support@taboola.com)
+If you have questions about the privacy aspects of our Sites or Services, please contact us at [support@taboola.com](mailto:support@taboola.com).
 
 The names and contact details of our Affiliates which may process your Personal Information in their capacity as data controllers, can be found here: [www.taboola.com/contact](http://www.taboola.com/contact).
 
