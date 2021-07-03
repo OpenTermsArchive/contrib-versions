@@ -89,7 +89,7 @@ What we do with the info we collect
     *   Decide which ads to show you. For example, if you show an interest in camping tents on Pinterest, we may show you ads for other outdoor products. We customize the ad content we show you by identifying your interests based on your onsite and offsite activities, as well as by using information we receive from ad partners or other third parties. Where we use cookies to identify your offsite interests, we’ll get your consent where we need to. Where ad partners or other third parties share information with us about you, we rely on the consent they already obtained.
     *   Tell our ad partners how their Pinterest ads are doing, and how to make them better. Some of this information is aggregated. For example, we would report to an advertiser that a certain percentage of people who viewed a Promoted Pin went on to visit that advertiser's site. In other instances, this information isn’t aggregated. For example, we would let an advertiser know that a particular Promoted Pin has been saved by certain people. To find out more about reporting on ads please [visit the Help Center](https://help.pinterest.com/articles/ads-performance-reporting-pinterest).
     
-    We have a legitimate interest in using information we collect to customize your Pinterest experience based on your offsite behavior. For example, if you visit websites that sell electric guitars, we may suggest guitar Pins to you. When we identify your interests based on your offsite behavior with cookies, we will obtain any consent that we may need. To find out more about how we use cookies, please see our [Cookie Policy](https://policy.pinterest.com/cookies).
+    We have a legitimate interest in using information we collect to customize your Pinterest experience based on your offsite behavior. For example, if you visit websites that sell electric guitars, we may suggest guitar Pins to you. When we identify your interests based on your offsite behavior with cookies, we (or our partners) will obtain any consent that we may need. To find out more about how we use cookies, please see our [Cookie Policy](https://policy.pinterest.com/cookies).
     
     In addition to the specific circumstances above, we’ll only use your information with your consent in order to:
     
@@ -98,10 +98,7 @@ What we do with the info we collect
     *   Identify your precise location and customize the content we show you. For example, if we know that you’re near a retailer we may show you that retailer’s Pins that may be of interest to you. You can opt in to this in your device operating system settings.
     *   Tell our ad partners how their ads are doing using the Pinterest Tag. The Pinterest Tag (a piece of code an advertiser puts on their site) delivers insights to us and our ad partners about actions that a person takes on their website after viewing an ad on Pinterest. [To learn more about the Pinterest Tag, please visit the Help Center](https://help.pinterest.com/article/personalization-and-data).
     
-    We’ll also rely on your consent where we use cookies to:
-    
-    *   Identify you across different browser sessions. This means if you log into Pinterest from your phone (or any device), we'll remember that you're you and then you won't need to enter your login details each time you visit Pinterest.
-    *   Show you ads you might be interested in. We use cookies to identify your interests based on your offsite activity. We do this for people currently using Pinterest and for new folks, and it helps us customize how you get started on Pinterest.
+    We’ll also rely on your consent where we use cookies to show you ads you might be interested in. We use cookies to identify your interests based on your offsite activity. We do this for people currently using Pinterest and for new folks, and it helps us customize how you get started on Pinterest.
     
     To find out more about how we use cookies, and your choices about how we use them, please see our [Cookie Policy](https://policy.pinterest.com/cookie-policy-preview).
     
@@ -222,6 +219,8 @@ California residents
     
     We use and disclose this information for the business purposes described in the [What we do with the info we collect](https://policy.pinterest.com/privacy-policy#section-what-we-do-with-the-info-we-collect) section in this Privacy Policy, including to: provide our Service, communicate with you to provide updates or respond to your comments and questions, audit our Service, detect security incidents and prevent fraud, debug and repair errors, maintain your account, provide customer service, process or fulfill orders, conduct research and development and other activities to improve our Service, show advertising, market our Services, and understand how users interact with our Services.
     
+    The CCPA requires us to disclose certain metrics about the various requests we get, such as how many specific requests we received from California residents in the last calendar year. See our [CCPA Metrics Disclosure](https://policy.pinterest.com/ccpa-metrics-disclosure).
+    
 
 How we make changes to this policy
 ----------------------------------
@@ -235,4 +234,4 @@ Contact us
 *   The best way to get in touch with us or to exercise your options described above is through the [Help Center](https://help.pinterest.com/contact). If you live in the United States, Pinterest, Inc. is responsible for your information. You can contact Pinterest Inc. at 651 Brannan Street, San Francisco, CA 94107, USA.
     
     Effective Date September 2, 2020  
-    Last updated April 16, 2021
+    Last updated July 1, 2021
