@@ -211,7 +211,7 @@ If you wish to exercise any of these rights, kindly contact us using the details
 
 You can control how your data is used (e.g., delete synced contacts) in _Settings > Privacy & Security > Data Settings_ (using one of our mobile apps).
 
-Sadly, if you're generally not OK with Telegram's modest requirements, it won't be possible for us to provide you with our Services. You can delete your Telegram account by proceeding to the [deactivation page](https://telegram.org/deactivate).
+Sadly, if you're not OK with Telegram's modest minimum requirements, it won't be possible for us to provide you with our Services. You can delete your Telegram account by proceeding to the [deactivation page](https://telegram.org/deactivate).
 
 ### [](#10-deleting-data)10\. Deleting data
 
