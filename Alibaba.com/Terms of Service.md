@@ -1,17 +1,17 @@
-#### Alibaba.com Supplemental Services Agreement
+#### Terms of Use
 
-**Part A:  New version - effective as of April 30, 2021**
+**Part A:  New version - effective as of** **April 30, 2021**
 
 PLEASE READ THESE TERMS AND CONDITIONS CAREFULLY!
 
 Welcome to www.alibaba.com and www.aliexpress.com!  These Terms of Use describe the terms and conditions applicable to your access and use of the websites, mobile sites, mobile applications and other portals owned, operated, branded or made available by Alibaba.com (defined below) from time to time which relate to (a) the Alibaba e-commerce platform including but not limited to the web and mobile-optimized versions of the websites identified by the uniform resource locator “www.alibaba.com” and the mobile applications of the Alibaba.com e-commerce platform (the “Alibaba Sites”); and (b) the AliExpress e-commerce platform including but not limited to the web and mobile-optimized versions of the websites identified by the uniform resource locators “www.aliexpress.com”, “www.aliexpress.ru” and “www.tmall.ru” (“AliExpress Sites”), and the mobile applications of the AliExpress e-commerce platforms,(with Alibaba.com Sites and AliExpress Sites collectively the “Sites”).  This document is a legally binding agreement between you as the user(s) of the Sites (referred to as “you”, “your” or “User” hereinafter) and the Alibaba.com contracting entity determined in accordance with clause 2.1 below (referred to as “we”, “our” or “Alibaba.com” hereinafter).
 
-**1\. Application and Acceptance of the Terms**
+1.  **Application and Acceptance of the Terms**
 
 1.1 Your access to and use of the Sites and Alibaba.com’s services, software and products through the Sites, which shall include the platforms described in clause 7.1 of the Terms (such services, software and products collectively referred to as the “**Services**” hereinafter) is subject to the terms and conditions contained in this document as well as the [Privacy Policy](https://rule.alibaba.com/rule/detail/2034.htm) (defined in clause 3.3 below), the [Product Listing Policy](https://rule.alibaba.com/rule/detail/2047.htm?spm=a271m.8038972.0.0.7d0e495bPfQfya) and any other rules and policies of the Sites that Alibaba.com may publish from time to time.  This document and such other rules and policies of the Sites are collectively referred to below as the “**Terms**”.  By accessing and use of the Sites and Services, you agree to accept and be bound by the Terms.  Please do not access or use the Services or the Sites if you do not accept all of the Terms.   
  
 
-1.2 You may not access or use the Services or the Sites and may not accept the Terms if (a) you are not of legal age to form a binding contract with Alibaba.com, or (b) you are not permitted to receive any Services under the laws of Hong Kong or other countries / regions including the country / region in which you are resident or from which you access and use the Services and the Sites.
+1.2 You may not access or use the Services or the Sites and may not accept the Terms if (a) you are not of legal age to form a binding contract with Alibaba.com, or (b) you are not permitted to receive any Services under the laws of Hong Kong or other countries/regions including the country/region in which you are resident or from which you access and use the Services and the Sites.
 
 1.3 Alibaba.com may amend any Terms at any time by posting the relevant amended and restated Terms on the Sites.  By continuing to access or use the Services or the Sites, you agree that the amended and restated Terms will apply to you.  
  
@@ -24,7 +24,7 @@ Welcome to www.alibaba.com and www.aliexpress.com!  These Terms of Use describe
 
 1.6 The Terms may not otherwise be modified except in writing by an authorized officer of Alibaba.com. 
 
-**2\. Provision of Services**
+1.  **Provision of Services**
 
 2.1  If you are a registered member of any of the Sites, and you are from mainland China, you are contracting with Hangzhou Alibaba Advertising Co., Ltd.
 
@@ -63,7 +63,7 @@ a) for Users who access or use Sites relating to the Alibaba e-commerce platform
 b) for Users who access or use Sites relating to the AliExpress e-commerce platforms, the [Aliexpress.com Privacy Policy](https://helppage.aliexpress.com/buyercenter/questionAnswer.htm?spm=a2g19.helppage_7aypo.0.0.4725150bh7ob3A&isRouter=0&viewKey=1&id=1000099018&categoryIds=9205401&lang=ru)), or the [Privacy Policy of “www.aliexpress.ru” and “www.tmall.ru”](https://sell.aliexpress.com/ru/__pc/Zj6CxW2d6V.htm)  (collectively, the “Privacy Policy”).  
  
 
-3.4 Alibaba.com may allow Users to access content, products, or services offered by third parties through hyperlinks (in the form of word links, banners, channels, or otherwise), API, or otherwise to such third parties' websites. You are cautioned to read such websites' terms and conditions and/or privacy policies before using the Sites. You acknowledge that Alibaba.com has no control over such third parties' websites, does not monitor such websites, and shall not be responsible or liable to anyone for such websites, or any content, products, or services made available on or through such websites.  
+3.4 Alibaba.com may allow Users to access to content, products or services offered by third parties through hyperlinks (in the form of word link, banners, channels or otherwise), API or otherwise to such third parties' web sites. You are cautioned to read such web sites' terms and conditions and/or privacy policies before using the Sites. You acknowledge that Alibaba.com has no control over such third parties' web sites, does not monitor such web sites, and shall not be responsible or liable to anyone for such web sites, or any content, products or services made available on or through such web sites.  
  
 
 3.5 You agree not to undertake any action to undermine the integrity of the computer systems or networks of Alibaba.com and/or any other User nor to gain unauthorized access to such computer systems or networks. 
@@ -74,7 +74,7 @@ b) for Users who access or use Sites relating to the AliExpress e-commerce pl
 
 **4\. Member Accounts**
 
-4.1 User must be registered on the Sites to access or use some Services (a registered User is also referred to as a “**Member**” below). Except with Alibaba.com’s approval, one User may only register one member account on the Sites. Alibaba.com may cancel or terminate a User’s member account if Alibaba.com has reasons to suspect that the User has concurrently registered or is in control of two or more member accounts. Further, Alibaba.com may reject the User’s application for registration for any reason.
+4.1 User must be registered on the Sites to access or use some Services (a registered User is also referred to as a “**Member**” below). Except with Alibaba.com’s approval, one User may only register one member account on the Sites. Alibaba.com may cancel or terminate a User’s member account if Alibaba.com has reasons to suspect that the User has concurrently registered or is in control of two or more member accounts. Further, Alibaba.com may reject User’s application for registration for any reason.
 
 4.2 Upon registration on the Sites, Alibaba.com shall assign an account and issue a member ID and password (the latter shall be chosen by a registered User during registration) to each registered User. An account may have a web-based email account with limited storage space for the Member to send or receive emails. 
 
@@ -134,19 +134,17 @@ l) not engage in any activities that would otherwise create any liability for Al
 
 5.13 Each Member represents, warrants and agrees that 
 
-a) you and your affiliates shall comply with applicable laws and regulations in conducting your respective      business (including without limitation applicable laws and regulations with respect to product safety, intellectual property rights, data privacy, consumer protection, product or regulatory certification, import and export control, unfair competition, price gouging, false advertising, labor, environment, health and safety, anti-bribery and anti-money laundering).
+(a)     you and your affiliates shall comply with applicable laws and regulations in conducting your respective business (including without limitation applicable laws and regulations with respect to product safety, intellectual property rights, data privacy, consumer protection, product or regulatory certification, import and export control, unfair competition, price gouging, false advertising, labor, environment, health and safety, anti-bribery and anti-money laundering).
 
-b) you and your affiliates are not the subject of any trade restrictions, sanctions or other legal restrictions enacted or proposed to be enacted by any country, international organization or jurisdiction ("Relevant Subjects");
+(b)     you and your affiliates are not the subject of any trade restrictions, sanctions or other legal restrictions enacted or proposed to be enacted by any country, international organization or jurisdiction ("Relevant Subjects");
 
-c) you and your affiliates are not offering products or services that would likely trigger any international trade restrictions, sanctions or other legal restrictions by any Relevant Subjects;
+(c)     you and your affiliates are not offering products or services that would likely trigger any international trade restrictions, sanctions or other legal restrictions by any Relevant Subjects;
 
-d) neither you, or any of your parent companies or affiliates, directly or indirectly, deals with, or provides any funds, goods or services to Relevant Subjects;
+(d)     neither you, or any of your parent companies or affiliates, directly or indirectly, deals with, or provides any funds, goods or services to Relevant Subjects;
 
-e)  you will at all times comply with all applicable export control and sanctions laws and regulations with regard to products, services, software and technologies in using the Services, including sanctions resolutions, laws and regulations enacted and enforced by the UN Security Council, the People's Republic of China, the United States of America, and any other country; 
+(e)     you will at all times comply with all applicable export control and sanctions laws and regulations with regard to products, services, software and technologies in using the Services, including sanctions resolutions, laws and regulations enacted and enforced by the UN Security Council, the People's Republic of China, the United States of America, and any other country; and
 
-f) If you and your affiliates are a Seller of products which require a warning under California Health & Safety Code Section 25249.6 (a "Proposition 65 Warning”) you (a) will promptly display a Proposition 65 Warning on the product detail page as required under the relevant law; (b) authorize Alibaba.com to display a Proposition 65 Warning on your behalf; and (c) will only revise or remove a Proposition 65 Warning for a product when the prior warning needs to be modified or is no longer legally required, as the case may be; and
-
-g) You and your affiliates are responsible for your products compliance with the laws and regulations of the country/region of destination, including with relevant labor laws and standards. If a product is not permitted in one or more markets, Sites reserve the right to remove the product listing from, OR STOP THE SALE OF ANY SUCH PRODUCT IN, those markets.
+(f)  If you and your affiliates are a Seller of products which require a warning under California Health & Safety Code Section 25249.6 (a "Proposition 65 Warning”) you (a) will promptly display a Proposition 65 Warning on the product detail page as required under the relevant law; (b) authorize Alibaba.com to display a Proposition 65 Warning on your behalf; and (c) will only revise or remove a Proposition 65 Warning for a product when the prior warning needs to be modified or is no longer legally required, as the case may be.
 
 If, at any time, you fail to meet any of the above requirements, you should stop using the Services immediately. If Alibaba.com reasonably believes that any of your conduct violates or threatens to violate any applicable laws and regulations, Alibaba.com may, at its sole discretion, at any time take action as it may deem appropriate in light of the circumstances, including, but not limited to, terminating the provision of Services to you, closing relevant purchase orders, and terminating your accounts, while reserving all rights it may have regarding any non-compliant actions or conduct of its members.
 
