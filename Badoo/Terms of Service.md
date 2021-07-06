@@ -191,7 +191,7 @@ No. If you act in a way that upsets other users then you have to be responsible 
 
 Nothing in the Terms limits or excludes our liability for:
 
-1.  death or personal injury caused by their proven negligence;
+1.  death or personal injury caused by our proven negligence;
 2.  fraud or fraudulent misrepresentation; or
 3.  any liability which cannot be limited or excluded by law.
 
