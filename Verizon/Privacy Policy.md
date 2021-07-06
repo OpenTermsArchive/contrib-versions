@@ -51,11 +51,11 @@ Open all Close all
     
     How you use our websites and apps
     
-    This includes information about your browsing, searching and buying activities; IP address, mobile phone number, device numbers and identifiers, web addresses of the sites you come from and go to next, screen recordings, browser and operating system information, platform type, connection speed and other attributes.  
+    This includes information about your browsing, searching and buying activities such as your IP address, mobile phone number, device numbers and identifiers, web addresses of the sites you come from and go to next, screen recordings, cursor movements, screen interactions and clicks, browser and operating system information, platform type, connection speed and other attributes.  
     
     How our network and your devices are working
     
-    Our network equipment monitors conditions such as traffic flow, speed, capacity, power, and environmental conditions such as nearby Wi-Fi access points. We may also collect test information from or take pictures of equipment we install or repair.
+    We monitor the condition of our networks including Fios Internet Wi-Fi, such as traffic flow, speed, capacity, power, and environmental conditions such as nearby Wi-Fi access points. We may also collect test information from or take pictures of equipment we install or repair.
     
     Some Verizon wireless devices include system applications we provide to:
     
@@ -158,7 +158,7 @@ Open all Close all
     
     | Information: | Additional uses: |
     | --- | --- |
-    | Clicks, opens and other interactions with our advertisements, emails, sites and apps | *   To personalize your experiences and make our marketing more relevant to you<br>*   To help you when you request assistance with website or app navigation |
+    | Clicks, opens and other interactions with our advertisements, emails, sites and apps | *   To personalize your experiences and make our marketing more relevant to you<br>*   To help you when you request assistance with website or app navigation<br>*   To protect you and us against fraud |
     | Location obtained from system applications on your mobile devices | *   To assist with locating you in an emergency <br>*   To help improve location accuracy in our services and apps<br>*   To provide you with updates to system and Verizon applications |
     | Information from your calls and chats with our service and support representatives | *   To help train employees and support resources and systems to better serve you<br>*   To provide customized technical support<br>*   To assist you with device settings |
     | Employment and grant applications and surveys | *   For the purpose for which you provide it, or as described at the time when you submitted the information. |
@@ -174,6 +174,7 @@ Open all Close all
     
     *   To personalize your experiences and make our marketing more relevant to you
     *   To help you when you request assistance with website or app navigation
+    *   To protect you and us against fraud
     
     Information:
     
@@ -299,6 +300,8 @@ Open all Close all
     ### We share information with vendors and partners.
     
     We use vendors and partners to help us offer, provide, repair, restore and bill for services. We share information with them as necessary for them to perform work for us. They are required to protect information they receive from us or collect on our behalf and use it only for the purposes we allow.
+    
+    We share information about your devices’ 5G connectivity with mobile device operating system providers and app developers so that they can optimize your 5G experience. 
     
     We also share de-identified information with companies to assist with the delivery of advertising campaigns or aggregate reports.
     
@@ -506,7 +509,7 @@ Open all Close all
     **Relevant Online Advertising**  
     To opt out of participating in the Relevant Online Advertising program:
     
-    *   Go to the Services area of My Verizon
+    *   Go to the Services area of My Verizon online
     *   Click on Internet
     *   Select the Manage Online Advertising Preferences link within My Internet Service
     
@@ -515,7 +518,7 @@ Open all Close all
     **Relevant TV Advertising**  
     To opt out of participating in Relevant TV advertising:
     
-    *   Go to the Services area of My Verizon
+    *   Go to the Services area of My Verizon online
     *   Click on TV
     *   Select the Manage TV Advertising Preferences link within My TV Service
     
@@ -701,6 +704,8 @@ Open all Close all
     
     If you have questions about your rights under CCPA, you can email us at vz.ccpa@verizon.com.
     
+    **Reporting.** You can access our [2020 Record-Keeping report](https://www.verizon.com/about/privacy/ccpa-reporting) to find out more about the CCPA requests we received during the year. 
+    
     ### Additional California Privacy Rights
     
     California customers may [request](#), once per year, that we disclose the identity of any third parties with whom we have shared personal information for the third parties’ direct marketing purposes within the previous calendar year, along with the type of personal information disclosed. 
@@ -782,7 +787,7 @@ Open all Close all
     
     We may make changes to this privacy policy, so please check back periodically. You will be able to see that we made changes by checking the effective date below. You can also read about [recent changes](https://www.verizon.com/about/privacy/changes-privacy-policy) . If we decide to use or disclose information that identifies you personally in a way that is materially different from what we stated in our privacy policy at the time we collected that information from you, we will give you a choice about the new use or disclosure by appropriate means, which may include an opportunity to opt-out.
     
-    Updated April, 2021
+    Updated June, 2021
     
     © 2021 Verizon. All rights reserved.
     
