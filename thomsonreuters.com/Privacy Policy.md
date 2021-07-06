@@ -314,6 +314,8 @@ California residents also have certain rights regarding the sale of personal inf
 
 We will not discriminate against you because you have exercised any of your privacy rights under the CCPA.
 
+[CCPA Consumer Request Metrics for 2020](https://www.thomsonreuters.com/en/ccpa-privacy-information.html "CCPA Consumer Request Metrics for 2020")
+
 * * *
 
 Thomson Reuters supplemental Privacy Statement for cookie & IBA policy
