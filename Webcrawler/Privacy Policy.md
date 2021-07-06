@@ -235,7 +235,7 @@ It is our policy to post any changes we make to our Policy on this page. If we m
 
 To ask questions or comment about this Policy and our privacy practices, contact us at:
 
-![](https://admin.system1.com/wp-content/uploads/2021/06/contact-email.png)
+![contact email](https://live.staticflickr.com/65535/51279138446_6888cfd008_o.png)
 
 Attn: Privacy Officer  
 1401 Main Street  
