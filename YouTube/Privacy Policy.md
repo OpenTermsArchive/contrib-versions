@@ -11,7 +11,7 @@ Looking to change your privacy settings?
 
 [Take the Privacy Checkup](https://myaccount.google.com/privacycheckup?utm_source=pp&utm_medium=Promo-in-product&utm_campaign=pp_intro)
 
-Effective February 4, 2021 | [Archived versions](https://policies.google.com/privacy/archive) | [Download PDF](https://www.gstatic.com/policies/privacy/pdf/20210204/3jla0xz1/google_privacy_policy_en_eu.pdf)
+Effective July 1, 2021 | [Archived versions](https://policies.google.com/privacy/archive) | [Download PDF](https://www.gstatic.com/policies/privacy/pdf/20210701/7yn50xee/google_privacy_policy_en_eu.pdf)
 
 Contents
 --------
@@ -111,7 +111,7 @@ The types of location data we collect depend in part on your device and account 
 
 * * *
 
-In some circumstances, Google also collects information about you from [publicly accessible sources](https://policies.google.com/privacy#footnote-sources). For example, if your name appears in your local newspaper, Google’s Search engine may index that article and display it to other people if they search for your name. We may also collect information about you from trusted partners, including marketing partners who provide us with information about potential customers of our business services, and security partners who provide us with information to [protect against abuse](https://policies.google.com/privacy#footnote-against-abuse). We also receive information from advertisers to provide [advertising and research services on their behalf](https://policies.google.com/privacy#footnote-ad-services).
+In some circumstances, Google also collects information about you from [publicly accessible sources](https://policies.google.com/privacy#footnote-sources). For example, if your name appears in your local newspaper, Google’s Search engine may index that article and display it to other people if they search for your name. We may also collect information about you from trusted partners, such as directory services who provide us with business information to be displayed on Google’s services, marketing partners who provide us with information about potential customers of our business services, and security partners who provide us with information to [protect against abuse](https://policies.google.com/privacy#footnote-against-abuse). We also receive information from advertisers to provide [advertising and research services on their behalf](https://policies.google.com/privacy#footnote-ad-services).
 
 We use various technologies to collect and store information, including [cookies](https://policies.google.com/privacy#footnote-cookies), [pixel tags](https://policies.google.com/privacy#footnote-pixel), local storage, such as [browser web storage](https://policies.google.com/privacy#footnote-browser-storage) or [application data caches](https://policies.google.com/privacy#footnote-application-data-cache), databases, and [server logs](https://policies.google.com/privacy#footnote-server-logs).
 
@@ -141,6 +141,7 @@ We use the information we collect to customize our services for you, including p
 Depending on your settings, we may also show you [personalized ads](https://policies.google.com/privacy#footnote-personalized-ads) based on your interests. For example, if you search for “mountain bikes,” you may see an ad for sports equipment when you’re browsing a site that shows ads served by Google. You can control what information we use to show you ads by visiting your ad settings.
 
 *   We don’t show you personalized ads based on [sensitive categories](https://policies.google.com/privacy#footnote-sensitive-categories), such as race, religion, sexual orientation, or health.
+*   We don’t show you personalized ads based on your content from Drive, Gmail, or Photos.
 *   We don’t share information that personally identifies you with advertisers, such as your name or email, unless you ask us to. For example, if you see an ad for a nearby flower shop and select the “tap to call” button, we’ll connect your call and may share your phone number with the flower shop.
 
 [Go to Ad Settings](https://adssettings.google.com/?utm_source=pp)
@@ -372,7 +373,12 @@ European requirements
 
 If European Union (EU) or United Kingdom (UK) data protection law applies to the processing of your information, we provide the controls described in this policy so you can exercise your right to request access to, update, remove, and restrict the processing of your information. You also have the right to object to the processing of your information or export your information to another service.
 
-For users based in the European Economic Area or Switzerland, the data controller responsible for your information is Google Ireland Limited, unless otherwise stated in a service-specific privacy notice. In other words, Google Ireland Limited is the Google affiliate that is responsible for processing your information and for complying with applicable privacy laws.
+Unless otherwise stated in a service-specific privacy notice, the [data controller responsible for processing your information](https://policies.google.com/privacy#footnote-data-controller) depends on where you are based:
+
+*   Google Ireland Limited for users of Google services based in the European Economic Area or Switzerland
+*   Google LLC for users of Google services based in the United Kingdom
+
+Google LLC is the data controller responsible for processing information indexed and displayed in services like [Google Search](https://www.google.com/search/howsearchworks/crawling-indexing/) and Google Maps regardless of your location.
 
 We process your information for the purposes described in this policy, based on the following legal grounds:
 
@@ -438,7 +444,7 @@ The following privacy notices provide additional information about some Google s
 *   [Payments](https://payments.google.com/legaldocument?family=0.privacynotice&hl=en)
 *   [Fiber](https://fiber.google.com/legal/privacy.html)
 *   [Google Fi](https://fi.google.com/about/tos/#project-fi-privacy-notice)
-*   [G Suite for Education](https://www.google.com/work/apps/terms/education_privacy.html)
+*   [Google Workspace for Education](https://workspace.google.com/terms/education_privacy.html)
 *   [Read Along](https://readalong.google/intl/en_FR/privacy)
 *   [YouTube Kids](https://kids.youtube.com/privacynotice)
 *   [Google Accounts Managed with Family Link, for Children under 13 (or applicable age in your country)](https://families.google.com/familylink/privacy/child-policy/)
@@ -577,6 +583,10 @@ For example, when you’re signed in to your Google Account and have the Web & A
 
 For example, we may display a Google Doodle on the Search homepage to celebrate an event specific to your country.
 
+### data controller responsible for processing your information
+
+This means the Google affiliate that is responsible for processing your information and for complying with applicable privacy laws.
+
 ### deliver our services
 
 Examples of how we use your information to deliver our services include:
@@ -643,7 +653,7 @@ For example, information about security threats can help us notify you if we thi
 
 ### publicly accessible sources
 
-For example, we may collect information that’s publicly available online or from other public sources to help train Google’s language models and build features like Google Translate.
+For example, we may collect information that’s publicly available online or from other public sources to help train Google’s language models and build features like Google Translate. Or, if your business’s information appears on a website, we may index and display it on Google services.
 
 ### rely on cookies to function properly
 
