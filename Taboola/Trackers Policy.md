@@ -76,6 +76,15 @@ You can find more information about the individual cookies used on our Sites, an
 | initialTrafficSource | Saves the first traffic source that initially drove the user to Taboola’s website |
 | utmzzses | Saves the first traffic source that initially drove the user to Taboola’s website |
 | lastTrafficSource | Saves the last traffic source that drove the user to Taboola’s website |
+| GA\_Count\_Countries\_\_c | Counts the number of different counties a certain user was browsing from |
+| GA\_Last\_Browser\_\_c | Save the user’s browser name |
+| GA\_Last\_Device\_Category\_\_c | Save the user’s device type (Mobile/Desktop) |
+| GA\_Last\_Operating\_System\_\_c | Save the user’s OS |
+| GA\_Number\_of\_Events\_Form\_Engagement\_\_c | Counts the number of form intarctions |
+| GA\_Number\_of\_events\_Website\_Buttons\_\_c | Counts the number of button clicks |
+| GA\_Number\_of\_Events\_Youtube\_Embedded\_\_c | Counts the number of embedded Youtube interactions |
+| GA\_Number\_of\_Pages\_\_c | Counts the number of pageviews |
+| GA\_Number\_of\_Sessions\_\_c | Counts the number of sessions |
 
 **THIRD-PARTY COOKIES ON TABOOLA’S SITES** 
 
