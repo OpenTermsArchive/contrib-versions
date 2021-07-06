@@ -6,7 +6,7 @@ Privacy Notice/Notice At Collection
 Privacy Notice /Notice At Collection – Highlights 
 --------------------------------------------------
 
-Last Updated: February 9, 2021
+Last Updated: July 1, 2021
 
 When you use or interact with a U.S. website, mobile app or other digital service (each a “**Digital Service**”) operated or owned by Hearst Magazine Media, Inc. or its affiliates, we and third parties may obtain certain information about you. In this Highlights section, we provide an overview of our privacy practices related to the Digital Services. Please review our full [Privacy Notice](#_PRIVACY_NOTICE) below for a detailed explanation of our practices. 
 
@@ -67,7 +67,7 @@ If you have questions about our Privacy Notice you can contact us by email at [
 **PRIVACY NOTICE/NOTICE AT COLLECTION**
 ---------------------------------------
 
-**Last Updated:** February 9, 2021
+**Last Updated:** July 1, 2021
 
 1.  [Introduction](#_INTRO)
 2.  [What Information We Obtain](#_WHAT_INFO)
@@ -299,6 +299,8 @@ Residents of California may have the following rights:
 4.  **Right to be free from discrimination.** You may exercise any of the above rights without fear of being discriminated against. We are permitted to provide a different price or rate to you if the difference is directly related to the value provided to you by your data.
 
 We use the information you provide to make your CCPA rights requests to verify your identity, locate the personal information we may hold about you and act upon your request. We strongly recommend that you submit the email and postal address that you used when you created accounts, ordered subscriptions or signed up for a newsletter. ** After you submit a CCPA rights request, you will be required to verify access to the email address you submitted.  You will receive an email with a follow-up link to complete your email verification process.  You are required to verify your email in order for us to proceed with your CCPA rights requests.  Please check your spam or junk folder in case you can't see the verification email in your inbox.**  If you are a California resident and have any questions regarding your CCPA rights under this Privacy Notice, please contact us at [ccpamagsrequests@hearst.com](mailto:ccpamagsrequests@hearst.com). 
+
+To view our CCPA request statistics, please visit our [CCPA Statistics page](https://www.hearst.com/us-magazines-CCPA-Statistics).
 
 **Authorized Agents**  
 For any of the CCPA rights, you may designate an authorized agent to make a request on your behalf. In the request, you or your authorized agent must provide information sufficient for us to verify the identity of your agent and that your agent has been properly authorized to act on your behalf;  this may take additional time to fulfill your request. If you are an authorized agent working on behalf of a consumer, you will need to fill out the relevant CCPA request form listed above on behalf of the consumer with the consumer’s information. Please note that the consumer you are working on behalf of must have a California postal address and will need to verify access to the email account used to submit the CCPA request in order for us to move forward with processing the request.
