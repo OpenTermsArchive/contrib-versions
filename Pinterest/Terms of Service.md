@@ -102,7 +102,7 @@ Thank you for using Pinterest!
     
     **More simply put**
     
-    You can help us fight spammers by keeping [these security tips](https://help.pinterest.com/en/articles/account-security-and-hacked-accounts) in mind.
+    You can help us fight spammers by keeping [these security tips](https://help.pinterest.com/articles/account-security-and-hacked-accounts) in mind.
     
 
 6\. Third party links, sites, and services
