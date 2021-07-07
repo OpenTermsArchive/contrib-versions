@@ -155,7 +155,7 @@ HSBC has access to this information to use for reporting, insights and marketing
 
 This helps HSBC improve our offering on Facebook and create better marketing. HSBC may also see this information if HSBC has communicated with you on Facebook. HSBC does this because it helps us know who we’re speaking to.
 
-If you’ve allowed us to use cookies that support our marketing, HSBC and Facebook can collect this information when you use HSBC’s site too. To learn more, or to switch this off, please visit our Cookie notice at [https://www.hsbc.com/cookie-notice](https://www.hsbc.com/news-and-media/social-media/find-us-on-social-media). You can control which cookies you allow by selecting “Manage Cookies”.
+If you’ve allowed us to use cookies that support our marketing, HSBC and Facebook can collect this information when you use HSBC’s site too. To learn more, or to switch this off, please visit our Cookie notice at [https://www.hsbc.com/cookie-notice](https://www.hsbc.com/cookie-notice). You can control which cookies you allow by selecting “Manage Cookies”.
 
 Within the European Union, Facebook Ireland is a ‘joint controller’ with us in law for processing where we collect information about you:
 
