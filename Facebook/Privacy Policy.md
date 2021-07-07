@@ -47,11 +47,11 @@ Information that we obtain from these devices includes:
 
 Information from partners.
 
-Advertisers, [app](https://www.facebook.com/help/1642635852727373?ref=dp) developers and publishers can send us information through [Facebook Business tools](https://www.facebook.com/help/331509497253087) that they use, including our social plug-ins (such as the Like button), Facebook Login, our [APIs and SDKs](https://developers.facebook.com/docs/apis-and-sdks), or the Facebook [pixel](https://www.facebook.com/business/a/facebook-pixel). These partners provide information about your activities off Facebook – including information about your device, websites you visit, purchases you make, the ads you see and how you use their services – whether or not you have a Facebook account or are logged in to Facebook. For example, a game developer could use our API to tell us what games you play, or a business could tell us about a purchase you made in its shop. We also receive information about your online and offline actions and purchases from third-party data providers who have the rights to provide us with your information.  
+Advertisers, [app](https://www.facebook.com/help/1642635852727373?ref=dp) developers and publishers can send us information through [Facebook Business tools](https://www.facebook.com/help/331509497253087) that they use, including our social plugins (such as the Like button), Facebook Login, our [APIs and SDKs](https://developers.facebook.com/docs/apis-and-sdks), or the Facebook [pixel](https://www.facebook.com/business/a/facebook-pixel). These partners provide information about your activities off Facebook – including information about your device, websites you visit, purchases you make, the ads you see and how you use their services – whether or not you have a Facebook account or are logged in to Facebook. For example, a game developer could use our API to tell us what games you play, or a business could tell us about a purchase you made in its shop. We also receive information about your online and offline actions and purchases from third-party data providers who have the rights to provide us with your information.  
   
 Partners receive your data when you visit or use their services, or through third parties that they work with. We require each of these partners to have lawful rights to collect, use and share your data before providing us with any data. [Learn more](https://www.facebook.com/help/494750870625830?ref=dp) about the types of partners we receive data from.  
   
-To learn more about how we use cookies in connection with Facebook Business Tools, review the [Facebook Cookie Policy](https://www.facebook.com/policies/cookies) and [Instagram Cookie Policy](https://www.instagram.com/legal/cookies/).
+To learn more about how we use cookies in connection with Facebook Business tools, review the [Facebook Cookie Policy](https://www.facebook.com/policies/cookies) and [Instagram Cookie Policy](https://www.instagram.com/legal/cookies/).
 
 ### How do we use this information?
 
@@ -59,7 +59,7 @@ We use the information that we have (subject to choices you make) as described b
 
 Provide, personalise and improve our Products.
 
-We use the information we have to deliver our Products, including to personalise features and content (including your [News Feed](https://www.facebook.com/help/166738576721085?ref=dp), [Instagram Feed](https://help.instagram.com/1986234648360433?ref=dp), Instagram Stories and ads) and make suggestions for you (such as groups or [events](https://www.facebook.com/help/1076296042409786?ref=dp) that you may be interested in or topics that you may want to follow) on and off our Products. To create personalised Products that are unique and relevant to you, we use your connections, preferences, interests and activities based on the data that we collect and learn from you and others (including any [data with special protections](#data-special-protections) that you choose to provide where you have given your explicit consent); how you use and interact with our Products; and the people, places or things that you're connected to and interested in on and off our Products. Learn more about how we use information about you to personalise your Facebook and Instagram experience, including features, content and recommendations in Facebook Products; you can also learn more about how we choose the [ads](https://www.facebook.com/about/ads) that you see.
+We use the information we have to deliver our Products, including to personalise features and content (including your [News Feed](https://www.facebook.com/help/166738576721085?ref=dp), [Instagram feed](https://help.instagram.com/1986234648360433?ref=dp), Instagram Stories and ads) and make suggestions for you (such as groups or [events](https://www.facebook.com/help/1076296042409786?ref=dp) you may be interested in or topics you may want to follow) on and [off our Products](https://www.facebook.com/help/119468292028768?ref=shareable). To create personalised Products that are unique and relevant to you, we use your connections, preferences, interests and activities based on the data that we collect and learn from you and others (including any [data with special protections](#data-special-protections) that you choose to provide where you have given your explicit consent); how you use and interact with our Products; and the people, places or things that you're connected to and interested in on and off our Products. Learn more about how we use information about you to personalise your Facebook and Instagram experience, including features, content and recommendations in Facebook Products; you can also learn more about how we choose the [ads](https://www.facebook.com/about/ads) that you see.
 
 *   **Information across Facebook Products and devices:** We connect information about your activities on different Facebook Products and devices to provide a more tailored and consistent experience on all Facebook Products that you use, wherever you use them. For example, we can suggest that you join a group on Facebook that includes people you follow on Instagram or communicate with using Messenger. We can also make your experience more seamless, for example, by automatically filling in your registration information (such as your phone number) from one Facebook Product when you sign up for an account on a different Product.
     
@@ -74,19 +74,19 @@ We use the information we have to deliver our Products, including to personalise
 
 Providing measurement, analytics and other business services.
 
-We use the information we have (including your activity off our Products, such as the websites you visit and ads you see) to help advertisers and other partners measure the effectiveness and distribution of their ads and services, and understand the types of people who use their services and how people interact with their websites, apps and services. [Learn how we share information](#sharing-partner-information) with these partners.
+We use the information that we have (including your activity off our Products, such as the websites you visit and ads you see) to help advertisers and other partners measure the effectiveness and distribution of their ads and services, and understand the types of people who use their services and how people interact with their websites, apps and services. [Learn how we share information](#sharing-partner-information) with these partners.
 
-Promote safety, integrity and security.
+Promoting safety, integrity and security.
 
-We use the information that we have to verify accounts and activity, combat harmful conduct, detect and prevent spam and other bad experiences, maintain the integrity of our Products, and promote safety and security on and off Facebook Products. For example, we use data that we have to investigate suspicious activity or breaches of our Terms or Policies, or to [detect when someone needs help](https://code.facebook.com/posts/286893341840510/under-the-hood-suicide-prevention-tools-powered-by-ai/). To learn more, visit the [Facebook Security Help Centre](https://www.facebook.com/help/379220725465972?ref=dp) and [Instagram Security Tips](https://help.instagram.com/369001149843369).
+We use the information that we have to verify accounts and activity, combat harmful conduct, detect and prevent spam and other bad experiences, maintain the integrity of our Products, and promote safety and security on and off of Facebook Products. For example, we use data that we have to investigate suspicious activity or violations of our Terms or Policies, or to [detect when someone needs help](https://code.facebook.com/posts/286893341840510/under-the-hood-suicide-prevention-tools-powered-by-ai/). To learn more, visit the [Facebook Security Help Centre](https://www.facebook.com/help/379220725465972?ref=dp) and [Instagram Security Tips](https://help.instagram.com/369001149843369).
 
 Communicate with you.
 
 We use the information that we have to send you marketing communications, communicate with you about our Products and let you know about our Policies and Terms. We also use your information to respond to you when you contact us.
 
-Research and innovate for social good.
+Researching and innovating for social good.
 
-We use the information we have (including from research partners we collaborate with) to conduct and support [research](https://research.fb.com/) and innovation on topics of general social welfare, technological advancement, public interest, health and well-being. For example, [we analyse information that we have about migration patterns during crises](https://research.fb.com/facebook-disaster-maps-methodology/) to aid relief efforts. [Learn more](https://research.fb.com/) about our research programmes.
+We use the information that we have (including from research partners we collaborate with) to conduct and support [research](https://research.fb.com/) and innovation on topics of general social welfare, technological advancement, public interest, health and well-being. For example, [we analyse information we have about migration patterns during crises](https://research.fb.com/facebook-disaster-maps-methodology/) to aid relief efforts. [Learn more](https://research.fb.com/) about our research programmes.
 
 ### How is this information shared?
 
@@ -117,7 +117,7 @@ Apps, websites and third-party integrations on or using our Products.
 
 When you choose to use third-party apps, websites or other services that use, or are integrated with, our Products, they can receive information about what you post or share. For example, when you play a game with your Facebook friends or use a Facebook Comment or Share button on a website, the game developer or website can receive information about your activities in the game or receive a comment or link that you share from the website on Facebook. Also, when you download or use such third-party services, they can access your [public profile](https://www.facebook.com/help/203805466323736?ref=dp) on Facebook, and any information that you share with them. Apps and websites that you use may receive your list of Facebook friends if you choose to share it with them. But apps and websites that you use will not be able to receive any other information about your Facebook friends from you, or information about any of your Instagram followers (although your friends and followers may, of course, choose to share this information themselves). Information collected by these third-party services is subject to their own terms and policies, not this one.  
   
-Devices and operating systems providing native versions of Facebook and Instagram (i.e. where we have not developed our own first-party apps) will have access to all information that you choose to share with them, including information that your friends share with you, so they can provide our core functionality to you.  
+Devices and operating systems providing native versions of Facebook and Instagram (i.e. where we have not developed our own first-party apps) will have access to all information that you choose to share with them, including information that your friends share with you, so that they can provide our core functionality to you.  
   
 _Note: We are in the process of restricting developers' data access even further to help prevent abuse. For example, we will remove developers' access to your Facebook and Instagram data if you haven't used their app in three months, and we are changing login, so that in the next version, we will reduce the data that an app can request without app review to include only name, Instagram username and bio, profile photo and email address. Requesting any other data will require our approval._
 
@@ -129,7 +129,7 @@ If the ownership or control of all or part of our Products or their assets chang
 
 Sharing with third-party partners
 
-We work with third-party partners who help us provide and improve our Products or who use Facebook Business Tools to grow their businesses, which makes it possible to operate our companies and provide free services to people around the world. We don't sell any of your information to anyone and we never will. We also impose strict restrictions on how our partners can use and disclose the data we provide. Here are the types of third parties that we share information with:  
+We work with third-party partners who help us and improve our Products or who use Facebook Business tools to grow their businesses, which makes it possible to operate our companies and provide free services to people around the world. We don't sell any of your information to anyone and we never will. We also impose strict restrictions on how our partners can use and disclose the data we provide. Here are the types of third parties that we share information with:  
 
 Partners who use our analytics services.
 
@@ -200,7 +200,7 @@ Under the General Data Protection Regulation, you have the right to access, rect
 
 We store data until it is no longer necessary to provide our services and Facebook Products or until your account is deleted – whichever comes first. This is a case-by-case determination that depends on things such as the nature of the data, why it is collected and processed, and relevant legal or operational retention needs. For example, when you search for something on Facebook, you can access and delete that query from within your search history at any time, but the log of that search is deleted after six months. If you submit a copy of your government-issued ID for account verification purposes, we delete that copy 30 days after review, unless otherwise stated. Learn more about deletion of [content that you have shared](https://www.facebook.com/help/356107851084108?ref=dp) and [cookie data obtained through social plugins](https://www.facebook.com/help/206635839404055?ref=dp).  
   
-When you delete your account, we [delete things](https://www.facebook.com/help/356107851084108?ref=dp) that you have posted, such as your photos and status updates, and you won't be able to recover this information later. Information that others have shared about you isn't part of your account and won't be deleted. If you don't want to delete your account but want to temporarily stop using the Products, you can deactivate your account instead. To delete your account at any time, please visit the [Facebook settings](https://www.facebook.com/settings) and [Instagram settings](https://www.instagram.com/accounts/privacy_and_security/).
+When you delete your account, we [delete things](https://www.facebook.com/help/356107851084108?ref=dp) that you have posted, such as your photos and status updates, and you won't be able to recover that information later. Information that others have shared about you isn't part of your account and won't be deleted. If you don't want to delete your account but want to temporarily stop using the Products, you can deactivate your account instead. To delete your account at any time, please visit the [Facebook settings](https://www.facebook.com/settings) and [Instagram settings](https://www.instagram.com/accounts/privacy_and_security/).
 
 ### How do we respond to legal requests or prevent harm?
 
@@ -227,7 +227,7 @@ You can learn more about how privacy works [on Facebook](https://www.facebook.co
 
 Contact us
 
-The data controller responsible for your information is Facebook Ireland, which you can[contact online](https://www.facebook.com/help/contact/2061665240770586)or by writing to:
+The data controller responsible for your information is Facebook Ireland, which you can [contact online](https://www.facebook.com/help/contact/2061665240770586)or by writing to:
 
 Facebook Ireland Ltd.  
 4 Grand Canal Square  
