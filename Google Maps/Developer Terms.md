@@ -270,6 +270,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   Métropole Nice Côte d'Azur : [source](https://opendata.nicecotedazur.org/data/dataset/export-quotidien-au-format-gtfs-du-reseau-de-transport-lignes-d-azur)
             
+        *   Toulouse Métropole : [source](https://data.toulouse-metropole.fr/explore/dataset/tisseo-gtfs/information/)
+            
+        *   Conseil départemental de la Haute-Garonne : [source](https://data.haute-garonne.fr/explore/dataset/lignes-regulieres-format-gtfs/information/)
+            
     10.  **Germany**
         *   Bundesamt für Kartographie und Geodäsie - © Vermessungsverwaltungen der Bundesländer und Bundesamt für Kartographie und Geodäsie
             
