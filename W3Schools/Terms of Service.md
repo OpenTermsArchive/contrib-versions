@@ -126,6 +126,26 @@ We do not warrant that the quality of any products, services, information, or ot
 
 * * *
 
+Domains
+-------
+
+We are offering a service to our users to purchase domains, which connects to their W3schools Spaces. This enables the user to search, select and purchase a specific domain which will be linked to the Space by automation.
+
+You acknowledge that by purchasing a domain you are the sole owner and have the responsibility to act according to the related terms and conditions.
+
+W3schools are collaborating with third parties such as Amazon and its Route 53 services for registration and distribution of domains. You can read about the related third party terms and conditions agreement here:  
+[https://aws.amazon.com/route53/domain-registration-agreement/](https://aws.amazon.com/route53/domain-registration-agreement/)
+
+The exceptions to this agreement are purchasing and billing, which is handled by W3schools who acts as the distributor. Complaints, claims, concerns, or questions regarding third-party products should be directed to our support channel: support@w3schools.com
+
+Amazon is affiliated with Gandi as a registrar and the specific requirements related to each of the TLDs are available on the [Amazon Registrar policy](http://aws.amazon.com/route53/amazon-registrar-policies/) page and the [Gandi contract page](https://www.gandi.net/en-US/contracts/terms-of-service). Your acceptance of this agreement signifies that you have read, understood, acknowledged and agreed to the agreements, guidelines, policies, procedures, registration requirements or operational standard of the TLD in which you register any domain name. We maintain the right to cancel and withhold the refund if you do not accept the related requirements.
+
+W3Schools are responsible for the purchasing and billing related to the distribution. The domain gets renewed automatically every year and agree that you have understood that you have to actively cancel the renewal to opt out of the service. You can read more about billing in the section Accuracy of Billing and Account Information.
+
+We are not liable or responsible for any harm, errors or omissions related to any actions by the registry administrator, such as request to register or renewal. Please review carefully the third-party's policies and practices and make sure you understand them before you engage in any transaction.
+
+* * *
+
 Accuracy of Billing and Account Information
 -------------------------------------------
 
