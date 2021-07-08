@@ -1,7 +1,7 @@
 Terms of Service
 ----------------
 
-_Last Updated: June 25, 2021_
+_Last Updated: July 7, 2021_
 
 The Gist
 --------
@@ -274,7 +274,7 @@ We may refuse, condition, or suspend any transaction or account (including your 
 
 You authorize us to share data relating to WooCommerce Payments with the applicable payment processing third party for their use in accordance with their privacy policy. Please refer to our privacy policy for details on how we otherwise collect, use, and disclose data made available to us as part of WooCommerce Payments.
 
-We may also offer you the ability to process certain transactions in-person through our In-Person Payments feature. As part of this feature, we may provide you with a point-of-sale (POS) terminal. These POS terminals are manufactured by third parties and are provided “as-is.” When processing transactions in-person, you must give your customers an option to receive a written receipt for any transactions greater than $15.
+We may also offer you the ability to process certain transactions in-person through our In-Person Payments feature. As part of this feature, we may provide you with a point-of-sale (POS) terminal. These POS terminals are manufactured by third parties and are provided “as-is.”
 
 **More on Shipping Services Specifically.** Our shipping Services allow you to check shipping rates or buy shipping labels from certain mailing services, like [UPS](https://www.ups.com/), [USPS](https://www.usps.com/), [DHL](https://www.dhl.com/), and [Canada Post](https://www.canadapost.ca/). We’re only an intermediary between you and these third parties; we aren’t involved in any way with your product or its shipment. We also don’t guarantee that the results you obtain from the use of these services (like rates, labels, or delivery timeframes) will be accurate or reliable.
 
@@ -377,6 +377,6 @@ The Agreement (together with any other terms we provide that apply to any specif
 
 Automattic may assign its rights under the Agreement without condition. You may only assign your rights under the Agreement with our prior written consent.
 
-[Print friendly version](https://en.support.files.wordpress.com/2021/06/tos-06-25-21.pdf)
+[Print friendly version](https://en.support.files.wordpress.com/2021/07/tos-07-07-21.pdf)
 
 [**Change log**](https://wordpress.com/tos-change-log)
