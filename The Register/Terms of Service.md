@@ -1,13 +1,6 @@
 Terms and conditions of use
 ===========================
 
- ![](/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icons/social_share_icon.svg) 
-
- [![reddit](/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icons/reddit_dark.svg)](https://www.reddit.com/submit?url=https%3a%2f%2fwww.theregister.com%2fProfile%2fterms_and_conditions_of_use%2f&title=Terms%20and%20conditions%20of%20use) [ ![Twitter](/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icons/twitter_dark.svg) ](https://twitter.com/share?text=Terms%20and%20conditions%20of%20use&url=https%3a%2f%2fwww.theregister.com%2fProfile%2fterms_and_conditions_of_use%2f&via=theregister) [![Facebook](/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icons/facebook_dark.svg)](https://www.facebook.com/dialog/feed?app_id=727516617265205&display=popup&link=https://www.theregister.com/Profile/terms_and_conditions_of_use/)   
- [![linkedin](/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icons/linkedin_dark.svg)](https://www.linkedin.com/shareArticle?mini=true&url=https%3a%2f%2fwww.theregister.com%2fProfile%2fterms_and_conditions_of_use%2f&title=Terms%20and%20conditions%20of%20use&summary=) [ ![WhatsApp](/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icons/whatsapp_dark.svg) ](https://api.whatsapp.com/send?text=https%3a%2f%2fwww.theregister.com%2fProfile%2fterms_and_conditions_of_use%2f) [![email](/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icons/email_dark.svg)](mailto:?subject=Terms%20and%20conditions%20of%20use&body=re:https%3a%2f%2fwww.theregister.com%2fProfile%2fterms_and_conditions_of_use%2f) 
-
- Copy
-
 Welcome to The Register. The Register is a news organisation owned and operated by Situation Publishing that allows users who have created an account with us (“Members”) to post comments on contributions/articles and to receive newsletters through email subscriptions.
 
 ### 1\. Your acceptance of these Terms
