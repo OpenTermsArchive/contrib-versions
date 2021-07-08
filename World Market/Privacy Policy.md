@@ -4,7 +4,7 @@ Privacy and Security
 World Market Privacy Policy
 ---------------------------
 
-This Privacy Policy describes how Cost Plus World Market (collectively, "Cost Plus," "we," "us," or "our") collects, uses, shares, and safeguards personal information. This Privacy Policy also tells you about your rights and choices with respect to your personal information, and how you can reach us to get answers to your questions.
+This Privacy Policy describes how World Market (collectively, "World Market," "we," "us," or "our") collects, uses, shares, and safeguards personal information. This Privacy Policy also tells you about your rights and choices with respect to your personal information, and how you can reach us to get answers to your questions.
 
 ### Types Of Information We Collect
 
