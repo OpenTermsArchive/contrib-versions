@@ -4,13 +4,6 @@ Privacy Policy
 What we do with your data
 -------------------------
 
- ![](/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icons/social_share_icon.svg) 
-
- [![reddit](/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icons/reddit_dark.svg)](https://www.reddit.com/submit?url=https%3a%2f%2fwww.theregister.com%2fProfile%2fprivacy%2f&title=Privacy%20Policy) [ ![Twitter](/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icons/twitter_dark.svg) ](https://twitter.com/share?text=Privacy%20Policy&url=https%3a%2f%2fwww.theregister.com%2fProfile%2fprivacy%2f&via=theregister) [![Facebook](/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icons/facebook_dark.svg)](https://www.facebook.com/dialog/feed?app_id=727516617265205&display=popup&link=https://www.theregister.com/Profile/privacy/)   
- [![linkedin](/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icons/linkedin_dark.svg)](https://www.linkedin.com/shareArticle?mini=true&url=https%3a%2f%2fwww.theregister.com%2fProfile%2fprivacy%2f&title=Privacy%20Policy&summary=What%20we%20do%20with%20your%20data) [ ![WhatsApp](/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icons/whatsapp_dark.svg) ](https://api.whatsapp.com/send?text=https%3a%2f%2fwww.theregister.com%2fProfile%2fprivacy%2f) [![email](/design_picker/d2e337b97204af4aa34dda04c4e5d56d954b216f/graphics/icons/email_dark.svg)](mailto:?subject=Privacy%20Policy&body=re:https%3a%2f%2fwww.theregister.com%2fProfile%2fprivacy%2f) 
-
- Copy
-
 Last updated at: February 9, 2020
 
 **The Register ("The Register", "our", "we") is owned and operated by [Situation Publishing Limited](https://situationpublishing.com/)**.
