@@ -21,7 +21,7 @@ We also use cookies to understand how customers use our services so we can make 
 
 Approved third parties may also set cookies when you interact with Amazon services. Third parties include search engines, providers of measurement and analytics services, social media networks, and advertising companies. Third parties use cookies in the process of delivering ad content, including ads relevant to your interests, to measure the effectiveness of their ads, and to perform services on behalf of Amazon.
 
-To learn more about how Amazon provides interest-based ads, please visit the [Interest-Based Ads](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=G64JFZVFDY66XG9K) notice. To adjust your interest-based ad preferences, please go to the [Advertising Preferences](https://www.amazon.co.uk/adprefs) page. You can see which approved third parties use cookies and manage how they use cookies by visiting our [Cookie Preferences page](https://www.amazon.co.uk/cookieprefs).
+To learn more about how Amazon provides interest-based ads, please visit the [Interest-Based Ads](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=G64JFZVFDY66XG9K) notice. To adjust your interest-based ad preferences, please go to the [Advertising Preferences](https://www.amazon.co.uk/adprefs) page. You can see which approved third parties use cookies and manage how they use cookies by visiting our [Cookie Preferences page](https://www.amazon.co.uk/cookieprefs)
 
 **Additional Information**
 
