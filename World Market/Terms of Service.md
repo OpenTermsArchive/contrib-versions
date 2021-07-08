@@ -3,7 +3,7 @@ Terms and Conditions
 
 Effective date: June 5, 2019
 
-Thank you for visiting the Cost Plus World Market website (this "website"). This website is owned and operated by Cost Plus, Inc., 1201 Marina Village Parkway, Alameda, CA 94501 ("we," "us," or "the Company").
+Thank you for visiting the World Market website (this "website"). This website is owned and operated by Cost Plus, Inc., 1201 Marina Village Parkway, Alameda, CA 94501 ("we," "us," or "the Company").
 
 Because of the nature of the Internet and our desire to provide you with an enjoyable and helpful visit, it is important to advise you of the rules that apply to your use of our website and ask that you read them carefully. This document (these "Terms and Conditions") is a legally binding agreement between you (including the organization that you represent, if any) and the Company. When you visit or shop at this website you automatically agree to be bound by these Terms and Conditions.
 
