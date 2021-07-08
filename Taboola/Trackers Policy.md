@@ -85,6 +85,7 @@ You can find more information about the individual cookies used on our Sites, an
 | GA\_Number\_of\_Events\_Youtube\_Embedded\_\_c | Counts the number of embedded Youtube interactions |
 | GA\_Number\_of\_Pages\_\_c | Counts the number of pageviews |
 | GA\_Number\_of\_Sessions\_\_c | Counts the number of sessions |
+| previewsSiteCountryCode | Save’s the user’s previews country code in cases where there are visit from multiple countries for the same user |
 
 **THIRD-PARTY COOKIES ON TABOOLA’S SITES** 
 
