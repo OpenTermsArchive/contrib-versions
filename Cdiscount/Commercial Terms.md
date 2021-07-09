@@ -1083,7 +1083,7 @@ L’Abonnement au Service est valable douze (12) mois à compter de la Date de s
   
 L’Abonnement au Service sera renouvelé par tacite reconduction chaque année, à la date d’anniversaire de l’Abonnement, dans les conditions prévues aux articles L215-1 et L243-1 du code de la consommation reproduits ci-après.
 
-La date anniversaire de l'Abonnement au Service correspond à la date de souscription au Service.
+La date anniversaire de l’Abonnement au Service correspond à la date de souscription au Service.
 
 **5.3. Dispositions communes relatives à la durée**
 
