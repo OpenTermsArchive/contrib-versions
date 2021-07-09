@@ -326,7 +326,9 @@ You may exercise your rights above by contacting us using the methods outlined i
 
 Please note that your objection to processing (or withdrawal of any previously given consent) could mean that we are unable to provide you with our services. Even after you have chosen to withdraw your consent we may continue to process your personal information when required or permitted by law, in particular in connection with exercising and defending our legal rights, or meeting our legal and regulatory obligations.
 
-California residents can exercise your "Do Not Sell My Personal Information" rights under the California Consumer Privacy Act (CCPA) by directly emailing [donotsell@oreilly.com](mailto:donotsell@oreilly.com?subject=Do%20Not%20Sell%20My%20Personal%20Information%20Request) or clicking [here](mailto:donotsell@oreilly.com?subject=Do%20Not%20Sell%20My%20Personal%20Information%20Request).
+California residents can exercise your "Do Not Sell My Personal Information" rights under the California Consumer Privacy Act (CCPA) by clicking [here](#).
+
+**Thanks. You have been added to the list.**
 
 To opt out of advertising cookies please consult the list of cookies and instructions [here](https://www.oreilly.com/privacy-cookies.html).
 
