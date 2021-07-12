@@ -28,8 +28,8 @@ System1 is subject to the investigatory and enforcement powers of the Federal Tr
 Our Services are not intended for use by children under 13 years of age. No one under age 13 may provide any information to or through our Services. We do not knowingly collect personal information from children under 13 and do not target our Services to children under the age of 13. If you are under 13, do not use or provide any information through our Services. If we learn we have collected or received personal information from a child under the age of 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under the age of 13, please contact us at:
 
 Attn: Privacy Officer  
-1401 Main Street  
-Venice, CA 90291
+4235 Redwood Avenue  
+Marina Del Rey, CA 90066
 
 ### Information We Collect About You and How We Collect It
 
@@ -238,5 +238,5 @@ To ask questions or comment about this Policy and our privacy practices, contact
 ![contact email](https://live.staticflickr.com/65535/51279138446_6888cfd008_o.png)
 
 Attn: Privacy Officer  
-1401 Main Street  
-Venice, CA 90291
+4235 Redwood Avenue  
+Marina Del Rey, CA 90066
