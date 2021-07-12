@@ -1,5 +1,5 @@
-_Article 3 : COMMANDES_
------------------------
+_Mon espace client PREAMBULE GENERAL_
+-------------------------------------
 
   
   
@@ -21,8 +21,8 @@ Toute commande passée par un client professionnel est régie par les "Condition
   
   
 
-_Article 3 : COMMANDES_
------------------------
+_PREAMBULE Modalités de contact_
+--------------------------------
 
   
   
@@ -537,8 +537,8 @@ Dans le cas où, après acceptation du colis, vous constateriez que le produit c
 
 et ce, au plus tard dans les trois (3) jours calendaires après réception de votre commande.
 
-_Article 3 : COMMANDES_
------------------------
+_Article 8 : RETRACTATION_
+--------------------------
 
 **8.1 Principe**
 
@@ -2206,14 +2206,9 @@ L’Abonné Pro, bénéficie ponctuellement de tarifs avantageux sur une sélect
 **2.3 Ventes privilèges**   
 L’Abonné Pro bénéficie chaque semaine, de nouvelles offres qui sont exclusivement réservées aux Abonnés Pros.   
   
+   
   
-**2.4 Presse en ligne en illimitée**   
-  
-  
-L’Abonné Pro bénéficie de l’accès à des centaines de journaux et magazines en ligne et en illimité via un partenaire de Cdiscount.   
-  
-  
-**2.5. Autres avantages**   
+**2.4 Autres avantages**   
   
   
 L’Abonné Pro pourra également bénéficier d’avantages ponctuels, offerts par les partenaires de Cdiscount. Ces avantages peuvent être différents en fonction du pays de résidence de l’Abonné Pro.  
