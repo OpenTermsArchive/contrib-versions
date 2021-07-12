@@ -228,7 +228,7 @@ If you would like to delete your account, you can do this on the [deactivation p
 
 #### [](#10-3-self-destructing-messages)10.3. Self-Destructing Messages
 
-Messages in Secret Chats can be ordered to [self-destruct](https://telegram.org/faq#q-how-do-self-destructing-messages-work). As soon as such a message is [read](https://telegram.org/faq#q-what-do-the-green-checks-mean) (2 checks appear), the countdown starts. When the timer expires, both devices participating in a secret chat are instructed to delete the message (photo, video, etc.). Media with short timers (less than a minute) are shown with blurred previews. The timer is triggered when they are viewed.
+Messages in Secret Chats can be ordered to [self-destruct](https://telegram.org/faq#q-how-do-self-destructing-messages-work). As soon as such a message is [read](https://telegram.org/faq#q-what-do-the-check-marks-mean) (2 checks appear), the countdown starts. When the timer expires, both devices participating in a secret chat are instructed to delete the message (photo, video, etc.). Media with short timers (less than a minute) are shown with blurred previews. The timer is triggered when they are viewed.
 
 #### [](#10-4-account-self-destruction)10.4. Account Self-Destruction
 
