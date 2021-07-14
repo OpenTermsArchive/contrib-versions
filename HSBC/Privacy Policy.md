@@ -103,7 +103,7 @@ We use your information to:
 
 We use your information to help protect you and ourselves against fraud or crime. For example, our service providers look at all use of our website to help block malicious activity. This helps keep you and us safe.
 
-One of our security providers is Google ReCaptcha. Google asks us to tell you that this is subject to the [Google Privacy Policy (opens in new window)](https://www.google.com/policies/privacy/) and [Terms of Use (opens in new window)](https://www.google.com/policies/terms/)
+One of our security providers is Google ReCaptcha. Google asks us to tell you that this is subject to the [Google Privacy Policy (opens in new window) (opens in new window)](https://www.google.com/policies/privacy/) and [Terms of Use (opens in new window) (opens in new window)](https://www.google.com/policies/terms/)
 
 ### Personalising our website
 
