@@ -1,7 +1,7 @@
 **Vimeo Privacy Policy**
 ========================
 
-Last Updated: May 21, 2021
+Last Updated: July 15, 2021
 
 This Privacy Policy explains the information that Vimeo collects when you use its products and services, how that information is used, with whom it may be shared, and your privacy choices.
 
@@ -116,7 +116,7 @@ We share data with third parties as follows:
 *   **Authorized vendors:** We may share your data with third-party vendors that help us operate our services, process orders, and comply with your instructions and our contractual obligations. This includes payment processors, content delivery networks (CDNs), cloud-based hosting services, monitoring services, email service providers, quality assurance and testing vendors, fraud and abuse prevention vendors, customer relations management (CRM) vendors, and shipment vendors.
 *   **Advertising:** We may share your data with advertising companies to display relevant ads to you.
 *   **Analytics:** We may share your data with analytics providers which help us understand how customers are using our services.
-*   **Affiliates and advisors:** We may share your data with our parent company, IAC/InterActiveCorp, and our auditors and advisors for planning, financial reporting, accounting, auditing, tax filings, and legal compliance. We may share your data with our affiliates to the extent necessary to provide you with the services ordered.
+*   **Affiliates and advisors:** We may share your data with our auditors and advisors for planning, financial reporting, accounting, auditing, tax filings, and legal compliance. We may share your data with our affiliates to the extent necessary to provide you with the services ordered.
 *   **Certain legal situations:** We may share your data where we believe disclosure is necessary to comply with a legal obligation or in connection with a corporate transaction as discussed in Section 6.
 *   **Aggregated or anonymized information:** We may publicly disclose non-personal aggregated or anonymized information such as our number of visitors and registered users.
 
