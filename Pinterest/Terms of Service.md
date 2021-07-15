@@ -4,7 +4,7 @@ Terms of service
 Thank you for using Pinterest!
 ------------------------------
 
-*   These Terms of Service ("Terms") govern your access to and use of the Pinterest website, apps, APIs, and widgets (“Pinterest” or the “Service”). Please read these Terms carefully, and contact us if you have any questions. By accessing or using Pinterest, you agree to be bound by these Terms, our [Privacy Policy](https://policy.pinterest.com/privacy-policy), our [Cookies Policy](https://policy.pinterest.com/cookies) and our [Community Guidelines](https://policy.pinterest.com/community-guidelines). 
+*   These Terms of Service ("Terms") govern your access to and use of the Pinterest website, apps, APIs, and widgets (“Pinterest” or the “Service”). Please read these Terms carefully, and contact us if you have any questions. By accessing or using Pinterest, you agree to be bound by these Terms, our Privacy Policy, our Cookies Policy and our Community Guidelines. 
     
     **More simply put**
     
@@ -32,12 +32,12 @@ Thank you for using Pinterest!
 *   b. Our license to you
     ---------------------
     
-    Subject to these Terms and our policies (including our [Community Guidelines](https://policy.pinterest.com/community-guidelines)), we grant you a limited, non-exclusive, non-transferable, and revocable license to use our Service.
+    Subject to these Terms and our policies (including our Community Guidelines), we grant you a limited, non-exclusive, non-transferable, and revocable license to use our Service.
     
 *   c. Commercial use of Pinterest
     ------------------------------
     
-    If you want to use Pinterest for commercial purposes you must create a business account and agree to our [Business Terms of Service](https://business.pinterest.com/business-terms-of-service). If you do open an account for a company, organization, or other entity, then "you" includes you and that entity, and you promise that you are authorized to grant all permissions and licenses provided in these Terms and bind the entity to these Terms, and that you agree to these Terms on the entity's behalf.
+    If you want to use Pinterest for commercial purposes you must create a business account and agree to our Business Terms of Service. If you do open an account for a company, organization, or other entity, then "you" includes you and that entity, and you promise that you are authorized to grant all permissions and licenses provided in these Terms and bind the entity to these Terms, and that you agree to these Terms on the entity's behalf.
     
     **More simply put**
     
@@ -59,7 +59,7 @@ Thank you for using Pinterest!
 *   b. How Pinterest and other users can use your content
     -----------------------------------------------------
     
-    You grant Pinterest and our users a non-exclusive, royalty-free, transferable, sublicensable, worldwide license to use, store, display, reproduce, save, modify, create derivative works, perform, and distribute your User Content on Pinterest solely for the purposes of operating, developing, providing, and using Pinterest. Nothing in these Terms restricts other legal rights Pinterest may have to User Content, for example under other licenses. We reserve the right to remove or modify User Content, or change the way it’s used in Pinterest, for any reason. This includes User Content that we believe violates these Terms, our [Community Guidelines](https://policy.pinterest.com/community-guidelines), or any other policies.
+    You grant Pinterest and our users a non-exclusive, royalty-free, transferable, sublicensable, worldwide license to use, store, display, reproduce, save, modify, create derivative works, perform, and distribute your User Content on Pinterest solely for the purposes of operating, developing, providing, and using Pinterest. Nothing in these Terms restricts other legal rights Pinterest may have to User Content, for example under other licenses. We reserve the right to remove or modify User Content, or change the way it’s used in Pinterest, for any reason. This includes User Content that we believe violates these Terms, our Community Guidelines, or any other policies.
     
     **More simply put**
     
@@ -88,7 +88,7 @@ Thank you for using Pinterest!
 4\. Copyright policy
 --------------------
 
-*   Pinterest has adopted and implemented the Pinterest Copyright Policy in accordance with the Digital Millennium Copyright Act and other applicable copyright laws. For more information, please read our [Copyright Policy.](https://policy.pinterest.com/en/copyright) 
+*   Pinterest has adopted and implemented the Pinterest Copyright Policy in accordance with the Digital Millennium Copyright Act and other applicable copyright laws. For more information, please read our Copyright Policy. 
     
     **More simply put**
     
@@ -102,7 +102,7 @@ Thank you for using Pinterest!
     
     **More simply put**
     
-    You can help us fight spammers by keeping [these security tips](https://help.pinterest.com/articles/account-security-and-hacked-accounts) in mind.
+    You can help us fight spammers by keeping these security tips in mind.
     
 
 6\. Third party links, sites, and services
@@ -118,7 +118,7 @@ Thank you for using Pinterest!
 7\. Termination
 ---------------
 
-*   Pinterest may terminate or suspend your right to access or use Pinterest for any reason on appropriate notice. We may terminate or suspend your access immediately and without notice if we have a good reason, including any violation of our [Community Guidelines](https://policy.pinterest.com/community-guidelines). Upon termination, you continue to be bound by Sections 3 and 8 of these Terms.
+*   Pinterest may terminate or suspend your right to access or use Pinterest for any reason on appropriate notice. We may terminate or suspend your access immediately and without notice if we have a good reason, including any violation of our Community Guidelines. Upon termination, you continue to be bound by Sections 3 and 8 of these Terms.
     
     **More simply put**
     
@@ -128,11 +128,11 @@ Thank you for using Pinterest!
 8\. Indemnity
 -------------
 
-*   If you use Pinterest for commercial purposes (i.e., you are not a consumer) without agreeing to our [Business Terms](https://business.pinterest.com/business-terms-of-service) as required by Section 2(c) of these Terms, you agree to indemnify and hold harmless Pinterest Inc, Pinterest Europe Ltd, their affiliates and their respective officers, directors, employees and agents, from and against any claims, suits, proceedings, disputes, demands, liabilities, damages, losses, costs and expenses, including, without limitation, reasonable legal and accounting fees (including costs of defense of claims, suits or proceedings brought by third parties), in any way related to your access to or use of our Service, your User Content, or your breach of any of these Terms.
+*   If you use Pinterest for commercial purposes (i.e., you are not a consumer) without agreeing to our Business Terms as required by Section 2(c) of these Terms, you agree to indemnify and hold harmless Pinterest Inc, Pinterest Europe Ltd, their affiliates and their respective officers, directors, employees and agents, from and against any claims, suits, proceedings, disputes, demands, liabilities, damages, losses, costs and expenses, including, without limitation, reasonable legal and accounting fees (including costs of defense of claims, suits or proceedings brought by third parties), in any way related to your access to or use of our Service, your User Content, or your breach of any of these Terms.
     
     **More simply put**
     
-    If we are sued because of something your business does on Pinterest, you have to pay our costs. Also, you should have created a business account and agreed to our [Business Terms](https://business.pinterest.com/business-terms-of-service) in the first place.
+    If we are sued because of something your business does on Pinterest, you have to pay our costs. Also, you should have created a business account and agreed to our Business Terms in the first place.
     
 
 9\. Disclaimers
@@ -149,7 +149,7 @@ Thank you for using Pinterest!
     
     **More simply put**
     
-    Unfortunately, people post bad stuff on services like Pinterest. We take that kind of thing seriously but you still might run into it before we have a chance to take it down. If you see bad stuff, please report it to us [here](https://help.pinterest.com/articles/report-something-pinterest#Web). 
+    Unfortunately, people post bad stuff on services like Pinterest. We take that kind of thing seriously but you still might run into it before we have a chance to take it down. If you see bad stuff, please report it to us here. 
     
 
 10\. Limitation of liability
@@ -172,7 +172,7 @@ Thank you for using Pinterest!
     
     Arbitration is a more informal way to resolve our disagreements than a lawsuit in court. For instance, arbitration uses a neutral arbitrator instead of a judge or jury, involves more limited discovery, and is subject to very limited review by courts. Although the process is more informal, arbitrators can award the same damages and relief that a court can award. You agree that, by agreeing to these Terms of Service, the U.S. Federal Arbitration Act governs the interpretation and enforcement of this provision, and that you and Pinterest are each waiving the right to a trial by jury or to participate in a class action. The arbitrator has exclusive authority to resolve any dispute relating to the interpretation, applicability, or enforceability of this binding arbitration agreement. This arbitration provision shall survive termination of this Agreement and the termination of your Pinterest account.
     
-    Any arbitration will be administered by the American Arbitration Association ("AAA") under the Consumer Arbitration Rules then in effect for the AAA, except as provided herein. You can find their forms at [www.adr.org](https://www.adr.org/). Unless you and Pinterest agree otherwise, the arbitration will be conducted in the county (or parish) where you reside. Each party will be responsible for paying any AAA filing, administrative and arbitrator fees in accordance with AAA Rules, except that Pinterest will pay for your reasonable filing, administrative, and arbitrator fees if your claim for damages does not exceed $75,000 and is non-frivolous (as measured by the standards set forth in Federal Rule of Civil Procedure 11(b)). If your claim is for $10,000 or less, we agree that you may choose whether the arbitration will be conducted solely on the basis of documents submitted to the arbitrator, through a telephonic hearing, or by an in-person hearing as established by the AAA Rules. If your claim exceeds $10,000, the right to a hearing will be determined by the AAA Rules. Regardless of the manner in which the arbitration is conducted, the arbitrator shall issue a reasoned written decision explaining the essential findings and conclusions on which the award is based, and any judgment on the award rendered by the arbitrator may be entered in any court of competent jurisdiction. Nothing in this Section shall prevent either party from seeking injunctive or other equitable relief from the courts, including for matters related to data security, intellectual property or unauthorized access to the Service. ALL CLAIMS MUST BE BROUGHT IN THE PARTIES' INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING, AND, UNLESS WE AGREE OTHERWISE, THE ARBITRATOR MAY NOT CONSOLIDATE MORE THAN ONE PERSON'S CLAIMS. YOU AGREE THAT, BY ENTERING INTO THESE TERMS, YOU AND PINTEREST ARE EACH WAIVING THE RIGHT TO A TRIAL BY JURY OR TO PARTICIPATE IN A CLASS ACTION.
+    Any arbitration will be administered by the American Arbitration Association ("AAA") under the Consumer Arbitration Rules then in effect for the AAA, except as provided herein. You can find their forms at www.adr.org. Unless you and Pinterest agree otherwise, the arbitration will be conducted in the county (or parish) where you reside. Each party will be responsible for paying any AAA filing, administrative and arbitrator fees in accordance with AAA Rules, except that Pinterest will pay for your reasonable filing, administrative, and arbitrator fees if your claim for damages does not exceed $75,000 and is non-frivolous (as measured by the standards set forth in Federal Rule of Civil Procedure 11(b)). If your claim is for $10,000 or less, we agree that you may choose whether the arbitration will be conducted solely on the basis of documents submitted to the arbitrator, through a telephonic hearing, or by an in-person hearing as established by the AAA Rules. If your claim exceeds $10,000, the right to a hearing will be determined by the AAA Rules. Regardless of the manner in which the arbitration is conducted, the arbitrator shall issue a reasoned written decision explaining the essential findings and conclusions on which the award is based, and any judgment on the award rendered by the arbitrator may be entered in any court of competent jurisdiction. Nothing in this Section shall prevent either party from seeking injunctive or other equitable relief from the courts, including for matters related to data security, intellectual property or unauthorized access to the Service. ALL CLAIMS MUST BE BROUGHT IN THE PARTIES' INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING, AND, UNLESS WE AGREE OTHERWISE, THE ARBITRATOR MAY NOT CONSOLIDATE MORE THAN ONE PERSON'S CLAIMS. YOU AGREE THAT, BY ENTERING INTO THESE TERMS, YOU AND PINTEREST ARE EACH WAIVING THE RIGHT TO A TRIAL BY JURY OR TO PARTICIPATE IN A CLASS ACTION.
     
     NOTHING IN THESE TERMS OF SERVICE SHALL AFFECT ANY NON-WAIVABLE STATUTORY RIGHTS THAT APPLY TO YOU. To the extent any claim, dispute or controversy regarding Pinterest or our Service isn’t arbitrable under applicable laws or otherwise: you and Pinterest both agree that any claim or dispute regarding Pinterest will be resolved exclusively in accordance with Section 12 of these Terms.
     
