@@ -283,8 +283,8 @@ To the extent permitted by applicable law, the following supplemental terms shal
 *   to the extent of any conflict between (a) the Google Play Terms of Services and the Google Play Business and Program Policies or such other terms which Google designates as default end user license terms for Google Play (all of which together are referred to as the “Google Play Terms”), and (b) the other terms and conditions in these Terms, the Google Play Terms shall apply with respect to your use of the Platform that you download from Google Play, and
 *   you hereby acknowledge that Google does not have any responsibility or liability related to compliance or non-compliance by TikTok or you (or any other user) under these Terms or the Google Play Terms.
 
-**Additional EU ToS available**
--------------------------------
+**Additional languages (please also see the language settings for other available languages)**
+----------------------------------------------------------------------------------------------
 
 *   Bulgarian: [Условия за ползване](https://www.tiktok.com/legal/bul-terms-of-service?lang=en)  
     
