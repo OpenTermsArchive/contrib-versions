@@ -32,8 +32,6 @@ In addition to information you share with us, we use your Tweets, content you’
 
 If you have questions about this policy, how we collect or process your personal data, or anything else related to our privacy practices, we want to hear from you. You can [contact us](https://help.twitter.com/forms/privacy) at any time.
 
-1
-
 Information You Share With Us
 -----------------------------
 
@@ -191,8 +189,6 @@ Your settings
 =============
 
 You have options when it comes to what information you share and see on Twitter.
-
-2
 
 Additional Information We Receive About You
 -------------------------------------------
@@ -448,8 +444,6 @@ Your settings
 
 You have options when it comes to what information you share and see on Twitter.  
 
-3
-
 Information We Share and Disclose
 ---------------------------------
 
@@ -527,8 +521,6 @@ Non-Personal Information
 
 We share or disclose non-personal data, such as aggregated information like the total number of times people engaged with a Tweet, demographics, the number of people who clicked on a particular link or voted on a poll in a Tweet (even if only one did), the topics that people are Tweeting about in a particular location, some inferred interests, or reports to advertisers about how many people saw or clicked on their ads.
 
-4
-
 Managing Your Personal Information With Us
 ------------------------------------------
 
@@ -599,14 +591,10 @@ Dublin 2, D02 AX07 IRELAND
 
 You can confidentially contact Twitter’s Data Protection Officer [here](https://twitter.ethicspointvp.com/custom/twitter/forms/data/form_data.asp). If you wish to raise a concern about [our use of your information](https://help.twitter.com/en/rules-and-policies/data-processing-legal-bases) (and without prejudice to any other rights you may have), you have the right to do so with your local supervisory authority or Twitter International Company’s lead supervisory authority, the Irish Data Protection Commission. You can find their contact details [here](https://www.dataprotection.ie/docs/Contact-us/b/11.htm).
 
-5
-
 Children and Our Services
 -------------------------
 
 Our services are not directed to children, and you may not use our services if you are under the age of 13. You must also be old enough to consent to the processing of your personal data in your country (in some countries we may allow your parent or guardian to do so on your behalf). You must be at least 16 years of age to use Periscope.
-
-6
 
 Our Global Operations and Privacy Shield
 ----------------------------------------
@@ -620,8 +608,6 @@ Twitter, Inc. complies with the EU-US and Swiss-US Privacy Shield principles (th
 If you have a Privacy Shield-related complaint, please contact us [here](https://help.twitter.com/forms/privacy). As part of our participation in Privacy Shield, if you have a dispute with us about our adherence to the Principles, we will seek to resolve it through our internal complaint resolution process, alternatively through the independent dispute resolution body [JAMS](https://www.jamsadr.com/eu-us-privacy-shield), and under certain conditions, through the [Privacy Shield arbitration process](https://www.privacyshield.gov/article?id=G-Arbitration-Procedures).
 
 Privacy Shield participants are subject to the investigatory and enforcement powers of the US Federal Trade Commission and other authorized statutory bodies. Under certain circumstances, participants may be liable for the transfer of personal data from the EU, EFTA States, or the United Kingdom to third parties outside the EU, EFTA States, and the United Kingdom. Learn more about the EU-US Privacy Shield and Swiss-US Privacy Shield [here](https://www.privacyshield.gov/welcome).
-
-7
 
 Changes to This Privacy Policy
 ------------------------------
