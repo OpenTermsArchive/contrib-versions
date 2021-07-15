@@ -307,8 +307,8 @@ If you have questions or complaints regarding this policy, or if you wish to rea
 
 If contacting us does not resolve your complaint you have the right to complain to your local data protection supervisory authority. 
 
-**Additional EU Privacy Policy available**
-------------------------------------------
+**Additional languages (please also see the language settings for other available languages)**
+----------------------------------------------------------------------------------------------
 
 *   Bulgarian: [Политика за защита на личните данни](https://www.tiktok.com/legal/bul-privacy-policy?lang=en)  
     
