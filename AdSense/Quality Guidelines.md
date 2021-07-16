@@ -64,7 +64,7 @@ If you believe that another site is abusing Google's quality guidelines, please 
 
 *   [Automatically generated content](https://support.google.com/search/docs/advanced/guidelines/auto-gen-content)
 *   Participating in [link schemes](https://support.google.com/search/docs/advanced/guidelines/link-schemes)
-*   Creating pages with [little or no original content](https://support.google.com/webmasters/answer/66361)
+*   Creating pages with [little or no original content](https://support.google.com/search/docs/advanced/guidelines/thin-content)
 *   [Cloaking](https://support.google.com/search/docs/advanced/guidelines/cloaking)
 *   [Sneaky redirects](https://support.google.com/search/docs/advanced/guidelines/sneaky-redirects)
 *   [Hidden text or links](https://support.google.com/search/docs/advanced/guidelines/hidden-text-links)
