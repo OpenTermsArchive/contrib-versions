@@ -123,4 +123,4 @@ To work with Value Impression and to keep your account in good standing, please 
 6.  Do NOT place images near ads in a way that may mislead users into thinking that the images are associated with the ads.
 
   
-If you're ever concerned that you might be violating policies, feel free to reach out to us at [**\[email protected\]**](https://valueimpression.com/cdn-cgi/l/email-protection#741d1a121b3402151801111d1904061107071d1b1a5a171b19). Our policy team will be more than happy to answer your questions or concerns. We are mad about making you money! We just want to go about it in the best possible manner.
+If you're ever concerned that you might be violating policies, feel free to reach out to us at [**\[email protected\]**](https://valueimpression.com/cdn-cgi/l/email-protection#650c0b030a2513040910000c0815170016160c0a0b4b060a08). Our policy team will be more than happy to answer your questions or concerns. We are mad about making you money! We just want to go about it in the best possible manner.
