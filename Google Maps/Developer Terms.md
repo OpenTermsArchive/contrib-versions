@@ -55,6 +55,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   Certain content which is available as part of the Services is derived from data provided by the Department of Fire and Emergency Services of Western Australia under a [Creative Commons Attribution 4.0 licence](https://creativecommons.org/licenses/by/4.0/legalcode). ©Department of Fire and Emergency Services of Western Australia. For current information go to [www.emergency.wa.gov.au.](https://www.emergency.wa.gov.au/)
             
+        *   City of Adelaide ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
+            
     3.  **Austria**
         *   BEV - BA fuer Eich und Vermessungswesen (Geocodes) © Österreichisches Adressregister, 2009. You are not permitted, at any one time, to use Austrian Postal Data to provide, display or provide access to mass downloads or bulk feeds of numerical latitude and longitude coordinates.
             
@@ -76,9 +78,12 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         *   © Aerodata International Surveys, Data INTAS Project 99-1669
             
     5.  **Brazil**
-        
-        FUNAI (Fundação Nacional do Índio)
-        
+        *   FUNAI (Fundação Nacional do Índio)
+            
+        *   Prefeirtura de Goiânia ([https://www.goiania.go.gov.br/politica-de-privacidade/](https://www.goiania.go.gov.br/politica-de-privacidade/))
+            
+        *   Secretaria Municipal de Mobilidade e Transportes, Companhia de Engenharia de Tráfego de Sao Paulo (CET) ([https://creativecommons.org/licenses/by/3.0/](https://creativecommons.org/licenses/by/3.0/))
+            
     6.  **Canada**
         1.  Google’s maps of Canada include data provided from the following:
             
@@ -334,6 +339,16 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   Leeds City Council ([https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/))
             
+        *   Birmingham City Council ([http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/))
+            
+        *   Open Data Nottingham ([http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/))
+            
+        *   [data.gov.uk](https://data.gov.uk/) ([http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/))
+            
+        *   Glasgow Open Data ([https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/))
+            
+        *   Sheffield City Council ([http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/))
+            
     12.  **Greece**
         *   EuroGeographics; Copyright Geomatics Ltd.
             
@@ -382,6 +397,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   This Service includes mapping data from [https://www.transportforireland.ie/transitData/google\_transit\_luas.zip](https://www.transportforireland.ie/transitData/google_transit_luas.zip) \[in an adapted form\] licensed under a Creative Commons Attribution 4.0 licence, which includes disclaimers of warranties. © Transdev.
             
+        *   Galway City Council ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
+            
     18.  **Isle of Man**
         
         Isle of Man Government
@@ -397,6 +414,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   You will indemnify, defend and hold harmless Mapa from and against any and all claims or actions arising out of or in connection with your use of the mapping data accessed from or through Google's Services, including, but not limited to, losses, liabilities, damages, injuries (including injuries resulting in death), costs and expenses (including legal fees and costs).
             
+        *   [data.gov.il](https://data.gov.il/dataset/bike_mahirlair) ([https://data.gov.il/terms](https://data.gov.il/terms))
+            
     20.  **Italy (including Vatican City and San Marino)**
         *   © Geo4Map Srl
             
@@ -407,6 +426,12 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         *   This Service includes mapping data from [https://www.wimob.it/cfile/download.php?file=google-transit.zip](https://www.wimob.it/cfile/download.php?file=google-transit.zip) \[in an adapted form\] licensed under a Creative Commons Attribution 4.0 licence, which includes disclaimers of warranties. © Ente Autonomo Volturno\*\*
             
         *   This Service includes mapping data from [https://www.amat-mi.it/it/servizi/pubblicazione-orari-trasporto-pubblico-locale-formato-gtfs/](https://www.amat-mi.it/it/servizi/pubblicazione-orari-trasporto-pubblico-locale-formato-gtfs/) \[in an adapted form\] licensed under a Creative Commons Attribution 4.0 licence, which includes disclaimers of warranties. © Azienda Transporti Milanesi Trenord
+            
+        *   Città di Palermo Open Data ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
+            
+        *   Regione Lombardia ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
+            
+        *   Regione del Veneto ([https://creativecommons.org/licenses/by/3.0/it/legalcode](https://creativecommons.org/licenses/by/3.0/it/legalcode))
             
     21.  **Japan**
         *   日本の Google マップのサービスには、第三者から提供された著作権の対象となるデータに基づいて Google が変更したビジネス リスティング データが含まれます。当該データを許可なく使用すると、Google またはその他の者が保持する著作権を侵害することになる可能性があります。また商用利用は固く禁じられています。ユーザーがビジネス リスティング データを取得することは許可されていません。
@@ -590,6 +615,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   © Donostiako Udala – Ayuntamiento de San Sebastián
             
+        *   Open Data BCN ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
+            
     36.  **Sweden**
         *   © 2009 Cartesia GIS AB
             
@@ -636,6 +663,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         *   © GeoForce Technologies
             
         *   MOTC 2019-present [MOTC Transport API V2](https://ptx.transportdata.tw/MOTC?t=Bike&v=2#!/Bike/CyclingApi_Shape) and future versions. The Open Data is made available to the public under the (Taiwan) Open Government Data License, and users can make use of it when satisfying the conditions and complying with the obligations set out in its terms. Open Government Data License can be found at [https://data.gov.tw/license](https://data.gov.tw/license)
+            
+        *   National Development Council, Open Government Data Taiwan, [data.gov.tw](https://www.google.com/help/legalnotices_maps/data.gov.tw) ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
             
     39.  **Turkey**
         
@@ -980,6 +1009,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         163.  This product uses the Federal Railroad Administration (FRA) Data API but is not endorsed or certified by the FRA
             
         164.  City of Baltimore
+            
+        165.  City of Raleigh ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
             
     43.  **Uruguay**
         
