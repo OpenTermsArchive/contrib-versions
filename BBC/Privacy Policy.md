@@ -74,11 +74,22 @@ Devices are lots of things like:
 *   vendor ID
 *   advertising ID
 
-**c. Information on your activities outside the BBC when you talk about us**
+**c. Location Information**
+
+We collect information about your location when you use our products and services. This helps us to determine whether you’re somewhere where are services are available, helps us to ensure we are fulfilling our Charter obligations and to offer additional features whilst using our products and services, such as a weather forecast for your location.
+
+Your location can be determined at a town or city level by:  
+• GPS  
+• IP address  
+• Information about nearby cell towers and Wi-Fi access point information
+
+What type of location data (for example Country, Region, City or Town) is collected depends on the product or service your using, the device you're using (for example Apple or Android) and your devices settings (whether permissions are enabled or disabled). You can change your permissions on or off any time in your device’s settings. You can read more about [how our apps capture your data on our explainers](https://www.bbc.co.uk/usingthebbc/privacy/how-do-apps-capture-my-data/ "how our apps capture your data on our explainers").
+
+**d. Information on your activities outside the BBC when you talk about us**
 
 Like if you've mentioned us in a Twitter post, we'll collect your Twitter handle.
 
-**d. Information on how you use our services**
+**e. Information on how you use our services**
 
 Like [the articles you read and the programmes you watch](https://www.bbc.co.uk/usingthebbc/privacy/how-does-the-bbc-collect-data-about-me/).
 
