@@ -317,7 +317,7 @@ Our emails may contain a pixel tag, which is a small, clear image that can tell 
 [Resolving complaints](#resolving-complaints)
 ---------------------------------------------
 
-If you have concerns about the way GitHub is handling your User Personal Information, please let us know immediately. We want to help. You may contact us by filling out the [Privacy contact form](https://support.github.com/contact/privacy). You may also email us directly at privacy@github.com with the subject line "Privacy Concerns." We will respond promptly — within 45 days at the latest.
+If you have concerns about the way GitHub is handling your User Personal Information, please let us know immediately. We want to help. You may contact us by filling out the [Privacy contact form](https://support.github.com/contact/privacy). You may also email us directly at [privacy@github.com](mailto:privacy@github.com) with the subject line "Privacy Concerns." We will respond promptly — within 45 days at the latest.
 
 You may also contact our Data Protection Officer directly.
 
@@ -327,7 +327,7 @@ You may also contact our Data Protection Officer directly.
 | 88 Colin P. Kelly Jr. St. | Vijzelstraat 68-72 |
 | San Francisco, CA 94107 | 1017 HL Amsterdam |
 | United States | The Netherlands |
-| privacy@github.com | privacy@github.com |
+| [privacy@github.com](mailto:privacy@github.com) | [privacy@github.com](mailto:privacy@github.com) |
 
 ### [Dispute resolution process](#dispute-resolution-process)
 
