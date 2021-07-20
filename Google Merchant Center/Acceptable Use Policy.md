@@ -1,7 +1,17 @@
 Shopping ads policies
 =====================
 
-Welcome to the Shopping ads Policy Center! Here you'll find the requirements for advertising on the Google Network.
+Welcome to the Shopping ads Policy Center
+-----------------------------------------
+
+Here you'll find the requirements for advertising on the Google Network.
+
+|     |     |
+| --- | --- |
+| [![A card that you can click to view and fix product disapprovals in an account](//storage.googleapis.com/support-kms-prod/e9mwo1rXFoUrEJ8PBN2urXUfuk6LD5CBoZMm "A card that you can click to view and fix product disapprovals in an account")](https://merchants.google.com/mc/products/diagnostics?&tab=item_issues) | [![A card that you can click to view and fix an account suspension](//storage.googleapis.com/support-kms-prod/cJpfki0R5ykjVNdOvEYm4fmrRM5ArrGLF1dj "A card that you can click to view and fix an account suspension")](https://merchants.google.com/mc/products/diagnostics?&tab=account_issues) |
+
+Overview of our shopping ads policies
+-------------------------------------
 
 Our policies cover four broad areas:
 
@@ -10,40 +20,41 @@ Our policies cover four broad areas:
 *   ![Google Ads policies | restricted content](//storage.googleapis.com/support-kms-prod/tNErobNFH6ZkSwZtpMfEXrQkhCi1uMdPn3ur "Google Ads policies | restricted content") **[Restricted content](#res):** Content you can advertise, but with limitations
 *      **[Editorial and technical](#ed):** Quality standards for your ads and website
 
+Click through the policies below for policy definitions, examples, and troubleshooting steps.
+
 * * *
 
 * * *
 
   
 
-Prohibited content
-------------------
+### Prohibited content
 
-### [Counterfeit goods](https://support.google.com/merchants/merchants/answer/6149993)
+#### [Counterfeit goods](https://support.google.com/merchants/merchants/answer/6149993)
 
 > Google prohibits the sale or promotion for sale of counterfeit products. Counterfeit goods contain a trademark or logo that is identical to or substantially indistinguishable from the trademark or logo of another. They mimic the brand features of the product in an attempt to pass themselves off as a genuine product of the brand owner.  
 >   
 > This policy applies to the content of your Shopping ads and your website.
 
-### [Dangerous products](https://support.google.com/merchants/merchants/answer/6150004)
+#### [Dangerous products](https://support.google.com/merchants/merchants/answer/6150004)
 
 > Google wants to help keep people safe both online and offline, so we don’t allow the promotion of some products that cause damage, harm or injury.
 > 
 > _Examples of dangerous content:_ Recreational drugs (chemical or herbal); psychoactive substances; equipment to facilitate drug use; weapons, ammunition, explosive materials and fireworks; instructions for making explosives or other harmful products; tobacco products.
 
-### [Products that enable dishonest behavior](https://support.google.com/merchants/merchants/answer/6150005)
+#### [Products that enable dishonest behavior](https://support.google.com/merchants/merchants/answer/6150005)
 
 > Google values honesty and fairness, so we don’t allow the promotion of products that are designed to enable dishonest behaviour.
 > 
 > _Examples of products that enable dishonest behavior:_ Hacking software or instructions; fake documents; academic cheating products.
 
-### [Inappropriate content](https://support.google.com/merchants/merchants/answer/6149990)
+#### [Inappropriate content](https://support.google.com/merchants/merchants/answer/6149990)
 
 > Google values diversity and respect for others, and we strive to avoid offending users, so we don’t allow ads or destinations that display shocking content or promote hatred, intolerance, discrimination or violence.
 > 
 > _Examples of inappropriate or offensive content:_ Bullying or intimidation of an individual or group; racial discrimination; hate group paraphernalia; graphic crime scene or accident images; cruelty to animals; murder; self-harm; extortion or blackmail; sale or trade of endangered species.
 
-### [Unsupported Shopping ads content](https://support.google.com/merchants/merchants/answer/6150006)
+#### [Unsupported Shopping ads content](https://support.google.com/merchants/merchants/answer/6150006)
 
 > Google aims to enable businesses to promote a wide variety of products, but some Google products and platforms may not be optimised to appropriately support all content types. 
 > 
@@ -53,10 +64,9 @@ Prohibited content
 
   
 
-Prohibited practices
---------------------
+### Prohibited practices
 
-### [Abuse of the ad network](https://support.google.com/merchants/merchants/answer/6150118)
+#### [Abuse of the ad network](https://support.google.com/merchants/merchants/answer/6150118)
 
 > Google wants Shopping ads to be useful, varied, relevant and safe for users, and so we've made some decisions about how we serve content on our network. As a result we don't allow any of the following:
 > 
@@ -65,7 +75,7 @@ Prohibited practices
 > *   retailers who attempt to gain an unfair advantage in Shopping campaigns
 > *   retailers who attempt to bypass our review processes
 
-### [Irresponsible data collection & use](https://support.google.com/merchants/merchants/answer/6150122)
+#### [Irresponsible data collection & use](https://support.google.com/merchants/merchants/answer/6150122)
 
 > Google wants users to trust that information about them will be respected and handled with appropriate care. As such, our advertising partners should not misuse this information, nor collect it for unclear purposes or without appropriate security measures.
 > 
@@ -80,7 +90,7 @@ Prohibited practices
 > *   Wire transfer numbers
 > *   National identity, pension, social security, tax ID, health care, or driver's license number
 
-### [Misrepresentation](https://support.google.com/merchants/merchants/answer/6150127)
+#### [Misrepresentation](https://support.google.com/merchants/merchants/answer/6150127)
 
 > Google doesn't want users to feel misled by the content promoted in Shopping ads, and that means being upfront, honest and providing them with the information that they need to make informed decisions. For this reason, we don't allow the following:
 > 
@@ -89,14 +99,13 @@ Prohibited practices
 
   
 
-Restricted content
-------------------
+### Restricted content
 
 The policies below cover content that is sometimes legally or culturally sensitive. Online promotion can be a powerful way to reach customers, but in sensitive areas, we also work hard to avoid showing these ads when and where they might be inappropriate.
 
 For that reason, we allow promotion of the content below, but on a limited basis. These promotions may not show to every user in every location, and merchants may need to meet additional requirements before their ads are eligible to run. Note that not all products, features, or networks are able to support this restricted content.
 
-### [Adult-oriented content](https://support.google.com/merchants/merchants/answer/6150138)
+#### [Adult-oriented content](https://support.google.com/merchants/merchants/answer/6150138)
 
 > Google restricts the promotion of the following types of adult-orientated content:
 > 
@@ -114,7 +123,7 @@ For that reason, we allow promotion of the content below, but on a limited basis
 > 
 > _Examples of restricted adult content:_ sex toys; adult magazines; sexual enhancement products; sexually suggestive lingerie promotions.
 
-### [Alcoholic beverages](https://support.google.com/merchants/merchants/answer/6150139)
+#### [Alcoholic beverages](https://support.google.com/merchants/merchants/answer/6150139)
 
 > Google restricts the promotion of alcoholic beverages and drinks that resemble alcoholic beverages.
 > 
@@ -129,17 +138,17 @@ For that reason, we allow promotion of the content below, but on a limited basis
 > 
 > _Examples of restricted alcoholic beverages:_ beer; wine; sake; spirits or hard alcohol; Champagne; fortified wine; non-alcoholic beer; non-alcoholic wine; and non-alcoholic distilled spirits.
 
-### [Copyrighted content](https://support.google.com/merchants/merchants/answer/6150163)
+#### [Copyrighted content](https://support.google.com/merchants/merchants/answer/6150163)
 
 > Google restricts the promotion of copyrighted content. If you would like to promote copyrighted content and believe that you are legally authorised to do so, you can [contact us](https://support.google.com/google-ads/contact/copyright?utm_source=policyhc&utm_medium=contact&utm_campaign=176015). To learn more about how we handle copyright-related issues or to submit a copyright-related complaint, [use this form](https://support.google.com/legal/troubleshooter/1114905?rd=2).
 
-### [Gambling-related content](https://support.google.com/merchants/merchants/answer/6150164)
+#### [Gambling-related content](https://support.google.com/merchants/merchants/answer/6150164)
 
 > Google restricts the promotion of gambling-related content.
 > 
 > _Examples of restricted gambling-related content:_ national or private lotteries; sites offering bonus codes or promotional offers for gambling sites
 
-### [Healthcare-related content](https://support.google.com/merchants/merchants/answer/6150151)
+#### [Healthcare-related content](https://support.google.com/merchants/merchants/answer/6150151)
 
 > Google restricts the promotion of healthcare-related content such as the following:
 > 
@@ -153,7 +162,7 @@ For that reason, we allow promotion of the content below, but on a limited basis
 > 
 > Depending on the content that you’re promoting and the countries where your ads appear, you may need to apply for preauthorisation with Google before advertising healthcare-related content.
 
-### [Political content](https://support.google.com/merchants/merchants/answer/6150172)
+#### [Political content](https://support.google.com/merchants/merchants/answer/6150172)
 
 > When promoting political content, you need to comply with the following requirements:
 > 
@@ -162,18 +171,17 @@ For that reason, we allow promotion of the content below, but on a limited basis
 > 
 > _Examples of political content:_ promotion of political parties/candidates, political issue advocacy.
 
-### [Trademarks](https://support.google.com/merchants/merchants/answer/6172182)
+#### [Trademarks](https://support.google.com/merchants/merchants/answer/6172182)
 
 > Shopping ads don't restrict use of trademarks by merchants in the title or description of an ad when it's for a trademarked product or a product compatible with the trademarked product. Merchants need to reference trademarks to be able communicate to users what they're offering, and users need that information as it's relevant to their searches. We'll review claims by trademark owners that use of their trademark is likely to cause consumer confusion about the origin of a product. To submit a trademark-related complaint if you're an owner of the trademark, [use this form](https://support.google.com/merchants/contact/policy).
 
   
 
-Editorial & technical requirements
-----------------------------------
+### Editorial & technical requirements
 
 We want to deliver ads that are engaging for users without being annoying or difficult to interact with, so we've developed editorial requirements to help keep your ads appealing to users. We've also specified technical requirements to help users and advertisers get the most out of the variety of ad formats we offer.
 
-### [Editorial & professional requirements](https://support.google.com/merchants/merchants/answer/6150244)
+#### [Editorial & professional requirements](https://support.google.com/merchants/merchants/answer/6150244)
 
 > In order to provide a quality user experience, Google requires that all Shopping ads meet high professional and editorial standards. We only allow promotions that are clear and professional in appearance. These ads should lead users to products and landing pages that are relevant, useful and easy to interact with.
 > 
