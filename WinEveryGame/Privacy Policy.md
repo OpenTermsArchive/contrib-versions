@@ -1,23 +1,21 @@
 We Respect Your Privacy
+=======================
 
-* * *
+Since our founding in 2001, our users have trusted us, and we work hard to protect your privacy and security. Just another way we help you win!
 
-  
+**Log Files** As with most other websites, we collect log files. The information in the log files includes your IP address, the browser you used to visit our site, the time you visited our site and which pages you visited throughout our site.
 
-**Personal Information.** This Web site requests non-obligatory personal information from our members. We do not share any personal information with any third parties nor do we use any personal information for any purposes, including selling. You are under no obligation to give your real name during registration.
+**Feedback Form** If you use our feedback form to contact us, we will ask you for person-related data. In order for us to respond to your inquiry, you must provide a valid e-mail address. Further information about yourself may be provided voluntarily. Your data will be processed by e-mail.
 
-**Advertisers.** We use outside ad companies to display ads on our site. Ads may contain cookies that appear to be coming from our site, but in reality they are coming from our partners who are serving ads on our site. We do not have access to any information about you from cookies you might receive while visiting our site. Some customer data is shared with the advertising companies.
+**COPPA** WinEveryGame.com does not specifically market to children and complies with COPPA.
 
-**External Links.** This site contains links to other sites. WinEveryGame.com, its owners or affliates, are not responsible for the privacy practices or the content of such Web sites, or their content.
+**Do Not Sell My Personal Data** We do not sell data to third parties. Non-personally identifiable visitor information may be used by other parties for marketing, advertising, or other uses.
 
-**IP Addresses.** We use your IP Address for tracking purposes only.
+**Cookies** Third-party cookies, tags, pixels, beacons and other similar technologies may be placed on our website to monitor interaction with advertising content and to target and optimize advertising.
 
-**Computer Information.** We may gather your computer resolution and operating system by using a tracker. This information is only used to make our site better accessible to the viewers.
+**Data Deletion** If you believe we have personally identifiable data related to you, and if you would like us to delete it, please send us an email and we would be happy to delete it.
 
-**Security.** This site has security measures in place to protect the loss, misuse and alteration of the information under our control.
+**Play! Win! Have Fun (Safely and Privately)!**  
+wineverygame (at) gmail (dot) com - We love to hear from you!
 
-**Choice/Opt-Out.** This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. You can send email to wineverygame (at) gmail (dot) com
-
-**Contacting the Web Site.** If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us wineverygame (at) gmail (dot) com
-
-* * *
+Scrabble is a registered trademark of Hasbro in the US and Canada, and J.W. Spear and Sons PLC, a subsidiary of Mattel Inc, elsewhere.
