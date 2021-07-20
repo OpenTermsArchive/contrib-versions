@@ -1,6 +1,3 @@
-STARBUCKS PRIVACY STATEMENT
-===========================
-
 **At Starbucks, we approach data and privacy as we approach everything we do: we put people first.**
 
 As part of our effort to protect your privacy and to comply with applicable privacy and data protection laws, we strive to consider all of our data governance practices through the lens of the recognized principles of data minimization, limited collection, and limited use, among other key areas addressed below. We do so to respect and maintain your trust. In other words, we believe that taking care of you includes taking care of your data and privacy. Grab a cup of coffee and learn more below.
@@ -262,7 +259,7 @@ To opt-out of data collection for interest-based advertising across mobile appli
 
 ### 10\. How to Manage Your Account Information and Your Privacy Rights
 
-Starbucks believes in putting you in control of your personal information. Upon request we will provide you with information about whether we hold any of your personal information and how it is used. You may access, correct, or remove your personal information by visiting your user account, such as at [Starbucks.com/Account](http://starbucks.com/Account) or [catering.princi.com/account](http://catering.princi.com/account), or by contacting us as described in the [Contact Us](#contact_us) section below. As required by law for taxes and other record keeping purposes, we are unable to completely delete an account from our internal records.
+Starbucks believes in putting you in control of your personal information. Upon request we will provide you with information about whether we hold any of your personal information and how it is used. You may access, correct, or remove your personal information by visiting your user account, such as at [Starbucks.com/Account](https://www.starbucks.com/account/signin), or by contacting us as described in the [Contact Us](#contact_us) section below. As required by law for taxes and other record keeping purposes, we are unable to completely delete an account from our internal records.
 
 In addition, to submit an information request as a U.S. resident, please click [here](https://privacyportal-cdn.onetrust.com/dsarwebform/f9975fc5-c93f-4ff8-8169-846d8f6cd4d2/dd7e8c8f-839f-4be3-9ebc-060786941e92.html); or to submit an information request as a Canadian resident, please click [here](https://privacyportal.onetrust.com/webform/f9975fc5-c93f-4ff8-8169-846d8f6cd4d2/2e24ae7b-8edf-411f-a11d-14a16ddaa413).
 
@@ -403,8 +400,6 @@ If you have an unresolved privacy or data use concern that we have not addressed
 
 Under certain conditions, more fully described on the Privacy Shield website here: [https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
-[![TRUSTe](//privacy-policy.truste.com/privacy-seal/seal?rid=625f045f-b082-4cd8-af08-fcf9445e95d8)](https://privacy.truste.com/privacy-seal/validation?rid=625f045f-b082-4cd8-af08-fcf9445e95d8 "TRUSTe")
-
 ### 19\. Contact Us
 
 We welcome your questions, comments and concerns about privacy. You can contact Starbucks Customer Service online at [http://customerservice.starbucks.com](http://customerservice.starbucks.com/) (by phone at 800-Starbuc (782-7282), or by postal mail at: Starbucks Customer Service, Starbucks, P.O. Box 20430, Augusta, GA 30916.
@@ -417,7 +412,7 @@ Additional contact information may be found below for various Starbucks entities
 
 *   Country – Canada
     *   Entity Name – Starbucks Corporation (Canada)
-    *   Entity Address – P.O. Box 93490 Albuquerque, NM 87199
+    *   Entity Address – P.O. Box 20430, Augusta, GA 30916 USA
     *   Additional Contact (If Any) –
         *   Customer Service
             *   800-Starbuc (782-7282)
@@ -445,7 +440,8 @@ Additional contact information may be found below for various Starbucks entities
             *   tel.: +443330050449 or +442088345050 (app)
 *   Country – U.S.
     *   Entity Name – Starbucks Reserve; Princi
-    *   Entity Address – Starbucks, P.O. Box 20430, Augusta, GA 30916
+    *   Entity Address – Starbucks, P.O. Box 20430, Augusta, GA 30916  
+        
     *   Additional Contact (If Any) –
         *   Customer Service
             *   [http://customerservice.starbucks.com](http://customerservice.starbucks.com/)
