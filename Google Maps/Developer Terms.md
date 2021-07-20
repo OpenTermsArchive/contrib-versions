@@ -664,7 +664,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   MOTC 2019-present [MOTC Transport API V2](https://ptx.transportdata.tw/MOTC?t=Bike&v=2#!/Bike/CyclingApi_Shape) and future versions. The Open Data is made available to the public under the (Taiwan) Open Government Data License, and users can make use of it when satisfying the conditions and complying with the obligations set out in its terms. Open Government Data License can be found at [https://data.gov.tw/license](https://data.gov.tw/license)
             
-        *   National Development Council, Open Government Data Taiwan, [data.gov.tw](https://www.google.com/help/legalnotices_maps/data.gov.tw) ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
+        *   National Development Council, Open Government Data Taiwan, [data.gov.tw](https://data.gov.tw/) ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
             
     39.  **Turkey**
         
