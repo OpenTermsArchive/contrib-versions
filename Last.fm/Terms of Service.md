@@ -1,3 +1,6 @@
+Terms of Use
+============
+
 **Updated on:** Tuesday 2 June 2015
 
 *   Like most large-scale websites, we have some rules which you need to stick to when you use Last.fm. These rules aren’t just the “blahblahblah-yawn-small print” – these are the legal terms of use and so we recommend you read them carefully so you know what you’ve agreed to.
