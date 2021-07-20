@@ -1,14 +1,16 @@
+Find more solutions
+
 Conditions of Use
 =================
 
-**Last updated: May 21, 2018**
+**Last updated: May 3, 2021**
 
-Welcome to Amazon.com. Amazon.com Services LLC and/or its affiliates ("Amazon") provide website features and other products and services to you when you visit or shop at Amazon.com, use Amazon products or services, use Amazon applications for mobile, or use software provided by Amazon in connection with any of the foregoing (collectively, "Amazon Services"). Amazon provides the Amazon Services subject to the following conditions.
+Welcome to Amazon.com. Amazon.com Services LLC and/or its affiliates ("Amazon") provide website features and other products and services to you when you visit or shop at Amazon.com, use Amazon products or services, use Amazon applications for mobile, or use software provided by Amazon in connection with any of the foregoing (collectively, "Amazon Services"). By using the Amazon Services, you agree, on behalf of yourself and all members of your household and others who use any Service under your account, to the following conditions.
 
-By using Amazon Services, you agree to these conditions. Please read them carefully.
-------------------------------------------------------------------------------------
+Please read these conditions carefully.
+---------------------------------------
 
-We offer a wide range of Amazon Services, and sometimes additional terms may apply. When you use an Amazon Service (for example, Your Profile, Gift Cards, Amazon Video, Your Media Library, Amazon devices, or [Amazon applications](https://www.amazon.com/gp/feature.html?docId=1000625601)) you also will be subject to the guidelines, terms and agreements applicable to that Amazon Service ("Service Terms"). If these Conditions of Use are inconsistent with the Service Terms, those Service Terms will control.
+We offer a wide range of Amazon Services, and sometimes additional terms may apply. When you use an Amazon Service (for example, Your Profile, Gift Cards, Amazon Video, Your Media Library, Amazon devices, or Amazon applications) you also will be subject to the guidelines, terms and agreements applicable to that Amazon Service ("Service Terms"). If these Conditions of Use are inconsistent with the Service Terms, those Service Terms will control.
 
 PRIVACY
 -------
@@ -43,7 +45,7 @@ Subject to your compliance with these Conditions of Use and any Service Terms, a
 YOUR ACCOUNT
 ------------
 
-You may need your own Amazon account to use certain Amazon Services, and you may be required to be logged in to the account and have a valid payment method associated with it. If there is a problem charging your selected payment method, we may charge any other valid payment method associated with your account. Visit https://www.amazon.com/cpe/managepaymentmethods?ref\_=ya\_d\_c\_pmt\_mpo& to manage your payment options. You are responsible for maintaining the confidentiality of your account and password and for restricting access to your account, and you agree to accept responsibility for all activities that occur under your account or password. Amazon does sell products for children, but it sells them to adults, who can purchase with a credit card or other permitted payment method. If you are under 18, you may use the Amazon Services only with involvement of a parent or guardian. Parents and guardians may create profiles for teenagers in their Amazon Household. Alcohol listings on Amazon are intended for adults. You must be at least 21 years of age to purchase alcohol, or use any site functionality related to alcohol. Amazon reserves the right to refuse service, terminate accounts, terminate your rights to use Amazon Services, remove or edit content, or cancel orders in its sole discretion.
+You may need your own Amazon account to use certain Amazon Services, and you may be required to be logged in to the account and have a valid payment method associated with it. If there is a problem charging your selected payment method, we may charge any other valid payment method associated with your account. Visit [Your Payments](https://www.amazon.com/cpe/managepaymentmethods?ref_=ya_d_c_pmt_mpo&) to manage your payment options. You are responsible for maintaining the confidentiality of your account and password and for restricting access to your account, and you agree to accept responsibility for all activities that occur under your account or password. Amazon does sell products for children, but it sells them to adults, who can purchase with a credit card or other permitted payment method. If you are under 18, you may use the Amazon Services only with involvement of a parent or guardian. Parents and guardians may create profiles for teenagers in their Amazon Household. Alcohol listings on Amazon are intended for adults. You must be at least 21 years of age to purchase alcohol, or use any site functionality related to alcohol. Amazon reserves the right to refuse service, terminate accounts, terminate your rights to use Amazon Services, remove or edit content, or cancel orders in its sole discretion.
 
 REVIEWS, COMMENTS, COMMUNICATIONS, AND OTHER CONTENT
 ----------------------------------------------------
@@ -55,7 +57,7 @@ If you do post content or submit material, and unless we indicate otherwise, you
 INTELLECTUAL PROPERTY COMPLAINTS
 --------------------------------
 
-Amazon respects the intellectual property of others. If you believe that your intellectual property rights are being infringed, please follow our [Notice and Procedure for Making Claims of Copyright Infringement](https://www.amazon.com/gp/help/customer/display.html?nodeId=GLSBYFE9MGKKQXXM).
+Amazon respects the intellectual property of others. If you believe that your intellectual property rights are being infringed, please follow our [Notice and Procedure for Making Claims of Copyright Infringement](https://www.amazon.com/report/infringement)
 
 RISK OF LOSS
 ------------
@@ -65,7 +67,7 @@ All purchases of physical items from Amazon are made pursuant to a shipment cont
 RETURNS, REFUNDS AND TITLE
 --------------------------
 
-Amazon does not take title to returned items until the item arrives at our fulfillment center. At our discretion, a refund may be issued without requiring a return. In this situation, Amazon does not take title to the refunded item. For more information about our returns and refunds, please see our [Returns Center](https://www.amazon.com/returns) .
+Amazon does not take title to returned items until the item arrives at our fulfillment center. At our discretion, a refund may be issued without requiring a return. In this situation, Amazon does not take title to the refunded item. For more information about our returns and refunds, please see our [Returns Center.](https://www.amazon.com/returns)
 
 PRODUCT DESCRIPTIONS
 --------------------
@@ -84,7 +86,7 @@ We generally do not charge your credit card until after your order has entered t
 APP PERMISSIONS
 ---------------
 
-When you use apps created by Amazon, such as the Amazon App or Kindle App, you may grant certain permissions to us for your device. Most mobile devices provide you with information about these permissions. To learn more about these permissions, [click here](https://www.amazon.com/gp/help/customer/display.html/?nodeId=201818880) .
+When you use apps created by Amazon, such as the Amazon App or Kindle App, you may grant certain permissions to us for your device. Most mobile devices provide you with information about these permissions. To learn more about these permissions, [click here.](https://www.amazon.com/gp/help/customer/display.html/?nodeId=201818880)
 
 SANCTIONS AND EXPORT POLICY
 ---------------------------
@@ -106,18 +108,12 @@ TO THE FULL EXTENT PERMISSIBLE BY LAW, AMAZON DISCLAIMS ALL WARRANTIES, EXPRESS 
 DISPUTES
 --------
 
-**Any dispute or claim relating in any way to your use of any Amazon Service, or to any products or services sold or distributed by Amazon or through Amazon.com will be resolved by binding arbitration, rather than in court**, except that you may assert claims in small claims court if your claims qualify. The Federal Arbitration Act and federal arbitration law apply to this agreement.
-
-**There is no judge or jury in arbitration, and court review of an arbitration award is limited. However, an arbitrator can award on an individual basis the same damages and relief as a court (including injunctive and declaratory relief or statutory damages), and must follow the terms of these Conditions of Use as a court would.**
-
-To begin an arbitration proceeding, you must send a letter requesting arbitration and describing your claim to our registered agent Corporation Service Company, 300 Deschutes Way SW, Suite 208 MC-CSC1, Tumwater, WA 98501. The arbitration will be conducted by the American Arbitration Association (AAA) under its rules, including the AAA's Supplementary Procedures for Consumer-Related Disputes. The AAA's rules are available at www.adr.org or by calling 1-800-778-7879. Payment of all filing, administration and arbitrator fees will be governed by the AAA's rules. We will reimburse those fees for claims totaling less than $10,000 unless the arbitrator determines the claims are frivolous. Likewise, Amazon will not seek attorneys' fees and costs in arbitration unless the arbitrator determines the claims are frivolous. You may choose to have the arbitration conducted by telephone, based on written submissions, or in person in the county where you live or at another mutually agreed location.
-
-**We each agree that any dispute resolution proceedings will be conducted only on an individual basis and not in a class, consolidated or representative action.** If for any reason a claim proceeds in court rather than in arbitration **we each waive any right to a jury trial**. We also both agree that you or we may bring suit in court to enjoin infringement or other misuse of intellectual property rights.
+Any dispute or claim relating in any way to your use of any Amazon Service will be adjudicated in the state or Federal courts in King County, Washington, and you consent to exclusive jurisdiction and venue in these courts. We each waive any right to a jury trial.
 
 APPLICABLE LAW
 --------------
 
-By using any Amazon Service, you agree that the Federal Arbitration Act, applicable federal law, and the laws of the state of Washington, without regard to principles of conflict of laws, will govern these Conditions of Use and any dispute of any sort that might arise between you and Amazon.
+By using any Amazon Service, you agree that applicable federal law, and the laws of the state of Washington, without regard to principles of conflict of laws, will govern these Conditions of Use and any dispute of any sort that might arise between you and Amazon.
 
 SITE POLICIES, MODIFICATION, AND SEVERABILITY
 ---------------------------------------------
@@ -136,7 +132,7 @@ Seattle, WA 98108-1226
 ADDITIONAL AMAZON SOFTWARE TERMS
 --------------------------------
 
-The following terms (“Software Terms”) apply to any software (including any updates or upgrades to the software) and any related documentation we make available to you in connection with Amazon Services (the "Amazon Software").  
+The following terms (“Software Terms”) apply to any software (including any updates or upgrades to the software) and any related documentation we make available to you in connection with Amazon Services (the "Amazon Software").
 
 1.  **Use of the Amazon Software.** You may use Amazon Software solely for purposes of enabling you to use the Amazon Services as provided by Amazon, and as permitted by these Conditions of Use and any Service Terms. You may not incorporate any portion of the Amazon Software into other programs or compile any portion of it in combination with other programs, or otherwise copy (except to exercise rights granted in this section), modify, create derivative works of, distribute, assign any rights to, or license the Amazon Software in whole or in part. All software used in any Amazon Service is the property of Amazon or its software suppliers and is protected by United States and international copyright laws.
 2.  **Use of Third Party Services.** When you use the Amazon Software, you may also be using the services of one or more third parties, such as a wireless carrier or a mobile software provider. Your use of these third party services may be subject to the separate policies, terms of use, and fees of these third parties.
@@ -161,7 +157,7 @@ Please note also that providing detailed and accurate information at the outset 
 NOTICE AND PROCEDURE FOR MAKING CLAIMS OF INTELLECTUAL PROPERTY INFRINGEMENT
 ----------------------------------------------------------------------------
 
-If you believe that your intellectual property rights have been infringed, please submit your complaint using our online [form](https://www.amazon.com/gp/help/reports/infringement). This form may be used to report all types of intellectual property claims including, but not limited to, copyright, trademark, and patent claims.
+If you believe that your intellectual property rights have been infringed, please submit your complaint using our online [form](https://www.amazon.com/report/infringement). This form may be used to report all types of intellectual property claims including, but not limited to, copyright, trademark, and patent claims.
 
 We respond quickly to the concerns of rights owners about any alleged infringement, and we terminate repeat infringers in appropriate circumstances.
 
