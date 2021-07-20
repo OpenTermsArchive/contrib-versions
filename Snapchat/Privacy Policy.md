@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-Effective: 24 March 2021
+Effective: 9 July 2021
 
 Snap Inc. is a camera company. Our products and services – including Snapchat, Bitmoji, Spectacles, advertising and others that link to this Privacy Policy – provide fast and fun ways to express yourself, live in the moment, learn about the world and have fun together!
 
@@ -229,6 +229,12 @@ You have the right to object to our use of your information. With many types of 
 ### International transfers
 
 We may collect your personal information from, transfer it to and store and process it in the United States and other countries outside of where you live. Whenever we share information of EU users outside the EU, we make sure an adequate transfer mechanism is in place. You can find more information on the categories of third parties we share information with [here](https://support.snapchat.com/a/snapchat-service-providers).
+
+**EU representative**
+
+Snap Inc. has appointed Snap B.V. as its EU representative. You can contact the EU representative [here](https://support.snapchat.com/i-need-help?start=5749439348080640) or at:
+
+Snap B.V. Keizersgracht 440 B, 1016 GD Amsterdam, The Netherlands
 
 **Complaints or questions?** If you’re based in the EU, you can always file a complaint with the [supervisory authority](https://edpb.europa.eu/about-edpb/board/members_en) in your Member State. Additionally, we have appointed a Data Protection Officer (“DPO”). To contact our DPO, please email dpo @ snap.com.
 
