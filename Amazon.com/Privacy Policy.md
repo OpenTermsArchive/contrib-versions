@@ -1,24 +1,11 @@
+Find more solutions
+
 Amazon.com Privacy Notice
 =========================
 
 **Last updated: February 12, 2021.** To see prior version, click [here](https://www.amazon.com/gp/help/customer/display.html?nodeId=202056900).
 
 We know that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This Privacy Notice describes how Amazon.com and its affiliates (collectively "Amazon") collect and process your personal information through Amazon websites, devices, products, services, online and physical stores, and applications that reference this Privacy Notice (together "Amazon Services"). **By using Amazon Services, you are consenting to the practices described in this Privacy Notice.**
-
-*   [What Personal Information About Customers Does Amazon Collect?](#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_467C686A137847768F44B619694D3F7C)
-*   [For What Purposes Does Amazon Use Your Personal Information?](#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_7CE768C1281346DAAF87CE795E8B3610)
-*   [What About Cookies and Other Identifiers?](#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_0D132936501A4AE0A2F8D74426A8A2CA)
-*   [Does Amazon Share Your Personal Information?](#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_3DF674DAB5B7439FB2A9B4465BC3E0AC)
-*   [How Secure Is Information About Me?](#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_277A1D99140544EE9259ACA749AE3C3D)
-*   [What About Advertising?](#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_3F77537F901B4157B0CBD26834827652)
-*   [What Information Can I Access?](#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_002EF744608C4F9CAA7685BECC6C85FC)
-*   [What Choices Do I Have?](#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_697E8F46A0354B3B83E1A0D4C2FA52EE)
-*   [Are Children Allowed to Use Amazon Services?](#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_D17374D6EE5B4077946965351E11175C)
-*   [EU-US and Swiss-US Privacy Shield](#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_A110DAC3F6BC4D5D9DDD59797104B1E5)
-*   [California Consumer Privacy Act](#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_FE2374D302994717AB1A8CE585E7E8BE)
-*   [Conditions of Use, Notices, and Revisions](#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_BA2E1D5A9B1F41CB86BCF0A40D9B8604)
-*   [Related Practices and Information](#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_644071FEF22E48A2A160BAA332F95B27)
-*   [Examples of Information Collected](#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_87C837F9CCD84769B4AE2BEB14AF4F01)
 
 What Personal Information About Customers Does Amazon Collect?
 --------------------------------------------------------------
