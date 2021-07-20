@@ -98,13 +98,13 @@ Snap Group Limited respects the rights of others. And so should you. You therefo
 
 You must also respect Snap Inc.’s rights and adhere to the [Brand Guidelines](https://www.snap.com/en-GB/brand-guidelines/), [Bitmoji Brand Guidelines](https://www.bitmoji.com/bitmoji_brand_guidelines.pdf) and any other brand guidelines published by Snap Inc.  You may not do any of the following (or enable anyone else to do so).
 
-*   use branding, logos, icons, user interface, designs, photographs, videos or any other materials used in our Services, except as explicitly allowed by the [Brand Guidelines,](https://www.snap.com/en-GB/brand-guidelines/) [Bitmoji Brand Guidelines](https://www.bitmoji.com/bitmoji_brand_guidelines.pdf) or other brand guidelines published by Snap Inc.
+*   Use branding, logos, icons, user interface, designs, photographs, videos or any other materials used in our Services, except as explicitly allowed by the [Brand Guidelines,](https://www.snap.com/en-GB/brand-guidelines/) [Bitmoji Brand Guidelines](https://www.bitmoji.com/bitmoji_brand_guidelines.pdf) or other brand guidelines published by Snap Inc.
     
-*   violate or infringe Snap Inc.’s copyrights, trademarks or other intellectual property rights.
+*   Violate or infringe Snap Inc.’s copyrights, trademarks or other intellectual property rights.
     
-*   copy, archive, download, upload, distribute, syndicate, broadcast, perform, display, make available or otherwise use any portion of the Services or the content on the Services except as set forth in these Terms.
+*   Copy, archive, download, upload, distribute, syndicate, broadcast, perform, display, make available or otherwise use any portion of the Services or the content on the Services except as set forth in these Terms.
     
-*   use the Services, any tools provided by the Services or any content on the Services for any commercial purposes without our consent.
+*   Use the Services, any tools provided by the Services or any content on the Services for any commercial purposes without our consent.
     
 
 In short: you may not use the Services or the content on the Services in ways that are not authorised by these Terms. Nor may you help anyone else in doing so.
