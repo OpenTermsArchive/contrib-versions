@@ -66,7 +66,11 @@ In rare cases, you may be alleging copyright infringement in a full repository t
 
 The DMCA prohibits the [circumvention of technical measures](https://www.copyright.gov/title17/92chap12.html) that effectively control access to works protected by copyright. Given that these types of claims are often highly technical in nature, GitHub requires claimants to provide [detailed information about these claims](https://docs.github.com/en/github/site-policy/guide-to-submitting-a-dmca-takedown-notice#complaints-about-anti-circumvention-technology), and we undertake a more extensive review.
 
-A circumvention claim must include the following details about the technical measures in place and the manner in which the accused project circumvents them. Specifically, the notice to GitHub must include detailed statements that describe: 1. What the technical measures are; 2. How they effectively control access to the copyrighted material; and 3. How the accused project is designed to circumvent their previously described technological protection measures.
+A circumvention claim must include the following details about the technical measures in place and the manner in which the accused project circumvents them. Specifically, the notice to GitHub must include detailed statements that describe:
+
+1.  What the technical measures are;
+2.  How they effectively control access to the copyrighted material; and
+3.  How the accused project is designed to circumvent their previously described technological protection measures.
 
 GitHub will review circumvention claims closely, including by both technical and legal experts. In the technical review, we will seek to validate the details about the manner in which the technical protection measures operate and the way the project allegedly circumvents them. In the legal review, we will seek to ensure that the claims do not extend beyond the boundaries of the DMCA. In cases where we are unable to determine whether a claim is valid, we will err on the side of the developer, and leave the content up. If the claimant wishes to follow up with additional detail, we would start the review process again to evaluate the revised claims.
 
