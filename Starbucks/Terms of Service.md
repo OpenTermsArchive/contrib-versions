@@ -1,6 +1,3 @@
-Terms of Use
-============
-
 Last Revised: November 2020
 
 PLEASE READ THESE TERMS OF USE CAREFULLY. ACCESSING OR USING THIS WEBSITE, CONSTITUTES ACCEPTANCE OF THESE TERMS OF USE (“TERMS”), AS SUCH MAY BE REVISED BY STARBUCKS FROM TIME TO TIME, AND IS A BINDING AGREEMENT BETWEEN THE USER (“USER”) AND STARBUCKS CORPORATION (D/B/A STARBUCKS COFFEE COMPANY) GOVERNING THE USE OF THE WEBSITE. IF USER DOES NOT AGREE TO THESE TERMS, USER SHOULD NOT ACCESS OR USE THIS WEBSITE. THESE TERMS CONTAIN DISCLAIMERS AND OTHER PROVISIONS THAT LIMIT OUR LIABILITY TO USER.
@@ -14,15 +11,13 @@ While we make reasonable efforts to provide accurate and timely information abou
 These terms include an Arbitration provision that governs any disputes between you and us. This provision will:
 
 *   Eliminate your right to a trial by jury; and
-*   Substantially affect your rights, including preventing you from bringing, joining or participating in class or consolidated proceedings..
+*   Substantially affect your rights, including preventing you from bringing, joining or participating in class or consolidated proceedings.
 
 You agree that we may provide notices, disclosures and amendments to these Terms by electronic means, including by changing these Terms by posting revisions on the Sites.
 
 See also:  
-  
-[Starbucks® Rewards Terms](https://www.starbucks.com/terms)  
-  
-[Starbucks Card Terms](https://www.starbucks.com/card/card-terms-and-conditions)
+[Starbucks® Rewards Terms](https://www.starbucks.com/rewards/terms)  
+[Starbucks Card Terms](https://www.starbucks.com/terms/manage-gift-cards)
 
 **Eligibility**
 
@@ -36,7 +31,7 @@ Please read the Privacy Policy carefully to understand how Starbucks collects, u
 
 **Starbucks Cards; Starbucks® Rewards Program**
 
-Starbucks may allow you to purchase Starbucks stored value cards (“Starbucks Cards”) or register for its Starbucks® Rewards (“Rewards Program”) program through the Sites. Please refer to the [Starbucks Card Terms & Conditions](http://www.starbucks.com/card/card-terms-and-conditions) for more information about the terms, conditions and policies that apply to your purchase and use of Starbucks Cards; and to the [Starbucks Rewards Terms of Use](http://www.starbucks.com/card/rewards/rewards-program-ts-and-cs) for more information about the terms, conditions and policies that apply to your registration and use of the Rewards Program.
+Starbucks may allow you to purchase Starbucks stored value cards (“Starbucks Cards”) or register for its Starbucks® Rewards (“Rewards Program”) program through the Sites. Please refer to the [Starbucks Card Terms & Conditions](http://www.starbucks.com/terms/manage-gift-cards) for more information about the terms, conditions and policies that apply to your purchase and use of Starbucks Cards; and to the [Starbucks Rewards Terms of Use](http://www.starbucks.com/card/rewards/rewards-program-ts-and-cs) for more information about the terms, conditions and policies that apply to your registration and use of the Rewards Program.
 
 **Email Communications**
 
@@ -53,13 +48,9 @@ Subject to these Terms, Starbucks grants the User a personal, non-exclusive, non
 If you believe any material available via the Sites infringes a copyright you own or control, you may file a notification of such infringement with our Designated Agent as set forth below.
 
 Starbucks Corporation  
-  
 Customer Care  
-  
 2401 Utah Ave. S., S-CR1, Seattle, WA 98134  
-  
 1-800-Starbuc (782-7282)  
-  
 [info@starbucks.com](mailto:info@starbucks.com)
 
 Please see 17 U.S.C. §512(c)(3) for the requirements of a proper notification. You should note that if you knowingly misrepresent in your notification that the material or activity is infringing, you will be liable for any damages, including costs and attorneys' fees, incurred by us or the alleged infringer as the result of our relying upon such misrepresentation in removing or disabling access to the material or activity claimed to be infringing.
@@ -165,11 +156,7 @@ Under California Civil Code Section 1789.3, California residents are entitled to
 Any questions, complaints, or claims regarding the Sites should be directed to:
 
 Starbucks Coffee Company  
-  
 Customer Care ([info@starbucks.com](mailto:info@starbucks.com))  
-  
 2401 Utah Ave. S  
-  
-Seattle, WA 98134
-
+Seattle, WA 98134  
 Phone: 1-800-STARBUC (782-7282)
