@@ -3,24 +3,30 @@ Google Ads policies
 
 Google provides translated versions of our Help Center as a convenience, though they are not meant to change the content of our policies. The English version is the official language we use to enforce our policies. To view this article in a different language, use the language dropdown at the bottom of the page.
 
-Welcome to the Google Advertising Policies Center.
+Welcome to the Google Advertising Policies Center
+-------------------------------------------------
 
-We want to support a healthy digital advertising ecosystem—one that is trustworthy and transparent, and works for users, advertisers, and publishers. The purpose of this website is to help you build Google Ads campaigns that align with our advertising policies listed below. These policies are designed not only to abide by laws but to ensure a safe and positive experience for our users. This means that our policies prohibit some content that we believe to be harmful to users and the overall advertising ecosystem.
+|     |     |     |
+| --- | --- | --- |
+| [![Button 1, select this to manage your account using the Policy manager.](//storage.googleapis.com/support-kms-prod/k1MH7t2ydWQaQ0AqYe2v3Og4i4xjvbIBaBtE "Button 1, select this to manage your account using the Policy manager.")](https://ads.google.com/aw/policymanager/issues) | [![Button 2, select to learn how to fix a suspended account.](//storage.googleapis.com/support-kms-prod/HUtOVDcYsvrjX13p86VtDNllZXANk5luR5oc "Button 2, select to learn how to fix a suspended account.")](https://support.google.com/google-ads/workflow/9290386) | [![Button 3, select to report an ad violation.](//storage.googleapis.com/support-kms-prod/beGVAEgSbnM1YzJAsX0lZ0Z8okdo2CTZGukk "Button 3, select to report an ad violation.")](https://support.google.com/ads/troubleshooter/4578507) |
 
-We use a combination of automated and human evaluation to ensure Google Ads comply with these policies. However, if you observe any ads that may violate our policies, please report those ads [here](https://support.google.com/google-ads/contact/vio_other_aw_policy).
+Overview of our policies
+------------------------
+
+We want to support a healthy digital advertising ecosystem—one that is trustworthy and transparent, and works for users, advertisers, and publishers. The purpose of this help center is to help you build Google Ads campaigns that align with our advertising policies listed below. These policies are designed not only to abide by laws but to ensure a safe and positive experience for our users. This means that our policies prohibit some content that we believe to be harmful to users and the overall advertising ecosystem.
+
+We use a combination of automated and human evaluation to ensure Google Ads comply with these policies. 
 
 Our advertising policies cover four broad areas:
 
-*   ![Google Ads policies | prohibited content](//storage.googleapis.com/support-kms-prod/RrjdySjRxcYJL3NpcXaobwTxuk7zctDbL8rX "Google Ads policies | prohibited content") **[Prohibited content](#con):** Content you can't advertise on the Google Network
-*   ![Google Ads policies | prohibited practice](//storage.googleapis.com/support-kms-prod/aYpRwkWqocXCGj8TVXwShJAbVpbcYO9qABIs "Google Ads policies | prohibited practice") **[Prohibited practices](#pra):** Things you can't do if you want to advertise with us
-*   ![Google Ads policies | restricted content](//storage.googleapis.com/support-kms-prod/tNErobNFH6ZkSwZtpMfEXrQkhCi1uMdPn3ur "Google Ads policies | restricted content") **[Restricted content and features](#res):** Content you can advertise, but with limitations
-*   ![Google Ads policies | Editorial and technical](//storage.googleapis.com/support-kms-prod/hza1ZDCgK38me1XBTkYHl7o1eUaDUDjNGfVT "Google Ads policies | Editorial and technical") **[Editorial and technical](#ed):** Quality standards for your ads, websites, and apps
+> |     |     |
+> | --- | --- |
+> | ![Google Ads policies \| prohibited content](//storage.googleapis.com/support-kms-prod/RrjdySjRxcYJL3NpcXaobwTxuk7zctDbL8rX "Google Ads policies \| prohibited content") | **[Prohibited content](#con):** Content you can't advertise on the Google Network |
+> | ![Google Ads policies \| prohibited practice](//storage.googleapis.com/support-kms-prod/aYpRwkWqocXCGj8TVXwShJAbVpbcYO9qABIs "Google Ads policies \| prohibited practice") | **[Prohibited practices](#pra):** Things you can't do if you want to advertise with us |
+> | ![Google Ads policies \| restricted content](//storage.googleapis.com/support-kms-prod/tNErobNFH6ZkSwZtpMfEXrQkhCi1uMdPn3ur "Google Ads policies \| restricted content") | **[Restricted content and features](#res):** Content you can advertise, but with limitations |
+> | ![Google Ads policies \| Editorial and technical](//storage.googleapis.com/support-kms-prod/hza1ZDCgK38me1XBTkYHl7o1eUaDUDjNGfVT "Google Ads policies \| Editorial and technical") | **[Editorial and technical](#ed):** Quality standards for your ads, websites, and apps |
 
-* * *
-
-* * *
-
-  
+Click through the policies below for policy definitions, examples, and troubleshooting steps. 
 
 Prohibited content
 ------------------
