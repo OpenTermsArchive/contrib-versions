@@ -1,6 +1,6 @@
-**Effective Date: May 15, 2021 – [What’s New >>](https://evernote.com/privacy/updates)**
+**Effective Date: July 21, 2021 – [What’s New >>](https://evernote.com/privacy/updates)**
 
-For a prior version of our Privacy Policy, click [here](https://evernote.com/privacy/policy-01-01-2020). 
+For a prior version of our Privacy Policy, click [here](https://evernote.com/privacy/policy-05-15-2021). 
 
 **In the event of a conflict, the English language version shall govern.**
 
@@ -11,9 +11,9 @@ Introduction
 
 Evernote is committed to protecting the privacy of your data. This Privacy Policy explains what information Evernote Corporation and its Group Companies (together, “Evernote,” “we” or “us”) collect, use, and disclose about you when you access or use our websites and applications, which we refer to collectively as the Evernote Service (defined in our [Glossary](https://evernote.com/legal/glossary)), contact our customer service team, engage with us on social media, or otherwise interact with us.
 
-Please note, if you are an Individual Account user, you are both the Account Holder and End User of an Evernote Service account. If you use Evernote Business, the Account Holder is the Customer who has contracted with Evernote as defined in our [Evernote Business Agreement](https://evernote.com/legal/business) and the End Users are the individuals whose user accounts are linked to that Evernote Business account. You can find these and other defined terms used in this policy in our [Glossary](https://evernote.com/legal/glossary).
+Please note, if you are an Individual Account user, you are both the Account Holder and End User of an Evernote Service account. If you use Evernote Teams, the Account Holder is the Customer who has contracted with Evernote as defined in our [Evernote Teams Agreement](https://evernote.com/legal/business) and the End Users are the individuals whose user accounts are linked to that Evernote Teams account. You can find these and other defined terms used in this policy in our [Glossary](https://evernote.com/legal/glossary).
 
-If you are an End User of an Evernote Business account, please note that the Account Holder of your Evernote Business account (such as your employer or organization) may have established its own rules regarding End Users’ access, use, disclosure, or retention of data stored in that account. Also note that while an Administrator of an Evernote Business account has access to the End User accounts linked to that Evernote Business account, an Administrator cannot access any other accounts that are not linked to the Evernote Business account. You can find more information on how your individual Evernote Service account works with your Evernote Business account by visiting [https://help.evernote.com/hc/articles/209005287](https://help.evernote.com/hc/articles/209005287).
+If you are an End User of an Evernote Teams account, please note that the Account Holder of your Evernote Teams account (such as your employer or organization) may have established its own rules regarding End Users’ access, use, disclosure, or retention of data stored in that account. Also note that while an Administrator of an Evernote Teams account has access to the End User accounts linked to that Evernote Teams account, an Administrator cannot access any other accounts that are not linked to the Evernote Teams account. You can find more information on how your individual Evernote Service account works with your Evernote Teams account by visiting [https://help.evernote.com/hc/articles/209005287](https://help.evernote.com/hc/articles/209005287).
 
 Although significant changes are rare, this policy may be amended as new features, technology, or legal requirements arise, so please check back from time to time. We’ll notify you if we make a significant change and, where required, seek your consent. 
 
@@ -77,14 +77,14 @@ The types of information we collect and receive when you use the Evernote Servic
 | Whether your account was created or referred through a reseller or other partner who helps distribute or promote Evernote accounts | *   To determine the amount of revenue share payments to make to partners with whom we might have such arrangements and to provide aggregated and anonymized revenue share reports. These partners could include resellers or distribution partners. |
 | Your payment information, if you purchase a subscription | To process your payment. |
 
-Additional information we collect in connection with Evernote Business accounts:
+Additional information we collect in connection with Evernote Teams accounts:
 
 |     |     |
 | --- | --- |
 | **We collect** | **Why we collect it** |
-| Email address of Account Holder and End Users | *   To create and support the Evernote Business account.<br>*   To communicate with the Account Holder and End Users of the Evernote Business account in accordance with communication preferences.<br>*   To enable Account Holder and End Users of an Evernote Business account to use Collaboration Features.<br>*   To verify Account Holder’s and End Users’ email addresses to help prevent spam, fraud, and abuse. |
+| Email address of Account Holder and End Users | *   To create and support the Evernote Teams account.<br>*   To communicate with the Account Holder and End Users of the Evernote Teams account in accordance with communication preferences.<br>*   To enable Account Holder and End Users of an Evernote Teams account to use Collaboration Features.<br>*   To verify Account Holder’s and End Users’ email addresses to help prevent spam, fraud, and abuse. |
 | Billing information (e.g., postal address, email address, and telephone number) | *   To communicate with the Billing Contact on the account and provide account support. |
-| Employment-related personal information (e.g., your business title) – if you elect to share it | *   To show in your Evernote Business account user profile if you choose. |
+| Employment-related personal information (e.g., your business title) – if you elect to share it | *   To show in your Evernote Teams account user profile if you choose. |
 
 If you use our Web Clipper browser extension or “Save to Evernote” button:
 
@@ -112,7 +112,7 @@ We may derive information or associate categories with you based on the informat
 How does Evernote use my information?
 -------------------------------------
 
-We have specific rules for how and when we use the information we collect and receive. We are committed to protecting the privacy of your information. We use the information we collect and receive to provide, maintain, and improve the Evernote Service; to provide troubleshooting and customer support; to protect the Evernote Service for all our users; to contact you; and to administer Evernote Business accounts. 
+We have specific rules for how and when we use the information we collect and receive. We are committed to protecting the privacy of your information. We use the information we collect and receive to provide, maintain, and improve the Evernote Service; to provide troubleshooting and customer support; to protect the Evernote Service for all our users; to contact you; and to administer Evernote Teams accounts. 
 
 *   **Performing our Services.** We use a number of technologies to help you get the most out of the Evernote Service. Our systems automatically analyze your data to power Evernote features and to continually improve the Evernote Service for you in a way that does not require anyone to look at your Content. This may include, for example:
 
@@ -120,7 +120,7 @@ We have specific rules for how and when we use the information we collect and re
 *   Showing you information most relevant to how you are or could be using the Evernote Service at a specific time or location.
 *   Suggesting actions for you to take based on information you’ve stored.
 *   Suggesting Evernote Service features or products to you that we think will help you get the most out of the Evernote Service.
-*   For Evernote Business users, recommending people for you to collaborate with.
+*   For Evernote Teams users, recommending people for you to collaborate with.
 
 *   **Maintaining our Services.** To provide troubleshooting and customer support, our Customer Support team may need to access your information, such as your account email address and information about the Evernote application you are using, subject to the protections described below.  
 *   **Protecting against security threats, abuse, and illegal activity.** As part of our efforts to protect your account and the functionality of the Evernote Service, our systems may analyze the emails you send to and from your Evernote account and the notes you share to detect spam, malware, or other potential security concerns. If we determine that such material constitutes a [Terms of Service](https://evernote.com/legal/terms-of-service) or [User Guidelines](https://evernote.com/legal/user-guidelines) violation, we may block delivery of or unshare the problematic material, much like a spam filter works for your email inbox.  
@@ -128,7 +128,7 @@ We have specific rules for how and when we use the information we collect and re
     [Learn more](https://evernote.com/security/tips) about steps you can take to protect your account, such as using strong passwords, two-step verification, and encryption.
 *   **Communicating with you.** In accordance with your communication preferences, we’ll occasionally contact you to announce new products and features we build for you, share tips for using Evernote to get more done, make special offers, and provide information about how Evernote works with products and services from our business partners.
 
-You may opt out of promotional communications at any time by following the opt-out or “unsubscribe” instructions provided in emails or by logging into your Evernote Service account via our website at [https://evernote.com/Login.action](https://evernote.com/Login.action) and going to Settings > Personal Settings > Contact Preferences to change your contact preferences. You can also change your in-app notification preferences through your device settings. You will continue to receive essential Evernote Service-related and account-related information (such as notification that your paid subscription is about to expire), even if you unsubscribe from promotional emails or turn off in-app notifications. Evernote Business users will also continue to receive a daily summary of activity associated with their Business account.
+You may opt out of promotional communications at any time by following the opt-out or “unsubscribe” instructions provided in emails or by logging into your Evernote Service account via our website at [https://evernote.com/Login.action](https://evernote.com/Login.action) and going to Settings > Personal Settings > Contact Preferences to change your contact preferences. You can also change your in-app notification preferences through your device settings. You will continue to receive essential Evernote Service-related and account-related information (such as notification that your paid subscription is about to expire), even if you unsubscribe from promotional emails or turn off in-app notifications. Evernote Teams users will also continue to receive a daily summary of activity associated with their Teams account.
 
 Similarly, if we learn of a security system breach, we may attempt to notify you and provide information on protective steps, if available, through the email address, phone number or other contact information that you have provided to us or by posting a notice on our website and/or via other communication platforms. Depending on where you live, you may have a legal right to receive such notices in writing. 
 
@@ -160,7 +160,7 @@ Evernote is not in the business of selling or renting your information. Here are
 
 We require these providers to agree to strict data protection requirements in keeping with our privacy policy standards and our obligations under data protection laws. We do not share your information with any third parties for their own advertising purposes.
 
-Examples of our service providers include PayPal and Adyen for processing payments from our paid users, Salesforce for helping us with our email communications and Evernote Business sales outreach, and analytics providers like Google Analytics. Other service providers include resellers that we work with to help distribute Evernote. If you purchase a Paid Service from a reseller instead of directly from Evernote, we may need to share limited information with the reseller to ensure accuracy in payment, account management, and delivery of services to you.
+Examples of our service providers include PayPal and Adyen for processing payments from our paid users, Salesforce for helping us with our email communications and Evernote Teams sales outreach, and analytics providers like Google Analytics. Other service providers include resellers that we work with to help distribute Evernote. If you purchase a Paid Service from a reseller instead of directly from Evernote, we may need to share limited information with the reseller to ensure accuracy in payment, account management, and delivery of services to you.
 
 *   Your Content is private unless you decide you want to share it. You may choose to share using public links or through any of the Evernote Service’s features that allow you to share or collaborate on Content (“Collaboration Features”). If you choose to share, we may need to take steps to facilitate your collaboration.  
 
@@ -168,7 +168,7 @@ There are features in Evernote that allow you to publish and share some of your 
 
 *   When you use Collaboration Features, people you share with may see your user profile.
 *   If you have not added any profile information, then you will be identified by the email address associated with your Evernote Service account.
-*   If you are an Evernote Business user, other members of your Evernote Business account will see your full Evernote Business account profile. Evernote Service users who are not in your Evernote Business account will only see your profile name and image.
+*   If you are an Evernote Teams user, other members of your Evernote Teams account will see your full Evernote Teams account profile. Evernote Service users who are not in your Evernote Teams account will only see your profile name and image.
 *   In addition, when you use Collaboration Features, the information you share is no longer private to you. For example, by publishing or sharing any portion of your Content, you may be enabling each recipient of the shared material to access, use, display, perform, distribute, and modify that material. In addition, Evernote enables you to use a variety of third-party services and applications that interact with the Evernote Service, and you should review the access rights you provide to those services or applications, as you may enable them to access or extract your Content through your agreements with those parties.
 *   Depending on the permission levels you set when sharing Content, anyone who has access to the shared material may be able to see the Content, information about where and when the Content was created, as well as the note history, tags, and reminders associated with a particular note.
 
