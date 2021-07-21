@@ -25,10 +25,10 @@ Changes to the Agreement or Your Service
 
 We may change prices, the monthly cost or any other term of your Service or this Agreement at any time, but we'll provide notice first. If you don’t like the change, remember you can cancel at any time. But, if you use your Service after the change takes effect, that means you're accepting the change. If we make any changes to the dispute resolution provision of this Agreement, such changes will not affect the resolution of any disputes that arose before such change.
 
-My wireless phone
------------------
+My Wireless Device
+------------------
 
-Your wireless phone must comply with Federal Communications Commission regulations, be certified for use on the network, and be compatible with your Service. We may change your wireless device's software, applications or programming remotely, without notice. This could affect your stored data, or how you've programmed or use your wireless device. By activating your SIM (Subscriber Identity Module) card, you agree we own the intellectual property and software in the SIM card, that we may change the software or other data in the SIM card remotely and without notice, and we may utilize any capacity in the SIM card for administrative, network, business and/or commercial purposes.
+Your wireless device must comply with Federal Communications Commission regulations, be certified for use on the network, and be compatible with your Service. We may change your wireless device's software, applications or programming remotely, without notice. This could affect your stored data, or how you've programmed or use your wireless device. By activating your SIM (Subscriber Identity Module)/eSIM (Embedded Subscriber Identity Module) card, you agree we own the intellectual property and software in the SIM/eSIM card, that we may change the software or other data in the SIM/eSIM card remotely and without notice, and we may utilize any capacity in the SIM/eSIM card for administrative, network, business and/or commercial purposes.
 
 Coverage and Service Availability
 ---------------------------------
