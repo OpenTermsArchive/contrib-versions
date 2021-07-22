@@ -1,5 +1,6 @@
+[![](assets/AppIcon.png)](https://bonjour.tousanticovid.gouv.fr/)  
 Personal data
-=============
+=================================================================================
 
 "TousAntiCovid" application
 ---------------------------
