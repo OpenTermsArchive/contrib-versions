@@ -80,33 +80,52 @@ We do not allow content that:
 Misrepresentative content
 -------------------------
 
+### Misleading representation
+
 We do not allow content that:
 
-*   misrepresents, misstates, or conceals information about you, your content or the primary purpose of your web destination.
-*   entices users to engage with content under false or unclear pretenses.
-*   engages in "phishing" for users’ information.
-*   promotes content, products, or services using false, dishonest, or deceptive claims.
-    
-    **Example**: "Get Rich Quick" schemes
-    
-*   makes claims that are demonstrably false and could significantly undermine participation or trust in an electoral or democratic process.
-    
-    **Examples**: information about public voting procedures, political candidate eligibility based on age or birthplace, election results, or census participation that contradicts official government records
-    
+*   misrepresents, misstates, or conceals information about the publisher, the content creator, the purpose of the content, or the content itself.
 *   falsely implies having an affiliation with, or endorsement by, another individual, organization, product, or service.
     
     **Examples**: Impersonating Google products, misusing company logos
     
-*   deceives users through manipulated media related to politics, social issues, or matters of public concern.
+
+### Unreliable and harmful claims
+
+We do not allow content that:
+
+*   makes claims that are demonstrably false and could significantly undermine participation or trust in an electoral or democratic process.
     
-*   is about politics, social issues, or matters of public concern directed at users in a country other than your own, if you misrepresent or conceal your country of origin or other material details about yourself.
+    **Examples**: information about public voting procedures, political candidate eligibility based on age or birthplace, election results, or census participation that contradicts official government records
+    
+*   promotes harmful health claims, or relates to a current, major health crisis and contradicts authoritative scientific consensus.
+    
+    **Examples**: Anti-vaccine advocacy, denial of the existence of medical conditions such as AIDS or Covid-19, gay conversion therapy
+    
 
-#### Coordinated Deceptive Practices 
+### Deceptive practices
 
-We do not allow: 
+We do not allow:
 
-*   Coordinating with other sites or accounts and concealing or misrepresenting your identity or other material details about yourself, where your content relates to politics, social issues or matters of public concern.
-*   Directing content about politics, social issues, or matters of public concern to users in a country other than your own, if you misrepresent or conceal your country of origin or other material details about yourself.
+*   enticing users to engage with content under false or unclear pretenses.
+*   attempting to steal personal information or trick users into sharing personal information
+    
+    **Example**: Social engineering like phishing
+    
+*   promoting content, products, or services using false, dishonest, or deceptive claims.
+    
+    **Examples**: "Get Rich Quick" schemes
+    
+*   coordinating with other sites or accounts and concealing or misrepresenting your identity or other material details about yourself, where your content relates to politics, social issues or matters of public concern.
+    
+*   directing content about politics, social issues, or matters of public concern to users in a country other than your own, if you misrepresent or conceal your country of origin or other material details about yourself.
+    
+
+### Manipulated media
+
+We do not allow content that:
+
+*   deceives users through manipulated media related to politics, social issues, or matters of public concern.
 
 Malicious or unwanted software
 ------------------------------
