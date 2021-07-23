@@ -52,9 +52,8 @@ We do not allow content that:
     
 *   threatens or advocates for physical or mental harm to oneself or others.
     
-    **Examples**: Content advocating suicide, anorexia, or other self-harm; promoting or advocating for harmful health or medical claims or practices; threatening someone with real-life harm or calling for the attack of another person; promoting, glorifying, or condoning violence against others; content made by or in support of terrorist groups or transnational drug trafficking organizations, or content that promotes terrorist acts, including recruitment, or that celebrates attacks by transnational drug trafficking or terrorist organizations
+    **Examples**: Content advocating suicide, anorexia, or other self-harm; threatening someone with real-life harm or calling for the attack of another person; promoting, glorifying, or condoning violence against others; content made by or in support of terrorist groups or transnational drug trafficking organizations, or content that promotes terrorist acts, including recruitment, or that celebrates attacks by transnational drug trafficking or terrorist organizations
     
-*   relates to a current, major health crisis and contradicts authoritative, scientific consensus.
 *   exploits others through extortion.
     
     **Examples**: Predatory removals, revenge porn, blackmail
