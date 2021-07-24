@@ -226,7 +226,7 @@ Generally speaking, an opt-out allows you to direct NextRoll not to engage in a 
 *   If a Customer’s account has been suspended for 90 days or more, the Customer CRM Data will be deleted.
 *   When a Customer has not logged in to their NextRoll account in the past 365 days **and** there has been no product usage in the past 30 days **and** no media spend has occurred in the past 30 days, the Customer CRM Data will be deleted when the 366th day of no login activity occurs for the account.
 
-Customers may request deletion of Customer CRM Data by visiting the privacy requests [webpage](https://www.nextroll.com/privacy/requests/company).
+Customers may request deletion of Customer CRM Data by visiting the privacy requests [webpage](https://www.nextroll.com/privacy/requests).
 
 **Customer CRM Data:** We are [processors](https://www.nextroll.com/terms/data-protection) and act as a [service provider](https://www.nextroll.com/terms/ccpa-service-provider) of Customer CRM data (e.g., customer lists containing clear emails) that the Customer instructs us to collect or otherwise provides to us in order for us to perform our Services. We retain this Customer CRM Data until the Customer asks us to delete this data or the agreed time for deletion set forth in our [Terms of Service](https://www.nextroll.com/terms) (whichever is earlier).
 
