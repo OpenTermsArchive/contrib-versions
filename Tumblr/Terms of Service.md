@@ -171,7 +171,7 @@ Finally, while you can share a teaser of +Post Content through the reblog functi
 
 In order to be eligible to be a Creator, you must at a minimum:
 
-*   Be a resident and located in an [eligible country](https://tumblr.zendesk.com/hc/articles/4402757539607);
+*   Be a resident and located in an [eligible country](https://tumblr.zendesk.com/hc/articles/4402757539607#eligible-creators);
 *   Successfully create a merchant account with Stripe Inc. (your "**Merchant Account**") and provide accurate information in connection with your Merchant Account. By setting up a Merchant Account, you agree to be bound by the [Stripe terms and conditions](https://stripe.com/connect-account/legal) and are entering into an agreement directly with Stripe Inc.; and
 *   Successfully create a merchant account with Stripe Inc. (your "**Merchant Account**") and provide accurate information in connection with your Merchant Account. By setting up a Merchant Account, you agree to be bound by the Stripe terms and conditions and are entering into an agreement directly with Stripe Inc.; and
 *   Meet any additional Creator eligibility requirements set by Tumblr.
