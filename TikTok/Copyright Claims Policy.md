@@ -62,7 +62,7 @@ If we do not receive notice that the original reporter is seeking a court order 
 
 **_If you are a user located in the European Union_**
 
-If you receive a copyright infringement notification and believe that you have the right to post the content in question, you can complete a Counter Notification Form.
+If you receive a copyright infringement notification and believe that you have the right to post the content in question, you can complete a [Counter Notification Form](https://www.tiktok.com/legal/report/counternotification).
 
 Under EU law, users are allowed to use copyright works without the authorization of the copyright holder for quotation, criticism, review and for the purpose of caricature, parody or pastiche provided that such use is fair. EU countries may also provide for additional exceptions. See below some further information about the exceptions and limitations to copyright available in the EU:
 
