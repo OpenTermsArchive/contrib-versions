@@ -52,8 +52,6 @@ Thank you for using Pinterest!
     
     Pinterest allows you to post content, including photos, comments, links, and other materials. Anything that you post or otherwise make available on Pinterest is referred to as "User Content." You retain all rights in, and are solely responsible for, the User Content you post to Pinterest.
     
-    In Germany, Pinners are expressly prohibited from uploading or sharing user-generated videos which fall under one of the following German criminal law provisions: § 111 Öffentliche Aufforderung zu Straftate, 130 § 130 Volksverhetzung) (1) and (2), § 131 Gewaltdarstellung, § 140 Belohnung und Billigung von Straftaten, § 166 Beschimpfung von Bekenntnissen, Religionsgesellschaften und Weltanschauungsvereinigunge and 184b § 184b Verbreitung, Erwerb und Besitz kinderpornographischer Inhalte.
-    
     **More simply put**
     
     If you post your content on Pinterest, it still belongs to you.
