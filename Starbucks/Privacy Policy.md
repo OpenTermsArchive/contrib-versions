@@ -349,6 +349,24 @@ Phone: 1-800-STARBUC (782-7282); or by submitting this [form](https://privacypor
 Starbucks Customer Service  
 Starbucks, P.O. Box 20430, Augusta, GA 30916
 
+**Privacy Rights Metrics** (January 2020 – December 2020) – Includes requests from the United States and Canada:
+
+Right to Know
+
+*   Requests Received – 498
+*   Requests Complete – 336
+*   Requests unable to be completed\* – 162
+*   Average completion time – 9 days
+
+Right to Delete
+
+*   Requests Received – 2,659
+*   Requests Complete – 1,266
+*   Requests unable to be completed\* – 1,393
+*   Average completion time – 13 days
+
+\*Requests may be unable to be completed due to factors such as inability to verify the customer, duplicate requests, or no information is found
+
 ### 17\. Additional Disclosures for Data Subjects in the EEA, the U.K., and Switzerland
 
 This section provides general information about how Starbucks collects, stores, uses, transfers and otherwise processes personal data in or from certain countries in the European Economic Area, the United Kingdom, and Switzerland (together, for purposes of this section of the Privacy Statement, “EEA”), in accordance with the General Data Protection Regulation (GDPR) and its local implementations. This section does not supersede the applicability of any privacy policy found on the website of an EEA-based Starbucks affiliate with whom you have engaged, as that entity would be the data controller with respect to your personal data and the entity to which your data subject rights requests should be directed.
