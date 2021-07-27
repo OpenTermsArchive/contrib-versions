@@ -365,7 +365,7 @@ We may install modules of a third-party software development kit (SDK) in our Se
 ● to analyze the status of use of our Services; and  
 ● to distribute ads on our behalf and measure the effectiveness thereof.
 
-With regard to your Personal Data that is processed by a third-party through a module provided by such third party, the privacy policy of such third party will apply. Please click [here](https://terms.line.me/line_rules_extmod) to confirm the details regarding third-party modules.
+With regard to your Personal Data that is processed by a third-party through a module provided by such third party, the privacy policy of such third party will apply. Please click “[Embedding modules of other companies](https://terms.line.me/line_rules_extmod)” to confirm the details regarding third-party modules.
 
 8.b.Cookie and other analytical tools
 
@@ -408,18 +408,21 @@ Other than as referred to herein, we will be the data controller of Personal Dat
 
 LINE Corporation  
 Attn: Privacy Policy  
-23rd Floor JR Shinjuku Miraina Tower  
-4-1-6 Shinjuku, Shinjuku-ku, Tokyo  
-160-0022 Japan
+23rd Floor Yotsuya Tower  
+1-6-1 Yotsuya, Shinjuku-ku, Tokyo  
+160-0004 Japan
+
+Person responsible for the handling of personal data  
+Chief Privacy Officer
 
 If you are in the European Economic Area (EEA), you may contact the Data Protection Officer or our EU representative below or you may lodge a complaint with a supervisory authority in the European Economic Area.
 
 <Data Protection Officer>  
 LINE Corporation  
 Attn: Data Protection Officer  
-23rd Floor JR Shinjuku Miraina Tower  
-4-1-6 Shinjuku, Shinjuku-ku, Tokyo  
-160-0022 Japan
+23rd Floor Yotsuya Tower  
+1-6-1 Yotsuya, Shinjuku-ku, Tokyo  
+160-0004 Japan
 
 <EU Representative>  
 PLANIT // LEGAL  
@@ -434,7 +437,7 @@ We may modify this Policy from time to time, and the latest version of the priva
 If you do not agree to any of the changes and you no longer wish to use our Services, you may choose to close your Account. Continuing to use our Services after a notice of changes has been notified to you or published on our Services constitutes your acceptance of the changes and consent to the modified version of this Policy. We will seek your consent when required under Applicable Laws.
 
 Formulated on August 15, 2012  
-Revised on January 28, 2021
+Revised on July 27, 2021
 
 10.Reference
 ------------
@@ -445,7 +448,7 @@ Among our Services, we are providing certain services or functions only in certa
 
 (\*1) Collection/use of additional information for improving service quality  
 Applicable countries: Japan, Taiwan, Thailand, Indonesia  
-Related information: [Regarding Usage of Your Information](https://terms.line.me/line_communication_privacy/)  
+Related information: Regarding Usage of Your Information ([Japan](https://terms.line.me/line_communication_privacy/), [Taiwan](https://terms.line.me/line_communication_privacy_tw), [Thailand](https://terms.line.me/line_communication_privacy/), [Indonesia](https://terms.line.me/line_communication_privacy/))  
 Related settings: Settings > Privacy management > Provision of information > Communication-related information
 
 (\*2) Provision of optimal information/service through utilization of location information  
