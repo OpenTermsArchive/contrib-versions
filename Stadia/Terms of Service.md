@@ -1,6 +1,6 @@
 **STADIA TERMS OF SERVICE**
 
-Last modified: 1 December 2020 ([view archived version](https://support.google.com/stadia/?p=archived_tos))
+Last modified: 26 July 2021 ([view archived version](https://support.google.com/stadia/?p=archived_tos))
 
 ### Welcome to Stadia!
 
@@ -63,9 +63,9 @@ The following section applies to all Stadia purchases except for purchases made 
 
 **Refunds**. On top of the withdrawal rights for consumers based in the EEA set forth in Section 3 of the Terms, Google offers additional rights of refund, which are set out in Stadia’s [Refund Policy](http://g.co/stadia/returns).
 
-### 3\. Withdrawal Rights for Consumers Based in the EEA
+### 3\. Withdrawal Rights for Consumers Based in the EEA or the UK
 
-The terms in this section apply only if you are a consumer based in the EEA.
+The terms in this section apply only if you are a consumer based in the EEA or the UK.
 
 **Withdrawal Rights for Digital Content**. Under the law you have an automatic statutory right of withdrawal from contracts for purchases of Content on Stadia. The same applies when you purchase a subscription for digital content. However, when you make a purchase of Content on Stadia you agree that the Content will be available to you immediately, and you acknowledge that as a result you waive your automatic statutory right of withdrawal.
 
