@@ -2,7 +2,7 @@
 
 As part of our effort to protect your privacy and to comply with applicable privacy and data protection laws, we strive to consider all of our data governance practices through the lens of the recognized principles of data minimization, limited collection, and limited use, among other key areas addressed below. We do so to respect and maintain your trust. In other words, we believe that taking care of you includes taking care of your data and privacy. Grab a cup of coffee and learn more below.
 
-Last Revised: December 1, 2020
+Last Revised: July, 27 2021
 
 ### Starbucks Privacy Statement
 
