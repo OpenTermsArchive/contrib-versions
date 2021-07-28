@@ -42,7 +42,7 @@ If you submit a report or infringement notification to us, we may contact you if
 
 **EU Copyright Directive**
 
-Pursuant to Article 17 of the Copyright Directive (EU 2019/790), if you want to make an enquiry about granting an authorisation to TikTok to make your copyright-protected works available on TikTok, please use [this form](https://docs.google.com/forms/d/e/1FAIpQLSd6yCYJoiw0LK6iB8fTHCMcqL3HTsMmCCpEWY5ktxnJkqQQHQ/viewform?usp=sf_link). We will review your request and be in touch.
+Pursuant to Article 17 of the Copyright Directive (EU 2019/790), if you want to make an enquiry about granting an authorisation to TikTok to make your copyright-protected works available on TikTok, please use [this form](https://www.tiktok.com/legal/report/licensing-form). We will review your request and be in touch.
 
 If you want to request that your music or audiovisual works are made unavailable in the EU, we need you to file [this form](https://www.tiktok.com/legal/report/Copyright/eurequests). So that TikTok can consider your request, you will have to provide us with relevant and necessary information about you and your copyright works. Upon receiving this information and validating your request, TikTok will do its best to ensure that your copyright work is made unavailable on TikTok in the EU.
 
