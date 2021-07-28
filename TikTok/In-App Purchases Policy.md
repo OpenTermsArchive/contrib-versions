@@ -151,3 +151,15 @@ We may make the following products and incentives available to you on our Platfo
 *   If you have any problems with Diamonds, contact us at: [https://www.tiktok.com/legal/report/transaction](https://www.tiktok.com/legal/report/transaction)
 
 You may cancel your account at any time, and we may terminate your account in accordance with this Policy. All the Coins, Gifts or Diamonds in your account will be cancelled immediately upon the cancellation or termination of your account. There will be no refunds for any unused or unredeemed Coins, Gifts or Diamonds, so we recommend you use them before terminating your account.
+
+**Additional languages (please also see the language settings for other available languages)**
+----------------------------------------------------------------------------------------------
+
+*   Bulgarian: [Политика за виртуални елементи](https://www.tiktok.com/legal/bul-virtual-items-policy?lang=en) 
+*   Croatian: [Pravila o virtualnim predmetima](https://www.tiktok.com/legal/hr-virtual-items-policy?lang=en)
+*   Danish: [Politik for virtuelle ting](https://www.tiktok.com/legal/da-virtual-items-policy?lang=en)
+*   Estonian: [Virtuaalelementide pakkumise põhimõtted](https://www.tiktok.com/legal/est-virtual-items-policy?lang=en)
+*   Latvian: [Virtuālo rīku politika](https://www.tiktok.com/legal/lv-virtual-items-policy?lang=en)
+*   Lithuanian: [Virtualių elementų politika](https://www.tiktok.com/legal/lt-virtual-items-policy?lang=en)
+*   Norwegian: [Retningslinjer for virtuelle artikler](https://www.tiktok.com/legal/no-virtual-items-policy?lang=en)
+*   Slovak: [Zásady pre používanie virtuálnych položiek](https://www.tiktok.com/legal/sk-virtual-items-policy?lang=en)
