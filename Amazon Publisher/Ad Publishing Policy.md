@@ -8,7 +8,7 @@ You will not place our Ads adjacent to any content that: (a) promotes or contain
 Video Policy
 ------------
 
-You will comply with the Video Player-Ad Interface Definition guidelines version 2.0 (VPAID 2.0) or higher and Digital Video Ad Serving Template specifications version 2.0 (VAST 2.0) or higher as set forth at [http://www.iab.net/](http://www.iab.net/).
+You will comply with the Digital Video Ad Serving Template specifications version 2.0 (VAST 2.0) or higher as set forth at [http://www.iab.net/](http://www.iab.net/).
 
 Trademark Usage Guidelines
 --------------------------
@@ -27,7 +27,14 @@ These Trademark Usage Guidelines (the “**Guidelines**”) apply to your use of
     
 6.  You must include the following statement in any materials that display the Trademark: “\[Trademarks\] are trademarks of Amazon.com, Inc. or its Affiliates."
     
-7.  You acknowledges that all rights to the Trademark are the exclusive property of ours, and all goodwill generated through your use of the Trademark will inure to our benefit.  You will not take any action that is in conflict with our rights in, or ownership of, the Trademark.
+7.  You acknowledge that all rights to the Trademark are the exclusive property of ours, and all goodwill generated through your use of the Trademark will inure to our benefit.  You will not take any action that is in conflict with our rights in, or ownership of, the Trademark.
     
 
 We reserve the right, exercisable at our sole discretion, to modify these Guidelines and/or the approved Trademarks at any time and to take appropriate action against any use without permission or any use that does not conform to these Guidelines.
+
+Vendor Data Terms
+-----------------
+
+1\. **Creative Quality.** To the extent you engage any Marketplace Vendor to provide you with creative quality services, you acknowledge that Amazon does not receive, store, transfer, or otherwise process any EU Data collected directly by Marketplace Vendors in order for them to perform creative quality services. Such Marketplace Vendors may act as a controller or processor acting on your instruction, in accordance with the terms of the relevant Marketplace Vendor Direct Agreement governing the creative quality services. You can instruct Amazon at any time to disable or remove the technology used by Marketplace Vendors to deliver the creative quality services.
+
+2\. **Advertising Identity.** To the extent that you engage a Marketplace Vendor to provide you with third party-generated, pseudonymized identifiers that comprise EU Data (such identifiers, “**3P IDs**”), AEC agrees to act as your processor in respect of the transfer of such 3P IDs to the third parties (including Buyers) of your choice. You instruct us to process such 3P IDs in accordance with the terms and conditions of the Data Processing Addendum, available at [https://m.media-amazon.com/images/G/02/ADX/erm/OnlineAdSales/V2/Amazon\_Advertising\_Data\_Processing\_Addendum.pdf](https://m.media-amazon.com/images/G/02/ADX/erm/OnlineAdSales/V2/Amazon_Advertising_Data_Processing_Addendum.pdf). References to Customer Personal Data in the Data Processing Addendum will mean the 3P IDs that you instruct us to send to third parties. You expressly agree that such third parties will not act as Amazon’s processor or sub-processor, but rather instruct Amazon to enter into data transfer arrangements on your behalf, as are necessary for that third party to receive process Customer Personal Data from Amazon. Customer Personal Data excludes 3P IDs that Amazon Advertising uses to bid on Sites.
