@@ -1,7 +1,7 @@
 Privacy policy
 ==============
 
-This version (Version 4.7) is effective as of April 7, 2021.
+This version (Version 4.8) is effective as of July 29, 2021.
 
 *   [Overview](#overview)
 *   [About Us](#about)
@@ -69,7 +69,7 @@ For inquiries:
 Our EU Representative: As we, O'Reilly Media, Inc. and Safari Books Online, LLC, are not established in the EU, pursuant to Article 27 of the General Data Protection Regulation (GDPR), we have appointed European Data Protection Office (EDPO) as our GDPR representative in the EU whom you may contact if you are located in the EU to raise any issues or queries you have relating to our processing of your personal information and/or this Privacy Policy more generally. You can contact EDPO:
 
 *   by using EDPO's online request form: [https://edpo.com/gdpr-data-request/](https://edpo.com/gdpr-data-request/)
-*   by writing to EDPO at Avenue Huart Hamoir 71, 1030 Brussels, Belgium
+*   by writing to EDPO at Regus Block 1, Blanchardstown Corporate Park, Ballycoolen Road, Blanchardstown, Dublin 15, D15 AKK1, Ireland
 
 If you prefer, you can of course always contact us using our US contact details set out above.
 
@@ -408,6 +408,8 @@ Please note that this Policy may change from time to time. We will not reduce yo
 --------------------------------------------
 
 ### 11.1 O'Reilly and Safari privacy policies
+
+[Click here for version 4.7](https://www.oreilly.com/privacy-040721.html)
 
 [Click here for version 4.6](https://www.oreilly.com/privacy-010120.html)
 
