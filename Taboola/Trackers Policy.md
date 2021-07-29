@@ -86,6 +86,8 @@ You can find more information about the individual cookies used on our Sites, an
 | GA\_Number\_of\_Pages\_\_c | Counts the number of pageviews |
 | GA\_Number\_of\_Sessions\_\_c | Counts the number of sessions |
 | previewsSiteCountryCode | Save’s the user’s previews country code in cases where there are visit from multiple countries for the same user |
+| GA\_Last\_Click\_Medium\_\_c | Save’s the user’s last traffic medium |
+| GA\_Last\_Click\_Source\_\_c | Save’s the user’s last traffic source |
 
 **THIRD-PARTY COOKIES ON TABOOLA’S SITES** 
 
