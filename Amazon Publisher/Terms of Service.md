@@ -1,7 +1,7 @@
 Amazon Publisher Services Agreement
 ===================================
 
-Last Updated June 1, 2021  
+Last Updated July 29, 2021  
 See [what's changed](https://ams.amazon.com/webpublisher/apsmanaged/apsagreementupdates.html)
 
 #### Table of Contents
@@ -29,6 +29,7 @@ SPECIFIC TERMS
 4.  [THE PRIVATE MARKETPLACE PROGRAM SPECIFIC TERMS](#d)
 5.  [THE UNIFIED AD MARKETPLACE PROGRAM SPECIFIC TERMS](#e)
 6.  [THE PUBLISHER AUDIENCES PROGRAM SPECIFIC TERMS](#f)
+7.  [THE APS CONNECTIONS MARKETPLACE PROGRAM SPECIFIC TERMS](#g)
 
 This Amazon Publisher Services Agreement (this “**Agreement**”) is an agreement between A9.com, Inc. and Amazon Europe Core S.a r.l. (each an “**Amazon Party**” and, together with its Affiliates (as defined below), “**Amazon**,” “**we**,” “**our**,” or “**us**”) and the entity you represent (“**you**”). Amazon and you are sometimes each referred to herein as a “**Party**” and collectively as the “**Parties**.”
 
@@ -188,3 +189,22 @@ SPECIFIC TERMS
 12.   **THE PUBLISHER AUDIENCES PROGRAM SPECIFIC TERMS (FOR APPLICABLE PUBLISHERS ONLY)**
     
     For applicable publishers, the Publisher Audiences Program Specific Terms are available within your APS portal or [here](https://ams.amazon.com/webpublisher/docs/tnc/apsagreement_publisher_audiences_addendum).
+    
+14.  **THE APS CONNECTIONS MARKETPLACE PROGRAM SPECIFIC TERMS**
+    1.  **Description of the APS Connections Marketplace.** The APS Connections Marketplace (“**APS Marketplace**”) is a Program that allows you to connect with Marketplace Vendors to receive advertising technology services on your Sites (the “**Marketplace Services**”). “**Marketplace Vendor**” means a third party vendor who provides the Marketplace Services through the APS Marketplace to you pursuant to an agreement with you (“**Marketplace Vendor Direct Agreement**”).
+        
+    2.  **Payment of Fees.** You agree that you will pay Marketplace Vendors directly for Marketplace Services. We are not a party to, and will have no liability under or obligation to comply with the Marketplace Vendor Direct Agreements. Each Party will be responsible, as required under applicable Laws, for identifying and paying all taxes and other governmental fees and charges (and any penalties, interest, and other additions thereto) that are imposed on that Party upon or with respect to the transactions and payments under these APS Marketplace Specific Terms.
+        
+    3.  **DISCLAIMER.** THE APS CONNECTIONS MARKETPLACE AND THE MARKETPLACE SERVICES ARE PROVIDED “AS IS,” WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EXPRESS, IMPLIED, OR STATUTORY, INCLUDING WARRANTIES OR CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE OR NON-INFRINGEMENT. WE DO NOT WARRANT THAT THE APS MARKETPLACE AND THE MARKETPLACE SERVICES WILL CONTINUE TO BE PROVIDED, WILL FUNCTION AS DESCRIBED, CONSISTENTLY OR IN ANY PARTICULAR MANNER, OR WILL BE UNINTERRUPTED, ERROR FREE, OR FREE OF HARMFUL COMPONENTS.
+        
+    4.  **LIMITATION OF LIABILITY.** NOTWITHSTANDING SECTION 6 OF THE GENERAL TERMS, IN NO EVENT WILL ANY PARTY BE LIABLE FOR ANY CONSEQUENTIAL, INDIRECT, INCIDENTAL, PUNITIVE, SPECIAL, OR EXEMPLARY DAMAGES WHATSOEVER, INCLUDING DAMAGES FOR LOSS OF PROFITS, BUSINESS INTERRUPTION, LOSS OF INFORMATION, AND THE LIKE, INCURRED BY THE OTHER PARTY ARISING OUT OF THESE APS MARKETPLACE SPECIFIC TERMS, EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. FURTHER, EACH PARTY’S AGGREGATE LIABILITY ARISING IN CONNECTION WITH THESE APS MARKETPLACE SPECIFIC TERMS WILL NOT EXCEED $500,000 (USD).
+        
+    5.  **Pixels.** For Marketplace Vendors that you engage to provide you Marketplace Services, we may place or facilitate the placement of third party pixels or cookies (including cookies associated with your domain) on the browsers of users visiting the Sites in order to enable the Marketplace Vendors to provide the Marketplace Services to you.
+        
+    6.  **Personal Information.** You represent and warrant that you will not provide us with any Personal Information other than what is necessary for the Marketplace Vendors to provide you with the Marketplace Services, pursuant to the Marketplace Vendor Direct Agreements. Where it is necessary for you to send us Personal Information for the Marketplace Vendors to provide you with Marketplace Services, you shall provide such information in a pseudonymized form that prevents the re-identification of an individual.
+        
+    7.  **Site Data.** We may provide Site Data to your Marketplace Vendors. It is your sole responsibility to include the data processing restrictions and requirements that you deem appropriate in the Marketplace Vendor Direct Agreements and to ensure that Marketplace Vendors comply with these restrictions. For the avoidance of doubt, your use of any standard agreement provided to you by Amazon to enter into with Marketplace Vendors does not relieve you of such responsibility. To the extent that you use Marketplace Services which require us to send Personal Information to TAM Buyers or UAM Buyers (collectively, “**Buyers**”), you hereby instruct us to disclose the necessary Personal Information to the applicable Buyers listed in your account (or in such other list that we make available to you). It is your sole responsibility to provide any notices, obtain any consents, and offer any choices to end users necessary to permit Amazon’s or any Marketplace Vendor’s collection, disclosure, or other processing of any Personal Information as contemplated by this Agreement or necessary to provide the Marketplace Services. We will cease disclosure of Personal Information to Buyers at any time, at your instruction and sole discretion.
+        
+    8.  **EU Data.** In relation to EU Data, you acknowledge that (i) Amazon is not responsible for collecting consent or imposing restrictions on the collection, use, transfer, or other processing of EU Data by Marketplace Vendors, (ii) it is your sole responsibility to put in place any legally required contractual terms, including standard contractual clauses, related to the transfer of EU Data to Marketplace Vendors, and (iii) it is your sole responsibility to publish or otherwise provide any legally required information to end users about the processing of EU Data by your chosen Marketplace Vendors. You will comply with the [Vendor Data Terms](https://ams.amazon.com/webpublisher/apsmanaged/apsprogrampolicy.html#4) with respect to the specific categories of Marketplace Vendors that you have engaged to provide you with Marketplace Services.
+        
+    9.  **CCPA Data.** To the extent that we process any CCPA Data in order to enable your receipt of the Marketplace Services from Marketplace Vendors, the Parties acknowledge and agree that Amazon acts as your service provider for such processing. Solely in the context of enabling your receipt of Marketplace Services from Marketplace Vendors, Amazon will not: (i) sell (as defined by the CCPA) such CCPA Data; or (ii) retain, use, or disclose such CCPA Data for any purpose other than: (x) to enable Your Marketplace Services, (y) for reporting to you (or, as applicable, to Marketplace Vendors), and (z) other purposes permitted under the CCPA. For the avoidance of doubt, if Amazon receives EU Data or CCPA Data as part of other APS programs (e.g., Amazon Demand Program), any DPA and service provider terms hereunder do not extend to those other programs. “**CCPA Data**” means personal information within the meaning of the California Consumer Privacy Act of 2018, as amended, and the rules and regulations promulgated thereunder (“**CCPA**”). It is your sole responsibility to insert the CCPA Data terms that you deem appropriate in the Marketplace Vendor Direct Agreements. For the avoidance of doubt, your use of any standard agreement provided to you by Amazon to enter into with Marketplace Vendors does not relieve you of such responsibility.
