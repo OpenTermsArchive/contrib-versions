@@ -306,7 +306,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   © The GeoInformation Group | InterAtlas
             
-        *   This Service includes [data](https://www.bundesnetzagentur.de/DE/Sachgebiete/ElektrizitaetundGas/Unternehmen_Institutionen/HandelundVertrieb/Ladesaeulenkarte/Ladesaeulenkarte_node.html) in modified form licensed from Bundesnetzagentur under a [Creative Commons Attribution 4.0 licence](https://creativecommons.org/licenses/by/4.0/legalcode), which includes disclaimers of warranties. © Bundesnetzagentur - 2019
+        *   This Service includes [data](https://www.bundesnetzagentur.de/) in modified form licensed from Bundesnetzagentur under a [Creative Commons Attribution 4.0 licence](https://creativecommons.org/licenses/by/4.0/legalcode), which includes disclaimers of warranties. © Bundesnetzagentur - 2019
             
         *   This Service includes mapping data from [https://www.mdv.de/service/downloads/](https://www.mdv.de/service/downloads/) \[in an adapted form\] licensed under a Creative Commons BY 4.0 DE Licence, which includes disclaimers of warranties. © MDV.
             
@@ -421,7 +421,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   © 2005 ediMap di Marcello Robberto
             
-        *   This Service includes mapping data from [https://www.comune.napoli.it/flex/cm/pages/ServeAttachment.php/L/IT/D/1%252Fb%252Ff%252FD.0e3f4d21a87aee5861bc/P/BLOB%3AID%3D29233/E/zip](https://www.comune.napoli.it/flex/cm/pages/ServeAttachment.php/L/IT/D/1%252Fb%252Ff%252FD.0e3f4d21a87aee5861bc/P/BLOB%3AID%3D29233/E/zip) \[in an adapted form\] licensed under a Creative Commons Attribution 4.0 licence, which includes disclaimers of warranties. © Azienda Napoletana Mobilità SpA (English: Neapolitan Mobility Company)\*\*
+        *   This Service includes mapping data from [https://www.comune.napoli.it/home](https://www.comune.napoli.it/home) \[in an adapted form\] licensed under a Creative Commons Attribution 4.0 licence, which includes disclaimers of warranties. © Azienda Napoletana Mobilità SpA (English: Neapolitan Mobility Company)\*\*
             
         *   This Service includes mapping data from [https://www.wimob.it/cfile/download.php?file=google-transit.zip](https://www.wimob.it/cfile/download.php?file=google-transit.zip) \[in an adapted form\] licensed under a Creative Commons Attribution 4.0 licence, which includes disclaimers of warranties. © Ente Autonomo Volturno\*\*
             
