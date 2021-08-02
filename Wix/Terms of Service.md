@@ -475,7 +475,7 @@ We can remove services at any time, which may affect your website, user account 
 10\. Wix Logo Maker
 -------------------
 
-As part of the Wix Services, we enable you to enhance your brand by creating your own customized business logo (the “Wix Logo”) using our Wix Logo Maker. The additional terms available at [[https://www.wix.com/about/logo-terms-of-use](https://www.wix.com/about/logo-terms-of-use)](https://www.wix.com/about/logo-terms-of-use) apply to your use of Wix Logo Maker, and are in addition to, and not in replacement of, the Wix Terms, unless explicitly stated otherwise.
+As part of the Wix Services, we enable you to enhance your brand by creating your own customized business logo (the “Wix Logo”) using our Wix Logo Maker. The additional terms available at [](https://www.wix.com/about/logo-terms-of-use)[https://www.wix.com/about/logo-terms-of-use](https://www.wix.com/about/logo-terms-of-use) apply to your use of Wix Logo Maker, and are in addition to, and not in replacement of, the Wix Terms, unless explicitly stated otherwise.
 
 #### #ItsThatEasy
 
@@ -508,9 +508,9 @@ Attn: Copyright Agent
 
 Telephone Number: 1-415-358-0857 | Fax: 1-415-358-0884
 
-E-mail: [abuse@wix.com](mailto:abuse@wix.com)
+Click [here](https://www.wix.com/support-chatbot?nodeId=om98g6kPvnc8SE5FUBqC&referral=termsOfUse) to contact us
 
-In the event that Wix receives notice regarding a copyright infringement related to your User Platform or User Website, it may cancel your User Account, take your User Platform down or remove any Content in its sole discretion, with or without prior notice to you. In such case, you may file a proper counter-notice in accordance with Section 512 of the DMCA, in which you must include: (1) your full name, address, phone number and physical or electronic signature; (2) identification of the material and its location before removal; (3) a statement under penalty of perjury that the material was removed by mistake or misidentification; (4) your consent to an appropriate judicial body; and (5) any other information required under the relevant provisions of the DMCA. Any notices filed pursuant to this Section 9 may be deemed accepted, applicable and compliant with the DMCA, or not, at Wix’s sole reasonable discretion. Wix reserves the right to notify the person or entity providing the infringement notice of such counter-notice and provide any details included therein.
+In the event that Wix receives notice regarding a copyright infringement related to your User Platform or User Website, it may cancel your User Account, take your User Platform down or remove any Content in its sole discretion, with or without prior notice to you. In such case, you may file a proper counter-notice in accordance with Section 512 of the DMCA, in which you must include: (1) your full name, address, phone number and physical or electronic signature; (2) identification of the material and its location before removal; (3) a statement under penalty of perjury that the material was removed by mistake or misidentification; (4) your consent to an appropriate judicial body; and (5) any other information required under the relevant provisions of the DMCA. Any notices filed pursuant to this Section 9 may be deemed accepted, applicable and compliant with the DMCA, or not, at Wix’s sole reasonable discretion. Wix reserves the right to notify the person or entity providing the infringement notice of such counter-notice and provide any details included therein.
 
 #### #ItsThatEasy
 
