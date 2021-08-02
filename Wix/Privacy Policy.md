@@ -10,7 +10,7 @@ Welcome to Wix.com’s Privacy Policy
 
 Wix.com cares deeply about the privacy of its visitors and users. To that end, this Privacy Policy (“Privacy Policy”) describes how Wix.com Ltd., together with its affiliated companies worldwide (“Wix”, “we”, “our”, or “us”), collect, use, and share your Personal Information, as well as an explanation of the data rights you may have in that Personal Information. This Privacy Policy applies to all Wix users, including unregistered visitors, registered users, and premium users (collectively, “Users”, “you”, or “your”), and to all Wix services, including our websites (including [www.wix.com](http://www.wix.com/) and any of its subdomains, the “Website”), web applications (“Wix Apps”), mobile applications (“Mobile Apps”), and related services (collectively, the “Services”). This Privacy Policy is not intended to override the terms of any contract you have with us, nor any rights you may have under other applicable data privacy laws.
 
-Prior to accessing or using our Services, please read this policy and make sure you fully understand our practices in relation to your Personal Information.  If you read and fully understand this Privacy Policy, and remain opposed to our practices, you must immediately leave and discontinue all use of any of our Services.  If you have any questions or concerns regarding this policy, please contact us at [privacy@wix.com](mailto:privacy@wix.com).
+Prior to accessing or using our Services, please read this policy and make sure you fully understand our practices in relation to your Personal Information.  If you read and fully understand this Privacy Policy, and remain opposed to our practices, you must immediately leave and discontinue all use of any of our Services.  If you have any questions or concerns regarding this policy, please contact us [here](https://www.wix.com/support-chatbot?nodeId=kKKuIuXsiPa1kiePMmcA&_type=privacyGeneral&referral=privacyPolicy1).
 
 #### #ItsThatEasy
 
@@ -46,7 +46,7 @@ We may also collect Personal Information pertaining to visitors and users of our
 
 ### 2.3. Wix jobs applicant information
 
-We also collect information that is provided to us by Wix jobs candidates (“Applicants”), when they apply to any of the open positions published at [[https://www.wix.com/jobs](https://www.wix.com/jobs)](https://www.wix.com/jobs), by e-mail or otherwise (as further described in [Section ‎15](https://www.wix.com/about/privacy) below).
+We also collect information that is provided to us by Wix jobs candidates (“Applicants”), when they apply to any of the open positions published at [](https://www.wix.com/jobs)[https://www.wix.com/jobs](https://www.wix.com/jobs), by e-mail or otherwise (as further described in [Section ‎15](https://www.wix.com/about/privacy) below).
 
 3\. Why do we collect such ‘Personal Information’
 -------------------------------------------------
@@ -342,7 +342,7 @@ As informed in section 6 above, Wix may collect, store and process certain Perso
 
 ​
 
-Users of the Services who are California residents and under 18 years of age may request and obtain removal of content they posted by emailing us at  [privacy@wix.com](mailto:privacy@wix.com). All requests must be labeled “California Removal Request” on the email subject line. All requests must provide a description of the content you want removed and information reasonably sufficient to permit us to locate that content. We do not accept California Removal Requests via postal mail, telephone, or facsimile. We are not responsible for notices that are not labeled or sent properly, and we may not be able to respond if you do not provide adequate information. Please note that your request does not ensure complete or comprehensive removal of the material. For example, materials that you have posted may be republished or reposted by another user or third party
+Users of the Services who are California residents and under 18 years of age may request and obtain removal of content they posted by contacting us [here](https://www.wix.com/support-chatbot?nodeId=kKKuIuXsiPa1kiePMmcA&_type=privacyGeneral&referral=privacyPolicy1). All requests must be labeled “California Removal Request” on the email subject line. All requests must provide a description of the content you want removed and information reasonably sufficient to permit us to locate that content. We do not accept California Removal Requests via postal mail, telephone, or facsimile. We are not responsible for notices that are not labeled or sent properly, and we may not be able to respond if you do not provide adequate information. Please note that your request does not ensure complete or comprehensive removal of the material. For example, materials that you have posted may be republished or reposted by another user or third party
 
 #### #ItsThatEasy
 
@@ -395,7 +395,7 @@ Furthermore, because certain areas on our Services are less secure than others (
 
 ​
 
-If you have any questions regarding the security of our Services, you are welcome to contact us at [privacy@wix.com](mailto:privacy@wix.com).
+If you have any questions regarding the security of our Services, you are welcome to contact us [here](https://www.wix.com/support-chatbot?nodeId=kKKuIuXsiPa1kiePMmcA&_type=privacyGeneral&referral=privacyPolicy1).
 
 #### #ItsThatEasy
 
@@ -432,7 +432,7 @@ We will use such Personal Information solely for our internal recruitment, emplo
 16\. Public forums and user content
 -----------------------------------
 
-Our Services offer publicly accessible blogs, communities and support forums. Please be aware that any Personal Information you provide in any such areas may be read, collected, and used by others who access them. To request removal of your Personal Information from our blogs, communities or forums, feel free to contact us at: [privacy@wix.com](mailto:privacy@wix.com). In some cases, we may not be able to remove your Personal Information from such areas. For example, if you use a third party application to post a comment (e.g., the Facebook social plugin application) while logged in to your related profile with such third party, you must login into such application or contact its provider if you want to remove the Personal Information you posted on that platform. 
+Our Services offer publicly accessible blogs, communities and support forums. Please be aware that any Personal Information you provide in any such areas may be read, collected, and used by others who access them. To request removal of your Personal Information from our blogs, communities or forums, feel free to contact us [here](https://www.wix.com/support-chatbot?nodeId=kKKuIuXsiPa1kiePMmcA&_type=privacyGeneral&referral=privacyPolicy1). In some cases, we may not be able to remove your Personal Information from such areas. For example, if you use a third party application to post a comment (e.g., the Facebook social plugin application) while logged in to your related profile with such third party, you must login into such application or contact its provider if you want to remove the Personal Information you posted on that platform. 
 
 ​
 
@@ -476,7 +476,7 @@ Translated (non-English) versions of these terms are provided for convenience on
 18. Contacting us
 -----------------
 
-If you have any questions about this Privacy Policy or wish to exercise any of your rights as described in Sections 9 or 10 please refer to those sections or contact the Data Protection Officer team at [privacy@wix.com](mailto:privacy@wix.com). We will attempt to resolve any complaints regarding the use of your Personal Information in accordance with this Privacy Policy.
+If you have any questions about this Privacy Policy or wish to exercise any of your rights as described in Sections 9 or 10 please refer to those sections or contact the Data Protection Officer team [here](https://www.wix.com/support-chatbot?nodeId=kKKuIuXsiPa1kiePMmcA&_type=privacyGeneral&referral=privacyPolicy1). We will attempt to resolve any complaints regarding the use of your Personal Information in accordance with this Privacy Policy.
 
 ​
 
