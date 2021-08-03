@@ -3,7 +3,7 @@ Vinted - Data Protection Statement
 **Vinted – Privacy Policy**
 ===========================
 
-_Date last updated: 2021-06-10_
+_Date last updated: 2021-08-03_
 
 **1\. General**
 ===============
@@ -902,7 +902,7 @@ If you opt to pay a seller by credit card, PayPal, or if you accept payment from
 6.  Telephone number;
 7.  Email address.
 
-If you use the MANGOPAY electronic payment system, MANGOPAY will collect the payment information required according to the payment method selected (e.g. credit card, PayPal). Payment will then be implemented via MANGOPAY and the payment service provider you have selected (e.g. PayPal). To this extent, the data protection regulations of MANGOPAY and the relevant payment service provider will apply. For more information on payment procedures and payment service providers, see Article 13 of our [GTC](https://www.vinted.fr/terms-and-conditions).
+If you use the MANGOPAY electronic payment system, MANGOPAY will collect the payment information required according to the payment method selected (e.g. credit card, PayPal, Google Pay). Payment will then be implemented via MANGOPAY and the payment service provider you have selected (e.g. PayPal, Google Pay). To this extent, the data protection regulations of MANGOPAY and the relevant payment service provider will apply. For more information on payment procedures and payment service providers, see Article 13 of our [GTC](https://www.vinted.fr/terms-and-conditions).
 
 If you use a credit card as your payment method, Vinted will see only the first six and last four digits of your card number. This information will be used by us solely for the purpose of confirming payment.
 
@@ -937,7 +937,7 @@ Please note, this section only applies to our Polish Platform.
 
 If you sell your items on the Platform, to be able to sell your products on the Platform, you need to accept the payment service provider ADYEN N.V. (Netherlands) (“**ADYEN**”) Marketpay Terms and Conditions. This happens during the onboarding flow on our website. In accordance with the ADYEN Marketpay Terms and Conditions, Vinted will share personal data about you with ADYEN. ADYEN processes this information in accordance with applicable laws and with the ADYEN [Privacy Policy](https://www.adyen.com/policies-and-disclaimer/privacy-policy).
 
-If you buy items on the Platform, ADYEN will collect the payment information required according to the payment method selected (e.g. credit card etc.) and needed to verify and process your transaction. To this extent, the data protection regulations of ADYEN and the relevant payment service provider will apply.
+If you buy items on the Platform, ADYEN will collect the payment information required according to the payment method selected (e.g. credit card, Google Pay etc.) and needed to verify and process your transaction. To this extent, the data protection regulations of ADYEN and the relevant payment service provider will apply.
 
 We do not receive your full card data (we only receive data described in 2.5.1 above) as this data is masked and forwarded to the ADYEN handling the transaction. This information will be used by us solely for the purpose of confirming payment.
 
