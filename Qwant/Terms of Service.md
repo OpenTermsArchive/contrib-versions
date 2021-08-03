@@ -121,3 +121,5 @@ Applicable law
 The Services and their TOS are subject to French law, wherever they may be used. In the event of that amicable solutions fail or are not sought, any dispute arising from these provisions may be brought before the competent courts.
 
 All rights reserved, QWANT® 2019
+
+*   Last update: August 3, 2021
