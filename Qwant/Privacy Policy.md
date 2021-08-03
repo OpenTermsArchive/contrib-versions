@@ -232,3 +232,5 @@ What data is processed for the Qwant mobile application on Android and iOS?
 ---------------------------------------------------------------------------
 
 We do not integrate any tracker in our applications nor any advertising ID. Qwant does not process any specific personal data when you use the Qwant application for Android or iOS. The processing of personal data carried out by Qwant during your navigation and use of our Services from the application are exclusively those described above.
+
+*   Last update: August 3, 2021
