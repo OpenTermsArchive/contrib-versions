@@ -1,4 +1,4 @@
-LAST UPDATED July 14, 2020
+LAST UPDATED August 2, 2021
 
 Terms of Use
 ============
@@ -82,8 +82,8 @@ If a counter-notice is received by the Designated Agent, Brave’s may send a co
 **Notices and counter notices with respect to the Service should be sent to Brave at:**  
 Copyright Designated Agent  
 Brave, Inc.  
-512 Second Street, Floor 2  
-San Francisco, CA 94107  
+580 Howard St. Unit 402,  
+San Francisco, CA 94105  
 Support: [community.brave.com](https://community.brave.com/)
 
 Brave Firewall + VPN Subscription[](#brave-firewall--vpn-subscription "Permalink to this headline")
