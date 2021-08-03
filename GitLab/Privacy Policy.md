@@ -232,4 +232,4 @@ Your information is controlled by GitLab B.V. and GitLab Inc. If you have questi
 *   [Contact](https://about.gitlab.com/company/contact/)
 *   [Terms](https://about.gitlab.com/terms/)
 *   [Privacy](https://about.gitlab.com/privacy/)
-*   [Trademark](https://about.gitlab.com/handbook/marketing/corporate-marketing/brand-activation/brand-guidelines/#trademark)
+*   [Trademark](https://about.gitlab.com/handbook/marketing/corporate-marketing/brand-activation/brand-standards/#trademark)
