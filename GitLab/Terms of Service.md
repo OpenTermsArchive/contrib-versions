@@ -160,4 +160,4 @@ These Website Terms of Use (the “Agreement”) govern all use of the GitLab.co
 *   [Contact](https://about.gitlab.com/company/contact/)
 *   [Terms](https://about.gitlab.com/terms/)
 *   [Privacy](https://about.gitlab.com/privacy/)
-*   [Trademark](https://about.gitlab.com/handbook/marketing/corporate-marketing/brand-activation/brand-guidelines/#trademark)
+*   [Trademark](https://about.gitlab.com/handbook/marketing/corporate-marketing/brand-activation/brand-standards/#trademark)
