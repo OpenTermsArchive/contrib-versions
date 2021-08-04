@@ -72,7 +72,7 @@ United Kingdom
 
 Please note Canonical will not provide legal advice. For other queries, please contact us via [legal@canonical.com](mailto:legal@canonical.com)
 
-### Want fully managed private cloud?
+### Want a fully managed private cloud?
 
 Canonical provides a managed services option for OpenStack. Our experts take responsibility for the design, deployment and operations.
 
