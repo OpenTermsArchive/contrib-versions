@@ -76,7 +76,7 @@ You are responsible for keeping your Account secure while you use our Service. W
 
 *   You are responsible for all content posted and activity that occurs under your Account (even when content is posted by others who have Accounts under your Account).
 *   You are responsible for maintaining the security of your Account and password. GitHub cannot and will not be liable for any loss or damage from your failure to comply with this security obligation.
-*   You will promptly [notify GitHub](https://support.github.com/contact) if you become aware of any unauthorized use of, or access to, our Service through your Account, including any unauthorized use of your password or Account.
+*   You will promptly [notify GitHub](https://support.github.com/contact?tags=docs-policy) if you become aware of any unauthorized use of, or access to, our Service through your Account, including any unauthorized use of your password or Account.
 
 ### [5\. Additional Terms](#5-additional-terms)
 
@@ -260,7 +260,7 @@ By agreeing to these Terms, you are giving us permission to charge your on-file 
 
 ### [5\. Responsibility for Payment](#5-responsibility-for-payment)
 
-You are responsible for all fees, including taxes, associated with your use of the Service. By using the Service, you agree to pay GitHub any charge incurred in connection with your use of the Service. If you dispute the matter, contact [GitHub Support](https://support.github.com/contact). You are responsible for providing us with a valid means of payment for paid Accounts. Free Accounts are not required to provide payment information.
+You are responsible for all fees, including taxes, associated with your use of the Service. By using the Service, you agree to pay GitHub any charge incurred in connection with your use of the Service. If you dispute the matter, contact [GitHub Support](https://support.github.com/contact?tags=docs-policy). You are responsible for providing us with a valid means of payment for paid Accounts. Free Accounts are not required to provide payment information.
 
 [L. Cancellation and Termination](#l-cancellation-and-termination)
 ------------------------------------------------------------------
@@ -374,4 +374,4 @@ This Agreement may only be modified by a written amendment signed by an authoriz
 
 ### [6\. Questions](#6-questions)
 
-Questions about the Terms of Service? [Contact us](https://support.github.com/contact).
+Questions about the Terms of Service? [Contact us](https://support.github.com/contact?tags=docs-policy).
