@@ -268,7 +268,7 @@ United Kingdom
 *   [25 March 2013 ›](https://ubuntu.com/legal/data-privacy/2013-03-25)
 *   [08 February2016 ›](https://ubuntu.com/legal/data-privacy/2016-02-08)
 
-### Want fully managed private cloud?
+### Want a fully managed private cloud?
 
 Canonical provides a managed services option for OpenStack. Our experts take responsibility for the design, deployment and operations.
 
