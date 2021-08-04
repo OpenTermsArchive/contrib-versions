@@ -1,3 +1,5 @@
+We’ve updated our Privacy Policy, effective September 30, 2021. You can view the prior Privacy Policy [here](https://www.snap.com/en-GB/privacy/privacy-policy#prior-version).
+
 Privacy Policy
 ==============
 
@@ -200,32 +202,6 @@ We want you to be in control of your information, so we provide you with the fol
 *   **Communicating with other Snapchatters.** It’s important to us that you stay in control over whom you communicate with. That’s why we’ve built a number of tools in Settings that let you indicate, among other things, who you want to see your Stories, whether you’d like to receive Snaps from just your friends or all Snapchatters and whether you’d like to block another Snapchatter from contacting you again. Please go [here](https://support.snapchat.com/article/privacy-settings2) to learn more.
     
 
-Users in the European Union
----------------------------
-
-If you’re a user in the European Union, you should know that Snap Inc. is the controller of your personal information. Here is some additional information we would like to bring to your attention:
-
-### Rights of access, deletion, correction and portability
-
-You can exercise your rights of access, deletion, correction and portability as described in the C[ontrol Over Your Information](https://www.snap.com/en-GB/privacy/privacy-policy#control-over-your-information) section above.
-
-### Bases for using your information
-
-Your country only allows us to use your personal information when certain conditions apply. These conditions are called “legal bases” and, at Snap, we typically rely on one of four:
-
-*   **Contract.** One reason we might use your information is that you’ve entered into an agreement with us. For example, when you buy an On-Demand Filter and accept our Custom Creative Tools Terms, we need to use some of your information to collect payment and make sure we show your Filter to the right people at the right place and time.
-    
-*   **Legitimate interest.** Another reason we might use your information is that we have – or a third party has – a legitimate interest in doing so. For example, we need to use your information to provide and improve our services, including protecting your account, delivering your Snaps, providing customer support and helping you find friends and content we think you’ll like. Because most of our services are free, we also use some information about you to try to show you adverts you’ll find interesting. An important point to understand about legitimate interest is that our interests don’t outweigh your right to privacy, so we only rely on legitimate interest when we think the way we are using your data doesn’t significantly impact your privacy or would be expected by you or there is a compelling reason to do so. We explain our legitimate business reasons for using your information in more detail [here](https://www.snap.com/en-GB/privacy/your-information).
-    
-*   **Consent.** In some cases we’ll ask for consent to use your information for specific purposes. If we do, we’ll make sure you can revoke your consent in our services or through your device permissions. Even if we’re not relying on consent to use your information, we may ask you for permission to access data like contacts and location.
-    
-*   **Legal obligation.** We may be required to use your personal information to comply with the law, such as when we respond to valid legal processing or need to take action to protect our users. Our policy is to notify Snapchatters when we receive legal process seeking their account information, with some exceptions. Learn more [here](https://www.snap.com/en-GB/privacy/transparency/).
-    
-
-### Your right to object
-
-You have the right to object to our use of your information. With many types of data, we’ve provided you with the ability to simply delete it if you don’t want us processing it any more. For other types of data, we’ve given you the ability to stop the use of your data by disabling the feature altogether. You can do these things in the app. If there are other types of information you don’t agree with us processing, you can [contact us](https://support.snapchat.com/).
-
 ### International transfers
 
 We may collect your personal information from, transfer it to and store and process it in the United States and other countries outside of where you live. Whenever we share information of EU users outside the EU, we make sure an adequate transfer mechanism is in place. You can find more information on the categories of third parties we share information with [here](https://support.snapchat.com/a/snapchat-service-providers).
@@ -238,51 +214,10 @@ Snap B.V. Keizersgracht 440 B, 1016 GD Amsterdam, The Netherlands
 
 **Complaints or questions?** If you’re based in the EU, you can always file a complaint with the [supervisory authority](https://edpb.europa.eu/about-edpb/board/members_en) in your Member State. Additionally, we have appointed a Data Protection Officer (“DPO”). To contact our DPO, please email dpo @ snap.com.
 
-Users in Brazil
----------------
+State and Region Specific Information
+-------------------------------------
 
-If you’re a user in Brazil, you should know that Snap Inc. is the controller of your personal information. Here is some additional information we would like to bring to your attention:
-
-**Rights of access, deletion, correction and portability**
-
-You can exercise your rights of access, deletion, correction and portability as described in the Control over your information section above.
-
-**Bases for using your information**
-
-Your country only allows us to use your personal information when certain conditions apply. These conditions are called “legal bases” and, at Snap, we typically rely on one of four:
-
-*   Contract. One reason we might use your information is that you’ve entered into an agreement with us. For example, when you buy an On-Demand Filter and accept our Custom Creative Tools Terms, we need to use some of your information to collect payment and make sure we show your Filter to the right people at the right place and time.
-    
-*   Legitimate interest. Another reason we might use your information is that we have – or a third party has – a legitimate interest in doing so. For example, we need to use your information to provide and improve our services, including protecting your account, delivering your Snaps, providing customer support and helping you find friends and content we think you’ll like. Because most of our services are free, we also use some information about you to try to show you adverts you’ll find interesting. An important point to understand about legitimate interest is that our interests don’t outweigh your right to privacy, so we only rely on legitimate interest when we think the way we are using your data doesn’t significantly impact your privacy or would be expected by you or there is a compelling reason to do so. We explain our legitimate business reasons for using your information in more detail here.
-    
-*   Consent. In some cases we’ll ask for consent to use your information for specific purposes. If we do, we’ll make sure you can revoke your consent in our services or through your device permissions. Even if we’re not relying on consent to use your information, we may ask you for permission to access data like contacts and location.
-    
-*   Legal obligation. We may be required to use your personal information to comply with the law, such as when we respond to valid legal processing or need to take action to protect our users.
-    
-
-**Your right to object**
-
-You have the right to object to our use of your information. With many types of data, we’ve provided you with the ability to simply delete it if you don’t want us processing it any more. For other types of data, we’ve given you the ability to stop the use of your data by disabling the feature altogether. You can do these things in the app. If there are other types of information you don’t agree with us processing, you can contact us.
-
-**Complaints or questions?**  You can always file a complaint with the national authority in your country. Additionally, we have appointed a Data Protection Officer (“DPO”). To contact our DPO, please email dpo @ snap.com.
-
-Users in Mexico
----------------
-
-If you’re a user in Mexico, you should know that Snap Inc., located at 2772 Donald Douglas Loop North, Santa Monica, California 90405, is the controller of your personal information. Here is some additional information we would like to bring to your attention:
-
-**Rights of access, rectification and cancellation**
-
-You can exercise your rights of access, rectification and cancellation as described in the “Control over your information” section above.
-
-**Your right to object or challenge**
-
-You have the right to object to or challenge our use of your information. With many types of data, we’ve provided you with the ability to simply delete it if you don’t want us processing it any more. For other types of data, we’ve given you the ability to stop the use of your data by disabling the feature altogether. You can do these things in the app. If there are other types of information you don’t agree with us processing, you can [contact us](https://support.snapchat.com/en-US).
-
-California residents
---------------------
-
-If you’re a California resident, you have certain privacy rights under California law, including the California Consumer Privacy Act of 2018 (“CCPA”). Our California Privacy Notice specifies these rights. [Check it out](https://www.snap.com/en-GB/privacy/california-privacy-notice).
+You may have specific privacy rights in your state or region. For example, in the United States, residents of California and other states have specific privacy rights. Snapchatters in the European Economic Area (EEA), the UK, Brazil, the Republic of Korea, and other jurisdictions also have specific rights. We keep an up-to-date overview of state and region specific disclosures [here](https://www.snap.com/en-GB/privacy/state-region-information).
 
 Children
 --------
@@ -293,3 +228,8 @@ Revisions to the Privacy Policy
 -------------------------------
 
 We may change this Privacy Policy from time to time. But when we do, we’ll let you know one way or another. Sometimes, we’ll let you know by revising the date at the top of the Privacy Policy that’s available on our website and mobile application. Other times, we may provide you with additional notice (such as adding a statement to our websites’ home pages or providing you with an in-app notification).
+
+* * *
+
+We’ve updated our Privacy Policy, effective September 30, 2021. You can view the prior Privacy Policy [](https://www.snap.com/en-GB/privacy/privacy-policy#prior-version)below.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
