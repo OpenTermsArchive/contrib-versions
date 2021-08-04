@@ -8,7 +8,7 @@ Here you'll find the requirements for advertising on the Google Network.
 
 |     |     |
 | --- | --- |
-| [![A card that you can click to view and fix product disapprovals in an account](//storage.googleapis.com/support-kms-prod/e9mwo1rXFoUrEJ8PBN2urXUfuk6LD5CBoZMm "A card that you can click to view and fix product disapprovals in an account")](https://merchants.google.com/mc/products/diagnostics?&tab=item_issues) | [![A card that you can click to view and fix an account suspension](//storage.googleapis.com/support-kms-prod/cJpfki0R5ykjVNdOvEYm4fmrRM5ArrGLF1dj "A card that you can click to view and fix an account suspension")](https://merchants.google.com/mc/products/diagnostics?&tab=account_issues) |
+| [![](//storage.googleapis.com/support-kms-prod/ZxmJmg9b6L6E8cdKFXjSt5sC2Zg9QovUGPEW)](https://merchants.google.com/mc/products/diagnostics?&tab=item_issues) | [![](//storage.googleapis.com/support-kms-prod/07kOfp1eGzdqX8gV614BW3J6NOcznIcNePaF)](https://merchants.google.com/mc/products/diagnostics?&tab=account_issues) |
 
 Overview of our shopping ads policies
 -------------------------------------
