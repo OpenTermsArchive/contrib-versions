@@ -1,6 +1,6 @@
 Self-serve Ad Terms
 
-The following terms ("**Self-Serve Advertising Terms**" or "**Self-Serve Ad Terms**") apply to your use of [Facebook Products](https://www.facebook.com/help/1561485474074139) (such as the self-service advertising interfaces and APIs) for creation, submission and/or delivery of any advertising or other commercial or sponsored activity or content (collectively, "**Self-Serve Ad Interfaces**") and any order you place through the Self-Serve Ad Interfaces ("**Order**").
+The following terms ("**Self-serve Advertising Terms**" or "**Self-serve Ad Terms**") apply to your use of [Facebook Products](https://www.facebook.com/help/1561485474074139) (such as the self-service advertising interfaces and APIs) for creation, submission and/or delivery of any advertising or other commercial or sponsored activity or content (collectively, "**Self-serve Ad Interfaces**") and any order you place through the Self-serve Ad Interfaces ("**Order**").
 
 You can target your desired audience by buying ads to be delivered on Facebook, Messenger, Instagram, our publisher network or any place where we serve ads.
 
@@ -44,10 +44,10 @@ You can target your desired audience by buying ads to be delivered on Facebook, 
     
 10.  Our licence to deliver your ad will end when we have completed your Order. You understand, however, that:
     
-    1.  Once displayed, ads are public information. Ads may be reshared and accessed outside of the targeted audience (including from the Facebook Page running the ads or within Facebook Products). If users have interacted with your ad, your ad may remain on our Products (_e.g. shared until the users delete it or visible to users through their account tools).
+    1.  Once displayed, ads are public information. Ads may be reshared and accessed outside the targeted audience (including from the Facebook Page running the ads or within Facebook Products). If users have interacted with your ad, your ad may remain on our Products (_e.g. shared until the users delete it, or visible to users through their account tools).
         
         _
-    2.  If your ad is about [Social Issues, Elections or Politics](https://www.facebook.com/policies/ads/restricted_content/political), Facebook may display (at no cost to you) and provide access to the ad content and creative, and information about the ad campaign (such as total spend and delivery data, and targeting information) for a period of seven years from the completion of your order.
+    2.  If your ad is about [social issues, elections or politics](https://www.facebook.com/policies/ads/restricted_content/political), Facebook may display (at no cost to you) and provide access to the ad content and creative, and information about the ad campaign (such as total spend and delivery data, and targeting information) for a period of seven years from the completion of your order.
         
     3.  You consent that Facebook may disclose your advertising content, and all information associated with your advertising, to a governmental entity or body if Facebook believes that disclosure would assist in a lawful investigation.
     
@@ -59,23 +59,24 @@ You can target your desired audience by buying ads to be delivered on Facebook, 
     
 14.  If you are placing ads on someone else's behalf, you must have permission to place those ads, and agree as follows:
     
-    1.  You represent and warrant that you have the authority to and will bind the advertiser to these Self-Serve Ad Terms and the Terms of Service, and the [Commercial Terms](https://www.facebook.com/legal/commercial_terms), to which you also agree.
+    1.  You represent and warrant that you have the authority to and will bind the advertiser to these Self-serve Ad Terms and the Terms of Service, and the [Commercial Terms](https://www.facebook.com/legal/commercial_terms), to which you also agree.
         
-    2.  If the advertiser you represent violates these Self-Serve Ad Terms, the Terms of Service or the Commercial Terms, we may hold you responsible for that violation.
+    2.  If the advertiser you represent violates these Self-serve Ad Terms, the Terms of Service or the Commercial Terms, we may hold you responsible for that violation.
         
     3.  You agree that we may provide campaign reporting information to the end advertiser for whom you placed a campaign.
     
-15.  We may ask you to review and accept supplemental terms that apply to your use of a specific feature or functionality made available through the Self-Serve Ad Interfaces. To the extent that those supplemental terms conflict with these Self-Serve Ad Terms, the supplemental terms will govern with respect to your use of the specific feature or functionality to the extent of the conflict. We may change or update these Self-Serve Ad Terms from time to time and your continued use of the Self-Serve Ad Interfaces constitutes acceptance of those changes.
+15.  We may ask you to review and accept supplemental terms that apply to your use of a specific feature or functionality made available through the Self-serve Ad Interfaces. To the extent that those supplemental terms conflict with these Self-serve Ad Terms, the supplemental terms will govern with respect to your use of the specific feature or functionality to the extent of the conflict. We may change or update these Self-serve Ad Terms from time to time and your continued use of the Self-serve Ad Interfaces constitutes acceptance of those changes.
 
 17.  Contracting party:
     
-    1.  If you reside or have your principal place of business in the United States or Canada, Facebook, Inc. provides the Self-Serve Ad Interfaces.
-    2.  If you reside or have your principal place of business outside the United States or Canada, Facebook Ireland Limited provides the Self-Serve Ad Interfaces, except that advertisers in some countries may under certain circumstances contract directly with Facebook affiliate companies **solely** for purposes of placing Orders. [If applicable to you, you can find special provisions applicable to your Orders from those affiliates here](https://www.facebook.com/legal/country_specific_ads_terms).
-    3.  For the avoidance of doubt, regardless of which entity you contract with (as described in Sections 16.a and 16.b), Facebook's [Advertising Policies](https://www.facebook.com/policies/ads/) (and its Community Standards as incorporated) are enforced under the Terms of Service by the entity that provides the Facebook Products under the applicable Terms of Service in your region.
+    1.  If you reside or have your principal place of business in the United States or Canada, Facebook, Inc. provides the Self-serve Ad Interfaces.
+    2.  If you reside or have your principal place of business outside the United States or Canada, Facebook Ireland Limited provides the Self-serve Ad Interfaces.
+    3.  Notwithstanding the above, advertisers in some countries may be subject to special provisions regarding Orders they place, including, under certain circumstances, that they contract directly with Facebook affiliate companies solely for purposes of placing Orders. If applicable to you, you can find these special provisions applicable to your Orders [here.](https://www.facebook.com/legal/country_specific_ads_terms)
+    4.  For the avoidance of doubt, regardless of which entity you contract with (as described in Sections 16.a, 16.b and 16.c), Facebook's [Advertising Policies](https://www.facebook.com/policies/ads/) (and its Community Standards as incorporated) are enforced under the Terms of Service by the entity that provides the Facebook Products under the applicable Terms of Service in your region.
     
-18.  Any claim, cause of action or dispute that arises out of or relates to these Self-Serve Ad Terms is subject to the disputes resolution clause in the Commercial Terms.
-19.  These Self-Serve Ad Terms will terminate in the event of any termination of the Commercial Terms, but the following provisions will still apply: the lead-in paragraph and Sections 2, 4, 8-12 and 15-18.
+18.  Any claim, cause of action or dispute that arises out of or relates to these Self-serve Ad Terms is subject to the disputes resolution clause in the Commercial Terms.
+19.  These Self-serve Ad Terms will terminate in the event of any termination of the Commercial Terms, but the following provisions will still apply: the lead-in paragraph and Sections 2, 4, 8-12 and 15-18.
 
   
 
-Effective date: 31 August 2020.
+Effective date: 28 June 2021.
