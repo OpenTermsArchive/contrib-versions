@@ -10,7 +10,7 @@ The use of booking on Google Flight Search is subject to these terms, in additio
 
 ### Booking through Google Flight Search
 
-On Google’s Flight Search website, you can make a booking request for some airlines’ flights. By completing the required fields of the booking request screen on Google Flight Search, and submitting the booking request by clicking on the "Book" button, you will make a binding booking request to the respective airline or online travel agent and enter into an agreement with and authorize Google to pass your booking request information through to the airline and/or the online travel agent identified on the booking request screen.
+On Google’s Flight Search website, you can make a booking request for some airlines’ flights. You must be over 18 years old to use the Google Flight Search booking feature. By completing the required fields of the booking request screen on Google Flight Search, and submitting the booking request by clicking on the "Book" button, you will make a binding booking request to the respective airline or online travel agent and enter into an agreement with and authorize Google to pass your booking request information through to the airline and/or the online travel agent identified on the booking request screen.
 
 Google acts as an intermediary only, and we cannot control whether your booking request is accepted by the airline and/or the online travel agent.
 
