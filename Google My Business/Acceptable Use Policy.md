@@ -27,7 +27,6 @@ Basic guidelines
 **Tip:** If you would like to receive one-on-one guidance and tailored recommendations on how to make the most out of your profile, [consider booking an appointment with Small Business Advisors](http://business.google.com/advisors).
 
 Eligible businesses
--------------------
 
 In order to qualify for a Business Profile on Google, a business must make in-person contact with customers during its stated hours.
 
@@ -38,7 +37,6 @@ There are some exceptions:
 *   Virtual Kitchens are permitted. Virtual Kitchens are professional food preparation and cooking facilities set up to prepare delivery-only meals via third-party services. They are also referred to as Ghost Kitchens and Cloud Kitchens. A Virtual Kitchen should create their Business Profile as a [service area business](https://support.google.com/business/answer/9157481).
 
 Ineligible businesses
----------------------
 
 The following businesses are not eligible for a Business Profile:
 
@@ -47,12 +45,10 @@ The following businesses are not eligible for a Business Profile:
 *   Lead generation agents or companies.
 
 Ownership
----------
 
 Only business owners or authorised representatives may verify and manage their business information on Google My Business. If you wish to share management access to your Business Profile with others, you can [add a manager](https://support.google.com/business/answer/3403100).
 
 Additional guidelines for authorised representatives
-----------------------------------------------------
 
 Any individual or company that manages business information on Google My Business for a business that they don’t own is considered an **authorised representative**. For example: a third-party SEO/SEM company; a friend of the business owner; an online ordering, scheduling or booking provider and an affiliate network provider.
 
@@ -75,7 +71,6 @@ Authorised representatives must:
 Failure to adhere to these policies may result in a suspension for the Business Profile and/or account.
 
 Business description guidelines
--------------------------------
 
 Published content should highlight what makes your business unique. You can use this field to provide useful information on services and products offered, as well as the mission and history of your business.
 
@@ -174,7 +169,7 @@ Learn more
 
 Service-area businesses, or businesses that serve customers at their locations, should have one profile for the central office or location with a designated service area. Service-area businesses can't list a 'virtual' office unless that office is staffed during opening hours.
 
-Some businesses, like pizzerias that have restaurant seating and deliver pizza to customers, are hybrid service-area businesses. These businesses can show their shop-front address and designate a service area in Google My Business. If you serve customers at your address and want to set a service area, your business location should be staffed by your team and able to receive customers during its stated hours.
+Some businesses, like auto repair shops that have a garage for repairs and offer road side service, are hybrid service-area businesses. These businesses can show their shop-front address and designate a service area in Google My Business. If you serve customers at your address and want to set a service area, your business location should be staffed by your team and able to receive customers during its stated hours.
 
 Google determines how best to display your business address based on your business information and information from other sources.
 
