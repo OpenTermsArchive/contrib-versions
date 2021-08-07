@@ -48,13 +48,13 @@ Helpful Definitions
 *   “**Session cookies**” allow a website to temporarily link a visitor’s actions during a unique browser session. Once the visitor closes the browser, all session cookies are deleted.
 *   “**Persistent cookies**” remain on a visitor’s device for the duration specified in the cookie.
 
-**FIRST-PARTY COOKIES USED ON TABOOLA’S SITES**
+First-Party Cookies Used on Taboola’s Sites
 
 We use the information collected via first-party cookies on our Sites only in connection with our Services. We use the information to remember your information so that you do not need to re-enter it upon your next visit , to monitor how many visitors we have and understand how they engage with different web pages on our Sites, and to improve and manage our Sites. For these purposes, Taboola may use the following categories of cookies:
 
 *   **Strictly Necessary Cookies** — These cookies are used for the sole purpose of (i) carrying out a communication over an electronic network, or (ii) providing services that you explicitly request.
 *   **Functionality Cookies** — These cookies allow the Sites to remember choices that you or your device have indicated (such as your user name, language, or region) and to provide enhanced, personalized features that improve your web experience.
-*   **Performance (Analytic) Cookies** —  These cookies collect information about how visitors use the Sites, such as which pages they visit most often and whether they encountered any error messages. These cookies do not collect information that identifies a visitor; they only collect data points that are aggregated and therefore anonymous. These types of cookies are only used to improve the Sites’ performance.
+*   **Performance (Analytics) Cookies** — These cookies collect information about how visitors use the Sites, such as which pages they visit most often and whether they encountered any error messages. These cookies do not collect information that identifies a visitor; they only collect data points that are aggregated and therefore anonymous. These types of cookies are only used to improve the Sites’ performance.
 *   **Advertising (Targeting) Cookies** – These cookies are used to deliver advertisements that are particularly relevant to you, based on your interests. They are also used to limit the number of times that you see an advertisement and to measure the effectiveness of an advertising campaign.
 
 You can find more information about the individual cookies used on our Sites, and the specific purposes for which these cookies are used, in the overview below:
@@ -77,19 +77,19 @@ You can find more information about the individual cookies used on our Sites, an
 | utmzzses | Saves the first traffic source that initially drove the user to Taboola’s website |
 | lastTrafficSource | Saves the last traffic source that drove the user to Taboola’s website |
 | GA\_Count\_Countries\_\_c | Counts the number of different counties a certain user was browsing from |
-| GA\_Last\_Browser\_\_c | Save the user’s browser name |
-| GA\_Last\_Device\_Category\_\_c | Save the user’s device type (Mobile/Desktop) |
-| GA\_Last\_Operating\_System\_\_c | Save the user’s OS |
-| GA\_Number\_of\_Events\_Form\_Engagement\_\_c | Counts the number of form intarctions |
+| GA\_Last\_Browser\_\_c | Saves the user’s browser name |
+| GA\_Last\_Device\_Category\_\_c | Saves the user’s device type (Mobile/Desktop) |
+| GA\_Last\_Operating\_System\_\_c | Saves the user’s operating system |
+| GA\_Number\_of\_Events\_Form\_Engagement\_\_c | Counts the number of form interactions |
 | GA\_Number\_of\_events\_Website\_Buttons\_\_c | Counts the number of button clicks |
-| GA\_Number\_of\_Events\_Youtube\_Embedded\_\_c | Counts the number of embedded Youtube interactions |
+| GA\_Number\_of\_Events\_Youtube\_Embedded\_\_c | Counts the number of embedded YouTube interactions |
 | GA\_Number\_of\_Pages\_\_c | Counts the number of pageviews |
 | GA\_Number\_of\_Sessions\_\_c | Counts the number of sessions |
-| previewsSiteCountryCode | Save’s the user’s previews country code in cases where there are visit from multiple countries for the same user |
-| GA\_Last\_Click\_Medium\_\_c | Save’s the user’s last traffic medium |
-| GA\_Last\_Click\_Source\_\_c | Save’s the user’s last traffic source |
+| previewsSiteCountryCode | Saves the user’s previews country code in cases where there are visits from multiple countries for the same user |
+| GA\_Last\_Click\_Medium\_\_c | Saves the user’s last traffic medium |
+| GA\_Last\_Click\_Source\_\_c | Saves the user’s last traffic source |
 
-**THIRD-PARTY COOKIES ON TABOOLA’S SITES** 
+Third-Party Cookies on Taboola’s Sites
 
 We use the information collected via third-party cookies on our Sites to remember your information so that you do not need to re-enter it upon your next visit, to monitor how many visitors we have and understand how they engage with different web pages on our Sites, and to improve and manage our Sites.  We may use third parties to track or analyze your activity on the Sites for these purposes, or to deliver you tailored advertisements about Taboola’s Services.  For more information about how these third parties may collect information about you and deliver you advertisements that are tailored to your interests, please read about our [Third Party Online Advertising](https://www.taboola.com/policies/privacy-policy#third-party-online-advertising).
 
@@ -116,7 +116,7 @@ You can find more information about the third-party cookies used on our Sites, a
 | Advertising (Targeting) Cookies | Microsoft Bing Ads Universal Event Tracking | \_uetsid | This cookie enables Microsoft to identify end user visits to the Taboola site. |
 | DoubleClick (Google) | \_ar\_v4 | This cookie is associated with the DoubleClick advertising service from Google. Helps with tracking conversion rates for ads. |
 
-**FIRST-PARTY COOKIES USED IN TABOOLA’S SERVICES ON OUR CUSTOMERS’ WEBSITES** 
+First-Party Cookies Used in Taboola’s Services on Our Customers’ Websites
 
 We use information collected via cookies on our Customers’ websites to make the Services more enjoyable, to improve the functionality of the Services, and to tailor the content that we display to you.  For more information about relevant advertisements delivered by the Services, please read about our [Interest Based Advertisements](https://www.taboola.com/policies/privacy-policy#interest-based-advertising).
 
@@ -128,7 +128,7 @@ You can find more information about the individual first-party cookies used for 
 | Strictly Necessary Cookies | taboola\_session\_id | Creates a temporary session ID to avoid the display of duplicate recommendations on the page. | trc.taboola.com | session |
 | Functionality Cookies | taboola\_select | Maintains a record of whether the user performed an action in the “Taboola Select” feature. | taboola.com | 1 year |
 | taboola\_fp\_td\_user\_id | Indicates that the user clicked on an item that was recommended by Taboola’s Services.  This is used for reporting and analytics purposes. | taboola.com | 1 year |
-| t\_gid | Assigns a unique User ID that allows Taboola to  recommend specific advertisements and content to this user. | taboola.com | 1 year |
+| t\_gid | Assigns a unique User ID that Taboola uses for attribution and reporting purposes, and to tailor recommendations to this specific user. | taboola.com | 1 year |
 | trc\_cookie\_storage | Assigns a unique User ID that is used for attribution and reporting purposes. | Publisher’s Domain | 1 year |
 | \_tb\_sess\_r | Used on websites of our publisher Customers that utilize the Taboola Newsroom services. It maintains a session reference about the user’s visit to this particular website. | Publisher’s Domain | 30 minutes |
 | \_tb\_t\_ppg | Used on websites of our publisher Customers that utilize the Taboola Newsroom services. This cookie is used to identify the referring website (i.e. the website that the user visited prior to arriving at this publisher’s website). | Publisher’s Domain | 30 minutes |
