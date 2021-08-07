@@ -1,4 +1,4 @@
-This EU Data Transfer Addendum is effective 31 August 2020.
+We are updating our [EU Data Transfer Addendum](https://www.facebook.com/legal/EU_data_transfer_addendum/update) to incorporate new Standard Contractual Clauses. These updates will go into effect on 27 September 2021.
 
   
 
@@ -8,7 +8,7 @@ This EU Data Transfer Addendum ("Data Transfer Addendum") applies to the extent 
 
 1.  Taking into account the circumstances, you instruct Facebook Ireland Limited to transfer EU Data to Facebook Inc. in the US for storage and further Processing. The Clauses apply between you and Facebook, Inc. to transfers originating in the UK, EU, EEA or Switzerland of EU Data to Facebook, Inc., unless such transfer is otherwise permitted under the GDPR.
     1.  For the purposes of the Clauses: you are the "data exporter" and Facebook, Inc. is the "data importer" as those terms are defined in the Clauses
-    2.  For the purposes of Appendix 1 of the Clauses: "data subjects" are individuals whose data is comprised in the EU Data transferred, who may include your customers and individuals who visit, or take actions on, your websites and apps or in your shops, such as visits to your sites, installations of your apps and purchases of your products and services, while "categories of data", "special categories of data" and "processing operations" are as described in the Applicable Product Terms, in these cases to the extent relating to EU Data.
+    2.  For the purposes of Appendix 1 of the Clauses: "data subjects" are individuals whose data is comprised in the EU Data transferred, who may include your customers and individuals who visit, or take actions on, your websites and apps or in your shops, such as visits to your sites, installations of your apps, and purchases of your products and services, while "categories of data", "special categories of data" and "processing operations" are as described in the Applicable Product Terms, in these cases to the extent relating to EU Data.
     3.  For the purposes of Appendix 2 of the Clauses: the technical and organisational security measures implemented by Facebook, Inc. are as set out in the [Data Security Terms](https://www.facebook.com/legal/terms/data_security_terms).
     4.  You and Facebook, Inc. are taken to have executed the Clauses when you agree to this Data Transfer Addendum or the Applicable Product Terms. By providing EU Data to Facebook Ireland Limited as your Processor under the Applicable Product Terms after the effective date above, you agree to this Data Transfer Addendum.
 2.  You agree that:
