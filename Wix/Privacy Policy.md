@@ -1,7 +1,7 @@
 Wix.com Privacy Policy
 ======================
 
-Effective from December 16, 2020
+Effective from August 8, 2021
 
 Welcome to Wix.com’s Privacy Policy
 
@@ -100,15 +100,16 @@ We also collect and use Personal Information in order to contact Users and to co
 
 We may share your Personal Information with service providers and others (or otherwise allow them access to it) in the following manners and instances:
 
-Third Party Service Providers: Wix has partnered with a number of selected service providers, whose services and solutions complement, facilitate and enhance our own. These include hosting and server co-location services, communications and content delivery networks (CDNs), data and cyber security services, billing and payment processing services, domain name registrars, fraud detection and prevention services, web analytics, e-mail distribution and monitoring services, session recording and remote access services, performance measurement, data optimization and marketing services, content providers, and our legal and financial advisors (collectively, “Third Party Service Provider(s)”).
+Third Party Service Providers:  Wix has partnered with a number of selected service providers, whose services and solutions complement, facilitate and enhance our own. These include hosting and server co-location services, communications and content delivery networks (CDNs), data and cyber security services, billing and payment processing services, domain name registrars, fraud detection and prevention services, web analytics, e-mail distribution and monitoring services, session recording and remote access services, performance measurement, data optimization and marketing services, content providers, and our legal and financial advisors (collectively, “Third Party Service Provider(s)”). 
 
 ​
 
 Wix may share the following categories of Personal Information with Third Party Service Providers for a business purpose:
 
-*   identifiers, including name, alias, postal address, unique personal identifier, online identifier, internet protocol address, email address, account name, or other similar identifiers
+*   identifiers, including name, alias, postal address, unique personal identifier, online identifier, internet protocol address, email address, account name, or other similar identifiers.  
+     
     
-*   commercial information, for example information regarding products or services purchased, obtained, or considered
+*   commercial Personal Information, for example Personal Information regarding products or services purchased, obtained, or considered.
     
 
 4.1.
@@ -121,53 +122,37 @@ We may share the Personal Information of our Users and Users-of-Users with vario
 
 The Personal Information may be shared solely in accordance with this policy.
 
-Law Enforcement, Legal Requests and Duties: Wix may disclose or otherwise allow access to your Personal Information pursuant to a legal request, such as a subpoena, legal proceedings, search warrant or court order, or in compliance with applicable laws, if we have a good faith belief that the law requires us to do so, with or without notice to you.
+Law Enforcement, Legal Requests and Duties: Wix may disclose or otherwise allow access to any categories of your Personal Information described in this Privacy Policy pursuant to a legal request, such as a subpoena, legal proceedings, search warrant or court order, or in compliance with applicable laws, if we have a good faith belief that the law requires us to do so, with or without notice to you.
 
 4.2.
 
-Protecting Rights and Safety: Wix may share your Personal Information if we believe in good faith that this will help protect the rights, property or personal safety of Wix, any of our Users, any Users-of-Users, or any member of the general public, with or without notice to you.
+Protecting Rights and Safety: Wix may share any categories of your Personal Information described in this Privacy Policy if we believe in good faith that this will help protect the rights, property or personal safety of Wix, any of our Users, any Users-of-Users, or any member of the general public, with or without notice to you.
 
 4.3.
 
-Social Media Features and Framed Pages: Our Services include certain Social Media features, widgets, and single sign on features, such as the “Facebook Connect,” “Google Sign-in,” “Facebook Like”, or “Share this” button or other interactive mini-programs (“Social Media Features”). These Social Media Features may collect certain Personal Information such as your IP address or which page you are visiting on our Website and may set a cookie to enable them to function properly. Social Media Features are either hosted by a third party or hosted directly on our Services. Your interactions with these third parties’ Social Media Features are governed by their policies and not ours.
+Wix Subsidiaries and Affiliated Companies: We may share your Personal Information internally within our family of companies, for the purposes described in this Privacy Policy. For example, we may share your Personal Information with Wix.com Inc., our US-based subsidiary, in the course of facilitating and providing you (and your Users-of-Users) with our Services.
 
-​
-
-In addition, our Services may enable you to share your Personal Information with third parties directly, such as via page framing techniques to serve content to or from Third-Party Service Providers or other parties, while preserving the look and feel of our Website and Services (“Frames”). Please be aware that if you choose to interact or share any Personal Information via such Frames, you are in fact providing it to these third parties and not to us, and such interactions and sharing are governed by those third parties’ policies and not ours.
+Sharing Personal Information from Wix subsidiaries and affiliated companies in the European Union and Switzerland to Wix’s United States subsidiary will be only when the relevant Model Standard Contractual Clauses are in place.
 
 4.4.
 
-App Market Developers: As part of our App Market program, we allow third party developers (“Third Party Developer(s)”) to develop and offer their own applications via the Wix App Market (“Third Party App(s)”), in conjunction with Wix.
-
-​
-
-Each Third Party Developer is bound by the [Wix App Market – Partner Program Agreement](http://dev.wix.com/docs/publish/partners-agreement), which among others, contains restrictions on how they may access, store, share, and use the Personal Information you and/or your Users-of-Users provide them or us (as further detailed in the [Wix App Market Terms of Use](http://about.wix.com/app-market-terms))
-
-​
-
-We encourage you to review any privacy policy accompanying a Third Party App and ask Third Party Developers for any clarifications you may need before deciding to install and use their Third Party App. Wix does not control and is not responsible for the actions or policies of any Third Party Developers, and your use of any Third Party App is at your own risk.
-
-​
-
-You are solely responsible for notifying your Users-of-Users of the collection, processing and use of their Information and informing them that their Information will be transferred to and processed by Wix on your behalf.
+In connection with a change in corporate control: In addition, should Wix or any of its affiliates undergo any change in control, including by means of merger, acquisition or purchase of substantially all of its assets, your Personal Information may be shared with the parties involved in such event.
 
 4.5.
 
-Wix Subsidiaries and Affiliated Companies: We may share your Personal Information internally within our family of companies, for the purposes described in this Privacy Policy. For example, we may share your Personal Information with Wix.com Inc., our US-based subsidiary, in the course of facilitating and providing you (and your Users-of-Users) with our Services.
+Upon Your Further Direction: The Wix Services enable you, through different techniques, to engage and procure various third party services, products and tools for enhancing your web or mobile sites, including, without limitation, applications and widgets offered to you by third parties through the Wix Website (including the Wix App Market), eCommerce payment providers, third party designers who may assist you with your website, etc. (collectively, “Third Party Services”). If you choose to engage with such Third Party Services, they may have access to and process Personal Information of your Users-of-Users collected through your web or mobile sites. For example:
 
-​
+a) Framed Pages: our Services may enable you to integrate Third Party Services directly into your web or mobile sites, such as via page framing techniques to serve content to or from Third Party Services  or other parties (“Frames”). In these circumstances, the Third Party Services may collect Personal Information from your Users-of-Users.
 
-Sharing Personal Information from Wix subsidiaries and affiliated companies in the European Union and Switzerland to Wix’s United States subsidiary will be only when the relevant Model Standard Contractual Clauses are in place .
+b) App Market Developers: We allow third party developers (“Third Party Developer(s)”) to develop and offer their own applications via the Wix App Market (“Third Party App(s)”) to Users, which you may integrate into your web or mobile sites. Each Third Party Developer is bound by the Wix App Market Partner Agreement, which among other things, restricts the ways in which such developers may access, store, share, and use the Personal Information you and/or your Users-of-Users provide to them.
+
+c) Social Media Features: Our Services may enable you to integrate certain Social Media features, widgets, and single sign on features, such as “Facebook Connect,” or “Google Sign-in” (“Social Media Features”) into your web or mobile sites. These Social Media Features may collect certain Personal Information from your Users-of-Users such as identifiers, including name, alias, unique personal identifier, online identifier, internet protocol address, email address, or other similar identifiers. Social Media Features are hosted either by a third party or directly on our Services.
+
+Please note that in the examples listed above in this Section 4.6, Wix merely acts as an intermediary platform allowing you to procure the services of such Third Party Services (including, but not limited to, Third Party Developers, Third Party Apps and Social Media Features) with which you are interacting directly, and at your discretion. In this respect, Wix acts as a service provider to you, disclosing information to the Third Party Services on your behalf. Wix will share your Users-of-Users’ Personal Information with Third Parties Services only upon your direction or with your permission and is not, and shall not be, in any way responsible for such Third Party Services processing of such Personal Information, or liable with respect thereto.
+
+Wix does not control and is not responsible for the actions or policies of any Third Party Service, and your use of any Third Party Service is at your own risk. We encourage you to review any privacy policy accompanying a Third Party Service and ask such Third Party Service for any clarifications you may need before deciding to install and/or use their services.
 
 4.6.
-
-Connection With a Change in Corporate Control: In addition, should Wix or any of its affiliates undergo any change in control, including by means of merger, acquisition or purchase of substantially all of its assets, your Personal Information may be shared with the parties involved in such event.
-
-4.7.
-
-Upon Your Further Direction: Wix may also share your Personal Information with third parties for other purposes upon your further direction or with your explicit approval. 
-
-4.8.
 
 5\. Where do we store your ‘Personal Information’?
 --------------------------------------------------
@@ -323,30 +308,46 @@ You may request to access, receive a copy of, update, amend, delete, or limit th
 
 You can delete your Personal Information by deleting  your entire account. We will respond to your requests within a reasonable timeframe. 
 
-10\.  Additional information for California residents
+10\.  Additional Information for California residents
 -----------------------------------------------------
 
-If you are a California resident using the Services, the California Consumer Privacy Act (“CCPA”) may provide you the right to request access to and deletion of your Personal Information.
+If you are a California resident using the Services, the California Consumer Privacy Act ("CCPA") grants you the right to request access to and deletion of the Personal Information Wix collects about you, as well as to request that we disclose how we collect, use, and share your Personal Information. 
+
+California residents also have a right to opt-out of the sale of their Personal Information by a business and a right not to be discriminated against for exercising any of their rights under the CCPA. 
+
+No sale of Personal Information. Wix does NOT sell (as such term is defined in the CCPA) your Personal Information or your customers’ (Users-of-Users) Personal Information to third parties, and Wix has not sold Personal Information in the twelve months prior to the effective date of this Privacy Policy.
 
 ​
 
-In order to exercise the right to request access to and deletion of your Personal  Information, please see the information on the section 9, above. We do not discriminate based on the exercise of any privacy rights that you might have under this Section.
+No Discrimination. Wix does not discriminate against any User for exercising their rights under the CCPA.
+
+California consumers can exercise their CCPA rights directly or through an authorized agent by signing in to their registered Wix account at Wix.com and following the instructions outlined below. Please note: in order to protect Users’ accounts and Personal Information and safeguard Users’ privacy rights, we verify Users’ deletion and access requests, and to that extent, we may ask you for additional information or documentation (depending on the case), such as account related information, and, in some cases, billing information used to purchase paid Services, and a copy of documents that can assist with verifying your identity. 
+
+Such identification documentation (if requested) will be used only for verification purposes and we will delete it after your request is processed.
+
+  
+The following instructions apply to Personal Information we may collect from California residents on or through our Services.
 
 ​
 
-Wix does not sell user Personal Information to third parties for the intents and purposes of the CCPA. 
+Right to Know: If you want to exercise your right to know or receive a copy or access the Personal Information that you have stored with us, please follow the instructions provided in this Help Center article: <"[Retrieving Your Wix Account Data"](https://support.wix.com/en/article/privacy-retrieving-your-wix-account-data)\>, which explains how you can retrieve your Personal Information directly from within your Wix account.  Alternatively, you can also submit a request to access your Personal Information through [this web form](https://www.wix.com/account/support/get-archive), by submitting a request by email to [privacy@wix.com](mailto:privacy@wix.com), or by mailing your request to Wix.com, 40 Namal Tel Aviv St., Tel Aviv 6350671, Israel.
 
-​
+   
+Right to Deletion: If you want to exercise your right to request deletion of any of your Personal Information that you have stored with us, please follow the instructions provided in this Help Center article: <"[Permanently Deleting Your Wix Account](https://support.wix.com/en/article/privacy-permanently-deleting-your-wix-account-2888065)">, which explains how to delete your Personal Information that you can access directly through your User account. You can also choose to submit a request to delete all your Personal Information (including information accessible via your User account and any other Personal Information we hold about you) through [this web form](https://www.wix.com/account/support/permanent-delete), by submitting a request by email to [privacy@wix.com](mailto:privacy@wix.com), or by mailing your request to Wix.com, 40 Namal Tel Aviv St., Tel Aviv 6350671, Israel. 
 
-As informed in section 6 above, Wix may collect, store and process certain Personal Information of Users-of-Users, solely on our Users’ behalf and at their direction.  For such purposes, Wix serves and shall be considered as a “Service Provider” and not as the “Business” (as both such capitalized terms are defined in the CCPA. Wix does not and will not sell your customers’ (User-of-User) Personal Information.
+Once we receive and verify your consumer request, we will delete your personal information from our records unless an exception applies. We will make reasonable efforts to honor your request promptly and consistent with requirements under applicable law.
 
-​
+Please note that permanently deleting your Wix account erases all of your Personal Information from Wix's databases. After completing this process, you can no longer use any of your Wix Services, your account, and all its data will be removed permanently, and Wix will not be able to restore your account or retrieve your data in the future. Additionally, if you contact our support channels in the future, the system will not recognize your account, and support agents will not be able to locate the deleted account.
 
-Users of the Services who are California residents and under 18 years of age may request and obtain removal of content they posted by contacting us [here](https://www.wix.com/support-chatbot?nodeId=kKKuIuXsiPa1kiePMmcA&_type=privacyGeneral&referral=privacyPolicy1). All requests must be labeled “California Removal Request” on the email subject line. All requests must provide a description of the content you want removed and information reasonably sufficient to permit us to locate that content. We do not accept California Removal Requests via postal mail, telephone, or facsimile. We are not responsible for notices that are not labeled or sent properly, and we may not be able to respond if you do not provide adequate information. Please note that your request does not ensure complete or comprehensive removal of the material. For example, materials that you have posted may be republished or reposted by another user or third party
+  
+If you cannot access your Wix account or if you wish to exercise your CCPA rights through an authorized agent operating on your behalf, you, or your authorized agent (as applicable) may send a request to [privacy@wix.com](mailto:privacy@wix.com) or reach out to our [customer care department](https://support.wix.com/en/article/contacting-wix-customer-care-for-support), including by requesting a callback from a customer care expert. To process your request, in order to protect Users’ accounts and Personal Information, we may ask you or your authorized agent for the verifying information detailed above, which may vary according to the circumstances of your request. Authorized agents will also need to provide Wix with a copy of the consumer’s signed authorization designating them as their agent.
 
 #### #ItsThatEasy
 
-California residents may exercise their right to access and delete their Personal Information. To make a request, (i) visit our webform, (ii) send us an email;
+California residents have a few options to submit requests to exercise their rights. Please refer to this Section 10 for more detail on how you or your authorized agent may submit different types of requests.  
+ 
+
+Wix does NOT sell (as such term is defined in the CCPA) your Personal Information or your customers’ Personal Information (Users-of-Users) to third parties.
 
 11\. Questions and complaints
 -----------------------------
