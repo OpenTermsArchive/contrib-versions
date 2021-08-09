@@ -946,7 +946,7 @@ Lors de la commande comprenant l’Abonnement au Service tous les modes de livra
   
 Pour les commandes suivantes, l’Abonné pourra bénéficier de la livraison offerte sur les Produits Eligibles, si le montant total des Produits Eligibles commandés sur le Site est égal ou supérieur à 10 € et dans les conditions suivantes :  
   
-Il est précisé que les modes de livraison éligibles à la gratuité ne portent sur les petits colis de moins de 30 kilos.  
+Il est précisé que les modes de livraison éligibles à la gratuité ne portent que sur les petits colis de moins de 30 kilos.  
 En savoir plus sur notre page dédiée à la livraison en [cliquant ici](https://www.cdiscount.com/shipping/shippinginfo.html?shippingpartnerorigin=ft).
 
   
