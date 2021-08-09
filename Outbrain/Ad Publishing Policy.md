@@ -17,7 +17,7 @@ We hope to see your content on our platform soon.
 Acceptable Page Types
 ---------------------
 
-*   Article Pages &amp; Blog Posts
+*   Article Pages & Blog Posts
 *   Earned Media
 *   Videos (must contain some descriptive text on the page)
 *   Search Engine Results Pages
@@ -26,6 +26,8 @@ Acceptable Page Types
 *   App Download Pages
 *   Infographics
 *   Advertorials (with proper disclosure that follow Outbrain's Advertorial policies)
+
+PDF pages are not acceptable landing pages formats.
 
 Prohibited Categories
 ---------------------
@@ -75,9 +77,8 @@ Prohibited Categories
 
 *   No content that encourages high-risk investments or money-making schemes with the intention of profiting off user participation (i.e. “Get Rich Quick” Schemes)
 *   No Payday Loans or Cash Advance Loans
-*   No Penny Stocks, CFDs, Binary Options, or Forex
+*   No Penny Stocks, Binary Options, or Forex
 *   No non-premium TV/Movie streaming boxes (acceptable brands are Mi/Xiaomi, Apple TV, and Amazon Fire stick).
-*   Tactical flashlights
 *   No Penny Auctions
 
 #### Malware
@@ -95,8 +96,7 @@ Prohibited Categories
 #### Unsafe Products or Supplements
 
 *   No anabolic steroids, ephedra, or HGH (others may be added according to Outbrain's discretion)
-*   No herbal supplements that mimic the effects of illegal substances
-*   No weight loss supplements
+*   No herbal supplements that mimic the effects of illegal substances (e.g. magic mushrooms)
 *   No nootropics, 'brain pills', or 'smart drugs' meant to improve cognitive function
 
 Restricted Categories
@@ -120,6 +120,9 @@ Marketers are solely responsible for complying with applicable federal, state an
 
 *   Content must not promote one-night stands, hook-ups, and sexual encounters
 *   Content must not promote infidelity or casual sex
+*   Content must not promote International matchmaking or mail-order bride services
+*   Content must not use sexually suggestive imagery or comment on the physical appearance of individuals.
+*   Content must not group individuals by ethnicity or gender/call out a specific gender.
 
 #### Health/Beauty and Cosmetics
 
@@ -130,6 +133,7 @@ Marketers are solely responsible for complying with applicable federal, state an
 #### Financial Services (Restricted)
 
 *   Content must comply with financial governing bodies
+*   CFDs can be promoted by managed accounts only, and upon verification by the Outbrain team.
 
 #### Cryptocurrency
 
@@ -139,11 +143,11 @@ Marketers are solely responsible for complying with applicable federal, state an
 *   ICOs
 *   Investment and trading advice
 
-*   However, selected countries may decide to run cryptocurrency offers that they deem are valid in their country only.
+*   However, selected countries may decide to run cryptocurrency offers that they deem are valid in their country only. such offers can be promoted by managed accounts only, and upon verification by the outbrain team. Such offers can be promoted by managed accounts only, and upon verification by the Outbrain team.
 
 #### Gambling
 
-*   Promotions of gambling, or of sites where gambling is facilitated, are generally prohibited. The exceptions are when targeting the United Kingdom and the United States, where certain forms of gambling, such as online casinos, sports betting, and fantasy sports, are accepted.
+*   Promotions of gambling, or of sites where gambling is facilitated, are generally prohibited. The exceptions are when targeting the United Kingdom and the United States, where certain forms of gambling, such as online casinos, sports betting, and fantasy sports, are accepted. Rummy and Fantasy cricket are also accepted for campaigns targeting India.
 *   The following services or promotions are accepted:
 
 *   Apps promoting free games (such as "social casinos")
@@ -152,11 +156,23 @@ Marketers are solely responsible for complying with applicable federal, state an
 
 #### Negative Earned Media
 
-*   Direct competitors cannot promote negative earned media or content that defames or otherwise compromises an industry competitor without clear disclosure
+*   Direct competitors cannot promote negative earned media or content that defames or otherwise compromises an industry competitor
 
 #### Political Advertisements
 
-*   All political content must have clear disclosure (ie. Promoted By \[Political Party\])
+*   Political content must comply with the local legislation
+*   Required disclosure
+    *   All political ads must contain clear disclosure of who has paid for the ad.
+    *   The landing page and the site name for the ad should identify: “Paid for by Candidate X for President”, “Paid for by the Committee on Democratic Ideals”, etc.
+    *   In the site name, the "Paid for by" element can be omitted unless the organization promotes third party material.
+    *   The landing page must include a link to contact information for the organization.
+    *   All advertising must clearly identify who paid for the communication and whether or not it was authorized by a candidate and/or organization on the landing page or during the video.
+*   **Focus on Facts** - Content should contain only neutral or positive stories/positions that are based on facts. Additionally, political advertising cannot give the appearance that Outbrain promotes any particular candidate, party, or political agenda.
+*   **Speak For Yourself** - Even when positive, ads should not falsely speak for political persons or parties. They should only speak from the voice of the actual organization promoting the ad.
+*   **Be Positive** - Nothing negative. Ads must not humiliate, disparage, or incite against a candidate, party, or population group. All information should be neutral or positive and must be based in fact.
+*   **Headlines** - Content can call out political groups or leanings in the headline, as long as paid sponsorship is clearly disclosed.Stance language is authorized as long as it does not discriminate against any group, person, or belief.
+*   **Images**: When selecting images for your campaign please ensure they are relevant to the campaign or cause you are promoting. You may not use images of your competitors.
+*   **Clarification**: Political ads don’t include ads for products or services, including promotional political merchandise like t-shirts, or ads run by news organizations to promote their coverage of federal election campaigns, candidates, or current elected federal officeholders.
 
 #### Fundraising
 
@@ -184,7 +200,7 @@ Landing Page Guidelines
 *   “Too good to be true” statements or unsubstantiated claims
 *   Fake social media icons
 *   Fake navigation or text/images that make a user think that it is a larger editorial site
-*   Fake site logos
+*   Fake earned media logos
 *   Auto refreshing date stamps to the current date
 *   False 3rd party endorsements by celebrities or others
 *   False rumors about any person/celebrity
@@ -201,6 +217,7 @@ Landing Page Guidelines
 *   Financial landing pages should include an actual physical address.
 
 *   Landing pages that are promoted in Germany, Austria, and/or Switzerland (D/A/CH region) must include an Impressum (imprint) as required by the German Telemediengesetz (TMD).
+*   Landing pages that are promoted in France must comply with the [ARPP](https://www.arpp.org/nous-consulter/regles/codes-in-english/) Codes
 *   Health - and finance-related advertorials may require a footer disclaimer. Here are several commonly used examples:
 
 *   Health
@@ -229,10 +246,6 @@ Landing Page Guidelines
 #### Timeliness
 
 *   Content must be current and feature up-to-date information
-
-#### Page Format
-
-*   Landing page must not be a PDF
 
 Headline and Source Guidelines
 ------------------------------
@@ -316,7 +329,6 @@ Image Guidelines
 *   Images must be good quality
 *   Images must be clear, recognizable, and properly oriented
 *   Images that have been altered with Photoshop or other graphic editing softwares will not be permitted
-*   GIFs are not permitted
 *   Images must not include a video player icon
 
 #### Misleading Images
@@ -390,16 +402,6 @@ Additional Guidelines for Publishers
 
 *   Place \[Gallery\] at the beginning of the title
 *   Make the titles obvious that they are a slideshow - Top 10….
-*   Limit/Shorten the slideshows to 15 slides with at least 5 lines of text on each slide
-
-*   If the title mentions a specific celebrity, that celebrity must appear within the first 10 slides of the slideshow.
-
-*   Title: Celebrities Sport Armani at the Oscars - Check out Julia Roberts! - \[Julia Roberts is in the image wearing a red carpet dress\]
-
-*   If the title does not mention a specific celebrity, but does display one in the image, that image must appear somewhere in the slideshow
-
-*   Title: Best Red Carpet Looks at the Oscars - \[Julia Roberts is in the image wearing a red carpet dress\]
 
 *   News stories in slideshow format should not use headlines to insinuate recent or breaking news if it's not current
-
-*   Refrain from using phrases like “Truth Revealed 10 Years Later”
+*   If the title mentions a specific celebrity, that celebrity must match the celebrity in the ad image.
