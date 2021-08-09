@@ -1,7 +1,7 @@
 Conditions of Use & Sale
 ========================
 
-_Last updated on 28 December, 2020._
+_Last updated on 09 August, 2021._
 
 To see the previous iteration of the Conditions of Use & Sale click [here](https://www.amazon.co.uk/gp/help/customer/display.html/?nodeId=202025250).
 
@@ -279,7 +279,7 @@ Without prejudice to your statutory rights, Amazon provides you with the followi
 
 All products from the Amazon sites can be returned within 30 days of receipt of the products to Amazon if the products are complete and are in an unused and undamaged condition. For shrink-wrapped and/or sealed data media (for example CDs, audio cassettes, VHS videos, DVDs, PC and video games and software) this means that we only take back the products in the unopened shrink wrap film or with an undamaged seal. The products are to be returned via our [Returns Support Centre](https://www.amazon.co.uk/returns). This voluntary returns guarantee does not apply to digital products or software which are not supplied on a tangible medium (e.g. on a CD or DVD).
 
-If you return products according to this voluntary returns guarantee, we will refund to you the purchase price already paid by you, but not the delivery costs of your initial purchase. Likewise the transport risk and return costs are borne by you. The costs of delivery and return are only refunded for returns of clothing or shoes from our sites. This returns guarantee does not affect your statutory rights and therefore does not affect your right of cancellation as described above.
+If you return products according to this voluntary returns guarantee, we will refund to you the purchase price already paid by you, but not the delivery costs of your initial purchase. Likewise the transport risk and return costs might be borne by you. If you return Fashion items specific policies apply, for more details see [Free Returns On Fashion Items](https://www.amazon.co.uk/gp/help/customer/display.html/ref=hp_left_v4_sib?ie=UTF8&nodeId=GKUY8GVEZ5DZ89QR). This returns guarantee does not affect your statutory rights and therefore does not affect your right of cancellation as described above.
 
 Details on returning and examples can be found [here](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=502480).
 
