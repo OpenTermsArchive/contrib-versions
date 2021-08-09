@@ -544,6 +544,14 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   © Zarząd Transportu Miejskiego [https://www.ztm.waw.pl](https://www.ztm.waw.pl/) and [https://www.wtp.waw.pl/](https://www.wtp.waw.pl/) Google strives to update this data on an ongoing basis. However the most current version is available at the websites mentioned above. The data made available here has been enhanced from the original source by adding additional information.
             
+        *   © Koleje Śląskie sp. z o.o. [https://przyjazdy.pl/stacje/wykaz](https://przyjazdy.pl/stacje/wykaz) Google strives to update this data on an ongoing basis. However the most current version is available at the websites mentioned above. The data made available here has been enhanced from the original source by adding additional information.
+            
+        *   © Gmina Miejska Kraków, [https://www.bip.krakow.pl/?bip\_id=1&mmi=16470](https://www.bip.krakow.pl/?bip_id=1&mmi=16470) Google strives to update this data on an ongoing basis. However the most current version is available at the websites mentioned above. The data made available here has been enhanced from the original source by adding additional information.
+            
+        *   © Warszawska Kolej Dojazdowa sp. z o.o., [https://www.wkd.com.pl/](https://www.wkd.com.pl/) Google strives to update this data on an ongoing basis. However the most current version is available at the websites mentioned above. The data made available here has been enhanced from the original source by adding additional information.
+            
+        *   © Warszawski Transport Publiczny, [https://www.wtp.waw.pl/](https://www.wtp.waw.pl/) Google strives to update this data on an ongoing basis. However the most current version is available at the websites mentioned above. The data made available here has been enhanced from the original source by adding additional information.
+            
     29.  **Portugal**
         *   IgeoE - Portugal
             
