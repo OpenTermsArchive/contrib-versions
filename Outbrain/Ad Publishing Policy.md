@@ -143,7 +143,7 @@ Marketers are solely responsible for complying with applicable federal, state an
 *   ICOs
 *   Investment and trading advice
 
-*   However, selected countries may decide to run cryptocurrency offers that they deem are valid in their country only. such offers can be promoted by managed accounts only, and upon verification by the outbrain team. Such offers can be promoted by managed accounts only, and upon verification by the Outbrain team.
+*   However, selected countries may decide to run cryptocurrency offers that they deem are valid in their country only. Such offers can be promoted by managed accounts only, and upon verification by the Outbrain team.
 
 #### Gambling
 
