@@ -203,6 +203,12 @@ In some cases, these third parties will also use the data that they collect for 
 
 Where we share data with Facebook as our Marketing Service Provider (including via the Facebook “Like” function), we are Joint Data Controllers with Facebook Ireland for this processing. This arrangement means that Badoo has to provide you this notice, but you should contact Facebook if you wish to exercise your data protection rights. Further information, including how Facebook enables you to exercise your data protection rights, and subsequently processes your information as an independent data controller can be found in [Facebook Ireland’s Data Policy](https://en-gb.facebook.com/policy.php). If you want more information relating to the nature of the arrangement we have in place with Facebook, please email DPO@corp.badoo.com.
 
+### Google’s reCAPTCHA service
+
+To protect the input and comment areas of our App against spam and abuse, we use the reCAPTCHA verification tool. This service is provided by Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA and is subject to Google’s [privacy policy](https://badoo.com/privacy/) and [terms of service](https://badoo.com/terms/).
+
+reCAPTCHA makes it possible to differentiate between inputs of human origin and those that are carried out improperly by a bot. Certain device and application data will be transmitted to Google’s servers in order to determine whether actions on our App really come from humans. Google may also use this data to improve the reCAPTCHA service. This data may include: URLs; user IP address; Google account information if the user is logged in to their Google account at the same time; browser information, including browser type, browser size, browser resolution, browser plug-ins, language settings and date; mouse and touch events within the page; and information collected from cookies. This processing is based on our predominant legitimate interests in protecting our App from abusive bots.
+
 This data referred to above can include actions that you take on our website such as your interactions with our website or other information collected from cookies or similar technologies including the Facebook pixel. This allows us to measure the effectiveness of our advertising, improve our marketing practices, and helps us deliver more relevant advertising to you and people like you (including on social media such as Facebook).
 
 4\. WHAT OTHERS MAY SEE ABOUT YOU
@@ -285,11 +291,13 @@ Privacy laws applicable in your country may give you the following rights:
 7.  Right to object: in certain circumstances (including where data is processed on the basis of legitimate interests or for the purposes of marketing) you may object to that processing.
 8.  Rights related to automated decision-making including profiling: there are several rights in this area where processing carried out on a solely automated basis results in a decision which has legal or significant effects for the individual. In these circumstances your rights include the right to ensure that there is human intervention in the decision-making process.
 
+The particular rights which are applicable to you (which might include other rights not listed above) may vary depending on your country. You should make yourself aware of the rights you have under applicable privacy laws in your country.
+
 If you want to exercise any of your rights listed above please visit our [Feedback Page](https://badoo.com/feedback/) or email our Data Protection Officer at DPO@corp.badoo.com. You can also contact us by post at the following address: The Broadgate Tower Third Floor, 20 Primrose Street, London, United Kingdom, EC2A 2RS. For your protection and the protection of all of our Users, we may need to request specific information from you to help us confirm your identity before we can answer the above requests.
 
 If you have a concern about how we have processed your request or your personal data, you should contact us in the first instance via the contact details listed above.
 
-If you feel we have not resolved your concern, you have the right to make a complaint at any time to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues ([www.ico.org.uk](http://www.ico.org.uk/)). If you live in a country or territory located in the European Union (EU) or European Economic Area (EEA), you may also get in touch with your local [Data Protection Regulator](https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080).
+If you feel we have not resolved your concern, you have the right to make a complaint at any time to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues ([www.ico.org.uk](http://www.ico.org.uk/)). If you live in a country or territory located in the European Union (EU) or European Economic Area (EEA), you may also get in touch with your local [Data Protection Regulator](https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080). If you live in a country outside the EU, you may have the right to lodge a complaint with your local privacy or data protection regulator.
 
 ### EU Representative
 
@@ -331,4 +339,4 @@ Thanks for reading, we hope we didn’t drone on for too long!
 
 As Badoo evolves, we may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at https://badoo.com/privacy/. If we make a change to this policy that, in our sole discretion, is material, we will notify you, for example, via an email to the email associated with your Account or by posting a notice within Badoo.
 
-**Effective date.** This Privacy Policy was last updated on 18 June 2021.
+**Effective date.** This Privacy Policy was last updated on 11 August 2021.
