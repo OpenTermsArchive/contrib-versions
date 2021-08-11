@@ -1,7 +1,7 @@
 Conditions of Use & Sale
 ========================
 
-_Last updated on 09 August, 2021._
+_Last updated on 11 August, 2021._
 
 To see the previous iteration of the Conditions of Use & Sale click [here](https://www.amazon.co.uk/gp/help/customer/display.html/?nodeId=202025250).
 
@@ -61,7 +61,7 @@ You may not misuse the Amazon Services. You may use the Amazon Services only as 
 
 You may need your own Amazon account to use certain Amazon Services, and you may be required to be logged into the account and have a valid payment method associated with it.
 
-If there is a problem charging your selected payment method we may charge any other valid payment method associated with your account. Click [here](https://www.amazon.co.uk/cpe/managepaymentmethods?ref_=ya_d_c_pmt_mpo) to manage your payment options.
+If there is a problem charging your selected payment method we may charge any other valid payment method associated with your account. Click [Your Payments](https://www.amazon.co.uk/cpe/managepaymentmethods?ref_=ya_d_c_pmt_mpo) and then **Manage payment options** to manage options.
 
 If you use any Amazon Service you are responsible for maintaining the confidentiality of your account and password and for restricting access to your computer, and to the extent permitted by applicable law you agree to accept responsibility for all activities that occur under your account or password. You should take all necessary steps to ensure that the password is kept confidential and secure and should inform us immediately if you have any reason to believe that your password has become known to anyone else, or if the password is being, or is likely to be used in an unauthorised manner. You are responsible for ensuring that the details you provide us with are correct and complete, and for informing us of any changes to the information you have provided. You can access your information in the [Your Account](https://www.amazon.co.uk/youraccount) section of the website. Please see our [Protecting Your Privacy](https://www.amazon.co.uk/b/?node=14856936031) Help Page to access your personal information.
 
@@ -88,7 +88,7 @@ Amazon respects the intellectual property of others. If you believe that your in
 10\. AMAZON SOFTWARE TERMS
 --------------------------
 
-In addition to these Conditions of Use, the terms found [here](#GUID-189D34BF-F756-4879-B149-0D73223A3BFD__SECTION_92328628EA144E35A185A988C06CAFF9) apply to any software (including any updates or upgrades to the software and any related documentation) that we make available to you from time to time for your use in connection with Amazon Services (the "Amazon Software").
+In addition to these Conditions of Use, the terms found under [Additional Amazon Software Terms](#GUID-189D34BF-F756-4879-B149-0D73223A3BFD__SECTION_92328628EA144E35A185A988C06CAFF9) apply to any software (including any updates or upgrades to the software and any related documentation) that we make available to you from time to time for your use in connection with Amazon Services (the "Amazon Software").
 
 11\. OTHER BUSINESS
 -------------------
@@ -192,7 +192,7 @@ Luxembourg VAT Registration Number: LU 20944528
 20\. NOTICE AND PROCEDURE FOR MAKING CLAIMS OF RIGHT INFRINGEMENTS
 ------------------------------------------------------------------
 
-If you believe that your intellectual property rights have been infringed and you are eligible for [Brand Registry](https://brandservices.amazon.co.uk/), please sign up to that service and submit your complaint via Brand Registry. Otherwise, please submit your complaint using our online [form](https://www.amazon.co.uk/gp/help/reports/infringement). This form may be used to report all types of intellectual property claims including, but not limited to, copyright, trademark, design and patent claims
+If you believe that your intellectual property rights have been infringed and you are eligible for [Brand Registry](https://brandservices.amazon.co.uk/), please sign up to that service and submit your complaint via Brand Registry. Otherwise, please submit your complaint using our online [Report Infringement form](https://www.amazon.co.uk/gp/help/reports/infringement). This form may be used to report all types of intellectual property claims including, but not limited to, copyright, trademark, design and patent claims
 
 Upon receipt of a complaint we may take certain actions, including removing information or an item, and termination of repeat infringers in appropriate circumstances. All such actions are taken without any admission as to liability and without prejudice to any rights, remedies or defenses, all of which are expressly reserved. This includes forwarding the complaint to the parties involved in the provision of the allegedly infringing content. You agree to indemnify Amazon for all claims brought by a third party against Amazon arising out of or in connection with the submission of a complaint.
 
@@ -205,7 +205,7 @@ Upon receipt of a complaint we may take certain actions, including removing info
 21\. NOTICE AND PROCEDURE FOR NOTIFYING AMAZON OF DEFAMATORY CONTENT
 --------------------------------------------------------------------
 
-Because millions of products are listed and many thousands of customer reviews and comments are hosted on Amazon.co.uk, it is not possible for us to be aware of the contents of each product listed for sale, or each customer review or comment that is displayed. Accordingly, we operate on a "notice and action" basis. If you believe that any content on, or within a product advertised for sale on, the Amazon.co.uk website contains a defamatory statement, please notify Amazon immediately by completing and submitting a [notice](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=201015680). Follow the instructions in the notice and send it to defamation-notice@amazon.co.uk with the subject line "UK Defamation Notice \[insert your name\]" or, alternatively, send it by post to:
+Because millions of products are listed and many thousands of customer reviews and comments are hosted on Amazon.co.uk, it is not possible for us to be aware of the contents of each product listed for sale, or each customer review or comment that is displayed. Accordingly, we operate on a "notice and action" basis. If you believe that any content on, or within a product advertised for sale on, the Amazon.co.uk website contains a defamatory statement, please notify Amazon immediately by completing and submitting a [Notice to Amazon.co.uk of Defamatory Content](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=201015680). Follow the instructions in the notice and send it to defamation-notice@amazon.co.uk with the subject line "UK Defamation Notice \[insert your name\]" or, alternatively, send it by post to:
 
 Defamation Notices,
 Amazon EU Sarl, UK Branch
@@ -215,7 +215,7 @@ London
 EC2A 2FA
 United Kingdom 
 
-**Important Warning:** giving false, misleading or inaccurate information in the [notice](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=201015680) to Amazon of Defamatory Content on Amazon.co.uk may result in civil and criminal liability.
+**Important Warning:** giving false, misleading or inaccurate information in the [Notice to Amazon.co.uk of Defamatory Content](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=201015680) on Amazon.co.uk may result in civil and criminal liability.
 
 ADDITIONAL AMAZON SOFTWARE TERMS
 --------------------------------
@@ -250,7 +250,7 @@ Please note that we sell products only in quantities which correspond to the typ
 
 Unless one of the exceptions listed below applies, you can cancel your order without giving any reason within 14 days from the day on which you or a third party indicated by you (other than the carrier) receives the goods purchased (or last good, lot or piece if it relates to goods or multiple lots or pieces delivered separately) or from the day of the conclusion of the contract, in the case of services or digital content not supplied in a tangible medium (e.g. CD or DVD).
 
-You must inform us (Amazon EU Sarl, 38 avenue John F. Kennedy, L-1855 Luxemburg) of your decision to cancel your order. You may submit your request according to the instructions and forms available on our [Returns Support Centre](https://www.amazon.co.uk/returns), by [contacting us](https://www.amazon.co.uk/contactus), or using this [form](https://www.amazon.co.uk/cancellationform). In case you use the return centre, we will communicate to you an acknowledgement of receipt by e-mail. To meet the cancellation deadline, it is sufficient for you to send your communication before the 14 days’ cancellation period has expired and return the item via our return centre.
+You must inform us (Amazon EU Sarl, 38 avenue John F. Kennedy, L-1855 Luxemburg) of your decision to cancel your order. You may submit your request according to the instructions and forms available on our [Returns Support Centre](https://www.amazon.co.uk/returns), by [contacting us](https://www.amazon.co.uk/contactus), or using this [Cancellation Form](https://www.amazon.co.uk/cancellationform) . In case you use the return centre, we will communicate to you an acknowledgement of receipt by e-mail. To meet the cancellation deadline, it is sufficient for you to send your communication before the 14 days’ cancellation period has expired and return the item via our return centre.
 
 For additional information on the scope, content and instructions for the exercise, please contact our Customer Service.
 
@@ -279,9 +279,9 @@ Without prejudice to your statutory rights, Amazon provides you with the followi
 
 All products from the Amazon sites can be returned within 30 days of receipt of the products to Amazon if the products are complete and are in an unused and undamaged condition. For shrink-wrapped and/or sealed data media (for example CDs, audio cassettes, VHS videos, DVDs, PC and video games and software) this means that we only take back the products in the unopened shrink wrap film or with an undamaged seal. The products are to be returned via our [Returns Support Centre](https://www.amazon.co.uk/returns). This voluntary returns guarantee does not apply to digital products or software which are not supplied on a tangible medium (e.g. on a CD or DVD).
 
-If you return products according to this voluntary returns guarantee, we will refund to you the purchase price already paid by you, but not the delivery costs of your initial purchase. Likewise the transport risk and return costs might be borne by you. If you return Fashion items specific policies apply, for more details see [Free Returns On Fashion Items](https://www.amazon.co.uk/gp/help/customer/display.html/ref=hp_left_v4_sib?ie=UTF8&nodeId=GKUY8GVEZ5DZ89QR). This returns guarantee does not affect your statutory rights and therefore does not affect your right of cancellation as described above.
+If you return products according to this voluntary returns guarantee, we will refund to you the purchase price already paid by you, but not the delivery costs of your initial purchase. Likewise the transport risk and return costs might be borne by you. If you return Fashion items specific policies apply, for more details see [Free Returns on Fashion Items](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=201819180). This returns guarantee does not affect your statutory rights and therefore does not affect your right of cancellation as described above.
 
-Details on returning and examples can be found [here](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=502480).
+Details on returning and examples can be found at [Returns and Refunds](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=502480).
 
 3\. PRICING AND AVAILABILITY
 ----------------------------
