@@ -424,8 +424,6 @@ The open source software platform that runs everywhere from the smartphone, the 
     *   [Tutorials](https://ubuntu.com/tutorials)
     *   [16-04](https://ubuntu.com/16-04)
     *   [Observability](https://ubuntu.com/observability)
-        -------------------------------------------------
-        
 
 * * *
 
