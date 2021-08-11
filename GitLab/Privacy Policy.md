@@ -192,6 +192,7 @@ Your information is controlled by GitLab B.V. and GitLab Inc. If you have questi
 *   [Topics](https://about.gitlab.com/topics/)
 *   [Training](https://about.gitlab.com/learn/)
 *   [Docs](https://docs.gitlab.com/)
+*   [Developer Portal](https://developer.gitlab.com/)
 *   [Install](https://about.gitlab.com/install/)
 
 ### Community
