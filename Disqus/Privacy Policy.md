@@ -72,7 +72,7 @@ a. We may sell or share your personal data with the parties set out below for th
 
 Internal Third Parties as follows: Zeta Global.
 
-For a list of external third parties, please click **[here](https://disqus.com/data-sharing-settings/)**. We may also sell to advertisers with whom you have already shared your data interest categories based on your online activity, for marketing purposes. 
+For a list of external third parties, please click **[here](https://disqus.com/cookie-policy/)**. We may also sell to advertisers with whom you have already shared your data interest categories based on your online activity, for marketing purposes. 
 
 We may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this privacy notice.  We may also do some limited data sharing in order to evaluate and test our potential data partners. Where such testing takes place, the data is encrypted and hashed before it is shared. Furthermore, such sharing is subject to appropriate contractual provisions and the data is promptly deleted after the testing is completed. 
 
