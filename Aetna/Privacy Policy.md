@@ -54,7 +54,7 @@ In addition to personal information, we may sell or disclose patient and/or memb
 
 How do we protect your information?
 
-The security, integrity, and confidentiality of your information are extremely important to us. We have implemented technical, administrative and physical security measures that are designed to protect your information from unauthorized access, disclosure, use and modification. We regularly review our security practices to consider appropriate new technology and methods. We also periodically subject our Applications to simulated intrusion tests and have developed comprehensive disaster recovery plans. However, please be aware that despite our best efforts, no security measures are perfect or impenetrable.
+The security, integrity, and confidentiality of your information are extremely important to us. We have implemented technical, administrative and physical security measures that are designed to protect your information from unauthorized access, disclosure, use and modification. We regularly review our security practices to consider appropriate new technology and methods. We also periodically subject our Applications to simulated intrusion tests and have developed comprehensive disaster recovery plans. However, please be aware that despite our best efforts, no security measures are perfect or impenetrable. Aetna will not purchase consent, or sell, rent, or share consent to opt-in to our mobile SMS/texting program.
 
 Behavioral advertising
 
