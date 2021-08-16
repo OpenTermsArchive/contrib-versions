@@ -1,5 +1,3 @@
-Vinted - Data Protection Statement
-
 **Vinted – Privacy Policy**
 ===========================
 
