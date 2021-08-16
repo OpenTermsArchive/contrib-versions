@@ -245,7 +245,7 @@ We will review and may update this Privacy Policy from time to time. Any changes
 **March 24, 2021**
 
 *   Added [3.5. Location Data](#3-5-location-data).
-*   Improved stucture, moving 3.3.5 to [3.4](#3-4-phone-number-and-contacts) and 3.3.6 to [3.6](#3-6-cookies).
+*   Improved structure, moving 3.3.5 to [3.4](#3-4-phone-number-and-contacts) and 3.3.6 to [3.6](#3-6-cookies).
 
 Important changes made to this Privacy Policy will be notified to you via Telegram.
 
