@@ -402,7 +402,7 @@ Thank you for reading our Privacy Policy. We hope you enjoy using the Wikimedia 
 
 * * *
 
-This version was approved by [Amanda Keton](https://foundation.wikimedia.org/wiki/Amanda_Keton "Amanda Keton") on June 7, 2021, pursuant to the [Delegation of policy-making authority](https://foundation.wikimedia.org/wiki/Resolution:Delegation_of_policy-making_authority "Resolution:Delegation of policy-making authority") by the Board, and went into effect on June 25, 2021. Previous versions can be found below:
+This version was approved by [Amanda Keton](https://foundation.wikimedia.org/w/index.php?title=Amanda_Keton&action=edit&redlink=1 "Amanda Keton (page does not exist)") on June 7, 2021, pursuant to the [Delegation of policy-making authority](https://foundation.wikimedia.org/wiki/Resolution:Delegation_of_policy-making_authority "Resolution:Delegation of policy-making authority") by the Board, and went into effect on June 25, 2021. Previous versions can be found below:
 
 *   **[Privacy Policy (May 2018 - June 2021)](https://foundation.wikimedia.org/wiki/Special:PermanentLink/126409 "Special:PermanentLink/126409"): effective from May 24, 2018 until June 24, 2021**
 *   **[Privacy policy (June 2014 - May 2018)](https://foundation.wikimedia.org/wiki/Special:PermanentLink/113231 "Special:PermanentLink/113231"): effective from June 6, 2014 until May 24, 2018**
