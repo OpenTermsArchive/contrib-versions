@@ -1,7 +1,7 @@
 Privacy policy
 --------------
 
-Below is Qwant’s Privacy Policy, which is the result of many discussions and thoughts that have resulted in a constant evolution of our requirements for our users. In particular, following our discussions with the CNIL, and in light of the [opinion of European data protection authorities on anonymization techniques](https://ec.europa.eu/justice/article-29/documentation/opinion-recommendation/files/2014/wp216_en.pdf), we want to explain to you in as much detail as possible the specific measures we take to protect and respect the confidentiality of your data. In accordance with our historical commitments to defend and promote all the regulatory recommendations of the General Data Protection Regulation (GDPR), and because we believe that it is our responsibility to you, Qwant has chosen, through this Privacy Policy, to impose on itself a high standard of data protection, transparency and legal rigor. At Qwant, the concept of privacy is an essential notion and a reality, and for this we have adopted technical data protection measures and a level of transparency that we believe is unmatched by our competitors.
+Below is Qwant’s Privacy Policy, which is the result of many discussions and thoughts that have resulted in a constant evolution of our requirements for our users in light of the [opinion of European data protection authorities on anonymization techniques](https://ec.europa.eu/justice/article-29/documentation/opinion-recommendation/files/2014/wp216_en.pdf), we want to explain to you in as much detail as possible the specific measures we take to protect and respect the confidentiality of your data. In accordance with our historical commitments to defend and promote all the regulatory recommendations of the General Data Protection Regulation (GDPR), and because we believe that it is our responsibility to you, Qwant has chosen, through this Privacy Policy, to impose on itself a high standard of data protection, transparency and legal rigor. At Qwant, the concept of privacy is an essential notion and a reality, and for this we have adopted technical data protection measures and a level of transparency that we believe is unmatched by our competitors.
 
 Qwant is committed to protecting your privacy, and that’s at the heart of our philosophy. What you do with Qwant is your privacy and we don’t want to know about it. **We don’t keep your search history** and **we don’t create an advertising profile to target you**. With Qwant, you are of course entitled to the rights guaranteed by the European General Data Protection Regulation of April 27, 2016, known as the “GDPR”, but most importantly, we ensure maximum respect for the principles of data minimization and “privacy by design”, i.e., we implement design methods for our services that allow us to collect and process only the data that is strictly necessary. We **never try to find out who you are** or what you do personally when you use our search engine.
 
@@ -12,7 +12,7 @@ When you use Qwant as a search engine, **we do not set any advertising cookie** 
 
 We also undertake to make every effort to guarantee the security and confidentiality of our users’ personal data and in particular to prevent such data from being altered, deleted or accessed by unauthorized third parties. The URL of Qwant begins with “HTTPS”, which indicates to users that they are communicating their data securely through the TLS protocol. Technically, the TLS guarantees visitors that their data cannot be intercepted while in transit over the network in a fraudulent or accidental manner. In addition, the padlock that appears in front of the Qwant URL on most browsers certifies that you are browsing a secure site.
 
-By default, we do not install any cookie on your browser. We use your browser’s “local storage” technology to store your browser settings (language, enabling or disabling options) on your device. If you change these technical parameters, a cookie may be installed on your browser, exclusively for the purpose of preserving these parameters. You have the possibility to delete the “local storage” data or the cookie from your browser.
+By default, we do not install any cookie on your browser. We use your browser’s “local storage” technology to store your browser settings (language, enabling or disabling options) on your device. If you change these technical parameters, a cookie may be installed on your browser, exclusively for the purpose of preserving these parameters. You have the possibility to delete the “local storage” data or the cookie from your browser. For more information, please see our cookie policy.
 
 However, the provision of a search engine requires some data processing. The following section of this Privacy Policy is therefore intended to explain in detail when we need to process information about you, why we collect certain data, the methods we use to pseudonymize data, how we use it, and the identity of our partners when data is transferred to them. It also reminds you of your rights and how to exercise them with Qwant.
 
@@ -47,21 +47,40 @@ This processing is necessary for the performance of Qwant’s Terms of Use, on t
 
 In order to provide you with relevant results from around the world when we do not have the answers to your queries by ourselves, we have partnered with Microsoft Ireland Operations Limited to provide a portion of our search results and provide contextual advertising based on the keywords entered and your geographic region.
 
-For this purpose, as well as for the security and reliability of our partner’s services (detection of spam, automated activity, fraudulent clicks on ads…), Qwant may transfer to this partner the following pseudonymous data related to your query:
+To this end, Qwant may transfer to this partner the following pseudonymous data related to your query:
 
-– The searched keywords;
+– The keywords of the search;
 
-– The type and version of the browser used (User Agent);
+– Information about the browser you are using (the User Agent);
 
 – The first three bytes of your IP address;
 
-– The approximate geographical area at the origin of the search, at the scale of a region or a city;
+– The approximate geographical area from which the search originated, at the level of a region or city;
 
-– A salted hash generated from: your IP address, your User Agent and a salt that changes at least every 3 months.
+– The salt hash generated from your IP address, your User Agent and a salt that changes at the latest every 3 months;
 
-This data is transferred to this partner within the European Union, and may be retained in accordance with [Bing’s Privacy Policy](https://privacy.microsoft.com/fr-fr/privacystatement) for a maximum duration of 18 months.
+– A random token generated by Qwant (aimed at limiting data overlap).
 
-This processing is necessary for the performance of Qwant’s Terms of Use, on the basis of article 6.1.b of the GDPR (processing necessary for the performance of the contract between you and us), and responds to the legitimate interest of Microsoft Ireland Operations Limited (article 6.1.f) to make its services secure and reliable.
+This processing is necessary for the performance of Qwant’s General Terms of Use, based on Article 6.1.b of the GDPR (processing necessary for the performance of the contract between you and us).
+
+In addition, for purposes of security and reliability of our partner’s services (detection of spam, automated activity, fraudulent clicks on advertisements, etc.), Qwant may also collect and transfer to this partner your full IP address.
+
+This processing is in the legitimate interest of Microsoft Ireland Operations Limited (article 6.1.f) to secure and make its services more reliable.
+
+This data is transferred to this partner within the European Union, and may be retained in accordance with [Bing’s Privacy Policy](https://privacy.microsoft.com/fr-fr/privacystatement) for a maximum period of 18 months.
+
+Measuring the effectiveness of certain contextual advertising results
+---------------------------------------------------------------------
+
+In order to establish an aggregate measure of the effectiveness of the advertisements provided by our partner Microsoft Ireland Operations Limited and to strengthen its means of detecting fraudulent clicks, Qwant may also transfer to it for certain categories of advertisements the following data if you click on an advertisement from the Microsoft network and return to the same Qwant results page: 
+
+– The measurement of the time elapsed between your click on the ad and your eventual return to the results page.
+
+This data shared with Microsoft is used exclusively for the purposes indicated above and may not be used for any other purpose. In particular, it may not be used for advertising based on a user profile on Qwant or third-party services.
+
+This data is transmitted to this partner within the European Union, and may be retained in accordance with [Bing’s Privacy Policy](https://privacy.microsoft.com/fr-fr/privacystatement) for a maximum period of 18 months.
+
+This processing is necessary for the performance of Qwant’s General Terms of Use, based on Article 6.1.b of the GDPR (processing necessary for the performance of the contract between you and us).
 
 Statistics and audience measurement
 -----------------------------------
@@ -105,7 +124,7 @@ In order to process our users’ requests for information entered from a contact
 
 Qwant will delete this data within 6 months of receiving the request.
 
-This processing is necessary for the performance of Qwant’s Terms of Use, on the basis of article 6.1.b of the GDPR (processing necessary for the performance of the contract between you and us).
+This processing is necessary for the performance of Qwant’s General Terms of Use, on the basis of Article 6.1.b of the GDPR (processing necessary for the performance of the contract between you and us).
 
 Job application management
 --------------------------
@@ -126,7 +145,7 @@ In order to process job applications received from our recruitment forms, Qwant 
 
 This data is kept for a maximum of two years from the last exchange with the candidate.
 
-This processing is necessary for the purposes of Qwant’s legitimate interest in processing your applications, on the basis of article 6.1.f of the GDPR, in compliance with your fundamental rights and freedoms.
+This processing is necessary for the purposes of the legitimate interests pursued by Qwant in processing your applications, on the basis of Article 6.1.f of the GDPR.
 
 Management of delisting requests
 --------------------------------
@@ -141,7 +160,7 @@ In order to process requests related to the exercise of rights related to person
 
 With respect to data collected in the context of a request you make to Qwant (delisting, rights to your personal data, illegal content), the retention period is set in accordance with the regulations applicable to each of these rights. For more details, you can refer to the following section entitled “What are your rights and how to exercise them?”.
 
-This processing is necessary to comply with the legal obligations imposed on Qwant, on the basis of article 6.1.c of the GDPR.
+This processing is necessary to comply with Qwant’s legal obligations, based on Article 6.1.c of the GDPR.
 
 What are your rights and how to exercise them?
 ----------------------------------------------
@@ -178,6 +197,10 @@ Right to rectify
 You may change or delete your Qwant account profile information at any time.
 
 For job applications, you have the possibility to correct them either by replying to the automatic email you received when you sent your application or by sending us an email at dpo@qwant.com.
+
+For the delisting requests and the exercise of other rights, you can correct them by sending us an e-mail at dpo@qwant.com.
+
+The information related to the exercise of this right of rectification (for example your contact information) is kept for one year from the date of Qwant’s response, then deleted at the end of this period.
 
 For the delisting requests and the exercise of other rights, you can correct them by sending us an e-mail at dpo@qwant.com.
 
@@ -233,4 +256,4 @@ What data is processed for the Qwant mobile application on Android and iOS?
 
 We do not integrate any tracker in our applications nor any advertising ID. Qwant does not process any specific personal data when you use the Qwant application for Android or iOS. The processing of personal data carried out by Qwant during your navigation and use of our Services from the application are exclusively those described above.
 
-*   Last update: August 3, 2021
+*   Last update: August 16, 2021
