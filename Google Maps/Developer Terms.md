@@ -57,6 +57,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   City of Adelaide ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
             
+        *   [data.gov.au](https://data.gov.au/) ([https://creativecommons.org/licenses/by/2.5/au/](https://creativecommons.org/licenses/by/2.5/au/))
+            
+        *   Government of Western Australia [wa.gov.au](https://www.wa.gov.au/) ([https://creativecommons.org/licenses/by/3.0/au/legalcode](https://creativecommons.org/licenses/by/3.0/au/legalcode))
+            
     3.  **Austria**
         *   BEV - BA fuer Eich und Vermessungswesen (Geocodes) © Österreichisches Adressregister, 2009. You are not permitted, at any one time, to use Austrian Postal Data to provide, display or provide access to mass downloads or bulk feeds of numerical latitude and longitude coordinates.
             
@@ -77,12 +81,24 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   © Aerodata International Surveys, Data INTAS Project 99-1669
             
+        *   [Opendata.vlaanderen.be](https://opendata.vlaanderen.be/) “Contains government information, obtained under the model license for free reuse Flanders v1.0” ([https://www.geopunt.be/nl/over-geopunt/disclaimer](https://www.geopunt.be/nl/over-geopunt/disclaimer))
+            
+        *   Geopunt ([http://www.geopunt.be/nl/over-geopunt/disclaimer](https://www.geopunt.be/nl/over-geopunt/disclaimer))
+            
+        *   RouteYou ([https://creativecommons.org/licenses/by/2.0/be/](https://creativecommons.org/licenses/by/2.0/be/))
+            
     5.  **Brazil**
         *   FUNAI (Fundação Nacional do Índio)
             
-        *   Prefeirtura de Goiânia ([https://www.goiania.go.gov.br/politica-de-privacidade/](https://www.goiania.go.gov.br/politica-de-privacidade/))
+        *   Prefeitura de Goiânia ([https://www.goiania.go.gov.br/politica-de-privacidade/](https://www.goiania.go.gov.br/politica-de-privacidade/))
             
         *   Secretaria Municipal de Mobilidade e Transportes, Companhia de Engenharia de Tráfego de Sao Paulo (CET) ([https://creativecommons.org/licenses/by/3.0/](https://creativecommons.org/licenses/by/3.0/))
+            
+        *   Mobilize Brasil [mobilize.org.br](https://mobilize.org.br/) ([https://www.mobilize.org.br/sobre-o-portal/politica-conteudo/](https://www.mobilize.org.br/sobre-o-portal/politica-conteudo/))
+            
+        *   Material available: Cycling structure, street layout and administrative limits. - IPPUC – 2021
+            
+        *   Prefeitura do Rio de Janeiro / Instituto Pereira Passos - IPP / DATA.RIO
             
     6.  **Canada**
         1.  Google’s maps of Canada include data provided from the following:
@@ -279,6 +295,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   Conseil départemental de la Haute-Garonne : [source](https://data.haute-garonne.fr/explore/dataset/lignes-regulieres-format-gtfs/information/)
             
+        *   [data.gouv.fr](https://www.data.gouv.fr/fr/) ([https://www.etalab.gouv.fr/licence-ouverte-open-licence](https://www.etalab.gouv.fr/licence-ouverte-open-licence))
+            
     10.  **Germany**
         *   Bundesamt für Kartographie und Geodäsie - © Vermessungsverwaltungen der Bundesländer und Bundesamt für Kartographie und Geodäsie
             
@@ -433,6 +451,14 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   Regione del Veneto ([https://creativecommons.org/licenses/by/3.0/it/legalcode](https://creativecommons.org/licenses/by/3.0/it/legalcode))
             
+        *   Comune di Firenze ([https://creativecommons.org/licenses/by/3.0/it/](https://creativecommons.org/licenses/by/3.0/it/))
+            
+        *   Città di Venezia ([https://creativecommons.org/licenses/by/3.0/it/](https://creativecommons.org/licenses/by/3.0/it/))
+            
+        *   Regione Emilia-Romagna Assessorato Turismo e Commercio ([https://creativecommons.org/licenses/by/4.0/deed.it](https://creativecommons.org/licenses/by/4.0/deed.it))
+            
+        *   Comune di Milano ([http://opendefinition.org/licenses/cc-by/](https://opendefinition.org/licenses/cc-by/))
+            
     21.  **Japan**
         *   日本の Google マップのサービスには、第三者から提供された著作権の対象となるデータに基づいて Google が変更したビジネス リスティング データが含まれます。当該データを許可なく使用すると、Google またはその他の者が保持する著作権を侵害することになる可能性があります。また商用利用は固く禁じられています。ユーザーがビジネス リスティング データを取得することは許可されていません。
             
@@ -482,6 +508,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         *   © Gemeente Apeldoorn
             
         *   © Aerodata Survey & Gemeente Westland
+            
+        *   The Municipality of Amsterdam [https://maps.amsterdam.nl/open\_geodata/?k=265](https://maps.amsterdam.nl/open_geodata/?k=265) "The original dataset is available to everyone free of charge from the Municipality, under these Terms of Use, which also apply to the transmitted dataset." ([https://maps.amsterdam.nl/open\_geodata/terms.php?LANG=nl](https://maps.amsterdam.nl/open_geodata/terms.php?LANG=nl))
             
     25.  **New Zealand**
         *   © Auckland International Airport Ltd
@@ -624,6 +652,14 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         *   © Donostiako Udala – Ayuntamiento de San Sebastián
             
         *   Open Data BCN ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
+            
+        *   Portal de Datos Abiertos del Ayuntamiento de Sevilla [http://datosabiertos.sevilla.org/dataset/?id=vias-ciclistas (](http://datosabiertos.sevilla.org/dataset/?id=vias-ciclistas)[https://creativecommons.org/licenses/by/4.0/deed.es](https://creativecommons.org/licenses/by/4.0/deed.es))
+            
+        *   FiwareLab ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
+            
+        *   Powered by CRTM [http://www.crtm.es/](https://www.crtm.es/aceptacion-cookies.aspx?url=https://www.crtm.es/) Data in an adapted form
+            
+        *   Powered by EMT de Madrid [https://www.emtmadrid.es/](https://www.emtmadrid.es/Home)
             
     36.  **Sweden**
         *   © 2009 Cartesia GIS AB
@@ -1020,6 +1056,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         165.  City of Raleigh ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
             
+        166.  Chicago Data Portal “This site provides applications using data that has been modified for use from its original source, [www.cityofchicago.org](https://www.chicago.gov/city/en.html), the official website of the City of Chicago. The City of Chicago makes no claims as to the content, accuracy, timeliness, or completeness of any of the data provided at this site. The data provided at this site is subject to change at any time. It is understood that the data provided at this site is being used at one’s own risk.” ([https://www.chicago.gov/city/en/narr/foia/data\_disclaimer.html](https://www.chicago.gov/city/en/narr/foia/data_disclaimer.html))
+            
     43.  **Uruguay**
         
         © 2000 Aviation Systems
@@ -1068,9 +1106,12 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
 4.  **Business Listings Data.**
     
     1.  **Argentina**
-        
-        When you search for local listings in Argentina, your search results may include content (including business listings and related information) that has been supplied by Guru Soluciones. The intellectual property rights in this content are owned by Guru Soluciones or its licensors, and may only be used in accordance with these Terms of Service and any applicable terms and conditions of Guru Soluciones.
-        
+        *   When you search for local listings in Argentina, your search results may include content (including business listings and related information) that has been supplied by Guru Soluciones. The intellectual property rights in this content are owned by Guru Soluciones or its licensors, and may only be used in accordance with these Terms of Service and any applicable terms and conditions of Guru Soluciones.
+            
+        *   Municipalidad de Córdoba ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
+            
+        *   Buenos Aires Data ([https://creativecommons.org/licenses/by/2.5/ar/deed.en](https://creativecommons.org/licenses/by/2.5/ar/deed.en))
+            
     2.  **Belgium, Denmark, France, Germany, Israel, Luxembourg, Netherlands, and Monaco**
         
         When you search for local listings in Belgium, Denmark, France, Germany, Israel, Luxembourg, Netherlands, and Monaco, your search results may include content (including business listings and related information) which has been supplied by Kapitol S.A. (trading as Infobel) (the "Infobel Content"). The intellectual property rights in the Infobel Content are owned by Kapitol S.A. or its licensors. The Infobel Content may only be used in accordance with these Terms of Service and the applicable terms and conditions of Kapitol S.A. If you know that your business listing is supplied by Kapitol S.A., and you have any questions about it you should contact them directly.
