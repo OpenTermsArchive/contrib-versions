@@ -100,6 +100,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   Prefeitura do Rio de Janeiro / Instituto Pereira Passos - IPP / DATA.RIO
             
+        *   Prefeitura de Belo Horizonte ([https://creativecommons.org/licenses/by/3.0/br/deed.en](https://creativecommons.org/licenses/by/3.0/br/deed.en))
+            
     6.  **Canada**
         1.  Google’s maps of Canada include data provided from the following:
             
@@ -356,8 +358,6 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         *   The City of Edinburgh Council ([https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/))
             
         *   Leeds City Council ([https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/))
-            
-        *   Birmingham City Council ([http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/))
             
         *   Open Data Nottingham ([http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/))
             
@@ -1058,6 +1058,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         166.  Chicago Data Portal “This site provides applications using data that has been modified for use from its original source, [www.cityofchicago.org](https://www.chicago.gov/city/en.html), the official website of the City of Chicago. The City of Chicago makes no claims as to the content, accuracy, timeliness, or completeness of any of the data provided at this site. The data provided at this site is subject to change at any time. It is understood that the data provided at this site is being used at one’s own risk.” ([https://www.chicago.gov/city/en/narr/foia/data\_disclaimer.html](https://www.chicago.gov/city/en/narr/foia/data_disclaimer.html))
             
+        167.  The City and County of Denver ([https://creativecommons.org/licenses/by/3.0/](https://creativecommons.org/licenses/by/3.0/))
+            
     43.  **Uruguay**
         
         © 2000 Aviation Systems
@@ -1111,6 +1113,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         *   Municipalidad de Córdoba ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
             
         *   Buenos Aires Data ([https://creativecommons.org/licenses/by/2.5/ar/deed.en](https://creativecommons.org/licenses/by/2.5/ar/deed.en))
+            
+        *   Buenos Aires Ciudad ([https://creativecommons.org/licenses/by/2.5/ar/deed.en](https://creativecommons.org/licenses/by/2.5/ar/deed.en))
             
     2.  **Belgium, Denmark, France, Germany, Israel, Luxembourg, Netherlands, and Monaco**
         
