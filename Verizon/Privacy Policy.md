@@ -138,7 +138,7 @@ Open all Close all
     
     Determine your eligibility for new products and services
     
-    For example, we may use information to determine whether you are eligible for service upgrades or to prescreen you for our credit card (unless you have opted out using the [](https://www.optoutprescreen.com/) [industry-wide](https://www.optoutprescreen.com/) [opt out](https://www.optoutprescreen.com/) or by calling 1-888-567-8688).  
+    For example, we may use information to determine whether you are eligible for service upgrades or to prescreen you credit (unless you have opted out using the [](https://www.optoutprescreen.com/) [industry-wide](https://www.optoutprescreen.com/) [opt out](https://www.optoutprescreen.com/) or by calling 1-888-567-8688).  
     
     personalize your service
     
@@ -358,7 +358,7 @@ Open all Close all
     |     | Relevant Online Advertising | Relevant TV Advertising |
     | --- | --- | --- |
     | Who can participate? | Verizon Wireline Internet customers | Fios TV customers |
-    | Where will I see ads? | On websites you visit | [When you view Fios TV](#)<br><br>When you view Fios TV<br><br>This may include when you view Fios TV on your TV, on the Fios TV website or on the Fios TV app. |
+    | Where will I see ads? | On websites you visit | [When you view Fios TV](#)<br><br>When you view Fios TV<br><br>This may include when you view Fios TV on your TV, on the Fios TV website or on the Fios TV apps. |
     | What information is used? | [Verizon, Verizon Media, third party and advertiser information](#)<br><br>Verizon, Verizon Media, Third Party and Advertiser Information<br><br>This includes information we have about your postal address and use of Verizon products and services (such as service packages, Fios TV purchases and viewership categories); and demographic and interest information you provide or we obtain from other companies, such as your gender, age range and interests (i.e. sports fan, frequent diner or pet owner). The program may also use information Verizon Media or advertisers and advertising partners provide to us. | [Verizon, Verizon Media, third party and advertiser information](#)<br><br>Verizon, Verizon Media, Third Party and Advertiser Information<br><br>This includes information we have about your postal address and use of Verizon products and services (such as service packages, connected devices, TV and video purchases and viewing data); and demographic and interest information you provide or we obtain from other companies, such as your gender, age range and interests (i.e. sports fan, frequent diner or pet owner). The program may also use information Verizon Media or advertisers and advertising partners provide to us. |
     | Information that identifies me will not be shared outside of Verizon, its vendors and partners | Yes | Yes |
     | I have a choice about participating | Yes | Yes |
@@ -401,7 +401,7 @@ Open all Close all
     
     When you view Fios TV
     
-    This may include when you view Fios TV on your TV, on the Fios TV website or on the Fios TV app.
+    This may include when you view Fios TV on your TV, on the Fios TV website or on the Fios TV apps.
     
     What information is used?
     
@@ -504,7 +504,7 @@ Open all Close all
     
     Here is an example of a [CPNI notice](https://www.verizon.com/about/privacy/customer-proprietary-network-information) we send to customers.  
     
-    ### You have a choice about advertising, insights and verification services.
+    ### You have a choice about advertising, insights, verification and audience measurement services.
     
     **Relevant Online Advertising**  
     To opt out of participating in the Relevant Online Advertising program:
@@ -547,8 +547,8 @@ Open all Close all
     
     You can rename your router to include “\_nomap” or “\_optout” if you don’t want us to use the location of your Wi-Fi router access point to improve the accuracy of our services or apps. For example, change “Myrouter” to “Myrouter\_nomap”.
     
-    **Credit Card Prescreening**  
-    You have a choice about whether companies use your information to prescreen you for credit cards, including our credit card. You can opt out at [www.optoutprescreen.com](http://www.optoutprescreen.com/) or by calling 1-888-567-8688.
+    **Credit Prescreening**  
+    You have a choice about whether companies use your information to prescreen you for credit, including our credit card. You can opt out at [www.optoutprescreen.com](http://www.optoutprescreen.com/) or by calling 1-888-567-8688.
     
 *   [
     
