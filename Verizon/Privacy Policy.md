@@ -77,7 +77,6 @@ Open all Close all
     *   [Information from social media platforms](#) when you interact with us via social media or use your social media login to interact with Verizon sites or offers
     *   [Contact, marketing lead and other information we purchase or receive](#)
     *   [Fraud information](#)
-    *   [Information from Verizon Media](#) as permitted by its privacy policy and respecting the choices you make about how this information may be used
     
     Credit information from outside agencies
     
@@ -98,10 +97,6 @@ Open all Close all
     Fraud information
     
     This includes risk scores and related indicators we obtain from third party data providers to help us identify fraudulent transactions.  
-    
-    Information from Verizon Media
-    
-    For example, we may receive information from Verizon Media to help us understand your interests to help make our advertising more relevant to you.  
     
 *   [
     
@@ -138,7 +133,7 @@ Open all Close all
     
     Determine your eligibility for new products and services
     
-    For example, we may use information to determine whether you are eligible for service upgrades or to prescreen you credit (unless you have opted out using the [](https://www.optoutprescreen.com/) [industry-wide](https://www.optoutprescreen.com/) [opt out](https://www.optoutprescreen.com/) or by calling 1-888-567-8688).  
+    For example, we may use information to determine whether you are eligible for service upgrades or to prescreen you for credit (unless you have opted out using the [](https://www.optoutprescreen.com/) [industry-wide](https://www.optoutprescreen.com/) [opt out](https://www.optoutprescreen.com/) or by calling 1-888-567-8688).  
     
     personalize your service
     
@@ -240,7 +235,7 @@ Open all Close all
     
     companies
     
-    For example, ad servers, ad networks or technology platforms including Verizon Media. We may deliver Verizon marketing on our websites and apps and on non-Verizon websites and apps, by our representatives, via mail or email or via other Verizon services or devices.  
+    For example, ad servers, ad networks or technology platforms. We may deliver Verizon marketing on our websites and apps and on non-Verizon websites and apps, by our representatives, via mail or email or via other Verizon services or devices.  
     
     To accomplish this type of advertising, advertising entities place and access [cookies and similar technologies](https://www.verizon.com/about/privacy/cookies) on browsers you use and access advertising identifiers from your mobile device operating systems. Information about your activities on the websites and in the apps where the entities are present is combined and used to determine whether you fall into an audience advertisers wish to reach.
     
@@ -295,8 +290,6 @@ Open all Close all
     
     Credit information includes your credit score, information in your consumer reports, and your account history.  
     
-    We may also share information with Verizon Media as described in this or other Verizon privacy policies. Verizon Media respects the choices you make about the uses of your Verizon information.
-    
     ### We share information with vendors and partners.
     
     We use vendors and partners to help us offer, provide, repair, restore and bill for services. We share information with them as necessary for them to perform work for us. They are required to protect information they receive from us or collect on our behalf and use it only for the purposes we allow.
@@ -306,6 +299,14 @@ Open all Close all
     We also share de-identified information with companies to assist with the delivery of advertising campaigns or aggregate reports.
     
     When you purchase or use services that are offered by Verizon and one of our partners, both parties may receive your information. When this is the case, you should also review the partner company's privacy policy because it may describe uses of your information that are different from ours.
+    
+    ### We share certain Fios TV information for audience measurement and market research purposes.
+    
+    The [Fios TV apps](#) and website include Adobe, [Comscore](https://www.comscore.com/About/Privacy/Data-Subject-Rights) and [Nielsen](https://www.nielsen.com/us/en/legal/privacy-statement/digital-measurement/) software that collects information for these companies’ market research and audience measurement purpose, including information about the content you viewed; the apps, website  and device you used; your advertising identifier (if available); IP address; and operating system. [You have a  choice about participating](https://www.verizon.com/about/privacy/full-privacy-policy#acc-item-34).
+    
+    Fios Tv Apps
+    
+    Fios TV apps include  Fios TV Mobile, an  app available on mobile devices, and Fios TV Home, an app available  on select devices  that support over-the-top and streaming video, such as Amazon Fire devices, AppleTV, Roku, or Verizon Stream TV.
     
     ### We share directory listings and Caller ID information.
     
@@ -359,9 +360,10 @@ Open all Close all
     | --- | --- | --- |
     | Who can participate? | Verizon Wireline Internet customers | Fios TV customers |
     | Where will I see ads? | On websites you visit | [When you view Fios TV](#)<br><br>When you view Fios TV<br><br>This may include when you view Fios TV on your TV, on the Fios TV website or on the Fios TV apps. |
-    | What information is used? | [Verizon, Verizon Media, third party and advertiser information](#)<br><br>Verizon, Verizon Media, Third Party and Advertiser Information<br><br>This includes information we have about your postal address and use of Verizon products and services (such as service packages, Fios TV purchases and viewership categories); and demographic and interest information you provide or we obtain from other companies, such as your gender, age range and interests (i.e. sports fan, frequent diner or pet owner). The program may also use information Verizon Media or advertisers and advertising partners provide to us. | [Verizon, Verizon Media, third party and advertiser information](#)<br><br>Verizon, Verizon Media, Third Party and Advertiser Information<br><br>This includes information we have about your postal address and use of Verizon products and services (such as service packages, connected devices, TV and video purchases and viewing data); and demographic and interest information you provide or we obtain from other companies, such as your gender, age range and interests (i.e. sports fan, frequent diner or pet owner). The program may also use information Verizon Media or advertisers and advertising partners provide to us. |
+    | What information is used? | [Verizon, third party and advertiser information](#)<br><br>Verizon, third party and advertiser Information<br><br>This includes information we have about your postal address and use of Verizon products and services (such as service packages, Fios TV purchases and viewership categories); and demographic and interest information you provide or we obtain from other companies, such as your gender, age range and interests (i.e. sports fan, frequent diner or pet owner). The program may also use information advertisers and advertising partners provide to us. | [Verizon, third party and advertiser information](#)<br><br>Verizon, third party and advertiser information<br><br>This includes information we have about your postal address and use of Verizon products and services (such as service packages, connected devices, TV and video purchases and viewing data); and demographic and interest information you provide or we obtain from other companies, such as your gender, age range and interests (i.e. sports fan, frequent diner or pet owner). The program may also use information advertisers and advertising partners provide to us. |
     | Information that identifies me will not be shared outside of Verizon, its vendors and partners | Yes | Yes |
     | I have a choice about participating | Yes | Yes |
+    | More Information | [Relevant Online Advertising FAQs](https://www.verizon.com/support/residential/announcements/direct-digital-marketing) | [Relevant TV Advertising FAQs](http://verizon.com/relevanttvfaqs) |
     
     Relevant Online Advertising
     
@@ -375,11 +377,11 @@ Open all Close all
     
     What information is used?
     
-    [Verizon, Verizon Media, third party and advertiser information](#)
+    [Verizon, third party and advertiser information](#)
     
-    Verizon, Verizon Media, Third Party and Advertiser Information
+    Verizon, third party and advertiser Information
     
-    This includes information we have about your postal address and use of Verizon products and services (such as service packages, Fios TV purchases and viewership categories); and demographic and interest information you provide or we obtain from other companies, such as your gender, age range and interests (i.e. sports fan, frequent diner or pet owner). The program may also use information Verizon Media or advertisers and advertising partners provide to us.
+    This includes information we have about your postal address and use of Verizon products and services (such as service packages, Fios TV purchases and viewership categories); and demographic and interest information you provide or we obtain from other companies, such as your gender, age range and interests (i.e. sports fan, frequent diner or pet owner). The program may also use information advertisers and advertising partners provide to us.
     
     Information that identifies me will not be shared outside of Verizon, its vendors and partners
     
@@ -388,6 +390,10 @@ Open all Close all
     I have a choice about participating
     
     Yes
+    
+    More Information
+    
+    [Relevant Online Advertising FAQs](https://www.verizon.com/support/residential/announcements/direct-digital-marketing)
     
     Relevant TV Advertising
     
@@ -405,11 +411,11 @@ Open all Close all
     
     What information is used?
     
-    [Verizon, Verizon Media, third party and advertiser information](#)
+    [Verizon, third party and advertiser information](#)
     
-    Verizon, Verizon Media, Third Party and Advertiser Information
+    Verizon, third party and advertiser information
     
-    This includes information we have about your postal address and use of Verizon products and services (such as service packages, connected devices, TV and video purchases and viewing data); and demographic and interest information you provide or we obtain from other companies, such as your gender, age range and interests (i.e. sports fan, frequent diner or pet owner). The program may also use information Verizon Media or advertisers and advertising partners provide to us.
+    This includes information we have about your postal address and use of Verizon products and services (such as service packages, connected devices, TV and video purchases and viewing data); and demographic and interest information you provide or we obtain from other companies, such as your gender, age range and interests (i.e. sports fan, frequent diner or pet owner). The program may also use information advertisers and advertising partners provide to us.
     
     Information that identifies me will not be shared outside of Verizon, its vendors and partners
     
@@ -419,29 +425,25 @@ Open all Close all
     
     Yes
     
+    More Information
+    
+    [Relevant TV Advertising FAQs](http://verizon.com/relevanttvfaqs)
+    
     ### Our Business and Marketing Insights program helps companies understand consumer behaviors in aggregate.
     
-    This program uses [Verizon, Verizon Media and third-party information](#) to create aggregate [business and marketing insights](#). The information we use and the insights we develop do not identify you individually and may be shared with third parties.
+    This program uses [Verizon and third-party information](#) to create aggregate [business and marketing insights](#). The information we use and the insights we develop do not identify you individually and may be shared with third parties.
     
-    Verizon, Verizon Media And Third-party information
+    Verizon and third-party information
     
-    The program uses:
+    This includes information about how you use your mobile device (such as web browsing, device location, and app/feature use), certain information about your Verizon products and services (such as device type and amount of use), and demographic and interest information you provide or we obtain from other companies (such as gender, age range and interests). We may also use point of interest and  location information we obtain from others as well as information provided by business and marketing clients who want insights related to their own businesses.
     
-    *   information about how you use your mobile device (such as web browsing, device location, and app/feature use)
-    *   certain information about your Verizon products and services (such as device type and amount of use)
-    *   demographic and interest information you provide or that we or Verizon Media obtain from other companies (such as gender, age range and interests)
-    *   location and point of interest information that Verizon Media collects, purchases or develops
-    *   information provided by business and marketing clients who want insights related to their own businesses.
-    
-    You can find additional details about the Verizon Media information we use for the program in the [Verizon Media Privacy Policy](https://www.verizonmedia.com/policies/in/en/verizonmedia/privacy/index.html).
-    
-    Business And Marketing Insights
+    Business and marketing insights
     
     Insights are observations about groups of people that can be used to better understand consumer actions. For example, we may create insights about the number of customers in different age groups who visit a website, use an app, or go to a retail store or stadium. We also can develop insights to help estimate traffic patterns about people who move from one area to another during the morning rush hour.
     
     ### The Verizon Selects program helps personalize content and ads you see.
     
-    Verizon Selects helps Verizon and Verizon Media personalize your experiences and make advertising you see more useful on the devices you use and other places you see ads. We also use program information to measure advertising effectiveness, and to better understand our customers and audiences advertisers are trying to reach. You must opt-in to participate in Selects. More details about the program and the information it uses are available in the [Verizon Selects FAQs.](https://www.verizonwireless.com/support/verizon-selects-faqs/)
+    Verizon Selects helps Verizon personalize your experiences and make advertising you see more useful to you. We also use program information to measure advertising effectiveness, and to better understand our customers. You must opt-in to participate in Selects. More details about the program and the information it uses are available in the [Verizon Selects FAQs.](https://www.verizonwireless.com/support/verizon-selects-faqs/)
     
     ### Our Identity Verification Service helps protect you against fraud.
     
@@ -504,7 +506,7 @@ Open all Close all
     
     Here is an example of a [CPNI notice](https://www.verizon.com/about/privacy/customer-proprietary-network-information) we send to customers.  
     
-    ### You have a choice about advertising, insights, verification and audience measurement services.
+    ### You have choices about advertising, insights, verification and audience measurement services.
     
     **Relevant Online Advertising**  
     To opt out of participating in the Relevant Online Advertising program:
@@ -528,10 +530,18 @@ Open all Close all
     Update your preferences at the [Verizon Selects Preference Center](https://myvpostpay.verizonwireless.com/vzw/secure/mcm/mcmDisplayPreferences.action).
     
     **Business and Marketing Insights program**  
-    Account owners can update preferences for each line on their account using the [privacy choices page in My Verizon](http://verizonwireless.com/myprivacy) or in the My Verizon app; or by calling 1-866-211-0874. Please note that Verizon Media may continue to use its data to create aggregate insights even if you opt out of this Verizon program.
+    Account owners can update preferences for each line on their account using the [privacy choices page in My Verizon](http://verizonwireless.com/myprivacy) or in the My Verizon app; or by calling 1-866-211-0874.
     
     **Identity Verification service**  
     If you do not want your information shared with third parties for the purpose of verifying your identity, you can go online to My Verizon -> My Profile -> Privacy Settings. If you opt out, your information will not be sent to companies who participate in this program.
+    
+    **Fios TV Market Research and Audience Measurement**
+    
+    If you do not want information shared for audience measurement and market research purposes, you can opt out for all devices you use for Fios TV using your [Fios TV Account Settings on the Fios TV Website](https://tv.verizon.com/watch/settings/nielsen/) or in the Fios TV apps (in settings under “Audience Measurement”).
+    
+    You can also make choices on individual devices. On Apple mobile devices, you can only participate if you opt in using the pop-up notice in the Fios TV apps and you can change your choice using Apple device settings. On Android mobile devices, you can opt out by using your device setting to “Opt out of Ads Personalization”. On Amazon Fire devices, you can opt out using the “Interest-based Ads” setting.
+    
+    If you do not participate, only de-identified viewing information will be shared.
     
     ### You have other choices available to you.
     
@@ -548,7 +558,7 @@ Open all Close all
     You can rename your router to include “\_nomap” or “\_optout” if you don’t want us to use the location of your Wi-Fi router access point to improve the accuracy of our services or apps. For example, change “Myrouter” to “Myrouter\_nomap”.
     
     **Credit Prescreening**  
-    You have a choice about whether companies use your information to prescreen you for credit, including our credit card. You can opt out at [www.optoutprescreen.com](http://www.optoutprescreen.com/) or by calling 1-888-567-8688.
+    You have a choice about whether companies use your information to prescreen you for credit, including our credit card. You can opt out at [www.optoutprescreen.com](http://www.optoutprescreen.com/) or by calling 1-888-567-8688
     
 *   [
     
@@ -633,7 +643,7 @@ Open all Close all
     
     We may use our cable system to collect personally identifiable information necessary to render cable service or other services provided to you over the cable system and to detect and prevent unauthorized access to services. We may collect additional personally identifiable information with your prior consent. We may use or disclose personally identifiable information without consent where necessary to render services and to conduct legitimate business activities related to the services we provide.
     
-    We may also disclose your name and address as long as you have the ability to prevent or limit this disclosure and the disclosure does not reveal, directly or indirectly, your viewing or other uses of the services we provide. We will give you the opportunity to prevent or limit sharing if we decide to share name and address information in this way.
+    We may also disclose your name and address as long as you have the ability to prevent or limit this disclosure and the disclosure does not reveal, directly or indirectly, your viewing or other uses of the services we provide We share name and address information with service providers as part of our Relevant TV advertising program. These providers work on our behalf to help our advertisers optimize their ads by preventing the same ads you see on Fios from being shown to you in other places. You can opt out of participating in the [Relevant TV advertising program](http://verizon.com/relevanttvfaqs).
     
     We may also share personally identifiable information if it is required by law to comply with [valid legal process](#).
     
@@ -677,7 +687,7 @@ Open all Close all
     
     We do not sell information that personally identifies you such as your name, telephone number, mailing address or email address. We may share that type of information with directory publishers and for caller ID purposes, excluding customers who have subscribed (at no charge) to unlisted or unpublished numbers.  
     
-    We allow Verizon Media and third-party advertising companies to collect information about your activity on our websites and in our apps, for example through [cookies and similar technologies,](https://www.verizon.com/about/privacy/cookies)  mobile ad identifiers, pixels, web beacons and social network plugins. These ad entities use information they collect to help us provide more relevant Verizon advertisements and other advertising purposes. This activity may be considered a sale under the CCPA. Visit [Digital Advertising Alliance Consumer Choice](https://youradchoices.com/control) to learn more about how you can limit this type of advertising. You can opt out of this type of advertising in your apps using your device settings to “Limit Ad Tracking” (for iOS devices) or “Opt out of Ads Personalization” (on Android devices).
+    We allow third-party advertising companies to collect information about your activity on our websites and in our apps, for example through [cookies and similar technologies,](https://www.verizon.com/about/privacy/cookies)  mobile ad identifiers, pixels, web beacons and social network plugins. These ad entities use information they collect to help us provide more relevant Verizon advertisements and other advertising purposes. This activity may be considered a sale under the CCPA. Visit [Digital Advertising Alliance Consumer Choice](https://youradchoices.com/control) to learn more about how you can limit this type of advertising. You can opt out of this type of advertising in your apps using your device settings to “Limit Ad Tracking” (for iOS devices) or “Opt out of Ads Personalization” (on Android devices).
     
     We also share certain customer information with third parties as part of our Relevant Online Advertising program available to our wireline high-speed Internet customers. The program helps make online ads more interesting and useful. Since January 1, 2020, we have removed customers with California billing addresses from this program.
     
