@@ -416,7 +416,7 @@ In compliance with the French Data Protection Act of January 6th, 1978 (_Loi Inf
 
 ### Exercising your rights
 
-Members may exercise their rights, subject to proving their identity, by sending an email to [su\[email protected\]](https://www.happn.com/cdn-cgi/l/email-protection#), by exercising their rights directly via the Application, or by sending a letter to the following postal address: for the attention of the Data Protection Officer, HAPPN - 8 rue du Sentier 75002 Paris – France. For confidentiality reasons, if there is a doubt on the requesting party’s identity, proof of identity may be requested.
+Members may exercise their rights, subject to proving their identity, by sending an email to [\[email protected\]](https://www.happn.com/cdn-cgi/l/email-protection#), by exercising their rights directly via the Application, or by sending a letter to the following postal address: for the attention of the Data Protection Officer, HAPPN - 8 rue du Sentier 75002 Paris – France. For confidentiality reasons, if there is a doubt on the requesting party’s identity, proof of identity may be requested.
 
 For any other claim, the Member may lodge a request with the national authority responsible for data protection.
 
