@@ -142,7 +142,7 @@ Throughout this document, we refer to advertisers as “you/your”, to ad place
 
 For an overview of policies addressing questions that commonly arise, please see our [Quick Reference Guide](https://advertising.amazon.com/resources/ad-policy/quick-reference?ref_=a20m_us_spcs_cap_spsc_qkrf). Please note: This guide is not intended to be a comprehensive overview of all ad policies. It is highlighting some key ad policies that frequently re-occur.  
   
-To view recent updates to these policies, please see our [Ad policy change log](https://advertising.amazon.com/resources/ad-policy/creative-acceptance/ad-policy-change-log?ref_=a20m_us_spcs_cap_spcs_chnglg).
+To view recent updates to these policies, please see our [Ad Policy Change Log](https://advertising.amazon.com/resources/ad-policy/creative-acceptance/ad-policy-change-log?ref_=a20m_us_spcs_cap_spcs_chnglg).
 
 I. Core Policies
 ----------------
@@ -204,7 +204,11 @@ CTA is the portion of the ad that prompts customers to take a suggested action. 
   
 All desktop ads running onsite and Fire device ads require a CTA. A CTA is encouraged on mobile but not required if the experience on the landing page is already clear from the ad.  
   
-When used, the CTA must contain no end punctuation. If the content that you are linking to requires a subscription, this must be made explicit either in the CTA or elsewhere in the creative.
+When used, the CTA must contain no end punctuation. If the content that you are linking to requires a subscription, this must be made explicit either in the CTA or elsewhere in the creative.  
+  
+We do not require the CTA to be present throughout animated ads but it must be in the final frame.  
+  
+A list of pre-approved CTAs can be found [here](https://advertising.amazon.com/resources/ad-policy/creative-acceptance/pre-approved-ctas?ref_=a20m_us_spcs_cap_spcs_cta).
 
 Additional CTA requirements per ad product
 
@@ -222,6 +226,7 @@ The following information must be included either in the disclosure section of t
 *   Survey results: The source and date of the survey.
 *   Statistical claims: The source and date of the study.
 *   Superlative and comparative claims: An independent source that supports the claim, and the date of the study.
+*   Environmental claims: An independent source that supports the claim, and the date of the study.
 
 If a product shot includes substantiation for a claim, Amazon does not require additional substantiation.
 
@@ -270,13 +275,13 @@ When permitted, customer reviews must:
 *   Not compare the product promoted to a competing product by name.
 *   Not contain references to medical conditions, profanities, emojis or other special characters.
 
-Customer review quotes are supported in dynamic e-commerce ads (see specs and guidelines [here](https://advertising.amazon.com/resources/ad-specs/ecommerce?ref_=a20m_us_spcs_cap_spcs_ecm)).
+Customer review quotes are supported in Dynamic e-commerce ads (see specs and guidelines [here](https://advertising.amazon.com/resources/ad-specs/ecommerce?ref_=a20m_us_spcs_cap_spcs_ecm)).
 
 #### 2.4.2 Star Ratings
 
 Ads can only include Amazon star ratings. Third-party star ratings are prohibited.  
   
-To include a star rating in an ad, the product must have i) at least 15 customer reviews, and ii) a minimum average star rating of 3.5. For Automotive campaigns only, we can allow a star rating based on i) at least 8 customer reviews and ii) a minimum star rating of 4.  
+To include a star rating in an ad, the product must have i) at least 15 customer reviews, and ii) a minimum average star rating of 3.5. For Automotive campaigns only, we can allow a star rating based on i) at least eight customer reviews and ii) a minimum star rating of 4.  
   
 For mobile and desktop ads, star ratings may only be used within e-commerce creative to ensure that the information is up to date.  
   
@@ -288,7 +293,7 @@ Disclosures must be accurate, legible (both in size and contrast with the backgr
   
 Except for Homepages, manual scrolling bars (but not automatic scrolling bars) are permitted on desktop placements (not mobile).  
   
-Disclosures must meet the specifications listed below (see “Minimum font sizes”) and in our [ad specs](https://advertising.amazon.com/resources/ad-specs?ref_=a20m_us_spcs_cap_spcs).
+Disclosures must meet the specifications listed below (see “Minimum Font Sizes”), and in our [ad specs](https://advertising.amazon.com/resources/ad-specs?ref_=a20m_us_spcs_cap_spcs).
 
 ### 2.6 Editorial Guidelines
 
@@ -304,7 +309,7 @@ Special characters such as @@, ###, emojis, except when part of the advertiser�
   
 Ad copy that uses personalised language (such as “you/your”) that may be perceived by a customer as if you are addressing him/her directly and that may cause customer discomfort. For example, ad copy reading “Use our product to solve for your incontinence problems” or “You are overweight. Use our dietary supplement”.  
   
-Ad copy that acknowledges or implies the targeting criteria used for the campaign. For example, an ad copy reading “Did you enjoy your recent purchase of \[product\]? Try our newest model.”  
+Ad copy that acknowledges or implies the targeting criteria used for the campaign. For example, an ad copy reading “Did you enjoy your recent purchase of \[product\]? Try our newest model”.  
   
 Inconsistency between ad copy and landing page. You must present the same offer or product both in your ad copy and on your landing page. For example, we would prohibit ad copy reading “Save on household supplies” with an image of a dish soap leading to a landing page that features vacuum cleaners.  
   
@@ -358,7 +363,7 @@ Japanese
 
 |     | **Desktop** | **Mobile** |
 | --- | --- | --- |
-| **Ad copy** | Between 9.5 and 45pt UD Shin Go or equivalent | 640×100: Minimum 16pt UD Shin Go or equivalent (@2x resolution)  <br>  <br>600×500: Between 16 and 90pt UD Shin Go or equivalent (@2x resolution)  <br>  <br>1242×375: Minimum 40pt UD Shin Go or equivalent (@3x resolution) |
+| **Ad copy** | Between 9.5 and 45pt UD Shin Go or equivalent | 640 × 100: Minimum 16pt UD Shin Go or equivalent (@2x resolution)  <br>  <br>600 × 500: Between 16 and 90pt UD Shin Go or equivalent (@2x resolution)  <br>  <br>1242 × 375: Minimum 40pt UD Shin Go or equivalent (@3x resolution) |
 
 The following placements or formats have specific font size or word count requirements:
 
@@ -373,7 +378,6 @@ Placements or formats specific font size or word count requirements
 *   [Marquee ads](https://advertising.amazon.com/resources/ad-specs/custom-media/marquee?ref_=a20m_us_spcs_cap)
 *   [Billboard BTF](https://advertising.amazon.com/resources/ad-specs/custom-media/billboard-btf?ref_=a20m_us_spcs_cap)
 *   [Amazon Video ads](https://advertising.amazon.com/resources/ad-specs/custom-media/amazon-video-ads?ref_=a20m_us_spcs_cap)
-*   [Mobile interstitial ads](https://advertising.amazon.com/resources/ad-specs/dsp/mobile-interstitials?ref_=a20m_us_spcs_cap)
 
 ### 2.10 Pressuring Language
 
@@ -418,11 +422,10 @@ Ads must comply with [ad specs](https://advertising.amazon.com/resources/ad-spec
 *   Video stream length:
 
 *   Standard IAB Ad unit: up to 15 seconds.
-*   Video ads (on Amazon): up to 3 minutes (we recommend 30 seconds or less).
+*   Video ads (on Amazon): up to three minutes (we recommend 30 seconds or less).
 *   Video ads on Fire tablet: up to 15 seconds.
-*   Amazon DSP video: at least 5 seconds.
+*   Amazon DSP video: at least five seconds.
 
-*   Frequency cap: Five times per 24 hours per campaign.
 *   Audio must be customer-initiated on click or tap (meaning that autoplay ads must begin muted).
 
 *   The use of rollovers to initiate audio is prohibited.
@@ -474,7 +477,7 @@ Products and services that cannot be promoted
 *   Aerosol paint.
 *   Airsoft/BB guns, paintball guns.
 *   Alcohol recovery or hangover cures or treatments.
-*   Bows and arrows, slingshots and other projectile weapons.
+*   Anti-radiation products (including electromagnetic field protection and radiation neutralising or shielding products).
 *   Voucher sites.
 *   Cryptocurrencies.
 *   Escort services, adult dating, sex toys and merchandise.
@@ -589,7 +592,7 @@ Ads for the sale of alcohol in Australia, Canada, Mexico and Europe must link-in
 
 *   Day-parting: Ads can only run between 12 p.m. and 6 a.m.
 *   Disclaimer: Ads must include one of the following statements: “l’abus d’alcool est dangereux pour la santé” or “à consommer avec moderation”.
-*   Ads can only contain the following information about the alcoholic drink: alcohol by volume percentage, origin, denomination, composition, name and address of the manufacturer, agents and depositaries, method of elaboration, methods of sale, mode of consumption of the product, references to the region of production, references to awards obtained by the beverage, references to the appellation of origin or geographical indication. The packaging for the drink can only be reproduced if it complies with the preceding ad content rules.
+*   Ads can only contain the following information about the alcoholic drink: alcohol by volume percentage, origin, denomination, composition, name and address of the manufacturer, agents and depositories, method of elaboration, methods of sale, mode of consumption of the product, references to the region of production, references to awards obtained by the beverage, references to the appellation of origin or geographical indication. The packaging for the drink can only be reproduced if it complies with the preceding ad content rules.
 *   Ads for non-alcoholic products must not feature, promote or refer to alcohol brands, or the consumption of alcohol. Images of generic alcoholic drinks may be permitted as long as they are not the main focus of the ad.
 
 ##### Germany
@@ -688,6 +691,12 @@ If the rating is R, TV-MA, M or a local equivalent, the ad can only run on landi
 Ads for NC17 films and AO video games, or local equivalents, are prohibited on  
 Amazon even if the ad features a green-band trailer.  
   
+Ratings bugs are not required for ads running off Amazon.  
+  
+On FireTV, ratings bugs must be placed on the static portions of an ad when they are required.  
+  
+In Canada, when the rating varies between provinces with the same ratings system, ads should use the highest rating; ads should contain both the Quebec rating and the rating for other provinces.  
+  
 Additional restrictions may apply. Please contact your account support for more information.
 
 ### 7.5 Financial Products and Services
@@ -777,9 +786,7 @@ Ads must feature a warning message against excessive or pathological gambling an
 
 ##### Germany
 
-Ads (not including branding campaigns) must inform customers about risks of addiction, prohibition of the participation of minors and the possibility of advice and therapy. These requirements do not apply to branding campaigns.  
-  
-If the ad contains information on maximum winnings, the respective probability of winning and losing must be indicated within the ad. For example, “Gewinnchance 1:\[XXX\]. Spielteilnahme ab 18 Jahren. Glücksspiel kann süchtig machen. Nähere Informationen und Hilfe unter \[XXX\].”
+Ads (not including branding campaigns) must inform customers about risks of addiction, prohibition of the participation of minors and the possibility of advice and therapy. These requirements do not apply to branding campaigns. <br/><br/>If the ad contains information on maximum winnings, the respective probability of winning and losing must be indicated within the ad. For example, “Gewinnchance 1:\[XXX\]. Spielteilnahme ab 18 Jahren. Glücksspiel kann süchtig machen. Nähere Informationen und Hilfe unter \[XXX\].”
 
 ##### Luxembourg
 
@@ -819,7 +826,7 @@ You must obtain all necessary rights and permissions for your ads.
   
 Ads must not feature the names, likenesses, voices (including look-alikes and sound-alikes) or other identifying features of an individual without the individual’s consent.  
   
-Rightsholders and their agents can report alleged copyright, trademark or right of publicity infringement by filling in this [form](https://www.amazon.com/report/infringement). If we receive a complaint regarding intellectual property related to an ad served by us, we will encourage the alleged rights holder and advertiser to communicate directly. Amazon will not act as a mediator of disputes between them. We may or may not process a take-down request based on an independent assessment of each complaint.
+Rightsholders and their agents can report alleged copyright, trademark or right of publicity infringement by filling out this [form](https://www.amazon.com/report/infringement). If we receive a complaint regarding intellectual property related to an ad served by us, we will encourage the alleged rights holder and advertiser to communicate directly. Amazon will not act as a mediator of disputes between them. We may or may not process a take-down request based on an independent assessment of each complaint.
 
 ### 7.8 Job Sites
 
@@ -969,7 +976,7 @@ Ads off Amazon must be frequency-capped at 3 times per 24 hours (3x24). Behaviou
 
 Feminine Care products is referring to menstrual products such as tampons and pads. This policy does not apply to adult incontinence products, feminine wipes, douches, birth control, lubricants and similar products.  
   
-Amazon prohibits Feminine Care ads on Fire devices. Ads may run off Amazon and elsewhere on Amazon with specific in-market targeting segments only with a 3 times per 24 hours (3x24) frequency cap.
+Amazon prohibits Feminine Care ads on Fire devices. Ads may run off Amazon and elsewhere on Amazon with specific in-market targeting segments only with a 3 times per 24 hours (3 x 24) frequency cap.
 
 #### 7.11.6 Intimate personal care products
 
@@ -979,7 +986,7 @@ Ads can only run in contextual placements for products in the same category, sub
 
 #### 7.11.7 Incontinence
 
-Ads for incontinence products (including liners, pads or adult nappies) may run only in contextual placements for products in the same category and offsite. Ads must be frequency-capped at 3 times per 24 hours (3x24).
+Ads for incontinence products (including liners, pads or adult nappies) may run only in contextual placements for products in the same category and offsite. Ads must be frequency-capped at three times per 24 hours (3 x 24).
 
 Locale-specific requirements
 
@@ -1001,7 +1008,7 @@ Ads for services that provide detailed health results such as a person’s risk 
 
 Amazon prohibits ads for weight loss supplements and other products (other than food or meal replacements) and services on Homepage, Kindle screensaver and Fire Tablet wake screen, behavioural targeting and ads for fat burners and blockers.  
   
-Ads must be frequency-capped at 3 times per 24 hours (3x24).  
+Ads must be frequency-capped at three times per 24 hours (3 x 24).  
   
 Ads must not encourage unhealthy eating or negative body image/self-perception.  
   
