@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-#### Last Updated: July 9, 2021
+#### Last Updated: August 18, 2021
 
 The Service Terms below govern your use of the Services. Capitalized terms used in these Service Terms but not defined below are defined in the [AWS Customer Agreement](https://aws.amazon.com/agreement/) or other agreement with us governing your use of the Services (the “Agreement”). For purposes of these Service Terms, “Your Content” includes any “Company Content” and any “Customer Content,” and “AWS Content” includes “Amazon Properties.”
 
@@ -95,7 +95,7 @@ a. The Service Level Agreements for any Services that run locally on Outposts do
 
 b. Any AWS commitments in the Agreement that depend on AWS’s operation of such physical security and access controls, or power, networking, and environmental conditions, do not apply to Outposts or any Services running locally on Outposts.
 
-c. The security and compliance standards, certifications, audits, reports and attestations held by AWS do not apply to Outposts or any Services running locally on Outposts. You can find more information about Outposts security compliance and features [here](http://www.aws.amazon.com/outposts). 
+c. The specific compliance and assurance programs for which Outposts are in scope are listed [here](https://aws.amazon.com/compliance/services-in-scope/). For other Services listed [here](https://aws.amazon.com/compliance/services-in-scope/), those Services are not in scope when running locally on Outposts unless Outposts is also separately listed for the specific compliance or assurance program.
 
 #### 5\. Amazon Elastic Compute Cloud
 
