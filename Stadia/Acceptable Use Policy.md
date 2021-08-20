@@ -1,4 +1,4 @@
-Stadia End User License Agreement For Content
+STADIA END USER LICENSE AGREEMENT FOR CONTENT
 =============================================
 
 Last modified: November 5, 2019
