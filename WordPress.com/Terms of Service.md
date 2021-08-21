@@ -6,7 +6,7 @@ _Last Updated: July 7, 2021_
 The Gist
 --------
 
-We (the [folks at Automattic](http://automattic.com/about/)) are on a mission to make the web a better place. We hope you love our products and services — from website publishing tools to ecommerce solutions to security backup systems to management tools for distributed companies to the next great idea that we haven’t even thought of yet — as much as we love creating them.
+We (the [folks at Automattic](https://automattic.com/about/)) are on a mission to make the web a better place. We hope you love our products and services — from website publishing tools to ecommerce solutions to security backup systems to management tools for distributed companies to the next great idea that we haven’t even thought of yet — as much as we love creating them.
 
 These Terms of Service (“Terms”) describe our commitments to you, and your rights and responsibilities when using our services. Please read them carefully and reach out to us if you have any questions. **These Terms include a mandatory arbitration provision in Section 16. If you don’t agree to these Terms, don’t use our services.**
 
@@ -377,6 +377,6 @@ The Agreement (together with any other terms we provide that apply to any specif
 
 Automattic may assign its rights under the Agreement without condition. You may only assign your rights under the Agreement with our prior written consent.
 
-[Print friendly version](https://en.support.files.wordpress.com/2021/07/tos-07-07-21.pdf)
+[Print friendly version](https://en.support.files.wordpress.com/2021/08/tos-08-20-21.pdf)
 
 [**Change log**](https://wordpress.com/tos-change-log)
