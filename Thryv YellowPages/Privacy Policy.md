@@ -254,7 +254,7 @@ To exercise the right to opt-out, you (or your authorized representative) may su
 [THRYV.com](https://www.thryv.com/)  
 [THEREALYELLOWPAGES.com](https://therealyellowpages.com/)
 
-And clicking on the “CCPA” link and then the button labelled “DO NOT SELL MY PERSONAL INFORMATION”
+And clicking the button labelled “DO NOT SELL MY PERSONAL INFORMATION”
 
 Once you make an opt-out request, we will wait at least twelve (12) months before asking you to reauthorize Personal Information sales. However, you may change your mind and opt back in to Personal Information sales at any time.
 
