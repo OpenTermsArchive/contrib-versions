@@ -75,7 +75,7 @@ Prohibited Categories
 
 #### High Risk of Fraud
 
-*   No content that encourages high-risk investments or money-making schemes with the intention of profiting off user participation (i.e. “Get Rich Quick” Schemes)
+*   No content that encourages high-risk investments or money-making schemes with the intention of profiting off user participation (i.e. "Get Rich Quick" Schemes)
 *   No Payday Loans or Cash Advance Loans
 *   No Penny Stocks, Binary Options, or Forex
 *   No non-premium TV/Movie streaming boxes (acceptable brands are Mi/Xiaomi, Apple TV, and Amazon Fire stick).
@@ -163,7 +163,7 @@ Marketers are solely responsible for complying with applicable federal, state an
 *   Political content must comply with the local legislation
 *   Required disclosure
     *   All political ads must contain clear disclosure of who has paid for the ad.
-    *   The landing page and the site name for the ad should identify: “Paid for by Candidate X for President”, “Paid for by the Committee on Democratic Ideals”, etc.
+    *   The landing page and the site name for the ad should identify: "Paid for by Candidate X for President", "Paid for by the Committee on Democratic Ideals", etc.
     *   In the site name, the "Paid for by" element can be omitted unless the organization promotes third party material.
     *   The landing page must include a link to contact information for the organization.
     *   All advertising must clearly identify who paid for the communication and whether or not it was authorized by a candidate and/or organization on the landing page or during the video.
@@ -172,7 +172,7 @@ Marketers are solely responsible for complying with applicable federal, state an
 *   **Be Positive** - Nothing negative. Ads must not humiliate, disparage, or incite against a candidate, party, or population group. All information should be neutral or positive and must be based in fact.
 *   **Headlines** - Content can call out political groups or leanings in the headline, as long as paid sponsorship is clearly disclosed.Stance language is authorized as long as it does not discriminate against any group, person, or belief.
 *   **Images**: When selecting images for your campaign please ensure they are relevant to the campaign or cause you are promoting. You may not use images of your competitors.
-*   **Clarification**: Political ads don’t include ads for products or services, including promotional political merchandise like t-shirts, or ads run by news organizations to promote their coverage of federal election campaigns, candidates, or current elected federal officeholders.
+*   **Clarification**: Political ads don't include ads for products or services, including promotional political merchandise like t-shirts, or ads run by news organizations to promote their coverage of federal election campaigns, candidates, or current elected federal officeholders.
 
 #### Fundraising
 
@@ -186,7 +186,7 @@ Landing Page Guidelines
 
 *   Clear Disclosure Required:
 
-*   “Advertisement” or “Advertorial” must appear clearly and prominently at the top of applicable pages. Disclosures must appear in a placement, color, and font size that is easily read by a reader
+*   "Advertisement" or "Advertorial" must appear clearly and prominently at the top of applicable pages. Disclosures must appear in a placement, color, and font size that is easily read by a reader
 *   Affiliate marketing sites must clearly disclose any financial relationship between the site and sponsoring advertiser in accordance with governing guidelines
 
 *   No Excessive Overlays or Pop-Ups:
@@ -197,7 +197,7 @@ Landing Page Guidelines
 
 *   Fake testimonials
 *   Fake comments
-*   “Too good to be true” statements or unsubstantiated claims
+*   "Too good to be true" statements or unsubstantiated claims
 *   Fake social media icons
 *   Fake navigation or text/images that make a user think that it is a larger editorial site
 *   Fake earned media logos
@@ -256,7 +256,7 @@ Headline and Source Guidelines
 
 *   Does not accurately depict the content
 *   Exaggerates or embellishes the content
-*   “Too good to be true” headlines (i.e. “One weird trick that will help you lose that belly fat”)
+*   "Too good to be true" headlines (i.e. "One weird trick that will help you lose that belly fat")
 
 #### Offensive Headlines
 
@@ -279,7 +279,7 @@ Headline and Source Guidelines
 #### Excessive Punctuation & Symbols
 
 *   Refrain from inappropriate, aggressive, or tasteless punctuation in headlines
-*   Repeated punctuation (i.e. “?!?!”) or symbols are not permitted
+*   Repeated punctuation (i.e. "?!?!") or symbols are not permitted
 *   The use of emojis of any kind is prohibited in the titles.
 
 ###### The following is required:
@@ -290,19 +290,19 @@ An ad source name (the branding text which appears directly beneath the headline
 
 *   If the advertiser owns the content landing page, the source name should state the domain name or brand name.
 
-*   Example: If a brand promotes the home page from its own site, the source name could read as “BRAND NAME” or as “brandname.com” (domain name).
+*   Example: If a brand promotes the home page from its own site, the source name could read as "BRAND NAME" or as "brandname.com" (domain name).
 
 *   If the advertiser does not own the landing page, the name of the advertiser and the domain name should appear in the source name.
 
-*   Example: If a brand is promoting an earned media article from CNN Money, the source name should read as follows: “BRAND NAME on CNN Money”.
+*   Example: If a brand is promoting an earned media article from CNN Money, the source name should read as follows: "BRAND NAME on CNN Money".
 
-*   Search Engine Results Pages (SERPs): If the landing page hosts a list of sponsored search results, ads should disclose this in the source name. Disclosure should include one of the following: “Sponsored Listings,” “Sponsored Results,” or “Sponsored Links.”
+*   Search Engine Results Pages (SERPs): If the landing page hosts a list of sponsored search results, ads should disclose this in the source name. Disclosure should include one of the following: "Sponsored Listings," "Sponsored Results," or "Sponsored Links."
 
-*   Example: The source name for a SERP ad showing results for dental implants could read as “Dental Implants - Sponsored Listings”.
+*   Example: The source name for a SERP ad showing results for dental implants could read as "Dental Implants - Sponsored Listings".
 
-*   App download pages: Ads that lead to a mobile app download page should not show only the name of the app store in the source name. Instead, the source name should also include either (1) the app title or (2) “Download on” (or a translation of this for the relevant language).
+*   App download pages: Ads that lead to a mobile app download page should not show only the name of the app store in the source name. Instead, the source name should also include either (1) the app title or (2) "Download on" (or a translation of this for the relevant language).
 
-*   Example: An English-language ad for an app could use “APP NAME on App Store” or “Download on App Store”. A French-language ad could use “APP NAME sur App Store” or “Téléchargez sur App Store”.
+*   Example: An English-language ad for an app could use "APP NAME on App Store" or "Download on App Store". A French-language ad could use "APP NAME sur App Store" or "Téléchargez sur App Store".
 
 Image Guidelines
 ----------------
@@ -353,7 +353,7 @@ Additional Guidelines for Publishers
 *   Bankruptcy
 *   Physical Appearance
 *   Discrimination of any kind
-*   “Perfectly-Timed” Photos
+*   "Perfectly-Timed" Photos
 
 #### Examples of Accepted Categories Include:
 
@@ -384,9 +384,9 @@ Additional Guidelines for Publishers
 
 #### Headlines:
 
-*   Remove sensational words such as “stuns”, “reveals”, “real reason”, “last words”, “years later”, “you won't believe”, “make your skin crawl”, and “uncovers truth”. Any phrases that are similar should not be used as well.
-*   Remove suggestive words such as “stunning”, “hottest”, “trophy wives” and “attractive”
-*   Remove negative words such as “ruined”, “worst”, “disturbing”, “disgusting”, “horrifying”, and “hated”
+*   Remove sensational words such as "stuns", "reveals", "real reason", "last words", "years later", "you won't believe", "make your skin crawl", and "uncovers truth". Any phrases that are similar should not be used as well.
+*   Remove suggestive words such as "stunning", "hottest", "trophy wives" and "attractive"
+*   Remove negative words such as "ruined", "worst", "disturbing", "disgusting", "horrifying", and "hated"
 *   Align headlines with the content. For example, "12 things..." when there are actually 40 slides
 
 #### Images:
