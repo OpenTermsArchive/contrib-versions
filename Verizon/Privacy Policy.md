@@ -66,7 +66,7 @@ Open all Close all
     
     Location of your wireless devices
     
-    We collect cell tower location information. Based on what you have allowed, we may also collect Wi-Fi, Global Positioning Satellite (GPS) and other location information, for example, through Verizon applications you use.  
+    We collect cell tower location information. Based on what you have allowed, we may also collect Wi-Fi, Global Positioning Satellite (GPS) and other location information.  
     
     ### We also obtain information from others.
     
@@ -643,7 +643,7 @@ Open all Close all
     
     We may use our cable system to collect personally identifiable information necessary to render cable service or other services provided to you over the cable system and to detect and prevent unauthorized access to services. We may collect additional personally identifiable information with your prior consent. We may use or disclose personally identifiable information without consent where necessary to render services and to conduct legitimate business activities related to the services we provide.
     
-    We may also disclose your name and address as long as you have the ability to prevent or limit this disclosure and the disclosure does not reveal, directly or indirectly, your viewing or other uses of the services we provide We share name and address information with service providers as part of our Relevant TV advertising program. These providers work on our behalf to help our advertisers optimize their ads by preventing the same ads you see on Fios from being shown to you in other places. You can opt out of participating in the [Relevant TV advertising program](http://verizon.com/relevanttvfaqs).
+    We may also disclose your name and address as long as you have the ability to prevent or limit this disclosure and the disclosure does not reveal, directly or indirectly, your viewing or other uses of the services we provide. We share name and address information with service partners as part of our Relevant TV advertising program. These providers work on our behalf to help our advertisers optimize their ads by preventing the same ads you see on Fios from being shown to you in other places. You can opt out of participating in the [Relevant TV advertising program](http://verizon.com/relevanttvfaqs).
     
     We may also share personally identifiable information if it is required by law to comply with [valid legal process](#).
     
