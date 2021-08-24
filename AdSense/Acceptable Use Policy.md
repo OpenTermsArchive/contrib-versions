@@ -27,11 +27,15 @@ We do not allow content that:
 *   infringes copyright. It is our policy to respond to notices of alleged infringement that comply with the Digital Millennium Copyright Act (DMCA). You can file a counter-notification via [this form](https://support.google.com/legal/contact/lr_counternotice?product=websearch).
 *   sells or promotes the sale of counterfeit products. Counterfeit goods contain a trademark or logo that is identical to or substantially indistinguishable from the trademark of another. They mimic the brand features of the product in an attempt to pass themselves off as a genuine product of the brand owner.
 
-Endangered or threatened species
---------------------------------
+Animal cruelty
+--------------
 
 We do not allow content that:
 
+*   promotes cruelty or gratuitous violence towards animals.
+    
+    **Examples**: Promoting animal cruelty for entertainment purposes, such as cock or dog fighting
+    
 *   promotes the sale of products obtained from endangered or threatened species.
     
     **Examples**: Sale of tigers, shark fins, elephant ivory, tiger skins, rhino horn, dolphin oil
