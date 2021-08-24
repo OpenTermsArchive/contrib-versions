@@ -252,7 +252,7 @@ We may share your personal information with affiliate companies of Samsung Elect
     
       
     
-    You can lodge a complaint with the relevant supervisory authority if you consider that our processing of your personal information infringes applicable law. Contact details for all EU supervisory authorities can be found at [https://ec.europa.eu/newsroom/article29/item-detail.cfm?item\_id=612080](https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080).
+    You can lodge a complaint with the relevant supervisory authority if you consider that our processing of your personal information infringes applicable law. Contact details for all EU supervisory authorities can be found at [https://ec.europa.eu/info/index\_en](https://ec.europa.eu/info/index_en).
     
 *   ### [PRIVACY POLICY FOR SAMSUNG ONLINE SHOP](javascript:void(0))
     
