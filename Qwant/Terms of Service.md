@@ -47,9 +47,7 @@ Ad links
 
 Advertising links can be offered in some of the Services offered by QWANT.
 
-These links, marked with the “Ad” label, are messages of advertising nature that come from advertisers and are displayed for a fee. Clicking those links only lead to the target websites. We decline any responsibility regarding obligations relative to the contractual relationships that may arise from them. Every advertiser has the duty to respect regulatory and legal obligations that apply to it
-
-If you want to be indexed in QWANT Shopping, you can send an e-mail to [shopping@qwant.com](mailto:shopping@qwant.com).
+These links, marked with the “Ad” label, are messages of advertising nature that come from advertisers and are displayed for a fee. Clicking those links only lead to the target websites. We decline any responsibility regarding obligations relative to the contractual relationships that may arise from them. Every advertiser has the duty to respect regulatory and legal obligations that apply to it.
 
 Pluridisciplinary activities
 ----------------------------
@@ -122,4 +120,4 @@ The Services and their TOS are subject to French law, wherever they may be used.
 
 All rights reserved, QWANT® 2019
 
-*   Last update: August 3, 2021
+*   Last update: August 24, 2021
