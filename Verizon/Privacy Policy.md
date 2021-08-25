@@ -66,7 +66,7 @@ Open all Close all
     
     Location of your wireless devices
     
-    We collect cell tower location information. Based on what you have allowed, we may also collect Wi-Fi, Global Positioning Satellite (GPS) and other location information.  
+    We collect cell tower location information. Based on what you have allowed, we may also collect Wi-Fi, Global Positioning Satellite (GPS) and other location information, for example, through Verizon applications you use.  
     
     ### We also obtain information from others.
     
