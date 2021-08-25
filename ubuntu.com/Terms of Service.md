@@ -112,8 +112,9 @@ The open source software platform that runs everywhere from the smartphone, the 
 *   [Managed](https://ubuntu.com/managed)
     -------------------------------------
     
-    *   [Kafka](https://ubuntu.com/managed/kafka)
-    *   [Cassandra](https://ubuntu.com/managed/cassandra)
+    *   [OpenStack](https://ubuntu.com/openstack/managed)
+    *   [Kubernetes](https://ubuntu.com/kubernetes/managed)
+    *   [Apps](https://ubuntu.com/managed/apps)
 
 *   [Kubernetes](https://ubuntu.com/kubernetes)
     -------------------------------------------
