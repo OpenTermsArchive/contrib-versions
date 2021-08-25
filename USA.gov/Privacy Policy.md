@@ -28,7 +28,7 @@ USA.gov links to many websites created and maintained by other public and/or pri
 
 ### Social Media Sites
 
-USA.gov manages a presence on social media sites such as [Facebook](https://www.facebook.com/USAgov), [Twitter](https://twitter.com/USAgov), [YouTube](https://www.youtube.com/usagov1), [Snapchat](https://www.snapchat.com/add/usagov), [Instagram](https://www.instagram.com/usagov/), and others to share government information, and engage with the public. We do not collect any personally identifiable information through those sites, and we do not use personal information made available by the third-party sites.
+USA.gov manages a presence on social media sites such as [Facebook](https://www.facebook.com/USAgov), [Twitter](https://twitter.com/USAgov), [YouTube](https://www.youtube.com/usagov1), [Instagram](https://www.instagram.com/usagov/), and others to share government information, and engage with the public. We do not collect any personally identifiable information through those sites, and we do not use personal information made available by the third-party sites.
 
 If You Send Us Personal Information
 -----------------------------------
@@ -49,4 +49,4 @@ Ask a real person any government-related question for free. They'll get you the 
 *   [Talk to a live USA.gov agent](https://www.usa.gov/phone)
 *   [Web Chat with a live USA.gov agent](https://www.usa.gov/chat)
 
-Last Updated: March 1, 2021
+Last Updated: August 24, 2021
