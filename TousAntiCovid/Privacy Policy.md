@@ -29,7 +29,7 @@ The data will be used in order to:
 
 3° Guide at-risk contacts towards competent healthcare professionals for treatment and testing, as the case may be
 
-4° Carrying out anonymous statistics for diagnostic purposes, performance improvement and user experience
+4° Carrying out anonymous statistics in order to adapt the measures necessary to deal with the pandemic and to improve the performance of the application and the user experience
 
 5° Generate travel exemption forms
 
@@ -45,7 +45,7 @@ The data will be used in order to:
 
 ### The legal and regulatory basis for data processing
 
-This processing is for the purposes of tasks carried out in the public interest (Article 6.1.e of the GDPR) by the General Health Directorate in tackling health threats. There is also a regulatory framework for processing - the decree of 29 May 2020 pertaining to the processing of data entitled “StopCovid" (since renamed TousAntiCovid) introduced after consultation with the CNIL (the French data protection authority).
+This processing and its statistics are for the purposes of tasks carried out in the public interest (Article 6.1.e of the GDPR) by the "Direction générale de la santé" in tackling health threats. There is also a regulatory framework for processing - the decree of 29 May 2020 pertaining to the processing of data entitled “StopCovid" (since renamed TousAntiCovid) introduced after consultation with the CNIL (the French data protection authority).
 
 ### Personal data processed on the central server
 
@@ -62,6 +62,11 @@ For informing people who have been in proximity to other users who have tested p
 *   The date of the most recent queries on the central server
 
 Part of this data is used for the compilation of anonymous statistics.
+
+*   Technical information on the smartphone and the TousAntiCovid application
+*   TousAntiCovid sections consulted, type of information and documents generated or added by the user
+*   User Covid status and associated events
+*   An application identifier specific to statistics
 
 ### Personal data processed on IN Groupe central server
 
@@ -179,6 +184,8 @@ For the conversion of vaccination certificates and negative / positive tests for
 The right to access and rectify data, as well as purpose limitation, cannot be exercised: data is rendered anonymous in order to prevent users from being identified. Exercising these rights would entail identifying the individual in question, which would considerably weaken both the security and the confidentiality of the application as a whole.
 
 However, users will be able to delete this data from their mobile application at any time. They can also delete any data stored on the central server by unsubscribing and uninstalling the application.
+
+The user can also at any time exercise his right to oppose the sending of anonymous statistics by disabling them in the settings of the TousAntiCovid application.
 
 Any questions you may have regarding the processing of your data can be addressed to the Ministry for Health, either by email: [tousanticovid-rgpd@sante.gouv.fr](mailto:tousanticovid-rgpd@sante.gouv.fr) or through the post: The Ministry for Social Affairs and Health - Data Protection Officer - General Health Directorate - 14 Avenue Duquesne 75350 Paris 07 SP.
 
