@@ -1,6 +1,3 @@
-Privacy Policy
---------------
-
 Scaleway S.A.S is committed to protecting and respecting your privacy and the confidentiality of your personal data.  
 In this context, this Privacy Policy therefore explains the types of personal data Scaleway collects and how we use it.
 
