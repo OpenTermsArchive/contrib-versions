@@ -1,6 +1,3 @@
-Cookie Policy
--------------
-
 This page explains the cookies used when you visit the following websites (the “Website”):
 
 *   scaleway.com
