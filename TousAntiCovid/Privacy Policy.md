@@ -173,7 +173,7 @@ When seeking information on COVID-19 linked to a place of interest: postcodes wi
 
 When seeking advice on self-isolating: data selected or entered by users will only be stored in the application and will not be shared with the central server. It will be retained until it is deleted by the user.
 
-For the compilation of anonymous statistics: data is kept for 3 months.
+For the compilation of anonymous statistics: the data that are used are kept for 3 months.
 
 For the storage of certificats of vaccination and negative / positive tests for COVID-19: certificates can be deleted by the user at any time in the application.
 
