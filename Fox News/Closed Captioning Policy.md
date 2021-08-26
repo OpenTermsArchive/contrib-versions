@@ -1,3 +1,6 @@
+Closed Captioning Policy
+========================
+
 Fox News is pleased to offer closed captioning on many Fox News programs made available online and through mobile apps. Programs with closed captioning will have a "CC" icon in the player controls. Just tap to enable or disable.
 
 [Certification Statement](https://www.foxnews.com/closed-captioning/fnc-cc-cert.pdf)
