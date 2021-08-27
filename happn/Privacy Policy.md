@@ -463,6 +463,6 @@ HAPPN undertakes to make every effort and to invest all means at its disposal to
 
 If you have any questions regarding this privacy policy, or any other request concerning your personal data, you can contact us:
 
-*   By sending an e-mail to our contact e-mail address [supp\[email protected\]](https://www.happn.com/cdn-cgi/l/email-protection#).
+*   By sending an e-mail to our contact e-mail address [\[email protected\]](https://www.happn.com/cdn-cgi/l/email-protection#).
 *   By sending an email to the Data Protection Officer [\[email protected\]](https://www.happn.com/cdn-cgi/l/email-protection#). 
 *   By sending a letter to the following address: for the attention of the Data Protection Officer, HAPPN - 8 rue du Sentier 75002 Paris – France.
