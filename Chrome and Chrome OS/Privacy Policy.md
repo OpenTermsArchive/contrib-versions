@@ -1,7 +1,10 @@
 Google Chrome Privacy Notice
 ============================
 
-#### Last modified: January 15, 2021
+Last modified: January 15, 2021
+-------------------------------
+
+View archived versions: Select date May 20, 2020 March 17, 2020 December 10, 2019 October 31, 2019 March 12, 2019 January 30, 2019 December 04, 2018 October 24, 2018 September 24, 2018 March 6, 2018 April 25, 2017 March 7, 2017 January 24, 2017 November 30, 2016 October 11, 2016 August 30, 2016 June 21, 2016 September 1, 2015 November 12, 2014 August 26, 2014 May 20, 2014 February 20, 2014
 
 Learn how to control the information that's collected, stored, and shared when you use the Google Chrome browser on your computer or mobile device, Chrome OS, and when you enable Safe Browsing in Chrome. Although this policy describes features that are specific to Chrome, any personal information that is provided to Google or stored in your Google Account will be used and protected in accordance with the [Google Privacy Policy](https://www.google.com/policies/privacy/), as changed from time to time. [Google’s retention policy](https://policies.google.com/technologies/retention) describes how and why Google retains data.
 
