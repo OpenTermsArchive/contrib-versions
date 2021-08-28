@@ -934,6 +934,9 @@ De bénéficier :
 
 *   Et d’autres avantages offerts par les partenaires de Cdiscount, qui peuvent être différents en fonction du pays de résidence de l’Abonné, et dont la disponibilité peut varier en cours d’Abonnement.
 
+   
+L'avantage Presse est garanti jusqu'en août 2022.
+
 De faire bénéficier :
 
 des avantages de son Abonnement à toute personne physique majeure de sa famille dans le cadre du partage d’abonnement dans les conditions définies à l’article 8.1.
@@ -942,12 +945,14 @@ des avantages de son Abonnement à toute personne physique majeure de sa famill
 
 **2.1 Livraison offerte des Produits Eligibles (France métropolitaine et Belgique uniquement)**
 
+  
+Les Produits Eligibles sont reconnaissables sur le Site du fait de la présence de la mention " Produit **C****discount** **à v****o**l**o**nté****" sur la fiche produit du Produit Eligible.  
+Il est précisé que les modes de livraison éligibles à la gratuité ne portent que sur les petits colis de moins de 30 kilos.  
+En savoir plus sur notre page dédiée à la livraison en [cliquant ici](https://www.cdiscount.com/shipping/shippinginfo.html?shippingpartnerorigin=ft).  
+  
 Lors de la commande comprenant l’Abonnement au Service tous les modes de livraison, listés ci-dessous, sont gratuits dès 10€ d’achat.  
   
 Pour les commandes suivantes, l’Abonné pourra bénéficier de la livraison offerte sur les Produits Eligibles, si le montant total des Produits Eligibles commandés sur le Site est égal ou supérieur à 10 € et dans les conditions suivantes :  
-  
-Il est précisé que les modes de livraison éligibles à la gratuité ne portent que sur les petits colis de moins de 30 kilos.  
-En savoir plus sur notre page dédiée à la livraison en [cliquant ici](https://www.cdiscount.com/shipping/shippinginfo.html?shippingpartnerorigin=ft).
 
   
 Le montant total des Produits Eligibles commandés sur le Site est compris entre 10€ et 25€ :
@@ -959,8 +964,6 @@ Le montant total des Produits Eligibles commandés sur le Site est compris entre
 \- Les modes de livraison express à domicile sont facturés 2,99€.
 
 Le montant total des Produits Eligibles commandés sur le Site est supérieur à 25€ : tous les modes de livraison listés ci-dessous, sont gratuits.
-
-Les Produits Eligibles sont reconnaissables sur le Site du fait de la présence de la mention « Produit Cdiscount à Volonté » sur la fiche produit du Produit Eligible.
 
 La livraison offerte s’applique sur les modes de livraison listés ci-dessous.
 
@@ -1304,7 +1307,7 @@ Le montant du crédit auquel donne droit une Offre Site ou une Offre Partenaire 
 
  **9.2.2 
 
-Le crédit sera cumulé sur la Cagnotte :**
+Le crédit sera cumulé sur la Cagnotte :** 
 
  \- Soit à l’issue d’un délai maximum de trente (30) jours ouvrés à compter de la livraison du Produit éligible au Privilège, pour les Offres Site.
 
@@ -1905,7 +1908,7 @@ Cdiscount se réserve ainsi la possibilité de cesser la commercialisation de to
 **7.2. Traitement des déchets d’équipements électriques et électroniques et des déchets d’éléments d’ameublement (DEA) et redevance pour copie privée**  
    
 7.2.1 Traitement des déchets d’équipements électriques (DEEE) et électroniques et des déchets d’éléments d’ameublement (DEA)  
-Aux fins de financer les filières de collecte et de recyclage des Déchets d’équipements électriques et électroniques (DEEE) et des Déchets d’éléments d’ameublement (DEA), Cdiscount a, en sa qualité de distributeur, l’obligation de collecter une éco-participation auprès des Clients Pro. Le montant de l’éco-participation est indiqué sur le Site, sur la fiche produit des articles relevant de cette obligation.   
+Aux fins de financer les filières de collecte et de recyclage des Déchets d’équipements électriques et électroniques (DEEE) et des Déchets dééléments d’ameublement (DEA), Cdiscount a, en sa qualité de distributeur, l’obligation de collecter une éco-participation auprès des Clients Pro. Le montant de l’éco-participation est indiqué sur le Site, sur la fiche produit des articles relevant de cette obligation.   
   
 Il est précisé que Cdiscount n’assure pas la reprise des équipements électriques et électroniques des Clients Pro, ayant la qualité de revendeur des produits achetés (par opposition aux Clients Pro qui utilisent les produits achetés pour leur activité professionnelle).  
 Cdiscount informe le Client Pro ayant la qualité de revendeur des produits achetés que, conformément aux articles L. 541-10-2 et R. 543-180 du Code de l'Environnement, tout consommateur peut bénéficier d’un droit de reprise gratuite de ses équipements électriques et électroniques usagés ; il appartient donc audit Client Pro d’informer ses propres clients du coût de l’élimination des déchets dans les conditions prévues à la règlementation applicable et d’assurer la reprise des équipements usagés auprès des consommateurs qui en font la demande.  
