@@ -109,7 +109,7 @@ For that reason, we allow the promotion of the content below, but on a limited b
 
 ### [Gambling and games](https://support.google.com/adspolicy/answer/6018017)
 
-> We support responsible gambling advertising and abide by local gambling laws and industry standards, so we don’t allow certain kinds of gambling-related advertising. Gambling-related ads are allowed if they comply with the policies below and the advertiser has received the proper Google Ads certification. Gambling ads must target approved countries, have a landing page that displays information about responsible gambling, and never target minors. Check local regulations for the areas you want to target.
+> We support responsible gambling advertising and abide by local gambling laws and industry standards, so we don’t allow certain kinds of gambling-related advertising. Gambling-related ads are allowed if they comply with the policies below and the advertiser has received the proper AdWords certification. Gambling ads must target approved countries, have a landing page that displays information about responsible gambling, and never target minors. Check local regulations for the areas you want to target.
 > 
 > _Examples of restricted gambling-related content:_ physical casinos; sites where users can bet on poker, bingo, roulette, or sports events; national or private lotteries; sports odds aggregator sites; sites offering bonus codes or promotional offers for gambling sites; online educational materials for casino-based games; sites offering "poker-for-fun" games; non-casino-based cash game sites
 
