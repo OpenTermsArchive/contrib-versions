@@ -1,3 +1,83 @@
+![](/wp-content/uploads/2021/08/Illustration_1@2x.png)
+
+A search engine that respects your privacy
+------------------------------------------
+
+At Qwant, we don’t know who you are. We don’t target you with ads or keep your search history. Because your age, gender, and interests belong only to you. And so with each new search request, you get a blank page to begin anew.  
+
+![](/wp-content/uploads/2021/08/Illustration_3@2x-e1630070698755.png)
+
+An open and neutral web at your service
+---------------------------------------
+
+By not tracking our users, our search engine offers you a completely unfiltered overview of the Internet and guarantees neutral results. Your search results are never locked into certainties.  Thus, your previous searches don’t influence the results of your next ones.
+
+![](/wp-content/uploads/2021/08/Illustration_2@2x.png)
+
+Browse without targeted advertising!
+------------------------------------
+
+Qwant does not place any advertising cookies in your browser. Therefore, any advertisements that appear during your browsing will be linked to your search keywords, and not to your user profile. 
+
+![](/wp-content/uploads/2021/08/Illustration_4@2x-e1630070748850.png)
+
+Your data is not a bargaining chip
+----------------------------------
+
+Nowadays it is common to refer to data as, “black gold”. Not at Qwant. We don’t sell your data to third-party organizations, for advertising or for any other purposes. 
+
+![](/wp-content/uploads/2021/08/Illustration_5@2x-e1630070362669.png)
+
+An alternative made in France that implements European legislation
+------------------------------------------------------------------
+
+In order to respect the French and European legislative frameworks, Qwant thoroughly incorporates the RGPD. We respect all fundamental rights, including the right to be forgotten, which gives you the possibility to have your data deleted.  
+
+FAQ - Privacy policy
+--------------------
+
+_If you have questions about Qwant’s privacy protection, please find below a Frequently Asked Questions (FAQs) that summarizes Qwant’s Privacy Policy, but is not intended to be a substitute for it. For complete information please refer to the full text of the Privacy Policy available at the bottom of the page._ 
+
+Why is Qwant so concerned about my privacy?
+-------------------------------------------
+
+Qwant knows that the searches that you make online have the potential to reveal a lot about you and your private life. (This includes, but is not limited to: your habits, your interests, your health, your religious or philosophical beliefs, your political opinions, your sexual preferences, your diet, your purchasing power, your cultural awareness, etc.) You reveal a lot of things through your online searches that you may not normally reveal to your family and friends or even on social media. Nevertheless, you should feel free to search for any information you would like to without feeling surveilled, and without giving anyone the opportunity to exploit information about your private life. 
+
+Additionally, we don’t think it’s okay to change answers based on who asks a question unless you explicitly request it. On Qwant, users who make the same search requests have access to the same results. 
+
+It is for this reason that Qwant has chosen to not collect personal data for the purpose of advertisement personalization or the creation of an advertising profile, in addition to not analyzing your search history. 
+
+So Qwant does not show targeted advertising?
+--------------------------------------------
+
+Exactly. Qwant shows contextual advertising that depends exclusively on the keywords that are entered at the time the ad is displayed, not on who is doing the search. We do not use targeted advertising and do not use cookies or any other ad tracking technologies.  
+
+What data does Qwant collect when I search?
+-------------------------------------------
+
+When you search on Qwant, we naturally receive your search terms, as well as the IP address of your computer or mobile device, and information about your browser (the “User Agent”). We use this data to process your inquiry and return your inquiry, as well as the corresponding answers. We pseudonymize what we need to keep for statistics and for transfer to our technology and business partners.  
+
+Qwant does not use ad tracking cookies or any other techniques to recognize you, store your search history, or track your internet browsing.
+
+Do you use ad cookies?
+----------------------
+
+No. We only use one cookie to remember your technical preferences for using Qwant, so that on the same device these preferences stay the same from one search to another. This cookie does not contain any advertising identifiers and is not accessible to third parties. Subsequently, we do not do not integrate any cookies or other tracking technologies provided by advertising agencies or other partners (see [our cookie policy](https://help.qwant.com/help/qwant-search/settings/how-are-my-preferences-saved-on-qwant/) for more details). 
+
+Why are you transferring data to Microsoft, and what data is it?
+----------------------------------------------------------------
+
+Microsoft provides some of the search results you see on our pages, and provides ads to the keywords in your search inquiry. This means that we need to send Microsoft some information related to your search that allows our other partners to return results and ads relevant to that search, and to prevent fraudulent clicks or other activities that are not permitted by our Terms of Use. 
+
+In order to detect fraud, Qwant uses a specialized service offered by Microsoft, which does not have access to the keywords of your search. Only your IP address and the browser (your “User Agent”) are communicated to this specialized service to calculate a fraud probability score. Keywords are sent separately to another service that does not know your IP address.
+
+What can I do to further protect my privacy?
+--------------------------------------------
+
+Qwant does its best to protect your privacy while you search, but you can take additional steps to protect your internet browsing. For example, you can use a service such as a virtual private network (VPN) or TOR relay service so that even Qwant does not have access to your real IP address. 
+
+We also advise you to use the Qwant app for your internet browsing or other browsers that do not keep your browsing history and do not analyze it for advertising purposes. 
+
 Privacy policy
 --------------
 
@@ -256,4 +336,4 @@ What data is processed for the Qwant mobile application on Android and iOS?
 
 We do not integrate any tracker in our applications nor any advertising ID. Qwant does not process any specific personal data when you use the Qwant application for Android or iOS. The processing of personal data carried out by Qwant during your navigation and use of our Services from the application are exclusively those described above.
 
-*   Last update: August 16, 2021
+*   Last update: August 31, 2021
