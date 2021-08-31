@@ -66,6 +66,7 @@ The types of personal data may vary depending on the type of activity you are en
 *   phone number,
 *   photo or other image,
 *   friend connections,
+*   contacts from your contact list,
 *   avatar image,
 *   device properties, including, but not limited to unique device identifier or other device identifier ("UDID"),
 *   information you provide through our chat-services in our applications,
@@ -230,4 +231,4 @@ In addition, in the event of a merger, acquisition, reorganization, bankruptcy, 
 
 Due to changes in relevant regulations and administrative practices as well as due to changes in our services, we may from time to time need to modify this Privacy Policy. An updated version will at all times be available here. Please review our Privacy Policy frequently.
 
-Last update: 5 September, 2018
+Last update: 31 August, 2021
