@@ -65,7 +65,7 @@ c. Note that we may process your personal data for more than one lawful ground d
 
 d.
 
-![](https://disqus-ddef0e2fb08e.intercom-attachments-1.com/i/o/178331596/a9fae6434fa87f8a5f0077ef/pripolicy_final.png)
+![](https://downloads.intercomcdn.com/i/o/178331596/a9fae6434fa87f8a5f0077ef/pripolicy_final.png?expires=1619546746&signature=8fdec9b95e3187195263ca590d3d97b429964d6d7993c319df7f762fff456c91)
 
 **6\. DISCLOSURES OF YOUR PERSONAL DATA**  
 a. We may sell or share your personal data with the parties set out below for the purposes set out in the table in paragraph 5 above.
@@ -102,7 +102,7 @@ b. To determine the appropriate retention period for personal data, we consider 
 a. Disqus uses commercially reasonable safeguards to preserve the integrity and security of all information collected through the Service. To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications from Disqus. Disqus is not responsible for the functionality or security measures of any third party.
 
 **10\. Your Rights.**  
-Under certain circumstances and depending on where you are based, you have rights under privacy laws such as the CCPA (California), GDPR (Europe), PIPEDA (Canada), or others in relation to your Personal Data. This section describes these rights and explains how to exercise them. Note that Disqus allows any person to exercise the rights listed below and Disqus will not take any action against you for exercising your privacy rights.
+Under certain circumstances and depending on where you are based, you have rights under privacy laws such as the CCPA (California), GDPR (Europe, Brazil), PIPEDA (Canada), or others in relation to your Personal Data. This section describes these rights and explains how to exercise them. Note that Disqus allows any person to exercise the rights listed below and Disqus will not take any action against you for exercising your privacy rights.
 
 You have the right to:
 
