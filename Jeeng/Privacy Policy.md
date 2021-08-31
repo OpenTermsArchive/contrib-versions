@@ -150,7 +150,7 @@ Jeeng shall act in accordance with its policies and with applicable law to promp
 
 Data subjects with respect to whose data GDPR applies, have rights under GDPR and local laws, including, in different circumstances, rights to: data portability, access data, rectify data, object to processing, and erase data. It is clarified for the removal of doubt, that where personal data is provided by a customer being the data subject’s employer, such data subject rights will have to be effected through that customer. In addition, data subject rights cannot be exercised in a manner inconsistent with the rights of Jeeng employees and staff, with Jeeng proprietary rights, and third-party rights. As such, job references, reviews, internal notes and assessments, documents and notes including proprietary information or forms of intellectual property, cannot be accessed or erased or rectified. In addition, these rights may not be exercisable where they relate to data that is not in a structured form, for example emails, or where other exemptions apply. If processing occurs based on consent, data subjects have a right to withdraw their consent. In any case, Jeeng will not share your personal identifiable details with any advertisers without your consent.
 
-If, for any reason, a data subject wishes to exercise these rights and modify, delete or retrieve their Personal Data, they may be able to do so by contacting Jeeng (dpo@powerinbox.com). Note that Jeeng has to undertake a process to identify a data subject exercising their rights. Jeeng may keep details of such rights exercised for its own compliance and audit requirements. Please note that Personal Data may be either deleted or retained in an aggregated manner without being linked to any identifiers or Personal Data, depending on technical commercial capability. Such information may continue to be used by Jeeng.
+If, for any reason, a data subject wishes to exercise these rights and modify, delete or retrieve their Personal Data, they may be able to do so by contacting Jeeng ([\[email protected\]](https://www.jeeng.com/cdn-cgi/l/email-protection)). Note that Jeeng has to undertake a process to identify a data subject exercising their rights. Jeeng may keep details of such rights exercised for its own compliance and audit requirements. Please note that Personal Data may be either deleted or retained in an aggregated manner without being linked to any identifiers or Personal Data, depending on technical commercial capability. Such information may continue to be used by Jeeng.
 
 Data subjects in the EU have the right to lodge a complaint, with a data protection supervisory authority in the place of their habitual residence. A list of Supervisory Authorities is available here:  [https://edpb.europa.eu/about-edpb/board/members\_en](https://edpb.europa.eu/about-edpb/board/members_en)
 
@@ -160,15 +160,15 @@ Jeeng complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S
 
 With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Jeeng is subject to the regulatory and enforcement powers of the U.S. Federal Trade Commission.
 
-Pursuant to the Privacy Shield Frameworks, EU individuals have the right to obtain our confirmation of whether we maintain personal information relating to you in the United States. Upon request, we will provide you with access to the personal information that we hold about you. You may also correct, amend, or delete the personal information we hold about you. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data transferred to the United States under Privacy Shield, should direct their query to dpo@powerinbox.com. If requested to remove data, we will respond within a reasonable timeframe.
+Pursuant to the Privacy Shield Frameworks, EU individuals have the right to obtain our confirmation of whether we maintain personal information relating to you in the United States. Upon request, we will provide you with access to the personal information that we hold about you. You may also correct, amend, or delete the personal information we hold about you. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data transferred to the United States under Privacy Shield, should direct their query to [\[email protected\]](https://www.jeeng.com/cdn-cgi/l/email-protection) If requested to remove data, we will respond within a reasonable timeframe.
 
-We will provide an individual opt-out choice, or opt-in for sensitive data, before we share your data with third parties other than our agents, or before we use it for a purpose other than which it was originally collected or subsequently authorized. To request to limit the use and disclosure of your personal information, please submit a written request to dpo@powerinbox.com.
+We will provide an individual opt-out choice, or opt-in for sensitive data, before we share your data with third parties other than our agents, or before we use it for a purpose other than which it was originally collected or subsequently authorized. To request to limit the use and disclosure of your personal information, please submit a written request to [\[email protected\]](https://www.jeeng.com/cdn-cgi/l/email-protection)
 
 In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
 Jeeng’s accountability for personal data that it receives in the United States under the Privacy Shield and subsequently transfers to a third party is described in the Privacy Shield Principles. In particular, Jeeng remains responsible and liable under the Privacy Shield Principles if third-party agents that it engages to process personal data on its behalf do so in a manner inconsistent with the Principles, unless Jeeng proves that it is not responsible for the event giving rise to the damage.
 
-In compliance with the Privacy Shield Principles, Jeeng commits to resolve complaints about your privacy and our collection or use of your personal information transferred to the United States pursuant to Privacy Shield. European Union individuals with Privacy Shield inquiries or complaints should first contact Jeeng by email at dpo@powerinbox.com
+In compliance with the Privacy Shield Principles, Jeeng commits to resolve complaints about your privacy and our collection or use of your personal information transferred to the United States pursuant to Privacy Shield. European Union individuals with Privacy Shield inquiries or complaints should first contact Jeeng by email at [\[email protected\]](https://www.jeeng.com/cdn-cgi/l/email-protection)
 
 Jeeng has further committed to refer unresolved privacy complaints under the Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU Privacy Shield. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [http://www.bbb.org/EU-privacy-shield/for-eu-consumers](http://www.bbb.org/EU-privacy-shield/for-eu-consumers) for more information and to file a complaint. This service is provided free of charge to you. Under certain conditions, individuals may have the right to invoke binding arbitration.
 
@@ -184,7 +184,7 @@ Pursuant to California Civil Code sections 1798.110 and 1798.115, you have the r
 4.  The categories of third parties with whom the business shares personal information.
 5.  The specific pieces of personal information Jeeng has collected about you.
 
-To make any such requests, please contact us at: dpo@powerinbox.com.
+To make any such requests, please contact us at: [\[email protected\]](https://www.jeeng.com/cdn-cgi/l/email-protection)
 
 Jeeng will disclose and deliver the required information to a consumer free of charge within 45 days of receiving a verifiable customer request from the customer. Jeeng shall promptly take steps to determine whether the request is a verifiable customer request, but this shall not limit Jeeng’s duty to disclose and deliver the information within 45 days of receipt of the customer’s request. The time period to provide the required information may be extended once by an additional 45 days when reasonably necessary, provided the customer is provided notice of the extension within the first 45-day period.
 
@@ -197,7 +197,7 @@ Pursuant to California Civil Code section 1798.125, Jeeng shall not discriminate
 
 ### 13\. GENERAL
 
-Minors. We do not knowingly collect or solicit information or data from children under the age of 16 or knowingly allow children under the age of 16 to register for the Services. If you are under the age of 16, do not register or attempt to register for any of the Services or send any information about yourself to us. If we learn that we have collected or have been sent Personal Data or from a child under the age of 16, we will delete that Personal Data as soon as reasonably practicable without any liability to Jeeng. If you believe that we might have collected or been sent information from a minor under the age of 16, please contact us at: [dpo@powerinbox.com](mailto:privacy@powerinbox.com) as soon as possible.
+Minors. We do not knowingly collect or solicit information or data from children under the age of 16 or knowingly allow children under the age of 16 to register for the Services. If you are under the age of 16, do not register or attempt to register for any of the Services or send any information about yourself to us. If we learn that we have collected or have been sent Personal Data or from a child under the age of 16, we will delete that Personal Data as soon as reasonably practicable without any liability to Jeeng. If you believe that we might have collected or been sent information from a minor under the age of 16, please contact us at: [\[email protected\]](https://www.jeeng.com/cdn-cgi/l/email-protection#) as soon as possible.
 
 Do Not Sell Personal Information. Jeeng does not sell any data subjects’ personal information.
 
@@ -209,6 +209,6 @@ Jeeng may change and update the terms of this policy from time to time. Therefor
 
 ### 15\. CONTACT US OR OUR DATA PROTECTION OFFICER
 
-You may contact us or our data protection officer, as may be required. Any access requests may be lodged with us at [dpo@powerinbox.com](mailto:dpo@powerinbox.com).
+You may contact us or our data protection officer, as may be required. Any access requests may be lodged with us at [\[email protected\]](https://www.jeeng.com/cdn-cgi/l/email-protection#).
 
 _(Version date of this policy: April 5, 2021)_
