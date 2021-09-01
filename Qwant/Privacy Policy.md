@@ -67,7 +67,7 @@ No. We only use one cookie to remember your technical preferences for using Qwan
 Why are you transferring data to Microsoft, and what data is it?
 ----------------------------------------------------------------
 
-Microsoft provides some of the search results you see on our pages, and provides ads to the keywords in your search inquiry. This means that we need to send Microsoft some information related to your search that allows our other partners to return results and ads relevant to that search, and to prevent fraudulent clicks or other activities that are not permitted by our Terms of Use. 
+Microsoft provides some of the search results you see on our pages, and provides ads to the keywords in your search inquiry. This means that we need to send Microsoft some information related to your search that allows our partner to return results and ads relevant to that search, and to prevent fraudulent clicks or other activities that are not permitted by our Terms of Use. 
 
 In order to detect fraud, Qwant uses a specialized service offered by Microsoft, which does not have access to the keywords of your search. Only your IP address and the browser (your “User Agent”) are communicated to this specialized service to calculate a fraud probability score. Keywords are sent separately to another service that does not know your IP address.
 
@@ -336,4 +336,4 @@ What data is processed for the Qwant mobile application on Android and iOS?
 
 We do not integrate any tracker in our applications nor any advertising ID. Qwant does not process any specific personal data when you use the Qwant application for Android or iOS. The processing of personal data carried out by Qwant during your navigation and use of our Services from the application are exclusively those described above.
 
-*   Last update: August 31, 2021
+*   Last update: September 1, 2021
