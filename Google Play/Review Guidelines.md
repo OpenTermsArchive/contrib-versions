@@ -1640,15 +1640,3 @@ If you need more information regarding an enforcement action or a rating/comment
 *   [Report inappropriate apps & comments](https://support.google.com/googleplay/android-developer/answer/113417?hl=en&ref_topic=3453554)
 *   [My app has been removed from Google Play](https://support.google.com/googleplay/android-developer/answer/2477981?hl=en&ref_topic=3453554)
 *   [Understanding Google Play developer account terminations](https://support.google.com/googleplay/android-developer/answer/2491922?hl=en&ref_topic=3453554)
-
-  
-  
- 
-
-Was this helpful?
-
-How can we improve it?
-
-YesNo
-
-Submit
