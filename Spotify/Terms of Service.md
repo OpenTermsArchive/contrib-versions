@@ -1,4 +1,4 @@
-_From time to time we clarify our terms to make them easier to understand. We're updating our terms today (September 1, 2021) to ensure our language is clear, but we aren't making any material changes to the substance of the terms in connection with this update. We have also moved the [User Guidelines](https://www.spotify.com/legal/user-guidelines/) to a standalone page which can be found here._
+\_From time to time we clarify our terms to make them easier to understand. We're updating our terms today (September 1, 2021) to ensure our language is clear, but we aren't making any material changes to the substance of the terms in connection with this update. We have also moved the User Guidelines to a standalone page which can be found \_ [_here_](https://www.spotify.com/legal/user-guidelines/) _._
 
 [**Spotify Terms of Use**](#spotify-terms-of-use)
 =================================================
@@ -22,7 +22,7 @@ _From time to time we clarify our terms to make them easier to understand. We're
 [](#1-introduction)1\. Introduction
 ===================================
 
-Please read these Terms of Use (these\*\* "Terms\*\*") carefully as they govern your use of (which includes access to) Spotify's personalized services for streaming music and other content, including all of our websites and software applications that incorporate or link to these Terms (collectively, the "**Spotify Service**") and any music, videos, podcasts, or other material that is made available through the Spotify Service (the "**Content**").
+Please read these Terms of Use (these "**Terms**") carefully as they govern your use of (which includes access to) Spotify's personalized services for streaming music and other content, including all of our websites and software applications that incorporate or link to these Terms (collectively, the "**Spotify Service**") and any music, videos, podcasts, or other material that is made available through the Spotify Service (the "**Content**").
 
 Use of the Spotify Service may be subject to additional terms and conditions presented by Spotify, which are hereby incorporated by this reference into these Terms.
 
