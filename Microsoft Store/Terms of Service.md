@@ -5,6 +5,21 @@ Last Updated: June 24, 2015
 
   
 
+*   [Acceptance of Terms](#o1)
+*   [Description of Services](#o2)
+*   [Personal and Non-Commercial Use Limitation](#o3)
+*   [Privacy and Protection of Personal Information](#o4)
+*   [Notice Specific to Software Available on this Website](#o5)
+*   [Notice Specific to Documents Available on this Website](#o6)
+*   [Notices Regarding Software, Documents, and Services Available on this Website](#o7)
+*   [Member Account, Password, and Security](#o8)
+*   [No Unlawful or Prohibited Use](#o9)
+*   [Use of Services](#o10)
+*   [Materials Provided to Microsoft or Posted at any Microsoft Website](#o11)
+*   [Notices and Procedure for Making Claims of Copyright Infringement](#o12)
+*   [Links to Third-Party Sites](#o13)
+*   [Unsolicited Idea Submission Policy](#o14)
+
 Acceptance of Terms
 -------------------
 
