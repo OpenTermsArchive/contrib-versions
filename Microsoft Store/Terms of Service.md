@@ -3,23 +3,6 @@ Microsoft Terms of Use
 
 Last Updated: June 24, 2015
 
-  
-
-*   [Acceptance of Terms](#o1)
-*   [Description of Services](#o2)
-*   [Personal and Non-Commercial Use Limitation](#o3)
-*   [Privacy and Protection of Personal Information](#o4)
-*   [Notice Specific to Software Available on this Website](#o5)
-*   [Notice Specific to Documents Available on this Website](#o6)
-*   [Notices Regarding Software, Documents, and Services Available on this Website](#o7)
-*   [Member Account, Password, and Security](#o8)
-*   [No Unlawful or Prohibited Use](#o9)
-*   [Use of Services](#o10)
-*   [Materials Provided to Microsoft or Posted at any Microsoft Website](#o11)
-*   [Notices and Procedure for Making Claims of Copyright Infringement](#o12)
-*   [Links to Third-Party Sites](#o13)
-*   [Unsolicited Idea Submission Policy](#o14)
-
 Acceptance of Terms
 -------------------
 
@@ -33,12 +16,12 @@ Through its network of Web properties, Microsoft provides you with access to a v
 Personal and Non-Commercial Use Limitation
 ------------------------------------------
 
-Unless otherwise specified, the Services are for your personal and non-commercial use. You may not modify, copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer, or sell any information, software, products or services obtained from the Services.
+Unless otherwise specified, the Services are for your personal and non-commercial use. You may not modify, copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer, or sell any information, software, products, or services obtained from the Services.
 
 Privacy and Protection of Personal Information
 ----------------------------------------------
 
-See the [Privacy Statement](http://go.microsoft.com/fwlink/?linkid=248681) disclosures relating to the collection and use of your information.
+See the [Privacy Statement](http://go.microsoft.com/fwlink/?linkid=248681) disclosures relating to the collection and use of your information.
 
 Notice Specific to Software Available on this Website
 -----------------------------------------------------
@@ -64,9 +47,8 @@ MICROSOFT AND/OR ITS RESPECTIVE SUPPLIERS MAKE NO REPRESENTATIONS ABOUT THE SUIT
 
 THE DOCUMENTS AND RELATED GRAPHICS PUBLISHED ON THE SERVICES COULD INCLUDE TECHNICAL INACCURACIES OR TYPOGRAPHICAL ERRORS. CHANGES ARE PERIODICALLY ADDED TO THE INFORMATION HEREIN. MICROSOFT AND/OR ITS RESPECTIVE SUPPLIERS MAY MAKE IMPROVEMENTS AND/OR CHANGES IN THE PRODUCT(S) AND/OR THE PROGRAM(S) DESCRIBED HEREIN AT ANY TIME.
 
-Notices Regarding Software, Documents, and Services Available  
-on this Website
--------------------------------------------------------------------------------
+Notices Regarding Software, Documents, and Services Available on this Website
+-----------------------------------------------------------------------------
 
 IN NO EVENT SHALL MICROSOFT AND/OR ITS RESPECTIVE SUPPLIERS BE LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF SOFTWARE, DOCUMENTS, PROVISION OF OR FAILURE TO PROVIDE SERVICES, OR INFORMATION AVAILABLE FROM THE SERVICES.
 
@@ -125,7 +107,7 @@ Notices and Procedure for Making Claims of Copyright Infringement
 
 Pursuant to Title 17, United States Code, Section 512(c)(2), notifications of claimed copyright infringement should be sent to Service Provider's Designated Agent. ALL INQUIRIES NOT RELEVANT TO THE FOLLOWING PROCEDURE WILL NOT RECEIVE A RESPONSE.
 
-See [Notice and Procedure for Making Claims of Copyright Infringement](http://www.microsoft.com/info/cpyrtinfrg.aspx).
+[Explore Notice and Procedure for Making Claims of Copyright Infringement](http://aka.ms/notices-of-infringement).
 
 Links to Third Party Sites
 --------------------------
