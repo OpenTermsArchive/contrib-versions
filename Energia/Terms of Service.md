@@ -488,7 +488,7 @@ The normal thresholds for nightsaver apply in terms of the kWh usage (Above 3,00
 Contract length/Type  
   
 The contract duration is 12 months, after which the customer will revert to Energia’s standard Nightsaver plan.  
-The price of the electricity and gas unit rates are fixed for 12 months. Electricity rates (Day €20.28 c /kwh  Night €5.84 c /kwh) Gas €5.17 c /kwh **Valid from 1st August 2021, until 31st August 2021.**  
+The price of the electricity and gas unit rates are fixed for 12 months. Electricity rates (Day €20.28 c /kwh  Night €5.84 c /kwh) Gas €5.17 c /kwh **Valid from 1st September 2021, until 30th September 2021.**  
   
 The standing charges are subject to change in accordance with our General Terms and Conditions.  
   
