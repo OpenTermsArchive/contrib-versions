@@ -5,7 +5,7 @@ Thryv, Inc. and its affiliates (individually and collectively known as “**Thry
 
 Revised: July 2, 2021
 
-If you are located in Australia, the Sensis Pty Ltd privacy policy applies to you. Please see [www.sensis.com.au/about/privacy](https://www.sensis.com.au/about/privacy).
+If you are located in Australia, the “Thryv Australia Pty Ltd privacy policy applies to you. Please see [https://corporate.thryv.com.au/privacy](https://corporate.thryv.com.au/privacy/).
 
 Your information privacy is important to us.
 
