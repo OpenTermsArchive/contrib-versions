@@ -26,7 +26,6 @@ Account hijacking
 Do not access another user's account without their permission. We may take appropriate action if we are notified of account hijacking, which may include removing access to some of our products or disabling your Google Account.
 
 Account inactivity
-------------------
 
 Use the product to remain active. Activity includes accessing the product’s content or storing new content on the product at least once every 2 years. We may take action on inactive accounts, which may include deleting your content from the product. [Learn more here](https://support.google.com/drive/answer/9312312#activity).
 
