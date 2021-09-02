@@ -390,6 +390,7 @@ The open source software platform that runs everywhere from the smartphone, the 
     *   [Raspberry Pi](https://ubuntu.com/download/raspberry-pi)
     *   [Server](https://ubuntu.com/download/server)
     *   [Desktop](https://ubuntu.com/download/desktop)
+    *   [Xilinx](https://ubuntu.com/download/xilinx)
     *   [Alternative downloads](https://ubuntu.com/download/alternative-downloads)
     *   [Ubuntu flavours](https://ubuntu.com/download/flavours)
 *   [Appliance](https://ubuntu.com/appliance)
