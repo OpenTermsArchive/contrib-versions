@@ -171,7 +171,7 @@ We will only share the following personal data with those outlined in the table 
 | Other Spotify users | To share information about your use of the Spotify Service with other Spotify users, including your ‘Spotify Followers’.  <br>For example, under “Social” settings you can choose whether to share your recently played artists and your playlists on your profile. |
 | Artists and record labels | To receive news or promotional offers directly from artists, record labels or other partners.  <br>You may choose to share personal data (for example, your email address) for this purpose. You’ll always have the option to change your mind and withdraw your consent at any time. |
 
-\*\* Information we may share\*\*
+**Information we may share**
 
 See this table for details of who we share to and why.
 
