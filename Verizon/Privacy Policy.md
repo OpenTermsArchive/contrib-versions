@@ -746,7 +746,7 @@ Open all Close all
     
     sale
     
-    Nevada law defines "sale" as the exchange of certain personally identifiable customer information for money, where the recipient also intends to sell that information. Personally identifiable information includes name, address, phone number, SSN, or any identifier that can be used to contact you electronically.  
+    Nevada law defines "sale" as the exchange of certain personally identifiable customer information for money. Personally identifiable information includes name, address, phone number, SSN, or any identifier that can be used to contact you electronically.  
     
     Verizon doesn’t sell personally identifiable information today and we don’t have plans to start. If Verizon ever starts selling such personal information, current Verizon customers will be opted out. If you have any questions, please contact us at nevada.privacy@verizon.com.
     
