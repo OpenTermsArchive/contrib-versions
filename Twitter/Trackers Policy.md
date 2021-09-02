@@ -28,14 +28,14 @@ Our services use these technologies to deliver, measure, and improve our service
         
     *   To protect your security.
     *   To let you to view content with limited distribution.
-    *   To help us detect and fight spam, abuse, and other activities that violate the [Twitter Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules) and the [Periscope Community Guidelines](https://www.periscope.tv/content).
+    *   To help us detect and fight spam, abuse, and other activities that violate the [Twitter Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html) and the [Periscope Community Guidelines](https://www.periscope.tv/content).
     *   For example, these technologies help authenticate your access to Twitter and Periscope and prevent unauthorized parties from accessing your account. They also let us show you appropriate content through our services.  
          
 *   **Preferences:  
       
     **
     *   To remember information about your browser and your preferences.
-    *   For example, cookies help us remember your preferred language or the country that you are in. We can then provide you with Twitter and Periscope content in your preferred language without having to ask you each time you visit Twitter or Periscope. On Twitter, we can also customize content based on your country, such as showing you what topics are trending near you, or to withhold certain content based on applicable local laws. Learn more about [trends](https://help.twitter.com/en/using-twitter/twitter-trending-faqs) and [country withheld content](https://help.twitter.com/en/rules-and-policies/tweet-withheld-by-country).  
+    *   For example, cookies help us remember your preferred language or the country that you are in. We can then provide you with Twitter and Periscope content in your preferred language without having to ask you each time you visit Twitter or Periscope. On Twitter, we can also customize content based on your country, such as showing you what topics are trending near you, or to withhold certain content based on applicable local laws. Learn more about [trends](https://help.twitter.com/en/using-twitter/twitter-trending-faqs.html) and [country withheld content](https://help.twitter.com/en/rules-and-policies/tweet-withheld-by-country.html).  
          
 *   **Analytics and research:  
       
@@ -71,7 +71,7 @@ We (along with third parties) use these technologies on our websites, applicatio
 
 We are committed to offering you meaningful privacy choices. You have a number of options to control or limit how we, our partners, and other third parties use cookies:  
 
-*   To control whether [Twitter stores information about other websites where you’ve seen Twitter content](https://help.twitter.com/en/using-twitter/tailored-suggestions#), adjust the **Track where you see Twitter content across the web** setting in your **Personalization and data** settings. If you have this setting turned off or are in the European Union or EFTA States, Twitter will not store or use such web page visits to improve your experience in the future. If we’ve previously stored your web browsing history, your experience may continue to be personalized based on information already inferred from that history.
+*   To control whether [Twitter stores information about other websites where you’ve seen Twitter content](https://help.twitter.com/en/using-twitter/tailored-suggestions.html#), adjust the **Track where you see Twitter content across the web** setting in your **Personalization and data** settings. If you have this setting turned off or are in the European Union or EFTA States, Twitter will not store or use such web page visits to improve your experience in the future. If we’ve previously stored your web browsing history, your experience may continue to be personalized based on information already inferred from that history.
 *   If you do not want Twitter to show you interest-based ads on and off of Twitter, there are several ways to disable this feature:  
       
     *   Using your Twitter settings, visit the **Personalization and data** settings and adjust the setting **Personalize ads**.
@@ -86,4 +86,4 @@ We are committed to offering you meaningful privacy choices. You have a number o
 *   To control cookies, you can modify your settings in most web browsers to accept or deny cookies or to request your permission each time a site attempts to set a cookie. Although cookies are not required for some parts of our services, Twitter and Periscope may not work properly if you disable cookies entirely. For example, you cannot log into twitter.com or pscp.tv if you've turned off all cookie use.  
     
 
-Note: Please confirm that you are logged in if you want to view or change the web settings for your Twitter account. Changing your Twitter settings in your web browser when you are logged out will only affect behavior on that browser while you are not logged in to Twitter. [Learn more](https://help.twitter.com/en/personalization-data-settings) about how to access your Personalization and data settings, including in your Twitter mobile app.
+Note: Please confirm that you are logged in if you want to view or change the web settings for your Twitter account. Changing your Twitter settings in your web browser when you are logged out will only affect behavior on that browser while you are not logged in to Twitter. [Learn more](https://help.twitter.com/en/personalization-data-settings.html) about how to access your Personalization and data settings, including in your Twitter mobile app.
