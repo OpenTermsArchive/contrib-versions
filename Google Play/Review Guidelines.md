@@ -1688,7 +1688,7 @@ Policy coverage
 
 Our policies apply to any content your app displays or links to, including any ads it shows to users and any user-generated content it hosts or links to. Furthermore, they apply to any content from your developer account which is publicly displayed in Google Play, including your developer name and the landing page of your listed developer website.
 
-We don't allow apps that let users install other apps to their devices. Apps that provide access to other apps, games or software without installation, including features and experiences provided by third parties, must ensure that all the content they provide access to adheres to all [Google Play policies](https://https//support.google.com/googleplay/android-developer/answer/9904549) and may also be subject to additional policy reviews.
+We don't allow apps that let users install other apps to their devices. Apps that provide access to other apps, games or software without installation, including features and experiences provided by third parties, must ensure that all the content they provide access to adheres to all [Google Play policies](https://support.google.com/googleplay/android-developer/answer/11044265) and may also be subject to additional policy reviews.
 
 Defined terms used in these policies have the same meaning as in the [Developer Distribution Agreement](https://play.google.com/about/developer-distribution-agreement.html) (DDA). In addition to complying with these policies and the DDA, the content of your app must be rated in accordance with our [Content rating guidelines](https://support.google.com/googleplay/android-developer/answer/188189).
 
