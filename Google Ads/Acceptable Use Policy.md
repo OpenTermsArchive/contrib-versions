@@ -3,6 +3,8 @@ Google Ads policies
 
 Google provides translated versions of our Help Center as a convenience, though they are not meant to change the content of our policies. The English version is the official language we use to enforce our policies. To view this article in a different language, use the language dropdown at the bottom of the page.
 
+Display & Video 360 users must comply with this Google Ads policy. Visit the [Display & Video 360 help center](https://support.google.com/displayvideo/answer/6027406) for additional restrictions.
+
 Welcome to the Google Advertising Policies Center
 -------------------------------------------------
 
@@ -88,6 +90,10 @@ Restricted content and features
 The policies below cover content that is sometimes legally or culturally sensitive. Online advertising can be a powerful way to reach customers, but in sensitive areas, we also work hard to avoid showing these ads when and where they might be inappropriate.
 
 For that reason, we allow the promotion of the content below, but on a limited basis. These promotions may not show to every user in every location, and advertisers may need to meet additional requirements before their ads are eligible to run. Note that not all ad products, features, or networks are able to support this restricted content. Further details can be found in the Policy Center.
+
+### [Default Ads Treatment](https://support.google.com/adspolicy/answer/10959786)
+
+> Google is committed to delivering a safe and trustworthy ad experience for all users. That’s why we limit serving certain types of ad categories for users that aren't signed in or users that our systems indicate are under 18.
 
 ### [Sexual content](https://support.google.com/adspolicy/answer/6023699)
 
