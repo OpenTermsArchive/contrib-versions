@@ -5,9 +5,9 @@ Learn more about the Amazon Kindle Store Terms of Use.
 Kindle Store Terms of Use
 =========================
 
-**Last updated: July 12, 2021**
+**Last updated: August 30, 2021**
 
-This is an agreement between you and Amazon.com Services LLC (with its affiliates, "Amazon", "we" or "us"). Please read these Amazon Kindle Store Terms of Use, the Amazon.com Privacy Notice ([www.amazon.com/privacy](https://www.amazon.com/privacy)), the Amazon.com Conditions of Use ([www.amazon.com/conditionsofuse](https://www.amazon.com/conditionsofuse)), and the other applicable rules, policies, and terms posted on the Amazon.com website or the Kindle Store or provided with any Service (collectively, this "Agreement") before purchasing or using any aspect of the Service. By using the Kindle Store, purchasing or using any Kindle Content, using any Kindle Application, or using any aspect of the Service, you agree to be bound by the terms of this Agreement on behalf of yourself and all members of your household and others who use the Service under your account. If you do not accept the terms of this Agreement, then you may not use the Kindle Store, any Kindle Content, any Kindle Application or the Service.
+This is an agreement between you and Amazon.com Services LLC (with its affiliates, "Amazon", "we" or "us"). Please read these Amazon Kindle Store Terms of Use, the [Amazon.com Privacy Notice](https://www.amazon.com/privacy), the [Amazon.com Conditions of Use](http://www.amazon.com/conditionsofuse), and the other applicable rules, policies, and terms posted on the Amazon.com website or the Kindle Store or provided with any Service (collectively, this "Agreement") before purchasing or using any aspect of the Service. By using the Kindle Store, purchasing or using any Kindle Content, using any Kindle Application, or using any aspect of the Service, you agree to be bound by the terms of this Agreement on behalf of yourself and all members of your household and others who use the Service under your account. If you do not accept the terms of this Agreement, then you may not use the Kindle Store, any Kindle Content, any Kindle Application or the Service.
 
 For the purposes of this Agreement:
 
@@ -15,13 +15,13 @@ For the purposes of this Agreement:
 
 "Kindle Application" means software we make available that permits users to shop for, download, browse, or use the Kindle Store or Kindle Content on Supported Device.
 
-"Kindle Content" means digital content obtained through the Kindle Store, such as books, newspapers, magazines, and other content.
+"Kindle Content" means digital content obtained through the Kindle Store, such as books, comics, newspapers, magazines, and other content.
 
 “Kindle Vella Content” means digital content obtained through the Kindle Vella Service.
 
-"Kindle Store" means our stores, on Kindle Applications and on our website, the homepage of which is located at [www.amazon.com/kindlestore](https://www.amazon.com/kindlestore).
+"Kindle Store" means our stores, on Kindle Applications and on our website, the homepage of which is located at [https://www.amazon.com/kindlestore](https://www.amazon.com/kindlestore)
 
-"Subscription Content" means Kindle Content made available for access only for so long as you remain an active member of a subscription or membership program, such as Kindle Unlimited or Amazon Prime.
+"Subscription Content" means Kindle Content made available for access only for so long as you remain an active member of a subscription or membership program, such as Kindle Unlimited, comiXology Unlimited, or Amazon Prime.
 
 "Service" means the provision of the Kindle Store, Kindle Content, Kindle Vella, Kindle Application, and support and other services that we provide Kindle Store, Kindle Content, Kindle Vella, and Kindle Application users.
 
@@ -37,7 +37,7 @@ Book Returns; Subscription Cancellations and Termination. You may return a book 
 
 Risk of Loss. Risk of loss for Kindle Content transfers when you download or access the Kindle Content.
 
-2\. Use of Kindle Applications. You may use the Kindle Applications only on Supported Devices. For additional terms that apply to the Kindle Applications, see the Additional Amazon Software Terms contained in the Amazon.com Conditions of Use ([www.amazon.com/conditionsofuse](https://www.amazon.com/conditionsofuse)) and the terms contained in the Legal or similar section in the Settings menu of your Kindle Application.
+2\. Use of Kindle Applications. You may use the Kindle Applications only on Supported Devices. For additional terms that apply to the Kindle Applications, see the Additional Amazon Software Terms contained in the [Amazon.com Conditions of Use](http://www.amazon.com/conditionsofuse) and the terms contained in the Legal or similar section in the Settings menu of your Kindle Application.
 
 3\. Kindle Vella Tokens
 
@@ -51,7 +51,7 @@ Limited to U.S. Kindle Vella is currently only available to customers located in
 
 4\. General
 
-Information Provided to Amazon. The Kindle Application will provide Amazon with information about use of your Kindle Application and its interaction with Kindle Content and the Service (such as last page read, content archiving, available memory, up-time, log files, and signal strength). Information provided to Amazon may be stored on servers outside the country in which you live. We will handle any information we receive in accordance with the Amazon.com Privacy Notice ([www.amazon.com/privacy](https://www.amazon.com/privacy)).
+Information Provided to Amazon. The Kindle Application will provide Amazon with information about use of your Kindle Application and its interaction with Kindle Content and the Service (such as last page read, content archiving, available memory, up-time, log files, and signal strength). Information provided to Amazon may be stored on servers outside the country in which you live. We will handle any information we receive in accordance with the [Amazon.com Privacy Notice](http://www.amazon.com/privacy).
 
 Information Provided to Others. You are responsible for any information you provide to others using the Service. Use of information you provide to these third parties will be subject to any privacy notice or other terms that they may provide to you.
 
@@ -59,10 +59,10 @@ Termination; Fraud. Your rights under this Agreement will automatically terminat
 
 Changes to Service; Amendments. We may change, suspend, or discontinue the Service, in whole or in part, including adding or removing Subscription Content from a Service, at any time without notice. We may amend any of this Agreement's terms at our sole discretion by posting the revised terms on the Amazon.com website. Your continued use of the Kindle Application or any aspect of the Service after the effective date of the revised Agreement terms constitutes your acceptance of the terms.
 
-Disputes. Any dispute or claim arising from or relating to this Agreement or the Service is subject to the sections on dispute resolution, governing law, disclaimer of warranties and limitation of liability and all other terms in the Amazon.com Conditions of Use ([www.amazon.com/conditionsofuse](https://www.amazon.com/conditionsofuse)).
+Disputes. Any dispute or claim arising from or relating to this Agreement or the Service is subject to the sections on dispute resolution, governing law, disclaimer of warranties and limitation of liability and all other terms in the [Amazon.com Conditions of Use](http://www.amazon.com/conditionsofuse).
 
-Limitation of Liability. Without limiting the Disclaimer of Warranties and Limitation of Liability in the Amazon.com Conditions of Use ([www.amazon.com/conditionsofuse](https://www.amazon.com/conditionsofuse)), (1) in no event will our or our software licensors' total liability to you for all damages (other than as may be required by applicable law in cases involving personal injury) arising out of or related to your use or inability to use the Kindle Application exceed the amount of fifty dollars ($50.00); and (2) in no event will our or any other Content Provider's aggregate liability to you for all damages arising from your use of the Service (excluding the Kindle Application) exceed the amount you actually paid for the Kindle Content or for the aspect of the Service related to your claim for damages. These limitations will apply to you even if the remedies fail of their essential purpose.
+Limitation of Liability. Without limiting the Disclaimer of Warranties and Limitation of Liability in the [Amazon.com Conditions of Use](http://www.amazon.com/conditionsofuse), (1) in no event will our or our software licensors' total liability to you for all damages (other than as may be required by applicable law in cases involving personal injury) arising out of or related to your use or inability to use the Kindle Application exceed the amount of fifty dollars ($50.00); and (2) in no event will our or any other Content Provider's aggregate liability to you for all damages arising from your use of the Service (excluding the Kindle Application) exceed the amount you actually paid for the Kindle Content or for the aspect of the Service related to your claim for damages. These limitations will apply to you even if the remedies fail of their essential purpose.
 
-Contact Information. For help with your Kindle Application, the Service, the Kindle Store, Kindle Content, or resolving other issues, please contact Customer Service at [www.amazon.com/contact-us/](https://www.amazon.com/contact-us/)(or by email at kindle-cs-support@amazon.com).
+Contact Information. For help with your Kindle Application, the Service, the Kindle Store, Kindle Content, or resolving other issues, please contact Customer Service at [https://www.amazon.com/contact-us/](https://www.amazon.com/contact-us/) (or by email at kindle-cs-support@amazon.com).
 
 For communications concerning this Agreement, please write to Amazon, Attn: Legal Department, P.O. Box 81226, Seattle, WA 98108-1226.
