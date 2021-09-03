@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-#### Last Updated: August 18, 2021
+#### Last Updated: September 2, 2021
 
 The Service Terms below govern your use of the Services. Capitalized terms used in these Service Terms but not defined below are defined in the [AWS Customer Agreement](https://aws.amazon.com/agreement/) or other agreement with us governing your use of the Services (the “Agreement”). For purposes of these Service Terms, “Your Content” includes any “Company Content” and any “Customer Content,” and “AWS Content” includes “Amazon Properties.”
 
@@ -776,11 +776,21 @@ If your messages sent through Amazon MQ are blocked, delayed, or prevented from 
 
 **58.3.** AWS Elemental Media Event Management (MEM)
 
-**58.3.1** We may request that you implement specific AWS Elemental Software updates and/or provide us with prompt and reasonable access to your AWS Elemental Products. MEM Services do not include installation, configuration, administration, performance, operation, error, fault or defect resolution or other support and maintenance of any AWS Elemental Products, AWS Services or any third-party products (or any combination of any of the foregoing).
+**58.3.1** In order to provide MEM, we may request that you implement specific AWS Elemental Software updates and/or provide us with prompt and reasonable access to your AWS Elemental Products. MEM Services do not include installation, configuration, administration, performance, operation, error, fault or defect resolution or other support and maintenance of any AWS Elemental Products, AWS Services or any third-party products (or any combination of any of the foregoing).
 
 **58.3.2** AWS does not provide security, risk, governance, legal or compliance advice. You are responsible for making your own assessment of whether your use of the MEM Services meets applicable legal and regulatory requirements. You are also solely responsible for carrying out any advice or recommendations we provide.  
 
-**58.3.3** Payments for MEM Services are not refundable, and your sole remedy is for AWS to re-perform the relevant MEM Services, provided that you must notify us of any failure within 10 business days of the original date of performance.     
+**58.3.3** Payments for MEM Services are not refundable, and your sole remedy is for AWS to re-perform the relevant MEM Services, provided that you must notify us of any failure within 10 business days of the original date of performance.  
+
+**58.4** Advanced Video Support Services (AVSS) 
+
+**58.4.1**  AVSS must be ordered at least ninety (90) days before the date of the first event (as described in the AVSS engagement summary we send you). We will invoice you annually in advance for your purchase of AVSS.  Payments for AVSS are not refundable. 
+
+**58.4.2**  In order to provide AVSS, we may request that you implement specific AWS Elemental Software updates and/or provide us with prompt and reasonable access to your AWS Elemental Products. 
+
+**58.4.3**  This Section 58.4 incorporates by reference Sections 1.2, 1.4 - 1.8, and 1.11 of the AWS Elemental [Service Plan](https://aws.amazon.com/legal/elemental-appliances-software-service-plan/), which will apply to your use of AVSS. 
+
+**58.4.4**  AWS reserves the right to charge you for support services performed outside the scope of the AVSS engagement summary as Professional Services.  
 
 #### 59\. Alexa for Business
 
@@ -852,7 +862,9 @@ You agree not to and will not attempt to perform any network discovery or load t
 
 #### 64\. Amazon FSx
 
-Use of Microsoft Software on Amazon FSx for Windows File Server is subject to Section 5.1 above. Microsoft is an intended third-party beneficiary of this Section 64, with the right to enforce its provisions.  
+64.1. Amazon FSx for Windows File Server. Use of Microsoft Software on Amazon FSx for Windows File Server is subject to Section 5.1 above. Microsoft is an intended third-party beneficiary of this Section 64.1, with the right to enforce its provisions.
+
+64.2. Amazon FSx for NetApp ONTAP. AWS may share Account Information, logs or other Service Attributes with NetApp to enable NetApp to provide technical and sales support.  
 
 #### 65\. AWS Security Assurance Services
 
