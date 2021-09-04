@@ -1,8 +1,34 @@
 #### Privacy Policy
 
-Last Updated: May 16, 2018
+Last Updated: April 15, 2021
 
 Mix respects the privacy of its users. This Privacy Policy (**“Privacy Policy”**) informs you about our online and offline information practices, the kinds of information we may collect, how we intend to use and share that information, and how you can opt-out of a use or correct or change such information.
+
+* * *
+
+##### Table of Contents
+
+*   [**About Us**](#about-us)
+*   [**About the Mix Services**](#about-services)
+*   [**About This Privacy Policy**](#about-privacy)
+*   [**Changes to This Privacy Policy**](#changes)
+*   [**Your Account**](#account)
+*   [**Why Does Mix Collect Information?**](#why)
+*   [**Some Terms We Use in This Privacy Policy**](#terms)
+*   [**What Information Does Mix Collect?**](#collect)
+*   [**Does Mix Use Cookies or Other Tracking Methods?**](#cookies)
+*   [**How Can You Edit or Remove Your Personal or Other Information?**](#edit)
+*   [**How Does Mix Use Information Internally?**](#internal)
+*   [**When Does Mix Share Information with Others, and with Whom?**](#sharing)
+*   [**How Do I Opt Out?**](#opt-out)
+*   [**Where and How Long Will Information Be Collected and Stored?**](#storage)
+*   [**How Secure Is the Information?**](#security)
+*   [**What Is the Policy Towards Children?**](#age-policy)
+*   [**Supplemental Notice for California Residents**](#ca)
+*   [**What Policies Apply to Third Party Websites, Services and Applications?**](#third-party)
+*   [**Supplemental Notice for Nevada Residents**](#nv)
+*   [**Additional Information for EU Residents**](#eu)
+*   [**Contact Us**](#contact)
 
 * * *
 
@@ -63,7 +89,7 @@ We want to give our Users the best possible experience, personalized for each Us
 
 **“Log Data”** is derived by our servers automatically as you engage with the Services, which record information that your browser or mobile device sends whenever you interact with the Service.
 
-**“Personal Information”** or **“Personal Data”** is any information relating to an identified or identifiable natural person (**“Individual”**).
+**“Personal Information”** or **“Personal Data”** is any information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked (directly or indirectly) to a particular person or household (**“Individual”**).
 
 **“Process”** or **“Processing”** means any operation which is performed upon Personal Information, whether or not by automatic means, such as collection, recording, organization, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure, or destruction.
 
@@ -76,6 +102,16 @@ We want to give our Users the best possible experience, personalized for each Us
 Mix will collect only that Personal Information which is relevant for the purposes of Processing that information as described in this Privacy Policy.
 
 **Personal Information.** When you create a Mix account or connect through our Partner Communities, we will collect your e-mail address, gender, year of birth and specific or general location. If you register for our Services via a Partner Community, we will obtain certain Personal Information you have provided to the Partner Community (such as your name, profile picture, e-mail address, date of birth and specific address or general location). If you enable interoperability with a Third Party application, additional Personal Information that you have provided to that Third Party application may be collected and/or you may specifically authorize Mix to access certain information from such Third Party application. The information we obtain may depend on the privacy settings you have with the Partner Community or Third Party application and the information obtained may not be visible in your account. If you personalize your Mix account, we will also collect any information you provide, such as your full name, your photo or avatar and any optional information you decide to supply about yourself and your interests. We will first seek your specific permission before we gain any access to your contacts should you wish to enable sharing through the Services.
+
+**Sweepstakes or Contests.** We may collect personal information you provide for any sweepstakes or contests that we offer. In some jurisdictions, we are required to publicly share information of sweepstakes and contest winners.
+
+**Conferences, Trade Shows, and Other Events.** We may collect personal information from individuals when we attend conferences, trade shows, and other events.
+
+**Business Development and Strategic Partnerships.** We may collect personal information from individuals and third parties to assess and pursue potential business opportunities.
+
+**Job Applications.** We may post job openings and opportunities on our Services. If you reply to one of these postings by submitting your application, CV and/or cover letter to us, we will collect and use your information to assess your qualifications.
+
+**Biometric Information.** If you consent to our collection of biometric information or if our collection of biometric information is otherwise permitted, you agree that we may collect photographs of your face in order to create a profile photo for your account that others can recognize. Your biometric information may be shared with **our service providers who assist us in making the Services available to you, such as Cloudinary which** **assists us in resizing your photos for our Services.** Where required by law, we will delete your biometric information within 3 years from your last interaction with our Services.
 
 **Non-Identifying Information.** We also collect some Non-Identifying Information about you and your interests as you navigate through and interact with our Services such as the URL of page(s) you view and the titles and content of the pages you save to Mix. We may also receive Non-Identifying Information about you and your interests from other sources like Third Parties that add to their websites Mix widgets or Mix badges.
 
@@ -94,6 +130,11 @@ On the Mix Site, Mix and Third Parties that provide content, advertising, or oth
 *   **Cookies.** Cookies are small text files placed in visitors’ computer browsers to store their preferences. Most browsers allow you to block and delete cookies. However, if you do that, the Site may not work properly.
 *   **Pixel Tags/Web Beacons.** A pixel tag (also known as a web beacon) is a piece of code embedded on the Site that collects information about users’ engagement on that web page. The use of a pixel allows us to record, for example, that a user has visited a particular web page or clicked on a particular advertisement.
 *   **Social Media Widgets.** Our Site includes social media features such as the Facebook “Like” button and LinkedIn (that might include widgets such as the share this button or other interactive mini-programs). These features may collect your IP address, which page you are visiting on our Site, and may set a cookie to enable the feature to function properly. These social media features are either hosted by a Third Party or hosted directly on our Site. Your interactions with these features are governed by the privacy policy of the company providing it.
+
+The online advertising industry also provides websites from which you may opt out of receiving targeted ads from data partners and other advertising partners that participate in self-regulatory programs. You can access these and learn more about targeted advertising and consumer choice and privacy by visiting the [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp), [the Digital Advertising Alliance](http://www.aboutads.info/choices/), [the European Digital Advertising Alliance](https://www.youronlinechoices.eu/), and [the Digital Advertising Alliance of Canada](https://youradchoices.ca/choices/).
+
+Please note, you must opt out separately on each browser and on each device.
+
 *   **Analytics.** We may also use Google Analytics and Google Analytics Demographics and Interest Reporting to collect information regarding visitor behavior and visitor demographics on some of our Services, and to develop website content. This analytics data is not tied to any Personal Information. For more information about Google Analytics, please visit [http://www.google.com/policies/privacy/partners/](http://www.google.com/policies/privacy/partners/). You can opt out of Google’s collection and Processing of data generated by your use of the Services by going to [http://tools.google.com/dlpage/gaoptout](http://tools.google.com/dlpage/gaoptout).
 
 Our uses of such Technologies fall into the following general categories:
@@ -109,9 +150,9 @@ Our uses of such Technologies fall into the following general categories:
 
 ##### How Can You Edit or Remove Your Personal or Other Information?
 
-You may choose to edit the Personal Information that is in your Mix account so that different or less information is available to be viewed. To remove other Personal Information that may not be visible in your account, you may contact us [here](mailto:support@mix.com) with a request that we delete your Personal Information from our database or remove other information that you no longer wish to include as part of the Services. We will use commercially reasonable efforts to honor your request.
+You may choose to edit the Personal Information that is in your Mix account so that different or less information is available to be viewed. To remove other Personal Information that may not be visible in your account, you may contact us [here](mailto:support@mix.com) with a request that we delete your Personal Information from our database or remove other information that you no longer wish to include as part of the Services. We will use commercially reasonable efforts to honor your request. In addition, if you are a California resident, please see the section titled [“Supplemental Notice for California Residents“](#ca) below for more information about your rights with respect to your Personal Information. If you are a Nevada resident, please see the section titled [“Supplemental Notice for Nevada Residents”](#nv) below for more information about how you can direct us not to sell your Personal Information.
 
-We may retain an archived copy of your records as required by law or for legitimate business purposes. When you receive messages from us, you may indicate a preference to stop receiving further communications from us and you will have the opportunity to “unsubscribe”. We may, however, still send you administrative messages regarding the Services. If a child between the ages of 13 and 18 wishes to erase or delete any information that he or she has included or shared via the Services, please contact us [here](mailto:support@mix.com) and we will promptly comply.
+Except with respect to biometric data [as noted above,](#biometric) we may retain an archived copy of your records as required by law or for legitimate business purposes. When you receive messages from us, you may indicate a preference to stop receiving further communications from us and you will have the opportunity to “unsubscribe”. We may, however, still send you administrative messages regarding the Services. If a child between the ages of 13 and 18 wishes to erase or delete any information that he or she has included or shared via the Services, please contact us [here](mailto:support@mix.com) and we will promptly comply.
 
 * * *
 
@@ -146,7 +187,7 @@ We may retain an archived copy of your records as required by law or for legitim
 *   • Otherwise with your consent.
 *   • You may contact us at any time to opt-out of the use of your Personal Information for marketing purposes, as further described in “How do I Opt Out?” section below.
 
-**Research and Development.** Mix may use Personal Information to create non-identifiable information that we may use alone or in the aggregate with information obtained from other sources, in order to help us to optimally deliver our existing products and Services or develop new products and Services. From time to time, Mix may perform research (online and offline) via surveys. We may engage Third-Party service providers to conduct such surveys on our behalf. All survey responses are voluntary, and the information collected will be used for research and reporting purposes to help us better serve Individuals by learning more about their needs and the quality of the products and services we provide. The survey responses may be utilized to determine the effectiveness of our Services, various types of communications, advertising campaigns, and/or promotional activities. If an Individual participates in a survey, the information given will be used along with that of other study participants. We may share anonymous Individual and aggregate data for research and analysis purposes.
+**Research and Development.** Mix may use Personal Information to create non-identifiable information that we may use alone or in the aggregate with information obtained from other sources, in order to help us to optimally deliver our existing products and Services or develop new products and Services. We may engage Third-Party service providers to conduct surveys on our behalf, in which case, if you elect to participate in a survey, we may provide our service providers with your Personal Information for purposes of conducting the survey. All survey responses are voluntary, and the information collected will be used for research and reporting purposes to help us better serve Individuals by learning more about their needs and the quality of the products and services we provide. The survey responses may be utilized to determine the effectiveness of our Services, various types of communications, advertising campaigns, and/or promotional activities. If an Individual participates in a survey, the information given will be used along with that of other study participants. We may share anonymous Individual and aggregate data for research and analysis purposes.
 
 **Services via Mobile Devices and Browser Extensions.** From time to time, Mix may provide Services that are specifically designed to be compatible and used on mobile devices. Mix will collect certain information that your mobile device sends when you use such Services, like a device identifier, user settings, location information, mobile carrier, and the operating system of your device. Mobile versions of Mix’s Services may require that users log in with an account. In such cases, information about use of mobile versions of the Services may be associated with accounts. In addition, Mix may enable Individuals to download an application, widget, browser extension, or other tool that can be used on mobile or other computing devices. Some of these tools may store information on mobile or other devices. These tools may transmit Personal Information to Mix to enable Individuals to access Accounts and to enable Mix to track use of these tools. Some of these tools may enable users to email reports and other information from the tool. Mix may use Personal Information or non-identifiable information transmitted to Mix to enhance these tools, to develop new tools, for quality improvement and as otherwise described in this Privacy Policy or in other notices Mix provides.
 
@@ -194,19 +235,11 @@ To be clear, whether you are using our opt-out or an online industry opt-out, th
 
 * * *
 
-##### How Can I Access, Rectify, Erase, and Restrict My Information?
-
-You may inquire as to whether Mix is Processing Personal Information about you, request access to Personal Information, and ask that we correct, amend or delete your Personal Information where it is inaccurate. Where otherwise permitted by applicable law, you may send an e-mail here or use any of the methods set out in this Privacy Policy to request access to, receive (port), seek rectification, or request erasure of Personal Information held about you by Mix. Please include your full name, email address associated with your account, and a detailed description of your data request. Such requests will be processed in line with local laws.
-
-Although Mix makes good faith efforts to provide Individuals with access to their Personal Information, there may be circumstances in which Mix is unable to provide access, including but not limited to: where the information contains legal privilege, would compromise others’ privacy or other legitimate rights, where the burden or expense of providing access would be disproportionate to the risks to the Individual’s privacy in the case in question or where it is commercially proprietary. If Mix determines that access should be restricted in any particular instance, we will provide you with an explanation of why that determination has been made and a contact point for any further inquiries. To protect your privacy, Mix will take commercially reasonable steps to verify your identity before granting access to or making any changes to your Personal Information.
-
-* * *
-
 ##### Where and How Long Will Information Be Collected and Stored?
 
 Mix is located in the United States. Accordingly, Personal Information we collect may be transferred to and stored in our servers or those of Third Parties that act on our behalf (such as hosting providers) in the United States or other countries outside of the European Economic Area. By using the Services you agree to such collection, transfer and storage outside of the European Economic Area or other territories where the information may have been collected.
 
-Mix retains the Personal Information we receive as described in this Privacy Policy for as long as you use our Services or as necessary to fulfill the purpose(s) for which it was collected, provide our Services, resolve disputes, establish legal defenses, conduct audits, pursue legitimate business purposes, enforce our agreements, and comply with applicable laws.
+Except with respect to biometric data which is deleted [as described above,](#biometric) Mix retains the Personal Information we receive as described in this Privacy Policy for as long as you use our Services or as necessary to fulfill the purpose(s) for which it was collected, provide our Services, resolve disputes, establish legal defenses, conduct audits, pursue legitimate business purposes, enforce our agreements, and comply with applicable laws.
 
 * * *
 
@@ -224,9 +257,43 @@ The Services are not directed to children under 13 (and in certain jurisdictions
 
 * * *
 
-##### California Privacy Rights
+##### Supplemental Notice for California Residents
 
-California law permits users who are California residents to request and obtain from us once a year, free of charge, a list of the Third Parties to whom we have disclosed their Personal Information (if any) for their direct marketing purposes in the prior calendar year, as well as the type of Personal Information disclosed to those parties.
+This Supplemental California Privacy Notice only applies to our processing of Personal Information that is subject to the California Consumer Privacy Act of 2018 (“CCPA”). The CCPA provides California residents with the right to know what categories of Personal Information we collected about them and whether we disclosed that Personal Information for a business purpose (e.g., to a service provider) in the preceding 12 months. California residents can find this information below:
+
+| **Category of Personal Information Collected by Mix** | **Category of Third Parties Information is Disclosed to for a Business Purpose** |
+| --- | --- |
+| **Identifiers**<br><br>A real name, alias, Internet Protocol address, email address, account name, or other similar identifiers. | *   • Advertising networks<br>*   • Internet service providers<br>*   • Data analytics providers<br>*   • Operating systems and platforms<br>*   • Social networks<br>*   • Service providers |
+| **Personal information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e))**<br><br>A name | *   • Advertising networks<br>*   • Internet service providers<br>*   • Data analytics providers<br>*   • Operating systems and platforms<br>*   • Social networks<br>*   • Service providers |
+| **Protected classification characteristics under California or federal law**<br><br>Age (40 years or older) | *   • Advertising networks<br>*   • Internet service providers<br>*   • Data analytics providers<br>*   • Operating systems and platforms<br>*   • Social networks<br>*   • Service providers |
+| **Biometric information**<br><br>Imagery of the face from which an identifier template such as a faceprint | *   • Advertising networks<br>*   • Internet service providers<br>*   • Data analytics providers<br>*   • Operating systems and platforms<br>*   • Social networks<br>*   • Service providers |
+| **Internet or other electronic network activity**<br><br>Browsing history, search history, information on a consumer's interaction with an internet website, application, or advertisement. | *   • Advertising networks<br>*   • Internet service providers<br>*   • Data analytics providers<br>*   • Operating systems and platforms<br>*   • Social networks<br>*   • Service providers |
+| **Geolocation data**<br><br>Physical location or movements. | *   • Advertising networks<br>*   • Internet service providers<br>*   • Data analytics providers<br>*   • Operating systems and platforms<br>*   • Social networks<br>*   • Service providers |
+| **Inferences drawn from other personal information to create a profile about a consumer**<br><br>Profile reflecting a consumer's preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes. | *   • Advertising networks<br>*   • Internet service providers<br>*   • Data analytics providers<br>*   • Operating systems and platforms<br>*   • Social networks<br>*   • Service providers |
+
+The categories of sources from which we collect Personal Information and our business and commercial purposes for using personal information are set forth above.
+
+For purposes of the CCPA, we do not “sell” Personal Information, nor do we have actual knowledge of any “sale” of Personal Information of minors under 16 years of age.
+
+* * *
+
+##### Additional Privacy Rights for California Residents
+
+**Non-Discrimination.** California residents have the right not to receive discriminatory treatment by us for the exercise of their rights conferred by the CCPA.
+
+**Authorized Agent.** Only you, or someone legally authorized to act on your behalf, may make a verifiable consumer request related to your personal information. You may also make a verifiable consumer request on behalf of your minor child. To designate an authorized agent, [contact us](#contact) as set forth below.
+
+**Verification.** To protect your privacy, we will take steps the following steps to verify your identity before fulfilling your request. When you make a request, we will ask you to provide sufficient information that allows us to reasonably verify you are the person about whom we collected personal information or an authorized representative, which may include your name and email address.
+
+If you are a California resident and would like to exercise any of your rights under the CCPA, please [contact us](#contact) as set forth below. We will process such requests in accordance with applicable laws.
+
+**Financial Incentives.**
+
+If you participate in a testing program or provide feedback at our request, we may, in our sole discretion, offer you a financial incentive for electing to participate. (1) If you elect to participate, we may offer you a gift card to thank you for participating. The amount of the gift card will be displayed at the time that we request that you participate in the testing program and/or provide feedback. For example, if we make the request via email, the amount of the gift card will be in the email. If you elect to participate, we will collect the following Personal Information from you: name, email address, and any other Personal Information you elect to provide to us. (2) All testing and feedback programs are voluntary. If you do not want us to collect your Personal Information in collection with a testing or feedback program, please do not participate. (3) You are free to withdraw from the financial incentive at any time by contacting us at the information provided in the [“Contact Us” section](#contact) below, and notifying us of your preference to withdraw. (4) The Personal Information you provide via a feedback or testing program is valuable to us, because it helps us improve the Services. The value of the gift card we provide to you is a good-faith estimate of the value of your Personal Information to us. We calculate the value of your Personal Information based on average income for the targeted demographic.
+
+**Accessibility.** This Privacy Policy uses industry-standard technologies and was developed in line with the World Wide Web Consortium’s Web Content Accessibility Guidelines, version 2.1. If you wish to print this policy, please do so from your web browser or by saving the page as a PDF.
+
+**California Shine the Light.** The California “Shine the Light” law permits users who are California residents to request and obtain from us once a year, free of charge, a list of the third parties to whom we have disclosed their personal information (if any) for their direct marketing purposes in the prior calendar year, as well as the type of personal information disclosed to those parties.
 
 * * *
 
@@ -235,6 +302,12 @@ California law permits users who are California residents to request and obtain 
 The Services may contain links or integrations to Third Party applications, websites or services, and also may be accessed via Third Party applications, websites or services. Our display within the Services of links or referrals to other websites, services and applications does not signify our endorsement of such other websites, services or applications or their content. We have no control over, do not review, and cannot be responsible for these outside websites, services or their content. This Privacy Policy does not govern your visits to these other websites or services, and your access is entirely at your own risk. These other services and applications may set their own cookies on users, collect data, or solicit personal information. You should refer to any privacy policies on such services and applications to understand how your information may be collected and used, and should choose appropriate settings for sharing your personal information before proceeding to any integration with a Third Party service or application.
 
 **YouTube content.** We access YouTube API Services to show the YouTube Embedded Player on websites and applications which may serve advertisements through that interface. YouTube receives data about your activity and Mix does not control the data collected by YouTube. For more information, view the [Google Privacy Policy](http://www.google.com/policies/privacy).
+
+* * *
+
+##### Supplemental Notice for Nevada Residents
+
+If you are a resident of Nevada, you have the right to opt-out of the sale of certain Personal Information to third parties who intend to license or sell that Personal Information. You can exercise this right by contacting us at support@mix.com with the subject line “Nevada Do Not Sell Request” and providing us with your name and the email address associated with your account. Please note that we do not currently sell your Personal Information as sales are defined in Nevada Revised Statutes Chapter 603A.
 
 * * *
 
@@ -294,10 +367,26 @@ The legal basis is Article 6 sec. 1 sent. 1 lit. f ("legitimate interest") GDPR.
 *   • Take legal actions in relation to any potential breach of your rights regarding the processing of your personal data, as well as to lodge complaints before the competent data protection regulators.
 *   • Require (i) to receive the personal data concerning you, which you have provided to us, in a structured, commonly used and machine-readable format and (ii) to transmit those data to another controller without hindrance from our side. Where technically feasible you shall have the right to have the personal data transmitted directly from us to another controller.
 
+* * *
+
+##### Contact Us
+
+If you have any questions about our privacy practices or this Privacy Policy, or to exercise your rights as detailed in this Privacy Policy, please contact us at:
+
+Mix Tech, Inc.  
+660 4th Street #558, San Francisco, CA 94107, USA.  
+[support@mix.com](mailto:support@mix.com)
+
+**EU**
+
+DP-Dock GmbH, Attn: MixTech Inc.  
+Ballindamm 39, 20095 Hamburg, Germany
+
+**UK**
+
+DP Data Protection Services UK Ltd., Attn: MixTech Inc.  
+16 Great Queen Street, Covent Garden, London, WC2B 5AH, United Kingdom
+
   
 
-**Revision History**
-
-*   Privacy Policy - Effective February 1, 2017
-*   Privacy Policy - Effective May 16, 2018
-*   Privacy Policy - Effective October 18, 2019
+Effective October 18, 2019
