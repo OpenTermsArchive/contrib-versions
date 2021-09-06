@@ -1,7 +1,7 @@
 Google My Business Additional Terms of Service
 ==============================================
 
-**Last modified:** 27 August 2021
+**Last modified:**23 August 2021
 
 To use Google My Business or any service for Google My Business claimed businesses (the '**Google My Business Services**'), you must accept (1) [the Google Terms of Service](https://policies.google.com/terms), and (2) these Google My Business Additional Terms of Service (the '**Google My Business Additional Terms**').
 
