@@ -76,11 +76,11 @@ To the extent that ProtonMail processes any personal data that is subject to the
 
 Due to their nature, the paid Services provided by the Company are generally non-refundable and any refunds or credits given will be at the sole discretion of the Company. Paid accounts which are terminated due to a violation of these Terms and Conditions will incur the loss of all payments and credits and are not eligible for refund.
 
-If the Company chooses to issue a refund for any reason, the Company is only obligated to refund in the original currency of payment. If you request a credit balance to be converted between different currencies which the Company supports, the Company has discretion over the exchange rate applied.
+If the Company chooses to issue a refund for any reason, the Company is only obligated to refund in the original currency of payment **and to the original payment method**. If you request a credit balance to be converted between different currencies which the Company supports, the Company has discretion over the exchange rate applied.
 
 The Company has the right to discontinue service immediately if a fraudulent payment is detected, such as the use of a stolen credit card, and such cases may be further referred to the competent authorities.
 
-You authorize the Company to charge any credit card supplied on a monthly, bi-annually, or annually re-occurring basis (depending on your selection). Credit balances will also automatically be deducted on a monthly, bi-annual, or annual basis. You are responsible for keeping card information up to date.
+You authorize the Company to charge your selected payment method supplied on a monthly, bi-annually, or annually re-occurring basis (depending on your selection). Credit balances will also automatically be deducted on a monthly, bi-annual, or annual basis. You are responsible for keeping your payment method information up to date.
 
 If you fail to fulfill your obligation of payment as a user of a paid account, we may suspend your account or delete it after an extended period of default.
 
