@@ -1,4 +1,4 @@
-Before using this Site, you should read these Terms carefully, as well as our [Cookie Policy](https://www.hsbc.com/cookie-notice). By accessing this Site, you agree to be bound by the Terms.
+Before using this Site, you should read these Terms carefully, as well as our [Cookie Policy](https://www.hsbc.com/contact-us). By accessing this Site, you agree to be bound by the Terms.
 
 HSBC Holdings plc has a Companies House number of 14259 and a principal place of business of 8 Canada Square. HSBC Bank plc is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority.
 
