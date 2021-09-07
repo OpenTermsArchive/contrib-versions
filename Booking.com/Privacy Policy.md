@@ -507,7 +507,7 @@ If you have any questions about this Privacy Statement, or about our processing 
 
 For questions about a reservation, please contact our customer service team through the [customer service contact page](https://secure.booking.com/help.en-gb.html#/?source=privacy_policy).
 
-Requests from law enforcement should be submitted using the [Law Enforcement](https://www.booking.com/content/law-enforcement.en-gb.html) process.
+Requests from law enforcement should be submitted using the [Law Enforcement](https://authorityportal.booking.com/) process.
 
 #### Country-specific provisions
 
