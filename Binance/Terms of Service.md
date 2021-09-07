@@ -69,7 +69,7 @@ All Users must apply for a Binance Account at (https://accounts.binance.com/en/r
 
 **b. Eligibility**
 
-By registering to use a Binance Account, you represent and warrant that (i) as an individual, you are at least 18 or are of legal age to form a binding contract under applicable laws; (ii) as an individual, legal person, or other organization, you have full legal capacity and sufficient authorizations to enter into these Terms; (iii) you have not been previously suspended or removed from using Binance Services; (iv) you do not currently have a Binance Account; (v) you are neither a United States user, a Malaysia user or an Ontario (Canada)-based user; nor are you acting on behalf of a United States user, a Malaysia user or an Ontario (Canada)-based user. If you act as an employee or agent of a legal entity, and enter into these Terms on their behalf, you represent and warrant that you have all the necessary rights and authorizations to bind such legal entity; (vi) your use of Binance Services will not violate any and all laws and regulations applicable to you, including but not limited to regulations on anti-money laundering, anti-corruption, and counter-terrorist financing.
+By registering to use a Binance Account, you represent and warrant that (i) as an individual, you are at least 18 or are of legal age to form a binding contract under applicable laws; (ii) as an individual, legal person, or other organization, you have full legal capacity and sufficient authorizations to enter into these Terms; (iii) you have not been previously suspended or removed from using Binance Services; (iv) you do not currently have a Binance Account; (v) you are neither a United States user, a Malaysia user, a Singapore-based user, or an Ontario (Canada)-based user; nor are you acting on behalf of a United States user, a Malaysia user, a Singapore-based user, or an Ontario (Canada)-based user. If you act as an employee or agent of a legal entity, and enter into these Terms on their behalf, you represent and warrant that you have all the necessary rights and authorizations to bind such legal entity; (vi) your use of Binance Services will not violate any and all laws and regulations applicable to you, including but not limited to regulations on anti-money laundering, anti-corruption, and counter-terrorist financing.
 
 Please note that some products and services may not be available in certain jurisdictions or regions or to certain users. Binance reserves the right to change, modify or impose additional restrictions at its discretion at any time.
 
@@ -224,7 +224,19 @@ c. Before performing Futures Trading, you have read and understood all the conte
 
 d. You agree and authorize Binance to take various reasonable measures in its discretion (including but not limited to forced liquidation and forced position reduction under specific circumstances) in accordance with the Binance Futures Service Agreement and the relevant Binance Platform Rules to protect the legitimate interests of you, Binance and other Users.
 
-### 5\. Margins Trading
+### 5\. Options Trading
+
+You acknowledge and agree that:
+
+a. You fully understand the high risks of Options Trading, including but not limited to the risk of major fluctuations of Digital Assets in Options Trading, and the risk of exacerbated adverse outcome when leverage is used;
+
+b. You have sufficient investment knowledge and experience and the capacity to take risks arising from Options Trading, and agree to independently assume all the risks arising from the investment of Options Trading;
+
+c. Before performing Options Trading, you have read and understood all the relevant Binance Platform Rules, and have consulted relevant professionals to make informed decisions on whether and how to complete Options Trading according to their recommendations and your own reasonable judgment;
+
+d. You agree and authorize Binance to take various reasonable measures in its discretion (including but not limited to forced liquidation and forced position reduction under specific circumstances) in accordance with the relevant Binance Platform Rules to protect the legitimate interests of you, Binance and other Users.
+
+### 6\. Margins Trading
 
 Unless otherwise specified by Binance, prior to conducting Margins Trading, you must open a special Collateral Account and/or complete other related procedures, following the completion of registration and identity verification for your Binance Account.
 
@@ -264,7 +276,7 @@ Margins Trading is highly risky. As a leveraged trader, you acknowledge and agre
 8.  You agree to conduct all Transactions, Margins Trading and/or borrowing on your own, and be fully responsible for your activities. Binance assumes no liability for any loss or damage caused by your use of any Binance services or your unawareness of the risks associated with the use of Digital Assets or with your use of Binance Services.
     
 
-### 6\. Lending Services
+### 7\. Lending Services
 
 Unless otherwise provided by Binance, to borrow currencies, you must conclude with Binance a separate Lending Services User Agreement and open a special Collateral Account and/or finish other relevant procedures, following the completion of registration and identity verification for your Binance Account. You understand and agree that:
 
@@ -278,7 +290,7 @@ d. Binance has the full right to manage your Collateral Account and collateral d
 
 e. Binance has the right to temporarily or permanently prohibit you from using Lending Services when it deems it necessary or reasonable, and to the maximum extent permitted by law, without liability of any kind to you.
 
-### 7\. Binance Savings Service
+### 8\. Binance Savings Service
 
 Binance offers Binance Savings, a service to provide Users with value-added services for their idle Digital Assets. To use Binance Savings service, you must conclude with Binance a separate Binance Savings Service User Agreement ( [en/support/faq/360032559032](https://www.binance.com/en/support/faq/360032559032)) and open a special Binance Savings service account, following the completion of registration and identity verification for your Binance Account. When using Binance Savings service, you should note that:
 
@@ -296,7 +308,7 @@ f. Binance reserves the right to suspend or terminate Binance Savings service. I
 
 g. Due to network delay, computer system failures and other force majeure, which may lead to delay, suspension, termination or deviation of execution of Binance Savings service, Binance will use reasonable effort to ensure but not promise that Binance Savings service execution system runs stably and effectively. Binance does not take any responsibility if the final execution fails to match your expectations due to the above factors.
 
-### 8\. Staking Programs
+### 9\. Staking Programs
 
 Binance will from time to time launch Staking Programs for specific types of Digital Currencies to reward, as per certain rules, users who hold such Digital Currencies in their Binance Accounts. When participating in Staking Programs, you should note that:
 
@@ -308,7 +320,7 @@ c. Binance has the right to initiate or terminate Staking Program for any Digita
 
 d. Users shall ensure that sources of the Digital Currencies they hold in Binance Accounts are legal and compliant and undertake to observe related laws and regulations. Otherwise, Binance has the right to take necessary steps in accordance with these Terms or Binance Platform Rules, including, without limitation, freezing Binance Accounts or deducting the Digital Currencies awarded to Users who violate the rules of respective Staking Programs.
 
-### 9\. Binance POS Service Agreement
+### 10\. Binance POS Service Agreement
 
 a. Binance.com launched Binance POS service for Binance.com users to gain proceeds through idle cryptocurrency assets.
 
