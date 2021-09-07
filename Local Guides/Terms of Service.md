@@ -9,7 +9,7 @@ Who is qualified to be a Local Guide?
 In order to participate in the Programme as a Local Guide, you must:
 
 *   have a valid Google account;
-*   be at least 18 years of age; and
+*   meet the [age requirements for your country](https://maps.google.com/accounts/answer/1350409); and
 *   have signed up to participate in the Programme [here](https://www.google.com/local/guides/signup)
 
 Organisations, brands and businesses are not eligible for the Programme. If you offer services for hire (such as marketing yourself as a Street View trusted provider), you are not allowed to bundle such services with your Local Guide membership.
@@ -29,8 +29,8 @@ Events, perks and early access rules are subject to change at anytime and withou
 
 Some participants may be ineligible for some or all perks, including persons who are:
 
-*   residents of US embargoed countries;
-*   ordinarily resident in US embargoed countries;
+*   residents of U.S. embargoed countries;
+*   ordinary resident in U.S. embargoed countries;
 *   otherwise prohibited by applicable export controls and sanctions programmes; and
 *   government officials, including (1) government employees, (2) candidates for public office and (3) employees of government-owned or government-controlled companies, public international organisations and political parties.
 
@@ -67,7 +67,7 @@ If you do organise or arrange to meet with other Local Guides, independently or 
 Local Guides Connect Content Policy
 -----------------------------------
 
-Local Guides Connect (collectively referred to as 'Connect') is a platform that enables people from diverse backgrounds to start conversations, share experiences, provide feedback and plan online/offline activities. Our policies play an important role in maintaining a positive experience for Local Guides on Connect (collectively referred to as the 'Services'). Please follow these policies as you:
+Local Guides Connect (collectively referred to as “Connect”) is a platform that enables people from diverse backgrounds to start conversations, share experiences, provide feedback, and plan online/offline activities. In order to participate on Connect as a Local Guide, you must be at least 18 years of age. Our policies play an important role in maintaining a positive experience for Local Guides on Connect (collectively referred to as the “Services”). Please follow these policies as you:
 
 *   Use Connect to interact with Local Guides from around the world
 *   Share content such as posts, photos, videos, etc.
@@ -103,7 +103,7 @@ We occasionally modify these policies, so please check here again for any update
 14.  **Account Hijacking:** Do not access or attempt to access another Local Guide’s account.
 15.  **Use of Multiple Accounts:** Local Guides may participate in the programme with one account. Do not create or use multiple accounts to evade our policies or bypass blocks or otherwise subvert restrictions placed on your account. For example, if you’ve been suspended for abuse, don’t create a replacement account.
 16.  **About Our Policies and Terms:** These policies apply generally to the content that you post on Connect. Some Google Services have their own separate policies that can be found within those services and apply to your use of them. All Google products and services are governed by their applicable terms of service.
-17.  **Reporting Potential Issues:** If you encounter content or a Local Guide that you believe violates the above policies, please report it to us using the 'Report Inappropriate Content' feature by clicking on the three dots in the top right-hand corner of the postlink (or similar link).
+17.  **Reporting Potential Issues:** If you encounter content or a Local Guide that you believe violates the above policies, please report it to us using the 'Report Inappropriate Content' feature by clicking on the three dots on the top right hand corner of the post (or similar link).
 
 Meet-up sponsorship
 -------------------
