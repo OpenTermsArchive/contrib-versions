@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-#### Last Updated: September 2, 2021
+#### Last Updated: September 8, 2021
 
 The Service Terms below govern your use of the Services. Capitalized terms used in these Service Terms but not defined below are defined in the [AWS Customer Agreement](https://aws.amazon.com/agreement/) or other agreement with us governing your use of the Services (the “Agreement”). For purposes of these Service Terms, “Your Content” includes any “Company Content” and any “Customer Content,” and “AWS Content” includes “Amazon Properties.”
 
@@ -1051,5 +1051,13 @@ b. Layer routes from HERE on top of a map from another third-party provider, or 
 #### 84\. Amazon FinSpace
 
 Amazon FinSpace is a tool to help you analyze data for investment and business decisions. It is not a substitute for the judgment and experience of the user when making investment and business decisions. Amazon FinSpace does not provide investment advice, make investment recommendations or evaluate the suitability of any investment or investment strategy.  
+
+### 85\. Amazon Elastic Kubernetes Service Anywhere (Amazon EKS Anywhere) Support.
+
+**85.1** You must purchase AWS Enterprise Support in order to subscribe to Amazon EKS Anywhere Support. Payments for subscriptions to Amazon EKS Anywhere Support are not refundable.
+
+**85.2** Each Amazon EKS Anywhere Support Subscription may only be applied to one Amazon EKS Anywhere cluster.
+
+**85.3** We may request that you implement specific updates and provide us with Account Information, logs or other Service Attributes so that we can provide you Amazon EKS Anywhere Support and verify your Support Subscription. If you request support for Isovalent’s software, such as Cilium, we may share your Account Information, logs or other Service Attributes with Isovalent to provide technical support.
 
 [Previous version(s)](https://aws.amazon.com/service-terms/historical/)
