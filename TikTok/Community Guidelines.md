@@ -1,7 +1,5 @@
 ### Community Guidelines
 
-![](https://p16-va-tiktok.ibyteimg.com/obj/musically-maliva-obj/e753f388a5f6bcc2459976545715dce3)
-
   
 
   
