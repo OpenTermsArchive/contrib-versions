@@ -259,4 +259,250 @@ The language of this Policy is English. Where Zoosk has provided a translation o
 
 This Policy was last revised on May 15, 2018. For users who registered for the Services prior to May 15, 2018, this Policy will be effective on May 25, 2018.
 
-Cookie Settings
+### Cookie List
+
+A cookie is a small piece of data (text file) that a website – when visited by a user – asks your browser to store on your device in order to remember information about you, such as your language preference or login information. Those cookies are set by us and called first-party cookies. We also use third-party cookies – which are cookies from a domain different than the domain of the website you are visiting – for our advertising and marketing efforts. More specifically, we use cookies and other tracking technologies for the following purposes:
+
+#### Strictly Necessary Cookies
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+|     |     |     |
+| --- | --- | --- |Strictly Necessary Cookies
+| Cookie Subgroup | Cookies | Cookies used |
+| --- | --- | --- |
+| static3.zoosk.com | [fbsr\_6953377468](https://cookiepedia.co.uk/cookies/fbsr_6953377468) | First Party |
+| dating.zoosk.com | [\_liChk](https://cookiepedia.co.uk/cookies/_liChk), [cf\_ob\_info](https://cookiepedia.co.uk/cookies/cf_ob_info), [cf\_use\_ob](https://cookiepedia.co.uk/cookies/cf_use_ob) | First Party |
+| www.zoosk.com | [\_fssid](https://cookiepedia.co.uk/cookies/_fssid), [G\_ENABLED\_IDPS](https://cookiepedia.co.uk/cookies/G_ENABLED_IDPS) | First Party |
+| cidlds.rocks | [\_\_cfduid](https://cookiepedia.co.uk/cookies/__cfduid) | First Party |
+| help.zoosk.com | [\_\_cf\_bm](https://cookiepedia.co.uk/cookies/__cf_bm), [\_\_cfruid](https://cookiepedia.co.uk/cookies/__cfruid) | First Party |
+| [bootstrapcdn.com](https://cookiepedia.co.uk/host/bootstrapcdn.com) | \_\_cfduid | Third Party |
+| [static.edarling.net](https://cookiepedia.co.uk/host/static.edarling.net) | at\_check | Third Party |
+| [mpsnare.iesnare.com](https://cookiepedia.co.uk/host/mpsnare.iesnare.com) | io\_token\_7c6a6574-f011-4c9a-abdd-9894a102ccef | Third Party |
+| [zeotap.com](https://cookiepedia.co.uk/host/zeotap.com) | \_\_cfduid | Third Party |
+| [cookielaw.org](https://cookiepedia.co.uk/host/cookielaw.org) | \_\_cfduid | Third Party |
+| [dev-a.pub.network](https://cookiepedia.co.uk/host/dev-a.pub.network) | \_fssid | Third Party |
+| [ad-delivery.net](https://cookiepedia.co.uk/host/ad-delivery.net) | \_\_cfduid | Third Party |
+| [btloader.com](https://cookiepedia.co.uk/host/btloader.com) | \_\_cfduid | Third Party |
+| [jade853gmbh.tt.omtrdc.net](https://cookiepedia.co.uk/host/jade853gmbh.tt.omtrdc.net) | jade853gmbh!mboxPC, jade853gmbh!mboxSession, mboxPC, mboxSession | Third Party |
+| [tt.omtrdc.net](https://cookiepedia.co.uk/host/tt.omtrdc.net) | jade853gmbh!mboxPC, jade853gmbh!mboxSession, jade853gmbh!mboxTrace, mboxPC, mboxSession | Third Party |
+| [affinitas.zendesk.com](https://cookiepedia.co.uk/host/affinitas.zendesk.com) | \_\_cfduid, \_\_cfruid | Third Party |
+| [zoosk.com](https://cookiepedia.co.uk/host/zoosk.com) | at\_check, \_\_ssid, \_ga\_KGXS2L6T02, \_lc2\_fpi, \_li\_dcdm\_c, OptanonAlertBoxClosed, CS, zo, zsc, zs, cto\_pub\_test\_tld, ABTastySession, z\_device\_id, OptanonConsent, ABTastyDomainTest, ABTasty, mboxEdgeCluster | Third Party |
+| [pub.network](https://cookiepedia.co.uk/host/pub.network) | \_\_cfduid | Third Party |
+| [onetrust.com](https://cookiepedia.co.uk/host/onetrust.com) | \_\_cfduid | Third Party |
+| [edarling.net](https://cookiepedia.co.uk/host/edarling.net) | \_\_cfduid | Third Party |
+
+#### Performance Cookies
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+|     |     |     |
+| --- | --- | --- |Performance Cookies
+| Cookie Subgroup | Cookies | Cookies used |
+| --- | --- | --- |
+| dating.zoosk.com | [\_hjIncludedInSessionSample](https://cookiepedia.co.uk/cookies/_hjIncludedInSessionSample) | First Party |
+| static3.zoosk.com | [\_hjIncludedInPageviewSample](https://cookiepedia.co.uk/cookies/_hjIncludedInPageviewSample) | First Party |
+| zoosk.com | [\_ga](https://cookiepedia.co.uk/cookies/_ga), [\_gat](https://cookiepedia.co.uk/cookies/_gat), [\_gclxxxx](https://cookiepedia.co.uk/cookies/_gclxxxx), [\_gid](https://cookiepedia.co.uk/cookies/_gid), [\_hjAbsoluteSessionInProgress](https://cookiepedia.co.uk/cookies/_hjAbsoluteSessionInProgress), [\_hjFirstSeen](https://cookiepedia.co.uk/cookies/_hjFirstSeen), [\_hjid](https://cookiepedia.co.uk/cookies/_hjid), [\_hjTLDTest](https://cookiepedia.co.uk/cookies/_hjTLDTest), [\_uetvid](https://cookiepedia.co.uk/cookies/_uetvid), [mbox](https://cookiepedia.co.uk/cookies/mbox) | First Party |
+| [beacon.lynx.cognitivlabs.com](https://cookiepedia.co.uk/host/beacon.lynx.cognitivlabs.com) | UID | Third Party |
+| [script.hotjar.com](https://cookiepedia.co.uk/host/script.hotjar.com) | \_hjIncludedInPageviewSample, \_hjIncludedInSessionSample | Third Party |
+| [nr-data.net](https://cookiepedia.co.uk/host/nr-data.net) | JSESSIONID | Third Party |
+| [mrpdata.net](https://cookiepedia.co.uk/host/mrpdata.net) | DNT | Third Party |
+
+#### Functional Cookies
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+|     |     |     |
+| --- | --- | --- |Functional Cookies
+| Cookie Subgroup | Cookies | Cookies used |
+| --- | --- | --- |
+| help.zoosk.com | [\_help\_center\_session](https://cookiepedia.co.uk/cookies/_help_center_session), [\_zendesk\_authenticated](https://cookiepedia.co.uk/cookies/_zendesk_authenticated), [\_zendesk\_session](https://cookiepedia.co.uk/cookies/_zendesk_session), [\_zendesk\_shared\_session](https://cookiepedia.co.uk/cookies/_zendesk_shared_session) | First Party |
+| www.zoosk.com | [\_gd#############](https://cookiepedia.co.uk/cookies/_gd#############), [\_niupf](https://cookiepedia.co.uk/cookies/_niupf), [cto\_write\_test](https://cookiepedia.co.uk/cookies/cto_write_test), [cto\_writeable](https://cookiepedia.co.uk/cookies/cto_writeable) | First Party |
+| [liadm.com](https://cookiepedia.co.uk/host/liadm.com) | lidid | Third Party |
+| [rezync.com](https://cookiepedia.co.uk/host/rezync.com) | zync-uuid | Third Party |
+| [spotify.com](https://cookiepedia.co.uk/host/spotify.com) | \_ga, \_gat, \_gat\_gtag\_xxxxxxxxxxxxxxxxxxxxxxxxxxx, \_gid, sp\_landing, sp\_t | Third Party |
+| [youtube-nocookie.com](https://cookiepedia.co.uk/host/youtube-nocookie.com) | CONSENT | Third Party |
+| [live.rezync.com](https://cookiepedia.co.uk/host/live.rezync.com) | sd-session-id | Third Party |
+| [mrpdata.net](https://cookiepedia.co.uk/host/mrpdata.net) | U   | Third Party |
+
+#### Targeting Cookies
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+|     |     |     |
+| --- | --- | --- |Targeting Cookies
+| Cookie Subgroup | Cookies | Cookies used |
+| --- | --- | --- |
+| t.zoosk.com | [fbsr\_6953377468](https://cookiepedia.co.uk/cookies/fbsr_6953377468), [fsbotchecked](https://cookiepedia.co.uk/cookies/fsbotchecked) | First Party |
+| www.zoosk.com | [cto\_pub\_test\_tld](https://cookiepedia.co.uk/cookies/cto_pub_test_tld), [cto\_tld\_test](https://cookiepedia.co.uk/cookies/cto_tld_test), [et\_current\_iid](https://cookiepedia.co.uk/cookies/et_current_iid), [et\_user\_id](https://cookiepedia.co.uk/cookies/et_user_id), [trc\_cookie\_storage](https://cookiepedia.co.uk/cookies/trc_cookie_storage), [fssts](https://cookiepedia.co.uk/cookies/fssts), [GoogleAdServingTest](https://cookiepedia.co.uk/cookies/GoogleAdServingTest), [last\_et\_user\_id](https://cookiepedia.co.uk/cookies/last_et_user_id) | First Party |
+| static3.zoosk.com | [\_fsloc](https://cookiepedia.co.uk/cookies/_fsloc), [\_liChk](https://cookiepedia.co.uk/cookies/_liChk) | First Party |
+| zoosk.com | [\_\_gads](https://cookiepedia.co.uk/cookies/__gads), [\_\_qca](https://cookiepedia.co.uk/cookies/__qca), [\_cc\_id](https://cookiepedia.co.uk/cookies/_cc_id), [\_dlt](https://cookiepedia.co.uk/cookies/_dlt), [\_fbp](https://cookiepedia.co.uk/cookies/_fbp), [\_uetsid](https://cookiepedia.co.uk/cookies/_uetsid), [cto\_write\_test](https://cookiepedia.co.uk/cookies/cto_write_test) | First Party |
+| [adkernel.com](https://cookiepedia.co.uk/host/adkernel.com) | ADK\_EX\_11, ADKUID | Third Party |
+| [rtb.4finance.com](https://cookiepedia.co.uk/host/rtb.4finance.com) | bsw\_uid, c, tuuid, tuuid\_lu | Third Party |
+| [criteo.com](https://cookiepedia.co.uk/host/criteo.com) | uid3pd | Third Party |
+| [doubleclick.net](https://cookiepedia.co.uk/host/doubleclick.net) | DSID, IDE, test\_cookie | Third Party |
+| [mantisadnetwork.com](https://cookiepedia.co.uk/host/mantisadnetwork.com) | \_\_qca, \_dlt | Third Party |
+| [ads.pubmatic.com](https://cookiepedia.co.uk/host/ads.pubmatic.com) | \_pbjs\_userid\_consent\_data, pbjs-unifiedid | Third Party |
+| [openx.net](https://cookiepedia.co.uk/host/openx.net) | i, pd | Third Party |
+| [mfadsrvr.com](https://cookiepedia.co.uk/host/mfadsrvr.com) | bsw\_uid, c, ssh, tuuid, tuuid\_lu | Third Party |
+| [smartadserver.com](https://cookiepedia.co.uk/host/smartadserver.com) | csync, pid | Third Party |
+| [scorecardresearch.com](https://cookiepedia.co.uk/host/scorecardresearch.com) | UID, UIDR | Third Party |
+| [360yield.com](https://cookiepedia.co.uk/host/360yield.com) | tuuid, tuuid\_lu | Third Party |
+| [cdn.taboola.com](https://cookiepedia.co.uk/host/cdn.taboola.com) | trc\_cookie\_storage | Third Party |
+| [pagead2.googlesyndication.com](https://cookiepedia.co.uk/host/pagead2.googlesyndication.com) | GoogleAdServingTest | Third Party |
+| [mookie1.com](https://cookiepedia.co.uk/host/mookie1.com) | id, mdata, ov, syncdata\_TAB | Third Party |
+| [ads.stickyadstv.com](https://cookiepedia.co.uk/host/ads.stickyadstv.com) | sessionId, UID, uid-bp-159 | Third Party |
+| [blismedia.com](https://cookiepedia.co.uk/host/blismedia.com) | b   | Third Party |
+| [rlcdn.com](https://cookiepedia.co.uk/host/rlcdn.com) | pxrc, rlas3 | Third Party |
+| [bidr.io](https://cookiepedia.co.uk/host/bidr.io) | bito, bitoIsSecure, checkForPermission | Third Party |
+| [adotmob.com](https://cookiepedia.co.uk/host/adotmob.com) | partners, uid, uuid | Third Party |
+| [adnxs.com](https://cookiepedia.co.uk/host/adnxs.com) | anj, icu, uids, uuid2 | Third Party |
+| [dlx.addthis.com](https://cookiepedia.co.uk/host/dlx.addthis.com) | na\_sc\_x | Third Party |
+| [beacon.lynx.cognitivlabs.com](https://cookiepedia.co.uk/host/beacon.lynx.cognitivlabs.com) | ss  | Third Party |
+| [sportradarserving.com](https://cookiepedia.co.uk/host/sportradarserving.com) | c, zuuid, zuuid\_lu | Third Party |
+| [contextweb.com](https://cookiepedia.co.uk/host/contextweb.com) | ccpa | Third Party |
+| [srv.stackadapt.com](https://cookiepedia.co.uk/host/srv.stackadapt.com) | sa-user-id-v2 | Third Party |
+| [owneriq.net](https://cookiepedia.co.uk/host/owneriq.net) | p2, si | Third Party |
+| [casalemedia.com](https://cookiepedia.co.uk/host/casalemedia.com) | CMID, CMPRO, CMPS, CMRUM3, CMST | Third Party |
+| [www.facebook.com](https://cookiepedia.co.uk/host/www.facebook.com) |     | Third Party |
+| [bing.com](https://cookiepedia.co.uk/host/bing.com) | MUID | Third Party |
+| [mathtag.com](https://cookiepedia.co.uk/host/mathtag.com) | mt\_mop, uuid | Third Party |
+| [eus.rubiconproject.com](https://cookiepedia.co.uk/host/eus.rubiconproject.com) | cd  | Third Party |
+| [dpm.demdex.net](https://cookiepedia.co.uk/host/dpm.demdex.net) | dpm | Third Party |
+| [zeotap.com](https://cookiepedia.co.uk/host/zeotap.com) | zc  | Third Party |
+| [www.opinionstage.com](https://cookiepedia.co.uk/host/www.opinionstage.com) | \_os\_session | Third Party |
+| [sync.srv.stackadapt.com](https://cookiepedia.co.uk/host/sync.srv.stackadapt.com) | sa-user-id | Third Party |
+| [bh.contextweb.com](https://cookiepedia.co.uk/host/bh.contextweb.com) | INGRESSCOOKIE | Third Party |
+| [amazon-adsystem.com](https://cookiepedia.co.uk/host/amazon-adsystem.com) | ad-id, ad-privacy | Third Party |
+| [analytics.yahoo.com](https://cookiepedia.co.uk/host/analytics.yahoo.com) | IDSYNC | Third Party |
+| [simpli.fi](https://cookiepedia.co.uk/host/simpli.fi) | suid, suid\_legacy | Third Party |
+| [dev-a.pub.network](https://cookiepedia.co.uk/host/dev-a.pub.network) | fssts | Third Party |
+| [nrich.ai](https://cookiepedia.co.uk/host/nrich.ai) | \_nauid | Third Party |
+| [addthis.com](https://cookiepedia.co.uk/host/addthis.com) | na\_id, na\_tc, ouid, uid | Third Party |
+| [dnacdn.net](https://cookiepedia.co.uk/host/dnacdn.net) | browser\_data | Third Party |
+| [youtube.com](https://cookiepedia.co.uk/host/youtube.com) | CONSENT, VISITOR\_INFO1\_LIVE, YSC | Third Party |
+| [turn.com](https://cookiepedia.co.uk/host/turn.com) | uid | Third Party |
+| [dotomi.com](https://cookiepedia.co.uk/host/dotomi.com) | DotomiTest | Third Party |
+| [c.bing.com](https://cookiepedia.co.uk/host/c.bing.com) | MR  | Third Party |
+| [a.pub.network](https://cookiepedia.co.uk/host/a.pub.network) | fsbotchecked | Third Party |
+| [eqads.com](https://cookiepedia.co.uk/host/eqads.com) | EQUser | Third Party |
+| [sitescout.com](https://cookiepedia.co.uk/host/sitescout.com) | \_ssuma, ssi | Third Party |
+| [b-code.liadm.com](https://cookiepedia.co.uk/host/b-code.liadm.com) | \_liChk | Third Party |
+| [adsrvr.org](https://cookiepedia.co.uk/host/adsrvr.org) | TDCPM, TDID | Third Party |
+| [tribalfusion.com](https://cookiepedia.co.uk/host/tribalfusion.com) | ANON\_ID, ANON\_ID\_old | Third Party |
+| [cdn.funnel.naturaltracking.com](https://cookiepedia.co.uk/host/cdn.funnel.naturaltracking.com) | et\_current\_iid, et\_user\_id, last\_et\_user\_id | Third Party |
+| [rfihub.com](https://cookiepedia.co.uk/host/rfihub.com) | eud, euds, rud, ruds | Third Party |
+| [spotxchange.com](https://cookiepedia.co.uk/host/spotxchange.com) | audience | Third Party |
+| [3lift.com](https://cookiepedia.co.uk/host/3lift.com) | sync, tluid | Third Party |
+| [advertising.com](https://cookiepedia.co.uk/host/advertising.com) | APID | Third Party |
+| [crwdcntrl.net](https://cookiepedia.co.uk/host/crwdcntrl.net) | \_cc\_aud, \_cc\_cc, \_cc\_dc, \_cc\_id | Third Party |
+| [agkn.com](https://cookiepedia.co.uk/host/agkn.com) | ab, u | Third Party |
+| [pool.admedo.com](https://cookiepedia.co.uk/host/pool.admedo.com) | c, tuuid, tuuid\_lu | Third Party |
+| [i.liadm.com](https://cookiepedia.co.uk/host/i.liadm.com) | \_li\_ss | Third Party |
+| [media.net](https://cookiepedia.co.uk/host/media.net) | gdpr\_status | Third Party |
+| [ipredictive.com](https://cookiepedia.co.uk/host/ipredictive.com) | cu  | Third Party |
+| [krxd.net](https://cookiepedia.co.uk/host/krxd.net) | \_kuid\_ | Third Party |
+| [targeting.unrulymedia.com](https://cookiepedia.co.uk/host/targeting.unrulymedia.com) | \_rxuuid | Third Party |
+| [exelator.com](https://cookiepedia.co.uk/host/exelator.com) | EE, ud | Third Party |
+| [everesttech.net](https://cookiepedia.co.uk/host/everesttech.net) | everest\_g\_v2 | Third Party |
+| [erne.co](https://cookiepedia.co.uk/host/erne.co) | u   | Third Party |
+| [yahoo.com](https://cookiepedia.co.uk/host/yahoo.com) | A1, A1S, A3, APID, APIDTS, B, GUC | Third Party |
+| [w55c.net](https://cookiepedia.co.uk/host/w55c.net) | matchbidswitch, matchopenx, wfivefivec | Third Party |
+| [bluekai.com](https://cookiepedia.co.uk/host/bluekai.com) | bkdc, bkpa, bku | Third Party |
+| [bidswitch.net](https://cookiepedia.co.uk/host/bidswitch.net) | bsw\_origin\_init, c, custom\_data, licd, tuuid, tuuid\_lu | Third Party |
+| [a.sportradarserving.com](https://cookiepedia.co.uk/host/a.sportradarserving.com) | zuuid\_k | Third Party |
+| [extend.tv](https://cookiepedia.co.uk/host/extend.tv) | extendtv\_user\_id | Third Party |
+| [linkedin.com](https://cookiepedia.co.uk/host/linkedin.com) | bcookie, li\_gc, lidc | Third Party |
+| [ads.linkedin.com](https://cookiepedia.co.uk/host/ads.linkedin.com) | lang | Third Party |
+| [justpremium.com](https://cookiepedia.co.uk/host/justpremium.com) | jpxumaster, jpxumatched | Third Party |
+| [admixer.net](https://cookiepedia.co.uk/host/admixer.net) | am-uid | Third Party |
+| [1rx.io](https://cookiepedia.co.uk/host/1rx.io) | \_rxuuid | Third Party |
+| [pub.network](https://cookiepedia.co.uk/host/pub.network) | \_fsuid | Third Party |
+| [s.thebrighttag.com](https://cookiepedia.co.uk/host/s.thebrighttag.com) | bt3, btv3.1YJNAYe | Third Party |
+| [rubiconproject.com](https://cookiepedia.co.uk/host/rubiconproject.com) | audit, khaos, rsid, ses10, ses15, ses2, ses9, vis10, vis15, vis2, vis9 | Third Party |
+| [taboola.com](https://cookiepedia.co.uk/host/taboola.com) | t\_gid, taboola\_session\_id | Third Party |
+| [demdex.net](https://cookiepedia.co.uk/host/demdex.net) | demdex | Third Party |
+| [quantserve.com](https://cookiepedia.co.uk/host/quantserve.com) | d, mc | Third Party |
+| [acuityplatform.com](https://cookiepedia.co.uk/host/acuityplatform.com) | auid, aum | Third Party |
+| [ml314.com](https://cookiepedia.co.uk/host/ml314.com) | pi, u | Third Party |
+| [facebook.com](https://cookiepedia.co.uk/host/facebook.com) | fr  | Third Party |
+| [adform.net](https://cookiepedia.co.uk/host/adform.net) | C, uid | Third Party |
+| [postrelease.com](https://cookiepedia.co.uk/host/postrelease.com) | status, visitor | Third Party |
+| [lijit.com](https://cookiepedia.co.uk/host/lijit.com) | \_ljtrtb\_10, \_ljtrtb\_12, \_ljtrtb\_16, \_ljtrtb\_26, \_ljtrtb\_27, \_ljtrtb\_3, \_ljtrtb\_43, \_ljtrtb\_49, \_ljtrtb\_5001, \_ljtrtb\_56, \_ljtrtb\_66, \_ljtrtb\_80, \_ljtrtb\_83, \_ljtrtb\_84, \_ljtrtb\_85, \_ljtrtb\_86, \_ljtrtb\_90, \_ljtrtb\_xx, ljt\_reader, ljtrtb | Third Party |
+| [tapad.com](https://cookiepedia.co.uk/host/tapad.com) | TapAd\_3WAY\_SYNCS, TapAd\_DID, TapAd\_TS | Third Party |
+| [google.com](https://cookiepedia.co.uk/host/google.com) | NID | Third Party |
+
+#### Store and/or access information on a device
+
+Cookies, device identifiers, or other information can be stored or accessed on your device for the purposes presented to you.
+
+#### Personalised ads and content, ad and content measurement, audience insights and product development
+
+Ads and content can be personalised based on a profile. More data can be added to better personalise ads and content. Ad and content performance can be measured. Insights about audiences who saw the ads and content can be derived. Data can be used to build or improve user experience, systems and software.
+
+*   ##### Create a personalised ads profile
+    
+    A profile can be built about you and your interests to show you personalised ads that are relevant to you.
+    
+*   ##### Select personalised ads
+    
+    Personalised ads can be shown to you based on a profile about you.
+    
+*   ##### Create a personalised content profile
+    
+    A profile can be built about you and your interests to show you personalised content that is relevant to you.
+    
+*   ##### Select personalised content
+    
+    Personalised content can be shown to you based on a profile about you.
+    
+*   ##### Measure ad performance
+    
+    The performance and effectiveness of ads that you see or interact with can be measured.
+    
+*   ##### Measure content performance
+    
+    The performance and effectiveness of content that you see or interact with can be measured.
+    
+*   ##### Apply market research to generate audience insights
+    
+    Market research can be used to learn more about the audiences who visit sites/apps and view ads.
+    
+*   ##### Develop and improve products
+    
+    Your data can be used to improve existing systems and software, and to develop new products
+    
+
+#### Select basic ads
+
+Ads can be shown to you based on the content you’re viewing, the app you’re using, your approximate location, or your device type.
+
+#### Use precise geolocation data
+
+Your precise geolocation data can be used in support of one or more purposes. This means your location can be accurate to within several meters.
+
+#### Actively scan device characteristics for identification
+
+Your device can be identified based on a scan of your device's unique combination of characteristics.
+
+#### Ensure security, prevent fraud, and debug
+
+Your data can be used to monitor for and prevent fraudulent activity, and ensure systems and processes work properly and securely.
+
+#### Technically deliver ads or content
+
+Your device can receive and send information that allows you to see and interact with ads and content.
+
+#### Match and combine offline data sources
+
+Data from offline data sources can be combined with your online activity in support of one or more purposes
+
+#### Link different devices
+
+Different devices can be determined as belonging to you or your household in support of one or more of purposes.
+
+#### Receive and use automatically-sent device characteristics for identification
+
+Your device might be distinguished from other devices based on information it automatically sends, such as IP address or browser type.
+
+Manage Preferences
