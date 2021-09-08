@@ -217,7 +217,7 @@ We will try to resolve any disputes with you quickly and efficiently. If you are
 
 ### **How to Contact Us**
 
-Please forward any comments, complaints about the Services or questions you may have to [support@tp-link.com](http://support@tp-link.com/)
+Please forward any comments, complaints about the Services or questions you may have to [support@tp-link.com](mailto:support@tp-link.com)
 
 _**Effective Date: Sep 1, 2019.**_
 
