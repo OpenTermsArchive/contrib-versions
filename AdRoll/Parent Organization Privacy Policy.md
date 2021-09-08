@@ -1,7 +1,7 @@
 Service Privacy Notice
 ======================
 
-Effective as of June 24, 2021  
+Effective as of September 8, 2021  
 View [archived Privacy Notice](https://www.nextroll.com/privacy/archived)
 
 NextRoll, Inc. (formerly AdRoll, Inc.) and its subsidiaries and affiliates (“**we**” “**our**” or “**us**”) is an independent marketing technology company that offers intelligent, data-driven advertising and marketing services and solutions to help big and small companies accelerate their growth (“**Services**”).
@@ -434,7 +434,7 @@ The [Data Sharing](#service-4) section sets out the personal information that we
 
 #### _Disclosure of Personal Information for a Business Purpose_
 
-With the exception of our [RollWorks B2B Contact Data](https://www.rollworks.com/contact-data), NextRoll’s Services do not amount to a **_sale of personal information_**. Instead, **_to the extent that NextRoll discloses personal data to third parties, it does so for business purposes_**, primarily to perform its advertising, marketing and analytical Services, but also for the purposes set out in [Purposes for which Personal Information is Collected](#purposesforwhichpersonalinformationiscollected) above. However, NextRoll always provides consumers with the ability to opt-out of interest based advertising (and control their data collection in additional ways). You may opt-out of interest-based advertising, which may constitute a sale of personal information under CCPA, by visiting [https://app.adroll.com/optout](https://app.adroll.com/optout) or through the instructions provided in the [Your Choices and Opting-Out of Interest-Based Advertising and Analytics](#service-8) Section of this Privacy Notice.
+NextRoll **discloses personal data for business purposes**: primarily to perform advertising, marketing and analytics and those purposes set out in [Purposes for which Personal Information is Collected](#purposesforwhichpersonalinformationiscollected) above.
 
 In the preceding twelve (12) months, we have disclosed personal information for our business purposes:
 
@@ -446,9 +446,13 @@ We disclose your personal information for a business purpose to the categories o
 
 #### Sales of Personal Information
 
-In the preceding (12) twelve months, pursuant to our [RollWorks B2B Contact Data](https://www.rollworks.com/contact-data) Service, we have sold personal information in the form of business emails from Category A (Identifiers).
+In the preceding (12) twelve months, pursuant to our [RollWorks B2B Contact Data](https://www.rollworks.com/contact-data) Service, we have sold personal information in the form of business emails from Category A (Identifiers). To opt-out of the sale of your business email information, visit our [Do Not Sell My Personal Information page](https://app.adroll.com/optout/email).
 
-Other than our [RollWorks B2B Contact Data Service](https://www.rollworks.com/contact-data), we do not consider that our Services constitute a ‘sale of personal information’ under the CCPA. However, we will still honor requests from consumers to opt-out of the collection and disclosure of their personal information.
+To the extent that using cookies and other tracking technologies to serve retargeted or interest-based advertising constitutes a ‘sale of personal information’ under the CCPA, in the preceding (12) months we have sold personal information in the form of cookie string data and pseudonymous data (e.g. hashed emails) from Category A (identifiers).
+
+NextRoll continues to provide consumers with the ability to opt out of the collection and use of their personal information by preventing cookies and other tracking technologies from functioning by opting out of interest-based advertising.
+
+You may opt-out of interest-based advertising by visiting our [opt-out page](https://app.adroll.com/optout) or [Do Not Sell My Personal Information page](https://app.adroll.com/optout/email), or through the instructions provided in [Your Choices and Opting-Out of Interest-Based Advertising and Analytics Ads](#service-8).
 
 #### Your Rights and Choices
 
@@ -484,7 +488,7 @@ We may deny your deletion request if retaining the information is necessary for 
 
 #### Exercising Right to Know, Data Portability and Right to Deletion
 
-To exercise the access, data portability and deletion rights described above, please submit the consumer request to us by either:
+To exercise the right to know, data portability and deletion rights described above, please submit the consumer request to us by either:
 
 *   Calling us at 1-844-740-7126; or
 *   Visiting this [webpage](https://www.nextroll.com/privacy/requests).
@@ -522,7 +526,7 @@ To view metrics regarding consumer requests to know, delete, and opt out, for th
 
 #### Personal Information Sales Opt-Out Rights
 
-To exercise the right to opt-out of our sale of your Contact Data or to opt out of interest-based advertising, you (or your authorized representative) may submit a request to us by visiting the [Do Not Sell My Personal Information](https://app.adroll.com/optout/email) webpage.
+To exercise the right to opt-out of interest-based advertising or sale of your business email address, cookie data string or pseudonymous data (e.g., hashed emails), you (or your authorized representative) may visit the [Do Not Sell My Personal Information](https://app.adroll.com/optout/email) webpage.
 
 #### Non-Discrimination
 
