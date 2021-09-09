@@ -1,14 +1,6 @@
 Cookies at Palantir.com
 =======================
 
-Please see our [Privacy Policy](https://www.palantir.com/privacy-and-security/) regarding how we will handle this information.
-
-Palantir CEO Alex Karp in conversation with CNBC's Wilfred Frost
-
-UK Vaccine rollout success built on NHS determination and military precision
-
-Our platforms are used throughout the public, private, and non-profit sectors to help organizations quickly implement solutions to the hardest problems they face.
-
 _Last updated August 2021_
 
 This Cookie Statement (“**Statement**”) explains how Palantir Technologies Inc. and our subsidiaries (collectively “**Palantir**”, “**we**“, “**us**“, and “**our**“) use cookies to recognize you when you visit our website at www.palantir.com (“**Site(s)**“). It explains what cookies are and why we use them, as well as your rights to control our use of them. Please note that some of our subsidiaries may have set up their own cookie statements (for example, the French site available at [https://palantir.fr/gestion-des-cookies/](https://palantir.fr/gestion-des-cookies/)).
