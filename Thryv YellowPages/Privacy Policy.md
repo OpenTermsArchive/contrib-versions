@@ -3,9 +3,7 @@ Privacy Notice
 
 Thryv, Inc. and its affiliates (individually and collectively known as “**Thryv**”) respect your right to privacy, and we want you to be aware of how we collect and handle information on each website and mobile application covered by this Privacy Policy.
 
-Revised: July 2, 2021
-
-If you are located in Australia, the “Thryv Australia Pty Ltd privacy policy applies to you. Please see [https://corporate.thryv.com.au/privacy](https://corporate.thryv.com.au/privacy/).
+Revised: September 9, 2021
 
 Your information privacy is important to us.
 
@@ -254,7 +252,7 @@ To exercise the right to opt-out, you (or your authorized representative) may su
 [THRYV.com](https://www.thryv.com/)  
 [THEREALYELLOWPAGES.com](https://therealyellowpages.com/)
 
-And clicking the button labelled “DO NOT SELL MY PERSONAL INFORMATION”
+And clicking the button labeled “DO NOT SELL MY PERSONAL INFORMATION”
 
 Once you make an opt-out request, we will wait at least twelve (12) months before asking you to reauthorize Personal Information sales. However, you may change your mind and opt back in to Personal Information sales at any time.
 
@@ -264,11 +262,27 @@ We will not discriminate against you for exercising any of your CCPA Rights and 
 
 However, we may offer various financial incentives permitted by the CCPA that **can result** in different prices, rates, or quality levels. Any CCPA-permitted financial incentive we offer will reasonably relate to your Personal Information’s value and contain written terms that describe the program’s material aspects. Participation in a financial incentive program requires your prior opt in consent, which you may revoke at any time.
 
-**Privacy Policy Changes**
+Notice to Australian Residents
+
+If you are an Australian resident, you may have certain privacy rights under the Australian Privacy Act 1988 (Cth). This section describes those rights and how you can exercise them with Thryv.
+
+**Accessing your Personal Information**
+
+You can request a copy of the Personal Information that we hold about you by emailing us at [privacy@sensis.com.au](mailto:privacy@sensis.com.au). There is no charge to submit a request, however we may apply an administrative charge for providing access but we’ll always check with your first. If we can’t give you access, or can only give you access to certain information, we’ll tell you why.
+
+**Correcting your Personal Information**
+
+We do everything we can to make sure the Personal Information we handle is correct, complete and current. But if you do spot an error, you can let us know by contacting us at [privacy@sensis.com.au](mailto:privacy@sensis.com.au).
+
+**Complaints**
+
+If you live in Australia and have any complaints regarding our handling of your Personal Information, our response to your request, or our compliance with the Privacy Act 1988 (Cth), please contact our Privacy Officer at [privacy@sensis.com.au](mailto:privacy@sensis.com.au). However, if you are dissatisfied with our response, you may raise a complaint with the Office of the Australian Information Commissioner by contacting them at: [https://www.oaic.gov.au/about-us/contact-us](https://www.oaic.gov.au/about-us/contact-us).
+
+Privacy Policy Changes
 
 We may change this Privacy Policy from time to time. If we decide to change this Privacy Policy, we will inform you by posting the revised Privacy Policy on this Website. Those changes will go into effect on the effective date shown on the revised Privacy Policy. By continuing to use this Website or the Services, you are consenting to the revised Privacy Policy.
 
-**Contact Us**
+Contact Us
 
 If you have any questions or concerns, you may [**Contact Us**](https://corporate.thryv.com/contact-us).
 
