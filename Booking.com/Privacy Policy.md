@@ -104,7 +104,7 @@ Unless indicated otherwise, Booking.com is a service you are only allowed to use
 
 ### How can you control the personal data you’ve given to Booking.com?
 
-You have the right to review the personal data we keep about you at any time. You can request access to or deletion of your personal data [by submitting this form](https://www.booking.com/content/dsar.en-gb.html?sid=b026bdcb702d759b1c59d2286a833d12). If you want to find out more about your rights to control your personal data, read on.
+You have the right to review the personal data we keep about you at any time. You can request access to or deletion of your personal data [by submitting this form](https://www.booking.com/content/dsar.en-gb.html?sid=5ffac690113433542e2bceb37c7ad86b). If you want to find out more about your rights to control your personal data, read on.
 
 [Read more about how you can control your personal data](#personal-data-controlled-how)
 
@@ -230,7 +230,7 @@ We use the information collected about you for a variety of purposes. Your perso
     
     If you have a Booking.com account, you can choose to display a screen name next to your review, instead of your real name or even submit the review anonymously. If you’d like to set a screen name, you can do that in your account settings. Adding an avatar is also possible.
     
-    By completing a review, you’re agreeing that it can be displayed (as described in detail in our [Terms and Conditions](https://www.booking.com/content/terms.en-gb.html?sid=b026bdcb702d759b1c59d2286a833d12)) on, for example, the relevant Trip Provider information page on our websites, on our mobile apps, on our social media accounts and social media apps, or on the online platform of the relevant Trip Provider or business partner’s website. This is to inform other travellers about the quality of the Trip Service you used, the destination you have chosen or any other experiences you choose to share.
+    By completing a review, you’re agreeing that it can be displayed (as described in detail in our [Terms and Conditions](https://www.booking.com/content/terms.en-gb.html?sid=5ffac690113433542e2bceb37c7ad86b)) on, for example, the relevant Trip Provider information page on our websites, on our mobile apps, on our social media accounts and social media apps, or on the online platform of the relevant Trip Provider or business partner’s website. This is to inform other travellers about the quality of the Trip Service you used, the destination you have chosen or any other experiences you choose to share.
     
 11.  Call monitoring: When you make calls to our customer service team, Booking.com uses an automated telephone number detection system to match your telephone number to your existing reservations. This can help save time for both you and our customer service staff. However, our customer service staff may still ask for authentication, which helps to keep your reservation details confidential.
     
@@ -279,7 +279,7 @@ In certain circumstances, we’ll share your personal data with third parties. T
     
     Please note that, sometimes, at the direction of the Trip Provider, we will need to share your personal data with parties related to the Trip Provider in order to finalise and administer your reservation. These parties might include other entities of a hotel group or service providers who are handling the data on the Trip Provider’s behalf.
     
-2.  Your local Booking.com office: To support the use of Booking.com services, your details may be shared with subsidiaries of the Booking.com corporate group, including for customer service. To find out more about the Booking.com corporate group, visit [About Booking.com](https://www.booking.com/content/about.en-gb.html?sid=b026bdcb702d759b1c59d2286a833d12).
+2.  Your local Booking.com office: To support the use of Booking.com services, your details may be shared with subsidiaries of the Booking.com corporate group, including for customer service. To find out more about the Booking.com corporate group, visit [About Booking.com](https://www.booking.com/content/about.en-gb.html?sid=5ffac690113433542e2bceb37c7ad86b).
     
 3.  Third-party service providers: We use service providers from outside of the Booking.com corporate group to support us in providing our services. These include:
     
@@ -493,7 +493,7 @@ If you have a Booking.com user account, you can access a lot of your personal da
 
 If any of the personal data we have about you isn’t accessible through our website or apps, you can send us a request (which won’t cost you anything).
 
-If you want to exercise your right of access or erasure, all you need to do is complete and submit the [Data Subject Request for Booking.com Customers](https://www.booking.com/content/dsar.en-gb.html?sid=b026bdcb702d759b1c59d2286a833d12) form. For any requests relating to this Privacy Statement, to exercise any of your other rights, or if you have a complaint, please contact our Data Protection Officer at [dataprotectionoffice@booking.com](javascript:location='mailto:/u0064/u0061/u0074/u0061/u0070/u0072/u006f/u0074/u0065/u0063/u0074/u0069/u006f/u006e/u006f/u0066/u0066/u0069/u0063/u0065/u0040/u0062/u006f/u006f/u006b/u0069/u006e/u0067/u002e/u0063/u006f/u006d';void 0). You can also contact your local data protection authority.
+If you want to exercise your right of access or erasure, all you need to do is complete and submit the [Data Subject Request for Booking.com Customers](https://www.booking.com/content/dsar.en-gb.html?sid=5ffac690113433542e2bceb37c7ad86b) form. For any requests relating to this Privacy Statement, to exercise any of your other rights, or if you have a complaint, please contact our Data Protection Officer at [dataprotectionoffice@booking.com](javascript:location='mailto:/u0064/u0061/u0074/u0061/u0070/u0072/u006f/u0074/u0065/u0063/u0074/u0069/u006f/u006e/u006f/u0066/u0066/u0069/u0063/u0065/u0040/u0062/u006f/u006f/u006b/u0069/u006e/u0067/u002e/u0063/u006f/u006d';void 0). You can also contact your local data protection authority.
 
 If you’d like to object to your personal data being processed on the basis of legitimate interest and there’s no way to opt out directly, please contact us at [dataprotectionoffice@booking.com](javascript:location='mailto:/u0064/u0061/u0074/u0061/u0070/u0072/u006f/u0074/u0065/u0063/u0074/u0069/u006f/u006e/u006f/u0066/u0066/u0069/u0063/u0065/u0040/u0062/u006f/u006f/u006b/u0069/u006e/u0067/u002e/u0063/u006f/u006d';void 0).
 
@@ -546,9 +546,9 @@ We may share certain pieces of your personal information with third parties, whi
 
 Californian law provides you with certain rights, including the right to access specific pieces of personal information, learn about how we process personal information, including disclose or sell personal information, request deletion of personal information, opt out of 'sales' and not to be denied goods or services for exercising these rights.
 
-You may exercise your right to opt out of 'sales' by clicking on this link and following the instructions: [https://www.booking.com/content/ccpa.html](https://www.booking.com/content/ccpa.en-gb.html?sid=b026bdcb702d759b1c59d2286a833d12)
+You may exercise your right to opt out of 'sales' by clicking on this link and following the instructions: [https://www.booking.com/content/ccpa.html](https://www.booking.com/content/ccpa.en-gb.html?sid=5ffac690113433542e2bceb37c7ad86b)
 
-To exercise your right to request access to or the deletion of your personal information under California law, please fill out our [Data Subject Request for Booking.com Customers form](https://www.booking.com/content/dsar.en-gb.html?sid=b026bdcb702d759b1c59d2286a833d12). To otherwise exercise these or any of your other rights under California law, or to contact us with questions and concerns about this privacy notice and our practices, you can also contact us at [dataprotectionoffice@booking.com](javascript:location='mailto:/u0064/u0061/u0074/u0061/u0070/u0072/u006f/u0074/u0065/u0063/u0074/u0069/u006f/u006e/u006f/u0066/u0066/u0069/u0063/u0065/u0040/u0062/u006f/u006f/u006b/u0069/u006e/u0067/u002e/u0063/u006f/u006d';void 0) with the subject line: “California Resident Privacy Rights - Request”.
+To exercise your right to request access to or the deletion of your personal information under California law, please fill out our [Data Subject Request for Booking.com Customers form](https://www.booking.com/content/dsar.en-gb.html?sid=5ffac690113433542e2bceb37c7ad86b). To otherwise exercise these or any of your other rights under California law, or to contact us with questions and concerns about this privacy notice and our practices, you can also contact us at [dataprotectionoffice@booking.com](javascript:location='mailto:/u0064/u0061/u0074/u0061/u0070/u0072/u006f/u0074/u0065/u0063/u0074/u0069/u006f/u006e/u006f/u0066/u0066/u0069/u0063/u0065/u0040/u0062/u006f/u006f/u006b/u0069/u006e/u0067/u002e/u0063/u006f/u006d';void 0) with the subject line: “California Resident Privacy Rights - Request”.
 
 If you are an authorized agent wishing to exercise rights on behalf of a California consumer, please contact us at the email above, attaching a copy of the consumer’s written authorization, designating you as their agent. We may need to verify your identity before completing your rights request by, for example, requesting information about your previous Trip Reservations with us.
 
