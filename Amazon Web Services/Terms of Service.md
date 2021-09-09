@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-#### Last Updated: September 8, 2021
+#### Last Updated: September 9, 2021
 
 The Service Terms below govern your use of the Services. Capitalized terms used in these Service Terms but not defined below are defined in the [AWS Customer Agreement](https://aws.amazon.com/agreement/) or other agreement with us governing your use of the Services (the “Agreement”). For purposes of these Service Terms, “Your Content” includes any “Company Content” and any “Customer Content,” and “AWS Content” includes “Amazon Properties.”
 
@@ -483,9 +483,9 @@ Use of Microsoft Software on AWS Directory Service is subject to Section 5.1 abo
 
 **35.3.** You acknowledge and agree that we may disclose application packages, test packages (pre- compiled), test script source code, application extension files, or auxiliary data files to third parties solely for purposes of conducting automated security verification.  
 
-#### 36\. Amazon Elasticsearch Service
+#### 36\. Amazon OpenSearch Service (successor to Amazon Elasticsearch Service)
 
-Amazon Elasticsearch Service creates daily automated snapshots of your Amazon Elasticsearch Service domains. We will maintain these automated snapshots for a period of at least 14 days after they are created. We may delete automated snapshots at any time after 14 days.  
+Amazon OpenSearch Service creates daily automated snapshots of your Amazon OpenSearch Service domains. We will maintain these automated snapshots for a period of at least 14 days after they are created. We may delete automated snapshots at any time after 14 days.  
 
 #### 37\. AWS Database Migration Service and AWS Schema Conversion Tool
 
