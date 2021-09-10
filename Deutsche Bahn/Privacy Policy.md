@@ -69,56 +69,58 @@ The following contains a more detailed description of the data processing activi
 
 List of specific examples:
 
-•    Creating a customer account  
-The following mandatory information is required when users create a customer account:  
-\- User name (e-mail address) and password  
-\- First name and surname  
-\- E-mail address  
-\- Security question for forgotten passwords and answer to your security question
+**Creating a customer account**  
+The following mandatory information is required when users create a customer account:
+
+*   User name (e-mail address) and password
+*   First name and surname
+*   E-mail address
+*   Security question for forgotten passwords and answer to your security question
 
 It is not possible to create a personal account without supplying this information. All other personal information and details pertaining to the user's travel profile are optional. We save your booking and login data in your customer account and use it for performing internal analyses and marketing research. 
 
-•    Booking a digital ticket      
+**Booking a digital ticket**   
 When you book a digital ticket, our system uses the address details as well as surname and first name in your customer account. In addition, when you book an international ticket via international-bahn.de/bahn.com or certain regional offerings, our system uses the date of birth in your customer account, if you have included it. When the tickets are inspected on board the train, the train attendant's mobile terminal will display the information contained in the ticket.
 
-•    Purchasing a BahnCard  
+**Purchasing a BahnCard**  
 When you purchase a BahnCard, our system uses the contact and identification data in your customer account. Further information on data processing in connection with the BahnCard can be found at [db-vertrieb.com/datenschutz.](https://www.db-vertrieb.com/datenschutz.)(german only)
 
-•    Payment details in customer accounts  
+**Payment details in customer accounts**  
 We process your payment details when handling transactions, such as when you buy a product via bahn.de/bahn.com. Depending on the payment method chosen, we may forward your payment details to a third party, as we work with partner companies in order to process certain payment options. You can use the payment services of PayPal, paydirekt and Klarna without payment details being stored in your customer account. 
 
-•    Registration for payment by SEPA direct debit  
-When you register to use the SEPA direct debit process, you provide us with a SEPA mandate that we can use to deduct payments from your bank account by means of a SEPA direct debit if you have selected this payment option. The legal basis for this is Article 6(1)(b) GDPR.
+*   **Registration for payment by SEPA direct debit**  
+    When you register to use the SEPA direct debit process, you provide us with a SEPA mandate that we can use to deduct payments from your bank account by means of a SEPA direct debit if you have selected this payment option. The legal basis for this is Article 6(1)(b) GDPR.
 
-•    Payment by credit card  
-To ensure that your payments are processed securely, payment-related data (amount, booking reference, booking description, payer) in your customer account is forwarded to a payment service provider. The legal basis for this is Article 6(1)(b) GDPR. Our payment service provider for processing credit card payments is PAYONE GmbH, Lyoner Strasse 9, 60528 Frankfurt am Main, Germany. To learn how Payone processes your data, please read its privacy policy at [https://www.payone.com/dsgvo](https://www.payone.com/dsgvo)/.   The payment service provider performs the following: processing of credit card data in order to perform payments and store details in your customer account; application of security measures used by your card's issuer (such as 3D Secure and strong customer authentication). No other institution handles your data. We do not receive access to your full credit card data. Instead, we merely save a reference in the form of an abbreviated credit card number so that you can identify it. To prevent cases of fraud, a processor is used to process your device or browser fingerprint along with your payment-related data. This serves to protect you and us by preventing the misuse of your financial details when making payments via bahn.de/bahn.com. The legal basis for this is Article 6 (1) (f) GDPR.
+*   **Payment by credit card**  
+    To ensure that your payments are processed securely, payment-related data (amount, booking reference, booking description, payer) in your customer account is forwarded to a payment service provider. The legal basis for this is Article 6(1)(b) GDPR. Our payment service provider for processing credit card payments is PAYONE GmbH, Lyoner Strasse 9, 60528 Frankfurt am Main, Germany. To learn how Payone processes your data, please read its privacy policy at [https://www.payone.com/dsgvo](https://www.payone.com/dsgvo)/.    
+    The payment service provider performs the following: processing of credit card data in order to perform payments and store details in your customer account; application of security measures used by your card's issuer (such as 3D Secure and strong customer authentication). No other institution handles your data. We do not receive access to your full credit card data. Instead, we merely save a reference in the form of an abbreviated credit card number so that you can identify it. To prevent cases of fraud, a processor is used to process your device or browser fingerprint along with your payment-related data. This serves to protect you and us by preventing the misuse of your financial details when making payments via bahn.de/bahn.com. The legal basis for this is Article 6 (1) (f) GDPR.
 
-•    Enquiry regarding bookings  
+**Enquiry regarding bookings**  
 If you use the contact form / chatbot to ask questions regarding a booking, our system uses the details in your customer account, including the contact details it contains, to process your enquiry and in the event of follow-up questions. 
 
-•    Offers relating to similar products or services  
+**Offers relating to similar products or services**  
 We take steps in order to maintain customer relations with you and to provide you with information and offers which we think will correspond to your travel preferences and interests. We therefore process your data on the basis of Article 6(1)(f) GDPR (plus with the help of service providers) in order to send you information and offers. We use your contact data (name, address and e-mail address which we have received as a result of our business relationship with you) for advertising by post and for similar goods or services by e-mail, in particular for market research, unless you object to such use.
 
 You can object at any time to the future use of your data for such advertising purposes. Simply send your objection by e-mail to ecommerce-datenschutz@bahn.de or by post to one of the above-named DB companies (advertising opt-out).
 
-•    Ordering subscriptions online  
+**Ordering subscriptions online**  
 When you purchase a season ticket as a subscription, our system uses the contact and payment data in your customer account. Depending on the offer, identification data such as date of birth or a photograph may also be required. Your customer account displays your current subscription.
 
-•    Newsletter registration  
+**Newsletter registration**  
 If you use your customer account to register for a newsletter, our system uses the relevant data in your account.  
 When you register for a newsletter, we also store the IP address assigned by the Internet Service Provider (ISP) to your end-user device used at the time of registration, as well as the date and time of registration. The collection of this data is necessary in order to trace (possible) subsequent misuse of the e-mail address of the person concerned and it therefore serves our legal protection. We want to be able to provide you with information that is relevant to you, so we analyse your interest in the contents of the newsletter based on clicks and the display of content via customised links. You can unsubscribe from the newsletter at any time at ecommerce-datenschutz@bahn.de or by clicking the relevant link at the bottom of the newsletter. 
 
-•    Participating in competitions  
+**Participating in competitions**  
 When we run competitions, we collect data for managing the process. The precise details, i.e. what data is collected and for what purpose, are available on the web page of the relevant competition.
 
-•    Virtual chat assistants  
-Virtual chat assistants (also known as chatbots) are used on bahn.de/bahn.com. They are part of our sales channel and help you find information on bahn.de/bahn.com and in DB Navigator.  They are familiar with our websites' contents and provide keyword-based answers to customers' questions, recommend links to relevant websites or suggest using a different channel if someone wants to contact us.
+**Virtual chat assistants**  
+On bahn.de/bahn.com the virtual assistant (also called chatbot) DB Smile is used. The chatbot serves as an information and customer contact channel for questions relating to DB passenger transport. Communication with the chatbox is easy, and customers can obtain information and receive answers to their questions quickly. DB Smile responds to a large number of requests automatically with the help of artificial intelligence and keyword recognition, offers suggestions and assistance for communication with the chatbot or refers users to other customer service channels (hotline or contact form). At this stage, the chatbox is unable to answer complex or individual customer inquiries. If a request cannot be answered automatically by our bot, you have the option of chatting in real time with a staff member.
 
-We are constantly upgrading our chatbots, which help website and app users to navigate our website and mobile services. At the moment, they cannot process queries about specific contract-related issues. Anyone who has questions of this type can continue to contact us via live chat, phone or e-mail. Users should not provide any personal information when interacting with chatbots.
+At present no contract-related customer inquiries are processed or resolved automatically or via live chat. Anyone who has questions of this type can continue to contact us via phone or e-mail. Users should therefore not provide any personal information when interacting with the chatbot.
 
-Our chatbots store customers' queries for max. 34 days so their self-learning feature can optimise how they operate. They do not process personal data. Usage-related metrics like chat duration, information timestamps, number of dialogues and user's approximate location are stored only for statistical purposes. We process user information only in order to handle their queries and for internal purposes, e.g. managing and improving processes related to our business and services.
+Your inquiries are stored in the chatbot for a maximum of 30 days in order to train the chatbot and optimise response recognition and accuracy. The chatbot can thus be continuously developed in terms of content and functionality. No personal data is analysed. Usage data such as chat duration, timestamp of messages, number of messages or operating system used are only stored for statistical purposes. We process user information only in order to handle their queries and for internal purposes, e.g. managing and improving processes related to our business and services (Art. 6(1)(b) GDPR). 
 
-•    Booking a digital ticket after visiting a partner website (as part of affiliate marketing activities)  
+**Booking a digital ticket after visiting a partner website (as part of affiliate marketing activities)**  
 If you make a booking on an external partner website after clicking a DB affiliate advertisement, the business partner's cookies on that website are read. The relevant cookies have a lifetime of 30 days. This step is necessary for paying the business partner for the booking you make. We work with the Awin network for the purposes of affiliate marketing. 
 
 ### How long is your customer account data stored?
