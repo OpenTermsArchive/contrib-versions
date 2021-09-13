@@ -1,6 +1,6 @@
 ### Privacy Policy
 
-Last Updated January 15, 2021
+Last Updated September 2021
 
 For California residents, please [click here](#calprivacy) to learn more about your privacy rights.
 
@@ -8,7 +8,7 @@ Welcome to the Y Combinator website (including all websites to which this Privac
 
 This Privacy Policy explains what Personal Information (defined below) we collect, how we use and share that data, and your choices concerning our data practices. This Privacy Policy is incorporated into and forms part of our [Terms of Service](https://www.ycombinator.com/legal/).
 
-Before using the Service or submitting any Personal Information to Y Combinator, please review this Privacy Policy carefully and [contact us](#contactus) if you have any questions. By using the Service, you agree to the practices described in this Privacy Policy. If you do not agree to this Privacy Policy, please do not access the Site or otherwise use the Service.
+Before using the Service or submitting any Personal Information to Y Combinator, please review this Privacy Policy carefully and contact us if you have any questions. By using the Service, you agree to the practices described in this Privacy Policy. If you do not agree to this Privacy Policy, please do not access the Site or otherwise use the Service.
 
 ### 1\. PERSONAL INFORMATION WE COLLECT
 
@@ -110,7 +110,7 @@ In certain circumstances we may share your Personal Information with third parti
 
 ### 4\. UPDATE YOUR INFORMATION
 
-Please log in to your account or [contact us](#contactus) if you need to change or correct your Personal Information.
+Please log in to your account to change or correct your Personal Information, or [contact us](mailto:hn@ycombinator.com) if you need help. If you have questions about this Privacy Policy, please email the [legal team](mailto:yclegal@ycombinator.com).
 
 ### 5\. CALIFORNIA PRIVACY RIGHTS
 
@@ -142,7 +142,7 @@ To the extent provided for by law and subject to applicable exceptions, Californ
 
 **We do not and will not sell your Personal Information.**
 
-**Exercising Your Rights**: California residents can exercise the above privacy rights by emailing us at: yclegal@ycombinator.com or calling us at (888) 726-0118.
+**Exercising Your Rights**: California residents can exercise the above privacy rights by [contacting us](mailto:hn@ycombinator.com), by emailing the [legal team](mailto:yclegal@ycombinator.com), or by calling us at 888-726-0118.
 
 **Verification**: in order to protect your Personal Information from unauthorized access or deletion, we may require you to verify your login credentials before you can submit a request to know or delete Personal Information. If you do not have an account with us, or if we suspect fraudulent or malicious activity, we may ask you to provide additional Personal Information and proof of residency for verification. If we cannot verify your identity, we will not provide or delete your Personal Information.
 
@@ -150,7 +150,7 @@ To the extent provided for by law and subject to applicable exceptions, Californ
 
 ### 6\. CHILDREN
 
-Our Service is not directed to children who are under the age of 13. Y Combinator does not knowingly collect Personal Information from children under the age of 13. If you have reason to believe that a child under the age of 13 has provided Personal Information to Y Combinator through the Service please [contact us](#contactus) and we will endeavor to delete that information from our databases.
+Our Service is not directed to children who are under the age of 13. Y Combinator does not knowingly collect Personal Information from children under the age of 13. If you have reason to believe that a child under the age of 13 has provided Personal Information to Y Combinator through the Service, please [contact us](mailto:hn@ycombinator.com) and we will endeavor to delete that information from our databases.
 
 ### 7\. LINKS TO OTHER WEBSITES
 
@@ -166,12 +166,12 @@ By using our Service, you understand and acknowledge that your Personal Informat
 
 ### 10\. YOUR CHOICES
 
-In certain circumstances providing Personal Information is optional. However, if you choose not to provide Personal Information that is needed to use some features of our Service, you may be unable to use those features. You can also [contact us](#contactus) to ask us to update or correct your Personal Information. Please note that we reserve the right to refuse to (i) delete any of the submissions, favorites, or comments you post on the Site or link in your profile or (ii) remove their association with your profile or username.
+In certain circumstances providing Personal Information is optional. However, if you choose not to provide Personal Information that is needed to use some features of our Service, you may be unable to use those features. You can also [contact us](mailto:hn@ycombinator.com) to ask us to update or correct your Personal Information. Please note that we reserve the right to refuse to (i) delete any of the submissions, favorites, or comments you post on the Site or link in your profile or (ii) remove their association with your profile or username.
 
 ### 11\. CHANGES TO THE PRIVACY POLICY
 
 The Service and our business may change from time to time. As a result we may change this Privacy Policy at any time. When we do we will post an updated version on this page, unless another type of notice is required by the applicable law. By continuing to use our Service or providing us with Personal Information after we have posted an updated Privacy Policy, or notified you by other means if applicable, you consent to the revised Privacy Policy and practices described in it.
 
-### 12\. CONTACT US
+### 12\. QUESTIONS ABOUT THE PRIVACY POLICY
 
-If you have any questions about our Privacy Policy or information practices or need to access this Privacy Policy in a different format, please feel free to contact us at our designated request address: yclegal@ycombinator.com.
+If you have any questions about our Privacy Policy or information practices or need to access this Privacy Policy in a different format, please feel free to contact the legal team at our designated request address [here](mailto:yclegal@ycombinator.com).
