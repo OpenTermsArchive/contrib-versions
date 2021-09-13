@@ -83,7 +83,7 @@ Tip: Removing the material reported in a copyright complaint will not resolve th
 #### What if I want to contest the takedown?
 
 If you believe that the materials reported in the copyright complaints  
-were misidentified or removed in error, you may send us a counter-notification(s). A counter-notice is a request for Twitter to reinstate the removed material, and it has legal consequences. Alternatively, you may be able to seek a retraction of the copyright complaint from the reporter.
+were misidentified or removed in error, you may send us a [counter-notification(s)](https://help.twitter.com/en/forms/ipi/dmca-counternotice.html) through our Help Center. A counter-notice is a request for Twitter to reinstate the removed material, and it has legal consequences. Alternatively, you may be able to seek a retraction of the copyright complaint from the reporter.
 
 #### How do I seek a retraction?
 
@@ -106,7 +106,7 @@ To submit a counter-notice, you will need to provide us with the following infor
 3.  A statement under penalty of perjury that you have a good faith belief that the material was removed or disabled as a result of mistake or misidentification of the material to be removed or disabled; and
 4.  Your name, address, and telephone number, and a statement that you consent to the jurisdiction of the Federal District Court for the judicial district in which the address is located, or if your address is outside of the United States, for any judicial district in which Twitter may be found, and that you will accept service of process from the person who provided notification under subsection (c)(1)(C) or an agent of such person.
 
-To submit a counter-notice, please respond to our original email notification of the removal and include the required information in the body of your reply as we discard all attachments for security reasons.
+To submit a counter-notice, please provide all required information [here](https://help.twitter.com/en/forms/ipi/dmca-counternotice.html).
 
 #### What happens after I submit a counter-notice?
 
