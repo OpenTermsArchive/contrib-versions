@@ -67,14 +67,14 @@ If you do organise or arrange to meet with other Local Guides, independently or 
 Local Guides Connect Content Policy
 -----------------------------------
 
-Local Guides Connect (collectively referred to as “Connect”) is a platform that enables people from diverse backgrounds to start conversations, share experiences, provide feedback, and plan online/offline activities. In order to participate on Connect as a Local Guide, you must be at least 18 years of age. Our policies play an important role in maintaining a positive experience for Local Guides on Connect (collectively referred to as the “Services”). Please follow these policies as you:
+Local Guides Connect (collectively referred to as “Connect”) is a platform that enables people from diverse backgrounds to start conversations, share experiences, provide feedback and plan online/offline activities. In order to participate on Connect as a Local Guide, you must be at least 18 years of age. Our policies play an important role in maintaining a positive experience for Local Guides on Connect (collectively referred to as the “Services”). Please follow these policies as you:
 
 *   Use Connect to interact with Local Guides from around the world
 *   Share content such as posts, photos, videos, etc.
 *   Send public and private messages on Connect
 *   Share feedback and send feature requests to Google
 *   Use Connect to plan or participate in offline activities/meet-ups such as photo walks, food crawls, geo walks, map editing sessions, etc.
-*   Gain access to all/select boards where privileged information may be shared
+*   Gain access to all/selected boards where privileged information may be shared
 
 We depend heavily upon Local Guides to let us know about content that may violate our policies. After we're notified of a potential policy violation, we may review the content and take action, including restricting access to the content, removing the content, and limiting or terminating a Local Guide's access to Connect, the Local Guides programme and/or Google products or services. Note that we may make exceptions to these policies based on artistic, educational or documentary considerations, or when there are other substantial benefits to the public from not taking action.
 
