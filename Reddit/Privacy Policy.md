@@ -3,11 +3,6 @@ Reddit Privacy Policy
 
 Effective September 12, 2021. Last Revised August 12, 2021
 
-|     |     |     |
-| --- | --- | --- |
-|     | We’ve updated our [User Agreement](https://www.redditinc.com/policies/user-agreement) and Privacy Policy. Please take a look before the changes take effect on September 12, 2021.  <br>  <br>This page is the updated Privacy Policy; for the version effective until September 12, 2021 [click here](https://www.redditinc.com/policies/privacy-policy-october-15-2020). |     |
-| ‍   |
-
   
 We want you to understand how and why Reddit, Inc. (“**Reddit**,” “**we**” or “**us**”) collects, uses, and shares information about you when you use our sites, mobile apps, widgets, and other online products and services (collectively, the “**Services**”) or when you otherwise interact with us or receive a communication from us. This Privacy Policy applies to all of our Services including Reddit Gifts, which maintains a [separate privacy notice](https://www.redditgifts.com/privacy/) that incorporates this Privacy Policy by reference.
 
