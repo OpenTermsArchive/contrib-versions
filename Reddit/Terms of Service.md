@@ -3,11 +3,6 @@ Reddit User Agreement
 
 Effective September 12, 2021. Last Revised August 12, 2021
 
-|     |     |     |
-| --- | --- | --- |
-|     | We’ve updated our User Agreement and [Privacy Policy](https://www.redditinc.com/policies/privacy-policy). Please take a look before the changes take effect on September 12, 2021.  <br>  <br>This page is the updated User Agreement; for the version effective until September 12, 2021 [click here](https://www.redditinc.com/policies/user-agreement-october-15-2020). |     |
-| ‍   |
-
 **Reddit powers hundreds of thousands of distinct online communities. This User Agreement and your conduct make that possible.**
 
 *   If you live outside the European Economic Area (“**EEA**”), the United Kingdom, or Switzerland, your terms are [here](#US).
