@@ -299,6 +299,14 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   [data.gouv.fr](https://www.data.gouv.fr/fr/) ([https://www.etalab.gouv.fr/licence-ouverte-open-licence](https://www.etalab.gouv.fr/licence-ouverte-open-licence))
             
+        *   Bordeaux Keolis:
+            
+            Cette base de données: [https://opendata.bordeaux-metropole.fr/explore/dataset/ci\_vcub\_p/information/](https://opendata.bordeaux-metropole.fr/explore/dataset/ci_vcub_p/information/) est disponible sous [https://www.etalab.gouv.fr/wp-content/uploads/2014/05/Licence\_Ouverte.pdf](https://www.etalab.gouv.fr/wp-content/uploads/2014/05/Licence_Ouverte.pdf)
+            
+        *   Lille Ilevia:
+            
+            Cette base de données: [https://opendata.lillemetropole.fr/explore/dataset/vlille-realtime/](https://opendata.lillemetropole.fr/explore/dataset/vlille-realtime/) est disponible sous [https://www.etalab.gouv.fr/wp-content/uploads/2014/05/Licence\_Ouverte.pdf.](https://www.etalab.gouv.fr/wp-content/uploads/2014/05/Licence_Ouverte.pdf)
+            
     10.  **Germany**
         *   Bundesamt für Kartographie und Geodäsie - © Vermessungsverwaltungen der Bundesländer und Bundesamt für Kartographie und Geodäsie
             
