@@ -48,7 +48,7 @@ You may download and print extracts from timeanddate.com for your own personal a
 
 You may use timeanddate.com's [subscriptions and services](https://www.timeanddate.com/services/) within your business/company, however; you may not resell, sub-license, lease or rent the obtained data to any other party. This includes PDF Calendars.
 
-Our API services are subject to a separate set of [terms & conditions](https://services.timeanddate.com/api/terms.html).
+Our API services are subject to a separate set of [terms & conditions](https://dev.timeanddate.com/terms).
 
 5\. Disclaimer of Liability
 ---------------------------
