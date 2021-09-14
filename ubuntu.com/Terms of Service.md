@@ -141,7 +141,6 @@ The open source software platform that runs everywhere from the smartphone, the 
     --------------------------------------------
     
     *   [Digital signage](https://ubuntu.com/internet-of-things/digital-signage)
-    *   [Robotics](https://ubuntu.com/robotics)
     *   [Gateways](https://ubuntu.com/internet-of-things/gateways)
     *   [App store](https://ubuntu.com/internet-of-things/appstore)
     *   [Embedded Linux](https://ubuntu.com/embedded)
