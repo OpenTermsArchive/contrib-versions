@@ -60,7 +60,7 @@ We do not allow content that:
     
 *   exploits others through extortion.
     
-    **Examples**: Predatory removals, revenge porn, blackmail
+    **Examples**: Exploitative removals, revenge porn, blackmail
     
 
 Enabling dishonest behavior
