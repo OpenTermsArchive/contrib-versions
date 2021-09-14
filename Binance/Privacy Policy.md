@@ -1,11 +1,13 @@
 Binance Privacy Policy
 ======================
 
-Last updated: August 23, 2021.
+Last updated: September 14, 2021.
 
-This Privacy Notice describes how Binance collects and processes your personal information through the Binance websites and applications that reference this Privacy Notice.  “Binance” refers to an ecosystem comprising Binance websites (whose domain names include but are not limited to   [www.binance.com/en](https://www.binance.com/en) ), mobile applications, clients, applets and other applications that are developed to offer Binance Services, and includes independently-operated platforms, websites and clients within the ecosystem (e.g., Binance’s Open Platform, Binance Launchpad, Binance Labs, Binance Charity, Binance DEX, Binance X, JEX, Trust Wallet, and fiat gateways).  “Binance Operators” refer to all parties that run Binance, including but not limited to legal persons, unincorporated organizations and teams that provide Binance Services and are responsible for such services.  “Binance” as used in this Notice includes Binance Operators.
+This Privacy Policy describes how Binance collects and processes your personal information through the Binance websites and applications that reference this Privacy Notice. Binance refers to an ecosystem comprising Binance websites (whose domain names include but are not limited to [www.binance.com/en](https://www.binance.com/en)), mobile applications, clients, applets and other applications that are developed to offer Binance Services, and includes independently-operated platforms, websites and clients within the ecosystem (e.g., Binance’s Open Platform, Binance Launchpad, Binance Labs, Binance Charity, Binance DEX, Binance X, JEX, Trust Wallet, and fiat gateways). “Binance Operators” refer to all parties that run Binance, including but not limited to legal persons, unincorporated organizations and teams that provide Binance Services and are responsible for such services. “Binance” as used in this Policy includes Binance Operators.
 
-This Privacy Notice applies to all platforms, websites, and departments of Binance and Binance Operators.  By using Binance Services, you are consenting to the collection, storage, processing and transfer of your personal information as described in this Privacy Notice.
+This Privacy Policy applies to all platforms, websites, and departments of Binance and Binance Operators. By using Binance Services, you are consenting to the collection, storage, processing and transfer of your personal information as described in this Privacy Policy.
+
+Binance Europe Services Limited (registered number C85624), 14 East, Level 7, Triq Tas-Sliema, Gzira GZR1639, Malta is the Data Controller for personal information collected and processed in connection with provision of Binance Services.
 
 ### 1\. What Personal Information About Users Does Binance Collect?
 
@@ -13,7 +15,7 @@ Binance collects your personal information in order to provide and continually i
 
 Here are the types of personal information we collect:
 
-Information you give us: we receive and store any information you provide in relation to Binance. You can choose not to provide certain information but then you might not be able to use some Binance Services.  Examples of information that you give us include:
+Information you give us: we receive and store any information you provide in relation to Binance. You can choose not to provide certain information but then you might not be able to use some Binance Services. Examples of information that you give us include:
 
 *   email address
     
@@ -156,7 +158,7 @@ The EU GDPR and UK data protection laws require a legal basis for our use of per
 
 ### 13\. Contact Information
 
-Our data protection officer can be contacted at dpo@binance.com.
+Our data protection officer can be contacted at dpo@binance.com, and will work to address any questions or issues that you have with respect to the collection and processing of your personal information.
 
 ### 14\. Conditions of Use, Notices and Revisions
 
