@@ -8,7 +8,7 @@ Privacy Statement
 
 First things first – your privacy is important to us. That might be the kind of thing all these notices say, but we mean it. You place your trust in us by using Booking.com services and we value that trust. That means we’re committed to protecting and safeguarding any personal data you give us. We act in our customers’ best interest and we are transparent about the processing of your personal data.
 
-This document describes how we use and process your personal data, provided in a readable and transparent manner. It also tells you what rights you can exercise in relation to your personal data (such as the right to object) and how you can contact us. Please also read our [Cookie Statement](#cookie-statement), which tells you how Booking.com uses cookies and other similar technologies.
+This document describes how we use and process your personal data, provided in a readable and transparent manner. It also tells you what rights you can exercise in relation to your personal data (such as the right to object) and how you can contact us. Please also read our [Cookie Statement](https://www.booking.com/content/privacy.en-gb.html#cookie-statement), which tells you how Booking.com uses cookies and other similar technologies.
 
 If you’ve used us before, you know that Booking.com offers online travel-related services through our own websites and mobile apps, as well as other online platforms such as partners’ websites and social media. We’d like to point out that all the information you are about to read, generally applies to not one, not two, but all of these platforms.
 
@@ -40,7 +40,7 @@ In addition to this, we also collect information from the computer, phone, table
 
 This is the general overview but if you’d like to know more about the information we collect, we go into more detail below.
 
-[Read more about the personal data we collect](#personal-data-collected-type)
+[Read more about the personal data we collect](https://www.booking.com/content/privacy.en-gb.html#personal-data-collected-type)
 
 ### Why does Booking.com collect and use your personal data?
 
@@ -48,7 +48,7 @@ The main reason we ask you for personal details is to help you organise your onl
 
 We also use your personal data to contact you about the latest deals, special offers and other products or services we think you might be interested in. There are other uses, too. If you’d like to find out what they are, read on for a more detailed explanation.
 
-[Read more about why Booking.com collects your data](#personal-data-collected-why)
+[Read more about why Booking.com collects your data](https://www.booking.com/content/privacy.en-gb.html#personal-data-collected-why)
 
 ### How does Booking.com share your data with third parties?
 
@@ -58,67 +58,67 @@ We also involve other parties to provide you with the Booking.com services. This
 
 Below, we go into more detail about how the information you share with us is used and exchanged with these parties.
 
-[Read more about how data is shared with third parties](#personal-data-3rd-parties-shared-how)
+[Read more about how data is shared with third parties](https://www.booking.com/content/privacy.en-gb.html#personal-data-3rd-parties-shared-how)
 
 ### How is your personal data shared within the Booking Holdings Inc. corporate group?
 
 Booking.com is part of the Booking Holdings Inc. corporate group. Read on to find out more about how your data may be shared within the Booking Holdings corporate group.
 
-[Read more about data within Booking Holdings Inc.](#personal-data-holdings-shared-how)
+[Read more about data within Booking Holdings Inc.](https://www.booking.com/content/privacy.en-gb.html#personal-data-holdings-shared-how)
 
 ### How is your personal data shared and further processed for ground transport services?
 
 Booking.com and Rentalcars.com – also part of the Booking Holdings Inc. group of companies – jointly use your data to offer you ground transport services via the Booking.com websites and apps (such as cars.booking.com or taxi.booking.com). Read more to understand the scope and limited nature of our joint responsibility.
 
-[Read more about data and our ground transport services](#personal-data-transport-services-shared-how)
+[Read more about data and our ground transport services](https://www.booking.com/content/privacy.en-gb.html#personal-data-transport-services-shared-how)
 
 ### How does Booking.com process communications that you and your Trip Provider may send via Booking.com?
 
 Booking.com can help you and Trip Providers exchange information or requests about services and existing Trip Reservations, through the Booking.com platform. If you want to find out more about how Booking.com receives and handles these communications, read on here.
 
-[Read more about how these communications are processed](#communications-trip-provider-processed-how)
+[Read more about how these communications are processed](https://www.booking.com/content/privacy.en-gb.html#communications-trip-provider-processed-how)
 
 ### How does Booking.com make use of mobile devices?
 
 We offer free apps, through which we also collect and process personal data. This works in much the same way as our website, but they also allow you to benefit from the location services available on your mobile device(s).
 
-[Read more about how we use data from mobile devices](#mobile-devices-used-how)
+[Read more about how we use data from mobile devices](https://www.booking.com/content/privacy.en-gb.html#mobile-devices-used-how)
 
 ### How does Booking.com make use of social media?
 
 The use of social media may be integrated into Booking.com services in various ways. These will involve us collecting some of your personal data or the social media provider receiving some of your information. If you’d like to learn more about how this information is used and exchanged, read on.
 
-[Read more about how we use social media data](#social-media-used-how)
+[Read more about how we use social media data](https://www.booking.com/content/privacy.en-gb.html#social-media-used-how)
 
 ### What security and retention procedures does Booking.com put in place to safeguard your personal data?
 
 We have implemented a range of procedures to prevent unauthorised access to, and the misuse of, personal data that we process.
 
-[Read more about security and retention procedures](#personal-data-what-security-procedures)
+[Read more about security and retention procedures](https://www.booking.com/content/privacy.en-gb.html#personal-data-what-security-procedures)
 
 ### How does Booking.com treat personal data belonging to children?
 
 Unless indicated otherwise, Booking.com is a service you are only allowed to use if you are over 16 years of age. We only process information about children with the consent of their parents or legal guardians, or when the information is shared with us by the parents or legal guardians themselves.
 
-[Read more about the personal data of under 16s](#children-personal-data-treated-how)
+[Read more about the personal data of under 16s](https://www.booking.com/content/privacy.en-gb.html#children-personal-data-treated-how)
 
 ### How can you control the personal data you’ve given to Booking.com?
 
-You have the right to review the personal data we keep about you at any time. You can request access to or deletion of your personal data [by submitting this form](https://www.booking.com/content/dsar.en-gb.html?sid=07327be32ad2dd358b4c8cbac33d4029). If you want to find out more about your rights to control your personal data, read on.
+You have the right to review the personal data we keep about you at any time. You can request access to or deletion of your personal data [by submitting this form](https://www.booking.com/content/dsar.en-gb.html?sid=removed). If you want to find out more about your rights to control your personal data, read on.
 
-[Read more about how you can control your personal data](#personal-data-controlled-how)
+[Read more about how you can control your personal data](https://www.booking.com/content/privacy.en-gb.html#personal-data-controlled-how)
 
 ### Who is responsible for the processing of personal data on the Booking.com website and apps?
 
 Booking.com B.V., located in Amsterdam, The Netherlands, controls the processing of personal data for the provision of its services. That includes its websites and mobile apps, except for some exceptions that are clarified in this privacy statement.
 
-[Read more about Booking.com B.V.'s responsibility for personal data](#personal-data-processing-responsible)
+[Read more about Booking.com B.V.'s responsibility for personal data](https://www.booking.com/content/privacy.en-gb.html#personal-data-processing-responsible)
 
 #### Country-specific provisions
 
 Depending on the law that applies to you, we might be required to provide some additional information. If you'd like to know more, please read on.
 
-[Read more about country-specific provisions](#country-specific-provisions)
+[Read more about country-specific provisions](https://www.booking.com/content/privacy.en-gb.html#country-specific-provisions)
 
 * * *
 
@@ -160,7 +160,7 @@ If you’re using a mobile device, we collect data that identifies the device, a
 
 #### Personal data we receive from other sources.
 
-It’s not just the things you tell us, though – we may also receive information about you from other sources. These include business partners, such as affiliate partners, subsidiaries of the Booking.com corporate group, [other affiliates](#personal-data-holdings-shared-how) of the Booking Holdings Inc. corporate group and other independent third parties.
+It’s not just the things you tell us, though – we may also receive information about you from other sources. These include business partners, such as affiliate partners, subsidiaries of the Booking.com corporate group, [other affiliates](https://www.booking.com/content/privacy.en-gb.html#personal-data-holdings-shared-how) of the Booking Holdings Inc. corporate group and other independent third parties.
 
 Anything we receive from these partners may be combined with information provided by you. For example, Booking.com Trip Reservation services are not only made available via Booking.com and the Booking.com apps, but are also integrated into services of affiliate partners you can find online. When you use any of these services, you provide the reservation details to our business partners who then forward your details to us.
 
@@ -170,7 +170,7 @@ Additionally, we collect information in the regrettable case that we receive a c
 
 Another way we might receive data about you, is through the communication services integrated into our platforms. These communication services offer you a way to contact theTrip Provider you’ve booked with to discuss your stay. In some cases, we receive metadata about these communication activities (such as who you are, where you called from, and the date and length of the call).
 
-We may also receive information about you in order to show you more relevant ads, such as the additional cookie data Booking.com social media partners make available to us. Please read the section [Why does Booking.com collect and use your personal data?](#personal-data-collected-why) for more information.
+We may also receive information about you in order to show you more relevant ads, such as the additional cookie data Booking.com social media partners make available to us. Please read the section [Why does Booking.com collect and use your personal data?](https://www.booking.com/content/privacy.en-gb.html#personal-data-collected-why) for more information.
 
 When you link your Booking.com user account to a social media account, you yourself might exchange data between Booking.com and that social media provider. You can always choose not to share that data.
 
@@ -208,7 +208,7 @@ We use the information collected about you for a variety of purposes. Your perso
     
     We process the communications you send to us. There could be a number of reasons for this, including:
     
-    1.  Responding to and handling any requests you or your booked Trip Provider have made. Booking.com also offers customers and Trip Providers various ways to exchange information, requests and comments about Trip Providers and existing Trip Reservations via Booking.com. For more information, read the section titled [‘How does Booking.com process communications that you and your booked Trip Provider may send through Booking.com?](#communications-trip-provider-processed-how)’.
+    1.  Responding to and handling any requests you or your booked Trip Provider have made. Booking.com also offers customers and Trip Providers various ways to exchange information, requests and comments about Trip Providers and existing Trip Reservations via Booking.com. For more information, read the section titled [‘How does Booking.com process communications that you and your booked Trip Provider may send through Booking.com?](https://www.booking.com/content/privacy.en-gb.html#communications-trip-provider-processed-how)’.
         
     2.  If you have started but not finished a Trip Reservation online, we might contact you to invite you to continue with your reservation. We believe that this additional service benefits you as it allows you to pick up the process where you left off without having to search for a Trip Provider or fill in your reservation details again.
         
@@ -230,7 +230,7 @@ We use the information collected about you for a variety of purposes. Your perso
     
     If you have a Booking.com account, you can choose to display a screen name next to your review, instead of your real name or even submit the review anonymously. If you’d like to set a screen name, you can do that in your account settings. Adding an avatar is also possible.
     
-    By completing a review, you’re agreeing that it can be displayed (as described in detail in our [Terms and Conditions](https://www.booking.com/content/terms.en-gb.html?sid=07327be32ad2dd358b4c8cbac33d4029)) on, for example, the relevant Trip Provider information page on our websites, on our mobile apps, on our social media accounts and social media apps, or on the online platform of the relevant Trip Provider or business partner’s website. This is to inform other travellers about the quality of the Trip Service you used, the destination you have chosen or any other experiences you choose to share.
+    By completing a review, you’re agreeing that it can be displayed (as described in detail in our [Terms and Conditions](https://www.booking.com/content/terms.en-gb.html?sid=removed)) on, for example, the relevant Trip Provider information page on our websites, on our mobile apps, on our social media accounts and social media apps, or on the online platform of the relevant Trip Provider or business partner’s website. This is to inform other travellers about the quality of the Trip Service you used, the destination you have chosen or any other experiences you choose to share.
     
 11.  Call monitoring: When you make calls to our customer service team, Booking.com uses an automated telephone number detection system to match your telephone number to your existing reservations. This can help save time for both you and our customer service staff. However, our customer service staff may still ask for authentication, which helps to keep your reservation details confidential.
     
@@ -279,7 +279,7 @@ In certain circumstances, we’ll share your personal data with third parties. T
     
     Please note that, sometimes, at the direction of the Trip Provider, we will need to share your personal data with parties related to the Trip Provider in order to finalise and administer your reservation. These parties might include other entities of a hotel group or service providers who are handling the data on the Trip Provider’s behalf.
     
-2.  Your local Booking.com office: To support the use of Booking.com services, your details may be shared with subsidiaries of the Booking.com corporate group, including for customer service. To find out more about the Booking.com corporate group, visit [About Booking.com](https://www.booking.com/content/about.en-gb.html?sid=07327be32ad2dd358b4c8cbac33d4029).
+2.  Your local Booking.com office: To support the use of Booking.com services, your details may be shared with subsidiaries of the Booking.com corporate group, including for customer service. To find out more about the Booking.com corporate group, visit [About Booking.com](https://www.booking.com/content/about.en-gb.html?sid=removed).
     
 3.  Third-party service providers: We use service providers from outside of the Booking.com corporate group to support us in providing our services. These include:
     
@@ -322,7 +322,7 @@ In certain circumstances, we’ll share your personal data with third parties. T
         
         If Partner Offer is used, please review the information provided in the booking process or check your reservation confirmation for more information about the Trip Provider and how your personal data is further processed by them.
         
-6.  The Booking Holdings Inc. corporate group: Read about [how we share your personal data with the Booking Holdings Inc. corporate group](#personal-data-holdings-shared-how).
+6.  The Booking Holdings Inc. corporate group: Read about [how we share your personal data with the Booking Holdings Inc. corporate group](https://www.booking.com/content/privacy.en-gb.html#personal-data-holdings-shared-how).
     
 
 The transmission of personal data, as described in this Privacy Statement, may include overseas transfers of personal data to countries whose data protection laws are not as comprehensive as those of countries within the European Union.
@@ -409,13 +409,13 @@ These apps and mobile websites process the personal details you give us in much 
 
 With your consent, we may send you push notifications with information about your Trip Reservation. You can also choose to grant us access to your location data or contact details in order to provide services you’ve requested. If you upload pictures to our platform, these pictures may include location information (known as metadata) as well. Please read your mobile device’s instructions to understand how to change your settings and control the sharing of this kind of data.
 
-In order to optimise our services and marketing activities, and to make sure we give you a consistent user experience, we use something known as ‘cross-device tracking’. This can be done with or without the use of cookies. For more general information about cookies and other similar technologies, please see our [Cookie statement](#cookie-statement).
+In order to optimise our services and marketing activities, and to make sure we give you a consistent user experience, we use something known as ‘cross-device tracking’. This can be done with or without the use of cookies. For more general information about cookies and other similar technologies, please see our [Cookie statement](https://www.booking.com/content/privacy.en-gb.html#cookie-statement).
 
 With cross-device tracking, Booking.com is able to track user behaviour across multiple devices. As part of cross-device tracking, we may combine data collected from a particular browser or mobile device with data from another computer or device that is linked to it.
 
 In order to optimise the content of the Booking.com newsletter, we combine searches and reservations made from different computers and devices. You can unsubscribe from the Booking.com newsletter at any time.
 
-Personalised ads shown to you on other websites or in apps, can be offered based on your activities on linked computers and devices. By changing the cookie settings on your device (see our [Cookie statement](#cookie-statement) under ‘What are your choices?’), you can change your cross-device tracking settings for advertisement purposes. You should know that logging out of your Booking.com account doesn’t mean that you will no longer receive personalised ads.
+Personalised ads shown to you on other websites or in apps, can be offered based on your activities on linked computers and devices. By changing the cookie settings on your device (see our [Cookie statement](https://www.booking.com/content/privacy.en-gb.html#cookie-statement) under ‘What are your choices?’), you can change your cross-device tracking settings for advertisement purposes. You should know that logging out of your Booking.com account doesn’t mean that you will no longer receive personalised ads.
 
 * * *
 
@@ -493,7 +493,7 @@ If you have a Booking.com user account, you can access a lot of your personal da
 
 If any of the personal data we have about you isn’t accessible through our website or apps, you can send us a request (which won’t cost you anything).
 
-If you want to exercise your right of access or erasure, all you need to do is complete and submit the [Data Subject Request for Booking.com Customers](https://www.booking.com/content/dsar.en-gb.html?sid=07327be32ad2dd358b4c8cbac33d4029) form. For any requests relating to this Privacy Statement, to exercise any of your other rights, or if you have a complaint, please contact our Data Protection Officer at [dataprotectionoffice@booking.com](javascript:location='mailto:/u0064/u0061/u0074/u0061/u0070/u0072/u006f/u0074/u0065/u0063/u0074/u0069/u006f/u006e/u006f/u0066/u0066/u0069/u0063/u0065/u0040/u0062/u006f/u006f/u006b/u0069/u006e/u0067/u002e/u0063/u006f/u006d';void 0). You can also contact your local data protection authority.
+If you want to exercise your right of access or erasure, all you need to do is complete and submit the [Data Subject Request for Booking.com Customers](https://www.booking.com/content/dsar.en-gb.html?sid=removed) form. For any requests relating to this Privacy Statement, to exercise any of your other rights, or if you have a complaint, please contact our Data Protection Officer at [dataprotectionoffice@booking.com](javascript:location='mailto:/u0064/u0061/u0074/u0061/u0070/u0072/u006f/u0074/u0065/u0063/u0074/u0069/u006f/u006e/u006f/u0066/u0066/u0069/u0063/u0065/u0040/u0062/u006f/u006f/u006b/u0069/u006e/u0067/u002e/u0063/u006f/u006d';void 0). You can also contact your local data protection authority.
 
 If you’d like to object to your personal data being processed on the basis of legitimate interest and there’s no way to opt out directly, please contact us at [dataprotectionoffice@booking.com](javascript:location='mailto:/u0064/u0061/u0074/u0061/u0070/u0072/u006f/u0074/u0065/u0063/u0074/u0069/u006f/u006e/u006f/u0066/u0066/u0069/u0063/u0065/u0040/u0062/u006f/u006f/u006b/u0069/u006e/u0067/u002e/u0063/u006f/u006d';void 0).
 
@@ -546,9 +546,9 @@ We may share certain pieces of your personal information with third parties, whi
 
 Californian law provides you with certain rights, including the right to access specific pieces of personal information, learn about how we process personal information, including disclose or sell personal information, request deletion of personal information, opt out of 'sales' and not to be denied goods or services for exercising these rights.
 
-You may exercise your right to opt out of 'sales' by clicking on this link and following the instructions: [https://www.booking.com/content/ccpa.html](https://www.booking.com/content/ccpa.en-gb.html?sid=07327be32ad2dd358b4c8cbac33d4029)
+You may exercise your right to opt out of 'sales' by clicking on this link and following the instructions: [https://www.booking.com/content/ccpa.html](https://www.booking.com/content/ccpa.en-gb.html?sid=removed)
 
-To exercise your right to request access to or the deletion of your personal information under California law, please fill out our [Data Subject Request for Booking.com Customers form](https://www.booking.com/content/dsar.en-gb.html?sid=07327be32ad2dd358b4c8cbac33d4029). To otherwise exercise these or any of your other rights under California law, or to contact us with questions and concerns about this privacy notice and our practices, you can also contact us at [dataprotectionoffice@booking.com](javascript:location='mailto:/u0064/u0061/u0074/u0061/u0070/u0072/u006f/u0074/u0065/u0063/u0074/u0069/u006f/u006e/u006f/u0066/u0066/u0069/u0063/u0065/u0040/u0062/u006f/u006f/u006b/u0069/u006e/u0067/u002e/u0063/u006f/u006d';void 0) with the subject line: “California Resident Privacy Rights - Request”.
+To exercise your right to request access to or the deletion of your personal information under California law, please fill out our [Data Subject Request for Booking.com Customers form](https://www.booking.com/content/dsar.en-gb.html?sid=removed). To otherwise exercise these or any of your other rights under California law, or to contact us with questions and concerns about this privacy notice and our practices, you can also contact us at [dataprotectionoffice@booking.com](javascript:location='mailto:/u0064/u0061/u0074/u0061/u0070/u0072/u006f/u0074/u0065/u0063/u0074/u0069/u006f/u006e/u006f/u0066/u0066/u0069/u0063/u0065/u0040/u0062/u006f/u006f/u006b/u0069/u006e/u0067/u002e/u0063/u006f/u006d';void 0) with the subject line: “California Resident Privacy Rights - Request”.
 
 If you are an authorized agent wishing to exercise rights on behalf of a California consumer, please contact us at the email above, attaching a copy of the consumer’s written authorization, designating you as their agent. We may need to verify your identity before completing your rights request by, for example, requesting information about your previous Trip Reservations with us.
 
@@ -592,11 +592,11 @@ Cookies can be used in various ways, including to make the Booking.com website w
 
 Read on below to learn more about what a ‘cookie’ is, how they’re used and what your choices are.
 
-[What are cookies and other online tracking technologies?](#what-are-cookies)
+[What are cookies and other online tracking technologies?](https://www.booking.com/content/privacy.en-gb.html#what-are-cookies)
 
-[How are cookies used?](#how-are-cookies-used)
+[How are cookies used?](https://www.booking.com/content/privacy.en-gb.html#how-are-cookies-used)
 
-[What are your choices?](#what-are-your-choices)
+[What are your choices?](https://www.booking.com/content/privacy.en-gb.html#what-are-your-choices)
 
 * * *
 
