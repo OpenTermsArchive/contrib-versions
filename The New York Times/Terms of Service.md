@@ -1,4 +1,4 @@
-_Last updated on February 19th, 2021_
+_Last updated on September 1st, 2021_
 
 This page describes the terms and conditions that govern your use of certain New York Times products or services, including NYTimes.com and mobile applications, offered by The New York Company and certain of its subsidiaries ("NYT", “us” or “we”).
 
@@ -20,6 +20,7 @@ For information on how NYT collects, uses and shares any personal information, p
 10.  [TERMINATION](#10)
 11.  [GOVERNING LAW; JURISDICTION; **WAIVER OF CLASS ACTIONS**.](#11)
 12.  [MISCELLANEOUS](#12)
+13.  [SPECIAL TERMS: BETA TESTING](#13)
 
 **1\. GENERAL RULES AND DEFINITIONS**
 
@@ -141,7 +142,9 @@ You consent to receive notifications from us electronically to the e-mail addres
 
 10.2 NYT may, in its sole discretion, terminate or suspend your access to all or part of the Services for any reason, including, without limitation, breach or assignment of these Terms of Service.
 
-10.3 The provisions of these Terms of Service intended by their nature to survive termination or expiration shall so survive the termination of your account or access to all or part of the Services including, without limitation, Sections 3 (“User-Generated Content”), 4 (“Prohibited Use of the Services”), 5 (“Representations and Warranties; Indemnification; Limitation Of Liabilities”), 7 (“Fees and Payments”), 10 (“Termination; Survival”), 11 (“Governing Law; Jurisdiction; Waiver of Class Actions”) and 12 (“Miscellaneous”). 
+10.3 The provisions of these Terms of Service shall survive the termination of your account or access to all or part of the Services. 
+
+* * *
 
 **11\. GOVERNING LAW; JURISDICTION; WAIVER OF CLASS ACTIONS.**
 
@@ -151,7 +154,8 @@ You consent to receive notifications from us electronically to the e-mail addres
 
 11.3 **WAIVER OF CLASS ACTIONS****.** YOU AND NYT AGREE THAT EACH PARTY MAY BRING DISPUTES AGAINST THE OTHER PARTY ONLY IN AN INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING, INCLUDING, WITHOUT LIMITATION, A FEDERAL OR STATE CLASS ACTION LAWSUIT. However, nothing in this paragraph 11.3 limits your right or NYT’s right to bring a lawsuit against each other as an individual plaintiff.
 
-  
+* * *
+
 **12\. MISCELLANEOUS**
 
 12.1 These Terms of Service have been made in and shall be construed and enforced in accordance with New York law. Any action to enforce these Terms of Service shall be brought in the federal or state courts located in New York City.
@@ -166,7 +170,7 @@ You consent to receive notifications from us electronically to the e-mail addres
 
 12.6 If a provision of these Terms of Service is held invalid or unenforceable for any reason, that provision shall be construed in a manner consistent with applicable law to reflect, as nearly as possible, the intention of the parties, and the remaining provision will not be affected and remain in full force and effect.
 
- 12.7 If you believe that your work has been copied in a way that constitutes copyright infringement, please provide us the following information. Please be advised that to be effective, the Notice must include ALL of the following:
+ 12.7 If you believe that your work has been copied in a way that constitutes copyright infringement, please provide us the following information in writing to NYT's Copyright Agent (see 17 U.S.C. § 512(c)(3) for further detail). Please be advised that to be effective, the Notice must include ALL of the following:
 
 1.  a physical or electronic signature of the person authorized to act on behalf of the owner of an exclusive copyright that is allegedly infringed;  
     
@@ -176,6 +180,15 @@ You consent to receive notifications from us electronically to the e-mail addres
 5.  a statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law;
 6.  a statement by you, made under penalty of perjury, that the above information in your Notice is accurate and that you are the copyright owner or authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
 
+If you believe that any content or materials you uploaded, posted, or submitted to the NYT Service, that were subsequently removed from the NYT Service, or to which access was disabled, improperly removed or disabled, please provide the following Counter-Notification to NYT's Copyright Agent (see 17 U.S.C. § 512(g) for further detail):
+
+  
+\- your physical or electronic signature.  
+\- a description of the materials that have been removed or to which access has been disabled and the location at which the material appeared before it was removed or access to it was disabled.  
+\- a statement under penalty of perjury that you have a good faith belief that the material was removed or disabled as a result of mistake or misidentification of the material to be removed or disabled.  
+\- your name, address and telephone number, and a statement that you consent to the jurisdiction of the Federal District Court for the judicial district in which the address is located, and that you will accept service of process from the person who provided notification of the alleged infringement.  
+  
+
 **Notices of claimed copyright infringement should be directed to:**
 
 **By mail:**
@@ -184,9 +197,27 @@ The New York Times Company
 620 Eighth Avenue  
 New York, NY 10018
 
-Attention: General Counsel  
-212-556-7888
+Attention: Copyright Agent  
+212-556-1234
 
-**By email:**[copyrights@nytimes.com](mailto:copyright@nytimes.com)
+**By email:** [copyrights@nytimes.com](mailto:copyright@nytimes.com)
 
 12.8 If you are a California resident, under California Civil Code Section 1789.3, you may contact us via [chat](https://help.nytimes.com/hc/en-us/articles/115015385887-Contact-us#:~:text=If%20you%20are%20in%20the,800%2D698%2D4637).) or by phone at 1(800) 698-4637 in order to resolve a complaint regarding the Services or to receive further information regarding use of the Services. You may also contact the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs in writing at 1625 N. Market Blvd., Suite S-202, Sacramento, California 95834, or by telephone at (800) 952-5210.
+
+* * *
+
+**13\.** **SPECIAL TERMS: BETA TESTING**
+
+NYT may invite you to review and evaluate software, applications, downloads or other features prior to their public or commercial release (hereafter “**Beta Test Services**”). If you choose to participate in Beta Test Services, you agree to be bound by these Special Terms and to provide NYT with certain feedback and suggestions regarding your experiences while reviewing and evaluating the Beta Test Services (“**Feedback**”). NYT may ask you to enter into a confidentiality agreement for each specific Beta Test Service. If so, your participation as a tester (“**Tester**”) is subject to that confidentiality agreement, in addition to the following terms and conditions which apply to all Beta Test Services.
+
+You further agree that the Beta Test Services and any materials therein, including content (collectively, “**Pre-Release Materials**”), are confidential or proprietary information of NYT. You agree as a condition of participating in Beta Test Services to: (i) not copy or reproduce the Pre-Release Materials, (ii) safeguard the Pre-Release Materials and prevent unauthorized access to, reproduction of, disclosure of and/or unauthorized use of, the Pre-Release Materials, and (iii) if applicable, fully comply with the terms and conditions of the confidentiality agreement.
+
+You agree that breach of the above obligations will cause irreparable harm to NYT, and NYT is entitled to (in addition to any other remedies available to it) injunctive or other equitable relief to prevent the breach or threatened breach of your obligations. Your obligation to keep the Pre-Release Materials confidential will continue until NYT publicly distributes or has otherwise disclosed to the public through no fault of yours, the Pre-Release Materials that you are testing.
+
+Upon request, you agree to immediately delete all copies of the Pre-Release Material which NYT provided to you.
+
+You are invited to use Beta Test Services for the sole purpose of evaluating the Beta Test Services and assisting NYT in identifying errors. Nothing in these Special Terms or these Terms shall be construed as granting you any rights or privileges of any kind with respect to the Beta Test Services or other content. The Beta Test Services are provided on an “as is” and “as available” basis and NYT makes no warranty to you of any kind, express or implied.
+
+By using the Beta Test Services, you agree that: (iv) participating in Beta Test Services is at your own risk and you know that the Beta Test Services may include known or unknown bugs, (v) any status indicators or preferences saved within Beta Test Services may be erased at any time, (vi) NYT has no obligation to make these Beta Test Services available with or without charge for any period of time, nor to make them available at all, (vii) these Terms also apply to your use of the Beta Test Services, (viii) if requested, you will keep all information about the Beta Test Services confidential as stated above, (ix) any Feedback you provide will become the property of NYT without any right to compensation or other obligation from NYT, (x) NYT may (or may not) use or otherwise exploit all or part of your Feedback or any derivative thereof in any manner or media now known without any further remuneration, compensation or credit to you, (xi) your participation to the Beta Test Services is on a purely voluntary basis and in consideration of the opportunity to assist NYT with the Beta Test Services, and (xii) nothing in these Special Terms or your participation in the Beta Test Services creates any employment relationship between you and NYT.
+
+In case of conflict between these Special Terms and the rest of the Terms, these Special Terms shall prevail.
