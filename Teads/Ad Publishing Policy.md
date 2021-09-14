@@ -206,6 +206,8 @@ Targeting for political advertisements shall be limited to persons over the lega
 
 No advertisements for political content shall be allowed at any time in Brazil, China, Japan, Korea and Russia.
 
+At this time, political advertisements may only be displayed in the United States.
+
 Additional guidelines are available **[HERE](https://www.teads.com/ad-policies/political-specific-guidelines/).**
 
 ### Dietary and Weight Loss Supplements
