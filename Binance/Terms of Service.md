@@ -338,7 +338,7 @@ g. Binance.com reserves the right to suspend or terminate Binance POS service. I
 
 h. Due to network delay, computer system failures and other force majeure, which may lead to delay, suspension or deviation of Binance POS service execution, Binance.com will use commercially reasonable effort to ensure but not promise that Binance POS service execution system run stably and effectively. Binance.com does not take any responsibility if the final execution doesn’t match your expectations due to the above factors.
 
-### IV. Liabilitys
+### IV. Liabilities
 
 ### 1\. Disclaimer of Warranties
 
