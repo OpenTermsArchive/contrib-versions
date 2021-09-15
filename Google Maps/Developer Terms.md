@@ -87,6 +87,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   RouteYou ([https://creativecommons.org/licenses/by/2.0/be/](https://creativecommons.org/licenses/by/2.0/be/))
             
+        *   City of Antwerp ([https://www.antwerpen.be/nl/overzicht/open-data/over-opendata/gratis-open-data-licentie](https://www.antwerpen.be/nl/overzicht/open-data/over-opendata/gratis-open-data-licentie))
+            
     5.  **Brazil**
         *   FUNAI (Fundação Nacional do Índio)
             
