@@ -203,13 +203,13 @@ In some cases, these third parties will also use the data that they collect for 
 
 Where we share data with Facebook as our Marketing Service Provider (including via the Facebook “Like” function), we are Joint Data Controllers with Facebook Ireland for this processing. This arrangement means that Badoo has to provide you this notice, but you should contact Facebook if you wish to exercise your data protection rights. Further information, including how Facebook enables you to exercise your data protection rights, and subsequently processes your information as an independent data controller can be found in [Facebook Ireland’s Data Policy](https://en-gb.facebook.com/policy.php). If you want more information relating to the nature of the arrangement we have in place with Facebook, please email DPO@corp.badoo.com.
 
+This data referred to above can include actions that you take on our website such as your interactions with our website or other information collected from cookies or similar technologies including the Facebook pixel. This allows us to measure the effectiveness of our advertising, improve our marketing practices, and helps us deliver more relevant advertising to you and people like you (including on social media such as Facebook).
+
 ### Google’s reCAPTCHA service
 
-To protect the input and comment areas of our App against spam and abuse, we use the reCAPTCHA verification tool. This service is provided by Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA and is subject to Google’s [privacy policy](https://badoo.com/privacy/) and [terms of service](https://badoo.com/terms/).
+To protect the input and comment areas of our App against spam and abuse, we use the reCAPTCHA verification tool. This service is provided by Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA and is subject to Google’s [privacy policy](https://policies.google.com/privacy) and [terms of service](https://policies.google.com/terms).
 
 reCAPTCHA makes it possible to differentiate between inputs of human origin and those that are carried out improperly by a bot. Certain device and application data will be transmitted to Google’s servers in order to determine whether actions on our App really come from humans. Google may also use this data to improve the reCAPTCHA service. This data may include: URLs; user IP address; Google account information if the user is logged in to their Google account at the same time; browser information, including browser type, browser size, browser resolution, browser plug-ins, language settings and date; mouse and touch events within the page; and information collected from cookies. This processing is based on our predominant legitimate interests in protecting our App from abusive bots.
-
-This data referred to above can include actions that you take on our website such as your interactions with our website or other information collected from cookies or similar technologies including the Facebook pixel. This allows us to measure the effectiveness of our advertising, improve our marketing practices, and helps us deliver more relevant advertising to you and people like you (including on social media such as Facebook).
 
 4\. WHAT OTHERS MAY SEE ABOUT YOU
 ---------------------------------
