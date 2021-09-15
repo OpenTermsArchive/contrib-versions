@@ -561,7 +561,7 @@ Le montant des frais de retour est calculé en fonction de la typologie du produ
 
 |     |     |
 | --- | --- |
-| Broyeur | **Entre 55é et 75€** |
+| Broyeur | **Entre 55€ et 75€** |
 | Canapé (petit 2 3places) | **Entre 60€ et 80€** |
 | Canapé (moyen 4 5 6 places) | **Entre 85€ et 120€** |
 | Canapé (grand 7 8 9 places) | **Entre 120€ et 140€** |
