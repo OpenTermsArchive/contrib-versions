@@ -86,7 +86,7 @@ Tresorit respects the right of others and we require the same from our Users. Th
     2.  If you own a copyright or have authority to act on behalf of a copyright owner and want to report a claim that a third party is infringing that material on or through the Service, please send a notice to our copyright agent:
         
         Copyright Infringement Agent  
-        Tresorit AG, Minervastrasse 3, CH-8032 Zurich, Switzerland  
+        Tresorit AG, Franklinstrasse 27, CH-8050 Zurich, Switzerland  
         [copyright@tresorit.com](mailto:copyright@tresorit.com)
         
     3.  Please make sure that the notice must include the following information:
