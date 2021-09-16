@@ -1,8 +1,8 @@
 Privacy Policy
 ==============
 
-Effective Date: September 22, 2020
-----------------------------------
+Effective Date: September 1, 2021
+---------------------------------
 
 Visible values your business and is committed to protecting your privacy. This Privacy Policy sets forth our policies and practices for the collection, use and sharing of your information. Visible is a member of the Verizon family of companies.
 
@@ -40,7 +40,7 @@ We use the information we collect to deliver service, to market to you, and for 
 
 ### III. DISCLOSURE OF INFORMATION
 
-We share information about you with vendors and partners who do work on our behalf and for other business purposes.
+We share information about you with vendors and partners who do work on our behalf and for other business purposes. We may also share certain information about you with affiliates for marketing.
 
 *   **Authorized service providers and partners.** We share your information with service providers and partners that help us with a variety of things, including development and delivery of our sites, apps and service. This includes services provided by others to help us with analytics, including [Google Analytics](https://policies.google.com/technologies/partner-sites), which may include storing and accessing cookies and other information on your computer or wireless device.
 *   **Business transfers.** We may share your information in connection with a substantial corporate transaction, such as a merger, consolidation, asset sale, or in the unlikely event of bankruptcy.
