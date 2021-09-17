@@ -1,7 +1,7 @@
 Palantir's Privacy and Security Statement
 =========================================
 
-_Last updated August 2021_
+_Last updated September 2021_
 
 The Highlights
 --------------
@@ -27,11 +27,13 @@ We collect several types of information for our business operations, including b
 
 _Information you provide to us_. When you navigate our websites or contact us, we may request or you may choose to provide us with certain information. This may include information by which you may be personally identified (“personal information”), such as name, employer, e-mail address or telephone number, and records and copies of your correspondence with us. For security purposes, we may also collect personal information from you if you visit one of our offices.
 
-_Information collected from forms on our websites_. This includes information provided at the time of registering to use portions of our websites or our products and services, posting material, or requesting further services. We may ask you for information when you report a problem with our websites, products or services.
+_Information collected from forms on our websites_. This may include information provided at the time of registering to use portions of our websites or our products and services, posting material, attending or registering to attend our virtual or in-person events, or requesting further services. We may ask you for information when you report a problem with our websites, products or services.
 
 _Usage details, IP addresses and cookies_. As you navigate through and interact with our websites, we may automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device, as well as your browsing actions and patterns using common internet technologies, such as cookies and Web beacons. This may include details of your visits to our websites, including information about your connectivity, such as your IP address and browser information, location and time zone data, logs and other communication data, the websites or search terms that referred you to our websites, the resources and pages that you access and use on the websites, and some of the cookies that are installed on your device. This information helps us to improve our websites and to deliver better and more personalized content and services by enabling us to estimate our audience size and usage patterns, to recognize you when you return to our websites, and to enable us or our third-party vendors to serve ads tailored to your profile.
 
 _Email marketing_. As a current or previous customer or user of our products or services, you may periodically receive emails from us containing details about features of the products you use and/or about similar products or services that we offer. Such processing may include the placing of beacons, or pixels, that let us know if you have opened our email, how long the email was open, and potentially related location and device information. We do this in order to see which emails are effective and which are not, so that we can improve our content and services. It helps us make sure that you are getting emails from us that you find useful and relevant.
+
+_Email alerts._ If you sign up to receive email alerts from Palantir, we will retain your name and contact information for as long as you wish to continue receiving alerts. You may unsubscribe via the ‘unsubscribe’ link that appears at the bottom of our emails, or by contacting privacy@palantir.com.
 
 _General business-related information_. We may also receive other personal information from or about you in the ordinary course of our business.
 
