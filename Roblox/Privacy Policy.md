@@ -10,7 +10,7 @@ Your privacy is important to us. In order to help you understand our privacy pra
 
 This Policy covers our websites on the roblox.com domain, our Roblox mobile, virtual reality and Xbox apps, the Roblox Player, the Roblox Studio, and our other websites, products, software, applications, content, data feeds and other services on which an authorized link to this Policy is posted. This Policy covers our practices regarding Roblox users of all ages, including a unique set of practices for those under the age of 13. The Service is operated by or on behalf of Roblox Corporation.
 
-Roblox is also committed to protecting the privacy of our users, including children. Please see the [“Default settings on child accounts and Parental Controls”](#parental-controls) section below for more information about your rights as a parent or legal guardian of our children users and the measures we take to afford children users with additional protections and comply with applicable data protection legislation, depending on where you are located, such as the Children’s Online Privacy Protection Act (“COPPA”), the General Data Protection Regulation (“GDPR”) and the Brazilian General Data Protection Law (“LGPD”).
+Roblox is also committed to protecting the privacy of our users, including children. Please see the ["Children’s Privacy and Parental Controls"](#parental-controls) section below for more information about your rights as a parent or legal guardian of our children users and the measures we take to afford children users with additional protections and comply with applicable data protection legislation, depending on where you are located, such as the Children’s Online Privacy Protection Act (“COPPA”), the General Data Protection Regulation (“GDPR”) and the Brazilian General Data Protection Law (“LGPD”).
 
 To learn more about COPPA, you may consult this simple one-page informational guide from the kidSAFE Seal Program – [www.kidsafeseal.com/knowaboutcoppa.html](https://en.help.roblox.com/hc/en-us/articles/www.kidsafeseal.com/knowaboutcoppa.html).
 
@@ -50,7 +50,7 @@ Roblox values your trust, so we want to tell you about the personal information 
 
 Roblox is a global company, and this policy is for everyone around the world. Roblox has to follow laws designed to protect personal information in the different countries where our users live. For example, the Children’s Online Privacy Protection Act (“COPPA”) in the US, the General Data Protection Regulation (“GDPR”) in the EU and the UK, and the Brazilian General Data Protection Law (“LGPD”) in Brazil apply to Roblox.
 
-The laws in these countries give children (meaning users under the age of 13 for COPPA, for example) data protection rights. More information about these special rights are in the “Your Privacy Rights” sections below.
+The laws in these countries give children (meaning users under the age of 13 for COPPA, for example) data protection rights. More information about these special rights are in the “Your Privacy Rights” sections below. You can also see the ["Children’s Privacy and Parental Controls"](#parental-controls) section for more information about your rights as a parent or legal guardian of our children users and the measures we take to afford children users with additional protections and comply with applicable data protection legislation, depending on where you are located.
 
 You can learn more about COPPA, by looking at this simple guide from the kidSAFE Seal Program – www.kidsafeseal.com/knowaboutcoppa.html.
 
@@ -357,7 +357,7 @@ Our Service may, from time to time, contain links to external sites or applicati
 
 Sometimes you may find a link to another company’s website on our website or app. We aren’t responsible for that company’s privacy policies or content. If you are being directed to another site, we may display a warning message to give you a heads up.
 
-10\. Default settings on child accounts and Parental Controls
+10\. Children’s Privacy and Parental Controls
 
 Children are entitled to added protections with regard to their Personal Information and privacy online. For this reason, when children register for the Service, their account is automatically set to a more restrictive mode This means that child users will not have access to certain features, such as social media plug-ins, some forms of third-party advertising, and certain types of notification alerts.
 
@@ -385,7 +385,7 @@ If you are a parent and need to make changes to your child’s account, you can 
 
 11\. Accessing and Updating Your Personal Information
 
-If Personal Information about you changes, or if you no longer desire to use our Service, you may correct, update, amend, or deactivate your account under your account settings or by contacting Roblox using the Personal Information set out above in Sec. 1. We will respond to your request within a reasonable timeframe. For children under the age of 13, please see the [“Default settings on child accounts and Parental Controls”](https://en.help.roblox.com/hc/en-us/articles/parental-controls) section above. See Sections 13, 14 and 15 for additional rights available to California, UK, Swiss and European Economic Area, and Brazil residents.
+If Personal Information about you changes, or if you no longer desire to use our Service, you may correct, update, amend, or deactivate your account under your account settings or by contacting Roblox using the Personal Information set out above in Sec. 1. We will respond to your request within a reasonable timeframe. For children under the age of 13, please see the [“Children’s Privacy and Parental Controls”](https://en.help.roblox.com/hc/en-us/articles/parental-controls) section above. See Sections 13, 14 and 15 for additional rights available to California, UK, Swiss and European Economic Area, and Brazil residents.
 
 If you want to fix any of your personal information, or if you want us to delete your personal information, you can contact us by completing this [Customer Support Form](https://www.roblox.com/support).
 
@@ -581,4 +581,4 @@ We update this privacy policy sometimes, so you should review this site regularl
 
 If we make any major changes, we will let you know by email (if we have your email address) or by showing a prominent notice on this website or in app prior to the change becoming effective. If required by law, we will obtain your parent’s consent if any of these changes impact you.
 
-Last Update: September 1, 2021
+Last Update: September 17, 2021
