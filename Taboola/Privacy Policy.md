@@ -1,7 +1,7 @@
 TABOOLA PRIVACY POLICY
 ======================
 
-Last Update: July 1st, 2021
+Gültig ab: July 1st, 2021
 
 If you would like to go directly to Taboola’s opt-out status options, please [click here](#user-choices-and-opting-out).  
 If you would like to learn more about Taboola’s region-specific processing of personal data, you can go directly to the applicable notices for individuals in [Brazil](#notice-to-individuals-in-brazil), [California](#notice-to-individuals-in-the-state-of-california), [Europe](#notice-to-individuals-within-the-european-economic-area-eea) (including the United Kingdom), or [Thailand](#notice-to-individuals-in-thailand).
@@ -10,33 +10,33 @@ If you would like to learn more about Taboola’s region-specific processing of 
 
 Taboola is dedicated to providing Internet users the highest level of transparency and control over the use of their data in online advertising. We adhere to the Self-Regulatory Principles set forth by the Digital Advertising Alliance (DAA), the Digital Advertising Alliance Canada (DAAC), and the European Interactive Digital Advertising Alliance (EDAA). Taboola also adheres to the Interactive Advertising Bureau’s (IAB) Self-Regulatory Principles for Online Behavioral Advertising, and the IAB Europe OBA Framework. In addition, Taboola is a proud member in good standing of the Network Advertising Initiative (NAI), an association dedicated to responsible data collection use in digital advertising, and we adhere to the [NAI Code of Conduct](http://www.networkadvertising.org/code-enforcement) for Web and Mobile. To update your AdChoices Opt Out settings, select your region here: [US](http://www.aboutads.info/consumers), [Canada](http://youradchoices.ca/choices), or [Europe](http://www.youronlinechoices.eu/) (including the United Kingdom); and to manage all NAI member sites’ settings, click [here](http://optout.networkadvertising.org/#/).
 
-[![iab logo](https://www.taboola.com/wp-content/uploads/2020/09/image-17.png)](https://www.taboola.com/policies/privacy-policy/image-17)
+[![iab logo](https://www.taboola.com/wp-content/uploads/2020/09/image-17.png)](https://www.taboola.com/de/policies/privacy-policy/image-17)
 
-[![iab logo](https://www.taboola.com/wp-content/uploads/2020/09/image-18.png)](https://www.taboola.com/policies/privacy-policy/image-18)
+[![iab logo](https://www.taboola.com/wp-content/uploads/2020/09/image-18.png)](https://www.taboola.com/de/policies/privacy-policy/image-18)
 
-[![iab europ logo](https://www.taboola.com/wp-content/uploads/2020/09/image-19.png)](https://www.taboola.com/policies/privacy-policy/image-19)
+[![iab europ logo](https://www.taboola.com/wp-content/uploads/2020/09/image-19.png)](https://www.taboola.com/de/policies/privacy-policy/image-19)
 
-[![taboola video icon](https://www.taboola.com/wp-content/uploads/2020/09/image-14.png)](https://www.taboola.com/policies/privacy-policy/image-14)
+[![taboola video icon](https://www.taboola.com/wp-content/uploads/2020/09/image-14.png)](https://www.taboola.com/de/policies/privacy-policy/image-14)
 
-[![DAA logo](https://www.taboola.com/wp-content/uploads/2020/09/image-15.png)](https://www.taboola.com/policies/privacy-policy/image-15)
+[![DAA logo](https://www.taboola.com/wp-content/uploads/2020/09/image-15.png)](https://www.taboola.com/de/policies/privacy-policy/image-15)
 
-[![iab certificate](https://www.taboola.com/wp-content/uploads/2020/09/image-13.png)](https://www.taboola.com/policies/privacy-policy/image-13)
+[![iab certificate](https://www.taboola.com/wp-content/uploads/2020/09/image-13.png)](https://www.taboola.com/de/policies/privacy-policy/image-13)
 
-[![DAAC logo](https://www.taboola.com/wp-content/uploads/2020/09/image-11.png)](https://www.taboola.com/policies/privacy-policy/image-11)
+[![DAAC logo](https://www.taboola.com/wp-content/uploads/2020/09/image-11.png)](https://www.taboola.com/de/policies/privacy-policy/image-11)
 
-[![edaa logo](https://www.taboola.com/wp-content/uploads/2020/09/image-20.png)](https://www.taboola.com/policies/privacy-policy/image-20)
+[![edaa logo](https://www.taboola.com/wp-content/uploads/2020/09/image-20.png)](https://www.taboola.com/de/policies/privacy-policy/image-20)
 
-[![edaa logo](https://www.taboola.com/wp-content/uploads/2020/09/image-16.png)](https://www.taboola.com/policies/privacy-policy/image-16)
+[![edaa logo](https://www.taboola.com/wp-content/uploads/2020/09/image-16.png)](https://www.taboola.com/de/policies/privacy-policy/image-16)
 
-[![iapp logo](https://www.taboola.com/wp-content/uploads/2020/09/image-12.png)](https://www.taboola.com/policies/privacy-policy/image-12)
+[![iapp logo](https://www.taboola.com/wp-content/uploads/2020/09/image-12.png)](https://www.taboola.com/de/policies/privacy-policy/image-12)
 
 ### **Privacy Policy:**
 
-Taboola, Inc., together with its Affiliates (“**Taboola**”, “**we**”, “**us**”, or “**our**”), recognizes the importance of your privacy. In this privacy policy (“Privacy Policy”) we describe how we collect, process, use, and disclose information that we obtain through our website, [www.taboola.com](http://www.taboola.com/), any Taboola website displaying this Privacy Policy (collectively, the “**Sites**”), our content-discovery platforms, feeds, widgets, analytics tools, and other technical applications that we provide on third-party websites (collectively, the “**Content Discovery Platform**”), and the Taboola News suite of content-discovery tools available on mobile devices and operating systems (including the Start line of products, collectively “**Taboola News**”) (all collectively, the “**Services**”).
+Taboola, Inc., together with its Affiliates (“**Taboola**”, “**we**”, “**us**”, or “**our**”), recognizes the importance of your privacy. In this privacy policy („Privacy Policy“) we describe how we collect, process, use, and disclose information that we obtain through our website, [www.taboola.com](http://www.taboola.com/), any Taboola website displaying this Privacy Policy (collectively, the “**Sites**”), our content-discovery platforms, feeds, widgets, analytics tools, and other technical applications that we provide on third-party websites (collectively, the “**Content Discovery Platform**”), and the Taboola News suite of content-discovery tools available on mobile devices and operating systems (including the Start line of products, collectively “**Taboola News**”) (all collectively, the “**Services**”).
 
-When you visit the Sites, or use or interact with any of our Services, we will collect information from or about you or your device, which may include personal information or personal data as defined by applicable privacy laws (“**Personal** **Information**” or “**Personal Data**“)  (collectively, the “**Information**”), and this Information will be handled as described in this Privacy Policy.
+When you visit the Sites, or use or interact with any of our Services, we will collect information from or about you or your device, which may include personal information or personal data as defined by applicable privacy laws (“**Personal** **Information**” or “**Personal Data**„)  (collectively, the “**Information**”), and this Information will be handled as described in this Privacy Policy.
 
-We may use Information collected through the Sites and Services in various ways, depending on whether you are (i) a publisher, advertiser, or other content provider that has a contractual relationship, with Taboola (a “**Customer**“); (ii) a visitor to our Customers’ websites and digital properties who interacts with our Services (a “**User**“); or (iii) a visitor to the Taboola Sites (a “**Site Visitor**“), which may include Customers and prospective customers. Therefore, this Privacy Policy outlines specific provisions for each of these categories in Sections 1 – 3, and outlines provisions that apply to all three categories in Section 4 below.
+We may use Information collected through the Sites and Services in various ways, depending on whether you are (i) a publisher, advertiser, or other content provider that has a contractual relationship, with Taboola (a „**Customer**„); (ii) a visitor to our Customers‘ websites and digital properties who interacts with our Services (a „**User**„); or (iii) a visitor to the Taboola Sites (a „**Site Visitor**„), which may include Customers and prospective customers. Therefore, this Privacy Policy outlines specific provisions for each of these categories in Sections 1 – 3, and outlines provisions that apply to all three categories in Section 4 below.
 
 For more information about how we use cookies on the Sites and when providing our Services, please refer to our [Cookie Policy](https://www.taboola.com/policies/cookie-policy).
 
@@ -49,7 +49,7 @@ For more information about how we use cookies on the Sites and when providing ou
 
 We collect Customer Information directly from our Customers. For example, we will collect a Customer’s contact details when a Customer enters a contractual relationship with Taboola and we will collect a username and password when a Customer creates an account on any of our Sites. When a Customer sends us an email asking a question, or signs up to receive our email newsletters, we will collect the Information that the Customer submits to us. We will also collect other Information that Customers choose to provide to us, such as the contents of a message or form that a Customer submits through our Sites or via email. We may also collect Information from prospective customers through publicly-available sources.
 
-When a Customer signs up to use our Services or uses Taboola’s analytics dashboard “Taboola Ads”, we collect Information such as the Customer’s name, email address, telephone number, payment card information, billing information, and any other Information the Customer may choose to provide to us on the platform. We may also work with third party vendors to process payments to or from our Customers on our behalf. These vendors currently include [Stripe](https://stripe.com/us/privacy) and [Payoneer](https://www.payoneer.com/legal/privacy-policy), but are subject to change at any time. We do not have access to the Information that you provide to these third parties, and we encourage you to visit their privacy policies to understand their practices.
+When a Customer signs up to use our Services or uses Taboola’s analytics dashboard „Taboola Ads“, we collect Information such as the Customer’s name, email address, telephone number, payment card information, billing information, and any other Information the Customer may choose to provide to us on the platform. We may also work with third party vendors to process payments to or from our Customers on our behalf. These vendors currently include [Stripe](https://stripe.com/us/privacy) and [Payoneer](https://www.payoneer.com/legal/privacy-policy), but are subject to change at any time. We do not have access to the Information that you provide to these third parties, and we encourage you to visit their privacy policies to understand their practices.
 
 ### 1.2 How We Use Customer Information
 
@@ -102,7 +102,7 @@ We may disclose User Information as follows:
 
 ### 2.4 Accessing Your User Information From Taboola
 
-You have the right to request that Taboola provide you with access to the Personal Data we hold about you, correct your Personal Data, delete your Personal Data, and cease or restrict processing of your Personal Data. Please click [here](https://accessrequest.taboola.com/access/) to make such a request.
+You have the right to request that Taboola provide you with access to the Personal Data we hold about you, correct your Personal Data, delete your Personal Data, and cease or restrict processing of your Personal Data. Please click [here](https://accessrequest.taboola.com/access) to make such a request.
 
 ### 2.5 Interest-Based Advertising
 
@@ -275,7 +275,7 @@ If you have questions about or need further information concerning the legal bas
 
 ### 5.1.3 Your Rights to Your Information
 
-You have the right to request that Taboola (i) provide you with access to the Personal Data we hold about you, (ii) correct your Personal Data, (iii) Export your Personal Data, (iv) delete your Personal Data, and (v) cease or restrict processing of your Personal Data. If you are a User and would like to understand what Personal Data and behavioural information Taboola holds about you, specifically, and how you can exercise any of your rights with respect to your Personal Data, please visit [Taboola’s Data Subject Access Request Portal](https://accessrequest.taboola.com/access/). Customers may also submit a data subject access request by emailing us at [privacy@taboola.com](mailto:privacy@taboola.com) so that Taboola may either respond with the relevant information or, if applicable, direct this request to, and cooperate with, your employer to respond.
+You have the right to request that Taboola (i) provide you with access to the Personal Data we hold about you, (ii) correct your Personal Data, (iii) Export your Personal Data, (iv) delete your Personal Data, and (v) cease or restrict processing of your Personal Data. If you are a User and would like to understand what Personal Data and behavioural information Taboola holds about you, specifically, and how you can exercise any of your rights with respect to your Personal Data, please visit [Taboola’s Data Subject Access Request Portal](https://accessrequest.taboola.com/access). Customers may also submit a data subject access request by emailing us at [privacy@taboola.com](mailto:privacy@taboola.com) so that Taboola may either respond with the relevant information or, if applicable, direct this request to, and cooperate with, your employer to respond.
 
 You have the right to complain to a data protection authority about our collection and use of your Personal Data. To learn more, please contact your local data protection authority, via the contact methods available [here](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm). However, if you have any questions about our collection and use of your Personal Data, please first contact us at [support@taboola.com](mailto:support@taboola.com). If you are unable to obtain the information or resolution that you seek, you may also contact our Data Protection Officer at [dpo@taboola.com](mailto:dpo@taboola.com).
 
@@ -297,7 +297,7 @@ In particular, non-EEA/UK Taboola Affiliates, like Taboola, Inc. in the United S
 
 California residents have the right to request that Taboola (i) provide you with access to the Personal Information that we hold about you, (ii) correct your Personal Information, (iii) delete your Personal Information, and (iv) cease or restrict disclosures or sales of your Personal Information to third parties. You also have a right against discrimination for exercising any of these rights, which Taboola is committed to upholding and honoring at all times.
 
-If you would like to opt out of Taboola’s disclosures and sales of your Personal Information, you may do so as outlined in [Taboola’s California Consumer Rights Portal](https://ccparequest.taboola.com/). Please note that this feature is currently only available for California state residents. If you are not a California resident, you may find [Taboola’s Data Subject Access Request Portal](https://accessrequest.taboola.com/access/) helpful.
+If you would like to opt out of Taboola’s disclosures and sales of your Personal Information, you may do so as outlined in [Taboola’s California Consumer Rights Portal](https://ccparequest.taboola.com/). Please note that this feature is currently only available for California state residents. If you are not a California resident, you may find [Taboola’s Data Subject Access Request Portal](https://accessrequest.taboola.com/access) helpful.
 
 ### 5.2.2 Categories of Data that Taboola Holds about You
 
@@ -335,7 +335,7 @@ Similarly, if we collect and use your Personal Data in reliance on our legitimat
 
 **5.3.3 Your Rights to Your Information**
 
-You have the right to request that Taboola (i) provide you with access to the Personal Data we hold about you, (ii) export your Personal Data, (iii) delete your Personal Data, and (iv) cease or restrict processing of your Personal Data. If you are a User and would like to understand what Personal Data and behavioural information Taboola holds about you, specifically, and how you can exercise any of your rights with respect to your Personal Data, please visit [Taboola’s Data Subject Access Request Portal](https://accessrequest.taboola.com/access/). Customers may also submit a data subject access request by emailing us at [privacy@taboola.com](mailto:privacy@taboola.com) so that Taboola may either respond with the relevant information or, if applicable, direct this request to, and cooperate with, your employer to respond.
+You have the right to request that Taboola (i) provide you with access to the Personal Data we hold about you, (ii) export your Personal Data, (iii) delete your Personal Data, and (iv) cease or restrict processing of your Personal Data. If you are a User and would like to understand what Personal Data and behavioural information Taboola holds about you, specifically, and how you can exercise any of your rights with respect to your Personal Data, please visit [Taboola’s Data Subject Access Request Portal](https://accessrequest.taboola.com/access). Customers may also submit a data subject access request by emailing us at [privacy@taboola.com](mailto:privacy@taboola.com) so that Taboola may either respond with the relevant information or, if applicable, direct this request to, and cooperate with, your employer to respond.
 
 If you have any questions about our collection and use of your Personal Data, please first contact us at [support@taboola.com](mailto:support@taboola.com). If you are unable to obtain the information or resolution that you seek, you may also contact our Data Protection Officer at [dpo@taboola.com](mailto:dpo@taboola.com).
 
@@ -369,7 +369,7 @@ If you have questions about or need further information concerning the legal bas
 
 **5.4.3 Your Rights to Your Personal Data**
 
-You have the right to request that Taboola (i) confirm whether we are processing your Personal Data, (ii) provide you with access to the Personal Data we hold about you, (iii) disclose the public and private entities with which we have shared use of your Personal Data, (iv) correct your Personal Data, (v) export your Personal Data, for your own use or use by another controller (vi) anonymize, block, or delete any unnecessary or excessive data, (vii) delete all your Personal Data, and (vii) cease or restrict processing of your Personal Data. If you are a User and would like to understand what Personal Data and behavioral information Taboola holds about you, specifically, and how you can exercise any of your rights with respect to your Personal Data, please visit Taboola’s Data Subject Access Request Portal. Customers may also submit a data subject access request by emailing us at [privacy@taboola.com](mailto:privacy@taboola.com) so that Taboola may either respond with the relevant information or, if applicable, direct this request to, and cooperate with, your employer to respond.
+You have the right to request that Taboola (i) confirm whether we are processing your Personal Data, (ii) provide you with access to the Personal Data we hold about you, (iii) disclose the public and private entities with which we have shared use of your Personal Data, (iv) correct your Personal Data, (v) export your Personal Data, for your own use or use by another controller (vi) anonymize, block, or delete any unnecessary or excessive data, (vii) delete all your Personal Data, and (vii) cease or restrict processing of your Personal Data. If you are a User and would like to understand what Personal Data and behavioral information Taboola holds about you, specifically, and how you can exercise any of your rights with respect to your Personal Data, please visit Taboola’s [Data Subject Access Request Portal](https://accessrequest.taboola.com/access). Customers may also submit a data subject access request by emailing us at [privacy@taboola.com](mailto:privacy@taboola.com) so that Taboola may either respond with the relevant information or, if applicable, direct this request to, and cooperate with, your employer to respond.
 
 Brazilian data subjects can file a complaint in relation to the LGPD with Brazil’s National Data Protection Authority (the “ANPD”), but please note that the Presidential Decree establishing the ANPD is not yet in effect. In the meantime, if you have any questions about our collection and use of your Personal Data, please first contact us at [support@taboola.com](mailto:support@taboola.com). If you are unable to obtain the information or resolution that you seek, you may also contact our Data Protection Officer at [dpo@taboola.com](mailto:dpo@taboola.com).
 
