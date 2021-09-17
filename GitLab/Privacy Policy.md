@@ -225,6 +225,7 @@ Your information is controlled by GitLab B.V. and GitLab Inc. If you have questi
 *   [What is GitLab?](https://about.gitlab.com/what-is-gitlab/)
 *   [Jobs](https://about.gitlab.com/jobs/)
 *   [Culture](https://about.gitlab.com/company/culture/)
+*   [Leadership](https://about.gitlab.com/company/team/e-group/)
 *   [Team](https://about.gitlab.com/company/team/)
 *   [Press](https://about.gitlab.com/press/)
 *   [Analysts](https://about.gitlab.com/analysts/)
