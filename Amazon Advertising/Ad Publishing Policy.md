@@ -1,7 +1,3 @@
-We’re having some issues and are working to fix them. Some features may be slow or not working. We're sorry for any inconvenience.
-
-We’re having some issues and are working to fix them. Some features may be slow or not working. We're sorry for any inconvenience.
-
 Amazon Advertising Guidelines and Acceptance Policies
 =====================================================
 
