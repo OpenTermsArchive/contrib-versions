@@ -1,7 +1,7 @@
 Wix.com Privacy Policy
 ======================
 
-Effective from August 8, 2021
+Effective from September 20, 2021
 
 Welcome to Wix.com’s Privacy Policy
 
@@ -130,9 +130,8 @@ Protecting Rights and Safety: Wix may share any categories of your Personal Info
 
 4.3.
 
-Wix Subsidiaries and Affiliated Companies: We may share your Personal Information internally within our family of companies, for the purposes described in this Privacy Policy. For example, we may share your Personal Information with Wix.com Inc., our US-based subsidiary, in the course of facilitating and providing you (and your Users-of-Users) with our Services.
-
-Sharing Personal Information from Wix subsidiaries and affiliated companies in the European Union and Switzerland to Wix’s United States subsidiary will be only when the relevant Model Standard Contractual Clauses are in place.
+Wix Subsidiaries and Affiliated Companies: We may share your Personal Information internally within our family of companies, for the purposes described in this Privacy Policy. For example, we may share your Personal Information with Wix.com Inc., our US-based subsidiary, in the course of facilitating and providing you (and your Users-of-Users) with our Services.  
+Sharing Personal Information by Wix subsidiaries and affiliated companies in the European Union, the United Kingdom and Switzerland with Wix’s subsidiaries located outside these regions will only take place under an approved transfer mechanism, such as the relevant Standard Contractual Clauses.
 
 4.4.
 
@@ -157,7 +156,7 @@ Wix does not control and is not responsible for the actions or policies of any T
 5\. Where do we store your ‘Personal Information’?
 --------------------------------------------------
 
-Users’ and Users-of-Users’ Personal Information may be stored in data centers located in the United States of America, Ireland, Japan and Israel. We may use other jurisdictions as necessary for the proper delivery of our Services and/or as may be required by law.
+Users’ and Users-of-Users’ Personal Information may be stored in data centers located in the United States of America, Ireland and Israel. We may use other jurisdictions as necessary for the proper delivery of our Services and/or as may be required by law.
 
 ​
 
@@ -169,7 +168,7 @@ Wix affiliates and Third-Party Service Providers that store or process your Pers
 
 5.1.
 
-Transfer of EU Personal data : If you are located in Europe, when we will transfer your Personal Information to the United States or anywhere outside Europe, we will make sure that (i) there is a level of protection deemed adequate by the European Commission or (ii) that the relevant Model Standard Contractual Clauses are in place. 
+Transfer of EU Personal data : If you are located in Europe, when we will transfer your Personal Information to the United States or anywhere outside Europe, we will make sure that (i) there is a level of protection deemed adequate by the European Commission or (ii) that the relevant Standard Contractual Clauses are in place. 
 
 5.2.
 
@@ -179,7 +178,7 @@ We may store and process Personal Information in the USA, Europe, Israel, or oth
 
 Wix’s data storage providers are contractually committed to protect and secure your data.
 
-Among other things, Wix will ensure that there is the adequate level of protection or that   relevant Model Standard Contractual Clauses are in place for the international transfer of our EU users’ data.
+Among other things, Wix will ensure that there is the adequate level of protection or that relevant Standard Contractual Clauses are in place for the international transfer of our EU users’ data.
 
 Privacy Shield Certification: Wix and its affiliates, including DeviantArt Inc., participates in, and has certified its compliance with, the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List, [here](https://www.privacyshield.gov/welcome).
 
@@ -208,7 +207,7 @@ The Users controlling and operating such User Websites shall be considered as th
 
 ​
 
-The Processing of the Users-of-users’ Personal Information shall take place within the territory of the European Union, Israel or a third country, territory or one or more specified sectors within that third country of which the European Commission has decided that it ensures an adequate level of protection and such processing and transfer will be in accordance to the [Data Processing Agreement – Users](https://www.wix.com/about/privacy-dpa-users) (“DPA"). Any transfer to and Processing in a third country outside the European Union that does not ensure an adequate level of protection according to the European Commission, shall be undertaken in accordance with the the Standard Contractual Clauses (2010/87/EU) set out in Annex 1of the DPA. For the sake of clarity, “Processing” should be understood as per the definition provided in the DPA.
+The Processing of the Users-of-users’ Personal Information shall take place within the territory of the European Union, Israel or a third country, territory or one or more specified sectors within that third country of which the European Commission has decided that it ensures an adequate level of protection and such processing and transfer will be in accordance to the [Data Processing Addendum – Users](https://www.wix.com/about/privacy-dpa-users) (“DPA"). Any transfer to and Processing in a third country outside the European Union that does not ensure an adequate level of protection according to the European Commission, shall be conducted under an approved transfer mechanism, as detailed in the DPA.
 
 ​
 
@@ -282,7 +281,11 @@ We may also contact you with service and billing-related messages and content. Y
 9\. Your rights in relation to your ‘Personal Information’
 ----------------------------------------------------------
 
-Wix agrees that it is imperative that you have control over your Personal Information. Pursuant to privacy regulations worldwide, Wix is taking steps to enable you to request access to, receive a copy of, update, amend, delete, or limit the use of your Personal Information.
+Wix believes that it is imperative that all Wix users have control over their Personal Information. Therefore, depending on the way you use the Wix Services, you may have the right to request access to, receive a copy of, update, amend or delete, port certain Personal Information to another service, restrict, or object to certain uses of your Personal Information (for example, for direct marketing purposes). Further, when we rely on your consent for processing of your Personal Information (for instance, for direct marketing) you can withdraw your consent at any time, and such withdrawal will take affect from thereon.  
+  
+Wix will not charge you more if you exercise any of these rights and will continue to provide you with the same level of service.  
+  
+If you are a Wix user, you can access and correct a lot of your Personal Information directly through your account, or via online forms Wix makes available to you (as detailed below). You can also exercise your rights by sending your request to [privacy@wix.com](mailto:privacy@wix.com), mailing it to Wix.com, 40 Namal Tel Aviv St., Tel Aviv 6350671, Israel, or reaching out to our [customer care department](https://support.wix.com/en/article/contacting-wix-customer-care-for-support?_gl=1*bbrojx*_ga*MTkyMDMwNjI5LjE2MzIwMzI1ODc.*_ga_H314XQHSPY*MTYzMjAzODExNy4yLjAuMTYzMjAzODExNy42MA..). When we receive your right request, we may take steps to verify your identity before complying with the request to protect your privacy and security.
 
 ​
 
@@ -290,11 +293,9 @@ Before fulfilling your request, we may ask you for additional information in ord
 
 ​
 
-You have the right to file a complaint with your local supervisory authority for data protection (but we still recommend that you contact us first).
-
-​
-
-If you are a Wix User, and you wish to receive a copy, access and/or request us to make corrections to the Personal Information that you have stored with us (either yours or your Users-of-Users’), or wish to request a list of what Personal Information (if any) pertaining to you we disclosed to third parties for direct marketing purposes, please follow the instructions provided in these Help Center articles: “[Retrieving Your Wix Account Data](https://support.wix.com/en/article/gdpr-retrieving-your-wix-account-data)” or [Permanently Deleting Your Wix Account](https://support.wix.com/en/article/privacy-permanently-deleting-your-wix-account-2888065)”. You can also mail your request to Wix.com, 40 Namal Tel Aviv St., Tel Aviv 6350671, Israel. We will make reasonable efforts to honor your request promptly (unless we require further information from you in order to fulfil your request), subject to legal and other permissible considerations.
+You have the right to file a complaint with your local supervisory authority for data protection (but we still recommend that you contact us first).  
+  
+If you are a Wix User, and you wish to receive a copy, access and/or request us to make corrections to the Personal Information that you have stored with us (either yours or your Users-of-Users’), or wish to request a list of what Personal Information (if any) pertaining to you we disclosed to third parties for direct marketing purposes, please follow the instructions provided in these Help Center articles: “[Retrieving Your Wix Account Data](https://support.wix.com/en/article/gdpr-retrieving-your-wix-account-data?_gl=1*1xik3pa*_ga*MjA3NzYxNjc4LjE2MzEzODU0OTA.)” or "[Permanently Deleting Your Wix Account](https://support.wix.com/en/article/privacy-permanently-deleting-your-wix-account-2888065?_gl=1*1xik3pa*_ga*MjA3NzYxNjc4LjE2MzEzODU0OTA.)”. You can also mail your request to Wix.com, 40 Namal Tel Aviv St., Tel Aviv 6350671, Israel. We will make reasonable efforts to honor your request promptly (unless we require further information from you in order to fulfil your request), subject to legal and other permissible considerations.
 
 ​
 
@@ -302,11 +303,14 @@ Please note that permanently deleting your Wix account erases all of your Person
 
 #ItsThatEasy
 
-You may request to access, receive a copy of, update, amend, delete, or limit the use of your Personal Information you have stored with us. Just send us an e-mail or fill out our dedicated GDPR form. You may also correct and/or update your Personal Information through your account or website settings.
+When it comes to your Personal Information you stored with us, you have the right to: access, receive a copy of, update, amend or delete your Personal Information​, enjoy data portability (in certain cases) restrict, or object to certain uses of your Personal Information, withdraw consent you’ve given us before to processing.
 
-​
-
-You can delete your Personal Information by deleting  your entire account. We will respond to your requests within a reasonable timeframe. 
+  
+Just reach out to us by e-mail, mail or through our customer care team, or, when available, fill out our dedicated form.  
+  
+You may also correct and/or update your Personal Information through your user account, if you have one.  
+  
+You can also delete your Personal Information by deleting  your entire account. We will respond to your requests within a reasonable timeframe.
 
 10\.  Additional Information for California residents
 -----------------------------------------------------
