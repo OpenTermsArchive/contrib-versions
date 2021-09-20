@@ -73,7 +73,7 @@ Telegram uses phone numbers as unique identifiers so that it is easy for you to 
 
 We store your up-to-date contacts in order to notify you as soon as one of your contacts signs up for Telegram and to properly display names in notifications. We only need the number and name (first and last) for this to work and store no other data about your contacts.
 
-Our automatic algorithms can also use anonymized sets of phone numbers to calculate the average number of potential contacts an unregistered phone number may have on Telegram. When you open the 'Invite friends' interface, we display the resulting statistics next to your contacts to give you an idea of who could benefit most from joining Telegram.
+Our automatic algorithms can also use anonymized sets of phone numbers to calculate the approximate number of potential contacts an unregistered phone number may have on Telegram. When you open the 'Invite friends' interface, we display the resulting statistics next to your contacts to give you an idea of who could benefit most from joining Telegram.
 
 You can always stop syncing contacts or delete them from our servers in Settings > Privacy & Security > Data Settings.
 
