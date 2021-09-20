@@ -1311,7 +1311,7 @@ Le crédit sera cumulé sur la Cagnotte :**
 
  \- Soit à l’issue d’un délai maximum de trente (30) jours ouvrés à compter de la livraison du Produit éligible au Privilège, pour les Offres Site.
 
- \- Soit à l'issue du délai mentionné sur chaque Offre Partenaire au moment de l’achat puisque le délai dépend de la date de confirmation du commerçant partenaire, pour les Offres Partenaires.
+ \- Soit à l’issue du délai mentionné sur chaque Offre Partenaire au moment de l’achat puisque le délai dépend de la date de confirmation du commerçant partenaire, pour les Offres Partenaires.
 
 Avant l’écoulement de ces périodes, le montant à créditer sera affiché comme étant « En attente » dans l’Espace Client de l’Abonné, rubrique « Ma cagnotte à volonté ».
 
