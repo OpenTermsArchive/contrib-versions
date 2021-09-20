@@ -24,7 +24,7 @@
   
 9...... COOKIES  
   
-10..... LES TRAITEMENTS DE DONNÉES PERSONNELLES DÉFINIS CONJOINTEMENT PAR RELEVANC ET CDISCOUNT  
+10..... LES TRAITEMENTS DE DONNÉES PERSONNELLES MIS EN OEUVRE PAR FLOA BANK ET CDISCOUNT POUR LE PAIEMENT EN 4 FOIS  
   
   
 
@@ -54,45 +54,43 @@ Le Délégué à la protection des données (ci-après le « DPD ») de Cdisco
 
 ================================================================
 
-  
 Nous traitons vos Données pour les finalités exposées dans le tableau suivant (pour la bonne compréhension du tableau, nous vous invitons à vous reporter au glossaire en Annexe n°1) **:**  
+  
 
 |     |     |     |
 | --- | --- | --- |
 | **Finalités de traitement** | **Sous-finalités** | **Fondement du traitement** |
-| Activités n°1 - Optimiser le Site | Analyser le parcours de navigation des clients (canal d'acquisition, pays de livraison, langue, etc.) | · Intérêt légitime poursuivi par Cdiscount |
-| Identification des connexions massives sur le site et exclusion des adresses IP non pertinentes |
-| Détermination des tendances des recherches effectuées depuis le moteur de recherche du site afin de pouvoir ajuster à la demande les offres proposées sur le site |
+| Activités n°1 - Optimiser le Site | Analyser le parcours de navigation des clients (canal d'acquisition, pays de livraison, langue, etc.) | Intérêt légitime poursuivi par Cdiscount |
+| Identification des connexions massives sur le Site et exclusion des adresses IP non pertinentes |
+| Détermination des tendances des recherches effectuées depuis le moteur de recherche du Site afin de pouvoir ajuster à la demande les offres proposées sur le Site |
 | Personnalisation de l’offre |
-| Activité n°2 – Gérer les commandes, les livraisons et la relation client | Gérer les commandes (Préparer et expédier des commandes clients / Réceptionner et traiter les retours clients) | · Exécution du contrat |
-| Gestion de l'activité logistique | · Exécution du contrat<br><br>· Intérêt légitime poursuivi par Cdiscount |
-| Gestion de l'immatriculation des vélos | . Obligation légale |
-| Gestion des relations avec les transporteurs :  <br> - Gestion de la livraison et des retours (relation avec les relais, suivi de l’attribution des bons de réductions, suivi des indemnisations et des litiges)  <br> - Amélioration de la qualité du transport | · Exécution du contrat |
-| Gérer la relation client :  <br> - Gestion des demandes des clients (exercice de droits, paiement, etc.)  <br> - Gestion des litiges et contentieux  <br> - Traitement des avis client  <br> - Traitement SAV d'une demande client  <br> - Développement de projets et pilotage des procédures visant à l'amélioration de la relation client  <br> - Gestion des enregistrements téléphoniques  <br> - Gestion des échanges avec le client sur les réseaux sociaux  <br>        o Sur Facebook : [https://www.facebook.com/about/privacy](https://www.facebook.com/about/privacy) o Sur Twitter : [https://twitter.com/fr/privacy](https://twitter.com/fr/privacy) o Sur Instagram : [https://help.instagram.com/519522125107875](https://help.instagram.com/519522125107875) | · Exécution du contrat<br><br>· Respect d’une obligation légale<br><br>· Intérêt légitime poursuivi par Cdiscount |
-| Activité n°3 – Gérer les partenariats | Faciliter la connexion au site du partenaire | · Consentement<br><br>· Intérêt légitime poursuivi par Cdiscount |
-| Synchronisation des bases (élaboration de statistiques permettant d’améliorer la connaissance client) | · Intérêt légitime poursuivi par Cdiscount |
-| Vente de produits et services via les plateformes dédiées | · Exécution du contrat |
-| Activité n°4 – Gérer les modalités de paiements | Gestion du paiement des commandes (traitement comptable des factures des clients) | · Obligation légale |
-| Gestion des modalités de paiement facilité (faciliter le paiement des achats de la personne par l’enregistrement de sa carte) | · Consentement ou intérêt légitime [\[1\]](http://esus.recette-cdiscount.com/MCMS/Default.aspx?SessionKey=267cdadd-55fd-4dd6-aecc-291d1b9bfbb9#_ftnref1) |
-| Gestion des paiements en plusieurs fois<br><br>Gestion des paiements en différé | · Exécution du contrat |
-| Activité n°5 - Le recouvrement et la lutte contre la fraude | La gestion du recouvrement | · Exécution du contrat |
-| Identifier et analyser les modes opératoires (ou suspectés) de fraude) et gestion du contentieux afférent | · Intérêt légitime poursuivi par Cdiscount |
-| Activité n°6 – Gérer l’animation commerciale du Site | Optimisation des offres commerciales | · Consentement<br><br>**·** Intérêt légitime poursuivi par Cdiscount |
-| Optimisation de l'animation commerciale du site :  <br> - Gestion des jeux et concours organisés par Cdiscount  <br> - Gestion et optimisation des opérations commerciales (deals, promo)  <br> - Gestion des participants et gagnants des jeux concours, de loteries ou opérations promotionnelles  <br> - Gestion des partenariats avec les influenceurs  <br> - Gestion des évènements organisés sur les réseaux sociaux | · Exécution du contrat<br><br>· Consentement<br><br>**·** Intérêt légitime poursuivi par Cdiscount |
-| Optimisation de l'expérience client sur le site pour les achats en magasins (choix de paiement alternatif pour le client, gestion de la livraison (Click and Collect), etc.) | · Exécution du contrat<br><br>**·** Intérêt légitime poursuivi par Cdiscount |
-| Personnalisation de l'expérience du client sur le site de Cdiscount (au regard de statistiques et profilage) :  <br> - Elaboration de statistiques commerciales sur le site de Cdiscount  <br> - Amélioration de la prospection par mail des clients abonnés à la newsletter de Cdiscount  <br> - Communication de questionnaires aux clients, visiteurs et prospects de Cdiscount  <br> - Elaboration de statistiques commerciales afin d'améliorer l'octroi de bons de réductions  <br> - Personnalisation de la recommandation produits (similaires, produits associés, historique de navigation) | · Intérêt légitime poursuivi par Cdiscount |
-| Personnalisation de l'expérience du client sur le site de Cdiscount (au regard de la connaissance client) :  <br> - Qualification des clients afin d'améliorer la connaissance client et mettre en place des actions de fidélisation adaptée  <br> - Personnalisation de la recommandation de produit, Bon de réduction, etc. - Personnalisation des canaux de fidélisation client  <br> - Parrainage  <br> - Gestion d'opération de prospection  <br> \- Gestion de la liste d’envie | · Intérêt légitime poursuivi par Cdiscount |
-| Gestion de la vente à distance :  <br> - Guider et accompagner le client dans son acte d'achat (Gestion des appels entrants et sortants)  <br> - Gestion du chat pour la vente à distance (analyse des conversations, des données de transactions et des échanges automatisés)  <br> - Fidélisation du client (gestion des appels entrants et sortants) | · Intérêt légitime poursuivi par Cdiscount |
-| Mise en place d’une plateforme publicitaire permettant de proposer aux utilisateurs (vendeurs marketplace et annonceurs) la création de campagne de produits sponsorisés | · Intérêt légitime poursuivi par Cdiscount |
-| Gestion de la prospection commerciale à destination des clients et prospects par Cdiscount  <br>Ciblage, mesure de performance et analyse des publicités par Cdiscount  <br>Transmission de vos coordonnées à des partenaires de Cdiscount à des fins de prospection commerciale par voie téléphonique ou postale sur la base de notre intérêt légitime ou par voie électronique (email, SMS, automate d’appel) avec votre consentement.  <br>Transmission de vos données à nos partenaires à des fins de ciblage, de mesure de performance et d'analyse des publicités  <br>Développement de procédures pour optimiser le pilotage des activités publicitaires | · Consentement<br><br>· Intérêt légitime poursuivi par Cdiscount |
-| Activité n°7 - La gestion de la relation avec la Marketplace | Gestion des produits proposés via la marketplace | · Exécution du contrat |
-| Contrôle de la qualité des vendeurs | · Intérêt légitime poursuivi par Cdiscount |
-| Gestion de la lutte contre la fraude | · Intérêt légitime poursuivi par Cdiscount |
-| Gestion du service Fullfilment à destination des vendeurs MarketPlace | · Exécution du contrat |
-| Gestion administrative et comptable des comptes vendeurs | · Obligation légale<br><br>· Intérêt légitime poursuivi par Cdiscount |
-| Gestion des échanges avec les vendeurs marketplace :<br><br>\- Gestion des échanges via des mails<br><br>\- Formulaires de contact sur le site institutionnel<br><br>\- Améliorer la prise en compte des demandes des clients par les vendeurs<br><br>\- Gestion des demandes des vendeurs | · Exécution du contrat<br><br>· Obligation légale<br><br>· Intérêt légitime poursuivi par Cdiscount |
-| Analyse de la performance de la Marketplace | · Intérêt légitime poursuivi par Cdiscount |
-| Activité n°8 - Cdiscount à volonté | Pilotage de l’activité liée aux ventes Cdiscount à Volonté | · Intérêt légitime poursuivi par Cdiscount  <br>\- Exécution du contrat |
+| Activité n°2 – Gérer les commandes, les livraisons et la relation client | Gérer les commandes (Préparer et expédier des commandes clients / Réceptionner et traiter les retours clients) | Exécution du contrat |
+| Gestion de l'activité logistique | Exécution du contrat<br><br>Intérêt légitime poursuivi par Cdiscount |
+| Gestion de l'immatriculation des vélos | Respect d'une obligation légale |
+| Gestion des relations avec les transporteurs :  <br> - Gestion de la livraison et des retours (relation avec les relais, suivi de l’attribution des bons de réductions, suivi des indemnisations et des litiges)  <br> - Amélioration de la qualité du transport  <br> - Collecte du numéro de la pièce d'identité | Exécution du contrat  <br>  <br>Respect d'une obligation légale |
+| Gérer la relation client :  <br> - Gestion des demandes des clients (exercice de droits, paiement, etc.)  <br> - Gestion des litiges et contentieux  <br> - Traitement des avis client  <br> - Traitement SAV d'une demande client  <br> - Développement de projets et pilotage des procédures visant à l'amélioration de la relation client  <br> - Gestion des enregistrements téléphoniques  <br> - Gestion des échanges par chat  <br> - Gestion des échanges avec le client sur les réseaux sociaux  <br>        o Sur Facebook : [https://www.facebook.com/about/privacy](https://www.facebook.com/about/privacy) o Sur Twitter : [https://twitter.com/fr/privacy](https://twitter.com/fr/privacy) o Sur Instagram : [https://help.instagram.com/519522125107875](https://help.instagram.com/519522125107875) | Exécution du contrat<br><br>Respect d’une obligation légale<br><br>Intérêt légitime poursuivi par Cdiscount |
+| Activité n°3 – Gérer les partenariats | Faciliter la connexion au site du partenaire | Consentement<br><br> Intérêt légitime poursuivi par Cdiscount |
+| Synchronisation des bases (élaboration de statistiques permettant d’améliorer la connaissance client) | Intérêt légitime poursuivi par Cdiscount |
+| Vente de produits et services via les plateformes dédiées | Exécution du contrat |
+| Activité n°4 – Gérer les modalités de paiements | Gestion du paiement des commandes (traitement comptable des factures des clients) | Respect d'une obligation légale |
+| Gestion des modalités de paiement facilité (faciliter le paiement des achats de la personne par l’enregistrement de sa carte) | Consentement ou intérêt légitime [\[1\]](http://esus.recette-cdiscount.com/MCMS/Default.aspx?SessionKey=267cdadd-55fd-4dd6-aecc-291d1b9bfbb9#_ftnref1) |
+| Gestion des paiements en plusieurs fois (crédit long dont le délai de remboursement est supérieur à trois mois)<br><br>Gestion des paiements en différé (pour les professionnels uniquement) | Exécution du contrat |
+| Activité n°5 – Promotion des services financiers et d'assurance | Promotion du service "Coup de Pouce" | Consentement ou intérêt légitime [](http://esus.recette-cdiscount.com/MCMS/Default.aspx?SessionKey=267cdadd-55fd-4dd6-aecc-291d1b9bfbb9#_ftnref1) |
+| Promotion de la carte bancaire co-brandée Cdiscount/FLOA et des crédits à la consommation afférents | Consentement ou intérêt légitime [](http://esus.recette-cdiscount.com/MCMS/Default.aspx?SessionKey=267cdadd-55fd-4dd6-aecc-291d1b9bfbb9#_ftnref1) |
+| Promotion des assurances sur le site [www.cdiscount.com](https://www.cdiscount.com/) | Consentement ou intérêt légitime [](http://esus.recette-cdiscount.com/MCMS/Default.aspx?SessionKey=267cdadd-55fd-4dd6-aecc-291d1b9bfbb9#_ftnref1) |
+| Activité n°6 - Le recouvrement et la lutte contre la fraude | La gestion du recouvrement | Exécution du contrat |
+| Identifier et analyser les modes opératoires (ou suspectés) de fraude) et gestion du contentieux afférent | Intérêt légitime poursuivi par Cdiscount |
+| Activité n°7 – Gérer l’animation commerciale du Site | Optimisation des offres commerciales | Consentement<br><br>Intérêt légitime poursuivi par Cdiscount |
+| Optimisation de l'animation commerciale du Site :  <br> - Gestion des jeux et concours organisés par Cdiscount  <br> - Gestion et optimisation des opérations commerciales (deals, promo)  <br> - Gestion des participants et gagnants des jeux concours, de loteries ou opérations promotionnelles  <br> - Gestion des partenariats avec les influenceurs  <br> - Gestion des évènements organisés sur les réseaux sociaux | Exécution du contrat<br><br>Consentement<br><br>Intérêt légitime poursuivi par Cdiscount |
+| Optimisation de l'expérience client sur le Site pour les achats en magasins (choix de paiement alternatif pour le client, gestion de la livraison (Click and Collect), etc.) | Exécution du contrat<br><br>Intérêt légitime poursuivi par Cdiscount |
+| Personnalisation de l'expérience du client sur le Site de Cdiscount (au regard de statistiques et profilage) :  <br> - Elaboration de statistiques commerciales sur le site de Cdiscount  <br> - Amélioration de la prospection par mail des clients abonnés à la newsletter de Cdiscount  <br> - Communication de questionnaires aux clients, visiteurs et prospects de Cdiscount  <br> - Elaboration de statistiques commerciales afin d'améliorer l'octroi de bons de réductions  <br> - Personnalisation de la recommandation produits (similaires, produits associés, historique de navigation) | Intérêt légitime poursuivi par Cdiscount |
+| Personnalisation de l'expérience du client sur le Site de Cdiscount (au regard de la connaissance client) :  <br> - Qualification des clients afin d'améliorer la connaissance client et mettre en place des actions de fidélisation adaptée  <br> - Personnalisation de la recommandation de produit, bon de réduction, etc. - Personnalisation des canaux de fidélisation client  <br> - Parrainage  <br> - Gestion d'opération de prospection  <br> \- Gestion de la liste d’envie | Intérêt légitime poursuivi par Cdiscount |
+| Mise en place d’une plateforme publicitaire permettant de proposer aux utilisateurs (vendeurs marketplace et annonceurs) la création de campagne de produits sponsorisés | Intérêt légitime poursuivi par Cdiscount |
+| Gestion de la prospection commerciale à destination des clients et prospects par Cdiscount  <br>\- Ciblage, mesure de performance et analyse des publicités par Cdiscount  <br>\- Transmission de vos coordonnées à des partenaires de Cdiscount à des fins de prospection commerciale par voie téléphonique ou postale sur la base de notre intérêt légitime ou par voie électronique (email, SMS, automate d’appel) avec votre consentement.  <br>\- Transmission de vos données à nos partenaires à des fins de ciblage, de mesure de performance et d'analyse des publicités  <br>\- Développement de procédures pour optimiser le pilotage des activités publicitaires | Consentement<br><br>Intérêt légitime poursuivi par Cdiscount |
+| Activité n°8 - La gestion de la relation avec la Marketplace | Communication de la commande de l'acheteur auprès du vendeur marketplace | Exécution du contrat |
+| Contrôle de la qualité des vendeurs | Intérêt légitime poursuivi par Cdiscount |
+| Gestion de la lutte contre la fraude | Intérêt légitime poursuivi par Cdiscount |
+| Activité n°9 - Cdiscount à volonté | Pilotage de l’activité liée aux ventes Cdiscount à Volonté | Intérêt légitime poursuivi par Cdiscount  <br>  <br>Exécution du contrat |
 | Optimisation et personnalisation du parcours client abonné à Cdiscount à Volonté |
 | Renouvellement de l’abonnement Cdiscount à Volonté |
 
@@ -120,7 +118,8 @@ Des audits et contrôles périodiques sont menés tout au long de l’année par
 Vous trouverez ci-après une description de vos droits ainsi que des modalités techniques à votre disposition pour les exercer. 
 
 Concernant les demandes qui parviendraient au DPD par courriel ou courrier postal, nous vous prions d’indiquer l'adresse électronique rattachée à votre compte client sur le Site (ou de l'utiliser dans le cas d'un email) ainsi que vos noms et prénoms.  
-Dans l'hypothèse où vous ne parviendriez pas à retrouver l'adresse électronique rattachée à votre compte client sur le Site ou en cas d’incertitude sérieuse sur votre identité, des informations complémentaires relatives à votre identité pourront vous être demandées conformément à l'article 12 du RGPD.  Nous vous adresserons une réponse dans un **délai d’un (1) mois maximum** suivant la date de réception de votre demande. Ce délai pourra être prolongé de **deux (2) mois supplémentaires** compte tenu de la complexité et du nombre de demandes. 
+ Dans l'hypothèse où vous ne parviendriez pas à retrouver l'adresse électronique rattachée à votre compte client sur le Site ou en cas d’incertitude sérieuse sur votre identité, des informations complémentaires relatives à votre identité pourront vous être demandées conformément à l'article 12 du RGPD.    
+Nous vous adresserons une réponse dans un **délai d’un (1) mois maximum** suivant la date de réception de votre demande. Ce délai pourra être prolongé de **deux (2) mois supplémentaires** compte tenu de la complexité et du nombre de demandes. 
 
 Par soucis de transparence, vous trouverez ci-après un tableau récapitulant vos droits selon les différents traitements. **Pour la bonne compréhension de ce tableau nous mettons à votre disposition un glossaire en annexe 1.**
 
@@ -135,7 +134,7 @@ Par soucis de transparence, vous trouverez ci-après un tableau récapitulant vo
 | **Le droit à la portabilité** |     | Les traitements fondés sur :  <br> - votre consentement  <br> - l’exécution du contrat |
 | **Le droit de plainte** | Vous pouvez, à tout moment, **porter réclamation devant l’autorité de contrôle compétente** (en France, la CNIL : [www.cnil.fr](http://www.cnil.fr/)) | Tous les traitements de données à caractère personnel |
 | **Le droit de formuler des directives post-mortem** | Vous avez le droit de **formuler des directives post-mortem** spécifiques et générales concernant la conservation, l’effacement et la communication de vos Données.<br><br>En l’absence de toute directive, vos héritiers peuvent s’adresser à Cdiscount afin :  <br> - d’accéder aux traitements de Données permettant « l’organisation et le règlement de la succession du défunt »\-    et/ou de faire procéder à la clôture de votre Compte sur le Site et/ou de s’opposer à la poursuite du traitement de vos Données.<br><br>  <br>En tout état de cause, vous avez la possibilité de nous indiquer, à tout moment, que vous ne souhaitez pas, en cas de décès, que vos Données soient communiquées à un tiers. | Tous les traitements de données à caractère personnel |
-| **Droit à la limitation** | Il est important de noter que ce droit ne s’applique que si :  <br> - vous contestez l’exactitude de vos Données pendant la durée nous permettant de vériﬁer l’exactitude de ces dernières,  <br> - vous considérez que nous traitons illicitement vos Données et que vous exigez une limitation de leur utilisation plutôt qu’un effacement,  <br> - nous n’avons plus besoin de vos Données au regard des finalités visées en paragraphe 2 ou 6.4 mais que celles-ci sont encore nécessaires pour la constatation, l’exercice ou la défense de vos droits en justice, <br><br>en cas d’exercice de votre droit d’opposition pendant la durée de vériﬁcation portant sur le point de savoir si les motifs légitimes que nous poursuivons prévalent sur les vôtres. | Les traitements fondés sur :<br><br>\- l’exécution du contrat<br><br>\- obligation légale<br><br>\- notre intérêt légitime |
+| **Droit à la limitation** | Il est important de noter que ce droit ne s’applique que si :  <br> - vous contestez l’exactitude de vos Données pendant la durée nous permettant de vériﬁer l’exactitude de ces dernières,  <br> - vous considérez que nous traitons illicitement vos Données et que vous exigez une limitation de leur utilisation plutôt qu’un effacement,  <br> - nous n’avons plus besoin de vos Données au regard des finalités visées en paragraphe 2 ou 10.3 mais que celles-ci sont encore nécessaires pour la constatation, l’exercice ou la défense de vos droits en justice, <br><br>en cas d’exercice de votre droit d’opposition pendant la durée de vériﬁcation portant sur le point de savoir si les motifs légitimes que nous poursuivons prévalent sur les vôtres. | Les traitements fondés sur :<br><br>\- l’exécution du contrat<br><br>\- obligation légale<br><br>\- notre intérêt légitime |
 
 5. QUI SONT LES DESTINATAIRES DE VOS DONNÉES ?
 ==============================================
@@ -148,24 +147,31 @@ Différents services internes de Cdiscount peuvent avoir accès à vos Données.
 | **Finalités du traitement** | **Destinataires des Données** |
 | Traitement n°1 : Optimiser le Site | - Services internes  <br> - Prestataires externes spécialisés dans le tracking et la mesure d’audience  <br> - Prestataire externe spécialisé dans l'analyse du comportement de l'internaute  <br> - Prestataires externes spécialisés dans la personnalisation des offres |
 | Traitement n°2 : Gérer les commandes, les livraisons et la relation client | - Services internes - Prestataires spécialisés dans la traduction des besoins des personnes  <br> - Prestataires externes spécialisés dans le transport et/ou la livraison et/ou la logistique  <br> - Prestataires externes spécialisés dans la gestion de la relation client et/ou le service après-vente  <br> - Fournisseurs commerciaux de Cdiscount  <br> - Prestataires externes spécialisés dans la gestion des enregistrements téléphoniques |
-| Traitement n°3 : Gérer les Partenariats | - Services internes  <br> - Prestataire d’interface informatique   <br>   Prestataires de paiement avec une partie très limitée des informations  <br>   Partenaires et prestataires nécessaires à l’exécution du service demandé par le client (ex : voyagistes) |
+| Traitement n°3 : Gérer les Partenariats | - Services internes  <br> - Prestataire d’interface informatique   <br> \- Prestataires de paiement avec une partie très limitée des informations  <br> \- Partenaires et prestataires nécessaires à l’exécution du service demandé par le client (ex : voyagistes) |
 | Traitement n° 4 : Modalité de paiements | - Services internes - Prestataires externes spécialisés dans les services de paiement et de transaction |
-| Traitement n°5 : Le recouvrement et la lutte contre la fraude | - Services internes  <br> - Prestataires externes spécialisés dans le recouvrement et dans le risque crédit  <br> - Autorités publiques et administratives |
-| Traitement n°6 : Gérer l’animation commerciale du Site | - Services internes  <br> - Médias et influenceurs partenaires - Fournisseurs prenant part aux opérations commerciales - Prestataire externe spécialisé dans la gestion de la relation client et/ou dans le marketing conversationnel (chat) et/ou dans la gestion de vos listes d’envie  <br> - Prestataires externes spécialisés dans l'édition de solutions informatiques dans la personnalisation de site web, de datavisualisation/data Analytics et de GRC  <br> - Prestataires externes spécialisés dans les stratégies d'acquisition et/ou dans l'optimisation de campagnes marketing et/ou dans le tracking et la mesure d'audience et/ou dans la prospection commerciale Annonceurs |
-| Traitement n°7 : La gestion de la relation avec la Marketplace | - Vendeurs Marketplace |
-| Traitement n°8 : Cdiscount à volonté | - Prestataires spécialisés dans la gestion de la relation client  <br> - Prestataires spécialisés dans l'édition de solutions informatiques en graphisme, vidéo, photo… |
+| Traitement n°5 : Promotion des services financiers et d'assurance | - Services internes |
+| Traitement n°6 : Le recouvrement et la lutte contre la fraude | - Services internes  <br> - Prestataires externes spécialisés dans le recouvrement et dans le risque crédit  <br> - Autorités publiques et administratives |
+| Traitement n°7 : Gérer l’animation commerciale du Site | - Services internes  <br> - Médias et influenceurs partenaires - Fournisseurs prenant part aux opérations commerciales - Prestataire externe spécialisé dans la gestion de la relation client et/ou dans le marketing conversationnel (chat) et/ou dans la gestion de vos listes d’envie  <br> - Prestataires externes spécialisés dans l'édition de solutions informatiques dans la personnalisation de site web, de datavisualisation/data Analytics et de gestion de la relation client  <br> - Prestataires externes spécialisés dans les stratégies d'acquisition et/ou dans l'optimisation de campagnes marketing et/ou dans le tracking et la mesure d'audience et/ou dans la prospection commerciale \- Annonceurs |
+| Traitement n°8 : La gestion de la relation avec la Marketplace | - Vendeurs Marketplace |
+| Traitement n°9 : Cdiscount à volonté | - Prestataires spécialisés dans la gestion de la relation client  <br> - Prestataires spécialisés dans l'édition de solutions informatiques en graphisme, vidéo, photo… |
 
 6. MES DONNÉES SONT ELLE ENVOYÉES HORS DE L’UE ?
 ================================================
 
-À titre exceptionnel, vos Données peuvent être transmises pour les besoins des finalités définies ci-dessus à des sociétés situées dans des pays hors de l’Union Européenne. Dans ce cas, et avant tout transfert, Cdiscount s’assure de respecter les garanties nécessaires à la sécurisation de tels transferts. Des transferts hors Union Européenne peuvent être réalisés notamment dans le cadre des activités suivantes : 
+À titre exceptionnel, vos Données peuvent être transmises pour les besoins des finalités définies ci-dessus à des sociétés situées dans des pays hors de l’Union Européenne.  
+  
+Dans ce cas, et avant tout transfert, Cdiscount s’assure de respecter les garanties nécessaires à la sécurisation de tels transferts. Des transferts hors Union Européenne peuvent être réalisés notamment dans le cadre des activités suivantes : 
 
 |     |     |     |
 | --- | --- | --- |
 | **Activité** | **Pays de destination des données** | **Encadrement du transfert de données** |
 | Gestion des avis clients | Etats-Unis | Clauses contractuelles types/ mesures complémentaires de protection |
 | Gestion de la relation avec la Marketplace | Pays de situation des vendeurs marketplace (propre à chaque vendeur et indiqué dans l’espace d’information qui le concerne) | Clauses contractuelles types |
-| Gestion de la relation client | Site Cdiscount : Maroc, Tunisie, Sénégal, Côte d’Ivoire<br><br>Site Cdiscount Pro : Maroc | Clauses contractuelles types |
+| Gestion de la relation client | Site Cdiscount : Maroc, Tunisie, Sénégal, Côte d’Ivoire, Maurice, Inde, Malaisie, Etats-Unis, Cameroun<br><br>Site Cdiscount Pro : Maroc | Clauses contractuelles types |
+| Elaboration de statistiques relatives à la navigation client | Taiwan, Japon, Etats-Unis | Clauses contractuelles types |
+| Gestion de la relation sur réseaux sociaux | Madagascar, Ukraine, Russie, Philippines | Clauses contractuelles types |
+| Gestion du recouvrement | Maroc, Tunisie | Clauses contractuelles types |
+| Prospection commerciale | Inde, Canada, Etats-Unis, Maroc, Australie, Philippines, Japon, Singapour | Clauses contractuelles types |
 
 Sur simple demande formulée à notre DPD, nous pouvons vous fournir davantage d’informations quant à ces transferts, ainsi qu’une copie des documents autorisant le transfert de Données hors de l’Union Européenne. 
 
@@ -220,7 +226,7 @@ Un cookie ne peut pas donner accès à des informations vous concernant que vous
 |     |     |
 | --- | --- |
 | Cookies nécessaires au fonctionnement du service (ou « essentiels ») ou aux fonctionnalités du site | Ces cookies sont obligatoires pour le fonctionnement du Site Cdiscount et de ses fonctionnalités (par exemple, cookie lié à la conservation du panier d’achat) et, à ce titre, exemptés du recueil du consentement |
-| Cookies dits de « mesure d’audience » | Ces cookies sont utilisés pour mesurer l'audience du Site Cdiscount, ou bien pour tester des versions différentes afin d'optimiser ses choix éditoriaux en fonction de leurs performances respectives. Dans certains cas, ces cookies peuvent être regardés comme « essentiels » nécessaires à la fourniture du service explicitement demandé par l'utilisateur, et ainsi être exemptés du recueil du consentement. |
+| Cookies dits de « mesure d’audience » non essentiels | Ces cookies sont utilisés pour mesurer l'audience du Site Cdiscount, ou bien pour tester des versions différentes afin d'optimiser ses choix éditoriaux en fonction de leurs performances respectives. Dans certains cas, ces cookies peuvent être regardés comme « essentiels » nécessaires à la fourniture du service explicitement demandé par l'utilisateur, et ainsi être exemptés du recueil du consentement. Ceux non considérés comme "essentiels" sont soumis à votre consentement. |
 | Cookies publicitaires | Ces cookies permettent d’afficher, en temps réel, le contenu le plus adapté à vos centres d’intérêt déduits de votre navigation récente sur un ou plusieurs sites, plutôt que des contenus qui n’ont aucun intérêt pour vous.<br><br>  <br>Ces contenus publicitaires (graphismes, animations, vidéos, etc.) sont susceptibles de contenir des cookies émis par Cdiscount, par ses prestataires ou par des tiers (pour ces derniers) qui ont associé un cookie au contenu publicitaire d'un annonceur. |
 
   
@@ -281,59 +287,146 @@ Pour accéder à la liste des cookies déposés et en configurer le dépôt cliq
 _ o La plate-forme de désabonnement de l’EDAA _[_http://www.youronlinechoices.com_](http://www.youronlinechoices.com/)  
 _ o La plate-forme de désabonnement de la DAA : [_http://optout.aboutads.info/?c=2&lang=EN_](http://optout.aboutads.info/?c=2&lang=EN) 
 
-10\. LES TRAITEMENTS DE DONNÉES PERSONNELLES DÉFINIS CONJOINTEMENT PAR RELEVANC ET CDISCOUNT
-============================================================================================
+10\. LES TRAITEMENTS DE DONNÉES PERSONNELLES MIS EN OEUVRE PAR FLOA BANK ET CDISCOUNT POUR LE PAIEMENT EN 4 FOIS 
+=================================================================================================================
 
- Dans le cadre de notre activité, il est possible que nous transmettions vos Données à la société RelevanC, qui est la régie publicitaire à laquelle recourt différentes enseignes du Groupe Casino dont nous faisons partie. Nous agissons conjointement avec RelevanC pour certains traitements identifiés ci-après. En tant que responsables conjoints de traitement, nous mettons en œuvre les mesures techniques et organisationnelles appropriées pour nous assurer que les traitements sont conformes à la réglementation applicable en matière de protection des Données.  
- **  
-  
-10.1 NOTRE REGIE PUBLICITAIRE RELEVANC ET SON DPD  
-  
-**RelevanC est une société par actions simplifiée à associé unique immatriculée au RCS de Saint-Etienne sous le n° 824 155 824, représentée par Cyril BOURGEOIS, en qualité de Président et dont le siège social est situé au 1, Cours Antoine Guichard à Saint-Etienne (42000).  
-  
-RelevanC ([https://relevanc.com](https://relevanc.com/)) est une régie publicitaire et procède, à ce titre, à différents traitements de vos Données en qualité de responsable de traitements exclusif ou conjoint.  
-  
-Le DPD de RelevanC s’assure de la conformité des traitements de données personnelles réalisés par RelevanC. Vous pouvez le contacter :  
- - soit par courriel envoyé à [mes-droits@relevanc.com](https://www.cdiscount.com/mailto:mes-droits@relevanc.com)  
-[](https://www.cdiscount.com/mailto:dpo@relevanc.com) [](https://www.cdiscount.com/mailto:dpo@relevanc.com) [](https://www.cdiscount.com/mailto:dpo@relevanc.com) [](https://www.cdiscount.com/mailto:dpo@relevanc.com) [](https://www.cdiscount.com/mailto:dpo@relevanc.com) [](https://www.cdiscount.com/mailto:dpo@relevanc.com) - soit par courrier postal adressé à RelevanC, Délégué à la protection des données personnelles,75 rue d’Amsterdam 75008 Paris.  
-Vos différentes demandes de droits peuvent être transmises au DPD de Cdiscount (Cf. paragraphe 4) qui les centralisera et les transmettra au DPD de RelevanC.  
-  
   
 
-<!--\[if !supportLists\]-->**2**<!--\[endif\]--> 
+Cdiscount et FLOA Bank (ou FLOA) ont conjointement défini les finalités des traitements rattachés au « paiement en 4X » et contribuent conjointement à leur mise en œuvre.
 
-**10.2 QUELLES DONNÉES SONT UTILISÉES PAR NOTRE RÉGIE PUBLICITAIRE RELEVANC ?  
   
-**Les informations utilisées par RelevanC comprennent :  
- - **Informations d’identité** – ce sont les informations que RelevanC utilise pour s’assurer que vous êtes bien la personne que vous indiquez être. Cela inclut : prénom, nom de famille, date de naissance, sexe, adresse e-mail, code interne de traitement, etc.  
- - **Informations de contact** – ce sont les informations que RelevanC utilise pour vous contacter afin de vous communiquer des publicités et offres promotionnelles. Cela inclut par exemple : numéro de téléphone, adresse postale, adresse e-mail, etc.  
- - **Informations de dispositif** – ce sont les informations que RelevanC utilise pour sécuriser son réseau et améliorer ses services et performances. Cela inclut par exemple : l’adresse IP, la date et l’heure de la visite, la durée de la visite sur les sites Web de ses partenaires, l’URL de référence (si vous êtes arrivé(e) sur notre site via un autre site ou une publicité), les pages que vous avez consultées, le type de navigateur que vous utilisez, le système d’exploitation.  
- - **Informations de profil/comportementales** – ce sont les informations que RelevanC utilise pour s’assurer qu’elle communique uniquement des informations pertinentes pour vous. Cela inclut par exemple : votre historique d’achat, votre navigation, vos préférences de navigation, vos préférences d’achat, vos interactions dans les magasins de ses partenaires, etc.  
+Cdiscount et FLOA mettent par ailleurs en œuvre des traitements spécifiques pour leur propre compte.
+
+ Dans le cadre du « paiement en 4X », Cdiscount et FLOA agissent donc pour certains traitements en tant que responsables conjoints du traitement et pour d’autres en tant que responsables du traitement distincts.
+
+  **10.1 FLOA BANK** 
+
+**FLOA est une société anonyme au capital de 42 773 400 euros, dont le siège social est situé 71 Rue Lucien Faure - Bâtiment G7 - à Bordeaux (33300), immatriculée au RCS de Bordeaux sous le n°434 130 423.**
+
+**FLOA (https://www.floabank.fr/) est un établissement bancaire et procède, à ce titre, à différents traitements de vos Données en qualité de responsable de traitements exclusif ou conjoint.**
+
+**<!--\[if !supportLists\]-->2<!--\[endif\]-->** 
+
+ ****10.2 QUELLES DONNÉES SONT TRAITEES PAR FLOA ET CDISCOUNT ?** 
+
+**Ces Données comprennent :** 
+
+**
+
+**Informations d’identité  – cela inclut vos prénom, nom de famille, date de naissance, sexe, adresse électronique, code interne de traitement, etc.** 
+
+**Informations de contact – cela inclut par exemple : votre numéro de téléphone, adresse postale, adresse électronique, etc.** 
+
+**Informations financières et administratives - cela inclut par exemple : le montant de votre transaction payées en 4 fois, le montant de vos échéances, vos données de facturation, etc.**
+
+ ****10.3 POUR QUELLES FINALITÉS FLOA ET CDISCOUNT TRAITENT VOS DONNÉES ?  
   
+         
+                - En qualité de responsables du traitement conjoints :
+
   
-**10.3 POUR QUELLES FINALITÉS NOTRE REGIE PUBLICITAIRE RELEVANC TRAITE VOS DONNÉES ?  
+Vos Données sont traitées par Cdiscount et FLOA en qualité de responsables conjoints de traitement pour la finalité suivante : exécution du contrat de paiement 4X par carte bancaire.  
   
-**Vos Données sont traitées dans le cadre des finalités suivantes :  
+
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| **N°** | **Etapes du paiement en 4X** | **Processus** | **Responsable conjoint en charge** | **Base légale** |
+| **1** | Promotion du 4x | Détermination du parcours-client sur le site www.cdiscount.com. | CDISCOUNT | Intérêt légitime |
+| **2** | Scoring du client | Scoring n°1 (obligatoire) | CDISCOUNT | Exécution du contrat et intérêt légitime |
+| Scoring n°2 (facultatif) | FLOA | Exécution du contrat |
+| **3** | Octroi du 4X | Décision d’octroi du 4X | CDISCOUNT | Exécution du contrat |
+| Encaissement de l’échéance 1 | CDISCOUNT | Exécution du contrat |
+| **4** | Cession de la créance | Cession des échéances 2, 3 et 4 de la créance du Client par Cdiscount à FLOA | CDISCOUNT | Exécution du contrat |
+| **5** | Encaissement, recouvrement et suivi administratif et des réclamations | Encaissement des échéances 2, 3 et 4 | FLOA | Exécution du contrat |
+| Envoi de courriels et SMS de relance | FLOA | Exécution du contrat |
+| Recouvrement des échéances impayées | FLOA | Exécution du contrat |
+| Suivi des réclamations inhérentes au 4X | FLOA | Exécution du contrat |
+| Cession de la créance en cas de créance irrécouvrable | FLOA | Exécution du contrat |
+
+   
+
+ Dans le cadre de l’exécution des traitements de Données pour les finalités précitées, Cdiscount et FLOA, en tant que responsables conjoints de traitements, s’engagent vis-à-vis de vous à :
+
+\- fournir une information claire sur les traitements des Données effectués par Cdiscount et FLOA ;
+
+\- conserver les Données selon les durées prévues par la règlementation ;  
+  
+\- vous permettre d’exercer vos droits relatifs à vos Données (accès, rectification, suppression, etc.) indistinctement auprès de Cdiscount et de FLOA.
+
+ - En qualité de responsables du traitement distincts :
+
+Vos Données sont traitées par Cdiscount et par FLOA en qualité de responsables du traitement distinct pour les finalités suivantes :  
+
+  
+
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| **N°** | **Finalité** | **Processus** | **Responsable du traitement distinct** | **Base légale** |
+| **1** | Prospection commerciale par Cdiscount | Envoi de prospection commerciale aux clients ayant souscrit à l’offre de « paiement en 4 X » | CDISCOUNT | Intérêt légitime |
+| **2** | Prospection commerciale par FLOA | FLOA | Intérêt légitime |
+
+Vous pouvez obtenir plus d’informations sur ces traitements en accédant à la politique de confidentialité de FLOA grâce au lien de téléchargement suivant : [https://www.floabank.fr/images/pdf/Politique\_de\_confidentialit\_et\_cookie.pdf](https://www.floabank.fr/images/pdf/Politique_de_confidentialit_et_cookie.pdf).
+
+En souscrivant à l’offre de « paiement en 4 fois », vous devenez client de Cdiscount et de FLOA. À ce titre, vous êtes susceptibles de recevoir des offres commerciales portant sur des produits et services analogues au « paiement en 4 fois » par voie électronique (ex : SMS, courriels, appels via automates) de la part de Cdiscount et de FLOA.
+
+Au titre du Code des Postes et des Communications Electroniques, vous avez la faculté de vous opposer à la réception de prospection commerciale par Cdiscount et/ou FLOA _au moment de votre souscription_ à l’offre « paiement en 4 X » et dans chaque communication qui vous sera adressée par la suite.
+
+Nous attirons votre attention sur le fait que les demandes d’opposition sont gérées indépendamment par Cdiscount et FLOA ; à titre d’exemple, si vous décidez de vous opposer à la réception d’offres commerciales de la part de Cdiscount, vous pourrez continuer à recevoir des offres de la part de FLOA dès lors que vous n’avez pas également signifié votre opposition à FLOA et inversement.
+
+10.4 GESTION DES DEMANDES DE DROIT PAR FLOA ET CDISCOUNT
+
+Le DPD de FLOA s’assure de la conformité des processus visées au paragraphe 10.3 réalisés par FLOA. Vous pouvez le contactez (i) par courriel envoyé à dpofloa@floa.fr ou (ii) par courrier postal adressé à FLOA, Délégué à la protection des données personnelles, 71 Rue Lucien Faure - Bâtiment G7 - à Bordeaux (33300)
+
+Le DPD de CDISCOUNT s’assure de la conformité des processus visées au paragraphe 10.3 réalisés par CDISCOUNT. Vous pouvez le contactez (i) par mail envoyé à informatique-et-libertes@cdiscount.com ou (ii) par courrier postal adressé à Cdiscount, Délégué à la protection des données personnelles, 120-126 quai de Bacalan 33000 BORDEAUX.********
+
+ ********10.5 QUI SONT LES DESTINATAIRES DE VOS DONNEES DANS LE CADRE DU PAIEMENT EN 4X ? 
 
 |     |     |     |
 | --- | --- | --- |
-| **BASES LÉGALES** | **FINALITÉS PRINCIPALES** | **DESTINATAIRES** |
-| Consentement | - Réalisation de campagnes publicitaires par voie de courriers électroniques  <br> - Réalisation de campagnes publicitaires par SMS | - Services internes  (Marketing et Communication )  <br> - Prestataires spécialisés dans la gestion des cookies  <br> - Prestataires spécialisés dans la mise à disposition d’infrastructure informatique  <br> - Les partenaires commerciaux (annonceurs et régies) |
-| Consentement / Intérêt légitime | - Réalisation de campagnes publicitaires en ligne  <br> - Réalisation de campagnes publicitaires par téléphone  <br> - Réalisation de campagnes publicitaires par colisage |
-| Intérêt légitime | - Mesure de performance des campagnes publicitaires - Etudes d’impact de lancement d’un nouveau produit  <br> - Amélioration de la connaissance clients |
+| N°  | Finalités | Catégories de destinataires des Données |
+| **1** | Promotion du 4x | \- Services internes<br><br>\- Prestataires externes spécialisés dans le suivi et la mesure d’audience<br><br>\- Prestataire externe spécialisé dans l'analyse du comportement de l'internaute<br><br>\- Prestataires externes spécialisés dans la personnalisation des offres |
+| **2** | Evaluation du niveau de risque d’insolvabilité du client | \- Services internes<br><br>\- Prestataire externe spécialisé dans l'analyse du comportement de l'internaute<br><br>\- Etablissements de crédit astreints au secret professionnel bancaire selon l’article L.511-33 du Code Monétaire et Financier et appartenant au Groupe de FLOA Bank c’est-à-dire contrôlées par FLOA Bank, ou qui contrôlent FLOA Bank, directement ou indirectement, au sens de l’article L.233-3 du Code de Commerce,<br><br>\- Sous réserve des conditions de levée du secret professionnel, aux autorités judiciaires, administratives, financières ou autres organismes gouvernementaux, notamment, à la Banque de France (Fichier National des Incidents de Remboursement de Crédit aux Particuliers, par exemple). |
+| **3** | Octroi du 4X | Aucun |
+| **4** | Cession de la créance | \- FLOA |
+| **5** | Encaissement, recouvrement et suivi administratif et des réclamations | \- Services internes<br><br>\- Prestataires externes spécialisés dans le recouvrement et dans le risque crédit<br><br>\- Autorités publiques et administratives |
 
-Dans le cadre de l’exécution des traitements de Données pour les finalités précitées, Cdiscount et RelevanC, en tant que responsables conjoints de traitements, s’engagent vis-à-vis de vous à :  
- - fournir une information claire sur les traitements des Données effectués par Cdiscount et RelevanC;  
- - conserver les Données selon les durées prévues par la règlementation ;  
- - permettre d’exercer leurs droits relatifs aux Données (accès, rectification, suppression, etc.) indistinctement auprès de Cdiscount et de RelevanC.**10.4 COMBIEN DE TEMPS NOTRE REGIE PUBLICITAIRE RELEVANC CONSERVE-T-ELLE VOS DONNÉES ?  
+   
   
-**Vos Données sont recueillies par RelevanC pour le temps nécessaire à la réalisation des traitements visés en paragraphe ci-dessus. Les grandes catégories de Données collectées sont conservées pendant 5 ans à compter de la collecte des informations par RelevanC. **10.5 VOS DONNÉES SONT-ELLES TRANSFÉRÉES HORS DE L’UNION EUROPEENNE ?  
+10.6 COMBIEN DE TEMPS CDISCOUNT ET FLOA CONSERVENT\-T-ELLES VOS DONNEES LIEES AU PAIEMENT EN 4X ?  
+
+ Vos Données sont recueillies par CDISCOUNT et FLOA pour le temps nécessaire à la réalisation des traitements visés en paragraphe 10.3 du présent document, à savoir :
+
+ |     |     |     |
+| --- | --- | --- |
+| **Finalité du Traitement** | **DUREE ET/OU CRITERES POUR CDISCOUNT** | **DUREE ET/OU CRITERES POUR FLOA** |
+| Promotion du 4x | 5 ans à compter de la fin de la relation commerciale pour les clients.<br><br>3 ans à compter du dernier contact commercial pour les prospects. | NA  |
+| Evaluation du niveau de risque d’insolvabilité du demandeur au paiement en 4x client | Pour l’évaluation réalisée par Cdiscount : 3 ans à compter du dernier contact commercial. | Pour l’évaluation réalisée par FLOA (facultatif) :<br><br>Pour les clients : 5 ans à compter de la fin de la relation contractuelle<br><br>Pour les prospects : 3 ans à compter du dernier contact<br><br>Pour les prospects refusés : 6 mois à compter du refus. |
+| Octroi du 4X | 5 ans à compter de la fin de la relation commerciale. | NA  |
+| Cession de la créance | 5 ans à compter de la fin de la relation commerciale. | Jusqu’à la date de passage de la créance en créance irrécouvrable, étendue de la durée de la prescription légale |
+| Encaissement, recouvrement et suivi administratif et des réclamations | NA  | Durée nécessaire à la procédure, étendue de la durée de prescription légale |
+
+   
   
-**En règle générale, RelevanC conserve vos Données au sein de l’Union Européenne. Cependant, étant donné que certains de ses prestataires de service sont situés dans des pays en dehors de l’Union Européenne (« Pays Tiers »), RelevanC transfère certaines de vos Données dans des Pays Tiers. Dans un tel cas, RelevanC assure que ce transfert est effectué en conformité avec la réglementation applicable et garantit un niveau de protection adéquat de votre vie privée et de vos droits fondamentaux (notamment par l’utilisation de clauses contractuelles types de la Commission Européenne). Sur simple demande formulée au DPD Cdiscount, celui-ci se rapprochera du DPD RelevanC pour vous fournir davantage d’informations.  
- \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*    
   
-La présente politique sera actualisée autant que de besoin afin de répondre aux exigences de la réglementation applicable à la protection des Données. Elle sera, a minima, révisée tous les trois (3) ans.  
-Le 14 septembre 2020  
+  
+
+10.7 VOS DONNÉES SONT-ELLES TRANSFÉRÉES HORS DE L’UNION EUROPEENNE ?  
+  
+         
+  
+En cas de transferts internationaux depuis l’Espace économique européen (EEE) vers un pays n’appartenant pas à l’EEE, le transfert de vos Données peut avoir lieu sur la base d’une décision rendue par la Commission européenne, lorsque celle-ci a reconnu que le pays dans lequel vos données seront transférées assure un niveau de protection adéquat.
+
+En cas de transfert de vos Données vers un pays dont le niveau de protection de vos données n’a pas été reconnu comme adéquat par la Commission européenne, soit nous nous appuierons : 
+
+\- sur une dérogation applicable à la situation spécifique (par exemple, si le transfert est nécessaire pour exécuter un contrat conclu avec vous) ;  
+  
+  
+\- sur des clauses contractuelles types approuvées par la Commission européenne.
+
+ Sur simple demande formulée aux DPD de CDISCOUNT et de FLOA, ces derniers vous fourniront davantage d’informations quant à ces transferts, ainsi qu’une copie des documents autorisant le transfert de Données hors de l’Union européenne.******** 
+
+ **\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\***La présente politique sera actualisée autant que de besoin afin de répondre aux exigences de la réglementation applicable à la protection des Données. Elle sera, a minima, révisée tous les trois (3) ans.  
+Le 20 septembre 2021  
   
 Validé par le Délégué à la protection des Données de Cdiscount. 
 
