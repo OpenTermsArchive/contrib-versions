@@ -1,5 +1,5 @@
 VANCO – PRIVACY POLICY
-----------------------
+======================
 
 Last updated: March 31, 2021
 
