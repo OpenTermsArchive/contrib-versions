@@ -1,6 +1,6 @@
 [](https://www.kidsafeseal.com/certifiedproducts/roblox.html)
 
-Please find the shortened version of our Privacy Policy below. Please click the "+" in the title of each section to expand for the full details of our Privacy Policy. You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/en-us/article_attachments/4406184904852/Roblox_Privacy_Policy_2021-09-01.pdf).
+Please find the shortened version of our Privacy Policy below. Please click the "+" in the title of each section to expand for the full details of our Privacy Policy. You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/en-us/article_attachments/4407071161108/Roblox_Privacy_Policy_2021-09-17.pdf).
 
 [Expand All +](#/)
 
@@ -499,7 +499,7 @@ If you have reason to, you can complain about how we are using your information 
 
 15\. Additional Information for users in Brazil
 
-16.1. In the course of visiting our websites and apps, and/or using our services and products, we may process the following personal data:
+1\. In the course of visiting our websites and apps, and/or using our services and products, we may process the following personal data:
 
 *   Data relating to a job application made by you, like your name, email address, employment details, CV, resume or other details of your employment history sent by you. We will process this information to process and respond to your job application.
 *   Login information, which may include your IP address, device type, name, date and time of your visit, information on your browser version, information on your operating system, including language settings, MAC addresses, and User ID. We will process this information to provide you with our Service and to guarantee the Services’ stability and security.
@@ -515,15 +515,15 @@ If you have reason to, you can complain about how we are using your information 
 *   Information relating to your participation in contest, competitions, sweepstakes, giveaways, prize draws or other promotions that we may run on our Service or sponsor from time to time. We may process certain contact information (such as your name, email address, and/or phone number) for prize fulfillment purposes, as well as other information or content needed for the specific promotion.
     *   Cookies. We will use certain cookies only if you have previously consented to such use. When you visit our website with an EEA IP address, a cookie banner will appear asking you for your consent. You can manage your choice by clicking on “manage cookie preferences” in the cookie banner. We will save your choices in the form of a cookie. This cookie has a limited effective period of one year. The legal basis for this processing activity is Article 6 sec. 1 sent. 1 lit. a GDPR (“consent”). In addition, you can also manage cookies using your browser settings. For further information on cookies and similar technologies see Section 6 above.
 
-16.2. Please note that we do not use your Personal Information for automated decision making which produces legal effects concerning you or similarly significantly affects you.
+2\. Please note that we do not use your Personal Information for automated decision making which produces legal effects concerning you or similarly significantly affects you.
 
-#### 16.3. Personal data of children and Parental Consent.
+#### 3\. Personal data of children and Parental Consent.
 
 Please note that when users under the age of 13 register for the Service, their account is automatically set to “Privacy Mode.” This means that these users will not have access to certain features, such as social media plug-ins, some forms of third party advertising, and certain types of notification alerts.
 
 When a child creates an account on Roblox, we may process a username, password, birthdate and parent email address. We process this information to give the user access to the Service and to communicate with the parent about the minor’s account (if a parent email was provided). For example, we may use the parent’s email to send an email notification about the child’s account creation and an invitation for the parent to review, update settings, and approve of their child's account. We may use the birthdate the child provides when signing up for the Service to determine which features on Roblox the child should have access to and to determine when the child will turn 13 years old and can be given broader access to features on our Service.
 
-#### 16.4. Data sharing
+#### 4\. Data sharing
 
 Roblox may share users’ information, including Personal Information like billing information or usernames, with our third-party agents, contractors, or service providers who are hired to perform services on Roblox’s behalf.
 
@@ -539,11 +539,11 @@ These providers may operate or support certain functions of the Service. Below i
 *   Billing services and payment gateway providers (e.g., Kount, Worldpay, PayPal, Incomm, Blackhawk, Google, Apple, Amazon, Windows Store, Xbox, Xsolla); and
 *   Hosting and content delivery network services (e.g., AWS, Equinix, CenturyLink, YouTube, Vimeo).
 
-#### 16.5 Legal disclosure
+#### 5\. Legal disclosure
 
 We may disclose Personal Information about you, including the content of your communications on the Service, to comply with legal process, including court orders and subpoenas, served on our Service. In addition, we also may disclose Personal Information about you, including content, in response to a request from law enforcement agencies, regulators, or other public agencies (including schools or children services), or if such disclosure may (i) prevent the instigation of a crime, (ii) facilitate an investigation related to public safety or protect the safety of a child using our Service, (iii) protect the security or integrity of our Service, or (iv) enable us to take precautions against liability or to protect our rights.
 
-#### 16.6. Storage and international transfer of your personal data
+#### 6\. Storage and international transfer of your personal data
 
 Roblox is based in the U.S. Your Personal Information that we collect is sent to and stored on secure servers located in the United States of America. Such storage is necessary in order to process the information.
 
