@@ -1,5 +1,5 @@
 Vanco Payment Solutions Terms of Service
-----------------------------------------
+========================================
 
 These Terms of Service (the “**Terms**”) apply to the websites owned by Vanco Payment Solutions Inc. and Vanco Payment Solutions, LLC (collectively, “**Vanco**,” “**we**” or “**us**”) on which these Terms are posted, (collectively, the “**Sites**”); they also apply to our mobile applications (each an “**App**”), as well as the services available through the App and Site (subject to the terms applicable to Third-Party Sites, as described below). Unless otherwise stated, references herein to “**Site**” include the Apps and the Services.
 
