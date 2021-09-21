@@ -5,7 +5,7 @@ Privacy Policy
 
 ====================
 
-Last Updated: October 30, 2020
+Last Updated: ![](data:image/png;base64, null)
 
 Airbnb exists to help build connections between people and make the world more open and inclusive. In short—to build a world where anyone can belong anywhere. We are a community built on trust. A fundamental part of earning that trust means being clear about how we use your information and protect your human right to privacy.
 
