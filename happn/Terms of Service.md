@@ -688,7 +688,7 @@ Article 16: Contact 
 HAPPN may be contacted by mail at 8 Rue du Sentier, 75002, Paris (France). 
 
 Members may also contact HAPPN by email at the following address:  
-[\[email protected\]](https://www.happn.com/cdn-cgi/l/email-protection#).
+[\[email protected\]appn.com](https://www.happn.com/cdn-cgi/l/email-protection#).
 
 Article 17: Confidentiality Clause 
 -----------------------------------
