@@ -1,11 +1,11 @@
 AWS Service Terms
 =================
 
-#### Last Updated: September 16, 2021
-
-The Service Terms below govern your use of the Services. Capitalized terms used in these Service Terms but not defined below are defined in the [AWS Customer Agreement](https://aws.amazon.com/agreement/) or other agreement with us governing your use of the Services (the “Agreement”). For purposes of these Service Terms, “Your Content” includes any “Company Content” and any “Customer Content,” and “AWS Content” includes “Amazon Properties.”
+#### Last Updated: September 22, 2021
 
 #### 1\. Universal Service Terms (Applicable to All Services)
+
+The Service Terms below govern your use of the Services. Capitalized terms used in these Service Terms but not defined below are defined in the [AWS Customer Agreement](https://aws.amazon.com/agreement/) or other agreement with us governing your use of the Services (the “Agreement”). For purposes of these Service Terms, “Your Content” includes any “Company Content” and any “Customer Content,” and “AWS Content” includes “Amazon Properties.”
 
 **1.1.** You may not transfer outside the Services any software (including related documentation) you obtain from us or third party licensors in connection with the Services without specific authorization to do so.
 
@@ -41,7 +41,7 @@ If, as of the time of a change of the AWS Contracting Party responsible for your
 
 **1.14.2** These Service Terms incorporate the [AWS Supplementary Addendum](https://d1.awsstatic.com/Supplementary_Addendum_to_the_AWS_GDPR_DPA.pdf) to the DPA, when the GDPR applies to your use of the AWS Services to process Customer Data.
 
-**1.14.3** These Service Terms incorporate the Standard Contractual Clauses between controllers and processors (“[Controller-to-Processor Clauses](https://d1.awsstatic.com/Controller%20to%20Processor%20SCCs%20-%20September%2013%202021.pdf)”) and the Standard Contractual Clauses between processors (“[Processor-to-Processor Clauses](https://d1.awsstatic.com/Processor%20to%20Processor%20SCCs%20-%20September%2013%202021.pdf)”) approved by the European Commission Implementing Decision (EU) 2021/914 of 4 June 2021 (the “SCCs”). The SCCs will only apply when: (i) the GDPR applies to your use of the AWS Services to process Customer Data; and (ii) Customer Data is transferred from the European Economic Area (“EEA”), either directly or via onward transfer, to a country outside of the EEA not recognised by the European Commission as providing an adequate level of protection for personal data subject to GDPR (together a “Data Transfer”). When you are a controller (as defined in the GDPR), the Controller-to-Processor Clauses will apply to a Data Transfer. When you are a processor (as defined in the GDPR), the Processor-to-Processor Clauses will apply to a Data Transfer.  
+**1.14.3** These Service Terms incorporate the Standard Contractual Clauses between controllers and processors (“[Controller-to-Processor Clauses](https://d1.awsstatic.com/Controller_to_Processor_SCCs.pdf)”) and the Standard Contractual Clauses between processors (“[Processor-to-Processor Clauses](https://d1.awsstatic.com/Processor_to_Processor_SCCs.pdf)”) approved by the European Commission Implementing Decision (EU) 2021/914 of 4 June 2021 (the “SCCs”). The SCCs will only apply when: (i) the GDPR applies to your use of the AWS Services to process Customer Data; and (ii) Customer Data is transferred from the European Economic Area (“EEA”), either directly or via onward transfer, to a country outside of the EEA not recognised by the European Commission as providing an adequate level of protection for personal data subject to GDPR (together a “Data Transfer”). When you are a controller (as defined in the GDPR), the Controller-to-Processor Clauses will apply to a Data Transfer. When you are a processor (as defined in the GDPR), the Processor-to-Processor Clauses will apply to a Data Transfer.  
 
 **1.14.4** These Service Terms incorporate the [AWS CCPA Terms](https://d1.awsstatic.com/legal/aws-ccpa/AWS_CCPA_Terms.pdf) (“CCPA Terms”), when the CCPA applies to your use of the AWS Services to process Personal Information (as defined in the CCPA Terms).
 
@@ -1061,5 +1061,17 @@ Amazon FinSpace is a tool to help you analyze data for investment and business d
 **85.2** Each Amazon EKS Anywhere Support Subscription may only be applied to one Amazon EKS Anywhere cluster.
 
 **85.3** We may request that you implement specific updates and provide us with Account Information, logs or other Service Attributes so that we can provide you Amazon EKS Anywhere Support and verify your Support Subscription. If you request support for Isovalent’s software, such as Cilium, we may share your Account Information, logs or other Service Attributes with Isovalent to provide technical support.
+
+### 86\. AWS Ground Station
+
+**86.1** Any guidance provided through Licensing Accelerator or by AWS Ground Station is provided for your convenience, does not constitute legal or compliance advice, and is not subject to any legal professional privilege. You are responsible for making your own assessment of whether your use of AWS Ground Station meets applicable legal and regulatory requirements, including by engaging with a legal professional if necessary.  
+
+**86.2** You will not, and will not allow any third-party to, use Licensing Accelerator or AWS Ground Station to, directly or indirectly, develop or improve a similar or competing product or service.
+
+**86.3** You are solely responsible for applying appropriate security measures to your space assets and the data transmitted to and from your space assets, including using encryption, firewalls, and other network security tools as appropriate, and not allowing unauthorized access to your data.  
+
+**86.4** You represent and warrant that you own all right, title, and interest in, or have all necessary authority to permit use of, any space assets associated with your AWS account, and you agree to provide to AWS, upon request, documentation demonstrating such ownership or authority. AWS is not a party to any agreement you have or may enter into with any other individual or entity accessing or using the Services, any of Your Content, or any space assets associated with your account. You are solely responsible for your separate relationship with any such individual or entity.
+
+**86.5** If your AWS Contracting Party is AWS Serviços Brasil Ltda., AWS Ground Station continues to be sold and provided to you by Amazon Web Services, Inc. (or other entity identified as applicable); but AWS Serviços Brasil Ltda. remains your AWS Contracting Party under the Agreement.  
 
 [Previous version(s)](https://aws.amazon.com/service-terms/historical/)
