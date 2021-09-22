@@ -60,7 +60,7 @@ Depuis le Portugal au 0800 60 00 45 (numéro gratuit) du lundi au vendredi de 9
 
  - utiliser une application CDISCOUNT pour smartphones ou tablettes,
 
- - ou téléphoner :
+ - ou téléphoner :  
 
  - depuis la France au 39 79 (0,70cts/min + prix de l'appel), du lundi au vendredi de 9h à 19h et le week-end et les jours fériés de 9h à 18h ;   
   
@@ -78,7 +78,21 @@ Depuis le Portugal au 0800 60 00 45 (numéro gratuit) du lundi au vendredi de 9
   
  - depuis les Pays-Bas au 0800 251 21 24 (numéro gratuit) du lundi au vendredi de 9h à 19h et le samedi de 9h à 18h ;  
   
-               - depuis le Portugal au 0800 60 00 45 (numéro gratuit) du lundi au vendredi de 9h à 19h et le samedi de 9h à 18h.
+               - depuis le Portugal au 0800 60 00 45 (numéro gratuit) du lundi au vendredi de 9h à 19h et le samedi de 9h à 18h.  
+  
+  
+  
+  
+**Pour le suivi de votre commande et le service après-vente,** vous pouvez nous contacter :  
+  
+\-En Ligne, par l’intermédiaire de votre Espace Client. Les informations concernant votre commande, son paiement, sa livraison, son SAV, sont accessibles dans votre Espace Client, dans les rubriques « Mes commandes » et « Questions fréquentes (FAQ) » ;  
+  
+\- Par téléphone du lundi au vendredi de 9h à 19h et le samedi de 9h à 18h : depuis la France au 09 70 80 90 50 (numéro non surtaxé) ;  
+  
+\- Par courrier : Cdiscount.com / SGPN Service Client BP 90200 93472 Neuilly Sur Marne, FRANCE (Merci de ne faire aucun retour de colis à cette adresse).  
+  
+  
+Afin d'optimiser le traitement de vos demandes, pensez à indiquer dans toutes vos correspondances, quel que soit le canal utilisé : vos nom, prénom, email avec lequel vous avez passé votre commande et le numéro de la commande concernée. 
 
 _Article 1 : CHAMP D'APPLICATION_
 ---------------------------------
@@ -2046,7 +2060,7 @@ _ARTICLE 12 :  UTILISATION DU SITE_
 Le Site pourra être modifié ou mis à jour et l’accès au Site interrompu, suspendu ou arrêté à tout moment sans notification préalable. A ce titre, il est notamment précisé que toute opération de maintenance effectuée sur le Site pourra perturber l’accès et/ou le fonctionnement du Site. En tout état de cause, le Client Pro reconnaît être alerté des aléas techniques inhérents à Internet et des interruptions d’accès qui peuvent en résulter. Cdiscount ne pourra pas être tenue responsable des éventuels indisponibilités ou ralentissement du Site.   
   
   
-Cdiscount n’est en tout état de cause pas en mesure de garantir la continuité des fonctionnalités du Site ce que le Client Pro reconnaît. En aucun cas, la responsabilité de Cdiscount ne pourra être engagée par le Client Pro à ce titre. Cdiscount ne pourra en outre nullement être tenue responsable de l’impact de ces perturbations d’accès et/ou de fonctionnalités du Site sur l’activité du Client Pro.
+Cdiscount n’est en tout état de cause pas en mesure de garantir la continuité des fonctionnalités du Site ce que le Client Pro reconnaît. En aucun cas, la responsabilité de Cdiscount ne pourra être engagée par le Client Pro à ce titre. Cdiscount ne pourra en outre nullement être tenue responsable de l’impact de ces perturbations d’accès et/ou de fonctionnalités du Site sur l'activité du Client Pro.
 
 _ARTICLE 13 :  TRAITEMENT DES DONNEES_
 --------------------------------------
