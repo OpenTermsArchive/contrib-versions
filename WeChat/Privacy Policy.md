@@ -13,7 +13,7 @@ Here is a summary of the information contained in this privacy policy ("**Privac
 
 This Privacy Policy only applies to you if you are a **WeChat user**, meaning that you have registered by linking a mobile number that uses an international dialing code other than +86 ("**non-Chinese Mainland mobile number**").
 
-This Privacy Policy does not apply to you if you are a **Weixin user**.You are a Weixin user if you have either:
+This Privacy Policy does not apply to you if you are a **Weixin user**. You are a Weixin user if you have either:
 
 *   registered by linking a mobile number that uses international dialing code +86 ("**Chinese Mainland mobile number**"); or
 *   contracted with 深圳市腾讯计算机系统有限公司(Shenzhen Tencent Computer Systems Company Limited) for Weixin.
@@ -71,14 +71,14 @@ If you have an unresolved privacy or data use concern that we have not addressed
 
 **INTEROPERABILITY WITH WEIXIN**
 
-WeChat is interoperable with Weixin, such that you are able to communicate with Weixin users and view each and other's Moments and Status posts. You may also be able to use certain features operated by Weixin. You may view the list of features operated by Weixin [**here**](https://www.wechat.com/en/weixin_features.html). When you interact with a Weixin user, or use or receive notifications from any feature operated by Weixin, please be mindful that your information may be collected, retained, shared and/or stored by Weixin in accordance with the[**Weixin Privacy Protection Guidelines**](https://weixin.qq.com/cgi-bin/readtemplate?lang=en_US&t=weixin_agreement&s=privacy&cc=CN) and not this Privacy Policy.
+WeChat is interoperable with Weixin, such that you are able to communicate with Weixin users and view each and other's Moments and Status posts. You may also be able to use certain features operated by Weixin. You may view the list of features operated by Weixin [**here**](https://www.wechat.com/tpl/oversea/new/page/weixin_features/index?lang=en). When you interact with a Weixin user, or use or receive notifications from any feature operated by Weixin, please be mindful that your information may be collected, retained, shared and/or stored by Weixin in accordance with the[**Weixin Privacy Protection Guidelines**](https://weixin.qq.com/cgi-bin/readtemplate?lang=en_US&t=weixin_agreement&s=privacy&cc=CN) and not this Privacy Policy.
 
 1\. INTRODUCTION
 ----------------
 
 Welcome to WeChat!
 
-When you use the WeChat mobile app, desktop app, or the websites [www.wechat.com](http://www.wechat.com/) or help.wechat.com (together, **"WeChat"**), certain of your Personal Information (defined below) will be collected and processed by us.
+When you use the WeChat mobile app, desktop app, or the websites [www.wechat.com](https://www.wechat.com/) or [help.wechat.com](https://help.wechat.com/) (together, **"WeChat"**), certain of your Personal Information (defined below) will be collected and processed by us.
 
 This Privacy Policy explains the when, how and why when it comes to processing of your Personal Information in connection with WeChat, and sets out your choices and rights in relation to that Personal Information.
 
@@ -203,7 +203,7 @@ Only where necessary will we share your information with selected recipients, in
 
 | Interoperability with Weixin |
 | --- |
-| WeChat is interoperable with Weixin, such that you are able to communicate with Weixin users and view each other's Moments and Status posts. You may also be able to use certain features operated by Weixin. You may view the list of features operated by Weixin here. **When you interact with a Weixin user, or use or receive notifications from any feature operated by Weixin, please be mindful that your information may be collected, retained, shared and/or stored by Weixin in accordance with the [Weixin Privacy Protection Guidelines](https://weixin.qq.com/cgi-bin/readtemplate?lang=en_US&t=weixin_agreement&s=privacy&cc=CN) and not this Privacy Policy.**  <br>  <br>Official Accounts and Mini Programs accessible via WeChat are developed, operated, and owned by third parties unrelated to WeChat (unless otherwise stated in the relevant Official Account or Mini Program). When you interact with such Official Accounts and Mini Programs, your information may be collected, retained, shared and/or stored by the relevant Official Account or Mini Program in accordance with their own privacy policies and not this Privacy Policy. |
+| WeChat is interoperable with Weixin, such that you are able to communicate with Weixin users and view each other's Moments and Status posts. You may also be able to use certain features operated by Weixin. You may view the list of features operated by Weixin [**here**](https://www.wechat.com/tpl/oversea/new/page/weixin_features/index?lang=en). **When you interact with a Weixin user, or use or receive notifications from any feature operated by Weixin, please be mindful that your information may be collected, retained, shared and/or stored by Weixin in accordance with the [Weixin Privacy Protection Guidelines](https://weixin.qq.com/cgi-bin/readtemplate?lang=en_US&t=weixin_agreement&s=privacy&cc=CN) and not this Privacy Policy.**  <br>  <br>Official Accounts and Mini Programs accessible via WeChat are developed, operated, and owned by third parties unrelated to WeChat (unless otherwise stated in the relevant Official Account or Mini Program). When you interact with such Official Accounts and Mini Programs, your information may be collected, retained, shared and/or stored by the relevant Official Account or Mini Program in accordance with their own privacy policies and not this Privacy Policy. |
 | If available in your jurisdiction, you may be able to access Weixin Pay and WeChat Pay via the WeChat platform. Due to regulatory requirements, Weixin Pay and WeChat Pay are operated by different licensed entities in different jurisdictions. When you use any of the Weixin Pay or WeChat Pay payment services, your information may be collected, retained, shared and/or stored by the relevant Weixin Pay or WeChat Pay entity in accordance with its own privacy policy and not this Privacy Policy. |
 | You can control which third parties have access to your information and you can withdraw your agreement to the sharing of your information by following the instructions set out [here](https://help.wechat.com/cgi-bin/micromsg-bin/oshelpcenter?opcode=2&lang=en&plat=ios&id=1803233auaIv180323aaeaM7&Channel=helpcenter). Please note however that if you ask us not to share your information with certain third parties, you may no longer be able to use those third party services; |
 
@@ -250,7 +250,7 @@ Children under the age of 16 (or such applicable age of majority under relevant 
 
 Please note that in order to protect your information, we will need to verify your identity before responding to any request to exercise your rights ("**DSR Request**").
 
-For users in a Relevant Jurisdiction, we will respond to your DSR Request without undue delay and in any event within one month (although this may be extended by a further two months in certain circumstances, such as where the request involves substantial volumes of information or is otherwise complex). To exercise any of your rights, please complete the request form [here](https://help.wechat.com/cgi-bin/newreadtemplate?t=helpcenter/indexvue#/rights-request).
+For users in a Relevant Jurisdiction, we will respond to your DSR Request without undue delay and in any event within one month (although this may be extended by a further two months in certain circumstances, such as where the request involves substantial volumes of information or is otherwise complex). To exercise any of your rights, please complete the request form [here](https://help.wechat.com/cgi-bin/newreadtemplate?t=help_center/index_vue#/rights-request).
 
 **Access & Correction**
 
@@ -262,7 +262,7 @@ You also have the right to correct that information if it is inaccurate or incom
 
 You can access and correct your Personal Information by logging into your WeChat account at any time. For example, you can delete certain Location Data via your device settings or the "Clear Location" option within WeChat.
 
-If you want us to correct your Personal Information that you are unable to correct using your account, please complete the request form [here](https://help.wechat.com/cgi-bin/newreadtemplate?t=helpcenter/indexvue#/rights-request).
+If you want us to correct your Personal Information that you are unable to correct using your account, please complete the request form [here](https://help.wechat.com/cgi-bin/newreadtemplate?t=help_center/index_vue#/rights-request).
 
 Where we agree to correct your Personal Information, we will use reasonable steps to inform any third party to whom we have disclosed the relevant Personal Information so that they can rectify the Personal Information too.
 
@@ -274,7 +274,7 @@ You can delete your account, or remove certain Personal Information, by logging 
 
 Note that we will not be able to delete your account if you have a positive balance in your Weixin Pay or WeChat Pay account or are the administrator of an Official Account or Mini Program.
 
-If there is any other Personal Information you believe we process that you would like us to erase, please complete the request form [here](https://help.wechat.com/cgi-bin/micromsg-bin/oshelpcenter?opcode=2&lang=en&plat=ios&id=180323e2Ermm180323yqauAZ&Channel=helpcenter).
+If there is any other Personal Information you believe we process that you would like us to erase, please complete the request form [here](https://help.wechat.com/cgi-bin/newreadtemplate?t=help_center/index_vue#/rights-request).
 
 You may request that we erase the Personal Information we hold about you where:
 
@@ -313,7 +313,7 @@ You also have the right to request that we transfer that Personal Information to
 
 **This section also applies to users resident in Russia.**
 
-You may object to our use of your Personal Information that we use on the basis of our legitimate interests (e.g., when we use your Personal Information to ensure account security). If you object to such processing, please complete this [request form](https://help.wechat.com/cgi-bin/micromsg-bin/oshelpcenter?opcode=2&lang=en&plat=ios&id=180323e2Ermm180323yqauAZ&Channel=helpcenter).
+You may object to our use of your Personal Information that we use on the basis of our legitimate interests (e.g., when we use your Personal Information to ensure account security). If you object to such processing, please complete this [request form](https://help.wechat.com/cgi-bin/newreadtemplate?t=help_center/index_vue#/rights-request).
 
 To the extent provided by applicable laws and regulations, you may withdraw any consent you previously provided to us by following the instructions set out [here](https://help.wechat.com/cgi-bin/micromsg-bin/oshelpcenter?opcode=2&lang=en&plat=ios&id=180323e2Ermm180323yqauAZ&Channel=helpcenter).
 
