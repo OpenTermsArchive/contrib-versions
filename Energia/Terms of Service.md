@@ -418,7 +418,7 @@ Attention: Customer Service Team,
    
 **Telephone**:          +353(0)18692000,  
 **Facsimile**:           +353 (1)8692050.  
-**Email**:                  [\[email protected\]](https://www.energia.ie/cdn-cgi/l/email-protection#)  
+**Email**:                  [info@energia.ie](mailto:info@energia.ie)  
    
   
 20.2 Energia may change its address at any time by notice in writing. Notices will be deemed served or delivered to the addressee or its office:
@@ -857,7 +857,7 @@ See [here](https://www.energia.ie/getmedia/21901f8b-a1e5-46da-8ad0-02da472cd8f9/
 16.  **DATA PROTECTION**
     1.  Protecting our customer’s Personal Data is important to us.  Please see our Privacy Statement set out in the Appendix to this Contract for details of how we collect, use, store, share and protect your personal data in compliance with Data Protection Legislation.
     2.  You acknowledge and agree that the Electric Vehicle Charging Point in conjunction with the Device Manufacture’s software will automatically download data to and from the Electric Vehicle Charging Point and this data will automatically be forwarded to Energia. Energia reserves the right to analyse this information for the purpose of evaluating the effectiveness of the Electric Vehicle Charging Point and improving its business services. 
-    3.  Notwithstanding the generality of Clause 18.2 above, you have the right to request the erasure of your personal data obtained.  You should let us know if you require us to erase your personal data by contacting our Data Protection Officer at [\[email protected\]](https://www.energia.ie/cdn-cgi/l/email-protection#)or in writing addressed to Data Protection Officer, The Liberty Centre, Blanchardstown Retail Park, Dublin 15, D15 YT2H. .
+    3.  Notwithstanding the generality of Clause 18.2 above, you have the right to request the erasure of your personal data obtained.  You should let us know if you require us to erase your personal data by contacting our Data Protection Officer at [Dataprotection@energia.ie](mailto:Dataprotection@energia.ie)or in writing addressed to Data Protection Officer, The Liberty Centre, Blanchardstown Retail Park, Dublin 15, D15 YT2H. .
 17.  GENERAL
     1.  Assignment and other dealings.
         1.  Energia may at any time assign, transfer, mortgage, charge, subcontract or deal in any other manner with all or any of its rights or obligations under the Contract.
@@ -903,7 +903,7 @@ Energia is part of the Energia Group, the leading independent energy company in 
 
 1.  **Contact us**
 
-If you have questions as to the manner in which your personal data is being handled or if you require any further information you can contact the Data Protection Officer at [\[email protected\]](https://www.energia.ie/cdn-cgi/l/email-protection#) or by writing to the :  
+If you have questions as to the manner in which your personal data is being handled or if you require any further information you can contact the Data Protection Officer at [Dataprotection@energia.ie](mailto:Dataprotection@energia.ie) or by writing to the :  
 Data Protection Officer, The Liberty Centre, Blanchardstown Retail Park, Dublin 15, D15 YT2H.
 
 1.  **Protecting your Information**
@@ -946,7 +946,7 @@ We will retain your personal data only for as long as is necessary for the purpo
 
 The General Data Protection Regulation provides you with a number of rights under the legislation as a data subject. We will respond to your requests within one month of the receipt of your request or inform you in circumstances where an extension may be required.
 
-1.  **Right of access.** You have the right to be provided with details of the processing of your personal data and to obtain a copy of the personal data we hold about you, subject to applicable exemptions under data protection legislation. In order to make an access request please write to the Data Protection Officer at [\[email protected\]](https://www.energia.ie/cdn-cgi/l/email-protection#) or by writing to the:
+1.  **Right of access.** You have the right to be provided with details of the processing of your personal data and to obtain a copy of the personal data we hold about you, subject to applicable exemptions under data protection legislation. In order to make an access request please write to the Data Protection Officer at [Dataprotection@energia.ie](mailto:Dataprotection@energia.ie) or by writing to the:
 
 Data Protection Officer, The Liberty Centre, Blanchardstown Retail Park, Dublin 15, D15 YT2H.
 
