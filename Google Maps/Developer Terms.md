@@ -344,6 +344,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   Geoportal Berlin / Umweltzone
             
+        *   Hannover.de ([CC-BY-4.0 - Geoinformation - LH Hannover](https://creativecommons.org/licenses/by/4.0/deed.de))
+            
     11.  **Great Britain**
         *   This Service contains Ordnance Survey data © Crown copyright and database right 2011, Royal Mail data © Royal Mail copyright and database right 2011, and National Statistics data © Crown copyright and database right 2011 ([https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf](https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf)). All rights reserved. © South West Coast Path Team. Contains information of Network Rail Infrastructure Limited licensed under the following [licence](https://www.networkrail.co.uk/terms-and-conditions/). Contains public sector information licensed under the [Open Government Licence v2.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/). Contains public sector information licensed under the Open Government Licence v3.0.
             
@@ -610,9 +612,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         GIS Innovatsia 2011, Database«TopoRF\_1000000» (с) ДАТА+, 2006 2013 Rosreestr
         
     31.  **Singapore**
-        
-        This Service includes mapping data licensed from MapIt MSC Sdn Bhd.
-        
+        *   This Service includes mapping data licensed from MapIt MSC Sdn Bhd.
+            
+        *   [Data.gov.sg](https://data.gov.sg/) Contains information from "Cycling Path Network" accessed on 2021 from [https://data.gov.sg/dataset/cycling-path-network](https://data.gov.sg/dataset/cycling-path-network) which is made available under the terms of the Singapore Open Data Licence version 1.0 [https://data.gov.sg/open-data-licence](https://data.gov.sg/open-data-licence)
+            
     32.  **Slovakia**
         *   © Slovak Road Administration - [https://www.cdb.sk/sk/Novinky.alej](https://www.cdb.sk/sk/Novinky.alej)
             
@@ -1067,8 +1070,6 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         165.  City of Raleigh ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
             
         166.  Chicago Data Portal “This site provides applications using data that has been modified for use from its original source, [www.cityofchicago.org](https://www.chicago.gov/city/en.html), the official website of the City of Chicago. The City of Chicago makes no claims as to the content, accuracy, timeliness, or completeness of any of the data provided at this site. The data provided at this site is subject to change at any time. It is understood that the data provided at this site is being used at one’s own risk.” ([https://www.chicago.gov/city/en/narr/foia/data\_disclaimer.html](https://www.chicago.gov/city/en/narr/foia/data_disclaimer.html))
-            
-        167.  The City and County of Denver ([https://creativecommons.org/licenses/by/3.0/](https://creativecommons.org/licenses/by/3.0/))
             
     43.  **Uruguay**
         
