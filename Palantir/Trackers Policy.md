@@ -3,9 +3,9 @@ Cookies at Palantir.com
 
 Please see our [Privacy Policy](https://www.palantir.com/privacy-and-security/) regarding how we will handle this information.
 
-Palantir CEO Alex Karp in conversation with CNBC's Wilfred Frost
+Palantir COO Shyam Sankar and Wejo CEO Richard Burrow discuss partnership
 
-UK Vaccine rollout success built on NHS determination and military precision
+Palantir CEO Alex Karp in conversation with CNBC's Wilfred Frost
 
 Our platforms are used throughout the public, private, and non-profit sectors to help organizations quickly implement solutions to the hardest problems they face.
 
