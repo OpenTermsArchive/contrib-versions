@@ -4,7 +4,7 @@ Welcome to GitHub's Guide to the Digital Millennium Copyright Act, commonly know
 
 As with all legal matters, it is always best to consult with a professional about your specific questions or situation. We strongly encourage you to do so before taking any action that might impact your rights. This guide isn't legal advice and shouldn't be taken as such.
 
-[What Is the DMCA?](#what-is-the-dmca)
+[](#what-is-the-dmca)What Is the DMCA?
 --------------------------------------
 
 In order to understand the DMCA and some of the policy lines it draws, it's perhaps helpful to consider life before it was enacted.
@@ -15,7 +15,7 @@ The DMCA addresses this issue by creating a [copyright liability safe harbor](ht
 
 The DMCA also prohibits the [circumvention of technical measures](https://www.copyright.gov/title17/92chap12.html) that effectively control access to works protected by copyright.
 
-[DMCA Notices In a Nutshell](#dmca-notices-in-a-nutshell)
+[](#dmca-notices-in-a-nutshell)DMCA Notices In a Nutshell
 ---------------------------------------------------------
 
 The DMCA provides two simple, straightforward procedures that all GitHub users should know about: (i) a [takedown-notice](https://docs.github.com/en/articles/guide-to-submitting-a-dmca-takedown-notice) procedure for copyright holders to request that content be removed; and (ii) a [counter-notice](https://docs.github.com/en/articles/guide-to-submitting-a-dmca-counter-notice) procedure for users to get content re-enabled when content is taken down by mistake or misidentification.
@@ -26,7 +26,7 @@ On the other hand, [counter notices](https://docs.github.com/en/articles/guide-t
 
 The DMCA notice and takedown process should be used only for complaints about copyright infringement. Notices sent through our DMCA process must identify copyrighted work or works that are allegedly being infringed. The process cannot be used for other complaints, such as complaints about alleged [trademark infringement](https://docs.github.com/en/articles/github-trademark-policy) or [sensitive data](https://docs.github.com/en/articles/github-sensitive-data-removal-policy); we offer separate processes for those situations.
 
-[A. How Does This Actually Work?](#a-how-does-this-actually-work)
+[](#a-how-does-this-actually-work)A. How Does This Actually Work?
 -----------------------------------------------------------------
 
 The DMCA framework is a bit like passing notes in class. The copyright owner hands GitHub a complaint about a user. If it's written correctly, we pass the complaint along to the user. If the user disputes the complaint, they can pass a note back saying so. GitHub exercises little discretion in the process other than determining whether the notices meet the minimum requirements of the DMCA. It is up to the parties (and their lawyers) to evaluate the merit of their claims, bearing in mind that notices must be made under penalty of perjury.
@@ -52,7 +52,7 @@ Here are the basic steps in the process.
 8.  **Copyright Owner May File a Legal Action.** If a copyright owner wishes to keep the content disabled after receiving a counter notice, they will need to initiate a legal action seeking a court order to restrain the user from engaging in infringing activity relating to the content on GitHub. In other words, you might get sued. If the copyright owner does not give GitHub notice within 10-14 days, by sending a copy of a valid legal complaint filed in a court of competent jurisdiction, GitHub will re-enable the disabled content.
     
 
-[B. What About Forks? (or What's a Fork?)](#b-what-about-forks-or-whats-a-fork)
+[](#b-what-about-forks-or-whats-a-fork)B. What About Forks? (or What's a Fork?)
 -------------------------------------------------------------------------------
 
 One of the best features of GitHub is the ability for users to "fork" one another's repositories. What does that mean? In essence, it means that users can make a copy of a project on GitHub into their own repositories. As the license or the law allows, users can then make changes to that fork to either push back to the main project or just keep as their own variation of a project. Each of these copies is a "[fork](https://docs.github.com/en/articles/github-glossary#fork)" of the original repository, which in turn may also be called the "parent" of the fork.
@@ -61,7 +61,7 @@ GitHub _will not_ automatically disable forks when disabling a parent repository
 
 In rare cases, you may be alleging copyright infringement in a full repository that is actively being forked. If at the time that you submitted your notice, you identified all existing forks of that repository as allegedly infringing, we would process a valid claim against all forks in that network at the time we process the notice. We would do this given the likelihood that all newly created forks would contain the same content. In addition, if the reported network that contains the allegedly infringing content is larger than one hundred (100) repositories and thus would be difficult to review in its entirety, we may consider disabling the entire network if you state in your notice that, "Based on the representative number of forks I have reviewed, I believe that all or most of the forks are infringing to the same extent as the parent repository." Your sworn statement would apply to this statement.
 
-[C. What about Circumvention Claims?](#c-what-about-circumvention-claims)
+[](#c-what-about-circumvention-claims)C. What about Circumvention Claims?
 -------------------------------------------------------------------------
 
 The DMCA prohibits the [circumvention of technical measures](https://www.copyright.gov/title17/92chap12.html) that effectively control access to works protected by copyright. Given that these types of claims are often highly technical in nature, GitHub requires claimants to provide [detailed information about these claims](https://docs.github.com/en/github/site-policy/guide-to-submitting-a-dmca-takedown-notice#complaints-about-anti-circumvention-technology), and we undertake a more extensive review.
@@ -80,24 +80,24 @@ Please note, our review process for circumvention technology does not apply to c
 
 When GitHub processes a DMCA takedown under our circumvention technology claim review process, we will offer the repository owner a referral to receive independent legal consultation through [GitHub’s Developer Defense Fund](https://github.blog/2021-07-27-github-developer-rights-fellowship-stanford-law-school/) at no cost to them.
 
-[D. What If I Inadvertently Missed the Window to Make Changes?](#d-what-if-i-inadvertently-missed-the-window-to-make-changes)
+[](#d-what-if-i-inadvertently-missed-the-window-to-make-changes)D. What If I Inadvertently Missed the Window to Make Changes?
 -----------------------------------------------------------------------------------------------------------------------------
 
 We recognize that there are many valid reasons that you may not be able to make changes within the window of approximately 1 business day we provide before your repository gets disabled. Maybe our message got flagged as spam, maybe you were on vacation, maybe you don't check that email account regularly, or maybe you were just busy. We get it. If you respond to let us know that you would have liked to make the changes, but somehow missed the first opportunity, we will re-enable the repository one additional time for approximately 1 business day to allow you to make the changes. Again, you must notify us that you have made the changes in order to keep the repository enabled after that window of approximately 1 business day, as noted above in [Step A.4](#a-how-does-this-actually-work). Please note that we will only provide this one additional chance.
 
-[E. Transparency](#e-transparency)
+[](#e-transparency)E. Transparency
 ----------------------------------
 
 We believe that transparency is a virtue. The public should know what content is being removed from GitHub and why. An informed public can notice and surface potential issues that would otherwise go unnoticed in an opaque system. We post redacted copies of any legal notices we receive (including original notices, counter notices or retractions) at [https://github.com/github/dmca](https://github.com/github/dmca). We will not publicly publish your personal contact information; we will remove personal information (except for usernames in URLs) before publishing notices. We will not, however, redact any other information from your notice unless you specifically ask us to. Here are some examples of a published [notice](https://github.com/github/dmca/blob/master/2014/2014-05-28-Delicious-Brains.md) and [counter notice](https://github.com/github/dmca/blob/master/2014/2014-05-01-Pushwoosh-SDK-counternotice.md) for you to see what they look like. When we remove content, we will post a link to the related notice in its place.
 
 Please also note that, although we will not publicly publish unredacted notices, we may provide a complete unredacted copy of any notices we receive directly to any party whose rights would be affected by it.
 
-[F. Repeated Infringement](#f-repeated-infringement)
+[](#f-repeated-infringement)F. Repeated Infringement
 ----------------------------------------------------
 
 It is the policy of GitHub, in appropriate circumstances and in its sole discretion, to disable and terminate the accounts of users who may infringe upon the copyrights or other intellectual property rights of GitHub or others.
 
-[G. Submitting Notices](#g-submitting-notices)
+[](#g-submitting-notices)G. Submitting Notices
 ----------------------------------------------
 
 If you are ready to submit a notice or a counter notice:
@@ -105,7 +105,7 @@ If you are ready to submit a notice or a counter notice:
 *   [How to Submit a DMCA Notice](https://docs.github.com/en/articles/guide-to-submitting-a-dmca-takedown-notice)
 *   [How to Submit a DMCA Counter Notice](https://docs.github.com/en/articles/guide-to-submitting-a-dmca-counter-notice)
 
-[Learn More and Speak Up](#learn-more-and-speak-up)
+[](#learn-more-and-speak-up)Learn More and Speak Up
 ---------------------------------------------------
 
 If you poke around the Internet, it is not too hard to find commentary and criticism about the copyright system in general and the DMCA in particular. While GitHub acknowledges and appreciates the important role that the DMCA has played in promoting innovation online, we believe that the copyright laws could probably use a patch or two—if not a whole new release. In software, we are constantly improving and updating our code. Think about how much technology has changed since 1998 when the DMCA was written. Doesn't it just make sense to update these laws that apply to software?
