@@ -9,7 +9,7 @@ Protecting our customer’s personal data is important to Energia. This Privacy 
   
 **1.1 Company Information.** Energia is part of the Energia Group, the leading independent energy company in the all-Ireland market.  Energia is the trading name of Energia Customer Solutions Limited a company registered in Ireland with company number 306035 and having its registered office at The Liberty Centre, Blanchardstown Retail Park, Dublin 15, D15 YT2H. Further information can be found at [https://www.energia.ie/home](https://www.energia.ie/home)  or [https://www.energiagroup.com/](https://www.energiagroup.com/).  
    
-**1.2 Contact us**. If you have questions as to the manner in which your personal data is being handled or if you require any further information you can contact the Data Protection Officer at [\[email protected\]](https://www.energia.ie/cdn-cgi/l/email-protection#) or by writing to the :
+**1.2 Contact us**. If you have questions as to the manner in which your personal data is being handled or if you require any further information you can contact the Data Protection Officer at [Dataprotection@energia.ie](mailto:Dataprotection@energia.ie) or by writing to the :
 
 *   Data Protection Officer, The Liberty Centre, Blanchardstown Retail Park, Dublin 15, D15 YT2H.
 
@@ -55,7 +55,7 @@ Legal Basis: The processing is based on your consent for the specific purpose (e
   
 Legal Basis: The processing is necessary for our legitimate interests or those of a third party. It is within Energia’s legitimate interest to provide you with information on Energia products and services including information that we have tailored to your interests.  
    
-If you wish to change your marketing preferences you can do so at any time by writing to us at the address provided above, emailing us at [\[email protected\]](https://www.energia.ie/cdn-cgi/l/email-protection#) or by calling customer services on 0818 405 405.  
+If you wish to change your marketing preferences you can do so at any time by writing to us at the address provided above, emailing us at [homeenquiries@energia.ie](mailto:homeenquiries@energia.ie) or by calling customer services on 0818 405 405.  
    
 **3.4 Customer Loyalty Programme.** If you sign up to the Energia Extra programme in order to verify you are an Energia customer we are required to process your personal data.  
   
@@ -203,7 +203,7 @@ The General Data Protection Regulation provides you with a number of rights unde
    
 **7.1 Right of access.** You have the right to be provided with details of the processing of your personal data and to obtain a copy of the personal data we hold about you, subject to applicable exemptions. To help us better deal with your request please provide us with the information necessary to identify you (name, address, account number) and to identify the personal data you require.  
    
-In order to make an access request please email [\[email protected\]](https://www.energia.ie/cdn-cgi/l/email-protection#) or send your request in writing to the:
+In order to make an access request please email [Dataprotection@energia.ie](mailto:Dataprotection@energia.ie) or send your request in writing to the:
 
 *   Data Protection Officer, The Liberty Centre, Blanchardstown Retail Park, Dublin 15, D15 YT2H
 
