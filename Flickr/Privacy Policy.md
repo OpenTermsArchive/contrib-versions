@@ -13,7 +13,7 @@ This Privacy Policy explains how Flickr collects, uses and discloses information
 
 We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of the policy and, if the changes are significant, we will provide you with additional notice (such as adding a statement to our homepage or sending you an email notification). We encourage you to review the Privacy Policy whenever you access the Services to stay informed about our information practices and the choices available to you.
 
-For information about how to change your privacy settings, please see: [https://help.flickr.com/en\_us/change-your-privacy-settings-rygl6XoJm](https://help.flickr.com/en_us/change-your-privacy-settings-rygl6XoJm).
+For information about how to change your privacy settings, please see: [https://flickrhelp.com/hc/en-us/articles/4404078163732-Change-your-privacy-settings](https://flickrhelp.com/hc/en-us/articles/4404078163732-Change-your-privacy-settings).
 
 Collection of Information
 
@@ -176,7 +176,7 @@ Your Choices
 
 Privacy Requests Regarding Users’ Photos, Videos, and Some Related Data
 
-For privacy-related takedown requests, or to exercise any rights you may have under privacy law regarding images or videos that a Flickr user uploaded to or created in the Services, or any labels, tags, comments, descriptions or categorizations that the same user added to those images and videos in the Services (Photographer Personal Data), please contact that user directly. Flickr processes this data on behalf of the user, and the user has responsibility for handling these requests. Under the GDPR and similar laws, Flickr is the user’s “processor” of this limited set of data, and under the California Consumer Privacy Act (CCPA), Flickr is the user’s “service provider” for this data. (Flickr still can remove illegal content and other material that users are not entitled to maintain on the Service, such as nonconsensual intimate images, which can be reported as described [here](https://help.flickr.com/en_us/get-help-if-someone-posts-intimate-content-of-you-without-your-permission-SkxcY2Qjym).)
+For privacy-related takedown requests, or to exercise any rights you may have under privacy law regarding images or videos that a Flickr user uploaded to or created in the Services, or any labels, tags, comments, descriptions or categorizations that the same user added to those images and videos in the Services (Photographer Personal Data), please contact that user directly. Flickr processes this data on behalf of the user, and the user has responsibility for handling these requests. Under the GDPR and similar laws, Flickr is the user’s “processor” of this limited set of data, and under the California Consumer Privacy Act (CCPA), Flickr is the user’s “service provider” for this data. (Flickr still can remove illegal content and other material that users are not entitled to maintain on the Service, such as nonconsensual intimate images, which can be reported as described [here](https://flickrhelp.com/hc/en-us/articles/4404057912980-Get-help-if-someone-posts-intimate-content-of-you-without-your-permission).)
 
 Flickr users can follow the instructions below to handle privacy requests or to otherwise manage their Photographer Personal Data.
 
@@ -190,7 +190,7 @@ In the "Privacy & Permissions" section of your Account Settings, you can determi
 
 Account Information
 
-You may update, correct or delete certain information about you at any time by logging into your online account or contacting us through [https://help.flickr.com/contact](https://help.flickr.com/contact). You may delete your account or terminate your subscription pursuant to Flickr’s Terms of Use, but note that we may retain certain information as required by law or for legitimate business purposes.
+You may update, correct or delete certain information about you at any time by logging into your online account or contacting us through [https://flickrhelp.com/hc/en-us/requests/new](https://flickrhelp.com/hc/en-us/requests/new). You may delete your account or terminate your subscription pursuant to Flickr’s Terms of Use, but note that we may retain certain information as required by law or for legitimate business purposes.
 
 Privacy and Permissions Settings
 
@@ -222,7 +222,7 @@ Please see the “Advertising and Analytics Services Provided by Others” secti
 
 Promotional Communications
 
-You may opt out of receiving promotional communications from Flickr by following the instructions in those communications or by contacting us through [https://help.flickr.com/contact](https://help.flickr.com/contact). If you opt out, we may still send you non-promotional communications, such as those about your account or our ongoing business relations.
+You may opt out of receiving promotional communications from Flickr by following the instructions in those communications or by contacting us through [https://flickrhelp.com/hc/en-us/requests/new](https://flickrhelp.com/hc/en-us/requests/new). If you opt out, we may still send you non-promotional communications, such as those about your account or our ongoing business relations.
 
 Email Notifications
 
@@ -283,7 +283,7 @@ Certain information is exempt from such requests under applicable law. You also 
 
 To exercise any rights relating to “Photographer Personal Data”, including (i) the images and videos that a user uploads to or creates in the Services or Products, or (ii) any labels, tags, comments, descriptions or categorizations that user adds to those images and videos in the Services or Products, users should contact the relevant user, and not Flickr. You can find contact information for many users by going to their Flickr page and clicking on “About” section. (Even if this were not the case under the CCPA, Flickr would normally have multiple legal grounds for denying CCPA-based takedown requests for Photographer Personal Data due to multiple exceptions under that law, including those applicable to the exercise of First Amendment rights. Similar exceptions are common in other laws.)
 
-To contact Flickr to exercise CCPA rights with respect to other data, please visit [http://help.flickr.com/contact](http://help.flickr.com/contact) for the fastest response. Alternatively, you can make your CCPA request via voicemail at (833) 522-8820. No other requests are accepted at that number.
+To contact Flickr to exercise CCPA rights with respect to other data, please visit [https://flickrhelp.com/hc/en-us/requests/new](https://flickrhelp.com/hc/en-us/requests/new) for the fastest response. Alternatively, you can make your CCPA request via voicemail at (833) 522-8820. No other requests are accepted at that number.
 
 Contact Us
 
