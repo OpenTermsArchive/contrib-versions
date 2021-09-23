@@ -1,9 +1,7 @@
 Privacy Policy
 ==============
 
-_Effective starting: October 31, 2020_ ([view archived versions](https://www.atlassian.com/legal/archives))
-
-[Key Changes](#key-changes)
+_Effective starting: September 23, 2021_ ([view archived versions](https://www.atlassian.com/legal/archives))
 
 What this policy covers
 -----------------------
@@ -211,11 +209,13 @@ How we transfer information we collect internationally
 
 We collect information globally and may transfer, process and store your information outside of your country of residence, to wherever we or our third-party service providers operate for the purpose of providing you the Services.  Whenever we transfer your information, we take steps to protect it.  
 
-_**International transfers within the Atlassian Companies**_: To facilitate our global operations, we transfer information globally and allow access to that information from countries in which the Atlassian owned or operated companies have operations for the purposes described in this policy. These countries may not have equivalent privacy and data protection laws to the laws of many of the countries where our customers and users are based. When we share information about you within and among Atlassian corporate affiliates, we make use of standard contractual data protection clauses, which have been approved by the European Commission, and we rely on the EU-U.S. and Swiss-U.S. Privacy Shield Framework to safeguard the transfer of information we collect from the European Economic Area, the United Kingdom (the "UK"), and Switzerland. Please see our Privacy Shield notice below for more information or contact us as provided below.
+_**International transfers within the Atlassian Companies**_: To facilitate our global operations, we transfer information globally and allow access to that information from countries in which the Atlassian owned or operated companies have operations for the purposes described in this policy. These countries may not have equivalent privacy and data protection laws to the laws of many of the countries where our customers and users are based. When we share information about you within and among Atlassian corporate affiliates, we make use of standard contractual data protection clauses, which have been approved by the European Commission to safeguard the transfer of information we collect from the European Economic Area, the United Kingdom (the "UK"), and Switzerland.
 
-_**International transfers to third parties**_: Some of the third parties described in this privacy policy, which provide services to us under contract, are based in other countries that may not have equivalent privacy and data protection laws to the country in which you reside. When we share information of customers in the European Economic Area, the UK, or Switzerland, we make use of the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks, European Commission-approved standard contractual data protection clauses, binding corporate rules for transfers to data processors, or other appropriate legal mechanisms to safeguard the transfer. Please see our Privacy Shield Notice below.  
+_**International transfers to third parties**_: Some of the third parties described in this privacy policy, which provide services to us under contract, are based in other countries that may not have equivalent privacy and data protection laws to the country in which you reside. When we share information of customers in the European Economic Area, the UK, or Switzerland, we make use of the European Commission-approved standard contractual data protection clauses, binding corporate rules for transfers to data processors, or other appropriate legal mechanisms to safeguard the transfer.
 
 **Privacy Shield Notice**
+
+While Atlassian remains self-certified under the  EU-U.S. and Swiss-U.S. Privacy Shield Frameworks, it is not currently relying on these frameworks for the transfer of personal data. 
 
 Atlassian, Inc. and its U.S. subsidiaries (Atlassian Network Service, Inc., Dogwood Labs, Inc., AgileCraft LLC, Opsgenie, Inc., and Trello, Inc.) participate in and comply with the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks and the Privacy Shield Principles regarding the collection, use, and retention of information about you that is transferred from the European Union, the UK, or Switzerland (as applicable) to the U.S.  We ensure that the Privacy Shield Principles apply to all information about you that is subject to this privacy policy and is received from the European Union, the European Economic Area, the UK, and Switzerland. 
 
