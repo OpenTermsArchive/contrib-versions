@@ -38,15 +38,15 @@ Here's the deal: We like to give second chances. However, when we discover you s
     
 *   Don't violate copyright laws
     
-    If you see photos or videos that you've created in another member's photostream, don't panic. This is probably just a misunderstanding and not malicious. A good first step is to contact them via FlickrMail and politely ask them to remove it. If that doesn’t work, you can file a [Notice with Flickr's Designated Copyright Agent](https://help.flickr.com/en_us/copyright-and-intellectual-property-policy-Hy9DcImP7).
+    If you see photos or videos that you've created in another member's photostream, don't panic. This is probably just a misunderstanding and not malicious. A good first step is to contact them via FlickrMail and politely ask them to remove it. If that doesn’t work, you can file a [Notice with Flickr's Designated Copyright Agent](https://flickrhelp.com/hc/en-us/articles/4404063895956-Copyright-and-Intellectual-Property-Policy).
     
 *   Don't forget to moderate your content
     
-    Set the appropriate content filters for your images and videos. In general, anything containing mature content (e.g. nudity, gore) needs to be moderated appropriately. This includes your buddy icon and cover photo. Also, sexually explicit videos (e.g. pornography) are not permitted. Videos of artistic nature or educational purpose that contain nudity may be allowed under the moderate safety setting. For additional details check [here](https://help.flickr.com/en_us/set-the-safety-levels-of-your-flickr-content-or-account-BJlsk6mjym).
+    Set the appropriate content filters for your images and videos. In general, anything containing mature content (e.g. nudity, gore) needs to be moderated appropriately. This includes your buddy icon and cover photo. Also, sexually explicit videos (e.g. pornography) are not permitted. Videos of artistic nature or educational purpose that contain nudity may be allowed under the moderate safety setting. For additional details check [here](https://flickrhelp.com/hc/en-us/articles/4404064374164-Set-the-Safety-Levels-of-Your-Flickr-Content-or-Account).
     
 *   Don’t forget to set the appropriate content type
     
-    Set the appropriate content type for your images. In general, anything that is not a photo or video should be classified as a Screenshot or Art/Illustration. For additional details check [here](https://flickr.kustomer.help/en_us/set-the-content-type-of-your-flickr-content-rkVAvyD1E).
+    Set the appropriate content type for your images. In general, anything that is not a photo or video should be classified as a Screenshot or Art/Illustration. For additional details check [here](https://flickrhelp.com/hc/en-us/articles/4404058750740-Set-the-content-type-of-your-Flickr-content).
     
 *   Don’t harm children
     
@@ -93,6 +93,6 @@ In Conclusion
 
 If you don't feel that you can abide by our Community Guidelines as outlined above, maybe Flickr isn't for you. We've crafted these guidelines to ensure that everyone within the Flickr community has a good time.
 
-You may also want to check out our [Help Center](http://help.flickr.com/) and [Privacy Policy](https://www.smugmug.com/about/privacy-flickr). If you ever have any questions or comments, we'd love to hear from you. Please feel free to drop us a line via our [webform](https://help.flickr.com/contact).
+You may also want to check out our [Help Center](http://flickrhelp.com/) and [Privacy Policy](https://www.smugmug.com/about/privacy-flickr). If you ever have any questions or comments, we'd love to hear from you. Please feel free to drop us a line via our [webform](https://flickrhelp.com/hc/en-us/requests/new).
 
 The Flickreenos, Dec 17, 2018
