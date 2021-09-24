@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-#### Last Updated: September 22, 2021
+#### Last Updated: September 23, 2021
 
 #### 1\. Universal Service Terms (Applicable to All Services)
 
@@ -507,9 +507,17 @@ You must have all necessary rights to use any domain name that you use in conjun
 
 #### 40\. Amazon QuickSight
 
-**40.1.** You may enable End Users to use Amazon QuickSight under your account. If you choose to enable End Users under your account, it is your responsibility to inform each End User that our termination of your use of Amazon QuickSight will also terminate their use of Amazon QuickSight. It is also your responsibility to inform them that you are acting as an “Amazon QuickSight Administrator” and can perform the following actions: (a) activate and deactivate End Users’ Amazon QuickSight accounts; (b) control End User access to data sets and certain functionality of Amazon QuickSight; and (c) access information about End Users’ use of Amazon QuickSight.
+**40.1.** You may enable End Users to use Amazon QuickSight under your account. If you choose to enable End Users under your account, it is your responsibility to inform each End User that our termination of your use of Amazon QuickSight will also terminate their use of Amazon QuickSight. It is also your responsibility to inform them that you are acting as an “Amazon QuickSight Administrator” and can perform the following actions: (a) activate and deactivate End Users’ Amazon QuickSight accounts; (b) control End User access to data sets and certain functionality of Amazon QuickSight; and (c) access information about End Users’ use of Amazon QuickSight.
 
-**40.2.** Amazon QuickSight may use Your Content that you select as a data source for Amazon QuickSight to make personalized recommendations to you, such as suggested visualizations based on your query history and suggested insights.  
+**40.2.** Amazon QuickSight may use Your Content that you select as a data source for Amazon QuickSight to make personalized recommendations to you, such as suggested visualizations based on your query history and suggested insights.
+
+**40.3. Amazon QuickSight Machine Learning Services**. “Amazon QuickSight ML Services” means Amazon QuickSight Q. “Amazon QuickSight ML Content” means Your Content that is processed by an Amazon QuickSight ML Service. The following terms apply to your use of Amazon QuickSight ML Services:
+
+(a) You agree and instruct that: (i) we may use and store Amazon QuickSight ML Content to maintain and provide Amazon QuickSight ML Services (including development and improvement of Amazon QuickSight ML Services) and to develop and improve AWS and affiliate machine-learning and artificial intelligence technologies; and (ii) solely in connection with the development and improvement described in clause (i), we may store your Amazon QuickSight ML Content in AWS regions outside the AWS regions where you are using Amazon QuickSight ML Services. You may instruct AWS not to use and store Amazon QuickSight ML Content processed by Amazon QuickSight to develop and improve that Service or technologies of AWS or its affiliates by configuring an AI services opt out policy using AWS Organizations.
+
+(b) You are responsible for providing legally adequate privacy notices to End Users of your products or services that use Amazon QuickSight ML Services and obtaining any necessary consent from such End Users for the processing of Amazon QuickSight ML Content and the storage, use, and transfer of Amazon QuickSight ML Content as described under this Section. You represent to us that you have provided all necessary privacy notices and obtained all necessary consents. You are responsible for notifying us in the event that any Amazon QuickSight ML Content stored by Amazon QuickSight ML Services must be deleted under applicable law.
+
+(c) You will not, and will not allow any third-party to, use Amazon QuickSight ML Services to, directly or indirectly, develop or improve a similar or competing product or service.
 
 #### 41\. AWS Certificate Manager
 
