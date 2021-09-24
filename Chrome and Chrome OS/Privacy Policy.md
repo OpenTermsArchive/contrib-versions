@@ -1,10 +1,10 @@
 Google Chrome Privacy Notice
 ============================
 
-Last modified: January 15, 2021
--------------------------------
+Last modified: September 23, 2021
+---------------------------------
 
-View archived versions: Select date May 20, 2020 March 17, 2020 December 10, 2019 October 31, 2019 March 12, 2019 January 30, 2019 December 04, 2018 October 24, 2018 September 24, 2018 March 6, 2018 April 25, 2017 March 7, 2017 January 24, 2017 November 30, 2016 October 11, 2016 August 30, 2016 June 21, 2016 September 1, 2015 November 12, 2014 August 26, 2014 May 20, 2014 February 20, 2014
+View archived versions: Select date January 15, 2021 May 20, 2020 March 17, 2020 December 10, 2019 October 31, 2019 March 12, 2019 January 30, 2019 December 04, 2018 October 24, 2018 September 24, 2018 March 6, 2018 April 25, 2017 March 7, 2017 January 24, 2017 November 30, 2016 October 11, 2016 August 30, 2016 June 21, 2016 September 1, 2015 November 12, 2014 August 26, 2014 May 20, 2014 February 20, 2014
 
 Learn how to control the information that's collected, stored, and shared when you use the Google Chrome browser on your computer or mobile device, Chrome OS, and when you enable Safe Browsing in Chrome. Although this policy describes features that are specific to Chrome, any personal information that is provided to Google or stored in your Google Account will be used and protected in accordance with the [Google Privacy Policy](https://www.google.com/policies/privacy/), as changed from time to time. [Google’s retention policy](https://policies.google.com/technologies/retention) describes how and why Google retains data.
 
@@ -69,7 +69,7 @@ The personal information that Chrome stores won't be sent to Google unless you c
 
 **Prerendering.** To load web pages faster, Chrome has a setting that can look up the IP addresses of links on a web page and open network connections. Sites and Android apps can also ask the browser to preload the pages you might visit next. Preloading requests from Android apps are controlled by the same setting as Chrome-initiated predictions. But preloading instructions from sites are always performed, regardless of whether Chrome’s network prediction feature is enabled. If prerendering is requested, whether by Chrome or by a site or app, the preloaded site is allowed to set and read its own cookies just as if you had visited it, even if you don’t end up visiting the prerendered page. [Learn more](https://support.google.com/chrome/answer/1385029).
 
-**Location.** To get more geographically relevant information, Chrome gives you the option to share your location with a site. Chrome won't allow a site to access your location without your permission; however, on mobile devices, Chrome automatically shares your location with your default search engine if the Chrome app has permission to access your location and you haven’t blocked geolocation for the associated web site. Chrome uses Google Location Services to estimate your location. The information that Chrome sends to Google Location Services may include:
+**Location.** To get more geographically relevant information, Chrome gives you the option to share your location with a site. Chrome won't allow a site to access your location without your permission; Chrome uses Google Location Services to estimate your location. The information that Chrome sends to Google Location Services may include:
 
 *   The Wi-Fi routers closest to you
 *   Cell IDs of the cell towers closest to you
@@ -115,7 +115,7 @@ Chrome includes a number of unique and non-unique identifiers necessary to power
 
 You also have the option to use the Chrome browser while signed in to your Google Account, with or without sync enabled.
 
-**Sign in.** On desktop versions of Chrome, signing into or out of any Google web service, like google.com, signs you into or out of Chrome. You can turn this off in settings. [Learn more](https://support.google.com/chrome/answer/9159867). On Chrome on Android, when you sign into any Google web service, Chrome may offer to sign you in with the Google Accounts that are already signed in on the device. You can turn this off in settings. [Learn more](https://support.google.com/chrome/answer/9159867). If you are signed in to Chrome with your Google Account, Chrome may offer to save your passwords, payment methods and related information to your Google Account. This personal information will be used and protected in accordance with the [Google Privacy Policy](https://www.google.com/policies/privacy/).
+**Sign in.** On desktop versions of Chrome, signing into or out of any Google web service, like google.com, signs you into or out of Chrome. You can turn this off in settings. [Learn more](https://support.google.com/chrome/answer/9159867). On Chrome on Android and iOS, when you sign into any Google web service, Chrome may offer to sign you in with the Google Accounts that are already signed in on the device. You can turn this off in settings. [Learn more](https://support.google.com/chrome/answer/9159867). If you are signed in to Chrome with your Google Account, Chrome may offer to save your passwords, payment methods and related information to your Google Account. This personal information will be used and protected in accordance with the [Google Privacy Policy](https://www.google.com/policies/privacy/).
 
 **Sync.** When you sign in to the Chrome browser or a Chromebook and enable sync with your [Google Account](#google-account), your personal information is saved in your Google Account on Google's servers so you may access it when you sign in and sync to Chrome on other computers and devices. This personal information will be used and protected in accordance with the [Google Privacy Policy](https://www.google.com/policies/privacy/). This type of information can include:
 
