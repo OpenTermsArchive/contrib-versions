@@ -1,7 +1,7 @@
 Amazon Publisher Services Agreement
 ===================================
 
-Last Updated July 29, 2021  
+Last Updated September 23, 2021  
 See [what's changed](https://ams.amazon.com/webpublisher/apsmanaged/apsagreementupdates.html)
 
 #### Table of Contents
