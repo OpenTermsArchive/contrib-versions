@@ -95,7 +95,7 @@ We may waive these fees in matters investigating potential harm to children, Fac
 
 #### Human rights due diligence
 
-In line with our commitments as a member of the Global Network Initiative and our [Corporate Human Rights Policy](https://l.facebook.com/l.php?u=https%3A%2F%2Fabout.fb.com%2Fwp-content%2Fuploads%2F2021%2F03%2FFacebooks-Corporate-Human-Rights-Policy.pdf&h=AT0UPDvYQ-5g6d9vf2AklP_JeDeEcTJPpUJfpRdlQrkKJl-Ub25buz1nAtbKaiNRyRBeN_XpG0_osJcnevRmroL6bv__gcI8Rr6TkoaAVoODHrb36945eTJTEaVew1xyyWKGsCsqZ2tTgQrG), we also conduct a careful review of each law enforcement request to disclose user data for consistency with international human rights standards.
+In line with our commitments as a member of the Global Network Initiative and our [Corporate Human Rights Policy](https://l.facebook.com/l.php?u=https%3A%2F%2Fabout.fb.com%2Fwp-content%2Fuploads%2F2021%2F03%2FFacebooks-Corporate-Human-Rights-Policy.pdf&h=AT3fgqOFs6p82JpF21ynBK6gAM3sRMVT0-6jbBMIRDThzu2aVsj5P2AakSN4fTZj6eO1Zjw23M4grcHR3dlcje3lrcJXe8Qg_D-uWm1EXTlqH655OprGlpb4OX-LSMktbNyByQuEe-8MXxCU), we also conduct a careful review of each law enforcement request to disclose user data for consistency with international human rights standards.
 
 * * *
 
