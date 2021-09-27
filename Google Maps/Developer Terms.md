@@ -293,6 +293,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   Bordeaux Métropole : [source](https://opendata.bordeaux-metropole.fr/explore/dataset/sv_horai_a/information/)
             
+        *   Bordeaux Métropole : [source, 2021](https://opendata.bordeaux-metropole.fr/explore/dataset/se_cpost_s/information/)
+            
         *   Métropole Nice Côte d'Azur : [source](https://opendata.nicecotedazur.org/data/dataset/export-quotidien-au-format-gtfs-du-reseau-de-transport-lignes-d-azur)
             
         *   Toulouse Métropole : [source](https://data.toulouse-metropole.fr/explore/dataset/tisseo-gtfs/information/)
@@ -470,6 +472,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         *   Regione Emilia-Romagna Assessorato Turismo e Commercio ([https://creativecommons.org/licenses/by/4.0/deed.it](https://creativecommons.org/licenses/by/4.0/deed.it))
             
         *   Comune di Milano ([http://opendefinition.org/licenses/cc-by/](https://opendefinition.org/licenses/cc-by/))
+            
+        *   Unione Dei Comuni Valle Del Savio ([https://creativecommons.org/licenses/by/4.0/legalcode.it](https://creativecommons.org/licenses/by/4.0/legalcode.it))
             
     21.  **Japan**
         *   日本の Google マップのサービスには、第三者から提供された著作権の対象となるデータに基づいて Google が変更したビジネス リスティング データが含まれます。当該データを許可なく使用すると、Google またはその他の者が保持する著作権を侵害することになる可能性があります。また商用利用は固く禁じられています。ユーザーがビジネス リスティング データを取得することは許可されていません。
