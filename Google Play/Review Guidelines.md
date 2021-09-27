@@ -1,24 +1,21 @@
-Developer Programme Policy (effective 1 March 2021)
-===================================================
+Developer Programme Policy (effective 5 May 2021)
+=================================================
 
-Let's build the world's most trusted source for apps and games
-==============================================================
+#### Let's build the world's most trusted source for apps and games
 
 Your innovation is what drives our shared success, but with it comes responsibility. These Developer Programme Policies, along with the [Developer Distribution Agreement](https://play.google.com/about/developer-distribution-agreement.html), ensure that together we continue to deliver the world's most innovative and trusted apps to over a billion people through Google Play. We invite you to explore our policies below.
 
- 
-
 Restricted content
-==================
+------------------
 
 People from all over the world use Google Play to access apps and games every day. Before submitting an app, ask yourself if your app is appropriate for Google Play and compliant with local laws. 
 
 Child endangerment
 ------------------
 
-Apps that include content that sexualises minors are subject to immediate removal from the Store. , including but not limited to, apps that promote paedophilia or inappropriate interaction targeted at a minor (e.g. groping or caressing). 
+Apps that include content that sexualises minors are subject to immediate removal from the Store, including, but not limited to, apps that promote paedophilia or inappropriate interaction targeted at a minor (e.g. groping or caressing). 
 
-In addition, apps that appeal to children but contain adult themes are not allowed, including but not limited to, apps with excessive violence, blood and gore; apps that depict or encourage harmful and dangerous activities. We also don’t allow apps that promote negative body or self image including apps that depict for entertainment purposes plastic surgery, weight loss and other cosmetic adjustments to a person's physical appearance.
+In addition, apps that appeal to children but contain adult themes are not allowed, including, but not limited to, apps with excessive violence, blood and gore; apps that depict or encourage harmful and dangerous activities. We also don’t allow apps that promote negative body or self image including apps that depict for entertainment purposes plastic surgery, weight loss and other cosmetic adjustments to a person's physical appearance.
 
 If we become aware of content with child sexual abuse imagery, we will report it to the appropriate authorities and delete the Google Accounts of those involved with the distribution.
 
@@ -38,8 +35,8 @@ We don't allow apps that contain or promote sexual content or profanity, includi
 *   Content that depicts or are functionally sexual aids, sex guides, illegal sexual themes and fetishes.
 *   Content that is lewd or profane – including but not limited to content which may contain profanity, slurs, explicit text or adult/sexual keywords in the Store Listing or in-app.
 *   Content that depicts, describes or encourages bestiality.
-*   Apps that promote sex-related entertainment, escort services, or other services that may be interpreted as providing sexual acts in exchange for compensation.
-*   Apps that degrade or objectify people. 
+*   Apps that promote sex-related entertainment, escort services or other services that may be interpreted as providing sexual acts in exchange for compensation.
+*   Apps that degrade or objectify people.
 
 ### Hate speech
 
@@ -164,7 +161,7 @@ This policy applies to apps which offer loans directly, lead generators and thos
 Real-money gambling, games and contests
 ---------------------------------------
 
-We allow real-money gambling apps, ads related to real-money gambling and daily fantasy sports apps that meet certain requirements. 
+We allow real money gambling apps, ads related to real money gambling, loyalty programmes with gamified outcomes and daily fantasy sports apps that meet certain requirements.
 
 ### Gambling apps
 
@@ -532,7 +529,7 @@ Personal and sensitive user data includes, but isn't limited to, personally iden
 *   Use a runtime permissions request whenever available, prior to accessing data gated by [Android permissions](https://developer.android.com/guide/topics/permissions/overview).
 *   Not sell personal or sensitive user data.
 
-#### Prominent disclosure and consent requirement
+#### **Prominent disclosure and consent requirement**
 
 In cases where users may not reasonably expect that their personal or sensitive user data will be required to provide or improve the policy-compliant features or functionality within your app (e.g. data collection occurs in the background of your app), you must meet the following requirements:
 
@@ -686,7 +683,8 @@ We don’t allow apps that contain false or misleading information or claims, in
 *   Apps that falsely claim affiliation with a government entity or offer to provide or facilitate government services for which they are not properly authorised.
 *   Apps that falsely claim to be the official app of an established entity. Titles like 'Justin Bieber Official' are not allowed without the necessary permissions or rights.
 
-![](//lh3.googleusercontent.com/A1eTZ0k5mqZNzUIiekEmGzLcw2Jxy4anLVoa7w5unaJInstFQEl5oYl6TpY9XUn6Mwt6=w660)  
+![](//lh3.googleusercontent.com/A1eTZ0k5mqZNzUIiekEmGzLcw2Jxy4anLVoa7w5unaJInstFQEl5oYl6TpY9XUn6Mwt6=w660)
+
 (1) This app features medical or health-related claims (cure cancer) that is misleading  
 (2) This apps claim functionalities that are not possible to implement (using your phone as a breathalyser)
 
@@ -750,7 +748,9 @@ Malware is any code that could put a user, a user's data or a device at risk. Ma
 
 ### Malware
 
-Our malware policy is simple: the Android ecosystem, including the Google Play Store and user devices, should be free from malicious behaviours (i.e. malware). Through this fundamental principle we strive to provide a safe Android ecosystem for our users and their Android devices.
+Our malware policy is simple: the Android ecosystem including the Google Play Store, and user devices should be free from malicious behaviours (i.e. malware). Through this fundamental principle we strive to provide a safe Android ecosystem for our users and their Android devices.
+
+Malware is any code that could put a user, a user's data or a device at risk. Malware includes, but is not limited to, potentially harmful applications (PHAs), binaries or framework modifications, consisting of categories such as trojans, phishing and spyware apps, and we are continuously updating and adding new categories.
 
 Though varied in type and capabilities, malware usually has one of the following objectives:
 
@@ -761,11 +761,11 @@ Though varied in type and capabilities, malware usually has one of the following
 *   Disseminate spam or commands from the infected device to affect other devices or networks.
 *   Defraud the user.
 
-An app, binary or framework modification can be potentially harmful, and therefore can generate malicious behaviour, even if it wasn't intended to be harmful. This is because apps, binaries or framework modifications can function differently depending on a variety of variables. Therefore, what is harmful to one Android device might not pose a risk at all to another Android device. For example, a device running the latest version of Android is not affected by harmful apps which use deprecated APIs to perform malicious behaviour, but a device that is still running a very early version of Android might be at risk. Apps, binaries or framework modifications are flagged as malware or PHA if they clearly pose a risk to some or all Android devices and users.
+An app, binary or framework modification can be potentially harmful, and can therefore generate malicious behaviour, even if it wasn't intended to be harmful. This is because apps, binaries or framework modifications can function differently depending on a variety of variables. Therefore, what is harmful to one Android device might not pose a risk at all to another Android device. For example, a device running the latest version of Android is not affected by harmful apps which use deprecated APIs to perform malicious behaviour, but a device that is still running a very early version of Android might be at risk. Apps, binaries or framework modifications are flagged as malware or PHA if they clearly pose a risk to some or all Android devices and users.
 
 The malware categories below reflect our foundational belief that users should understand how their device is being leveraged and promote a secure ecosystem that enables robust innovation and a trusted user experience.
 
-Visit [Google Play Protect](https://developers.google.com/android/play-protect/potentially-harmful-applications) for more information.
+Visit [Google Play Protect](https://developers.google.com/android/play-protect/potentially-harmful-applications) for more information.
 
 ### Backdoors
 
@@ -1243,7 +1243,7 @@ The use of Google Play certified ad SDKs is only required if you are using ad SD
 *   Define what are objectionable ad content and behaviours and prohibit them in the ad SDK's terms or policies. The definitions  should comply with Play’s Developer Programme Policies.
 *   Create a method to rate your ad creatives according to age-appropriate groups. Age-appropriate groups must at least include groups for 'Everyone' and 'Mature'. The rating methodology must align with the methodology that Google supplies to SDKs once they have filled in the interest form below.
 *   Allow publishers, on a per-request or per-app basis, to request child-directed treatment for ad serving. Such treatment must be in compliance with applicable laws and regulations, such as the [US Children's Online Privacy and Protection Act (COPPA)](https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children&#39;s-privacy) and the EU [General Data Protection Regulation (GDPR)](https://gdpr.eu/). Google Play requires ad SDKs to disable personalised ads, interest-based advertising and remarketing as part of the child-directed treatment.
-*   Allow publishers to select ad formats that are compliant with [Play’s families ads and monetisation policy](https://support.google.com/googleplay/android-developer/answer/9914283#families-ads-monetization), and meet the requirement of the [teacher-approved programme](https://playacademy.exceedlms.com/sl/044a202e). 
+*   Allow publishers to select ad formats that are compliant with [Play’s Families Ads and Monetisation policy](https://support.google.com/googleplay/android-developer/answer/9914283#families-ads-monetization), and meet the requirement of the [Expert Approved programme](https://playacademy.exceedlms.com/sl/044a202e). 
 *   Ensure that when real-time bidding is used to serve ads to children, the creatives have been reviewed and privacy indicators are propagated to the bidders.
 *   Provide Google with sufficient information, such as information indicated in the [interest form](https://docs.google.com/forms/d/e/1FAIpQLSc8msikGDxjTHHFmIECoitMnpudaCbtrb_hhgzpUOznPhDoBw/viewform?p=adnet&visit_id=637244930778989316-3754351249&rd=1) below, to verify the ad SDK's compliance with all certification requirements, and respond in a timely manner to any subsequent requests for information.
 
@@ -1359,29 +1359,29 @@ If you do not agree with the rating assigned to your app, you can appeal directl
 News 
 -----
 
-An app that declares itself as a 'News' app in the Google Play Console ('News apps') must meet all of the following requirements.
+An app that declares itself as a 'News' app in Play Console ('News apps') must meet all of the following requirements.
 
 News apps that require a user to purchase a membership must provide an in-app content preview for users prior to purchase. 
 
 News apps MUST:
 
-*   provide ownership information about the news publisher and its contributors including, but not limited to, the official website for the news published in your app, valid and verifiable contact information, and the original publisher of each article, and 
-*   have a dedicated website or in-app page that is clearly labelled as containing contact information, is easy to find (e.g. linked at the bottom of the home page or in the site navigation bar) and provides valid contact information for the news publisher, including at least a contact email address and phone number.
+*   provide ownership information about the news publisher and its contributors including, but not limited to, the official website for the news published in your app, valid and verifiable contact information, and the original publisher of each article, and 
+*   have a dedicated website or in-app page that is clearly labelled as containing contact information, is easy to find (e.g. linked at the bottom of the home page or in the site navigation bar), and provides valid contact information for the news publisher, including at least a contact email address and phone number.
 
 Please note that links to social media accounts are not sufficient forms of publisher contact information.  Additionally, apps that contain primarily user-generated content (e.g. social media apps) should not declare themselves as News apps.
 
 News apps MUST NOT:
 
-*   contain significant spelling and/or grammatical errors,
-*   contain only static content (e.g. content that is several months old), and 
+*   contain significant spelling and/or grammatical errors,
+*   contain only static content (e.g. content that is several months old), and 
 *   have affiliate marketing or ad revenue as its primary purpose.  
 
 Please note that News apps _may_ use ads and other forms of marketing to monetise as long as the app’s primary purpose isn’t to sell products and services or generate advertising revenue.
 
-News apps that aggregate content from different publishing sources must be transparent about the publishing source of the content in the app. and each of the sources must meet News policy requirements.
+News apps that aggregate content from different publishing sources must be transparent about the publishing source of the content in the app and each of the sources must meet News policy requirements.
 
 Spam and minimum functionality
-==============================
+------------------------------
 
 At a minimum, apps should provide users with a basic degree of functionality and a respectful user experience. Apps that crash, exhibit other behaviour that is not consistent with a functional user experience, or that serve only to spam users or Google Play are not apps that expand the catalogue in a meaningful way.
 
@@ -1544,7 +1544,7 @@ If one of the target audiences for your app is children, you must comply with th
 1.  **App content:** Your app's content that is accessible to children must be appropriate for children.
 2.  **Google Play Console answers:** You must accurately answer the questions in the Google Play Console regarding your app and update those answers to accurately reflect any changes to your app.
 3.  **Ads:** If your app displays ads to children or to users of an unknown age, you must:
-    *   only use [Google Play-certified ad SDKs](https://support.google.com/googleplay/android-developer/answer/9283445) to display ads to those users;
+    *   only use [Google Play certified ad SDKs](https://support.google.com/googleplay/android-developer/answer/9283445) to display ads to those users;
     *   ensure that ads displayed to those users do not involve interest-based advertising (advertising targeted at individual users who have certain characteristics based on their online browsing behaviour) or remarketing (advertising targeted at individual users based on previous interaction with an app or website); 
     *   ensure that ads displayed to those users present content that is appropriate for children;
     *   ensure that ads displayed to those users follow the Families ad format requirements; and
@@ -1552,14 +1552,14 @@ If one of the target audiences for your app is children, you must comply with th
 4.  **Data collection:** You must disclose the collection of any [personal and sensitive Information](https://support.google.com/googleplay/android-developer/answer/9914283#user-data) from children in your app, including through APIs and SDKs called or used in your app. Sensitive information from children includes, but is not limited to, authentication information, microphone and camera sensor data, device data, Android ID, ad usage data and advertising ID.
 5.  **APIs and SDKs:** You must ensure that your app properly implements any APIs and SDKs.
     *   Apps that solely target children must not contain any APIs or SDKs that are not approved for use in child-directed services. This includes Google Sign-In (or any other Google API Service that accesses data associated with a Google Account), Google Play Games Services and any other API Service using OAuth technology for authentication and authorisation.
-    *   Apps that target both children and older audiences must not implement APIs or SDKs that are not approved for use in child-directed services, unless they are used behind a [neutral age screen](https://support.google.com/googleplay/android-developer/answer/9285070#neutral-agescreen) or implemented in a way that does not result in the collection of data from children (e.g. providing Google Sign-In as an optional feature). Apps that target both children and older audiences must not require users to sign in or access app content through an API or SDK that is not approved for use in child-directed services. 
+    *   Apps that target both children and older audiences must not implement APIs or SDKs that are not approved for use in child-directed services unless they are used behind a [neutral age screen](https://support.google.com/googleplay/android-developer/answer/9285070#neutral-agescreen) or implemented in a way that does not result in the collection of data from children (e.g. providing Google Sign-In as an optional feature). Apps that target both children and older audiences must not require users to sign in or access app content through an API or SDK that is not approved for use in child-directed services. 
 6.  **Privacy policy:** You must provide a link to your app's privacy policy on your app's Store Listing page. This link must be maintained at all times while the app is available on the Store, and it must link to a privacy policy that, among other things, accurately describes your app's data collection and use.
 7.  **Special restrictions:**
     *   If your app uses augmented reality, you must include a safety warning immediately upon launch of the AR section. The warning should contain the following:
         *   An appropriate message about the importance of parental supervision.
         *   A reminder to be aware of physical hazards in the real world (e.g. be aware of your surroundings).
     *   Your app must not require the use of a device that is advised not to be used by children (e.g. Daydream, Oculus).
-8.  **Legal compliance:** You must ensure that your app, including any APIs or SDKs that your app calls or uses, is compliant with the [US Children's Online Privacy and Protection Act (COPPA)](https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children&#39;s-privacy), [EU General Data Protection Regulation (GDPR)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0679) and any other applicable laws or regulations.
+8.  **Legal compliance:** You must ensure that your app, including any APIs or SDKs that your app calls or uses, is compliant with the [US Children's Online Privacy Protection Act (COPPA)](https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children&#39;s-privacy), [EU General Data Protection Regulation (GDPR)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0679), and any other applicable laws or regulations.
 
 **Here are some examples of common violations:**
 
@@ -1576,7 +1576,7 @@ If one of the target audiences for your app is children, you must comply with th
 
 Apps designed specifically for children must participate in the Designed for Families programme. If your app is designed for everyone, including children and families, you too can apply to participate in the programme.
 
-Before being accepted into the programme, your app must meet all of the Families policy requirements and Designed for Families eligibility requirements, in addition to those outlined in the [Google Play Developer Programme Policies](https://support.google.com/googleplay/android-developer/topic/9858052) and the [Developer Distribution Agreement](https://play.google.com/intl/ALL_us/about/developer-distribution-agreement.html).
+Before being accepted into the programme, your app must meet all of the Families policy requirements and Designed for Families eligibility requirements, in addition to those outlined in the [Google Play Developer Programme Policies](https://support.google.com/googleplay/android-developer/topic/9858052) and [Developer Distribution Agreement](https://play.google.com/intl/ALL_us/about/developer-distribution-agreement.html).
 
 For more information on the process for submitting your app for inclusion in the programme, click [here](https://support.google.com/googleplay/android-developer/answer/7018303).
 
