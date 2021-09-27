@@ -1,4 +1,4 @@
-We are updating our [Commercial Terms](https://www.facebook.com/legal/commercial_terms/09-27-21) to reflect our updated [EU Data Transfer Addendum](https://www.facebook.com/legal/EU_data_transfer_addendum/update) incorporating new Standard Contractual Clauses. These updates will go into effect on 27 September 2021.
+These terms reflect our updated [EU Data Transfer Addendum](https://www.facebook.com/legal/EU_data_transfer_addendum/update) incorporating new Standard Contractual Clauses effective as of 27 September 2021.
 
   
 
@@ -17,9 +17,9 @@ As more fully described below, if you reside in the United States or your busine
       
     If you are a California resident, you agree to waive California Civil Code Section 1542, which says:  
       
-    A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS WHICH THE CREDITOR DOES NOT KNOW OR SUSPECT TO EXIST IN HIS OR HER FAVOUR AT THE TIME OF EXECUTING THE RELEASE, WHICH IF KNOWN BY HIM OR HER, MUST HAVE MATERIALLY AFFECTED HIS OR HER SETTLEMENT WITH THE DEBTOR.  
+    A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS WHICH THE CREDITOR DOES NOT KNOW OR SUSPECT TO EXIST IN HIS OR HER FAVOUR AT THE TIME OF EXECUTING THE RELEASE, WHICH IF KNOWN BY HIM OR HER MUST HAVE MATERIALLY AFFECTED HIS OR HER SETTLEMENT WITH THE DEBTOR.  
       
-    Our aggregate liability arising out of or relating to any access or use of the Facebook Products, the Terms (for any access or use of the Facebook Products for business or commercial purposes), or these Commercial Terms will not exceed the greater of one hundred dollars (USD 100) or the amount that you have paid us in the past twelve months.
+    Our aggregate liability arising out of or relating to any access or use of the Facebook Products, the Terms (for any access or use of the Facebook Products for business or commercial purposes), or these Commercial Terms will not exceed the greater of one hundred US dollars (USD 100) or the amount you have paid us in the past twelve months.
 5.  **Disputes:**
     1.  Third-party claims: If anyone brings a claim, cause of action or dispute against us related to your services, actions, content or information on Facebook or other Facebook Products or your use of any Facebook Products, you agree to indemnify and hold us harmless from and against any damages, losses and expenses of any kind (including reasonable legal fees and costs) related to any such claim, cause of action or dispute.  
           
@@ -38,13 +38,13 @@ As more fully described below, if you reside in the United States or your busine
         
     4.  Commercial Claims outside the United States: If you reside outside the United States or your business is located outside the United States, you agree that:
         
-        1.  Any Commercial Claim between you and Facebook, Inc. must be resolved exclusively in the US District Court for the Northern District of California or a state court located in San Mateo County, that you submit to the personal jurisdiction of either of these courts for the purpose of litigating any such claim and that the laws of the State of California will govern these Commercial Terms and any such claim, without regard to conflict of law provisions.  
+        1.  Any Commercial Claim between you and Facebook, Inc. must be resolved exclusively in the US District Court for the Northern District of California or a state court located in San Mateo County, that you submit to the personal jurisdiction of either of these courts for the purpose of litigating any such claim, and that the laws of the State of California will govern these Commercial Terms and any such claim, without regard to conflict of law provisions.  
               
             
-        2.  Any Commercial Claim between you and Facebook Ireland Limited must be resolved exclusively in the courts of the Republic of Ireland, that you submit to the personal jurisdiction of the Republic of Ireland for the purpose of litigating any such claim and the laws of the Republic of Ireland will govern these Commercial Terms and any such claim, without regard to conflict of law provisions.  
+        2.  Any Commercial Claim between you and Facebook Ireland Limited must be resolved exclusively in the courts of the Republic of Ireland, that you submit to the personal jurisdiction of the Republic of Ireland for the purpose of litigating any such claim, and the laws of the Republic of Ireland will govern these Commercial Terms and any such claim, without regard to conflict of law provisions.  
               
             
-        3.  Notwithstanding (i) and (ii) above, any Commercial Claim between you and both Facebook, Inc. and Facebook Ireland Limited must be resolved exclusively in the US District Court for the Northern District of California or a state court located in San Mateo County, that you submit to the personal jurisdiction of either of these courts for the purpose of litigating any such claim and that the laws of the State of California will govern these Commercial Terms and any such claim, without regard to conflict of law provisions.  
+        3.  Notwithstanding (i) and (ii) above, any Commercial Claim between you and both Facebook, Inc. and Facebook Ireland Limited must be resolved exclusively in the US District Court for the Northern District of California or a state court located in San Mateo County, that you submit to the personal jurisdiction of either of these courts for the purpose of litigating any such claim, and that the laws of the State of California will govern these Commercial Terms and any such claim, without regard to conflict of law provisions.  
               
             
         4.  Without prejudice to the foregoing, you agree that, in our sole discretion, we may also bring any claim we have against you related to efforts to abuse, interfere or engage with our Products in unauthorised ways in the country in which you reside that has jurisdiction over the claim.
@@ -66,7 +66,7 @@ As more fully described below, if you reside in the United States or your busine
     4.  You will not transfer any of your rights or obligations under these Commercial Terms to anyone else without our consent.  
           
         
-    5.  Except as set out in the [Data Transfer Addendum](https://www.facebook.com/legal/EU_data_transfer_addendum), these Commercial Terms do not confer any third-party beneficiary rights.  
+    5.  These Commercial Terms do not confer any third-party beneficiary rights.  
           
         
     6.  We offer tools to provide transparency and controls to our users about the Facebook experience, including information to show them why they are being shown specific content or provide feedback about content, and controls to block content or stop seeing certain types of content (such as by removing themselves from interests used for advertising). You agree that information about you and your use of Facebook for commercial or business purposes may be included in these tools. For clarity, our licence to content extends to the display of content in conjunction with providing these tools.  
@@ -75,7 +75,7 @@ As more fully described below, if you reside in the United States or your busine
     7.  You consent that Facebook may disclose your advertising content and Page posts ("**Commercial Content**"), and all information associated with such Commercial Content, including information associated with the delivery of that Commercial Content, in response to valid legal process related to an electoral matter or to a governmental entity or body if Facebook believes that disclosure would assist in a lawful investigation.  
           
         
-    8.  Please note that our retention policies for Commercial Content may differ from those set forth in the Terms. We retain Commercial Content as necessary to provide our services to users, for internal record keeping and for product improvement and safety purposes.  
+    8.  Please note that our retention policies for Commercial Content may differ from those set forth in the Terms. We retain Commercial Content as necessary to provide our services to users, for internal record keeping, and for product improvement and safety purposes.  
           
         
     9.  All of our rights and obligations under these Commercial Terms are freely assignable by us in connection with a merger, acquisition or sale of assets, or by operation of law or otherwise.  
@@ -87,7 +87,3 @@ As more fully described below, if you reside in the United States or your busine
     11.  We reserve all rights not expressly granted to you.
 
 Note: For purposes of these Commercial Terms, references in existing terms or agreements to (i) "the Statement of Rights and Responsibilities", "Statement" or "SRR" will now mean the Facebook Terms or Terms and (ii) "Facebook" (when used to refer to our products and services) or "Facebook Services" or "Services" will now mean Facebook Products.
-
-  
-
-Effective date: 31 August 2020
