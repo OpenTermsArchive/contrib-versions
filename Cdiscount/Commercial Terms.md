@@ -2060,7 +2060,7 @@ _ARTICLE 12 :  UTILISATION DU SITE_
 Le Site pourra être modifié ou mis à jour et l’accès au Site interrompu, suspendu ou arrêté à tout moment sans notification préalable. A ce titre, il est notamment précisé que toute opération de maintenance effectuée sur le Site pourra perturber l’accès et/ou le fonctionnement du Site. En tout état de cause, le Client Pro reconnaît être alerté des aléas techniques inhérents à Internet et des interruptions d’accès qui peuvent en résulter. Cdiscount ne pourra pas être tenue responsable des éventuels indisponibilités ou ralentissement du Site.   
   
   
-Cdiscount n’est en tout état de cause pas en mesure de garantir la continuité des fonctionnalités du Site ce que le Client Pro reconnaît. En aucun cas, la responsabilité de Cdiscount ne pourra être engagée par le Client Pro à ce titre. Cdiscount ne pourra en outre nullement être tenue responsable de l’impact de ces perturbations d’accès et/ou de fonctionnalités du Site sur l'activité du Client Pro.
+Cdiscount n’est en tout état de cause pas en mesure de garantir la continuité des fonctionnalités du Site ce que le Client Pro reconnaît. En aucun cas, la responsabilité de Cdiscount ne pourra être engagée par le Client Pro à ce titre. Cdiscount ne pourra en outre nullement être tenue responsable de l’impact de ces perturbations d’accès et/ou de fonctionnalités du Site sur l’activité du Client Pro.
 
 _ARTICLE 13 :  TRAITEMENT DES DONNEES_
 --------------------------------------
