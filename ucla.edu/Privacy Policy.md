@@ -1,73 +1,49 @@
-Terms of Use
-------------
+Privacy Policy and Terms of Use
+===============================
 
-Thank you for visiting the official website of the University of California, Los Angeles (UCLA). This privacy policy explains how personal information about you is collected, used and disclosed by UCLA with respect to your use of the UCLA websites where this policy is posted (collectively, "Sites").
+Thank you for visiting the official website of the University of California, Los Angeles (UCLA). This privacy policy explains how personal information about you is collected, used and disclosed by UCLA with respect to your use of the UCLA websites where this policy is posted (collectively, "Sites"). By continuing to use UCLA Sites, you are accepting the terms of use defined in this statement.
 
-By continuing to use UCLA Sites, you are accepting the terms of use defined in this statement.
+### Web Accessibility
 
-### Information Collected by UCLA
+UCLA is committed to web accessibility for everyone.
 
-#### General
+If you are experiencing a web accessibility issue, please contact the ADA/504 Office for further assistance by emailing [ada@saonet.ucla.edu](mailto:ada@saonet.ucla.edu) or calling [(310) 206-8049](tel:3102068049).
 
-Our Sites are made available to you to provide information about our university and the services offered. You can browse our Sites without providing any personal information such as your name, mailing address, email address, phone number or social security number.
+If you are a student and would like to file a disability-based discrimination grievance, please see UCLA Procedure 230.2: Student Grievances Regarding Violations of Anti-Discrimination Laws or University Policies on Discrimination Based on Disability.
 
-#### Non-Personal Information
+Information Collected by UCLA
 
-When you access and use our Sites, some information is automatically collected. For example, we may collect information about your computer's operating system, Internet Protocol (IP) address, access times, browser type and language, and the website that referred you to us. We also collect information about your usage and activity on our Sites.
+### General
 
-#### Cookies
+Our Sites are made available to you to provide information about our university and the services offered. You can browse our Sites without providing any personal information such as your name, mailing address, email address, phone number or Social Security number.
+
+### Non-Personal Information
+
+When you access and use our Sites, some information is automatically collected. For example, we may collect information about your computer's operating system, Internet Protocol (IP) address, access times, browser type and language and the website that referred you to us. We also collect information about your usage and activity on our Sites.
+
+### Cookies
 
 When you visit our Sites, you may be issued a "cookie," which helps track your session while online. Cookies are small data files stored on your hard drive. Among other things, cookies help to make your site visit more relevant and personalized for you. We use cookies to see which areas and features are popular and to count visits to our Sites. Most browsers are initially set to accept cookies. If you would prefer, you may set your browser to refuse cookies or alert you when cookies are being sent; however, it is possible that some parts of our Sites will not function properly if you do so.
 
-#### Web Beacons
+### Web Beacons
 
-The Sites and any communications sent by UCLA may contain electronic images (generally, single pixel ".gif" images) called "web beacons." These web beacons allow UCLA and third parties authorized by UCLA to monitor and collect certain information about the viewer of a web page, email message or other communication, such as the type of browser requesting the web beacon, the device identifier of the device the web beacon is sent to and the time the web beacon was viewed. Web beacons may be used count unique users, visits and page views; monitor traffic and conversion patterns; personalize your experience when you visit the Sites, including advertising and content you see; and determine whether or not messages were opened, links were clicked and/or notifications/offers were acted upon.
+The Sites and any communications sent by UCLA may contain electronic images (generally, single-pixel ".gif" images) called "web beacons." These web beacons allow UCLA and third parties authorized by UCLA to monitor and collect certain information about the viewer of a web page, email message or other communication, such as the type of browser requesting the web beacon, the device identifier of the device the web beacon is sent to and the time the web beacon was viewed. Web beacons may be used to count unique users, visits and page views; monitor traffic and conversion patterns; personalize your experience when you visit the Sites, including advertising and content you see; and determine whether or not messages were opened, links were clicked and/or notifications/offers were acted upon.
 
-#### Third Party Advertising
+### Third-Party Advertising
 
-We may also allow third parties to use cookies or other tracking technologies to collect non-personal information about your use of our Sites, including your IP address, pages viewed and conversion information. This information may be used, among other things, to deliver advertising targeted to your interests and to better understand the usage and visitation of our Sites and other sites tracked by these third parties. This privacy policy does not apply to, and we are not responsible for, third party cookies or other tracking technologies. We encourage you to check the privacy policies of advertisers and/or ad services to learn more about their privacy practices. If you would like more information about third party advertising or to opt out of having your information used in this way, please visit [http://www.networkadvertising.org/managing/opt\_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
+We may also allow third parties to use cookies or other tracking technologies to collect non-personal information about your use of our Sites, including your IP address, pages viewed and conversion information. This information may be used, among other things, to deliver advertising targeted to your interests and to better understand the usage and visitation of our Sites and other sites tracked by these third parties. This privacy policy does not apply to, and we are not responsible for, third-party cookies or other tracking technologies. We encourage you to check the privacy policies of advertisers and/or ad services to learn more about their privacy practices. If you would like more information about third-party advertising or to opt out of having your information used in this way, please visit [http://www.networkadvertising.org/managing/opt\_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
 
-#### Personal Information
+### Personal Information
 
 We also collect personal information that you voluntarily provide to us, such as when you apply for admission, register for an account, participate in a promotion or sweepstakes, request a brochure or other materials, sign up for a tour, locate or make inquiries to specific departments, make a donation, request information or otherwise contact UCLA. Such information may include: contact information (name, address, telephone number, social media username/handle, mobile phone and/or email address, etc.); academic area or interest (biology, anthropology, human studies, medicine, etc.); financial information (financial aid application history, payment history, current and estimated loan payments, donation attribution and amount, etc.); demographic information (age, academic status, marital status, size of household, income, etc.); and marketing profile information (admissions date, graduation date, alumni status, parent, friend, etc.) We may also collect the names and email addresses of your friends and family, if you choose to provide UCLA with this information. Finally, we may obtain information from other sources and combine that with the information we collect directly from you.
 
-### Project Welcome SMS Code Terms of Service
+How We Use Your Information
 
-#### About [UCLA Project Welcome](http://prepare.admission.ucla.edu/) SMS Text Messages
-
-UCLA Project Welcome text messages provide information that informs, educates, guides and motivates students in grades 8-11 (minimum age 13 years for US; minimum age 16 years for EU and Canada) and their life influencers such as parents and guardians on the importance of planning for college, why college matters, how they can afford college, and what it takes to be a highly competitive applicant.
-
-#### How do I sign up for Project Welcome SMS Text Messages?
-
-Sign up by texting LEARN to the short code 82541. You will receive an SMS text message requesting you to confirm that you consent to receive text messages to Your Mobile Number. By signing up, you will receive approximately four (4) auto text messages per month.
-
-#### Is it free?
-
-Project Welcome SMS text messages are free but message and data rates may apply. Depending on your text plan, you may be charged by your carrier. By enrolling in the Project Welcome program, you certify that you are 13 or older and that (a) you are the mobile account holder or (b) you have the mobile account holder’s permission to do so.
-
-#### Opt Out
-
-To stop receiving only Project Welcome SMS Text messages, simply text STOP to the short code 82541. After doing so, you will receive a text message confirmation of your opt-out.
-
-#### What if I want to opt back in?
-
-You can start receiving Project Welcome SMS text messages by texting START to 82541.
-
-#### Help
-
-For help, simply text HELP to the short code 82541 or email [prepare@admission.ucla.edu](mailto:prepare@admission.ucla.edu)
-
-#### Privacy Policy
-
-The UCLA privacy policy is explained on this web page.
-
-### How We Use Your Information
-
-#### Non-Personal Information
+### Non-Personal Information
 
 Non-personal information is used to generate statistics and to measure site activity in order to improve the usefulness of the site for our visitors.
 
-#### Personal Information
+### Personal Information
 
 Personal information allows us to provide you with products, services and information and enables us to offer a customized experience on our Sites. We use personal information for the purposes described in this privacy policy or otherwise disclosed to you on our Sites. For example, personal information may be used to:
 
@@ -79,10 +55,9 @@ Personal information allows us to provide you with products, services and inform
 *   communicate with you about our classes, achievements, new contests, promotions, rewards, special offers, upcoming events and other news about UCLA and our selected partners;
 *   generate site analytics to improve our website and the user experience; and
 *   link or combine with personal information we get from third parties to help understand your needs and provide you with better service and information.
+*   UCLA may store and process personal information in the United States and other countries.
 
-UCLA may store and process personal information in the United States and other countries.
-
-### Sharing Your Information
+Sharing Your Information
 
 We do not share your personal information with third parties except as described in this privacy policy or as otherwise disclosed to you on our Sites. For example, we may share personal information as follows:
 
@@ -93,46 +68,38 @@ We do not share your personal information with third parties except as described
 
 We may also share aggregated or anonymous information that does not directly identify you.
 
-### Web Accessibility
-
-UCLA is committed to web accessibility for everyone.
-
-If you are experiencing a web accessibility issue, please contact the ADA/504 Office for further assistance by emailing [ada@saonet.ucla.edu](mailto:ada@saonet.ucla.edu) or calling (310) 206-8049.
-
-If you are a student and would like to file a disability-based discrimination grievance, please see [UCLA Procedure 230.2: Student Grievances Regarding Violations of Anti-Discrimination Laws or University Policies on Discrimination Based on Disability](http://www.adminpolicies.ucla.edu/app/Default.aspx?&id=230-2).
-
-### Your California Privacy Rights
+Your California Privacy Rights
 
 Under California's Shine the Light law, Cal. Civ. Code § 1798.83, California residents have the right to request and obtain, once per year, information regarding UCLA's disclosure of personal information to third parties for their own direct marketing purposes. To request a list of the categories of information UCLA has shared, and the names and addresses of such third parties, please send your request to:
 
-UCLA Records Management Office | 10920 Wilshire Blvd, Suite 530 | Los Angeles, CA 90095
+UCLA Records Management Office  
+10920 Wilshire Blvd, Suite 530  
+Los Angeles, CA 90095
 
-### Updating Your Information
+Opting Out and Correcting Your Information
 
-If you provided UCLA with personal information, you may review and update that information by logging into your online account.
+You may opt out of promotional emails and SMS from UCLA or change your preferences at any time. To opt out of SMS messages, you can also text UCLASTOP from the cell phone that you have registered with UCLA. In addition, you can opt out of receiving emails by following the instructions in those emails, but note that we may still send you non-opted-in emails, such as emails about your account or our ongoing business or academic relations. You may also request changes to your contact preferences and the personal information by writing to:
 
-### Opt Out Option and Correcting Your Information
+UCLA Records Management Office  
+10920 Wilshire Blvd, Suite 530  
+Los Angeles, CA 90095
 
-You may opt out of receiving promotional emails and SMS messages from UCLA at any time by visiting [https://www.ucla.edu/preferences](https://www.ucla.edu/preferences) and changing your communication preferences. To opt out of SMS messages, you can also text UCLASTOP from the cell phone that you have registered with UCLA. In addition, you can opt out of receiving emails by following the instructions in those emails, but note that we may still send you non-opted-in emails, such as emails about your account or our ongoing business or academic relations. You may also request changes to your contact preferences and the personal information by writing to:
-
-UCLA Records Management Office | 10920 Wilshire Blvd, Suite 530 | Los Angeles, CA 90095
-
-### Information Security
+Information Security
 
 We take reasonable measures to protect personal information in an effort to prevent loss, misuse and unauthorized access, disclosure, alteration and destruction.
 
-### Third Party Links
+Third-Party Links
 
-Our Sites may contain links to third party websites. This privacy policy does not apply to the linked sites, and we do not control, nor are we responsible for, the content or privacy and security practices of those sites. Any personal information you provide to a linked site is provided directly to a third party and is subject to such third party's privacy policy. We encourage you to learn more about such third party's privacy and security practices and policies before providing any of your personal information.
+Our Sites may contain links to third-party websites. This privacy policy does not apply to the linked sites, and we do not control, nor are we responsible for, the content or privacy and security practices of those sites. Any personal information you provide to a linked site is provided directly to a third party and is subject to such third party's privacy policy. We encourage you to learn more about such third party's privacy and security practices and policies before providing any of your personal information.
 
-### Contact Us
+Contact Us
 
-If you have any questions or concerns about this privacy policy, please use the [contact form](https://www.ucla.edu/contact-form) used to report technical issues.
+If you have any questions or concerns about this privacy policy, please [Contact Us](https://alb.www.ucla.edu/contact).
 
-### Privacy Policy Effective Date
+Privacy Policy Effective Date
 
 UCLA may change this privacy policy from time to time. If UCLA makes any changes to this policy, we will change the "Last Updated" date below.
 
-Last Updated: Nov. 30, 2017
+Last Updated: **Nov. 30, 2017**
 
-[Continue to Site Information](https://www.ucla.edu/site-information)
+[Continue to Site Information](https://alb.www.ucla.edu/site-information)
