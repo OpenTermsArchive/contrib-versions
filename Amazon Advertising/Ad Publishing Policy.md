@@ -17,9 +17,11 @@ Aperçu
 
 [1.3 Publicités gênantes](#distracting)
 
-[1.4 Fausses fonctionnalités](#distracting)
+[1.4 Fausses fonctionnalités](#fake-functionality)
 
 [1.5 Qualité d'image](#imagequality)
+
+[1.6 Images personnalisées Sponsored Display](#sponsoreddisplay-customimages)
 
 2.0 Texte publicitaire
 
@@ -33,7 +35,7 @@ Aperçu
 
 [2.3 Publicité comparative](#comparative)
 
-[2.4 Notes et commentaires client](#customerreviewsandratings)
+[2.4 Notes et commentaires client](https://advertising.amazon.com/resources/ad-policy/customerreviewsandratings)
 
 [2.4.1 Commentaires clients](#reviews)
 
@@ -69,7 +71,7 @@ Aperçu
 
 7.0 Contenu, produits et services soumis à des restrictions
 
-[7.0 Contenu, produits et services soumis à des restrictions](#Restrictedcps)
+[7.0 Contenu, produits et services soumis à des restrictions](#restrictedcps)
 
 [7.1 Alcool](#alcohol)
 
@@ -97,13 +99,13 @@ Aperçu
 
 [7.10 Rencontres en ligne](#dating)
 
-[7.11 Produits pharmaceutiques, de santé et de beauté](#pharma)
+[7.11 Produits pharmaceutiques, de santé et de beauté](#pharma)
 
 [7.11.1 Médicaments sur ordonnance](#rx)
 
 [7.11.2 Médicaments en vente libre](#otc)
 
-[7.11.3 Lait maternisé en Europe](#formula)
+[7.11.3 Laits pour bébés/nourrissons (Australie, Brésil, Europe et EAU)](#formula)
 
 [7.11.4 Érotisme et sensualité](#wellness)
 
@@ -127,25 +129,41 @@ Aperçu
 
 [7.13.3 Matériel militaire](#military)
 
-Aperçu
-------
+8.0 Politiques relatives aux publicités display pour la région MENA
 
-Chez Amazon Advertising, nous pensons qu'en plaçant la barre haut en matière d'expérience client pour les publicités que nous diffusons, nous pouvons vous faire obtenir de meilleurs résultats à vous, nos annonceurs. Par conséquent, nous avons défini des politiques publicitaires axées sur le client afin de préserver et d'améliorer cette expérience. Tout le contenu publicitaire doit être adapté à une audience générale et au type d'emplacement dans lequel il sera affiché. En tant qu'annonceur utilisant Amazon Advertising, il est de votre responsabilité de vous assurer que vos publicités et vous respectez toutes les lois, règles, réglementations et normes du secteur dans chaque région où les publicités sont susceptibles d'être diffusées. Vous devez être honnête au sujet des produits ou services dont vous faites la promotion et éviter tout contenu susceptible d'induire les clients en erreur ou de les offenser. Nos politiques ne sont pas destinées à constituer des conseils juridiques. Nous vous encourageons à consulter votre conseiller juridique si vous avez des questions sur les lois et réglementations relatives à vos publicités.  
+[8.0 Politiques relatives aux publicités display pour la région MENA](#mena)
+
+[8.1 Restrictions en matière de contenu](#mena-contentrestrictions)
+
+[8.1.1 Normes culturelles et sociales](#mena-culturalandsocial)
+
+[8.1.2 Politique](#mena-politics)
+
+[8.1.3 Religion](#mena-religion)
+
+[8.2 Instructions en matière d'images](#mena-imageguidelines)
+
+[8.2.1 Nudité partielle](#mena-partialnudity)
+
+[8.2.2 Autres images sensibles](#mena-othersensitive)
+
+[8.3 Restrictions en matière de catégorie de produits](#mena-productcategory)
+
+### Aperçu
+
+Chez Amazon Advertising, nous pensons qu'en plaçant la barre haut en matière d'expérience client pour les publicités que nous diffusons, nous vous aidons à obtenir de meilleurs résultats à vous, nos annonceurs. Par conséquent, nous avons défini des politiques publicitaires axées sur le client afin de contribuer à préserver et à améliorer cette expérience. Tout le contenu publicitaire doit être adapté à une audience générale et au type d'emplacement dans lequel il sera affiché. En tant qu'annonceur utilisant Amazon Advertising, il est de votre responsabilité de vous assurer que vos publicités et vous respectez toutes les lois, règles, réglementations et normes du secteur dans chaque région où les publicités sont susceptibles d'être diffusées. Vous devez être honnête au sujet des produits ou services dont vous faites la promotion et éviter tout contenu susceptible d'induire les clients en erreur ou de les offenser. Nos politiques ne sont pas destinées à constituer des conseils juridiques. Nous vous encourageons à consulter votre conseiller juridique si vous avez des questions sur les lois et réglementations relatives à vos publicités.  
   
 Ces politiques publicitaires s'appliquent à l'activité mondiale de publicité display d'Amazon Advertising, tant pour les emplacements sur les propriétés possédées et exploitées sur Amazon qu'en dehors d'Amazon. Des politiques publicitaires distinctes s'appliquent aux [publicités sponsorisées](https://advertising.amazon.com/resources/ad-policy/sponsored-ads-policies?ref_=a20m_us_spcs_cap_spcs_sacap), aux [publicités pour les livres](https://advertising.amazon.com/resources/ad-policy/book-ads?ref_=a20m_us_spcs_cap_spcs_bkad) et aux [Stores](https://advertising.amazon.com/resources/ad-policy/stores?ref_=a20m_us_spcs_cap_spcs_stcap). Pour découvrir les exigences techniques, veuillez consulter la section [caractéristiques de la publicité](https://advertising.amazon.com/resources/ad-specs?ref_=a20m_us_spcs_cap_spcs).  
   
-Amazon se réserve le droit de refuser, de supprimer ou de demander à modifier une publicité à sa seule discrétion, pour quelque raison que ce soit. Amazon peut suspendre ou résilier votre ou vos comptes publicitaires en cas de violations graves ou répétées de la politique en matière de publicité. Pour les politiques nécessitant une approbation préalable d'Amazon, veuillez contacter votre équipe de support client appropriée.  
+Amazon se réserve le droit de refuser, de supprimer ou de demander à modifier une publicité à sa seule discrétion, pour quelque raison que ce soit. Amazon peut suspendre ou résilier votre ou vos comptes publicitaires en cas de violations graves ou répétées de la politique en matière de publicité. Tous les exemples sont donnés à titre indicatif. Amazon se réserve le droit de rejeter les campagnes qui ne respectent pas ses politiques pour des raisons déterminées à sa seule discrétion. Pour les politiques nécessitant une approbation préalable d'Amazon, veuillez contacter votre équipe de support client appropriée.  
   
 Nous mettons régulièrement nos politiques à jour. Veuillez consulter régulièrement cette page pour vous assurer que vous êtes toujours au fait de nos dernières exigences en matière de politique.  
   
-Dans le présent document, les termes « vous/votre » se rapportent aux annonceurs, « publicités sur Amazon » se rapportent aux emplacements publicitaires sur les propriétés possédées et exploitées par Amazon et « publicités en dehors d'Amazon » se rapportent à Amazon DSP hors site.
-
+Dans le présent document, les termes « vous/votre » se rapportent aux annonceurs, « publicités sur Amazon » se rapportent aux emplacements publicitaires sur les propriétés possédées et exploitées par Amazon et « publicités en dehors d'Amazon » se rapportent à Amazon DSP hors site.  
+  
 Pour découvrir un aperçu des politiques répondant aux questions fréquemment posées, veuillez consulter notre [guide de référence rapide](https://advertising.amazon.com/resources/ad-policy/quick-reference?ref_=a20m_us_spcs_cap_spsc_qkrf). Remarque : ce guide n'a pas pour but de donner un aperçu complet de toutes les politiques publicitaires. Il met en évidence certaines politiques publicitaires clés qui se présentent couramment.  
   
 Pour consulter les dernières mises à jour de ces politiques, veuillez consulter notre [journal des modifications de la politique en matière de publicité](https://advertising.amazon.com/resources/ad-policy/creative-acceptance/ad-policy-change-log?ref_=a20m_us_spcs_cap_spcs_chnglg).
-
-I. Politiques centrales
------------------------
 
 ### 1.0 Instructions générales relatives aux créations
 
@@ -173,14 +191,14 @@ Les publicités qui occupent une grande partie de l'écran (telles que les publi
 
 ### 1.3 Publicités gênantes
 
-Les fonctionnalités d'animation et autres éléments interactifs des publicités doivent être engageantes et améliorer l'expérience client sans le distraire ou l'induire en erreur.  
+Les fonctionnalités d'animation et autres éléments interactifs des publicités doivent susciter l'intérêt du client et améliorer son expérience sans le distraire ou l'induire en erreur.  
   
 Les fonctionnalités distrayantes interdites incluent, sans s'y limiter :
 
 *   les objets, images ou textes scintillants, clignotants ou vibrants ;
 *   les transitions de contraste fréquentes ou rapides (par exemple, des images passant plusieurs fois du blanc au noir) ;
 *   les animations excessives (par exemple, des changements d'image se produisant toutes les 1 ou 2 secondes ou les objets visuels de l'animation semblant se déplacer constamment) ;
-*   mes animations imitant une interaction de l'utilisateur, telle que le déplacement du curseur de la souris ou le clic sur des boutons.
+*   les animations imitant une interaction de l'utilisateur, telle que le déplacement du curseur de la souris ou le clic sur des boutons.
 
 ### 1.4 Fausses fonctionnalités
 
@@ -193,6 +211,47 @@ Les éléments publicitaires avec lesquels un client s'attend généralement à 
 Les images incluses dans les publicités doivent respecter les restrictions de taille, de résolution et de type de fichier spécifiées par taille/emplacement (consultez les [caractéristiques de la publicité](https://advertising.amazon.com/resources/ad-specs?ref_=a20m_us_spcs_cap_spcs) pour plus de détails).  
   
 Les images interdites de faible qualité incluent, sans s'y limiter, les images surchargées comportant trop d'objets visuels pour une création, floues, déformées, basse résolution, pixelisées, tachetées ou étirées.
+
+### 1.6 Images personnalisées Sponsored Display
+
+Les images personnalisées vous permettent d'inclure dans votre publicité des images captivantes qui représentent vos produits ou votre marque en contexte, ou dans une mise en scène « mode de vie ». Les images ne doivent pas être en contradiction avec la page de destination et doivent être en haute résolution, de qualité et esthétiques. Les images ne doivent pas :
+
+*   représenter des produits multiples ou individuels sur un fond opaque ou transparent ;
+*   représenter un logo de marque individuel ou une combinaison de logos ;
+*   être l'une de vos images produits sélectionnées ;
+*   contenir des éléments encombrés, excessifs, mal recadrés ou illisibles ;
+*   contenir du texte supplémentaire autre que le texte naturellement présent dans l'image (par exemple sur l'emballage du produit) ;
+*   être au format « Pillarbox » ou « Letterbox ».
+
+Pour plus d'informations, reportez-vous ci-dessous aux exemples d'images et à la section [Comment élaborer des créations de marque pour susciter l'intérêt des acheteurs Amazon](https://advertising.amazon.com/resources/ad-specs/how-to-build-brand-creatives-to-engage-amazon-shoppers?ref_=a20m_us_spcs_cap_bcag).  
+  
+**Images de produits individuels et multiples :**
+
+![](https://m.media-amazon.com/images/G/01/AdProuctsWebsite/2Finaltjkar._CB444698662_._BL10_._TTW_.png)
+
+image d'un produit individuel ;
+
+![](https://m.media-amazon.com/images/G/01/AdProuctsWebsite/4Finaltjkar._CB444698656_._BL10_._TTW_.png)
+
+images de produits multiples.
+
+**Logos individuels et multiples :**
+
+![](https://m.media-amazon.com/images/G/01/AdProuctsWebsite/6Finaltjkar._CB444698662_._BL10_._TTW_.png)
+
+logos de marque multiples.
+
+**Images de texte et images encombrées :**
+
+![](https://m.media-amazon.com/images/G/01/AdProductsWebsite/images/AUX/10finaltjkar.-CB444702040._BL10_._TTW_.jpg)
+
+texte de l'image.
+
+**Formats « Letterbox » ou « Pillarbox » :**
+
+![](https://m.media-amazon.com/images/G/01/AdProductsWebsite/images/AUX/9finaltjkar.-CB444698685._BL10_._TTW_.jpg)
+
+Image au format « Pillarbox ».
 
 ### 2.0 Texte publicitaire
 
@@ -212,9 +271,9 @@ Vous trouverez [ici](https://advertising.amazon.com/resources/ad-policy/creative
 
 Exigences supplémentaires en matière d'appel à l'action par produit publicitaire
 
-*   [Publicités e-commerce.](https://advertising.amazon.com/resources/ad-specs/ecommerce)
-*   [Appareil mobile sur Amazon.](https://advertising.amazon.com/resources/ad-specs/mobile-shopping)
-*   [Multimédia non standard](https://advertising.amazon.com/resources/ad-specs/custom-media/?ref_=a20m_us_spcs_nsm)
+*   [Publicités e-commerce.](https://advertising.amazon.com/resources/ad-specs/ecommerce?ref_=a20m_us_spcs_cap_spcs_ecm)
+*   [Appareil mobile sur Amazon.](https://advertising.amazon.com/resources/ad-specs/mobile-shopping?ref_=a20m_us_spcs_cap_spcs)
+*   [Multimédia non standard](https://advertising.amazon.com/resources/ad-specs/custom-media?ref_=a20m_us_spcs_cap_spcs_nsm)
 
 ### 2.2 Allégations et justifications
 
@@ -238,20 +297,22 @@ JP : À compter du 1er avril 2021, la tarification doit inclure la taxe à la
   
 Les allégations de tarification et promotionnelles doivent :
 
-*   être cohérentes dans toute la publicité et sur la page de destination. Si la publicité fait la promotion d'une réduction en pourcentage (par exemple, « 10 % de réduction »), la page de destination doit également faire référence à cette réduction en pourcentage et pas uniquement au montant économisé en dollars. Si l'allégation incluse dans la publicité devient inexacte en raison de la tarification dynamique sur la page de destination, les créations doivent être suspendues et mises à jour pour contenir des allégations justifiées. Par exemple, « Économisez XX $ ou plus » ou « Économisez jusqu'à XX % ».
+*   être cohérentes dans toute la publicité et sur la page de destination ; Si la publicité fait la promotion d'une réduction en pourcentage (par exemple, « 10 % de réduction »), la page de destination doit également faire référence à cette réduction en pourcentage et pas uniquement au montant économisé en dollars. Si l'allégation incluse dans la publicité devient inexacte en raison de la tarification dynamique sur la page de destination, les créations doivent être suspendues et mises à jour pour contenir des allégations justifiées. Par exemple, « Économisez XX $ ou plus » ou « Économisez jusqu'à XX % ».
 *   spécifier si le montant varie entre plusieurs des produits promus (par exemple, « Économisez jusqu'à X % sur certains produits ») ;
 *   être utilisées dans le bon contexte ; Par exemple, utilisez des expressions comme « offre à durée limitée » pour les promotions limitées dans le temps.
 *   utiliser les allégations saisonnières uniquement pendant la période promotionnelle pertinente ; Par exemple, les « Offres de la rentrée » ou les « Prix spéciaux pour la Saint-Valentin » ne sont acceptables que pendant les périodes précédant le début de l'année scolaire ou la Saint-Valentin.
 *   être fournies aux clients à l'avance. Les clients n'ont pas à effectuer des tâches superflues, comme participer à des jeux intégrés aux bannières, à des quiz ou à des sondages pour être éligibles à une offre spéciale.
 
-**Publicités de voyages**  
-Les prix dans les publicités pour les services de voyages doivent toujours être indiqués comme suit : « À partir de X $ », en raison de la probabilité de fluctuations des prix. Par exemple, « Envolez-vous vers Dublin à partir de 40 £ » plutôt que « Envolez-vous vers Dublin pour 40 £ ».
+**Publicités de voyages  
+**Les prix dans les publicités pour les services de voyages doivent toujours être indiqués comme suit : « À partir de X $ », en raison de la probabilité de fluctuations des prix. Par exemple, « Envolez-vous vers Dublin à partir de 40 £ » plutôt que « Envolez-vous vers Dublin pour 40 £ ».
 
 ### 2.3 Publicité comparative
 
 Les publicités sur Amazon ne peuvent pas mentionner explicitement vos concurrents. Les publicités peuvent inclure des références à une « marque phare » ou employer une autre formulation générique.  
   
-Les publicités en dehors d'Amazon peuvent inclure des comparaisons avec des concurrents désignés tant qu'elles ne critiquent ni n'attaquent pas ces concurrents.
+Les publicités en dehors d'Amazon peuvent inclure des comparaisons avec des concurrents désignés tant qu'elles ne critiquent ni n'attaquent pas ces concurrents.  
+  
+En ce qui concerne les publicités au Danemark, faire référence à une « marque leader » n'est pas autorisé s'il est évident que cette marque est leader de son secteur.
 
 ### 2.4 Notes et commentaires client
 
@@ -263,7 +324,7 @@ Lorsque cela est permis, les commentaires clients doivent :
 
 *   être authentiques et ne pas être influencés ou rémunérés ;
 *   être liés au produit spécifique faisant l'objet de la publicité (par exemple, vous ne pouvez pas utiliser un commentaire client pour la version 16 Go d'un smartphone dans une publicité pour la version 32 Go) ;
-*   être consultables à partir de la page de destination (soit parce qu'ils sont présents sur la page produit, soit en cliquant sur « Voir tous les commentaires ») ;
+*   être consultables depuis la page de destination (soit parce qu'ils sont présents sur la page produit, soit en cliquant sur « Afficher tous les commentaires ») ;
 *   ne doivent pas être modifiés, y compris du point de vue de la correction des erreurs grammaticales (mais vous devez éviter les commentaires incluant des fautes d'orthographe grossières ou des erreurs grammaticales importantes) ;
 
 *   les troncations ne doivent pas modifier le sens du commentaire ;
@@ -275,7 +336,7 @@ Lorsque cela est permis, les commentaires clients doivent :
 *   ne pas comparer le produit en promotion à un produit concurrent en utilisant son nom ;
 *   ne pas inclure de références à des affections médicales, d'injures, d'émojis ou d'autres caractères spéciaux.
 
-Les extraits de commentaires client sont pris en charge par les publicités e-commerce dynamiques (consultez les caractéristiques et instructions [ici](https://advertising.amazon.com/resources/ad-specs/ecommerce?ref_=a20m_us_spcs_cap_spcs_ecm)).
+Les extraits de commentaires client sont pris en charge par les publicités e-commerce dynamiques (consultez les caractéristiques et instructions [ici](https://advertising.amazon.com/en-us/resources/ad-specs/ecommerce?ref_=a20m_us_spcs_cap_spcs_ecm)).
 
 #### 2.4.2 Notes
 
@@ -293,7 +354,7 @@ Les avertissements doivent être exacts, lisibles (à la fois en taille et en co
   
 Les barres de défilement manuelles (pas les barres de défilement automatiques) sont autorisées sur les emplacements d'ordinateur (pas d'appareils mobiles), sauf sur les pages d'accueil.  
   
-Les avertissements doivent respecter les caractéristiques énumérées ci-dessous (voir « Tailles de police minimales ») et dans nos [caractéristiques de la publicité](https://advertising.amazon.com/resources/ad-specs?ref_=a20m_us_spcs_cap_spcs).
+Les avertissements doivent respecter les caractéristiques énumérées ci-dessous (voir « Tailles de police minimales ») et dans nos [caractéristiques de la publicité](https://advertising.amazon.com/en-us/resources/ad-specs?ref_=a20m_us_spcs_cap_spcs).
 
 ### 2.6 Instructions rédactionnelles
 
@@ -309,7 +370,7 @@ Les caractères spéciaux tels que @@, ###, les émojis, sauf s'ils font partie 
   
 Un texte de publicité utilisant un langage personnalisé (tel que « vous/votre ») susceptible de faire penser à un client que vous vous adressez directement à lui et de le mettre mal à l'aise. Par exemple, un texte de publicité comme « Utilisez notre produit pour résoudre vos problèmes d'incontinence. » ou « Vous êtes en surpoids. Utilisez notre complément alimentaire ».  
   
-Un texte de publicité qui mentionne ou sous-entend les critères de ciblage utilisés pour la campagne. Par exemple, un texte de publicité comme : « Vous avez apprécié votre récent achat de \[produit\] ? Essayez notre nouveau modèle ».  
+Un texte de publicité qui mentionne ou sous-entend les critères de ciblage utilisés pour la campagne. Par exemple, un texte de publicité comme : « Vous avez apprécié votre récent achat de \[produit\] ? Essayez notre nouveau modèle ».  
   
 Une incohérence entre le texte de la publicité et la page de destination. Vous devez présenter la même offre ou le même produit dans le texte de votre publicité que sur votre page de destination. Par exemple, nous interdirions la publicité dont le texte serait « Faites des économies sur les produits ménagers » si celle-ci inclut l'image d'un liquide vaisselle, mais redirige vers une page de destination présentant des aspirateurs.  
   
@@ -347,76 +408,73 @@ Les éléments suivants doivent toujours être rédigés dans la langue principa
 
 ### 2.9 Tailles de police et nombre maximal de mots
 
-Les publicités sont diffusées sur de nombreux types d'écrans et dans plusieurs tailles. Les exigences en matière de taille de police et de nombre de mots minimum garantissent que le texte des publicités est lisible sur des écrans de type, de taille et de résolution variables. Veuillez consulter la section relative aux [caractéristiques de la publicité](https://advertising.amazon.com/ad-specs?ref_=a20m_us_spcs_cap_spcs) pour plus de détails.  
+Les publicités sont diffusées sur de nombreux types d'écrans et dans plusieurs tailles. Les exigences en matière de taille de police et de nombre de mots minimum garantissent que le texte des publicités est lisible sur des écrans de type, de taille et de résolution variables. Veuillez consulter la section relative aux [caractéristiques de la publicité](https://advertising.amazon.com/resources/ad-specs?ref_=a20m_us_spcs_cap_spcs) pour plus de détails.  
   
-Les publicités doivent être lisibles. Le texte doit être assez grand pour être lisible par le client lambda. Les publicités ne peuvent pas utiliser la même couleur ou des couleurs similaires pour le texte et l'arrière-plan, car le texte ne serait pas lisible (par exemple, un texte blanc sur un fond gris clair).
-
-Nous exigeons que les tailles de police des formats publicitaires standard pour ordinateurs et appareils mobiles soient de taille égale aux valeurs suivantes.
-
+Les publicités doivent être lisibles. Le texte doit être assez grand pour être lisible par le client lambda. Les publicités ne peuvent pas utiliser la même couleur ou des couleurs similaires pour le texte et l'arrière-plan, car le texte ne serait pas lisible (par exemple, un texte blanc sur un fond gris clair).  
+  
+Nous exigeons que les tailles de police des formats publicitaires standard pour ordinateurs et appareils mobiles soient de taille égale aux valeurs suivantes.  
+  
 Alphabet latin
 
 |     | **Ordinateur** | **Appareil mobile** | **Tablette** |
 | --- | --- | --- | --- |
-| **Texte de la publicité** | Arial entre 12 et 25 points ou équivalent | Arial 16 points minimum ou équivalent (résolution x2) | Arial entre 32 et 50 points ou équivalent (résolution x2) |
+| **Texte de la publicité** | Arial entre 12 et 25 points ou équivalent | Arial 16 points minimum ou équivalent (résolution x2) | Arial entre 32 et 50 points ou équivalent (résolution x2) |
 
 Japonais
 
 |     | **Ordinateur** | **Appareil mobile** |
 | --- | --- | --- |
-| **Texte de la publicité** | UD Shin Go entre 9,5 et 45 points ou équivalent | 640 × 100 : UD Shin Go 16 points minimum ou équivalent (résolution x2)  <br>  <br>600 × 500 : UD Shin Go entre 16 et 90 points ou équivalent (résolution x2)  <br>  <br>1 242 × 375 : UD Shin Go 40 points minimum ou équivalent (résolution x3) |
+| **Texte de la publicité** | UD Shin Go entre 9,5 et 45 points ou équivalent | 640 × 100 : UD Shin Go 16 points minimum ou équivalent (résolution x2)  <br>  <br>600 × 500 : UD Shin Go entre 16 et 90 points ou équivalent (résolution x2)  <br>  <br>1 242 × 375 : UD Shin Go 40 points minimum ou équivalent (résolution x3) |
 
 Des exigences spécifiques en matière de taille de police et de nombre de mots s'appliquent aux emplacements et formats suivants :
 
 Exigences en matière d'emplacements ou de formats spécifiques à la taille de police ou du nombre de mots
 
-*   [Kindle avec offres spéciales](https://advertising.amazon.com/resources/ad-specs/kindle?ref_=a20m_us_spcs_cap)
+*   [Kindle avec offres spéciales](https://advertising.amazon.com/resources/ad-specs/kindle?ref_=a20m_us_spcs_cap_spcs_kndl)
 *   [Fire TV](https://advertising.amazon.com/resources/ad-specs/fire-tv/inline?ref_=a20m_us_spcs_cap_spcs_ftv_inl)
-*   [Fire tablette avec offres spéciales](https://advertising.amazon.com/resources/ad-specs/fire-tablet?ref_=a20m_us_spcs_cap)
-*   [Achat Amazon Mobile](https://advertising.amazon.com/resources/ad-specs/mobile-shopping?ref_=a20m_us_spcs_cap)
-*   [Publicités e-commerce dynamiques.](https://advertising.amazon.com/resources/ad-specs/ecommerce?ref_=a20m_us_spcs_cap)
-*   [Publicités Seller Central](https://advertising.amazon.com/resources/ad-specs/custom-media/seller-central?ref_=a20m_us_spcs_cap)
-*   [Publicités avec mise en avant aspirationnelle](https://advertising.amazon.com/resources/ad-specs/custom-media/marquee?ref_=a20m_us_spcs_cap)
-*   [Billboard below the fold (BTF)](https://advertising.amazon.com/resources/ad-specs/custom-media/billboard-btf?ref_=a20m_us_spcs_cap)
-*   [Publicités vidéo Amazon](https://advertising.amazon.com/resources/ad-specs/custom-media/amazon-video-ads?ref_=a20m_us_spcs_cap)
+*   [Fire tablette avec offres spéciales](https://advertising.amazon.com/resources/ad-specs/fire-tablet?ref_=a20m_us_spcs_cap_spcs_ftbl)
+*   [Achat Amazon Mobile](https://advertising.amazon.com/resources/ad-specs/mobile-shopping?ref_=a20m_us_spcs_cap_spcs_mbs)
+*   [Publicités e-commerce dynamiques.](https://advertising.amazon.com/resources/ad-specs/ecommerce?ref_=a20m_us_spcs_cap_spcs_ecm)
+*   [Publicités Seller Central](https://advertising.amazon.com/resources/ad-specs/custom-media/seller-central?ref_=a20m_us_spcs_cap_spcs_sc)
+*   [Billboard below the fold (BTF)](https://advertising.amazon.com/resources/ad-specs/custom-media/billboard-btf?ref_=a20m_us_spcs_cap_spcs_cstmmd_bbtf)
+*   [Publicités vidéo Amazon](https://advertising.amazon.com/en-us/resources/ad-specs/custom-media/amazon-video-ads?ref_=a20m_us_spcs_cap_spcs_ava)
 
 ### 2.10 Langage contraignant
 
 Amazon interdit le langage contraignant afin d'éviter de créer un sentiment d'urgence susceptible de perturber l'expérience d'achat du client.  
   
-Les publicités doivent engager les clients sans faire mine de crier ou de faire pression sur eux.  
+Les publicités doivent susciter l'intérêt des clients sans faire mine de crier ou d'exercer une pression sur eux.  
   
 Les publicités ne doivent pas inclure :
 
-*   Un langage exerçant une pression sur le client et qui crée un sentiment d'urgence (par exemple, « Dépêchez-vous avant que le stock ne soit épuisé »).
-*   Répétition de points d'exclamation ou de points d'interrogation (par exemple, « !!! »).
-*   Tout type de ponctuation finale dans les appels à l'action (par exemple, « Acheter maintenant ! » ou « En savoir plus ? »).
-*   Toute combinaison de deux ou plusieurs des éléments suivants : texte rédigé ENTIÈREMENT EN MAJUSCULES, signes de ponctuation, polices de grande taille (par exemple, « OFFRES D'ÉTÉ À NE PAS MANQUER ! »).
+*   un langage exerçant une pression sur le client et qui crée un sentiment d'urgence (par exemple, « Dépêchez-vous avant que le stock ne soit épuisé ») ;
+*   de répétition de points d'exclamation ou de points d'interrogation (par exemple, « !!! ») ;
+*   tout type de ponctuation finale dans les appels à l'action (par exemple, « Acheter maintenant ! » , ou « En savoir plus ? ») ;
+*   toute combinaison de deux ou plusieurs éléments parmi les suivants : texte rédigé ENTIÈREMENT EN MAJUSCULES, signes de ponctuation, polices de grande taille (par exemple, « OFFRES D'ÉTÉ À NE PAS MANQUER ! »).
 
-3.0 Éléments de marque Amazon
------------------------------
+### 3.0 Éléments de marque Amazon
 
 Les publicités ne doivent pas imiter le contenu Amazon. Toute utilisation de marques commerciales Amazon ou toute autre référence à Amazon ou à ses produits doit respecter les [instructions d'utilisation de la marque](https://advertising.amazon.com/resources/ad-policy/brand-usage?ref_=a20m_us_spcs_cap_spcs_brdusg).  
   
 Nous interdisons l'utilisation de « Amazon's choice », de « Meilleures ventes d'Amazon » et du classement Amazon dans les publicités statiques, car ces éléments sont actualisés fréquemment et peuvent ne pas refléter la réalité tout au long de la campagne.
 
-4.0 Animation et vidéo
-----------------------
+### 4.0 Animation et vidéo
 
-Les publicités doivent respecter les exigences des [caractéristiques de la publicité](https://advertising.amazon.com/resources/ad-specs?ref_=a20m_us_spcs_cap) pour les publicités animées et les publicités vidéo.
+Les publicités doivent respecter les [exigences des caractéristiques de la publicité](https://advertising.amazon.com/resources/ad-specs?ref_=a20m_us_spcs_cap_spcs) pour les publicités animées et les publicités vidéo.
 
-### Publicités animées
+#### Publicités animées
 
 *   Durée maximum de l'animation pour les emplacements sur site : 15 secondes (30 secondes en France).
 
 *   La durée maximale des publicités Amazon DSP non diffusées sur Amazon est de 30 secondes.
 
 *   L'animation initiale peut être diffusée au maximum trois fois au cours de la durée spécifiée ci-dessus (15 ou 30 secondes).
-*   Veuillez consulter les sections portant sur les [caractéristiques des bannières publicitaires sur appareils mobiles de la console Amazon DSP](https://advertising.amazon.com/resources/ad-specs/dsp/mobile-banners?ref_=a20m_us_spcs_cap#creative-guidelines) et les [créations e-commerce](https://advertising.amazon.com/resources/ad-specs/ecommerce?ref_=a20m_us_spcs_cap) pour découvrir quelles sont les publicités animées prises en charge en fonction de l'emplacement.
+*   Veuillez consulter les sections portant sur les [caractéristiques des bannières publicitaires sur appareils mobiles de la console Amazon DSP](https://advertising.amazon.com/en-us/resources/ad-specs/dsp/mobile-banners?ref_=a20m_us_spcs_cap_spcs_dsp_mblbn) et les [créations e-commerce](https://advertising.amazon.com/resources/ad-specs/ecommerce?ref_=a20m_us_spcs_cap_spcs_ecm) pour découvrir quelles sont les publicités animées prises en charge en fonction de l'emplacement.
 *   Brésil : les publicités pour les produits destinés aux enfants (par exemple, un sac d'école, un jeu ou un jouet) ne peuvent pas inclure d'animation.
 
-### Publicités vidéo
+#### Publicités vidéo
 
-#### Lecture automatique
+##### Lecture automatique
 
 *   Les boutons Lecture/Pause, Stop et Muet sont obligatoires pour les vidéos de plus de 15 secondes.
 *   Durée du flux vidéo :
@@ -426,7 +484,7 @@ Les publicités doivent respecter les exigences des [caractéristiques de la pub
 *   Publicités vidéo sur une Fire tablette : jusqu'à 15 secondes.
 *   Vidéo Amazon DSP : au moins 5 secondes.
 
-*   Le son doit être démarré par le client qui clique ou appuie sur le bouton de lecture (ce qui signifie que les publicités en lecture automatique doivent démarrer en mode silencieux).
+*   Le son doit être démarré par le client en cliquant ou en appuyant sur le bouton de lecture (ce qui signifie que les publicités en lecture automatique doivent démarrer en mode silencieux).
 
 *   L'utilisation de rollovers pour démarrer le son est interdite.
 *   Lorsque le son est activé par le client, un bouton Muet est nécessaire.
@@ -441,12 +499,11 @@ Les publicités doivent respecter les exigences des [caractéristiques de la pub
 
 Exigences relatives aux emplacements ou aux formats
 
-*   [Publicités vidéo Amazon](https://advertising.amazon.com/resources/ad-specs/custom-media/amazon-video-ads?ref_=a20m_us_spcs_cap)
-*   [Vidéo en ligne Amazon DSP.](https://advertising.amazon.com/resources/ad-specs/dsp/video?ref_=a20m_us_spcs_cap)
+*   [Publicités vidéo Amazon](https://advertising.amazon.com/resources/ad-specs/custom-media/amazon-video-ads?ref_=a20m_us_spcs_cap_spcs_ava)
+*   [Vidéo en ligne Amazon DSP.](https://advertising.amazon.com/resources/ad-specs/dsp/video?ref_=a20m_us_spcs_cap_spcs_dsp_va)
 *   [IMDb](https://advertising.amazon.com/resources/ad-specs/imdb?ref_=a20m_us_spcs_cap_spcs_imdb)
 
-5.0 Contenu interdit
---------------------
+### 5.0 Contenu interdit
 
 Contenu interdit pour toutes les publicités
 
@@ -469,10 +526,9 @@ Contenu interdit pour toutes les publicités
 *   Contenu menaçant, injurieux, relevant du harcèlement, ou contenu qui prône ou s'oppose à un groupe protégé (que ce soit pour des critères de race, de couleur de peau, de nationalité, de religion, de handicap, de sexe, d'orientation sexuelle, d'âge ou toute autre catégorie similaire).
 *   Contenu enfreignant nos instructions rédactionnelles.
 
-6.0 Produits et services interdits
-----------------------------------
+### 6.0 Produits et services interdits
 
-Produits et services ne pouvant pas être promus
+Produits et services ne pouvant pas faire l'objet d'une promotion
 
 *   Peinture aérosol.
 *   Lanceurs d'airsoft, pistolets à billes, lanceurs de paintball.
@@ -480,11 +536,11 @@ Produits et services ne pouvant pas être promus
 *   Produits antiradiation (y compris les produits de protection contre les champs électromagnétiques et de neutralisation ou de protection contre les radiations).
 *   Sites de coupons.
 *   Cryptomonnaies.
-*   Services d'escorte, de rencontres pour adultes, sex toys et gadgets.
+*   Services d'escorte, de rencontres pour adultes, sex toys et produits dérivés.
 *   Crèmes de gravure.
 *   Brûleurs de graisse et inhibiteurs d'absorption des graisses.
 *   Cliniques de fertilité et recherche sur la fertilité.
-*   eBooks autres que Kindle gratuits (sauf sur Seller Central).
+*   eBooks gratuits autres que Kindle (sauf sur Seller Central).
 *   Méthodes pour faire fortune rapidement et schémas pyramidaux.
 *   Certificats de sécurité pour les armes de poing.
 *   Drogues illicites et récréatives, accessoires liés aux drogues, équipement de dépistage de drogue ou produits destinés à fausser les tests de dépistage de drogues.
@@ -503,28 +559,28 @@ Produits et services ne pouvant pas être promus
 *   Produits, services, technologies ou contenus de sites Web qui i) enfreignent, encouragent ou permettent la violation de la propriété intellectuelle ou des droits individuels d'autrui, ou ii) promeuvent toute activité illégale ou dangereuse, y compris les services de faux documents, les produits de créateurs contrefaits, les désembrouilleurs de câble, les feux d'artifice, ou des sites Web qui font la promotion du piratage ou du contournement de l'application de la loi.
 *   Voyants et contenu lié.
 *   Services religieux ou spirituels.
-*   Prêts à court terme à taux d'intérêt élevé avec une période de remboursement inférieure à 12 mois et un taux de financement annuel de plus de 50 %.
+
+*   Allemagne, Danemark, Finlande, France, Pays-Bas, Norvège et Suède : le contenu faisant la promotion de la scientologie ou de la dianétique (par exemple, les livres publiés par L. Ron Hubbard).
+
+*   Les prêts à court terme à taux d'intérêt élevé avec une période de remboursement inférieure à 12 mois et un taux de financement annuel de plus de 50 % (ou 25 % au Danemark).
 *   Tatouage et branding sur le corps.
 *   Revendeurs de billets (Australie uniquement).
 *   Services et équipements de bronzage aux UV.
 *   Armes.
 
-II. Catégories soumises à restriction
--------------------------------------
-
 ### 7.0 Contenu, produits et services soumis à des restrictions
 
 Amazon autorise la publicité pour toutes les catégories de cette section avec les limitations spécifiques décrites ci-dessous. Lors de la création de ces politiques, Amazon a pris en compte les bonnes pratiques du secteur, les lois et réglementations régionales, les caractéristiques des produits et les objectifs commerciaux spécifiques à Amazon. En tant qu'annonceur, vous êtes responsable de respecter les lois, réglementations et bonnes pratiques applicables.
 
-#### 7.1 Alcool
+### 7.1 Alcool
 
-Les politiques de cette section s'appliquent aux publicités pour la vente de boissons alcoolisées (bière, vin et spiritueux) et aux campagnes de promotion de l'image de marque des sociétés de boissons alcoolisées (soit les campagnes menées par des sociétés de boissons alcoolisées ne faisant pas la promotion de la vente de boissons alcoolisées, comme des gadgets ou des commandites).  
+Les politiques de cette section s'appliquent aux publicités pour la vente de boissons alcoolisées (bière, vin et spiritueux) et aux campagnes de branding des sociétés de boissons alcoolisées (soit les campagnes menées par des sociétés de boissons alcoolisées ne faisant pas la promotion de la vente de boissons alcoolisées, comme des produits dérivés ou des parrainages).  
   
 Les publicités pour de l'alcool ne peuvent être diffusées que dans les pays suivants : Allemagne, Australie, Belgique, Brésil, Canada, Espagne, France, Italie, Japon, Luxembourg, Mexique, Pays-Bas et Royaume-Uni. Veuillez consulter les sections ci-dessous pour prendre connaissance des exigences applicables aux publicités pour de l'alcool dans les pays autorisés.  
   
 Les publicités pour l'alcool sont interdites en Inde, aux États-Unis et aux Émirats arabes unis.  
   
-Veuillez noter que cette politique ne s'applique pas au contenu lié à l'alcool apparaissant dans des publicités qui ne portent pas sur l'alcool (par exemple, une bande-annonce de film mettant en scène des acteurs consommant de l'alcool). Conformément à la politique en matière de contenus interdits, le contenu publicitaire ne doit pas encourager, glorifier ou dépeindre une consommation excessive d'alcool.  
+Veuillez noter que cette politique ne s'applique pas au contenu lié à l'alcool apparaissant dans des publicités qui ne portent pas sur l'alcool (par exemple, une bande-annonce de film mettant en scène des acteurs consommant de l'alcool). Conformément à la politique en matière de contenus interdits, le contenu publicitaire ne doit pas encourager, glorifier ou dépeindre une consommation excessive d'alcool.
 
 Exigences générales
 
@@ -558,6 +614,7 @@ Les publicités pour la vente d'alcool en Australie, au Canada, au Mexique et en
 
 *   Les publicités pour de la bière doivent inclure les avertissements suivants : en néerlandais, « Bier drink je met verstand » ou en français, « Une bière se déguste avec sagesse ».
 *   Les publicités pour toutes les autres boissons alcoolisées doivent inclure les avertissements suivants en néerlandais : « Ons vakmanschap drink je met verstand », ou en français : « Notre savoir-faire se déguste avec sagesse ».
+*   Période de diffusion : Les publicités pour de l'alcool ne peuvent être diffusées qu'entre 12h00 (midi) et 06h00.
 
 ##### Brésil
 
@@ -572,12 +629,12 @@ Les publicités pour la vente d'alcool en Australie, au Canada, au Mexique et en
 *   NÃO EXAGERE NO CONSUMO (« À consommer avec modération »)
 *   QUEM BEBE MENOS, SE DIVERTE MAIS (« Buvez moins, profitez plus »)
 *   SE FOR DIRIGIR NÃO BEBA (« Boire ou conduire, il faut choisir »)
-*   SERVIR BEBIDA ALCOÓLICA A MENOR DE 18 É CRIME (« La vente de boissons alcoolisées à des mineurs de moins de 18 ans est un crime »)
+*   SERVIR BEBIDA ALCOÓLICA A MENOR DE 18 É CRIME (« La vente de boissons alcoolisées à des mineurs est un crime »)
 
 *   Les publicités pour de la bière doivent inclure l'un des avertissements cités ci-dessus ou ci-dessous :
 
 *   CERVEJA É BEBIDA ALCOÓLICA. VENDA E CONSUMO PROIBIDOS PARA MENORES (« La bière est une boisson alcoolisée. Sa vente et sa consommation sont interdites aux mineurs »)
-*   SERVIR CERVEJA A MENOR DE 18 É CRIME (« La vente de bière à des mineurs de moins de 18 ans est un crime »)
+*   SERVIR CERVEJA A MENOR DE 18 É CRIME (« La vente de bière à des mineurs est un crime »)
 
 *   Les publicités vidéo pour de l'alcool doivent inclure l'une des clauses de non-responsabilité mentionnées ci-dessus, énoncée verbalement et textuellement à la fin de chaque publicité.
 *   Les publicités pour la bière non alcoolisée ne sont pas tenues d'inclure un avertissement à condition qu'elles ne fassent pas référence à la marque, au slogan ou à l'expression promotionnelle de la boisson alcoolisée.
@@ -588,18 +645,36 @@ Les publicités pour la vente d'alcool en Australie, au Canada, au Mexique et en
 *   Plafonnement de la fréquence : Nous exigeons que la fréquence soit plafonnée à trois diffusions par 24 heures (3x24).
 *   Les publicités pour de l'alcool sont interdites sur Amazon Fresh.
 
+##### Danemark
+
+*   Toutes les publicités doivent être conformes à la réglementation danoise sur le marketing des boissons alcoolisées publiée par le « Alkoholreklamenævn » si la boisson contient un degré d'alcool de plus de 0,5 %.
+*   Sports : les publicités ne peuvent pas être associées aux sports.
+*   Les mannequins dans les publicités ne peuvent pas être ou paraître âgés de moins de 25 ans.
+*   Les publicités sur l'alcool ne peuvent pas montrer de l'alcool consommé dans un établissement d'enseignement, par exemple un campus universitaire ou une école du soir.
+*   Période de diffusion : Les publicités pour de l'alcool ne peuvent être diffusées qu'entre 12h00 (midi) et 06h00.
+
+##### Finlande
+
+*   Les publicités pour des boissons alcoolisées dont le degré d'alcool est supérieur à 22 % sont interdites.
+*   Période de diffusion : Les publicités pour de l'alcool ne peuvent être diffusées qu'entre 12h00 (midi) et 06h00.
+*   Les publicités pour les boissons alcoolisées ne doivent pas :
+
+*   présenter la teneur de l'alcool de la boisson comme une caractéristique positive ;
+*   associer l'alcool à la participation à un jeu, à une tombola ou à un concours (par exemple, en tant que lot).
+
 ##### France
 
 *   Période de diffusion : Les publicités ne peuvent être diffusées qu'entre 00h00 et 06h00.
 *   Clause de non-responsabilité : Les publicités doivent inclure l'une des mentions suivantes : « L'abus d'alcool est dangereux pour la santé » ou « À consommer avec modération ».
 *   Les publicités ne peuvent contenir que les informations suivantes sur les boissons alcoolisées : pourcentage d'alcool en volume, origine, dénomination, composition, nom et adresse du fabricant, agents et dépositaires, méthode d'élaboration, méthodes de vente, mode de consommation du produit, références à la région de production, références aux récompenses obtenues par la boisson, références à l'appellation d'origine ou à l'indication géographique. L'emballage de la boisson ne peut être reproduit que s'il est conforme aux règles précédemment mentionnées en matière de contenu publicitaire.
 *   Les publicités pour les produits non alcoolisés ne doivent pas présenter, promouvoir ou faire référence à des marques d'alcool ou à la consommation d'alcool. Les images de boissons alcoolisées génériques peuvent être autorisées à condition qu'elles ne constituent pas l'objet principal de la publicité.
+*   Période de diffusion : Les publicités pour de l'alcool ne peuvent être diffusées qu'entre 12h00 (midi) et 06h00.
 
 ##### Allemagne
 
 *   Période de diffusion : Les publicités ne peuvent être diffusées qu'entre 00h00 et 06h00.
 *   Les publicités sur Fire TV peuvent être diffusées entre 20h00 et 02h00.
-*   Les publicités sur l'écran de veille des Fire tablettes et Fire TV doivent être pré-approuvées par Amazon.
+*   Les publicités sur l'écran de veille des Fire tablettes et Fire TV doivent être approuvées au préalable par Amazon.
 
 ##### Japon
 
@@ -607,39 +682,57 @@ Les publicités pour la vente d'alcool en Australie, au Canada, au Mexique et en
 *   Les publicités pour des alcools forts sur la page d'accueil sont limitées à la bière, aux cocktails, au shochu, au saké, à l'alcool de prune, au vin, au brandy et au whisky uniquement. Les publicités ne doivent pas montrer :
 
 *   une personne avalant un verre de brandy/whisky d'un trait ;
-*   De grandes bouteilles ou d'autres récipients de boissons.
+*   de grandes bouteilles ou d'autres récipients de boissons.
 
 ##### Italie
 
 *   Période de diffusion : Les publicités ne peuvent être diffusées qu'entre 19h00 et 06h00, et 12h00 et 16h00.
 *   Clause de non-responsabilité : Les publicités doivent inclure le message « Bevi responsabilmente ».
 
-##### Pays-Bas
+##### Luxembourg
 
-*   Les publicités pour de l'alcool doivent respecter le Code de la publicité en matière de boissons alcoolisées des Pays-Bas (Reclamecode voor alcoholhoudende dranken).
-*   L'avertissement « pas d'alcool en dessous de 18 ans » doit être inclus dans toutes les publicités pour des boissons alcoolisées, à l'exception des bannières publicitaires d'une largeur égale ou inférieure à 120 pixels et d'une hauteur inférieure ou égale à 60 pixels.
+*   Période de diffusion : Les publicités pour de l'alcool ne peuvent être diffusées qu'entre 12h00 (midi) et 06h00.
 
 ##### Mexique
 
 *   Période de diffusion : Les publicités pour de l'alcool peuvent être diffusées entre 00h00 et 06h00 seulement.
 *   Clause de non-responsabilité : Les publicités doivent inclure l'un des avertissements suivants : « Evite el exceso », « Conocer es no excederse » ou « Todo con medida ».
 
+##### Pays-Bas
+
+*   Les publicités pour de l'alcool doivent respecter le Code de la publicité en matière de boissons alcoolisées des Pays-Bas (Reclamecode voor alcoholhoudende dranken).
+*   L'avertissement « pas d'alcool en dessous de 18 ans » doit être inclus dans toutes les publicités pour des boissons alcoolisées, à l'exception des bannières publicitaires d'une largeur égale ou inférieure à 120 pixels et d'une hauteur inférieure ou égale à 60 pixels.
+*   Période de diffusion : Les publicités pour de l'alcool ne peuvent être diffusées qu'entre 12h00 (midi) et 06h00.
+
+##### Norvège
+
+*   Les publicités pour l'alcool sont interdites.
+*   Les publicités pour des boissons non alcoolisées commercialisées par la même marque ou par la même marque commerciale qu'une boisson alcoolisée sont également interdites.
+
 ##### Espagne
 
 *   Période de diffusion : Les publicités ne peuvent être diffusées qu'entre 00h00 et 06h00.
 *   Clause de non-responsabilité : Les publicités doivent inclure le message « Disfruta de un consumo responsable ».
 
+##### Sweden
+
+*   Ads for alcoholic beverages are prohibited.
+*   Ads for alcohol-free beverages are prohibited. For example, alcohol free beer.
+*   Ads for alcohol branded merchandise are permitted, subject to day parting requirements. For example, a Guinness branded beer dispenser.
+
+*   **Day-parting**: Alcohol branded merchandise ads can be displayed between 12 p.m. and 6 a.m. only.
+
 ##### Royaume-Uni
 
 *   Période de diffusion : Les publicités ne peuvent être diffusées qu'entre 00h00 et 06h00.
 *   Les publicités sur Fire TV peuvent être diffusées entre 20h00 et 02h00.
-*   Les publicités sur l'écran de veille des Fire tablettes et Fire TV doivent être pré-approuvées par Amazon.
+*   Les publicités sur l'écran de veille des Fire tablettes et Fire TV doivent être approuvées au préalable par Amazon.
 *   Clause de non-responsabilité : Les publicités doivent inclure « For the facts about alcohol visit www.drinkaware.co.uk » ou « Drinkaware.co.uk for the facts ».
 
 ##### Sports (Europe)
 
 Allemagne, Espagne, Italie, Royaume-Uni  
-Les publicités pour de l'alcool incluant des références au sport, telles que des footballeurs professionnels ou des personnes regardant un match sportif professionnel, doivent être pré-approuvées par Amazon et ne doivent pas :
+Les publicités pour de l'alcool incluant des références au sport, telles que des footballeurs professionnels ou des personnes regardant un match sportif professionnel, doivent être approuvées au préalable par Amazon et ne doivent pas :
 
 *   représenter des gens qui boivent de l'alcool en faisant du sport ;
 *   suggérer que l'alcool améliore les performances sportives ;
@@ -652,7 +745,7 @@ Les publicités ne peuvent pas être associées au sport. Les publicités ne peu
 
 Pour garantir une expérience client positive, les publicités doivent être axées sur le résultat positif du don. Par exemple, une publicité pour une œuvre caritative pour animaux de compagnie incluant des images d'animaux en détresse serait interdite, tandis qu'une publicité pour une œuvre caritative pour animaux de compagnie portant la mention « Votre soutien peut aider les animaux », sans images d'animaux en détresse, serait autorisée.  
   
-Les publicités pour les œuvres caritatives sont interdites sur la page d'accueil et les appareils Fire.  
+Les publicités pour les œuvres caritatives sont interdites sur la page d'accueil et les appareils Fire.
 
 Messages d'intérêt public
 
@@ -669,6 +762,11 @@ Exigences régionales spécifiques
 ##### Brésil
 
 Les publicités pour des concours, des compétitions et des tirages au sort sont interdites.
+
+##### Findland
+
+*   Prizes cannot include credit or health products. For example, a chance to win laser eye surgery is not permitted.
+*   Ads for contests, competitions and prize draws must not be targeted to minors under 15 years.
 
 ### 7.4 Divertissement
 
@@ -691,9 +789,9 @@ Si la note est R, TV-MA, M ou des équivalents régionaux, la publicité ne peut
 Les publicités pour les films NC17 et les jeux vidéo AO, ou les équivalents régionaux, sont interdites sur  
 Amazon, même si la publicité inclut un avertissement vert dans la bande-annonce.  
   
-La signalétique de notation n’est pas obligatoire pour les publicités diffusées en dehors d’Amazon.  
+La signalétique de notation n'est pas obligatoire pour les publicités diffusées en dehors d'Amazon.  
   
-Sur Fire TV, la signalétique de notation doit être placée sur les parties statiques d’une publicité lorsque ceux-ci sont requis.  
+Sur Fire TV, la signalétique de notation doit être placée sur les parties statiques d'une publicité lorsque ceux-ci sont requis.  
   
 Au Canada, lorsque la notation varie selon les régions ayant le même système de notation, les publicités doivent utiliser la notation la plus élevée. Les publicités doivent contenir la note pour le Québec ainsi que la note pour les autres provinces.  
   
@@ -704,14 +802,19 @@ Des restrictions supplémentaires peuvent s'appliquer. Pour plus d'informations,
 Amazon interdit les publicités pour les produits et services suivants :
 
 *   les cryptomonnaies, les échanges de cryptomonnaie, les initial coin offerings (ICO) et les options binaires ;
-*   les méthodes pour faire fortune rapidement et schémas pyramidaux ;
-*   les prêts à court terme à taux d'intérêt élevé (y compris, mais sans s'y limiter, les prêts « sur salaire »), avec une période de remboursement inférieure à 12 mois et un taux de financement annuel de plus de 50 %.
+*   les méthodes pour faire fortune rapidement et les schémas pyramidaux ;
+
+les prêts à court terme à taux d'intérêt élevé (y compris, mais sans s'y limiter, les prêts « sur salaire »), avec une période de remboursement inférieure à 12 mois et un taux de financement annuel de plus de 50 %.
 
 Exigences régionales spécifiques
 
 ##### Brésil
 
 Les publicités pour des produits et des services financiers offshore sont interdites.
+
+##### Denmark
+
+Ads for any financial product offered with an APR of 25% or more are prohibited.
 
 #### 7.5.1 Services de crédit
 
@@ -741,7 +844,7 @@ Exigences générales
 
 Dans les régions où les publicités pour des jeux d'argent en ligne sont autorisées, les exigences générales suivantes s'appliquent en plus des exigences en matière d'emplacement et des exigences régionales énumérées ci-dessous.  
   
-Tous les annonceurs de jeux d'argent en ligne et toutes leurs publicités doivent être pré-approuvés par Amazon.  
+Tous les annonceurs de jeux d'argent en ligne et toutes leurs publicités doivent être approuvés au préalable par Amazon.  
   
 Vous devez respecter toutes les exigences en matière de licence applicables dans chacune des régions dans lesquelles vos publicités seront diffusées. Par exemple, vous devez posséder une licence en règle délivrée par la UK Gambling Commission pour toute la durée de votre campagne afin de promouvoir des produits et des services de jeu au Royaume-Uni.  
   
@@ -780,13 +883,24 @@ Amazon autorise les publicités pour des jeux d'argent uniquement dans les régi
 *   Les publicités doivent inclure l'avertissement suivant lié à l'âge : « Gok met mate! » (en néerlandais) ou « Jouez avec modération ! » (en français).
 *   Les publicités ne doivent pas faire référence à ni inclure des sportifs ou des sportives.
 
+##### Denmark
+
+*   Ads for online games of chance and bricks and mortar casinos are permitted provided the advertiser holds a license under the Danish Gambling Act.
+*   Ads for specific online games/ games played at bricks and mortar casinos must include:
+
+*   The age limit of the game/to enter the casino;
+*   The Danish Gambling Authority’s (“DGA”) helpline; and
+*   The disclaimer “terms and conditions apply.”
+
 ##### France
 
 Les publicités doivent inclure un message de mise en garde contre une utilisation excessive ou pathologique des jeux d'argent et un lien actif vers l'Institut français de Prévention et d'Éducation pour la Santé (http://www.joueurs-info-service.fr/).
 
 ##### Allemagne
 
-Les publicités (à l'exception des campagnes de branding) doivent informer les clients des risques de dépendance, de l'interdiction de la participation des mineurs et de l'existence de conseils et de thérapie. Ces exigences ne s'appliquent pas aux campagnes de branding. <br/><br/>Si la publicité inclut des informations sur les gains maximaux, les probabilités respectives de gagner et de perdre doivent également y être mentionnées. Par exemple, « Gewinnchance 1:\[XXX\]. Spielteilnahme ab 18 Jahren. Glücksspiel kann süchtig machen. Nähere Informationen und Hilfe unter \[XXX\]. »
+Les publicités (à l'exception des campagnes de branding) doivent informer les clients des risques de dépendance, de l'interdiction de la participation des mineurs et de l'existence de conseils et de thérapie. Ces exigences ne s'appliquent pas aux campagnes de branding.  
+  
+Si la publicité inclut des informations sur les gains maximaux, les probabilités respectives de gagner et de perdre doivent également y être mentionnées. Par exemple, « Gewinnchance 1:\[XXX\]. Spielteilnahme ab 18 Jahren. Glücksspiel kann süchtig machen. Nähere Informationen und Hilfe unter \[XXX\]. »
 
 ##### Luxembourg
 
@@ -797,6 +911,15 @@ Les publicités (à l'exception des campagnes de branding) doivent informer les 
 
 *   Les publicités pour les jeux d'argent en ligne sont interdites
 *   Les publicités pour les jeux de hasard hors ligne sont autorisées à condition que l'annonceur soit titulaire d'une licence de jeu émise par l'autorité néerlandaise des jeux (Kansspelautoriteit). Par conséquent, les publicités pour les casinos physiques exploités par Holland Casino, la loterie nationale néerlandaise, et les loteries caritatives sous licence sont autorisées.
+
+##### Norway
+
+*   Only ads for the following state-owned gambling companies are permitted:
+
+*   Norsk Tipping
+*   Norsk Rikstoto
+
+*   Ads for bricks and mortar casinos are prohibited.
 
 ##### Royaume-Uni
 
@@ -810,13 +933,21 @@ Seuls les jeux d'argent contrôlés par le gouvernement suivants sont autorisés
 
 *   Loterie (Takara-kuji)
 *   Loterie sportive (Toto)
-
 *   Sport hippique (Keiba)
 *   Cyclisme sur piste (Keirin)
 *   Course de bateaux (Kyotei)
 *   Course de moto
 
 Les organisations hôtes peuvent diffuser des publicités uniquement pour annoncer leur course. Les publicités de paris en ligne sont interdites. Les publicités doivent inclure le message suivant de façon clairement lisible : « Les personnes âgées de 20 ans et plus sont habilitées à parier ». Les annonceurs autogérés sont autorisés avec l'administration appropriée d'Amazon.
+
+##### Sweden
+
+*   Ads for online gambling are permitted provided the advertiser holds a gambling license from the Swedish Gambling Authority.
+*   Marketing of gambling must comply with the Swedish Gambling Act (2018:1138), the Swedish Gambling Ordinance (2018:1475) and the Swedish Marketing Act which requires that marketing must be "moderate" and only focus on providing the customer with relevant, objective information.
+*   Ads must contain:
+
+*   The minimum age to gamble (18)
+*   Contact details for the responsible gambling organization, “Spelpaus”
 
 ### 7.7 Propriété intellectuelle et droits individuels
 
@@ -869,12 +1000,12 @@ Les publicités et les pages de destination ne doivent pas présenter d'allégat
   
 Amazon interdit les publicités pour les produits et services suivants :
 
-*   Brûleurs de graisse et inhibiteurs d'absorption des graisses.
-*   Pharmacies en ligne.
-*   Professionnels de la santé, tels que les médecins ou les acupuncteurs (les publicités pour les hôpitaux, l'éducation ou l'assurance maladie sont autorisées).
-*   Produits pharmaceutiques illicites ou sensibles.
-*   Les procédures médicales, y compris les procédures cosmétiques anti-âge comme le botox, le coolsculpting et la chirurgie plastique.
-*   Sollicitations pour la recherche et les essais médicaux.
+*   les brûleurs de graisse et inhibiteurs d'absorption des graisses ;
+*   les pharmacies en ligne ;
+*   les professionnels de la santé, tels que les médecins ou les acupuncteurs (les publicités pour les hôpitaux, l'éducation ou l'assurance maladie sont autorisées) ;
+*   les produits pharmaceutiques illicites ou sensibles ;
+*   les procédures médicales, y compris les procédures cosmétiques anti-âge comme le botox, le coolsculpting et la chirurgie plastique ;
+*   les sollicitations pour la recherche et les essais médicaux.
 
 #### 7.11.1 Médicaments sur ordonnance
 
@@ -917,6 +1048,44 @@ Les publicités pour les produits en vente libre doivent inclure les information
 4.  une demande expresse de lire attentivement les instructions figurant sur la notice ou l'emballage extérieur ; et
 5.  le nom (commercial) du titulaire de l'autorisation de mise sur le marché.
 
+##### Denmark
+
+*   Advertisers must be authorized by the Danish Medicines Agency to sell OTC medicines.
+*   Only OTC medicines granted a marketing authorization by the Danish Medicines Agency or the European Commission can be advertised.
+*   Ads for OTCs must be frequency capped at 3x 24 hours
+*   Ads must not:
+
+*   Give the impression that the effect of the drug is guaranteed, has no side effects or is better than or as good as the effect of another treatment, including another drug;
+*   Contain a recommendation from healthcare professionals, researchers or other persons, associations of persons, institutions, companies, etc., which by virtue of their reputation may encourage the consumption of medicines;
+*   Encourage multiple purchases, excessive consumption or stockpiling. For example, by including 2-for-1 offers, sales promotions, discounts, suggesting the customer “stock up for winter”, or similar.
+
+*   Ads for medicinal products offered for sale by online pharmacies must include a reference to the current price on medicinpriser.dk.
+*   Ads for all OTC medicinal products including herbal medicines, alternative medicine, homeopathic medicines and strong vitamin and mineral preparations must include:
+
+*   The name of the medicine and the common name;
+*   The pack size;
+*   Effect;
+*   Dosage;
+*   Side effects (if a medicinal product has no side effects reactions, this can be omitted. The claim “no side effects”, or similar, is not permitted);
+*   An express invitation to the user to read the information in the package leaflet or on the package;
+*   Other information necessary for the correct and appropriate use of the medicinal product, e.g. warnings or drug interactions.
+
+##### Finland
+
+*   Ads for OTC medicines must include:
+
+*   Name of the medicinal product and the pharmaceutical substance if the medicine in question only contains one active ingredient;
+*   Indication of the medicinal product;
+*   Necessary information for the correct and safe use of the medicine as well as any special precautions of use, interactions and adverse effects significant for the medicine safety;
+*   Explicit advice to read the package leaflet or the user instructions contained in the package;
+*   Name of holder of marketing authorisation, importer or marketer; and
+*   In the marketing of veterinary medicines, also the approved target species of the medicine, as well as the maximum residue limits (MRL).
+
+*   Ads must not:
+
+*   Be targeted to under 18s
+*   Suggest that the efficacy or safety of the medicinal product is based on its natural origins
+
 ##### Japon
 
 Lors de la promotion de médicaments présentant un risque élevé de surdosage, les publicités doivent présenter un seul ASIN dans le plus petit paquet.
@@ -933,15 +1102,29 @@ Les publicités ne doivent pas décrire l'état médical ou le produit lui-même
 
 Les publicités ne peuvent pas inclure d'incitatifs financiers à l'achat. Par exemple, des promotions, des offres tarifaires directes ou indirectes, des coupons ou des promotions sous forme de remboursements.
 
+##### Norway
+
+*   Ads must include:
+
+*   The name of OTC medicine and the active substance/s;
+*   The information necessary for correct use of the medicinal product including area of use, important precautions and warnings; and
+*   An encouragement for the user to read the package leaflet.
+
+*   Ads for OTC medicines must not encourage the purchase of more than one pack. For example, through multi-buy offers such as “buy one get one free” or “buy 2 for €XX”. Discounts on single packs are acceptable provided the ad copy does not explicitly suggest that customers make multiple purchases.
+
+##### Sweden
+
+Ads for smoking cessation products must include an ‘18+’ warning.
+
 ##### Royaume-Uni
 
-Les publicités pour les comprimés ou les gélules contenant des analgésiques tels que l'aspirine, l'ibuprofène et le paracétamol ne doivent pas encourager l'achat de plus d'un paquet (par exemple, par le biais d'offres d'achat multiple telles que « Pour l'achat d'un produit, recevez le deuxième gratuitement » ou « Achetez-en 2 pour XX £ ». Les remises sur les lots individuels sont acceptables à condition que le texte de la publicité ne suggère pas explicitement que les clients effectuent des achats multiples.
+Les publicités pour les comprimés ou les gélules contenant des analgésiques tels que l'aspirine, l'ibuprofène et le paracétamol ne doivent pas encourager l'achat de plus d'un paquet (par exemple, par le biais d'offres d'achat multiple telles que « Pour l'achat d'un produit, recevez le deuxième gratuitement » ou « Achetez-en 2 pour XX £ »). Les remises sur les lots individuels sont acceptables à condition que le texte de la publicité ne suggère pas explicitement que les clients effectuent des achats multiples.
 
-#### 7.11.3 Laits pour bébés/nourrissons (Australie, Brésil, Europe et EAU)
+#### 7.11.3 Laits pour bébés/nourrissons (Australie, Brésil, Europe et EAU)
 
-##### Europe et EAU
+##### Europe
 
-Amazon interdit les publicités pour les nourrissons de moins de 6 mois.  
+Amazon interdit les publicités pour les laits maternisés destinés aux nourrissons de moins de 6 mois.  
   
 Les publicités peuvent promouvoir un lait 2e âge destiné aux nourrissons de 6 mois et plus (sauf au Luxembourg).  
 Les publicités ne doivent pas :
@@ -960,17 +1143,36 @@ Les publicités pour les laits destinés aux nourrissons de moins de 12 mois so
 
 *   Les publicités pour les laits maternisés et les laits 2e âge destinés aux nourrissons de 12 mois et moins sont interdites.
 *   Les publicités pour les biberons, les tétines de biberons et les tétines sont interdites.
-*   Les publicités pour des laits maternisés premier âge, des aliments de transition pour nourrissons et tout-petits et tous les laits d'origine animale doivent inclure l'avertissement suivant : « O aleitamento materno evita infecções e alergias e é recomendado até os 2 anos de idade ou mais » (« L'allaitement maternel prévient les infections et les allergies et est recommandé jusqu'à l'âge de 2 ans ou plus »).
+*   Les publicités pour des laits maternisés premier âge, les aliments de transition pour nourrissons et tout-petits et tous les laits d'origine animale doivent inclure l'avertissement suivant : « O aleitamento materno evita infecções e alergias e é recomendado até os 2 anos de idade ou mais » (« L'allaitement maternel prévient les infections et les allergies et est recommandé jusqu'à l'âge de 2 ans ou plus »).
 
 ##### Luxembourg
 
 Les publicités pour les laits maternisés et laits 2e âge sont interdites.
 
+| Locale | Restrictions |
+| --- | --- |
+| AU  | Ads for formula for infants aged under 12 months are prohibited |
+| BR  | Ads for infant formula and follow-on formula for infants under the age of 12 months are prohibited.  <br>  <br>Ads for baby feeding products such as baby feeding bottles, pacifiers and nipples are prohibited.  <br>  <br>Ads for follow-on formula for toddlers, transitional food for infants and toddlers and all dairy milks must display the following warning: “O aleitamento materno evita infecções e alergias e é recomendado até os 2 anos de idade ou mais" ("Breastfeeding prevents infections and allergies and is recommended until 2 years of age or older") |
+| DE  | Ads for infant formula are prohibited. |
+| DK  | Ads for infant formula and follow-on formula are prohibited. |
+| ES  | Ads for infant formula are prohibited.  <br>  <br>References to breastfeeding or the nutritional needs of babies are prohibited |
+| FI  | Ads for infant formula are prohibited. |
+| FR  | Ads for infant formula are prohibited. |
+| IN  | Ads for infant formula, follow-on formula, and baby feeding products such as baby feeding bottles are prohibited. |
+| IT  | Ads for infant formula are prohibited. |
+| LUX | Ads for infant and follow-on formula are prohibited. |
+| MX  | Ads for infant formula are prohibited. |
+| NL  | Ads for infant formula are prohibited. |
+| NO  | Ads for infant formula and follow-on formula are prohibited. |
+| SG  | Ads for infant formula and follow-on formula are prohibited. |
+| SE  | Ads for infant formula and follow-on formula are prohibited. |
+| UK  | Ads for infant formula are prohibited. |
+
 #### 7.11.4 Érotisme et sensualité
 
 Les publicités pour les produits d'érotisme et de sensualité tels que les préservatifs et les autres dispositifs de contraception doivent être centrées sur les propriétés médicales du produit (comme la contraception, la prévention des maladies ou l'image de marque générale). Les publicités doivent respecter les politiques « Nudité et Sexualité » ci-dessus.  
   
-Les publicités en dehors d'Amazon doivent être limitées à trois diffusions par 24 heures (3 x 24). Le ciblage comportemental et l'utilisation de toute marque Amazon sont interdits (la marque Amazon est autorisée dans l'UE uniquement hors site).
+Les publicités en dehors d'Amazon doivent être limitées à trois diffusions par 24 heures (3 x 24). Le ciblage comportemental et l'utilisation de toute marque Amazon sont interdits (le branding Amazon est autorisé dans l'UE uniquement hors site).
 
 #### 7.11.5 Produits d'hygiène féminine
 
@@ -1010,14 +1212,14 @@ Amazon interdit les publicités pour les compléments et autres produits et serv
   
 Les publicités doivent être limitées à trois diffusions par 24 heures (3 x 24).  
   
-Les publicités ne doivent pas encourager une mauvaise alimentation ou une image et une perception négatives du corps.  
+Les publicités ne doivent pas encourager une mauvaise alimentation ou une image et une perception négatives du corps.  
   
 Les publicités ne doivent pas inclure de déclarations irréalistes ou excessives, y compris, mais sans s'y limiter :
 
 *   que le client peut perdre du poids simplement en utilisant le produit, sans suivre de régime à apport calorique contrôlé et sans exercer d'activité physique ;
 *   que les résultats sont visibles pour tout le monde ou qu'ils sont permanents ;
 *   que le client constatera une perte de poids de deux livres ou plus par semaine ;
-*   que le client constatera une perte de poids substantielle, peu importe ce qu'il mange et en quelle quantité ;
+*   que le client constatera une perte de poids substantielle, peu importe ce qu'il mange, et en quelle quantité ;
 *   que le client perdra du poids en portant un produit sur le corps ou en le frottant sur sa peau.
 
 Exigences régionales spécifiques
@@ -1032,7 +1234,7 @@ Les publicités ne peuvent pas mentionner le pourcentage ou les chiffres en mati
 
 ### 7.12 Produits de sécurité
 
-Les publicités pour des produits de sécurité tels que Internet Security ou Credit Card Security doivent rediriger par lien intérieur vers Amazon. Le texte de la publicité ne doit pas inclure de tactiques d'effraction alarmistes telles que la mention de virus, d'usurpation d'identité et de logiciels malveillants.
+Les publicités pour des produits de sécurité tels qu'Internet Security ou Credit Card Security doivent rediriger par lien intérieur vers Amazon. Le texte de la publicité ne doit pas inclure de tactiques d'effraction alarmistes telles que la mention de virus, d'usurpation d'identité et de logiciels malveillants.
 
 ### 7.13 Armes (contenu incluant des armes)
 
@@ -1067,3 +1269,138 @@ Amazon interdit les images de couteaux sur la page d'accueil du Royaume-Uni.
 #### 7.13.3 Matériel militaire
 
 Les publicités peuvent inclure des images de matériel et de véhicules militaires (chars, avions de guerre, hélicoptères, etc.) montrant les armes qui tirent si les personnages ne se trouvent pas dans une situation dangereuse et si la publicité ne dépeint pas autrement une violence excessive.
+
+### 8.0 Politiques relatives aux publicités display pour la région MENA
+
+Ces instructions fournissent plus d'informations sur la manière dont nous appliquons nos politiques en matière de publicité dans la région MENA.
+
+### 8.1 Restrictions en matière de contenu
+
+#### 8.1.1 Normes culturelles et sociales
+
+Au Bahreïn, en Arabie saoudite, au Koweït, au Maroc et aux Émirats arabes unis, les publicités ne doivent pas contenir de contenu ou de thèmes qui offensent les valeurs de la société, l'héritage culturel (en particulier l'héritage et la civilisation arabe) ou l'identité de l'état. Les publicités ne doivent pas :
+
+*   représenter des contacts intimes, comme des personnes en train de s'embrasser ou des personnes dans des positions sexuellement provocantes ou simulant des actes sexuels ;
+*   afficher de l'homosexualité ou des relations familiales non traditionnelles (par exemple, une famille avec deux mères ou un drapeau arc-en-ciel) ;
+*   afficher ou faire la promotion d'un comportement immoral (par exemple, voler, prendre de l'argent à quelqu'un ou être infidèle à son conjoint) ;
+*   dénigrer la culture arabe traditionnelle (par exemple, avec une publicité montrant la transformation d'une abaya en jupe courte ou montrant une femme retirant un niqab en public).
+
+#### 8.1.2 Politique
+
+Conformément aux instructions et politiques d'acceptation mondiales, les publicités défendant des intérêts politiques (en faveur ou à l'encontre d'une personnalité ou d'un parti politique ou en lien avec une élection) sont interdites au Bahreïn, en Arabie saoudite, au Koweït, au Maroc et aux Émirats arabes unis. De plus, les publicités ne doivent pas :
+
+*   critiquer les chefs d'État, les membres des familles royales au pouvoir, des personnalités politiques, des ministères ou départements d'État, des institutions ou des personnalités militaires ou relevant de la sécurité, le système de gouvernement ou tout autre symbole ou image connexe ;
+*   compromettre la sécurité de l'État, ses intérêts, sa réputation, son prestige, ses symboles, ses dirigeants, ses institutions (y compris toute représentation négative des éléments ci-dessus : par exemple, une publicité de divertissement montant le Burj Khalifa en ruines serait considérée comme une infraction) ;
+*   perturber les exigences d'ordre public, de sécurité nationale et d'intérêt public (voir également la section « Normes culturelles et sociales » ci-dessus) ;
+*   porter préjudice ou nuire aux relations avec d'autres pays ;
+*   montrer les drapeaux présidentiels ou tout autre drapeau imprimés sur un vêtement ou à un endroit inapproprié (par exemple, un drapeau national sur un verre à shooter ou un tapis) ;
+*   décrire ou représenter des groupes ou des mouvements politiques ;
+*   décrire une attitude politiquement ou socialement rebelle envers les normes culturelles et sociales établies. Par exemple, une publicité montrant de jeunes gens se rebellant contre des figures d'autorité, comme des enseignants ou des officiers de police, ou du contenu qui conteste le port des vêtements traditionnels comme le hijab ou la abaya.
+
+#### 8.1.3 Religion
+
+Les instructions et politiques d'acceptation mondiales interdisent le contenu publicitaire qui prône ou dénigre les religions. Les publicités pour des produits et services religieux sont interdites.  
+  
+L'écriture religieuse, le nom ou l'image d'Allah (ou du prophète Mahomet) ou tout objet ou site religieux ne doit pas être imprimé sur des vêtements ou sur tout autre emplacement inapproprié. Cela inclut l'ensemble des vêtements, des chaussures, des revêtements de sol, de la literie, des produits pour animaux et pour la salle de bains ainsi que des articles contenant de l'alcool.  
+  
+Les publicités pour des produits non religieux ne doivent pas inclure d'images ou d'objets associés à la religion. Cela inclut toute référence à des périodes de fêtes ou à des événements associés à la religion, comme Noël, Diwali, etc. Les campagnes qui font référence au ramadan pendant cette période sont autorisées.
+
+### 8.2 Instructions en matière d'images
+
+#### 8.2.1 Nudité partielle
+
+Au Bahreïn, en Arabie saoudite, au Koweït, au Maroc et aux Émirats arabes unis, il est courant que la peau nue soit couverte dans les lieux publics. Les publicités ne doivent pas montrer d'éléments qui pourraient être considérés comme sexuellement provocants. Si la nudité partielle est pertinente dans le contexte du produit promu (par exemple, un maillot de bain), ce contenu peut être accepté à condition que la pose du mannequin ne soit pas sexuellement provocante, sauf au Bahreïn, en Arabie saoudite et au Koweït où ce contenu est toujours interdit, quelle que soit la pertinence du produit dont vous faites la promotion.
+
+#### 8.2.2 Autres images sensibles
+
+Les images contenant le contenu ci-dessous sont interdites :
+
+*   Les images représentant des sujets, des lieux et des événements associés à un conflit politique ou armé en cours. Les événements historiques peuvent être représentés dans les publicités de divertissement, par exemple dans le cas d'une bande-annonce de film se passant pendant la Seconde Guerre mondiale.
+*   Les dirigeants arabes controversés.
+*   La consommation d'alcool, y compris les bouteilles de vin ou de bière, la verrerie ou tout autre récipient associé à l'alcool (voir également les restrictions relatives à la catégorie « Alcool » ci-dessous).
+*   Les jeux de hasard ou les loteries (voir également les restrictions de la catégorie « Jeux d'argent » ci-dessous).
+*   Les produits ou les images représentant un cochon ou du porc (par exemple, un jouet Peppa Pig).
+*   Pointer le bas du pied en direction d'une autre personne ou d'un objet religieux ou politique ou les montrer de cette manière est irrespectueux et ne doit pas apparaître dans les publicités.
+
+### 8.3 Restrictions en matière de catégorie de produits
+
+Les catégories de produit suivantes sont interdites au Bahreïn, en Arabie saoudite, au Koweït, au Maroc et aux Émirats arabes unis, sauf indication contraire :
+
+*   Alcool
+
+*   Les instructions et politiques d'acception mondiales interdisent le contenu publicitaire encourageant, glorifiant ou dépeignant une consommation excessive d'alcool. En outre, les publicités ne doivent pas faire référence à ou représenter des boissons alcoolisées ou la consommation d'alcool. Par exemple, dans le cas d'une publicité pour une table de salle à manger, il ne doit pas y avoir de bouteille de vin posée sur la table.
+*   Des exceptions peuvent être faites pour des bandes-annonces de divertissement (mais pas dans des créations statiques) qui montrent une utilisation de l'alcool de manière accessoire, sauf en Arabie saoudite où cela est interdit. La publicité ne doit jamais être principalement axée sur la consommation d'alcool, et une approbation préalable à la politique en matière de publicité est nécessaire pour toute exception.
+
+*   Activités astrologiques, divination, magie/sorcellerie/jonglerie
+
+*   Par exemple, les publicités pour des spectacles de magie, des jeux ou des tours de magie ou des baguettes magiques Harry Potter ne sont pas acceptées.
+
+*   Concours et tirages au sort
+*   Éducation (sauf au Koweït et au Maroc où elles sont autorisées)
+*   Jeux d'argent
+*   Campagnes pour le Hajj et pour la Omrah (sauf au Bahreïn ou au Maroc où elles sont autorisées)
+*   Publicités relatives à la santé (par exemple, des appareils et équipements médicaux, des médicaments, des médicaments en vente libre et des compléments alimentaires, des produits d'amincissement et de contrôle du poids, des produits à base de plantes, etc.)
+*   Laits maternisés et laits 2e âge
+
+*   **Bahreïn :** les publicités pour les laits maternisés et les laits 2e âge sont interdites.
+*   **Arabie saoudite :** les publicités pour les laits maternisés et les laits 2e âge pour enfants de 0 à 36 mois sont interdites. Les publicités pour les laits 2e âge pour enfants de plus de 36 mois sont autorisés.
+*   **Koweït :** les publicités pour les laits maternisés et les laits 2e âge sont interdites.
+*   **Maroc :** les publicités pour les laits maternisés sont interdites. Les publicités pour les laits 2e âge à destination des nourrissons de plus de 6 mois sont autorisées.
+*   **Émirats arabes unis :** les publicités pour les laits maternisés sont interdites. Les publicités pour les laits 2e âge à destination des nourrissons de plus de 12 mois sont autorisées.
+
+Exigences régionales spécifiques
+
+##### Bahreïn
+
+*   Les publicités pour aliments pour chiens sont interdites.
+*   Les campagnes en faveur de l'Hajj et de la Omrah sont autorisées.
+*   Les publicités pour les laits maternisés et les laits 2e âge sont interdites.
+*   Les publicités pour des produits et services financiers, pour des services de crédit et pour des assurances sont interdites.
+
+##### Arabie saoudite
+
+*   Les publicités pour aliments pour chiens sont interdites.
+*   Les publicités pour les laits maternisés et les laits 2e âge entre 0 et 36 mois sont interdites. Les publicités pour les laits 2e âge pour enfants de plus de 36 mois sont autorisés.
+*   Les publicités pour des produits et services financiers, pour des services de crédit et pour des assurances sont autorisées.
+
+##### Koweït
+
+*   Les publicités pour aliments pour chiens sont interdites.
+*   Les publicités éducatives pour des universités, des cours et des centres d'éducation privés qui ont l'autorisation d'exercer au Koweït sont autorisées.
+*   Les publicités pour les laits maternisés et les laits 2e âge sont interdites.
+*   Les publicités pour des produits et services financiers, pour des services de crédit et pour des assurances sont autorisées.
+
+##### Maroc
+
+*   Les campagnes en faveur de l'Hajj et de la Omrah sont autorisées.
+*   Les publicités pour des produits et services financiers, pour des services de crédit et pour des assurances sont autorisées.
+*   Les publicités éducatives pour des universités, des cours et des centres d'éducation privés qui ont l'autorisation d'exercer au Maroc sont autorisées.
+*   Les publicités pour les laits maternisés sont interdites. Les publicités pour les laits 2e âge à destination des nourrissons de plus de 6 mois sont autorisées.
+
+##### Émirats arabes unis
+
+*   Les publicités immobilières sont interdites.
+*   Les publicités pour les laits maternisés sont interdites. Les publicités pour les laits 2e âge à destination des nourrissons de plus de 12 mois sont autorisées.
+*   Les publicités pour des produits et services financiers, pour des services de crédit et pour des assurances sont autorisées.
+
+*   Remarque : les publicités pour des titres et des biens financiers sont interdites. Par exemple, des publicités pour des actions et des parts.
+
+![](https://m.media-amazon.com/images/G/01/AdProductsWebsite/images/AUX/1Finaltjkar.-CB444698687._BL10_._TTW_.jpg)
+
+produit présenté dans une mise en scène « mode de vie » ;
+
+![](https://m.media-amazon.com/images/G/01/AdProductsWebsite/images/AUX/3Finaltjkar.-CB444698658._BL10_._TTW_.jpg)
+
+produit présenté en contexte ;
+
+![](https://m.media-amazon.com/images/G/01/AdProuctsWebsite/Final5b._CB444710392_._BL10_._TTW_.png)
+
+logo de marque individuel ;
+
+![](https://m.media-amazon.com/images/G/01/AdProductsWebsite/images/AUX/7Finaltjkar.-CB444698658._BL10_._TTW_.jpg)
+
+image encombrée et mal recadrée ;
+
+![](https://m.media-amazon.com/images/G/01/AdProductsWebsite/images/AUX/8Finaltjkar.-CB444698685._BL10_._TTW_.jpg)
+
+image au format « Letterbox » ;
