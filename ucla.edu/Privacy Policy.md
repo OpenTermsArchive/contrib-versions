@@ -101,5 +101,3 @@ Privacy Policy Effective Date
 UCLA may change this privacy policy from time to time. If UCLA makes any changes to this policy, we will change the "Last Updated" date below.
 
 Last Updated: **Nov. 30, 2017**
-
-[Continue to Site Information](https://alb.www.ucla.edu/site-information)
