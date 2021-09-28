@@ -1,7 +1,7 @@
 Alexa Terms of Use
 ==================
 
-**Last Updated: April 30, 2021**
+**Last Updated: September 28, 2021**
 
 This is an agreement between you and Amazon.com Services LLC (with its affiliates, "Amazon" or "we"). Before using Alexa, please read these Alexa Terms of Use, including the attached schedules, the [Amazon.com Privacy Notice](https://www.amazon.com/privacy), the [Amazon.com Conditions of Use](https://www.amazon.com/conditionsofuse), and the other applicable rules, policies, and terms posted on the Amazon.com website, available through your Alexa App, or provided with Alexa Enabled Products (collectively, this "Agreement"). By using Alexa, you agree to the terms of this Agreement on behalf of yourself and all other persons who use Alexa under your account. If you do not accept the terms of this Agreement, then you may not use Alexa.
 
@@ -29,7 +29,7 @@ For the purpose of these Alexa Terms of Use:
 
 **1.3 Alexa Interactions.** You control Alexa with your voice. Alexa records and sends audio to the cloud when you interact with Alexa. Amazon processes and retains your Alexa Interactions, such as your voice inputs, music playlists, and your Alexa to-do and shopping lists, in the cloud to provide, personalize, and improve our services. [Learn more](https://www.amazon.com/gp/help/customer/display.html?nodeId=201602230) about Alexa, including how to delete voice recordings associated with your account and manage our use of those voice recordings.
 
-**1.4 Voice Profiles**. You can create a voice profile so Alexa can call you by name and do more to personalize your experience. When you create a voice profile, Alexa uses recordings of your voice to create an acoustic model of your voice characteristics. If Alexa recognizes your voice when you are using a third-party skill, that skill may receive a numeric identifier that allows it to distinguish you from other users in your household to better personalize your experience. You can delete any voice profile you’ve created or turn off personalization of third-party skills based on recognized voices. [Learn more about voice profiles](https://www.amazon.com/gp/help/customer/display.html?nodeId=201602230).
+**1.4 Voice Profiles**. You can create a voice profile so Alexa can call you by name and do more to personalize your experience. When you create a voice profile, Alexa uses recordings of your voice to create an acoustic model of your voice characteristics and update that model over time to improve Alexa’s ability to recognize you. If Alexa recognizes your voice when you are using a third-party skill, that skill may receive a numeric identifier that allows it to distinguish you from other users in your household to better personalize your experience. You can delete your voice profile or turn off personalization of third-party skills based on voice profile. [Learn more about voice profiles](https://www.amazon.com/gp/help/customer/display.html?nodeId=201602230).
 
 **2\. Third Party Services; Third Party Products.**
 
@@ -41,13 +41,13 @@ For the purpose of these Alexa Terms of Use:
 
 **3.1 Premium Features.** Certain optional Alexa features (such as Guard Plus), and certain premium features available in some Third Party Services (such as extra levels in a trivia skill), require a subscription or the payment of a fee (each, a “Premium Feature”). If you purchase a subscription, or start a free trial for a subscription, through Amazon for a Premium Feature, the terms in the Alexa Subscription Schedule apply to that subscription. All purchases of Premium Features from Amazon are final, except as expressly stated in our Returns Policy. Premium Features available in Third Party Services are provided by the operators of those services and Amazon has no responsibility or liability for those Premium Features, including if they are discontinued by the third party or otherwise no longer available through Alexa.
 
-**3.2 Purchasing Through Alexa.** Alexa enables voice and other purchasing of physical and digital products and services, including subscriptions and Premium Features, from Amazon and other sellers using your default Amazon payment and shipping settings (an “Amazon-Processed Purchase”). For purchases by voice, you can require a speakable confirmation code, turn off all voice purchasing, and see product and order details for Amazon-Processed Purchases in your Alexa App. Learn more. By default, your approval will be required for each voice purchase from Amazon through a kid skill and you can turn off all voice purchasing in kid skills. You consent to receive automated text messages from us requesting those approvals. To opt out of these automated text messages, you may change your voice purchasing settings for kid skills in your Alexa app. Amazon-Processed Purchases are subject to the Amazon.com Conditions of Use, Amazon.com Privacy Notice, and any additional terms that apply to the specific product or service you purchase.
+**3.2 Purchasing Through Alexa.** Alexa enables voice and other purchasing of physical and digital products and services, including subscriptions and Premium Features, from Amazon and other sellers using your default Amazon payment and shipping settings (an “Amazon-Processed Purchase”). For purchases by voice, you can require a speakable confirmation code and turn off all voice purchasing. By default, your approval will be required for each voice purchase from Amazon through a kid skill and you can turn off all voice purchasing in kid skills. You consent to receive automated text messages from us requesting those approvals. To opt out of these automated text messages, you may change your voice purchasing settings for kid skills in your Alexa app. Amazon-Processed Purchases are subject to the Amazon.com Conditions of Use, Amazon.com Privacy Notice, and any additional terms that apply to the specific product or service you purchase.
 
 Your voice purchasing settings may not apply to purchases through Alexa that are not Amazon-Processed Purchases (such as when you provide a credit card directly to the provider of a Third-Party Service), and we are not a party to, and have no responsibility for, those purchases.
 
 If you make an Amazon-Processed Purchase of, or start a free trial for, a subscription, the terms in the Alexa Subscription Schedule apply to that subscription. Alexa also allows you to make donations to eligible charities. When you make a donation, Amazon Pay will process the donation using your default Amazon payment settings and will share your name, address, and email with the charity.
 
-You can find more information about Amazon-Processed Purchases and donations in our Alexa and Alexa Device FAQs, including applicable terms, return and refund policies, and how to cancel subscriptions.
+You can find more information about Amazon-Processed Purchases and donations in our [Alexa and Alexa Device FAQs](https://www.amazon.com/gp/help/customer/display.html?nodeId=201602230/), including applicable terms, return and refund policies, and how to cancel subscriptions.
 
 **4\. General**
 
@@ -67,7 +67,7 @@ You can find more information about Amazon-Processed Purchases and donations in 
 
 **4.8 Severability.** If any term or condition of this Agreement is deemed invalid, void, or for any reason unenforceable, that part will be deemed severable and will not affect the validity and enforceability of any remaining term or condition.
 
-**4.9 Contact Information.** For help with Alexa or resolving other issues, please contact Customer Service ([https://www.amazon.com/contact-us](https://www.amazon.com/contact-us))
+**4.9 Contact Information.** For help with Alexa or resolving other issues, please contact Customer Service ([https://www.amazon.com/contact-us](https://www.amazon.com/contact-us))
 
 **Alexa Communication Schedule**
 
