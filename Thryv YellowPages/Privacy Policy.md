@@ -3,7 +3,7 @@ Privacy Notice
 
 Thryv, Inc. and its affiliates (individually and collectively known as “**Thryv**”) respect your right to privacy, and we want you to be aware of how we collect and handle information on each website and mobile application covered by this Privacy Policy.
 
-Revised: September 9, 2021
+Revised: September 28, 2021
 
 Your information privacy is important to us.
 
@@ -108,7 +108,7 @@ We may share Personal Information with businesses controlling, controlled by, or
 
 _Third Parties_
 
-We may share Personal Information with a third party if you specifically authorize it, or it is required in order to complete a transaction, service or activity that you initiated or requested.
+We may share Personal Information with a third party if you specifically authorize it, or it is required in order to complete a transaction, service or activity that you initiated or requested. Note: In such case, the collection and processing of your Personal Information may be subject to the privacy policy of such third party.
 
 _Corporate Transactions_
 
