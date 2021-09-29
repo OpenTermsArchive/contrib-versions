@@ -394,6 +394,10 @@ The open source software platform that runs everywhere from the smartphone, the 
     *   [Xilinx](https://ubuntu.com/download/xilinx)
     *   [Alternative downloads](https://ubuntu.com/download/alternative-downloads)
     *   [Ubuntu flavours](https://ubuntu.com/download/flavours)
+*   [Observability](https://ubuntu.com/observability)
+    -------------------------------------------------
+    
+    *   [What is observability](https://ubuntu.com/observability/what-is-observability)
 *   [Appliance](https://ubuntu.com/appliance)
     -----------------------------------------
     
@@ -426,7 +430,6 @@ The open source software platform that runs everywhere from the smartphone, the 
     *   [Containers](https://ubuntu.com/containers)
     *   [Tutorials](https://ubuntu.com/tutorials)
     *   [16-04](https://ubuntu.com/16-04)
-    *   [Observability](https://ubuntu.com/observability)
 
 * * *
 
