@@ -1491,7 +1491,7 @@ Pour exercer l’un de ses droits, le Client doit adresser une réclamation par 
 
 **5.** **ENGAGEMENT ET RESPONSABILITES**
 
-Lorsqu’il procède à un don, le Client s’engage à respecter l’ensemble des Conditions Générales d’Utilisation. Il s’engage à ne pas utiliser le Service en violation de la loi ou de toute autre règle impérative. En cas de manquement, URCT et Cdiscount pourront engager toute action à l’encontre du Client pour préserver leurs droits.
+Lorsqu’il procède à un don, le Client s’engage à respecter l’ensemble des Conditions Générales d’Utilisation. Il s’engage à ne pas utiliser le Service en violation de la loi ou de toute autre règle impérative. En cas de manquement, URCT et Cdiscount pourront engager toute action à l'encontre du Client pour préserver leurs droits.
 
 **6.** **PROPRIETE INTELLECTUELLE**
 
