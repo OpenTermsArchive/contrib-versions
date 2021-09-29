@@ -1,4 +1,4 @@
-Last modified on 10/15/2020
+Last modified on 09/29/2021
 
 **Privacy Notice**
 ------------------
@@ -29,7 +29,7 @@ Storage and access to cookies that are set in connection with the Twitch Service
 14.  [International Data Transfers](#international-data-transfers)
 15.  [Changes and Updates to This Privacy Notice](#changes-and-updates-to-this-privacy-notice)
 16.  [Twitch Contact Information](#twitch-contact-information)
-17.  [California Privacy Disclosures](#california-privacy-disclosures)
+17.  [Additional Information for Certain Jurisdictions](#additional-information-for-certain-jurisdictions)
 
 #### Personal Information Twitch Collects About You
 
@@ -145,20 +145,12 @@ Please contact Twitch with any questions or comments about this Privacy Notice a
 
 For the purposes of the General Data Protection Regulation, Twitch UK Limited has been designated by Twitch Interactive, Inc. as its representative in the EU to act on its behalf with regard to its obligations under Article 27 of the General Data Protection Regulation. Please contact Twitch UK with any questions (including questions about your rights) or comments about this Privacy Notice at 1 New Oxford Street WC1A 1BA, UK or by email to privacy@twitch.tv.
 
-#### California Privacy Disclosures
+#### Additional Information for Certain Jurisdictions
+
+##### California Privacy Disclosures
 
 [Click here](https://www.twitch.tv/p/en/legal/california-privacy-disclosure) to read additional disclosures required under the California Consumer Privacy Act and other California laws.
 
-#### Republic of Korea Privacy Notice
+##### Republic of Korea Privacy Disclosures
 
-The information below pertains to users in the Republic of Korea.
-
-Retention of Personal Information
-
-Your personal information will be retained and used for the duration of your business relationship with Twitch and as long as thereafter as necessary for Twitch’s legal and regulatory obligations, dispute resolution, community and site safety and security, and contract enforcement.
-
-Twitch will delete your personal information in accordance with Twitch’s data retention policies and applicable laws. After you close your account, Twitch will delete your personal information in a timely manner, provided however, if any personal information is required or permitted to be retained under applicable law or as necessary for Twitch’s legal and regulatory obligations, dispute resolution, community and site safety and security, and contract enforcement, such information will be retained for the period required for such purposes.
-
-Deletion of Personal Information 
-
-When deleting personal information, Twitch will take standard commercially reasonable measures to make the personal information irrecoverable or irreproducible. The specific manner of deletion will depend on the information being deleted and the type of Twitch Services that you used. Electronic documents or files containing personal information will be deleted using a technical method that makes recovery or retrieval of such information practically impossible or renders the data no longer personally identifiable. Non-electronic documents or files containing personal information will be shredded, incinerated or both.
+[Click here](https://www.twitch.tv/p/en/legal/republic-of-korea-privacy-disclosures) to read additional disclosures required under the Personal Information Protection Act.
