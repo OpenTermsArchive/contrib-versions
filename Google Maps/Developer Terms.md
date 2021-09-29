@@ -473,7 +473,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   Comune di Milano ([http://opendefinition.org/licenses/cc-by/](https://opendefinition.org/licenses/cc-by/))
             
-        *   Unione Dei Comuni Valle Del Savio ([https://creativecommons.org/licenses/by/4.0/legalcode.it](https://creativecommons.org/licenses/by/4.0/legalcode.it))
+        *   Unione Dei Comuni Valle Del Savio ([https://creativecommons.org/licenses/by/3.0/](https://creativecommons.org/licenses/by/3.0/))
             
     21.  **Japan**
         *   日本の Google マップのサービスには、第三者から提供された著作権の対象となるデータに基づいて Google が変更したビジネス リスティング データが含まれます。当該データを許可なく使用すると、Google またはその他の者が保持する著作権を侵害することになる可能性があります。また商用利用は固く禁じられています。ユーザーがビジネス リスティング データを取得することは許可されていません。
