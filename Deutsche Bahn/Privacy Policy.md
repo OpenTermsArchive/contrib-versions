@@ -1,5 +1,5 @@
-Privacy policy for customer accounts (as of 1 October 2021)
-===========================================================
+Privacy policy for customer accounts
+====================================
 
 The privacy policy for customer accounts supplements the general bahn.de/bahn.com [privacy policy](https://www.bahn.com/en/privacy). 
 
