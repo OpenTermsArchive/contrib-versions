@@ -1,15 +1,6 @@
 Terms and conditions of use for your customer account
 =====================================================
 
-Terms and conditions of use for customer accounts (as of 1 October 2021) 
--------------------------------------------------------------------------
-
-Please find below the terms and conditions of use for your customer account that will apply as of 1 October 2021.
-
-We are currently overhauling our sales platforms for you, and we are taking this opportunity to upgrade the customer account that we offer you as one of our private customers.
-
-Further information and answers to frequently asked questions about the new terms and conditions of use for customer accounts are available [here](https://www.bahn.com/en/offers/faq-customer-accounts-terms-of-use).
-
 1\. The purpose of the customer account
 ---------------------------------------
 
@@ -155,4 +146,6 @@ Our privacy policy contains information on how we process the personal data in y
 2.  The place of jurisdiction for all disputes is Frankfurt am Main, Germany, if Germany is where your home is located or is your habitual country of residence. Frankfurt am Main, Germany, is also the place of jurisdiction for all disputes if Germany was where your home was located or was your habitual country of residence when you registered for the customer account but you left Germany after concluding the contract. Furthermore, Frankfurt am Main, Germany, is the place of jurisdiction if your home's location or habitual country of residence is unknown when the dispute arises. The place of jurisdiction is otherwise based on the relevant legal provisions. 
 3.  We are not obliged to participate in the dispute resolution mechanism of a consumer arbitration organisation, nor do we offer to participate in such a mechanism. 
 
-(Last modified: 1 October 2021)
+(Last modified: 1 October 2021) 
+
+Further information and answers to frequently asked questions about the new terms and conditions of use for customer accounts are available [here](https://www.bahn.com/en/offers/faq-customer-accounts-terms-of-use).
