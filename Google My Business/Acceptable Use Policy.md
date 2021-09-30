@@ -203,11 +203,17 @@ Provide your regular customer-facing hours of operation. If applicable, you may 
 
 Learn more
 
-Certain types of businesses shouldn’t provide hours, including those with varied hours (like schedules for different types of activities, including showtimes, worship services or classes) and those that operate only by appointment. Examples of business that _shouldn’t_ provide hours include, but are not limited to: hotels and motels, cinemas, schools and universities, transportation services, airports, event venues and natural features.
+Certain types of businesses shouldn’t provide hours, including those with varied hours (like schedules for different types of activities, including showtimes, worship services or classes) and those that operate only by appointment. Examples of businesses that _shouldn’t_ provide hours include, but are not limited to:
+
+*   Indoor lodging such as: Hotels, motels and apartment buildings/complexes
+*   Schools and universities
+*   Cinemas
+*   Transportation services and airports
+*   Event venues and natural features
 
 If your business has departments (see '[Departments](#departments)'), provide the opening hours for each department on that department’s separate Business Profile, and provide the opening hours for the main business on the main  Business Profile
 
-#### sets of hours
+#### Sets of hours
 
 If your business has multiple sets of hours, refer to these guidelines for particular industries:
 
