@@ -4,16 +4,29 @@ Policies
 Google Publisher Restrictions
 =============================
 
-[](https://support.google.com/adsense/answer/9335564?hl=en&ref_topic=1250104)[Next: Understand the Google Publisher Policies and Google Publisher Restrictions](https://support.google.com/adsense/answer/10008391?hl=en&ref_topic=1250104)
+[](https://support.google.com/adsense/answer/10502938?hl=en&ref_topic=1250104)[Next: Understand the Google Publisher Policies and Google Publisher Restrictions](https://support.google.com/adsense/answer/10008391?hl=en&ref_topic=1250104)
 
-Publisher restrictions identify content that is restricted from receiving certain sources of advertising. By content, we mean anything present on your page or app - including other advertisements and links to other sites or apps. If your content is labeled with an inventory restriction, fewer advertising sources will be eligible to bid on it. In some cases this will mean that no advertising sources are bidding on your inventory and no ads will appear on your content. Please note that Google Ads (formerly AdWords) advertisements will not serve on content labeled with these restrictions. Therefore, while you can choose to monetize content covered by these Google Publisher Restrictions, this content will likely receive less advertising than other, nonrestricted content.
-
-These restrictions apply in addition to any other policies governing your use of Google publisher products.
+We are in the process of migrating and consolidating all of the Google Publisher Policies and Google Publisher Restrictions to the new [Publisher Policies Help Center](https://support.google.com/publisherpolicies). For now, you can still view all the policies in the [AdMob](https://support.google.com/admob/), [AdSense](https://support.google.com/adsense/), and [Ad Manager](https://support.google.com/admanager/) Help Centers, as well as the new Help Center. 
 
 Google helps to enable a free and open internet by providing the ability for publishers to monetize their content and for advertisers to reach prospective customers with useful, relevant products and services.
 
-Sexual content
---------------
+Publisher restrictions identify [content](https://support.google.com/publisherpolicies/answer/10564503) that is restricted from receiving certain sources of advertising. If your content is labeled with an inventory restriction, fewer advertising sources will be eligible to bid on it. In some cases this will mean that no advertising sources are bidding on your inventory and no ads will appear on your content. Please note that Google Ads (formerly AdWords) advertisements will not serve on content labeled with these restrictions. Therefore, while you can choose to monetize content covered by these Google Publisher Restrictions, this content will likely receive less advertising than other, nonrestricted content.
+
+Google Publisher Restrictions are organized into the following categories:
+
+*   [Content restrictions](#content_restrictions)
+*   [Behavioral restrictions](#behavioral_restrictions)
+
+These restrictions apply in addition to any other policies governing your use of Google publisher products.
+
+Learn more about the commonly used policy terms and what they mean in the [glossary](https://support.google.com/publisherpolicies/table/10563033). 
+
+* * *
+
+Content restrictions
+--------------------
+
+### Sexual content
 
 Is content that:
 
@@ -47,8 +60,9 @@ Is content that:
     **Examples**: Erectile dysfunction pills, libido boosting supplements
     
 
-Shocking content
-----------------
+  ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about sexual content](https://support.google.com/publisherpolicies/answer/10400657)_
+
+### Shocking content
 
 Is content that:
 
@@ -65,8 +79,9 @@ Is content that:
     **Examples**: Swear or curse words, variations and misspellings of profane language
     
 
-Explosives
-----------
+  ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about shocking content](https://support.google.com/publisherpolicies/answer/10437538)_
+
+### Explosives
 
 Is content that:
 
@@ -79,8 +94,9 @@ Is content that:
     **Examples**: Bomb-making guides; software or equipment intended for the 3D printing of parts of grenades, bombs, or other explosive devices
     
 
-Guns, gun parts and related products
-------------------------------------
+  ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about explosives](https://support.google.com/publisherpolicies/answer/10438542)_
+
+### Guns, gun parts, and related products
 
 Is content that:
 
@@ -94,8 +110,9 @@ Is content that:
     
 *   contains instructions on the assembly or enhancement of the functionality of firearms.
 
-Other weapons
--------------
+  ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about guns, gun parts and related products](https://support.google.com/publisherpolicies/answer/10436972)_
+
+### Other weapons
 
 Is content that:
 
@@ -109,8 +126,9 @@ Is content that:
     
 *   contains instructions about the assembly, enhancement, or acquisition of any product covered under this "Other Weapons" section.
 
-Tobacco
--------
+  ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about other weapons](https://support.google.com/publisherpolicies/answer/10437797)_
+
+### Tobacco
 
 Is content that:
 
@@ -119,8 +137,9 @@ Is content that:
     **Examples**: Cigarettes, cigars, tobacco pipes, rolling papers, chewing tobacco, e-cigarettes
     
 
-Recreational drugs
-------------------
+   ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about tobacco](https://support.google.com/publisherpolicies/answer/10437539)_
+
+### Recreational drugs
 
 Is content that:
 
@@ -137,8 +156,9 @@ Is content that:
     **Examples**: Forums to exchange tips or recommendations on drug use
     
 
-Alcohol sale or misuse
-----------------------
+  ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about recreational drugs](https://support.google.com/publisherpolicies/answer/10436831)_
+
+### Alcohol sale or misuse
 
 Is content that:
 
@@ -148,8 +168,9 @@ Is content that:
     **Examples**: Favorable portrayal of excessive, binge, or competition drinking
     
 
-Online gambling
----------------
+  ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about alcohol sale or misuse](https://support.google.com/publisherpolicies/answer/10438039)_
+
+### Online gambling
 
 Is content that:
 
@@ -158,8 +179,9 @@ Is content that:
     **Examples**: Online casinos or bookmakers, online lottery ticket or scratch card purchase, online sports betting, aggregator or affiliate sites that promote online gambling pages
     
 
-Prescription drugs
-------------------
+   ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about online gambling](https://support.google.com/publisherpolicies/answer/10437963)_
+
+### Prescription drugs
 
 Is content that:
 
@@ -168,8 +190,9 @@ Is content that:
     **Examples**: Sale of prescription drugs, online pharmacies
     
 
-Unapproved pharmaceuticals and supplements
-------------------------------------------
+   ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about prescription drugs](https://support.google.com/publisherpolicies/answer/10437489)_
+
+### Unapproved pharmaceuticals and supplements
 
 Is content that:
 
@@ -178,11 +201,37 @@ Is content that:
     **Examples**: All items on this non-exhaustive list of [unapproved pharmaceuticals and supplements](https://support.google.com/adspolicy/answer/2423645); products that contain Ephedra; herbal and dietary supplements with active pharmaceutical or dangerous ingredients; products with names that are confusingly similar to an unapproved pharmaceutical, supplement, or controlled substance
     
 
-App removed from Google Play Store
-----------------------------------
+  ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about unapproved pharmaceuticals and supplements](https://support.google.com/publisherpolicies/answer/10437888)_
+
+### App removed from Google Play Store
 
 Is an app that: 
 
-*   is removed from the Google Play store for a violation of [Google Play policies](https://play.google.com/about/developer-content-policy/).
+*   is removed from the Google Play Store for a violation of [Google Play policies](https://play.google.com/about/developer-content-policy/).
 
-[](https://support.google.com/adsense/answer/9335564?hl=en&ref_topic=1250104)[Next: Understand the Google Publisher Policies and Google Publisher Restrictions](https://support.google.com/adsense/answer/10008391?hl=en&ref_topic=1250104)
+ ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about app removed from Google Play Store](https://support.google.com/publisherpolicies/answer/10437964)_
+
+* * *
+
+Behavioral restrictions 
+------------------------
+
+### Ads interfering 
+
+#### Google-served ads obscuring content
+
+We do not allow Google-served ads that:
+
+*   fully or partially obscure content for any period of time
+
+  ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about Google-served ads obscuring content](https://support.google.com/publisherpolicies/answer/11127388)_ 
+
+#### Content obscuring Google-served ads 
+
+We do not allow content that:
+
+*   fully or partially obscures Google-served ads.
+
+  ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about content obscuring Google-served ads](https://support.google.com/publisherpolicies/answer/11191353)_  
+
+[](https://support.google.com/adsense/answer/10502938?hl=en&ref_topic=1250104)[Next: Understand the Google Publisher Policies and Google Publisher Restrictions](https://support.google.com/adsense/answer/10008391?hl=en&ref_topic=1250104)
