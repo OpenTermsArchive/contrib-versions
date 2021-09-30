@@ -4,45 +4,48 @@ Policies
 Google Publisher Policies
 =========================
 
-[](https://support.google.com/adsense/answer/1282103?hl=en&ref_topic=1250104)[Next: Google Publisher Restrictions](https://support.google.com/adsense/answer/9335567?hl=en&ref_topic=1250104)
+[](https://support.google.com/adsense/answer/1282103?hl=en&ref_topic=1250104)[Next: Google Publisher Restrictions](https://support.google.com/adsense/answer/10437795?hl=en&ref_topic=1250104)
 
-When you monetize your content with Google ad code you are required to adhere to the following policies. By content we mean anything present on your page or app - including other advertisements and links to other sites or apps. Failure to comply with these policies may result in Google blocking ads from appearing against your content, or suspending or terminating your account.
+We are in the process of migrating and consolidating all of the Google Publisher Policies and Google Publisher Restrictions to the new [Publisher Policies Help Center](https://support.google.com/publisherpolicies). For now, you can still view all the policies in the [AdMob](https://support.google.com/admob/), [AdSense](https://support.google.com/adsense/), and [Ad Manager](https://support.google.com/admanager/) Help Centers, as well as the new Help Center. 
 
-These restrictions apply in addition to any other policies governing your use of Google publisher products.
+When you monetize your [content](https://support.google.com/publisherpolicies/answer/10564503) with Google ad code you are required to adhere to the following policies. Failure to comply with these policies may result in Google blocking ads from appearing against your content, or suspending or terminating your account.
+
+These policies apply in addition to any other policies governing your use of Google publisher products.
 
 Google helps to enable a free and open web by helping publishers monetize their content and advertisers reach prospective customers with useful, relevant products and services. Maintaining trust in the ads ecosystem requires setting limits on what we will monetize.
 
-Illegal content
----------------
+Google Publisher Policies are organized into the following categories:
+
+*   [Content policies](#content) 
+*   [Behavioral policies](#behavioral) 
+*   [Privacy-related policies](#privacy)
+*   [Requirements and other standards](#standards) 
+
+Learn more about the commonly used policy terms and what they mean in the [glossary](https://support.google.com/publisherpolicies/table/10563033). 
+
+* * *
+
+Content policies 
+-----------------
+
+### Illegal content
 
 We do not allow content that:
 
 *   is illegal, promotes illegal activity, or infringes on the legal rights of others.
 
-Intellectual property abuse
----------------------------
+ ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)[_Learn more about illegal content_](https://support.google.com/publisherpolicies/answer/10437537)
+
+### Intellectual property abuse
 
 We do not allow content that:
 
 *   infringes copyright. It is our policy to respond to notices of alleged infringement that comply with the Digital Millennium Copyright Act (DMCA). You can file a counter-notification via [this form](https://support.google.com/legal/contact/lr_counternotice?product=websearch).
 *   sells or promotes the sale of counterfeit products. Counterfeit goods contain a trademark or logo that is identical to or substantially indistinguishable from the trademark of another. They mimic the brand features of the product in an attempt to pass themselves off as a genuine product of the brand owner.
 
-Animal cruelty
---------------
+![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about intellectual property abuse](https://support.google.com/publisherpolicies/answer/10402772)_
 
-We do not allow content that:
-
-*   promotes cruelty or gratuitous violence towards animals.
-    
-    **Examples**: Promoting animal cruelty for entertainment purposes, such as cock or dog fighting
-    
-*   promotes the sale of products obtained from endangered or threatened species.
-    
-    **Examples**: Sale of tigers, shark fins, elephant ivory, tiger skins, rhino horn, dolphin oil
-    
-
-Dangerous or derogatory content
--------------------------------
+### Dangerous or derogatory content
 
 We do not allow content that:
 
@@ -60,30 +63,29 @@ We do not allow content that:
     
 *   exploits others through extortion.
     
-    **Examples**: Exploitative removals, revenge porn, blackmail
+    **Examples**: Exploitative removals, revenge porn, blackmail
     
 
-Enabling dishonest behavior
----------------------------
+![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about dangerous and derogatory content](https://support.google.com/publisherpolicies/answer/10522641)_
+
+### Animal cruelty
 
 We do not allow content that:
 
-*   promotes any form of hacking or cracking and/or provides users with instructions, equipment, or software that tampers with or provides unauthorized access to devices, software, servers, or websites.
+*   promotes cruelty or gratuitous violence towards animals.
     
-    **Examples**: Pages or products that enable illegal access of cell phones and other communications or content delivery systems or devices; products or services that bypass copyright protection, including circumvention of digital rights management technologies; products that illegally descramble cable or satellite signals in order to get free services; pages that assist or enable users to download streaming videos if prohibited by the content provider
+    **Examples**: Promoting animal cruelty for entertainment purposes, such as cock or dog fighting
     
-
-*   enables a user, or promotes products and services that enable a user, to track or monitor another person or their activities without their authorization.
+*   promotes the sale of products obtained from endangered or threatened species.
     
-    **Examples**: Spyware and technology used for intimate partner surveillance including but not limited to spyware/malware that enables a user to monitor another person’s texts, phone calls, or browsing history; GPS trackers specifically marketed to spy or track someone without their consent; promotion of surveillance equipment (e.g. cameras, audio recorders, dash cams, nanny cams) marketed with the express purpose of spying
-    
-    This does not include (a) private investigation services or (b) products or services designed for parents to track or monitor their underage children.
+    **Examples**: Sale of tigers, shark fins, elephant ivory, tiger skins, rhino horn, dolphin oil
     
 
-Misrepresentative content
--------------------------
+![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about animal cruelty](https://support.google.com/publisherpolicies/answer/10400059)_
 
-### Misleading representation
+### Misrepresentative content
+
+#### Misleading representation
 
 We do not allow content that:
 
@@ -93,7 +95,9 @@ We do not allow content that:
     **Examples**: Impersonating Google products, misusing company logos
     
 
-### Unreliable and harmful claims
+ ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about misleading representation](https://support.google.com/publisherpolicies/answer/11185754)_
+
+#### Unreliable and harmful claims
 
 We do not allow content that:
 
@@ -106,7 +110,9 @@ We do not allow content that:
     **Examples**: Anti-vaccine advocacy, denial of the existence of medical conditions such as AIDS or Covid-19, gay conversion therapy
     
 
-### Deceptive practices
+ ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about unreliable and harmful claims](https://support.google.com/publisherpolicies/answer/11188580)_
+
+#### Deceptive practices
 
 We do not allow:
 
@@ -124,14 +130,35 @@ We do not allow:
 *   directing content about politics, social issues, or matters of public concern to users in a country other than your own, if you misrepresent or conceal your country of origin or other material details about yourself.
     
 
-### Manipulated media
+ ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about deceptive practices](https://support.google.com/publisherpolicies/answer/11185755)_
+
+#### Manipulated media
 
 We do not allow content that:
 
 *   deceives users through manipulated media related to politics, social issues, or matters of public concern.
 
-Malicious or unwanted software
-------------------------------
+ ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about manipulated media](https://support.google.com/publisherpolicies/answer/11185657)_ 
+
+### Enabling dishonest behavior
+
+We do not allow content that:
+
+*   promotes any form of hacking or cracking and/or provides users with instructions, equipment, or software that tampers with or provides unauthorized access to devices, software, servers, or websites.
+    
+    **Examples**: Pages or products that enable illegal access of cell phones and other communications or content delivery systems or devices; products or services that bypass copyright protection, including circumvention of digital rights management technologies; products that illegally descramble cable or satellite signals in order to get free services; pages that assist or enable users to download streaming videos if prohibited by the content provider
+    
+
+*   enables a user, or promotes products and services that enable a user, to track or monitor another person or their activities without their authorization.
+    
+    **Examples**: Spyware and technology used for intimate partner surveillance including but not limited to spyware/malware that enables a user to monitor another person’s texts, phone calls, or browsing history; GPS trackers specifically marketed to spy or track someone without their consent; promotion of surveillance equipment (e.g. cameras, audio recorders, dash cams, nanny cams) marketed with the express purpose of spying
+    
+    This does not include (a) private investigation services or (b) products or services designed for parents to track or monitor their underage children.
+    
+
+ ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)[_Learn more about enabling dishonest behavior_](https://support.google.com/publisherpolicies/answer/10436828)
+
+### Malicious or unwanted software
 
 We do not allow content that:
 
@@ -144,8 +171,9 @@ We do not allow content that:
     **Examples**: Failure to be transparent about the functionality that the software provides or the full implications of installing the software; failing to include Terms of Service or an End User License Agreement; bundling software or applications without the user's knowledge; making system changes without the user's consent; making it difficult for users to disable or uninstall the software; failing to properly use publicly available Google APIs when interacting with Google services or products
     
 
-Sexually explicit content
--------------------------
+ ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)[_Learn more about malicious or unwanted software_](https://support.google.com/publisherpolicies/answer/10437483)
+
+### Sexually explicit content
 
 We do not allow content that:
 
@@ -158,8 +186,9 @@ We do not allow content that:
     **Examples**: Rape, incest, bestiality, necrophilia, snuff, lolita or teen-themed pornography, underage dating
     
 
-Compensated sexual acts
------------------------
+ ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)[_Learn more about sexually explicit content_](https://support.google.com/publisherpolicies/answer/10438119)
+
+### Compensated sexual acts
 
 We do not allow content that:
 
@@ -168,8 +197,9 @@ We do not allow content that:
     **Examples**: Prostitution; companionship and escort services; intimate massage; cuddling sites; compensated dating or sexual arrangements where one participant is expected to provide money, gifts, financial support, mentorship, or other valuable benefits to another participant such as "Sugar" dating
     
 
-Mail order brides
------------------
+ ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)[_Learn more about compensated sexual acts_](https://support.google.com/publisherpolicies/answer/10438120)
+
+### Mail order brides
 
 We do not allow content that:
 
@@ -178,15 +208,17 @@ We do not allow content that:
     **Examples**: Mail order brides, international marriage brokers, romance tours
     
 
-Adult themes in family content
-------------------------------
+ ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about mail order brides](https://support.google.com/publisherpolicies/answer/10437885)_
+
+### Adult themes in family content
 
 We do not allow content that:
 
 *   is made to appear appropriate for a family audience, but contains adult themes including sex, violence, or other depictions of children or popular children’s characters that are unsuitable for a general audience.
 
-Child sexual abuse and exploitation
------------------------------------
+ ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about adult themes in family content](https://support.google.com/publisherpolicies/answer/10437484)_
+
+### Child sexual abuse and exploitation
 
 We do not allow content that:
 
@@ -199,7 +231,92 @@ We do not allow content that:
 
 We will take appropriate action, which may include reporting to the National Center for Missing & Exploited Children and disabling accounts. If you believe a child is in danger of or has been subject to abuse, exploitation, or trafficking, contact the police immediately. If you have concerns a child is being or was being endangered in connection with our products, you can [report the behavior to Google](https://support.google.com/families/contact/report_child_grooming).
 
-Privacy related policies
+ ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about child sexual abuse and exploitation](https://support.google.com/publisherpolicies/answer/10436971)_
+
+* * *
+
+Behavioral policies 
+--------------------
+
+### Dishonest declarations
+
+Information provided by publishers to enable their use of or interaction with Google advertising systems:
+
+*   must be materially accurate and complete, without misleading omissions; and
+*   cannot be expressed in a deceptive or misleading manner.
+    
+    **Examples:** The personal information or payment details provided by a publisher are materially incomplete, obscured or inaccurate. Information provided about a publisher’s website (e.g., in the ads.txt file) or app (e.g., in the app-ads.txt file) is inaccurate. Ad requests that contain partial or inaccurate URLs or AppIDs.
+    
+
+  ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about dishonest declarations](https://support.google.com/publisherpolicies/answer/11037245)_
+
+### Ads interfering 
+
+#### Google-served ads interfering with content or user interactions
+
+We do not allow Google-served ads that:
+
+*   overlay or are adjacent to navigational or other action items and may lead to unintended ad interactions.
+*   severely interfere with consumption of content including overlaying the content or pushing the content off the [display,](https://support.google.com/answer/11036236)
+*   are placed on a "dead end" screen where the user is not able to exit the screen without clicking the ad. 
+
+  ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about ads interfering](https://support.google.com/publisherpolicies/answer/11035030)_
+
+### Inventory value
+
+#### Google-served ads on screens without publisher-content
+
+We do not allow Google-served ads on screens:
+
+*   without publisher-content or with [low-value content](https://support.google.com/publisherpolicies/table/10563033#low-value-content),
+*   that are under construction,
+*   that are used for alerts, navigation or other behavioral purposes
+
+![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about Google-served ads on screens without publisher-content](https://support.google.com/publisherpolicies/answer/11112688)_
+
+#### Out of context ads
+
+We do not allow Google-served ads:
+
+*   in apps or web pages that run in the background,
+*   that appear outside the display,
+*   when the user's attention is expected to be elsewhere and not on the screen hosting the ad.
+
+It must be clear to the user with which publisher-content the ad is associated.
+
+![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about out of context ads](https://support.google.com/publisherpolicies/answer/11190357)_
+
+#### Google-served ads on screens with replicated content
+
+We do not allow Google-served ads on screens:
+
+*   with embedded or copied content from others without additional commentary, curation, or otherwise adding value to that content.
+
+You are also required to comply with our [Intellectual property abuse policy](https://support.google.com/publisherpolicies/answer/10402772).
+
+![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about Google-served ads on screens with replicated content](https://support.google.com/publisherpolicies/answer/11190248)_
+
+#### More ads or paid promotional material than publisher-content
+
+We do not allow Google-served ads on screens:
+
+*   with more ads or other paid promotional material than publisher-content.
+
+![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about More ads or paid promotional material than publisher-content](https://support.google.com/publisherpolicies/answer/11169917)_
+
+####  Unsupported languages
+
+We do not allow content that:
+
+*   is not primarily in one of the supported languages.
+
+![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about unsupported languages](https://support.google.com/publisherpolicies/answer/10436912)_
+
+ 
+
+* * *
+
+Privacy-related policies
 ------------------------
 
 ### Privacy disclosures
@@ -211,11 +328,15 @@ Publishers must:
     To comply with this disclosure obligation with respect to Google’s use of data, you have the option to display a prominent link to [How Google uses data when you use our partners’ sites or apps](http://www.google.com/policies/privacy/partners/).
     
 
+  ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about privacy disclosures](https://support.google.com/publisherpolicies/answer/10437794)_
+
 ### Cookies on Google domains
 
 Publishers must:
 
 *   not set a cookie on Google's domains or modify, intercept or delete cookies set on Google's domains.
+
+  ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about cookies on Google domains](https://support.google.com/publisherpolicies/answer/10437485)_
 
 ### Identifying users
 
@@ -229,6 +350,8 @@ Publishers must:
     
 *   comply with the [EU user consent policy](http://www.google.com/about/company/user-consent-policy.html).
 
+ ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about identifying users](https://support.google.com/publisherpolicies/answer/10436913)_
+
 ### Use of device and location data
 
 If publishers collect, process, or disclose information that identifies or can be used to infer an end user's precise geographic location, such as sourced from GPS, wifi or cell tower data then,
@@ -240,6 +363,8 @@ Publishers must:
 *   send such information to Google in an encrypted state or via an encrypted channel; and
 *   disclose such information collection, processing, or disclosure in all applicable privacy policies.
 
+ ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about use of device and location data](https://support.google.com/publisherpolicies/answer/10437073)_
+
 ### Standard Contractual Clauses (SCCs)
 
 Google relies on Standard Contractual Clauses (SCCs) for transfers of online advertising and measurement personal data out of Europe. For those [services where Google acts as a processor](https://privacy.google.com/businesses/adsservices/), the [Google Ads Data Processing Terms](https://privacy.google.com/businesses/processorterms/) include, as necessary for the relevant data transfers, both the relevant SCCs issued by the European Commission (to help legitimize data transfers under the GDPR) and UK SCCs (to help legitimize data transfers under the GDPR as incorporated into UK law). Similarly, for [those services where Google acts as a controller](https://privacy.google.com/businesses/adsservices/), the [Google Ads Controller-Controller Data Protection Terms](https://privacy.google.com/businesses/controllerterms/) include, as necessary for the relevant data transfers, both the relevant European Commission-issued SCCs and UK SCCs. 
@@ -250,6 +375,8 @@ If partner processes personal data that originated in the European Economic Area
 *   partner must provide a level of protection for that personal data that is at least equivalent to that required under the SCCs; and
 *   if partner determines that it cannot comply with the above requirements, partner must notify Google in writing, and either cease processing the personal data or take reasonable and appropriate steps to remedy such non-compliance.
 
+ ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about Standard Contractual Clauses (SCCs)](https://support.google.com/publisherpolicies/answer/10437486)_
+
 ### Children’s Online Privacy Protection Act (COPPA)
 
 If you implement any Google advertising service on a site or section of a site that is covered by the Children's Online Privacy Protection Act (COPPA), you must:
@@ -259,21 +386,66 @@ If you implement any Google advertising service on a site or section of a site t
     *   past or current activity by users known by you to be under the age of 13 years or
     *   past or current activity on sites directed at users under the age of 13 years.
 
-Unsupported languages
----------------------
+  ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)[_Learn more about Children's Online Privacy Protection Act (COPPA)_](https://support.google.com/publisherpolicies/answer/10436800)
 
-We do not allow content that:
+* * *
 
-*   is not primarily in one of the [supported languages](https://support.google.com/adsense/answer/9727).
+Requirements and other standards
+--------------------------------
 
-Minimum content requirements
-----------------------------
+### Webmaster Guidelines
 
-We do not allow monetization where there is no content.
+You must not:
 
-*   No content includes placeholder content for sites or apps under construction.
+*   place Google-served ads on screens that don't follow the [Webmaster Quality Guidelines](https://developers.google.com/search/docs/advanced/guidelines/webmaster-guidelines).
 
-[](https://support.google.com/adsense/answer/1282103?hl=en&ref_topic=1250104)[Next: Google Publisher Restrictions](https://support.google.com/adsense/answer/9335567?hl=en&ref_topic=1250104)
+  ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about Webmaster Guidelines](https://support.google.com/publisherpolicies/answer/11035931)_
+
+### Abusive experiences 
+
+You must not:
+
+*   place Google-served ads on screens that contain [abusive experiences](https://support.google.com/webtools/answer/7347327).
+
+  ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about abusive experiences](https://support.google.com/publisherpolicies/answer/11128079)_
+
+### Better Ads Standards 
+
+You must not:
+
+*   place Google-served ads on screens that do not conform to the [Better Ads Standards](https://www.betterads.org/standards/). For more information about the types of disallowed ad experiences, please visit the [Coalition for Better Ads](https://www.betterads.org/) website.
+
+  ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about Better Ads Standards](https://support.google.com/publisherpolicies/answer/11127848)_
+
+### Authorized inventory
+
+You must not:
+
+*   place Google-served ads on a domain that uses `ads.txt` where you are not included as an authorized seller of the inventory in the `ads.txt` file. 
+
+For syndication partners, Parents must ensure Children promptly add an `ads.txt` file to Child domains with Parents as authorized sellers of Child Inventory.
+
+  ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about authorized inventory](https://support.google.com/publisherpolicies/answer/11128498)_
+
+### Sanctions compliance
+
+Google must comply with sanctions and export controls maintained by the United States Treasury Department’s [Office of Foreign Assets Control](http://www.treasury.gov/resource-center/sanctions/Pages/default.aspx) (OFAC), United States Commerce Department’s Bureau of Industry & Security and other applicable  sanctions. As a result, Google publisher products are not available to publishers in the following countries or territories:
+
+*   Crimea
+*   Cuba
+*   Iran
+*   North Korea
+*   Syria
+
+Google publisher products also may not be used for or on behalf of a party located in the above listed sanctioned countries or regions. 
+
+In addition, Google publisher products are not eligible for any entities or individuals that are restricted under applicable trade sanctions and export compliance laws. Google publisher products are not eligible for entities or individuals owned or controlled by or acting for or on behalf of such restricted entities or individuals. 
+
+Publishers must also comply with applicable sanctions and export regulations, which includes OFAC sanctions, and agree to not cause Google to violate these regulations. You cannot use Google publisher products for or on behalf of restricted entities or individuals. You cannot use Google publisher products for or on behalf of entities or individuals located in sanctioned countries or regions.
+
+  ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about sanctions compliance](https://support.google.com/publisherpolicies/answer/11128499)_
+
+[](https://support.google.com/adsense/answer/1282103?hl=en&ref_topic=1250104)[Next: Google Publisher Restrictions](https://support.google.com/adsense/answer/10437795?hl=en&ref_topic=1250104)
 
 Was this helpful?
 
