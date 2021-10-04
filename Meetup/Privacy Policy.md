@@ -3,9 +3,9 @@ June 2020
 Privacy Policy
 ==============
 
-_Effective:_ April 19, 2021
+_Effective:_ October 1, 2021
 
-(V_iew previous version: [6/12/20](https://help.meetup.com/hc/en-us/articles/360060047731))_
+(_V__iew previous versions: [4/19/21](https://help.meetup.com/hc/en-us/articles/4410440206349), [6/12/20](https://help.meetup.com/hc/en-us/articles/360060047731))_
 
 Our Privacy Policy explains how Meetup collects, uses, and discloses information about you. The terms “Meetup,” “we,” “us,” and “our” include Meetup LLC and our affiliates. We use the terms “member,” “you,” and “your” to mean any person using our Platform or attending related events, including any organization or person using the Platform on an organization’s behalf. This Privacy Policy applies to the processing of information about members and other individuals that we collect when you use our “Platform,” which means any website, application, or services we offer, or when you communicate with us. For information about choices you may have under this policy, please see “Your Choices” below. This Privacy Policy does not apply to the information that you may provide to third parties, such as members, and others with whom you may share information about yourself. For more information about the scope of our Privacy Policy, please see [Section 4.5](https://help.meetup.com/hc/en-us/articles/360044422391#h_b87ea47b-8923-406a-a6cd-bbdcc083e47b). 
 
@@ -283,4 +283,24 @@ During the preceding 12 months, Meetup has collected, used, and shared the categ
 
 Under European data protection law, the controller of your information is Meetup LLC.
 
-If you have any questions or complaints about this Privacy Policy or how we use your information, please contact privacy@meetup.com.
+If you have any questions or complaints about this Privacy Policy or how we use your information, please contact [privacy@meetup.com](mailto:privacy@meetup.com).
+
+If you are located in the European Economic Area, you can also contact Meetup’s GDPR representative:  
+
+Meetup MHC GDPR Representative  
+Mason Hayes and Curran Professional Services Limited  
+South Bank House  
+Barrow Street  
+Dublin 4  
+Ireland  
+MeetupGDPRrepresentative@mhc.ie
+
+If you are located in the United Kingdom, you can also contact Meetup’s UK GDPR representative:
+
+Meetup MHC UK GDPR Representative  
+Mason Hayes and Curran LLP  
+1 Cornhill  
+London  
+EC3V 3ND  
+England  
+MeetupUKGDPRrepresentative@mhcldn.com
