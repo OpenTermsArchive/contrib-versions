@@ -251,7 +251,9 @@ Les modes de paiement listés ci-après peuvent être proposés par CDISCOUNT :
   
 (i) Cartes bancaires : Visa, Mastercard.  
   
-(ii) Paiement en « 4 fois » : le paiement en « 4 fois » peut être effectué par carte bancaire conformément aux conditions générales du paiement en « 4 fois », dont vous devez prendre connaissance au moment de la passation de votre commande.  Les conditions générales du paiement en « 4 fois » sont accessibles [en cliquant ici](https://i2.cdscdn.com/resources/InterestRateConfiguration/4f.pdf)
+(ii) Paiement en « 4 fois » : le paiement en « 4 fois » peut être effectué par carte bancaire conformément aux conditions générales du paiement en « 4 fois », dont vous devez prendre connaissance au moment de la passation de votre commande.  Les conditions générales du paiement en « 4 fois » sont accessibles [en cliquant ici](https://i2.cdscdn.com/resources/InterestRateConfiguration/4f.pdf?rnd=790653C4).
+
+ 
 
   [](https://i2.cdscdn.com/resources/InterestRateConfiguration/4f.pdf) Le paiement en "4 fois" n'est pas proposé de manière systématique à tous nos clients et/ou pour toutes les commandes. Nous mettons en œuvre une décision individuelle automatisée afin d'identifier les clients et les commandes éligibles au paiement en "4 fois".  
   
@@ -272,7 +274,7 @@ Pour en savoir plus sur la Solution de Crédit - "Payez en plusieurs fois", [cli
 (vii)               Par Paypal : Vous pouvez régler votre commande par PayPal, dans la limite de 1000 euros. Pour bénéficier de ce mode de paiement, vous devez avoir un compte auprès de la société PayPal. En cas de paiement par PayPal, ce sont les conditions générales d'utilisation de PayPal qui s'appliquent. Elles sont accessibles [en cliquant ici](https://www.paypal.com/fr/webapps/mpp/ua/useragreement-full?locale.x=fr_FR).  
   
   
-(viii)               Par Bancontact/Mistercash : Ce mode de paiement n’est pas disponible pour les paniers contenant des produits de la Marketplace Cdiscount.  Pour bénéficier de ce mode de paiement, vous devez disposer d’une adresse de facturation située en Belgique. En cas de paiement par Bancontact/Mistercash, ce sont les conditions générales d'utilisation de Bancontact/Mistercash qui s'appliquent. Elles sont accessibles en cliquant [ici](https://www.bancontact.com/).  
+(viii)               Par Bancontact/Mistercash : Ce mode de paiement néest pas disponible pour les paniers contenant des produits de la Marketplace Cdiscount.  Pour bénéficier de ce mode de paiement, vous devez disposer d’une adresse de facturation située en Belgique. En cas de paiement par Bancontact/Mistercash, ce sont les conditions générales d'utilisation de Bancontact/Mistercash qui s'appliquent. Elles sont accessibles en cliquant [ici](https://www.bancontact.com/).  
   
 (ix) Par bons d'achat  : Il est possible d’utiliser les bons d’achat émis par CDISCOUNT pour le paiement de toute ou partie de votre commande. Ces bons d’achats ne sont utilisables qu’une seule fois. Dans l’hypothèse où un client tenterait d’utiliser frauduleusement plusieurs fois l’un de ses bons d’achat, les commandes concernées par cette fraude seraient automatiquement annulées par CDISCOUNT.  
   
@@ -2057,7 +2059,7 @@ _ARTICLE 12 :  UTILISATION DU SITE_
 
   
   
-Le Site pourra être modifié ou mis à jour et l’accès au Site interrompu, suspendu ou arrêté é tout moment sans notification préalable. A ce titre, il est notamment précisé que toute opération de maintenance effectuée sur le Site pourra perturber l’accès et/ou le fonctionnement du Site. En tout état de cause, le Client Pro reconnaît être alerté des aléas techniques inhérents à Internet et des interruptions d’accès qui peuvent en résulter. Cdiscount ne pourra pas être tenue responsable des éventuels indisponibilités ou ralentissement du Site.   
+Le Site pourra être modifié ou mis à jour et l’accès au Site interrompu, suspendu ou arrêté à tout moment sans notification préalable. A ce titre, il est notamment précisé que toute opération de maintenance effectuée sur le Site pourra perturber l’accès et/ou le fonctionnement du Site. En tout état de cause, le Client Pro reconnaît être alerté des aléas techniques inhérents à Internet et des interruptions d’accès qui peuvent en résulter. Cdiscount ne pourra pas être tenue responsable des éventuels indisponibilités ou ralentissement du Site.   
   
   
 Cdiscount n’est en tout état de cause pas en mesure de garantir la continuité des fonctionnalités du Site ce que le Client Pro reconnaît. En aucun cas, la responsabilité de Cdiscount ne pourra être engagée par le Client Pro à ce titre. Cdiscount ne pourra en outre nullement être tenue responsable de l’impact de ces perturbations d’accès et/ou de fonctionnalités du Site sur l’activité du Client Pro.
@@ -2256,7 +2258,7 @@ L’Abonné Pro, par email, préalablement à l'application de ce prix, lequel n
 **ARTICLE 4- DUREE**   
   
   
-L’Abonnement au Service est valable douze (12) mois à compter de la Date de souscription au Service.  
+LéAbonnement au Service est valable douze (12) mois à compter de la Date de souscription au Service.  
   
 L’Abonnement au Service sera renouvelé par tacite reconduction chaque année, à la date d’anniversaire de l’Abonnement.  
   
