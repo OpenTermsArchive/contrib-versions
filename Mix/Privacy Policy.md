@@ -131,7 +131,7 @@ On the Mix Site, Mix and Third Parties that provide content, advertising, or oth
 *   **Pixel Tags/Web Beacons.** A pixel tag (also known as a web beacon) is a piece of code embedded on the Site that collects information about users’ engagement on that web page. The use of a pixel allows us to record, for example, that a user has visited a particular web page or clicked on a particular advertisement.
 *   **Social Media Widgets.** Our Site includes social media features such as the Facebook “Like” button and LinkedIn (that might include widgets such as the share this button or other interactive mini-programs). These features may collect your IP address, which page you are visiting on our Site, and may set a cookie to enable the feature to function properly. These social media features are either hosted by a Third Party or hosted directly on our Site. Your interactions with these features are governed by the privacy policy of the company providing it.
 
-The online advertising industry also provides websites from which you may opt out of receiving targeted ads from data partners and other advertising partners that participate in self-regulatory programs. You can access these and learn more about targeted advertising and consumer choice and privacy by visiting the [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp), [the Digital Advertising Alliance](http://www.aboutads.info/choices/), [the European Digital Advertising Alliance](https://www.youronlinechoices.eu/), and [the Digital Advertising Alliance of Canada](https://youradchoices.ca/choices/).
+The online advertising industry also provides websites from which you may opt out of receiving targeted ads from data partners and other advertising partners that participate in self-regulatory programs. You can access these and learn more about targeted advertising and consumer choice and privacy by visiting the [Network Advertising Initiative](https://www.networkadvertising.org/managing/opt_out.asp), [the Digital Advertising Alliance](http://www.aboutads.info/choices/), [the European Digital Advertising Alliance](https://www.youronlinechoices.eu/), and [the Digital Advertising Alliance of Canada](https://youradchoices.ca/choices/).
 
 Please note, you must opt out separately on each browser and on each device.
 
@@ -229,7 +229,7 @@ We also may share your information with affiliates in the same corporate family 
 
 **Cookies and Interest-Based Advertising.** As noted above, you may stop or restrict the placement of cookies on your computer or remove them from your browser by adjusting your web browser preferences. Please note that cookie-based opt-outs are not effective on mobile applications. However, on many mobile devices, application users may opt out of certain mobile ads via their device settings.
 
-The online advertising industry also provides websites from which you may opt-out of receiving targeted ads from our data partners and our other advertising partners that participate in self-regulatory programs. You can access these, and also learn more about targeted advertising and consumer choice and privacy, at [www.networkadvertising.org/‌managing/‌opt\_out.asp](http://www.networkadvertising.org/%E2%80%8Cmanaging/%E2%80%8Copt_out.asp), or [www.youronlinechoices.eu](http://www.youronlinechoices.eu/) and [www.aboutads.info/‌choices/](http://www.aboutads.info/%E2%80%8Cchoices/). You can also choose not to be included in Google Analytics [here](mailto:support@mix.com).
+The online advertising industry also provides websites from which you may opt-out of receiving targeted ads from our data partners and our other advertising partners that participate in self-regulatory programs. You can access these, and also learn more about targeted advertising and consumer choice and privacy, at [https://www.networkadvertising.org/managing/opt\_out.asp](https://www.networkadvertising.org/managing/opt_out.asp) or [www.youronlinechoices.eu](http://www.youronlinechoices.eu/) and [www.aboutads.info/‌choices/](http://www.aboutads.info/%E2%80%8Cchoices/). You can also choose not to be included in Google Analytics [here](https://tools.google.com/dlpage/gaoptout).
 
 To be clear, whether you are using our opt-out or an online industry opt-out, these cookie-based opt-outs must be performed on each device and browser that you wish to have opted-out. For example, if you have opted-out on your computer browser, that opt-out will not be effective on your mobile device. You must separately opt-out on each device. Advertisements on Third-Party websites that contain the AdChoices link and that link to this Privacy Policy may have been directed to you based on anonymous, non-Personal Information collected by advertising partners over time and across websites. These advertisements provide a mechanism to opt-out of the advertising partners’ use of this information for interest-based advertising purposes.
 
@@ -266,7 +266,7 @@ This Supplemental California Privacy Notice only applies to our processing of Pe
 | **Identifiers**<br><br>A real name, alias, Internet Protocol address, email address, account name, or other similar identifiers. | *   • Advertising networks<br>*   • Internet service providers<br>*   • Data analytics providers<br>*   • Operating systems and platforms<br>*   • Social networks<br>*   • Service providers |
 | **Personal information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e))**<br><br>A name | *   • Advertising networks<br>*   • Internet service providers<br>*   • Data analytics providers<br>*   • Operating systems and platforms<br>*   • Social networks<br>*   • Service providers |
 | **Protected classification characteristics under California or federal law**<br><br>Age (40 years or older) | *   • Advertising networks<br>*   • Internet service providers<br>*   • Data analytics providers<br>*   • Operating systems and platforms<br>*   • Social networks<br>*   • Service providers |
-| **Biometric information**<br><br>Imagery of the face from which an identifier template such as a faceprint | *   • Advertising networks<br>*   • Internet service providers<br>*   • Data analytics providers<br>*   • Operating systems and platforms<br>*   • Social networks<br>*   • Service providers |
+| **Biometric information**<br><br>Imagery of the face from which an identifier template such as a faceprint can be extracted. | *   • Advertising networks<br>*   • Internet service providers<br>*   • Data analytics providers<br>*   • Operating systems and platforms<br>*   • Social networks<br>*   • Service providers |
 | **Internet or other electronic network activity**<br><br>Browsing history, search history, information on a consumer's interaction with an internet website, application, or advertisement. | *   • Advertising networks<br>*   • Internet service providers<br>*   • Data analytics providers<br>*   • Operating systems and platforms<br>*   • Social networks<br>*   • Service providers |
 | **Geolocation data**<br><br>Physical location or movements. | *   • Advertising networks<br>*   • Internet service providers<br>*   • Data analytics providers<br>*   • Operating systems and platforms<br>*   • Social networks<br>*   • Service providers |
 | **Inferences drawn from other personal information to create a profile about a consumer**<br><br>Profile reflecting a consumer's preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes. | *   • Advertising networks<br>*   • Internet service providers<br>*   • Data analytics providers<br>*   • Operating systems and platforms<br>*   • Social networks<br>*   • Service providers |
@@ -283,7 +283,7 @@ For purposes of the CCPA, we do not “sell” Personal Information, nor do we h
 
 **Authorized Agent.** Only you, or someone legally authorized to act on your behalf, may make a verifiable consumer request related to your personal information. You may also make a verifiable consumer request on behalf of your minor child. To designate an authorized agent, [contact us](#contact) as set forth below.
 
-**Verification.** To protect your privacy, we will take steps the following steps to verify your identity before fulfilling your request. When you make a request, we will ask you to provide sufficient information that allows us to reasonably verify you are the person about whom we collected personal information or an authorized representative, which may include your name and email address.
+**Verification.** To protect your privacy, we will take the following steps to verify your identity before fulfilling your request. When you make a request, we will ask you to provide sufficient information that allows us to reasonably verify you are the person about whom we collected personal information or an authorized representative, which may include your name and email address.
 
 If you are a California resident and would like to exercise any of your rights under the CCPA, please [contact us](#contact) as set forth below. We will process such requests in accordance with applicable laws.
 
@@ -315,7 +315,7 @@ If you are a resident of Nevada, you have the right to opt-out of the sale of ce
 
 In the course of visiting our website, using our mobile applications or browser extensions, and/or using our services, we may process the following personal data:
 
-**Log Data.** When you interact with the Services our servers automatically record information that your browser or device sends. This Log Data may include information such as your computer’s IP address, browser type, and operating system, your mobile device identifier, the time of day of your access, your general physical location or your more specific location if you are connecting through your mobile device, and other analytics that help us deliver and monitor the effectiveness of our Services. This is necessary to be enable you to use our website and Services. Further, we have a legitimate interest to evaluate the effectiveness of our Services. The legal bases for this processing activity are Article 6 sec. 1 sent. 1 lit. b, f GDPR.
+**Log Data.** When you interact with the Services our servers automatically record information that your browser or device sends. This Log Data may include information such as your computer’s IP address, browser type, and operating system, your mobile device identifier, the time of day of your access, your general physical location or your more specific location if you are connecting through your mobile device, and other analytics that help us deliver and monitor the effectiveness of our Services. This is necessary to enable you to use our website and Services. Further, we have a legitimate interest to evaluate the effectiveness of our Services. The legal bases for this processing activity are Article 6 sec. 1 sent. 1 lit. b, f GDPR.
 
 **Account Information.** When you create a Mix account, we will collect your e-mail address, gender, year of birth and specific or general location. We process this information to provide our Services to you. If you personalize your Mix account, we will also collect any information you provide, such as your full name, your photo or avatar and any optional information you decide to supply about yourself and your interests. The legal basis for this processing activity is Article 6 sec. 1 sent. 1 lit. b GDPR ("performance of a contract").
 
@@ -350,7 +350,7 @@ In addition, Google is certified under the EU-US Privacy Shield and the Swiss-US
 
 Google Analytics cookies are stored on the basis of Article 6 sec. 1 sent. 1 lit. f ("legitimate interest") GDPR. We have a legitimate interest in analyzing user behavior in order to optimize both our web website and our advertising.
 
-You can prevent the use of Google Analytics at any time, either by installing a Google Browser Plugin that will set an opt-out cookie, or through appropriate settings in your browser. For more information, visit [https://tools.google.com/dlpage/gaoptout?hl=de](https://tools.google.com/dlpage/gaoptout?hl=de) and [https://www.google.com/analytics/terms/de.htm](https://www.google.com/analytics/terms/de.htm).
+You can prevent the use of Google Analytics at any time, either by installing a Google Browser Plugin that will set an opt-out cookie, or through appropriate settings in your browser. For more information, visit [https://tools.google.com/dlpage/gaoptout?hl=de](https://tools.google.com/dlpage/gaoptout?hl=de) and [https://marketingplatform.google.com/about/analytics/terms/de/](https://marketingplatform.google.com/about/analytics/terms/de/).
 
 For more information on the handling of user data at Google Analytics, see the Google Privacy Policy: [https://support.google.com/analytics/answer/6004245?hl=de](https://support.google.com/analytics/answer/6004245?hl=de).
 
@@ -380,7 +380,9 @@ Mix Tech, Inc.
 **EU**
 
 DP-Dock GmbH, Attn: MixTech Inc.  
-Ballindamm 39, 20095 Hamburg, Germany
+Ballindamm 39, 20095 Hamburg, Germany  
+[www.dp-dock.com](https://mix.com/www.dp-dock.com)  
+[mix@gdpr-rep.com](https://mix.com/mix@gdpr-rep.com)
 
 **UK**
 
@@ -389,4 +391,4 @@ DP Data Protection Services UK Ltd., Attn: MixTech Inc.
 
   
 
-Effective October 18, 2019
+Effective April 15, 2021
