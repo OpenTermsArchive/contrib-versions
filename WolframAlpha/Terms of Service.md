@@ -1,7 +1,7 @@
 Wolfram|Alpha General Terms of Use
 ==================================
 
-[Wolfram|Alpha Pro Terms of Use »](https://www.wolframalpha.com/termsofuse/pro/)
+[Wolfram|Alpha Pro Terms of Use »](https://www.wolframalpha.com/termsofuse/pro)
 
 The Wolfram|Alpha website (our “service”) gives you free access to broad computational resources, including powerful servers running complex algorithms at your request, large volumes of reliable and carefully curated data, and an innovative computation and delivery mechanism that provides you with expertly designed presentations and visualizations.
 
@@ -9,7 +9,7 @@ We are continually working to improve and expand Wolfram|Alpha, creating new alg
 
 Our goal is to provide the broadest possible free public access to our advanced computation and rich sources of data. To protect our servers, algorithms, and data collections from abuse or exploitation by a small number of users, and because some of the data we make available comes from third parties that impose conditions on its distribution, we need you to agree to, and abide by, the Terms of Use defined below.
 
-These terms are a contract you have to agree to before using the Wolfram|Alpha service. If you are under age 18 you may use Wolfram|Alpha only if you have permission from a parent, legal guardian, or teacher. By using the service, you are telling us either that you are over the age of 18 and legally able to form contracts or that an adult with authority to act on your behalf has agreed to these terms and to be responsible for ensuring your compliance with them in your use of the service and any results you obtain from it. If you don’t want to be bound by these terms, do not use the service or its results. However, you may want to consider one of our paid subscription options, which offer modified terms of use that may be more desirable to you. Please [contact us](https://www.wolframalpha.com/contact.html) for more information about the subscription options available.
+These terms are a contract you have to agree to before using the Wolfram|Alpha service. If you are under age 18 you may use Wolfram|Alpha only if you have permission from a parent, legal guardian, or teacher. By using the service, you are telling us either that you are over the age of 18 and legally able to form contracts or that an adult with authority to act on your behalf has agreed to these terms and to be responsible for ensuring your compliance with them in your use of the service and any results you obtain from it. If you don’t want to be bound by these terms, do not use the service or its results. However, you may want to consider one of our paid subscription options, which offer modified terms of use that may be more desirable to you. Please [contact us](https://www.wolframalpha.com/contact-us) for more information about the subscription options available.
 
 Our intention is to make Wolfram|Alpha available to everyone indefinitely. To achieve this, we reserve the right to cut off use by those who abuse the service, or to limit access in any other way for any reason. We are counting on the users of Wolfram|Alpha to embrace our goals and to support them by adhering to these terms.
 
@@ -73,7 +73,7 @@ Input Ownership and Privacy
 
 By putting input into Wolfram|Alpha in the form of a query, you are not relinquishing any of your ownership or rights to the content. By providing it to us in query form, you agree that we can store it in log files, and use it to generate the results given back to you. We may also use stored inputs to evaluate performance of the website or study usage patterns, for example examining inputs that seem to create problems for the system, or testing new versions of the system against logs of previous inputs.
 
-We will not attempt to associate individual Wolfram|Alpha inputs with individual human users, and will not release individual or aggregated lists of inputs, or any personally identifiable information, to any third party, except in response to lawful court orders. We will not attempt to assert intellectual property rights over anything given as input to Wolfram|Alpha simply on the basis of its having been given to us as input. For more details, see our [Privacy Policy](https://www.wolframalpha.com/privacypolicy.html).
+We will not attempt to associate individual Wolfram|Alpha inputs with individual human users, and will not release individual or aggregated lists of inputs, or any personally identifiable information, to any third party, except in response to lawful court orders. We will not attempt to assert intellectual property rights over anything given as input to Wolfram|Alpha simply on the basis of its having been given to us as input. For more details, see our [Privacy Policy](https://www.wolfram.com/legal/privacy/wolfram/).
 
 We do not collect or solicit personal information from users of the free Wolfram|Alpha service.
 
@@ -84,7 +84,7 @@ The Wolfram|Alpha service uses large collections of data aggregated from many so
 
 Spidering, data-mining, scraping, or probing Wolfram|Alpha, or otherwise attempting to abuse the service, is not only a violation of these terms but may also constitute violation of federal and state laws concerning unauthorized access to computer systems.
 
-You are forbidden to violate or attempt to violate the security of the website. If you find a way to crash the website or otherwise get it to misbehave, or you identify a vulnerability, flaw, or bug, please use the feedback form on any Wolfram|Alpha page, or [click here](https://www.wolframalpha.com/contact-us/), to report the problem. As there will no doubt always be ways to cause trouble for the site, we ask for your cooperation in ensuring that it remains available for use by everyone.
+You are forbidden to violate or attempt to violate the security of the website. If you find a way to crash the website or otherwise get it to misbehave, or you identify a vulnerability, flaw, or bug, please use the feedback form on any Wolfram|Alpha page, or [click here](https://www.wolframalpha.com/contact-us), to report the problem. As there will no doubt always be ways to cause trouble for the site, we ask for your cooperation in ensuring that it remains available for use by everyone.
 
 The material from the Wolfram|Alpha service is intended to be used by a human being in the form in which it is delivered. You are not allowed to systematically extract data from the results returned by Wolfram|Alpha and build them into a new raw data table or source, except on an ad hoc basis for personal use. See "[Ways You May Use Our Free Service and Its Results](#waystouse)" above for further details.
 
@@ -110,7 +110,7 @@ You agree to indemnify and hold Wolfram|Alpha and its directors, officers, share
 Reporting Incorrect or Infringing Material
 ------------------------------------------
 
-If you find something in Wolfram|Alpha that you feel is incorrect, we encourage you to report it; we take great pride in making the information we provide as accurate as possible. Click [here](https://www.wolframalpha.com/contact-us/) to report errors, or use the feedback form provided on each Wolfram|Alpha page.
+If you find something in Wolfram|Alpha that you feel is incorrect, we encourage you to report it; we take great pride in making the information we provide as accurate as possible. Click [here](https://www.wolframalpha.com/contact-us/contact-form/general) to report errors, or use the feedback form provided on each Wolfram|Alpha page.
 
 If you find something in Wolfram|Alpha that you believe to be a violation of a copyright or other right that you personally hold, we want to know so we can correct the problem. Please use the feedback form at the bottom of that material’s page to tell us where the material is, and why you think it is infringing.
 
@@ -129,6 +129,6 @@ Because the Wolfram family of companies markets a vast and growing array of prod
 Data Retention
 --------------
 
-Wolfram takes privacy and data protection seriously, and is committed to safeguarding data you share with us. To learn more, please see our [Privacy Policy](http://www.wolframalpha.com/privacypolicy.html).
+Wolfram takes privacy and data protection seriously, and is committed to safeguarding data you share with us. To learn more, please see our [Privacy Policy](https://www.wolfram.com/legal/privacy/wolfram/).
 
 Effective as of May 24, 2018
