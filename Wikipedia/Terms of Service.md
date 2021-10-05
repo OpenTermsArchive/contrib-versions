@@ -301,9 +301,9 @@ We appreciate your taking the time to read these Terms of Use, and we are very h
 
 **In the event of any differences in meaning between the original English version and a translation, the original English version takes precedence.**
 
-Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Terms\_of\_Use/en&oldid=130083](https://foundation.wikimedia.org/w/index.php?title=Terms_of_Use/en&oldid=130083)"
+Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Terms\_of\_Use/en&oldid=130886](https://foundation.wikimedia.org/w/index.php?title=Terms_of_Use/en&oldid=130886)"
 
 [Categories](https://foundation.wikimedia.org/wiki/Special:Categories "Special:Categories"):
 
 *   [Terms of Use](https://foundation.wikimedia.org/wiki/Category:Terms_of_Use "Category:Terms of Use")
-*   [Policy](https://foundation.wikimedia.org/wiki/Category:Policy "Category:Policy")
+*   [Policies](https://foundation.wikimedia.org/wiki/Category:Policies "Category:Policies")
