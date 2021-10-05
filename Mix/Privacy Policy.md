@@ -381,8 +381,7 @@ Mix Tech, Inc.
 
 DP-Dock GmbH, Attn: MixTech Inc.  
 Ballindamm 39, 20095 Hamburg, Germany  
-[www.dp-dock.com](https://mix.com/www.dp-dock.com)  
-[mix@gdpr-rep.com](https://mix.com/mix@gdpr-rep.com)
+[www.dp-dock.com](https://www.dp-dock.com/en/)
 
 **UK**
 
