@@ -107,7 +107,7 @@ Notices and Procedure for Making Claims of Copyright Infringement
 
 Pursuant to Title 17, United States Code, Section 512(c)(2), notifications of claimed copyright infringement should be sent to Service Provider's Designated Agent. ALL INQUIRIES NOT RELEVANT TO THE FOLLOWING PROCEDURE WILL NOT RECEIVE A RESPONSE.
 
-[Explore Notice and Procedure for Making Claims of Copyright Infringement](http://aka.ms/notices-of-infringement).
+[Explore the Notice and Procedure for Making Claims of Copyright Infringement](http://aka.ms/notices-of-infringement)
 
 Links to Third Party Sites
 --------------------------
