@@ -233,12 +233,3 @@ Contact us
 Snap Group Limited welcomes comments, questions, concerns or suggestions. You can contact us or get support by using [this online form](https://support.snapchat.com/i-need-help).
 
 The company responsible for the Services outside the United States is called Snap Group Limited and is located in the United Kingdom at 77 Shaftesbury Avenue, London, W1D 5DU, United Kingdom. Registered company number: 09763672. VAT ID: GB 237218316.
-
-* * *
-
-We’ve updated our Terms of Service, effective 30 September 2021. You can view the previous version[](https://www.snap.com/en-GB/privacy/privacy-policy#prior-version) below.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-If you live in the United States, you are agreeing to the [Snap Inc. Terms of Service](https://www.snap.com/en-GB/terms#prior-terms-us). Terms of Service.
-
-If you live outside the United States, you are agreeing to the [Snap Group Limited Terms of Service](https://www.snap.com/en-GB/terms#prior-terms-row).
