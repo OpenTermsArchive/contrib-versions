@@ -1,7 +1,7 @@
 Wix.com Privacy Policy
 ======================
 
-Effective from September 20, 2021
+Effective from October 6, 2021
 
 Welcome to Wix.com’s Privacy Policy
 
@@ -495,6 +495,10 @@ You may also contact us by mail at:
 ​
 
 For the purposes of GDPR (Article 27), you may contact our EU representative at Wix Online Platforms Limited, 1 Grant’s Row, Dublin 2 D02HX96, Ireland.
+
+​
+
+For the purposes of UK GDPR (Article 27), you may contact our UK representative at Wix.Com (UK) Limited, Tower Bridge House, St Katharine's Way, London E1W 1DD, United Kingdom.
 
 #### #ItsThatEasy
 
