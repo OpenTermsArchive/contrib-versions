@@ -9,46 +9,45 @@ We want everyone to feel welcome on Nextdoor, and we have created these Guidelin
 **![](https://lh6.googleusercontent.com/eRf8NJ4kT-uJes7NKRk-YsTkJWK7plddHcupr0arNjvEIPudFpLaT_kt9Y2usEKWuAzuc0nvbv_C0GmmG0sPhlF1rRqHkPNz2yMBJpHWJE5vNJwE0EBCOIdPKJvlR-szC63yjPBc)**
 
   
-[1\. Be helpful in conversations](https://help.nextdoor.com/s/article/Be-helpful-in-conversations?language=en_GB)
---------------------------------------------------------------------------------------------------------------------
+[1\.](https://help.nextdoor.com/s/article/Be-respectful-to-your-neighbors?language=en_GB) [Be respectful to your neighbours](http://help.nextdoor.com/s/article/Be-respectful-to-your-neighbors?language=en_GB)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Share this space in a constructive way. Be kind, not judgmental, in your conversations.  
+You’re speaking to your real neighbours. Strong communities are built on strong relationships.
+
+  
+[2.](https://help.nextdoor.com/s/article/Do-not-discriminate?language=en_GB) [Do not discriminate](http://help.nextdoor.com/s/article/Do-not-discriminate?language=en_GB)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+We do not tolerate racism, hateful language, or discrimination of any kind.
+
+  
+[3\.](https://help.nextdoor.com/s/article/Be-helpful-in-conversations?language=en_GB) [Discuss important topics in the right way](http://help.nextdoor.com/s/article/Be-helpful-in-conversations?language=en_GB)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+We have policies and dedicated spaces for important non-local topics, such as national politics.  
  
 
-[2\. Be respectful to your neighbours](https://help.nextdoor.com/s/article/Be-respectful-to-your-neighbors?language=en_GB)
---------------------------------------------------------------------------------------------------------------------------
+[4\.](https://help.nextdoor.com/s/article/promote-local-business-and-commerce-the-right-way) [Promote local commerce the right way](http://help.nextdoor.com/s/article/promote-local-business-and-commerce-the-right-way)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-You’re speaking to your real neighbours. Strong communities are built on strong relationships.   
+We have created designated spaces for neighbours and local businesses to sell products and services.   
  
 
-[3\. Do not discriminate](https://help.nextdoor.com/s/article/Do-not-discriminate?language=en_GB)
--------------------------------------------------------------------------------------------------
-
-We do not tolerate racism, hateful language, or discrimination of any kind.  
- 
-
-[4\. Do not engage in harmful activity](https://help.nextdoor.com/s/article/Do-not-engage-in-harmful-activity?language=en_GB)
------------------------------------------------------------------------------------------------------------------------------
-
-We prohibit any activity that could hurt someone, from physical harm to scams.  
- 
-
-[5\. Promote local commerce the right way](https://help.nextdoor.com/s/article/promote-local-business-and-commerce-the-right-way?language=en_GB)
-------------------------------------------------------------------------------------------------------------------------------------------------
-
-We have created designated spaces for members and local businesses to sell products and services.   
- 
-
-[6\. Use your true identity](https://help.nextdoor.com/s/article/use-your-true-identity?language=en_GB)
--------------------------------------------------------------------------------------------------------
+[5\.](https://help.nextdoor.com/s/article/use-your-true-identity) [Use your true identity](http://help.nextdoor.com/s/article/use-your-true-identity)
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 
 Nextdoor is built on trust — we want everyone to know they’re communicating with their real neighbour, and therefore require you to use your true identity.   
  
 
-You, our members who make up Nextdoor, play a key role in neighbourhood [moderation](https://help.nextdoor.com/s/article/About-moderation?language=en_GB) by reporting content or members that violate these Guidelines. Please remember that disagreeing with a post is not a reason to report it. This slows down our ability to remove content that is truly abusive and to create a platform where everyone feels welcome.  
+[6\.](https://help.nextdoor.com/s/article/Do-not-engage-in-harmful-activity?language=en_GB) [Do not engage in harmful activity](http://help.nextdoor.com/s/article/Do-not-engage-in-harmful-activity?language=en_GB)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+We prohibit any activity that could hurt someone, from physical harm to scams.  
  
 
-**Additional policy resources:** 
+You, our neighbours who make up Nextdoor, play a key role in neighbourhood [moderation](https://help.nextdoor.com/s/article/About-moderation?language=en_GB) by reporting content or neighbours that violate these Guidelines. Please remember that disagreeing with a post is not a reason to report it. This slows down our ability to remove content that is truly abusive and to create a platform where everyone feels welcome.
+
+**ADDITIONAL POLICY RESOURCES** 
 
 *   **[Member Agreement](https://nextdoor.co.uk/member_agreement/)**
 *   **[Privacy Policy](https://nextdoor.co.uk/privacy_policy/)**
