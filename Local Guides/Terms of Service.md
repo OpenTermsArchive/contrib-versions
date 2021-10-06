@@ -12,7 +12,7 @@ In order to participate in the Programme as a Local Guide, you must:
 *   meet the [age requirements for your country](https://maps.google.com/accounts/answer/1350409); and
 *   have signed up to participate in the Programme [here](https://www.google.com/local/guides/signup)
 
-Organisations, brands and businesses are not eligible for the Programme. If you offer services for hire (such as marketing yourself as a Street View trusted provider), you are not allowed to bundle such services with your Local Guide membership.
+Google Workforce for Education accounts that are under 18 years of age, organisations, brands and businesses are not eligible for the Programme. If you offer services for hire (such as marketing yourself as a Street View trusted provider), you are not allowed to bundle such services with your Local Guide membership.
 
 Local Guides contributions and levels
 -------------------------------------
