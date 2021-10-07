@@ -95,7 +95,7 @@ We may waive these fees in matters investigating potential harm to children, Fac
 
 #### Human rights due diligence
 
-In line with our commitments as a member of the Global Network Initiative and our [Corporate Human Rights Policy](https://l.facebook.com/l.php?u=https%3A%2F%2Fabout.fb.com%2Fwp-content%2Fuploads%2F2021%2F03%2FFacebooks-Corporate-Human-Rights-Policy.pdf&h=AT1UsGdLHOnZeJxXgdt7ZnvE7_49rkJ7-U6DxUjzU-MAoWy5O34u4d1sId6NPFUr9KNnzyVTrahS32lsmaiCKqlmQLvHrW7tOQbQVfqfcTq2AduHf3gHE_Bja1R4SOOAUR5429rNC8Ftcx6Y), we also conduct a careful review of each law enforcement request to disclose user data for consistency with international human rights standards.
+In line with our commitments as a member of the Global Network Initiative and our [Corporate Human Rights Policy](https://l.facebook.com/l.php?u=https%3A%2F%2Fabout.fb.com%2Fwp-content%2Fuploads%2F2021%2F03%2FFacebooks-Corporate-Human-Rights-Policy.pdf&h=AT2M3U6H8mSnVq5BpnZ0SRhIOGPzMOmy3NFrbupiTYa_ewHsVgxBAh2cJrnJ8GWQHbzVUKvmES4Gj3aSzFpmtlladah_nSop1wb4lHAPYMWae0eXSP1h8PveqnPX9ZZOmbc5AouIHslt6XhD), we also conduct a careful review of each law enforcement request to disclose user data for consistency with international human rights standards.
 
 * * *
 
@@ -111,15 +111,15 @@ Law enforcement officials may use the [Law Enforcement Online Request System](ht
 
 Please note:
 
-1.  Law enforcement officials seeking account records from Facebook or Instagram must address their request to Facebook Inc.
+1.  Law enforcement officials seeking account records from Facebook or Instagram must address their request to Facebook Ireland Limited.
     
 2.  A government-issued email address is required to access the Law Enforcement Online Request System.
     
 
 #### By post
 
-United States postal address:  
-1601 Willow Road, Menlo Park CA 94025, United States
+Ireland postal address:  
+Facebook Ireland Ltd | 4 Grand Canal Square | Dublin 2, Ireland
 
 FAO: Facebook Security, Law Enforcement Response Team
 
