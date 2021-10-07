@@ -1,7 +1,7 @@
 Shopping ads policies
 =====================
 
-Welcome to the Shopping ads Policy Center
+Welcome to the Shopping ads Policy centre
 -----------------------------------------
 
 Here you'll find the requirements for advertising on the Google Network.
@@ -13,14 +13,19 @@ Here you'll find the requirements for advertising on the Google Network.
 Overview of our shopping ads policies
 -------------------------------------
 
-Our policies cover four broad areas:
+Our policies cover four broad areas:  
+ 
 
-*   ![Google Ads policies | prohibited content](//storage.googleapis.com/support-kms-prod/RrjdySjRxcYJL3NpcXaobwTxuk7zctDbL8rX "Google Ads policies | prohibited content") **[Prohibited content](#con):** Content you're not allowed to promote on the Google Network
-*   ![Google Ads policies | prohibited practice](//storage.googleapis.com/support-kms-prod/aYpRwkWqocXCGj8TVXwShJAbVpbcYO9qABIs "Google Ads policies | prohibited practice") **[Prohibited practices](#pra):** Things you can't do if you want to advertise with us
-*   ![Google Ads policies | restricted content](//storage.googleapis.com/support-kms-prod/tNErobNFH6ZkSwZtpMfEXrQkhCi1uMdPn3ur "Google Ads policies | restricted content") **[Restricted content](#res):** Content you can advertise, but with limitations
-*   ![Google Ads policies | editorial and technical content](//storage.googleapis.com/support-kms-prod/MIXDdIdSQ69Eq1NzuL5dUJjHRDYr9sjXX3wp "Google Ads policies | editorial and technical content") **[Editorial and technical](#ed):** Quality standards for your ads and website
+*   ![Google Ads policies | prohibited content](//storage.googleapis.com/support-kms-prod/RrjdySjRxcYJL3NpcXaobwTxuk7zctDbL8rX "Google Ads policies | prohibited content") **[Prohibited content](#con):** Content that you're not allowed to promote on the Google Network  
+     
+*   ![Google Ads policies | prohibited practice](//storage.googleapis.com/support-kms-prod/aYpRwkWqocXCGj8TVXwShJAbVpbcYO9qABIs "Google Ads policies | prohibited practice") **[Prohibited practices](#pra):** Things you can't do if you want to advertise with us  
+     
+*   ![Google Ads policies | restricted content](//storage.googleapis.com/support-kms-prod/tNErobNFH6ZkSwZtpMfEXrQkhCi1uMdPn3ur "Google Ads policies | restricted content") **[Restricted content](#res):** Content you can advertise, but with limitations  
+     
+*   ![Google Ads policies | editorial and technical content](//storage.googleapis.com/support-kms-prod/MIXDdIdSQ69Eq1NzuL5dUJjHRDYr9sjXX3wp "Google Ads policies | editorial and technical content") **[Editorial and technical](#ed):** Quality standards for your ads and website  
+     
 
-Click through the policies below for policy definitions, examples, and troubleshooting steps.
+Click through the policies below for policy definitions, examples and troubleshooting steps.
 
 * * *
 
@@ -40,19 +45,19 @@ Click through the policies below for policy definitions, examples, and troublesh
 
 > Google wants to help keep people safe both online and offline, so we don’t allow the promotion of some products that cause damage, harm or injury.
 > 
-> _Examples of dangerous content:_ Recreational drugs (chemical or herbal); psychoactive substances; equipment to facilitate drug use; weapons, ammunition, explosive materials and fireworks; instructions for making explosives or other harmful products; tobacco products.
+> _Examples of dangerous products:_ Recreational drugs (chemical or herbal); psychoactive substances; equipment to facilitate drug use; weapons, ammunition, explosive materials and fireworks; instructions for making explosives or other harmful products; tobacco products.
 
-#### [Products that enable dishonest behavior](https://support.google.com/merchants/merchants/answer/6150005)
+#### [Products that enable dishonest behaviour](https://support.google.com/merchants/merchants/answer/6150005)
 
 > Google values honesty and fairness, so we don’t allow the promotion of products that are designed to enable dishonest behaviour.
 > 
-> _Examples of products that enable dishonest behavior:_ Hacking software or instructions; fake documents; academic cheating products.
+> _Examples of products that enable dishonest behaviour:_ Hacking software or instructions; fake documents; academic cheating products.
 
 #### [Inappropriate content](https://support.google.com/merchants/merchants/answer/6149990)
 
 > Google values diversity and respect for others, and we strive to avoid offending users, so we don’t allow ads or destinations that display shocking content or promote hatred, intolerance, discrimination or violence.
 > 
-> _Examples of inappropriate or offensive content:_ Bullying or intimidation of an individual or group; racial discrimination; hate group paraphernalia; graphic crime scene or accident images; cruelty to animals; murder; self-harm; extortion or blackmail; sale or trade of endangered species.
+> _Examples of inappropriate or offensive content:_ Bullying or intimidation of an individual or group; racial discrimination; hate-group paraphernalia; graphic crime-scene or accident images; cruelty to animals; murder; self-harm; extortion or blackmail; sale or trade of endangered species.
 
 #### [Unsupported Shopping ads content](https://support.google.com/merchants/merchants/answer/6150006)
 
@@ -79,16 +84,16 @@ Click through the policies below for policy definitions, examples, and troublesh
 
 > Google wants users to trust that information about them will be respected and handled with appropriate care. As such, our advertising partners should not misuse this information, nor collect it for unclear purposes or without appropriate security measures.
 > 
-> _Examples of user information that must be handled with care:_ full name; email address; mailing address; phone number; national identity, pension, social security, tax ID, health care, or driver's license number; birth date or mother's maiden name in addition to any of the above information; financial status; political affiliation; sexual orientation; race or ethnicity; religion.
+> _Examples of user information that must be handled with care:_ full name; email address; postal address; phone number; national-identity, pension, national-insurance, tax ID, healthcare or driving-licence number; birthdate or mother's maiden name in addition to any of the above information; financial status; political affiliation; sexual orientation; race or ethnicity; religion.
 > 
 > _Examples of irresponsible data collection and use_: Obtaining the following data over non-secure SSL (https://) server connections:
 > 
 > *   Username or email in combination with passwords
 > *   Credit and debit card numbers
 > *   Bank and investment account numbers
-> *   Checking account numbers
-> *   Wire transfer numbers
-> *   National identity, pension, social security, tax ID, health care, or driver's license number
+> *   Other account numbers
+> *   Bank transfer numbers
+> *   National-identity, pension, national-insurance, tax ID, healthcare or driving-licence number
 
 #### [Misrepresentation](https://support.google.com/merchants/merchants/answer/6150127)
 
@@ -103,7 +108,7 @@ Click through the policies below for policy definitions, examples, and troublesh
 
 The policies below cover content that is sometimes legally or culturally sensitive. Online promotion can be a powerful way to reach customers, but in sensitive areas, we also work hard to avoid showing these ads when and where they might be inappropriate.
 
-For that reason, we allow promotion of the content below, but on a limited basis. These promotions may not show to every user in every location, and merchants may need to meet additional requirements before their ads are eligible to run. Note that not all products, features, or networks are able to support this restricted content.
+For that reason, we allow promotion of the content below, but on a limited basis. These promotions may not be shown to every user in every location, and merchants may need to meet additional requirements before their ads are eligible to run. Note that not all products, features or networks are able to support this restricted content.
 
 #### [Adult-oriented content](https://support.google.com/merchants/merchants/answer/6150138)
 
@@ -121,9 +126,9 @@ For that reason, we allow promotion of the content below, but on a limited basis
 > *   promote content with underage or non-consensual sexual themes, including child sexual abuse content
 > *   promote services that may be interpreted as providing sexual acts in exchange for compensation
 > 
-> _Examples of restricted adult content:_ sex toys; adult magazines; sexual enhancement products; sexually suggestive lingerie promotions.
+> _Examples of restricted adult content:_ sex toys; adult magazines; sexual-enhancement products; sexually suggestive lingerie promotions.
 
-#### [Alcoholic beverages](https://support.google.com/merchants/merchants/answer/6150139)
+#### [Alcoholic drinks](https://support.google.com/merchants/merchants/answer/6150139)
 
 > Google restricts the promotion of alcoholic beverages and drinks that resemble alcoholic beverages.
 > 
@@ -136,7 +141,7 @@ For that reason, we allow promotion of the content below, but on a limited basis
 > *   portray excessive drinking in a positive light or feature binge or competition drinking
 > *   show alcohol being consumed in conjunction with the operation of a vehicle of any kind, the operation of machinery or the performance of any task requiring alertness or dexterity
 > 
-> _Examples of restricted alcoholic beverages:_ beer; wine; sake; spirits or hard alcohol; Champagne; fortified wine; non-alcoholic beer; non-alcoholic wine; and non-alcoholic distilled spirits.
+> _Examples of restricted alcoholic drinks:_ beer; wine; sake; spirits or hard alcohol; champagne; fortified wine; non-alcoholic beer; non-alcoholic wine; non-alcoholic distilled spirits.
 
 #### [Copyrighted content](https://support.google.com/merchants/merchants/answer/6150163)
 
@@ -146,7 +151,7 @@ For that reason, we allow promotion of the content below, but on a limited basis
 
 > Google restricts the promotion of gambling-related content.
 > 
-> _Examples of restricted gambling-related content:_ national or private lotteries; sites offering bonus codes or promotional offers for gambling sites
+> _Examples of restricted gambling-related content:_ national or private lotteries; sites offering bonus codes or promotional offers for gambling sites.
 
 #### [Healthcare-related content](https://support.google.com/merchants/merchants/answer/6150151)
 
@@ -175,11 +180,17 @@ For that reason, we allow promotion of the content below, but on a limited basis
 
 > Shopping ads don't restrict use of trademarks by merchants in the title or description of an ad when it's for a trademarked product or a product compatible with the trademarked product. Merchants need to reference trademarks to be able communicate to users what they're offering, and users need that information as it's relevant to their searches. We'll review claims by trademark owners that use of their trademark is likely to cause consumer confusion about the origin of a product. To submit a trademark-related complaint if you're an owner of the trademark, [use this form](https://support.google.com/merchants/contact/policy).
 
+#### [High fat, sugar and salt food and beverage](https://support.google.com/merchants/merchants/answer/11191042)
+
+> We support responsible advertising of food and beverages. High fat, sugar and salt (HFSS) food and beverage (F&B) Shopping ads are allowed if they comply with our policies. We consider ads to be promoting the sale of HFSS products when one or more HFSS food item, beverage or meal is promoted in the ad (text, imagery, audio and/or video) or destination site. Specifically, Shopping ads that contain HFSS foods and beverages are now prohibited from targeting minors.
+> 
+> The information reflected in this policy is not intended to be legal advice and we expect all merchants and partners to comply with the local laws for any region their ads target, including local requirements that may differ from this HFSS food and beverage policy.
+
   
 
-### Editorial & technical requirements
+### Editorial and technical requirements
 
-We want to deliver ads that are engaging for users without being annoying or difficult to interact with, so we've developed editorial requirements to help keep your ads appealing to users. We've also specified technical requirements to help users and advertisers get the most out of the variety of ad formats we offer.
+We want to deliver ads that are engaging for users without being annoying or difficult to interact with, so we've developed editorial requirements to help keep your ads appealing to users. We've also specified technical requirements to help users and advertisers get the most out of the variety of ad formats that we offer.
 
 #### [Editorial & professional requirements](https://support.google.com/merchants/merchants/answer/6150244)
 
@@ -187,9 +198,9 @@ We want to deliver ads that are engaging for users without being annoying or dif
 > 
 > _Examples of promotions that don't meet these editorial and professional requirements:_
 > 
-> *   a display URL that does not accurately reflect the URL of the landing page, such as "google.com" taking users to "gmail.com"
-> *   gimmicky use of words, numbers, letters, punctuation, or symbols such as FREE, f-r-e-e, and F₹€€!!
-> *   sites that are under construction, parked domains, or are just not working
+> *   a Display URL that does not accurately reflect the URL of the landing page, such as 'google.com' taking users to 'gmail.com'
+> *   gimmicky use of words, numbers, letters, punctuation or symbols such as FREE, f-r-e-e and F₹€€!!
+> *   sites that are under construction, parked domains or are just not working
 > *   sites that have disabled the browser's back button
 > *   sites that are not viewable in commonly used browsers
 
@@ -200,6 +211,6 @@ We want to deliver ads that are engaging for users without being annoying or dif
 About our policies
 ------------------
 
-> Shopping ads enable businesses of all sizes, from around the world, to promote a wide variety of products and websites on Google and across our network. We want to help you reach existing and potential customers and audiences. However, to help create a safe and positive experience for users, we listen to their feedback and concerns about the types of ads they see. We also regularly review changes in online trends and practices, industry norms, and regulations. And finally, in crafting our policies, we also think about our values and culture as a company, as well as operational, technical, and business considerations. As a result, we have created a set of policies that apply to all promotions on the Google Network.
+> Shopping ads enable businesses of all sizes, from around the world, to promote a wide variety of products and websites on Google and across our network. We want to help you reach existing and potential customers and audiences. However, to help create a safe and positive experience for users, we listen to their feedback and concerns about the types of ads that they see. We also regularly review changes in online trends and practices, industry norms and regulations. And finally, in crafting our policies, we also think about our values and culture as a company, as well as operational, technical and business considerations. As a result, we have created a set of policies that apply to all promotions on the Google Network.
 > 
-> Google requires that advertisers comply with all applicable laws and regulations and the Google policies described above. It's important that you familiarize yourself with and keep up to date on these requirements for the places where your business operates, as well as any other places your ads are showing. When we find content that violates these requirements, we may block it from appearing, and in cases of repeated or egregious violations, we may stop you from advertising with us.
+> Google requires that advertisers comply with all applicable laws and regulations and the Google policies described above. It's important that you familiarise yourself with and keep up to date on these requirements for the places where your business operates, as well as any other places that your ads are showing. When we find content that violates these requirements, we may block it from appearing, and in cases of repeated or egregious violations, we may stop you from advertising with us.
