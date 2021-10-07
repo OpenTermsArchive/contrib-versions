@@ -1,5 +1,3 @@
-[Home](https://www.mouthshut.com/) > Terms of Services
-
 Terms Of Services
 =================
 
