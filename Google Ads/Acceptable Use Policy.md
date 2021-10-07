@@ -37,6 +37,8 @@ Our advertising policies cover four broad areas:
 > 
 > > Google Ads prohibits the sale or promotion for sale of counterfeit goods. Counterfeit goods contain a trademark or logo that is identical to or substantially indistinguishable from the trademark of another. They mimic the brand features of the product in an attempt to pass themselves off as a genuine product of the brand owner. This policy applies to the content of your ad and your website or app. 
 > 
+>   
+> 
 > ### [Dangerous products or services](https://support.google.com/adspolicy/answer/6014299)
 > 
 > > We want to help keep people safe both online and offline, so we don't allow the promotion of some products or services that cause damage, harm, or injury.
