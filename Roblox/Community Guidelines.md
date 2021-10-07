@@ -83,9 +83,9 @@ We want our metaverse to be safe and welcoming for everyone, regardless of their
     While we allow the portrayal of gambling in experiences, no real money, Robux, or anything that can become real money or Robux, may be exchanged in these experiences. We also require that the odds of winning be fair and not skewed in the developer’s favor.  
       
     
-9.  **Physically Dangerous Activities**  
-    Roblox does not allow the depiction, glorification, or encouragement of activities specifically designed to create an extreme risk of physical harm to the participant. This includes:
-    *   Physical challenges or stunts
+9.  **Real World Physically Dangerous Activities**  
+    Roblox does not allow the depiction, glorification, or encouragement of participation in activities in the real world that are specifically designed to create an extreme risk of physical harm to the participant offline. This includes:
+    *   Physical challenge or stunt trends
     *   Dangerous misuse of fireworks  
           
         
@@ -118,7 +118,7 @@ We expect all Robloxians to treat one another with kindness. This means striving
         
 11.  **Dating and Romantic Content**  
     Roblox is a safe space for meeting online friends, chatting, and collaborating on creative projects, but we prohibit content that seeks or portrays romantic relationships, including:
-    *   Animations of kissing, hand holding, or other romantic gestures
+    *   Animations of kissing, hand holding, or other romantic gestures in a romantic context
     *   Experiences that depict romantic events, including weddings, dates, and honeymoons  
           
         
@@ -149,10 +149,10 @@ We expect all Robloxians to treat one another with kindness. This means striving
     *   Inflammatory content related to real world border, territorial, or jurisdictional relationships  
           
         
-15.  **Depictions of Real-World Tragedy**  
-    Roblox prohibits content that depicts or references real-world tragic events; mocks the victims of such events; supports, glorifies, or promotes the perpetrators; or capitalizes on these events for commercial purposes. Real world tragic events include:
+15.  **Real-World Tragedy Events**  
+    Roblox prohibits content that recreates specific real-world tragic events; mocks the victims of such events; supports, glorifies, or promotes the perpetrators; or capitalizes on these events for commercial purposes. Real world tragic events include:
     *   Mass shootings and domestic terrorism
-    *   Natural disasters
+    *   Specific, real world, natural disaster events
     *   Human or civil rights violations  
           
         
@@ -166,7 +166,7 @@ We expect all Robloxians to treat one another with kindness. This means striving
 17.  **Disruptive Audio**  
     We don’t allow audio that disrupts other users’ experience, including audio that contains:
     *   Background noise that makes the intended audio unintelligible
-    *   Excessive loudness, screaming, or high-pitched noises  
+    *   Excessive loudness, screaming, or high-pitched noises that disrupts others’ experience  
           
         
 18.  **Threats or Abuse of Roblox Employees or Affiliates**  
@@ -206,27 +206,31 @@ Roblox aims to build a community that’s transparent about its rules and how th
     *   Sharing exploits with others or encouraging others to cheat  
           
         
-22.  **Impersonation and Misrepresentation**  
-    Roblox encourages creativity, including in your avatar designs and username, but we don’t allow users to impersonate other people’s real- or virtual-world identity or affiliations, including other users, Roblox employees, contractors, and affiliates, or public figures. This includes any attempts to impersonate in the following areas:
+22.  **Misleading Impersonation and Misrepresentation**  
+    Roblox encourages creativity, including in your avatar designs and username, but we don’t allow users to mislead others by impersonating other people’s real- or virtual-world identity or affiliations, including other users, Roblox employees, contractors, and affiliates, or public figures. This includes any attempts to impersonate in the following areas:
+    
     *   Name or username
     *   Position in a company
     *   Digital representation
-    *   A post or comment  
-          
-        
-23.  **Intellectual Property Violations**  
-    We don’t allow users to violate intellectual property rights on Roblox, and will remove infringing content upon receiving a valid Digital Millennium Copyright Act (DMCA) notice or Trademark infringement removal request. Examples of intellectual property infringement include:
+    *   A post or comment
     
-    *   Using another developer’s code to create your experience
+    This does not apply to satire, fan art, or tributes that are not misleading to other users.  
+      
+    
+23.  **Intellectual Property Violations**  
+    We don’t allow users to violate intellectual property rights on Roblox, and will remove infringing content upon receiving a valid Digital Millennium Copyright Act (DMCA) notice or Trademark infringement removal request. Examples of intellectual property infringement may include:
+    
+    *   Using another developer’s code to create your experience without their permission
     *   Using another artist’s music in your experience
-    *   Using a brand’s logo or designs for the content you design
-    *   Using Roblox’s name, logo, or other designs both on and off the platform
+    *   Using a brand’s logo or designs for the content you design without their permission
+    
+    For information on how to use Roblox’s name and logo, please see our [Community Usage Guidelines](https://en.help.roblox.com/hc/en-us/articles/115001708126).
     
     Copyright and trademark takedown requests can be filed [here](https://www.roblox.com/support).  
       
     
 24.  **Contests and Sweepstakes**  
-    We don’t allow contests, games, or sweepstakes that offer Robux as a prize. This includes:
+    We don’t allow contests, games, or sweepstakes on the platform that offer Robux as a prize. This includes:
     
     *   Lottery-style games
     *   Any use of the words “Play for R$” in games
@@ -235,7 +239,7 @@ Roblox aims to build a community that’s transparent about its rules and how th
     If paid random items appear in your experience, they cannot be sold or traded for Robux, real currency, or anything else of value on Roblox. You also must use the applicable [Policy API](https://developer.roblox.com/en-us/api-reference/function/PolicyService/GetPolicyInfoForPlayerAsync).  
       
     
-25.  **External Links**  
+25.  **Directing Users Off-Platform**  
     When using Roblox, you may not link to any external websites or services, **except for**: YouTube, Facebook, Discord, Twitter, and Twitch. Any in-experience link must be wrapped in the [applicable Policy API](https://developer.roblox.com/en-us/api-reference/function/PolicyService/GetPolicyInfoForPlayerAsync). You may also share social links using the Social Networks and Social Links settings of your profile or experience description page. Any other links are prohibited, including:
     
     *   Links that contain Roblox-inappropriate content
@@ -264,9 +268,9 @@ For our metaverse to thrive, the Roblox community must feel digitally safe as we
 To maintain a safe metaverse, Roblox does **not** permit:
 
 27.  **Unauthorized Access**  
-    We prohibit any activity intended to gain unauthorized access to Roblox’s systems or accounts, as well as threatening or encouraging such activity. This includes:
-    *   Using VPNs to mask your location
-    *   Attempting to hack another player’s account
+    We prohibit any activity that is used to gain unauthorized access to Roblox’s systems or accounts, as well as threatening or encouraging such activity. This includes:
+    *   Using VPNs to mask your location in order to gain unauthorized access to the Roblox platform, a specific feature, or another user’s account
+    *   Attempting to hack another user’s account
     *   Launching any sort of cyberattack
     *   Posting misleading links for the purpose of gaining unauthorized access (i.e., phishing)
     *   Launching malicious software (i.e., malware) to cause damage to or gain access to another user’s computer.  
@@ -297,10 +301,12 @@ To maintain a safe metaverse, Roblox does **not** permit:
         
 30.  **Roblox Economy**  
     Roblox maintains the Robux system for everyone’s benefit and enjoyment. To keep it secure, some uses of Robux are not permitted, including:
-    *   Promotions or promotional codes that promise Robux or digital goods that exist outside of the experience, or that appear to be offered by Roblox itself
-    *   Selling, trading, or giving away Robux, game codes, or in-experience digital goods outside of Roblox
+    *   Using third-party services to sell, trade, or give away Robux. This does not apply to Roblox gift cards.
+    *   Promotional codes that falsely appear to be offered by Roblox itself
     *   Inappropriate use of the group payout system, including offering payment in Robux for acting as a model for assets, joining groups, referring members, or role-playing in experiences.
 
-**Last Updated**: October 5, 2021
+See the [Roblox Terms of Use](https://en.help.roblox.com/hc/en-us/articles/115004647846) for more information.
+
+**Last Updated**: October 6, 2021
 
 [Return to top](#article-container)
