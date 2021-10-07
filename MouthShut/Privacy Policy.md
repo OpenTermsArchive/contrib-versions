@@ -1,5 +1,3 @@
-[Home](https://www.mouthshut.com/) > Privacy Policy
-
 Privacy Policy
 ==============
 
