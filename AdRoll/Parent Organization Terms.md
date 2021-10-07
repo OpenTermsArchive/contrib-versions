@@ -392,7 +392,7 @@ Add-Ons
 
 **Contact Data Services**
 
-**Sales Automnation Services**
+**Sales Automation Services**
 
 **Media Services (no SaaS)**
 
@@ -421,13 +421,9 @@ AdRoll Packages
 
 **Starter**
 
-**Essentials**
-
 **Growth**
 
 **Advanced**
-
-**Advanced Tracking**
 
 [NextRoll Terms of Service](https://www.nextroll.com/terms)
 
@@ -435,8 +431,6 @@ AdRoll Packages
 (Retargeting, Brand Awareness/Prospecting)
 
 [AdRoll Email Services Addendum](https://www.nextroll.com/terms/email)
-
-[AdRoll Cross Channel Measurement Services Addendum](https://www.nextroll.com/terms/cross-channel-measurement)
 
 [NextRoll Data Protection Addendum](https://www.nextroll.com/terms/data-protection) (if applicable)
 
