@@ -109,16 +109,14 @@ We may use your Information for the purpose of setting up your account with us, 
 
 In countries where our processing of Information requires a lawful basis, we rely upon the following:
 
-  
-
 *   Much of our processing, such as providing, and maintaining our Offerings, is necessary for entering into, or the performance of, the contract we have with you, including enabling new customers to sign-up or register with us and existing customers to log-in to our Digital Services.
 *   Other types of processing are necessary for our ‘legitimate interests’ (and those of others), including:
-*   Running our business, providing our Offerings and serving our customers;
-*   Contacting customers with important notices or updates; 
-*   Contacting customers about their transactions, purchases and competition wins;
-*   Personalizing content and making recommendations for other content;
-*   Exercising and/or enforcing the rights granted to us under the terms and conditions of the Offering;
-*   Facilitating payment for our Offerings.
+    *   Running our business, providing our Offerings and serving our customers;
+    *   Contacting customers with important notices or updates; 
+    *   Contacting customers about their transactions, purchases and competition wins;
+    *   Personalizing content and making recommendations for other content;
+    *   Exercising and/or enforcing the rights granted to us under the terms and conditions of the Offering;
+    *   Facilitating payment for our Offerings.
 *   For other types of processing we may rely on your consent (where given). 
 
   
@@ -134,10 +132,10 @@ In countries where our processing of Information requires a lawful basis, we rel
   
 
 *   Some types of processing are necessary for our ‘legitimate interests’ (and those of others), including:
-*   Improving and developing our Offerings.
-*   Creating efficiencies in our business.
-*   Understanding consumer trends and interests, including through customer insights, market research, and measurement of content performance.
-*   Compiling statistics about the use of our Offerings.
+    *   Improving and developing our Offerings.
+    *   Creating efficiencies in our business.
+    *   Understanding consumer trends and interests, including through customer insights, market research, and measurement of content performance.
+    *   Compiling statistics about the use of our Offerings.
 *   For other types of processing we may rely on your consent (where given).
 
   
@@ -162,10 +160,10 @@ In countries where our processing of Information requires a lawful basis, we rel
 
 *   To use UGC you have submitted, we will rely on the rights granted to us under the terms and conditions of the Offering and the performance of our contract with you.
 *   Other types of processing for Marketing and Personalized Advertising are necessary for our legitimate interests (or those of others), including:
-*   Furthering our commercial interests by marketing and advertising Our Offerings, including engaging in contextual (non-data driven) advertising, analytics, and measurement of ad performance; 
-*   Expanding our customer base by deepening relationships with existing customers and developing new customers;
-*   Using UGC you have submitted (unless it is not necessary for the performance of a contract with you or we are able to ask for your consent); and,
-*   Promoting the WarnerMedia brand both online and offline.
+    *   Furthering our commercial interests by marketing and advertising Our Offerings, including engaging in contextual (non-data driven) advertising, analytics, and measurement of ad performance; 
+    *   Expanding our customer base by deepening relationships with existing customers and developing new customers;
+    *   Using UGC you have submitted (unless it is not necessary for the performance of a contract with you or we are able to ask for your consent); and,
+    *   Promoting the WarnerMedia brand both online and offline.
 *   In certain jurisdictions, for certain types of processing, such as interest-based advertising or where we send direct marketing communications by email, text message or SMS, messages on Social Media Sites, we rely on your consent (where given). 
 
   
@@ -181,17 +179,11 @@ In countries where our processing of Information requires a lawful basis, we rel
   
 
 *   Some types of processing activities will be necessary for us to perform our contract with you to provide an Offering. 
-
-  
-
 *   Some types of processing activities will be necessary to comply with our legal obligations.
-
-  
-
 *   Some types of processing will be necessary for our legitimate interests (or those of others), including:
-*   Responding to our customer queries and complaints;
-*   Tracking the progress and effectiveness of our response; and
-*   Improving our Customer Services.
+    *   Responding to our customer queries and complaints;
+    *   Tracking the progress and effectiveness of our response; and
+    *   Improving our Customer Services.
 
   
 
@@ -207,11 +199,9 @@ In countries where our processing of Information requires a lawful basis, we rel
 
 *   Some types of processing activities will be necessary to comply with our legal obligations.
 *   Some types of processing will be necessary for our legitimate interests (or those of others), including:
-*   Protecting our business interests and rights, privacy, safety and property, or that of our customers and users;
-*   Establishing, exercising or defending legal claims; 
-*   Sharing your Information with third parties in order to permit us to pursue available remedies or limit damage that we may sustain.
-*     
-    
+    *   Protecting our business interests and rights, privacy, safety and property, or that of our customers and users;
+    *   Establishing, exercising or defending legal claims; 
+    *   Sharing your Information with third parties in order to permit us to pursue available remedies or limit damage that we may sustain.
 
 **Compliance with legal obligations** 
 
@@ -236,7 +226,7 @@ Within AT&T and/or WarnerMedia
 
   
 
-**WarnerMedia is part of the AT&T group of companies**. WarnerMedia companies and AT&T companies support and interact with each other to run their businesses. As a result, a WarnerMedia company and/or AT&T company may receive your Information to process for the purposes set out in this Privacy Policy, where there is a legal basis for them to do so and consistent with any permissions you have given (e.g. whether or not you wish to receive marketing communications) and any other controls you exercise regarding our processing of your Information (e.g. where you have chosen to opt-out of certain processing), as described in the [INDIVIDUAL RIGHTS REQUEST](#otnotice-section-8de7316c-87b8-45be-a142-4ab5369cf8b4 "WARNERMEDIA INDIVIDUAL RIGHTS REQUEST") and [COOKIES AND OTHER TECHNICAL INFORMATION](#otnotice-section-a4893af1-41ec-4eaf-8e95-a58cb23fa11c "Cookies and Other Technical Information") sections below.
+**WarnerMedia is part of the AT&T group of companies**. WarnerMedia companies and AT&T companies support and interact with each other to run their businesses. As a result, a WarnerMedia company and/or AT&T company may receive your Information to process for the purposes set out in this Privacy Policy, where there is a legal basis for them to do so and consistent with any permissions you have given (e.g. whether or not you wish to receive marketing communications) and any other controls you exercise regarding our processing of your Information (e.g. where you have chosen to opt-out of certain processing), as described in the [INDIVIDUAL RIGHTS REQUEST](#otnotice-section-8de7316c-87b8-45be-a142-4ab5369cf8b4 "WARNERMEDIA INDIVIDUAL RIGHTS REQUEST") and [COOKIES AND OTHER TECHNICAL INFORMATION](#otnotice-section-a4893af1-41ec-4eaf-8e95-a58cb23fa11c "Cookies and Other Technical Information") sections below.
 
   
 
@@ -273,7 +263,7 @@ Outside AT&T and/or WarnerMedia
 DATA RETENTION
 --------------
 
-In broad terms, we will only retain your Information for as long as is necessary for the purposes described in this Privacy Policy. This means that the retention periods will vary according to the type of Information and the reason that we have collected the Information in the first place. For example, some Information related to the provision of our Offerings to you will be kept for a number of years in order to comply with various finance and tax related legal obligations. We have detailed internal retention policies that set out the various retention periods for different categories of Information, depending on our legal obligations and whether there is a commercial need to retain the Information. After a retention period has lapsed, the Information is securely deleted, unless it is necessary for the establishment, exercise or defence of legal claims. For further information regarding applicable retention periods, you should contact us using the contact methods set out below.
+In broad terms, we will only retain your Information for as long as is necessary for the purposes described in this Privacy Policy. This means that the retention periods will vary according to the type of Information and the reason that we have collected the Information in the first place. For example, some Information related to the provision of our Offerings to you will be kept for a number of years in order to comply with various finance and tax related legal obligations. We have detailed internal retention policies that set out the various retention periods for different categories of Information, depending on our legal obligations and whether there is a commercial need to retain the Information. After a retention period has lapsed, the Information is securely deleted, unless it is necessary for the establishment, exercise or defence of legal claims. For further information regarding applicable retention periods, you should contact us using the contact methods set out below.
 
 INDIVIDUAL RIGHTS REQUESTS
 --------------------------
@@ -283,32 +273,15 @@ Under certain conditions, you have the right to ask us to fulfil one or more of 
   
 
 *   **Right to access and rectification:** You can request details of the Information we hold, along with a copy of your Information, and the correction of any errors in your Information. 
-
-  
-
 *   **Right to erasure (“right to be forgotten”):** The right, in certain circumstances, to ask for your Information to be deleted. In specific cases, we may not be able to delete some types of Information, in particular, where we have a legal obligation to keep that Information (e.g. for regulatory reporting purposes) or, for example, where you want us to continue to provide you with an Offering and the processing of the Information is necessary for the provision of that Offering.
-
-  
-
 *   **Marketing communications and sharing with third parties.** We provide you with an opportunity to express your preferences with respect to receiving certain marketing communications from us, and our sharing of Information with trusted partners for their direct marketing purposes. Please see the “Ad Choices” section below for more information. 
-
-  
-
 *   **Right to portability:** The right in some cases to receive your Information in a digital format or to have it transmitted directly to another controller (where technically feasible).
-
-  
-
-*   **Right to object:** The right to object (on grounds relating to your particular situation) to the processing of your Information on the basis of our legitimate interests, including for direct marketing purposes. 
-
-  
-
+*   **Right to object:** The right to object (on grounds relating to your particular situation) to the processing of your Information on the basis of our legitimate interests, including for direct marketing purposes. 
 *   **Right to withdraw consent:** You can withdraw your consent at any time in respect of any processing of Information which is based upon a consent. 
 
   
 
-  
-
-We will assess any request to exercise these rights on a case by case basis. There may be circumstances in which we are not legally required to comply with a request because of relevant exemptions provided for in applicable data protection legislation. In some instances, this may mean that we are able to retain your Information even if you withdraw your consent. To exercise these rights, or to contact our Data Protection Officer, please submit a request by navigating to the [Individual Rights Request Portal](https://www.warnermediaprivacy.com/policycenter/b2c/controllerslist/#otnotice-section-96d53f40-acdb-4dc0-afff-7f7bb800d9ba).  
+We will assess any request to exercise these rights on a case by case basis. There may be circumstances in which we are not legally required to comply with a request because of relevant exemptions provided for in applicable data protection legislation. In some instances, this may mean that we are able to retain your Information even if you withdraw your consent. To exercise these rights, or to contact our Data Protection Officer, please submit a request by navigating to the [Individual Rights Request Portal](https://www.warnermediaprivacy.com/policycenter/Individualrights/).  
 
 COOKIES AND OTHER TECHNICAL INFORMATION
 ---------------------------------------
@@ -352,6 +325,8 @@ These cookies allow us to analyze usage of our Digital Services so we can measur
 **4\. Advertising cookies** 
 
 These cookies are used by advertising companies to serve ads that are relevant to your interests 
+
+  
 
 **Social media cookies or similar technologies**: These are used when you share Information using a social media sharing button or ‘like’ button via our Digital Services, or when you link your account or engage with our content on or through a Social Media Site, such as Facebook or Twitter. The Social Media Site will record that you have done this, and this Information may be linked to targeting/advertising activities, including building custom audiences. 
 
