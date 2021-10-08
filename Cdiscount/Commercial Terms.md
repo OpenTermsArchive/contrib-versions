@@ -274,7 +274,7 @@ Pour en savoir plus sur la Solution de Crédit - "Payez en plusieurs fois", [cli
 (vii)               Par Paypal : Vous pouvez régler votre commande par PayPal, dans la limite de 1000 euros. Pour bénéficier de ce mode de paiement, vous devez avoir un compte auprès de la société PayPal. En cas de paiement par PayPal, ce sont les conditions générales d'utilisation de PayPal qui s'appliquent. Elles sont accessibles [en cliquant ici](https://www.paypal.com/fr/webapps/mpp/ua/useragreement-full?locale.x=fr_FR).  
   
   
-(viii)               Par Bancontact/Mistercash : Ce mode de paiement n’est pas disponible pour les paniers contenant des produits de la Marketplace Cdiscount.  Pour bénéficier de ce mode de paiement, vous devez disposer d’une adresse de facturation située en Belgique. En cas de paiement par Bancontact/Mistercash, ce sont les conditions générales d'utilisation de Bancontact/Mistercash qui s'appliquent. Elles sont accessibles en cliquant [ici](https://www.bancontact.com/).  
+(viii)               Par Bancontact/Mistercash : Ce mode de paiement néest pas disponible pour les paniers contenant des produits de la Marketplace Cdiscount.  Pour bénéficier de ce mode de paiement, vous devez disposer d’une adresse de facturation située en Belgique. En cas de paiement par Bancontact/Mistercash, ce sont les conditions générales d'utilisation de Bancontact/Mistercash qui s'appliquent. Elles sont accessibles en cliquant [ici](https://www.bancontact.com/).  
   
 (ix) Par bons d'achat  : Il est possible d’utiliser les bons d’achat émis par CDISCOUNT pour le paiement de toute ou partie de votre commande. Ces bons d’achats ne sont utilisables qu’une seule fois. Dans l’hypothèse où un client tenterait d’utiliser frauduleusement plusieurs fois l’un de ses bons d’achat, les commandes concernées par cette fraude seraient automatiquement annulées par CDISCOUNT.  
   
@@ -2258,7 +2258,7 @@ L’Abonné Pro, par email, préalablement à l'application de ce prix, lequel n
 **ARTICLE 4- DUREE**   
   
   
-L’Abonnement au Service est valable douze (12) mois à compter de la Date de souscription au Service.  
+LéAbonnement au Service est valable douze (12) mois à compter de la Date de souscription au Service.  
   
 L’Abonnement au Service sera renouvelé par tacite reconduction chaque année, à la date d’anniversaire de l’Abonnement.  
   
