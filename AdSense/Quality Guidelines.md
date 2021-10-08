@@ -25,7 +25,7 @@ General guidelines
 
 *   Create a useful, information-rich site, and write pages that clearly and accurately describe your content.
 *   Think about the words users would type to find your pages, and make sure that your site actually includes those words within it.
-*   Ensure that your `<title>` elements and `alt` attributes are descriptive, specific, and accurate.
+*   Ensure that your [`<title>` elements](https://support.google.com/search/docs/advanced/appearance/title-link) and `alt` attributes are descriptive, specific, and accurate.
 *   Design your site to have a clear conceptual page hierarchy.
 *   Follow our recommended best practices for [images](https://support.google.com/search/docs/advanced/guidelines/google-images), [video](https://support.google.com/search/docs/advanced/guidelines/video), and [structured data](https://support.google.com/search/docs/advanced/structured-data/intro-structured-data).
 *   When using a content management system (for example, Wix or WordPress), make sure that it creates pages and links that search engines can crawl.
