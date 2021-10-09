@@ -32,7 +32,7 @@ We do not sell your personal data – such as your name and contact information 
 *   Comply with Law. To comply with legal obligations, as part of our general business operations, and for other business administration purposes.
 *   Prevent Misuse. Where we believe necessary to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person or violations of our [Terms of Service](https://www.quora.com/about/tos "www.quora.com") or this Privacy Policy.
 
-![](https://qph.fs.quoracdn.net/main-qimg-1ab280aba1e6e3f3575eb2df737adb95-pjlq)
+![](https://qph.fs.quoracdn.net/main-qimg-1ab280aba1e6e3f3575eb2df737adb95)
 
 How We Share Your Information
 
