@@ -1,301 +1,571 @@
-Important updates
+Terms & Conditions Updates
 
 Given the situation linked to COVID-19 and the regulatory provisions for public health and safety, Vinted may be compelled to react. Please make sure to read our [dedicated COVID-19 page](https://www.vinted.com/help/16-covid-19?access_channel=hc_topics) on changes to policies and shipping procedures.
 
-Important updates
+Terms & Conditions Updates
 
 Given the situation linked to COVID-19 and the regulatory provisions for public health and safety, Vinted may be compelled to react. Please make sure to read our [dedicated COVID-19 page](https://www.vinted.com/help/16-covid-19?access_channel=hc_topics) on changes to policies and shipping procedures.
 
-Vinted Inc. Terms & Conditions of use
+Vinted Terms & Conditions of Use
 
-**Date of last revision: 16 August, 2018**
+**TERMS AND CONDITIONS** 
 
-These Terms and Conditions (" **Terms** ") and the documents referred to in them, apply to your use of this website located at the address http://www.vinted.com and/or mobile applications called Vinted available for iOS and Android devices (each known as the " **Site** "). If you do not agree to these terms you should not access or view the Site.
+**Last Updated: 11 October 2021** 
 
-This Site is operated by Vinted Inc., a company registered in Delaware, with business location at C/o AG Accounting 735 Geary St. #303 San Francisco, CA 94109.
+The platform VINTED is managed and hosted by **VINTED INC.** (hereinafter referred to as "**VINTED**," “**we**,” “**us**,” “**our**”), a company registered in Delaware, with a business location at C/o AG Accounting, 735 Geary St. #303, San Francisco, CA 94109. These Terms and Conditions (“**Terms**”) are a legally binding agreement between you and VINTED regarding your access and use of the Site. BY ACCESSING OR USING THE SITE, YOU CONFIRM THAT YOU ACCEPT THESE TERMS AND THAT YOU AGREE TO COMPLY WITH THEM AND BE LEGALLY BOUND BY THEM.
 
-**1\. Other applicable terms**
+**1\. INTRODUCTION**
 
-These Terms of use refer to and incorporate the following additional Terms, which also apply to your use of this Site.
+1.1 **Welcome to the Site.** Please read these Terms carefully. These Terms set forth the terms and conditions by which you may access and use the Site. (In particular please read Section 17 (Liability Limitations; Warranty Disclaimers) carefully as it affects your rights and will have a substantial impact on how claims between you and VINTED are resolved.) If you do not agree to these Terms, you are not authorized to access or use the Site. If you agree to these Terms, you will be able to access and use our Site as a Visitor or as a User, and you will have the opportunity to be a Buyer and a Seller of Items on the Site. VINTED does not buy, sell, exchange, or donate Items shown on the Site. VINTED is an online hosting service and offers Intermediary Services. VINTED functions as an intermediary between private buyers and sellers, and VINTED is not a party to any Transactions between Users. (Capitalized terms are defined in Section 2 of these Terms.) 
 
-1.  Our [Privacy Policy](https://www.vinted.com/privacy-policy) , which sets out the terms on which we process any personal data we collect about you or that you provide to us. By using this Site, you agree to such processing and you warrant that all data provided by you is accurate
-2.  Our [Catalog Rules](https://www.vinted.com/catalog-rules) and [Forum Rules](https://www.vinted.com/forum-rules), which apply to your interactions with this Site, including what you may list on the Site, any content which we may permit you to upload and any contact which you may make with other users of this Site.
-3.  [Pricelist](https://www.vinted.com/pricelist) , which sets out list of additional for-fee services and indicates applicable pricing and additional terms for using each of these services.
+1.2 **Who Can Not Use the Site.** The Site is not intended for the following persons:
 
-**2\. SERVICES**
+(i) **Non-US Residents.** You are only authorized to use the Site if you are a resident of the continental United States, Alaska, or Hawaii. Do not use the Site if you do not live in one of these areas. If you live in a different area, VINTED may have a separate Site for your area. 
 
-1.  We provide an online facility through which individuals can buy, sell, exchange and give-away items and communicate with one another in public and in private (the "**Services**"). 
-2.  From time to time Vinted may also make available to the users certain additional-services subject to charges as indicated in the [Pricelist](https://www.vinted.com/pricelist) that is constantly updated by Vinted.
-3.  You agree to comply with all applicable laws and regulations in connection with your use of the Services.
+(ii) **Minors.** The Site is not intended for access or use by persons who are under 18 years old. You must be 18 years old or older to register and use the Site. 
 
-**3\. OUR FUNCTION**
+(ii) **Professional Sellers.** Professional Sellers are not authorized to use the Site. Do not use the Site for commercial purposes.
 
-1.  Our Site is an online venue for individuals to buy, sell, exchange and give-away items to or with other individuals. We are not a party to any transaction between a buyer and a seller or two individuals who agree to an exchange or a give-away, save for the Services we provide to facilitate transactions. We do not buy, sell or exchange or purport to buy, sell, exchange or give-away any of the items displayed on our Site. The Site hosts third-party content.
-2.  We do not pre-vet any items listed on the Site or any parties who you may deal with on the Site. We shall not be obliged to engage in any dispute between buyers and sellers or parties to an exchange or give-away. You are responsible for vetting the parties that you deal with.
+Do not create a User account or otherwise use the Site if you are not authorized to do so.
 
-**4\. REQUIREMENTS TO USE THE SERVICES**
+1.3 **Account.** To buy, sell, exchange, or donate Items on the Site, and to use certain other Services of the Site, you must first register on the Site and create a User account. By registering on the Site, you agree to provide true, accurate, current, and complete information when requested by us. It is important that you always maintain and promptly update your Account information to keep such information current and complete at all times. Through the registration process a Seller provides (expressly or via a Facebook or Google profile) an email address, a user name (a pseudonym for use on the Site), and a password to enable the Site to identify the User each time he/she accesses the Site. From time to time VINTED may request a User to verify his/her Account for security purposes. This can for example take place by verifying the User's Facebook or Google account, the User's telephone number, email, the User's credit card or debit card, pin-code based or any other confirmations that Vinted may implement in its sole discretion. 
 
-1.  To use the Services, you must register with us by completing the registration form after clicking "Join Us" or registering using an acceptable third party service (e.g. Facebook Connect).
-2.  The Services are not intended for use by children under the age of 18 years old.   If you are under 18, a parent or guardian (who is 18 or over) must register to use the Services on your behalf. Your parent or guardian shall be responsible for supervising your use of the Services at all times and ensuring that you comply with these Terms. Vinted shall be entitled to hold your parent or guardian fully responsible and liable for any breach of these Terms by you.
-3.  Business sellers are not permitted to use the Services. By using the Services you warrant that you are a not a business seller.
-4.  You undertake to keep up to date all information about you on the Site.
-5.  You warrant that any information you provide to us is true, accurate and complete.
+1.4 **Additional Terms.** 
 
-**5\. YOUR ACCOUNT AND PASSWORD**
+These Terms refer to and incorporate the following additional terms, and, by accepting these Terms, you also agree to these additional terms, which are incorporated by reference: [**Catalog Rules**](https://.vinted.com/catalog-rules), [**Forum Rules**](https://.vinted.com/forum-rules)**,** and [**Price List**](https://.vinted.com/pricelist)**.** Any violation of these additional terms is a breach of this Agreement. (In the event of any conflict between the provisions of such additional terms and the provisions of these Terms, the provisions in these Terms shall prevail.) 
 
-1.  If you choose, or you are provided with, a user identification code, password or any other piece of information as part of our security procedures, you must treat such information as confidential. You must not disclose it to any third party and you must ensure that you log out from your account at the end of each session.
-2.  You must immediately notify us by using the [contact form](https://www.vinted.com/help/support_tickets/new?ch=help_center&faq_entry_id=615&allow_direct=1) if you know or suspect that anyone other than you knows your user identification code or password, or that there has been any unauthorized use of your password or account or any other security breach.
-3.  We have the right to disable any user identification code or password, whether chosen by you or allocated by us, at any time, if we have reasons to suspect it has been compromised or if in our reasonable opinion you have failed to comply with any of the provisions of these Terms.
-4.  Vinted does not allow multiple accounts on its Site. Should Vinted have a reasonably grounded suspicion that a user has created (is using) more than one account on the Site – it may block or delete any of the involved accounts.
-5.  Vinted may request to make certain confirmations with respect to your account for security purposes. Such confirmations among other things may be linking your Facebook, Google or another third party account; confirming your phone number; providing for an ID and/or cardholder proof or any other confirmations that Vinted may introduce in its sole discretion. All data collected as a result of such confirmation will be processed following our [Privacy Policy](https://www.vinted.com/privacy-policy) , which is a part of Vinted - user contractual arrangement.
+Additionally, certain features of the Site utilize tools and services provided by third parties, and, in some circumstances, such tools and services have separate terms and conditions. For example, if you use the e-wallet feature, you must agree to [terms and conditions](https://www.adyen.com/legal/terms-and-conditions) between you and ADYEN N.V. When third party tools and services have separate terms and conditions, the Site will provide you with a link to the applicable terms and conditions, which you must accept and agree to comply with in order to use such tool and/or service.
 
-**6\. CONTENT YOU PROVIDE, THE FORUM, FEEDBACK AND PRIVATE MESSAGING**
+1.5 **Revisions To These Terms.** We may, in our sole discretion, amend these Terms from time to time. We will update the “Last Updated” date at the top of these Terms, which reflect the effective date of the updated Terms. We may also inform you about material changes to these Terms through the Help Center or by sending you a message and/or email. The updated Terms shall become effective and replace the prior Terms at the time of posting. If you do not agree with or accept the updated Terms, (i) you should not continue to access and use the Site after the effective date of the updated Terms and (ii) you should terminate your relationship with VINTED (as further described in Section 16.1). You will be deemed to have accepted the updated Terms if you continue to access and use the Site after the updated Terms become effective. 
 
-1.  Any content you provide to us or any contact you make with other users, whether privately or publicly, must comply with our [Catalog Rules](https://www.vinted.com/catalog-rules). Any use of the forum must also comply with our [Forum Rules](https://www.vinted.com/forum-rules).
-2.  You warrant that (a) any such content or contact complies with the [Catalog Rules](http://www.vinted.com/catalog-rules) and the [Forum Rules](http://www.vinted.com/forum-rules) (where you use the Forum), (b) you own all rights to such content or, alternatively, you have the right to give us the rights granted below; and (c) the content does not infringe the intellectual property rights, privacy rights, publicity rights, or other legal rights of any third party.  You will be liable to us and indemnify us for any losses, costs, or damages arising from or relating to a breach of this warranty. This means you will be responsible for any loss or damage we suffer as a result of your breach of that warranty.
-3.  We will not be responsible, or liable to any third party, for the content or accuracy of any content posted by you or any other user of our Site.
-4.  You grant us a non-exclusive, irrevocable, perpetual, transferable, sub-licensable, royalty-free, unconditional, worldwide license to use, copy, distribute, display, and disclose to third parties any content you provide to us, including without limitation content you post in the Forum and pictures of listed items.
-5.  Vinted provides for a direct user messaging functionality for the sole purpose of facilitating transactions between the users on the Site. We will not access content of such messages unless one of the involved users grants an access right to Vinted when raising a dispute with our Customer Support. Please note that Vinted may use automatic scanning tools/filters in order to detect and prevent spam and/or fraud and/or any other activity contrary to applicable legal acts on the Site. In such cases Vinted representatives will not access message threads, however, they will cross-check automatic-scanning/filtering results (without accessing messages) in order to determine what preventative action should be taken to ensure security of the platform.
+**2\. DEFINITIONS**
 
-**7\. RULES FOR LISTING ITEM**
+When the following capitalized terms are used in these Terms, they have the definitions set forth in this section. Please refer to this Definitions section whenever you see a capitalized term.
 
-In respect of all items you offer for sale, exchange or give-away through the Services:
+**Additional Service(s)** – means additional services provided by VINTED and offered on the Site (e.g., Bumps and Closet Spotlight), which require an additional fee and which may be subject to additional terms and conditions; please see the Price List for more information about these services.
 
-1.  You must ensure that such items comply with our [Catalog Rules](https://www.vinted.com/catalog-rules). Note that you may not list certain categories of items;
-2.  You must be the legal and beneficial owner of such items and have the right to sell them ;
-3.  The sale, exchange, give-away, use or possession of such items must not infringe the rights of any third party (including but not limited to any IP rights held by any third parties); and must not breach any applicable local, national or international law or regulation;
-4.  To list an item you must complete an item placement questionnaire and provide such other information as we may require for all items that you offer for sale, exchange or give-away on the Site in accordance with our [Catalog Rules](https://www.vinted.com/catalog-rules) ;
-5.  By listing an item you represent and confirm that the item complies with all aspects of the item questionnaire that you submit, including the category in which you list such item and any photograph of the item, and that such item questionnaire is complete. The terms of the item questionnaire that you submit will form the terms on which you offer the item for sale;
-6.  When you submit the item questionnaire the item shall be deemed to be a "Catalog Item";
-7.  You may amend the terms on which you offer a Catalog Item for sale at any time before you have entered into a contract to sell, exchange or give-away the relevant item; and
-8.  You may remove a Catalog Item from the Site at any time before you have entered into a contract to sell, exchange or give-away the relevant item.
+**ADYEN N.V**. – means VINTED’s payment service provider ADYEN N.V., a Dutch public limited liability company (naamloze vennotschap) d/b/a Adyen N.V. (San Francisco Branch). In the U.S., ADYEN N.V. acts as a federally-licensed branch of a foreign bank.
 
-**8\. EXCHANGING OR GIVING AWAY FOR FREE**
+**Bundle** – means a compilation of two or more Items that a Buyer can purchase from a Seller in one Transaction; “Bundles” are accessible by clicking on the “Shop Bundles!” link. 
 
-1.  If you are giving away a Catalog Item to another user or exchanging a Catalog Item with another user you should agree the terms related to such transaction directly with the other user. You are solely responsible for such transaction.
-2.  If you give-away a Catalog Item to another user or exchange a Catalog Item with another user you cannot use our payment or shipping service and should agree the terms for payment and shipping of such Catalog Item(s) with the other user.
+**Buyer** – means any User who buys or wishes to buy one or more Item(s) on the Site.
 
-**9\. BUYING AND SELLING**
+[**Buyer Protection**](https://www.vinted.co.uk/help/550-buyer-protection?access_channel=hc_search) – means the Buyer protection service provided for a fee (payable by the Buyer) to Buyers by VINTED when a purchase is made using the “Buy now” button on the Site; please see the description of [Buyer Protection](https://.vinted.com/help/550-buyer-protection?access_channel=hc_search) on our website for more details regarding the features of this service. 
 
-If you are buying or selling a Catalog Item you may either:
+**Catalog** – means the electronic catalog of Items that Sellers have made available to sell, exchange, or donate via the Site; the catalog has different sections for different categories of Items.
 
-1.  use our payment and shipping services. Please see sections 10 to 15 below;
-2.  agree the terms related to such transaction directly with the other party to the transaction. You are solely responsible for such transaction and we do not provide customer support for these transactions.
+**Catalog Rules** – means the rules for the Catalog, including what Items Users may list on the Site; the Catalog Rules may be updated by VINTED from time to time and the current [**Catalog Rules**](https://.vinted.com/catalog-rules) are available on the Site.
 
-**PAYMENT AND SHIPPING SERVICES**
+**Checkout** – means the checkout process available to Buyers to purchase Items on the Site; the process (i) is initiated when a Buyer clicks on the “Buy now” button, (ii) requires the Buyer to choose a payment method and specify a delivery address, and (iii) is concluded when the Buyer clicks the “Pay now” button on the checkout page. 
 
-Sections 10 to 15 below will only apply where you choose to use our payment and shipping services. Please note that Vinted may restrict integrated payment and shipping services as per sections 10 to 15 below only for users based within US and accordingly not offer them in order to facilitate cross-border transactions.
+**Forum** – means the area of the Site where Users may publicly communicate with each other subject to complying with the Forum Rules.
 
-**10\. FEE FOR PAYMENT AND SHIPPING SERVICES**
+**Forum Rules** – means the rules for the Forum, including what Users may upload/post on the Site; the Forum Rules may be updated by VINTED from time to time and the current [**Forum Rules**](https://.vinted.com/forum-rules) are available on the Site.
 
-Where the payment and shipping Services are used for a transaction, you agree that Vinted shall receive a  Fee according to the rates and conditions as set out in the [Pricelist](https://www.vinted.com/pricelist). Vinted may amend the Pricelist from time to time provided that we inform you about such changes. Please note that you will always see an applicable price for services you intend to order at a check-out.
+**Integrated Payment Service** – means the online payment service for Items provided by ADYEN N.V. 
 
-**11\. BUYING USING THE SITE**
+**Integrated Shipping Service** – means the shipping and delivery service paid for by the Buyer, enabling the Seller to deliver the Item to the Buyer, with the shipping, transport, and delivery services further described in Section 7.
 
-Where you use our payment and shipping services:
+**Item(s)** – means the goods/items that Users list in the Catalog on the Site in order to sell, exchange, or donate the goods/items. 
 
-1.  When you click "confirm" on the payment page, you acknowledge and agree that you enter into a contract with the seller to purchase that Catalog Item from them.
-2.  When you enter into a contract to purchase a Catalog Item you warrant and undertake that you have the legal right to enter into such transaction.
-3.  You may only terminate the contract with the seller where you are permitted by law.
-4.  When you enter into a contract with a seller payment will be taken from your credit or debit card, Vinted balance or using any other payment method that Vinted may offer upon its sole discretion, immediately. Please see the "Payment" section below for more information.
+**Item page** – means the page opened by a User, which contains details about the Item offered by the Seller. 
 
-**12\. SELLING USING THE SITE**
+**Intermediary Services** – means the Transaction facilitation services offered by VINTED on or through the Site, including enabling Users (and, where applicable, Visitors) to list Items in the Catalog, to participate in Transactions, and to communicate in private and/or in public, particularly by using the Forum.
 
-Where you use our payment and shipping services:
+**News** – means content shared by VINTED on the Site, including news about special offers, contests, games, promotions, and announcements about new Services available on the Site.
 
-1.  A Catalog Item that is for sale is an offer by the seller of such item, which may be accepted by a buyer. See the "Buying Using Our Site" section above for more information.
-2.  Once a user clicks "confirm" on the payment page you acknowledge and agree that you enter into a contract with that user (buyer) to sell that Catalog Item to them.
-3.  Prior to entry into a contract with a buyer under section 12.2 above, you may consider offers for a Catalog Item from other Site users.
-4.  You may only terminate the contract with the buyer to the extent permitted by law.
+**Price List** – means the document (i) showing the [prices for Additional Services](https://www.vinted.co.uk/pricelist) (or, for services that don’t have a fixed price, the manner in which fees are calculated) and for Buyer Protection and (ii) identifying any additional terms applicable to such services; as described in these Terms, the Price List may be updated by VINTED from time to time and the current [Price List](http://www.vinted.com/pricelist) is available on the Site.
 
-**13\. PAYMENT SERVICES**
+**Private Messages** – means communication by an exchange of private messages between Users via the Site’s messaging system where the messages are not publicly displayed on the Site.
 
-Where you use our payment services:
+**Privacy Policy** – means the [document](http://www.vinted.co.uk/privacy-policy) that describes how VINTED collects, uses, stores, and transfers personal data and other important information of a Visitor or a User; the current [Privacy Policy](http://vinted.com/privacy-policy) is available on the Site.
 
-1.  Buyers must pay sellers for Catalog Items by credit or debit card, Vinted balance or using any other payment method/services that Vinted may offer upon its sole discretion on the Site.
-2.  Payments must be made in the currency specified on the Site and all prices are inclusive of sales tax (where applicable) and other applicable taxes, but exclusive of delivery charges and any other fees for additional services offered by Vinted that you choose to use. Additional services will be charged following additional terms as indicated in the [Pricelist](https://www.vinted.com/pricelist).
-3.  Buyers are responsible for any shipping costs, including any insurance costs unless otherwise mutually agreed by the buyer and the seller.
-4.  Payment for Catalog Items is in advance. The buyer’s credit or debit card or any other payment method that Vinted may offer upon its sole discretion of the Site will be charged when the buyer and seller enter into a contract for the purchase of an item under section 11. We will not credit the seller’s account until the buyer has accepted the item or is deemed to have accepted it. See the section entitled "Acceptance" below for more information.
-5.  Vinted may at any point in time in its sole discretion suspend and/or cancel any transaction and/or requested payment should it have grounds to believe that such transaction may be fraudulent or contrary to applicable law or harmful to Vinted and/or any user or third party.
-6.  We use a third party service provider to process your payment and to store your credit or debit card or similar information. When using our payment services, you agree with our provider’s conditions and terms . We shall not be liable for the acts or omissions of such third party. You shall be solely responsible for the transmission of information connected to your credit or debit card and we hereby exclude all liability to the extent permitted by law.
+**Professional Seller(s)** – means any person who buys, sells, exchanges, or donates goods/items for commercial purposes.
 
-_STRIPE_
+**Seller** – means any User who lists one or more Items on the Site.
 
-Credit card and Vinted Balance payments are processed via the electronic payment system Stripe.
+**Services** – means all the services offered by or through the Site, including the Intermediary Services, Buyer Protection, and the Additional Services.
 
-To use Stripe, members have to set up a so-called e-wallet on the platform. E-wallet is an electronic money account that allows you to send and receive payments. To set up an e-wallet at least the following data may be requested: name, first name, e-mail address and date of birth, as well as nationality and country of residence of the user
+**Site** – means VINTED’s website and apps and any other means of accessing VINTED’s platform. The “Site” includes the Services and all content, tools, features, and functionality offered on or through the platform, including the Services. 
 
-When using Stripe, a separate contract is concluded between the user and Stripe in accordance with the [Stripe Terms](https://stripe.com/us/connect-account/legal). By agreeing to these terms and conditions, the user automatically agrees to the former conditions as well as [Stripe’s Privacy Policy](https://stripe.com/us/privacy) that applies to processing of data collected by Stripe in for purpose of processing payments on the Site. Please visit www.stripe.com in order to access all applicable conditions.
+**Terms** – is defined in the first paragraph of these Terms and Conditions. “Terms” include the additional terms and conditions that are referenced in Section 1.4 of these Terms and Conditions.
 
-When using our payment services, you agree with our provider’s conditions and terms. We shall not be liable for the acts or omissions of such third party payment service provider. You shall be solely responsible for the transmission of information connected to your credit or debit cardl and we hereby exclude all liability to the extent permitted by law.
+**Transaction** – means any transaction between Users through which the ownership of and/or the right to use an Item transfers from one User to another, including, but not limited to, the sales contract concluded between the Buyer and the Seller.
 
-Please know that for use of e-wallet Stripe applies Anti-Money-Laundering and Terrorist Financing (AML) and Know-Your-Customer (KYC) rules as specified in the Stripe conditions. However, Vinted reserves a right to apply lower value thresholds for triggering KYC identification requirements for sole purpose of preventing suspension of any future transactions by the payment service provider Stripe.
+**User** – means any person who has created an Account on the Site.
 
-The money that the sellers gained at selling items on Vinted will be kept on a Vinted balance. The money can be transferred any time by the seller to his personal bank account. Please note that additional terms may apply as indicated in the [Pricelist](https://www.vinted.com/pricelist). Additional information such as full name, date of birth, last 4 digits of SSN and billing address may be required among other things for a payout.
+**User account or Account** – means an account created by an individual by registering on the Site.
 
-**14\. SHIPPING SERVICES**
+**Visitor** – means any individual who uses the Site but who has not created an Account.
 
-Where you use the recommended shipping services:
+**VINTED Social Networks Accounts** – means VINTED’s accounts on Facebook, Google+, Twitter, Instagram, Pinterest, YouTube, and other social networks.
 
-1.  Buyer may choose to ship via one the shipping services provided by Vinted as indicated in the [Pricelist](https://www.vinted.com/pricelist) (“USPS”)..
-2.  The cost of the shipping service is available in the [Pricelist](https://www.vinted.com/pricelist). Shipping fee is always payable by the buyer of a Catalog Item. Please note that additional terms may apply for using chosen shipping service. Please always check them before ordering a service.
-3.  After you enter into a contract with a buyer for the purchase of one of your Catalog Items we will send to you a confirmation of such purchase. You must ship the Catalog Item that you have sold via one of the shipping services as chosen by the buyer, and if requested by Vinted - enter the tracking number of the package on our site.
-4.  If you fail to send the item to the buyer within 6 days after receipt of a shipping label and/or details, and/or instructions we shall be entitled to refund the purchase price to the buyer’s account.
-5.  We decline all responsibility for sent packages, packages and items which become lost or destroyed, or damaged by a shipping service provider and/or after delivery to a post-box or alike, unless otherwise clearly stated within specific terms applicable to separate shipping service offers by Vinted as per the [Pricelist](https://www.vinted.com/pricelist). Shipping services are provided by third-party service providers and may be subject to additional terms and conditions imposed by them. Any risk of loss is carried by seller, buyer, and the third-party service provider.
+**3\. LISTING ITEMS ON THE SITE**
 
-**15\. ESCROW PAYMENT TERMS**
+3.1 **Permitted Items.** Only items that meet all of the following conditions may be listed on the Site: 
 
-Where you use our payment and shipping services:
+(i) The item must be in one of the categories listed in the Catalog Rules and the item must not be on ADYEN N.V.'s [List of Prohibited Products and Services](https://www.adyen.com/legal/list-restricted-prohibited).
 
-1.  Orders are automatically updated to delivered after certain period of time after being sent. The period of time for this purpose is reasonably determined by Vinted following a pre-set uniformly applicable Escrow payment process. In order to protect buyers, we will hold the purchase price for an item for not less than 2 days after the date on which that item is delivered or due to be delivered as shown in our system (or until a buyer confirms that he has no issue with a purchase). During this period it is the buyer’s responsibility to raise a dispute. After this period, compensation is no longer applicable and funds are released to the seller. Please raise all disputes via Vinted first.
-2.  If a seller fails to send an item to a buyer within 7 business days after receipt of the shipping label and/or details, and/or instructions we shall be entitled to refund the purchase price to the buyer’s account. The refund can be also released earlier in case selling user is inactive and/or shipping label is not downloaded by a selling user for a certain period of time. The refund of the purchase price shall be the buyer’s only remedy in respect of its contract with the seller.
-3.  If a buyer receives an item that is not materially as described on the Site, the buyer must notify us by using the [contact form](https://www.vinted.com/help/support_tickets/new?ch=help_center&faq_entry_id=615&allow_direct=1) or by clicking “I have issues” within 2 days after delivery on as shown in the system.
-4.  If a buyer does not receive an item that they have purchased from a seller, the buyer must notify us by using the [contact form](https://www.vinted.com/help/support_tickets/new?ch=help_center&faq_entry_id=615&allow_direct=1) or by clicking “I have issues” within 2 days after delivery on as shown in the system.
-5.  If a buyer does not contact us within 2 days after receipt of an item under sections 15.3 and 15.4 above, the buyer will be deemed to have accepted the item. On acceptance of an item has occurred, we will credit to the seller’s account the purchase price of that item less any fees due to us.
-6.  Where the buyer contacts us under section 15.3 or 15.4 above, we will hold the purchase price minus any fees due to us until we have investigated the claim.
-7.  Despite the payment method chosen by the buyer – all Escrow Payment related disputes shall be addressed to Vinted directly, unless Vinted provides for a feature for users to settle/agree-on such dispute directly without approaching Vinted. In this case, the dispute is considered to be settled and transaction completed once users reach a mutual agreement. Vinted will not accept any repeated claims from users. Vinted reserves the right to deny compensation and claim back amounts paid out for a user in case user in question has already received adequate compensation from other sources (e.g. third-party payment service provider).
+(ii) The Seller must be the owner of the item and the Seller must have the right to transfer the ownership in the Item by selling, exchanging, or donating the item.
 
-**GENERAL**
+(iii) The sale, exchange, or donation, and the use or possession, of the item must not violate the rights of any third party (including any intellectual property rights) and must not violate any applicable local, national or international law or regulation. The item must be safe and cannot be counterfeit.
 
-**16\. REMOVAL, WARNINGS, BLOCKING, SUSPENSION AND TERMINATION**
+(iv) The item must comply with all applicable regulatory requirements on the market, unless there is an agreement to the contrary between the Buyer and the Seller.
 
-We may at our option, issue warnings, suspend, block or terminate your access to this Site and/or the Services (or any part of them) or remove any content uploaded, including without limitation, any Catalog Item if:
+3.2 **Preparing a Listing.** To list an item in the Catalog, the Seller must complete a questionnaire, which includes selecting a category that most accurately represents the Item being listed. The Seller must comply with all Catalog Rules relating to the listing of Items. 
 
-1.  you are in breach of these Terms;
-2.  you act in any manner which we consider may damage our reputation; or
-3.  you use the Site or Services in a manner which we consider to be fraudulent or contrary to law.
+3.3 **Offer for Sale.** When a Seller lists an Item in the Catalog and the listing is published on the Site, this constitutes an offer for sale of the relevant Item by the Seller, which may be accepted by a Buyer.
 
-**17\. ACCESS TO THIS SITE AND ITS SERVICES AND CONTENT**
+3.4 **Modifying a Listing.** The Seller who has listed an Item may withdraw the Item or amend the Listing (including the price) anytime before a Buyer clicks on the “Buy now” button for such Item.
 
-1.  We do not guarantee that this Site, or any Services or content on it, will always be available or be uninterrupted.
-2.  We reserve the right at any time and without notice to enhance, modify, alter, suspend or permanently discontinue all or any part of this Site, or any Services or content on it, and to restrict or prohibit access to it.
+3.5 **Additional Services.** The Seller may decide to purchase Additional Services, such as services designed to improve the visibility of their Items on the Site. Details about Additional Services (including pricing) are provided in the [Price List.](https://www.vinted.co.uk/pricelist)
 
-**18\. VIRUSES**
+**4\. BUYING ITEMS ON THE SITE** 
 
-1.  We do not guarantee that this Site will be secure or free from bugs or viruses.
-2.  You are responsible for configuring your information technology, computer programs and platform in order to access this Site. You should use your own virus protection software.
-3.  You must not misuse this Site by knowingly introducing viruses, trojans, worms, logic bombs or other material which is malicious or technologically harmful.
-4.  You must not attempt to gain unauthorized access to this Site, the server on which this Site is stored or any server, computer or database connected to this Site.
-5.  You must not attack this Site via a denial-of-service attack or a distributed denial-of service attack.
-6.  We will report any violations of law to the relevant law enforcement authorities and we will co-operate with those authorities by disclosing your identity to them. In the event of such a breach, your right to use this Site will cease immediately.
+4.1 **Buying an Item.** A Buyer can use the “Buy now” button to buy an Item. For safety reasons, we always recommend that Buyers buy in-app or on-web by using the "Buy now" button, in which case the Buyer is covered by Buyer Protection (see Section 5 below for additional details). If a Buyer concludes the Transaction outside of the Site directly with the Seller and without using our “Buy now” button, Buyer Protection will not apply and VINTED will not be able to assist the Buyer in the event any problems occur with the Transaction.
 
-**19\. LIABILITY**
+4.2 **Pay now.** By using the “Pay now” button and confirming the Buyer’s details during the Checkout process, the Buyer acknowledges that his/her acceptance of the Seller’s offer has been made in consideration of the Item as described in the Item’s description. Both the Buyer and the Seller acknowledge that using the “Pay now” button and confirming the Buyer’s details creates a legally binding contract between the Buyer and the Seller, and the Buyer has a commitment to pay for the Item and the Seller has a commitment to transfer ownership of the Item. For the avoidance of doubt, VINTED is not a party to this contract.
 
-1.  **Nothing in these Terms limits or excludes our liability to you for any liability which cannot by law be excluded or limited by applicable law.**
-2.  **We provide the Site and Services on an “as is” and “as available” basis.**
-3.  **We make no warranties or representations, whether express or implied that this Site, any content and the Services on it:**
-    1.  **are accurate, complete, up-to-date or suitable for any purpose; or**
-    2.  **are free of error or omission.**
-4.  **To the extent permitted by law, we exclude all conditions, warranties, representations or other terms which may apply to this Site, any content or the Services on it, whether express, implied, statutory or otherwise, including, without limitation, the implied warranties of merchantability, fitness for a particular purpose, and non-infringement, and those arising out of course of dealing or usage of trade.**
-5.  **We provide an online facility to introduce individuals to one another to enable the purchase, sale, exchange and give-away of items between them and to allow them to communicate with one another in public and in private. Buyers, sellers and parties to an exchange or give-away are solely responsible for transactions entered into using the Site. You should make whatever investigation you feel necessary or appropriate before proceeding with any interaction with any of these third parties.  You agree that we are not responsible or liable for any loss or damage of any kind or nature incurred as the result of any such dealings.  If there is a dispute between users of the Site or Services, or between users and any third party, you understand and agree that we are under no obligation to become involved.  In the event that you have a dispute with any other user of the Site or Services, you hereby release us and our affiliates, and all of our officers, employees, agents, and successors from claims, demands, and damages (actual and consequential) of every kind or nature, known and unknown, suspected and unsuspected, disclosed and undisclosed, arising out of or in any way related to such disputes or the Site and Services.  YOU HEREBY WAIVE CALIFORNIA CIVIL CODE SECTION 1542 (AND ANY OTHER SIMILAR APPLICABLE STATE STATUTE), WHICH PROVIDES:  A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS WHICH THE CREDITOR DOES NOT KNOW OR SUSPECT TO EXIST IN HIS FAVOR AT THE TIME OF EXECUTING THE RELEASE, WHICH, IF KNOWN BY HIM MUST HAVE MATERIALLY AFFECTED HIS SETTLEMENT WITH THE DEBTOR.**
-6.  **We are not responsible for any action or inaction of users of the Site or Services, or content provided by users of the Site including, without limitation:**
-    1.  **the descriptions or photos of items, including their accuracy and completeness;**
-    2.  **the quality, legality or safety of the items;**
-    3.  **the seller’s, exchanger’s or giver’s title to the items; or**
-    4.  **any seller’s or buyer’s right to enter into a sale or the rights of the parties to an exchange or give-away to enter into such transaction.**
-7.  **You agree to indemnify us for any loss, liability, cost or expense for any third party claim arising from or connected to your misuse of the Site or Services or any use which is in breach of these Terms.**
-8.  **In respect of any dispute you may have with another user of the Site, you agree to indemnify us for any loss or liability we incur as a result of any claim made against us by such user or any other third party as a result of such dispute.**
-9.  **Subject to section 19.1, we will not be liable for any loss or damage caused by a virus, distributed denial-of-service attack, or other technologically harmful material that may infect your computer equipment, computer programs, data or other proprietary material due to your use of our Site or Services, or to your downloading of any content on it, or on any website linked to it.**
-10.  **We are not responsible for any third party service providers that you integrate into your account. We will not be liable for any loss or damage that may arise from your use of them.**
-11.  **Subject to section 19.1, Vinted, its subsidiaries and affiliated companies accept no liability to you, whether in contract, tort (including negligence) or otherwise, for: (a) any loss of profits, sales, business, or revenue; (b) business interruption; (c) loss of anticipated savings; loss of business opportunity, goodwill or reputation; or (d) any direct, special, punitive, indirect, incidental or consequential damages, (e) or any other damages of whatsoever kind resulting from whatever cause through your use of the Services and our Site.** 
-12.  **Subject to section 19.1, we limit our liability under this Agreement, whether such liability arises in contract, tort (including without limitation negligence) or otherwise, to a maximum of:**
-    1.  **the purchase price paid or payable for the relevant item in respect of any claim arising in relation to a transaction on this Site; and**
-    2.  **$100 in respect of any other claim.**
+**5\. BUYER PROTECTION SERVICE**
 
-**20\. COPYRIGHT POLICY**
+5.1 **Buyer Protection.** Buyer Protection is added for a fee to every purchase made using the “Buy now” button. Buyer Protection enables a Buyer to seek a refund in certain circumstances, as further described in this Section 5.
 
-We respond to notices of alleged copyright infringement and terminate accounts of repeat infringers according to the process set out in the U.S. Digital Millennium Copyright Act.  If you believe that your work has been copied in a way that constitutes copyright infringement, please forward the following information to the Copyright Agent named below:
+5.2 **Buyer Protection Fee**. The Buyer Protection Fee is calculated as follows: 
 
-*   Your address, telephone number, and email address.
-*   A description of the copyrighted work that you claim has been infringed.
+*   A fixed amount of $0.70; plus
+*   An amount equal to 5% of the Item price agreed between the Buyer and the Seller (not including shipping costs, any additional costs and applicable taxes).
+
+5.3 **Process for Receiving a Refund Under Buyer Protection.** Buyer Protection includes the right for a Buyer to seek a refund in the event (i) an Item is lost during shipping or (ii) the delivered Item is damaged or (iii) is significantly not as described in the listing for the Item. In such circumstances, the Buyer must report the issue to VINTED within two (2) days after the date the Item is marked as ‘delivered’ in VINTED’s system (VINTED notifies the Buyer when this occurs) (such 2-day period, the “**Dispute Filing Period**”). If there is a mistake in the reported ‘delivered’ date and the item has not been actually delivered to the Buyer, the Buyer must still report the issue within the Dispute Filing Period otherwise the Transaction will be marked as completed. To report an issue to VINTED, the Buyer must, within the Dispute Filing Period, click the “I have an Issue” button in their Private Message with the Seller. Otherwise, the Transaction will be completed and money will be transferred to the Seller. 
+
+5.3.1. **Items Lost During Shipping.** If the Buyer did not receive an Item, the Buyer must inform VINTED by clicking on the “I have an issue” button within the Dispute Filing Period. This will suspend the Transaction and the Total Price will be retained until VINTED investigates where the Item is and receives confirmation from the shipping provider that the Item is confirmed lost. Once the Item has been confirmed as lost, VINTED will request, and ADYEN N.V. will issue, a refund to the Buyer for the Total Price.
+
+5.3.2. **Damaged Items or Significantly Not As Described** **Items**. If the Buyer receives an Item that has been damaged during shipment or is significantly not as described in the Item’s listing, the Buyer must inform VINTED by clicking on the “I have an issue” button within the Dispute Filing Period. This will suspend the Transaction and the Total Price will not be released to the Seller until the following process is complete: 
+
+(i) The Buyer and Seller can resolve the issue between themselves in their Private Messages and VINTED will not interfere. 
+
+(ii) If the Buyer and the Seller are unable to resolve the issue directly, the Buyer or the Seller can escalate the issue to VINTED by contacting VINTED’s Customer Support from their Private Message. After VINTED has reviewed the issue, if VINTED agrees that the Item indeed does not substantially comply with the description provided by the Seller in the Item listing or that the item was damaged during transit, VINTED will cancel the Transaction and instruct ADYEN N.V. to issue a refund to the Buyer after the Buyer confirms that the Item has been shipped back to the Seller. VINTED does not provide return shipping services. Shipping costs for returning an Item are the responsibility of the Buyer, unless the Buyer and the Seller agree otherwise. If the Buyer does not send the Item back within the period stipulated by VINTED, the Buyer may not be eligible to receive a refund under [Buyer Protection](https://www.vinted.fr/help/550-buyer-protection?access_channel=hc_search). If VINTED determines that there are strong indications that the received Item is a counterfeit, then VINTED may decide, in its sole discretion, that the Buyer does not need to send back the Item in order to get a refund and the Buyer and the Seller will respect such decision.
+
+(iii) If the Buyer and the Seller resolve the issue privately after having already contacted VINTED’s Customer Support, the Users must inform VINTED (by contacting VINTED’s Customer Support) that the issue has been resolved.
+
+(iv) With respect to an Item that a Buyer has reported is significantly not as described in the Item’s listing, if VINTED determines that the Item complies with the description provided by the Seller in the Item listing, then the Buyer shall not be eligible for a refund through VINTED and VINTED will direct ADYEN N.V. to complete the Transaction in accordance with Section 6.4. After the Transaction is completed and the money in escrow is released to the Seller, the Buyer can try to negotiate directly with the Seller for the return of the Item (e.g., agreement on reimbursement, return shipping fees, etc.); however, the Seller may refuse to cooperate with the Buyer on the grounds that the Transaction has been fulfilled from the Seller side.
+
+5.3.3 **No Refund.** If there is something wrong with the Item received by the Buyer or the Item was not received by the Buyer but:
+
+(i) the Buyer does not click the “I have an issue” button within the Dispute Filing Period; or
+
+(ii) the Buyer confirmed that the Item is acceptable (by clicking the “Everything is ok” button in the Private Message)
+
+the Transaction will be completed automatically and the Buyer will not be entitled to a refund under Buyer Protection for that Item and the money that the Seller is entitled to for the Transaction will be released by ADYEN N.V. to the Seller. 
+
+5.4 **Not Insurance.** Buyer Protection is not insurance services or legal protection guarantee services.
+
+5.5 **Acknowledgment that VINTED Makes Final Decisions.** Users agree to comply with the process for receiving a refund under Buyer Protection and to permit VINTED to make the final decision on any Buyer Protection related issue.
+
+5.6 **Refunds for Bundles.** 
+
+5.6.1 **Bundles Lost During Shipping.** If the Buyer purchased a Bundle and the bundled Items are lost during shipment, then the Buyer should follow the Buyer Protection process in Section 5.3.1.
+
+5.6.2 **Bundles With Damaged Items or Significantly Not As Described** **Items**. If the Buyer purchased a Bundle and the Buyer considers any of the Items in the Bundle as damaged during shipment or significantly not as described in the Item’s listing, then the Buyer should follow the Buyer Protection process in Section 5.3.2. If the Buyer chooses to return any of the Items in the Bundle, then the Buyer must return all Items in the Bundle (i.e., not just the damaged/mis-described Items). Shipping costs for returning a Bundle are the responsibility of the Buyer, unless the Buyer and the Seller agree otherwise. The refund under Buyer Protection will be issued for all Items in the Bundle (i.e., not just the damaged/mis-described Items).
+
+**6\. INTEGRATED PAYMENT SERVICE** 
+
+6.1 **Calculating the Total Price.** Integrated Payment Service enables the Buyer to pay in advance the total amount due for the Transaction, which consists of: 
+
+(i) the price for the Item(s) purchased from the Seller; 
+
+(ii) the Shipping fees;
+
+(iii) the Buyer Protection fee; and
+
+(iv) any applicable taxes
+
+(collectively, (i)-(iv), the “**Total Price**”).
+
+6.2 **Payment Methods.** Payment for the Total Price can be made by credit or debit card or any other payment method that may be introduced from time to time on the Site. If the Buyer has funds available on the e-wallet (Balance), such funds will be automatically used to make purchases on the Site from other Users. If the Buyer does not have enough funds in his/her e-wallet to cover the total amount due, Buyer can cover the missing portion by paying through other available payment methods.
+
+6.3 **Paying for Additional Services.** To pay for Additional Services, the Seller must provide his/her credit or debit card information or necessary details for any other payment method that is available on the Site. If a credit or debit card, or other payment method belonging to a third person is provided by a Seller on the Site, the Seller may be required to provide proof of identity. 
+
+6.4 **Completion of a Transaction.** The Total Price paid by the Buyer in advance will be retained by ADYEN N.V. in escrow until a Transaction is completed. A Transaction is considered completed:
+
+(i) when the Buyer confirms through the Site that the delivered Item(s) complies with the conditions of the offer by clicking “Everything is ok”; or
+
+(ii) automatically after the expiration of the Dispute Filing Period if no disputes about the Item(s) are reported during the Dispute Filing Period; or 
+
+(iii) after the resolution of a dispute that was reported during the Dispute Filing Period. 
+
+Once a Transaction is completed, the purchase price of the Item, and, if the Custom Shipping option was used (as described in Section 7.1), also the shipping fees, will be immediately transferred by ADYEN N.V. to the Seller’s e-wallet. At any time a User can elect to have the funds available in a User’s e-wallet transferred by ADYEN N.V. to the User’s personal bank account without any transfer fee, however, for the first pay-out, a User must provide bank account details as described in Section 6.5.1 below.
+
+6.5 **E-Wallet.** 
+
+6.5.1 **Setting Up E-Wallet.** E-wallet (Balance) feature is a payment service provided by ADYEN N.V. By accepting these Terms, Users confirm their understanding that when a User opens the e-wallet, the User enters into a contract directly with ADYEN N.V., and the User accepts ADYEN N.V. [terms and conditions](https://www.adyen.com/legal/terms-and-conditions) and agrees to comply with ADYEN N.V.’s [List of Prohibited Products and Services](https://www.adyen.com/legal/list-restricted-prohibited). For the first sale Transaction where the Buyer purchases an Item using the “Buy now” button and selects Integrated Shipping to be used for the Transaction, the Seller will be asked to open e-wallet by providing the Seller’s name, surname, date of birth, SSN number, address, and phone number (if required). If the Seller fails to do so in 5 days, the sale Transaction will be cancelled. Before the first sale Transaction takes place, Sellers can also open the e-wallet on their own initiative by going to their account’s settings (Select “Balance”, then press “Activate Balance”) and provide required data. 
+
+Once the e-wallet confirmation is completed and the e-wallet is opened, Users will be subject to regulatory procedures applied by ADYEN N.V. such as identity check and other requirements of the “Know Your Customer” (KYC) procedure when respective thresholds (which are set by ADYEN N.V.) are met. If a User fails to comply with the KYC requirements, the User’s e-wallet may be suspended and the User will not be able to pay out or reach the funds. Failure to comply with KYC requirements within time periods requested by ADYEN N.V. may result in other penalties or loss of funds. Any questions may be submitted to ADYEN N.V. 
+
+After a User confirms the User’s e-wallet and makes a successful sale for the first time, the User will be able to transfer amounts from the User’s e-wallet to the User’s bank account, which transfer will be performed by ADYEN N.V. To enable this option, the User must first go to User account settings and add the User’s bank account number, full name and billing address.
+
+6.6 **ADYEN N.V.** VINTED contracts with ADYEN N.V. to process payments made using the Integrated Payment Service and to store information relating to the credit cards, debit cards, and any other payment method offered on the Site. Additionally, ADYEN N.V. provides escrow services--when a Buyer makes a purchase by using the “Buy now” button, ADYEN N.V. acquires funds from the Buyer on behalf of the Seller and holds those funds for disbursement. VINTED supports its Users in using the services provided by ADYEN N.V. and provides direct assistance to Users for such services; however, for the avoidance of doubt, VINTED does not provide any payment processing or money transmission services for Users. Users are solely responsible for the provision of accurate information associated with credit cards, debit cards, and any other payment method offered on the Site and VINTED hereby disclaims any responsibility and all liability for User-provided information to the full extent permitted by applicable law.
+
+6.7 **Additional Integrated Payment Service Restrictions.** 
+
+6.7.1 **No Third Party Use.** The right to use the Integrated Payment Service is only for sales in a User’s own name. A User may not resell, hire, or on any other basis allow third parties to use the Integrated Payment Service to enable such third parties to be paid for their services. 
+
+6.7.2 **Permitted Items Only.** The Integrated Payment Service is only for Items on the Site and not for any other products or services. Users may use the Integrated Payment Service only for Items that comply with the Catalog Rules and that are not on ADYEN N.V.'s [List of Prohibited Products and Services](https://www.adyen.com/legal/list-restricted-prohibited). 
+
+6.8 **Suspension.** VINTED retains the right to suspend your right to use the Integrated Payment Service and other Services, as further described below.
+
+6.8.1 **Inaccurate Information.** If VINTED at any time discovers that any information a User provides about himself/herself is incorrect or has changed without the User informing VINTED, VINTED may immediately suspend the User’s Account (including any in-progress transactions).
+
+6.8.2 **Suspected Fraud.** If any suspicion arises about fraud of any kind whatsoever carried out by a User, VINTED may immediately suspend the User’s Account while the suspected fraud is investigated (including any in-progress transactions).
+
+6.8.3 **Problems Reported by ADYEN N.V..** In the event ADYEN N.V. reports any issues or concerns to VINTED (such as suspected illegal sales on the Site, money laundering, spamming, violation of ADYEN N.V.’s [terms and conditions](https://www.adyen.com/legal/terms-and-conditions)), VINTED may immediately suspend the User’s Account (including any in-progress transactions) while the issue or concern is investigated.
+
+6.8.4 **User-Initiated Dispute.** If any User initiates a dispute resolution procedure in relation to a Transaction via an external payment service provider and VINTED determines that VINTED has a legitimate reason to suspend the User’s Account (e.g., the User has violated applicable laws, breached these Terms, and/or there is a likelihood of misuse of the Site), VINTED may immediately suspend the User’s Account (including any in-progress transactions).
+
+**7\. INTEGRATED SHIPPING SERVICE**
+
+7.1 **Integrated Shipping Service Overview.** The Integrated Shipping Service is applied to every Transaction concluded using the “Buy now” button. The Buyer will pay for the Integrated Shipping Service at Checkout and the Integrated Shipping Service fee will be held in Seller’s e-wallet in escrow. As further described below, the Integrated Shipping Service includes Integrated Shipping Labels and the Custom Shipping option. 
+
+7.2 **Shipping Options.** Certain shipping options are enabled by default for Sellers and cannot be turned off. Users are responsible for reviewing and agreeing to all applicable terms and conditions of the shipping provider the User selects. The Seller may choose either Integrated Shipping Labels or Custom Shipping (as further described below).
+
+**(1) Integrated Shipping Label.** If the Seller decides to ship an Item using Integrated Shipping, (i), during Checkout, the Buyer will be able to choose from the shipping providers available within their area (available options will be provided on the Item page) and (ii), after Checkout, a pre-paid shipping label will be automatically generated and provided to the Seller who must use that label to send the Item to the Buyer (the “**Integrated Shipping Label**”). The Seller must use the Integrated Shipping Label provided by VINTED otherwise the Transaction may be cancelled. Once the Transaction is completed (as per Section 6.4), the price of the Item will be released from escrow to the Seller and the Buyer Protection fee and the fee for the Integrated Shipping Service (and any applicable taxes charged on Services) will be released from escrow to VINTED. 
+
+For its Integrated Shipping Labels option, VINTED offers its Users a choice of third party shipping providers specializing in transport and delivery. VINTED may at any time add or remove shipping providers from the list of choices available to Users. 
+
+With Integrated Shipping, if an Item is lost or damaged during the shipping process, the Buyer is eligible to be reimbursed as part of Buyer Protection as described in Section 5. 
+
+The Seller may be entitled to compensation for a lost or damaged Item up to the compensation limit set by each shipping provider. 
+
+The following shipping providers are available: 
+
+**United States Postal Services (USPS)**
+
+Users who select USPS as their shipping provider agree to comply with all applicable [USPS terms and conditions](https://pe.usps.com/DMM300). 
+
+If an Item that is sent by a Seller via USPS is lost or damaged in the shipping process, the Seller may be entitled to receive compensation as follows:
+
+(a) for **small parcels**, Seller is eligible for a refund of up to $100 per parcel, such refund to be compensated directly by ADYEN N.V to the Seller after receiving a request from VINTED. 
+
+(b) for **medium and large parcels**, Seller is eligible for a refund of up to $100 per parcel; the Seller will have to [claim this compensation from USPS directly](https://pe.usps.com/text/dmm300/609.htm#ep1097134). Information about compensation can be found on the [USPS website](https://pe.usps.com/text/dmm300/503.htm#ep1063624).
+
+Integrated Shipping Label option is not available for Items in some categories. 
+
+**(2) Custom Shipping.** If the Seller decides to independently ship an Item (i.e., without using a Integrated Shipping Label), the Seller will be responsible for choosing the shipping provider, determining the postage price, and arranging for the label and shipping the Item. The Seller is responsible for estimating a correct and accurate price of postage and identifying it in the listing. The Seller must use a shipping provider with tracking enabled. The Seller must in particular note down the tracking number for the shipment and send it to the Buyer via a Private Message. 
+
+If any Item that is sent by Custom Shipping is lost or damaged in the shipping process:
+
+(i) If the Buyer chooses Custom Shipping offered by the Seller and the Buyer purchases the Item using the “Buy now” button, the Buyer will be reimbursed by VINTED as part of the Buyer Protection as described in Section 5.
+
+(ii) The Seller accepts the risks of shipping when using Custom Shipping. VINTED will not offer any compensation to the Seller and the Seller will have to reach out to the shipping provider directly regarding any problems in connection with shipping. The Seller therefore should consider insuring Items shipped using a Custom Shipping option in the event the Item is lost or damaged. 
+
+7.3 **Responsibility For Fees.** The costs (excluding any applicable taxes) for the available Integrated Shipping Services (“**Shipping Fees**”) are shown after clicking on an Item in the Catalog on the Item Page. The Shipping Fees (plus any applicable taxes in case of Integrated Shipping Label) are the responsibility of the Buyer, in addition to the purchase price for the Item, the Buyer Protection fee, and applicable taxes.
+
+7.4 **Commitment to Ship.** As soon as the Total Price has been paid by the Buyer, VINTED informs the Seller that the item was sold and should be shipped to the Seller. The Seller is responsible for shipping out the Item to the Buyer within five (5) working days after VINTED provides shipping instructions. In the event the Seller does not ship the Item within such 5-day period, VINTED has the right to cancel the Transaction and direct ADYEN N.V. to release the Total Price held in escrow to the Buyer. This refund of the Total Price will constitute the Buyer’s only recourse under his/her contract with the Seller and these Terms and will be the Buyer’s sole remedy for the cancelled Transaction.
+
+7.5 **Availability of Integrated Shipping Services.** Integrated Shipping Services are available only in some states or regions. If Integrated Shipping Services are unavailable, the Seller and the Buyer must agree on one of the other shipping methods.
+
+**8\. PAYING FOR ITEMS** 
+
+8.1 [**Price List.**](https://.vinted.com/pricelist) VINTED is authorized to collect fees for the Services in accordance with the prices indicated in the [Price List](https://www.vinted.co.uk/pricelist). VINTED may, in its sole discretion, update the Price List from time to time (and updates may include price changes). The updated Price List shall become effective and replace the prior Price List at the time of posting or such other time as may be indicated by VINTED. If you do not agree with or accept the updated Price List, you can choose to not access and use the Site, to terminate your relationship with VINTED, and to close your User account (as further described in Section 16.1). You will be deemed to have accepted the updated Price List if you continue to access and use the Site after the updated Price List becomes effective; however, Price List changes will not apply to ongoing Transactions (i.e., Transactions for which a Buyer has already made a payment).
+
+8.2 **Currency; Taxes.** All prices on the Site are expressed in United States Dollars (USD) and do not include applicable taxes. The final amount of applicable taxes will be shown to the User during Checkout.
+
+8.3 **Payment Methods.** Purchases using the “Buy now” button can be made by a credit card, debit card or any other payment method that is available via the Integrated Payment Service on the Site at the time the Transaction is conducted (for more information on integrated payments please see Section 6). If the Buyer concludes the Transaction outside of the Site directly with the Seller and without using the Site’s “Buy now” button, the payment method and the purchase transaction depends on the private agreement between the Buyer and the Seller and is done at the risk of the Users. VINTED is not responsible for, and disclaims all liability arising out of or related to, transactions conducted off the Site.
+
+**9\. INTERACTION AND MESSAGES ON THE SITE**
+
+9.1 **Private messages.**
+
+The exchange of Private Messages between Users is for the purpose of exchanging information between Users regarding the Items in the Catalog. If a User sends Private Messages to another User, **he/she must not send**:
+
+1.  messages or information that feature advertising;
+2.  content spreading viruses, worms, or other malicious codes;
+3.  spam or mass mailing messages of any kind (e.g., when a message is sent to more than five Users simultaneously or when the same message is copied and sent to Users who have not asked to receive the message);
+4.  messages containing content contrary to good moral standards and public order; inappropriate, insulting or defamatory messages; or messages otherwise regarded as incompatible with these Terms and the interests of Users;
+5.  messages of an unlawful nature or otherwise intended to cause harm to other Users and/or the Site; or
+6.  messages that may qualify as harassment of any kind whatsoever.
+
+VINTED may use automated software that is designed to use algorithms to detect contents of Private Messages that are contrary to good moral standards and public order or that are inappropriate, insulting, or defamatory. If the automated software detects a Private Message containing any such content, without limiting other remedies available to VINTED, (i) the Private Message and User may be blocked and/or the Private Message may be hidden from the User to whom it was sent and (ii) the User who sent such Private Message may receive a warning reminding the User of his/her obligation to comply with these Terms and informing the User that VINTED may take further steps such as suspending the User's Account in case of further violations. VINTED’s use of such automated software does not create a monitoring obligation on VINTED nor an obligation to actively search for unlawful activities and/or content on the Site and, to the extent permitted by the applicable law, does not give rise to any liability on VINTED. 
+
+9.2 **User Reviews.**
+
+A User has the right to write a review concerning another User only if a Transaction was completed between the Users. The review may be published on the Site. No compensation is given to Users or to VINTED in exchange for online reviews. A User’s review on another User must always be fair and honest. Lies and insults are forbidden. VINTED does not check reviews prior to publication on the Site by Users.
+
+If any review that has been published on the Site is inappropriate or abusive or otherwise does not comply with these Terms, Users may report the review to VINTED in accordance with the reporting procedure described in Section 10.5 below. Upon request of a User, VINTED has the right, but is not obligated to, remove from the Site any review that violates these Terms or the rights of other Users. Additionally, VINTED may block the account of any User who provides a review that does not comply with these Terms as set forth in Section 12.1. 
+
+Only Users may write and post reviews on the Site. Visitors do not have the right to write and post reviews on the Site.
+
+9.3 **Forum.** Both Users and Visitors may consult the Forum, but only Users may post messages to the Forum. Before using the Forum, each User and Visitor must read the Forum Rules. Users and Visitors must comply with the Forum Rules when using the [Forum](http://www.vinted.co.uk/forum-rules). Users and Visitors are responsible for the messages they post in the Forum, and Users and Visitors should not share any confidential or private information in the Forum. VINTED is not responsible for Content in the Forum (or for what Users and Visitors do with such Content). VINTED is not responsible if the identity of a User who has posted a message or a topic in the Forum is made public.
+
+**10\. VISITORS’ AND USERS’ RESPONSIBILITIES**
+
+10.1 All Visitors and Users are fully responsible for all content they upload or publish on (or transmit via) the Site and, if applicable, for the Items they offer, sell, exchange, donate, or transfer to other Users via the Site, as well as for all Transactions undertaken by them with other Users and any disputes that result from such Transactions. Without limiting the foregoing, Users are responsible for all text, information, descriptions, photos, details, and other content they provide in Item listings, Forum postings, Private Messages, feedback, and otherwise post, publish, transmit, or share on or via the Site (collectively, "**Content**").
+
+10.2 Visitors and Users must respect all applicable laws, rules, and regulations when using the Site. Visitors and Users must in particular refrain from (i) violating the rights of third parties; (ii) violating intellectual property rights or listing counterfeit items; (iii) listing Items that violate laws or regulations; (iv) inciting offences or crimes, discrimination, hate or violence based on race, ethnic origin or nationality; (v) communicating incorrect information or confidential information; (vi) making defamatory comments; (vii) committing actions that might place minors in danger; (viii) publishing the personal data of other individuals or breaching privacy rights; (ix) usurping the identity of someone else; or (x) uploading or otherwise inputting any Content that is unlawful, false, or inaccurate. Users must act and use the Site in good faith. 
+
+10.3 If any User or Visitor reports any misconduct of another User or Visitor to VINTED, VINTED may provide assistance to the affected party. VINTED will also cooperate with local authorities if required. In the event that a User or a Visitor does not comply with Section 10.2 or otherwise violates these Terms, the User or the Visitor recognizes and accepts that he/she is solely responsible for any and all resulting direct and indirect losses of third parties or VINTED. Consequently, the User or the Visitor recognizes and accepts that, in its capacity as a hosting provider, VINTED will under no circumstances undertake any verification of the Content and the Items listed in the Catalog, and, to the extent permitted by applicable law, will under no circumstances be held responsible for any damages or losses suffered by Visitors or Users and/or third parties. In particular, without this list being exhaustive, VINTED will not be held responsible for: (i) actions or omissions of Visitors or Users; (ii) the appropriateness, accuracy, exhaustiveness, and/or legality of any Content; or (iii) the safety, quality, and quantity of Items that Users sell, buy, exchange, or donate via the Site nor the conformance of an Item with the description given.
+
+10.4 VINTED is not responsible for the Content of Users. Users are responsible for their Content. VINTED has the right, but not the obligation, to remove Content from the Site that VINTED determines violates, or is likely to violate, applicable laws and/or these Terms and VINTED may take action against the User, including, but not limited to, by suspending or terminating the User’s Account, as provided for in Section 12. 
+
+10.5 If any User or Visitor (i) identifies any Content condoning crimes against humanity, inciting racial hatred, violence and/or terrorist acts, concerning child pornography, or any other unlawful content or (ii) identifies any Content that the User or Visitor believes might violate these Terms and/or their rights and/or the rights of a third party (e.g. counterfeiting, insult, breach of privacy rights, product safety issue), the User or Visitor must immediately inform VINTED by:
+
+1.  Contacting VINTED via the [contact form](https://www.vinted.com/help/support_tickets/new?ch=help_center&faq_entry_id=615&allow_direct=1); or 
+2.  sending an email to the address [legal@vinted.com](mailto:legal@vinted.com).
+
+If such Content is reported, VINTED reserves the right to suspend immediately, without notice, the account of the User (including any in-progress transactions) and remove the Content, as provided for in Section 12. 
+
+10.6 If there is a product safety issue with an Item, Users are advised to stop using the Item.
+
+**11\. OBLIGATIONS OF USERS**
+
+11.1 A User agrees to comply with the following rules when using the Site:
+
+*   when registering on the Site, to provide only truthful information about himself/herself (including, without limitation, with respect to his/her name and email address);
+*   to register on the Site only once and not to create more than one Account (however, if a third party obtains access to a User’s Account, the User may create another Account, but only after the User has informed VINTED about the third party access and VINTED has blocked the original Account);
+*   not to use the Site with the intent to undertake unlawful or fraudulent actions or transactions;
+*   when using the Site, to provide objective, correct, exhaustive, and detailed information about Items being sold, exchanged, or donated;
+*   to ensure that the price proposed for the exchange and/or the sale of Items, as well as other information regarding Items, is correct;
+*   not to copy any content or information appearing on the Site and uploaded by VINTED or another User of the Site;
+*   not to use any content or information appearing on the Site for any unlawful purpose; 
+*   to bear the costs of any applicable sales tax charged by VINTED on Items and/or Services purchased on the Site (such taxes are shown during Checkout);
+
+*   not to share, publish, or otherwise use misleading or incorrect information and/or data;
+*   not to encourage the acquisition of any goods where the sale or possession of the goods is forbidden or restricted;
+*   not to share, publish, or otherwise use any photographs (i) for which the respective User does not have the intellectual property rights (e.g., photos taken by third parties and found on the Internet) or (ii) which contain links to other websites;
+*   not to share, publish, or use photographs (i) in which any person other than the respective User is visible (unless the other persons have consented to the User sharing, publishing, and using the photograph in connection with the Site); or (ii) which are or may be considered contrary to good moral standards and/or public order (for example erotic photographs, pornographic photographs, or photographs with violent contents);
+*   not to offer, sell, buy, exchange, donate, and/or otherwise transfer Items in breach of the intellectual property rights of third parties (e.g., do not use trademarks or copyrighted material (including photos or text) that is owned by someone else without the owner’s prior written permission);
+*   not to violate the rights of ownership and/or the personal rights of third parties (including intellectual property rights);
+*   not to impersonate any person or falsely state or otherwise misrepresent your affiliation with any person or entity;
+*   not use the Service in a manner that may undermine the purposes of the Site, such as trading reviews with other Users or writing or soliciting false or misleading reviews;
+*   not to intimidate or harass another, or promote sexually explicit material, violence or discrimination based on race, sex, religion, nationality, disability, sexual orientation, or age;
+*   not to violate any applicable laws, rules, and/or regulations;
+*   not to act contrary to public order and/or good moral standards;
+*   not to share, publish, or otherwise use programs and/or computer files that contain viruses or that might (i) disrupt the normal operation of the Site and/or the Services, (ii) infect the computers of Users and, therefore, lead to losses for Users or their assets, or (iii) prevent any User from using the Site, the Services, or the User’s computer;
+*   not to offer, post, share, and/or otherwise promote links to other websites and/or companies that provide similar services to those offered by the Site nor to websites and/or companies whose content or activity is illegal or contrary to VINTED’s content policies;
+*   not to incorporate the Site or any portion thereof into any other program, product, or service;
+*   not to mine data, screen scrape, or crawl any part of the Site;
+*   not to disassemble, decompile, or reverse engineer any part of the Site;
+*   not to interfere with or attempt to interfere with the proper working of the Site, disrupt the Site or any networks connected to the Site, or bypass any measures VINTED or its service providers may use to secure or prevent or restrict access to the Site;
+*   not to adapt, copy, vary, edit, distribute, or commercialize any content in the Site without the prior written consent of VINTED;
+*   not to collect, hold, transmit to third parties, make public, publish, or disclose data of the Users of the Site or data on the actions of Users of the Site, including Transactions (e.g., their number, type, price, etc.) if the data becomes available following an unlawful act or omission or by breach of these Terms by any Visitor or User of the Site; and
+*   not to collect, hold, transmit to third parties, make public, publish, or disclose information that appears on the Site if doing so may affect the rights of other Users (this restriction does not apply to the "share" function which exists on the Site and on VINTED Social Networks Accounts and enables Users to share content that is publically available on Site and on VINTED Social Network Accounts).
+
+11.5 The User agrees to keep his/her Account login details and password confidential and not disclose his/her login details or password to any third parties (except for persons who the User authorizes to use his/her login details and password). A User is solely responsible (to us and to others) for all activity that occurs under the User’s Account. If a User knows or suspects that any unauthorized third party knows the User’s password or has accessed the User’s account, the User must promptly notify VINTED via the [contact form](https://www.vinted.com/help/support_tickets/new?ch=help_center&faq_entry_id=615&allow_direct=1).
+
+11.6 The User agrees to immediately update any information on the Site that is no longer current or accurate, including information provided by the User while registering on the Site and information in the User’s Account, as well as information on the Items listed in the Catalog. 
+
+11.7 When using the Site, the User or Visitor represents:
+
+*   that he/she (i) is an individual 18 years old or older, (ii) uses the Services of the Site only for his/her personal benefit and not for any professional activity, and (iii) has full capacity and all the rights necessary to carry out Transactions on the Site;
+*   that he/she accepts and complies with these Terms;
+*   that he/she understands that he/she is fully responsible for the Transactions conducted on the Site;
+*   that he/she understands that when ordering an Item, he/she commits to buy or exchange (as applicable) the Item and that his/her failure to complete the Transaction may obligate him/her to reimburse the Seller for losses suffered by the Seller; and
+*   that he/she understands that he/she must pay VINTED the applicable fee set forth in the Price List if he/she decides to use any Additional Services.
+
+**12\. RIGHTS AND OBLIGATIONS OF VINTED** 
+
+12.1 **VINTED’S Right to Restrict Access to the Site.** VINTED may prohibit a User or Visitor from accessing or using some or all of the Site, suspend or deactivate a User’s Account, and/or prevent a User or Visitor from registering (or, where applicable, re-registering) on the Site for any reason with or without prior notice. Some reasons that VINTED may exercise this right include if the User or Visitor:
+
+*   violates, or breaches their obligations under, these Terms, including if a User or Visitor:
+
+*   provides incorrect, misleading, and/or incomplete information when registering or using the Site
+*   deliberately and intentionally discloses incorrect information on the Site, insults other people, or acts in an inappropriate manner
+*   uses the identity of other Users or otherwise misrepresents himself/herself;
+*   uses the SIte for commercial purposes
+*   sells, exchanges, or donates (or attempts to sell, exchange, or donate) any Item that does not comply with the Catalog Rules or that is listed on ADYEN N.V.'s [List of Prohibited Products and Services](https://www.adyen.com/legal/list-restricted-prohibited)
+
+*   logs-in from the same IP address or from the same computer as one that was blocked by VINTED because of violations of these Terms; 
+
+*   uses the Services in a manner that violates any laws, regulations, or rules or is likely to have serious consequences for the health, safety, property, or legitimate economic interests of other Visitors or Users or VINTED; 
+*   uses the Site in connection with any scam or fraudulent activity; or
+*   abuses or misuses the Site in any manner.
+
+Additionally, VINTED may decide to exercise its rights under Section 12.1 if:
+
+*   VINTED is subject to a legal or regulatory obligation that requires VINTED to terminate access or use of the Site by a User or a User’s Account; 
+*   VINTED exercises a right of termination under an imperative reason pursuant to applicable laws; or
+*   there is a risk to the security and technical operation of the Site or VINTED’s IT system. 
+
+12.2 **No Right to Register.** If VINTED blocks a User and/or de-activates a User’s Account, such User does not have the right to re-register on the Site. 
+
+12.3 **VINTED’s Right to Remove Items In the Catalog and Content from the Site.** VINTED may immediately, without prior notice, delist or remove from the Site any Item listed by a User in the Catalog or any other Content provided by the User if the Item or Content: 
+
+*   is unlawful (e.g. counterfeit items, infringing Content);
+*   are contrary to good moral standards or public order; 
+*   are listed or posted by a Professional Seller; or
+*   otherwise violate these Terms or any applicable law, rule, or regulation.
+
+12.4 **Notification of Authorities.** Nothing in these Terms or our Privacy Policy hinders or prohibits VINTED from investigating any violation of these Terms and/or informing appropriate governmental authorities of any violation of laws, rules, or regulations. VINTED may cooperate with governmental authorities in connection with the foregoing including, but not limited to, by conducting investigations, collecting evidence, and/or disclosing information about Users (e.g., User account data, transaction records). YOU HEREBY WAIVE AND HOLD HARMLESS VINTED AND ITS AFFILIATES AND SERVICE PROVIDERS FROM ANY CLAIMS RESULTING FROM ANY ACTION TAKEN BY VINTED OR ITS AFFILIATES OR ITS OR THEIR SERVICE PROVIDERS DURING, OR TAKEN AS A CONSEQUENCE OF, SUCH INVESTIGATIONS OR ACTIONS OF LAW ENFORCEMENT AUTHORITIES.
+
+12.5 **Appeal.** In the event that VINTED exercises its rights under Section 12.1 or Section 12.3 above and an affected User or Visitor disagrees with VINTED’s decision, the User or Visitor can contact VINTED and provide VINTED with additional information using the [contact form](https://www.vinted.com/help/support_tickets/new?ch=help_center&faq_entry_id=615&allow_direct=1).
+
+12.6 **Determination of Breach.** VINTED has the sole right to determine whether a User or Visitor is in breach of these Terms.
+
+12.7 **Taxes.** With the help of a third party provider, VINTED will automatically calculate, collect and remit to the appropriate Department of Revenue the applicable sales tax on the Item sold in a certain US jurisdiction, but only if (i) the Seller’s Item has been sold on the Site using Integrated Payment Service and (ii) VINTED is liable to collect and remit sales tax in the respective US jurisdiction. With the help of a third party provider, VINTED will automatically calculate, collect and remit to the appropriate Department of Revenue the applicable sales tax on the supply of Services (excluding Custom Shipping). Prices of Items and Services on the Site are always shown excluding any applicable sales tax. In accordance with local US tax laws, applicable sales tax will be calculated taking into account a number of factors, such as type and price of the Item and/or Service purchased, where the Item is being shipped from and to, etc. The final sales tax amount applicable to the Item and/or Service purchased will be shown to the User during Checkout. VINTED will also issue an invoice to the User for the Item and/or Service purchased on the Site using the “Buy now” button, however charges for Custom Shipping will not be included on the invoice. 
+
+12.8 **Changes to the Site.** VINTED may, at any time, make changes to the Site, including by re-organizing the Catalog, adding or removing or adjusting advertising spaces, or modifying the formatting or display of Items, subject to these changes not substantively amending the Content provided by the User, in order to make the Site more user-friendly or to otherwise improve the Site. 
+
+12.9 **News.** VINTED may, at any time, publish News or other communications on the Site. Some offers, competitions, contests, games, or promotions may have special terms and conditions. In the event of any inconsistency between these Terms and the special terms and conditions, the special terms and conditions will prevail solely with respect to the context of the applicable offer, competition, contest, game, or promotion.
+
+12.10 **Ending or Suspending the Operation of the Site.** VINTED may at any time end or suspend the operation of the Site.
+
+12.11 **Holiday Status; Removal of Dormant Items.** VINTED may apply a “Holiday” status to any User who has been inactive for a reasonably long period of time (e.g., 60 days or more). When a User has a Holiday status, Items listed by such User will be hidden from other Users. Additionally, VINTED reserves the right to remove Items listed by any User if such Items were not sold (or exchanged or donated) for a substantially long period of time. Prior to the application of Holiday status and/or the removal of any Items, VINTED will send a notice to the User. Such notification will inform the User of the upcoming change to the User’s status and/or listed Items and allow the User to reject such change (provided that the User is not otherwise in violation of these Terms). The User will need to inform VINTED of its rejection of the change within the notification period stated in the notice. If the User fails to reject that change within the notification period, the User will be deemed to have accepted VINTED’s change to the User’s status and/or removal of listed Item(s).
+
+12.12 **User Experience Testing.** From time to time, VINTED may perform testing on the Site, which may include transactions with Users, to enable VINTED to evaluate and improve the SIte’s user experience (e.g., VINTED buying an Item as if VINTED were a User). VINTED has no obligations to provide Users with notice of testing or to make any disclosures to Users related thereto.
+
+**13\. INTELLECTUAL PROPERTY** 
+
+13.1 **VINTED IP.** Except for Content of Users, as between you and VINTED, VINTED and its affiliates own all right, title, and interest in and to the Site (including all intellectual property rights therein), including in its system (the Catalog, its transmission, etc.), in the layout and design of the Site, in the software used by and for the Site, and in the trademarks and domain names used by and for the Site (collectively, “**VINTED IP**”). Using the Site does not give you ownership of any VINTED IP. Except as permitted by the functionality of the Site and the Services, you may not otherwise use any content from the Site (other than your Content) unless you obtain permission from the owner of such content or your use of such content is otherwise permitted by law. You may not remove, obscure, or alter any legal notices displayed in the Site. VINTED is our trademark and you may not use any of our trademarks without our prior written consent. Subject to your compliance with these Terms, you are hereby granted a non-exclusive, limited, non-transferable, non-sublicensable, revocable license to access and use the Site. We reserve all rights to VINTED IP that are not expressly granted herein. 
+
+13.2 **License to Content.** You hereby represent and warrant that you are the exclusive owner of all Content. Whenever you submit Content to or through the Site, you grant to VINTED and its affiliates a worldwide, royalty-free, non-exclusive, sub-licensable, unlimited, irrevocable, transferable, and perpetual license to use, copy, reproduce, display, and adapt the Content. You acknowledge and agree that VINTED and its affiliates may use Content on any known or unknown media to date, including, without limitation, TV, paper, the Internet (e.g., in banners and articles, on other websites), and social networks (including VINTED Social Networks Accounts) for operational, commercial, advertising, or any other purpose. 
+
+13.3 **Site Feedback.** We welcome feedback, comments, and suggestions for improvements to the Site (“**Site Feedback**”). You acknowledge and expressly agree that any contribution of Site Feedback does not and will not give or grant you any right, title, or interest in the Site or in any such Site Feedback. All Site Feedback becomes the sole and exclusive property of VINTED, and VINTED may use and disclose Site Feedback in any manner and for any purpose whatsoever without further notice or compensation to you and without retention by you of any proprietary or other right or claim. You hereby assign to VINTED any and all right, title, and interest (including, but not limited to, any patent, copyright, trade secret, trademark, show-how, know-how, moral right, and any other intellectual property right) that you may have in and to any and all Site Feedback.
+
+**14\. PRIVACY POLICY**
+
+The Privacy Policy, available at the link [http://www.vinted.com/privacy-policy](https://www.vinted.co.uk/privacy-policy), describes how VINTED handles information that VINTED collects or that you provide to VINTED relating to you through your access and use of the Site. The Privacy Policy and each part thereof do not constitute contractual clauses and are not integrated into these Terms. Please read the Privacy Policy and do not access or use the Site if you disagree with the Privacy Policy.
+
+**15\. GOVERNANCE AND DISPUTE RESOLUTION**
+
+15.1 **Applicable Laws.** These Terms, and any dispute or claim resulting from or in connection with these Terms, will be governed by the laws of the state of Delaware.
+
+15.2 **Disputes.** In the event of a disagreement between VINTED and you, VINTED encourages you to reach out to VINTED to find an amicable solution. To do so, you may: 
+
+1.  Deliver a written complaint to VINTED’s Customer Service Department using the [contact form](https://www.vinted.com/help/support_tickets/new?ch=help_center&faq_entry_id=615&allow_direct=1). 
+2.  In the event the dispute is not satisfactorily resolved through VINTED’s Customer Service Department, please email [legal@vinted.com](mailto:legal@vinted.com) and, within a reasonable period of one (1) month from our receipt of your email, we will use good faith effort to try and resolve the dispute in an amicable manner.
+3.  In the event the dispute is still not satisfactorily resolved, you may seek resolution through the judicial system. 
+
+**16\. TERMINATION**
+
+16.1 **Termination By A User.** A User may end his/her relationship with VINTED at any time with immediate effect; however, the User will remain obligated for fulfilling all of the User’s obligations that resulted from Transactions the User entered into before the end of the User’s relationship with VINTED. A User may end the User’s relationship with VINTED by [cancelling the User’s Account](https://old.vinted.com/help/88-how-to-delete-my-vinted-account?access_channel=hc_search) or by sending a written cancellation notice to VINTED in accordance with Section 18.10. 
+
+16.2 **Termination By VINTED.** VINTED may end its relationship with a User in connection with VINTED exercising its rights as described in Section 12.1 or for any other reason. VINTED will endeavor to provide the User with notice at least thirty (30) days prior to the date of termination, unless VINTED determines that immediate termination is required by law or is necessary to avoid damages to (or mitigate damages for) VINTED. 
+
+16.3 **Responsibility for Preserving Your Content.** If you choose to deactivate your Account or your account is terminated by us for any reason, you will not be able to reactivate your Account. We recommend that you save copies of your Content or other information associated with your Account on your personal device.
+
+16.4 **Survival.** Upon termination of your Account, any provision of these Terms which, by its nature or express terms should survive, will survive such termination.
+
+**17\. LIABILITY LIMITATIONS; WARRANTY DISCLAIMERS**
+
+17.1 Nothing in these Terms limits or excludes VINTED’s liability to you for death or personal injury caused by VINTED’s gross negligence or willful misconduct or any other type of liability which cannot be lawfully excluded or limited. Specifically, if you are a resident of the state of New Jersey, please note: THE LAWS OF THE STATE OF NEW JERSEY MAY LIMIT THE LIMITATIONS OF LIABILITY SET FORTH IN THIS SECTION 17. IN SUCH CASE YOU EXPLICITLY AGREE THAT OUR LIABILITY TO YOU SHALL APPLY TO THE MAXIMUM EXTENT PERMITTED BY THE LAWS OF THE STATE OF NEW JERSEY.
+
+17.2 Your use of the Site is entirely at your own risk. THE SITE IS PROVIDED “AS IS” AND VINTED MAKES NO WARRANTIES OR REPRESENTATIONS WITH RESPECT TO THE SITE. IN PARTICULAR VINTED DOES NOT REPRESENT OR WARRANT THAT: 
+
+*   YOUR USE OF THE SITE WILL MEET YOUR REQUIREMENTS;
+*   YOUR USE OF THE SITE WILL BE UNINTERRUPTED, TIMELY, SECURE, OR FREE FROM ERROR;
+*   DEFECTS IN THE OPERATION OR FUNCTIONALITY OF THE SITE WILL BE CORRECTED. 
+*   ANY CONTENT ON THE SITE OR ANY INFORMATION OBTAINED BY YOU AS A RESULT OF YOUR USE OF THE SITE WILL BE ACCURATE, RELIABLE, COMPLETE, UP-TO-DATE, OR SUITABLE FOR ANY PURPOSE; OR
+*   THE SITE IS FREE OF ERROR OR OMISSION.
+
+17.3 TO THE FULLEST EXTENT PERMITTED BY LAW, VINTED HEREBY DISCLAIMS ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, NON-INFRINGEMENT, AND FITNESS FOR A PARTICULAR PURPOSE. 
+
+17.4 VINTED provides an online facility to introduce individuals to one another to enable the purchase, sale, exchange, and donation of items between them and to enable them to communicate with one another in public and in private. Buyers, Sellers and parties to an exchange or donation are solely responsible for Transactions entered into using the Site.
+
+17.5 VINTED is not responsible for any action or inaction of Users of the Site, or content provided by Users of the Site including, without limitation:
+
+*   the descriptions or photos of Items, including their accuracy and completeness;
+*   the quality, legality, or safety of Items;
+*   the Seller’s, exchanger’s, or giver’s title to the Items; or
+*   any Seller’s or Buyer’s right to enter into a Transaction.
+
+17.6 To the fullest extent permitted by law, you acknowledge and agree that any claim or dispute you have with any other User in connection with the Site is between you and such User and you irrevocably agree to release and hold harmless VINTED from any and all claims, demands, and/or damages (actual and consequential) of every kind and nature, known and unknown, arising out of or in any way connected with such disputes. IN ENTERING INTO THIS RELEASE YOU EXPRESSLY WAIVE ANY PROTECTIONS (WHETHER STATUTORY OR OTHERWISE) THAT WOULD OTHERWISE LIMIT THE COVERAGE OF THIS RELEASE TO INCLUDE ONLY THOSE CLAIMS WHICH YOU MAY KNOW OR SUSPECT TO EXIST IN YOUR FAVOR AT THE TIME OF AGREEING TO THIS RELEASE.
+
+17.7 VINTED will not be liable for any loss or damage caused by a virus, distributed denial-of-service attack, or other technologically harmful material that may infect your computer equipment, computer programs, data, or other proprietary property due to your use of the Site (or the content on the Site) or any website linked to the Site.
+
+17.8 VINTED is not responsible for any third party service providers that you integrate into your account. VINTED will not be liable for any loss or damage that may arise from your use of services provided by such third party service providers.
+
+17.9 NEITHER VINTED NOR ANY OF ITS SUBSIDIARIES OR AFFILIATES WILL BE LIABLE TO YOU, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), OR OTHERWISE, FOR: (A) ANY LOSS OF PROFITS, SALES, BUSINESS, OR REVENUE; (B) ANY BUSINESS INTERRUPTION; (C) ANY LOSS OF ANTICIPATED SAVINGS OR LOSS OF BUSINESS OPPORTUNITY, GOODWILL, OR REPUTATION; (D) ANY DIRECT, SPECIAL, INDIRECT, OR CONSEQUENTIAL DAMAGES; OR (E) OR ANY OTHER DAMAGES OF WHATSOEVER KIND RESULTING FROM WHATEVER CAUSE THROUGH YOUR USE OF THE SITE. 
+
+17.10 VINTED’S TOTAL LIABILITY TO YOU, WHETHER THE LIABILITY ARISES IN CONTRACT, TORT (INCLUDING WITHOUT LIMITATION NEGLIGENCE), OR OTHERWISE, WILL BE LIMITED TO A MAXIMUM OF:
+
+1.  THE PURCHASE PRICE PAID OR PAYABLE FOR THE RELEVANT ITEM IN RESPECT OF ANY CLAIM ARISING IN RELATION TO A TRANSACTION ON THE SITE; OR
+2.  $100 IN RESPECT OF ANY OTHER CLAIM.
+
+THESE LIMITATIONS OF LIABILITY SHALL APPLY WHETHER OR NOT VINTED HAS BEEN ADVISED OR SHOULD HAVE BEEN AWARE OF THE POSSIBILITY OF ANY SUCH LOSSES ARISING.
+
+17.11 **Indemnity.** You agree to defend, indemnify, and hold harmless VINTED, its affiliates, and its service providers, and each of our and their respective officers, directors, employees, agents, and advisors, from any and all claims, liabilities, costs, and expenses, including, but not limited to, attorneys' fees and expenses, arising out of (i) your use of the Site, (ii) any breach of these Terms by you or any user of your Account, (iii) your violation of any applicable laws, rules, and regulations, (iv) your Content, or (v) your negligence or willful misconduct.
+
+17.12 **Class Action Waiver.** ANY CLAIM AGAINST VINTED MUST BE BROUGHT IN THE RESPECTIVE PARTY’S INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS, COLLECTIVE, REPRESENTATIVE, MULTIPLE PLAINTIFF, OR SIMILAR PROCEEDING (“**CLASS ACTION**”). YOU AND OTHER VISITORS AND USERS EXPRESSLY WAIVE ANY ABILITY TO MAINTAIN ANY CLASS ACTION IN ANY FORUM. ANY CLAIM THAT ALL OR PART OF THIS CLASS ACTION WAIVER IS UNENFORCEABLE, UNCONSCIONABLE, VOID, OR VOIDABLE MAY BE DETERMINED ONLY BY A COURT OF COMPETENT JURISDICTION. 
+
+17.13 To the extent permitted under applicable laws, VINTED disclaims all responsibility for the behavior of Users and/or Visitors when they use the Site. VINTED is not responsible for the poor implementation of, or the failure to implement, Transactions by Users.
+
+17.14 The User is expressly reminded that the Internet is not a secure network. The User recognizes the unreliability of the Internet, in particular in terms of potential security breaches regarding the transmission of data and of the absence of performance guarantees regarding the volume and speed of data transmissions. VINTED has implemented security measures aimed at securing the Site; nevertheless the Internet is not a secure network and system reliability could be impaired independently of VINTED's will. 
+
+17.15 VINTED cannot be held liable for unpredictable events such as cyber attacks, security breaches regarding the transmission of data or for performance guarantees regarding the volume and speed of data transmissions. Users are responsible for taking all appropriate measures to protect their own data, software, equipment, and systems, particularly from contamination by any viruses circulating on the Internet.
+
+**18\. MISCELLANEOUS** 
+
+18.1 **Force Majeure.** VINTED shall not be in breach of these Terms nor liable for delay in performing, or failing to perform, any obligations under these Terms if such delay or failure result from events, circumstances, or causes beyond VINTED’s reasonable control. In such circumstances VINTED shall be entitled to a reasonable extension of the time for performing any such obligations under these Terms.
+
+18.2 **Data Charges.** You are responsible for any charges that may apply to your use of our Site, including text-messaging and data charges if you access or use the Site on your mobile device. If you’re unsure what those charges may be, you should ask your mobile device service provider before using the Site. 
+
+18.3 **Additional Terms For VINTED iOS App.** The terms and conditions in this Section 18.3 apply to you only if you are using the VINTED app for the Site from the Apple Store (“**VINTED iOS App**”). To the extent other terms and conditions of these Terms are less restrictive than, or otherwise conflict with, the terms and conditions of this paragraph, the more restrictive or conflicting terms and conditions in this paragraph apply, but solely with respect to the VINTED iOS App. You acknowledge and agree that these Terms are solely between you and VINTED, not Apple, and that Apple has no responsibility for the VINTED iOS App or content thereof. Your use of the VINTED iOS App must comply with the App Store’s applicable terms of use. You acknowledge that Apple has no obligation whatsoever to furnish any maintenance and support VINTED iOS Apps with respect to the VINTED iOS App. In the event of any failure of the VINTED iOS App to conform to any applicable warranty, you may notify Apple, and Apple will refund the purchase price, if any, for the VINTED iOS App to you. To the maximum extent permitted by applicable law, Apple will have no other warranty obligation whatsoever with respect to the VINTED iOS App, and any other claims, losses, liabilities, damages, costs or expenses attributable to any failure to conform to any warranty will be solely governed by these Terms. You and VINTED acknowledge that Apple is not responsible for addressing any claims of yours or any third party relating to the VINTED iOS App or your possession and/or use of the VINTED iOS App, including, but not limited to: (i) product liability claims, (ii) any claim that the VINTED iOS App fails to conform to any applicable legal or regulatory requirement, and (iii) claims arising under consumer protection or similar legislation. You and VINTED acknowledge that, in the event of any third party claim that the VINTED iOS App or your possession and use of the VINTED iOS App infringes that third party’s intellectual property rights, VINTED, not Apple, will be solely responsible for the investigation, defense, settlement, and discharge of any such intellectual property infringement claim to the extent required by these Terms. You must comply with applicable third party terms of agreement when using the VINTED iOS App. You and VINTED acknowledge and agree that Apple, and Apple’s subsidiaries, are third party beneficiaries of these Terms as they relate to your use of the VINTED iOS App, and that, upon your acceptance of these Terms, Apple will have the right (and will be deemed to have accepted the right) to enforce these Terms against you as a third party beneficiary thereof.
+
+18.4 **No Waiver.** The failure of either you or us to exercise or enforce any right or provision of these Terms will not constitute a waiver of such right or provision. Any waiver of any provision of these Terms will be effective only if in writing and signed by the relevant party. 
+
+18.6 **Prevailing Language.** We may translate these Terms into other languages for reference and convenience of Visitors or Users; however, the English language version of these Terms shall be controlling in all aspects and shall prevail in case of any inconsistency with any other language version (if any).
+
+18.7 **California Consumer Rights Notice**. Under California Civil Code Section 1789.3(c), California users of the Site receive the following specific consumer rights notice: The Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs may be contacted in writing at the contact information set forth at [https://www.dca.ca.gov/about\_us/contactus.shtml](https://www.dca.ca.gov/about_us/contactus.shtml).
+
+18.8 **Links to this Site.** Unless otherwise set forth in a written agreement between you and us, if you desire to include a link to the Site on your website or to otherwise share a link to this Site, you must abide by our linking policy as follows: (i) the appearance, position, and other aspects of the link may not be such as to damage or dilute the goodwill associated with our name and trademarks; (ii) the link can not utilize any trademark, service mark, or logo of VINTED without our prior written approval; (iii) the appearance, position, and other attributes of the link may not create the false appearance that you are sponsored by, affiliated with, or associated with VINTED; (iv) when selected by a user, the link must display this Site on full-screen and not within a “frame”; and (v) we reserve the right to revoke our consent to the link at any time and in our sole discretion.
+
+18.9 **Links on this Site.** Links on this Site may direct you to third party websites that are not affiliated with us. Such websites are not controlled by us and therefore we are not responsible for the contents of any such website or any change or update of such websites. We provide you with these links for your convenience only, and the inclusion of any link does not imply we approve of or endorse the website or the content thereon. Please review carefully the third party website’s terms of use and other policies and make sure you understand them before you engage in any transaction. 
+
+18.10 **Communications with VINTED.** You may provide notices, requests, information, and other communications to VINTED via the [contact form. VINTED may provide notices, requests, information, and other communications to you](https://www.vinted.com/help/support_tickets/new?ch=help_center&faq_entry_id=615&allow_direct=1) via email, using the email address you provided when registering on the Site.
+
+18.11 **Independent Contractor.** These Terms do not have the effect of creating a partnership, agency, joint venture, employee-employer, or franchise relationship.
+
+18.12 **Assignment.** VINTED may transfer and/or assign these Terms or any or all rights and obligations under these Terms, in whole or in part, without your prior consent or prior notice to you. Such a transfer and/or assignment releases VINTED from all obligations under these Terms. You may not transfer or assign these Terms or any or all of your rights or obligations under these Terms, by operation of law or otherwise, without VINTED’s express prior written approval.
+
+18.13 **Notices to VINTED.** A User may express objections regarding the access, use, or operation of the Site through a notification at any time. Notifications must be sent to VINTED using the [form](https://www.vinted.com/help/support_tickets/new?ch=help_center&faq_entry_id=615&allow_direct=1) that appears on the Site or by emailing [legal@vinted.com](mailto:legal@vinted.com).
+
+18.14 **Severability.** If any part of these Terms is determined by any competent authority to be invalid, unlawful, or unenforceable to any extent, such term shall to that extent be severed from the remaining terms which shall continue to be valid and enforceable to the fullest extent permitted by law.
+
+18.15 **Entire Agreement.** These Terms and all documents referred to in these Terms constitute the entire agreement between VINTED and you and supersede and extinguish all previous agreements, promises, assurances, warranties, representations, and understandings between VINTED and you, whether written or oral, relating to the subject matter of these Terms (or any document referred to in these Terms). You agree that in entering into these Terms you have not relied on any statement, representation, assurance, or warranty that is not set out in these Terms or any document referred to in them. 
+
+**19\. COPYRIGHT POLICY**
+
+19.1 **Reporting Claims of Copyright Infringement**
+
+We take claims of copyright infringement seriously. We will respond to notices of alleged copyright infringement that comply with applicable law. If you believe that any materials accessible on this site (“Website”) infringes your copyrights, you may request removal of those materials from the Website by submitting written notification to our Copyright Agent designated below. In accordance with the Digital Millennium Copyright Act (17 U.S.C. § 512) (“DMCA”), the written notice must include the following:
+
+*    Your physical or electronic signature.
+*   An Identification of the copyrighted work you believe to have been infringed.
 *   A description of where the alleged infringing material is located.
-*   A statement by you that you have a good faith belief that the disputed use is not authorized by you, the copyright owner, its agent, or the law.
-*   An electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest.
-*   A statement by you, made under penalty of perjury, that the above information is accurate and that you are the copyright owner or authorized to act on behalf of the copyright owner.
+*   Adequate information by which we can contact you (including your name, postal address, telephone number, and email address).
+*   A statement by you that you have a good faith belief that use of the copyrighted material is not authorized by the copyright owner, its agent, or the law.
+*   A statement, made under penalty of perjury, that the information in the written notice is accurate.
+*   A statement, made under penalty of perjury, that you are authorized to act on behalf of the copyright owner.
 
-**_Copyright Agent:_**
+19.2 **_Copyright Agent:_**
 
 Vinted Inc. Legal Department
 
-legal@vinted.com 
+legal@vinted.com 
 
-_Mailing address:_
+Mailing address: c/o Rachel Tarko Hudson, Sheppard Mullin, 4 Embarcadero Ctr. 17th Fl., San Francisco, CA 94123
 
-c/o Rachel Tarko Hudson Sheppard Mullin 4 Embarcadero Ctr. 17th Fl.
+Phone: 4157742999
 
-San Francisco, CA 94123
+If you fail to comply with all of the requirements of Section 512(c)(3) of the DMCA, your notice may not be effective. 
 
-For clarity, only copyright infringement notices should go to our Copyright Agent.  You acknowledge that if you fail to comply with all of the requirements of this section your notice may not be valid.
+Please be aware that if you knowingly materially misrepresent that material or activity on the Website is infringing your copyright, you may be held liable for damages (including costs and attorneys’ fees) under the DMCA.
 
-If you believe the content that was removed (or to which access was disabled) is not infringing, or that you have the authorization from the copyright owner, the copyright owner's agent, or pursuant to the law, to post and use such content, you may submit a counter-notice to the address listed above containing the following information:
+19.3 **Counter Notification Procedures**
 
-*   Your physical or electronic signature;
-*   Identification of the content that has been removed or to which access has been disabled and the location at which the content appeared before it was removed or disabled;
-*   A statement that you have a good faith belief that the content was removed or disabled as a result of mistake or a misidentification of the content; and
-*   Your name, physical address, telephone number, and e-mail address, a statement that you consent to the jurisdiction of the federal court in Los Angeles, California, and a statement that you will accept service of process from the person who provided notification of the alleged infringement. 
+If you believe that material you posted on the Website was removed (or to which access was disabled) by mistake or misidentification, you may submit a counter-notice to the address listed above containing the following information:
 
-After we receive your counter-notification, we will forward it to the party who submitted the original claim of copyright infringement.  Please note that when we forward the counter-notification, it includes your personal information.  By submitting a counter-notification, you consent to having your information revealed in this way.  We will not forward the counter-notification to any party other than the original claimant.
+*   Your physical or electronic signature.
+*    An identification of the material that has been removed or to which access has been disabled and the location at which the material appeared before it was removed or disabled.
+*   Adequate information by which we can contact you (including your name, postal address, telephone number, and email address).
+*   A statement that you have a good faith belief that the material was removed or disabled as a result of mistake or a misidentification of the material to be removed or disabled.
+*   A statement that you will consent to the jurisdiction of the Federal District Court for the judicial district in which your address is located (or if you reside outside the United States for any judicial district in which the Website may be found) and that you will accept service from the person (or an agent of that person) who provided the Website with the complaint at issue.
 
-After we send out the counter-notification, the claimant must then notify us within 10 days that he or she has filed an action seeking a court order to restrain you from engaging in infringing activity relating to the content that was removed or disabled.  If we receive such notification we will be unable to restore the material.  If we do not receive such notification, we may reinstate the material.
+After we receive your counter-notification, we will forward it to the party who submitted the original claim of copyright infringement. Please note that when we forward the counter-notification, it includes your personal information. By submitting a counter-notification, you consent to having your information revealed in this way. We will not forward the counter-notification to any party other than the original claimant.
 
-**21\. THIRD PARTY LINKS AND RESOURCES IN THIS SITE**
+The DMCA allows us to restore the removed material if the party filing the original DMCA Notice does not file a court action against you within ten business days of receiving the copy of your counter-notice. 
 
-1.  Where this Site contains links to other sites and resources provided by third parties, these links are provided for your information only.  We have no control over the contents of those sites or resources.
-2.  We assume no responsibility for the content of websites linked on our Site. Such links should not be interpreted as endorsement by us of those linked websites. We will not be liable for any loss or damage that may arise from your use of them.
+Please be aware that if you knowingly materially misrepresent that material or activity on the Website was removed or disabled by mistake or misidentification, you may be held liable for damages (including costs and attorneys' fees) under the DMCA.
 
-**22\. PROMOTIONS**
+19.4 **Repeat Infringers**
 
-1.  From time to time we may post promotions, competitions, games or prize draws on the Site and special terms and conditions related to the same.
-2.  If there is any conflict between such special terms and conditions and these Terms, the special terms and conditions shall prevail.
-
-**23\. EVENTS BEYOND OUR CONTROL**
-
-1.  We shall not be in breach of these Terms nor liable for delay in performing, or failure to perform, any obligations under these Terms agreement if such delay or failure result from events, circumstances or causes beyond our reasonable control. In such circumstances we shall be entitled to a reasonable extension of the time for performing such obligations.
-
-**24\. SEVERANCE**
-
-1.  If any or any part of the terms contained in these terms shall be determined by any competent authority to be invalid, unlawful or unenforceable to any extent, such term shall to that extent be severed from the remaining terms which shall continue to be valid and enforceable to the fullest extent permitted by law.
-
-**25\. ENTIRE AGREEMENT**
-
-1.  These Terms and all documents referred to in these Terms constitute the entire agreement between us and you and supersede and extinguish all previous agreements, promises, assurances, warranties, representations and understandings between us and you, whether written or oral, relating to its subject matter.
-2.  We and you agree that in entering into these Terms have relied on any statement, representation, assurance or warranty (whether made innocently or negligently) that is not set out in these Terms or any document referred to in them. Neither us nor you shall have any claim for innocent or negligent misrepresentation based on any statement in these terms or any document referred to in them.
-
-**26\. APPLICABLE LAW & VENUE**
-
-1.  These Terms will be governed by and construed in accordance with the laws of the State of California , without giving effect to any conflict of laws rules or provisions.
-2.  You agree that any action of whatever nature arising from or relating to these Terms, the Site, or Services will be filed only in the state or federal courts located in San Francisco, California.  You consent and submit to the personal jurisdiction of such courts for the purposes of any such action.
-
-**27\. TRADE MARKS**
-
-1.  Vinted TM is a registered trade mark of Vinted Limited, a Vinted group company.
-2.  Any other trade mark displayed on the Site is not owned by us or our group companies. Any use of such trade marks may be an infringement of the rights of the owner in those trade marks.
-
-**28. ARBITRATION AGREEMENT & WAIVER OF CERTAIN RIGHTS**
-
-You and Vinted agree that we will resolve any disputes between us through binding and final arbitration instead of through court proceedings.  You and Vinted hereby waive any right to a jury trial of any Claim (defined below).  All controversies, claims, counterclaims, or other disputes arising between you and Vinted relating to these Terms or the Offerings (each a “Claim”) shall be submitted for binding arbitration in accordance with the Rules of the American Arbitration Association (“AAA Rules”).  The arbitration will be heard and determined by a single arbitrator.  The arbitrator's decision in any such arbitration will be final and binding upon the parties and may be enforced in any court of competent jurisdiction.  The parties agree that the arbitration will be kept confidential and that the existence of the proceeding and any element of it (including, without limitation, any pleadings, briefs or other documents submitted or exchanged and any testimony or other oral submissions and awards) will not be disclosed beyond the arbitration proceedings, except as may lawfully be required in judicial proceedings relating to the arbitration or by applicable disclosure rules and regulations of securities regulatory authorities or other governmental agencies.
-
-If you demonstrate that the costs of arbitration will be prohibitive as compared to the costs of litigation, Vinted will pay as much of the administrative costs and arbitrator's fees required for the arbitration as the arbitrator deems necessary to prevent the cost of the arbitration from being prohibitive.  In the final award, the arbitrator may apportion the costs of arbitration and the compensation of the arbitrator among the parties in such amounts as the arbitrator deems appropriate.
-
-This arbitration agreement does not preclude you or Vinted from seeking action by federal, state, or local government agencies.  You and Vinted also have the right to bring qualifying claims in small claims court.  In addition, you and Vinted retain the right to apply to any court of competent jurisdiction for provisional relief, including pre-arbitral attachments or preliminary injunctions, and any such request shall not be deemed incompatible with these Terms, nor a waiver of the right to have disputes submitted to arbitration as provided in these Terms.
-
-Neither you nor Vinted may act as a class representative or private attorney general, nor participate as a member of a class of claimants, with respect to any Claim.  Claims may not be arbitrated on a class or representative basis.  The arbitrator can decide only your and/or Vinted’s individual Claims.  The arbitrator may not consolidate or join the claims of other persons or parties who may be similarly situated.
-
-If any provision of this Section is found to be invalid or unenforceable, then that specific provision shall be of no force and effect and shall be severed, but the remainder of this Section shall continue in full force and effect.  No waiver of any provision of this Section of the Terms will be effective or enforceable unless recorded in a writing signed by the party waiving such a right or requirement.  Such a waiver shall not waive or affect any other portion of this Terms.  This Section of the Terms will survive the termination of your relationship with Vinted
-
-THIS SECTION LIMITS CERTAIN RIGHTS, INCLUDING THE RIGHT TO MAINTAIN A COURT ACTION, THE RIGHT TO A JURY TRIAL, THE RIGHT TO PARTICIPATE IN ANY FORM OF CLASS OR REPRESENTATIVE CLAIM, THE RIGHT TO ENGAGE IN DISCOVERY EXCEPT AS PROVIDED IN AAA RULES, AND THE RIGHT TO CERTAIN REMEDIES AND FORMS OF RELIEF.  OTHER RIGHTS THAT YOU OR Vinted WOULD HAVE IN COURT ALSO MAY NOT BE AVAILABLE IN ARBITRATION.
-
-**29\. AMENDMENTS TO THESE TERMS**
-
-1.  We may change these Terms from time to time by posting an amended version on this page in the following circumstances:
-    1.  to reflect changes or expected changes in relevant laws and regulatory requirements;
-    2.  to reflect any ruling by a court, regulator or any other similar body having authority; 
-    3.  to make these terms clearer or fairer;
-    4.  to reflect changes and developments in how we operate our business;
-    5.  to rectify any error which we may discover at a later date; or
-    6.  to reflect changes in market conditions or standard industry practice.
-2.  We recommend that you check this page from time to time, as your continued use of this Site after these Terms are amended shall mean that you agree to be bound by such changes. 
-
-**30\. CONTACT**
-
-For all support based enquiries, you can contact the team here:  **[Contact us](https://www.vinted.com/help/support_tickets/new?ch=help_center&faq_entry_id=615&allow_direct=1)**. For all legal based enquiries, please contact us through **legal@vinted.com**
+It is our policy in appropriate circumstances to disable and/or terminate the accounts of users who are repeat infringers.
