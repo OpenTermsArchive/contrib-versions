@@ -255,7 +255,7 @@ Unless you delete your forum topics or posts beforehand, we collect and use your
 **2.1.11. To send you important messages regarding the Platform**
 -----------------------------------------------------------------
 
-If you register on the Platform, we will send you emails and messages via the Platform’s messaging system for the purpose of providing important notifications such as [GTC](https://www.vinted.fr/terms-and-conditions), Privacy Policy changes.
+If you register on the Platform, we will send you emails and messages via the Platform’s messaging system for the purpose of providing important notifications such as GTC, Privacy Policy changes.
 
 The legal grounds for the collection and use of data is the fulfillment of a contract (compliance with our GTC) to which you are party (Art. 6 (1) (b) of the GDPR) and compliance with the legal obligations to which Vinted is subject (Art. 6 (1) (c) of the GDPR).
 
@@ -268,7 +268,7 @@ If you register on the Platform, we will send you offers related to Vinted servi
 
 The legal grounds for the collection and use of data is our legitimate interest in providing offers to our members (Art. 6 (1) (f) of the GDPR, Art. 13 (2) of Directive 2002/58/EC of the European Parliament and of the Council of July 12, 2002, regarding the processing of personal data and the protection of privacy in the electronic communications sector (Guideline on privacy and electronic communications), Art. 69 (2) of Lithuanian Law on Electronic Communications).
 
-In order to send Offers, Vinted uses the service provider, Braze, Inc. (USA),  established outside the European Economic Area. In this case, personal data is protected by the service provider entering into the EU standard contractual clauses for the transfer of data as approved by the European Commission. We collect and use your personal data for this purpose until your Vinted account is deactivated or inactive for five (5) years.
+In order to send Offers, Vinted uses the service provider, Braze, Inc. (USA),  established outside the European Economic Area. In this case, personal data is protected by the service provider entering into the [EU standard contractual clauses](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010D0087&from=en) for the transfer of data as approved by the European Commission. We collect and use your personal data for this purpose until your Vinted account is deactivated or inactive for five (5) years.
 
 **2.1.13. To provide you with customer support service**
 --------------------------------------------------------
@@ -559,7 +559,7 @@ To make our content available in all preferred member languages, we have integra
 3.  Reviews;
 4.  Messages.
 
-For automatic translation, Vinted uses service provider Google LLC (USA) which is established outside the European Economic Area. In this case, the personal data is protected by the service provider entering into the EU standard contractual clauses for the transfer of data as approved by the European Commission.
+For automatic translation, Vinted uses service provider Google LLC (USA) which is established outside the European Economic Area. In this case, the personal data is protected by the service provider entering into the [EU standard contractual clauses](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010D0087&from=en) for the transfer of data as approved by the European Commission.
 
 The legal grounds for such collection and use of the personal data are the legitimate interest of Vinted and its members (Art. 6 (1) (f) of the GDPR) in making the Platform more convenient and intuitive for our members.
 
@@ -616,7 +616,8 @@ The legal grounds for such collection and the use of your personal data is our l
 
 We collect and use your personal data for this purpose until your Vinted account is deactivated or inactive for five (5) years.
 
-To verify your account in case of suspicious activity related to your account.
+**2.3.4. To verify your account in case of suspicious activity related to your account.**
+-----------------------------------------------------------------------------------------
 
 If we detect activity on your account considered to be suspicious by Vinted, we will ask you to perform a basic verification by confirming your email, Facebook or Google accounts. For the purpose of performing a basic verification, we will collect and use the following data:
 
@@ -627,7 +628,7 @@ The legal grounds for such collection and use are our legitimate interest to pro
 
 We collect and use your personal data for this purpose until your Vinted account is deactivated or inactive for five (5) years.
 
-**2.3.4. To conduct phone number and two-step verifications**
+**2.3.5. To conduct phone number and two-step verifications**
 -------------------------------------------------------------
 
 Should you decide to apply an additional layer of protection to your account and activate phone verification, we will use your phone number in order to enable this function. The legal grounds for such collection and use are our legitimate interest in providing our users with additional measures to protect their account (Art. 6 (1) (f) of the GDPR).
@@ -638,11 +639,11 @@ When you verify your phone number, Vinted will collect and use your phone number
 
 Personal data for mandatory verifications is required to enter into and fulfill a contract (GTC) with you. If you do not provide us with this personal data, we will not be able to enter into and fulfill a contract (GTC) with you. 
 
-In order to carry out phone number and two-step verifications, we use service provider, Nexmo Inc., (USA) enabling us to send you verification messages or make verification calls to dictate verification code if you do not verify your phone number within 5 minutes. While this results in your data being shared outside the European Economic Area, the data is protected by the service provider entering into the EU Standard Contractual Clauses for the transfer of data as approved by the European Commission.
+In order to carry out phone number and two-step verifications, we use service provider, Nexmo Inc., (USA) enabling us to send you verification messages or make verification calls to dictate verification code if you do not verify your phone number within 5 minutes. While this results in your data being shared outside the European Economic Area, the data is protected by the service provider entering into the [EU Standard Contractual Clauses](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010D0087&from=en) for the transfer of data as approved by the European Commission.
 
 We collect and use your personal data for this purpose until deactivation of your Vinted account or after 5 years of inactivity on your account.
 
-**2.3.5. To carry out payment source security checks**
+**2.3.6. To carry out payment source security checks**
 ------------------------------------------------------
 
 As part of the security process, we ask our members to provide verification of their payment source. In order to perform such security checks, Vinted collects and uses the following data:
@@ -655,7 +656,7 @@ The legal grounds for such collection and use is our legitimate interest to prot
 
 Personal data collected and used for this purpose is kept for 4 days after the security check.
 
-**2.3.6. To carry out PayPal account security checks**
+**2.3.7. To carry out PayPal account security checks**
 ------------------------------------------------------
 
 As part of the security process, we request our members to verify ownership of their PayPal accounts where there was no actual charge. As part of this process, Vinted collects and uses the following data:
@@ -674,8 +675,8 @@ The legal grounds for such collection and use are our legitimate interest to pro
 
 Personal data collected and used for this purpose is kept for 4 days after the security check.
 
-**2.3.7. To ensure listing compliance with our** [**Authenticity Policy**](https://www.vinted.fr/help/307-what-is-vinted-s-authenticity-policy#:~:text=Not%20Logged%20In-,What%20is%20Vinted%27s%20authenticity%20policy%3F,are%20popular%20targets%20for%20counterfeiters) 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**2.3.8. To ensure listing compliance with our** [**Authenticity Policy**](https://www.vinted.com/help/307-what-is-vinted-s-authenticity-policy) 
+-------------------------------------------------------------------------------------------------------------------------------------------------
 
 For some listings, we collect and use the following data in order to ensure that such listings comply with our Authenticity Policy:
 
@@ -684,13 +685,13 @@ For some listings, we collect and use the following data in order to ensure that
 
 The legal grounds for such collection and use of your personal data is our legitimate interest to protect the Platform and our members from eventual counterfeit (Art. 6 (1) (f) of the GDPR).
 
-Vinted may use the service provider. Real Authentication, Inc. (USA), in order to check whether certain items uploaded to the Vinted listings appear to be authentic. As Real Authentication, Inc. (USA) is established outside the European Union Economic Area, any personal data processed by this service provider is protected by the service provider entering into the EU standard contractual clauses for the transfer of data as approved by the European Commission.
+Vinted may use the service provider. Real Authentication, Inc. (USA), in order to check whether certain items uploaded to the Vinted listings appear to be authentic. As Real Authentication, Inc. (USA) is established outside the European Union Economic Area, any personal data processed by this service provider is protected by the service provider entering into the [EU standard contractual clauses](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010D0087&from=en) for the transfer of data as approved by the European Commission.
 
 We may share photos of listings or other proofs of authenticity free of your personal data with brand owners in order to verify certain items.
 
 Personal data collected and used for this purpose is kept for 2 years when necessary, to solve disputes between our users.
 
-**2.3.8. To carry out account ownership checks**
+**2.3.9. To carry out account ownership checks**
 ------------------------------------------------
 
 As part of the security process, we may ask our members to verify ownership of their Vinted account. To confirm your identity, we will need one of the following as proof:
@@ -704,8 +705,8 @@ The legal grounds for such collection and use of your personal data is our legit
 
 Personal data collected and used for this purpose is kept for 3 days from receipt of the proof.
 
-**2.3.9. To allow you to report inappropriate behavior or content**
--------------------------------------------------------------------
+**2.3.10. To allow you to report inappropriate behavior or content**
+--------------------------------------------------------------------
 
 If you would like to report inappropriate messages, forum activity, members, items, spam or spoof mail, we will collect and use the following data for the purpose of ensuring the security of the Platform and its members:
 
@@ -718,7 +719,7 @@ The legal grounds for such collection and use of your personal data is our legit
 
 We collect and use your personal data for this purpose until your Vinted account is deactivated or inactive for five (5) years.
 
-**2.3.10. To report suicidal posts**
+**2.3.11. To report suicidal posts**
 ------------------------------------
 
 Exceptionally, any suicidal posts seen on our Platform may be reported to the police. In such cases, we will collect and use and disclose the following data for the purpose of reporting suicidal posts:
@@ -879,15 +880,15 @@ We collect and use your personal data for this purpose until your Vinted account
 **2.5.3. To enable you to pay and receive payments on our Platform**
 --------------------------------------------------------------------
 
-If you opt to pay a seller or for extra services by payment card or other payment method integrated on the Platform, or if you use other services on the Platform for which a charge is made, the transaction in question will be collected and used via the electronic payment system ADYEN (see our [GTC](https://www.vinted.pl/terms-and-conditions)), which is operated by ADYEN N.V. (Netherlands) ("ADYEN"). 
+If you opt to pay a seller or for extra services by payment card or other payment method integrated on the Platform, or if you use other services on the Platform for which a charge is made, the transaction in question will be collected and used via the electronic payment system ADYEN (see our GTC), which is operated by ADYEN N.V. (Netherlands) ("ADYEN"). 
 
-On behalf of Vinted, ADYEN will collect the payment information required based on the payment method selected (e.g., credit card, etc.). The payment will then be implemented via ADYEN and the payment scheme owner or facilitator of the payment method you have selected. To this extent, ADYEN’s data protection rules and the payment scheme owner or facilitator of the payment method you have selected will apply. For more information on payment procedure, see Article 6 of our [GTC](https://www.vinted.pl/terms-and-conditions). 
+On behalf of Vinted, ADYEN will collect the payment information required based on the payment method selected (e.g., credit card, etc.). The payment will then be implemented via ADYEN and the payment scheme owner or facilitator of the payment method you have selected. To this extent, ADYEN’s data protection rules and the payment scheme owner or facilitator of the payment method you have selected will apply. For more information on payment procedure, see Article 6 of our GTC. 
 
 If you use a payment card as your payment method, Vinted will see only the card holder’s full name, the first six and last four digits of your payment card number and expiration date. This information will be used by us solely for the purpose of confirming payment. The rest of card data is masked and forwarded to ADYEN to handle the transaction.
 
 The legal grounds for the collection and use of your personal data is the fulfillment of a contract (compliance with our GTC) to which you are party (Art. 6 (1) (b) of the GDPR).
 
-Personal data is required to fulfill a contract (GTC) with you. Ifdo not provide us with this personal data, we will not be able to enter into and fulfill a contract (GTC) with you.
+Personal data is required to fulfill a contract (GTC) with you. If you do not provide us with this personal data, we will not be able to enter into and fulfill a contract (GTC) with you.
 
 We collect and use your personal data for this purpose until your Vinted account is deactivated or inactive for five (5) years.
 
@@ -911,9 +912,9 @@ We collect and use your personal data for this purpose until your Vinted account
 
 Please note, this section only applies to our old Platform.
 
-If you opt to pay a seller by payment card or other payment method integrated on the Platform, or if you use other services on the Platform for which a charge is made, the transaction in question will be collected and used via the electronic payment system, STRIPE (see our [GTC](https://www.vinted.com/terms-and-conditions)), which is operated by Stripe, Inc. (United States) ("STRIPE"). 
+If you opt to pay a seller by payment card or other payment method integrated on the Platform, or if you use other services on the Platform for which a charge is made, the transaction in question will be collected and used via the electronic payment system, STRIPE (see our GTC), which is operated by Stripe, Inc. (United States) ("STRIPE"). 
 
-On behalf of Vinted, STRIPE will collect the payment information required according to the payment method selected (e.g., credit card or other). The payment will then be implemented via STRIPE and via the payment scheme owner or facilitator of the payment method you have selected. To this extent, STRIPE’s data protection rules and those of the payment scheme owner or facilitator of the payment method you have selected will apply. For more information on payment procedure, see Article 13 of our [GTC](https://www.vinted.com/terms-and-conditions). 
+On behalf of Vinted, STRIPE will collect the payment information required according to the payment method selected (e.g., credit card or other). The payment will then be implemented via STRIPE and via the payment scheme owner or facilitator of the payment method you have selected. To this extent, STRIPE’s data protection rules and those of the payment scheme owner or facilitator of the payment method you have selected will apply. For more information on payment procedure, see Article 13 of our GTC. 
 
 If you use a payment card as your payment method, Vinted will see only the card holder’s full name, the last four digits of your payment card number, expiration date, brand and country code. This information will be used by us solely for the purpose of confirming payment. The remaining card data is masked and forwarded to STRIPE to handle the transaction.
 
@@ -1057,7 +1058,7 @@ When you buy, sell or swap items on the Platform, we collect and use the followi
 3.  Address;
 4.  Package location of the parcel.
 
-If we are unable to gather tracking information directly from a particular shipping provider, we provide the aforementioned information to a tracking service provider, AfterShip Limited (Hong Kong, China). Personal data is protected by the service provider entering into the EU Standard Contractual Clauses for the transfer of data as approved by the European Commission.
+If we are unable to gather tracking information directly from a particular shipping provider, we provide the aforementioned information to a tracking service provider, AfterShip Limited (Hong Kong, China). Personal data is protected by the service provider entering into the [EU Standard Contractual Clauses](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010D0087&from=en) for the transfer of data as approved by the European Commission.
 
 The legal grounds for the collection and use of your personal data is the legitimate interest of Vinted and our members to track shipment when it is impossible to gather tracking information directly from a particular shipping provider (Art. 6 (1) (f) of the GDPR).
 
@@ -1078,7 +1079,7 @@ We base such collection and use on your consent (Art. 6 (1) (a) of the GDPR, Art
 
 You can grant or revoke your consent to receive Marketing Emails at any time with no future effect. In your Vinted account, you can adjust your settings to choose what emails you wish to receive or disable the receipt of further Marketing Emails. Alternatively, you can click "Unregister" at the end of the Marketing Email. Revoking your consent will not affect the legality of the collection and use carried out prior to withdrawal of your consent.
 
-Vinted uses the service provider, Braze, Inc. (USA), established outside the European Economic Area, to send Marketing Emails. In this case, the personal data is protected by the service provider entering into the EU standard contractual clauses for the transfer of data as approved by the European Commission.
+Vinted uses the service provider, Braze, Inc. (USA), established outside the European Economic Area, to send Marketing Emails. In this case, the personal data is protected by the service provider entering into the [EU standard contractual clauses](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010D0087&from=en) for the transfer of data as approved by the European Commission.
 
 We collect and use your personal data for this purpose until your Vinted account is deactivated or inactive for five (5) years or until you revoke your consent.
 
@@ -1087,7 +1088,7 @@ We collect and use your personal data for this purpose until your Vinted account
 
 Vinted will use the data used to register you on the Platform (see above under 2.1.1, 2.1.2 and 2.1.3) and related to your Vinted account (see 2.2), the data on your forum activity (see 2.1.10), your log files (see 2.3.1 above) and other means (see 2.7.7) to personalize marketing messages and advertisements presented to you. We base this collection and use of your personal data on our legitimate interest to present you with marketing messages that we consider relevant to you (Art. 6(1)(f) of the GDPR).
 
-Vinted uses service provider, Braze, Inc., (USA) established outside the European Economic Area, to send you personalized marketing messages. In this case, the personal data is protected by the service provider entering into the EU standard contractual clauses for the transfer of data as approved by the European Commission.
+Vinted uses service provider, Braze, Inc., (USA) established outside the European Economic Area, to send you personalized marketing messages. In this case, the personal data is protected by the service provider entering into the [EU standard contractual clauses](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010D0087&from=en) for the transfer of data as approved by the European Commission.
 
 We collect and use your personal data for this purpose until your Vinted account is deactivated or inactive for five (5) years.
 
@@ -1177,12 +1178,12 @@ We base such collection and use on our legitimate business interest to evaluate 
 
 In order to carry out the above evaluations, Vinted provides your data to service providers who evaluate the efficiency of promotional campaign services.
 
-Our service provider, Braze, Inc., (USA) is established outside the European Economic Area. In this case, the personal data is protected by the service provider entering into the EU Standard Contractual Clauses for the transfer of data as approved by the European Commission.
+Our service provider, Braze, Inc., (USA) is established outside the European Economic Area. In this case, the personal data is protected by the service provider entering into the [EU Standard Contractual Clauses](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010D0087&from=en) for the transfer of data as approved by the European Commission.
 
 In order to optimize our advertising campaigns, we send certain information on your activities like apps opened, sessions, registrations, logins, information about you listing an item, uploading an item’s photo or buying an item, etc. to Google and Facebook advertising platforms. Thus, we transfer the data of your activities to the following recipients:
 
-1.  Facebook, Inc. (USA). Personal data is protected by the service provider entering into the EU Standard Contractual Clauses for the transfer of data as approved by the European Commission; 
-2.  Google LLC (USA). Personal data is protected by the service provider entering into the EU Standard Contractual Clauses for the transfer of data as approved by the European Commission.
+1.  Facebook, Inc. (USA). Personal data is protected by the service provider entering into the [EU Standard Contractual Clauses](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010D0087&from=en) for the transfer of data as approved by the European Commission; 
+2.  Google LLC (USA). Personal data is protected by the service provider entering into the [EU Standard Contractual Clauses](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010D0087&from=en) for the transfer of data as approved by the European Commission.
 
 We collect and use your personal data for this purpose until your Vinted account is deactivated or inactive for five (5) years.
 
@@ -1211,7 +1212,7 @@ We base such collection and use on our legitimate interest to manage our social 
 
 In order to manage our social media accounts, we receive and provide data to social media platform operators.
 
-The following social media platform operators are established outside the European Economic Area, which may result in your data being transferred outside the European Economic Area. In these cases, personal data is protected by the operators entering into the EU standard contractual clauses for the transfer of data as approved by the European Commission:
+The following social media platform operators are established outside the European Economic Area, which may result in your data being transferred outside the European Economic Area. In these cases, personal data is protected by the operators entering into the [EU standard contractual clauses](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010D0087&from=en) for the transfer of data as approved by the European Commission:
 
 1.  LinkedIn Corporation (USA);
 2.  Google LLC (USA);
@@ -1248,7 +1249,7 @@ If you wish to exercise your rights with respect to your data (see bullet point 
 
 Facebook provides more details on how to exercise these rights in the ["page insights data" information](https://www.facebook.com/legal/terms/information_about_page_insights_data).  
   
-Joint Controllership with LinkedIn
+_Joint Controllership with LinkedIn_
 
 Vinted operates a so-called company page on LinkedIn, the social media platform. LinkedIn and Vinted are only jointly responsible (Art. 26 (1) sentence 1 of the GDPR) for the processing of so-called "insights data", enabling us to receive anonymized statistics and insights on how visitors interact with our page. For other data processing, Vinted and LinkedIn are separately responsible for data processing.
 
@@ -1394,7 +1395,7 @@ You have a right to request the deletion of your personal data, collected and ma
 
 ### **6.4. What is your Right to Opt-Out of sharing your personal data with ad partners?**
 
-We provide Usage Data to advertising partners, which enables us to provide you with interest-based advertising. For more information on interest-based advertising, please see our [Cookie Policy](https://www.vinted.fr/cookie-policy). You have a right to direct us to stop sharing your personal data with our ad partners, and to refrain from doing so in the future. If you wish to do so, please adjust the settings accordingly by going to our [Cookie Policy](https://www.vinted.fr/cookie-policy).
+We provide Usage Data to advertising partners, which enables us to provide you with interest-based advertising. For more information on interest-based advertising, please see our [Cookie Policy](https://www.vinted.com/cookie-policy). You have a right to direct us to stop sharing your personal data with our ad partners, and to refrain from doing so in the future. If you wish to do so, please adjust the settings accordingly by going to our [Cookie Policy](https://www.vinted.com/cookie-policy).
 
 ### **6.5. How will we verify your request?**
 
@@ -1459,32 +1460,23 @@ This section contains the categories of personal information that we may have co
 
 *   Identifiers such as a name, postal address, unique personal identifier, online identifier, email address, account name, or other similar identifiers
 
-*   Third parties: service providers that provide the technical infrastructure for the platform and the server space, service providers that provide online and usage analysis, communication service providers, service providers that provide customer support service, service providers that provide shipping services, service providers that provide account verification, service providers that facilitate registration on the platform, service partners which provide payment processing and escrow, service providers that provide personalized advertisements services, service providers that improve your experience on the platform, attorneys, attorney’s assistants, notaries, bailiffs, enforcement institutions, accountants, bookkeepers, debt collectors, auditors, consultants, translation agencies, IT service providers, insurance companies, archiving services that provide services to Vinted and affiliated companies within Vinted.  
-    
+*   *   *   Third parties: service providers that provide the technical infrastructure for the platform and the server space, service providers that provide online and usage analysis, communication service providers, service providers that provide customer support service, service providers that provide shipping services, service providers that provide account verification, service providers that facilitate registration on the platform, service partners which provide payment processing and escrow, service providers that provide personalized advertisements services, service providers that improve your experience on the platform, attorneys, attorney’s assistants, notaries, bailiffs, enforcement institutions, accountants, bookkeepers, debt collectors, auditors, consultants, translation agencies, IT service providers, insurance companies, archiving services that provide services to Vinted and affiliated companies within Vinted.  
+            
 
 *   Demographic information, including characteristics that may be protected by law such as gender or age
-
-*   Third parties: service providers that provide the technical infrastructure for the platform and the server space, service providers that provide online and usage analysis, communication service providers, service providers that provide customer support service, service providers that provide shipping services, service providers that provide account verification, service providers that facilitate registration on the platform, service partners which provide payment processing and escrow, service providers that provide personalized advertisements services, service providers that improve your experience on the platform, attorneys, attorney’s assistants, notaries, bailiffs, enforcement institutions, accountants, bookkeepers, debt collectors, auditors, consultants, translation agencies, IT service providers, insurance companies, archiving services that provide services to Vinted and affiliated companies within Vinted.  
-    
-
+    *   *   Third parties: service providers that provide the technical infrastructure for the platform and the server space, service providers that provide online and usage analysis, communication service providers, service providers that provide customer support service, service providers that provide shipping services, service providers that provide account verification, service providers that facilitate registration on the platform, service partners which provide payment processing and escrow, service providers that provide personalized advertisements services, service providers that improve your experience on the platform, attorneys, attorney’s assistants, notaries, bailiffs, enforcement institutions, accountants, bookkeepers, debt collectors, auditors, consultants, translation agencies, IT service providers, insurance companies, archiving services that provide services to Vinted and affiliated companies within Vinted.  
+            
 *   Commercial information, including purchasing history and shipping history
-
-*   Third parties: service providers that provide the technical infrastructure for the platform and the server space, service providers that provide online and usage analysis, communication service providers, service providers that provide customer support service, service providers that provide shipping services, service providers that provide account verification, service providers that facilitate registration on the platform, service partners that provide payment processing and escrow, service providers that provide personalized advertisements services, service providers that improve your experience on the platform, attorneys, attorney’s assistants, notaries, bailiffs, enforcement institutions, accountants, bookkeepers, debt collectors, auditors, consultants, translation agencies, IT service providers, insurance companies, archiving services that provide services to Vinted and affiliated companies within Vinted.  
-    
-
+    *   *   Third parties: service providers that provide the technical infrastructure for the platform and the server space, service providers that provide online and usage analysis, communication service providers, service providers that provide customer support service, service providers that provide shipping services, service providers that provide account verification, service providers that facilitate registration on the platform, service partners that provide payment processing and escrow, service providers that provide personalized advertisements services, service providers that improve your experience on the platform, attorneys, attorney’s assistants, notaries, bailiffs, enforcement institutions, accountants, bookkeepers, debt collectors, auditors, consultants, translation agencies, IT service providers, insurance companies, archiving services that provide services to Vinted and affiliated companies within Vinted.  
+            
 *   Internet or other electronic network activity information, such as the data we receive when you interact with our Website
-
-*   Third parties: service providers that provide the technical infrastructure for the platform and the server space, service providers that provide online and usage analysis, communication service providers, service providers that provide customer support service, service providers that provide shipping services, service providers that provide account verification, service providers that facilitate registration on the platform, service partners which provide payment processing and escrow, service providers that provide personalized advertisements services, service providers that improve your experience on the platform, attorneys, attorney’s assistants, notaries, bailiffs, enforcement institutions, accountants, bookkeepers, debt collectors, auditors, consultants, translation agencies, IT service providers, insurance companies, archiving services that provide services to Vinted and affiliated companies within Vinted.  
-    
-
+    *   *   Third parties: service providers that provide the technical infrastructure for the platform and the server space, service providers that provide online and usage analysis, communication service providers, service providers that provide customer support service, service providers that provide shipping services, service providers that provide account verification, service providers that facilitate registration on the platform, service partners which provide payment processing and escrow, service providers that provide personalized advertisements services, service providers that improve your experience on the platform, attorneys, attorney’s assistants, notaries, bailiffs, enforcement institutions, accountants, bookkeepers, debt collectors, auditors, consultants, translation agencies, IT service providers, insurance companies, archiving services that provide services to Vinted and affiliated companies within Vinted.  
+            
 *   Audio, electronic, visual, or similar information, such as photographs or voice recordings
-
-*   Third parties: service providers that provide the technical infrastructure for the platform and the server space, service providers that provide online and usage analysis, communication service providers, service providers that provide customer support service, service providers that provide shipping services, service providers that provide account verification, service providers that facilitate registration on the platform, service partners which provide payment processing and escrow, service providers that provide personalized advertisements services, service providers that improve your experience on the platform, attorneys, attorney’s assistants, notaries, bailiffs, enforcement institutions, accountants, bookkeepers, debt collectors, auditors, consultants, translation agencies, IT service providers, insurance companies, archiving services that provide services to Vinted and affiliated companies within Vinted.  
-    
-
+    *   *   Third parties: service providers that provide the technical infrastructure for the platform and the server space, service providers that provide online and usage analysis, communication service providers, service providers that provide customer support service, service providers that provide shipping services, service providers that provide account verification, service providers that facilitate registration on the platform, service partners which provide payment processing and escrow, service providers that provide personalized advertisements services, service providers that improve your experience on the platform, attorneys, attorney’s assistants, notaries, bailiffs, enforcement institutions, accountants, bookkeepers, debt collectors, auditors, consultants, translation agencies, IT service providers, insurance companies, archiving services that provide services to Vinted and affiliated companies within Vinted.  
+            
 *   Geolocation data, such as information we receive about your device location (e.g., based on your IP address)
-
-*   Third parties: service providers that provide the technical infrastructure for the platform and the server space, service providers that provide online and usage analysis, communication service providers, service providers that provide customer support service, service providers that provide shipping services, service providers that provide account verification, service providers that facilitate registration on the platform, service partners which provide payment processing and escrow, service providers that provide personalized advertisements services, service providers that improve your experience on the platform, attorneys, attorney’s assistants, notaries, bailiffs, enforcement institutions, accountants, bookkeepers, debt collectors, auditors, consultants, translation agencies, IT service providers, insurance companies, archiving services that provide services to Vinted and affiliated companies within Vinted.
+    *   *   Third parties: service providers that provide the technical infrastructure for the platform and the server space, service providers that provide online and usage analysis, communication service providers, service providers that provide customer support service, service providers that provide shipping services, service providers that provide account verification, service providers that facilitate registration on the platform, service partners which provide payment processing and escrow, service providers that provide personalized advertisements services, service providers that improve your experience on the platform, attorneys, attorney’s assistants, notaries, bailiffs, enforcement institutions, accountants, bookkeepers, debt collectors, auditors, consultants, translation agencies, IT service providers, insurance companies, archiving services that provide services to Vinted and affiliated companies within Vinted.
 
 We obtain the categories of personal information listed above from the following categories of sources:
 
