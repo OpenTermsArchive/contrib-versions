@@ -128,7 +128,7 @@ As noted above, Quora gives users several easy-to-use ways to exercise choices a
 
 Access Amendment, Deletion, Portability, Objection and Other Rights. If you have registered with us and wish to access or update your profile, or exercise certain opt-out rights, you may do so online by visiting the “profile” settings in your account. In addition, users may also have the right to be provided certain personal information in a commonly used format where technically feasible, and, under certain conditions, to object to or restrict our use of certain personal information. You may also contact our privacy coordinator, as set forth below, to access or amend your personal information, to request that we rectify, delete or stop processing your personal information, to withdraw your consent to our processing, and, if you are an EEA resident, to exercise your opt-out rights or place a data portability request.
 
-Requests should be directed to [privacy@quora.com](mailto:privacy@quora.com "mailto:privacy@quora.com") (or at the Contact Us information shown below). Please keep in mind that certain services will not be available if you withdraw your consent, or otherwise delete or object to our processing of certain personal information. We will respond to your request in accordance with applicable law.
+Requests should be directed to [privacy@quora.com](# "mailto:privacy@quora.com") (or at the Contact Us information shown below). Please keep in mind that certain services will not be available if you withdraw your consent, or otherwise delete or object to our processing of certain personal information. We will respond to your request in accordance with applicable law.
 
 Complaints. You also have the right to lodge a complaint with a supervisory data protection authority.
 
@@ -150,11 +150,11 @@ The Quora Platform may contain links to third-party sites or online services. We
 
 Your California Privacy Rights
 
-California law permits users who are California residents to request and obtain from us once a year, free of charge, a list of the third parties to whom we have disclosed their personal information (if any) for their direct marketing purposes in the prior calendar year, as well as the types of personal information disclosed to those parties. If you are a California resident and would like to request this information, please submit your request in an email to [privacy@quora.com](mailto:privacy@quora.com "mailto:privacy@quora.com").
+California law permits users who are California residents to request and obtain from us once a year, free of charge, a list of the third parties to whom we have disclosed their personal information (if any) for their direct marketing purposes in the prior calendar year, as well as the types of personal information disclosed to those parties. If you are a California resident and would like to request this information, please submit your request in an email to [privacy@quora.com](# "mailto:privacy@quora.com").
 
 Contact Us
 
-If you have any questions about our practices or this Privacy Policy, please contact us at [privacy@quora.com](mailto:privacy@quora.com "mailto:privacy@quora.com"), or send mail to:
+If you have any questions about our practices or this Privacy Policy, please contact us at [privacy@quora.com](# "mailto:privacy@quora.com"), or send mail to:
 
 Quora, Inc.  
 Attn: Privacy  
