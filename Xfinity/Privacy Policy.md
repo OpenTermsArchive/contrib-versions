@@ -1,6 +1,6 @@
 Our Privacy Policy explained
 
-Effective July 6, 2021 | [Download PDF](https://cdn.comcast.com/-/media/Images/cpp-privacy-portal/policy/pdfs/PP_070121.pdf?rev=2e5f7591-9d1b-493c-b573-dafa31cf5987&la=en "Download PDF")
+Effective October 12, 2021 | [Download PDF](https://cdn.comcast.com/-/media/Images/cpp-privacy-portal/policy/pdfs/PP_101221.pdf?rev=6af6716a-af15-49de-8223-c6af8a2a708c&la=en "Download PDF")
 
 Table of Contents
 
@@ -117,8 +117,8 @@ We collect personal information about you in several ways.
 *   Household and device [video selection and viewing activity](#VideoSelection)
 *   Voice commands and audio recordings made through voice activated devices that are part of the Services, such as the Voice Remote or our app-based remote
 *   Geolocation information on where you are at a specific point in time based on your service address [to help us authenticate you](#Authenticate) for certain services on our platform
-*   IP addresses, device identifiers, and network equipment addresses when devices connect to our Services
-*   Device and user activity information, including what you search and how long you use our websites and applications, [using cookies and other technologies](https://www.xfinity.com/privacy/policy/cookienotice)
+*   IP addresses, device identifiers, and network equipment addresses when devices connect to our Services, and other device information, including information about Devices provided by other companies from which you use our Services
+*   User activity information, including what you search and how long you use our websites and applications, [using cookies and other technologies](https://www.xfinity.com/privacy/policy/cookienotice), and information provided by other companies [when you integrate their services with our Services](#ThirdPartyServices)
 *   Domain Name Server or “[DNS](#DNS)” searches and [network traffic activity](#NetworkActivity) when you use our Services, such as Xfinity Internet, Xfinity Mobile or Xfinity WiFi
 *   Geolocation information that indicates where your device is at a specific point in time when you use [Xfinity Mobile](#XfinityMobile) or enable that function in our [mobile apps](#MobileApps)
 *   General location information, such as the city or ZIP Code that correlates with the location of a WiFi service access point or with the license of your device IP address when you use Xfinity Internet or Xfinity WiFi
@@ -141,7 +141,7 @@ We do not knowingly allow others to collect personally identifiable information 
 
 How and When We Use Information, Including for Marketing and Advertising
 
-We use the information we collect to provide our Services and communicate with you. We also use it to improve our Services, develop new products and services, give recommendations, deliver personalized marketing and advertising for our own and others’ products and services, investigate theft and other illegal activities, and to ensure a secure online environment.
+We use the information we collect to provide our Services and communicate with you. We also use it to improve our Services, develop new products and services, give recommendations, deliver personalized consumer experiences (including marketing and advertising for our own and others’ products and services), investigate theft and other illegal activities, and to ensure a secure online environment.
 
 We may combine information across our systems, platforms, and databases. This includes combining information we receive from third parties and information about your use of our Services. We may also combine information about your use of one Service with information we get from your use of another Service.
 
@@ -161,7 +161,7 @@ Learn more about our uses of your information and to see examples.
 ### To Communicate with You
 
 *   Respond to your questions
-*   Personalize communications
+*   Personalize communications and your experience
 *   Send you service-related announcements and surveys
 
 ### To Understand Your Use of and Make Improvements to Our Services
@@ -265,9 +265,9 @@ Audience Measurement and Analytics Companies
 
 We work with business partners to help us measure and analyze how our customers are using our Services. For video, this includes assessing which programs are most popular, how many people watch a program to its conclusion, whether people are watching advertisements, and what programming and video content we will carry on the Services. It also includes determining how our customers prefer to view certain kinds of programming when they use our Services, such as whether they like to watch certain programs live, or if they prefer to view them on demand, on mobile devices, or online. Our business partners may compile this information into reports with aggregated and anonymous statistics that are then made commercially available (for example, a ratings report that indicates what percentage of viewers watched a particular program live vs. on-demand). Xfinity Stream includes Nielsen’s proprietary measurement software, which will allow users to contribute to market research, like Nielsen’s television ratings. By visiting www.nielsen.com/digitalprivacy, users can access more information about the measurement software and learn about their choices with regard to Nielsen’s measurement.
 
-Third-Party Apps and Partners
+Non-Xfinity Apps and Partners
 
-When you use a third-party app through devices that are part of the Services, you are directing us to share certain information with the provider of the app, including but not limited to information needed to offer the features of the app and play the selected content. When using third-party apps, you are interacting with the third-party app directly, and their privacy policies and terms of service apply. For more information, please visit [https://my.xfinity.com/privacy/providers](https://my.xfinity.com/privacy/providers). Certain apps may also run using technology provided by Metrological, a Comcast company, whose privacy practices are described at [https://www.metrological.com/privacypolicy](https://www.metrological.com/privacypolicy).
+Certain Services enable you to interact directly with technology provided by other companies, such as using a [non-Xfinity video app](#NonXfinityVideo) available through our Services, or accessing our Services through [another company’s platform or device](#CompanyPlatform). When you use our Services in connection with any technology provided by another company, you are directing us to interact with that company and that company may collect information from you and our Services. This Privacy Policy does not cover the privacy practices of other companies. For more information about how those companies use your information, please review their privacy policies. For more information about non-Xfinity apps supported on our video Services, please visit https://my.xfinity.com/privacy/providers. Certain apps may also run using technology provided by Metrological, a Comcast company, whose privacy practices are described at [https://www.metrological.com/platformprivacystatement](https://www.metrological.com/platformprivacystatement).
 
 Consumer Reporting Agencies
 
@@ -291,13 +291,13 @@ Potential Purchasers of our Business
 
 If we enter into a potential or actual merger, acquisition, or sale of all or a portion of our assets, then information about you and your subscription will, in most cases, be shared or transferred as part of the transaction. This includes information that personally identifies you. If this Policy will be changed as a result of such a transaction, you should refer below under "Changes to the Privacy Policy."
 
-Government Entities When Required by Law or To Protect Comcast and Others
+Government and Other Entities When Required by Law or To Protect Comcast and Others
 
 There are times when we may be required by law to disclose information about you to third parties. This may happen with or without your consent, and with or without notice, in compliance with the terms of valid legal process such as a subpoena, court order, or search warrant.
 
 If you subscribe to our Xfinity Video service, Comcast may be required to disclose information that personally identifies you to a governmental entity in response to a court order. In this case, the Cable Act requires that you be given the opportunity to appear in a court proceeding to contest any claims made in support of the court order, and the governmental entity must offer clear and convincing evidence that you are reasonably suspected of engaging in criminal activity and that the information sought would be material evidence in the case. For more information, see ["Your Rights and Our Limitations Under Federal Laws."](#your-rights)
 
-If you subscribe to the Xfinity Internet, Voice, Mobile, or Home security and automation Services, Comcast may be required to disclose information that personally identifies you to a governmental entity in response to a subpoena, court order, or search warrant, depending on the type of information sought. We are usually prohibited from notifying you of any such disclosures by the terms of the legal process.
+If you subscribe to the Xfinity Internet, Voice, Mobile, or Home security and automation Services, Comcast may be required to disclose information that personally identifies you to a governmental entity in response to a subpoena, court order, or search warrant, depending on the type of information sought. We may be prohibited from notifying you of any such disclosures by the terms of the legal process.
 
 A non-governmental entity, such as a civil litigant, can seek information that personally identifies you or your use of the Xfinity Video, Internet, or Voice Services only pursuant to a court order, and we are required by the Cable Act to notify you of such court order. If Comcast is required to give information that personally identifies you to a private third party in response to a civil court order for these or other Services, we will notify you prior to making such disclosure unless legally prohibited from doing so.
 
@@ -333,7 +333,7 @@ We understand that sometimes you may want to speak to a Comcast representative w
 
 How to Access and Correct the Information in our Records
 
-Part of our commitment to transparency includes giving our customers access to the personally identifiable information we have about them. If you subscribe to Xfinity Services, you have the ability to see and correct your personally identifiable information through the My Account, Xfinity Home, or other applicable account portals.
+Part of our commitment to transparency includes giving our customers access to the personally identifiable information we have about them. If you subscribe to Xfinity Services, you have the ability to see and correct your personally identifiable information through the My Account, Xfinity Home, XClass TV, or other applicable account portals.
 
 If you are a California resident, you may have additional rights described in the “[Special Information Regarding California Residents’ Privacy Rights](https://www.xfinity.com/privacy/policy/staterights#california)” section of this Privacy Policy.
 
