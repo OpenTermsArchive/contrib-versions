@@ -36,6 +36,8 @@ From time to time, we may develop new or offer additional services. They'll also
 *   the Spotify [Terms of Use](https://www.spotify.com/legal/end-user-agreement/). That's a separate document, outlining the legal contract between you and Spotify for using the Spotify Service. It also describes the rules of Spotify and your user rights.
 *   about your use of other Spotify services which have their own dedicated privacy policy, such as Anchor, Soundtrap, Megaphone and Greenroom.
 
+To help you understand this Policy, our [privacy videos](https://www.spotify.com/us/privacy) bring privacy at Spotify to life.
+
 We have included further information about rights and disclosures as required under the California Consumer Privacy Act (CCPA) in our [California Privacy Disclosures](http://spotify.com/us/legal/California-privacy-disclosure) supplement.
 
 [2\. Your personal data rights and controls](#2-your-personal-data-rights-and-controls)
@@ -119,6 +121,8 @@ The table below sets out:
 *   our legal justifications (each called a "legal basis") under data protection law, for each purpose
 *   categories of personal data which we use for each purpose (see more about these categories in Section 3 'Personal data we collect about you')
 
+You can also watch our video about [Personal Data at Spotify](https://www.youtube.com/watch?v=FhnwTljFiaM).
+
 Here is a general explanation of each "legal basis" to help you understand the table:
 
 *   **Performance of a Contract:** When it's necessary for Spotify (or a third party) to process your personal data to:
@@ -130,7 +134,7 @@ Here is a general explanation of each "legal basis" to help you understand the t
 
 | **Purpose for processing your data** | **Legal basis that permits the purpose** | **Categories of personal data used for the purpose** |
 | --- | --- | --- |
-| To provide the personalized Spotify Service. | *   Performance of a Contract<br>*   Legitimate Interest<br>*   Consent | *   User Data<br>*   Usage Data<br>*   Payment and Purchase Data<br>*   Street Address Data<br>*   Voice Data |
+| To provide the personalized Spotify Service. (You can watch our video about [Personalization](https://youtu.be/B9iWpJfw4XY) to understand more.) | *   Performance of a Contract<br>*   Legitimate Interest<br>*   Consent | *   User Data<br>*   Usage Data<br>*   Payment and Purchase Data<br>*   Street Address Data<br>*   Voice Data |
 | To understand, diagnose, troubleshoot, and fix issues with the Spotify Service. | *   Performance of a Contract<br>*   Legitimate Interest | *   User Data<br>*   Usage Data |
 | To evaluate and develop new features, technologies, and improvements to the Spotify Service. | *   Legitimate Interest<br>*   Consent | *   User Data<br>*   Usage Data<br>*   Voice Data |
 | For marketing, promotion, and advertising purposes. | *   Legitimate Interest<br>*   Consent | *   User Data<br>*   Usage Data<br>*   Contests, Surveys and Sweepstakes Data |
