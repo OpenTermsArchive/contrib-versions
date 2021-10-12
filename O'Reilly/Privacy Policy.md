@@ -1,7 +1,7 @@
 Privacy policy
 ==============
 
-This version (Version 4.8) is effective as of July 29, 2021.
+This version (Version 4.9) is effective as of October 7, 2021.
 
 *   [Overview](#overview)
 *   [About Us](#about)
@@ -71,6 +71,8 @@ Our EU Representative: As we, O'Reilly Media, Inc. and Safari Books Online, LLC,
 *   by using EDPO's online request form: [https://edpo.com/gdpr-data-request/](https://edpo.com/gdpr-data-request/)
 *   by writing to EDPO at Regus Block 1, Blanchardstown Corporate Park, Ballycoolen Road, Blanchardstown, Dublin 15, D15 AKK1, Ireland
 
+Our UK Representative: we have appointed O'Reilly UK Limited as our representative in the UK whom you may contact if you are located in the UK to raise any issues or queries you have relating to our processing of your personal information and/or this Privacy Policy more generally. You can contact O'Reilly UK Limited via email at the following address:
+
 If you prefer, you can of course always contact us using our US contact details set out above.
 
 1\. Information We Collect
@@ -83,7 +85,7 @@ We collect personal information in the following ways:
 We gather information that you provide to us when you:
 
 *   purchase products or services from us
-*   subscribe to our newsletters and mailing lists
+*   subscribe to our newsletters andmailing lists
 *   participate in promotional offers (such as a trial Safari subscription) and other promotions, competitions or prize drawings
 *   fill in forms, conduct searches, post content on the website, respond to surveys, or use any other features of our websites
 *   make an inquiry, provide feedback, submit correspondence, or make a complaint over the phone, by email, on our website or by post
@@ -275,7 +277,9 @@ O'Reilly and Safari are both based in the United States of America.
 
 ### 5.1 Privacy Shield Certification
 
-Although we realize the impact of the judgement of the Court of Justice of the EU in Case C-311/18 on the validity of the framework, O'Reilly Media, Inc. and Safari Books Online, LLC (and entities and subsidiaries that are, or may become, covered by O'Reilly or Safari's privacy shield certification) participate in and have certified their compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework (collectively the "Privacy Shield Framework"). O'Reilly and Safari are committed to subjecting all personal information received from the European Economic Area, United Kingdom and Switzerland ("Privacy Shield Covered Data"), respectively, in reliance on each Privacy Shield Framework, to the Framework's applicable Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability, including the 16 supplemental principles described in each Privacy Shield Framework (collectively, the "Privacy Shield Principles"). O'Reilly and Safari have each certified to the Department of Commerce that it adheres to the Privacy Shield Principles. To learn more about the Privacy Shield Framework and to view O'Reilly and Safari's certifications, please visit the U.S. Department of Commerce's Privacy Shield List available at [https://www.privacyshield.gov](https://www.privacyshield.gov/). If there is any conflict between the terms in this Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. Additionally, O'Reilly and Safari may protect your data through other legally-valid methods, including international data transfer agreements.
+_We recognize that both Privacy Shield Frameworks are no longer recognized as a legal means to transfer personal data from the EU and Switzerland to the U.S., however we retain the certification as evidence of our commitment to providing appropriate safeguards._
+
+O'Reilly Media, Inc. and Safari Books Online, LLC (and entities and subsidiaries that are, or may become, covered by O'Reilly or Safari's privacy shield certification) participate in and have certified their compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework (collectively the "Privacy Shield Framework"). O'Reilly and Safari are committed to subjecting all personal information received from the European Economic Area, United Kingdom and Switzerland ("Privacy Shield Covered Data"), respectively, in reliance on each Privacy Shield Framework, to the Framework's applicable Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability, including the 16 supplemental principles described in each Privacy Shield Framework (collectively, the "Privacy Shield Principles"). O'Reilly and Safari have each certified to the Department of Commerce that it adheres to the Privacy Shield Principles. To learn more about the Privacy Shield Framework and to view O'Reilly and Safari's certifications, please visit the U.S. Department of Commerce's Privacy Shield List available at [https://www.privacyshield.gov](https://www.privacyshield.gov/). If there is any conflict between the terms in this Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. Additionally, O'Reilly and Safari may protect your data through other legally-valid methods, including international data transfer agreements.
 
 Under the Privacy Shield Framework, O'Reilly and Safari collect, use, and disclose Privacy Shield Covered Data for the purposes described in this Policy. Under the Privacy Shield Framework, as described in Section 6 below, you may inquire as to whether O'Reilly and/or Safari is processing personal information about you, request access to Personal Information, and ask that we correct, amend or delete your personal information where it is inaccurate or has been processed in violation of the Privacy Shield Principles. O'Reilly and Safari are responsible for the processing of personal information each receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Privacy Shield requires that O'Reilly and Safari remain liable should its third parties process personal information in a manner inconsistent with the Privacy Shield Principles. O'Reilly and Safari comply with the Privacy Shield Principles for all onward transfers of personal information from the European Economic Area, United Kingdom and Switzerland, including the onward transfer liability provisions.
 
@@ -408,6 +412,8 @@ Please note that this Policy may change from time to time. We will not reduce yo
 --------------------------------------------
 
 ### 11.1 O'Reilly and Safari privacy policies
+
+[Click here for version 4.8](https://www.oreilly.com/privacy-072921.html)
 
 [Click here for version 4.7](https://www.oreilly.com/privacy-040721.html)
 
