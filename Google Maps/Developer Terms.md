@@ -508,6 +508,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   UNH CCOM/JHC
             
+        *   DoCoMo: Docomo is a trade mark or registered trade mark of DOCOMO BIKESHARE, INC. in Japan.
+            
     22.  **Luxembourg**
         
         © Administration du Cadastre et de la Topography (ACT)
