@@ -327,4 +327,4 @@ We may from time to time revise this Privacy Policy. We will update the revised 
 
 We have provided translations of this Privacy Policy, but in the event of any conflict between the local language version and the English version, unless otherwise prescribed by applicable laws, the English version shall prevail.
 
-[![TRUSTe](//privacy-policy.truste.com/privacy-seal/seal?rid=ef4cb85d-f630-4712-b0cd-70784518c491))](https://privacy.truste.com/privacy-seal/validation?rid=ef4cb85d-f630-4712-b0cd-70784518c491)
+[![TRUSTe](//privacy-policy.truste.com/privacy-seal/seal?rid=ef4cb85d-f630-4712-b0cd-70784518c491)](https://privacy.truste.com/privacy-seal/validation?rid=ef4cb85d-f630-4712-b0cd-70784518c491)
