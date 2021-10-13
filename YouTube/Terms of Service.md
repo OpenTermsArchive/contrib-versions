@@ -69,12 +69,12 @@ The Service allows you to discover, watch and share videos and other content, pr
 **Your Service Provider**
 -------------------------
 
-The entity providing the Service in the European Economic Area, and Switzerland is Google Ireland Limited, a company incorporated and operating under the laws of Ireland, (Registered Number: 368047), located at Gordon House, Barrow Street, Dublin 4, Ireland (referred to as “YouTube”, “we”, “us”, or “our”).  References to YouTube’s “Affiliates” in these terms means the other companies within the Alphabet Inc. corporate group.
+The entity providing the Service in the European Economic Area, \[the United Kingdom,\] and Switzerland is Google Ireland Limited, a company incorporated and operating under the laws of Ireland, (Registered Number: 368047), located at Gordon House, Barrow Street, Dublin 4, Ireland (referred to as “YouTube”, “we”, “us”, or “our”).  References to YouTube’s “Affiliates” in these terms means the other companies within the Alphabet Inc. corporate group.
 
 **Applicable Terms**
 --------------------
 
-Your use of the Service is subject to these terms, the [YouTube Community Guidelines](https://www.youtube.com/t/community_guidelines) and the [Policy, Safety and Copyright Policies](https://support.google.com/youtube/topic/9223153) (when you accept, together these terms form the "Agreement"). Your Agreement with us will also include the [Advertising on YouTube Policies](https://support.google.com/youtube/topic/30084) if you provide advertising or sponsorships to the Service or incorporate paid promotions in your Content.
+Your use of the Service is subject to these terms, the [YouTube Community Guidelines](https://www.youtube.com/t/community_guidelines) and the [Policy, Safety and Copyright Policies](https://support.google.com/youtube/topic/9223153) (together, the "Agreement"). Your Agreement with us will also include the [Advertising on YouTube Policies](https://support.google.com/youtube/topic/30084) if you provide advertising or sponsorships to the Service or incorporate paid promotions in your Content.
 
 Please read this Agreement carefully and make sure you understand it. If you do not understand the Agreement, or do not accept any part of it, then you may not use the Service.
 
@@ -84,14 +84,14 @@ Please read this Agreement carefully and make sure you understand it. If you do 
 **Age Requirements**
 --------------------
 
-You may use the Service if you are at least 15 years old; however, children of all ages may use the Service and YouTube Kids (where available) if enabled by a parent or legal guardian.
+You may use the Service if you are at least 16 years old; however, children of all ages may use the Service and YouTube Kids (where available) if enabled by a parent or legal guardian.
 
 **Permission by Parent or Guardian**
 ------------------------------------
 
 If you are under 18, you must have your parent or legal guardian’s permission to use the Service. Please have them read this Agreement with you.
 
-If you are a parent or legal guardian of a user under the age of 18, when you accept this Agreement you agree that by allowing your child to use the Service, you are subject to the terms of this Agreement and responsible for your child’s activity on the Service. You can find tools and resources to help you manage your family’s experience on YouTube (including how to enable a child under the age of 15 to use the Service and YouTube Kids) in our [Help Center](https://support.google.com/youtube/answer/2802272) [and through](https://support.google.com/youtube/answer/2802272) Google’s [Family Link](https://families.google.com/familylink/).
+If you are a parent or legal guardian of a user under the age of 18, by allowing your child to use the Service, you are subject to the terms of this Agreement and responsible for your child’s activity on the Service. You can find tools and resources to help you manage your family’s experience on YouTube (including how to enable a child under the age of 16 to use the Service and YouTube Kids) in our [Help Center](https://support.google.com/youtube/answer/2802272) [and through](https://support.google.com/youtube/answer/2802272) Google’s [Family Link](https://families.google.com/familylink/).
 
 **Businesses**
 --------------
@@ -166,7 +166,7 @@ You retain all of your ownership rights in your Content. In short, what belongs
 **Licence to YouTube**
 ----------------------
 
-By providing Content to the Service, you grant to YouTube a worldwide, non-exclusive, royalty-free, transferable, sublicensable licence to use that Content, the right  to reproduce, host, make technical copies, distribute, modify, display, analyze, make publicly available and perform it for the purpose of operating, promoting, and improving the Service.
+By providing Content to the Service, you grant to YouTube a worldwide, non-exclusive, royalty-free, transferable, sublicensable licence to use that Content (including to reproduce, distribute, modify, display and perform it) for the purpose of operating, promoting, and improving the Service.
 
 **Licence to Other Users**
 --------------------------
@@ -190,7 +190,7 @@ You may [remove your Content](https://support.google.com/youtube/answer/55770) 
 **Removal of Content By YouTube**
 ---------------------------------
 
-If there are objective and concrete reason to believe that any Content is in breach of this Agreement or may cause harm to YouTube, our users, or third parties, we may remove or take down some or all of such Content. We will notify you with the reason for our action unless there are objective and concrete reason to believe that to do so: (a) would violate the law or the direction of a legal enforcement authority, or would otherwise risk legal liability for YouTube or our Affiliates; (b) would compromise an investigation or the integrity or operation of the Service; or (c) would cause harm to any user, other third party, YouTube or our Affiliates. You can learn more about reporting and enforcement, including how to appeal on the [Troubleshooting](https://support.google.com/youtube/answer/6395024) page of our Help Center.
+If we reasonably believe that any Content is in breach of this Agreement or may cause harm to YouTube, our users, or third parties, we may remove or take down some or all of such Content. We will notify you with the reason for our action unless we reasonably believe that to do so: (a) would violate the law or the direction of a legal enforcement authority, or would otherwise risk legal liability for YouTube or our Affiliates; (b) would compromise an investigation or the integrity or operation of the Service; or (c) would cause harm to any user, other third party, YouTube or our Affiliates. You can learn more about reporting and enforcement, including how to appeal on the [Troubleshooting](https://support.google.com/youtube/answer/6395024) page of our Help Center.
 
 **Copyright Protection**
 ------------------------
@@ -220,7 +220,7 @@ YouTube may terminate your access, or your Google account’s access to all or p
 **Notice for Termination or Suspension**
 ----------------------------------------
 
-We will notify you with the reason for termination or suspension by YouTube unless there is an objective and concrete reason to believe that to do so: (a) would violate the law or the direction of a legal enforcement authority, or would otherwise risk legal liability for YouTube or our Affiliates; (b) would compromise an investigation or the integrity or operation of the Service; or (c) would cause harm to any user, other third party, YouTube or our Affiliates. Where YouTube is terminating your access for Service Changes, where reasonably possible, you will be provided with sufficient time to export your Content from the Service.
+We will notify you with the reason for termination or suspension by YouTube unless we reasonably believe that to do so: (a) would violate the law or the direction of a legal enforcement authority, or would otherwise risk legal liability for YouTube or our Affiliates; (b) would compromise an investigation or the integrity or operation of the Service; or (c) would cause harm to any user, other third party, YouTube or our Affiliates. Where YouTube is terminating your access for Service Changes, where reasonably possible, you will be provided with sufficient time to export your Content from the Service.
 
 **Effect of Account Suspension or Termination**
 -----------------------------------------------
@@ -290,12 +290,12 @@ If your use of the Service ends, the following terms of this Agreement will cont
 **Severance**
 -------------
 
-If it turns out that a particular term of this Agreement is not enforceable for any reason, this will not affect any other terms, unless otherwise provided by law.
+If it turns out that a particular term of this Agreement is not enforceable for any reason, this will not affect any other terms.
 
 **Assignment**
 --------------
 
-YouTube may transfer all or part of this Agreement to an Affiliate or, if YouTube is sold, to a third party, where such a transfer does not have the effect of reducing your rights without your consent.
+YouTube may transfer all or part of this Agreement to an Affiliate or, if YouTube is sold, to a third party.
 
 **No Waiver**
 -------------
