@@ -558,6 +558,7 @@ Products and services that cannot be promoted
 *   Premium pay-per-call services, such as 900 numbers in the US.
 *   Products, services, technology or website content that i) infringes, encourages or enables the infringement of the intellectual property or personal rights of others, or ii) promotes any illegal or dangerous activity, including false document services, counterfeit designer goods, cable de-scramblers, fireworks or websites that promote hacking or evading law enforcement.
 *   Psychics and related content.
+*   Products that are ineligible for sale or do not comply with [Amazon’s Category, Product, and Listing Restrictions](https://sellercentral.amazon.com/gp/help/external/help-page.html?itemID=200301050&language=en_US?ref_=A20M_US_sellercentral_m_listingrestrictions).
 *   Religious or spiritual services.
 
 *   DE, DK, FI, FR, NL, NO and SE: Content that promotes Scientology or Dianetics (e.g. books published by L Ron Hubbard).
@@ -638,6 +639,7 @@ Ads for the sale of alcohol in Australia, Canada, Mexico and Europe must link-in
 
 *   Video ads for alcohol must include one of the above disclaimers delivered verbally and in the copy at the end of each ad.
 *   Ads for non-alcoholic beer are exempt from carrying a warning, provided that they do not refer to the brand, slogan or promotional phrase of the alcoholic drink.
+*   Day-parting: Alcohol ads should be displayed only between 9pm (evening) and 6am only.
 
 ##### Canada
 
@@ -718,9 +720,15 @@ Ads for the sale of alcohol in Australia, Canada, Mexico and Europe must link-in
 
 *   Ads for alcoholic beverages are prohibited.
 *   Ads for alcohol-free beverages are prohibited. For example, alcohol free beer.
-*   Ads for alcohol branded merchandise are permitted, subject to day parting requirements. For example, a Guinness branded beer dispenser.
+*   Ads for alcohol branded merchandise are permitted, subject to day-parting requirements. For example, a Guinness branded beer dispenser.
 
 *   **Day-parting**: Alcohol branded merchandise ads can be displayed between 12 p.m. and 6 a.m. only.
+
+##### Switzerland
+
+*   Ads for alcoholic beverages are prohibited.
+*   Ads for non-alcoholic beverages are permitted provided it is clear from the product packaging or ad copy that they do not contain any alcohol. For example, 0.0% alcohol beer.
+*   **Day-**Financial Products and Services**parting**: ads for non-alcoholic beverages (see above) can be displayed between 12pm (midday) and 6am only.
 
 ##### UK
 
@@ -815,6 +823,10 @@ Ads for offshore financial products and services are prohibited.
 ##### Denmark
 
 Ads for any financial product offered with an APR of 25% or more are prohibited.
+
+##### Switzerland
+
+Ads offering consumer credit must include: the company name; the effective annual yearly interest rate and effective amount repayable.
 
 #### 7.5.1 Credit services
 
@@ -1153,14 +1165,15 @@ Ads for infant formula and follow-on formula are prohibited.
 | --- | --- |
 | AU  | Ads for formula for infants aged under 12 months are prohibited |
 | BR  | Ads for infant formula and follow-on formula for infants under the age of 12 months are prohibited.  <br>  <br>Ads for baby feeding products such as baby feeding bottles, pacifiers and nipples are prohibited.  <br>  <br>Ads for follow-on formula for toddlers, transitional food for infants and toddlers and all dairy milks must display the following warning: “O aleitamento materno evita infecções e alergias e é recomendado até os 2 anos de idade ou mais" ("Breastfeeding prevents infections and allergies and is recommended until 2 years of age or older") |
+| CH  | Ads for infant formula and follow-on formula are prohibited. |
 | DE  | Ads for infant formula are prohibited. |
 | DK  | Ads for infant formula and follow-on formula are prohibited. |
-| ES  | Ads for infant formula are prohibited.  <br>  <br>References to breastfeeding or the nutritional needs of babies are prohibited |
+| ES  | Ads for infant formula are prohibited.  <br>  <br>References to breastfeeding or the nutritional needs of babies are prohibited. |
 | FI  | Ads for infant formula are prohibited. |
 | FR  | Ads for infant formula are prohibited. |
 | IN  | Ads for infant formula, follow-on formula, and baby feeding products such as baby feeding bottles are prohibited. |
 | IT  | Ads for infant formula are prohibited. |
-| LUX | Ads for infant and follow-on formula are prohibited. |
+| LUX | Ads for infant formula and follow-on formula are prohibited. |
 | MX  | Ads for infant formula are prohibited. |
 | NL  | Ads for infant formula are prohibited. |
 | NO  | Ads for infant formula and follow-on formula are prohibited. |
