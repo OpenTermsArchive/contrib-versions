@@ -1,9 +1,11 @@
+_Last Updated: October 14, 2021_
+
 1.  Introduction
     ------------
     
     As part of our daily business operations, we collect personal information from our clients and prospective clients in order to provide them with our products and services, and ensure that we can meet their needs when providing these products and services, as well as when providing them with any respective information.
     
-    Your privacy is of utmost importance to us, and it is our policy to safeguard and respect the confidentiality of information and the privacy of individuals. This Privacy Notice sets out how Kraken API products and services provided in Europe by Payward Ltd; in Japan by Payward Asia; in the United States by Payward Ventures, Inc. and in all other regions by Payward Pte.Ltd; its affiliates and subsidiaries (collectively, the Payward Entities dba “Kraken”, “the Company”, “We”, “Us”, and the trading and direct sales services provided by Kraken (collectively the “Kraken Exchange” or “Exchange”), collects, uses and manages the personal information we receive from you, or a third party, in connection with our provision of services to you or which we collect from your use of our services and/or our website. The Privacy Notice also informs you of your rights with respect to the processing of your personal information.
+    Your privacy is of utmost importance to us, and it is our policy to safeguard and respect the confidentiality of information and the privacy of individuals. This Privacy Notice sets out how Kraken API products and services provided by Payward Inc.; its affiliates and subsidiaries (collectively, the Payward Entities dba “Kraken”, “the Company”, “We”, “Us”, and the trading and direct sales services provided by Kraken (collectively the “Kraken Exchange” or “Exchange”), collects, uses and manages the personal information we receive from you, or a third party, in connection with our provision of services to you or which we collect from your use of our services and/or our website. The Privacy Notice also informs you of your rights with respect to the processing of your personal information.
     
     Our Privacy Notice is reviewed regularly to ensure that any new obligations and technologies, as well as any changes to our business operations and practices are taken into consideration, as well as that it remains abreast of the changing regulatory environment. Any personal information we hold will be governed by our most recent Privacy Notice.
     
@@ -39,7 +41,7 @@
         
     *   If you reside in Canada, you are contracting with Payward Canada Inc., 1100-1959 Upper Water Street, Halifax, NS B3J 3N2, Canada.
         
-    *   If you reside in a country within Europe, you are contracting with Payward Ltd., 6th Floor, One London Wall, London, EC2Y 5EB.
+    *   If you reside in the UK or a country within Europe, you are contracting with Payward Ltd., 6th Floor, One London Wall, London, EC2Y 5EB.
         
     *   If you reside in the United States, you are contracting with Payward Ventures Inc., 237 Kearny Street #102, San Francisco, CA 94108.
         
@@ -47,7 +49,7 @@
         
     *   If you are a client of Kraken Futures, you are contracting with either Payward Brokers Pte. Ltd., or Payward Global Trading Pte. Ltd., 8 Tomasello Boulevard, #15-04, Suntec Tower Three, Singapore 038988.
         
-    *   The Company you are contracting with is your Data Controller, and is responsible for the collection, use, disclosure, retention and protection of your personal information in accordance with our global privacy standards, this Privacy Notice, as well as any applicable national laws. The Company uses encryption to protect your information and store decryption keys in separate systems. We process and retain your personal information on our servers in multiple data center locations, including the European Union, Japan, the United Kingdom, the United States of America and elsewhere in the world.
+    *   The Company you are contracting with is your Data Controller, and is responsible for the collection, use, disclosure, retention and protection of your personal information in accordance with our global privacy standards, this Privacy Notice, as well as any applicable national laws. The Company uses encryption to protect your information and store decryption keys in separate systems. We process and retain your personal information on our servers in multiple data center locations, including the European Union, Japan, Australia, the United Kingdom, the United States of America and elsewhere in the world.
         
 4.  How do we protect personal information?
     ---------------------------------------
@@ -84,7 +86,7 @@
     
     Information we collect about you automatically.
     
-    *   Location Information – Information that is automatically collected via analytics systems providers to determine your location, including your IP address and/or domain name and any external page that referred you to us, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system, and platform;
+    *   Browser Information – Information that is automatically collected via analytics systems providers from your browser, including your IP address and/or domain name and any external page that referred you to us, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system, and platform;
         
     *   Log Information – Information that is generated by your use of Kraken Exchange Services that is automatically collected and stored in our server logs. This may include, but is not limited to, device-specific information, location information, system activity and any internal and external information related to pages that you visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our Website or App (including date and time; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page;
         
@@ -101,11 +103,6 @@
         
     *   Credit reference agencies do not provide us with any personal information about you, but may be used to corroborate the information you have provided to us.
         
-    
-    General Provisions
-    
-    Personal Information you provide during the account creation process will be retained for one year, even if your registration is incomplete or abandoned.
-    
 6.  Lawful basis for processing your personal information
     -----------------------------------------------------
     
@@ -197,52 +194,24 @@
     
     Our operations are supported by a network of computers, servers, and other infrastructure and information technology, including, but not limited to, third-party service providers. We and our third-party service providers and business partners store and process your personal data in the European Union, Japan, the United Kingdom, the United States of America and elsewhere in the world.
     
-9.  Privacy Shield
-    --------------
-    
-    Payward Ventures. Inc. has self-certified to the U.S. Department of Commerce our adherence to the EU-US Privacy Shield Framework for all personal information received, collected, used, retained and transferred from countries in the European Union and the United Kingdom (UK) to the United States (US) in reliance on the Privacy Shield.Payward Ventures. Inc. has certified to the Department of Commerce that it adheres to the Privacy Shield Principles with respect to such information. If there is any conflict between the terms of this Privacy Notice and the Privacy Shield Principles, the Privacy Principles shall govern.
-    
-    To learn more about Privacy Shield, visit the U.S. Department of Commerce Privacy Shield Website at https://www.privacyshield.gov
-    
-    Under Privacy Shield, we are responsible for the processing of personal information we receive, collect, use, retain and subsequently transfer to a third party service provider or business partner acting for or on our behalf. We are liable for ensuring that the third parties we engage support our Privacy Shield commitments. The U.S. Federal Trade Commission has regulatory enforcement authority over our processing of personal information received or transferred pursuant to Privacy Shield. Payward Ventures. Inc. commits to cooperate and comply with the advice of the regulatory authorities to whom you may raise a concern about our processing of your personal information pursuant to Privacy Shield, including to the panel established by the EU authorities. This is provided at no cost to you. For more information, see the following Privacy Shield Complaints section below.
-    
-    **Privacy Shield Complaints**
-    
-    In compliance with the Privacy Shield Principles, Payward Ventures. Inc. commits to resolve complaints about our collection, use, retention and transfer of your personal information. EU individuals with inquiries or complaints regarding our Privacy Shield Policy should first contact the Company at the address below:
-    
-    Group Data Protection Officer  
-    237 Kearny Street #102  
-    San Francisco, CA  
-    94108
-    
-    Payward Ventures. Inc. has further committed to refer unresolved Privacy Shield complaints to JAMS, an alternative dispute resolution provider located in the US. If you do not receive timely acknowledgement of your complaint from us, or if we have not addressed your complaint to your satisfaction, please visit https://www.jamsadr.com for more information or to file a complaint. The services of JAMS are provided at no cost to you.
-    
-    Additionally, if personal information about you is transferred by Payward Inc. from the EEA to the US pursuant to Privacy Shield, and you have an unresolved concern regarding personal information processing about you that we have not addressed to your satisfaction, please contact the EU authorities at https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index\_en.htm
-    
-    Under certain conditions, described more fully on the Privacy Shield Website, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
-    
-    **Disclosures for National Security or Law Enforcement**
-    
-    Under certain circumstances, we may be required to disclose your personal information in response to valid requests by public authorities, including to meet national security or law enforcement requirements.
-    
-10.  Transfers of personal information outside of the European Economic Area (EEA) and the United Kingdom (UK)
+9.  Transfers of personal information outside of the European Economic Area (EEA) and the United Kingdom (UK)
     ---------------------------------------------------------------------------------------------------------
     
-    We may transfer your personal information outside the EEA and UK to other Company subsidiaries, service providers and business partners (i.e Data Processors) who are engaged on our behalf. To the extent that we transfer your personal information outside of the EEA and UK, we will ensure that the transfer is lawful and that Data Processors in third countries are obliged to comply with the European Union (EU) General Data Protection Act 2016 and the UK Data Protection Act 2018. If transfers of personal information are processed in the US, we may in some cases rely on applicable standard contractual clauses, binding corporate rules, and EU-US Privacy Shield.
+    We may transfer your personal information outside the EEA and UK to other Company subsidiaries, service providers and business partners (i.e Data Processors) who are engaged on our behalf. To the extent that we transfer your personal information outside of the EEA and UK, we will ensure that the transfer is lawful and that Data Processors in third countries are obliged to comply with the European Union (EU) General Data Protection Act 2016 and the UK Data Protection Act 2018. If transfers of personal information are processed in the US, we may in some cases rely on standard contractual clauses.
     
-11.  Transfers of Personal Information outside of your country
+10.  Transfers of Personal Information outside of your country
     ---------------------------------------------------------
     
-    By using our products and services, you consent to your Personal Data being transferred to other countries, including countries that have differing levels of privacy and data protection laws than your country. In all such transfers, we will protect your personal information as described in this Privacy Notice, and ensure that appropriate information sharing contractual agreements are in place. Transfers of personal information from APAC countries will be in line with the APEC Framework.
+    By using our products and services, you consent to your Personal Data being transferred to other countries, including countries that have differing levels of privacy and data protection laws than your country. In all such transfers, we will protect your personal information as described in this Privacy Notice, and ensure that appropriate information sharing contractual agreements are in place.
     
-12.  Privacy when using digital assets and blockchains
+11.  Privacy when using digital assets and blockchains
     -------------------------------------------------
     
     Your funding of bitcoin, XRP, ether, and other Digital Assets, may be recorded on a public blockchain. Public blockchains are distributed ledgers, intended to immutably record transactions across wide networks of computer systems. Many blockchains are open to forensic analysis which can lead to deanonymization and the unintentional revelation of private financial information, especially when blockchain data is combined with other data.
     
     Because blockchains are decentralized or third-party networks which are not controlled or operated by Payward or its affiliates, we are not able to erase, modify, or alter personal data from such networks.
     
-13.  Data Retention
+12.  Data Retention
     --------------
     
     Safeguarding the privacy of your personal information is of utmost importance to us, whether you interact with us personally, by phone, by email, over the internet or any other electronic medium. We will hold personal information, for as long as we have a business relationship with you, in secure computer storage facilities, and we take the necessary measures to protect the personal information we hold from misuse, loss, unauthorised access, modification or disclosure.
@@ -256,14 +225,14 @@
     
     Also, the personal information we hold in the form of a recorded information, by telephone, electronically or otherwise, will be held in line with local regulatory requirements (i.e. 5 years after our business relationship with you has ended or longer if you have legitimate interests (such as handling a dispute with you)). If you have opted out of receiving marketing communications we will hold your details on our suppression list so that we know you do not want to receive these communications.
     
-    We may keep your data for longer than 5 years if we cannot delete if for legal, regulatory or technical reasons.
+    We may keep your data for longer than 5 years if we cannot delete it for legal, regulatory, or technical reasons.
     
-14.  Cookies
+13.  Cookies
     -------
     
-    When you use our products and services, we may make use of the standard practice of placing tiny data files called cookies, flash cookies, pixel tags, or other tracking tools (herein, “Cookies”) on your computer or other devices used when engaging with us. We use Cookies to (i) help us recognize you as a customer, collect information about your use of our products and services, to better customize our services and content for you, and to collect information about your computer or other access devices to ensure our compliance with our BSA and AML obligations. Please refer to our Cookies Policy for further information.
+    When you use our products and services, we may make use of the standard practice of placing tiny data files called cookies, flash cookies, pixel tags, or other tracking tools (herein, “Cookies”) on your computer or other devices used when engaging with us. We use Cookies to (i) help us recognize you as a customer, collect information about your use of our products and services, to better customize our services and content for you, and to collect information about your computer or other access devices to ensure our compliance with our BSA and AML obligations.
     
-15.  Your rights regarding your personal information
+14.  Your rights regarding your personal information
     -----------------------------------------------
     
     The rights that are available to you in relation to the personal information we hold about you are outlined below.
@@ -276,7 +245,7 @@
     
     It is important to us that your personal information is up to date. We will take all reasonable steps to make sure that your personal information remains accurate, complete and up-to-date. If the personal information we hold about you is inaccurate or incomplete, you are entitled to have it rectified. If we have disclosed your personal information to others, we will let them know about the rectification where possible. If you ask us, if possible and lawful to do so, we will also inform you with whom we have shared your personal information so that you can contact them directly.
     
-    You may inform us at any time that your personal details have changed by emailing us at support@kraken.com The Company will change your personal information in accordance with your instructions. To proceed with such requests, in some cases we may need supporting documents from you as proof i.e. personal information that we are required to keep for regulatory or other legal purposes.
+    You may inform us at any time that your personal details have changed by emailing us at support@kraken.com. The Company will change your personal information in accordance with your instructions. To proceed with such requests, in some cases we may need supporting documents from you as proof i.e. personal information that we are required to keep for regulatory or other legal purposes.
     
     **Erasure**
     
@@ -305,22 +274,25 @@
     
     If we have made a decision about you based solely on an automated process (e.g. through automatic profiling) that affects your ability to access our products and services or has another significant effect on you, you can request not to be subject to such a decision unless we can demonstrate to you that such decision is necessary for entering into, or the performance of, a contract between you and us. Even if a decision is necessary for entering into or performing a contract, you may contest the decision and require human intervention. We may not be able to offer our products or services to you, if we agree to such a request (i.e. end our relationship with you).
     
-16.  Changes to this Privacy Notice
+15.  Changes to this Privacy Notice
     ------------------------------
     
     Our Privacy Notice is reviewed regularly to ensure that any new obligations and technologies, as well as any changes to our business operations and practices are taken into consideration, as well as that it remains abreast of the changing regulatory environment. Any personal information we hold will be governed by our most recent Privacy Notice.
     
-    If we decide to change our Privacy Notice, we will post those changes to this Privacy Notice and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+    If we decide to change our Privacy Notice, we will post those changes to this Privacy Notice and other places we deem appropriate.
     
-17.  Our products and services are not available to children
+16.  Our products and services are not available to children
     -------------------------------------------------------
     
     Our products and services are not directed to persons under the age of 18, hereinafter “Children”, “Child” and we do not knowingly collect personal information from Children. If we learn that we have inadvertently gathered personal information from a Child, we will take legally permissible measures to remove that information from our records. The Company will require the user to close his or her account and will not allow the use of our products and services. If you are a parent or guardian of a Child, and you become aware that a Child has provided personal information to us, please contact us at support@kraken.com and you may request to exercise your applicable access, rectification, cancellation, and/or objection rights.
     
-18.  If you have a complaint
-    -----------------------
+17.  Contact Information
+    -------------------
     
     Any questions, complaints, comments and requests regarding this Privacy Notice are welcome and should be addressed to support@kraken.com.
+    
+18.  Data Protection Authorities
+    ---------------------------
     
     If you are not satisfied with our response to your complaint, you have the right to submit a complaint with our regulator. You can contact the appropriate regulator direct from the details below:
     
@@ -336,11 +308,19 @@
     30, Victoria Street  
     Gatineau, QC K1A 1H3, Canada
     
-    **For residents of Europe (United Kingdom):**
+    **For residents of the United Kingdom:**
     
     The Information Commissioner’s Office  
     Wycliffe House, Water Ln  
     Wilmslow SK9 5AF, UK
+    
+    **For residents of Europe:**
+    
+    Irish Data Protection Commission  
+    21 Fitzwilliam Square South  
+    Dublin 2  
+    D02 RD28  
+    Ireland
     
     **For residents of Japan:**
     
@@ -348,16 +328,6 @@
     Kasumigaseki Common Gate West Tower 32nd Floor,  
     3-2-1, Kasumigaseki, Chiyoda-ku,  
     Tokyo, 100-0013, Japan
-    
-    **For residents of the United States:**
-    
-    The Federal Trade Commission  
-    600 Pennsylvania Avenue, NW  
-    Washington, DC 20580
-    
-    **For residents of the rest of the world (British Virgin Islands):**
-    
-    There is currently no formal legislation regulating data protection in the British Virgin Islands and no authority to which you can report data or security breaches. However, BVI courts are guided by the English common law principles of confidentiality and privacy. It is recommended that you seek independent legal advice in relation to any complaints you may have pertaining to a data breach in this jurisdiction.
     
     **For clients of Kraken Futures (Singapore):**
     
