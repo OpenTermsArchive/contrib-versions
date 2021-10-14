@@ -229,6 +229,7 @@ Your information is controlled by GitLab B.V. and GitLab Inc. If you have questi
 *   [Leadership](https://about.gitlab.com/company/team/e-group/)
 *   [Team](https://about.gitlab.com/company/team/)
 *   [Press](https://about.gitlab.com/press/)
+*   [Investor Relations](https://ir.gitlab.com/)
 *   [Analysts](https://about.gitlab.com/analysts/)
 *   [Handbook](https://about.gitlab.com/handbook/)
 *   [Security](https://about.gitlab.com/security/)
