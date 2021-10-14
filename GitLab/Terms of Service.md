@@ -157,6 +157,7 @@ These Website Terms of Use (the “Agreement”) govern all use of the GitLab.co
 *   [Leadership](https://about.gitlab.com/company/team/e-group/)
 *   [Team](https://about.gitlab.com/company/team/)
 *   [Press](https://about.gitlab.com/press/)
+*   [Investor Relations](https://ir.gitlab.com/)
 *   [Analysts](https://about.gitlab.com/analysts/)
 *   [Handbook](https://about.gitlab.com/handbook/)
 *   [Security](https://about.gitlab.com/security/)
