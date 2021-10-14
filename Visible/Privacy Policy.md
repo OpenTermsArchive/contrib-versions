@@ -85,4 +85,4 @@ We may update this Privacy Policy from time to time. When we update the Privacy 
 
 ### IX. STILL HAVE QUESTIONS?
 
-If you have any questions about this Privacy Policy or our practices, please contact us at [privacy@visible.com![](https://jira.visible.com/../images/icons/mail_small.gif)](mailto:privacy@visible.com "Follow link").
+If you have any questions about this Privacy Policy or our practices, please contact us at [privacy@visible.com![](/images/mail_small.gif?t=81a811df36af52cecfd5ed97f0d0e4ce)](mailto:privacy@visible.com "Follow link").
