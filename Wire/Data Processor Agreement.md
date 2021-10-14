@@ -47,7 +47,7 @@ The Controller shall retain the right to issue instructions regarding the data p
 
 4.1. Technical and organizational measures: The Processor will implement all technical and organizational measures which are necessary pursuant to Art. 32 GDPR and other data protection requirements to ensure a level of security appropriate to the risk associated with its processing activities.
 
-For further information on the technical measures taken by Wire please visit [https://wire.com/security.](https://wire.com/en/security/)
+For further information on the technical measures taken by Wire please visit [http://wire.com/security.](http://wire.com/en/security/)
 
 ### 5\. Security incidents
 
