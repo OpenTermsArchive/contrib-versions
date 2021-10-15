@@ -37,6 +37,8 @@ Our content policies play an important role in maintaining a positive experience
 
 _Misleading content related to civic and democratic processes:_ content that is demonstrably false and could significantly undermine participation or trust in civic or democratic processes. This includes information about public voting procedures, political candidate eligibility based on age/birthplace, election results, or census participation that contradicts official government records. It also includes incorrect claims that a political figure or government official has died, been involved in an accident, or is suffering from a sudden serious illness.
 
+_Misleading content related to harmful conspiracy theories_: content that promotes or lends credibility to beliefs that individuals or groups are systematically committing acts that cause widespread harm. This content is contradicted by substantial evidence and has resulted in or incites violence.
+
 _Misleading content related to harmful health practices:_ misleading health or medical content that promotes or encourages others to engage in practices that may lead to serious physical or emotional harm to individuals, or serious public health harm.
 
 _Manipulated media:_ media that has been technically manipulated or doctored in a way that misleads users and may pose a serious risk of egregious harm.
