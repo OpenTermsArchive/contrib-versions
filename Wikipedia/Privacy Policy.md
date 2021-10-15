@@ -253,7 +253,7 @@ We will disclose your Personal Information to public authorities or other person
 
 We will access, use, preserve, and/or disclose your Personal Information if we reasonably believe it necessary to satisfy a valid and legally enforceable warrant, subpoena, court order, law or regulation, or other judicial or administrative order. However, if we believe that a particular request for disclosure of a user's information is legally invalid or an abuse of the legal system and the affected user does not intend to oppose the disclosure themselves, we will try our best to fight it. We are committed to notifying you via email at least ten (10) calendar days, when possible, before we disclose your Personal Information in response to a legal demand. However, we may only provide notice if we are not legally restrained from contacting you, there is no credible threat to life or limb that is created or increased by disclosing the request, and you have provided us with an email address.
 
-Nothing in this Privacy Policy is intended to limit any legal objections or defenses you may have to a third party's request (whether it be civil, criminal, or governmental) to disclose your Personal Information. We recommend seeking the advice of legal counsel immediately if such a request is made involving you.
+Nothing in this Privacy Policy is intended to limit any legal objections or defenses you may have to a third-party's request (whether it be civil, criminal, or governmental) to disclose your Personal Information. We recommend seeking the advice of legal counsel immediately if such a request is made involving you.
 
 For more information, see our [Subpoena FAQ](https://foundation.wikimedia.org/wiki/Subpoena_FAQ "Subpoena FAQ").
 
@@ -281,9 +281,9 @@ We hope that this never comes up, but we may disclose your Personal Information 
 
 #### To Our Service Providers
 
-We disclose Personal Information to our third party service providers or contractors to help run or improve the Wikimedia Sites and provide services in support of our mission.
+We disclose Personal Information to our third-party service providers or contractors to help run or improve the Wikimedia Sites and provide services in support of our mission.
 
-We use third-party service providers or contractors to help run or improve the Wikimedia Sites for you and other users. We give access to your Personal Information to these providers or contractors as needed to perform their services for us or to use their tools and services. We put requirements, such as confidentiality agreements, in place to help ensure that these service providers treat your Personal Information consistently with, and no less protective of your privacy than, the principles of this Policy. For further information, please see our [FAQ](https://foundation.wikimedia.org/wiki/Privacy_policy/FAQ#thirdpartyshareexamplesFAQ "Privacy policy/FAQ").)
+We use third-party service providers or contractors to help run or improve the Wikimedia Sites for you and other users. We give access to your Personal Information to these providers or contractors as needed to perform their services for us or to use their tools and services. We put requirements, such as confidentiality agreements, in place to help ensure that these service providers treat your Personal Information consistently with, and no less protective of your privacy than, the principles of this Policy. For further information, please see our [FAQ](https://foundation.wikimedia.org/wiki/Privacy_policy/FAQ#thirdpartyshareexamplesFAQ "Privacy policy/FAQ").
 
 If you are visiting Wikimedia Sites with your mobile device, we use your IP address to provide anonymized or aggregated information to service providers regarding the volume of usage in certain areas.
 
@@ -417,4 +417,4 @@ This version was approved by [Amanda Keton](https://foundation.wikimedia.org/w/i
 
 Privacy policy **·** [FAQ](https://foundation.wikimedia.org/wiki/Privacy_policy/FAQ "Privacy policy/FAQ") **·** [Glossary of key terms](https://foundation.wikimedia.org/wiki/Privacy_policy/Glossary_of_key_terms "Privacy policy/Glossary of key terms") **·** [Wikimedia blog privacy policy](https://foundation.wikimedia.org/wiki/Wikimedia_blog_privacy_policy "Wikimedia blog privacy policy") **·** [Subpoena FAQ](https://foundation.wikimedia.org/wiki/Privacy_policy/Subpoena_FAQ "Privacy policy/Subpoena FAQ") **·** [Access to nonpublic information](https://meta.wikimedia.org/wiki/Access_to_nonpublic_information_policy "m:Access to nonpublic information policy") **·** [Data retention guidelines](https://meta.wikimedia.org/wiki/Data_retention_guidelines "m:Data retention guidelines") **·** [Donor policy](https://foundation.wikimedia.org/wiki/Donor_policy "Donor policy") **·** [Requests for user information](https://foundation.wikimedia.org/wiki/Requests_for_user_information_procedures_%26_guidelines "Requests for user information procedures & guidelines")
 
-Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Privacy\_policy&oldid=130894](https://foundation.wikimedia.org/w/index.php?title=Privacy_policy&oldid=130894)"
+Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Privacy\_policy&oldid=130943](https://foundation.wikimedia.org/w/index.php?title=Privacy_policy&oldid=130943)"
