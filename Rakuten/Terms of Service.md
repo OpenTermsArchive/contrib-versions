@@ -258,7 +258,7 @@ En cas de Réclamation pour non-réception déposée par un Acheteur, le Vendeur
 
 **8.7.1** En cas de demande de remboursement approuvée par Rakuten à la suite d'une Réclamation, Rakuten donnera instruction au séquestre de procéder au remboursement du Prix de la Transaction.
 
-**8.7.2** Lorsqu'un Produit est retourné dans les conditions prévues aux présentes par l'Acheteur à Rakuten ou au Vendeur et que le Prix de Transaction lui a été restitué aux conditions exposées au présent chapitre 8 (« Réclamations et droit de rétractation »), l'Acheteur renonce par là même à tout droit sur le Produit considéré qui a cessé d'être de ce fait sa propriété. Les remboursements visés aux articles 8.3.2, 8.3.4 et 8.4.3 peuvent s'opérer par un crédit du Porte-Monnaie de l'Acheteur, selon le mode de paiement de l'Acheteur.
+**8.7.2** Lorsqu'un Produit est retourné dans les conditions prévues aux présentes par l'Acheteur à Rakuten ou au Vendeur et que le Prix de Transaction lui a été restitué aux conditions exposées au présent chapitre 8 (« Réclamations et droit de rétractation »), l'Acheteur renonce par là même à tout droit sur le Produit considéré qui a cessé d'être de ce fait sa propriété. Les remboursements visés aux articles 8.3.2 et 8.4.3 peuvent s'opérer par un crédit du Porte-Monnaie de l'Acheteur, selon le mode de paiement de l'Acheteur.
 
 **8.7.3** Rakuten pourra conserver le Produit retourné tant que le Vendeur n'aura pas acquitté le montant de la Commission et remboursé les frais exposés par l'Acheteur pour ledit retour et les frais de transport du Produit pour sa réexpédition au Vendeur. En tout état de cause, le Produit voyage aux risques du Vendeur.
 
