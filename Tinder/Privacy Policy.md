@@ -39,7 +39,8 @@ EFFECTIVE DATE: May 25, 2018
 13.  [Privacy Policy Changes](#policy-changes)
 14.  [How To Contact Us](#how-to-contact)
 
-### For California Consumers
+For California Consumers
+------------------------
 
 Please see our [California Privacy Statement](https://policies.tinder.com/ccpa-addendum) to learn about California privacy rights.
 
