@@ -974,7 +974,11 @@ EAB €1,799, based on average annual usage. 12 month contract, discounted unit 
   
 EAB €1,009, based on average annual usage. 12 month contract, discounted unit rates, standing charge, PSO levy and Carbon Tax, T&Cs and early termination fee apply. Valid from November 2020 & subject to change. Smart Home Voucher must be used at [https://smarthomestore.energia.ie/](https://smarthomestore.energia.ie/) by 31st December 2021. No cash equivalent will be provided. €50 cash back to be applied to 3rd customer bill.
 
-38\. Download all Terms & Conditions.
+38\. Energia Newsletter Competitions
+
+**View October 2021 newsletter rugby ticket competition terms and conditions [here](https://www.energia.ie/getmedia/d86a9549-241c-424e-9dd8-c00c5584b407/October-2021-Ireland-V-NZ-and-Ireland-v-Arg-Rugby-Tickets.pdf.aspx;).**
+
+39\. Download all Terms & Conditions.
 
 You can download all Terms & Conditions [here](https://www.energia.ie/getmedia/a2221157-e37d-4df6-944f-6a496af4d233/5366-Energia-Domestic-Terms-and-Conditions-Feb-21.pdf.aspx;).
 
