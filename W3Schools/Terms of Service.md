@@ -281,4 +281,4 @@ Your continued use of or access to our website or the Service following the post
 Contact Information
 -------------------
 
-If you have any questions or conserns regarding these Terms, please contact us at help@w3schools.com
+If you have any questions or concerns regarding these Terms, please contact us at help@w3schools.com
