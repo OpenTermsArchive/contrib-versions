@@ -1,7 +1,7 @@
 Terms of Service
 ----------------
 
-_Last Updated: July 7, 2021_
+_Last Updated: October 17, 2021_
 
 The Gist
 --------
@@ -15,7 +15,7 @@ We’ve made these Terms available under a [Creative Commons Sharealike license]
 Terms of Service
 ----------------
 
-These Terms govern your access to and use of the products and services we provide through or for [WordPress.com](https://wordpress.com/), [WooCommerce.com](https://woocommerce.com/), [WooCommerce Shipping & Tax](https://wordpress.org/plugins/woocommerce-services/), [Jetpack.com](https://jetpack.com/), [VaultPress.com](https://vaultpress.com/), [Happy.Tools](https://happy.tools/), [Jetpack CRM](https://jetpackcrm.com/), and [MailPoet](http://mailpoet.com/) (collectively, “Services”).
+These Terms govern your access to and use of the products and services we provide through or for [WordPress.com](https://wordpress.com/), [WooCommerce.com](https://woocommerce.com/), [WooCommerce Shipping & Tax](https://wordpress.org/plugins/woocommerce-services/), [Jetpack.com](https://jetpack.com/), [VaultPress.com](https://vaultpress.com/), [Happy.Tools](https://happy.tools/), [Jetpack CRM](https://jetpackcrm.com/), [MailPoet](http://mailpoet.com/), and [WordPress.com Courses](https://wpcourses.com/) (collectively, “Services”).
 
 These Terms also govern visitors’ access to and use of any websites that use our Services, like the websites that our users create on WordPress.com. Please note though that the operators of those websites may also have their own separate terms of use.
 
@@ -274,7 +274,13 @@ We may refuse, condition, or suspend any transaction or account (including your 
 
 You authorize us to share data relating to WooCommerce Payments with the applicable payment processing third party for their use in accordance with their privacy policy. Please refer to our privacy policy for details on how we otherwise collect, use, and disclose data made available to us as part of WooCommerce Payments.
 
-We may also offer you the ability to process certain transactions in-person through our In-Person Payments feature. As part of this feature, we may provide you with a point-of-sale (POS) terminal. These POS terminals are manufactured by third parties and are provided “as-is.”
+We may also offer you the ability to process certain transactions in-person through an in-person payments feature. As part of this feature, you may purchase or we may provide you with a point-of-sale (POS) terminal. These POS terminals are manufactured by third parties and are provided “as-is” and “with all faults.” Neither we or the third-party manufacturer offers you any warranty on these products.
+
+If you receive a POS terminal, you agree to: (a) use it for your own lawful commercial purposes only, and not for any personal, family, or household use; (b) the [Stripe Terminal Services Terms](https://stripe.com/terminal/legal) and [Stripe Terminal Purchase Terms](https://stripe.com/terminal-purchase/legal) as applicable; (c) comply with all applicable international and national laws and regulations, including applicable customs or export control laws or regulations; (d) use it only within the country that we shipped it to, except that you may use a terminal that was shipped to the European Economic Area in another country in the European Economic Area, if that country is [supported](https://stripe.com/docs/terminal/readers/placing-orders); and (e) if you obtain equipment, software, or accessories branded by Verifone and shipped to you to an address in the United Kingdom or European Economic Area, you agree to comply with the [Verifone Minimum Terms](https://stripe.com/us/verifone/legal), as applicable.
+
+You’ll be responsible for all shipping and handling charges for the POS terminal specified during the ordering process. We may restrict availability based on your region or limit the quantity of POS terminals that you may order. We may reject any order at any time, in which case, we’ll refund what you paid. Risk of loss for the POS terminal passes to you when the shipping carrier receives the terminal from our drop shipper for delivery, and title will transfer to you upon delivery. Shipping and delivery dates are estimates only and cannot be guaranteed. We are not liable for any delays in shipments.
+
+Unless a refund is required by law, there are no refunds for POS terminals and all transactions are final.
 
 **More on Shipping Services Specifically.** Our shipping Services allow you to check shipping rates or buy shipping labels from certain mailing services, like [UPS](https://www.ups.com/), [USPS](https://www.usps.com/), [DHL](https://www.dhl.com/), and [Canada Post](https://www.canadapost.ca/). We’re only an intermediary between you and these third parties; we aren’t involved in any way with your product or its shipment. We also don’t guarantee that the results you obtain from the use of these services (like rates, labels, or delivery timeframes) will be accurate or reliable.
 
@@ -304,7 +310,7 @@ The Agreement doesn’t transfer any Automattic or third-party intellectual prop
 11\. Third-Party Services
 -------------------------
 
-While using the Services, you may enable, use, or purchase services, products, software, embeds, or applications (like themes, extensions, plugins, or blocks) developed by a third party or yourself (“Third-Party Services”).
+While using the Services, you may enable, use, or purchase services, products, software, embeds, or applications (like themes, extensions, plugins, blocks, or point-of-sale terminals) provided or manufactured by a third party or yourself (“Third-Party Services”).
 
 If you use any Third-Party Services, you understand that:
 
@@ -348,7 +354,7 @@ Except for claims for injunctive or equitable relief or claims regarding intelle
 17\. Limitation of Liability
 ----------------------------
 
-In no event will Automattic, or its suppliers, partners, or licensors, be liable with respect to any subject matter of the Agreement under any contract, negligence, strict liability or other legal or equitable theory for: (i) any special, incidental or consequential damages; (ii) the cost of procurement for substitute products or services; (iii) for interruption of use or loss or corruption of data; or (iv) for any amounts that exceed $50 or the fees paid by you to Automattic under the Agreement during the twelve (12) month period prior to the cause of action, whichever is greater. Automattic shall have no liability for any failure or delay due to matters beyond its reasonable control. The foregoing shall not apply to the extent prohibited by applicable law.
+In no event will Automattic, or its suppliers, partners, or licensors, be liable (including for any third-party products or services purchased or used through our Services) with respect to any subject matter of the Agreement under any contract, negligence, strict liability or other legal or equitable theory for: (i) any special, incidental or consequential damages; (ii) the cost of procurement for substitute products or services; (iii) for interruption of use or loss or corruption of data; or (iv) for any amounts that exceed $50 or the fees paid by you to Automattic under the Agreement during the twelve (12) month period prior to the cause of action, whichever is greater. Automattic shall have no liability for any failure or delay due to matters beyond its reasonable control. The foregoing shall not apply to the extent prohibited by applicable law.
 
 18\. Indemnification
 --------------------
@@ -377,6 +383,6 @@ The Agreement (together with any other terms we provide that apply to any specif
 
 Automattic may assign its rights under the Agreement without condition. You may only assign your rights under the Agreement with our prior written consent.
 
-[Print friendly version](https://en.support.files.wordpress.com/2021/08/tos-08-20-21.pdf)
+[Print friendly version](https://en.support.files.wordpress.com/2021/10/tos-10-17-21-1.pdf)
 
 [**Change log**](https://wordpress.com/tos-change-log)
