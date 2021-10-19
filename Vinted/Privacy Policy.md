@@ -1,4 +1,5 @@
 Vinted Privacy Policy
+=====================
 
 Date last updated: 2021-10-11
 
