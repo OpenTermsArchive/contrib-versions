@@ -30,6 +30,8 @@ Taboola is dedicated to providing Internet users the highest level of transparen
 
 [![iapp logo](https://www.taboola.com/wp-content/uploads/2020/09/image-12.png)](https://www.taboola.com/?attachment_id=16023)
 
+[![](https://www.taboola.com/wp-content/uploads/2021/09/nai-logo.jpg)](https://www.taboola.com/policies/privacy-policy/nai-logo)
+
 ### **Privacy Policy:**
 
 Taboola, Inc., together with its Affiliates (“**Taboola**”, “**we**”, “**us**”, or “**our**”), recognizes the importance of your privacy. In this privacy policy (“Privacy Policy”) we describe how we collect, process, use, and disclose information that we obtain through our website, [www.taboola.com](http://www.taboola.com/), any Taboola website displaying this Privacy Policy (collectively, the “**Sites**”), our content-discovery platforms, feeds, widgets, analytics tools, and other technical applications that we provide on third-party websites (collectively, the “**Content Discovery Platform**”), and the Taboola News suite of content-discovery tools available on mobile devices and operating systems (including the Start line of products, collectively “**Taboola News**”) (all collectively, the “**Services**”).
