@@ -1,4 +1,4 @@
-Last modified on 09/29/2021
+Last modified on 10/19/2021
 
 **Privacy Notice**
 ------------------
@@ -143,7 +143,9 @@ We will not materially change our policies and practices to make them less prote
 
 Please contact Twitch with any questions or comments about this Privacy Notice at 350 Bush Street, 2nd Floor, San Francisco, CA 94104 or by email to privacy@twitch.tv. We will respond to your inquiry within 30 days of its receipt. If you are a California resident, you may have this same information emailed to you by sending a letter to the foregoing address with your email address and a request for this information.
 
-For the purposes of the General Data Protection Regulation, Twitch UK Limited has been designated by Twitch Interactive, Inc. as its representative in the EU to act on its behalf with regard to its obligations under Article 27 of the General Data Protection Regulation. Please contact Twitch UK with any questions (including questions about your rights) or comments about this Privacy Notice at 1 New Oxford Street WC1A 1BA, UK or by email to privacy@twitch.tv.
+For the purposes of the General Data Protection Regulation, Twitch Sweden AB has been designated by Twitch Interactive, Inc. as its representative in the EU to act on its behalf with regard to its obligations under Article 27 of the General Data Protection Regulation. Please contact Twitch Sweden AB with any questions (including questions about your rights) or comments about this Privacy Notice at Twitch Sweden AB, Polstjärnegatan 14 417 56 Gothenburg, Sweden or by email to privacy@twitch.tv.
+
+Twitch UK Limited has been designated by Twitch Interactive, Inc. as its representative under the UK GDPR for residents of the UK. Please contact Twitch UK with any questions (including questions about your rights) or comments about this Privacy Notice at Twitch UK Limited,1 New Oxford Street WC1A 1BA, UK or by email to privacy@twitch.tv.
 
 #### Additional Information for Certain Jurisdictions
 
