@@ -201,12 +201,42 @@ EXCEPT AS EXPRESSLY PROVIDED IN THIS SECTION 21, ANY PRODUCT PURCHASED THROUGH T
 
   
 
-**22\. Print Program**
+  
 
-As a registered member of the Service, you will also be granted the privilege of listing certain types of Artist Materials, known as "Artwork," for sale through the DeviantArt Shop. Visit [https://www.deviantart.com/sell/](https://www.deviantart.com/sell/) for additional details on the Print Program. Prior to submitting Artwork for sale, you must accept the additional terms and conditions of the [Print Program Agreement](https://www.deviantart.com/about/policy/prints/agreement), which is incorporated into, and forms a part of, the Terms.
+**22\. Cryptocurrency**
 
   
 
-**23\. deviantDOLLARS**
+DeviantArt enables cryptocurrency payments and earnings withdrawals via a Third Party Software blockchain/cryptocurrency payment processor ("**Cryptocurrency Payment Services**").
 
-deviantDOLLARS are credits issued via contest winnings or made available as an option through print sales via the Print Program that can be used to purchase products through the DeviantArt Shop or pay for subscriptions. deviantDOLLARS are not legal currency and are not legal tender. To check your balance, simply go into your [Messages](https://www.deviantart.com/notifications/), once there click on the Community Messages tab and on the right hand column click [View My deviantDOLLARS](https://www.deviantart.com/account/) and this will show you your current balance. deviantDOLLARS are nontransferable and deviantDOLLARS accrued in multiple accounts may not be combined. Your deviantDOLLARS credits cannot be redeemed for cash and cannot be used towards sales tax, gift certificates or past purchases. deviantDOLLARS are void where prohibited by law.
+  
+
+You acknowledge and agree that regardless of the manner in which such Cryptocurrency Payment Services may be offered to you, DeviantArt merely acts as an intermediary platform between you and the applicable Cryptocurrency Payment Services provider, and shall not be in any way responsible or liable with respect to any services provided by such Cryptocurrency Payment Services provider.
+
+  
+
+Any and all use of Cryptocurrency Payment Services shall be done solely at your own risk and responsibility, and may be subject to certain legal and financial terms which govern Cryptocurrency Payment Services, which you are encouraged to review and understand before using such services. Additionally, the use of Cryptocurrency Payment Services is subject to the applicable terms of use of the Cryptocurrency Payment Services provider, including but not limited to the lists of prohibited items and businesses not supported by such provider. In the case of BitPay, your use of Cryptocurrency Payment Services is subject to BitPay's [terms of use](https://bitpay.com/legal/terms-of-use/). Each Cryptocurrency Payment Services provider may support different cryptocurrencies, however DeviantArt has full discretion regarding which cryptocurrencies will be available through the Cryptocurrency Payment Services on the DeviantArt platform. Please avoid paying in unsupported cryptocurrencies, as doing so may result in loss of funds.
+
+  
+
+While we hope to avoid such instances, DeviantArt may, at any time and at its sole discretion, suspend, disable access to or remove Cryptocurrency Payment Services without any liability to you or to any third party.
+
+  
+
+You assume the volatility risk of the cryptocurrencies in which cryptocurrency transactions occur.
+
+  
+
+Any refunds of cryptocurrency transactions are subject to DeviantArt's sole discretion.
+
+  
+
+**Services Fees**
+
+  
+
+Your use of Cryptocurrency Payment Services is subject to certain fees and exchange rates ("**Service Fees**"), which may be modified from time to time. For more information, see [here](https://www.deviantartsupport.com/en//article/what-are-the-costs-for-withdrawing-your-earnings-from-deviantart). The Service Fees shall be deducted from your DeviantArt Earnings Account. All Service Fees are non-refundable.
+
+  
+
+Certain transactions (e.g., underpayment and overpayment of cryptocurrency transactions) may be subject to additional fees by the Cryptocurrency Payment Services provider. In the case of BitPay, please refer to the following [article](https://support.bitpay.com/hc/en-us/articles/360000051746-How-to-claim-a-refund-from-a-BitPay-merchant-refund-email) for additional information.
