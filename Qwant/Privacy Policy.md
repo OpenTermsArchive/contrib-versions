@@ -262,7 +262,7 @@ Data protection regulation grants you specific rights over your data and its pro
 Qwant has designated a **Data Protection Officer (DPO)** to the CNIL (the French data protection authority), with whom you can exercise each of these rights:
 
 *   by writing by mail to QWANT – Direction Ethique & Affaires Juridiques, Crystal Park building, 63 Rue de Villiers, 92200 Neuilly-sur-Seine, France ;
-*   or by e-mailing [dpo@qwant.com](mailto:dpo@qwant.com)
+*   or by e-mailing [dpo@qwant.net](mailto:dpo@qwant.net)
 
 Right to access
 ---------------
@@ -276,13 +276,13 @@ Right to rectify
 
 You may change or delete your Qwant account profile information at any time.
 
-For job applications, you have the possibility to correct them either by replying to the automatic email you received when you sent your application or by sending us an email at dpo@qwant.com.
+For job applications, you have the possibility to correct them either by replying to the automatic email you received when you sent your application or by sending us an email at dpo@qwant.net.
 
-For the delisting requests and the exercise of other rights, you can correct them by sending us an e-mail at dpo@qwant.com.
+For the delisting requests and the exercise of other rights, you can correct them by sending us an e-mail at dpo@qwant.net.
 
 The information related to the exercise of this right of rectification (for example your contact information) is kept for one year from the date of Qwant’s response, then deleted at the end of this period.
 
-For the delisting requests and the exercise of other rights, you can correct them by sending us an e-mail at dpo@qwant.com.
+For the delisting requests and the exercise of other rights, you can correct them by sending us an e-mail at dpo@qwant.net.
 
 The information related to the exercise of this right of rectification (for example your contact information) is kept for one year from the date of Qwant’s response, then deleted at the end of this period.
 
@@ -336,4 +336,4 @@ What data is processed for the Qwant mobile application on Android and iOS?
 
 We do not integrate any tracker in our applications nor any advertising ID. Qwant does not process any specific personal data when you use the Qwant application for Android or iOS. The processing of personal data carried out by Qwant during your navigation and use of our Services from the application are exclusively those described above.
 
-*   Last update: September 1, 2021
+*   Last update: October 20, 2021
