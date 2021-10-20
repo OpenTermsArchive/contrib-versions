@@ -976,7 +976,7 @@ EAB €1,009, based on average annual usage. 12 month contract, discounted unit 
 
 38\. Energia Newsletter Competitions
 
-**View October 2021 newsletter rugby ticket competition terms and conditions [here](https://www.energia.ie/getmedia/d86a9549-241c-424e-9dd8-c00c5584b407/October-2021-Ireland-V-NZ-and-Ireland-v-Arg-Rugby-Tickets.pdf.aspx;).**
+**View October 2021 newsletter rugby ticket competition terms and conditions [here](https://www.energia.ie/getmedia/289131f5-0d00-4dbe-9c86-93e7dae1668b/October-2021-Ireland-V-NZ-and-Ireland-v-Arg-Rugby-Tickets_2.pdf.aspx;).**
 
 39\. Download all Terms & Conditions.
 
