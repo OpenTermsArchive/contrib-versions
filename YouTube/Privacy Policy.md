@@ -144,7 +144,7 @@ Depending on your settings, we may also show you [personalized ads](https://poli
 *   We don’t show you personalized ads based on your content from Drive, Gmail, or Photos.
 *   We don’t share information that personally identifies you with advertisers, such as your name or email, unless you ask us to. For example, if you see an ad for a nearby flower shop and select the “tap to call” button, we’ll connect your call and may share your phone number with the flower shop.
 
-[Go to Ad Settings](https://adssettings.google.com/?utm_source=pp)
+[Go to Ad Settings](https://adssettings.google.com/?ref=privacy-policy)
 
 ### Measure performance
 
@@ -196,7 +196,7 @@ Decide what types of activity you’d like saved in your account. For example, y
 
 Manage your preferences about the ads shown to you on Google and on sites and apps that [partner with Google](https://policies.google.com/privacy#footnote-partner) to show ads. You can modify your interests, choose whether your personal information is used to make ads more relevant to you, and turn on or off certain advertising services.
 
-[Go to Ad Settings](https://adssettings.google.com/?utm_source=pp)
+[Go to Ad Settings](https://adssettings.google.com/?ref=privacy-policy)
 
 ### About you
 
@@ -234,7 +234,7 @@ When you’re signed out, you can manage information associated with your browse
 
 *   Signed-out search personalization: [Choose](https://www.google.com/history/optout?utm_source=pp) whether your search activity is used to offer you more relevant results and recommendations.
 *   YouTube settings: Pause and delete your [YouTube Search History](https://www.youtube.com/feed/history/search_history?utm_source=pp) and your [YouTube Watch History](https://www.youtube.com/feed/history?utm_source=pp).
-*   Ad Settings: [Manage](https://adssettings.google.com/?utm_source=pp) your preferences about the ads shown to you on Google and on sites and apps that partner with Google to show ads.
+*   Ad Settings: [Manage](https://adssettings.google.com/?ref=privacy-policy) your preferences about the ads shown to you on Google and on sites and apps that partner with Google to show ads.
 
 Exporting, removing & deleting your information
 -----------------------------------------------
