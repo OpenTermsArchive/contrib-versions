@@ -138,6 +138,13 @@ The open source software platform that runs everywhere from the smartphone, the 
     *   [ROS ESM](https://ubuntu.com/robotics/ros-esm)
     *   [What is ROS](https://ubuntu.com/robotics/what-is-ros)
     *   [Community](https://ubuntu.com/robotics/community)
+*   [Cloud](https://ubuntu.com/cloud)
+    ---------------------------------
+    
+    *   [What is private cloud](https://ubuntu.com/cloud/private-cloud)
+    *   [What is hybrid cloud](https://ubuntu.com/cloud/hybrid-cloud)
+    *   [What is multi-cloud](https://ubuntu.com/cloud/multi-cloud)
+    *   [Public cloud](https://ubuntu.com/cloud/public-cloud)
 
 *   [IoT](https://ubuntu.com/internet-of-things)
     --------------------------------------------
@@ -229,9 +236,7 @@ The open source software platform that runs everywhere from the smartphone, the 
     *   [Government](https://ubuntu.com/gov)
     *   [Telco](https://ubuntu.com/telco)
     *   [Finance](https://ubuntu.com/financial-services)
-*   *   [Public cloud](https://ubuntu.com/public-cloud)
-    *   [Cloud](https://ubuntu.com/cloud)
-    *   [Containers](https://ubuntu.com/containers)
+*   *   [Containers](https://ubuntu.com/containers)
     *   [Tutorials](https://ubuntu.com/tutorials)
     *   [16-04](https://ubuntu.com/16-04)
 
