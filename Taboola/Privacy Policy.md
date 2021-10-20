@@ -10,25 +10,25 @@ If you would like to learn more about Taboola’s region-specific processing of 
 
 Taboola is dedicated to providing Internet users the highest level of transparency and control over the use of their data in online advertising. We adhere to the Self-Regulatory Principles set forth by the Digital Advertising Alliance (DAA), the Digital Advertising Alliance Canada (DAAC), and the European Interactive Digital Advertising Alliance (EDAA). Taboola also adheres to the Interactive Advertising Bureau’s (IAB) Self-Regulatory Principles for Online Behavioral Advertising, and the IAB Europe OBA Framework. In addition, Taboola is a proud member in good standing of the Network Advertising Initiative (NAI), an association dedicated to responsible data collection use in digital advertising, and we adhere to the [NAI Code of Conduct](http://www.networkadvertising.org/code-enforcement) for Web and Mobile. To update your AdChoices Opt Out settings, select your region here: [US](http://www.aboutads.info/consumers), [Canada](http://youradchoices.ca/choices), or [Europe](http://www.youronlinechoices.eu/) (including the United Kingdom); and to manage all NAI member sites’ settings, click [here](http://optout.networkadvertising.org/#/).
 
-[![iab logo](https://www.taboola.com/wp-content/uploads/2020/09/image-17.png)](https://www.taboola.com/?attachment_id=16028)
+[![iab logo](https://www.taboola.com/wp-content/uploads/2020/09/image-17.png)](https://www.taboola.com/image-17)
 
-[![iab logo](https://www.taboola.com/wp-content/uploads/2020/09/image-18.png)](https://www.taboola.com/?attachment_id=16029)
+[![iab logo](https://www.taboola.com/wp-content/uploads/2020/09/image-18.png)](https://www.taboola.com/image-18)
 
-[![iab europ logo](https://www.taboola.com/wp-content/uploads/2020/09/image-19.png)](https://www.taboola.com/?attachment_id=16030)
+[![iab europ logo](https://www.taboola.com/wp-content/uploads/2020/09/image-19.png)](https://www.taboola.com/image-19)
 
-[![taboola video icon](https://www.taboola.com/wp-content/uploads/2020/09/image-14.png)](https://www.taboola.com/?attachment_id=16025)
+[![taboola video icon](https://www.taboola.com/wp-content/uploads/2020/09/image-14.png)](https://www.taboola.com/image-14)
 
-[![DAA logo](https://www.taboola.com/wp-content/uploads/2020/09/image-15.png)](https://www.taboola.com/?attachment_id=16026)
+[![DAA logo](https://www.taboola.com/wp-content/uploads/2020/09/image-15.png)](https://www.taboola.com/image-15)
 
-[![iab certificate](https://www.taboola.com/wp-content/uploads/2020/09/image-13.png)](https://www.taboola.com/?attachment_id=16024)
+[![iab certificate](https://www.taboola.com/wp-content/uploads/2020/09/image-13.png)](https://www.taboola.com/image-13)
 
-[![DAAC logo](https://www.taboola.com/wp-content/uploads/2020/09/image-11.png)](https://www.taboola.com/?attachment_id=16022)
+[![DAAC logo](https://www.taboola.com/wp-content/uploads/2020/09/image-11.png)](https://www.taboola.com/image-11)
 
-[![edaa logo](https://www.taboola.com/wp-content/uploads/2020/09/image-20.png)](https://www.taboola.com/?attachment_id=16031)
+[![edaa logo](https://www.taboola.com/wp-content/uploads/2020/09/image-20.png)](https://www.taboola.com/image-20)
 
-[![edaa logo](https://www.taboola.com/wp-content/uploads/2020/09/image-16.png)](https://www.taboola.com/?attachment_id=16027)
+[![edaa logo](https://www.taboola.com/wp-content/uploads/2020/09/image-16.png)](https://www.taboola.com/image-16)
 
-[![iapp logo](https://www.taboola.com/wp-content/uploads/2020/09/image-12.png)](https://www.taboola.com/?attachment_id=16023)
+[![iapp logo](https://www.taboola.com/wp-content/uploads/2020/09/image-12.png)](https://www.taboola.com/image-12)
 
 [![](https://www.taboola.com/wp-content/uploads/2021/09/nai-logo.jpg)](https://www.taboola.com/policies/privacy-policy/nai-logo)
 
