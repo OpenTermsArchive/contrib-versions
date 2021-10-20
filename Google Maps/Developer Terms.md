@@ -251,6 +251,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         70.  UARCD
             
+        71.  Statistics Canada. Contains information licensed under the Open Government Licence – Canada ([https://open.canada.ca/en/open-government-licence-canada](https://open.canada.ca/en/open-government-licence-canada))
+            
     7.  **Denmark**
         *   © COWI A/S
             
@@ -475,7 +477,13 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   Unione Dei Comuni Valle Del Savio ([https://creativecommons.org/licenses/by/3.0/](https://creativecommons.org/licenses/by/3.0/))
             
-    21.  **Japan**
+        *   Comune di Anzola dell'Emilia ([https://creativecommons.org/licenses/by/4.0/legalcode.it](https://creativecommons.org/licenses/by/4.0/legalcode.it))
+            
+    21.  **Ivory Cost (Côte d'Ivoire)**
+        
+        OCHA Côte d'Ivoire ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
+        
+    22.  **Japan**
         *   日本の Google マップのサービスには、第三者から提供された著作権の対象となるデータに基づいて Google が変更したビジネス リスティング データが含まれます。当該データを許可なく使用すると、Google またはその他の者が保持する著作権を侵害することになる可能性があります。また商用利用は固く禁じられています。ユーザーがビジネス リスティング データを取得することは許可されていません。
             
         *   Google および Google マップに表示されるデータの使用を許諾する第三者は、本データの使用に起因する（結果的損害を含む）いかなる損害についても責任を負わないものとします。
@@ -510,15 +518,15 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   DoCoMo: Docomo is a trade mark or registered trade mark of DOCOMO BIKESHARE, INC. in Japan.
             
-    22.  **Luxembourg**
+    23.  **Luxembourg**
         
         © Administration du Cadastre et de la Topography (ACT)
         
-    23.  **Mexico**
+    24.  **Mexico**
         
         Source: INEGI (INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA)
         
-    24.  **Netherlands**
+    25.  **Netherlands**
         *   © Andes B.V.
             
         *   When using public transit data for The Netherlands, the data may have been supplied by Reisinformatiegroep B.V. (9292). These data may not be used to: (a) provide any product or service that deliberately negatively affects the broad availability of open public transport information to the public (e.g., deliberately misinforms end users); or (b) provide any product or service that is unethical or tortious in respect of third parties, in particular public transport operators (e.g., promotes fare dodging). These data are not suitable for interpreting the performance of public transport operators. 9292 explicitly reserves its rights.
@@ -529,7 +537,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   The Municipality of Amsterdam [https://maps.amsterdam.nl/open\_geodata/?k=265](https://maps.amsterdam.nl/open_geodata/?k=265) "The original dataset is available to everyone free of charge from the Municipality, under these Terms of Use, which also apply to the transmitted dataset." ([https://maps.amsterdam.nl/open\_geodata/terms.php?LANG=nl](https://maps.amsterdam.nl/open_geodata/terms.php?LANG=nl))
             
-    25.  **New Zealand**
+    26.  **New Zealand**
         *   © Auckland International Airport Ltd
             
         *   Bay of Plenty TA's
@@ -564,11 +572,11 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   This work is based on/includes [Constituency 2020 Provisional Data](https://datafinder.stats.govt.nz/layer/103481-constituency-2020-provisional/) and [Urban Rural 2019 (generalised)](https://datafinder.stats.govt.nz/layer/98752-urban-rural-2019-generalised/) which are licensed by Stats NZ for reuse under the [Creative Commons Attribution 4.0 International licence](https://creativecommons.org/licenses/by/4.0/). Crown copyright ©.
             
-    26.  **Northern Ireland**
+    27.  **Northern Ireland**
         
         © Ordnance Survey of Northern Ireland
         
-    27.  **Norway**
+    28.  **Norway**
         *   Elveg©Statens kartverk and Statens vegvesen, N50 Kartdata©Statens kartverk
             
         *   © Bergen kommune
@@ -577,7 +585,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   © Norwegian Polar Institute
             
-    28.  **Poland**
+    29.  **Poland**
         *   © MGGP Aero
             
         *   © ZSIP Powiat Olesnicki
@@ -598,7 +606,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   © Warszawski Transport Publiczny, [https://www.wtp.waw.pl/](https://www.wtp.waw.pl/) Google strives to update this data on an ongoing basis. However the most current version is available at the websites mentioned above. The data made available here has been enhanced from the original source by adding additional information.
             
-    29.  **Portugal**
+    30.  **Portugal**
         *   IgeoE - Portugal
             
         *   © 2012 SRES DRIGOT
@@ -613,33 +621,33 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   Ciclovia.pt
             
-    30.  **Russia**
+    31.  **Russia**
         
         GIS Innovatsia 2011, Database«TopoRF\_1000000» (с) ДАТА+, 2006 2013 Rosreestr
         
-    31.  **Singapore**
+    32.  **Singapore**
         *   This Service includes mapping data licensed from MapIt MSC Sdn Bhd.
             
         *   [Data.gov.sg](https://data.gov.sg/) Contains information from "Cycling Path Network" accessed on 2021 from [https://data.gov.sg/dataset/cycling-path-network](https://data.gov.sg/dataset/cycling-path-network) which is made available under the terms of the Singapore Open Data Licence version 1.0 [https://data.gov.sg/open-data-licence](https://data.gov.sg/open-data-licence)
             
-    32.  **Slovakia**
+    33.  **Slovakia**
         *   © Slovak Road Administration - [https://www.cdb.sk/sk/Novinky.alej](https://www.cdb.sk/sk/Novinky.alej)
             
         *   © Eurosense/Geodis Slovakia
             
         *   © GEODIS Brno
             
-    33.  **South Africa**
+    34.  **South Africa**
         *   © AfriGIS (Pty) Ltd
             
         *   © CDNGI
             
-    34.  **South Korea**
+    35.  **South Korea**
         *   Based upon electronic data © SK telecom Co., Ltd. All rights reserved. Korean Association Survey and Mapping Review Completed No. 2012-018 (2012-05-09).
             
         *   NSPO FORMOSAT-2
             
-    35.  **Spain**
+    36.  **Spain**
         *   Vectorial cartographic information based on Base Cartográfica Nacional from Instituto Geográfico Nacional de España
             
         *   Ajuntament de Roses
@@ -680,7 +688,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   Powered by EMT de Madrid [https://www.emtmadrid.es/](https://www.emtmadrid.es/Home)
             
-    36.  **Sweden**
+    37.  **Sweden**
         *   © 2009 Cartesia GIS AB
             
         *   © Swedish Environmental Protection Agency
@@ -693,7 +701,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   Data Stockholm University
             
-    37.  **Switzerland**
+    38.  **Switzerland**
         *   © Swisstopo
             
         *   Swiss Postal Data (March 2011) are © Die Schweizerische Post. You are not permitted, at any one time, to use Swiss Postal Data to provide, display or provide access to mass downloads or bulk feeds of numerical latitude and longitude coordinates.
@@ -720,7 +728,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   © opentransportdata.swiss
             
-    38.  **Taiwan**
+    39.  **Taiwan**
         *   © 2013 Kingwaytek Technology Co., Ltd.
             
         *   © GeoForce Technologies
@@ -729,19 +737,19 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   National Development Council, Open Government Data Taiwan, [data.gov.tw](https://data.gov.tw/) ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
             
-    39.  **Turkey**
+    40.  **Turkey**
         
         © 2013 Basarsoft
         
-    40.  **Turks and Caicos**
+    41.  **Turks and Caicos**
         
         © Salt Cay Devco Ltd.
         
-    41.  **Ukraine**
+    42.  **Ukraine**
         
         © Transnavicom - [http://www.transnavi.com/](http://www.transnavi.com/)
         
-    42.  **United States.**
+    43.  **United States.**
         
         Google’s maps of the United States include data provided from the following sources:
         
@@ -1077,11 +1085,15 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         166.  Chicago Data Portal “This site provides applications using data that has been modified for use from its original source, [www.cityofchicago.org](https://www.chicago.gov/city/en.html), the official website of the City of Chicago. The City of Chicago makes no claims as to the content, accuracy, timeliness, or completeness of any of the data provided at this site. The data provided at this site is subject to change at any time. It is understood that the data provided at this site is being used at one’s own risk.” ([https://www.chicago.gov/city/en/narr/foia/data\_disclaimer.html](https://www.chicago.gov/city/en/narr/foia/data_disclaimer.html))
             
-    43.  **Uruguay**
+        167.  ARC Open Data and Mapping HUB ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
+            
+        168.  City of Mesa Data Portal ([https://data.mesaaz.gov/stories/s/2dcd-j2nx/](https://data.mesaaz.gov/stories/s/2dcd-j2nx/))
+            
+    44.  **Uruguay**
         
         © 2000 Aviation Systems
         
-    44.  **Worldwide**
+    45.  **Worldwide**
         *   Unicode Common Locale Data Repository © Unicode, Inc. ([https://www.unicode.org/copyright.html](https://www.unicode.org/copyright.html)). All rights reserved.
             
         *   © 2010 Europa Technologies
