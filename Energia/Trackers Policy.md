@@ -1,7 +1,8 @@
 Energia Privacy Statement
 =========================
 
-Last updated April 2021
+Last updated April 2021  
+  
 
 ### 1\. Introduction
 
@@ -247,13 +248,3 @@ This Statement will be regularly reviewed to ensure we continue to meet our obli
 
   
 You can download the full Privacy Statement [here](https://www.energia.ie/getmedia/47c9c799-8f7f-4a80-8290-93cd4b9522eb/5397-Energia-Privacy-Policy-Document-Apr-21.pdf.aspx;).
-
-### More from Privacy
-
-*   [Privacy, Data, Terms and Conditions](https://www.energia.ie/privacy)
-*   [Privacy](https://www.energia.ie/privacy-landing)
-*   [Energia Privacy Statement](https://www.energia.ie/privacy/privacy-statement)
-*   [Smart Terms & Conditions](https://www.energia.ie/privacy/smart-terms-conditions)
-*   [Cookie Policy](https://www.energia.ie/privacy/cookie-policy)
-*   [Standard Terms & Conditions](https://www.energia.ie/privacy/standard-terms-conditions)
-*   [Terms and Conditions](https://www.energia.ie/privacy/terms-and-conditions)
