@@ -974,9 +974,11 @@ EAB €1,799, based on average annual usage. 12 month contract, discounted unit 
   
 EAB €1,009, based on average annual usage. 12 month contract, discounted unit rates, standing charge, PSO levy and Carbon Tax, T&Cs and early termination fee apply. Valid from November 2020 & subject to change. Smart Home Voucher must be used at [https://smarthomestore.energia.ie/](https://smarthomestore.energia.ie/) by 31st December 2021. No cash equivalent will be provided. €50 cash back to be applied to 3rd customer bill.
 
-38\. Energia Newsletter Competitions
+38\. Competition terms and conditions
 
-**View October 2021 newsletter rugby ticket competition terms and conditions [here](https://www.energia.ie/getmedia/289131f5-0d00-4dbe-9c86-93e7dae1668b/October-2021-Ireland-V-NZ-and-Ireland-v-Arg-Rugby-Tickets_2.pdf.aspx;).**
+**View October 2021 newsletter rugby ticket competition terms and conditions [here](https://www.energia.ie/getmedia/289131f5-0d00-4dbe-9c86-93e7dae1668b/October-2021-Ireland-V-NZ-and-Ireland-v-Arg-Rugby-Tickets_2.pdf.aspx;).  
+  
+View  ‘Win a free consultation for your home with Kieran McCarthy’ terms and conditions [here](https://www.energia.ie/getmedia/f02b8fce-8eea-48fa-8d44-44ded6d0ff09/TCs-Win-a-free-consultation-with-Kieran-McCarthy.pdf.aspx;).**
 
 39\. Download all Terms & Conditions.
 
@@ -987,7 +989,7 @@ You can download all Terms & Conditions [here](https://www.energia.ie/getmedia/a
 *   [Privacy, Data, Terms and Conditions](https://www.energia.ie/privacy)
 *   [Privacy](https://www.energia.ie/privacy-landing)
 *   [Energia Privacy Statement](https://www.energia.ie/privacy/privacy-statement)
-*   [Smart Terms & Conditions](https://www.energia.ie/privacy/smart-terms-conditions)
+*   [Terms & Conditions](https://www.energia.ie/privacy/terms-conditions)
 *   [Cookie Policy](https://www.energia.ie/privacy/cookie-policy)
 *   [Standard Terms & Conditions](https://www.energia.ie/privacy/standard-terms-conditions)
 *   [Terms and Conditions](https://www.energia.ie/privacy/terms-and-conditions)
