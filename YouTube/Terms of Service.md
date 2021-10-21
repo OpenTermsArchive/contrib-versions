@@ -49,9 +49,7 @@ This section includes some further important details about our contract, includi
 **Terms of Service**
 ====================
 
-Dated: June 1, 2021
-
-English Courtesy Translation
+Dated: 1 June 2021
 
 **Welcome to YouTube!**
 =======================
@@ -64,12 +62,12 @@ Thank you for using the YouTube platform and the products, services and features
 **Our Service**
 ---------------
 
-The Service allows you to discover, watch and share videos and other content, provides a forum for people to connect, inform, and inspire others across the globe, and acts as a distribution platform for original content creators and advertisers large and small. We provide lots of information about our products and how to use them in our [Help Center](https://support.google.com/youtube/). Amongst other things, you can find out about [YouTube Kids](https://support.google.com/youtubekids/), the [YouTube Partner Program](https://support.google.com/youtube/topic/9223152) and [YouTube Paid Memberships and Purchases](https://support.google.com/youtube/topic/9223117). You can also read all about enjoying content on [other devices](https://support.google.com/youtube/topic/9257096) [like your television, your games console, or even](https://support.google.com/youtube/topic/9257096) [Google Home](https://support.google.com/googlehome/answer/7029380).  
+The Service allows you to discover, watch and share videos and other content, provides a forum for people to connect, inform, and inspire others across the globe, and acts as a distribution platform for original content creators and advertisers large and small. We provide lots of information about our products and how to use them in our [Help Center](https://support.google.com/youtube/). Amongst other things, you can find out about [YouTube Kids](https://support.google.com/youtubekids/), the [YouTube Partner Program](https://support.google.com/youtube/topic/9223152) and [YouTube Paid Memberships and Purchases](https://support.google.com/youtube/topic/9223117). You can also read all about enjoying content on [other devices](https://support.google.com/youtube/topic/9257096) [](https://support.google.com/youtube/topic/9257096) like your television, your games console, or even [](https://support.google.com/youtube/topic/9257096) [Google Home](https://support.google.com/googlehome/answer/7029380).  
 
 **Your Service Provider**
 -------------------------
 
-The entity providing the Service in the European Economic Area, \[the United Kingdom,\] and Switzerland is Google Ireland Limited, a company incorporated and operating under the laws of Ireland, (Registered Number: 368047), located at Gordon House, Barrow Street, Dublin 4, Ireland (referred to as “YouTube”, “we”, “us”, or “our”).  References to YouTube’s “Affiliates” in these terms means the other companies within the Alphabet Inc. corporate group.
+The entity providing the Service in the United Kingdom is Google LLC, located at 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA (referred to as “YouTube”, “we”, “us”, or “our”).  References to YouTube’s “Affiliates” in these terms means the other companies within the Alphabet Inc. corporate group.
 
 **Applicable Terms**
 --------------------
@@ -84,14 +82,14 @@ Please read this Agreement carefully and make sure you understand it. If you do 
 **Age Requirements**
 --------------------
 
-You may use the Service if you are at least 16 years old; however, children of all ages may use the Service and YouTube Kids (where available) if enabled by a parent or legal guardian.
+You may use the Service if you are at least 13 years old; however, children of all ages may use the Service and YouTube Kids (where available) if enabled by a parent or legal guardian.
 
 **Permission by Parent or Guardian**
 ------------------------------------
 
 If you are under 18, you must have your parent or legal guardian’s permission to use the Service. Please have them read this Agreement with you.
 
-If you are a parent or legal guardian of a user under the age of 18, by allowing your child to use the Service, you are subject to the terms of this Agreement and responsible for your child’s activity on the Service. You can find tools and resources to help you manage your family’s experience on YouTube (including how to enable a child under the age of 16 to use the Service and YouTube Kids) in our [Help Center](https://support.google.com/youtube/answer/2802272) [and through](https://support.google.com/youtube/answer/2802272) Google’s [Family Link](https://families.google.com/familylink/).
+If you are a parent or legal guardian of a user under the age of 18, by allowing your child to use the Service, you are subject to the terms of this Agreement and responsible for your child’s activity on the Service. You can find tools and resources to help you manage your family’s experience on YouTube (including how to enable a child under the age of 13 to use the Service and YouTube Kids) in our [Help Center](https://support.google.com/youtube/answer/2802272) [and through](https://support.google.com/youtube/answer/2802272) Google’s [Family Link](https://families.google.com/familylink/).
 
 **Businesses**
 --------------
@@ -156,7 +154,7 @@ YouTube is constantly changing and improving the Service. We may also need to al
 **Uploading Content**
 ---------------------
 
-If you have a YouTube channel, you may be able to upload Content to the Service. You may use your Content to promote your business or artistic enterprise. If you choose to upload Content, you must not submit to the Service any Content that does not comply with this Agreement or the law. For example, the Content you submit must not include third-party intellectual property (such as copyrighted material) unless you have permission from that party or are otherwise legally entitled to do so (including by way of any available exceptions or limitations to copyright or related rights provided for in European Union law). You are legally responsible for the Content you submit to the Service. We may use automated systems that analyze your Content to help detect infringement and abuse, such as spam, malware, and illegal content.
+If you have a YouTube channel, you may be able to upload Content to the Service. You may use your Content to promote your business or artistic enterprise. If you choose to upload Content, you must not submit to the Service any Content that does not comply with this Agreement or the law. For example, the Content you submit must not include third-party intellectual property (such as copyrighted material) unless you have permission from that party or are otherwise legally entitled to do so. You are legally responsible for the Content you submit to the Service. We may use automated systems that analyze your Content to help detect infringement and abuse, such as spam, malware, and illegal content.
 
 **Rights you Grant**
 --------------------
@@ -267,7 +265,7 @@ To the extent permitted by applicable law, YouTube and its Affiliates will not b
 Business Users only: If you are using the Service for the purpose of your trade, business, craft or profession, (a “Business User”), to the extent permitted by applicable law, the following limitations of liability will also apply:
 
 1.  YouTube and its Affiliates will not be responsible for lost profits, revenues, or data; loss of opportunity or anticipated savings; indirect or consequential losses, or punitive damages (in all cases whether such losses were foreseeable or not); and
-2.  YouTube and its Affiliates’ total liability for any claims arising from or relating to the Service is limited to the greater of: (a) the amount of revenue that YouTube has paid to you from your use of the Service in the 12 months before the date of your notice, in writing to YouTube, of the claim and (b) €500, whichever is higher.
+2.  YouTube and its Affiliates’ total liability for any claims arising from or relating to the Service is limited to the greater of: (a) the amount of revenue that YouTube has paid to you from your use of the Service in the 12 months before the date of your notice, in writing to YouTube, of the claim and (b) £500, whichever is higher.
 
 **Third-Party Links**
 ---------------------
@@ -305,6 +303,6 @@ If you do not comply with this Agreement and we do not take action immediately, 
 **Governing Law**
 -----------------
 
-If you live in the European Economic Area, or Switzerland, this Agreement, and your relationship with YouTube under this Agreement, will be governed by the laws of your country of residence, and legal proceedings may be brought in your local courts.
+If you live in the United Kingdom this Agreement, and your relationship with YouTube under this Agreement will be governed by the laws of your country of residence, and legal proceedings may be brought in your local courts.
 
-#### Effective as of June 1, 2021 ([view previous version](https://www.youtube.com/t/terms?archive=20210317))
+#### Effective as of 1 June 2021 ([view previous version](https://www.youtube.com/t/terms?archive=20210317))
