@@ -418,6 +418,7 @@ The open source software platform that runs everywhere from the smartphone, the 
     -------------------------------------
     
     *   [Your subscriptions](https://ubuntu.com/advantage)
+    *   [Account users](https://ubuntu.com/advantage/users)
     *   [Community support](https://ubuntu.com/support/community-support)
 *   [Pricing](https://ubuntu.com/pricing)
     -------------------------------------
