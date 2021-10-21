@@ -1,14 +1,14 @@
 Google Terms of Service
 =======================
 
-Effective 31 March 2020 | [Archived versions](https://policies.google.com/terms/archive?hl=en-GB) | [Download PDF](https://www.gstatic.com/policies/terms/pdf/20200331/ba461e2f/google_terms_of_service_en-GB_eu.pdf)
+Effective 31 March 2020 | [Archived versions](https://policies.google.com/terms/archive?hl=en-GB) | [Download PDF](https://www.gstatic.com/policies/terms/pdf/20200331/ba461e2f/google_terms_of_service_en-GB_gb.pdf)
 
 What’s covered in these terms
 -----------------------------
 
 ### We know it’s tempting to skip these Terms of Service, but it’s important to establish what you can expect from us as you use Google [services](https://policies.google.com/terms?hl=en-GB#footnote-services), and what we expect from you.
 
-These Terms of Service reflect [the way that Google’s business works](https://about.google/intl/en-GB_RO/how-our-business-works), the laws that apply to our company, and [certain things that we’ve always believed to be true](https://www.google.com/about/philosophy.html?hl=en_GB). As a result, these Terms of Service help define Google’s relationship with you as you interact with our services. For example, these terms include the following topic headings:
+These Terms of Service reflect [the way that Google’s business works](https://about.google/intl/en-GB_GB/how-our-business-works), the laws that apply to our company, and [certain things that we’ve always believed to be true](https://www.google.com/about/philosophy.html?hl=en_GB). As a result, these Terms of Service help define Google’s relationship with you as you interact with our services. For example, these terms include the following topic headings:
 
 *   [What you can expect from us](https://policies.google.com/terms?hl=en-GB#toc-what-you-expect), which describes how we provide and develop our services
 *   [What we expect from you](https://policies.google.com/terms?hl=en-GB#toc-what-we-expect), which establishes certain rules for using our services
@@ -22,14 +22,14 @@ Besides these terms, we also publish a [Privacy Policy](https://policies.google.
 Service provider
 ----------------
 
-In the European Economic Area (EEA) and Switzerland, Google [services](https://policies.google.com/terms?hl=en-GB#footnote-services) are provided by, and you’re contracting with:
+Google [services](https://policies.google.com/terms?hl=en-GB#footnote-services) are provided by, and you’re contracting with:
 
-Google Ireland Limited  
-incorporated and operating under the laws of Ireland (Registered Number: 368047)  
+Google LLC  
+organised under the laws of the State of Delaware, USA, and operating under the laws of the USA  
   
-Gordon House, Barrow Street  
-Dublin 4  
-Ireland
+1600 Amphitheatre Parkway  
+Mountain View, California 94043  
+USA
 
 Age requirements
 ----------------
@@ -60,7 +60,7 @@ Contents
 Your relationship with Google
 =============================
 
-These terms help define the relationship between you and Google. Broadly speaking, we give you permission to use our [services](https://policies.google.com/terms?hl=en-GB#footnote-services) if you agree to follow these terms, which reflect [how Google’s business works and how we earn money](https://about.google/intl/en-GB_RO/how-our-business-works). When we speak of 'Google', 'we', 'us' and 'our', we mean Google Ireland Limited and its [affiliates](https://policies.google.com/terms?hl=en-GB#footnote-affiliates).
+These terms help define the relationship between you and Google. Broadly speaking, we give you permission to use our [services](https://policies.google.com/terms?hl=en-GB#footnote-services) if you agree to follow these terms, which reflect [how Google’s business works and how we earn money](https://about.google/intl/en-GB_GB/how-our-business-works). When we speak of 'Google', 'we', 'us' and 'our', we mean Google LLC and its [affiliates](https://policies.google.com/terms?hl=en-GB#footnote-affiliates).
 
 What you can expect from us
 ---------------------------
@@ -189,7 +189,7 @@ Many [organisations](https://policies.google.com/terms?hl=en-GB#footnote-organiz
 *   an authorised representative of that organisation must agree to these terms
 *   your organisation’s administrator may assign a Google Account to you. That administrator might require you to follow additional rules and may be able to access or disable your Google Account.
 
-If you’re based in the European Union, these terms don’t affect the rights that you may have as a [business user](https://policies.google.com/terms?hl=en-GB#footnote-business-user) of online intermediation services – including online platforms such as Google Play – under the [EU Platform-to-Business Regulation](https://policies.google.com/terms?hl=en-GB#footnote-eu-platform-to-business).
+If you’re based in the United Kingdom, these terms don’t affect the rights that you may have as a [business user](https://policies.google.com/terms?hl=en-GB#footnote-business-user) of online intermediation services – including online platforms such as Google Play – under the [EU Platform-to-Business Regulation](https://policies.google.com/terms?hl=en-GB#footnote-eu-platform-to-business).
 
 Service-related communications
 ------------------------------
@@ -275,7 +275,7 @@ If you’re a [business user](https://policies.google.com/terms?hl=en-GB#footnot
 *   indirect or consequential loss
 *   punitive damages
 
-*   Google’s total liability arising out of or relating to these terms is limited to the greater of (1) €500 or (2) 125% of the fees that you paid to use the relevant services in the 12 months before the breach
+*   Google’s total liability arising out of or relating to these terms is limited to the greater of (1) £500 or (2) 125% of the fees that you paid to use the relevant services in the 12 months before the breach
 
 If you’re legally exempt from certain responsibilities, including [indemnification](https://policies.google.com/terms?hl=en-GB#footnote-indemnify), then those responsibilities don’t apply to you under these terms. For example, the United Nations enjoys certain immunities from legal obligations and these terms don’t override those immunities.
 
@@ -305,19 +305,12 @@ If you believe that your Google Account has been suspended or terminated in erro
 
 Of course, you’re always free to stop using our services at any time. If you do stop using a service, we’d [appreciate knowing why](https://www.google.com/tools/feedback?hl=en_GB) so that we can continue improving our services.
 
-Handling requests for your data
--------------------------------
-
-Respect for the privacy and security of your data underpins our approach to responding to data disclosure requests. When we receive data disclosure requests, our team reviews them to make sure that they satisfy legal requirements and Google's [data disclosure policies](https://policies.google.com/terms/information-requests?hl=en-GB). Google Ireland Limited accesses and discloses data, including communications, in accordance with the laws of Ireland and EU law applicable in Ireland. For more information about the data disclosure requests that Google receives worldwide, and how we respond to such requests, see our [Transparency Report](https://transparencyreport.google.com/?hl=en_GB) and [Privacy Policy](https://policies.google.com/privacy?hl=en-GB).
-
 Settling disputes, governing law and courts
 -------------------------------------------
 
 For information about how to contact Google, please visit our [contact page](https://www.google.com/contact?hl=en_GB).
 
-If you’re a resident of, or an [organisation](https://policies.google.com/terms?hl=en-GB#footnote-organization) based in the European Economic Area (EEA) or Switzerland, these terms and your relationship with Google under these terms and [service-specific additional terms](https://policies.google.com/terms/service-specific?hl=en-GB), are governed by the laws of your country of residence, and you can file legal disputes in your local courts.
-
-If you’re a [consumer](https://policies.google.com/terms?hl=en-GB#footnote-consumer) living in the EEA, you may also file disputes regarding online purchases using the European Commission’s [Online Dispute Resolution](https://ec.europa.eu/consumers/odr/main/index.cfm) platform, which we accept if required by law.
+If you’re a resident of, or an [organisation](https://policies.google.com/terms?hl=en-GB#footnote-organization) based in the United Kingdom, these terms and your relationship with Google under these terms and [service-specific additional terms](https://policies.google.com/terms/service-specific?hl=en-GB), are governed by English law, and you can file legal disputes in the English courts.
 
 About these terms
 =================
@@ -349,7 +342,7 @@ An individual or entity who is not a consumer (see consumer).
 
 ### consumer
 
-An individual who uses Google services for personal, non-commercial purposes outside of their trade, business, craft or profession. This includes 'consumers' as defined in [article 2.1 of the EU Consumer Rights Directive](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32011L0083). (See business user)
+An individual who uses Google services for personal, non-commercial purposes outside of their trade, business, craft or profession. This includes 'consumers' as defined in [regulation 4 of the Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013](https://www.legislation.gov.uk/uksi/2013/3134/regulation/4/made). (See business user)
 
 ### copyright
 
