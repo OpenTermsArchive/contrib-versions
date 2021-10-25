@@ -4,7 +4,7 @@ Privacy Policy (printable version)
 General information
 -------------------
 
-*   Last updated: 5 February 2021
+*   Last updated: 22 October 2021
 *   Here we inform you about data processing in connection with the entire service XING and its applications (kununu etc.).
 *   New Work SE is the body responsible for the processing of personal data.
 *   Our Data Protection Officer is Felix Lasse.
@@ -23,11 +23,11 @@ We provide this Privacy Policy to inform you about data processing in connection
 
 #### Responsible body
 
-We, New Work SE, assume the role of controller as per the [EU General Data Protection Regulation (GDPR)](https://privacy.xing.com/en/privacy-policy/glossary/eu-gdpr). In other words, we are the legal entity that shall determine the purposes and means of the processing of [personal data](https://privacy.xing.com/en/privacy-policy/glossary/personal-data) . Our contact details are as follows: Dammtorstrasse 30, 20354 Hamburg, Germany, Tel.: +49 40 419 131-0, Fax: +49 40 419 131-11, E-mail: [info@xing.com.](mailto:info@xing.com)
+We, New Work SE, assume the role of controller as per the [EU General Data Protection Regulation (GDPR)](https://privacy.xing.com/en/privacy-policy/glossary/eu-gdpr). In other words, we are the legal entity that shall determine the purposes and means of the processing of [personal data](https://privacy.xing.com/en/privacy-policy/glossary/personal-data) . Our contact details are as follows: Am Strandkai 1, 20457 Hamburg, Germany, Tel.: +49 40 419 131-0, Fax: +49 40 419 131-11, E-mail: [info@xing.com.](mailto:info@xing.com)
 
 #### Data Protection Officer
 
-Our Data Protection Officer is Felix Lasse, Dammtorstrasse 30, 20354 Hamburg, Germany, e-mail: [Datenschutzbeauftragter@xing.com](mailto:datenschutzbeauftragter@xing.com).
+Our Data Protection Officer is Felix Lasse, Am Strandkai 1, 20457 Hamburg, Germany, e-mail: [Datenschutzbeauftragter@xing.com](mailto:datenschutzbeauftragter@xing.com).
 
 #### Processing for another purpose
 
@@ -747,6 +747,11 @@ If the "CO2 compensation" option is selected with the purchase of a ticket, the 
 
 The ticker buyer and attendee data gathered for an event (e.g. during a ticket purchase or event registration) will be accessible to the respective event organiser. This is necessary for the performance of a contract (e.g. for managing the entry at an event).  
 The event host can determine whether certain participant data are displayed on a publicly accessible attendee list. As an attendee, you are able to remove your details from the attendee list or to contact the event organiser and XING Events with regard to this matter.
+
+#### Google
+
+Certain XING features use partner technologies from Google, e.g. to generate previews when users post YouTube videos on the platform.  
+Information about this is available on [https://policies.google.com/technologies/partner-sites](https://policies.google.com/technologies/partner-sites) and in Google's Privacy Policy: [https://policies.google.com/privacy](https://policies.google.com/privacy)
 
 What rights can you exercise?
 -----------------------------
