@@ -422,6 +422,10 @@ By using any of our E-Commerce features, you acknowledge, warrant and agree that
 6.  Wix may, at any time and at its sole discretion, suspend, disable access to or remove your User Platform and/or any User Products - whether or not incorporated, published with or made a part of your User Platform at such time, without any liability to you or to any End Users, including for any Capacity Loss resulted therefrom.
     
 
+### 7.5. Apple Pay
+
+Subject to territorial restrictions, you may accept payments with Apple Pay. By using Apple Pay, you accept and agree to the [Apple Pay Platform Web Merchant Terms and Conditions](https://www.wix.com/about/termspayments-update?experiments=rightClickDebug)." As discussed, the language in blue should be a hyperlink redirecting the user to a Wix-hosted web page with the exact content that appears on [this](https://developer.apple.com/apple-pay/terms/apple-pay-web/) page from Apple Pay \[see example of how Shopify did that [here](https://www.shopify.com/legal/apple-pay)\].
+
 8\. Video Services
 ------------------
 
