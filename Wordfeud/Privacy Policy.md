@@ -137,12 +137,12 @@ For processing of personal data in relation to Bertheussen IT’s use of analyti
 
 As Bertheussen IT delivers applications used worldwide, we will store and/or transfer your personal data to our data processors and partners in and outside of EU/EEA member states and the United States in accordance with mandatory legislation and this Privacy Policy.
 
-5\. Data retention and correctness
-----------------------------------
+5\. Data retention, deletion, and correctness
+---------------------------------------------
 
 Bertheussen IT retains the data collected pursuant to this Privacy Policy for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law. Thereafter if the collected data is no longer needed for purposes specified in this Privacy Policy, Bertheussen IT deletes all aforementioned data in its possession. Bertheussen IT does not verify the correctness of personal data.
 
-You are at all times entitled to require the deletion of your personal data by sending an e-mail to [support@wordfeud.com](mailto:support@wordfeud.com). If your account is terminated, either by you or by Bertheussen IT, your personal data will be deleted.
+You are at all times entitled to require the deletion of your personal data by sending an e-mail to [support@wordfeud.com](mailto:support@wordfeud.com). You can also request deletion of your account from the Account Settings section in the Wordfeud app for iOS / Android. If your account is terminated, either by you or by Bertheussen IT, your personal data will be deleted.
 
 If your account is and remains inactive (for example if you have not used the services) for a continued period of 3 years, Bertheussen IT will delete your personal data as well as terminate your account.
 
@@ -231,4 +231,4 @@ In addition, in the event of a merger, acquisition, reorganization, bankruptcy, 
 
 Due to changes in relevant regulations and administrative practices as well as due to changes in our services, we may from time to time need to modify this Privacy Policy. An updated version will at all times be available here. Please review our Privacy Policy frequently.
 
-Last update: 31 August, 2021
+Last update: 25 October, 2021
