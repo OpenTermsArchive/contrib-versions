@@ -13,7 +13,7 @@ Report abuse
 
 If you believe that someone is violating the policies found below, [report abuse](https://support.google.com/meet/contact/abuse).   
    
-Google may disable your ability to use Meet or disable accounts that are found to be in violation of these policies. If your service has been suspended or your account has been disabled, and you believe it was a mistake, please follow these instructions on [this page](https://support.google.com/accounts/contact/disabled2).
+Google may disable your ability to use Meet or disable accounts that are found to be in violation of these policies. If your service has been suspended or your account has been disabled, and you believe it was a mistake, please follow these instructions on [this page](https://accounts.google.com/signin/v2/recoveryidentifier?fpOnly=1&hl=en&flowName=GlifWebSignIn&flowEntry=ServiceLogin).
 
 Programme policies
 ------------------
