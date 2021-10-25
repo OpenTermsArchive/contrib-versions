@@ -1,6 +1,6 @@
 [](https://www.kidsafeseal.com/certifiedproducts/roblox.html)
 
-Please find the shortened version of our Privacy Policy below. Please click the "+" in the title of each section to expand for the full details of our Privacy Policy. You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/en-us/article_attachments/4407071161108/Roblox_Privacy_Policy_2021-09-17.pdf).
+Please find the shortened version of our Privacy Policy below. Please click the "+" in the title of each section to expand for the full details of our Privacy Policy. You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/en-us/article_attachments/4408980742292/Roblox_Privacy_Policy_2021-10-22.pdf).
 
 [Expand All +](#/)
 
@@ -269,7 +269,7 @@ Please note that Roblox has not and does not sell Personal Information about you
 
 Roblox may share users’ information, including Personal Information which includes but is not limited to billing information or usernames, with our third-party agents, contractors, or service providers who are hired to perform services on Roblox’s behalf. These providers may operate or support certain functions of the Service. Below is an illustrative list of functions for which we may use third-party service providers, and the names of the providers we may use to perform these functions:
 
-1.  Account Integrity and Security (e.g., Arkose Labs);
+1.  Account Integrity and Security (e.g., Veriff, Arkose Labs);
 2.  Analytics services (e.g., Google LLC);
 3.  User Acquisition services (e.g., AppsFlyer);
 4.  Community filtering and moderation services (e.g., CommunitySift);
@@ -453,7 +453,7 @@ If you want to understand more, please review our full privacy policy.
     
     These providers may operate or support certain functions of the Service. Below is an illustrative list of functions for which we may use third party service providers and the names of the providers we may use to perform these functions:
     
-    *   Account Integrity and Security (e.g., Arkose Labs);
+    *   Account Integrity and Security (e.g., Veriff, Arkose Labs);
     *   Analytics services (e.g., Google LLC);
     *   User Acquisition services (e.g., AppsFlyer);
     *   Community filtering and moderation services (e.g., CommunitySift);
@@ -529,7 +529,7 @@ Roblox may share users’ information, including Personal Information like billi
 
 These providers may operate or support certain functions of the Service. Below is an illustrative list of functions for which we may use third party service providers and the names of the providers we may use to perform these functions:
 
-*   Account Integrity and Security (e.g., Arkose Labs);
+*   Account Integrity and Security (e.g., Veriff, Arkose Labs);
 *   Analytics services (e.g., Google LLC);
 *   User Acquisition services (e.g., AppsFlyer);
 *   Community filtering and moderation services (e.g., CommunitySift);
@@ -549,7 +549,7 @@ Roblox is based in the U.S. Your Personal Information that we collect is sent to
 
 Some of our agents and third-party service providers are located outside of Brazil, e.g. the United States. The data protection laws of the United States or other countries may not be as comprehensive or equivalent to those in Brazil. Wherever we transfer your Personal Information, we will take reasonable steps to ensure we rely on a legitimate international transfer mechanism, as set out in Brazilian data protection laws.
 
-#### 16.7. Your rights as a Data Subject
+#### 7\. Your rights as a Data Subject
 
 As a data subject located in Brazil, you have rights regarding your personal data. We provide mechanisms, as detailed below, so that you have clarity and transparency in exercising your rights. Whenever necessary, our team will be ready to meet any requests.
 
@@ -581,4 +581,4 @@ We update this privacy policy sometimes, so you should review this site regularl
 
 If we make any major changes, we will let you know by email (if we have your email address) or by showing a prominent notice on this website or in app prior to the change becoming effective. If required by law, we will obtain your parent’s consent if any of these changes impact you.
 
-Last Update: September 17, 2021
+Last Update: October 22, 2021
