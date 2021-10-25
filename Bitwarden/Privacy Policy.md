@@ -228,13 +228,6 @@ The security of your Personal Information is important to us. Your data, includi
 
 We follow generally accepted standards to protect the Personal Information submitted to us, both during transmission and once it is received. You acknowledge and agree that no Internet or email transmission is ever fully secure or error free. You agree to take special care in deciding what information you send to us via email. If you have any questions about the security of your Personal Information, you can [Contact Us](https://bitwarden.com/privacy/#_b8cr19hq076a).
 
-Security
---------
-
-The security of your Personal Information is important to us. Your data, including Personal Information, is never sent to the Bitwarden cloud servers without first being encrypted on your local device using AES 256 bit encryption. In addition, Bitwarden encrypts the transmission of that information using secure socket layer technology (SSL).
-
-We follow generally accepted standards to protect the Personal Information submitted to us, both during transmission and once it is received. You acknowledge and agree that no Internet or email transmission is ever fully secure or error free. You agree to take special care in deciding what information you send to us via email. If you have any questions about the security of your Personal Information, you can [Contact Us](https://bitwarden.com/privacy/#_b8cr19hq076a).
-
 Additional Terms
 ----------------
 
