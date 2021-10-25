@@ -44,13 +44,7 @@ What are the Purposes of the Collection of Information?
 
 1.  We use Site Information for the following purposes:
 
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](/wp-content/uploads/2021/03/privacy-policy-1.png)
-
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](/wp-content/uploads/2021/03/privacy-policy-2.png)
+![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 Sharing Information with Third Parties
 
