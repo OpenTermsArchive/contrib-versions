@@ -144,6 +144,10 @@ We do not allow content that:
 
 We do not allow content that:
 
+*   helps users to mislead others.
+    
+    **Examples**: Creating fake or false documents such as passports, diplomas, or accreditation; sale or distribution of term papers, paper-writing or exam-taking services; information or products for passing drug tests
+    
 *   promotes any form of hacking or cracking and/or provides users with instructions, equipment, or software that tampers with or provides unauthorized access to devices, software, servers, or websites.
     
     **Examples**: Pages or products that enable illegal access of cell phones and other communications or content delivery systems or devices; products or services that bypass copyright protection, including circumvention of digital rights management technologies; products that illegally descramble cable or satellite signals in order to get free services; pages that assist or enable users to download streaming videos if prohibited by the content provider
