@@ -1,5 +1,5 @@
-Google Voice Acceptable Use Policy
-==================================
+Voice Acceptable Use Policy
+===========================
 
 Our policies play an important role in maintaining a positive experience for our users. Please follow these policies when using Google Voice. When we identify a potential policy violation, we may review it and take action, including limiting or terminating a user’s access to Google Voice.
 
@@ -9,7 +9,7 @@ Do not send or facilitate the transmission of spam, large numbers of commercial 
 
 *   sending commercial or promotional messages to a large number of users, or sending messages in bulk;
 *   sending messages via an automated process, such as a script;
-*   sending unwanted or mass solicitations;
+*   sending unwanted or mass solicitation;
 *   making calls in violation of laws prohibiting unsolicited marketing calls (e.g. 'do-not-call laws');
 *   data mining any web property (including Google) to find phone numbers;
 *   selling, exchanging or distributing to a third party the phone numbers of any person without such person’s consent to such disclosure;
@@ -62,10 +62,10 @@ Do not abuse the Google Voice Service, and do not interfere with other Google Vo
 
 #### Account inactivity
 
-Google may reclaim your Google Voice number (if you have one) if you have not made or received calls, or sent or received text messages, for a period of 6 months. We will not reclaim numbers that have been ported in to Google Voice or made permanent.
+Google may reclaim your Google Voice number (if you have one) if you have not placed or answered calls, or sent or opened text messages for a period of three months. We will not reclaim numbers that have been ported into Google Voice or made permanent.
 
 Other policies
 --------------
 
-*   [Privacy Policy](https://policies.google.com/privacy)
+*   [Privacy policy](https://policies.google.com/privacy)
 *   [Additional Terms of Service](https://support.google.com/voice/answer/9231816)
