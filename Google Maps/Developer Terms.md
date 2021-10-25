@@ -313,6 +313,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
             Cette base de données: [https://opendata.lillemetropole.fr/explore/dataset/vlille-realtime/](https://opendata.lillemetropole.fr/explore/dataset/vlille-realtime/) est disponible sous [https://www.etalab.gouv.fr/wp-content/uploads/2014/05/Licence\_Ouverte.pdf.](https://www.etalab.gouv.fr/wp-content/uploads/2014/05/Licence_Ouverte.pdf)
             
+        *   Métropole Aix-Marseille-Provence : [source](https://transport.data.gouv.fr/datasets/reseaux-de-transports-en-commun-de-la-metropole-daix-marseille-provence-et-des-bouches-du-rhone/)
     10.  **Germany**
         *   Bundesamt für Kartographie und Geodäsie - © Vermessungsverwaltungen der Bundesländer und Bundesamt für Kartographie und Geodäsie
             
