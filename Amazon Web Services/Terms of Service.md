@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-#### Last Updated: October 5, 2021
+#### Last Updated: October 26, 2021
 
 #### 1\. Universal Service Terms (Applicable to All Services)
 
@@ -35,13 +35,13 @@ If, as of the time of a change of the AWS Contracting Party responsible for your
 
 **1.13.** If you are a customer that is subject to the French Politique générale de sécurité des systems d’information de santé (PGSSI-S), you agree that your use of the Services complies with the PGSSI-S.
 
-**1.14.** Data Protection.
+**1.14. Data Protection.**
 
 **1.14.1** These Service Terms incorporate the [AWS GDPR Data Processing Addendum](https://d1.awsstatic.com/legal/aws-gdpr/AWS_GDPR_DPA.pdf) (“DPA”), when the GDPR applies to your use of the AWS Services to process Customer Data (as defined in the DPA).The DPA is effective as of 25 May 2018 and replaces and supersedes any previously agreed data processing addendum between you and AWS relating to the Directive 95/46/EC.
 
 **1.14.2** These Service Terms incorporate the [AWS Supplementary Addendum](https://d1.awsstatic.com/Supplementary_Addendum_to_the_AWS_GDPR_DPA.pdf) to the DPA, when the GDPR applies to your use of the AWS Services to process Customer Data.
 
-**1.14.3** These Service Terms incorporate the Standard Contractual Clauses between controllers and processors (“[Controller-to-Processor Clauses](https://d1.awsstatic.com/Controller_to_Processor_SCCs.pdf)”) and the Standard Contractual Clauses between processors (“[Processor-to-Processor Clauses](https://d1.awsstatic.com/Processor_to_Processor_SCCs.pdf)”) approved by the European Commission Implementing Decision (EU) 2021/914 of 4 June 2021 (the “SCCs”). The SCCs will only apply when: (i) the GDPR applies to your use of the AWS Services to process Customer Data; and (ii) Customer Data is transferred from the European Economic Area (“EEA”), either directly or via onward transfer, to a country outside of the EEA not recognised by the European Commission as providing an adequate level of protection for personal data subject to GDPR (together a “Data Transfer”). When you are a controller (as defined in the GDPR), the Controller-to-Processor Clauses will apply to a Data Transfer. When you are a processor (as defined in the GDPR), the Processor-to-Processor Clauses will apply to a Data Transfer.
+**1.14.3** These Service Terms incorporate the Standard Contractual Clauses between controllers and processors (“[Controller-to-Processor Clauses](https://d1.awsstatic.com/Controller_to_Processor_SCCs.pdf)”) and the Standard Contractual Clauses between processors (“[Processor-to-Processor Clauses](https://d1.awsstatic.com/Processor_to_Processor_SCCs.pdf)”) approved by the European Commission Implementing Decision (EU) 2021/914 of 4 June 2021 (the “SCCs”). The SCCs will only apply when: (i) the GDPR applies to your use of the AWS Services to process Customer Data; and (ii) Customer Data is transferred either directly or via onward transfer, to a country outside of the European Economic Area not recognised by the European Commission as providing an adequate level of protection for personal data subject to GDPR (together a “Data Transfer”). When you are a controller (as defined in the GDPR), the Controller-to-Processor Clauses will apply to a Data Transfer. When you are a processor (as defined in the GDPR), the Processor-to-Processor Clauses will apply to a Data Transfer.
 
 **1.14.4** These Service Terms incorporate the [AWS CCPA Terms](https://d1.awsstatic.com/legal/aws-ccpa/AWS_CCPA_Terms.pdf) (“CCPA Terms”), when the CCPA applies to your use of the AWS Services to process Personal Information (as defined in the CCPA Terms).
 
@@ -199,7 +199,7 @@ Amazon CloudWatch collects and stores certain information for the Services you a
 
 **10.2.** The Reserved DB Instance program allows you to designate Amazon RDS database instances as subject to the reserved pricing and payment terms set forth on the Amazon RDS detail page on the AWS Site (each designated instance, a “Reserved DB Instance”). We may terminate the Reserved DB Instance program at any time. We may change pricing for the Reserved DB Instance program at any time, but price changes will not apply to previously designated Reserved DB Instances. Reserved DB Instances are noncancellable, and you will owe the amount charged for the Reserved DB Instance for the duration of the term you selected, even if the Agreement is terminated. Reserved DB Instances are nontransferable and all amounts paid in connection with the Reserved DB Instances are nonrefundable, except that if we terminate the Agreement other than for cause, terminate an individual Reserved DB Instance type, or terminate the Reserved DB Instance program, we will refund you a pro rata portion of any up-front fee paid in connection with any previously designated Reserved DB Instances. Upon expiration or termination of the term of a Reserved DB Instance, the Reserved DB Instance pricing will expire and standard on-demand usage prices will apply to the database instance.
 
-**10.3.** Using Oracle Software.
+**10.3. Using Oracle Software.**
 
 **10.3.1.** “License Included”. As part of the Services, you may be allowed to use certain software (including related documentation) described on the AWS Site developed and owned by Oracle America, Inc. or its affiliates (“Oracle”) and Oracle’s licensors (collectively, the “Oracle Software”). If you choose to use the Oracle Software and do not already have a license from Oracle for that Oracle Software, Oracle and its licensors require that you agree to these additional terms and conditions:
 
@@ -227,8 +227,17 @@ Amazon CloudWatch collects and stores certain information for the Services you a
 **10.4.** Using Microsoft Software. “License Included.” Use of Microsoft Software on Amazon RDS is subject to Section 5.1 above and these additional terms and conditions:
 
 *   SQL Server Web Edition may be used only to support public and Internet accessible Web pages, Web sites, Web applications, or Web services. It may not be used to support line of business applications (e.g., Customer Relationship Management, Enterprise Resource Management, and other similar applications).
-*   Microsoft is an intended third-party beneficiary of this Section 10.4, with the right to enforce its provisions.  
-    
+*   Microsoft is an intended third-party beneficiary of this Section 10.4, with the right to enforce its provisions.
+
+**10.5. Amazon RDS Custom.**
+
+**10.5.1.** RDS Custom enables you to provision and manage the database engine and operating system running on an Amazon EC2 instance. In conjunction with RDS Custom, you may use certain binaries, software, or similar media (including related support, maintenance, and documentation) developed, owned, or provided by third parties or their licensors. You agree that you have determined that your use of RDS Custom complies, and will continue to comply, with applicable licensing and support requirements. Usage of RDS Custom in violation of your agreement(s) with third parties is not authorized or permitted.
+
+Your failure to maintain your database instance within the support perimeter (as specified in the documentation) may result in Service failure for which AWS is not responsible. Your customization, copies, and use of any additional software with RDS Custom is your responsibility and may result in your RDS Custom instance falling outside the support perimeter and causing Service failure for which AWS is not responsible.
+
+**10.5.2.** Your use of certain database engines or operating systems (OS) software (including related documentation) made available to you for use with RDS Custom is subject to the applicable third party licensing requirements specified below:
+
+*   Use of a Linux OS version, such as those from Red Hat, Inc., SUSE LLC, and NVIDIA Corporation, on RDS Custom is subject to Section 5.2. above.
 
 #### 11\. Amazon Simple Notification Service (Amazon SNS)
 
