@@ -32,7 +32,7 @@ Do not create a User account or otherwise use the Site if you are not authorized
 
 1.4 **Additional Terms.** 
 
-These Terms refer to and incorporate the following additional terms, and, by accepting these Terms, you also agree to these additional terms, which are incorporated by reference: [**Catalog Rules**](https://.vinted.com/catalog-rules), [**Forum Rules**](https://.vinted.com/forum-rules)**,** and [**Price List**](https://.vinted.com/pricelist)**.** Any violation of these additional terms is a breach of this Agreement. (In the event of any conflict between the provisions of such additional terms and the provisions of these Terms, the provisions in these Terms shall prevail.) 
+These Terms refer to and incorporate the following additional terms, and, by accepting these Terms, you also agree to these additional terms, which are incorporated by reference: [**Catalog Rules**](https://www.vinted.com/catalog-rules), [**Forum Rules**](https://www.vinted.com/forum-rules)**,** and [**Price List**](https://www.vinted.com/pricelist)**.** Any violation of these additional terms is a breach of this Agreement. (In the event of any conflict between the provisions of such additional terms and the provisions of these Terms, the provisions in these Terms shall prevail.) 
 
 Additionally, certain features of the Site utilize tools and services provided by third parties, and, in some circumstances, such tools and services have separate terms and conditions. For example, if you use the e-wallet feature, you must agree to [terms and conditions](https://www.adyen.com/legal/terms-and-conditions) between you and ADYEN N.V. When third party tools and services have separate terms and conditions, the Site will provide you with a link to the applicable terms and conditions, which you must accept and agree to comply with in order to use such tool and/or service.
 
@@ -50,17 +50,17 @@ When the following capitalized terms are used in these Terms, they have the defi
 
 **Buyer** – means any User who buys or wishes to buy one or more Item(s) on the Site.
 
-[**Buyer Protection**](https://www.vinted.co.uk/help/550-buyer-protection?access_channel=hc_search) – means the Buyer protection service provided for a fee (payable by the Buyer) to Buyers by VINTED when a purchase is made using the “Buy now” button on the Site; please see the description of [Buyer Protection](https://.vinted.com/help/550-buyer-protection?access_channel=hc_search) on our website for more details regarding the features of this service. 
+[**Buyer Protection**](https://www.vinted.com/help/550-buyer-protection?access_channel=hc_search) – means the Buyer protection service provided for a fee (payable by the Buyer) to Buyers by VINTED when a purchase is made using the “Buy now” button on the Site; please see the description of [Buyer Protection](https://.vinted.com/help/550-buyer-protection?access_channel=hc_search) on our website for more details regarding the features of this service. 
 
 **Catalog** – means the electronic catalog of Items that Sellers have made available to sell, exchange, or donate via the Site; the catalog has different sections for different categories of Items.
 
-**Catalog Rules** – means the rules for the Catalog, including what Items Users may list on the Site; the Catalog Rules may be updated by VINTED from time to time and the current [**Catalog Rules**](https://.vinted.com/catalog-rules) are available on the Site.
+**Catalog Rules** – means the rules for the Catalog, including what Items Users may list on the Site; the Catalog Rules may be updated by VINTED from time to time and the current [**Catalog Rules**](https://www.vinted.com/catalog-rules) are available on the Site.
 
 **Checkout** – means the checkout process available to Buyers to purchase Items on the Site; the process (i) is initiated when a Buyer clicks on the “Buy now” button, (ii) requires the Buyer to choose a payment method and specify a delivery address, and (iii) is concluded when the Buyer clicks the “Pay now” button on the checkout page. 
 
 **Forum** – means the area of the Site where Users may publicly communicate with each other subject to complying with the Forum Rules.
 
-**Forum Rules** – means the rules for the Forum, including what Users may upload/post on the Site; the Forum Rules may be updated by VINTED from time to time and the current [**Forum Rules**](https://.vinted.com/forum-rules) are available on the Site.
+**Forum Rules** – means the rules for the Forum, including what Users may upload/post on the Site; the Forum Rules may be updated by VINTED from time to time and the current [**Forum Rules**](https://www.vinted.com/forum-rules) are available on the Site.
 
 **Integrated Payment Service** – means the online payment service for Items provided by ADYEN N.V. 
 
@@ -74,11 +74,11 @@ When the following capitalized terms are used in these Terms, they have the defi
 
 **News** – means content shared by VINTED on the Site, including news about special offers, contests, games, promotions, and announcements about new Services available on the Site.
 
-**Price List** – means the document (i) showing the [prices for Additional Services](https://www.vinted.co.uk/pricelist) (or, for services that don’t have a fixed price, the manner in which fees are calculated) and for Buyer Protection and (ii) identifying any additional terms applicable to such services; as described in these Terms, the Price List may be updated by VINTED from time to time and the current [Price List](http://www.vinted.com/pricelist) is available on the Site.
+**Price List** – means the document (i) showing the [prices for Additional Services](https://www.vinted.com/pricelist) (or, for services that don’t have a fixed price, the manner in which fees are calculated) and for Buyer Protection and (ii) identifying any additional terms applicable to such services; as described in these Terms, the Price List may be updated by VINTED from time to time and the current [Price List](http://www.vinted.com/pricelist) is available on the Site.
 
 **Private Messages** – means communication by an exchange of private messages between Users via the Site’s messaging system where the messages are not publicly displayed on the Site.
 
-**Privacy Policy** – means the [document](http://www.vinted.co.uk/privacy-policy) that describes how VINTED collects, uses, stores, and transfers personal data and other important information of a Visitor or a User; the current [Privacy Policy](http://vinted.com/privacy-policy) is available on the Site.
+**Privacy Policy** – means the [document](http://www.vinted.com/privacy-policy) that describes how VINTED collects, uses, stores, and transfers personal data and other important information of a Visitor or a User; the current [Privacy Policy](http://vinted.com/privacy-policy) is available on the Site.
 
 **Professional Seller(s)** – means any person who buys, sells, exchanges, or donates goods/items for commercial purposes.
 
@@ -118,7 +118,7 @@ When the following capitalized terms are used in these Terms, they have the defi
 
 3.4 **Modifying a Listing.** The Seller who has listed an Item may withdraw the Item or amend the Listing (including the price) anytime before a Buyer clicks on the “Buy now” button for such Item.
 
-3.5 **Additional Services.** The Seller may decide to purchase Additional Services, such as services designed to improve the visibility of their Items on the Site. Details about Additional Services (including pricing) are provided in the [Price List.](https://www.vinted.co.uk/pricelist)
+3.5 **Additional Services.** The Seller may decide to purchase Additional Services, such as services designed to improve the visibility of their Items on the Site. Details about Additional Services (including pricing) are provided in the [Price List.](https://www.vinted.com/pricelist)
 
 **4\. BUYING ITEMS ON THE SITE** 
 
@@ -143,7 +143,7 @@ When the following capitalized terms are used in these Terms, they have the defi
 
 (i) The Buyer and Seller can resolve the issue between themselves in their Private Messages and VINTED will not interfere. 
 
-(ii) If the Buyer and the Seller are unable to resolve the issue directly, the Buyer or the Seller can escalate the issue to VINTED by contacting VINTED’s Customer Support from their Private Message. After VINTED has reviewed the issue, if VINTED agrees that the Item indeed does not substantially comply with the description provided by the Seller in the Item listing or that the item was damaged during transit, VINTED will cancel the Transaction and instruct ADYEN N.V. to issue a refund to the Buyer after the Buyer confirms that the Item has been shipped back to the Seller. VINTED does not provide return shipping services. Shipping costs for returning an Item are the responsibility of the Buyer, unless the Buyer and the Seller agree otherwise. If the Buyer does not send the Item back within the period stipulated by VINTED, the Buyer may not be eligible to receive a refund under [Buyer Protection](https://www.vinted.fr/help/550-buyer-protection?access_channel=hc_search). If VINTED determines that there are strong indications that the received Item is a counterfeit, then VINTED may decide, in its sole discretion, that the Buyer does not need to send back the Item in order to get a refund and the Buyer and the Seller will respect such decision.
+(ii) If the Buyer and the Seller are unable to resolve the issue directly, the Buyer or the Seller can escalate the issue to VINTED by contacting VINTED’s Customer Support from their Private Message. After VINTED has reviewed the issue, if VINTED agrees that the Item indeed does not substantially comply with the description provided by the Seller in the Item listing or that the item was damaged during transit, VINTED will cancel the Transaction and instruct ADYEN N.V. to issue a refund to the Buyer after the Buyer confirms that the Item has been shipped back to the Seller. VINTED does not provide return shipping services. Shipping costs for returning an Item are the responsibility of the Buyer, unless the Buyer and the Seller agree otherwise. If the Buyer does not send the Item back within the period stipulated by VINTED, the Buyer may not be eligible to receive a refund under [Buyer Protection](https://www.vinted.com/help/550-buyer-protection?access_channel=hc_search). If VINTED determines that there are strong indications that the received Item is a counterfeit, then VINTED may decide, in its sole discretion, that the Buyer does not need to send back the Item in order to get a refund and the Buyer and the Seller will respect such decision.
 
 (iii) If the Buyer and the Seller resolve the issue privately after having already contacted VINTED’s Customer Support, the Users must inform VINTED (by contacting VINTED’s Customer Support) that the issue has been resolved.
 
@@ -265,7 +265,7 @@ If any Item that is sent by Custom Shipping is lost or damaged in the shipping p
 
 **8\. PAYING FOR ITEMS** 
 
-8.1 [**Price List.**](https://.vinted.com/pricelist) VINTED is authorized to collect fees for the Services in accordance with the prices indicated in the [Price List](https://www.vinted.co.uk/pricelist). VINTED may, in its sole discretion, update the Price List from time to time (and updates may include price changes). The updated Price List shall become effective and replace the prior Price List at the time of posting or such other time as may be indicated by VINTED. If you do not agree with or accept the updated Price List, you can choose to not access and use the Site, to terminate your relationship with VINTED, and to close your User account (as further described in Section 16.1). You will be deemed to have accepted the updated Price List if you continue to access and use the Site after the updated Price List becomes effective; however, Price List changes will not apply to ongoing Transactions (i.e., Transactions for which a Buyer has already made a payment).
+8.1 [**Price List.**](https://www.vinted.com/pricelist) VINTED is authorized to collect fees for the Services in accordance with the prices indicated in the [Price List](https://www.vinted.co.uk/pricelist). VINTED may, in its sole discretion, update the Price List from time to time (and updates may include price changes). The updated Price List shall become effective and replace the prior Price List at the time of posting or such other time as may be indicated by VINTED. If you do not agree with or accept the updated Price List, you can choose to not access and use the Site, to terminate your relationship with VINTED, and to close your User account (as further described in Section 16.1). You will be deemed to have accepted the updated Price List if you continue to access and use the Site after the updated Price List becomes effective; however, Price List changes will not apply to ongoing Transactions (i.e., Transactions for which a Buyer has already made a payment).
 
 8.2 **Currency; Taxes.** All prices on the Site are expressed in United States Dollars (USD) and do not include applicable taxes. The final amount of applicable taxes will be shown to the User during Checkout.
 
@@ -294,7 +294,7 @@ If any review that has been published on the Site is inappropriate or abusive or
 
 Only Users may write and post reviews on the Site. Visitors do not have the right to write and post reviews on the Site.
 
-9.3 **Forum.** Both Users and Visitors may consult the Forum, but only Users may post messages to the Forum. Before using the Forum, each User and Visitor must read the Forum Rules. Users and Visitors must comply with the Forum Rules when using the [Forum](http://www.vinted.co.uk/forum-rules). Users and Visitors are responsible for the messages they post in the Forum, and Users and Visitors should not share any confidential or private information in the Forum. VINTED is not responsible for Content in the Forum (or for what Users and Visitors do with such Content). VINTED is not responsible if the identity of a User who has posted a message or a topic in the Forum is made public.
+9.3 **Forum.** Both Users and Visitors may consult the Forum, but only Users may post messages to the Forum. Before using the Forum, each User and Visitor must read the Forum Rules. Users and Visitors must comply with the Forum Rules when using the [Forum](http://www.vinted.com/forum-rules). Users and Visitors are responsible for the messages they post in the Forum, and Users and Visitors should not share any confidential or private information in the Forum. VINTED is not responsible for Content in the Forum (or for what Users and Visitors do with such Content). VINTED is not responsible if the identity of a User who has posted a message or a topic in the Forum is made public.
 
 **10\. VISITORS’ AND USERS’ RESPONSIBILITIES**
 
