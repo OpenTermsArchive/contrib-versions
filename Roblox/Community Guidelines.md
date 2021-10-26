@@ -149,7 +149,7 @@ We expect all Robloxians to treat one another with kindness. This means striving
     *   Inflammatory content related to real world border, territorial, or jurisdictional relationships  
           
         
-15.  **Real-World Tragedy Events**  
+15.  **Real-World Tragic Events**  
     Roblox prohibits content that recreates specific real-world tragic events; mocks the victims of such events; supports, glorifies, or promotes the perpetrators; or capitalizes on these events for commercial purposes. Real world tragic events include:
     *   Mass shootings and domestic terrorism
     *   Specific, real world, natural disaster events
@@ -169,7 +169,7 @@ We expect all Robloxians to treat one another with kindness. This means striving
     *   Excessive loudness, screaming, or high-pitched noises that disrupts others’ experience  
           
         
-18.  **Threats or Abuse of Roblox Employees or Affiliates**  
+18.  **Abuse of Roblox Employees or Affiliates**  
     Roblox expects its users to treat all Roblox employees, contractors, or affiliates with kindness and respect. Mistreating Roblox employees, contractors, or their families in any form, including via email, off-platform, or in-person could result in the loss of your account. This includes:
     *   Threatening physical harm to an employee or contractor
     *   Threatening to share the employee or contractor’s personal information
@@ -307,6 +307,6 @@ To maintain a safe metaverse, Roblox does **not** permit:
 
 See the [Roblox Terms of Use](https://en.help.roblox.com/hc/en-us/articles/115004647846) for more information.
 
-**Last Updated**: October 6, 2021
+**Last Updated**: October 26, 2021
 
 [Return to top](#article-container)
