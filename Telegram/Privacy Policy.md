@@ -125,9 +125,11 @@ We may also store some aggregated metadata to create Telegram features (see [sec
 
 We may use some aggregated data about how you use Telegram to build useful features. For example, when you open the Search menu, Telegram displays the people you are more likely to message in a box at the top of the screen. To do this, we calculate a rating that shows which people you message frequently. A similar rating is calculated for inline bots so that the app can suggest the bots you are most likely to use in the attachment menu (or when you start a new message with “@”). To turn this feature off and delete the relevant data, go to Settings > Privacy & Security > Data Settings and disable “Suggest Frequent Contacts”.
 
-#### [](#5-6-no-ads)5.6. No Ads
+#### [](#5-6-no-ads-based-on-user-data)5.6. No Ads Based on User Data
 
 Unlike other services, we don't use your data for ad targeting or other commercial purposes. Telegram only stores the information it needs to function as a secure and feature-rich cloud service.
+
+Telegram offers a [tool](https://promote.telegram.org/) for advertisers to promote their messages in [public one-to-many channels](https://telegram.org/tour/channels), but these sponsored messages are based solely on the topic of the public channels in which they are shown. No user data is mined or analyzed to display ads or sponsored messages.
 
 ### [](#6-bot-messages)6\. Bot Messages
 
@@ -246,6 +248,10 @@ We will review and may update this Privacy Policy from time to time. Any changes
 
 *   Added [3.5. Location Data](#3-5-location-data).
 *   Improved structure, moving 3.3.5 to [3.4](#3-4-phone-number-and-contacts) and 3.3.6 to [3.6](#3-6-cookies).
+
+**October 26, 2021**
+
+*   Expanded [5.6. No Ads Based on User Data](#5-6-no-ads-based-on-user-data) with information about [sponsored messages in public channels](https://t.me/durov/153).
 
 Important changes made to this Privacy Policy will be notified to you via Telegram.
 
