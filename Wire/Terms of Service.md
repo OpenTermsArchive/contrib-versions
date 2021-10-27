@@ -134,20 +134,6 @@ c. The deletion of, corruption of, or failure to store any materials, informatio
 
 **Because some states or jurisdictions do not allow the exclusion or the limitation of liability for consequential or incidental damages, in such states or jurisdictions, the liability of the Company and its Related Parties shall be limited to the fullest extent permitted by law.**
 
-**The following section limits our liability. Please read it carefully.**
-
-13.1 To the maximum extent permitted by applicable law, the Company, its affiliates, licensors and business partners (collectively, the **“Related Parties”**) shall not be liable to you, under any contract, tort (including negligence), strict liability or other legal or equitable theory, for:
-
-a. Any direct, indirect, incidental, consequential, special or exemplary damages, including loss of profits, use, data or goodwill, arising out of or in any way connected with access to or use of the Apps, the Site and/or the Service, even if the Company and/or the Related Parties have been advised or should have been aware of the possibility of any such losses or damages;
-
-b. The cost of procurement of substitute goods, services or technology; or
-
-c. The deletion of, corruption of, or failure to store any materials, information or data maintained by or through your use of the Apps, the Site and/or the Service.
-
-13.2 Without limiting the foregoing, in no case shall the liability of the Company or any of the Related Parties exceed one hundred dollars ($100).
-
-**Because some states or jurisdictions do not allow the exclusion or the limitation of liability for consequential or incidental damages, in such states or jurisdictions, the liability of the Company and its Related Parties shall be limited to the fullest extent permitted by law.**
-
 ### 14\. Indemnification
 
 You agree to indemnify, defend and hold the Company and the Related Parties harmless from any and all claims, demands, damages or other losses, including without limitation reasonable attorneys’ fees, resulting from or arising out of (i) your use of the Apps, the Site and/or the Service, (ii) the Submitted Content, (iii) your inability to use the Service, including your inability to contact Emergency Services or any interaction with Emergency Services, or (iv) your breach of this ToU or any other policies that the Company may issue for the Apps, the Site and/or the Service from time to time.
