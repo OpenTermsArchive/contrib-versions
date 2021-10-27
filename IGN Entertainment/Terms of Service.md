@@ -1,11 +1,9 @@
-Terms of Use
-============
+Ziff Davis, LLC Terms Of Use
+============================
 
-Effective April 14, 2020
+**Effective April 14, 2020** – [Version Française](http://www.ziffdavis.com/terms-of-use-f)
 
-[Version Française](http://www.ziffdavis.com/terms-of-use-f)
-
-Note: The Ziff Davis Terms of Use have been updated. Please review the updated Terms of Use carefully before using the Ziff Davis Services. By using any of the Ziff Davis Services, you consent to the terms of the updated Terms of Use.
+#### **Note: The Ziff Davis Terms of Use have been updated. Please review the updated Terms of Use carefully before using the Ziff Davis Services. By using any of the Ziff Davis Services, you consent to the terms of the updated Terms of Use.**
 
 PLEASE READ THESE TERMS OF USE (**“TERMS”**) CAREFULLY BECAUSE THEY DESCRIBE YOUR RIGHTS AND RESPONSIBILITIES AND, TOGETHER WITH ALL THE OTHER TERMS AND CONDITIONS REFERRED TO BELOW, FORM A LEGALLY BINDING AGREEMENT BETWEEN YOU AND US REGARDING YOUR USE OF OUR WEBSITE(S) AND OTHER SERVICES.
 
@@ -15,7 +13,8 @@ PLEASE READ THESE TERMS OF USE (**“TERMS”**) CAREFULLY BECAUSE THEY DESCRIBE
 
 IF FOR ANY REASON, YOU ARE UNABLE OR UNWILLING TO AGREE TO ALL OUR TERMS OF USE, PLEASE IMMEDIATELY STOP USING OR ATTEMPTING TO USE OUR WEBSITE AND OTHER SERVICES, BECAUSE IF YOU CONTINUE, YOU WILL BE AGREEING TO EVERYTHING IN OUR TERMS OF USE.
 
-#### 1\. General
+1\. General
+-----------
 
 These Terms govern your use of the interactive websites, mobile and connected applications, software, and other online interactive features and services, including, but not limited to, emails, newsletters, forums, communities, sweepstakes and contests (collectively, the **“Services”**) operated by Ziff Davis, LLC and its subsidiaries (collectively **“Ziff Davis” “we” “us”** or **“our”**). Additional terms and conditions of use applicable to specific areas of the Services may also be posted in such areas and, together with these Terms, govern your use of those areas and are referred to collectively as the **“Agreement.”**
 
@@ -111,7 +110,8 @@ ZIFF DAVIS RESERVES THE RIGHT, AT ANY TIME, TO CHANGE ITS FEES AND/OR BILLING ME
 
 (g) Use Restrictions. The material and content on the Premium Services is for the private, non-commercial enjoyment of Premium Services Members only. Any other use is strictly prohibited. Ziff Davis spends a great deal of time and money to obtain the information appearing on our sites. You agree that you will not copy, publish, or in any way make available publicly any news, pictures, interviews, features, or any other information, content or materials from the Premium Services, without express written permission from Ziff Davis. You agree that if you do so, Ziff Davis reserves the right to cancel your subscription to the Premium Services immediately without refund. Additionally, reuse of copyrighted information (including but not limited to pictures, interviews, features, videos, audio, etc.) will be prosecuted to the fullest extent of the law.
 
-#### 2\. Your Use of Content
+2\. Your Use of Content
+-----------------------
 
 You acknowledge that the Services contain information, software, articles, reviews, content, photographs, audio and video clips, graphics, links, logos, trademarks, the “look and feel” of our websites, applications and software and other material (collectively, the **“Content”**) that are protected by copyright, trademark and/or other proprietary rights of Ziff Davis or third parties. All Content on the Services is protected by applicable copyright laws. You agree to comply with all copyright laws and any copyright notices, information, or restrictions contained in any Content available on or accessed through the Services. Users of the Services may use the Content only for their personal, noncommercial use. Businesses, organizations or other legal entities may not become Members, and are not permitted to use the Services for any purpose, including but not limited to collecting usernames and/or email addresses of Members by electronic or other means for the purpose of sending unsolicited email and unauthorized framing of, or linking to, the Services or users on the Services. **Please refer to our [Linking Policy](http://www.ziffdavis.com/ziff-davis-linking-policy/) for more information on linking and use of Content.**
 
@@ -125,7 +125,8 @@ To the extent that you provide us with any suggestions, feedback or other inform
 
 For questions regarding use of Content please email [Brand\_Licensing@ziffdavis.com.](mailto:Brand_Licensing@ziffdavis.com)
 
-#### 3\. Rules of Conduct
+3\. Rules of Conduct
+--------------------
 
 Ziff Davis has the right, but not the obligation, to investigate any illegal and/or unauthorized use of the Services and appropriate legal action may be taken, including without limitation, civil, and injunctive relief. While utilizing the Services, you may not:
 
@@ -164,7 +165,8 @@ _The above is not a complete list of illegal and/or prohibited uses of the Servi
 
 Use of the Services is subject to existing laws and legal process. Nothing contained in the Agreement shall limit our right to comply with governmental, court, and law-enforcement requests or requirements relating to your use of the Services.
 
-#### 4\. Managing Content
+4\. Managing Content
+--------------------
 
 Despite our rights outlined herein, you shall remain solely responsible for all Material you post. Ziff Davis has no obligation evaluate, to pre-screen and/or monitor the Material you post, however Ziff Davis reserves the right to edit or remove any Content or Material on the Services, in whole or in part, and to disclose any information or take any action necessary to satisfy any applicable law, regulation, legal process or governmental request or to protect the rights, property or safety of Ziff Davis, its users and the public. You understand and agree that you may be exposed to such matters and that you further waive your right to any damages (from any party) related to such exposure.
 
@@ -181,11 +183,12 @@ Ziff Davis has the right, but not the obligation, to take any of the following a
 
 You agree that Ziff Davis will not be liable to you or any third party for taking any of these actions. You understand and agree that our Services may include communications such as advertisements, service announcements and administrative messages from us or from our partners, and that these are considered part of the Services.
 
-#### 5\. Endorsement
+5\. Endorsement
+---------------
 
-ZIFF DAVIS MAY RECEIVE A COMMISSION, FEE AND/OR OTHER COMPENSATION ON SOME CLICKS OR PURCHASES MADE ON, THROUGH OR LINKED FROM THE SERVICES.
+**ZIFF DAVIS MAY RECEIVE A COMMISSION, FEE AND/OR OTHER COMPENSATION ON SOME CLICKS OR PURCHASES MADE ON, THROUGH OR LINKED FROM THE SERVICES.**
 
-THIS MEANS ZIFF DAVIS MAY RECEIVE SOME FORM OF COMPENSATION THROUGH AN ARRANGEMENT IT HAS WITH A THIRD PARTY IF YOU (i) CLICK ON CERTAIN ADS OR LINKS ON OUR WEBSITES, EMAILS OR NEWSLETTERS, OR (ii) PURCHASE A PRODUCT OR SERVICE AFTER CLICKING A LINK.
+**THIS MEANS ZIFF DAVIS MAY RECEIVE SOME FORM OF COMPENSATION THROUGH AN ARRANGEMENT IT HAS WITH A THIRD PARTY IF YOU (i) CLICK ON CERTAIN ADS OR LINKS ON OUR WEBSITES, EMAILS OR NEWSLETTERS, OR (ii) PURCHASE A PRODUCT OR SERVICE AFTER CLICKING A LINK.**
 
 Ziff Davis does not represent or endorse the accuracy or reliability of any Content or other material posted on any interactive area or elsewhere on the Services and you acknowledge that any reliance upon such Content or other material shall be at your sole risk. Any Content or other material placed on any interactive area by users represents the views of the user posting the statement, and does not represent the views of Ziff Davis.
 
@@ -195,7 +198,8 @@ Typically, we do not directly sell, resell, or license any of the products or th
 
 Please note that we may allow certain manufacturers to license, use and/or reprint a Ziff Davis trademark, logo, or a review in whole or in part, in its own marketing materials and advertisements in exchange for a license fee.
 
-#### 6\. Indemnification.
+6\. Indemnification.
+--------------------
 
 You agree to indemnify, defend and hold Ziff Davis and its affiliates, and their respective officers, directors, owners, agents, information providers and licensors (collectively, the “Ziff Davis Parties”) harmless from and against any and all claims, liability, losses, damages, costs and expenses (including attorneys’ fees) incurred by any Ziff Davis Party in connection with:
 
@@ -208,11 +212,13 @@ You agree to indemnify, defend and hold Ziff Davis and its affiliates, and their
 
 Ziff Davis reserves the right, at its own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you, and in such case, you agree to cooperate with Ziff Davis’ defense of such claim
 
-#### 7\. Termination of Service
+7\. Termination of Service
+--------------------------
 
 Ziff Davis reserves the right, in its sole discretion, to restrict, suspend or terminate your access to all or any part of the Services, including the discussion areas, at any time for any reason without prior notice or liability. Conversely, you may terminate your access to the Services at any time by immediately ceasing use of the Services. If you would like to delete a particular account on the Services, please review the  [What Can I Do to Control My Information?](https://www.ziffdavis.com/privacy-policy#control) section of the [Privacy Policy](https://www.ziffdavis.com/privacy-policy) and use the contact instructions for the particular property where you with to delete your account. Once your access terminates, you will have no right to use the Services. The terms of the Agreement shall survive any termination of your access. Ziff Davis may change, suspend or discontinue all or any aspect of the Services at any time, including the availability of any feature, database, or Content (including the discussion areas), without prior notice or liability.
 
-#### 8\. Copyright Policy
+8\. Copyright Policy
+--------------------
 
 You may not post, distribute, perform, display, transmit or reproduce in any way any copyrighted material, trademarks, or other proprietary information without obtaining the prior written consent of the owner of such proprietary rights. Ziff Davis has registered a designated agent with the Copyright Office pursuant to 17 U.S.C. §512(c). If you believe that your work has been copied and posted on the Services in a way that constitutes copyright or trademark infringement, please notify the designated agent, Ziff Davis, LLC at 114 5th Avenue 15th Floor New York, New York 10011, Attn: Legal Department fax: (212) 503-5136, or by email: ZDLegal1@ziffdavis.com and insert “Terms of Use” in the subject line.
 
@@ -250,7 +256,8 @@ In appropriate circumstances, Ziff Davis will also terminate your account if you
 
 **_Any person who knowingly misrepresents that material is infringing or that material was removed or disabled by mistake or misidentification may be subject to liability._**
 
-#### 9\. Disclaimer of Warranties; Limitation of Liability.
+9\. Disclaimer of Warranties; Limitation of Liability.
+------------------------------------------------------
 
 **_The Services and the Content are distributed on an “as is, as available” basis. None of Ziff Davis, third party vendors or content providers or their respective agents makes any warranties of any kind, either express or implied, including, without limitation, warranties of title or implied warranties of merchantability or fitness for a particular purpose, with respect to the Services, any Content or any products or services sold through the Services. Neither Ziff Davis nor any third party content provider warrants that any files available for downloading through the Services will be free of viruses or similar contamination or destructive features. Neither Ziff Davis nor any third party content provider warrants that any of the goods or services linked to or advertised in the Services comply with data protection or other relevant legislation and Ziff Davis accepts no liability whatsoever for any claim arising from such goods or services._**
 
@@ -262,15 +269,18 @@ _IN THE EVENT THAT YOU HAVE A DISPUTE WITH ANOTHER USER RELATED TO, ARISING FROM
 
 **Some jurisdictions do not allow exclusion of implied warranties or certain limitations of liability, including for incidental or consequential damages, punitive or exemplary damages, bodily or moral (reputational) damages, gross negligence, death or personal injury caused by negligence, personal injury or loss of or damage to property caused by defective products, fraud and/or fraudulent misrepresentation, or recklessness, so the above limitations or exclusions may not apply to you. In such jurisdictions, the liability of Ziff Davis, third party content providers and their respective agents shall be limited to the greatest extent permitted by applicable law.**
 
-#### 10\. Member Disputes
+10\. Member Disputes
+--------------------
 
 You are solely responsible for your interactions with other Members of the Services. Ziff Davis reserves the right, but has no obligation, to monitor disputes between you and other Members and to take action (e.g., account deletion or removal of content posted by a user) if Ziff Davis determines that there has been a violation of the Agreement or if such action is otherwise necessary or desirable, in its sole discretion.
 
-#### 11\. International Use
+11\. International Use
+----------------------
 
 We make no claims that any Material, Services or any Content is appropriate or may be downloaded outside of the United States or outside the country where such Material, Services or any Content was produced. Access to the Material, Services or any Content may not be legal in certain countries or for certain persons. If you access any Material, Services or Content from outside of the United States, you do so at your own risk and are responsible for compliance with the laws of your jurisdiction. You agree to comply with: (i) all local rules regarding user conduct on the Internet and acceptable content; and (ii) all applicable laws regarding the downloading and/or transmission of technical data and other material from or to the United States and the country in which you are located.
 
-#### 12\. No Submission of Unsolicited Ideas
+12\. No Submission of Unsolicited Ideas
+---------------------------------------
 
 Ziff Davis does not accept unsolicited ideas of any kind, including ideas for: advertising; promotions; new products, technologies, processes, or materials; marketing plans; or product names. Please do not send us any such ideas or materials relating to such ideas. This is to avoid any potential misunderstanding or dispute should our products or marketing strategies seem similar to unsolicited ideas submitted to us. If, despite this request, you do send us any unsolicited ideas or materials, we make no assurances that such ideas or materials will be treated as confidential or proprietary.
 
@@ -282,37 +292,38 @@ TO THE FULLEST EXTENT PERMITTED BY LAW, YOU AGREE THAT (I) NO ARBITRATION SHALL 
 
 YOU AGREE TO WAIVE YOUR RIGHT TO A JURY TRIAL AND UNDERSTAND THAT, ABSENT THIS PROVISION, YOU WOULD HAVE THE RIGHT TO SUE IN COURT. THE SCOPE OF THIS WAIVER IS INTENDED TO BE ALL-ENCOMPASSING OF ANY AND ALL DISPUTES THAT MAY BE FILED IN ANY COURT AND THAT RELATE TO THE SUBJECT MATTER OF THIS AGREEMENT, INCLUDING, WITHOUT LIMITATION, CONTRACT CLAIMS, TORT CLAIMS AND ALL OTHER COMMON LAW AND STATUTORY CLAIMS.
 
-You may opt out of this agreement to arbitrate. If you opt out in accordance with this Section, neither you nor Ziff Davis can require the other to participate in an arbitration proceeding. To opt out, you must notify Ziff Davis in writing within thirty (30) days of the date that you first became subject to this arbitration provision. You must use this address to opt out:
-
-Ziff Davis, LLC  
+You may opt out of this agreement to arbitrate. If you opt out in accordance with this Section, neither you nor Ziff Davis can require the other to participate in an arbitration proceeding. To opt out, you must notify Ziff Davis in writing within thirty (30) days of the date that you first became subject to this arbitration provision. You must use this address to opt out: Ziff Davis, LLC  
 ATTN: LEGAL: Arbitration Opt Out  
 114 5th Avenue 15th Floor  
 New York, New York 10011
 
 You must include your name and residence address, the email address, if any, you use for your respective Ziff Davis account, and a clear statement that you want to opt out of this arbitration agreement.
 
-#### 14\. Limitation Period for Claims.
+14\. Limitation Period for Claims.
+----------------------------------
 
 You agree that regardless of any statute or law to the contrary, any claim or cause of action arising out of or related to use of our sites or the Agreement must be filed within one (1) year after such claim or cause of action arose or be forever barred.
 
-#### 15\. Miscellaneous
+15\. Miscellaneous
+------------------
 
 We may be required by international, state or federal law to notify you of certain events. You hereby acknowledge and consent that such notices will be effective upon our posting them on our sites or delivering them to you through e-mail. Subject to the arbitration provision above and for all purposes of this Agreement, this Agreement shall be construed in accordance with the laws of the State of New York, without reference to principles of choice of law. You and Ziff Davis each irrevocably consent to the personal jurisdiction of the federal or state courts located in New York, New York, the Borough of Manhattan (the “Courts”) with respect to any action, suit or proceeding arising out of or related to this Agreement or to the Services (including without limitation any Content) and waive any objection to venue in any of the Courts for such an action, suit or proceeding (whether based on forum non conveniens or otherwise); additionally, you agree that you will not bring any such action, suit or proceeding in any court other than the Courts.
 
 This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof, and supersedes all previous written or oral agreements between the parties with respect to such subject matter. If any inconsistency exists between the terms of this Agreement and any additional terms and conditions posted on the Services, such terms shall be interpreted as to eliminate any inconsistency, if possible, and otherwise, the additional terms and conditions shall control. If any provision of this Agreement is held invalid, illegal or unenforceable in any respect, (i) such provision shall be interpreted in such a manner as to preserve, to the maximum extent possible, the intent of the parties, (ii) the validity, legality and enforceability of the remaining provisions shall not in any way be affected or impaired thereby, and (iii) such decision shall not affect the validity, legality or enforceability of such provision under other circumstances.
 
-#### 16\. New Jersey Residents.
+16\. New Jersey Residents.
+--------------------------
 
 If, and to the extent that New Jersey law applies, with respect to residents of New Jersey, the terms in Sections 6 (insofar as any claims may arise from, or relate to, consumer protection or fraud and/or misrepresentation, or result in attorney’s fees), 9 and 14 do not limit any rights you may have as a consumer under New Jersey law and are intended to be only as broad and inclusive as permitted by the laws of the state of your residence. Subject to the foregoing, Ziff Davis, third party content providers, and their respective agents reserve all rights, defenses, and permissible limitations under New Jersey law. Nothing in this Section shall modify the binding arbitration clause and waiver for class action and jury trial in Section 13.
 
-#### 17\. Australia Residents.
+17\. Australia Residents.
+-------------------------
 
 Nothing in these Terms (including in Sections 6, 9 and 14) limits, excludes or modifies any rights you may have under any law, including under the Australian Consumer Law (the “ACL”) and consumer guarantees under the ACL, which may not be limited, excluded or modified by agreement (including where such exclusion, restriction or modification would be illegal or void under such law).
 
-#### 18\. Privacy Policy.
+18\. Privacy Policy.
+--------------------
 
 The Ziff Davis Privacy Policy will be made available on the property from which you accessed these Terms. Such Privacy Policy is incorporated by reference into these Terms.
 
 **QUESTIONS?** _Please contact [ZDLegal1@ziffdavis.com](mailto:zdlegal1@ziffdavis.com) and insert **“Terms of Use”** in the subject line if you have any questions or comments about the Agreement, or to report user conduct violating the Agreement._
-
-Comments are closed.
