@@ -269,8 +269,8 @@ For Trackers used for advertising purposes, you can configure your device to ref
 
 If you have any questions about this Use of Cookies document or have any complaints about cookies and Tracking tools, you can contact us:
 
-1.  By sending an email to our contact email address: [\[email protected\]](https://www.happn.com/cdn-cgi/l/email-protection#);
-2.  By sending an email to our Data Protection Officer: [\[email protected\]](https://www.happn.com/cdn-cgi/l/email-protection#);
+1.  By sending an email to our contact email address: [\[email protected\]](https://www.happn.com/cdn-cgi/l/email-protection#removed);
+2.  By sending an email to our Data Protection Officer: [\[email protected\]](https://www.happn.com/cdn-cgi/l/email-protection#removed);
 3.  By sending a letter to the following postal address:
 
 For the attention of the Data Protection Officer
