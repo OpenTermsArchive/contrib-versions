@@ -228,8 +228,6 @@ Generally speaking, an opt-out allows you to direct NextRoll not to engage in a 
 
 Customers may request deletion of Customer CRM Data by visiting the privacy requests [webpage](https://www.nextroll.com/privacy/requests).
 
-**Customer CRM Data:** We are [processors](https://www.nextroll.com/terms/data-protection) and act as a [service provider](https://www.nextroll.com/terms/ccpa-service-provider) of Customer CRM data (e.g., customer lists containing clear emails) that the Customer instructs us to collect or otherwise provides to us in order for us to perform our Services. We retain this Customer CRM Data until the Customer asks us to delete this data or the agreed time for deletion set forth in our [Terms of Service](https://www.nextroll.com/terms) (whichever is earlier).
-
 **Mobile Identifiers and Cookie Identifiers:** Cookies we set expire (and are then deleted) 13 months from the last time your device accessed a Digital Property using NextRoll Technology. If you visit another Digital Property that uses our technology inside that 13-month expiry period, then the expiry period will be reset and measured from that date instead. The expiration period for mobile identifiers is controlled by you on your own device.
 
 **Personal Data Associated with Mobile and Cookie Identifiers Related to Browsing History:** We delete personal data associated with mobile and cookie identifiers after 12 months. For example, data such as a Customer’s website you visited or ads that you may have clicked.
