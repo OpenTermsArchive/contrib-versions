@@ -1,112 +1,164 @@
-##### 
+Terms of Use
+============
 
-PLEASE READ THESE SERVICE TERMS & CONDITIONS IF YOU HAVE PURCHASED JUMPSTART OR ANY OTHER LOGITECH SERVICES FROM A RESELLER (“Reseller”), TO BE DELIVERED BY LOGITECH.
+These Terms of Use (“Terms”) are a legal agreement between you and Logitech and govern your use of this Website either as a visitor, content contributor, or as a registered user. Use of, posting of information to, and access to this Website are subject to your compliance with these Terms, so please read them carefully before using this Website. Logitech reserves the right to limit or terminate your access to this Website or terminate or suspend your registration for failure to comply with the terms and policies posted on this Website, including these Terms, or for any reason at any time.
 
-**BY PURCHASING OR USING THE SERVICE YOU AGREE TO BE BOUND BY AND ACCEPT THE TERMS AND CONDITIONS HEREIN (THE “TERMS”). THESE TERMS ARE AN AGREEMENT BETWEEN YOU (“CUSTOMER”, “YOU”) AND THE LOGITECH ENTITY LISTED BELOW IN SECTION 6 (f) (“LOGITECH”, “WE”).**
+BY ACCESSING AND USING THIS WEBSITE IN ANY WAY, YOU AGREE TO BE BOUND BY THESE TERMS. IF YOU DO NOT AGREE TO ALL OF THE TERMS AND CONDITIONS, DO NOT USE OR POST INFORMATION ON THIS WEBSITE IN ANY MANNER.
 
-1. Product Covered. Reference to “Product” in these Terms means the Logitech-branded hardware items, third party hardware items bundled therewith and related Microsoft software, that are sold as new, in a standard configuration at the time of purchase, that includes the Products listed in Schedule A (Product List).
+#####   
+Modifications to these terms
 
-Non-Microsoft software or customized Microsoft software and other items not part of the bundled Product sold by the Reseller to Customer are excluded from the Terms. These Terms are valid for Products purchased in the United States or in any other countries where the Product is locally available for sale through Logitech channel partners (Covered Countries). See Exclusions section below for more details.
+Logitech may change, modify, update, add, or remove portions of these Terms at any time. Please check these Terms periodically for changes. Your continued use of this Website, following the posting of any changes, will signify your acceptance of those changes.
 
-2. Scope of Service.
+#####   
+Changes to this website
 
-a)   Upon Logitech acceptance of a valid request for support and confirmation of JumpStart service eligibility, Customer will be entitled to receive support in English during 90 (ninety) days from the purchase date of the Product in accordance with these Terms. Logitech will use commercially reasonable efforts to:
+In an effort to continually improve this Website and its usefulness to you, we may add additional services or make changes to existing services. In the event that Logitech makes such changes, these Terms shall apply to the new services and to any changes to existing services.
 
-(i) provide the Customer with access to an online ticketing system to initiate support incidents with Logitech. For greater clarity, Logitech will not provide help desk/service desk tasks to Customer;
+#####   
+User information
 
-(ii) provide the Customer with access to remote technical staff, who will work with Customer to determine an appropriate level for each incident, respond to each incident accordingly and provide incident resolution support and/or a plan of action to gain normal operations of the Product;
+To use certain parts of this Website, you will be asked to provide information about yourself, such as your first name, e-mail address, password, city, state, country zip code, or postal code. You are entirely responsible for maintaining the confidentiality of your account information, including your password, and for any and all activity that occurs under your account. You agree to notify Logitech immediately of any unauthorized use of your account or password, or any other breach of security. You may be held liable for losses incurred by Logitech or any other user of or visitor to this Website due to the use of your Logitech ID, password, or account by another person.
 
-(iii) be responsive to the Customer’s service needs Monday through Friday from 09:00 AM to 09:00 PM Eastern Standard Time for North America region, 09:00 to 19:00 Central European Time for Europe Middle East and Africa (EMEA) region, and from 3:30 AM to 07:00 PM India Standard Time for Asia Pacific region, excluding local holidays (“Local Times”). It is the intent of these Terms that Logitech will provide a first contact response within one (1) business day. Logitech does not commit to resolution times as part of the service due to the complex nature and coordination efforts within a conferencing solution deployment.
+You may not use anyone else’s Logitech ID, password, or account at any time without the express permission and consent of the holder of that Logitech ID, password, or account. Logitech cannot and will not be liable for any loss or damage arising from your failure to comply with these obligations.
 
-(iv) Customer may transfer the Terms to anyone who buys the Product during the applicable support period for the concerned service provided that Customer itself is the original purchaser and has notified Logitech in writing of such transfer with all required information (name and contact details of transferee, Logitech confirmation number and/or Product serial number) and that the support period shall not be extended from its original start date.
+#####   
+Privacy policy
 
-Logitech may add additional features, make changes to the existing services or offer new types of services to its offering, by adding these to Schedule B as the case may be (List of Services). These Terms shall apply to the new services and to any changes to existing services. The type of service applicable to Customer will be recorded in its purchase order and/or email confirmation.
+Logitech respects your desire for privacy and takes care to protect the personal information you provide us. Logitech’s privacy policy can be found at [www.logitech.com/privacy](http://www.logitech.com/en-gb/privacy). By using this Website, you are consenting to the terms of our privacy policy.
 
-b)   Exclusions. THESE TERMS ARE OF LIMITED DURATION AND COVERAGE and extend only to covered Products located within the Covered Countries as determined by Logitech. All support will be provided remotely. Logitech is not obligated to provide support for:
+Logitech has security measures in place to protect the loss, misuse, and alteration of the information under Logitech's control. These security measures are described in our privacy policy.
 
-(i) the bundled computer (such as NUC or Microsoft Surface Pro), nor for hardware devices and/or software even if shipped with the Product or sold by Reseller in bundle with the Product, other than the Logitech branded devices (such as the Smart Dock, the Tap, Conference Cam, cable extenders, Flex). Likewise, Logitech shall not provide support for any incidents with the Product that are caused by such third party devices and software not covered by the service. Logitech will include in the incident analysis issues affecting third party devices sold bundled with the Product (e.g. NUC, Microsoft Surface Pro) and provide Customer with a path to a resolution that will ultimately take place directly with the said third party (e.g. third party RMA process);
+Although Logitech has taken the steps described in our privacy policy to ensure that your personal information is delivered and disclosed only in accordance with our privacy policy, Logitech does not guarantee that the personal information you provide will not be intercepted by others and decrypted.
 
-(ii) non-Microsoft code, or code that has been customized by Microsoft, which is not included as a part of the master reference architecture (MRA); incidents with software that is not a supported software;
+#####   
+Support Forums, Blogs and Ratings & Reviews
 
-(iii) Microsoft products that are not in the mainstream support phase during the full term of these Terms. See [http://support.microsoft.com](http://support.microsoft.com/) (or a successor site that Microsoft identifies);
+Logitech has created support forums, blogs, community areas and group discussions, in the English language (at this time), so you can share your experiences, ask and/or answer questions, share reviews of Logitech products and services, and more (collectively referred to as “ Online Communities”). We appreciate that Logitech’s Online Communities reflect the diversity of its users and is an interesting place to share, learn, and interact. In keeping with this spirit of community, we have a core set of principles and guidelines in English that must be followed by all members, participants, content contributors and users. These guidelines are incorporated into these Terms, and may be reviewed at [www.logitech.com/support/guidelines](https://www.logitech.com/en-gb/tos/online-communities-guidelines.html).
 
-(iv) repair or on-site maintenance of the Products. Should the analysis of the incident reveal a defective item requiring replacement, Logitech will at a minimum provide a path to resolution such as orienting Customer to the applicable RMA process;
+#####   
+Content
 
-(v) incidents with Products that have been modified by someone else than Logitech;
+All text, graphics, user or visual interfaces, trademarks, logos, music, sounds, artwork, photographs, and computer code (“Content”), including but not limited to the design, structure, selection, coordination, expression, “look and feel,” and the arrangement of such Content, contained on this Website is owned, controlled, or licensed by Logitech. All such Content is protected by trade dress, copyright, patent and trademark laws, and various other intellectual property rights and unfair competition laws. Unless another agreement applies to particular Content (e.g., Software License Agreement, Terms of Service, etc.), Logitech hereby grants you limited permission to use the Content subject to these Terms, as long as the use of such Content is solely for your personal, non-commercial informational use.
 
-(vi) Products damaged by fire, virus, power surge or other events beyond Logitech’s reasonable control, other than through the negligence or willful misconduct of Logitech, its agents or employees;
+Unless expressly permitted in an applicable agreement or on the Content itself, none of the Content may be copied, reproduced, distributed, republished, downloaded, displayed, posted, or transmitted in any form or by any means, including but not limited to electronic, mechanical, photocopying, recording, or other means, without the prior express written permission of Logitech and/or the appropriate owner. Also, you may not “mirror” any Content contained on this Website or any other server without Logitech’s express prior written consent.
 
-(vii) incidents caused by a use of the Product for which it was not intended;
+#####   
+Posting of user content
 
-(viii) accident, misuse, or abuse of the Product or any component thereof (such as, without limitation, use of incorrect line voltages, use of incorrect fuses, use of incompatible, defective, or inferior devices, supplies or accessories, failure to follow operating instructions);
+Certain areas of this Website may allow you to post content, including your experiences, advice, recommendations, opinions, information, messages, or other material (“Your Content”). Please be aware that these areas are public and not confidential. You may only post Your Content to public areas and where you have permission to post. You may not post any content that violates these Terms or any third party rights.
 
-(ix) insufficient or defective IT infrastructure, such as but not limited to lack of internet bandwidth or power supply. Logitech will include in the incident analysis potential issues related to IT infrastructure and provide Customer with a path to resolution that will ultimately take place with a third party ;
+Logitech does not claim ownership of any of Your Content that you may post. However, by posting Your Content to public areas on the Website, you grant Logitech, its affiliates, partners, and distributors the perpetual, irrevocable, royalty-free right to use, copy, display, perform, distribute, adapt, create derivative works, sublicense, and promote Your Content in any medium and any manner whatsoever, and to use and sublicense your name, likeness, biography, voice, video, and photograph (if applicable) to attribute your postings to you. In addition to Your Content, we encourage you to provide us with feedback. You agree that we may use in any manner and without limitation all comments, advice, recommendations, suggestions, complaints, and other feedback you provide relating to this Website, Logitech products and/or services, and that Logitech will own all intellectual property that we create based upon or incorporating your feedback.
 
-(x) force majeure such as, but not limited to, lightning, flooding, tornado, hurricanes and earthquakes;
+#####   
+No unlawful or prohibited use
 
-(xi) outside of the Local Times.
+**While using this Website, you may NOT do the following:**
 
-c)   Limitation of liability. LOGITECH’S LIABILITY ARISING OUT OF OR IN CONNECTION WITH THESE TERMS AND THE SERVICE SHALL BE LIMITED TO THE AMOUNT PAID BY THE CUSTOMER FOR THE SUPPORT PROVIDED HEREUNDER OR, IF NO AMOUNT WAS PAID, TO THE THEN CURRENT MANUFACTURER SUGGESTED RETAIL PRICE FOR THE SERVICE. IN NO EVENT SHALL LOGITECH HAVE ANY LIABILITY TO CUSTOMER OR TO ANY OTHER PERSON FOR ANY DAMAGES, INCLUDING WITHOUT LIMITATION, LOST PROFITS, LOSS OR CORRUPTION OF DATA OR COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, OR FOR ANY SPECIAL, INDIRECT, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THESE TERMS , UNDER ANY THEORY OF LIABILITY, INCLUDING, WITHOUT LIMITATION, THOSE RESULTING FROM THE USE OF THE PRODUCT(S), OR THE FAILURE OF THE PRODUCT(S) TO PERFORM, THE USE OF THE SERVICE PROVIDED HEREUNDER OR FOR ANY OTHER REASON.
+*   Restrict or inhibit any other user from using and enjoying this Website
+*   Post or transmit any unlawful, fraudulent, libelous, defamatory, racist, sexist, obscene, pornographic, profane, threatening, abusive, hateful, offensive, or otherwise objectionable information of any kind
+*   Post or transmit any information constituting or encouraging conduct that would constitute a criminal offense, give rise to civil liability, constitute unauthorized practice of a professional service, or otherwise violate any local, state, national, or foreign law, including without limitation U.S. export control laws and regulations
+*   Use the “Logitech” or “Logi” names, domain names, trademarks, logos, or insignia in your user or screen name, or in any other manner, that would imply that you work with or are affiliated with Logitech
+*    Pretend that you are, or that you represent, someone else or impersonate any other person or entity
+*   Invade the privacy or violate any personal or proprietary right of any person or entity
+*   Post or transmit any advertisements, solicitations, chain letters, pyramid or Ponzi schemes, investment opportunities or schemes, or other unsolicited commercial communication (except as otherwise expressly permitted by Logitech), or engage in spamming, phishing, or denial of service attacks
+*   Post, publish, transmit, reproduce, distribute, or in any way exploit any information, software, or other material obtained through this Website for commercial purposes (other than as expressly permitted by the provider of such information, software, or other material)
+*   Use the Website to generate traffic for other sites
+*   Infringe the intellectual property rights or similar rights, including but not limited to copyrights, trademarks, and patents, of any person or entity
+*   Upload, post, publish, transmit, reproduce, or distribute in any way information, software, or other material obtained through this Website, which is protected by copyright or other proprietary right, or derivative works with respect thereto, without obtaining permission of the copyright owner or right holder 
+*   Upload, post, publish, reproduce, transmit, or distribute in any way any component of this Website itself or derivative works with respect thereto without Logitech’s prior written consent, as this Website is protected under U.S. and international copyright laws
+*   Take any action that imposes an unreasonable or disproportionately large load on the infrastructure of this Website or Logitech’s systems or networks, or any systems or networks connected to this Website or to Logitech
+*   Forge headers (headings) or otherwise manipulate identifiers in order to disguise the origin of any message or transmittal you send to Logitech on or through this Website or any service offered on or through this Website
+*   Use any robot, spider, scraper, or other automated means to access this Website or services for any purpose without our express written permission; however, this provision shall not apply to the indexing or updating of search engines
+*   Post or transmit any information or software that contains a virus, Trojan horse, worm, or other harmful component
+*   Post or transmit any information, file, or software that contains, but not limited to, a virus, Trojan horse, worm, adware, spyware, crimeware, online graffiti tagger, dropper, rootkit, keylogger, bot, or any other harmful software program or program element
 
-3. Customer Obligations.
+#####   
+Links to third party websites and services
 
-a)   Support Personnel. Customer shall designate a representative to be the Customer’s Single Point of Contact (SPOC) acting as first and focal point for all communications with Logitech during the incident management process. The SPOC shall have the authority to act on Customers’ behalf in matters regarding the service. Customer shall ensure that this person has all the necessary signing authority to approve milestones and deliverables. Customer shall notify Logitech of any change in this assignment. The SPOC shall gather all necessary information and details to classify the problem. The SPOC will open a support ticket via the available methods (web) to the dedicated specialists at Logitech support desk. The SPOC is in the Customer’s responsibility or in the responsibility of a third party commissioned by the Customer. In addition, Customer shall assign personnel who have the appropriate business and technical knowledge of the Product, the current environment or tools and the communication skills necessary to participate in the initializing of the services.
+In attempting to provide you with comprehensive and useful resources, this Website may contain links to third-party websites, which are not under the control of Logitech. Logitech is not responsible for the content of or products provided by any linked site or any link contained in a linked site, or any changes or updates to such sites. Logitech is providing these links to you only as a convenience, and the inclusion of any link does not imply that Logitech endorses, guarantees, or accepts any responsibility for the content or products on such a third-party site.
 
-b)   Information; Collaboration. Customer shall provide information needed by Logitech to complete the service. Such information shall include at a minimum: (i) Customer’s contact information including name, email, phone number, (ii) Product information including Logitech confirmation number and/or serial number of the Product (device or box), (iii) incident description. The information will be provided in accordance with the project timeline agreed upon by both parties. Customer shall timely collaborate with Logitech and may be required to perform incident determination and resolution activities as requested by Logitech. In addition and without limitation, such collaboration also includes (iv) scheduling and confirming the commitment of Customer’s resources; (v) providing, within reasonable means, access to information, data systems, networks, decisions as planned; (vi) adhering to all of the specified hardware, network and software requirements as needed; (vii) maintaining full administration permissions of any and all applicable internal environments; (viii) providing communications, training and support to end users. FAILURE TO COMPLETE CUSTOMER INFORMATION OR COLLABORATION ACTIVITIES THAT ARE REQUIRED FOR THE DELIVERY OF THE JUMPSTART SERVICE ACCORDING TO THE AGREED UPON SCHEDULE MAY RESULT IN DELAYS NOT ATTRIBUTABLE TO LOGITECH.
+In connection with your use of this Website, you may be made aware of services, products, offers, and promotions provided by third parties, and not by Logitech. If you decide to use third-party services or products, you are responsible for reviewing and understanding the terms and conditions governing any third-party service or product. You agree that the third party, and not Logitech, is responsible for the performance of the third-party services or products.
 
-c)   Software Licenses. All software, software services and subsequent releases provided to Customer or required to use the Product shall be subject to the terms and conditions of the license agreements that apply to the underlying software or to amended license terms included with the software releases. Customer is responsible for maintaining such licenses in good standing. It is Customer’s responsibIlity to decide whether to install every software release as they become available. However, Customer acknowledges that Logitech may require Customer to upgrade the software to address certain incidents.
+#####   
+No duty to monitor
 
-d)   Data Backup. Customer is responsible for Customer’s software and data. Customer agrees to implement procedures necessary to safeguard the integrity and security of Customer’s software and data from unauthorized access and to reconstruct lost or altered files.
+Logitech shall have the right, but not the responsibility, to monitor and/or remove Website content that is provided by others. While some community and other areas may be monitored for relevance, we have no obligation to prescreen any content and are not responsible for the posting of such content. We reserve the right to refuse to post, to edit submitted content, and to remove content for any reason. Further, Logitech is not responsible for any failure or delay in removing content.
 
-e)   Compliance with Laws; Export Requirements. Customer shall comply with all applicable laws and regulations. Customer acknowledges and agrees that it and Logitech are subject to regulation by US agencies and other governments, which prohibits export of the Products and of technical information to certain countries. Customer warrants that it will not export, either directly or indirectly, any Products and/or technical information without first obtaining any and all government approvals. Failure to comply with the foregoing obligations may result in delay of service or termination of these Terms.
+#####   
+Procedure for making claims of copyright infringement
 
-4. Hardware Replacement / RMA. In the event that Logitech identifies a hardware failure affecting a Logitech component, Logitech will, as part of the incident resolution, redirect Consumer to submit a Return Material Authorization (RMA) request with its reseller or if applicable submit an RMA request in Logitech’s RMA ticketing system for further validation. If the failure affects a third party, non Logitech branded component (e.g.Microsoft Surface Pro), Logitech will as part of the proposed resolution plan redirect Consumer to submit an RMA request directly with the said third party. The eligibility for RMA or any warranty claims will be validated by the competent instances and handled separately under the applicable RMA or warranty process. For the avoidance of doubt, the service according to these Terms does not include hardware repair or replacement and does not replace nor supplement any repair or replacement rights the Customers may otherwise have under the applicable Logitech or third party standard limited warranty.
+At Logitech, we respect the intellectual property of others. If you believe that your copyrighted work has been copied and is accessible on the Website in a way that constitutes copyright infringement, please contact us to report possible copyright infringement. When contacting us, please provide Logitech’s copyright agent with the following information:
 
-5. Data Privacy. Logitech privacy practices are described in our [Privacy Policy](https://www.logitech.com/en-gb/legal/product-privacy-policy.html). By using the Products, the service or providing Logitech with personal information, Customer is accepting and consenting to the practices, terms and conditions described in the Privacy Policy and in any separate privacy statements. Our Privacy Policy is incorporated by reference into these Terms.
+*   A full description of the copyrighted work or other intellectual property that you claim has been infringed
+*   An electronic or physical signature of the person authorized to act on behalf of the owner of the copyright or other intellectual property interest
+*   A description of where the material that you claim is infringing is located on this Website 
+*   Your name, address, telephone number, and e-mail address
+*   A statement by you that you have a good-faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law
+*   A statement signed by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright or intellectual property owner or are authorized to act on the copyright or intellectual property owner’s behalf
 
-6. General Terms.
+**Logitech’s agent can be reached through any of the contacts listed below:**
 
-a)   Term. These Terms and the support shall commence on the purchase date of the Product, continue for and automatically expire 90 (ninety) days thereafter.
+**In the U.S.**  
+  _Logitech Copyright Agent  
+    c/o Logitech Inc.  
+    7700 Gateway Blvd.  
+    Newark, CA 94560_
 
-b)   Claims of Confidentiality or Proprietary Rights. Customer agrees that any information or data disclosed or sent to Logitech, electronically, over the phone or otherwise, is not confidential or proprietary to Customer.
+**Outside of the U.S.**  
+  _Logitech Copyright Agent  
+    c/o Logitech Europe S.A.  
+    EPFL - Quartier de l'Innovation  
+    Daniel Borel Innovation Center  
+    CH - 1015 Lausanne_
 
-c)   Subcontracting to Third Party. Logitech reserves the right to assign or sub-contract these Terms and the service either in whole or in part to a third party designated by Logitech without notice to Customer.
+**By e-mail**   
+http://support.logitech.com/response-center
 
-d)   Modifications to the Terms. Logitech may change, modify, update, add or remove portions of these Terms at any time. Customer should check these Terms periodically for changes. Customer’s continued use of the services following the posting of any changes will signify acceptance of those changes.
+Inquiries that are not relevant to the claim of copyright infringement will not receive a response.
 
-e)   Warranty Exclusion. Logitech makes no warranty, either express or implied, but not limited to, any implied warranties of merchantability, fitness for a particular purpose. Logitech expressly disclaims any warranty.
+#####   
+WARRANTY DISCLAIMER
 
-f)   Logitech Contracting Entity. These Terms of Service are entered into by: (i) Logitech Inc. if Customer purchased the Product in North America and/or from a reseller established in North America; (ii) by Logitech Europe SA if Customer purchased the Product in EMEA (Europe Middle East Africa) and/or from a reseller established in EMEA, (iii) by Logitech Asia Pacific Ltd if Customer purchased the Product in Asia-Pacific (except Japan and China), (iv) by Logicool Co. Ltd if Customer purchased the Product in Japan, (v) by the applicable Logitech regional entity if Customer purchased the Product in any other regions.
+EXCEPT AS EXPRESSLY PROVIDED OTHERWISE AND TO THE MAXIMUM EXTENT PERMITTED BY LAW, THIS WEBSITE AND ALL MATERIALS, INFORMATION, POSTINGS, OPINIONS OR SERVICES ON THIS WEBSITE OR LINKED FROM THIS WEBSITE ARE PROVIDED “AS IS” AND “AS AVAILABLE” WITHOUT WARRANTY OF ANY KIND, AND LOGITECH AND ITS SUPPLIERS, THIRD PARTY SERVICE PROVIDERS, AND PARTNERS (HEREINAFTER COLLECTIVELY REFERRED TO AS “SUPPLIERS”) HEREBY EXPRESSLY DISCLAIM ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, AND TITLE. LOGITECH DOES NOT REPRESENT OR ENDORSE THE ACCURACY, CURRENTNESS, OR RELIABILITY OF ANY ADVICE, OPINION, STATEMENT, OR OTHER INFORMATION DISPLAYED, UPLOADED, OR DISTRIBUTED THROUGH THE WEBSITE. LOGITECH AND ITS SUPPLIERS MAKE NO WARRANTY THAT THIS WEBSITE WILL MEET YOUR REQUIREMENTS OR EXPECTATIONS; THAT ACCESS TO THIS WEBSITE OR ANY INFORMATION, POSTINGS, OPINIONS, OR SERVICES LINKED FROM THIS WEBSITE WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE; OR THAT RESULTS FROM SUCH USE WILL BE ACCURATE OR RELIABLE, OR WILL BE SUITABLE FOR YOUR PURPOSES. LOGITECH CANNOT ENSURE THAT ANY FILES OR OTHER DATA YOU DOWNLOAD FROM THIS WEBSITE WILL BE FREE OF ALL VIRUSES, MALWARE, CONTAMINATION, OR DESTRUCTIVE FEATURES, INCLUDING BUT NOT LIMITED TO ALL VIRUSES, MALWARE, TROJAN HORSES, WORMS, ADWARE, SPYWARE, CRIMEWARE, ONLINE GRAFFITI TAGGERS, DROPPERS, ROOTKITS, KEYLOGGERS, BOTS, OR OTHER HARMFUL SOFTWARE PROGRAM OR PROGRAM ELEMENTS. IN ADDITION, LOGITECH IS NOT RESPONSIBLE FOR THE CONDUCT OF ANY THIRD PARTY SERVICE PROVIDER, OR PARTNER, WHETHER ONLINE OR OFFLINE. NO ORAL OR WRITTEN INFORMATION RECEIVED BY LOGITECH, ITS SUPPLIERS, OR OBTAINED OTHERWISE WILL CHANGE THIS DISCLAIMER. Some jurisdictions do not allow these limitations, so the above limitations may not apply in your jurisdiction.
 
-g)   Governing Law; Jurisdiction. If Customer is in the U.S.A., these Terms will be exclusively governed by and construed in accordance with the laws of the United States and the State of California, without regard to or application of its choice of law rules or principles. If Customer resides outside the U.S.A., these Terms will be exclusively governed by the laws of Switzerland.
+#####   
+LIMITATION OF LIABILITY
 
-h)   Invalidity. If any portion of these Terms is held invalid, the parties agree that such invalidity will not affect the validity of the remaining portions, and the parties shall seek in good faith to agree to substitute for invalid provisions with a valid provision that most closely approximates the economic effect and intent of the invalid provision.
+YOU EXPRESSLY UNDERSTAND AND AGREE THAT LOGITECH (OR LOGITECH’S OFFICERS, DIRECTORS, INVESTORS, SUBSIDIARIES, AGENTS, ASSIGNEES, REPRESENTATIVES, SUPPLIERS, PARTNERS, OR EMPLOYEES) SHALL NOT BE LIABLE FOR ANY DIRECT DAMAGES OR ANY SPECIAL, DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES, INCLUDING BUT NOT LIMITED TO ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA, PROFITS, OR OTHER INTANGIBLE LOSSES (EVEN IF LOGITECH HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES), RESULTING FROM THE USE OF OR THE INABILITY TO USE THIS WEBSITE, REMOVAL OR TERMINATION OF THIS WEBSITE, UNAUTHORIZED ACCESS TO OR ALTERATION OF YOUR TRANSMISSIONS OR DATA, ERRORS OR OMISSIONS IN CONTENT ON THIS WEBSITE, STATEMENTS OR CONDUCT OF ANY THIRD PARTY ON THIS WEBSITE, INSTRUCTION, INFORMATION OR SERVICES PROVIDED BY OR LINKED FROM THIS WEBSITE, OR ANY OTHER MATTER RELATING TO THIS WEBSITE. IN NO EVENT SHALL LOGITECH’S AND ITS SUPPLIERS’ CUMULATIVE LIABILITY FOR ANY AND ALL CLAIMS RELATING TO THE USE OF THIS WEBSITE EXCEED THE TOTAL AMOUNT OF FEES, IF ANY, THAT YOU PAID TO LOGITECH DURING THE PRIOR YEAR FOR THE SPECIFIC SERVICE AT ISSUE, OR $100.00, WHICHEVER AMOUNT IS LESS. Some jurisdictions, such as New Jersey, do not allow these limitations, so the above limitations do not apply in New Jersey and may not apply in your jurisdiction.
 
-i)   Contacts.  
-Logitech Inc.  
-7700 Gateway Blvd.  
-CA - 94560 Newark, USA  
-  
-Logitech Europe SA  
-EPFL - Quartier de l’Innovation  
-CH - 1015 Lausanne, Switzerland
+#####   
+Indemnification
 
-Logitech revised these Terms on May 10, 2019.
+You shall indemnify, defend, and hold harmless Logitech, its affiliates, and their respective officers, employees, and agents from any and all claims, demands, damages, costs, and liabilities, including reasonable attorneys’ fees, made by any third party due to or arising out of your acts or omissions that arise from your wrongful use of this Website in violation of its terms. Logitech reserves the right to assume the exclusive defense and control of any matter otherwise subject to indemnification by you, and you agree to cooperate as fully as reasonably required in the defense of any claim. The foregoing indemnification provision shall not apply to the extent that any claims, demands, damages, costs, or liabilities, are the result of Logitech’s own negligence, fraud, willful injury or willful violation of law.
 
-  
-  
-  
+#####   
+Disclosure of use
 
-**SCHEDULE A**
+Logitech may disclose any information we have about you (including your identity), any transmittals or communications by you, and your use of this Website or any services made available on this Website if we determine that such disclosure is necessary to (1) comply with legal process, (2) comply with any investigation or complaint regarding your use of this Website, (3) enforce these Terms of Use, (4) respond to claims that any such data violated the rights of others, or (5) protect the rights, property, or personal safety of Logitech, its employees, and visitors to or users of this Website, including Logitech’s customers, and the public.
 
-**PRODUCTS LIST**
+Logitech reserves the right at all times to disclose any information that Logitech deems necessary to comply with any applicable law, regulation, legal process, or governmental request. Logitech may also disclose your information when Logitech determines that applicable law requires or permits such disclosure, including exchanging information with other companies and organizations for fraud protection purposes.
 
-● Logitech SmartDock
+#####   
+Termination
 
-● Logitech Tap
+You agree that Logitech may, in its sole discretion and without prior notice, terminate your access to the Website and/or block your future access to the Website if we determine that you have violated these Terms of Use or other agreements or guidelines that may be associated with your use of the Website, or for other reasons that may include but are not limited to (1) requests by law enforcement or other government agencies, (2) a request by you to remove your account, (3) discontinuance or material modification of the Website or any service offered on or through the Website, or (4) unexpected technical issues or problems.
 
-**SCHEDULE B**
+In the event this agreement is terminated, the restrictions regarding Content or materials appearing on the Website, and the representations and warranties, indemnities, and limitations of liabilities set forth in these Terms of Use will survive termination. In the event that you are unsatisfied with the Website or any services that may be provided by Logitech, your sole remedy is to terminate this agreement.
 
-**LIST OF SERVICES**
+If Logitech does take any legal action against you as a result of your violation of these Terms of Use, Logitech will be entitled to recover from you, and you agree to pay, all reasonable attorneys’ fees and costs of such action, in addition to any injunctive or equitable relief granted to Logitech. You agree that Logitech will not be liable to you or to any third party for termination of your access to the Website.
 
-● Logitech JumpStart ticket based incident resolution management
+#####   
+Governing law
+
+These Terms and your use of this Website will be governed by the laws of the United States and by the laws of the State of California, without regard to conflicts of law provisions; all claims and actions must be brought in the appropriate state or federal court located in Santa Clara County, California; and, you agree and submit to the exercise of personal jurisdiction of such courts for the purpose of litigating any such claim or action. You waive all defenses of lack of personal jurisdiction and venue.
+
+#####   
+Miscellaneous
+
+Logitech may assign these Terms at any time to any subsidiary, or any affiliated company, or as part of the sale to, merger with, or other transfer of Logitech to another entity. You may not assign this agreement. These Terms constitute the entire agreement between you and Logitech regarding this subject matter, and they govern your use of this Website. The failure of Logitech to exercise or enforce any right or provision of these Terms does not constitute a waiver of such right or provision. If any provision of these Terms is found to be invalid, the parties nevertheless agree that the parties’ intentions as reflected in the provision, and the other provisions of these Terms shall remain in full force and effect. Regardless of any statute or law to the contrary, except in New Jersey, any claim or cause of action arising out of or related to use of the Website or these Terms must be filed within one (1) year after such claim or cause of action arose or be forever barred.
+
+#####   
+This site is owned and operated by Logitech.
+
+Logitech revised these Terms on August 2016.
