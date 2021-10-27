@@ -643,14 +643,14 @@ Except for Proctorio's specific services offered to K-12 Institutions, Proctorio
 
 **If you are under the age of 13, please do not use Proctorio's Sites** **without explicit permission from your School Official, parent, and/or guardian.**
 
-By accessing and using Proctorio's Sites and Services, you represent and warrant that you are of the legal age to form a binding contract with Proctorio in your respective jurisdiction and that you meet the foregoing eligibility requirements. If you do not meet these requirements, you must not access or use Proctorio's Sites or Services. If Proctorio learns Proctorio has collected or received Personal Information from an individual who was ineligible to access or use the Sites or Services, Proctorio will take steps to remove such Information. If you believe Proctorio might have any Information from or about a user who is ineligible to use the Sites or Services, please contact [\[email protected\]](https://proctorio.com/cdn-cgi/l/email-protection#).
+By accessing and using Proctorio's Sites and Services, you represent and warrant that you are of the legal age to form a binding contract with Proctorio in your respective jurisdiction and that you meet the foregoing eligibility requirements. If you do not meet these requirements, you must not access or use Proctorio's Sites or Services. If Proctorio learns Proctorio has collected or received Personal Information from an individual who was ineligible to access or use the Sites or Services, Proctorio will take steps to remove such Information. If you believe Proctorio might have any Information from or about a user who is ineligible to use the Sites or Services, please contact [\[email protected\]](https://proctorio.com/cdn-cgi/l/email-protection#removed).
 
 California privacy rights 
 --------------------------
 
 **Proctorio does not sell your Personal Information to any third parties for direct marketing purposes** as defined in California Civil Code Section § 1798.83.
 
-Please contact [\[email protected\]](https://proctorio.com/cdn-cgi/l/email-protection#) for any questions regarding your Personal Information.
+Please contact [\[email protected\]](https://proctorio.com/cdn-cgi/l/email-protection#removed) for any questions regarding your Personal Information.
 
 **Proctorio does not sell Personal Information to third parties.**
 
@@ -686,7 +686,7 @@ If you are a resident of California, you have other rights under the CCPA as fol
 
 To exercise the rights described in this Privacy Policy, please submit a verifiable consumer request to us:  
 **via phone: Toll Free +1 866 948 9087**  
-via email: [\[email protected\]](https://proctorio.com/cdn-cgi/l/email-protection#) 
+via email: [\[email protected\]](https://proctorio.com/cdn-cgi/l/email-protection#removed) 
 
 Only you, or someone legally authorized to act on your behalf and registered with the California Secretary of State, may make a verifiable consumer request related to your Personal Information. You may also make a verifiable consumer request on behalf of your minor child. You may only make a verifiable consumer request for access or data portability twice within a 12-month period. The verifiable consumer request must:
 
@@ -715,7 +715,7 @@ Proctorio reserves the right to amend this CCPA privacy notice at Proctorio's di
 When you contact Proctorio regarding any of your rights under the CCPA, Proctorio will verify your identity before Proctorio provides any information. You may contact Proctorio through the following channels:
 
 **via email**:  
-[\[email protected\]](https://proctorio.com/cdn-cgi/l/email-protection#) 
+[\[email protected\]](https://proctorio.com/cdn-cgi/l/email-protection#removed) 
 
 **We do not discriminate against California residents who exercise their CCPA privacy rights.**
 
@@ -829,7 +829,7 @@ Towards this end, Proctorio takes the following actions:
 
 (c) Proctorio protects your Information with technical, contractual, administrative, and physical security safeguards in order to protect against unauthorized access, release, or use.
 
-Proctorio is SOC 2 and ISO 27001 certified and conducts regular security audits including penetration testing and vulnerability assessments. Institutions or their designated representatives may review security testing results, subject to confidentiality requirements, or conduct their own security audit of Proctorio’s data security and storage practices, subject to mutual agreement. Written requests for inspection and testing can be made to [\[email protected\]](https://proctorio.com/cdn-cgi/l/email-protection#).
+Proctorio is SOC 2 and ISO 27001 certified and conducts regular security audits including penetration testing and vulnerability assessments. Institutions or their designated representatives may review security testing results, subject to confidentiality requirements, or conduct their own security audit of Proctorio’s data security and storage practices, subject to mutual agreement. Written requests for inspection and testing can be made to [\[email protected\]](https://proctorio.com/cdn-cgi/l/email-protection#removed).
 
 Test-taker audio, video, and screen recordings and images are secured and processed through three layers of encryption:
 
