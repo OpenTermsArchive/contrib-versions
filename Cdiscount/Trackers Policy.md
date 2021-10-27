@@ -54,7 +54,7 @@ Le Délégué à la protection des données (ci-après le « DPD ») de Cdisco
 
 ================================================================
 
-Nous traitons vos Données pour les finalités exposées dans le tableau suivant (pour la bonne compr��hension du tableau, nous vous invitons à vous reporter au glossaire en Annexe n°1) **:**  
+Nous traitons vos Données pour les finalités exposées dans le tableau suivant (pour la bonne compréhension du tableau, nous vous invitons à vous reporter au glossaire en Annexe n°1) **:**  
   
 
 |     |     |     |
