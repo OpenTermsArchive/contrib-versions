@@ -473,7 +473,7 @@ Les zones de livraison concernées par la livraison en express le jour même son
 
 Votre produit sera déposé dans la pièce de votre choix. En revanche, cette prestation ne comprend pas le déballage, l'installation, branchements et réglages de votre appareil.
 
-\- Sous 2 jours ouvrés maximum (hors produits en précommande) en point retrait express (selon éligibilité géographique).
+\- Sous un délai de 72 heures ouvrées maximum (hors produits en précommande) à domicile ou en point retrait express (selon éligibilité géographique).
 
   
 6.2.2 Territoires desservis  
@@ -959,33 +959,19 @@ des avantages de son Abonnement à toute personne physique majeure de sa famill
 
  La disponibilité et le contenu des avantages décrits ci-dessus peuvent varier en cours d’Abonnement, sans préavis ni indemnité au profit de l’Abonné. L’Abonné sera informé de l’évolution desdits avantages par tout moyen. 
 
-**2.1 Livraison offerte des Produits Eligibles (France métropolitaine et Belgique uniquement)**
+**2.1 Livraison offerte des Produits Eligibles** 
 
   
 Les Produits Eligibles sont reconnaissables sur le Site du fait de la présence de la mention " Produit **C****discount** **à v****o**l**o**nté****" sur la fiche produit du Produit Eligible.  
 Il est précisé que les modes de livraison éligibles à la gratuité ne portent que sur les petits colis de moins de 30 kilos.  
-En savoir plus sur notre page dédiée à la livraison en [cliquant ici](https://www.cdiscount.com/shipping/shippinginfo.html?shippingpartnerorigin=ft).  
-  
-Lors de la commande comprenant l’Abonnement au Service tous les modes de livraison, listés ci-dessous, sont gratuits dès 10€ d’achat.  
-  
-Pour les commandes suivantes, l’Abonné pourra bénéficier de la livraison offerte sur les Produits Eligibles, si le montant total des Produits Eligibles commandés sur le Site est égal ou supérieur à 10 € et dans les conditions suivantes :  
-
-  
-Le montant total des Produits Eligibles commandés sur le Site est compris entre 10€ et 25€ :
-
-\- Tous les modes de livraison standard, listés ci-dessous, sont gratuits ;
-
-\- Les modes de livraison express en point retrait uniquement sont gratuits ;
-
-\- Les modes de livraison express à domicile sont facturés 2,99€.
-
-Le montant total des Produits Eligibles commandés sur le Site est supérieur à 25€ : tous les modes de livraison listés ci-dessous, sont gratuits.
+Cdiscount propose la livraison gratuite en express (jusqu'à 72heures ouvrées maximum).  
+En savoir plus sur notre page dédiée à la livraison en [cliquant ici](https://www.cdiscount.com/shipping/shippinginfo.html?shippingpartnerorigin=ft) et sur notre page dédiée à notre abonnement Cdiscount à Volonté en [cliquant ici](https://www.cdiscount.com/cdav/livraison-a-volonte?cm_sp=Site:PrivilegeLivP:CDAV).  
 
 La livraison offerte s’applique sur les modes de livraison listés ci-dessous.
 
-Pour une livraison en France métropolitaine :
+**Pour une livraison en France métropolitaine** :
 
-**Modes de livraison express :**
+Modes de livraison express (entre 24heures et 72heures ouvrées):
 
 *   TNT à domicile ou en point retrait
 *   Chronopost à domicile sans rendez-vous
@@ -995,21 +981,21 @@ Pour une livraison en France métropolitaine :
 *   Relais Colis Express
 *   Points retrait Cdiscount express
 
-  **Modes de livraison standard :**
+  Modes de livraison standard **:**
 
 *   Colissimo / GLS
 *   So colissimo
 *   Mondial Relay
 *   Relais Colis
 
-Pour une livraison en Belgique :
+**Pour une livraison en Belgique** :
 
    
-**Mode de livraison express (2 jours) :**
+Mode de livraison express (entre 24heures et 72heures ouvrées) :
 
 *   Chronopost à domicile sans rendez-vous
 
-**Modes de livraison standard :**
+Modes de livraison standard :
 
 *   Mondial Relay 
 
@@ -2044,7 +2030,7 @@ En conséquence, il est entendu entre les Parties que toutes les Informations Co
   
 La présente obligation de confidentialité ne s’applique pas à la Partie des informations :  
   
-\- accessibles au public à la date de sa communication par la partie émettrice à la partie réceptrice, ou qui viendrait à l’étre postérieurement à cette date et sans faute de la partie réceptrice ;  
+\- accessibles au public à la date de sa communication par la partie émettrice à la partie réceptrice, ou qui viendrait à l’être postérieurement à cette date et sans faute de la partie réceptrice ;  
   
 \- déjà connues de la Partie réceptrice au moment de sa communication par la Partie émettrice ;  
   
