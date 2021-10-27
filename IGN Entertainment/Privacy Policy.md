@@ -1,13 +1,19 @@
 ZIFF DAVIS, LLC PRIVACY POLICY
 ==============================
 
-  
+[![TRUSTe](//privacy-policy.truste.com/privacy-seal/seal?rid=01b0263e-277d-4e52-9ddd-86550128ec1a)
 
-Effective April 14, 2020
+![TRUSTe](//privacy-policy.truste.com/privacy-seal/seal?rid=01b0263e-277d-4e52-9ddd-86550128ec1a)
 
-[Version Française](http://www.ziffdavis.com/privacy-policy-f/)
+](https://privacy.truste.com/privacy-seal/validation?rid=01b0263e-277d-4e52-9ddd-86550128ec1a)[![TRUSTe](//privacy-policy.truste.com/privacy-seal/seal?rid=ce211316-dfd0-4abb-8bfb-9cb70de1e37c)
 
-If you have any questions related to Data Subject Access Rights under GDPR or CCPA, you can contact us through our [DSAR Portal](https://www.ziffdavis.com/privacy-policy).​
+![TRUSTe](//privacy-policy.truste.com/privacy-seal/seal?rid=ce211316-dfd0-4abb-8bfb-9cb70de1e37c)
+
+](https://privacy.truste.com/privacy-seal/validation?rid=ce211316-dfd0-4abb-8bfb-9cb70de1e37c)
+
+**Effective April 14, 2020** – [Version Française](http://www.ziffdavis.com/privacy-policy-f/)
+
+If you have any questions related to Data Subject Access Rights under GDPR or CCPA, you can contact us through our [DSAR Portal](https://dsar.ziffdavis.com/).​
 
 1.  [Privacy Policy Overview](#overview)
 2.  [What Categories of Information We May Process](#categories)
@@ -29,15 +35,16 @@ If you have any questions related to Data Subject Access Rights under GDPR or CC
 18.  [California Consumers](#california)
 19.  [How this Privacy Policy May Change](#change)
 
-1.  **Privacy Policy Overview**
+1\. Privacy Policy Overview
+---------------------------
 
-Summary – Policy Overview
+#### Summary – Policy Overview
 
 This Policy explains how we may Process your information. This Policy may be amended or updated from time to time, so please check it regularly for updates.
 
 Ziff Davis, LLC, with its affiliates and its subsidiaries (collectively, “**Ziff Davis**”, “**us**”, “**our**” or “**we**”), owns, operates, or provides access to, several interactive websites, mobile and connected applications, and other online interactive features and services, including, but not limited to, emails, newsletters, chat areas, forums, communities, sweepstakes and contests (collectively “**Services**”). This Privacy Policy applies to all information collected about you by Ziff Davis, regardless of how it is collected or stored, and describes, among other things, the types of information collected about you when you interact with the Services, how your information may be used, when your information may be disclosed, how you can control the use and disclosure of your information, and how your information is protected.
 
-Except as otherwise noted in this Privacy Policy, Ziff Davis is a data controller (as that term is used under the [EU General Data Protection Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN) (“**GDPR**”)), which means that we decide how and why the information you provide to us is processed. Please contact us using our [DSAR Portal](https://www.ziffdavis.com/privacy-policy). This Policy may be amended or updated from time to time to reflect changes in our practices with respect to the Processing of your information, or changes in applicable law. We encourage you to read this Policy carefully, and to regularly check this page to review any changes we might make.
+Except as otherwise noted in this Privacy Policy, Ziff Davis is a data controller (as that term is used under the [EU General Data Protection Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN) (“**GDPR**”)), which means that we decide how and why the information you provide to us is processed. Please contact us using our [DSAR Portal](https://dsar.ziffdavis.com/). This Policy may be amended or updated from time to time to reflect changes in our practices with respect to the Processing of your information, or changes in applicable law. We encourage you to read this Policy carefully, and to regularly check this page to review any changes we might make.
 
 This Privacy Policy covers information collected through the following websites and mobile applications
 
@@ -79,9 +86,10 @@ Applications:
 *   PC Magazine
 *   TechBargains
 
-9.  **What Categories of Information We May Process**
+2\. What Categories of Information We May Process
+-------------------------------------------------
 
-Summary – Categories of Information We May Process
+#### Summary – Categories of Information We May Process
 
 We may Process: your personal details (e.g., your name); demographic data (e.g., your age); your contact details (e.g., your address); records of your consents; purchase details; details of your employer (where relevant); information about your interactions with our content or advertising; and any views or opinions you provide to us.
 
@@ -122,9 +130,10 @@ We also collect other kinds of information from you or other sources, which we r
 
 Under certain circumstances and depending on applicable law, some of this Other Information may constitute Personal Information. Personal Information together with Other Information is hereinafter referred to as “**User Information**”.
 
-18.  **Sensitive Personal Information**
+3\. Sensitive Personal Information
+----------------------------------
 
-Summary – Sensitive Personal Information
+#### Summary – Sensitive Personal Information
 
 We do not seek to collect or otherwise Process your Sensitive Personal Information. Where we need to Process your Sensitive Personal Information for a legitimate purpose, we do so in accordance with applicable law. The Services are not intended for use by children.
 
@@ -137,9 +146,10 @@ We do not collect or otherwise Process Personal Information about race or ethnic
 
 _Children_. The Services are not intended for use by children, especially those under 13. No one under the age of 13 should provide any Personal Information or use our public discussion areas, forums or chats. Minors under the age of 18 are not permitted to make purchases through the Services or obtaining coupons or codes from the Services to purchase goods or services on third party websites. If, notwithstanding these prohibitions, your children disclose information about themselves in our public discussion areas, consequences may occur that are not intended for children (for example, they may receive unsolicited messages from other parties). If it is discovered that we have collected Personal Information from someone under 13, we will delete that information immediately.
 
-23.  **How We Collect or Create Information**
+4\. How We Collect or Create Information
+----------------------------------------
 
-Summary – Collection and Creation of Information
+#### Summary – Collection and Creation of Information
 
 We may collect or obtain User Information about you: directly from you (e.g., where you contact us); in the course of our relationship with you (e.g., if you make a purchase); when you make your Personal Information public (e.g., if you make a public post about us on social media); when you download, install, or use any of our Services; when you visit our Services; when you register to use any part of the Services; or when you interact with any third party content or advertising on the Services. We may also receive User Information about you from third parties (e.g., social network sites). We may also create User Information about you, such as records of your interactions with us. Ziff Davis is not responsible for Personal Information you volunteer about yourself in public areas of the Services. This Policy does not cover the practices of third parties who may provide information about you to Ziff Davis.
 
@@ -152,15 +162,16 @@ We may collect or obtain User Information about you: directly from you (e.g., wh
 *   Content and advertising information: If you choose to interact with any third party content or advertising on the Services or Channels, we may receive User Information about you from the relevant third party.
 *   Third party information: We may collect or obtain your Personal Information from third parties who provide it to us. This may include offline channels such as through telephone or direct mail efforts; from customers, vendors, suppliers, third parties, commercially available or publicly-available sources (e.g., data brokers, data aggregators, public databases, etc.); third party affiliate network operators; referral sources; social network sites or services (e.g., Facebook, Twitter, LinkedIn, etc.). If you use a third party connection or log-in (e.g., Facebook Connect, Twitter, or Google+) to access the Services, create a membership or profile on any part of the Services, access our content or forward our content to another person, platform or service, we may also receive your username or email address for those third party services or other information available about you or collected from you on those services.
 
-Please note that Ziff Davis is not responsible for the information you volunteer about yourself in the discussions in certain public areas of the Services, such as forums, blogs, wikis, chat rooms, private messages, message boards or other publicly accessible interaction, or information that you choose to make public in your member profile or other areas of the Services that allow users to upload or post content. We discourage users from posting such Personal Information in this fashion. You can change your publicly available information at any time via your profile page. To request removal of your Personal Information from these areas, please contact us using our [DSAR Portal](https://www.ziffdavis.com/privacy-policy). In some cases, we may not be able to remove your Personal Information, in which case we will let you know we are unable to do so and why.
+Please note that Ziff Davis is not responsible for the information you volunteer about yourself in the discussions in certain public areas of the Services, such as forums, blogs, wikis, chat rooms, private messages, message boards or other publicly accessible interaction, or information that you choose to make public in your member profile or other areas of the Services that allow users to upload or post content. We discourage users from posting such Personal Information in this fashion. You can change your publicly available information at any time via your profile page. To request removal of your Personal Information from these areas, please contact us using our [DSAR Portal](https://dsar.ziffdavis.com/). In some cases, we may not be able to remove your Personal Information, in which case we will let you know we are unable to do so and why.
 
 This Privacy Policy does not cover the practices of third parties, including those that may disclose information to Ziff Davis.
 
 **Creation of User Information**. We may also create User Information about you, such as records of your interactions with us and details of your purchase history, for internal administrative purposes and analysis. We may also combine data you have provided to us with data obtained from third parties such as social networks and other data collection entities.
 
-30.  **Purposes for Which We May Process Your Information**
+5.Purposes for Which We May Process Your Information
+----------------------------------------------------
 
-Summary – Purposes for Which We May Process Your Information
+#### Summary – Purposes for Which We May Process Your Information
 
 We may Process User Information for the following purposes: providing the Services to you; communicating with you; providing advertising to you on the Services and Channels; analyzing engagement with our audience; observing user engagement and purchase activity across the Service and Channels; offering business-to-business lead generation services; offering Speedtest by Ookla to test your internet connectivity; marketing our services and offerings to current and prospective customers; managing our IT systems; financial management; conducting surveys; ensuring the security of our systems; conducting investigations where necessary; compliance with applicable law; and improving our Services.
 
@@ -184,9 +195,10 @@ The purposes for which we may Process User Information, subject to applicable la
 *   Legal Proceedings: establishing, exercising and defending legal rights.
 *   Legal Compliance: Subject to applicable law, we reserve the right to release information concerning any user of Services when we have grounds to believe that the user is in violation of our Terms of Use or other published guidelines or has engaged in (or we have grounds to believe is engaging in) any illegal activity, and to release information in response to court and governmental orders, other requests from government entities, civil subpoenas, discovery requests and otherwise as required by law or regulatory obligations. We also may release information about users when we believe in good faith that such release is in the interest of protecting the rights, property, safety or security of Ziff Davis, any of our users or the public, or to respond to an emergency.
 
-34.  **Direct Marketing**
+6\. Direct Marketing
+--------------------
 
-Summary – Direct Marketing
+#### Summary – Direct Marketing
 
 We may Process your User Information to contact you with information regarding services that may be of interest to you. You may unsubscribe for free or opt out of SMS messages at any time.
 
@@ -194,9 +206,10 @@ We may Process your User Information to contact you via email, telephone, direct
 
 You may unsubscribe from our newsletter lists at any time by following the unsubscribe instructions included in every email we send. We will not send you any emails from a list you have selected to be unsubscribed from, but we may continue to contact you to the extent necessary for the purposes of any other Services you have requested or for additional emails you have signed up for. You may opt out of any telephone marketing by contacting us at the contact details set out in Section 17 below. You may opt out of SMS messages by texting STOP to the received SMS. You can also text HELP for assistance, or contact [Customer Service](https://www.offers.com/company/contact/). You will not be charged by us for receiving or sending SMS messages, however, we make no representations, warranties or guarantees that a particular wireless service program will enable you to participate in an SMS program.
 
-38.  **Cookies, Similar Technologies and Online Behavioral Advertising**
+7\. Cookies, Similar Technologies and Online Behavioral Advertising
+-------------------------------------------------------------------
 
-Summary – Cookies, Similar Technologies and Online Behavioral Advertising
+#### Summary – Cookies, Similar Technologies and Online Behavioral Advertising
 
 We may Process your User Information by placing or reading Cookies and similar technologies on the Services and Channels. For more information, please see our [Cookie Policy](http://www.ziffdavis.com/cookie-policy). Certain tracking technologies enable us to assign a unique identifier to you, and relate information about your use of the Services to Other Information about you, including your User Information for the purposes of learning more about you so we can provide you with relevant content and advertising. We and our partners also use these technologies to analyze trends; administer the Services; collect and store information such as user settings, anonymous browser identifiers and video viewing history; supplement to our server logs and other methods of traffic and response measurement; track users’ location and movements around the Services; gather demographic information about our user base; and to improve our understanding of traffic on the Services, visitor behavior, and responses to promotional campaigns.
 
@@ -220,9 +233,10 @@ Ziff Davis displays ads on both the Services and on the Channels. We may use Onl
 
 Online Data is aggregated with the Other Information and data we collect as described in this Privacy Policy and/or similar data collected by partners to create groups of users and certain general-interest categories or segments that we have inferred based on (a) demographic or interest data and GeoIP Data, (b) the pages you view and links you click when viewing an email or using the Services and those of our partners, and/or (c) the search terms you enter when using certain search services. We use this information to get a more accurate picture of audience interests in order to serve ads we believe are more relevant to your interests. We store page views, clicks and search terms used for ad personalization targeting separately from your Personal Information.
 
-49.  **What is the Lawful Basis for Processing Personal Information**
+8\. What is the Lawful Basis for Processing Personal Information
+----------------------------------------------------------------
 
-Summary – Lawful Basis for Processing User Information
+#### Summary – Lawful Basis for Processing User Information
 
 We may Process your User Information where: you have given your consent; the Processing is necessary for a contract between you and us; the Processing is required by applicable law; the Processing is necessary to protect the vital interests of any individual; or where we have a valid legitimate interest in the Processing.
 
@@ -236,9 +250,10 @@ In Processing your User Information in connection with the purposes set out in t
 
 As described above, we have identified our lead generation services and how we market our business to our current and prospective customers as having a legitimate interest.
 
-54.  **What Information We Disclose to Third Parties**
+9\. What Information We Disclose to Third Parties
+-------------------------------------------------
 
-Summary – Disclosure of User Information to Third Parties
+#### Summary – Disclosure of User Information to Third Parties
 
 We may disclose your User Information to: legal and regulatory authorities; our external advisors; parties who Process User Information on our behalf (“Processors”); any party as necessary in connection with legal proceedings; any party as necessary for investigating, detecting or preventing criminal offences; any purchaser of our business; and any third party providers of advertising, plugins or content used on the Services.
 
@@ -272,17 +287,18 @@ If we engage a third-party Processor to Process your User Information, the Proce
 
 The Services contain links to other sites or partners whose information practices may be different from ours. You should consult the privacy policy of these third parties to learn how your privacy is protected.
 
-67.  **International Transfers of Information**
+10\. International Transfers of Information
+-------------------------------------------
 
-Summary – International Transfers of Information
+#### Summary – International Transfers of Information
 
 We may transfer your Personal Information to recipients in other countries. Ziff Davis participates in the E.U.-U.S. Privacy Shield, the Swiss-U.S. Privacy Shield and the APEC Cross Border Privacy Rules System. Where we transfer User Information from the European Economic Area (“EEA”) to a recipient outside the EEA that is not in an adequate jurisdiction, we do so on the basis of standard contractual clauses.
 
 Because of the international nature of our business, we may need to transfer your User Information within the Ziff Davis group of companies, and to third parties as noted in Section 9 above, in connection with the purposes set out in this Policy. For this reason, we may transfer your User Information to other countries that may have different laws and data protection compliance requirements to those that apply in the country in which you are located.
 
-Ziff Davis, LLC and its U.S. subsidiaries IGN Entertainment, Inc., emedia Communications, LLC, Salesify, Inc., Offers.com, LLC and Mashable, Inc. participate in and have certified its compliance with the E.U.-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. Ziff Davis is committed to subjecting all Personal Information received from European Union (E.U.) member countries and Switzerland, in reliance on the Privacy Shield Framework, to the Framework’s applicable principles. To learn more about the Privacy Shield Framework, please visit the U.S. Department of Commerce’s [Privacy Shield](https://www.privacyshield.gov/list) List. Ziff Davis is responsible for the processing of Personal Information it receives under the Privacy Shield Framework and subsequent transfers to a third party acting as an agent on its behalf. Ziff Davis complies with the Privacy Shield principles for all onward transfers of Personal Information from the E.U. and Switzerland, including the onward transfer liability provisions. With respect to Personal Information received or transferred pursuant to the Privacy Shield Framework, Ziff Davis is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Ziff Davis may be required to disclose Personal Information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. If you are a European individual with a privacy related complaint, concern or question about Ziff Davis’ privacy practices, please contact us through our [DSAR Portal](https://www.ziffdavis.com/privacy-policy). Under certain conditions, more fully described on the Privacy Shield website, European individuals may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+Ziff Davis, LLC and its U.S. subsidiaries IGN Entertainment, Inc., emedia Communications, LLC, Salesify, Inc., Offers.com, LLC and Mashable, Inc. participate in and have certified its compliance with the E.U.-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. Ziff Davis is committed to subjecting all Personal Information received from European Union (E.U.) member countries and Switzerland, in reliance on the Privacy Shield Framework, to the Framework’s applicable principles. To learn more about the Privacy Shield Framework, please visit the U.S. Department of Commerce’s [Privacy Shield](https://www.privacyshield.gov/list) List. Ziff Davis is responsible for the processing of Personal Information it receives under the Privacy Shield Framework and subsequent transfers to a third party acting as an agent on its behalf. Ziff Davis complies with the Privacy Shield principles for all onward transfers of Personal Information from the E.U. and Switzerland, including the onward transfer liability provisions. With respect to Personal Information received or transferred pursuant to the Privacy Shield Framework, Ziff Davis is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Ziff Davis may be required to disclose Personal Information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. If you are a European individual with a privacy related complaint, concern or question about Ziff Davis’ privacy practices, please contact us through our [DSAR Portal](https://dsar.ziffdavis.com/). Under certain conditions, more fully described on the Privacy Shield website, European individuals may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
-Where we transfer your Personal Information from the EEA to recipients located outside the EEA who are not in a jurisdiction that has been formally designated by the European Commission as providing an adequate level of protection for Personal Information, we do so on the basis of standard contractual clauses. You may request a copy of the relevant standard contractual clauses using our [DSAR Portal](https://www.ziffdavis.com/privacy-policy).
+Where we transfer your Personal Information from the EEA to recipients located outside the EEA who are not in a jurisdiction that has been formally designated by the European Commission as providing an adequate level of protection for Personal Information, we do so on the basis of standard contractual clauses. You may request a copy of the relevant standard contractual clauses using our [DSAR Portal](https://dsar.ziffdavis.com/).
 
 Please note that when you transfer any Personal Information directly to a Company entity established outside the EEA, we are not responsible for that transfer of your Personal Information. We will nevertheless Process your Personal Information, from the point at which we receive the data, in accordance with the provisions of this Privacy Policy.
 
@@ -290,9 +306,10 @@ Ziff Davis privacy practices described in this Privacy Policy comply with the As
 
 Please note that we may use data collected by a third party operator/licensee of localized versions or editions of Services.
 
-75.  **Data Security**
+11\. Data Security
+------------------
 
-Summary – Data Security
+#### Summary – Data Security
 
 We implement appropriate technical and organizational security measures to protect your User Information. Please ensure that any Personal Information that you send to us is sent securely.
 
@@ -300,25 +317,28 @@ We have implemented appropriate technical and organizational security measures d
 
 Because the internet is an open system, the transmission of information via the internet is not completely secure. Although we will implement reasonable measures to protect your information, we cannot guarantee the security of your data transmitted to us using the internet. Any such transmission is at your own risk and you are responsible for ensuring that any Personal Information that you send to us are sent securely.
 
-79.  **Data Accuracy**
+12\. Data Accuracy
+------------------
 
-Summary – Data Accuracy
+#### Summary – Data Accuracy
 
 We take every reasonable step to ensure that your User Information is kept accurate and up-to-date and are erased or rectified if we become aware of inaccuracies.
 
 We take every reasonable step to ensure that your User Information that we Process is accurate and, where necessary, kept up to date, and any of your User Information that we Process that you inform us is inaccurate (having regard to the purposes for which they are Processed) is erased or rectified.
 
-82.  **Data Minimization**
+13\. Data Minimization
+----------------------
 
-Summary – Data Minimization
+#### Summary – Data Minimization
 
 We take every reasonable step to limit the volume of your User Information that we Process to what is necessary.
 
 We take every reasonable step to ensure that your User Information that we Process is limited to the User Information reasonably necessary in connection with the purposes set out in this Policy or as required to provide you services or access to the Services.
 
-85.  **Data Retention**
+14\. Data Retention
+-------------------
 
-Summary – Data Retention
+#### Summary – Data Retention
 
 We take every reasonable step to ensure that your User Information is only retained for as long as they are needed. Online Data related to OBA is kept by Ziff Davis for not more than 180 days after which it will expire, subject to certain conditions.
 
@@ -326,9 +346,10 @@ We take every reasonable step to ensure that your User Information is only Proce
 
 Except as may be set forth in this Privacy Policy, Online Data related to OBA is retained by Ziff Davis for not more than 180 days after which it shall expire. However, the 180 day period may commence again if the same user subsequently visits or interacts with an ad, email, the Services or a Channel.
 
-89.  **What Can I Do to Control My Information?**
+15\. What Can I Do to Control My Information?
+---------------------------------------------
 
-Summary – What Can I Do to Control My Information?
+#### Summary – What Can I Do to Control My Information?
 
 You can directly take steps to change your preferences for newsletters and online behavioral advertising as outlined in this section.
 
@@ -336,27 +357,15 @@ If you are an EU resident, you may have certain rights including: the right not 
 
 You may directly take steps to change your preferences as follows:
 
-_Access to Your Personal Information_. Upon request Ziff Davis will provide you with information about whether we hold any of your personal information. You may access, correct, or request deletion of your personal information by logging into your account or contacting us through our [DSAR Portal](https://www.ziffdavis.com/privacy-policy). We will respond to your request within a reasonable timeframe.
+_Access to Your Personal Information_. Upon request Ziff Davis will provide you with information about whether we hold any of your personal information. You may access, correct, or request deletion of your personal information by logging into your account or contacting us through our [DSAR Portal](https://dsar.ziffdavis.com/). We will respond to your request within a reasonable timeframe.
 
 _Your Newsletter and Email Subscriptions_. You can opt out or unsubscribe to a newsletter or other email list at any time by following the instructions at the end of the newsletters or emails you receive. Please allow five to ten business days for changes to take effect. On some Services, member service-related communications are an integral part of such Services to which you subscribe and you may continue to receive emails as part of that particular portion of the Services unless you cancel your account, even if you opt out of the newsletters or email list. If you have provided more than one email address to us, you may continue to be contacted unless you request to unsubscribe each email address you have provided.
 
 _Push Notifications_. We send you push notifications from time-to-time in order to update you about any events or promotions that we may be running. If you no longer wish to receive these types of communications, you may turn them off at the device level. To ensure you receive proper notifications, we will need to collect certain information about your device such as operating system and user identification information.
 
-_OBA_. Ziff Davis is a member of the Digital Advertising Alliance (“**DAA**”) in the U.S., E.U. and Canada and uses third party assurance platforms to comply with the DAA principles. Ziff Davis strives to adhere to the self-regulatory organization principles for the DAA (US), the DAAC (Canada) and the EDAA (EU). Online ads on the Services using Online Data are delivered with the DAA Ad Marker Icon [![DAA Ad Marker Icon](https://www.ziffdavis.com/wp-content/uploads/2016/10/zd_adchoices.png)
+_OBA_. Ziff Davis is a member of the Digital Advertising Alliance (“**DAA**”) in the U.S., E.U. and Canada and uses third party assurance platforms to comply with the DAA principles. Ziff Davis strives to adhere to the self-regulatory organization principles for the DAA (US), the DAAC (Canada) and the EDAA (EU). Online ads on the Services using Online Data are delivered with the DAA Ad Marker Icon [](http://youradchoices.com/), which helps users understand how their data is being used and provides choices for users who want more control. This icon is also on each of our web pages and applications where Online Data is collected that will be used for OBA purposes.
 
-![DAA Ad Marker Icon](https://www.ziffdavis.com/wp-content/uploads/2016/10/zd_adchoices.png)
-
-](http://youradchoices.com/), which helps users understand how their data is being used and provides choices for users who want more control. This icon is also on each of our web pages and applications where Online Data is collected that will be used for OBA purposes.
-
-The DAA Ad Marker Icon [![DAA Ad Marker Icon](https://www.ziffdavis.com/wp-content/uploads/2016/10/zd_adchoices.png)
-
-![DAA Ad Marker Icon](https://www.ziffdavis.com/wp-content/uploads/2016/10/zd_adchoices.png)
-
-](http://youradchoices.com/) provides information (and links to other information) on online behavioral ads, who is collecting and using your Online Data, how you can opt out and more. If you would prefer that we not collect Online Data that may be used to help determine which advertisements to serve you, opt out by clicking this icon [![DAA Ad Marker Icon](https://www.ziffdavis.com/wp-content/uploads/2016/10/zd_adchoices.png)
-
-![DAA Ad Marker Icon](https://www.ziffdavis.com/wp-content/uploads/2016/10/zd_adchoices.png)
-
-](http://youradchoices.com/), which can be found on most of our webpages and mobile applications.
+The DAA Ad Marker Icon [](http://youradchoices.com/) provides information (and links to other information) on online behavioral ads, who is collecting and using your Online Data, how you can opt out and more. If you would prefer that we not collect Online Data that may be used to help determine which advertisements to serve you, opt out by clicking this icon [](http://youradchoices.com/), which can be found on most of our webpages and mobile applications.
 
 *   European Union and Switzerland residents should visit the European DAA by [clicking here](http://www.youronlinechoices.eu/).
 *   Canadian residents should visit the DAA of Canada by [clicking here](http://youradchoices.ca/choices).
@@ -368,11 +377,12 @@ _Location Based Services_. You may opt-out of having your Precise Location Data 
 
 _California Residents_. In accordance with the California Online Privacy Protection Act, we may collect Personal Information about your online activities when you use the Services. While we give our users many avenues to opt out of providing Personal Information, we do not respond to Web browsers’ “do not track” signals. California’s “Shine the Light” law, Civil Code Section 1798.83, permits our users who are California residents to periodically request and obtain certain information about any Personal Information disclosed to third parties for direct marketing purposes. If you are a California resident and wish to make such a request or if you wish for us to refrain from gathering your Personal Information, please submit your request in writing to the contact details set out in Section 17 below.
 
-_EU Residents_. GDPR provides certain rights for EU residents. You may decline to share certain information with us, in which case we may not be able to provide some of the features and functionality of the Services. These rights include, in accordance with applicable law, the right to object to or request the restriction of processing of your information, and to request access to, rectification, erasure and portability of your own information. Where we process your information on the basis of your consent, you have the right to withdraw that consent (noting that such withdrawal does not affect the lawfulness of any Processing performed prior to the date on which we receive notice of such withdrawal, and does not prevent the Processing of your Personal Information in reliance upon any other available legal bases). Requests should be submitted by contacting us using the [DSAR Portal](https://www.ziffdavis.com/privacy-policy). If you are an EU resident and have any unresolved privacy concern, you have the right to contact the appropriate EU Supervisory Authority and lodge a complaint.
+_EU Residents_. GDPR provides certain rights for EU residents. You may decline to share certain information with us, in which case we may not be able to provide some of the features and functionality of the Services. These rights include, in accordance with applicable law, the right to object to or request the restriction of processing of your information, and to request access to, rectification, erasure and portability of your own information. Where we process your information on the basis of your consent, you have the right to withdraw that consent (noting that such withdrawal does not affect the lawfulness of any Processing performed prior to the date on which we receive notice of such withdrawal, and does not prevent the Processing of your Personal Information in reliance upon any other available legal bases). Requests should be submitted by contacting us using the [DSAR Portal](https://dsar.ziffdavis.com/). If you are an EU resident and have any unresolved privacy concern, you have the right to contact the appropriate EU Supervisory Authority and lodge a complaint.
 
-102.  **Terms of Use**
+16\. Terms of Use
+-----------------
 
-Summary – Terms of Use
+#### Summary – Terms of Use
 
 For all Services, the [Ziff Davis Terms of Use](http://www.ziffdavis.com/terms-of-use) will govern.
 
@@ -380,40 +390,38 @@ For more information concerning your use of the Services, please visit the [Ziff
 
 We recommend that you review our Terms of Use regularly, in order to review any changes we might make from time to time.
 
-106.  **Contact Details**
+17\. Contact Details
+--------------------
 
-Summary – Contact Details
+#### Summary – Contact Details
 
-You may contact us at the addresses set out below or by emailing [privacy@ziffdavis.com](mailto:privacy@ziffdavis.com)
-
-Ziff Davis  
+You may contact us at the addresses set out below or by emailing [privacy@ziffdavis.com](mailto:privacy@ziffdavis.com) Ziff Davis  
 Attention: Legal Department  
 114 Fifth Avenue, 15th Floor  
 New York, NY 10011
 
-If you are an EU resident, you may contact our Data Protection Officer at [dpo@ziffdavis.com](mailto:dpo@ziffdavis.com) or submit GDPR related inquiries to our [DSAR Portal](https://www.ziffdavis.com/privacy-policy).
+If you are an EU resident, you may contact our Data Protection Officer at [dpo@ziffdavis.com](mailto:dpo@ziffdavis.com) or submit GDPR related inquiries to our [DSAR Portal](https://dsar.ziffdavis.com/).
 
-If you have any comments, questions or concerns about any of the information in this Policy, or any other issues relating to the Processing of User Information carried out by us, or on our behalf, please contact:
-
-Ziff Davis  
+If you have any comments, questions or concerns about any of the information in this Policy, or any other issues relating to the Processing of User Information carried out by us, or on our behalf, please contact: Ziff Davis  
 Attention: Legal Department  
 114 Fifth Avenue, 15th Floor  
 New York, NY 10011  
 [privacy@ziffdavis.com](mailto:privacy@ziffdavis.com)
 
-Our Data Protection Officer may be contacted at [dpo@ziffdavis.com](mailto:dpo@ziffdavis.com). For GDPR related inquiries, please use our [DSAR Portal](https://www.ziffdavis.com/privacy-policy)
+Our Data Protection Officer may be contacted at [dpo@ziffdavis.com](mailto:dpo@ziffdavis.com). For GDPR related inquiries, please use our [DSAR Portal](https://dsar.ziffdavis.com/)
 
 If you have an unresolved concern regarding your privacy or our use of data that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) by clicking [here](https://feedback-form.truste.com/watchdog/request).
 
-113.  **California Consumers**
+18\. California Consumers
+-------------------------
 
-Summary – California Consumers
+#### Summary – California Consumers
 
 The California Consumer Privacy Act (“CCPA)  provides certain rights for California consumers.  If you are a consumer residing in California, the following additional terms apply to you.
 
 1.  **Right to Know About Information Collected, Disclosed or Sold**
 
-You have the right to request that we disclose what personal information we collect, use, disclose, and sell. To submit a verifiable request, please visit our [DSAR Portal](https://www.ziffdavis.com/privacy-policy) or email [privacy@ziffdavis.com](mailto:privacy@ziffdavis.com).
+You have the right to request that we disclose what personal information we collect, use, disclose, and sell. To submit a verifiable request, please visit our [DSAR Portal](https://dsar.ziffdavis.com/) or email [privacy@ziffdavis.com](mailto:privacy@ziffdavis.com).
 
 If you have an account with us, we will verify the request by confirming the email address used to make the request is the same as the email address on file for the account.  If you do not have an account with us, we will verify the request by sending an email to the email address used to make the request. We may ask for additional information reasonably related to the request to verify the request.
 
@@ -452,11 +460,11 @@ The Services are not intended for use by minors. We do not sell personal informa
 
 15.  **Right to Request Deletion of Personal Information**
 
-You have the right to request deletion of Personal Information collected or maintained by us.  To do so, please submit a request via [DSAR Portal](https://www.ziffdavis.com/privacy-policy) or by emailing [privacy@ziffdavis.com](mailto:privacy@ziffdavis.com).  If submitting a request by email, we may ask for additional information to verify your request.
+You have the right to request deletion of Personal Information collected or maintained by us.  To do so, please submit a request via [DSAR Portal](https://dsar.ziffdavis.com/) or by emailing [privacy@ziffdavis.com](mailto:privacy@ziffdavis.com).  If submitting a request by email, we may ask for additional information to verify your request.
 
 17.  **Right to Opt-Out of the Sale of Personal Information**
 
-You have the right to opt-out of the sale of Personal Information by a business.  To do so, please submit a request via [DSAR Portal](https://www.ziffdavis.com/privacy-policy) or by emailing [privacy@ziffdavis.com](mailto:privacy@ziffdavis.com).  If submitting a request by email, we may ask for additional information to verify your request.
+You have the right to opt-out of the sale of Personal Information by a business.  To do so, please submit a request via [DSAR Portal](https://dsar.ziffdavis.com/) or by emailing [privacy@ziffdavis.com](mailto:privacy@ziffdavis.com).  If submitting a request by email, we may ask for additional information to verify your request.
 
 19.  **Right to Non-Discrimination for the Exercise of a Consumer’s Privacy Rights**
 
@@ -468,18 +476,17 @@ To make a request under the California Consumer Privacy Act on a consumer’s be
 
 23.  **Contact for More Information**
 
-If you have any questions or concerns about our privacy policies and practices, you may contact us via [DSAR Portal](https://www.ziffdavis.com/privacy-policy) or [privacy@ziffdavis.com](mailto:privacy@ziffdavis.com).
+If you have any questions or concerns about our privacy policies and practices, you may contact us via [DSAR Portal](https://dsar.ziffdavis.com/) or [privacy@ziffdavis.com](mailto:privacy@ziffdavis.com).
 
 25.  **Date Privacy Policy Last Updated**
 
 Our Privacy Policy was lasted updated as of the date indicated at the beginning of the policy.
 
-116.  **How this Privacy Policy May Change**
+19\. How this Privacy Policy May Change
+---------------------------------------
 
 We may change this Privacy Policy from time to time, and all changes will be effective at the time we post them. If we believe there is a significant change to this Privacy Policy or our data collection and use practices, we will indicate on our websites that our Privacy Policy has changed prior to the change becoming effective. The then-posted version of the Privacy Policy supersedes all prior versions. Your continued access to or use of any of the Services shall be deemed your acceptance of the Privacy Policy.
 
 **We urge you to come back to this web page and review this Privacy Policy regularly so that you remain aware of the terms and conditions that apply to you.**
 
-To review Ookla, LLC’s privacy policy and practices, please visit the [Ookla Privacy Policy](https://www.ookla.com/privacy). The [Ookla Terms](https://www.ookla.com/terms) of Use govern your use of websites and services of Ookla (including Speedtest and Speedtest Custom). To review Humble Bundle, Inc.’s privacy policy and practices, please visit the [Humble Bundle Privacy Policy](https://www.humblebundle.com/privacy). The [Humble Bundle Terms of Use](https://www.humblebundle.com/terms) govern your use of the websites and services of Humble Bundle. To review Everyday Health, Inc.’s privacy policy and practices, please visit the [Everyday Health Terms of Use](https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy%3EEveryday%20Health%20Privacy%20Policy%3C/a%3E.%20%20The%20%3Ca%20href=) govern your use of the websites and services of Everyday Health.
-
-Comments are closed.
+To review Ookla, LLC’s privacy policy and practices, please visit the [Ookla Privacy Policy](https://www.ookla.com/privacy). The [Ookla Terms](https://www.ookla.com/terms) of Use govern your use of websites and services of Ookla (including Speedtest and Speedtest Custom). To review Humble Bundle, Inc.’s privacy policy and practices, please visit the [Humble Bundle Privacy Policy](https://www.humblebundle.com/privacy). The [Humble Bundle Terms of Use](https://www.humblebundle.com/terms) govern your use of the websites and services of Humble Bundle. To review Everyday Health, Inc.’s privacy policy and practices, please visit the [Everyday Health Privacy Policy](https://www.everydayhealth.com/privacyterms/#everyday_health_privacy_policy). The [Everyday Health Terms of Use](https://www.everydayhealth.com/privacyterms#everyday_health_terms_of_use) govern your use of the websites and services of Everyday Health.
