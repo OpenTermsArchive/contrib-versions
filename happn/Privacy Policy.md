@@ -403,7 +403,7 @@ The personal data of Members processed as part of their use of the Application i
 
 However, the personal data of Members **are transferred to HAPPN subcontractors located outside the European Union**, for Member support, report management, advertising and marketing. 
 
-Transfers of data outside the European Union may **be made to countries in relation to which no adequacy decision** has been taken by the European Commission on the protection of personal data. HAPPN guarantees that transfers are made under conditions ensuring the confidentiality and security of the data and providing an adequate level of protection compliant with regulations. **These transfers are governed by standard contractual clauses of the European** **Commission**. To obtain a copy of these, please contact our Data Protection Officers at [\[email protected\]](https://www.happn.com/cdn-cgi/l/email-protection#). 
+Transfers of data outside the European Union may **be made to countries in relation to which no adequacy decision** has been taken by the European Commission on the protection of personal data. HAPPN guarantees that transfers are made under conditions ensuring the confidentiality and security of the data and providing an adequate level of protection compliant with regulations. **These transfers are governed by standard contractual clauses of the European** **Commission**. To obtain a copy of these, please contact our Data Protection Officers at [\[email protected\]](https://www.happn.com/cdn-cgi/l/email-protection#removed). 
 
 For the exact location of our recipients, please refer to the [list of our sub-contractors and partners.](https://www.happn.com/en/data-recipients/)
 
@@ -416,7 +416,7 @@ In compliance with the French Data Protection Act of January 6th, 1978 (_Loi Inf
 
 ### Exercising your rights
 
-Members may exercise their rights, subject to proving their identity, by sending an email to [\[email protected\]](https://www.happn.com/cdn-cgi/l/email-protection#), by exercising their rights directly via the Application, or by sending a letter to the following postal address: for the attention of the Data Protection Officer, HAPPN - 8 rue du Sentier 75002 Paris – France. For confidentiality reasons, if there is a doubt on the requesting party’s identity, proof of identity may be requested.
+Members may exercise their rights, subject to proving their identity, by sending an email to [\[email protected\]](https://www.happn.com/cdn-cgi/l/email-protection#removed), by exercising their rights directly via the Application, or by sending a letter to the following postal address: for the attention of the Data Protection Officer, HAPPN - 8 rue du Sentier 75002 Paris – France. For confidentiality reasons, if there is a doubt on the requesting party’s identity, proof of identity may be requested.
 
 For any other claim, the Member may lodge a request with the national authority responsible for data protection.
 
@@ -463,6 +463,6 @@ HAPPN undertakes to make every effort and to invest all means at its disposal to
 
 If you have any questions regarding this privacy policy, or any other request concerning your personal data, you can contact us:
 
-*   By sending an e-mail to our contact e-mail address [\[email protected\]](https://www.happn.com/cdn-cgi/l/email-protection#).
-*   By sending an email to the Data Protection Officer [\[email protected\]](https://www.happn.com/cdn-cgi/l/email-protection#). 
+*   By sending an e-mail to our contact e-mail address [\[email protected\]](https://www.happn.com/cdn-cgi/l/email-protection#removed).
+*   By sending an email to the Data Protection Officer [\[email protected\]](https://www.happn.com/cdn-cgi/l/email-protection#removed). 
 *   By sending a letter to the following address: for the attention of the Data Protection Officer, HAPPN - 8 rue du Sentier 75002 Paris – France.
