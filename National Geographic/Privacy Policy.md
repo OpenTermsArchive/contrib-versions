@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-Last Modified: 02/27/2023
+Last Modified: 03/03/2023
 
 **SCOPE OF THIS POLICY**
 
