@@ -158,7 +158,7 @@ We do not knowingly collect any data or target any advertisements on websites d
 3\. Site Visitors
 -----------------
 
-### 3.1 Erfasste Informationen von Seitenbesuchern
+### 3.1 Information We Collect from Site Visitors
 
 Taboola collects Site Visitor Information either directly from you or from third parties that collect this Information during your use of our Sites. We may combine all the Information that we collect from various sources.
 
@@ -225,10 +225,10 @@ When we share your Information with third parties as specified above, we require
 
 In addition to the disclosures detailed above, we may also disclose Information for the following purposes:
 
-*   **Business transfers**. We reserve the right to disclose and/or transfer Information to another entity if we are acquired by or merged with another company, if we sell or transfer a business unit or assets to another company, if we undergo a bankruptcy proceeding, or if we engage in any other similar business transfer.
-*   **Legal compliance**. We may disclose Information in order to comply with the law, regulation, a judicial proceeding, subpoena, court order, or other legal process.
-*   **Protecting rights and interests**. We may disclose Information where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person, violations of our [Terms of Use](https://www.taboola.com/policies/terms-of-use) or this Privacy Policy, or as evidence in litigation in which we are involved.
-*   **Aggregate and de-identified Information**. We may disclose to our Customers and other third parties aggregated or de-identified information about users for marketing, advertising, research, or other purposes.
+*   _**Business transfers**._ We reserve the right to disclose and/or transfer Information to another entity if we are acquired by or merged with another company, if we sell or transfer a business unit or assets to another company, if we undergo a bankruptcy proceeding, or if we engage in any other similar business transfer.
+*   _**Legal compliance**._ We may disclose Information in order to comply with the law, regulation, a judicial proceeding, subpoena, court order, or other legal process.
+*   _**Protecting rights and interests**._ We may disclose Information where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person, violations of our [Terms of Use](https://www.taboola.com/policies/terms-of-use) or this Privacy Policy, or as evidence in litigation in which we are involved.
+*   _**Aggregate and de-identified Information**._ We may disclose to our Customers and other third parties aggregated or de-identified information about users for marketing, advertising, research, or other purposes.
 
 ### 4.3 Cookies and Other Tracking Mechanisms
 
