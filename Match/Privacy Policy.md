@@ -13,15 +13,15 @@ We appreciate that you put your trust in us when you provide us with your inform
 
 **We work hard to keep your information secure**. We have teams dedicated to keeping your data safe and secure. We constantly update our security practices and invest in our security efforts to enhance the safety of your information.
 
-\*          \*          \*
+\* \* \*
 
 **PRIVACY POLICY**
 
 Welcome to Match (MIL)’s Privacy Policy. Thank you for taking the time to read it.
 
-We appreciate that you trust us with your information and we intend to always keep that trust. This starts with making sure you understand the information we collect, why we collect it, how it is used and your choices regarding your information.  This Policy describes our privacy practices in plain language, keeping legal and technical jargon to a minimum.
+We appreciate that you trust us with your information and we intend to always keep that trust. This starts with making sure you understand the information we collect, why we collect it, how it is used and your choices regarding your information. This Policy describes our privacy practices in plain language, keeping legal and technical jargon to a minimum.
 
-This Privacy Policy applies beginning May 25, 2018.  The previous version of this Privacy Policy, available [here](https://uk.match.com/pages/misc/privacy_052018), will apply until then.
+This Privacy Policy applies beginning May 25, 2018. The previous version of this Privacy Policy, available [here](https://uk.match.com/pages/misc/privacy_052018), will apply until then.
 
 EFFECTIVE DATE: May 25, 2018
 
@@ -39,10 +39,8 @@ EFFECTIVE DATE: May 25, 2018
 12.  [PRIVACY POLICY CHANGES](#_Toc513195643)
 13.  [HOW TO CONTACT US](#_Toc513195644)
 
- 
-
-1.      WHO WE ARE
-==================
+1\. WHO WE ARE
+--------------
 
 If you live in the European Union, the company that is responsible for your information under this Privacy Policy (the “data controller”) is:
 
@@ -50,15 +48,15 @@ MIL
 
 C/O Skadden 40 Bank Street, Canary Wharf, London, E14 5DS
 
-2.      WHERE THIS PRIVACY POLICY APPLIES
-=========================================
+2\. WHERE THIS PRIVACY POLICY APPLIES
+-------------------------------------
 
-This Privacy Policy applies to websites, apps, events and other services operated by Match (MIL).  For simplicity, we refer to all of these as our “services” in this Privacy Policy. To make it extra clear, we’ve added links to this Privacy Policy on all applicable services.
+This Privacy Policy applies to websites, apps, events and other services operated by Match (MIL). For simplicity, we refer to all of these as our “services” in this Privacy Policy. To make it extra clear, we’ve added links to this Privacy Policy on all applicable services.
 
 Some services may require their own unique privacy policy. If a particular service has its own privacy policy, then that policy — not this Privacy Policy — applies.
 
-3.      INFORMATION WE COLLECT
-==============================
+3\. INFORMATION WE COLLECT
+--------------------------
 
 It goes without saying, we can’t help you develop meaningful connections without some information about you, such as basic profile details and the types of people you’d like to meet. We also collect information generated as you use our services, for example access logs, as well as information from third parties, like when you access our services through a social media account. If you want additional info, we go into more detail below.
 
@@ -85,7 +83,7 @@ Other users may provide information about you as they use our services. For inst
 
 *   **Social Media**
 
-You may be able to use your social media login (such as Facebook Login) to create and log into your Match (MIL) account.  This saves you from having to remember yet another user name and password and allows you to share some information from your social media account with us.
+You may be able to use your social media login (such as Facebook Login) to create and log into your Match (MIL) account. This saves you from having to remember yet another user name and password and allows you to share some information from your social media account with us.
 
 *   **Other Partners**
 
@@ -93,7 +91,7 @@ We may receive info about you from our partners, for instance when Match (MIL) a
 
 **_Information collected when you use our services_**
 
-When you use our services, we collect information about which features you’ve used, how you’ve used them and the devices you use to access our services.  See below for more details:
+When you use our services, we collect information about which features you’ve used, how you’ve used them and the devices you use to access our services. See below for more details:
 
 *   **Usage Information**
 
@@ -109,21 +107,21 @@ We collect information from and about the device(s) you use to access our servic
 
 *   **Other information with your consent**
 
-If you give us permission, we can collect your precise geolocation (latitude and longitude) through various means, depending on the service and device you’re using, including GPS, Bluetooth or Wi-Fi connections.  The collection of your geolocation may occur in the background even when you aren’t using the services if the permission you gave us expressly permits such collection.  If you decline permission for us to collect your geolocation, we will not collect it.
+If you give us permission, we can collect your precise geolocation (latitude and longitude) through various means, depending on the service and device you’re using, including GPS, Bluetooth or Wi-Fi connections. The collection of your geolocation may occur in the background even when you aren’t using the services if the permission you gave us expressly permits such collection. If you decline permission for us to collect your geolocation, we will not collect it.
 
-Similarly, if you consent, we may collect your photos and videos (for instance, if you want to publish a photo, video or streaming on the services). We may also collect your  phonebook (for instance, if you want us to reach out to your friends on your behalf).
+Similarly, if you consent, we may collect your photos and videos (for instance, if you want to publish a photo, video or streaming on the services). We may also collect your phonebook (for instance, if you want us to reach out to your friends on your behalf).
 
-4.      COOKIES AND OTHER SIMILAR DATA COLLECTION TECHNOLOGIES
-==============================================================
+4\. COOKIES AND OTHER SIMILAR DATA COLLECTION TECHNOLOGIES
+----------------------------------------------------------
 
 We use and may allow others to use cookies and similar technologies (e.g., web beacons, pixels) to recognize you and/or your device(s). You may read our Cookie Policy [link](https://uk.match.com/pages/misc/cookie?styled=1) for more information on why we use them (such as authenticating you, remembering your preferences and settings, analyzing site traffic and trends, delivering and measuring the effectiveness of advertising campaigns, allowing you to use social features) and how you can better control their use, through your browser settings and other tools.
 
-Some web browsers (including Safari, Internet Explorer, Firefox and Chrome) have a “Do Not Track” (“**DNT**”) feature that tells a website that a user does not want to have his or her online activity tracked.  If a website that responds to a DNT signal receives a DNT signal, the browser can block that website from collecting certain information about the browser’s user.  Not all browsers offer a DNT option and DNT signals are not yet uniform.  For this reason, many businesses, including Match (MIL), do not currently respond to DNT signals.
+Some web browsers (including Safari, Internet Explorer, Firefox and Chrome) have a “Do Not Track” (“**DNT**”) feature that tells a website that a user does not want to have his or her online activity tracked. If a website that responds to a DNT signal receives a DNT signal, the browser can block that website from collecting certain information about the browser’s user. Not all browsers offer a DNT option and DNT signals are not yet uniform. For this reason, many businesses, including Match (MIL), do not currently respond to DNT signals.
 
-5.      HOW WE USE INFORMATION
-==============================
+5\. HOW WE USE INFORMATION
+--------------------------
 
-The main reason we use your information is to deliver and improve our services.  Additionally, we use your info to help keep you safe and to provide you with advertising that may be of interest to you.  Read on for a more detailed explanation of the various reasons we use your information, together with practical examples.
+The main reason we use your information is to deliver and improve our services. Additionally, we use your info to help keep you safe and to provide you with advertising that may be of interest to you. Read on for a more detailed explanation of the various reasons we use your information, together with practical examples.
 
 **_To administer your account and provide our services to you_**
 
@@ -171,8 +169,8 @@ To process your information as described above, we rely on the following legal b
 *   _Legitimate interests_: We may use your information where we have legitimate interests to do so. For instance, we analyze users’ behavior on our services to continuously improve our offerings, we suggest offers we think might interest you, and we process information for administrative, fraud detection and other legal purposes.
 *   _Consent_: From time to time, we may ask for your consent to use your information for certain specific reasons. You may withdraw your consent at any time by contacting us at the address provided at the end of this Privacy Policy.
 
-6.      HOW WE SHARE INFORMATION
-================================
+6\. HOW WE SHARE INFORMATION
+----------------------------
 
 Since our goal is to help you make meaningful connections, the main sharing of users’ information is, of course, with other users. We also share some users’ information with service providers and partners who assist us in operating the services, with other Match Group companies and, in some cases, legal authorities. Read on for more details about how your information is shared with others.
 
@@ -184,11 +182,11 @@ If you choose to limit the audience for all or part of your profile or for certa
 
 *   **_With our service providers and partners_**
 
-We use third parties to help us operate and improve our services.  These third parties assist us with various tasks, including data hosting and maintenance, analytics, customer care, marketing, advertising, payment processing and security operations.
+We use third parties to help us operate and improve our services. These third parties assist us with various tasks, including data hosting and maintenance, analytics, customer care, marketing, advertising, payment processing and security operations.
 
 We may also share information with partners who distribute and assist us in advertising our services. For instance, we may share limited information on you in hashed, non-human readable form to advertising partners.
 
-We follow a strict vetting process prior to engaging any service provider or working with any partner.  All of our service providers and partners must agree to strict confidentiality obligations.
+We follow a strict vetting process prior to engaging any service provider or working with any partner. All of our service providers and partners must agree to strict confidentiality obligations.
 
 *   **_With other Match Group businesses_**
 
@@ -197,9 +195,9 @@ Match (MIL) is part of the Match Group family of businesses which, as of the dat
 We share your information with other Match Group companies to benefit you in two respects:
 
 *   for other Match Group companies to assist us in processing your information, as service providers, upon our instructions and on our behalf. Assistance provided by other Match Group companies may include technical processing operations, such as data hosting and maintenance, customer care, marketing and targeted advertising, finance and accounting assistance, better understanding how our service is used and users’ behavior to improve our service, securing our data and systems and fighting against spam, abuse, fraud, infringement and other wrongdoings.
-*   In order to improve your chances at building significant connections with others, we may give you opportunities to be visible on other Match Group services or to benefit from cross-platform functionalities. We will of course comply with applicable law and, where relevant, notify you of any such opportunity and allow you to agree or to refuse.  Examples of such opportunities may include the creation of a new service within Match Group, addressing a specific demographic that we feel would be interesting to you based on your search criteria.
+*   In order to improve your chances at building significant connections with others, we may give you opportunities to be visible on other Match Group services or to benefit from cross-platform functionalities. We will of course comply with applicable law and, where relevant, notify you of any such opportunity and allow you to agree or to refuse. Examples of such opportunities may include the creation of a new service within Match Group, addressing a specific demographic that we feel would be interesting to you based on your search criteria.
 
-We may also share information with other Match Group companies for legitimate business purposes such as corporate audit, analysis and consolidated reporting as well as compliance with applicable laws.  We may also share user information with other Match Group companies to remove users who violate our terms of service, or have been reported for criminal activity and/or bad behavior. In some instances, we may remove that user from all platforms.
+We may also share information with other Match Group companies for legitimate business purposes such as corporate audit, analysis and consolidated reporting as well as compliance with applicable laws. We may also share user information with other Match Group companies to remove users who violate our terms of service, or have been reported for criminal activity and/or bad behavior. In some instances, we may remove that user from all platforms.
 
 *   **_For corporate transactions_**
 
@@ -217,15 +215,15 @@ We may also share information: (i) if disclosure would mitigate our liability in
 
 We may ask for your consent to share your information with third parties. In any such case, we will make it clear why we want to share the information.
 
-We may use and share non-personal information (meaning information that, by itself, does not identify who you are such as device information, general demographics, general behavioral data, geolocation in de-identified form), as well as personal information in hashed, non-human readable form, under any of the above circumstances.  We may also share this information with other Match Group companies and third parties (notably advertisers) to develop and deliver targeted advertising on our services and on websites or applications of third parties, and to analyze and report on advertising you see. We may combine this information with additional non-personal information or personal information in hashed, non-human readable form collected from other sources. More information on our use of cookies and similar technologies can be found in our Cookie Policy [link](https://uk.match.com/pages/misc/cookie?styled=1).
+We may use and share non-personal information (meaning information that, by itself, does not identify who you are such as device information, general demographics, general behavioral data, geolocation in de-identified form), as well as personal information in hashed, non-human readable form, under any of the above circumstances. We may also share this information with other Match Group companies and third parties (notably advertisers) to develop and deliver targeted advertising on our services and on websites or applications of third parties, and to analyze and report on advertising you see. We may combine this information with additional non-personal information or personal information in hashed, non-human readable form collected from other sources. More information on our use of cookies and similar technologies can be found in our Cookie Policy [link](https://uk.match.com/pages/misc/cookie?styled=1).
 
-7.      CROSS-BORDER DATA TRANSFERS
-===================================
+7\. CROSS-BORDER DATA TRANSFERS
+-------------------------------
 
-Sharing of information laid out in Section 6 sometimes involves cross-border data transfers, for instance to the United States of America and other jurisdictions. As an example, where the service allows for users to be located in the European Economic Area (“EEA”), their personal information is transferred to countries outside of the EEA. We use standard contract clauses approved by the European Commission or other suitable safeguard to permit data transfers from the EEA to other countries.  Standard contractual clauses are commitments between companies transferring personal data, binding them to protect the privacy and security of your data.
+Sharing of information laid out in Section 6 sometimes involves cross-border data transfers, for instance to the United States of America and other jurisdictions. As an example, where the service allows for users to be located in the European Economic Area (“EEA”), their personal information is transferred to countries outside of the EEA. We use standard contract clauses approved by the European Commission or other suitable safeguard to permit data transfers from the EEA to other countries. Standard contractual clauses are commitments between companies transferring personal data, binding them to protect the privacy and security of your data.
 
-8.      YOUR RIGHTS
-===================
+8\. YOUR RIGHTS
+---------------
 
 We want you to be in control of your information, so we have provided you with the following tools:
 
@@ -240,24 +238,24 @@ We want you to be aware of your privacy rights. Here are a few key points to rem
 
 For your protection and the protection of all of our users, we may ask you to provide proof of identity before we can answer the above requests.
 
-Keep in mind, we may reject requests for certain reasons, including if the request is unlawful or if it may infringe on trade secrets or intellectual property or the privacy of another user.  If you wish to receive information relating to another user, such as a copy of any messages you received from him or her through our service, the other user will have to contact our Privacy Officer to provide their written consent before the information is released.
+Keep in mind, we may reject requests for certain reasons, including if the request is unlawful or if it may infringe on trade secrets or intellectual property or the privacy of another user. If you wish to receive information relating to another user, such as a copy of any messages you received from him or her through our service, the other user will have to contact our Privacy Officer to provide their written consent before the information is released.
 
-Also, we may not be able to accommodate certain requests to object to the processing of personal information, notably where such requests would not allow us to provide our service to you anymore.  For instance, we cannot provide our service if we do not have your date of birth.
+Also, we may not be able to accommodate certain requests to object to the processing of personal information, notably where such requests would not allow us to provide our service to you anymore. For instance, we cannot provide our service if we do not have your date of birth.
 
 *   Uninstall. You can stop all information collection by an app by uninstalling it using the standard uninstall process for your device. If you uninstall the app from your mobile device, the unique identifier associated with your device will continue to be stored. If you re-install the application on the same mobile device, we will be able to re-associate this identifier to your previous transactions and activities.
 *   Accountability. In certain countries, including in the European Union, you have a right to lodge a complaint with the appropriate data protection authority if you have concerns about how we process your personal information. The data protection authority you can lodge a complaint with notably may be that of your habitual residence, where you work or where we are established.
 
-9.      HOW WE PROTECT YOUR INFORMATION
-=======================================
+9\. HOW WE PROTECT YOUR INFORMATION
+-----------------------------------
 
-We work hard to protect you from unauthorized access to or alteration, disclosure or destruction of your personal information.  As with all technology companies, although we take steps to secure your information, we do not promise, and you should not expect, that your personal information will always remain secure.
+We work hard to protect you from unauthorized access to or alteration, disclosure or destruction of your personal information. As with all technology companies, although we take steps to secure your information, we do not promise, and you should not expect, that your personal information will always remain secure.
 
 We regularly monitor our systems for possible vulnerabilities and attacks and regularly review our information collection, storage and processing practices to update our physical, technical and organizational security measures.
 
-We may suspend your use of all or part of the services without notice if we suspect or detect any breach of security.  If you believe that your account or information is no longer secure, please notify us immediately [here](mailto:privacy@match.co.uk?subject=Privacy%20request).
+We may suspend your use of all or part of the services without notice if we suspect or detect any breach of security. If you believe that your account or information is no longer secure, please notify us immediately [here](mailto:privacy@match.co.uk?subject=Privacy%20request).
 
-10.   HOW LONG WE RETAIN YOUR INFORMATION
-=========================================
+10\. HOW LONG WE RETAIN YOUR INFORMATION
+----------------------------------------
 
 We keep your personal information only as long as we need it for legitimate business purposes (as laid out in Section 5) and as permitted by applicable law. To protect the safety and security of our users on and off our services, we implement a safety retention window of one year following account deletion. During this period, account information will be retained although the account will of course not be visible on the services anymore.
 
@@ -270,18 +268,18 @@ In practice, we delete or anonymize your information upon deletion of your accou
 
 Keep in mind that even though our systems are designed to carry out data deletion processes according to the above guidelines, we cannot promise that all data will be deleted within a specific timeframe due to technical constraints.
 
-11.   CHILDREN’S PRIVACY
-========================
+11\. CHILDREN’S PRIVACY
+-----------------------
 
-Our services are restricted to users who are 18 years of age or older.  We do not permit users under the age of 18 on our platform and we do not knowingly collect personal information from anyone under the age of 18.  If you suspect that a user is under the age of 18, please use the reporting mechanism available through the service.
+Our services are restricted to users who are 18 years of age or older. We do not permit users under the age of 18 on our platform and we do not knowingly collect personal information from anyone under the age of 18. If you suspect that a user is under the age of 18, please use the reporting mechanism available through the service.
 
-12.   PRIVACY POLICY CHANGES
-============================
+12\. PRIVACY POLICY CHANGES
+---------------------------
 
-Because we’re always looking for new and innovative ways to help you build meaningful connections, this policy may change over time.  We will notify you before any material changes take effect so that you have time to review the changes.
+Because we’re always looking for new and innovative ways to help you build meaningful connections, this policy may change over time. We will notify you before any material changes take effect so that you have time to review the changes.
 
-13.   HOW TO CONTACT US
-=======================
+13\. HOW TO CONTACT US
+----------------------
 
 If you have questions about this Privacy Policy, here’s how you can reach us:
 
