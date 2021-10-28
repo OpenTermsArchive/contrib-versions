@@ -301,6 +301,8 @@ We appreciate your taking the time to read these Terms of Use, and we are very h
 
 **In the event of any differences in meaning between the original English version and a translation, the original English version takes precedence.**
 
+![](//foundation.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
+
 Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Terms\_of\_Use/en&oldid=130886](https://foundation.wikimedia.org/w/index.php?title=Terms_of_Use/en&oldid=130886)"
 
 [Categories](https://foundation.wikimedia.org/wiki/Special:Categories "Special:Categories"):
