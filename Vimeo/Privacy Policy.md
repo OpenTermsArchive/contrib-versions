@@ -1,7 +1,7 @@
 **Vimeo Privacy Policy**
 ========================
 
-Last Updated: July 15, 2021
+Last Updated: October 28, 2021
 
 This Privacy Policy explains the information that Vimeo collects when you use its products and services, how that information is used, with whom it may be shared, and your privacy choices.
 
@@ -26,7 +26,7 @@ This Privacy Policy explains the information that Vimeo collects when you use it
 
 ### **Who we are and what we do**
 
-This Privacy Policy covers Vimeo.com, Inc. (collectively, “Vimeo,” “we” “us” or “our”). We provide online video hosting, sharing and related services through our owned-and-operated websites, including Vimeo.com and Livestream.com, our branded applications for mobile and connected devices, and our embeddable video players (collectively, the “services”).
+This Privacy Policy covers Vimeo.com, Inc. (collectively, “Vimeo,” “we” “us” or “our”). We provide online video hosting, sharing and related services through our owned-and-operated websites, including Vimeo.com and Livestream.com, our branded applications for mobile and connected devices, and our embeddable video players (collectively, the “services”).Test
 
 ### **Acceptance and Changes**
 
@@ -52,19 +52,21 @@ To make a purchase, you may need to provide a valid payment method (e.g., credit
 
 If you wish to sell items or earn money from advertising through our services, you must provide an account to receive funds and tax information, which may include your name, address, and taxpayer identification number.
 
-### **Content** 
+### **Content You Submit**
 
-Accountholders may create an account and upload and create content such as videos, text, photographs, and artwork. Your profile may display information about you and your activities. This information may be accessed by others. Your videos may be viewed and otherwise accessed by others, and associated metadata (e.g., titles, descriptions, tags, etc.) are viewable by others. Your interactions with other users (e.g., comments, "likes," private messages) may be seen by others. You may choose to limit the availability of your profile and videos. For more details, see **Section 9**.
+You may upload and create content such as videos, text, photographs, and artwork. Your account profile may display information about you and your activities. This information may be accessed by others. Your videos may be viewed and otherwise accessed by others, and associated metadata (e.g., titles, closed captions, descriptions, tags, etc.) may be viewable by others. You may choose to limit the availability of your profile and videos. For more details, see **Section 9**. 
+
+Your interactions during events such as live streams and webinars, or with other users (e.g., comments, "likes," poll responses) may be seen by others. 
 
 If you submit images or videos to us in connection with our video creation and editing tools, we may analyze such content using a variety of techniques, including machine-learning algorithms, for the sole purpose of creating a video at your direction. In doing so, we may derive facial-related information from your content solely for the purpose of creating a video for you. This information may be used, for example, to locate a face within a frame. Facial landmarks are retained for 48 hours after a video editing session. We do not collect, use, or store any facial-related information for the purpose of recognizing faces outside of the limited video-creation purposes set forth herein.
 
-### **Video Embed Capture Forms**
+### **Capture Forms**
 
-You may submit information through a form within our embeddable video player. This information will be received by both Vimeo and the video owner and is subject to both Vimeo's Privacy Policy as well as the video owner's privacy policy. Except where Vimeo is the video owner, Vimeo will not use any information you submit through such forms for direct marketing purposes.
+You may submit information through a capture form set up by a video owner or webinar host. This information will be received by both Vimeo and the video owner and is subject to both Vimeo's Privacy Policy as well as the video owner's privacy policy. Except where Vimeo is the video owner, Vimeo will not use any information you submit through such forms for direct marketing purposes.
 
 ### **Other Information You May Submit**
 
-You may submit data to us for limited purposes such as requesting customer support; answering a questionnaire; participating in a study or survey; entering contests or sweepstakes; or signing up to receive communications from us or another user.
+You may submit data to us for limited purposes such as requesting customer support; participating in a study or survey; entering contests or sweepstakes; applying for a job; or signing up to receive communications from us or another user.
 
 ### **Automatically-Collected Information**
 
@@ -85,15 +87,15 @@ We may obtain data from third parties about you. We may combine that data with i
 
 We may use your data for the following purposes:
 
-*   **Identification and authentication:** We use your data to verify you when you access your account.
-*   **Operating our services:** We use your data to provide our services, process and fulfill orders, provide customer support, and to otherwise comply with our contractual obligations to you. We (and/or our third-party vendors) use your financial information to process purchases made by you and to pay you amounts you have earned.
-*   **Communicating with you:** We use your data when we communicate with you (e.g., when we respond to a customer support or other inquiry).
-*   **Improving our services:** We use your data to understand how our services are being used and how we can improve them. In general, we analyze aggregated data, rather than specific user data. We may, however, need to analyze a specific case to address a specific problem (e.g., a bug that affects only a few accounts).
-*   **Customizing your experience:** We use your data to personalize the service to you. This may include remembering your preferences for language or volume or displaying videos that you might enjoy, based upon your viewing choices.
-*   **Marketing and advertising:** We use your data to show you ads on third-party sites. We may also use your data in delivering third-party advertisements to you. This may include "targeted ads" based upon your activities.
-*   **Exercising our rights:** Where reasonably necessary, we use your data to exercise our legal rights and prevent abuse of our service. For example, we may use your data to detect and prevent fraud, spam, or content that violates our Terms of Service.
-*   **Legal compliance:** We use your data where we are legally required to do so. For example, we may need to gather your data to respond to a subpoena or court order.
-*   **Protecting your information:** Where appropriate, we may anonymize, backup, and delete certain data.
+*   **Identification and authentication:** We use your data to verify you when you access your account.
+*   **Operating our services:** We use your data to provide our services, process and fulfill orders, provide customer support, and to otherwise comply with our contractual obligations to you. We (and/or our third-party vendors) use your financial information to process purchases made by you and to pay you amounts you have earned.
+*   **Communicating with you:** We use your data when we communicate with you (e.g., when we respond to a customer support or other inquiry).
+*   **Improving our services:** We use your data to understand how our services are being used and how we can improve them. In general, we analyze aggregated data, rather than specific user data. We may, however, need to analyze a specific case to address a specific problem (e.g., a bug that affects only a few accounts).
+*   **Customizing your experience:** We use your data to personalize the service to you. This may include remembering your preferences for language or volume or displaying videos that you might enjoy, based upon your viewing choices.
+*   **Marketing and advertising:** We use your data to show you ads on third-party sites, and to measure the effectiveness of those ads. 
+*   **Exercising our rights:** Where reasonably necessary, we use your data to exercise our legal rights and prevent abuse of our service. For example, we may use your data to detect and prevent fraud, spam, or content that violates our Terms of Service.
+*   **Legal compliance:** We use your data where we are legally required to do so. For example, we may need to gather your data to respond to a subpoena or court order.
+*   **Protecting your information:** Where appropriate, we may anonymize, backup, and delete certain data.
 
 We may use algorithms and other automated means to implement any of the above.
 
@@ -104,7 +106,7 @@ Whenever we process your data for one of these purposes, we have determined that
 *   Compliance with a legal obligation; or
 *   Consent
 
-If you require further information about the balancing test that Vimeo has undertaken to justify its reliance on legitimate interest as a lawful basis of processing, see **Section 15** for information on how to contact us.
+If you require further information about the balancing test that Vimeo has undertaken to justify its reliance on legitimate interest as a lawful basis of processing, see **Section 15** for information on how to contact us.
 
 5\. With Whom We Share Your Data
 --------------------------------
@@ -114,24 +116,26 @@ We share data with third parties as follows:
 *   **As you instruct:** We may make your profile and videos available to others as you instruct in using our services. We may share your data with persons to whom you have granted account-level access.
 *   **With your consent:** We may share your data with third parties where we have obtained your express consent to do so.
 *   **Authorized vendors:** We may share your data with third-party vendors that help us operate our services, process orders, and comply with your instructions and our contractual obligations. This includes payment processors, content delivery networks (CDNs), cloud-based hosting services, monitoring services, email service providers, quality assurance and testing vendors, fraud and abuse prevention vendors, customer relations management (CRM) vendors, and shipment vendors.
-*   **Advertising:** We may share your data with advertising companies to display relevant ads to you.
-*   **Analytics:** We may share your data with analytics providers which help us understand how customers are using our services.
+*   **Advertising:** We may share your data with advertising companies to display relevant ads to you, and to measure the effectiveness of those ads.
+*   **Analytics:** We may share your data with analytics providers which help us understand how customers are using our services. We may also share identifying analytics information with the hosts of webinars you attend, or uses of your organization-administered account (see below for more details).
 *   **Affiliates and advisors:** We may share your data with our auditors and advisors for planning, financial reporting, accounting, auditing, tax filings, and legal compliance. We may share your data with our affiliates to the extent necessary to provide you with the services ordered.
 *   **Certain legal situations:** We may share your data where we believe disclosure is necessary to comply with a legal obligation or in connection with a corporate transaction as discussed in Section 6.
 *   **Aggregated or anonymized information:** We may publicly disclose non-personal aggregated or anonymized information such as our number of visitors and registered users.
 
 We use reasonable efforts to vet vendors for their privacy and data security practices. We require that such vendors agree to protect the data we share.
 
-**Enterprise-Administered Accounts**
-------------------------------------
+**Organization-Administered Accounts**
+--------------------------------------
 
-Where the services are provided to you through your employer or another organization that administers access, that organization may be able to:
+You may create a Vimeo account using an email address provided or assigned to you by an organization (such as your work email address). If the organization establishes a direct relationship with us, they may, with prior notice, convert your personal account to become part of the organization's account. 
+
+This means the organization may:
 
 *   Access information about your account activity;
-*   Delete or limit access to your account or its content; and/or
-*   Change the email address associated with your account.
+*   Take control of the account, including any content whether uploaded before or after the date that the organization converts your account to the organization's account; and/or
+*   Delete your account.
 
-If you sign up for a Vimeo account using an email address belonging to an organization (i.e. your employer), we may disclose information about your account (such as the primary email address and the account type) to the corresponding organization. Please contact your organization’s administrator for further details.
+If you sign up for a Vimeo account using an email address issued to you by an organization, Vimeo may share your personal information (e.g., name, email address) with such organization. If you do not want an organization to access or otherwise control an account, use a personal email address and do not use an organizational email address when creating an account. 
 
 6\. Legal and Safety-Related Disclosures
 ----------------------------------------
@@ -189,13 +193,18 @@ Some of our subscription plans enable you to grant account-level access rights t
 
 We enable you to manage the privacy settings of your videos. On Vimeo.com, for example, your options, which depend on your subscription plan, may include:
 
-*   **Public (or "anyone"):** Your video will be publicly-available.
-*   **Just you (i.e., "only me"):** Your video will be available to you and authorized Team Members.
-*   **Selected people:** Your video will be available to users you select (such as users you follow or specifically-designated users).
-*   **Password-protected:** Your video may be accessed by anyone who enters the password you have set.
-*   **Private link:** Your video may be accessed by anyone who enters the link assigned to it.
+*   **Public (or "anyone"):** Your video will be publicly-available.
+*   **Just you (i.e., "only me"):** Your video will be available to you and authorized Team Members.
+*   **Selected people:** Your video will be available to users you select (such as users you follow or specifically-designated users).
+*   **Password-protected:** Your video may be accessed by anyone who enters the password you have set.
 
-We provide similar options for our Livestream.com services. You may change these settings at any time. Changes will be applied on a go-forward basis. You should exercise caution in granting access to others. Once you have granted access to someone else, you lose a degree of control over the distribution of your video as those persons may share the password and/or link with other people. Regardless of your profile or video privacy settings, Vimeo reserves the right to inspect them for compliance with its [Terms of Service](https://vimeo.com/terms), to provide customer support, or to address technical issues.
+You may change a video's privacy settings at any time. Changes will be applied on a go-forward basis. 
+
+You may create a sharable link to your video for the purpose of sharing your video with others or embedding your video on a third-party website (including your own). Creating such a sharable link will override your privacy settings and will allow anyone who enters the link in a browser to view your video without restriction. Similarly, embedding your video on a publicly-available website will allow the public to view your video regardless of your privacy settings. 
+
+You should exercise caution in granting access to others (whether through link sharing or passwords). Once you have granted access to someone else, you lose a degree of control over the distribution of your video as those persons may share the password and/or link with other people. 
+
+Regardless of your profile or video privacy settings, Vimeo reserves the right to inspect them for compliance with its [Terms of Service](https://vimeo.com/terms), to provide customer support, or to address technical issues.
 
 10\. Communications from Us
 ---------------------------
@@ -216,7 +225,7 @@ We use physical, technical, and organizational security measures to safeguard yo
 12\. Your Responsibilities
 --------------------------
 
-You may receive other people's data in using our service. If you receive information from other users, you must comply with all laws, including those concerning privacy, data security, and online marketing.
+You may receive other people's data in using our service. If you receive information from other users, you must process that information in compliance with your published privacy policy and all applicable laws, including those concerning privacy, data security, and online marketing.
 
 13\. Third-Party Services
 -------------------------
