@@ -218,7 +218,6 @@ Your information is controlled by GitLab B.V. and GitLab Inc. If you have questi
 *   [Support options](https://about.gitlab.com/support/)
 *   [Status](https://status.gitlab.com/)
 *   [Customers Portal](https://customers.gitlab.com/)
-*   Cookie Settings
 
 ### Company
 
@@ -236,4 +235,5 @@ Your information is controlled by GitLab B.V. and GitLab Inc. If you have questi
 *   [Contact](https://about.gitlab.com/company/contact/)
 *   [Terms](https://about.gitlab.com/terms/)
 *   [Privacy](https://about.gitlab.com/privacy/)
+
 *   [Trademark](https://about.gitlab.com/handbook/marketing/corporate-marketing/brand-activation/brand-standards/#trademark)
