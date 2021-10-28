@@ -424,7 +424,14 @@ By using any of our E-Commerce features, you acknowledge, warrant and agree that
 
 ### 7.5. Apple Pay
 
-Subject to territorial restrictions, you may accept payments with Apple Pay. By using Apple Pay, you accept and agree to the [Apple Pay Platform Web Merchant Terms and Conditions](https://www.wix.com/about/termspayments-update?experiments=rightClickDebug)." As discussed, the language in blue should be a hyperlink redirecting the user to a Wix-hosted web page with the exact content that appears on [this](https://developer.apple.com/apple-pay/terms/apple-pay-web/) page from Apple Pay \[see example of how Shopify did that [here](https://www.shopify.com/legal/apple-pay)\].
+Subject to territorial restrictions, you may accept payments with Apple Pay.  
+By using Apple Pay, you accept and agree to the [Apple Pay Platform Web Merchant  
+Terms and Conditions](https://www.wix.com/about/apple-terms-of-use), as they may be amended by Apple from time to time. We may  
+activate your Apple Pay account on your behalf, otherwise you will be required to  
+activate your Apple Pay account through your User Account dashboard. If you do not  
+wish to keep your Apple Pay account active, it is your responsibility to deactivate it. For  
+the avoidance of doubt, Apple Pay is a Third Party Service, as defined in Section 9  
+below.
 
 8\. Video Services
 ------------------
