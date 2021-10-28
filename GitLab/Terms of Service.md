@@ -146,7 +146,6 @@ These Website Terms of Use (the “Agreement”) govern all use of the GitLab.co
 *   [Support options](https://about.gitlab.com/support/)
 *   [Status](https://status.gitlab.com/)
 *   [Customers Portal](https://customers.gitlab.com/)
-*   Cookie Settings
 
 ### Company
 
@@ -164,4 +163,5 @@ These Website Terms of Use (the “Agreement”) govern all use of the GitLab.co
 *   [Contact](https://about.gitlab.com/company/contact/)
 *   [Terms](https://about.gitlab.com/terms/)
 *   [Privacy](https://about.gitlab.com/privacy/)
+
 *   [Trademark](https://about.gitlab.com/handbook/marketing/corporate-marketing/brand-activation/brand-standards/#trademark)
