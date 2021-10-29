@@ -1,3 +1,9 @@
+_The Facebook company is now Meta. While our company name is changing, we are continuing to offer the same products, including the Facebook app from Meta. Our Data Policy and Terms of Service remain in effect, and this name change does not affect how we use or share data. [Learn more about Meta](https://about.facebook.com/meta) and our vision for the metaverse._
+
+  
+  
+  
+
 **Terms of Service**
 
 Welcome to Facebook!
