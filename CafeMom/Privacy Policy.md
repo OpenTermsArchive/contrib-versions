@@ -111,7 +111,7 @@ We will take steps to verify your identity before processing your request to kno
 You may use an authorized agent to submit a request to know or a request to delete. When we verify your agent’s request, we may verify both your and your agent’s identity and request a signed document from you that authorizes your agent to make the request on your behalf. To protect your Personal Information, we reserve the right to deny a request from an agent that does not submit proof that they have been authorized by you to act on your behalf.
 
 **SHINE THE LIGHT**  
-California residents may also request information from us once per calendar year about any personal information shared with third parties for their own direct marketing purposes, including the categories of information and the names and addresses of those businesses with which we have shared such information. To request this information, please contact us at privacy@wildskymedia.com or by postal mail sent to Wild Sky Media, Inc. 125 Park Ave, 25th Floor New York, NY 10017. Your inquiry must specify “California Privacy Rights Request” in the subject line of the email or the first line of the letter, and include your name, street address, city, state and ZIP code.
+California residents may also request information from us once per calendar year about any personal information shared with third parties for their own direct marketing purposes, including the categories of information and the names and addresses of those businesses with which we have shared such information. To request this information, please contact us at privacy@wildskymedia.com or by postal mail sent to Wild Sky Media 6400 Congress Ave, Suite 2050 Boca Raton, FL 33487. Your inquiry must specify “California Privacy Rights Request” in the subject line of the email or the first line of the letter, and include your name, street address, city, state and ZIP code.
 
 **RESIDENTS OF THE EUROPEAN ECONOMIC AREA**  
 If you are a resident of the European Economic Area (“EEA”), you have certain rights and protections under the law regarding the processing of your personal data.
@@ -133,12 +133,12 @@ If you are a resident of the EEA and have a concern about our processing of pers
 This Privacy Policy may be revised periodically reflected by the “effective date” below. Please revisit this page frequently to become aware of any changes. If we materially change how we use your personal information, we will notify you here, by email, or by means of a notice on our home page prior to the change becoming effective.
 
 **Date Last Modified:**  
-This Privacy Policy was last modified November 18, 2020
+This Privacy Policy was last modified October 28, 2021
 
 **Contact Information:**  
 Please contact Wild Sky Media with any questions or comments about this Privacy Policy or the Wild Sky Media Sites by emailing: [privacy@wildskymedia.com](mailto:privacy@wildskymedia.com).
 
-Wild Sky Media, Inc.  
-125 Park Ave  
-25th Floor  
-New York, NY 10017
+Wild Sky Media  
+6400 Congress Ave  
+Suite 2050  
+Boca Raton, FL 33487
