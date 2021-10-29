@@ -75,7 +75,7 @@ Please note that some products and services may not be available in certain juri
 
 Futures and Derivatives Products. USDⓈ-M Futures, Coin-M Futures, Margin, Binance Options, Vanilla Options and Leveraged Tokens (“Futures and Derivatives Products”) will not be available to all users of the Netherlands, Germany, Italy, Australia and Hong Kong, and retail users of the United Kingdom.
 
-Crypto Tokens. FLOW will not be available to users of Canada. Privacy tokens (XMR, ZEC, DASH, XVG, XZC, KMD, ZEN, PIVX and GRS) will not be available to users of Australia with PayID associated with the Binance accounts.
+Crypto Tokens. Privacy tokens (XMR, ZEC, DASH, XVG, XZC, KMD, ZEN, PIVX and GRS) will not be available to users of Australia with PayID associated with the Binance accounts.
 
 **c. User Identity Verification**
 
