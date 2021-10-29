@@ -8,12 +8,12 @@ Effective as of 1 September 2021
 1.  [About this Policy](#1-about-this-policy)
 2.  [Your personal data rights and controls](#2-your-personal-data-rights-and-controls)
 3.  [Personal data we collect about you](#3-personal-data-we-collect-about-you)
-4.  [Our purpose for using your personal data](#04-our-purpose-for-using-your-personal-data)
-5.  [Sharing your personal data](#05-sharing-your-personal-data)
-6.  [Data retention and deletion](#06-data-retention-and-deletion)
-7.  [Transfer to other countries](#07-transfer-to-other-countries)
-8.  [Keeping your personal data safe](#08-keeping-your-personal-data-safe)
-9.  [Children](#09-children)
+4.  [Our purpose for using your personal data](#4-our-purpose-for-using-your-personal-data)
+5.  [Sharing your personal data](#5-sharing-your-personal-data)
+6.  [Data retention and deletion](#6-data-retention-and-deletion)
+7.  [Transfer to other countries](#7-transfer-to-other-countries)
+8.  [Keeping your personal data safe](#8-keeping-your-personal-data-safe)
+9.  [Children](#9-children)
 10.  [Changes to this Policy](#10-changes-to-this-policy)
 11.  [How to contact us](#11-how-to-contact-us)
 
@@ -45,7 +45,7 @@ We have included further information about rights and disclosures as required un
 
 Privacy laws, including the General Data Protection Regulation ("GDPR"), give rights to individuals over their personal data.
 
-See your rights and their descriptions in this table.
+See your rights and their descriptions in this table. You can also watch our video about [Your Privacy Controls](https://www.youtube.com/watch?v=xYdln3HFsQI&t=1s).
 
 |     | **It’s your right to...** |
 | --- | --- |
