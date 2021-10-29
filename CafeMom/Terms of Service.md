@@ -52,9 +52,9 @@ Wild Sky Media’s designated Copyright Agent to receive notifications of claime
 
 Attn: Legal Department  
 Wild Sky Media  
-125 Park Ave  
-25th Floor  
-New York, NY 10017  
+6400 Congress Ave  
+Suite 2050  
+Boca Raton, FL 33487  
 Email: [info@wildskymedia.com](mailto:info@wildskymedia.com)  
 
 You acknowledge that if you fail to comply with all of the requirements of this Section 5(D), your DMCA notice may not be valid.
@@ -74,9 +74,9 @@ B. Send mail to the following postal address:
 
 Customer Support Attn: Remove  
 Wild Sky Media  
-125 Park Ave  
-25th Floor  
-New York, NY 10017
+6400 Congress Ave  
+Suite 2050  
+Boca Raton, FL 33487
 
 Opting out may prevent you from receiving email messages regarding updates, updates, improvements, or special offers.
 
