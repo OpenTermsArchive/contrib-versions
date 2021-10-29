@@ -117,15 +117,14 @@ We share data with third parties as follows:
 *   **With your consent:** We may share your data with third parties where we have obtained your express consent to do so.
 *   **Authorized vendors:** We may share your data with third-party vendors that help us operate our services, process orders, and comply with your instructions and our contractual obligations. This includes payment processors, content delivery networks (CDNs), cloud-based hosting services, monitoring services, email service providers, quality assurance and testing vendors, fraud and abuse prevention vendors, customer relations management (CRM) vendors, and shipment vendors.
 *   **Advertising:** We may share your data with advertising companies to display relevant ads to you, and to measure the effectiveness of those ads.
-*   **Analytics:** We may share your data with analytics providers which help us understand how customers are using our services. We may also share identifying analytics information with the hosts of webinars you attend, or uses of your organization-administered account (see below for more details).
+*   **Analytics:** We may share your data with analytics providers which help us understand how customers are using our services. We may also share identifying analytics information with the hosts of webinars you attend, or users of your organization-administered account (see below for more details).
 *   **Affiliates and advisors:** We may share your data with our auditors and advisors for planning, financial reporting, accounting, auditing, tax filings, and legal compliance. We may share your data with our affiliates to the extent necessary to provide you with the services ordered.
 *   **Certain legal situations:** We may share your data where we believe disclosure is necessary to comply with a legal obligation or in connection with a corporate transaction as discussed in Section 6.
 *   **Aggregated or anonymized information:** We may publicly disclose non-personal aggregated or anonymized information such as our number of visitors and registered users.
 
 We use reasonable efforts to vet vendors for their privacy and data security practices. We require that such vendors agree to protect the data we share.
 
-**Organization-Administered Accounts**
---------------------------------------
+### **Organization-Administered Accounts**
 
 You may create a Vimeo account using an email address provided or assigned to you by an organization (such as your work email address). If the organization establishes a direct relationship with us, they may, with prior notice, convert your personal account to become part of the organization's account. 
 
