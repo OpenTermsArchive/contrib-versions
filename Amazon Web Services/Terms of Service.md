@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-#### Last Updated: October 26, 2021
+#### Last Updated: October 28, 2021
 
 #### 1\. Universal Service Terms (Applicable to All Services)
 
@@ -247,15 +247,7 @@ Your failure to maintain your database instance within the support perimeter (as
 
 **11.3.** Fees for Amazon SNS will apply regardless of whether delivery of your notifications is prevented, delayed, or blocked due to reasons outside of our control.
 
-**11.4.** You may not use Amazon SNS to send SMS messages that include Premium Content (as defined in the Mobile Marketing Association Guidelines). You may not charge recipients for receiving Amazon SNS notifications by SMS unless you have obtained the recipient’s express consent. You must advise recipients receiving Amazon SNS notification by SMS that telecommunications providers may charge the recipient to receive Amazon SNS notifications by SMS. You are responsible for ensuring you have all necessary terms in place with push notification service providers, including terms necessary to comply with data protection laws.
-
-You must obtain our prior written consent before using Amazon SNS to send SMS messages for:
-
-*   financial transactions or payment services (e.g., mobile banking, bill presentment, bill payment, money transfer, peer-to-peer payment or lending credit, debit or stored value payment services);
-*   charitable programs (e.g., soliciting donations for a non-profit organization);
-*   sweepstakes or contests;
-*   advertisements or promotions for commercial products, goods, or services; or
-*   location-based services (e.g., where a recipient receives messages based on the geographical location of the recipient’s wireless device).
+**11.4.** You are responsible for complying with legal requirements related to unsolicited or unwanted communications, including without limitation, the Telephone Consumer Protection Act (TCPA), the FTC’s Telemarketing Sales Rule, and the EU e-Privacy Directive, or any other similar telemarketing law.
 
 **11.5.** We may change, discontinue, or deprecate support for a third party push notification platform at any time.
 
@@ -270,7 +262,7 @@ You must obtain our prior written consent before using Amazon SNS to send SMS me
     
 *   Use the Services in hazardous environments (such as operation of nuclear facilities, aircraft navigation, or any other use that may result in foreseeable risk of injury, death, or destruction of property).
 
-**11.7** From time to time, telecommunication providers may change or modify their rules, requirements, and policies (collectively “Carrier Policies”). We will make reasonable efforts to notify you of changes to Carrier Policies through, for example, email, Personal Health Dashboard notifications, or Service Documentation. You are responsible for complying with all Carrier Policies that apply to your use of the Service.
+**11.7**.  From time to time, telecommunication providers may change or modify their rules, requirements, and policies (collectively “Carrier Policies”). We will make reasonable efforts to notify you of changes to Carrier Policies through, for example, email, Personal Health Dashboard notifications, or Service Documentation. You are responsible for complying with all Carrier Policies that apply to your use of the Service.
 
 #### 12\. AWS Identity and Access Management (IAM)
 
@@ -464,7 +456,9 @@ We may delete, upon 30 days’ notice to you, any of Your Content uploaded to AW
 
 **31.6.** Amazon WorkMail may log and use information such as server hostnames, IP addresses, timestamps, mail queue file identifiers, and spam filtering information for the purpose of troubleshooting or improving Amazon WorkMail.
 
-**31.7.** If your use of Amazon WorkMail is terminated, we may delete your data and your End Users’ mailboxes.  
+**31.7.** If your use of Amazon WorkMail is terminated, we may delete your data and your End Users’ mailboxes.
+
+**31.8.** Portions of Amazon WorkMail in Japan are sold and provided by AMCS LLC, an affiliate of AWS, and not AWS, but are otherwise subject to the terms of the Agreement.
 
 #### 32\. Amazon WorkSpaces Application Manager (Amazon WAM)
 
@@ -721,6 +715,8 @@ Notwithstanding any other provision of the Agreement, you may incorporate into y
 
 **53.2.3.** In using the Chime PSTN Service, you will not: (a) call or text PSTN telephone numbers (whether singly, sequentially or automatically) to generate income for you or others as a result of placing the call or texting, other than for your or your End Users’ individual business communications; or (b) engage in unusual calling patterns inconsistent with normal, individual use.
 
+**53.2.4.** Your use of the Chime PSTN Service in certain countries are subject to additional [Country Specific Communications Service Terms](https://aws.amazon.com/service-terms/country-specific-communications-service-terms/).
+
 **53.3.** If, as a part of Amazon Chime, AMCS provides you or your End Users with any telephone number (whether toll or toll-free), you understand and agree that you do not own the number and you do not have the right to keep that number indefinitely. AMCS reserves the right to change, cancel, or move telephone numbers.
 
 **53.4.** You and your End Users have the option to use Amazon Chime to record the applicable audio or video session along with chat and other types of recordings (collectively, “Recording”). If you or your End Users request that an audio or video session or other communication be recorded, Amazon Chime will attempt to notify you and your End Users of the Recording by providing a brief audio or visual notice at the time you and your End Users sign in to participate in the applicable session or communication. You and your End Users acknowledge that such notice or attempted notice followed by continued participation in the session or communication constitutes your effective consent to the Recording. You and your End Users understand that use of any Recording may be subject to laws or regulations regarding the recording of telephone calls and other electronic communications, and that it is your and your End Users’ responsibility to comply with all applicable laws regarding the Recording, including properly notifying all participants in a recorded session or to a recorded communication that the session or communication is being recorded and obtain their consent. Neither AWS nor its affiliates will be liable for your or your End Users’ unlawful Recording, including failure to provide notice or obtain consent. Any notice provided by AWS to alert participants that a session or communication is being recorded may not be relied upon by you or your End Users as definitive disclosure for your or your End Users compliance with applicable laws regarding the Recording.
@@ -733,7 +729,7 @@ Notwithstanding any other provision of the Agreement, you may incorporate into y
 
 **53.8.** Amazon Chime in Singapore is sold and provided by AMCS SG PRIVATE LIMITED, an affiliate of AWS, but is otherwise subject to the terms of the Agreement.
 
-**53.9.** You understand and agree that we store all user information (including chat messages, contacts, calendar, and meeting recordings) in the United States region(s) where the Amazon Chime service is hosted.  
+**53.9.** You understand and agree that we store all user information (including chat messages, contacts, calendar, and meeting recordings) in the United States region(s) where the Amazon Chime service is hosted.
 
 **53.10**. The Chime PSTN Service in the European Economic Area (EEA), the United Kingdom and Switzerland is sold and provided by AMCS, but is otherwise subject to the terms of the Agreement.  
 
@@ -749,6 +745,8 @@ Notwithstanding any other provision of the Agreement, you may incorporate into y
 
 **54.1.4.** If as a part of the Amazon Connect service, AMCS or AMCS SG provides you with an inbound calling number (whether toll-free or other), you understand and agree that you do not own the number and you do not have the right to keep that number indefinitely. AMCS and AMCS SG reserve the right to change, cancel, or move telephone numbers.
 
+**54.1.5.** Your use of the Connect PSTN Service in certain countries are subject to additional [Country Specific Communications Service Terms.](https://aws.amazon.com/service-terms/country-specific-communications-service-terms/)
+
 **54.2**. Amazon Connect is not a replacement for traditional telephone services. Amazon Connect does not support or carry emergency calling to any emergency services personnel or public safety answering points (“Emergency Services”), such as 911, and may not determine the physical location of call agents and other End Users. You understand and agree that it is your responsibility to (a) make alternative arrangements for you, your call agents, and your other End Users that may use Amazon Connect to access Emergency Services and (b) inform all call agents and other End Users that may use Amazon Connect of these limitations and how they may access Emergency Services via other means, including the alternative arrangements that you have made available. Neither AWS nor its affiliates will be liable for any damages resulting from any Emergency Services call or any inability to place an Emergency Services call using Amazon Connect. You agree to indemnify and hold AWS and its affiliates harmless for any claims referring or relating to any Emergency Services call or any inability to place an Emergency Services call using Amazon Connect.
 
 **54.3.** There are important service limitations with Amazon Connect. You must carefully review and comply with the applicable Documentation at all times, including limitations related to call rates and frequency, automated calling, calls to certain regions and others. If you believe you will exceed any limitations for legitimate reasons, you must contact customer service ahead of time to request applicable exceptions, which we may or may not make in our reasonable discretion. Amazon Connect does not support calls to or from facsimile machines or modems. Any caller identification service provided as a part of Amazon Connect is not guaranteed to function at all times.
@@ -757,7 +755,7 @@ Notwithstanding any other provision of the Agreement, you may incorporate into y
 
 **54.5**. You and your End Users have the option to request that Amazon Connect record an applicable audio session along with chat and other types of recordings (collectively, “Recording”). You and your End Users understand that the making of or use of any Recording may be subject to laws or regulations regarding the recording of telephone calls and other electronic communications or of communications generally, and that it is your and your End Users’ responsibility to comply with all applicable laws regarding any Recording, including properly notifying all participants in a recorded session or to a recorded communication that the session or communication is being recorded and obtain their consent. Neither AWS nor its affiliates will be liable for your or your End Users’ unlawful Recording, including failure to provide notice or obtain consent.
 
-**54.6** To enable the Apple Business Chat integration with Amazon Connect, you must create an Apple Business Register account and are responsible for reviewing and accepting any Apple terms pertaining to use of Apple Business Chat, such as Apple’s Terms of Use.  You agree that you are solely responsible for your or your End User’s use of Apple Business Chat, the content you or your End Users send through Apple Business Chat, and compliance with applicable Apple terms.   
+**54.6** To enable the Apple Business Chat integration with Amazon Connect, you must create an Apple Business Register account and are responsible for reviewing and accepting any Apple terms pertaining to use of Apple Business Chat, such as Apple’s Terms of Use.  You agree that you are solely responsible for your or your End User’s use of Apple Business Chat, the content you or your End Users send through Apple Business Chat, and compliance with applicable Apple terms.
 
 **54.7.** **Amazon Connect Machine Learning Services**. “Amazon Connect ML Services” means, collectively, Contact Lens for Amazon Connect and Amazon Connect Customer Profiles Identity Resolution (Preview). “Amazon Connect ML Content” means Your Content that is processed by an Amazon Connect ML Service. The following terms apply to your use of Amazon Connect ML Services:
 
@@ -773,10 +771,9 @@ Notwithstanding any other provision of the Agreement, you may incorporate into y
 
 If your caller is a resident of or located in Illinois, and you are subject to the Illinois Biometric Information Privacy Act (“BIPA”), the following terms and requirements also apply when you use the service:
 
-> (a) **Written policy and retention schedule**. Except as required or permitted by applicable law. AWS will permanently destroy biometric data when the initial purpose for collecting or obtaining such data has been satisfied, within three years after the caller's last interaction with the Services, or after being informed by you that the biometric data should be destroyed, whichever occurs first.  
->   
+(a) **Written policy and retention schedule**. Except as required or permitted by applicable law. AWS will permanently destroy biometric data when the initial purpose for collecting or obtaining such data has been satisfied, within three years after the caller's last interaction with the Services, or after being informed by you that the biometric data should be destroyed, whichever occurs first.  
 
-> (b) **Written notice and release**. You must provide the following information in writing to, and obtain an executed written release as required by BIPA from, each caller in Illinois: “\[Your company name (“Company”)\] uses Amazon Web Services as a service provider for voice verification services. Biometric identifiers and biometric information (“biometric data”) may be collected, stored, and used by Amazon Web Services on behalf of \[Company\] for the purpose of comparing the voice of a caller with a voice that has been previously recorded, for fraud and security purposes. Biometric information that is generated as part of this process will be retained for up to three years after your last interaction with \[Company\], or longer only if allowed or required by applicable law, and thereafter destroyed. Except as required or permitted by applicable law, Amazon Web Services will permanently destroy biometric data that is stored on \[Company’s\] behalf when the initial purpose for collecting or obtaining such data has been satisfied, within three years after your last interaction with the services, or after being informed by \[Company\] that such data should be destroyed, whichever comes first. Biometric information may be disclosed between \[Company\] and Amazon Web Services as necessary to provide and receive this service. You hereby provide your express, informed, written release and consent for \[Company\] and Amazon Web Services to collect, use, and store your biometric data as described herein.”
+(b) **Written notice and release**. You must provide the following information in writing to, and obtain an executed written release as required by BIPA from, each caller in Illinois: “\[Your company name (“Company”)\] uses Amazon Web Services as a service provider for voice verification services. Biometric identifiers and biometric information (“biometric data”) may be collected, stored, and used by Amazon Web Services on behalf of \[Company\] for the purpose of comparing the voice of a caller with a voice that has been previously recorded, for fraud and security purposes. Biometric information that is generated as part of this process will be retained for up to three years after your last interaction with \[Company\], or longer only if allowed or required by applicable law, and thereafter destroyed. Except as required or permitted by applicable law, Amazon Web Services will permanently destroy biometric data that is stored on \[Company’s\] behalf when the initial purpose for collecting or obtaining such data has been satisfied, within three years after your last interaction with the services, or after being informed by \[Company\] that such data should be destroyed, whichever comes first. Biometric information may be disclosed between \[Company\] and Amazon Web Services as necessary to provide and receive this service. You hereby provide your express, informed, written release and consent for \[Company\] and Amazon Web Services to collect, use, and store your biometric data as described herein.”
 
 If you do not comply with these requirements or otherwise comply with all applicable laws, you may not use the service. You agree to cooperate with AWS to confirm compliance with all applicable laws and these requirements upon AWS’s request, including by providing AWS with verification that you have obtained the required written release under BIPA from end users. You will defend and indemnify AWS for any and all damages, liabilities, penalties, fines, costs, and expenses (including reasonable attorney fee’s) arising out of or in any way related to your direct or indirect failure to meet the requirements of this section or comply with applicable laws, and will promptly provide AWS with proof of insurance coverage upon request. You hereby release all AWS from all damages, liabilities, penalties, fines, costs, and expenses (including reasonable attorneys’ fees) in connection with any claim, action, audit, suit, investigation, or other proceedings related to your failure to meet such requirements or to otherwise comply with applicable law.
 
