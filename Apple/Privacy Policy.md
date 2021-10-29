@@ -179,4 +179,4 @@ Please take a moment to familiarize yourself with our privacy practices, accessi
     Apple Inc. One Apple Park Way, Cupertino, California, USA, 95014
     
 
-[![TRUSTe](//privacy-policy.truste.com/privacy-seal/seal?rid=1580fe3d-f313-4354-8fa1-008e083ce49e)](https://privacy.truste.com/privacy-seal/validation?rid=1580fe3d-f313-4354-8fa1-008e083ce49e)
+[![TRUSTe](https://www.apple.com/legal/images/trust-e-seal/trust-e-seal_large_2x.png)](https://privacy.truste.com/privacy-seal/validation?rid=1580fe3d-f313-4354-8fa1-008e083ce49e)
