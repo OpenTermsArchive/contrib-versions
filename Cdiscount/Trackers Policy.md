@@ -313,7 +313,7 @@ Cdiscount et FLOA mettent par ailleurs en œuvre des traitements spécifiques po
 
 **
 
-**Informations d’identité  – cela inclut vos prénom, nom de famille, date de naissance, sexe, adresse électronique, code interne de traitement, etc.** 
+**Informations d���identité  – cela inclut vos prénom, nom de famille, date de naissance, sexe, adresse électronique, code interne de traitement, etc.** 
 
 **Informations de contact – cela inclut par exemple : votre numéro de téléphone, adresse postale, adresse électronique, etc.** 
 
