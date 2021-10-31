@@ -144,7 +144,7 @@ In order for us to process requests to access or delete your information, we wil
 
 You may designate an authorized agent to submit a request on your behalf to access or delete your personal information. To do so, you must: (1) provide that authorized agent written and signed permission to submit such request; and (2) verify your own identity directly with us. Please note, we may deny a request from an authorized agent that does not submit proof that they have been authorized by you to act on your behalf.
 
-If you have been designated as an authorized agent to submit a request on behalf of a consumer, you must (1) download and complete this [Authorized Agent Designation Form](https://worldmarket.zendesk.com/hc/article_attachments/4404903189915/Authorized_Agent_Designation_Form.docx) and have it signed by the consumer, and (2) attach the signed form when you submit a [Request Form](https://worldmarket.zendesk.com/hc/en-us/requests/new?ticket_form_id=1260811375130).
+If you have been designated as an authorized agent to submit a request on behalf of a consumer, you must (1) download and complete this [Authorized Agent Designation Form](https://worldmarket.zendesk.com/hc/article_attachments/4405881181339/Cost_Plus_World_Market_Authorized_Agent_Designation_Form_.docx) and have it signed by the consumer, and (2) attach the signed form when you submit a [Request Form](https://worldmarket.zendesk.com/hc/en-us/requests/new?ticket_form_id=1260811375130).
 
 How We Protect Personal Information
 -----------------------------------
