@@ -488,3 +488,5 @@ Cdiscount : Meuble, Déco, High Tech, Bricolage, Jardin, Sport
 (1) En France métropolitaine, voir conditions [ICI](https://www.cdiscount.com/shipping/shippinginfo.html?shippingpartnerorigin=ft) ou en page « Les Modes et Frais de livraison » accessible en pied de page
 
 (2) Garantie Légale de Conformité dont vous bénéficiez en vertu des articles L 217-4 et suivants du Code de la Consommation
+
+(3) Délais de retour prolongés pour les produits expédiés par Cdiscount en France métropolitaine (Corse comprise). Voir conditions [ICI](https://i2.cdscdn.com/odr/ImagesOK/CommercialOffer/conditions_13191202110221614248717.pdf)
