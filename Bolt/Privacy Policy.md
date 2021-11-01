@@ -1,11 +1,11 @@
 Privacy Notice for Passengers in Ireland
 ----------------------------------------
 
-**Bolt Technology OÜ** (hereinafter: “**Bolt Head Office**”) _Registered seat: Vana-Lõuna tn 39/1, Tallinn Harjumaa 10134, Estonia_ _E-mail:_ privacy@bolt.eu _Website:_ [https://bolt.eu](https://bolt.eu/)
+**Bolt Technology OÜ** (hereinafter: “**Bolt Head Office**”) _Registered seat: Vana-Lõuna tn 39/1, Tallinn Harjumaa 10134, Estonia_ _E-mail:_ [privacy@bolt.eu](mailto:privacy@bolt.eu) _Website:_ [https://bolt.eu](https://bolt.eu/)
 
-**Bolt ITX Ltd.**. (hereinafter: “**Bolt Ireland**”) _Registered seat:_ 15 Main Street, Raheny, Dublin (Ireland) _E-mail:_ dublin@bolt.eu _Website:_ [https://bolt.eu](https://bolt.eu/)
+**Bolt ITX Ltd.**. (hereinafter: “**Bolt Ireland**”) _Registered seat:_ 15 Main Street, Raheny, Dublin (Ireland) _E-mail:_ [dublin@bolt.eu](mailto:dublin@bolt.eu) _Website:_ [https://bolt.eu](https://bolt.eu/)
 
-The contact details of the data protection officer of Bolt Head Office: privacy@bolt.eu.
+The contact details of the data protection officer of Bolt Head Office: [privacy@bolt.eu](mailto:privacy@bolt.eu).
 
 Bolt Head Office developed the Bolt application ("**Bolt app**") and Bolt Ireland provides in Ireland Bolt Services (i.e., providing booking services as a licensed dispatch operator for the procurement of transportation services performed by third party licensed small public service vehicles which include taxis, hackneys or limousines (“SPSV”) through the Bolt app, jointly with Bolt Ireland who is in charge of the taxi dispatching activities. Bolt Head Office established the data processing conditions and is in charge of operating the IT infrastructure supporting the Bolt app.
 
@@ -95,12 +95,12 @@ Bolt Ireland - as the entity in charge of the dispatching in Ireland - is deemed
 
 *   Bolt Head Office will only use your e-mail address and/or phone number to send direct marketing messages pursuant to their legitimate business interest under Article 6, para. 1, let. f.) of the GDPR.
 *   Bolt Head Office may personalize direct marketing messages using the information on how you use Bolt services (frequency of use, journeys, payments). Direct marketing messages could be e-mails, SMS-s, push notifications or in-app messages, and may contain promotional codes or information which could facilitate the use of the service. The aim is that you receive advertisements which could raise your interest/ are as relevant to you as much as possible.
-*   If you no longer wish to receive direct marketing messages, please click the “Unsubscribe” link in the footer of our e-mail or change the settings related to direct marketing in Bolt app or send us an e-mail at dublin@bolt.eu.
+*   If you no longer wish to receive direct marketing messages, please click the “Unsubscribe” link in the footer of our e-mail or change the settings related to direct marketing in Bolt app or send us an e-mail at [dublin@bolt.eu](mailto:dublin@bolt.eu).
 *   We may process personal data (your Facebook name) for the participation in sweepstakes organized on Facebook and publish your name provided you have consented to.
 *   We may also generate new categories within the Bolt app and launch promotional initiatives for customer fidelization.
 *   Bolt Head Office may direct to you marketing campaigns that contain gifts, sweepstakes and other marketing or promotional materials.
 
 **12\. Dispute resolution and remedies**
 
-*   Disputes relating to the processing of personal data are resolved through customer support (for matters relating to Bolt Head Office: info@bolt.eu; for matters relating to Bolt Ireland: dublin@bolt.eu) or by contacting Bolt’s Data Protection Officer (privacy@bolt.eu).
-*   In case you believe that the data processing is unlawful, you are entitled to start the procedure before the Irish Data Protection Commission (Postal address: Data Protection Commission, 21 Fitzwilliam Square South, Dublin 2, D02 RD28, Ireland; web contact: [https://forms.dataprotection.ie/contact](https://forms.dataprotection.ie/contact)) and initiate judicial proceedings or before the Estonian Data Protection Inspectorate (www.aki.ee) which can be contacted by email: info@aki.ee.
+*   Disputes relating to the processing of personal data are resolved through customer support (for matters relating to Bolt Head Office: [info@bolt.eu](mailto:info@bolt.eu); for matters relating to Bolt Ireland: [dublin@bolt.eu](mailto:dublin@bolt.eu)) or by contacting Bolt’s Data Protection Officer ([privacy@bolt.eu](mailto:privacy@bolt.eu)).
+*   In case you believe that the data processing is unlawful, you are entitled to start the procedure before the Irish Data Protection Commission (Postal address: Data Protection Commission, 21 Fitzwilliam Square South, Dublin 2, D02 RD28, Ireland; web contact: [https://forms.dataprotection.ie/contact](https://forms.dataprotection.ie/contact)) and initiate judicial proceedings or before the Estonian Data Protection Inspectorate ([www.aki.ee](http://www.aki.ee/)) which can be contacted by email: [info@aki.ee](mailto:info@aki.ee).
