@@ -11,7 +11,7 @@ To benefit from Bolt Services and provide Transportation Services through the Bo
 
 1.1 **Bolt Ireland** (also referred to as **we**, **ours** or **us**) - **Bolt ITX Ltd.** is a registered company under the laws of Ireland, company number: 671417, EU VAT no. 3694239QH, registered address: 15 Main Street, Raheny, Dublin (Ireland), D05 X006.
 
-**Bolt Group companies** - means Bolt Technology OÜ (registry code 12417834, address Vana-Lõuna tn 15 Tallinn Harjumaa 10135, Estonia, e-mail address info@bolt.eu) and companies over which Bolt Technology OÜ exercises right of control (e.g., Bolt Technology OÜ’s subsidiaries).
+**Bolt Group companies** - means Bolt Technology OÜ (registry code 12417834, address Vana-Lõuna tn 15 Tallinn Harjumaa 10135, Estonia, e-mail address [info@bolt.eu](mailto:info@bolt.eu)) and companies over which Bolt Technology OÜ exercises right of control (e.g., Bolt Technology OÜ’s subsidiaries).
 
 **Bolt Partners** - means local representatives, local branches, agents appointed or mandated by Bolt Technology OÜ (e.g., Payment Agent).
 
@@ -41,7 +41,7 @@ To benefit from Bolt Services and provide Transportation Services through the Bo
 
 1.15 **Payment Agent** - Bolt Operations OÜ (Register code: 14532901; Legal address: Vana-Lõuna tn 15 Tallinn Harjumaa 10135 , formerly, Billify OÜ), the agent responsible for providing technical support to facilitate payment services and/or billing. The Payment Agent may also process and settle complaints regarding payments.
 
-1.16 **Website** - www.bolt.eu and all relevant sub-sites.
+1.16 **Website** - [www.bolt.eu](http://www.bolt.eu/) and all relevant sub-sites.
 
 1.17 **You, Your, Yours** - refers to the Fleet Partner or Driver, as applicable.
 
@@ -252,21 +252,25 @@ Subject to your compliance with the Agreement, Bolt Ireland hereby grants you fo
 12.2. Bolt Ireland, Bolt Group Companies, Bolt Partners and/or its agents, directors and employees shall not be liable, to the maximum extent permitted by applicable law, for any loss or damage that may arise out of or in connection with this Agreement or the use of the Bolt Apps and/or Bolt Platform and/or Bolt Services, including, but not limited to:
 
 *   any direct or indirect property damage, financial or monetary loss;
+    
 *   loss of profit or anticipated savings;
+    
 *   loss of business, contracts, contacts, goodwill, reputation and any loss that may arise from the interruption of the business;
+    
 *   loss or inaccuracy of data; and
+    
 *   any other type of loss or damage.
     
-    12.3. The financial liability of Bolt Ireland, Bolt Group Companies, Bolt Partners in connection with the violation of this Agreement shall be limited to EUR 500 per Fleet Partner. You shall have the right to claim for damages only if Bolt Ireland, Bolt Group Companies, Bolt Partners has deliberately violated this Agreement.
-    
-    12.4. For the avoidance of doubt, Bolt Ireland, Bolt Group Companies, Bolt Partners does not guarantee the receipt of any requests from the Passenger and can in no way be considered as acting on behalf of the Passenger.
-    
-    12.5. Bolt Ireland strives to remove unpleasant users of the Bolt Apps. That being said, Bolt Ireland shall not be held liable for the actions or omissions of Passengers or co-passengers using the Bolt Apps, and shall not be held liable for any loss or damage that may incur to you as a result of the actions or omissions of the Passengers or co-passengers.
-    
-    12.6. You shall be fully liable for breaching the T&Cs, this Agreement or any other applicable laws or regulations and must stop and remedy such breach immediately after receipt of a respective demand from Bolt Ireland or any public authority. You shall indemnify Bolt Ireland, Bolt Group Companies, Bolt Partners for any direct and/or indirect loss and/or damage, loss of profits, expense, penalty, fine that Bolt Ireland, Bolt Group Companies, Bolt Partners may occur in connection with your breach of the T&Cs, this Agreement and any other applicable laws and regulations. If the Passenger presents any claims against Bolt Ireland in connection with your provision of Transportation Services, then you shall compensate such damage to the damaged party in full within 7 (seven) days as of the receipt of the respective request from Bolt Ireland. In case Bolt Ireland is entitled to present any claims against you, then you shall compensate the damaged party any legal costs related to the evaluation of the damages and the submission and enforcement of claims relating to compensation for such damages.
-    
-    12.7. You must comply with all tax and trade obligations that may arise in connection with the performance of your obligations under the Agreement or the provision of Transportation Services. You must indemnify Bolt Ireland, Bolt Group Companies, Bolt Partners against all tax, customs, duties, claims and penalties, as well as any trade-related penalties arising from your failure to comply with your tax and / or trade obligations (including, but not limited to, social security tax).
-    
+
+12.3. The financial liability of Bolt Ireland, Bolt Group Companies, Bolt Partners in connection with the violation of this Agreement shall be limited to EUR 500 per Fleet Partner. You shall have the right to claim for damages only if Bolt Ireland, Bolt Group Companies, Bolt Partners has deliberately violated this Agreement.
+
+12.4. For the avoidance of doubt, Bolt Ireland, Bolt Group Companies, Bolt Partners does not guarantee the receipt of any requests from the Passenger and can in no way be considered as acting on behalf of the Passenger.
+
+12.5. Bolt Ireland strives to remove unpleasant users of the Bolt Apps. That being said, Bolt Ireland shall not be held liable for the actions or omissions of Passengers or co-passengers using the Bolt Apps, and shall not be held liable for any loss or damage that may incur to you as a result of the actions or omissions of the Passengers or co-passengers.
+
+12.6. You shall be fully liable for breaching the T&Cs, this Agreement or any other applicable laws or regulations and must stop and remedy such breach immediately after receipt of a respective demand from Bolt Ireland or any public authority. You shall indemnify Bolt Ireland, Bolt Group Companies, Bolt Partners for any direct and/or indirect loss and/or damage, loss of profits, expense, penalty, fine that Bolt Ireland, Bolt Group Companies, Bolt Partners may occur in connection with your breach of the T&Cs, this Agreement and any other applicable laws and regulations. If the Passenger presents any claims against Bolt Ireland in connection with your provision of Transportation Services, then you shall compensate such damage to the damaged party in full within 7 (seven) days as of the receipt of the respective request from Bolt Ireland. In case Bolt Ireland is entitled to present any claims against you, then you shall compensate the damaged party any legal costs related to the evaluation of the damages and the submission and enforcement of claims relating to compensation for such damages.
+
+12.7. You must comply with all tax and trade obligations that may arise in connection with the performance of your obligations under the Agreement or the provision of Transportation Services. You must indemnify Bolt Ireland, Bolt Group Companies, Bolt Partners against all tax, customs, duties, claims and penalties, as well as any trade-related penalties arising from your failure to comply with your tax and / or trade obligations (including, but not limited to, social security tax).
 
 **13\. TERM, SUSPENSION AND TERMINATION**
 
@@ -277,8 +281,11 @@ Subject to your compliance with the Agreement, Bolt Ireland hereby grants you fo
 13.3. Bolt Ireland may terminate this Agreement with a notice period of 30 (thirty) days at any time and at its own discretion. The notice period shall not apply and the termination shall produce immediate effect, if Bolt Ireland:
 
 *   has a legal or regulatory obligation to terminate this agreement in a manner which does not allow it to respect that notice period; or
+    
 *   exercises a right of termination under an imperative reason pursuant to national law;
+    
 *   can demonstrate that your (also by means of your employees or contractors) have repeatedly infringed any of the applicable terms and conditions.
+    
 
 Or if you have become insolvent or have initiated any liquidation or bankruptcy proceeding or any proceeding similar in nature.
 
@@ -296,11 +303,10 @@ The termination of the Agreement will not affect:
 
 *   any accrued rights of either party, including any right to receive any payments due but unpaid before the termination; or
 *   obligations, which are expressed to survive the termination.
-    
-    13.5. Bolt Ireland may immediately suspend the Fleet Partners / Diver's access to the Bolt Platform, Bolt Driver Account, and Bolt Services also during the investigation period if we suspect there is a violation of the Agreement or fraudulent activity. The access suspension is removed as soon as the investigation disproves such suspicions.
-    
-    13.6. Additional requirements and safeguards provided in Regulation (EU) 2019/1150 (“Regulation”) may apply where the termination of the Agreement or suspension of the access to the Bolt Platform, Bolt Driver Account and Bolt Apps affects the your rights of using the Bolt Services for the provision of Transportation Services in a member state of the European Union or European Economic Area (“Member State”).
-    
+
+13.5. Bolt Ireland may immediately suspend the Fleet Partners / Diver's access to the Bolt Platform, Bolt Driver Account, and Bolt Services also during the investigation period if we suspect there is a violation of the Agreement or fraudulent activity. The access suspension is removed as soon as the investigation disproves such suspicions.
+
+13.6. Additional requirements and safeguards provided in Regulation (EU) 2019/1150 (“Regulation”) may apply where the termination of the Agreement or suspension of the access to the Bolt Platform, Bolt Driver Account and Bolt Apps affects the your rights of using the Bolt Services for the provision of Transportation Services in a member state of the European Union or European Economic Area (“Member State”).
 
 13.7. You (i.e., “**Business User Operating in the Member State**”) have the right to challenge the termination of the Agreement, suspension, and other alleged non-compliance with the Regulation, in accordance with the “Internal Complaint-Handling System Rules for Business Users”. In fact, we will provide you with the opportunity to clarify the facts and circumstances that led to the restriction, suspension or termination in its internal complaint-handling process. If the restriction, suspension or termination is revoked, you shall be enabled to continue to access the Bolt Services without any limitation of accessing personal or other data, or both resulting from its prior use of the Bolt Platform, Bolt Apps or Bolt Services.
 
@@ -340,7 +346,7 @@ Regulation (EU) 2019/1150 of the European Parliament and of the Council of 20 Ju
 
 16.1. You are obliged to notify Bolt Ireland promptly of any material change regarding the Fleet Partner, the Drivers and/or vehicles (including contact information) and to ensure that any provided data or information are correct and up-to-date at any time.
 
-16.2. Bolt Ireland contact information: dublin@bolt.eu
+16.2. Bolt Ireland contact information: [dublin@bolt.eu](mailto:dublin@bolt.eu)
 
 16.3. Any notification made under the Agreement shall be deemed satisfactory if (i) it is delivered in person, (ii) sent by courier with proof of delivery, (iii) sent by registered post, (iv) by e-mail or (v) via the Bolt Driver Account or Bolt Apps. Any notice sent or posted in accordance with this clause shall be deemed received: (i) if delivered in person, at the time of delivery to the recipient; (ii) if delivered by courier on the date indicated by the courier as the date on which the envelope containing the notice was delivered to the recipient; (iii) if sent by registered mail, on the 10th day following delivery of the document to the post office; (iv) when disclosed on the Bolt Driver Account or the Bolt Apps; or (v) if sent by e-mail, on the day the party receiving the e-mail confirms receiving the respective e-mail or on the 2nd day following the dispatch of the e-mail provided that the sender has not received an error notice (notifying that the e-mail was not delivered to the party) and has sent the e-mail again on the next calendar day and has not received a similar error notice.
 
