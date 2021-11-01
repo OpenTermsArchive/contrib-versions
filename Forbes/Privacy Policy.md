@@ -10,7 +10,7 @@
     
     This Privacy Statement outlines how Forbes Media LLC (“Forbes” “we” “us” or “our”) collects, uses, processes, and shares your personal information and other information about you (your “user information”) in connection with your access to and/or use of Forbes.com and other Forbes owned digital media (collectively, the “Site”), including any content, features, services, or other offerings that Forbes may provide in connection the Site, such as email communications or newsletters that Forbes may send in connection with your use of the Site. This Privacy Statement also describes your choices and rights regarding the use, access to, correction, or deletion of your user information. By using the Site, you acknowledge that you understand that we will use your user information in accordance with this Privacy Statement. Where required by law, you will also be asked to provide clear and unequivocal affirmative consent to the collection, processing, and sharing of your user information via cookies and similar technologies. The Site is owned and operated by Forbes.
     
-    \>Notice to EU/UK individuals, residents of California and Nevada, and residents of China: this Privacy Statement is intended to comply with: (1) Regulation (EU) 2016/679 of the European Parliament and of the Council of the European Union 27 April 2016 (the “GDPR”), and the UK equivalent (the "UK GDPR"), and provide appropriate protection and care with respect to the treatment of your user information in accordance with those laws; the California Consumer Privacy Act ("CCPA") Nevada law; and China’s Personal Information Protection Law of PRC (“PIPL”).
+    \>Notice to EU/UK individuals, residents of California and Nevada, and residents of China: this Privacy Statement is intended to comply with: (1) Regulation (EU) 2016/679 of the European Parliament and of the Council of the European Union 27 April 2016 (the “GDPR”), and the UK equivalent (the "UK GDPR"), and provide appropriate protection and care with respect to the treatment of your user information in accordance with those laws; the California Consumer Privacy Act ("CCPA"); Nevada law; and China’s Personal Information Protection Law of PRC (“PIPL”).
     
     #### Quick links
     
@@ -100,7 +100,7 @@
     
     #### Information that We Collect Automatically
     
-    When you visit our Site, we may collect certain user information automatically from your device. In some territories, including California, the European Economic Area ("EEA") the United Kingdom (the EEA and the United Kingdom, together "Europe"), and China, this information may be considered personal data or personal information under applicable data protection laws.
+    When you visit our Site, we may collect certain user information automatically from your device. In some territories, including California, the European Economic Area ("EEA"), the United Kingdom (the EEA and the United Kingdom, together "Europe"), and China, this information may be considered personal data or personal information under applicable data protection laws.
     
     Specifically, the user information we collect automatically may include information like your IP address, device type, unique device identification numbers, browser-type, broad geographic location (e.g., country or city-level location) and other technical information. We may also collect user information about how your device has interacted with our Site, including the pages accessed and links clicked.
     
