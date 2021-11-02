@@ -24,12 +24,12 @@ Cookies usually have expiry dates that determine how long they stay in your brow
 *   Session cookies are temporary cookies that expire automatically whenever you close your browser.
 *   Persistent cookies usually stay in your browser for a set period, or until you manually delete them.
 
-You can learn more about the duration of individual cookies we use in our Cookies Settings .
+You can learn more about the duration of individual cookies we use in our Cookies Settings.
 
 Turning off cookies
 -------------------
 
-You can change your cookie preferences at any time by accessing our Cookies Settings , including withdrawing any consent you provided at any time.
+You can change your cookie preferences at any time by accessing our Cookies Settings, including withdrawing any consent you provided at any time.
 
 You can also manage and delete cookies through most internet browsers by changing your cookie settings but if you do Deliveroo websites and apps won’t work properly. 
 
@@ -53,7 +53,7 @@ For more information on cookie management and blocking or deleting cookies for a
 What cookies do we use?
 -----------------------
 
-You can learn more about the individual cookies that Deliveroo uses on each Deliveroo website and the function they perform in our Cookies Settings . For general information on why we use cookies, please see the sections below.
+You can learn more about the individual cookies that Deliveroo uses on each Deliveroo website and the function they perform in our Cookies Settings. For general information on why we use cookies, please see the sections below.
 
 Strictly necessary cookies
 --------------------------
