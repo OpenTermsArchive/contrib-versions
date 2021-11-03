@@ -1,3 +1,6 @@
+Privacy Statement
+=================
+
 This Privacy Statement explains our practices, including your choices, regarding the collection, use, and disclosure of certain information, including your personal information in connection with the Netflix service.
 
 ### Contacting Us
