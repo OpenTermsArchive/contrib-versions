@@ -1,7 +1,7 @@
 Couchsurfing.com Privacy Policy
 ===============================
 
-Effective Date: September **29, 2021**
+Effective Date: November **1, 2021**
 
 Please read this Global Privacy Policy (“**Privacy Policy**”) carefully to get a clear understanding of how Couchsurfing International, Inc. (“**Couchsurfing**,” “**we**,” “**us**” or “**our**”) collects, uses, discloses, protects and otherwise handles information about you. Our privacy practices may vary among the countries in which we operate to reflect local practices and legal requirements. In this Privacy Policy, we also provide a supplementary privacy notice for [California residents](#NoticetoCAResidents) and a supplementary privacy notice for data subjects in the [EEA, Switzerland and the UK (collectively, “Europe”)](#NoticeToEuropeanDataSubjects).
 
@@ -27,12 +27,12 @@ We collect information you provide to us, such as when you create an account, up
 
 The types of information we may collect include:
 
-*   **Account information**, such as your name, username, gender, birth date, email address, mailing address, billing address, phone number and profile picture;
+*   **Account information**, such as your name, username, gender, birth date, email address, mailing address, city, country, postal code, billing address, phone number and profile picture;
 *   **Communications** that we exchange with users when they contact us with questions or feedback, including feedback about interacting with other users, and messages and interactive forum information, such as discussion group posts, messages to other Couchsurfing users and information you provide in connection with activities and events;
 *   **Other background, contact and demographic information**, such as your occupation, personal URL, IM username, emergency contact, home descriptions, travel history and plans and other interests and self-descriptions you choose to provide;
 *   **Payment and transactional data** when you pay for our Services, including name, payment card information, bank account number, billing information, and your transaction history. This information is collected and processed by our payment providers, Stripe, PayPal  , Google and Apple, and we do not have access to payment card numbers. In addition to this Privacy Policy and our [Terms of Use](https://about.couchsurfing.com/about/terms-of-use), information related to your payments or purchases is also processed according to Stripe’s, PayPal’s, Google’s, and Apple’s service agreements and privacy policies.
 *   **Information stored on your mobile device (if you have given us permission to access this information)**, such as your photos, calendar information and your contacts’ name, phone numbers and image thumbnail (if available). In particular, to help users connect with people they know, we offer them the option to invite friends to join them on Couchsurfing. To take advantage of this feature, users can opt in to share phone numbers from their address book or add phone numbers manually.
-*   **Identity verification data that you may provide if you elect to use the identity verification service**. This includes the identity document and images used in the process, as well as the information included on the identity document provided, as permitted by the applicable law This information is collected and processed by a third party identity verification service.
+*   **Identity verification data that you may provide if you elect to use the identity verification service**. This includes the identity document and images used in the process, as well as the information included on the identity document provided, as permitted by the applicable law. This information is collected and processed by a third party identity verification service provided by Onfido. For more information on how Onfido may handle your data please review [Onfido’s privacy policy](https://www.onfido.com/privacy/).
 
 #### Information We Collect Automatically
 
@@ -84,16 +84,20 @@ We use information about you to:
 
 Couchsurfing has users located across the globe. We may store and process personal information in the United States and other countries, which may not have the same data protection laws as your home country or territory. However, wherever we store your information we will treat it in accordance with this Privacy Policy or as otherwise disclosed to you. Please note, while Couchsurfing is certified under the EU.-U.S. and the Swiss-U.S. Privacy Shield frameworks, following the invalidation of such frameworks we no longer rely on Privacy Shield for our cross-border data transfers. However, we continue to comply with the frameworks. Please read the information below, which we provide in accordance with the Privacy Shield Notice Principle.
 
-Couchsurfing International Inc. complies with the EU-U.S. Privacy Shield Framework and the Swiss - U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union, United Kingdom and Switzerland to the United States, respectively. Couchsurfing International Inc. has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov/](https://www.privacyshield.gov/). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) [here](https://feedback-form.truste.com/watchdog/request). Couchsurfing is responsible and liable if third-party agents that it uses to process the personal data on its behalf do so in a manner inconsistent with the Privacy Shield Principles, unless Couchsurfing proves that it is not responsible for the event that allowed the damage to occur.
+Couchsurfing International Inc. complies with the EU-U.S. Privacy Shield Framework and the Swiss - U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union, United Kingdom and Switzerland to the United States, respectively. Couchsurfing International Inc. has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov/](https://www.privacyshield.gov/).
+
+To the extent required by the Privacy Shield principles or applicable law, you have the opportunity to choose (opt out) whether your personal information is (i) to be disclosed to a third party or (ii) to be used for a purpose that is materially different from the purpose(s) for which it was originally collected or subsequently authorized by you. For more information about the choices you have in relation to your personal information, visit the [“Your Information Choices”](#YourInformationChoices), and to exercise your rights please email [privacy@couchsurfing.com](mailto:privacy@couchsurfing.com).
+
+In compliance with the Privacy Shield Principles, we commit to resolve complaints about our collection or use of your personal information. Individuals with inquiries or complaints regarding our Privacy Shield policy should first contact us at [privacy@couchsurfing.com](mailto:privacy@couchsurfing.com). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) [here](https://feedback-form.truste.com/watchdog/request). Note, you may have the possibility, under certain conditions, to invoke binding arbitration for complaints regarding Privacy Shield compliance not resolved by any of the other Privacy Shield mechanisms. For more information about invoking binding arbitration, please review additional information [here](https://www.privacyshield.gov/article?id=ANNEX-I-introduction). Couchsurfing is responsible and liable if third-party agents that it uses to process the personal data on its behalf do so in a manner inconsistent with the Privacy Shield Principles, unless Couchsurfing proves that it is not responsible for the event that allowed the damage to occur.
+
+We are subject to investigatory and enforcement powers of the U.S. Federal Trade Commission with respect to personal information received or transferred pursuant to the Privacy Shield Framework
 
 ### Sharing of Information
-
-#### How We Share Personal Information
 
 We share personal information as follows:
 
 *   With your consent;
-*   With third party vendors, consultants and other service providers who need access to such information to carry out their work for us (such as hosting, analytics, customer support, email and SMS delivery, identity verification and fraud prevention and detection);.
+*   With third party vendors, consultants and other service providers who need access to such information to carry out their work for us (such as hosting, analytics, customer support, email and SMS delivery, identity verification (Onfido), and fraud prevention and detection);.
 *   With search engines in order to index the content you provide as part of a discussion forum or public profile;
 *   With partners who run contests, special offers or other events or activities in connection with our Services;
 *   In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business to another company;
@@ -195,7 +199,7 @@ If you want to raise a question to Couchsurfing, or otherwise exercise your righ
 
 *   sending an email to DataRep at [couchsurfing@datarep.com](mailto:couchsurfing@datarep.com)
 *   contacting us on our online webform at [www.datarep.com/data-request](https://www.datarep.com/data-request), or
-*   mailing your inquiry to DataRep at the most convenient of the addresses found in here.
+*   mailing your inquiry to DataRep at the most convenient of the addresses found in [here](https://about.couchsurfing.com/files/DataRep_ContactLocations.docx).
 
 Please note: When mailing your data protection inquiries, it is essential that you mark your letters for "DataRep" and not "Couchsurfing", or your inquiry may not reach DataRep. Please refer clearly to Couchsurfing in your correspondence. On receiving your correspondence, Couchsurfing is likely to request evidence of your identity, to ensure your personal data and information connected with it is not provided to anyone other than you.
 
