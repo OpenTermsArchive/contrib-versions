@@ -1,3 +1,5 @@
+September 8, 2021
+
 ### 1\. Our Privacy Commitment
 
 Wire Swiss GmbH (“Wire” “we” “us”), as the responsible party within the meaning of data protection law, is committed to protecting your data. Wire does not rent or sell your data to third parties. Your data is also not used for targeted ads, or any other kind of profiling. This Privacy Policy informs you about how we process your data when you use the app offered by us and/or additional Wire products (together “Wire services”) and what rights you have as a data subject towards us. Unless the context indicates otherwise, any reference to “you”, “your” or “yourself” in this Privacy Policy includes the respective user of a team management functionality, the respective team admin and the respective team member of the Wire Services (as defined in our Terms of Use).
@@ -109,5 +111,3 @@ This Privacy Policy may change from time to time. We will make the revised Priva
 ### 15\. Terms of Use
 
 Please read the Terms of Use governing the use of the Site and the Service, as they also govern the terms of this Privacy Policy.
-
-* * *
