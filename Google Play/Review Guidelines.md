@@ -683,7 +683,7 @@ Apps may only use the permission (and any data derived from the permission) to p
 
 ### Location permissions
 
-[Device location](https://developer.android.com/training/location) is regarded as personal and sensitive user data subject to the [Personal and sensitive information](https://support.google.com/googleplay/android-developer/answer/9888076#personal_sensitive) policy, and the following requirements:
+[Device location](https://developer.android.com/training/location) is regarded as personal and sensitive user data subject to the [Personal and sensitive information](https://support.google.com/googleplay/android-developer/answer/9888076#personal_sensitive) policy and the [Background location policy](https://support.google.com/googleplay/android-developer/answer/9799150?hl=en-GB#zippy=), and the following requirements:
 
 *   Apps may not access data protected by location permissions (e.g. ACCESS\_FINE\_LOCATION, ACCESS\_COARSE\_LOCATION, ACCESS\_BACKGROUND\_LOCATION) after it is no longer necessary to deliver current features or services in your app.
 *   You should never request location permissions from users for the sole purpose of advertising or analytics. Apps that extend permitted usage of this data for serving advertising must be in compliance with our [ads policy](https://support.google.com/googleplay/android-developer/answer/9857753).
@@ -697,7 +697,7 @@ Apps are allowed to access location using foreground service (when the app only 
 
 Apps designed specifically for children must comply with the [Designed for Families](https://support.google.com/googleplay/android-developer/answer/9893335#designed_for_families_prog) policy.
 
-For more information on the policy requirements, please see [this help article](https://support.google.com/googleplay/android-developer/answer/9799150?hl=en-GB&ref_topic=2364761). 
+For more information on the policy requirements, please see [this help article](https://support.google.com/googleplay/android-developer/answer/9799150?hl=en-GB&ref_topic=2364761).
 
 ### All files access permission
 
