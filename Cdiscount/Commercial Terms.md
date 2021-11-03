@@ -1278,10 +1278,9 @@ Il en sera de même dans le cas où le Bénéficiaire ne pourrait bénéficier d
   
 **
 
-Le privilège « Ma cagnotte à volonté » (ci-après le « **Privilège** ») offre la possibilité pour l’Abonné de cumuler du crédit sur la Cagnotte consultable dans son Espace Client pour l’achat de produits éligibles sur le Site (ci-après les « Offres Site ») et/ou pour l’achat d’offres partenaires (ci-après les « Offres Partenaires ») sur des sites partenaires, accessibles via la plateforme dédiée (ci-après la « Plateforme ») à l’url [https://cagnotte.cdiscount.com/](https://cagnotte.cdiscount.com/). La Plateforme sera relayée sur le Site.  
+Le privilège « Ma cagnotte à volonté » (ci-après le « **Privilège** ») offre la possibilité pour l’Abonné de cumuler du crédit sur la Cagnotte consultable dans son Espace Client pour l’achat de produits éligibles sur le Site (ci-après les « Offres Site »).   
   
-
-Les Offres Partenaires comprennent des offres en ligne et des offres en magasin conformément aux conditions accessibles sur chacune des Offres Partenaires que l’Abonné s’engage à lire et accepter sans réserve avant chaque commande et disponibles [ici](https://cagnotte.cdiscount.com/conditions-offres/).
+ 
 
 La Cagnotte est personnelle : en cas de Partage d’Abonnement dans les conditions précisées à l’article 8 ci-avant, le Bénéficiaire ne bénéficierait pas du crédit cumulé par l’Abonné dans le cadre du Privilège.
 
@@ -1295,11 +1294,9 @@ En cas de partage d’Abonnement dans les conditions précisées à l’article 
 
 **9.2.1 L’Abonné cumulera du crédit sur sa Cagnotte :**
 
-\- Soit, pour les Offres Site, par l’achat de produits éligibles au Privilège sur le Site, c’est-à-dire de produits proposés à la vente sur le Site et porteur du pictogramme «  ©  » (ci-après les « **Produits éligibles au Privilège** ») ;
+Pour les Offres Site, par l’achat de produits éligibles au Privilège sur le Site, c’est-à-dire de produits proposés à la vente sur le Site et porteur du pictogramme «  ©  » (ci-après les « **Produits éligibles au Privilège** »). 
 
-\- Soit, pour les Offres Partenaire, par l’achat d’Offres Partenaires proposées sur la Plateforme accessible via le Site.
-
-Le montant du crédit auquel donne droit une Offre Site ou une Offre Partenaire est précisé soit sur la fiche produit du Produit éligible au Privilège pour les Offres Site, soit sur l’Offre Partenaire concernée pour les Offres Partenaire, sous forme : 
+Le montant du crédit auquel donne droit une Offre Site est précisé sur la fiche produit du Produit éligible au Privilège pour les Offres Site sous forme : 
 
 \- d’un montant en euros ; ou
 
@@ -1311,13 +1308,11 @@ Le montant du crédit auquel donne droit une Offre Site ou une Offre Partenaire 
 
 Le crédit sera cumulé sur la Cagnotte :** 
 
- \- Soit à l’issue d’un délai maximum de trente (30) jours ouvrés à compter de la livraison du Produit éligible au Privilège, pour les Offres Site.
-
- \- Soit à l’issue du délai mentionné sur chaque Offre Partenaire au moment de l’achat puisque le délai dépend de la date de confirmation du commerçant partenaire, pour les Offres Partenaires.
+ A l’issue d’un délai maximum de trente (30) jours ouvrés à compter de la livraison du Produit éligible au Privilège, pour les Offres Site.
 
 Avant l’écoulement de ces périodes, le montant à créditer sera affiché comme étant « En attente » dans l’Espace Client de l’Abonné, rubrique « Ma cagnotte à volonté ».
 
-Il est également précisé, concernant les Offre Site, qu’en cas de commande contenant plusieurs Produits éligibles au Privilège, le total du crédit auquel donne droit cette commande sera cumulé sur la Cagnotte à l’issue d’un délai maximum de trente (30) jours ouvrés à compter de la livraison du dernier Produit éligible de la commande. Concernant les Offres Partenaires, le crédit sera cumulé à l’issue de chacun des délais mentionnés sur lesdites Offres.
+Il est également précisé, concernant les Offre Site, qu’en cas de commande contenant plusieurs Produits éligibles au Privilège, le total du crédit auquel donne droit cette commande sera cumulé sur la Cagnotte à l’issue d’un délai maximum de trente (30) jours ouvrés à compter de la livraison du dernier Produit éligible de la commande.
 
 A l’issue de ce délai maximum de trente (30) jours ouvrés, le montant ainsi crédité sur la Cagnotte sera affiché comme étant « Actif » dans l’Espace Client de l’Abonné, rubrique « Ma cagnotte à volonté » (ci-après le **« Solde de la Cagnotte** ».
 
