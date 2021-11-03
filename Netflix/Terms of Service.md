@@ -1,3 +1,6 @@
+Netflix Terms of Use
+====================
+
 Netflix provides a personalized subscription service that allows our members to access movies and TV shows ("Netflix content") streamed over the Internet to certain Internet-connected TVs, computers and other devices ("Netflix ready devices").
 
 These Terms of Use govern your use of our service. As used in these Terms of Use, "Netflix service", "our service" or "the service" means the personalized service provided by Netflix for discovering and watching Netflix content, including all features and functionalities, recommendations and reviews, the website, and user interfaces, as well as all content and software associated with our service.  
