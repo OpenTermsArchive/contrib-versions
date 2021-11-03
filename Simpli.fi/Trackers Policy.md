@@ -104,6 +104,7 @@ We adhere to the Self-Regulatory Principles for Online Behavioral Advertising an
 |     | LinkedinWidgets | This is only activated if clicked on and redirects to our Linkedin page. | For additional information on Linkedin tracking visit these links:<br><br>[Opt Out](https://www.linkedin.com/help/linkedin/answer/68098?lang=en)  <br>[Ad Preferences](https://www.linkedin.com/help/linkedin/answer/62931?lang=en)<br><br>For general information visit [https://www.linkedin.com/help/linkedin](https://www.linkedin.com/help/linkedin) |
 |     | Truste Seal | This is only activated if clicked on and redirects to our Truste proof of certificate site. | [Click here](https://privacy.truste.com/privacy-seal/validation?rid=f535d01d-afd3-4141-baa1-3db679535a5f) for more details. |
 |     | Simpli.fi tracking cookie | We use the cookie to target users with ads. | [Click here](https://optout.simpli.fi/opt-out) to opt out. |
+|     | LiveRamp ID | Simpli.fi uses LiveRamp’s universal identifier that is tied to devices in the LiveRamp Identity Graph. | [Click here](https://liveramp.com/opt_out/) for more details. |
 
 11.0 Contact Us
 ---------------
