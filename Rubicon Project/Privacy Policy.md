@@ -124,7 +124,7 @@ For more information about our privacy practices, if you have questions, or if y
 
 Magnite, Inc.  
 Attn:  Privacy Team  
-6080 Center Drive, 4th Floor, Los Angeles, CA 90045, USA
+1250 Broadway, 15th Floor, New York, New York 10001
 
 You can also contact Magnite’s Data Protection Officer at [dpo@magnite.com](mailto:dpo@magnite.com)
 
