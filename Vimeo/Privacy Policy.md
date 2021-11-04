@@ -26,7 +26,7 @@ This Privacy Policy explains the information that Vimeo collects when you use it
 
 ### **Who we are and what we do**
 
-This Privacy Policy covers Vimeo.com, Inc. (collectively, “Vimeo,” “we” “us” or “our”). We provide online video hosting, sharing and related services through our owned-and-operated websites, including Vimeo.com and Livestream.com, our branded applications for mobile and connected devices, and our embeddable video players (collectively, the “services”).Test
+This Privacy Policy covers Vimeo.com, Inc. (collectively, “Vimeo,” “we” “us” or “our”). We provide online video hosting, sharing and related services through our owned-and-operated websites, including Vimeo.com and Livestream.com, our branded applications for mobile and connected devices, and our embeddable video players (collectively, the “services”).
 
 ### **Acceptance and Changes**
 
