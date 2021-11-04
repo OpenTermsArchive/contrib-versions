@@ -47,9 +47,7 @@ Ad links
 
 Advertising links can be offered in some of the Services offered by QWANT.
 
-These links, marked with the “Ad” label, are messages of advertising nature that come from advertisers and are displayed for a fee. Clicking those links only lead to the target websites. We decline any responsibility regarding obligations relative to the contractual relationships that may arise from them. Every advertiser has the duty to respect regulatory and legal obligations that apply to it
-
-If you want to be indexed in QWANT Shopping, you can send an e-mail to [shopping@qwant.com](mailto:shopping@qwant.com).
+These links, marked with the “Ad” label, are messages of advertising nature that come from advertisers and are displayed for a fee. Clicking those links only lead to the target websites. We decline any responsibility regarding obligations relative to the contractual relationships that may arise from them. Every advertiser has the duty to respect regulatory and legal obligations that apply to it.
 
 Pluridisciplinary activities
 ----------------------------
@@ -79,7 +77,7 @@ Reporting content
 
 QWANT is a mere technical intermediary that allows you to access content available on the Internet. When requesting that a content be delisted on QWANT, if you obtain a positive answer from our side, we remind you that this content can still be available and accessible via other search engines or by typing the webpage URL in the address bar of your web browser. It is your responsibility to contact the publisher and/or hosting provider of said webpages in order to ask for a definitive withdrawal of the content.
 
-In the event that you notice content that may relate to apologies for crimes against humanity, provocation to or apologies for acts of terrorism, incitement to racial hatred, towards people on the basis of their sex, their sexual orientation or identity or handicap, child pornography, incitement to violence, attacks on human dignity, when browsing the Services, you have the option to let us know by contacting us at the address [legal@qwant.com](mailto:legal@qwant.com) (also available at our FAQ).
+In the event that you notice content that may relate to apologies for crimes against humanity, provocation to or apologies for acts of terrorism, incitement to racial hatred, towards people on the basis of their sex, their sexual orientation or identity or handicap, child pornography, incitement to violence, attacks on human dignity, when browsing the Services, you have the option to let us know by contacting us at the address [legal@qwant.net](mailto:legal@qwant.net) (also available at our FAQ).
 
 In any other situation, please send is a registered letter to the following address: QWANT – Direction Ethique & Affaires Juridiques, Crystal Park building, 63 Rue de Villiers, 92200 Neuilly-sur-Seine, France.
 
@@ -121,3 +119,5 @@ Applicable law
 The Services and their TOS are subject to French law, wherever they may be used. In the event of that amicable solutions fail or are not sought, any dispute arising from these provisions may be brought before the competent courts.
 
 All rights reserved, QWANT® 2019
+
+*   Last update: October 20, 2021
