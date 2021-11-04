@@ -565,7 +565,7 @@ Personal and sensitive user data includes, but isn't limited to, personally iden
 *   Use a runtime permissions request whenever available, prior to accessing data gated by [Android permissions](https://developer.android.com/guide/topics/permissions/overview).
 *   Not sell personal and sensitive user data.
 
-### Prominent disclosure and consent requirement
+#### Prominent disclosure and consent requirement
 
 In cases where users may not reasonably expect that their personal and sensitive user data will be required to provide or improve the policy compliant features or functionality within your app (e.g.,data collection occurs in the background of your app), you must meet the following requirements:
 
@@ -585,13 +585,21 @@ In cases where users may not reasonably expect that their personal and sensiti
 *   Must not interpret navigation away from the disclosure (including tapping away or pressing the back or home button) as consent; and
 *   Must not use auto-dismissing or expiring messages as a means of obtaining user consent.
 
+To meet policy requirements, it’s recommended that you reference the following example format for prominent disclosure when it’s required:
+
+*   '\[This app\] collects/transmits/syncs/stores \[type of data\] to enable  \["feature"\], \[in what scenario\].
+*   _Example: 'Fitness Funds collects location data to enable fitness tracking even when the app is closed or not in use and is also used to support advertising'._ 
+*   _Example: 'Call buddy collects read and write call log data to enable contact organisation even when the app is not in use'._
+
 To ensure that Google Play remains a safe and respectful platform, we've created standards defining and prohibiting content that is harmful or inappropriate for our users.
 
+*   An app collects device location but does not have a prominent disclosure explaining which feature uses this data and/or indicates the app’s usage in the background.
+*   An app has a runtime permission requesting access to data **before** the prominent disclosure which specifies what the data is used for.
 *   An app that accesses a user's inventory of installed apps and doesn't treat this data as personal or sensitive data subject to the above privacy policy, data handling, and prominent disclosure and consent requirements.
 *   An app that accesses a user's phone or contact book data and doesn't treat this data as personal or sensitive data subject to the above privacy policy, data handling, and prominent disclosure and consent requirements.
 *   An app that records a user’s screen and doesn't treat this data as personal or sensitive data subject to this policy.
 *   An app that collects [device location](https://developer.android.com/training/location) and does not comprehensively disclose its use and obtain consent in accordance with the above requirements
-*   An app that collects restricted permissions in the background of the app including for tracking, research or marketing purposes and that does not comprehensively disclose its use and obtain consent in accordance with the above requirements. 
+*   An app that collects restricted permissions in the background of the app including for tracking, research or marketing purposes and does not comprehensively disclose its use and obtain consent in accordance with the above requirements. 
 
 Effective 28 October 2021:  
 
