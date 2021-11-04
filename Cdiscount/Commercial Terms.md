@@ -1304,9 +1304,7 @@ Le montant du crédit auquel donne droit une Offre Site est précisé sur la fic
 
    
 
- **9.2.2 
-
-Le crédit sera cumulé sur la Cagnotte :** 
+ **9.2.2 Le crédit sera cumulé sur la Cagnotte :** 
 
  A l’issue d’un délai maximum de trente (30) jours ouvrés à compter de la livraison du Produit éligible au Privilège, pour les Offres Site.
 
@@ -1326,8 +1324,6 @@ Le Solde de la Cagnotte est utilisable dans les conditions définies ci-après.
 **9.3.1** Le Solde de la Cagnotte est utilisable par l’Abonné pendant toute la durée de l’Abonnement, dès lors que le délai légal de rétractation de quatorze jours suivant la Date de souscription au Service est écoulé. 
 
 **9.3.2** La durée de validité de chaque montant crédité à la suite de la passation d’une commande éligible au Privilège sera précisée dans l’Espace Client de l’Abonné, rubrique « Ma cagnotte à volonté ».
-
-Il est précisé que la durée de validité est différente selon que le montant crédité provient d’une Offre Site ou d’une Offre Partenaire accessible via la Plateforme.
 
 Tout montant crédité et non utilisé par l’Abonné avant la fin de sa durée de validité sera automatiquement déduit du Solde de la Cagnotte et sera donc définitivement perdu.
 
