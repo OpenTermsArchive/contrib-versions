@@ -281,7 +281,7 @@ Conformément à la directive 2002/58/CE du 12 juillet 2002, la société Cdisco
 
  ****o** Paramétrage des cookies avec l’outil TrustCommander proposé par Cdiscount**Vous êtes informé de la collecte de ces informations dès votre première connexion sur [www.cdiscount.com](https://www.cdiscount.com/) par l'intermédiaire du bandeau d'information relatif aux cookies. Afin de se conformer à la règlementation, Cdiscount utilise un outil permettant à l’internaute de paramétrer le dépôt des cookies lors de sa connexion sur le Site.  
   
-Pour accéder à la liste des cookies déposés et en configurer le dépôt cliquez ici : [**Gérer mes cookies**](https://www.cdiscount.com/#) .  
+Pour accéder à la liste des cookies déposés et en configurer le dépôt cliquez ici : [Gérer mes cookies](https://www.cdiscount.com/#) .  
  ****o** C****réation d’une liste d’opposition au dépôt des cookies**Pour bloquer la collecte et l’utilisation d’informations vous concernant par des sociétés publicitaires souhaitant vous proposer des publicités basées sur vos intérêts, vous pouvez accéder aux sites suivants :  
  o La plate-forme de désabonnement de la NAI : _[_http://www.networkadvertising.org/choices/_](http://www.networkadvertising.org/choices/)  
 _ o La plate-forme de désabonnement de l’EDAA _[_http://www.youronlinechoices.com_](http://www.youronlinechoices.com/)  
@@ -307,23 +307,24 @@ Cdiscount et FLOA mettent par ailleurs en œuvre des traitements spécifiques po
 
 **<!--\[if !supportLists\]-->2<!--\[endif\]-->** 
 
- 
+ ****10.2 QUELLES DONNÉES SONT TRAITEES PAR FLOA ET CDISCOUNT ?** 
 
-****10.2 QUELLES DONNÉES SONT TRAITEES PAR FLOA ET CDISCOUNT ?**** 
+**Ces Données comprennent :** 
 
-****Ces Données comprennent :**** 
+**
 
-******Informations d’identité  – cela inclut vos prénom, nom de famille, date de naissance, sexe, adresse électronique, code interne de traitement, etc.****** 
+**Informations d’identité  – cela inclut vos prénom, nom de famille, date de naissance, sexe, adresse électronique, code interne de traitement, etc.** 
 
-******Informations de contact – cela inclut par exemple : votre numéro de téléphone, adresse postale, adresse électronique, etc.**** 
+**Informations de contact – cela inclut par exemple : votre numéro de téléphone, adresse postale, adresse électronique, etc.** 
 
-****Informations financières et administratives - cela inclut par exemple : le montant de votre transaction payées en 4 fois, le montant de vos échéances, vos données de facturation, etc.****
+**Informations financières et administratives - cela inclut par exemple : le montant de votre transaction payées en 4 fois, le montant de vos échéances, vos données de facturation, etc.**
 
-  10.3 POUR QUELLES FINALITÉS FLOA ET CDISCOUNT TRAITENT VOS DONNÉES ?  
+ ****10.3 POUR QUELLES FINALITÉS FLOA ET CDISCOUNT TRAITENT VOS DONNÉES ?  
   
          
                 - En qualité de responsables du traitement conjoints :
 
+  
 Vos Données sont traitées par Cdiscount et FLOA en qualité de responsables conjoints de traitement pour la finalité suivante : exécution du contrat de paiement 4X par carte bancaire.  
   
 
@@ -342,18 +343,21 @@ Vos Données sont traitées par Cdiscount et FLOA en qualité de responsables co
 | Suivi des réclamations inhérentes au 4X | FLOA | Exécution du contrat |
 | Cession de la créance en cas de créance irrécouvrable | FLOA | Exécution du contrat |
 
- ****Dans le cadre de l’exécution des traitements de Données pour les finalités précitées, Cdiscount et FLOA, en tant que responsables conjoints de traitements, s’engagent vis-à-vis de vous à :****
+   
 
-****\- fournir une information claire sur les traitements des Données effectués par Cdiscount et FLOA ;****
+ Dans le cadre de l’exécution des traitements de Données pour les finalités précitées, Cdiscount et FLOA, en tant que responsables conjoints de traitements, s’engagent vis-à-vis de vous à :
 
-****\- conserver les Données selon les durées prévues par la règlementation ;  
+\- fournir une information claire sur les traitements des Données effectués par Cdiscount et FLOA ;
+
+\- conserver les Données selon les durées prévues par la règlementation ;  
   
-\- vous permettre d’exercer vos droits relatifs à vos Données (accès, rectification, suppression, etc.) indistinctement auprès de Cdiscount et de FLOA.****
+\- vous permettre d’exercer vos droits relatifs à vos Données (accès, rectification, suppression, etc.) indistinctement auprès de Cdiscount et de FLOA.
 
- ****- En qualité de responsables du traitement distincts :****
+ - En qualité de responsables du traitement distincts :
 
-****Vos Données sont traitées par Cdiscount et par FLOA en qualité de responsables du traitement distinct pour les finalités suivantes :  
-****
+Vos Données sont traitées par Cdiscount et par FLOA en qualité de responsables du traitement distinct pour les finalités suivantes :  
+
+  
 
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
@@ -373,9 +377,9 @@ Nous attirons votre attention sur le fait que les demandes d’opposition sont g
 
 Le DPD de FLOA s’assure de la conformité des processus visées au paragraphe 10.3 réalisés par FLOA. Vous pouvez le contactez (i) par courriel envoyé à dpofloa@floa.fr ou (ii) par courrier postal adressé à FLOA, Délégué à la protection des données personnelles, 71 Rue Lucien Faure - Bâtiment G7 - à Bordeaux (33300)
 
-Le DPD de CDISCOUNT s’assure de la conformité des processus visées au paragraphe 10.3 réalisés par CDISCOUNT. Vous pouvez le contactez (i) par mail envoyé à informatique-et-libertes@cdiscount.com ou (ii) par courrier postal adressé à Cdiscount, Délégué à la protection des données personnelles, 120-126 quai de Bacalan 33000 BORDEAUX.
+Le DPD de CDISCOUNT s’assure de la conformité des processus visées au paragraphe 10.3 réalisés par CDISCOUNT. Vous pouvez le contactez (i) par mail envoyé à informatique-et-libertes@cdiscount.com ou (ii) par courrier postal adressé à Cdiscount, Délégué à la protection des données personnelles, 120-126 quai de Bacalan 33000 BORDEAUX.********
 
-10.5 QUI SONT LES DESTINATAIRES DE VOS DONNEES DANS LE CADRE DU PAIEMENT EN 4X ? 
+ ********10.5 QUI SONT LES DESTINATAIRES DE VOS DONNEES DANS LE CADRE DU PAIEMENT EN 4X ? 
 
 |     |     |     |
 | --- | --- | --- |
@@ -392,10 +396,7 @@ Le DPD de CDISCOUNT s’assure de la conformité des processus visées au paragr
 
  Vos Données sont recueillies par CDISCOUNT et FLOA pour le temps nécessaire à la réalisation des traitements visés en paragraphe 10.3 du présent document, à savoir :
 
-         
-  
-
-|     |     |     |
+ |     |     |     |
 | --- | --- | --- |
 | **Finalité du Traitement** | **DUREE ET/OU CRITERES POUR CDISCOUNT** | **DUREE ET/OU CRITERES POUR FLOA** |
 | Promotion du 4x | 5 ans à compter de la fin de la relation commerciale pour les clients.<br><br>3 ans à compter du dernier contact commercial pour les prospects. | NA  |
@@ -415,14 +416,14 @@ Le DPD de CDISCOUNT s’assure de la conformité des processus visées au paragr
   
 En cas de transferts internationaux depuis l’Espace économique européen (EEE) vers un pays n’appartenant pas à l’EEE, le transfert de vos Données peut avoir lieu sur la base d’une décision rendue par la Commission européenne, lorsque celle-ci a reconnu que le pays dans lequel vos données seront transférées assure un niveau de protection adéquat.
 
-En cas de transfert de vos Données vers un pays dont le niveau de protection de vos données n’a pas été reconnu comme adéquat par la Commission européenne, soit nous nous appuierons :
+En cas de transfert de vos Données vers un pays dont le niveau de protection de vos données n’a pas été reconnu comme adéquat par la Commission européenne, soit nous nous appuierons : 
 
 \- sur une dérogation applicable à la situation spécifique (par exemple, si le transfert est nécessaire pour exécuter un contrat conclu avec vous) ;  
   
   
 \- sur des clauses contractuelles types approuvées par la Commission européenne.
 
- Sur simple demande formulée aux DPD de CDISCOUNT et de FLOA, ces derniers vous fourniront davantage d’informations quant à ces transferts, ainsi qu’une copie des documents autorisant le transfert de Données hors de l’Union européenne.** 
+ Sur simple demande formulée aux DPD de CDISCOUNT et de FLOA, ces derniers vous fourniront davantage d’informations quant à ces transferts, ainsi qu’une copie des documents autorisant le transfert de Données hors de l’Union européenne.******** 
 
  **\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\***La présente politique sera actualisée autant que de besoin afin de répondre aux exigences de la réglementation applicable à la protection des Données. Elle sera, a minima, révisée tous les trois (3) ans.  
 Le 20 septembre 2021  
