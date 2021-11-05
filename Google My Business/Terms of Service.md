@@ -89,4 +89,4 @@ We’re constantly striving to ensure that information in your Business Profile 
 Related resources
 -----------------
 
-*   [Report a third party that violates the Business Profile third-party policies](https://support.google.com/business/contact/gmb_3p_complaints).
+*   [Report a violation of Business Profile third-party policies](https://support.google.com/business/contact/gmb_3p_complaints).
