@@ -65,7 +65,7 @@ If the photo of the Member’s face is not placed in first position, it will be 
 2\. Data controller
 -------------------
 
-The data collected **is processed by SAS HAPPN**, a company registered under number 535 217 723 in the Paris Trade and Companies Register. The company’s headquarters are located at 8 rue du Sentier 75002 Paris, France, and it is represented by its CEO, Mr. Didier Rappaport. 
+The data collected **is processed by SAS HAPPN**, a company registered under number 535 217 723 in the Paris Trade and Companies Register. The company’s headquarters are located at 8 rue du Sentier 75002 Paris, France, and it is represented by its CEO, Ms Karima Ben Abdelmalek. 
 
 HAPPN is extremely concerned about the protection of your personal data and respect for your privacy. The purpose of this privacy policy (along with our [document on the use of cookies](https://www.happn.com/cookies) and our [terms of service](http://www.happn.com/terms) and any other document it refers to) is to inform you on the way we process the personal data you share with us and that we collect when you use the Application and Services. Please read this document carefully to better understand how we process your personal data, and to know your rights. 
 
