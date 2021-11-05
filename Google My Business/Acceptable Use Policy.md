@@ -416,4 +416,4 @@ Any promotion, marketing, contests or other giveaways should clearly link to the
 Related resources
 -----------------
 
-*   [Report a third party that violates the Business Profile third-party policies](https://support.google.com/business/contact/gmb_3p_complaints).
+*   [Report a violation of Business Profile third-party policies](https://support.google.com/business/contact/gmb_3p_complaints).
