@@ -53,13 +53,17 @@ It allows the User, as soon as it is installed on the support, to:
 
 *   exchange text
 *   exchange attachments, whatever the nature, format and size of the files
-*   create discussion groups.
+*   create discussion groups
+*   receive secure audio calls
+*   set up ephemeral messages
+*   use Olvid Web, Android compatible.
 
 The application, in its paid version, allows you to:
 
-*   make voice calls between Users of the Application.
+*   make secure audio calls between Users of the Application.
+*   interface with directories, in order to facilitate the enrollment of users and the deployment of Olvid.
 
-Features will be regularly incorporated into updates (conference calls, video, web version, ephemeral messages, etc.).
+New features will be regularly integrated in the updates (secure video calls, desktop clients - Windows, macOS, Linux -, video-conferences…).
 
 Olvid can in no way be held responsible for the use of the Application by the User or by any other person with whom he or she interacts. In particular, it has no control over the content that will be sent or received. It is up to the User to judge the relevance and reliability of his own behavior and that of his contacts in the Application.
 
@@ -96,16 +100,9 @@ In the event of taking out several subscriptions, the subscriber undertakes to e
 
 The price is indicated in euros. It includes the Value Added Tax (VAT) in force in the territories concerned on the day of the order. Any change in the applicable rate may be reflected in the price.
 
-The price is that shown on the download medium (Olvid website, or app store) when you purchase the subscription.
+The price is the one shown on the download medium (app store or Olvid website: [https://www.olvid.io/enterprise](https://olvid.io/enterprise/)) at the time of subscription.
 
-Olvid offers the following types of tacit renewal subscriptions:
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| **Type of sales** | **Fashion** | **Monthly billing** | **Annual billing** |
-| Unit purchase | stores | € 4.99 incl tax per user | € 4.99 incl. |
-| Small Team offer (package for 10 users maximum) | contact us | 29.99 € HT for 10 users max | 26.99 € HT for 10 users max |
-| Large Team Offer (from 11 users) | contact us | 3.49 € HT per user | 3.33 € HT per user |
+Olvid offers tacitly renewable subscriptions, either as a single purchase via the stores (Premium offer), or as a group purchase of license packages (Corporate offer).
 
 Payment is made when you purchase the subscription, for the coming period. At each renewal, by tacit agreement, the User must pay the subscription for the period to come.
 
@@ -164,7 +161,7 @@ Note that Olvid uses the IP addresses of users for its operation without consult
 
 Olvid only collects the data strictly necessary for invoicing. As a reminder, at no time can Olvid take cognizance of the exchanges and know which user is conversing with which user, when and how often.
 
-The processing is carried out under the conditions explained in the [Privacy and personal data protection policy](https://olvid.io/privacy/), present on the Olvid site, which each new user is invited to consult and accept at the time. contractualization.
+The processing is carried out under the conditions explained in the Privacy and personal data protection policy, present on the Olvid site ([https://www.olvid.io/privacy](https://olvid.io/privacy/en/)), which each new user is invited to consult and accept at the time of contracting.
 
 10\. INTELLECTUAL PROPERTY RIGHTS
 ---------------------------------
