@@ -227,29 +227,29 @@ See below for image examples and [How to build brand creatives to engage Amazon 
   
 **Individual and multiple product images:**
 
-![](https://m.media-amazon.com/images/G/01/AdProuctsWebsite/2Finaltjkar._CB444698662_._BL10_._TTW_.png)
+![](https://m.media-amazon.com/images/G/01/AdProuctsWebsite/2Finaltjkar._CB444698662_._BL10_FMwebp_._TTW_.png)
 
 Individual product image
 
-![](https://m.media-amazon.com/images/G/01/AdProuctsWebsite/4Finaltjkar._CB444698656_._BL10_._TTW_.png)
+![](https://m.media-amazon.com/images/G/01/AdProuctsWebsite/4Finaltjkar._CB444698656_._BL10_FMwebp_._TTW_.png)
 
 Multiple product images
 
 **Individual and multiple logos:**
 
-![](https://m.media-amazon.com/images/G/01/AdProuctsWebsite/6Finaltjkar._CB444698662_._BL10_._TTW_.png)
+![](https://m.media-amazon.com/images/G/01/AdProuctsWebsite/6Finaltjkar._CB444698662_._BL10_FMwebp_._TTW_.png)
 
 Multiple brand logos
 
 **Crowded images and text images:**
 
-![](https://m.media-amazon.com/images/G/01/AdProductsWebsite/images/AUX/10finaltjkar.-CB444702040._BL10_._TTW_.jpg)
+![](https://m.media-amazon.com/images/G/01/AdProductsWebsite/images/AUX/10finaltjkar.-CB444702040._BL10_FMwebp_._TTW_.jpg)
 
 Text in image
 
 **Letterbox or pillar box formats:**
 
-![](https://m.media-amazon.com/images/G/01/AdProductsWebsite/images/AUX/9finaltjkar.-CB444698685._BL10_._TTW_.jpg)
+![](https://m.media-amazon.com/images/G/01/AdProductsWebsite/images/AUX/9finaltjkar.-CB444698685._BL10_FMwebp_._TTW_.jpg)
 
 Pillar box image
 
@@ -302,6 +302,8 @@ Pricing and saving claims must:
 *   Be used in the correct context. For example, use phrases such as “limited-time offer” for time-bound savings claims.
 *   Use seasonal claims during the relevant promotional period only. For example, “Back to school offers” or “Valentine’s Day Special Prices” are only acceptable during the periods leading up to the beginning of the school year or Valentine’s Day.
 *   Be provided to customers upfront. Customers do not have to complete trivial tasks such as in-banner games, quizzes or surveys to be eligible for a special offer.
+*   (AU/NZ) Identify any unavoidable additional charges.
+*   (AU/NZ) Not be 'bait advertising' (i.e. must be able to be supplied for the time period identified or a reasonable time and a reasonable quantity of the advertised products must be available unless otherwise clearly stated).
 
 **Travel ads  
 **Prices in ads for travel services must always be given as “from $X” due to the likelihood of price fluctuations. For example, “Fly to Dublin from £40” rather than “Fly to Dublin for £40”.
@@ -525,6 +527,8 @@ Content prohibited for all ads
 *   Religious advocacy, either advocating or demeaning any religion.
 *   Threatening, abusive or harassing, or content that advocates or discriminates against a protected group (whether based on race, colour, national origin, religion, disability, sex, sexual orientation, disability, age or any similar or another category).
 *   Content that violates our Editorial Guidelines.
+*   AT: Comparative advertising relating to environmental effects of a product or service.
+*   NZ: Cultural appropriation or inappropriate use of Māori imagery, words and other taonga. For example, the use of Māori deities in ads is not permitted.
 
 ### 6.0 Prohibited products and services
 
@@ -549,6 +553,9 @@ Products and services that cannot be promoted
 *   Medical procedures and research.
 *   Tobacco or tobacco-related products, including e-cigarettes.
 *   Knives (except for kitchen knives, cutlery and general multi-purpose camping knives).
+
+*   NL: Knives and other bladed objects are prohibited except for kitchen knives, cutlery or silverware.
+
 *   Lethal and non-lethal weapon sales, including guns, gun parts, kits, mace, black powder and ammunition.
 *   Loyalty/affinity/rewards and related content.
 *   Malware, scareware or spyware.
@@ -599,6 +606,7 @@ Ads must promote the responsible consumption of alcoholic drinks. Ads must not:
 *   Suggest therapeutic or other benefits to drinking (for example, that alcohol improves performance, contributes to personal success or solves problems).
 *   Focus on the alcoholic strength of the drink.
 *   Be targeted to Amazon Family or Prime Students.
+*   (AU/NZ) contain models that look under the age of 25
 
 Locale-specific requirements
 
@@ -611,6 +619,10 @@ Ads for the sale of alcohol in Australia, Canada, Mexico and Europe must link-in
 *   Day-parting: Ads can only run between 8.30 p.m. and 5 a.m. On school days only, alcohol ads can also be displayed between 12 p.m. and 3 p.m.
 *   Alcohol ads must contain a responsible drinking message.
 
+##### Austria
+
+*   **Day-parting:** Alcohol ads should be displayed only between 12pm (midday) and 6am only.
+
 ##### Belgium
 
 *   Ads for beer must include the following warnings: in Dutch “Bier drink je met verstand” or in French: “Une bière se déguste avec sagesse”.
@@ -619,6 +631,7 @@ Ads for the sale of alcohol in Australia, Canada, Mexico and Europe must link-in
 
 ##### Brazil
 
+*   **Day-parting:** Alcohol ads should be displayed only between 9pm (evening) and 6am only.
 *   Models in alcohol ads cannot be, nor have the appearance of being, under the age of 25.
 *   Alcohol ads must not link alcohol with any sporting activity.
 *   Alcohol ads must include one of the following warnings in upper case:
@@ -639,7 +652,6 @@ Ads for the sale of alcohol in Australia, Canada, Mexico and Europe must link-in
 
 *   Video ads for alcohol must include one of the above disclaimers delivered verbally and in the copy at the end of each ad.
 *   Ads for non-alcoholic beer are exempt from carrying a warning, provided that they do not refer to the brand, slogan or promotional phrase of the alcoholic drink.
-*   Day-parting: Alcohol ads should be displayed only between 9pm (evening) and 6am only.
 
 ##### Canada
 
@@ -678,6 +690,56 @@ Ads for the sale of alcohol in Australia, Canada, Mexico and Europe must link-in
 *   Ads on Fire TV can run between 8 p.m. and 2 a.m.
 *   Ads on Fire Tablet wake screen and Fire TV must be pre-approved by Amazon.
 
+##### Ireland
+
+*   **Day-parting**: Alcohol ads should be displayed only between 12pm (midday) and 6am only.
+*   Advertisements for alcohol must include:
+
+*   A warning that is intended to inform the public of the danger of alcohol consumption;
+*   A warning that is intended to inform the public of the danger of alcohol consumption when pregnant;
+*   A warning that is intended to inform the public of the direct link between alcohol and fatal cancers; and
+*   Details of Health Services Executive (**HSE**) website providing public health information in relation to alcohol consumption
+
+*   An advertisement for an alcohol product **cannot contain anything other** than the warnings set out above (together with the HSE website) and **all or any** of the following details:
+
+*   An image of, or reference to, one or more alcohol products (whether of the same or different kinds) either in a container or containers (which may be opened or unopened) or in a glass or glasses;
+*   Details of whether the product concerned is intended to be diluted with a nonalcoholic beverage and where it is intended to so be diluted, an image of or reference to the non-alcoholic beverage;
+*   An image of, or reference to, the country and region of origin of the product concerned;
+*   An image of, or reference to, the method of production of the product concerned;
+*   An image of, or reference to, the premises where the alcohol product concerned was manufactured;
+*   The price of the product concerned;
+*   A brand name or variant thereof, trade mark and brand emblem of the product concerned;
+*   A corporate name and corporate emblem of the product concerned;
+*   An objective description of the flavor, color and smell of the product concerned;
+*   The name and address of the manufacturer (or his or her agent) of the product concerned;
+*   The alcoholic strength by volume of the product concerned;
+*   The quantity in grams of alcohol contained in the product concerned; and
+*   The energy value expressed in kilojoules and kilocalories of the product concerned.
+
+*   ASAI Code
+
+*   Marketing communications for alcohol should include a responsibility message to drink alcohol responsibly;
+*   Marketing communications may refer to the social dimension or refreshing attributes of a drink, but:
+
+*   Should not state, depict or imply that the presence or consumption of alcohol can improve physical performance or personal qualities or capabilities;
+*   Should not state, depict, or imply that the presence or consumption of alcohol can contribute to social, sporting or business success or distinction or that those who do not drink are less likely to be acceptable or successful than those who do;
+*   Should not state, depict, or suggest, by word or allusion that the presence or consumption of alcohol can contribute towards sexual success or make the drinker more attractive. Advertisers should take account of public sensitivities regarding coarseness and sexual innuendo in marketing communications for alcohol;
+*   Should not portray drinking alcohol as a challenge and should not state, depict or suggest that those who drink are brave, daring or tough;
+*   Should not link in any way the presence or consumption of alcohol to aggressive, unruly, irresponsible, or anti-social behavior.
+
+*   Marketing communications for alcohol should not portray drinking games or sessions, or show or imply pub or club crawls;
+*   Terms and conditions for promotions involving alcohol should make it clear:
+
+*   That entry is restricted to those 18 years of age and older; and
+*   That prizes and/or gifts will only be awarded to those 18 years of age or older.
+
+*   Marketing communications or promotions should not combine alcohol with a gift that has particular appeal to under-18s.
+
+*   It is permitted to promote the sale of alcohol-free alternatives, with restrictions. Non-Alcohol Product Variants
+
+*   It should be made very clear at the start and throughout a marketing communication that a non-alcohol product variant (i.e. less than 1.2% alcohol by volume) is non-alcoholic – there should be no scope for confusion over the product’s content from the beginning so that consumers are able to easily identify that the product being advertised is a non-alcoholic product.
+*   Anyone depicted in a marketing communication shown drinking or playing a significant role should be aged over 25 and should appear to be over 25
+
 ##### Japan
 
 *   Disclaimer: Ads must include a warning statement that follows industry regulations and guidelines for alcohol consumption, for example: “Stop drinking if you are underage or you are driving. Enjoy a moderate amount of alcohol. Please don’t drink if you are pregnant or in a lactation period. Recycle can after drink.”
@@ -685,6 +747,19 @@ Ads for the sale of alcohol in Australia, Canada, Mexico and Europe must link-in
 
 *   A person drinking brandy/whisky in a gulping manner.
 *   Large bottles or other drinking containers.
+
+##### Israel
+
+*   **Day-parting:** Alcohol ads can be displayed between 12pm (midday) and 6am only.
+*   Ads for alcoholic beverages with 15.5% alcohol or more must include the following warning: "אזהרה: צריכה מופרזת של אלכוהול מסכנת חיים ומזיקה לבריאות!"
+
+*   _(“Warning: Excessive consumption of alcohol is life-threatening and harmful to \[your\] health!”)_
+
+*   Ads for alcoholic beverages with less than 15.5% alcohol must include the following warning: "אזהרה: מכיל אלהוכול"
+
+*   _(“Warning: Contains alcohol – it is recommended to avoid excessive drinking”)_
+
+*   Ads for alcoholic beverages must only include factual information relating to the product. For example, the name and trademark of the beverage, the packaging of the beverage and where it is sold, the existence of a kosher certificate, the percentage of alcohol in the beverage, the price, the year of manufacture, etc.
 
 ##### Italy
 
@@ -705,6 +780,13 @@ Ads for the sale of alcohol in Australia, Canada, Mexico and Europe must link-in
 *   Alcohol ads must comply with the Dutch Advertising Code for Alcoholic Drinks (Reclamecode voor alcoholhoudende dranken).
 *   The warning “not 18, no alcohol” must be included in all ads for alcoholic drinks, except for banner ads equal to or smaller than 120 pixels wide and 60 pixels high.
 *   Day-parting: Alcohol ads can be displayed between 12 p.m. (midday) and 6 a.m. only.
+
+##### New Zealand
+
+*   Alcoholic beverages are defined as any drink with an alcohol strength above 1.15% ABV.
+*   **Day-parting:** Alcohol ads can be displayed between 12pm (midday) and 6am only.
+*   Models in alcohol ads cannot be, nor have the appearance of being, under the age of 25. Women who are pregnant or breastfeeding must not appear in alcohol ads.
+*   Ads for alcoholic beverages cannot promote or advertise discounts on alcohol in a way that could lead people to believe that the price is 25% or more below the price at which the alcohol product is ordinarily sold.
 
 ##### Norway
 
@@ -816,6 +898,11 @@ Short-term high-interest loans (including, but not limited to, “payday” loan
 
 Locale-specific requirements
 
+##### Austria
+
+*   Ads for shares in investment funds and real estate funds must concurrently refer to the published prospectus and the customer information document. It must be indicated how and in which language the prospectus and the information documents are made available and accessible. Regarding real estate funds, the ad must give a reference to: the published prospectus, any changes thereto, and the publishing body, date of issuance, date of notification, and how the prospectus is published as well where it can be collected.
+*   Advertising must be fair and distinct, identifiable as such, not misleading and not in contradiction to the prospectus and the customer information document. References to former performances must contain a notice that a former performance in the past does not reliably imply a future development of the fund.
+
 ##### Brazil
 
 Ads for offshore financial products and services are prohibited.
@@ -823,6 +910,14 @@ Ads for offshore financial products and services are prohibited.
 ##### Denmark
 
 Ads for any financial product offered with an APR of 25% or more are prohibited.
+
+##### Israel
+
+Ads for financial products and services must carry the following warning: "Failure to repay the loan or credit may result in a charge of arrears interest and enforcement proceedings."
+
+##### New Zealand
+
+Ads for ‘pay day’ loans are prohibited.
 
 ##### Switzerland
 
@@ -839,6 +934,16 @@ Locale-specific requirements
 Ads cannot recommend one credit service over another.  
   
 Only if an ad includes the credit rate, repayment terms or other information on the cost of credit, the ad must include the representative annual percentage rate (APR) in the local language.
+
+##### Austria
+
+If an ad refers to interest rates and cost then it also has to contain a clear, concise and visible example containing all legal mandatory standard information:
+
+*   The fixed or the variable borrowing rate, all cost that are incurred
+*   The entire credit amount
+*   Effective annual interest rate (inclusive of all costs)
+*   The duration of the credit
+*   The total amount to be paid by the consumer
 
 ### 7.6 Gambling products and services
 
@@ -888,6 +993,12 @@ Locale-specific requirements
 
 Amazon permits gambling ads only in the locales listed below, subject to local licensing requirements and subject to the corresponding policy requirements.
 
+##### Austria
+
+*   Promotion of brick and mortar casinos is permitted
+*   Promotion of online gambling is permitted
+*   Promotion is limited to gambling providers located in Austria or within the European Economic Area, if they hold all required licenses and comply with protective rules in gambling
+
 ##### Belgium
 
 *   Ads for online gambling are permitted, provided that the advertiser holds a licence from the Gambling Commission.
@@ -913,6 +1024,17 @@ Ads must feature a warning message against excessive or pathological gambling an
 Ads (not including branding campaigns) must inform customers about risks of addiction, prohibition of the participation of minors and the possibility of advice and therapy. These requirements do not apply to branding campaigns.  
   
 If the ad contains information on maximum winnings, the respective probability of winning and losing must be indicated within the ad. For example, “Gewinnchance 1:\[XXX\]. Spielteilnahme ab 18 Jahren. Glücksspiel kann süchtig machen. Nähere Informationen und Hilfe unter \[XXX\].”
+
+##### Ireland
+
+*   Promotion of online gambling is permitted with restrictions (below).
+*   Promotion of brick and mortar casinos is permitted with restrictions (below).
+*   Marketing communications for gambling should not:
+
+*   Suggest that gambling can provide an escape from personal, professional or educational problems such as loneliness or depression;
+*   Portray gambling as indispensable or as taking priority in life; for example, over family, friends or professional or educational commitments;
+*   Suggest gambling is a rite of passage; or
+*   Suggest that solitary gambling is preferable to social gambling.
 
 ##### Luxembourg
 
@@ -1018,6 +1140,33 @@ Amazon prohibits ads for the following products and services:
 *   Illegal or sensitive pharmaceuticals.
 *   Medical procedures, including cosmetic procedures such as Botox for anti-ageing, CoolSculpting and plastic surgery.
 *   Solicitations for medical trials and research.
+*   (NZ): Ads for healthcare services are permitted, but must state the name and address of the advertiser.
+
+Locale-Specific Requirements
+
+##### New Zealand
+
+*   Ads must not:
+
+*   Contradict or fail to include wording relating to information required by regulations or on the product;
+*   Contain information prohibited by regulations from being on the product;
+*   Contain false or misleading information;
+*   Include testimonials;
+*   Encourage or be likely to encourage inappropriate or excessive purchase or use; or
+*   Include an endorsement by a healthcare professional (except where the audience is solely healthcare professionals).
+
+*   Ads must not contain any claim, either express or implied, that products, devices, or services:
+
+*   Are safe or that their use cannot cause harm or that they have no side effects or risks;
+*   Are effective in every case;
+*   Are infallible, unfailing, magical, or miraculous;
+*   Will provide a certain, guaranteed or sure cure; or
+*   Will result in harmful consequences if not used.
+
+*   Scientific language is acceptable if it is appropriate to and can be readily understood by the intended audience.
+*   Comparative ads must not discourage consumers from following the advice of their healthcare professional.
+*   All products and services must include the name and address of the advertiser.
+*   Ads for medical devices (as defined in s 3A Medicines Act 1981) must contain mandatory information as required by the most recent edition of the Medicines Act, Medicines Regulations, and any other applicable legislation; Medsafe Guideline on Advertising therapeutic products and the MTANZ Code of Practice; and the statement always read the label and follow the instructions. If the device requires administration, application or implant by a healthcare professional it must state so.
 
 #### 7.11.1 Prescription medicines
 
@@ -1049,6 +1198,31 @@ Ads must only promote those medicines that are approved by the local regulatory 
 Ads cannot state that the OTC is as effective as a prescription drug.
 
 Locale-specific requirements
+
+##### Australia
+
+*   Ads must contain the statements (or statements with a similar meaning):
+
+*   “If symptoms persist, see your doctor or health professional”
+*   “Use only as directed”
+*   “Always read the label”
+
+##### Austria
+
+*   Promotion of OTC Medicines is permitted with restrictions (listed below).
+*   Promotion of medical devices is permitted (EU Medical Devices Regulation applies).
+*   Promotion of smoking cessation products is limited: Medical Devices and OTC products are **permitted** with restrictions (listed below). Prescription smoking cessation product ads are **prohibited**.
+*   Ads for OTCs with a similar name as a prescription medicine or registered homeopathic medicine may not be sold.
+*   Ads must be clearly distinguishable as advertisements.
+*   The ad must indicate the name of the OTC, the active agent, required information for reasonable application.
+*   Ads must carry a distinct recommendation that the medicine may have negative side effects, the customer should there read the information and direction of use and seek advice from a doctor or pharmacist.
+*   Ads may not contain pictures of health professionals or health institutions, imply that a medical treatment or surgical intervention are not necessary, or include references to recommendations of scientists, health professionals or famous persons.
+*   Ads may not guarantee no side effects, imply that they are superior to other medicine or treatments, improve the normal good health of a patient, non-application may reduce normal good health, it is mainly applicable to children, imply a medicine is comparable to food or cosmetics or other goods for consumption, or that the medicine is effective/safe as it is a natural product.
+*   Ads may not promote samples, gift vouchers, or competitions, all of which are prohibited.
+*   Ads must not claim that despite varied nutrition nutritional supplements are required.
+*   Nutritional supplements may not contain cosmetic application recommendations (e.g. “for application to the skin“).
+*   Ads for nutritional supplements must contain a warning not to exceed daily dose.
+*   Ads for nutritional supplements must contain a warning to keep it away from little children.
 
 ##### Belgium
 
@@ -1098,6 +1272,37 @@ Ads for OTC products should contain the following information:
 *   Be targeted to under 18s
 *   Suggest that the efficacy or safety of the medicinal product is based on its natural origins
 
+##### Ireland
+
+*   Promotion of OTC Products is permitted with restrictions:
+
+*   Codeine-containing medicines are prohibited
+*   Marketing communications for medicines should conform with the relevant HPRA authorisation and the product’s summary of product characteristics
+
+*   Marketing communications should not suggest that a product is “special” or “different” because it has been granted an authorisation by the HPRA or under the auspices of the EMA
+
+*   Marketing communications for a medicinal product should not contain an offer to refund money to dissatisfied customers
+*   Marketing communications that include a product claim for a medicinal product (including legible on-pack product claims within a pack shot) should include: the name of the product; an indication of what it is for; text such as “Always read the label;” and the common name of the sole active ingredient, if it contains only one
+*   Illustrations of the effect or action of a product should be accurate
+*   Promotions and Samples:
+
+*   Consumer prize promotions for medicinal products should not encourage or require purchase of the products which would be greater than that associated with a rational use of the product and should not encourage the unnecessary purchase of the product
+*   Marketing communications should not offer free samples of medicinal products
+
+*   Promotion of medical devices is permitted, with restrictions:
+
+*   Any medical device being advertised must have a CE mark
+*   Marketing communications for a medical device should be consistent with its intended purpose
+
+*   Promotion of smoking cessation products, including those that contain nicotine, are permitted
+
+*   Ads for such products should make it clear that they offer only assistance, are not cures, and that any success will necessarily be dependent on the willpower of the user
+*   Ads should state clearly if the product contains nicotine
+
+##### Israel
+
+Ads for OTC medicines must include the following statements in Hebrew: “Prior to use, it is recommended to consult a doctor or pharmacist and review the consumer leaflet” and “contains the following active substance(s) \_\_\_\_\_\_\_.”
+
 ##### Japan
 
 When promoting medicines with high risk of overdose, ads must depict a single ASIN in the smallest package.
@@ -1113,6 +1318,30 @@ Ads cannot describe the medical condition or the product itself. Ads may only co
 ##### Netherlands
 
 Ads cannot include any financial incentive to purchase. For example, sales promotions, direct or indirect price offers, vouchers or refund promotions.
+
+##### New Zealand
+
+*   Ads must contain the statements (or statements with a similar meaning):
+
+*   “If symptoms persist, see your doctor or health professional”
+*   “Use only as directed”
+*   “Always read the label”
+
+*   Ads must:
+
+*   Contain a statement for the intended use of the product
+*   Include any warning statement that may be required by guidelines issued by the relevant regulatory body (NZ, Ministry of Health, AU, Therapeutic Goods Administration)
+
+*   Ads for food/nutritional supplements must:
+
+*   Contain the name and address of the advertiser and the statement “always read the label and use as directed”
+*   Contain the statement "vitamins and minerals are supplementary to and not a replacement for a balanced diet"
+*   Include a statement of the uses of the food/nutritional supplement
+*   Not claim that a food/nutritional supplement can treat, cure, or reduce the risk of, a disease or medical condition (for example, “This herbal supplement is great for diabetes”)
+*   Not include comparisons with medicines or medical devices
+
+*   New Zealand: Ads for food/nutritional supplements that are only to be used for a short time after which the consumer should seek medical advice should state: “if symptoms persist, see your healthcare professional.”
+*   Ads containing testimonials for natural health products and dietary supplements are permitted but must not imply that the product is a medicine or medical device or that the service has a therapeutic benefit.
 
 ##### Norway
 
@@ -1147,24 +1376,11 @@ Ads must not:
 *   Discourage breastfeeding or encourage formula as a replacement to breastfeeding.
 *   Target nursing mothers through pre- or post-natal targeting segments related to the nursing of infants of any age.
 
-##### Australia
-
-Ads for formula for infants aged under 12 months are prohibited.
-
-##### Brazil
-
-*   Ads for infant formula and follow-on formula designed for infants 12 months and under are prohibited
-*   Ads for baby bottles, bottle nipples and dummies are prohibited
-*   Ads for follow-on formula for toddlers, transitional food for infants and toddlers, and all dairy milks must display the following warning: “O aleitamento materno evita infecções e alergias e é recomendado até os 2 anos de idade ou mais” (“Breastfeeding prevents infections and allergies and is recommended until 2 years of age or older”).
-
-##### Luxembourg
-
-Ads for infant formula and follow-on formula are prohibited.
-
 | Locale | Restrictions |
 | --- | --- |
-| AU  | Ads for formula for infants aged under 12 months are prohibited |
-| BR  | Ads for infant formula and follow-on formula for infants under the age of 12 months are prohibited.  <br>  <br>Ads for baby feeding products such as baby feeding bottles, pacifiers and nipples are prohibited.  <br>  <br>Ads for follow-on formula for toddlers, transitional food for infants and toddlers and all dairy milks must display the following warning: “O aleitamento materno evita infecções e alergias e é recomendado até os 2 anos de idade ou mais" ("Breastfeeding prevents infections and allergies and is recommended until 2 years of age or older") |
+| AT  | Ads for infant formula and follow-on formula are prohibited. |
+| AU  | Ads for formula for infants aged under 12 months are prohibited. |
+| BR  | Ads for infant formula and follow-on formula for infants under the age of 12 months are prohibited.  <br>  <br>Ads for baby feeding products such as baby feeding bottles, pacifiers, and nipples are prohibited.  <br>  <br>Ads for follow-on formula for toddlers, transitional food for infants and toddlers, and all dairy milks must display the following warning: “O aleitamento materno evita infecções e alergias e é recomendado até os 2 anos de idade ou mais" ("Breastfeeding prevents infections and allergies and is recommended until 2 years of age or older.") |
 | CH  | Ads for infant formula and follow-on formula are prohibited. |
 | DE  | Ads for infant formula are prohibited. |
 | DK  | Ads for infant formula and follow-on formula are prohibited. |
@@ -1172,11 +1388,14 @@ Ads for infant formula and follow-on formula are prohibited.
 | FI  | Ads for infant formula are prohibited. |
 | FR  | Ads for infant formula are prohibited. |
 | IN  | Ads for infant formula, follow-on formula, and baby feeding products such as baby feeding bottles are prohibited. |
+| IE  | Ads for infant formula are prohibited. |
+| IL  | Ads for infant formula and follow-on formula are permitted. |
 | IT  | Ads for infant formula are prohibited. |
 | LUX | Ads for infant formula and follow-on formula are prohibited. |
 | MX  | Ads for infant formula are prohibited. |
 | NL  | Ads for infant formula are prohibited. |
 | NO  | Ads for infant formula and follow-on formula are prohibited. |
+| NZ  | Ads for formula for infants aged under 12 months are prohibited. |
 | SG  | Ads for infant formula and follow-on formula are prohibited. |
 | SE  | Ads for infant formula and follow-on formula are prohibited. |
 | UK  | Ads for infant formula are prohibited. |
@@ -1244,6 +1463,21 @@ The term “diet” is used to mean a food or drink that is suitable for diabeti
 ##### Netherlands, Belgium and Luxembourg
 
 Ads should not make any reference to the rate or amount of weight loss that might result from the consumption of a food.
+
+##### Ireland
+
+*   Advertisers should be able to show that their diet plans are nutritionally well balanced. These will be assessed in relation to the subjects who would be using them.
+*   Ads should not offer treatment specifically for conditions that require medical treatment, such as obesity, anorexia and bulimia.
+*   Advertisers should not make general claims that specific amounts of weight can be lost within a stated period.
+*   Ads for intensive exercise programs should encourage users to check with a doctor before starting.
+*   Ads for adult weight-reduction regimes or establishments should neither be directed at, nor contain anything that will appeal particularly to, children.
+*   Health claims in marketing communications for food products that refer to a rate or amount of weight loss are not permitted.
+
+##### New Zealand
+
+*   Ads must recommend that consumers seek professional advice on diet, exercise, and lifestyle changes.
+*   Individuals used in weight loss products and services ads must not be considered obese, as classified by their BMI.
+*   Ads for a diet plan with less than 3500kj (800 calories) per day on average over the course of one week are prohibited.
 
 ### 7.12 Security products
 
@@ -1398,22 +1632,22 @@ Locale-specific requirements
 
 *   Note: ads for financial securities and commodities are prohibited. For example, ads for stocks and shares.
 
-![](https://m.media-amazon.com/images/G/01/AdProductsWebsite/images/AUX/1Finaltjkar.-CB444698687._BL10_._TTW_.jpg)
+![](https://m.media-amazon.com/images/G/01/AdProductsWebsite/images/AUX/1Finaltjkar.-CB444698687._BL10_FMwebp_._TTW_.jpg)
 
 Product displayed in lifestyle setting
 
-![](https://m.media-amazon.com/images/G/01/AdProductsWebsite/images/AUX/3Finaltjkar.-CB444698658._BL10_._TTW_.jpg)
+![](https://m.media-amazon.com/images/G/01/AdProductsWebsite/images/AUX/3Finaltjkar.-CB444698658._BL10_FMwebp_._TTW_.jpg)
 
 Product displayed in context
 
-![](https://m.media-amazon.com/images/G/01/AdProuctsWebsite/Final5b._CB444710392_._BL10_._TTW_.png)
+![](https://m.media-amazon.com/images/G/01/AdProuctsWebsite/Final5b._CB444710392_._BL10_FMwebp_._TTW_.png)
 
 Individual brand logo
 
-![](https://m.media-amazon.com/images/G/01/AdProductsWebsite/images/AUX/7Finaltjkar.-CB444698658._BL10_._TTW_.jpg)
+![](https://m.media-amazon.com/images/G/01/AdProductsWebsite/images/AUX/7Finaltjkar.-CB444698658._BL10_FMwebp_._TTW_.jpg)
 
 Crowded and poorly cropped image
 
-![](https://m.media-amazon.com/images/G/01/AdProductsWebsite/images/AUX/8Finaltjkar.-CB444698685._BL10_._TTW_.jpg)
+![](https://m.media-amazon.com/images/G/01/AdProductsWebsite/images/AUX/8Finaltjkar.-CB444698685._BL10_FMwebp_._TTW_.jpg)
 
 Letterbox image
