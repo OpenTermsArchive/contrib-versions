@@ -87,7 +87,7 @@ We may change this Privacy Statement. You can find the date changes were last ma
 
 A list of steps we take to secure your health information.
 
-[17 steps for securing health information (PDF)](http://www.aetna.com/about-aetna-insurance/document-library/17-steps-securing-health-information.pdf)
+[17 steps for securing health information (PDF)](https://www.aetna.com/document-library/about-aetna-insurance/document-library/17-steps-securing-health-information.pdf)
 
 ### Our effort to reduce the use of SSNs
 
