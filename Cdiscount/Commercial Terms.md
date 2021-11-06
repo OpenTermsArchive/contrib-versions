@@ -634,7 +634,7 @@ b) **ou en nous retournant, à l’adresse postale indiquée, le formulaire suiv
 
 — N° de commande …………………………………………………………………………………………………… ………..............................
 
-— Nom du (des) consommateur(s) ………………………………………………………………………………'………………… …..............
+— Nom du (des) consommateur(s) ……………………………………………………………………'…………………………… …..............
 
 — Adresse du (des) consommateur(s) …………………………………………………………………………………………………...... ........ …………………………………………………………………………………………………… ……………………………………………………. — Signature du (des) consommateur(s) (uniquement en cas de notification du présent formulaire sur papier)
 
@@ -2100,7 +2100,7 @@ ARTICLE 1 - CHAMP D'APPLICATION**
   
 **1.1 Champ d’application :**  
   
-Les présentes conditions générales d’abonnement (ci-après, les "CGA Pro") à « Cdiscount à volonté » (ci-après, le "Service") s’appliquent à tout abonnement (ci-après, l’« Abonnement ») au Service souscrit par un professionnel, résidant en France, et agissant, à des fins entrant dans le cadre de son activité commerciale, auprès de la société CDISCOUNT (ci-après, l’ « Abonné Pro »).  
+Les présentes conditions générales d’abonnement (ci-après, les "CGA Pro") à « Cdiscount Pro à volonté » (ci-après, le "Service") s’appliquent à tout abonnement (ci-après, l’« Abonnement ») au Service souscrit par un professionnel, résidant en France, et agissant, à des fins entrant dans le cadre de son activité commerciale, auprès de la société CDISCOUNT (ci-après, l’ « Abonné Pro »).  
   
 Est considéré comme professionnel, toute personne physique ou morale, publique ou privée, qui agit à des fins entrant dans le cadre de son activité commerciale, industrielle, artisanale, libérale ou agricole, y compris lorsqu'elle agit au nom ou pour le compte d'un autre professionnel.  
   
@@ -2142,17 +2142,20 @@ De bénéficier :
   
 • de prix réduits sur une sélection de produits ;   
   
-  
 • de ventes privilèges sur une sélection de produits ;   
   
-  
+• du privilège  « Ma cagnotte à volonté » ,   
+   
 • Et d’autres avantages offerts par les partenaires de Cdiscount, qui peuvent être différents en fonction du pays de résidence de l’Abonné Pro, et dont la disponibilité peut varier en cours d’Abonnement.  
   
   
 La disponibilité et le contenu des avantages décrits ci-dessus peuvent varier en cours d’Abonnement, sans préavis ni indemnité au profit de l’Abonné Pro. L’Abonné Pro sera informé de l’évolution desdits avantages par tout moyen.   
   
   
-**2.1 Livraison offerte des Produits Eligibles** (France métropolitaine uniquement)  
+**2.1 Livraison offerte des Produits Eligibles** (France métropolitaine uniquement)   
+  
+Les Produits Eligibles sont reconnaissables sur le Site du fait de la présence de la mention "Produit Cdiscount à Volonté" sur la fiche produit du Produit Eligible.  
+Il est précisé que les modes de livraison éligibles à la gratuité ne portent que sur les petits colis de moins de 30 kilos.   
   
 Lors de la commande comprenant l’Abonnement au Service tous les modes de livraison, listés ci-dessous, sont gratuits dès 10€ d’achat.  
   
@@ -2168,28 +2171,17 @@ Le montant total des Produits Eligibles commandés sur le Site est compris entre
   
 Le montant total des Produits Eligibles commandés sur le Site est supérieur à 25€, tous les modes de livraison listés ci-dessous, sont gratuits.  
   
-Les Produits Eligibles sont reconnaissables sur le Site du fait de la présence de la mention "Produit Cdiscount à Volonté" sur la fiche produit du Produit Eligible.  
-  
 La livraison offerte s'applique sur les modes de livraison listés ci-dessous.  
   
   
 **Modes de livraison express :**  
   
-• TNT à domicile ou en point retrait  
+• TNT à domicile  
 • Chronopost à domicile sans rendez-vous  
-• Chronopost en soirée  
-• Points retraits Chronopost (relais et consignes)  
-• Point retrait Blue Distrib'  
-• Relais Colis Express  
-• Points retrait Cdiscount express  
-  
   
 **Modes de livraison standard :**  
   
 • Colissimo / GLS  
-• So colissimo  
-• Mondial Relay  
-• Relais Colis  
   
   
 **Exclusions :**  
@@ -2210,7 +2202,7 @@ L’Abonné Pro bénéficie chaque semaine, de nouvelles offres qui sont exclusi
 **2.4 Autres avantages**   
   
   
-L’Abonné Pro pourra également bénéficier d’avantages ponctuels, offerts par les partenaires de Cdiscount. Ces avantages peuvent être différents en fonction du pays de résidence de l’Abonné Pro.  
+L’Abonné Pro pourra également bénéficier d’avantages ponctuels, offerts par les partenaires de Cdiscount.   
   
 Leur disponibilité et leur contenu peuvent varier en cours d’Abonnement, sans préavis ni indemnité au profit des  
 Abonnés Pros. L’Abonné Pro sera informé de l’évolution desdits avantages par tout moyen.  
@@ -2222,7 +2214,7 @@ Abonnés Pros. L’Abonné Pro sera informé de l’évolution desdits avantages
   
 3.1. Le prix de l’Abonnement au Service est celui qui est indiqué sur le Site le jour où l’Abonné Pro passe commande de l'Abonnement au Service.  
   
-L’Abonnement au Service fera l’objet d’une facturation annuelle à la Date de souscription au Service, puis à chaque date anniversaire (ci-après, la « Période de Facturation »).  
+L’Abonnement au Service fera l’objet d’une facturation annuelle à la Date de souscription au Service, puis à chaque date anniversaire.  
   
 3.2. Cdiscount se réserve le droit de modifier le prix de l’Abonnement du Service à tout moment. Dans le cas où  
 Cdiscount déciderait de modifier le prix de l’Abonnement au Service, Cdiscount en informera personnellement  
@@ -2232,9 +2224,23 @@ L’Abonné Pro, par email, préalablement à l'application de ce prix, lequel n
   
   
   
-**ARTICLE 4- DUREE**   
+**ARTICLE 4- OFFRE D'ESSAI GRATUIT**   
+**4.1 Conditions d'éligibilité à l'Offre d'essai gratuit**  
   
+Tout nouvel Abonné Pro Cdiscount à volonté qui passe simultanément commande sur le Site d'un Abonnement à Cdiscount PRO à volonté et d'un ou plusieurs produit(s), profitera de six (6) jours d'essai gratuits (ci-après, la "Période d'essai") sur son Abonnement Cdiscount à volonté (ci-après, l'"Offre d'essai gratuit").  
   
+Seuls les nouveaux Abonnés Pro sont éligibles à l'Offre d'essai gratuit, c'est-à-dire les Abonnés Pro n'ayant pas bénéficié du Service au cours des douze (12) derniers mois précédant leur commande.  
+  
+Nous nous réservons le droit de vérifier l'historique de souscription d'un Abonné Pro au Service afin de vérifier son éligibilité à l'Offre d'essai gratuit.  
+  
+**4.2 Interruption de la Période d'essai**  
+  
+Si l'Abonné Pro choisit d'interrompre sa Période d'essai au cours de celle-ci, il peut :  
+  
+\- se rendre dans la rubrique "Cdiscount à Volonté" de son Espace Client, accessible via l'URL [www.cdiscountpro.com](https://www.cdiscountpro.com/) sur PC et tablette, à l'exception sur site mobile, ainsi que sur les applications Android et iOS associées, et cliquer sur le bouton "Se désabonner" ;  
+\- ou contacter notre Service Client, disponible soit par téléphone, depuis la France au 0970806580 (numéro non surtaxé) aux horaires indiqués sur le Site, soit par email envoyé à [serviceclient@cdiscountpro.com](https://www.cdiscount.com/mailto:serviceclient@cdiscountpro.com) et ce jusqu'à la veille de la fin de la Période d'essai.  
+  
+**ARTICLE 5 - DUREE**  
 L’Abonnement au Service est valable douze (12) mois à compter de la Date de souscription au Service.  
   
 L’Abonnement au Service sera renouvelé par tacite reconduction chaque année, à la date d’anniversaire de l’Abonnement.  
@@ -2242,22 +2248,17 @@ L’Abonnement au Service sera renouvelé par tacite reconduction chaque année,
 La date anniversaire de l’Abonnement au Service correspond à la date de souscription au Service.  
   
 L’Abonné Pro sera informé par email de la date de reconduction de son Abonnement au Service.  
-Cet email lui sera envoyé au plus tard 31 jours avant ladite date de renouvellement.  
+Cet email lui sera envoyé au plus tard 31 jours avant ladite date de renouvellement.   
   
-Si l’Abonné Pro ne souhaite pas renouveler son Abonnement, il devra contacter le service clients de CDISCOUNT par téléphone depuis la France au 08 99 69 21 00 au plus tard la veille de la date d'anniversaire de son Abonnement au Service.  
+Dans le cadre d’une tacite reconduction, le montant de l’Abonnement au Service sera prélevé sur la carte bancaire utilisée pour le paiement de l’Abonnement initial ou, dans l’hypothèse où cette carte aurait été supprimée de l’Espace Client de l’Abonné Pro ou serait arrivée à expiration, Abonné Pro sur la dernière carte enregistrée dans l’Espace Client de l’Abonné Pro ;  
   
-Dans le cadre d’une tacite reconduction, le montant de l’Abonnement au Service sera prélevé :  
-  
-• sur la carte bancaire utilisée pour le paiement de l’Abonnement initial ou, dans l’hypothèse où cette carte aurait été supprimée de l’Espace Client de l’Abonné Pro ou serait arrivée à expiration, Abonné Pro sur la dernière carte enregistrée dans l’Espace Client de l’Abonné Pro ;  
-  
-• sur la dernière carte bancaire enregistrée sur le compte Paypal de l’Abonné Pro utilisé pour le paiement de l’Abonnement initial. .  
-Il est expressément rappelé que l’Abonné pro ne bénéficie pas du droit de rétractation prévu aux articles L 221-18 du Code la consommation.  
+Il est expressément rappelé que l’Abonné pro ne bénéficie pas du droit de rétractation prévu aux articles L 221-18 et suivants du Code la consommation.  
   
   
-**ARTICLE 5 - RESILIATION**   
+**ARTICLE 6 - RESILIATION**   
   
   
-**5.1. Résiliation par Cdiscount**   
+**61\. Résiliation par Cdiscount**   
   
   
 Cdiscount se réserve le droit de résilier l’Abonnement au Service pour motifs légitimes et notamment, sans que cette liste soit exhaustive dans l’hypothèse où l’Abonné Pro :  
@@ -2268,11 +2269,11 @@ Cdiscount se réserve le droit de résilier l’Abonnement au Service pour motif
 La résiliation de l’Abonnement sera effective immédiatement, sans préavis ni indemnité auprès de l’Abonné Pro qui n’aurait pas respecté les présentes CGA. De plus, Cdiscount se réserve la faculté d’engager toute poursuite qu’elle jugerait utile à l’encontre de l’Abonné Pro afin d’obtenir réparation du préjudice subi de l’utilisation frauduleuse du Service par un Abonné Pro.   
   
   
-**5.2. Résiliation par l’Abonné Pro**   
+**6.2. Résiliation par l’Abonné Pro**   
   
   
 Au plus tard 31 jours avant la date d'anniversaire de l’Abonnement au Service, Cdiscount rappellera à l’Abonné Pro, par email, sa possibilité de ne pas renouveler son Abonnement.  
   
-Si l’Abonné Pro ne souhaite pas renouveler son Abonnement, il pourra contacter le service clients de CDISCOUNT par téléphone depuis la France au 08 99 69 21 00 , au plus tard la veille de la date d'anniversaire de son Abonnement au Service.  
+Si l’Abonné Pro ne souhaite pas renouveler son Abonnement, il devra procéder à la résiliation soit depuis son Espace Client soit en contactant le Service Client de Cdiscount Pro (i) par téléphone depuis la France au 0970806580 (numéro non surtaxé) aux horaires indiqués sur le Site ou (ii) par email envoyé à [serviceclient@cdiscountpro.com](https://www.cdiscount.com/mailto:serviceclient@cdiscountpro.com), au plus tôt 31 jours avant la date d'anniversaire de son Abonnement et au plus tard la veille de la date d'anniversaire de son Abonnement.  i  
   
-La résiliation sera effective au terme de la période d'Abonnement en cours et n'entraîne aucun remboursement du prix du Service sauf exercice de votre droit de rétractation.
+La résiliation sera effective au terme de la période d'Abonnement en cours et n'entraîne aucun remboursement du prix du Service.
