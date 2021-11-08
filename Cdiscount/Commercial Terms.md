@@ -632,7 +632,7 @@ b) **ou en nous retournant, à l’adresse postale indiquée, le formulaire suiv
 
 — Je/Nous (\*) vous notifie/notifions (\*) par la présente ma/notre (\*) rétractation du contrat portant sur la vente du bien/service (\*) ci-dessous \[Indiquez le ou les produits/services pour lesquels vous vous rétractez\] …………………………………………………………………………………………………… ………………………………………………….... — Commandé le (\*)/reçu le (\*)………………………………………………………………………………………………… …………..............
 
-— N° de commande …………………………………………………………………………………………………… é……..............................
+— N° de commande …………………………………………………………………………………………………… ………..............................
 
 — Nom du (des) consommateur(s) …………………………………………………………………………………………………… …..............
 
@@ -696,7 +696,7 @@ _Article 9 : GARANTIES_
 
 **9.1 Les Garanties Légales**
 
-Pour les produits directement vendus par Cdiscount (à l’exclusion des produits vendus par les vendeurs inscrits sur la Marketplace de Cdiscount), Cdiscount est tenue des défauts de conformité du bien au contrat dans les conditions de [l'article L. 217-4 et suivants](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006069565&idArticle=LEGIARTI000006292208&dateTexte=&categorieLien=cid) du Code de la consommation et des défauts cachés de la chose vendue dans les conditions prévues aux [articles 1641 et suivants](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006070721&idArticle=LEGIARTI000006441924&dateTexte=&categorieLien=cid) du code civil. S’agissant de la garantie des vices cachés, le consommateur peut décider de mettre en œuvre cette garantie au sens de l’article 1641 du code civil et, dans cette hypothèse, il peut choisir entre la résolution de la vente ou une réduction du prix de vente conformément à l’article 1644 du code civil.
+Pour les produits directement vendus par Cdiscount (à l’exclusion des produits vendus par les vendeurs inscrits sur la Marketplace de Cdiscount), Cdiscount est tenue des défauts de conformité du bien au contrat dans les conditions de [l'article L. 217-4 et suivants](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006069565&idArticle=LEGIARTI000006292208&dateTexte=&categorieLien=cid) du Code de la consommation et des défauts cachés de la chose vendue dans les conditions prévues aux [articles 1641 et suivants](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006070721&idArticle=LEGIARTI000006441924&dateTexte=&categorieLien=cid) du code civil. S’agissant de la garantie des vices cachés, le consommateur peut décider de mettre en œuvre cette garantie au sens de l’article 1641 du code civil et, dans cette hypothése, il peut choisir entre la résolution de la vente ou une réduction du prix de vente conformément à l’article 1644 du code civil.
 
 **Attention, pour les produits achetés auprès d’un vendeur de la Marketplace, vous devez vous rapprocher du vendeur concerné pour exercer vos droits, CDISCOUNT ne pouvant se substituer au vendeur.** 
 
