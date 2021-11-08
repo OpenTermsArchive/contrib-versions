@@ -1,8 +1,8 @@
 Community Payments Terms
 
-Last updated: 5 November 2020
+Last updated: 18 October 2021
 
-**If you are under the age of eighteen (18), you may use payments features through the Facebook Products only with the involvement of your parent or guardian. Make sure that you review the Payments Terms with your parent or guardian so that you both understand all of your rights and responsibilities**
+**If you are under the age of eighteen (18), you may use payments features through the Facebook Products only with the involvement of your parent or guardian. Make sure that you review the Payments terms with your parent or guardian so that you both understand all of your rights and responsibilities.**
 
 We have provided some section headers for your convenience, but you should carefully read through these Community Payments Terms (the "Payments Terms") in order to understand your rights and responsibilities, as well as ours.  
   
@@ -11,11 +11,11 @@ We have provided some section headers for your convenience, but you should caref
 
 When you make payments through the Facebook Products, you agree that we may **communicate with you electronically** any important information regarding your payments or your account.
 
-Protecting the privacy of your financial information is important to us. Please review our **[Privacy Policy for users in the US and Canada](https://www.facebook.com/payments_terms/privacy)**, including our Annual Privacy Notice, as well as our **[Privacy Policy for users outside the US and Canada](https://www.facebook.com/payments_terms/EU_privacy)**, to learn more about what information we share, what we do not share and how we keep your information safe.
+Protecting the privacy of your financial information is important to us. Please review our **[Privacy Policy for users in the US and Canada](https://www.facebook.com/payments_terms/privacy)**, including our annual privacy notice, as well as our **[Privacy Policy for users outside the US and Canada](https://www.facebook.com/payments_terms/EU_privacy)**, to learn more about what information we share, what we do not share and how we keep your information safe.
 
   
 
-1\. Making payments
+**1\. Making payments**
 
 1.  Payment credentials. When you make a payment through the Facebook Products, you agree to provide a valid payment credential. When you have successfully added your payment credential, we will allow you to initiate a transaction using the payments features through the Facebook Products.
 2.  Pricing. Pay attention to the details of the transaction, because your total price may include taxes, fees and shipping costs, all of which you are responsible for paying.
@@ -43,7 +43,7 @@ Protecting the privacy of your financial information is important to us. Please 
 10.  Request a hold. When you request a hold on an item in Marketplace ("Request a Hold"), we obtain pre-approval from the issuer of your selected payment method for an amount determined by the cost of the item ("Hold Amount"). This amount will be released back to you when the seller marks the item as sold, if the seller doesn't accept your request within 24 hours or if either of you needs to cancel.
 11.  No warranties. You acknowledge that any products or services that you may purchase are sold by merchants, not by us. WE MAKE NO WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, WITH RESPECT TO ANY PRODUCTS OR SERVICES SOLD ON OR THROUGH THE FACEBOOK PRODUCTS.
 
-2\. Payment methods
+**2\. Payment methods**
 
 1.  Payment credentials. For your convenience, we allow you to fund your transactions using a number of different sources, such as credit cards and debit cards, Facebook Gift Cards and other payment methods.
 2.  Authority. When you provide a payment credential to us, you confirm that you are permitted to use that payment credential. When you fund a transaction, you authorise us (and our designated payment processor) to charge the full amount to the payment credential that you designate for the transaction. You also authorise us to collect and store that payment credential, along with other related transaction information. We may also use certain payment card updater services, whose availability varies by issuer, to ensure that we have the most up-to-date information about the payment credentials we store.
@@ -69,8 +69,9 @@ Protecting the privacy of your financial information is important to us. Please 
     1.  Refunds. **Due to technical limitations, we are able to provide refunds ONLY by making a bank transfer into a bank account**. If you make a purchase with boleto and later request a refund for any reason, y**ou MUST have a bank account in order to receive the refund**. Bank account information provided when requesting a refund should be the same information as on the ad account. Click [here](https://www.facebook.com/business/help/261457568615847) for more information about the refund process.
     2.  Safety. We may delay or limit the availability of your purchase, for either safety reasons, or to make sure that we possess all relevant information necessary to process the payment and deliver to you what you have paid for.
     3.  Information. You agree and consent that we will store your tax ID (CNPJ/CPF). We may use your tax ID to obtain additional information about you, necessary to process the payment, from the federal tax ID registration database provided by the Brazilian government, via a third-party processor. We will also submit final tax documents to the Brazilian government as required.
+9.  If you are an advertiser in India (as defined in the country-specific ads terms) placing an order (as defined in the SELF-serve Ad Terms) using a no-cost equated monthly instalment payment option for payments made by you to Facebook to add to your advertiser balance, you hereby consent to the specific terms applicable to this payment option: [No-cost EMI terms](https://www.facebook.com/legal/no_cost_emi).
 
-3\. Actions we may take
+**3\. Actions we may take**
 
 1.  At-will use. We may revoke your eligibility to make payments through the Facebook Products at any time at our sole discretion.
 2.  Enquiries. By using payments features through the Facebook Products, you acknowledge and agree that we may make any enquiries that we consider necessary, either directly or through third parties, concerning your identity and creditworthiness.
@@ -79,7 +80,7 @@ Protecting the privacy of your financial information is important to us. Please 
 5.  Sharing of information. In order to prevent financial loss to you or to us, we may contact your payment credential issuer, law enforcement or affected third parties (including other users) and share details of any payments you are associated with, if we believe doing so may prevent financial loss or a violation of law.
 6.  Abandoned property. If you leave a Gift Card Balance or Advertiser Balance unused for the period of time set forth by your state, country or other governing body in its unclaimed property laws, or if you delete your account and leave a Gift Card Balance or Advertiser Balance, or if we deactivate your account and you do not meet any conditions necessary to reinstate it within six (6) months, we may process your Gift Card Balance or Advertiser Balance in accordance with our legal obligations, including by submitting funds associated with your Gift Card Balance or Advertiser Balance to the appropriate governing body as required by law.
 
-4\. Disputes and reversals
+**4\. Disputes and reversals**
 
 1.  Customer assistance. Subject to Sections 4.2, 4.3, 4.4 and 4.5 below, we provide various tools in our [Support Centre](https://www.facebook.com/facebookpaysupport) to assist you in communicating with a third party to resolve a dispute arising from a payment transaction.
 2.  No liability for underlying transaction. If you enter into a transaction with a third party and have a dispute over the goods or services that you purchased or over the donation you made, we have no liability for the goods or services underlying the transaction or for how the third party used your donation. Our only responsibility is to handle your payment transaction. All payments are final unless otherwise required by law. If you order something that becomes unavailable before it can be provided to you, you may request a refund of your payment.
@@ -88,13 +89,13 @@ Protecting the privacy of your financial information is important to us. Please 
 5.  Intervention. We may intervene in disputes concerning payments that may arise between you and a developer, but we have no obligation to do so.
 6.  Technical difficulties. If you experience a technical failure or interruption of service that causes your payment to fail, you may request that your transaction be completed at a later time.
 
-5\. Notices and amendments to these Payments Terms
+**5\. Notices and amendments to these Payments Terms**
 
 1.  Notice to you. By using payments features through the Facebook Products, you agree that we may communicate with you electronically any important information regarding your payments or your account. We may also provide notices to you by posting them on our website or by sending them to an email address or postal address that you have previously provided to us. Website and email notices shall be considered received by you within 24 hours of the time posted or sent; notices by post shall be considered received within three (3) working days of the time sent.
 2.  Notice to us. Except as otherwise stated, you must send notices to us relating to payments through the Facebook Products and these Payments Terms by post to: Facebook, FAO: Legal Department, 1601 Willow Avenue, Menlo Park, California, 94025, US.
 3.  Amendment guidelines. We may update these Payments Terms at any time without notice as we deem necessary to the full extent permitted by law. The Payments Terms in place at the time that you confirm a transaction will govern that transaction.
 
-6\. State notices – Customer complaints and fraud notices
+**6\. State notices – Customer complaints and fraud notices**
 
 The following provisions apply solely to users of Facebook-processed payments:  
 
@@ -109,7 +110,7 @@ The following provisions apply solely to users of Facebook-processed payments:
 9.  New York users: Facebook Payments Inc. is licensed and regulated as a money transmitter by the New York State Department of Financial Services. New York customers can direct unresolved complaints to Consumer Assistance Unit, NYS Department of Financial Services, One Commerce Plaza, Albany, NY 12257, US, +1 877 BANK NYS (+1 877 226 5697), [www.dfs.ny.gov/consumer/fileacomplaint.htm](https://www.dfs.ny.gov/consumer/fileacomplaint.htm).
 10.  Texas users: If you have a complaint, first contact the consumer assistance division of Facebook Payments Inc. online at the [Support Centre](https://www.facebook.com/facebookpaysupport) or through our automated freephone customer support line on 1-866-238-8605. If you still have an unresolved complaint regarding Facebook Payments Inc.'s money transmission or currency exchange activity, please direct your complaint to: [Texas Department of Banking](https://www.dob.texas.gov/?fbclid=IwAR1B6UbZ2vEi81OjbtG2bKeCANlp1-nxu4FJ_mT99oXDIDSPs9onzU6LSgY), 2601 North Lamar Boulevard, Austin, Texas 78705, US, 1-877-276-5554 (freephone), [www.dob.texas.gov.](https://www.dob.texas.gov/)
 
-7\. Additional terms
+**7\. Additional terms**
 
 1.  Terms of Service and conflict of terms. Our [Terms of Service](https://www.facebook.com/legal/terms) ("Terms") apply to your use of payments features through the Facebook Products. In the event of any conflict between these Payments Terms and the [Terms](https://www.facebook.com/legal/terms), the Payments Terms shall prevail.
 2.  Conflict of laws. Some countries may restrict or prohibit your ability to make payments through the Facebook Products. Nothing in these Payments Terms should be read to override or circumvent any such foreign laws.
