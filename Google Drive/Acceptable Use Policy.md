@@ -1,4 +1,4 @@
-Abuse Programme Policies and Enforcement
+Abuse programme policies and enforcement
 ========================================
 
 The programme policies below apply to Drive, Docs, Sheets, Slides, Forms and new Sites. The policies play an important role in maintaining a positive experience for everyone using Google products.   
@@ -117,10 +117,6 @@ System interference and abuse
 
 Do not abuse this product and do not harm, degrade or negatively affect the operation of networks, devices or other infrastructure of Google or others. This includes degrading, disabling or negatively interfering with any aspect of the product or its services. We may take appropriate action if we are notified of system interference and abuse, which may include removing access to some of our products or disabling your Google Account.
 
-Terrorist activities
-
-Terrorist organisations are not permitted to use this product for any purpose, including recruitment. We’ll also take action against the user for content related to terrorism, such as promoting terrorist acts, inciting violence or celebrating terrorist attacks. If storing or distributing content related to terrorism for an educational, documentary, scientific or artistic purpose, be mindful to provide enough information so that viewers understand the context.
-
 Unauthorised images of minors
 
 Do not store or distribute images of minors without explicit consent from the child's parent, guardian or legal representative. If someone has stored or distributed an image of a minor without necessary consent, please report it to us [here](https://support.google.com/docs/answer/2463296).
@@ -128,6 +124,10 @@ Do not store or distribute images of minors without explicit consent from the ch
 Violence and gore
 
 Do not store or distribute violent or gory content involving real-life people or animals that’s primarily intended to be shocking, sensational or gratuitous. This includes ultra-graphic violence, such as dismemberment or close-up footage of mutilated corpses. Graphic material, such as content containing significant amounts of blood, may be allowed in an educational, documentary, scientific or artistic context, but please be mindful to provide enough information to help people understand the context. In some cases, content may be so violent or shocking that no amount of context will allow that content to remain on our platforms. Lastly, don't encourage others to commit specific acts of violence.
+
+Violent organisations and movements
+
+Known violent non-state organisations and movements are not permitted to use this product for any purpose. Do not distribute content that facilitates or promotes the activities of these groups, such as recruiting, coordinating online or offline activities, sharing manuals or other materials that could facilitate harm, promoting ideologies of violent non-state organisations, promoting terrorist acts, inciting violence or celebrating attacks by violent non-state organisations. Depending upon the content, we may also take action against the user. Content related to violent non-state organisations may be allowed in an educational, documentary, scientific or artistic context, but please be mindful to provide enough information to help people understand the context.
 
 Additional policies
 -------------------
