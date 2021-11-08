@@ -109,6 +109,8 @@ We do not allow content that:
     
     **Examples**: Anti-vaccine advocacy, denial of the existence of medical conditions such as AIDS or Covid-19, gay conversion therapy
     
+*   contradicts authoritative scientific consensus on climate change.
+    
 
  ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about unreliable and harmful claims](https://support.google.com/publisherpolicies/answer/11188580)_
 
