@@ -1,6 +1,6 @@
 #### ironSource Website Privacy Policy
 
-Last Revised: 28.06.21
+Last Revised: November 4, 2021
 
 The following policy governs how ironSource Ltd. (“ironSource“, “Company” “we” or “us“), and its subsidiaries, handle information collected from users of its website, at the address [is.com/](https://www.is.com/) and its subdomains (the “Site“), including ironSource Mobile Dashboard (the “Dashboard”).
 
@@ -122,6 +122,10 @@ The terms of this Privacy Policy will govern the use of the Site and any informa
 Have any Questions?
 
 If you have any questions (or comments) concerning this Privacy Policy, you are welcome to send us an email to website-privacy-request@ironsrc.com, and we will make an effort to reply within a reasonable timeframe.
+
+Representation for data subjects in the EU
+
+We value your privacy and your rights as a data subject and have therefore appointed Prighter as our privacy representative and your point of contact. Prighter gives you an easy way to exercise your privacy-related rights (e.g. requests to access or erase personal data). If you want to contact us via our representative Prighter or make use of your data subject rights, please visit the following website. [https://prighter.com/q/19359051762](https://prighter.com/q/19359051762)
 
 Data Protection Officer
 
