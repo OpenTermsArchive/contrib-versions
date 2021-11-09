@@ -1,4 +1,4 @@
-Last Updated: October 8, 2020
+Last Updated: October 28, 2020
 
 Academia.edu (“Academia”) provides a searchable repository to allow our users to search and share academic resources. This Privacy Policy is designed to help you understand how we collect, use, and share your personal information and to help you understand and exercise your privacy rights. Academia is the controller for the personal information we process, unless otherwise stated. For information on how to contact us, please refer to Section 13 below.
 
@@ -45,8 +45,11 @@ We may collect the following personal information that you provide to us.
 
 *   **Registration**. When you register with us through the Services to become an Academia.edu Member, we collect your name, email address, and password. You may choose to add additional information in your profile such as your telephone number, postal address, biography, institutional affiliates, research interests, profile picture, social media accounts, and your CV. You may also choose to upload your papers and BibTeX file to your profile.
     
+*   **Course Creator Information.** We may collect personal information from you if you provide course content as a course creator, including your name, biography, employment and background information, and other information and supporting materials related to the content you provide.
 
 *   **Purchases**. We may collect personal information and details associated with your purchases, including payment information. Any payments made via our Services are processed by third-party payment processors. We do not directly collect or store any payment card information entered through our Services, but we may receive information associated with your payment card information (e.g., your billing details).
+    
+*   **Course Creator Payment Information**. We may collect personal information from you if you are a course creator to issue payments for the course content that you provide. This information may include tax information such as tax identification numbers, residency information, and other information necessary for tax purposes. We may also collect your bank account information and your contact information in order to issue the payments.
     
 *   **Your Communications with Us**. We may collect personal information, such as email addresses, phone numbers, or mailing addresses, when you request information about our Services, register for our communications, request customer or technical support, apply for a job or otherwise communicate with us.
     
@@ -112,6 +115,10 @@ We use your information to fulfil our contract with you and provide you with our
 *   Managing your information and accounts;
     
 *   Providing access to certain areas, functionalities, and features of our Services;
+    
+*   Recommend and provide content that may be of more interest to you based on your activity and use of our Services;
+    
+*   Issue payments for certain course content that you provide;
     
 *   Answering requests for customer or technical support;
     
@@ -188,14 +195,14 @@ We disclose your information to third parties for a variety of business purposes
 
 The categories of third parties with whom we may share your information are described below.
 
-*   **Service Providers**. We may share your personal information with our third-party service providers who use that information to help us provide our Services. This includes service providers that provide us with IT support, hosting, payment processing, customer service, and related services.
+*   **Service Providers**. We may share your personal information with our third-party service providers who use that information to help us provide our Services. This includes service providers that provide us with IT support, hosting, payment processing, payments to course creators, customer service, and related services.
     
 *   **Business Partners**. We may share your personal information with business partners to provide you with a product or service you have requested. We may also share your personal information to business partners with whom we jointly offer products or services.
     
 *   **Affiliates**. We may share your personal information with our company affiliates, for our administrative purpose including activities such as IT management, for them to provide services to you, or support and supplement the Services we provide.
     
 
-*   **Other Academia Users**. If you use certain Academia features, such as browsing profiles or papers belonging to Academia Premium users, your profile information (e.g., your name, city, institutional affiliations, and areas of interest) may be visible to those Premium users. You can control what information is visible to Academia Premium users in your Academia account [privacy settings](https://www.academia.edu/settings#privacy-settings).
+*   **Other Academia Users**. If you use certain Academia features, such as browsing profiles or papers belonging to Academia Premium users, your profile information (e.g., your name, city, institutional affiliations, and areas of interest) and browsing/viewing activity may be visible to those Premium users. You can control what information is visible to Academia Premium users in your Academia account [privacy settings](https://www.academia.edu/settings#privacy-settings).
     
 
 *   **Advertising Partners**. We may share your personal information with third-party advertising partners. These third-party advertising partners may set Technologies and other tracking tools on our Services to collect information regarding your activities and your device (e.g., your IP address, cookie identifiers, page(s) visited, location, time of day). These advertising partners may use this information (and similar information collected from other services) for purposes of delivering personalized advertisements to you when you visit digital properties within their networks. This practice is commonly referred to as “interest-based advertising” or “personalized advertising.”
@@ -270,7 +277,7 @@ This Supplemental California Privacy Notice only applies to our processing of pe
 
 | **Category of Personal Information Collected by Academia** | **Category of Third Parties Information to Whom is Disclosed for a Business Purpose** |
 | --- | --- |
-| **Identifiers.**<br><br>A real name, alias, postal address, unique personal identifier, online identifier, Internet Protocol address, email address, account name, or other similar identifiers. | *   Advertising networks<br>    <br>*   Internet service providers<br>    <br>*   Data analytics providers<br>    <br>*   Operating systems and platforms<br>    <br>*   Social networks<br>    <br>*   Service providers |
+| **Identifiers.**<br><br>A real name, alias, postal address, unique personal identifier, online identifier, Internet Protocol address, email address, account name, or other similar identifiers. | *   Advertising networks<br>    <br>*   Internet service providers<br>    <br>*   Data analytics providers<br>    <br>*   Operating systems and platforms<br>    <br>*   Social networks<br>    <br>*   Service providers<br>    <br>*   Other Academia users |
 | **Personal information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e))**<br><br>A name, address, telephone number, education, employment, employment history, bank account number, credit card number, debit card number, or any other financial information. Personal Information does not include publicly available information that is lawfully made available to the general public from federal, state, or local government records. Note: Some personal information included in this category may overlap with other categories. | *   Advertising networks<br>    <br>*   Internet service providers<br>    <br>*   Data analytics providers<br>    <br>*   Operating systems and platforms<br>    <br>*   Social networks<br>    <br>*   Service providers |
 | **Protected classification characteristics under California or federal law**<br><br>Age (40 years or older), gender. | *   Advertising networks<br>    <br>*   Internet service providers<br>    <br>*   Data analytics providers<br>    <br>*   Operating systems and platforms<br>    <br>*   Social networks<br>    <br>*   Service providers |
 | **Commercial information**<br><br>Records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies. | *   Advertising networks<br>    <br>*   Internet service providers<br>    <br>*   Data analytics providers<br>    <br>*   Operating systems and platforms<br>    <br>*   Social networks<br>    <br>*   Service providers |
@@ -295,6 +302,8 @@ For purposes of the CCPA, Academia does not “sell” personal information, nor
 **Verification**. To protect your privacy, we will take steps the following steps to verify your identity before fulfilling your request. When you make a request, we will ask you to provide sufficient information that allows us to reasonably verify you are the person about whom we collected personal information or an authorized representative, which may include asking you to log in to your Academia account or verify the email address associated with your Academia account.
 
 If you are a California resident and would like to exercise any of your rights under the CCPA, please contact us as set forth below. We will process such requests in accordance with applicable laws.
+
+**Refer-a-Friend and Similar Incentive Programs.**As described above in [How We Use Your Personal Information](#share-content-with-friends-of-colleagues) (“Share Content with Friends or Colleagues”), we may offer referral programs or other incentivized data collection programs. For example, we may offer incentives to you such as discounts or promotional items or credit in connection with these programs, wherein you provide your personal information in exchange for a reward, or provide personal information regarding your friends or colleagues (such as their email address) and receive rewards when they sign up to use our Services. (The referred party may also receive rewards for signing up via your referral.) These programs are entirely voluntary and allow us to grow our business and provide additional benefits to you. The value of your data to us depends on how you ultimately use our Services, whereas the value of the referred party’s data to us depends on whether the referred party ultimately becomes a user and uses our Services. Said value will be reflected in the incentive offered in connection with each program.
 
 **Accessibility**. This Privacy Policy uses industry-standard technologies and was developed in line with the World Wide Web Consortium’s Web Content Accessibility Guidelines, version 2.1**.** If you wish to print this policy, please do so from your web browser or by saving the page as a PDF.
 
