@@ -2144,7 +2144,6 @@ De bénéficier :
   
 • de ventes privilèges sur une sélection de produits ;   
   
-• du privilège  « Ma cagnotte à volonté » ,   
    
 • Et d’autres avantages offerts par les partenaires de Cdiscount, qui peuvent être différents en fonction du pays de résidence de l’Abonné Pro, et dont la disponibilité peut varier en cours d’Abonnement.  
   
@@ -2187,6 +2186,7 @@ La livraison offerte s'applique sur les modes de livraison listés ci-dessous.
 **Exclusions :**  
   
 Les modes de livraison spécifiques proposés dans le cadre d’un devis sont exclus de l’Abonnement et ne sont donc pas gratuits. A ce titre, la livraison par messagerie ou transport (Affrètement) nécessitant une livraison sur palette n’est pas éligible dans le cadre de l’Abonnement au Service.   
+  
   
 **2.2 Prix réduits**   
   
@@ -2274,6 +2274,6 @@ La résiliation de l’Abonnement sera effective immédiatement, sans préavis n
   
 Au plus tard 31 jours avant la date d'anniversaire de l’Abonnement au Service, Cdiscount rappellera à l’Abonné Pro, par email, sa possibilité de ne pas renouveler son Abonnement.  
   
-Si l’Abonné Pro ne souhaite pas renouveler son Abonnement, il devra procéder à la résiliation soit depuis son Espace Client soit en contactant le Service Client de Cdiscount Pro (i) par téléphone depuis la France au 0970806580 (numéro non surtaxé) aux horaires indiqués sur le Site ou (ii) par email envoyé à [serviceclient@cdiscountpro.com](https://www.cdiscount.com/mailto:serviceclient@cdiscountpro.com), au plus tôt 31 jours avant la date d'anniversaire de son Abonnement et au plus tard la veille de la date d'anniversaire de son Abonnement.  i  
+Si l’Abonné Pro ne souhaite pas renouveler son Abonnement, il devra procéder à la résiliation soit depuis son Espace Client soit en contactant le Service Client de Cdiscount Pro (i) par téléphone depuis la France au 0970806580 (numéro non surtaxé) aux horaires indiqués sur le Site ou (ii) par email envoyé à [serviceclient@cdiscountpro.com](https://www.cdiscount.com/mailto:serviceclient@cdiscountpro.com), au plus tôt 31 jours avant la date d'anniversaire de son Abonnement et au plus tard la veille de la date d'anniversaire de son Abonnement.   
   
 La résiliation sera effective au terme de la période d'Abonnement en cours et n'entraîne aucun remboursement du prix du Service.
