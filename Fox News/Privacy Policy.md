@@ -1,12 +1,12 @@
 Privacy Policy
 ==============
 
-_Last Updated/Effective Date: July 1, 2021_
+_Last Updated/Effective Date: November 10, 2021_
 
 Table of Contents:
 ------------------
 
-1.  [**Scope and Application**](#intro)
+1.  [**Scope and Application**](#test)
     
     What and who this Policy covers
     
@@ -43,7 +43,7 @@ Table of Contents:
 
 ### 1) Scope and Application
 
-Fox News Network, LLC ("Fox News," "our" or "we") wants you to be familiar with how we collect, use and disclose information from and about you. This Privacy Policy describes our practices in connection with information collected through services such as websites, mobile sites, applications ("apps"), and widgets that link to this privacy policy (collectively, the "Fox News Services"). California residents, please see the California Consumer Privacy Act Notice in Section 8 below. By using Fox News Services, you agree to the terms and conditions of this Privacy Policy. A list of our affiliated companies ("Fox News Affiliates") is available at [www.foxcorporation.com](https://www.foxcorporation.com/).
+Fox News Network, LLC ("Fox News," "our" or "we") wants you to be familiar with how we collect, use and disclose information from and about you. This Privacy Policy describes our practices in connection with information collected through services such as websites, mobile sites, applications ("apps"), and widgets that link to or are otherwise subject to this privacy policy (collectively, the "Fox News Services"). California residents, please see the California Consumer Privacy Act Notice in Section 8 below. By using Fox News Services, you agree to the terms and conditions of this Privacy Policy. A list of our affiliated companies ("Fox News Affiliates") is available at [www.foxcorporation.com](https://www.foxcorporation.com/).
 
 As set forth in our [Terms of Use](https://www.foxnews.com/terms-of-use), the Fox News Services are for a general audience, are not targeted to children, and do not knowingly collect personal information from children under 13 years of age.
 
@@ -55,9 +55,9 @@ This Privacy Policy applies to all users, including both those who use the Fox N
 
 Fox News and our service providers may collect the following information from and about you:
 
-**Registration Information** is the information you submit to register for a Fox News Service, for example, to create an account, post comments, receive a newsletter, or enter a contest or sweepstakes. Registration Information may include, for example, name, email address, gender, zip code, household income, political views, and birthday.
+**Registration Information** is the information you submit to register for a Fox News Service, for example, to create an account, post comments, receive a newsletter, or enter a contest or sweepstakes. Registration Information may include, for example, name, email address, gender, zip code, user/display name, household income, political views, and birthday.
 
-**Public Information and Posts** consist of comments or content that you post to the Fox News Services and the information about you that accompanies those posts or content, which may include a name, user name, comments, likes, status, profile information and picture. Public Information and Posts are always public, which means they are available to everyone and may be displayed in search results on external search engines.
+**Public Information and Posts** consist of comments or content that you post to the Fox News Services and the information about you that accompanies those posts or content, which may include a name, user/display name, comments, predictions, likes (or "kudos"), status, profile information and picture. Public Information and Posts are always public, which means they are available to everyone and may be displayed in search results on external search engines.
 
 **Information from Social Media.** If you access or log-in to a Fox News Service through a social media service or connect a Fox News Service to a social media service, the information we collect may also include your user ID and/or user name associated with that social media service, any information or content you have permitted the social media service to share with us, such as your profile picture, email address or friends lists, and any information you have made public in connection with that social media service. When you access the Fox News Services through social media services or when you connect a Fox News Service to social media services, you are authorizing Fox News to collect, store, and use such information and content in accordance with this Privacy Policy.
 
@@ -156,9 +156,9 @@ We have collected, disclosed, and/or "sold" to third parties the following categ
 |     |     |     |
 | --- | --- | --- |
 | **Category of Personal Information Collected** | **Categories of Third Parties to Whom Personal Information is Disclosed** | **Categories of Third Parties to Whom Personal Information is "Sold"** |
-| **Identifiers,** such as such as name, IP address, email address, online and device identifiers, household income, political views, and marital status | Service providers, Fox News Affiliates, and other providers or partners that support our operational business purposes | Advertising technology companies; advertisers |
-| **Personal Information** as defined in the California Customer Records law, such contact and financial information | Service providers, Fox News Affiliates, and other providers or partners that support our operational business purposes | Advertising technology companies; advertisers |
-| **Characteristics of protected classifications under California or federal law,** such as age or gender | Service providers, Fox News Affiliates, and other providers or partners that support our operational business purposes | N/A |
+| **Identifiers,** such as name, IP address, email address, user/display name, online and device identifiers, household income, political views, and marital status | Service providers, Fox News Affiliates, and other providers or partners that support our operational business purposes | Advertising technology companies; advertisers |
+| **Personal Information** as defined in the California Customer Records law, such as contact and financial information | Service providers, Fox News Affiliates, and other providers or partners that support our operational business purposes | Advertising technology companies; advertisers |
+| **Characteristics of protected classifications under California or federal law,** such as age or gender | Service providers, Fox News Affiliates, and other providers or partners that support our operational business purposes | Advertising technology companies; advertisers |
 | **Commercial Information,** such as transaction information and purchase history | Service providers, Fox News Affiliates, and other providers or partners that support our operational business purposes | N/A |
 | **Internet or network activity information,** such as such as browsing history and interactions with our websites, mobile, or connected TV applications (collectively, "Fox News Digital Properties") | Service providers, Fox News Affiliates, and other providers or partners that support operational business purposes or partners that support our operational business purposes | Advertising technology companies; advertisers |
 | **Geolocation,** such as device location | Service providers, Fox News Affiliates, and other providers or partners that support our operational business purposes | N/A |
