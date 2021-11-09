@@ -1,7 +1,7 @@
 Google APIs Terms of Service
 ============================
 
-Last modified: November 18, 2020 [(see previous version)](https://developers.google.com/terms/2019)
+Last modified: November 9, 2021 [(see previous version)](https://developers.google.com/terms/2020)
 
 Thank you for using Google's APIs, other developer services, and associated software (collectively, "APIs"). By accessing or using our APIs, you are agreeing to the terms below. If there is a conflict between these terms and additional terms applicable to a given API, the additional terms will control for that conflict. Collectively, we refer to the terms below, any additional terms, terms within the accompanying API documentation, and any applicable policies and guidelines as the "Terms." You agree to comply with the Terms and that the Terms control your relationship with us. So please read all the Terms carefully. If you use the APIs as an interface to, or in conjunction with other Google products or services, then the terms for those other products or services also apply.
 
@@ -74,7 +74,7 @@ The APIs are designed to help you enhance your websites and applications ("API C
 
 ### b. Security
 
-You will use commercially reasonable efforts to protect user information collected by your API Client, including personally identifiable information ("PII"), from unauthorized access or use and will promptly report to your users any unauthorized access or use of such information to the extent required by applicable law.
+You will use commercially reasonable efforts to protect user information collected by your API Client, including personal data, from unauthorized access or use and will promptly report to your users any unauthorized access or use of such information to the extent required by applicable law.
 
 ### c. Ownership
 
@@ -82,7 +82,7 @@ Google does not acquire ownership in your API Clients, and by using our APIs, yo
 
 ### d. User Privacy and API Clients
 
-You will comply with all applicable privacy laws and regulations including those applying to PII. You will provide and adhere to a privacy policy for your API Client that clearly and accurately describes to users of your API Client what user information you collect and how you use and share such information (including for advertising) with Google and third parties.
+You will comply with (1) all applicable privacy laws and regulations including those applying to personal data and (2) the [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy), which governs your use of the APIs when you request access to Google user information. You will provide and adhere to a privacy policy for your API Client that clearly and accurately describes to users of your API Client what user information you collect and how you use and share such information (including for advertising) with Google and third parties.
 
 Section 4: Prohibitions and Confidentiality
 -------------------------------------------
