@@ -35,13 +35,13 @@ To benefit from Bolt Services and provide Transportation Services through the Bo
 
 1.11 **In-App Payment** - cards, carrier billing and other payment methods used by the Passenger via the Bolt Apps to pay for the Transportation Services.
 
-1.12 **Bolt Driver Account** - a portal with relevant information and documents on the use of the Bolt Platform and Bolt Services in the course of providing Transportation Services, which also includes accounting documentation. Driver may access the Bolt Driver Account at [http://partners.bolt.eu](http://partners.bolt.eu/) by entering username and password. Registering Bolt Driver Account as a fleet company. Upon concluding a separate agreement, a fleet company may itself register accounts to its employees and/or service providers. In such case the fleet company shall be required to ensure that its employees and/or service providers conform to the requirements of General Terms, Agreement and any further agreements and agrees to act in accordance and be bound with its conditions and obligations. The fleet company and its employees and/or service providers shall remain jointly and severally liable for any infringement conducted by such employee and/or service provider.
+1.12 **Bolt Driver Account** - a portal with relevant information and documents on the use of the Bolt Platform and Bolt Services in the course of providing Transportation Services, which also includes accounting documentation. Driver may access the Bolt Driver Account at [https://partners.bolt.eu](https://partners.bolt.eu/) by entering username and password. Registering Bolt Driver Account as a fleet company. Upon concluding a separate agreement, a fleet company may itself register accounts to its employees and/or service providers. In such case the fleet company shall be required to ensure that its employees and/or service providers conform to the requirements of General Terms, Agreement and any further agreements and agrees to act in accordance and be bound with its conditions and obligations. The fleet company and its employees and/or service providers shall remain jointly and severally liable for any infringement conducted by such employee and/or service provider.
 
 1.14 **Transportation Service** - transport service a Fleet Partner / Driver provides to Passenger whose request Driver has accepted through the Bolt App. All transportation services dispatched under this Agreement must be made by SPSV licensed laws, tariffs and tariff rules relating to transportation by taxi, as applicable from time to time.
 
 1.15 **Payment Agent** - Bolt Operations OÜ (Register code: 14532901; Legal address: Vana-Lõuna tn 15 Tallinn Harjumaa 10135 , formerly, Billify OÜ), the agent responsible for providing technical support to facilitate payment services and/or billing. The Payment Agent may also process and settle complaints regarding payments.
 
-1.16 **Website** - [www.bolt.eu](http://www.bolt.eu/) and all relevant sub-sites.
+1.16 **Website** - [www.bolt.eu](https://www.bolt.eu/) and all relevant sub-sites.
 
 1.17 **You, Your, Yours** - refers to the Fleet Partner or Driver, as applicable.
 
@@ -65,13 +65,13 @@ To benefit from Bolt Services and provide Transportation Services through the Bo
 
 2.1.8. You shall not copy or distribute the Bolt Apps, the Bolt Services or any other of Bolt Ireland’s content, nor permit such acts without the prior written consent of Bolt Ireland;
 
-2.1.9. You agree with Bolt's privacy policy on the following website: [http://www.bolt.eu/legal/](http://www.bolt.eu/legal/).
+2.1.9. You agree with Bolt's privacy policy on the following website: [https://www.bolt.eu/legal/](https://www.bolt.eu/legal/).
 
 2.2. You are required to provide your bank account information when completing the payment details during the registration. You must insert the bank account of the company/sole trade holder. The relevant portion of the Fares paid by In-App Payment, after deducting any negative balance and any other fees deriving from the Agreement, will be transferred to the bank account that has been provided. Bolt Ireland, Bolt Group Companies, Bolt Partners shall not be liable for any incorrect money transactions in case you have provided inaccurate account details.
 
 2.3. After submitting the application form, you may receive an e-mail with additional conditions that must be met in order to provide Transportation Services while using the Bolt Services, including additional information requests from Bolt Ireland. Among other things, these conditions may include clearance certificates, valid business licenses and driving licenses, confirmation of a particular technical condition or insurance of the vehicle, completion of a training course, the presence of a GPS-assisted mobile device,, registration certificates, certificates of the bank account(s) or other evidence for the lawful use of the vehicle and other conditions as described in the corresponding e-mail. Failure to comply with the provided requirements may result in the termination of the Agreement and the suspension of the right to use the Bolt Services.
 
-2.4. You agree that Bolt Ireland may freely assign any of its obligations, rights and/or claims under this Agreement to Bolt Group Companies and/or Bolt Partner. This includes, among other things, assigning the rights and obligations related to the verification of documents, related to registration applications, business licenses, registration certificates, training, charging of Bolt Ireland, forwarding of due Bolt Fees, In-Apps Payments and payments/transfers in general, licensing of Bolt Apps, etc. Details of the local Bolt Group companies and/or Bolt partners can be found here [http://bolt.eu/cities](http://bolt.eu/cities).
+2.4. You agree that Bolt Ireland may freely assign any of its obligations, rights and/or claims under this Agreement to Bolt Group Companies and/or Bolt Partner. This includes, among other things, assigning the rights and obligations related to the verification of documents, related to registration applications, business licenses, registration certificates, training, charging of Bolt Ireland, forwarding of due Bolt Fees, In-Apps Payments and payments/transfers in general, licensing of Bolt Apps, etc. Details of the local Bolt Group companies and/or Bolt partners can be found here [https://bolt.eu/cities](https://bolt.eu/cities).
 
 2.5. Registering to the Bolt Driver Account:
 
@@ -237,7 +237,7 @@ Subject to your compliance with the Agreement, Bolt Ireland hereby grants you fo
 
 **11\. PROCESSING OF PERSONAL DATA & ACCESS TO DATA**
 
-11.1. Personal data will be processed according to the privacy policy available at [http://bolt.eu/legal/](http://bolt.eu/legal/)
+11.1. Personal data will be processed according to the privacy policy available at [https://bolt.eu/legal/](https://bolt.eu/legal/)
 
 11.2. Bolt has access to all personal data and other data provided or generated in connection with your use of the Bolt Services. Bolt shall take all reasonable steps to ensure confidentiality of such data and comply with all applicable Privacy Policies and laws whenever such data contains personal data. Except where otherwise provided by applicable Privacy Policies and laws, Bolt maintains access to such data also after the Agreement between you and Bolt is terminated.
 
@@ -312,7 +312,7 @@ The termination of the Agreement will not affect:
 
 **14\. AMENDMENTS**
 
-14.1. **We reserve the right to amend these General Terms anytime by uploading the revised version on the website ([http://bolt.eu/legal/](http://bolt.eu/legal/)) and notifying you (e.g. via e-mail, Bolt Apps or Bolt Driver Account) whenever, in our reasonable opinion, such amendments are material.**
+14.1. **We reserve the right to amend these General Terms anytime by uploading the revised version on the website ([https://bolt.eu/legal/](https://bolt.eu/legal/)) and notifying you (e.g. via e-mail, Bolt Apps or Bolt Driver Account) whenever, in our reasonable opinion, such amendments are material.**
 
 * * *
 
