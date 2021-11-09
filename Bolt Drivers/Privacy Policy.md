@@ -78,7 +78,7 @@ Bolt Ireland - as the entity in charge of the taxi dispatching in Ireland - is d
 
 *   You shall not process the personal data of passengers without our permission or that of the passenger. You shall not contact any passenger or collect, record, store, grant access, use or cross-use the personal data provided by the passenger or accessible to you via the Bolt app for any reason other than for the purposes of fulfilling the respective transportation service.
     
-*   You must in any case comply with the rules and conditions for processing of personal data of passengers as set forth in the Privacy Notice for Passengers (​[http://www.bolt.eu/legal/](http://www.bolt.eu/legal/)). If you violate the requirements for the processing of personal data of passengers, we may terminate your account and claim damages from you.
+*   You must in any case comply with the rules and conditions for processing of personal data of passengers as set forth in the Privacy Notice for Passengers (​[https://www.bolt.eu/legal/](https://www.bolt.eu/legal/)). If you violate the requirements for the processing of personal data of passengers, we may terminate your account and claim damages from you.
     
 
 **7\. Access, correction and restriction**
@@ -138,4 +138,4 @@ We will respond to any request for transfer of personal data submitted by e-mail
 
 *   Disputes relating to the processing of personal data are resolved through customer support (for matters relating to Bolt Head Office: [info@bolt.eu](mailto:info@bolt.eu); for matters relating to Bolt Ireland: [dublin@bolt.eu](mailto:dublin@bolt.eu)) or by contacting Bolt’s Data Protection Officer ([privacy@bolt.eu](mailto:privacy@bolt.eu)).
     
-*   In case you believe that the data processing is unlawful, you are entitled to start the procedure before the Irish Data Protection Commission (Postal address: Data Protection Commission, 21 Fitzwilliam Square South, Dublin 2, D02 RD28, Ireland; web contact: [https://forms.dataprotection.ie/contact](https://forms.dataprotection.ie/contact)) and initiate judicial proceedings or before the Estonian Data Protection Inspectorate ([www.aki.ee](http://www.aki.ee/)) which can be contacted by email: [info@aki.ee](mailto:info@aki.ee).
+*   In case you believe that the data processing is unlawful, you are entitled to start the procedure before the Irish Data Protection Commission (Postal address: Data Protection Commission, 21 Fitzwilliam Square South, Dublin 2, D02 RD28, Ireland; web contact: [https://forms.dataprotection.ie/contact](https://forms.dataprotection.ie/contact)) and initiate judicial proceedings or before the Estonian Data Protection Inspectorate ([www.aki.ee](https://www.aki.ee/)) which can be contacted by email: [info@aki.ee](mailto:info@aki.ee).
