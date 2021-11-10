@@ -139,7 +139,7 @@ This licence is for the limited purpose of:
 *   **operating and improving the services**, which means allowing the services to work as designed and creating new features and functionalities. This includes using automated systems and algorithms to analyse your content:
     *   for spam, malware and illegal content
     *   to recognise patterns in data, such as determining when to suggest a new album in Google Photos to keep related photos together
-    *   to customise our services for you, such as providing recommendations and personalised search results, content and ads (which you can change or turn off in [Ads Settings](https://adssettings.google.com/?ref=ps-terms&hl=en_GB))This analysis occurs as the content is sent, received and when it is stored.
+    *   to customise our services for you, such as providing recommendations and personalised search results, content and ads (which you can change or turn off in [Ad Settings](https://adssettings.google.com/?ref=ps-terms&hl=en_GB))This analysis occurs as the content is sent, received and when it is stored.
 *   **using content that you’ve shared publicly to promote the services**. For example, to promote a Google app, we might quote a review that you wrote. Or to promote Google Play, we might show a screenshot of the app that you offer in the Play Store.
 *   **developing new technologies and services** for Google consistent with these terms
 
@@ -158,7 +158,7 @@ Using Google services
 Your Google Account
 -------------------
 
-[If you meet these age requirements](https://support.google.com/accounts/answer/1350409?hl=en_GB) you can [create a Google Account](https://support.google.com/accounts/answer/27441?hl=en_GB) for your convenience. Some [services](https://policies.google.com/terms?hl=en-GB#footnote-services) require that you have a Google Account in order to work – for example, to use Gmail, you need a Google Account so that you have a place to send and receive your email.
+[If you meet these age requirements](https://support.google.com/accounts/answer/1350409?hl=en_GB), you can [create a Google Account](https://support.google.com/accounts/answer/27441?hl=en_GB) for your convenience. Some [services](https://policies.google.com/terms?hl=en-GB#footnote-services) require that you have a Google Account in order to work – for example, to use Gmail, you need a Google Account so that you have a place to send and receive your email.
 
 You’re responsible for what you do with your Google Account, including taking reasonable steps to keep your Google Account secure, and we encourage you to regularly use the [Security Check-Up](https://myaccount.google.com/security-checkup?hl=en_GB).
 
@@ -200,7 +200,7 @@ Some of our [services](https://policies.google.com/terms?hl=en-GB#footnote-servi
 Other content
 -------------
 
-Finally, some of our [services](https://policies.google.com/terms?hl=en-GB#footnote-services) gives you access to content that belongs to other people or [organisations](https://policies.google.com/terms?hl=en-GB#footnote-organization) – for example, a store owner’s description of their own business, or a newspaper article displayed in Google News. You may not use this content without that person or organisation’s permission, or as otherwise allowed by law. The views expressed in the content of other people or organisations are their own, and don’t necessarily reflect Google’s views.
+Finally, some of our [services](https://policies.google.com/terms?hl=en-GB#footnote-services) give you access to content that belongs to other people or [organisations](https://policies.google.com/terms?hl=en-GB#footnote-organization) – for example, a store owner’s description of their own business, or a newspaper article displayed in Google News. You may not use this content without that person or organisation’s permission, or as otherwise allowed by law. The views expressed in the content of other people or organisations are their own, and don’t necessarily reflect Google’s views.
 
 Software in Google services
 ===========================
