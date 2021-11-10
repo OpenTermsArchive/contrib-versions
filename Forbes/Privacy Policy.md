@@ -246,7 +246,7 @@
     
     We will retain your user information for as long as your account is active or as needed to provide you the Site, unless you have revoked your consent or requested to delete certain user information; and we may retain certain user information for specific legitimate interests where we have an ongoing business need (for example, relating to core Site functionalities (such as fraud-prevention and account recovery), or to comply with applicable tax, legal or accounting requirements).
     
-    When we have no ongoing legitimate business need to use your user information, we will either delete or anonymize it or, if this is not possible (for example, because your personal information has been stored in back-up archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
+    When we have no ongoing legitimate business need to use your user information, we will delete it or, if this is not possible (for example, because your personal information has been stored in back-up archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
     
     #### Security
     
