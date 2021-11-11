@@ -1,15 +1,15 @@
 Abuse programme policies and enforcement
 ========================================
 
-The programme policies below apply to the content that you post on Google Photos, comments on Google Photos and print content through Google Photos. Google Photos provides free storage and automatic organisation of your photos and videos to ensure that all of your memories are safe, secure and accessible. The policies play an important role in maintaining a positive experience for everyone using Google products.
+The programme policies below apply to the content that you post on Google Photos, comments on Google Photos and print content through Google Photos. Google Photos provides storage and automatic organisation of your photos and videos at no cost. The policies play an important role in maintaining a positive experience for everyone using Google products.
 
-We need to curb abuses that threaten our ability to provide these services, and we ask that everyone abides by the policies below to help us achieve this goal. After we are notified of a potential policy violation, we may review the content and take action, including restricting access to the content, removing the content, refusing to print the content and limiting or terminating a user’s access to Google products.
+We need to curb abuses that threaten our ability to provide these services and we ask that everyone abides by the policies below to help us achieve this goal. After we are notified of a potential policy violation, we may review the content and take action, including restricting access to the content, removing the content, refusing to print the content and limiting or terminating a user’s access to Google products.
 
 We may take action on accounts that go above storage quota limits. For example, we may reject new uploads, compress existing content or delete content if you exceed your storage quota or fail to obtain sufficient additional storage. Read more about storage quotas [here](https://support.google.com/photos/answer/9312312#changes).
 
 When applying these policies, we may make exceptions based on educational, documentary, scientific or artistic considerations, or where there are other substantial benefits to the public from not taking action on the content.
 
-Make sure that you check from time to time, as these policies may change. Please also refer to Google's Terms of Service for more information. Beyond the policies listed below, note that several products and features may have additional policies and terms. For example, Google profile photo cannot include mature or offensive content, such as a photo that is a close-up of a person’s buttocks or cleavage.
+Make sure that you check from time to time, as these policies may change. Please also refer to Google's Terms of Service for more information. Beyond the policies listed below, note that several products and features may have additional policies and terms. For example, Google profile photos cannot include mature or offensive content, such as a photo that is a close-up of a person’s buttocks or cleavage.
 
 Report abuse
 ------------
