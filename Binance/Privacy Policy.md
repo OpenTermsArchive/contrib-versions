@@ -1,5 +1,4 @@
 Binance Privacy Policy
-======================
 
 Last updated: September 15, 2021.
 
