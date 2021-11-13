@@ -110,7 +110,7 @@ If you have a Facebook account:
 
 Everyone:
 
-You can opt out of seeing online interest-based ads from Facebook and other participating companies through the [Digital Advertising Alliance](http://www.aboutads.info/choices/) in the US, the [Digital Advertising Alliance of Canada](https://youradchoices.ca/) in Canada or the [European Interactive Digital Advertising Alliance](http://www.youronlinechoices.eu/) in Europe or through your mobile device settings, where available, using Android, iOS 13 or an earlier version of iOS. Please note that ad blockers and tools that restrict our cookie use may interfere with these controls.
+You can opt out of seeing online interest-based ads from Facebook and other participating companies through the [Digital Advertising Alliance](http://www.aboutads.info/choices/) in the US, the [Digital Advertising Alliance of Canada](http://youradchoices.ca/) in Canada or the [European Interactive Digital Advertising Alliance](http://www.youronlinechoices.eu/) in Europe or through your mobile device settings, where available, using Android, iOS 13 or an earlier version of iOS. Please note that ad blockers and tools that restrict our cookie use may interfere with these controls.
 
 More information about online advertising:
 
@@ -118,7 +118,7 @@ The advertising companies we work with generally use cookies and similar technol
 
 *   [Digital Advertising Alliance](http://www.aboutads.info/choices/)
     
-*   [Digital Advertising Alliance of Canada](https://youradchoices.ca/)
+*   [Digital Advertising Alliance of Canada](http://youradchoices.ca/)
     
 *   [European Interactive Digital Advertising Alliance](http://www.youronlinechoices.eu/)
     
