@@ -3,7 +3,9 @@
 Developer Agreement
 ===================
 
-#### Developer Agreement  
+Developer Agreement  
+
+----------------------
 
 Effective: March 10, 2020
 
@@ -13,9 +15,9 @@ PLEASE READ THE TERMS AND CONDITIONS OF THIS AGREEMENT CAREFULLY, INCLUDING ANY 
 
 IF YOU ARE AN INDIVIDUAL REPRESENTING AN ENTITY, YOU ACKNOWLEDGE THAT YOU HAVE THE APPROPRIATE AUTHORITY TO ACCEPT THIS AGREEMENT ON BEHALF OF SUCH ENTITY. YOU MAY NOT USE THE LICENSED MATERIAL AND MAY NOT ACCEPT THIS AGREEMENT IF YOU ARE NOT OF LEGAL AGE TO FORM A BINDING CONTRACT WITH TWITTER, OR YOU ARE BARRED FROM USING OR RECEIVING THE LICENSED MATERIAL UNDER APPLICABLE LAW.
 
-###### I. Twitter API and Twitter Content
+### I. Twitter API and Twitter Content
 
-###### **A. Definitions**
+#### **A. Definitions**
 
 1.  **Broadcast ID** \- A unique identification number generated for each Periscope Broadcast.
     
@@ -78,7 +80,7 @@ IF YOU ARE AN INDIVIDUAL REPRESENTING AN ENTITY, YOU ACKNOWLEDGE THAT YOU HAVE T
 
 The [Developer Policy](https://developer.twitter.com/en/developer-terms/policy), [API Restricted Use Rules](https://developer.twitter.com/en/developer-terms/more-on-restricted-use-cases), [Twitter Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules), [Display Requirements](https://developer.twitter.com/en/developer-terms/display-requirements.html), [Brand Resources](https://about.twitter.com/en_us/company/brand-resources.html), [Automation Rules](https://help.twitter.com/en/rules-and-policies/twitter-automation), [Periscope Community Guidelines](https://www.periscope.tv/content), and [Periscope Trademark Guidelines](https://www.periscope.tv/trademarkpolicy) are collectively referred to herein as the **“Incorporated Developer Terms”**. You agree to the Incorporated Developer Terms, which are hereby incorporated by reference and are available in hardcopy upon request to Twitter. In the event of a conflict between the Incorporated Developer Terms and this Agreement, this Agreement shall control. None of the Incorporated Developer Terms expand or extend the license to the Twitter API, Twitter Content or Twitter Marks granted in this Agreement.
 
-**II. Restrictions on Use of Licensed Materials**
+### **II. Restrictions on Use of Licensed Materials**
 
 **A. Reverse Engineering and other Restrictions.** You will not or attempt to (and will not allow others to) a) reverse engineer, decompile, disassemble or translate the Twitter API, or otherwise attempt to derive source code, trade secrets or know-how in or underlying any Twitter API or any portion thereof; b) interfere with, modify, disrupt or disable features or functionality of the Twitter API, including without limitation any such mechanism used to restrict or control the functionality, or defeat, avoid, bypass, remove, deactivate or otherwise circumvent any software protection or monitoring mechanisms of the Twitter API; b) sell, rent, lease, sublicense, distribute, redistribute, syndicate, create derivative works of, assign or otherwise transfer or provide access to, in whole or in part, the Licensed Material to any third party except as expressly permitted herein; d) provide use of the Twitter API on a service bureau, rental or managed services basis or permit other individuals or entities to create links to the Twitter API or "frame" or "mirror" the Twitter API on any other server, or wireless or Internet-based device, or otherwise make available to a third party, any token, key, password or other login credentials to the Twitter API; or e) use the Licensed Material for any illegal, unauthorized or other improper purposes, including without limitation to store or transmit infringing, libelous, or otherwise unlawful or tortious material, to store or transmit malicious code, or to store or transmit material in violation of third-party privacy rights;  (f) utilize the Licensed Material to derive or obtain non-public information of individual Twitter users, including without limitation a user’s location; (g) interfere with or disrupt the integrity or performance of the Twitter Applications, Twitter API or Twitter Content contained therein, including by disrupting the ability of any other person to use or enjoy the Twitter Applications, Twitter API or Twitter Content, or attempt to gain unauthorized access to the Twitter Applications, Twitter API, Twitter Content or related systems or networks; (h) remove or alter any proprietary notices or marks on the Twitter Content; or (i) use Twitter Content, by itself or bundled with third party data, or derivative analysis therefrom, to target users with advertising outside of the Twitter Applications, including without limitation on other advertising networks, via data brokers, or through any other advertising or monetization services.
 
@@ -94,13 +96,13 @@ The [Developer Policy](https://developer.twitter.com/en/developer-terms/policy),
 
 **G. Security.** You will maintain the security of the Twitter API and will not make available to a third party, any token, key, password or other login credentials to the Twitter API. You will use industry standard security measures to prevent unauthorized access or use of any of the features and functionality of the Twitter API, including access by viruses, worms, or any other harmful code or material. Additionally, you will keep Twitter Content (including, where applicable, personal data) confidential and secure from unauthorized access by using industry-standard organizational and technical safeguards for such data, and with no less care than it uses in connection with securing similar data you store. You will immediately notify Twitter consult and cooperate with investigations, assist with any required notices, and provide any information reasonably requested by Twitter if you know of or suspects any breach of security or potential vulnerability related to the Licensed Material and will promptly remedy such breach or potential vulnerability resulting from Your access to the Licensed Material
 
-III. Updates and Removals
+### III. Updates and Removals
 
 **A. Updates.** You acknowledge that Twitter may update or modify the Licensed Materials from time to time, and at its sole discretion (in each instance, an **“Update”**). You are required to implement and use the most current version of the Licensed Materials and to make any changes to your Services that are required as a result of such Update, at your sole cost and expense. Updates may adversely affect the manner in which your Services access or communicate with the Twitter API or display Twitter Content. Your continued access or use of the Licensed Materials following an update or modification will constitute binding acceptance of the Update.
 
 **B. Removals.** If Twitter Content is deleted, gains protected status, or is otherwise suspended, withheld, modified, or removed from the Twitter Applications (including removal of location information), you will make all reasonable efforts to delete or modify such Twitter Content (as applicable) as soon as possible, and in any case within 24 hours after a written request to do so by Twitter or by a Twitter user with regard to their Twitter Content, unless prohibited by applicable law or regulation and with the express written permission of Twitter.
 
-IV. Ownership and Feedback
+### IV. Ownership and Feedback
 
 **A. Ownership.** The Licensed Material is licensed, not sold, and Twitter retains and reserves all rights not expressly granted in this Agreement. You expressly acknowledge that Twitter, its licensors and its end users retain all worldwide right, title and interest in and to the Licensed Material, including all rights in patents, trademarks, trade names, copyrights, trade secrets, know-how, data (including all applications therefor), and all proprietary rights under the laws of the United States, any other jurisdiction or any treaty (**"IP Rights"**). You agree not to do anything inconsistent with such ownership, including without limitation, challenging Twitter’s ownership of the Twitter Marks, challenging the validity of the licenses granted herein, or otherwise copying or exploiting the Twitter Marks during or after the termination of this Agreement, except as specifically authorized herein. If you acquire any rights in the Twitter Marks or any confusingly similar marks, by operation of law or otherwise, you will, at no expense to Twitter, immediately assign such rights to Twitter.
 
@@ -120,7 +122,7 @@ IV. Ownership and Feedback
 
 **XI. Agreement Updates.** Twitter may update or modify this Agreement or any of the Incorporated Developer Terms from time to time at its sole discretion by posting the changes on this site or by otherwise notifying you (such notice may be via email). You acknowledge that these updates and modifications may adversely affect how your Service accesses or communicates with the Twitter API. If any change is unacceptable to you, your only recourse is to cease all use of the Licensed Material. Your continued access or use of the Licensed Material will constitute binding acceptance of such updates and modifications.
 
-**XII. Miscellaneous.**
+### **XII. Miscellaneous.**
 
 **A. Assignment.** You may not assign any of the rights or obligations granted hereunder, in whole or in part, whether voluntarily or by operation of law, contract, merger (whether you are the surviving or disappearing entity), stock or asset sale, consolidation, dissolution, through government action or otherwise, except with the prior written consent of Twitter, Inc. Twitter, Inc. is authorized to sign modifications and consents on behalf of Twitter International Company, an Irish company responsible for the information of Twitter users who live outside the United States. Any attempted assignment in violation of this paragraph is null and void, and Twitter may terminate this Agreement.
 
