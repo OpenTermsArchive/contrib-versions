@@ -103,6 +103,7 @@ The open source software platform that runs everywhere from the smartphone, the 
     *   [Cost calculator](https://ubuntu.com/openstack/pricing-calculator)
     *   [Install](https://ubuntu.com/openstack/install)
     *   [Docs](https://ubuntu.com/openstack/docs)
+    *   [Tutorials](https://ubuntu.com/openstack/tutorials)
 *   [Ceph](https://ubuntu.com/ceph)
     -------------------------------
     
