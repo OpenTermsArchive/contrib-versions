@@ -58,3 +58,18 @@ You can also block certain cookies by adjusting your settings on our sites.
 [Yellowla.com cookie settings](https://www.yellowla.com/cookie-settings)
 
 [Snapfoundation.org Cookie Settings](https://www.snapfoundation.org/cookie-settings)
+
+Third-party advertising partners
+--------------------------------
+
+*   Twitter
+    
+*   Pinterest
+    
+*   Google Analytics
+    
+*   LinkedIn
+    
+*   Bing
+    
+*   Pardot
