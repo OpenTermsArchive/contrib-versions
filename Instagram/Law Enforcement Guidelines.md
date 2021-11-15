@@ -12,15 +12,15 @@ Requests for User Information
 
 We disclose account records solely in accordance with our terms of service and applicable law, including the federal Stored Communications Act (“SCA”), 18 U.S.C. Sections 2701-2712. Under the SCA:
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/Gfv6WsB4dT4.png)
 
 a valid subpoena issued in connection with an official criminal investigation is required to compel the disclosure of basic subscriber records (defined in 18 U.S.C. Section 2703(c)(2)), which may include: name, length of service, credit card information, email address(es), and any recent login/logout IP address(es), if available.
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/Gfv6WsB4dT4.png)
 
 a court order issued under 18 U.S.C. Section 2703(d) is required to compel the disclosure of certain records or other information pertaining to the account, not including contents of communications, which may include message headers and IP addresses, in addition to the basic subscriber records identified above.
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/Gfv6WsB4dT4.png)
 
 a search warrant issued under the procedures described in the Federal Rules of Criminal Procedure or equivalent state warrant procedures upon a showing of probable cause is required to compel the disclosure of the stored contents of any account, which may include messages, photos, comments, and location information.
 
@@ -98,11 +98,11 @@ Law enforcement officials who do not submit requests through the Law Enforcement
 
 Notes
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/Gfv6WsB4dT4.png)
 
 Acceptance of legal process by any of these means is for convenience and does not waive any objections, including lack of jurisdiction or improper service.
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/Gfv6WsB4dT4.png)
 
 We will not review or respond to correspondence sent by non-law enforcement officials to the addresses above.
 
@@ -118,13 +118,13 @@ Can you say more?
 
 Bear in mind that this form is for feedback only and you won't receive a reply. Please don't include personal information about you or someone else. Learn more about how to report something to Instagram.
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yR/r/vv65l2ivilT.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/y8/r/0whwgFLaZ-v.png)
 
 Thanks
 
 Your feedback helps improve this answer for everyone.
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y6/r/afC97ryAiej.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/y6/r/YXE7Jq8UHjN.png)
 
 Yes
 
@@ -142,7 +142,7 @@ Other
 
 Submit
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yL/r/Ei28SVQXqHE.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yu/r/N0alE8krNuM.png)
 
 Related articles
 
@@ -153,7 +153,7 @@ Related articles
 
 Can I obtain information about someone's Instagram account?
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yP/r/6vwLLmakTYZ.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yM/r/5Rp9sHgmsb1.png)
 
 
 
@@ -165,7 +165,7 @@ Can I obtain information about someone's Instagram account?
 
 How does the General Data Protection Regulation (GDPR) affect advertising on Instagram?
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yP/r/6vwLLmakTYZ.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yM/r/5Rp9sHgmsb1.png)
 
 
 
@@ -177,7 +177,7 @@ How does the General Data Protection Regulation (GDPR) affect advertising on Ins
 
 Edit your business information on Instagram
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yP/r/6vwLLmakTYZ.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yM/r/5Rp9sHgmsb1.png)
 
 
 
@@ -189,7 +189,7 @@ Edit your business information on Instagram
 
 How do I access or review my data on Instagram?
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yP/r/6vwLLmakTYZ.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yM/r/5Rp9sHgmsb1.png)
 
 
 
@@ -201,7 +201,7 @@ How do I access or review my data on Instagram?
 
 About ad account options for ads on Instagram
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yP/r/6vwLLmakTYZ.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yM/r/5Rp9sHgmsb1.png)
 
 
 
