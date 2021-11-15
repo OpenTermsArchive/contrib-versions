@@ -519,7 +519,7 @@ Attn: Copyright Agent
 
 Telephone Number: 1-415-358-0857 | Fax: 1-415-358-0884
 
-Click [here](https://www.wix.com/support-chatbot?nodeId=om98g6kPvnc8SE5FUBqC&referral=termsOfUse) to contact us
+Click [here](https://www.wix.com/support-chatbot?nodeId=om98g6kPvnc8SE5FUBqC&referral=termsOfUseCopyright) to contact us
 
 In the event that Wix receives notice regarding a copyright infringement related to your User Platform or User Website, it may cancel your User Account, take your User Platform down or remove any Content in its sole discretion, with or without prior notice to you. In such case, you may file a proper counter-notice in accordance with Section 512 of the DMCA, in which you must include: (1) your full name, address, phone number and physical or electronic signature; (2) identification of the material and its location before removal; (3) a statement under penalty of perjury that the material was removed by mistake or misidentification; (4) your consent to an appropriate judicial body; and (5) any other information required under the relevant provisions of the DMCA. Any notices filed pursuant to this Section 9 may be deemed accepted, applicable and compliant with the DMCA, or not, at Wix’s sole reasonable discretion. Wix reserves the right to notify the person or entity providing the infringement notice of such counter-notice and provide any details included therein.
 
