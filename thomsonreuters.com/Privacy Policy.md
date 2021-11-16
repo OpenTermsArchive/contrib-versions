@@ -7,7 +7,7 @@ Thomson Reuters Privacy Statement
 Available in other languages:
 -----------------------------
 
-[中文（简体版）](https://www.thomsonreuters.com/content/ewp-marketing-websites/thomsonreuters/gl/zh-hans/privacy-statement.html)    [中文（繁体版）](https://www.thomsonreuters.com/content/ewp-marketing-websites/thomsonreuters/gl/zh-tw/privacy-statement.html)   [Nederlands](https://www.thomsonreuters.com/content/ewp-marketing-websites/thomsonreuters/gl/nl/privacy.html)    [Français](https://www.thomsonreuters.com/content/ewp-marketing-websites/thomsonreuters/gl/fr/declaration-de-confidentialite.html)    [Français(CA)](https://www.thomsonreuters.com/content/ewp-marketing-websites/thomsonreuters/gl/fr-ca/privacy-statement.html)    [Deutsch](https://www.thomsonreuters.com/content/ewp-marketing-websites/thomsonreuters/gl/de/datenschutzerklarung.html) [Italiano](https://www.thomsonreuters.com/content/ewp-marketing-websites/thomsonreuters/gl/it/informativa-sulla-privacy.html) [日本語](https://www.thomsonreuters.com/content/ewp-marketing-websites/thomsonreuters/gl/ja/privacy-statement.html) [한국어](https://www.thomsonreuters.com/content/ewp-marketing-websites/thomsonreuters/gl/ko/privacy-statement.html) [Português](https://www.thomsonreuters.com/content/ewp-marketing-websites/thomsonreuters/gl/pt/declaracao-de-privacidade.html) [Русский](https://www.thomsonreuters.com/content/ewp-marketing-websites/thomsonreuters/gl/ru/privacy-statement.html) [Español](https://www.thomsonreuters.com/content/ewp-marketing-websites/thomsonreuters/gl/es/declaracion-de-privacidad.html) [Türk](https://www.thomsonreuters.com/content/ewp-marketing-websites/thomsonreuters/gl/tr/gizlilik-bildirimi.html)    [عربي](https://www.thomsonreuters.com/content/ewp-marketing-websites/thomsonreuters/gl/ar/privacy-statement.html)  
+[中文（简体版）](https://www.thomsonreuters.com/zh-hans/privacy-statement.html)    [中文（繁体版）](https://www.thomsonreuters.com/zh-tw/privacy-statement.html)   [Nederlands](https://www.thomsonreuters.com/nl/privacy.html)    [Français](https://www.thomsonreuters.com/fr/declaration-de-confidentialite.html)    [Français(CA)](https://www.thomsonreuters.com/fr-ca/privacy-statement.html)    [Deutsch](https://www.thomsonreuters.com/de/datenschutzerklarung.html) [Italiano](https://www.thomsonreuters.com/it/informativa-sulla-privacy.html) [日本語](https://www.thomsonreuters.com/ja/privacy-statement.html) [한국어](https://www.thomsonreuters.com/ko/privacy-statement.html) [Português](https://www.thomsonreuters.com/pt/declaracao-de-privacidade.html) [Русский](https://www.thomsonreuters.com/ru/privacy-statement.html) [Español](https://www.thomsonreuters.com/es/declaracion-de-privacidad.html) [Türk](https://www.thomsonreuters.com/tr/gizlilik-bildirimi.html)    [عربي](https://www.thomsonreuters.com/ar/privacy-statement.html)  
      
 
 _Effective Date: June 2012  
@@ -314,7 +314,7 @@ California residents also have certain rights regarding the sale of personal inf
 
 We will not discriminate against you because you have exercised any of your privacy rights under the CCPA.
 
-[CCPA Consumer Request Metrics for 2020](https://www.thomsonreuters.com/content/ewp-marketing-websites/thomsonreuters/gl/en/ccpa-privacy-information.html "CCPA Consumer Request Metrics for 2020")
+[CCPA Consumer Request Metrics for 2020](https://www.thomsonreuters.com/en/ccpa-privacy-information.html "CCPA Consumer Request Metrics for 2020")
 
 * * *
 
