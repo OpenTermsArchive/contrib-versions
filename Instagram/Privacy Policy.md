@@ -13,27 +13,27 @@ To provide the Facebook Products, we must process information about you. The typ
 
 Things that you and others do and provide.
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/Gfv6WsB4dT4.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
 
 Information and content you provide. We collect the content, communications and other information you provide when you use our Products, including when you sign up for an account, create or share content and message or communicate with others. This can include information in or about the content that you provide (e.g. metadata), such as the location of a photo or the date a file was created. It can also include what you see through features that we provide, such as our camera, so we can do things such as suggest masks and filters that you might like, or give you tips on using portrait mode. Our systems automatically process content and communications that you and others provide to analyse context and what's in them for the purposes described below. Learn more about how you can control who can see the things you share.
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/Gfv6WsB4dT4.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
 
 Data with special protections: You can choose to provide information in your Facebook profile fields or life events about your religious views, political views, who you are "interested in" or your health. This and other information (such as racial or ethnic origin, philosophical beliefs or trade union membership) is subject to special protections under EU law.
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/Gfv6WsB4dT4.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
 
 Networks and connections. We collect information about the people, Pages, accounts, hashtags and groups that you are connected to and how you interact with them across our Products, such as people you communicate with the most or groups that you are part of. We also collect contact information if you choose to upload, sync or import it from a device (such as an address book or call log or SMS log history), which we use for things such as helping you and others find people you may know and for the other purposes listed below.
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/Gfv6WsB4dT4.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
 
 Your usage. We collect information about how you use our Products, such as the types of content that you view or engage with, the features you use, the actions you take, the people or accounts you interact with and the time, frequency and duration of your activities. For example, we log when you're using and have last used our Products, and what posts, videos and other content you view on our Products. We also collect information about how you use features such as our camera.
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/Gfv6WsB4dT4.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
 
 Information about transactions made on our Products. If you use our Products for purchases or other financial transactions (such as when you make a purchase in a game or make a donation), we collect information about the purchase or transaction. This includes payment information, such as your credit or debit card number and other card information, other account and authentication information, and billing, delivery and contact details.
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/Gfv6WsB4dT4.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
 
 Things others do and information they provide about you. We also receive and analyse content, communications and information that other people provide when they use our Products. This can include information about you, such as when others share or comment on a photo of you, send a message to you or upload, sync or import your contact information.
 
@@ -43,31 +43,31 @@ As described below, we collect information from and about the computers, phones,
 
 Information we obtain from these devices includes:
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/Gfv6WsB4dT4.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
 
 Device attributes: information such as the operating system, hardware and software versions, battery level, signal strength, available storage space, browser type, app and file names and types, and plugins.
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/Gfv6WsB4dT4.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
 
 Device operations: information about operations and behaviours performed on the device, such as whether a window is in the foreground or background, or mouse movements (which can help distinguish humans from bots).
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/Gfv6WsB4dT4.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
 
 Identifiers: unique identifiers, device IDs and other identifiers, such as from games, apps or accounts that you use, and Family Device IDs (or other identifiers unique to Facebook Company Products associated with the same device or account).
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/Gfv6WsB4dT4.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
 
 Device signals: Bluetooth signals, information about nearby Wi-Fi access points, beacons and mobile phone masts.
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/Gfv6WsB4dT4.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
 
 Data from device settings: information you allow us to receive through device settings that you turn on, such as access to your GPS location, camera or photos.
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/Gfv6WsB4dT4.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
 
 Network and connections: information such as the name of your mobile operator or ISP, language, time zone, mobile phone number, IP address, connection speed and, in some cases, information about other devices that are nearby or on your network, so we can do things such as help you stream a video from your phone to your TV.
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/Gfv6WsB4dT4.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
 
 Cookie data: data from cookies stored on your device, including cookie IDs and settings. Learn more about how we use cookies in the Facebook Cookies Policy and Instagram Cookies Policy.
 
@@ -87,23 +87,23 @@ Provide, personalise and improve our Products.
 
 We use the information we have to deliver our Products, including to personalise features and content (including your News Feed, Instagram feed, Instagram Stories and ads) and make suggestions for you (such as groups or events you may be interested in or topics you may want to follow) on and off our Products. To create personalised Products that are unique and relevant to you, we use your connections, preferences, interests and activities based on the data that we collect and learn from you and others (including any data with special protections that you choose to provide where you have given your explicit consent); how you use and interact with our Products; and the people, places or things that you're connected to and interested in on and off our Products. Learn more about how we use information about you to personalise your Facebook and Instagram experience, including features, content and recommendations in Facebook Products; you can also learn more about how we choose the ads that you see.
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/Gfv6WsB4dT4.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
 
 Information across Facebook Products and devices: We connect information about your activities on different Facebook Products and devices to provide a more tailored and consistent experience on all Facebook Products that you use, wherever you use them. For example, we can suggest that you join a group on Facebook that includes people you follow on Instagram or communicate with using Messenger. We can also make your experience more seamless, for example, by automatically filling in your registration information (such as your phone number) from one Facebook Product when you sign up for an account on a different Product.
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/Gfv6WsB4dT4.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
 
 Location-related information: We use location-related information – such as your current location, where you live, the places you like to go, and the businesses and people you're near – to provide, personalise and improve our Products, including ads, for you and others. Location-related information can be based on things such as precise device location (if you've allowed us to collect it), IP addresses and information from your and others' use of Facebook Products (such as check-ins or events you attend).
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/Gfv6WsB4dT4.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
 
 Product research and development: We use the information we have to develop, test and improve our Products, including by conducting surveys and research, and testing and troubleshooting new products and features.
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/Gfv6WsB4dT4.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
 
 Face recognition: If you have it turned on, we use face recognition technology to recognise you in photos, videos and camera experiences. The face recognition templates that we create are data with special protections under EU law. Learn more about how we use face recognition technology, or control our use of this technology in Facebook settings. If we introduce face recognition technology to your Instagram experience, we will let you know first, and you will have control over whether we use this technology for you.
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/Gfv6WsB4dT4.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
 
 Ads and other sponsored content: We use the information we have about you – including information about your interests, actions and connections – to select and personalise ads, offers and other sponsored content that we show you. Learn more about how we select and personalise ads, and your choices over the data we use to select ads and other sponsored content for you in the Facebook Settings and Instagram Settings.
 
@@ -201,27 +201,27 @@ V. What is our legal basis for processing data?
 
 We collect, use and share the data that we have in the ways described above:
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/Gfv6WsB4dT4.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
 
 as necessary to fulfil our Facebook Terms of Service or Instagram Terms of Use;
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/Gfv6WsB4dT4.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
 
 consistent with your consent, which you may revoke at any time through the Facebook settings and Instagram settings;
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/Gfv6WsB4dT4.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
 
 as necessary to comply with our legal obligations
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/Gfv6WsB4dT4.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
 
 to protect your vital interests, or those of others
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/Gfv6WsB4dT4.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
 
 as necessary in the public interest and
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/Gfv6WsB4dT4.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
 
 as necessary for our (or others') legitimate interests, including our interests in providing an innovative, personalised, safe and profitable service to our users and partners, unless those interests are overridden by your interests or fundamental rights and freedoms that require protection of personal data.
 
@@ -235,11 +235,11 @@ right to object to
 
 Under the General Data Protection Regulation, you have the right to access, rectify, port and your data. Learn more about these rights and find out how you can exercise your rights in the Facebook settings and Instagram settings. You also have the and restrict certain processing of your data. This includes:
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/Gfv6WsB4dT4.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
 
 the right to object to our processing of your data for direct marketing, which you can exercise by using the "unsubscribe" link in such marketing communications, and
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/Gfv6WsB4dT4.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
 
 the right to object to our processing of your data where we are performing a task in the public interest or pursuing our legitimate interests or those of a third party. You can exercise this right on Facebook and on Instagram.
 
@@ -253,11 +253,11 @@ VIII. How do we respond to legal requests or prevent harm?
 
 We access, preserve and share your information with regulators, law enforcement or others:
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/Gfv6WsB4dT4.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
 
 In response to a legal request, if we have a good-faith belief that the law requires us to do so. We can also respond to legal requests when we have a good-faith belief that the response is required by law in that jurisdiction, affects users in that jurisdiction and is consistent with internationally recognised standards.
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/Gfv6WsB4dT4.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
 
 When we have a good-faith belief that it is necessary to: detect, prevent and address fraud, unauthorised use of the Products, breaches of our Terms or Policies, or other harmful or illegal activity; to protect ourselves (including our rights, property or Products), you or others, including as part of investigations or regulatory enquiries; or to prevent death or imminent bodily harm. For example, if relevant, we provide information to and receive information from third-party partners about the reliability of your account to prevent fraud, abuse and other harmful activity on and off our Products.
 
