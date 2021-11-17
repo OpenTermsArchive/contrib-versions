@@ -75,7 +75,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         *   © Tiroler Landesregierung
             
     4.  **Belgium**
-        *   Institut Geographique National - IGN Belgium
+        *   Institut Geographique National - IGN Belgium ([https://creativecommons.org/licenses/by/1.0/](https://creativecommons.org/licenses/by/1.0/))
             
         *   Brussels UrbIS®© - Distribution & Copyright CIRB/CIBG
             
@@ -474,7 +474,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   Regione Emilia-Romagna Assessorato Turismo e Commercio ([https://creativecommons.org/licenses/by/4.0/deed.it](https://creativecommons.org/licenses/by/4.0/deed.it))
             
-        *   Comune di Milano ([http://opendefinition.org/licenses/cc-by/](https://opendefinition.org/licenses/cc-by/))
+        *   Comune di Milano ([http://opendefinition.org/licenses/cc-by/](https://opendefinition.org/licenses/cc-by/), [https://creativecommons.org/licenses/by/2.5/it/legalcode](https://creativecommons.org/licenses/by/2.5/it/legalcode))
             
         *   Unione Dei Comuni Valle Del Savio ([https://creativecommons.org/licenses/by/3.0/](https://creativecommons.org/licenses/by/3.0/))
             
@@ -630,6 +630,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         *   This Service includes mapping data licensed from MapIt MSC Sdn Bhd.
             
         *   [Data.gov.sg](https://data.gov.sg/) Contains information from "Cycling Path Network" accessed on 2021 from [https://data.gov.sg/dataset/cycling-path-network](https://data.gov.sg/dataset/cycling-path-network) which is made available under the terms of the Singapore Open Data Licence version 1.0 [https://data.gov.sg/open-data-licence](https://data.gov.sg/open-data-licence)
+            
+        *   [Data.gov.sg](https://data.gov.sg/) Contains information from "Fitness and Conditioning Centres (FCC)" accessed on 2021 from [https://data.gov.sg/dataset/fitness-and-conditioning-centres-fcc](https://data.gov.sg/dataset/fitness-and-conditioning-centres-fcc) which is made available under the terms of the Singapore Open Data Licence version 1.0 [https://data.gov.sg/open-data-licence](https://data.gov.sg/open-data-licence)
+            
+        *   [Data.gov.sg](https://data.gov.sg/) Contains information from "LTA Road Camera" accessed on 2021 from [https://data.gov.sg/dataset/lta-road-camera](https://data.gov.sg/dataset/lta-road-camera) which is made available under the terms of the Singapore Open Data Licence version 1.0 [https://data.gov.sg/open-data-licence](https://data.gov.sg/open-data-licence)
             
     33.  **Slovakia**
         *   © Slovak Road Administration - [https://www.cdb.sk/sk/Novinky.alej](https://www.cdb.sk/sk/Novinky.alej)
@@ -1090,6 +1094,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         168.  City of Mesa Data Portal ([https://data.mesaaz.gov/stories/s/2dcd-j2nx/](https://data.mesaaz.gov/stories/s/2dcd-j2nx/))
             
+        169.  Open Data DC ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
+            
+        170.  Utah Geospatial Resource Center ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
+            
     44.  **Uruguay**
         
         © 2000 Aviation Systems
@@ -1135,6 +1143,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   Landsat / Copernicus
             
+    46.  **Chile**
+        
+        Biblioteca del Congreso Nacional de Chile ([https://creativecommons.org/licenses/by/3.0/cl/](https://creativecommons.org/licenses/by/3.0/cl/))
+        
 4.  **Business Listings Data.**
     
     1.  **Argentina**
