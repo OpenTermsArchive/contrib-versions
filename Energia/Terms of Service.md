@@ -976,7 +976,7 @@ EAB €1,009, based on average annual usage. 12 month contract, discounted unit 
 
 38\. Competition terms and conditions
 
-**View October 2021 newsletter rugby ticket competition terms and conditions [here](https://www.energia.ie/getmedia/289131f5-0d00-4dbe-9c86-93e7dae1668b/October-2021-Ireland-V-NZ-and-Ireland-v-Arg-Rugby-Tickets_2.pdf.aspx;).  
+**View November 2021 rugby newsletter terms and conditions [here.](https://www.energia.ie/getmedia/2b5ee365-25b9-410d-a3fe-523de32149e7/November-2021-Signed-Ireland-Jersey-T-Cs.pdf.aspx;)  
   
 View  ‘Win a free consultation for your home with Kieran McCarthy’ terms and conditions [here](https://www.energia.ie/getmedia/f02b8fce-8eea-48fa-8d44-44ded6d0ff09/TCs-Win-a-free-consultation-with-Kieran-McCarthy.pdf.aspx;).**
 
