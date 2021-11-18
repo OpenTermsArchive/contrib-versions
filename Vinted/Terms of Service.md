@@ -1,11 +1,3 @@
-Terms & Conditions Updates
-
-Given the situation linked to COVID-19 and the regulatory provisions for public health and safety, Vinted may be compelled to react. Please make sure to read our [dedicated COVID-19 page](https://www.vinted.com/help/16-covid-19?access_channel=hc_topics) on changes to policies and shipping procedures.
-
-Terms & Conditions Updates
-
-Given the situation linked to COVID-19 and the regulatory provisions for public health and safety, Vinted may be compelled to react. Please make sure to read our [dedicated COVID-19 page](https://www.vinted.com/help/16-covid-19?access_channel=hc_topics) on changes to policies and shipping procedures.
-
 Vinted Terms & Conditions of Use
 
 **TERMS AND CONDITIONS** 
