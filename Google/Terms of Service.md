@@ -3,6 +3,11 @@ Google Terms of Service
 
 Effective 31 March 2020 | [Archived versions](https://policies.google.com/terms/archive?hl=en-GB&gl=IE) | [Download PDF](https://www.gstatic.com/policies/terms/pdf/20200331/ba461e2f/google_terms_of_service_en-GB_eu.pdf)
 
+We’re updating our Terms of Service on 5 January 2022 to make it easier for you to understand what to expect from Google – and what we expect from you – as you use our services. Until then, the terms below continue to apply.
+
+*   See a [preview of the new terms](https://policies.google.com/terms/update?hl=en-GB&gl=IE)
+*   Review a [summary of key changes](https://policies.google.com/terms/changes?hl=en-GB&gl=IE)
+
 What’s covered in these terms
 -----------------------------
 
@@ -341,19 +346,23 @@ Definitions
 
 ### affiliate
 
-An entity that belongs to the Google group of companies, which means Google LLC and its subsidiaries, including the following companies that provide consumer services in the EU: Google Ireland Limited, Google Commerce Ltd and Google Dialer Inc.
+An entity that belongs to the Google group of companies, which means Google LLC and its subsidiaries, including the following companies that provide consumer services in the EU: Google Ireland Limited, Google Commerce Limited and Google Dialer Inc.
 
 ### business user
 
 An individual or entity who is not a consumer (see consumer).
 
+### commercial guarantee
+
+A commercial guarantee is a voluntary commitment that certain quality standards will be met and that if those standards aren’t met, the company offering the guarantee is responsible for repairing, replacing or refunding the consumer for defective items.
+
 ### consumer
 
-An individual who uses Google services for personal, non-commercial purposes outside of their trade, business, craft or profession. This includes 'consumers' as defined in [article 2.1 of the EU Consumer Rights Directive](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32011L0083). (See business user)
+An individual who uses Google services for personal, non-commercial purposes outside of their trade, business, craft or profession. This includes 'consumers' as defined in [Article 2.1 of the EU consumer rights directive](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32011L0083). (See business user)
 
 ### copyright
 
-A legal right that allows the creator of an original work (such as a blog post, photo or video) to decide if and how that original work may be used by others.
+A legal right that allows the creator of an original work (such as a blog post, photo or video) to decide if and how that original work may be used by others, subject to certain limitations and exceptions.
 
 ### disclaimer
 
@@ -371,6 +380,14 @@ An individual or organisation’s contractual obligation to compensate the losse
 
 Rights over the creations of a person’s mind, such as inventions (patent rights); literary and artistic works (copyright); designs (design rights), and symbols, names and images used in commerce (trademarks). IP rights may belong to you, another individual or an organisation.
 
+### lack of conformity
+
+A legal concept that defines the difference between how something should work and how it actually works. Under the law, how something should work is based on how the seller or trader describes it, whether its quality and performance are satisfactory and its fitness for the usual purpose of such items.
+
+### legal guarantee
+
+A legal guarantee is a requirement under the law that a seller or trader is liable if their digital content, services or goods are defective (that is, that they [lack conformity](https://policies.google.com/terms/definitions?hl=en-GB&gl=IE#toc-terms-lack-conformity)).
+
 ### liability
 
 Losses from any type of legal claim, whether the claim is based on a contract, tort (including negligence) or other reason, and whether or not those losses could have been reasonably anticipated or foreseen.
@@ -381,12 +398,14 @@ A legal entity (such as a corporation, non-profit or school) and not an individu
 
 ### services
 
-Google services that are subject to these terms are the products and services listed at this [https://policies.google.com/terms/service-specific](https://policies.google.com/terms/service-specific?hl=en-GB&gl=IE), including:
+The Google services that are subject to these terms are the products and services listed at [https://policies.google.com/terms/service-specific](https://policies.google.com/terms/service-specific?hl=en-GB&gl=IE), including:
 
-*   Google apps and sites (like Search and Maps)
-*   platforms (like Google Play)
+*   apps and sites (like Search and Maps)
+*   platforms (like Google Shopping)
 *   integrated services (such as Maps embedded in other companies' apps or sites)
-*   devices (like Google Home)
+*   devices and other goods (like Google Nest)
+
+Many of these services also include content that you can stream or interact with.
 
 ### trademark
 
@@ -398,7 +417,7 @@ An assurance that a product or service will perform to a certain standard.
 
 ### your content
 
-Things that you write, upload, submit, store, send, receive or share with Google using our services, such as:
+Things that you create, upload, submit, store, send, receive or share using our services, such as:
 
 *   Docs, Sheets and Slides that you create
 *   blog posts that you upload through Blogger
