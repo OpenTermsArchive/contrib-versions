@@ -303,10 +303,10 @@ To maintain a safe metaverse, Roblox does **not** permit:
     Roblox maintains the Robux system for everyone’s benefit and enjoyment. To keep it secure, some uses of Robux are not permitted, including:
     *   Using third-party services to sell, trade, or give away Robux. This does not apply to Roblox gift cards.
     *   Promotional codes that falsely appear to be offered by Roblox itself
-    *   Inappropriate use of the group payout system, including offering payment in Robux for acting as a model for assets, joining groups, referring members, or role-playing in experiences.
+    *   Inappropriate use of the group payout system, including offering payment in Robux for acting as a model for assets, joining groups, referring members, or role-playing in experiences.You also may not use third-party services or products to sell, either directly or as a bundle: in-experience items, exclusive features, or other in-experience enhancements.
 
 See the [Roblox Terms of Use](https://en.help.roblox.com/hc/en-us/articles/115004647846) for more information.
 
-**Last Updated**: October 26, 2021
+**Last Updated**: November 18, 2021
 
 [Return to top](#article-container)
