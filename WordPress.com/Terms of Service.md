@@ -1,7 +1,7 @@
 Terms of Service
 ----------------
 
-_Last Updated: October 17, 2021_
+_Last Updated: November 22, 2021_
 
 The Gist
 --------
@@ -15,7 +15,7 @@ We’ve made these Terms available under a [Creative Commons Sharealike license]
 Terms of Service
 ----------------
 
-These Terms govern your access to and use of the products and services we provide through or for [WordPress.com](https://wordpress.com/), [WooCommerce.com](https://woocommerce.com/), [WooCommerce Shipping & Tax](https://wordpress.org/plugins/woocommerce-services/), [Jetpack.com](https://jetpack.com/), [VaultPress.com](https://vaultpress.com/), [Happy.Tools](https://happy.tools/), [Jetpack CRM](https://jetpackcrm.com/), [MailPoet](http://mailpoet.com/), and [WordPress.com Courses](https://wpcourses.com/) (collectively, “Services”).
+These Terms govern your access to and use of the products and services we provide through or for [WordPress.com](https://wordpress.com/), [WooCommerce.com](https://woocommerce.com/), [WooCommerce Shipping & Tax](https://wordpress.org/plugins/woocommerce-services/), [Jetpack.com](https://jetpack.com/), [VaultPress.com](https://vaultpress.com/), [Happy.Tools](https://happy.tools/), [Jetpack CRM](https://jetpackcrm.com/), [MailPoet](http://mailpoet.com/), [WPScan.com](https://wpscan.com/), and [WordPress.com Courses](https://wpcourses.com/) (collectively, “Services”).
 
 These Terms also govern visitors’ access to and use of any websites that use our Services, like the websites that our users create on WordPress.com. Please note though that the operators of those websites may also have their own separate terms of use.
 
