@@ -2,7 +2,7 @@
     
     _
     
-    Last Updated: November 1, 2021
+    Last Updated: November 18, 2021
     
     _
     
@@ -160,7 +160,7 @@
     
     #### Use of Your Information
     
-    **Section Overview:** Our primary goal in collecting, using, and sharing user information is to enhance your experience on the Site, support the Site, and improve its features, performance, and other elements. Your user information may be used for the purposes outlined below. We will not use your user information without a valid legal basis to do so.
+    **Section Overview:** Our primary goal in collecting, using, and sharing user information is to enhance your experience on the Site, support the Site, and improve its features, performance, and other elements. Your user information may be used for the purposes outlined below, and we may combine user information you provided us with information we automatically collected or collected from third parties to better understand you and to better facilitate the uses described below, like serving you more targeted content and advertising. We will not use your user information without a valid legal basis to do so.
     
     #### To Target Content and Advertising
     
@@ -174,7 +174,7 @@
     
     #### To Provide Communications from Third Parties
     
-    We respect the privacy of our users and will not disclose or distribute our user list to any third party, nor will we permit anyone else to do so. However, we do make available for rental our list of those registrants who have expressly provided us with their permission to receive third party offers as part of their user profile. In those cases, your email address will be transferred to the third party. You can remove your consent to this use or modify your related user information by contacting Forbes as indicated below. If you are a resident in mainland China and want to know more information about these third parties, you may contact us using the contact information below.
+    We respect the privacy of our users and will not disclose or distribute our user list to any third party, nor will we permit anyone else to do so. However, for users who have opted into receiving communications about Forbes’ third-party partners, Forbes may email such users information about third-party partners Forbes thinks such users may be interested in, though Forbes will not share user information with its partners in these situations. Forbes may also make available, including for rental, its list of registrants and users who have expressly provided Forbes with their permission to share their user information with third parties in order to receive third-party offers. Such permission may sometimes be provided as part of your user profile. In those cases, your user information will be transferred to the third party consistent with the consent you provided to Forbes. You can remove your consent to this use or modify your related user information by contacting Forbes as indicated below. If you are a resident in mainland China and want to know more information about these third parties, you may contact us using the contact information below.
     
     #### Sharing of Information
     
