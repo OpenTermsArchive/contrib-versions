@@ -102,7 +102,7 @@ System interference and abuse
 
 Do not abuse this product and do not harm, degrade or negatively affect the operation of networks, devices or other infrastructure. This includes degrading, disabling or negatively interfering with any aspect of the product or its services. We may take appropriate action if we are notified of system interference and abuse, which may include reporting you to the relevant authorities, removing access to some of our products or disabling your Google Account.
 
-Terrorist activities
+Violent organisations and movements
 
 Terrorist organisations are not permitted to use this product for any purpose, including recruitment. We’ll also take action against the user for content related to terrorism, such as promoting terrorist acts, inciting violence or celebrating terrorist attacks. If storing or distributing content related to terrorism for an educational, documentary, scientific or artistic purpose, be mindful to provide enough information so that viewers understand the context.
 
