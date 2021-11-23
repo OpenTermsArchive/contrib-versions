@@ -1,4 +1,4 @@
-_Last Updated: October 14, 2021_
+_Last Updated: November 23, 2021_
 
 1.  Introduction
     ------------
@@ -41,7 +41,7 @@ _Last Updated: October 14, 2021_
         
     *   If you reside in Canada, you are contracting with Payward Canada Inc., 1100-1959 Upper Water Street, Halifax, NS B3J 3N2, Canada.
         
-    *   If you reside in the UK or a country within Europe, you are contracting with Payward Ltd., 6th Floor, One London Wall, London, EC2Y 5EB.
+    *   If you reside in the UK, you are contracting with Payward Ltd., 6th Floor, One London Wall, London, EC2Y 5EB.
         
     *   If you reside in the United States, you are contracting with Payward Ventures Inc., 237 Kearny Street #102, San Francisco, CA 94108.
         
