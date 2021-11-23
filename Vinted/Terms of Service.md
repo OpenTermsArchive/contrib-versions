@@ -257,7 +257,7 @@ If any Item that is sent by Custom Shipping is lost or damaged in the shipping p
 
 **8\. PAYING FOR ITEMS** 
 
-8.1 [**Price List.**](https://www.vinted.com/pricelist) VINTED is authorized to collect fees for the Services in accordance with the prices indicated in the [Price List](https://www.vinted.co.uk/pricelist). VINTED may, in its sole discretion, update the Price List from time to time (and updates may include price changes). The updated Price List shall become effective and replace the prior Price List at the time of posting or such other time as may be indicated by VINTED. If you do not agree with or accept the updated Price List, you can choose to not access and use the Site, to terminate your relationship with VINTED, and to close your User account (as further described in Section 16.1). You will be deemed to have accepted the updated Price List if you continue to access and use the Site after the updated Price List becomes effective; however, Price List changes will not apply to ongoing Transactions (i.e., Transactions for which a Buyer has already made a payment).
+8.1 [**Price List.**](https://www.vinted.com/pricelist) VINTED is authorized to collect fees for the Services in accordance with the prices indicated in the [Price List](https://www.vinted.com/pricelist). VINTED may, in its sole discretion, update the Price List from time to time (and updates may include price changes). The updated Price List shall become effective and replace the prior Price List at the time of posting or such other time as may be indicated by VINTED. If you do not agree with or accept the updated Price List, you can choose to not access and use the Site, to terminate your relationship with VINTED, and to close your User account (as further described in Section 16.1). You will be deemed to have accepted the updated Price List if you continue to access and use the Site after the updated Price List becomes effective; however, Price List changes will not apply to ongoing Transactions (i.e., Transactions for which a Buyer has already made a payment).
 
 8.2 **Currency; Taxes.** All prices on the Site are expressed in United States Dollars (USD) and do not include applicable taxes. The final amount of applicable taxes will be shown to the User during Checkout.
 
@@ -414,7 +414,7 @@ Additionally, VINTED may decide to exercise its rights under Section 12.1 if:
 
 **14\. PRIVACY POLICY**
 
-The Privacy Policy, available at the link [http://www.vinted.com/privacy-policy](https://www.vinted.co.uk/privacy-policy), describes how VINTED handles information that VINTED collects or that you provide to VINTED relating to you through your access and use of the Site. The Privacy Policy and each part thereof do not constitute contractual clauses and are not integrated into these Terms. Please read the Privacy Policy and do not access or use the Site if you disagree with the Privacy Policy.
+The Privacy Policy, available at the link [http://www.vinted.com/privacy-policy](https://www.vinted.com/privacy-policy), describes how VINTED handles information that VINTED collects or that you provide to VINTED relating to you through your access and use of the Site. The Privacy Policy and each part thereof do not constitute contractual clauses and are not integrated into these Terms. Please read the Privacy Policy and do not access or use the Site if you disagree with the Privacy Policy.
 
 **15\. GOVERNANCE AND DISPUTE RESOLUTION**
 
@@ -502,7 +502,7 @@ THESE LIMITATIONS OF LIABILITY SHALL APPLY WHETHER OR NOT VINTED HAS BEEN ADVISE
 
 18.9 **Links on this Site.** Links on this Site may direct you to third party websites that are not affiliated with us. Such websites are not controlled by us and therefore we are not responsible for the contents of any such website or any change or update of such websites. We provide you with these links for your convenience only, and the inclusion of any link does not imply we approve of or endorse the website or the content thereon. Please review carefully the third party website’s terms of use and other policies and make sure you understand them before you engage in any transaction. 
 
-18.10 **Communications with VINTED.** You may provide notices, requests, information, and other communications to VINTED via the [contact form. VINTED may provide notices, requests, information, and other communications to you](https://www.vinted.com/help/support_tickets/new?ch=help_center&faq_entry_id=615&allow_direct=1) via email, using the email address you provided when registering on the Site.
+18.10 **Communications with VINTED.** You may provide notices, requests, information, and other communications to VINTED via the [contact form](https://www.vinted.com/help/support_tickets/new?ch=help_center&faq_entry_id=615&allow_direct=1). VINTED may provide notices, requests, information, and other communications to you via email, using the email address you provided when registering on the Site.
 
 18.11 **Independent Contractor.** These Terms do not have the effect of creating a partnership, agency, joint venture, employee-employer, or franchise relationship.
 
