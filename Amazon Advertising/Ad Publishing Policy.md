@@ -27,7 +27,7 @@ Overview
 
 [2.0 Advertising copy](#advertisingcopy)
 
-[2.1 Call To Action (CTA)](#cta)
+[2.1 Call to action (CTA)](#cta)
 
 [2.2 Claims and substantiation](#claims)
 
@@ -259,7 +259,7 @@ Pillar box image
 
 Ads must be clear and accurate so that customers receive correct information before engaging with an ad or deciding to purchase a product.
 
-### 2.1 Call To Action (CTA)
+### 2.1 Call to action (CTA)
 
 CTA is the portion of the ad that prompts customers to take a suggested action. A clear and direct CTA helps improve the performance of your ads by setting customer expectation for the landing page experience.  
   
@@ -432,7 +432,7 @@ Latin alphabet
 
 |     | **Desktop** | **Mobile** | **Tablet** |
 | --- | --- | --- | --- |
-| **Ad copy** | Between Arial 12 and 25pt or equivalent | Minimum 16pt Arial or equivalent (@2x resolution) | Between 32 and 50pt Arial or equivalent (@2x resolution) |
+| **Ad copy** | Between Arial 12 and 25pt or equivalent | Minimum 16pt Arial or equivalent (@2X resolution) | Between 32 and 50pt Arial or equivalent (@2X resolution) |
 
 Japanese
 
@@ -822,7 +822,7 @@ Ads for the sale of alcohol in Australia, Canada, Mexico and Europe must link-in
 
 *   Ads for alcoholic beverages are prohibited.
 *   Ads for non-alcoholic beverages are permitted provided it is clear from the product packaging or ad copy that they do not contain any alcohol. For example, 0.0% alcohol beer.
-*   **Day-**Financial Products and Services**parting**: ads for non-alcoholic beverages (see above) can be displayed between 12 p.m. (midday) and 6 a.m. only.
+*   **Day-parting**: ads for non-alcoholic beverages (see above) can be displayed between 12 p.m. (midday) and 6 a.m. only.
 
 ##### UK
 
@@ -1250,7 +1250,7 @@ Ads for OTC products should contain the following information:
 
 ##### Denmark
 
-*   Advertisers must be authorized by the Danish Medicines Agency to sell OTC medicines.
+*   Advertisers must be authorised by the Danish Medicines Agency to sell OTC medicines.
 *   Only OTC medicines granted a marketing authorisation by the Danish Medicines Agency or the European Commission can be advertised.
 *   Ads for OTCs must be frequency capped at 3 x 24 hours
 *   Ads must not:
@@ -1418,7 +1418,7 @@ Ads must not:
 
 Ads for sexual wellness products such as condoms and other birth control must focus on the medical properties of the product (such as birth prevention, to prevent diseases or general branding). Ads must comply with the “Nudity and Sexuality” policies above.  
   
-Ads off Amazon must be frequency-capped at 3 times per 24 hours (3x24). Behavioural targeting and the use of any Amazon branding are prohibited (Amazon branding is permitted in the EU offsite only).
+Ads off Amazon must be frequency-capped at 3 times per 24 hours (3 x 24). Behavioural targeting and the use of any Amazon branding are prohibited (Amazon branding is permitted in the EU offsite only).
 
 #### 7.11.5 Feminine care
 
@@ -1550,7 +1550,7 @@ In Bahrain, the KSA, Kuwait, Morocco, and the UAE ads must not contain content o
 
 In alignment with the global GAP, political advocacy ads (either for or against a political person, party, or related to an election) are prohibited in Bahrain, the KSA, Kuwait, Morocco and the UAE. In addition, ads must not:
 
-*   Criticize the Heads of State, members of the ruling Royal Families, politicians, state ministries/departments, security/military institutions or figures, the system of ruling, or any related symbols or imagery;
+*   Criticise the Heads of State, members of the ruling Royal Families, politicians, state ministries/departments, security/military institutions or figures, the system of ruling, or any related symbols or imagery;
 *   Jeopardise the safety of the State, its security, interests, reputation, prestige, symbols, rulers, institutions (this covers any negative depiction of the above, for example, an entertainment ad that showed the Burj Khalifa in ruins would be a violation);
 *   Disrupt public order, national security and public interest requirements (see also “Cultural and social norms” above);
 *   Damage or harm relations with other countries;
