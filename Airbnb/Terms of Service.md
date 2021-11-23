@@ -5,7 +5,7 @@ As a consumer you can access the European Commission’s online dispute resoluti
 
 **Section 24 of these Terms contains an arbitration agreement and class action waiver that applies to all claims brought against Airbnb in the United States. Please read them carefully.**
 
-Last Updated: October 30, 2020
+Last Updated: 30 October 2020
 
 Thank you for using Airbnb!
 
