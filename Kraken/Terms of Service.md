@@ -8,7 +8,7 @@
     
     1.  If you reside in Australia - Bit Trade Pty Limited, Unit 610, 478 George Street, Sydney, NSW 2000, Australia.
     2.  If you reside in Canada - Payward Canada Inc., 1100-1959 Upper Water Street, Halifax, NS B3J 3N2, Canada.
-    3.  If you reside in a country within Europe - Payward Ltd., 6th Floor, One London Wall, London, EC2Y 5EB, United Kingdom.
+    3.  If you reside in the UK - Payward Ltd., 6th Floor, One London Wall, London, EC2Y 5EB, United Kingdom.
     4.  If you reside in the United States - Payward Ventures, Inc., 237 Kearny Street #102, San Francisco, CA 94108, USA.
     5.  If you reside in any other country not set forth in 1.1-1.4 above (other than Japan, in which case, you have been provided with a separate terms of service that is applicable to you) - Payward Trading Ltd., c/o SHRM Trustees (BVI) Limited, Trinity Chambers, Ora et Labora Building, Road Town, Tortola, VG1110, British Virgin Islands.
     
