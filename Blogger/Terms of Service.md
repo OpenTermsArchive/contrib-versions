@@ -1,6 +1,10 @@
 Google Terms of Service
 =======================
 
+We’re updating our Terms of Service on 5 January 2022 to make it easier for you to understand what to expect from Google – and what we expect from you – as you use our services. Until then, the terms below continue to apply.
+
+See a [preview of the new terms](https://policies.google.com/terms/update?hl=en-GB)
+
 What’s covered in these terms
 -----------------------------
 
@@ -315,7 +319,7 @@ Definitions
 
 ### affiliate
 
-An entity that belongs to the Google group of companies, which means Google LLC and its subsidiaries, including the following companies that provide consumer services in the EU: Google Ireland Limited, Google Commerce Ltd and Google Dialer Inc.
+An entity that belongs to the Google group of companies, which means Google LLC and its subsidiaries, including the following companies that provide consumer services in the EU: Google Ireland Limited, Google Commerce Limited and Google Dialer Inc.
 
 ### business user
 
@@ -323,11 +327,11 @@ An individual or entity who is not a consumer (see consumer).
 
 ### consumer
 
-An individual who uses Google services for personal, non-commercial purposes outside of their trade, business, craft or profession. This includes 'consumers' as defined in [regulation 4 of the Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013](https://www.legislation.gov.uk/uksi/2013/3134/regulation/4/made). (See business user)
+An individual who uses Google services for personal, non-commercial purposes outside of their trade, business, craft or profession. This includes 'consumers' as defined in [Regulation 4 of the consumer contracts (Information, cancelation and additional charges) regulations 2013](https://www.legislation.gov.uk/uksi/2013/3134/regulation/4/made). (See business user)
 
 ### copyright
 
-A legal right that allows the creator of an original work (such as a blog post, photo or video) to decide if and how that original work may be used by others.
+A legal right that allows the creator of an original work (such as a blog post, photo or video) to decide if and how that original work may be used by others, subject to certain limitations and exceptions (such as 'fair use' and 'fair dealing').
 
 ### disclaimer
 
@@ -355,12 +359,14 @@ A legal entity (such as a corporation, non-profit or school) and not an individu
 
 ### services
 
-Google services that are subject to these terms are the products and services listed at this [https://policies.google.com/terms/service-specific](https://policies.google.com/terms/service-specific?hl=en-GB), including:
+The Google services that are subject to these terms are the products and services listed at [https://policies.google.com/terms/service-specific](https://policies.google.com/terms/service-specific?hl=en-GB), including:
 
-*   Google apps and sites (like Search and Maps)
-*   platforms (like Google Play)
+*   apps and sites (like Search and Maps)
+*   platforms (like Google Shopping)
 *   integrated services (such as Maps embedded in other companies' apps or sites)
-*   devices (like Google Home)
+*   devices and other goods (like Google Nest)
+
+Many of these services also include content that you can stream or interact with.
 
 ### trademark
 
@@ -372,7 +378,7 @@ An assurance that a product or service will perform to a certain standard.
 
 ### your content
 
-Things that you write, upload, submit, store, send, receive or share with Google using our services, such as:
+Things that you create, upload, submit, store, send, receive or share using our services, such as:
 
 *   Docs, Sheets and Slides that you create
 *   blog posts that you upload through Blogger
