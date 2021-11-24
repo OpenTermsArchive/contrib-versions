@@ -17,7 +17,7 @@ Effective as of 1 September 2021
 10.  [Changes to this Policy](#10-changes-to-this-policy)
 11.  [How to contact us](#11-how-to-contact-us)
 
-To help you understand this Policy, our [privacy videos](https://www.spotify.com/us/privacy) bring privacy at Spotify to life.
+To help you understand this Policy, our [privacy videos](https://www.spotify.com/privacy) bring privacy at Spotify to life.
 
 [1\. About this Policy](#1-about-this-policy)
 ---------------------------------------------
@@ -45,7 +45,7 @@ We have included further information about rights and disclosures as required un
 
 Privacy laws, including the General Data Protection Regulation ("GDPR"), give rights to individuals over their personal data.
 
-See your rights and their descriptions in this table. You can also watch our video about [Your Privacy Controls](https://www.youtube.com/watch?v=xYdln3HFsQI&t=1s).
+See your rights and their descriptions in this table. You can also watch our video about [Your Privacy Controls](https://www.youtube.com/watch?v=xYdln3HFsQI).
 
 |     | **It’s your right to...** |
 | --- | --- |
@@ -72,7 +72,7 @@ See your rights and their descriptions in this table. You can also watch our vid
 
 In addition, here are more privacy resources and controls:
 
-*   [Privacy Center](https://www.spotify.com/privacy/) - more information about how Spotify uses your personal data, your rights, and how to use those rights.
+*   [Privacy Center](https://www.spotify.com/privacy/) - more information about how Spotify uses your personal data, your rights, and how to use those rights, including our video, about [Your Privacy Controls](https://www.youtube.com/watch?v=xYdln3HFsQI).
 *   [Privacy Settings](https://www.spotify.com/account/privacy/) - control the processing of certain personal data, including Tailored Ads.
 *   [Notification Settings](https://support.spotify.com/article/notification-settings/) - learn how to set which marketing communications you get from Spotify.
 *   Settings (Desktop and Mobile) - control certain aspects of the Spotify Service such as "Social" and "Explicit Content".
@@ -183,7 +183,7 @@ See this table for details of who we share to and why.
 | --- | --- |
 | Service providers | So they can provide their services to Spotify.  <br>These service providers may include those we hire to:<br><br>*   give customer support<br>*   operate the technical infrastructure we need to provide the Spotify Service<br>*   assist in protecting and securing our systems and services (e.g. Google’s reCAPTCHA)<br>*   help market Spotify’s (and our partners’) products, services, events and promotions |
 | Payment processors | So they can process your payments, and for anti-fraud purposes. |
-| Advertising partners | So our ad partners can help us deliver more relevant advertising to you on the Spotify Service.  <br>For example, our ad partners help us facilitate tailored advertising:<br><br>*   This is when we use third party information to tailor ads to be more relevant to you (also known as interest based advertising).<br>*   An example of a tailored ad is when an ad partner has information suggesting you like cars, which could enable us to show you ads about cars.<br>*   You can control tailored advertising in your [account privacy settings](https://www.spotify.com/us/account/privacy/) under “Tailored Ads”.<br>*   If you are “opted out” of Tailored Ads, you may still get advertising on ad-supported services (such as podcasts or the Free Service Option) based on your registration information and ads based on the content you are streaming on our Services. For example, if you are streaming a cooking podcast, you may hear an ad for a food processor or if you are streaming a workout playlist, you may hear an ad for sports clothing. |
+| Advertising partners | So our ad partners can help us deliver more relevant advertising to you on the Spotify Service.  <br>For example, our ad partners help us facilitate tailored advertising:<br><br>*   This is when we use third party information to tailor ads to be more relevant to you (also known as interest based advertising).<br>*   An example of a tailored ad is when an ad partner has information suggesting you like cars, which could enable us to show you ads about cars.<br>*   You can control tailored advertising in your [account privacy settings](https://www.spotify.com/account/privacy/) under “Tailored Ads”.<br>*   If you are “opted out” of Tailored Ads, you may still get advertising on ad-supported services (such as podcasts or the Free Service Option) based on your registration information and ads based on the content you are streaming on our Services. For example, if you are streaming a cooking podcast, you may hear an ad for a food processor or if you are streaming a workout playlist, you may hear an ad for sports clothing. |
 | Marketing Partners | To promote Spotify with our partners. We share some personal data with these partners where necessary to:<br><br>*   enable you to participate in Spotify promotions, including trials or other bundled offers<br>*   to promote Spotify in media and advertising published on other online services<br>*   help us and our partners to measure the effectiveness of Spotify promotions<br><br>  <br>Examples of partners include:<br><br>*   marketing or sponsorship partners<br>*   websites and mobile apps who sell us advertising space on their services<br>*   device, app and mobile partners who also offer Spotify promotions<br><br>  <br>Our partners may also combine the personal data we share with them with other data they collect about you (e.g. your use of their services). We and our partners may use this information to present you with offers, promotions, or other marketing activities that we believe will be relevant to you. |
 | Other partner sharing | We may share personal data with partners to help us understand and improve the performance of our products and partnerships.  <br>You can see and remove many partner connections under “Apps” in your account. |
 | Academic researchers | For activities such as statistical analysis and academic study, but only in a pseudonymised format. Pseudonymised data is where your data is identified by a code rather than your name or other information that directly identifies you. |
