@@ -3,7 +3,7 @@ Terms of Service
 
 By visiting this website, you agree to the following conditions.
 
-The iEntry Network (ientry.com) website and email newsletter network which also includes WebProNews (webpronews.com), Twellow (twellow.com), and Jayde (jayde.com) have been made available to you subject to your compliance with the terms and conditions set forth below (the “Terms of Service”). Please read this document carefully before agreeing to be bound by the Terms of Service. If you do not wish to be bound by the Terms of Service, you may not access or use this website, subscribe to its email newsletters, or access or use any of its content.
+The iEntry Network (ientry.com) website and email newsletter network which also includes WebProNews (www.webpronews.com), Twellow (twellow.com), and Jayde (jayde.com) have been made available to you subject to your compliance with the terms and conditions set forth below (the “Terms of Service”). Please read this document carefully before agreeing to be bound by the Terms of Service. If you do not wish to be bound by the Terms of Service, you may not access or use this website, subscribe to its email newsletters, or access or use any of its content.
 
 ### Modification of these Terms of Service
 
@@ -11,7 +11,7 @@ The iEntry Network reserves the right to change the terms, conditions, and notic
 
 ### Privacy
 
-Please review our [Privacy Policy](https://www.webpronews.com/privacy-policy/), which also governs your visit to the iEntry Network or WebProNews.com, to understand our practices regarding the use and disclosure of your personal information.
+Please review our [Privacy Policy](https://www.www.webpronews.com/privacy-policy/), which also governs your visit to the iEntry Network or WebProNews.com, to understand our practices regarding the use and disclosure of your personal information.
 
 ### Electronic Communications
 
