@@ -117,7 +117,9 @@ The open source software platform that runs everywhere from the smartphone, the 
     
     *   [OpenStack](https://ubuntu.com/openstack/managed)
     *   [Kubernetes](https://ubuntu.com/kubernetes/managed)
+    *   [Ceph](https://ubuntu.com/ceph/managed)
     *   [Apps](https://ubuntu.com/managed/apps)
+    *   [Observability](https://ubuntu.com/observability/managed)
 
 *   [Kubernetes](https://ubuntu.com/kubernetes)
     -------------------------------------------
@@ -210,6 +212,7 @@ The open source software platform that runs everywhere from the smartphone, the 
     -------------------------------------------------
     
     *   [What is observability](https://ubuntu.com/observability/what-is-observability)
+    *   [Managed](https://ubuntu.com/observability/managed)
 *   [Appliance](https://ubuntu.com/appliance)
     -----------------------------------------
     
