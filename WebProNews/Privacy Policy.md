@@ -4,7 +4,7 @@ Privacy Policy
 Privacy Policy
 ==============
 
-The iEntry Network (ientry.com) website and email newsletter network which also includes WebProNews (www.webpronews.com), Twellow (twellow.com), and Jayde (jayde.com) and reserves the right to change this policy at any time by notifying users through a notice posted on iEntry.com or WebProNews.com or by email, of the existence of a new privacy policy or any updates.
+The iEntry Network (ientry.com) website and email newsletter network which also includes WebProNews (webpronews.com), Twellow (twellow.com), and Jayde (jayde.com) and reserves the right to change this policy at any time by notifying users through a notice posted on iEntry.com or WebProNews.com or by email, of the existence of a new privacy policy or any updates.
 
 Registration
 ------------
@@ -23,4 +23,4 @@ You may occasionally get cookies from our advertisers. These cookies are sent fr
 Removal from our Database
 -------------------------
 
-Should you ever wish to be removed from our database, simply contact us and we will be happy to fulfill your request. Additionally, should you wish further clarification of this policy, please do not hesitate to email us at [\[email protected\]](https://www.webpronews.com/cdn-cgi/l/email-protection)
+Should you ever wish to be removed from our database, simply contact us and we will be happy to fulfill your request. Additionally, should you wish further clarification of this policy, please do not hesitate to email us at support@WebProNews.com.
