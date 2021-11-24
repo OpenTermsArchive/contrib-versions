@@ -391,6 +391,10 @@ Many of these services also include content that you can stream or interact with
 
 Symbols, names and images used in commerce that are capable of distinguishing the goods or services of one individual or organisation from those of another.
 
+### UK Platform-to-Business Regulation
+
+The Regulation (EU) 2019/1150 on promoting fairness and transparency for business users of online intermediation services, as incorporated into the laws of the United Kingdom.
+
 ### warranty
 
 An assurance that a product or service will perform to a certain standard.
