@@ -566,7 +566,7 @@ The decisions of Energia, or their agents, are final in all matters concerning t
 
 Total discount is based on your chosen price plan options and applies to new customers only.  You must pay your bill by Direct Debit to avail of the Direct Debit Discount and register for Online Billing to receive the Online Billing Discount. If you cancel your Direct Debit payment or choose to switch to paper bill, you will lose these discounts.  From time to time we may issue promotional codes.  Only one promotional code will be accepted per customer registration. Other promotional codes may be available at any given time.
 
-Discounts are against Energia Standard Unit Rates.  Standing Charges also apply.  VAT applies at 13.5%.  The Public Service Obligation (PSO) Levy has been set at €.7.40 (inc VAT) per month from 1st of October 2020. This applies to all domestic electricity customers irrespective of supplier.  The Carbon Tax has been set at 0.61 c/kWh (ex VAT) or 0.69 c/kWh (inc VAT). This tax applies to all domestic natural gas customers, irrespective of supplier.
+Discounts are against Energia Standard Unit Rates.  Standing Charges also apply.  VAT applies at 13.5%.  The Public Service Obligation (PSO) Levy has been set at €4.88 (inc VAT) per month from 1st of October 2021. This applies to all domestic electricity customers irrespective of supplier.  The Carbon Tax has been set at 0.61 c/kWh (ex VAT) or 0.69 c/kWh (inc VAT). This tax applies to all domestic natural gas customers, irrespective of supplier.
 
 All prices are subject to change as per our General Terms and Conditions above.  
   
