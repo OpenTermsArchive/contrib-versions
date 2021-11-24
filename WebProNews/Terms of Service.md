@@ -3,7 +3,7 @@ Terms of Service
 
 By visiting this website, you agree to the following conditions.
 
-The iEntry Network (ientry.com) website and email newsletter network which also includes WebProNews (www.webpronews.com), Twellow (twellow.com), and Jayde (jayde.com) have been made available to you subject to your compliance with the terms and conditions set forth below (the “Terms of Service”). Please read this document carefully before agreeing to be bound by the Terms of Service. If you do not wish to be bound by the Terms of Service, you may not access or use this website, subscribe to its email newsletters, or access or use any of its content.
+The iEntry Network (ientry.com) website and email newsletter network which also includes WebProNews (webpronews.com), Twellow (twellow.com), and Jayde (jayde.com) have been made available to you subject to your compliance with the terms and conditions set forth below (the “Terms of Service”). Please read this document carefully before agreeing to be bound by the Terms of Service. If you do not wish to be bound by the Terms of Service, you may not access or use this website, subscribe to its email newsletters, or access or use any of its content.
 
 ### Modification of these Terms of Service
 
@@ -11,7 +11,7 @@ The iEntry Network reserves the right to change the terms, conditions, and notic
 
 ### Privacy
 
-Please review our [Privacy Policy](https://www.www.webpronews.com/privacy-policy/), which also governs your visit to the iEntry Network or WebProNews.com, to understand our practices regarding the use and disclosure of your personal information.
+Please review our [Privacy Policy](https://www.webpronews.com/privacy-policy/), which also governs your visit to the iEntry Network or WebProNews.com, to understand our practices regarding the use and disclosure of your personal information.
 
 ### Electronic Communications
 
@@ -21,7 +21,7 @@ When you visit iEntry Network or WebProNews.com or send emails to us, you are co
 
 The entire contents of this website, including but not limited to: text, graphics, logos, button icons, Flash movies, images, audio clips, digital downloads, data compilations, and software, are the property of iEntry Network or WebProNews.com, its collaborators, or its clients and are protected by domestic and international copyright and trademark laws. You may not modify, copy, reproduce, republish, upload, post, transmit, or distribute any portion of the website contents without the prior expressed written consent of iEntry Network or WebProNews.com.”
 
-You may print or download portions of the materials from various areas of this website solely for your own non-commercial use provided that you agree not to change or delete any copyright or proprietary notices from the materials. If you believe any content appearing on our website constitutes a copyright infringement of another party’s rights, please contact us immediately at _[\[email protected\]](https://www.webpronews.com/cdn-cgi/l/email-protection)_ to notify us of this infringement.
+You may print or download portions of the materials from various areas of this website solely for your own non-commercial use provided that you agree not to change or delete any copyright or proprietary notices from the materials. If you believe any content appearing on our website constitutes a copyright infringement of another party’s rights, please contact us immediately at _support@ientry.com_ to notify us of this infringement.
 
 Your submissions of files including, but not limited to: resumes, email, Flash movies, images, logos, audio loops, and other software hereby constitutes your agreement to grant iEntry Network or WebProNews.com a non-exclusive, royalty-free, worldwide, sub-licensable, perpetual license to reproduce, distribute, transmit, adapt, sub-license, and publicly display any such submissions. You also grant iEntry Network or WebProNews.com the right to utilize your name in connection with all advertising, marketing, and promotional materials related thereto.
 
@@ -63,7 +63,7 @@ iEntry Network or WebProNews.com’s failure to insist upon or enforce strict pe
 
 ### Contact Info
 
-Please send notices by care of email to _[\[email protected\]](https://www.webpronews.com/cdn-cgi/l/email-protection)_ or reach us at our physical mailing address or by telephone.
+Please send notices by care of email to _support@ientry.com_ or reach us at our physical mailing address or by telephone.
 
 iEntry, Inc.
 
