@@ -1,6 +1,8 @@
 Terms of Service
 ================
 
+We’re updating our YouTube Terms of Service on January 5, 2022 to make it easier for you to understand what to expect as you use YouTube. Until then, the Terms below continue to apply. See a [preview of the upcoming Terms](https://www.youtube.com/t/terms?preview=20220105), including a summary of changes.
+
 **What’s in these Terms?**
 ==========================
 
