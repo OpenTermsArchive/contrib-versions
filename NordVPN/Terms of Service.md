@@ -12,7 +12,7 @@ Please either **enable JavaScript**, or disable any extensions or plugins that i
 
 * * *
 
-[![Nord Account logo](https://s1.nordcdn.com/nordvpn/media/1.1235.0/images/account/global/logos/horizontal/nordaccount.svg)](https://my.nordaccount.com/)
+[![Nord Account logo](https://s1.nordcdn.com/nordvpn/media/1.1355.0/images/account/global/logos/horizontal/nordaccount.svg)](https://my.nordaccount.com/)
 
 General Terms of Service
 ========================
@@ -174,3 +174,5 @@ You may not assign these Terms or any rights or interest under these Terms or de
 These Terms shall be governed in all respects by the substantive laws of Panama, without regard to its choice of law provisions. You agree that the courts of general jurisdiction located in Panama will have exclusive jurisdiction over any and all disputes arising out of or relating in any way to these Terms or the Services.
 
 For all purposes, the English language version of the Terms shall be the original, governing instrument and understanding between you and us. In the event of any conflict between this English language version of the Terms and any subsequent translation into any other language, the English language version shall govern and control.
+
+EnglishFrançaisDeutschPortuguêsPortuguês BrasileiroEspañolPolskiEnglish
