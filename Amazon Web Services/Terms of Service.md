@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-#### Last Updated: November 19, 2021
+#### Last Updated: November 24, 2021
 
 #### 1\. Universal Service Terms (Applicable to All Services)
 
@@ -754,7 +754,7 @@ Notwithstanding any other provision of the Agreement, you may incorporate into y
 
 **54.6** To enable the Apple Business Chat integration with Amazon Connect, you must create an Apple Business Register account and are responsible for reviewing and accepting any Apple terms pertaining to use of Apple Business Chat, such as Apple’s Terms of Use.  You agree that you are solely responsible for your or your End User’s use of Apple Business Chat, the content you or your End Users send through Apple Business Chat, and compliance with applicable Apple terms.
 
-**54.7.** **Amazon Connect Machine Learning Services**. “Amazon Connect ML Services” means, collectively, Contact Lens for Amazon Connect and Amazon Connect Customer Profiles Identity Resolution (Preview). “Amazon Connect ML Content” means Your Content that is processed by an Amazon Connect ML Service. The following terms apply to your use of Amazon Connect ML Services:
+**54.7.** **Amazon Connect Machine Learning Services**. “Amazon Connect ML Services” means, collectively, Contact Lens for Amazon Connect and Amazon Connect Customer Profiles Identity Resolution. “Amazon Connect ML Content” means Your Content that is processed by an Amazon Connect ML Service. The following terms apply to your use of Amazon Connect ML Services:
 
 (a) You agree and instruct that: (i) we may use and store Amazon Connect ML Content to maintain and provide Amazon Connect ML Services (including development and improvement of Amazon Connect ML Services) and to develop and improve AWS and affiliate machine-learning and artificial intelligence technologies; and (ii) solely in connection with the development and improvement described in clause (i), we may store your Amazon Connect ML Content in AWS regions outside the AWS regions where you are using Amazon Connect ML Services. By contacting AWS Support and following the process provided to you, you may instruct AWS not to use or store Amazon Connect ML Content to develop and improve Amazon Connect ML Services or technologies of AWS and affiliates.
 
