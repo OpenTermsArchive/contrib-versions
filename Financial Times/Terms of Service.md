@@ -62,7 +62,7 @@ The above are referred together as "**the Subscriptions**" and individually as a
 
 **2.14.** We aim to commence delivery of your Newspaper within 2 business days (UK), 7-10 business days (Eurozone) or 10-12 business days (United States) of your Subscription commencing.  Delivery times for other regions will be confirmed separately. 
 
-**2.15.** If you do not receive your Newspaper on the expected delivery date, please [contact us](https://help.ft.com/contact/) within 7 days and we may arrange an extension or credit for that delivery (excluding Trial Subscriptions).
+**2.15.** If you do not receive your Newspaper on the expected delivery date, please [contact us](https://help.ft.com/contact/) within 7 days and we may arrange an extension or credit for that delivery (excluding Trial Subscriptions of 4 weeks or fewer).
 
 **2.16.** If you wish to change your address for home delivery then please [contact us](https://help.ft.com/contact/) at least 10 days' before the date on which you wish your change of address to take effect. If we are not able to provide you with a home delivery service to your new address then:
 
@@ -75,7 +75,7 @@ The above are referred together as "**the Subscriptions**" and individually as a
 
 **2.18.** Paper vouchers will be posted and digital vouchers will be emailed using the information you provided during the sign-up process. 
 
-**2.19.** If your Subscription has been cancelled, vouchers will no longer be valid and you must promptly post any unused paper voucher packs to the address printed on the back of the pack.  We may provide a refund for any vouchers that relate to the remainder of a Subscription period you have already paid for, and we reserve the right to charge you for any voucher packs that have not been returned which relate to a period for which you have not yet paid. 
+**2.19.** If your Subscription has been cancelled, vouchers will no longer be valid and you must promptly post any unused paper voucher packs to the address printed on the back of the pack.  We may provide a refund for any vouchers that relate to the remainder of a Subscription period you have already paid for, and we reserve the right to charge you for any voucher packs that have not been returned which relate to a period for which you have not yet paid. Paper and digital voucher subscriptions cannot be suspended by you at any time. 
 
 **Your Cancellation Rights**
 
@@ -87,8 +87,9 @@ The above are referred together as "**the Subscriptions**" and individually as a
 **2.21.** Print Subscription or Bundled Subscription:
 
 *   You have the right to cancel our contract for a Print Subscription or Bundled Subscription within 14 days of our confirmation email (see section 2.3 above) without giving any reason. 
-*   If you exercise your right to cancel within that period, we will reimburse all payments received from you, less a \[pro rated\] amount for each Newspaper you received before cancelling.
+*   If you exercise your right to cancel within that period, we will reimburse all payments received from you, less a pro rated amount for each Newspaper you received before cancelling.
 *   After the above period has expired, you may cancel your Print Subscription or Bundled Subscription by notifying us at any time of your intention to do so. However, the cancellation will only take effect at the end of your then current Subscription period, and you will not be entitled to a refund except in the event that there is a fault in our provision of our FT Services.
+*   You may terminate your Subscription immediately in writing to FT if FT.com is unavailable or inaccessible to you for either (a) any 72 hour period during your Subscription; or (b) more than five 24-hour periods over a 30 day period; in either case as a direct result of a fault or failure of FT, in which case we will refund you any amount that you have paid to us in advance that relates to any period which was still to run on your Subscription.
 
 **2.22.** To exercise the above rights to cancel, you must inform us of your decision to cancel the contract by using [our online chat feature, calling us on your regional telephone number,](https://help.ft.com/contact/) or emailling us at [help@ft.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=help@ft.com) with the following: "I/We hereby give notice that I/we cancel my/our subscription". Please then include:
 
@@ -97,7 +98,7 @@ The above are referred together as "**the Subscriptions**" and individually as a
 *   the billing address and delivery address (Including zip code/postcode); and
 *   your contact telephone number.
 
-You may also use your [regional telephone number](https://help.ft.com/contact/) to temporarily suspend Newspaper delivery if you have an Bundled Subscription, for example if you are going on holiday, although you must provide at least 5 business days advance notice for this to be implemented.
+You may also use your [regional telephone number](https://help.ft.com/contact/) to temporarily suspend Newspaper delivery if you have an Bundled Subscription, for example if you are going on holiday, although you must provide at least 5 business days advance notice for this to be implemented. You will not be entitled to suspend your Subscription if you use paper or digital vouchers.
 
 **Our Cancellation Rights**
 
@@ -195,21 +196,25 @@ You may also use your [regional telephone number](https://help.ft.com/contact/)
 
 **4.1.** Your privacy and personal information are important to us. Any personal information that you provide to us will be dealt with in line with our [Privacy Policy](https://help.ft.com/legal-privacy/privacy-policy/), which explains what personal information we collect from you, how and why we collect, store, use and share such information, your rights in relation to your personal information and how to contact us and supervisory authorities in the event you have a query or complaint about the use of your personal information.
 
-5\. Limitation on Our Liability
+5\. Limitation on our Liability
 -------------------------------
 
-**5.1. Except for any legal responsibility that we cannot exclude in law (such as for death or personal injury) or arising under applicable laws relating to the protection of your personal information, we are not legally responsible for any:**
+**5.1. FT makes no warranty, express or implied, regarding your Subscription, FT.com, FT Content or FT Services, which are provided &quot;as is&quot;. We expressly disclaim all warranties to the extent permitted by law, including but not limited to warranties of fitness for a particular purpose.**
 
-*   **losses that:**
+**5.2. Except for any legal responsibility that we cannot limit or exclude in law (such as for death or personal injury), in the event that you suffer any losses arising in connection with your Subscription, or your use of FT.com, FT Content or FT Services:**
 
- **(a) were not foreseeable to you and us when these Terms and Conditions were formed; or**
+**(a)  our total liability to you shall not exceed the total sums paid by you for your current Subscription; and   
+(b)  we shall not be liable or legally responsible in any way (whether in contract, tort (including negligence) or otherwise) for:** 
 
- **(b) that were not caused by any breach on our part;**
+ **(i) any loss that was not foreseeable to you or the FT when the contract was formed;  
+               (ii) any loss that was not caused by any breach on FT’s part;  
+               (iii) any business loss (including business interruption, or loss of revenues, sales or business opportunity);  
+               (iv) any loss of profits, anticipated savings, goodwill, reputation, or data;  
+               (v) any loss of use or corruption of software or technical equipment;  
+               (vi) any loss to non-consumers; and  
+               (vii) any indirect or consequential loss**
 
-*   **business losses; and**
-*   **losses to non-consumers.**
-
-**5.2.** You may terminate your Subscription immediately in writing to FT if FT.com is unavailable or inaccessible to you for either (a) more than 3 consecutive days during your Subscription; or (b) more than 5 days in a 30 day period, as a result of the fault or failure of FT, in which case we will refund you any amount that you have paid to us in advance that relates to any period which was still to run on your Subscription. 
+**in each case even if we have been advised that such damages may arise.**
 
 **5.3.** The limitations of liability in this section 5 apply for the benefit of FT, its affiliates, including those listed in section 6 and all of their respective officers, directors, employees, agents or any company who we transfer our rights and obligations to in accordance with these terms and conditions.
 
@@ -232,7 +237,7 @@ You may also use your [regional telephone number](https://help.ft.com/contact/)
 7\. Changes to these Terms and Conditions
 -----------------------------------------
 
-**7.1.** These Terms and Conditions were published on 7 January 2021 and replace with immediate effect the terms and conditions previously published on 1 May 2019.
+**7.1.** These Terms and Conditions were published on 25 November 2021 and replace with immediate effect the terms and conditions previously published on 7 January 2021.
 
 **7.2.** We may update these Terms and Conditions for legal or regulatory reasons, or to reflect changes in our services or business practices. We will provide notice of any significant changes below. You should regularly check this section to see if any changes have been made. If you are a paying subscriber, any changes to our terms and conditions will become effective from the date of your next payment following the change unless we notify you otherwise. If you are not a paying subscriber, any changes will become effective as soon as we post them on FT.com.
 
