@@ -85,7 +85,7 @@ Posts and reactions to posts
 In distributing your posts to other users, the contents that you posted are sent via our server.  
 For example, standard contents such as emoji, stickers and location information and non-standard contents such as text, image, video and audio that you post are all sent via our server. In addition, external information such as the recipient of the contents, data format, date and time of the posting, and other information on how you are interacting with your counterparty is also recorded in the server. URL information that you tapped or clicked in our Services is also recorded in the server.  
   
-Furthermore, in distributing reactions or replies to the posts of other users, we collect and use information related to how you reacted to the posts of other users. This information includes the action that you took against the distribution by other users, and the time and date of such action, such as whether you viewed the text, image or video of messages that you received, and whether you clicked “Like” for the posts of users on your timeline.  
+Furthermore, in distributing reactions or replies to the posts of other users, we collect and use information related to how you reacted to the posts of other users. This information includes the action that you took against the distribution by other users, and the time and date of such action, such as whether you viewed the text, image or video of messages that you received, and whether you clicked “Like” for the posts of users on your LINE VOOM.  
   
 In principle, we will not use private posts, as such messages exchanged between users, for any purpose other than distributing such posts. However, in certain countries or regions (\*1) for specific services, we may use a part of such information upon obtaining your additional consent for the provision and maintenance of services, development and improvement of services, prevention of unauthorized use, and provision of optimized contents including ads. For details, please refer to “[Regarding Usage of Your Information](https://terms.line.me/line_communication_privacy/)” and the terms of the individual services.
 
@@ -195,7 +195,7 @@ Furthermore, in certain countries or regions (\*3), we will use Personal Data fo
 ● To distribute information of strong relevance to your current location regarding facilities, attractions, coupons, etc. to be provided through an official account;  
 ● To introduce information of events being conducted and valuable coupons that can be used, near your current location or places where you often visit;  
 ● To display ads related to our business partner’s website that you accessed;  
-● To estimate attributes such as the gender, age group, and interests of users from the official accounts that have been added as a friend, purchased stickers, Services that are often used, contents that were recently posted on timelines, and history of service use such as search words that were recently used, and distribute our ads or third-party ads that may of interest to users having similar attributes; or  
+● To estimate attributes such as the gender, age group, and interests of users from the official accounts that have been added as a friend, purchased stickers, Services that are often used, contents that were recently posted on LINE VOOM, and history of service use such as search words that were recently used, and distribute our ads or third-party ads that may of interest to users having similar attributes; or  
 ● To distribute our ads or third-party ads with Personal Data such as the birthday, phone number and email address registered by users (including cases of distributing ads of our Services on services operated by third parties) as the key.
 
 We are offering a detailed explanation to users residing in countries or regions where this feature is available. For details, please refer to “[Optimization of services by attributes](https://terms.line.me/line_rules_optimize)” (page is provided only in the language of the country that is offering the feature).
@@ -226,7 +226,7 @@ In providing Personal Data, we may transfer Personal Data to a third country wit
 
 The profile information that you registered will be processed as public information. For details, please refer to [\[Profile information\]](#section2-0) of 3.a.
 
-Messages that you posted, posts made on timelines and bulletin boards, and actions such as “Like” and comments to posts of other users will be made available to third parties according to your disclosure setting and address.
+Messages that you posted, posts made on LINE VOOM and bulletin boards, and actions such as “Like” and comments to posts of other users will be made available to third parties according to your disclosure setting and address.
 
 The foregoing information may be copied, stored or spread by the recipient, and accessed by an unintended third-party recipient, due to the nature of digital data. When setting your profile or posting on our Services, please pay attention to the contents and scope of disclosure of such post.
 
@@ -290,7 +290,7 @@ To help protect your privacy and confidentiality of your Personal Data, we also 
 
 6.b.Storage location of Personal Data
 
-To provide our Services in a reliable and responsible manner, LINE processes and stores key Personal Data on secure servers located in Japan where LINE is located. There may be cases where the data protection level in Japan falls short of the data protection level required under laws in your country or region. In such a case, we will take measures so that Personal Data is lawfully transferred to our server in Japan pursuant to Applicable Laws. As of January 23, 2019, the European Commission has determined that Japan has secured sufficient protection standards regarding Personal Data.
+In providing our Services, we may store your Personal Data outside the country or region where you reside. When that happens, we will take measures to ensure your Personal Data is transferred according to the applicable laws.
 
 6.c.Storage period of Personal Data
 
@@ -437,7 +437,7 @@ We may modify this Policy from time to time, and the latest version of the priva
 If you do not agree to any of the changes and you no longer wish to use our Services, you may choose to close your Account. Continuing to use our Services after a notice of changes has been notified to you or published on our Services constitutes your acceptance of the changes and consent to the modified version of this Policy. We will seek your consent when required under Applicable Laws.
 
 Formulated on August 15, 2012  
-Revised on July 27, 2021
+Revised on November 25, 2021
 
 10.Reference
 ------------
