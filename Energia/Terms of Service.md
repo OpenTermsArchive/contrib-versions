@@ -240,9 +240,9 @@ In either case by cheque if you have provided Energia with a forwarding address 
 
 11\. Emergency
 
-11.1             In the event of an Emergency or incident causing danger or requiring urgent attention at the Premises relating to your gas supply, you may contact the Gas Emergency Response Service on  1850 20 50 50.
+11.1             In the event of an Emergency or incident causing danger or requiring urgent attention at the Premises relating to your gas supply, you may contact the Gas Emergency Response Service on  1800 20 50 50.
 
-11.2             In the event of an Emergency or incident causing danger or requiring urgent attention at the Premises relating to your electricity supply you may contact the Electricity Emergency Response Service on 1850 372 999.
+11.2             In the event of an Emergency or incident causing danger or requiring urgent attention at the Premises relating to your electricity supply you may contact the Electricity Emergency Response Service on 1800 372 999.
 
 11.3             In the event of an Emergency, supply of Energy to the Premises may be discontinued from the Premises at the request of the relevant Emergency Response Service or the Relevant System Operator.
 
@@ -288,7 +288,7 @@ In either case by cheque if you have provided Energia with a forwarding address 
 
 13.2             If this Agreement does not terminate after the term specified in the Product Terms Sheet it shall remain in force on a rolling calendar month basis and you will continue to be bound by these General Terms and Conditions.  At the end of the term specified in the Product Terms Sheet, Customers on Fixed Tariffs and Hybrid Tariffs will be migrated by Energia to the alternative specified in the Product Terms Sheet or, where no such alternative is specified, the alternative Tariff that Energia considers most appropriate.
 
-13.3             You may terminate this Agreement pursuant to Clause 4.3 or otherwise by contacting us on 1850 405 405, Monday to Friday 9am to 5pm or by writing to us with your full account details at Energia, PO Box 12380, Dublin 2; provided you give Energia at least 7 days’ prior notice and a Meter reading is obtained on the Termination Date. Energia will acknowledge receipt of your letter within ten working days.  The supply of Energy at any Supply Point will terminate on the date that a confirmed Meter reading is obtained at the Premises. In the event that a confirmed Meter reading is unavailable on the Termination Date, an estimated meter reading in respect of the Premises may be applied in accordance with Clause 13.8(a).
+13.3             You may terminate this Agreement pursuant to Clause 4.3 or otherwise by contacting us on 0818 405 405, Monday to Friday 9am to 5pm or by writing to us with your full account details at Energia, PO Box 12380, Dublin 2; provided you give Energia at least 7 days’ prior notice and a Meter reading is obtained on the Termination Date. Energia will acknowledge receipt of your letter within ten working days.  The supply of Energy at any Supply Point will terminate on the date that a confirmed Meter reading is obtained at the Premises. In the event that a confirmed Meter reading is unavailable on the Termination Date, an estimated meter reading in respect of the Premises may be applied in accordance with Clause 13.8(a).
 
 13.4             If this Agreement is for a fixed-term period (as specified in the Product Terms Sheet) and you cancel your service any time after the cooling off period and before the end of the fixed-term period, a termination fee of €50 per fuel will apply, unless otherwise specified in the Product Terms Sheet. 
 
@@ -376,7 +376,7 @@ Energia
 PO Box 12380  
 Dublin 2  
    
-(b) By telephone on 1850 405 405; or  
+(b) By telephone on 0818 405 405; or  
 (c) By online query at [www.energia.ie](http://www.energia.ie/)
 
 18\. Customer Charter & Codes Of Practice
@@ -503,66 +503,7 @@ Taxes and Pass through charges
   
 VAT applies at 13.5%.  The Public Service Obligation (PSO) Levy has been set at €.7.40 (inc VAT) per month from 1st of October 2020. This applies to all domestic electricity customers irrespective of supplier.  The Carbon Tax has been set at 0.69 c kwh (inc. VAT) per c/kWh. This tax applies to all domestic natural gas customers, irrespective of supplier.
 
-25\. Ireland's Most Christmassy Home 2020
-
-**Ireland’s Most Christmassy Home Competition** **Terms and Conditions:**  
-   
-**How to Enter?**  
-Ireland’s Most Christmassy Home Competition 2020 opens on Friday 20th November at 12pm.  
-All entrants must be over 18 years old and residing at the house entered. All entries should be a single photo taken and submitted by the householders themselves. Only one entry per household can be made and ALL ENTRIES must be submitted through the entry’s webpage by midnight Sunday 6th December.  
-All entrants must include the below within the email entry:
-
-*   Full name of householder
-*   Full address of householder
-*   Householder’s contact number
-*   Householder’s email address
-
-  
-The photo must be of outdoor Christmas decorations and light displays and must have been taken since November 1st 2020.  
-  
-Energia will review all entries received by Sunday 6th December and select the Top 6 Finalists. Details of the finalists will be posted online at www.energia.ie and on Energia’s social media channels on Monday 14th December.  
-  
-Public voting for the winner of Ireland’s Most Christmassy Home will open on Monday 14th December at 12pm.  
-This selection will be made based on the following criteria:
-
-*   Decoration Design
-*   Use of space
-*   Festive Spirit
-*   Wow Factor
-
-The Top 6 Finalists need to be available between Monday 7th - Friday 11th December for professional photographs and videography. These will be used by Energia for PR purposes and promoted on Energia’s social media channels.  
-  
-There will be three prizes awarded:
-
-*   1st Prize: €6,000 for the winner’s charity of choice.
-*   2nd Prize: €4,000 for the winner’s charity of choice.
-*   3rd Prize: €2,000 for the winner’s charity of choice.
-
-Winners can only donate their prize money to a MAX of 2 charities. Payment will be made directly to the chosen charity on behalf of the winners.  
-  
-Energia’s selection is final and not subject to any appeals.  
-The competition is not open to Energia staff.  
-  
-By entering Ireland’s Most Christmassy Homes you agree to the Terms & Conditions.  
-By entering the competition, the entrant agrees to Energia filming, taking photographs of your home, interviewing you and using those assets on our website, social media, and for PR purposes until June 2020. Finalists are required to sign a release form stating the above on the day of filming.  
-  
-**How to vote?**  
-  
-The finalist photos will be posted in random order on www.energia.ie and Energia’s social media channels. The competition will be open to a public vote from Monday 14th December. Voting closes at midnight on Sunday 20th December.  
-  
-To vote, **text HOUSE** followed by a space and number of the house to **51155 (ROI) or 88101 (UK).**  
-Standard rate SMS applies. One entry per mobile only.  
-  
-Fair play is encouraged, and fraudulent activities will be monitored. Contestants who are found to be bulk buying votes for voting purposes will be disqualified by Energia from the competition.  
-Voting by the public will close at midnight on the 20th December 2020. The photo with the highest number of votes will be deemed the winner.  
-  
-Energia will write a cheque directly to the winners’ charities of choice – charity must be officially registered in Ireland.  
-  
-The winners will be contacted by phone on Monday 21st December and will be announced on Energia’s social media channels on Monday 21st December.  
-  
-The decisions of Energia, or their agents, are final in all matters concerning this competition. We will not use the details you provide for marketing purposes.
-
-26\. Product Terms & Conditions
+25\. Product Terms & Conditions
 
 Total discount is based on your chosen price plan options and applies to new customers only.  You must pay your bill by Direct Debit to avail of the Direct Debit Discount and register for Online Billing to receive the Online Billing Discount. If you cancel your Direct Debit payment or choose to switch to paper bill, you will lose these discounts.  From time to time we may issue promotional codes.  Only one promotional code will be accepted per customer registration. Other promotional codes may be available at any given time.
 
@@ -574,7 +515,7 @@ All prices are subject to change as per our General Terms and Conditions above.
    
 Your bill is paid by direct debit from the bank account you specified when you signed up. The direct debit is processed 14 days after the date your bill is issued and the payment will be taken from your bank account on your chosen date.  
    
-If you need to update your bank details with us, just give us a call on 1850 405 405 with the new details.  
+If you need to update your bank details with us, just give us a call on 0818 405 405 with the new details.  
    
 Our online payment service, fastpay.energia.ie, allows you to make payments to your accounts, which are then credited off your next bill. Payments can be made with a debit or credit card.  This is a handy way to build up credit, so you’re not hit with the full bill all at once.  
   
@@ -582,7 +523,7 @@ With our fix pay you can spread your energy costs out equally over 12 months hel
    
 If you do not pay by direct debit then we expect payment before the due date on any bills issued. Your bill is due for payment 14 days after your bill has been issued.
 
-27\. Cashback Terms & Conditions
+26\. Cashback Terms & Conditions
 
 **Cashback Offers**   
   
@@ -592,7 +533,7 @@ The cashback amount will be applied as a credit to the customer’s Electricity
   
 To avail of the cashback offer you must be successfully signed up to Energia.  Only one cashback allowed per person. 
 
-28\. Free Netatmo Offer Terms & Conditions
+27\. Free Netatmo Offer Terms & Conditions
 
 ****Free Netatmo Offer - Terms & Conditions****
 
@@ -642,11 +583,11 @@ To avail of the cashback offer you must be successfully signed up to Energia. 
     All prices are subject to change as per Energia standard terms and conditions. For new customers only that sign up online or over the phone.
     
 
-29\. Boiler Services Terms & Conditions
+28\. Boiler Services Terms & Conditions
 
 See [here](https://www.energia.ie/getmedia/3d6accee-18d9-42b6-86fe-d82019a356e4/BOILER-SERVICES-T-Cs-Feb-20_1.pdf.aspx;) for Boiler Servicing Terms & Conditions.
 
-30\. "Get a Quote Calculator" Promotional Terms & Conditions
+29\. "Get a Quote Calculator" Promotional Terms & Conditions
 
 The quoted average monthly bill amount is calculated upon average figures outlined below.  
   
@@ -671,7 +612,7 @@ Your Dual fuel and Electricity tariff discounts will apply for a period of one y
 
 All prices are subject to change as per Energia standard terms and conditions. For new customers only that sign up online or over the phone.
 
-31\. Contract Renewal Terms & Conditions
+30\. Contract Renewal Terms & Conditions
 
 Total discount is based on opting in to our Renewal Price Plan.  You must pay your bill by Direct Debit to avail of the Direct Debit Discount and use Online Billing to receive the Online Billing Discount. If you cancel your Direct Debit payment or choose to switch to paper bill, you will lose these discounts.    
    
@@ -682,11 +623,11 @@ Your Renewal tariff discounts will apply for a period of one year from the date 
    
 All prices are subject to change as per our General Terms and Conditions above.
 
-32\. Free Gas Boiler Offer
+31\. Free Gas Boiler Offer
 
 See [here](https://www.energia.ie/getmedia/21901f8b-a1e5-46da-8ad0-02da472cd8f9/Customer-Terms-and-Conditions.pdf.aspx;) for Limited Offer Free Boiler Servicing Terms & Conditions.
 
-33\. Pic Of The Month
+32\. Pic Of The Month
 
 **Terms and Conditions: Energia’s Pic of the Month**  
  
@@ -702,7 +643,7 @@ See [here](https://www.energia.ie/getmedia/21901f8b-a1e5-46da-8ad0-02da472cd8f9/
 *   The winner and runners up will be selected by Energia’s Digital Marketing Division.
 *   If you accept a prize from Energia as a winner or runner up in Energia’s Pic of the Month, you grant permission to Energia to use your photograph in subsequent marketing campaigns, limited to promotion of Energia’s Pic of the Month.
 
-34\. GIY Grow and Cook Experience 2019
+33\. GIY Grow and Cook Experience 2019
 
 **Terms and Conditions**
 
@@ -723,11 +664,11 @@ See [here](https://www.energia.ie/getmedia/21901f8b-a1e5-46da-8ad0-02da472cd8f9/
 *   It is the winner’s sole responsibility to travel to prize location; Energia is not responsible for any of the costs incurred in reaching the prize.
 *   There will be no monetary exchange or refund available for this prize offering.
 
-35\. Energia Solar & Battery Terms and Conditions
+34\. Energia Solar & Battery Terms and Conditions
 
 ****View the terms and conditions [here](https://www.energia.ie/getmedia/cf7b9dbf-bdb0-41aa-aead-322081026d05/Solar-and-Battery-TC-s-and-Privacy-Policy-(final)-(11-11-2020)_2.pdf.aspx;).****
 
-36\. Energia EV Charger Customer Terms and Conditions
+35\. Energia EV Charger Customer Terms and Conditions
 
 1.  Background
 
@@ -964,7 +905,7 @@ Data Protection Officer, The Liberty Centre, Blanchardstown Retail Park, Dublin 
 You have the right to lodge a complaint with the:  
 Data Protection Commission by writing to the Data Protection Commission, 21 Fitzwilliam Square South, Dublin 2, D02 RD28, Ireland or contacting them via their website at: [https://www.dataprotection.ie/](https://www.dataprotection.ie/)
 
-37\. Revolut Customer Exclusive Offer
+36\. Revolut Customer Exclusive Offer
 
 **Dual Fuel Terms:**  
    
@@ -974,13 +915,13 @@ EAB €1,799, based on average annual usage. 12 month contract, discounted unit 
   
 EAB €1,009, based on average annual usage. 12 month contract, discounted unit rates, standing charge, PSO levy and Carbon Tax, T&Cs and early termination fee apply. Valid from November 2020 & subject to change. Smart Home Voucher must be used at [https://smarthomestore.energia.ie/](https://smarthomestore.energia.ie/) by 31st December 2021. No cash equivalent will be provided. €50 cash back to be applied to 3rd customer bill.
 
-38\. Competition terms and conditions
+37\. Competition terms and conditions
 
 **View November 2021 rugby newsletter terms and conditions [here.](https://www.energia.ie/getmedia/2b5ee365-25b9-410d-a3fe-523de32149e7/November-2021-Signed-Ireland-Jersey-T-Cs.pdf.aspx;)  
   
 View  ‘Win a free consultation for your home with Kieran McCarthy’ terms and conditions [here](https://www.energia.ie/getmedia/f02b8fce-8eea-48fa-8d44-44ded6d0ff09/TCs-Win-a-free-consultation-with-Kieran-McCarthy.pdf.aspx;).**
 
-39\. Download all Terms & Conditions.
+38\. Download all Terms & Conditions.
 
 You can download all Terms & Conditions [here](https://www.energia.ie/getmedia/a2221157-e37d-4df6-944f-6a496af4d233/5366-Energia-Domestic-Terms-and-Conditions-Feb-21.pdf.aspx;).
 
