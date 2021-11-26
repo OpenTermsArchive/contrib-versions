@@ -34,7 +34,7 @@ There are three types of content that you will be able to access on the App:
 
 1.  content that you upload and provide (“Your Content”);
 2.  content that members provide (“Member Content”); and
-3.  content that the Bumble Group provides (“Our Content”).
+3.  content that the Bumble Group provides (including, without limitation, database(s) and/or software) (“Our Content”).
 
 **There is certain content we can’t allow on Bumble**
 
@@ -67,6 +67,8 @@ We may assign and/or sub-license the above licence to our affiliates and success
 
 We do not have any obligation to store Your Content - if it’s important, you should make a copy.
 
+So that we can prevent the unconsented use of Your Content by other members or third parties outside of Bumble, you authorise us to act on your behalf with respect to such infringing and/or unauthorised uses. This expressly includes the authority, but not the obligation, for us to send takedown notices (including, without limitation, pursuant to 17 U.S.C. § 512(c)(3) (i.e., DMCA Takedown Notices)) on your behalf if Your Content is taken and used by third parties outside of Bumble.
+
 ### Member Content
 
 Other members of Bumble will also share content via the App. Member Content belongs to the user who posted the content and is stored on our servers and displayed via the App at the direction of the user providing the Member Content.
@@ -77,13 +79,13 @@ Member Content is subject to the terms and conditions of Sections 512(c) and/or 
 
 ### Our Content
 
-You may be wondering what happens to the rest of the Content on Bumble. Well, it belongs to us! Any other text, content, graphics, user interfaces, trademarks, logos, sounds, artwork, and other intellectual property appearing on Bumble are owned, controlled or licensed by us and are protected by copyright, trademark and other intellectual property law rights. All right, title and interest in and to Our Content remains with us at all times.
+You may be wondering what happens to the rest of the Content on Bumble. Well, it belongs to us! Any other text, content, graphics, user interfaces, trademarks, logos, sounds, artwork, and other intellectual property appearing on Bumble, as well as the Bumble software and database(s), are owned, controlled or licensed by us and are protected by copyright, trademark, data, database rights and/or other intellectual property law rights. All right, title and interest in and to Our Content remains with us at all times.
 
 We grant you a non-exclusive, limited, personal, non-transferable, revocable, licence to access and use Our Content, without the right to sublicense, under the following conditions:
 
 1.  you shall not use, sell, modify, or distribute Our Content except as permitted by the functionality of the App;
 2.  you shall not use our name in metatags, keywords and/or hidden text;
-3.  you shall not create derivative works from Our Content or commercially exploit Our Content, in whole or in part, in any way; and
+3.  you shall not create derivative works from Our Content or scrape, disable, decompile, analyse or in any way commercially exploit Our Content, in whole or in part, in any way; and
 4.  you shall use Our Content for lawful purposes only.
 
 We reserve all other rights.
@@ -106,10 +108,11 @@ You agree that you will not:
 *   act in an unlawful or unprofessional manner including being dishonest, abusive or discriminatory;
 *   misrepresent your identity, your age, your current or previous positions, qualifications or affiliations with a person or entity;
 *   disclose information that you do not have the consent to disclose;
-*   stalk or harass any other user of the App; or
-*   create or operate a pyramid scheme, fraud or other similar practice.
+*   stalk or harass any other user of the App;
+*   create or operate a pyramid scheme, fraud or other similar practice, or;
+*   develop, support or use software, devices, scripts, robots, other types of mobile code or any other means or processes (including crawlers, browser plugins and add-on or other technology) to scrape or otherwise exfiltrate from Bumble or its services, or otherwise copy profiles and other data from the services.
 
-We don’t like users misbehaving in the Bumble community. You can report any abuse or complain about Member Content by contacting us, outlining the abuse and/or complaint. You can also report a user directly from a profile or in chat by clicking the ‘Block & Report’ link. We reserve the right to investigate any possible violations of these Terms, and we may, in our sole discretion, immediately terminate any user’s right to use of the App without prior notice, as set out further in Section 1 above.
+We don’t like users misbehaving in the Bumble community. You can report any abuse or complain about Member Content by contacting us, outlining the abuse and/or complaint. You can also report a user directly from a profile or in chat by clicking the ‘Block & Report’ link. We reserve the right to investigate any possible violations of these Terms, any Bumble user’s rights, or any third party rights and we may, in our sole discretion, immediately terminate any user’s right to use of the App without prior notice, as set out further in Section 1 above, and/or remove any improper, infringing or otherwise unauthorised Member Content submitted to the App.
 
 We don’t control any of the things our users say or do, so you are solely responsible for your interactions with other users of the App.
 
@@ -137,7 +140,7 @@ You may make an In-App Purchase through the following payment methods (“Paymen
 
 **Cancelling Subscriptions.** If you purchased a subscription directly from Bumble, you may cancel or change your Payment Method via the payment settings option under your profile. If you purchased a subscription through a Third Party Store, such as the Apple App Store or the Google Play Store, you will need to access your account with that Third Party Store and follow instructions to change or cancel your subscription. If you cancel your subscription, you may use your subscription until the end of the period you last paid for, but (i) you will not (except as set forth in the subsection entitled “Refunds” below) be eligible for a prorated refund, (ii) your subscription will not be renewed when that period expires and (iii) you will then no longer be able to use the Premium Services or In-App Purchases enabled by your subscription.
 
-**Free Trials.** If you sign up for a free trial and do not cancel, your trial may convert into a paid subscription and your Payment Method will be charged at the then-current price for such subscription. Once your free trial converts to a paid subscription, your paid subscription will continue to automatically renew at the end of each period, and your Payment Method will be charged, until you cancel. To avoid charges for a new subscription period, you must cancel before the end of the then-current subscription period or free trial period as described above. Deleting your account or deleting the application from your device does not cancel your free trial.
+**Free Trials.** If you sign up for a free trial and do not cancel, your trial may convert into a paid subscription and your Payment Method will be charged at the then-current price for such subscription. Once your free trial converts to a paid subscription, your paid subscription will continue to automatically renew at the end of each period, and your Payment Method will be charged, until you cancel. To avoid charges for a new subscription period, you must cancel before the end of the then-current subscription period or free trial period as described above. Deleting your account or deleting the application from your device does not cancel your free trial. If you have signed up for a free trial on Bumble through the Apple Store or Google Play Store previously, you will not be eligible for another free trial and you will then be automatically signed up to a subscription and charged as described in this paragraph.
 
 **Refunds. Generally, all charges for purchases are nonrefundable, and there are no refunds or credits for partially used periods.**
 
@@ -208,10 +211,10 @@ We retain the exclusive right to settle, compromise and pay any and all claims o
 
 The foregoing provision does not require you to indemnify Bumble Group for any unconscionable commercial practice or any fraud, deception, false promise, misrepresentation or concealment, suppression or omission of any material fact in connection with the App.
 
-11\. DIGITAL MILLENNIUM COPYRIGHT ACT
--------------------------------------
+11\. PROCEDURE FOR MAKING CLAIMS OF COPYRIGHT INFRINGEMENT
+----------------------------------------------------------
 
-The Bumble Group has adopted the following policy towards copyright infringement in accordance with the Digital Millennium Copyright Act (the “DMCA”). If you believe any Member Content infringes upon your intellectual property rights, please submit a notification alleging such infringement (“DMCA Takedown Notice”) to Bumble Group’s Copyright Agent as identified below, including the following:
+If you believe any content on Bumble infringes the copyright in a work that you own, please submit a notification alleging such infringement (“DMCA Takedown Notice”) to Bumble Group’s Copyright Agent. The Takedown Notice must include the following:
 
 1.  A physical or electronic signature of a person authorised to act on behalf of the owner of an exclusive right that is allegedly infringed;
 2.  Identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works;
@@ -220,7 +223,7 @@ The Bumble Group has adopted the following policy towards copyright infringement
 5.  A statement that you have a good faith belief that use of the material in the manner complained of is not authorised by the copyright owner, its agent, or the law; and
 6.  A statement that, under penalty of perjury, the information in the notification is accurate and you are authorised to act on behalf of the owner of the exclusive right that is allegedly infringed.
 
-Any DMCA Takedown Notices should be sent to Bumble Group’s Copyright Agent at: [feedback@team.bumble.com](mailto:feedback@team.bumble.com)
+Takedown Notices should be sent to Bumble Group’s Copyright Agent at [copyright@team.bumble.com](mailto:copyright@team.bumble.com). If you wish to reach out to Bumble Group’s Copyright Agent via other methods, you can write to: Bumble, Attn: Bumble Group’s Copyright Agent, P.O. Box 300940, Austin, Texas, 78703; or phone: +1 - 512-696-1409.
 
 12\. THIRD PARTY APP STORE
 --------------------------
@@ -336,4 +339,4 @@ The Terms constitute a binding legal agreement between you as user (“you”) a
 
 ### Effective date
 
-The Terms were last updated on: 11th August, 2021.
+The Terms were last updated on: 19th November, 2021.
