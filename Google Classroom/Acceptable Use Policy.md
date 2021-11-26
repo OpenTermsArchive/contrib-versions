@@ -66,13 +66,11 @@ Misleading content
 
 Do not distribute content that deceives, misleads or confuses users. This includes:
 
-Misleading content related to civic and democratic processes: content that is demonstrably false and could significantly undermine participation or trust in civic or democratic processes. This includes information about public voting procedures, political candidate eligibility based on age/birthplace, election results or census participation that contradicts official government records. It also includes incorrect claims that a political figure or government official has died, been involved in an accident or is suffering from a sudden serious illness.
-
-Misleading content related to harmful health practices: misleading health or medical content that promotes or encourages others to engage in practices that may lead to serious physical or emotional harm to individuals, or serious public health harm.
-
-Manipulated media: media that has been technically manipulated or doctored in a way that misleads users and may pose a serious risk of egregious harm.
-
-Misleading content may be allowed in an educational, documentary, scientific or artistic context, but please be mindful to provide enough information to help people understand this context. In some cases, no amount of context will allow this content to remain on our platforms.
+*   Misleading content related to civic and democratic processes: content that is demonstrably false and could significantly undermine participation or trust in civic or democratic processes. This includes information about public voting procedures, political candidate eligibility based on age or birthplace, election results, or census participation that contradicts official government records. It also includes incorrect claims that a political figure or government official has died, been involved in an accident or is suffering from a sudden serious illness
+*   Misleading content related to harmful conspiracy theories: content that promotes or lends credibility to beliefs that individuals or groups are systematically committing acts that cause widespread harm. This content is contradicted by substantial evidence and has resulted in or incites violence.
+*   Misleading content related to harmful health practices: misleading health or medical content that promotes or encourages others to engage in practices that may lead to serious physical or emotional harm to individuals, or serious public health harm.
+*   Manipulated media: media that has been technically manipulated or doctored in a way that misleads users and may pose a serious risk of egregious harm.  
+     
 
 Non-consensual explicit imagery (NCEI)
 
@@ -104,7 +102,13 @@ Do not abuse this product and do not harm, degrade or negatively affect the oper
 
 Violent organisations and movements
 
-Terrorist organisations are not permitted to use this product for any purpose, including recruitment. We’ll also take action against the user for content related to terrorism, such as promoting terrorist acts, inciting violence or celebrating terrorist attacks. If storing or distributing content related to terrorism for an educational, documentary, scientific or artistic purpose, be mindful to provide enough information so that viewers understand the context.
+Known violent non-state organisations and movements are not permitted to use this product for any purpose. 
+
+Do not distribute content that facilitates or promotes the activities of these groups, such as recruiting,  coordinating online or offline activities, sharing manuals or other materials that could facilitate harm, promoting ideologies of violent non-state organisations, promoting terrorist acts, inciting violence, or celebrating attacks by violent non-state organisations. 
+
+Depending upon the content, we may also take action against the user. 
+
+Content related to violent non-state organisations may be allowed in an educational, documentary, scientific or artistic context, but please be mindful to provide enough information to help people understand the context.
 
 Unauthorised images of minors
 
