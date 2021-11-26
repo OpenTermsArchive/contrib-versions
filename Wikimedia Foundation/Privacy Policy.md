@@ -324,7 +324,7 @@ Except as otherwise stated in this Policy, we only keep your Personal Informatio
 
 Once we receive Personal Information from you, we keep it for the shortest possible time that is consistent with the maintenance, understanding, and improvement of the Wikimedia Sites, and our obligations under applicable law. In most instances, Personal Information is deleted, aggregated or de-identified after 90 days. Non-Personal Information may be retained indefinitely as appropriate. (Check out the list of examples in our [FAQ](https://foundation.wikimedia.org/wiki/Privacy_policy/FAQ#datatimeexamplesFAQ "Privacy policy/FAQ").)
 
-Please remember that when you make a contribution to any Wikimedia Site, the page history will show when your contribution was made, your username (if you are signed in), or your [IP address](https://foundation.wikimedia.org/wiki/Privacy_policy/Glossary_of_key_terms#Internet_Protocol_Address "Privacy policy/Glossary of key terms") (if you edit while not logged in). The transparency of the projects' contribution and revision histories is critical to their efficacy and trustworthiness. To learn more about our data retention practices, see our [data retention guidelines](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Data_retention_guidelines "Special:MyLanguage/Data retention guidelines (page does not exist)").
+Please remember that when you make a contribution to any Wikimedia Site, the page history will show when your contribution was made, your username (if you are signed in), or your [IP address](https://foundation.wikimedia.org/wiki/Privacy_policy/Glossary_of_key_terms#Internet_Protocol_Address "Privacy policy/Glossary of key terms") (if you edit while not logged in). The transparency of the projects' contribution and revision histories is critical to their efficacy and trustworthiness. To learn more about our data retention practices, see our [data retention guidelines](https://meta.wikimedia.org/wiki/Special:MyLanguage/Data_retention_guidelines "m:Special:MyLanguage/Data retention guidelines").
 
 ### Your rights
 
@@ -402,7 +402,7 @@ Thank you for reading our Privacy Policy. We hope you enjoy using the Wikimedia 
 
 * * *
 
-This version was approved by [Amanda Keton](https://foundation.wikimedia.org/w/index.php?title=Amanda_Keton&action=edit&redlink=1 "Amanda Keton (page does not exist)") on June 7, 2021, pursuant to the [Delegation of policy-making authority](https://foundation.wikimedia.org/wiki/Resolution:Delegation_of_policy-making_authority "Resolution:Delegation of policy-making authority") by the Board, and went into effect on June 25, 2021. Previous versions can be found below:
+This version was approved by [Amanda Keton](https://meta.wikimedia.org/wiki/User:AKeton_(WMF) "m:User:AKeton (WMF)") on June 7, 2021, pursuant to the [Delegation of policy-making authority](https://foundation.wikimedia.org/wiki/Resolution:Delegation_of_policy-making_authority "Resolution:Delegation of policy-making authority") by the Board, and went into effect on June 25, 2021. Previous versions can be found below:
 
 *   **[Privacy Policy (May 2018 - June 2021)](https://foundation.wikimedia.org/wiki/Special:PermanentLink/126409 "Special:PermanentLink/126409"): effective from May 24, 2018 until June 24, 2021**
 *   **[Privacy policy (June 2014 - May 2018)](https://foundation.wikimedia.org/wiki/Special:PermanentLink/113231 "Special:PermanentLink/113231"): effective from June 6, 2014 until May 24, 2018**
@@ -419,4 +419,4 @@ Privacy policy **·** [FAQ](https://foundation.wikimedia.org/wiki/Privacy_policy
 
 ![](//foundation.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
 
-Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Privacy\_policy&oldid=130943](https://foundation.wikimedia.org/w/index.php?title=Privacy_policy&oldid=130943)"
+Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Privacy\_policy&oldid=131827](https://foundation.wikimedia.org/w/index.php?title=Privacy_policy&oldid=131827)"
