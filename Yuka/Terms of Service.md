@@ -3,7 +3,7 @@ End User License Agreement
 
 ![Benoit](https://files.helpdocs.io/n0njida9x8/other/1574088362284/03-mg-1925-1.jpg)
 
-Updated 3 days ago by Benoit
+Updated 4 days ago by Benoit
 
 The Yuka App is managed by the company Yuca SAS (hereafter “Yuca”), located at 14 rue de Turbigo 75001 Paris, France (R.C.S. Paris no. 817 769 466)
 
