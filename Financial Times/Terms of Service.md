@@ -199,22 +199,18 @@ You may also use your [regional telephone number](https://help.ft.com/contact/)
 5\. Limitation on our Liability
 -------------------------------
 
-**5.1. FT makes no warranty, express or implied, regarding your Subscription, FT.com, FT Content or FT Services, which are provided &quot;as is&quot;. We expressly disclaim all warranties to the extent permitted by law, including but not limited to warranties of fitness for a particular purpose.**
+**5.1. FT makes no warranty, express or implied, regarding your Subscription, FT.com, FT Content or FT Services, which are provided 'as is'. We expressly disclaim all warranties to the extent permitted by law, including but not limited to warranties of fitness for a particular purpose.**
 
-**5.2. Except for any legal responsibility that we cannot limit or exclude in law (such as for death or personal injury), in the event that you suffer any losses arising in connection with your Subscription, or your use of FT.com, FT Content or FT Services:**
-
-**(a)  our total liability to you shall not exceed the total sums paid by you for your current Subscription; and   
-(b)  we shall not be liable or legally responsible in any way (whether in contract, tort (including negligence) or otherwise) for:** 
-
- **(i) any loss that was not foreseeable to you or the FT when the contract was formed;  
+**5.2. Except for any legal responsibility that we cannot limit or exclude in law (such as for death or personal injury), in the event that you suffer any losses arising in connection with your Subscription, or your use of FT.com, FT Content or FT Services:  
+(a)  our total liability to you shall not exceed the total sums paid by you for your current Subscription; and   
+(b)  we shall not be liable or legally responsible in any way (whether in contract, tort (including negligence) or otherwise) for:** **(i) any loss that was not foreseeable to you or the FT when the contract was formed;  
                (ii) any loss that was not caused by any breach on FT’s part;  
                (iii) any business loss (including business interruption, or loss of revenues, sales or business opportunity);  
                (iv) any loss of profits, anticipated savings, goodwill, reputation, or data;  
                (v) any loss of use or corruption of software or technical equipment;  
                (vi) any loss to non-consumers; and  
-               (vii) any indirect or consequential loss**
-
-**in each case even if we have been advised that such damages may arise.**
+               (vii) any indirect or consequential loss  
+in each case even if we have been advised that such damages may arise.**
 
 **5.3.** The limitations of liability in this section 5 apply for the benefit of FT, its affiliates, including those listed in section 6 and all of their respective officers, directors, employees, agents or any company who we transfer our rights and obligations to in accordance with these terms and conditions.
 
