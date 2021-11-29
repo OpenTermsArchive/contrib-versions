@@ -11,7 +11,8 @@ If your business either has a physical location that customers can visit, or tra
 
 To maintain high quality information on Google, follow this list of guidelines for local businesses. These guidelines can help you avoid common problems, including changes to your information or, in some cases, removal of your business information from Google.
 
-*   For the best results managing your Business Profile:
+For the best results managing your Business Profile:
+
 *   Represent your business as it’s consistently represented and recognised in the real world across signage, stationery and other branding.
 *   Make sure that your address and/or service area is accurate and precise.
 *   Choose the fewest number of categories that it takes to describe your overall core business.
