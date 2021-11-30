@@ -147,7 +147,15 @@ Open all Close all
     
     This applies to information we collect as part of providing broadband Internet access services to you.  
     
-    We will obtain your affirmative consent before using [information about your visits](#) over time to different non-Verizon websites to customize ads specifically to you. One such program is [Verizon Selects.](https://www.verizon.com/about/privacy/full-privacy-policy#acc-item-32) 
+    Our Custom Experience program uses information about [websites you visit and apps you use](#) on your mobile device to help us better personalize our communications with you, give you more relevant product and service recommendations, and develop plans, services, and offers that are more appealing to you. You are included in the program [unless you opt out.](https://www.verizon.com/about/privacy/full-privacy-policy#acc-item-34)
+    
+    Websites you visit and apps uou Use
+    
+    We use only the first part of the web addresses (URLs) you visit (the part that includes the top level domain and subdomain of the URL); we do not useinformation past the first “/” or “?” in the URL
+    
+    Our Custom Experience Plus program (formerly called Verizon Selects) uses a broader set of information for the same purposes including information about websites you visit and apps you use, your Verizon Fios services, location information, and Customer Proprietary Network Information, including phone numbers you call or those that call you. You must [opt in to be part of this program](https://www.verizon.com/about/privacy/full-privacy-policy#acc-item-34). 
+    
+    More information about our Custom Experience programs is available in our [program FAQs](https://www.verizon.com/support/verizon-custom-experience-programs-faqs).
     
     ### We use some types of information for additional purposes:
     
@@ -245,7 +253,7 @@ Open all Close all
     
     For example, the [Digital Advertising Alliance](https://digitaladvertisingalliance.org/) enforces responsible privacy practices for users and providers of interest-based advertising. These practices include offering enhanced transparency and control to consumers.  
     
-    You can visit the industry-wide [Digital Advertising Alliance opt-out page](https://www.aboutads.info/) to learn more and opt-out. Alternatively, you will see an [icon](#) ad choices icon in or around online advertisements placed using interest-based advertising techniques. You can click on the icon to learn more and opt out. Similarly, you can opt out of this type of advertising on your mobile device by going to settings and selecting "Limit Ad Tracking" or "Opt out of Interest-Based Ads.”
+    You can visit the industry-wide [Digital Advertising Alliance opt-out page](https://www.aboutads.info/) to learn more and opt-out. Alternatively, you will see an [icon](#) ad choices icon in or around online advertisements placed using interest-based advertising techniques. You can click on the icon to learn more and opt out. Similarly, you have choices about this type of advertising on your mobile device  Apple devices allow apps to include interest-based advertising only if you opt in using the app’s pop-up notice. You can change your choice using Apple device settings. On Android devices, you can opt out using your device setting to “Opt out of Ads Personalization.”
     
     icon
     
@@ -352,7 +360,7 @@ Open all Close all
     
     ](#acc-item-32)
     
-    ### Our advertising programs make the ads you see more personalized and useful.
+    ### Our advertising programs make ads you see more personalized and useful.
     
     The programs described here use information to predict whether you fit within an audience an advertiser is trying to reach and help them show relevant advertising to you. The programs may also measure advertising campaign effectiveness. [You can opt out of participating in these programs.](https://www.verizon.com/about/privacy/full-privacy-policy#acc-item-34)
     
@@ -441,10 +449,6 @@ Open all Close all
     
     Insights are observations about groups of people that can be used to better understand consumer actions. For example, we may create insights about the number of customers in different age groups who visit a website, use an app, or go to a retail store or stadium. We also can develop insights to help estimate traffic patterns about people who move from one area to another during the morning rush hour.
     
-    ### The Verizon Selects program helps personalize content and ads you see.
-    
-    Verizon Selects helps Verizon personalize your experiences and make advertising you see more useful to you. We also use program information to measure advertising effectiveness, and to better understand our customers. You must opt-in to participate in Selects. More details about the program and the information it uses are available in the [Verizon Selects FAQs.](https://www.verizonwireless.com/support/verizon-selects-faqs/)
-    
     ### Our Identity Verification Service helps protect you against fraud.
     
     We share certain Verizon Wireless account, device and profile data with third parties to help them verify your identity on behalf of companies with which you do business to help protect you against theft and account takeover. Companies that receive information from us to provide identity verification services are contractually required to protect the information and use it only for providing those services. [You have a choice about participating.](https://www.verizon.com/about/privacy/full-privacy-policy#acc-item-34)
@@ -506,6 +510,16 @@ Open all Close all
     
     Here is an example of a [CPNI notice](https://www.verizon.com/about/privacy/customer-proprietary-network-information) we send to customers.  
     
+    ### You have choices about participating in Verizon programs that use web browsing and other information to personalize your experiences with us.
+    
+    **Custom Experience**
+    
+    You will be part of the Custom Experience program unless you opt out. You can opt out on the My Verizon site or in your My Verizon app by accessing [privacy preferences.](http://go.vzw.com/ce)
+    
+    **Custom Experience Plus**
+    
+    You must opt in to the Custom Experience Plus program to be a part of it and you can change your choice at any time on the My Verizon site or in your My Verizon app by accessing [privacy preferences.](http://go.vzw.com/ce)
+    
     ### You have choices about advertising, insights, verification and audience measurement services.
     
     **Relevant Online Advertising**  
@@ -525,9 +539,6 @@ Open all Close all
     *   Select the Manage TV Advertising Preferences link within My TV Service
     
     You will need your user ID and password to access your online account.
-    
-    **Verizon Selects**  
-    Update your preferences at the [Verizon Selects Preference Center](https://myvpostpay.verizonwireless.com/vzw/secure/mcm/mcmDisplayPreferences.action).
     
     **Business and Marketing Insights program**  
     Account owners can update preferences for each line on their account using the [privacy choices page in My Verizon](http://verizonwireless.com/myprivacy) or in the My Verizon app; or by calling 1-866-211-0874.
@@ -687,9 +698,7 @@ Open all Close all
     
     We do not sell information that personally identifies you such as your name, telephone number, mailing address or email address. We may share that type of information with directory publishers and for caller ID purposes, excluding customers who have subscribed (at no charge) to unlisted or unpublished numbers.  
     
-    We allow third-party advertising companies to collect information about your activity on our websites and in our apps, for example through [cookies and similar technologies,](https://www.verizon.com/about/privacy/cookies)  mobile ad identifiers, pixels, web beacons and social network plugins. These ad entities use information they collect to help us provide more relevant Verizon advertisements and other advertising purposes. This activity may be considered a sale under the CCPA. Visit [Digital Advertising Alliance Consumer Choice](https://youradchoices.com/control) to learn more about how you can limit this type of advertising. You can opt out of this type of advertising in your apps using your device settings to “Limit Ad Tracking” (for iOS devices) or “Opt out of Ads Personalization” (on Android devices).
-    
-    We also share certain customer information with third parties as part of our Relevant Online Advertising program available to our wireline high-speed Internet customers. The program helps make online ads more interesting and useful. Since January 1, 2020, we have removed customers with California billing addresses from this program.
+    We allow third-party advertising companies to collect information about your activity on our websites and in our apps, for example through [cookies and similar technologies,](https://www.verizon.com/about/privacy/cookies)  mobile ad identifiers, pixels, web beacons and social network plugins. These ad entities use information they collect to help us provide more relevant Verizon advertisements and other advertising purposes. This activity may be considered a sale under the CCPA. Visit [Digital Advertising Alliance Consumer Choice](https://youradchoices.com/control) to learn more about how you can limit this type of advertising. You also have choices aboutt this type of advertising on your mobile device. Apple devices allow apps to include interest-based advertising only if you opt in using the app’s pop-up notice. You can change your choice using Apple device settings. On Android devices, you can opt out using your device setting to “Opt out of Ads Personalization.”
     
     **Your right to not be discriminated against.** We do not [discriminate](#) against you if you exercise any rights described in this section.
     
@@ -797,7 +806,7 @@ Open all Close all
     
     We may make changes to this privacy policy, so please check back periodically. You will be able to see that we made changes by checking the effective date below. You can also read about [recent changes](https://www.verizon.com/about/privacy/changes-privacy-policy) . If we decide to use or disclose information that identifies you personally in a way that is materially different from what we stated in our privacy policy at the time we collected that information from you, we will give you a choice about the new use or disclosure by appropriate means, which may include an opportunity to opt-out.
     
-    Updated August, 2021
+    Updated November, 2021
     
     © 2021 Verizon. All rights reserved.
     
