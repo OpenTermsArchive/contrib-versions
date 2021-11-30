@@ -1,7 +1,7 @@
 Vinted Privacy Policy
 =====================
 
-Date last updated: 2021-11-09
+Date last updated: 2021-11-30
 
 When it comes to your personal data, safety and transparency take top priority here at Vinted. To help you understand what information we collect about you, how we use it and what rights you have, we’ve prepared this detailed Privacy Policy.
 
@@ -24,7 +24,7 @@ When it comes to your personal data, safety and transparency take top priority h
 1\. General
 ===========
 
-This Privacy Policy applies to the online platform Vinted (“**Website**”) and to the associated app (“**App**”).
+This Privacy Policy applies to the online platform Vinted (“**Website**”) and to the associated app (“**App**”) intended for United States users.
 
 The platform is operated by Vinted Inc., a company registered in Delaware, with business location at C/o AG Accounting 735 Geary St. #303 San Francisco, CA 94109. The operator is further referred to as “Us”, “We” or “Vinted”. More details about how to get in contact with us can be found at the end of this Privacy Policy under No. 7.
 
