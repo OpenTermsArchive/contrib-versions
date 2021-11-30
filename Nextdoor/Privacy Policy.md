@@ -249,7 +249,7 @@ We may make changes to this Privacy Policy from time to time, so please review i
 
 If you reside in Australia, contact us at Nextdoor Australia Pty Ltd, Level 33, Australia Square 264 George Street Sydney, New South Wales 2000 Australia. Email: privacy@nextdoor.com.
 
-If you reside in Canada, contact us at Nextdoor Canada Ltd, 1 Yonge Street Suite 1801 Toronto, Ontario M5E 1W7. Email: privacy@nextdoor.com.
+If you reside in Canada, contact us at Nextdoor Canada Ltd, 18 King Street East, Suite 1400, Toronto, Ontario M5C 1C4. Email: privacy@nextdoor.com.
 
 If you reside in the United Kingdom, the Services are operated and provided to you by Nextdoor Europe UK Ltd., C/O Legalinx Limited, 3rd Floor, 207 Regent Street, London, W1B 3HH. You may reach our Data Protection Officer at dpo@nextdoor.com.
 
