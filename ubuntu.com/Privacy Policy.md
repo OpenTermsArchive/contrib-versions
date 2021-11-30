@@ -355,6 +355,7 @@ The open source software platform that runs everywhere from the smartphone, the 
     *   [Automotive](https://ubuntu.com/automotive)
     *   [EdgeX](https://ubuntu.com/internet-of-things/edgex)
     *   [Networking](https://ubuntu.com/internet-of-things/networking)
+    *   [Smart city](https://ubuntu.com/internet-of-things/smart-city)
 *   [Raspberry Pi](https://ubuntu.com/raspberry-pi)
     -----------------------------------------------
     
