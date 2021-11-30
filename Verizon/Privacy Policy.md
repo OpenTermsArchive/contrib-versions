@@ -514,11 +514,11 @@ Open all Close all
     
     **Custom Experience**
     
-    You will be part of the Custom Experience program unless you opt out. You can opt out on the My Verizon site or in your My Verizon app by accessing [privacy preferences.](http://go.vzw.com/ce)
+    You will be part of the Custom Experience program unless you opt out. You can opt out on the My Verizon site or in your My Verizon app by accessing [privacy preferences.](https://myvpostpay.verizon.com/ui/acct/secure/profile/privacypreferences)
     
     **Custom Experience Plus**
     
-    You must opt in to the Custom Experience Plus program to be a part of it and you can change your choice at any time on the My Verizon site or in your My Verizon app by accessing [privacy preferences.](http://go.vzw.com/ce)
+    You must opt in to the Custom Experience Plus program to be a part of it and you can change your choice at any time on the My Verizon site or in your My Verizon app by accessing [privacy preferences.](https://myvpostpay.verizon.com/ui/acct/secure/profile/privacypreferences)
     
     ### You have choices about advertising, insights, verification and audience measurement services.
     
@@ -541,7 +541,7 @@ Open all Close all
     You will need your user ID and password to access your online account.
     
     **Business and Marketing Insights program**  
-    Account owners can update preferences for each line on their account using the [privacy choices page in My Verizon](http://verizonwireless.com/myprivacy) or in the My Verizon app; or by calling 1-866-211-0874.
+    Account owners can update preferences for each line on their account using the [privacy choices page in My Verizon](https://myvpostpay.verizon.com/ui/acct/secure/profile/privacypreferences) or in the My Verizon app; or by calling 1-866-211-0874.
     
     **Identity Verification service**  
     If you do not want your information shared with third parties for the purpose of verifying your identity, you can go online to My Verizon -> My Profile -> Privacy Settings. If you opt out, your information will not be sent to companies who participate in this program.
