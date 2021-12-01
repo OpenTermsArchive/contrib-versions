@@ -717,7 +717,7 @@ We rely on personal information to make automated decisions, such as providing t
 
 #### How to exercise your rights
 
-If you want to exercise your right of access or erasure under the Personal Information Protection Law (PIPL), please fill out our form :[Data Subject Request for Booking.com customers](https://www.booking.com/content/dsar.en-gb.html?label=removedB;sid=removed).
+If you want to exercise your right of access or erasure under the Personal Information Protection Law (PIPL), please fill out our form: [Data Subject Request for Booking.com customers](https://www.booking.com/content/dsar.en-gb.html?label=removedB;sid=removed).
 
 To otherwise exercise these or any of your other rights under PIPL, or to contact us about this Privacy Statement and our practices, you can email us at [dataprotectionoffice@booking.com](javascript:location='mailto:/u0064/u0061/u0074/u0061/u0070/u0072/u006f/u0074/u0065/u0063/u0074/u0069/u006f/u006e/u006f/u0066/u0066/u0069/u0063/u0065/u0040/u0062/u006f/u006f/u006b/u0069/u006e/u0067/u002e/u0063/u006f/u006d';void 0). Please use the subject line: ‘China PIPL Privacy Rights - Request’.
 
