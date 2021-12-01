@@ -1,5 +1,6 @@
-A helpful home is a private home.
-=================================
+A helpful home is  
+a private home.
+===================================
 
 Your home is a special place. You want to trust the things you bring into your home. And we’re committed to earning that trust with devices and services designed to help create a home that takes care of the people inside it and the world around it.
 
@@ -106,7 +107,7 @@ We employ many layered defenses to protect users, however, technology changes an
 
 ### How do I know if my device is getting updates?
 
-We will publish a [list of Google devices](https://support.google.com/product-documentation/answer/10231940) showing the minimum committed date range for [critical security updates](https://support.google.com/product-documentation/answer/10231940).
+We publish a [list of Google devices](https://support.google.com/product-documentation/answer/10231940) showing the minimum committed date range for [critical security updates](https://support.google.com/product-documentation/answer/10231940).
 
 ### What is outside the scope of security updates?
 
