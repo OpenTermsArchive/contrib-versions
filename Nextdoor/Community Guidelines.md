@@ -4,9 +4,9 @@ Community Guidelines
 We’re glad you’re here. 
 ------------------------
 
-We want everyone to feel welcome on Nextdoor, and we have created these Guidelines to define the values of the community we want to build. On Nextdoor, you’re connected not by a shared preference, but a shared connection to a place — your neighbourhood. Let’s build a strong one together.  
-  
-**![](https://lh6.googleusercontent.com/eRf8NJ4kT-uJes7NKRk-YsTkJWK7plddHcupr0arNjvEIPudFpLaT_kt9Y2usEKWuAzuc0nvbv_C0GmmG0sPhlF1rRqHkPNz2yMBJpHWJE5vNJwE0EBCOIdPKJvlR-szC63yjPBc)**
+We want everyone to feel welcome on Nextdoor, and we have created these Guidelines to define the values of the community we want to build. On Nextdoor, you’re connected not by a shared preference, but a shared connection to a place — your neighbourhood. Let’s build a strong one together.
+
+![](https://lh3.googleusercontent.com/8J9_m2GSQOQGAg-QW3t-Im1OICrA0gCNp_CvllFtLkXbU7_C_5bQSKJemGwYms3yFCcnKMQ1j-qM9_Kaxr3mJLXUduNsz51dgFQJUEJax46155BBurreGW581i5LKvrrx-VYNvgu)
 
   
 [1\.](https://help.nextdoor.com/s/article/Be-respectful-to-your-neighbors?language=en_GB) [Be respectful to your neighbours](http://help.nextdoor.com/s/article/Be-respectful-to-your-neighbors?language=en_GB)
@@ -45,7 +45,8 @@ Nextdoor is built on trust — we want everyone to know they’re communicating 
 We prohibit any activity that could hurt someone, from physical harm to scams.  
  
 
-You, our neighbours who make up Nextdoor, play a key role in neighbourhood [moderation](https://help.nextdoor.com/s/article/About-moderation?language=en_GB) by reporting content or neighbours that violate these Guidelines. Please remember that disagreeing with a post is not a reason to report it. This slows down our ability to remove content that is truly abusive and to create a platform where everyone feels welcome.
+You, our neighbours who make up Nextdoor, play a key role in neighbourhood [moderation](https://help.nextdoor.com/s/article/About-moderation?language=en_GB) by reporting content or neighbours that violate these Guidelines. Please remember that disagreeing with a post is not a reason to report it. This slows down our ability to remove content that is truly abusive and to create a platform where everyone feels welcome.  
+ 
 
 **ADDITIONAL POLICY RESOURCES** 
 
