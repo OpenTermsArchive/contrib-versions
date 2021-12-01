@@ -442,11 +442,11 @@ Managing Directors: Robert Hoffmann, Carsten Höltkemeyer
 
 Phone: +49 (0)69 7922 0  
 Fax: +49 (0)69 7922 4500  
-service@concardis.com  
-https://www.concardis.com/de-en/
+[service@concardis.com](mailto:service@concardis.com)   
+[https://www.concardis.com/de-en/](https://www.concardis.com/de-en/) 
 
 Privacy Policy:  
-https://www.concardis.com/de-en/protecting-your-data
+[https://www.concardis.com/de-en/protecting-your-data](https://www.concardis.com/de-en/protecting-your-data) 
 
 **4.8** Depending on the agreement reached between XING and the respective organiser, the fees for processing ticket sales shall be added on to the ticket price and listed separately during the ticket shop order process. The total purchase price may increase due to any supplementary products or services the ticket buyer has booked. Any charges or currency fluctuations that occur in connection with foreign transactions shall be borne by the participant. The ticket shop will state whether the ticket price is inclusive or exclusive of VAT.
 
