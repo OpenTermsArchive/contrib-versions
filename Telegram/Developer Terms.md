@@ -21,7 +21,7 @@ We welcome all developers to use our API and source code to [create Telegram-lik
 
 **3.1.** Developers are allowed to monetize their coding efforts through advertising or other legitimate means.  
 **3.2.** If you decide to monetize your app, you must clearly mention all the methods of monetization that are used in your app in all its app store descriptions.  
-**3.3.** Developers must include support for [official sponsored messages](https://promote.telegram.org/) in Telegram channels and may not interefere with this functionality.
+**3.3.** If your app allows accessing content from Telegram [channels](https://telegram.org/tour/channels), you must include support for [official sponsored messages](https://promote.telegram.org/) in Telegram channels and may not interefere with this functionality.
 
 #### [](#4-breach-of-terms)4\. Breach of terms
 
