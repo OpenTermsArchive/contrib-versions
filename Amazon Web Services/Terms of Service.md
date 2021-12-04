@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-#### Last Updated: November 24, 2021
+#### Last Updated: December 3, 2021
 
 #### 1\. Universal Service Terms (Applicable to All Services)
 
@@ -85,23 +85,29 @@ You must own or have all necessary rights to use any domain name or SSL certific
 
 #### 4\. AWS Outposts
 
-**4.1.** Outposts Equipment. AWS will make equipment available to you to support your use of the AWS Outposts Service (the “Outposts Equipment”). AWS or its affiliates maintain all rights in the Outposts Equipment and is not selling, renting, leasing, or transferring any ownership, intellectual or other rights in the Outposts Equipment to you. You will not, and will not purport to, assign, grant, or transfer the Outposts Equipment or any interest in the Outposts Equipment to any individual or entity, and any such purported assignment, grant or transfer is void.
+**4.1**. “AWS Outposts” includes AWS Outposts racks and AWS Outposts servers.
 
-**4.2.** Facility Assessment. You will ensure that, at all times, the facility at which the Outposts Equipment is located (the “Designated Facility”) meets the minimum requirements necessary to support the installation, maintenance, use, and removal of the Outposts Equipment as described [here](https://docs.aws.amazon.com/outposts/latest/userguide/outposts-requirements.html) and otherwise as described in the Outposts Documentation or provided to you during the ordering and installation process.
+**4.2.** Outposts Equipment. AWS will make equipment available to you to support your use of the AWS Outposts Service (the “Outposts Equipment”). AWS or its affiliates maintain all rights in the Outposts Equipment and is not selling, renting, leasing, or transferring any ownership, intellectual or other rights in the Outposts Equipment to you. You will not, and will not purport to, assign, grant, or transfer the Outposts Equipment or any interest in the Outposts Equipment to any individual or entity, and any such purported assignment, grant or transfer is void.
 
-**4.3.** Delivery and Use. You will ensure that you have all necessary rights, certifications, and licenses for the delivery, installation, maintenance, use, and removal of the Outposts Equipment at the Designated Facility. You are responsible for any damage to the Outposts Equipment while it is at the Designated Facility, unless caused by AWS. AWS may terminate your use of Outposts and remove the Outposts Equipment if you breach these terms or the terms of the Agreement with respect to Outposts.
+**4.3.** Facility Assessment. You will ensure that, at all times, the facility at which the Outposts Equipment is located (the “Designated Facility”) meets the minimum requirements necessary to support the installation, maintenance, use, and removal of the Outposts Equipment as described [here](https://docs.aws.amazon.com/outposts/latest/userguide/outposts-requirements.html) and otherwise as described in the Outposts Documentation or indicated to you during the ordering and installation process.
 
-**4.4.** Access to Outposts Equipment. You will give personnel designated by AWS prompt and reasonable access to the Designated Facility as necessary to deliver, install, inspect, maintain, and remove the Outposts Equipment. You will not require AWS personnel to sign, accept, or otherwise agree to any documentation as a condition of accessing the Designated Facility, and you agree that the terms of any such documentation are void even if signed by AWS personnel. You will ensure that no one accesses, moves, or repairs the Outposts Equipment other than (i) personnel designated by AWS, (ii) as permitted in writing by AWS in connection with the maintenance of Outposts Equipment, or (iii) as necessary due to a situation involving imminent injury, damage to property, or an active fire alarm system. You will ensure that no one modifies, alters, reverse engineers, or tampers with the Outposts Equipment. You acknowledge that the Outposts Equipment may be equipped with tamper monitoring.
+**4.4.** Delivery and Use. You will ensure that you have all necessary rights, certifications, and licenses for the delivery, installation, maintenance, use, and removal of the Outposts Equipment at the Designated Facility. You are responsible for any damage to the Outposts Equipment while it is at the Designated Facility, unless caused by AWS. AWS may terminate your use of AWS Outposts and remove the Outposts Equipment if you breach these terms or the terms of the Agreement with respect to AWS Outposts.
 
-**4.5.** Enterprise Support. You will remain enrolled in AWS Support at the Enterprise level during the entire period of your use of Outposts.
+**4.5.** Access to Outposts Equipment. You will give personnel designated by AWS prompt and reasonable access to the Designated Facility as necessary to deliver, install, inspect, maintain, and remove the Outposts Equipment. You will not require AWS personnel to sign, accept, or otherwise agree to any documentation as a condition of accessing the Designated Facility, and you agree that the terms of any such documentation are void even if signed by AWS personnel. You will ensure that no one accesses, moves, or repairs the Outposts Equipment other than (i) personnel designated by AWS, (ii) as permitted in writing by AWS in connection with the maintenance of Outposts Equipment, or (iii) as necessary due to a situation involving imminent injury, damage to property, or an active fire alarm system. You will ensure that no one modifies, alters, reverse engineers, or tampers with the Outposts Equipment. You acknowledge that the Outposts Equipment may be equipped with tamper monitoring.
 
-**4.6.** Services/SLAs/Security. The Service Terms for any Services that run locally on Outposts also apply to your use of those Services on Outposts. There are inherent differences between Services running locally on Outposts from those Services running at AWS operated facilities because the Outposts Equipment is physically located at the Designated Facility where you are responsible for physical security and access controls, as well as all power, networking, and environmental conditions. Due to these differences:
+**4.6.** Enterprise Support. You will remain enrolled in AWS Support at the Enterprise level during the entire period of your use of Outposts.
 
-a. The Service Level Agreements for any Services that run locally on Outposts do not apply to your use of those Services on Outposts.
+**4.7.** Services/SLAs/Security. The Service Terms for any Services that run locally on AWS Outposts also apply to your use of those Services on AWS Outposts. There are inherent differences between Services running locally on AWS Outposts from those Services running at AWS operated facilities because the Outposts Equipment is physically located at the Designated Facility where you are responsible for physical security and access controls, as well as all power, networking, and environmental conditions. Due to these differences:
 
-b. Any AWS commitments in the Agreement that depend on AWS’s operation of such physical security and access controls, or power, networking, and environmental conditions, do not apply to Outposts or any Services running locally on Outposts.
+a. The Service Level Agreements for any Services that run locally on AWS Outposts do not apply to your use of those Services on AWS Outposts.
 
-c. The specific compliance and assurance programs for which Outposts are in scope are listed [here](https://aws.amazon.com/compliance/services-in-scope/). For other Services listed [here](https://aws.amazon.com/compliance/services-in-scope/), those Services are not in scope when running locally on Outposts unless Outposts is also separately listed for the specific compliance or assurance program.
+b. Any AWS commitments in the Agreement that depend on AWS’s operation of such physical security and access controls, or power, networking, and environmental conditions, do not apply to AWS Outposts or any Services running locally on AWS Outposts.
+
+c. The specific compliance and assurance programs for which AWS Outposts are in scope are listed [here](https://aws.amazon.com/compliance/services-in-scope/). For other Services listed [here](https://aws.amazon.com/compliance/services-in-scope/), those Services are not in scope when running locally on AWS Outposts unless AWS Outposts is also separately listed for the specific compliance or assurance program.
+
+**4.8.** AWS Outposts servers
+
+**4.8.1.** Installation, Use, and Removal. You are responsible for the installation, use, and removal of the AWS Outposts servers at the Designated Facility and returning the Outposts Equipment to AWS as described in the Outposts Documentation or as otherwise indicated to you during the ordering process. In addition to other rights and remedies AWS may have under the Agreement, AWS may charge you a lost device fee if the Outposts Equipment is lost between when it is first in your possession and when the carrier accepts the Outposts Equipment for delivery back to AWS. You must notify and obtain AWS’s consent before moving the Outpost Equipment from the Designated Facility.  
 
 #### 5\. Amazon Elastic Compute Cloud
 
@@ -184,7 +190,7 @@ Amazon CloudWatch collects and stores certain information for the Services you a
 
 **9.6.** You are responsible for payment of all customs, duties, taxes, and other charges in connection with Media and Appliances being shipped to or from us.
 
-**9.7.** For AWS Import/Export Disk, you will bear the entire risk of loss of, or damage to, any Media while in transit. For AWS Snowball and AWS Snowcone, you are responsible for any damage to, or loss of, an Appliance after delivery to you until the carrier accepts the Appliance for delivery back to us. In addition to other rights and remedies we may have under the Agreement, we may charge you the applicable lost device fee specified on the AWS Snowball or AWS Snowcone pricing pages if: (a) an Appliance is lost or irreparably damaged after it has been provided to you until the carrier accepts the Appliance for delivery back to us; or (b) unless otherwise contemplated by the Documentation or agreed by us, you do not provide the Appliance to the carrier for return to us within 90 days of the date it was delivered to you.
+**9.7.** For AWS Import/Export Disk, you will bear the entire risk of loss of, or damage to, any Media while in transit. For AWS Snowball and AWS Snowcone, you are responsible for any damage to, or loss of, an Appliance after delivery to you until the carrier accepts the Appliance for delivery back to us. In addition to other rights and remedies we may have under the Agreement, we may charge you the applicable lost device fee specified on the AWS Snowball or AWS Snowcone pricing pages if: (a) an Appliance is lost or irreparably damaged between when it is first in your possession and when the carrier accepts the Appliance for delivery back to us; or (b) unless otherwise contemplated by the Documentation or agreed by us, you do not provide the Appliance to the carrier for return to us within 90 days of the date it was delivered to you.
 
 **9.8.** YOU ARE SOLELY RESPONSIBLE FOR APPLYING APPROPRIATE SECURITY MEASURES TO YOUR DATA AND YOUR USE OF MEDIA, APPLIANCES AND SNOWMOBILE MATERIALS, INCLUDING ENCRYPTING SENSITIVE DATA AND NOT ALLOWING UNAUTHORIZED ACCESS TO ANY MEDIA, APPLIANCE OR SNOWMOBILE MATERIALS.
 
@@ -239,6 +245,7 @@ Your failure to maintain your database instance within the support perimeter (as
 **10.5.2.** Your use of certain database engines or operating systems (OS) software (including related documentation) made available to you for use with RDS Custom is subject to the applicable third party licensing requirements specified below:
 
 *   Use of a Linux OS version, such as those from Red Hat, Inc., SUSE LLC, and NVIDIA Corporation, on RDS Custom is subject to Section 5.2. above.
+*   Use of “License Included” Microsoft Software on RDS Custom is subject to Sections 5.1. and 10.4. above.
 
 #### 11\. Amazon Simple Notification Service (Amazon SNS)
 
@@ -505,13 +512,25 @@ The AWS Database Migration Service (which includes the AWS Schema Conversion Too
 
 You must have all necessary rights to use any domain name that you use in conjunction with AWS Amplify.
 
-#### 39\. AWS IoT
+#### 39\. AWS IoT Services
 
-**39.1.** Device Shadow data for an individual device may be deleted if you do not update the Device Shadow data for an individual device within any given 12-month period. Device Registry data for an individual device may be deleted if you do not update the Registry data for an individual device within any given 7-year period. Once Device Shadow or Registry data has been updated for an individual device the data restriction time frame for that individual device resets, and the Device Shadow and Registry data storage time frame for an individual device starts over.
+**39.1. “AWS IoT Services”** means AWS IoT Core, AWS IoT Device Management, AWS IoT Device Defender, AWS IoT 1-Click, AWS IoT Events, AWS IoT Analytics, AWS IoT SiteWise, AWS IoT FleetWise (Preview), AWS IoT TwinMaker (Preview), FreeRTOS, AWS IoT ExpressLink (Preview), AWS IoT Greengrass, and AWS IoT RoboRunner (Preview).
 
-**39.2.** You are responsible for the creation, distribution, and security (including enabling of access) of any IoT devices connected to or enabled by your AWS account.
+**39.2**. AWS IoT Services are not intended for use in, or in association with, the operation of any hazardous environments or critical systems that may lead to serious bodily injury or death or cause environmental or property damage, and you are solely responsible for all liability that may arise in connection with any such use. 
 
-**39.3** AWS IoT SiteWise Edge is not intended for use in, or in association with, the operation of any hazardous environments or critical systems that may lead to serious bodily injury or death or cause environmental or property damage, and you are solely responsible for liability that may arise in connection with any such use.
+**39.3.** Device Shadow data for an individual device may be deleted if you do not update the Device Shadow data for an individual device within any given 12-month period. Device Registry data for an individual device may be deleted if you do not update the Registry data for an individual device within any given 7-year period. Once Device Shadow or Registry data has been updated for an individual device the data restriction time frame for that individual device resets, and the Device Shadow and Registry data storage time frame for an individual device starts over.
+
+**39.4**. You are responsible for the creation, distribution, and security (including enabling of access) of any IoT devices connected to or enabled by your AWS account.
+
+**39.5.** AWS IoT FleetWise (Preview) is designed to help customers collect data from fleets of vehicles and transfer it to the Services for analysis and processing. Vehicle data collected through your use of AWS IoT FleetWise is intended for informational purposes (including to help you train cloud-based artificial intelligence and machine learning models), and you may not use AWS IoT FleetWise to control or operate vehicle functions. You are solely responsible for all liability that may arise in connection with any such use.
+
+**39.6.** Vehicle data collected through your use of AWS IoT FleetWise should be evaluated for accuracy as appropriate for your use case, including for purposes of meeting any compliance obligations you may have under applicable vehicle safety regulations (such as safety monitoring and reporting obligations). Such evaluation should include collecting and reviewing information through other industry standard means and sources (such as reports from drivers of vehicles). You and your End Users are solely responsible for all decisions made, advice given, actions taken, and failures to take action based on your use of AWS IoT FleetWise.
+
+**39.7.** Without limiting any of the restrictions above, the AWS IoT FleetWise in-vehicle software component is licensed to you under the [Amazon Software License](https://aws.amazon.com/asl/). You are solely responsible for ensuring such software and any updates and modifications thereto are deployed and maintained safely and securely in any vehicles and do not otherwise impact vehicle safety.
+
+**39.8.** AWS IoT TwinMaker (Preview) is designed to help customers build digital twins of physical systems such as machines, factory equipment, and buildings. Data collected through your use of AWS IoT TwinMaker should be evaluated for accuracy as appropriate for your use case. AWS IoT TwinMaker should not be used as a substitute for human monitoring of physical systems for purposes of assessing whether such systems are operating safely. You and your End Users are solely responsible for all decisions made, advice given, actions taken, and failures to take action based on your use of AWS IoT TwinMaker.
+
+**39.9.** AWS IoT ExpressLink (Preview) is AWS cloud connectivity software and specifications that select AWS Partner Network (APN) Partners may incorporate into hardware modules they develop, manufacture, and offer to AWS customers. If you purchase a hardware module (including any evaluation kit) from an APN Partner that includes AWS IoT ExpressLink, you agree that AWS is not a party to any agreement between you and the APN Partner governing your purchase and use of the module, AWS is not responsible or liable to you for the module, and AWS does not make any representations or warranties with respect to the module. 
 
 #### 40\. Amazon QuickSight
 
@@ -852,6 +871,16 @@ If your messages sent through Amazon MQ are blocked, delayed, or prevented from 
 
 **60.7** We may change SageMaker Savings Plan (“SM Savings Plan”) pricing or terminate the program at any time. Any price changes will not apply to previously purchased SM Savings Plans. All amounts paid in connection with SM Savings Plans are nonrefundable, except that if we terminate the Agreement other than for cause, or terminate the SM Savings Plan program, we will refund you a pro rata portion of any up-front fee paid. SM Savings Plans are nontransferable and noncancellable, so you will be charged for the duration of the term you selected, even if you terminate the Agreement. Upon expiration or termination of the term of SM Savings Plans, the reserved pricing will expire and standard on-demand usage prices will apply. You are responsible for determining if you are subject to any limitations arising from the purchase or use of the SM Savings Plan and for complying with any applicable laws, policies, terms or conditions governing your payment of up-front fees, including any fiscal or appropriation laws, or other policies or restrictions governing up-front payments for goods or services.
 
+**60.8** Amazon SageMaker Studio Lab
+
+**60.8.1** You acknowledge that we may store your Content that is processed by Amazon SageMaker Studio Lab in AWS regions outside the AWS region where you are using Amazon SageMaker Studio Lab.
+
+**60.8.2** Amazon SageMaker Studio Lab is provided for training and educational purposes and is not intended for production workloads. AWS may modify your ability to access or use Amazon SageMaker Studio Lab at any time, including any usage or resource limits. Access to Amazon SageMaker Studio Lab features and compute resources, including CPUs and GPUs, are not guaranteed.
+
+**60.8.3** If during the previous 3 months you have registered no usage of your Amazon SageMaker Studio Lab account, we may delete your Amazon SageMaker Studio Lab account and any associated Content upon 30 days prior notice to you. Deleting your Amazon SageMaker Studio Lab account permanently and automatically deletes the information associated with your account and any associated Content.
+
+**60.8.4** For purposes of your use of Amazon SageMaker Studio Lab, Amazon Web Services, Inc. is the AWS Contracting Party under the Agreement.
+
 #### 61\. AWS AppSync
 
 You agree not to and will not attempt to perform any network discovery or load testing of Your Content inside AWS AppSync unless expressly authorized by us in writing.
@@ -1083,5 +1112,25 @@ Amazon FinSpace is a tool to help you analyze data for investment and business d
 **85.2** Each Amazon EKS Anywhere Support Subscription may only be applied to one Amazon EKS Anywhere cluster.
 
 **85.3** We may request that you implement specific updates and provide us with Account Information, logs or other Service Attributes so that we can provide you Amazon EKS Anywhere Support and verify your Support Subscription. If you request support for Isovalent’s software, such as Cilium, we may share your Account Information, logs or other Service Attributes with Isovalent to provide technical support.
+
+### 86\. AWS DeepRacer Student
+
+**86.1**  You acknowledge that we may store your Content that is processed by AWS DeepRacer Student in AWS regions outside the AWS region where you are using AWS DeepRacer Student.
+
+**86.2** If you participate in AWS DeepRacer Student competitions or related activities (including preseason exhibitions), AWS may publicly share your username, avatar, and performance results, such as via leaderboards, blog posts, and social media.
+
+**86.3** AWS DeepRacer Student is provided for training and educational purposes and is not intended for production workloads. AWS may modify your ability to access or use AWS DeepRacer Student at any time, including any usage or resource limits. Access to AWS DeepRacer Student features and compute resources, including CPUs and GPUs, are not guaranteed.
+
+**86.4** If during the previous 12 months you have registered no usage of your AWS DeepRacer Student account, we may delete your AWS DeepRacer Student account and any associated Content upon 30 days prior notice to you. Deleting your AWS DeepRacer Student account permanently and automatically deletes the information associated with your account and any associated Content.
+
+**86.5** For purposes of your use of AWS DeepRacer Student, Amazon Web Services, Inc. is the AWS Contracting Party under the Agreement.
+
+**86.6** You must be a student in high school or a higher education institution, and at least 16 years old, to use AWS DeepRacer Student. If you are under 18 years of age, or the age of majority in your location, you may use AWS DeepRacer Student only with involvement of a parent or guardian who agrees to be bound by these Service Terms.
+
+### 87\. AWS Cloud WAN (Preview)
+
+**87.1.** AWS Cloud WAN in Japan is sold and provided by AMCS LLC, an affiliate of AWS, and not AWS, but is otherwise subject to the terms of the Agreement.
+
+**87.2.** AWS Cloud WAN in Singapore is sold and provided by AMCS SG PRIVATE LIMITED, an affiliate of AWS, and not AWS, but is otherwise subject to the terms of the Agreement.
 
  [Previous version(s)](https://aws.amazon.com/service-terms/historical/)
