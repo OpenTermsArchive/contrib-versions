@@ -1,13 +1,13 @@
 Developer Programme Policy
 ==========================
 
-_(effective 1 September, 2021, unless otherwise stated)_
+_(effective 1 December 2021, unless otherwise stated)_
 
 * * *
 
 ### Let's build the world's most trusted source for apps and games
 
-Your innovation is what drives our shared success, but with it comes responsibility. These Developer Programme Policies, along with the [Developer Distribution Agreement](https://play.google.com/about/developer-distribution-agreement.html), ensure that together we continue to deliver the world's most innovative and trusted apps to over a billion people through Google Play. We invite you to explore our policies below or in a [print view](https://support.google.com/googleplay/android-developer/answer/9904549).
+Your innovation is what drives our shared success, but with it comes responsibility. These Developer Programme Policies, along with the [Developer Distribution Agreement](https://play.google.com/about/developer-distribution-agreement.html), ensure that together we continue to deliver the world's most innovative and trusted apps to over a billion people through Google Play. We invite you to explore our policies below.
 
 * * *
 
@@ -26,13 +26,15 @@ If we become aware of content with child sexual abuse imagery, we will report it
 
 * * *
 
-To ensure that Google Play remains a safe and respectful platform, we've created standards defining and prohibiting content that is harmful or inappropriate for our users.
+To ensure that Google Play remains a safe and respectful platform, we've created standards defining and prohibiting content that is harmful or inappropriate for our users. Effective from 1 December 2021
 
 To ensure that Google Play remains a safe and respectful platform, we've created standards defining and prohibiting content that is harmful or inappropriate for our users.
 
 ### Sexual content and profanity
 
-We don't allow apps that contain or promote sexual content or profanity, including pornography, or any content or services intended to be sexually gratifying. We don’t allow apps or app content that appear to promote a sexual act in exchange for compensation. Content that contains nudity may be allowed if the primary purpose is educational, documentary, scientific or artistic and is not gratuitous.
+We don't allow apps that contain or promote sexual content or profanity, including pornography, or any content or services intended to be sexually gratifying. We don’t allow apps or app content that appear to promote a sexual act in exchange for compensation. Content that contains nudity may be allowed if the primary purpose is educational, documentary, scientific or artistic, and is not gratuitous.
+
+If an app contains content that violates this policy but that content is deemed appropriate in a particular region, the app may be available to users in that region, but will remain unavailable to users in other regions.
 
 To ensure that Google Play remains a safe and respectful platform, we've created standards defining and prohibiting content that is harmful or inappropriate for our users.
 
@@ -71,7 +73,13 @@ To ensure that Google Play remains a safe and respectful platform, we've created
 
 We don't permit terrorist organisations to publish apps on Google Play for any purpose, including recruitment.
 
-We don't allow apps with content related to terrorism, such as content that promotes terrorist acts, incites violence or celebrates terrorist attacks. If posting content related to terrorism for an educational, documentary, scientific or artistic purpose, be mindful to provide enough information so that users understand the context.
+We don't allow apps with content related to terrorism, such as content that promotes terrorist acts, incites violence or celebrates terrorist attacks. If posting content related to terrorism for an educational, documentary, scientific or artistic purpose, be mindful to provide relevant EDSA context.
+
+#### **Dangerous movements and organisations**
+
+We do not permit movements or organisations that have engaged in, prepared for or claimed responsibility for acts of violence against civilians to publish apps on Google Play for any purpose, including recruitment. 
+
+We don’t allow apps with content related to planning, preparing or glorifying violence against civilians. If your app includes such content for an EDSA purpose, that content must be provided alongside the relevant EDSA context.
 
 ### Sensitive events
 
@@ -144,8 +152,6 @@ We don't allow apps that provide users with the ability to trade binary options.
 We don't allow apps that mine cryptocurrency on devices. We permit apps that remotely manage the mining of cryptocurrency.
 
 ### Personal loans
-
- Effective 15 September 2021
 
 We define personal loans as lending money from one individual, organisation or entity to an individual consumer on a non-recurring basis, not for the purpose of financing the purchase of a fixed asset or education. Personal loan consumers require information about the quality, features, fees, repayment schedule, risks and benefits of loan products in order to make informed decisions about whether to undertake the loan.
 
@@ -486,7 +492,8 @@ For additional information on the unapproved or misleading pharmaceuticals and s
 
 * * *
 
-### Intellectual property
+Intellectual property
+---------------------
 
 We don’t allow apps or developer accounts that infringe on the intellectual property rights of others (including trademark, copyright, patent, trade secret and other proprietary rights). We also don’t allow apps that encourage or induce infringement of intellectual property rights.
 
@@ -554,9 +561,9 @@ We’re committed to protecting user privacy and providing a safe and secure env
 User data
 ---------
 
-You must be transparent in how you handle user data (e.g. information collected from or about a user, including device information). That means disclosing your app’s access, collection, use and sharing of the data, and limiting the use of the data to the purposes disclosed. In addition, if your app handles personal and sensitive user data, please also refer to the additional requirements in the 'Personal and sensitive information' section below. These Google Play requirements are in addition to any requirements prescribed by applicable privacy and data protection laws. If you include third-party code (e.g. SDKs) in your app, you must ensure that the third-party code used in your app is compliant with Play Developer Programme policies. 
+You must be transparent in how you handle user data (e.g. information collected from or about a user, including device information). That means disclosing your app’s access, collection, use and sharing of the data, and limiting the use of the data to the purposes disclosed. In addition, if your app handles personal and sensitive user data, please also refer to the additional requirements in the 'personal and sensitive user data' section below. These Google Play requirements are in addition to any requirements prescribed by applicable privacy and data protection laws. If you include third-party code (e.g. SDKs) in your app, you must ensure that the third party code used in your app is compliant with Google Play Developer Programme Policies. 
 
-### Personal and sensitive information
+#### Personal and sensitive user data
 
 Personal and sensitive user data includes, but isn't limited to, personally identifiable information, financial and payment information, authentication information, phonebook, contacts, [device location](https://developer.android.com/training/location), SMS- and call-related data, inventory of other apps on the device, microphone, camera and other sensitive device or usage data. If your app handles personal and sensitive user data, then you must:
 
@@ -601,7 +608,7 @@ To ensure that Google Play remains a safe and respectful platform, we've created
 *   An app that collects [device location](https://developer.android.com/training/location) and does not comprehensively disclose its use and obtain consent in accordance with the above requirements
 *   An app that collects restricted permissions in the background of the app including for tracking, research or marketing purposes and does not comprehensively disclose its use and obtain consent in accordance with the above requirements. 
 
-Effective 28 October 2021:  
+:  
 
 #### **Restrictions for personal and sensitive data access**
 
@@ -618,16 +625,16 @@ In addition to the requirements above, the table below describes requirements fo
 
 #### Data safety section
 
- Effective 1 April 2022
+All developers must complete a clear and accurate Data safety section for every app detailing collection, use and sharing of user data. The developer is responsible for the accuracy of the label and keeping this information up to date. Where relevant, the section must be consistent with the disclosures made in the app’s privacy policy. 
 
-All developers must complete a clear and accurate Data safety section for every app detailing collection, use and sharing of personal and sensitive user data. The developer is responsible for the accuracy of the Data safety section and keeping this information up to date. Where relevant, the Data safety section must be consistent with the disclosures made in the app’s privacy policy. 
+Please refer to [this article](https://support.google.com/googleplay/android-developer/answer/10787469?hl=en#zippy=%2Cdata-types) for additional information on completing the Data safety section.
 
 #### Privacy policy
 
-All apps must post a privacy policy in both the designated field in Play Console and within the app itself. The privacy policy must, together with any in-app disclosures, comprehensively disclose how your app accesses, collects, uses and shares user data, not limited by the data disclosed in the Data safety section. This must include: 
+All apps must post a privacy policy in both the designated field in Play Console and within the app itself. The privacy policy must, together with any in-app disclosures, comprehensively disclose how your app accesses, collects, uses and shares user data, not limited by the data disclosed in the Data Safety section. This must include: 
 
 *   developer information and a privacy point of contact or a mechanism to submit enquiries
-*   disclosing the types of personal and sensitive data that your app accesses, collects, uses and shares; and any parties with which any personal or sensitive user data is shared
+*   disclosing the types of personal and sensitive user data that your app accesses, collects, uses and shares; and any parties with which any personal or sensitive user data is shared
 *   secure data handling procedures for personal and sensitive user data
 *   the developer’s data retention and deletion policy
 *   clear labelling as a privacy policy (e.g. listed as 'privacy policy' in title)
@@ -732,8 +739,6 @@ App inventory data queried from Play-distributed apps may never be sold nor shar
 
 ### **Accessibility API**
 
- Effective October 15, 2021
-
 The Accessibility API cannot be used to:
 
 *   Change user settings without their permission unless authorised by a parent or guardian through a parental control app or by authorised administrators through enterprise management software; 
@@ -755,8 +760,6 @@ Apps must use more narrowly scoped [APIs and permissions](https://developer.and
 
 Device and network abuse
 ------------------------
-
- Effective October 15, 2021
 
 We don’t allow apps that interfere with, disrupt, damage or access in an unauthorised manner the user’s device, other devices or computers, servers, networks, application programming interfaces (APIs) or services, including but not limited to other apps on the device, any Google service or an authorised operator network.
 
@@ -1124,6 +1127,24 @@ Example violations:
 
 * * *
 
+### **Hostile downloaders**
+
+ Effective from 2 February 2022
+
+Code that isn't in itself unwanted software, but downloads other mobile unwanted software (MUwS).
+
+Code may be a hostile downloader if:
+
+*   There is reason to believe it was created to spread MUwS and it has downloaded MUwS or contains code that could download and install apps; or
+*   At least 5% of apps downloaded by it are MUwS with a minimum threshold of 500 observed app downloads (25 observed MUwS downloads).
+
+Major browsers and file-sharing apps aren't considered hostile downloaders as long as:
+
+*   They don't drive downloads without user interaction; and
+*   All software downloads are initiated by consenting users.
+
+* * *
+
 Ad fraud
 --------
 
@@ -1170,6 +1191,8 @@ Google Play supports a variety of monetisation strategies to benefit developers 
 
 Payments
 --------
+
+Effective from 18 December 2021
 
 1.  Developers charging for apps and downloads from Google Play must use Google Play's billing system as the method of payment.
 2.  Play-distributed apps must use Google Play's billing system as the method of payment if they require or accept payment for access to features or services, including any app functionality, digital content or goods.
@@ -1305,8 +1328,6 @@ To ensure that Google Play remains a safe and respectful platform, we've created
 
 ### Usage of Android advertising ID
 
- Effective 4 October 2021
-
 Google Play services version 4.0 introduced new APIs and an ID for use by advertising and analytics providers. Terms for the use of this ID are below.
 
 *   **Usage**. The Android advertising identifier (AAID) must only be used for advertising and user analytics. The status of the 'Opt out of interest-based advertising' or 'Opt out of ads personalisation' setting must be verified on each access of the ID.
@@ -1325,9 +1346,9 @@ Google Play services version 4.0 introduced new APIs and an ID for use by advert
 Subscriptions
 =============
 
-You, as a developer, must not mislead users about any subscription services or content that you offer within your app. It is critical to communicate clearly in any in-app promotions or splash screens.
+You, as a developer, must not mislead users about any subscription services or content that you offer within your app. It is critical to communicate clearly in any in-app promotions or splash screens. We do not allow apps that subject users to deceptive or manipulative purchase experiences (including in-app purchases or subscriptions).
 
-**In your app:** You must be transparent about your offer. This includes being explicit about your offer terms, the cost of your subscription, the frequency of your billing cycle, and whether a subscription is required to use the app. Users should not have to perform any additional action to review the information.
+**In your app:** You must be transparent about your offer. This includes being explicit about your offer terms, the cost of your subscription, the frequency of your billing cycle and whether a subscription is required to use the app. Users should not have to perform any additional action to review the information.
 
 To ensure that Google Play remains a safe and respectful platform, we've created standards defining and prohibiting content that is harmful or inappropriate for our users.
 
@@ -1335,11 +1356,12 @@ To ensure that Google Play remains a safe and respectful platform, we've created
 *   Annual subscriptions that most prominently display their pricing in terms of monthly cost.
 *   Subscription pricing and terms that are incompletely localised.
 *   In-app promotions that do not clearly demonstrate that a user can access content without a subscription (when available).
-*   SKU names that do not accurately convey the nature of the subscription, such as 'Free trial' for a subscription with an auto-recurring charge.
+*   SKU names that do not accurately convey the nature of the subscription, such as 'Free of charge trial' or 'Try Premium membership – three days free of charge', for a subscription with an auto-recurring charge. 
+*   Multiple screens in the purchase flow that lead users into accidentally clicking the subscribe button.
+
+**Example 1:**
 
 ![](//lh3.googleusercontent.com/boxh9ZDBx1EYF_KGdg_yFIb77aqm5Fj47bHB0prd4aDuKpDKUtwnIQClUc9UMTqPG68=w600-h1100)
-
- 
 
 ① Dismiss button is not clearly visible and users may not understand that they can access functionality without accepting the subscription offer.
 
@@ -1348,6 +1370,16 @@ To ensure that Google Play remains a safe and respectful platform, we've created
 ③ Offer only shows the introductory price and users may not understand what they will automatically be charged at the end of the introductory period.
 
 ④ Offer should be localised in the same language as the Terms and Conditions so that users can understand the entire offer.
+
+**Example 2:**
+
+![](//storage.googleapis.com/support-kms-prod/ZErNX8IBOj6fWaWTN5D5bQuHotBvLAZK4rTu)
+
+![](//storage.googleapis.com/support-kms-prod/Tf5JXZMEw4Xvu12TKHOwQYgDwd2kjykAjSwX)
+
+① Recurring clicks in the same button area causes the user to inadvertently click the final 'continue' button to subscribe.
+
+② The amount that users will be charged at the end of the trial is hard to read, such that users may think that the plan is free of charge
 
 ### Free trials and introductory offers
 
@@ -1437,8 +1469,6 @@ It is your responsibility to ensure that any ad networks, affiliates or ads ass
 
 Metadata
 --------
-
- Effective 29 September 2021
 
 We don't allow apps with misleading, improperly formatted, non-descriptive, irrelevant, excessive or inappropriate metadata, including but not limited to the app's description, developer name, title, icon, screenshots and promotional images. Developers must provide a clear and well-written description of their app. We also don't allow unattributed or anonymous user testimonials in the app's description.
 
@@ -1713,6 +1743,33 @@ Network traffic from inside the instant app must be encrypted using a TLS protoc
 
 * * *
 
+### **Android emoji policy**
+
+ Effective from 2 February 2022
+
+Our emoji policy is designed to promote an inclusive and consistent user experience across the Google platform. 
+
+Apps running on Android 12 and above must comply with the latest Unicode version within four months of public availability.
+
+In order to remain compliant, developers MUST follow one of the options:
+
+*   If [AppCompat](https://developer.android.com/jetpack/androidx/releases/appcompat) is already in use, make sure emoji is enabled.
+*   Use an existing [EmojiCompat](https://developer.android.com/reference/androidx/emoji/text/EmojiCompat) library across all surfaces within the app. This should work with custom views that directly use [StaticLayout](https://developer.android.com/reference/android/text/StaticLayout).
+*   Update the handling and font/images for emoji based on the latest version of Unicode.
+
+Use the emoji examples below to test if your app is compliant with the latest Unicode version:
+
+| Examples | Unicode version |
+| --- | --- |
+| 😶‍🌫️ 🧔🏻‍♀️ 🧑🏿‍❤️‍🧑🏾 | [13.1](https://emojipedia.org/emoji-13.1/) |
+| 🥲 🥷🏿 🐻‍❄️ | [13.0](https://emojipedia.org/unicode-13.0/) |
+| 🧑🏻‍🦰 🧑🏿‍🦯 👩🏻‍🤝‍👩🏼 | [12.1](https://emojipedia.org/emoji-12.1/) |
+| 🦩 🦻🏿 👩🏼‍🤝‍👩🏻 | [12.0](https://emojipedia.org/emoji-12.0/) |
+
+Please consult [this resource](https://developer.android.com/guide/topics/ui/look-and-feel/emoji2) for additional emoji compatibility guidance.
+
+* * *
+
 Families
 ========
 
@@ -1751,6 +1808,8 @@ Misrepresentation of any information about your app in the Play Console, includi
 
 ### Families policy requirements
 
+ Effective 1 April 2022
+
 If one of the target audiences for your app is children, you must comply with the following requirements. Failure to satisfy these requirements may result in app removal or suspension.
 
 1.  **App content:** Your app's content that is accessible to children must be appropriate for children.
@@ -1772,13 +1831,18 @@ If one of the target audiences for your app is children, you must comply with th
     *   Apps that solely target children may not request, collect, use or transmit location.
     *   Apps must use the [Companion Device Manager (CDM)](https://developer.android.com/reference/android/companion/CompanionDeviceManager) when requesting Bluetooth, unless your app is only targeting device Operating System (OS) versions that are not compatible with CDM.
 6.  **APIs and SDKs:** You must ensure that your app properly implements any APIs and SDKs.
-    *   Apps that solely target children must not contain any APIs or SDKs that are not approved for use in child-directed services. This includes Google Sign-In (or any other Google API Service that accesses data associated with a Google Account), Google Play Games Services and any other API Service using OAuth technology for authentication and authorisation.
-    *   Apps that target both children and older audiences must not implement APIs or SDKs that are not approved for use in child-directed services unless they are used behind a [neutral age screen](https://support.google.com/googleplay/android-developer/answer/9285070#neutral-agescreen) or implemented in a way that does not result in the collection of data from children. Apps that target both children and older audiences must not require users to sign in or access app content through an API or SDK that is not approved for use in child-directed services. 
+    *   Apps that solely target children must not contain any APIs or SDKs that are not approved for use in primarily child-directed services. This includes Google Sign-In (or any other Google API service that accesses data associated with a Google Account), Google Play Games services and any other API service using OAuth technology for authentication and authorisation.
+    *   Apps that target both children and older audiences must not implement APIs or SDKs that are not approved for use in child-directed services unless they are used behind a [neutral age screen](https://support.google.com/googleplay/android-developer/answer/9285070#neutral-agescreen) or implemented in a way that does not result in the collection of data from children. Apps that target both children and older audiences must not require users to sign in or access app content through an API or SDK that is not approved for use in child-directed services. 
 7.  **Augmented reality (AR)****:** If your app uses augmented reality, you must include a safety warning immediately upon launch of the AR section. The warning should contain the following:
     *   An appropriate message about the importance of parental supervision.
     *   A reminder to be aware of physical hazards in the real world (e.g. be aware of your surroundings).
     *   Your app must not require the usage of a device that is advised not to be used by children. (e.g. Daydream, Oculus).
-8.  **Legal compliance:** You must ensure that your app, including any APIs or SDKs that your app calls or uses, is compliant with the [US Children's Online Privacy and Protection Act (COPPA)](https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children&#39;s-privacy), [the EU General Data Protection Regulation (GDPR)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0679) and any other applicable laws or regulations.
+8.  **Social apps and features:** If your apps allow users to share or exchange information, you must accurately disclose these features in the [content rating questionnaire](https://support.google.com/googleplay/android-developer/answer/9859655?visit_id=637679283344610643-1951945832&rd=1#questionnaire) on the Play Developer Console. 
+    *   Social apps: A social app is  an app where the main focus is to enable users to share freeform content or communicate with large groups of people. All social apps that include children in their target audience must provide an in-app reminder to be safe online and to be aware of the real world risk of online interaction before allowing child users to exchange freeform media or information. You must also require adult action before allowing child users to exchange personal information. 
+    *   Social features: A social feature is any additional app functionality that enables users to share freeform content or communicate with large groups of people. Any app that includes children in their target audience and has social features, must provide an in-app reminder to be safe online and to be aware of the real world risk of online interaction before allowing child users to exchange freeform media or information. You must also provide a method for adults to manage social features for child users, including, but not limited to, enabling/disabling the social feature or selecting different levels of functionality. Finally, you must require adult action before enabling features that allow children to exchange personal information. 
+    *   Adult action means a mechanism to verify that the  user is not a child and does not encourage children to falsify their age to gain access to areas of your app that are designed for adults (i.e. an adult PIN, password, date of birth, email verification, photo ID, credit card or SSN).
+    *   Social apps where the main focus of the app is to chat with people that they do not know must not target children. Examples include: chat roulette style apps, dating apps, kids-focused open chat rooms, etc.
+9.  **Legal compliance:** You must ensure that your app, including any APIs or SDKs that your app calls or uses, is compliant with the [US Children's Online Privacy and Protection Act (COPPA)](https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children&#39;s-privacy), [the EU General Data Protection Regulation (GDPR)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0679) and any other applicable laws or regulations.
 
 To ensure that Google Play remains a safe and respectful platform, we've created standards defining and prohibiting content that is harmful or inappropriate for our users.
 
@@ -1830,37 +1894,42 @@ If you are accepted to participate in the Designed for Families programme, you c
 Ads and monetisation
 --------------------
 
-The policies below apply to all advertising in your app, including ads for your apps and third-party apps, offers for in-app purchase or any other commercial content (such as paid product placement) that is served to users of apps that are subject to the Families policy requirements and/or the Designed for Families requirements. All advertising, offers for in-app purchase and commercial content in these apps must comply with all applicable laws and regulations (including any relevant self-regulatory or industry guidelines).
+If you’re monetising an app that targets children on Play, it’s important that your app follows the following families ads and monetisation policy requirements.
+
+The policies below apply to all monetisation and advertising in your app, including ads, cross-promotions (for your apps and third party apps), offers for in-app purchases, or any other commercial content (such as paid product placement). All monetisation and advertising in these apps must comply with all applicable laws and regulations (including any relevant self-regulatory or industry guidelines).
 
 Google Play reserves the right to reject, remove or suspend apps for overly aggressive commercial tactics.
 
-**Ad format requirements**
+**Format requirements**
 
-Ads and offers for in-app purchases must not have deceptive content or be designed in a way that will result in inadvertent clicks from child users. The following are prohibited:
+Monetisation and advertising in your app must not have deceptive content or be designed in a way that will result in inadvertent clicks from child users. The following are prohibited:
 
-*   Disruptive ads, including ads that take up the entire screen or interfere with normal use and do not provide a clear means to dismiss the ad (e.g. [ad walls](https://support.google.com/googleplay/android-developer/answer/9857753#disruptive-ads))
-*   Ads that interfere with normal app use or game play that are not closeable after five seconds. Ads that do not interfere with normal app use or game play may persist for more than five seconds (e.g. video content with integrated ads).  
-*   Interstitial ads or offers for in-app purchase displayed immediately upon app launch
+*   Disruptive monetisation and advertising, including monetisation and advertising that take up the entire screen or interfere with normal use and do not provide a clear means to dismiss the ad (e.g. [Ad walls](https://support.google.com/googleplay/android-developer/answer/9857753#disruptive-ads))
+*   Monetisation and advertising that interfere with normal app use or game play that are not closeable after 5 seconds.
+*   Monetisation and advertising that do not interfere with normal app use or game play may persist for more than 5 seconds (e.g. video content with integrated ads).  
+*   Interstitial monetisation and advertising displayed immediately upon app launch
 *   Multiple ad placements on a page (e.g. banner ads that show multiple offers in one placement or displaying more than one banner or video ad is not allowed).
-*   Ads or offers for in-app purchases that are not clearly distinguishable from your app content
+*   Monetisation and advertising that are not clearly distinguishable from your app content
 *   Use of shocking or emotionally manipulative tactics to encourage ads viewing or in-app purchases
 *   Not providing a distinction between the use of virtual game coins versus real-life money to make in-app purchases
 
 To ensure that Google Play remains a safe and respectful platform, we've created standards defining and prohibiting content that is harmful or inappropriate for our users.
 
-*   Ads that move away from a user's finger as the user tries to close it
-*   Ads that do not provide a user with a way to a exit the ad experience after five (5) seconds as depicted in the example below:  
-    ![](//storage.googleapis.com/support-kms-prod/Yney83HbD6X1WyFsKQfZSu3R3dZRYRRe24aq)
-*   Ads that take up the majority of the device screen without providing the user with a clear way to dismiss it, as depicted in the example below:
+*   Monetisation and advertising that move away from a user's finger as the user tries to close it
+*   Monetisation and advertising that do not provide a user with a way to exit the offer after five (5) seconds as depicted in the example below:  
+    ![](//storage.googleapis.com/support-kms-prod/Yney83HbD6X1WyFsKQfZSu3R3dZRYRRe24aq)  
+     
+*   Monetisation and advertising that take up the majority or the device screen without providing the user a clear way to dismiss it, as depicted in the example below:
     
     ![](//lh3.googleusercontent.com/x_00itIxYS9KEaMpKssADj_fX0dSUff6o6Nt04ASG4pey542vycDMIyFXX5clJE_fDSb=w1100-h600)
     
 
 *   Banner ads showing multiple offers, as depicted in the example below: ![](//lh3.googleusercontent.com/FsWSkB1jUDZN6U3q53gxfYNee-Y5D1QeoVH3bdJ-2uuvIf9iZLM0mDV3fMZSdd18yxM=w1100-h600)
 
-*   Ads that could be mistaken by a user for app content, as depicted in the example below: ![](//lh3.googleusercontent.com/JZk0x1JU5sP9YnXXMF4LJ8HDOfFJXJr1ssLSRxAD1UjHhvuGRmDBE2VhR3wzwgAJpgE=w1100-h600)
+*   Monetisation and advertising that could be mistaken by a user for app content, as depicted in the example below:  
+    ![](//lh3.googleusercontent.com/JZk0x1JU5sP9YnXXMF4LJ8HDOfFJXJr1ssLSRxAD1UjHhvuGRmDBE2VhR3wzwgAJpgE=w1100-h600)
 
-*   Buttons or ads that promote your other Google Play Store Listings but that are indistinguishable from app content, as depicted in the example below: ![](//lh3.googleusercontent.com/RcNH80fh9w-1FFSzywqZ_GiXKlSPxzcua03TA_TdfQUqX42klFu0SmCw47j0Fd7onMex=w1100-h800)
+*   Buttons, ads, or other monetisation that promote your other Google Play store listings but that are indistinguishable from app content, as depicted in the example below: ![](//lh3.googleusercontent.com/RcNH80fh9w-1FFSzywqZ_GiXKlSPxzcua03TA_TdfQUqX42klFu0SmCw47j0Fd7onMex=w1100-h800)
 
 **Here are some examples of inappropriate ad content that should not be displayed to children.**
 
@@ -1978,6 +2047,15 @@ Note: Don't attempt to republish a suspended app unless Google Play has explaine
 *   Your app’s discoverability on Google Play is restricted. Your app will remain available on Google Play and can be accessed by users with a direct link to the app’s Play Store Listing. 
 *   Having your app placed in a limited visibility state doesn’t impact the standing of your Google Play Developer account. 
 *   Having your app placed in a limited visibility state doesn’t impact users’ ability to see the app’s existing Store Listing, user installs, statistics and ratings.
+
+#### Limited regions
+
+ Effective from 1 December 2021
+
+*   Your app can only be downloaded by users through Google Play in certain regions.
+*   Users from other regions will not be able to find the app on the Play Store.
+*   Users who previously installed the app can continue to use it on their device but will no longer receive updates.
+*   Region limiting does not impact the standing of your Google Play Developer account.
 
 ### Account termination
 
