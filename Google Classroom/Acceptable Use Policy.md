@@ -127,4 +127,4 @@ Do not distribute copyrighted content without authorisation or provide links to 
 
 User accounts
 
-Students cannot use this product while at a school with a personal Google account. To use this product with students, schools must sign up for a free [Workspace for Education](https://www.google.com/edu/products/productivity-tools/#how-to) account. If you believe that this product is being used at a school with personal accounts, [report](https://support.google.com/edu/classroom/contact/reportclass) the class.
+Students cannot use this product while at a school with a personal Google account. To use this product with students, schools must sign up for a [Workspace for Education](https://www.google.com/edu/products/productivity-tools/#how-to) account. If you believe that this product is being used at a school with personal accounts, [report](https://support.google.com/edu/classroom/contact/reportclass) the class.
