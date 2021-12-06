@@ -263,5 +263,4 @@ You also have the right to lodge a complaint with Facebook Ireland's lead superv
 
   
   
-
 Date of last revision: 21 August 2020
