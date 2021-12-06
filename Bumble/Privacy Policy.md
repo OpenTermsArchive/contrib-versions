@@ -129,7 +129,6 @@ Under EU and UK data protection laws, we are required to tell you our lawful bas
 | To verify your identity and prevent fraud and to ensure the safety and security of Users | Phone number and if requested, photo provided as part of profile verification and for users based in countries where age verification is required by law: photo of Government ID + geolocation and device information (CCPA Categories A, B, C, F, G and H) | You provide this information to us, except for the geolocation and device information, which we obtain from the device that you use to access the service | Legitimate interests – it is in our legitimate interests to ensure that accounts are not set up fraudulently and to safeguard Users of the site |
 | To take payment for premium services (not applicable for Users making payments via the Apple App Store) | Payment card details (CCPA Categories B and D) | You provide this information to us | Contractual necessity |
 | To send you marketing information about our events, offers and services | Name, email address, postal address, Instagram handle and mobile phone number (CCPA Categories A and B) | You provide this information to us | Consent or legitimate interests and in accordance with the laws applying to our marketing activities. We have a legitimate interest in promoting our business and products |
-| To show you other Users near you | WiFi access points and location data when you use the App (if you give us permission) (CCPA Category G) | We obtain this information from the device that you use to access the service (if you give us permission) | Legitimate interests – it is in our legitimate interests to provide this functionality as part of the services |
 | To carry out research and analysis to help us improve the App | Log and usage data, including IP address, browser type, referring domain, pages accessed, mobile carrier and search terms, images and video (CCPA Categories F and H) | You provide photos and videos to us. We obtain the log and usage information from the device that you use to access the service | Legitimate interests – it is in our interests to analyse the way in which Users are accessing and using our services so that we can further develop the App, implement security measures and improve the service |
 | To respond to correspondence and queries that you submit to us, including social media queries | Email address and IP address, social media name, phone number (CCPA Categories B and F) | You provide your email address, social media name and phone number to us when you contact us and we obtain your IP address from the device that you use to contact us | Legitimate interests – it is in our legitimate interests to respond to your queries to ensure that we provide a good service to Users and troubleshoot problems |
 | To investigate and block Users for reported infringements of our Terms and Conditions of Use | Name and user registration details, profile information, content of messages and photographs + usage and device data such as IP address and IP session information (CCPA Categories A, B, C, F, and H) | You provide your registration details, profile information, messages and photographs to us. We obtain the other information from the device that you use to access the service. | Legitimate interests - it is in our legitimate interests to prevent unauthorised behaviour and to maintain the safety and integrity of our services |
@@ -262,10 +261,29 @@ We only receive the limited information that Instagram or Spotify permits to be 
 
 If you no longer want to link your Bumble account to your Instagram, Facebook or Spotify account, please visit the settings in your Instagram, Facebook or Spotify account and follow the instructions to remove the Bumble app access permissions. Please note that any information already added to your Bumble account from those platforms will not be deleted unless you delete it within your Bumble account as well.
 
-8\. YOUR CALIFORNIA PRIVACY RIGHTS.
+8\. INFORMATION FOR BFF MEMBERS.
+--------------------------------
+
+If you use BFF we’ll ask you for some information when you create your profile (like your beliefs and political leanings). You can choose to give this information, but there’s no obligation to provide it.
+
+Our legal justification for processing your personal data is that this is necessary in order to fulfil our contract with you and deliver certain services and features you’ve requested. For example, in order to offer you our Hives feature, we need to process your location and interests data to show you Hives that you can join and that are relevant to you. When you upload and choose to share sensitive information (such as beliefs and political leanings), you are explicitly consenting to sharing that information with BFF members.
+
+### Using Your Information to Recommend Friends
+
+In BFF we may use your activity, life and interests information to recommend friends.
+
+### Important Things to Know About BFF Hives
+
+In BFF you can join or create Hives to find friends. Hives are small, local group chats built around locations or topics. We’ll recommend Hives based on your location, activity, life and interests information.
+
+### Who Sees Your Hive Membership and Messages
+
+If you join a Hive, other BFF members will be able to see that you’ve joined that Hive. Members will not be able to see the Hive chat until they join the Hive and when they join they’ll see the full message history.
+
+9\. YOUR CALIFORNIA PRIVACY RIGHTS.
 -----------------------------------
 
-For Users who are California residents, you have the following rights (in addition to those listed at section 9 below) under the California Consumer Privacy Act, and you have the right to be free from unlawful discrimination for exercising your rights under the Act:
+For Users who are California residents, you have the following rights (in addition to those listed at section 10 below) under the California Consumer Privacy Act, and you have the right to be free from unlawful discrimination for exercising your rights under the Act:
 
 1.  You have the right to request that we disclose certain information to you and explain how we have collected, used and shared your personal information over the past 12 months.
 2.  You have the right to request that we delete your personal information that we collected from you, subject to certain exceptions.
@@ -276,8 +294,8 @@ From time to time, as part of a joint promotion with a third party, we may, if y
 
 In addition, under California law, operators of online services are required to disclose how they respond to “do not track” signals or other similar mechanisms that provide consumers the ability to exercise choice regarding the collection of personal information of a consumer over time and across third party online services, to the extent the operator engages in that collection. At this time, we do not track our Users’ personal information over time and across third-party online services. This law also requires operators of online services to disclose whether third parties may collect personal information about their users’ online activities over time and across different online services when the users use the operator’s service. We do not knowingly permit third parties to collect personal information about an individual User’s online activities over time and across different online services when using the App.
 
-9\. YOUR RIGHTS.
-----------------
+10\. YOUR RIGHTS.
+-----------------
 
 Privacy laws applicable in your country may give you the following rights:
 
@@ -306,38 +324,32 @@ Using the online request form at https://services.nathantrust.com/privacycontact
 
 Postal address: 1st Floor, 6 Lapps Quay, Cork, Ireland
 
-10\. DATA LOCATIONS.
+11\. DATA LOCATIONS.
 --------------------
 
 We want you to be able to access Bumble wherever you happen to be in the world. To enable us to provide that service, we operate a global network of servers including in the US, UK, EU, and (for Users located in Russia) Russia. The hardware is located in third-party data centres but is owned by the Bumble Group. Data collected by Advertising Partners and other Service Providers may also be held outside the UK and the European Economic Area. We ensure that the data is adequately protected by ensuring that valid, legal mechanisms are in place such as: EU approved model clauses (which can be found [here](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en)), and implementing robust contractual standards. If you want more information relating to the nature of the safeguards we have in place, please email [DPO@team.bumble.com](mailto:DPO@team.bumble.com).
 
-11\. DATA RETENTION AND DELETION.
+12\. DATA RETENTION AND DELETION.
 ---------------------------------
 
 We keep your personal information only as long as we need it for the legal basis relied upon (as set out in Section 2 above) and as permitted by applicable law.
 
-You may permanently delete your Account at any time (although we really hope you don’t!)
+When you delete your Account, or it is deactivated by us, we make sure it is no longer viewable in the App. For up to 28 days, it is still possible to restore your Account if it was accidentally deleted or wrongfully deactivated. After 28 days, we begin the process of deleting your personal information from our systems, unless:
 
-When your Account is deactivated, we take reasonable efforts to make sure it is no longer viewable on the App. For up to 28 days, it is still possible to restore your Account if it was accidentally or wrongfully deactivated. After 28 days, we begin the process of deleting your personal information from our systems, unless:
-
-1.  we must keep it to comply with applicable law (for instance, if you make purchases within the App, some personal data may need to be kept for accounting purposes);
-2.  we must keep it to evidence our compliance with applicable law;
+1.  we must keep it to comply with applicable law (for instance, if you make purchases within the App, some personal data may be kept for tax and accounting purposes);
+2.  we must keep it to evidence our compliance with applicable law (for example, if an account is blocked, we keep some account information and a record of the behaviour that led to the block - this information is retained for evidential purposes in case of queries or legal claims concerning the block);
 3.  there is an outstanding issue, claim or dispute requiring us to keep the relevant information until it is resolved; or
-4.  the information must be kept for our legitimate business interests, such as fraud prevention and enhancing Users’ safety and security. For example, information may need to be kept to prevent a user who was banned for unsafe behaviour or security incidents from opening a new account.
-
-Where Bumble uses machine learning, for example, to help us detect and prevent fraudulent card transactions, and to detect and prevent spam communications on the App (as explained above), we may need to keep personal information for a longer period than the retention periods explained above, to enable the machine learning to work properly. Where this is the case, we always seek to minimise the amount of personal information that is used and we ensure that it is ring-fenced and kept securely from other User personal information. We regularly review the period for which personal information is required for machine learning purposes and delete any identifiable information when it is no longer required.
-
-To prevent abuse and/or misuse of Bumble by a User following termination or deletion of a profile/Account we shall retain such information as we deem in our sole discretion may be necessary to ensure that User does not open a new Account and profile in breach of our [Terms and Conditions of Use](https://bumble.com/en/terms) and to ensure compliance with all laws and regulations.
+4.  the information must be kept for our legitimate business interests, such as fraud prevention and enhancing Users’ safety and security (for example, information may need to be kept to prevent a user who was banned for unsafe behaviour or security incidents from opening a new account).
 
 **Warning:** Even after you remove information from your profile or delete your Account, copies of that information may still be viewable and/or accessed to the extent such information has been previously shared with others, or copied or stored by others. We cannot control this, nor do we accept any liability for this. If you have given third party applications or websites access to your personal information, they may retain such information to the extent permitted under their terms of service or privacy policies.
 
 Thanks for reading, we hope we didn’t drone on for too long!
 
-12\. CHANGES TO THIS POLICY.
+13\. CHANGES TO THIS POLICY.
 ----------------------------
 
 As Bumble evolves, we may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at [bumble.com/privacy](https://bumble.com/en/privacy). If we make a change to this policy that, in our sole discretion, is material, we will notify you, for example, via an email to the email associated with your Account or by posting a notice within Bumble.
 
 ### Effective date
 
-This Privacy Policy was last updated 27 September 2021.
+This Privacy Policy was last updated 1 December 2021.
