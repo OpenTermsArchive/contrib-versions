@@ -1,8 +1,6 @@
 Google Measurement Controller-Controller Data Protection Terms
 ==============================================================
 
-We are making changes to these Google Measurement Controller-Controller Data Protection Terms (Controller Terms). If you accepted the Controller Terms on or after September 27, 2021, these updates will apply to your use of the relevant service(s) immediately. If you accepted the Controller Terms before September 27, 2021, these updates will apply to your use of the relevant service(s) from October 27, 2021 onwards. For our legacy terms, [see here](https://support.google.com/analytics/answer/11156289).
-
 The Measurement Services customer agreeing to these terms (“**Customer**”) has entered into an agreement with either Google or a third party reseller (as applicable) for the provision of the Measurement Services (as amended from time to time, the “**Agreement**”) through which services user interface Customer has enabled the Data Sharing Setting.
 
 These Google Measurement Controller-Controller Data Protection Terms (“**Controller Terms**”) are entered into by Google and Customer. Where the Agreement is between Customer and Google, these Controller Terms supplement the Agreement. Where the Agreement is between Customer and a third party reseller, these Controller Terms form a separate agreement between Google and Customer.
