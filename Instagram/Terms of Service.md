@@ -9,9 +9,7 @@ Click [here](http://help.instagram.com/1190972084654673) for a Contract Summary 
   
 If you are a business established in the EU and use Instagram Shopping to sell goods to consumers located in the EU, you can learn more about your commercial relationship with us by reviewing the [Platform to Business Notice](https://www.facebook.com/legal/platformtobusinessnotice), which supplements our Terms of Use.  
   
-The Instagram Service is one of the [Facebook Products](https://www.facebook.com/help/1561485474074139?ref=igtos), provided to you by Facebook Ireland Limited. These Terms of Use therefore constitute an agreement between you and Facebook Ireland Limited.
-
-  
+The Instagram Service is one of the [Facebook Products](https://www.facebook.com/help/1561485474074139?ref=igtos), provided to you by Facebook Ireland Limited. These Terms of Use therefore constitute an agreement between you and Facebook Ireland Limited.  
   
 
 **The Instagram Service**
@@ -155,8 +153,6 @@ We always appreciate feedback or other suggestions, but may use them without any
 
 **Updating these Terms**
 
-We may change our Service and Policies, and we may need to make changes to these Terms so that they accurately reflect our Service and Policies. Unless otherwise required by law, we will notify you (for example, through our Service) at least 30 days before we make changes to these Terms and give you an opportunity to review them before they go into effect. Then, if you continue to use the Service, you will be bound by the updated Terms. If you do not want to agree to these or any updated Terms, you can delete your account [here](https://help.instagram.com/370452623149242?ref=igtos).
-
-  
+We may change our Service and Policies, and we may need to make changes to these Terms so that they accurately reflect our Service and Policies. Unless otherwise required by law, we will notify you (for example, through our Service) at least 30 days before we make changes to these Terms and give you an opportunity to review them before they go into effect. Then, if you continue to use the Service, you will be bound by the updated Terms. If you do not want to agree to these or any updated Terms, you can delete your account [here](https://help.instagram.com/370452623149242?ref=igtos).  
 
 Revised: 20 December 2020
