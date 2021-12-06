@@ -198,7 +198,7 @@ Where Google LLC and/or Google Ireland Limited are not a party to the Agreement 
 9. Effect of Controller Terms
 -----------------------------
 
-9.1 **Order of Precedence**. If there is any conflict or inconsistency between the applicable Controller SCCs, the Additional Terms for Non-European Data Protection Legislation, the remainder of these Controller Terms and/or the remainder of the Agreement then, subject to Sections 4.2 (Restrictions on Processing) and 9.2 (Processor Terms), the following order of precedence will apply:
+9.1 **Order of Precedence**. If there is any conflict or inconsistency between the applicable Controller SCCs, the Additional Terms for Non-European Data Protection Legislation, the remainder of these Controller Terms and/or the remainder of the Agreement then, subject to Sections 4.2 (Restrictions on Processing) and 9.4 (No Effect on Processor Terms), the following order of precedence will apply:
 
 (a) the Controller SCCs (if applicable);
 
