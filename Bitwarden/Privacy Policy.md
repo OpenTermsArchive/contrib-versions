@@ -172,7 +172,7 @@ Depending on how Bitwarden is deployed by the customer, Bitwarden may share Pers
 *   Database hosting.
 *   Integration services.
 *   Professional services.
-*   nformation security, integrity, and identity and authentication services.
+*   Information security, integrity, and identity and authentication services.
 *   Email communications (e.g. operational, marketing, events, training, certifications).
 *   Financial operations (e.g. licensing, billing).
 *   Payments and payment card processing.
