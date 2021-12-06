@@ -535,6 +535,6 @@ _27 September 2021_
 
 *   [16 August 2020](https://privacy.google.com/adsprocessorterms-20200816/)
 *   [12 August 2020](https://privacy.google.com/businesses/processorterms-20200812/)
-*   [1 January 2020](https://privacy.google.com/businesses/processorterms-20191031/)
+*   [1 January 2020](https://privacy.google.com/businesses/processorterms-20200101/)
 *   [31 October 2019](https://privacy.google.com/businesses/processorterms-20191031/)
 *   [12 October 2017](https://privacy.google.com/businesses/processorterms-20171012/)
