@@ -432,4 +432,58 @@ We are IKEA Ireland Limited (company number: 400143) (“**IKEA**”) and our re
     **[dataprotection.officer.ie@ingka.ikea.com](mailto:dataprotection.officer.ie@ingka.ikea.com%20()**
     
 
+Privacy policy for IKEA for Business account
+--------------------------------------------
+
+We know how important it is for you to understand how we use your data. This Privacy Policy sets out how and why we collect, use, store and share your personal data when you sign up as a registered user of your company’s IKEA for Business Account (the “Account”).
+
+We encourage you to read this Privacy Policy carefully and if you have any questions or concerns about how we use your personal data, please contact IKEA Customer Support Centre and we will try to address your concerns. Our Customer Support Centre can also put you in contact with our Data Protection Officer if you have more specific questions or concerns.
+
+We are IKEA Ireland Limited (“I**KEA**” or “**we**”, “**us**”), and our registered address is 6th Floor, 2 Grand Canal Square, Dublin 2. We are part of Ingka Group, which means we are ultimately owned by Ingka Holding B.V. IKEA Iis the data controller of any personal data it collects, processes and holds about you in relation to your use of the Account.
+
+**What personal data is collected and why?**
+
+It is completely voluntary to sign up as a user of the Account. However, if you do, we need to know who you are so that we can administrate and secure the Account, enable the functionalities connected to the Account and communicate with you in various matters related thereto. For these purposes we will collect your name, email address and telephone number (optional) and number of the IKEA for Business Card that we issue for you. We will also collect and store information about the purchases that you have made on behalf of your company as well as your other activities on the Account. The information about the purchase history and user activity may be used to send tailored direct marketing if you have specifically consented to receiving such communication.
+
+**Legal ground for processing**
+
+The legal ground for the processing of your personal data is our legitimate interest to administer your use of the Account, provide the features and functionality that we have offered to your company and to collect statistics on how our customers use their IKEA for Business Accounts. We will send you marketing emails only if you have specifically consented to receiving such messages and you can always opt out by clicking on the link in the bottom of each email you receive from us.
+
+**Who has access to your data?**
+
+The administrator of the Account (which is a person within your company) will be able to see the purchases that you have made on behalf of the company and registered on the Account. The Account is operated by IKEA IT AB (which is another company in Ingka Group) and its trusted internal as well as third party service providers. Such service providers may be located outside of the European Union, in which case the transfer of your personal data is secured by additional safeguards, such as e.g. an agreement incorporating standard data protection clauses adopted by the European Commission.
+
+Your rights You have a number of rights relating to your personal data and what happens to it. You are entitled to:
+
+*   have your data processed in a fair, lawful and transparent way;
+*   be informed about how your personal data is being used, an example being this privacy policy;
+*   access personal data we hold about you;
+*   require us to correct any mistakes in your personal data;
+*   require us to delete personal data concerning you in certain situations where there is no good reason for us to continue to process it;
+*   request that we transfer your personal data to you or another service provider in a simple, structured format;
+*   object at any time to processing of your personal data for direct marketing purposes;
+*   object to automated decision making which produces legal effects concerning you or similarly significantly affects you;
+*   object in certain other situations to our continued processing of your personal data and
+*   otherwise restrict or temporarily stop our processing of your personal data in certain circumstances.
+
+You can read more about your rights, including the circumstances in which they apply, in the Guidance from the Irish Data Protection Commissioner (DPC) [https://www.dataprotection.ie/](https://www.dataprotection.ie/). You also have the right to complain about our use of personal data to the DPC. You can do these by contacting the DPC via their website [https://www.dataprotection.ie/en/individuals/raising-concern-commission](https://www.dataprotection.ie/en/individuals/raising-concern-commission) or by emailing [info@dataprotection.ie](mailto:info@dataprotection.ie). If you would like to speak to us in relation to any of your rights, please [contact us](https://www.ikea.com/ie/en/customer-service/contact-us/).
+
+**How long will we keep your data?**
+
+We will keep your personal data as long as you are a registered user of the Account. All personal data will be deleted when the Account is terminated.
+
+**How will we secure your data?**
+
+We take the security of your personal data very seriously. We have implemented various strategies, controls, policies and measures to keep your data secure and keep these measures under close review. We protect your data by using encryption techniques and we use other safeguards such as firewalls and password protection. We do our best to ensure that your data is protected and only accessible to Ingka Group employees (or subcontractors) who need it to carry out their job responsibilities.
+
+**Contact**
+
+If you have any questions about this Privacy Policy or your rights under it, please contact Philip Cooke – IKEA UK&IE Data Protection Officer IKEA Ireland Limited, Customer Support Centre, Kingston Park, Peterborough, PE2 9ET, United Kingdom
+
+01 541 3300
+
+[dataprotection.officer.ie@ingka.ikea.com](mailto:dataprotection.officer.ie@ingka.ikea.com)
+
+Version I, date of publishing December 2021
+
 Date Updated: **July 2021**
