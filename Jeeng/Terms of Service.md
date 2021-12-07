@@ -117,6 +117,4 @@ You hereby authorize Jeeng to use your name, logos and trademarks in our marketi
 
 [**Annex 3** – Advertiser Terms and Conditions](https://www.jeeng.com/annex-3/)
 
-[**Annex 4** – Jeeng Email Terms and Conditions](https://www.jeeng.com/annex-4/)
-
 [**Data Processing Agreement**](https://www.jeeng.com/jeengs-data-processing-agreement/)
