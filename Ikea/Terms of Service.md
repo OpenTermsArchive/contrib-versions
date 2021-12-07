@@ -60,11 +60,11 @@ If you have any questions about these terms and conditions or the policies pleas
     ](https://www.ikea.com/ie/en/customer-service/terms-conditions/ikea-live-lagom-community-terms-and-conditions-pub2f92d371)
 *   [
     
+    IKEA for Business account Terms and Conditions
+    
+    ](https://www.ikea.com/ie/en/customer-service/terms-conditions/ikea-for-business-account-terms-and-conditions-pub1a3082f0)
+*   [
+    
     IKEA Gift Card Terms & Conditions
     
     ](https://www.ikea.com/ie/en/customer-service/terms-conditions/ikea-gift-card-terms-and-conditions-pub01a1bbc0)
-*   [
-    
-    Circular Hub Online Terms & Conditions
-    
-    ](https://www.ikea.com/ie/en/customer-service/terms-conditions/circular-hub-online-terms-and-conditions-pubc376f160)
