@@ -89,6 +89,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   City of Antwerp ([https://www.antwerpen.be/nl/overzicht/open-data/over-opendata/gratis-open-data-licentie](https://www.antwerpen.be/nl/overzicht/open-data/over-opendata/gratis-open-data-licentie))
             
+        *   lez.brussels ([https://financien.belgium.be/sites/default/files/Licence\_plan\_opendata\_FR.PDF](https://financien.belgium.be/sites/default/files/Licence_plan_opendata_FR.PDF))
+            
     5.  **Brazil**
         *   FUNAI (Fundação Nacional do Índio)
             
@@ -479,6 +481,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         *   Unione Dei Comuni Valle Del Savio ([https://creativecommons.org/licenses/by/3.0/](https://creativecommons.org/licenses/by/3.0/))
             
         *   Comune di Anzola dell'Emilia ([https://creativecommons.org/licenses/by/4.0/legalcode.it](https://creativecommons.org/licenses/by/4.0/legalcode.it))
+            
+        *   Comune di Rimini ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
             
     21.  **Ivory Cost (Côte d'Ivoire)**
         
