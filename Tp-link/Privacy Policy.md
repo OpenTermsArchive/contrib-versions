@@ -122,4 +122,4 @@ This Privacy Policy may change from time to time and we may notify you by updati
 
 If you have any questions or need further assistance, please email us at [privacy.us@tp-link.com](mailto:privacy.us@tp-link.com).
 
-TP-Link will be the data controller (i.e. we are responsible for, and control the processing of, your personal information) and can if you have any questions or concerns, please feel free to contact our Data Protection Officer at [gdpr@tp-link.com](mailto:gdpr@tp-link.com).
+TP-Link will be the data controller (i.e. we are responsible for, and control the processing of, your personal information) and can if you have any questions or concerns, please feel free to contact our Data Protection Officer at [privacy@tp-link.com](mailto:privacy@tp-link.com)
