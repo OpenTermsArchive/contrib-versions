@@ -52,12 +52,16 @@ For [newsletter subscribers](https://www.timeanddate.com/newsletter/subscribe.ht
 *   Newsletters received and opened
 *   Additional parameters may be stored by [MailChimp](https://mailchimp.com/legal/privacy/), who we use to send our newsletter; see “Third-Party Privacy Policies” below
 
-For paying [supporters and subscribers](https://www.timeanddate.com/custom/subscriptions.html), in addition to the above-mentioned data, we also store:
+For all paying [supporters and subscribers](https://www.timeanddate.com/custom/subscriptions.html), in addition to the above-mentioned data, we also store:
 
 *   Payment information: either the PayPal address or the last four digits of the credit card used for payment and a log of the steps taken to fulfill your order (stored for up to 90 days)
 *   Country of residence and, if submitted, street address, state, city, and ZIP/postal code
 *   Email address, if different than the one registered for the user account
 *   We use [Braintree](https://www.braintreepayments.com/en-cy/legal/braintree-privacy-policy) and [Paypal](https://www.paypal.com/de/webapps/mpp/ua/privacypps-full?locale.x=en_DE) for payments; see “Third-Party Privacy Policies” below
+
+As part of the [Calendar PDF with Logo](https://www.timeanddate.com/services/calendar-logo.html) subscription, in addition to the above-mentioned data, we also store:
+
+*   The logo image you upload to add it to the [PDF Calendar](https://www.timeanddate.com/calendar/create.html)
 
 IP Address and Cookies
 ----------------------
@@ -105,22 +109,19 @@ Third-Party Privacy Policies
 Third parties we use for advertising:
 
 1.  [Index Exchange](http://www.indexexchange.com/privacy/)
-2.  [Exponential](http://exponential.com/privacy/)  
-    Subject to your consent, Exponential Interactive, Inc collects and profile personal data in the form of IP address and cookie ID from users on our website to provide targeted online advertising and ad measurement. You may change your consent decision at any time. For more details including access requests and complaints, review their privacy policy or contact their data protection officer via privacy@exponential.com  
-    Exponential uses ANON\_ID (persistent tracking cookie), by domain tribalfusion.com. The anonymous hashed id in the cookie links the web user's browser to a profile which contains the behaviours the user has displayed. This is stored for 3 months.
-3.  [Google DFP/AdX](https://policies.google.com/privacy?hl=en)
-4.  [Google Admob](https://policies.google.com/privacy?hl=en)
-5.  [OpenX](https://www.openx.com/legal/privacy-policy/)
-6.  [App Nexus](https://www.appnexus.com/en/company/platform-privacy-policy)
-7.  [Rubicon Project](https://rubiconproject.com/rubicon-project-yield-optimization-privacy-policy/)
-8.  [Conversant](https://www.conversantmedia.com/legal/privacy)
-9.  [Sovrn](https://www.sovrn.com/privacy-policy-eu/)
-10.  [Criteo](https://www.criteo.com/privacy/)
-11.  [Sonobi](https://sonobi.com/privacy-policy/)
-12.  [RhythmOne](https://www.rhythmone.com/privacy-policy#rhythmonelink)
-13.  [District-M](https://districtm.net/en/page/platforms-data-and-privacy-policy/)
-14.  [bRealTime](http://www.brealtime.com/privacy-policy/)
-15.  [Microsoft](https://privacy.microsoft.com/en-US/privacystatement)
+2.  [Google Ad Manager](https://policies.google.com/privacy?hl=en)
+3.  [Google Admob](https://policies.google.com/privacy?hl=en)
+4.  [OpenX](https://www.openx.com/legal/privacy-policy/)
+5.  [App Nexus](https://www.appnexus.com/en/company/platform-privacy-policy)
+6.  [Rubicon Project](https://rubiconproject.com/rubicon-project-yield-optimization-privacy-policy/)
+7.  [Conversant](https://www.conversantmedia.com/legal/privacy)
+8.  [Sovrn](https://www.sovrn.com/privacy-policy-eu/)
+9.  [Criteo](https://www.criteo.com/privacy/)
+10.  [Sonobi](https://sonobi.com/privacy-policy/)
+11.  [RhythmOne](https://www.rhythmone.com/privacy-policy#rhythmonelink)
+12.  [District-M](https://districtm.net/en/page/platforms-data-and-privacy-policy/)
+13.  [bRealTime](http://www.brealtime.com/privacy-policy/)
+14.  [Microsoft](https://privacy.microsoft.com/en-US/privacystatement)
 
 Third parties we use for logging in:
 
