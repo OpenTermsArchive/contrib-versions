@@ -157,6 +157,10 @@ You may designate, in writing or through a power of attorney, an authorized agen
 
 GitLab does not intentionally collect sensitive personal information, such as social security numbers, genetic data, health information, or religious information. Although GitLab does not request or intentionally collect any sensitive personal information, we realize that users might store this kind of information in a GitLab repository. If you are a child under the age of 13, you may not have an account. GitLab does not knowingly collect information from, or direct any of our Services to, children under 13. If we learn or have reason to suspect that a user is under the age of 13, we will close the child’s account.
 
+### CCPA Metrics Reporting
+
+You can find our metrics for data subject requests in the last year [here](https://about.gitlab.com/handbook/legal/ccpa-metrics/).
+
 ### Policy Changes
 
 GitLab may change its Privacy Policy from time to time. When we do, we will update the date at the top of this Policy. If we decide to make a significant change to our Privacy Policy, we will post a notice of the update on the homepage of our Website. We may also provide notification via email of any material changes to our Privacy Policy.
