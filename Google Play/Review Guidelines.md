@@ -26,7 +26,9 @@ If we become aware of content with child sexual abuse imagery, we will report it
 
 * * *
 
-To ensure that Google Play remains a safe and respectful platform, we've created standards defining and prohibiting content that is harmful or inappropriate for our users. Effective from 1 December 2021
+### Inappropriate Content
+
+ Effective from 1 December 2021
 
 To ensure that Google Play remains a safe and respectful platform, we've created standards defining and prohibiting content that is harmful or inappropriate for our users.
 
