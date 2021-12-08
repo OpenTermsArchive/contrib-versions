@@ -14,6 +14,7 @@ The application:
 *   keeps users up to date with the latest health information linked to COVID-19, with the option of filtering by place of interest
 *   can be used to seek information on self-isolating
 *   to keep the certificates of vaccination and negative/positive tests for COVID-19
+*   to be notified of their eligibility for the vaccine booster and of the expiration of their health pass, for the health/activity pass in France
 
 The application is part of an overall contact tracing strategy, the goal of which is to break the chain of transmission. It provides a quicker way of notifying contacts, particularly in cases involving individuals who have been infected by people they don’t know, such as on public transport or in shops.
 
@@ -42,6 +43,8 @@ The data will be used in order to:
 9° Convert former 2D-Doc French digital format to EU Digital COVID-19 certificates
 
 10° Register in restaurants, bars, sports halls in the French it module “Cahier de rappel” for contact tracing purposes
+
+11° Notify users of the application of their eligibility for the vaccine booster and the expiration of their health pass, as part of the health/activity pass in France
 
 ### The legal and regulatory basis for data processing
 
@@ -120,7 +123,7 @@ When seeking information on COVID-19 relating to a place of interest, the inform
 
 When seeking advice on self-isolating, the information that is entered will not be processed by the Ministry for Social Affairs and Health. It will only be stored on individual users’ mobile phones.
 
-For the storage of the certificates of vaccination of negative / positive tests for COVID-19, the information entered is not subject to any processing by the Ministry for Social Affairs and Health. They are stored exclusively in the user's mobile phone so that he/she can present them to public authorities.
+For the storage of the certificates of vaccination or negative / positive tests for COVID-19, as well as for notifications of vaccine booster eligibility or expiration of the health pass (as part of the health/activity pass in France), the information entered is not subject to any processing by the Ministry for Social Affairs and Health. They are stored exclusively in the user's mobile phone so that he/she can present them to public authorities.
 
 #### Consent to use your smartphone's camera
 
