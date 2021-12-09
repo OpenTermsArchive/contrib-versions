@@ -3,7 +3,7 @@ Terms and Conditions
 
 Effective date: June 5, 2019
 
-Thank you for visiting the World Market website (this "website"). This website is owned and operated by Cost Plus, Inc., 1201 Marina Village Parkway, Alameda, CA 94501 ("we," "us," or "the Company").
+Thank you for visiting the World Market website (this "website"). This website is owned and operated by World Market, LLC, 1201 Marina Village Parkway, Alameda, CA 94501 ("we," "us," or "the Company").
 
 Because of the nature of the Internet and our desire to provide you with an enjoyable and helpful visit, it is important to advise you of the rules that apply to your use of our website and ask that you read them carefully. This document (these "Terms and Conditions") is a legally binding agreement between you (including the organization that you represent, if any) and the Company. When you visit or shop at this website you automatically agree to be bound by these Terms and Conditions.
 
@@ -29,7 +29,7 @@ We value your privacy. You must read our [Privacy Policy](https://www.worldmarke
 
 (b) Permitted Use. This website and its contents are intended solely for your personal, non-commercial use in order to view and purchase Products (as defined below) and participate in the programs that we offer (the "Permitted Use") and subject to these Terms and Conditions, you may use this website only for the Permitted Use. You may not access, use, download, copy, reproduce, publish, distribute, modify, or create derivative works from, sell, or exploit in any way the contents of this website, or any related software, or any part thereof for any other purpose whatsoever. You may download or electronically copy and print any page contents displayed on this website for the Permitted Use only and no rights to those materials are transferred to you by such copying. Software used on this website is the property of the Company or its licensors, and is protected by United States and international copyright laws.
 
-(c) Marks. WORLD MARKET; COST PLUS; COST PLUS WORLD MARKET; COST PLUS WORLD MARKET (AND DESIGN); WORLD MARKET EXPLORER, WORLD MARKET REWARDS; WORLD MARKET REWARDS (AND DESIGN); WORLD GRILL; ONE WORLD, ONE STORE; MERCADO DEL MUNDO; BAY MARKET KITCHEN; WORLD MARKET CAFÉ; CRAFT BY WORLD MARKET; and UNIQUE, AUTHENTIC AND ALWAYS AFFORDABLE (among others) are trademarks of our affiliate, Cost Plus Management Services, Inc., and may not be used by you without our written permission.
+(c) Marks. WORLD MARKET; COST PLUS; COST PLUS WORLD MARKET; COST PLUS WORLD MARKET (AND DESIGN); WORLD MARKET EXPLORER, WORLD MARKET REWARDS; WORLD MARKET REWARDS (AND DESIGN); WORLD GRILL; ONE WORLD, ONE STORE; MERCADO DEL MUNDO; BAY MARKET KITCHEN; WORLD MARKET CAFÉ; CRAFT BY WORLD MARKET; and UNIQUE, AUTHENTIC AND ALWAYS AFFORDABLE (among others) are trademarks of our affiliate, World Market, LLC, and may not be used by you without our written permission.
 
 **5\. Intellectual Property Infringement Complaints**
 
@@ -37,7 +37,7 @@ We respect the intellectual property rights of others and expect our users to do
 
 Please send your notice to the following contact information:
 
-Cost Plus, Inc.  
+World Market, LLC  
 Attn: Intellectual Property Agent  
 1201 Marina Village Parkway  
 Alameda, CA 94501  
@@ -123,7 +123,7 @@ Any sweepstakes, contests, raffles, or other promotions (collectively, "Promotio
 
 **15\. Notice and Electronic Communications**
 
-Except as explicitly stated otherwise in these Terms and Conditions, any notices you send to us shall be sent by mail to Cost Plus, Inc., 1201 Marina Village Parkway, Alameda, California 94501, attention: President, which notice will be effective three business days after the date of mailing. In the case of notices we send you, you consent to receive notices and other communications by posting on the website or, in our discretion, by sending you an email. Notice will be deemed given (i) 24 hours after a notice is posted on the website or 24 hours after an email is sent, unless the sending party is notified that the message did not reach the recipient. You agree that a printed version of these Terms & Conditions and/or any notice given in electronic form shall be admissible in judicial or administrative proceedings based upon or relating to these Terms & Conditions to the same extent and subject to the same conditions as other business documents and records originally generated and maintained in printed form.
+Except as explicitly stated otherwise in these Terms and Conditions, any notices you send to us shall be sent by mail to World Market, LLC, 1201 Marina Village Parkway, Alameda, California 94501, attention: President, which notice will be effective three business days after the date of mailing. In the case of notices we send you, you consent to receive notices and other communications by posting on the website or, in our discretion, by sending you an email. Notice will be deemed given (i) 24 hours after a notice is posted on the website or 24 hours after an email is sent, unless the sending party is notified that the message did not reach the recipient. You agree that a printed version of these Terms & Conditions and/or any notice given in electronic form shall be admissible in judicial or administrative proceedings based upon or relating to these Terms & Conditions to the same extent and subject to the same conditions as other business documents and records originally generated and maintained in printed form.
 
 **16\. Modification & Termination**
 
