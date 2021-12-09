@@ -106,7 +106,7 @@ You may create or upload User-Generated Content while using the Service. You are
 
 ### [](#2-github-may-remove-content)2\. GitHub May Remove Content
 
-We have the right to refuse or remove any User-Generated Content that, in our sole discretion, violates any laws or [GitHub terms or policies](https://docs.github.com/en/github/site-policy). User-Generated Content displayed on GitHub for mobile may be subject to mobile app stores' additional terms.
+We have the right to refuse or remove any User-Generated Content that, in our sole discretion, violates any laws or [GitHub terms or policies](https://docs.github.com/en/github/site-policy). User-Generated Content displayed on GitHub Mobile may be subject to mobile app stores' additional terms.
 
 ### [](#3-ownership-of-content-right-to-post-and-license-grants)3\. Ownership of Content, Right to Post, and License Grants
 
