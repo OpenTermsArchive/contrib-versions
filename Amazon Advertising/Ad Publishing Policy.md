@@ -1,7 +1,3 @@
-We are currently experiencing intermittent outages and delays. We’re working to address this as soon as possible and are very sorry for the inconvenience.
-
-We are currently experiencing intermittent outages and delays. We’re working to address this as soon as possible and are very sorry for the inconvenience.
-
 Amazon Ads Guidelines and Acceptance Policies
 =============================================
 
