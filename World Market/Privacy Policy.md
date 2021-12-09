@@ -176,7 +176,7 @@ Contact Information.
 
 If you have any questions, comments, or complaints concerning our privacy practices please contact us at the appropriate address below. We will attempt, where practical, to respond to your requests and to provide you with additional privacy-related information.
 
-[privacy@cpwm.com](mailto:privacy@cpwm.com)  
+[privacy@worldmarket.com](mailto:privacy@worldmarket.com)  
 1201 Marina Village Parkway, Alameda, CA 94501  
 [877-967-5362](tel:/(877)%20967-5362)
 
