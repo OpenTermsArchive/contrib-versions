@@ -38,7 +38,7 @@ _Device Information and Identifiers:_ When you access and use our Services, we a
 
 _License Information:_ For our Self-managed products we may automatically collect information about the number of active users, historical user count, licensee name, email address, IP address and similar information.
 
-_Services Usage Data:_ GitLab may also collect information about how you use our SaaS and Self-hosted products such as, activity data, feature usage, and product version data. This information may be aggregated or identifiable. For more information about the data collected, and how to set your preferences, please visit [Services Usage Data](https://about.gitlab.com/handbook/legal/privacy/services-usage-data/)
+_Services Usage Data:_ GitLab may also collect information about how you use our SaaS and self-managed products such as, activity data, feature usage, and product version data. This information may be aggregated or identifiable. For more information about the data collected, and how to set your preferences, please visit [Services Usage Data](https://about.gitlab.com/handbook/legal/privacy/services-usage-data/)
 
 _Website Usage Data:_ When you visit our Websites, we automatically log information about how you interact with the sites, such as the referring site, data and time of visit, and the pages you have viewed or links clicked on.
 
