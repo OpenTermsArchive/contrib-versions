@@ -50,7 +50,8 @@ We may make the following products and incentives available to you on our Platfo
 
 ### **Contact us** 
 
-*   If you experience an issue when purchasing Coins, contact us at: [https://www.tiktok.com/legal/report/transaction](https://www.tiktok.com/legal/report/transaction)
+*   If you experience an issue when purchasing Coins, contact us at: [https://www.tiktok.com/feedback?lang=en&loc=70](https://www.tiktok.com/feedback?lang=en&loc=70)  
+    
 
 **GIFTS** 
 ----------
@@ -75,7 +76,8 @@ We may make the following products and incentives available to you on our Platfo
 
 *   Gifts exchanged or received by any user do not constitute property and are not transferable: (a) upon death; (b) as part of a domestic relations matter; or (c) otherwise by operation of law. 
 
-*   We may replace previously exchanged copies of Gifts, if we determine in our sole discretion that the Gifts exchanged or received by a user are corrupted or otherwise damaged. We will not charge additional fees for reissuing a corrupted or otherwise damaged Gift. If you receive a corrupted or otherwise damaged Gift, contact us at: [https://www.tiktok.com/legal/report/transaction](https://www.tiktok.com/legal/report/transaction)
+*   We may replace previously exchanged copies of Gifts, if we determine in our sole discretion that the Gifts exchanged or received by a user are corrupted or otherwise damaged. We will not charge additional fees for reissuing a corrupted or otherwise damaged Gift. If you receive a corrupted or otherwise damaged Gift, contact us at: [https://www.tiktok.com/feedback?lang=en&loc=70](https://www.tiktok.com/feedback?lang=en&loc=70)  
+    
 
 *   We reserve the right to terminate or take other appropriate action against the account of any User that is deemed to be abusing the Program or in breach of this Policy.
 
@@ -91,7 +93,8 @@ We may make the following products and incentives available to you on our Platfo
 
 ### **Contact us**
 
-*   If you have any problems with Gifts, contact us at: [https://www.tiktok.com/legal/report/transaction](https://www.tiktok.com/legal/report/transaction)
+*   If you have any problems with Gifts, contact us at: [https://www.tiktok.com/feedback?lang=en&loc=70](https://www.tiktok.com/feedback?lang=en&loc=70)  
+    
 
 **DIAMONDS**
 ------------
@@ -148,7 +151,8 @@ We may make the following products and incentives available to you on our Platfo
 
 ### **Contact Us**
 
-*   If you have any problems with Diamonds, contact us at: [https://www.tiktok.com/legal/report/transaction](https://www.tiktok.com/legal/report/transaction)
+*   If you have any problems with Diamonds, contact us at: [https://www.tiktok.com/feedback?lang=en&loc=70](https://www.tiktok.com/feedback?lang=en&loc=70)  
+    
 
 You may cancel your account at any time, and we may terminate your account in accordance with this Policy. All the Coins, Gifts or Diamonds in your account will be cancelled immediately upon the cancellation or termination of your account. There will be no refunds for any unused or unredeemed Coins, Gifts or Diamonds, so we recommend you use them before terminating your account.
 
@@ -156,10 +160,16 @@ You may cancel your account at any time, and we may terminate your account in ac
 ----------------------------------------------------------------------------------------------
 
 *   Bulgarian: [Политика за виртуални елементи](https://www.tiktok.com/legal/bul-virtual-items-policy?lang=en) 
-*   Croatian: [Pravila o virtualnim predmetima](https://www.tiktok.com/legal/hr-virtual-items-policy?lang=en)
-*   Danish: [Politik for virtuelle ting](https://www.tiktok.com/legal/da-virtual-items-policy?lang=en)
-*   Estonian: [Virtuaalelementide pakkumise põhimõtted](https://www.tiktok.com/legal/est-virtual-items-policy?lang=en)
-*   Latvian: [Virtuālo rīku politika](https://www.tiktok.com/legal/lv-virtual-items-policy?lang=en)
-*   Lithuanian: [Virtualių elementų politika](https://www.tiktok.com/legal/lt-virtual-items-policy?lang=en)
-*   Norwegian: [Retningslinjer for virtuelle artikler](https://www.tiktok.com/legal/no-virtual-items-policy?lang=en)
+*   Croatian: [Pravila o virtualnim predmetima](https://www.tiktok.com/legal/hr-virtual-items-policy?lang=en)  
+    
+*   Danish: [Politik for virtuelle ting](https://www.tiktok.com/legal/da-virtual-items-policy?lang=en)  
+    
+*   Estonian: [Virtuaalelementide pakkumise põhimõtted](https://www.tiktok.com/legal/est-virtual-items-policy?lang=en)  
+    
+*   Latvian: [Virtuālo rīku politika](https://www.tiktok.com/legal/lv-virtual-items-policy?lang=en)  
+    
+*   Lithuanian: [Virtualių elementų politika](https://www.tiktok.com/legal/lt-virtual-items-policy?lang=en)  
+    
+*   Norwegian: [Retningslinjer for virtuelle artikler](https://www.tiktok.com/legal/no-virtual-items-policy?lang=en)  
+    
 *   Slovak: [Zásady pre používanie virtuálnych položiek](https://www.tiktok.com/legal/sk-virtual-items-policy?lang=en)
