@@ -1,7 +1,7 @@
 WECHAT – ACCEPTABLE USE POLICY
 ==============================
 
-Last updated – 2021-08-19
+Last updated – 2021-12-10
 
 Welcome to WeChat!
 
@@ -261,3 +261,12 @@ In addition, we do not accept promotional political content from or paid for by 
 ----------------------
 
 Please contact us at [policy@wechat.com](mailto:policy@wechat.com) to report any breaches (or potential breaches) of this Policy, or if you have any other questions regarding this Policy.
+
+ADDENDUM FOR USERS SUBJECT TO SOUTH KOREAN JURISDICTION
+-------------------------------------------------------
+
+_If you are a user of WeChat who is subject to South Korean jurisdiction, the below additional terms: (i) are incorporated into this Policy; (ii) apply to your use of WeChat; and (iii) override the head terms of this Policy to the extent of any inconsistency._
+
+1\. User-uploaded posts that contain illegal video content may result in criminal consequences in accordance with applicable South Korean laws.
+
+2\. In the case of user-uploaded posts that contain illegal video content and result in criminal consequences in accordance with applicable South Korean laws, we may block the display of the posts or delete them, or refuse to post them, pursuant to Article 22-5 (1) of the Telecommunications Business Act of South Korea.
