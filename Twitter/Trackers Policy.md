@@ -130,3 +130,17 @@ You will always see ads on Twitter based on your Twitter activity. There are a v
 Along with [optout.aboutads.info](https://optout.aboutads.info/?c=2&lang=EN), you can read more about opting out of interest-based ads at [networkadvertising.org/choices](https://optout.networkadvertising.org/?c=1). Lastly, you can opt-out of interest-based Google ads using [Google's Ads Settings](https://adssettings.google.com/u/0/authenticated).
 
 **Important:** To view or change web settings for your Twitter account, you'll need to log in to the web browser. Changing your Twitter settings in the web browser when you’re logged out will only affect behavior on that browser while you aren't logged in to Twitter. Read our article on how to access your [personalization and data settings](https://help.twitter.com/en/personalization-data-settings.html) for more.
+
+The cookies you encounter depend on the features and functionality you use. The most commonly used cookies on Twitter services are described below in the chart, which we update from time to time. Cookie lifespans are capped at 13 months in certain areas.   
+
+**Name**
+
+**Use type**
+
+**External description**
+
+**Controller**
+
+**Learn more**
+
+**Web domain**
