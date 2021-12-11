@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-#### Last Updated: December 3, 2021
+#### Last Updated: December 10, 2021
 
 #### 1\. Universal Service Terms (Applicable to All Services)
 
@@ -1099,7 +1099,7 @@ b. Layer routes from HERE on top of a map from another third-party provider, or 
 
 **83.2**. You represent and warrant to AWS that the person requesting any of your AWS accounts to be an AWS Managed Services Account (as defined in the AWS Managed Services user guides posted on the AWS Site) is authorized to make such requests and procure AWS Managed Services on your behalf and with respect to such AWS accounts. 
 
-**83.3**. AWS and its affiliates will not be liable to you for any damages arising from (a) AWS’s actions taken pursuant to any instructions or requests that you provide or approve, or (b) any change by you to your Managed Environment (as defined in the AWS Managed Services user guides posted on the AWS Site). 
+**83.3.** AWS and its affiliates will not be liable to you for any damages arising from (a) AWS’s actions taken pursuant to any instructions or requests that you provide or approve, (b) you not following an instruction or recommendation from AWS, (c) your delay or withholding of approval for AWS to take a requested action, or (d) any change by you to your Managed Environment (as defined in the AWS Managed Services user guides posted on the AWS Site). 
 
 #### 84\. Amazon FinSpace
 
