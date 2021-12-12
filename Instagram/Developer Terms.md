@@ -302,7 +302,7 @@ Facebook Platform Terms
         i. You must always have in effect and maintain administrative, physical, and technical safeguards that do the following:
         
         *     
-            1\. Meet or exceed industry standards given the sensitivity of the Platform Data; [![](https://scontent-cdg2-1.xx.fbcdn.net/v/t39.2178-6/851547_537948159656190_540847388_n.png?ccb=1-5&_nc_ohc=_DUfmr6c6T4AX8qy-BU&_nc_ht=scontent-cdg2-1.xx&oh=13a731704713dde1fe9d6c4353f03e50&oe=61B93F8A)](https://developers.facebook.com/docs/datasecurity) 
+            1\. Meet or exceed industry standards given the sensitivity of the Platform Data; [![](https://scontent-frt3-1.xx.fbcdn.net/v/t39.2178-6/851547_537948159656190_540847388_n.png?ccb=1-5&_nc_ohc=_DUfmr6c6T4AX8qy-BU&_nc_ht=scontent-frt3-1.xx&oh=41bde2ae577614a9734e8ffdf6ae0f88&oe=61B93F8A)](https://developers.facebook.com/docs/datasecurity) 
             
         *   2\. Comply with applicable law and regulations, including data security and privacy laws, rules, and regulations; and
             
