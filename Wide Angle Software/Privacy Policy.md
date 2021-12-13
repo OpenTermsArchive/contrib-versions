@@ -1,9 +1,7 @@
 Privacy Policy
 ==============
 
-### Background
-
-This Policy applies as between you, the User of this Website and Wide Angle Software Ltd the owner and provider of this Website. This Policy applies to our use of any and all Data collected by us in relation to your use of the Website.
+This Policy applies as between you, the User of this Website and Wide Angle Software Ltd, the owner and provider of this Website. This Policy applies to our use of any and all Data collected by us in relation to your use of the Website. Wide Angle Software is committed to ensuring that we are compliant with our obligations under the General Data Protection Regulation (GDPR) and the California Consumer Privacy Act (CCPA). We are registered with the Information Commissioner's Office and our registration number is ZA517202.
 
 * * *
 
@@ -19,9 +17,11 @@ In this Policy the following terms shall have the following meanings:
   
 *   **“UK and EU Cookie Law”** - means the Privacy and Electronic Communications (EC Directive) Regulations 2003 as amended by the Privacy and Electronic Communications (EC Directive) (Amendment) Regulations 2011;
   
-*   **“User”** - means any third party that accesses the Website and is not employed by Wide Angle Software and acting in the course of their employment; and
+*   **“User”** - means any third party that accesses the Website and is not employed by Wide Angle Software and acting in the course of their employment;
   
-*   **“Website”** - means the website that you are currently using (www.wideanglesoftware.com) and any sub-domains of this site (e.g. subdomain.wideanglesoftware.com) unless expressly excluded by their own terms and conditions.
+*   **“Website”** - means the website that you are currently using (www.wideanglesoftware.com) and any sub-domains of this site (e.g. subdomain.wideanglesoftware.com) unless expressly excluded by their own terms and conditions;
+  
+*   **“Software”** - means the [products](https://www.wideanglesoftware.com/products/) available to download and purchase on this Website. All products available to download and purchase on this Website have been developed by Wide Angle Software staff; we do not offer downloads or offer technical support for third party software.
   
 
 ### 2\. Scope of this Policy
@@ -86,7 +86,7 @@ Wherever you are required to submit Data, you will be given options to restrict 
 
 8.1. Unsubscribe
 
-*   We may, from time to time, email you to invite you to review our products or services, or to make you aware of our other similar products and services which may be of interest to you. If you do not wish to receive emails from us for this purpose, or if you want to be removed from our electronic mailing list you can either select “unsubscribe” from any of the emails that we send or alternatively [contact us](https://www.wideanglesoftware.com/contact/).
+*   We may, from time to time, email you to invite you to review our products or services, or to make you aware of our other similar products and services which may be of interest to you. If you do not wish to receive emails from us for this purpose, or if you want to be removed from our electronic mailing list you can either select “unsubscribe” from any of the emails that we send or alternatively [contact us](https://support.wideanglesoftware.com/hc/en-us/requests/new).
 
 8.2. Access and remove your Data as set out in Clause 11.
 
@@ -105,7 +105,7 @@ We’ll hold your personal data, such as your name, email address and software a
 
 ### 11\. Accessing your own Data
 
-Subject to limitations set out in EEA data protection laws, you have certain rights in respect of your Personal Data. In particular, you have a right of access, rectification, restriction, opposition, erasure and data portability. Please [contact us](https://www.wideanglesoftware.com/contact/) if you wish to exercise these rights.
+The General Data Protection Regulation gives individuals the right to access personal data that an organisation holds about them. The process for requesting this data is known as a "Subject Access Request". In particular, you have a right of access, rectification, restriction, opposition, erasure and data portability. Please [contact us](https://support.wideanglesoftware.com/hc/en-us/requests/new) if you wish to exercise these rights.
 
 ### 12\. Security
 
