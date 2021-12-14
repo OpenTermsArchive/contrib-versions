@@ -240,7 +240,7 @@ Roblox aims to build a community that’s transparent about its rules and how th
       
     
 25.  **Directing Users Off-Platform**  
-    When using Roblox, you may not link to any external websites or services, **except for**: YouTube, Facebook, Discord, Twitter, and Twitch. Any in-experience link must be wrapped in the [applicable Policy API](https://developer.roblox.com/en-us/api-reference/function/PolicyService/GetPolicyInfoForPlayerAsync). You may also share social links using the Social Networks and Social Links settings of your profile or experience description page. Any other links are prohibited, including:
+    When using Roblox, you may not link to any external websites or services, **except for**: YouTube, Facebook, Discord, Twitter, and Twitch. Links to any of those approved sites must be wrapped in the [applicable Policy API](https://developer.roblox.com/en-us/api-reference/function/PolicyService/GetPolicyInfoForPlayerAsync) or listed in the Social Networks and Social Links settings of your profile or experience description page. Links that appear in locations where the API cannot be deployed - such as text chat - are prohibited. Any other links are prohibited, including:
     
     *   Links that contain Roblox-inappropriate content
     *   Partial links, filter-breaking, and permitted website links to non-permitted websites
@@ -307,6 +307,6 @@ To maintain a safe metaverse, Roblox does **not** permit:
 
 See the [Roblox Terms of Use](https://en.help.roblox.com/hc/en-us/articles/115004647846) for more information.
 
-**Last Updated**: November 18, 2021
+**Last Updated**: December 13, 2021
 
 [Return to top](#article-container)
