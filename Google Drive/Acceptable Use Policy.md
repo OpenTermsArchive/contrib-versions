@@ -41,7 +41,7 @@ More broadly, Google prohibits the use of our products to endanger children. Thi
 *   Trafficking of a child (for example, advertising or solicitation of a child for commercial sexual exploitation).  
 
    
-We will remove such content and take appropriate action, which may include reporting to the National Center for Missing & Exploited Children, limiting access to product features, and disabling accounts. If you believe that a child is in danger of or has been subject to abuse, exploitation or trafficking, contact the police immediately. 
+We will remove such content and take appropriate action, which may include reporting to the National Center for Missing & Exploited Children, limiting access to product features, and disabling accounts. If you believe that a child is in danger of or has been subject to abuse, exploitation or trafficking, contact the police immediately. If you have already made a report to the police and still need help, [you can report the behaviour to Google](https://support.google.com/families/contact/report_child_grooming).
 
 Circumvention
 
