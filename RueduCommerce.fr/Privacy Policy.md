@@ -189,7 +189,7 @@ Par ailleurs, vous pouvez demander à exercer votre droit d’opposition pour de
 
 Rue du Commerce souhaite vous informer que le non renseignement ou la modification de vos données sont susceptibles d’avoir des conséquences dans le traitement de certaines demandes dans le cadre de l’exécution des conditions générales du programme de fidélité et que vos demandes au titre de l’exercice des droits sera conservées à des fins de suivi.
 
-Pour exercer vos droits, il vous suffit d’écrire à Rue du Commerce, Service Client - 44/50 Avenue du Capitaine Glarner - 93585 Saint-Ouen CEDEX, ou par email à l'adresse suivante : dpo@rueducommerce.com en nous indiquant vos nom, prénom, adresse e-mail et si possible votre référence client. Une réponse vous sera alors adressée dans les meilleurs délais.
+Pour exercer vos droits, il vous suffit d’écrire à Rue du Commerce, Service Client - 118 rue de Javel - 75015 Paris, ou par email à l'adresse suivante : dpo@rueducommerce.com en nous indiquant vos nom, prénom, adresse e-mail et si possible votre référence client. Une réponse vous sera alors adressée dans les meilleurs délais.
 
 Nous vous informons par ailleurs de l’existence de la liste d'opposition au démarchage téléphonique « Bloctel », gérée par Opposetel, sur laquelle vous pouvez vous inscrire gratuitement ici : [https://conso.bloctel.fr/](https://conso.bloctel.fr/).
 
@@ -349,9 +349,9 @@ Vous pouvez à tout moment et facilement vous opposer au dépôt des cookies Liv
 12\. Qui contacter en cas de difficultes ?
 ------------------------------------------
 
-**Service Client** : Rue du commerce, Service clients – 44/50 avenue du Capitaine Glarner - 93585 - St-Ouen Cedex ou au ![Numéro téléphone Service Client](https://www.rueducommerce.fr/static/drupal-front/inline-images/T%C3%A9l%C3%A9phone.gif) du lundi au vendredi de 8h à 21h, le samedi de 9h à 18h et les dimanches et jours fériés de 10h à 18h
+**Service Client** : Rue du commerce, Service clients – 118 rue de Javel\- 75015 Paris ou au ![Numéro téléphone Service Client](https://www.rueducommerce.fr/static/drupal-front/inline-images/T%C3%A9l%C3%A9phone.gif) du lundi au vendredi de 8h à 21h, le samedi de 9h à 18h et les dimanches et jours fériés de 10h à 18h
 
-**Délégué à la Protection des Données Personnelles** : Chez Rue du Commerce, un Délégué à la Protection des Données a été désigné. Vous pouvez le contacter pour toutes questions relatives au traitement de vos données personnelles: Rue du Commerce - Délégué à la Protection des données personnelles – 44/50 avenue du Capitaine Glarner - 93585 - St-Ouen Cedex  
+**Délégué à la Protection des Données Personnelles** : Chez Rue du Commerce, un Délégué à la Protection des Données a été désigné. Vous pouvez le contacter pour toutes questions relatives au traitement de vos données personnelles: Rue du Commerce - Délégué à la Protection des données personnelles – 118 rue de Javel\- 75015 Paris  
   
   
 
@@ -543,7 +543,7 @@ Par ailleurs, vous pouvez demander à exercer votre droit d’opposition pour de
 
 Rue du Commerce souhaite vous informer que le non renseignement ou la modification de vos données sont susceptibles d’avoir des conséquences dans le traitement de certaines demandes dans le cadre de l’exécution des conditions générales du programme de fidélité et que vos demandes au titre de l’exercice des droits sera conservées à des fins de suivi.
 
-Pour exercer vos droits, il vous suffit d’écrire à Rue du Commerce, Service Client - 44/50 Avenue du Capitaine Glarner - 93585 Saint-Ouen CEDEX, ou par email à l'adresse suivante : dpo@rueducommerce.com en nous indiquant vos nom, prénom, adresse e-mail et si possible votre référence client. Une réponse vous sera alors adressée dans les meilleurs délais.
+Pour exercer vos droits, il vous suffit d’écrire à Rue du Commerce, Service Client - 118 rue de Javel - 75015 Paris, ou par email à l'adresse suivante : dpo@rueducommerce.com en nous indiquant vos nom, prénom, adresse e-mail et si possible votre référence client. Une réponse vous sera alors adressée dans les meilleurs délais.
 
 Nous vous informons par ailleurs de l’existence de la liste d'opposition au démarchage téléphonique « Bloctel », gérée par Opposetel, sur laquelle vous pouvez vous inscrire gratuitement ici : [https://conso.bloctel.fr/](https://conso.bloctel.fr/).
 
@@ -703,6 +703,6 @@ Vous pouvez à tout moment et facilement vous opposer au dépôt des cookies Liv
 12\. Qui contacter en cas de difficultes ?
 ------------------------------------------
 
-**Service Client** : Rue du commerce, Service clients – 44/50 avenue du Capitaine Glarner - 93585 - St-Ouen Cedex ou au ![Numéro téléphone Service Client](https://www.rueducommerce.fr/static/drupal-front/inline-images/T%C3%A9l%C3%A9phone.gif) du lundi au vendredi de 8h à 21h, le samedi de 9h à 18h et les dimanches et jours fériés de 10h à 18h
+**Service Client** : Rue du commerce, Service clients – 118 rue de Javel\- 75015 Paris ou au ![Numéro téléphone Service Client](https://www.rueducommerce.fr/static/drupal-front/inline-images/T%C3%A9l%C3%A9phone.gif) du lundi au vendredi de 8h à 21h, le samedi de 9h à 18h et les dimanches et jours fériés de 10h à 18h
 
-**Délégué à la Protection des Données Personnelles** : Chez Rue du Commerce, un Délégué à la Protection des Données a été désigné. Vous pouvez le contacter pour toutes questions relatives au traitement de vos données personnelles: Rue du Commerce - Délégué à la Protection des données personnelles – 44/50 avenue du Capitaine Glarner - 93585 - St-Ouen Cedex
+**Délégué à la Protection des Données Personnelles** : Chez Rue du Commerce, un Délégué à la Protection des Données a été désigné. Vous pouvez le contacter pour toutes questions relatives au traitement de vos données personnelles: Rue du Commerce - Délégué à la Protection des données personnelles – 118 rue de Javel\- 75015 Paris
