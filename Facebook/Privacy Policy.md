@@ -76,8 +76,6 @@ We use the information we have to deliver our Products, including to personalise
     
 *   **Product research and development:** We use the information we have to develop, test and improve our Products, including by conducting surveys and research, and testing and troubleshooting new products and features.
     
-*   **Face recognition:** If you have it turned on, we use face recognition technology to recognise you in photos, videos and camera experiences. The face recognition templates that we create are [data with special protections](#data-special-protections) under EU law. Learn more about [how we use face recognition technology](https://www.facebook.com/help/122175507864081?ref=dp), or control our use of this technology in [Facebook settings](https://www.facebook.com/settings/facerec). If we introduce face recognition technology to your Instagram experience, we will let you know first, and you will have control over whether we use this technology for you.
-    
 *   **Ads and other sponsored content:** We use the information we have about you – including information about your interests, actions and connections – to select and personalise ads, offers and other sponsored content that we show you. Learn more about how we [select and personalise ads](https://www.facebook.com/ads/preferences), and your choices over the data we use to select ads and other sponsored content for you in the [Facebook Settings](https://www.facebook.com/settings) and [Instagram Settings](https://www.instagram.com/accounts/privacy_and_security/).
     
 
