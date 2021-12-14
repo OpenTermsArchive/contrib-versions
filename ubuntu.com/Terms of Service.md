@@ -160,6 +160,7 @@ The open source software platform that runs everywhere from the smartphone, the 
     *   [EdgeX](https://ubuntu.com/internet-of-things/edgex)
     *   [Networking](https://ubuntu.com/internet-of-things/networking)
     *   [Smart city](https://ubuntu.com/internet-of-things/smart-city)
+    *   [Management](https://ubuntu.com/internet-of-things/management)
 *   [Raspberry Pi](https://ubuntu.com/raspberry-pi)
     -----------------------------------------------
     
