@@ -2,7 +2,7 @@ Conditions générales d'utilisation de la Galerie Marchande
 ==========================================================
 
   
-Le service « Galerie Marchande Rue du Commerce » (ci-après « **Galerie Marchande Rue du Commerce** ») est proposé par la société RUE DU COMMERCE (ci-après « **Rue du Commerce** »), Société par actions simplifiée au capital de **111.950.672 euros** inscrite au Registre du Commerce et des Sociétés de Bobigny sous le numéro B 422 797 720, siégeant 44/50 Avenue du Capitaine Glarner 93400 à Saint-Ouen, TVA numéro FR26 422 797 720.
+Le service « Galerie Marchande Rue du Commerce » (ci-après « **Galerie Marchande Rue du Commerce** ») est proposé par la société RUE DU COMMERCE (ci-après « **Rue du Commerce** »), Société par actions simplifiée au capital de **111.950.672 euros** inscrite au Registre du Commerce et des Sociétés de Bobigny sous le numéro B 422 797 720, siégeant 118 rue de Javel - 75015 Paris, TVA numéro FR26 422 797 720.
 
 1\. Objet
 ---------
@@ -225,7 +225,7 @@ Si aucune solution ne peut être trouvée avec le Partenaire Marchand malgré l�
   
 
   
-Le service « Galerie Marchande Rue du Commerce » (ci-après « **Galerie Marchande Rue du Commerce** ») est proposé par la société RUE DU COMMERCE (ci-après « **Rue du Commerce** »), Société par actions simplifiée au capital de **111.950.672 euros** inscrite au Registre du Commerce et des Sociétés de Bobigny sous le numéro B 422 797 720, siégeant 44/50 Avenue du Capitaine Glarner 93400 à Saint-Ouen, TVA numéro FR26 422 797 720.
+Le service « Galerie Marchande Rue du Commerce » (ci-après « **Galerie Marchande Rue du Commerce** ») est proposé par la société RUE DU COMMERCE (ci-après « **Rue du Commerce** »), Société par actions simplifiée au capital de **111.950.672 euros** inscrite au Registre du Commerce et des Sociétés de Bobigny sous le numéro B 422 797 720, siégeant 118 rue de Javel - 75015 Paris, TVA numéro FR26 422 797 720.
 
 1\. Objet
 ---------
