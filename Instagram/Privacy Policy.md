@@ -246,7 +246,7 @@ We'll notify you before we make changes to this Policy and give you the opportun
 
 **XI. How to contact Facebook with questions**
 
-You can learn more about how privacy works [on Facebook](https://www.facebook.com/about/basics) and on [Instagram](https://help.instagram.com/196883487377501?ref=dp). If you have questions about this Policy, you can contact us as described below.
+You can learn more about how privacy works [on Facebook](https://www.facebook.com/about/basics) and on [Instagram](https://help.instagram.com/196883487377501?ref=dp). If you have questions about this policy, you can contact us as described below.
 
 The data controller responsible for your information is Facebook Ireland, which you can [contact online](https://help.instagram.com/contact/186020218683230)or by writing to:  
   
