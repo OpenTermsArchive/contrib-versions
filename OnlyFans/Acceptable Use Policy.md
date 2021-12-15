@@ -33,28 +33,29 @@ In this Policy, defined terms have the same meanings as in our [Terms of Use for
     5.  contains or refers to anyone else's personal data or private or confidential information (for example, telephone numbers, location information (including street addresses and GPS coordinates), names, identity documents, email addresses, log-in credentials for OnlyFans including passwords and security questions, financial information including bank account and credit card details, biometric data, and medical records) without that person's express written consent;
     6.  either:
         
-        *   in the case of Content featuring public nudity, was recorded in or is being broadcast from a country, State or province where public nudity is illegal; or
-        *   in the case of Content featuring sexual activities, was recorded in or is being broadcast from a public place where members of the public are reasonably likely to see the activities being performed (this does not include outdoor places where members of the public are not present, for example private property such as a private backyard, or secluded areas in nature where members of the public are not present).
+        1.  in the case of Content featuring public nudity, was recorded in or is being broadcast from a country, State or province where public nudity is illegal; or
+        2.  in the case of Content featuring sexual activities, was recorded in or is being broadcast from a public place where members of the public are reasonably likely to see the activities being performed (this does not include outdoor places where members of the public are not present, for example private property such as a private backyard, or secluded areas in nature where members of the public are not present).
     7.  gives the impression that it comes from or is approved, licensed or endorsed by us or any other person or company;
     8.  causes or is calculated to cause inconvenience, or anxiety to anyone else or which is likely to upset, embarrass, or cause serious offence to anyone else;
     9.  is used or is intended to be used to extract money or another benefit from anyone else in exchange for removal of the Content; and/or
-    10.  involves or promotes third party commercial activities or sales, such as contests, sweepstakes and other sales promotions, product placements, advertising, or job posting or employment ads without our prior express consent.
-6.  **Do not** use OnlyFans to stalk, bully, abuse, harass, threaten or intimidate anyone else.
-7.  **Do not** use OnlyFans to engage in misleading or deceptive conduct, or conduct that is likely to mislead or deceive any other User.
-8.  Respect the intellectual property rights of Creators, including by not recording, reproducing, sharing, communicating to the public or otherwise distributing their Content without authorization.
-9.  **Do not** do anything that violates our or someone else's rights, including intellectual property rights (examples of which are copyright, trademarks, confidential information, and goodwill), personality rights, unfair competition, privacy, and data protection rights.
-10.  **Do not** impersonate us, one of our employees, another User, or any other person or company or falsely state or suggest any affiliation, endorsement, sponsorship between you and us or any other person or company.
-11.  **Do not** provide false account registration information or make unauthorized use of anyone else's information or Content.
-12.  **Do not** post or cause to be posted any Content which is spam, which has the intention or effect of artificially increasing any Creator's views or interactions, or which is otherwise inauthentic, repetitive, misleading or low quality.
-13.  **Do not** transmit, stream, or otherwise send any pre-recorded audio or video material during a live stream or otherwise attempt to pass off recorded material as a live stream.
-14.  **Do not** use other media or methods (for example the use of codewords or signals) to communicate anything which violates this Policy.
-15.  **Do not** reproduce, print, distribute, attempt to download, modify, create derivative works of, publicly display, publicly perform, republish, download, store or transmit any Content, except as permitted under the Terms of Service.
-16.  **Do not** knowingly introduce any viruses, trojans, worms, logic bombs or other material into Content which is or may be malicious or technologically harmful.
-17.  **Do not** decompile, disassemble, reverse engineer, or otherwise attempt to discover or derive the source code of OnlyFans.
-18.  **Do not** use OnlyFans in a way that could adversely affect our systems or security or interfere with any other User’s use of OnlyFans, including their ability to engage in real time activities through OnlyFans.
-19.  **Do not** use any automated program, tool or process (such as web crawlers, robots, bots spiders, and automated scripts) to access OnlyFans or any server, network or system associated with OnlyFans, or to extract, scrape, collect, harvest or gather Content or information from OnlyFans.
-20.  **Do not** use OnlyFans' name, logo or any related or similar names, logos, product and service names, designs, or slogans other than in the limited ways which are expressly permitted in the Terms of Service or with our prior written agreement.
+    10.  involves or promotes third-party commercial activities or sales, such as contests, sweepstakes and other sales promotions, product placements, advertising, or job posting or employment ads without our prior express consent.
+6.  You must comply with any requirements set out in our [Community Guidelines](https://onlyfans.com/help). Our Community Guidelines can be found [here](https://onlyfans.com/help).
+7.  **Do not** use OnlyFans to stalk, bully, abuse, harass, threaten or intimidate anyone else.
+8.  **Do not** use OnlyFans to engage in misleading or deceptive conduct, or conduct that is likely to mislead or deceive any other User.
+9.  Respect the intellectual property rights of Creators, including by not recording, reproducing, sharing, communicating to the public or otherwise distributing their Content without authorization.
+10.  **Do not** do anything that violates our or someone else's rights, including intellectual property rights (examples of which are copyright, trademarks, confidential information, and goodwill), personality rights, unfair competition, privacy, and data protection rights.
+11.  **Do not** impersonate us, one of our employees, another User, or any other person or company or falsely state or suggest any affiliation, endorsement, sponsorship between you and us or any other person or company.
+12.  **Do not** provide false account registration information or make unauthorized use of anyone else's information or Content.
+13.  **Do not** post or cause to be posted any Content which is spam, which has the intention or effect of artificially increasing any Creator's views or interactions, or which is otherwise inauthentic, repetitive, misleading or low quality.
+14.  **Do not** transmit, stream, or otherwise send any pre-recorded audio or video material during a live stream or otherwise attempt to pass off recorded material as a live stream.
+15.  **Do not** use other media or methods (for example the use of codewords or signals) to communicate anything which violates this Policy.
+16.  **Do not** reproduce, print, distribute, attempt to download, modify, create derivative works of, publicly display, publicly perform, republish, download, store or transmit any Content, except as permitted under the Terms of Service.
+17.  **Do not** knowingly introduce any viruses, trojans, worms, logic bombs or other material into Content which is or may be malicious or technologically harmful.
+18.  **Do not** decompile, disassemble, reverse engineer, or otherwise attempt to discover or derive the source code of OnlyFans.
+19.  **Do not** use OnlyFans in a way that could adversely affect our systems or security or interfere with any other User’s use of OnlyFans, including their ability to engage in real-time activities through OnlyFans.
+20.  **Do not** use any automated program, tool or process (such as web crawlers, robots, bots, spiders, and automated scripts) to access OnlyFans or any server, network or system associated with OnlyFans, or to extract, scrape, collect, harvest or gather Content or information from OnlyFans.
+21.  **Do not** use OnlyFans' name, logo or any related or similar names, logos, product and service names, designs, or slogans other than in the limited ways which are expressly permitted in the Terms of Service or with our prior written agreement.
 
 Breaches of this Policy may lead to your account being suspended or terminated, and access to your earnings being revoked, as set out in the Terms of Service.
 
-**Last updated: March 2021**
+**Last updated: December 2021**
