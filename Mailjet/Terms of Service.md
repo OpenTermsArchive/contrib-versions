@@ -11,7 +11,7 @@ The Services are exclusively reserved for a professional use and are not availab
 
 The following words, when capitalized, have the meaning stated:
 
-“Affiliate” means any entity that is owned or that owns a party, or that is under its common control.
+“Affiliate” means any entity that is owned or that owns a party, or that is under its common control. 
 
 “Agreement” means, collectively, the Service Order, these Terms of Service, and each of the other documents referenced in these Terms of Service.
 
