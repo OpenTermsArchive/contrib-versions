@@ -442,6 +442,7 @@ The open source software platform that runs everywhere from the smartphone, the 
 *   *   [Containers](https://ubuntu.com/containers)
     *   [Tutorials](https://ubuntu.com/tutorials)
     *   [16-04](https://ubuntu.com/16-04)
+    *   [Model-driven operations](https://ubuntu.com/model-driven-operations)
 
 * * *
 
