@@ -1,7 +1,7 @@
 Cloudflare Self-Serve Subscription Agreement
 ============================================
 
-Effective September 28, 2021
+Effective December 15, 2021
 
 PLEASE READ THE FOLLOWING CAREFULLY AS IT AFFECTS YOUR LEGAL RIGHTS. THIS SELF-SERVE SUBSCRIPTION AGREEMENT (“SUBSCRIPTION AGREEMENT”), [SUPPLEMENTAL TERMS](https://www.cloudflare.com/supplemental-terms/), [DOMAIN REGISTRATION AGREEMENT](https://www.cloudflare.com/domain-registration-agreement/), ANY PLAN OR FEATURE LIMITS, PRODUCT DISCLAIMERS, OR OTHER RESTRICTIONS PRESENTED TO YOU ON THE CLOUDFLARE WEBSITE OR DOCUMENTATION, AND ALL OTHER APPLICABLE TERMS (COLLECTIVELY, THE “AGREEMENT”) GOVERN YOUR USE OF OUR SERVICES (AS DEFINED BELOW), INCLUDING BUT NOT LIMITED TO, ANY FREE, TRIAL, OR PAID CLOUDFLARE SERVICES OR SOFTWARE WHERE THE SUBSCRIPTION AGREEMENT APPEARS OR IS LINKED TO. THE [SUPPLEMENTAL TERMS](https://www.cloudflare.com/supplemental-terms/) AND [DOMAIN REGISTRATION AGREEMENT](https://www.cloudflare.com/domain-registration-agreement/) (EACH WHERE APPLICABLE), WHICH MAY BE UPDATED BY US FROM TIME TO TIME, ARE HEREBY INCORPORATED BY REFERENCE INTO THE SUBSCRIPTION AGREEMENT.
 
@@ -35,15 +35,15 @@ Unless otherwise expressly permitted in writing by Cloudflare, you will not and 
 
 (d) introduce software or automated agents or scripts into the Services so as to produce multiple accounts, generate automated searches, requests or queries, or to strip or mine data from the Services;
 
-(f) perform or publish any benchmark tests or analyses relating to the Services without Cloudflare’s written consent;
+(e) cover or obscure any page or part of the Services via HTML/CSS, scripting, or any other means;
 
-(g) cover or obscure any page or part of the Services via HTML/CSS, scripting, or any other means;
+(f) reverse engineer the Services;
 
-(h) reverse engineer the Services;
+(g) process or collect personal or business credit card information on any web property that is receiving Free Services (as defined below); or
 
-(i) process or collect personal or business credit card information on any web property that is receiving Free Services (as defined below); or
+(h) use the Services to store or transmit any “protected health information” as that term is defined in 45 C.F.R. 160.103 without Cloudflare’s written consent.
 
-(j) use the Services to store or transmit any “protected health information” as that term is defined in 45 C.F.R. 160.103 without Cloudflare’s written consent.
+You are permitted to perform benchmark tests of our Services. If you disclose results of any benchmark tests of our Services performed by you or a third party under your direction, you (i) will include in any disclosure or otherwise make available all information necessary to replicate such benchmark tests, and (ii) agree that we may perform and disclose the results of benchmark tests of your services, irrespective of any restrictions on benchmarks in the terms governing your services.
 
 ### 2.3 Credentials
 
@@ -91,10 +91,10 @@ By using the Services you are agreeing, among other things, that you will not us
 
 The Services are offered primarily as a platform to cache and serve web pages and websites. Unless explicitly included as part of a Paid Service purchased by you, you agree to use the Services solely for the purpose of (i) serving web pages as viewed through a web browser or other functionally equivalent applications, including rendering Hypertext Markup Language (HTML) or other functional equivalents, and (ii) serving web APIs subject to the restrictions set forth in this Section 2.8. Use of the Services for serving video or a disproportionate percentage of pictures, audio files, or other non-HTML content is prohibited, unless purchased separately as part of a Paid Service or expressly allowed under our [Supplemental Terms](https://www.cloudflare.com/supplemental-terms/) for a specific Service. If we determine you have breached this Section 2.8, we may immediately suspend or restrict your use of the Services, or limit End User access to certain of your resources through the Services.
 
-3\. Third Party Products and Services
+3\. Third-Party Products and Services
 -------------------------------------
 
-You may access or use, at your sole discretion, certain third-party products and services that interoperate with the Services (“Third Party Products”), including, but not limited to, third-party apps provided on Cloudflare Apps, third-party service integrations made available through the Cloudflare dashboard or APIs, and third-party products or services that you authorize to access your Cloudflare account using OAuth or other Credentials. Cloudflare does not make any representations, warranties, or guarantees regarding the Third Party Products and the providers thereof, including, but not limited to, as to their continued availability, security, and integrity. If Cloudflare makes a Third Party Product available to you, it is on an “AS IS” and “AS AVAILABLE” basis, and Cloudflare may cease providing it without entitling you to any refund, credit, or other compensation. Each Third Party Product is governed by the terms of service, end user license agreement, privacy policies, and/or any other applicable terms and policies of the third party provider. Your access or use of a Third Party Product is solely between you and the applicable Third Party Product provider. Cloudflare will not be directly or indirectly responsible or liable to you in any manner, for any harms, damages, loss, lost profits, special or consequential damages, or claims, arising out of or in connection with the installation of, use of, or reliance on the performance of any of the Third Party Products. Further information related to the apps available via Cloudflare Apps is available on the Cloudflare Apps page located [here](https://www.cloudflare.com/apps/).
+You may access or use, at your sole discretion, certain third-party products and services that interoperate with the Services (“Third-Party Products”), including, but not limited to, third-party apps provided on Cloudflare Apps, third-party service integrations made available through the Cloudflare dashboard or APIs, and third-party products or services that you authorize to access your Cloudflare account using OAuth or other Credentials. Cloudflare does not make any representations, warranties, or guarantees regarding the Third-Party Products and the providers thereof, including, but not limited to, as to their continued availability, security, and integrity. If Cloudflare makes a Third-Party Product available to you, it is on an “AS IS” and “AS AVAILABLE” basis, and Cloudflare may cease providing it without entitling you to any refund, credit, or other compensation. Each Third-Party Product is governed by the terms of service, end user license agreement, privacy policies, and/or any other applicable terms and policies of the third party provider. Your access or use of a Third-Party Product is solely between you and the applicable Third-Party Product provider. Cloudflare will not be directly or indirectly responsible or liable to you in any manner, for any harms, damages, loss, lost profits, special or consequential damages, or claims, arising out of or in connection with the installation of, use of, or reliance on the performance of any of the Third-Party Products. Further information related to the apps available via Cloudflare Apps is available on the Cloudflare Apps page located [here](https://www.cloudflare.com/apps/).
 
 4\. Billing
 -----------
