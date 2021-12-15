@@ -36,7 +36,7 @@
 
 [K. LANGUAGE.](http://rule.alibaba.com/rule/detail/2034.htm#KK)
 
-**Note: this Alibaba.com Privacy Policy applies to the collection, use and disclosure of information in connection with the products and services offered by Alibaba.com. Please refer to** **[AliExpress.com Privacy Policy](https://service.aliexpress.com/page/knowledge?pageId=37&category=1000022028&knowledge=1060015216&language=en)** **for the privacy policy that governs the collection, use and disclosure of information in connection with the products and services offered by AliExpress.com.**   
+**Note: this Alibaba.com Privacy Policy applies to the collection, use and disclosure of information in connection with the products and services offered by Alibaba.com. Please refer to** **[AliExpress.com Privacy Policy](https://terms.alicdn.com/legal-agreement/terms/suit_bu1_aliexpress/suit_bu1_aliexpress201909171350_82407.html)** **for the privacy policy that governs the collection, use and disclosure of information in connection with the products and services offered by AliExpress.com.**   
  
 
 We at Alibaba.com (**"we", "us"**) recognize the importance of privacy and confidentiality of personal information.   
