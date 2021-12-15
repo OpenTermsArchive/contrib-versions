@@ -1,7 +1,7 @@
-_The Facebook company is now Meta. While our company name is changing, we are continuing to offer the same products, including the Facebook app from Meta. Our Data Policy and Terms of Service remain in effect, and this name change does not affect how we use or share data. [Learn more about Meta](https://about.facebook.com/meta) and our vision for the metaverse._
+_The Facebook company is now Meta. While our company name is changing, we are continuing to offer the same products, including the Facebook app from Meta. Our Data Policy and Terms of Service remain in effect, and this name change does not affect how we use or share data._ [_Learn more about Meta_](https://about.facebook.com/meta) _and our vision for the metaverse._
 
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
   
   
@@ -230,7 +230,7 @@ We'll notify you before we make changes to this Policy and give you the opportun
 
 ### How to contact Facebook with questions
 
-You can learn more about how privacy works [on Facebook](https://www.facebook.com/about/basics) and on [Instagram](https://help.instagram.com/196883487377501?ref=dp). If you have questions about this Policy, you can contact us as described below.
+You can learn more about how privacy works [on Facebook](https://www.facebook.com/about/basics) and on [Instagram](https://help.instagram.com/196883487377501?ref=dp). If you have questions about this policy, you can contact us as described below.
 
 Contact us
 
