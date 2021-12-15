@@ -5,7 +5,7 @@ Privacy Notice
 
 * * *
 
-_Effective: January 1, 2021._
+_Effective: January 1, 2022._
 
 Key Information
 ---------------
@@ -38,7 +38,7 @@ If we rely on your consent for us to use your personal information in a particul
 What Information We Collect
 ---------------------------
 
-We gather two types of information about users through the Site:
+We gather the following types of information about users through the Site:
 
 1.  **Information relating to your use of our Site.** When users come to our Site, we may track, collect, and aggregate information indicating, among other things, which pages of our Site were visited, the order in which they were visited, when they were visited, and which hyperlinks were clicked. We also collect information from the URLs from which you linked to our Site. Collecting such information may involve logging the IP address, operating system, and browser software used by each user of the Site. We may be able to determine from an IP address a user’s Internet Service Provider and the geographic location of their point of connectivity. Location data may be used to route your traffic to the nearest regional server to reduce latency and improve your experience. We may also use cookies and web beacons when you visit our Site. For more information on our use of cookies and web beacons, please refer to our [Cookies Policy](https://www.coursera.org/about/cookies).
     
@@ -106,7 +106,7 @@ Coursera UK Limited serves as the EU Representative for Coursera, Inc. To contac
     
     Phone: +44 20 3457 0256
     
-    Email: eu-representative@coursera.org 
+    Email: eu-representative@coursera.org
 
 California Privacy Rights
 -------------------------
@@ -154,7 +154,7 @@ Privacy Shield Notice
 
 * * *
 
-_Effective as of January 1, 2021._
+_Effective as of January 1, 2022._
 
 Introduction.
 -------------
