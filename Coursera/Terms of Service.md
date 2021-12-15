@@ -5,14 +5,14 @@ Terms of Use
 
 * * *
 
-_Effective: January 1, 2021._
+_Effective: January 1, 2022._
 
 Thank you for using Coursera!
 -----------------------------
 
-Coursera offers products and services provided by Coursera, Inc., our subsidiaries, and our international branches ("Coursera," "us," "we," or "our"). These Terms of Use ("Terms") govern your use of our website, apps, and other products and services ("Services"). As some of our Services may be software that is downloaded to your computer, phone, tablet, or other device, you agree that we may automatically update this software, and that these Terms will apply to such updates. Please read these Terms carefully, and [contact us](https://www.coursera.org/about/contact) if you have any questions. By using our Services, you agree to be bound by these Terms, including the policies referenced in these Terms.
+Coursera offers products and services provided by Coursera, Inc., our subsidiaries, and our international branches, including Coursera Europe B.V., a limited liability company incorporated in the Netherlands (VAT number NL861937016B01) (collectively, "Coursera," "us," "we," or "our"). These Terms of Use ("Terms") govern your use of our website, apps, and other products and services ("Services"). As some of our Services may be software that is downloaded to your computer, phone, tablet, or other device, you agree that we may automatically update this software, and that these Terms will apply to such updates. Please read these Terms carefully, and [contact us](https://www.coursera.org/about/contact) if you have any questions, requests for information, or complaints. By clicking “I accept” (or for those who have not yet created an account, by using our Services), you agree to be bound by these Terms, including the policies referenced in these Terms. By using our Services, you agree to be bound by these Terms, including the policies referenced in these Terms.
 
-THESE TERMS INCLUDE AN ARBITRATION AGREEMENT AND CLASS ACTION WAIVER THAT APPLY TO ALL CLAIMS BROUGHT AGAINST COURSERA. PLEASE READ THEM CAREFULLY; THEY AFFECT YOUR LEGAL RIGHTS.
+THESE TERMS INCLUDE AN ARBITRATION AGREEMENT AND CLASS ACTION WAIVER THAT APPLY TO ALL CLAIMS BROUGHT AGAINST COURSERA. PLEASE READ THEM CAREFULLY; THEY AFFECT YOUR LEGAL RIGHTS. THE TERMS OF THE ARBITRATION AGREEMENT AND CLASS ACTION WAIVER SHALL NOT APPLY IF UNENFORCEABLE UNDER THE LAWS OF THE COUNTRY IN WHICH YOU RESIDE.
 
 Using Coursera
 --------------
@@ -30,15 +30,15 @@ Content Offerings
 
 #### Changes to Content Offerings
 
-Coursera offers courses and content ("Content Offerings") from universities and other providers ("Content Providers"). While we seek to provide world-class Content Offerings from our Content Providers, unexpected events do occur. Coursera reserves the right to cancel, interrupt, reschedule , or modify any Content Offerings, or change the point value or weight of any assignment, quiz, or other assessment, either solely, or in accordance with Content Provider instructions. Content Offerings are subject to the Disclaimers and Limitation of Liability sections below.
+Coursera offers courses and content ("Content Offerings") from universities and other providers ("Content Providers"). While we seek to provide world-class Content Offerings from our Content Providers, unexpected events do occur. Coursera reserves the right to cancel, interrupt, reschedule, or modify any Content Offerings, or change the point value or weight of any assignment, quiz, or other assessment, either solely, or in accordance with Content Provider instructions. Content Offerings are subject to the Disclaimers and Limitation of Liability sections below.
 
 #### No Academic Credit
 
-Unless otherwise explicitly indicated by a credit-granting institution, participation in or completion of Content Offerings does not confer any academic credit. Even if credit is awarded by one institution, there is no presumption that other institutions will accept that credit. You agree not to accept credit for completing a Content Offering unless you have earned a course certificate or other equivalent documentation of your completion of the Content Offering. Coursera, instructors, and the associated Content Providers have no obligation to have Content Offerings recognized by any educational institution or accreditation organization.
+Coursera does not grant academic credit for the completion of Content Offerings. Unless otherwise explicitly indicated by a credit-granting institution, participation in or completion of Content Offerings does not confer any academic credit. Even if credit is awarded by one institution, there is no presumption that other institutions will accept that credit. You agree not to accept credit for completing a Content Offering unless you have earned a course certificate or other equivalent documentation of your completion of the Content Offering. Coursera, instructors, and the associated Content Providers have no obligation to have Content Offerings recognized by any educational institution or accreditation organization.
 
 #### Disclaimer of Student-Content Provider Relationship
 
-Except as described in the Degree and MasterTrack Certificate Programs section below, nothing in these Terms or otherwise with respect to your participation in any Content Offerings by Content Providers : (a) establishes any relationship between you and any Content Provider; (b) enrolls or registers you in any Content Provider institution, or in any Content Offering offered by any Content Provider institution; or (c) entitles you to use the resources of any Content Provider institution beyond participation in the Content Offering.
+Except as described in the Degree, MasterTrack, and University Certificate Programs section below, nothing in these Terms or otherwise with respect to your participation in any Content Offerings by Content Providers : (a) establishes any relationship between you and any Content Provider; (b) enrolls or registers you in any Content Provider institution, or in any Content Offering offered by any Content Provider institution; or (c) entitles you to use the resources of any Content Provider institution beyond participation in the Content Offering.
 
 Your Content
 ------------
@@ -80,19 +80,23 @@ Paid Services from Coursera
 
 Coursera offers paid Services (e.g., course certificates for certain courses) for a fee. Unless otherwise stated, all fees are quoted in U.S. Dollars. You are responsible for paying all fees charged by or for Coursera and applicable taxes in a timely manner with a payment mechanism associated with the applicable paid Services. If your payment method fails or your account is past due, we may collect fees using other collection mechanisms. Fees may vary based on your location and other factors, and Coursera reserves the right to change any fees at any time at its sole discretion. Any change, update, or modification will be effective immediately upon posting through the relevant Services. Refunds may be available for paid Services as described in our Refund Policy below.
 
-#### Degree and MasterTrack Certificate Programs
+#### Degree, MasterTrack, and University Certificate Programs
 
-The Services may allow you to enroll in degree and MasterTrack certificate programs or similar programs offered by our Content Providers on the Coursera platform. Our Content Providers serve as the distance education providers of these programs and determine admissions, refunds, and graduation or completion policies and requirements. Nothing in these Terms shall restrict the applicability to you of any institutional policies established by our Content Provider in connection with these programs (e.g., student codes of conduct); such policies shall supplement these Terms and to the extent there is a conflict between such policies and these Terms, as between you and our Content Provider, our Content Provider’s policies shall govern.
+The Services may allow you to enroll in Degree, MasterTrack, and University Certificate programs or similar programs offered by our Content Providers on the Coursera platform. Our Content Providers serve as the distance education providers of these programs and determine admissions, refund, and graduation or completion policies and requirements. Nothing in these Terms shall restrict the applicability to you of any institutional policies established by our Content Provider in connection with these programs (e.g., student codes of conduct); such policies shall supplement these Terms and to the extent there is a conflict between such policies and these Terms, as between you and our Content Provider, our Content Provider’s policies shall govern.
+
+Depending on the program, tuition and fee payments for these programs may be collected by Coursera or our Content Partners. If your payment method fails or your account is past due, we or our Content Partners may collect tuition and fees using other collection mechanisms. Tuition and fees may vary based on your location and other factors, and Coursera and its Content Partners reserve the right to change any tuition and fees for future semesters or equivalent payment periods at their sole discretion. Refunds may be available for paid Services as described in our Refund Policy below. You are encouraged to research and consider whether the tuition and fees required for Content Offerings align with your professional and financial goals.
+
+Professional licensure, certification, and job requirements for various professions may vary in each state and country, and job requirements may vary by employer. Coursera does not guarantee licensure, certification or qualification for any profession or job on the basis of your completion of a Content Offering on Coursera. You are advised to research, understand and comply with the requirements in the applicable state and/or country in which you work or intend to work, and to investigate whether the Content Offering in which you intend to enroll meets your academic and/or professional needs before enrolling.
 
 Modifying or Terminating our Services
 -------------------------------------
 
-We are constantly changing and improving our Services. We may add or remove functions, features, or requirements, and we may suspend or stop part of our Services altogether. Accordingly, Coursera may terminate your use of any Service for any reason. If your use of a paid Service is terminated, a refund may be available under our Refund Policy. We may not be able to deliver the Services to certain regions or countries for various reasons, including due to applicable export control requirements or internet access limitations and restrictions from governments. None of Coursera, its Content Providers and instructors, its contributors, sponsors, and other business partners, and their employees, contractors, and other agents (the "Coursera Parties") shall have any liability to you for any such action. You can stop using our Services at any time, although we'll be sorry to see you go.
+We are constantly changing and improving our Services. We may add or remove functions, features, or requirements, and we may suspend (to the extent allowed by applicable law) or stop part of our Services altogether. Accordingly, Coursera may terminate your use of any Service for any reason. If your use of a paid Service is terminated, a refund may be available under our Refund Policy. We may not be able to deliver the Services to certain regions or countries for various reasons, including due to applicable export control requirements or internet access limitations and restrictions from governments. None of Coursera, its Content Providers and instructors, its contributors, sponsors, and other business partners, and their employees, contractors, and other agents (the "Coursera Parties") shall have any liability to you for any such action. You can stop using our Services at any time, although we'll be sorry to see you go.
 
 Disclaimers
 -----------
 
-THE SERVICES AND ALL INCLUDED CONTENT ARE PROVIDED ON AN "AS IS" BASIS WITHOUT WARRANTY OF ANY KIND, WHETHER EXPRESS OR IMPLIED. THE COURSERA PARTIES SPECIFICALLY DISCLAIM ANY AND ALL WARRANTIES AND CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT, AND ANY WARRANTIES ARISING OUT OF COURSE OF DEALING OR USAGE OF TRADE. THE COURSERA PARTIES FURTHER DISCLAIM ANY AND ALL LIABILITY RELATED TO YOUR ACCESS OR USE OF THE SERVICES OR ANY RELATED CONTENT. YOU ACKNOWLEDGE AND AGREE THAT ANY ACCESS TO OR USE OF THE SERVICES OR SUCH CONTENT IS AT YOUR OWN RISK.
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE SERVICES AND ALL INCLUDED CONTENT ARE PROVIDED ON AN "AS IS" BASIS WITHOUT WARRANTY OF ANY KIND, WHETHER EXPRESS OR IMPLIED. THE COURSERA PARTIES SPECIFICALLY DISCLAIM ANY AND ALL WARRANTIES AND CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT, AND ANY WARRANTIES ARISING OUT OF COURSE OF DEALING OR USAGE OF TRADE. THE COURSERA PARTIES FURTHER DISCLAIM ANY AND ALL LIABILITY RELATED TO YOUR ACCESS OR USE OF THE SERVICES OR ANY RELATED CONTENT. YOU ACKNOWLEDGE AND AGREE THAT ANY ACCESS TO OR USE OF THE SERVICES OR SUCH CONTENT IS AT YOUR OWN RISK.
 
 Limitation of Liability
 -----------------------
@@ -103,15 +107,28 @@ YOU ACKNOWLEDGE AND AGREE THAT THE DISCLAIMERS AND THE LIMITATIONS OF LIABILITY 
 
 YOU AGREE THAT ANY CAUSE OF ACTION RELATED TO THE SERVICES MUST COMMENCE WITHIN ONE (1) YEAR AFTER THE CAUSE OF ACTION ACCRUES. OTHERWISE, SUCH CAUSE OF ACTION IS PERMANENTLY BARRED.
 
+Export Controls
+---------------
+
+You warrant that you are not located in, or ordinarily reside in, any country that is subject to applicable U.S. laws and regulations preventing Coursera from providing you access to the Services. Your location is determined by your physical location. Use of a virtual private network service, IP routing services, or other similar service for the purpose of circumventing these laws is strictly prohibited.
+
+You warrant that you are not named on any government prohibited, denied, unverified-party, sanctions, debarment, or exclusion list or export-controlled related restricted party list (collectively, “Sanctions Lists”). You will immediately discontinue your use of the Services if you are placed on any Sanctions List. You also warrant that you will not export, re-export, or transfer the Services to an entity on any Sanctions List or otherwise use the services in a manner that would be in violation of applicable laws.
+
+Notwithstanding anything to the contrary in these Terms, Coursera may terminate any further obligations to you, effectively immediately if you are in breach of the obligations in this section.
+
 Indemnification
 ---------------
 
-You agree to indemnify, defend, and hold harmless the Coursera Parties from any and all claims, liabilities, expenses, and damages, including reasonable attorneys' fees and costs, made by any third party related to: (a) your use or attempted use of the Services in violation of these Terms; (b) your violation of any law or rights of any third party; or (c) User Content, including without limitation any claim of infringement or misappropriation of intellectual property or other proprietary rights.
+You agree to indemnify, defend, and hold harmless the Coursera Parties from any and all claims, liabilities, expenses, and damages (to the extent attributable to you under the applicable law), including reasonable attorneys' fees and costs, made by any third party related to: (a) your use or attempted use of the Services in violation of these Terms; (b) your violation of any law or rights of any third party; or (c) User Content, including without limitation any claim of infringement or misappropriation of intellectual property or other proprietary rights.
 
 Governing Law and Venue
 -----------------------
 
-The Services are managed by Coursera, which is located in Santa Clara County, California. You agree that any dispute related to these Terms will be governed by the laws of the State of California, excluding its conflicts of law provisions. In the event of any dispute related to these Terms that is not subject to binding arbitration, you and Coursera will submit to the personal jurisdiction of and exclusive venue in the federal and state courts located in and serving Santa Clara County, California as the legal forum for any such dispute.
+Except as provided below, the Services are managed by Coursera, Inc. which is located in Santa Clara County, California. You agree that these Terms will be governed by the laws of the State of California, excluding its conflicts of law provisions. In the event of any dispute related to these Terms that is not subject to binding arbitration, you and Coursera will submit to the personal jurisdiction of and exclusive venue in the federal and state courts located in and serving Santa Clara County, California as the legal forum for any such dispute.
+
+To the extent you are located in the European Union or the United Kingdom, the Services are managed by Coursera Europe B.V. You agree that these Terms will be governed by the laws of the Netherlands, excluding its conflicts of law provisions.
+
+This section shall not deprive you of any mandatory consumer protections under the law of the country to which we direct Services to you, where you have your habitual residence.
 
 Binding Arbitration and Class Action Waiver
 -------------------------------------------
@@ -164,7 +181,7 @@ Acceptable Use Policy
 
 * * *
 
-_Effective: January 1, 2021_
+_Effective: January 1, 2022_
 
 Our mission is to provide universal access to the world’s best education. We believe strongly in preserving free speech and expression for our users as well as academic freedom for our Content Providers and instructors. We also want to make sure that all of our users and instructors feel safe and comfortable while using our Services. We have drafted this policy to ensure that people understand and follow the rules when participating in our online community and otherwise using our Services.
 
@@ -203,7 +220,7 @@ Copyright and Trademark Policy
 
 * * *
 
-_Effective as of January 1, 2021._
+_Effective as of January 1, 2022._
 
 Coursera respects the intellectual property rights of our Content Providers, instructors, users, and other third parties and expects our users to do the same when using the Services. We reserve the right to suspend, disable, or terminate the accounts of users who repeatedly infringe or are repeatedly charged with infringing the copyrights, trademarks, or other intellectual property rights of others.
 
@@ -236,7 +253,7 @@ Refund Policy
 
 * * *
 
-_Effective as of January 1, 2021._
+_Effective as of January 1, 2022._
 
 For details on our refund deadlines and policies, please refer to the information below. Please note that our policies differ between subscription payments and one-time payments made for course, specialization, and guided project purchases, and that payment options may vary from one offering to another. Please also note that we treat violations of our Terms of Use and Honor Code very seriously, and we have no obligation to offer refunds to users who violate these or other Coursera policies, even if their requests are made within the designated refund period. Similarly, we have no obligation to offer late refunds to users who do not receive a passing mark in a Content Offering, or who are otherwise unsatisfied with their final grade.
 
@@ -263,7 +280,7 @@ If you cancel your subscription after the refund period of your subscription, yo
 For One-time Course and Specialization Purchases
 ------------------------------------------------
 
-If you cancel your paid enrollment for a standalone course, Coursera will offer you a complete refund until 14 days after payment, or until you have earned your course certificate, whichever is earlier. If you [pre-enroll and pay for a course](https://learner.coursera.help/hc/articles/209818603), Coursera will offer you a complete refund until 14 days after the course launches or until you have earned your course certificate, whichever is earlier. For avoidance doubt, once you have earned a course certificate with your payment, you are not eligible for a refund even if it is within 14 days. If you do not earn your course certificate within 180 days, your registration will expire and you will need to pay to re-enroll for the course. However, if you’re taking a course through your company, organization, or a Coursera sponsored program (e.g. Coursera for Business, Coursera for Governments or Organizations, Coursera for Refugees, or other Coursera Social Good programs ) then you can earn your certificate as long as your company's contract with Coursera is active and your access has not expired in accordance with the terms of that contract or Coursera is still running a sponsored program. Similarly, refunds and cancellations will also be governed by the terms of that contract between your organization and Coursera.
+If you cancel your paid enrollment for a standalone course, Coursera will offer you a complete refund until 14 days after payment, or until you have earned your course certificate, whichever is earlier. If you [pre-enroll and pay for a course](https://learner.coursera.help/hc/articles/209818603), Coursera will offer you a complete refund until 14 days after the course launches or until you have earned your course certificate, whichever is earlier. For avoidance of doubt, once you have earned a course certificate with your payment, you are not eligible for a refund even if it is within 14 days. If you do not earn your course certificate within 180 days, your registration will expire and you will need to pay to re-enroll for the course. However, if you’re taking a course through your company, organization, or a Coursera sponsored program (e.g. Coursera for Business, Coursera for Governments or Organizations, Coursera for Refugees, or other Coursera Social Good programs ) then you can earn your certificate as long as your company's contract with Coursera is active and your access has not expired in accordance with the terms of that contract or Coursera is still running a sponsored program. Similarly, refunds and cancellations will also be governed by the terms of that contract between your organization and Coursera.
 
 If you cancel your one-time, paid enrollment for a specialization, Coursera will offer you a complete refund until 14 days after payment, or until you earn a course certificate for any course in the specialization, whichever is earlier. If you [pre-enroll and pay for the Specialization](https://learner.coursera.help/hc/articles/209818603), Coursera will offer you a complete refund until 14 days after the first course in the specialization launches or until you have earned your first course certificate for any course in the specialization, whichever is earlier. If you earned your first course certificate for any course in the specialization within 14 days, you are not eligible for a refund. Unless otherwise indicated as part of the sign-up process, you have one year after you purchase a specialization to complete the specialization.
 
@@ -274,10 +291,10 @@ For Guided Projects
 
 Coursera does not offer refunds for payments made for guided projects. If you do not earn your completion certificate within 180 days after registering for a guided project, your registration will expire and you will need to pay to re-enroll for the guided project in order to complete the guided project and earn your completion certificate. However, if you’re taking the guided project through your company, organization, or Coursera sponsored program (e.g. Coursera for Business, Coursera for Governments or Organizations, Coursera for Campus, Coursera for Refugees, or other Coursera Social Good programs) then you can earn your certificate as long as your company's contract with Coursera is active and your access and/or invitation has not expired or terminated in accordance with the terms of that contract or Coursera is still running the sponsored program. Similarly, refunds and cancellations will also be governed by the terms of that contract between your organization and Coursera. If you have subscribed through a third party marketplace that restricts our ability to issue refunds -- e.g., in-app purchases through the Apple App Store, please visit the third party marketplace for information regarding their policies.
 
-For Degree and MasterTrack Certificate Programs
------------------------------------------------
+For Degree, MasterTrack, and University Certificate Programs
+------------------------------------------------------------
 
-Refund policies for degree and MasterTrack certificate programs are established and administered by the Content Provider offering the program. Refund policies are communicated to students by those Content Providers.
+Refund policies for Degree, MasterTrack, and University Certificate programs are established and administered by the Content Provider offering the program. Refund policies are communicated to students by those Content Providers.
 
 For Other Paid Services
 -----------------------
@@ -289,6 +306,29 @@ Third Party Marketplaces
 
 Notwithstanding the foregoing, if you purchase or subscribe for a course, specialization, guided project, or purchase any other paid Service, through a third party marketplace (e.g., in-app purchases through the Apple App Store or purchases made through certain alternative payment services), the refund policy applicable to that third party marketplace will apply, unless otherwise explicitly stated by Coursera. Except as otherwise explicitly stated by Coursera, the third party marketplace will be solely responsible for making refunds under its refund policy, and Coursera will have no refund obligations. Coursera disclaims any responsibility or liability related to any third party marketplace's refund policy or the third party's compliance or noncompliance with such policy.
 
+European Users Right of Withdrawal
+----------------------------------
+
+In addition to the refund policies set forth above, if you have a right of withdrawal under the relevant laws in your country including any applicable European Union laws, then:
+
+*   You have a right of withdrawal for a period of 14 days. You may withdraw your contract with Coursera for the Services, without giving any reason, and without incurring any costs other than those provided for in this clause.
+*   The withdrawal period will expire after 14 days from the day that your contract was concluded. However, you do not have a right of withdrawal a) if the Services have already been fully performed with your prior express consent and with your acknowledgement that you will lose your right of withdrawal once the Services have been performed by us or b) if the Services have begun with your prior express consent and your acknowledgement that you will lose your right of withdrawal upon beginning use of the Services .
+*   To exercise the right of withdrawal, you should inform us of your decision to withdraw by an unequivocal statement (e.g. a letter sent by post or by [contacting us](https://about.coursera.org/contact/). You may use the below model form, but it is not obligatory.
+    
+    **Model Withdrawal Form** (complete and return this form only if you wish to withdraw from the contract)
+    
+    *   To Coursera Europe B.V., Schiphol Boulevard 195, (1118 BG) Schiphol, the Netherlands:
+    *   I/We (_) hereby give notice that I/We (_) withdraw from my/our (_) contract of sale for the provision of the following service (_),
+    *   Ordered on (_)/received on (_),
+    *   Name of consumer(s),
+    *   Address of consumer(s),
+    *   Signature of consumer(s) (only if this form is notified on paper),
+    *   Date
+*   You may also electronically submit the model form or any other unequivocal statement to us at [https://www.coursera.org/about/contact](https://www.coursera.org/about/contact). You shall have exercised your right of withdrawal within the 14-day withdrawal period if the communication is sent by you before that period has expired. The exercise of the right of withdrawal shall terminate the obligations of the parties to perform the contract. If you exercise your right of withdrawal, any ancillary contracts shall be automatically terminated.
+*   If you withdraw the contract, we shall reimburse to you all payments received from you, including, if applicable, the costs of delivery, without undue delay and in any event not later than 14 days from the day on which we are informed of your decision to rescind this contract in accordance with this clause. We will carry out such reimbursement using the same means of payment as you used for the initial transaction, unless you have expressly agreed otherwise. In any event you do not incur any fees as a result of such reimbursement.
+*   If you want the Services to begin during the 14-day withdrawal period you should make an express request thereto, where you acknowledge that you will lose your right of withdrawal once the service has been fully performed. If you exercise the right of withdrawal before the Services have been fully performed, you shall be liable to pay us reasonable costs, consisting of an amount which is in proportion to what has been provided until the time you have informed us of the exercise of the right of withdrawal.
+*   The burden of proof of exercising the right of withdrawal in accordance with this clause shall be on you. Except as provided for in this clause, you shall not incur any liability as a consequence of the exercise of the right of withdrawal.
+
 * * *
 
 Honor Code
@@ -296,7 +336,7 @@ Honor Code
 
 * * *
 
-_Effective as of January 1, 2021_
+_Effective as of January 1, 2022_
 
 All users participating in Content Offerings must agree to abide by the following code:
 
@@ -316,6 +356,7 @@ Revisions
 
 Below is a list of all the revisions made to the content of our Terms, with links to view the difference between each revision.
 
+*   [2021-12-17: Updated terms specific to users based in certain jurisdictions. Updated terms specific to Degree, MasterTrack, and University Certificate programs. Added terms addressing export laws.](https://www.diffchecker.com/cRdj5n0M)
 *   [2020-12-18: Updated arbitration language and increased clarity of definitions](https://www.diffchecker.com/2JTCTEUY)
 *   [2019-12-20: Updated to reflect new product offerings including degrees, MasterTrack, and Coursera Plus](https://www.diffchecker.com/SVNlk3dr)
 *   [2018-07-11: Updated Introduction and Reference Policies for clarification purposes.](https://www.diffchecker.com/HnhrMdiT)
