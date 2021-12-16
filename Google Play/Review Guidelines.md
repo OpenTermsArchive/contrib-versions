@@ -1353,7 +1353,11 @@ Subscriptions
 
 You, as a developer, must not mislead users about any subscription services or content that you offer within your app. It is critical to communicate clearly in any in-app promotions or splash screens. We do not allow apps that subject users to deceptive or manipulative purchase experiences (including in-app purchases or subscriptions).
 
-**In your app:** You must be transparent about your offer. This includes being explicit about your offer terms, the cost of your subscription, the frequency of your billing cycle and whether a subscription is required to use the app. Users should not have to perform any additional action to review the information.
+You must be transparent about your offer. This includes being explicit about your offer terms, the cost of your subscription, the frequency of your billing cycle, and whether a subscription is required to use the app. Users should not have to perform any additional action to review the information.
+
+Subscriptions must provide sustained or recurring value to users throughout the life of the subscription, and may not be used to offer what are effectively one-off benefits to users (for example, SKUs that provide lump sum in-app credits/currency or single-use game boosters). Your subscription may offer incentive or promotional bonuses, but these must be complementary to the sustained or recurring value provided throughout the life of the subscription**.** Products that do not offer sustained and recurring value must use an [in-app product](https://support.google.com/googleplay/android-developer/answer/1153481) instead of a [subscription product](https://support.google.com/googleplay/android-developer/answer/140504).
+
+You may not disguise or mischaracterise one-off benefits to users as subscriptions. This includes the modification of a subscription to turn it into a one-off offering (for example, cancelling, deprecating or minimising recurring value) after the user has purchased the subscription.
 
 To ensure that Google Play remains a safe and respectful platform, we've created standards defining and prohibiting content that is harmful or inappropriate for our users.
 
@@ -1363,6 +1367,8 @@ To ensure that Google Play remains a safe and respectful platform, we've created
 *   In-app promotions that do not clearly demonstrate that a user can access content without a subscription (when available).
 *   SKU names that do not accurately convey the nature of the subscription, such as 'Free of charge trial' or 'Try Premium membership – three days free of charge', for a subscription with an auto-recurring charge. 
 *   Multiple screens in the purchase flow that lead users into accidentally clicking the subscribe button.
+*   Subscriptions that do not offer sustained or recurring value – for example, offering 1,000 gems for the first month, then reducing the benefit to 1 gem in subsequent months of the subscription.
+*   Requiring a user to sign up to an auto-renewing subscription to deliver a one-off benefit, and cancelling a user’s subscription without their request after the purchase.
 
 **Example 1:**
 
