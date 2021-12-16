@@ -1,10 +1,5 @@
-Facebook
-========
-
 Information for Law Enforcement
-
-
-===================================
+===============================
 
 These operational guidelines are for law enforcement officials seeking Instagram account records. This information may change at any time.
 
@@ -12,21 +7,13 @@ Requests for User Information
 
 We disclose account records solely in accordance with our terms of service and applicable law, including the federal Stored Communications Act (“SCA”), 18 U.S.C. Sections 2701-2712. Under the SCA:
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
-
-a valid subpoena issued in connection with an official criminal investigation is required to compel the disclosure of basic subscriber records (defined in 18 U.S.C. Section 2703(c)(2)), which may include: name, length of service, credit card information, email address(es), and any recent login/logout IP address(es), if available.
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
-
-a court order issued under 18 U.S.C. Section 2703(d) is required to compel the disclosure of certain records or other information pertaining to the account, not including contents of communications, which may include message headers and IP addresses, in addition to the basic subscriber records identified above.
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
-
-a search warrant issued under the procedures described in the Federal Rules of Criminal Procedure or equivalent state warrant procedures upon a showing of probable cause is required to compel the disclosure of the stored contents of any account, which may include messages, photos, comments, and location information.
+*   a valid subpoena issued in connection with an official criminal investigation is required to compel the disclosure of basic subscriber records (defined in 18 U.S.C. Section 2703(c)(2)), which may include: name, length of service, credit card information, email address(es), and any recent login/logout IP address(es), if available.
+*   a court order issued under 18 U.S.C. Section 2703(d) is required to compel the disclosure of certain records or other information pertaining to the account, not including contents of communications, which may include message headers and IP addresses, in addition to the basic subscriber records identified above.
+*   a search warrant issued under the procedures described in the Federal Rules of Criminal Procedure or equivalent state warrant procedures upon a showing of probable cause is required to compel the disclosure of the stored contents of any account, which may include messages, photos, comments, and location information.
 
 It is important to note that some information we store is collected automatically, while other information is provided by the user. We do not require email or phone verification, and we do not require people to use real names or identities on Instagram.
 
-For additional information about Instagram, please read our Data Policy and Terms of Use.
+For additional information about Instagram, please read our [Data Policy](https://help.instagram.com/519522125107875) and [Terms of Use](https://help.instagram.com/581066165581870).
 
 Data Retention and Availability
 
@@ -36,13 +23,8 @@ Information to Include
 
 All requests must be made with particularity, including the specific data categories requested and date limitations for the request, as well as:
 
-1
-
-The name of the issuing authority and agent, email address from a law enforcement domain, and a direct contact phone number.
-
-2
-
-The username of the Instagram account in question on the relevant date and details regarding specific information requested and its relationship to your investigation. Usernames are not static and we are unable to process requests that do not include the relevant date combined with the username.
+*   The name of the issuing authority and agent, email address from a law enforcement domain, and a direct contact phone number.
+*   The username of the Instagram account in question on the relevant date and details regarding specific information requested and its relationship to your investigation. Usernames are not static and we are unable to process requests that do not include the relevant date combined with the username.
 
 Emergency Requests
 
@@ -58,7 +40,7 @@ If a request relates to a child exploitation or safety matter, please specify th
 
 International Legal Process Requirements
 
-We disclose account records solely in accordance with applicable terms of service and applicable law. A Mutual Legal Assistance Treaty request or letter rogatory may be required to compel the disclosure of the contents of an account. Further information can be found in our Data Policy.
+We disclose account records solely in accordance with applicable terms of service and applicable law. A Mutual Legal Assistance Treaty request or letter rogatory may be required to compel the disclosure of the contents of an account. Further information can be found [in our Data Policy](https://help.instagram.com/155833707900388/).
 
 Account Preservation
 
@@ -86,139 +68,23 @@ Online:
 
 Law enforcement officials seeking Instagram account records must address their request to:
 
-Facebook Ireland Ltd., 4 Grand Canal Square, Dublin 2, Ireland
+Facebook Ireland Ltd.,  
+4 Grand Canal Square,  
+Dublin 2,  
+Ireland
 
 Law enforcement officials are encouraged to use the Law Enforcement Online Request System at facebook.com/records for the submission, tracking and processing of requests. Please note that a government-issued email address is required to access the Law Enforcement Online Request System.
 
 Mail:
 
-Facebook, Ireland Ltd., Attn: Law Enforcement Response Team 4 Grand Canal Square Dublin 2, Ireland
+Facebook, Ireland Ltd.,  
+Attn: Law Enforcement Response Team  
+4 Grand Canal Square  
+Dublin 2, Ireland
 
-Law enforcement officials who do not submit requests through the Law Enforcement Online Request System at facebook.com/records should expect longer response times.
+_Law enforcement officials who do not submit requests through the Law Enforcement Online Request System at facebook.com/records should expect longer response times._
 
-Notes
+**Notes**
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
-
-Acceptance of legal process by any of these means is for convenience and does not waive any objections, including lack of jurisdiction or improper service.
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
-
-We will not review or respond to correspondence sent by non-law enforcement officials to the addresses above.
-
-Was this helpful?
-
-How could it be better?
-
-Bear in mind that this form is for feedback only and you won't receive a reply. Please don't include personal information about you or someone else. Learn more about how to report something to Instagram.
-
-What went wrong?
-
-Can you say more?
-
-Bear in mind that this form is for feedback only and you won't receive a reply. Please don't include personal information about you or someone else. Learn more about how to report something to Instagram.
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yR/r/vv65l2ivilT.png)
-
-Thanks
-
-Your feedback helps improve this answer for everyone.
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y6/r/afC97ryAiej.png)
-
-Yes
-
-No
-
-Submit
-
-The information is confusing
-
-The solution doesn't work
-
-I don't like the product or policy
-
-Other
-
-Submit
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yL/r/Ei28SVQXqHE.png)
-
-Related articles
-
-
---------------------
-
-[
-
-Third-party apps
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yP/r/6vwLLmakTYZ.png)
-
-
-
-
-
-](https://help.instagram.com/588549329146493/Third-party+apps/?source_cms_id=494561080557017&helpref=related)
-
-[
-
-Should I use apps that offer likes and followers on Instagram?
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yP/r/6vwLLmakTYZ.png)
-
-
-
-
-
-](https://help.instagram.com/263751177667145/Should+I+use+apps+that+offer+likes+and+followers+on+Instagram%3F/?source_cms_id=494561080557017&helpref=related)
-
-[
-
-Can I obtain information about someone's Instagram account?
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yP/r/6vwLLmakTYZ.png)
-
-
-
-
-
-](https://help.instagram.com/232762833582105/Can+I+obtain+information+about+someone%27s+Instagram+account%3F/?source_cms_id=494561080557017&helpref=related)
-
-[
-
-How do I access or review my data on Instagram?
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yP/r/6vwLLmakTYZ.png)
-
-
-
-
-
-](https://help.instagram.com/181231772500920/How+do+I+access+or+review+my+data+on+Instagram%3F/?source_cms_id=494561080557017&helpref=related)
-
-[
-
-Edit your business information on Instagram
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yP/r/6vwLLmakTYZ.png)
-
-
-
-
-
-](https://help.instagram.com/529483457260403/Edit+your+business+information+on+Instagram/?source_cms_id=494561080557017&helpref=related)
-
-[
-
-Delete a boosted Instagram story
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yP/r/6vwLLmakTYZ.png)
-
-
-
-
-
-
-
-](https://help.instagram.com/315912545687714/Delete+a+boosted+Instagram+story/?source_cms_id=494561080557017&helpref=related)
+*   Acceptance of legal process by any of these means is for convenience and does not waive any objections, including lack of jurisdiction or improper service.
+*   We will not review or respond to correspondence sent by non-law enforcement officials to the addresses above.
