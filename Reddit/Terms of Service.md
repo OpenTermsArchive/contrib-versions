@@ -8,7 +8,6 @@ Effective September 12, 2021. Last Revised August 12, 2021
 *   If you live outside the European Economic Area (“**EEA**”), the United Kingdom, or Switzerland, your terms are [here](#US).
 *   If you live in the EEA, United Kingdom, or Switzerland, your terms are [here](#EEA).
 
-[German language version](https://www.redditinc.com/policies/user-agreement-de)  
   
 
 * * *
