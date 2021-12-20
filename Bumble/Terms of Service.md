@@ -1,7 +1,7 @@
 Bumble Terms and Conditions of Use
 ----------------------------------
 
-Welcome to Bumble’s Terms and Conditions of Use (these “Terms”). This is a contract between you and the Bumble Group (as defined further below) and we want you to know yours and our rights before you use the Bumble application (“Bumble” or the “App”). Please take a few moments to read these Terms before enjoying the App, because once you access, view or use the App, you are going to be legally bound by these Terms (so probably best to read them first!).
+Welcome to Bumble’s Terms and Conditions of Use (these “Terms”). This is a contract between you and the Bumble Group (as defined further below) and we want you to know yours and our rights before you use the Bumble website or application (“Bumble” or the “App”). Please take a few moments to read these Terms before enjoying the App, because once you access, view or use the App, you are going to be legally bound by these Terms (so probably best to read them first!).
 
 **Please be aware that if you subscribe to services for a term (the “Initial Term”), then the terms of your subscription will be automatically renewed for additional periods of the same duration as the Initial Term at Bumble’s then-current fee for such services, unless you cancel your subscription in accordance with Section 5 below.**
 
