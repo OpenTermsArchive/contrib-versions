@@ -26,7 +26,7 @@ Please read these Terms carefully before accessing or using our Services. By acc
 1\. Who’s Who
 -------------
 
-“You” means any individual or entity using our Services. If you use our Services on behalf of another person or entity, you represent and warrant that you’re authorized to accept the Agreement on that person’s or entity’s behalf, that by using using our Services you’re accepting the Agreement on behalf of that person or entity, and that if you, or that person or entity, violates the Agreement, you and that person or entity agree to be responsible to us.
+“You” means any individual or entity using our Services. If you use our Services on behalf of another person or entity, you represent and warrant that you’re authorized to accept the Agreement on that person’s or entity’s behalf, that by using our Services you’re accepting the Agreement on behalf of that person or entity, and that if you, or that person or entity, violates the Agreement, you and that person or entity agree to be responsible to us.
 
 Please see below to determine which entity your Agreement is with, which depends on where you reside and which Services you use. We use the term “Designated Countries” to refer to Australia, Canada, Japan, Mexico, New Zealand, Russia, and all countries located in Europe (including the UK and ROI).
 
