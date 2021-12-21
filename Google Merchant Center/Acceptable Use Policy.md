@@ -130,16 +130,16 @@ For that reason, we allow promotion of the content below, but on a limited basis
 
 #### [Alcoholic drinks](https://support.google.com/merchants/merchants/answer/6150139)
 
-> Google restricts the promotion of alcoholic beverages and drinks that resemble alcoholic beverages.
+> Google restricts the promotion of alcoholic drinks and drinks that resemble alcoholic drinks.
 > 
-> When promoting alcoholic beverages, you may not do any of the following:
+> When promoting alcoholic drinks, you may not do any of the following:
 > 
-> *   violate applicable laws and industry standards for any location that you target
-> *   target individuals below the legal drinking age
-> *   imply that drinking alcohol can improve social, sexual, professional, intellectual or athletic standing
-> *   imply that drinking alcohol provides health or therapeutic benefits
-> *   portray excessive drinking in a positive light or feature binge or competition drinking
-> *   show alcohol being consumed in conjunction with the operation of a vehicle of any kind, the operation of machinery or the performance of any task requiring alertness or dexterity
+> *   Violate applicable laws and industry standards for any location that you target
+> *   Target individuals below the legal drinking age
+> *   Imply that drinking alcohol can improve social, sexual, professional, intellectual or athletic standing
+> *   Imply that drinking alcohol provides health or therapeutic benefits
+> *   Portray excessive drinking in a positive light or feature binge or competition drinking
+> *   Show alcohol being consumed in conjunction with the operation of a vehicle of any kind, the operation of machinery or the performance of any task requiring alertness or dexterity
 > 
 > _Examples of restricted alcoholic drinks:_ beer; wine; sake; spirits or hard alcohol; champagne; fortified wine; non-alcoholic beer; non-alcoholic wine; non-alcoholic distilled spirits.
 
@@ -194,7 +194,7 @@ We want to deliver ads that are engaging for users without being annoying or dif
 
 #### [Editorial & professional requirements](https://support.google.com/merchants/merchants/answer/6150244)
 
-> In order to provide a quality user experience, Google requires that all Shopping ads meet high professional and editorial standards. We only allow promotions that are clear and professional in appearance. These ads should lead users to products and landing pages that are relevant, useful and easy to interact with.
+> In order to provide a quality customer experience, Google requires that all Shopping ads meet high professional and editorial standards. We only allow promotions that are clear and professional in appearance. These ads should lead customers to products and landing pages that are relevant, useful and easy to interact with.
 > 
 > _Examples of promotions that don't meet these editorial and professional requirements:_
 > 
