@@ -10,7 +10,7 @@ We are in the process of migrating and consolidating all of the Google Publisher
 
 Google helps to enable a free and open internet by providing the ability for publishers to monetize their content and for advertisers to reach prospective customers with useful, relevant products and services.
 
-Publisher restrictions identify [content](https://support.google.com/publisherpolicies/answer/10564503) that is restricted from receiving certain sources of advertising. If your content is labeled with an inventory restriction, fewer advertising sources will be eligible to bid on it. In some cases this will mean that no advertising sources are bidding on your inventory and no ads will appear on your content. Please note that Google Ads (formerly AdWords) advertisements will not serve on content labeled with these restrictions. Therefore, while you can choose to monetize content covered by these Google Publisher Restrictions, this content will likely receive less advertising than other, nonrestricted content.
+Publisher restrictions identify content that is restricted from receiving certain sources of advertising. If your content is labeled with an inventory restriction, fewer advertising sources will be eligible to bid on it. In some cases this will mean that no advertising sources are bidding on your inventory and no ads will appear on your content. Please note that Google Ads (formerly AdWords) advertisements will not serve on content labeled with these restrictions. Therefore, while you can choose to monetize content covered by these Google Publisher Restrictions, this content will likely receive less advertising than other, nonrestricted content.
 
 Google Publisher Restrictions are organized into the following categories:
 
