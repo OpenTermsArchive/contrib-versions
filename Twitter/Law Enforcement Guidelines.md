@@ -52,7 +52,7 @@ Periscope retains different types of information for different time periods. Bro
 ### Data Controller  
 
   
-For people who live in the United States or any other country outside of the European Union or the European Economic Area, the data controller responsible for personal data is Twitter, Inc. based in San Francisco, California. For people who live in the European Union or the European Economic Area, the data controller is Twitter International Company based in Dublin, Ireland.
+For people who live in the United States or any other country outside of the European Union or the European Economic Area, the data controller responsible for personal data is Twitter, Inc. based in San Francisco, California. For people who live in the European Union or the European Economic Area, the data controller is Twitter International Unlimited Company based in Dublin, Ireland.
 
 ### Preservation requests
 
@@ -76,7 +76,7 @@ Law enforcement and government preservation requests for user information may be
 ### Requests for Twitter account information  
 
   
-Requests for user account information from law enforcement should be directed to Twitter, Inc. in San Francisco, California or Twitter International Company in Dublin, Ireland. Twitter responds to valid legal process issued in compliance with applicable law.
+Requests for user account information from law enforcement should be directed to Twitter, Inc. in San Francisco, California or Twitter International Unlimited Company in Dublin, Ireland. Twitter responds to valid legal process issued in compliance with applicable law.
 
 ### **Private information requires a subpoena or court order**  
 
@@ -161,7 +161,7 @@ Along with identifying the specific Tweet(s) or account(s) at issue, please iden
 
 Twitter will promptly notify affected users about legal requests to withhold content, including a copy of the original request, unless we are legally prohibited from doing so. If you believe Twitter is prohibited from notifying the user, please state the reason in your request, including citations to relevant law (where applicable), and/or upload any documents supporting this prohibition in the "File attachments" section, if available.
 
-Government and law enforcement reporters may also request the withholding of content determined to be illegal in their jurisdiction by mailing a hard copy of your request to the contact information listed below. If you are based in the European Union or the European Economic Area, please mail your request to Twitter International Company in Ireland (see “Contact Information” section below). Requests submitted by mail should expect longer response times. 
+Government and law enforcement reporters may also request the withholding of content determined to be illegal in their jurisdiction by mailing a hard copy of your request to the contact information listed below. If you are based in the European Union or the European Economic Area, please mail your request to Twitter International Unlimited Company in Ireland (see “Contact Information” section below). Requests submitted by mail should expect longer response times. 
 
 Find more information on our Country Withheld Content policy [here](https://help.twitter.com/en/rules-and-policies/tweet-withheld-by-country).
 
@@ -205,7 +205,7 @@ Our address details are:
 1355 Market Street, Suite 900  
 San Francisco, CA 94103
 
-**Twitter International Company  
+**Twitter International Unlimited Company  
 **c/o Trust & Safety - Legal Policy  
 One Cumberland Place  
 Fenian Street  
