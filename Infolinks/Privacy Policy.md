@@ -10,6 +10,8 @@ Infolinks Media, LLC (AKA, Infolinks) is an advertising technology company that 
 
 If you are resident in the European Economic Area and want to find out more about the specifics of your data protection rights, please see “EEA Data Protection Rights” below.
 
+To opt out of Infolinks Media ads [click here](https://www.infolinks.com/opt-out/).
+
 **SECTION 1 – WHO WE ARE**
 
 Infolinks provides advertising automation technology via our supply side platform (“Platform”) and related advertising tools (collectively the “Ad Services”).  We provide our services and tools to our “Clients,” which include “Publisher Clients” who own and operate websites, mobile applications, and other online services (each a “Digital Property”) and “Media Buyers” who are advertisers and other ad partners looking to distribute ad content through our Platform to our “Publisher Clients”.  Our Ad Services help Clients display relevant online advertising to end users (“End Users”) who interact with Digital Properties that use our Ad Services.
@@ -127,11 +129,11 @@ You have the following data protection rights:
 *   You have the right to request access to or that we change, update, or delete your personal information at any time. Please note that we may impose a small fee for access and disclosure of your personal information where permitted under applicable law, which will be first communicated to you.
 *   If we have collected and processed your personal information with your consent, then you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.
 *   The right to opt out of receiving marketing communications from us.
-*   If you are a resident of the European Economic Area (EEA), you also have the following rights: 
+*   If you are a resident of the European Economic Area (EEA), you also have the following rights:
     *   The right to object to the processing of your personal information, restrict processing of your personal information, or request portability of your personal information.
     *   The right to complain to a data protection authority about our collection and use of your personal information. For more information, please contact your local data protection authority. 
 
-*   Please note that because most of the information we store can only identify a particular browser or device, and cannot directly identify you personally, you may need to provide us with some additional detailed information to enable us to identify the information we hold about you and ensure that we accurately fulfil your request and do not infringe on the privacy rights of other individuals. To Learn more see “EEA Data Rights Explained” below.
+*   *   Please note that because most of the information we store can only identify a particular browser or device, and cannot directly identify you personally, you may need to provide us with some additional detailed information to enable us to identify the information we hold about you and ensure that we accurately fulfil your request and do not infringe on the privacy rights of other individuals. To Learn more see “EEA Data Rights Explained” below.
 
 **4.4       LEGAL BASIS FOR PROCESSING PERSONAL INFORMATION (EEA END USERS AND VISITORS ONLY)**
 
