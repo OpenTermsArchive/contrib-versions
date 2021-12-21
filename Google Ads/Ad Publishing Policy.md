@@ -8,7 +8,7 @@ Google Publisher Policies
 
 We are in the process of migrating and consolidating all of the Google Publisher Policies and Google Publisher Restrictions to the new [Publisher Policies Help Center](https://support.google.com/publisherpolicies). For now, you can still view all the policies in the [AdMob](https://support.google.com/admob/), [AdSense](https://support.google.com/adsense/), and [Ad Manager](https://support.google.com/admanager/) Help Centers, as well as the new Help Center. 
 
-When you monetize your [content](https://support.google.com/publisherpolicies/answer/10564503) with Google ad code you are required to adhere to the following policies. Failure to comply with these policies may result in Google blocking ads from appearing against your content, or suspending or terminating your account.
+When you monetize your content with Google ad code you are required to adhere to the following policies. Failure to comply with these policies may result in Google blocking ads from appearing against your content, or suspending or terminating your account.
 
 These policies apply in addition to any other policies governing your use of Google publisher products.
 
@@ -274,7 +274,7 @@ We do not allow Google-served ads that:
 
 We do not allow Google-served ads on screens:
 
-*   without publisher-content or with [low-value content](https://support.google.com/publisherpolicies/table/10563033#low-value-content),
+*   without publisher-content or with low-value content,
 *   that are under construction,
 *   that are used for alerts, navigation or other behavioral purposes
 
