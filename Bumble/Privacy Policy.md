@@ -55,9 +55,11 @@ We recommend and encourage you (and all our members) to think carefully about th
 
 When you post information about yourself or use the messaging function to communicate with other Users, the amount of personal information you share is at your own risk. Please see Section 4 below for more information on who can access what you post on Bumble.
 
-### Profile Verification Information
+### Profile Verification Information (Including Biometric Information)
 
 For safety and security and to ensure you have the best possible user experience, we require Users to verify their accounts and might ask for your phone number and, in some instances, we might also ask that you carry out [photo verification](https://bumble.com/en/help/how-can-i-verify-my-profile). We want to make sure you are not a robot! And we also want to avoid fake Bumble accounts being created which can be used for malicious activities and cybercrime – they threaten the Bumble network and spoil things for everyone. This verification might be required by us for the prevention of fraud. You can also verify your photo on a voluntary basis (to add the blue ‘verified’ badge to your profile).
+
+If you choose to verify your profile photo, we will scan each photo that you submit. The scan may include the use of facial recognition technology so that we can compare the photo you submit to your profile photo, to help ensure that you are who you say you are. We do not add the verification photos to your profile. We retain the scans so that we can verify you in the future and for our record-keeping purposes until we no longer need them for such purposes or for three years after your last interaction with us, whichever occurs first. After the applicable retention period expires, we take commercially reasonable steps to permanently and securely delete the scans from our systems.
 
 ### Purchases Information
 
@@ -126,7 +128,7 @@ Under EU and UK data protection laws, we are required to tell you our lawful bas
 | --- | --- | --- | --- |
 | To provide you with the Bumble social networking service | Name, email address, date of birth, location (CCPA Categories A and B) | You provide your name, email address and date of birth to us. We obtain location data from the device that you use to access the service | Contractual necessity |
 | To facilitate networking opportunities on the Bumble App | Optional information that you choose to provide in your profile, including through profile verification, or adding Bumble badges, which may include information about your sexual preferences, non-binary gender, religion, ethnic background, photos etc. (CCPA Categories C, H, I, J) | You provide this information to us | Consent |
-| To verify your identity and prevent fraud and to ensure the safety and security of Users | Phone number and if requested, photo provided as part of profile verification and for users based in countries where age verification is required by law: photo of Government ID + geolocation and device information (CCPA Categories A, B, C, F, G and H) | You provide this information to us, except for the geolocation and device information, which we obtain from the device that you use to access the service | Legitimate interests – it is in our legitimate interests to ensure that accounts are not set up fraudulently and to safeguard Users of the site |
+| To verify your identity and prevent fraud and to ensure the safety and security of Users | Phone number and if requested or permitted, photo provided as part of profile verification and for users based in countries where age verification is required by law: photo of Government ID + geolocation and device information (CCPA Categories A, B, C, F, G and H) | You provide this information to us, except for the geolocation and device information, which we obtain from the device that you use to access the service | Legitimate interests – it is in our legitimate interests to ensure that accounts are not set up fraudulently and to safeguard Users of the site |
 | To take payment for premium services (not applicable for Users making payments via the Apple App Store) | Payment card details (CCPA Categories B and D) | You provide this information to us | Contractual necessity |
 | To send you marketing information about our events, offers and services | Name, email address, postal address, Instagram handle and mobile phone number (CCPA Categories A and B) | You provide this information to us | Consent or legitimate interests and in accordance with the laws applying to our marketing activities. We have a legitimate interest in promoting our business and products |
 | To carry out research and analysis to help us improve the App | Log and usage data, including IP address, browser type, referring domain, pages accessed, mobile carrier and search terms, images and video (CCPA Categories F and H) | You provide photos and videos to us. We obtain the log and usage information from the device that you use to access the service | Legitimate interests – it is in our interests to analyse the way in which Users are accessing and using our services so that we can further develop the App, implement security measures and improve the service |
@@ -332,7 +334,7 @@ We want you to be able to access Bumble wherever you happen to be in the world. 
 12\. DATA RETENTION AND DELETION.
 ---------------------------------
 
-We keep your personal information only as long as we need it for the legal basis relied upon (as set out in Section 2 above) and as permitted by applicable law.
+We keep your personal information only as long as we need it for the legal basis relied upon (as set out in Section 2 above) and as permitted by applicable law. Please see “Profile Verification Information (Including Biometric Information)” in Section 1, above, to learn about our retention policy with respect to biometric information.
 
 When you delete your Account, or it is deactivated by us, we make sure it is no longer viewable in the App. For up to 28 days, it is still possible to restore your Account if it was accidentally deleted or wrongfully deactivated. After 28 days, we begin the process of deleting your personal information from our systems, unless:
 
@@ -352,4 +354,4 @@ As Bumble evolves, we may revise this Privacy Policy from time to time. The most
 
 ### Effective date
 
-This Privacy Policy was last updated 1 December 2021.
+This Privacy Policy was last updated 21 December 2021.
