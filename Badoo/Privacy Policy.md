@@ -56,9 +56,11 @@ We recommend and encourage you (and all our members) to think carefully about th
 
 When you post information about yourself or use the messaging function to communicate with other Users, the amount of personal information you share is at your own risk. Please see Section 4 below for more information on who can access what you post on Badoo.
 
-### Profile Verification Information
+### Profile Verification Information (Including Biometric Information)
 
 For safety and security and to ensure you have the best possible user experience, we may require Users to verify their accounts and might ask for your phone number and, in some instances, we might also ask that you carry out [photo verification](https://badoo.com/help/?section=265). We want to make sure you are not a robot! And we also want to avoid fake Badoo accounts being created which can be used for malicious activities and cybercrime – they threaten the Badoo network and spoil things for everyone. This verification might be required by us for the prevention of fraud. You can also verify your photo on a voluntary basis (to add the blue “verified” badge to your profile).
+
+If you choose to verify your profile photo, we will scan each photo that you submit. The scan may include the use of facial recognition technology so that we can compare the photo you submit to your profile photo, to help ensure that you are who you say you are. We do not add the verification photos to your profile. We retain the scans so that we can verify you in the future and for our record-keeping purposes until we no longer need them for such purposes or for three years after your last interaction with us, whichever occurs first. After the applicable retention period expires, we take commercially reasonable steps to permanently and securely delete the scans from our systems.
 
 ### Purchases Information
 
@@ -125,7 +127,7 @@ Under EU and UK data protection laws, we are required to tell you our lawful bas
 | --- | --- | --- | --- |
 | To provide you with the Badoo social networking service | Name, email address, date of birth, location (CCPA Categories A and B) | You provide your name, email address and date of birth to us. We obtain location data from the device that you use to access the service | Contractual necessity |
 | To facilitate networking opportunities on the Badoo site | Optional information that you choose to provide in your profile, including through profile verification, which may include information about your sexual preferences, non-binary gender, religion, ethnic background, photos etc. (CCPA Categories C, H, I, J) | You provide this information to us | Consent |
-| To verify your identity and prevent fraud and to ensure the safety and security of Users | Phone number and if requested, photo provided as part of profile verification (CCPA Category B and H) | You provide this information to us | Legitimate interests – it is in our legitimate interests to ensure that accounts are not set up fraudulently and to safeguard Users of the site |
+| To verify your identity and prevent fraud and to ensure the safety and security of Users | Phone number and if requested or permitted, photo provided as part of profile verification (CCPA Category B and H) | You provide this information to us | Legitimate interests – it is in our legitimate interests to ensure that accounts are not set up fraudulently and to safeguard Users of the site |
 | To take payment for premium services (not applicable for Users making payments via the Apple App Store) | Payment card details (CCPA Categories B and D) | You provide this information to us | Contractual necessity |
 | To allow our Advertising Partners to serve targeted advertisements on our App and Sites (this includes rewarded video ads) | Advertising identifier associated with your device (Device ID), age, gender, and IP address (and your estimated locations based on your IP address) (CCPA Categories A, C and G) | We obtain age and gender from you, and Device ID and IP address from the device that you use to access the service | Consent – as indicated by you in your Privacy Settings/Cookie Settings preferences and via your browser or device privacy preferences (where required by your device manufacturer (for example Apple devices using iOS 14.5) |
 | To serve advertisements to Users of our Sites/App on third party networks and measure the effectiveness of such ads | Data about your visit to our Sites or App and action taken on those (for example if you downloaded our App or created an account with Badoo) IP address (and your estimated location based on your IP address) age, gender, Device ID (CCPA Categories A, C, G, F and K) | We obtain age and gender from you and we obtain other information from the device or browser that you use to access the service | Consent – as indicated by you in your Privacy Settings/Cookie Settings preferences and via your browser or device privacy preferences (where required by your device manufacturer (for example Apple devices using iOS 14.5) |
@@ -315,7 +317,7 @@ We want you to be able to access Badoo wherever you happen to be in the world. T
 11\. DATA RETENTION AND DELETION.
 ---------------------------------
 
-We keep your personal information only as long as we need it for the legal basis relied upon (as set out in Section 2 above) and as permitted by applicable law.
+We keep your personal information only as long as we need it for the legal basis relied upon (as set out in Section 2 above) and as permitted by applicable law. Please see “Profile Verification Information (Including Biometric Information)” in Section 1, above, to learn about our retention policy with respect to biometric information.
 
 When you delete your Account or it is deactivated by us, we make sure it is no longer viewable on the App. For up to 28 days it is still possible to restore your Account if it was accidentally deleted or wrongfully deactivated. After 28 days, we begin the process of deleting your personal information from our systems, unless:
 
@@ -333,4 +335,4 @@ Thanks for reading, we hope we didn’t drone on for too long!
 
 As Badoo evolves, we may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at https://badoo.com/privacy/. If we make a change to this policy that, in our sole discretion, is material, we will notify you, for example, via an email to the email associated with your Account or by posting a notice within Badoo.
 
-**Effective date.** This Privacy Policy was last updated on 13 December 2021.
+**Effective date.** This Privacy Policy was last updated on 21 December 2021.
