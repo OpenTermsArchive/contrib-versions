@@ -5,110 +5,101 @@ Personal data
 "TousAntiCovid" application
 ---------------------------
 
-The TousAntiCovid app is part of the global strategy for tackling the COVID-19 epidemic and helping people to emerge from lockdown. Use of this application is voluntary.
+The TousAntiCovid application is part of a comprehensive strategy to fight the Covid-19 epidemic. This application is not mandatory, its use is on a voluntary basis.
 
-The application:
-
-*   notifies users when they have been in contact with another user who has tested positive for COVID-19, drawing on anonymous proximity data collected using Bluetooth
-*   can be used to generate travel exemption forms
-*   keeps users up to date with the latest health information linked to COVID-19, with the option of filtering by place of interest
-*   can be used to seek information on self-isolating
-*   to keep the certificates of vaccination and negative/positive tests for COVID-19
-*   to be notified of their eligibility for the vaccine booster and of the expiration of their health pass, for the health/activity pass in France
-
-The application is part of an overall contact tracing strategy, the goal of which is to break the chain of transmission. It provides a quicker way of notifying contacts, particularly in cases involving individuals who have been infected by people they don’t know, such as on public transport or in shops.
+The use of the application contributes to the overall strategy of detecting contacts at risk of transmission, the goal of which is to break the chains of transmission of the virus. It allows for faster alerting of contact persons, especially when it comes to contact persons whom infected persons do not necessarily know, such as people encountered on public transport or in shops.
 
 ### Data controller and purpose
 
-This application, the development of which was overseen by Inria, is the responsibility of the General Health Directorate of the Ministry for Social Affairs and Health.
+The development coordination of which has been entrusted to Inria (Institut national de recherche en sciences et technologies du numérique), which is placed under the responsibility of the Direction générale de la santé du ministère des Solidarités et de la Santé.
 
 The data will be used in order to:
 
-1° Inform users of the application who have been in proximity to at least one other user who has since tested positive for COVID-19 and who may have been infected themselves
+1° Inform a person using the application who has been near at least one other user of the same application who has subsequently been diagnosed positive for the Covid-19 virus, so that there is a risk that it has been contaminated in turn, thanks to a proximity history fed by pseudonyms sent via Bluetooth technology (Robert protocol) or after a scan of the place QR Code (Cléa protocol) ;
 
-2° Raise awareness among users of the application of the symptoms of the virus, as well as the social distancing measures and behaviours to adopt in order to prevent the virus from spreading
+2° Raise awareness among users of the application on the symptoms of this virus, barrier actions and what to do to fight against the spread of the virus;
 
-3° Guide at-risk contacts towards competent healthcare professionals for treatment and testing, as the case may be
+3° Guide risky contacts with the correct course of actions;
 
-4° Carrying out anonymous statistics in order to adapt the measures necessary to deal with the pandemic and to improve the performance of the application and the user experience
+4° Produce statistics in order to adapt the measures necessary to face the epidemic and to improve the performance of the application and the user experience;
 
-5° Generate travel exemption forms
+5° Help to generate supporting documents required by public authorities in the fight against Covid-19 (exceptional travel certificate, for example);
 
-6° Share health information relating to COVID-19, with the option of filtering by place of interest
+6° Obtain health information related to Covid-19 with the possibility of filtering by place of interest;
 
-7° Share guidance on self-isolating in accordance with the selected COVID-19 status
+7° Keep certificates of vaccination and negative / positive tests for Covid-19, recovery from Covid-19 and exemption to vaccination;
 
-8° Store certificates of vaccination and negative / positive tests for COVID-19
+8° Convert 2D-DOC vaccination and negative / positive COVID-19 certificates to digital EU COVID certificates;
 
-9° Convert former 2D-Doc French digital format to EU Digital COVID-19 certificates
+9° Register during the visit in a defined venue subject to the contact tracing logbook (restaurants, bars, sports halls, etc.), from the "Cahier de rappel" module;
 
-10° Register in restaurants, bars, sports halls in the French it module “Cahier de rappel” for contact tracing purposes
+10° Inform users of the application of their eligibility for the vaccine booster and of the expiration of their health pass, as part of the activity pass in France, by sending them targeted messages on the basis of the certificates present in the Wallet ;
 
-11° Notify users of the application of their eligibility for the vaccine booster and the expiration of their health pass, as part of the health/activity pass in France
+11° Inform users in the event of invalidation of their health pass following the observation of fraudulent use of the health pass by a third person, whether or not the user is aware of it.
 
-### The legal and regulatory basis for data processing
+### Legal basis and regulatory nature of the processing
 
-This processing and its statistics are for the purposes of tasks carried out in the public interest (Article 6.1.e of the GDPR) by the "Direction générale de la santé" in tackling health threats. There is also a regulatory framework for processing - the decree of 29 May 2020 pertaining to the processing of data entitled “StopCovid" (since renamed TousAntiCovid) introduced after consultation with the CNIL (the French data protection authority).
+This processing and its statistics fall within the framework of the missions of public interest (article 6.1.e of the GDPR) entrusted to the Direction générale de la santé in the fight against health threats. It also benefits from a regulatory framework - decree of May 29, 2020 relating to data processing called "StopCovid" (since renamed TousAntiCovid) taken after advice from the CNIL.
 
-### Personal data processed on the central server
+### Personal data processed on the Central server
 
-For informing people who have been in proximity to other users who have tested positive for COVID-19
+For the information of having been near another user positive for Covid-19:
 
-*   An authentication key shared by the application and the central server
-*   For each application that is downloaded, the central server will randomly generate a unique ID. This ID will only be known to the server, where it will be stored
-*   Country codes
-*   Random and temporary usernames generated by the server
-*   Proximity history
-*   Periods during which users were exposed to individuals who have been diagnosed with or tested positive for the COVID-19 virus, stored on the central server
-*   Data entered into the application by individuals who have tested positive for the COVID-19 virus and who have chosen to send their at-risk contacts to the proximity history server
-*   The "contacts at-risk of contamination" status
-*   The date of the most recent queries on the central server
+*   An authentication key shared between the application and the central server;
+*   A unique identifier associated with each downloaded application generated randomly by the central server and which is known only to that server, where it is stored;
+*   Country codes;
+*   Random and temporary pseudonyms generated by the server;
+*   The history of proximity and the history of the visited venues;
+*   The periods of user exposure to people diagnosed or screened positive for the Covid-19 virus, stored on the central server;
+*   The data entered in the application by people diagnosed or screened positive for the Covid-19 virus who decide to send the proximity history of their contacts at risk to the server;
+*   The "contacts at risk of contamination" status;
+*   The date of the last queries from the central server.
 
-Part of this data is used for the compilation of anonymous statistics.
+Part of this data is used for the production of statistics:
 
-*   Technical information on the smartphone and the TousAntiCovid application
-*   TousAntiCovid sections consulted, type of information and documents generated or added by the user
-*   User Covid status and associated events
-*   An application identifier specific to statistics
+*   Technical information on the mobile phone and the TousAntiCovid application;
+*   TousAntiCovid sections consulted, type of information and documents generated or added by the user;
+*   User Covid status and associated events;
+*   An application identifier specific to statistics.
 
-### Personal data processed on IN Groupe central server
+### Personal data processed by the central IN Groupe server
 
-EU Digital COVID certificates are delivered through conversion from former French digital format into the European standard querying IN Groupe central server
+In the conversion process, the TousAntiCovid application uses the central servers of IN Groupe to obtain a digital COVID certificate from the European Union.
 
-Identification data (common to vaccination and tests)
+Identification data (common to vaccine evidence, screening tests, recovery from Covid-19 and exemption to vaccination):
 
 *   List of first names
 *   Last name
-*   Birth date
+*   Date of Birth
 
-Vaccination certificate
+Certificate of vaccination:
 
 *   Date of the last status of the vaccination cycle (date of vaccination)
 *   Rank of the last vaccination status carried out
 *   Number of doses expected for a complete cycle
-*   Name of disease
+*   Name of covered disease
 *   Prophylactic agent
 *   Vaccine name
 *   Manufacturer
 
-Screening test
+Certificate of Covid test:
 
 *   Date and time of sample
 *   Test result
 *   Test type
-*   Name of disease
+*   Name of covered disease
 *   Test name
-*   Test device & Manufacturer
+*   Test Device & Manufacturer
 *   Test center
 
-Recovery
+Certificate of recovery:
 
 *   Date of the first positive sample
 *   Starting date of validity
 *   Expiration date
-*   Name of disease
+*   Name of covered disease
 
-Data relating to the digital signature certificate (common to vaccination and tests)
+Data relating to the digital signature certificate (common to all certificates):
 
 *   Country
 *   Certification authority
@@ -117,78 +108,81 @@ Data relating to the digital signature certificate (common to vaccination and te
 
 ### Personal data processed in the TousAntiCovid application
 
-For travel exemption forms, no information entered into the travel form generator will be processed by the Ministry for Social Affairs and Health. This personal data will only be stored on individual users’ mobile phones, making it easier for them to fill in their next travel exemption form.
+For the generation of proof of the exceptional travel certificate type, the information entered in this travel certificate generator is not processed by the ministère des Solidarités et de la Santé. This personal data is stored exclusively on the user's mobile phone in order to make it easier for him to complete the next exceptional travel certificate.
 
-When seeking information on COVID-19 relating to a place of interest, the information that is entered will not be processed by the Ministry for Social Affairs and Health. It will only be stored on individual users’ mobile phones.
+To obtain health information related to Covid-19 relating to a place of interest, the information entered is processed locally, on the user's phone, and is not subject to any transfer.
 
-When seeking advice on self-isolating, the information that is entered will not be processed by the Ministry for Social Affairs and Health. It will only be stored on individual users’ mobile phones.
+For the storage of the vaccination certificate, negative / positive tests for Covid-19, recovery from Covid-19, exemption to vaccination, the information is processed locally, on the user's phone, and are not subject to any transfer.
 
-For the storage of the certificates of vaccination or negative / positive tests for COVID-19, as well as for notifications of vaccine booster eligibility or expiration of the health pass (as part of the health/activity pass in France), the information entered is not subject to any processing by the Ministry for Social Affairs and Health. They are stored exclusively in the user's mobile phone so that he/she can present them to public authorities.
+For the notification of eligibility for the vaccine booster or the expiration of the health pass (as part of the activity pass in France), the information is processed locally, on the user's phone, and does not make the subject to no transfer.
 
-#### Consent to use your smartphone's camera
+To fight against fraudulent use of health passes, information is processed locally, on the user's phone, and is not subject to any transfer. This local processing is based on the comparison of a hash of the certificate with those of a reference database hosted by Inria, previously downloaded in the mobile application.
 
-The application requires your consent to use your smartphone's camera, if you wish to scan a QR Code within the TousAntiCovid application. This consent will materialize when you first wish to use this QR Code reading feature within the TousAntiCovid application by displaying a dialog box asking you for permission to "take photos or videos". No personal data (photo or video belonging to you) is stored or transmitted by TousAntiCovid, only the content of the QR Code is used as part of the application.
+#### Using the camera
 
-### The recipient of the data
+The application may ask the user to authorize the use of his/her mobile phone's camera, when the user wishes to scan a QR Code within the TousAntiCovid application. This authorization will materialize when the user wants to use the QR Code scanning functionality for the first time within the TousAntiCovid application by displaying a dialog box asking the user for authorization to "take photos or videos". No personal data (photo or video belonging to the user) is stored or transmitted by TousAntiCovid, only the content of the QR Code is used as part of the application.
 
-For informing people who have been in proximity to other users who have tested positive for COVID-19
+### Data recipient
 
-*   Users identified by the application as being at risk of having contracted the COVID-19 virus will be notified if they have been in proximity to one or more users who have tested positive for the COVID-19 virus.
-*   Inria, as a subcontractor of the "Direction générale de la santé du ministère des solidarités et de la santé".
+For the information of having been near another user positive for Covid-19:
 
-For travel exemption forms
+*   Users identified by the application as contacts at risk of having contracted the Covid-19 virus are sent information according to which they have been near at least one other user diagnosed or screened positive for the Covid-19 virus.
+*   Inria as a subcontractor of the Direction générale de la santé du ministère des Solidarités et de la Santé.
 
-*   Users of the application
-*   The public authorities they will be presented to
+For the supporting documents required by the public authorities, such as an exceptional certificate:
 
-When seeking information on self-isolating
-
-*   Users of the application
-
-When seeking the latest news on COVID-19 in relation to places of interest
-
-*   Users of the application
-
-When seeking advice on self-isolating
-
-*   Users of the application
-
-For the compilation of anonymous statistics:
-
-*   Inria as a subcontractor of the "Direction générale de la santé du ministère des solidarités et de la santé".
-
-For the storage of certificates of vaccination and negative / positive tests for COVID-19
-
-*   Users of the application
+*   Application users
 *   The public authorities to which they will be presented
 
-For the conversion of vaccination certificates and negative / positive tests to COVID-19
+For obtaining health information on news related to Covid-19 relating to a place of interest:
+
+*   Application users
+
+For the production of statistics
+
+*   Inria as a subcontractor of the Direction générale de la santé du ministère des Solidarités et de la Santé.
+
+For the storage of vaccination certificates, negative / positive tests for Covid-19, recovery from Covid-19 or exemption to vaccination:
+
+*   Application users
+
+When displaying the certificates in the Wallet module:
+
+*   Public authorities and persons empowered, in accordance with the decree, to carry out health pass checks
+
+For the conversion of vaccination certificates and negative / positive tests to Covid-19:
 
 *   IN Groupe by providing a conversion API
 
+To fight against the fraudulent use of health passes:
+
+*   Inria as a subcontractor of the Direction générale de la santé du ministère des Solidarités et de la Santé and responsible for providing the TousAntiCovid application, TAC Verif or third party device, the reference base of validated fraudulent health passes by the Direction générale de la santé
+
 ### Retention period
 
-For notifications that you have been in proximity to another user who has tested positive for COVID-19: data will be processed for six months from the declaration of the state of emergency onwards. Proximity history data will be retained for no longer than 2 weeks after being shared.
+For the information of having been near another user positive for Covid-19: the processing is implemented for a period of six months from the end of the state of emergency. Proximity history data will be kept for a maximum of fifteen days from their issuance.
 
-For travel exemption forms: for a maximum of 24 hours from the validity date onwards.
+For the exceptional travel certificate: maximum twenty-four hours from the date of validity.
 
-When seeking information on COVID-19 linked to a place of interest: postcodes will only be recorded in the application, not on the central server. These will be retained until they are modified or deleted by users
+For obtaining health information related to Covid-19 relating to a place of interest: the postal code is not recorded on the central server, but only in the user's application. It is retained until modified or deleted by the user.
 
-When seeking advice on self-isolating: data selected or entered by users will only be stored in the application and will not be shared with the central server. It will be retained until it is deleted by the user.
+For the production of statistics: the data used is kept for three months.
 
-For the compilation of anonymous statistics: the data that are used are kept for 3 months.
+For the storage of vaccination certificates and negative / positive tests for Covid-19: certificates can be deleted by the user at any time in the application.
 
-For the storage of certificats of vaccination and negative / positive tests for COVID-19: certificates can be deleted by the user at any time in the application.
-
-For the conversion of vaccination certificates and negative / positive tests for COVID-19, by IN Groupe: no data is recorded by the central server during the conversion process.
+For the conversion of vaccination certificates and negative / positive tests for Covid-19, by IN Groupe: no data is recorded by the central server during the conversion process.
 
 ### Exercising your rights
 
-The right to access and rectify data, as well as purpose limitation, cannot be exercised: data is rendered anonymous in order to prevent users from being identified. Exercising these rights would entail identifying the individual in question, which would considerably weaken both the security and the confidentiality of the application as a whole.
+The rights of access, rectification and limitation cannot be exercised because the data processed are pseudonymized in order to avoid any re-identification of persons. The exercise of these rights would require identification of the data subject, which would considerably weaken the security and confidentiality of the entire application.
 
-However, users will be able to delete this data from their mobile application at any time. They can also delete any data stored on the central server by unsubscribing and uninstalling the application.
+However, each user can, at any time, delete data on the mobile application himself. The user can also erase data on the central server by unsubscribing and uninstalling the application.
 
-The user can also at any time exercise his right to oppose the sending of anonymous statistics by disabling them in the settings of the TousAntiCovid application.
+The user can also at any time exercise his right to object to the development of anonymous statistics by deactivating them from the settings of the TousAntiCovid application.
+
+The user can declare, at any time, the fraudulent use of his health pass by e-mail by writing to revocation-pass-sanitaire@sante.gouv.fr and recover, after confirmation of his/her revocation, his/her new certificate on the site https://sidep.gouv.fr or https://attestation-vaccin.ameli.fr
+
+The user can at any time via the "settings" of the application deactivate the Smart Wallet allowing them to receive targeted health recommendations, in particular on the eligibility for the vaccination booster and the expiration of certificates.
 
 Any questions you may have regarding the processing of your data can be addressed to the Ministry for Health, either by email: [tousanticovid-rgpd@sante.gouv.fr](mailto:tousanticovid-rgpd@sante.gouv.fr) or through the post: The Ministry for Social Affairs and Health - Data Protection Officer - General Health Directorate - 14 Avenue Duquesne 75350 Paris 07 SP.
 
