@@ -338,7 +338,7 @@ Pour les besoins du présent article :
   
 CDISCOUNT peut vous proposer différents modes de livraison.
 
-La livraison de certains produits ou dans certaines zones peut donner lieu à une facturation complémentaire. Dans tels cas, cette information est clairement indiquée sur la page d'information dédiée à la livraison,  accessible en bas de chaque page du Site ou [en cliquant ici](https://www.cdiscount.com/shipping/shippinginfo.html?shippingpartnerorigin=ft).
+La livraison de certains produits ou dans certaines zones peut donner lieu à une facturation complémentaire. Dans tels cas, cette information est clairement indiquée sur la page d’information dédiée à la livraison,  accessible en bas de chaque page du Site ou [en cliquant ici](https://www.cdiscount.com/shipping/shippinginfo.html?shippingpartnerorigin=ft).
 
 Le montant total des frais de livraison de votre commande est indiqué lors de la passation de celle-ci.
 
@@ -630,7 +630,7 @@ b) **ou en nous retournant, à l’adresse postale indiquée, le formulaire suiv
 
 À l’attention de CDISCOUNT, Cdiscount.com / SGPN Service Client - BP 90200 - 93472 Neuilly Sur Marne, France :
 
-— Je/Nous (\*) vous notifie/notifions (\*) par la présente ma/notre (\*) rétractation du contrat portant sur la vente du bien/service (\*) ci-dessous \[Indiquez le ou les produits/services pour lesquels vous vous rétractez\] …………………………………………………………………………………………………… ………………………………………………….... — Commandé le (\*)/reçu le (\*)……………………………………………………'………………………………………… …………..............
+— Je/Nous (\*) vous notifie/notifions (\*) par la présente ma/notre (\*) rétractation du contrat portant sur la vente du bien/service (\*) ci-dessous \[Indiquez le ou les produits/services pour lesquels vous vous rétractez\] …………………………………………………………………………………………………… ………………………………………………….... — Commandé le (\*)/reçu le (\*)…………………………………………é…………………………………………………… …………..............
 
 — N° de commande …………………………………………………………………………………………………… ………..............................
 
