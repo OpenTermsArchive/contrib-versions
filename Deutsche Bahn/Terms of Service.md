@@ -96,7 +96,7 @@ For example, we will alert you to situations that have a negative impact on serv
 
 As someone with a customer account, you can receive offers or vouchers for future journeys and for BahnCards when you visit a DB Travel Centre. Simply tell the staff member you are talking to that you have a customer account.  
 
-We also use the e-mail address you provide during registration or due to contractual commitments (e.g. booking a digital ticket) to inform you electronically (via e-mail and push notifications in particular) about similar products or services we offer. You can revoke your consent to the future commercial processing of your data whenever you wish. You can submit your objection via the objection link in any e-mail received for this purpose or by sending an e-mail to ecommerce-datenschutz@bahn.de (Advertising Objection).
+We also use the e-mail address you provide during registration or due to contractual commitments (e.g. booking a digital ticket) to inform you electronically (via e-mail and push notifications in particular) about similar products or services we offer. You can revoke your consent to the future commercial processing of your data whenever you wish. You can submit your objection via the objection link in any e-mail received for this purpose or by sending an e-mail to [p.d-datenschutz@deutschebahn.com](mailto:p.d-datenschutz@deutschebahn.com) (Advertising Objection).
 
 Our goal is to continuously upgrade and improve your customer account. We therefore reserve the right to expand, restrict or otherwise modify the customer account's functions by a reasonable degree at any given time.  
 
@@ -148,4 +148,7 @@ Our privacy policy contains information on how we process the personal data in y
 
 (Last modified: 1 October 2021) 
 
-Further information and answers to frequently asked questions about the new terms and conditions of use for customer accounts are available [here](https://www.bahn.com/en/terms-of-use/customer-accounts-terms-of-use/faq-customer-accounts-terms-of-use).
+Frequently asked questions
+--------------------------
+
+Further information and answers to frequently asked questions about the terms and conditions of use for customer accounts are available [in our FAQ](https://www.bahn.com/en/terms-of-use/customer-accounts-terms-of-use/faq-customer-accounts-terms-of-use).
