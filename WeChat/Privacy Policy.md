@@ -1,7 +1,7 @@
 WECHAT PRIVACY POLICY
 =====================
 
-**Last Updated:** 2021-12-10
+**Last Updated:** 2021-12-29
 
 **SUMMARY**
 
