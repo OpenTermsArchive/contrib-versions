@@ -11,9 +11,9 @@ To benefit from Bolt Services and provide Transportation Services through the Bo
 
 1.1 **Bolt Ireland** (also referred to as **we**, **ours** or **us**) - **Bolt ITX Ltd.** is a registered company under the laws of Ireland, company number: 671417, EU VAT no. 3694239QH, registered address: 15 Main Street, Raheny, Dublin (Ireland), D05 X006.
 
-**Bolt Group companies** - means Bolt Technology OÜ (registry code 12417834, address Vana-Lõuna tn 15 Tallinn Harjumaa 10135, Estonia, e-mail address [info@bolt.eu](mailto:info@bolt.eu)) and companies over which Bolt Technology OÜ exercises right of control (e.g., Bolt Technology OÜ’s subsidiaries).
+**Bolt Group companies** - means Bolt Operations OÜ (registry code 14532901, address Vana-Lõuna tn 15 Tallinn Harjumaa 10135, Estonia, e-mail address [info@bolt.eu](mailto:info@bolt.eu)) and companies over which Bolt Operations OÜ exercises right of control (e.g., Bolt Operations OÜ’s subsidiaries).
 
-**Bolt Partners** - means local representatives, local branches, agents appointed or mandated by Bolt Technology OÜ (e.g., Payment Agent).
+**Bolt Partners** - means local representatives, local branches, agents appointed or mandated by Bolt Operations OÜ (e.g., Payment Agent).
 
 1.2 **Bolt Services** - Services that Bolt Ireland provides, including the provision and maintenance of the Bolt Apps, the Bolt Platform, In-App Payment, Passenger support and the communication between the Fleet Partner, the Driver and Passenger, the billing system, and other similar services.
 
