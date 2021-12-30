@@ -1,7 +1,7 @@
 Privacy Notice for Passengers in Ireland
 ----------------------------------------
 
-**Bolt Technology OÜ** (hereinafter: “**Bolt Head Office**”) _Registered seat: Vana-Lõuna tn 39/1, Tallinn Harjumaa 10134, Estonia_ _E-mail:_ [privacy@bolt.eu](mailto:privacy@bolt.eu) _Website:_ [https://bolt.eu](https://bolt.eu/)
+**Bolt Operations OÜ** (hereinafter: “**Bolt Head Office**”) _Registered seat: Vana-Lõuna tn 15, Tallinn Harjumaa 10134, Estonia_ _E-mail:_ [privacy@bolt.eu](mailto:privacy@bolt.eu) _Website:_ [https://bolt.eu](https://bolt.eu/)
 
 **Bolt ITX Ltd.**. (hereinafter: “**Bolt Ireland**”) _Registered seat:_ 15 Main Street, Raheny, Dublin (Ireland) _E-mail:_ [dublin@bolt.eu](mailto:dublin@bolt.eu) _Website:_ [https://bolt.eu](https://bolt.eu/)
 
