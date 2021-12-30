@@ -324,8 +324,8 @@ You accept this Agreement and agree to its terms by activating the Services, usi
     *   **New Hampshire Residents:** The Office of the Attorney General Consumer Protection Bureau has the authority to enforce consumer protection laws and provide assistance in the mediation of consumer complaints. Customers should file written complaints concerning any alleged misrepresentations and unfair or deceptive practices of the cable company to: Office of the Attorney General, Consumer Protection Bureau, 33 Capitol Street, Concord, NH 03301.
     *   **Maine Residents:** The Office of the Attorney General Consumer Protection Division has the authority to enforce consumer protection laws and provide assistance in the mediation of consumer complaints. Customers should file written complaints concerning any alleged misrepresentations and unfair or deceptive practices of the cable company to: Office of the Attorney General, Consumer Information and Mediation Service, 6 State House Station, Augusta, ME 04333.
 
-Stnd 1021
+Stnd 0122
 
 View full agreement
 
-[English (PDF)](https://cdn.comcast.com/-/media/Files/FEDCM-MIG/Policies/Q4%202021/ResServicesHomeNetworkingUniLegalSTDENGcomcastcom.pdf?rev=cc939363-9612-457b-ba13-2bb629b32b3c&la=en) | [Spanish (PDF)](https://cdn.comcast.com/-/media/Files/FEDCM-MIG/Policies/Q4%202021/ResServicesHomeNetworkingUniLegalSTDSPcomcastcom.pdf?rev=eaaceee0-a4f9-47d2-842a-6822cbb5d468&la=en)
+[English (PDF)](https://cdn.comcast.com/-/media/Files/FEDCM-MIG/Batch-2/PDF/pages/Corporate/Customers/Policies/SubscriberAgreement/Jan2022ResServicesHomeNetworkingUniLegalSTDENGcomcastcom.pdf?rev=9d22b17e-9417-4f6c-b281-77f60babc8ec&la=en) | [Spanish (PDF)](https://cdn.comcast.com/-/media/Files/FEDCM-MIG/Batch-2/PDF/pages/Corporate/Customers/Policies/SubscriberAgreement/Jan2022ResServicesHomeNetworkingUniLegalSTDSPcomcastcom.pdf?rev=b18644f9-4008-429d-8bbf-dda7b282c737&la=en)
