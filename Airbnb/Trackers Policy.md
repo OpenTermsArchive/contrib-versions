@@ -1,9 +1,3 @@
-Legal terms
-
-•
-
-Guest
-
 Airbnb Cookie Policy
 
 
