@@ -21,8 +21,8 @@ Toute commande passée par un client professionnel est régie par les "Condition
   
   
 
-_PREAMBULE Modalités de contact_
---------------------------------
+_PREAMBULE  Modalités de contact_
+---------------------------------
 
   
   
@@ -32,7 +32,7 @@ _PREAMBULE Modalités de contact_
 
 **Pour toute information ou conseil**, vous pouvez contacter CDISCOUNT sur notre Ligne Conseil  
   
-Depuis la France au 39 79 (0,70cts/min + prix de l'appel) du lundi au vendredi de 9h à 19h et le week-end et les jours fériés de 9h à 18h.  
+Depuis la France au 39 79 (0,70cts/min + prix de l'appel) du lundi au vendredi de 9h à 20h et le week-end et les jours fériés de 9h à 18h.  
   
 Depuis la Belgique au 0800 58 211 (numéro gratuit) du lundi au vendredi de 9h à 19h et le samedi de 9h à 18h.  
   
@@ -62,7 +62,7 @@ Depuis le Portugal au 0800 60 00 45 (numéro gratuit) du lundi au vendredi de 9
 
  - ou téléphoner :  
 
- - depuis la France au 39 79 (0,70cts/min + prix de l'appel), du lundi au vendredi de 9h à 19h et le week-end et les jours fériés de 9h à 18h ;   
+ - depuis la France au 39 79 (0,70cts/min + prix de l'appel), du lundi au vendredi de 9h à 20h et le week-end et les jours fériés de 9h à 18h ;   
   
                 - depuis la Belgique au 0800 58 211 (numéro gratuit) du lundi au vendredi de 9h à 19h et le samedi de 9h à 18h ;   
                 - depuis l’Italie au 800 694 130 (numéro gratuit) du lundi au vendredi de 9h à 19h et le samedi de 9h à 18h ;   
@@ -87,7 +87,7 @@ Depuis le Portugal au 0800 60 00 45 (numéro gratuit) du lundi au vendredi de 9
   
 \-En Ligne, par l’intermédiaire de votre Espace Client. Les informations concernant votre commande, son paiement, sa livraison, son SAV, sont accessibles dans votre Espace Client, dans les rubriques « Mes commandes » et « Questions fréquentes (FAQ) » ;  
   
-\- Par téléphone du lundi au vendredi de 9h à 19h et le samedi de 9h à 18h : depuis la France au 09 70 80 90 50 (numéro non surtaxé) ;  
+\- Par téléphone du lundi au vendredi de 9h à 20h et le samedi de 9h à 18h : depuis la France au 09 70 80 90 50 (numéro non surtaxé) ;  
   
 \- Par courrier : Cdiscount.com / SGPN Service Client BP 90200 93472 Neuilly Sur Marne, FRANCE (Merci de ne faire aucun retour de colis à cette adresse).  
   
@@ -181,7 +181,7 @@ Si malgré tous nos efforts, un produit ou un service devenait indisponible post
 \- En ligne via les applications CDISCOUNT pour smartphones ou pour tablettes ;  
 \- Par téléphone en appelant :  
   
-        - depuis la France au 3979 (0.70 cts €/min + prix de l'appel) du lundi au vendredi de 9h à 19h et les week-ends et jours fériés de 9h à 18h ;  
+        - depuis la France au 3979 (0.70 cts €/min + prix de l'appel) du lundi au vendredi de 9h à 20h et les week-ends et jours fériés de 9h à 18h ;  
   
         - depuis la Belgique au 0800 58 211 (numéro gratuit) du lundi au vendredi de 9h à 19h et le samedi de 9h à 18h ;   
   
@@ -502,16 +502,16 @@ Pour le suivi de votre commande et le service après-vente, vous pouvez nous con
 
  En Ligne, par l’intermédiaire de votre Espace Client. Les informations concernant votre commande, son paiement, sa livraison, son SAV, sont accessibles dans votre Espace Client, dans les rubriques « C mes commandes » et « Questions fréquentes (FAQ) » ;
 
-\- Par téléphone du lundi au vendredi de 9h à 19h et le samedi de 9h à 18h :  
+\- Par téléphone :  
   
-                - depuis la France au 09 70 80 90 50 (numéro non surtaxé) ;   
+                - depuis la France au 09 70 80 90 50 (numéro non surtaxé) du lundi au vendredi de 9h à 20h et le samedi de 9h à 18h :;   
   
                 - depuis la Belgique au 0800 58 211 (numéro gratuit) du lundi au vendredi de 9h à 19h et le samedi de 9h à 18h ;   
                 - depuis l’Italie au 800 694 130 (numéro gratuit) du lundi au vendredi de 9h à 19h et le samedi de 9h à 18h ;   
   
                 - depuis l’Allemagne au 0800 627 9980 (numéro gratuit) du lundi au vendredi de 9h à 19h et le samedi de 9h à 18h ;   
   
-                - depuis l’Espagne au 0800 00 01 17 (numéro gratuit) du lundi au vendredi de 9h à 19h et le samedi de 9h à 18h;  
+ - depuis l’Espagne au 0800 00 01 17 (numéro gratuit) du lundi au vendredi de 9h à 19h et le samedi de 9h à 18h;  
   
                 \- depuis le Luxembourg au 0800 40 234 (numéro gratuit) du lundi au vendredi de 9h à 19h et le samedi de 9h à 18h.       
   
@@ -696,26 +696,25 @@ _Article 9 : GARANTIES_
 
 **9.1 Les Garanties Légales**
 
-Pour les produits directement vendus par Cdiscount (à l’exclusion des produits vendus par les vendeurs inscrits sur la Marketplace de Cdiscount), Cdiscount est tenue des défauts de conformité du bien au contrat dans les conditions de [l'article L. 217-4 et suivants](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006069565&idArticle=LEGIARTI000006292208&dateTexte=&categorieLien=cid) du Code de la consommation et des défauts cachés de la chose vendue dans les conditions prévues aux [articles 1641 et suivants](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006070721&idArticle=LEGIARTI000006441924&dateTexte=&categorieLien=cid) du code civil. S’agissant de la garantie des vices cachés, le consommateur peut décider de mettre en œuvre cette garantie au sens de l’article 1641 du code civil et, dans cette hypothèse, il peut choisir entre la résolution de la vente ou une réduction du prix de vente conformément à l’article 1644 du code civil.
+Pour les produits directement vendus par Cdiscount (à l’exclusion des produits vendus par les vendeurs inscrits sur la Marketplace de Cdiscount), Cdiscount est tenue des défauts de conformité du bien au contrat dans les conditions de [l'article L. 217-3 et suivants](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006069565&idArticle=LEGIARTI000006292208&dateTexte=&categorieLien=cid) du Code de la consommation et des défauts cachés de la chose vendue dans les conditions prévues aux [articles 1641 et suivants](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006070721&idArticle=LEGIARTI000006441924&dateTexte=&categorieLien=cid) du code civil. S’agissant de la garantie des vices cachés, le consommateur peut décider de mettre en œuvre cette garantie au sens de l’article 1641 du code civil et, dans cette hypothèse, il peut choisir entre la résolution de la vente ou une réduction du prix de vente conformément à l’article 1644 du code civil.
 
 **Attention, pour les produits achetés auprès d’un vendeur de la Marketplace, vous devez vous rapprocher du vendeur concerné pour exercer vos droits, CDISCOUNT ne pouvant se substituer au vendeur.** 
 
   
 Il est rappelé que le consommateur, dans le cadre de la garantie légale de conformité :  
 
-*    - bénéficie d’un délai de deux ans à compter de la délivrance du bien pour agir ;
-*    - peut choisir entre la réparation ou le remplacement du produit, sous réserve des conditions de coût prévues par l’article L. 217-9 du code de la consommation ;
-    
-*    - est dispensé de rapporter la preuve de l’existence du défaut :
-    
-*    - pour les produits commandés avant le 18/03/2016 : au cours des 6 mois suivants la réception du produit ;
-    
-*                  - pour les produits commandés à compter du 18/03/2016 :
-    
-*                            -  si le produit est neuf : au cours des 24 mois suivant la réception du produit.
-    
-*                            - si le produit est d'occasion (en ce inclus les biens identifiés comme étant des "spécificités web déstockage") : au cours des 6 mois suivant la réception du produit.
-    
+ - bénéficie d’un délai de deux ans à compter de la délivrance du bien pour agir ;  
+    - peut choisir entre la réparation ou le remplacement du produit, sous réserve des conditions de coût prévues par l’article L. 217-12 du code de la consommation ;  
+    - est dispensé de rapporter la preuve de l’existence du défaut : les défauts sont donc présumés exister au moment de la délivrance à moins que cette présomption ne soit incompatible avec la nature du produit ou du défaut invoqué.  
+  
+            - **pour les produits commandés avant le 01/01/2022** :   
+                    - si le produit est neuf : au cours des 24 mois suivant la réception du produit  
+                    - si le produit est d'occasion (en ce inclus les biens identifiés comme étant des "spécificités web déstockage") : au cours des 6 mois suivant la réception du produit.  
+  
+            - **pour les produits commandés à compter du 01/01/2022** :   
+                    - si le produit est neuf : au cours des 24 mois suivant la réception du produit. .  
+                    - si le produit est d'occasion (en ce inclus les biens identifiés comme étant des "spécificités web déstockage") : au cours des 6 mois suivant la réception du produit. - Tout produit réparé dans le cadre de la garantie légale de conformité bénéficie d'une extension de 6 mois.  - Dès lors que le consommateur fait le choix de la réparation mais que celle-ci n'est pas mise en œuvre par le vendeur, la mise en conformité par le remplacement du bien fait courir, au bénéfice du consommateur, un nouveau délai de garantie légale de conformité attaché au bien remplacé.  
+                    - Toute période d'immobilisation du bien pendant la période de garantie suspend la garantie qui restait à courir jusqu'à la délivrance du bien remis en conformité.
 
 La garantie légale de conformité s’applique indépendamment de la garantie commerciale pouvant couvrir votre produit.
 
@@ -723,20 +722,17 @@ Pour bénéficier de la garantie légale de conformité ou de la garantie des vi
 
 *   En vous rendant sur le Service Client en ligne : les informations concernant votre commande, son paiement, sa livraison, son SAV, sont accessibles dans votre Espace Client, dans les rubriques « Mes commandes » et « Questions fréquentes (FAQ) » ;
 
-*   Par téléphone du lundi au vendredi de 9h à 19h et le samedi de 9h à 18h :
-    
+*   Par téléphone du lundi au vendredi de 9h à 20h et le samedi de 9h à 18h :  
     \- depuis la France au 09 70 80 90 50 (numéro non surtaxé) ;   
     \- depuis la Belgique au 0800 58 211 (numéro gratuit) ;   
     \- depuis l’Italie au 800 694 130 (numéro gratuit) ;   
-    \- depuis l’Allemagne au 0800 627 9980 (numéro gratuit) ;
-
- - depuis l’Espagne au 0800 00 01 17 (numéro gratuit) ;
-
- - depuis le Luxembourg au 0800 40 234 (numéro gratuit) ;  
-            - depuis l'Autriche au 0800 70 10 07 (numéro gratuit) ;  
-            - depuis Irlande au 1 800 83 22 86 (numéro gratuit) ;  
-            - depuis les Pays-Bas au 0800 251 21 24 (numéro gratuit) ;  
-            -depuis le Portugal au 0800 60 00 45 (numéro gratuit).
+    \- depuis l’Allemagne au 0800 627 9980 (numéro gratuit) ;  
+    \- depuis l’Espagne au 0800 00 01 17 (numéro gratuit) ;  
+    \- depuis le Luxembourg au 0800 40 234 (numéro gratuit) ;  
+    \- depuis l'Autriche au 0800 70 10 07 (numéro gratuit) ;  
+    \- depuis Irlande au 1 800 83 22 86 (numéro gratuit) ;  
+    \- depuis les Pays-Bas au 0800 251 21 24 (numéro gratuit) ;  
+    \- depuis le Portugal au 0800 60 00 45 (numéro gratuit).
 
 Afin d'optimiser le traitement de votre appel pensez à préparer l’email avec lequel vous avez passé votre commande et le numéro de la commande concernée. 
 
@@ -757,26 +753,56 @@ Dans tous les cas, à défaut de panne constatée ou en cas d’utilisation anor
 
 **Reproduction des dispositions légales :**
 
-**Article L217-4 du Code de la Consommation** 
+ **Article L217-3 du Code de la Consommation**   
+Le vendeur délivre un bien conforme au contrat ainsi qu'aux critères énoncés à l'article L. 217-5.  
+  
+Il répond des défauts de conformité existant au moment de la délivrance du bien au sens de l'article L. 216-1, qui apparaissent dans un délai de deux ans à compter de celle-ci.  
+  
+Dans le cas d'un contrat de vente d'un bien comportant des éléments numériques :  
+  
+1° Lorsque le contrat prévoit la fourniture continue d'un contenu numérique ou d'un service numérique pendant une durée inférieure ou égale à deux ans, ou lorsque le contrat ne détermine pas la durée de fourniture, le vendeur répond des défauts de conformité de ce contenu numérique ou de ce service numérique qui apparaissent dans un délai de deux ans à compter de la délivrance du bien ;  
+2° Lorsque le contrat prévoit la fourniture continue d'un contenu numérique ou d'un service numérique pendant une durée supérieure à deux ans, le vendeur répond des défauts de conformité de ce contenu numérique ou de ce service numérique qui apparaissent au cours de la période durant laquelle celui-ci est fourni en vertu du contrat.  
+  
+Pour de tels biens, le délai applicable ne prive pas le consommateur de son droit aux mises à jour conformément aux dispositions de l'article L. 217-19.  
+  
+Le vendeur répond également, durant les mêmes délais, des défauts de conformité résultant de l'emballage, des instructions de montage, ou de l'installation lorsque celle-ci a été mise à sa charge par le contrat ou a été réalisée sous sa responsabilité, ou encore lorsque l'installation incorrecte, effectuée par le consommateur comme prévu au contrat, est due à des lacunes ou erreurs dans les instructions d'installation fournies par le vendeur.  
+  
+Ce délai de garantie s'applique sans préjudice des articles 2224 et suivants du code civil. Le point de départ de la prescription de l'action du consommateur est le jour de la connaissance par ce dernier du défaut de conformité.
 
-Le vendeur est tenu de livrer un bien conforme au contrat et répond des défauts de conformité existants lors de la délivrance. 
+**Article L217-5 du Code de la Consommation**   
+I.-En plus des critères de conformité au contrat, le bien est conforme s'il répond aux critères suivants :  
+  
+1° Il est propre à l'usage habituellement attendu d'un bien de même type, compte tenu, s'il y a lieu, de toute disposition du droit de l'Union européenne et du droit national ainsi que de toutes les normes techniques ou, en l'absence de telles normes techniques, des codes de conduite spécifiques applicables au secteur concerné ;  
+2° Le cas échéant, il possède les qualités que le vendeur a présentées au consommateur sous forme d'échantillon ou de modèle, avant la conclusion du contrat ;  
+3° Le cas échéant, les éléments numériques qu'il comporte sont fournis selon la version la plus récente qui est disponible au moment de la conclusion du contrat, sauf si les parties en conviennent autrement ;  
+4° Le cas échéant, il est délivré avec tous les accessoires, y compris l'emballage, et les instructions d'installation que le consommateur peut légitimement attendre ;  
+5° Le cas échéant, il est fourni avec les mises à jour que le consommateur peut légitimement attendre, conformément aux dispositions de l'article L. 217-19 ;  
+6° Il correspond à la quantité, à la qualité et aux autres caractéristiques, y compris en termes de durabilité, de fonctionnalité, de compatibilité et de sécurité, que le consommateur peut légitimement attendre pour des biens de même type, eu égard à la nature du bien ainsi qu'aux déclarations publiques faites par le vendeur, par toute personne en amont dans la chaîne de transactions, ou par une personne agissant pour leur compte, y compris dans la publicité ou sur l'étiquetage.  
+  
+II.-Toutefois, le vendeur n'est pas tenu par toutes déclarations publiques mentionnées à l'alinéa qui précède s'il démontre :  
+  
+1° Qu'il ne les connaissait pas et n'était légitimement pas en mesure de les connaître ;  
+ 2° Qu'au moment de la conclusion du contrat, les déclarations publiques avaient été rectifiées dans des conditions comparables aux déclarations initiales ; ou  
+3° Que les déclarations publiques n'ont pas pu avoir d'influence sur la décision d'achat.  
+  
+III.-Le consommateur ne peut contester la conformité en invoquant un défaut concernant une ou plusieurs caractéristiques particulières du bien, dont il a été spécifiquement informé qu'elles s'écartaient des critères de conformité énoncés au présent article, écart auquel il a expressément et séparément consenti lors de la conclusion du contrat.
 
-Il répond également des défauts de conformité résultant de l'emballage, des instructions de montage ou de l'installation lorsque celle-ci a été mise à sa charge par le contrat ou a été réalisée sous sa responsabilité. 
+**Article L217-8 du Code de la Consommation** En cas de défaut de conformité, le consommateur a droit à la mise en conformité du bien par réparation ou remplacement ou, à défaut, à la réduction du prix ou à la résolution du contrat, dans les conditions énoncées à la présente sous-section.  
+  
+Le consommateur a, par ailleurs, le droit de suspendre le paiement de tout ou partie du prix ou la remise de l'avantage prévu au contrat jusqu'à ce que le vendeur ait satisfait aux obligations qui lui incombent au titre du présent chapitre, dans les conditions des articles 1219 et 1220 du code civil.  
+  
+Les dispositions du présent chapitre sont sans préjudice de l'allocation de dommages et intérêts.
 
-**Article L217-5 du Code de la Consommation** 
+**Article L217-13 du Code de la Consommation  
+**Tout bien réparé dans le cadre de la garantie légale de conformité bénéficie d'une extension de cette garantie de six mois.  
+  
+Dès lors que le consommateur fait le choix de la réparation mais que celle-ci n'est pas mise en œuvre par le vendeur, la mise en conformité par le remplacement du bien fait courir, au bénéfice du consommateur, un nouveau délai de garantie légale de conformité attaché au bien remplacé. Cette disposition s'applique à compter du jour où le bien de remplacement est délivré au consommateur.
 
-Pour être conforme au contrat, le bien doit : 
-
-**1)** Etre propre à l’usage habituellement attendu d’un bien semblable et, le cas échéant :
-
-*   Correspondre à la description donnée par le vendeur et posséder les qualités que celui-ci a présentées à l’acheteur sous forme d’échantillon ou de modèle ;
-*   Présenter les qualités qu’un acheteur peut légitimement attendre eu égard aux déclarations publiques faites par le vendeur, par le producteur ou par son représentant, notamment dans la publicité ou l’étiquetage ;
-
-**2)** Ou présenter les caractéristiques définies d’un commun accord par les parties ou être propre à tout usage spécial recherché par l’acheteur, porté à la connaissance du vendeur et que ce dernier a accepté. 
-
-**Article L217-12 du Code de la Consommation** 
-
-L’action résultant du défaut de conformité se prescrit par 2 ans à compter de la délivrance du bien. 
+**Article L217-28 du Code de la Consommation** Lorsque le consommateur demande au garant, pendant le cours de la garantie légale ou de la garantie commerciale qui lui a été consentie lors de l'acquisition ou de la réparation d'un bien, une remise en état couverte par cette garantie, toute période d'immobilisation suspend la garantie qui restait à courir jusqu'à la délivrance du bien remis en état.  
+  
+Cette période court à compter de la demande d'intervention du consommateur ou de la mise à disposition pour réparation ou remplacement du bien en cause, si ce point de départ s'avère plus favorable au consommateur.  
+  
+Le délai de garantie est également suspendu lorsque le consommateur et le garant entrent en négociation en vue d'un règlement à l'amiable.
 
 **  
 Article L217-16 du Code de la Consommation**
@@ -827,7 +853,7 @@ Pour en savoir plus sur ces garanties et consulter les notices d’information, 
 
 La notice d’information relative à la garantie à laquelle vous aurez souscrit vous sera adressée par email, à l’adresse email du Compte Client utilisé pour la souscription à la garantie.  
 **  
-IL EST RAPPELÉ QUE LA SOUSCRIPTION A L'UNE DES GARANTIES COMMERCIALES CDISCOUNT LISTÉES CI-DESSUS NE FAIT PAS OBSTACLE A L’APPLICATION DES DISPOSITIONS LÉGALES RELATIVES A LA GARANTIE LÉGALE DE CONFORMITÉ TELLES QUE FIGURANT AUX ARTICLES L217-4 À L217-13 DU CODE DE LA CONSOMMATION ET A LA GARANTIE DES VICES CACHES TELLES QUE FIGURANT AUX ARTICLES 1641 À 1648 DU CODE CIVIL AINSI QU’A L’ARTICLE 2232 DU MÊME CODE  ET REPRODUITES A L’ARTICLE 9.1.**
+IL EST RAPPELÉ QUE LA SOUSCRIPTION A L'UNE DES GARANTIES COMMERCIALES CDISCOUNT LISTÉES CI-DESSUS NE FAIT PAS OBSTACLE A L’APPLICATION DES DISPOSITIONS LÉGALES RELATIVES A LA GARANTIE LÉGALE DE CONFORMITÉ TELLES QUE FIGURANT AUX ARTICLES L217-3 À L217-20 DU CODE DE LA CONSOMMATION ET A LA GARANTIE DES VICES CACHES TELLES QUE FIGURANT AUX ARTICLES 1641 À 1648 DU CODE CIVIL AINSI QU’A L’ARTICLE 2232 DU MÊME CODE  ET REPRODUITES A L’ARTICLE 9.1.**
 
 **9.2.2  La Garantie Fabricant**
 
@@ -839,26 +865,55 @@ Si vous souhaitez faire jouer la Garantie Fabricant, nous vous remercions de nou
 
 Pour faire jouer votre Garantie Fabricant, il vous appartient de consulter les modalités d’application de la Garantie Fabricant généralement présentes dans la boite contenant le produit.
 
-**IL EST RAPPELÉ QUE LE BÉNÉFICE DE LA GARANTIE FABRICANT NE FAIT PAS OBSTACLE A L’APPLICATION DES DISPOSITIONS LÉGALES RELATIVES a la GARANTIE LÉGALE DE CONFORMITÉ TELLES QUE FIGURANT AUX ARTICLES L217-4 À L217-13 DU CODE DE LA CONSOMMATION ET A LA GARANTIE DES VICES CACHES TELLES QUE FIGURANT AUX ARTICLES 1641 À 1648 DU CODE CIVIL AINSI QU’A L’ARTICLE 2232 DU MÊME CODE  ET REPRODUITES A L’ARTICLE 9.1.**
+**IL EST RAPPELÉ QUE LE BÉNÉFICE DE LA GARANTIE FABRICANT NE FAIT PAS OBSTACLE A L’APPLICATION DES DISPOSITIONS LÉGALES RELATIVES a la GARANTIE LÉGALE DE CONFORMITÉ TELLES QUE FIGURANT AUX ARTICLES L217-3 À L217-20 DU CODE DE LA CONSOMMATION ET A LA GARANTIE DES VICES CACHES TELLES QUE FIGURANT AUX ARTICLES 1641 À 1648 DU CODE CIVIL AINSI QU’A L’ARTICLE 2232 DU MÊME CODE  ET REPRODUITES A L’ARTICLE 9.1.**
 
 _Article 10 :  ECO-PARTICIPATIONS ET REPRISE DE VOS DECHETS D’EQUIPEMENT ELECTRIQUES ET ELECTRONIQUES (DEEE) ET REDEVANCE POUR COPIE PRIVEE_
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-**10.1 Eco-participations**
+**10.1 Les démarches environnementales de Cdiscount Eco-participations**
 
-Comme tout distributeur, CDISCOUNT a l’obligation de collecter une éco-participation auprès de ses clients, aux fins de financer les filières de collecte et de recyclage des Déchets d’Equipements Electriques et Electroniques (DEEE) et [des Déchets d’éléments d’ameublement (DEA)](https://clients.cdiscount.com/Simple/DEA.aspx "DEA").
+Soucieuse des impacts environnementaux et sociaux, Cdiscount est force de propositions innovantes pour les consommateurs afin de les accompagner dans un choix de consommation responsable.  
+A cet effet, Cdiscount met à disposition une aide au choix responsable que vous trouverez [ici](https://www.cdiscount.com/nos-engagements-rse/aide-au-choix-responsable.html).
 
-Le montant de l’éco-participation est indiqué sur la fiche produit des produits relevant de cette obligation. Pour en savoir plus sur les éco-participations, [cliquez ici](https://www.cdiscount.com/edito/ecopart.html).
+Dans cette même volonté Cdiscount propose depuis 2021 la reprise des produits d’ameublement devançant ses obligations en tant que distributeur dans le cadre de la Responsabilité Elargie des Producteurs (REP).
 
-**10.2 Reprise de vos DEEE**
+La Responsabilité Elargie des Producteurs amène les producteurs ainsi que les distributeurs au respect de différentes obligations afin de pourvoir et contribuer à la gestion des déchets qui se dégagent de leur activité.  
+Ces obligations sont de deux ordres :  
+    - L’éco-participation ;   
+    - Et la reprise des produits usagés.
 
-Conformément aux articles L. 541-10-2 et R. 543-180 du Code de l'Environnement, vous pouvez bénéficier d’une reprise gratuite de vos anciens produits, sous réserve qu’il s’agisse de Déchets d’Equipements Electriques et Electroniques (DEEE) uniquement. 
+**a) Eco-participation**
 
-La demande de reprise de votre ancien produit doit respecter le principe du « 1 pour 1 » : CDISCOUNT reprend votre ancien produit pour tout produit neuf de même type acheté sur le Site. Exemple : une machine à laver le linge reprise suite à l’achat d’une nouvelle machine à laver le linge sur notre Site.
+Pour l’ensemble des filières REP, en tant que producteur CDISCOUNT a l’obligation auprès de ses clients de collecter une éco-participation qu’elle reverse aux différentes éco-organismes aux fins de financer les filières de collecte, de recyclage et de valorisation des déchets (liste des filières ci-après).  
+Pour cela Cdiscount est adhérant aux différentes filières REP relevant de son activité.
 
-Pour connaître les modalités de reprise de votre ancien produit, [cliquez ici](https://www.cdiscount.com/edito/ecopart.html).  
+ Vous trouverez ci-dessous l’ensemble des éco-organismes et le numéro d’adhésion afférent de Cdiscount :  
+        -  DEEE : 146482  
+        - DEA : 0173059  
+        - Piles & batteries : ENT170101WH  
+        - Emballages : 507966  
+        - Textiles : 4000003666
 
-**10.3 Redevance pour copie privée**
+ Les identifiants uniques de Cdiscount vous seront communiqués dès transmission de ces derniers par les éco-organismes.
+
+Pour les filières des Déchets d’Equipements Electriques et Electroniques (DEEE) et des Déchets d’éléments d’ameublement (DEA) le montant de l’éco-participation est indiqué sur la fiche produit.
+
+Pour en savoir plus sur les éco-participations, [cliquez ici](https://www.cdiscount.com/edito/ecopart.html)  
+  
+**b) Reprise 1 pour 1**
+
+Conformément aux articles L. 541-10-8 et R. 541-161 et suivants du Code de l'Environnement, vous pouvez bénéficier d’une reprise gratuite de vos anciens produits pour les filières REP suivantes :   
+        - DEEE  
+        - DEA  
+ - Contenus et contenants des produits chimiques  
+        - Cartouches de gaz combustibles à usage unique. 
+
+La demande de reprise de votre ancien produit doit respecter le principe du « 1 pour 1 » : CDISCOUNT reprend votre ancien produit pour tout produit neuf de même type acheté sur le Site.  
+_Exemple_ : une machine à laver le linge reprise suite à l’achat d’une nouvelle machine à laver le linge sur notre Site.  
+  
+Pour connaître les modalités de reprise de votre ancien produit, [cliquez ici](https://www.cdiscount.com/edito/ecopart.html). La reprise pourra vous être refusée pour tout produit ne respectant pas ces modalités.
+
+**10.2 Redevance pour copie privée**
 
 Copie France collecte la rémunération pour copie privée auprès des fabricants et distributeurs de supports d’enregistrement vierges lors de la mise en circulation de ces supports sur le marché français.
 
@@ -869,6 +924,8 @@ Une notice explicative relative à la redevance copie privée établie par le Mi
 Certains produits vendus sur le Site sont soumis à redevance copie privée.
 
 Pour connaître le détail des produits concernés ainsi que le barème des redevances applicables, [cliquez](https://www.copiefrance.fr/images/documents/tarifs-FR-2018---D18vd.pdf) [ici](https://www.copiefrance.fr/images/documents/tarifs-FR-2018---D18vd.pdf). 
+
+ 
 
 _Article 11 : FORCE MAJEURE_
 ----------------------------
@@ -900,12 +957,12 @@ _Article 14 : LITIGE, MEDIATION et DROIT APPLICABLE_
 
 Dans l’hypothèse où une ou plusieurs clauses des présentes CGV deviendraient nulles suite à un changement de législation ou par décision de justice, cela ne saurait en aucun cas affecter la validité des autres clauses, qui elles resteraient applicables.
 
-_CONDITIONS GENERALES D'ABONNEMENT " CDISCOUNT A VOLONTE " (France et Belgique uniquement)_
--------------------------------------------------------------------------------------------
+_CONDITIONS GENERALES D'ABONNEMENT " CDISCOUNT A VOLONTE "_
+-----------------------------------------------------------
 
 **  
   
-CONDITIONS GENERALES D’ABONNEMENT « CDISCOUNT A VOLONTE » (France et Belgique uniquement)**
+CONDITIONS GENERALES D’ABONNEMENT « CDISCOUNT A VOLONTE »**
 
   
   
@@ -913,7 +970,7 @@ CONDITIONS GENERALES D’ABONNEMENT « CDISCOUNT A VOLONTE » (France et Belgi
 
 **ARTICLE 1 - CHAMP D'APPLICATION** 
 
-Les présentes conditions générales d’abonnement (ci-après, les "**CGA**") à « Cdiscount à volonté » (ci-après , le "**Service**") s’appliquent à tout abonnement (ci-après, l’ « **Abonnement** ») au Service par un particulier, résidant en France ou en Belgique, et agissant, à titre personnel, en qualité de consommateur auprès de la société CDISCOUNT (ci-après, l’ « **Abonné** »), soit :
+Les présentes conditions générales d’abonnement (ci-après, les "**CGA**") à « Cdiscount à volonté » (ci-après , le "**Service**") s’appliquent à tout abonnement (ci-après, l’ « **Abonnement** ») au Service par un particulier, et agissant, à titre personnel, en qualité de consommateur auprès de la société CDISCOUNT (ci-après, l’ « **Abonné** »), soit :
 
 *   directement sur son site internet accessible à l'adresse suivante : [www.cdiscount.com](https://www.cdiscount.com/) et par l'intermédiaire des applications Android ou IOS CDISCOUNT pour smartphones ou tablettes,
 
@@ -921,9 +978,12 @@ Les présentes conditions générales d’abonnement (ci-après, les "**CGA**") 
 
 *   par téléphone :
 
-\- depuis la France au 3979 (0.70 cts par minutes + prix de l'appel) ;  
-  
-\-        depuis la Belgique au 0800 58 211 (numéro gratuit) ;
+ \- depuis la France au 3979 (0.70 cts par minutes + prix de l'appel) ;  
+        - depuis la Belgique au 0800 58 211 (numéro gratuit) ;   
+          - depuis l’Italie au 800 694 130 (numéro gratuit) ;  
+        - depuis l’Allemagne au 0800 627 9980 (numéro gratuit) ;  
+        - depuis l’Espagne au 0800 00 01 17 (numéro gratuit);  
+        - depuis le Luxembourg au 0800 40 234 (numéro gratuit);
 
 Cdiscount se réserve le droit de modifier les présentes CGA, à tout moment et sans préavis, y compris les conditions de l'Offre d'essai gratuit telle que définie ci-après. Les CGA applicables à l’Abonnement sont celles en vigueur au jour où l'Abonné passe commande de l'Abonnement au Service (ci-après la "**Date de souscription**"). Elles complètent les CGV de Cdiscount.
 
@@ -953,9 +1013,7 @@ De bénéficier :
    
 L'avantage Presse est garanti jusqu'en août 2022.
 
-De faire bénéficier :
-
-des avantages de son Abonnement à toute personne physique majeure de sa famille dans le cadre du partage d’abonnement dans les conditions définies à l’article 8.1.
+De faire bénéficier : des avantages de son Abonnement à toute personne physique majeure de sa famille dans le cadre du partage d’abonnement dans les conditions définies à l’article 8.1.
 
  La disponibilité et le contenu des avantages décrits ci-dessus peuvent varier en cours d’Abonnement, sans préavis ni indemnité au profit de l’Abonné. L’Abonné sera informé de l’évolution desdits avantages par tout moyen. 
 
@@ -988,7 +1046,7 @@ Modes de livraison express (entre 24heures et 72heures ouvrées):
 *   Mondial Relay
 *   Relais Colis
 
-**Pour une livraison en Belgique** :
+**Pour une livraison en Belgique, au Luxembourg, en Allemagne, en Espagne et en Italie** :
 
    
 Mode de livraison express (entre 24heures et 72heures ouvrées) :
@@ -1067,13 +1125,18 @@ Nous nous réservons le droit de vérifier l'historique de souscription d'un Abo
 
 **4.2 Interruption de la Période d'essai**
 
- 
-
+   
 Si l'Abonné choisit d'interrompre sa Période d'essai au cours de celle-ci, il peut :
 
 \- se rendre dans la rubrique "Cdiscount à volonté" de son Espace Client, accessible via l'URL [www.cdiscount.com](https://www.cdiscount.com/) sur PC et tablette, à l'exception du site mobile, ainsi que sur les applications Android et iOS associées, et cliquer sur le bouton "Se désabonner" ;
 
-\- ou contacter notre Service Client, disponible par téléphone, depuis la France au 09 70 80 90 50 (numéro non surtaxé) et pour la Belgique au 0800 58 211 (numéro gratuit) aux horaires indiqués sur le Site, et ce, jusqu'à la veille de la fin de la Période d'essai.
+\-     ou contacter notre Service Client, disponible par téléphone, aux horaires indiqués sur le Site, et ce, jusqu'à la veille de la fin de la Période d'essai :  
+            - depuis la France au 09 70 80 90 50 (numéro non surtaxé) ;  
+            - depuis la Belgique au 0800 58 211 (numéro gratuit) ;  
+            - depuis l’Italie au 800 694 130 (numéro gratuit) ;  
+            - depuis l’Allemagne au 0800 627 9980 (numéro gratuit) ;  
+            - depuis l’Espagne au 0800 00 01 17 (numéro gratuit) ;  
+            - depuis le Luxembourg au 0800 40 234 (numéro gratuit);
 
 Cdiscount procèdera au remboursement du prix de l'Abonnement au Service dans un délai pouvant aller jusqu'à 72 heures.
 
@@ -1083,13 +1146,13 @@ Cdiscount procèdera au remboursement du prix de l'Abonnement au Service dans un
 
 L'Abonnement au Service est valable douze (12) mois et six (6) jours à compter de la Date de souscription au Service.  
   
-Il sera ensuite renouvelé pour des périodes successives de douze (12) mois, par tacite reconduction chaque année, dans les conditions prévues aux articles L.215-1 et L.243-1 du Code de la consommation reproduits ci-après.
+Il sera ensuite renouvelé pour des périodes successives de douze (12) mois, par tacite reconduction chaque année, dans les conditions prévues aux articles L.215-1 et L.241-3 du Code de la consommation reproduits ci-après.
 
 **5.2 Dans le cas où l'Abonné n'a pas bénéficié de l'Offre d'essai gratuit**
 
 L’Abonnement au Service est valable douze (12) mois à compter de la Date de souscription au Service.  
   
-L’Abonnement au Service sera renouvelé par tacite reconduction chaque année, à la date d’anniversaire de l’Abonnement, dans les conditions prévues aux articles L215-1 et L243-1 du code de la consommation reproduits ci-après.
+L’Abonnement au Service sera renouvelé par tacite reconduction chaque année, à la date d’anniversaire de l’Abonnement, dans les conditions prévues aux articles L215-1 et L241-3 du code de la consommation reproduits ci-après.
 
 La date anniversaire de l’Abonnement au Service correspond à la date de souscription au Service.
 
@@ -1097,7 +1160,13 @@ La date anniversaire de l’Abonnement au Service correspond à la date de sousc
 
 L’Abonné sera informé par email de la date de reconduction de son Abonnement au Service. Cet email lui sera envoyé au plus tard 31 jours avant ladite date de renouvellement.
 
-Si l’Abonné ne souhaite pas renouveler son Abonnement, il devra contacter le service clients de CDISCOUNT par téléphone depuis la France au 09 70 80 90 50 (numéro non surtaxé) ou depuis la Belgique au 0800 58 211 (numéro gratuit), au plus tard la veille de la date d'anniversaire de son Abonnement au Service.
+Si l’Abonné ne souhaite pas renouveler son Abonnement, il devra contacter le service clients de CDISCOUNT par téléphone, au plus tard la veille de la date d'anniversaire de son Abonnement au Service :   
+ - depuis la France au 09 70 80 90 50 (numéro non surtaxé)  
+            - depuis la Belgique au 0800 58 211 (numéro gratuit) ;  
+            - depuis l’Italie au 800 694 130 (numéro gratuit) ;  
+            - depuis l’Allemagne au 0800 627 9980 (numéro gratuit) ;  
+            - depuis l’Espagne au 0800 00 01 17 (numéro gratuit) ;  
+            - depuis le Luxembourg au 0800 40 234 (numéro gratuit); 
 
 Dans le cadre d’une tacite reconduction, le montant de l’Abonnement au Service sera prélevé le jour de la date d’anniversaire de l’Abonnement :
 
@@ -1163,9 +1232,15 @@ Le solde de la Cagnotte de l’Abonné éventuellement disponible à la date de
   
 **7.2 Résiliation par l’Abonné**
 
-Au plus tard 31 jours avant la date d'anniversaire de l’Abonnement au Service, Cdiscount rappellera à l’Abonné, par email, sa possibilité de ne pas renouveler son Abonnement.
-
-Si l’Abonné ne souhaite pas renouveler son Abonnement, il pourra contacter le service clients de CDISCOUNT par téléphone depuis la France au 09 70 80 90 50 (numéro non surtaxé) et pour la Belgique au 0800 58 211 (numéro gratuit), au plus tard la veille de la date d'anniversaire de son Abonnement au Service.
+Au plus tard 31 jours avant la date d'anniversaire de l’Abonnement au Service, Cdiscount rappellera à l’Abonné, par email, sa possibilité de ne pas renouveler son Abonnement.  
+  
+Si l’Abonné ne souhaite pas renouveler son Abonnement, il devra contacter le service clients de CDISCOUNT par téléphone au plus tard la veille de la date d'anniversaire de son Abonnement au Service :   
+            - depuis la France au 09 70 80 90 50 (numéro non surtaxé)  
+            - depuis la Belgique au 0800 58 211 (numéro gratuit) ;  
+            - depuis l’Italie au 800 694 130 (numéro gratuit) ;  
+            - depuis l’Allemagne au 0800 627 9980 (numéro gratuit) ;  
+            - depuis l’Espagne au 0800 00 01 17 (numéro gratuit) ;  
+            - depuis le Luxembourg au 0800 40 234 (numéro gratuit);
 
 La résiliation sera effective au terme de la période d'Abonnement en cours et n'entraîne aucun remboursement du prix du Service, sauf exercice de votre droit de rétractation.
 
@@ -1231,7 +1306,7 @@ L’Abonné ne peut renseigner les coordonnées que **de deux (2) Bénéficiair
 
 **8.3. Conditions communes**   
 
-L’Abonné et le Bénéficiaire doivent impérativement être des personnes physiques majeures résidant en France ou en Belgique.
+L’Abonné et le Bénéficiaire doivent impérativement être des personnes physiques majeures agissant, à titre personnel, en qualité de consommateur auprès de la société CDISCOUNT.
 
 CDISCOUNT se réserve le droit de demander à tout Abonné et/ou Bénéficiaire de justifier des conditions d’éligibilité précisées ci-dessus. Toute personne ne remplissant pas ces conditions ou refusant de les justifier sera exclue du Partage.  
   
@@ -1304,7 +1379,9 @@ Le montant du crédit auquel donne droit une Offre Site est précisé sur la fic
 
    
 
- **9.2.2 Le crédit sera cumulé sur la Cagnotte :** 
+ 
+
+**9.2.2 Le crédit sera cumulé sur la Cagnotte :**
 
  A l’issue d’un délai maximum de trente (30) jours ouvrés à compter de la livraison du Produit éligible au Privilège, pour les Offres Site.
 
