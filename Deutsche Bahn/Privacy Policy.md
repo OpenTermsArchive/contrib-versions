@@ -15,7 +15,7 @@ DB Vertrieb GmbH
 Europa-Allee 78- 84  
 60486 Frankfurt  
 Germany  
-[ecommerce-datenschutz@bahn.de](mailto:ecommerce-datenschutz@bahn.de)
+[p.d-datenschutz@deutschebahn.com](mailto:p.d-datenschutz@deutschebahn.com)
 
 DB Fernverkehr AG  
 Europa-Allee 78- 84  
@@ -29,7 +29,7 @@ Europa-Allee 70-76
 Germany  
 [datenschutz.regio@deutschebahn.com](mailto:datenschutz.regio@deutschebahn.com)
 
-Ms Chris Newiger is the designated privacy officer for all three companies.
+Ms Dr. Marein Müller is the designated privacy officer for all three companies.
 
 Further information about the customer account are available in the [terms and conditions of use for customer accounts](https://www.bahn.com/en/terms-of-use/customer-accounts-terms-of-use).
 
@@ -101,14 +101,14 @@ If you use the contact form / chatbot to ask questions regarding a booking, our 
 **Offers relating to similar products or services**  
 We take steps in order to maintain customer relations with you and to provide you with information and offers which we think will correspond to your travel preferences and interests. We therefore process your data on the basis of Article 6(1)(f) GDPR (plus with the help of service providers) in order to send you information and offers. We use your contact data (name, address and e-mail address which we have received as a result of our business relationship with you) for advertising by post and for similar goods or services by e-mail, in particular for market research, unless you object to such use.
 
-You can object at any time to the future use of your data for such advertising purposes. Simply send your objection by e-mail to ecommerce-datenschutz@bahn.de or by post to one of the above-named DB companies (advertising opt-out).
+You can object at any time to the future use of your data for such advertising purposes. Simply send your objection by e-mail to [p.d-datenschutz@deutschebahn.com](mailto:p.d-datenschutz@deutschebahn.com) or by post to one of the above-named DB companies (advertising opt-out).
 
 **Ordering subscriptions online**  
 When you purchase a season ticket as a subscription, our system uses the contact and payment data in your customer account. Depending on the offer, identification data such as date of birth or a photograph may also be required. Your customer account displays your current subscription.
 
 **Newsletter registration**  
 If you use your customer account to register for a newsletter, our system uses the relevant data in your account.  
-When you register for a newsletter, we also store the IP address assigned by the Internet Service Provider (ISP) to your end-user device used at the time of registration, as well as the date and time of registration. The collection of this data is necessary in order to trace (possible) subsequent misuse of the e-mail address of the person concerned and it therefore serves our legal protection. We want to be able to provide you with information that is relevant to you, so we analyse your interest in the contents of the newsletter based on clicks and the display of content via customised links. You can unsubscribe from the newsletter at any time at ecommerce-datenschutz@bahn.de or by clicking the relevant link at the bottom of the newsletter. 
+When you register for a newsletter, we also store the IP address assigned by the Internet Service Provider (ISP) to your end-user device used at the time of registration, as well as the date and time of registration. The collection of this data is necessary in order to trace (possible) subsequent misuse of the e-mail address of the person concerned and it therefore serves our legal protection. We want to be able to provide you with information that is relevant to you, so we analyse your interest in the contents of the newsletter based on clicks and the display of content via customised links. You can unsubscribe from the newsletter at any time at [p.d-datenschutz@deutschebahn.com](mailto:p.d-datenschutz@deutschebahn.com) or by clicking the relevant link at the bottom of the newsletter. 
 
 **Participating in competitions**  
 When we run competitions, we collect data for managing the process. The precise details, i.e. what data is collected and for what purpose, are available on the web page of the relevant competition.
@@ -156,7 +156,7 @@ If you delete the cookies on your browser, you will also opt out of the option. 
 
 *   You can request information to find out if and what information is stored about you.
 *    You can request the correction, deletion and restriction of the processing (blocking) of your personal data as long as this is legally permissible and possible within the framework of an existing contractual relationship.
-*    You have the right to file complaints with the supervisory authority. The supervisory authority responsible for DB Vertrieb GmbH is Der Hessische Datenschutzbeauftragte, Gustav-Stresemann-Ring 1, 65189 Wiesbaden, Germany; e-mail: poststelle@datenschutz.hessen.de
+*    You have the right to file complaints with the supervisory authority. The supervisory authority responsible for DB Vertrieb GmbH is Der Hessische Datenschutzbeauftragte, Gustav-Stresemann-Ring 1, 65189 Wiesbaden, Germany; e-mail: [poststelle@datenschutz.hessen.de](mailto:poststelle@datenschutz.hessen.de)
 *   You have the right to the transferability of the data that you have submitted to us based on consent or under a contract (data transferability).
 *   If you have given us your consent to data processing, you can withdraw it at any time by the same means by which it was given. Withdrawal of consent does not affect the legitimacy of processing carried out on the basis of consent prior to its withdrawal.
 *   You can object to data processing for reasons arising from your particular circumstances if the data processing is based on our legitimate interests.
@@ -169,7 +169,7 @@ To exercise your rights relating to your customer account, simply contact us at 
 DB Vertrieb GmbHEuropa-Allee 78-84  
 60486 Frankfurt   
 Germany  
-or send an e-mail to [ecommerce-datenschutz@bahn.de](mailto:ecommerce-datenschutz@bahn.de).
+or send an e-mail to [p.d-datenschutz@deutschebahn.com](mailto:p.d-datenschutz@deutschebahn.com).
 
 If you contact one company but another company is responsible for your particular issue, we will forward your communication to the relevant party. As a result, it may be the case that you will not hear from us but from the relevant DB unit that provides that service.
 
@@ -177,4 +177,4 @@ If you contact one company but another company is responsible for your particula
 
 We update our privacy notice to bring it into line with new functionalities or legal requirements. We therefore recommend that you check the notice at regular intervals. Where your consent is required or if elements of the privacy notice contain provisions from the contract with you, any changes will be made only with your consent.
 
-Last updated: October 2021
+Last updated: January 2022
