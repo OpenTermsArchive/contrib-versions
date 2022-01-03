@@ -405,3 +405,12 @@ Additional Guidelines for Publishers
 
 *   News stories in slideshow format should not use headlines to insinuate recent or breaking news if it's not current
 *   If the title mentions a specific celebrity, that celebrity must match the celebrity in the ad image.
+
+Outbrain's Strike Policy
+------------------------
+
+When running campaigns on the Outbrain network, please make sure to adhere to the above guidelines.
+
+If you **do not follow the advertiser guidelines** Outbrain will assign **red flag warnings** (communicated to you via email). Repeat or severe violations may result in your account, content and/or campaigns being **suspended or banned** from the Outbrain network at any time and at Outbrain's sole discretion.
+
+If you encounter any content that violates Outbrain's guidelines, or have any questions, don't hesitate to reach out to our friendly Support team. **We hope to see your content on our platform soon**.
