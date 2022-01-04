@@ -1,4 +1,4 @@
-The new Facebook Platform Terms below and the new [Developer Policies](https://developers.facebook.com/devpolicy) went into effect on August 31, 2020. They replace the [legacy Facebook Platform Policy](https://developers.facebook.com/docs/apps/policies/legacy-facebook-platform-policy) and the [legacy Instagram Platform Policy](https://developers.facebook.com/docs/apps/policies/legacy-instagram-platform-policy), as well as the Supplemental Terms for Extended Platform Products and the Technology Provider Amendment to the preceding Supplemental Terms. [Learn more](https://developers.facebook.com/blog/post/2020/07/01/platform-terms-developer-policies/).
+These new Facebook Platform Terms and the [Developer Policies](https://developers.facebook.com/devpolicy) originally went into effect on August 31, 2020. They replaced the [legacy Facebook Platform Policy](https://developers.facebook.com/docs/apps/policies/legacy-facebook-platform-policy) and the [legacy Instagram Platform Policy](https://developers.facebook.com/docs/apps/policies/legacy-instagram-platform-policy), as well as the Supplemental Terms for Extended Platform Products and the Technology Provider Amendment to the preceding Supplemental Terms. [Learn more](https://developers.facebook.com/blog/post/2020/07/01/platform-terms-developer-policies/).
 
 Facebook Platform Terms
 =======================
@@ -416,32 +416,39 @@ In addition to and without limiting the scope of the “Indemnification” Secti
 10\. International Transfers
 ----------------------------
 
-This section shall apply to the extent that your Processing of Platform Data includes personal data controlled by Facebook Ireland Limited (“Facebook Ireland Data”) and the transfer of such Facebook Ireland Data to a territory outside of the European Economic Area that does not have a positive adequacy decision from the European Commission under Article 25(6) of Directive 95/46/EC (each an “EEA Data Transfer”). In these cases you will comply with the following:
+This section shall apply to the extent that your Processing of Platform Data includes personal data controlled by Facebook Ireland Limited (“Facebook Ireland Data”) and the transfer of such Facebook Ireland Data to a territory outside of the European Economic Area that, at the time of such transfer, does not have a positive adequacy decision from the European Commission under Article 45 of Regulation (EU) 2016/679 (each an “EEA Data Transfer”).
+
+Whenever there is an EEA Data Transfer, your use of Facebook Ireland Data is subject to your compliance with the Clauses in so far as they relate to controller to controller transfers (Module One). In each case, you agree that for the purposes of Section IV, Clauses 17 and 18 in the Clauses, Option 1 and Option (b) shall apply respectively and the Member State shall be Ireland. Nothing in this Section 10 (International transfers) is intended to vary or modify the Clauses. For the purposes of the Appendix to the Clauses, the following will apply:
 
 *     
-    a. if you are relying on the EU-U.S. Privacy Shield (the “Privacy Shield”) and are certified under Privacy Shield to receive categories of data which include the Facebook Ireland Data, you will comply with the [Privacy Shield Principles](https://www.privacyshield.gov/article?id=Requirements-of-Participation). If your Privacy Shield certification does not cover the EEA Data Transfer or you are unable to comply with the Privacy Shield principles (or your Privacy Shield certification in respect of the EEA Data Transfer should end), you will immediately notify us, stop your access to and use of Platform and Processing of Platform Data, and take reasonable and appropriate steps to fix any non-compliance; or
+    a. For the purposes of Annex I(A) to the Clauses, Facebook Ireland Limited is the "data exporter" and you are the "data importer" as defined in the Clauses.
     
+    b. For the purposes of Annex I(B) to the Clauses:
+    
+    *     
+        i. “Categories of data subjects” are the Users who visit, access, use, or otherwise interact with the App and the products and services of Facebook Ireland Limited;
+        
+    *     
+        ii. "Categories of personal data" are Facebook Ireland Data, which includes profile information, photos and videos, location information, communications between Users, information about use of the App and other products and services, payment information, device information, information about visits to third-party websites or Apps that use a "like" or "comment" button or other service integration, information from third-party partners or the Facebook Companies, or as otherwise set forth in the Data Policy;
+        
+    *     
+        iii. "Sensitive data" is personal data about a person's racial or ethnic origin, political opinions, religious or philosophical beliefs, trade-union membership, genetic data, biometric data for the purpose of uniquely identifying a natural person, data concerning health or data concerning a natural person's sex life or sexual orientation, criminal convictions or alleged commission of an offence;
+        
+    *     
+        iv. "Frequency of the transfer" is on a continuous basis to the extent required to fulfil the purpose outlined in Section 10(b)(v) below;
+        
+    *     
+        v. Nature and purpose of the data transfer(s)" is the provision of the App and other products and services by you to Users pursuant to the applicable terms and conditions and Privacy Policy of you and/or your Client; and
+        
+    *     
+        vi. "Period for which personal data will be retained" is as set out in Section 3(d)(i)(2) unless applicable laws require the Facebook Ireland Data be retained for a longer period, in which case you shall only retain such Facebook Ireland Data for the period required by such applicable laws and subject always to Section 10(d).
+        
+    
+
 *     
-    b. if the EEA Data Transfer is not covered by Privacy Shield, then your use of Facebook Ireland Data is subject to the [Clauses](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32004D0915). In these cases, Facebook Ireland Limited is the “data exporter” and you are the “data importer” as defined in the Clauses, and you select option (iii) of Clause II(h) and agree to the data processing principles of Annex A to the Clauses. For the purposes of Annex B to the Clauses, the following will apply:
+    c. For the purposes of Annex I(C) to the Clauses, the competent supervisory authority will be the Data Protection Commission in Ireland; and
     
-    *     
-        i. “Data subjects” are people who visit, access, use, or otherwise interact with the App and the products and services of Facebook Ireland Limited;
-        
-    *     
-        ii. “Purpose of the transfer(s)” is the provision of the App and other products and services by you to Users pursuant to the applicable terms and conditions and privacy policy of you and/or your Client;
-        
-    *     
-        iii. “Categories of data” are Facebook Ireland Data, which includes profile information, photos and videos, location information, communications between Users, information about use of the App and other products and services, payment information, device information, information about visits to third-party websites or Apps that use a “like” or “comment” button or other service integration, information from third-party partners or the [Facebook Companies](https://www.facebook.com/help/111814505650678), or as otherwise set forth in the [Data Policy](https://www.facebook.com/about/privacy);
-        
-    *     
-        iv. “Recipients” are you and users of your App and other products and services;
-        
-    *     
-        v. “Sensitive data” is personal data about a person’s racial or ethnic origin, political opinions, religious or philosophical beliefs, trade-union membership, genetic data, biometric data for the purpose of uniquely identifying a natural person, data concerning health or data concerning a natural person’s sex life or sexual orientation, criminal convictions, or alleged commission of an offense; and
-        
-    *     
-        vi. “Contact points for data protection enquiries” are the representatives of Facebook Ireland Limited and you with responsibility for data privacy.
-        
+    d. For the purposes of Annex II to the Clauses, you will implement and maintain the technical and organisational security measures set out in Section 6 (“Data Security”) and such other measures as we may require from time to time.
     
 
 11\. General
@@ -485,7 +492,7 @@ This section shall apply to the extent that your Processing of Platform Data inc
     b. “Audit” means a review, inspection, or audit of your and your Service Providers’ IT Systems or Records.
     
 *     
-    c. “Clauses” means the standard contractual clauses annexed to European Commission Decision 2004/915/EC.
+    c. “Clauses” means the standard contractual clauses annexed to European Commission Decision (EU) 2021/914.
     
 *     
     d. “Client” means the User of a Tech Provider’s App.
