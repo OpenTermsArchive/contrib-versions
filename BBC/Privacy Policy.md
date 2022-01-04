@@ -406,10 +406,10 @@ Find out more and [contact us about your rights](https://www.bbc.co.uk/usingtheb
 
 For any other questions or comments about this policy speak to our Data Protection Officer.
 
-*   [by email](mailto:dpa.officer@bbc.co.uk)
+*   [by email](mailto:DataProtection.Officer@bbc.co.uk)
 *   by post
 
-BBC DPO, BC2 A4, 201 Wood Lane, London W12 7TP
+BBC Data Protection Office, BBC Broadcast Centre, BC2 C6, 201 Wood Lane, London W12 7TP
 
 We're regulated by the [Information Commissioner's Office](https://ico.org.uk/concerns/). You can also contact them for advice and support.
 
