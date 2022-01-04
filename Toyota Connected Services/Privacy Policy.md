@@ -2,9 +2,9 @@ Your Privacy Rights
 
 ----------------------
 
-**Personal Information Sharing Practices for 2020**  
+**Personal Information Sharing Practices for 2021**  
 
-During 2020, Toyota shared Personal Information about our customers with specific third parties where the information was used for the recipient's own marketing purposes.
+During 2021, Toyota shared Personal Information about our customers with specific third parties where the information was used for the recipient's own marketing purposes.
 
 [**Learn more**](#PIN)
 
@@ -16,7 +16,7 @@ If you have a connected vehicle, your vehicle may be equipped with Connected Ser
 
 **Toyota Privacy Statement – Summary**
 
-This summary of the Toyota Privacy Statement applies to Personal Information (as defined below) collected by or on behalf of Toyota Motor Sales, U.S.A., Inc. ("Toyota," "us," or "our"). Some of our products and services may have additional privacy statements that apply, such as Toyota Connected Services. Where product- or service-specific privacy statements conflict with this Privacy Statement, those privacy statements shall govern. This Privacy Statement was last updated on January 1, 2021.
+This summary of the Toyota Privacy Statement applies to Personal Information (as defined below) collected by or on behalf of Toyota Motor Sales, U.S.A., Inc. ("Toyota," "us," or "our"). Some of our products and services may have additional privacy statements that apply, such as Toyota Connected Services. Where product- or service-specific privacy statements conflict with this Privacy Statement, those privacy statements shall govern. This Privacy Statement was last updated on January 1, 2022.
 
 **Information Collected**
 
@@ -68,7 +68,7 @@ To read our full Privacy Statement [click here.](#privacy)
 
 [\[Versión en Español\]](https://www.toyota.com/espanol/support/privacy-rights)
 
-UPDATED AS OF: January 1, 2021
+UPDATED AS OF: January 1, 2022
 
 Toyota Motor Sales, U.S.A., Inc. is committed to maintaining your confidence and trust as it relates to the privacy of your Personal Information (as defined below). Please read below and learn how we collect, protect, share and use your Personal Information including information we collect as part of our technology Platforms (including, without limitation, our Toyota-owned and branded websites, web pages, interactive features, applications, and mobile applications that link to this Privacy Statement ("Platforms")), offline, and from third parties.
 
@@ -224,10 +224,10 @@ Toyota Motor Sales, U.S.A., Inc.
 P.O. Box 259001  
 Plano, TX 75025-9001
 
-PERSONAL INFORMATION SHARING PRACTICES FOR 2020
+PERSONAL INFORMATION SHARING PRACTICES FOR 2021
 
-(Effective as of January 01, 2021)  
-During 2020, we shared the following types of Personal Information about our customers with SiriusXM Satellite Radio, Toyota Financial Services, Toyota Insurance Management Solutions and our authorized Toyota dealers where the information was used for the recipient's own marketing:
+(Effective as of January 01, 2022)  
+During 2021, we shared the following types of Personal Information about our customers with SiriusXM Satellite Radio, Toyota Financial Services, Toyota Insurance Management Solutions and our authorized Toyota dealers where the information was used for the recipient's own marketing:
 
 **Name  
 Address  
@@ -252,7 +252,7 @@ Toyota Insurance Management Services
 Plano, TX 75024
 
 Please click on the link below to view a list of authorized Toyota dealers.  
-[Toyota dealers](https://www.toyota.com/content/dam/toyota/brochures/pdf/tcom/2021_dealer_list.pdf)
+[Toyota dealers](https://www.toyota.com/content/dam/toyota/brochures/pdf/tcom/2022_dealer_list.pdf)
 
 You may also obtain this information by sending a request to:
 
