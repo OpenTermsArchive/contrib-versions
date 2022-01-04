@@ -2,7 +2,7 @@ Legal Terms
 
 --------------
 
-_Last Updated Date: January 1, 2021_
+_Last Updated Date: January 1, 2022_
 
 These Terms of Use (the "Terms") set forth the legally binding terms governing your access to and use of the Toyota family of Web sites, Web pages, interactive features, applications, widgets, blogs and their respective contents and unless otherwise indicated, any other interactive content that links to the Toyota family of Web sites owned and/or U.S.A., Inc. (hereinafter referred to as "Toyota"), and any materials on the Sites are owned by Toyota or its operated by Toyota (as defined herein) (collectively, the "Sites"). The Sites are operated by Toyota Motor Sales, affiliated companies, or licensed by Toyota from third parties and posted on the Sites.
 
