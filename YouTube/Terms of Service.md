@@ -1,8 +1,6 @@
 Terms of Service
 ================
 
-We’re updating our YouTube Terms of Service on January 5, 2022 to make it easier for you to understand what to expect as you use YouTube. Until then, the Terms below continue to apply. See a [preview of the upcoming Terms](https://www.youtube.com/t/terms?preview=20220105), including a summary of changes.
-
 **What’s in these Terms?**
 ==========================
 
@@ -51,7 +49,10 @@ This section includes some further important details about our contract, includi
 **Terms of Service**
 ====================
 
-Dated: 1 June 2021
+Dated: January 5, 2022
+
+**TERMS OF SERVICE**
+====================
 
 **Welcome to YouTube!**
 =======================
@@ -74,7 +75,7 @@ The entity providing the Service in the United Kingdom is Google LLC, located at
 **Applicable Terms**
 --------------------
 
-Your use of the Service is subject to these terms, the [YouTube Community Guidelines](https://www.youtube.com/t/community_guidelines) and the [Policy, Safety and Copyright Policies](https://support.google.com/youtube/topic/9223153) (together, the "Agreement"). Your Agreement with us will also include the [Advertising on YouTube Policies](https://support.google.com/youtube/topic/30084) if you provide advertising or sponsorships to the Service or incorporate paid promotions in your Content.
+Your use of the Service is subject to these terms, the [YouTube Community Guidelines](https://www.youtube.com/t/community_guidelines) and the [Policy, Safety and Copyright Policies](https://www.youtube.com/t/policies) (together, the "Agreement"). Your Agreement with us will also include the [Advertising on YouTube Policies](https://support.google.com/youtube/topic/30084) if you provide advertising or sponsorships to the Service or incorporate paid promotions in your Content.
 
 Please read this Agreement carefully and make sure you understand it. If you do not understand the Agreement, or do not accept any part of it, then you may not use the Service.
 
@@ -91,7 +92,7 @@ You may use the Service if you are at least 13 years old; however, children of a
 
 If you are under 18, you must have your parent or legal guardian’s permission to use the Service. Please have them read this Agreement with you.
 
-If you are a parent or legal guardian of a user under the age of 18, by allowing your child to use the Service, you are subject to the terms of this Agreement and responsible for your child’s activity on the Service. You can find tools and resources to help you manage your family’s experience on YouTube (including how to enable a child under the age of 13 to use the Service and YouTube Kids) in our [Help Center](https://support.google.com/youtube/answer/2802272) [and through](https://support.google.com/youtube/answer/2802272) Google’s [Family Link](https://families.google.com/familylink/).
+If you are a parent or legal guardian of a user under the age of 18, by allowing your child to use the Service, you are subject to the terms of this Agreement and responsible for your child’s activity on the Service. You can find tools and resources to help you manage your family’s experience on YouTube (including how to enable a child under the age of 13 to use the Service and YouTube Kids) in our [Help Center](https://support.google.com/youtube/answer/2802272) [and through](https://support.google.com/youtube/answer/2802272) Google’s [Family Link](https://families.google.com/familylink/).
 
 **Businesses**
 --------------
@@ -138,17 +139,17 @@ The following restrictions apply to your use of the Service. You are not allowed
 7.  misuse any reporting, flagging, complaint, dispute, or appeals process, including by making groundless, vexatious, or frivolous submissions;
 8.  run contests on or through the Service that do not comply with [YouTube’s contest policies and guidelines](https://support.google.com/youtube/answer/1620498);
 9.  use the Service to view or listen to Content other than for personal, non-commercial use (for example, you may not publicly screen videos or stream music from the Service); or
-10.  use the Service to: (a) sell any advertising, sponsorships, or promotions placed on, around, or within the Service or Content, other than those allowed in the [Advertising on YouTube](https://support.google.com/youtube/topic/9257894) policies (such as compliant product placements); or (b) sell advertising, sponsorships, or promotions on any page of any website or application that only contains Content from the Service or where Content from the Service is the primary basis for such sales (for example, selling ads on a webpage where YouTube videos are the only content of value).
+10.  use the Service to: (a) sell any advertising, sponsorships, or promotions placed on, around, or within the Service or Content, other than those allowed in the [Advertising on YouTube](https://www.youtube.com/t/ads_policies) policies (such as compliant product placements); or (b) sell advertising, sponsorships, or promotions on any page of any website or application that only contains Content from the Service or where Content from the Service is the primary basis for such sales (for example, selling ads on a webpage where YouTube videos are the only content of value).
 
 **Reservation**
 ---------------
 
 Any right not expressly granted to you in this Agreement remains the right of YouTube or the respective rights holders. This means, for example, that using the Service does not give you ownership of any intellectual property rights in the Content you access (including any branding used on or displayed in the Service).
 
-**Changes to the Service**
---------------------------
+**Develop, Improve and Update the Service**
+-------------------------------------------
 
-YouTube is constantly changing and improving the Service. We may also need to alter or discontinue the Service, or any part of it, in order to make performance or security improvements, change functionality and features, make changes to comply with law, or prevent illegal activities on or abuse of our systems. We will always consider and balance the impact of such changes on the use of the Service. Whenever reasonably possible, we will provide notice when we discontinue or make material changes to our Service that will have an adverse impact on the use of our Service. However, there will be times when we need to make such changes without notice, such as where we need to take action to improve the security and operability of our Service, prevent abuse, or meet our legal requirements. 
+YouTube is constantly changing and improving the Service. As part of this continual evolution, we may make modifications or changes (to all or part of the Service) such as adding or removing features and functionalities, offering new digital content or services or discontinuing old ones. We may also need to alter or discontinue the Service, or any part of it, in order to make performance or security improvements, make changes to comply with law, or prevent illegal activities on or abuse of our systems. These changes may affect all users, some users or even an individual user. When the Service requires or includes downloadable software (such as the YouTube Studio application), that software may update automatically on your device once a new version or feature is available, subject to your device settings. If we make material changes that negatively impact your use of theService or if we stop offering any part of the Service, we’ll provide you with reasonable advance notice, except in urgent situations such as preventing abuse, responding to legal requirements, or addressing security and operability issues. We’ll also provide you with an opportunity to export your content from your Google Account using [Google Takeout,](https://takeout.google.com/settings/takeout?pli=1) subject to applicable law and policies. 
 
 **Your Content and Conduct**
 ============================
@@ -190,7 +191,14 @@ You may [remove your Content](https://support.google.com/youtube/answer/55770) 
 **Removal of Content By YouTube**
 ---------------------------------
 
-If we reasonably believe that any Content is in breach of this Agreement or may cause harm to YouTube, our users, or third parties, we may remove or take down some or all of such Content. We will notify you with the reason for our action unless we reasonably believe that to do so: (a) would violate the law or the direction of a legal enforcement authority, or would otherwise risk legal liability for YouTube or our Affiliates; (b) would compromise an investigation or the integrity or operation of the Service; or (c) would cause harm to any user, other third party, YouTube or our Affiliates. You can learn more about reporting and enforcement, including how to appeal on the [Troubleshooting](https://support.google.com/youtube/answer/6395024) page of our Help Center.
+If we reasonably believe that any of your Content (1) is in breach of this Agreement or (2) may cause harm to YouTube, our users, or third parties, we reserve the right to remove or take down some or all of such Content. We will notify you with the reason for our action unless we reasonably believe that to do so: (a) would violate the law or the direction of a legal enforcement authority, or would otherwise risk legal liability for YouTube or our Affiliates; (b) would compromise an investigation or the integrity or operation of the Service; or (c) would cause harm to any user, other third party, YouTube or our Affiliates. You can learn more about reporting and enforcement, including how to appeal on the [Troubleshooting](https://support.google.com/youtube/answer/6395024) page of our Help Center.
+
+**Community Guidelines Strikes**
+================================
+
+YouTube operates a system of “strikes” in respect of Content that violates the [YouTube Community Guidelines](https://www.youtube.com/t/community_guidelines). Each strike comes with varying restrictions and may result in the permanent removal of your channel from YouTube.  A full description of how a strike affects your channel is available on the [Community Guidelines Strikes Basics](https://support.google.com/youtube/answer/2802032) page. If you believe that a strike has been issued in error, you may [appeal here](https://studio.youtube.com/).
+
+If your channel has been restricted due to a strike, you must not use another channel to circumvent these restrictions. Violation of this prohibition is a material breach of this Agreement and Google reserves the right to terminate your Google account or your access to all or part of the Service.
 
 **Copyright Protection**
 ------------------------
@@ -207,25 +215,20 @@ We respond to notices of alleged copyright infringement according to the process
 
 You may stop using the Service at any time. You can also [delete the Service](https://myaccount.google.com/youtubeoptions) from your Google Account, which involves closing your YouTube channel and removing your data, with the option to download a copy of your data first. 
 
-**Terminations and Suspensions by YouTube for Cause**
------------------------------------------------------
+**Terminations and Suspensions by YouTube**
+-------------------------------------------
 
-YouTube may suspend or terminate your access, your Google account, or your Google account’s access to all or part of the Service if: (a) you materially or repeatedly breach this Agreement; (b) we are required to do so to comply with a legal requirement or a court order; or (c) we reasonably believe there has been conduct that creates liability or harm to any user, other third party, YouTube or our Affiliates.  
-
-**Terminations by YouTube for Service Changes**
------------------------------------------------
-
-YouTube may terminate your access, or your Google account’s access to all or part of the Service if YouTube reasonably believes that its provision of the Service to you is no longer commercially viable. 
+YouTube reserves the right to suspend or terminate your Google account or your access to all or part of the Service if: (a) you materially or repeatedly breach this Agreement; (b) we are required to do so to comply with a legal requirement or a court order; or (c) we reasonably believe that there has been conduct that creates liability or harm to any user, other third party, YouTube or our Affiliates.  
 
 **Notice for Termination or Suspension**
 ----------------------------------------
 
-We will notify you with the reason for termination or suspension by YouTube unless we reasonably believe that to do so: (a) would violate the law or the direction of a legal enforcement authority, or would otherwise risk legal liability for YouTube or our Affiliates; (b) would compromise an investigation or the integrity or operation of the Service; or (c) would cause harm to any user, other third party, YouTube or our Affiliates. Where YouTube is terminating your access for Service Changes, where reasonably possible, you will be provided with sufficient time to export your Content from the Service.
+We will notify you with the reason for termination or suspension by YouTube unless we reasonably believe that to do so: (a) would violate the law or the direction of a legal enforcement authority; (b) would compromise an investigation; (c) would compromise the integrity, operation or security of the Service; or (d) would cause harm to any user, other third party, YouTube or our Affiliates.
 
 **Effect of Account Suspension or Termination**
 -----------------------------------------------
 
-If your Google account is terminated or your Google account’s access to the Service is restricted, you may continue using certain aspects of the Service (such as viewing only) without an account, and this Agreement will continue to apply to such use. If you believe your Google account has been terminated in error, you can [appeal using this form](https://support.google.com/accounts/contact/suspended?p=youtube).
+If your Google account is terminated or your access to the Service is restricted, you may continue using certain aspects of the Service (such as viewing only) without an account, and this Agreement will continue to apply to such use. If you believe your that the termination or suspensionhas been made in error, you can [appeal using this form](https://support.google.com/accounts/contact/suspended?p=youtube).
 
 **About Software in our Service**
 =================================
@@ -233,7 +236,7 @@ If your Google account is terminated or your Google account’s access to the Se
 **Downloadable Software**
 -------------------------
 
-When the Service requires or includes downloadable software (such as the YouTube Studio application), you give permission for that software to update automatically on your device once a new version or feature is available, subject to your device settings. Unless that software is governed by additional terms which provide a licence, YouTube gives you a personal, worldwide, royalty-free, non-assignable and non-exclusive licence to use the software provided to you by YouTube as part of the Service. This licence is for the sole purpose of enabling you to use and enjoy the benefit of the Service as provided by YouTube, in the manner permitted by this Agreement. You are not allowed to copy, modify, distribute, sell, or lease any part of the software, or to reverse-engineer or attempt to extract the source code of that software, unless laws prohibit these restrictions or you have YouTube’s written permission.
+When the Service requires or includes downloadable software (such as the YouTube Studio application), unless that software is governed by additional terms which provide a licence, YouTube gives you a personal, worldwide, royalty-free, non-assignable and non-exclusive licence to use the software provided to you by YouTube as part of the Service. This licence is for the sole purpose of enabling you to use and enjoy the benefit of the Service as provided by YouTube, in the manner permitted by this Agreement. You are not allowed to copy, modify, distribute, sell, or lease any part of the software, or to reverse-engineer or attempt to extract the source code of that software, unless laws prohibit these restrictions or you have YouTube’s written permission.
 
 **Open Source**
 ---------------
@@ -277,10 +280,12 @@ The Service may contain links to third-party websites and online services that a
 **About this Agreement**
 ========================
 
-**Modifying this Agreement**
-----------------------------
+**Changing this Agreement**
+---------------------------
 
-We may modify this Agreement, for example, to reflect changes to our Service or for legal, regulatory, or security reasons. YouTube will provide reasonable advance notice of any material modifications to this Agreement and the opportunity to review these changes. However, changes addressing newly available features of the Service or changes made for legal reasons may be effective immediately. Changes will only apply going forward. If you do not agree to the modified terms, you should remove any Content you uploaded and discontinue your use of the Service.
+We may change this Agreement, for example, to reflect changes to our Service or how we do business - for example, when we add new products or features or remove old ones, (2) for legal, regulatory, or security reasons or (3) to prevent abuse or harm.
+
+If we materially change this Agreement, we’ll provide you with reasonable advance notice and the opportunity to review the changes, except (1) when we launch a new product or feature, or (2) in urgent situations, such as preventing ongoing abuse or responding to legal requirements.If you don’t agree to the new terms, you should remove any Content you uploaded and stop using the Service.
 
 **Continuation of this Agreement**
 ----------------------------------
@@ -307,4 +312,4 @@ If you do not comply with this Agreement and we do not take action immediately, 
 
 If you live in the United Kingdom this Agreement, and your relationship with YouTube under this Agreement will be governed by the laws of your country of residence, and legal proceedings may be brought in your local courts.
 
-#### Effective as of 1 June 2021 ([view previous version](https://www.youtube.com/t/terms?archive=20210317))
+#### Effective as of January 5, 2022 ([view previous version](https://www.youtube.com/t/terms?archive=20210601))
