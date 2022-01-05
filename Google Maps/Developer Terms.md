@@ -106,6 +106,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   Prefeitura de Belo Horizonte ([https://creativecommons.org/licenses/by/3.0/br/deed.en](https://creativecommons.org/licenses/by/3.0/br/deed.en))
             
+        *   IPPUC ([https://creativecommons.org/licenses/by/4.0/deed.pt\_BR](https://creativecommons.org/licenses/by/4.0/deed.pt_BR))
+            
     6.  **Canada**
         1.  Google’s maps of Canada include data provided from the following:
             
@@ -639,6 +641,14 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   [Data.gov.sg](https://data.gov.sg/) Contains information from "LTA Road Camera" accessed on 2021 from [https://data.gov.sg/dataset/lta-road-camera](https://data.gov.sg/dataset/lta-road-camera) which is made available under the terms of the Singapore Open Data Licence version 1.0 [https://data.gov.sg/open-data-licence](https://data.gov.sg/open-data-licence)
             
+        *   [Data.gov.sg](https://data.gov.sg/) Contains information from "After Death Facilities" accessed on 2021 from [https://data.gov.sg/dataset/after-death-facilities](https://data.gov.sg/dataset/after-death-facilities) which is made available under the terms of the Singapore Open Data Licence version 1.0 [https://data.gov.sg/open-data-licence](https://data.gov.sg/open-data-licence)
+            
+        *   [Data.gov.sg](https://data.gov.sg/) Contains information from "DUS Schools Sports Facilities" accessed on 2021 from [https://data.gov.sg/dataset/dus-schools-sports-facilities](https://data.gov.sg/dataset/dus-schools-sports-facilities) which is made available under the terms of the Singapore Open Data Licence version 1.0 [https://data.gov.sg/open-data-licence](https://data.gov.sg/open-data-licence)
+            
+        *   [Data.gov.sg](https://data.gov.sg/) Contains information from "Fire Stations" accessed on 2021 from [https://data.gov.sg/dataset/fire-stations](https://data.gov.sg/dataset/fire-stations) which is made available under the terms of the Singapore Open Data Licence version 1.0 [https://data.gov.sg/open-data-licence](https://data.gov.sg/open-data-licence)
+            
+        *   [Data.gov.sg](https://data.gov.sg/) Contains information from "List of verified public access AED Locations" accessed on 2021 from [https://data.gov.sg/dataset/list-of-verified-public-access-aed-locations](https://data.gov.sg/dataset/list-of-verified-public-access-aed-locations) which is made available under the terms of the Singapore Open Data Licence version 1.0 [https://data.gov.sg/open-data-licence](https://data.gov.sg/open-data-licence)
+            
     33.  **Slovakia**
         *   © Slovak Road Administration - [https://www.cdb.sk/sk/Novinky.alej](https://www.cdb.sk/sk/Novinky.alej)
             
@@ -1102,11 +1112,17 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         170.  Utah Geospatial Resource Center ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
             
-    44.  **Uruguay**
+        171.  Douglas County GIS ([https://drive.google.com/file/d/0Bw1ZzvRYzwerakdRa1ludGtmdXc/view?resourcekey=0-Gn7n-wtp1qKJRATtV3OO-A](https://drive.google.com/file/d/0Bw1ZzvRYzwerakdRa1ludGtmdXc/view?resourcekey=0-Gn7n-wtp1qKJRATtV3OO-A))
+            
+    44.  **United Arab Emirates / Abu Dhabi**
+        
+        Abu Dhabi Government ([https://addata.gov.ae/addata\_open\_license](https://addata.gov.ae/addata_open_license))
+        
+    45.  **Uruguay**
         
         © 2000 Aviation Systems
         
-    45.  **Worldwide**
+    46.  **Worldwide**
         *   Unicode Common Locale Data Repository © Unicode, Inc. ([https://www.unicode.org/copyright.html](https://www.unicode.org/copyright.html)). All rights reserved.
             
         *   © 2010 Europa Technologies
@@ -1147,7 +1163,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   Landsat / Copernicus
             
-    46.  **Chile**
+    47.  **Chile**
         
         Biblioteca del Congreso Nacional de Chile ([https://creativecommons.org/licenses/by/3.0/cl/](https://creativecommons.org/licenses/by/3.0/cl/))
         
