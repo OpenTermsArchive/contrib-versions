@@ -1,11 +1,7 @@
 Google Terms of Service
 =======================
 
-Effective 31 March 2020 | [Archived versions](https://policies.google.com/terms/archive?hl=en-GB) | [Download PDF](https://www.gstatic.com/policies/terms/pdf/20200331/ba461e2f/google_terms_of_service_en-GB_gb.pdf)
-
-We’re updating our Terms of Service on 5 January 2022 to make it easier for you to understand what to expect from Google – and what we expect from you – as you use our services. Until then, the terms below continue to apply.
-
-See a [preview of the new terms](https://policies.google.com/terms/update?hl=en-GB)
+Effective 5 January 2022 | [Archived versions](https://policies.google.com/terms/archive?hl=en-GB) | [Download PDF](https://www.gstatic.com/policies/terms/pdf/20220105/it7r24p9/google_terms_of_service_en-GB_gb.pdf)
 
 What’s covered in these terms
 -----------------------------
@@ -22,6 +18,9 @@ These Terms of Service reflect [the way that Google’s business works](https://
 Understanding these terms is important because, to use our services, you must accept these terms.
 
 Besides these terms, we also publish a [Privacy Policy](https://policies.google.com/privacy?hl=en-GB). Although it’s not part of these terms, we encourage you to read it to better understand how you can [update, manage, export and delete your information](https://myaccount.google.com/?hl=en_GB).
+
+Terms
+=====
 
 Service provider
 ----------------
@@ -73,27 +72,29 @@ What you can expect from us
 
 We provide a broad range of services that are subject to these terms, including:
 
-*   apps and sites (such as Search and Maps)
-*   platforms (such as Google Play)
-*   integrated services (such as Maps embedded in other companies' apps or sites)
-*   devices (such as Google Home)
+*   apps and sites (like Search and Maps)
+*   platforms (like Google Shopping)
+*   integrated services (like Maps embedded in other companies’ apps or sites)
+*   devices (like Google Nest)
 
-Our services are designed to work together, making it easier for you to move from one activity to the next. For example, Maps can remind you to leave for an appointment that appears in your Google Calendar.
+Many of these services also include content that you can stream or interact with.
 
-### Improve Google services
+Our services are designed to work together, making it easier for you to move from one activity to the next. For example, if your Calendar event includes an address, you can click on that address and Maps can show you how to get there.
 
-We’re constantly developing new technologies and features to improve our services. For example, we invest in artificial intelligence that uses machine learning to detect and block spam and malware, and to provide you with innovative features like simultaneous translations. As part of this continual improvement, we sometimes add or remove features and functionalities, increase or decrease limits to our services, and start offering new services or stop offering old ones.
+### Develop, improve and update Google services
+
+We’re constantly developing new technologies and features to improve our services. For example, we use artificial intelligence and machine learning to provide you with simultaneous translations and to better detect and block spam and malware. As part of this continual improvement, we sometimes add or remove features and functionalities, increase or decrease limits to our services and start offering new services or stop offering old ones. When a service requires or includes downloadable software, that software sometimes updates automatically on your device once a new version or feature is available. Some services let you adjust your automatic update settings.
 
 We maintain a rigorous product research programme, so before we change or stop offering a service, we carefully consider your interests as a user, your reasonable expectations, and the potential impact on you and others. We only change or stop offering services for valid reasons, such as to improve performance or security, to comply with law, to prevent illegal activities or abuse, to reflect technical developments or because a feature or an entire service is no longer popular enough or economical to offer.
 
-If we make material changes that negatively impact your use of our services or if we stop offering a service, we’ll provide you with reasonable advance notice and an opportunity to export [your content](https://policies.google.com/terms?hl=en-GB#footnote-your-content) from your Google Account using [Google Takeout](https://takeout.google.com/settings/takeout?hl=en_GB), except in urgent situations such as preventing abuse, responding to legal requirements or addressing security and operability issues.
+If we make material changes that negatively impact your use of our services or if we stop offering a service, we’ll provide you with reasonable advance notice, except in urgent situations such as preventing abuse, responding to legal requirements or addressing security and operability issues. We’ll also provide you with an opportunity to export [your content](https://policies.google.com/terms?hl=en-GB#footnote-your-content) from your Google Account using [Google Takeout,](https://takeout.google.com/settings/takeout?hl=en_GB) subject to applicable law and policies.
 
 What we expect from you
 -----------------------
 
 ### Follow these terms and service-specific additional terms
 
-The permission that we give you to use our [services](https://policies.google.com/terms?hl=en-GB#footnote-services) continues as long as you meet your responsibilities in:
+The permission that we give you to use our [services](https://policies.google.com/terms?hl=en-GB#footnote-services) continues as long as you comply with:
 
 *   **these terms**
 *   **[service-specific additional terms](https://policies.google.com/terms/service-specific?hl=en-GB)**, which could, for example, include things like additional age requirements
@@ -104,14 +105,14 @@ Although we give you permission to use our services, we retain any [intellectual
 
 ### Respect others
 
-Many of our services allow you to interact with others. We want to maintain a respectful environment for everyone, which means that you must follow these basic rules of conduct:
+We want to maintain a respectful environment for everyone, which means that you must follow these basic rules of conduct:
 
 *   comply with applicable laws, including export control, sanctions and human trafficking laws
 *   respect the rights of others, including privacy and intellectual property rights
-*   don’t abuse or harm others or yourself (or threaten or encourage such abuse or harm) – for example, by misleading, defrauding, defaming, bullying, harassing or stalking others
-*   don’t abuse, harm, interfere with, or disrupt the services
+*   don’t abuse or harm others or yourself (or threaten or encourage such abuse or harm) – for example, by misleading, defrauding, illegally impersonating, defaming, bullying, harassing or stalking others
+*   don’t abuse, harm, interfere with or disrupt the services – for example, by accessing or using them in fraudulent or deceptive ways, introducing malware or spamming, hacking or bypassing our systems or protective measures. When we index the web to bring you search results, we respect standard usage restrictions that website owners specify in their websites’ code, so we require the same when others use our services
 
-Our [service-specific additional terms and policies](https://policies.google.com/terms/service-specific?hl=en-GB) provide additional details about appropriate conduct that everyone using those services must follow. If you find that others aren’t following these rules, many of our services allow you to [report abuse](https://google.com/contact?hl=en_GB). If we act on a report of abuse, we also provide a fair process as described in the _[Taking action in case of problems](https://policies.google.com/terms?hl=en-GB#toc-problems)_ section.
+Our [service-specific additional terms and policies](https://policies.google.com/terms/service-specific?hl=en-GB) provide additional details about appropriate conduct that everyone using those services must follow. If you find that others aren’t following these rules, many of our services allow you to [report abuse](https://support.google.com/groups/answer/81275?hl=en_GB). If we act on a report of abuse, we also provide the process described in the _[Taking action in case of problems](https://policies.google.com/terms?hl=en-GB#taking-action)_ section.
 
 ### Permission to use your content
 
@@ -140,8 +141,8 @@ This licence covers [your content](https://policies.google.com/terms?hl=en-GB#fo
 This licence is:
 
 *   worldwide, which means that it’s valid anywhere in the world
-*   non-exclusive, which means that you can license your content to others
-*   royalty-free, which means that there are no fees for this licence
+*   non-exclusive, which means that you can licence your content to others
+*   royalty-free, which means that there are no monetary fees for this licence
 
 ### Rights
 
@@ -151,9 +152,8 @@ This licence allows Google to:
 *   publish, publicly perform or publicly display your content, if you’ve made it visible to others
 *   modify your content, such as reformatting or translating it
 *   sublicense these rights to:
-
-*   other users to allow the services to work as designed, such as enabling you to share photos with people that you choose
-*   our contractors who’ve signed agreements with us that are consistent with these terms, only for the limited purposes described in the _[Purpose](https://policies.google.com/terms?hl=en-GB#toc-purpose)_ section below
+    *   other users to allow the services to work as designed, such as enabling you to share photos with people that you choose
+    *   our contractors who’ve signed agreements with us that are consistent with these terms, only for the limited purposes described in the _[Purpose](https://policies.google.com/terms?hl=en-GB#toc-purpose)_ section below
 
 ### Purpose
 
@@ -193,7 +193,7 @@ Many [organisations](https://policies.google.com/terms?hl=en-GB#footnote-organiz
 *   an authorised representative of that organisation must agree to these terms
 *   your organisation’s administrator may assign a Google Account to you. That administrator might require you to follow additional rules and may be able to access or disable your Google Account.
 
-If you’re based in the United Kingdom, these terms don’t affect the rights that you may have as a [business user](https://policies.google.com/terms?hl=en-GB#footnote-business-user) of online intermediation services – including online platforms such as Google Play – under the [EU Platform-to-Business Regulation](https://policies.google.com/terms?hl=en-GB#footnote-eu-platform-to-business).
+If you’re based in the United Kingdom, these terms don’t affect the rights that you may have as a [business user](https://policies.google.com/terms?hl=en-GB#footnote-business-user) of online intermediation services – including online platforms such as Google Play – under the [UK Platform-to-Business Regulation](https://policies.google.com/terms?hl=en-GB#footnote-uk-platform-to-business).
 
 Service-related communications
 ------------------------------
@@ -230,24 +230,22 @@ Software in Google services
 
 Some of our [services](https://policies.google.com/terms?hl=en-GB#footnote-services) include downloadable software. We give you permission to use that software as part of the services.
 
-The licence we give you is:
+The licence that we give you is:
 
-*   worldwide, which means that it's valid anywhere in the world
-*   non-exclusive, which means that we can license the software to others
-*   royalty-free, which means that there are no fees for this licence
-*   personal, which means that it doesn't extend to anyone else
-*   non-assignable, which means that you're not allowed to assign the licence to anyone else
+*   worldwide, which means that it’s valid anywhere in the world
+*   non-exclusive, which means that we can licence the software to others
+*   royalty-free, which means that there are no monetary fees for this licence
+*   personal, which means that it doesn’t extend to anyone else
+*   non-assignable, which means that you’re not allowed to assign the licence to anyone else
 
 Some of our services include software that’s offered under open-source licence terms that we make available to you. Sometimes there are provisions in the open-source licence that explicitly override parts of these terms, so please make sure that you read those licences.
 
-You may not copy, modify, distribute, sell or lease any part of our services or software. Also, you may not reverse engineer or attempt to extract any of our source code unless you have our written permission or applicable law lets you do so.
-
-When a service requires or includes downloadable software, that software sometimes updates automatically on your device once a new version or feature is available. Some services let you adjust your automatic update settings.
+You may not copy, modify, distribute, sell or lease any part of our services or software.
 
 In case of problems or disagreements
 ====================================
 
-By law, you have the right to (1) a certain quality of service, and (2) ways to fix problems if things go wrong. These terms don't limit or take away any of those rights. For example, if you're a [consumer](https://policies.google.com/terms?hl=en-GB#footnote-consumer), then you continue to enjoy all legal rights granted to consumers under applicable law.
+Both the law and these terms give you the right to (1) a certain quality of service and (2) ways to fix problems if things go wrong.
 
 Warranty
 --------
@@ -257,31 +255,30 @@ We provide our [services](https://policies.google.com/terms?hl=en-GB#footnote-se
 Disclaimers
 -----------
 
-The only commitments that we make about our [services](https://policies.google.com/terms?hl=en-GB#footnote-services) (including the content in the services, the specific functions of our services or their reliability, availability or ability to meet your needs) are (1) described in the _[Warranty](https://policies.google.com/terms?hl=en-GB#toc-warranty)_ section, (2) stated in the [service-specific additional terms](https://policies.google.com/terms/service-specific?hl=en-GB) or (3) provided under applicable laws. We don’t make any other commitments about our services.
+The only commitments that we make about our [services](https://policies.google.com/terms?hl=en-GB#footnote-services) (including the content in the services, the specific functions of our services or their reliability, availability or ability to meet your needs) are provided in (1) the _[Warranty](https://policies.google.com/terms?hl=en-GB#toc-warranty)_ section; (2) the [service-specific additional terms](https://policies.google.com/terms/service-specific?hl=en-GB) and (3) laws that can’t be limited by these terms.
 
 Liabilities
 -----------
 
 ### For all users
 
-These terms only limit our responsibilities as allowed by applicable law. Specifically, these terms don’t limit Google’s [liability](https://policies.google.com/terms?hl=en-GB#footnote-liability) for death or personal injury, fraud, fraudulent misrepresentation, gross negligence or willful misconduct.
+Both the law and these terms try to strike a balance as to what you or Google can claim from the other in case of problems. That’s why the law allows us to limit certain [liabilities](https://policies.google.com/terms?hl=en-GB#footnote-liability) – but not others – under these terms.
 
-Other than the rights and responsibilities described in this section (_in case of problems or disagreements_), Google won’t be responsible for any other losses, unless they’re caused by our breach of these terms or [service-specific additional terms](https://policies.google.com/terms/service-specific?hl=en-GB).
+These terms only limit our responsibilities as allowed by applicable law. These terms don’t limit liability for fraud, fraudulent misrepresentation or death or personal injury caused by negligence or willful misconduct.
+
+Other than the liabilities described above, Google is liable only for its breaches of these terms or applicable [service-specific additional terms](https://policies.google.com/terms/service-specific?hl=en-GB), subject to applicable law.
 
 ### For business users and organisations only
 
-If you’re a [business user](https://policies.google.com/terms?hl=en-GB#footnote-business-user) or [organisation](https://policies.google.com/terms?hl=en-GB#footnote-organization), then to the extent allowed by applicable law:
+If you’re a [business user](https://policies.google.com/terms?hl=en-GB#footnote-business-user) or [organisation](https://policies.google.com/terms?hl=en-GB#footnote-organization):
 
-*   You’ll [indemnify](https://policies.google.com/terms?hl=en-GB#footnote-indemnify) Google and its directors, officers, employees and contractors for any third-party legal proceedings (including actions by government authorities) arising out of or relating to your unlawful use of the [services](https://policies.google.com/terms?hl=en-GB#footnote-services) or violation of these terms or [service-specific additional terms](https://policies.google.com/terms/service-specific?hl=en-GB). This indemnity covers any liability or expense arising from claims, losses, damages, judgments, fines, litigation costs and legal fees.
-*   Google won’t be responsible for the following liabilities:
-
-*   loss of profits, revenues, business opportunities, goodwill or anticipated savings
-*   indirect or consequential loss
-*   punitive damages
-
+*   To the extent allowed by applicable law, you’ll [indemnify](https://policies.google.com/terms?hl=en-GB#footnote-indemnify) Google and its directors, officers, employees and contractors for any third-party legal proceedings (including actions by government authorities) arising out of or relating to your unlawful use of the [services](https://policies.google.com/terms?hl=en-GB#footnote-services) or breach of these terms or [service-specific additional terms](https://policies.google.com/terms/service-specific?hl=en-GB). This indemnity covers any liability or expense arising from claims, losses, damages, judgments, fines, litigation costs and legal fees.
+*   If you’re legally exempt from certain responsibilities, including [indemnification](https://policies.google.com/terms?hl=en-GB#footnote-indemnify), then those responsibilities don’t apply to you under these terms. For example, the United Nations enjoys certain immunities from legal obligations and these terms don’t override those immunities.
+*   Google won’t be responsible for the following [liabilities](https://policies.google.com/terms?hl=en-GB#footnote-liability):
+    *   loss of profits, revenues, business opportunities, goodwill or anticipated savings
+    *   indirect or consequential loss
+    *   punitive damages
 *   Google’s total liability arising out of or relating to these terms is limited to the greater of (1) £500 or (2) 125% of the fees that you paid to use the relevant services in the 12 months before the breach
-
-If you’re legally exempt from certain responsibilities, including [indemnification](https://policies.google.com/terms?hl=en-GB#footnote-indemnify), then those responsibilities don’t apply to you under these terms. For example, the United Nations enjoys certain immunities from legal obligations and these terms don’t override those immunities.
 
 Taking action in case of problems
 ---------------------------------
@@ -295,7 +292,7 @@ Before taking action as described below, we’ll provide you with advance notice
 
 ### Removing your content
 
-If we reasonably believe that any of [your content](https://policies.google.com/terms?hl=en-GB#footnote-your-content) (1) breaches these terms, [service-specific additional terms or policies](https://policies.google.com/terms/service-specific?hl=en-GB), (2) violates applicable law, or (3) could harm our users, third parties or Google, then we reserve the right to take down some or all of that content in accordance with applicable law. Examples include child pornography, content that facilitates human trafficking or harassment, and content that infringes someone else’s [intellectual property rights](https://policies.google.com/terms?hl=en-GB#footnote-intellectual-property-rights).
+If we reasonably believe that any of [your content](https://policies.google.com/terms?hl=en-GB#footnote-your-content) (1) breaches these terms, [service-specific additional terms or policies](https://policies.google.com/terms/service-specific?hl=en-GB), (2) violates applicable law, or (3) could harm our users, third parties or Google, then we reserve the right to take down some or all of that content in accordance with applicable law. Examples include child pornography, content that facilitates human trafficking or harassment, terrorist content and content that infringes someone else’s [intellectual property rights](https://policies.google.com/terms?hl=en-GB#footnote-intellectual-property-rights).
 
 ### Suspending or terminating your access to Google services
 
@@ -305,7 +302,7 @@ Google reserves the right to suspend or terminate your access to the services or
 *   we’re required to do so to comply with a legal requirement or a court order
 *   we reasonably believe that your conduct causes harm or [liability](https://policies.google.com/terms?hl=en-GB#footnote-liability) to a user, third party or Google – for example, by hacking, phishing, harassing, spamming, misleading others or scraping content that doesn’t belong to you
 
-If you believe that your Google Account has been suspended or terminated in error, [you can appeal](https://support.google.com/accounts/answer/40695?hl=en_GB).
+For more information about why we disable accounts and what happens when we do, see this [Help Centre page](https://support.google.com/accounts/answer/40695?hl=en_GB). If you believe that your Google Account has been suspended or terminated in error, [you can appeal](https://support.google.com/accounts/answer/40695?hl=en_GB).
 
 Of course, you’re always free to stop using our services at any time. If you do stop using a service, we’d [appreciate knowing why](https://www.google.com/tools/feedback?hl=en_GB) so that we can continue improving our services.
 
