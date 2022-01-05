@@ -562,4 +562,4 @@ Whenever there is an EEA Data Transfer, your use of Facebook Ireland Data is sub
     t. “Your Content” has the meaning given in Section 2.b (“Your License to Us”).
     
 
-_Last updated June 26, 2020_
+_Last updated January 4, 2022_
