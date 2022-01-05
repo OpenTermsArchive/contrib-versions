@@ -522,7 +522,7 @@ Appendix 3: Additional Terms for Non-European Data Protection Legislation
 
 The following Additional Terms for Non-European Data Protection Legislation supplement these Data Processing Terms:
 
-*   [CCPA Service Provider Addendum](https://privacy.google.com/businesses/processorterms/ccpa/) at [privacy.google.com/businesses/processorterms/ccpa](https://privacy.google.com/businesses/processorterms/ccpa/) (dated 1 January 2020)
+*   CCPA Service Provider Addendum at [privacy.google.com/businesses/processorterms/ccpa/](https://privacy.google.com/businesses/processorterms/ccpa/) (dated 1 January 2020)
     
 *   LGPD Processor Addendum at [privacy.google.com/businesses/processorterms/lgpd/](https://privacy.google.com/businesses/processorterms/lgpd/) (dated 16 August 2020)
     
