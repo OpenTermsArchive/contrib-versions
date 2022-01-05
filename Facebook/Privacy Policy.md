@@ -93,7 +93,7 @@ We use the information that we have to send you marketing communications, commun
 
 Researching and innovating for social good.
 
-We use the information that we have (including from research partners we collaborate with) to conduct and support [research](https://research.fb.com/) and innovation on topics of general social welfare, technological advancement, public interest, health and well-being. For example, [we analyse information we have about migration patterns during crises](https://research.fb.com/facebook-disaster-maps-methodology/) to aid relief efforts. [Learn more](https://research.fb.com/) about our research programmes.
+We use the information that we have (including from research partners we collaborate with) to conduct and support [research](https://research.fb.com/) and innovation on topics of general social welfare, technological advancement, public interest, health and well-being. For example, [we analyse information we have about migration patterns during crises](https://research.facebook.com/blog/2017/6/facebook-disaster-maps-methodology/) to aid relief efforts. [Learn more](https://research.fb.com/) about our research programmes.
 
 ### How is this information shared?
 
