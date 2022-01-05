@@ -31,7 +31,7 @@ We use cookies to help us keep your account, data and the Meta Products safe and
 
 > _For example:_ Cookies can help us identify and impose additional security measures when someone may be attempting to access a Facebook account without authorisation, for instance, by rapidly guessing different passwords. We also use cookies to store information that allows us to recover your account in the event that you forget your password, or to require additional authentication if you tell us that your account has been hacked. This includes, for example, our "sb" and "dbln" cookies, which enable us to identify your browser securely.
 
-We also use cookies to combat activity that violates our policies or otherwise degrades our ability to provide the Facebook Products.
+We also use cookies to combat activity that violates our policies or otherwise degrades our ability to provide the Meta Products.
 
 > _For example:_ Cookies help us fight spam and phishing attacks by enabling us to identify computers that are used to create large numbers of fake Facebook accounts. We also use cookies to detect computers infected with malware and to take steps to prevent them from causing further harm. Our "csrf" cookie, for example, helps us prevent cross-site request forgery attacks. Cookies also help us prevent underage people from registering for Facebook accounts.
 
