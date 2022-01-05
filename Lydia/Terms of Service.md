@@ -1,4 +1,4 @@
-Terms and conditions
+Terms and Conditions for Consumers
 
 This document constitutes the General Terms and Conditions of Use of the Lydia Application for individuals (hereinafter referred to as the "**Terms and Conditions for Consumers**" or the "**T&Cs**"), applicable to all of our customers, consumers in the meaning of the French Consumer Code (hereinafter referred to as the "**Consumer(s)**") and for the provision of our products and services related to Lydia electronic money and payment accounts (hereinafter referred to as the “**Lydia Service**” or the "**Service**"), with the exception of the Lydia Pro application products and services intended for Professionals and reserved for this use. 
 
@@ -405,11 +405,11 @@ For Consumers who have obtained the "Verified User" status (see The cost for Lyd
 
 **Consumer discounts and rewards from a Professional**
 
-In partnership with Lydia, some Professionals offer discounts and rewards to Lydia Consumers, who can obtain a pro-rated refund on their Lydia Consumer Account after a purchase is made using the application. ​​To benefit from this service, the Consumer is invited to consult and accept [Terms and Conditions of the Lydia Discount Program](https://lydia-app.com/en/info/conditions-generales-du-programme-de-remises-lydia.html).
+In partnership with Lydia, some Professionals offer discounts and rewards to Lydia Consumers, who can obtain a pro-rated refund on their Lydia Consumer Account after a purchase is made using the application. ​​To benefit from this service, the Consumer is invited to consult and accept [Terms and Conditions of the Lydia Discount Program](https://lydia-app.com/en/info/conditions-generales-du-programme-de-remises-lydia.html).
 
 **Change of payment method**
 
-Consumers can change the source of each payment after it was made from their Lydia Consumer Account. The original payment method used will be re-credited and the new payment method debited for the same amount.For each payment or money withdrawal, the payment method can only be changed once. The use of the "Change payment method" featre is subject to limits set out in the [Pricing & Limits Appendix](https://lydia-app.com/en/about/price.html?tab=limit). 
+Consumers can change the source of each payment after it was made from their Lydia Consumer Account. The original payment method used will be re-credited and the new payment method debited for the same amount.For each payment or money withdrawal, the payment method can only be changed once. The use of the "Change payment method" featre is subject to limits set out in the [Pricing & Limits Appendix](https://lydia-app.com/en/about/price.html?tab=limit). 
 
 **Set up recurring payments**
 
@@ -490,7 +490,7 @@ Once the Money Pot has been closed, the Organiser can:
 
 If necessary, the Consumer can then make payment transactions with the funds transferred to their Lydia Account (see How Lydia works > Step 3: Payment transaction).
 
-If the amount of the funds exceeds the limits indicated in the [Pricing & Limits Appendix](https://lydia-app.com/en/about/price.html?tab=limit), the Organiser must obtain a Verified Account in order to be able to withdraw the funds (See Article 8: How do I get Verified User status?). 
+If the amount of the funds exceeds the limits indicated in the [Pricing & Limits Appendix](https://lydia-app.com/en/about/price.html?tab=limit), the Organiser must obtain a Verified Account in order to be able to withdraw the funds (See Article 8: How do I get Verified User status?). 
 
 How to end a Money Pot?
 
@@ -644,7 +644,7 @@ The Consumer declares and guarantees that the documents provided to Lydia and it
 
 Lydia reminds the Consumer that the use of false documents is punishable under articles 441-1 and subsequent of the Penal Code. Consumers using false documents will be penalised by the closure of their Lydia Consumer Account and will be subject of a declaration and/or a complaint against them filed with the relevant authorities.
 
-In addition, any Consumer providing false information will be liable for the payment of a penalty (see [Pricing & Limits Appendix](https://lydia-app.com/en/about/price.html?tab=limit)).
+In addition, any Consumer providing false information will be liable for the payment of a penalty (see [Pricing & Limits Appendix](https://lydia-app.com/en/about/price.html?tab=limit)).
 
 **Strictly Personal Consumer Account**
 
@@ -850,6 +850,6 @@ In accordance with article [L.121-20-12 of the Consumer Code](https://www.legifr
 
 I, the undersigned (SURNAME / First names), \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ wish to withdraw my subscription to the Lydia Service, in accordance with the contract entered into on (subscription date dd/mm/yyyy) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ with Lydia and its Partners.
 
-Enacted on:
+Done on:
 
 Signature:
