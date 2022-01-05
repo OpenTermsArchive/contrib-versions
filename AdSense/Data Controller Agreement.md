@@ -63,9 +63,9 @@ These Controller Terms reflect the parties’ agreement on the processing of cer
 
 “**Restricted Transfer(s)**” means transfer(s) of Controller Personal Data that are (a) subject to the European Data Protection Legislation; and (b) not Permitted Transfers.
 
-“**SCCs (EU Controller-to-Controller)**” means the terms at [business.safety.google/adscontrollerterms/sccs/eu-c2c](https://privacy.google.com/adscontrollerterms/sccs/eu-c2c/).
+“**SCCs (EU Controller-to-Controller)**” means the terms at [business.safety.google/adscontrollerterms/sccs/eu-c2c](https://privacy.google.com/businesses/controllerterms/sccs/eu-c2c/).
 
-“**SCCs (UK Controller-to-Controller)**” means the terms at [business.safety.google/adscontrollerterms/sccs/uk-c2c](https://privacy.google.com/adscontrollerterms/sccs/uk-c2c/).
+“**SCCs (UK Controller-to-Controller)**” means the terms at [business.safety.google/adscontrollerterms/sccs/uk-c2c](https://privacy.google.com/businesses/controllerterms/sccs/uk-c2c/).
 
 “**Swiss FDPA**” means the Federal Data Protection Act of 19 June 1992 (Switzerland).
 
@@ -240,7 +240,7 @@ Appendix 1: Additional Terms for Non-European Data Protection Legislation
 
 The following Additional Terms for Non-European Data Protection Legislation supplement these Controller Terms:
 
-*   [CCPA Service Provider Addendum](https://privacy.google.com/businesses/controllerterms/ccpa/) at [privacy.google.com/businesses/controllerterms/ccpa](https://privacy.google.com/businesses/controllerterms/ccpa/) (dated 1 January 2020)
+*   CCPA Service Provider Addendum at [privacy.google.com/businesses/controllerterms/ccpa/](https://privacy.google.com/businesses/controllerterms/ccpa/) (dated 1 January 2020)
     
 *   LGPD Controller Addendum at [privacy.google.com/businesses/controllerterms/lgpd/](https://privacy.google.com/businesses/controllerterms/lgpd/) (dated 16 August 2020)
     
