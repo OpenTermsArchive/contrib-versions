@@ -30,7 +30,7 @@ Learn more about this and other useful information by clicking the links below:
 *   [What does this Privacy Policy apply to?](#what-applies)
 *   [Do you have any questions or concerns?](#contact-information)
 
-Last modified July 31, 2021.
+Last modified October 29, 2021.
 
 Read our Privacy Policy
 -----------------------
@@ -573,7 +573,7 @@ Proctorio may disclose test-taker Information to fulfill the purpose for which y
 What about student education records and FERPA?
 -----------------------------------------------
 
-Proctorio makes every effort to adhere to the [Family Educational Rights and Privacy Act (FERPA)](https://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html) as applicable when it is providing Services to educational Institutions in the United States that are subject to FERPA.
+Proctorio adheres to the [Family Educational Rights and Privacy Act (FERPA)](https://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html) as applicable when it is providing Services to educational Institutions in the United States that are subject to FERPA.
 
 Proctorio works with Institution(s) to ensure compliance with FERPA and applicable privacy laws. One of the most important ways in which we strive to adhere to FERPA and restrict disclosure is to encrypt test-taker audio, video, and screen recordings and images. As described in this Privacy Policy, [Proctorio uses Zero-Knowledge Encryption](#section-zeroknowledgeencryption) to do this when an Institution has an agreement to utilize Proctorio's Services.
 
@@ -583,11 +583,11 @@ FERPA is a federal law that affords students (or parents/guardians for students 
 
 In the United States, Proctorio has agreements with educational Institutions that are subject to FERPA and Proctorio acts as a third-party service provider of such educational Institutions and must make every effort to comply with FERPA generally as a “School Official.” This means Proctorio is providing Proctorio's Services on behalf of the educational Institution and only as authorized by them for legitimate educational purposes.
 
-#### Why is FERPA important?
+#### Why is FERPA important?
 
 FERPA protects students from having their information disclosed to third parties without the eligible student (18+) or parent’s/guardian’s consent unless there is an applicable exception under FERPA, such as when a third-party service provider is authorized by an educational Institution by a written agreement to provide services as a “School Official.”
 
-Proctorio makes every effort to comply with FERPA by only using student Personal Information as a School Official as authorized by an educational Institution in Proctorio's written agreements.
+Proctorio complies with FERPA by only using student Personal Information as a School Official as authorized by an educational Institution in Proctorio's written agreements.
 
 Proctorio [certified as FERPA compliant by the iKeep Safe Coalition](https://ikeepsafe.org/products/) which signifies Proctorio's compliance with relevant laws and regulations. Proctorio is also a [signatory of the Student Privacy](https://studentprivacypledge.org/signatories/) [Pledge](https://studentprivacypledge.org/signatories/), where Proctorio pledges responsible stewardship and appropriate use of student Personal Information according to the commitments in the Pledge and in an effort to adhere to all laws applicable to Proctorio as a school service provider.
 
@@ -719,7 +719,7 @@ When you contact Proctorio regarding any of your rights under the CCPA, Proctori
 
 **We do not discriminate against California residents who exercise their CCPA privacy rights.**
 
-[AB 1584](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202120220AB1584) [](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202120220AB1584) is a California law that defines student and educational agencies rights regarding student records. Proctorio makes every effort to comply with AB 1584 as described in this Privacy Policy and as applicable in Proctorio's agreements with California Institution(s).
+[AB 1584](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202120220AB1584) [](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202120220AB1584) is a California law that defines student and educational agencies rights regarding student records. Proctorio complies with AB 1584 as described in this Privacy Policy and as applicable in Proctorio's agreements with California Institution(s).
 
 Legal basis for processing your Information
 -------------------------------------------
@@ -744,7 +744,7 @@ The SaaS Agreement and the Terms of Service fully detail both Proctorio’s and 
 EU-US and Swiss-US Privacy Shield frameworks 
 ---------------------------------------------
 
-Proctorio makes every effort to comply with the EU [General Data Protection Regulation ("GDPR")](https://gdpr-info.eu/).
+Proctorio complies with the EU [General Data Protection Regulation ("GDPR")](https://gdpr-info.eu/).
 
 **Please Note****: Privacy Shield has been invalidated by the Court of Justice of the European Union****.** **Proctorio is** **using Standard Contractual Clauses (“SCCs”) in addition to other mechanisms and implementing supplemental measures as applicable to better ensure that EU individuals’** **Personal Data** **is subject to adequate protections.**
 
