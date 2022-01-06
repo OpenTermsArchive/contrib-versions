@@ -484,3 +484,5 @@ These additional terms for the use of the employer review platform supplement th
 ### 2\. Validity of the provisions of the General Terms and Conditions for using the XING service 
 
 In any other respect, the GTC for use of the XING service shall apply.
+
+T
