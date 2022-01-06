@@ -1,3 +1,9 @@
+Legal terms
+
+•
+
+Guest
+
 Privacy Policy
 
 
