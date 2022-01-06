@@ -201,7 +201,7 @@ Provide a phone number that connects to your individual business location, or pr
 
 Opening hours
 
-Provide your regular customer-facing hours of operation. If applicable, you may use your current seasonal hours as your regular hours. You may also specify [special hours for particular days, like holidays or special events](https://support.google.com/business/answer/business/answer/6303076).
+Provide your regular customer-facing hours of operation. If applicable, you may use your current seasonal hours as your regular hours. You may also specify [special hours for particular days, like holidays or special events](https://support.google.com/business/answer/6303076).
 
 Certain types of businesses shouldn’t provide hours, including those with varied hours (like schedules for different types of activities, including showtimes, worship services or classes) and those that operate only by appointment. Examples of business that _shouldn’t_ provide hours include, but are not limited to:
 
