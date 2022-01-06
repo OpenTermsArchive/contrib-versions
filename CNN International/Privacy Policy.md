@@ -340,7 +340,7 @@ For many Digital Services in the EEA, WarnerMedia participates in the IAB Eur
 
   
 
-**Marketing communications.** We provide you with an opportunity to express your preferences with respect to receiving certain marketing communications from us. If you would like to update these preferences, you can (i) log in to an account you may have created with us to adjust your settings (where the feature is available) or (ii) otherwise submit a request by navigating to our [Individual Rights Request Portal](https://www.warnermediaprivacy.com/policycenter/b2c/controllerslist/#otnotice-section-96d53f40-acdb-4dc0-afff-7f7bb800d9ba). You can also follow the ’unsubscribe’ instructions provided in any marketing email you receive.
+**Marketing communications.** We provide you with an opportunity to express your preferences with respect to receiving certain marketing communications from us. If you would like to update these preferences, you can (i) log in to an account you may have created with us to adjust your settings (where the feature is available) or (ii) otherwise submit a request by navigating to our [Individual Rights Request Portal](https://www.warnermediaprivacy.com/policycenter/Individualrights/). You can also follow the ’unsubscribe’ instructions provided in any marketing email you receive.
 
   
 
@@ -381,7 +381,7 @@ Please see our [Affiliates Table](https://www.warnermediaprivacy.com/policycente
 
   
 
-However, whenever we transfer your Information outside of a country or region, such as the European Economic Area, we will make sure that we take steps necessary to comply with applicable legal requirements. Therefore, where required, we will ensure that appropriate safeguards are in place by using appropriate contractual mechanisms, such as the EU Standard Contractual Clauses, or by relying upon the service providers participating in an approved international data transfer mechanism, including the adoption of Binding Corporate Rules. For further information about the documents we use to protect your Information when it is transferred outside of your country or region, please submit a request through our [Individual Rights Request Portal.](https://www.warnermediaprivacy.com/policycenter/b2c/controllerslist/#otnotice-section-96d53f40-acdb-4dc0-afff-7f7bb800d9ba)
+However, whenever we transfer your Information outside of a country or region, such as the European Economic Area, we will make sure that we take steps necessary to comply with applicable legal requirements. Therefore, where required, we will ensure that appropriate safeguards are in place by using appropriate contractual mechanisms, such as the EU Standard Contractual Clauses, or by relying upon the service providers participating in an approved international data transfer mechanism, including the adoption of Binding Corporate Rules. For further information about the documents we use to protect your Information when it is transferred outside of your country or region, please submit a request through our [Individual Rights Request Portal.](https://www.warnermediaprivacy.com/policycenter/Individualrights/)
 
 NOTIFICATION REGARDING UPDATES
 ------------------------------
