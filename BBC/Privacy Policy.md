@@ -411,6 +411,11 @@ For any other questions or comments about this policy speak to our Data Protecti
 
 BBC Data Protection Office, BBC Broadcast Centre, BC2 C6, 201 Wood Lane, London W12 7TP
 
+If you’re outside the UK please contact the BBC Studios Data Protection Officer:
+
+*   [by email](mailto:Dataprotection@bbc.com)
+*   by post at BBC Studios DPO, Regulatory Affairs, 1 Television Centre, 101 Wood Lane, London W12 7FA
+
 We're regulated by the [Information Commissioner's Office](https://ico.org.uk/concerns/). You can also contact them for advice and support.
 
 © BBC 2019
