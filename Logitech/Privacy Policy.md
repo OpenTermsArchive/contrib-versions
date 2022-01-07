@@ -1,4 +1,4 @@
-Logitech, Inc. and its affiliates (collectively “Logitech”, “We” and “Us”) respect your privacy. This Privacy Statement explains how Logitech collects and uses personal data from visitors to its web and mobile sites that link directly to this Privacy Statement (collectively “Sites”).
+This privacy notice explains how Logitech collects and uses personal data from visitors to its web and mobile sites that link directly to this notice (collectively “Sites”). Your personal data is controlled by Logitech Europe S.A. (collectively “Logitech”, ''We” and “Us”).
 
 Actively Submitted Data
 -----------------------
@@ -161,9 +161,9 @@ To invoke any of these rights, please fill out the form [here](https://support.l
 
 ##### International transfers
 
-We will only transfer your personal data from the European Economic Area (EEA) to countries outside the EEA, on the basis of appropriate safeguards. When Logitech transfers data internationally we rely on i) Adequacy Decisions as adopted by European Commission on the basis of Article 45 of Regulation (EU) 2016/679 (GDPR), or ii)Standard Contractual Clauses issued by the European Commission (2010/87/EU, 2001/497/EC or 2004/915/EC). These agreements are available upon request to [privacy@logitech.com](mailto:privacy@logitech.com).
+We will only transfer your personal data from the European Economic Area (EEA) to countries outside the EEA, on the basis of appropriate safeguards. When Logitech transfers data internationally we rely on i) Adequacy Decisions as adopted by the European Commission on the basis of Article 45 of Regulation (EU) 2016/679 (GDPR), or ii) Standard Contractual Clauses as issued by the European Commission. These agreements are available upon request to [privacy@logitech.com](mailto:privacy@logitech.com).
 
 Effective date
 --------------
 
-This Privacy Statement is effective March 8, 2021.
+This Privacy Statement is effective September 27, 2021.
