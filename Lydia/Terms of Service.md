@@ -1,33 +1,32 @@
-Terms and Conditions for Consumers
+General Terms and Conditions of use
 
-This document constitutes the General Terms and Conditions of Use of the Lydia Application for individuals (hereinafter referred to as the "**Terms and Conditions for Consumers**" or the "**T&Cs**"), applicable to all of our customers, consumers in the meaning of the French Consumer Code (hereinafter referred to as the "**Consumer(s)**") and for the provision of our products and services related to Lydia electronic money and payment accounts (hereinafter referred to as the “**Lydia Service**” or the "**Service**"), with the exception of the Lydia Pro application products and services intended for Professionals and reserved for this use. 
+This document constitutes the General Terms and Conditions of Use of the Lydia Application (hereinafter referred to as the "**T&Cs**"), applicable to all of our customers, consumers in the meaning of the French Consumer Code (hereinafter referred to as the "**Consumer(s)**") and for the provision of our products and services related to Lydia electronic money and payment accounts (hereinafter referred to as the “**Lydia Service**” or the "**Service**"), with the exception of the Lydia Pro application products and services intended for Professionals and reserved for this use. 
 
-The present Terms and Conditions for Consumers are applicable as from 28 October 2021. Consumers already registered to the Service on that date are subject to the present T&Cs as of January 1, 2022. The previous version is available at the following address: [https://lydia-app.com/en/info/terms-of-service-29042021.html](https://lydia-app.com/en/info/terms-of-service-29042021.html).
+The present T&Cs are applicable as from 28 October 2021. Consumers already registered to the Service on that date are subject to the present T&Cs as of January 1, 2022. The previous version is available at the following address: [https://lydia-app.com/en/info/terms-of-service-29042021.html](https://lydia-app.com/en/info/terms-of-service-29042021.html).
 
 They are completed by the following documents that the Consumer declares to have read and accepted when subscribing to the Service:
 
-*   The Tariff Conditions of the Service contained in the [Pricing & Limits](https://lydia-app.com/en/about/price?tab=price#lydia-app) Appendix;
+*   The pricing conditions of the service, contained in the [Pricing & Limits](https://lydia-app.com/en/about/price?tab=price#lydia-app) appendix;
 *   The [Lydia Personal Data Protection Policy](https://support.lydia-app.com/l/en/article/6ogzqxbjos-lydia-personal-data-protection-policy#:~:text=Lydia%20is%20committed%20to%20protecting,of%20its%20Clients%27%20personal%20data.&text=Replying%20to%20its%20Clients%27%20queries,%2C%20clear%2C%20and%20honest%20information.).
 
-These three documents are available for review at any time on the Lydia Website, in the Lydia Manual and on the Lydia App for Consumers (available on the Google Play, App Store and Huawei AppGallery).
+These three documents are available for review at any time on the Lydia Website and on the Lydia App for Consumers (available on the Google Play, App Store and Huawei AppGallery).
 
-All of the above documents form the framework contract for payment services pursuant to Article 314-12 of the French Monetary and Financial Code.
+The T&Cs and the [Pricing & Limits](https://lydia-app.com/en/about/price?tab=price#lydia-app) appendix form the framework contract for payment services pursuant to Article 314-12 of the French Monetary and Financial Code.
 
 Other contractual documents also frame the additional and optional services available on the Lydia Application and are presented for signature at the time the user accesses or subscribes to the specific service. You can consult below the non-exhaustive list of these services:
 
-*   [Common Accounts Terms and Conditions of Use;](https://lydia-app.com/en/info/terms-shared-account-1.html#:~:text=Pour%20pouvoir%20b%C3%A9n%C3%A9ficier%20d%27un,principal%2C%20depuis%20l%27Application.)
-*   [Terms and Conditions of Sale for Lydia paid subscriptions;](https://lydia-app.com/en/info/terms-lydia-premium-1.html)
-*   [General Terms and Conditions of Use of the Visa Card;](https://lydia-app.com/en/info/terms-of-service-carte-visa-lydia.html)
-*   [General Terms and Conditions of Use of the Lydia IBAN service;](https://lydia-app.com/fr/info/terms-Iban-Lydia-1.html)
-*   [General Terms and Conditions of Use of the account aggregation and transfer initiation services;](https://lydia-app.com/fr/info/terms-budgea-lydia-1.html)
-*   [Budgea Bank (Budget Insight);](https://lydia-app.com/fr/info/terms-budgea-lydia-1.html)
-*   [General Terms and Conditions of Use of the account aggregation and transfer initiation services - Tink;](https://static1.squarespace.com/static/5a2fec520abd04aa5aa49cea/t/5ff84a402dbf216159f731fd/1610107457251/200612_ENG_TCs_TinkLink.pdf)
-*   [General Terms and Conditions for the Lydia Petit Prêt Express - Banque Floa;](https://lydia-app.com/en/info/terms-of-service-lydia-instant-loans)
-*   [General Terms and Conditions of Use for the Lydia Petit Prêt Express - Younited Crédit;](https://lydia-app.com/fr/info/terms-of-service-petit-pret-express-younited-credit.html)
-*   [Special Terms and Conditions of Use for the Donation Service;](https://lydia-app.com/fr/info/terms-of-service-donations-1.html)
-*   [Special Conditions of Sale for the 3x payment.](https://lydia-app.com/fr/info/conditions-particulieres-de-vente-paiement-3x)
+*   [General terms and Conditions of Use for Lydia shared accounts ;](https://lydia-app.com/en/info/terms-shared-account-1.html#:~:text=Pour%20pouvoir%20b%C3%A9n%C3%A9ficier%20d%27un,principal%2C%20depuis%20l%27Application.)
+*   [General terms and Conditions of Use for Lydia paid subscriptions;](https://lydia-app.com/en/info/terms-lydia-premium-1.html)
+*   [General Terms and Conditions of Use for Lydia Card - Visa;](https://lydia-app.com/en/info/terms-of-service-carte-visa-lydia.html)
+*   [General Terms and Conditions of Use for Lydia IBAN service;](https://lydia-app.com/fr/info/terms-Iban-Lydia-1.html)
+*   [General Terms and Conditions of Use for the account aggregation and transfer initiation services](https://lydia-app.com/fr/info/terms-budgea-lydia-1.html) - [Budget Insight;](https://lydia-app.com/fr/info/terms-budgea-lydia-1.html)
+*   [General Terms and Conditions of Use for the account aggregation and transfer initiation services - Tink;](https://static1.squarespace.com/static/5a2fec520abd04aa5aa49cea/t/5ff84a402dbf216159f731fd/1610107457251/200612_ENG_TCs_TinkLink.pdf)
+*   [General Terms and Conditions of Use for the Petit Prêt Express - Banque Floa;](https://lydia-app.com/en/info/terms-of-service-lydia-instant-loans)
+*   [General Terms and Conditions of Use for the Petit Prêt Express - Younited Crédit;](https://lydia-app.com/fr/info/terms-of-service-petit-pret-express-younited-credit.html)
+*   [Special Terms and Conditions of Use for Lydia Donation service;](https://lydia-app.com/fr/info/terms-of-service-donations-1.html)
+*   [Special Terms and Conditions of Use for Lydia 3X Payment service.](https://lydia-app.com/fr/info/conditions-particulieres-de-vente-paiement-3x)
 
-The General and Specific Conditions of the additional services may be modified in accordance with the applicable regulatory requirements independently of this Framework Agreement for payment services forming the Lydia Solution for Consumers, subject to compliance with the associated legal notices.
+The General Terms and Conditions of Use for the additional services may be amended in accordance with the applicable regulatory requirements independently of this framework contract for payment services.
 
 1\. What is Lydia? 
 -------------------
@@ -38,7 +37,7 @@ Lydia is registered with the Autorité de contrôle prudentiel et de résolution
 
 Lydia is a mobile application that allows its Consumers to benefit from payment services.
 
-Within the framework of its activities, Lydia is mandated, as a Payment Services Provider Agent ("PSP agent") as defined in articles L.523-1 and following of the monetary and financial code, by four Partners:
+Within the framework of its activities, Lydia is mandated, as a Payment Services Provider Agent ("PSP agent"), as defined in Articles L.523-1 and following of the monetary and financial code, by four Partners:
 
 1.  For payment accounts management, execution of payment operations and payment cards issuance by the SFPMEI, electronic money institution, approved by the ACPR under the REGAFI identifier n°91091 and the CIB bank code n°17448 whose registered office is located at 15 rue Laborde, 75008 Paris, registered in Paris under the RCS n°890 111 890 (hereinafter referred to as "**the PSP**");
 2.  For the provision of payment initiation and account information services: Budget Insight, a payment institution approved by the ACPR (REGAFI identifier n°73921, CIB Bank Code n°16948), whose registered office is located at 86 rue de Paris, 91400 Orsay, registered with the Paris RCS under number 749 867 2006;
@@ -53,18 +52,18 @@ Lydia Solutions is also registered with the Organisme pour le Registre Unique de
 *   Insurance agent (MA) for the company CNP Caution (SIREN n°383024098);
 *   Agent of intermediary in banking operations and payment services (MIOBSP) for the company CASHBEE (registration n°838801058, SIREN N°19002094) for the provision of the My Money Bank remunerated savings account.
 
-The present legal notice may be modified and/or adapted at any time, without prior notice, by Lydia according to the evolution of its legal status. Lydia invites its Consumers to consult them regularly.
+These legal notices may be modified and/or adapted at any time, without prior notice, by Lydia according to the evolution of its legal status. Lydia invites its Consumers to consult them regularly.
 
 2\. What is the purpose of the Lydia T&Cs?
 ------------------------------------------
 
-These T&Cs, and the [Pricing & Limits](https://lydia-app.com/en/about/price?tab=price#lydia-app) Appendix inform the Consumer on the conditions applicable to:
+The T&Cs and the [Pricing & Limits](https://lydia-app.com/en/about/price?tab=price#lydia-app) appendix inform the Consumer on the conditions applicable to:
 
 *   Managing the Consumer's account (hereinafter referred to as the "**Consumer Account**") associated with its associated sub-account(s) (hereinafter referred to as the "**Payment Account(s)**");
 *   The execution of payment orders between Payment Accounts and third party accounts;
-*   All the services and products offered by Lydia (hereinafter referred to as the "**Service**").
+*   All the services and products offered by Lydia.
 
-By accepting these terms, the Consumer undertakes to use the Lydia Service in accordance with its purposes and under the conditions described in these Terms of Service for Consumers. The Consumers agrees not to mislead Lydia by knowingly concealing his / her true Internet Protocol (IP) address, or by intentionally changing the associated settings, in order to deliberately bypass the sections of these T&Cs, to mislead Lydia as to his or her true location, or to intentionally bypass Lydia's anti-fraud safeguards. 
+By accepting these terms, the Consumer undertakes to use the Lydia Service in accordance with its purposes and under the conditions described in these T&CS. The Consumer agrees not to mislead Lydia by knowingly concealing his / her true Internet Protocol (IP) address, or by intentionally changing the associated settings, in order to deliberately bypass the sections of these T&Cs, to mislead Lydia as to his or her true location, or to intentionally bypass Lydia's anti-fraud safeguards. 
 
 3\. When may the Lydia T&Cs be modified?
 ----------------------------------------
@@ -84,7 +83,7 @@ On the other hand, any legislative or regulatory measure, such as any interpreta
 4\. When do the Lydia T&Cs cease to apply?
 ------------------------------------------
 
-### At the initiative of the Consumer
+**At the initiative of the Consumer**
 
 **Withdrawal**
 
@@ -104,7 +103,9 @@ The Consumer Account operates under the signature of the account holder or of an
 
 If in the three years following the death of the Consumer the beneficiaries have not made themselves known or have not asserted their rights, the balance of the Consumer Account of the deceased Consumer is paid to the Caisse des Dépôts et Consignations (Deposits and Consignments Fund).
 
-### **At the initiative of Lydia**
+  
+
+**At the initiative of Lydia**
 
 Lydia may terminate the Consumer's access to the Service without charge by simple email notification after the expiration of two months calendar notice period. In accordance with the law, Lydia is not required to give reasons for the decision to terminate. During the notice period, the Consumer must make the necessary arrangements for the settlement of outstanding transactions.
 
@@ -119,7 +120,7 @@ This list is non-exhaustive and may change depending on the circumstances of the
 
 In addition, in case of detection of an anomaly, inconsistency or report likely to be related to fraud, Lydia has the possibility to put a person on a list of persons at risk of fraud. The Consumer, who may be on this list, may be contacted by Lydia depending on the type of suspected fraud to provide additional information. At the end of the investigations, the Consumer will be informed individually in writing of the measures taken by Lydia and will be given the opportunity to comment, without prejudice to the applicable legal provisions.
 
-### **Effect of termination**
+**Effect of termination**
 
 At the end of the termination and after settlement of the operations in progress, Lydia will close the Consumer Account and transfer the balance of the Payment Accounts, minus any costs relating to the Lydia Service, to the Consumer's Bank Account using the details provided to the Customer Care Service or stored in the application. The closure results in the deactivation of the Lydia Service. The closure results in the deactivation of the Lydia Service.
 
@@ -127,8 +128,7 @@ If the Consumer does not reclaim its funds, his / her Consumer Account will 
 
 The closing of a Consumer Account is irrevocable and prevents the Consumer from opening another Lydia Consumer Account for a period of one year or definitively in the event of violation of these T&Cs, attempted or committed fraud or legally reprehensible act).
 
-**How Lydia works**
-===================
+  
 
 5. The rules of use
 -------------------
@@ -147,7 +147,7 @@ The Client Account is strictly personal. It is forbidden for the holder of the I
 
 The Consumer declares that at the time of registration to the Service:
 
-*   He/she is over 18 years of age, or over 14 years of age and using the Service in agreement and under the supervision of their legal representative;
+*   He/she is over 18 (eighteen) years of age, or over 14 (fourteen) years of age and using the Service in agreement and under the supervision of their legal representative;
 *   He/she isn’t  under any legal or judicial prohibition, nor of any incapacity;
 *   All the information provided during registration is honest, accurate and up to date, and that they will inform Lydia of any change to this information;
 *   He/she acts on his/her  own account and in his/her own interest;
@@ -194,8 +194,8 @@ Also, Lydia Payment Accounts are not intended to serve as a channel for cash flo
 
 If the Service is used to purchase products or services resulting from such activities, the Consumer Account will be closed. In addition, the Consumer will be liable to a penalty (see Pricing & Limits Appendix) for non-compliance with these T&Cs, taken directly from his/her Consumer Account before its closure.
 
-6\. How to install Lydia
-------------------------
+6\. How to install Lydia?
+-------------------------
 
 The list of countries in which the Lydia Application can be downloaded  from applications stores is available in the Lydia user Manual and is reproduced on the the following page: https://support.lydia-app.com/l/fr/article/lcu8v7dbca-pays-compatibles-avec-lydia. 
 
@@ -331,7 +331,7 @@ The Consumer accepts that the data relating to their card is kept by Lydia's tec
 
 **Step 3:** **Payment transaction**
 
-The Consumer can initiate a payment:
+The Consumer can initiate a payment:  
 
 *   Either as part of a face-to-face payment with the Beneficiary, via a QR code or via Bluetooth (if device is compatible);
 *   Or as part of a remote payment:
@@ -372,8 +372,8 @@ Consumers can, if they wish, transfer all or part of their Lydia balance to the 
 
 If the Consumer Account is blocked, they should refer to the Article 14 "How Lydia ensures the security of its Service".
 
-10\. Other services and features offered by the Lydia app
----------------------------------------------------------
+10\. Other services and features offered by the Lydi**a app**
+-------------------------------------------------------------
 
 **Gift Card**
 
@@ -494,9 +494,7 @@ If the amount of the funds exceeds the limits indicated in the [Pricing & Limit
 
 How to end a Money Pot?
 
-##### \> At the initiative of the Organiser
-
-###### a) Termination
+##### a) Termination
 
 The Organiser may exercise their right of withdrawal within 14 calendar days of their acceptance of these conditions. This right of withdrawal can no longer be exercised once a contribution has been made to the Money Pot. Participants do not have a right of withdrawal.
 
@@ -515,11 +513,10 @@ Consumers can monitor transactions relating to their Lydia Consumer Account (deb
 
 Consumers are encouraged to check the information contained therein in order to assert their rights as soon as possible if necessary (see What to do in the event of unauthorised or incorrectly executed transactions).
 
-**Security**
-============
+  
 
-12\. What to do in case of loss or theft of the device linked to the Consumer Account
--------------------------------------------------------------------------------------
+12\. What to do in case of loss or theft of the device linked to the Consumer Account?
+--------------------------------------------------------------------------------------
 
 As soon as they become aware of the loss, theft or any fraudulent use of the telephone or tablet on which the Lydia Application is installed, the Consumer should either:
 
@@ -530,8 +527,8 @@ Lydia cannot be held responsible for the consequences of a blocking request whic
 
 The unblocking of the Lydia Consumer Account will take place after analysis by our services and in consultation with the Consumer.
 
-13\. What to do in the event of unauthorised or incorrectly executed transactions
----------------------------------------------------------------------------------
+13\. What to do in the event of unauthorised or incorrectly executed transactions?
+----------------------------------------------------------------------------------
 
 The Consumer must, without delay, notify Lydia of any unauthorised or incorrectly executed operations that they dispute by filling in the appropriate form, and at the latest within 13 (thirteen) months following the date of debit from their Consumer Account.
 
@@ -539,8 +536,8 @@ The dispute of said operations must be made by email or by registered letter wit
 
 Once the legitimacy of the dispute has been established, Lydia will reimburse the Consumer, at the latest, on the working day following receipt of the dispute, except in the event of suspected fraud.
 
-14\. How Lydia ensures the security of its Service
---------------------------------------------------
+14\. How Lydia ensures the security of its Service?
+---------------------------------------------------
 
 **Protection of Consumer fund****s**
 
@@ -630,11 +627,10 @@ Lydia also reserves the right to block any specific payment instrument in the Co
 
 To request the unlocking of their Lydia Consumer Account, the Consumer can contact Lydia Support at the following email address: [support@lydia-app.com](mailto:support@lydia-app.com).
 
-**Rights & duties of the Lydia Consumer**
-=========================================
+  
 
-15\. The responsibility of the Consumer
----------------------------------------
+15\. Consumer responsibility 
+-----------------------------
 
 **Veracity of the personal information**
 
@@ -706,8 +702,8 @@ When the Consumer provides their banking data as part of a series of payment tra
 
 In all cases, any Consumer facing bankruptcy cannot revoke their consent to a payment order.
 
-16\. The responsibility of Lydia to the Consumer 
--------------------------------------------------
+16\. Lydia responsibility 
+--------------------------
 
 **Correct execution of payment orders**
 
@@ -755,8 +751,8 @@ The Consumer must have ensured, under his responsibility, the compatibility of h
 
 Although Lydia makes its best efforts to optimize compatibility, it cannot guarantee that the Service will work with all existing terminals. Consequently, Lydia is not involved in any dispute that may arise between the Individual Client and the supplier of the equipment or in the use of fixed or wireless telecommunications networks and their access providers.
 
-17\. Lydia's use of Consumer personal information 
---------------------------------------------------
+17\. Use of Consumer personal information 
+------------------------------------------
 
 Lydia attaches great importance to the protection and respect of privacy of its Consumers. For this reason, a [Personal Data Protection Policy](https://support.lydia-app.com/l/en/article/6ogzqxbjos-lydia-personal-data-protection-policy) was created to inform the Consumers about:
 
