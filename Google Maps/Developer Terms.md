@@ -257,6 +257,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         71.  Statistics Canada. Contains information licensed under the Open Government Licence – Canada ([https://open.canada.ca/en/open-government-licence-canada](https://open.canada.ca/en/open-government-licence-canada))
             
+        72.  Gouvernement du Québec ([https://creativecommons.org/licenses/by/4.0/deed.fr](https://creativecommons.org/licenses/by/4.0/deed.fr))
+            
     7.  **Denmark**
         *   © COWI A/S
             
@@ -707,6 +709,14 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   Powered by EMT de Madrid [https://www.emtmadrid.es/](https://www.emtmadrid.es/Home)
             
+        *   EXCMO. Ayuntamiento de Cáceres. SIG de Cáceres ([https://creativecommons.org/licenses/by/3.0/es/](https://creativecommons.org/licenses/by/3.0/es/))
+            
+        *   Ayuntamiento de Rivas-Vaciamadrid ([https://opendefinition.org/licenses/cc-by/](https://opendefinition.org/licenses/cc-by/))
+            
+        *   Comunidad Autónoma de País Vasco ([https://creativecommons.org/licenses/by/4.0/deed.es\_ES](https://creativecommons.org/licenses/by/4.0/deed.es_ES))
+            
+        *   Ayuntamiento de Sant Feliu de Llobregat ([https://creativecommons.org/licenses/by/4.0/deed.ca](https://creativecommons.org/licenses/by/4.0/deed.ca))
+            
     37.  **Sweden**
         *   © 2009 Cartesia GIS AB
             
@@ -1114,6 +1124,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         171.  Douglas County GIS ([https://drive.google.com/file/d/0Bw1ZzvRYzwerakdRa1ludGtmdXc/view?resourcekey=0-Gn7n-wtp1qKJRATtV3OO-A](https://drive.google.com/file/d/0Bw1ZzvRYzwerakdRa1ludGtmdXc/view?resourcekey=0-Gn7n-wtp1qKJRATtV3OO-A))
             
+        172.  The World Bank ([https://datacatalog.worldbank.org/public-licenses#cc-by](https://datacatalog.worldbank.org/public-licenses#cc-by))
+            
     44.  **United Arab Emirates / Abu Dhabi**
         
         Abu Dhabi Government ([https://addata.gov.ae/addata\_open\_license](https://addata.gov.ae/addata_open_license))
@@ -1166,6 +1178,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
     47.  **Chile**
         
         Biblioteca del Congreso Nacional de Chile ([https://creativecommons.org/licenses/by/3.0/cl/](https://creativecommons.org/licenses/by/3.0/cl/))
+        
+    48.  **Zambia**
+        
+        OCHA Regional Office for Southern and Eastern Africa (ROSEA) ([https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses))
         
 4.  **Business Listings Data.**
     
