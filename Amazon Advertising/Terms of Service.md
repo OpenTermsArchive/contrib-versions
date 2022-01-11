@@ -17,7 +17,7 @@ Conditions of Use
 
 **Please read these conditions carefully before using Amazon Services. By using Amazon Services, you signify your agreement to be bound by these conditions.** We offer a wide range of Amazon Services, and sometimes additional terms may apply. When you use an Amazon Service (for example Your Profile, Gift Cards or Amazon applications for mobile), you will also be subject to the terms, guidelines and conditions applicable to that Amazon Service ("Service Terms"). If these Conditions of Use are inconsistent with the Service Terms, those Service Terms will control.
 
-*   [Notice and Procedure for Making Claims of Right Infringements](https://www.amazon.co.uk/gp/help/reports/infringement)
+*   [Notice and Procedure for Making Claims of Right Infringements](https://www.amazon.co.uk/report/infringement)
 *   [Notice and Procedure for Notifying Amazon of Defamatory Content](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=201015680)
 
 1\. ELECTRONIC COMMUNICATIONS
@@ -83,7 +83,7 @@ You represent and warrant that you own or otherwise control all of the rights to
 9\. INTELLECTUAL PROPERTY CLAIMS
 --------------------------------
 
-Amazon respects the intellectual property of others. If you believe that your intellectual property rights have been used in a way that gives rise to concerns of infringement, please follow our [Notice and Procedure for Making Claims of Right Infringements](https://www.amazon.co.uk/gp/help/reports/infringement).
+Amazon respects the intellectual property of others. If you believe that your intellectual property rights have been used in a way that gives rise to concerns of infringement, please follow our [Notice and Procedure for Making Claims of Right Infringements](https://www.amazon.co.uk/report/infringement).
 
 10\. AMAZON SOFTWARE TERMS
 --------------------------
