@@ -1,6 +1,6 @@
 Data Policy
 
-Effective Date: November 2nd, 2021
+Effective Date: January 10th, 2022
 
 CrowdTangle, Inc. (“CrowdTangle,” “we” or “us”) is a social analytic platform that helps publishers and media companies surface stories that matter, measure their social performance and identify influencers on social media platforms (also known as our “Platform Partners”). This Data Policy describes how CrowdTangle processes personal information of users of the CrowdTangle platform (“CrowdTangle Users”), in particular information obtained from CrowdTangle Users on the CrowdTangle website and any other website, online service, or mobile application that we operate and that links to this Data Policy (the “Services”). This Data Policy also describes our practices for handling personal information of individuals who visit, use, or interact with our Platform Partners’ websites and apps who integrate our services. We refer to CrowdTangle Users and Platform Partner users separately throughout this Data Policy, but collectively we refer to each as “you” or “your”.
 
@@ -10,7 +10,7 @@ Much of the personal information that CrowdTangle processes are publicly availab
 
   
 
-We are part of the [Facebook Companies](https://www.facebook.com/help/111814505650678?ref=dp). Our Platform Partners include companies such as Twitter, Facebook, Instagram and Reddit. For a full list of current Platform Partners, please see [link](https://www.crowdtangle.com/platform_partners).
+We are part of the [Meta Companies](https://www.facebook.com/help/111814505650678?ref=dp). Our Platform Partners include companies such as Twitter, Facebook, Instagram and Reddit. For a full list of current Platform Partners, please see [link](https://www.crowdtangle.com/platform_partners).
 
 ### Information We Collect Directly From CrowdTangle Users
 
@@ -32,7 +32,7 @@ When CrowdTangle Users interact directly with us through our Services, we may co
 *   **_Information we obtain from other sources._** We receive information about CrowdTangle Users from other sources, which we combine with other information we receive about them. This information may include:
 
 *   _Platform Partners:_ When CrowdTangle Users connect their CrowdTangle account with their account with Platform Partners, CrowdTangle Users permit us to connect to the Platform Partner account and receive information from Platform Partners about those CrowdTangle Users. In this case, we receive CrowdTangle Users’ Facebook ID, Twitter ID, or other Platform Partner identification when they connect their CrowdTangle account, and depending on the information they have publicly shared, we also receive their email, username, profile picture and first and last name. We also collect Metrics such as aggregated statistics and insights about how people use and interact with content on Platform Partners’ websites to help people and businesses understand how people are engaging with content.
-*   _Facebook Companies:_ We receive information from other [Facebook Companies](https://www.facebook.com/help/111814505650678?ref=dp) that help us provide CrowdTangle Users with an innovative, relevant, consistent, and safe experience across all [Facebook Company Products](https://www.facebook.com/help/195227921252400) used. We also process information about CrowdTangle Users across the Facebook Companies for these purposes, as permitted by applicable law, and in accordance with their terms and policies.
+*   _Meta Companies:_ We receive information from other [Meta Companies](https://www.facebook.com/help/111814505650678?ref=dp) that help us provide CrowdTangle Users with an innovative, relevant, consistent, and safe experience across all [Meta Company Products](https://www.facebook.com/help/195227921252400) used. We also process information about CrowdTangle Users across the Meta Companies for these purposes, as permitted by applicable law, and in accordance with their terms and policies.
 
 ### Information We Collect From Platform Partner Users
 
@@ -48,14 +48,14 @@ We use the CrowdTangle Users and Platform Partner Users’ information we collec
 
 *   _Provide CrowdTangle Users with Services:_ CrowdTangle processes information to operate, maintain, provide, and improve our Services. For example, we use information collected to provide CrowdTangle Users with analytics and reports related to our Services.
 *   _Analyze use of our Services:_ We collect usage information to better understand how our Services are used, to develop new products or features, and to improve the Services.
-*   _Safety & Integrity_ We use information we have to understand how people use and interact with Facebook Company Products, promote safety and security on our Services and across Facebook Companies, and to investigate the use of our Services, including any suspicious activity or possible violations of our terms and policies.
+*   _Safety & Integrity_ We use information we have to understand how people use and interact with Meta Company Products, promote safety and security on our Services and across Meta Companies, and to investigate the use of our Services, including any suspicious activity or possible violations of our terms and policies.
 
 ### How We Share Information
 
 We share CrowdTangle Users’ information with certain third-parties without further notice, as set forth below:
 
 *   _Shared Dashboards:_ Where a CrowdTangle User enables a shared dashboard, such person enables others with access to the shared dashboard to see information such as CrowdTangle Users’ name, email address, or other information associated with their account.
-*   _Facebook Companies:_ Depending on which services are used, we share information with Facebook Companies. For a list of our related companies, please see [https://www.facebook.com/help/111814505650678](https://www.facebook.com/help/111814505650678).
+*   _Meta Companies:_ Depending on which services are used, we share information with Meta Companies. For a list of our related companies, please see [https://www.facebook.com/help/111814505650678](https://www.facebook.com/help/111814505650678).
 *   _Authorized third-party vendors and service providers:_ We share information with third-party vendors and service-providers that help us with specialized services, including email deployment, business analytics, marketing, and data processing.
 *   _Legal purposes:_ We may disclose information to respond to subpoenas, court orders, legal process, law enforcement requests, legal claims or government inquiries, detect fraud, and to protect and defend the rights, interests, safety, and security of CrowdTangle, our affiliates, users, or the public.
 *   _Business transfers:_ We may share information in connection with a substantial corporate transaction, such as the sale of a website, a merger, consolidation, asset sale, or in the unlikely event of bankruptcy.
@@ -129,7 +129,7 @@ We generally retain information until it is no longer necessary to serve the pur
 
 _Data Transfers_
 
-CrowdTangle is a corporation based in the United States and our customers are based throughout the world. Due to our location and the fact that we share information globally, both internally within the Facebook Companies and externally with our partners (including Platform Partners), and with those you connect and share information with around the world, operationally, we are not able to provide the Services without making these data transfers. Where we transfer personal information from the European Economic Area or Switzerland ("EEA") to a country outside the EEA without an adequacy determination by the EU Commission (a “Restricted Country”, such as the United States), we do so in accordance with the standard contractual clauses approved by the European Commission.
+CrowdTangle is a corporation based in the United States and our customers are based throughout the world. Due to our location and the fact that we share information globally, both internally within the Meta Companies and externally with our partners (including Platform Partners), and with those you connect and share information with around the world, operationally, we are not able to provide the Services without making these data transfers. Where we transfer personal information from the European Economic Area or Switzerland ("EEA") to a country outside the EEA without an adequacy determination by the EU Commission (a “Restricted Country”, such as the United States), we do so in accordance with the standard contractual clauses approved by the European Commission.
 
 Where we transfer personal information from the United Kingdom to a Restricted Country, we do so in accordance with the standard contractual clauses applicable in the United Kingdom.
 
