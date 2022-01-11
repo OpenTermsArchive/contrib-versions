@@ -14,48 +14,52 @@ If you have opted out, a new page will open and you should see a message indicat
   
 **REVCONTENT PRIVACY POLICY**
 
-Last Updated & Effective Date: June 26, 2020
+Last Updated & Effective Date: January 10, 2022  
+  
+This Privacy Policy explains how information about you is collected, used and disclosed by Revcontent, LLC (“Revcontent”). Revcontent operates a network platform through which web properties can display certain third party content such as articles, videos, blog posts, and advertisements on their sites (the “Services”).  This Privacy Policy describes how Revcontent collects, uses, and discloses information when you visit this website (“the Site”) and websites and mobile applications that integrate the Services.
 
-This Privacy Policy explains how information about you is collected, used and disclosed by Revcontent, LLC (“Revcontent”). Revcontent operates a network platform through which web properties can display certain third party content such as articles, videos, blog posts, and advertisements on their sites (the “Services”). This Privacy Policy describes how Revcontent collects, uses, and discloses information when you visit this website (“the Site”) and websites and mobile applications that integrate the Services.
+We may change this Privacy Policy from time to time.  If we make changes, we will notify you by revising the date at the top of the policy.  We encourage you to check back regularly to stay informed about our information practices and the choices available to you.
 
-We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of the policy. We encourage you to check back regularly to stay informed about our information practices and the choices available to you.
+If you are a resident of the European Economic Area you have certain additional rights and protections, more information about which can be found here [here](https://help.revcontent.com/en/knowledge/revcontent-privacy-policy-residents-of-european-economic-area)
 
-If you are a resident of the European Economic Area you have certain additional rights and protections, more information about which can be found [here](https://help.revcontent.com/en/knowledge/revcontent-privacy-policy-residents-of-european-economic-area)
+If you are a resident of the State of California, additional provisions which address the foundational principles of the California Consumer Privacy Act of 2018 can be found here [here](https://help.revcontent.com/en/knowledge/revcontent-privacy-policy-residents-of-california)
 
-If you are a resident of the State of California, additional provisions which address the foundational principles of the California Consumer Privacy Act of 2018 can be found [here](https://help.revcontent.com/en/knowledge/revcontent-privacy-policy-residents-of-california)
-
-COLLECTION OF INFORMATION
-
-Information We Collect Automatically Through the Services
-
-In order to help provide recommendations and promoted content that is relevant to your interests, we automatically collect certain information when you access websites and mobile applications that incorporate the Services. This information reflects information about the websites you visit, the mobile applications you use, and how you interact with our Services. The following describe the categories of personal information we collect about Consumers, the categories of sources from which the personal information is collected, the business or commercial purpose for collecting or selling personal information, the categories of third parties with whom we share such personal information, information about the specific pieces of personal information we collect about Consumers, and any of which we have collected in the preceding twelve (12) months.
-
-Browser and Device Information: We collect information about your browser and device, including your browser type, device type, IP address, user agent string, operating system, mobile carrier, and identifiers assigned to your browser or device.
-
-Usage Data: We collect information about the websites and mobile applications you visit that integrate our Services and about the websites that you visit immediately prior to visiting a website that integrates our Services, including the date and time your browser or device accesses such websites and the specific pages accessed.
-
-Click Data: We collect information about the content and ads that you click on within the Services.
-
-_Information You Provide_
-
-In certain instances, you may be able to customize your experience by creating a user account or by logging in through one or more social media services. If you log in or otherwise link an existing social media account, we will have access to certain information from that service, such as your name, profile information, likes, shares, posts, etc., in accordance with the authorization procedures determined by the social media service you use to login.
+  
+  
+COLLECTION OF INFORMATION  
+  
+_Information We Collect Automatically Through the Services_  
+  
+In order to help provide recommendations and promoted content that is relevant to your interests, we automatically collect certain information when you access websites and mobile applications that incorporate the Services. This information reflects information about the websites you visit, the mobile applications you use, and how you interact with our Services. The following describe the categories of personal information we collect about Consumers, the categories of sources from which the personal information is collected, the business or commercial purpose for collecting or selling personal information, the categories of third parties with whom we share such personal information, information about the specific pieces of personal information we collect about Consumers, and any of which we have collected in the preceding twelve (12) months.  
+  
+Browser and Device Information: We collect information about your browser and device, including your browser type, device type, IP address, user agent string, operating system, mobile carrier, and identifiers assigned to your browser or device.  
+  
+Usage Data: We collect information about the websites and mobile applications you visit that integrate our Services and about the websites that you visit immediately prior to visiting a website that integrates our Services, including the date and time your browser or device accesses such websites and the specific pages accessed.  
+  
+Click Data: We collect information about the content and ads that you click on within the Services.  
+  
+_Information You Provide_  
+  
+In certain instances, you may be able to customize your experience by creating a user account or by logging in through one or more social media services. If you log in or otherwise link an existing social media account, we will have access to certain information from that service, such as your name, profile information, likes, shares, posts, etc., in accordance with the authorization procedures determined by the social media service you use to login.  
+  
 
 You also may be able to customize your Revcontent experience by registering as a user directly with the Revcontent and selecting topics of interest to customize your experience. If you do this, we will have access to the information you provide in doing so, including your name, contact information, and any preferences or interests you select.
 
-_Information We Collect from Other Sources_
-
-We may also obtain information from other sources and combine that with information we collect through our Services. For example, we may collect information about you from third parties, including our business partners, other advertising companies, and publicly available sources.
-
+  
+_Information We Collect from Other Sources_  
+  
+We may also obtain information from other sources and combine that with information we collect through our Services.  For example, we may collect information about you from third parties, including our business partners, other advertising companies, and publicly available sources.  
+  
 _Cookies and Other Tracking Technologies We Use to Collect Information_
 
-We use various technologies to collect information, including cookies, web beacons, web storage, unique device identifiers, and similar technologies. Cookies are small data files stored on your hard drive or in device memory that help us to tailor recommendations and promoted content to your preferences over time. For example, we may use your web browsing information to show you specific recommendations and sponsored recommendations that we think will be of particular interest to you. We may also collect information using web beacons (also known as "tracking pixels"). Web beacons are electronic images that may be used in our Services and help perform a variety of functions, including delivering cookies, counting visits, and understanding usage. For more information about cookies, and how to disable them, please see "Your Choices" below.
-
-USE OF INFORMATION
-
-We use the information we collect to determine what content is most relevant to you, to disseminate recommendations and promoted content to you, and to understand, measure, and report on how users interact with the Services. We also use the information we collect from the Service to maintain and constantly improve upon the Services.
-
-SHARING OF INFORMATION
-
+We use various technologies to collect information, including cookies, web beacons, web storage, unique device identifiers, and similar technologies.  Cookies are small data files stored on your hard drive or in device memory that help us to tailor recommendations and promoted content to your preferences over time.  For example, we may use your web browsing information to show you specific recommendations and sponsored recommendations that we think will be of particular interest to you.  We may also collect information using web beacons (also known as "tracking pixels").  Web beacons are electronic images that may be used in our Services and help perform a variety of functions, including delivering cookies, counting visits, and understanding usage.  For more information about cookies, and how to disable them, please see "Your Choices" below.  
+  
+USE OF INFORMATION  
+  
+We use the information we collect to determine what content is most relevant to you, to disseminate recommendations and promoted content to you, and to understand, measure, and report on how users interact with the Services.  We also use the information we collect from the Service to maintain and constantly improve upon the Services.  
+  
+SHARING OF INFORMATION  
+  
 We may share the information we collect as follows or as otherwise described in this Privacy Policy:
 
 *   With vendors, consultants and other service providers who need access to such information to carry out work or perform services on our behalf;
@@ -65,39 +69,42 @@ We may share the information we collect as follows or as otherwise described in 
 *   Between and among Revcontent and any current or future parent, subsidiary and/or affiliated company; and
 *   With your consent or at your direction.
 
-We may also share aggregated or de-identified information, which cannot reasonably be used to identify you. For example, we may share de-identified information with advertisers that partner with us to help them understand how well their advertisements performed.
+We may also share aggregated or de-identified information, which cannot reasonably be used to identify you.  For example, we may share de-identified information with advertisers that partner with us to help them understand how well their advertisements performed.
 
-YOUR CHOICES
-
-_Opting out of Personalized Content_
-
-You may opt out of receiving personalized content and advertisements from Revcontent by clicking the “Opt Out” button at the top of this page. When you opt out, we will set a cookie on your browser that tells us not to personalize recommendations or promoted content on that browser or to record information about the sites you are visiting. If you use multiple devices and/or multiple browsers, you need to opt out on each device and browser you use, even if you login to Revcontent using a social media account.
-
-Please note that even after you have opted out, you will still see Revcontent recommendations and promoted content, but these recommendations and promoted content will not be personalized based on the sites you visit.
-
-Note that if you clear your cookies, you will need to opt out again.
-
-For information about interest-based ads, or to opt out of having your web browsing information used for interest-based advertising purposes by companies that participate in the Digital Adverting Alliance, please visit [www.aboutads.info/choices](http://www.aboutads.info/choices). If you are in the EU, you may opt out at the European Digital Advertising Alliance, [http://www.youronlinechoices.eu/](http://www.youronlinechoices.eu/).
-
-_Cookies_
-
-Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of some websites.
-
-INFORMATION COLLECTED ON OUR WEBSITE
-
-Advertisers and publishers may provide contact information through our Site to find out more about Revcontent, be contacted by a Revcontent representative, or to start working with Revcontent. Revcontent (and its agents and service providers) may use this information to respond to your request, to send you marketing communications, and for business purposes such as marketing and research. We will also use the information we collect from advertisers and publishers for invoicing and billing purposes. We will not rent or sell this information to other companies. You may opt out of receiving promotional emails from Revcontent by following the instructions in those emails or by emailing us at [privacy@revcontent.com](mailto:privacy@revcontent.com). If you opt out, we may still send you non-promotional communications, such as those about your account or our ongoing business relations.
-
-Revcontent may also work with third parties that collect data on our Site and on other websites to serve you targeted ads. You can opt out of interest-based ads by companies that participate in the Digital Advertising Alliance opt out program by visiting about [http://optout.aboutads.info/](http://optout.aboutads.info/). If you are in the EU, you may opt out at the European Digital Advertising Alliance, [http://www.youronlinechoices.eu/](http://www.youronlinechoices.eu/).
-
+When you use our platform we may also share information that we collect from you, such as your email (in hashed form), IP address or information about your browser or operating system, with our identity partners/service providers, including LiveRamp Inc. LiveRamp returns an online identification code that we may store in our first-party cookie for our use in online, in-app, and cross-channel advertising and it may be shared with advertising companies to enable interest-based and targeted advertising. To opt out of this use, please click here: [https://optout.liveramp.com/opt\_out](https://optout.liveramp.com/opt_out)  
+  
+YOUR CHOICES  
+  
+_Opting out of Personalized Content_  
+  
+You may opt out of receiving personalized content and advertisements from Revcontent by clicking the “Opt Out” button at the top of this page.  When you opt out, we will set a cookie on your browser that tells us not to personalize recommendations or promoted content on that browser or to record information about the sites you are visiting.  If you use multiple devices and/or multiple browsers, you need to opt out on each device and browser you use, even if you login to Revcontent using a social media account.  
+  
+Please note that even after you have opted out, you will still see Revcontent recommendations and promoted content, but these recommendations and promoted content will not be personalized based on the sites you visit.  
+  
+Note that if you clear your cookies, you will need to opt out again.  
+  
+For information about interest-based ads, or to opt out of having your web browsing information used for interest-based advertising purposes by companies that participate in the Digital Adverting Alliance, please visit [www.aboutads.info/choices](http://www.aboutads.info/choices). If you are in the EU, you may opt out at the European Digital Advertising Alliance, [http://www.youronlinechoices.eu/](http://www.youronlinechoices.eu/).  
+  
+_Cookies_  
+  
+Most web browsers are set to accept cookies by default.  If you prefer, you can usually choose to set your browser to remove or reject browser cookies.  Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of some websites.  
+  
+INFORMATION COLLECTED ON OUR WEBSITE  
+  
+Advertisers and publishers may provide contact information through our Site to find out more about Revcontent, be contacted by a Revcontent representative, or to start working with Revcontent. Revcontent (and its agents and service providers) may use this information to respond to your request, to send you marketing communications, and for business purposes such as marketing and research. We will also use the information we collect from advertisers and publishers for invoicing and billing purposes. We will not rent or sell this information to other companies. You may opt out of receiving promotional emails from Revcontent by following the instructions in those emails or by emailing us at [privacy@revcontent.com](mailto:privacy@revcontent.com). If you opt out, we may still send you non-promotional communications, such as those about your account or our ongoing business relations.   
+  
+Revcontent may also work with third parties that collect data on our Site and on other websites to serve you targeted ads.  You can opt out of interest-based ads by companies that participate in the Digital Advertising Alliance opt out program by visiting about [http://optout.aboutads.info/](http://optout.aboutads.info/). If you are in the EU, you may opt out at the European Digital Advertising Alliance, [http://www.youronlinechoices.eu/](http://www.youronlinechoices.eu/).  
+  
 DATA RETENTION
 
 We store the information we collect for as long as is necessary for the purpose(s) for which we originally collected it. We may retain certain information for legitimate business purposes or as required by law.
 
+  
 DATA TRANSFERS AND PRIVACY SHIELD
 
 Revcontent is based in the U.S. As such, we and our service providers may transfer your information to, or store or access it in, jurisdictions that may not provide equivalent levels of data protection as your home jurisdiction. We will take steps to ensure that your personal data receives an adequate level of protection in the jurisdictions in which we process it.
 
-When we transfer personal data from the European Union or Switzerland to the United States, we comply with the EU-U.S. Privacy Shield Framework and the Swiss - U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data transferred from the European Union and Switzerland to the United States, respectively. Revcontent has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov/](https://www.privacyshield.gov/).
+When we transfer personal data from the European Union or Switzerland to the United States, we comply with the EU-U.S. Privacy Shield Framework and the Swiss - U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data transferred from the European Union and Switzerland to the United States, respectively. Revcontent has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. To learn more about the Privacy Shield program, and to view our certification, please visit https://www.privacyshield.gov/.
 
 In compliance with the Privacy Shield Principles, we are committed to resolving complaints about our processing of your personal data. EU and Swiss individuals with inquiries or complaints regarding our compliance with the Privacy Shield program should first contact us at [privacy@revcontent.com](mailto:privacy@revcontent.com) We have further committed to refer unresolved Privacy Shield complaints to JAMS, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit [https://www.jamsadr.com/eu-us-privacy-shield](https://www.jamsadr.com/eu-us-privacy-shield) claim for more information or to file a complaint. The services of JAMS are provided at no cost to you. Under certain conditions, you may be able to invoke binding arbitration to resolve your complaint. Revcontent is subject to the investigatory and enforcement powers of the Federal Trade Commission.
 
@@ -105,7 +112,7 @@ If we share personal data transferred to the U.S. under the Privacy Shield with 
 
 HOW WE PROTECT THE INFORMATION WE COLLECT
 
-We take reasonable measures to help protect the information we collect from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction. However, no transmission over the internet or electronic storage can be completely secure, so we cannot guarantee the absolute security of any data.
+We take reasonable measures to help protect the information we collect from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction.  However, no transmission over the internet or electronic storage can be completely secure, so we cannot guarantee the absolute security of any data.
 
 RESIDENTS OF THE EUROPEAN ECONOMIC AREA
 
@@ -127,12 +134,15 @@ _Questions or Complaints_
 
 If you are a resident of the EEA and have a concern about our processing of personal data that we are not able to resolve, you have the right to lodge a complaint with the data privacy authority where you reside. For contact details of your local Data Protection Authority, please see: [http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index\_en.htm](http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm).
 
+  
+  
+
 RESIDENTS OF THE STATE OF CALIFORNIA
 
 For Residents of the State of California, the following provisions address the foundational principles of the California Consumer Privacy Act of 2018.
 
-**1\. DATA PROTECTION PRINCIPLES**  
-  
+1.  **DATA PROTECTION PRINCIPLES**
+
 The COMPANY is committed to processing data in accordance with its responsibilities under the CCPA, and in particular with regard to the principles articulated therein which affirm a right to privacy, provide California consumers should be able to exercise control over their personal information, and provide that there are safeguards against misuse of their personal information.
 
 Those principles require that where this organization collects personal information about a consumer who is a California resident (“Consumer” or hereinafter “consumer”) the Consumer has a right to request disclosure of:
@@ -149,21 +159,20 @@ e. disclosures about the information, and
 
 f. the purposes for which the information is used.
 
-Those principles also require upon verified request:
-
+Those principles also require upon verified request:  
 g. the deletion of personal information;
 
 h. disclosure of the categories of information collected that we sell or disclose; and
 
-i. the disclosure of the identity of third-parties to whom the information was sold or disclosed;
-
-And, among other rights,
-
+i. the disclosure of the identity of third-parties to whom the information was sold or disclosed;  
+  
+  
+  
+And, among other rights,  
 j. authorize the Consumer to opt out of the sale of personal information; and
 
 k. prohibit discrimination against the Consumer for exercising privacy rights.
 
-  
 While we operate primarily if not exclusively as a Service Provider under the CCPA, we are committed to supporting those rights and do so with the following policy provisions, as applicable.
 
 **2\. GENERAL PROVISIONS**
@@ -182,16 +191,14 @@ f. To ensure its processing of data is lawful, fair and transparent, the COMPANY
 
 g. The Register of Systems shall be reviewed at least annually.
 
-**3\. LAWFUL, FAIR AND TRANSPARENT PROCESSING**
-
+**3\. LAWFUL, FAIR AND TRANSPARENT PROCESSING**  
 a. Where the COMPANY collects personal information about a Consumer, upon receipt of a verifiable Consumer request, the COMPANY shall disclose to that consumer the categories and specific pieces of personal information the business has collected and shall disclose and deliver promptly and free of charge. See 5(a) and (b) below for the information to be provided.
 
 b. Where such information is disclosed and delivered, it shall, be delivered by mail or electronically, and, if delivered electronically, it shall be provided in a portable form and, to the extent technically feasible, delivered in a readily useable format that allows the consumer to transmit this information to another entity without hindrance.
 
 c. Where the COMPANY collects a Consumer’s personal information, it shall, at or before the point of collection, inform consumers as to the categories of personal information to be collected and the purposes for which the categories of personal information shall be used. The COMPANY shall not collect additional categories of personal information or use personal information collected for additional purposes without providing the Consumer with notice.
 
-**4\. RIGHT TO BE FORGOTTEN**
-
+**4\. RIGHT TO BE FORGOTTEN**  
 a. Where the COMPANY collects personal information about a Consumer, it shall, upon verified request, delete any personal information about the Consumer which the COMPANY has collected from the Consumer from its records and direct any service providers to delete the Consumer’s personal information from their records.
 
 b. Where the COMPANY collects personal information about a Consumer, it shall disclose to the Consumer the Consumer’s rights to request the deletion of the Consumer’s personal information.
@@ -212,7 +219,7 @@ VI. enable solely internal uses that are reasonably aligned with the expectation
 
 VII. comply with a legal obligation or otherwise use the information in a lawful manner compatible with the context in which the information was given.
 
-**5\. RIGHT TO BE INFORMED**
+**RIGHT TO BE INFORMED**
 
 WHERE THE COMPANY COLLECTS DATA
 
@@ -248,14 +255,10 @@ c. The COMPANY may not sell Consumer personal information unless the Consumer ha
 
 d. Such notice shall be in a form that is reasonably accessible to consumers and: (1) provide a clear and conspicuous link on the COMPANY’s Internet homepage, titled “Do Not Sell My Personal Information,” to an Internet Web page that enables a consumer, or a person authorized by the consumer, to opt out of the sale of the consumer’s personal information, and (2) include a description of a consumer’s rights , along with a separate link to the “Do Not Sell My Personal Information” Internet Web page in: (A) online privacy policy or policies if any, (B) any California-specific description of consumers’ privacy rights.
 
-e. The COMPANY, if it sells consumer’s personal information, shall:
-
-(1) ensure that all individuals responsible for handling consumer inquiries about the business’s privacy practices or the business’s compliance are informed of all requirements and how to direct consumers to exercise their rights,
-
-(2) for consumers who exercise their right to opt out of the sale of their personal information, refrain from selling personal information collected by the business about the consumer,
-
-(3) for a consumer who has opted out of the sale of the consumer’s personal information, respect the consumer’s decision to opt out for at least 12 months before requesting that the consumer authorize the sale of the consumer’s personal information, and
-
+e. The COMPANY, if it sells consumer’s personal information, shall:  
+(1) ensure that all individuals responsible for handling consumer inquiries about the business’s privacy practices or the business’s compliance are informed of all requirements and how to direct consumers to exercise their rights,  
+(2) for consumers who exercise their right to opt out of the sale of their personal information, refrain from selling personal information collected by the business about the consumer,  
+(3) for a consumer who has opted out of the sale of the consumer’s personal information, respect the consumer’s decision to opt out for at least 12 months before requesting that the consumer authorize the sale of the consumer’s personal information, and  
 (4) use any personal information collected from the consumer’s opt-out request solely for the purposes of complying with the opt-out request.
 
 f. The COMPANY shall allow a consumer to authorize another person solely to opt-out of the sale of the consumer’s personal information on the consumer’s behalf.
@@ -290,7 +293,7 @@ f. Any personal information collected from a Customer in connection with the COM
 
 a. Where access to customer personal data is provided to a vendor or service provider the COMPANY shall do so by written contract that: (1) specifies the business purpose for giving the data, (2) prohibits the retention, use or disclosure of that data on your behalf for any other purpose, (3) prohibits the retention, use or disclosure of that data for other commercial purposes, (4) prohibits the retention, use or disclosure of that information outside of the direct business relationship of the parties, (5) prohibits the sale of that data, and (6) requires compliance with California Privacy Laws as to that data including its restrictions on use, disclosure and retention.
 
-b. Where access to customer personal data is provided to a vendor or service provider the COMPANY shall obtain a certification from the person receiving the data that they understand and will comply with the written contract that: (1) specifies the business purpose for giving the data, (2) prohibits the retention, use or disclosure of that data on your behalf for any other purpose, (3) prohibits the retention, use or disclosure of that data for other commercial purposes, (4) prohibits the retention, use or disclosure of that information outside of the direct business relationship of the parties, (5) prohibits the sale of that data, and (6) requires compliance with California Privacy Laws as to that data including its restrictions on use, disclosure and retention.
+b. Where access to customer personal data is provided to a vendor or service provider the COMPANY shall obtain a certification from the person receiving the data that they understand and will comply with the written contract that: (1) specifies the business purpose for giving the data, (2) prohibits the retention, use or disclosure of that data on your behalf for any other purpose, (3) prohibits the retention, use or disclosure of that data for other commercial purposes, (4) prohibits the retention, use or disclosure of that information outside of the direct business relationship of the parties, (5) prohibits the sale of that data, and (6) requires compliance with California Privacy Laws as to that data including its restrictions on use, disclosure and retention.  
 
 **10\. REASONABLE SECURITY AND BREACH NOTIFICATION**
 
@@ -300,19 +303,20 @@ b. The COMPANY shall implement and maintain reasonable security practices and pr
 
 c. The COMPANY shall disclose a security breach as expeditiously as possible and without unreasonable delay to a resident of California: (1) whose unencrypted personal information was, or is reasonably believed to have been, acquired by an unauthorized person, or, (2) whose encrypted personal information was, or is reasonably believed to have been, acquired by an unauthorized person in addition to an encryption key or security credential that could render that personal information readable or usable. The notification may be delayed if a law enforcement agency determines that the notification will impede a criminal investigation, but shall be made promptly after the law enforcement agency determines that it will not compromise the investigation.
 
-d. Security breach notification shall be written in plain language titled “Notice of Data Breach,” containing information under the following headings: “What Happened,” “What Information Was Involved,” “What We Are Doing,” “What You Can Do,” and “For More Information.” The format is to be designed to call attention to the nature and significance of the information it contains, with titles and headings in the notice clearly and conspicuously displayed. The text of the notice shall be no smaller than 10- point type.
+d. Security breach notification shall be written in plain language titled “Notice of Data Breach,” containing information under the following headings: “What Happened,” “What Information Was Involved,” “What We Are Doing,” “What You Can Do,” and “For More Information.” The format is to be designed to call attention to the nature and significance of the information it contains, with titles and headings in the notice clearly and conspicuously displayed. The text of the notice shall be no smaller than 10- point type.  
 
-**11\. DATA BROKERS**
+**11\. DATA BROKERS**  
 
 Where the COMPANY collects and sells the personal information of a consumer with whom the business does not have a direct relationship to third parties for monetary or other valuable consideration is required to register annually with the Attorney General as a Data Broker and meet the statutory requirements of a Data Broker.
 
-CONTACT US
-
+  
+CONTACT US  
+  
 If you have any questions or need to contact us, please do so at [privacy@revcontent.com](mailto:privacy@revcontent.com) or at:
 
 Revcontent, LLC
 
-1689 2nd Street
+1515 Fruitville Road
 
 Sarasota, FL 34236
 
