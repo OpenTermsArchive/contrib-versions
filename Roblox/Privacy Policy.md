@@ -1,6 +1,23 @@
+*   [1\. About Roblox and this Privacy Policy](#about-roblox-privacy-policy)
+*   [2\. Definitions](#definitions)
+*   [3\. Information Collected on our Corporate Websites](#information-collected)
+*   [4\. Information You Provide when Setting Up an Account on Roblox](#information-you-provide)
+*   [5\. Additional Personal Information We Collect When You Use Roblox Features](#additional-personal-information)
+*   [6\. Cookies and Similar Technologies](#cookies)
+*   [7\. Information Sharing](#information-sharing)
+*   [8\. Security and Data Retention](#security-and-data-retention)
+*   [9\. External Links](#external-links)
+*   [10\. Children’s Privacy and Parental Controls](#parental-controls)
+*   [11\. Accessing and Updating Your Personal Information](#accessing-updating-personal-info)
+*   [12\. Storage and International Transfer of Your Personal Information](#storage-intl-transfer)
+*   [13\. Your Privacy Rights in California](#your-privacy-rights-ca)
+*   [14\. Your Privacy Rights if you live in the EEA, UK or Switzerland](#your-privacy-rights-eea-uk-ch)
+*   [15\. Additional Information for users in Brazil](#addition-information-brazil)
+*   [16\. Privacy Policy Changes and Updates](#privacy-policy-changes)
+
 [](https://www.kidsafeseal.com/certifiedproducts/roblox.html)
 
-Please find the shortened version of our Privacy Policy below. Please click the "+" in the title of each section to expand for the full details of our Privacy Policy. You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/en-us/article_attachments/4408980742292/Roblox_Privacy_Policy_2021-10-22.pdf).
+Please find the shortened version of our Privacy Policy below. Please click the title of each section to expand for the full details of our Privacy Policy. You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/en-us/article_attachments/4406184904852/Roblox_Privacy_Policy_2021-09-01.pdf).
 
 [Expand All +](#/)
 
