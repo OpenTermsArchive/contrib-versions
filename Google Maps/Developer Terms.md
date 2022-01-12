@@ -509,12 +509,6 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   インクリメントP（株）の提供する地図データに基づいています。この地図データは世界各国の著作権法および国際的な著作権協定によって保護されています。Googleの利用規約類およびポリシーにより認められている場合を除き、当該データを無断転載／複写又は加工することを禁じます。[https://business.mapfan.com/aboutmap/](https://business.mapfan.com/aboutmap/)
             
-        *   Google Earth Pro は㈱ゼンリンの提供する地図データを使用しています。この地図データは世界各国の著作権法および国際的な著作権協定によって保護されています。当該データを無断転載／複写又は加工することを禁じます。
-            
-        *   Google Earth Pro includes map data from Zenrin Co., Ltd. The map data is protected by international copyright laws and international copy treaties. Reprinting, duplication or processing of the data without permission is prohibited.
-            
-        *   測量法に基づく国土地理院長承認（使用）R 2JHs 293－B35号
-            
         *   Includes expressway numbering route map data from [Ministry of Land, Infrastructure, Transport and Tourism (MLIT) website](https://www.mlit.go.jp/road/sign/numbering/en/map/index.html), licensed under CC License 4.0
             
         *   © Digital Earth Technology
