@@ -887,14 +887,12 @@ Ces obligations sont de deux ordres :
 Pour l’ensemble des filières REP, en tant que producteur CDISCOUNT a l’obligation auprès de ses clients de collecter une éco-participation qu’elle reverse aux différentes éco-organismes aux fins de financer les filières de collecte, de recyclage et de valorisation des déchets (liste des filières ci-après).  
 Pour cela Cdiscount est adhérant aux différentes filières REP relevant de son activité.
 
- Vous trouverez ci-dessous l’ensemble des éco-organismes et l'identifiant unique afférent de Cdiscount ou le numéro d'adhésion le cas échéant :  
+ Vous trouverez ci-dessous l’ensemble des éco-organismes et l'identifiant unique afférent de Cdiscount  :  
         -  DEEE : FR001284\_05PK6G  
-        - DEA : 0173059  
-        - Piles & batteries : ENT170101WH  
-        - Emballages : 507966  
-        - Textiles : 4000003666
-
- Les identifiants uniques de Cdiscount vous seront communiqués dès transmission de ces derniers par les éco-organismes.
+        - DEA : FR001284\_1OPPFZ  
+        - Piles & batteries : FR001284\_06GBZN  
+        - Emballages : FR219492\_01YWKD  
+        - Textiles : FR219279\_11PREL
 
 Pour les filières des Déchets d’Equipements Electriques et Electroniques (DEEE) et des Déchets d’éléments d’ameublement (DEA) le montant de l’éco-participation est indiqué sur la fiche produit.
 
