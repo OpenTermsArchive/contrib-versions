@@ -119,4 +119,47 @@ Our failure to enforce any part of these Public Network Terms shall not constitu
 
 The section and paragraph headings in these Public Network Terms are for convenience only and shall not affect their interpretation.
 
-Last update: May 13, 2020
+### 11\. Copyright policy
+
+Stack Exchange has adopted the following policy toward copyright infringement with respect to the Network in accordance with the [Digital Millennium Copyright Act](http://www.loc.gov/copyright/legislation/dmca.pdf). The address of Stack Exchange's Designated Agent for copyright takedown notices (“Designated Agent”) is listed below.
+
+#### Reporting Copyright Infringements
+
+If You believe that content residing or accessible on the Network infringes a copyright, please send a notice of copyright infringement containing the following information to the Designated Agent at the address below (all received notices will be posted in full to [https://lumendatabase.org/](https://lumendatabase.org/)):
+
+1.  Identification, including a description, of the copyrighted work or material You are claiming has been infringed. If You are claiming infringement of multiple works, you may provide a representative list.
+2.  Identification of the material that is claimed to be infringing, including its location and URL, with sufficient detail so that Stack Exchange is capable of finding and verifying its existence.
+3.  Contact information about the notifying party (the Notifying Party), including company name, name of contact person, mailing address, telephone number and e-mail address.
+4.  A statement that the Notifying Party has a good faith belief that the material is not authorized by the copyright owner, its agent or law.
+5.  A statement made under penalty of perjury that the information provided in the notice is accurate and that the Notifying Party is authorized to make the complaint on behalf of the copyright owner.
+6.  The Notifying Party's physical or electronic signature.
+
+After the Designated Agent receives notification of an alleged infringement that meets all of the requirements above, Stack Exchange shall:
+
+1.  Disable access to or remove material that it has a reasonable, good faith belief is copyrighted material that has been illegally copied and distributed by any subscriber to the Network.
+2.  Stack Exchange will then immediately notify the subscriber responsible for the allegedly infringing material (the Offending Subscriber) that it has removed or disabled access to the material.
+3.  Stack Exchange reserves the right, at its discretion, to immediately terminate the account of any subscriber who is the subject of repeated takedown notices.
+
+#### Filing Copyright Counterclaims
+
+A subscriber who believes they are the wrongful subject of a copyright takedown notice may file a counter notification with Stack Exchange by providing the following items in writing to the Designated Agent at the address below (all received notices will be posted in full to [https://lumendatabase.org/](https://lumendatabase.org/)):
+
+*   Identification, including the specific URLs, of material that Stack Exchange has removed or to which Stack Exchange has disabled access.
+*   User’s name, address, telephone number, and email address.
+*   A statement that User consent to the jurisdiction of Federal District Court for the judicial district in which your address is located (or New York County, New York if your address is outside of the United States), and that User will accept service of process from the person who provided notification under subsection (c)(1)(C) or an agent of such person.
+*   The following statement: "I swear, under penalty of perjury, that I have a good faith belief that the material was removed or disabled as a result of a mistake or misidentification of the material to be removed or disabled."
+*   User’s physical or electronic signature.
+
+Upon receipt of a counterclaim, Stack Exchange will forward it to the party who submitted the original copyright infringement claim. The original complainant will then have 10 days to notify us that he or she has filed legal action relating to the allegedly infringing material. If Stack Exchange does not receive any such notification within 10 days, we may restore the material to the Network.
+
+#### Designated Agent
+
+**Attn**: Copyright Agent  
+Stack Exchange Inc.  
+110 William St, 28th Floor  
+New York, NY 10038  
+**Tel**: +1 (212) 232-8280  
+**Fax**: +1 (212) 785-4578  
+**Email**: legal@stackoverflow.com  
+
+Last update: January 12, 2022
