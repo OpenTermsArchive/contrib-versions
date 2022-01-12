@@ -22,7 +22,7 @@ This summary of the Toyota Privacy Statement applies to Personal Information (as
 
 *   We collect Personal Information that you provide, which may include your name, mailing address, email address, phone number, and certain demographic information. We may collect Personal Information about you from third parties, including our affiliates and dealers.
 *   We collect and store "usage information" about how you use our technology platforms (including, without limitation, our Toyota-owned and branded websites, web pages, interactive features, applications, and mobile applications that link to this Privacy Statement ("Platforms"), such as the name of your Internet service provider, the browser and type of machine you are using, the IP address and the Web site that referred you to us and the pages you visit to help manage and enhance the Platforms.
-*   We and the advertising and other data companies use cookies and Web beacons to manage the Platforms, tailor our communications with you, and personalize your experience on the Platforms.
+*   We, and the advertising and other data companies we use, utilize cookies and web beacons to manage the Platforms, tailor our communications with you, and personalize your experience on the Platforms.
 
 [**Learn more**](#_1)
 
