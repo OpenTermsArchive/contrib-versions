@@ -89,7 +89,7 @@ TikTok will honour formal requests to preserve user data for 90 days. Please sen
 
 Preservation requests must be sent on law enforcement letterhead, signed, and must clearly identify the specific user data to be preserved (by reference to username, the data type and date ranges as per Section 3 above). TikTok will preserve information for an additional 90-day period upon receipt of a formal request to extend the preservation. We may not honour multiple extension requests beyond one additional 90-day period. If TikTok does not receive formal legal process for the preserved information before the end of the preservation period, the preserved information may be deleted when the preservation period expires.
 
-Overly broad or unspecific preservation requests will not be actioned. In addition, the preservation request must include a statement about the steps being taken to obtain a court order or other legal process for the user data sought. To seek disclosure of preserved data, the requirements set out in Sections 1 and 3 of these Guidelines will apply.
+Overly broad or unspecific preservation requests will not be actioned. To seek disclosure of preserved data, the requirements set out in Sections 1 and 3 of these Guidelines will apply.
 
 6\. Emergency Requests
 ----------------------
@@ -134,7 +134,7 @@ TikTok Law Enforcement Frequently Asked Questions (“FAQS”)
 
   
 
-_These FAQS should be read together with TikTok’s_ [Law Enforcement Guidelines](#Guidelines)
+_These FAQS should be read together with TikTok’s_ [Law Enforcement Guidelines](#Guidelines)  
 
   
 
