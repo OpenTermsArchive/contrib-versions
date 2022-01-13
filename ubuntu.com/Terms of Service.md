@@ -104,7 +104,6 @@ The open source software platform that runs everywhere from the smartphone, the 
     *   [Install](https://ubuntu.com/openstack/install)
     *   [Docs](https://ubuntu.com/openstack/docs)
     *   [Tutorials](https://ubuntu.com/openstack/tutorials)
-    *   [Support](https://ubuntu.com/openstack/support)
 *   [Ceph](https://ubuntu.com/ceph)
     -------------------------------
     
@@ -195,7 +194,7 @@ The open source software platform that runs everywhere from the smartphone, the 
     *   [ESM](https://ubuntu.com/security/esm)
     *   [Livepatch](https://ubuntu.com/security/livepatch)
     *   [Certifications & Hardening](https://ubuntu.com/security/certifications)
-    *   [CVEs](https://ubuntu.com/security/cves)
+    *   [CVEs](https://ubuntu.com/security/cve)
     *   [Notices](https://ubuntu.com/security/notices)
     *   [OVAL](https://ubuntu.com/security/oval)
     *   [Docker Images](https://ubuntu.com/security/docker-images)
