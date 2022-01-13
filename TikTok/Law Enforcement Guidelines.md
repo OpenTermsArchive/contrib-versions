@@ -48,7 +48,7 @@ Each request must clearly specify the type of data requested and the legal basis
 3\. Requirements When Making a Request
 --------------------------------------
 
-Each request must be dated and include the following information:
+Each request must be signed, dated, sent on law enforcement letterhead and include the following information:
 
 *   **Details of requesting law enforcement authority (or Court)**:
 
