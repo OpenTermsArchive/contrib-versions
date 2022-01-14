@@ -917,7 +917,7 @@ EAB €1,009, based on average annual usage. 12 month contract, discounted unit 
 
 37\. Competition terms and conditions
 
-**View December 2021 rugby newsletter terms and conditions [here.](https://www.energia.ie/getmedia/907a2d31-322d-4f48-afa2-b20624a0e05c/December-2021-Leinster-vs-Sigma-Lions-Tickets.pdf.aspx;)**  
+**View January 2022 rugby newsletter terms and conditions [here](https://www.energia.ie/getmedia/fc15d279-c99c-4cad-9fc3-98ee7a3bb01c/January-Two-tickets-to-Ireland-vs-Wales-2022-Guinness-Six-Nations-Competition.pdf.aspx;).**  
   
  
 
