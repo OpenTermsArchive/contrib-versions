@@ -1,7 +1,7 @@
 TABOOLA PRIVACY POLICY
 ======================
 
-Last Update: November 1st, 2021
+Last Update: January 14th, 2022
 
 If you would like to go directly to Taboola’s opt-out status options, please [click here](#user-choices-and-opting-out).  
 If you would like to learn more about Taboola’s region-specific processing of personal data, you can go directly to the applicable notices for individuals in [Brazil](#notice-to-individuals-in-brazil), [California](#notice-to-individuals-in-the-state-of-california), [Europe](#notice-to-individuals-within-the-european-economic-area-eea) (including the United Kingdom), [China](#notice-to-individuals-in-china), or [Thailand](#notice-to-individuals-in-thailand).
@@ -295,11 +295,11 @@ In particular, non-EEA/UK Taboola Affiliates, like Taboola, Inc. in the United S
 
 ### 5.2 Notice to Individuals in the State of California
 
-### 5.2.1 Your Rights to Your Personal Information
+### 5.2.1 Your Rights to Your Personal Information
 
 California residents have the right to request that Taboola (i) provide you with access to the Personal Information that we hold about you, (ii) correct your Personal Information, (iii) delete your Personal Information, and (iv) cease or restrict disclosures or sales of your Personal Information to third parties. You also have a right against discrimination for exercising any of these rights, which Taboola is committed to upholding and honoring at all times.
 
-If you would like to opt out of Taboola’s disclosures and sales of your Personal Information, you may do so as outlined in [Taboola’s California Consumer Rights Portal](https://ccparequest.taboola.com/). Please note that this feature is currently only available for California state residents. If you are not a California resident, you may find [Taboola’s Data Subject Access Request Portal](https://accessrequest.taboola.com/access) helpful.
+If you would like to opt out of Taboola’s disclosures and sales of your Personal Information, you may do so as outlined in [Taboola’s California Consumer Rights Portal](https://ccparequest.taboola.com/). Please note that this feature is currently only available for California state residents. If you are not a California resident, you may find [Taboola’s Data Subject Access Request Portal](https://accessrequest.taboola.com/access) helpful. This is a [summary of the requests](https://www.taboola.com/pdf/taboolas-ccpa-consumer-request-statistics) that Taboola received and honored from California residents in the last calendar year.
 
 ### 5.2.2 Categories of Data that Taboola Holds about You
 
