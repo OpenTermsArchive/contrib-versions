@@ -350,8 +350,6 @@ Notices to Customer will be sent to the email address on file and/or posted thro
 
 #### AdRoll Services
 
-[View AdRoll Cross Channel Measurement Services Addendum](https://www.nextroll.com/terms/cross-channel-measurement)
-
 [View AdRoll Email Services Addendum](https://www.nextroll.com/terms/email)
 
 #### RollWorks Services
