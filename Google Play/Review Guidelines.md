@@ -1,7 +1,7 @@
 Developer Programme Policy
 ==========================
 
-_(effective 1 December 2021, unless otherwise stated)_
+_(effective from 17 January 2022, unless otherwise stated)_
 
 * * *
 
@@ -27,8 +27,6 @@ If we become aware of content with child sexual abuse imagery, we will report it
 * * *
 
 ### Inappropriate Content
-
- Effective from 1 December 2021
 
 To ensure that Google Play remains a safe and respectful platform, we've created standards defining and prohibiting content that is harmful or inappropriate for our users.
 
@@ -1131,8 +1129,6 @@ Example violations:
 
 ### **Hostile downloaders**
 
- Effective from 2 February 2022
-
 Code that isn't in itself unwanted software, but downloads other mobile unwanted software (MUwS).
 
 Code may be a hostile downloader if:
@@ -1193,8 +1189,6 @@ Google Play supports a variety of monetisation strategies to benefit developers 
 
 Payments
 --------
-
-Effective from 18 December 2021
 
 1.  Developers charging for app downloads from Google Play must use Google Play's billing system as the method of payment for those transactions.
 2.  Play-distributed apps requiring or accepting payment for access to in-app features or services, including any app functionality, digital content or goods (collectively 'in-app purchases'), must use Google Play’s billing system for those transactions unless Section 3 or Section 8 applies.
@@ -1756,8 +1750,6 @@ Network traffic from inside the instant app must be encrypted using a TLS protoc
 
 ### **Android emoji policy**
 
- Effective from 2 February 2022
-
 Our emoji policy is designed to promote an inclusive and consistent user experience across the Google platform. 
 
 Apps running on Android 12 and above must comply with the latest Unicode version within four months of public availability.
@@ -1818,8 +1810,6 @@ We strongly recommend that you let your existing users know if you change the ta
 Misrepresentation of any information about your app in the Play Console, including in the target audience and content section, may result in removal or suspension of your app, so it is important to provide accurate information.
 
 ### Families policy requirements
-
- Effective 1 April 2022
 
 If one of the target audiences for your app is children, you must comply with the following requirements. Failure to satisfy these requirements may result in app removal or suspension.
 
@@ -2060,8 +2050,6 @@ Note: Don't attempt to republish a suspended app unless Google Play has explaine
 *   Having your app placed in a limited visibility state doesn’t impact users’ ability to see the app’s existing Store Listing, user installs, statistics and ratings.
 
 #### Limited regions
-
- Effective from 1 December 2021
 
 *   Your app can only be downloaded by users through Google Play in certain regions.
 *   Users from other regions will not be able to find the app on the Play Store.
