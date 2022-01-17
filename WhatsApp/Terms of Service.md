@@ -11,7 +11,7 @@ In order to provide our Services (as defined below) through our apps, services, 
 
 WhatsApp Ireland Limited ("WhatsApp," "our," "we," or "us") provides the services described below to you ("Services") if you live in a country or territory in the European Economic Area (which includes the European Union), and any other included country or territory (collectively referred to as the "[European Region](https://faq.whatsapp.com/general/security-and-privacy/who-is-providing-your-whatsapp-services)"). If you live in any other country or territory except those in the [European Region](https://faq.whatsapp.com/general/security-and-privacy/who-is-providing-your-whatsapp-services), WhatsApp LLC provides the Services to you under this [Terms of Service](https://www.whatsapp.com/legal/updates/terms-of-service) and [Privacy Policy](https://www.whatsapp.com/legal/updates/privacy-policy).
 
-### [](#)About Our Services
+### About Our Services
 
 *   **Privacy And Security Principles**. Since we started WhatsApp, we've built our Services with strong privacy and security principles in mind.
 *   **Connecting You With Other People**. We provide, and always strive to improve, ways for you to communicate with other WhatsApp users including through messages, voice and video calls, sending images and video, showing your status, and sharing your location with others when you choose. WhatsApp works with partners, service providers, and affiliated companies to help us provide ways for you to connect with their services.
@@ -31,11 +31,11 @@ WhatsApp Ireland Limited ("WhatsApp," "our," "we," or "us") provides the service
 
 **Fees And Taxes**. You are responsible for all carrier data plans, Internet fees, and other fees and taxes associated with your use of our Services.
 
-### [](#)Privacy Policy And User Data
+### Privacy Policy And User Data
 
 WhatsApp cares about your privacy. WhatsApp's [Privacy Policy](https://www.whatsapp.com/legal/updates/privacy-policy-eea) describes our data (including message) practices, including the types of information we receive and collect from you, how we use and share this information, and your rights in relation to the processing of information about you.
 
-### [](#)Acceptable Use Of Our Services
+### Acceptable Use Of Our Services
 
 **Our Terms And Policies**. You must use our Services according to our Terms and policies. If you violate our Terms or policies, we may take action with respect to your account, including disabling or suspending your account and, if we do, you agree not to create another account without our permission. Disabling or suspending your account will be in accordance with the "[Termination](https://www.whatsapp.com/legal/updates/terms-of-service-eea?eea=1#terms-of-service-updates-availability-and-termination-of-services)" section below.
 
@@ -45,11 +45,11 @@ WhatsApp cares about your privacy. WhatsApp's [Privacy Policy](https://www.whats
 
 **Keeping Your Account Secure**. You are responsible for keeping your device and your WhatsApp account safe and secure, and you must notify us promptly of any unauthorized use or security breach of your account or our Services.
 
-### [](#)Third-Party Services
+### Third-Party Services
 
 Our Services may allow you to access, use, or interact with third-party websites, apps, content, other products and services, and [Facebook Company Products](https://faq.whatsapp.com/general/security-and-privacy/the-facebook-company-products). For example, you may choose to use third-party data backup services (such as iCloud or Google Drive) that are integrated with our Services or interact with a share button on a third-party's website that enables you to send information to your WhatsApp contacts. Please note that these Terms and our [Privacy Policy](https://www.whatsapp.com/legal/updates/privacy-policy-eea) apply only to the use of our Services. When you use third-party products or services or other [Facebook Company Products](https://faq.whatsapp.com/general/security-and-privacy/the-facebook-company-products), their own terms and privacy policies will govern your use of those products or services.
 
-### [](#)Licenses
+### Licenses
 
 **Your Rights**. WhatsApp does not claim ownership of the information that you submit for your WhatsApp account or through our Services. You must have the necessary rights to such information that you submit for your WhatsApp account or through our Services and the right to grant the rights and licenses in our Terms.
 
@@ -63,11 +63,11 @@ Our Services may allow you to access, use, or interact with third-party websites
 
 To report claims of third-party copyright, trademark, or other intellectual property infringement, please visit our [Intellectual Property Policy](https://www.whatsapp.com/legal/updates/ip-policy). We may take action with respect to your account, including disabling or suspending your account, if you clearly, seriously or repeatedly infringe the intellectual property rights of others or where we are required to do so for legal reasons. Disabling or suspending your account will be in accordance with the "[Termination](https://www.whatsapp.com/legal/updates/terms-of-service-eea?eea=1#terms-of-service-updates-availability-and-termination-of-services)" section below.
 
-### [](#)Disclaimers And Release
+### Disclaimers And Release
 
 You use our Services at your own risk and subject to the following disclaimers. We are providing our Services on an "as is" basis without any express or implied warranties, including, but not limited to, warranties of merchantability, fitness for a particular purpose, title, non-infringement, and freedom from computer virus or other harmful code. We do not warrant that any information provided by us is accurate, complete, or useful, that our Services will be operational, error free, secure, or safe, or that our Services will function without disruptions, delays, or imperfections. We do not control and are not responsible for, controlling how or when our users use our Services or the features, services, and interfaces our Services provide. We are not responsible for and are not obligated to control the actions or information (including content) of our users or other third-parties. You release us, our subsidiaries, affiliates, and our and their directors, officers, employees, partners, and agents (together, the "WhatsApp Parties") from any claim, complaint, cause of action, controversy, or damages (together, "Claim"), known and unknown, relating to, arising out of, or in any way connected with any such Claim you have against any third-parties. Your rights with respect to the WhatsApp Parties are not modified by the foregoing disclaimer if the laws of your country or territory of residence, applicable as a result of your use of our Services, do not permit it.
 
-### [](#)Limitation Of Liability
+### Limitation Of Liability
 
 WhatsApp is only liable to the following extent:
 
@@ -75,11 +75,11 @@ WhatsApp is liable without limitation in accordance with the statutory provision
 
 WhatsApp will exercise professional diligence in providing the Services to you. Provided that we have acted with professional diligence, WhatsApp does not accept responsibility for losses not caused by our breach of these Terms or otherwise by our acts; losses that are not reasonably foreseeable by you and us at the time of entering into these Terms; and events beyond our reasonable control.
 
-### [](#)Dispute Resolution
+### Dispute Resolution
 
 If you are a consumer and habitually reside in a country or territory within the [European Region](https://faq.whatsapp.com/general/security-and-privacy/who-is-providing-your-whatsapp-services), the laws of your country or territory will apply to any Claim you have against us that arises out of or relates to these Terms or our Services, and you may resolve your Claim in any competent court in your country or territory that has jurisdiction over the Claim. In all other cases, you agree that the Claim must be resolved in a competent court in Ireland that has jurisdiction over the Claim and that the laws of Ireland will govern these Terms and any Claim, without regard to conflict of law provisions.
 
-### [](#)Availability And Termination Of Our Services
+### Availability And Termination Of Our Services
 
 **Availability Of Our Services**. We are always trying to improve our Services. That means we may expand, add, or remove our Services, features, functionalities, and the support of certain devices and platforms. Our Services may be interrupted, including for maintenance, repairs, upgrades, or network or equipment failures. We may discontinue some or all of our Services, including certain features and the support for certain devices and platforms, at any time after a notice period of 30 days, with no such notice being required in urgent situations such as preventing abuse, responding to legal requirements, or addressing security and operability issues. Events beyond our control may affect our Services, such as events in nature and other force majeure events.
 
@@ -91,7 +91,7 @@ If the important reason is a violation of an obligation of these Terms, terminat
 
 In accordance with this "[Termination](https://www.whatsapp.com/legal/updates/terms-of-service-eea?eea=1#terms-of-service-updates-availability-and-termination-of-services)" section, we may also modify, suspend, or terminate your access to or use of our Services anytime for suspicious or unlawful conduct, including for fraud, or if we reasonably believe you violate our Terms or create harm, risk, or possible legal exposure for us, our users, or others. We may also disable or delete your account if it does not become active after account registration or if it remains inactive for an extended period of time. If you delete your account or we delete or disable it, these Terms will end as an agreement between you and us, but the following provisions will survive any termination of your relationship with WhatsApp: "Licenses," "Disclaimers And Release," "Limitation Of Liability," "Dispute Resolution," "Availability And Termination Of Our Services," and "Other.” If you believe your account's termination or suspension was in error, please contact us at [support@support.whatsapp.com](mailto:support@support.whatsapp.com).
 
-### [](#)Other
+### Other
 
 *   Unless a mutually executed agreement between you and us states otherwise, our Terms make up the entire agreement between you and us regarding WhatsApp and our Services, and supersede any prior agreements.
 *   We reserve the right to designate in the future that certain of our Services are governed by separate terms (where, as applicable, you may separately consent).
