@@ -6,7 +6,7 @@ This Privacy Notice describes how Binance collects and processes your personal i
 
 This Privacy Policy applies to all platforms, websites, and departments of Binance and Binance Operators. By using Binance Services, you are consenting to the collection, storage, processing and transfer of your personal information as described in this Privacy Policy.
 
-Binance \[X\], (legal entity code: \[X\] registered office address: \[X\]) is the Data Controller for personal information collected and processed in connection with provision of Binance Services.
+Bifinity UAB a company incorporated and registered in Didžioji str. 18, Vilnius, the Republic of Lithuania, with the company number 305595206, is the data controller for personal information collected in connection with provision of Binance services.
 
 ### 1\. What Personal Information does Binance collect and process? Why does Binance process my personal information ? What are the legal basis for our use of personal information?
 
