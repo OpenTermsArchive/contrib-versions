@@ -150,7 +150,7 @@ You may cancel your subscription, without penalty or obligation, at any time pri
 
 To request a refund:
 
-In addition to canceling, you must request a refund to receive one. If you subscribed using your Apple ID, refunds are handled by Apple, not Bumble. To request a refund, go to iTunes, click on your Apple ID, select “Purchase history,” find the transaction and hit “Report Problem”. You can also submit a request at [https://getsupport.apple.com](https://getsupport.apple.com/).
+In addition to cancelling, you must request a refund to receive one. If you subscribed using your Apple ID, refunds are handled by Apple, not Bumble. To request a refund, go to iTunes, click on your Apple ID, select “Purchase history,” find the transaction and hit “Report Problem”. You can also submit a request at [https://getsupport.apple.com](https://getsupport.apple.com/).
 
 For all other purchases: please contact [customer support](https://bumble.com/en/help/#contact-us) with your order number (you can find the order number in the order confirmation email, or if you purchased from the Google Play Store by logging in to Google Wallet). You may also mail or deliver a signed and dated notice which states that you, the buyer, are canceling this agreement, or words of similar effect. Please also include the email address or mobile number associated with your account along with your order number. This notice shall be sent to: Bumble, Attn.: Cancellations, P.O. Box 300940, Austin, Texas, 78703 (in addition, California and Ohio members may send a facsimile to 512-696-1545).
 
