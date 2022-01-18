@@ -1,62 +1,85 @@
 Cookies Policy
 --------------
 
-Your trust, privacy and data are important to us and we are committed to being transparent about our data practices and how we use and protect your data.
+In this Cookies Policy we explain the cookies which Bumble uses, the purposes for which cookies are used and how you can manage your preferences in relation to cookies.
 
-We use cookies and similar technologies when you use the Bumble mobile application (including the desktop version) (“App”) or websites (such as Bumble.com) (“Websites”).
+What are 'cookies' and which 'cookies' does Bumble use?
+-------------------------------------------------------
 
-This policy provides more detail about the cookies and tracking technologies we use and should be read in conjunction with our Privacy Policy and the information available in our “Manage Cookies” section (linked at the bottom of our Websites) or in your profile settings in our App (under “Settings” > “Security & Privacy” > “Privacy Settings” on iOS and Android) where you can adjust your cookie settings at any time.
+Unlike the chocolate chip kind, these cookies have no calories! We collect information by placing cookies on your computer or mobile phone. A cookie is a piece of text stored on your computer or mobile phone by your web browser. They are basically a tool that stores information about website visits, recognises you and your preferences each time you visit Bumble, and ensures site functionality enabling us to provide the services our members request.
 
-1\. What are 'cookies' and which 'cookies' does Bumble use?
------------------------------------------------------------
+When you visit the publicly available sections of Bumble, cookies which are necessary to make our application/site work (referred to as “strictly necessary” cookies) are placed on your device or mobile phone. For example, a session ID cookie is placed on your device or mobile phone that lasts for a limited time after your visit. We also place persistent cookies (also known as local storage devices) on users’ devices, so that Bumble remembers them and makes their login experience faster and easier. We may use persistent tracking cookies on your mobile device, mainly for security protection purposes, such as to prevent phishers, scammers and unauthorised login attempts. Strictly necessary cookies such as these will always be set, however, you can choose whether to turn on other cookies (as detailed further below), and you can change your cookie preferences at any time.
 
-Unlike the chocolate chip kind, these cookies have no calories! We collect information by placing cookies on your computer or mobile device. A cookie is a piece of text containing a unique identifier, which is stored on your computer by your web browser or by your mobile device. They are basically a tool that stores information about App use and Websites’ visits. Cookies also allow us to recognise you and your preferences each time you visit Bumble. They ensure the functioning of the App and Websites which in turn allows us to provide the services that our members request and to improve your user experience.
+You may set your browser and your mobile phone settings to block cookies and local storage devices, but if you do so, you may not be able to access the features that Bumble offers. To manage your cookie settings, see [below](#cookie_settings).
 
-We may also use other technologies such as web beacons (also called pixels), tracking URLs and software development kits (SDKs) for similar purposes as cookies. Web beacons are files that contain a unique identifier that enable us to recognise when someone has accessed content on our Websites. Tracking URLs are unique links that help us understand where visitors to our Websites are coming from. SDKs are small pieces of code included in applications, which function like cookies and web beacons. For simplicity, in this Policy we also refer to these technologies as “Cookies”.
+Bumble’s use of cookies and local storage devices falls into the following categories:
 
-| Type of Cookie | Purpose |
+*   those that are strictly necessary to deliver the services and products you have requested, such as, for example purchasing Bumble’s premium services. It is not possible to turn these cookies off because they are essential to enable us to provide the service that you have requested;
+*   cookies related to the performance of Bumble’s site, such as analytics that help us determine how our site is performing and ensure a smooth and trouble-free experience for our members and visitors;
+*   cookies related to the functionality of Bumble’s site, such as remembering your preferences at log in, remembering your preferred language or allowing you to chat, add photos and instant message Bumble members;
+*   third party cookies which link to other social networks and which you request via social plugins; and
+*   cookies used to improve and target advertising to you based on what’s relevant to you, to improve reporting on any advertising campaign and to avoid showing you ads you have already seen.
+
+Bumble uses cookies and local storage devices so that we know who you are, what interests you and so that you can do the things online that you want to do, like chat with new people, share your content and buy Bumble premium services knowing that your data will be secure. Below is a table to explain Bumble’s cookie functions and why they’re used.
+
+| Cookie Functions | Cookie Purposes |
 | --- | --- |
-| Strictly necessary Cookies | These Cookies are necessary for the App and Websites to function and cannot be switched off in our systems, or our App and Websites will not work properly. They are usually only set in response to actions made by you which amount to a request of services, such as setting your privacy preferences, logging in or filling in forms, making payments, uploading photographs, chatting or to localise your experience, such as when you’ve requested to view Bumble’s Site in your local language or when you’ve asked Bumble to ‘remember me’, etc. You can always control the Websites’ strictly necessary Cookies in your browser, as explained below.<br><br>We also use Cookies to help keep Bumble and our members safe and secure. These Cookies do things like protect Bumble users from spam and fraud by ensuring the safety of your personal data when you pay for things on Bumble like Bumble’s premium services.<br><br>We may use persistent Cookies, which will help us to ensure we have identified that the same device is logging in to the correct account. These types of Cookies also help with our anti-spam measures and help us to prevent phishers, scammers, unauthorised login attempts to your account and accessing any hacked accounts.<br><br>Some of these strictly necessary Cookies are third parties’, as some social media platforms can be used as an entry point to register for our services. |
-| Analytics Cookies | These Cookies allow us to collect information about how visitors interact with our App and Websites. We use this information to compile reports and to help measure and improve the performance of the App and Websites.<br><br>Bumble uses Google Analytics to collect information about how visitors use the Bumble Site. We use the information to compile reports and to help us improve the Site or App. The Cookies collect information in an aggregated form, including the number of visitors to the Site or App, where visitors have come to the Site from and the pages they visited. |
-| Social Media Cookies | These Cookies help provide experiences, such as links to other social media Websites and social plugins, including making it easier for you to share content between Bumble and your other favourite social networks.<br><br>In some cases, the Site feature you choose may allow a third party to place Cookies on your device. |
-| Advertising Cookies | These Cookies may be set on our Websites and App by us or our advertising partners. They may be used to build a profile of your interests and show you relevant adverts on our App and Websites or other Websites you visit, as well as to improve reporting on any advertising campaign and to avoid showing you ads that you have already seen. |
-| Performance | These Cookies may be set on our Websites and App by us or our marketing services providers. They help us and our marketing services providers improve and measure the effectiveness of Bumble ads on other apps and Websites. For example, they help us understand which Bumble ads lead people to download our App or sign-up for Bumble. You can find out more information about this in our Privacy Policy (under the heading “Sharing your personal data with Marketing Services Providers”). |
+| Analytics and research | Bumble uses Google Analytics to collect information about how visitors use the Bumble site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. For more information about Google’s privacy policy, please visit [http://www.google.com/intl/en/policies/](http://www.google.com/intl/en/policies/) |
+| Authentication | These cookies help us to identify our members so that when you’re logged in, you can enjoy Bumble’s offerings, experiences and various features, such as uploading photographs, chatting and can localise your experience, such as when you’ve requested to view Bumble’s site in your local language or when you’ve asked Bumble to ‘remember me’. |
+| Security and site integrity | We use cookies and other devices, such as CAPTCHAs, to help keep Bumble and our members safe and secure. These cookies do things like protect Bumble users from spam and fraud by ensuring the safety of your personal data when you shop on Bumble for things like Bumble’s premium services.<br><br>We may use persistent cookies, which will help us to ensure we have identified the same device is logging in to the correct account. These types of cookies also help with our anti-spam measures and may help us to prevent phishers, scammers, unauthorised login attempts to your account and accessing any hacked accounts. |
+| Site features and services | These cookies and local storage devices provide the functionality that our Bumble members enjoy, such as uploading photographs, chats, instant messaging, your account settings and your request to have Bumble as your homepage or your search preference. We also use cookies to help provide experiences, such as links to other social media sites and social plugins, including making it easier for you to share content between Bumble and your other favourite social networks.<br><br>In some cases, the site feature you choose may allow a third party to place cookies or local storage devices on your computer. The third party who places cookies on your device is responsible for how they process their data and Bumble recommends that you read their privacy policy. A list of third parties who place cookies on your device when you use Bumble is set out in the table further [below](#cookie_settings), and we have included a link to their privacy policies. |
+| Performance | We need to use certain cookies and local storage devices to ensure our members have the best possible experience, such as assisting with your navigation of our site, ensuring pages load up quickly and respond faster to your requests for Bumble services. |
 
-2\. Cookies lifespan and third parties placing Cookies
-
-Cookies last for different periods of time depending on which of the following two categories they fall into:
-
-*   Session cookies – these cookies only last as long as your online session, and expire when you close your browser (for example Internet Explorer or Safari).
-*   Persistent cookies – these cookies stay on your device after your browser has been closed. These cookies are used when we need to remember you for more than one browsing session, for instance to remember your preferences from one visit to the next.
-
-If you would like to obtain more information about the third parties placing Cookies on our Websites and App (including a link to their privacy practices) and their lifespan you can access this information:
-
-*   in your profile settings for the Bumble App (under “Settings” > “Security & Privacy” > “Privacy Settings” on iOS or under “Advertising Preferences” on Android); and
-*   in the “Manage Cookies” section linked at the bottom of our Websites.
-
-3\. How can you refuse or withdraw consent to the use of Cookies?
------------------------------------------------------------------
-
-**When using our Websites**, you are in control and may refuse to accept Cookies at any time by managing your preferences in the “Manage Cookies” section (linked at the bottom of our Websites) or by altering the settings on your internet browser (for example Internet Explorer, Chrome and Firefox).
-
-If you would like to know more about Cookies and how to refuse Cookies, the following websites provide useful information:
+Our use of cookies and local storage devices, including the specific cookie names, may change over time, but will generally fall into the above categories. We will notify you of any important changes to our use of cookies and local storage devices. If you would like to know more about cookies, including flash cookies/local storage devices, the following websites provide useful information:
 
 *   [www.allaboutcookies.org](http://www.allaboutcookies.org/)
 *   [www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
 *   [http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html](http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html)
 
-**When using our App**, you are also in control and may refuse to accept Cookies at any time by managing your Privacy Preferences in your Profile in the App (under “Settings” > “Security & Privacy” > “Privacy Settings” on iOS and Android).
+### Manage your cookies settings
 
-Please note that if you choose not to permit Cookies some areas of our Websites or App may not function properly or be accessible.
+1.  [Strictly necessary cookies](#necessary)
+2.  [Functional cookies](#functional)
+3.  [Analytical cookies](#analitical)
 
-4\. How to contact us?
-----------------------
+The tables below explain the cookies we use and why, as well as the cookies placed by third parties on your device, and the purposes for which they are used. You can manage your cookie settings by switching the toggles on/off. This list may be updated, therefore we recommend checking it from time to time. We last updated these tables on 17 August 2020.
 
-Bumble has designated a Data Protection Officer and they can be reached by emailing DPO@team.bumble.com or by post at the following address: The Broadgate Tower Third Floor, 20 Primrose Street, London, United Kingdom, EC2A 2RS.
+### Strictly Necessary Cookies
 
-If you have any questions regarding this Cookie Policy, please visit our Feedback Page or email us at DPO@team.bumble.com. You can also contact us by post at the address above.
+| Cookie name | Set by Bumble or Third Party | Description/purpose | Expiry time |
+| --- | --- | --- | --- |
+| cookie\_settings | Bumble | This cookie remembers your decision about cookies on our site. If you’ve given a preference, we’ll store it in this cookie. | 1 year |
+| has\_secure\_session | Bumble | This cookie is used for secure communication throughout our site. | 1 year |
+| session\_cookie\_name | Bumble | This cookie provides session info wherever you are in the world. It is a unique ID to ensure the correct data is linked to you. | 1 year |
+| s1, s2 | Bumble | This cookie remembers your account in your browser and identifies that you have an authorised account. | 1 year |
+| device\_id | Bumble | This cookie identifies your device, so we can be sure that it’s really you when you use our site. | 10 years |
+| UID | Bumble | This cookie identifies you by assigning a unique ID and authorises you to log in to the app. | 14 days |
+| TS  | Bumble | This cookie records when you started the session and lets us know when the session needs to be updated. | 14  |
+| Nobma | Bumble | This cookie ensures the app opens, not the mobile browser, when you’re being redirected to the help centre. | 7 days |
+| pid | Bumble | This cookie helps us recognise that you are using the Bumble platform and not a partner application. | 1 year |
+| session | Bumble | If you need to use the help centre, this cookie remembers your account in your browser and identifies that you have an authorised account. | 1 year |
+| wpr | Bumble | This cookie enables us to track session cookies when you travel internationally, and prevents you from being redirected to different sessions incorrectly. | Duration of application usage |
+| TEMP\_API\_HOST | Bumble | This cookie is necessary to allow users to switch between global regions. | 1 day |
+| Domain: paypal.com | Paypal | This cookie lets you make a payment.  <br>Link to more information about the use of these cookies:  <br>[https://www.paypal.com/uk/webapps/mpp/ua/cookie-full](https://www.paypal.com/uk/webapps/mpp/ua/cookie-full) |     |
 
-Effective date
---------------
+### Functional Cookies
 
-This Cookie Policy was last updated on 17 January 2022.
+| Cookie name | Set by Bumble or Third Party | Description/purpose | Expiry time |
+| --- | --- | --- | --- |
+| Aid | Bumble | This cookie remembers the last user ID that you’ve used. | 365 days |
+| Inv | Bumble | This cookie means that we’ve asked you to participate in a campaign, such as a rewards program. | 365 days |
+| Market | Bumble | This cookie tells us what platform you’ve used to install the app. | 365 days |
+| cpc | Bumble | This cookie remembers if you have declined push notifications and do not want to be asked again. | 10 years |
+| cookie\_banner\_closed | Bumble | This cookie remembers if you have closed the cookie banner explaining how we use cookies | Duration of application usage |
+| Domain: facebook.com | Facebook | Link to more information about the use of these cookies:  <br>[https://en-gb.facebook.com/policies/cookies/](https://en-gb.facebook.com/policies/cookies/) |     |
+| Domain: pinterest.com | Pinterest | Link to more information about the user of these cookies:  <br>[https://policy.pinterest.com/en-gb/cookies](https://policy.pinterest.com/en-gb/cookies) |     |
+| Domain: snap.com | Snap Inc | Link to more information about the user of these cookies:  <br>[https://www.snap.com/en-GB/cookie-policy](https://www.snap.com/en-GB/cookie-policy) |     |
+| Domain: tiktok.com | TikTok | This cookie lets us share relevant and contextual TikTok content with you through our Blog.<br><br>Link to more information about the user of these cookies:  <br>[https://www.tiktok.com/legal/cookie-policy?lang=en](https://www.tiktok.com/legal/cookie-policy?lang=en) |     |
+
+### Analytical Cookies
+
+| Cookie name | Set by Bumble or Third Party | Description/purpose | Expiry time |
+| --- | --- | --- | --- |
+| Ref | Bumble | This cookie identifies and tracks ad campaigns used on the site. | 365 days |
+| Domain: google.com | Google | This cookie lets us monitor and improve the performance of our websites and applications.<br><br>Link to more information about the use of these cookies:  <br>[https://policies.google.com/technologies/types?hl=en-US](https://policies.google.com/technologies/types?hl=en-US) |     |
+| Domain: appsflyer.com | AppsFlyer | This cookie lets us monitor and improve the performance of our websites and applications.<br><br>Link to more information about the use of these cookies:  <br>[https://www.appsflyer.com/cookie-policy](https://www.appsflyer.com/cookie-policy) |     |
