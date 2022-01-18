@@ -1,8 +1,7 @@
 User Agreement
 ==============
 
-Effective: January 20 2022, 11:18 GMT  
-Location: [https://www.livejournal.com/legal/tos-en.bml?r=15269](https://www.livejournal.com/legal/tos-en.bml?r=15269)
+**ATTENTION**: this translation of the User Agreement is not a legally binding document. The original User Agreement, which is valid, is located at the following address: [http://www.livejournal.com/legal/tos-ru.bml](http://www.livejournal.com/legal/tos-ru.bml).
 
 1.  #### Subject of the Agreement
     
@@ -19,23 +18,23 @@ Location: [https://www.livejournal.com/legal/tos-en.bml?r=15269](https://www.liv
     
     **Authorisation** means the analysis of the Authentication Details given by User performed by the software part of the Service, based on which User is given an access to his/her Account.
     
-    **Account** means User’s account on the Service created by User through Registration.
+    **Account** means User’s account containing Authentication Details and other information provided by User while using the Service.
     
-    **Authentication Details** means unique User’s username and password used for Authorisation.
+    **Authentication Details** means unique means of User identification (username and password) used for Authorisation.
     
     **Blog** means a third-level domain of the Website which is transferred by the Administration to User under the terms and conditions hereof to post his/her Content (keep a Blog).
     
     **Community Owner** means User who created a Blog in the form of Community.
     
-    **Content** means User\`s information within the Service in Blogs and Communities as a note or comment as well as sent by User in private messages using the Service.
+    **Content** means User\`s information within the Service, including any information published during the process of Registration, in Blogs and Communities as a note or comment as well as sent by User in private messages using the Service.
     
     **Community Moderator** means User to whom the Community Owner provided access to the functionality necessary to moderate the Community’s Content.
     
     **Profile** means a publicly available page automatically created within the Service during the Registration, which contains all the information filled out by User during the Registration as well as during any further modifications or amendments of his/her Account, except for password and email address specified for registration.
     
-    **Paid Services** means any one time and continuing additional services provided to User by the Administration on a monetary base.
+    **Paid Services** means any one time and continuing additional services provided to User by the Administration on a monetary base.
     
-    **Registration** means User’s actions performed in order to create an Account in accordance with the Agreement pursuant to the procedure established by the Administration. User shall give his/her Authentication Details during the Registration process and may also give any other non-obligatory information which he/she deems fit.
+    **Registration** means User’s actions performed in order to create an Account pursuant to the procedure established by the Administration. User shall give his/her Authentication Details during the Registration process and may also give any other non-obligatory information which he/she deems fit.
     
     **Website** means a website in the information and telecommunications network Internet identified by its domain name LiveJournal.com.
     
@@ -58,11 +57,13 @@ Location: [https://www.livejournal.com/legal/tos-en.bml?r=15269](https://www.liv
     7.  User shall be responsible for all actions performed using the User’s Authentications Details, All actions performed upon the Authorisation using the User’s Authentication Details shall be deemed performed by the User personally, unless the User has duly notified the Administration in advance of possible Unauthorised Access and/or any breach (alleged breach) of confidentiality of his/her Authentication Details in accordance herewith.
     8.  The User shall be responsible for any possible loss or distortion of information and for other consequences of any nature which may occur due to the User’s breach of any provisions of the Agreement.
     9.  User also can get an access to additional Service functions via her/his Facebook’, Twitter’, Google’, Apple’, VKontakte’ or Mail. ru’ account (Third Party’ Account). Third Party Account functions can be limited in comparison with Account functions.
-    10.  By using Google Maps, including features and content of «Google Maps» and «Google Earth» services, User is notified that the Service utilizes Google Maps, and User hereby unconditionally accepts then-current version of the Google Maps/Google Earth Additional Terms of Service at [https://maps.google.com/help/terms\_maps.html](https://maps.google.com/help/terms_maps.html); and Google Privacy Policy at [https://www.google.com/policies/privacy/](https://www.google.com/policies/privacy/). User’s breach of Google Maps/Google Earth Additional Terms of Service or Google Privacy Policy may cause actions by Administration in accordance with clause 2(5) of the Agreement or disablement of corresponding Google Maps features. The Administration shall not be liable for any failures or interruptions in the operation of Google Maps utilized within the Service as well as for Google Maps’ consistency with User’s expectations.
+    10.  By using Google Maps, including features and content of «Google Maps» and «Google Earth» services, User is notified that the Service utilizes Google Maps, and User hereby unconditionally accepts then-current version of the Google Maps/Google Earth Additional Terms of Service at [https://maps.google.com/help/terms\_maps.html](https://maps.google.com/help/terms_maps.html); and Google Privacy Policy at [https://www.google.com/policies/privacy/](https://www.google.com/policies/privacy/). User’s breach of Google Maps/Google Earth Additional Terms of Service or Google Privacy Policy may cause actions by Administration in accordance with clause 2(5) of the Agreement or disablement of corresponding Google Maps features. The Administration shall not be liable for any failures or interruptions in the operation of Google Maps utilized within the Service as well as for Google Maps’ consistency with User’s expectations.
 5.  #### User Details
     
-    1.  The terms and conditions of User’s data processing and its security measures while using of the Service are governed by [the Privacy Policy](https://help.rambler.ru/legal/1998/).
-    2.  **Please note that no information which can directly or indirectly identify the individual is needed in order to use the Service, including registration process; thus, the relationship connected with the Service, the Registration and information provided in the process of Registration, is not governed by the provisions of Federal Act of the Russian Federation No. 152-FZ.**
+    1.  The technical data transmitted to the Service by the User’s software as well as any other information transmitted by the User to the Service shall be available to the Administration and may be used at its own discretion legally, including targeting the advertising to User. The terms and conditions of User’s data processing and its security measures while using of the Service are governed by the [Privacy Policy](https://help.rambler.ru/legal/1998/).
+    2.  The User’s IP address may be available to other Users when User posts comments in Blogs, depending on settings chosen by User or by the Community Owner where User posts such comments.
+    3.  Information contained in the Profile shall be available to other Users. User may at any time delete and/or modify the Profile using Account management interface.
+    4.  **Please note that no information which can directly or indirectly identify the individual is needed in order to use the Service, including registration process; thus, the relationship connected with the Service, the Registration and information provided in the process of Registration, is not governed by the provisions of Federal Act of the Russian Federation No. 152-FZ.**
 6.  #### Account Termination
     
     1.  Termination of Inactive Accounts by the Administration
@@ -78,20 +79,26 @@ Location: [https://www.livejournal.com/legal/tos-en.bml?r=15269](https://www.liv
     1.  User may keep Blog, post notes and comments within his/her own Blog (Community) or in other Users’ Blogs (Communities).
     2.  Using the Service functions, User shall define the Content and the level of Content availability to Users subject to the requirements specified herein and applicable laws.
     3.  User who created Blog shall be responsible for such a Blog as well as for the Content posted therein.
-    4.  User who posted comments in Blog and User keeping such a Blog shall be jointly and severally liable in respect of such comments.
+    4.  Requirements connected to Article 10.2 of the Federal Act of the Russian Federation No. 149-FZ were excluded starting from July 30, 2017 as this Article was repealed by Federal Act of the Russian Federation No. 276-FZ.
+    5.  User who posted comments in Blog and User keeping such a Blog shall be jointly and severally liable in respect of such comments.
 8.  #### Community
     
     1.  User may create Communities.
     2.  Community may have its own Community rules; however, such rules may not contradict hereto or to applicable laws.
     3.  Community Owner shall be responsible for the Community, including the Community rules, the Content posted within the Community, the actions of Community Supervisor and Moderator.
-    4.  User who posted a note or a comment in Community and Community Owner shall be subsidiarily liable in respect of such a note or a comment.
-    5.  Community Supervisor and Community Owner shall be subsidiarily liable in respect of Community Supervisor’ actions.
+    4.  Requirements connected to Article 10.2 of the Federal Act of the Russian Federation No. 149-FZ were excluded starting from July 30, 2017 as this Article was repealed by Federal Act of the Russian Federation No. 276-FZ.
+    5.  User who posted a note or a comment in Community and Community Owner shall be subsidiarily liable in respect of such a note or a comment.
+    6.  Community Supervisor and Community Owner shall be subsidiarily liable in respect of Community Supervisor’ actions.
 9.  #### Content
     
     1.  By posting Content, User shall:
         1.  Guarantee to the Administration that Content and terms of its appearance on the Service meets all the requirements of the applicable laws, that User has received all rights and permits necessary to post such a Content;
         2.  In respect of any Content which constitutes intellectual property, User provides to the Administration a non-exclusive (simple) license to use his/her Content in order to provide the Service and to promote User's Content on the Internet facilitating by the Website, by reproducing his/her Content, by making it public for the entire period the Content is posted on the Service. If User participates in any rankings or if User’s Content is used in any editorial projects of the Service, User provides to the Administration an additional authorisation to modify, shorten and amend his/her Content, to add images, a preamble, comments or any clarifications to his/her Content while using it, and in certain cases based on the Service functions, an authorisation to use User’s Content anonymously.
         3.  Mark Content estimated by Russian legislation as inappropriate for children (0 −18) as “adult material” by using Service functions.
+        4.  Comply with requirements and restrictions provided for by Russian legislation, including those concerning information that is prohibited or restricted for distribution, in particular not to distribute:
+            1.  materials with pornographic images of minors and (or) advertisements for engaging minors as performers in entertainment activities of pornographic nature,
+            2.  information on methods and techniques of development, manufacture and use of narcotic drugs, psychotropic substances and their precursors, new potentially dangerous psychoactive substances, places of their acquisition, methods and places of cultivation of narcotic plants;
+            3.  information on methods of committing suicide, as well as exhortation to commit suicide.
     2.  The User may not:
         1.  register a legal entity as a User;
         2.  register himself/herself as a User on behalf of another individual;
@@ -101,6 +108,7 @@ Location: [https://www.livejournal.com/legal/tos-en.bml?r=15269](https://www.liv
         6.  without the Administration’s special permit, use automatic scripts (bots, crawlers etc.) to collect information from the Service and/or to interact with the Service;
         7.  post advertising and/or political solicitation materials unless otherwise directly specified in a separate agreement between User and the Administration;
         8.  perform any other actions contradictory to the laws of the Russian Federation and/or any other applicable laws, including those applicable in the jurisdiction of User’s residence.
+    3.  **Any claims related to the Content shall be submitted to the Administration through the [contact form](https://www.livejournal.com/support/submit).**
 10.  #### Rights and Obligations of the Administration
     
     1.  The Administration shall endeavour to ensure providing of the Service and its prompt restoration in the event of technical failures and outages.
@@ -110,10 +118,7 @@ Location: [https://www.livejournal.com/legal/tos-en.bml?r=15269](https://www.liv
     5.  The Administration may restrict User’s access to any Service function and restrict or prohibit the use of API and posting of links to third-party resources and take any other actions aimed at protecting the Service from factors which present or may have a risk to Users, to the normal operation of the Service and to the Administration’s policies. The Administration shall implement the said measures at its own discretion and shall not be responsible for possible negative consequences of such measures to User and to third parties.
     6.  The Administration may at its own discretion and without User’s prior notice supplement, reduce or otherwise modify any Service function and it’ procedures.
     7.  The Administration may engage third parties to render services necessary for the operation of the Service, including hosting providers
-    8.  The User may not:
-        1.  The Administration has the right to use special technical solutions and/or other methods of identifying Content that violates the terms of the Agreement and/or Russian legislation to comply with the requirements of Russian legislation. The procedure for using these methods is to be determined either by the Administration or by Russian legislation.
-        2.  The Administration has the right, in the case and in the manner prescribed by Russian legislation, to take measures to restrict access to the Content.
-        3.  User is obliged to comply with requirements and restrictions provided for by Russian legislation, including those concerning information that is prohibited or restricted for distribution, in particular not to distribute materials with pornographic images of minors and (or) advertisements for engaging minors as performers in entertainment activities of pornographic nature; information on methods and techniques of development, manufacture and use of narcotic drugs, psychotropic substances and their precursors, new potentially dangerous psychoactive substances, places of their acquisition, methods and places of cultivation of narcotic plants; information on methods of committing suicide, as well as exhortation to commit suicide.
+    8.  The Administration has the right to use special technical solutions and/or other methods of identifying Content that violates the terms of the Agreement and/or Russian legislation to comply with the requirements of Russian legislation. The procedure for using these methods is to be determined either by the Administration or by Russian legislation.
 11.  #### Liability
     
     1.  User shall be liable for breaching the terms and conditions hereof, including the requirements to Registration and Content posting, as well as for violation of applicable laws committed by User, including the laws of the Russian Federation and the laws of User’s residence;
@@ -126,15 +131,7 @@ Location: [https://www.livejournal.com/legal/tos-en.bml?r=15269](https://www.liv
     3.  The User’s participation in campaigns and events advertised within the Service, as well as User’s purchasing of any products, work or services shall create rights and obligations only between User and the entity selling the respective product, work or service or holding such campaign or event.
     4.  If User places any advertising Content on the Service (or promises to place such Content), this does not create any obligations of the Administration.
     5.  The Administration may send to User information related to the Service as well as third-party advertising using the email address provided by User.
-13.  #### The procedure for considering Users’ requests
-    
-    1.  All requests related to the Content shall be submitted to the Administration via the contact form.
-    2.  User’s requests are considered by the Administration within a period not exceeding 30 calendar days from the date of their receipt through the contact form.
-    3.  Through the contact form, User provides a contact e-mail, the URL of the page that violates User’s rights and legitimate interests.
-    4.  The request shall contain a reasoned justification for the presence of the violation of User’s rights and legitimate interests.
-    5.  In case of detection of incomplete information, inaccuracies or errors in User’s request, the Administration has the right to send a notification to User on the clarification of the information provided in the request.
-    6.  If there are obscene or offensive expressions in the request, threats to life, health and property of the Administration or other persons, the Administration will refuse to consider User’s request.
-14.  #### Miscellaneous
+13.  #### Miscellaneous
     
     1.  The following addresses shall be used to send legally significant communications:
         1.  to the Administration:
@@ -142,7 +139,6 @@ Location: [https://www.livejournal.com/legal/tos-en.bml?r=15269](https://www.liv
             2.  in respect of other communications: bldg. 1, 9 Varshavskoye Highway, Moscow, 117105.
         2.  to User: the address provided for registration:
     2.  All disputes arising out of this Agreement and/or related to the Service and Content may be resolved in court after the Parties have taken steps to settle the dispute by negotiation, 30 calendar days upon the date when the claim (request) was sent to the addresses defined in clause 12.1 hereof.
-    3.  If the dispute is not resolved by the time defined in clause 14.2 hereof it may be resolved by the Court in the Administration’s place of incorporation.
-    4.  The Agreement is drawn up in [Russian language](https://www.livejournal.com/legal/tos-ru.bml). The English version is a translation and is provided solely for the convenience of reading the Agreement. In the event of any inconsistency between the [Russian version](https://www.livejournal.com/legal/tos-ru.bml) and its translation, the [Russian version](https://www.livejournal.com/legal/tos-ru.bml) of the Agreement shall prevail.
+    3.  If the dispute is not resolved by the time defined in clause 13.2 hereof it may be resolved by the Court in the Administration’s place of incorporation.
 
-[Previous version December 17 2021, 09:47 GMT](https://www.livejournal.com/legal/tos-en.bml?r=15268) (archived)
+**ATTENTION**: this translation of the User Agreement is not a legally binding document. The original User Agreement, which is valid, is located at the following address: [http://www.livejournal.com/legal/tos-ru.bml](http://www.livejournal.com/legal/tos-ru.bml).
