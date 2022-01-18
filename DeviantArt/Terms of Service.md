@@ -80,7 +80,7 @@ DEVIANTART MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIE
 
 **10\. Amendment of the Terms**
 
-We reserve the right to amend these Terms from time to time in our sole discretion. If you have registered as a member, we may notify you of any material changes to these Terms (and the effective date of such changes) by sending a notification on the Site. In addition, we will post the revised terms on the Site. If you continue to use the Service after the effective date of the revised Terms, you will be deemed to have accepted those changes. If you do not agree to the revised Terms, your sole remedy shall be to discontinue using the Service.
+We reserve the right to amend these Terms from time to time in our sole discretion. If you have registered as a member, we shall notify you of any material changes to these Terms (and the effective date of such changes) by sending an email to the address you have provided to DeviantArt for your account. For all other users, we will post the revised terms on the Site. If you continue to use the Service after the effective date of the revised Terms, you will be deemed to have accepted those changes. If you do not agree to the revised Terms, your sole remedy shall be to discontinue using the Service.
 
   
 
