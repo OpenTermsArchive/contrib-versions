@@ -17,7 +17,7 @@
 
 [](https://www.kidsafeseal.com/certifiedproducts/roblox.html)
 
-Please find the shortened version of our Privacy Policy below. Please click the title of each section to expand for the full details of our Privacy Policy. You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/en-us/article_attachments/4408980742292/Roblox_Privacy_Policy_2021-10-22.pdf).
+Please find the shortened version of our Privacy Policy below. Please click the title of each section to expand for the full details of our Privacy Policy. You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/en-us/article_attachments/4406184904852/Roblox_Privacy_Policy_2021-09-01.pdf).
 
 [Expand All +](#/)
 
