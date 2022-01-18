@@ -3,13 +3,13 @@ Google Maps/Google Earth Additional Terms of Service
 
 Last Modified: 12 Jan 2022
 
-To use Google Maps/Google Earth, you must accept (1) the [Google Terms of Service](https://policies.google.com/terms), and (2) these Google Maps/Google Earth Additional Terms of Service (the “**Maps/Earth Additional Terms**”). The Maps/Earth Additional Terms incorporate by reference the [Legal Notices for Google Maps/Google Earth and Google Maps/Google Earth APIs.](https://www.google.com/help/legalnotices_maps/)
+To use Google Maps/Google Earth, you must accept (1) the [Google Terms of Service](https://policies.google.com/terms?hl=en-GB), and (2) these Google Maps/Google Earth Additional Terms of Service (the “**Maps/Earth Additional Terms**”). The Maps/Earth Additional Terms incorporate by reference the [Legal Notices for Google Maps/Google Earth and Google Maps/Google Earth APIs.](https://www.google.com/help/legalnotices_maps/)
 
 Please read each of these documents carefully. Together, these documents are known as the “**Terms**”. They establish what you can expect from us as you use our services, and what we expect from you.
 
 Although it’s not a part of these Terms, we encourage you to read [our Privacy Policy](https://policies.google.com/privacy?hl=en-GB) to better understand how you can [update, manage, export and delete your information](https://myaccount.google.com/?hl=en-GB).
 
-1.  **Licence.** As long as you follow these Terms, the [Google Terms of Service](https://policies.google.com/terms) give you a licence to use Google Maps/Google Earth, including features that allow you to:
+1.  **Licence.** As long as you follow these Terms, the [Google Terms of Service](https://policies.google.com/terms?hl=en-GB) give you a licence to use Google Maps/Google Earth, including features that allow you to:
     
     1.  view and annotate maps;
         
@@ -34,7 +34,7 @@ Although it’s not a part of these Terms, we encourage you to read [our Privacy
         
 3.  **Actual Conditions; Assumption of Risk.** When you use Google Maps/Google Earth's map data, traffic, directions and other content, you may find that actual conditions differ from the map results and content, so exercise your independent judgment and use Google Maps/Google Earth at your own risk. You’re responsible at all times for your conduct and its consequences.
     
-4.  **Your Content in Google Maps/Google Earth.** Content you upload, submit, store, send, or receive through Google Maps/Google Earth is subject to Google’s [Terms of Service](https://policies.google.com/terms), including the license in the section called [“Permission to use your content”](https://policies.google.com/terms/update#toc-permission). If you are a resident of France, the [Google Search Additional Terms of Service](https://www.google.com/search/about/terms/france/) apply to such content which is made publicly available on Google Search. However, content that remains exclusively local to your device (such as a locally-stored KML file) is not uploaded or submitted to Google, and is therefore not subject to that licence.
+4.  **Your Content in Google Maps/Google Earth.** Content you upload, submit, store, send, or receive through Google Maps/Google Earth is subject to Google’s [Terms of Service](https://www.google.com/intl/en-GB/policies/terms/), including the license in the section called [“Permission to use your content”](https://policies.google.com/terms/update#toc-permission). If you are a resident of France, the [Google Search Additional Terms of Service](https://www.google.com/search/about/terms/france/) apply to such content which is made publicly available on Google Search. However, content that remains exclusively local to your device (such as a locally-stored KML file) is not uploaded or submitted to Google, and is therefore not subject to that licence.
     
 5.  **Government Users.** If you’re using Google Maps/Google Earth on behalf of a government entity, the following terms apply:
     
