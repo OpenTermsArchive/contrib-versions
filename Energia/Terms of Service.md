@@ -1,6 +1,6 @@
 Terms & Conditions  
-from 1st July 2021
-=======================================
+from 5th March 2021
+========================================
 
 Energy Supply Contract
 ----------------------
