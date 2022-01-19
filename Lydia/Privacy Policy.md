@@ -46,24 +46,69 @@ Lydia collects:
 *   Information submitted directly by Clients to Lydia;
 *   Information received indirectly when Clients use Lydia Services.
 
-**4.1 Information Clients submit** 
+**4.1 Information Clients submit**
 
-*   Creating a Lydia account. When a Client creates a Lydia payment account, he/she provides Lydia with his/her mobile telephone number, first name, and surname. He/She may then provide other information such as his/her email addresses, a profile photo, as well setting a password and a secret question and answer in case he/she forgets his/her password.
-*   Additional services. To access additional Lydia Services, the Client may provide Lydia with information about his/her payment cards, loyalty cards that he/she wishes to link to the Lydia app, and his/her bank account details. When creating a money pot, the Client may submit a title, a description, and a cover photo for the money pot created.
-*   ID verification. To verify his/her identity and comply with regulation, Lydia may request copies of the Client’s official proof of identity, a complementary proof of identity, and a video of authentication).
-*   Authentication video. The Client can make requests on his/her Lydia account and personal data in several ways (for example in case of forgotten password). If the request is considered sensitive and with the Client consent, it can be done by means of a video authentication. For this, the Client must give Lydia access to microphone and camera, and film himself / herself for a few seconds to state his/her request. The recorded videos are watched by an authorized Lydia Agent who authenticates the request. Once the request is authenticated, the video is no longer accessible by the Agent: it is kept in semi-intermediate archiving.
+Creating a Lydia account
+
+When a Client creates a Lydia payment account, he/she provides Lydia with his/her mobile telephone number, first name, and surname. He/She may then provide other information such as his/her email addresses, a profile photo, as well setting a password and a secret question and answer in case he/she forgets his/her password.
+
+Additional services
+
+To access additional Lydia Services, the Client may provide Lydia with information about his/her payment cards, loyalty cards that he/she wishes to link to the Lydia app, and his/her bank account details. When creating a money pot, the Client may submit a title, a description, and a cover photo for the money pot created.
+
+ID verification
+
+To verify his/her identity and comply with regulation, Lydia may request copies of the Client’s official proof of identity, a complementary proof of identity, and a video of authentication).
+
+Authentication video
+
+The Client has several ways to prove his identity in order to obtain the "Verified Profile" status and to make requests for changes to his Lydia account security data (e.g. in case of forgotten password, change of phone number or blocked account). If the request is deemed sensitive and the Client expressly consents, it can be made by means of an authentication video called "selfie-video".
+
+To do so, the Client must authorize access to Lydia, the microphone and the camera of his phone and then film himself for a few seconds to state his request. The recorded videos are viewed by an authorized Lydia Agent who authenticates the Client. After this authentication, the video is no longer accessible by the Agent: it is kept in a semi-intermediate archive.
+
+Nota Bene: a specific technical processing of biometric data (as defined in Article 4.14 of the RGPD), captured during the video selfie, is performed by Lydia when the Client wishes to obtain the "Verified Profile" status. This specific technical processing of the Client's facial images allows or confirms the unique identification of the User based on his physical, physiological or behavioral characteristics.
+
+It also allows the detection of the "living" character of the User to verify that it has not been physically or digitally altered. These biometric data are considered sensitive in the sense of the RGPD. In order to use this processing in accordance with Article 9 of the RGPD, Lydia therefore justifies a specific need to identify its users to allow access to the Service, under the control of the Commission Nationale de l'Informatique et des Libertés (hereinafter the "CNIL").
+
+The Client is always free to choose whether or not to take a video selfie during the remote identity verification process in order to obtain the "Verified Profile" status ("Know Your Customer" identity verification process) or during the process of recovering access to his Lydia Account (in case of forgotten password, change of phone number or blocking of his Customer Account) and may choose to use another authentication method offered by Lydia, without any additional constraint, incentive or special consideration.
 
 **4.2 Information Lydia receives indirectly about the Client whe he/she uses Lydia Services**
 
-*   Additional personal information. When the Client provides Lydia with a proof of identity, Lydia collects information on the date of birth, place of birthand nationality.
-*   Geolocalisation information. When the Client uses certain Lydia features, Lydia may receive information on the location, as determined by data like the IP address or the phone’s or computer’s GPS of the Client, in order to provide him/her with a better user experience and to enhance security (e.g. geolocalisation can act as check in the case of fraud). Most mobile phones let the Client control or disable usage of localisation services by apps within the device’s settings.
-*   Usage information. Lydia receives information about Clients’ interactions with the Lydia app, such as content consulted, transactions made, or general use of the app (e.g. the date the Client added his/her payment card to the app).
-*   Network and device data. Lydia automatically collects network and device data when the Client uses Lydia Services. This information includes his/her IP address, date and time of use of Lydia Services, data on his/her computer or mobile hardware, data linked to usage of his/her device, unique identifiers, crash analytics, or cookies.
-*   Bank account details. When the Client links his/her bank account to the Lydia app, by providing the log-in details used for online banking, the IBAN number and payees linked to this account are automatically imported into the Lydia app to facilitate payments from his/her Lydia account to external saved accounts.
-*   Contacts with Lydia. The Client can link his/her mobile phone address book to the Lydia app to see which of his/her contacts uses the Lydia app. To make the link between a contact in the Client’s phone list and someone who has just signed up to the app, Lydia collects the mobile numbers and email addresses in the Client’s address book. Lydia does not make any other use of this information. As Lydia only needs an imprint of this data, and not the raw data, this data is transferred and stored using encryption, by a unique public key. The Client can disable this feature in the Settings tab of the app.
-*   Communication with the Lydia support team. Lydia keeps a record of communications that the Client may have with Lydia support team, e.g. email conversations, telephone calls, or a summary of telephone discussions.
-*   Follow-ups of actions carried out by Lydia staff. Lydia staff may be involved in the management of the Clients’ Lydia account. In this instance, the actions performed are also stored in the form of comments (e.g. a Lydia account might be temporarily blocked in the case of suspected fraud).
-*   Information about the bank account aggregation service. In the case where the Client uses the bank account aggregation service allowing him/her to aggregate his/her bank account(s) to the Lydia app, the data relating to this / these aggregated account(s) are collected by Lydia: name of the bank, types of bank account (current account, credit account, savings account), realized transactions and account's balance.
+Additional personal information
+
+When the Client provides Lydia with a proof of identity, Lydia collects information on the date of birth, place of birthand nationality.
+
+Geolocalisation information
+
+When the Client uses certain Lydia features, Lydia may receive information on the location, as determined by data like the IP address or the phone’s or computer’s GPS of the Client, in order to provide him/her with a better user experience and to enhance security (e.g. geolocalisation can act as check in the case of fraud). Most mobile phones let the Client control or disable usage of localisation services by apps within the device’s settings.
+
+Usage information
+
+Lydia receives information about Clients’ interactions with the Lydia app, such as content consulted, transactions made, or general use of the app (e.g. the date the Client added his/her payment card to the app).
+
+Network and device data
+
+Lydia automatically collects network and device data when the Client uses Lydia Services. This information includes his/her IP address, date and time of use of Lydia Services, data on his/her computer or mobile hardware, data linked to usage of his/her device, unique identifiers, crash analytics, or cookies.
+
+Bank account details
+
+When the Client links his/her bank account to the Lydia app, by providing the log-in details used for online banking, the IBAN number and payees linked to this account are automatically imported into the Lydia app to facilitate payments from his/her Lydia account to external saved accounts.
+
+Contacts with Lydia
+
+The Client can link his/her mobile phone address book to the Lydia app to see which of his/her contacts uses the Lydia app. To make the link between a contact in the Client’s phone list and someone who has just signed up to the app, Lydia collects the mobile numbers and email addresses in the Client’s address book. Lydia does not make any other use of this information. As Lydia only needs an imprint of this data, and not the raw data, this data is transferred and stored using encryption, by a unique public key. The Client can disable this feature in the Settings tab of the app.
+
+Communication with the Lydia support team
+
+Lydia keeps a record of communications that the Client may have with Lydia support team, e.g. email conversations, telephone calls, or a summary of telephone discussions.
+
+Follow-ups of actions carried out by Lydia staff
+
+Lydia staff may be involved in the management of the Clients’ Lydia account. In this instance, the actions performed are also stored in the form of comments (e.g. a Lydia account might be temporarily blocked in the case of suspected fraud).
+
+Information about the bank account aggregation service
+
+In the case where the Client uses the bank account aggregation service allowing him/her to aggregate his/her bank account(s) to the Lydia app, the data relating to this / these aggregated account(s) are collected by Lydia: name of the bank, types of bank account (current account, credit account, savings account), realized transactions and account's balance.
 
 **4.3 How long Lydia retains Clients' information** 
 
@@ -98,7 +143,7 @@ Lydia may use Clients’ personal data to:
 
 **6.1 To Lydia's banking partners, suppliers and operational contractors** 
 
-All of Clients’ personal data held by Lydia are protected and kept confidential in accordance with article L.511-33 of the monetary and financial code. Lydia Solutions may share Clients’ personal data with its Principals (SFPMEI ,Budget Insight and Treezor) and with its suppliers and operational service providers with whom Lydia is contractually tied, in order to provide certain services and process transactions, under condition that these third parties guarantee a sufficient level of protection of the data shared in compliance with article 561-7 II b of the monetary and financial code and in respect with the GDPR. These partners and service providers only have access to the data that is strictly necessary for the execution of the contracts established with Lydia Solutions.
+All of Clients’ personal data held by Lydia are protected and kept confidential in accordance with article L.511-33 of the monetary and financial code. Lydia Solutions may share Clients’ personal data with its Principals (SFPMEI, Budget Insight and Treezor) and with its suppliers and operational service providers with whom Lydia is contractually tied, in order to provide certain services and process transactions, under condition that these third parties guarantee a sufficient level of protection of the data shared in compliance with article 561-7 II b of the monetary and financial code and in respect with the GDPR. These partners and service providers only have access to the data that is strictly necessary for the execution of the contracts established with Lydia Solutions.
 
 Lydia may also share its Clients’ personal data to third party service providers or partners, under condition that these data are anonymised beforehand. Anonymising data means removing the following elements: phone number, address, and any other information that could identify the Client or allow him/her to be contacted directly.
 
