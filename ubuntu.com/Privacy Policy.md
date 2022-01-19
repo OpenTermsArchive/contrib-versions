@@ -300,6 +300,7 @@ The open source software platform that runs everywhere from the smartphone, the 
     *   [Install](https://ubuntu.com/openstack/install)
     *   [Docs](https://ubuntu.com/openstack/docs)
     *   [Tutorials](https://ubuntu.com/openstack/tutorials)
+    *   [Support](https://ubuntu.com/openstack/support)
 *   [Ceph](https://ubuntu.com/ceph)
     -------------------------------
     
