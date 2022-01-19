@@ -1,4 +1,4 @@
-Terms of ServiceLast Modified: 2021-07-21
+Terms of ServiceLast Modified: 2022-01-19
 =========================================
 
 Tumblr is a U.S. company and subject to U.S. laws and jurisdiction. The original version of these Terms of Service (and any other terms, policies, or guidelines that we provide to you) are written in English. To the extent any translated version of these Terms of Service (or any other terms, policies, or guidelines that we provide to you) conflicts with the English version, the English version controls.
@@ -32,7 +32,7 @@ As Tumblr grows and improves, we might have to make changes to these Terms of Se
 
 **Eligibility:**
 
-You may not use the Services, provide any personal information to Tumblr, or otherwise submit personal information through the Services (including, for example, a name, address, telephone number, or email address) if you are under the Minimum Age. The Minimum Age is (i) thirteen (13), or (ii) for users in the European Union or the United Kingdom, sixteen (16). You may only use the Services if you can form a binding contract with Tumblr and are not legally prohibited from using the Services.
+You may not use the Services, provide any personal information to Tumblr, or otherwise submit personal information through the Services (including, for example, a name, address, telephone number, or email address) if you are under the Minimum Age. The Minimum Age is (i) thirteen (13),(ii) for users in the European Union or the United Kingdom, sixteen (16), or (iii) for users to give or receive tips (“<strong>Tipping Feature</strong>”), eighteen (18). You may only use the Services if you can form a binding contract with Tumblr and are not legally prohibited from using the Services.
 
 You have to be the Minimum Age to use Tumblr. We're serious: it's a hard rule. “But I’m, like, almost old enough!” you plead. Nope, sorry. If you're not old enough, don't use Tumblr. Ask your parents for a Playstation 4, or try books.
 
@@ -154,10 +154,12 @@ Some Paid Services on Tumblr automatically renew as recurring subscriptions (“
 
 **If you enrolled through the Tumblr Site, you can modify your payment method or cancel your Subscriptions at: [www.tumblr.com/settings/subscriptions](https://www.tumblr.com/settings/subscriptions). If you enrolled using an in-app payment platform, such as through an Apple or Android device, you must modify your payment method or cancel your Subscriptions directly with that platform.**
 
-12\. Special Provisions for Post+
----------------------------------
+12\. Special Provisions for Post+ and Tipping
+---------------------------------------------
 
-Our Services may enable certain Users (“**Creators**”) to make certain User Content available only to others who have enrolled in a Subscription to view it (“**+Post Content**”). For more information, please see our [FAQs](https://tumblr.zendesk.com/hc/articles/4402757539607).
+Our Services may enable certain Users (“**Creators**”) to make certain User Content available only to others who have enrolled in a Subscription to view it (“**+Post Content**”), and our Services may enable Users to pay tips to other Users (“**Tipping Feature**”) with respect to User Content. For more information, please see our [Post+ FAQs](https://tumblr.zendesk.com/hc/articles/4402757539607). For more information about Tipping, please see our [Tipping FAQs](https://tumblr.zendesk.com/hc/articles/4417356885527).
+
+Users that are Creators or that utilize a Subscription to +Post Content or the Tipping Feature must not use the Services to deceive others into sending money via scam tactics, phishing, or other such methods.
 
 **Terms for Subscribers:**
 
@@ -167,28 +169,38 @@ You assume all risks with the Subscription, including that the +Post Content wil
 
 Finally, while you can share a teaser of +Post Content through the reblog function on the Services, you cannot otherwise share +Post Content, such as by screenshotting or otherwise creating or distributing any copies, and you cannot resell, rent, or otherwise charge any other person for access to the +Post Content.
 
-**Creating and Maintaining a Creator Account:**
+**Terms for Tippers:**
 
-In order to be eligible to be a Creator, you must at a minimum:
+Users who pay tips via the Tipping Feature (“**Tippers**”) are paying the tip recipient (“**Tippee**”) as a way to show support for the User Content made available by the Tippee. As a Tipper, you acknowledge that tips are entirely voluntary and optional, that you may not receive anything in return, and that the tips you give could be sent to someone or used for a purpose that you may not expect. We will not resolve disputes that arise between users regarding the Tipping Feature. It is important to understand that giving tips does not grant you any additional rights, nor does it entitle you to any privileges with respect to any User Content or any Tippee. You must not give tips in exchange for — or to promote or encourage — content that is against our [Community Guidelines](https://www.tumblr.com/policy/en/community), or that is otherwise illegal, abusive toward others, hateful, or that could result in self-harm.
+
+You assume all risks with the Tipping Feature, including that the User Content will not remain available or that the Tippee or User Content may not live up to your expectations. While we require the Tippee to be responsible, we are not responsible for their behavior. For this reason, you should only use the Tipping Feature with Tippees you trust. Views expressed by Tippees are their own and do not necessarily represent ours.
+
+Note that payment processing and platform fees will be assessed on tips in accordance with the fee breakdown available [here](https://tumblr.zendesk.com/hc/articles/4418113451671).
+
+**Creating and Maintaining a Creator or Tippee Account:**
+
+In order to be eligible to be a Creator or Tippee, you must at a minimum:
 
 *   Be a resident and located in an [eligible country](https://tumblr.zendesk.com/hc/articles/4402757539607#eligible-creators);
-*   Successfully create a merchant account with Stripe Inc. (your "**Merchant Account**") and provide accurate information in connection with your Merchant Account. By setting up a Merchant Account, you agree to be bound by the [Stripe terms and conditions](https://stripe.com/connect-account/legal) and are entering into an agreement directly with Stripe Inc.; and
-*   Meet any additional Creator eligibility requirements set by Tumblr.
+*   Successfully create a Stripe Express Connect Account with Stripe Inc., that you agree will be connected to your Tumblr account (your "**Connected Account**") and provide accurate information in connection with your Connected Account. By setting up a Connected Account, you agree to be bound by the [Stripe terms and conditions](https://stripe.com/connect-account/legal) and are entering into an agreement directly with Stripe Inc.; and
+*   Meet any additional Creator/Tippee eligibility requirements set by Tumblr, including being at least eighteen (18) years of age to send or receive funds via the Tipping Feature.
 
 You may deactivate your entire Tumblr account or a +Post Subscription offering at any time. However, your +Post Content will remain available to your Subscribers until the end of their Subscription Period (unless removed for a violation). Reblogged +Post teaser content may still be publicly available following deactivation of your Subscription offering, but Users will not be able to view your actual +Post Content through the Services unless you reactivate the Subscription offering.
 
-**Creator Conduct Requirements:**
+Tumblr will not be liable for any tips that you may or may not receive, including if Tumblr suspends your account or prevents you from soliciting or accepting tips.
 
-*   Don’t violate laws or the rights of others: As a reminder, you and your +Post Content must meet all requirements under this Agreement and our Community Guidelines. For instance, your +Post Content may not violate any laws, including laws that protect the intellectual property rights of others. We reserve the right to suspend, delete, or terminate your Account, your participation in Post+, and/or your +Post Content at any time, including in cases where we believe you have violated this Agreement, our Community Guidelines, or abused Post+. You are responsible for all activity on your Account, even if someone else uses your Account.
-*   Be honest: You must act in a fair and truthful manner in your dealings with Tumblr and Subscribers, including providing an accurate description of your +Post Content, and delivering content as described.
-*   Address issues with Subscribers: You are solely responsible for resolving any disputes with your Subscribers, including regarding your performance or the quality of your +Post Content. You are responsible for all refunds owed to Subscribers, including as a result of chargebacks initiated by Subscribers or as initiated by Tumblr. You authorize any such refunded amounts to be paid out of any outstanding balance in your Merchant Account or to be offset against proceeds from your +Post Content subscriptions. Tumblr reserves the right to holdback payment amounts and/or initiate refunds to Subscribers if it believes that refunds are appropriate.
-*   Don’t forget taxes: You are responsible for all income reporting and tax withholding requirements related to your Merchant Accounts. Tumblr may, but is not obligated to, deduct applicable tax from any payments made for your +Post Content to the extent it is required by applicable laws.
+**Creator and Tippee Conduct Requirements:**
 
-**Creator Payouts:**
+*   Don’t violate laws or the rights of others: As a reminder, you and your +Post Content must meet all requirements under this Agreement and our Community Guidelines. For instance, your +Post Content may not violate any laws, including laws that protect the intellectual property rights of others. In addition, if you are receiving funds on behalf of someone else, you are responsible for complying with all applicable laws. We reserve the right to suspend, delete, or terminate your Account, your participation in Post+ or the Tipping Feature, and/or your +Post Content at any time, including in cases where we believe you have violated this Agreement, our Community Guidelines, or abused Post+ or the Tipping Feature. You are responsible for all activity on your Account, even if someone else uses your Account.
+*   Be honest: You must act in a fair and truthful manner in your dealings with Tumblr and Subscribers and Tippers, including providing an accurate description of your +Post Content, and delivering content as described. You may not use our Services to deceive others into sending you tips via scam tactics, phishing, or other such methods.
+*   Address issues with Subscribers and Tippers: You are solely responsible for resolving any disputes with your Subscribers or Tippers, including regarding your performance or the quality of your +Post Content. You are responsible for all refunds owed to Subscribers and Tippers, including as a result of chargebacks initiated by Subscribers/Tippers or as initiated by Tumblr. You authorize any such refunded amounts to be paid out of any outstanding balance in your Merchant Account or to be offset against proceeds from your +Post Content subscriptions or from your tips. Tumblr reserves the right to holdback payment amounts and/or initiate refunds to Subscribers/Tippers if it believes that refunds are appropriate.
+*   Don’t forget taxes: You are responsible for all income reporting and tax withholding requirements related to your Connected Accounts. Tumblr may, but is not obligated to, deduct applicable tax from any payments made for your +Post Content or tips to the extent it is required by applicable laws.
 
-Payouts are calculated by totaling the amounts paid by your Subscribers for your +Post Content and subtracting Tumblr platform fees, payment processor fees, refunds/chargebacks, and related fees/withholdings. Payment processor fee rates and timing will depend on the payment option a Subscriber uses to subscribe (i.e., Stripe, Apple, Google, etc.). More information on payout fees can be found [here](https://tumblr.zendesk.com/hc/articles/4402764366615#fees).
+**Creator and Tippee Payouts:**
 
-You are responsible for providing accurate information, including as may be needed to facilitate payment to you. Payouts are calculated solely based on records maintained by or on behalf of Tumblr (or the relevant payment processor). Tumblr reserves the right to modify the payout method at any time in its sole discretion. In addition, Tumblr reserves the right to withhold, offset, or charge back your Merchant Account due to refunds, fraud, abuse, a violation of this Agreement, or to mitigate the risk of such. You agree that we will not be liable for any amounts not earned due to the Services not being available, including Site maintenance or our suspension, deletion, or termination of your Account, +Post Subscription offering, or related +Post Content.
+Payouts for +Post Content and the Tipping Feature are calculated by totaling the amounts paid by your Subscribers for your +Post Content and/or the amounts paid by your Tippers and subtracting Tumblr platform fees, payment processor fees, refunds/chargebacks, and related fees/withholdings. Payment processor fee rates and timing will depend on the payment option used by each Subscriber or Tipper, as applicable (i.e., Stripe, Apple, Google, etc.). More information on payout fees can be found [here](https://tumblr.zendesk.com/hc/articles/4418113451671).
+
+You are responsible for providing accurate information, including as may be needed to facilitate payment to you. Payouts are calculated solely based on records maintained by or on behalf of Tumblr (or the relevant payment processor). Tumblr reserves the right to modify the payout method at any time in its sole discretion. In addition, Tumblr reserves the right to withhold, offset, or charge back your Merchant Account due to refunds, fraud, abuse, a violation of this Agreement, or to mitigate the risk of such. You agree that we will not be liable for any amounts not earned due to the Services not being available, including Site maintenance or our suspension, deletion, or termination of your Account, +Post Subscription offering, the Tipping Feature, or related +Post Content.
 
 Payouts will be determined by Tumblr, in its sole discretion, and such determination is final and binding. If you dispute any payout made, you must notify Tumblr within thirty (30) days of any such payout by providing us a detailed description of your dispute to www.tumblr.com/support. You agree that failure to do so shall result in your waiver of any claim relating to such disputed payment. Tumblr in no way waives its absolute right to make a final determination of the payout you are owed.
 
