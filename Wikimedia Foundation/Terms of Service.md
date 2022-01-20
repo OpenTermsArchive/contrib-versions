@@ -5,8 +5,6 @@ From the Wikimedia Foundation Governance Wiki
 
 < [Terms of Use](https://foundation.wikimedia.org/wiki/Terms_of_Use "Terms of Use")(Redirected from [Terms of Use](https://foundation.wikimedia.org/w/index.php?title=Terms_of_Use&redirect=no "Terms of Use"))
 
-[Jump to navigation](#mw-head) [Jump to search](#searchInput)
-
   
 
   
