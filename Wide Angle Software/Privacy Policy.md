@@ -13,9 +13,11 @@ In this Policy the following terms shall have the following meanings:
   
 *   **“Cookie”** - means a small text file placed on your computer by this Website when you visit certain parts of the Website and/or when you use certain features of the Website. Details of the cookies used by this Website are set out in Clause 13;
   
-*   **“Wide Angle Software"** - means Wide Angle Software of St. John's House Weston Road, Stafford, UK;
+*   **“Wide Angle Software”** - means Wide Angle Software of St. John's House Weston Road, Stafford, UK;
   
-*   **“UK and EU Cookie Law”** - means the Privacy and Electronic Communications (EC Directive) Regulations 2003 as amended by the Privacy and Electronic Communications (EC Directive) (Amendment) Regulations 2011;
+*   **“GDPR”** means the General Data Protection Regulation (EU) 2016/679;
+  
+*   **“UK and EU Cookie Law”** - means the Privacy and Electronic Communications (EC Directive) Regulations 2003 as amended by the Privacy and Electronic Communications (EC Directive) (Amendment) Regulations 2011 & the Privacy and Electronic Communications (EC Directive) (Amendment) Regulations 2018;
   
 *   **“User”** - means any third party that accesses the Website and is not employed by Wide Angle Software and acting in the course of their employment;
   
