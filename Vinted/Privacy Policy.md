@@ -1,7 +1,7 @@
 Vinted Privacy Policy
 =====================
 
-Date last updated: 01-05-2022
+Date last updated: 01-21-2022
 
 When it comes to your personal data, safety and transparency take top priority here at Vinted. To help you understand what information we collect about you, how we use it and what rights you have, we’ve prepared this detailed Privacy Policy.
 
