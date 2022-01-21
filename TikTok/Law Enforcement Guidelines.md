@@ -27,7 +27,7 @@ First, requests must be addressed to the correct TikTok entity. This is based on
 
 Please note that requests addressed to the incorrect TikTok entity may not be processed until this error has been rectified, which may cause unnecessary delay.
 
-Second, requests must be submitted by email to: [lert@tiktok.com](https://www.tiktok.com/legal/lert@tiktok.com) with any attachments (e.g. official warrant, court order or other documentation supporting the request) in PDF format.
+Second, requests must be submitted _through the_ [TikTok Law Enforcement Request Form](https://www.tiktok.com/legal/report/EDR?lang=en) with any attachments (for example, official warrant, court order, or other documentation supporting the request) in PDF format.
 
 Any confirmation of receipt of correspondence is for convenience only and, in doing so, TikTok does not waive any right of objection (including for lack of jurisdiction, invalid legal process or lack of proper service). All requests to TikTok and any supporting documents (including orders, warrants, and/or subpoenas or equivalent) must be provided in English or with a translation. TikTok will not respond to requests for user data sent by non-law enforcement officials or when they are sent through informal channels.
 
@@ -85,7 +85,7 @@ It is our policy to notify TikTok users before disclosing their data to law enfo
 5\. Preservation Requests
 -------------------------
 
-TikTok will honour formal requests to preserve user data for 90 days. Please send all preservation requests via email to [lert@tiktok.com](https://www.tiktok.com/legal/lert@tiktok.com) with the subject line clearly labelled: “_Preservation Request_”.
+TikTok will honor formal requests to preserve user data for 90 days. Please submit all preservation requests _through the_ [TikTok Law Enforcement Request Form](https://www.tiktok.com/legal/report/EDR?lang=en) and select “_Preservation Request_” as the request type.
 
 Preservation requests must be sent on law enforcement letterhead, signed, and must clearly identify the specific user data to be preserved (by reference to username, the data type and date ranges as per Section 3 above). TikTok will preserve information for an additional 90-day period upon receipt of a formal request to extend the preservation. We may not honour multiple extension requests beyond one additional 90-day period. If TikTok does not receive formal legal process for the preserved information before the end of the preservation period, the preserved information may be deleted when the preservation period expires.
 
@@ -96,9 +96,7 @@ Overly broad or unspecific preservation requests will not be actioned. To seek d
 
 TikTok has processes in place to handle emergency requests. Such requests are evaluated on a case-by-case basis: if as part of an emergency request we receive information that is sufficient in our assessment to establish a good faith belief that there is an emergency involving imminent harm or the risk of death or serious physical injury to a person, we may provide user data necessary to prevent that harm, as permitted by applicable law.
 
-**_To request this data, you may submit your request through the_** [Emergency Disclosure Request Form](https://www.tiktok.com/legal/report/EDR)**_._**
-
-You may also submit an emergency request by email to [lert@tiktok.com](https://www.tiktok.com/legal/lert@tiktok.com): we request that the subject line is clearly labelled “_Emergency Disclosure Request_”, and it should include all of the following information:
+**_To request this data, you must submit your request through the_** [TikTok Law Enforcement Request Form](https://www.tiktok.com/legal/report/EDR?lang=en). _a_nd select “_Emergency Disclosure Request_” as the request type. It should include all of the following information:
 
 *   Identify the person who is in danger of death or serious physical injury, or who is at risk of imminent harm;
 
