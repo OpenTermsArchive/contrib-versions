@@ -27,7 +27,7 @@ First, requests must be addressed to the correct TikTok entity. This is based on
 
 Please note that requests addressed to the incorrect TikTok entity may not be processed until this error has been rectified, which may cause unnecessary delay.
 
-Second, requests must be submitted _through the_ [TikTok Law Enforcement Request Form](https://www.tiktok.com/legal/report/EDR?lang=en) with any attachments (for example, official warrant, court order, or other documentation supporting the request) in PDF format.
+Second, requests must be submitted to: [lert@tiktok.com](mailto:lert@tiktok.com) with any attachments (for example, official warrant, court order, or other documentation supporting the request) in PDF format.
 
 Any confirmation of receipt of correspondence is for convenience only and, in doing so, TikTok does not waive any right of objection (including for lack of jurisdiction, invalid legal process or lack of proper service). All requests to TikTok and any supporting documents (including orders, warrants, and/or subpoenas or equivalent) must be provided in English or with a translation. TikTok will not respond to requests for user data sent by non-law enforcement officials or when they are sent through informal channels.
 
@@ -85,7 +85,7 @@ It is our policy to notify TikTok users before disclosing their data to law enfo
 5\. Preservation Requests
 -------------------------
 
-TikTok will honor formal requests to preserve user data for 90 days. Please submit all preservation requests _through the_ [TikTok Law Enforcement Request Form](https://www.tiktok.com/legal/report/EDR?lang=en) and select “_Preservation Request_” as the request type.
+TikTok will honor formal requests to preserve user data for 90 days. Please submit all preservation requests to: [lert@tiktok.com](mailto:lert@tiktok.com) with the subject line clearly labeled: "Preservation Request".
 
 Preservation requests must be sent on law enforcement letterhead, signed, and must clearly identify the specific user data to be preserved (by reference to username, the data type and date ranges as per Section 3 above). TikTok will preserve information for an additional 90-day period upon receipt of a formal request to extend the preservation. We may not honour multiple extension requests beyond one additional 90-day period. If TikTok does not receive formal legal process for the preserved information before the end of the preservation period, the preserved information may be deleted when the preservation period expires.
 
@@ -96,7 +96,9 @@ Overly broad or unspecific preservation requests will not be actioned. To seek d
 
 TikTok has processes in place to handle emergency requests. Such requests are evaluated on a case-by-case basis: if as part of an emergency request we receive information that is sufficient in our assessment to establish a good faith belief that there is an emergency involving imminent harm or the risk of death or serious physical injury to a person, we may provide user data necessary to prevent that harm, as permitted by applicable law.
 
-**_To request this data, you must submit your request through the_** [TikTok Law Enforcement Request Form](https://www.tiktok.com/legal/report/EDR?lang=en). _a_nd select “_Emergency Disclosure Request_” as the request type. It should include all of the following information:
+**_To request this data, you must submit your request through the_** [Emergency Disclosure Request Form](https://www.tiktok.com/legal/report/EDR)**_._**
+
+You may also submit an emergency request by email to: [lert@tiktok.com](mailto:lert@tiktok.com). We request that all subject line is clearly labeled: "Emergency Disclosure Request", and it should include all the following information:
 
 *   Identify the person who is in danger of death or serious physical injury, or who is at risk of imminent harm;
 
@@ -206,7 +208,7 @@ Non-law enforcement requests should be directed as follows:
 *   **Report Content**: Details of how to report various types of content that may be in breach of TikTok’s Community Guidelines are available [here](https://support.tiktok.com/en/safety-hc/report-a-problem).
 
 *   **Report IP infringement**: Reports of alleged copyright or trademark infringement should be made in accordance with TikTok’s [Intellectual Property Policy](https://www.tiktok.com/legal/copyright-policy) and can be filed as a [Copyright Infringement Report](https://www.tiktok.com/legal/report/Copyright) or as a [Trademark Infringement Report](https://www.tiktok.com/legal/report/Trademark).
-*   **Civil law matters**: A copy of any civil law matters (including those related to litigation or other proceedings) should be sent to [lert@tiktok.com](https://www.tiktok.com/legal/lert@tiktok.com) with the subject line clearly labelled as “Civil Law Proceedings” and with the relevant parties named. However, any receipt of correspondence by email is for convenience only and, in doing so, TikTok does not waive any rights of objection including for lack of jurisdiction, invalid legal process or lack of proper service under applicable laws.
+*   **Civil law matters**: A copy of any civil law matters (including those related to litigation or other proceedings) should be sent to [legal@tiktok.com](mailto:legal@tiktok.com) with the subject line clearly labelled as “Civil Law Proceedings” and with the relevant parties named. However, any receipt of correspondence by email is for convenience only and, in doing so, TikTok does not waive any rights of objection including for lack of jurisdiction, invalid legal process or lack of proper service under applicable laws.
 
 ### **Q: How quickly does TikTok process requests?**
 
