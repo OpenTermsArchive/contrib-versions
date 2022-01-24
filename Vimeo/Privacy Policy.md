@@ -1,7 +1,7 @@
 **Vimeo Privacy Policy**
 ========================
 
-Last Updated: October 28, 2021
+Last Updated: January 20, 2021
 
 This Privacy Policy explains the information that Vimeo collects when you use its products and services, how that information is used, with whom it may be shared, and your privacy choices.
 
@@ -192,10 +192,11 @@ Some of our subscription plans enable you to grant account-level access rights t
 
 We enable you to manage the privacy settings of your videos. On Vimeo.com, for example, your options, which depend on your subscription plan, may include:
 
-*   **Public (or "anyone"):** Your video will be publicly-available.
-*   **Just you (i.e., "only me"):** Your video will be available to you and authorized Team Members.
-*   **Selected people:** Your video will be available to users you select (such as users you follow or specifically-designated users).
-*   **Password-protected:** Your video may be accessed by anyone who enters the password you have set.
+*   **Public:** Your video will be publicly-available.
+*   **Private:** Your video will be available to you and authorized Team Members.
+*   **Unlisted:** Your video will be available to anyone who has the unique URL.
+*   **Password:** Your video may be accessed by anyone who enters the password you have set.
+*   **Hide from Vimeo:** Your video will be private, but embeddable anywhere. 
 
 You may change a video's privacy settings at any time. Changes will be applied on a go-forward basis. 
 
