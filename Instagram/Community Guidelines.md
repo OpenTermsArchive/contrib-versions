@@ -20,13 +20,13 @@ We created the Community Guidelines so you can help us foster and protect this a
 
 In some cases, we allow content for public awareness which would otherwise go against our Community Guidelines – if it is newsworthy and in the public interest. We only do this after weighing the public interest value against the risk of harm and we look to international human rights standards to make these judgments.
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/Gfv6WsB4dT4.png)
 
 Share only photos and videos that you've taken or have the right to share.
 
 As always, you own the content that you post on Instagram. Remember to post authentic content, and don't post anything that you've copied or collected from the Internet that you don't have the right to post. Learn more about intellectual property rights.
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/Gfv6WsB4dT4.png)
 
 Post photos and videos that are appropriate for a diverse audience.
 
@@ -34,7 +34,7 @@ We know that there are times when people might want to share nude images that ar
 
 People like to share photos or videos of their children. For safety reasons, there are times when we may remove images that show nude or partially nude children. Even when this content is shared with good intentions, it could be used by others in unanticipated ways. You can learn more on our Tips for parents page.
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/Gfv6WsB4dT4.png)
 
 Foster meaningful and genuine interactions.
 
@@ -42,7 +42,7 @@ Help us stay spam-free by not artificially collecting likes, followers or shares
 
 You don't have to use your real name on Instagram, but we do require Instagram users to provide us with accurate and up-to-date information. Don't impersonate others and don't create accounts for the purpose of violating our guidelines or misleading others.
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/Gfv6WsB4dT4.png)
 
 Follow the law.
 
@@ -52,7 +52,7 @@ Remember to always follow the law when offering to sell or buy other regulated g
 
 We have zero tolerance when it comes to sharing sexual content involving minors or threatening to post intimate images of others.
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/Gfv6WsB4dT4.png)
 
 Respect other members of the Instagram community.
 
@@ -62,7 +62,7 @@ It's never OK to encourage violence or attack anyone based on their race, ethnic
 
 Serious threats of harm to public and personal safety aren't allowed. This includes specific threats of physical harm as well as threats of theft, vandalism and other financial harm. We carefully review reports of threats and consider many things when determining whether a threat is credible.
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/Gfv6WsB4dT4.png)
 
 Maintain our supportive environment by not glorifying self-injury.
 
@@ -70,7 +70,7 @@ The Instagram community cares for each other, and is often a place where people 
 
 Encouraging or urging people to embrace self-injury is counter to this environment of support, and we'll remove it or disable accounts if it's reported to us. We may also remove content identifying victims or survivors of self-injury if the content targets them for attack or humour.
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/Gfv6WsB4dT4.png)
 
 Be thoughtful when posting newsworthy events.
 
@@ -80,19 +80,19 @@ We understand that people often share this kind of content to condemn, raise awa
 
 Help us keep the community strong:
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/Gfv6WsB4dT4.png)
 
 Each of us is an important part of the Instagram community. If you see something that you think may violate our guidelines, please help us by using our built-in reporting option. We have a global team that reviews these reports and works as quickly as possible to remove content that doesn't meet our guidelines. Even if you or someone you know doesn't have an Instagram account, you can still file a report. When you complete the report, try to provide as much information as possible, such as links, usernames and descriptions of the content, so we can find and review it quickly. We may remove entire posts if either the imagery or associated captions violate our guidelines.
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/Gfv6WsB4dT4.png)
 
 You may find content that you don't like, but doesn't violate the Community Guidelines. If that happens, you can unfollow or block the person who posted it. If there's something that you don't like in a comment on one of your posts, you can delete that comment.
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/Gfv6WsB4dT4.png)
 
 Many disputes and misunderstandings can be resolved directly between members of the community. If one of your photos or videos was posted by someone else, you could try commenting on the post and asking the person to take it down. If that doesn't work, you can file a copyright report. If you believe that someone is violating your trademark, you can file a trademark report. Don't target the person who posted it by posting screenshots and drawing attention to the situation because that may be classified as harassment.
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/mtULD14k7ag.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/Gfv6WsB4dT4.png)
 
 We may work with law enforcement, including when we believe that there's risk of physical harm or threat to public safety.
 
@@ -114,13 +114,13 @@ Can you say more?
 
 Bear in mind that this form is for feedback only and you won't receive a reply. Please don't include personal information about you or someone else. Learn more about how to report something to Instagram.
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yR/r/vv65l2ivilT.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/y8/r/0whwgFLaZ-v.png)
 
 Thanks
 
 Your feedback helps improve this answer for everyone.
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/y6/r/afC97ryAiej.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/y6/r/YXE7Jq8UHjN.png)
 
 Yes
 
@@ -138,7 +138,7 @@ Other
 
 Submit
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yL/r/Ei28SVQXqHE.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yu/r/N0alE8krNuM.png)
 
 Related articles
 
@@ -149,7 +149,7 @@ Related articles
 
 What is Account Status on Instagram?
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yP/r/6vwLLmakTYZ.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yM/r/5Rp9sHgmsb1.png)
 
 
 
@@ -161,7 +161,7 @@ What is Account Status on Instagram?
 
 Troubleshoot boosting Instagram stories
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yP/r/6vwLLmakTYZ.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yM/r/5Rp9sHgmsb1.png)
 
 
 
@@ -173,7 +173,7 @@ Troubleshoot boosting Instagram stories
 
 How do I learn more about wildlife exploitation?
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yP/r/6vwLLmakTYZ.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yM/r/5Rp9sHgmsb1.png)
 
 
 
@@ -185,7 +185,7 @@ How do I learn more about wildlife exploitation?
 
 About community content for Instagram Shopping
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yP/r/6vwLLmakTYZ.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yM/r/5Rp9sHgmsb1.png)
 
 
 
@@ -197,7 +197,7 @@ About community content for Instagram Shopping
 
 Troubleshoot community content requests
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yP/r/6vwLLmakTYZ.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yM/r/5Rp9sHgmsb1.png)
 
 
 
@@ -209,7 +209,7 @@ Troubleshoot community content requests
 
 Commerce eligibility requirements
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yP/r/6vwLLmakTYZ.png)
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yM/r/5Rp9sHgmsb1.png)
 
 
 
