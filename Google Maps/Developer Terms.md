@@ -61,6 +61,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   Government of Western Australia [wa.gov.au](https://www.wa.gov.au/) ([https://creativecommons.org/licenses/by/3.0/au/legalcode](https://creativecommons.org/licenses/by/3.0/au/legalcode))
             
+        *   Australian Bureau of Statistics [(https://www.abs.gov.au/website-privacy-copyright-and-disclaimer#copyright-and-creative-commons)](https://www.abs.gov.au/website-privacy-copyright-and-disclaimer#copyright-and-creative-commons)
+            
     3.  **Austria**
         *   BEV - BA fuer Eich und Vermessungswesen (Geocodes) © Österreichisches Adressregister, 2009. You are not permitted, at any one time, to use Austrian Postal Data to provide, display or provide access to mass downloads or bulk feeds of numerical latitude and longitude coordinates.
             
@@ -90,6 +92,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         *   City of Antwerp ([https://www.antwerpen.be/nl/overzicht/open-data/over-opendata/gratis-open-data-licentie](https://www.antwerpen.be/nl/overzicht/open-data/over-opendata/gratis-open-data-licentie))
             
         *   lez.brussels ([https://financien.belgium.be/sites/default/files/Licence\_plan\_opendata\_FR.PDF](https://financien.belgium.be/sites/default/files/Licence_plan_opendata_FR.PDF))
+            
+        *   Open Data Brussels ([https://www.etalab.gouv.fr/wp-content/uploads/2014/05/Licence\_Ouverte.pdf](https://www.etalab.gouv.fr/wp-content/uploads/2014/05/Licence_Ouverte.pdf))
             
     5.  **Brazil**
         *   FUNAI (Fundação Nacional do Índio)
@@ -356,6 +360,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         *   Geoportal Berlin / Umweltzone
             
         *   Hannover.de ([CC-BY-4.0 - Geoinformation - LH Hannover](https://creativecommons.org/licenses/by/4.0/deed.de))
+            
+        *   Stadt Mülheim an der Ruhr ([https://geo.muelheim-ruhr.de/open-data/nutzungsbedingungen/14043](https://geo.muelheim-ruhr.de/open-data/nutzungsbedingungen/14043))
             
     11.  **Great Britain**
         *   This Service contains Ordnance Survey data © Crown copyright and database right 2011, Royal Mail data © Royal Mail copyright and database right 2011, and National Statistics data © Crown copyright and database right 2011 ([https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf](https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf)). All rights reserved. © South West Coast Path Team. Contains information of Network Rail Infrastructure Limited licensed under the following [licence](https://www.networkrail.co.uk/terms-and-conditions/). Contains public sector information licensed under the [Open Government Licence v2.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/). Contains public sector information licensed under the Open Government Licence v3.0.
@@ -710,6 +716,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         *   Comunidad Autónoma de País Vasco ([https://creativecommons.org/licenses/by/4.0/deed.es\_ES](https://creativecommons.org/licenses/by/4.0/deed.es_ES))
             
         *   Ayuntamiento de Sant Feliu de Llobregat ([https://creativecommons.org/licenses/by/4.0/deed.ca](https://creativecommons.org/licenses/by/4.0/deed.ca))
+            
+        *   Ayuntamiento de Santa Cruz de Tenerife ([https://creativecommons.org/licenses/by/4.0/deed.es\_ES](https://creativecommons.org/licenses/by/4.0/deed.es_ES))
             
     37.  **Sweden**
         *   © 2009 Cartesia GIS AB
@@ -1176,6 +1184,18 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
     48.  **Zambia**
         
         OCHA Regional Office for Southern and Eastern Africa (ROSEA) ([https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses))
+        
+    49.  **Mali**
+        
+        OCHA Mali ([https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses))
+        
+    50.  **Madagascar**
+        
+        OCHA FIS ([https://data.humdata.org/about/license](https://data.humdata.org/about/license))
+        
+    51.  **Papua New Guinea**
+        
+        WFP - World Food Programme ([https://creativecommons.org/licenses/by/4.0/legalcode](https://creativecommons.org/licenses/by/4.0/legalcode))
         
 4.  **Business Listings Data.**
     
