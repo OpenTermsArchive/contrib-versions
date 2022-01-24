@@ -1,6 +1,6 @@
 Binance Terms of Use
 
-Last revised: 17 January 2022
+Last revised: 24 January 2022
 
 These Binance Terms of Use is entered into between you (hereinafter referred to as “you” or “your”) and Binance operators (as defined below). By accessing, downloading, using or clicking on “I agree” to accept any Binance Services (as defined below) provided by Binance (as defined below), you agree that you have read, understood and accepted all of the terms and conditions stipulated in these Terms of Use (hereinafter referred to as “these Terms”) as well as our Privacy Policy at [www.binance.com/en/privacy](https://www.binance.com/en/privacy). In addition, when using some features of the Services, you may be subject to specific additional terms and conditions applicable to those features.
 
@@ -97,37 +97,6 @@ By creating a Binance Account, you hereby agree that:
 2.  you will strictly abide by all mechanisms or procedures of Binance regarding security, authentication, trading, charging, and withdrawal; and
     
 3.  you will take appropriate steps to logout from Binance at the end of each visit.
-    
-
-**f. Personal Data**
-
-Your personal data will be properly protected and kept confidential, but Binance has the right to collect, process, use or disclose your personal data in accordance with the Terms (including the Privacy Policy) or applicable laws. Depending on the products or services concerned, your personal data may be disclosed to the following third parties:
-
-1.  your transaction counterparty;
-    
-2.  Binance Operators, and the shareholders, partners, investors, directors, supervisors, senior managers and employees of such entities;
-    
-3.  our joint ventures, alliance partners and business partners;
-    
-4.  our agents, contractors, suppliers, third-party service providers and professional advisers, including the parties who have been contracted to provide us with administrative, financial, research, operations, IT and other services, in such areas as telecommunications, information technology, payroll, information processing, training, market research, storage and archival;
-    
-5.  third-party business partners who provide goods and services or sponsor contests or other promotional activities, whether or not in cooperation with us;
-    
-6.  insurance companies or insurance investigators and credit providers;
-    
-7.  credit bureaus, or any debt collection agencies or dispute resolution centers in the event of violation or dispute;
-    
-8.  business partners, investors, trustees or assignees (actual or expected) that promote business asset transactions (which can be broadened to include any merger, acquisition or asset sale) of Binance Operators;
-    
-9.  professional consultants such as auditors and lawyers;
-    
-10.  relevant government regulatory agencies or law enforcement agencies to comply with laws or regulations formulated by government authorities;
-    
-11.  assignees of our rights and obligations;
-    
-12.  banks, credit card companies and their respective service providers;
-    
-13.  persons with your consent as determined by you or the applicable contract.
     
 
 ### III. Binance Services
