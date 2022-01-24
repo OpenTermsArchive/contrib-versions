@@ -47,7 +47,7 @@ You are permitted to perform benchmark tests of our Services. If you disclose re
 
 ### 2.3 Credentials
 
-You are responsible for maintaining the confidentiality of all usernames, passwords, and other access credentials (such as API tokens and OAuth credentials) created by or assigned to you (“Credentials”) and are solely responsible for all activities that occur with such Credentials.
+You are responsible for maintaining the confidentiality of all usernames, passwords, and other access credentials (such as API tokens and OAuth credentials) created by or assigned to you (���Credentials”) and are solely responsible for all activities that occur with such Credentials.
 
 If you permit third parties to access your Cloudflare account (e.g., by providing your API token or using OAuth), you do so at your sole risk and Cloudflare will not be directly or indirectly responsible or liable to you in any manner, for any harms, damages, loss, lost profits, special or consequential damages, or claims, arising out of or in connection with such permission. You acknowledge that by permitting a third party to access your Cloudflare account, the third party may obtain, modify, or delete your account data and settings.
 
