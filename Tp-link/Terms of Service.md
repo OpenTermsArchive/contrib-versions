@@ -23,6 +23,8 @@ These are the rules and restrictions that govern your use of our Products and Se
 
 These Terms of Use (the "Terms") are a binding contract between you and TP-Link (the “Agreement”). If you do not agree to and accept all of the Terms, you do not have the right to use the Services and should cease using them immediately. By using the Services in any way, you agree to the Terms. The terms shall remain in effect as long as you use the Services. The Terms also include TP-Link’s Privacy Policy.
 
+Other brand or trade names mentioned herein are reasonably necessary to identify the product or service only.
+
 ### **Modifications to Terms**
 
 Please note that these Terms may be revised and reissued, prospectively, by posting updated terms on this website ([https://www.tp-link.com](https://www.tp-link.com/)). You consent and agree to receive notices of updates of these Terms through our posting of updated Terms on this website. You should visit this page regularly to review the current terms. TP-Link may provide notifications to you as required by law or for marketing or other purposes via email (to the email address you provide our Services), or by posting of such notice on the Site(s). TP-Link is not responsible for any automatic filtering you or your network provider may apply to email notifications. TP-Link recommends that you add @tp-link.com URLs to your email address book to help ensure you receive email notifications from TP-Link. Your continued use of the Services will be deemed as irrevocable acceptance of any updates to these Terms.
