@@ -332,18 +332,17 @@ However, if the business is an authorised and fully dedicated seller of the bran
 
 #### Rebranding
 
-Your business may be eligible for rebranding if:
+Your business profile may be eligible for rebranding (defined as an eligible name change without creating a new business profile) if you make a minor name change, in which the proper nouns and services described in the business name remain unchanged and the business category remains unchanged.
 
-*   You make a minor name change
-*   You have multiple locations and the business name changes
+You may also be eligible for rebranding if you have multiple locations and the business name changes.
 
-If your business meets the rebranding criteria above, you can update your business name when you edit your business information. [Learn how to use the Business Profile API](https://support.google.com/business/answer/4577733).
+If your business meets the rebranding criteria above, you can update your business name when you edit your business information. 
 
 If your business changes its name but doesn't meet the criteria above, then it's considered a new business. You must mark the existing Business Profile as closed and then create a new Business Profile with your new business name. [Learn how to mark a profile as closed](https://support.google.com/business/answer/6314541).
 
-**Tip:** If you assume ownership of a Business Profile, you first need to have the previous owner [add you as an owner](https://support.google.com/business/answer/3403100) and [transfer ownership to you](https://support.google.com/business/answer/3415281).
+If you encounter any issues with rebranding, [contact us](https://support.google.com/business/contactflow). 
 
-If you encounter any issues with rebranding, please [contact us](https://support.google.com/business/contactflow). 
+**Tip:** If you assume ownership of a Business Profile, you first need to have the previous owner [add you as an owner](https://support.google.com/business/answer/3403100) and [transfer ownership to you](https://support.google.com/business/answer/3415281).
 
 Departments within other businesses, universities or institutions
 
