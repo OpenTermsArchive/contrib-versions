@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-#### Last Updated: January 18, 2022
+#### Last Updated: January 24, 2022
 
 #### 1\. Universal Service Terms (Applicable to All Services)
 
@@ -63,7 +63,7 @@ If, as of the time of a change of the AWS Contracting Party responsible for your
 
 **1.17.5** You agree that by using the Currency Service, information related to your payment, including your name and address, may be used by our banking partners to process your payments in jurisdictions other than the United States.
 
-**1.18** By accessing and using AWS Content or the Services, you agree to the terms of the [Intellectual Property License](https://aws.amazon.com/legal/aws-ip-license-terms/).
+**1.18.** By accessing and using AWS Content or the Services, you agree to the terms of the [Intellectual Property License](https://aws.amazon.com/legal/aws-ip-license-terms/).
 
 #### 2\. Betas and Previews
 
@@ -767,11 +767,17 @@ Notwithstanding any other provision of the Agreement, you may incorporate into y
 
 **54.1.3**. In using the Connect PSTN Service, you will not: (a) call PSTN telephone numbers (whether singly, sequentially or automatically) to generate income for you or others as a result of placing the call, other than for your or your End Users’ individual business communications; or (b) engage in unusual calling patterns inconsistent with normal, individual use.
 
-**54.1.4.** If as a part of the Amazon Connect service, AMCS or AMCS SG provides you with an inbound calling number (whether toll-free or other), you understand and agree that you do not own the number and you do not have the right to keep that number indefinitely. AMCS and AMCS SG reserve the right to change, cancel, or move telephone numbers.
+**54.1.4.** If as a part of the Amazon Connect service, AMCS or AMCS SG provides you with an inbound calling number (whether toll or toll-free), you understand and agree that you do not own the number and you do not have the right to keep that number indefinitely subject to any number portability rights under applicable law. AMCS and AMCS SG reserve the right to change, cancel, or move telephone numbers.
 
 **54.1.5.** Your use of the Connect PSTN Service in certain countries are subject to additional [Country Specific Communications Service Terms.](https://aws.amazon.com/service-terms/country-specific-communications-service-terms/)
 
-**54.2.** Amazon Connect is not a replacement for traditional telephone services. Amazon Connect does not support or carry emergency calling to any emergency services personnel or public safety answering points (“Emergency Services”), such as 911, and may not determine the physical location of call agents and other End Users. You understand and agree that it is your responsibility to (a) make alternative arrangements for you, your call agents, and your other End Users that may use Amazon Connect to access Emergency Services and (b) inform all call agents and other End Users that may use Amazon Connect of these limitations and how they may access Emergency Services via other means, including the alternative arrangements that you have made available. Neither AWS nor its affiliates will be liable for any damages resulting from any Emergency Services call or any inability to place an Emergency Services call using Amazon Connect. You agree to indemnify and hold AWS and its affiliates harmless for any claims referring or relating to any Emergency Services call or any inability to place an Emergency Services call using Amazon Connect.
+**54.2.** Emergency calling 
+
+**54.2.1.** The Connect PSTN Service is not a replacement for traditional telephone services. Amazon Connect does not support or carry emergency calling to any emergency services personnel or public safety answering points (“Emergency Services”) outside the United States. Your call agents and other End Users that may use Amazon Connect should not make an Emergency Services call from a location outside the United States because the call will not to be routed to the call answering service for that location.
+
+**54.2.2.** Within the United States, the Connect PSTN Service supports 911 calls to Emergency Services differently than through traditional telephone services. Amazon Connect may not know the physical location of End Users and depends on End Users having access to power and the internet. As calls to Emergency Services in the United States made using the Connect PSTN Service will not automatically provide an End User’s location information, the End User must provide their emergency address information to the operator that answers the call. You and your End Users are responsible for ensuring that a valid call-back number is provided with any 911 call placed using the Connect PSTN Service. You are solely responsible for any arrangements with third parties to provide your call agents and your other End Users with access to Emergency Services, and AWS makes no representations or warranties regarding the use of any such arrangements with Amazon Connect. You agree to inform all call agents and other End Users that may use Amazon Connect that: a) the Connect PSTN Service cannot be used to make calls if the call agent or other End User experiences a power outage, cannot access the Internet, or their device has no power, (b) Emergency Services calls in the United States using the Connect PSTN Service may not be routed appropriately because Amazon Connect may not know the call agent’s or other End User’s location, and (c)  they may access Emergency Services via other means that may be available to them, including any alternative arrangements that you have made available. 
+
+**54.2.3.** Neither AWS nor its affiliates will be liable for any damages resulting from any Emergency Services call or any inability to place an Emergency Services call using Amazon Connect.  AWS disclaims all responsibility for the conduct of local emergency response centers, third parties engaged by you to facilitate emergency response location or other address updates, and all other third parties involved in the provision of Emergency Services. As permitted by applicable law, you agree to release, indemnify, and hold harmless AWS and its affiliates from and against any liability relating to: (a) any acts or omissions of such third parties or other third parties involved in the handling of or response to any emergency call, (b) your inability to use the Connect PSTN Service to contact Emergency Services due to lack of power or internet access; (c) any failure by you, your call agents or your other End Users that may use Amazon Connect to provide accurate caller location information or call back information; or (d) your failure to make additional arrangements to access Emergency Services.
 
 **54.3.** There are important service limitations with Amazon Connect. You must carefully review and comply with the applicable Documentation at all times, including limitations related to call rates and frequency, automated calling, calls to certain regions and others. If you believe you will exceed any limitations for legitimate reasons, you must contact customer service ahead of time to request applicable exceptions, which we may or may not make in our reasonable discretion. Amazon Connect does not support calls to or from facsimile machines or modems. Any caller identification service provided as a part of Amazon Connect is not guaranteed to function at all times.
 
