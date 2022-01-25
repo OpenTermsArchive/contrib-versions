@@ -513,7 +513,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   JRバスデータの内容は、株式会社交通新聞社作成のデータ令和3年 12 月分に基づいています。この時刻データを無断転載・複写や電磁媒体等に加工することを禁じます。
             
-        *   インクリメントP（株）の提供する地図データに基づいています。この地図データは世界各国の著作権法および国際的な著作権協定によって保護されています。Googleの利用規約類およびポリシーにより認められている場合を除き、当該データを無断転載／複写又は加工することを禁じます。[https://business.mapfan.com/aboutmap/](https://business.mapfan.com/aboutmap/)
+        *   ジオテクノロジーズ（株）の提供する地図データに基づいています。この地図データは世界各国の著作権法および国際的な著作権協定によって保護されています。Googleの利用規約類およびポリシーにより認められている場合を除き、当該データを無断転載／複写又は加工することを禁じます。[https://business.mapfan.com/aboutmap/](https://business.mapfan.com/aboutmap/)
             
         *   Includes expressway numbering route map data from [Ministry of Land, Infrastructure, Transport and Tourism (MLIT) website](https://www.mlit.go.jp/road/sign/numbering/en/map/index.html), licensed under CC License 4.0
             
