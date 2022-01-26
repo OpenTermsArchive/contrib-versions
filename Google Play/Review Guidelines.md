@@ -1748,6 +1748,8 @@ Network traffic from inside the instant app must be encrypted using a TLS protoc
 
 * * *
 
+Effective 20 April 2022
+
 ### **Android emoji policy**
 
 Our emoji policy is designed to promote an inclusive and consistent user experience across the Google platform. 
