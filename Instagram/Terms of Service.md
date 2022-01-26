@@ -303,7 +303,7 @@ Related articles
 
 [
 
-Can I obtain information about someone's Instagram account?
+How do I use hashtags on Instagram?
 
 ![](https://static.xx.fbcdn.net/rsrc.php/v3/yM/r/5Rp9sHgmsb1.png)
 
@@ -311,11 +311,11 @@ Can I obtain information about someone's Instagram account?
 
 
 
-](https://help.instagram.com/232762833582105/Can+I+obtain+information+about+someone%27s+Instagram+account%3F/?source_cms_id=581066165581870&helpref=related_articles)
+](https://help.instagram.com/351460621611097/How+do+I+use+hashtags+on+Instagram%3F/?source_cms_id=581066165581870&helpref=related_articles)
 
 [
 
-Commerce eligibility requirements
+Music on Instagram
 
 ![](https://static.xx.fbcdn.net/rsrc.php/v3/yM/r/5Rp9sHgmsb1.png)
 
@@ -323,11 +323,11 @@ Commerce eligibility requirements
 
 
 
-](https://help.instagram.com/1627591223954487/Commerce+eligibility+requirements/?source_cms_id=581066165581870&helpref=related_articles)
+](https://help.instagram.com/402084904469945/Music+on+Instagram/?source_cms_id=581066165581870&helpref=related_articles)
 
 [
 
-About Instagram’s Use of Black-Owned Business Identification
+How do I purchase products recommended by creators through their shops on Instagram?
 
 ![](https://static.xx.fbcdn.net/rsrc.php/v3/yM/r/5Rp9sHgmsb1.png)
 
@@ -335,11 +335,11 @@ About Instagram’s Use of Black-Owned Business Identification
 
 
 
-](https://help.instagram.com/156462086410420/About+Instagram%E2%80%99s+Use+of+Black-Owned+Business+Identification/?source_cms_id=581066165581870&helpref=related_articles)
+](https://help.instagram.com/1257033454814052/How+do+I+purchase+products+recommended+by+creators+through+their+shops+on+Instagram%3F/?source_cms_id=581066165581870&helpref=related_articles)
 
 [
 
-I think that my Instagram account has been hacked.
+How can I tell if a shop on Instagram is Black-owned?
 
 ![](https://static.xx.fbcdn.net/rsrc.php/v3/yM/r/5Rp9sHgmsb1.png)
 
@@ -347,11 +347,11 @@ I think that my Instagram account has been hacked.
 
 
 
-](https://help.instagram.com/149494825257596/I+think+that+my+Instagram+account+has+been+hacked./?source_cms_id=581066165581870&helpref=related_articles)
+](https://help.instagram.com/294844889008772/How+can+I+tell+if+a+shop+on+Instagram+is+Black-owned%3F/?source_cms_id=581066165581870&helpref=related_articles)
 
 [
 
-Troubleshoot community content requests
+How do I manage the privacy settings for apps and websites that I've logged in to or connected on Instagram?
 
 ![](https://static.xx.fbcdn.net/rsrc.php/v3/yM/r/5Rp9sHgmsb1.png)
 
@@ -359,11 +359,11 @@ Troubleshoot community content requests
 
 
 
-](https://help.instagram.com/363194868389267/Troubleshoot+community+content+requests/?source_cms_id=581066165581870&helpref=related_articles)
+](https://help.instagram.com/1144624522593085/How+do+I+manage+the+privacy+settings+for+apps+and+websites+that+I%27ve+logged+in+to+or+connected+on+Instagram%3F/?source_cms_id=581066165581870&helpref=related_articles)
 
 [
 
-Instagram Shopping availability
+How do I add pronouns to my Instagram profile?
 
 ![](https://static.xx.fbcdn.net/rsrc.php/v3/yM/r/5Rp9sHgmsb1.png)
 
@@ -373,4 +373,4 @@ Instagram Shopping availability
 
 
 
-](https://help.instagram.com/321000045119159/Instagram+Shopping+availability/?source_cms_id=581066165581870&helpref=related_articles)
+](https://help.instagram.com/3936623839758564/How+do+I+add+pronouns+to+my+Instagram+profile%3F/?source_cms_id=581066165581870&helpref=related_articles)
