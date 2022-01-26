@@ -23,6 +23,7 @@ We may also use other technologies such as web beacons (also called pixels), tra
 | Performance | These Cookies may be set on our Websites and App by us or our marketing services providers. They help us and our marketing services providers improve and measure the effectiveness of Bumble ads on other apps and Websites. For example, they help us understand which Bumble ads lead people to download our App or sign-up for Bumble. You can find out more information about this in our Privacy Policy (under the heading “Sharing your personal data with Marketing Services Providers”). |
 
 2\. Cookies lifespan and third parties placing Cookies
+------------------------------------------------------
 
 Cookies last for different periods of time depending on which of the following two categories they fall into:
 
