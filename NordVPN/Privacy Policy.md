@@ -12,7 +12,7 @@ Please either **enable JavaScript**, or disable any extensions or plugins that i
 
 * * *
 
-[![Nord Account logo](https://s1.nordcdn.com/nordvpn/media/1.1427.0/images/account/global/logos/horizontal/nordaccount.svg)](https://my.nordaccount.com/)
+[![Nord Account logo](https://s1.nordcdn.com/nordvpn/media/1.1434.0/images/account/global/logos/horizontal/nordaccount.svg)](https://my.nordaccount.com/)
 
 Privacy Policy
 ==============
@@ -118,5 +118,7 @@ Our website may include links to other websites whose privacy practices may be d
 This Privacy Policy may be modified and updated at any time, at our sole discretion, for any or no reason, and without liability, as indicated below. The date of the most current wording of the Privacy Policy is indicated at the top of the text. We ask all users to ensure that they are familiar with the most current wording of the Privacy Policy. The amendment of the Privacy Policy may be communicated to you by sending an email and/or by publishing the updated Privacy Policy on this website. Updates of the Privacy Policy come into force as of the moment when they are published.
 
 You may not assign or transfer your rights or obligations under this Privacy Policy to any third party.
+
+© 2022 Nord Security. All Rights Reserved.[support@nordaccount.com](mailto:support@nordaccount.com)[Terms of Service](https://my.nordaccount.com/legal/terms-of-service/)
 
 EnglishFrançaisDeutschPortuguêsPortuguês BrasileiroEspañolPolskiEnglish
