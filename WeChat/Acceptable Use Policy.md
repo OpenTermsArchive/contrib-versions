@@ -1,7 +1,7 @@
 WECHAT – ACCEPTABLE USE POLICY
 ==============================
 
-Last updated – 2021-12-10
+Last updated – 2022-01-28
 
 Welcome to WeChat!
 
@@ -36,21 +36,19 @@ Where you have (or we reasonably believe you have) breached this Policy, we may,
 *   d. Restrict you from using certain account functions or suspend or terminate your account.
 *   e. Where we reasonably believe that you have committed a crime or are otherwise required to do so under applicable laws, notify and cooperate with appropriate governmental and/or law enforcement authorities in the relevant jurisdiction.
 
-While we will aim to apply this Policy consistently across all jurisdictions, in some jurisdictions there may be specific requirements under applicable laws which necessitate differing applications of parts of this Policy.
+While we will aim to apply this Policy consistently across all jurisdictions, in some jurisdictions there may be specific requirements under applicable laws which necessitate differing applications of parts of this Policy. In addition, the laws applicable to WeChat are constantly evolving, so please remain alert to changes of laws and rules applicable to users in other jurisdictions.
 
 If you wish to report another user who may have potentially breached this policy, please refer to Section 12 of this Policy for our contact details.
 
 1.3. **How do we apply this Policy?**
 
-We will act reasonably in applying this Policy and considering whether any content or behaviour breach this Policy – including by:
+We will act reasonably in applying this Policy and considering whether any content or behaviour breach this Policy. Please refer to the rest of this Policy for more information on what we consider to be content or behaviour that breaches this Policy.
 
-*   a. Attempting to distinguish between genuine and casual statements.
-*   b. Attempting to distinguish between credible and non-credible/aspirational statements.
-*   c. Attempting to distinguish legitimate newsworthy content from other content.
-*   d. Permitting humour and social commentary on various topics, subject to a reasonable standard.
-*   e. Additional information that is available to us, whether via WeChat or third parties.
+We engage with our users and third-party experts from time to time, to ensure that this Policy continues to reflect our values and applicable laws and regulations, while ensuring that using WeChat remains a safe and fun experience for our users.
 
-We will continue to engage with our users and third-party experts from time to time, to ensure that this Policy continues to reflect our values and applicable laws and regulations, while ensuring that using WeChat remains a safe and fun experience for our users.
+1.4 **How we may detect harmful content**
+
+We develop and deploy automated processes to detect and prevent harmful content that breaches this Policy (including content that breaches any applicable laws or regulations) from entering, utilizing or remaining on WeChat, subject to our obligations under applicable laws (including international laws applicable to our affiliates’ services). We may refuse or remove any harmful content available on or transmitted through WeChat in breach of this Policy. You may contact us at [policy@wechat.com](mailto:policy@wechat.com) if you have any questions on the actions taken in accordance with this Section 1.4.
 
 2\. VIOLENCE AND CRIME
 ----------------------
@@ -267,6 +265,5 @@ ADDENDUM FOR USERS SUBJECT TO SOUTH KOREAN JURISDICTION
 
 _If you are a user of WeChat who is subject to South Korean jurisdiction, the below additional terms: (i) are incorporated into this Policy; (ii) apply to your use of WeChat; and (iii) override the head terms of this Policy to the extent of any inconsistency._
 
-1\. User-uploaded posts that contain illegal video content may result in criminal consequences in accordance with applicable South Korean laws.
-
-2\. In the case of user-uploaded posts that contain illegal video content and result in criminal consequences in accordance with applicable South Korean laws, we may block the display of the posts or delete them, or refuse to post them, pursuant to Article 22-5 (1) of the Telecommunications Business Act of South Korea.
+*   1.  User-uploaded posts that contain illegal video content may result in criminal consequences in accordance with applicable South Korean laws.
+*   2.  In the case of user-uploaded posts that contain illegal video content and result in criminal consequences in accordance with applicable South Korean laws, we may block the display of the posts or delete them, or refuse to post them, pursuant to Article 22-5 (1) of the Telecommunications Business Act of South Korea.
