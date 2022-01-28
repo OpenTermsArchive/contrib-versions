@@ -40,7 +40,7 @@ If there is a subsequent change in the international dialling code of the phone 
 
 **INTEROPERABILITY WITH WEIXIN**
 
-WeChat is interoperable with Weixin, such that you are able to communicate with Weixin users and view each other’s Moments and Status. You may also be able to use certain features operated by Weixin. Use of those features is subject to the relevant [Weixin Terms of Service](https://weixin.qq.com/cgi-bin/readtemplate?lang=en_US&t=weixin_agreement&s=default&cc=CN) or service agreement applicable to such feature. For more details, please see [below](#Interoperability_with_Weixin).
+WeChat is interoperable with Weixin, such that you are able to communicate with Weixin users and view each other’s Moments and Status in accordance with the applicable terms. You may also be able to use certain features operated by Weixin. Use of those features is subject to the relevant [Weixin Terms of Service](https://weixin.qq.com/cgi-bin/readtemplate?lang=en_US&t=weixin_agreement&s=default&cc=CN) or service agreement applicable to such feature. For more details, please see [below](#Interoperability_with_Weixin).
 
 _These Terms_
 
@@ -100,7 +100,7 @@ Subject to the next paragraph and except as otherwise expressly specified within
 
 We may make changes to these Terms (and any applicable Additional Terms) over time (for example, to reflect technical improvements and changes to WeChat (for example, to address a security threat) or applicable laws and regulations (for example, to reflect applicable consumer rights)), so please come back and review these Terms regularly.
 
-Where we consider that such changes are reasonably material, we will (where reasonably practicable) notify you (via [http://www.wechat.com](http://www.wechat.com/), direct communication to you, on this page or the relevant page for the relevant additional terms or policy, or other means), prior to such changes becoming effective. **By continuing to use WeChat after we make any changes to these Terms, you are agreeing to be bound by the revised Terms.**
+Where we consider that such changes are material, we will (where reasonably practicable) notify you (on this page or the relevant page for the relevant additional terms or policy, via the WeChat app, by direct communication to you, or other means), prior to such changes becoming effective. **By continuing to use WeChat after we make any changes to these Terms, you are agreeing to be bound by the revised Terms.**
 
 ### CHANGES TO WECHAT
 
@@ -162,7 +162,7 @@ In addition, you agree that we and our affiliate companies (subject to these Ter
 
 You understand that even if you seek to delete Your Content from WeChat, it may as a technical and administrative matter take some time or not be possible to achieve this – for example, we may not be able to prevent any third party from storing or using any of Your Content that you have made public via WeChat. Further information on your rights in relation to Your Content are set out in our [WeChat Privacy Policy](https://www.wechat.com/en/privacy_policy.html).
 
-We reserve the right to block or remove Your Content for any reason, including as is in our opinion appropriate, as required by applicable laws and regulations or in accordance with the [Copyright Policy](https://www.tencent.com/legal/html/en-us/complaint.html). We reserve the right to artificially manipulate the visibility, status, or rank of Your Content on WeChat.
+We reserve the right to block or remove Your Content for any reason, including as is in our opinion appropriate, as required by applicable laws and regulations or in accordance with the [Copyright Policy](https://www.tencent.com/legal/html/en-us/complaint.html) and [WeChat Acceptable Use Policy](https://www.wechat.com/en/acceptable_use_policy.html). We reserve the right to determine the visibility, status, or rank of Your Content on WeChat.
 
 _Responsibility for Your Content_
 
@@ -195,7 +195,7 @@ We have the right to remove, at our sole discretion and without notice to you, a
 
 _Interoperability with Weixin_
 
-WeChat is interoperable with Weixin, such that you are able to communicate with Weixin users and view each other’s Moments and Status. You may also be able to use certain features operated by Weixin. You may view the list of features operated by Weixin [**here**](https://www.wechat.com/tpl/oversea/new/page/weixin_features/index?lang=en). Please note that when you interact with a Weixin user, or use any features operated by Weixin, the Weixin users you interact with are not subject to these Terms, and instead are subject to the [_Weixin Terms of Service_](https://weixin.qq.com/cgi-bin/readtemplate?lang=en_US&t=weixin_agreement&s=default&cc=CN) meaning that what you have shared with Weixin users may be retained, shared or stored by Weixin in a different manner to what is described in these Terms or the [_WeChat Privacy Policy_](https://www.wechat.com/en/privacy_policy.html). You can read about how Weixin operates, and how Weixin retains, shares and stores information, in the [_Weixin Terms of Service_](https://weixin.qq.com/cgi-bin/readtemplate?lang=en_US&t=weixin_agreement&s=default&cc=CN) and the [_Weixin Privacy Protection Guidelines_](https://weixin.qq.com/cgi-bin/readtemplate?lang=en_US&t=weixin_agreement&s=privacy&cc=CN).
+WeChat is interoperable with Weixin, such that you are able to communicate with Weixin users and view each other’s Moments and Status in accordance with the applicable terms. You may also be able to use certain features operated by Weixin. You may view the list of features operated by Weixin [**here**](https://www.wechat.com/tpl/oversea/new/page/weixin_features/index?lang=en). Please note that when you interact with a Weixin user, or use or receive notifications from any feature operated by Weixin (together **“Interoperable Interaction”**), the Weixin users you interact with are not subject to these Terms, and instead are subject to the [_Weixin Terms of Service_](https://weixin.qq.com/cgi-bin/readtemplate?lang=en_US&t=weixin_agreement&s=default&cc=CN) meaning that we will share your information with Weixin to the extent necessary to facilitate your Interoperable Interaction and your information may be retained, shared and/or stored by Weixin in a different manner to what is described in these Terms or the [_WeChat Privacy Policy_](https://www.wechat.com/en/privacy_policy.html). You can read about how Weixin operates, and how Weixin retains, shares and stores information, in the [_Weixin Terms of Service_](https://weixin.qq.com/cgi-bin/readtemplate?lang=en_US&t=weixin_agreement&s=default&cc=CN) and the [_Weixin Privacy Protection Guidelines_](https://weixin.qq.com/cgi-bin/readtemplate?lang=en_US&t=weixin_agreement&s=privacy&cc=CN).
 
 _Weixin Official Accounts and Mini Programs_
 
@@ -436,4 +436,4 @@ Unless you have provided your consent, or to the extent otherwise described in o
 *   for managing bad debt and preventing fraud related to the provision of services; and/or
 *   for the provision of mobile roaming-related information to in-bound mobile roaming customers in Singapore.
 
-Last modified: 2021-08-19
+Last modified: 2022-01-28
