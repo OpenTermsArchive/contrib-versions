@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-#### Last Updated: January 24, 2022
+#### Last Updated: January 28, 2022
 
 #### 1\. Universal Service Terms (Applicable to All Services)
 
@@ -64,6 +64,10 @@ If, as of the time of a change of the AWS Contracting Party responsible for your
 **1.17.5** You agree that by using the Currency Service, information related to your payment, including your name and address, may be used by our banking partners to process your payments in jurisdictions other than the United States.
 
 **1.18.** By accessing and using AWS Content or the Services, you agree to the terms of the [Intellectual Property License](https://aws.amazon.com/legal/aws-ip-license-terms/).
+
+**1.19.** We will not use Individualized Usage Data or Your Content to compete with your products and services. “Individualized Usage Data” means data about your use of the Services that are specifically identified with your AWS account.
+
+**1.20.** We may use information about how you use and interact with the Services to improve those Services.
 
 #### 2\. Betas and Previews
 
