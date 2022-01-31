@@ -15,11 +15,11 @@ You will be given an opportunity to review this product-specific information bef
 
 Please take a moment to familiarize yourself with our privacy practices, accessible via the headings below, and [contact us](https://www.apple.com/legal/privacy/en-ww/contact/) if you have any questions.
 
-[Download a copy of this Privacy Policy](https://apple.com/legal/privacy/pdfs/apple-privacy-policy-en-ww.pdf)  
+[Download a copy of this Privacy Policy](https://www.apple.com/legal/privacy/pdfs/apple-privacy-policy-en-ww.pdf)  
    
 [Your California Privacy Disclosures](https://apple.com/legal/privacy/california/)   
 [Information Regarding Commercial Electronic Messages in Canada](https://apple.com/legal/privacy/en-ww/canada-notice/)   
-[Apple Health Study Apps Privacy Policy](https://apple.com/legal/privacy/apple-health-studies/en-ww)  
+[Apple Health Study Apps Privacy Policy](https://www.apple.com/legal/privacy/apple-health-studies/en-ww)  
 
 *   What Is Personal Data at Apple?
     -------------------------------
@@ -154,7 +154,7 @@ Please take a moment to familiarize yourself with our privacy practices, accessi
     
     **The Apple entity that controls your personal data may differ depending on where you live.** For example, retail store information is controlled by individual retail entities in each country and Apple Media Services-related personal data may be controlled by various Apple entities as reflected in the terms of service. If you do not reside in the U.S., your personal data may be processed by Apple Inc. and other Apple-affiliated companies on behalf of the Apple entity controlling personal data for your jurisdiction. For example, Imagery and associated data collected by Apple around the world to improve Apple Maps and to support our Look Around feature is transferred to Apple Inc. in California. 
     
-    Personal data relating to individuals in the European Economic Area, the United Kingdom, and Switzerland is controlled by Apple Distribution International Limited in Ireland. Apple's international transfer of personal data collected in the European Economic Area, the United Kingdom, and Switzerland is governed by [Standard Contractual Clauses](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en). Apple’s international transfer of personal data collected in participating Asia-Pacific Economic Cooperation (APEC) countries abides by the [APEC Cross-Border Privacy Rules (CBPR) System](http://www.apec.org/Groups/Committee-on-Trade-and-Investment/~/media/Files/Groups/ECSG/CBPR/CBPR-PoliciesRulesGuidelines.ashx) and [Privacy Recognition for Processors (PRP) System](https://www.apec.org/~/media/Files/Groups/ECSG/2015/APEC%20PRP%20Rules%20and%20Guidelines.pdf) for the transfer of personal data. If you have questions or unresolved concerns about our APEC CBPR or PRP certifications, contact our [third-party dispute resolution provider](https://feedback-form.truste.com/watchdog/request). 
+    Personal data relating to individuals in the European Economic Area, the United Kingdom, and Switzerland is controlled by Apple Distribution International Limited in Ireland. Apple's international transfer of personal data collected in the European Economic Area, the United Kingdom, and Switzerland is governed by [Standard Contractual Clauses](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en). Apple’s international transfer of personal data collected in participating Asia-Pacific Economic Cooperation (APEC) countries abides by the [APEC Cross-Border Privacy Rules (CBPR) System](http://cbprs.org/) and [Privacy Recognition for Processors (PRP) System](http://cbprs.org/) for the transfer of personal data. If you have questions or unresolved concerns about our APEC CBPR or PRP certifications, contact our [third-party dispute resolution provider](https://feedback-form.truste.com/watchdog/request). 
     
     Personal data relating to individuals in China mainland may be processed by Apple in countries outside of China mainland. Where this occurs, it will be done in compliance with local laws, including the Personal Information Protection Law. As outlined in this Privacy Policy, Apple may also transfer such personal data to third parties, who may in turn store or transfer the data outside of China mainland.
     
@@ -179,4 +179,6 @@ Please take a moment to familiarize yourself with our privacy practices, accessi
     Apple Inc. One Apple Park Way, Cupertino, California, USA, 95014
     
 
-[![TRUSTe](https://www.apple.com/legal/images/trust-e-seal/trust-e-seal_large_2x.png)](https://privacy.truste.com/privacy-seal/validation?rid=1580fe3d-f313-4354-8fa1-008e083ce49e)
+[View our APEC CBPR certification >](https://privacy.truste.com/privacy-seal/validation?rid=1580fe3d-f313-4354-8fa1-008e083ce49e)
+
+[View our APEC PRP certification >](https://privacy.truste.com/privacy-seal/validation?rid=ab3c9d94-c0eb-4a37-a8c3-9d67d709e884)
