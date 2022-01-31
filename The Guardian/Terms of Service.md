@@ -58,7 +58,7 @@ Users of our site may be permitted to submit content for publication in various 
 
 When you submit content to us, you agree and represent that you have created that content, or you have received permission from, or are authorised by, the owner of any part of the content to submit it to the Guardian Site.
 
-You or the owner of the content still own the copyright in the content sent to us, but by submitting content to us, you are granting us an unconditional, irrevocable, non-exclusive, royalty-free, fully transferable, perpetual worldwide licence to use, publish and/or transmit, and to authorise third-parties to use, publish and/or transmit your content in any format and on any platform, either now known or hereinafter invented.
+You or the owner of the content still own the copyright in the content sent to us, but by submitting content to us, you are granting us an unconditional, irrevocable, non-exclusive, royalty-free, fully transferable, perpetual worldwide licence to use, publish and/or transmit, and to authorise third-parties to use, publish and/or transmit your content in any format and on any platform, either now known or hereafter invented.
 
 You acknowledge and agree that when you post content on the Guardian Site or view content provided by others, you are doing so at your own discretion and risk, including any reliance on the accuracy, completeness, of that content. You further acknowledge and agree that the views expressed by you and other users in that content do not necessarily reflect the views of Guardian, and we do not support or endorse any user content. You acknowledge that we have no obligation to pre-screen, monitor, review, or edit any content posted by you and other users on the Guardian Site.
 
@@ -88,7 +88,7 @@ To find out what personal data we collect and how we use it, please visit our pr
 
 **9\. Changes to these terms and conditions of use**
 
-Please note that we may change these terms and conditions from time to time at our sole discretion and we reserve the right to do without your consent. Any revised terms and conditions will be applicable at the time of posting on the Guardian Site. Please ensure that you review these terms and conditions regularly as you will be deemed to have accepted a variation if you continue to use the Guardian Site after it has been posted.
+Please note that we may change these terms and conditions from time to time at our sole discretion and we reserve the right to do so without your consent. Any revised terms and conditions will be applicable at the time of posting on the Guardian Site. Please ensure that you review these terms and conditions regularly as you will be deemed to have accepted a variation if you continue to use the Guardian Site after it has been posted.
 
 **10\. Governing law & jurisdiction (except for US users)**
 
