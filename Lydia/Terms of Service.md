@@ -72,7 +72,7 @@ These T&Cs may be amended by Lydia from time to time. In this case, Lydia undert
 
 In accordance with Article L314-13 of the French Monetary and Financial Code, Lydia will inform the Consumer on a durable medium, by e-mail, sent to the personal e-mail address provided at the time of his / her registration to the Service, at the latest two months before the effective date of the modifications. 
 
-The Consumer may, until the entry into force of the new T&Cs, contest them in writing (by postal mail or e-mail) sent to the Customer Care, at the address indicated in Article 17 hereof. After this period, the new T&Cs are deemed accepted by the Consumer.
+The Consumer may, until the entry into force of the new T&Cs, contest them in writing (by postal mail or e-mail) sent to the Customer Care Service, at the address indicated in Article 17 hereof. After this period, the new T&Cs are deemed accepted by the Consumer.
 
 In case of refusal of the proposed modification, the Consumer may terminate his / her membership to the Service within two months of the notice period (before the modification comes into effect), without any remaining costs at his / her expense. 
 
@@ -99,7 +99,7 @@ To implement this, the Consumer shall contact the Customer Care Service by posta
 
 **Death of the Consumer**
 
-The Consumer Account operates under the signature of the account holder or of any representatives appointed by proxy. The death of the Consumer ends their membership of the Service and the possible proxy on the Consumer account becomes invalid from the moment it is brought to the attention of Lydia through Customer Care Service. Transactions carried out from the deceased's Consumer Account after the time of death are considered to be unauthorised, except with the agreement of the beneficiaries or the notary in charge of the succession. The Consumer Account is kept open for the time necessary to settle the succession and Lydia ensures the transfer of the balance with the written and express agreement of the beneficiaries or the notary in charge of the succession.
+The Consumer Account operates under the signature of the account holder or of any representatives appointed by proxy. The death of the Consumer ends their membership of the Service and the possible proxy on the Consumer account becomes invalid from the moment it is brought to the attention of Lydia through the Customer Care Service. Transactions carried out from the deceased's Consumer Account after the time of death are considered to be unauthorised, except with the agreement of the beneficiaries or the notary in charge of the succession. The Consumer Account is kept open for the time necessary to settle the succession and Lydia ensures the transfer of the balance with the written and express agreement of the beneficiaries or the notary in charge of the succession.
 
 If in the three years following the death of the Consumer the beneficiaries have not made themselves known or have not asserted their rights, the balance of the Consumer Account of the deceased Consumer is paid to the Caisse des Dépôts et Consignations (Deposits and Consignments Fund).
 
@@ -161,9 +161,9 @@ Is also considered as a "US Person" and a US tax resident under US federal law i
 
 It is up to the Consumer to provide written communication to Lydia of any change relating to their user circumstances for the Service in particular in the events of a change of contact details (telephone number, address, email), of professional activity, civil status, capacity, marital status, nationality, address (home, tax and postal) or identification details concerning any agents and status (especially in the event of acquisition of the status of US citizen or of the Green Card).
 
-Such changes shall be communicated by the Consumer in writing and without delay to Customer Care Service. Lydia isn’t responsible for any consequences resulting from Consumer’s failure to comply with its obligations. Appropriate supporting documents shall be provided by the Consumer on a voluntary basis and upon request by Lydia. If the Consumer fails to provide Lydia with the changes in his / her situation and the supporting documents requested by Lydia, Lydia may restrict or cease the provision of the services to which the Consumer has access and close the Consumer Account. 
+Such changes shall be communicated by the Consumer in writing and without delay to the Customer Care Service. Lydia isn’t responsible for any consequences resulting from Consumer’s failure to comply with its obligations. Appropriate supporting documents shall be provided by the Consumer on a voluntary basis and upon request by Lydia. If the Consumer fails to provide Lydia with the changes in his / her situation and the supporting documents requested by Lydia, Lydia may restrict or cease the provision of the services to which the Consumer has access and close the Consumer Account. 
 
-The Consumer can modify some of the personal data given when subscribing to the Service via the Lydia Application or Customer Care Service (support@lydia-app.com), or via a non-Lydia partner application that integrates all or part of the Service ("Partner Application").
+The Consumer can modify some of the personal data given when subscribing to the Service via the Lydia Application or the Customer Care Service (support@lydia-app.com), or via a non-Lydia partner application that integrates all or part of the Service ("Partner Application").
 
 **The rules of use related to the purpose of payment transactions**
 
@@ -197,7 +197,7 @@ If the Service is used to purchase products or services resulting from such acti
 6\. How to install Lydia?
 -------------------------
 
-The list of countries in which the Lydia Application can be downloaded  from applications stores is available in the Lydia user Manual and is reproduced on the the following page: https://support.lydia-app.com/l/fr/article/lcu8v7dbca-pays-compatibles-avec-lydia. 
+The list of countries in which the Lydia Application can be downloaded from applications stores is available in the Lydia user Manual and is reproduced on the following page: https://support.lydia-app.com/l/fr/article/lcu8v7dbca-pays-compatibles-avec-lydia. 
 
 In order to be able to access the Lydia Service, the Consumer must possess equipment that is compatible with the Lydia Application (a cell phone such as a smartphone, or a mobile tablet or any other compatible connected object). Although Lydia makes its best efforts to optimize the compatibility of its Service, it cannot guarantee its operation with all existing terminals on the market and in particular terminals equipped with obsolete Android or I.O.S operating systems.
 
@@ -229,7 +229,7 @@ An account is also considered inactive if the account holder has died and if, at
 
 In case of an inactive account, Lydia will contact the Consumer by email and/or by text message using the email address and/or phone number provided in the Application. Lydia will offer to reactivate or close the Consumer's Account. 
 
-If the Consumer does not contact the Customer Care service via support@lydia-app.com and/or does not perform any operation from or to their Payment Accounts within the delay prescribed, Lydia will collect fees in accordance with the Pricing & Limits Appendix if the Consumer Account balance is creditor. If the Consumer remains inactive for ten consecutives years, his/her Consumer Account will be closed and the balance remaining will be transferred to the Caisse des dépôts. The Consumer will be informed of such transfer six months in advance. The Consumer can contact the Caisse des dépôts within 20 years after the transfer to reclaim their funds.
+If the Consumer does not contact the Customer Care Service via support@lydia-app.com and/or does not perform any operation from or to their Payment Accounts within the delay prescribed, Lydia will collect fees in accordance with the Pricing & Limits Appendix if the Consumer Account balance is creditor. If the Consumer remains inactive for ten consecutives years, his/her Consumer Account will be closed and the balance remaining will be transferred to the Caisse des dépôts. The Consumer will be informed of such transfer six months in advance. The Consumer can contact the Caisse des dépôts within 20 years after the transfer to reclaim their funds.
 
 **Specific transactions**
 
@@ -348,7 +348,7 @@ When consenting to the execution of a payment, the Consumer selects the payment 
 
 An electronic transaction receipt is sent to the Consumer, under the conditions set out in Article 17 "Method of communication between Lydia and the Consumer" > "Communicating with the Consumer".
 
-Lydia and the PSP may refuse a payment order. The Consumer will be informed of the reason for refusal the day following the refusal at the latest, unless a national or European provision prohibits it.
+Lydia and the PSP may refuse a payment order. The Consumer will be informed of the reason for refusal the day following the refusal at the latest unless a national or European provision prohibits it.
 
 The Consumer is solely responsible for the payment transactions they issue. Once a transaction has been carried out and confirmed, the selected payment means is debited. Lydia cannot be held responsible in the event of an error made by the Consumer.
 
@@ -361,31 +361,31 @@ Otherwise, the Beneficiary is informed of the transaction by SMS or email and ca
 *   By downloading the Lydia Application;
 *   By making a transfer to the Bank Account of their choice. To do this, the Beneficiary provides their IBAN 
 
-Otherwise, after seven days, the transaction is cancelled and the Consumer Account issuing the payment is re-credited.
+Otherwise, after seven days, the transaction is canceled and the Consumer Account issuing the payment is re-credited.
 
 **Step 5:** **Transferring funds to the Bank Account**
 
-Consumers can, if they wish, transfer all or part of their Lydia balance to the Bank Account of their choice, within the limits set out by the conditions in the Pricing & Limits Appendix. To do this, the Consumer is requested to provide the IBAN relating to the Bank Account to which he/she  wish to make a transfer. This can be achieved by:
+Consumers can, if they wish, transfer all or part of their Lydia balance to the Bank Account of their choice, within the limits set out by the conditions in the Pricing & Limits Appendix. To do this, the Consumer is requested to provide the IBAN relating to the Bank Account to which he/she wish to make a transfer. This can be achieved by:
 
 *   Aggregating their bank to the Application. In this case, they must accept the Budget Insight General Conditions of Use or the TINK AB General Terms of Use depending on the bank holding the account. 
 *   Directly entering their IBAN in the Application.
 
-If the Consumer Account is blocked, they should refer to the Article 14 "How Lydia ensures the security of its Service".
+If the Consumer Account is blocked, they should refer to Article 14 "How Lydia ensures the security of its Service".
 
 10\. Other services and features offered by the Lydi**a app**
 -------------------------------------------------------------
 
 **Gift Card**
 
-Lydia offers the Consumer  the possibility to buy gift cards from a partner brand.
+Lydia offers the Consumer the possibility to buy gift cards from a partner brand.
 
-Before choosing the gift card, the Consumer acknowledges and accepts the conditions of validity and use of the gift card specific to each brand. The choice of a gift card is final and may not give rise to an exchange or a refund in any form whatsoever from Lydia or its partners brands. These gift cards can be used to pay in store or on the partner's website, using a code provided at the time of order.
+Before choosing the gift card, the Consumer acknowledges and accepts the conditions of validity and use of the gift card specific to each brand. The choice of a gift card is final and may not give rise to an exchange or a refund in any form whatsoever from Lydia or its partner's brands. These gift cards can be used to pay in-store or on the partner's website, using a code provided at the time of order.
 
-Lydia sends the Consumer their gift card by email within the deadlines indicated. A gift card is a digital content not provided on a material and personalized support and is therefore neither exchangeable nor refundable nor eligible for the right of withdrawal.
+Lydia sends the Consumer their gift card by email within the deadlines indicated. A gift card is digital content not provided on material and personalized support and is, therefore, neither exchangeable nor refundable nor eligible for the right of withdrawal.
 
-The offers are independent of Lydia, the brand publishing the gift card is solely responsible for ensuring its validity under the conditions indicated on it and previously accepted by the Consumer . For any question or complaint regarding the use of the gift card, the Consumer  must contact the brand directly using the contact details given on the gift card.
+The offers are independent of Lydia, the brand publishing the gift card is solely responsible for ensuring its validity under the conditions indicated on it and previously accepted by the Consumer. For any question or complaint regarding the use of the gift card, the Consumer must contact the brand directly using the contact details given on the gift card.
 
-Lydia does not transmit  the Consumer’s personal data to the brand or to any third party. Only information concerning the use of the gift card and the beneficiary's profile can be used and shared with a third party in order for them to receive the most relevant offers. For more information, please refer to the [Lydia Manual](https://support.lydia-app.com/l/en/article/jo8laogbof-about-lydia-gift-cards).
+Lydia does not transmit the Consumer’s personal data to the brand or to any third party. Only information concerning the use of the gift card and the beneficiary's profile can be used and shared with a third party in order for them to receive the most relevant offers. For more information, please refer to the [Lydia Manual](https://support.lydia-app.com/l/en/article/jo8laogbof-about-lydia-gift-cards).
 
 **Shared accounts**
 
@@ -397,7 +397,7 @@ Consumers can subscribe to paid subscriptions named Lydia Bleu or Lydia Noir. Th
 
 **Payment card**
 
-Consumers over the age of 18 can obtain a payment card, virtual or plastic, with automatic authorisation. Consumers should consult the [General Terms and Conditions of Use of Visa Lydia card](https://lydia-app.com/en/info/terms-of-service-card.html).
+Consumers over the age of 18 can obtain a payment card, virtual or plastic, with automatic authorization. Consumers should consult the [General Terms and Conditions of Use of Visa Lydia card](https://lydia-app.com/en/info/terms-of-service-card.html).
 
 **IBAN**
 
@@ -409,7 +409,7 @@ In partnership with Lydia, some Professionals offer discounts and rewards to Lyd
 
 **Change of payment method**
 
-Consumers can change the source of each payment after it was made from their Lydia Consumer Account. The original payment method used will be re-credited and the new payment method debited for the same amount.For each payment or money withdrawal, the payment method can only be changed once. The use of the "Change payment method" featre is subject to limits set out in the [Pricing & Limits Appendix](https://lydia-app.com/en/about/price.html?tab=limit). 
+Consumers can change the source of each payment after it was made from their Lydia Consumer Account. The original payment method used will be re-credited and the new payment method debited for the same amount.For each payment or money withdrawal, the payment method can only be changed once. The use of the "Change payment method" feature is subject to limits set out in the [Pricing & Limits Appendix](https://lydia-app.com/en/about/price.html?tab=limit). 
 
 **Set up recurring payments**
 
@@ -428,9 +428,9 @@ Consumers can register their loyalty cards in the Application so that they are a
 
 What is the Money Pot service?
 
-The Money Pot Service (hereinafter referred to as "Money Pot") allows the organiser of a Money Pot (hereinafter referred to as "Organiser") to solicit other people, the "Participants", in order to obtain joint funding for a defined purpose.
+The Money Pot Service (hereinafter referred to as "Money Pot") allows the organizer of a Money Pot (hereinafter referred to as "Organiser") to solicit other people, the "Participants", in order to obtain joint funding for a defined purpose.
 
-It is up to the Organiser to define the purpose of the Money Pot he/she creates. In accordance with the rules of use of the Lydia Service (Article 4: How does Lydia work? > What are the rules of use of Lydia?), the purpose must not be illicit, immoral or contrary to good morals and must be private. Money pots calling for public generosity and allowing in particular to finance a cause, a social, associative or entrepreneurial project by donation are strictly forbidden. Any person who finds that the purpose of a Money pot is contrary to these T&Cs is invited to contact Lydia support.
+It is up to the Organiser to define the purpose of the Money Pot he/she creates. In accordance with the rules of use of the Lydia Service (Article 4: How does Lydia work? > What are the rules of use of Lydia?), the purpose must not be illicit, immoral or contrary to good morals and must be private. Money pots calling for public generosity and allowing in particular to finance a cause, a social, associative or entrepreneurial project by donation are strictly forbidden. Any person who finds that the purpose of a Money pot is contrary to these T&Cs is invited to contact the Customer Care Service.
 
 Lydia reserves the right to remove or block access to any Money Pot whose purpose it deems to be unlawful, immoral, or contrary to accepted standards of public decency, as well as any Money Pot that is suspected of money laundering or terrorist financing.
 
@@ -458,7 +458,7 @@ There are three ways to withdraw funds:
 
 How to create a Money Pot?
 
-Consumer can create a Money Pot in the Application by following the procedure described in the Lydia Manual. They then choose the title of the Money Pot before finalising the creation.If he/she prefer , the Organiser  can also create a Money Pot from the [Cagnotte website](https://cagnotte.me/), edited by Lydia: https://cagnotte.me/, The Organiser will be able to choose the name of the Money Pot and then create it. 
+Consumers can create a Money Pot in the Application by following the procedure described in the Lydia Manual. They then choose the title of the Money Pot before finalizing the creation. If he/she prefer, the Organiser can also create a Money Pot from the [Cagnotte website](https://cagnotte.me/), edited by Lydia: https://cagnotte.me/, The Organiser will be able to choose the name of the Money Pot and then create it. 
 
 The Organiser can create several Money Pots in parallel (see Pricing & Limits Appendix).
 
@@ -476,9 +476,9 @@ The Organiser is informed of a Contribution under the conditions provided by Art
 
 How long can a Money Pot be open?
 
-The Organiser can freely define the period during which the Participants can contribute to the Money Pot. They can end it early at any time, especially when the target amount has been reached before expiration of the Money Pot.
+The Organiser can freely define the period during which the Participants can contribute to the Money Pot. They can end it early at any time, especially when the target amount has been reached before the expiration of the Money Pot.
 
-How to balance / clear a Money Pot?
+How to balance/clear a Money Pot?
 
 Once the Money Pot has been closed, the Organiser can:
 
@@ -490,7 +490,7 @@ Once the Money Pot has been closed, the Organiser can:
 
 If necessary, the Consumer can then make payment transactions with the funds transferred to their Lydia Account (see How Lydia works > Step 3: Payment transaction).
 
-If the amount of the funds exceeds the limits indicated in the [Pricing & Limits Appendix](https://lydia-app.com/en/about/price.html?tab=limit), the Organiser must obtain a Verified Account in order to be able to withdraw the funds (See Article 8: How do I get Verified User status?). 
+If the amount of the funds exceed the limits indicated in the [Pricing & Limits Appendix](https://lydia-app.com/en/about/price.html?tab=limit), the Organiser must obtain a Verified Account in order to be able to withdraw the funds (See Article 8: How do I get Verified User status?). 
 
 How to end a Money Pot?
 
@@ -504,12 +504,12 @@ Provided no contribution has been made to the Money Pot, the Organiser may termi
 
 How to monitor the transactions made on the Money Pot?
 
-Operations related to a Money Pot are accessible in real time directly from the Application. At the end of the Money Pot, the Organiser may ask Customer Care Service to obtain a PDF format document summarising all contributions to the Money Pot.
+Operations related to a Money Pot are accessible in real-time directly from the Application. At the end of the Money Pot, the Organiser may ask Customer Care Service to obtain a PDF format document summarising all contributions to the Money Pot.
 
 11\. Monitoring operations carried out via the Lydia Consumer Account
 ---------------------------------------------------------------------
 
-Consumers can monitor transactions relating to their Lydia Consumer Account (debits and credits) directly from the application. On request they can obtain a free transaction report in electronic format from Lydia Support Service at the email address support@lydia-app.com.
+Consumers can monitor transactions relating to their Lydia Consumer Account (debits and credits) directly from the application. On request they can obtain a free transaction report in electronic format from Customer Care Service at the following address: support@lydia-app.com.
 
 Consumers are encouraged to check the information contained therein in order to assert their rights as soon as possible if necessary (see What to do in the event of unauthorised or incorrectly executed transactions).
 
@@ -521,47 +521,50 @@ Consumers are encouraged to check the information contained therein in order to 
 As soon as they become aware of the loss, theft or any fraudulent use of the telephone or tablet on which the Lydia Application is installed, the Consumer should either:
 
 *   If possible, connect to their Lydia Consumer Account from another phone/tablet and block their Consumer Account manually, from the Security section (4th tab > Security > Block my account). The Lydia Account Consumer will be temporarily blocked;
-*   Request the blocking of their Consumer Account via Customer Care Service , without delay, by sending an email to support@lydia-app.com or by phone on 01 82 88 11 69 (Monday to Friday from 9am to 7pm).
+*   Request the blocking of their Consumer Account via the Customer Care Service, without delay, by sending an email to support@lydia-app.com or by phone on 01 82 88 11 69 (Monday to Friday from 9am to 7pm).
 
 Lydia cannot be held responsible for the consequences of a blocking request which does not come from the Consumer.
 
 The unblocking of the Lydia Consumer Account will take place after analysis by our services and in consultation with the Consumer.
 
-13\. What to do in the event of unauthorised or incorrectly executed transactions?
+13\. What to do in the event of unauthorized or incorrectly executed transactions?
 ----------------------------------------------------------------------------------
 
-The Consumer must, without delay, notify Lydia of any unauthorised or incorrectly executed operations that they dispute by filling in the appropriate form, and at the latest within 13 (thirteen) months following the date of debit from their Consumer Account.
+The Consumer must, without delay, notify Lydia of any unauthorized or incorrectly executed operations that they dispute by filling in the appropriate form, and at the latest within 13 (thirteen) months following the date of debit from their Consumer Account.
 
 The dispute of said operations must be made by email or by registered letter with acknowledgment of receipt to the addresses indicated in Article 18 hereof.
 
-Once the legitimacy of the dispute has been established, Lydia will reimburse the Consumer, at the latest, on the working day following receipt of the dispute, except in the event of suspected fraud.
+Once the legitimacy of the dispute has been established, Lydia will reimburse the Consumer, at the latest, on a working day following receipt of the dispute, except in the event of suspected fraud.  
+   
+   
+ 
 
-14\. How Lydia ensures the security of its Service?
----------------------------------------------------
+14\. How Lydia ensure the security of its Service?
+--------------------------------------------------
 
 **Protection of Consumer fund****s**
 
-The funds of the Consumer are deposited in an account opened with a credit institution in the name and on behalf of the SFPMEI. Thus confined, the funds benefit from the guarantee provided for in article L312-4-1 of the Monetary and Financial Code, up to the amount of 100,000 Euros per Consumer (as provided for in article 5 of the decree of 27 October 2015). which means that all creditor accounts with the same credit institution are added together to determine the amount eligible for the guarantee (subject to the application of the legal or contractual provisions relating to compensation with its debit accounts). The indemnity ceiling is applied to this total (for more information on this point, see the website of the Fonds de garantie des dépôts et de résolution).
+The funds of the Consumer are deposited in an account opened with a credit institution in the name and on behalf of the SFPMEI. Thus confined, the funds benefit from the guarantee provided for in article L312-4-1 of the Monetary and Financial Code, up to the amount of 100,000 Euros per Consumer (as provided for in article 5 of the decree of 27 October 2015). which means that all creditor accounts with the same credit institution are added together to determine the amount eligible for the guarantee (subject to the application of the legal or contractual provisions relating to compensation with its debit accounts). The indemnity ceiling is applied to this total (for more information on this point, see the website of the Fonds de Garantie des Dépôts et de Résolution).
 
 **Identification through strong authentication**
 
 Accessing a Consumer Account
 
-When subscribing to the Service, Consumers must register their identifiers on the Lydia Application. Consumers must register two identifiers, their email and their mobile phone number, associated with a password. The Consumer must take all the measures necessary to ensure the security of their tablet or mobile phone and their personalised security device. They must keep their personalised security devices absolutely secret and not communicate them to anyone.
+When subscribing to the Service, Consumers must register their identifiers on the Lydia Application. Consumers must register two identifiers, their email and their mobile phone number, associated with a password. The Consumer must take all the measures necessary to ensure the security of their tablet or mobile phone and their personalized security device. They must keep their personalized security devices absolutely secret and not communicate them to anyone.
 
 To ensure that passwords are secure, they must respect a certain format. The identifiers allow the Consumer to login when the Application is opened for the first time, when the Application is disconnected and each time a connection is made with a new mobile device.
 
-The combination of one of the two identifiers and the password constitutes the personalised security device made available to the Consumer by Lydia, which is specific to the Consumer and placed under their protection.
+The combination of one of the two identifiers and the password constitutes the personalized security device made available to the Consumer by Lydia, which is specific to the Consumer and placed under their protection.
 
-In certain cases, the use of the personalised security device is coupled with a single-use password, with the aim of performing strong authentication of the Consumer.
+In certain cases, the use of the personalized security device is coupled with a single-use password, with the aim of performing strong authentication of the Consumer.
 
 Performing an operation
 
 When using the Application, the Consumer must register a four-digit personal security code. This code must be entered during recharging, payment and reimbursement operations carried out at the request of the Consumer, as well as when consulting sensitive payment information.
 
-By entering and validating their personalised security device and confirming the transaction, the Consumer gives their definitive consent to the payment order. From this moment, the Consumer can no longer revoke their order. It is also at this moment that Lydia receives the execution order, except in the case of a face to face transfer, where the reception of the order occurs during the code scan by the beneficiary of the transfer (see Lydia user manual).
+By entering and validating their personalized security device and confirming the transaction, the Consumer gives their definitive consent to the payment order. From this moment, the Consumer can no longer revoke their order. It is also at this moment that Lydia receives the execution order, except in the case of a face-to-face transfer, where the reception of the order occurs during the code scan by the beneficiary of the transfer (see Lydia user manual).
 
-For more information on personalised security devices, the Consumer should consult the Lydia Manual.
+For more information on personalized security devices, the Consumer should consult the Lydia Manual.
 
 Each time they register or enter their personal identifiers, the Consumer must ensure that their environment is secure.
 
@@ -569,11 +572,11 @@ Communications with the Service are made only through secure channels. Lydia doe
 
 **The fight against money laundering and the financing of terrorism**
 
-In application of the provisions of articles L.561-2 and subsequent of the Monetary and Financial Code relating to the participation of financial organisations in the fight against money laundering and the financing of terrorist activities, the Partners in their capacity as electronic money or payment service establishments, ​​digital asset service provider (PSAN) or credit institution and Lydia as PSP Agent, are bound by certain regulations and obligations ​​to fight against money laundering and terrorist financing and against corruption. 
+In application of the provisions of articles L.561-2 and subsequent of the Monetary and Financial Code relating to the participation of financial organizations in the fight against money laundering and the financing of terrorist activities, the Partners in their capacity as electronic money or payment service establishments, ​​digital asset service provider (PSAN) or credit institution and Lydia as PSP Agent, are bound by certain regulations and obligations ​​to fight against money laundering and terrorist financing and against corruption. 
 
-As such, Lydia and its Partners . can carry out all the procedures necessary for the identification of the Consumer and the beneficiary (Know Your Customer obligations,). They are also required to exercise constant vigilance over the business relationship, in accordance with applicable laws, and to examine the transactions carried out by the Consumer, ensuring that they are consistent with the current knowledge of the Consumer. In this respect, they may have to set up monitoring systems and, in the presence of transactions that appear to them to be inconsistent or suspicious, unusual or exceptional, to inquire of the Consumer or, where applicable, his or her agent, as to the origin or destination of the funds, the purpose and nature of the transaction or the identity of the person benefiting from it. If they fail to do so, Lydia and its Partners reserve the right not to execute the transaction or to cancel it or to terminate the contractual relationship.
+As such, Lydia and its Partners. can carry out all the procedures necessary for the identification of the Consumer and the beneficiary (Know Your Customer obligations,). They are also required to exercise constant vigilance over the business relationship, in accordance with applicable laws, and to examine the transactions carried out by the Consumer, ensuring that they are consistent with the current knowledge of the Consumer. In this respect, they may have to set up monitoring systems and, in the presence of transactions that appear to them to be inconsistent or suspicious, unusual or exceptional, to inquire of the Consumer or, where applicable, his or her agent, as to the origin or destination of the funds, the purpose, and nature of the transaction or the identity of the person benefiting from it. If they fail to do so, Lydia and its Partners reserve the right not to execute the transaction or to cancel it or to terminate the contractual relationship.
 
-The Consumer also recognises that Lydia and its Partners may issue reports to the competent authorities (Tracfin alerts for the fight against clandestine financial circuits), voluntarily or on request, voluntarily or on request (response to judicial or administrative requisitions).
+The Consumer also recognizes that Lydia and its Partners may issue reports to the competent authorities (Tracfin alerts for the fight against clandestine financial circuits), voluntarily or on request, voluntarily or on request (response to judicial or administrative requisitions).
 
 The Consumer acknowledges that Lydia or its Partners may at any time terminate or postpone the opening of the Lydia Consumer Account, or the execution of an operation in the absence of sufficient information on its object or nature.
 
@@ -581,9 +584,9 @@ In this respect, no prosecution based on article 226-13 of the penal code and no
 
 Politically Exposed Persons
 
-As part of its obligations to combat money laundering and the financing of terrorism, Lydia and its partners are required to apply additional due diligence measures with respect to politically exposed persons (hereinafter referred to as "PEPs"), who are subject to specific regulations due to the particular risks they and/or their close relations face in terms of financial support for terrorism, attempted corruption or the circulation of capital of fraudulent origin for money laundering purposes. In view of this higher risk, Lydia and its Partners are subject, in addition to the due diligence measures provided for any Consumer, to enhanced control and additional due diligence measures at the inception of the business relationship and during the execution of the Service.
+As part of its obligations to combat money laundering and the financing of terrorism, Lydia and its partners are required to apply additional due diligence measures with respect to politically exposed persons (hereinafter referred to as "PEPs"), who are subject to specific regulations due to the particular risks they and/or their close relations face in terms of financial support for terrorism, attempted corruption or the circulation of the capital of fraudulent origin for money laundering purposes. In view of this higher risk, Lydia and its Partners are subject, in addition to the due diligence measures provided for any Consumer, to enhanced control and additional due diligence measures at the inception of the business relationship and during the execution of the Service.
 
-Lydia reminds you that a PEP is defined under Article L. 561-10 of the Monetary and Financial Code as: "a person who is exposed to particular risks by reason of the political, jurisdictional or administrative functions that he/she performs or has performed or those performed by direct members of his/her family or by persons known to be closely associated with him/her, or who becomes so during the course of the business relationship".
+Lydia reminds you that a PEP is defined under Article L. 561-10 of the Monetary and Financial Code as: "a person who is exposed to particular risks by reason of the political, jurisdictional or administrative functions that he/she performs or has performed or those performed by direct members of his/her family or by persons known to be closely associated with him/her, or who become so during the course of the business relationship".
 
 Consequently, any Consumer corresponding to this definition undertakes to perform all necessary diligence to enable Lydia and its Partners to carry out an enhanced review of the transactions carried out on his/her Consumer Account, to inform them of any exceptional transaction compared to the transactions usually recorded on his/her Consumer Account and to provide them with any document or information required in order to enable Lydia and its Partners to justify compliance with this specific regulation to the relevant authorities.
 
@@ -613,9 +616,9 @@ A Consumer can also be blocked if the amount of their transactions, singular or 
 
 Lydia informs its Consumer of the existence of an anti-fraud mechanism that may lead to the registration of the Consumer on a list of persons presenting a risk of fraud and may lead to the blocking of the Consumer Account:
 
-*   In the event of a suspected unauthorised or fraudulent transaction;
-*   In the event of a significantly increased or proven risk that the paying Consumer is unable to fulfil their payment obligation;
-*   If it turns out that the Consumer is in breach of these T&Cs, for example if they hold several Lydia Accounts.
+*   In the event of a suspected unauthorized or fraudulent transaction;
+*   In the event of a significantly increased or proven risk that the paying Consumer is unable to fulfill their payment obligation;
+*   If it turns out that the Consumer is in breach of these T&Cs, for example, if they hold several Lydia Accounts.
 
 When Lydia refuses to execute a transaction, the Consumer is immediately informed by email, as soon as possible and, in any event, within three working days of the refusal. Lydia also indicates to the Consumer:
 
@@ -623,9 +626,9 @@ When Lydia refuses to execute a transaction, the Consumer is immediately informe
 *   In the event of a material error, the appropriate correction;
 *   In case of insufficient funds, the need to recharge the Consumer Account.
 
-Lydia also reserves the right to block any specific payment instrument in the Consumer's possession for reasons relating to the security of the payment instrument, the presumption of unauthorised or fraudulent use of the payment instrument, the failure to produce appropriate documentation and evidence, measures deemed necessary by Lydia to comply with its regulatory obligations, or the significantly increased risk that the Consumer (or legal representative) will be unable to meet its payment obligation.
+Lydia also reserves the right to block any specific payment instrument in the Consumer's possession for reasons relating to the security of the payment instrument, the presumption of unauthorized or fraudulent use of the payment instrument, the failure to produce appropriate documentation and evidence, measures deemed necessary by Lydia to comply with its regulatory obligations, or the significantly increased risk that the Consumer (or legal representative) will be unable to meet its payment obligation.
 
-To request the unlocking of their Lydia Consumer Account, the Consumer can contact Lydia Support at the following email address: [support@lydia-app.com](mailto:support@lydia-app.com).
+To request the unlocking of their Lydia Consumer Account, the Consumer can contact Customer Care Service at the following email address: [support@lydia-app.com](mailto:support@lydia-app.com).
 
   
 
@@ -636,9 +639,9 @@ To request the unlocking of their Lydia Consumer Account, the Consumer can con
 
 On request, the Consumer undertakes to provide Lydia and its Partners all the information necessary to verify their identity and their transactions. 
 
-The Consumer declares and guarantees that the documents provided to Lydia and its Partners, as well as the information and / or certificates communicated to Lydia and its Partners when opening the account and throughout the duration of the Service, are, on the date on which they were delivered, correct, regular and sincere. Lydia draws the attention of the Consumers to the fact that it is their exclusive responsibility to comply with the legal obligations applicable to them. Lydia can in no way replace him/her in this area. In particular, the Consumer must comply with the tax obligations that apply to him, both in the various countries concerned by his / her transactions or investments concluded with Lydia or through its intermediation and in the country (ies) of his/her nationality or of his/her residence. He/she is committed to ensuring that any transaction carried out with Lydia or through its mediation complies with these laws, in particular in the fight against corruption and in tax matters.
+The Consumer declares and guarantees that the documents provided to Lydia and its Partners, as well as the information and/or certificates communicated to Lydia and its Partners when opening the account and throughout the duration of the Service, are, on the date on which they were delivered, correct, regular and sincere. Lydia draws the attention of the Consumers to the fact that it is their exclusive responsibility to comply with the legal obligations applicable to them. Lydia can in no way replace him/her in this area. In particular, the Consumer must comply with the tax obligations that apply to him, both in the various countries concerned by his / her transactions or investments concluded with Lydia or through its intermediation and in the country (ies) of his/her nationality or of his/her residence. He/she is committed to ensuring that any transaction carried out with Lydia or through its mediation complies with these laws, in particular in the fight against corruption and in tax matters.
 
-Lydia reminds the Consumer that the use of false documents is punishable under articles 441-1 and subsequent of the Penal Code. Consumers using false documents will be penalised by the closure of their Lydia Consumer Account and will be subject of a declaration and/or a complaint against them filed with the relevant authorities.
+Lydia reminds the Consumer that the use of false documents is punishable under articles 441-1 and subsequent of the Penal Code. Consumers using false documents will be penalized by the closure of their Lydia Consumer Account and will be subject of a declaration and/or a complaint against them filed with the relevant authorities.
 
 In addition, any Consumer providing false information will be liable for the payment of a penalty (see [Pricing & Limits Appendix](https://lydia-app.com/en/about/price.html?tab=limit)).
 
@@ -650,7 +653,7 @@ Lydia also reminds Consumers that their Lydia Account is strictly personal. It i
 
 When the Consumer makes a payment transaction, whether face to face or remotely, they must ensure the identity of the recipient and verify the amount of the transaction.
 
-Likewise, in the case of remote payment, on the Internet for example, the Consumer must be vigilant in ensuring that the payment platform used by the seller is secure.
+Likewise, in the case of remote payment, on the Internet, for example, the Consumer must be vigilant in ensuring that the payment platform used by the seller is secure.
 
 Lydia and its Partners are not responsible for any loss due to a technical breakdown of the payment system if such is reported to the Consumer by a message on the device or in another visible manner.
 
@@ -660,11 +663,11 @@ The Consumer undertakes not to use their Lydia Payment Accounts for the purchase
 
 **Positive Payment Account**
 
-The Consumer undertakes to honour any payment order made with their Lydia Payment Accounts. 
+The Consumer undertakes to honor any payment order made with their Lydia Payment Accounts. 
 
 Before each and every payment or withdrawal operation, the Consumer must systematically ensure that the balance of the Payment Account selected to support the operation is sufficient and available to be able to perform the operation and must stay that way until the operation is completed.
 
-The existence of a dispute between the Consumer and a third party, notably due to the non-conformity of an item or service sold, may not justify the refusal to honour a payment order.
+The existence of a dispute between the Consumer and a third party, notably due to the non-conformity of an item or service sold, may not justify the refusal to honor a payment order.
 
 **Rectification of a negative balance**
 
@@ -694,13 +697,13 @@ Consent to carry out a payment transaction is given by Consumers, before or afte
 
 *   Entering their confidential code on their phone or tablet;
 *   Remote communication and/or confirmation of the data;
-*   Communication or use of any personalised security data during a payment transaction;
+*   Communication or use of any personalized security data during a payment transaction;
 *   Presenting and holding the smartphone or tablet in front of a device identifying the presence of "contactless" technology;
 *   The use of a biometric recognition device (e.g. fingerprint sensor on the mobile phone).
 
 When the Consumer provides their banking data as part of a series of payment transactions, they give their consent once for all transactions. The Consumer may however withdraw their consent no later than the working day preceding the execution of a transaction.
 
-In all cases, any Consumer facing bankruptcy cannot revoke their consent to a payment order.
+In all cases, any Consumer-facing bankruptcy cannot revoke their consent to a payment order.
 
 16\. Lydia responsibility 
 --------------------------
@@ -719,7 +722,7 @@ In this context, when the unauthorized payment transaction has been correctly re
 
 In the event of an unauthorized payment transaction following the loss or theft of the payment instrument, the Consumer shall bear, before the information provided for in Article 11 "What to do in case of loss or theft of the device linked to the Lydia Consumer Account?”, losses linked to the use of this instrument, up to a limit of 50 euros (€).
 
-2) In the event that the Consumer incorrectly executes a transaction, Lydia shall endeavour to retrace the transaction and shall report on the result of its search, at the request of the Consumer and without any liability for Lydia provided it has respected its obligation of means.
+2) In the event that the Consumer incorrectly executes a transaction, Lydia shall endeavor to retrace the transaction and shall report on the result of its search, at the request of the Consumer and without any liability for Lydia provided it has respected its obligation of means.
 
 3) The Consumer bears all the losses occasioned by poorly executed operations if these losses result from a fraudulent act on his/her part or if he/she has not intentionally or through gross negligence satisfied the security obligations defined in these T&Cs.
 
@@ -727,7 +730,7 @@ In the event of an unauthorized payment transaction following the loss or theft 
 
 **Force majeure**
 
-Lydia cannot be held responsible in the event of force majeure defined by Article 1218 of the Civil Code and by the case law of the Court of Cassation as an external event, unforeseeable and irresistible, beyond the control of the debtor of the obligation, which could not be reasonably foreseen when the contract was concluded and the effects of which cannot be avoided by appropriate measures, prevents the performance of its obligation by its debtor.
+Lydia cannot be held responsible in the event of force majeure defined by Article 1218 of the Civil Code and by the case-law of the Court of Cassation as an external event, unforeseeable and irresistible, beyond the control of the debtor of the obligation, which could not be reasonably foreseen when the contract was concluded and the effects of which cannot be avoided by appropriate measures, prevents the performance of its obligation by its debtor.
 
 **Anti-money laundering and terrorist financing** 
 
@@ -745,7 +748,7 @@ Lydia will make its best efforts to ensure the continuity of the Service. Howeve
 
 Consumers acknowledge that their access to the Service may be occasionally restricted to allow the correction of errors, maintenance or the introduction of new features or new services.
 
-Consumers must ensure that their equipment is compatible with the Lydia Application and that they have installed the updates necessary for the proper functioning of the Service. The Consumer is personally responsible for the rental or acquisition, installation and maintenance of equipment and the rights to use the software.
+Consumers must ensure that their equipment is compatible with the Lydia Application and that they have installed the updates necessary for the proper functioning of the Service. The Consumer is personally responsible for the rental or acquisition, installation, and maintenance of equipment and the rights to use the software.
 
 The Consumer must have ensured, under his responsibility, the compatibility of his hardware terminal with the Lydia Service and to have installed all the updates necessary for the proper functioning of the Service, available on the application stores. 
 
@@ -754,9 +757,9 @@ Although Lydia makes its best efforts to optimize compatibility, it cannot guara
 17\. Use of Consumer personal information 
 ------------------------------------------
 
-Lydia attaches great importance to the protection and respect of privacy of its Consumers. For this reason, a [Personal Data Protection Policy](https://support.lydia-app.com/l/en/article/6ogzqxbjos-lydia-personal-data-protection-policy) was created to inform the Consumers about:
+Lydia attaches great importance to the protection and respect of the privacy of its Consumers. For this reason, a [Personal Data Protection Policy](https://support.lydia-app.com/l/en/article/6ogzqxbjos-lydia-personal-data-protection-policy) was created to inform the Consumers about:
 
-*   The way in which Lydia, as data controller, collects, uses and shares the personal data given directly by its Consumers and/or collected indirectly by Lydia during the use of the Service by Consumers;
+*   The way in which Lydia, as data controller, collects, uses, and shares the personal data given directly by its Consumers and/or collected indirectly by Lydia during the use of the Service by Consumers;
 *   The rights of Consumers over their personal data and how to exercise them.
 
 By accepting these T&Cs, the Consumer acknowledges having read and accepts Lydia's [Personal Data Protection Policy](https://support.lydia-app.com/l/en/article/6ogzqxbjos-lydia-personal-data-protection-policy), accessible at any time on https://support.lydia-app.com/l/en/article/6ogzqxbjos-lydia-personal-data-protection-policy.
@@ -830,9 +833,9 @@ The law applicable to these Terms of Service is French law. Only the English lan
 
 **Amicable settlement of disputes**
 
-For any dispute not resolved by making a complaint and relating to the management of a Consumer Account, to the execution, non-execution, interpretation, validity and termination of the application hereof, and before any legal action, Consumers are invited to make their complaint directly to the Mediator of the SFPMEI, by post, to the following address: M. le Médiateur de l'Association des Sociétés Financières 24 avenue de la Grande Armée, 75854 PARIS CEDEX 17 or via the website http://lemediateur.asf-france.com/.
+For any dispute not resolved by making a complaint and relating to the management of a Consumer Account, to the execution, non-execution, interpretation, validity, and termination of the application hereof, and before any legal action, Consumers are invited to make their complaint directly to the Mediator of the SFPMEI, by post, to the following address: M. le Médiateur de l'Association des Sociétés Financières 24 avenue de la Grande Armée, 75854 PARIS CEDEX 17 or via the website http://lemediateur.asf-france.com/.
 
-Recourse to mediation is a free procedure which is carried out in written form in the French language. The Parties (the Individual Customer and the PSP) may be represented by a lawyer or assisted by a third party of their choice and at their own expense. Each party may seek the advice of an expert at its own expense. 
+Recourse to mediation is a free procedure that is carried out in the written form in the French language. The Parties (the Individual Customer and the PSP) may be represented by a lawyer or assisted by a third party of their choice and at their own expense. Each party may seek the advice of an expert at its own expense. 
 
 **Competent jurisdictions**
 
@@ -842,7 +845,7 @@ As a consumer, you will benefit from any mandatory provisions of the law of the 
 
 **WITHDRAWAL FORM**
 
-In accordance with article [L.121-20-12 of the Consumer Code](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000022441302&cidTexte=LEGITEXT000006069565&dateTexte=20100703), I have a withdrawal period of 14 (fourteen) calendar days from subscription without cost or motive. This withdrawal is only valid if legibly addressed and completely filled out, before the expiry of the time period mentioned above, by post to the following address: 14 avenue de l’Opéra, 75001 Paris, France or to the email address [support@lydia-app.com.](mailto:support@lydia-app.com)
+In accordance with article [L.121-20-12 of the Consumer Code](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000022441302&cidTexte=LEGITEXT000006069565&dateTexte=20100703), I have a withdrawal period of 14 (fourteen) calendar days from subscription without cost or motive. This withdrawal is only valid if legibly addressed and completely filled out, before the expiry of the time period mentioned above, by post to the following address: 14 avenue de l’Opéra, 75001 Paris, France, or to the email address [support@lydia-app.com.](mailto:support@lydia-app.com)
 
 I, the undersigned (SURNAME / First names), \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ wish to withdraw my subscription to the Lydia Service, in accordance with the contract entered into on (subscription date dd/mm/yyyy) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ with Lydia and its Partners.
 
