@@ -76,6 +76,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   © Tiroler Landesregierung
             
+        *   Stadt Wien – [data.wien.gv.at](https://www.data.gv.at/auftritte/?organisation=stadt-wien/) ([https://www.data.gv.at/netiquette/](https://www.data.gv.at/netiquette/))
+            
     4.  **Belgium**
         *   Institut Geographique National - IGN Belgium ([https://creativecommons.org/licenses/by/1.0/](https://creativecommons.org/licenses/by/1.0/))
             
@@ -98,7 +100,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
     5.  **Brazil**
         *   FUNAI (Fundação Nacional do Índio)
             
-        *   Prefeitura de Goiânia ([https://www.goiania.go.gov.br/politica-de-privacidade/](https://www.goiania.go.gov.br/politica-de-privacidade/))
+        *   Prefeitura de Goiânia ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/), [https://www.goiania.go.gov.br/politica-de-privacidade/](https://www.goiania.go.gov.br/politica-de-privacidade/))
             
         *   Secretaria Municipal de Mobilidade e Transportes, Companhia de Engenharia de Tráfego de Sao Paulo (CET) ([https://creativecommons.org/licenses/by/3.0/](https://creativecommons.org/licenses/by/3.0/))
             
@@ -263,6 +265,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         72.  Gouvernement du Québec ([https://creativecommons.org/licenses/by/4.0/deed.fr](https://creativecommons.org/licenses/by/4.0/deed.fr))
             
+        73.  City of Toronto Open Data ([https://open.toronto.ca/open-data-license/](https://open.toronto.ca/open-data-license/))
+            
     7.  **Denmark**
         *   © COWI A/S
             
@@ -396,10 +400,14 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   Sheffield City Council ([http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/))
             
+        *   The Spatial Hub ([https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/))
+            
     12.  **Greece**
         *   EuroGeographics; Copyright Geomatics Ltd.
             
         *   © 2012 Epsilon International SA
+            
+        *   City Geospatial Data Management Department ([https://creativecommons.org/licenses/by/3.0/](https://creativecommons.org/licenses/by/3.0/))
             
     13.  **Greenland**
         
@@ -493,6 +501,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         *   Comune di Anzola dell'Emilia ([https://creativecommons.org/licenses/by/4.0/legalcode.it](https://creativecommons.org/licenses/by/4.0/legalcode.it))
             
         *   Comune di Rimini ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
+            
+        *   Istat – Istituto Nazionale di Statistica ([https://creativecommons.org/licenses/by/3.0/it/](https://creativecommons.org/licenses/by/3.0/it/))
             
     21.  **Ivory Cost (Côte d'Ivoire)**
         
@@ -629,6 +639,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         *   © IGP/DGRF
             
         *   Ciclovia.pt
+            
+        *   Agência para a Modernização Administrativa ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
             
     31.  **Russia**
         
@@ -768,19 +780,23 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   National Development Council, Open Government Data Taiwan, [data.gov.tw](https://data.gov.tw/) ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
             
-    40.  **Turkey**
+    40.  **Timor-Leste**
+        
+        OCHA Regional Office for Asia and the Pacific (ROAP) ([https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode))
+        
+    41.  **Turkey**
         
         © 2013 Basarsoft
         
-    41.  **Turks and Caicos**
+    42.  **Turks and Caicos**
         
         © Salt Cay Devco Ltd.
         
-    42.  **Ukraine**
+    43.  **Ukraine**
         
         © Transnavicom - [http://www.transnavi.com/](http://www.transnavi.com/)
         
-    43.  **United States.**
+    44.  **United States.**
         
         Google’s maps of the United States include data provided from the following sources:
         
@@ -1128,15 +1144,24 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         172.  The World Bank ([https://datacatalog.worldbank.org/public-licenses#cc-by](https://datacatalog.worldbank.org/public-licenses#cc-by))
             
-    44.  **United Arab Emirates / Abu Dhabi**
+        173.  State of Maryland
+            
+        174.  Open Data DC. City of Washington, DC. Data retrieved from DC Data Catalog ([https://opendata.dc.gov/](https://opendata.dc.gov/)) ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
+            
+        175.  Commonwealth of Massachusetts
+            
+        176.  University of California, Berkeley. Museum of Vertebrate Zoology ([https://geo.nyu.edu/catalog/stanford-jc183kb8891/metadata](https://geo.nyu.edu/catalog/stanford-jc183kb8891/metadata))
+            
+    45.  **United Arab Emirates / Abu Dhabi**
         
         Abu Dhabi Government ([https://addata.gov.ae/addata\_open\_license](https://addata.gov.ae/addata_open_license))
         
-    45.  **Uruguay**
-        
-        © 2000 Aviation Systems
-        
-    46.  **Worldwide**
+    46.  **Uruguay**
+        *   © 2000 Aviation Systems
+            
+        *   Servicio de Geomática, República Oriental del Uruguay. Dataset used: [https://catalogodatos.gub.uy/dataset/intendencia-montevideo-parcelas-catastrales](https://catalogodatos.gub.uy/dataset/intendencia-montevideo-parcelas-catastrales) ([https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/sites/agencia-gobierno-electronico-sociedad-informacion-conocimiento/files/documentos/publicaciones/licencia\_de\_datos\_abiertos\_0.pdf](https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/sites/agencia-gobierno-electronico-sociedad-informacion-conocimiento/files/documentos/publicaciones/licencia_de_datos_abiertos_0.pdf))
+            
+    47.  **Worldwide**
         *   Unicode Common Locale Data Repository © Unicode, Inc. ([https://www.unicode.org/copyright.html](https://www.unicode.org/copyright.html)). All rights reserved.
             
         *   © 2010 Europa Technologies
@@ -1177,23 +1202,23 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   Landsat / Copernicus
             
-    47.  **Chile**
+    48.  **Chile**
         
         Biblioteca del Congreso Nacional de Chile ([https://creativecommons.org/licenses/by/3.0/cl/](https://creativecommons.org/licenses/by/3.0/cl/))
         
-    48.  **Zambia**
+    49.  **Zambia**
         
         OCHA Regional Office for Southern and Eastern Africa (ROSEA) ([https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses))
         
-    49.  **Mali**
+    50.  **Mali**
         
         OCHA Mali ([https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses))
         
-    50.  **Madagascar**
+    51.  **Madagascar**
         
         OCHA FIS ([https://data.humdata.org/about/license](https://data.humdata.org/about/license))
         
-    51.  **Papua New Guinea**
+    52.  **Papua New Guinea**
         
         WFP - World Food Programme ([https://creativecommons.org/licenses/by/4.0/legalcode](https://creativecommons.org/licenses/by/4.0/legalcode))
         
