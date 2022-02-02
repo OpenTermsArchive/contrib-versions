@@ -42,7 +42,7 @@ Other Limitations
 Fees and Renewal
 ----------------
 
-The membership fee for Prime is stated in the [Prime section](https://www.amazon.com/GP/HELP/CUSTOMER/DISPLAY.HTML?NODEID=200966690) of our Help pages. From time to time, we may offer different membership terms, and the fees for such membership may vary. The Prime membership fee is non-refundable except as expressly set forth in these Terms. Taxes may apply on either or both of the membership fee and the reduced shipping charges for Prime.
+The membership fee for Prime is stated in the [Prime section](https://www.amazon.com/gp/help/customer/display.html?nodeId=GJNNP777QLUYFPNG) of our Help pages. From time to time, we may offer different membership terms, and the fees for such membership may vary. The Prime membership fee is non-refundable except as expressly set forth in these Terms. Taxes may apply on either or both of the membership fee and the reduced shipping charges for Prime.
 
 If you sign up for your Prime membership through us and are billed by us, then the billing terms described below will apply to your membership.
 
