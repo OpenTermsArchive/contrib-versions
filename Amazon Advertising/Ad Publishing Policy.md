@@ -15,13 +15,13 @@ Overview
 
 [1.2 Background colours and borders](#background)
 
-[1.3 Distracting ads](#distracting)
+[1.4 Distracting ads](#distracting)
 
-[1.4 Fake functionality](#fake-functionality)
+[1.5 Fake functionality](#fake-functionality)
 
-[1.5 Image quality](#imagequality)
+[1.6 Image quality](#imagequality)
 
-[1.6 Sponsored Display custom images](#sponsoreddisplay-customimages)
+[1.8 Sponsored Display custom images](#sponsoreddisplay-customimages)
 
 2.0 Advertising copy
 
@@ -75,39 +75,39 @@ Overview
 
 [7.1 Alcohol](#alcohol)
 
-[7.2 Charities and other non-profits and PSA](#charities)
+[7.3 Charities and other non-profits, and PSA](#charities)
 
-[7.3 Contests, competitions and prize draws](#contests)
+[7.4 Contests, competitions and prize draws](#contests)
 
-[7.4 Entertainment](#entertainment)
+[7.5 Entertainment](#entertainment)
 
-[7.5 Financial products and services](#finserv)
+[7.6 Financial products and services](#finserv)
 
-[7.5.1 Credit services](#credit)
+[7.6.1 Credit services](#credit)
 
-[7.6 Gambling products and services](#gambling)
+[7.7 Gambling products and services](#gambling)
 
-[7.8 Intellectual property and personal rights](#ipr)
+[7.9 Intellectual property and personal rights](#ipr)
 
-[7.9 Job sites](#jobsites)
+[7.10 Job sites](#jobsites)
 
-[7.10 Nudity and sexuality](#nudityandsexuality)
+[7.11 Nudity and sexuality](#nudityandsexuality)
 
-[7.10.1 Nudity](#nudity)
+[7.11.1 Nudity](#nudity)
 
-[7.10.2 Sexuality](#sexuality)
+[7.11.2 Sexuality](#sexuality)
 
-[7.11 Online dating](#dating)
+[7.13 Online Dating](#dating)
 
-[7.12 Pharmaceuticals and health and beauty](#pharma)
+[7.14 Pharmaceuticals and health and beauty](#pharma)
 
-[7.12.1 Prescription medicines](#rx)
+[7.14.1 Prescription medicines](#rx)
 
-[7.12.2 Over-the-counter medicines (OTC)](#otc)
+[7.14.2 Over-the-counter medicines (OTC)](#otc)
 
-[7.12.3 Baby formula/infant formula (Australia, Brazil, Europe and UAE)](#formula)
+[7.14.3 Supplements (nutritional/health)](#supplements)
 
-[7.12.4 Sexual wellness](#wellness)
+[7.14.4 Durable medical equipment (DME)/Non-Rx medical devices](#dme)
 
 [7.12.5 Feminine care](#femcare)
 
@@ -119,19 +119,19 @@ Overview
 
 [7.12.9 Weight-loss products](#weightloss)
 
-[7.13 Security products](#security)
+[7.15 Security products](#security)
 
-[7.14 Weapons (content featuring weapons)](#weapons)
+[7.17 Weapons (content featuring weapons)](#weapons)
 
-[7.14.1 Firearms](#firearms)
+[7.17.1 Firearms](#firearms)
 
-[7.14.2 Other weapons](#otherweapons)
+[7.17.2 Other weapons](#otherweapons)
 
-[7.14.3 Military equipment](#military)
+[7.17.3 Military equipment](#military)
 
-8.0 Display ad policies for MENA
+8.0 Display Ad Policies for MENA
 
-[8.0 Display ad policies for MENA](#mena)
+[8.0 Display Ad Policies for MENA](#mena)
 
 [8.1 Content restrictions](#mena-contentrestrictions)
 
@@ -169,52 +169,42 @@ To view recent updates to these policies, please see our [Ad Policy Change Log](
 
 ### 1.0 General creative guidelines
 
-We apply a high creative bar to ad content to ensure a consistent, high-quality customer experience. The policies in this section apply to all ads and serve to ensure a minimum quality bar.
+We apply a high creative bar to ad content to ensure a consistent, high-quality customer experience. The policies in this section apply to all ads and serve to ensure a minimum quality bar. These policies apply to all display ads in all locales unless otherwise indicated. All product or locale variations are listed in the relevant sections.
 
 ### 1.1 Advertiser branding
 
-Your brand name or logo must be clearly visible in the ad to ensure that customers can readily identify you as the advertiser.  
-  
-If an ad features both your brand name or logo and an Amazon logo, your brand name or logo must be the largest and most prominent.  
-  
-For ads promoting films, TV programmes, video games, music titles and apps, the name of a band or the title of a TV programme, film or video game can be treated as the brand name.
+Your brand name or logo must be clearly visible in the ad to ensure that customers can readily identify you as the advertiser.
 
 ### 1.2 Background colours and borders
 
-Customers must be able to distinguish ads from non-sponsored content on the page. Amazon imposes certain restrictions on background colours and design to ensure that ads are distinct from non-sponsored content on the page and that customers can identify the clickable spaces associated with an ad.  
-  
-Ads without borders cannot feature white or off-white background colour.  
-  
-If an ad does not have a border, it must feature a background colour that contrasts with the white/off-white background colour of the page. For example, ads without borders can feature a light grey background colour.  
-  
-Mobile ads cannot have a white bar dividing the creative, as this mimics elements of Amazon Mobile Gateway house creatives.  
-  
-Ads that take up most of the screen (such as mobile interstitial ads, tablet and Kindle wake screen ads) or are distinct from their page backgrounds because of ad placement design (such as Marquee ads, Seller Central login and homepage placements) do not require a border. See [individual specs pages](https://advertising.amazon.com/resources/ad-specs?ref_=a20m_us_spcs_cap_spcs) for more details about background and border requirements per ad product.
+Customers must be able to distinguish ads from non-sponsored content on the page. Amazon imposes certain restrictions on background colours and design to ensure that ads are distinct from non-sponsored content on the page and that customers can identify the clickable spaces associated with an ad.
 
-### 1.3 Distracting ads
+### 1.4 Distracting ads
 
 Animation features and other interactive elements in ads must be engaging and complement the customer experience and must not distract or deceive.  
   
 Prohibited distracting features include, but are not limited to,
 
-*   Flashing, blinking or pulsating objects, images or text.
+*   Flashing, blinking or pulsating objects, images or text. Ad elements that pulsate for up to three seconds (such as a CTA button that animates briefly at the end of an ad) are permitted provided they do not mimic user interaction.
 *   Frequent or fast contrast transitions (for example frames with multiple changes from white to black).
 *   Excessive animation (for example, frame changes occur every one or two seconds or visual objects within the animation that seem to move constantly).
 *   Animation that mimics user interaction, such as moving mouse cursors or clicking buttons.
 
-### 1.4 Fake functionality
+### 1.5 Fake functionality
 
 Fake functionality can trick customers into clicking on ads by believing that certain inactive elements of an ad are interactive and can provide value to them.  
   
-Ad elements that a customer would usually expect to be able to interact with must be functional. For example, ads with a free text field prompting the customer to “enter your postcode” must lead to a landing page with information tailored to that customer’s postcode. Driving to a generic landing page or asking for the postcode to be re-entered is prohibited.
+Ad elements that a customer would usually expect to be able to interact with must be functional. For example, ads with a free text field prompting the customer to “enter your postcode” must lead to a landing page with information tailored to the entered postcode. Driving to a generic landing page or asking for the postcode to be re-entered is prohibited.
 
-### 1.5 Image quality
+### 1.6 Image quality
 
+To be consistent with the rest of the content on the page and ensure that customers can read and understand the ad, we prohibit low-quality images (as described below).  
+  
 Images in ads must meet the file size, resolution and file type restrictions that are specified per size/placement (see [ad specs](https://advertising.amazon.com/resources/ad-specs?ref_=a20m_us_spcs_cap_spcs) for more details).  
   
 Prohibited low-quality images include, but are not limited to: crowded images with too many visual objects in one creative, blurry, distorted, low-resolution, pixellated, smudged or stretched images.
 
-### 1.6 Sponsored Display custom images
+### 1.8 Sponsored Display custom images
 
 Custom images allow you to include compelling images that represent your products or brand in context or a lifestyle setting in your ad. Images must not contradict the landing page and must be of high resolution and quality and aesthetically pleasing. Images must not:
 
@@ -257,19 +247,29 @@ Pillar box image
 
 ### 2.0 Advertising copy
 
-Ads must be clear and accurate so that customers receive correct information before engaging with an ad or deciding to purchase a product.
+Ads must be clear and accurate so that customers receive correct information before engaging with an ad or deciding to purchase a product.  
+  
+Ad copy is always required when the ad contains special offers, sweepstakes or promotions.  
+  
+Text within ads must run horizontally in most cases. Text that is short and easily readable in a vertical format (i.e. logos) is permitted to run vertically. This rule does not apply to ads in languages that are typically written vertically.
 
 ### 2.1 Call to action (CTA)
 
 CTA is the portion of the ad that prompts customers to take a suggested action. A clear and direct CTA helps improve the performance of your ads by setting customer expectation for the landing page experience.  
   
-All desktop ads running onsite and Fire device ads require a CTA. A CTA is encouraged on mobile but not required if the experience on the landing page is already clear from the ad.  
+All desktop ads running on Amazon and Fire devices require a CTA. A CTA is encouraged on mobile but not required if the experience on the landing page is already clear from the ad. CTAs are encouraged but not required for ads running off Amazon.  
   
-When used, the CTA must contain no end punctuation. If the content that you are linking to requires a subscription, this must be made explicit either in the CTA or elsewhere in the creative.  
+CTAs must not contain end punctuation.  
+  
+If the content that you are linking to requires a subscription, this must be made explicit either in the CTA or elsewhere in the creative.  
   
 We do not require the CTA to be present throughout animated ads but it must be in the final frame.  
   
-A list of pre-approved CTAs can be found [here](https://advertising.amazon.com/resources/ad-policy/creative-acceptance/pre-approved-ctas?ref_=a20m_us_spcs_cap_spcs_cta).
+Ads that include an Alexa Voice CTA (e.g. “Alexa, order Bounty paper towels”) cannot include a secondary CTA, such as “Shop now”. For Fire Tablet only, a “Learn more” button CTA is permitted, because the whole of the ad unit is not clickable.  
+  
+For FireTV inline banners only, a CTA does not have to explicitly indicate that a customer will be directed to a video (i.e. “Watch video”) if the ad links to an auto-play video. All other placements must clearly indicate that a video will play after the customer clicks the ad if that is the case.  
+  
+For ads on Amazon, the CTA must:
 
 Additional CTA requirements per ad product
 
@@ -281,7 +281,9 @@ Additional CTA requirements per ad product
 
 Advertising claims must be accurate, truthful and substantiated.  
   
-The following information must be included either in the disclosure section of the ad text or on the landing page (the data used must be from a reputable source and cannot be more than 18 months old):
+When substantiation is required, advertisers must identify the source and date of the evidence. The source can be the advertiser’s data or third-party data, depending on the type of claim (see below). The data should not be more than 18 months old, other than for efficacy claims (such as stating that a shampoo could leave your hair “Up to 100% flake free”), where it can be more than 18 months old.  
+  
+The following information must be included either in the disclosure section of the ad text or on the landing page:
 
 *   Awards: The name of the award provider, and the year of the award.
 *   Survey results: The source and date of the survey.
@@ -289,21 +291,17 @@ The following information must be included either in the disclosure section of t
 *   Superlative and comparative claims: An independent source that supports the claim, and the date of the study.
 *   Environmental claims: An independent source that supports the claim, and the date of the study.
 
+\* Substantiation is not required for superlative claims that only reference a brand’s own products, e.g. “Our most powerful vacuum cleaner” or “\[brand\]'s most advanced formulation yet”.  
+  
 If a product shot includes substantiation for a claim, Amazon does not require additional substantiation.
 
-#### 2.2.1 Prices and saving claims
+#### 2.2.1 Pricing and savings claims
 
 To ensure accuracy, price/savings claims must be communicated via dynamic e-commerce ads (DEA) when these are available for the given ad size. In line with this requirement, DEAs must not include a price or savings claim in the static portion of the ad.  
   
-JP: Starting on 1 April 2021, pricing claims must include the consumption tax. For example, when a product price is JPY 1,000, “JPY 1,100 including 10% consumption tax of JPY 100” is approved, but JPY 1,000 (without the consumption tax) is not approved.  
-  
-AT: Pricing claims addressed to consumers always have to include the VAT.  
-  
-AU/NZ: For “Save up to X%” claims, at least 20% of the ASINs must be at the maximum discount specified.  
-  
-Pricing and saving claims must:
+This policy applies to the following message types:
 
-*   Be consistent across the ad and the landing page. If the ad promotes a percentage savings (for example, “10% off”), the landing page must also reference the percentage saving, not only the dollar saving. If the claim on the ad becomes inaccurate due to dynamic pricing on the landing page, creatives must be paused and updated to use qualified claims. For example, Save $XX or more, Save up to XX%.
+*   Be the exact same across the ad and the landing page. If the ad promotes a percentage savings (for example, “10% off”), the landing page must also reference the percentage saving, not only the dollar saving. If the claim on the ad becomes inaccurate due to dynamic pricing on the landing page, creatives must be paused and updated to use qualified claims. For example, Save $XX or more, Save up to XX%.
 *   Clarify when the amount varies across multiple promoted products (for example, “Save up to X% on selected products”).
 *   Be used in the correct context. For example, use phrases such as “limited-time offer” for time-bound savings claims.
 *   Use seasonal claims during the relevant promotional period only. For example, “Back to school offers” or “Valentine’s Day Special Prices” are only acceptable during the periods leading up to the beginning of the school year or Valentine’s Day.
@@ -334,6 +332,10 @@ Customer reviews sourced from third parties are prohibited. You may use editoria
   
 Ads may not solicit customer reviews.  
   
+Customer reviews are not permitted for Sponsored Display in JP.  
+  
+To be eligible, products must have an Amazon star rating of at least 3.5 and a minimum of 15 customer reviews.  
+  
 When permitted, customer reviews must:
 
 *   Be genuine and not induced or paid.
@@ -354,13 +356,9 @@ Customer review quotes are supported in Dynamic e-commerce ads (see specs and gu
 
 #### 2.4.2 Star ratings
 
-Ads can only include Amazon star ratings. Third-party star ratings are prohibited.  
+Ads can only include Amazon star ratings. Third-party star ratings are prohibited. There is an exception for movie ads to include third-party star ratings, due to the ubiquity of star ratings in that industry, provided the source of the star rating is clear.  
   
-To include a star rating in an ad, the product must have i) at least 15 customer reviews, and ii) a minimum average star rating of 3.5. For Automotive campaigns only, we can allow a star rating based on i) at least eight customer reviews and ii) a minimum star rating of 4.  
-  
-For mobile and desktop ads, star ratings may only be used within e-commerce creative to ensure that the information is up to date.  
-  
-For Fire devices and video ads, static star ratings are permitted but must be date-stamped. Your campaign cannot run for more than three months with the same star rating to avoid stale data.
+To include a star rating in an ad, the product must have i) at least 15 customer reviews, and ii) a minimum average star rating of 3.5. For Automotive campaigns only, we can allow a star rating based on i) at least eight customer reviews and ii) a minimum star rating of 4.
 
 ### 2.5 Disclosures
 
@@ -372,29 +370,7 @@ Disclosures must meet the specifications listed below (see “Minimum Font Sizes
 
 ### 2.6 Editorial guidelines
 
-Ads must be clean, grammatically correct and professional just like the rest of the content on Amazon properties. The following are prohibited on all ads.  
-  
-Misspellings and grammatical errors such as a wrong verb tense. Slang or wordplay (such as “Cuz” as opposed to “Because”) may be permitted if otherwise compliant with these policies.  
-  
-Random capitalisation (such as “QUALITY HeadPhones”), except for common abbreviations or trademarks, is prohibited.  
-  
-Improper punctuation, such as repeated questions or exclamation marks (“!!!”).  
-  
-Special characters such as @@, ###, emojis, except when part of the advertiser’s logo or included on the product image. Hashtags (#) are permitted if they do not contain inappropriate content (for example, #\[profanity\]).  
-  
-Ad copy that uses personalised language (such as “you/your”) that may be perceived by a customer as if you are addressing him/her directly and that may cause customer discomfort. For example, ad copy reading “Use our product to solve for your incontinence problems” or “You are overweight. Use our dietary supplement”.  
-  
-Ad copy that acknowledges or implies the targeting criteria used for the campaign. For example, an ad copy reading “Did you enjoy your recent purchase of \[product\]? Try our newest model”.  
-  
-Inconsistency between ad copy and landing page. You must present the same offer or product both in your ad copy and on your landing page. For example, we would prohibit ad copy reading “Save on household supplies” with an image of a dish soap leading to a landing page that features vacuum cleaners.  
-  
-Ads must not promote the sale of products that are out-of-stock, back-ordered or under recall, or services that are unavailable for purchase at the time that the campaign runs. Ads must be paused when the product or service promoted becomes unavailable. Ads for products that are only available for pre-order are permitted if this is clear in the ad, for example, by using a “pre-order” call to action (CTA).  
-  
-Landing pages consisting solely of a sign-up/registration form. Your landing page should expand on your ad’s message and provide a satisfactory experience before the customer is forced to enter his/her info to find out more. For example, we prohibit landing pages that consists solely of a form to collect contact information. This block only applies to ads running on Amazon. Ads running off Amazon may drive to a page consisting solely of a sign up/registration form as long as the ad copy or CTA makes it clear what the customer should expect on the landing page.  
-  
-Interactive ad elements that are not appropriately placed. Inappropriately placed interactive elements such as call to action (CTA) buttons, sliders or video playback buttons can cause customer discomfort. For example, we prohibit placing a CTA button over a model’s breasts or a slider over a gruesome image.  
-  
-No deal teaser messaging is allowed (i.e. “50% off starting next Friday”). This policy does not apply in Japan.
+Ads must be clean, grammatically correct and professional just like the rest of the content on Amazon properties. The following are prohibited on all ads:
 
 ### 2.7 Special or free offers
 
@@ -406,9 +382,7 @@ In Sweden and Israel, ads including a “free” offer must include the value of
 
 ### 2.8 Language
 
-Ads must be in the primary language of the site on which they appear.  
-  
-Ads in a foreign language may be permitted if targeted to customers that are physically located in another country or based on the customer’s language setting preferences, with the exceptions listed below.
+Ads must be in the primary language of the site on which they appear, unless using one of the targeting options below:
 
 Fire TV
 
@@ -436,13 +410,13 @@ Latin alphabet
 
 |     | **Desktop** | **Mobile** | **Tablet** |
 | --- | --- | --- | --- |
-| **Ad copy** | Between Arial 12pt and 25pt or equivalent | Minimum 16pt Arial or equivalent (@2X resolution) | Between 32 and 50pt Arial or equivalent (@2X resolution) |
+| **Ad copy** | Between Arial 12 pt and 25 pt or equivalent | Minimum 16 pt Arial or equivalent (@2X resolution) | Between 32 and 50 pt Arial or equivalent (@2X resolution) |
 
 Japanese
 
 |     | **Desktop** | **Mobile** |
 | --- | --- | --- |
-| **Ad copy** | Between 9.5 and 45pt UD Shin Go or equivalent | 640 × 100: Minimum 16pt UD Shin Go or equivalent (@2x resolution)  <br>  <br>600 × 500: Between 16 and 90pt UD Shin Go or equivalent (@2x resolution)  <br>  <br>1242 × 375: Minimum 40pt UD Shin Go or equivalent (@3x resolution) |
+| **Ad copy** | Between 9.5 and 45 pt UD Shin Go or equivalent | 640 × 100: Minimum 16 pt UD Shin Go or equivalent (@2X resolution)  <br>  <br>600 × 500: Between 16 and 90 pt UD Shin Go or equivalent (@2X resolution)  <br>  <br>1242 × 375: Minimum 40 pt UD Shin Go or equivalent (@3X resolution) |
 
 The following placements or formats have specific font size or word count requirements:
 
@@ -468,7 +442,7 @@ Ads on Amazon must not contain:
 *   Pressuring language that creates a sense of urgency (for example “Hurry while supplies last”)
 *   Repeated exclamation or question marks (for example, “!!!”)
 *   Any end punctuation in calls to action (for example, “Shop now!”, or “Find out more?”)
-*   Any combination of two or more of the following elements on copy related to a deal or offer: copy in ALL CAPS, between 8.30 p.m and 5 p.m., exclamation points, large font sizes (for example, “UNMISSABLE SUMMER DEALS!”).
+*   Any combination of two or more of the following elements on copy related to a deal or offer: copy in ALL CAPS, between 8.30 p.m. and 5 a.m., exclamation points, large font sizes (for example, “UNMISSABLE SUMMER DEALS!”).
 
 ### 3.0 Amazon brand elements
 
@@ -508,7 +482,7 @@ Ads must comply with [ad specs requirements](https://advertising.amazon.com/reso
 *   When audio is switched on by the customer, a mute button is required.
 *   Video ads (on Amazon) without sound are permitted, but only if the video can be understood without sound.
 
-*   Alcohol ads must comply with any necessary locale specific requirements, as set out in [7.1](#alcohol).
+*   Alcohol ads must comply with any necessary locale-specific requirements, as set out in [7.1](#alcohol).
 
 #### Customer-initiated video ads
 
@@ -526,7 +500,7 @@ Placements or formats specs requirements
 Content prohibited for all ads
 
 *   Children in adult or dangerous situations. For example, ads must not show children close to, or handling, firearms or other weapons, or in situations which may contravene established child safety best practices (such as children in vehicles without their seat belts fastened or cycling without helmets) or without adult supervision in places or situations where they cannot safely look after themselves (such as swimming pools, crossing busy roads or around dangerous equipment).
-*   Deceptive, false or misleading.
+*   Deceptive, false or misleading content.
 *   Directly targeted at or that appeal to children due to the messaging, imagery or targeting.
 *   Emotionally draining or exploitative, including content that portrays abused humans or animals.
 *   Content that promotes practices that can result in the physical or mental harm of customers.
@@ -535,14 +509,14 @@ Content prohibited for all ads
 *   Exploitation of sensitive events such as natural disasters, human-caused disasters, incidents of mass trauma and/or casualties, or the death of public figures.
 *   Full nudity, which Amazon defines as fully visible intimate body parts: genitals, female breasts (not including breastfeeding), and buttocks.
 *   Obscene, controversial, defamatory, libellous, illegal or invasive of another’s privacy.
-*   Political such as campaigns for or against a politician or a political party, or related to an election or content related to political issues of public debate.
+*   Political, such as campaigns for or against a politician or a political party, or related to an election, or content related to political issues of public debate.
 *   Content that revolves around controversial or highly debated social topics.
 *   Pop-up and pop-unders.
 *   Pornography or explicit sexual content.
 *   Foul, vulgar or obscene language or language containing profanity, including obscured profanity (such as s@#t or WTF), graphic or suggestive language or double entendres or scatological references.
 *   Religious advocacy, either advocating or demeaning any religion.
 *   Threatening, abusive or harassing, or content that advocates or discriminates against a protected group (whether based on race, colour, national origin, religion, disability, sex, sexual orientation, disability, age or any similar or another category).
-*   Content that violates our Editorial Guidelines.
+*   Content that violates our [Editorial Guidelines](#editorialguidelines).
 *   AT: Comparative advertising relating to environmental effects of a product or service.
 *   NZ: Cultural appropriation or inappropriate use of Māori imagery, words and other taonga. For example, the use of Māori deities in ads is not permitted.
 
@@ -584,10 +558,10 @@ Products and services that cannot be promoted
 *   Products that are ineligible for sale or do not comply with [Amazon’s Category, Product and Listing Restrictions](https://sellercentral.amazon.com/gp/help/external/help-page.html?itemID=200301050&language=en_US?ref_=A20M_US_sellercentral_m_listingrestrictions).
 *   Religious or spiritual services.
 
-*   CH, DE, DK, FI, FR, NL, NO and SE: Content that promotes Scientology or Dianetics (e.g. books published by L Ron Hubbard).
+*   CH, DE, DK, FI, FR, NL, NO and SE: Content that promotes Scientology or Dianetics (e.g. books published by L. Ron Hubbard).
 
 *   Short-term high-interest loans with a repayment period under 12 months and an APR of more than 50% (or 25% in Denmark).
-*   Tattooing and body branding.
+*   Tattooing and body branding products and services.
 *   Ticket resellers (Australia and New Zealand only).
 *   UV tanning services and equipment.
 *   Weapons.
@@ -600,15 +574,13 @@ Amazon permits advertising for all the categories in this section with the speci
 
 The policies in this section apply to ads for the sale of alcoholic drinks (beer, wine and spirits) and branding campaigns for alcohol companies (these are campaigns by alcohol companies that do not promote the sale of alcoholic drinks, such as merchandise or sponsorships).  
   
-Alcohol ads can only run in the following locales: Australia, Austria, Belgium, Brazil, Canada, Germany, France, Ireland, Israel, Italy, Japan, Luxembourg, Mexico, the Netherlands, New Zealand, Spain and the UK. Please see the sections below for requirements that apply to alcohol ads in permitted locales.  
-  
-Alcohol ads are prohibited in India, Switzerland, the US and the UAE.  
-  
-Please note that this policy does not cover alcohol content featured in non-alcohol ads (for example, a film trailer starring actors consuming alcohol). As per the Prohibited Content policy, ad content must not encourage, glamorise or depict excessive consumption of alcohol.
+Alcohol ads are only permitted in some locales. Here is a quick view of permitted and prohibited locales. Please see section below for policy requirements that apply to alcohol ads in permitted locales.
 
 General requirements
 
 In those locales where alcohol ads are permitted, the following general rules apply in addition to the locale-specific requirements listed below. For placement and targeting requirements, please engage your customer support.  
+  
+Ads for the sale of alcohol in Australia, Mexico, Canada, Brazil and Europe must link to a page on Amazon.  
   
 Amazon prohibits campaigns from third-party alcohol retailers.  
   
@@ -761,8 +733,8 @@ Ads for the sale of alcohol in Australia, Canada, Mexico and Europe must link-in
 *   Disclaimer: Ads must include a warning statement that follows industry regulations and guidelines for alcohol consumption, for example: “Stop drinking if you are underage or you are driving. Enjoy a moderate amount of alcohol. Please don’t drink if you are pregnant or in a lactation period. Recycle can after drink.”
 *   Advertising hard liquor on the homepage is restricted to beer, cocktails, shochu, sake, plum wine, wine, brandy and whisky only. Ads must not show:
 
-*   A person drinking brandy/whisky in a gulping manner.
-*   Large bottles or other drinking containers.
+*   Definition of non-alcohol drink: beverage with 0.00% alcohol strength for adults aged 20 or above which tastes similar to an alcohol drink.
+*   Ads must have the warning statement to avoid underage drinking or another guardrail to avoid showing the ads to underage kids.
 
 ##### Israel
 
@@ -847,7 +819,7 @@ Alcohol ads featuring references to sports, such as showing professional footbal
 France  
 Ads cannot be associated with sports. Advertising cannot be placed on a website that is published by sport associations, sport companies and federations or professional leagues.
 
-### 7.2 Charities and other non-profits and PSA
+### 7.3 Charities and other non-profits, and PSA
 
 To ensure that the customer experience remains positive, ads must focus on the positive outcome of donating. For example, an ad for a pet charity featuring images of animals in distress would be prohibited, while an ad for a pet charity reading “Your support can help animals” without images of animals in distress would be permitted.  
   
@@ -855,11 +827,11 @@ Ads for charities are prohibited on Homepage and Fire devices.
 
 Public Service Announcements (“PSA”)
 
-PSA ads on Amazon are prohibited.
+A PSA is a message in the public interest with the objective of raising awareness and/or changing public attitudes and behaviour towards a social or medical issue. PSA ads on Amazon are generally prohibited. PSA ads seeking to run on Amazon require Amazon pre-approval and will be evaluated on a case-by-case basis.
 
-### 7.3 Contests, competitions and prize draws
+### 7.4 Contests, competitions and prize draws
 
-Ads for contests, competitions or prize draws must include all disclosures required by applicable laws and regulations. They must be present on the landing page. The programme’s official rules, or a clear link to official rules, must be present on the landing page.  
+Ads for contests, competitions or prize draws must include all disclosures required by applicable laws and regulations. They must be present on the landing page. Ads must indicate that official rules apply by including a disclosure to state that “T&Cs apply” or similar. The programme’s official rules, or a clear link to official rules, must be present on the landing page.  
   
 Ads must not misrepresent the odds of winning. For example, ads must not indicate or imply that everyone wins.
 
@@ -874,13 +846,9 @@ Ads for contests, competitions and prize draws are prohibited.
 *   Prizes cannot include credit or health products. For example, a chance to win laser eye surgery is not permitted.
 *   Ads for contests, competitions and prize draws must not be targeted to minors under 15 years.
 
-### 7.4 Entertainment
+### 7.5 Entertainment
 
-The policies in this section apply to ads promoting films, TV programmes and video games. In developing these policies, Amazon considered ad content, ad placement, the landing page content and the title’s rating, to ensure that your campaigns are suitable for the targeted audience.  
-  
-Ads must not depict excessive violence or gore, such as dismemberments, open wounds or excessive bleeding. Except for Homepage placements, ads on Amazon may feature minor traces of blood in context with the title promoted, but without additional elements of violence or gore. For content that depicts weapons, please see the Weapons section below.  
-  
-Amazon prohibits content that advocates or demeans a religion. Ads may contain references to a specific religion or faith in a historical or fictional context if the primary purpose is to entertain.
+The policies in this section apply to ads promoting films, TV programmes and video games. In developing these policies, Amazon considered ad content, ad placement, the landing page content and the title’s rating, to ensure that your campaigns are suitable for the targeted audience.
 
 Trailer ratings
 
@@ -903,8 +871,10 @@ In Canada, when the rating varies between provinces with the same ratings system
   
 Additional restrictions may apply. Please contact your account support for more information.
 
-### 7.5 Financial products and services
+### 7.6 Financial products and services
 
+Advertisers must only target those locales where they are licensed and also meet all applicable licensing requirements in each of the locale(s). Where required by local law/regulations, ads and/or landing pages must adequately inform the customer of any risks or costs associated with the product.  
+  
 Amazon prohibits ads for the following products and services:
 
 *   Cryptocurrencies, cryptocurrency exchanges, initial coin offerings (ICO) and binary options.
@@ -939,7 +909,7 @@ Ads for “pay day” loans are prohibited.
 
 Ads offering consumer credit must include: the company name; the effective annual yearly interest rate and effective amount repayable.
 
-#### 7.5.1 Credit services
+#### 7.6.1 Credit services
 
 Ads for credit services cannot encourage customers to take out credit to shop online.
 
@@ -949,11 +919,11 @@ Locale-specific requirements
 
 Ads cannot recommend one credit service over another.  
   
-Only if an ad includes the credit rate, repayment terms or other information on the cost of credit, the ad must include the representative annual percentage rate (APR) in the local language.
+If an ad includes the credit rate, repayment terms or other information on the cost of credit, the ad must include the representative annual percentage rate (APR) in the local language.
 
 ##### Austria
 
-If an ad refers to interest rates and cost then it also has to contain a clear, concise and visible example containing all legal mandatory standard information:
+**Austria:** If an ad refers to interest rates and cost then it also has to contain a clear, concise and visible example containing all legal mandatory standard information:
 
 *   The fixed or the variable borrowing rate, all cost that are incurred
 *   The entire credit amount
@@ -961,17 +931,13 @@ If an ad refers to interest rates and cost then it also has to contain a clear, 
 *   The duration of the credit
 *   The total amount to be paid by the consumer
 
-### 7.6 Gambling products and services
+### 7.7 Gambling products and services
 
 The policies in this section apply to i) ads for online gambling (which we define as any online product or service where money or other items of value are wagered in exchange for the opportunity to win prizes with real-world value based on the outcome of the game), and ii) offline gambling (such as brick and mortar casinos).  
   
 Note that ads for brick and mortar establishments that do not promote gambling are not subject to this policy (except in Brazil where this is also prohibited). For example, a travel ad for a stay at a local casino resort that does not mention gambling.  
   
-Gambling ads can only run in the following locales: Austria, Belgium, France, Germany, Ireland, Luxembourg, the Netherlands, the UK and Japan. Please see section below for policy requirements that apply to gambling ads in permitted locales.  
-  
-Gambling ads are prohibited in Australia, Brazil, Canada, Finland, India, Israel, Italy, Mexico, New Zealand, Spain, Switzerland and the US.  
-  
-Self-serve advertisers are ineligible for gambling advertising globally, except Japan.
+Ads for gambling services are only permitted in some locales. Here is a quick view of permitted and prohibited locales. Please see section below for policy requirements that apply to gambling ads in permitted locales.
 
 General requirements
 
@@ -1033,10 +999,12 @@ Amazon permits gambling ads only in the locales listed below, subject to local l
 
 ##### France
 
-Ads must feature a warning message against excessive or pathological gambling and an active link to the French Institute of Health Prevention and Education (http://www.joueurs-info-service.fr/).
+Ads must feature a warning message against excessive or pathological gambling and an active link to the French Institute of Health Prevention and Education (http://www.joueurs-info-service.fr/). The warning message can be any of the following:
 
 ##### Germany
 
+Only licensed sports betting services are permissible.  
+  
 Ads (not including branding campaigns) must inform customers about risks of addiction, prohibition of the participation of minors and the possibility of advice and therapy. These requirements do not apply to branding campaigns.  
   
 If the ad contains information on maximum winnings, the respective probability of winning and losing must be indicated within the ad. For example, “Gewinnchance 1:\[XXX\]. Spielteilnahme ab 18 Jahren. Glücksspiel kann süchtig machen. Nähere Informationen und Hilfe unter \[XXX\].”
@@ -1099,7 +1067,7 @@ Host organisations can only run ads for their race announcement. Ads for online 
 *   The minimum age to gamble (18)
 *   Contact details for the responsible gambling organisation, “Spelpaus”
 
-### 7.8 Intellectual property and personal rights
+### 7.9 Intellectual property and personal rights
 
 Amazon prohibits ads that infringe on the intellectual property, privacy, publicity or other legal rights of any person or entity.  
   
@@ -1109,21 +1077,21 @@ Ads must not feature the names, likenesses, voices (including look-alikes and so
   
 Rightsholders and their agents can report alleged copyright, trademark or right of publicity infringement by filling out this [form](https://www.amazon.com/report/infringement). If we receive a complaint regarding intellectual property related to an ad served by us, we will encourage the alleged rights holder and advertiser to communicate directly. Amazon will not act as a mediator of disputes between them. We may or may not process a take-down request based on an independent assessment of each complaint.
 
-### 7.9 Job sites
+### 7.10 Job sites
 
 Ads for job sites must not state or imply that our customers need a better career, quit their job, have been laid off or are under/overqualified for what they currently do. Ads may not run on Amazon.
 
-### 7.10 Nudity and sexuality
+### 7.11 Nudity and sexuality
 
 Ads must not feature overtly sexual imagery and images of fully naked intimate body parts. Amazon considers placement, local cultural sensitivities and the product or service advertised in determining whether an ad featuring partial nudity or mildly provocative images may be appropriate or not.
 
-#### 7.10.1 Nudity
+#### 7.11.1 Nudity
 
 Ads must not show fully visible intimate body parts: genitals, female breasts and buttocks.  
   
 Ads may feature partial nudity (models showing bare skin without revealing any intimate parts) if relevant to the product or service promoted. For example, an image of a woman in a bikini may be used to promote bikinis, but the same image cannot be used to promote a car because a woman in a bikini is not relevant to a vehicle.
 
-#### 7.10.2 Sexuality
+#### 7.11.2 Sexuality
 
 Ads must not feature sexually provocative images and references, including, but not limited to:
 
@@ -1136,24 +1104,21 @@ Ads must not feature sexually provocative images and references, including, but 
 *   Models in erotic lingerie such as stockings, suspenders or paraphernalia such as whips and chains.
 *   Sexual innuendo in text or image.
 
-### 7.11 Online dating
+### 7.13 Online dating
 
 Amazon prohibits dating ads on Amazon properties, from self-serve advertisers and in India.  
   
-For ads off Amazon, ad copy or sites that promote casual sexual encounters/hook-ups and brides-by-mail sites are prohibited.
+For ads off Amazon, ad copy or sites that promote casual sexual encounters/hook-ups and brides-by-mail sites are prohibited. Ads that imply there is a possibility of meeting specific individuals by depicting their profile picture(s) are prohibited.
 
-### 7.12 Healthcare – Prescription (Rx), Over-the-Counter (OTC), Supplements and Medical Devices
+### 7.14 Healthcare – Prescription (Rx), over-the-counter (OTC), supplements and medical devices
 
 The policies in this section differ based on the product or service advertised, the placement, locale and the medical condition treated. In addition to the requirements listed in these policies, Amazon may impose other targeting and placement restrictions based on the sensitivity of the medical condition treated by, or associated to, the product or service promoted. Please engage your customer support to learn more.  
-  
-Ads and landing pages must not use unsupported or exaggerated claims or set unrealistic expectations of the effectiveness of the product and cannot explicitly reference intimate bodily functions or potentially embarrassing conditions.  
-  
-Amazon prohibits ads for the following products and services:
+We prohibit ads for the following products and services:
 
+*   Medical procedures, including cosmetic procedures such as Botox for anti-ageing, CoolSculpting and plastic surgery.
+*   Solicitations for medical trials and research.
+*   Healthcare practitioners, such as doctors or acupuncturists (ads for hospitals, education establishments or health insurance are permitted; telehealth ads are permitted off Amazon only.).
 *   Fat burners and fat blockers.
-*   Online pharmacies.
-*   Healthcare practitioners, such as doctors or acupuncturists (ads for hospitals, education or health insurance are permitted).
-*   Illegal or sensitive pharmaceuticals.
 *   Medical procedures, including cosmetic procedures such as Botox for anti-ageing, CoolSculpting and plastic surgery.
 *   Solicitations for medical trials and research.
 *   (NZ): Ads for healthcare services are permitted, but must state the name and address of the advertiser.
@@ -1184,16 +1149,16 @@ Locale-specific requirements
 *   All products and services must include the name and address of the advertiser.
 *   Ads for medical devices (as defined in s 3A Medicines Act 1981) must contain mandatory information as required by the most recent edition of the Medicines Act, Medicines Regulations and any other applicable legislation; Medsafe Guideline on Advertising therapeutic products and the MTANZ Code of Practice; and the statement always read the label and follow the instructions. If the device requires administration, application or implant by a healthcare professional it must state so.
 
-#### 7.12.1 Prescription medicines
+#### 7.14.1 Prescription medicines
 
 Ads for prescription medicines are only permitted in the US and NZ, provided that these comply with the requirements listed below, and prohibited in all other locales.  
   
 For Canada, prescription medicines can be advertised but must: have an approved Drug Identification Number (DIN); be informational only; and only contain the brand name, price and quantity of the prescription medicine.  
   
-Ads for the sale of prescription medicines and branding campaigns are permitted.
+Campaigns must comply with the following requirements:
 
-*   Ads cannot drive to e-commerce-enabled landing pages nor can ads contain details about where the product can be purchased.
-*   Price and savings claims are permitted (for example, savings card to get prescription medicine for $5).
+*   Ads for the sale of prescription medicines and branding campaigns are permitted.
+*   Advertisers must only promote those medicines that are approved by the local regulatory authorities for the condition treated in each of the locales where the ads will run. For example, a prescription drug approved for Canada must not be advertised in the US, unless it has also been approved by the FDA for the US.
 
 Ads must only promote those medicines that are approved by the local regulatory authorities for the condition treated in each of the locales where the ads will run. For example, a prescription drug approved for Canada must not be advertised in the US, unless it has been approved by the FDA for the US as well.  
   
@@ -1207,7 +1172,7 @@ Locale-specific requirements
 
 Ads cannot describe the medical condition or the product itself. Ads may only contain the brand, a price or savings when applicable and a CTA.
 
-#### 7.12.2 Over-the-counter medicines (OTC)
+#### 7.14.2 Over-the-counter medicines (OTC)
 
 Ads must only promote those medicines that are approved by the local regulatory authorities for the condition treated in each of the locales where your ads will run.  
   
@@ -1215,7 +1180,7 @@ Ads cannot state that the OTC is as effective as a prescription drug.
   
 Ads for air-purifying or particulate-filtering respirators, also known as respirators or PPE face masks, must comply with and indicate the industry-approved designation (for example, AS/NZ 1716:2012 in Australia, ABNT/NBR 13698:2011 in Brazil, EN 149 in Europe, JMHLW-Notification 214, 2018 in Japan and NIOSH in the US) that exactly matches the promoted product. Ads for non-respirator face masks, surgical masks and cloth masks, are permitted except when they contain misleading or false claims (such as alphanumerical designations outside of approved standards).
 
-Locale-specific requirements
+Locale-specific OTC requirements
 
 ##### Australia
 
@@ -1248,7 +1213,7 @@ Ads for OTC products should contain the following information:
 
 1.  The name of the medicinal product, and the generic name of the medicinal product, contains only one active substance;
 2.  The information necessary for correct use of the medicinal product;
-3.  The statement in NL:“dit is een geneesmiddel, geen langdurig gebruik zonder geneeskundig advies” / FR: “ceci est un médicament, pas d’utilisation prolongée sans avis medical” (“this is a medicine, no prolonged use without medical advice”);
+3.  The statement in NL: “dit is een geneesmiddel, geen langdurig gebruik zonder geneeskundig advies” / FR: “ceci est un médicament, pas d’utilisation prolongée sans avis medical” (“this is a medicine, no prolonged use without medical advice”);
 4.  An express request to carefully read the instructions on the package leaflet or on the outer packaging, and
 5.  The (trade) name of the marketing authorisation holder.
 
@@ -1377,7 +1342,7 @@ Ads for smoking cessation products must include an “18+” warning.
 
 ##### UK
 
-Ads for tablets or capsules that contain painkillers such as aspirin, ibuprofen and paracetamol must not encourage the purchase of more than one pack, for example, through multi-buy offers such as “buy one get one free” or “buy 2 for £XX”. Discounts on single packs are acceptable provided the ad copy does not explicitly suggest that customers make multiple purchases.
+Ads for tablets or capsules that contain painkillers such as aspirin, ibuprofen and paracetamol must not encourage the purchase of more than one pack, for example, through multi-buy offers such as “buy one get one free” or “buy two for £XX”. Discounts on single packs are acceptable provided the ad copy does not explicitly suggest that customers make multiple purchases.
 
 #### 7.12.3 Baby formula/infant formula (Australia, Brazil, Europe and UAE)
 
@@ -1497,17 +1462,19 @@ Ads should not make any reference to the rate or amount of weight loss that migh
 *   Individuals used in weight loss products and services ads must not be considered obese, as classified by their BMI.
 *   Ads for a diet plan with less than 3500kj (800 calories) per day on average over the course of one week are prohibited.
 
-### 7.13 Security products
+### 7.15 Security products
 
-Ads for security products such as Internet Security or Credit Card Security must link-in to Amazon. The ad copy must not contain scare tactics such as the mention of viruses, identity theft and malware.
+Ads for security products such as Internet Security or Credit Card Security must link-in to Amazon. The ad copy must not contain scare tactics such as the mention of viruses, identity theft and malware.  
+  
+Please note that this policy does not apply to security claims in ads that are not for security products. For example, ads for banks and credit card companies that refer to their security protections can link to destinations off Amazon.
 
-### 7.14 Weapons (content featuring weapons)
+### 7.17 Weapons (content featuring weapons)
 
 The policies in this section restrict ad content featuring weapons to protect our customers from uncomfortable or shocking experiences.  
   
 Amazon prohibits ads for the sale of weapons.
 
-#### 7.14.1 Firearms
+#### 7.17.1 Firearms
 
 Realistic firearms
 
@@ -1521,7 +1488,7 @@ Non-realistic firearms
 
 Ads may feature non-violent depictions of non-realistic firearms that are fantasy weapons, including fantasy/sci-fi firearms such as ray-guns and phasers.
 
-#### 7.14.2 Other weapons
+#### 7.17.2 Other weapons
 
 Ads may feature depictions of realistic bladed weapons such as swords, knives, bows and arrows, and similar weapons (that are not firearms) if the weapon is not bloody or used in a violent or threatening manner, and it is contextually relevant to the offer.
 
@@ -1531,7 +1498,7 @@ Locale-specific requirements
 
 Amazon prohibits images of knives on the UK homepage.
 
-#### 7.14.3 Military equipment
+#### 7.17.3 Military equipment
 
 Ads may feature images of military equipment and vehicles (tanks, warplanes, helicopters, etc.) showing the weapons firing if people are not in peril and if the ad does not otherwise depict excessive violence.
 
@@ -1543,7 +1510,7 @@ These guidelines provide greater detail about how we enforce our ad policies acr
 
 #### 8.1.1 Cultural and social norms
 
-In Bahrain, the KSA, Kuwait, Morocco, and the UAE ads must not contain content or themes that offend the values of society, cultural heritage (especially Arab heritage and civilization) or the identity of the State. Ads must not:
+In Bahrain, the KSA, Kuwait, Morocco, and the UAE ads must not contain content or themes that offend the values of society, cultural heritage (especially Arab heritage and civilization) or the identity of the State.
 
 *   Depict intimate contact, such as people kissing, people in sexually provocative positions, or simulating sexual acts;
 *   Display homosexuality or non-traditional family relations (for example, a family with two mothers or a rainbow-coloured flag);
@@ -1552,7 +1519,7 @@ In Bahrain, the KSA, Kuwait, Morocco, and the UAE ads must not contain content o
 
 #### 8.1.2 Politics
 
-In alignment with the global GAP, political advocacy ads (either for or against a political person, party, or related to an election) are prohibited in Bahrain, the KSA, Kuwait, Morocco and the UAE. In addition, ads must not:
+In alignment with the global GAP, political advocacy ads (either for or against a political person, party, or related to an election) are prohibited in Bahrain, the KSA, Kuwait, Morocco and the UAE. Ads must never disrespect the constitution or criticise the policies, whether domestic or international, of Bahrain, the KSA, Kuwait, Morocco or the UAE. In addition, ads must not:
 
 *   Criticise the Heads of State, members of the ruling Royal Families, politicians, state ministries/departments, security/military institutions or figures, the system of ruling, or any related symbols or imagery;
 *   Jeopardise the safety of the State, its security, interests, reputation, prestige, symbols, rulers, institutions (this covers any negative depiction of the above, for example, an entertainment ad that showed the Burj Khalifa in ruins would be a violation);
@@ -1567,6 +1534,10 @@ In alignment with the global GAP, political advocacy ads (either for or against 
 The global GAP prohibits ad content that advocates or demeans religions. Ads for religious products and services are prohibited.  
   
 Religious script, the name or image of Allah (or Prophet Muhammad), or any religious objects or sites must not be printed on any apparel or in any unaccustomed position. This includes all apparel/footwear, floor coverings, bedding, pet products, bathroom products and alcohol items.  
+  
+All religions must be treated with respect, including non-Islamic religions. However, content related to polytheism is prohibited (for example, an ad for a t-shirt that read “In gods we trust” would be unacceptable).  
+  
+In addition, ads for religious products and services are prohibited.  
   
 Ads for non-religious products must not include any religious imagery or objects. This includes references to holidays or events with religious connections, such as Christmas, Diwali, etc. Campaigns that refer to Ramadan during that period are permitted.
 
@@ -1594,9 +1565,9 @@ The following product categories are prohibited in Bahrain, the KSA, Kuwait, Mor
 *   Alcohol
 
 *   The global GAP prohibits ad content that encourages, glamorises or depicts excessive consumption of alcohol. In addition, ads must not refer to or depict alcoholic beverages, or the consumption of alcohol. For example, an ad for a dining table must not show a bottle of wine resting on the table.
-*   Exceptions may be made for Entertainment trailers (but not static creatives) that show alcohol use in an ancillary manner, except in the KSA where this is prohibited. The focus of the ad must never be primarily on the consumption of alcohol and Ad Policy pre-approval is required for any exceptions.
+*   Exceptions may be made for Entertainment trailers (but not static creatives) that show alcohol use in an ancillary manner, except in the KSA where this is prohibited. The focus of the ad must never be primarily on the consumption of alcohol and Amazon pre-approval is required for any exceptions.
 
-*   Astrological activities, Fortune telling, Magic/Witchcraft/Jugglery
+*   Astrological activities, fortune telling, magic/witchcraft/jugglery
 
 *   For example, ads for magic shows, magician tricks or games, or Harry Potter magic wands are unacceptable.
 
@@ -1604,7 +1575,7 @@ The following product categories are prohibited in Bahrain, the KSA, Kuwait, Mor
 *   Education (except in Kuwait and Morocco where these are permitted)
 *   Gambling
 *   Hajj and Omrah Campaigns (except in Bahrain and Morocco, where these are permitted)
-*   Health Advertisements (for example, medical devices and equipment, medicines, OTCs and food supplements, pharmaceutical products, slimming and weight control products, herbal products, etc.)
+*   Health advertisements (for example: medical devices and equipment, medicines, OTCs and food supplements, pharmaceutical products, slimming and weight control products, herbal products, etc.)
 *   Infant and follow-on formula milk
 
 *   **Bahrain:** ads for infant and follow-on formula are prohibited.
