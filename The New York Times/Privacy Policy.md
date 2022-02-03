@@ -246,7 +246,7 @@ There are situations when we share your information with third parties beyond ou
     
     There are two ways this can happen:
     
-    *   We collect your information and share it with the third-party service for processing.
+    *   We collect your information and share it with the third-party service for processing (such as [Worldpay](https://www.fisglobal.com/en/privacy)).
     *   The third-party service collects your information for processing.
 5.  In the event of a reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings), we would have a legitimate interest in disclosing or transferring your information to a third party — such as an acquiring entity and its advisers.
     
@@ -397,8 +397,7 @@ The New York Times Company is headquartered in the United States. If you are loc
 If we transfer your data out of the European Economic Area (E.E.A.), we implement at least one of the three following safeguards:
 
 *   We transfer your information to countries that have been recognized by the European Commission as providing an adequate level of data protection according to E.E.A. standards (see the [full list of these countries](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en)).
-*   We use a service provider in the United States that is [Privacy Shield](https://www.privacyshield.gov/welcome) certified.
-*   We take steps to ensure that the recipient is bound by E.U. Standard Contractual Clauses to protect your personal data. You can see a [copy of these clauses](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en).
+*   We take steps to ensure that the recipient is bound by E.U. Standard Contractual Clauses together with additional safeguards to protect your personal data. You can see a [copy of these clauses](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en).
 
 In certain situations, the courts, law enforcement agencies, regulatory agencies or security authorities in those countries might be entitled to access your personal information.
 
@@ -428,9 +427,20 @@ In some jurisdictions, like the European Union and the European Economic Area, w
 
 11.
 
-What About Links to Third-Party Services?
+What About Third-Party Services?
 
-Some Times Services contain links to third-party websites, resources, vendors and advertisers. These third parties are not Times Services. We do not control (and are not responsible for) third party content or privacy practices. Any personal data you provide to them is not covered by this Privacy Policy.
+Some Times Services contain links to third-party websites, resources, vendors and advertisers. These third parties are not Times Services. Additionally, Times Services may be available to you through third-party digital properties such as Google’s Accelerated Mobile Pages (AMP). We do not control (and are not responsible for) third party content or privacy practices. These third parties may independently collect and solicit information about you and affect your data preferences when you access the Times Services on third-party digital properties (see “Additional Notes” below for more information). Any personal data you provide to them is not covered by this Privacy Policy. These third parties have their own policies and practices about data, which may include what information they share with us, your rights and choices on their services and devices, and whether they store information in the U.S. or elsewhere. We encourage you to familiarize yourself with their privacy policies and terms of use.
+
+**Additional Notes**
+
+*   As mentioned above, some Times Services are offered on third-party digital properties (such as third-party websites, frameworks, and domains) which can affect our data practices and your data preferences. For example, we use Google AMP to help Times Services load quickly on mobile devices. We also use third-party properties to facilitate other Times Services, such as our Live Events.
+    
+*   If you set your data preferences while using one of these third-party digital properties, your preferences will only be saved with respect to the Times Services on that specific third-party digital property. Your preferences will not carry over when you use the Times Services on The Times’s own digital properties. And, your preferences will only be saved on Google AMP and other third-party digital properties until your cookies are cleared. Once your cookies are cleared, you will need to reset your data preferences for each third-party digital property used to access Times Services.
+    
+*   If your browser settings allow for cross-site tracking (e.g., allows for trackers to follow your preferences across websites), you can set your preferences on The Times’s digital properties so that your preferences will be remembered when you access the Times Services through Google AMP. However, if your browser settings do not allow for cross-site tracking, your preferences on The Times’s own digital properties will not carry over to the Times Services you access through Google AMP.
+    
+*   If you are an European resident and you do not accept trackers (other than essential trackers) while using Times Services on AMP, you will be served non-personalized ads. If you do not accept trackers (other than essential trackers) while using the Times Services on The Times’s digital properties, you will receive The Times house ads or no ads at all.
+    
 
 [Back to top](https://www.nytimes.com/privacy/app)
 
