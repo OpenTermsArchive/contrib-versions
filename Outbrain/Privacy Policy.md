@@ -29,7 +29,7 @@ We regularly review our compliance with this Privacy Policy. Questions, comments
 
 If Outbrain does not satisfactorily answer your questions or concerns, you may also contact the following for advice, support or complaints:
 
-*   Outbrain’s external Data Protection Officer (“DPO”): ePrivacy GmbH, represented by Prof. Dr. Christoph Bauer. ePrivacy GmbH can be reached directly at [dpo@outbrain.com](mailto:dpo@outbrain.com) ; and/or
+*   Outbrain’s Data Protection Officer (“DPO”) at [dpo@outbrain.com](mailto:dpo@outbrain.com) ; and/or
 *   the [Information Commissioner’s Office](https://ico.org.uk/concerns/), which is Outbrain’s lead supervisory authority within the European Territories.
 
 2\. Alliances and Adherence
