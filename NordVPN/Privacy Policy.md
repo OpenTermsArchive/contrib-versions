@@ -17,7 +17,7 @@ Please either **enable JavaScript**, or disable any extensions or plugins that i
 Privacy Policy
 ==============
 
-Last updated: June 2, 2021
+Last updated: January 31, 2022
 
 This document (“Privacy Policy”) explains the privacy rules applicable to all information collected or submitted when you access, install, or use the Nord Services.
 
@@ -94,6 +94,24 @@ Some browsers have incorporated a “do-not-track” feature that can send a sig
 If you disagree with the processing of your data by Nord, please do not use our Services. You can request us to discontinue processing your personal data, in which case your data will be processed only as much as it is necessary to effect the discontinuation of your use of the Services (e.g., final settlement, or deleting all personal data based on your email address), or finalizing other Nord’s legal relationship with you (e.g., record keeping, accounting, processing refunds).
 
 If you wish to use the Services again, you will have to accept and agree to this Privacy Policy anew.
+
+Deletion of the account
+
+*   NordVPN
+
+To initiate deletion of your **NordVPN account via NordVPN app on iPhone** follow these steps: open the NordVPN's app and log into your account, tap on the “Settings” icon on the bottom right corner, tap “Contact Us”, select “Manage the account”, type in “Please delete my account” and tap “SEND”. Our support team will follow up with your request shortly.
+
+Follow these instructions for initiating your **NordVPN account deletion via NordVPN desktop app on Mac:** open the NordVPN's app and log into your account, click on “Help” and select “Email Support”; on our “Contact Us” form select “Manage the account” and type in “Please delete my account” and click “SEND”. Our support team will follow up with your request shortly.
+
+*   NordPass
+
+To initiate deletion of your **NordPass account via NordPass app on mobile devices:** open the NordPass app and log in to your account, click on “Menu” icon given at the bottom right of the window, then tap the “Help” option and go to “Help Center”; you will be directed to a new page on your mobile browser, click “Submit a request” at the top-right corner and type in a message saying that you wish to remove your account and indicate the email address your account is registered with. Our support team will get back to you and handle your request as soon as possible.
+
+Follow these instructions for initiating your **NordPass account deletion via NordPass desktop application:** open the NordPass app and log in to your account, click on “Settings” and tap “Visit Help Center”; you will be directed to a new page on your browser, click “Submit a request” and type in a message saying that you wish to remove your account and indicate the email address your account is registered with. Our support team will handle your request promptly.
+
+*   NordLocker
+
+To initiate deletion of your **NordLocker account via NordLocker app:** open the NordLocker app and log in to your account, click on “Settings” icon, then tap the “Delete account”; you will be directed to a new page on your mobile browser, click “Submit a request” at the top-right corner and type in a message saying that you wish to remove your account and indicate the email address your account is registered with. Our support team will get back to you and handle your request.
 
 Data security
 
