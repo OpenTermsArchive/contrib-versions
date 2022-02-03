@@ -1,15 +1,12 @@
 Facebook Live Policies
-======================
 
 1\. Overview
-------------
 
 **Understanding our policies**
 
 The following terms, as well as our [Data Policy](https://www.facebook.com/about/privacy/), [Community Standards](https://www.facebook.com/communitystandards/) and [Terms of Service](https://www.facebook.com/legal/terms), apply to all users on Facebook. You are responsible for ensuring that your content complies with all applicable laws, statutes and regulations.
 
 2\. General policies for Facebook Live
---------------------------------------
 
 **Prohibited business practices**
 
