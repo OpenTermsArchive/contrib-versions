@@ -1,7 +1,7 @@
 Processing of Personal Data - CCM
 =================================
 
-Latest update on **Thursday 3 February 2022 à 17:19** by Natalia Kudryavtseva.
+Latest update on **Friday 4 February 2022 à 03:34** by David Webb.
 
 **CCM BENCHMARK GROUP** is responsible for the collection and the processing of personal data.
 
@@ -39,7 +39,7 @@ By postal mail at the following address:
 
 **CCM BENCHMARK GROUP**   
 "Personal Data - CCM"  
-94 rue de Provence – 75009 Paris, France 
+14 boulevard Haussmann – 75009 Paris, France 
 
 By email at the following address: contact \[at\] commentcamarche.net  
 The request must be accompanied by a photocopy of a valid ID card.  
