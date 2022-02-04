@@ -18,7 +18,7 @@ Canonical Group Limited (**"we"**, **"us"** and **"our"**) are committed to prot
 
 This policy (together with our [terms of use](https://ubuntu.com/legal/terms) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting a Canonical website you are accepting and consenting to the practices described in this policy.
 
-For the purpose of applicable data protection legislation, the data controller is Canonical Group limited (06870835) of 5th Floor, Blue Fin Building, 110 Southwark Street, London SE1 0SU.
+For the purpose of applicable data protection legislation, the data controller is Canonical Group limited (06870835) of 5 New Street Square, London EC4A 3TW.
 
 Our nominated representative for all data privacy matters is Mrs Katherine Ollerhead, Director of Legal, Canonical Group Limited.
 
@@ -227,9 +227,9 @@ Contact
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [dataprotection@canonical.com](mailto:dataprotection@canonical.com) or to the address below:
 
 Legal, Canonical  
-5th Floor, Blue Fin Building  
-110 Southwark Street  
-London, SE1 0SU  
+The Office Group, St Dunstans House,  
+4th floor, 201 Borough High St,  
+London SE1 1JA,  
 United Kingdom
 
 Alternatively you can use the relevant [contact us](https://ubuntu.com/contact-us) form.
