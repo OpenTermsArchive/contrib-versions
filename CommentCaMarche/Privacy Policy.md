@@ -1,11 +1,11 @@
 Processing of Personal Data - CCM
 =================================
 
-Latest update on **Tuesday 7 January 2020 à 09:42** by noctambule28.
+Latest update on **Thursday 3 February 2022 à 17:19** by Natalia Kudryavtseva.
 
 **CCM BENCHMARK GROUP** is responsible for the collection and the processing of personal data.
 
-**CCM BENCHMARK GROUP** is an _SAS_ (Simplified Joint-Stock Company) with a capital of 1 848 864,45 €. Headquartered at:  94 rue de Provence – 75009 Paris, France   
+**CCM BENCHMARK GROUP** is an _SAS_ (Simplified Joint-Stock Company) with a capital of 1 848 864,45 €. Headquartered at: 14 boulevard Haussmann – 75009 Paris, France   
 Registered in the Registre du Commerce et des Sociétés (Registry of Commerce and Companies) as number 512 085 630 PARIS
 
 Nature of collected data
@@ -97,10 +97,10 @@ In this case, the sharing of your computer and your browser settings with others
 
 ### Refusing or deleting a cookie through your navigation system
 
-If you use Internet Explorer: click on the “Tools” button, followed by “Internet Options”. Under the “History” tab, click on “Select”. Select the “Cookies” check box, and then click “Delete”. [https://support.microsoft.com/en-us/topic/delete-and-manage-cookies-168dab11-0753-043d-7c16-ede5947fc64d#ie=ie-11](https://support.microsoft.com/en-us/topic/delete-and-manage-cookies-168dab11-0753-043d-7c16-ede5947fc64d#ie=ie-11)
+If you use Internet Explorer: click on the “Tools” button, followed by “Internet Options”. Under the “History” tab, click on “Select”. Select the “Cookies” check box, and then click “Delete”. [https://support.microsoft.com/en-us/windows/delete-and-manage-cookies-168dab11-0753-043d-7c16-ede5947fc64d#ie=ie-11](https://support.microsoft.com/en-us/windows/delete-and-manage-cookies-168dab11-0753-043d-7c16-ede5947fc64d#ie=ie-11)
 
 If you use Firefox: click on the “Menu” button and choose “Preferences”. Select the “Privacy” tab and go to the “History” section to set your cookie preferences.  
-[https://support.mozilla.org/en-US/kb/disable-third-party-cookies](https://support.mozilla.org/en-US/kb/disable-third-party-cookies)
+[https://support.mozilla.org/en-US/kb/third-party-cookies-firefox-tracking-protection?redirectslug=disable-third-party-cookies&redirectlocale=en-US](https://support.mozilla.org/en-US/kb/third-party-cookies-firefox-tracking-protection?redirectslug=disable-third-party-cookies&redirectlocale=en-US)
 
 If you use Safari: Click on “Preferences” > “Privacy” and then “View Cookies”. Select the cookies that you would like to deactivate and click on “Delete” or “Delete All”.  
 https://support.apple.com/kb/PH21411?viewlocale=en\_US&locale=en\_US
@@ -122,7 +122,7 @@ If you would like to read more about cookies on our sites’ social networks, we
 Google+: [https://support.google.com/accounts/answer/61416?hl=en](https://support.google.com/accounts/answer/61416?hl=en)  
 Twitter: [https://help.twitter.com/en/safety-and-security/twitter-do-not-track](https://help.twitter.com/en/safety-and-security/twitter-do-not-track)  
 LinkedIn: [https://www.linkedin.com/legal/cookie-policy](https://www.linkedin.com/legal/cookie-policy)  
-Yahoo: [https://www.verizonmedia.com/policies/us/en/verizonmedia/privacy/topics/cookies/index.html](https://www.verizonmedia.com/policies/us/en/verizonmedia/privacy/topics/cookies/index.html)  
+Yahoo: [https://legal.yahoo.com/us/en/yahoo/privacy/topics/cookies/index.html](https://legal.yahoo.com/us/en/yahoo/privacy/topics/cookies/index.html)  
 YouTube: [https://support.google.com/accounts/answer/61416?hl=en](https://support.google.com/accounts/answer/61416?hl=en)  
 Facebook: [https://www.facebook.com/](https://www.facebook.com/)  
 [https://magazinedelledonne.it/faq/11384-coma-cause-sintomi-e-trattamento](https://magazinedelledonne.it/faq/11384-coma-cause-sintomi-e-trattamento)  
