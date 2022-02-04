@@ -1,7 +1,7 @@
 General Terms and Conditions of Use
 ===================================
 
-Latest update on **Friday 20 December 2019 à 03:47** by Aoife McCambridge.
+Latest update on **Thursday 3 February 2022 à 17:19** by Natalia Kudryavtseva.
 
 **All Rights Reserved - 2018 © CCM BENCHMARK GROUP**
 
@@ -20,7 +20,7 @@ SAS (Simplified Joint-Stock Company) 
 with a capital of 1 848 864,45 €,
 
 Headquartered at:   
-94 rue de Provence – 75009 Paris, France 
+14 boulevard Haussmann – 75009 Paris, France 
 
 Registered in the Registre du Commerce et des Sociétés (Registry of Commerce and Companies) as number **512 085 630** PARIS
 
