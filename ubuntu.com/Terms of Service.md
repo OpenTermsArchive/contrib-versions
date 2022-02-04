@@ -62,11 +62,9 @@ Yes, it gives most of us a headache to read all of this, but it's important so t
 
 ### Registered office
 
-5th Floor  
-Blue Fin Building  
-110 Southwark Street  
-London SE1 0SU  
-United Kingdom
+The Office Group, St Dunstans House,  
+4th floor, 201 Borough High St,  
+London SE1 1JA
 
 ### Contact us
 
