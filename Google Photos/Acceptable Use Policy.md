@@ -112,9 +112,9 @@ System interference and abuse
 
 Do not abuse this product and do not harm, degrade or negatively affect the operation of networks, devices or other infrastructure of Google or others. This includes degrading, disabling or negatively interfering with any aspect of the product or its services. We may take appropriate action if we are notified of system interference and abuse, which may include reporting you to the relevant authorities, removing access to some of our products or disabling your Google Account.
 
-Terrorist activities
+Violent organisations and movements
 
-Terrorist organisations are not permitted to use this product for any purpose, including recruitment. We'll also take action against the user for content related to terrorism, such as promoting terrorist acts, inciting violence or celebrating terrorist attacks. If storing or distributing content related to terrorism for an educational, documentary, scientific or artistic purpose, be mindful to provide enough information so that viewers understand the context.
+Known violent non-state organisations and movements are not permitted to use this product for any purpose. Do not distribute content that facilitates or promotes the activities of these groups, such as recruiting, coordinating online or offline activities, sharing manuals or other materials that could facilitate harm, promoting ideologies of violent non-state organisations, promoting terrorist acts, inciting violence or celebrating attacks by violent non-state organisations. Depending upon the content, we may also take action against the user. Content related to violent non-state organisations may be allowed in an educational, documentary, scientific or artistic context, but please be mindful to provide enough information to help people understand the context.
 
 Unauthorised images of minors
 
@@ -127,7 +127,11 @@ Do not store or distribute violent or gory content involving real-life people or
 Additional policies
 -------------------
 
-Printed products content policy
+Content distribution
+
+Google Photos allows you to store, share and stream video content, but should not be used for broad content distribution. For large-scale public streaming, YouTube is a better fit. Google Photos will restrict usage when it appears that it's being used for large-scale public streaming. Repeated violations may result in additional action, including terminating your account or ability to use Google Photos.
+
+Printed products content
 
 All images in printed products should comply with legal regulations and content policies. We therefore do not allow certain types of images to be printed in our products. We will not print any products that contain images that violate the following policies.
 
@@ -168,13 +172,9 @@ Below are examples of what we do not allow in printed products:
 *   Content promoting underage, non-consensual or other illegal sexual themes, whether simulated or real
 *   Content promoting the sexual exploitation of minors
 
-#### Terrorist activities
+#### Violent organisations and movements
 
-Terrorist organisations are not permitted to print content for any purpose, including recruitment. We will not print content related to terrorism, such as promoting terrorist acts, inciting violence or celebrating terrorist attacks. If printing content related to terrorism for an educational, documentary, scientific or artistic purpose be mindful to provide enough information so that viewers understand the context.
-
-Below are examples of what we do not allow in printed products:
-
-*   Content produced by or on behalf of terrorist groups
+Known violent non-state organisations and movements are not permitted to use this product for any purpose. Do not distribute content that facilitates or promotes the activities of these groups, such as recruiting, coordinating online or offline activities, sharing manuals or other materials that could facilitate harm, promoting ideologies of violent non-state organisations, promoting terrorist acts, inciting violence or celebrating attacks by violent non-state organisations. Depending upon the content, we may also take action against the user. Content related to violent non-state organisations may be allowed in an educational, documentary, scientific or artistic context, but please be mindful to provide enough information to help people understand the context.
 
 #### Violence and gore
 
