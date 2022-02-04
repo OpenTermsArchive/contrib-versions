@@ -2,7 +2,7 @@ Vinted Terms & Conditions of Use
 
 **TERMS AND CONDITIONS** 
 
-**Last Updated: 11 October 2021** 
+**Last Updated: 4 February 2022**
 
 The platform VINTED is managed and hosted by **VINTED INC.** (hereinafter referred to as "**VINTED**," “**we**,” “**us**,” “**our**”), a company registered in Delaware, with a business location at C/o AG Accounting, 735 Geary St. #303, San Francisco, CA 94109. These Terms and Conditions (“**Terms**”) are a legally binding agreement between you and VINTED regarding your access and use of the Site. BY ACCESSING OR USING THE SITE, YOU CONFIRM THAT YOU ACCEPT THESE TERMS AND THAT YOU AGREE TO COMPLY WITH THEM AND BE LEGALLY BOUND BY THEM.
 
@@ -302,6 +302,7 @@ Only Users may write and post reviews on the Site. Visitors do not have the righ
 
 1.  Contacting VINTED via the [contact form](https://www.vinted.com/help/support_tickets/new?ch=help_center&faq_entry_id=615&allow_direct=1); or 
 2.  sending an email to the address [legal@vinted.com](mailto:legal@vinted.com).
+3.  for intellectual property rights holders specifically, submitting a notice of intellectual property rights infringement as per described in our Copyright and any other Intellectual Property Rights Policy in Section 19.
 
 If such Content is reported, VINTED reserves the right to suspend immediately, without notice, the account of the User (including any in-progress transactions) and remove the Content, as provided for in Section 12. 
 
@@ -516,6 +517,8 @@ THESE LIMITATIONS OF LIABILITY SHALL APPLY WHETHER OR NOT VINTED HAS BEEN ADVISE
 
 **19\. COPYRIGHT POLICY**
 
+VINTED is committed to protecting the intellectual property rights of others. We, therefore, established the following policies to allow copyright, trademark and other intellectual property rights owners, or authorized representatives, to submit notices of infringement of their rights.
+
 19.1 **Reporting Claims of Copyright Infringement**
 
 We take claims of copyright infringement seriously. We will respond to notices of alleged copyright infringement that comply with applicable law. If you believe that any materials accessible on this site (“Website”) infringes your copyrights, you may request removal of those materials from the Website by submitting written notification to our Copyright Agent designated below. In accordance with the Digital Millennium Copyright Act (17 U.S.C. § 512) (“DMCA”), the written notice must include the following:
@@ -558,6 +561,10 @@ The DMCA allows us to restore the removed material if the party filing the origi
 
 Please be aware that if you knowingly materially misrepresent that material or activity on the Website was removed or disabled by mistake or misidentification, you may be held liable for damages (including costs and attorneys' fees) under the DMCA.
 
-19.4 **Repeat Infringers**
+19.4 **Reporting Claims of any other Intellectual Property Rights Infringement**
+
+We also take claims of any other intellectual property rights infringement seriously. We will respond to notices of alleged intellectual property infringement that comply with applicable law. If you believe that any materials accessible on this site (“Website”) infringes one or more of your intellectual property rights other than copyright, you may request removal of those materials from the Website by filling out this form**:** ([_https://www.vinted.com//help/intellectual\_property\_infringement_](https://www.vinted.com//help/intellectual_property_infringement) ).
+
+19.5 **Repeat Infringers**
 
 It is our policy in appropriate circumstances to disable and/or terminate the accounts of users who are repeat infringers.
