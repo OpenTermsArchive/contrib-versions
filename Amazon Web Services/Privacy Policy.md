@@ -1,9 +1,9 @@
 Privacy Notice
 ==============
 
-#### Last Updated: February 9, 2021
+#### Last Updated: January 26, 2022
 
-To see prior version, click [here](https://aws.amazon.com/privacy/20200814-privacy/).
+To see prior version, click [here](https://aws.amazon.com/privacy/content/aws.amazon.com/staging/en_US/privacy/20200814-privacy1.html).
 
 This Privacy Notice describes how we collect and use your personal information in relation to AWS websites, applications, products, services, events, and experiences that reference this Privacy Notice (together, “AWS Offerings”).
 
@@ -128,7 +128,7 @@ We provide additional information about the privacy, collection, and use of pers
 
 *   Brazil
     
-    **Controller of Personal Information**. When Amazon AWS Serviços Brasil Ltda. is the provider of an AWS Offering, Amazon AWS Serviços Brasil Ltda., A. Presidente Juscelino Kubitschek, 2.041, Torre E - 18th and 19th Floors, Vila Nova Conceicao, Sao Paulo, is the data controller of personal information collected or processed through the AWS Offering.
+    **Controller of Personal Information**. When Amazon AWS Serviços Brasil Ltda. is the provider of an AWS Offering, Amazon AWS Serviços Brasil Ltda., A. Presidente Juscelino Kubitschek, 2.041, Torre E - 18th and 19th Floors, Vila Nova Conceicao, Sao Paulo, is the data controller of personal information collected or processed through the AWS Offering. The data protection officer for Amazon AWS Serviços Brasil Ltda. can be contacted at aws-brasil-privacy@amazon.com.
     
     **Processing**. We process your personal information on one or more of the following legal bases:
     
@@ -147,7 +147,9 @@ We provide additional information about the privacy, collection, and use of pers
     *   request portability of personal information that you have provided to us (which does not include information derived from the collected information), where the processing of such personal information is based on consent or a contract with you and is carried out by automated means; and
     *   request information about the possibility of refusing consent and the consequences of doing so.
     
-    If you wish to do any of these things and you are an AWS customer, please [contact us](https://console.aws.amazon.com/support/home). If you are not an AWS customer, please contact us at the address under Controller of Personal Information above. Further, the data protection officer for Amazon AWS Serviços Brasil Ltda. can be contacted at aws-brasil-privacy@amazon.com. You can also file a complaint with Brazil’s National Data Protection Authority (ANPD) through its official channels.
+    If you wish to do any of these things and you are an AWS customer, please contact us [here](https://console.aws.amazon.com/support/home). If you are not an AWS customer, please contact us [here](https://pages.awscloud.com/DSAR_RTF.html) or at the address under Controller of Personal Information above. 
+    
+    You can also file a complaint with Brazil’s National Data Protection Authority (ANPD) through its official channels.
     
     When you consent to our processing your personal information for a specified purpose, you may withdraw your consent at any time, and we will stop any further processing of your data for that purpose.
     
@@ -218,7 +220,11 @@ We provide additional information about the privacy, collection, and use of pers
     
 *   European Economic Area
     
-    **Controller of Personal Information.** When Amazon Web Services EMEA SARL is the provider of an AWS Offering, Amazon Web Services EMEA SARL, 38 Avenue John F. Kennedy, L-1855, Luxembourg, is the data controller of personal information collected or processed through the AWS Offering. Amazon Web Services EMEA SARL is also the authorized representative of Amazon Web Services, Inc. in the EEA.
+    **Controller of Personal Information.** When Amazon Web Services EMEA SARL is the provider of an AWS Offering, Amazon Web Services EMEA SARL, 38 Avenue John F. Kennedy, L-1855, Luxembourg, is the data controller of personal information collected or processed through the AWS Offering. The data protection officer for Amazon Web Services EMEA SARL can be contacted at aws-EU-privacy@amazon.com.
+    
+    Amazon Web Services EMEA SARL is also the authorized representative of Amazon Web Services, Inc. in the EEA.  
+    
+    If you have a data protection related question and you are an AWS customer, please contact us [here](https://console.aws.amazon.com/support/home). If you are not an AWS customer, please contact us [here](https://pages.awscloud.com/DSAR_RTF.html).
     
     **Processing.** We process your personal information on one or more of the following legal bases:
     
@@ -236,7 +242,9 @@ We provide additional information about the privacy, collection, and use of pers
     *   object to the processing of personal information; and
     *   request portability of personal information that you have provided to us (which does not include information derived from the collected information), where the processing of such personal information is based on consent or a contract with you and is carried out by automated means.
     
-    If you wish to do any of these things and you are an AWS customer, please [contact us](https://console.aws.amazon.com/support/home). If you are not an AWS customer, please contact us at the address under [Contacts, Notices, and Revisions](https://aws.amazon.com/privacy/#Contacts.2C_Notices.2C_and_Revisions) above. You can also lodge a complaint with our principal supervisory authority, the [Commission Nationale pour la Protection des Données in Luxembourg](https://cnpd.public.lu/en.html), or with a local authority.
+    If you wish to do any of these things and you are an AWS customer, please contact us [here](https://console.aws.amazon.com/support/home). If you are not an AWS customer, please contact us [here](https://pages.awscloud.com/DSAR_RTF.html).
+    
+    You can also lodge a complaint with our principal supervisory authority, the [Commission Nationale pour la Protection des Données in Luxembourg](https://cnpd.public.lu/en.html), or with a local authority.
     
     When you consent to our processing your personal information for a specified purpose, you may withdraw your consent at any time, and we will stop any further processing of your data for that purpose.
     
@@ -246,7 +254,9 @@ We provide additional information about the privacy, collection, and use of pers
     
 *   Japan
     
-    Any personal information provided to or gathered by Amazon Web Services Japan K.K. is controlled primarily by Amazon Web Services Japan K.K. Any personal information collected by Amazon Web Services, Inc. is controlled primarily by Amazon Web Services, Inc. We use information in accordance with this Privacy Notice jointly with our domestic and foreign subsidiaries of Amazon.com, Inc., including Amazon Web Services, Inc., Amazon Web Services Japan K.K., Amazon Web Services EMEA SARL, and other global entities. Amazon Web Services Japan K.K. is the business operator primarily responsible for managing jointly used information. We might create de-identified information using your email address, name, address, customer ID, order ID, session ID, and other information.
+    Any personal information provided to or gathered by Amazon Web Services Japan G.K. is controlled primarily by Amazon Web Services Japan G.K., 3-1-1 Kamiosaki, Shinagawa-ku, Tokyo 141-0021 JAPAN. Any personal information collected by Amazon Web Services, Inc. is controlled primarily by Amazon Web Services, Inc. We jointly use your personal information for such purposes as described in this Privacy Notice with domestic and foreign subsidiaries of Amazon.com, Inc., including Amazon Web Services, Inc., Amazon Web Services Japan G.K., Amazon Web Services EMEA SARL, and other global entities. Amazon Web Services Japan G.K. is the business operator primarily responsible for managing jointly used information.
+    
+    We might create de-identified information using your email address, name, address, customer ID, order ID, session ID, and other information.
     
 *   Malaysia
     
@@ -254,13 +264,13 @@ We provide additional information about the privacy, collection, and use of pers
     
 *   South Korea
     
-    AWS may share personal information as described in this Privacy Notice, including with affiliates of Amazon Web Services, Inc.
+    AWS may share personal information as described in this Privacy Notice, including with affiliates of Amazon Web Services, Inc.  
     
-    AWS has contracts in place with the following third party service provider(s) to perform functions on behalf of AWS in Korea, and they may have access to your personal information as needed to perform their functions described below:
+    AWS has contracts in place with the following third party service provider(s) to perform functions on behalf of AWS in Korea, and they may have access to your personal information as needed to perform their functions described below:  
     
     |     |     |
     | --- | --- |
-    | **_Name of Party_** | **_Description of Function_** |
+    | _**Name of Party**_ | _**Description of Function**_ |
     | BusinessOnCommunication Co., ltd. | Payment invoicing |
     | Marketo | Customer communications |
     | NHN KCP Corp. | Payment instrument processing and invoicing |
@@ -268,24 +278,21 @@ We provide additional information about the privacy, collection, and use of pers
     | Salesforce | Customer relationship management |
     | General Agent | Domestic agent |
     
-    AWS will delete your personal information (including after closure of your AWS account) as described in this Privacy Notice. When deleting personal information, AWS will take standard commercially reasonable measures to make the personal information practically irrecoverable or irreproducible. The specific manner of deletion will depend on the information being deleted, how the information was collected and stored, and your interactions with us. Electronic documents or files containing personal information will be deleted using a technical method that makes recovery or retrieval of such information practically impossible or renders the data no longer personally identifiable. Non-electronic documents or files containing personal information will be shredded, incinerated, or both.
+    AWS will delete your personal information (including after closure of your AWS account) as described in this Privacy Notice. When deleting personal information, AWS will take standard commercially reasonable measures to make the personal information practically irrecoverable or irreproducible. The specific manner of deletion will depend on the information being deleted, how the information was collected and stored, and your interactions with us. Electronic documents or files containing personal information will be deleted using a technical method that makes recovery or retrieval of such information practically impossible or renders the data no longer personally identifiable. Non-electronic documents or files containing personal information will be shredded, incinerated, or both.  
     
     Domestic Agent Information
     
     The information of Domestic Agent based on the Personal Information Protect Act is as follows:
     
-    Name and representative: General Agent Co., Ltd. (Representative: Young Soo-Kim)
-    
-    Address: 28, Saemunan-ro 5ga-gil Jongno-gu, Seoul
-    
-    Telephone number: (02) 735 6888
-    
-    Email address:AWS@generalagent.co.kr
+    Name and representative: General Agent Co., Ltd. (Representative: Young Soo-Kim)  
+    Address: 28, Saemunan-ro 5ga-gil Jongno-gu, Seoul  
+    Telephone number: (02) 735 6888  
+    Email address:AWS@generalagent.co.kr  
     
     If you have any privacy questions or requests please contact:
     
     AWS Korea Privacy  
-    Email: aws-korea-privacy@amazon.com
+    Email: aws-korea-privacy@amazon.com  
     
 
 #### Examples of Information Collected
