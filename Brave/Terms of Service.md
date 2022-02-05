@@ -20,7 +20,7 @@ Brave reserves the right, at its sole discretion, to modify or replace any of th
 Other Policies[](#other-policies "Permalink to this headline")
 --------------------------------------------------------------
 
-For information regarding Brave’s treatment of personally identifiable information, please review Brave’s current Privacy Policies at [brave.com/privacy\_ios](https://brave.com/privacy/) and [https://brave.com/privacy/](https://brave.com/privacy/). If you believe that material or content residing on or accessible through the Service infringes a copyright, please review Brave’s Copyright Dispute Policy at the bottom of these Terms of Service.
+For information regarding Brave’s treatment of personally identifiable information, please review Brave’s current Privacy Policies at [brave.com/privacy\_ios](https://brave.com/privacy/browser/) and [https://brave.com/privacy/browser/](https://brave.com/privacy/browser/). If you believe that material or content residing on or accessible through the Service infringes a copyright, please review Brave’s Copyright Dispute Policy at the bottom of these Terms of Service.
 
 Brave Browser License[](#brave-browser-license "Permalink to this headline")
 ----------------------------------------------------------------------------
