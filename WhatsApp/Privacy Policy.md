@@ -1,4 +1,4 @@
-Last modified: January 04, 2021 ([archived versions](#))
+Last modified: January 04, 2021 ([archived versions](https://www.whatsapp.com/legal/privacy-policy-eea/revisions))
 
 WhatsApp Privacy Policy
 =======================
