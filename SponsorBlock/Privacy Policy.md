@@ -52,6 +52,19 @@ For every request:
     *   This allows the stats page to have count the number of users of the API
     *   This data is stored in a seperate program from the main server and stored in memory. Form more details on how it works, [see here](https://github.com/ajayyy/PrivacyUserCount/#privacy-user-counter)
 
+[](#extension-local-storage)Extension Local Storage
+===================================================
+
+This data stays on your device
+
+Each time you skip a segment:
+
+*   A sum is counted of the amount of time you have skipped in total
+
+Each time you downvote or hide a segment:
+
+*   A hash prefix of the videoID is stored along with a hash of the segment ID to keep that segment hidden when you watch the video in the future
+
 [](#childrens-information)Children's Information
 ------------------------------------------------
 
