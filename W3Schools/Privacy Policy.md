@@ -62,6 +62,8 @@ Finally, we may also share your Personal Information to comply with applicable l
 
 * * *
 
+* * *
+
 Behavioural advertising
 -----------------------
 
