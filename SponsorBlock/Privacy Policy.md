@@ -61,9 +61,9 @@ Each time you skip a segment:
 
 *   A sum is counted of the amount of time you have skipped in total
 
-Each time you downvote or hide a segment:
+Each time you downvote or hide a segment: If you have downvote storage enabled:
 
-*   A hash prefix of the videoID is stored along with a hash of the segment ID to keep that segment hidden when you watch the video in the future
+*   A hash prefix of the videoID is stored locally along with a hash of the segment ID to keep that segment hidden when you watch the video in the future
 
 [](#childrens-information)Children's Information
 ------------------------------------------------
