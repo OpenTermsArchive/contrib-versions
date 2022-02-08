@@ -4,6 +4,10 @@
 
   
 
+To help keep TikTok welcoming and entertaining for creators and viewers alike, we're updating our [Community Guidelines](https://www.tiktok.com/community-guidelines-2022?lang=en) on March 7, 2022.
+
+  
+
 **Introduction**
 ----------------
 
