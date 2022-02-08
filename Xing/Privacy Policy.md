@@ -4,7 +4,7 @@ Privacy Policy (printable version)
 General information
 -------------------
 
-*   Last updated: 22 October 2021
+*   Last updated: 2 February 2022
 *   Here we inform you about data processing in connection with the entire service XING and its applications (kununu etc.).
 *   New Work SE is the body responsible for the processing of personal data.
 *   Our Data Protection Officer is Felix Lasse.
@@ -400,7 +400,7 @@ In order to be able to identify you as a valuable business contact or potential 
 
 #### Adobe Digital Analytics
 
-We use the tracking tool Adobe Digital Analytics. Whenever you are logged in as a user on [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) your data is matched with your user ID during the tracking process. If you are not logged in as a user, tracking is pseudonymous, i.e. we are not able to directly deduce information regarding your identity from information we obtain from tracking. The [cookies](https://privacy.xing.com/en/privacy-policy/glossary/cookies) used for the web analysis contain an ID which allows us to identify your end device’s browser. We have closed a data processing agreement with the provider and your IP addresses are anonymised immediately after collection and [personal data](https://privacy.xing.com/en/privacy-policy/glossary/personal-data) is processed within the European Union.
+We use the tracking tool Adobe Digital Analytics. Whenever you are logged in as a user on [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) your data is matched with your user ID during the tracking process. If you are not logged in as a user, tracking is pseudonymous, i.e. we are not able to directly deduce information regarding your identity from information we obtain from tracking. The [cookies](https://privacy.xing.com/en/privacy-policy/glossary/cookies) used for the web analysis contain an ID which allows us to identify your end device’s browser. We have closed a data processing agreement with the provider and your IP addresses are anonymised immediately after collection.
 
 You can opt out of tracking by Adobe Digital Analytics at any time, simply by clicking on the following link and opting to exclude yourself from visitor session aggregation and analysis: [https://nats.xing.com/optout.html?popup=1](https://nats.xing.com/optout.html?popup=1)  
   
@@ -423,13 +423,13 @@ You can enable or deactivate this data collection. We recommend you enable it so
     Please note that opting out of cookies is device-specific. This means that if you delete your cookie or use a different computer or web browser, you will need to opt out again. When using mobile apps, you can opt out in the app settings.
     
 
-#### IBM Watson Campaign Automation
+#### Acoustic
 
-We would like to show you content that is tailored to your interests. We show this content on our websites or in e-mails. To do that, we use the 'IBM Watson Automation' service to collect your usage data.  
+We would like to show you content that is tailored to your interests. We show this content on our websites or in e-mails. To do that, we use the 'Acoustic' service to collect your usage data.  
   
-You can enable or deactivate this data collection by IBM Watson Automation. We recommend you enable it so we can keep providing you with relevant content and with useful tips and information about XING solutions.
+You can enable or deactivate this data collection by Acoustic. We recommend you enable it so we can keep providing you with relevant content and with useful tips and information about XING solutions.
 
-*   Opt in to data collection with IBM Watson Campaign Automation
+*   Opt in to data collection with Acoustic
     
     Please note that by opting out of data collection, a cookie will be set which saves this setting. If you delete this cookie or use a different device or web browser, you will need to opt out again.
     
@@ -841,7 +841,7 @@ If processing is subject to your consent you have the right to withdraw this con
 
 #### Right to lodge a complaint
 
-The supervisory authority responsible for our company is: Freie und Hansestadt Hamburg The Hamburg Commissioner for Data Protection and Freedom of Information, Prof. Dr. Johannes Caspar, 7th floor, Ludwig-Erhard-Str. 22, 20459 Hamburg, Germany Tel.: +49 40 / 428 54 – 4040, Fax: +49 40 / 428 54 – 4000, further details are available by visiting [https://datenschutz-hamburg.de](https://datenschutz-hamburg.de/) (in German)  
+The supervisory authority responsible for our company is: Freie und Hansestadt Hamburg The Hamburg Commissioner for Data Protection and Freedom of Information, 7th floor, Ludwig-Erhard-Str. 22, 20459 Hamburg, Germany Tel.: +49 40 / 428 54 – 4040, Fax: +49 40 / 428 54 – 4000, further details are available by visiting [https://datenschutz-hamburg.de](https://datenschutz-hamburg.de/) (in German)  
   
 If you feel that the processing of your [personal data](https://privacy.xing.com/en/privacy-policy/glossary/personal-data) infringes upon the [EU GDPR](https://privacy.xing.com/en/privacy-policy/glossary/eu-gdpr), you have the right to lodge a complaint with the supervisory authority in your regular place of residence, your place of work, or alleged place of infringement. Further information about the complaints procedure is available in Article 77 of the [EU GDPR](https://privacy.xing.com/en/privacy-policy/glossary/eu-gdpr).
 
