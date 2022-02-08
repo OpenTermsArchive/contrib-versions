@@ -426,7 +426,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         © GeoX – FÖMI – MoD Mapping Agency, 2012
         
     17.  **Ireland**
-        *   © An Post GeoDirectory Limited 2012
+        *   © An Post GeoDirectory Limited 2022
             
         *   This Service includes [mapping data](https://www.osi.ie/about/open-data/) in modified form licensed from Ordnance Survey Ireland under a [Creative Commons Attribution 4.0 licence](https://creativecommons.org/licenses/by/4.0/legalcode), which includes disclaimers of warranties. © Ordnance Survey Ireland.
             
