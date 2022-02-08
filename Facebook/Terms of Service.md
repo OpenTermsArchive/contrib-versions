@@ -133,7 +133,7 @@ We provide these services to you and others to help advance our mission. In exch
       
     
 *   Limits on using our intellectual property  
-    If you use content covered by intellectual property rights that we have and make available in our Products (for example, images, designs, videos or sounds we provide that you add to content you create or share on Facebook), we retain all rights to that content (but not yours). You can only use our copyrights or [trademarks (or any similar marks)](https://l.facebook.com/l.php?u=https%3A%2F%2Fen.facebookbrand.com%2Ftrademarks%2F&h=AT2VVCKD6uCrSlQSLWEgTqDmMyWzKbF3zv4f4TTo1crDartcSS7bFx71V6Aor2QOEMYZYPrFZpABiIMB5J71M7VIfFm3NHO1A3dvbCezFXwIswtLI6KVFwNz6nkop3piSAKAofgXWQS6i3wyUKOzNA) as expressly permitted by our [Brand Usage Guidelines](https://l.facebook.com/l.php?u=https%3A%2F%2Fen.facebookbrand.com%2Fguidelines%2Fbrand&h=AT2VVCKD6uCrSlQSLWEgTqDmMyWzKbF3zv4f4TTo1crDartcSS7bFx71V6Aor2QOEMYZYPrFZpABiIMB5J71M7VIfFm3NHO1A3dvbCezFXwIswtLI6KVFwNz6nkop3piSAKAofgXWQS6i3wyUKOzNA) or with our prior written permission. You must obtain our written permission (or permission under an open-source licence) to modify, create derivative works of, decompile or otherwise attempt to extract source code from us.
+    If you use content covered by intellectual property rights that we have and make available in our Products (for example, images, designs, videos or sounds we provide that you add to content you create or share on Facebook), we retain all rights to that content (but not yours). You can only use our copyrights or [trademarks (or any similar marks)](https://l.facebook.com/l.php?u=https%3A%2F%2Fen.facebookbrand.com%2Ftrademarks%2F&h=AT1iHg9L-ef5oWtDRmDSQRx2_IinmkHrhwrg9r1QRDC9Ni5FouRtt5MYLAMrgQt_89V4JlbXoA99Xe25CqrFF6Okd36B6oKa7qY8AnIfwaxvMlAZ24CrNP1l-Yu_iXI_BAknA2jNWcUzKCAGOFVbGw) as expressly permitted by our [Brand Usage Guidelines](https://l.facebook.com/l.php?u=https%3A%2F%2Fen.facebookbrand.com%2Fguidelines%2Fbrand&h=AT1iHg9L-ef5oWtDRmDSQRx2_IinmkHrhwrg9r1QRDC9Ni5FouRtt5MYLAMrgQt_89V4JlbXoA99Xe25CqrFF6Okd36B6oKa7qY8AnIfwaxvMlAZ24CrNP1l-Yu_iXI_BAknA2jNWcUzKCAGOFVbGw) or with our prior written permission. You must obtain our written permission (or permission under an open-source licence) to modify, create derivative works of, decompile or otherwise attempt to extract source code from us.
 
   
 
@@ -219,7 +219,7 @@ We provide these services to you and others to help advance our mission. In exch
     
 *   [Commerce Policies](https://www.facebook.com/policies/commerce): These guidelines outline the Policies that apply when you offer products and services for sale on Facebook.
     
-*   [Meta brand resources](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=AT2VVCKD6uCrSlQSLWEgTqDmMyWzKbF3zv4f4TTo1crDartcSS7bFx71V6Aor2QOEMYZYPrFZpABiIMB5J71M7VIfFm3NHO1A3dvbCezFXwIswtLI6KVFwNz6nkop3piSAKAofgXWQS6i3wyUKOzNA): These guidelines outline the policies that apply to use of Meta trademarks, logos and screenshots.
+*   [Meta brand resources](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=AT1iHg9L-ef5oWtDRmDSQRx2_IinmkHrhwrg9r1QRDC9Ni5FouRtt5MYLAMrgQt_89V4JlbXoA99Xe25CqrFF6Okd36B6oKa7qY8AnIfwaxvMlAZ24CrNP1l-Yu_iXI_BAknA2jNWcUzKCAGOFVbGw): These guidelines outline the policies that apply to use of Meta trademarks, logos and screenshots.
     
 *   [Music guidelines](https://www.facebook.com/legal/music_guidelines): These guidelines outline the policies that apply if you post or share content containing music on Meta Products.
     
