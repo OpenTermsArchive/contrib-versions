@@ -564,4 +564,4 @@ Whenever there is an EEA Data Transfer, your use of Meta Ireland Data is subject
     t. “Your Content” has the meaning given in Section 2.b (“Your License to Us”).
     
 
-_Last updated January 4, 2022_
+_Last updated February 8, 2022_
