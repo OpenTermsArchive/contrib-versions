@@ -1,4 +1,4 @@
-This User Agreement is effective upon acceptance for new users, and from October 8, 2021 for existing users. The [previous amendment to this User Agreement](#Previous User Agreement) was effective for all users on April 2, 2021.
+This User Agreement is effective upon acceptance for new users, and from March 10, 2021 for existing users. The [previous amendment to this User Agreement](#Previous User Agreement) was effective for all users on October 8, 2021.
 
 **In this User Agreement:**
 
@@ -29,10 +29,10 @@ This User Agreement is effective upon acceptance for new users, and from October
 [13\. Additional Terms](#13)
 
 *   [Returns and cancellations for sellers](#Returns)
-*   [Cancellations for buyers](#Cancel_buyers)
+*   [Returns and cancellations for buyers](#Cancel_buyers)
 *   [eBay Money Back Guarantee](#eBay)
 
-[14\. Managed Payments](#14)
+[14\. Payment Services](#14)
 
 [15\. Disclaimer of Warranties; Limitation of Liability](#15)
 
@@ -49,47 +49,48 @@ This User Agreement is effective upon acceptance for new users, and from October
 
 This User Agreement, the [Mobile Application Terms of Use](https://www.ebay.com/help/policies/listing-policies/mobile-devices-terms?id=4633), and all policies and additional terms posted on and in our sites, applications, tools and services (collectively "Services") set out the terms on which eBay offers you access to and use of our Services. You can find an overview of our policies [here](https://www.ebay.com/help/policies/default/ebays-rules-policies?id=4205). The Mobile Application Terms of Use, all policies and additional terms posted on and in our Services are incorporated into this User Agreement. You agree to comply with all terms of this User Agreement when accessing or using our Services.
 
-The entity you are contracting with is: eBay Inc., 2025 Hamilton Ave., San Jose, CA 95125, if you reside in the United States; eBay (UK) Limited, 1 More London Place, London, SE1 2AF, United Kingdom, if you reside in the United Kingdom; eBay GmbH, Albert-Einstein-Ring 2-6, 14532 Kleinmachnow, Germany, if you reside outside the United Kingdom but within the European Union; eBay Canada Limited, 240 Richmond Street West, 2nd Floor Suite 02-100, Toronto, Ontario, M5V 1V6, Canada, if you reside in Canada; eBay Singapore Services Pte Ltd., 10 Collyer Quay, #10-01 Ocean Financial Centre, Singapore 049315, if you reside in India; and eBay Marketplaces GmbH, Helvetiastrasse 15/17, 3005, Bern, Switzerland, if you reside in any other country. In this User Agreement, these entities are individually and collectively referred to as "**eBay**," "**we**," or "**us**."
+The entity you are contracting with is: eBay Inc., 2025 Hamilton Ave., San Jose, CA 95125, if you reside in the United States; eBay (UK) Limited, 1 More London Place, London, SE1 2AF, United Kingdom, if you reside in the United Kingdom; eBay GmbH, Albert-Einstein-Ring 2-6, 14532 Kleinmachnow, Germany, if you reside in the European Union; eBay Canada Limited, 240 Richmond Street West, 2nd Floor Suite 02-100, Toronto, Ontario, M5V 1V6, Canada, if you reside in Canada; eBay Singapore Services Pte Ltd., 10 Collyer Quay, #10-01 Ocean Financial Centre, Singapore 049315, if you reside in India; and eBay Marketplaces GmbH, Helvetiastrasse 15/17, 3005, Bern, Switzerland, if you reside in any other country. In this User Agreement, these entities are individually and collectively referred to as "**eBay**," "**we**," or "**us**."
 
 **Please be advised that this User Agreement contains provisions that govern how claims you and we have against each other are resolved (see "Disclaimer of Warranties; Limitation of Liability" and "Legal Disputes" provisions below). It also contains an Agreement to Arbitrate which will, with limited exception, require you to submit claims you have against us or our agents to binding and final arbitration, unless you opt out of the Agreement to Arbitrate (see [Legal Disputes, Section B](#B. Agreement) ("Agreement to Arbitrate")). If you do not opt out: (1) you will only be permitted to pursue claims against us or our agents on an individual basis, not as a plaintiff or class member in any class or representative action or proceeding and (2) you will only be permitted to seek relief (including monetary, injunctive, and declaratory relief) on an individual basis.**
 
 2\. About eBay
 --------------
 
-eBay is a marketplace that allows users to offer, sell and buy just about anything in a variety of pricing formats and locations. The actual contract for sale is directly between the seller and buyer. eBay is not a party to the transaction, and it is not a seller or a traditional auctioneer.
+eBay is a marketplace that allows users to offer, sell and buy goods and services in various geographic locations using a variety of pricing formats. eBay is not a party to contracts for sale between third-party sellers and buyers, nor is eBay a traditional auctioneer.
 
-Any guidance we provide as part of our Services, such as pricing, shipping, listing, and sourcing is solely informational and you may decide to follow it or not. Also, while we may help facilitate the resolution of disputes through various programs, eBay has no control over and does not guarantee: the existence, quality, safety or legality of items advertised; the truth or accuracy of users' content or listings; the ability of sellers to sell items; the ability of buyers to pay for items; or that a buyer or seller will actually complete a transaction or return an item.
+Any guidance eBay provides as part of our Services, such as pricing, shipping, listing, and sourcing is solely informational and you may decide to follow it or not. We may help facilitate the resolution of disputes between buyers and sellers through various programs. Unless otherwise expressly provided, eBay has no control over and does not guarantee: the existence, quality, safety or legality of items advertised; the truth or accuracy of users' content or listings; the ability of sellers to sell items; the ability of buyers to pay for items; or that a buyer or seller will actually complete a transaction or return an item.
 
 3\. Using eBay
 --------------
 
 In connection with using or accessing our Services you agree to comply with this User Agreement, our policies, our terms, and all applicable laws, rules, and regulations, and you will not:
 
-*   post, list or upload content or items in inappropriate categories or areas on our sites;
 *   breach or circumvent any laws, regulations, third-party rights or our systems, Services, policies, or determinations of your account status;
 *   use our Services if you are not able to form legally binding contracts (for example, if you are under 18 years old), or are temporarily or indefinitely suspended from using our Services, or are a person with whom transactions are prohibited under economic or trade sanctions;
 *   fail to pay for items purchased by you, unless you have a valid reason as set out in an eBay policy, for example, the seller has materially changed the item's description after you bid (see our [Unpaid item policy](https://www.ebay.com/help/policies/payment-policies/unpaid-item-policy?id=4271));
 *   fail to deliver items sold by you, unless you have a valid reason as set out in an eBay policy;
 *   manipulate the price of any item or interfere with any other user's listings;
-*   post false, inaccurate, misleading, deceptive, defamatory, or libelous content;
 *   take any action that may undermine the feedback or ratings systems (our [Feedback policies](https://www.ebay.com/help/policies/feedback-policies/feedback-policies?id=4208));
 *   transfer your eBay account (including feedback) and user ID to another party without our consent;
+*   share your log in credentials with any third parties. If you require that authorized third parties (employees, agents, etc) have access to your account we offer a [Multi-User Account Access](https://pages.ebay.com/seller-center/run-your-store/multi-user-account-access.html) program for that purpose.
+*   create listings, post, or upload content in inappropriate categories or areas on our sites;
+*   post false, inaccurate, misleading, deceptive, defamatory, or libelous content;
 *   distribute or post spam, unsolicited or bulk electronic communications, chain letters, or pyramid schemes;
 *   distribute viruses or any other technologies that may harm eBay or the interests or property of users;
 *   use any robot, spider, scraper, data mining tools, data gathering and extraction tools, or other automated means to access our Services for any purpose, except with the prior express permission of eBay;
+*   circumvent any technical measures used to provide our Services.
 *   interfere with the functioning of our Services, such as by imposing an unreasonable or disproportionately large load on our infrastructure;
 *   export or re-export any eBay application or tool, except in compliance with the export control laws, and rules and policies of any relevant jurisdictions;
 *   infringe the copyright, trademark, patent, publicity, moral, database, and/or other intellectual property rights (collectively, "Intellectual Property Rights") that belong to or are licensed to eBay. Some, but not all, actions that may constitute infringement are reproducing, performing, displaying, distributing, copying, reverse engineering, decompiling, disassembling, or preparing derivative works from content that belongs to eBay or someone else;
 *   infringe any Intellectual Property Rights that belong to third parties affected by your use of our Services or post content that does not belong to you;
-*   commercialize any eBay application or any information or software associated with such application, except with the prior express permission of eBay;
-*   harvest or otherwise collect information about users without their consent; or
-*   circumvent any technical measures used to provide our Services.
+*   commercialize any eBay application or any information, data or software associated with such application, except with the prior express permission of eBay; or
+*   harvest or otherwise collect or use information about users without their consent.
 
-Sellers must meet eBay's [minimum performance standards](https://www.ebay.com/help/selling/seller-levels-performance-standards/seller-levels-performance-standards?id=4080). Failure to meet these standards may result in eBay charging you additional fees, and/or limiting, restricting, suspending, or downgrading your seller account.
+Sellers must meet eBay's [minimum performance standards](https://www.ebay.com/help/selling/seller-levels-performance-standards/seller-levels-performance-standards?id=4080). Failure to meet these standards may result in eBay charging sellers additional fees, and/or limiting, restricting, suspending, or downgrading your seller account.
 
 If we believe you are abusing eBay and/or our Services in any way, we may, in our sole discretion and without limiting other remedies, limit, suspend, or terminate your user account(s) and access to our Services, delay or remove hosted content, remove any special status associated with your account(s), remove, not display, and/or demote listings, reduce or eliminate any discounts, and take technical and/or legal steps to prevent you from using our Services.
 
-If we believe you are violating our policies prohibiting [Offers to buy or sell outside of eBay](https://www.ebay.com/help/policies/payment-policies/offers-buy-sell-outside-ebay-policy?id=4272), you may be subject to a range of actions, including limits on your buying and selling privileges, restrictions on listings and account features, suspension of your account, application of fees, and recovery of expenses for policy monitoring and enforcement. If you are a seller and you offer or reference your contact information or ask a buyer for their contact information in the context of [buying or selling outside of eBay](https://www.ebay.com/help/policies/payment-policies/offers-buy-sell-outside-ebay-policy?id=4272), you may be liable to pay a final value fee applicable to that item, even if the item does not sell.
+If we believe you are violating our policies prohibiting [Offers to buy or sell outside of eBay](https://www.ebay.com/help/policies/payment-policies/offers-buy-sell-outside-ebay-policy?id=4272), you may be subject to a range of actions, including limits on your buying and selling privileges, restrictions on listings and account features, suspension of your account, application of fees, and recovery of expenses for policy monitoring and enforcement. Also, as provided below in the Fees and Taxes section, if we believe you are violating our policy on [buying or selling outside of eBay](https://www.ebay.com/help/policies/payment-policies/offers-buy-sell-outside-ebay-policy?id=4272), you may be charged final value fees.
 
 We may cancel unconfirmed accounts or accounts that have been inactive for a substantial period of time. Additionally, we reserve the right to refuse, modify, or terminate all or part of our Services to anyone for any reason at our discretion.
 
@@ -101,15 +102,17 @@ When a buyer or seller issue arises, we may consider the user's performance hist
 5\. Fees and Taxes
 ------------------
 
-The fees we charge for using our Services are listed on our [Selling fees](https://www.ebay.com/help/selling/fees-credits-invoices/selling-fees?id=4822) pages. We may change our selling fees from time to time by posting the changes on the eBay site fourteen (14) days in advance, but with no advance notice required for temporary promotions or any changes that result in the reduction of fees.
+We charge sellers for the use of our Services. In some cases, where a buyer receives supplemental Services such as authentication Services for items in certain categories, we may also charge the buyer for such supplemental Service.
 
-If you are a seller, you are liable for transaction fees arising out of all sales made using some or all of our Services, even if sales terms are finalized or payment is made outside of eBay. In particular, if you offer or reference your contact information or ask a buyer for their contact information in the context of [buying or selling outside of eBay](https://www.ebay.com/help/policies/payment-policies/offers-buy-sell-outside-ebay-policy?id=4272), you may be liable to pay a [final value fee](https://www.ebay.com/help/selling/fees-credits-invoices/selling-fees?id=4822#section2) applicable to that item, even if the item doesn't sell, given your usage of our Services for the introduction to a buyer.
+The fees we charge sellers for using our Services are listed on our [Selling fees](https://www.ebay.com/help/selling/fees-credits-invoices/selling-fees?id=4822) pages. We may change our selling fees from time to time by posting the changes on the eBay site fourteen (14) days in advance, but with no advance notice required for temporary promotions or any changes that result in the reduction of fees.
 
-You must have a payment method on file when selling using our Services and pay all fees and applicable taxes associated with your use of our Services by the payment due date. If your payment method fails or your account is past due, eBay payments entities may collect amounts owed in the manner described in the Payment Terms of Use. In addition, you will be subject to [late fees](https://www.ebay.com/help/selling/fees-credits-invoices/setting-changing-payment-method?id=4124#requirements). If you receive your sales proceeds to your PayPal account, and your account is over 60 days past due, we may request that PayPal deduct the amount owed from your PayPal account balance. eBay, or the collection agencies we retain, may also report information about your account to credit bureaus, and as a result, late payments, missed payments, or other defaults on your account may be reflected in your credit report. If you wish to dispute the information eBay reported to a credit bureau (i.e., Experian, Equifax or TransUnion) please contact us at eBay Inc., C/O Global Collections, 7700 West Parmer Lane, Building D, Austin, TX 78729. If you wish to dispute the information a collection agency reported to a credit bureau regarding your eBay account, you must contact the collection agency directly.
+If you are a seller, you are liable for fees arising out of all sales made using some or all of our Services, even if sales terms are finalized or payment is made outside of eBay. In particular, if you offer or reference your contact information or ask a buyer for their contact information in the context of [buying or selling outside of eBay](https://www.ebay.com/help/policies/payment-policies/offers-buy-sell-outside-ebay-policy?id=4272), you may be liable to pay a [final value fee](https://www.ebay.com/help/selling/fees-credits-invoices/selling-fees?id=4822#section2) applicable to that item, even if the item doesn't sell, given your usage of our Services for the introduction to a buyer.
 
-In any jurisdiction where eBay has an obligation to collect sales taxes on sales you make using our Services, we may collect such sales taxes from you via the payment method on file under the terms of the Billing Agreement or via any other means available to us.
+You must have a payment method on file when using our selling Services and pay all fees and applicable taxes associated with your use of our Services by the payment due date. If your payment method fails or your account is past due, we may place restrictions on your account, or the eBay Payments Entities (as defined below) may collect amounts owed in the manner described in the [Payments Terms of Use - opens in new window or tab](https://pages.ebay.com/payment/2.0/terms.html). In addition, you will be subject to [late fees](https://www.ebay.com/help/selling/fees-credits-invoices/setting-changing-payment-method?id=4124#requirements). eBay, or the collection agencies we retain, may also report information about your account to credit bureaus, and as a result, late payments, missed payments, or other defaults on your account may be reflected in your credit report. If you wish to dispute the information eBay reported to a credit bureau (i.e., Experian, Equifax or TransUnion) please contact us at eBay Inc., C/O Global Collections, 7700 West Parmer Lane, Building D, Austin, TX 78729. If you wish to dispute the information a collection agency reported to a credit bureau regarding your eBay account, you must contact the collection agency directly.
 
-Selling fees don't purchase exclusive rights to item exposure on our Services. We may display third-party advertisements (including links and references thereto) or other content in any part of our Services, in our sole discretion and without consent from, or payment, fee reduction, or other credit to, sellers.
+In any jurisdiction where eBay has an obligation to collect sales taxes on sales you make using our Services, we or the eBay Payment Entities may collect such sales taxes from you via the payment method on file.
+
+Selling fees don't purchase exclusive rights to item exposure on our Services. We may display third-party advertisements (including links and references thereto) or other content in any part of our Services, including your listing, in our sole discretion and without consent from, or payment, fee reduction, or other credit to, sellers.
 
 6\. Listing Conditions
 ----------------------
@@ -130,18 +133,19 @@ When listing an item for sale on our Services, you agree to comply with eBay's [
 *   To drive a positive user experience, a listing may not appear in some search and browse results regardless of the sort order chosen by the buyer,
 *   Some advanced listing upgrades will only be visible on some of our Services,
 *   eBay's [Duplicate listings policy](https://www.ebay.com/help/policies/listing-policies/duplicate-listings-policy?id=4255) may also affect whether your listing appears in search results,
-*   Metatags and URL links that are included in a listing may be removed or altered so as to not affect third-party search engine results,
-*   We may provide you with optional recommendations to consider when creating your listings. Such recommendations may be based on the aggregated sales and performance history of similar sold and current listings; results may vary for individual listings. To drive the recommendations experience, you agree that we may display the sales and performance history of your individual listings to other sellers,
+*   Metatags and URL links that are included in a listing may be removed or altered,
+*   We may provide you with optional recommendations to consider when creating your listings. Such recommendations may be based on the aggregated sales and performance history of similar sold and/or current listings; results may vary for individual listings. To drive the recommendations experience, you agree that we may display the sales and performance history of your individual listings to other sellers,
 *   For items listed in certain categories, subject to certain programs, and/or offered or sold at certain price points, eBay may require the use of certain payment methods, subject to our [Payments methods policy](https://www.ebay.com/help/policies/payment-policies/accepted-payments-policy?id=4269). For example, for inventory covered by authentication services, buyer and sellers may be subject to escrow and/or payment handling requirements,
-*   You will not sell and will promptly remove all listings for any product recalled by a manufacturer or governmental agency if the sale of the product is prohibited by law or regulation or the product poses a health or safety hazard as specified by any governmental agency. eBay has no responsibility or liability for the safety or performance of any product that you list or sell using our Services, including any product that is subject to a recall. You are solely responsible for any non-conformity or defect in, or compliance with any public or private recall of any product you list or sell using our Services.
+*   You will not sell and will promptly remove all listings for any product recalled by a manufacturer or governmental agency if the sale of the product is prohibited by law or regulation or the product poses a health or safety hazard as specified by any governmental agency. eBay has no responsibility or liability for the safety or performance of any product that you list or sell using our Services, including any product that is subject to a recall. You are solely responsible for any non-conformity or defect in, or compliance with any public or private recall of any product you list or sell using our Services,
+*   eBay may publish and promote your listings, including related content such as username, product reviews and feedback on the websites or in the applications, services and tools of other eBay Inc. corporate family members or cooperating third-party operators of websites, applications, services and tools.
 
 7\. Purchase Conditions
 -----------------------
 
-When buying an item on our Services, you agree to the [Rules and policies for buyers](https://www.ebay.com/help/policies/rules-policies-buyers/rules-policies-buyers?id=4206) and that:
+When buying an item using our Services, you agree to the [Rules and policies for buyers](https://www.ebay.com/help/policies/rules-policies-buyers/rules-policies-buyers?id=4206) and that:
 
-*   You are responsible for reading the full item listing before making a bid or committing to buy,
-*   You enter into a legally binding contract to purchase an item when you commit to buy an item, your offer for an item is accepted, or if you have the winning bid (or your bid is otherwise accepted),
+*   You are responsible for reading the full item listing before making a bid or offer, buying, or committing to buy,
+*   You enter into a legally binding contract to purchase an item when you buy, commit to buy an item, your offer for an item is accepted, or if you have the winning bid (or your bid is otherwise accepted),
 *   For motor vehicles and real estate, a bid or offer initiates a non-binding transaction representing a buyer's serious expression of interest in buying the seller's item and does not create a formal contract between the buyer and the seller,
 *   We do not transfer legal ownership of items from the seller to you,
 *   Utah Code Annotated § 70A-2-401(2) and Uniform Commercial Code § 2-401(2) apply to the transfer of ownership between the buyer and the seller, unless the buyer and the seller agree otherwise.
@@ -149,11 +153,11 @@ When buying an item on our Services, you agree to the [Rules and policies for bu
 8\. International Buying and Selling; Translation
 -------------------------------------------------
 
-Many of our Services are accessible internationally. We may offer certain programs, tools, and site experiences of particular interest to international sellers and buyers, such as estimated local currency conversion and international shipping calculation tools. Sellers and buyers are responsible for complying with all laws and regulations applicable to the international sale, purchase, and shipment of items.
+Given the nature of eBay's global marketplace, listings may be viewed and purchased by, and shipped to, buyers around the world. Many of our Services are accessible internationally. We offer certain programs, tools, and site experiences of particular interest to international sellers and buyers, such as estimated local currency conversion and international shipping calculation tools. Sellers and buyers are responsible for complying with all laws and regulations applicable to the international sale, purchase, and shipment of items.
 
 If you purchase an item on an eBay site that is different from your registration site, you are subject to the User Agreement and applicable policies of that other eBay site with respect to that particular purchase, as detailed in the [International selling policy](https://www.ebay.com/help/policies/selling-policies/international-selling-policy?id=4689).
 
-For sellers, you agree that we may display your listing for sale on an eBay site other than the site where you listed your item for sale, based on your shipping settings. You may adjust these settings as detailed in the [International selling policy](https://www.ebay.com/help/policies/selling-policies/international-selling-policy?id=4689). If you list your items with an international shipping option, the appearance of your listings on sites other than the listing site is not guaranteed. If you sell an item on an eBay site that is different from your registration site, you are subject to the User Agreement and applicable policies, including any buyer protection programs, of that other eBay site with respect to that particular sale, as detailed in the [International selling policy](https://www.ebay.com/help/policies/selling-policies/international-selling-policy?id=4689).
+For sellers, you agree that we may display your listing for sale on an eBay site other than the site where you listed your item for sale, based on your shipping settings. You may adjust these settings as detailed in the [International selling policy](https://www.ebay.com/help/policies/selling-policies/international-selling-policy?id=4689). If you list your items with an international shipping option, the appearance of your listings on sites other than the listing site is not guaranteed. If you sell an item on an eBay site that is different from your registration or listing site, you are subject to the User Agreement and applicable policies, including any buyer protection programs, of that other eBay site with respect to that particular sale, as detailed in the [International selling policy](https://www.ebay.com/help/policies/selling-policies/international-selling-policy?id=4689).
 
 You authorize us to use automated tools to translate your eBay content and member-to-member communications, in whole or in part, into local languages where such translation solutions are available. We may provide you with tools which will enable you to translate content at your request. The accuracy and availability of any translation are not guaranteed.
 
@@ -186,9 +190,7 @@ We respond to notices of alleged copyright infringement under the United States 
 11\. Holds and Restricted Funds
 -------------------------------
 
-To protect eBay from risk of liability for your actions as a seller, eBay payments entities designated to provide payments services to you may restrict access to your funds as described in the [Payment Terms of Use - opens in new window or tab](https://pages.ebay.com/payment/2.0/terms.html).
-
-If you receive transaction proceeds to your PayPal account, eBay may instruct PayPal to temporarily restrict access to funds in your PayPal account based on certain factors, including, but not limited to, selling history, seller performance, returns, riskiness of the listing category, transaction value, or the filing of an eBay Money Back Guarantee case.
+To protect eBay from risk of liability for your actions as a seller, eBay Payments Entities may restrict access to your funds as described in the [Payments Terms of Use - opens in new window or tab](https://pages.ebay.com/payment/2.0/terms.html).
 
 12\. Authorization to Contact You; Recording Calls; Analyzing Message Content
 -----------------------------------------------------------------------------
@@ -203,7 +205,7 @@ eBay's automated systems scan and analyze the contents of every message sent thr
 
 ### Privacy of Others; Marketing
 
-If eBay provides you with information about another user, you agree you will use the information only for the purposes that it is provided to you. You may not disclose or distribute a user's information to a third party for purposes unrelated to our Services. Additionally, you may only send marketing communications to users who have consented to receive them, and only using eBay Services.
+If eBay provides you with information about another user, you agree you will use the information only for the purposes that it is provided to you. You may not disclose or distribute a user's information to a third party for purposes unrelated to our Services. Additionally, you may only send marketing communications to users who have consented to receive them in accordance with applicable laws, and only using eBay Services.
 
 13\. Additional Terms
 ---------------------
@@ -212,60 +214,45 @@ If eBay provides you with information about another user, you agree you will use
 
 Sellers can create rules to automate replacements, returns, and refunds under certain circumstances. For all new sellers, in listings where returns are accepted, eBay will set a default rule that automates the return process. Sellers may remove or customize their return preferences in their account settings within My eBay. Where settings have been set to automatically accept requests for returns or replacements, an eBay-generated return shipping label will be provided to your buyer. You agree to comply with our [returns policy](https://www.ebay.com/help/selling/managing-returns-refunds/managing-returns-refunds?id=4079).
 
-When an item is returned, to refund the buyer, you (as seller) authorize eBay or eBay payments entities to collect the amount of the reimbursement from you as described in the [Payments Terms of Use - opens in new window or tab](https://pages.ebay.com/payment/2.0/terms.html). If you receive your transaction proceeds to your PayPal account, you also authorize eBay to request that PayPal remove the refund amount (in same or other currency) from your PayPal account.
+When an item is returned or if a transaction is cancelled after payment has been completed, eBay may issue a refund to the buyer on the seller's behalf and charge the seller for the amount of the refund.
 
-eBay, or the eBay payments entities may collect the cost of the return shipping label from sellers when:
+Additionally, eBay may charge sellers for the cost of return shipping labels and/or other reasonable fees from sellers when:
 
 *   An eBay-generated return shipping label is used, and the seller is responsible for its cost;
-*   Your returns have been automated;
-*   You fail to send your buyer a return shipping label and, instead, an eBay-generated shipping label is used; and/or
-*   Item is not as described in the listing and is returned in accordance with eBay Money Back Guarantee.
+*   Returns have been automated;
+*   The seller fails to send the buyer a return shipping label and, instead, an eBay-generated shipping label is used; and/or
+*   The item is not as described in the listing and is returned in accordance with eBay Money Back Guarantee or other applicable terms.
 
-The cost of return shipping labels may be collected from you as described in the [Payments Terms of Use - opens in new window or tab](https://pages.ebay.com/payment/2.0/terms.html). If you receive proceeds of your sales to your PayPal account, you authorize eBay to request the removal of the cost of the shipping label from your PayPal account (in same or other currency).
+eBay or eBay Payment Entities may invoice sellers for these charges and collect such charges as described in the [Payments Terms of Use - opens in new window or tab](https://pages.ebay.com/payment/2.0/terms.html).
 
 All seller cancellations of orders must be in accordance with our [Order cancellation policy](https://www.ebay.com/help/policies/member-behavior-policies/order-cancellation-policy?id=5298).
 
-If a transaction is cancelled, eBay may issue a refund to the buyer on your behalf. If a refund is issued to a buyer, you (as seller) authorize eBay or eBay payments entities to collect the amount of the refund from you as described in the [Payments Terms of Use - opens in new window or tab](https://pages.ebay.com/payment/2.0/terms.html). If you receive your transaction proceeds to your PayPal account, you also authorize eBay to request that PayPal remove the refund amount (in same or other currency) from your PayPal account.
+### Returns and cancellations for buyers
 
-### Cancellations for buyers
+Buyers generally do not have the right to cancel an order. Buyers can request to cancel an order on eBay within the time period and as provided in our [Order cancellation policy](https://www.ebay.com/help/policies/member-behavior-policies/order-cancellation-policy?id=5298), and the seller will have 3 days to accept or decline the request. If the order cannot be cancelled, buyers may still be permitted to return the item if the item is [eligible for return](https://www.ebay.com/help/policies/ebay-money-back-guarantee-policy/ebay-money-back-guarantee-policy?id=4210).
 
-Buyers generally do not have the right to cancel an order. Buyers can request to cancel an order on eBay within one hour after their purchase or commitment, and the seller will have 3 days to accept or decline the request. If the order cannot be cancelled, buyers may still be permitted to return the item if the item is [eligible for return](https://www.ebay.com/help/policies/ebay-money-back-guarantee-policy/ebay-money-back-guarantee-policy?id=4210). All buyer requested cancellations of orders must be in accordance with our [Order cancellation policy](https://www.ebay.com/help/policies/member-behavior-policies/order-cancellation-policy?id=5298).
+In certain instances, a buyer may be responsible for the cost of return shipping for an item returned to a seller. If the buyer is responsible for the return shipping costs, the buyer may elect to use an eBay-generated shipping label or purchase a shipping label directly from a carrier. By choosing to use an eBay-generated shipping label, you (as a buyer) agree that eBay may deduct the cost of the shipping label from the refund owed to you.
 
 ### eBay Money Back Guarantee
 
 Most eBay sales go smoothly, but if there's a problem with a purchase covered by [eBay Money Back Guarantee](https://www.ebay.com/help/policies/ebay-money-back-guarantee-policy/ebay-money-back-guarantee-policy?id=4210), buyers can get their money back if an item didn't arrive, is faulty or damaged, or doesn't match the listing. You agree to comply with the policy and permit us to make a final decision on any eBay Money Back Guarantee case.
 
-If you (as seller), choose to reimburse a buyer, or are required to reimburse a buyer or eBay under the eBay Money Back Guarantee, you authorize eBay, or eBay payments entities to collect the amount of the reimbursement from your current or future sales proceeds, linked financial account, or other payment method on file as described in the [Payments Terms of Use - opens in new window or tab](https://pages.ebay.com/payment/2.0/terms.html). If you receive your transaction proceeds to your PayPal account, you also authorize eBay to remove the reimbursement amount from your PayPal account (in the same or other currency). If we cannot get reimbursement from you, we may collect the outstanding sums using other collection mechanisms, including retaining collection agencies.
+If you (as seller), choose to reimburse a buyer, or are required to reimburse a buyer or eBay under the eBay Money Back Guarantee, eBay or eBay Payments Entities may invoice you in the amount of the reimbursement, or collect the amount of the reimbursement from you as described in the [Payments Terms of Use - opens in new window or tab](https://pages.ebay.com/payment/2.0/terms.html). If we cannot get reimbursement from you, we may collect the outstanding sums using other collection mechanisms, including retaining collection agencies.
 
 We may suspend the [eBay Money Back Guarantee](https://www.ebay.com/help/policies/ebay-money-back-guarantee-policy/ebay-money-back-guarantee-policy?id=4210) in whole or in part without notice if we suspect abuse or interference with the proper working of the policy.
 
-14\. Managed Payments
+14\. Payment Services
 ---------------------
 
-A designated eBay entity (each, a "payments entity") manages payments on behalf of sellers for most sales (such management described as "managed payments" or similar). Regardless of whether or not eBay or an eBay payments entity manages a sale, the contract for sale underlying the purchase of goods is directly concluded between seller and the buyer.
+Payments for goods and services sold using our Services are facilitated by designated eBay entities (each, an "eBay Payment Entity") pursuant to the [Payments Terms of Use - opens in new window or tab](https://pages.ebay.com/payment/2.0/terms.html). You agree to the [Payments Terms of Use - opens in new window or tab](https://pages.ebay.com/payment/2.0/terms.html) to the extent applicable to you. To receive payment for an item sold using our Services, you must accept and comply with the [Payments Terms of Use - opens in new window or tab](https://pages.ebay.com/payment/2.0/terms.html), including the requirements to provide to eBay Payment Entities information about you, your business, and the financial account you will use to receive payments.
 
-In order to use managed payments, and to continue to list and sell on eBay, you must:
+If you are a buyer:
 
-*   provide the payments entity with information about you and/or your business to meet its compliance requirements, including those involving identity verification, anti-money laundering controls, and sanctions screening as required by applicable laws and policies; and
-*   pass such verification and screening and otherwise meet the compliance requirements of the payments entity, as determined by the payments entity; and
-*   provide bank account information for a U.S.-based checking account so that the payments entity can link such checking account to your eBay account, allowing the payments entity to pay you.
-
-In addition:
-
-*   the payments entity may obtain information about you from third-parties to verify your identity, comply with anti-money laundering and sanctions screening obligations, and for other purposes in connection with managed payments; and
-*   the payments entity may use third-party payments service providers to assist it in providing managed payments services, including companies that process payments, perform risk assessments (such as credit agencies) or compliance checks, verify identity, and validate payment methods. eBay, the payments entity, and their affiliates may send personal data associated with you and your account to such third-parties.
-
-The payments entity may, in its sole discretion, manage payments on your behalf even if you haven't provided all requested information, and the payments entity may withhold payouts pending receipt of such information.
-
-The complete terms governing sellers' use of managed payments are available in the [Payments Terms of Use - opens in new window or tab](https://pages.ebay.com/payment/2.0/terms.html), incorporated herein. You agree to the [Payments Terms of Use - opens in new window or tab](https://pages.ebay.com/payment/2.0/terms.html) to the extent applicable to you, whether or not your account has been enabled for managed payments.
-
-If you are a buyer completing a purchase from a seller that is using managed payments:
-
-*   You may pay for such items using those payment methods that the payments entity makes available, and the payments entity will manage settlement to sellers. By completing purchases from sellers who use managed payments, buyers authorize the payments entity to initiate payments using the buyers' selected payment method and collect the transaction amounts on behalf of sellers.  Accordingly, payments received by the payments entity from buyers satisfy buyers' obligations to pay sellers in the amount of payments received.
-*   In certain instances, your transaction may be declined, frozen, or held for any reason including for suspected fraud, AML compliance, compliance with economic or trade sanctions, in connection with eBay's internal risk controls or due to potential violations of any policy of eBay or the payments entity, or a policy of one of the payments entity's third-party payment services providers.
-*   eBay, the payments entity or its affiliates may save payment information, such as credit card or debit card numbers, and card expiration dates, entered by you on our Services when you make a purchase, redeem a coupon, or make any other transaction on our Services where card information is entered. Such stored payment information may be used as your default payment method for future transactions on our Services. At any time, you can update your card information or enter new card information, at which point the new card information shall be stored as your default payment method. You may make changes to your default payment method through the Personal Information section under the Account tab in My eBay. You are responsible for maintaining the accuracy of information we have on file, and you consent to eBay updating such stored information from time to time based on information provided by you, your bank or other payments services providers. You will only provide information about payment methods that you are authorized to use.
-*   You may seek [returns or cancellations](#Returns) on our Services, or file [eBay Money Back Guarantee](#eBay) claims on our Services. The payments entity refunds amounts paid for successful eBay Money Back Guarantee claims and returned or cancelled transactions in cases where the original payment was managed by the payments entity. Refund timing may vary in accordance with the rules of third parties, such as credit and debit card networks.
-*   You agree to comply with, and not cause a third party to violate, all applicable laws, regulations, rules and terms and conditions in connection with the use of managed payments. You understand that some third parties, such as credit and debit card issuers, credit and debit card networks and payments services providers, may have their own terms and conditions for the payment or settlement methods you choose to use in connection with managed payments transactions. Failure to abide by third party terms and conditions may result in fees assessed to you (for example, currency conversion fees from your credit card issuer if the transaction currency is different from your credit card currency) or other actions taken by such third parties, and you agree that the payments entity has no control over, or responsibility or liability for, such fees or actions.
+*   You may pay for items and services using the payment methods that the eBay Payment Entities make available, and the eBay Payment Entities will manage settlement of the payment to sellers. When buying on our Services, you authorize the eBay Payment Entity to initiate payments using your selected payment method and collect the transaction amounts on behalf of the seller. Accordingly, payments received by the eBay Payment Entity from you will satisfy your obligations to pay the seller in the amount of payments received.
+*   In certain instances, your transaction may be declined, frozen, or held for any reason including for suspected fraud, AML compliance, compliance with economic or trade sanctions, in connection with eBay's internal risk controls or due to potential violations of any policy of eBay or the eBay Payment Entity, or a policy of one of the Payment Entity's third-party payment services providers.
+*   eBay, the eBay Payment Entity or its affiliates may save payment information, such as credit card or debit card numbers, and card expiration dates, entered by you on our Services when you make a purchase, redeem a coupon, or make any other transaction on our Services where card information is entered. Such stored payment information may be used as your default payment method for future transactions on our Services. At any time, you can update your card information or enter new card information, at which point the new card information shall be stored as your default payment method. You may make changes to your default payment method through the Personal Information section under the Account tab in My eBay. You are responsible for maintaining the accuracy of information we have on file, and you consent to eBay updating such stored information from time to time based on information provided by you, your bank or other payments services providers. You will only provide information about payment methods that you are authorized to use.
+*   You may seek [returns or cancellations](#Returns) on our Services, or file [eBay Money Back Guarantee](#eBay) claims on our Services. If you are entitled to a refund, the eBay Payment Entities will issue the refund if the eBay Payment Entities processed the original payment. Refund timing may vary in accordance with the rules of third parties, such as credit and debit card networks.
+*   You agree to comply with, and not cause a third party to violate, all applicable laws, regulations, rules and terms and conditions in connection with the use of the services provided by the eBay Payment Entities. You understand that some third parties, such as credit and debit card issuers, credit and debit card networks and payments services providers, may have their own terms and conditions for the payment or settlement methods you choose to use in connection with managed payments transactions. Failure to abide by third party terms and conditions may result in fees assessed to you (for example, currency conversion fees from your credit card issuer if the transaction currency is different from your credit card currency) or other actions taken by such third parties, and you agree that the eBay Payment Entity has no control over, or responsibility or liability for, such fees or actions.
 
 15\. Disclaimer of Warranties; Limitation of Liability
 ------------------------------------------------------
@@ -295,7 +282,7 @@ Regardless of the previous paragraphs, if we are found to be liable, our liabili
 16\. Release
 ------------
 
-If you have a dispute with one or more users, you release us (and our affiliates and subsidiaries, and our and their respective officers, directors, employees and agents) from claims, demands and damages (actual and consequential) of every kind and nature, known and unknown, arising out of or in any way connected with such disputes. **In entering into this release you expressly waive any protections (whether statutory or otherwise) that would otherwise limit the coverage of this release to include only those claims which you may know or suspect to exist in your favor at the time of agreeing to this release.**
+If you have a dispute with one or more users, you release us (and our affiliates and subsidiaries, and our and their respective officers, directors, employees and agents) from claims, demands and damages (actual and consequential) of every kind and nature, known and unknown, arising out of or in any way connected with such disputes. **In entering into this release, you expressly waive any protections (whether statutory or otherwise) that would otherwise limit the coverage of this release to include only those claims which you may know or suspect to exist in your favor at the time of agreeing to this release.**
 
 17\. Indemnity
 --------------
@@ -379,7 +366,7 @@ If you create or use an account on behalf of a business entity, you represent th
 
 The User Agreement and all terms and polices posted through our Services set forth the entire understanding and agreement between you and eBay, and supersede all prior understandings and agreements of the parties.
 
-The following Sections survive any termination of this User Agreement: Fees, Content, Holds and Restricted Funds, Managed Payments, Additional Terms, Disclaimer of Warranties; Limitation of Liability; Release, Indemnity, Legal Disputes, and General.
+The following Sections survive any termination of this User Agreement: Fees and Taxes, Content, Holds and Restricted Funds, Payment Services, Additional Terms, Disclaimer of Warranties; Limitation of Liability; Release, Indemnity, Legal Disputes, and General.
 
 If you are a California resident, in accordance with Cal. Civ. Code §1789.3, you may report complaints to the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs by contacting them in writing at 400 R Street, Sacramento, CA 95814, or by telephone at (800) 952-5210.
 
