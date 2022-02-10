@@ -13,7 +13,7 @@ Our website
 
 This cookie policy only relates to your use of our websites, apps and services listed below:
 
-askubuntu.com, mathoverflow.net, serverfault.com, stackapps.com, stackexchange.com, stackoverflow.com, stackoverflow.blog, stackoverflowsolutions.com, superuser.com.
+askubuntu.com, mathoverflow.net, serverfault.com, stackapps.com, stackexchange.com, stackoverflow.co, stackoverflow.com, stackoverflow.blog, stackoverflowsolutions.com, superuser.com.
 
 Throughout our websites we may link to other websites owned and operated by certain trusted third parties to service advertisements or provide analytical services. These other third party websites may also use cookies or similar technologies in accordance with their own separate policies. For privacy information relating to these other third party websites, please consult their policies as appropriate.
 
@@ -41,7 +41,7 @@ These cookies are necessary for our website to function properly and cannot be s
 
 | Domain | Cookies | Used as |
 | --- | --- | --- |
-| askubuntu.com, mathoverflow.net, serverfault.com, stackapps.com, stackexchange.com, stackoverflow.com, stackoverflow.blog, stackoverflowsolutions.com, superuser.com | \_ga, \_gat, \_gat\_xxxxxxxxxxxxxxxxxxxxxxxxxx, acct, csouser, drafts, fkey, flash-message-json, have\_a\_cookie, hero-dismissed, job-alert-tooltip-dismissed, job-alert-verified-email, job-visitor-survey-dismissed, jquery-fallback, mobileSearchAccordion, no-responsiveness, OptanonAlertBoxClosed, OptanonConsent, optimizelyEndUserId, optimizelyPPID, prov, sgt, theme, uauth, usr | 1st Party |
+| askubuntu.com, mathoverflow.net, serverfault.com, stackapps.com, stackexchange.com, stackoverflow.co, stackoverflow.com, stackoverflow.blog, stackoverflowsolutions.com, superuser.com | \_ga, \_gat, \_gat\_xxxxxxxxxxxxxxxxxxxxxxxxxx, acct, csouser, drafts, fkey, flash-message-json, have\_a\_cookie, hero-dismissed, job-alert-tooltip-dismissed, job-alert-verified-email, job-visitor-survey-dismissed, jquery-fallback, mobileSearchAccordion, no-responsiveness, OptanonAlertBoxClosed, OptanonConsent, optimizelyEndUserId, optimizelyPPID, prov, sgt, theme, uauth, usr | 1st Party |
 | stackoverflow.email | iterableEmailCampaignId, iterableEndUserId, iterableMessageId, iterableTemplateId | 1st Party |
 | stackexchange.com | mc, rawr | 1st Party |
 | stacksnippets.net | \_gid | 1st Party |
@@ -54,7 +54,7 @@ Additionally, some strictly necessary cookies are dynamically generated based on
 
 | Domain | Cookies | Used as |
 | --- | --- | --- |
-| askubuntu.com, mathoverflow.net, serverfault.com, stackapps.com, stackexchange.com, stackoverflow.com, stackoverflow.blog, stackoverflowsolutions.com, superuser.com | {site}usr, {site}user, AuthMethodBanner-Dismissed-{id}, notice-{name}, p{postId}, rk-{postId} | 1st Party |
+| askubuntu.com, mathoverflow.net, serverfault.com, stackapps.com, stackexchange.com, stackoverflow.co, stackoverflow.com, stackoverflow.blog, stackoverflowsolutions.com, superuser.com | {site}usr, {site}user, AuthMethodBanner-Dismissed-{id}, notice-{name}, p{postId}, rk-{postId} | 1st Party |
 
 Optional cookies
 
@@ -66,7 +66,7 @@ These cookies allow us to count visits and traffic sources so we can measure and
 
 | Domain | Cookies | Used as |
 | --- | --- | --- |
-| askubuntu.com, mathoverflow.net, serverfault.com, stackapps.com, stackexchange.com, stackoverflow.com, stackoverflow.blog, stackoverflowsolutions.com, superuser.com | \_\_qca, \_ym\_d, \_ym\_isad, \_ym\_uid, referral | 1st Party |
+| askubuntu.com, mathoverflow.net, serverfault.com, stackapps.com, stackexchange.com, stackoverflow.co, stackoverflow.com, stackoverflow.blog, stackoverflowsolutions.com, superuser.com | \_\_qca, \_ym\_d, \_ym\_isad, \_ym\_uid, referral | 1st Party |
 | mc.yandex.com | sync\_cookie\_csrf, sync\_cookie\_ok | 3rd Party |
 | quantserve.com | mc  | 3rd Party |
 
@@ -76,7 +76,7 @@ These cookies enable the website to provide enhanced functionality and personali
 
 | Domain | Cookies | Used as |
 | --- | --- | --- |
-| askubuntu.com, mathoverflow.net, serverfault.com, stackapps.com, stackexchange.com, stackoverflow.com, stackoverflow.blog, stackoverflowsolutions.com, superuser.com | mfnes | 1st Party |
+| askubuntu.com, mathoverflow.net, serverfault.com, stackapps.com, stackexchange.com, stackoverflow.co, stackoverflow.com, stackoverflow.blog, stackoverflowsolutions.com, superuser.com | mfnes | 1st Party |
 | github.com | \_gh\_sess, \_octo, logged\_in | 3rd Party |
 
 Targeting Cookies
@@ -85,7 +85,7 @@ These cookies may be set through our site by our advertising partners. They may 
 
 | Domain | Cookies | Used as |
 | --- | --- | --- |
-| askubuntu.com, mathoverflow.net, serverfault.com, stackapps.com, stackexchange.com, stackoverflow.com, stackoverflow.blog, stackoverflowsolutions.com, superuser.com | \_\_gads, \_dlt, GoogleAdServingTest, urr | 1st Party |
+| askubuntu.com, mathoverflow.net, serverfault.com, stackapps.com, stackexchange.com, stackoverflow.co, stackoverflow.com, stackoverflow.blog, stackoverflowsolutions.com, superuser.com | \_\_gads, \_dlt, GoogleAdServingTest, urr | 1st Party |
 | youtube.com | GPS, VISITOR\_INFO1\_LIVE, YSC | 3rd Party |
 | linkedin.com | bcookie, lang, li\_gc, lidc, lissc, UserMatchHistory | 3rd Party |
 | mathtag.com | uuid | 3rd Party |
