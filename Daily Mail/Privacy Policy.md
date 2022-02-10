@@ -726,7 +726,9 @@ We reserve the right to make changes to this Policy. Where changes are made, we 
 17. How to contact us: 
 -----------------------
 
-If you have any queries or comments about this Policy or wish to exercise any of your rights under the UK GDPR, the EU GDPR or the CCPA, please contact us by email at: 
+If you wish to exercise any of your rights under the UK GDPR, the EU GDPR or the CCPA, we encourage you to use our [Data Subject Request (Form)](https://privacyportal-de.onetrust.com/webform/7710194a-a828-4c32-8670-52c08674b0de/c10100fa-7987-4498-abc8-104315d29e7a) if possible.
+
+You may also contact us using the following details: 
 
 dataprotection@dmgmedia.co.uk 
 
