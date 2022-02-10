@@ -35,7 +35,7 @@ We use the information we collect to deliver service, to market to you, and for 
 *   Authenticate you;
 *   Customize the content you see when you use our sites and apps;
 *   Secure and improve our network and services;
-*   Detect and prevent potentially prohibited, fraudulent or illegal activities and otherwise in accordance with our Terms of Use; and
+*   Detect and prevent potentially prohibited, fraudulent or illegal activities and otherwise in accordance with our [Terms of Use](javascript:void(0);); and
 *   For any other purposes disclosed to you at the time we collect your information or with your consent.
 
 ### III. DISCLOSURE OF INFORMATION
@@ -59,7 +59,7 @@ We use reasonable measures to help protect information from loss, theft, misuse 
 
 You may see Visible ads on others’ sites, services, apps and devices, as well as on Visible sites and apps. These ads may be tailored for you based on information that we or companies acting on our behalf collect on Visible sites and apps as well as other sites and apps where these advertising entities also are present.
 
-To accomplish this type of advertising, advertising entities place and access cookies and similar technologies on browsers you use and access advertising identifiers from your mobile device operating systems. Information about your activities on the websites and in the apps where the entities are present can be combined and used to determine whether you fall into an audience advertisers wish to reach.
+To accomplish this type of advertising, advertising entities place and [access cookies and similar technologies](javascript:void(0);) on browsers you use and access advertising identifiers from your mobile device operating systems. Information about your activities on the websites and in the apps where the entities are present can be combined and used to determine whether you fall into an audience advertisers wish to reach.
 
 Advertising that is customized based on information about your visits over time and across different websites, apps and devices is known as “interest-based” advertising. In accordance with the [Digital Advertising Alliance](https://digitaladvertisingalliance.org/) self-regulatory principles, we require that advertising companies disclose when they are using interest-based advertising techniques to deliver interest-based ads on our sites and apps as well as when they deliver Visible ads on other sites. We also require them to offer you an ability to [opt out](https://optout.aboutads.info/) of this use of your information. You can visit the industry-wide [Digital Advertising Alliance opt-out page](https://optout.aboutads.info/) to learn more and opt out. Additionally, you will see an icon ![](/images/add-choices.jpg?t=0024bf63581498e264df4a3278f6a82c) in or around online advertisements placed using interest-based advertising techniques. You can click on the icon to learn more and opt out. You can also opt out of the use of your device identifiers for interest-based advertising by selecting “Limit Ad Tracking” or “Opt out of Interest-Based Ads” in your device Settings.
 
