@@ -1,6 +1,9 @@
 Terms of Use
 ============
 
+_**Last updated:** January 2022  
+For Archive of previous versions please click [**here**](https://www.logitech.com/en-gb/tos/terms/archive.html)._
+
 These Terms of Use (“Terms”) are a legal agreement between you and Logitech and govern your use of this Website either as a visitor, content contributor, or as a registered user. Use of, posting of information to, and access to this Website are subject to your compliance with these Terms, so please read them carefully before using this Website. Logitech reserves the right to limit or terminate your access to this Website or terminate or suspend your registration for failure to comply with the terms and policies posted on this Website, including these Terms, or for any reason at any time.
 
 BY ACCESSING AND USING THIS WEBSITE IN ANY WAY, YOU AGREE TO BE BOUND BY THESE TERMS. IF YOU DO NOT AGREE TO ALL OF THE TERMS AND CONDITIONS, DO NOT USE OR POST INFORMATION ON THIS WEBSITE IN ANY MANNER.
@@ -78,7 +81,7 @@ Links to third party websites and services
 
 In attempting to provide you with comprehensive and useful resources, this Website may contain links to third-party websites, which are not under the control of Logitech. Logitech is not responsible for the content of or products provided by any linked site or any link contained in a linked site, or any changes or updates to such sites. Logitech is providing these links to you only as a convenience, and the inclusion of any link does not imply that Logitech endorses, guarantees, or accepts any responsibility for the content or products on such a third-party site.
 
-In connection with your use of this Website, you may be made aware of services, products, offers, and promotions provided by third parties, and not by Logitech. If you decide to use third-party services or products, you are responsible for reviewing and understanding the terms and conditions governing any third-party service or product. You agree that the third party, and not Logitech, is responsible for the performance of the third-party services or products.
+In connection with your use of this Website, you may be made aware of services, products, offers, and promotions provided by third parties, and not by Logitech. If you decide to use third-party services or products, you are responsible for reviewing and understanding the terms and conditions governing any third-party service or product. You agree that the third party, and not Logitech, is responsible for the performance of the third-party services or products. For instance, Logitech uses YouTube as a hosting platform for our videos and, as a result, you are subject to the YouTube Terms of Service (available at https://www.youtube.com/t/terms) including the Google Privacy Policy (available at https://www.google.com/policies/privacy).
 
 #####   
 No duty to monitor
@@ -161,4 +164,4 @@ Logitech may assign these Terms at any time to any subsidiary, or any affiliated
 #####   
 This site is owned and operated by Logitech.
 
-Logitech revised these Terms on August 2016.
+Logitech revised these Terms on January 2022.
