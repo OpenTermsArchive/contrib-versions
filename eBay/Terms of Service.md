@@ -1,4 +1,4 @@
-This User Agreement is effective upon acceptance for new users, and from March 10, 2021 for existing users. The [previous amendment to this User Agreement](#Previous User Agreement) was effective for all users on October 8, 2021.
+This User Agreement is effective upon acceptance for new users, and from March 11, 2022 for existing users. The [previous amendment to this User Agreement](#Previous User Agreement) was effective for all users on October 8, 2021.
 
 **In this User Agreement:**
 
@@ -271,7 +271,7 @@ In addition, to the extent permitted by applicable law, in no event will eBay (i
 *   glitches, bugs, errors, or inaccuracies of any kind in our Services;
 *   damage to your hardware device from the use of any eBay Service;
 *   the content, actions, or inactions of third parties, including items listed using our Services or the destruction of allegedly fake items;
-*   a suspension or other action taken with respect to your account or breach of the Abusing eBay Section above;
+*   a suspension or other action taken with respect to your account or breach of the Using eBay Section above;
 *   the duration or manner in which your listings appear in search results as set out in the Listing Conditions Section above; or
 *   your need to modify practices, content, or behavior, or your loss of or inability to do business, as a result of changes to this User Agreement or our policies.
 
