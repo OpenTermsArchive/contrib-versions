@@ -344,7 +344,7 @@ Promotions: Sometimes we bring you promotions in association with other companie
 
 Legal basis for processing this data: Consent (if requested) or legitimate interests 
 
-Cobranded Products / affiliate marketing: We regularly partner with industry affiliates to bring you special deals on products and packages you may find of interest. These include travel providers on [MailTravel](https://link.news.dailymail.co.uk/join/4w5/mail-travel-migration-april2020-holding-page&hash=792dbc8a909eba34e21f035a5bc345d7) and financial service providers on [MailFinance](https://www.mailfinance.co.uk/) or [This Is Money](https://www.thisismoney.co.uk/money/index.html). These providers collect marketing permissions for us and share data back with us about your purchases in order for us to measure the effectiveness of our marketing campaigns.
+Cobranded Products / affiliate marketing: We regularly partner with industry affiliates to bring you special deals on products and packages you may find of interest. These include travel providers on [MailTravel](https://www.mailtravel.co.uk/) and financial service providers on [MailFinance](https://www.mailfinance.co.uk/) or [This Is Money](https://www.thisismoney.co.uk/money/index.html). These providers collect marketing permissions for us and share data back with us about your purchases in order for us to measure the effectiveness of our marketing campaigns.
 
 If you decide to book a holiday with an affiliate, use their advisory services or set up an account, or purchase a financial product, these affiliates will be data controllers of the information you have provided them in order to administer your relationship with them and will handle your information in accordance with their own privacy policies.
 
