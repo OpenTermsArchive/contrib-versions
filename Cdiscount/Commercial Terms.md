@@ -1925,7 +1925,7 @@ _ARTICLE 6 : FACTURATION ET CONDITIONS DE REGLEMENT_
   
 6.5    Toute facture impayée, en totalité ou partiellement, à l’échéance prévue entraîne de plein droit, sans mise en demeure préalable :  
   
-          •  l'application de pénalités de retard calculées par l'application d'un taux égal à trois fois le taux d'intérét légal en vigueur sur les montants restant dus et pour une durée correspondant au nombre de jours de retard constaté entre l'échéance portée sur la facture et le règlement effectif en date de valeur ;  
+          •  l'application de pénalités de retard calculées par l'application d'un taux égal à trois fois le taux d'intérêt légal en vigueur sur les montants restant dus et pour une durée correspondant au nombre de jours de retard constaté entre l'échéance portée sur la facture et le règlement effectif en date de valeur ;  
   
           •  l’indemnité forfaitaire légale de quarante (40) euros pour frais de recouvrement, sans préjudice de la faculté pour Cdiscount de réclamer une indemnisation complémentaire sur justificatifs ;  
   
