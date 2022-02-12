@@ -139,6 +139,10 @@ We use our analytics to:
 *   Frame our marketing campaigns and determine how we might personalise those;
 *   Provide anonymised and aggregated reports to third parties (such reports don’t contain information which may identify you as an individual). These can be to third parties such as content providers, advertisers, and other business or public entities.
 
+**Meeting our business needs**
+
+We may use and analyse your personal information, such as your account information and details of your contract for products or services with us, to pursue our legitimate interests and those of third parties with whom we do business. The legitimate interests we pursue by such processing are to operate our business in a responsible and commercially prudent manner. This may also involve sharing some of your personal information with potential lenders to us and potential acquirers of us or any of our assets and their respective advisors and service providers.
+
 {{feedbackMessage}}
 
 ### 
@@ -178,9 +182,9 @@ We may share information about you with:
 
 We’ll also release information if it’s reasonable for the purpose of protecting us against fraud, defending our rights or property, or to protect the interests of our customers.
 
-**Mergers and Acquisitions**  
+**Mergers, Acquisitions and other Corporate Transactions**
 
-If we’re reorganised or sold to another organisation we will provide your information to that organisation.
+If we’re reorganised or we or any of our assets are sold to another organisation or we seek to borrow from another organisation we will provide your information to that organisation and its advisors and service providers to the extent that this is relevant to the proposed transaction.
 
 **Third parties that we work with**
 
