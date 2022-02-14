@@ -423,12 +423,12 @@ This section shall apply to the extent that your Processing of Platform Data inc
 Whenever there is an EEA Data Transfer, your use of Meta Ireland Data is subject to your compliance with the Clauses in so far as they relate to controller to controller transfers (Module One). In each case, you agree that for the purposes of Section IV, Clauses 17 and 18 in the Clauses, Option 1 and Option (b) shall apply respectively and the Member State shall be Ireland. Nothing in this Section 10 (International transfers) is intended to vary or modify the Clauses. For the purposes of the Appendix to the Clauses, the following will apply:
 
 *     
-    a. For the purposes of Annex I(A) to the Clauses, Meta Ireland Limited is the "data exporter" and you are the "data importer" as defined in the Clauses.
+    a. For the purposes of Annex I(A) to the Clauses, Meta Platforms Ireland Limited is the "data exporter" and you are the "data importer" as defined in the Clauses.
     
     b. For the purposes of Annex I(B) to the Clauses:
     
     *     
-        i. “Categories of data subjects” are the Users who visit, access, use, or otherwise interact with the App and the products and services of Meeta Ireland Limited;
+        i. “Categories of data subjects” are the Users who visit, access, use, or otherwise interact with the App and the products and services of Meta Platforms Ireland Limited;
         
     *     
         ii. "Categories of personal data" are Meta Ireland Data, which includes profile information, photos and videos, location information, communications between Users, information about use of the App and other products and services, payment information, device information, information about visits to third-party websites or Apps that use a "like" or "comment" button or other service integration, information from third-party partners or the Meta Companies, or as otherwise set forth in the Data Policy;
