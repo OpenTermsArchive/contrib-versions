@@ -1,9 +1,9 @@
 1.Introduction
 --------------
 
-We, LINE Corporation (“LINE,” “we,” “us,” or “our”), will collect information related to individuals (“Personal Data”) in providing our LINE communication app (“LINE App”) and all products, apps, services and websites related to the LINE App (collectively, the “Services”).  
+We, LINE Corporation (“LINE,” “we,” “us,” or “our”), will collect information related to individuals (“Personal Data”) in providing our LINE communication app (“LINE App”) and all products, apps, services and websites related to the LINE App (collectively, the “Services”). We consider the protection of Personal Data to be one of the most important management issues as a responsibility of an Internet content service company. We will act in compliance with the laws and regulations applicable in countries and regions where we are conducting business (such laws and regulations are hereinafter collectively referred to as the “Applicable Laws”), and will make efforts to properly protect Personal Data based on this Privacy Policy (this “Policy”).  
   
-This Privacy Policy (the “Policy”) explains what kind of Personal Data we will collect, and how we will use and share such Personal Data, and how you can manage your own Personal Data.
+This “Policy” explains what kind of Personal Data we will collect, and how we will use and share such Personal Data, and how you can manage your own Personal Data.
 
 We encourage you to also review “[LINE Privacy Center](https://linecorp.com/en/privacy/)” which explains the overview of this Policy in an easy to-understand manner.
 
@@ -22,7 +22,7 @@ In connection with the application of this Policy, LINE is the controller of the
 
 2.b.Applicable countries and regions
 
-We will process Personal Data only to the extent permitted under laws and regulations applicable in countries and regions where we are conducting business (such laws and regulations are hereinafter collectively referred to as the “Applicable Laws”) according to this Policy and only within the scope described in this Policy.
+We will process Personal Data only to the extent permitted under the Applicable Laws according to this Policy and only within the scope described in this Policy.
 
 While we may provide various translations of this Policy as a reference, to the extent permitted under Applicable Laws, the [Japanese version](https://terms.line.me/ja/terms/policy/) applies to users using our Services in Japan, the [Korean version](https://terms.line.me/ko/terms/policy/) applies to users using our Services in Korea, and the [English version](#) applies to users using our Services in other countries or regions.
 
@@ -147,7 +147,7 @@ We will use Personal Data for the following purposes:
 ● Prevention of unauthorized use such as unauthorized access; and/or  
 ● Provision of contents optimized for you.
 
-We use Personal Data to provide our Services to users, for utilization in research and development to provide safer and better services, and to provide services that are strongly linked to users, including ads. The specific uses of Personal Data are as follows.
+We use Personal Data to provide our Services to users, for utilization in research and development to provide safer and better services, and to provide services that are strongly linked to users, including ads. We will not process the Personal Data we obtain beyond the scope of the purposes of use, except to the extent that consent has been obtained from you or as permitted by the Applicable Laws. In addition, we will take appropriate measures to ensure that Personal Data is not used for any other purpose. The specific uses of Personal Data are as follows.
 
 4.a.Provision and maintenance of services
 
@@ -268,7 +268,7 @@ If we receive a request pursuant to legal proceedings such as a warrant, or if t
 6.Safety control of Personal Data
 ---------------------------------
 
-We will take strict technical and organizational security measures in managing the collected Personal Data.  
+We will take strict technical and organizational security measures in managing the collected Personal Data. In order to continue to improve our protection of Personal Data, we will review and bolster our internal rules and regulations in accordance with changes in laws and social norms.  
   
 Unless you request the deletion of your Account, in principle, we will retain most of your information. Once we receive your request to delete your Account, we will delete your information according to Applicable Laws and internal rules after retaining such information for a given period of time.
 
@@ -415,7 +415,7 @@ Attn: Privacy Policy
 Person responsible for the handling of personal data  
 Chief Privacy Officer
 
-If you are in the European Economic Area (EEA), you may contact the Data Protection Officer or our EU representative below or you may lodge a complaint with a supervisory authority in the European Economic Area.
+If you are in the European Economic Area (EEA) or the United Kingdom, you may contact the Data Protection Officer, our EU representative below or our UK representative below, or you may lodge a complaint with a supervisory authority in the European Economic Area or the United Kingdom.
 
 <Data Protection Officer>  
 LINE Corporation  
@@ -430,14 +430,23 @@ Attn: LINE Corporation EU Representative
 Neuer Wall 54, 20354 Hamburg, Germany  
 +49(0)40 60944190
 
+<UK Representative>  
+DP Data Protection Services UK Ltd.  
+Attn: LINE Corporation  
+16 Great Queen Street, Covent Garden, London, WC2B 5AH, United Kingdom  
+line@gdpr-rep.com
+
 9.c.Changes to this Policy
 
 We may modify this Policy from time to time, and the latest version of the privacy policy will always be posted on this site. When we make any material changes to this Policy, we will notify you on our Services, or by other reasonable means. We encourage you to review the contents of the latest version of the privacy policy carefully.
 
 If you do not agree to any of the changes and you no longer wish to use our Services, you may choose to close your Account. Continuing to use our Services after a notice of changes has been notified to you or published on our Services constitutes your acceptance of the changes and consent to the modified version of this Policy. We will seek your consent when required under Applicable Laws.
 
+LINE Corporation  
+CEO and President - Takeshi Idezawa
+
 Formulated on August 15, 2012  
-Revised on November 25, 2021
+Revised on February 14, 2022
 
 10.Reference
 ------------
