@@ -199,8 +199,6 @@ Pursuant to California Civil Code section 1798.125, Jeeng shall not discriminate
 
 Minors. We do not knowingly collect or solicit information or data from children under the age of 16 or knowingly allow children under the age of 16 to register for the Services. If you are under the age of 16, do not register or attempt to register for any of the Services or send any information about yourself to us. If we learn that we have collected or have been sent Personal Data or from a child under the age of 16, we will delete that Personal Data as soon as reasonably practicable without any liability to Jeeng. If you believe that we might have collected or been sent information from a minor under the age of 16, please contact us at: [dpo@powerinbox.com](mailto:privacy@powerinbox.com) as soon as possible.
 
-Do Not Sell Personal Information. Jeeng does not sell any data subjects’ personal information.
-
 Jeeng aims to process only adequate, accurate and relevant data limited to the needs and purposes for which it is gathered. It also aims to store data for the time period necessary to fulfill the purpose for which the data is gathered. Jeeng only collects data in connection with a specific legitimate purpose and only processes data in accordance with this Privacy Policy. Our policies and practices are constantly evolving and improving, and we invite any suggestions for improvements, questions or comments concerning this Privacy Policy and Notice, you are welcome to contact us (details below) and we will make an effort to reply within a reasonable timeframe.
 
 ### 14\. CHANGES TO THIS PRIVACY POLICY
