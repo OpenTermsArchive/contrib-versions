@@ -234,7 +234,7 @@ In the event that Cloudflare makes any future change to this arbitration provisi
 
 ### 17.8 Enforceability
 
-Notwithstanding Section 16, if Subsection 17.1 is found to be unenforceable or if the entirety of this��Section 17 is found to be unenforceable, then the entirety of this Section 17 will be null and void and, in such case, the parties agree that the exclusive jurisdiction and venue described in Section 13 will govern any action arising out of or related to this Agreement.
+Notwithstanding Section 16, if Subsection 17.1 is found to be unenforceable or if the entirety of this Section 17 is found to be unenforceable, then the entirety of this Section 17 will be null and void and, in such case, the parties agree that the exclusive jurisdiction and venue described in Section 13 will govern any action arising out of or related to this Agreement.
 
 18\. Consent to Electronic Communications
 -----------------------------------------
