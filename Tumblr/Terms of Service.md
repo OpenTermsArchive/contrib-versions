@@ -32,7 +32,7 @@ As Tumblr grows and improves, we might have to make changes to these Terms of Se
 
 **Eligibility:**
 
-You may not use the Services, provide any personal information to Tumblr, or otherwise submit personal information through the Services (including, for example, a name, address, telephone number, or email address) if you are under the Minimum Age. The Minimum Age is (i) thirteen (13),(ii) for users in the European Union or the United Kingdom, sixteen (16), or (iii) for users to give or receive tips (“<strong>Tipping Feature</strong>”), eighteen (18). You may only use the Services if you can form a binding contract with Tumblr and are not legally prohibited from using the Services.
+You may not use the Services, provide any personal information to Tumblr, or otherwise submit personal information through the Services (including, for example, a name, address, telephone number, or email address) if you are under the Minimum Age. The Minimum Age is (i) thirteen (13),(ii) for users in the European Union or the United Kingdom, sixteen (16), or (iii) for users to give or receive tips <strong>(“Tipping Feature”)</strong>, eighteen (18). You may only use the Services if you can form a binding contract with Tumblr and are not legally prohibited from using the Services.
 
 You have to be the Minimum Age to use Tumblr. We're serious: it's a hard rule. “But I’m, like, almost old enough!” you plead. Nope, sorry. If you're not old enough, don't use Tumblr. Ask your parents for a Playstation 4, or try books.
 
