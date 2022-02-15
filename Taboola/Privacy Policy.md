@@ -213,12 +213,6 @@ We use the Information that we collect from Customers, Users, and Site Visitors 
 *   _**Legal compliance**_. We use the Information that we collect to comply with applicable legal obligations, including requests from law enforcement or other governmental entities.
 *   _**Protecting our rights and interests**_. We use the Information that we collect to protect our rights and interests and the rights and interests of our Customers, Users, Site Visitors, and the general public, as well as to enforce this Privacy Policy and our [Terms of Use](https://www.taboola.com/policies/terms-of-use).
 
-We use the Information that we collect from Customers, Users, and Site Visitors for the purposes respectively set forth in Sections 1-3 above, as well as for the following purposes:
-
-*   _**Analyzing use of our Services**_. We use the Information that we collect to better understand how Customers, Users, and Site Visitors access and use our Site and Services, both on an aggregated and individualized basis; to respond to Customers’, Users’, and Site Visitors’ requests and preferences; and for other research, analytical, and statistical purposes.
-*   _**Legal compliance**_. We use the Information that we collect to comply with applicable legal obligations, including requests from law enforcement or other governmental entities.
-*   _**Protecting our rights and interests**_. We use the Information that we collect to protect our rights and interests and the rights and interests of our Customers, Users, Site Visitors, and the general public, as well as to enforce this Privacy Policy and our [Terms of Use](https://www.taboola.com/policies/publisher-revshare-terms-and-conditions-121813-1-il).
-
 ### 4.2 Disclosing Your Information
 
 When we share your Information with third parties as specified above, we require such recipients to agree to only use the Information we share with them in accordance with this Privacy Policy and our contractual specifications and for no other purpose than those determined by us in line with this Privacy Policy.
