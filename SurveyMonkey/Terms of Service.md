@@ -1,7 +1,7 @@
 Terms of Use
 ============
 
-These terms apply to services purchased or signed-up for on Momentive’s websites. For terms applicable to services offered through our enterprise sales team, please see our [Governing Services Agreement](https://www.surveymonkey.com/mp/legal/msa/).
+These terms apply to services purchased or signed-up for on Momentive’s websites. For terms applicable to services offered through our enterprise sales team, please see our [Governing Services Agreement](https://www.surveymonkey.com/mp/legal/gsa/).
 
 Effective as of July 1, 2021, SurveyMonkey Inc. became Momentive Inc., SurveyMonkey Europe UC became Momentive Europe UC, and SurveyMonkey Brasil Internet Eireli became Momentive Brasil Internet Eireli.
 
