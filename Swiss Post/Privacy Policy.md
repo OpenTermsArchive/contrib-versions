@@ -1,8 +1,8 @@
 Data protection and disclaimer
 ==============================
 
-Anchor Navigation
------------------
+\[Anchor Navigation | Section Title\]
+-------------------------------------
 
 Data protection
 ---------------
