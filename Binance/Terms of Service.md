@@ -1,6 +1,6 @@
 Binance Terms of Use
 
-Last revised: 4 February 2022
+Last revised: 16 February 2022
 
 These Binance Terms of Use is entered into between you (hereinafter referred to as “you” or “your”) and Binance operators (as defined below). By accessing, downloading, using or clicking on “I agree” to accept any Binance Services (as defined below) provided by Binance (as defined below), you agree that you have read, understood and accepted all of the terms and conditions stipulated in these Terms of Use (hereinafter referred to as “these Terms”) as well as our Privacy Policy at [www.binance.com/en/privacy](https://www.binance.com/en/privacy). In addition, when using some features of the Services, you may be subject to specific additional terms and conditions applicable to those features.
 
@@ -186,7 +186,7 @@ Bifinity UAB is registered in accordance with the applicable laws of the Republi
 
 ### 4\. Futures Trading
 
-Unless otherwise specified by Binance, to conduct Futures Trading, you must conclude with Binance a separate Binance Futures Service Agreement ([en/support/faq/360033180732](https://www.binance.com/en/support/faq/360033180732)) and open a special Collateral Account, following the completion of registration and identity verification for your Binance Account. You acknowledge and agree that:
+Unless otherwise specified by Binance, to conduct Futures Trading, you must conclude with Binance a separate Binance Futures Service Agreement ([HERE](https://public.bnbstatic.com/static/files/binance-futures-services-agreement-en.pdf)) and open a special Collateral Account, following the completion of registration and identity verification for your Binance Account. You acknowledge and agree that:
 
 a. You fully understand the high risks of Futures Trading, including but not limited to the risk of major fluctuations of Digital Assets in Futures Trading, and the risk of exacerbated adverse outcome when leverage is used;
 
