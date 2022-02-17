@@ -18,6 +18,8 @@ We may also automatically collect certain personal device information. This may 
 
 In some cases, and in all cases required by law, you can update the information you give us. Just send us an email or update your online profile. Please revisit the specific place in the app where you first gave us your information.
 
+Providing personal information for the purposes of seeking health insurance coverage/enrollment is a voluntary submission of personal information under the applicable law. If you choose not to provide your personal information to us, we may not be able to provide you with requested products, services or information.
+
 We may use your personal information to:
 
 *   Confirm it’s you so we can be sure our interactions with you are secure and confidential
