@@ -6,6 +6,8 @@ _Facebook Ireland Limited has changed its name to Meta Platforms Ireland Limited
 
 **Terms of Service**
 
+For messaging, voice and video calling services included in Meta Products, please click [here](https://www.facebook.com/legal/terms/eecc/contract_summary) for a contract summary and [here](https://www.facebook.com/legal/terms/eecc/flyout) for other information required by the European Electronic Communications Code.
+
 Meta builds technologies and services that enable people to connect with each other, build communities and grow businesses. These Terms govern your use of Facebook, Messenger and the other products, features, apps, services, technologies and software that we offer (the [Meta Products](https://www.facebook.com/help/1561485474074139?ref=tos) or [Products](https://www.facebook.com/help/1561485474074139?ref=tos)), except where we expressly state that separate terms (and not these) apply. These Products are provided to you by Meta Platforms Ireland Limited.
 
 We don't charge you to use Facebook or the other products and services covered by these Terms. Instead, businesses and organisations pay us to show you ads for their products and services. By using our Products, you agree that we can show you ads that we think will be relevant to you and your interests. We use your personal data to help determine which ads to show you.
@@ -133,7 +135,7 @@ We provide these services to you and others to help advance our mission. In exch
       
     
 *   Limits on using our intellectual property  
-    If you use content covered by intellectual property rights that we have and make available in our Products (for example, images, designs, videos or sounds we provide that you add to content you create or share on Facebook), we retain all rights to that content (but not yours). You can only use our copyrights or [trademarks (or any similar marks)](https://l.facebook.com/l.php?u=https%3A%2F%2Fen.facebookbrand.com%2Ftrademarks%2F&h=AT2AI28i5aj68ol2n-ApI8vm9o2Y7DKgIa1pXNA8_n65mc_pCHtR2JKLCWYClNJu2t-FDWJ_K78QiJzK9gxdtOMp5yGT9uzEltL0S6gQ0itg-zXCoyDC9A15vsGQYp_0IqT5jm0yR6hZk7Jp2c-MuA) as expressly permitted by our [Brand Usage Guidelines](https://l.facebook.com/l.php?u=https%3A%2F%2Fen.facebookbrand.com%2Fguidelines%2Fbrand&h=AT2AI28i5aj68ol2n-ApI8vm9o2Y7DKgIa1pXNA8_n65mc_pCHtR2JKLCWYClNJu2t-FDWJ_K78QiJzK9gxdtOMp5yGT9uzEltL0S6gQ0itg-zXCoyDC9A15vsGQYp_0IqT5jm0yR6hZk7Jp2c-MuA) or with our prior written permission. You must obtain our written permission (or permission under an open-source licence) to modify, create derivative works of, decompile or otherwise attempt to extract source code from us.
+    If you use content covered by intellectual property rights that we have and make available in our Products (for example, images, designs, videos or sounds we provide that you add to content you create or share on Facebook), we retain all rights to that content (but not yours). You can only use our copyrights or [trademarks (or any similar marks)](https://l.facebook.com/l.php?u=https%3A%2F%2Fen.facebookbrand.com%2Ftrademarks%2F&h=AT2s7xUxK8xpA3fqfLVaONl2sVERimDJ5f6dJPyueR38lBLnbsQqJKoPvf2RF4ztnNxvE-HH98IHw1Y5VYT7UqEKvXOjqcbq-ocimbNfsqOG-_yJgmiRUhW2h8uTUjuqLJb9lcbonBs9lO8e4N_fO_LyglU) as expressly permitted by our [Brand Usage Guidelines](https://l.facebook.com/l.php?u=https%3A%2F%2Fen.facebookbrand.com%2Fguidelines%2Fbrand&h=AT2s7xUxK8xpA3fqfLVaONl2sVERimDJ5f6dJPyueR38lBLnbsQqJKoPvf2RF4ztnNxvE-HH98IHw1Y5VYT7UqEKvXOjqcbq-ocimbNfsqOG-_yJgmiRUhW2h8uTUjuqLJb9lcbonBs9lO8e4N_fO_LyglU) or with our prior written permission. You must obtain our written permission (or permission under an open-source licence) to modify, create derivative works of, decompile or otherwise attempt to extract source code from us.
 
   
 
@@ -219,7 +221,7 @@ We provide these services to you and others to help advance our mission. In exch
     
 *   [Commerce Policies](https://www.facebook.com/policies/commerce): These guidelines outline the Policies that apply when you offer products and services for sale on Facebook.
     
-*   [Meta brand resources](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=AT2AI28i5aj68ol2n-ApI8vm9o2Y7DKgIa1pXNA8_n65mc_pCHtR2JKLCWYClNJu2t-FDWJ_K78QiJzK9gxdtOMp5yGT9uzEltL0S6gQ0itg-zXCoyDC9A15vsGQYp_0IqT5jm0yR6hZk7Jp2c-MuA): These guidelines outline the policies that apply to use of Meta trademarks, logos and screenshots.
+*   [Meta brand resources](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=AT2s7xUxK8xpA3fqfLVaONl2sVERimDJ5f6dJPyueR38lBLnbsQqJKoPvf2RF4ztnNxvE-HH98IHw1Y5VYT7UqEKvXOjqcbq-ocimbNfsqOG-_yJgmiRUhW2h8uTUjuqLJb9lcbonBs9lO8e4N_fO_LyglU): These guidelines outline the policies that apply to use of Meta trademarks, logos and screenshots.
     
 *   [Music guidelines](https://www.facebook.com/legal/music_guidelines): These guidelines outline the policies that apply if you post or share content containing music on Meta Products.
     
