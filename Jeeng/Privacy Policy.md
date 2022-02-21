@@ -97,9 +97,7 @@ We keep Personal Data in servers which will be owned or controlled by Jeeng in o
 Personal Data may be transferred to, and stored and used at, a destination outside the European Economic Area (EEA) that may not be subject to data protection laws deemed adequate by the EU. Where your Data is transferred outside of the EEA, we will take all steps reasonably necessary to ensure that your Data is subject to appropriate safeguards, and that it is treated securely and in accordance with this privacy policy and applicable law. Jeeng transfers data from its various locations and jurisdictions to other jurisdictions as follows:
 
 *   to Israel. PowerInbox Ltd. is based in Israel. Israel is considered by the European Commission to offer an adequate level of protection for the personal information of EU Member State residents; we may transfer data to other countries with an adequacy ruling too; and
-*   to the United States of America and additional non-EU locations. Transfer to the US and elsewhere is done subject to Standard Contractual Clauses approved by the EU Commission, or some other mechanism valid under GDPR Chapter V; and
-*   within / to the EU.
-*   In addition to the above, Jeeng has certified to the EU-US Privacy Shield and the Swiss-US Privacy Shield.
+*   to the United States of America and additional non-EU locations. Transfer to the US and elsewhere is done subject to Standard Contractual Clauses approved by the EU Commission, or some other mechanism valid under GDPR Chapter V; and within / to the EU.
 
 We may transfer your personal data outside of the EEA, in order to:
 
@@ -153,24 +151,6 @@ Data subjects with respect to whose data GDPR applies, have rights under GDPR an
 If, for any reason, a data subject wishes to exercise these rights and modify, delete or retrieve their Personal Data, they may be able to do so by contacting Jeeng (dpo@powerinbox.com). Note that Jeeng has to undertake a process to identify a data subject exercising their rights. Jeeng may keep details of such rights exercised for its own compliance and audit requirements. Please note that Personal Data may be either deleted or retained in an aggregated manner without being linked to any identifiers or Personal Data, depending on technical commercial capability. Such information may continue to be used by Jeeng.
 
 Data subjects in the EU have the right to lodge a complaint, with a data protection supervisory authority in the place of their habitual residence. A list of Supervisory Authorities is available here:  [https://edpb.europa.eu/about-edpb/board/members\_en](https://edpb.europa.eu/about-edpb/board/members_en)
-
-### 11\. Your Rights Under Privacy Shield: For EU and UK Individuals
-
-Jeeng complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries transferred to the United States pursuant to Privacy Shield. Jeeng has certified that it adheres to the Privacy Shield Principles with respect to such data. If there is any conflict between the policies in this privacy policy and data subject rights under the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit https://www.privacyshield.gov/  
-
-With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Jeeng is subject to the regulatory and enforcement powers of the U.S. Federal Trade Commission.
-
-Pursuant to the Privacy Shield Frameworks, EU individuals have the right to obtain our confirmation of whether we maintain personal information relating to you in the United States. Upon request, we will provide you with access to the personal information that we hold about you. You may also correct, amend, or delete the personal information we hold about you. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data transferred to the United States under Privacy Shield, should direct their query to dpo@powerinbox.com. If requested to remove data, we will respond within a reasonable timeframe.
-
-We will provide an individual opt-out choice, or opt-in for sensitive data, before we share your data with third parties other than our agents, or before we use it for a purpose other than which it was originally collected or subsequently authorized. To request to limit the use and disclosure of your personal information, please submit a written request to dpo@powerinbox.com.
-
-In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
-
-Jeeng’s accountability for personal data that it receives in the United States under the Privacy Shield and subsequently transfers to a third party is described in the Privacy Shield Principles. In particular, Jeeng remains responsible and liable under the Privacy Shield Principles if third-party agents that it engages to process personal data on its behalf do so in a manner inconsistent with the Principles, unless Jeeng proves that it is not responsible for the event giving rise to the damage.
-
-In compliance with the Privacy Shield Principles, Jeeng commits to resolve complaints about your privacy and our collection or use of your personal information transferred to the United States pursuant to Privacy Shield. European Union individuals with Privacy Shield inquiries or complaints should first contact Jeeng by email at dpo@powerinbox.com
-
-Jeeng has further committed to refer unresolved privacy complaints under the Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU Privacy Shield. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [http://www.bbb.org/EU-privacy-shield/for-eu-consumers](http://www.bbb.org/EU-privacy-shield/for-eu-consumers) for more information and to file a complaint. This service is provided free of charge to you. Under certain conditions, individuals may have the right to invoke binding arbitration.
 
 ### 12\. YOUR CALIFORNIA PRIVACY RIGHTS
 
