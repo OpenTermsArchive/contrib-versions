@@ -410,7 +410,7 @@ Latin alphabet
 
 |     | **Desktop** | **Mobile** | **Tablet** |
 | --- | --- | --- | --- |
-| **Ad copy** | Between Arial 12 pt and 25 pt or equivalent | Minimum 16 pt Arial or equivalent (@2X resolution) | Between 32 and 50 pt Arial or equivalent (@2X resolution) |
+| **Ad copy** | Between Arial 12 pt and 25 pt or equivalent | 640 × 100: Minimum 16 pt Arial or equivalent (@2X resolution)  <br>  <br>600 × 500: Between 32 and 50pt Arial regular or equivalent (@2x resolution)  <br>  <br>828x250: Minimum 26pt Arial regular or equivalent (@2x resolution) | 1940x500: Between 36 and 80pt Arial regular or equivalent (@2x resolution) |
 
 Japanese
 
@@ -880,7 +880,7 @@ Amazon prohibits ads for the following products and services:
 *   Cryptocurrencies, cryptocurrency exchanges, initial coin offerings (ICO) and binary options.
 *   Get-rich-quick and pyramid schemes.
 
-Short-term high-interest loans (including, but not limited to, “payday” loans), with a repayment period under 12 months and an APR of more than 50%.
+Short-term high-interest loans (including, but not limited to, “pay day” loans), with a repayment period under 12 months and an APR of more than 50%.
 
 Locale-specific requirements
 
@@ -1452,7 +1452,7 @@ Ads should not make any reference to the rate or amount of weight loss that migh
 *   Advertisers should be able to show that their diet plans are nutritionally well balanced. These will be assessed in relation to the subjects who would be using them.
 *   Ads should not offer treatment specifically for conditions that require medical treatment, such as obesity, anorexia and bulimia.
 *   Advertisers should not make general claims that specific amounts of weight can be lost within a stated period.
-*   Ads for intensive exercise programs should encourage users to check with a doctor before starting.
+*   Ads for intensive exercise programmes should encourage users to check with a doctor before starting.
 *   Ads for adult weight-reduction regimes or establishments should neither be directed at, nor contain anything that will appeal particularly to, children.
 *   Health claims in marketing communications for food products that refer to a rate or amount of weight loss are not permitted.
 
@@ -1460,11 +1460,11 @@ Ads should not make any reference to the rate or amount of weight loss that migh
 
 *   Ads must recommend that consumers seek professional advice on diet, exercise and lifestyle changes.
 *   Individuals used in weight loss products and services ads must not be considered obese, as classified by their BMI.
-*   Ads for a diet plan with less than 3500kj (800 calories) per day on average over the course of one week are prohibited.
+*   Ads for a diet plan with less than 3,500kj (800 calories) per day on average over the course of one week are prohibited.
 
 ### 7.15 Security products
 
-Ads for security products such as Internet Security or Credit Card Security must link-in to Amazon. The ad copy must not contain scare tactics such as the mention of viruses, identity theft and malware.  
+Ads for security products such as Internet Security or Credit Card Security must link in to Amazon. The ad copy must not contain scare tactics such as the mention of viruses, identity theft and malware.  
   
 Please note that this policy does not apply to security claims in ads that are not for security products. For example, ads for banks and credit card companies that refer to their security protections can link to destinations off Amazon.
 
@@ -1510,7 +1510,7 @@ These guidelines provide greater detail about how we enforce our ad policies acr
 
 #### 8.1.1 Cultural and social norms
 
-In Bahrain, the KSA, Kuwait, Morocco, and the UAE ads must not contain content or themes that offend the values of society, cultural heritage (especially Arab heritage and civilization) or the identity of the State.
+In Bahrain, the KSA, Kuwait, Morocco and the UAE, ads must not contain content or themes that offend the values of society, cultural heritage (especially Arab heritage and civilisation) or the identity of the State.
 
 *   Depict intimate contact, such as people kissing, people in sexually provocative positions, or simulating sexual acts;
 *   Display homosexuality or non-traditional family relations (for example, a family with two mothers or a rainbow-coloured flag);
@@ -1581,8 +1581,8 @@ The following product categories are prohibited in Bahrain, the KSA, Kuwait, Mor
 *   **Bahrain:** ads for infant and follow-on formula are prohibited.
 *   **KSA:** ads for infant formula and follow-on formula aged 0-36 months are prohibited. Ads for follow-on formula for children aged 36 months + are permitted.
 *   **Kuwait:** ads for infant and follow-on formula are prohibited.
-*   **Morocco:** ads for infant formula are prohibited. Ads for follow-on formula for infants aged 6 + months are permitted.
-*   **UAE:** ads for infant formula are prohibited. Ads for follow-on formula for infants aged 12 months + are permitted.
+*   **Morocco:** ads for infant formula are prohibited. Ads for follow-on formula for infants aged 6+ months are permitted.
+*   **UAE:** ads for infant formula are prohibited. Ads for follow-on formula for infants aged 12+ months are permitted.
 
 Locale-specific requirements
 
@@ -1596,7 +1596,7 @@ Locale-specific requirements
 ##### The KSA
 
 *   Ads for dog food are prohibited.
-*   Ads for infant and follow-on formula aged 0-36 months are prohibited. Ads for follow-on formula for children aged 36 months + are permitted.
+*   Ads for infant and follow-on formula aged 0-36 months are prohibited. Ads for follow-on formula for children aged 36+ months are permitted.
 *   Ads for financial products and services, credit services and insurance are permitted.
 
 ##### Kuwait
@@ -1616,7 +1616,7 @@ Locale-specific requirements
 ##### The UAE
 
 *   Ads for real estate are prohibited.
-*   Ads for infant formula are prohibited. Ads for follow-on formula for infants aged 12 months + are permitted.
+*   Ads for infant formula are prohibited. Ads for follow-on formula for infants aged 12+ months are permitted.
 *   Ads for financial products and services, credit services and insurance are permitted.
 
 *   Note: ads for financial securities and commodities are prohibited. For example, ads for stocks and shares.
