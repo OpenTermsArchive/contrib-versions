@@ -1,5 +1,3 @@
-Your Privacy is important. As of today (1 September 2021), we've updated the language in our Privacy Policy to improve readability so it's easier to understand.
-
 [Spotify Privacy Policy](#spotify-privacy-policy)
 =================================================
 
