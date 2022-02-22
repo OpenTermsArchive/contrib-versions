@@ -328,6 +328,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             Cette base de données: [https://opendata.lillemetropole.fr/explore/dataset/vlille-realtime/](https://opendata.lillemetropole.fr/explore/dataset/vlille-realtime/) est disponible sous [https://www.etalab.gouv.fr/wp-content/uploads/2014/05/Licence\_Ouverte.pdf.](https://www.etalab.gouv.fr/wp-content/uploads/2014/05/Licence_Ouverte.pdf)
             
         *   Métropole Aix-Marseille-Provence : [source](https://transport.data.gouv.fr/datasets/reseaux-de-transports-en-commun-de-la-metropole-daix-marseille-provence-et-des-bouches-du-rhone/)
+        *   Metropole Nice Cote d'Azure ([https://www.etalab.gouv.fr/licence-ouverte-open-licence](https://www.etalab.gouv.fr/licence-ouverte-open-licence))
     10.  **Germany**
         *   Bundesamt für Kartographie und Geodäsie - © Vermessungsverwaltungen der Bundesländer und Bundesamt für Kartographie und Geodäsie
             
@@ -366,6 +367,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         *   Hannover.de ([CC-BY-4.0 - Geoinformation - LH Hannover](https://creativecommons.org/licenses/by/4.0/deed.de))
             
         *   Stadt Mülheim an der Ruhr ([https://geo.muelheim-ruhr.de/open-data/nutzungsbedingungen/14043](https://geo.muelheim-ruhr.de/open-data/nutzungsbedingungen/14043))
+            
+        *   VGN GmbH ([https://www.vgn.de/web-entwickler/open-data/](https://www.vgn.de/web-entwickler/open-data/))
             
     11.  **Great Britain**
         *   This Service contains Ordnance Survey data © Crown copyright and database right 2011, Royal Mail data © Royal Mail copyright and database right 2011, and National Statistics data © Crown copyright and database right 2011 ([https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf](https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf)). All rights reserved. © South West Coast Path Team. Contains information of Network Rail Infrastructure Limited licensed under the following [licence](https://www.networkrail.co.uk/terms-and-conditions/). Contains public sector information licensed under the [Open Government Licence v2.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/). Contains public sector information licensed under the Open Government Licence v3.0.
@@ -454,6 +457,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   Galway City Council ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
             
+        *   Smart Dublin ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
+            
     18.  **Isle of Man**
         
         Isle of Man Government
@@ -494,7 +499,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   Regione Emilia-Romagna Assessorato Turismo e Commercio ([https://creativecommons.org/licenses/by/4.0/deed.it](https://creativecommons.org/licenses/by/4.0/deed.it))
             
-        *   Comune di Milano ([http://opendefinition.org/licenses/cc-by/](https://opendefinition.org/licenses/cc-by/), [https://creativecommons.org/licenses/by/2.5/it/legalcode](https://creativecommons.org/licenses/by/2.5/it/legalcode))
+        *   Comune di Milano ([https://creativecommons.org/licenses/by/4.0/legalcode](https://creativecommons.org/licenses/by/4.0/legalcode), [https://creativecommons.org/licenses/by/2.5/it/legalcode](https://creativecommons.org/licenses/by/2.5/it/legalcode))
             
         *   Unione Dei Comuni Valle Del Savio ([https://creativecommons.org/licenses/by/3.0/](https://creativecommons.org/licenses/by/3.0/))
             
@@ -731,6 +736,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   Ayuntamiento de Santa Cruz de Tenerife ([https://creativecommons.org/licenses/by/4.0/deed.es\_ES](https://creativecommons.org/licenses/by/4.0/deed.es_ES))
             
+        *   SITNA – Gobierno de Navarra ([https://creativecommons.org/licenses/by/4.0/deed.es\_ES](https://creativecommons.org/licenses/by/4.0/deed.es_ES))
+            
+        *   Gerencia de Urbanismo y Medio Ambiente. Ayuntamiento de Sevilla ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
+            
     37.  **Sweden**
         *   © 2009 Cartesia GIS AB
             
@@ -779,6 +788,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         *   MOTC 2019-present [MOTC Transport API V2](https://ptx.transportdata.tw/MOTC?t=Bike&v=2#!/Bike/CyclingApi_Shape) and future versions. The Open Data is made available to the public under the (Taiwan) Open Government Data License, and users can make use of it when satisfying the conditions and complying with the obligations set out in its terms. Open Government Data License can be found at [https://data.gov.tw/license](https://data.gov.tw/license)
             
         *   National Development Council, Open Government Data Taiwan, [data.gov.tw](https://data.gov.tw/) ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
+            
+        *   The Transport Research Institute of the Ministry of Transport ([https://data.gov.tw/license](https://data.gov.tw/license))
             
     40.  **Timor-Leste**
         
@@ -1152,6 +1163,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         176.  University of California, Berkeley. Museum of Vertebrate Zoology ([https://geo.nyu.edu/catalog/stanford-jc183kb8891/metadata](https://geo.nyu.edu/catalog/stanford-jc183kb8891/metadata))
             
+        177.  Minnesota Geospatial Commons ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
+            
     45.  **United Arab Emirates / Abu Dhabi**
         
         Abu Dhabi Government ([https://addata.gov.ae/addata\_open\_license](https://addata.gov.ae/addata_open_license))
@@ -1203,9 +1216,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         *   Landsat / Copernicus
             
     48.  **Chile**
-        
-        Biblioteca del Congreso Nacional de Chile ([https://creativecommons.org/licenses/by/3.0/cl/](https://creativecommons.org/licenses/by/3.0/cl/))
-        
+        *   Biblioteca del Congreso Nacional de Chile ([https://creativecommons.org/licenses/by/3.0/cl/](https://creativecommons.org/licenses/by/3.0/cl/))
+            
+        *   IDE del Gobierno Regional de Coquimbo
+            
     49.  **Zambia**
         
         OCHA Regional Office for Southern and Eastern Africa (ROSEA) ([https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses))
@@ -1221,6 +1235,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
     52.  **Papua New Guinea**
         
         WFP - World Food Programme ([https://creativecommons.org/licenses/by/4.0/legalcode](https://creativecommons.org/licenses/by/4.0/legalcode))
+        
+    53.  **Yemen**
+        
+        OCHA Yemen ([https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode))
         
 4.  **Business Listings Data.**
     
