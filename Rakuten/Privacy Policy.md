@@ -1,7 +1,7 @@
 Politique Vie Privée
 ====================
 
-**_Version mise à jour le 16 août 2021_**
+**_Version mise à jour le 22 décembre 2021_**
 
 La protection de vos données constitue un enjeu majeur dans la confiance que vous nous accordez. Elle est, à ce titre, l’une de nos préoccupations les plus importantes.
 
@@ -158,9 +158,9 @@ Certaines sociétés du Groupe Rakuten, avec qui nous pouvons partager vos donn�
 
 Nous prenons toutes les précautions utiles pour préserver la sécurité de vos données.
 
-Nous conservons vos données aussi longtemps que vous êtes actifs sur notre Plateforme. En cas d’inactivité prolongée pendant 3 ans, nous archivons votre compte et nous conservons les données qui y sont rattachées pour une période totale de 10 ans afin que nous puissions respecter nos obligations légales, notamment fiscales.
+Nous conservons vos données aussi longtemps que vous êtes actif sur notre Plateforme. En cas d’inactivité prolongée pendant 3 ans ou lorsque vous demandez la fermeture de votre compte, nous archivons celui-ci et nous conservons les données qui y sont rattachées pendant 10 ans afin que nous puissions respecter nos obligations légales, notamment fiscales.
 
-Lors de l’archivage, l’accès à vos données est restreint à certains de nos collaborateurs seulement. Vous pouvez toutefois continuer d’accéder à votre compte tant que celui-ci n’a pas été clôturé ou supprimé.
+Lors de l’archivage de votre compte, l’accès à vos données est restreint à certains de nos collaborateurs seulement.
 
 À l’issue de cette période de 10 ans, nous anonymisons puis supprimons vos données. Votre compte et vos données deviennent alors inaccessibles.
 
