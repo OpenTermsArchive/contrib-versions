@@ -439,6 +439,7 @@ Google must comply with sanctions and export controls maintained by the United S
 
 *   Crimea
 *   Cuba
+*   So-called Donetsk People's Republic (DNR) and Luhansk People's Republic (LNR) 
 *   Iran
 *   North Korea
 *   Syria
