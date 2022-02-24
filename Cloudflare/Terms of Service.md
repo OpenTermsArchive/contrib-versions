@@ -41,7 +41,7 @@ Unless otherwise expressly permitted in writing by Cloudflare, you will not and 
 
 (g) process or collect personal or business credit card information on any web property that is receiving Free Services (as defined below); or
 
-(h) use the Services to store or transmit any “protected health information” as that term is defined in 45 C.F.R. 160.103 without Cloudflare��s written consent.
+(h) use the Services to store or transmit any “protected health information” as that term is defined in 45 C.F.R. 160.103 without Cloudflare’s written consent.
 
 You are permitted to perform benchmark tests of our Services. If you disclose results of any benchmark tests of our Services performed by you or a third party under your direction, you (i) will include in any disclosure or otherwise make available all information necessary to replicate such benchmark tests, and (ii) agree that we may perform and disclose the results of benchmark tests of your services, irrespective of any restrictions on benchmarks in the terms governing your services.
 
