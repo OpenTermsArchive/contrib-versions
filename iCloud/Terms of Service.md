@@ -1,7 +1,7 @@
 English [Choose your country/region](https://www.apple.com/legal/internet-services/icloud/ww/)
 
 Welcome to iCloud
-=================
+-----------------
 
 THIS LEGAL AGREEMENT BETWEEN YOU AND APPLE GOVERNS YOUR USE OF THE iCLOUD PRODUCT, SOFTWARE, SERVICES, AND WEBSITES (COLLECTIVELY REFERRED TO AS THE “SERVICE”). IT IS IMPORTANT THAT YOU READ AND UNDERSTAND THE FOLLOWING TERMS. BY CLICKING “AGREE,” YOU ARE AGREEING THAT THESE TERMS WILL APPLY IF YOU CHOOSE TO ACCESS OR USE THE SERVICE.
 
@@ -269,7 +269,7 @@ If you are located in India, pursuant to “The Information Technology (Guidelin
 
 For matters relevant under "Intermediary Guidelines”:
 
-Priyesh Poovanna
+Nikhil Pai
 
 [Grievanceofficer\_in\_icloud@apple.com](mailto:Grievanceofficer_in_icloud@apple.com)
 
