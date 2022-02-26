@@ -14,7 +14,7 @@ If you are entering into this Agreement on behalf of a company, organization, or
 1\. Overview
 ------------
 
-This Agreement governs the use of Cloudflare’s cloud-based solutions that are provided as part of a subscription or require a Cloudflare account, along with any software made available by Cloudflare in connection with such services, including software development kits and Cloudflare’s application programming interfaces (“APIs”) made available in connection with such cloud-based solutions (collectively, the��“Services”).
+This Agreement governs the use of Cloudflare’s cloud-based solutions that are provided as part of a subscription or require a Cloudflare account, along with any software made available by Cloudflare in connection with such services, including software development kits and Cloudflare’s application programming interfaces (“APIs”) made available in connection with such cloud-based solutions (collectively, the “Services”).
 
 2\. Services
 ------------
