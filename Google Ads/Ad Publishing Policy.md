@@ -6,6 +6,10 @@ Google Publisher Policies
 
 [](https://support.google.com/adsense/answer/1282103?hl=en&ref_topic=1250104)[Next: Google Publisher Restrictions](https://support.google.com/adsense/answer/10437795?hl=en&ref_topic=1250104)
 
+In light of the crisis in Ukraine, we are pausing Google’s monetization of Russian Federation state-funded media. 
+
+We will continue to actively monitor the situation and make adjustments as necessary.
+
 We are in the process of migrating and consolidating all of the Google Publisher Policies and Google Publisher Restrictions to the new [Publisher Policies Help Center](https://support.google.com/publisherpolicies). For now, you can still view all the policies in the [AdMob](https://support.google.com/admob/), [AdSense](https://support.google.com/adsense/), and [Ad Manager](https://support.google.com/admanager/) Help Centers, as well as the new Help Center. 
 
 When you monetize your content with Google ad code you are required to adhere to the following policies. Failure to comply with these policies may result in Google blocking ads from appearing against your content, or suspending or terminating your account.
