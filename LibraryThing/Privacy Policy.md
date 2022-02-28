@@ -27,7 +27,7 @@ By default, most new members who provide their email address are subscribed to o
 
 By default, members who provide their email address receive profile comments by email. This can be disabled in the [Privacy Center](https://www.librarything.com/settings/privacy). LibraryThing reserves the right to send profile-comment emails for GDPR-exempt system notifications, and customer support.
 
-See LibraryThing Early Reviewers and Member Giveaways, below, for terms surrounding those optional programs.
+See LibraryThing Early Reviewers, below, for terms surrounding this optional program.
 
 ### Member Privacy Center
 
