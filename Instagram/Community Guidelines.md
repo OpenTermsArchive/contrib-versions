@@ -1,5 +1,22 @@
-Facebook
-========
+[![](https://static.xx.fbcdn.net/rsrc.php/v3/yt/r/Qsnwn9_aldv.png)
+
+Help Centre
+
+
+
+](https://help.instagram.com/?helpref=hc_global_nav)
+
+[
+
+![](https://static.xx.fbcdn.net/rsrc.php/v3/y7/r/s59_eF1MYib.png)
+
+](https://help.instagram.com/search/?helpref=hc_global_nav)
+
+[
+
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yF/r/jSW619-gHrA.png)
+
+](https://help.instagram.com/1417489251945243/?helpref=hc_global_nav)
 
 Community Guidelines
 
@@ -218,3 +235,49 @@ How do I report a live broadcast on Instagram?
 
 
 ](https://help.instagram.com/163366675115842/How+do+I+report+a+live+broadcast+on+Instagram%3F/?source_cms_id=477434105621119&helpref=related_articles)
+
+© 2022 Meta
+
+Af-SoomaaliAfrikaansAzərbaycan diliBahasa IndonesiaBahasa MelayuBasa JawaBisayaBosanskiBrezhonegCatalàCorsuCymraegDanskDeutschEestiEnglish (UK)English (US)EspañolEspañol (España)EsperantoEuskaraFilipinoFrançais (Canada)Français (France)FryskFulaFøroysktGaeilgeGalegoGuaraniHausaHrvatskiIkinyarwandaItalianoIñupiatunKiswahiliKreyòl AyisyenKurdî (Kurmancî)LatviešuLietuviųMagyarMalagasyMaltiNederlandsNorsk (bokmål)Norsk (nynorsk)O'zbekPolskiPortuguês (Brasil)Português (Portugal)RomânăSarduShonaShqipSlovenčinaSlovenščinaSuomiSvenskaTiếng ViệtTürkçeVlaamsZazaÍslenskaČeštinaślōnskŏ gŏdkaΕλληνικάБеларускаяБългарскиМакедонскиМонголРусскийСрпскиТатарчаТоҷикӣУкраїнськакыргызчаҚазақшаՀայերենעבריתاردوالعربيةفارسیپښتوکوردیی ناوەندیܣܘܪܝܝܐनेपालीमराठीहिन्दीঅসমীয়াবাংলাਪੰਜਾਬੀગુજરાતીଓଡ଼ିଆதமிழ்తెలుగుಕನ್ನಡമലയാളംසිංහලภาษาไทยພາສາລາວမြန်မာဘာသာქართულიአማርኛភាសាខ្មែរⵜⴰⵎⴰⵣⵉⵖⵜ中文(台灣)中文(简体)中文(香港)日本語日本語(関西)한국어
+
+[
+
+About us
+
+
+
+](https://www.instagram.com/about/us/)
+
+[
+
+API
+
+
+
+](https://www.instagram.com/developer/)
+
+[
+
+Jobs
+
+
+
+](https://about.instagram.com/about-us/careers/)
+
+[
+
+Terms
+
+
+
+](https://www.instagram.com/legal/terms/)
+
+[
+
+Privacy
+
+
+
+](https://help.instagram.com/519522125107875)
+
+![](https://static.xx.fbcdn.net/rsrc.php/v3/y-/r/FG1eOzoMS7V.png)
