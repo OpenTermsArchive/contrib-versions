@@ -136,7 +136,7 @@ LibraryThing collects Personally Identifiable Information (PII) for these purpos
 *   To collect and analyze usage analytics on our user base (see Analytics section below).
 *   To send members service and feature updates (including of planned outages, new features, and version updates), to communicate with members about their accounts, and to provide customer support.
 *   To send members informational and promotional content for use of LibraryThing services, in accordance with their marketing preferences. Members can unsubscribe from our promotional emails using any of the links in the emails, or by updating their [Privacy Center](https://www.librarything.com/settings/privacy) preferences.
-*   To participate in optional LibraryThing services that require mailing or emailing material to the participant, including Early Reviewers, Member Giveaways, and SantaThing.
+*   To participate in optional LibraryThing services that require mailing or emailing material to the participant, including Early Reviewers and SantaThing.
 *   To receive payments for LibraryThing services, including membership upgrades, subscriptions to TinyCat, orders from the LibraryThing Store, etc. We use PayPal for secure credit card transaction processing, and we send billing information to PayPal in order to process orders and credit card payments.
 *   To monitor and enforce compliance with our Terms of Service and applicable law.
 *   To respond to lawful requests by public authorities, including to meet national security or law enforcement requirements.
