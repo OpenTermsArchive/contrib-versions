@@ -1,3 +1,21 @@
+Platform Terms
+--------------
+
+[1\. Introduction](#introduction)  
+[2\. Intellectual Property Rights](#intellectualpropertyrights)  
+[3\. Data Use](#datause)  
+[4\. Privacy Policy](#privacypolicy)  
+[5\. Service Providers and Tech Providers](#serviceprovidersandtechproviders)  
+[6\. Data Security](#datasecurity)  
+[7\. Compliance Review Rights and Suspension and Termination of these Terms](#compliancereviewrightsandsuspensionandterminationoftheseterms)  
+[8\. Notice](#notice)  
+[9\. Indemnification](#indemnification)  
+[10\. International Transfers](#internatinaltransfers)  
+[11\. General](#general)  
+[12\. Glossary](#glossary)
+
+_Last updated February 8, 2022_
+
 The Facebook company is now Meta. We’ve updated our Platform Terms to reflect the new name on February 8, 2022. While our company name has changed, we are continuing to offer the same products, including the Facebook app from Meta. Our Data Policy and Terms of Service remain in effect, and this name change does not affect how we use or share data. [Learn more about Meta](https://about.facebook.com/meta) and our vision for the metaverse.
 
 These Meta Platform Terms and the [Developer Policies](https://developers.facebook.com/devpolicy) originally went into effect on August 31, 2020. They replaced the [legacy Facebook Platform Policy](https://developers.facebook.com/docs/apps/policies/legacy-facebook-platform-policy) and the [legacy Instagram Platform Policy](https://developers.facebook.com/docs/apps/policies/legacy-instagram-platform-policy), as well as the Supplemental Terms for Extended Platform Products and the Technology Provider Amendment to the preceding Supplemental Terms. [Learn more](https://developers.facebook.com/blog/post/2020/07/01/platform-terms-developer-policies/).
@@ -12,7 +30,7 @@ Meta Platform Terms
     a. Our Platform is the set of APIs, SDKs, tools, plugins, code, technology, content, and services that enables others, including app developers and website operators, to develop functionality, retrieve data from Meta and any other [Meta Products](https://www.facebook.com/help/1561485474074139?ref=tos), or provide data to us.
     
 *     
-    b. To use Platform (including to Process any Platform Data), you agree to these Platform Terms (“Terms”), as well as all other applicable terms and policies. This may include the [Meta Terms of Service](https://www.facebook.com/legal/terms), the [Instagram Terms of Use](https://help.instagram.com/581066165581870), the [Meta Commercial Terms](https://www.facebook.com/legal/commercial_terms), the [Business Tools Terms](https://www.facebook.com/legal/terms/businesstools/update), and any [Meta Product](https://www.facebook.com/help/1561485474074139?ref=tos) terms that are applicable.
+    b. To use Platform (including to Process any Platform Data), you agree to these Platform Terms (“Terms”), as well as all other applicable terms and policies. This may include the [Meta Terms of Service](https://www.facebook.com/legal/terms), the [Instagram Terms of Use](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F581066165581870&h=AT2yBb4jukZuQ6mJ3F2lof1zwfqc0hX9d9RUETlv7xDeyAx9ILwCWQfogetalQIeo2boKtCrXS8PditsAZqanfqvFkijB9r5VKBFD7Jz6Nr3PbWWOEb0z2UAXTKl8GW1p3Cy_zhG5f9Di0L9), the [Meta Commercial Terms](https://www.facebook.com/legal/commercial_terms), the [Business Tools Terms](https://www.facebook.com/legal/terms/businesstools/update), and any [Meta Product](https://www.facebook.com/help/1561485474074139?ref=tos) terms that are applicable.
     
 *     
     c. You must also comply with the applicable requirements in our [Developer Policies](https://developers.facebook.com/devpolicy/) and those made available on our [Developer Site](https://developers.facebook.com/), including in our [Documentation](https://developers.facebook.com/docs/) collectively, the “Developer Docs”)
@@ -304,8 +322,7 @@ Meta Platform Terms
         i. You must always have in effect and maintain administrative, physical, and technical safeguards that do the following:
         
         *     
-            
-            1\. Meet or exceed industry standards given the sensitivity of the Platform Data; [ℹ️](https://developers.facebook.com/docs/datasecurity)
+            1\. Meet or exceed industry standards given the sensitivity of the Platform Data; [![](https://scontent-lhr8-1.xx.fbcdn.net/v/t39.2178-6/851547_537948159656190_540847388_n.png?ccb=1-5&_nc_ohc=DJ7KQPcN0TsAX99pWph&_nc_ht=scontent-lhr8-1.xx&oh=00_AT966T_NBa_sRIYimeCNOQNCgTvqgEo-KbvNMwcPBvGGNQ&oe=62220ECA)](https://developers.facebook.com/docs/datasecurity) 
             
         *   2\. Comply with applicable law and regulations, including data security and privacy laws, rules, and regulations; and
             
@@ -562,6 +579,3 @@ Whenever there is an EEA Data Transfer, your use of Meta Ireland Data is subject
     
 *     
     t. “Your Content” has the meaning given in Section 2.b (“Your License to Us”).
-    
-
-_Last updated February 8, 2022_
