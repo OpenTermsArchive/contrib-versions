@@ -37,7 +37,7 @@ These Controller Terms reflect the parties’ agreement on the processing of cer
 
 “**Controller SCCs**” means, as applicable: (a) the SCCs (EU Controller-to-Controller); and/or (b) the SCCs (UK Controller-to-Controller).
 
-“**Controller Services**” means the applicable services listed at [privacy.google.com/businesses/adsservices](https://privacy.google.com/businesses/adsservices/).
+“**Controller Services**” means the applicable services listed at [business.safety.google/adsservices](https://privacy.google.com/businesses/adsservices/).
 
 “**EEA**” means the European Economic Area.
 
@@ -217,7 +217,7 @@ Where Google LLC and/or Google Ireland Limited are not a party to the Agreement 
 10. Changes to these Controller Terms
 -------------------------------------
 
-10.1 **Changes to Controller Services in Scope**. Google may only change the list of potential Controller Services at [privacy.google.com/businesses/adsservices](https://privacy.google.com/businesses/adsservices/):
+10.1 **Changes to Controller Services in Scope**. Google may only change the list of potential Controller Services at [business.safety.google/adsservices](https://privacy.google.com/businesses/adsservices/):
 
 (a) to reflect a change to the name of a service;
 
@@ -240,9 +240,9 @@ Appendix 1: Additional Terms for Non-European Data Protection Legislation
 
 The following Additional Terms for Non-European Data Protection Legislation supplement these Controller Terms:
 
-*   CCPA Service Provider Addendum at [privacy.google.com/businesses/controllerterms/ccpa/](https://privacy.google.com/businesses/controllerterms/ccpa/) (dated 1 January 2020)
+*   CCPA Service Provider Addendum at [business.safety.google/adscontrollerterms/ccpa/](https://privacy.google.com/businesses/adscontrollerterms/ccpa/) (dated 1 January 2020)
     
-*   LGPD Controller Addendum at [privacy.google.com/businesses/controllerterms/lgpd/](https://privacy.google.com/businesses/controllerterms/lgpd/) (dated 16 August 2020)
+*   LGPD Controller Addendum at [business.safety.google/adscontrollerterms/lgpd/](https://privacy.google.com/businesses/adscontrollerterms/lgpd/) (dated 16 August 2020)
     
 
 _Google Ads Controller-Controller Data Protection Terms, Version 3.0_
@@ -252,7 +252,7 @@ _27 September 2021_
 **Previous Versions**
 
 *   [16 August 2020](https://privacy.google.com/adscontrollerterms-20200816/)
-*   [12 August 2020](https://privacy.google.com/businesses/controllerterms-20200812/)
-*   [1 January 2020](https://privacy.google.com/businesses/controllerterms-20200101/)
-*   [31 October 2019](https://privacy.google.com/businesses/controllerterms-20191031/)
-*   [12 October 2017](https://privacy.google.com/businesses/controllerterms-20171012/)
+*   [12 August 2020](https://privacy.google.com/static/assets/pdf/adscontrollerterms-20200812.pdf)
+*   [1 January 2020](https://privacy.google.com/static/assets/pdf/adscontrollerterms-20200101.pdf)
+*   [31 October 2019](https://privacy.google.com/static/assets/pdf/adscontrollerterms-20191031.pdf)
+*   [12 October 2017](https://privacy.google.com/static/assets/pdf/adscontrollerterms-20171012.pdf)
