@@ -67,13 +67,11 @@ In event of dispute, account ownership is determined as follows: If a paid accou
 *   LibraryThing is for _your_ books—books you own, have read or want. It would not be appropriate to fill your LibraryThing catalog with all the books in your local library or Project Gutenberg.
 *   Except by permission or through an authorized API, you may not add to or query your library automatically. See our [APIs](http://www.librarything.com/services/).
 
-### Early Reviewers and Member Giveaways
+### Early Reviewers
 
 LibraryThing Early Reviewers ("LTER") gives LibraryThing members the chance to receive and review advanced reader editions of upcoming books from select publishers.
 
-LibraryThing Member Giveaways ("LTMG") are an informal way for LibraryThing members and authors to give away books. LTMG reviews may be requested, but not required.
-
-The mailing address and email information you provide for either program will only be used to send you books.
+The mailing address and email information you provide for this program will only be used to send you books.
 
 Recipients of books who submit reviews to LibraryThing hereby grant LibraryThing, the book's publisher, and its author perpetual non-exclusive permission to use of the review, together with their first name and city/town of residence, for purposes of entertainment, advertising, promotion, or publicity without additional compensation, except where prohibited by law. LibraryThing, the publisher, and the author reserve the right to edit reviews for clarity or language or to use only excerpts from them. Neither LibraryThing nor the publisher is under any obligation to publish a review.
 
@@ -81,7 +79,7 @@ For more rules and conditions see [your profile](http://www.librarything.com/er/
 
 ### Pay-for-review schemes
 
-LibraryThing encourages members to participate in book give-away programs. (LibraryThing has two: [Early Reviewers](http://www.librarything.com/er/list) and [Member Giveaways](http://www.librarything.com/er/giveaway/list).) We forbid reviews from "pay-for-review" schemes.
+LibraryThing encourages members to participate in our book give-away program ([Early Reviewers](http://www.librarything.com/ner)). We forbid reviews from "pay-for-review" schemes.
 
 *   Reviewers must be free to write what they think. They may not be required or rewarded to write positive reviews, or punished for writing bad ones.
 *   Reviewers must own and control their reviews, granting other parties only a non-exclusive license.
