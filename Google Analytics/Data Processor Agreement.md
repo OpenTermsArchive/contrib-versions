@@ -63,7 +63,7 @@ These Data Processing Terms reflect the parties’ agreement on the terms govern
 
 “**Notification Email Address**” means the email address designated by Customer, via the user interface of the Processor Services or such other means provided by Google, to receive certain notifications from Google relating to these Data Processing Terms.
 
-“**Processor Services**” means the applicable services listed at [privacy.google.com/businesses/adsservices](https://privacy.google.com/businesses/adsservices/).
+“**Processor Services**” means the applicable services listed at [business.safety.google/adsservices](https://privacy.google.com/businesses/adsservices/).
 
 “**SCCs**“ means the Customer SCCs and/or SCCs (EU Processor-to-Processor, Google Exporter), as applicable.
 
@@ -324,7 +324,7 @@ Google will (taking into account the nature of the processing and the informatio
 
 11.1 **Consent to Subprocessor Engagement**. Customer specifically authorises the engagement as Subprocessors of those entities listed as of the Terms Effective Date at the URL specified in Section 11.2 (Information about Subprocessors). In addition, without prejudice to Section 11.4 (Opportunity to Object to Subprocessor Changes) Customer generally authorises the engagement of any other third parties as Subprocessors (“**New Subprocessors**”).
 
-11.2 **Information about Subprocessors**. Information about Subprocessors is available at [privacy.google.com/businesses/subprocessors](https://privacy.google.com/businesses/subprocessors/).
+11.2 **Information about Subprocessors**. Information about Subprocessors is available at [business.safety.google/adssubprocessors](https://privacy.google.com/businesses/adssubprocessors/).
 
 11.3 **Requirements for Subprocessor Engagement**. When engaging any Subprocessor, Google will:
 
@@ -388,7 +388,7 @@ Subject to the amendments in these Data Processing Terms, the Agreement remains 
 
 (a) the SCCs in accordance with Sections 15.2(b) - 15.2(d) (Changes to Data Processing Terms) or to incorporate any new version of the SCCs that may be adopted under the European Data Protection Legislation, in each case in a manner that does not affect the validity of the SCCs under the European Data Protection Legislation; and
 
-(b) the list of potential Processor Services at privacy.google.com/businesses/adsservices: (i) to reflect a change to the name of a service; (ii) to add a new service; or (iii) to remove a service where either: (x) all contracts for the provision of that service are terminated; or (y) Google has Customer’s consent.
+(b) the list of potential Processor Services at business.safety.google/adsservices: (i) to reflect a change to the name of a service; (ii) to add a new service; or (iii) to remove a service where either: (x) all contracts for the provision of that service are terminated; or (y) Google has Customer’s consent.
 
 15.2 **Changes to Data Processing Terms.** Google may change these Data Processing Terms if the change:
 
@@ -419,7 +419,7 @@ Google will process (including, as applicable to the Processor Services and the 
 
 Types of Personal Data
 
-Customer Personal Data may include the types of personal data described at [privacy.google.com/businesses/adsservices](https://privacy.google.com/businesses/adsservices/).
+Customer Personal Data may include the types of personal data described at [business.safety.google/adsservices](https://privacy.google.com/businesses/adsservices/).
 
 Categories of Data Subjects
 
@@ -522,9 +522,9 @@ Appendix 3: Additional Terms for Non-European Data Protection Legislation
 
 The following Additional Terms for Non-European Data Protection Legislation supplement these Data Processing Terms:
 
-*   CCPA Service Provider Addendum at [privacy.google.com/businesses/processorterms/ccpa/](https://privacy.google.com/businesses/processorterms/ccpa/) (dated 1 January 2020)
+*   CCPA Service Provider Addendum at [business.safety.google/adsprocessorterms/ccpa/](https://privacy.google.com/businesses/adsprocessorterms/ccpa/) (dated 1 January 2020)
     
-*   LGPD Processor Addendum at [privacy.google.com/businesses/processorterms/lgpd/](https://privacy.google.com/businesses/processorterms/lgpd/) (dated 16 August 2020)
+*   LGPD Processor Addendum at [business.safety.google/adsprocessorterms/lgpd/](https://privacy.google.com/businesses/adsprocessorterms/lgpd/) (dated 16 August 2020)
     
 
 _Google Ads Data Processing Terms, Version 3.0_
@@ -534,7 +534,7 @@ _27 September 2021_
 **Previous Versions**
 
 *   [16 August 2020](https://privacy.google.com/adsprocessorterms-20200816/)
-*   [12 August 2020](https://privacy.google.com/businesses/processorterms-20200812/)
-*   [1 January 2020](https://privacy.google.com/businesses/processorterms-20200101/)
-*   [31 October 2019](https://privacy.google.com/businesses/processorterms-20191031/)
-*   [12 October 2017](https://privacy.google.com/businesses/processorterms-20171012/)
+*   [12 August 2020](https://privacy.google.com/static/assets/pdf/adsprocessorterms-20200812.pdf)
+*   [1 January 2020](https://privacy.google.com/static/assets/pdf/adsprocessorterms-20200101.pdf)
+*   [31 October 2019](https://privacy.google.com/static/assets/pdf/adsprocessorterms-20191031.pdf)
+*   [12 October 2017](https://privacy.google.com/static/assets/pdf/adsprocessorterms-20171012.pdf)
