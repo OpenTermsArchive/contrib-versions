@@ -180,7 +180,7 @@ Prior to conducting Fiat Trading, you shall separately read and agree to the Use
 
 **a. Fiat Payments**
 
-If you choose to utilise Fiat Trading, you agree that Bifinity UAB (registration number: 305595206) having its registered office at Didžioji g. 18, Vilnius, Lithuania shall work in collaboration with regulated card acquiring partners to offer such services. Bifinity UAB is governed by the laws of the Republic of Lithuania.
+If you choose to utilise Fiat Trading, you agree that Bifinity UAB (registration number: 305595206) having its registered office at Didžioji g. 18, Vilnius, Lithuania shall work in collaboration with regulated card acquiring partners to offer such services. Bifinity UAB is governed by the laws of the Republic of Lithuania. A full list of Bifinity UAB partners can be found [HERE](https://www.binance.com/en/terms-fiat-partner-list)
 
 Bifinity UAB is registered in accordance with the applicable laws of the Republic of Lithuania as virtual currency depository wallet operator and virtual currency exchange operator. For the avoidance of doubt please note that Bifinity UAB is not a licensed financial services provider. Cryptocurrency exchange and depository services provided by Bifinity UAB are not regulated by the Bank of Lithuania.
 
