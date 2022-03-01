@@ -623,6 +623,8 @@ In addition to the requirements above, the table below describes requirements fo
 | Your app targets children | Your app must not include an SDK that is not approved for use in child-directed services. See [Designing apps for children and families](https://support.google.com/googleplay/android-developer/answer/9893335) for full policy language and requirements. |
 | Your app collects or links persistent device identifiers (e.g. IMEI, IMSI, SIM Serial #, etc.) | Persistent device identifiers may not be linked to other personal and sensitive user data or resettable device identifiers except for the purposes of <br><br>*   Telephony linked to a SIM identity (e.g. Wi-Fi calling linked to an operator account) and<br>*   Enterprise device management apps using device owner mode.<br><br>These uses must be prominently disclosed to users as specified in the [user data policy](https://support.google.com/googleplay/android-developer/answer/10144311).<br><br>Please [consult this resource](https://developer.android.com/training/articles/user-data-ids) for alternative unique identifiers.<br><br>Please read the [ads policy](https://support.google.com/googleplay/android-developer/answer/9857753) for additional guidelines for Android advertising ID. |
 
+Effective 20 July 2022
+
 #### Data safety section
 
 All developers must complete a clear and accurate Data safety section for every app detailing collection, use and sharing of user data. The developer is responsible for the accuracy of the label and keeping this information up to date. Where relevant, the section must be consistent with the disclosures made in the app’s privacy policy. 
