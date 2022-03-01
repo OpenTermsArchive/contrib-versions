@@ -111,15 +111,15 @@ Law enforcement officials may use the [Law Enforcement Online Request System](ht
 
 Please note:
 
-1.  Law enforcement officials seeking account records from Facebook or Instagram must address their request to Facebook Inc.
+1.  Law enforcement officials seeking account records from Facebook or Instagram must address their request to Facebook Ireland Limited.
     
 2.  A government-issued email address is required to access the Law Enforcement Online Request System.
     
 
 #### By post
 
-United States postal address:  
-1601 Willow Road, Menlo Park CA 94025, United States
+Ireland postal address:  
+Facebook Ireland Ltd | 4 Grand Canal Square | Dublin 2, Ireland
 
 FAO: Facebook Security, Law Enforcement Response Team
 
