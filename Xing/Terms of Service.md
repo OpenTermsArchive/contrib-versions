@@ -173,18 +173,24 @@ XING shall notify users of such changes to its GTC, e.g. via the XING Websites.
 
 **Premium membership**
 
-**6.4** Premium membership fees are due immediately for the full term.
+**6.4** Premium membership fees for the entire duration or respective billing period are due immediately in advance.
+
+**6.5** XING reserves the right to reasonably increases the fee with effect from the start of a new billing period. Prices may only be increased once per calendar year. In such cases, XING shall inform the user at least six (6) weeks prior to expiry of a billing period to which the fee increase applies. A user may object to the fee increase within three (3) weeks of notification via the contact form, letter, fax or e-mail. The user’s submission of an objection is tantamount to cancelling Premium membership, meaning that said membership will expire at the end of the existing minimum usage period or current billing period.
+
+**Please note:** 
+
+The previous term continues to apply to contracts concluded before 1 March 2022:
 
 **6.5** XING reserves the right to reasonably increase the fees charged for Premium membership with effect from the start of a new renewal period, either after the initial term or the respective current renewal period. Prices may only be increased once per calendar year. In such cases, XING shall inform the user at least six (6) weeks prior to expiry of the initial term or respective current renewal period. Should the user not agree to this increase, they may object to the validity of the increase within three (3) weeks of notification via the contact form, letter, fax or e-mail. The user’s submission of an objection is tantamount to cancelling its Premium membership, meaning that said membership will expire at the end of the initial term or respective current renewal period.
 
-**Please note**: Section 6.5 does not apply to existing customers who registered with XING before 17 March 2014, except in the following cases: 
+Section 6.5 does not apply to existing customers who registered with XING before 17 March 2014, except in the following cases:
 
 *   (a) An older version of the GTC containing a corresponding price modification provision (in Section 12.2) in effect at the time of registration was already explicitly agreed to
 *   (b) A price modification provision was already explicitly agreed to before 17 March 2014, e.g. when switching from the old Premium to the New Premium version
 *   (c) A price modification provision was explicitly agreed to after 17 March 2014
-*   (d) These GTC including the price modification provision (Section 6.5) are explicitly agreed to from 17 March 2014 (e.g. when taking out Premium membership).
+*   (d) These GTC including the price modification provision (Section 6.5) are or have been explicitly agreed to (e.g. when taking out Premium membership).
 
-This price modification provision (Section 6.5) shall apply without limitation to new customers as of 17 March 2014.
+This price modification provision (Section 6.5) shall apply without limitation to new customers and new contracts.
 
 **Special provision regarding credit card as a payment method**
 
@@ -201,6 +207,10 @@ This price modification provision (Section 6.5) shall apply without limitation t
 **7.2** XING and the user may terminate free membership at any time without cause. In order to protect the user from unauthorised deletion of their user profile by third parties, XING may perform an identity check upon termination, e.g. by requesting the username and an e-mail address registered on the XING Websites.
 
 **Premium membership**
+
+**7.3** Premium membership shall run for the initial term selected by the user during the upgrade process. After this term, the Premium membership will renew automatically for an unlimited period (with monthly billing periods) unless terminated in due time by the user or XING. The user and XING may each terminate Premium membership without cause at any time via the contact form, letter, fax or e-mail. If Premium membership has been terminated, the user is entitled to retain free membership until this membership is terminated, meaning that the additional and advanced Premium membership features will no longer be available.
+
+**Please note:** The previous term continues to apply to contracts concluded before 1 March 2022:
 
 **7.3** Premium membership shall run for the initial term selected by the user during the upgrade process. After this term, the Premium membership will be renewed by a term of the same length as the initial term, unless terminated in due time by the user or XING. The user and XING may each terminate Premium membership without cause to the end of the initial term selected by the user during registration process, or to the end of any renewal period after said minimum term expires, by serving notice of three (3) weeks via the contact form, letter, fax or e-mail. If Premium membership has been terminated, the user is entitled to retain free membership until this membership is terminated, meaning that the additional and advanced Premium membership features will no longer be available.
 
@@ -258,7 +268,7 @@ This price modification provision (Section 6.5) shall apply without limitation t
 
 **11.2** XING is permitted to transfer rights and duties to third parties, in whole or in part.
 
-**11.3** Unless revoked by the user, the user agrees that XING may transfer the contracts, in whole or in part, with users who registered with a Swiss address, to XING Switzerland GmbH, Gartenstrasse 25, 8002 Zurich, Switzerland, to facilitate billing in the user’s local currency.
+**11.3** Unless revoked by the user, the user agrees that XING may transfer the contracts, in whole or in part, with users who registered with a Swiss address, to NEW WORK XING AG, Switzerland (formerly XING Switzerland GmbH), to facilitate billing in the user’s local currency.
 
 **11.4** Unless otherwise governed by these GTC, XING may send notices to the user by e-mail, fax or letter. XING may also send declarations to the user’s XING inbox which forms an integral part of the user’s XING membership.
 
