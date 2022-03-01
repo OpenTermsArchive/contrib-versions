@@ -30,7 +30,7 @@ Meta Platform Terms
     a. Our Platform is the set of APIs, SDKs, tools, plugins, code, technology, content, and services that enables others, including app developers and website operators, to develop functionality, retrieve data from Meta and any other [Meta Products](https://www.facebook.com/help/1561485474074139?ref=tos), or provide data to us.
     
 *     
-    b. To use Platform (including to Process any Platform Data), you agree to these Platform Terms (“Terms”), as well as all other applicable terms and policies. This may include the [Meta Terms of Service](https://www.facebook.com/legal/terms), the [Instagram Terms of Use](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F581066165581870&h=AT2tD76azY9UPOd70nHdwtkr-9JayFpyewxYprGM8uWTwG_zxe_ZHqJXQ84mlxrp_eFLjOd8s38z4JMVw6w_5WZKGvMNW4VbClm7wvL_B63AjULL056AQdGNJQh2-4iqC1mq5Wr7BIkoH97m), the [Meta Commercial Terms](https://www.facebook.com/legal/commercial_terms), the [Business Tools Terms](https://www.facebook.com/legal/terms/businesstools/update), and any [Meta Product](https://www.facebook.com/help/1561485474074139?ref=tos) terms that are applicable.
+    b. To use Platform (including to Process any Platform Data), you agree to these Platform Terms (“Terms”), as well as all other applicable terms and policies. This may include the [Meta Terms of Service](https://www.facebook.com/legal/terms), the [Instagram Terms of Use](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F581066165581870&h=AT0xLayoZokYDB0f5qcIZ1k1Rrbkpsb3uCcFAgfC1z_BOMfeLb_iW9-iurNK_KUge7G5tAeIEr-qv3cTJXnKkgRzRhxVCorLwcL6KIBVnMR_65wu_u03HvU7hdjd6Gtbx8KhexWo9Za7Azsq), the [Meta Commercial Terms](https://www.facebook.com/legal/commercial_terms), the [Business Tools Terms](https://www.facebook.com/legal/terms/businesstools/update), and any [Meta Product](https://www.facebook.com/help/1561485474074139?ref=tos) terms that are applicable.
     
 *     
     c. You must also comply with the applicable requirements in our [Developer Policies](https://developers.facebook.com/devpolicy/) and those made available on our [Developer Site](https://developers.facebook.com/), including in our [Documentation](https://developers.facebook.com/docs/) collectively, the “Developer Docs”)
@@ -322,7 +322,7 @@ Meta Platform Terms
         i. You must always have in effect and maintain administrative, physical, and technical safeguards that do the following:
         
         *     
-            1\. Meet or exceed industry standards given the sensitivity of the Platform Data; [![](https://scontent-lhr8-1.xx.fbcdn.net/v/t39.2178-6/851547_537948159656190_540847388_n.png?ccb=1-5&_nc_ohc=DJ7KQPcN0TsAX99pWph&_nc_ht=scontent-lhr8-1.xx&oh=00_AT966T_NBa_sRIYimeCNOQNCgTvqgEo-KbvNMwcPBvGGNQ&oe=62220ECA)](https://developers.facebook.com/docs/datasecurity) 
+            1\. Meet or exceed industry standards given the sensitivity of the Platform Data; [![](https://scontent-lhr8-1.xx.fbcdn.net/v/t39.2178-6/851547_537948159656190_540847388_n.png?ccb=1-5&_nc_ohc=DJ7KQPcN0TsAX99pWph&_nc_ht=scontent-lhr8-1.xx&oh=00_AT_0uCv1niGCB7ZEW5j6Yh-G25ah-mWs0CowpHhPXXzoBg&oe=6224090A)](https://developers.facebook.com/docs/datasecurity) 
             
         *   2\. Comply with applicable law and regulations, including data security and privacy laws, rules, and regulations; and
             
