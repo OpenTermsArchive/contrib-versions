@@ -1,6 +1,6 @@
 Binance Terms of Use
 
-Last revised: 16 February 2022
+Last revised: 1 March 2022
 
 These Binance Terms of Use is entered into between you (hereinafter referred to as “you” or “your”) and Binance operators (as defined below). By accessing, downloading, using or clicking on “I agree” to accept any Binance Services (as defined below) provided by Binance (as defined below), you agree that you have read, understood and accepted all of the terms and conditions stipulated in these Terms of Use (hereinafter referred to as “these Terms”) as well as our Privacy Policy at [www.binance.com/en/privacy](https://www.binance.com/en/privacy). In addition, when using some features of the Services, you may be subject to specific additional terms and conditions applicable to those features.
 
@@ -424,4 +424,4 @@ In the event the dispute cannot be resolved satisfactorily, and you wish to asse
 
 **9\. Matters Related to Apple Inc.** If you use any device manufactured by Apple Inc. to participate in any commercial activities or reward programs through Binance Services, such activities and programs are provided by Binance and are not associated with Apple Inc. in any manner.
 
-**10\. Contact Information. ** For more information on Binance, you may refer to the company and license information found on Binance websites. If you have questions regarding these Terms, please feel free to contact Binance for clarification via our Customer Support team at   **10\. Contact Information.** For more information on Binance, you may refer to the company and license information found on Binance websites. If you have questions regarding these Terms, please feel free to contact Binance for clarification via our Customer Support team at   [www.binance.com/en/support/requests/new](https://www.binance.com/en/support/requests/new).
+**10\. Contact Information. ** For more information on Binance, you may refer to the company and license information found on Binance websites. If you have questions regarding these Terms, please feel free to contact Binance for clarification via our Customer Support team at [www.binance.com/en/support/requests/new](https://www.binance.com/en/support/requests/new).
