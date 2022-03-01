@@ -1,3 +1,5 @@
+Legal terms
+
 Airbnb Cookie Policy
 
 
