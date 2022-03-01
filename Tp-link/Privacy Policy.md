@@ -1,7 +1,7 @@
 TP-LINK PRIVACY POLICY
 ----------------------
 
-Last Updated: Oct. 12, 2020
+Last Updated: Feb 28, 2022
 
 TP-Link Corporation Limited and its affiliates (collectively, “TP-Link,” “we” “us,” or “our”), takes your privacy seriously. TP-Link provides:
 
