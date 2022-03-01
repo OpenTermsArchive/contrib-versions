@@ -102,7 +102,7 @@ You may also use your [regional telephone number](https://help.ft.com/contact/)
 
 **Our Cancellation Rights**
 
-**2.23.** We may suspend or terminate your Subscription if we are prevented from providing services to you by circumstances beyond our control, or if we cease publishing the Newspaper or FT.com or FT Services.  If we terminate for any of these reasons, we will provide you with a pro rata refund.
+**2.23.** We may suspend or terminate your Subscription if we are prevented from providing services to you, or accepting payment from you, by applicable law or circumstances beyond our control, or if we cease publishing the Newspaper or FT.com or FT Services. If we terminate for any of these reasons, we will provide you with a pro rata refund to the extent permitted by applicable law.
 
 **2.24.** We may also suspend or terminate your Subscription, without refund, if you breach these Terms and Conditions, or in the event of any verbal or written abuse of any kind (including abusive, offensive or aggressive language) directed towards our Customer Care team, other FT personnel, or any member of the public, with or without notice and without further obligation to you. 
 
@@ -233,7 +233,7 @@ in each case even if we have been advised that such damages may arise.**
 7\. Changes to these Terms and Conditions
 -----------------------------------------
 
-**7.1.** These Terms and Conditions were published on 25 November 2021 and replace with immediate effect the terms and conditions previously published on 7 January 2021.
+**7.1.** These Terms and Conditions were published on 1 March 2022 and replace with immediate effect the Terms and Conditions previously published on 25 November 2021. 
 
 **7.2.** We may update these Terms and Conditions for legal or regulatory reasons, or to reflect changes in our services or business practices. We will provide notice of any significant changes below. You should regularly check this section to see if any changes have been made. If you are a paying subscriber, any changes to our terms and conditions will become effective from the date of your next payment following the change unless we notify you otherwise. If you are not a paying subscriber, any changes will become effective as soon as we post them on FT.com.
 
