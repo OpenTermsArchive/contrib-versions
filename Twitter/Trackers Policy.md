@@ -94,7 +94,7 @@ Personalize ads and measure performance, like showing you ads and evaluating the
 
 Keep in mind, if you ever log in to Twitter with your device, we associate and will continue to associate that device with your account. This means whether or not you're logged in, we'll receive information about your device(s) when information is shared by a partner, you visit twitter.com or third-party websites that integrate Twitter services, or you visit a Twitter advertiser's website or mobile application. Most commonly, IP addresses and the time we receive the data, are used to link that specific device with you. 
 
-To see more about the devices and web browsers associated with your Twitter account, take a look at [Your Twitter Data](https://twitter.com/your_twitter_data) when you're logged in **and** when you're logged out of your account. 
+To see more about the devices and web browsers associated with your Twitter account, take a look at [Your Twitter Data](https://twitter.com/settings/your_twitter_data) when you're logged in **and** when you're logged out of your account. 
 
 ### Where are these technologies used?
 
