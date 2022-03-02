@@ -12,7 +12,7 @@ Please either **enable JavaScript**, or disable any extensions or plugins that i
 
 * * *
 
-[![Nord Account logo](https://s1.nordcdn.com/nordvpn/media/1.1454.0/images/account/global/logos/horizontal/nordaccount.svg)](https://my.nordaccount.com/dashboard/)
+[![Nord Account logo](https://s1.nordcdn.com/nordvpn/media/1.1464.0/images/account/global/logos/horizontal/nordaccount.svg)](https://my.nordaccount.com/dashboard/)
 
 General Terms of Service
 ========================
