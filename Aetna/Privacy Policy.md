@@ -1,64 +1,73 @@
 This statement describes how Aetna (“Aetna”, “we” or “us”) may collect information about you through your interactions with us on our website and mobile applications (“apps”) that contain a link to this statement (collectively, the “Services”).
 
-If information collected through the Services is member information, please refer to the Notice of Privacy Practices tab and not this Privacy Policy. If you are a member covered by an Aetna insured policy, this Notice can be found on this app, if you are covered through an employer plan which is self funded, ask your employer for a copy of your Notice. Examples of member information are information collected when you enroll in an Aetna health plan or access services related to your health plan.
+If information collected through the Services is member information, please refer to the "[Notice of Privacy Practices](https://www.aetna.com/legal-notices/privacy.html#tab_content_section_responsivegrid_copy_responsivegrid_tabs_link_tabs_3)" and not this Privacy Statement. If you are a member covered by an Aetna insured policy, this Notice can be found on this app. If you are covered through an employer plan which is self funded, ask your employer for a copy of your Notice. Examples of member information are information collected when you enroll in an Aetna health plan or access services related to your health plan.
 
-We do not knowingly collect personal information online from any person we know to be under the age of 13. We tell users under 13 not to send any information to us through the online Services without their parents’ consent.
+Our websites and mobile applications are designed for general audience and not directed to children under the age of 13. We do not knowingly collect personal information online from any person we know to be under the age of 13.
 
-We may collect two basic types of information:
+We want you to know what person information we may collect about you. Some examples of the personal information we may collect about you include:
 
-*   Personal information is data that is unique to a person. It may include information such as your name, address, Social Security number, email address, telephone number and certain personal device information.
-*   Non-personally identifiable information is data that doesn’t personally identify you. This may include demographic information, aggregated information or certain information collected automatically through your device. These may include what web browser you use, server log files, cookies, pixel tags, web beacons and other tracking methods, and other non-personally identifiable information collected by us or provided by you.
+*   Contact information including your name, address, email address, telephone number and certain personal device information
+*   Your password, if you create an account
+*   Demographic information, such as your age and date of birth, sex and/or gender
+*   Language preferences
+*   Driver’s license information or Social Security number
+*   Information collected automatically through your device, such as web browser information, server log files, cookies, pixel tags and web beacons and other tracking information
 
 We collect your personal information when you:
 
 *   Sign up or create a personal profile with us
+*   Enter into a transaction with us
 *   Request products, services or information from us
+*   Sign up with or interact with our products or services
+*   Participate in surveys or quizzes
 
-We may also automatically collect certain personal device information. This may include your device’s physical location, internet protocol (IP) address, battery information, app activity, data usage, and malware information. This helps us identify you and your device to prevent fraud and data loss and keep our app secure.
+We may also automatically collect certain device information. This may include your device’s physical location, internet protocol (IP) address, battery information, app activity, data usage, and malware information. This helps us identify you and your device to prevent fraud and data loss and keep our app secure. It may also help us customize your application or website experience.
 
 In some cases, and in all cases required by law, you can update the information you give us. Just send us an email or update your online profile. Please revisit the specific place in the app where you first gave us your information.
 
-Providing personal information for the purposes of seeking health insurance coverage/enrollment is a voluntary submission of personal information under the applicable law. If you choose not to provide your personal information to us, we may not be able to provide you with requested products, services or information.
+Providing personal information for the purposes of seeking health insurance coverage/enrollment is a voluntary submission of personal information under applicable law. If you choose not to provide your personal information to us, we may not be able to provide you with requested products, services or information.
 
-We may use your personal information to:
+To respond to you. We use your personal information to deliver services and to respond to your requests. For instance, we may use it to fulfill your order, contact you about your order, send you email alerts, send you newsletters, and to provide you with related customer service.
 
-*   Confirm it’s you so we can be sure our interactions with you are secure and confidential
-*   Respond to your questions or requests
-*   Deliver web-based products and services to you
-*   Send you marketing messages that may interest you
+To send marketing and administrative information to you. For example, we may use your personal information to manage subscription services, such as your order management, billing, reorder experience, and account communication. We may also offer other products and services that may be of interest to you. This could be done through push notifications in our apps.
 
-Except during the sale, transfer, merger, or other transaction involving all or part of our company, we won’t sell, license, or otherwise transfer any rights to your personal information to a third party unless you expressly authorize it.
+To add to your experience. We may use your personal information to personalize your experience when interacting with us. We may present products and offers tailored to you. And we may use your details for our business purposes, along with data analysis, audits, fraud monitoring and prevention, and new product and service development. We may also use it to gauge the effectiveness of our campaigns, and to run and grow our business efforts.
 
-We may transmit or share your personal information with other parties:
+For a sale or transfer of business assets. We may share or transfer your personal information to other parties if some or all of our business, assets or stock are sold, transferred or used as security. This includes in connection with any bankruptcy or similar proceeding.
 
-*   If required by law, such as to comply with a subpoena, regulatory oversight or other legal process
-*   When our contractors or vendors need to perform certain services, such as app maintenance or to improve performance
+To give information to our businesses. As allowed by law, we may give your personal information to our affiliated businesses or to our business partners. They may use it to send you marketing and other communications.
 
-In all cases, we’ll require the other party to protect the information. They can use it only for the purpose we provided it.
+To respond to law enforcement officials. We may share your personal information if required to do so by law enforcement officials or judicial authorities.
 
-We collect and aggregate non-personally identifiable information when you visit our website or use our apps. It helps us analyze and improve the services we provide you. Because this information doesn’t personally identify you, we may use and share it for any purpose permitted by law. We may:
+We may use or share your information including without court process, in matters involving claims of personal, public safety or in a litigation, where the information is pertinent. This may include use or sharing to allow us to pursue remedies or to limit the damages we may sustain.
 
-*   Automatically collect certain web browser information. Web browsers collect and store data about your device and operating system when you use our apps. When we collect this information, as well as your device’s media access control (MAC) address, we use it to help create a secure and consistent connection to you and customize experience and content when you use our apps.
-*   Perform page tagging. This is a way to log web page and visitor information when you use our apps. "Tagging" does include a JavaScript program running in your browser. But it’s limited to providing information about the page you’re requesting and the setup of your browser. It won’t read any of your data files, extract personal information about you, or run any other programs. You can disable JavaScript in your browser to stop tagging, but that may keep you from using all the functions on our app.
-*   Use tracking pixels or beacons. These electronic files track your activity on our apps. They also track your completion of transactions and browsing behavior.
+We may also use or share your information to enforce our terms and conditions, to protect our operations or those of any of our affiliates, or to protect our rights, privacy, safety or property and/or that of our affiliates, you or others.
 
-A "cookie" is a bit of data that we can send to your browser when you link to our apps. It isn’t a computer program. It can’t get any data or personal information on your computer. Your browser software can be set to reject or accept cookies.
+To our service providers. We may disclose personal information to our service providers, who provide services such as website hosting, data analysis, payment processing, order fulfilment, information technology and related infrastructure provision, customer service, email delivery, auditing, and other services.
 
-Our use of cookies allows us to collect and retain certain information about a website user, such as the type of Web browser you use. Reviewing our Web server logs and site usage helps us monitor performance. Cookies also help us:
+To look for security breaches. We may use and disclose personal information to investigate security breaches or otherwise work with authorities in a legal matter.
+
+To use information that does not identify you. If information does not personally identify you, we may use and share it for any purpose except as limited by applicable law. This includes information described in the “Cookies and other technologies” section. To the extent we are required to treat such information as personal information under applicable law, then we may use it for all the purposes we use and disclose personal information.
+
+To combine information. We may combine information that does not personally identify you with personal information. If we do, we will treat the combined information as personal information for as long as it stays combined.
+
+Like many other websites and online services, we collect traffic and usage patterns. It helps us analyze and improve the services we provide you. We use cookies, Web server logs and similar technologies to do this.
+
+We use this information for various purposes:
 
 *   Enhance web and mobile navigation
 *   Personalize your experience
-*   Understand how you use our services
+*   Understand how you use our Services
 *   Diagnose problems
 *   Measure the success of our marketing campaigns
 *   Deliver online content on services/products that may interest you
-*   Otherwise administer our services
+*   Otherwise administer our Services
 
-Collecting IP addresses is also a standard practice and is done automatically by many websites and apps. We use IP addresses to administer our services, measure service levels and help diagnose server problems. Your IP address is a number that is automatically assigned to the computer that you are using by your Internet Service Provider. An IP address may be identified and logged automatically in our server log files whenever a user accesses our services, along with the time of the visit and the page(s) visited.
+A "cookie" is a bit of data that we can send to your browser when you link to our apps. It isn’t a computer program. It can’t get any data or personal information on your computer. Your browser software can be set to reject or accept cookies.
+
+Collecting IP addresses is also a standard practice and is done automatically by many websites and apps. We use IP addresses to administer our Services, measure service levels and help diagnose server problems. Your IP address is a number that is automatically assigned to the computer that you are using by your Internet Service Provider. An IP address may be identified and logged automatically in our server log files whenever a user accesses our Services, along with the time of the visit and the page(s) visited.
 
 Our Services use tracking technologies to collect and record your activities and movements across our websites throughout your browsing session, including page hits, mouse movements, scrolling, typing, out-of-the-box errors and events, and API calls (“session data”). We use this information to provide us with analytics and to improve our products, services, and your experience. Such tracking may also include recorded sessions, which we may play back for these purposes. We may share session data with our vendors (which may change over time) for these purposes, who will use the session data solely on our behalf.
-
-As permitted by law, we may also sell or disclose patient or member information that has been deidentified. This means data that can be used to identify a patient or member has been removed or changed according to one of the methods described in the Code of Federal Regulations. These are known as the HIPAA expert determination and HIPAA safe harbor methods. (See Section 164.514(b)(1) or (b)(2) of Title 45 of the Code of Federal Regulations.)
 
 We understand that the security, integrity and confidentiality of your information are very important to you. And we want to protect it. Here’s how:
 
@@ -67,25 +76,25 @@ We understand that the security, integrity and confidentiality of your informati
 
 We don’t show you third parties’ ads on our apps. But we may use third-party advertising companies to serve you our ads on other sites based on the web pages you may have visited or your online activity. These are known as interest-based or personalized ads. They may also be known as targeted ads.
 
-We (Aetna) show you these ads so you can see products and services that might interest you. We don’t direct ads to children. Or where we know a user is under 13 years old.
+We (Aetna) show you these ads so you can see products and services that might interest you.
 
 In order to serve up information related to our Services, the third-party companies may place or recognize a unique cookie on your browser (including through the use of pixel tags). We follow the guidelines of the Digital Advertising Alliance (DAA) [Self-Regulatory Principles for Online Behavioral Advertising](https://youradchoices.com/principles). These help you understand and have greater control over the ads you see based on your online behavior. The DAA has a web site where you can [opt out from getting targeted ads](https://optout.aboutads.info/?c=2&lang=EN) from some or all of the companies in the program. Our apps don’t respond to “Do Not Track” signals from browsers.
 
 We may use analytics providers that use cookies, pixel tags and other, similar technologies to collect information about your use of the Services and your use of other websites and online services. Aetna and these other parties use these details to understand your online activity. We also use it to deliver ads and web site content based on your interests.
 
-This policy doesn’t apply to, and we aren’t responsible for, the cookies or web beacons, or other tracking methods used by third parties. You can check out the privacy policies of these other companies to learn more.
+This statement doesn’t apply to, and we aren’t responsible for, the cookies or web beacons, or other tracking methods used by third parties. You can check out the privacy policies of these other companies to learn more.
 
-We welcome the comments and questions you send to the email address given in our apps. We’ll share them with our Member Services team and other employees who can best help you.
-
-Keep your information safe. Don’t email us information you consider confidential. If you’re a health plan member, call us at the number on your member ID card instead. Or call the number in the app you’re using. There are also some secure areas of our apps to share this type of information.
-
-The Services may contain links to, or otherwise make available, third-party websites, services, or other resources not operated by us or on our behalf (“Third-Party Services”). We aren’t responsible for the privacy practices, content or accuracy of websites or apps of the Third-Party Services. We also don’t review or endorse their content or the products or services they describe.
+The Services may contain links to, or otherwise make available, third-party websites, services, or other resources not operated by us or on our behalf (“Third-Party Services”). We aren’t responsible for the privacy practices, content or accuracy of the Third-Party Services. We also don’t review or endorse their content or the products or services they describe.
 
 We are not responsible for the privacy or security of any information you provide to them or their handling of information. We recommend that you review the privacy policy of any third party to whom you provide personal information online.
 
 In addition, we aren’t responsible for the information, collection, use, disclosure or security policies and practices of other organizations. These include companies such as Apple, Google, Microsoft, RIM, or any other app developer, app provider, operating system provider, wireless service provider, or device manufacturer.
 
-We may change this Privacy Statement. You can find the date changes were last made at the bottom of the page. Any changes become effective when we post the revised Privacy Statement. Your use of our websites or mobile apps following these changes means you accept the revised version. This isn’t intended to, and doesn’t create, any contractual or other legal rights in, or on behalf of, any party.
+If you have any questions or concerns about this statement, or the way your information is collected and used, please contact the Aetna Privacy Office at [Privacy.Officer@cvshealth.com](mailto:Privacy.Officer@cvshealth.com).
+
+Keep your information safe. Don’t email us information you consider confidential. If you’re a health plan member, call us at the number on your member ID card instead. Or call the number in the app you’re using. There are also some secure areas of our apps to share this type of information.
+
+We may change this Privacy Statement. You can find the date changes were last made at the bottom of the page. Any changes become effective when we post the revised Privacy Statement. Your use of the Services following these changes means you accept the revised version.
 
 A list of steps we take to secure your health information.
 
