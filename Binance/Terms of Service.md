@@ -186,7 +186,7 @@ Bifinity UAB is registered in accordance with the applicable laws of the Republi
 
 ### 4\. Futures Trading
 
-Unless otherwise specified by Binance, to conduct Futures Trading, you must conclude with Binance a separate Binance Futures Service Agreement ([HERE](https://public.bnbstatic.com/static/files/binance-futures-services-agreement-en.pdf)) and open a special Collateral Account, following the completion of registration and identity verification for your Binance Account. You acknowledge and agree that:
+Unless otherwise specified by Binance, to conduct Futures Trading, you must conclude with Binance a separate [Binance Futures Service Agreement](https://www.binance.com/en/binance-futures-services-agreement) and open a special Collateral Account, following the completion of registration and identity verification for your Binance Account. You acknowledge and agree that:
 
 a. You fully understand the high risks of Futures Trading, including but not limited to the risk of major fluctuations of Digital Assets in Futures Trading, and the risk of exacerbated adverse outcome when leverage is used;
 
