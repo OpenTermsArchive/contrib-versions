@@ -1,6 +1,6 @@
 Binance Terms of Use
 
-Last revised: 1 March 2022
+Last revised: 2 March 2022
 
 These Binance Terms of Use is entered into between you (hereinafter referred to as “you” or “your”) and Binance operators (as defined below). By accessing, downloading, using or clicking on “I agree” to accept any Binance Services (as defined below) provided by Binance (as defined below), you agree that you have read, understood and accepted all of the terms and conditions stipulated in these Terms of Use (hereinafter referred to as “these Terms”) as well as our Privacy Policy at [www.binance.com/en/privacy](https://www.binance.com/en/privacy). In addition, when using some features of the Services, you may be subject to specific additional terms and conditions applicable to those features.
 
