@@ -1,15 +1,12 @@
 Facebook Live Policies
-======================
 
 1\. Overview
-------------
 
 **Understanding our policies**
 
-The following terms, as well as our [Data Policy](https://www.facebook.com/about/privacy/?locale2=en_GB), [Community Standards](https://www.facebook.com/communitystandards/?locale2=en_GB) and [Terms of Service](https://www.facebook.com/legal/terms?locale2=en_GB), apply to all users on Facebook. You are responsible for ensuring that your content complies with all applicable laws, statutes and regulations.
+The following terms, as well as our [Data Policy](https://www.facebook.com/about/privacy/), [Community Standards](https://www.facebook.com/communitystandards/) and [Terms of Service](https://www.facebook.com/legal/terms), apply to all users on Facebook. You are responsible for ensuring that your content complies with all applicable laws, statutes and regulations.
 
 2\. General policies for Facebook Live
---------------------------------------
 
 **Prohibited business practices**
 
@@ -48,5 +45,3 @@ Example:
 *   A broadcast that is limited to a photo and has no other auditory or visual elements
 
 *   A broadcast that only contains a poll
-
-![](https://facebook.com/security/hsts-pixel.gif?c=3.2)
