@@ -12,7 +12,7 @@ Welcome to Instagram!
   
 These Terms of Use (or "Terms") govern your use of Instagram, except where we expressly state that separate terms (and not these) apply, and provide information about the Instagram Service (the "Service"), outlined below. When you create an Instagram account or use Instagram, you agree to these Terms. The Meta Terms of Service do not apply to this Service.  
   
-Click [here](https://help.instagram.com/http%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=http%3A%2F%2Fhelp.instagram.com%2F1190972084654673&h=removed) for a contract summary and [here](https://help.instagram.com/http%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=http%3A%2F%2Fhelp.instagram.com%2F430517971668717&h=removed) for other information that we are required by the European Electronic Communications Code to provide.  
+Click [here](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=http%3A%2F%2Fhelp.instagram.com%2F1190972084654673&h=removed) for a contract summary and [here](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=http%3A%2F%2Fhelp.instagram.com%2F430517971668717&h=removed) for other information that we are required by the European Electronic Communications Code to provide.  
   
 If you are a business established in the EU and use Instagram Shopping to sell goods to consumers located in the EU, you can learn more about your commercial relationship with us by reviewing the [Platform to Business Notice](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fwww.facebook.com%2Flegal%2Fplatformtobusinessnotice&h=removed), which supplements our Terms of Use.  
   
@@ -83,7 +83,7 @@ In return for our commitment to provide the Service, we require you to make the 
 *   **You can't sell, licence or purchase any account or data obtained from us or our Service.**  
     This includes attempts to buy, sell or transfer any aspect of your account (including your username); solicit, collect or use login credentials or badges of other users; or request or collect Instagram usernames, passwords or misappropriate access tokens.
 *   **You can't post someone else's private or confidential information without permission or do anything that violates someone else's rights, including intellectual property rights (e.g. copyright infringement, trademark infringement, counterfeit or pirated goods).**  
-    You may use someone else's works under exceptions or limitations to copyright and related rights under applicable law. You represent that you own or have obtained all necessary rights to the content you post or share. Learn more, including how to report content that you think infringes your intellectual property rights, [here](https://help.instagram.com/http%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=http%3A%2F%2Fhelp.instagram.com%2F535503073130320%3Fref%3Digtos&h=removed).
+    You may use someone else's works under exceptions or limitations to copyright and related rights under applicable law. You represent that you own or have obtained all necessary rights to the content you post or share. Learn more, including how to report content that you think infringes your intellectual property rights, [here](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=http%3A%2F%2Fhelp.instagram.com%2F535503073130320%3Fref%3Digtos&h=removed).
 *   **You can't modify, translate, create derivative works of or reverse engineer our products or their components.**
 *   **You can't use a domain name or URL in your username without our prior written consent.**
 
