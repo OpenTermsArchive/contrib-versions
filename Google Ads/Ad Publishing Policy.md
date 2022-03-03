@@ -6,7 +6,7 @@ Google Publisher Policies
 
 [](https://support.google.com/adsense/answer/1282103?hl=en&ref_topic=1250104)[Next: Google Publisher Restrictions](https://support.google.com/adsense/answer/10437795?hl=en&ref_topic=1250104)
 
-In light of the crisis in Ukraine, we are pausing Google’s monetization of Russian Federation state-funded media. 
+In light of the war in Ukraine, we are pausing Google’s monetization of Russian Federation state-funded media. 
 
 We will continue to actively monitor the situation and make adjustments as necessary.
 
