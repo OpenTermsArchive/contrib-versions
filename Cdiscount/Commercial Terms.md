@@ -233,10 +233,17 @@ Toutefois, CDISCOUNT se réserve le droit de ne pas valider votre commande et/ou
 \- un litige relatif au paiement d’une de vos précédentes commandes serait en cours de traitement ;  
 \- plusieurs éléments graves et concordants feraient peser un soupçon de fraude sur votre commande.
 
-  
 **3.4 Suspension/Clôture d'un compte client par CDISCOUNT**  
   
 En cas d'activité anormale d'un client sur le Site constatée par CDISCOUNT sur la base d'indices graves et concordants qui feraient peser un soupçon de fraude sur ledit client, CDISCOUNT se réserve le droit de procéder à la suspension et/ou à la clôture du ou des compte(s) client concerné(s). Dans cette hypothèse, le client recevra un email d'information de la part de CDISCOUNT l'informant de la clôture de son compte client. CDISCOUNT se réserve la faculté d'engager les procédures judiciaires idoines permettant réparation de tout préjudice qu'elle aurait pu subir du fait d'une activité frauduleuse avérée.  
+  
+  
+**3.5 Pratiques frauduleuses et remises promotionnelles  
+**  
+
+Toute manœuvre répétée ou non du client ayant pour but de bénéficier à tort d’une remise promotionnelle (code promo, bon de réduction etc.), telle que des annulations partielles de commande en vue de conserver indument une remise promotionnelle, sera considérée comme frauduleuse. A ce te titre, CDISCOUNT se réserve le droit de ne pas valider la commande, d’en suspendre l’exécution ou encore de suspendre ou clore le compte client conformément à l’article 3, faisant perdre définitivement au client le bénéfice de la réduction promotionnelle associée (immédiate ou différée).
+
+Nonobstant ce qui précède, CDISCOUNT se réserve le droit d’engager toute action de recouvrement à l’encontre du client ayant bénéficié à tort et/ou via des manœuvres frauduleuses, de remises promotionnelles, afin de recouvrer les sommes indument perçues sur le fondement de l’article 1302-1 du code civil. 
 
  
 
@@ -280,9 +287,9 @@ Pour en savoir plus sur la Solution de Crédit - "Payez en plusieurs fois", [cli
   
 (x) Paiement PAYLIB : Vous pouvez également régler votre commande via l'application PAYLIB sur votre téléphone. Pour bénéficier de ce mode de paiement, vous devez télécharger et créer un compte sur l'application de votre banque. En cas de paiement par PAYLIB, ce sont les conditions générales d'utilisation de PAYLIB qui s'appliquent.
 
-(xi)         Par carte(s) cadeau(x) ILLICADO : Vous pouvez également utiliser une ou plusieurs carte(s) cadeau(x) ILLICADO pour le paiement de tout ou partie de votre commande, dans la limite de deux-cents cinquante (250) euros (produits de la Marketplace inclus, à l’exception des produits dématérialisés et des offres de services tels que, notamment : voyages, forfaits mobiles, électricité/fioul, billetterie, etc.). Pour en savoir plus sur ce mode de paiement, [cliquez ici](https://www.illicado.com/utilisation-carte).
+(xi)         Par carte(s) cadeau(x) : Vous pouvez également utiliser une ou plusieurs carte(s) cadeau(x) telles que la carte ILLICADO pour le paiement de tout ou partie de votre commande, dans la limite de deux-cents cinquante (250) euros (produits de la Marketplace inclus, à l’exception des produits dématérialisés et des offres de services tels que, notamment : voyages, forfaits mobiles, électricité/fioul, billetterie, etc.). Pour en savoir plus sur ce mode de paiement, [cliquez ici](https://www.illicado.com/utilisation-carte).
 
-En cas d'abandon, de rétractation, ou tout autre motif d’annulation d’une commande payée par carte(s) cadeau(x) ILLICADO, les sommes débitées sur la ou les carte(s) cadeau(x) ILLICADO utilisée(s) seront remboursées sous forme d’un ou plusieurs bon(s) d’achat, disponible(s) dans votre espace client et utilisable sur le Site pendant un (1) an.  
+En cas d'abandon, de rétractation, ou tout autre motif d’annulation d’une commande payée par carte(s) cadeau(x), les sommes débitées sur la ou les carte(s) cadeau(x) utilisée(s) seront remboursées sous forme d’un ou plusieurs bon(s) d’achat, disponible(s) dans votre espace client et utilisable sur le Site pendant un (1) an.  
   
 (xii) Paiement par virement sécurisé par Bridge powered by Bankin’ : ce mode de paiement n’est disponible que pour les règlements effectués depuis la plateforme de recouvrement de Cdiscount. Vous avez la possibilité de régulariser votre commande par virement bancaire en validant votre demande de virement directement depuis l’interface de votre banque, grâce à la solution Bridge powered by Bankin’, éditée par Perspecteev SAS - société par actions simplifiée immatriculée au RCS Paris numéro B 529 196 313 dont le siège social est 4 rue de la Pierre Levée - 75011 Paris. Perspecteev est un établissement de paiement agréé par l'ACPR sous le numéro 16918P, et est immatriculé à l'ORIAS sous le numéro 18003177 en tant que mandataire d'intermédiaire d'assurance. Perspecteev ne peut être assimilé à un établissement de crédit. Pour en savoir plus sur ce mode de paiement, [cliquez ici](https://pay.bridgeapi.io/docs/mention-information.pdf).  
   
@@ -650,12 +657,19 @@ b) **ou en nous retournant, à l’adresse postale indiquée, le formulaire suiv
 
 En toute hypothèse, nous vous adresserons un accord de retour contenant un numéro de retour et précisant les modalités de retour de votre colis. Nous vous recommandons d’imprimer et de coller ce numéro de retour sur le colis afin de permettre un traitement plus rapide de votre demande.
 
-Vous vous engagez à retourner à CDISCOUNT les produits faisant l’objet d’une rétractation dans les 14 jours calendaires suivants l’envoi de la notification de votre décision de vous rétracter.  
+Vous vous engagez à retourner à CDISCOUNT les produits faisant l’objet d’une rétractation dans les 14 jours calendaires suivants l’envoi de la notification de
+
+votre décision de vous rétracter
+
+.  
   
 Si une même commande contient plusieurs produits, livrés par colis distincts, alors le retour des produits concernés par une demande de rétractation se fait de manière dissociée selon les modalités prévues au paragraphe 8.2.  
 Pour un meilleur traitement des demandes de rétractation, chaque produit d'une même commande qui fait l'objet d'une demande de rétractation, doit faire l'objet d'un retour dans un colis distinct.  
   
-Conformément aux dispositions de l’article L. 221-23 du Code de la consommation, vous êtes responsable de la manipulation des biens et de la dépréciation de leur valeur au cours du délai de rétractation. A ce titre, Cdiscount se réserve la faculté d’engager votre responsabilité en cas de dépréciation des produits retournés dans le cadre de l’exercice du droit de rétractation, résultant de manipulations autres que celles nécessaires pour établir la nature, les caractéristiques et le bon fonctionnement de ces produits.
+
+En cas d’exercice d’un droit de rétractation sur un produit ayant bénéficié d’une prestation de service de montage pleinement exécutée, dont l'exécution a commencé après accord préalable exprès du client et renoncement exprès à son droit de rétractation;  vous serez remboursé de toutes les sommes versées à l’exception de celles correspondant à la prestation de service de montage pleinement exécutée et de toute dépréciation financière du produit qui pourrait vous être imputée dans les conditions ci-dessous.  
+  
+Conformément aux dispositions de l’article L. 221-23 du Code de la consommation, vous êtes responsable de la manipulation des biens et de la dépréciation de leur valeur au cours du délai de rétractation. A ce titre, Cdiscount se réserve la faculté d’engager votre responsabilité en cas de dépréciation des produits retournés dans le cadre de l’exercice du droit de rétractation, résultant de manipulations autres que celles nécessaires pour établir la nature, les caractéristiques et le bon fonctionnement de ces produits. Toute trace visible sur tout produit préalablement monté et assemblé, par vous-même ou à l’issue d’une prestation de montage, puis démonté par vos soins ou toute autre personne extérieure à CDISCOUNT, telle que des traces de vis, clous, des rayure(s) ou une partie du produit arrachée (sans que cette liste soit limitative) sera considérée comme une dépréciation du produit, devenu alors impropre à la vente, et CDISCOUNT se réservera le droit d’imputer au client le coût financier relatif à cette dépréciation.
 
 **  
 8.3 Exceptions**
@@ -672,13 +686,16 @@ Conformément à l’article L221-28 du Code de la Consommation, le droit de ré
   
 \- Les biens qui, après avoir été livrés et de par leur nature, sont mélangés de manière indissociable avec d'autres articles ;  
   
-\- Les enregistrements audio ou vidéo ou de logiciels informatiques lorsqu'ils ont été descellés par le consommateur: c’est par exemple le cas pour les produits livrés avec un logiciel lorsque vous avez descellé et/ou installé ce logiciel \- La fourniture de journaux, de périodiques ou de magazines ;
+\- Les enregistrements audio ou vidéo ou de logiciels informatiques lorsqu'ils ont été descellés par le consommateur: c’est par exemple le cas pour les produits livrés avec un logiciel lorsque vous avez descellé et/ou installé ce logiciel  
+\- La fourniture de journaux, de périodiques ou de magazines ;
 
 \- Les téléchargements de contenus numériques non fournis sur un support matériel dont l'exécution a commencé après accord préalable exprès du consommateur et renoncement exprès à son droit de rétractation ;
 
-\- La vente de voyages et d'activités de loisirs qui doivent être fournis à une date ou à une période déterminée (ex. tickets de concert).
+\- La vente de voyages et d'activités de loisirs qui doivent être fournis à une date ou à une période déterminée (ex. tickets de concert).  
+  
+Conformément à l’article L221-25 du Code de la consommation : « Si vous avez demandé de commencer la prestation de services pendant le délai de rétractation, vous devrez nous payer un montant proportionnel à ce qui vous a été fourni jusqu'au moment où vous nous avez informé de votre rétractation du présent contrat, par rapport à l'ensemble des prestations prévues par le contrat. » 
 
- **8.4 Remboursement dans le cadre d’une rétractation** 
+  **8.4 Remboursement dans le cadre d’une rétractation** 
 
   
 A la suite de votre demande de rétractation, CDISCOUNT, conformément aux dispositions légales, procédera à votre remboursement dans un délai de 14 jours suivant la notification de votre demande de rétractation.
@@ -1319,7 +1336,7 @@ Un (1) jour suivant la réception de l’« email de bienvenue », le Bénéfi
 
 En conséquence : 
 
-\- le Bénéficiaire bénéficie des avantages de l’Abonnement au Service,  étant rappelé que le Bénéficiaire pourra profiter de l’ensemble des avantages inclus dans l’Abonnement au Service pendant toute la durée de l’Abonnement au Service de l’Abonné restant à courir (hors renouvellement).
+\- le Bénéficiaire bénéficie des avantages de l’Abonnement au Service,  étant rappelé que le Bénéficiaire pourra profiter de l’ensemble des avantages inclus dans l’Abonnement au Service (à l'exception du partage d'Abonnement) pendant toute la durée de l’Abonnement au Service de l’Abonné restant à courir (hors renouvellement).
 
 \- à l’expiration de l’Abonnement au Service de l’Abonné, le Bénéficiaire ne pourra plus bénéficier des avantages liés à l’Abonnement au Service et ce, même dans le cas où l’Abonné renouvellerait son Abonnement au Service.
 
