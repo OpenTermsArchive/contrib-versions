@@ -3,7 +3,7 @@ Terms of Use
 
 Copy link
 
-_Facebook Ireland Limited has changed its name to Meta Platforms Ireland Limited. We've updated our Terms of Use, Data Policy and Cookies Policy to reflect the new name on 4 January 2022. While our company name has changed, we are continuing to offer the same products, including Instagram from Meta. Our Data Policy and Terms of Use remain in effect, and this name change does not affect how we use or share data. [_Learn more about Meta_](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fabout.facebook.com%2Fmeta) and our vision for the metaverse._
+_Facebook Ireland Limited has changed its name to Meta Platforms Ireland Limited. We've updated our Terms of Use, Data Policy and Cookies Policy to reflect the new name on 4 January 2022. While our company name has changed, we are continuing to offer the same products, including Instagram from Meta. Our Data Policy and Terms of Use remain in effect, and this name change does not affect how we use or share data. [_Learn more about Meta_](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fabout.facebook.com%2Fmeta&h=removed) and our vision for the metaverse._
 
   
   
@@ -12,11 +12,11 @@ Welcome to Instagram!
   
 These Terms of Use (or "Terms") govern your use of Instagram, except where we expressly state that separate terms (and not these) apply, and provide information about the Instagram Service (the "Service"), outlined below. When you create an Instagram account or use Instagram, you agree to these Terms. The Meta Terms of Service do not apply to this Service.  
   
-Click [here](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=http%3A%2F%2Fhelp.instagram.com%2F1190972084654673) for a contract summary and [here](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=http%3A%2F%2Fhelp.instagram.com%2F430517971668717) for other information that we are required by the European Electronic Communications Code to provide.  
+Click [here](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=http%3A%2F%2Fhelp.instagram.com%2F1190972084654673&h=removed) for a contract summary and [here](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=http%3A%2F%2Fhelp.instagram.com%2F430517971668717&h=removed) for other information that we are required by the European Electronic Communications Code to provide.  
   
-If you are a business established in the EU and use Instagram Shopping to sell goods to consumers located in the EU, you can learn more about your commercial relationship with us by reviewing the [Platform to Business Notice](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fwww.facebook.com%2Flegal%2Fplatformtobusinessnotice), which supplements our Terms of Use.  
+If you are a business established in the EU and use Instagram Shopping to sell goods to consumers located in the EU, you can learn more about your commercial relationship with us by reviewing the [Platform to Business Notice](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fwww.facebook.com%2Flegal%2Fplatformtobusinessnotice&h=removed), which supplements our Terms of Use.  
   
-The Instagram Service is one of the [Meta Products](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F1561485474074139%3Fref%3Digtos), provided to you by Meta Platforms Ireland Limited. These Terms of Use therefore constitute an agreement between you and Meta Platforms Ireland Limited.  
+The Instagram Service is one of the [Meta Products](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F1561485474074139%3Fref%3Digtos&h=removed), provided to you by Meta Platforms Ireland Limited. These Terms of Use therefore constitute an agreement between you and Meta Platforms Ireland Limited.  
   
 
 **The Instagram Service**
@@ -42,19 +42,19 @@ We agree to provide you with the Instagram Service. The Service includes all of 
 
 **How our Service is funded**
 
-Instead of paying to use Instagram, by using the Service covered by these Terms, you acknowledge that we can show you ads that businesses and organisations pay us to promote on and off the [Meta Company Products](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F195227921252400%3Fref%3Ddp). We use your personal data, such as information about your activity and interests, to show you ads that are more relevant to you.
+Instead of paying to use Instagram, by using the Service covered by these Terms, you acknowledge that we can show you ads that businesses and organisations pay us to promote on and off the [Meta Company Products](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F195227921252400%3Fref%3Ddp&h=removed). We use your personal data, such as information about your activity and interests, to show you ads that are more relevant to you.
 
 We show you relevant and useful ads without telling advertisers who you are. We don't sell your personal data. We allow advertisers to tell us things such as their business goal and the kind of audience they want to see their ads. We then show their ad to people who might be interested.
 
 We also provide advertisers with reports about the performance of their ads to help them understand how people are interacting with their content on and off Instagram. For example, we provide general demographic and interest information to advertisers to help them better understand their audience. We don't share information that directly identifies you (information such as your name or email address that by itself can be used to contact you or identifies who you are) unless you give us specific permission. Learn more about how Instagram ads work [here](https://help.instagram.com/537518769659039).
 
-You may see branded content on Instagram posted by account holders who promote products or services based on a commercial relationship with the business partner mentioned in their content. You can learn more about this [here](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fwww.facebook.com%2Fhelp%2Finstagram%2F116947042301556).
+You may see branded content on Instagram posted by account holders who promote products or services based on a commercial relationship with the business partner mentioned in their content. You can learn more about this [here](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fwww.facebook.com%2Fhelp%2Finstagram%2F116947042301556&h=removed).
 
   
 
 **The Data Policy**
 
-Providing our Service requires collecting and using your information. The [Data Policy](https://help.instagram.com/519522125107875) explains how we collect, use and share information across the [Meta Products](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F1561485474074139%3Fref%3Dtos). It also explains the many ways in which you can control your information, including in the [Instagram privacy and security settings](https://help.instagram.com/285881641526716?ref=igtos).
+Providing our Service requires collecting and using your information. The [Data Policy](https://help.instagram.com/519522125107875) explains how we collect, use and share information across the [Meta Products](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F1561485474074139%3Fref%3Dtos&h=removed). It also explains the many ways in which you can control your information, including in the [Instagram privacy and security settings](https://help.instagram.com/285881641526716?ref=igtos).
 
   
 
@@ -74,8 +74,8 @@ In return for our commitment to provide the Service, we require you to make the 
 *   **You can't impersonate others or provide inaccurate information.**  
     You don't have to disclose your identity on Instagram, but you must provide us with accurate and up-to-date information (including registration information), which may include providing personal data. Also, you may not impersonate someone or something you aren't, and you can't create an account for someone else unless you have their express permission.
 *   **You can't do anything unlawful, misleading or fraudulent or for an illegal or unauthorised purpose.**
-*   **You can't violate (or help or encourage others to violate) these Terms or our policies, including in particular the [Instagram Community Guidelines](https://help.instagram.com/477434105621119?ref=igtos), [Meta Platform Terms and Developer Policies](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fdevelopers.facebook.com%2Fterms) and [Music Guidelines](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fwww.facebook.com%2Flegal%2Fmusic_guidelines)**.  
-    If you post branded content, you must comply with our [Branded Content Policies](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fwww.facebook.com%2Fpolicies%2Fbrandedcontent%2F), which require you to use our branded content tool. Learn how to report conduct or content in our [Help Centre](https://help.instagram.com/).
+*   **You can't violate (or help or encourage others to violate) these Terms or our policies, including in particular the [Instagram Community Guidelines](https://help.instagram.com/477434105621119?ref=igtos), [Meta Platform Terms and Developer Policies](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fdevelopers.facebook.com%2Fterms&h=removed) and [Music Guidelines](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fwww.facebook.com%2Flegal%2Fmusic_guidelines&h=removed)**.  
+    If you post branded content, you must comply with our [Branded Content Policies](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fwww.facebook.com%2Fpolicies%2Fbrandedcontent%2F&h=removed), which require you to use our branded content tool. Learn how to report conduct or content in our [Help Centre](https://help.instagram.com/).
 *   **You can't do anything to interfere with or impair the intended operation of the Service.**  
     This includes misusing any reporting, dispute or appeals channel, such as by making fraudulent or groundless reports or appeals.
 *   **You can't attempt to create accounts or access or collect information in unauthorised ways.**  
@@ -83,7 +83,7 @@ In return for our commitment to provide the Service, we require you to make the 
 *   **You can't sell, licence or purchase any account or data obtained from us or our Service.**  
     This includes attempts to buy, sell or transfer any aspect of your account (including your username); solicit, collect or use login credentials or badges of other users; or request or collect Instagram usernames, passwords or misappropriate access tokens.
 *   **You can't post someone else's private or confidential information without permission or do anything that violates someone else's rights, including intellectual property rights (e.g. copyright infringement, trademark infringement, counterfeit or pirated goods).**  
-    You may use someone else's works under exceptions or limitations to copyright and related rights under applicable law. You represent that you own or have obtained all necessary rights to the content you post or share. Learn more, including how to report content that you think infringes your intellectual property rights, [here](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=http%3A%2F%2Fhelp.instagram.com%2F535503073130320%3Fref%3Digtos).
+    You may use someone else's works under exceptions or limitations to copyright and related rights under applicable law. You represent that you own or have obtained all necessary rights to the content you post or share. Learn more, including how to report content that you think infringes your intellectual property rights, [here](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=http%3A%2F%2Fhelp.instagram.com%2F535503073130320%3Fref%3Digtos&h=removed).
 *   **You can't modify, translate, create derivative works of or reverse engineer our products or their components.**
 *   **You can't use a domain name or URL in your username without our prior written consent.**
 
@@ -101,7 +101,7 @@ In return for our commitment to provide the Service, we require you to make the 
 
 *   If you select a username or similar identifier for your account, we may change it if we believe it is appropriate or necessary (for example, if it infringes someone's intellectual property or impersonates another user).
 *   If you use content covered by intellectual property rights that we have and make available in our Service (for example, images, designs, videos, or sounds we provide that you add to content you create or share), we retain all rights to our content (but not yours).
-*   You can only use our intellectual property and trademarks or similar marks as expressly permitted by our [Brand Guidelines](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fwww.instagram-brand.com%2F) or with our prior written permission.
+*   You can only use our intellectual property and trademarks or similar marks as expressly permitted by our [Brand Guidelines](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fwww.instagram-brand.com%2F&h=removed) or with our prior written permission.
 *   You must obtain written permission from us or under an open-source licence to modify, create derivative works of, decompile or otherwise attempt to extract source code from us.
 
   
@@ -130,7 +130,7 @@ In return for our commitment to provide the Service, we require you to make the 
 
 **Our agreement.**
 
-*   Your use of music on the Service is also subject to our [Music Guidelines](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fwww.facebook.com%2Flegal%2Fmusic_guidelines), and your use of our API is subject to our [Meta Platform Terms and Developer Policies](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fdevelopers.facebook.com%2Fterms). If you use certain other features or related services, you will be provided with an opportunity to agree to additional terms that will also become a part of our agreement. For example, if you use payment features, you will be asked to agree to the [Community Payment Terms](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fwww.facebook.com%2Fpayments_terms). If any of those terms conflict with this agreement, those other terms will govern.
+*   Your use of music on the Service is also subject to our [Music Guidelines](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fwww.facebook.com%2Flegal%2Fmusic_guidelines&h=removed), and your use of our API is subject to our [Meta Platform Terms and Developer Policies](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fdevelopers.facebook.com%2Fterms&h=removed). If you use certain other features or related services, you will be provided with an opportunity to agree to additional terms that will also become a part of our agreement. For example, if you use payment features, you will be asked to agree to the [Community Payment Terms](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fwww.facebook.com%2Fpayments_terms&h=removed). If any of those terms conflict with this agreement, those other terms will govern.
 *   If any aspect of this agreement is unenforceable, the rest will remain in effect.
 *   Any amendment or waiver to our agreement must be in writing and signed by us. If we fail to enforce any aspect of this agreement, it will not be a waiver.
 *   We reserve all rights not expressly granted to you.
