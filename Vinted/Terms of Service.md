@@ -564,7 +564,7 @@ Please be aware that if you knowingly materially misrepresent that material or a
 
 19.4 **Reporting Claims of any other Intellectual Property Rights Infringement**
 
-We also take claims of any other intellectual property rights infringement seriously. We will respond to notices of alleged intellectual property infringement that comply with applicable law. If you believe that any materials accessible on this site (“Website”) infringes one or more of your intellectual property rights other than copyright, you may request removal of those materials from the Website by filling out this form**:** ([_https://www.vinted.com//help/intellectual\_property\_infringement_](https://www.vinted.com//help/intellectual_property_infringement) ).
+We also take claims of any other intellectual property rights infringement seriously. We will respond to notices of alleged intellectual property infringement that comply with applicable law. If you believe that any materials accessible on this site (“Website”) infringes one or more of your intellectual property rights other than copyright, you may request removal of those materials from the Website by filling out this form**:** ([_https://www.vinted.com/help/intellectual\_property\_infringement_](https://www.vinted.com//help/intellectual_property_infringement) ).
 
 19.5 **Repeat Infringers**
 
