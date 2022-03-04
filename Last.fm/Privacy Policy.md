@@ -3,11 +3,11 @@ Privacy Policy
 
 **Last Modified:** March 4, 2021
 
-This Policy describes how ViacomCBS and its affiliates (collectively “ViacomCBS”) collect, use and disclose certain information, including your Personal Information, both online and offline, and the choices you can make about that information.
+This Policy describes how Paramount and its affiliates (collectively “Paramount”) collect, use and disclose certain information, including your Personal Information, both online and offline, and the choices you can make about that information.
 
 We are a leading global media and entertainment company that creates content and experiences for audiences worldwide. When you use our streaming services, mobile and online applications or other products and services of our brands, visit our websites, attend our live events, view our content or advertisements, or contact our customer service (collectively, the “Services”), we may collect information from or about you.
 
-Trust is a cornerstone of our mission at ViacomCBS. We are committed to gaining and maintaining your trust by following a core set of privacy principles:
+Trust is a cornerstone of our mission at Paramount. We are committed to gaining and maintaining your trust by following a core set of privacy principles:
 
 *   Transparency – We will tell you what information we collect about you and how we use it.
 *   Choice – When possible, we will give you choices about how your information is collected and used.
@@ -15,7 +15,7 @@ Trust is a cornerstone of our mission at ViacomCBS. We are committed to gaining 
 *   Security – We will protect your information with reasonable security measures.
 *   Accountability – We will take responsibility for the secure processing of your information and do our best to address any concerns or questions that you have about how we process your information.
 
-This Privacy Policy applies to all information about you that we collect in connection with the Services throughout the world. There may be additional notices about our information practices and choices for certain ViacomCBS offerings. By using any of the Services, you acknowledge the data collection practices and purposes outlined in this Privacy Policy. You can learn more about ViacomCBS and our affiliates by visiting our affiliates page [https://www.viacomcbs.com/brands](https://www.viacomcbs.com/brands).
+This Privacy Policy applies to all information about you that we collect in connection with the Services throughout the world. There may be additional notices about our information practices and choices for certain Paramount offerings. By using any of the Services, you acknowledge the data collection practices and purposes outlined in this Privacy Policy. You can learn more about Paramount and our affiliates by visiting our affiliates page [https://www.viacomcbs.com/brands](https://www.viacomcbs.com/brands).
 
 Click on each header below for more information or scroll down to read the full policy.
 
@@ -62,7 +62,7 @@ We also collect, use, and disclose aggregated or de-identified information that 
 
 **Information You Provide About Others.** Sometimes, we may collect information you may provide about others, which may include names, emails, and birthdays—for example, to refer a friend or relative to certain Services.
 
-**Information You Provide When You Do Business With Us.** If you are a vendor, service provider, or business partner of ViacomCBS, we may collect information about you and the services you provide, including your or your employees’ business contact information and other information you or your employees provide to us as part of the services you may provide and our agreement with you.
+**Information You Provide When You Do Business With Us.** If you are a vendor, service provider, or business partner of Paramount, we may collect information about you and the services you provide, including your or your employees’ business contact information and other information you or your employees provide to us as part of the services you may provide and our agreement with you.
 
 **Information you Provide Offline.** You may also provide information to us in person and offline. You may be recorded if you visit our offices (including by security surveillance of our premises, including CCTV), or attend a live performance or the taping of one of our programs as a member of the audience, or, if you submit sweepstakes entrance forms or an application to participate in one of our programs by mail or in person.
 
@@ -70,7 +70,7 @@ We also collect, use, and disclose aggregated or de-identified information that 
 
 ### Information Collected Automatically
 
-When using our Services, including on third-party platforms, we, and our service providers operating on our behalf, may automatically collect or receive certain information associated with you or your network device(s), such as your computer, mobile devices, gaming systems, smart TV, or other streaming devices. This includes information about your use of our Services and your preferences. Such information may be automatically collected through device-based tracking technologies such as cookies, pixels, tags, beacons, scripts, or other technology. For more information about cookies or other tracking technologies and the choices you have regarding the use of them, please visit our ViacomCBS Cookie Policy [https://www.viacomcbsprivacy.com/cookies](https://www.viacomcbsprivacy.com/cookies).
+When using our Services, including on third-party platforms, we, and our service providers operating on our behalf, may automatically collect or receive certain information associated with you or your network device(s), such as your computer, mobile devices, gaming systems, smart TV, or other streaming devices. This includes information about your use of our Services and your preferences. Such information may be automatically collected through device-based tracking technologies such as cookies, pixels, tags, beacons, scripts, or other technology. For more information about cookies or other tracking technologies and the choices you have regarding the use of them, please visit our Paramount Cookie Policy [https://www.viacomcbsprivacy.com/cookies](https://www.viacomcbsprivacy.com/cookies).
 
 The information we automatically collect may also include geolocation information, such as (a) information that identifies the precise location of your mobile device and (b) your IP address, which may be used to estimate your approximate location.
 
@@ -93,7 +93,7 @@ How We Use Your Information & Why
 
 **We may use information to provide you with our Services.** We may use your information to create, manage, and authenticate your account or subscriptions with us and provide you with customer support and account updates. We may use your information to complete the transactions you request and perform our contractual obligations with you or to ensure that our Services function properly.
 
-**We may use information to perform our contracts with you.** If ViacomCBS enters into a contract with you, including in instances where you may be a vendor or service provider to ViacomCBS or our business partner, we may use your information to fulfill our contractual obligations.
+**We may use information to perform our contracts with you.** If Paramount enters into a contract with you, including in instances where you may be a vendor or service provider to Paramount or our business partner, we may use your information to fulfill our contractual obligations.
 
 **We may use information for marketing purposes.** We may use your information to send promotional messages and newsletters such as via email, text messaging, or push notifications. These might be our own offers or products or third-party offers or products we think you might find interesting. To learn about your choices for these communications, read the Your Choices, Rights and Controls section of this Policy.
 
@@ -103,14 +103,14 @@ How We Use Your Information & Why
 
 **We may use information to enable you to participate in public platforms or other interactive features of the Services.** For example, we may use your information when you post comments on one of our websites.
 
-**We may use information to maintain the safety and security of our Services.** We use your information to protect the rights and property of ViacomCBS and others and to comply with our legal obligations, including to detect, investigate, and prevent fraud and other illegal activities and to enforce our agreements.
+**We may use information to maintain the safety and security of our Services.** We use your information to protect the rights and property of Paramount and others and to comply with our legal obligations, including to detect, investigate, and prevent fraud and other illegal activities and to enforce our agreements.
 
 **We may use information as otherwise permitted by law.** We may use your information to resolve disputes, enforce our agreements, and as otherwise required by law.
 
 Who We Share Your Information With & Why
 ----------------------------------------
 
-**We may share information within the ViacomCBS family of companies.** We may share information we collect about you with the ViacomCBS companies for the purposes described in the How We Use Your Information & Why section of this Policy.
+**We may share information within the Paramount family of companies.** We may share information we collect about you with the Paramount companies for the purposes described in the How We Use Your Information & Why section of this Policy.
 
 **We may share your information in connection with a corporate transaction.** We may disclose or transfer your information as part of, or during negotiations for, any purchase, sale, lease, merger, or any other type of acquisition, disposal, or financing involving our brands.
 
@@ -137,7 +137,7 @@ Your Choices, Rights, and Controls
 
 **Change or update the information you have given us.** If you have an account or subscription to one of our Services, you can correct or delete information or update account settings by logging into your account and following the instructions or by contacting the customer service team.
 
-**Control cookies and tracking tools.** To learn how we—and our vendors—use cookies and other tracking tools, please visit the ViacomCBS Cookie Policy [https://www.viacomcbsprivacy.com/cookies](https://www.viacomcbsprivacy.com/cookies).
+**Control cookies and tracking tools.** To learn how we—and our vendors—use cookies and other tracking tools, please visit the Paramount Cookie Policy [https://www.viacomcbsprivacy.com/cookies](https://www.viacomcbsprivacy.com/cookies).
 
 **Ad Choices.** We, our affiliates, and any associated third-parties may collect information on our Services and on third-party websites to help serve advertising that will be relevant to your interests across your devices, browsers, and on and off our Services. This is known as interest-based advertising. We rely on third parties who collect information on the Services to provide opt-outs or other controls to you. For more information on how to opt-out of receiving interest-based advertising on desktop and mobile websites, please visit:
 
@@ -158,7 +158,7 @@ Ad choices settings and options will vary depending on your browser and device s
 
 **Nielsen Video Measurement.** The Services may feature Nielsen proprietary measurement software that will allow you to contribute to market research, such as Nielsen’s TV Ratings. For more information about Nielsen digital measurement products, please review Nielsen’s privacy statement [https://www.nielsen.com/digitalprivacy](https://www.nielsen.com/digitalprivacy).
 
-**Connected Devices and Our Partners’ Services.** Connected devices (such as tablets, connected TVs, set top boxes, streaming devices and gaming consoles) may also use an advertising ID or other methods to identify you or serve you interest-based advertising. In some cases, you can disable tracking by selecting options like “limit ad tracking” or disabling options like “interest-based advertising” in your connected device’s settings. These options will vary by device and we do not control the policies or practices of third parties’ providing these devices. ViacomCBS is not responsible for tracking on connected devices or our business partners’ services and may not have visibility on choices you may have made with respect to tracking on connected devices or our business partners' services.
+**Connected Devices and Our Partners’ Services.** Connected devices (such as tablets, connected TVs, set top boxes, streaming devices and gaming consoles) may also use an advertising ID or other methods to identify you or serve you interest-based advertising. In some cases, you can disable tracking by selecting options like “limit ad tracking” or disabling options like “interest-based advertising” in your connected device’s settings. These options will vary by device and we do not control the policies or practices of third parties’ providing these devices. Paramount is not responsible for tracking on connected devices or our business partners’ services and may not have visibility on choices you may have made with respect to tracking on connected devices or our business partners' services.
 
 **Additional Rights.** For specific rights you may have depending on your location, please visit the [“Additional Information If You Are Located in California”](#California) or [“Additional Information if You are located Outside of the United States”](#ExternalUS) sections of this Policy.
 
@@ -222,7 +222,7 @@ CCPA metrics [https://www.viacomcbsprivacy.com/metrics/ccpa/](https://www.viacom
 
 #### **Internet/ Electronic Activity**
 
-*   Information collected through tracking tools, such as browser cookies and web beacons. To learn more about these tools and how to control them, please visit the ViacomCBS Cookie Policy [https://www.viacomcbsprivacy.com/cookies](https://www.viacomcbsprivacy.com/cookies).
+*   Information collected through tracking tools, such as browser cookies and web beacons. To learn more about these tools and how to control them, please visit the Paramount Cookie Policy [https://www.viacomcbsprivacy.com/cookies](https://www.viacomcbsprivacy.com/cookies).
 *   Information related to your location, including your IP address
 *   Passwords
 *   Device attributes
@@ -239,7 +239,7 @@ We collect Personal Information from the following sources:
 
 The categories of Personal Information listed above may be disclosed to the following categories of third parties:
 
-*   The ViacomCBS family of companies;
+*   The Paramount family of companies;
 *   In connection with a corporate transaction (e.g. any purchase, sale, lease, merger, acquisition, disposal, or financing involving our brands);
 *   Our service providers (e.g. cloud services providers, technical service providers, law firms, accounting firms, etc.);
 *   Business partners (e.g. audience measurement companies, marketing companies, sweepstakes partners, other partners who are working with us on co-branded Services or events, etc.);
@@ -275,7 +275,7 @@ The following types of information may be “sold”:
 *   Information collected through cookies and web beacons; or
 *   Device attributes.
 
-ViacomCBS does not engage in any “sales” of Personal Information of users that it has actual knowledge are minors under the age of sixteen.
+Paramount does not engage in any “sales” of Personal Information of users that it has actual knowledge are minors under the age of sixteen.
 
 **Do Not Track.** Our websites and apps are not designed to respond to “do not track” requests from browsers.
 
@@ -302,7 +302,7 @@ If you are located in the European Economic Area (the EEA,) in the United Kingdo
 *   The right of portability, which allows you to request that we share your information with others.
 *   The right to withdraw any consent to processing you have provided us.
 
-Please note that ViacomCBS does not engage in any automated decision-making about you.
+Please note that Paramount does not engage in any automated decision-making about you.
 
 **International Transfers.** Information that is collected from the EEA, the UK or Switzerland may be transferred to countries outside of the EEA, the UK or Switzerland, as applicable, that may not provide levels of protection for your Personal Information equivalent the protection provided by the laws of the European Union, the UK or Switzerland, including the United States. For the purposes of such cross-border data transfers, and to protect your information, we have executed Standard Contractual Clauses with all such Controllers and Processors located outside the EEA, the UK or Switzerland and, where necessary, implemented further measures to ensure the Personal Information is subject to equivalent protection.
 
@@ -371,15 +371,15 @@ If you are a resident of Brazil, you have certain additional rights under the Br
 *   The right to confirm the existence of the processing of your Personal Information.
 *   The right to change your marketing preferences, including the right to withdraw your consent at any time.
 *   The right to request information about the possibility of denying consent and the consequences of such denial.
-*   The right to request information about the entities, public or private, with which ViacomCBS shared your Personal Information.
+*   The right to request information about the entities, public or private, with which Paramount shared your Personal Information.
 *   The right to request anonymization, blocking or elimination when (a) you want us to establish the accuracy of the Personal Information; (b) you need the Personal Information to be maintained even if we no longer need it to establish, exercise or defend legal claims; or (c) you oppose the use of your Personal Information, unless we have verified that we have a legitimate reason for using it.
 *   The right to review automated decisions made solely on the basis of automated processing of your Personal Information that affects your interests.
 
-ViacomCBS may process your Personal Information using automated decision-making technologies that use algorithms to create a profile about you based on your interactions with our Services that automatically select advertising or content that may of interest to you. However, these technologies do not make automated decisions that may have a legal or significant effect on you without your consent, or that is not permitted under applicable law.
+Paramount may process your Personal Information using automated decision-making technologies that use algorithms to create a profile about you based on your interactions with our Services that automatically select advertising or content that may of interest to you. However, these technologies do not make automated decisions that may have a legal or significant effect on you without your consent, or that is not permitted under applicable law.
 
 ### China
 
-If you are a resident of the People’s Republic of China, your Personal Information is controlled by ViacomCBS Asia (Beijing) Advertising and Media Co. Ltd when you use our Services.
+If you are a resident of the People’s Republic of China, your Personal Information is controlled by Paramount Asia (Beijing) Advertising and Media Co. Ltd when you use our Services.
 
 We will only transfer your Personal Information outside of China with your prior express consent or after applying security measures to your data, such as de-identifying your Personal Information prior to the transfer.
 
@@ -393,15 +393,15 @@ If you are a resident of Mexico, your Personal Information is controlled by MTV 
 
 ### Japan
 
-If you are a resident of Japan, your Personal Information is controlled by ViacomCBS Networks Japan K.K. when you use our Services.
+If you are a resident of Japan, your Personal Information is controlled by Paramount Networks Japan K.K. when you use our Services.
 
 ### How to Contact Us and Exercise Your Rights:
 
 If you would like to exercise your rights or if you have any questions or concerns regarding the Privacy Policy, including contact information for the relevant data protection officer in your jurisdiction, please contact us through our Privacy Right Manager [https://www.viacomcbsprivacy.com/managemyrights](https://www.viacomcbsprivacy.com/managemyrights). If you would prefer to submit your questions or comments by mail, please send a letter to the address below:
 
-ViacomCBS
+Paramount
 
-Attention of ViacomCBS Privacy Team
+Attention of Paramount Privacy Team
 
 1515 Broadway
 
@@ -431,9 +431,9 @@ Contact Us
 
 If you have any questions about this Privacy Policy, you may contact us through our General Privacy Request form in the Privacy Rights Manager [https://www.viacomcbsprivacy.com/managemyrights](https://www.viacomcbsprivacy.com/managemyrights). If you would prefer to submit your questions or comments by mail, please send a letter to the address below:
 
-ViacomCBS
+Paramount
 
-Attention of ViacomCBS Privacy Team
+Attention of Paramount Privacy Team
 
 1515 Broadway
 
