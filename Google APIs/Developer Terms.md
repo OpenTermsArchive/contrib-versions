@@ -74,7 +74,7 @@ Additional Requirements for Specific API Scopes
 > 
 > **_For Drive Restricted Scopes:_**
 > 
-> _Enforcement of the Drive requirements in this section will go into effect early 2020. To learn more about the new Drive requirements, read our blog post, [Enhancing security controls for Google Drive third-party apps](https://cloud.google.com/blog/products/identity-security/enhancing-security-controls-for-google-drive-third-party-apps)._
+> _To learn more about the new Drive requirements, read our blog post, [Enhancing security controls for Google Drive third-party apps](https://cloud.google.com/blog/products/identity-security/enhancing-security-controls-for-google-drive-third-party-apps)._
 
 Certain [Google OAuth API Scopes](https://developers.google.com/identity/protocols/googlescopes) (the "Restricted Scopes") are subject to additional requirements in this section.
 
