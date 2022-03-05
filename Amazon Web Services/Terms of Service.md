@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-#### Last Updated: February 25, 2022
+#### Last Updated: March 4, 2022
 
 #### 1\. Universal Service Terms (Applicable to All Services)
 
@@ -838,7 +838,7 @@ If your messages sent through Amazon MQ are blocked, delayed, or prevented from 
 
 **58.1.** The distribution of files created by AWS Media Services may require that you obtain license rights from third parties, including owners or licensors of certain third party audio and video formats. You are solely responsible for obtaining such licenses and paying any necessary royalties or fees.
 
-**58.2.** AWS Elemental MediaConnect in Japan is sold and provided by AMCS LLC, an affiliate of AWS, and not AWS, but is otherwise subject to the terms of the Agreement.
+**58.2.** AWS Elemental MediaConnect and Amazon Interactive Video Service (“IVS”) in Japan are sold and provided by AMCS LLC, an affiliate of AWS, and not AWS, but are otherwise subject to the terms of the Agreement.
 
 **58.3.** AWS Elemental Media Event Management (MEM)
 
