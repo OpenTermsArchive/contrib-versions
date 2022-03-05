@@ -6,7 +6,7 @@ Google Publisher Policies
 
 [](https://support.google.com/adsense/answer/1282103?hl=en&ref_topic=1250104)[Next: Google Publisher Restrictions](https://support.google.com/adsense/answer/10437795?hl=en&ref_topic=1250104)
 
-**(March 3, 2022)** Due to the ongoing war in Ukraine, we will be temporarily pausing Google ads from serving to users located in Russia.
+**(March 3, 2022)** Due to the ongoing war in Ukraine, we will be temporarily pausing ads from serving to users located in Russia.
 
 **(February 26, 2022)** In light of the war in Ukraine, we are pausing Google’s monetization of Russian Federation state-funded media. 
 
