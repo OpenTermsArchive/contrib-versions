@@ -15,7 +15,7 @@ The only things I keep are:
 *   Information you submit (segments, votes)
 *   A hashed version of your userID (a randomly generated value assigned when you first install the extension)
 *   The time the submission happened
-*   A hashed + salted version of your ip address. My server can check if the same IP is posting too many things. No hacker or anyone who downloads the database file from the above link should be able to get any personal info. The IP is hashed (one-way function) which makes a hacker have to use brute-force if they want to determine the IP of a transaction and makes it impossible if they don't have access to the salt.
+*   A hashed + salted version of your ip address for ratelimiting. This process makes it close to impossible to retrieve the original value if they don't have access to the salt.
 *   The name of your client (if using an extension, another port, etc.)
 
 The extention also optionally logs whenever you skip a segment. This is used to let other users know how much their submissions have helped others (leaderboard). The skip tracking is completely anonymous and can be disabled in settings.
