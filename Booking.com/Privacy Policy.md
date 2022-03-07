@@ -297,6 +297,8 @@ In certain circumstances, we’ll share your personal data with third parties. T
         
     *   Fraud detection and prevention (including anti-fraud screening)
         
+    *   Insurance claims
+        
     *   Payment
         
         We use third parties to process payments, handle chargebacks or provide billing collection services. When a chargeback is requested for your Trip Reservation, either by you or by the holder of the credit card used to make your reservation, we need to share certain reservation details with the payment service provider and the relevant financial institution so they can handle the chargeback. This may also include a copy of your reservation confirmation or the IP address used to make your reservation. We may share information with relevant financial institutions, if we consider it strictly necessary for fraud detection and prevention purposes.
@@ -323,11 +325,13 @@ In certain circumstances, we’ll share your personal data with third parties. T
     
     For fraud detection and prevention purposes, we may also exchange information about our users with business partners – but only when strictly necessary
     
+7.  If an insurance claim is made, concerning you and a Trip Provider, we may provide the necessary data (including personal data) to the insurance company for further processing.
+    
     *   Partner Offer: We may present you with a ‘Partner Offer’. When you book a stay marked ‘Partner Offer’, your reservation will be facilitated by a Trip Provider who is separate from the accommodation you’re booking. As part of the reservation process, we’ll need to share some relevant personal data with this business partner.
         
         If you book a Partner Offer, please review the information provided in the booking process or check your reservation confirmation for more information about the Trip Provider and how your personal data will be further processed by them.
         
-7.  The Booking Holdings Inc. corporate group: Read about [how we share your personal data with the Booking Holdings Inc. corporate group](https://www.booking.com/content/privacy.en-gb.html#personal-data-holdings-shared-how).
+8.  The Booking Holdings Inc. corporate group: Read about [how we share your personal data with the Booking Holdings Inc. corporate group](https://www.booking.com/content/privacy.en-gb.html#personal-data-holdings-shared-how).
     
 
 Booking.com is a global business. The data that we collect from you, as described in this Privacy Statement, could be made accessible from, transferred to or stored in countries which may not have the same data protection laws as the country in which you initially provided the information. In such cases, we will protect your data as described in this Privacy Statement.
