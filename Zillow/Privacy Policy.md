@@ -3,7 +3,7 @@ Privacy Policy
 
 The information we collect, why we use it, who we share it with, and how we protect it, along with the tools you can use to manage your privacy.
 
-**Effective Date:** January 29, 2021
+**Effective Date:** March 7, 2021
 
 When you use Zillow Group services to find, buy, rent, or sell your home, get a mortgage, or connect to a real estate pro, we know you’re trusting us with your data. We also know we have a responsibility to respect your privacy, and we work hard to do just that.  This policy explains what information we collect, why we use it, who we share it with, and how we protect it, along with the tools you can use to manage your privacy.
 
@@ -61,11 +61,11 @@ You can also claim your home on Zillow and edit home facts such as the square fo
 
 You can use Zillow to apply for rental housing, sign your lease, and even pay your rent.  When you choose to use these features, we collect information from you to process your transaction.
 
-During the rental application process, we collect your information like your email address and phone number, employment history, rental history, income, and credit score.  You can use our tools to pull your credit report and criminal background check to include in your application, but Zillow doesn’t store your Social Security number and we don’t collect or see the credit or background check reports. We partner with Experian and Checkr to generate those reports and make them available only to you and the landlords you choose to send them to.
+During the rental application process, we collect your information like your email address and phone number, employment history, rental history, income, and credit score.  You can use our tools to pull your credit report and criminal background check to include in your application, but Zillow doesn’t store your Social Security number and we don’t collect or see the credit or background check reports. We partner with Experian and Checkr to generate those reports and make them available only to you and the landlords you choose to send them to. Your landlord may retain copies of your application and any related documents you submit. Any copies retained by your landlord are subject to the privacy policies of your landlord.
 
 When you pay your rent through Zillow, we collect your transaction information, but we don’t store your payment account details.  Instead, we use trusted partners to collect and store that data.  If you use your bank account to pay your rent, our service provider Plaid collects personal and financial information from your bank or other financial institution. By using Zillow to make your rent payments, you are granting Zillow and Plaid the right, power, and authority to act on your behalf to access and transmit your personal and financial information from the relevant financial institution. Your information will be transferred, stored, and processed by Plaid in accordance with the [Plaid Privacy Policy](https://plaid.com/legal).
 
-If you sign your lease documents through Zillow, we will collect and store your contact information, signature, and any other information contained in the lease documents, which can vary by state and city.
+If you sign your lease documents through Zillow, we will collect and store your contact information, signature, and any other information contained in the lease documents, which can vary by state and city. In certain cases, your landlord may direct Zillow to share certain information you provide in your application, details of your payment transactions, or a copy of your lease with third parties for business purposes, such as for the purpose of purchasing insurance.
 
 ### **Zillow Home Loans and Zillow Closing Services**
 
