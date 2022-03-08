@@ -49,4 +49,4 @@ Example:
 
 *   A broadcast that only contains a poll
 
-![](https://facebook.com/security/hsts-pixel.gif?c=3.2)
+![](https://facebook.com/security/hsts-pixel.gif)
