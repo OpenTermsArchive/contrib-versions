@@ -1,9 +1,9 @@
 Privacy Notice
 ==============
 
-#### Last Updated: February 4, 2022
+#### Last Updated: March 8, 2022
 
-To see prior version, click [here](https://aws.amazon.com/privacy/20200814-privacy1/).
+To see prior version, click [here](https://aws.amazon.com/privacy/prior-version-20220204).
 
 This Privacy Notice describes how we collect and use your personal information in relation to AWS websites, applications, products, services, events, and experiences that reference this Privacy Notice (together, “AWS Offerings”).
 
@@ -264,9 +264,13 @@ We provide additional information about the privacy, collection, and use of pers
     
 *   South Korea
     
+    AWS does not knowingly collect personal information from children under the age of 14 without the consent of the child's parent or guardian. 
+    
+    **How We Share Personal Information**
+    
     AWS may share personal information as described in this Privacy Notice, including with affiliates of Amazon Web Services, Inc.  
     
-    AWS has contracts in place with the following third party service provider(s) to perform functions on behalf of AWS in Korea, and they may have access to your personal information as needed to perform their functions described below:  
+    AWS has contracts in place with the following third party service provider(s) (delegatees) to perform functions on behalf of AWS in Korea, and they may have access to your personal information as needed to perform their functions described below:  
     
     |     |     |
     | --- | --- |
@@ -278,21 +282,38 @@ We provide additional information about the privacy, collection, and use of pers
     | Salesforce | Customer relationship management |
     | General Agent | Domestic agent |
     
+    AWS may share your personal information with the following third party service provider(s) outside of Korea as described below: 
+    
+    |     |     |     |     |     |     |
+    | --- | --- | --- | --- | --- | --- |
+    | _**Name of Party (Contact Information)**_ | _**Country**_ | _**Transferred Items**_ | _**Purpose of Transfer**_ | _**Date and Method of Transfer**_ | _**Period of Retention**_ |
+    | Marketo  <br>(privacyofficer@marketo.com) | United States | Personal information as described in this Privacy Notice | Customer communications | Transmission of data through information network as needed | As disclosed in the Privacy Notice |
+    | Salesforce  <br>(privacy@salesforce.com) | United States | Personal information as described in this Privacy Notice | Customer Relationship Management | Transmission of data through information network as needed | As disclosed in the Privacy Notice |
+    | PaymentTech<br><br>(+1-800-935-9935) | United States | Personal information as described in this Privacy Notice | Payment Instrument Processing | Transmission of data through information network as needed | As disclosed in the Privacy Notice |
+    
+    **Deletion of Personal Information** 
+    
     AWS will delete your personal information (including after closure of your AWS account) as described in this Privacy Notice. When deleting personal information, AWS will take standard commercially reasonable measures to make the personal information practically irrecoverable or irreproducible. The specific manner of deletion will depend on the information being deleted, how the information was collected and stored, and your interactions with us. Electronic documents or files containing personal information will be deleted using a technical method that makes recovery or retrieval of such information practically impossible or renders the data no longer personally identifiable. Non-electronic documents or files containing personal information will be shredded, incinerated, or both.  
     
-    Domestic Agent Information
+    **Retention of Personal Information**  
+    
+    AWS Korea keeps your personal information to enable your continued use of AWS Offerings, for as long as it is required in order to fulfill the relevant purposes described in this Privacy Notice, as may be required by law (including for tax and accounting purposes as may be required by the Framework Act on National Taxes of Republic of Korea or other laws), or as otherwise communicated to you. How long we retain specific personal information varies depending on the purpose for its use, and we will delete your personal information in accordance with applicable law.
+    
+    **Domestic Agent Information**
     
     The information of Domestic Agent based on the Personal Information Protect Act is as follows:
     
-    Name and representative: General Agent Co., Ltd. (Representative: Young Soo-Kim)  
+    Name and representative: General Agent Co., Ltd. (Representative: Eun Mi Kim)  
     Address: 28, Saemunan-ro 5ga-gil Jongno-gu, Seoul  
     Telephone number: (02) 735 6888  
-    Email address:AWS@generalagent.co.kr  
+    Email address: AWS@generalagent.co.kr  
     
     If you have any privacy questions or requests please contact:
     
     AWS Korea Privacy  
     Email: aws-korea-privacy@amazon.com  
+    
+    Korean translation of this Privacy Notice can be found [here](https://aws.amazon.com/ko/privacy/).  
     
 
 #### Examples of Information Collected
