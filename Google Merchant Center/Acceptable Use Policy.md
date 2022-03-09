@@ -63,11 +63,11 @@ Click through the policies below for policy definitions, examples and troublesho
 
 #### [Unsupported Shopping ads content](https://support.google.com/merchants/merchants/answer/6150006)
 
-> Google aims to enable businesses to promote a wide variety of products, but some Google products and platforms may not be optimised to appropriately support all content types. 
+> Google aims to enable businesses to promote a wide variety of products, but some Google products and platforms may not be optimised to appropriately support all content types.
 > 
-> For this reason, Shopping ads don't allow the promotion of certain content where we don't offer an optimal user experience.
+> For this reason, Shopping ads and free product listings don't allow the promotion of certain content where we don't offer an optimal user experience.
 > 
-> Note that because these limitations are specific to Shopping ads, they do not impact policies on other Google products or platforms, where functionality differs or additional support mechanisms are in place.
+> Note that because these limitations are specific to Shopping ads and free listings, they do not impact policies on other Google products or platforms, where functionality differs or additional support mechanisms are in place.
 
   
 
