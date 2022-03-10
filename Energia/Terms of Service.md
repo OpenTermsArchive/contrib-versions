@@ -619,13 +619,13 @@ Total discount is based on opting in to our Renewal Price Plan.  You must pay y
 Discounts are against Energia Standard Unit Rates.  Standing Charges also apply.  VAT applies at 13.5%.  The Public Service Obligation (PSO) Levy has been set at €7.40 (inc VAT) per month from 1st of October 2020.  
 This applies to all domestic electricity customers irrespective of supplier.  The Carbon Tax has been set at 0.54 (inc. VAT) per c/kWh.  This tax applies to all domestic natural gas customers, irrespective of supplier.   
    
-Your Renewal tariff discounts will apply for a period of one year from the date you opt in to the Renwal Price Plan.  After one year you will revert to Energia standard unit rates.  Once you have signed up to an Energia Renewal Tariff, there is a 14 day Cooling Off period, during which you may choose to cancel your agreement to renew. There is no penalty for cancelling during the Cooling Off period. If you cancel your service any time after the Cooling Off period and before the end of your contract, a termination fee of €50 per fuel will apply.   
+Your renewal discount will be applied for 12 months and will begin on either your next bill or the one following that, depending on your billing cycle. After one year you will revert to Energia standard unit rates.  Once you have signed up to an Energia Renewal Tariff, there is a 14 day Cooling Off period, during which you may choose to cancel your agreement to renew. There is no penalty for cancelling during the Cooling Off period. If you cancel your service any time after the Cooling Off period and before the end of your contract, a termination fee of €50 per fuel will apply.   
    
 All prices are subject to change as per our General Terms and Conditions above.
 
 31\. Free Gas Boiler Offer
 
-See [here](https://www.energia.ie/getmedia/21901f8b-a1e5-46da-8ad0-02da472cd8f9/Customer-Terms-and-Conditions.pdf.aspx;) for Limited Offer Free Boiler Servicing Terms & Conditions.
+[See here](https://www.energia.ie/getattachment/Privacy-2018/Terms-Conditions/Earlybird-Gas-Boiler-Offer/Supplementary-Energia-TCs-Extended-June-2022.pdf.aspx;?lang=en-IE) for Limited Offer Free Boiler Servicing Terms & Conditions.
 
 32\. Pic Of The Month
 
