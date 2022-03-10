@@ -62,7 +62,7 @@ Qwant does not use ad tracking cookies or any other techniques to recognize you,
 Do you use ad cookies?
 ----------------------
 
-No. We only use one cookie to remember your technical preferences for using Qwant, so that on the same device these preferences stay the same from one search to another. This cookie does not contain any advertising identifiers and is not accessible to third parties. Subsequently, we do not do not integrate any cookies or other tracking technologies provided by advertising agencies or other partners (see [our cookie policy](https://help.qwant.com/help/qwant-search/settings/how-are-my-preferences-saved-on-qwant/) for more details). 
+No. We only use one cookie to remember your technical preferences for using Qwant, so that on the same device these preferences stay the same from one search to another. This cookie does not contain any advertising identifiers and is not accessible to third parties. Subsequently, we do not do not integrate any cookies or other tracking technologies provided by advertising agencies or other partners (see [our cookie policy](https://about.qwant.com/en/legal/confidentialite/cookie-policy/) for more details). 
 
 Why are you transferring data to Microsoft, and what data is it?
 ----------------------------------------------------------------
@@ -92,7 +92,7 @@ When you use Qwant as a search engine, **we do not set any advertising cookie** 
 
 We also undertake to make every effort to guarantee the security and confidentiality of our users’ personal data and in particular to prevent such data from being altered, deleted or accessed by unauthorized third parties. The URL of Qwant begins with “HTTPS”, which indicates to users that they are communicating their data securely through the TLS protocol. Technically, the TLS guarantees visitors that their data cannot be intercepted while in transit over the network in a fraudulent or accidental manner. In addition, the padlock that appears in front of the Qwant URL on most browsers certifies that you are browsing a secure site.
 
-By default, we do not install any cookie on your browser. We use your browser’s “local storage” technology to store your browser settings (language, enabling or disabling options) on your device. If you change these technical parameters, a cookie may be installed on your browser, exclusively for the purpose of preserving these parameters. You have the possibility to delete the “local storage” data or the cookie from your browser. For more information, please see our cookie policy.
+By default, we do not install any cookie on your browser. We use your browser’s “local storage” technology to store your browser settings (language, enabling or disabling options) on your device. If you change these technical parameters, a cookie may be installed on your browser, exclusively for the purpose of preserving these parameters. You have the possibility to delete the “local storage” data or the cookie from your browser. For more information, please see [our cookie policy](https://about.qwant.com/en/legal/confidentialite/cookie-policy/).
 
 However, the provision of a search engine requires some data processing. The following section of this Privacy Policy is therefore intended to explain in detail when we need to process information about you, why we collect certain data, the methods we use to pseudonymize data, how we use it, and the identity of our partners when data is transferred to them. It also reminds you of your rights and how to exercise them with Qwant.
 
@@ -261,7 +261,7 @@ Data protection regulation grants you specific rights over your data and its pro
 
 Qwant has designated a **Data Protection Officer (DPO)** to the CNIL (the French data protection authority), with whom you can exercise each of these rights:
 
-*   by writing by mail to QWANT – Direction Ethique & Affaires Juridiques, Crystal Park building, 63 Rue de Villiers, 92200 Neuilly-sur-Seine, France ;
+*   by writing by mail to QWANT – Service juridique, 10 boulevard Haussmann 75009 Paris, France ;
 *   or by e-mailing [dpo@qwant.net](mailto:dpo@qwant.net)
 
 Right to access
@@ -291,7 +291,7 @@ Right to erasure and “right to be forgotten”.
 
 This right gives you the possibility to have your data deleted as soon as possible by Qwant.
 
-Concretely, you have the possibility to delete your account by following instructions detailed [here](https://help.qwant.com/help/qwant-search/my-account/how-close-qwant-account/). As of the request to close the account, the data you have provided will then be deleted after 7 days, subject to our legal and regulatory obligations.
+Concretely, you have the possibility to delete your account by following instructions detailed [here](https://help.qwant.com/en/docs/overview/how-to-exercise-my-right-to-be-forgotten/). As of the request to close the account, the data you have provided will then be deleted after 7 days, subject to our legal and regulatory obligations.
 
 Similarly, you may request deletion of your job application if you no longer wish it to be processed by Qwant. Upon receipt of your request to close your application file, all data you have provided will then be deleted as soon as possible and within 15 days of your request at the latest.
 
@@ -299,7 +299,7 @@ Finally, you can request the deletion of the data collected via the information 
 
 The information related to the exercise of the right of deletion of your data is kept for one year from the date of Qwant’s reply and then deleted after this period has expired.
 
-You have a specific right reserved for private individuals recognized for search engine users by the Court of Justice of the European Union (ECJ), known as the “right to be forgotten”. When the search composed of your name and surname leads to results that are inaccurate, obsolete, sensitive or excessive, you can send us a request for dereferencing of the web page(s) associated with your name and surname by filling out our specific form in [ODT](https://about.qwant.com/wp-content/uploads/dlm_uploads/2017/02/delisting.odt) or [PDF](https://about.qwant.com/wp-content/uploads/dlm_uploads/2017/02/delisting.pdf) format. Your request will be examined on a case-by-case basis, and the URL(s) mentioned will be removed from the results of this search, provided that the balance of interests involved does not impose a preference for the public’s right to information (for example, if you are an elected official seeking to have a controversial political statement omitted).
+You have a specific right reserved for private individuals recognized for search engine users by the Court of Justice of the European Union (ECJ), known as the “right to be forgotten”. When the search composed of your name and surname leads to results that are inaccurate, obsolete, sensitive or excessive, you can send us a request for dereferencing of the web page(s) associated with your name and surname by filling out [our specific form](https://report.qwant.com/removal/en). Your request will be examined on a case-by-case basis, and the URL(s) mentioned will be removed from the results of this search, provided that the balance of interests involved does not impose a preference for the public’s right to information (for example, if you are an elected official seeking to have a controversial political statement omitted).
 
 Information related to the exercise of this right to be forgotten (e.g., your contact information) is archived one year after the date of Qwant’s response and is permanently deleted after the statutory limitation period (three years).
 
@@ -336,4 +336,4 @@ What data is processed for the Qwant mobile application on Android and iOS?
 
 We do not integrate any tracker in our applications nor any advertising ID. Qwant does not process any specific personal data when you use the Qwant application for Android or iOS. The processing of personal data carried out by Qwant during your navigation and use of our Services from the application are exclusively those described above.
 
-*   Last update: October 20, 2021
+*   Last update: March 10, 2022
