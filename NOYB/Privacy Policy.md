@@ -45,7 +45,17 @@ This privacy policy covers noyb.eu, support.noyb.eu and the noyb.eu newsletters.
 **It’s simple:** We currently cannot really guarantee other people’s compliance – but working on this issue is exactly the purpose of _noyb_!  
 **More Details:** If you click on any button that allows you to share our page (e.g. Twitter or Facebook) or follow a link to a third party page, you will be redirected to this other page; you are then subject to the privacy policy of this third party. We currently cannot guarantee these third parties’ compliance with the GDPR – but with your help we are working on their GDPR compliance too!  
 
-**(5) In all cases, you have the following rights**
+**(5) When you send us a message via our ticket system**
+
+**It’s simple:** If you send us an general request (e.g. via our webform or at our general email address) your emails go into a ticket system. Our team is then assigneing the ticket to a colleague and you will get an answer from us.  
+**Purpose:** Assigning the ticket to a team member and responding to your request.  
+**Storage:** Tickets are automatically deleted within 6 months from the last communication, unless there is a legal duty to keep the ticket, such as accounting regulations or keeping evidence of legal requests.  
+**Legal Basis:** Your consent when sending us an email ("affirmative action" when sending an email to a recipient) and, in certain cases, our legitimate interest or legal duty to keep communication as evidence.  
+**Processors:** We may use trustworthy processors that only process your personal data on our behalf (“processors”). The particular provider may be subject to change over time. Currently all our core systems, including our ticket system, are hosted on our own servers.  
+**Other Recipients:** None. We do not transfer your data to any other recipients.  
+**Third Country Transfers:** None. We process your data within the EEA/EU.  
+
+**(6) In all cases, you have the following rights**
 
 **It’s simple:** Just send us a message at [info@noyb.eu](mailto:info@noyb.eu "mailto:info@noyb.eu") and we’ll take care of things!  
 **More Details:** You have the right to access, to rectify, to erasure, to object, to restrict processing, to data portability, to withdraw your consent and to launch a complaint with your local data protection authority. We are governed by the Austrian data protection authority (“Datenschutzbehörde”).
