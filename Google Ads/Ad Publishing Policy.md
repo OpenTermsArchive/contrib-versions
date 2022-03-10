@@ -6,6 +6,8 @@ Google Publisher Policies
 
 [](https://support.google.com/adsense/answer/1282103?hl=en&ref_topic=1250104)[Next: Google Publisher Restrictions](https://support.google.com/adsense/answer/10437795?hl=en&ref_topic=1250104)
 
+**(March 10, 2022)** Given the recent suspension of Google advertising systems in Russia, we’ll be pausing the creation of new Russian accounts on AdSense, AdMob and Google Ad Manager. Additionally, we will pause ads on Google properties and networks globally for advertisers based in Russia.
+
 **(March 3, 2022)** Due to the ongoing war in Ukraine, we will be temporarily pausing ads from serving to users located in Russia.
 
 **(February 26, 2022)** In light of the war in Ukraine, we are pausing Google’s monetization of Russian Federation state-funded media. 
