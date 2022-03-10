@@ -20,9 +20,9 @@ Our policies cover four broad areas:
 
 *   ![Google Ads policies | prohibited content](//storage.googleapis.com/support-kms-prod/RrjdySjRxcYJL3NpcXaobwTxuk7zctDbL8rX "Google Ads policies | prohibited content") **[Prohibited content](#con):** Content that you're not allowed to promote on the Google Network  
      
-*   ![Google Ads policies | prohibited practice](//storage.googleapis.com/support-kms-prod/aYpRwkWqocXCGj8TVXwShJAbVpbcYO9qABIs "Google Ads policies | prohibited practice") **[Prohibited practices](#pra):** Things you can't do if you want to advertise with us  
+*   ![Google Ads policies | prohibited practice](//storage.googleapis.com/support-kms-prod/aYpRwkWqocXCGj8TVXwShJAbVpbcYO9qABIs "Google Ads policies | prohibited practice") **[Prohibited practices](#pra):** Things that you can't do if you want to advertise with us  
      
-*   ![Google Ads policies | restricted content](//storage.googleapis.com/support-kms-prod/tNErobNFH6ZkSwZtpMfEXrQkhCi1uMdPn3ur "Google Ads policies | restricted content") **[Restricted content](#res):** Content you can advertise, but with limitations  
+*   ![Google Ads policies | restricted content](//storage.googleapis.com/support-kms-prod/tNErobNFH6ZkSwZtpMfEXrQkhCi1uMdPn3ur "Google Ads policies | restricted content") **[Restricted content](#res):** Content that you can advertise, but with limitations  
      
 *   ![Google Ads policies | editorial and technical content](//storage.googleapis.com/support-kms-prod/MIXDdIdSQ69Eq1NzuL5dUJjHRDYr9sjXX3wp "Google Ads policies | editorial and technical content") **[Editorial and technical](#ed):** Quality standards for your ads and website  
      
@@ -182,7 +182,7 @@ For that reason, we allow promotion of the content below, but on a limited basis
 
 > Shopping ads don't restrict use of trademarks by merchants in the title or description of an ad when it's for a trademarked product or a product compatible with the trademarked product. Merchants need to reference trademarks to be able communicate to users what they're offering, and users need that information as it's relevant to their searches. We'll review claims by trademark owners that use of their trademark is likely to cause consumer confusion about the origin of a product. To submit a trademark-related complaint if you're an owner of the trademark, [use this form](https://support.google.com/merchants/contact/policy).
 
-#### [High fat, sugar and salt food and beverage](https://support.google.com/merchants/merchants/answer/11191042)
+#### [High-fat, -sugar and -salt food and beverage](https://support.google.com/merchants/merchants/answer/11191042)
 
 > We support responsible advertising of food and beverages. High fat, sugar and salt (HFSS) food and beverage (F&B) Shopping ads are allowed if they comply with our policies. We consider ads to be promoting the sale of HFSS products when one or more HFSS food item, beverage or meal is promoted in the ad (text, imagery, audio and/or video) or destination site. Specifically, Shopping ads that contain HFSS foods and beverages are now prohibited from targeting minors.
 > 
