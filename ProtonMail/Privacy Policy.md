@@ -4,7 +4,7 @@ Privacy Policy
 _Last modified: September 6th, 2021_
 
 By using the protonmail.com website and making use of ProtonMail, Proton Drive and Proton Calendar (the "Services"), you understand that your data in relation with your use of our Services is processed according to the following Privacy Policy.  
-The Services are offered by Proton Technologies AG (the "Company" or "We").  
+The Services are offered by Proton AG (the "Company" or "We").  
 This Privacy Policy explains (i) what information we collect through your access and use of our Services (ii) the use we make of such information; and (iii) the security level we provide for protecting such information. This Privacy Policy is to be read and understood as being a complement to our [Terms and Conditions](https://protonmail.com/terms-and-conditions).
 
 Legal Framework
@@ -12,7 +12,7 @@ Legal Framework
 
 The Company is domiciled in Switzerland at the following address:
 
-Proton Technologies AG, Route de la Galaise 32, 1228 Plan-les-Ouates Geneva, Switzerland
+Proton AG, Route de la Galaise 32, 1228 Plan-les-Ouates Geneva, Switzerland
 
 Therefore, it is governed by the laws and regulations of Switzerland. Additional information about the legal framework can be found in our [Transparency Report](https://protonmail.com/blog/transparency-report/).
 
