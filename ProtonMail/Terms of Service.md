@@ -1,7 +1,7 @@
 Terms and Conditions
 ====================
 
-By using the protonmail.com web site and making use of ProtonMail, a service offered by Proton Technologies AG (“the Company”), you are agreeing to be bound by the following Terms and Conditions. These Terms and Conditions cover all present and future features provided by your ProtonMail account (including but not limited to ProtonMail, ProtonContacts, ProtonCalendar and ProtonDrive), individually and collectively referred to as the “Service”.
+By using the protonmail.com web site and making use of ProtonMail, a service offered by Proton AG (“the Company”), you are agreeing to be bound by the following Terms and Conditions. These Terms and Conditions cover all present and future features provided by your ProtonMail account (including but not limited to ProtonMail, ProtonContacts, ProtonCalendar and ProtonDrive), individually and collectively referred to as the “Service”.
 
 If you are agreeing to these Terms and Conditions on behalf of a company or another legal entity, you represent that you have the authority to bind such entity, its affiliates and all users who access the Service through your account to these Terms and Conditions. In the absence of such an authority, you may not use the Service.
 
