@@ -85,6 +85,13 @@ Please email me with your request.
 
 The extension uses the YouTube API on the server-side to verify that submissions are for valid videos, and provide information about videos that have been downvoted to moderators. The use of the YouTube API is governed by the [Google Privacy Policy](https://policies.google.com/privacy) and the [YouTube Terms of Service](https://www.youtube.com/t/terms)
 
+[](#error-logging-and-cloudflare)Error logging and Cloudflare
+-------------------------------------------------------------
+
+While I try to keep it's use to a minimum, I sometimes have to enable Cloudflare proxy to reduce load on the servers. I don't use it most of the time. When it is enabled, it logs some information, such as the active user and location of connecting IPs that I cannot disable. More information can be found at [https://www.cloudflare.com/privacypolicy/](https://www.cloudflare.com/privacypolicy/)
+
+I sometimes need to enable error logging in nginx. This does log IPs associated with the errors (not all requests), which I can't disabled, but I will delete these logs within 72 hours whenever they happen.
+
 [](#additional-info)Additional Info
 -----------------------------------
 
