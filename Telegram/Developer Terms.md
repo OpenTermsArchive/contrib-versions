@@ -3,7 +3,7 @@ Telegram API Terms of Service
 
 We welcome all developers to use our API and source code to [create Telegram-like messaging applications](https://core.telegram.org/api/obtaining_api_id) on our platform free of charge. In order to ensure consistency and security across the Telegram ecosystem, all third-party client apps must comply with the following Terms of Service.
 
-#### [](#1-privacy-amp-security)1\. Privacy & Security
+#### [](#1-privacy--security)1\. Privacy & Security
 
 **1.1.** Telegram is a privacy-oriented platform. All client apps must, therefore, guard their users' privacy with utmost care and comply with our [Security Guidelines](https://core.telegram.org/mtproto/security_guidelines).  
 **1.2.** Developers are welcome to add new features or improve and extend existing Telegram features provided that these modifications do not violate these Terms of Service.  
@@ -17,11 +17,10 @@ We welcome all developers to use our API and source code to [create Telegram-lik
 **2.3.** To avoid confusion, the title of your app must not include the word “Telegram”. An exception can be made if the word “Telegram” is preceded with the word “Unofficial” in the title.  
 **2.4.** You must not use the official Telegram logo for your app. Both the Telegram brand and its logo are registered trademarks protected by law in almost every country.
 
-#### [](#3-advertising-amp-monetization)3\. Advertising & Monetization
+#### [](#3-advertising--monetization)3\. Advertising & Monetization
 
 **3.1.** Developers are allowed to monetize their coding efforts through advertising or other legitimate means.  
-**3.2.** If you decide to monetize your app, you must clearly mention all the methods of monetization that are used in your app in all its app store descriptions.  
-**3.3.** If your app allows accessing content from Telegram [channels](https://telegram.org/tour/channels), you must include support for [official sponsored messages](https://core.telegram.org/api/sponsored-messages) in Telegram channels and may not interefere with this functionality.
+**3.2.** If you decide to monetize your app, you must clearly mention all the methods of monetization that are used in your app in all its app store descriptions. **3.3.** If your app allows accessing content from Telegram [channels](https://telegram.org/tour/channels), you must include support for [official sponsored messages](https://core.telegram.org/api/sponsored-messages) in Telegram channels and may not interfere with this functionality.
 
 #### [](#4-breach-of-terms)4\. Breach of terms
 
