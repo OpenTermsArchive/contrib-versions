@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-#### Last Updated: March 4, 2022
+#### Last Updated: March 11, 2022
 
 #### 1\. Universal Service Terms (Applicable to All Services)
 
@@ -51,7 +51,7 @@ If, as of the time of a change of the AWS Contracting Party responsible for your
 
 **1.16.** Your receipt and use of any Promotional Credits is subject to the [AWS Promotional Credit Terms & Conditions](https://aws.amazon.com/awscredits/).
 
-**1.17.** Payment Currency
+**1.17. Payment Currency**
 
 **1.17.1** AWS provides a Service that enables payment in certain currencies (“Payment Currency”) other than United States dollars when you purchase certain Services from AWS (the “Currency Service”). When you purchase Services in certain countries outside of the United States, we may require you, because of currency controls or other factors, to use the Currency Service. When using the Currency Service you are not tendering payment in one currency and receiving from us another currency.
 
@@ -70,6 +70,16 @@ If, as of the time of a change of the AWS Contracting Party responsible for your
 **1.20.** We may use information about how you use and interact with the Services to improve those Services.  
 
 **1.21**. Information included in resource identifiers, metadata tags, access controls, rules, usage policies, permissions, and similar items related to the management of AWS resources does not constitute Your Content. AWS recommends that you do not include personally identifying, confidential, or sensitive information in these items.  
+
+**1.22. Tax Exempt Status** 
+
+**1.22.1** To request tax exempt status for your AWS account, you must provide us with a valid tax exemption certificate or other equivalent documentation for the relevant jurisdiction.  You are responsible for updating such documentation so it is accurate at all times.  
+
+**1.22.2** In certain jurisdictions (as noted in the [AWS Tax Help](https://aws.amazon.com/tax-help/) pages), you may only use your tax-exempt account to purchase services that are eligible for tax exemption. If you do not use services for the purpose for which your tax exemption applies, you are responsible for reporting and paying sales and use taxes for that usage directly to the relevant tax authorities to the extent required by law. 
+
+**1.22.3** If you are required by law to pay us using your organization’s funds to qualify for your tax exemption, you warrant that purchases on your account will be made with the tax-exempt organization’s funds. 
+
+**1.22.4** We may, in our sole discretion, reject your request for tax exempt status or revoke the tax exempt status of your account at any time.  
 
 #### 2\. Betas and Previews
 
