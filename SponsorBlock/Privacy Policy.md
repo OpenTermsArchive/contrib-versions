@@ -88,9 +88,9 @@ The extension uses the YouTube API on the server-side to verify that submissions
 [](#error-logging-and-cloudflare)Error logging and Cloudflare
 -------------------------------------------------------------
 
-While I try to keep it's use to a minimum, I sometimes have to enable Cloudflare proxy to reduce load on the servers. I don't use it most of the time. When it is enabled, it logs some information, such as the active user and location of connecting IPs that I cannot disable. More information can be found at [https://www.cloudflare.com/privacypolicy/](https://www.cloudflare.com/privacypolicy/)
+While I try to keep it's use to a minimum, I sometimes have to enable Cloudflare proxy to reduce load on the servers. I don't use it most of the time. When it is enabled, it logs some information, such as the number and location of connecting IPs. More information can be found at [https://www.cloudflare.com/privacypolicy/](https://www.cloudflare.com/privacypolicy/)
 
-I sometimes need to enable error logging in nginx. This does log IPs associated with the errors (not all requests), which I can't disabled, but I will delete these logs within 72 hours whenever they happen.
+I sometimes need to enable error logging in nginx. This does log IPs associated with connection errors (not all requests), but I will delete these logs within 72 hours whenever that is enabled.
 
 [](#additional-info)Additional Info
 -----------------------------------
