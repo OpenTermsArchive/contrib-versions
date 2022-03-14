@@ -1,7 +1,7 @@
 **Vimeo Terms of Service**
 ==========================
 
-Last Updated: June 16, 2021
+Last Updated: March 14, 2022
 
 This **Vimeo Terms of Service Agreement** (the “**Agreement**” or “**Terms of Service**”) is made between Vimeo.com, Inc. (“**Vimeo**,” “**we**,” “**us**,” or “**our**”) and you, our customer (“**you**” or “**your**”). This Agreement governs your use of Vimeo owned-and-operated websites, applications, and embeddable video players (collectively, the “**Services**”). This includes our Vimeo, Vimeo OTT, and Livestream services. Your use of our Magisto, Chant, and Videofy services is governed exclusively by the [Vimeo Creator Tools Terms of Service Agreement](https://www.magisto.com/tos).
 
@@ -46,8 +46,7 @@ This Agreement includes our [Privacy Policy](https://vimeo.com/privacy) and th
 
 **Features:** The features available to you will depend on your plan. We may change features from time to time. If you have a paid account, we commit to providing the core video hosting and streaming features of your plan (including the bandwidth and storage capabilities stated at the time of purchase) during your current service period.
 
-**Unlimited Bandwidth Fair Use Policy:** Generally, we do not limit or impose additional fees for bandwidth consumption on Self-Serve accounts (i.e. the data used in order to deliver your videos to viewers). However, this policy is subject to fair use: If your aggregate bandwidth usage (across all accounts you control) is higher than 99% of Self-Serve users on our platform in any calendar month, we may, in our discretion, charge fees for excessive usage, require you to upgrade to a more suitable plan, or terminate your account(s) upon advance written notice.  
-For more information on bandwidth and our fair use policy, please see our [Bandwidth on Vimeo](https://vimeo.zendesk.com/hc/en-us/articles/360037761072-Bandwidth-on-Vimeo-) article.
+**Unlimited Bandwidth Fair Use Policy:** Generally, we do not limit or impose additional fees for bandwidth consumption on Self-Serve accounts (i.e. the data used in order to deliver your videos to viewers). However, this policy is subject to fair use: If your aggregate bandwidth usage (across all accounts you control) is higher than 99% of Self-Serve users on our platform in any calendar month, we may, in our discretion, charge fees for excessive usage, require you to upgrade to a more suitable plan, or terminate your account(s) upon advance written notice. For more information on bandwidth and our fair use policy, please see our [Bandwidth on Vimeo](https://vimeo.zendesk.com/hc/en-us/articles/360037761072-Bandwidth-on-Vimeo-) article.
 
 **Video Creation Tools:** We may allow you to use Vimeo Create, our video creation tools. Your use of Vimeo Create is governed by our [Vimeo Create Addendum](https://vimeo.com/vimeo-create-addendum).
 
@@ -66,17 +65,17 @@ For more information on bandwidth and our fair use policy, please see our [Bandw
 3\. Accounts
 ------------
 
-**Registration:** You may create an account to use certain features we offer (e.g., uploading or live streaming videos). To do so, you must provide an email address. By creating an account, you agree to receive notices from Vimeo at this email address.
+**Registration:** You may create an account to use certain features we offer (e.g., uploading or live streaming videos). To do so, you must provide an email address. By creating an account, you agree to receive notices from Vimeo at this email address.
 
-**Organizational Accounts:** Corporate, governmental, and other organizational users must publicly display the legal name of their entity on their public account profile. If you are a government entity in the U.S., our [Government Entity Addendum](https://vimeo.com/governmententityaddendum) applies.
+**Organizational Accounts:** Corporate, governmental, and other organizational users must publicly display the legal name of their entity on their public account profile. If you are a government entity in the U.S., our [Government Entity Addendum](https://vimeo.com/governmententityaddendum) applies.
 
-**Age Requirements:** You must be at least 16 years old or the applicable age of majority in your jurisdiction, whichever is greater, to create an account or otherwise use our Services. If you wish to use the Services for a commercial purpose, you must be at least 18 years old. Individuals under the applicable age may use our Services only through a parent or legal guardian’s account and with their involvement. Please have that person read this Agreement with you and consent to it before proceeding.
+**Age Requirements:** You must be at least 16 years old or the applicable age of majority in your jurisdiction, whichever is greater, to create an account or otherwise use our Services. If you wish to use the Services for a commercial purpose, you must be at least 18 years old. Individuals under the applicable age may use our Services only through a parent or legal guardian’s account and with their involvement. Please have that person read this Agreement with you and consent to it before proceeding.
 
-**Parents and Guardians:** By granting your child permission to use the Services through your account, you agree and understand that you are responsible for monitoring and supervising your child's usage. If you believe your child is using your account and does not have your permission, please contact us immediately so that we can disable access.
+**Parents and Guardians:** By granting your child permission to use the Services through your account, you agree and understand that you are responsible for monitoring and supervising your child's usage. If you believe your child is using your account and does not have your permission, please contact us immediately so that we can disable access.
 
-**Team Members:** Certain subscription plans may allow you to grant other registered users (“**team members**”) access to the account. Both you and each team member is deemed a party to this Agreement. You are responsible for the actions of your team members and must monitor their access and usage.
+**Team Members:** Certain subscription plans may allow you to grant other users (“**team members**”) access to the account. Each team member must create an account with their own login credentials. Both you and each team member is deemed a party to this Agreement. You are responsible for the actions of your team members and must monitor their access and usage.
 
-**Account Security:** You are responsible for all activity that occurs under your account, including unauthorized activity. You must safeguard the confidentiality of your account credentials. If you are using a computer that others have access to, you must log out of your account after each session. If you become aware of unauthorized access to your account, you must change your password and notify us immediately.
+**Account Security:** You are responsible for all activity that occurs under your account, including unauthorized activity. You must safeguard the confidentiality of your account credentials and may not share your account credentials with anyone. If you are using a computer that others have access to, you must log out of your account after each session. If you become aware of unauthorized access to your account, you must change your password and notify us immediately.
 
 4\. Subscription Plans
 ----------------------
@@ -85,7 +84,7 @@ For more information on bandwidth and our fair use policy, please see our [Bandw
 
 **Basic (Free) Accounts**: Basic (free) members may not submit videos that they did not create or play a material part in creating.
 
-**Fees:** You must pay all fees (plus any taxes) during your subscription period and any renewal periods. Our fees may include a fixed monthly or annual fee plus variable fees for transactions or usage.
+**Fees:** You must pay all fees (plus any taxes) during your subscription period and any renewal periods. Our fees may include a fixed monthly or annual fee plus variable fees for transactions or usage. We may adjust fees from time to time. We will attempt to notify you in advance of any such fee changes prior to your next billing cycle. If you do not wish to accept a fee change, you may cancel your subscription in accordance with this Agreement.
 
 **Free Trials and Discounts:** We may offer free-trial or discounted subscriptions. When a free-trial period ends, your paid subscription begins (unless you have cancelled) and you must pay the full monthly or annual fee. If we provide a discount for the first subscription period, you must pay the discounted fee; in any renewal, you must pay the full fee.
 
@@ -115,7 +114,7 @@ For more information on bandwidth and our fair use policy, please see our [Bandw
 5\. Acceptable Use Policy
 -------------------------
 
-We may allow you to upload, live stream, submit, or publish (collectively, to "**submit**") content such as videos, recordings, images, and text (collectively, "**content**"). You must ensure that your content, and your conduct, complies with the Acceptable Use Policy set forth in this **Section 5**. Vimeo may (but is not obligated to) monitor your account, content, and conduct, regardless of your privacy settings. Vimeo may remove or limit access or availability to any content or account that it considers in good faith to violate this Acceptable Use Policy.
+We may allow you to create, upload, live stream, submit, or publish (collectively, to "**submit**") content such as videos, recordings, images, and text (collectively, "**content**"). You must ensure that your content, and your conduct, complies with the Acceptable Use Policy set forth in this **Section 5**. Vimeo may (but is not obligated to) monitor your account, content, and conduct, regardless of your privacy settings. Vimeo may remove or limit access or availability to any content or account that it considers in good faith to violate this Acceptable Use Policy.
 
 ### **5.1 Copyright Policy**
 
@@ -138,7 +137,7 @@ You may not submit any content that:
 *   Promotes fraudulent or dubious money-making schemes, proposes an unlawful transaction, or uses deceptive marketing practices;
 *   Contains false or misleading claims about (1) vaccination safety, or (2) health-related information that has a serious potential to cause public harm;
 *   Contains false or misleading information about voting;
-*   Contains conspiracy-related content where the underlying conspiracy theory makes claims that (1) suggest that a real-world tragedy did not occur, or (2) violate other content restrictions; or
+*   Contains (1) claims that a real-world tragedy did not occur; (2) false claims that a violent crime or catastrophe has occurred; or (3) false or misleading information (including fake news, deepfakes, propaganda, or unproven or debunked conspiracy theories) that creates a serious risk of material harm to a person, group, or the general public; or
 *   Violates any applicable law.
 
 Please see the [Vimeo Guidelines](https://vimeo.com/help/guidelines) for guidance on how we interpret these terms.
@@ -152,25 +151,32 @@ In using our Services, you may not:
 *   Harass or stalk any person;
 *   Harm or exploit minors;
 *   Distribute “spam” in any form or use misleading metadata;
-*   Collect personal information about others;
-*   Access another’s account without permission;
-*   Use or export any of our services in violation of any U.S. export control laws;
+*   Collect personal information about others without their authorization;
+*   Access another’s account except as permitted herein;
+*   Use or export any of our services in violation of any U.S. law;
 *   Engage in any unlawful activity;
-*   Embed our video player on or provide links to sites that contain content prohibited by **Section 5.2**; or
+*   Embed our video player on or provide links to sites that contain content prohibited by **Section 5.2**; or
 *   Cause or encourage others to do any of the above.
 
 ### **5.4 Prohibited Technical Measures**
 
 You will not:
 
-*   Except as authorized by law or as permitted by us: scrape, reproduce, redistribute, create derivative works from, decompile, reverse engineer, alter, archive, or disassemble any part of our Services; or attempt to circumvent any of our security, rate-limiting, filtering, or digital rights management measures;
+*   Except as authorized by law or as permitted by us in writing: scrape, reproduce, redistribute, frame, mirror, create derivative works from, decompile, reverse engineer, alter, archive, or disassemble any part of our Services; or attempt to circumvent any of our security, rate-limiting, filtering, or digital rights management measures;
+*   Remove or modify any logo, watermark, or notice of proprietary rights embedded on or in the Services or any output thereof without our permission;
 *   Submit any malicious program, script, or code;
 *   Submit an unreasonable number of requests to our servers; or
 *   Take any other actions to manipulate, interfere with, or damage our Services.
 
 ### **5.5 Restricted Users**
 
-You may not create or maintain an account if you are a member of a terror or hate group. You may not purchase any goods or software services from us if you are (a) located in a country that is subject to a U.S. Government embargo or has been designated by the U.S. Government as a terrorist-supporting country; or (b) listed on any U.S. Government list of restricted parties.
+You may not use our Services if you:
+
+*   are a terror or hate group or a member thereof;
+*   have been designated by a U.S. agency as an entity that we may not contract with (e.g., a Specially Designated National); or
+*   are subject to sanctions by a non-U.S. government such that we would be required to block your videos in a substantial number of countries in which we provide service.
+
+You may not purchase goods or software services from us if doing so would violate any U.S. sanctions. You hereby make a continuing representation that you are in compliance with the foregoing restrictions.
 
 ### **5.6 Accessibility and Ratings**
 
@@ -278,13 +284,13 @@ Except for matters that must be arbitrated (as set forth below), you and Vimeo a
 
 ### **11.3 Arbitration of Privacy Claims; Class Action Waiver**
 
-The exclusive means of resolving any Covered Privacy Claim (defined below) shall be BINDING ARBITRATION. The arbitration will be administered by JAMS under the [JAMS Streamlined Arbitration Rules & Procedures](https://www.jamsadr.com/files/Uploads/Documents/JAMS-Rules/JAMS_streamlined_arbitration_rules-2014.pdf), as modified by our [Arbitration Procedures](https://vimeo.com/terms/arbitration-procedures). If you are a consumer, as defined by JAMS in its [Consumer Minimum Standards](https://www.jamsadr.com/files/Uploads/Documents/JAMS-Rules/JAMS_Consumer_Min_Stds-2009.pdf), you may request that the arbitration hearing be conducted in the area in which you reside. Otherwise, the hearing (if any) shall take place in New York County, New York State, United States of America. EACH PARTY WAIVES ITS RIGHT TO GO TO COURT, TO A TRIAL BY JURY, AND TO PARTICIPATE IN A CLASS ACTION, CLASS ARBITRATION, OR OTHER REPRESENTATIVE PROCEEDING WITH RESPECT TO ANY COVERED PRIVACY CLAIM.
+The exclusive means of resolving any Covered Privacy Claim (defined below) shall be BINDING ARBITRATION. The arbitration will be administered by JAMS under the [JAMS Streamlined Arbitration Rules & Procedures](https://www.jamsadr.com/files/Uploads/Documents/JAMS-Rules/JAMS_streamlined_arbitration_rules-2014.pdf), as modified by our [Arbitration Procedures](https://vimeo.com/terms/arbitration-procedures). If you are a consumer, as defined by JAMS in its [Consumer Minimum Standards](https://www.jamsadr.com/files/Uploads/Documents/JAMS-Rules/JAMS_Consumer_Min_Stds-2009.pdf), you may request that the arbitration hearing be conducted in the area in which you reside. Otherwise, the hearing (if any) shall take place in New York County, New York State, United States of America. EACH PARTY WAIVES ITS RIGHT TO GO TO COURT, TO A TRIAL BY JURY, AND TO PARTICIPATE IN A CLASS ACTION, CLASS ARBITRATION, OR OTHER REPRESENTATIVE PROCEEDING WITH RESPECT TO ANY COVERED PRIVACY CLAIM.
 
-**Overview:** Arbitration provides a private dispute resolution process that is usually more streamlined and less formal than litigation. In an arbitration, your rights will be determined by a neutral third party called an arbitrator, and not a judge or jury. Both you and Vimeo are entitled to fundamentally fair proceedings at every stage of the arbitration, including the hearing. The arbitrator will decide all issues relating to the dispute, including the question of arbitrability, and can grant any relief that a court could grant. Decisions by the arbitrator are enforceable in court and may be overturned by a court only for very limited reasons. For details on the arbitration process, see our [Arbitration Procedures](https://vimeo.com/terms/arbitration-procedures).
+**Overview:** Arbitration provides a private dispute resolution process that is usually more streamlined and less formal than litigation. In an arbitration, your rights will be determined by a neutral third party called an arbitrator, and not a judge or jury. Both you and Vimeo are entitled to fundamentally fair proceedings at every stage of the arbitration, including the hearing. The arbitrator will decide all issues relating to the dispute, including the question of arbitrability, and can grant any relief that a court could grant. Decisions by the arbitrator are enforceable in court and may be overturned by a court only for very limited reasons. For details on the arbitration process, see our [Arbitration Procedures](https://vimeo.com/terms/arbitration-procedures).
 
-**Definitions:** A “**Covered Privacy Claim**” means any dispute or claim arising out of or relating to (a) Vimeo’s collection, use, storage, analysis, or transfer of your Personal Information; (b) an alleged breach of our [Privacy Policy](https://vimeo.com/privacy); (c) an alleged data breach or unauthorized disclosure of data or content; or (d) an allegation that Vimeo failed to comply with any privacy or data security right or obligation. “**Personal Information**” means any information about you, including your registration information (e.g., email address), payment information, location information, device information, biometric identifiers or information, IP address, and your activities (including viewing and search history), but does not include content that you upload (except to the extent the content contains personal information about you).
+**Definitions:** A “**Covered Privacy Claim**” means any dispute or claim arising out of or relating to (a) Vimeo’s collection, use, storage, analysis, or transfer of your Personal Information; (b) an alleged breach of our [Privacy Policy](https://vimeo.com/privacy); (c) an alleged data breach or unauthorized disclosure of data or content; or (d) an allegation that Vimeo failed to comply with any privacy or data security right or obligation. “**Personal Information**” means any information about you, including your registration information (e.g., email address), payment information, location information, device information, biometric identifiers or information, IP address, and your activities (including viewing and search history), but does not include content that you upload (except to the extent the content contains personal information about you).
 
-**Small Claims Court Exception:** Notwithstanding the above, each party has the right to bring an individual Covered Privacy Claim against the other in a small claims court of competent jurisdiction pursuant to Rule 1 of JAMS’ [Minimum Consumer Standards](https://www.jamsadr.com/files/Uploads/Documents/JAMS-Rules/JAMS_Consumer_Min_Stds-2009.pdf). If one party files an arbitration that could be litigated in such a small claims court, the responding party may request that the dispute proceed in small claims court. If the responding party requests to proceed in small claims court before the appointment of the arbitrator, the arbitration shall be administratively closed. If requested after the appointment of the arbitrator, the arbitrator shall administratively close the arbitration so long as the proceedings are at an early stage and no hearing has occurred.
+**Small Claims Court Exception:** Notwithstanding the above, each party has the right to bring an individual Covered Privacy Claim against the other in a small claims court of competent jurisdiction pursuant to Rule 1 of JAMS’ [Minimum Consumer Standards](https://www.jamsadr.com/files/Uploads/Documents/JAMS-Rules/JAMS_Consumer_Min_Stds-2009.pdf). If one party files an arbitration that could be litigated in such a small claims court, the responding party may request that the dispute proceed in small claims court. If the responding party requests to proceed in small claims court before the appointment of the arbitrator, the arbitration shall be administratively closed. If requested after the appointment of the arbitrator, the arbitrator shall administratively close the arbitration so long as the proceedings are at an early stage and no hearing has occurred.
 
 **12\. General Provisions**
 ---------------------------
