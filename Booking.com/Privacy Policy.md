@@ -721,9 +721,15 @@ We rely on personal information to make automated decisions, such as providing t
 
 #### How to exercise your rights
 
-If you want to exercise your right of access or erasure under the Personal Information Protection Law (PIPL), please fill out our form: [Data Subject Request for Booking.com customers](https://www.booking.com/content/dsar.en-gb.html?label=removedB;sid=removed).
+If you have a Booking.com account, you can find the personal information we store about you in your account settings. This includes your name, email address, phone number, address and payment information. You can exercise your right to access, rectification or erasure, by viewing, changing or deleting this data at any time.
 
-To otherwise exercise these or any of your other rights under PIPL, or to contact us about this Privacy Statement and our practices, you can email us at [dataprotectionoffice@booking.com](javascript:location='mailto:/u0064/u0061/u0074/u0061/u0070/u0072/u006f/u0074/u0065/u0063/u0074/u0069/u006f/u006e/u006f/u0066/u0066/u0069/u0063/u0065/u0040/u0062/u006f/u006f/u006b/u0069/u006e/u0067/u002e/u0063/u006f/u006d';void 0). Please use the subject line: ‘China PIPL Privacy Rights - Request’.
+If you want to delete your account, you can also do this by going to account settings on the Booking.com website, clicking into the ‘Security’ section and selecting ‘Delete account’.
+
+In addition to the above, if you’d like to exercise your rights to access your data or for that data to be erased, to unsubscribe from email marketing or to withdraw the consent you have given us to process your personal information, please fill out our form: [Data Subject Request for Booking.com customers](https://www.booking.com/content/dsar.en-gb.html?label=removedB;sid=removed).
+
+To protect your personal information, we may need to verify your identity before completing your request. We will do this by asking you questions about your previous reservations with us. We will respond to your request within 15 working days, unless another time-frame is required by applicable laws.
+
+To otherwise exercise these or any of your other rights under Personal Information Protection Law (PIPL), or to contact us about this Privacy Statement and our practices, you can email us at [privacyrequests@booking.com](javascript:location='mailto:/u0064/u0061/u0074/u0061/u0070/u0072/u006f/u0074/u0065/u0063/u0074/u0069/u006f/u006e/u006f/u0066/u0066/u0069/u0063/u0065/u0040/u0062/u006f/u006f/u006b/u0069/u006e/u0067/u002e/u0063/u006f/u006d';void 0). Please use the subject line: ‘China PIPL Privacy Rights - Request’.
 
 ### Russia
 
