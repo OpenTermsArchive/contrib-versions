@@ -269,13 +269,13 @@ If you are located in India, pursuant to “The Information Technology (Guidelin
 
 For matters relevant under "Intermediary Guidelines”:
 
-Nikhil Pai
+Grievance Officer: Nikhil Pai
 
-[Grievanceofficer\_in\_icloud@apple.com](mailto:Grievanceofficer_in_icloud@apple.com)
+Webform: [Apple.co/](https://getsupport.apple.com/?PGF=PGF63003&category_id=SC0998&symptom_id=88810&solution=EML&locale=en_IN)[IndiaGrievanceIntermediaries](https://getsupport.apple.com/?PGF=PGF63003&category_id=SC0998&symptom_id=88810&solution=EML&locale=en_IN)
 
 Important Note:
 
-Please note that only the grievances falling within the Information Technology (Intermediary Guidelines) Rules, 2021, pertaining to iCloud will be addressed via the above e-mail addresses.
+Please note that only the grievances falling within the Information Technology (Intermediary Guidelines) Rules, 2021, pertaining to iCloud will be addressed via the links to the grievance officer webform.
 
 B. Governing Law
 
