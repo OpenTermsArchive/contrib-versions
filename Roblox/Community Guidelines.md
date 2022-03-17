@@ -80,7 +80,7 @@ We want our metaverse to be safe and welcoming for everyone, regardless of their
     *   Tobacco, including e-cigarettes, e-liquid, vapes, hookas, and other smokable products
     *   Bomb- and weapon-making in the real world
     
-    While we allow the portrayal of gambling in experiences, no real money, Robux, or anything that can become real money or Robux, may be exchanged in these experiences. We also require that the odds of winning be fair and not skewed in the developer’s favor.  
+    Except where prohibited by local law or regulation, we allow the portrayal of gambling in experiences, no real money, Robux, or anything that can become real money or Robux, may be exchanged in these experiences. We also require that the odds of winning be fair and not skewed in the developer’s favor.  
       
     
 9.  **Real World Physically Dangerous Activities**  
@@ -307,6 +307,6 @@ To maintain a safe metaverse, Roblox does **not** permit:
 
 See the [Roblox Terms of Use](https://en.help.roblox.com/hc/en-us/articles/115004647846) for more information.
 
-**Last Updated**: December 13, 2021
+**Last Updated**: March 15, 2022
 
 [Return to top](#article-container)
