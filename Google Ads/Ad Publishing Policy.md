@@ -270,8 +270,8 @@ Information provided by publishers to enable their use of or interaction with Go
 
 We do not allow Google-served ads that:
 
-*   overlay or are adjacent to navigational or other action items and may lead to unintended ad interactions.
-*   severely interfere with consumption of content including overlaying the content or pushing the content off the [display,](https://support.google.com/answer/11036236)
+*   overlay or are adjacent to navigational or other action items and may lead to unintended ad interactions,
+*   severely interfere with consumption of content including overlaying the content or pushing the content off the display,
 *   are placed on a "dead end" screen where the user is not able to exit the screen without clicking the ad. 
 
   ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about ads interfering](https://support.google.com/publisherpolicies/answer/11035030)_
