@@ -113,7 +113,8 @@ We may collect your Personal Data from our group companies according to their te
 
 3.c.ii.Personal Data collected from business partners
 
-We may collect your Personal Data from our business partners. There are cases where we collect Personal Data from a business partner operating its own service, and from a business partner operating a service that is linked to our Services such as an official account or LINE App login. For example, when you create your Account using an external SNS account, we will collect the identifier of that external SNS account.
+We may collect your Personal Data from our business partners. There are cases where we collect Personal Data from a business partner operating its own service, and from a business partner operating a service that is linked to our Services such as an official account or LINE App login. For example, when you create your Account using an external SNS account, we will collect the identifier of that external SNS account.  
+In addition, we may obtain information such as your identifier (Internal Identifier, ad identifier etc.), one-way encrypted (hashed) email address and telephone number, IP address, part of your device information (OS, etc.), your attribute information and your action history, including your purchase and browsing history, from our business partners, in order to use the same for both sending official account messages from our business partners and distributing ads, as well as measuring ad effectiveness, creating and providing statistical information and for other purposes.
 
 3.d.Personal Data uploaded by other users
 
@@ -178,7 +179,8 @@ For example, in the following cases, we will use Personal Data for the developme
 We will use Personal Data and promote security measures and measures against unauthorized use to maintain an environment where our Services can be used at all times, and users can use our Services with a sense of security on a daily basis.  
 For example, in the following cases, we will use Personal Data for the security and prevention of unauthorized use:
 
-● To confirm whether there is any breach of terms of use, any illegal act, unauthorized access or any other unauthorized use; or  
+● To confirm whether there is any breach of terms of use, any illegal act, unauthorized access or any other unauthorized use;  
+● To monitor and confirm the details of reports and illegal postings, etc., and to develop tools for preventing unauthorized use by ways such as analyzing the details of such reports and illegal postings, etc.; or  
 ● To verify facts or contact you in the event of any unauthorized use or the possibility of any unauthorized use.
 
 4.d.Provision of contents optimized for you
@@ -187,25 +189,29 @@ We will utilize Personal Data for providing recommended contents, including ads,
 For example, in the following cases, we will use Personal Data for providing optimized contents to users:
 
 ● To display recommendations of other stickers with a strong relevance with the purchased sticker;  
-● When there is another user who has added as a friend an official account that is the same as the official account that you have added as a friend, to introduce another official account that such user has added as a friend; or  
-● To measure the effectiveness of the distributed ad.
+● When there is another user who has added as a friend an official account that is the same as the official account that you have added as a friend, to introduce another official account that such user has added as a friend;  
+● To measure the effectiveness of the distributed ad; or  
+● To send and distribute official account messages and surveys, etc. to you by ways such as associating or combining information obtained from our business partners, such as your identifier (Internal Identifier, ad identifier, etc.), hashed telephone number and email address, with your Personal Data that we possess.
 
 Furthermore, in certain countries or regions (\*3), we will use Personal Data for distributing recommended contents, such as optimized ads, to users. Such use includes the following examples:
 
 ● To distribute information of strong relevance to your current location regarding facilities, attractions, coupons, etc. to be provided through an official account;  
 ● To introduce information of events being conducted and valuable coupons that can be used, near your current location or places where you often visit;  
 ● To display ads related to our business partner’s website that you accessed;  
-● To estimate attributes such as the gender, age group, and interests of users from the official accounts that have been added as a friend, purchased stickers, Services that are often used, contents that were recently posted on LINE VOOM, and history of service use such as search words that were recently used, and distribute our ads or third-party ads that may of interest to users having similar attributes; or  
-● To distribute our ads or third-party ads with Personal Data such as the birthday, phone number and email address registered by users (including cases of distributing ads of our Services on services operated by third parties) as the key.
+● To estimate attributes such as the gender, age group, and interests of users from the official accounts that have been added as a friend, purchased stickers, Services that are often used, contents that were recently posted on LINE VOOM, and history of service use such as search words that were recently used, and distribute our ads or third-party ads that may of interest to users having similar attributes;  
+● To distribute our ads or third-party ads with Personal Data such as the birthday, phone number and email address registered by users (including cases of distributing ads of our Services on services operated by third parties) as the key;  
+● To distribute ads to you by ways such as associating or combining information obtained from our business partners, such as your identifier (Internal Identifier, ad identifier, etc.), hashed telephone number and email address, part of your device information (OS, etc.) and IP address, with your Personal Data that we possess;  
+● To measure the effectiveness of distributed ads by ways such as using your identifier (Internal Identifier, ad identifier, etc.), part of your device information (OS, etc.) and IP address, etc. obtained from our business partners; or  
+● To provide our business partners with statistical information prepared by ways such as associating or combining information obtained from our business partners, such as your identifier (Internal Identifier, ad identifier, etc.), hashed telephone number and email address, attribute information, and your action history, including your purchase and browsing history, with your Personal Data that we possess, such as your identifier (Internal Identifier, ad identifier, etc.), hashed telephone number and email addresses, attribute information and your status of use of our Services, including your history of accessing ads.
 
 We are offering a detailed explanation to users residing in countries or regions where this feature is available. For details, please refer to “[Optimization of services by attributes](https://terms.line.me/line_rules_optimize)” (page is provided only in the language of the country that is offering the feature).
 
 In principle, we obtain your consent when we process your Personal Data. If, however, permitted under Applicable Laws, we may process your Personal Data with any of the following legal basis:
 
-(1) processing is necessary for the performance of a contract to which you are party or in order to take steps at your request prior to entering into a contract  
-(2) processing is necessary for compliance with a legal obligation to which we are subject (e.g., when following the information disclosure orders based upon laws and regulations announced by government agencies)  
-(3) processing is necessary in order to protect vital interests of yours or of another individual  
-(4) processing is necessary to investigate, prevent and take measures against illegal or suspected illegal acts  
+(1) processing is necessary for the performance of a contract to which you are party or in order to take steps at your request prior to entering into a contract;  
+(2) processing is necessary for compliance with a legal obligation to which we are subject (e.g., when following the information disclosure orders based upon laws and regulations announced by government agencies);  
+(3) processing is necessary in order to protect vital interests of yours or of another individual;  
+(4) processing is necessary to investigate, prevent and take measures against illegal or suspected illegal acts;  
 (5) processing is necessary for the legitimate interests pursued by us or by a third party, except where such interests are overridden by your privacy related rights, interests, and freedom (including improvement of operations or systems, prevention of fraud, maintenance of security, marketing, and research performed by us); or  
 (6) processing is necessary for any purpose related to public benefits or creation of archives of historical documents, or any purpose related to surveys or statistics supported by proper security measures.  
 For example, when we process your Personal Data for the provision and maintenance of services, development and improvement of services, and security and prevention of unauthorized use, such processing may be pursuant to the legal basis of legitimate interests indicated in (5) above.
@@ -218,7 +224,8 @@ We may transfer Personal Data to a third country without any data protection law
 
 In principle, we will not provide Personal Data to third parties unless we have obtained your consent or such provision of Personal Data is permitted under Applicable Laws.  
 However, in the following cases, we may provide Personal Data to third parties.  
-The recipients of Personal Data that we provide include third parties such as our subcontractors, subsidiaries, and affiliates located in countries or regions other than where you are residing.
+The recipients of Personal Data that we provide include third parties such as our subcontractors, subsidiaries, and affiliates located in countries or regions other than where you are residing. (Please click [here](https://line.me/en/terms/policy/foreign-law/) to confirm the information of the systems regarding the protection of Personal Data in the countries or regions in which third-party recipients of Personal Data are located.)  
+In order to provide our services in a smooth manner, subcontractors, subsidiaries and affiliates, etc. may be added to the recipients of Personal Data that we provide. We will notify you via this Policy upon the addition of any country or region in which the third-party recipient of Personal Data is located.
 
 In providing Personal Data, we may transfer Personal Data to a third country without any data protection laws which are equivalent to those of the country or region where you live (as of January 23, 2019, the European Commission has determined that Japan has secured sufficient protection standards regarding Personal Data). In the foregoing case, we will adopt standard contractual clauses or other means pertaining to data protection approved in your country or region, and transfer Personal Data to a third country according to the requirements of Applicable Laws.
 
@@ -232,17 +239,22 @@ The foregoing information may be copied, stored or spread by the recipient, and 
 
 5.b.Subcontracting
 
-We may subcontract certain services required for providing our Services (e.g.: building and operation of infrastructure, settlement, shipping, customer support, etc.) to a third party. In connection with this, we may entrust all or a part of the Personal Data to the subcontractor.  
+We may subcontract certain services required for providing our Services (e.g.: building and operation of infrastructure, settlement, shipping, customer support, etc.) to a third party. In connection with this, we may entrust all or a part of the Personal Data to the subcontractor, including companies located in the following countries or regions.  
 The subcontractor will access the Personal Data only to the minimum extent required for performing the subcontracted services on our behalf, and will not use the Personal Data beyond the scope of the subcontracted services.  
-We will comply with Applicable Laws and sufficiently investigate the qualification as a subcontractor, prescribe matters related to confidentiality and data protection in the contract with the subcontractor, and thereby establish a system for properly managing Personal Data.
+We will: (i) comply with Applicable Laws and sufficiently investigate the qualification as a subcontractor; (ii) take measures to have the subcontractor comply with the eight (8) principles under the OECD Privacy Guidelines by ways such as prescribing matters related to confidentiality and data protection in the contract with the subcontractor; and (iii) thereby establish a system for properly managing Personal Data.
+
+Countries and regions to which Personal Data is transferred: Japan, Korea, Vietnam, Thailand, Taiwan, Indonesia and the Philippines.
 
 5.c.Sharing of Personal Data among group companies
 
-In certain countries or regions (\*4), we may share, among our group companies, the Personal Data indicated in “[3\. Personal Data to be collected](#section2)”. For example, in order to alleviate the trouble of creating an Account in the services provided by our group companies, our group companies may refer to the information registered with the LINE App.  
+With respect to users using our Services in certain countries or regions (\*4), we may share, among our group companies, including companies located in the following countries and regions, the Personal Data indicated in “[3\. Personal Data to be collected](#section2)”. For example, in order to alleviate the trouble of creating an Account in the services provided by our group companies, our group companies may refer to the information registered with the LINE App.  
 As the purpose of sharing Personal Data is the same as the purpose of use described in “[4\. Purpose of use of Personal Data](#section3)”, for the purpose of use of the party with which the Personal Data was shared, “LINE” shall be replaced with “our group company”, and “Services” shall be replaced with “services provided by our group company”.  
-LINE is the administrator in sharing Personal Data under the laws of Japan.
+LINE is the administrator in sharing Personal Data under the laws of Japan.  
+We will take measures to have our group companies with which the Personal Data is shared comply with the eight (8) principles under the OECD Privacy Guidelines by ways such as prescribing matters related to confidentiality and data protection in the contract with such group company, and thereby establish a system for properly managing Personal Data.
 
 Please click [here](https://terms.line.me/line_communication_privacy_tw) for the scope of our group companies to share Personal Data of users in Taiwan.
+
+Countries and regions to which Personal Data is transferred: Japan, Taiwan, Thailand, Indonesia and Korea.
 
 5.d.Succession of business
 
@@ -253,13 +265,17 @@ If there is any transaction between companies pertaining to our business to whic
 In cases where you use the services of our business partner, we may provide, to that business partner, information to be used by the business partner for identifying you (in certain countries or regions (\*5), in addition to the Internal Identifier, including an ad identifier, device information such as the language setting, and attribute information).  
 For example,
 
-● When you add an official account as a friend, talk to an official account, and enter a group talk room in which an official account is participating, minimum information required for sending messages to you, such as the Internal Identifier assigned to your Account and the language setting, will be sent. In certain services or features for some businesses, we may ask that you provide additional Personal Data such as your email address or phone number. In the foregoing case, we will additionally ask for your permission regarding the provision of additional Personal Data to such businesses before you use such services or features.  
+● When you add an official account as a friend, talk to an official account, and enter a group talk room in which an official account is participating, minimum information required for sending messages to you, such as the Internal Identifier assigned to your Account and the language setting, will be sent in order to provide our services in a smooth manner. (Please click [here](https://terms2.line.me/country_or_region_list?lang=en) to confirm the countries and regions in which the operators of official accounts receiving information are located and the information concerning information protection measures.) In certain services or features for some businesses, we may ask that you provide additional Personal Data such as your email address or phone number. In the foregoing case, we will additionally ask for your permission regarding the provision of additional Personal Data to such businesses before you use such services or features.  
   
 ● When our business partner is equipped with an additional service such as the LINE App login function, your Internal Identifier, profile information, email address or phone number may be shared with the business partner once you use such additional service. In the foregoing case, we will ask for your permission regarding the provision of Personal Data.  
   
-● In certain countries or regions (\*5), we may provide and disclose your Internal Identifier, a part of your device information (ad identifier, language setting, etc.), and your attributes to our business partner engaged in the distribution of ads, effectiveness measurement and analysis to distribute ads with stronger relevance to you. Information such as your name, address, and phone number, which can be used for communicating with you or confirming your identity, will not be provided without your separate declaration of intent. For details regarding such strongly relevant ads, please also read “[Optimization of services by attributes](https://terms.line.me/line_rules_optimize)”.
+● In certain countries or regions (\*5), we may provide and disclose your Internal Identifier, part of your device information (ad identifier, language setting, etc.), IP address, and your attributes to our business partner, including companies located in the following countries or regions, engaged in the distribution of ads, effectiveness measurement and analysis to distribute ads with stronger relevance to you. Information such as your name, address, and phone number, which can be used for communicating with you or confirming your identity, will not be provided without your separate declaration of intent. For details regarding such strongly relevant ads, please also read “[Optimization of services by attributes](https://terms.line.me/line_rules_optimize)”.
 
 The processing of Personal Data by our business partner shall be pursuant to the terms or policies prescribed by each business partner.
+
+Our business partners receiving Personal Data which are located in the following countries and regions are taking measures in compliance with the eight (8) principles under the OECD Privacy Guidelines.
+
+Countries and regions to which Personal Information is transferred: United States and Israel.
 
 5.f.Compliance and cooperation with public agencies
 
@@ -290,7 +306,8 @@ To help protect your privacy and confidentiality of your Personal Data, we also 
 
 6.b.Storage location of Personal Data
 
-In providing our Services, we may store your Personal Data outside the country or region where you reside. When that happens, we will take measures to ensure your Personal Data is transferred according to the applicable laws.
+In providing our Services, we may store your Personal Data outside the country or region where you reside. When that happens, we will take measures to ensure your Personal Data is transferred according to the applicable laws.  
+For details regarding the storage location of your Personal Data, please also read “Security & Privacy”.
 
 6.c.Storage period of Personal Data
 
@@ -446,7 +463,7 @@ LINE Corporation
 CEO and President - Takeshi Idezawa
 
 Formulated on August 15, 2012  
-Revised on February 14, 2022
+Last revised on March 15, 2022 (Clarified the purposes of use, added descriptions regarding collection of Personal Data from business partners and the use thereof, and added descriptions regarding provision of information regarding cross-border transfers.)
 
 10.Reference
 ------------
@@ -475,7 +492,7 @@ Applicable countries: Japan, Taiwan, Thailand, Indonesia
 Related information: [Taiwan](https://terms.line.me/line_communication_privacy_tw/)  
 Related settings: -
 
-(\*5) Provision of device information to business partners  
+(\*5) Provision of information to business partners  
 Applicable countries: Japan, Taiwan, Thailand, Indonesia  
 Related information: -  
 Related settings: -
