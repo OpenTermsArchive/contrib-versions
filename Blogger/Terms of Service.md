@@ -334,10 +334,6 @@ A legal right that allows the creator of an original work (such as a blog post, 
 
 A statement that limits someone’s legal responsibilities.
 
-### EU Platform-to-Business Regulation
-
-The Regulation (EU) 2019/1150 on promoting fairness and transparency for business users of online intermediation services.
-
 ### indemnify or indemnity
 
 An individual or organisation’s contractual obligation to compensate the losses suffered by another individual or organisation from legal proceedings such as lawsuits.
