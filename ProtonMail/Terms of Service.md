@@ -35,7 +35,7 @@ The Company has no obligation to store or forward the contents of terminated acc
 
 Due to the encrypted nature of the Service, you acknowledge that the Company has no ability or obligation to recover your data if you misplace your decryption password.
 
-Although it is not the current practice, we reserve the right to suspend or delete accounts that are inactive for over three months. Paid accounts with active paid status are not subject to this measure.
+We reserve the right to suspend or delete accounts that are inactive for over three months. Paid accounts with active paid status are not subject to this measure.
 
 ### Limited Warranties and Liability
 
