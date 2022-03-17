@@ -1,7 +1,9 @@
 Shopping ads policies
 =====================
 
-Due to the ongoing war in Ukraine, we will be temporarily pausing Google ads from serving to users located in Russia.
+Due to the ongoing war in Ukraine, we will be temporarily pausing Google Ads from serving to users located in Russia.
+
+As part of our recent suspension of ads in Russia, we will also pause ads on Google properties and networks globally for advertisers based in Russia.
 
 Welcome to the Shopping ads Policy centre
 -----------------------------------------
