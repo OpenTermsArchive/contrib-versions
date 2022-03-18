@@ -14,7 +14,7 @@ Welcome to the Google Advertising Policies Center
 
 |     |     |     |
 | --- | --- | --- |
-| [![This is the first button for the Google Ads policy options, select this to manage your account using the Policy manager.](//storage.googleapis.com/support-kms-prod/k1MH7t2ydWQaQ0AqYe2v3Og4i4xjvbIBaBtE "This is the first button for the Google Ads policy options, select this to manage your account using the Policy manager.")](https://ads.google.com/aw/policymanager/issues) | [![This is the second button for the Google Ads policy options, select to learn how to fix a suspended account.](//storage.googleapis.com/support-kms-prod/HUtOVDcYsvrjX13p86VtDNllZXANk5luR5oc "This is the second button for the Google Ads policy options, select to learn how to fix a suspended account.")](https://support.google.com/google-ads/workflow/9290386) | [![This is the third button for the Google Ads policy options, select to report an ad violation.](//storage.googleapis.com/support-kms-prod/beGVAEgSbnM1YzJAsX0lZ0Z8okdo2CTZGukk "This is the third button for the Google Ads policy options, select to report an ad violation.")](https://support.google.com/ads/troubleshooter/4578507) |
+| [![This is the first button for the Google Ads policy options, select this to manage your account using the Policy manager.](//storage.googleapis.com/support-kms-prod/k1MH7t2ydWQaQ0AqYe2v3Og4i4xjvbIBaBtE)](https://ads.google.com/aw/policymanager/issues) | [![This is the second button for the Google Ads policy options, select to learn how to fix a suspended account.](//storage.googleapis.com/support-kms-prod/HUtOVDcYsvrjX13p86VtDNllZXANk5luR5oc)](https://support.google.com/google-ads/workflow/9290386) | [![This is the third button for the Google Ads policy options, select to report an ad violation.](//storage.googleapis.com/support-kms-prod/beGVAEgSbnM1YzJAsX0lZ0Z8okdo2CTZGukk)](https://support.google.com/ads/troubleshooter/4578507) |
 
 Overview of our policies
 ------------------------
@@ -27,10 +27,10 @@ Our advertising policies cover four broad areas:
 
 > |     |     |
 > | --- | --- |
-> | ![Google Ads policies \| prohibited content](//storage.googleapis.com/support-kms-prod/RrjdySjRxcYJL3NpcXaobwTxuk7zctDbL8rX "Google Ads policies \| prohibited content") | **[Prohibited content](#con):** Content you can't advertise on the Google Network |
-> | ![Google Ads policies \| prohibited practice](//storage.googleapis.com/support-kms-prod/aYpRwkWqocXCGj8TVXwShJAbVpbcYO9qABIs "Google Ads policies \| prohibited practice") | **[Prohibited practices](#pra):** Things you can't do if you want to advertise with us |
-> | ![Google Ads policies \| restricted content](//storage.googleapis.com/support-kms-prod/tNErobNFH6ZkSwZtpMfEXrQkhCi1uMdPn3ur "Google Ads policies \| restricted content") | **[Restricted content and features](#res):** Content you can advertise, but with limitations |
-> | ![Google Ads policies \| Editorial and technical](//storage.googleapis.com/support-kms-prod/hza1ZDCgK38me1XBTkYHl7o1eUaDUDjNGfVT "Google Ads policies \| Editorial and technical") | **[Editorial and technical](#ed):** Quality standards for your ads, websites, and apps |
+> | ![Google Ads policies \| prohibited content](//storage.googleapis.com/support-kms-prod/RrjdySjRxcYJL3NpcXaobwTxuk7zctDbL8rX) | **[Prohibited content](#con):** Content you can't advertise on the Google Network |
+> | ![Google Ads policies \| prohibited practice](//storage.googleapis.com/support-kms-prod/aYpRwkWqocXCGj8TVXwShJAbVpbcYO9qABIs) | **[Prohibited practices](#pra):** Things you can't do if you want to advertise with us |
+> | ![Google Ads policies \| restricted content](//storage.googleapis.com/support-kms-prod/tNErobNFH6ZkSwZtpMfEXrQkhCi1uMdPn3ur) | **[Restricted content and features](#res):** Content you can advertise, but with limitations |
+> | ![Google Ads policies \| Editorial and technical](//storage.googleapis.com/support-kms-prod/hza1ZDCgK38me1XBTkYHl7o1eUaDUDjNGfVT) | **[Editorial and technical](#ed):** Quality standards for your ads, websites, and apps |
 > 
 > Click through the policies below for policy definitions, examples, and troubleshooting steps. 
 > 
