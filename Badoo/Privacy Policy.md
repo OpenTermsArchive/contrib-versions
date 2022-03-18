@@ -42,7 +42,7 @@ For users who are California residents, the data we may collect falls within the
 *   B. Personal information, as defined in the California customer records law, such as contact (including email and telephone number) and financial information;
 *   C. Characteristics of protected classifications under California or federal law (if you choose to provide them), such as age, gender identity, marital status, sexual orientation, race, ancestry, national origin, religion, and medical conditions;
 *   D. Commercial information, such as transaction information and purchase history;
-*   E. Biometric information, such as faceprint (not relevant here);
+*   E. Biometric information, such as faceprint;
 *   F. Internet or network activity information, such as browsing history and interactions with our Sites and App;
 *   G. Geolocation data, such as mobile device location;
 *   H. Audio, electronic, visual and similar information, such as photos and videos;
@@ -81,7 +81,7 @@ If you have given Badoo access to your location services, but wish to turn them 
 
 ### Device Information
 
-We may collect information about your device when you use the App including the unique device identifier, device model, operating system, and MAC address, for a number of purposes, as set out here. In addition, if you permit us to do so, the App may access your device’s address book solely in order to add someone to your contacts.
+We may collect information about your device when you use the App including the unique device identifier, device model, and operating system, for a number of purposes, as set out here. In addition, if you permit us to do so, the App may access your device’s address book solely in order to add someone to your contacts.
 
 ### Links
 
@@ -126,7 +126,7 @@ Under EU and UK data protection laws, we are required to tell you our lawful bas
 | Purpose for which data is used | Data | Source | Legal basis |
 | --- | --- | --- | --- |
 | To provide you with the Badoo social networking service | Name, email address, date of birth, location (CCPA Categories A and B) | You provide your name, email address and date of birth to us. We obtain location data from the device that you use to access the service | Contractual necessity |
-| To facilitate networking opportunities on the Badoo site | Optional information that you choose to provide in your profile, including through profile verification, which may include information about your sexual preferences, non-binary gender, religion, ethnic background, photos etc. (CCPA Categories C, H, I, J) | You provide this information to us | Consent |
+| To facilitate networking opportunities on the Badoo site | Optional information that you choose to provide in your profile, including through profile verification, which may include information about your sexual preferences, non-binary gender, religion, ethnic background, photos, interests, etc. (CCPA Categories B, C, H, I, J) | You provide this information to us | Contractual necessity and our legitimate interests – it is in our legitimate interests to facilitate networking opportunities in the Badoo app. For special category/sensitive personal data, we rely on your explicit consent. |
 | To verify your identity and prevent fraud and to ensure the safety and security of Users | Phone number and if requested or permitted, photo provided as part of profile verification (CCPA Category B and H) | You provide this information to us | Legitimate interests – it is in our legitimate interests to ensure that accounts are not set up fraudulently and to safeguard Users of the site |
 | To take payment for premium services (not applicable for Users making payments via the Apple App Store) | Payment card details (CCPA Categories B and D) | You provide this information to us | Contractual necessity |
 | To allow our Advertising Partners to serve targeted advertisements on our App and Sites (this includes rewarded video ads) | Advertising identifier associated with your device (Device ID), age, gender, and IP address (and your estimated locations based on your IP address) (CCPA Categories A, C and G) | We obtain age and gender from you, and Device ID and IP address from the device that you use to access the service | Consent – as indicated by you in your Privacy Settings/Cookie Settings preferences and via your browser or device privacy preferences (where required by your device manufacturer (for example Apple devices using iOS 14.5) |
@@ -335,4 +335,4 @@ Thanks for reading, we hope we didn’t drone on for too long!
 
 As Badoo evolves, we may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at https://badoo.com/privacy/. If we make a change to this policy that, in our sole discretion, is material, we will notify you, for example, via an email to the email associated with your Account or by posting a notice within Badoo.
 
-**Effective date.** This Privacy Policy was last updated on 21 December 2021.
+**Effective date.** This Privacy Policy was last updated on 07 March 2022.
