@@ -41,7 +41,7 @@ For Users who are California residents, the data we may collect falls within the
 2.  Personal information, as defined in the California customer records law, such as contact (including email and telephone number) and financial information;
 3.  Characteristics of protected classifications under California or federal law (if you choose to provide them), such as age, gender identity, marital status, sexual orientation, race, ancestry, national origin, religion, and medical conditions;
 4.  Commercial information, such as transaction information and purchase history;
-5.  Biometric information (not relevant here);
+5.  Biometric information;
 6.  Internet or network activity information, such as browsing history and interactions with our Sites and App;
 7.  Geolocation data, such as mobile device location;
 8.  Audio, electronic, visual and similar information, such as photos and videos;
@@ -80,7 +80,7 @@ If you have given Bumble access to your location, but wish to turn this off, you
 
 ### Device Information
 
-We may collect information about your device when you use the App including the unique device identifier, device model, operating system, and MAC address, for a number of purposes, as set out in this policy. In addition, if you permit us to do so, the App may access your device’s address book solely in order to add someone to your contacts.
+We may collect information about your device when you use the App including the unique device identifier, device model, and operating system, for a number of purposes, as set out in this policy. In addition, if you permit us to do so, the App may access your device’s address book solely in order to add someone to your contacts.
 
 ### Links
 
@@ -127,8 +127,8 @@ Under EU and UK data protection laws, we are required to tell you our lawful bas
 | Purpose for which data is used | Data | Source | Legal basis |
 | --- | --- | --- | --- |
 | To provide you with the Bumble social networking service | Name, email address, date of birth, location (CCPA Categories A and B) | You provide your name, email address and date of birth to us. We obtain location data from the device that you use to access the service | Contractual necessity |
-| To facilitate networking opportunities on the Bumble App | Optional information that you choose to provide in your profile, including through profile verification, or adding Bumble badges, which may include information about your sexual preferences, non-binary gender, religion, ethnic background, photos etc. (CCPA Categories C, H, I, J) | You provide this information to us | Consent |
-| To verify your identity and prevent fraud and to ensure the safety and security of Users | Phone number and if requested or permitted, photo provided as part of profile verification and for users based in countries where age verification is required by law: photo of Government ID + geolocation and device information (CCPA Categories A, B, C, F, G and H) | You provide this information to us, except for the geolocation and device information, which we obtain from the device that you use to access the service | Legitimate interests – it is in our legitimate interests to ensure that accounts are not set up fraudulently and to safeguard Users of the site |
+| To facilitate networking opportunities on the Bumble App | Optional information that you choose to provide in your profile, including through profile verification, or adding Bumble badges, which may include information about your sexual preferences, non-binary gender, religion, ethnic background, photos, interests, etc. (CCPA Categories B, C, H, I, J) | You provide this information to us | Contractual necessity and our legitimate interests – it is in our legitimate interests to facilitate networking opportunities in the Bumble app. For special category/sensitive personal data, we rely on your explicit consent. |
+| To verify your identity and prevent fraud and to ensure the safety and security of Users | Phone number and if requested or permitted, photo provided as part of profile verification and for users based in countries where age verification is required by law: photo of Government ID + geolocation and device information (CCPA Categories A, B, C, E, F, G and H) | You provide this information to us, except for the geolocation and device information, which we obtain from the device that you use to access the service | Legitimate interests – it is in our legitimate interests to ensure that accounts are not set up fraudulently and to safeguard Users of the site |
 | To take payment for premium services (not applicable for Users making payments via the Apple App Store) | Payment card details (CCPA Categories B and D) | You provide this information to us | Contractual necessity |
 | To send you marketing information about our events, offers and services | Name, email address, postal address, Instagram handle and mobile phone number (CCPA Categories A and B) | You provide this information to us | Consent or legitimate interests and in accordance with the laws applying to our marketing activities. We have a legitimate interest in promoting our business and products |
 | To carry out research and analysis to help us improve the App | Log and usage data, including IP address, browser type, referring domain, pages accessed, mobile carrier and search terms, images and video (CCPA Categories F and H) | You provide photos and videos to us. We obtain the log and usage information from the device that you use to access the service | Legitimate interests – it is in our interests to analyse the way in which Users are accessing and using our services so that we can further develop the App, implement security measures and improve the service |
@@ -266,21 +266,29 @@ If you no longer want to link your Bumble account to your Instagram, Facebook or
 8\. INFORMATION FOR BFF MEMBERS.
 --------------------------------
 
-If you use BFF we’ll ask you for some information when you create your profile (like your beliefs and political leanings). You can choose to give this information, but there’s no obligation to provide it.
+If you use BFF, you can populate your profile with certain information (like your beliefs and political leanings). You can provide this information as part of your profile, but there’s no obligation to do so.
 
-Our legal justification for processing your personal data is that this is necessary in order to fulfil our contract with you and deliver certain services and features you’ve requested. For example, in order to offer you our Hives feature, we need to process your location and interests data to show you Hives that you can join and that are relevant to you. When you upload and choose to share sensitive information (such as beliefs and political leanings), you are explicitly consenting to sharing that information with BFF members.
+Our legal justifications for processing your personal data in BFF are listed below:
 
-### Using Your Information to Recommend Friends
+*   The processing of your personal data is necessary in order to perform our contract with you and deliver certain BFF services and features you’ve requested. For example, in order to offer you certain features, we need to process your location and interests data to show you content and groups that are relevant to you.
+*   We also rely on legitimate interests as a lawful basis to collect and process personal data in BFF. It is in our legitimate interests to facilitate networking opportunities in the Bumble app.
+*   When you upload and choose to share sensitive information (such as sexuality, beliefs and political leanings), you are explicitly consenting to sharing that information with other members of BFF.
 
-In BFF we may use your activity, life and interests information to recommend friends.
+### Using Your Information to Recommend Friends and Content
 
-### Important Things to Know About BFF Hives
+If you use BFF, we may use your activity, life and interests information to recommend friends and content.
 
-In BFF you can join or create Hives to find friends. Hives are small, local group chats built around locations or topics. We’ll recommend Hives based on your location, activity, life and interests information.
+In BFF, we provide opportunities to join groups built around locations or topics. We’ll recommend groups you can join based on your location, activity, life and interests information.
 
-### Who Sees Your Hive Membership and Messages
+### Who Sees Your Content
 
-If you join a Hive, other BFF members will be able to see that you’ve joined that Hive. Members will not be able to see the Hive chat until they join the Hive and when they join they’ll see the full message history.
+### BFF Chat
+
+BFF members will not be able to see chat discussions until they join the specific chat and when they join, they’ll see the full message history.
+
+### Public Spaces
+
+Remember that certain areas of BFF are public spaces that are freely open to everyone on BFF. Your activity and anything you post in these spaces can be seen by everyone on Bumble BFF.
 
 9\. YOUR CALIFORNIA PRIVACY RIGHTS.
 -----------------------------------
@@ -354,4 +362,4 @@ As Bumble evolves, we may revise this Privacy Policy from time to time. The most
 
 ### Effective date
 
-This Privacy Policy was last updated 21 December 2021.
+This Privacy Policy was last updated 07 March 2022.
