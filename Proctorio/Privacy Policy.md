@@ -14,7 +14,7 @@ Proctorio would like to start by defining two terms you'll see used throughout P
 
 Users can utilize Proctorio's Sites or Services without providing Personal Information.
 
-![](/assets/images/51c68d59-578.png)
+![A person sitting in front of their laptop, an image of a padlock securing a folder overhead](/assets/images/51c68d59-1161.png)
 
 Proctorio encrypts exam audio, video, and screen recordings and images with Zero-Knowledge Encryption. This means that once these images and recordings are encrypted, they can only be decrypted by Institution-approved representatives.
 
@@ -58,7 +58,7 @@ You can customize the Policy to only see the portions that apply to you. Just ch
 *    Website User
 
 Collecting Personal Information 
-================================
+--------------------------------
 
 *   Proctorio limits the Personal Information collected from end-users through their use of Proctorio’s Services.
 *   Proctorio only collects Personal Information as instructed by your Institution. This is dependent on the Services and settings selected by the relevant Institution-approved representatives.
@@ -374,7 +374,7 @@ Sometimes Institution-approved representatives may pay for the Services with a c
 *   Email address - to receive a digital receipt
 
 Using your Information
-======================
+----------------------
 
 *   Proctorio's use of Personal Information depends on whether we are processing Information for an Institution or if an individual provides Personal Information to us directly or visits Proctorio's Sites.
 
@@ -429,7 +429,7 @@ De-identified data/aggregate information 
 Proctorio uses de-identified information for billing and utilization analysis of Proctorio's Services.
 
 Sharing your Information 
-=========================
+-------------------------
 
 *   Proctorio doesn’t sell test-taker data to third parties.
 *   Proctorio doesn’t share test-taker data with third parties for any marketing purposes.
@@ -616,7 +616,7 @@ Proctorio does not use any client-side tracking pixels such as those used for ad
 When a client uses the “Do Not Track” client setting, Proctorio will only log the action, but will not store the user agent or IP address.
 
 Your Rights 
-============
+------------
 
 *   Some countries and/or states have their own privacy and data security laws, Proctorio makes every effort to comply with each and every one of them.
 
@@ -810,7 +810,7 @@ Please note that such marketing opt-out does not impact any transaction or opera
 If you have any questions or comments about this Privacy Policy, please contact Proctorio through one of Proctorio's [contact channels](#contact-information).
 
 Protecting your Information
-===========================
+---------------------------
 
 *   For test-taker Information that Proctorio processes for an Institution, Proctorio implements Zero-Knowledge Encryption, which means only Institution-approved representatives can decrypt and review encrypted exam recordings.
 
@@ -859,7 +859,7 @@ All Proctorio proctors sign a confidentiality agreement restricting them from us
 All proctors are full-time Proctorio employees and are required to go through an extensive background check and fingerprinting process. All Proctorio proctors can view, note, and record exam attempts. Proctorio proctors go through a five-week training process with Proctorio's Proctorio Training Specialists and must complete Privacy & Security Training. The proctors are the only employees who have access to the tools required for Live Proctoring and only company-owned and controlled devices can access this information. This is further restricted using IP address restrictions to ensure these devices are being accessed in appropriate locations. Proctorio proctors are then uniquely identified at sign-on by using two-factor authentication and the device is restricted based on the user's group, department, and access level. Device compliance testing is run regularly and devices out of compliance are blocked from accessing any restricted resources until compliance is restored.
 
 Data storage 
-=============
+-------------
 
 *   Proctorio stores test-taker Personal Information, including all audio, video, and screen recordings and images, which Proctorio collects during the exam for the minimum amount of time required by the Institution or by applicable law.
 *   The length and location of how and where data for operations is stored varies and is dependent on applicable law and the information itself.
