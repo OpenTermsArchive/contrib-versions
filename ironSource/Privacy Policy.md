@@ -1,12 +1,12 @@
 #### ironSource Website Privacy Policy
 
-Last Revised: November 4, 2021
+Last Revised: March 17, 2021
 
-The following policy governs how ironSource Ltd. (“ironSource“, “Company” “we” or “us“), and its subsidiaries, handle information collected from users of its website, at the address [is.com/](https://www.is.com/) and its subdomains (the “Site“), including ironSource Mobile Dashboard (the “Dashboard”).
+The following policy governs how ironSource Ltd. (“ironSource“, “Company” “we” or “us“), and its subsidiaries, handle information collected from users of its websites, at the addresses [is.com/](https://www.is.com/), lunalabs.io/, bidalgo.com/ and their subdomains (the “Sites“), including ironSource Mobile Dashboard, Luna Create Hub and the Luna Control Hub (the “Dashboards”).
 
 Capitalized terms which are not defined herein, shall have the meaning ascribed to them in our Terms of Use available on the Site, which this Privacy Policy is incorporated thereto by reference.
 
-Please note that this privacy policy covers our privacy practices only with respect to the Site.
+Please note that this privacy policy covers our privacy practices only with respect to the Sites.
 
 If you would like to review our privacy policies for our products and services, please see the links below:
 
@@ -14,31 +14,31 @@ Mobile Ad Network and Mediation Platform – [https://developers.is.com/ironsour
 
 [Supersonic Studios Apps – https://supersonic.com/privacy/](https://www.is.com/)
 
-The Site is accessible for individuals around the world. Accordingly, throughout the document, we try to harmonize our approach and the language of the privacy policy as much as possible. However, sometimes we refer to specific laws that require further disclosures. These disclosures cover laws and regulations applicable to the following regions:
+The Sites are accessible for individuals around the world. Accordingly, throughout the document, we try to harmonize our approach and the language of the privacy policy as much as possible. However, sometimes we refer to specific laws that require further disclosures. These disclosures cover laws and regulations applicable to the following regions:
 
 1.  Individuals who we deem to be located in the European Economic Area, United Kingdom, or Switzerland – With respect to the collection and processing of their personal data, as defined by the General Data Protection Regulation (“GDPR”), and the UK Data Protection Act.
 2.  Individuals who we deem to be located in California – With respect to the collection and processing of their personal information, as defined by the California Consumer Privacy Act (“CCPA”).
 
 For purposes of the CCPA, this Privacy Policy serves as both the Privacy Policy and Notice at Collection of Personal Information.
 
-Your Consent (PLEASE READ CAREFULLY!) BY ACCESSING THE SITE AND/OR USING THE SITE, YOU AGREE TO THE TERMS AND CONDITIONS SET FORTH IN THIS PRIVACY POLICY (THE “PRIVACY POLICY“), INCLUDING TO THE COLLECTION AND PROCESSING OF YOUR PERSONAL INFORMATION (AS DEFINED BELOW). IF YOU DISAGREE TO ANY TERM PROVIDED HEREIN, YOU MAY NOT USE THE SITE.
+Your Consent (PLEASE READ CAREFULLY!) BY ACCESSING THE SITES AND/OR USING THE SITES, YOU AGREE TO THE TERMS AND CONDITIONS SET FORTH IN THIS PRIVACY POLICY (THE “PRIVACY POLICY“), INCLUDING TO THE COLLECTION AND PROCESSING OF YOUR PERSONAL INFORMATION (AS DEFINED BELOW). IF YOU DISAGREE TO ANY TERM PROVIDED HEREIN, YOU MAY NOT USE THE SITES.
 
 Information We Collect, and Purposes of Processing
 
 We collect the following types of information from Users:
 
-1.  Information collected automatically from Users who are visiting the Site (“Site Information”):
+1.  Information collected automatically from Users who are visiting the Sites (“Site Information”):
 
-*   Technical Information – Technical information about your browser and device is automatically collected when you visit the Site, or the Dashboard app. Such information consists of the device’s IP address, device ID, the type and version of browser used to access the Site, operating system, language of the browser and operating system, and type of device.
-*   Interaction Information – Information about your interactions with the Site or Dashboard app (e.g. whether you clicked on a specific link, where you clicked, time on site, etc.).
+*   Technical Information – Technical information about your browser and device is automatically collected when you visit the Sites, or the Dashboard apps. Such information consists of the device’s IP address, device ID, the type and version of browser used to access the Sites, operating system, language of the browser and operating system, and type of device.
+*   Interaction Information – Information about your interactions with the Sites or Dashboard apps (e.g. whether you clicked on a specific link, where you clicked, time on Sites, etc.).
 
 3.  Information you voluntarily provide us:
 
 *   Registration Information – When you register to our services, you will be asked to provide your email address, password, billing information, details about your apps, and payment details.
-*   Job Application Information – When you choose to apply for a job at ironSource via the Site, you will be requested to provide us with your full name, email address, phone number, link to your Linkedin page, link to your website, and your CV.
+*   Job Application Information – When you choose to apply for a job at ironSource via the Sites, you will be requested to provide us with your full name, email address, phone number, link to your Linkedin page, link to your website, and your CV.
 *   Newsletter Information – If you subscribe to our newsletter, you will be requested to provide your email address.
 *   Event Information – If you choose to register to an event we host, you will be requested to provide us with your full name, email address, phone number, job title, current company, and such other information necessary for attending the event.
-*   Communication Information – If you choose to communicate with us via an online form on the Site, email, or automated chat service (‘chat bot’), you may provide us with information such as your name, and your email address, and any other information you choose to share with us.
+*   Communication Information – If you choose to communicate with us via an online form on the Sites, email, or automated chat service (‘chat bot’), you may provide us with information such as your name, and your email address, and any other information you choose to share with us.
 
 What are the Purposes of the Collection of Information?
 
@@ -60,15 +60,15 @@ We store information for as long as is reasonably necessary for the purposes for
 
 Minors
 
-To use of Site, you must be over the age of eighteen (18). Therefore, ironSource does not knowingly collect personal information from individuals under the age of eighteen (18) and does not wish to do so. If you have any reason to believe that a minor has shared Personal Information with us, please contact us.
+To use the Sites, you must be over the age of eighteen (18). Therefore, ironSource does not knowingly collect personal information from individuals under the age of eighteen (18) and does not wish to do so. If you have any reason to believe that a minor has shared Personal Information with us, please contact us.
 
 Third Party Sites
 
-While using the Site you may encounter links to third party websites. Please be advised that such third party websites are independent sites, and we assume no responsibility or liability whatsoever with regard to privacy matters or any other legal matter with respect to such sites. We encourage you to carefully read the privacy policies and the terms of use or service of such websites.
+While using the Sites you may encounter links to third party websites. Please be advised that such third party websites are independent sites, and we assume no responsibility or liability whatsoever with regard to privacy matters or any other legal matter with respect to such sites. We encourage you to carefully read the privacy policies and the terms of use or service of such websites.
 
 Cookies
 
-When you access or use the Site, we may use industry-wide technologies such as “cookies” (or similar technologies), which store certain information on your computer and which will allow us to enable automatic activation of certain features, and make your service experience much more convenient and effortless. It is easy to prohibit certain cookies. You can do so by editing your preferences through the Site’s cookie settings link. In addition, most browsers will allow you to erase cookies from your computer’s hard drive, block acceptance of cookies, or receive a warning before a cookie is stored. However, if you block or erase cookies your online experience may be limited.
+When you access or use the Sites, we may use industry-wide technologies such as “cookies” (or similar technologies), which store certain information on your computer and which will allow us to enable automatic activation of certain features, and make your service experience much more convenient and effortless. It is easy to prohibit certain cookies. You can do so by editing your preferences through the Site’s cookie settings link. In addition, most browsers will allow you to erase cookies from your computer’s hard drive, block acceptance of cookies, or receive a warning before a cookie is stored. However, if you block or erase cookies your online experience may be limited.
 
 Information to Individuals Located in the European Economic Area, Switzerland, and the United Kingdom
 
@@ -117,7 +117,7 @@ Information about California resident requests in 2020
 
 Changes to the Privacy Policy
 
-The terms of this Privacy Policy will govern the use of the Site and any information collected therein. We reserve the right to change this policy at any time, so please re-visit this page frequently. We will provide notice of substantial changes of this policy on the homepage of the Site and/or we will send you an e-mail regarding such changes to the e-mail address that you may have provided us with. Such substantial changes will take effect seven (7) days after such notice was provided on our Site or sent by email. Otherwise, all other changes to this Privacy Policy are effective as of the stated “Last Revised” date and your continued use of the Site after the Last Revised date will constitute acceptance of, and agreement to be bound by, those changes.
+The terms of this Privacy Policy will govern the use of the Sites and any information collected therein. We reserve the right to change this policy at any time, so please re-visit this page frequently. We will provide notice of substantial changes of this policy on the homepage of the Site and/or we will send you an e-mail regarding such changes to the e-mail address that you may have provided us with. Such substantial changes will take effect seven (7) days after such notice was provided on our Site or sent by email. Otherwise, all other changes to this Privacy Policy are effective as of the stated “Last Revised” date and your continued use of the Site after the Last Revised date will constitute acceptance of, and agreement to be bound by, those changes.
 
 Have any Questions?
 
