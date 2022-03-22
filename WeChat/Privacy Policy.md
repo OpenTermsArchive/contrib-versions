@@ -1,7 +1,7 @@
 WECHAT PRIVACY POLICY
 =====================
 
-**Last Updated:** 2021-12-31
+**Last Updated:** 2022-03-22
 
 **SUMMARY**
 
@@ -58,12 +58,12 @@ If there are any significant changes to this Privacy Policy, we will update it h
 
 **DATA CONTROLLER**
 
-*   If you are a WeChat user located in the European Economic Area ("**the EEA**"), the United Kingdom of Great Britain and Northern Ireland ("**the UK**") or Switzerland: **Tencent International Service Europe B.V.,** a Dutch company, located at Gustav Mahlerplein 2, 1082 MA, Amsterdam, the Netherlands; and
+*   If you are a WeChat user located in the European Economic Area ("**the EEA**"), the United Kingdom of Great Britain and Northern Ireland ("**the UK**") or Switzerland: **Tencent International Service Europe B.V.,** a Dutch company, located at Buitenveldertselaan 1-5, 1082 VA, Amsterdam, the Netherlands; and
 *   If you are a WeChat user located outside of the EEA, the UK, Switzerland or the Chinese Mainland: **WeChat International Pte. Ltd.**, a Singaporean company located at 10 Anson Road, #21-07 International Plaza, Singapore 079903.
 
 **CONTACT US**
 
-If you have any questions or complaints regarding this Privacy Policy or the use of your Personal Information, please contact our Data Protection Officer via email at [**dataprotection@wechat.com**](mailto:dataprotection@wechat.com) or via postal mail at **Gustav Mahlerplein 2, 1082 MA, Amsterdam, the Netherlands** (**Attention: Data Protection Officer, Legal Department**).
+If you have any questions or complaints regarding this Privacy Policy or the use of your Personal Information, please contact our Data Protection Officer via email at [**dataprotection@wechat.com**](mailto:dataprotection@wechat.com) or via postal mail at **Buitenveldertselaan 1-5, 1082 VA, Amsterdam, the Netherlands** (**Attention: Data Protection Officer, Legal Department**).
 
 Please note that if you are a resident in the EEA, the UK or Switzerland you have the right to lodge a complaint with your country's data protection authority.
 
@@ -84,7 +84,7 @@ This Privacy Policy explains the when, how and why when it comes to processing o
 
 In this Privacy Policy, **"we"**, **"our"** or **"us"** refers to:
 
-*   if you are a WeChat user located in the EEA, the UK or Switzerland: **Tencent International Service Europe B.V.**, a Dutch company, located at Gustav Mahlerplein 2, 1082 MA, Amsterdam, the Netherlands; and
+*   if you are a WeChat user located in the EEA, the UK or Switzerland: **Tencent International Service Europe B.V.**, a Dutch company, located at Buitenveldertselaan 1-5, 1082 VA, Amsterdam, the Netherlands; and
 *   if you are a WeChat user located outside of the EEA, the UK, Switzerland or the Chinese Mainland: **WeChat International Pte. Ltd.**, a Singaporean company located at 10 Anson Road, #21-07 International Plaza, Singapore 079903.
 
 Each of the above entities is also the **data controller** for users located in the abovementioned jurisdictions.
@@ -93,7 +93,7 @@ Any capitalised terms used in this Privacy Policy have the same meaning as the e
 
 **CONTACT**
 
-If you have any questions or complaints regarding this Privacy Policy or the use of your Personal Information, please contact our Data Protection Officer via email at [**dataprotection@wechat.com**](mailto:dataprotection@wechat.com) or via postal mail at **Gustav Mahlerplein 2, 1082 MA, Amsterdam, the Netherlands (Attention: Data Protection Officer, Legal Department)**.
+If you have any questions or complaints regarding this Privacy Policy or the use of your Personal Information, please contact our Data Protection Officer via email at [**dataprotection@wechat.com**](mailto:dataprotection@wechat.com) or via postal mail at **Buitenveldertselaan 1-5, 1082 VA, Amsterdam, the Netherlands (Attention: Data Protection Officer, Legal Department)**.
 
 Please note that if you are a resident in the EEA, the UK or Switzerland you have the right to lodge a complaint with your country's data protection authority.
 
