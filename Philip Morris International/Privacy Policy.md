@@ -182,7 +182,7 @@ Find Out More
 
 **_Sharing data with_** **_other PMI affiliates_**
 
-*   Information about you will be shared with Philip Morris Products S.A. (based in Neuchâtel, Switzerland), which is the place of central administration of personal data processing for PMI affiliates. Philip Morris Products S.A. processes the information about you for all the purposes described in this notice.
+*   Information about you will be shared with Philip Morris Products S.A. (based in Neuchâtel, Switzerland), which is the place of central administration of personal data processing for PMI affiliates. Philip Morris Products S.A. processes the information about you for all the purposes described in this notice.
     
 *   Information about you may be shared with the PMI affiliate that is responsible for the country in which you live (if it wasn’t the PMI affiliate that first collected the information) for all the purposes described in this notice.
     
@@ -197,7 +197,13 @@ According to which country you are in, we want you to be aware of some further p
 
 **_If you are in Japan, find out more…_**
 
-If you are in Japan, note that we share information about you, for the purposes described in this notice, with other PMI affiliates on the basis of “joint use” under Japanese data protection laws. When we do this, Philip Morris Japan Limited continues to manage your personal information responsibly, and we require those with whom we share the data to do the same. Further, if they are located outside Japan, we take reasonable measures in accordance with the relevant laws and regulations.
+If you are in Japan, note that we share information about you described in this notice as being collected by us, for the purposes described in this notice, with other PMI affiliates on the basis of “joint use” under Japanese data protection laws. When we do this, Philip Morris Japan Limited ([](https://www.pmi.com/markets/japan/ja/home)[here](https://www.pmi.com/markets/japan/ja/home) for details) continues to manage your personal information responsibly, and we require those with whom we share the data to do the same. Further, if they are located outside Japan, we take reasonable measures in accordance with the relevant laws and regulations.
+
+To the extent permitted by applicable law, we may share information about you with PMI affiliates’ carefully selected third party business partners including advertisers and data analysing businesses (in line with the kind of thing you might associate with our products, for example because they have similar or complementary image, style, or functionality) so that they can contact you with products, services and promotions that they think may interest you, in accordance with your preferences, or they can analyse your preference and we can contact you with more tailor-made offers.
+
+In addition to this, we may receive from third parties’ Personal Referable Information, i.e.  information with which a specific individual cannot be identified and use it by associating with information about you which we already possess, only if you agree to do so.
+
+Under the age verification requirements, by “adult” we understand individuals that are over 20 years old (the legal age to purchase tobacco products).
 
 **_Sharing data with Third Parties_**
 
@@ -217,7 +223,7 @@ _**If you are in Germany, we share information about you with SCHUFA Holding AG,
 
 **_If you are in Japan, find out more…_**
 
-If you are in Japan, note that we share information about you, for the purposes described in this notice, with Dentsu Tech Inc. (“**Dentsu**”) on the basis of “joint use” under Japanese data protection laws. When we do this, Philip Morris Japan Limited continues to manage your personal information responsibly, and we require Dentsu to do the same.
+If you are in Japan, note that we share information about you described in this notice as being collected by us, for the purposes described in this notice, with Dentsu Promotion Plus Inc. (“**Dentsu**”), the operator of IQOS Stores, IQOS Online Store and IQOS Telesales Center, on the basis of “joint use” under Japanese data protection laws. When we do this, Philip Morris Japan Limited ([](https://pmiprivacy.com/en/consumer/affiliates)[here](https://pmiprivacy.com/en/consumer/affiliates) for details) continues to manage your personal information responsibly, and we require Dentsu to do the same.
 
 Where might information about you be sent?
 ------------------------------------------
@@ -344,4 +350,4 @@ Changes to this notice
 
 We may update this notice (and any supplemental privacy notice), from time to time. Where the law requires it, we will notify you of the changes; further, where the law requires it, we will also obtain your consent to the changes.
 
-Last modified 10 February 2021. You can find [previous versions](https://pmiprivacy.com/en/consumer/legal-document/legal-documents) of this notice.
+Last modified 1 April 2022. You can find [previous versions](https://pmiprivacy.com/en/consumer/legal-document/legal-documents) of this notice.
