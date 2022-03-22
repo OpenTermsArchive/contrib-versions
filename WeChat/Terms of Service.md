@@ -17,7 +17,7 @@ By using WeChat, you are agreeing to be bound by these Terms between you and:
 | **International Dialling Code of the Phone Number Linked to your Account** | **Contracting Entity** | **Address** |
 | --- | --- | --- |
 | If the international dialling code of the phone number linked to your account is in any country other than the UK, EEA or Switzerland (as defined below) or People’s Republic of China (excluding Taiwan, Hong Kong or Macau) (“**China Mainland**”) | **WeChat International Pte. Ltd.** | 10 Anson Road, #21-07 International Plaza, Singapore 079903 |
-| If the international dialling code of the phone number linked to your account is in United Kingdom, European Economic Area or Switzerland (“**UK, EEA or Switzerland**”) | **Tencent International Services Europe BV** | Gustav Mahlerplein 2, 1082 MA Amsterdam, the Netherlands |
+| If the international dialling code of the phone number linked to your account is in United Kingdom, European Economic Area or Switzerland (“**UK, EEA or Switzerland**”) | **Tencent International Services Europe BV** | Buitenveldertselaan 1-5, 1082 VA Amsterdam, the Netherlands |
 
 (in each case, “**we**”, “**our**” and “**us**”).
 
@@ -436,4 +436,4 @@ Unless you have provided your consent, or to the extent otherwise described in o
 *   for managing bad debt and preventing fraud related to the provision of services; and/or
 *   for the provision of mobile roaming-related information to in-bound mobile roaming customers in Singapore.
 
-Last modified: 2022-01-28
+Last modified: 2022-03-22
