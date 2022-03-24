@@ -3,13 +3,13 @@ Viber Privacy Policy
 
 _\[Last Updated: March 22, 2022  – [What changed?](https://www.viber.com/en/blog/2022-03-20/viber-privacy-policy-updates/)\]_
 
-As part of our mission to spread good vibes, we want you to be able to share the things that matter to you most with your friends, family and anyone else around you. It’s important to us that you feel comfortable and trust us with your data when using the Viber Services (as detailed under [**Viber’s Terms of Use**](https://www.viber.com/en/terms/viber-terms-use/)). Please take a few minutes to read this Privacy Policy, so that you understand what data we collect, what we do with it and why, how we protect it and what are your rights in relation to this data.
+As part of our mission to spread good vibes, we want you to be able to share the things that matter to you most with your friends, family and anyone else around you. It’s important to us that you feel comfortable and trust us with your data when using the Viber Services (as detailed under [**Viber’s Terms of Service**](https://www.viber.com/en/terms/viber-terms-use/)). Please take a few minutes to read this Privacy Policy, so that you understand what data we collect, what we do with it and why, how we protect it and what are your rights in relation to this data.
 
 In general, we collect data that allows us to provide you with an optimal experience while using our Services. This includes, for example, some basic benefits like allowing other users to see the name and picture you choose to show and the more advanced ones, like processing your registration and financial data to allow you to purchase our paid solutions, if you choose to use them. It also helps us to keep our Services clear of fraud and spam, and it allows us to get a unique understanding of what additional services may be useful to you, in addition to other purposes outlined in this Privacy Policy.
 
 Starting with Viber 6.0, Viber’s core features are secured with end-to-end encryption: Viber one-on-one calls, one-on-one messages, group messages, private media sharing and linked devices. This means that the encryption keys are stored only on your devices and no one, not even Viber itself, has access to them. To learn more about Viber Encryption, follow this link: [**http://www.viber.com/en/security**](http://www.viber.com/en/security)**.**
 
-If you are located in the [**European Economic Area (EEA)**](https://www.gov.uk/eu-eea#:~:text=Austria%2C%20Belgium%2C%20Bulgaria%2C%20Croatia,%2C%20Slovenia%2C%20Spain%20and%20Sweden.) or the UK, or you are a California resident and the General Data Protection Regulation (“**GDPR**“) or California Privacy Protection Act (“**CCPA**“) applies to you, as applicable, additional information that supplements this Privacy Policy is available at: [**EU Region Privacy Notice**](https://www.viber.com/en/terms/gdpr-privacy-rights/)**;** [**CCPA Notice**](https://www.viber.com/en/terms/ccpa-privacy-rights/).
+If you are located in the [**European Economic Area (EEA)**](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:European_Economic_Area_(EEA)) or the UK, or you are a California resident and the General Data Protection Regulation (“**GDPR**“) or California Privacy Protection Act (“**CCPA**“) applies to you, as applicable, additional information that supplements this Privacy Policy is available at: [**EU Region Privacy Notice**](https://www.viber.com/en/terms/gdpr-privacy-rights/)**;** [**CCPA Notice**](https://www.viber.com/en/terms/ccpa-privacy-rights/).
 
 ######  **![](https://www.viber.com/app/uploads/legal_icon.png)** **TABLE OF CONTENTS**
 
@@ -509,7 +509,7 @@ If we change this privacy policy (except for technical tweaks), we will notify y
 
 We are committed to working with you to obtain a fair resolution of any complaint or concern about privacy. If, however, you believe that we have not been able to assist with your complaint or concern, you have the right to make a complaint to your local data protection authority or to the data protection authority of Luxembourg using their website [**https://cnpd.public.lu/en.html**](https://cnpd.public.lu/en.html).
 
-Current Privacy Policy PDF Version [Viber Privacy Policy March 2022](https://www.viber.com/app/uploads/Viber-Privacy-Policy-EN-March-2022.pdf)
+Current Privacy Policy PDF Version [Viber Privacy Policy March 2022](https://www.viber.com/app/uploads/Viber-Privacy-Policy-EN-March-2022-1.pdf)
 
 Previous Privacy Policy PDF Version [Viber Privacy Policy November 2019](https://www.viber.com/app/uploads/Viber-Privacy-Policy-EN-November-2019.pdf)
 
