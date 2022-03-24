@@ -1,6 +1,5 @@
-Terms & Conditions  
-from 5th March 2021
-========================================
+Terms & Conditions
+==================
 
 Energy Supply Contract
 ----------------------
@@ -930,7 +929,7 @@ You can download all Terms & Conditions [here](https://www.energia.ie/getmedia/a
 *   [Privacy, Data, Terms and Conditions](https://www.energia.ie/privacy)
 *   [Privacy](https://www.energia.ie/privacy-landing)
 *   [Energia Privacy Statement](https://www.energia.ie/privacy/privacy-statement)
-*   [Terms & Conditions](https://www.energia.ie/privacy/terms-conditions)
+*   [Terms & Conditions](https://www.energia.ie/privacy/terms-and-conditions)
 *   [Cookie Policy](https://www.energia.ie/privacy/cookie-policy)
 *   [Standard Terms & Conditions](https://www.energia.ie/privacy/standard-terms-conditions)
-*   [Terms and Conditions](https://www.energia.ie/privacy/terms-and-conditions)
+*   [Terms and Conditions](https://www.energia.ie/privacy/terms-conditions-1)
