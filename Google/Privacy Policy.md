@@ -1,5 +1,30 @@
 Effective 10 February 2022 | [Archived versions](https://policies.google.com/privacy/archive?hl=en-GB&gl=IE) | [Download PDF](https://www.gstatic.com/policies/privacy/pdf/20220210/8e0kln2a/google_privacy_policy_en-GB_eu.pdf)
 
+Contents
+--------
+
+[Introduction](https://policies.google.com/privacy?hl=en-GB&gl=IE#intro)
+
+[Information that Google collects](https://policies.google.com/privacy?hl=en-GB&gl=IE#infocollect)
+
+[Why Google collects data](https://policies.google.com/privacy?hl=en-GB&gl=IE#whycollect)
+
+[Your privacy controls](https://policies.google.com/privacy?hl=en-GB&gl=IE#infochoices)
+
+[Sharing your information](https://policies.google.com/privacy?hl=en-GB&gl=IE#infosharing)
+
+[Keeping your information secure](https://policies.google.com/privacy?hl=en-GB&gl=IE#infosecurity)
+
+[Exporting & deleting your information](https://policies.google.com/privacy?hl=en-GB&gl=IE#infodelete)
+
+[Retaining your information](https://policies.google.com/privacy?hl=en-GB&gl=IE#inforetaining)
+
+[Compliance & cooperation with regulators](https://policies.google.com/privacy?hl=en-GB&gl=IE#enforcement)
+
+[About this policy](https://policies.google.com/privacy?hl=en-GB&gl=IE#about)
+
+[Related privacy practices](https://policies.google.com/privacy?hl=en-GB&gl=IE#products)
+
 We build a range of services that help millions of people daily to explore and interact with the world in new ways. Our services include:
 
 *   Google apps, sites and devices, such as Search, YouTube and Google Home
