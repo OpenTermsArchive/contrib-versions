@@ -400,19 +400,19 @@ If you withdraw from this contract, we shall reimburse to you all payments recei
 | Finland | 0800 520030 |
 | France | 0 805 98 03 38 |
 | Germany | 0800 6270502 |
-| Greece | 800 4920 00536 |
-| Hungary | 06 68 020 0148 |
+| Greece | 00800 4920 00536 |
+| Hungary | 06 80 200 148 |
 | Iceland | 800 4177 |
 | Ireland | 1800 832 663 |
 | Italy | 800 598 905 |
 | Latvia | 80 205 391 |
-| Liechtenstein | 800 566 814 |
+| Liechtenstein | 0800 566 814 |
 | Lithuania | 8 800 00 163 |
 | Luxembourg | 800 40 005 |
 | Malta | 8006 2257 |
 | Netherlands | 0800 3600010 |
 | Norway | 800 62 068 |
-| Poland | 800 331 1426 |
+| Poland | 800 410 575 |
 | Portugal | 808 203 430 |
 | Romania | 0800 672 350 |
 | Slovakia | 0800 500 932 |
