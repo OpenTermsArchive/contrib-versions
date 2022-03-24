@@ -1,3 +1,28 @@
+Contents
+--------
+
+[Introduction](https://policies.google.com/privacy?hl=en-GB#intro)
+
+[Information that Google collects](https://policies.google.com/privacy?hl=en-GB#infocollect)
+
+[Why Google collects data](https://policies.google.com/privacy?hl=en-GB#whycollect)
+
+[Your privacy controls](https://policies.google.com/privacy?hl=en-GB#infochoices)
+
+[Sharing your information](https://policies.google.com/privacy?hl=en-GB#infosharing)
+
+[Keeping your information secure](https://policies.google.com/privacy?hl=en-GB#infosecurity)
+
+[Exporting & deleting your information](https://policies.google.com/privacy?hl=en-GB#infodelete)
+
+[Retaining your information](https://policies.google.com/privacy?hl=en-GB#inforetaining)
+
+[Compliance & cooperation with regulators](https://policies.google.com/privacy?hl=en-GB#enforcement)
+
+[About this policy](https://policies.google.com/privacy?hl=en-GB#about)
+
+[Related privacy practices](https://policies.google.com/privacy?hl=en-GB#products)
+
 We build a range of services that help millions of people daily to explore and interact with the world in new ways. Our services include:
 
 *   Google apps, sites and devices, such as Search, YouTube and Google Home
