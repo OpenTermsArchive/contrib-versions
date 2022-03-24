@@ -1,6 +1,8 @@
 Google Terms of Service
 =======================
 
+Effective 5 January 2022 | [Archived versions](https://policies.google.com/terms/archive?hl=en-GB) | [Download PDF](https://www.gstatic.com/policies/terms/pdf/20220105/it7r24p9/google_terms_of_service_en-GB_gb.pdf)
+
 What’s covered in these terms
 -----------------------------
 
@@ -40,6 +42,23 @@ If you’re under the [age required to manage your own Google Account](https://s
 If you’re a parent or legal guardian, and you allow your child to use the [services](https://policies.google.com/terms?hl=en-GB#footnote-services), then these terms apply to you and you’re responsible for your child’s activity on the services.
 
 Some Google services have additional age requirements as described in their [service-specific additional terms and policies](https://policies.google.com/terms/service-specific?hl=en-GB).
+
+Contents
+--------
+
+[Introduction](https://policies.google.com/terms?hl=en-GB#toc-intro)
+
+[Your relationship with Google](https://policies.google.com/terms?hl=en-GB#toc-relationship)
+
+[Using Google services](https://policies.google.com/terms?hl=en-GB#toc-using)
+
+[Content in Google services](https://policies.google.com/terms?hl=en-GB#toc-content)
+
+[Software in Google services](https://policies.google.com/terms?hl=en-GB#toc-software)
+
+[In case of problems or disagreements](https://policies.google.com/terms?hl=en-GB#toc-problems)
+
+[About these terms](https://policies.google.com/terms?hl=en-GB#toc-about)
 
 Your relationship with Google
 =============================
