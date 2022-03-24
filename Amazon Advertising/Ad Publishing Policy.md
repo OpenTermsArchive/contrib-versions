@@ -410,7 +410,7 @@ Latin alphabet
 
 |     | **Desktop** | **Mobile** | **Tablet** |
 | --- | --- | --- | --- |
-| **Ad copy** | Between Arial 12 pt and 25 pt or equivalent | 640 × 100: Minimum 16 pt Arial or equivalent (@2X resolution)  <br>  <br>600 × 500: Between 32 and 50pt Arial regular or equivalent (@2x resolution)  <br>  <br>828x250: Minimum 26pt Arial regular or equivalent (@2x resolution) | 1940x500: Between 36 and 80pt Arial regular or equivalent (@2x resolution) |
+| **Ad copy** | Between Arial 12 pt and 25 pt or equivalent | 640 × 100: Minimum 16 pt Arial or equivalent (@2X resolution)  <br>  <br>600 × 500: Between 32 and 50pt Arial regular or equivalent (@2X resolution)  <br>  <br>828 x 250: Minimum 26pt Arial regular or equivalent (@2X resolution) | 1940 x 500: Between 36 and 80pt Arial regular or equivalent (@2X resolution) |
 
 Japanese
 
@@ -865,7 +865,7 @@ Amazon even if the ad features a green-band trailer.
   
 Ratings bugs are not required for ads running off Amazon.  
   
-On FireTV, ratings bugs must be placed on the static portions of an ad when they are required.  
+On Fire TV, ratings bugs must be placed on the static portions of an ad when they are required.  
   
 In Canada, when the rating varies between provinces with the same ratings system, ads should use the highest rating; ads should contain both the Quebec rating and the rating for other provinces.  
   
@@ -1267,7 +1267,7 @@ Ads for OTC products should contain the following information:
 *   Marketing communications for a medicinal product should not contain an offer to refund money to dissatisfied customers
 *   Marketing communications that include a product claim for a medicinal product (including legible on-pack product claims within a pack shot) should include: the name of the product; an indication of what it is for; text such as “Always read the label” and the common name of the sole active ingredient, if it contains only one
 *   Illustrations of the effect or action of a product should be accurate
-*   Promotions and Samples:
+*   Promotions and samples:
 
 *   Consumer prize promotions for medicinal products should not encourage or require purchase of the products which would be greater than that associated with a rational use of the product and should not encourage the unnecessary purchase of the product
 *   Marketing communications should not offer free samples of medicinal products
@@ -1579,7 +1579,7 @@ The following product categories are prohibited in Bahrain, the KSA, Kuwait, Mor
 *   Infant and follow-on formula milk
 
 *   **Bahrain:** ads for infant and follow-on formula are prohibited.
-*   **KSA:** ads for infant formula and follow-on formula aged 0-36 months are prohibited. Ads for follow-on formula for children aged 36 months + are permitted.
+*   **KSA:** ads for infant formula and follow-on formula aged 0-36 months are prohibited. Ads for follow-on formula for children aged 36+ months are permitted.
 *   **Kuwait:** ads for infant and follow-on formula are prohibited.
 *   **Morocco:** ads for infant formula are prohibited. Ads for follow-on formula for infants aged 6+ months are permitted.
 *   **UAE:** ads for infant formula are prohibited. Ads for follow-on formula for infants aged 12+ months are permitted.
