@@ -30,7 +30,7 @@ _Last updated: March 22, 2022 – [What changed](https://www.viber.com/en/blog/2
 
 Thanks for sending us good vibes by using the various services available within Viber!
 
-These Terms of Service (“**Terms**”) govern your use of the of the Viber App, Viber Website and any services, features, platforms of products offered by Viber, as detailed below. These Terms form a legally binding contract between you and Viber Media S.ar.l’s (“**Viber**“, “**our**“, “**we**” or “**us**“). Please read them carefully, we have tried our best to strip the legalese from the Terms, however, there are places where they may still read like a traditional contract as they are a legally binding agreement between you and Viber. These Terms **incorporate** and are governed by the [**Acceptable use Policy**](https://www.viber.com/en/terms/viber-public-content-policy/) **“AUP”** and the [**Viber Privacy Policy**](https://www.viber.com/en/terms/viber-privacy-policy/).
+These Terms of Service (“**Terms**”) govern your use of the of the Viber App, Viber Website and any services, features, platforms of products offered by Viber, as detailed below. These Terms form a legally binding contract between you and Viber Media S.ar.l’s (“**Viber**“, “**our**“, “**we**” or “**us**“). Please read them carefully, we have tried our best to strip the legalese from the Terms, however, there are places where they may still read like a traditional contract as they are a legally binding agreement between you and Viber. These Terms incorporate and are governed by the [**Acceptable use Policy**](https://www.viber.com/en/terms/viber-public-content-policy/) **“AUP”** and the [**Viber Privacy Policy**](https://www.viber.com/en/terms/viber-privacy-policy/).
 
 YOU HEREBY CONFIRM THAT YOU HAVE READ AND UNDERSTOOD THE TERMS AND THAT BY INSTALLING THE VIBER APP, ACCESSING OR USING OUR SERVICES, YOU AGREE TO BE BOUND BY THE TERMS. YOU AGREE TO COMPLY WITH ALL APPLICABLE LAWS AND REGULATIONS WHEN USING THE VIBER APP AND SERVICES AND YOU ACKNOWLEDGE THAT THESE TERMS CONSTITUTE A BINDING AND ENFORCEABLE LEGAL ELECTRONIC CONTRACT BETWEEN YOU AND VIBER. PLEASE DO NOT ACCESS THE SERVICES OR INSTALL THE VIBER APP IF YOU DO NOT AGREE TO ALL OR ANY PART OF THE TERMS.
 
@@ -205,7 +205,7 @@ If you have a dispute with one or more users (including game developers and/or m
 
 To the extent permitted by law, and with the exception of Section 19 below, the laws of England and Wales govern these Terms and any claims and disputes arising out of or relating to these Terms or their subject matter. The courts in some countries may not apply the laws of England and Wales to some disputes related to these Terms. If you reside in one of those countries, the laws of your home country may apply to those disputes.
 
-If you are residing in a country or territory within the European Region, you may resolve your claim within the competent court of Luxemburg that has the jurisdiction over claims that are brought by European Region residents.  
+If you are residing in a country or territory within the European Region, you may resolve your claim within the competent court of Luxembourg that has the jurisdiction over claims that are brought by European Region residents.  
 
 ###### **18\. Arbitration, Class-Action Waiver**
 
@@ -284,7 +284,7 @@ To allow safe access to emergency services, the Viber mobile app initiates emerg
 
 In case you experience any issue with the Viber Out service, please contact our support as provided under section 21 of the Terms and our team will check such report and will endeavor to remedy any such fault as reasonably feasible. For any information relating to technical details with respect to the calls transferred between mobile networks, please review your agreement with your mobile operator.
 
-Current Terms of Use PDF [**Viber Terms of Service March 2022**](https://www.viber.com/app/uploads/Viber-Terms-of-Service-EN-March-2022.pdf)
+Current Terms of Use PDF [**Viber Terms of Service March 2022**](https://www.viber.com/app/uploads/Viber-Terms-of-Service-EN-March-2022-1.pdf)
 
 Previous Terms of Use PDF [**Viber Terms of Use May 2018**](https://www.viber.com/app/uploads/Viber-Terms-of-Use-EN-May-2018.pdf)
 
