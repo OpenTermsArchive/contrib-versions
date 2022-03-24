@@ -1,3 +1,5 @@
+Your submission was sent successfully! [_Close_](#)
+
 Website terms and conditions
 ============================
 
@@ -151,7 +153,7 @@ The open source software platform that runs everywhere from the smartphone, the 
 *   [IoT](https://ubuntu.com/internet-of-things)
     --------------------------------------------
     
-    *   [Digital signage](https://ubuntu.com/internet-of-things/digital-signage)
+    *   [Smart displays](https://ubuntu.com/internet-of-things/smart-displays)
     *   [Gateways](https://ubuntu.com/internet-of-things/gateways)
     *   [App store](https://ubuntu.com/internet-of-things/appstore)
     *   [Embedded Linux](https://ubuntu.com/embedded)
