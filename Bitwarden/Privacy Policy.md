@@ -257,7 +257,7 @@ The Site or Bitwarden Service may contain links to a number of sites owned and o
 Minimum Age
 -----------
 
-The Site or Bitwarden Service is not directed to, nor intended to be used by, individuals under the age of 16, or the equivalent minimum age in the relevant jurisdiction. Bitwarden does not knowingly collect Personal Information from individuals under the age of 16, or the equivalent minimum age in the relevant jurisdiction. If you become aware that an individual under the age of 16, or the equivalent minimum age in the relevant jurisdiction, has provided us with Personal Information, please [Contact Us](#contact-us). If we become aware that an individual under the age of 16, or the equivalent minimum age in the relevant jurisdiction, has provided us with Personal Information, we will take steps to delete such information.
+The Site or Bitwarden Service is not directed to, nor intended to be used by, individuals under the age of 13, or the equivalent minimum age in the relevant jurisdiction. Bitwarden does not knowingly collect Personal Information from individuals under the age of 13, or the equivalent minimum age in the relevant jurisdiction. If you become aware that an individual under the age of 13, or the equivalent minimum age in the relevant jurisdiction, has provided us with Personal Information, please [Contact Us](#contact-us). If we become aware that an individual under the age of 13, or the equivalent minimum age in the relevant jurisdiction, has provided us with Personal Information without parental consent, we will take steps to delete such information.
 
 Updates to this Privacy Policy
 ------------------------------
