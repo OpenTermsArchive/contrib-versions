@@ -131,7 +131,7 @@ We provide these services to you and others to help advance our mission. In exch
       
     
 *   Limits on using our intellectual property  
-    If you use content covered by intellectual property rights that we have and make available in our Products (for example, images, designs, videos or sounds we provide that you add to content you create or share on Facebook), we retain all rights to that content (but not yours). You can only use our copyrights or [trademarks (or any similar marks)](https://l.facebook.com/l.php?u=https%3A%2F%2Fen.facebookbrand.com%2Ftrademarks%2F&h=AT0tCqz21HH9-R2jJzM0WpWYM52di0v0vkcBT1tlfwa1oXYsYBtyZftvhXZ6Somu5VxeYqoDjXHhvFyEJADr9ySTlgrttB_8xsK261aiAPUwez6NMpISh0pmF7NXefp63Nj5xYaqzx7A0EjlBST7Xz7T3kE6CQ) as expressly permitted by our [Brand Usage Guidelines](https://l.facebook.com/l.php?u=https%3A%2F%2Fen.facebookbrand.com%2Fguidelines%2Fbrand&h=AT0tCqz21HH9-R2jJzM0WpWYM52di0v0vkcBT1tlfwa1oXYsYBtyZftvhXZ6Somu5VxeYqoDjXHhvFyEJADr9ySTlgrttB_8xsK261aiAPUwez6NMpISh0pmF7NXefp63Nj5xYaqzx7A0EjlBST7Xz7T3kE6CQ) or with our prior written permission. You must obtain our written permission (or permission under an open-source licence) to modify, create derivative works of, decompile or otherwise attempt to extract source code from us.
+    If you use content covered by intellectual property rights that we have and make available in our Products (for example, images, designs, videos or sounds we provide that you add to content you create or share on Facebook), we retain all rights to that content (but not yours). You can only use our copyrights or [trademarks (or any similar marks)](https://l.facebook.com/l.php?u=https%3A%2F%2Fen.facebookbrand.com%2Ftrademarks%2F&h=AT3N9_jxknROCBqJripMaJSYGklH5OlGY_NoNXEsb2K47i1lwCt5F0EMNDsBybNrMaNQ2Y5iKfKkAR12iq_58ELNV4ENzKxZn3vjUpUG0lzvZdClD8rXU92B5qExmo_b_J9lrAM8ldBKPRcIMldd7tL8V_RVl-WFtDI8V2PgLHk) as expressly permitted by our [Brand Usage Guidelines](https://l.facebook.com/l.php?u=https%3A%2F%2Fen.facebookbrand.com%2Fguidelines%2Fbrand&h=AT3N9_jxknROCBqJripMaJSYGklH5OlGY_NoNXEsb2K47i1lwCt5F0EMNDsBybNrMaNQ2Y5iKfKkAR12iq_58ELNV4ENzKxZn3vjUpUG0lzvZdClD8rXU92B5qExmo_b_J9lrAM8ldBKPRcIMldd7tL8V_RVl-WFtDI8V2PgLHk) or with our prior written permission. You must obtain our written permission (or permission under an open-source licence) to modify, create derivative works of, decompile or otherwise attempt to extract source code from us.
 
   
 
@@ -218,7 +218,7 @@ We provide these services to you and others to help advance our mission. In exch
     
 *   [Commerce Policies](https://www.facebook.com/policies/commerce): These guidelines outline the Policies that apply when you offer products and services for sale on Facebook.
     
-*   [Meta brand resources](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=AT0tCqz21HH9-R2jJzM0WpWYM52di0v0vkcBT1tlfwa1oXYsYBtyZftvhXZ6Somu5VxeYqoDjXHhvFyEJADr9ySTlgrttB_8xsK261aiAPUwez6NMpISh0pmF7NXefp63Nj5xYaqzx7A0EjlBST7Xz7T3kE6CQ): These guidelines outline the policies that apply to use of Meta trademarks, logos and screenshots.
+*   [Meta brand resources](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=AT3N9_jxknROCBqJripMaJSYGklH5OlGY_NoNXEsb2K47i1lwCt5F0EMNDsBybNrMaNQ2Y5iKfKkAR12iq_58ELNV4ENzKxZn3vjUpUG0lzvZdClD8rXU92B5qExmo_b_J9lrAM8ldBKPRcIMldd7tL8V_RVl-WFtDI8V2PgLHk): These guidelines outline the policies that apply to use of Meta trademarks, logos and screenshots.
     
 *   [Music guidelines](https://www.facebook.com/legal/music_guidelines): These guidelines outline the policies that apply if you post or share content containing music on Meta Products.
     
@@ -227,14 +227,3 @@ We provide these services to you and others to help advance our mission. In exch
 
   
 Date of last revision: 4 January 2022
-
-*   [Privacy](https://www.facebook.com/privacy/explanation/) ·
-*   [Terms](https://www.facebook.com/policies?ref=pf) ·
-*   [Advertising](https://www.facebook.com/business/) ·
-*   [Ad choices](https://www.facebook.com/help/568137493302217)   ·
-*   [Cookies](https://www.facebook.com/policies/cookies/) ·
-*   More
-    
-     ·
-
-Meta © 2022
