@@ -15,7 +15,7 @@ We disclose account records solely in accordance with our terms of service and a
 
 It is important to note that some information we store is collected automatically, while other information is provided by the user. We do not require email or phone verification, and we do not require people to use real names or identities on Instagram.
 
-For additional information about Instagram, please read our [Data Policy](https://help.instagram.com/519522125107875) and [Terms of Use](https://help.instagram.com/581066165581870).
+For additional information about Instagram, please read our [Privacy Policy](https://help.instagram.com/519522125107875) and [Terms of Use](https://help.instagram.com/581066165581870).
 
 Data Retention and Availability
 
@@ -42,7 +42,7 @@ If a request relates to a child exploitation or safety matter, please specify th
 
 International Legal Process Requirements
 
-We disclose account records solely in accordance with applicable terms of service and applicable law. A Mutual Legal Assistance Treaty request or letter rogatory may be required to compel the disclosure of the contents of an account. Further information can be found [in our Data Policy](https://help.instagram.com/155833707900388/).
+We disclose account records solely in accordance with applicable terms of service and applicable law. A Mutual Legal Assistance Treaty request or letter rogatory may be required to compel the disclosure of the contents of an account. Further information can be found [in our Privacy Policy](https://help.instagram.com/155833707900388/).
 
 Account Preservation
 
@@ -70,7 +70,7 @@ Online:
 
 Law enforcement officials seeking Instagram account records must address their request to:
 
-Facebook, Inc.  
+Meta Platforms, Inc.,  
 1601 Willow Road  
 Menlo Park, CA 94025  
 United States
@@ -79,7 +79,7 @@ Law enforcement officials are encouraged to use the Law Enforcement Online Reque
 
 Mail:
 
-Facebook, Inc.  
+Meta Platforms, Inc.,  
 Attn: Law Enforcement Response Team  
 1601 Willow Road  
 Menlo Park, CA 94025
