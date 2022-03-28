@@ -4,7 +4,7 @@ Privacy Policy (printable version)
 General information
 -------------------
 
-*   Last updated: 2 February 2022
+*   Last updated: 22 March 2022
 *   Here we inform you about data processing in connection with the entire service XING and its applications (kununu etc.).
 *   New Work SE is the body responsible for the processing of personal data.
 *   Our Data Protection Officer is Felix Lasse.
@@ -356,6 +356,22 @@ We only save copies of identification documents you provide us with for verifica
 #### Legal basis
 
 The legal basis for this processing of [personal data](https://privacy.xing.com/en/privacy-policy/glossary/personal-data) are Article 6 (1) a) (separate consent) of the [EU General Data Protection Regulation (GDPR)](https://privacy.xing.com/en/privacy-policy/glossary/eu-gdpr), Article 6 (1) b) (processing necessary for the performance of a contract) of the [EU General Data Protection Regulation (GDPR)](https://privacy.xing.com/en/privacy-policy/glossary/eu-gdpr), Article 6 (1) f) (processing based on the weighing of interests) of the [EU General Data Protection Regulation (GDPR)](https://privacy.xing.com/en/privacy-policy/glossary/eu-gdpr), and Article 6 (1) c) (processing necessary for compliance with a legal obligation) of the [EU General Data Protection Regulation (GDPR)](https://privacy.xing.com/en/privacy-policy/glossary/eu-gdpr).
+
+#### Applications via XING
+
+You can apply for some jobs directly via XING by entering your contact details and uploading your documents to an application form. We then send your application to the company that posted the job ad.
+
+#### Visibility
+
+Only you can see which vacancies you applied for. Other people are unable to see this information on XING. Only the company you apply to via XING can access the data and documents you provide in your application.
+
+#### Retention period
+
+We will delete the data and documents you provide in your application via XING after a period of 6 months. Some job application processes can take several months to complete, which is why we want to make sure that companies you apply to via XING have long enough access to your application data and documents.
+
+#### Legal basis
+
+The legal basis for this processing of [personal data](https://privacy.xing.com/en/privacy-policy/glossary/personal-data) is Article 6 (1) b) of the [EU General Data Protection Regulation (GDPR)](https://privacy.xing.com/en/privacy-policy/glossary/eu-gdpr).
 
 ### 3\. Information automatically collected through your use of XING
 
@@ -748,6 +764,10 @@ If the "CO2 compensation" option is selected with the purchase of a ticket, the 
 The ticker buyer and attendee data gathered for an event (e.g. during a ticket purchase or event registration) will be accessible to the respective event organiser. This is necessary for the performance of a contract (e.g. for managing the entry at an event).  
 The event host can determine whether certain participant data are displayed on a publicly accessible attendee list. As an attendee, you are able to remove your details from the attendee list or to contact the event organiser and XING Events with regard to this matter.
 
+#### Companies you apply to via XING
+
+You can apply for some jobs directly via XING. We send the data and documents in your application to the company that posted the job ad. If you're logged in to XING, we'll also send your XING profile as a link and PDF overview. Companies you apply to via XING can review your application via a secure download link.
+
 #### Google
 
 Certain XING features use partner technologies from Google, e.g. to generate previews when users post YouTube videos on the platform.  
@@ -781,7 +801,7 @@ You have the right to demand confirmation as to whether we process your [persona
   
 As a user of the [social network](https://privacy.xing.com/en/privacy-policy/glossary/social-network) you can request this information at [https://www.xing.com/settings/privacy/data/disclosure](https://www.xing.com/settings/privacy/data/disclosure).  
   
-As a kununu, kununu engage, XING EventManager, HalloFreelancer, XING TalentService or XING Exchange user you can also easily access the data we have saved about you there. Simply send an e-mail request:
+As a kununu, kununu engage, XING EventManager, HalloFreelancer, XING TalentService, XING Exchange, or applications via XING user you can also easily access the data we have saved about you there. Simply send an e-mail request:
 
 #### kununu
 
@@ -806,6 +826,10 @@ Use the following e-mail address to request the data we saved about you in XING 
 #### XING Exchange
 
 Use the following e-mail address to request the data we saved about you in this application: [xing-exchange@xing.com](mailto:xing-exchange@xing.com)
+
+#### Applications via XING
+
+Use the following e-mail address to request the data we saved about your applications via XING: [xing-exchange@xing.com](mailto:xing-exchange@xing.com)
 
 You also have a right to access the following information:
 
