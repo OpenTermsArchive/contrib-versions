@@ -1,6 +1,6 @@
 ### Google Payments Privacy Notice
 
-#### Last modified October 13¸ 2021
+#### Last modified 28 March 2022
 
 The [Google Privacy Policy](https://www.google.com/policies/privacy/) describes how we treat personal information when you use Google's products and services. If you are a user under the age of 18, you can find additional resources in the [Google Teen Privacy Guide](https://www.google.com/policies/privacy/teens/). Google Payments is offered to Google Account holders, and your use of it is subject to the Google Privacy Policy. In addition, this Privacy Notice describes Google privacy practices that are specific to Google Payments.
 
@@ -49,7 +49,7 @@ You may also choose to opt out of Google LLC or its affiliates informing a third
 
 If you choose to opt out, your choice will be effective until you tell us to change your choice.
 
-If you do not want us to share personal information about your creditworthiness between GPC and its affiliates, or if you do not want our affiliates to use your personal information collected by us and shared with them to market to you, or if you do not want Google LLC or its affiliates to inform a third-party merchant, whose site or app you visit, whether you have a Google Payments Account, please indicate your preference by logging in to your account, going to the [Google Payments privacy settings page](https://payments.google.com/s/) and updating your preferences.
+If you do not want us to share personal information about your creditworthiness between GPC and its affiliates, or if you do not want our affiliates to use your personal information collected by us and shared with them to market to you, or if you do not want Google LLC or its affiliates to inform a third-party merchant, whose site or app you visit, whether you have a Google Payments Account, please indicate your preference by logging in to your account, going to the [Google Payments privacy settings page](https://payments.google.com/s/?page%253DprivacySettings%2523privacySettings:) and updating your preferences.
 
 We will not share your personal information with anyone outside of GPC or with our affiliates except as described in this Privacy Notice or the Google Privacy Policy. As explained above, Google Payments is a product offered to Google Account holders. Data that you provide to Google LLC for the purpose of signing up for a Google Account is not affected by the opt-out provisions in this Privacy Notice.
 
