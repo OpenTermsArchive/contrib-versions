@@ -1,13 +1,13 @@
 Amazon Device Terms of Use
 ==========================
 
-**Last updated: February 10, 2022**
+**Last updated: March 28, 2022**
 
 This is an agreement between you and Amazon.com Services LLC (with its affiliates, "Amazon" or "we"). Please read these Amazon Device Terms of Use, the Amazon.com Privacy Notice ([https://www.amazon.com/privacy](https://www.amazon.com/gp/help/customer/display.html?nodeId=468496)), the Amazon.com Conditions of Use ([https://www.amazon.com/conditionsofuse](https://www.amazon.com/gp/help/customer/display.html?nodeId=508088)), and the other applicable rules, policies, and terms available at the Amazon.com website, or on or through the Amazon Device or its companion app (collectively, this "Agreement") before using the Amazon Device. By using the Amazon Device, you agree to be bound by the terms of this Agreement on behalf of yourself and all members of your household and others who use the Amazon Device or Services under your account. If you do not accept the terms of this Agreement, then you may not use the Amazon Device, and you may return it in accordance with the applicable return policy. You may need your own Amazon.com account to register and use your Amazon Device, and you may be required to be logged in to the account and have a valid payment method associated with it. Your use of any of the Services is subject to any additional rules, policies and terms that apply to those Services.
 
 For the purpose of these Amazon Device Terms of Use:
 
-"Amazon Device" means Kindle e-readers, Fire tablets, Amazon Fire TV devices (but, for clarity, not Fire TV devices developed and manufactured by a third party, such as Fire TV Edition devices), Amazon Echo devices, Amazon Luna Controller, Amazon Astro, Amazon Glow, Amazon Tap, Amazon Dash Button, Amazon Dash Wand, Amazon Cloud Cam, Amazon Smart Plug, Amazon Smart Soap Dispenser, Amazon Smart Air Quality Monitor, Amazon Smart Thermostat, AmazonBasics Microwave, Amazon Basics Smart Switch, and Amazon Basics Smart Dimmer, and, in each case, any Amazon accessories for these devices.
+"Amazon Device" means Kindle e-readers, Fire tablets, Amazon Fire TV devices (but, for clarity, not Fire TV devices developed and manufactured by a third party, such as Fire TV Edition devices), Amazon Echo devices, Amazon Luna Controller, Amazon Astro, Amazon Glow, Amazon Tap, Amazon Dash Button, Amazon Dash Wand, Amazon Cloud Cam, Amazon Smart Plug, Amazon Smart Soap Dispenser, Amazon Smart Air Quality Monitor, Amazon Smart Thermostat, and all Alexa-enabled Amazon Basics products, and, in each case, any Amazon accessories for these devices.
 
 "Digital Content" means digitized content (including third-party content), such as books, newspapers, magazines, journals, music, videos, apps, games, skills, photos, audio, and related features and functionality.
 
