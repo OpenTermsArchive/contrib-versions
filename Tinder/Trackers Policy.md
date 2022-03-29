@@ -5,13 +5,13 @@ At Tinder, we believe in being clear and open about how we collect and process d
 
 #### You already know everything there is to know about cookies and just want to adjust your settings?
 
-No problem. Head [here](https://tinder.com/app/profile), click "Privacy Settings" then "Personalize My Choices" to update your website cookies settings and head to your account settings in your app to adjust your privacy preferences there.
+No problem. Head [here](https://tinder.com/app/profile), to update your website cookies settings and head to your account settings in your app to adjust your privacy preferences there.
 
 #### You want to know more about cookies and how we use them?
 
 Happy to explain! Keep on reading.
 
-_Note: This Cookie Policy does not address how we process your personal information outside of our usage of cookies. To learn more about how we process your personal information, please read our Privacy Policy, [here](https://policies.tinder.com/privacy)._
+_Note: This Cookie Policy does not address how we process your personal information outside of our usage of cookies. To learn more about how we process your personal information, please read our Privacy Policy [here](https://policies.tinder.com/privacy)._
 
 ### What are cookies?
 
@@ -27,7 +27,7 @@ There are first-party cookies and third-party cookies. First-party cookies are p
 
 There are session cookies and persistent cookies. Session cookies only last until you close your browser. We use session cookies for a variety of reasons, including to learn more about your use of our website during one single browser session and to help you to use our website more efficiently. Persistent cookies have a longer lifespan and last beyond the current session. These types of cookies can be used to help you quickly sign-in to our website again, for analytical purposes and for other reasons as described below.
 
-### What about other tracking technologies, like web beacons?
+### What about other tracking technologies, like web beacons and SDKs?
 
 Other technologies such as web beacons (also called pixel, tags or clear gifs), tracking URLs or software development kits (SDKs) are used for similar purposes as cookies. Web beacons are tiny graphics files that contain a unique identifier that enable us to recognize when someone has visited our service or opened an e-mail that we have sent them. Tracking URLs are custom generated links that help us understand where the traffic to our webpages comes from. SDKs are small pieces of code included in apps, which function like cookies and web beacons.
 
@@ -52,7 +52,7 @@ There are several cookie management options available to you. Please note that c
 
 #### Tools we provide
 
-You can set and adjust your cookies preferences at any time, by using the tool available [on our website](https://tinder.com/app/profile), click "Privacy Settings" then "Personalize My Choices" for web cookie preferences and by heading to your account settings in your app and adjusting your app cookie preferences there.
+You can set and adjust your cookies preferences at any time, by using the tool available [on our website](https://tinder.com/app/profile), and by heading to your account settings in your app and adjusting your app cookie preferences there.
 
 #### Browser and devices controls
 
@@ -70,7 +70,7 @@ Opting out does not mean that you will not see advertising - it means you won’
 
 #### Google™ Maps API Cookies
 
-Some features of our website and some Tinder services rely on the use of Google™ Maps API Cookies. Such cookies will be stored on your device.
+Google™ Maps API Cookies Some features of our website and some Tinder services rely on the use of Google™ Maps API Cookies. Such cookies will be stored on your device.
 
 When browsing this website and using the services relying on Google™ Maps API cookies, you consent to the storage, collection of such cookies on your device and to the access, usage and sharing by Google of the data collected thereby.
 
