@@ -18,10 +18,11 @@ Bolt Ireland - as the entity in charge of the taxi dispatching in Ireland - is d
 *   Name, e-mail, phone number, place of residence.
 *   Geolocation of Drivers and driving routes.
 *   Information about vehicles (including plate and registration number).
-*   Driver's efficiency and ratings.
+*   Driver's engagement and interactions on the marketplace and driver ratings (including Driver Score).
 *   Driver's SPSV license, driving license, photo, profession and identity documents (including Dashboard ID, Garda Paper Licence, Vehicle SPSV).
 *   Information about disputes/complaints.
 *   The financial data of providing transportation services is not considered as personal data, because Drivers provide services in the course of economic and professional activities.
+*   Communication and correspondence records: such as when the driver engages with our in-app chat ("Send a Message" option), or speak with our customer service agents, the date and time of the communication, and its content.
 
 **2\. Purposes of the processing**
 
@@ -33,9 +34,13 @@ Bolt Ireland - as the entity in charge of the taxi dispatching in Ireland - is d
     
 *   Bolt app displays driver's photo, name, phone number and vehicle details for the passengers to identify Driver and vehicle, which implies the passengers may have access to your phone number for the adequate execution of the transportation service you provide to the latter and/or to return lost items.
     
-*   You will see summaries in the Bolt Driver App / Bolt Driver Portal, which will include your efficiency and ratings as a driver. Summary and ratings about drivers are necessary to provide a reliable service for passengers.
-    
 *   In case you lodge a complaint through the Bolt app or otherwise, we process the latter and run an investigation.
+    
+*   Customer support data and correspondence is collected for the purposes of feedback and resolving disputes and service quality issues.
+    
+*   Personal data related to instant messages directly in the Bolt app are processed in order to provide assistance and customer support, including where we need to resolve any dispute between driver and passengers.
+    
+*   We collect and use information about a driver’s engagement and interaction on the marketplace, and their ratings (including Driver Score) to encourage user safety, ensure drivers comply with the Driver Terms, and make sure we’re providing a quality and enjoyable service to everyone. Where the Driver Score drops below a specified threshold, we may issue the driver with a notification or request to, for example, digest some further guidance. If your score continues to drop, you will be temporarily suspended from accessing the Bolt platform; your account will be reviewed by the Bolt team who will either lift the suspension or extend it for a 12 month period. You may appeal any decision to suspend your account. For further information on how to appeal a decision to suspend your account, please see our FAQ on Driver Score [here](https://support.taxify.eu/hc/en-us/articles/4407359008658-What-are-Driver-Score-and-Acceptance-Rate-).
     
 
 **3\. Legal basis for the data processing**
@@ -139,3 +144,6 @@ We will respond to any request for transfer of personal data submitted by e-mail
 *   Disputes relating to the processing of personal data are resolved through customer support (for matters relating to Bolt Head Office: [info@bolt.eu](mailto:info@bolt.eu); for matters relating to Bolt Ireland: [dublin@bolt.eu](mailto:dublin@bolt.eu)) or by contacting Bolt’s Data Protection Officer ([privacy@bolt.eu](mailto:privacy@bolt.eu)).
     
 *   In case you believe that the data processing is unlawful, you are entitled to start the procedure before the Irish Data Protection Commission (Postal address: Data Protection Commission, 21 Fitzwilliam Square South, Dublin 2, D02 RD28, Ireland; web contact: [https://forms.dataprotection.ie/contact](https://forms.dataprotection.ie/contact)) and initiate judicial proceedings or before the Estonian Data Protection Inspectorate ([www.aki.ee](https://www.aki.ee/)) which can be contacted by email: [info@aki.ee](mailto:info@aki.ee).
+    
+
+This privacy notice was last updated on 29 March 2022.
