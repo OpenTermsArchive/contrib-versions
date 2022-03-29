@@ -1,4 +1,4 @@
-_The Facebook company is now Meta. We've updated our Terms of Use, Data Policy and Cookies Policy to reflect the new name on 4 January 2022. While our company name has changed, we are continuing to offer the same products, including the Facebook app from Meta. Our Data Policy and Terms of Service remain in effect, and this name change does not affect how we use or share data. [_Learn more about Meta_](https://about.facebook.com/meta) and our vision for the metaverse._
+_Facebook Ireland Limited has changed its name to Meta Platforms Ireland Limited. We've updated our Terms of Service, Data Policy and Cookies Policy to reflect the new name on 4 January 2022. While our company name has changed, we are continuing to offer the same products, including the Facebook app from Meta. Our Data Policy and Terms of Service remain in effect, and this name change does not affect how we use or share data. [_Learn more about Meta_](https://about.facebook.com/meta) and our vision for the metaverse._
 
   
   
@@ -6,7 +6,7 @@ _The Facebook company is now Meta. We've updated our Terms of Use, Data Policy a
 
 **Terms of Service**
 
-Meta builds technologies and services that enable people to connect with each other, build communities and grow businesses. These Terms govern your use of Facebook, Messenger and the other products, features, apps, services, technologies and software that we offer (the [Meta Products](https://www.facebook.com/help/1561485474074139?ref=tos) or [Products](https://www.facebook.com/help/1561485474074139?ref=tos)), except where we expressly state that separate terms (and not these) apply. These Products are provided to you by Meta Platforms, Inc.
+Meta builds technologies and services that enable people to connect with each other, build communities and grow businesses. These Terms govern your use of Facebook, Messenger and the other products, features, apps, services, technologies and software that we offer (the [Meta Products](https://www.facebook.com/help/1561485474074139?ref=tos) or [Products](https://www.facebook.com/help/1561485474074139?ref=tos)), except where we expressly state that separate terms (and not these) apply. These Products are provided to you by Meta Platforms Ireland Limited.
 
 We don't charge you to use Facebook or the other products and services covered by these Terms. Instead, businesses and organisations pay us to show you ads for their products and services. By using our Products, you agree that we can show you ads that we think will be relevant to you and your interests. We use your personal data to help determine which ads to show you.
 
@@ -26,7 +26,7 @@ Our mission is to give people the power to build community and bring the world c
     
 *   **Help you discover content, products and services that may interest you:** We show you ads, offers and other sponsored content to help you discover content, products and services that are offered by the many businesses and organisations that use Facebook and other Meta Products. Section 2 below explains this in more detail.
     
-*   **Combat harmful conduct, and protect and support our community:** People will only build community on Meta Products if they feel safe. We employ dedicated teams around the world and develop advanced technical systems to detect misuse of our Products, harmful conduct towards others and situations where we may be able to help support or protect our community. If we learn of content or conduct such as this, we will take appropriate action – for example, offering help, removing content, removing or restricting access to certain features, disabling an account or contacting law enforcement. We share data with other [Meta Companies](https://www.facebook.com/help/111814505650678?ref=tos) when we detect misuse or harmful conduct by someone using one of our Products.
+*   **Combat harmful conduct, and protect and support our community:** People will only build community on Meta Products if they feel safe. We employ dedicated teams around the world and develop advanced technical systems to detect misuse of our Products, harmful conduct towards others and situations where we may be able to help support or protect our community. If we learn of content or conduct like this, we will take appropriate action – for example, offering help, removing content, blocking access to certain features, disabling an account or contacting law enforcement. We share data with other [Meta Companies](https://www.facebook.com/help/111814505650678?ref=tos) when we detect misuse or harmful conduct by someone using one of our Products.
     
 *   **Use and develop advanced technologies to provide safe and functional services for everyone:** We use and develop advanced technologies such as artificial intelligence, machine learning systems and augmented reality so that people can use our Products safely regardless of physical ability or geographic location. For example, technology such as this helps people who have visual impairments understand what or who is in photos or videos shared on Facebook or Instagram. We also build sophisticated network and communication technology to help more people connect to the Internet in areas with limited access. And we develop automated systems to improve our ability to detect and remove abusive and dangerous activity that may harm our community and the integrity of our Products.
     
@@ -40,13 +40,15 @@ Our mission is to give people the power to build community and bring the world c
 
 **2\. How our services are funded**
 
-Instead of paying to use Facebook and the other products and services that we offer, by using the Meta Products covered by these Terms, you agree that we can show you ads that businesses and organisations pay us to promote on and off the [Meta Company Products](https://www.facebook.com/help/195227921252400?ref=tos). We use your personal data, such as information about your activity and interests, to show you ads that are more relevant to you.
+Instead of paying to use Facebook and the other products and services that we offer, by using the Meta Products covered by these Terms you agree that we can show you ads that business and organisations pay us to promote on and off the Meta Company Products. We use your personal data, such as information about your activity and interests, to show you ads that are more relevant to you.
 
 Protecting people's privacy is central to how we've designed our ad system. This means that we can show you relevant and useful ads without telling advertisers who you are. We don't sell your personal data. We allow advertisers to tell us things such as their business goal, and the kind of audience that they want to see their ads (for example, people between the ages of 18-35 who like cycling). We then show their ad to people who might be interested.
 
 We also provide advertisers with reports about the performance of their ads to help them understand how people are interacting with their content on and off Meta Products. For example, we provide general demographic and interest information for advertisers (for example, that an ad was seen by a woman between the ages of 25 and 34 who lives in Madrid and likes software engineering) to help them better understand their audience. We don't share information that directly identifies you (information such as your name or email address that by itself can be used to contact you or identifies who you are) unless you give us specific permission. Learn more about how Meta ads work [here](https://www.facebook.com/about/ads).
 
-We collect and use your personal data in order to provide the services described above for you. You can learn about how we collect and use your data in our [Data Policy](https://www.facebook.com/about/privacy/update). You have controls over the types of ads and advertisers you see, and the types of information we use to determine which ads we show you. [Learn more](https://www.facebook.com/about/ads).  
+We collect and use your personal data in order to provide the services described above for you. You can learn about how we collect and use your data in our [Data Policy](https://www.facebook.com/about/privacy/update). You have controls over the types of ads and advertisers you see, and the types of information we use to determine which ads we show you. [Learn more](https://www.facebook.com/about/ads).
+
+  
   
 
 **3\. Your commitments to Facebook and our community**
@@ -63,9 +65,9 @@ We provide these services to you and others to help advance our mission. In exch
     
     We try to make Facebook broadly available to everyone, but you cannot use Facebook if:
     
-    *   You are under 13 years old (or the minimum legal age in your country to use our Products).
+    *   You are under 13 years old.
     *   You are a convicted sex offender.
-    *   We've previously disabled your account for violations of our Terms or Policies.
+    *   We've previously disabled your account for breaches of our Terms or Policies.
     *   You are prohibited from receiving our products, services or software under applicable laws.
     
       
@@ -75,23 +77,23 @@ We provide these services to you and others to help advance our mission. In exch
     
     *   You may not use our Products to do or share anything:
         
-        *   That violates these Terms, our [Community Standards](https://www.facebook.com/communitystandards) and other terms and policies that apply to your use of our Products.
+        *   That breaches these Terms, our [Community Standards](https://www.facebook.com/communitystandards) and [other terms and policies](#other-terms-policies) that apply to your use of our Products.
             
         *   That is unlawful, misleading, discriminatory or fraudulent.
             
-        *   That infringes or violates someone else's rights, including their intellectual property rights.
+        *   That infringes or breaches someone else's rights, including their intellectual property rights.
         
     *   You may not upload viruses or malicious code, or do anything that could disable, overburden or impair the proper working or appearance of our Products.
         
     *   You may not access or collect data from our Products using automated means (without our prior permission) or attempt to access data that you do not have permission to access.
     
-    We can remove or restrict access to content that is in violation of these provisions.
+    We can remove or block content that is in breach of these provisions.
     
-    If we remove content that you have shared in violation of our Community Standards, we'll let you know and explain any options you have to request another review, unless you seriously or repeatedly violate these Terms or if doing so may expose us or others to legal liability; harm our community of users; compromise or interfere with the integrity or operation of any of our services, systems or Products; where we are restricted due to technical limitations; or where we are prohibited from doing so for legal reasons.
+    If we remove content that you have shared for breach of our Community Standards, we'll let you know and explain any options that you have to request another review, unless you seriously or repeatedly breach these Terms or if doing so may expose us or others to legal liability; harm our community of users; compromise or interfere with the integrity or operation of any of our services, systems or Products; where we are restricted due to technical limitations; or where we are prohibited from doing so for legal reasons.
     
-    To help support our community, we encourage you to [report](https://www.facebook.com/help/181495968648557?ref=tos) content or conduct that you believe violates your rights (including [intellectual property rights](https://www.facebook.com/help/intellectual_property?ref=tos)) or our terms and policies.
+    To help support our community, we encourage you to [report content](https://www.facebook.com/help/181495968648557?ref=tos) or conduct that you believe breaches your rights (including [intellectual property rights](https://www.facebook.com/help/intellectual_property?ref=tos)) or our terms and policies.
     
-    We also can remove or restrict access to your content, services or information if we determine that doing so is reasonably necessary to avoid or mitigate adverse legal or regulatory impacts to Meta.
+    We also can remove or restrict access to your content, services or information if we determine that doing so is reasonably necessary to avoid or mitigate adverse legal or regulatory impacts to Facebook.
     
       
     
@@ -131,7 +133,7 @@ We provide these services to you and others to help advance our mission. In exch
       
     
 *   Limits on using our intellectual property  
-    If you use content covered by intellectual property rights that we have and make available in our Products (for example, images, designs, videos or sounds we provide that you add to content you create or share on Facebook), we retain all rights to that content (but not yours). You can only use our copyrights or [trademarks (or any similar marks)](https://l.facebook.com/l.php?u=https%3A%2F%2Fen.facebookbrand.com%2Ftrademarks%2F&h=AT1SNeTlQUC2gbDeZV8d07mUOVEfgEIpFV-KoS4-6AIjCgyI4jN689cttq5h5WHLDFlAd1BDeHhCaoTfAcuP_RJ6SHu6I6Zvz3HzPoopf5BcrabQzS5bHqFaEPEBYa6aSMFPTas25L1w3k-rn4-uoevXhaVRF-FpAEIsmtQq-rc) as expressly permitted by our [Brand Usage Guidelines](https://l.facebook.com/l.php?u=https%3A%2F%2Fen.facebookbrand.com%2Fguidelines%2Fbrand&h=AT1SNeTlQUC2gbDeZV8d07mUOVEfgEIpFV-KoS4-6AIjCgyI4jN689cttq5h5WHLDFlAd1BDeHhCaoTfAcuP_RJ6SHu6I6Zvz3HzPoopf5BcrabQzS5bHqFaEPEBYa6aSMFPTas25L1w3k-rn4-uoevXhaVRF-FpAEIsmtQq-rc) or with our prior written permission. You must obtain our written permission (or permission under an open-source licence) to modify, create derivative works of, decompile or otherwise attempt to extract source code from us.
+    If you use content covered by intellectual property rights that we have and make available in our Products (for example, images, designs, videos or sounds we provide that you add to content you create or share on Facebook), we retain all rights to that content (but not yours). You can only use our copyrights or [trademarks (or any similar marks)](https://l.facebook.com/l.php?u=https%3A%2F%2Fen.facebookbrand.com%2Ftrademarks%2F&h=AT3jD1qi1c7AGvG93V_BXoHJscdYPI3Kx8XqLcllmhwJUs-gIDDJTDs4CG5tJnYVabXEPMy7UbXtfoY_RHTLreG_VnrqDoXKFwrj6eF7zaCtbRAVcJH5ikSoSNrT_tvMZmC7ngOA8He00m7cbECEucHwxPEwmfpCKHnsSw) as expressly permitted by our [Brand Usage Guidelines](https://l.facebook.com/l.php?u=https%3A%2F%2Fen.facebookbrand.com%2Fguidelines%2Fbrand&h=AT3jD1qi1c7AGvG93V_BXoHJscdYPI3Kx8XqLcllmhwJUs-gIDDJTDs4CG5tJnYVabXEPMy7UbXtfoY_RHTLreG_VnrqDoXKFwrj6eF7zaCtbRAVcJH5ikSoSNrT_tvMZmC7ngOA8He00m7cbECEucHwxPEwmfpCKHnsSw) or with our prior written permission. You must obtain our written permission (or permission under an open-source licence) to modify, create derivative works of, decompile or otherwise attempt to extract source code from us.
 
   
 
@@ -140,7 +142,7 @@ We provide these services to you and others to help advance our mission. In exch
 *   Updating our Terms  
     We work constantly to improve our services and develop new features to make our Products better for you and our community. As a result, we may need to update these Terms from time to time to accurately reflect our services and practices. We will only make changes if the provisions are no longer appropriate or if they are incomplete, and only if the changes are reasonable and take due account of your interests.
     
-    We will notify you (for example, by email or through our Products) at least 30 days before we make changes to these Terms and give you an opportunity to review them before they go into effect, unless changes are required by law. Once any updated Terms are in effect, you will be bound by them if you continue to use our Products.
+    We will notify you (for example, by email or through our Products) at least 30 days before we make changes to these Terms and give you an opportunity to review them before they go into effect, unless the changes are required by law. Once any updated Terms are in effect, you will be bound by them if you continue to use our Products.
     
     We hope that you will continue using our Products, but if you do not agree to our updated Terms and no longer want to be a part of the Meta community, you can [delete](https://www.facebook.com/help/224562897555674?ref=tos) your account at any time.
     
@@ -151,35 +153,35 @@ We provide these services to you and others to help advance our mission. In exch
       
     We want Facebook to be a place where people feel welcome and safe to express themselves and share their thoughts and ideas.
     
-    If we determine that you have clearly, seriously or repeatedly breached our Terms or Policies, including in particular our Community Standards, we may suspend or permanently disable access to your account. We may also suspend or disable your account if you repeatedly infringe other people's intellectual property rights or where we are required to do so for legal reasons.
+    If we determine that you have clearly, seriously or repeatedly breached our Terms or Policies, including in particular our [Community Standards](https://www.facebook.com/communitystandards), we may suspend or permanently disable access to your account. We may also suspend or disable your account if you repeatedly infringe other people's intellectual property rights or where we are required to do so for legal reasons.
     
-    Where we take such action, we'll let you know and explain any options you have to request a review, unless doing so may expose us or others to legal liability; harm our community of users; compromise or interfere with the integrity or operation of any of our services, systems or Products; or where we are restricted due to technical limitations; or where we are prohibited from doing so for legal reasons.
+    Where we take such action, we'll let you know and explain any options you have to request a review, unless doing so may expose us or others to legal liability; harm our community of users; compromise or interfere with the integrity or operation of any of our services, systems or Products; where we are restricted due to technical limitations; or where we are prohibited from doing so for legal reasons.
     
     You can [learn more](https://www.facebook.com/help/103873106370583?ref=tos) about what you can do if your account has been disabled and how to contact us if you think that we have disabled your account by mistake.
     
-    If you delete or we disable your account, these Terms shall terminate as an agreement between you and us, but the following provisions will remain in place: 3, 4.2-4.5.
+    If you delete or we disable your account, these Terms shall terminate as an agreement between you and us, but the following provisions will remain in place: 3.3.1, 4.2-4.5.
     
       
     
 *   Limits on liability  
-    We work hard to provide the best Products we can and to specify clear guidelines for everyone who uses them. Our Products, however, are provided "as is", and we make no guarantees that they will always be safe, secure or error-free, or that they will function without disruptions, delays or imperfections. To the extent permitted by law, we also DISCLAIM ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT. We do not control or direct what people and others do or say, and we are not responsible for their actions or conduct (whether online or offline) or any content that they share (including offensive, inappropriate, obscene, unlawful and other objectionable content).
+    Nothing in these Terms is intended to exclude or limit our liability for death, personal injury or fraudulent misrepresentation caused by our negligence, or to affect your statutory rights.
     
-    We cannot predict when issues may arise with our Products. Accordingly, our liability shall be limited to the fullest extent permitted by applicable law, and under no circumstances will we be liable to you for any lost profits, revenues, information or data, or consequential, special, indirect, exemplary, punitive or incidental damages arising out of or related to these Terms or the Facebook Products, even if we have been advised of the possibility of such damages.
+    We will exercise professional diligence in providing our Products and services to you and in keeping a safe, secure and error-free environment. Provided that we have acted with professional diligence, we do not accept responsibility for losses not caused by our breach of these Terms or otherwise by our acts; losses that are not reasonably foreseeable by you and us at the time of entering into these Terms; and events beyond our reasonable control.
     
       
     
 *   Disputes  
     We try to provide clear rules so that we can limit or hopefully avoid disputes between you and us. If a dispute does arise, however, it's useful to know upfront where it can be resolved and what laws will apply.
     
-    If you are a consumer, the laws of the country in which you reside will apply to any claim, cause of action or dispute that you have against us that arises out of or relates to these Terms or the Meta Products, and you may resolve your claim in any competent court in that country that has jurisdiction over the claim. In all other cases, you agree that the claim must be resolved exclusively in the US. District Court for the Northern District of California or a state court located in San Mateo County. You also agree that you submit to the personal jurisdiction of either of these courts for the purpose of litigating any such claim, and that the laws of the State of California will govern these Terms and any claim, without regard to conflict of law provisions.
+    If you are a consumer and habitually reside in a Member State of the European Union, the laws of that Member State will apply to any claim, cause of action or dispute you have against us that arises out of or relates to these Terms or the Meta Products ("claim"), and you may resolve your claim in any competent court in that Member State that has jurisdiction over the claim. In all other cases, you agree that the claim must be resolved in a competent court in the Republic of Ireland and that Irish law will govern these Terms and any claim, without regard to conflict of law provisions.
     
       
     
 *   Other  
     
-    *   These Terms (formerly known as the Statement of Rights and Responsibilities) make up the entire agreement between you and Meta Platforms, Inc. regarding your use of our Products. They supersede any prior agreements.
+    *   These Terms (formerly known as the Statement of Rights and Responsibilities) make up the entire agreement between you and Meta Platforms Ireland Limited regarding your use of our Products. They supersede any prior agreements.
         
-    *   Some of the Products that we offer are also governed by supplemental Terms. If you use any of those Products, supplemental terms will be made available and will become part of our agreement with you. For instance, if you access or use our Products for commercial or business purposes, such as buying ads, selling products, developing apps, managing a group or Page for your business, or using our measurement services, you must agree to our [Commercial Terms](https://www.facebook.com/legal/commercial_terms). If you post or share content containing music, you must comply with our [Music Guidelines](https://www.facebook.com/legal/music_guidelines). To the extent that any supplemental Terms conflict with these Terms, the supplemental Terms shall govern to the extent of the conflict.
+    *   Some of the Products that we offer are also governed by supplemental Terms. If you use any of these Products, you will be provided with an opportunity to agree to supplemental terms that will become part of our agreement with you. For instance, if you access or use our Products for commercial or business purposes, such as buying ads, selling products, developing apps, managing a group or Page for your business, or using our measurement services, you must agree to our [Commercial Terms](https://www.facebook.com/legal/commercial_terms). If you post or share content containing music, you must comply with our [Music Guidelines](https://www.facebook.com/legal/music_guidelines). To the extent that any supplemental Terms conflict with these Terms, the supplemental Terms shall govern to the extent of the conflict.
         
     *   If any portion of these Terms is found to be unenforceable, the remaining portion will remain in full force and effect. If we fail to enforce any of these Terms, it will not be considered a waiver. Any amendment to or waiver of these Terms must be made in writing and signed by us.
         
@@ -193,7 +195,6 @@ We provide these services to you and others to help advance our mission. In exch
         
     *   We always appreciate your feedback and other suggestions about our products and services. But you should know that we may use them without any restriction or obligation to compensate you, and we are under no obligation to keep them confidential.
         
-    *   We reserve all rights not expressly granted to you.
     
 
   
@@ -218,12 +219,13 @@ We provide these services to you and others to help advance our mission. In exch
     
 *   [Commerce Policies](https://www.facebook.com/policies/commerce): These guidelines outline the Policies that apply when you offer products and services for sale on Facebook.
     
-*   [Meta brand resources](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=AT1SNeTlQUC2gbDeZV8d07mUOVEfgEIpFV-KoS4-6AIjCgyI4jN689cttq5h5WHLDFlAd1BDeHhCaoTfAcuP_RJ6SHu6I6Zvz3HzPoopf5BcrabQzS5bHqFaEPEBYa6aSMFPTas25L1w3k-rn4-uoevXhaVRF-FpAEIsmtQq-rc): These guidelines outline the policies that apply to use of Meta trademarks, logos and screenshots.
+*   [Meta brand resources](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=AT3jD1qi1c7AGvG93V_BXoHJscdYPI3Kx8XqLcllmhwJUs-gIDDJTDs4CG5tJnYVabXEPMy7UbXtfoY_RHTLreG_VnrqDoXKFwrj6eF7zaCtbRAVcJH5ikSoSNrT_tvMZmC7ngOA8He00m7cbECEucHwxPEwmfpCKHnsSw): These guidelines outline the policies that apply to use of Meta trademarks, logos and screenshots.
     
 *   [Music guidelines](https://www.facebook.com/legal/music_guidelines): These guidelines outline the policies that apply if you post or share content containing music on Meta Products.
     
 *   [Live Policies](https://www.facebook.com/policies/live): These policies apply to all content broadcast to Facebook Live.
     
+*   Messaging services terms relevant for EU, EEA and UK users: terms applicable to the messaging, voice and video calling services included in Facebook Products are listed [here](https://www.facebook.com/legal/terms/eecc/contract_summary) and [here](https://www.facebook.com/legal/terms/eecc/flyout) in accordance with EU rules.
 
   
 Date of last revision: 4 January 2022
