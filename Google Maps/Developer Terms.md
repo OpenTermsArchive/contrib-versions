@@ -57,7 +57,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   City of Adelaide ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
             
-        *   [data.gov.au](https://data.gov.au/) ([https://creativecommons.org/licenses/by/2.5/au/](https://creativecommons.org/licenses/by/2.5/au/))
+        *   [data.gov.au](https://data.gov.au/) ([https://creativecommons.org/licenses/by/2.5/au/](https://creativecommons.org/licenses/by/2.5/au/), [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
             
         *   Government of Western Australia [wa.gov.au](https://www.wa.gov.au/) ([https://creativecommons.org/licenses/by/3.0/au/legalcode](https://creativecommons.org/licenses/by/3.0/au/legalcode))
             
@@ -404,6 +404,11 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         *   Sheffield City Council ([http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/))
             
         *   The Spatial Hub ([https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/))
+            
+        *   Source: Office for National Statistics licensed under the Open Government Licence v.3.0  
+            Contains OS data © Crown copyright and database right 2021  
+            Contains Royal Mail data © Royal Mail copyright and database right 2021  
+            License: [https://www.ons.gov.uk/methodology/geography/licences](https://www.ons.gov.uk/methodology/geography/licences)
             
     12.  **Greece**
         *   EuroGeographics; Copyright Geomatics Ltd.
@@ -790,6 +795,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         *   National Development Council, Open Government Data Taiwan, [data.gov.tw](https://data.gov.tw/) ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
             
         *   The Transport Research Institute of the Ministry of Transport ([https://data.gov.tw/license](https://data.gov.tw/license))
+            
+        *   National Land Surveying and Mapping Center (NLSC) - Taiwan Map Store. Source: [https://whgis.nlsc.gov.tw/Opendata/Files.aspx](https://whgis.nlsc.gov.tw/Opendata/Files.aspx), year: 2021. License: [https://data.gov.tw/license](https://data.gov.tw/license)
             
     40.  **Timor-Leste**
         
