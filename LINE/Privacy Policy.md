@@ -254,7 +254,7 @@ We will take measures to have our group companies with which the Personal Data i
 
 Please click [here](https://terms.line.me/line_communication_privacy_tw) for the scope of our group companies to share Personal Data of users in Taiwan.
 
-Countries and regions to which Personal Data is transferred: Japan, Taiwan, Thailand, Indonesia and Korea.
+Countries and regions to which Personal Data is transferred: Japan, Taiwan, Thailand, Indonesia,Korea and Singapore.
 
 5.d.Succession of business
 
@@ -307,7 +307,7 @@ To help protect your privacy and confidentiality of your Personal Data, we also 
 6.b.Storage location of Personal Data
 
 In providing our Services, we may store your Personal Data outside the country or region where you reside. When that happens, we will take measures to ensure your Personal Data is transferred according to the applicable laws.  
-For details regarding the storage location of your Personal Data, please also read “Security & Privacy”.
+For details regarding the storage location of your Personal Data, please also read “[Security & Privacy](https://linecorp.com/en/security/article/113)”.
 
 6.c.Storage period of Personal Data
 
@@ -463,7 +463,7 @@ LINE Corporation
 CEO and President - Takeshi Idezawa
 
 Formulated on August 15, 2012  
-Last revised on March 15, 2022 (Clarified the purposes of use, added descriptions regarding collection of Personal Data from business partners and the use thereof, and added descriptions regarding provision of information regarding cross-border transfers.)
+Last revised on March 30, 2022
 
 10.Reference
 ------------
