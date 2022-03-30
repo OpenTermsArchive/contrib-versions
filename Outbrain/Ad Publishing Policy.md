@@ -47,6 +47,10 @@ Prohibited Categories
 *   Display excessive amounts of skin, cleavage or focus unnecessarily on body parts
 *   Allude to sexual activity
 
+#### Children
+
+*   No content targeted to children under the age of 16
+
 #### Controlled or Illegal Substances
 
 *   Content cannot promote:
