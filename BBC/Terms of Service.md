@@ -37,7 +37,7 @@ Anything digital offered by the BBC. Such as:
 *   [BBC iPlayer](http://www.bbc.co.uk/iplayer "BBC iPlayer")
 *   Apps (like BBC Sport, BBC News)
 *   Podcasts
-*   Content available through feeds, like RSS
+*   Content available through RSS feeds
 *   Red Button
 
 **b. Content**
@@ -59,11 +59,11 @@ Anything that’s available through those services. Including:
 When other terms apply
 ----------------------
 
-**a. When you use services provided by BBC Worldwide or someone else**
+**a. When you use services provided by BBC Studios or someone else**
 
-When you use someone else's services or products, like a virtual reality headset, they will have terms for using them.
+When you use someone else's services or products, like a social media platform, they will have terms for using them.
 
-Some services are provided by BBC Worldwide. These will have their own terms.
+Some services are provided by BBC Studios. These will have their own terms.
 
 **b. When you use services where we tell you they apply**
 
@@ -174,6 +174,8 @@ To use any of the following things…
 *   Photos
 *   Content from bbc.co.uk
 *   Our logo and other branding
+*   Metadata
+*   Anything plucked from our services to develop or train artificial intelligence or to do computer analysis
 *   Anything else that’s protected by copyright.
 
 …you’ll need to get permission.
@@ -200,7 +202,7 @@ So you’ll have to ask them if you can use it. Except under certain circumstanc
 
 [For logos and branding, read this.](http://www.bbc.co.uk/branding "BBC Branding")
 
-[For metadata and feeds, read this.](https://www.bbc.co.uk/usingthebbc/terms-of-use/usingthebbc/terms-of-use/#ce21470ab49d1d1976bc3dc72438c183 "Can I use BBC metadata?")
+[For metadata and RSS feeds, read this.](https://www.bbc.co.uk/terms/can-i-use-bbc-metadata-and-rss-feeds/ "Can I use BBC metadata and RSS feeds?")
 
 [For business use, read this.](https://www.bbc.co.uk/usingthebbc/terms/can-i-use-bbc-content-for-my-business/ "Can I reuse content for my business?") Bear in mind: you normally need to ask permission and there may be a fee to pay.
 
@@ -333,26 +335,26 @@ When you access it, we’ll always let you know what terms apply.
 
 [Back to top](#top "Back to top")
 
-Metadata and feeds
-------------------
+Metadata and RSS feeds
+----------------------
 
 **a. For people**
 
-You’re not allowed to pluck metadata from our content or feeds.
+You’re not allowed to pluck metadata from our content or RSS feeds.
 
-You can add the BBC News feed to your website or social media account. Provided:
+You can add the BBC News RSS feed to your website or social media account. Provided:
 
-*   You don't change the feed or remove any of our branding or logos
+*   You don't change the RSS feed or remove any of our branding or logos
 *   You credit us by saying it's from [BBC News](http://www.bbc.co.uk/news "BBC News"), [bbc.co.uk/news](http://www.bbc.co.uk/news "BBC News") or [bbc.com/news](http://www.bbc.com/news "BBC News") putting the text and hyperlink in a prominent place nearby
-*   You don't add our branding, logos and so on, except for any branding that's already embedded in the feed.
+*   You don't add our branding, logos and so on, except for any branding that's already embedded in the RSS feed.
 
-[Read about how to set up a BBC News feed here](https://www.bbc.co.uk/news/10628494 "Set up a BBC News feed").
+[Read about how to set up a BBC News RSS feed here](https://www.bbc.co.uk/news/10628494 "Set up a BBC News feed").
 
 **b. For business**
 
 You’ll need a licence to use our metadata (such as images, text, media and the links to them). [Apply for a metadata licence](mailto:carriage.enquiries@bbc.co.uk "BBC Carriage Enquiries"). 
 
-For [business use of our feeds](http://www.bbc.co.uk/usingthebbc/terms/can-i-use-bbc-content-for-my-business/ "Can I use BBC content for my business") you'll need to get our permission, and there may be a fee to pay.
+For [business use of our RSS feeds](http://www.bbc.co.uk/usingthebbc/terms/can-i-use-bbc-content-for-my-business/ "Can I use BBC content for my business") you'll need to get our permission, and there may be a fee to pay.
 
 [Back to top](#top "Back to top")
 
@@ -363,7 +365,7 @@ This part is about when you create your own content by:
 
 *   Uploading something of yours to one of our services – like uploading to comment boards and forums
 *   Uploading your clip or photo of a breaking story to BBC News
-*   Using a service (like the Doctor Who Game Maker) to make something and then uploading it to the BBC.
+*   Using a service to make something and then uploading it to the BBC.
 
 We call these somethings “creations”.
 
@@ -446,8 +448,8 @@ Once you’ve got permission, you can share your creation with the public. On yo
 
 [Back to top](#top "Back to top")
 
-Creations - what BBC can do with them
--------------------------------------
+Creations - what the BBC can do with them
+-----------------------------------------
 
 When you share your creation with us, we try to tell you exactly what we’re going to do with it. But that’s not always possible, so here’s what might happen…
 
@@ -463,7 +465,7 @@ We will only edit your news related content where necessary. [Read about how we
 
 **c. Use it with our tools for making creations or remixing content**
 
-Some of our services - like the Doctor Who Game Maker - feature tools for playing around with our content, writing your own code, and making things like games and visualisations.
+Some of our services feature tools for playing around with our content, writing your own code, and making things like games and visualisations.
 
 These might:
 
@@ -481,7 +483,7 @@ Which means we can review, edit, remove or decide not to display it. And, if it 
 **f. And we can use it**
 
 *   Anywhere in the world
-*   In any medium (for example TV, the internet, radio and apps)
+*   In any medium (for example TV, the internet, radio, social media and apps)
 *   For as long as we want – even if you stop using our services.
 
 And anyone we work with can do those things too.
@@ -659,7 +661,7 @@ d. English law governs these terms, and only English courts can make judgments a
 
 e. Our services and content are made available to you by the British Broadcasting Corporation, Broadcasting House, Portland Place, London, W1A 1AA.
 
-© BBC 2018
+© BBC 2022
 
 [Back to top](#top "Back to top")
 
