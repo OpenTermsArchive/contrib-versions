@@ -1,6 +1,6 @@
 Binance Terms of Use
 
-Last revised: 2 March 2022
+Last revised: 1 April 2022
 
 These Binance Terms of Use is entered into between you (hereinafter referred to as “you” or “your”) and Binance operators (as defined below). By accessing, downloading, using or clicking on “I agree” to accept any Binance Services (as defined below) provided by Binance (as defined below), you agree that you have read, understood and accepted all of the terms and conditions stipulated in these Terms of Use (hereinafter referred to as “these Terms”) as well as our Privacy Policy at [www.binance.com/en/privacy](https://www.binance.com/en/privacy). In addition, when using some features of the Services, you may be subject to specific additional terms and conditions applicable to those features.
 
@@ -375,6 +375,20 @@ Except as set forth in paragraph 4 below, once a Binance Account is closed/withd
 ### 4\. Remaining Funds After Binance Account Termination Due to Fraud, Violation of Law, or Violation of These Terms
 
 Binance maintains full custody of the Digital Assets, funds and User data/information which may be turned over to governmental authorities in the event of Binance Accounts’ suspension/closure arising from fraud investigations, investigations of violation of law or violation of these Terms.
+
+### 5\. Dormant Accounts
+
+Notwithstanding any provision of this Section VI, Binance may provide a written notice requiring you to close all of your open positions and withdraw all of your Digital Assets from your Binance Account within 30 days of the notice. In the event that you fail to do so, Binance may:
+
+(a) deem your Binance account as a dormant account;
+
+(b) close any open positions in any Binance products;
+
+(c) transfer such dormant account (including any Digital Assets contained therein) to an affiliate of the Binance Operators or any third-party custodian where it is deemed reasonably necessary by Binance to do so;
+
+(d) where necessary for a transfer set out in paragraph 5(c) above, the conversion of the Digital Assets to a different type of asset supported by the relevant affiliate of the Binance Operators or any third-party custodian. For the avoidance of doubt, none of the Binance Operators or any third-party custodian shall be liable for any loss of profit resulting from such conversion; and
+
+(e) charge a dormant account fee to cover the cost of maintaining the assets by the Binance Operators, its affiliates or any third-party and such fee shall be withdrawn directly from the dormant account on a monthly basis.
 
 ### VII. No Financial Advice
 
