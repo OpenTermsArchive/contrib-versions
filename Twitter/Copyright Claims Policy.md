@@ -87,7 +87,7 @@ were misidentified or removed in error, you may send us a [counter-notification(
 
 #### How do I seek a retraction?
 
-The DMCA complaint you received includes the contact information of the reporter. You may want to reach out and ask them to retract their notice.  The reporter can send retractions to copyright@twitter.com, and should include: (1) identification of the material that was disabled, and (2) a statement that the reporter would like to retract their DMCA notice. This is the fastest and most efficient means of resolving an unresolved copyright complaint. A retraction is at the sole discretion of the original reporter.
+The DMCA complaint you received includes the contact information of the reporter. You may want to reach out and ask them to retract their notice using our [retraction form](https://help.twitter.com/en/forms/ipi/dmca-retraction). This is the fastest and most efficient means of resolving an unresolved copyright complaint. Alternatively, the reporter can also send a retraction notice to [copyright@twitter.com](mailto:copyright@twitter.com).  Such notice should include: (1) identification of the material that was disabled, and (2) a statement that the reporter would like to retract their DMCA notice.  A retraction is at the sole discretion of the original reporter, and only that reporter can issue a retraction.  If a portion of your tweet has been withheld, the violation will not be resolved just by deleting the remaining portion.
 
 #### When should I file a counter-notice?
 
@@ -102,11 +102,22 @@ Tip: Re-posting material removed in response to a copyright complaint may resul
 To submit a counter-notice, you will need to provide us with the following information:
 
 1.  A physical or electronic signature (typing your full name will suffice);
-2.  Identification of the material that has been removed or to which access has been disabled and the location at which the material appeared before it was removed or access to it was disabled (the description from the copyright notice will suffice);
-3.  A statement under penalty of perjury that you have a good faith belief that the material was removed or disabled as a result of mistake or misidentification of the material to be removed or disabled; and
-4.  Your name, address, and telephone number, and a statement that you consent to the jurisdiction of the Federal District Court for the judicial district in which the address is located, or if your address is outside of the United States, for any judicial district in which Twitter may be found, and that you will accept service of process from the person who provided notification under subsection (c)(1)(C) or an agent of such person.
+2.  Your full name, address (including country), telephone number, and for verification purposes, your Twitter username and associated email;
+3.  Identification of the material that has been removed or to which access has been disabled, and the location at which the material appeared before that removal or disabling (the description from the copyright notice will suffice);
+4.  A statement under penalty of perjury that you have a good faith belief that the material was removed or disabled as a result of mistake or misidentification of the material to be removed or disabled; and
+5.  One of the following jurisdictional consent statements:
 
-To submit a counter-notice, please provide all required information [here](https://help.twitter.com/en/forms/ipi/dmca-counternotice.html).
+(If your address is in the United States) 
+
+“I consent to the jurisdiction of the Federal District Court for the judicial district in which my address is located and I’ll accept service of process from the person who provided notice under 17 U.S.C. 512 (c)(1)(C) or an agent of such person.”
+
+OR
+
+(If your address is outside of the United States) 
+
+"I consent to any judicial district in which Twitter may be found, and I’ll accept service of process from the person who provided notice under 17 U.S.C. 512 (c)(1)(C) or an agent of such person."
+
+To submit a counter-notice, please provide all of the above information using our web form, located [here](https://help.twitter.com/en/forms/ipi/dmca-counternotice.html).
 
 #### What happens after I submit a counter-notice?
 
@@ -122,4 +133,4 @@ Please think twice before submitting a claim or counter-notice, especially if yo
 
 #### What happens if my account receives multiple copyright complaints?
 
-If multiple copyright complaints are received Twitter may lock accounts or take other actions to warn repeat violators. These warnings may vary across Twitter’s services.  Under appropriate circumstances we may suspend user accounts under our repeat infringer policy. However, we may take retractions and counter-notices into account when applying our repeat infringer policy.
+If multiple copyright complaints are received about an account, or other evidence suggests a pattern of repeat infringement, Twitter may suspend that account in accordance with our Repeat Infringer Policy. Users may file a suspension appeal using [this form](https://help.twitter.com/forms/general?subtopic=suspended). Our Repeat Infringer Policy will take valid retractions and counter-notices into account.
