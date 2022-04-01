@@ -1,9 +1,9 @@
 Privacy Notice
 ==============
 
-#### Last Updated: March 8, 2022
+#### Last Updated: April 1, 2022
 
-To see prior version, click [here](https://aws.amazon.com/privacy/prior-version-20220204).
+To see prior version, click [here](https://aws.amazon.com/privacy/prior-version20220308).
 
 This Privacy Notice describes how we collect and use your personal information in relation to AWS websites, applications, products, services, events, and experiences that reference this Privacy Notice (together, “AWS Offerings”).
 
@@ -56,7 +56,7 @@ To enable our systems to recognize your browser or device and to provide AWS Off
 
 #### How We Share Personal Information
 
-Information about our customers is an important part of our business and we are not in the business of selling our customers’ personal information to others. We share personal information only as described below and with Amazon.com, Inc. and the subsidiaries that Amazon.com, Inc. controls that are either subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice.
+Information about our customers is an important part of our business and we are not in the business of selling our customers’ personal information to others. We share personal information only as described below and with Amazon.com, Inc. and the affiliates that Amazon.com, Inc. controls that are either subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice.
 
 *   **Transactions Involving Third Parties:** We make available to you services, software, and content provided by third parties for use on or through AWS Offerings. You can tell when a third party is involved in your transactions, and we share information related to those transactions with that third party. For example, you can order services, software, and content from sellers using the AWS Marketplace and we provide those sellers information to facilitate your subscription, purchases, or support.
 *   **Third-Party Service Providers:** We employ other companies and individuals to perform functions on our behalf. Examples include: delivering AWS hardware, sending communications, processing payments, assessing credit and compliance risks, analyzing data, providing marketing and sales assistance (including advertising and event management), conducting customer relationship management, and providing training. These third party service providers have access to personal information needed to perform their functions, but may not use it for other purposes. Further, they must process that information in accordance with this Privacy Notice and as permitted by applicable data protection law.
@@ -111,6 +111,7 @@ If you have any concern about privacy at AWS or want to contact one of our data 
 *   For any prospective or current customers of Amazon Web Services, Inc., our mailing address is: Amazon Web Services, Inc., 410 Terry Avenue North, Seattle, WA 98109-5210, ATTN: AWS Legal
 *   For any prospective or current customers of Amazon Web Services EMEA SARL, our mailing address is: Amazon Web Services EMEA SARL, 38 Avenue John F. Kennedy, L-1855, Luxembourg, ATTN: AWS EMEA Legal
 *   For any prospective or current customers of Amazon Internet Services Private Limited, our mailing address is: Amazon Internet Services Private Limited, Block E, 14th Floor, Unit Nos. 1401 to 1421, International Trade Tower, Nehru Place, New Delhi, Delhi 110019, India, ATTN: AISPL Legal
+*   For any prospective or current customers of Amazon Web Services Japan G.K., our mailing address is: Amazon Web Services Japan G.K., 3-1-1 Kamiosaki, Shinagawa-ku, Tokyo 141-0021 JAPAN, ATTN: AWS Japan Legal
 
 If you interact with AWS Offerings on behalf of or through your organization, then your personal information may also be subject to your organization’s privacy practices, and you should direct privacy inquiries to your organization.
 
@@ -254,9 +255,19 @@ We provide additional information about the privacy, collection, and use of pers
     
 *   Japan
     
-    Any personal information provided to or gathered by Amazon Web Services Japan G.K. is controlled primarily by Amazon Web Services Japan G.K., 3-1-1 Kamiosaki, Shinagawa-ku, Tokyo 141-0021 JAPAN. Any personal information collected by Amazon Web Services, Inc. is controlled primarily by Amazon Web Services, Inc. We jointly use your personal information for such purposes as described in this Privacy Notice with domestic and foreign subsidiaries of Amazon.com, Inc., including Amazon Web Services, Inc., Amazon Web Services Japan G.K., Amazon Web Services EMEA SARL, and other global entities. Amazon Web Services Japan G.K. is the business operator primarily responsible for managing jointly used information.
+    **Controller of Personal Information**
     
-    We might create de-identified information using your email address, name, address, customer ID, order ID, session ID, and other information.
+    Any personal information provided to or gathered by Amazon Web Services Japan G.K. is controlled primarily by Amazon Web Services Japan G.K., 3-1-1 Kamiosaki, Shinagawa-ku, Tokyo 141-0021 JAPAN. Any personal information collected by Amazon Web Services, Inc. is controlled primarily by Amazon Web Services, Inc. 
+    
+    **Use of Personal Information**
+    
+    We jointly use your personal information for such purposes as described in this Privacy Notice with domestic and foreign affiliates that Amazon.com, Inc. controls, including Amazon Web Services, Inc., Amazon Web Services Japan G.K., Amazon Web Services EMEA SARL, and other global entities that either are subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice. Jointly used personal information includes personal information described under “Personal Information We Collect” and “Example of Information Collected” above. Amazon Web Services, Inc. is the business operator primarily responsible for managing jointly used personal information.  
+    
+    We may transfer personal information to third parties only to the extent described under “How We Share Personal Information” above and in accordance with the Act on Protection of Personal Information.  
+    
+    **Your Rights**
+    
+    You may have the right to request access to or delete your personal information in accordance with applicable law. If you wish to submit a data subject access request, please [contact us](https://console.aws.amazon.com/support/home) (for AWS customers) or contact us at the address under [Contacts, Notices, and Revisions](https://aws.amazon.com/privacy/#Contacts.2C_Notices.2C_and_Revisions) above (for AWS customers and non-customers).
     
 *   Malaysia
     
