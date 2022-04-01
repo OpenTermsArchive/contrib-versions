@@ -86,7 +86,7 @@ When you book a digital ticket, our system uses the address details as well as s
 When you purchase a BahnCard, our system uses the contact and identification data in your customer account. Further information on data processing in connection with the BahnCard can be found at [db-vertrieb.com/datenschutz.](https://www.db-vertrieb.com/datenschutz.)(german only)
 
 **Payment details in customer accounts**  
-We process your payment details when handling transactions, such as when you buy a product via bahn.de/bahn.com. Depending on the payment method chosen, we may forward your payment details to a third party, as we work with partner companies in order to process certain payment options. You can use the payment services of PayPal, paydirekt and Klarna without payment details being stored in your customer account. 
+We process your payment details when handling transactions, such as when you buy a product via bahn.de/bahn.com. Depending on the payment method chosen, we may forward your payment details to a third party, as we work with partner companies in order to process certain payment options. You can use the payment services of PayPal and giropay without payment details being stored in your customer account. 
 
 *   **Registration for payment by SEPA direct debit**  
     When you register to use the SEPA direct debit process, you provide us with a SEPA mandate that we can use to deduct payments from your bank account by means of a SEPA direct debit if you have selected this payment option. The legal basis for this is Article 6(1)(b) GDPR.
