@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-#### Last Updated: March 25, 2022
+#### Last Updated: March 31, 2022
 
 #### 1\. Universal Service Terms (Applicable to All Services)
 
@@ -41,11 +41,11 @@ If, as of the time of a change of the AWS Contracting Party responsible for your
 
 **1.14.2** These Service Terms incorporate the [AWS Supplementary Addendum](https://d1.awsstatic.com/Supplementary_Addendum_to_the_AWS_GDPR_DPA.pdf) to the DPA, when the GDPR applies to your use of the AWS Services to process Customer Data.
 
-**1.14.3** These Service Terms incorporate the [AWS UK GDPR Addendum](https://d1.awsstatic.com/UK_GDPR_addendum_to_AWS_data_processing_addendum.pdf) to the DPA, when the UK GDPR applies to your use of the AWS Services to process UK Customer Data (as defined in the AWS UK GDPR Addendum).
+**1.14.3** These Service Terms incorporate the [AWS UK GDPR Addendum](https://d1.awsstatic.com/UK_GDPR_addendum_to_AWS_data_processing_addendum.pdf) to the DPA, when the UK GDPR applies to your use of the AWS Services to process UK Customer Data (as defined in the AWS UK GDPR Addendum).
 
 **1.14.4** These Service Terms incorporate the Standard Contractual Clauses between controllers and processors (“[Controller-to-Processor Clauses](https://d1.awsstatic.com/Controller_to_Processor_SCCs.pdf)”) and the Standard Contractual Clauses between processors (“[Processor-to-Processor Clauses](https://d1.awsstatic.com/Processor_to_Processor_SCCs.pdf)”) approved by the European Commission Implementing Decision (EU) 2021/914 of 4 June 2021 (the “SCCs”). The SCCs will only apply when: (i) the GDPR applies to your use of the AWS Services to process Customer Data; and (ii) Customer Data is transferred either directly or via onward transfer, to a country outside of the European Economic Area not recognised by the European Commission as providing an adequate level of protection for personal data subject to GDPR (together a “Data Transfer”). When you are a controller (as defined in the GDPR), the Controller-to-Processor Clauses will apply to a Data Transfer. When you are a processor (as defined in the GDPR), the Processor-to-Processor Clauses will apply to a Data Transfer.
 
-**1.14.5** These Service Terms incorporate the [AWS CCPA Terms](https://d1.awsstatic.com/legal/aws-ccpa/AWS_CCPA_Terms.pdf) (“CCPA Terms”), when the CCPA applies to your use of the AWS Services to process Personal Information (as defined in the CCPA Terms).
+**1.14.5** These Service Terms incorporate the [AWS CCPA Terms](https://d1.awsstatic.com/legal/aws-ccpa/AWS_CCPA_Terms.pdf) (“CCPA Terms”), when the CCPA applies to your use of the AWS Services to process Personal Information (as defined in the CCPA Terms).
 
 **1.15.** Following closure of your AWS account, we will delete Your Content in accordance with the Documentation.
 
@@ -519,7 +519,7 @@ Use of Microsoft Software on AWS Directory Service is subject to Section 5.1 abo
 
 **35.3.** You acknowledge and agree that we may disclose application packages, test packages (pre- compiled), test script source code, application extension files, or auxiliary data files to third parties solely for purposes of conducting automated security verification.  
 
-#### 36\. Amazon OpenSearch Service (successor to Amazon Elasticsearch Service)
+#### 36\. Amazon OpenSearch Service
 
 Amazon OpenSearch Service creates daily automated snapshots of your Amazon OpenSearch Service domains. We will maintain these automated snapshots for a period of at least 14 days after they are created. We may delete automated snapshots at any time after 14 days.  
 
@@ -806,7 +806,7 @@ Notwithstanding any other provision of the Agreement, you may incorporate into y
 
 **54.6** To enable the Apple Business Chat integration with Amazon Connect, you must create an Apple Business Register account and are responsible for reviewing and accepting any Apple terms pertaining to use of Apple Business Chat, such as Apple’s Terms of Use.  You agree that you are solely responsible for your or your End User’s use of Apple Business Chat, the content you or your End Users send through Apple Business Chat, and compliance with applicable Apple terms.
 
-**54.7. Amazon Connect Machine Learning Services.** “Amazon Connect ML Services” means, collectively, Contact Lens for Amazon Connect, Amazon Connect Customer Profiles Identity Resolution, and Amazon Connect Forecasting, Capacity Planning, and Scheduling (Preview). “Amazon Connect ML Content” means Your Content that is processed by an Amazon Connect ML Service. The following terms apply to your use of Amazon Connect ML Services:  
+**54.7. Amazon Connect Machine Learning Services.** “Amazon Connect ML Services” means, collectively, Contact Lens for Amazon Connect, Amazon Connect Customer Profiles Identity Resolution, Amazon Connect high-volume outbound communications (Preview) with answering machine detection enabled, and Amazon Connect Forecasting, Capacity Planning, and Scheduling (Preview). “Amazon Connect ML Content” means Your Content that is processed by an Amazon Connect ML Service. The following terms apply to your use of Amazon Connect ML Services:  
 
 (a) You agree and instruct that: (i) we may use and store Amazon Connect ML Content to maintain and provide Amazon Connect ML Services (including development and improvement of Amazon Connect ML Services and their underlying technologies); (ii) we may use and store Amazon Connect ML Content that is not personal data to develop and improve AWS and affiliate machine-learning and artificial intelligence technologies; and (iii) solely in connection with the development and improvement described in clauses (i) and (ii), we may store your Amazon Connect ML Content in AWS regions outside the AWS regions where you are using Amazon Connect ML Services. By contacting AWS Support and following the process provided to you, you may instruct AWS not to use or store Amazon Connect ML Content to develop and improve Amazon Connect ML Services or technologies of AWS and affiliates.  
 
