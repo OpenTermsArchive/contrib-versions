@@ -101,7 +101,7 @@ If you use the contact form / chatbot to ask questions regarding a booking, our 
 **Offers relating to similar products or services**  
 We take steps in order to maintain customer relations with you and to provide you with information and offers which we think will correspond to your travel preferences and interests. We therefore process your data on the basis of Article 6(1)(f) GDPR (plus with the help of service providers) in order to send you information and offers. We use your contact data (name, address and e-mail address which we have received as a result of our business relationship with you) for advertising by post and for similar goods or services by e-mail, in particular for market research, unless you object to such use.
 
-You can object at any time to the future use of your data for such advertising purposes. Simply send your objection by e-mail to [p.d-datenschutz@deutschebahn.com](mailto:p.d-datenschutz@deutschebahn.com) or by post to one of the above-named DB companies (advertising opt-out).
+You can object at any time to the future use of your data for such advertising purposes without incurring costs other than those for your internet connection, which you need for communicating with us. Simply send your objection by e-mail to [p.d-datenschutz@deutschebahn.com](mailto:p.d-datenschutz@deutschebahn.com?subject=advertising%20opt-out) or by post to of the above-named DB companies (advertising opt-out).
 
 **Ordering subscriptions online**  
 When you purchase a season ticket as a subscription, our system uses the contact and payment data in your customer account. Depending on the offer, identification data such as date of birth or a photograph may also be required. Your customer account displays your current subscription.
@@ -177,4 +177,4 @@ If you contact one company but another company is responsible for your particula
 
 We update our privacy notice to bring it into line with new functionalities or legal requirements. We therefore recommend that you check the notice at regular intervals. Where your consent is required or if elements of the privacy notice contain provisions from the contract with you, any changes will be made only with your consent.
 
-Last updated: January 2022
+Last updated: April 2022
