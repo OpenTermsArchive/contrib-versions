@@ -487,7 +487,8 @@ The normal thresholds for nightsaver apply in terms of the kWh usage (Above 3,00
 Contract length/Type  
   
 The contract duration is 12 months, after which the customer will revert to Energia’s standard Nightsaver plan.  
-The price of the electricity and gas unit rates are fixed for 12 months. Electricity rates (Day €20.28 c /kwh  Night €5.84 c /kwh) Gas €5.17 c /kwh **Valid from 1st January 2022, until 31st January 2022.**  
+  
+The price of the electricity and gas unit rates are fixed for 12 months. Standard Electricity Ex. Vat Rates (Day 36.48 cent /kwh , Night 10.50 cent /kwh) Standard Electricity Inc. Vat Rates (Day 41.40 cent /kwh , Night 11.92 cent /kwh). Standard Gas Ex. Vat Rates (9.24 cent /kwh) Standard Gas Inc. Vat Rates (10.49 cent /kwh)  
   
 The standing charges are subject to change in accordance with our General Terms and Conditions.  
   
@@ -669,10 +670,12 @@ All prices are subject to change as per our General Terms and Conditions above.
 
 35\. Energia EV Charger Customer Terms and Conditions
 
+**Energia EV Charger Customer Terms and Conditions**
+
 1.  Background
 
 (a)    Energia offers electric vehicle charging points to its customers. It has arranged for the Contractor to offer the electric vehicle charging points to you under these terms and conditions.   
-(b)   These terms and conditions are in addition to Energia's supply terms and conditions which govern your energy supply with us. If there is any conflict between these terms and conditions and Energia's supply terms and conditions then Energia's supply terms and conditions shall prevail except in relation to limitation of liability which is set out in detail below. 
+(b)    These terms and conditions are in addition to Energia's supply terms and conditions which govern your energy supply with us. If there is any conflict between these terms and conditions and Energia's supply terms and conditions then Energia's supply terms and conditions shall prevail except in relation to limitation of liability which is set out in detail below. 
 
 1.  Information about us and contact details
 
@@ -697,17 +700,14 @@ All prices are subject to change as per our General Terms and Conditions above.
 17.  "**Qualification Criteria**" means:
     1.  Having purchased an  electric vehicle from a retailer participating in Energia’s EV Charger scheme (**Participating Retailer)** ; and
     2.  Being registered as an Energia energy customer for the Customer's domestic dwelling (provided always that Energia may waive this requirement in its sole discretion)
-
-.
-
-1.  "**Services**" means the installation of the Electric Vehicle Charging Point at the Site. which for the avoidance of doubt, shall exclude incidental, maintenance or ongoing support services;
-2.  **"Standard Installation"** means an installation that can be carried out at the Site without any additional site preparation works, man hours or additional equipment to install the Electric Vehicle Charging Point and shall include:
-    1.  Installation of the device where the consumer unit (fuse board)  is no more than 10 meters from the proposed position of the exterior charge point. Customers may incur an additional charge if they wish to have the exterior charge point installed in excess of this 10 meters from the fuse board.
+18.  "**Services**" means the installation of the Electric Vehicle Charging Point at the Site. which for the avoidance of doubt, shall exclude incidental, maintenance or ongoing support services;
+19.  **"Standard Installation"** means an installation that can be carried out at the Site without any additional site preparation works, man hours or additional equipment to install the Electric Vehicle Charging Point and shall include:
+    1.  Installation of the device where the consumer unit (fuse board)  is no more than 5 meters from the proposed position of the exterior charge point. Customers may incur an additional charge if they wish to have the exterior charge point installed in excess of this 5 meters from the fuse board.
     2.  Fuse board is trip switch type. In the event that the fuse board is not trip switch type, the fuse board would need to be upgraded in line with Safe Electric Guidelines.
     3.  10 Square earth bonding with earth electrode is present. In the event of no 10 Square Earth Cable, this would need to be upgraded in line with Safe Electric Guidelines.
-    4.  16 Square mains cable is present. In the event of old mains wiring, this would need to be upgraded to 16 Square Mains in line with Safe Electric Guidelines.  
-3.  "**Site**" means the address at which the Services are to be performed.
-4.  "**We**", "**us**" "**our**" or "**Energia**" means Energia Customer Solutions Limited t/a Energia.
+    4.  16 Square mains cable is present. In the event of old mains wiring, this would need to be upgraded to 15 Square Mains in line with Safe Electric Guidelines.  
+20.  "**Site**" means the address at which the Services are to be performed.
+21.  "**We**", "**us**" "**our**" or "**Energia**" means Energia Customer Solutions Limited t/a Energia.
 
 1.  **INTERPRETATION**
     1.  A reference to a statute or statutory provision is a reference to such statute or provision as amended or re-enacted. A reference to a statute or statutory provision includes any subordinate legislation made under that statute or statutory provision, as amended or re-enacted.
@@ -724,14 +724,14 @@ All prices are subject to change as per our General Terms and Conditions above.
     1.  The Customer agrees and acknowledges that it is responsible for obtaining all necessary consent, permissions and approvals for the installation of the Electric Vehicle Charging Point at the Site. The Customer shall fully indemnify Energia in the event that Energia suffers a claim or loss arising from the action of any third party as a result of the Customers failure to obtain the necessary consent.
     2.  The Customer shall ensure that the Site is safe and free from any obstructions or hazards prior to the performance of the Services. The Customer shall be responsible for the costs of all remedial work required to bring a Site up to a Safe Electric standard to allow safe Standard Installation. 
     3.  The Customer acknowledges and agrees that for Energia to be able to commence and complete the Services the Customer must:
-        1.  allow Energia and its Contractors access to the Site to perform the Services;
+        1.  allow Energia and its Contractors access to the Site to perform the Services, if the customer is not available at the time of appointment without giving at least 24 hours’ notice to the installation team on 0818111122 a no access fee of €100 will apply;
         2.  provide to Energia such information and documentation as Energia reasonably requires and to update Energia when any of the Customer’s information (including personal data) changes;
         3.  co-operate with Energia and its Contractors and provide such assistance as Energia reasonably requires to perform the Services; and
         4.  make available to Energia and its Contractors such power supplies, facilities, working space and access to the Installation Location, at no cost and as Energia reasonably requires from time to time.
     4.  The Customer acknowledges and agrees that it shall:
-        1.  follow the Device Manufacturer’s instructions for the use of the Electric Vehicle Charging Point;
-        2.  register the Electric Vehicle Charging Point on the Device Manufacture’s software system provided by the Device Manufacturer to operate and control the Electric Vehicle Charging Point; and
-        3.  shall be responsible for providing suitable internet communication systems to enable the Electric Vehicle Charging point to function in accordance with the Device Manufacture’s recommendations.
+        1.  follow the Device Manufacturer’s instructions for the use of the Electric Vehicle Charging Point as follows [https://evbox.com/en/subscription-terms](https://evbox.com/en/subscription-terms) and [https://evbox.com/en/terms-of-use](https://evbox.com/en/terms-of-use);
+        2.  register the Electric Vehicle Charging Point with the Device Manufacture using the documentation provided with the Electric Vehicle Charging Point, failure to do so will invalidate the Device Manufacture warranty (details of which are set out in clause 8 below); and
+        3.  shall be responsible for providing suitable internet communication systems to enable the Electric Vehicle Charging point to function and be updated in accordance with the Device Manufacture’s recommendations.
     5.  The Customer agrees that post installation:
         1.  it will be responsible for any damage to or interference with the Electric Vehicle Charging Point or its associated installation, whether caused through the incorrect operation of the Electric Vehicle Charging Point or otherwise; and
         2.  it will be responsible for ensuring that it uses the Electric Vehicle Charging Point in accordance with the user manual and/or manufacturer’s instructions and that any required maintenance checks are carried out throughout the warranty period of the Electric Vehicle Charging Point.
@@ -742,7 +742,7 @@ All prices are subject to change as per our General Terms and Conditions above.
     4.  For the avoidance of doubt, Energia shall not be liable for any damage or wear and tear or variation of output of the Customer's equipment as a result of the operation of the Electric Vehicle Charging Point or incompatibility of the Electric Vehicle Charging Point with the Customer's equipment. 
 6.  **QUALITY**
     1.  The Electric Vehicle Charging Point is provided with the Device Manufacturer’s warranty (which excludes charging cables and their connectors which are warranted for 12 months (1 year)) ("Device Manufacturer’s Warranty") for a period of 36 months (3 years) from the point of installation at the Site.
-    2.  The terms of the Device Manufacturer’s Warranty are available from Energia on request.
+    2.  The terms of the Device Manufacturer’s Warranty, including the exclusions, are available from Energia on request. Please note that in order to make a claim under the  Device Manufacturer’s Warranty you must notify Energia as soon as the issue arises and make no further use of the Electric Vehicle Charging Point after Energia has been notified. Energia will contact the Customer to discuss the matter and make arrangements for returning the Electric Vehicle Charging Point to the Device Manufacturer. The Customer shall comply with all reasonable requests from Energia in relation to Electric Vehicle Charging Point if a claim has been made under the Device Manufacturer’s Warranty.
     3.  Energia carries no liability under the terms of the Device Manufacturer’s Warranty.
 7.  Services
     1.  Energia shall arrange with the Customer a date on which the Services will be carried out at the Site. 
@@ -771,7 +771,7 @@ All prices are subject to change as per our General Terms and Conditions above.
     2.  Within 14 days of Energia receiving the Cancellation Notice, the Customer shall, at its cost, return the Electric Vehicle Charging Point to Energia in its original packaging and in a saleable condition.
     3.  For the avoidance of doubt, the acceptance of the returned Electric Vehicle Charging Point shall be at the sole discretion of Energia. Where Energia reasonably considers that the Electric Vehicle Charging Point does not meet the requirements in paragraph 14.2 above, Energia may deduct money up to the value of the Electric Vehicle Charging Point from any refund due to the Customer.
     4.  Subject to paragraph 14.3 above, Energia will refund to the Customer all monies paid within 14 days of Energia receiving the later of the Cancellation Notice or the returned Equipment.
-    5.  With the exception of circumstances beyond the reasonable control of the Customer, the Customer shall provide Energia with a minimum of 24 hours’ notice to cancel their appointment with no charge being incurred. Failure to provide such notice may incur a fee of €30 to reschedule their appointment.
+    5.  With the exception of circumstances beyond the reasonable control of the Customer, the Customer shall provide Energia with a minimum of 24 hours’ notice to cancel their appointment with no charge being incurred. Failure to provide such notice may incur a fee of €100 to reschedule their appointment.
 13.  TERMINATION
     1.  Without limiting its other rights or remedies, Energia may terminate this Contract with immediate effect by giving written notice to the Customer if:
         1.  the Customer commits a material breach of any term of the Contract and (if such a breach is remediable) fails to remedy that breach within twenty days of that party being notified in writing to do so;
@@ -902,7 +902,7 @@ Data Protection Officer, The Liberty Centre, Blanchardstown Retail Park, Dublin 
 8.  **Right to lodge a complaint.**
 
 You have the right to lodge a complaint with the:  
-Data Protection Commission by writing to the Data Protection Commission, 21 Fitzwilliam Square South, Dublin 2, D02 RD28, Ireland or contacting them via their website at: [https://www.dataprotection.ie/](https://www.dataprotection.ie/)
+Data Protection Commission by writing to the Data Protection Commission, 21 Fitzwilliam Square South, Dublin 2, D02 RD28, Ireland or contacting them via their website at: [https://www.dataprotection.ie/](https://www.dataprotection.ie/).
 
 36\. Revolut Customer Exclusive Offer
 
