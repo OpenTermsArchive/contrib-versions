@@ -1,6 +1,6 @@
 **Privacy Notice**
 
-**Last modified March 2020**
+**Last modified March 2022**
 
 This Privacy Notice will help you understand what personal information FEDERATION INTERNATIONALE DE HOCKEY, Nagravision Sarl, collect and use when providing Services to you and your privacy rights associated with that personal information.
 
@@ -10,7 +10,7 @@ Unless expressly specified herein, it does not include personal information coll
 
 **Contact � Privacy Committee**
 
-Nagravision Sarl, headquartered in Cheseaux-sur-Lausanne, Switzerland with American headquarters in Phoenix, Arizona, United States of America has appointed a Privacy Committee that can be contacted for any question, concerns or request about your personal. Please send your inquiry to [**privacy@nagra.com**](mailto:privacy@nagra.com). In your email, please include your name, first name, email address, country of residence and the nature of your inquiry.
+Nagravision Sarl, headquartered in Cheseaux-sur-Lausanne, Switzerland with American headquarters in Phoenix, Arizona, United States of America has appointed a Privacy Committee that can be contacted for any question, concerns or request about your personal. Please send your inquiry to [**sportsprivacy@nagra.com**](mailto:privacy@nagra.com). In your email, please include your name, first name, email address, country of residence and the nature of your inquiry.
 
 **Changes and updates to the Privacy Notice**
 
@@ -20,7 +20,7 @@ If, as the result of such changes, you want to alter the ways in which Nagravisi
 
 **Children�s privacy**
 
-The Services are intended for individuals above the age of 17. We do not knowingly collect personal information from individuals under age 17. If you are under the age of 17, please do not submit any personal information through the Services. If you have reason to believe that we may have accidentally received personal information from an individual under age 17, please contact us immediately at [privacy@nagra.com](mailto:privacy@nagra.com).
+The Services are intended for individuals above the age of 17. We do not knowingly collect personal information from individuals under age 17. If you are under the age of 17, please do not submit any personal information through the Services. If you have reason to believe that we may have accidentally received personal information from an individual under age 17, please contact us immediately at [sportsprivacy@nagra.com](mailto:privacy@nagra.com).
 
 **Personal information we collect and use**
 
@@ -140,7 +140,7 @@ Nagravision SA makes it possible for you to access your personal Information and
 *   if we have collected and processed your personal information based on your consent, withdraw such consent at any time; or
 *   receive a copy of your personal information processed by us.
 
-To exercise any of those rights, you may unsubscribe at any given time using the link provided in the email or contact us directly at [**privacy@nagra.com**](mailto:privacy@nagra.com) or by mail to:
+To exercise any of those rights, you may unsubscribe at any given time using the link provided in the email or contact us directly at [**sportsprivacy@nagra.com**](mailto:privacy@nagra.com) or by mail to:
 
 Nagravision Sarl
 
