@@ -236,7 +236,7 @@ For example, our Sites include features from third-party social networking platf
 
 ### 4.5 Security
 
-We value the security of your Information, including but not limited to the Information collected via the Sites or Services. Taboola is ISO 27001 certified and we have taken appropriate technical and organisational measures to protect the Information we collect about you from loss, misuse, unauthorized access, disclosure, alteration, destruction, and any other form of unauthorized processing. Please be aware, however, that no data security measures can guarantee 100% security.
+We value the security of your Information, including but not limited to the Information collected via the Sites or Services. Taboola is ISO27001 and ISO27701 certified and we have taken appropriate technical and organisational measures to protect the Information we collect about you from loss, misuse, unauthorized access, disclosure, alteration, destruction, and any other form of unauthorized processing. Please be aware, however, that no data security measures can guarantee 100% security.
 
 ### 4.6 International Data Transfers
 
