@@ -140,7 +140,7 @@ To the extent provided for by law and subject to applicable exceptions, Californ
 
 **We do not and will not sell your Personal Information.**
 
-**Exercising Your Rights**: California residents can exercise the above privacy rights by [contacting us](mailto:hn@ycombinator.com), by emailing the [legal team](mailto:yclegal@ycombinator.com), or by calling us at 888-726-0118.
+**Exercising Your Rights**: California residents can exercise the above privacy rights by [contacting us](mailto:hn@ycombinator.com), or by calling us at 415-874-1528.
 
 **Verification**: in order to protect your Personal Information from unauthorized access or deletion, we may require you to verify your login credentials before you can submit a request to know or delete Personal Information. If you do not have an account with us, or if we suspect fraudulent or malicious activity, we may ask you to provide additional Personal Information and proof of residency for verification. If we cannot verify your identity, we will not provide or delete your Personal Information.
 
