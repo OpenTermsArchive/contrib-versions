@@ -17,11 +17,7 @@ You can also enable features that send information about the websites that you v
 
 See the FAQ regarding Private Browsing, below, for more about how to manage your Silk browsing history.
 
-You can also enable features that send information about the websites that you visit to Amazon.
-
-If you use Amazon Silk on an Amazon device, your device may send logs or crash reports to Amazon that include the URL where Silk ran into an issue or recent browsing history. These logs or reports may contain identifiers such as IP addresses or device IDs. We may use this information to help us troubleshoot the browser and improve its performance.
-
-**How do Silk customized recommendations work?**
+If you use Amazon Silk on an Amazon device, your device may send logs or crash reports to Amazon that include the URL where Silk ran into an issue or recent browsing history. These logs or reports may contain identifiers such as IP addresses or device IDs. We may use this information to help us troubleshoot the browser and improve its performance. **How do Silk customized recommendations work?**
 
 Customized recommendations is a feature available on some Fire tablets. If you enable customized recommendations, Silk helps you find content (such as articles or websites) that you might like based on your browsing activity, such as the websites you visit and how long you spend on each webpage. We do not connect this information to your Amazon account. You can control this feature within the Silk Privacy settings.
 
