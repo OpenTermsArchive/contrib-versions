@@ -153,7 +153,7 @@ A8. Policies
 
 A9. Privacy and cookies
 
-1\. If you book an accommodation, flight, or attraction, please see our [Privacy and Cookies Statement](https://secure.booking.com/content/privacy.en-gb.html?label=removedamp;sid=removed) for more information on privacy, cookies, and how we might contact you and process personal data
+1\. If you book an accommodation, flight, or attraction, please see our [Privacy and Cookies Statement](https://secure.booking.com/content/privacy.en-gb.html?label=removedsid=removed) for more information on privacy, cookies, and how we might contact you and process personal data
 
 2\. If you book ground transport, please see the [Rentalcars.com Privacy Statement](https://www.rentalcars.com/en/privacy), [Cars.booking.com Privacy Statement](https://cars.booking.com/PrivacyPolicy.do), or [Taxi.booking.com Privacy Statement](https://taxi.booking.com/information/privacy) as appropriate to find out how we process your personal data.
 
@@ -1167,7 +1167,7 @@ For reservations made before 14 February 2022
     
     Sometimes cheaper rates are available on our Platform for a specific stay, product or service, however, these rates made available by Trip Providers may carry special restrictions and conditions, for example non-cancelable and non-refundable. Please check the relevant product, service and reservation conditions and details thoroughly for any such conditions prior to making your reservation.
     
-    We want you to pay the lowest price possible for your product and service of choice. Should you find your property of choice booked through the Platform, with the same Trip conditions, at a lower rate on the Internet after you have made a reservation through us, we will match the difference between our rate and the lower rate under the terms and conditions of the [We Price Match](https://www.booking.com/general.en-gb.html?label=removedsid=removed&tmpl=doc/rate_guarantee). Our We Price Match promise does not apply to non-accommodations related products and services.
+    We want you to pay the lowest price possible for your product and service of choice. Should you find your property of choice booked through the Platform, with the same Trip conditions, at a lower rate on the Internet after you have made a reservation through us, we will match the difference between our rate and the lower rate under the terms and conditions of the [We Price Match](https://www.booking.com/general.en-gb.html?label=removedsid=removed;tmpl=doc/rate_guarantee). Our We Price Match promise does not apply to non-accommodations related products and services.
     
     The currency converter is for information purposes only and should not be relied upon as accurate and real time; actual rates may vary.
     
@@ -1188,7 +1188,7 @@ For reservations made before 14 February 2022
     3\. Privacy and cookies
     -----------------------
     
-    Booking.com respects your privacy. Please have a look at our [privacy and cookies policy](https://www.booking.com/general.en-gb.html?label=removedsid=removed&tmpl=docs/privacy-policy) for further information.
+    Booking.com respects your privacy. Please have a look at our [privacy and cookies policy](https://www.booking.com/general.en-gb.html?label=removedsid=removed;tmpl=docs/privacy-policy) for further information.
     
     4\. Free of charge for consumers, only Trip Providers pay!
     ----------------------------------------------------------
