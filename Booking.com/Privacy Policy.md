@@ -719,6 +719,19 @@ Automated decision-making refers to the activity of using computer programmes to
 
 We rely on personal information to make automated decisions, such as providing the best price for you, depending on where you are based. When you search our apps or website, for example to find an accommodation, a rental car or a flight, we process your IP address to confirm whether you are in the European Economic Area (EEA) or in another country. We do this to offer you the best price for the region (EEA) or country (non-EEA). This processing does not result in differential treatment of individuals in China.
 
+#### Personalised recommendations
+
+To improve your Booking.com experience, we provide personalised recommendation services, which make your search results more relevant to you. These results are ranked, by default, according to what we believe you will find most relevant. We do this based on your past bookings, dates and the length of your stay, the composition of the group you're travelling with, where you are from and the actions you take during your search.
+
+You can turn off personalised recommendations at any time. This can be done in the following places:
+
+*   If you are using the app, go to your ‘Profile’, followed by ‘Settings’ and then ‘Personalisation’
+    
+*   If you are on the web, go to ‘Manage account’, followed by ‘Preferences’
+    
+*   If you are not logged in, go to ‘Manage your privacy settings’ on the main page
+    
+
 #### How to exercise your rights
 
 If you have a Booking.com account, you can find the personal information we store about you in your account settings. This includes your name, email address, phone number, address and payment information. You can exercise your right to access, rectification or erasure, by viewing, changing or deleting this data at any time.
