@@ -3,7 +3,7 @@ End User License Agreement
 
 ![Benoit](https://files.helpdocs.io/n0njida9x8/other/1574088362284/03-mg-1925-1.jpg)
 
-Updated 2022-04-05T10:31:15Z by Benoit
+Updated 2022-04-05T16:32:05Z by Benoit
 
 The Yuka App is managed by the company Yuca SAS (hereafter “Yuca”), located at 14 rue de Turbigo 75001 Paris, France (R.C.S. Paris no. 817 769 466)
 
@@ -61,7 +61,11 @@ The [cosmetics scoring](https://help.yuka.io/l/en/article/2t20ixn5y5) method is
 
 Each ingredient is assigned a science-based risk level. For risk levels have been defined: to avoid (red), moderate (orange), low (yellow), and no risk (green).
 
-**The Score assigned by the App constitutes an opinion based on the information present on the product.** The terms “excellent”, “good”, “poor”, and “bad” apply only to the product's Score under the scoring method developed by the Publisher, as shown in the App. The terms “to avoid”, “moderate risk”, “low risk”, and “no risk” apply only to the Publisher's opinion about the corresponding ingredient based on the scientific sources analyzed. These adjectives do not refer to the product itself or its intrinsic qualities.
+The Yuka application provides a preliminary analysis which allows consumers to be better informed when it comes to the food and cosmetic products they use on a daily basis, but does not guarantee better health for those who use it. One's state of health is determined by numerous lifestyle and environmental factors (a healthy and balanced diet, physical exercise, hygiene, absence of problems related to drugs and addiction, stress or pollution), the amount of product consumed and the frequency with which it is consumed.
+
+As such, the Rating provided by the Application merely represents the Publisher's opinion based on the information reported on the product. The terms "Excellent" (score >=75), "Good" (50-75), "Poor" (25-50) and "Bad" (<25) merely express the product's Rating according to the evaluation method developed by the Publisher which, although inspired by the Nutri-Score method in addition to scientific studies, has not been previously approved by health authorities. The terms "Hazardous", "Moderate Risk", "Limited risk", "Low Risk" or "No Risk" express only the Publisher's opinion of the associated ingredient based on the scientific sources analyzed and therefore possess no definitive characterization of its properties. These adjectives do not refer to the product itself, nor to its intrinsic qualities.
+
+The product evaluation expressed by the Rating does not express an absolute judgment on its health properties and therefore cannot disregard factors relating to the amount of product consumed, the frequency with which it's consumed or lifestyle and environmental factors as described above. In evaluating products, the Publisher does not intend to discourage or promote products, but instead aims to make users more aware of their compositions.
 
 ##### Premium version
 
