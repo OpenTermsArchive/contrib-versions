@@ -420,7 +420,7 @@ Under certain conditions, more fully described on the Privacy Shield website her
 
 ### 19\. Contact Us
 
-We welcome your questions, comments and concerns about privacy. You can contact Starbucks Customer Service online at [http://customerservice.starbucks.com](http://customerservice.starbucks.com/) (by phone at 800-Starbuc (782-7282), or by postal mail at: Starbucks Customer Service, Starbucks, P.O. Box 20430, Augusta, GA 30916.
+We welcome your questions, comments and concerns about privacy. You can contact Starbucks Customer Service online at [https://customerservice.starbucks.com/](https://customerservice.starbucks.com/) (by phone at 800-Starbuc (782-7282), or by postal mail at: Starbucks Customer Service, Starbucks, P.O. Box 20430, Augusta, GA 30916.
 
 You may also contact our U.S. privacy team by submitting this [form](https://privacyportal-cdn.onetrust.com/dsarwebform/f9975fc5-c93f-4ff8-8169-846d8f6cd4d2/dd7e8c8f-839f-4be3-9ebc-060786941e92.html), or our Canadian privacy team by submitting this [form](https://privacyportal.onetrust.com/webform/f9975fc5-c93f-4ff8-8169-846d8f6cd4d2/2e24ae7b-8edf-411f-a11d-14a16ddaa413).
 
@@ -462,5 +462,5 @@ Additional contact information may be found below for various Starbucks entities
         
     *   Additional Contact (If Any) –
         *   Customer Service
-            *   [http://customerservice.starbucks.com](http://customerservice.starbucks.com/)
+            *   [https://customerservice.starbucks.com/](https://customerservice.starbucks.com/)
             *   tel.: 800-Starbuc (782-7282)
