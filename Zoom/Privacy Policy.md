@@ -193,7 +193,7 @@ Under the California Consumer Privacy Act of 2018 (CCPA), California residents m
 
 Zoom will not discriminate against you for exercising any of these rights, which is further in line with your rights under the CCPA.
 
-To exercise your rights, please click [here](https://privacyportal.onetrust.com/webform/65962359-ef0d-4399-9db4-572d06de08aa/f277f9f7-bfee-4233-815e-80e290139bc2) or call +1-888-799-9666. To opt out of the use of cookies on our sites for interest-based advertising purposes, follow the instructions above.
+To exercise your rights, please click [here](https://privacyportal.onetrust.com/webform/65962359-ef0d-4399-9db4-572d06de08aa/f277f9f7-bfee-4233-815e-80e290139bc2) or call +1-888-799-0566. To opt out of the use of cookies on our sites for interest-based advertising purposes, follow the instructions above.
 
 We will acknowledge receipt of your request within 10 business days, and provide a substantive response within 45 calendar days, or inform you of the reason and extension period (up to 90 days) in writing.
 
