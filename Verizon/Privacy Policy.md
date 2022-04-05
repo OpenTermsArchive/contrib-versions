@@ -710,7 +710,7 @@ Open all Close all
     
     Authorized agent
     
-    You can authorize an agent to exercise your California privacy rights on your behalf. To designate a California business as your agent, use our [Privacy Dashboard](https://www.verizon.com/privacy/your-data) to “Assign and manage your authorized agent.” To designate an individual as your authorized agent to exercise your privacy rights, send their name, physical address, and email address to VZ.CCPA@verizon.com. We may require additional proof that you granted the authority.
+    You can authorize an agent to exercise your California privacy rights on your behalf. To designate a California business as your agent, use our [Privacy Dashboard](https://www.verizon.com/privacy/your-data) to “Assign and manage your authorized agent.” To designate an individual as your authorized agent to exercise your privacy rights, send their name, physical address, and email address to vz.ccpa@verizon.com. We may require additional proof that you granted the authority.
     
     *   Visiting our [Privacy Dashboard](https://www.verizon.com/privacy/your-data), or
     *   Calling 1.800.333.3972.
