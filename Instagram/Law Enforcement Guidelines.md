@@ -68,25 +68,22 @@ Submission of Requests
 
 Online:
 
-Law enforcement officials seeking Instagram account records must address their request to:
+Law enforcement officials may use the [Law Enforcement Online Request System](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fwww.facebook.com%2Frecords&h=removed) for the submission, tracking and processing of requests. A government-issued email address is required to access the Law Enforcement Online Request System.
 
-Facebook Ireland Ltd.,  
-4 Grand Canal Square,  
-Dublin 2,  
-Ireland
+Please note:
 
-Law enforcement officials are encouraged to use the Law Enforcement Online Request System at facebook.com/records for the submission, tracking and processing of requests. Please note that a government-issued email address is required to access the Law Enforcement Online Request System.
+For Law Enforcement outside of the U.S.:
+
+Please note that for users of the Instagram services in the European region, the service provider and data controller is Meta Platforms Ireland Ltd. If your request is for Meta Platforms Ireland Ltd., it must be addressed to:  
+Meta Platforms Ireland Ltd.,  
+4 Grand Canal Square  
+Dublin 2, Ireland.
+
+For Instagram users in countries outside of the European region, the service provider is Meta Platforms, Inc., please ensure that any requests for Instagram or Facebook user data are correctly addressed to:  
+Meta Platforms, Inc.  
+1601 Willow Road,  
+Menlo Park, CA 94025.
 
 Mail:
 
-Facebook, Ireland Ltd.,  
-Attn: Law Enforcement Response Team  
-4 Grand Canal Square  
-Dublin 2, Ireland
-
-_Law enforcement officials who do not submit requests through the Law Enforcement Online Request System at facebook.com/records should expect longer response times._
-
-**Notes**
-
-*   Acceptance of legal process by any of these means is for convenience and does not waive any objections, including lack of jurisdiction or improper service.
-*   We will not review or respond to correspondence sent by non-law enforcement officials to the addresses above.
+Law enforcement officials who do not submit requests through the [Law Enforcement Online Request System](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fwww.facebook.com%2Frecords&h=removed) should expect longer response times.
