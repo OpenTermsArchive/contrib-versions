@@ -3,7 +3,7 @@ End User License Agreement
 
 ![Benoit](https://files.helpdocs.io/n0njida9x8/other/1574088362284/03-mg-1925-1.jpg)
 
-Updated 2022-04-05T16:32:05Z by Benoit
+Updated 2022-04-06T16:02:24Z by Benoit
 
 The Yuka App is managed by the company Yuca SAS (hereafter “Yuca”), located at 14 rue de Turbigo 75001 Paris, France (R.C.S. Paris no. 817 769 466)
 
@@ -164,7 +164,7 @@ This EULA is subject to French law. The Publisher reserves the right to edit it 
 
 Any disputes that may arise in the performance of these terms and conditions shall be settled as a priority by amicable means. If no amicable resolution can be reached, the parties, whether consumers or professionals, are bound to enlist a mediator prior to entering legal proceedings.
 
-If no agreement can be reached by the parties, the Tribunal Judiciaire of Paris (France) alone has jurisdiction to settle the dispute.
+US Users : Each party specifically waives any right to trial by jury in any court in connection with any action or litigation. Any claims under this EULA shall proceed individually and no party shall join in a class action or other proceeding with or on behalf of others.
 
 [_Legal Notice_](https://help.yuka.io/l/en/article/nlsu1ptphw)
 
