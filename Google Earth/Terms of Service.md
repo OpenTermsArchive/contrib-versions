@@ -7,7 +7,7 @@ To use Google Maps/Google Earth, you must accept (1) the [Google Terms of Servic
 
 Please read each of these documents carefully. Together, these documents are known as the “**Terms**”. They establish what you can expect from us as you use our services, and what we expect from you.
 
-Although it’s not a part of these Terms, we encourage you to read [our Privacy Policy](https://policies.google.com/privacy?hl=en-GB) to better understand how you can [update, manage, export and delete your information](https://myaccount.google.com/?hl=en-GB).
+Although it’s not a part of these Terms, we encourage you to read [our Privacy Policy](https://policies.google.com/privacy) to better understand how you can [update, manage, export and delete your information](https://myaccount.google.com/).
 
 1.  **Licence.** As long as you follow these Terms, the [Google Terms of Service](https://policies.google.com/terms) give you a licence to use Google Maps/Google Earth, including features that allow you to:
     
@@ -22,7 +22,7 @@ Although it’s not a part of these Terms, we encourage you to read [our Privacy
     
 2.  **Prohibited Conduct.** Your compliance with this Section 2 is a condition of your licence to use Google Maps/Google Earth. When using Google Maps/Google Earth, you may not (or allow those acting on your behalf to):
     
-    1.  redistribute or sell any part of Google Maps/Google Earth or create a new product or service based on Google Maps/Google Earth (unless you use the Google Maps/Google Earth APIs in accordance with their [terms of service](https://cloud.google.com/maps-platform/terms/?hl=en-GB));
+    1.  redistribute or sell any part of Google Maps/Google Earth or create a new product or service based on Google Maps/Google Earth (unless you use the Google Maps/Google Earth APIs in accordance with their [terms of service](https://cloud.google.com/maps-platform/terms/));
         
     2.  copy the content (unless you are otherwise permitted to do so by the [Using Google Maps, Google Earth and Street View](https://www.google.com/intl/en-GB/permissions/geoguidelines/) permissions page or applicable intellectual property law, including "fair use");
         
