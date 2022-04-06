@@ -2,7 +2,7 @@ Vinted Terms & Conditions of Use
 
 **TERMS AND CONDITIONS** 
 
-**Last Updated:  1 April, 2022** 
+**Last Updated:  5 April, 2022** 
 
 The platform VINTED is managed and hosted by **VINTED INC.** (hereinafter referred to as "**VINTED**," “**we**,” “**us**,” “**our**”), a company registered in Delaware, with a business location at C/o AG Accounting, 735 Geary St. #303, San Francisco, CA 94109. These Terms and Conditions (“**Terms**”) are a legally binding agreement between you and VINTED regarding your access and use of the Site. BY ACCESSING OR USING THE SITE, YOU CONFIRM THAT YOU ACCEPT THESE TERMS AND THAT YOU AGREE TO COMPLY WITH THEM AND BE LEGALLY BOUND BY THEM.
 
@@ -260,8 +260,6 @@ If any Item that is sent by Custom Shipping is lost or damaged in the shipping p
 8.1 [**Price List.**](https://.vinted.com/pricelist) VINTED is authorized to collect fees for the Services in accordance with the prices indicated in the [Price List](https://www.vinted.co.uk/pricelist). In its sole discretion, VINTED may update the Price List from time to time (and updates may include price changes) as per Section 1.5 of these Terms. Price List changes will not apply to ongoing Transactions (i.e., Transactions for which a Buyer has already made a payment). The updated Price List shall become effective and replace the prior Price List at the time of posting or such other time as may be indicated by VINTED. If you do not agree with or accept the updated Price List, you can choose to not access and use the Site, to terminate your relationship with VINTED, and to close your User account (as further described in Section 16.1). You will be deemed to have accepted the updated Price List if you continue to access and use the Site after the updated Price List becomes effective; however, Price List changes will not apply to ongoing Transactions (i.e., Transactions for which a Buyer has already made a payment).
 
 8.2 **Currency; Taxes.** All prices on the Site are expressed in United States Dollars (USD) and do not include applicable taxes. The final amount of applicable taxes will be shown to the User during Checkout.
-
-8.3 **Payment Methods.** Purchases using the “Buy now” button can be made by a credit card, debit card or any other payment method that is available via the Integrated Payment Service on the Site at the time the Transaction is conducted (for more information on integrated payments please see Section 6). If the Buyer concludes the Transaction outside of the Site directly with the Seller and without using the Site’s “Buy now” button, the payment method and the purchase transaction depends on the private agreement between the Buyer and the Seller and is done at the risk of the Users. VINTED is not responsible for, and disclaims all liability arising out of or related to, transactions conducted off the Site.
 
 9.  **INTERACTION AND MESSAGES ON THE SITE**
 
