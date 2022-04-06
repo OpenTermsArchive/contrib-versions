@@ -616,8 +616,8 @@ All prices are subject to change as per Energia standard terms and conditions. F
 
 Total discount is based on opting in to our Renewal Price Plan.  You must pay your bill by Direct Debit to avail of the Direct Debit Discount and use Online Billing to receive the Online Billing Discount. If you cancel your Direct Debit payment or choose to switch to paper bill, you will lose these discounts.    
    
-Discounts are against Energia Standard Unit Rates.  Standing Charges also apply.  VAT applies at 13.5%.  The Public Service Obligation (PSO) Levy has been set at €7.40 (inc VAT) per month from 1st of October 2020.  
-This applies to all domestic electricity customers irrespective of supplier.  The Carbon Tax has been set at 0.54 (inc. VAT) per c/kWh.  This tax applies to all domestic natural gas customers, irrespective of supplier.   
+Discounts are against Energia Standard Unit Rates.  Standing Charges also apply.  VAT applies at 13.5%.  The Public Service Obligation (PSO) Levy has been set at €4.88 (inc VAT) per month from 1st of October 2021.  
+This applies to all domestic electricity customers irrespective of supplier.  The Carbon Tax has been set at 0.69 (inc. VAT) per c/kWh.  This tax applies to all domestic natural gas customers, irrespective of supplier.   
    
 Your renewal discount will be applied for 12 months and will begin on either your next bill or the one following that, depending on your billing cycle. After one year you will revert to Energia standard unit rates.  Once you have signed up to an Energia Renewal Tariff, there is a 14 day Cooling Off period, during which you may choose to cancel your agreement to renew. There is no penalty for cancelling during the Cooling Off period. If you cancel your service any time after the Cooling Off period and before the end of your contract, a termination fee of €50 per fuel will apply.   
    
