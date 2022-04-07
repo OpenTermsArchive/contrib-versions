@@ -309,6 +309,8 @@ By post:
 > 
 > Ireland
 
+For more information on how to contact the data protection officer, please click [here](https://www.help.tinder.com/hc/articles/5349453268877-How-do-I-contact-Tinder-s-Data-Protection-Officer-).
+
 #### If you live in Japan:
 
 Online: [here](https://gotinder.com/help)
