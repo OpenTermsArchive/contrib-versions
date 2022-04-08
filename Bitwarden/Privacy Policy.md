@@ -8,12 +8,12 @@ Bitwarden Inc. ("Bitwarden") complies with the EU-U.S., Swiss-U.S. Privacy Shiel
 
 #### Privacy Shield Principles (Principles)
 
-*   [Notice](https://bitwarden.com/#notice)
-*   [Data Integrity and Purpose Limitation](https://bitwarden.com/#data-integrity)
-*   [Choice; Access](https://bitwarden.com/#choice-access)
-*   [Accountability and Onward Transfer](https://bitwarden.com/#accountability)
-*   [Recourse and Enforcement](https://bitwarden.com/#recourse)
-*   [Security](https://bitwarden.com/#security)
+*   [Notice](#notice)
+*   [Data Integrity and Purpose Limitation](#data-integrity)
+*   [Choice; Access](#choice-access)
+*   [Accountability and Onward Transfer](#accountability)
+*   [Recourse and Enforcement](#recourse)
+*   [Security](#security)
 
 Notice
 ------
