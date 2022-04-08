@@ -8,7 +8,7 @@ This privacy policy covers noyb.eu, support.noyb.eu and the noyb.eu newsletters.
 **Purpose:** We process your personal data for two purposes: (A) to provide this page to you (“_traffic data_” such as your IP address) and (B) to use your personal data for ensuring the security of the page.  
 **Storage:** (A) Traffic data is not stored. (B) Security log data (e.g. when the software identifies an “incident”) are deleted within 6 months, unless there is a particular reason to keep information for a longer period of time (e.g. individual IP addresses are blocked).  
 **Legal Basis:** (A) Your consent to receive our page and (B) our legitimate interests (for security reasons we process personal information, IP addresses, on this page) in maintaining the security of our page and fulfilling our legal duty to keep the page secure.  
-**Processors:** We may use trustworthy processors that only process your personal data on our behalf (“processors”). The particular provider may be subject to change over time. Currently all our core systems, including our website, are hosted on our own servers.  
+**Processors:** We may use trustworthy processors that only process your personal data on our behalf (“processors”). The particular provider may be subject to change over time. Currently all our core systems, including our website, are hosted on our own servers. Some elements that relate to newsletters are hosted by dialog-Mail eMarketing Systems GmbH (details below at 3) on our behalf.  
 **Other** **Recipients:** None. We do not share personal data with other recipients.  
 **Third Country Transfers:** None. We process your data within the EEA/EU.  
 **Cookies:** We do not use cookies on noyb.eu.  
