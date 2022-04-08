@@ -15,7 +15,7 @@ We disclose account records solely in accordance with our terms of service and a
 
 It is important to note that some information we store is collected automatically, while other information is provided by the user. We do not require email or phone verification, and we do not require people to use real names or identities on Instagram.
 
-For additional information about Instagram, please read our [Privacy Policy](https://help.instagram.com/519522125107875) and [Terms of Use](https://help.instagram.com/581066165581870).
+For additional information about Instagram, please read our [Privacy Policy](https://help.instagram.com/519522125107875?helpref=faq_content) and [Terms of Use](https://help.instagram.com/581066165581870?helpref=faq_content).
 
 Data Retention and Availability
 
