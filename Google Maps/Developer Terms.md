@@ -1292,7 +1292,11 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         
         Google Earth uses Kakadu software as an integrated component. No usage rights, expressed or implied, are provided for said product independent of Google Earth. Kakadu is a trademark of NewSouth Innovations Ltd.
         
-6.  **Other Data.**
+6.  **European Union (EU)**
+    
+    *   [Europa.eu](https://ec.europa.eu/info/legal-notice_en)  
+        Example of Information used: [https://ec.europa.eu/transport/road\_safety/going\_abroad/denmark/speed\_limits\_en.htm](https://ec.europa.eu/transport/road_safety/going_abroad/denmark/speed_limits_en.htm)
+7.  **Other Data.**
     
     Some data in the Services are also licensed from the following content providers and rights holders:
     
