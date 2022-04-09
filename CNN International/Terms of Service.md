@@ -1,7 +1,7 @@
 CNN Terms of Use
 ================
 
-Updated 1601 GMT (0001 HKT) March 28, 2022
+Updated 2117 GMT (0517 HKT) April 8, 2022
 
 **MOBILE APPS/WEBSITE, CNN+ TERMS OF USE**
 
@@ -321,7 +321,7 @@ In addition, under certain circumstances (as explained below), we will pay you m
 
 • claims that may arise after the termination of this Agreement.
 
-References to "CNN," "you," and "us" include our respective subsidiaries, affiliates, agents, employees, licensees, licensors, and providers of content as of the time your or our claim arises; our respective predecessors in interest, successors, and assigns (including AT&T and its affiliates); and all authorized or unauthorized users or beneficiaries of Services under this or prior Agreements between us. Notwithstanding the foregoing, either party may bring an action in small claims court seeking only individualized relief, so long as the action remains in that court and is not removed or appealed to a court of general jurisdiction. This arbitration agreement does not preclude you from bringing issues to the attention of federal, state, or local agencies. Such agencies can, if the law allows, seek relief against us on your behalf. **You agree that, by entering into this Agreement, you and we are each waiving the right to a trial by jury or to participate in a class action**. This Agreement evidences a transaction in interstate commerce, and thus the Federal Arbitration Act governs the interpretation and enforcement of this provision. This arbitration provision shall survive termination of this Agreement.
+References to "CNN," "you," and "us" include our respective subsidiaries, affiliates, agents, employees, licensees, licensors, and providers of content as of the time your or our claim arises; our respective predecessors in interest, successors, and assigns (including Warner Bros. Discovery, Inc. and its subsidiaries and affiliates); and all authorized or unauthorized users or beneficiaries of Services under this or prior Agreements between us. Notwithstanding the foregoing, either party may bring an action in small claims court seeking only individualized relief, so long as the action remains in that court and is not removed or appealed to a court of general jurisdiction. This arbitration agreement does not preclude you from bringing issues to the attention of federal, state, or local agencies. Such agencies can, if the law allows, seek relief against us on your behalf. **You agree that, by entering into this Agreement, you and we are each waiving the right to a trial by jury or to participate in a class action**. This Agreement evidences a transaction in interstate commerce, and thus the Federal Arbitration Act governs the interpretation and enforcement of this provision. This arbitration provision shall survive termination of this Agreement.
 
 **(2) Pre-Arbitration Notice of Disputes:** A party who intends to seek arbitration must first send to the other a written Notice of Dispute ("Notice"). The Notice to CNN should be sent by certified mail to: General Counsel, WarnerMedia News & Sports, 1 CNN Center, Atlanta, GA 30303 ("Notice Address"). The Notice must (a) describe the nature and basis of the claim or dispute; and (b) set forth the specific relief sought ("Demand").
 
