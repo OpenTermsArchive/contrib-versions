@@ -12,13 +12,13 @@ The purpose of this document is to provide you with information about the data w
 1.  Personal data means any information relating to you personally, e.g. name, address, e-mail addresses, user behaviour, location.
 2.  The data controller within the meaning of Article 4 (7) of the EU General Data Protection Regulation (GDPR) is 
 
-Donkey Republic Admin ApS
+DonkeyRepublic Admin Aps
 
-Christian IXs gade 7, 5.sal
+Skelbækgade 4, trappe B, 4. sal.
 
-Kopenhagen K, 1111
+1717 København V,
 
-Denmark 
+Denmark
 
 Directors: Mr. Erdem Ovacik and Mr. Rune Thorenfeldt Kokholm
 
