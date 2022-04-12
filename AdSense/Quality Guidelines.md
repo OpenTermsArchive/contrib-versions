@@ -62,7 +62,7 @@ If you believe that another site is abusing Google's quality guidelines, please 
 
 **Avoid** the following techniques:
 
-*   [Automatically generated content](https://support.google.com/search/docs/advanced/guidelines/auto-gen-content)
+*   [Automatically generated content](https://support.google.com/search/docs/advanced/guidelines/auto-gen-content) intended to manipulate search rankings
 *   Participating in [link schemes](https://support.google.com/search/docs/advanced/guidelines/link-schemes)
 *   Creating pages with [little or no original content](https://support.google.com/search/docs/advanced/guidelines/thin-content)
 *   [Cloaking](https://support.google.com/search/docs/advanced/guidelines/cloaking)
