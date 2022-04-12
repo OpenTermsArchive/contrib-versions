@@ -76,10 +76,9 @@ The contract is concluded with New Work SE, Am Strandkai 1, 20457 Hamburg, Germa
 **Germany**
 
 **Phone: +49 40 419 131 0**  
-**Fax: +49 40 419 131 11**  
 **E-mail:** [**withdraw@xing.com**](mailto:withdraw@xing.com)
 
-**of your decision to withdraw from this contract by an unequivocal statement (e.g. a letter sent by post, fax, e-mail or via the contact form available on each of our webpages). You may use this** [**model withdrawal form**](https://www.xing.com/pdf/Muster-Widerrufsformular_New_Work_SE_en.pdf)**, but it is not obligatory.**
+**of your decision to withdraw from this contract by an unequivocal statement (e.g. a letter sent by post, e-mail or via the contact form available on each of our webpages). You may use this** [**model withdrawal form**](https://www.xing.com/pdf/Muster-Widerrufsformular_New_Work_SE_en.pdf)**, but it is not obligatory.**
 
 **To meet the withdrawal deadline, it is sufficient for you to send your communication concerning your exercise of the right of withdrawal before the withdrawal period has expired.**
 
@@ -175,13 +174,13 @@ XING shall notify users of such changes to its GTC, e.g. via the XING Websites.
 
 **6.4** Premium membership fees for the entire duration or respective billing period are due immediately in advance.
 
-**6.5** XING reserves the right to reasonably increases the fee with effect from the start of a new billing period. Prices may only be increased once per calendar year. In such cases, XING shall inform the user at least six (6) weeks prior to expiry of a billing period to which the fee increase applies. A user may object to the fee increase within three (3) weeks of notification via the contact form, letter, fax or e-mail. The user’s submission of an objection is tantamount to cancelling Premium membership, meaning that said membership will expire at the end of the existing minimum usage period or current billing period.
+**6.5** XING reserves the right to reasonably increases the fee with effect from the start of a new billing period. Prices may only be increased once per calendar year. In such cases, XING shall inform the user at least six (6) weeks prior to expiry of a billing period to which the fee increase applies. A user may object to the fee increase within three (3) weeks of notification via the contact form, letter, or e-mail. The user’s submission of an objection is tantamount to cancelling Premium membership, meaning that said membership will expire at the end of the existing minimum usage period or current billing period.
 
 **Please note:** 
 
 The previous term continues to apply to contracts concluded before 1 March 2022:
 
-**6.5** XING reserves the right to reasonably increase the fees charged for Premium membership with effect from the start of a new renewal period, either after the initial term or the respective current renewal period. Prices may only be increased once per calendar year. In such cases, XING shall inform the user at least six (6) weeks prior to expiry of the initial term or respective current renewal period. Should the user not agree to this increase, they may object to the validity of the increase within three (3) weeks of notification via the contact form, letter, fax or e-mail. The user’s submission of an objection is tantamount to cancelling its Premium membership, meaning that said membership will expire at the end of the initial term or respective current renewal period.
+**6.5** XING reserves the right to reasonably increase the fees charged for Premium membership with effect from the start of a new renewal period, either after the initial term or the respective current renewal period. Prices may only be increased once per calendar year. In such cases, XING shall inform the user at least six (6) weeks prior to expiry of the initial term or respective current renewal period. Should the user not agree to this increase, they may object to the validity of the increase within three (3) weeks of notification via the contact form, letter, or e-mail. The user’s submission of an objection is tantamount to cancelling its Premium membership, meaning that said membership will expire at the end of the initial term or respective current renewal period.
 
 Section 6.5 does not apply to existing customers who registered with XING before 17 March 2014, except in the following cases:
 
@@ -208,11 +207,11 @@ This price modification provision (Section 6.5) shall apply without limitation t
 
 **Premium membership**
 
-**7.3** Premium membership shall run for the initial term selected by the user during the upgrade process. After this term, the Premium membership will renew automatically for an unlimited period (with monthly billing periods) unless terminated in due time by the user or XING. The user and XING may each terminate Premium membership without cause at any time via the contact form, letter, fax or e-mail. If Premium membership has been terminated, the user is entitled to retain free membership until this membership is terminated, meaning that the additional and advanced Premium membership features will no longer be available.
+**7.3** Premium membership shall run for the initial term selected by the user during the upgrade process. After this term, the Premium membership will renew automatically for an unlimited period (with monthly billing periods) unless terminated in due time by the user or XING. The user and XING may each terminate Premium membership without cause at any time via the contact form, letter, or e-mail. If Premium membership has been terminated, the user is entitled to retain free membership until this membership is terminated, meaning that the additional and advanced Premium membership features will no longer be available.
 
 **Please note:** The previous term continues to apply to contracts concluded before 1 March 2022:
 
-**7.3** Premium membership shall run for the initial term selected by the user during the upgrade process. After this term, the Premium membership will be renewed by a term of the same length as the initial term, unless terminated in due time by the user or XING. The user and XING may each terminate Premium membership without cause to the end of the initial term selected by the user during registration process, or to the end of any renewal period after said minimum term expires, by serving notice of three (3) weeks via the contact form, letter, fax or e-mail. If Premium membership has been terminated, the user is entitled to retain free membership until this membership is terminated, meaning that the additional and advanced Premium membership features will no longer be available.
+**7.3** Premium membership shall run for the initial term selected by the user during the upgrade process. After this term, the Premium membership will be renewed by a term of the same length as the initial term, unless terminated in due time by the user or XING. The user and XING may each terminate Premium membership without cause to the end of the initial term selected by the user during registration process, or to the end of any renewal period after said minimum term expires, by serving notice of three (3) weeks via the contact form, letter, or e-mail. If Premium membership has been terminated, the user is entitled to retain free membership until this membership is terminated, meaning that the additional and advanced Premium membership features will no longer be available.
 
 **Cancellation and suspension for good cause**
 
@@ -270,7 +269,7 @@ This price modification provision (Section 6.5) shall apply without limitation t
 
 **11.3** Unless revoked by the user, the user agrees that XING may transfer the contracts, in whole or in part, with users who registered with a Swiss address, to NEW WORK XING AG, Switzerland (formerly XING Switzerland GmbH), to facilitate billing in the user’s local currency.
 
-**11.4** Unless otherwise governed by these GTC, XING may send notices to the user by e-mail, fax or letter. XING may also send declarations to the user’s XING inbox which forms an integral part of the user’s XING membership.
+**11.4** Unless otherwise governed by these GTC, XING may send notices to the user by e-mail, or letter. XING may also send declarations to the user’s XING inbox which forms an integral part of the user’s XING membership.
 
 **11.5** We do not participate in dispute resolution procedures handled by dispute resolution bodies.
 
@@ -311,14 +310,14 @@ These additional terms and conditions for the use of the events platform supplem
 
 **Right of withdrawal**
 
-**You may withdraw from your contractual agreement with XING in writing (e.g. by letter, fax or e-mail) within fourteen (14) days without stating a reason. The two-week period begins upon receipt of these instructions, but not before the contract has been executed, and also not prior to fulfilment of our informational duties as per Article 246 Section 2 in connection with Section 1 (1 and 2) EGBGB, as well as our duties as per Section 312g (1) line 1 BGB in connection with Article 246 Section 3 EGBGB. You can withdraw from the contract by sending timely notification to:**
+**You may withdraw from your contractual agreement with XING in writing (e.g. by letter or e-mail) within fourteen (14) days without stating a reason. The two-week period begins upon receipt of these instructions, but not before the contract has been executed, and also not prior to fulfilment of our informational duties as per Article 246 Section 2 in connection with Section 1 (1 and 2) EGBGB, as well as our duties as per Section 312g (1) line 1 BGB in connection with Article 246 Section 3 EGBGB. You can withdraw from the contract by sending timely notification to:**
 
 **XING Events GmbH**  
 **Sandstr. 33**  
 **80335 Munich**  
 **Germany**
 
-**Fax: +49 89 552 73 58 10**  
+**Phone: +49 89 552 7358-0**  
 **E-mail: info@xing-events.com**
 
 **Consequences of withdrawal**
@@ -494,5 +493,3 @@ These additional terms for the use of the employer review platform supplement th
 ### 2\. Validity of the provisions of the General Terms and Conditions for using the XING service 
 
 In any other respect, the GTC for use of the XING service shall apply.
-
-T
