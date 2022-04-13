@@ -11,6 +11,7 @@ Terms of Service
 *   [Open Source Software - Client](https://miro.com/legal/open-source-software-client)
 *   [Current Subprocessors List](https://miro.com/legal/subprocessors-list)
 *   [Code of Conduct](https://miro.com/legal/code-of-conduct)
+*   [Prior Master Cloud Agreement "MCA" Versions](https://miro.com/legal/prior-master-cloud-agreement-mca-versions)
 
 Terms of Service
 ----------------
