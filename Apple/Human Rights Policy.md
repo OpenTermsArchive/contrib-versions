@@ -62,7 +62,7 @@ Transparency and Communication
 
 We want everyone—from our customers to our industry peers—to know about our  values and the progress we’re making for people and the planet. 
 
-We track and measure our performance across a range of areas, and we apply the  lessons we learn to continually improve. We report our performance publicly in  several ways, including in our Transparency, Supplier Responsibility, Modern Slavery,  and Conflict Minerals reports, available on our Apple Values pages here.  
+We track and measure our performance across a range of areas, and we apply the  lessons we learn to continually improve. We report our performance publicly in several ways, including in our Transparency Report, and in our Supplier Responsibility, Modern Slavery, and Conflict Minerals reports.  
 
 To make sure our progress is as meaningful and impactful as possible, we work with  a broad range of groups—including workers’ rights advocates and local leaders— and consult with stakeholders that include United Nations bodies, governments, nongovernmental organizations, and the world’s leading human rights and labor experts. 
 
