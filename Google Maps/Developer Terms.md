@@ -329,6 +329,12 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   Métropole Aix-Marseille-Provence : [source](https://transport.data.gouv.fr/datasets/reseaux-de-transports-en-commun-de-la-metropole-daix-marseille-provence-et-des-bouches-du-rhone/)
         *   Metropole Nice Cote d'Azure ([https://www.etalab.gouv.fr/licence-ouverte-open-licence](https://www.etalab.gouv.fr/licence-ouverte-open-licence))
+        *   Communauté Urbaine du Grand Reims. Accessed from [https://transport.data.gouv.fr/datasets/zones-a-faibles-emissions-cugr/](https://transport.data.gouv.fr/datasets/zones-a-faibles-emissions-cugr/) on 22.03.2022  
+            Link to licensing terms: [https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf](https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf)
+        *   Toulouse métropole. Accessed from [https://transport.data.gouv.fr/datasets/perimetre-zone-a-faibles-emissions-mobilite-zfem/](https://transport.data.gouv.fr/datasets/perimetre-zone-a-faibles-emissions-mobilite-zfem/) on 22.03.2022.  
+            Link to licensing terms: [https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf](https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf)
+        *   Métropole Rouen Normandie. Accessed from [https://transport.data.gouv.fr/datasets/zfe-m-metropole-rouen-normandie/](https://transport.data.gouv.fr/datasets/zfe-m-metropole-rouen-normandie/) on 22.03.2022  
+            Link to licensing terms: [https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf](https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf)
     10.  **Germany**
         *   Bundesamt für Kartographie und Geodäsie - © Vermessungsverwaltungen der Bundesländer und Bundesamt für Kartographie und Geodäsie
             
@@ -554,6 +560,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
     24.  **Mexico**
         
         Source: INEGI (INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA)
+        
+        "Mapa de Ubicación de Códigos Postales para la Ciudad de México" published by Correos de México. Accessed from [https://datos.gob.mx/busca/dataset/ubicacion-de-codigos-postales-en-mexico/resource/6ac76b9d-f7d7-4a57-84ae-f50f71c078a6](https://datos.gob.mx/busca/dataset/ubicacion-de-codigos-postales-en-mexico/resource/6ac76b9d-f7d7-4a57-84ae-f50f71c078a6) on 28-03-2022
+        
+        "Mapa de Ubicación de Códigos Postales para Jalisco" published by Correos de México. Accessed from [https://datos.gob.mx/busca/dataset/ubicacion-de-codigos-postales-en-mexico/resource/3c3716ba-25fb-4dd6-8566-411615b63404](https://datos.gob.mx/busca/dataset/ubicacion-de-codigos-postales-en-mexico/resource/3c3716ba-25fb-4dd6-8566-411615b63404) on 28-03-2022
         
     25.  **Netherlands**
         *   © Andes B.V.
