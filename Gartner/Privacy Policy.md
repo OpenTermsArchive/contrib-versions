@@ -2,13 +2,13 @@ Gartner and its affiliates are committed to protecting your information. Please 
 
 **Gartner companies issuing the Policy**
 
-In this Policy, references to "we," "us," or "Gartner" are references to Gartner Inc. and all its group companies doing business under the Gartner name listed [here](https://www.gartner.com/technology/contact/worldwide_offices.jsp). Certain Gartner products and/or services which may be linked through www.gartner.com or Gartner group companies with different business models have their own applicable privacy policies, and this Policy does not apply to them. Those companies include [Evanta](https://www.evanta.com/terms/privacy_policy), [Gartner Digital Performance Benchmarks](https://www.l2inc.com/privacy-policy), [Gartner Consumer and Culture Insights](https://iconoculture.cebglobal.com/popups/privacystatement/index.aspx), and the [Gartner Digital Markets Companies](https://www.gartner.com/en/digital-markets) of [Capterra](https://www.capterra.com/legal/privacy-policy), [GetApp](https://www.getapp.com/privacy_policy) and [Software Advice](https://www.softwareadvice.com/affiliate-privacy/).     
+In this Policy, references to "we," "us," or "Gartner" are references to Gartner Inc. and all its group companies doing business under the Gartner name listed [here](https://www.gartner.com/technology/contact/worldwide_offices.jsp). Certain Gartner products and/or services which may be linked through [www.gartner.com](https://www.gartner.com/en) or Gartner group companies with different business models have their own applicable privacy policies, and this Policy does not apply to them. Those companies include [Evanta](https://www.evanta.com/terms/privacy_policy), [Gartner Digital Performance Benchmarks](https://www.l2inc.com/privacy-policy), [Gartner Consumer and Culture Insights](https://iconoculture.cebglobal.com/popups/privacystatement/index.aspx), and the [Gartner Digital Markets Companies](https://www.gartner.com/en/digital-markets) of [Capterra](https://www.capterra.com/legal/privacy-policy), [GetApp](https://www.getapp.com/privacy_policy) and [Software Advice](https://www.softwareadvice.com/affiliate-privacy/).     
 
 Gartner and all its group companies will have access to information on individuals covered by this Policy. A list of our entities can be found [here](https://www.gartner.com/en/contact/worldwide-offices).
 
 **How to Contact Us**
 
-Questions, comments and requests regarding this Privacy Policy should be addressed to our Data Protection Office via email at [privacy@gartner.com](mailto:privacy@gartner.com) or regular mail at:
+Questions, comments and requests regarding this Privacy Policy should be addressed to our Data Protection Office by completing the form at [www.gartner.com/personaldatarequest](http://www.gartner.com/personaldatarequest), via email at [privacy@gartner.com](mailto:privacy@gartner.com) or regular mail at:
 
 Global Data Protection Office  
 Legal Department  
@@ -16,21 +16,34 @@ Legal Department
 Stamford, CT 09602  
 USA
 
+Gartner’s appointed Representatives:
+
+EU Gartner Ireland Limited  
+Two Park Place  
+Hatch Street Upper  
+Dublin 2  
+Ireland
+
+UK Gartner UK Limited  
+The Glanty  
+Egham  
+Surrey  
+TW20 9AH
+
 ### Introduction
 
 This Policy sets out how we collect and use personal information, and your choices and rights regarding our use of your personal information.
 
 This Policy describes our practices when using your information when you: 
 
-1.  express an interest in or have signed up for our conferences or products including newsletters, apps, extensions, webinars, and e-books, or activate your Gartner user account and/or license;
-2.  attend a Gartner conference; or
-3.  visit our websites (including our public and/or member-based websites) or social media sites.
+1.  create, activate and use a Gartner user account and/or license, including a Gartner Peer Insights Community profile and account;
+2.  express an interest in or have signed up for our conferences or products including newsletters, apps, extensions, webinars, and e-books;
+3.  register for, and attend a virtual or in-person Gartner conference; or
+4.  visit our websites (including our public and/or member-based websites) or social media sites or use one of our mobile applications.
 
 This Policy also applies to information we collect from you via our survey or diagnostic tools as outlined in more detail below. You may be shown an additional confidentiality notice before participating in a survey or diagnostic. Please note that in cases where the terms of any such survey- or diagnostic-specific confidentiality notice conflict with any terms in this Policy, the terms of that notice will take precedence over the terms in this Policy. We will not use information we collect via our survey or diagnostic tools to contact you for marketing purposes.
 
-If you participate in the Shared Services Leadership Council, please refer to the information in the section below for Shared Services-specific terms.  
-
-This Policy will apply whether you have provided the information directly to us or we have obtained it from a different source, such as a third party. 
+This Policy will apply whether you have provided the information directly to us or we have obtained it from a different source, such as a third party.  
 
 ### 1\. INFORMATION THAT WE COLLECT ABOUT YOU
 
@@ -38,26 +51,30 @@ This Policy will apply whether you have provided the information directly to us 
 
 |     |     |
 | --- | --- |
-| **Information we collect directly from you or from the following sources:**<br><br>*   Third party referrals including from within the Gartner group;<br>*   Social media sites and other public internet sites, such as LinkedIn; and<br>*   Public resources such as telephone directories, newspapers, internet sites, commercially available marketing lists, registries or public records. |     |
-| **Categories of information we collect about you include:** | *   Personal information such as name and title, contact details, and company name;<br>*   Communications with you;<br>*   Information you provide when posting content on social media sites. |
-| **We use this information for certain activities, including:** | *   Facilitating the business through communication with corporate clients and other business contacts, for example, to communicate about vendor briefings or details of conferences or webinars;<br>*   For internal analysis and research to help us improve our services;<br>*   To send marketing to business contacts regarding our services and products which may be of interest and to promote our business and brand;<br>*   Administering our website, investigating any complaints and providing customer service;<br>*   Monitoring social media content to manage relations with our clients and promote our business and brand. |
+| **Information we collect directly from you or from the following sources:**<br><br>*   Referrals or recommendations, including from within the Gartner group or from a third party;<br>*   Social media sites and other external internet sites, such as LinkedIn; and<br>*   Resources such as telephone directories, newspapers, internet sites, commercially available data resources, public registries or public records. |     |
+| **Categories of information we collect about you include:** | *   Personal information such as name and title, contact details, and company information;<br>*   Communications with you;<br>*   Information you provide when posting content on social media sites. |
+| **We use this information for certain activities, including:** | *   Facilitating the business through communication with corporate clients and other business contacts, for example, to communicate about vendor briefings or details of conferences or webinars;<br>*   For internal analysis and research to help us improve our existing products and services, and create new products and services;<br>*   To send marketing to business contacts regarding our services and products which may be of interest and to promote our business and brand;<br>*   Administering our website, investigating any complaints and providing customer service;<br>*   Monitoring social media content to manage relations with our clients and promote our business and brand. |
 | **We use this information because:** | *   It is necessary to perform our obligations or exercise our contractual rights;<br>*   It is necessary to comply with applicable laws or regulations;<br>*   We have a legitimate business interest to:<br>    *   Manage and promote our business and brand;<br>    *   Provide and improve our services;<br>    *   Operate our business; and<br>*   We have your consent (where required under applicable law) to use your information for marketing. Where we rely on your consent, you have the right to withdraw consent by [contacting us](mailto:privacy@gartner.com). |
-| **Information we collect when you attend one of our virtual or destination conferences:** |     |
-| **Categories of information we collect about you include:** | *   Information you provide during registration, such as name, business email address, profile photograph, job title, professional interests, requested accommodation, and payment card information;<br>*   Information you provide throughout the conference to receive additional Gartner research or materials (e.g. via badge scan or QR scan);<br>*   Geo-location information at a destination conference (if you attend a conference where we are using RFID-enabled badges and you do not request a non-RFID-enabled badge);<br>*   Information collected when we record one of our conferences. |
-| **We use this information for certain activities, including:** | *   Enabling you to attend our conferences;<br>*   Conducting our conferences;<br>*    Sending Gartner research and material related to topics that may be of interest to you;<br>*   Analyzing attendee interests in and interactions with the conference, including through geo-location data for destination conferences, where applicable;<br>*   Marketing our conferences through the use of video;<br>*   Providing recordings of certain conference sessions to interested business contacts, attendees, and online through our website or Gartner social media sites. |
+| **Information we collect when you register for, and attend one of our virtual or in-person conferences:** |     |
+| **Categories of information we collect about you include:** | *   Information you provide during registration, such as name, business email address, profile photograph, job title, professional interests, requested accommodation, and payment card information;<br>*   Information you provide throughout the conference to receive additional Gartner research or materials (e.g. via badge scan or QR scan);<br>*   Geo-location information at a in-person conference (if you attend a conference where we are using RFID-enabled badges and you do not request a non-RFID-enabled badge);<br>*   Information collected when we record one of our conferences. |
+| **We use this information for certain activities, including:** | *   Enabling you to attend our conferences;<br>*   Conducting our conferences;<br>*    Sending Gartner research and material related to topics that may be of interest to you;<br>*   Analyzing attendee interests in and interactions with the conference, including through geo-location data for in-person conferences, where applicable;<br>*   Marketing our conferences through the use of video;<br>*   Providing recordings of certain conference sessions to interested business contacts, attendees, and online through our website or Gartner social media sites. |
 | **We use this information because:** | *   It is necessary to perform our obligations or exercise our contractual rights;<br>*   It is necessary to comply with applicable laws or regulations;<br>*   We have a legitimate business interest to:<br>    *   Manage and promote our business and brand;<br>    *   Operate our conferences business;<br>    *   Provide and improve our services;<br>    *   Collect relevant information for hospitality and health and safety purposes. |
 | **Information we collect from users of:**<br><br>*   **Our public and member-based websites;**<br>*   **Our apps and Gartner Everywhere browser extension; and**<br>*   **Gartner social media sites such as Facebook or Twitter.** |     |
 | **Categories of information we collect about you include:** | *   Information you provide when you enter information on our website, such as when you provide contact details, payment card information, answer online questionnaires, or feedback forms;<br>*   Information you provide when you subscribe to email newsletters such as name, email address, job title;<br>*   Information you provide when registering for an online or member account, including name, business or personal email address, job title, organization, organization’s physical address, direct telephone number, photograph, and biographical details;<br>*   Where you have an online or member account, log-in credentials and information about your use of and preferences for these services;<br>*   When you link your Gartner account with your LinkedIn profile, we collect information from your profile, including your profile photograph;<br>*   URLs of webpages visited when you use Gartner Everywhere. |
-| **We use this information for certain activities, including:** | *   Enabling you to access your Gartner accounts across devices;<br>*   Personalizing your experience of our website, extension and apps;<br>*   Administering our website, extension, and apps;<br>*   Enabling peer networking opportunities based on your background and experience;<br>*   Providing more customized client service;<br>*   Investigating complaints;<br>*   Monitoring social media content to manage relations with our clients and promote our business and brand. |
+| **We use this information for certain activities, including:** | *   Enabling you to access your Gartner accounts across devices;<br>*   Personalizing your experience of our website, extension and apps;<br>*   Administering our website, extension, and apps;<br>*   For internal analysis and research to help us improve our existing products and services, and create new products and services;<br>*   Enabling peer networking opportunities based on your background and experience;<br>*   Providing more customized client service;<br>*   Investigating complaints;<br>*   Monitoring social media content to manage relations with our clients and promote our business and brand. |
 | **We use this information because:** | *   It is necessary to perform our obligations or exercise our contractual rights;<br>*   It is necessary to comply with applicable laws or regulations;<br>*   We have a legitimate business interest to:<br>    *   Promote our brand and business through our website and through social media tools;<br>    *   Monitor, investigate and report any attempts to breach the security of our website;<br>    *   Provide and improve our services including, but not limited to, the Gartner Everywhere extension and our apps;<br>    *   Operate our business;<br>*   We have your consent (where required under applicable law) to use your information for marketing. Where we rely on your consent, you have the right to withdraw consent by [contacting us](mailto:privacy@gartner.com). |
 | **Information we collect about the use of our website and apps from users.** |     |
 | **Categories of information we collect about you include:** | *   Information captured in our web logs such as device information (e.g. device brand and model, screen dimensions), unique identification numbers (e.g. IP address and device ID), and browser information (e.g URL, browser type, pages visited, date/time of access), geo-location and other device-specific information, Internet connection information;<br>*   Advertising information (such as size/type of ad, ad impressions, location/format of ad, data about interactions with ad);<br>*   Behavioral information (such as information on the behavior or presumed interests of individuals which are linked to those individuals and may be used to create a user profile); and<br>*   Information captured by our cookies (see our [Cookie Policy](https://www.gartner.com/en/about/policies/privacy/cookie-policy)). |
-| **We use this information for certain activities, including:** | *   Personalizing the experience of our website;<br>*   Administering our website;<br>*   Performing statistical and trend analysis to improve the user experience and performance of our website;<br>*   Providing better, more customized client service;<br>*   Investigating any complaints. |
+| **We use this information for certain activities, including:** | *   Personalizing the experience of our website;<br>*   Administering our website;<br>*   Performing statistical and trend analysis to improve the user experience and performance of our website;<br>*   Providing better, more customized client service;<br>*   Detecting and preventing fraudulent and/or unlawful use of our website(s), products and services, including user-provided review content;<br>*   Investigating any complaints. |
 | **We use this information because:** | *   It is necessary to comply with applicable laws or regulations;<br>*   We have a legitimate business interest to:<br>    *   Monitor, investigate and report any attempts to breach the security of our websites;<br>    *   Improve the performance and user experience of our websites;<br>    *   Customize the client experience. |
 | **Information we collect from participants of a survey or diagnostic.** |     |
 | **Categories of information we collect about you include:** | *   Personal information such as name and title, contact details, and company name; and<br>*   Demographic information provided by your employer and<br>*   Responses to survey or diagnostic questions. |
 | **We use this information for certain activities, including:** | *   Validating and analyzing survey and diagnostics;<br>*   Conducting general research, including creating or updating aggregate benchmark data sets and reports;<br>*   Providing our services; and<br>*   Developing new products and services. |
 | **We use this information because:** | *   We have a legitimate business interest to:<br>    *   Provide and update benchmark data and analysis; and<br>    *   Validate and update our products and services. |
+| **Information we collect when you create a Gartner Peer Insights Community (“Peer Community”) profile and participate in the Peer Community via the Website or the Gartner Peer Insights App:** |     |
+| **Categories of information we collect about you include:** | *   Information you provide when you create a profile in the Peer Community, including: name and title, contact details (including your personal and company email addresses), and company information;<br>*   A photograph, video, or audio file containing your image or voice;<br>*   Information you choose to add to your Peer Community profile, including links to your LinkedIn and/or Twitter profiles;<br>    <br>*   Communications with you;<br>*   Your responses to various surveys or polls posted in the Peer Community;<br>*   Information you provide when you subscribe to email newsletters such as name, email address, job title;<br>*   Log-in credentials and information about your use of and preferences for participating in the Peer Community;<br>*   When you link your Gartner.com account and/or your Peer Community profile with your LinkedIn profile, we collect information from your profile, including your profile photograph; |
+| **We use this information for certain activities, including:** | *   To provide the service;<br>*   To send notices about your account;<br>*   Enabling you to access your account across devices;<br>*   Personalizing your Peer Community experience;<br>    <br>*   For internal analysis and research to help us improve our existing and create new products and services;<br>*   Administering our website and app, investigating any complaints and providing customer service;<br>*   To administer contests, promotions, and surveys or other Peer Community features;<br>*   To contact you about products and services that may be of interest, including third parties’ goods and services;<br>*   To enable ads to be displayed to our advertisers’ target audiences (though personal information is not shared with advertisers without your consent);<br>*   Enabling peer networking opportunities. |
+| **We use this information because:** | *   It is necessary to provide the service;<br>*   It is necessary to perform our obligations or exercise our contractual rights;<br>*   It is necessary to comply with applicable laws or regulations;<br>*   We have a legitimate business interest to:<br>*   Manage and promote our businesses and brands;<br>*   Monitor, investigate and report any attempts to breach the security of our Website;<br>*   Provide and improve our services;<br>*   Operate our business;<br>*   We have your consent (where required under applicable law) to use your information for marketing. Where we rely on your consent, you have the right to withdraw consent by [contacting us](mailto:privacy@gartner.com). |
 
 #### 1.2 Special categories of information
 
@@ -65,10 +82,14 @@ Certain types of personal information are more sensitive than others. This inclu
 
 |     |     |
 | --- | --- |
-| **Information we collect when you attend one of our virtual or destination conferences** |     |
+| **Information we collect when you attend one of our virtual or in-person conferences** |     |
 | **Categories of information we collect about you include:** | *   Dietary requirements that may imply specific religious beliefs or medical conditions.<br>*   Any physical or mental disability or impairment you may disclose to us. |
 | **We use this information for certain activities, including:** | *   Providing hospitality that is suitable for attendees of our conferences. |
 | **We use this information because:** | *   You have consented by providing us with the information. Where we rely on your consent, you have the right to withdraw your consent by [contacting](mailto:privacy@gartner.com) [us](mailto:privacy@gartner.com). |
+| **Special category information that you choose to provide voluntarily as part of a survey or diagnostic** |     |
+| **Categories of information we collect about you include:** | *   Certain surveys or diagnostics may be configured to collection optional demographics such as race, ethnicity or disability status. |
+| **We use this information for certain activities, including:** | *   Validating and analyzing survey and diagnostics;<br>*   Conducting general research, including creating or updating aggregate benchmark data sets and reports;<br>*   Providing our services; and<br>*   Developing new products and services. |
+| **We use this information because:** | *   You have consented by providing us with the information. Where we rely on your consent, you have the right to withdraw your consent by [contacting us](mailto:privacy@gartner.com). |
 
 #### 1.3 Further information
 
@@ -107,7 +128,8 @@ Gartner and its affiliates may use information disclosed through surveys or diag
 We may disclose your personal information to third parties as follows:
 
 *   To Gartner group companies in order to process the data for the above mentioned purposes;
-*   When we have your consent to do so, e.g., when you have provided your details to a conference exhibitor via badge scan or attended a virtual sponsored session;
+*   When we have your consent or authorization to do so;
+*   When you engage directly with an exhibitor at an in-person or virtual conference e.g., when you allow an exhibitor to scan your badge (at an in-person conference) or attend a virtual sponsored session (during a virtual conference); 
 *   To third parties who work on our behalf to service or maintain business contact databases and other IT systems, e.g., suppliers of the IT systems which we use to process personal information, or who provide other technical services, such as printing;
 *   To third parties providing services to us or on our behalf who have a need to access your information, e.g., our professional advisors (e.g. auditors and lawyers) or venues for our conferences;
 *   To comply with applicable laws, protect rights, safety and property, and respond to lawful requests from public authorities (e.g., disclosing data in appropriate situations for national security or law enforcement purposes);
@@ -121,7 +143,7 @@ We may share information with our organizational clients about how their employe
 
 ### 3\. DATA SUBJECT RIGHTS
 
-In certain circumstances, you have certain rights regarding your personal information. A summary of each right and how you can exercise it is set out below. To exercise any of these rights, please [contact us](mailto:privacy@gartner.com)[.](mailto:privacy@gartner.com) Such requests should include information to allow us to verify your identity(e.g., your name, address, email address or other information reasonably required). If you are a California resident, please refer to Section 11 below for more detailed information on your rights under California law. 
+In certain circumstances, you have certain rights regarding your personal information. A summary of each right and how you can exercise it is set out below. To opt out of receiving commercial communications, please send an email to privacy@gartner.com. To exercise any of your other rights (such as the right to access or deletion of your information), please complete the form at [www.gartner.com/personaldatarequest](http://www.gartner.com/personaldatarequest).  Such requests should include information to allow us to verify your identity (e.g., your name, address, email address or other information reasonably required). If you are a California resident, please refer to Section 11 below for more detailed information on your rights under California law. 
 
 Where we receive your request to exercise one of these rights, we will respond without undue delay and within the time required by applicable law. This may be extended in certain circumstances, e.g., where requests are complex or numerous.
 
@@ -162,7 +184,7 @@ We believe it is important to give you choices about the use of your information
 
 **Marketing Communications**
 
-We will respect your wishes not to receive marketing communications. You can change your marketing preferences by contacting us at the address [here](mailto:privacy@gartner.com). If you gave us your email address to receive marketing communications, you can opt out at any time by using the unsubscribe links or instructions included at the bottom of our emails. Please note that we will continue to send you service-related communications regardless of any opt-out request. We will not sell or share your information or information with third parties (other than our subsidiaries or affiliates) for their own promotional or marketing purposes unless you give us consent to do so and where permitted by applicable law.
+We will respect your wishes not to receive marketing communications. You can change your marketing preferences by contacting us at the address [here](mailto:privacy@gartner.com). If you gave us your email address to receive marketing communications, you can opt out at any time by using the unsubscribe links or instructions included at the bottom of our emails. Please note that we will continue to send you service-related communications regardless of any opt-out request. We will not sell or share your information with third parties (other than our subsidiaries or affiliates) for their own promotional or marketing purposes unless you give us consent to do so and where permitted by applicable law.
 
 **Gartner Everywhere**
 
@@ -175,9 +197,9 @@ Gartner Everywhere is an extension for Google Chrome that allows clients to cust
 
 **Conferences**
 
-When you attend one of our conferences, you may be issued a conference badge with an RFID chip, which has a unique identifier that can be scanned from various distances. We may use the RFID information to administer and improve the conference experience and solicit feedback and/or interest in Gartner products and services. We will not sell or share RFID information with third parties (other than our subsidiaries and affiliates) for their own marketing and promotional purposes.  You may request a non-RFID enabled badge by asking conferences staff at the registration desk.
+When you attend one of our in-person conferences, you may be issued a conference badge with an RFID chip, which has a unique identifier that can be scanned from various distances. We may use the RFID information to administer and improve the conference experience and solicit feedback and/or interest in Gartner products and services. We will not sell or share RFID information with third parties (other than our subsidiaries and affiliates) for their own marketing and promotional purposes.  You may request a non-RFID enabled badge by asking conferences staff at the registration desk.
 
-We allow Exhibitors to scan attendee badges at our conferences. If you choose to allow an Exhibitor to scan your badge at the Exhibitor’s booth or when entering an Exhibitor session or function, you are giving us your consent to provide your contact details to that Exhibitor. Our Exhibitors’ use of any information you choose to share with them in this way is governed by each Exhibitor’s Privacy Policy. Badge scanning is **optional** and you may refuse to have your badge scanned by the Exhibitor.
+We allow Exhibitors to scan attendee badges at our in-person conferences. If you choose to allow an Exhibitor to scan your badge at the Exhibitor’s booth or when entering an Exhibitor session or function, you are giving us your consent to provide your contact details to that Exhibitor. Our Exhibitors’ use of any information you choose to share with them in this way is governed by each Exhibitor’s Privacy Policy. Badge scanning is **optional** and you may refuse to have your badge scanned by the Exhibitor.
 
 ### 7\. SECURITY
 
@@ -195,23 +217,17 @@ We also include web beacons in e-mail messages or newsletters to track whether y
 
 More detailed information on how we use cookies and other web technologies can be found [here](https://www.gartner.com/en/about/policies/privacy/cookie-policy).
 
-### 9\. SHARED SERVICES
+### 9\. MISCELLANEOUS
 
-The Shared Services Leadership Council (“Shared Services”) prides itself in facilitating clients’ connections with one another. If you use the Shared Services site, you agree to provide and share with other Shared Services users certain pieces of contact information which may include your name, job title, organization's name, business email address, phone number, and your business address.
-
-Shared Services encourages clients to participate in surveys, including Process Surveys and ASK Questions. If you participate in a Process Survey, your company name will be attributed to the quartile in which your response to the question falls and/or your response to the question. If you use the ASK question feature, your company name and individual name will attributed to that question. If you respond to an ASK Question, your company name and individual name will appear next to your response, and/or to any comments that are added to an ASK question. 
-
-### 10\. MISCELLANEOUS
-
-#### 10.1 Links
+#### 9.1 Links
 
 We provide links to other websites or resources that are not part of the products, programs, or services run by Gartner. We do not control these websites or their privacy practices, and any information you provide to these sites is subject to the Privacy Policies of those sites and not this Policy.
 
-#### 10.2 Changes to this Policy
+#### 9.2 Changes to this Policy
 
 From time to time, we may change and/or update this Policy. If this Policy changes in any way, we will post an updated version on this website. We recommend you regularly review this website to ensure that you are always aware of our information practices and any changes to such. Any changes to this Policy will go into effect on posting to this page.
 
-### 11\. California Privacy Rights & Notice of Collection
+### 10\. California Privacy Rights & Notice of Collection
 
 California law requires us to provide California residents with additional information regarding how we collect, use, and share your “personal information” (as defined in the California Consumer Privacy Act (“CCPA”)).
 
@@ -234,7 +250,7 @@ California law requires us to provide California residents with additional infor
 
 You may have the right to receive information about the financial incentives that we offer to you (if any). You also have the right to not be discriminated against (as provided for in applicable law) for exercising certain of your rights. Certain information may be exempt from such requests under applicable law. For example, we need certain types of information so that we can provide the Services to you and for compliance with applicable law. If you ask us to delete certain information, you may no longer be able to access or use the Services.
 
-If would like to exercise any of these rights, please email us at [privacy@gartner.com](mailto:privacy@gartner.com) or send your written request to Data Protection Counsel, Americas, Gartner, 1201 Wilson Blvd., Arlington, VA. You will be required to verify your identify before we fulfill your request. You can also designate an authorized agent to make a request on your behalf. To do so, you must provide us with written authorization or a power of attorney, signed by you, for the agent to act on your behalf. You will still need to verify your identity directly with us.
+If would like to exercise any of these rights, please complete the form at [www.gartner.com/personaldatarequest](http://www.gartner.com/personaldatarequest) or send your written request to Data Protection Counsel, Americas, Gartner, 1201 Wilson Blvd., Arlington, VA. You will be required to verify your identity before we fulfill your request. You can also designate an authorized agent to make a request on your behalf. To do so, you must provide us with written authorization or a power of attorney, signed by you, for the agent to act on your behalf. You will still need to verify your identity directly with us.
 
 Subject to certain limits under California Civil Code § 1798.83, California residents may request certain information regarding our disclosure of information to third parties for their direct marketing purposes. To make such a request, please contact us as specified at the beginning of this Privacy Policy.
 
@@ -242,6 +258,6 @@ Subject to certain limits under California Civil Code § 1798.83, California res
 
 Do Not Track (“DNT”) is a privacy preference that users can set in certain web browsers. We do not recognize or respond to browser-related DNT signals, as the industry is currently working toward a common approach to responding to DNT. To learn more about Do Not Track, please click [here](http://allaboutdnt.com/).
 
-### 12\. NEVADA PRIVACY RIGHTS
+### 11\. NEVADA PRIVACY RIGHTS
 
 Nevada law requires us to provide certain Nevada consumers the ability to opt out of the “sale” of “personally identifiable information” as such terms are defined under Nevada law.  We do not engage in such activity; however, if you are a Nevada resident who has purchased goods or services from us, you may submit a request to opt out of any potential future sales under Nevada law by emailing [privacy@gartner.com](mailto:privacy@gartner.com). Once verified, we will maintain your request in the event our practices change.
