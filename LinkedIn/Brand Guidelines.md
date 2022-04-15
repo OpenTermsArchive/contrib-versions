@@ -2,7 +2,7 @@ LinkedIn branding policies.
 ===========================
 
   
-Our trademarks and other brand features are protected by law.  You’ll need our permission in order to use them.  For permission requests, please contact [trademark@linkedin.com](mailto:trademark@linkedin.com)  
+Our trademarks and other brand features are protected by law.  You’ll need our permission in order to use them.  For permission requests, please contact [TrademarkRequest@linkedin.com](mailto:TrademarkRequest@linkedin.com)  
   
 LinkedIn **generally does not permit** its members, third party developers, partners and the media (“you”) to use its name, trademarks, logos, web pages, screenshots and other brand features.  Narrow and specific exceptions are detailed below.  Any other uses must obtain prior approval from LinkedIn.  
   
@@ -52,7 +52,7 @@ You may use words in connection with the “in” Logo to indicate the link to y
 
 **Logos For Use By Third Party Developers**  
   
-As a Third-Party Developer of LinkedIn, you must request permission to use our logos. Please contact us at [trademark@linkedin.com](mailto:trademark@linkedin.com) with your request.  
+As a Third-Party Developer of LinkedIn, you must request permission to use our logos. Please contact us at [TrademarkRequest@linkedin.com](mailto:TrademarkRequest@linkedin.com) with your request.  
   
 Once approved, you may use our logos on your website and in connection with your application which offers access to the LinkedIn website via the LinkedIn API’s. Your use of the logos is subject to: (i) the applicable API terms of use or such other agreement between you and LinkedIn; (ii) your compliance with the Platform Guidelines, as well as these Guidelines.  
   
@@ -68,7 +68,7 @@ Logos may be [downloaded for use](https://brand.linkedin.com/downloads) in repor
   
 **Specific Logo Requests**  
   
-If you are a member of the media and have any specific requirements, please contact us at [trademark@linkedin.com](mailto:trademark@linkedin.com).
+If you are a member of the media and have any specific requirements, please contact us at [TrademarkRequest@linkedin.com](mailto:TrademarkRequest@linkedin.com).
 
 ### IV.
 
@@ -84,7 +84,7 @@ You may also not use a screenshot of LinkedIn’s personal profile pages or grou
 ### Books or printed materials
 
   
-LinkedIn does not allow the use of its logos or the name “LinkedIn” in the title or otherwise on the cover of books or other publications without prior written permission of LinkedIn. If you are interested in using the LinkedIn name or logos in a publication, please contact [trademark@linkedin.com](mailto:trademark@linkedin.com)  
+LinkedIn does not allow the use of its logos or the name “LinkedIn” in the title or otherwise on the cover of books or other publications without prior written permission of LinkedIn. If you are interested in using the LinkedIn name or logos in a publication, please contact [TrademarkRequest@linkedin.com](mailto:TrademarkRequest@linkedin.com)  
   
 For use of screenshots in a book or other printed materials, see “Screenshots” above.
 
@@ -93,7 +93,7 @@ For use of screenshots in a book or other printed materials, see “Screenshots�
 ### Film and TV
 
   
-If you would like to use LinkedIn’s logos in a television or film or video production, please contact [trademark@linkedin.com](mailto:trademark@linkedin.com)
+If you would like to use LinkedIn’s logos in a television or film or video production, please contact [TrademarkRequest@linkedin.com](mailto:TrademarkRequest@linkedin.com)
 
 ### VII.
 
@@ -107,7 +107,7 @@ LinkedIn does not allow the use of the name LinkedIn in the title of blogs or ot
 ### Manufactured items
 
   
-Generally, LinkedIn does not permit the use of its Marks on manufactured products (T-shirts, packaging, other memorabilia). If you wish to use LinkedIn’s Marks on manufactured items, please contact [trademark@linkedin.com](mailto:trademark@linkedin.com)
+Generally, LinkedIn does not permit the use of its Marks on manufactured products (T-shirts, packaging, other memorabilia). If you wish to use LinkedIn’s Marks on manufactured items, please contact [TrademarkRequest@linkedin.com](mailto:TrademarkRequest@linkedin.com)
 
 ### IX.
 
@@ -120,7 +120,7 @@ All permitted uses of the LinkedIn Marks must conform to the following guideline
 
 Required clear space for the LinkedIn logo  
   
-**Logo and Background Color:** The LinkedIn logo should always be used in color for online use. The LinkedIn logo should also be used in color for print applications unless the color version is not practical, in which case the logo can be reproduced in solid black. The preferred background color for the logo is solid white. When a solid white color is not practical, it may be used on a solid, light background color. The high resolution logo must be used for all print applications. High resolution logos can be [downloaded here](https://brand.linkedin.com/downloads). If you are a member of the media and have any specific requirements, please contact us at [trademark@linkedin.com](mailto:trademark@linkedin.com).  
+**Logo and Background Color:** The LinkedIn logo should always be used in color for online use. The LinkedIn logo should also be used in color for print applications unless the color version is not practical, in which case the logo can be reproduced in solid black. The preferred background color for the logo is solid white. When a solid white color is not practical, it may be used on a solid, light background color. The high resolution logo must be used for all print applications. High resolution logos can be [downloaded here](https://brand.linkedin.com/downloads). If you are a member of the media and have any specific requirements, please contact us at [TrademarkRequest@linkedin.com](mailto:TrademarkRequest@linkedin.com).  
   
 **Logo Size:** The LinkedIn logos may be provided in different sizes/resolutions in transparent PNG format. To ensure the logo resolution and quality are not degraded, these logos may not be enlarged beyond their native/maximum size. [Vector EPS logos](https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/downloads/LinkedIn-Logos-Vector-EPS.zip) may be enlarged beyond their native size. The minimum size is 21px tall on screen, or 0.25” tall (6.35mm) in print applications, measured by the height of the “in” box.  
   
@@ -166,7 +166,7 @@ LINKEDIN DISCLAIMS ANY WARRANTIES THAT MAY BE EXPRESS OR IMPLIED BY LAW REGARDIN
 LinkedIn requires that you conform to these Guidelines in your use of any Brand Features.  We may modify these Guidelines at any time and your continued use of the Brand Features will constitute your consent to such modifications. LinkedIn has complete discretion in determining if your use violates any of the Guidelines.  
   
   
-If you would like to make use of the Brand Features in a manner not within the following Guidelines, you must seek prior written permission by contacting [trademark@linkedin.com](mailto:trademark@linkedin.com)
+If you would like to make use of the Brand Features in a manner not within the following Guidelines, you must seek prior written permission by contacting [TrademarkRequest@linkedin.com](mailto:TrademarkRequest@linkedin.com)
 
 ### XI.
 
@@ -230,4 +230,4 @@ Q:  The downloadable logo files on your website will not work for my needs. Ca
 Q:  I believe a third-party website is using the LinkedIn and/or ‘in’ logo in a manner that violates the LinkedIn Brand Guidelines. What should I do?
 =====================================================================================================================================================
 
-*   We appreciate your assistance. Please send evidence of any possible TM or branding violations to: [trademark@linkedin.com](mailto:trademark@linkedin.com)
+*   We appreciate your assistance. Please send evidence of any possible TM or branding violations to: [TrademarkRequest@linkedin.com](mailto:TrademarkRequest@linkedin.com)
