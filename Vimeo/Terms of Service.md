@@ -1,7 +1,7 @@
 **Vimeo Terms of Service**
 ==========================
 
-Last Updated: March 14, 2022
+Last Updated: April 15, 2022
 
 This **Vimeo Terms of Service Agreement** (the “**Agreement**” or “**Terms of Service**”) is made between Vimeo.com, Inc. (“**Vimeo**,” “**we**,” “**us**,” or “**our**”) and you, our customer (“**you**” or “**your**”). This Agreement governs your use of Vimeo owned-and-operated websites, applications, and embeddable video players (collectively, the “**Services**”). This includes our Vimeo, Vimeo OTT, and Livestream services. Your use of our Magisto, Chant, and Videofy services is governed exclusively by the [Vimeo Creator Tools Terms of Service Agreement](https://www.magisto.com/tos).
 
@@ -46,7 +46,7 @@ This Agreement includes our [Privacy Policy](https://vimeo.com/privacy) and th
 
 **Features:** The features available to you will depend on your plan. We may change features from time to time. If you have a paid account, we commit to providing the core video hosting and streaming features of your plan (including the bandwidth and storage capabilities stated at the time of purchase) during your current service period.
 
-**Unlimited Bandwidth Fair Use Policy:** Generally, we do not limit or impose additional fees for bandwidth consumption on Self-Serve accounts (i.e. the data used in order to deliver your videos to viewers). However, this policy is subject to fair use: If your aggregate bandwidth usage (across all accounts you control) is higher than 99% of Self-Serve users on our platform in any calendar month, we may, in our discretion, charge fees for excessive usage, require you to upgrade to a more suitable plan, or terminate your account(s) upon advance written notice. For more information on bandwidth and our fair use policy, please see our [Bandwidth on Vimeo](https://vimeo.zendesk.com/hc/en-us/articles/360037761072-Bandwidth-on-Vimeo-) article.
+**Bandwidth:** The bandwidth allowance included with your Self-Serve plan applies to your aggregate bandwidth usage across all Self-Serve accounts you control. You may not circumvent bandwidth limitations by opening multiple accounts. If you exceed your bandwidth allowance, we may, in our discretion, charge fees for excessive usage, require you to upgrade to a more suitable plan, or terminate your account(s) upon advance written notice. For more information on bandwidth, please see our [Bandwidth on Vimeo](https://vimeo.zendesk.com/hc/en-us/articles/360037761072-Bandwidth-on-Vimeo-) article.
 
 **Video Creation Tools:** We may allow you to use Vimeo Create, our video creation tools. Your use of Vimeo Create is governed by our [Vimeo Create Addendum](https://vimeo.com/vimeo-create-addendum).
 
