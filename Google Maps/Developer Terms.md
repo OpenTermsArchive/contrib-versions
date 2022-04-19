@@ -561,9 +561,9 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         
         Source: INEGI (INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA)
         
-        "Mapa de Ubicación de Códigos Postales para la Ciudad de México" published by Correos de México. Accessed from [https://datos.gob.mx/busca/dataset/ubicacion-de-codigos-postales-en-mexico/resource/6ac76b9d-f7d7-4a57-84ae-f50f71c078a6](https://datos.gob.mx/busca/dataset/ubicacion-de-codigos-postales-en-mexico/resource/6ac76b9d-f7d7-4a57-84ae-f50f71c078a6) on 28-03-2022
+        "Mapa de Ubicación de Códigos Postales para la Ciudad de México" published by Correos de México. Accessed from [https://datos.gob.mx/](https://datos.gob.mx/) on 28-03-2022
         
-        "Mapa de Ubicación de Códigos Postales para Jalisco" published by Correos de México. Accessed from [https://datos.gob.mx/busca/dataset/ubicacion-de-codigos-postales-en-mexico/resource/3c3716ba-25fb-4dd6-8566-411615b63404](https://datos.gob.mx/busca/dataset/ubicacion-de-codigos-postales-en-mexico/resource/3c3716ba-25fb-4dd6-8566-411615b63404) on 28-03-2022
+        "Mapa de Ubicación de Códigos Postales para Jalisco" published by Correos de México. Accessed from [https://datos.gob.mx/busca/](https://datos.gob.mx/) on 28-03-2022
         
     25.  **Netherlands**
         *   © Andes B.V.
