@@ -126,7 +126,7 @@ The open source software platform that runs everywhere from the smartphone, the 
     -------------------------------------------
     
     *   [What is Kubernetes](https://ubuntu.com/kubernetes/what-is-kubernetes)
-    *   [Features](https://ubuntu.com/kubernetes/features)
+    *   [Features](https://ubuntu.com/kubernetes/charmed-k8s)
     *   [Managed](https://ubuntu.com/kubernetes/managed)
     *   [Compare](https://ubuntu.com/kubernetes/compare)
     *   [Install](https://ubuntu.com/kubernetes/install)
