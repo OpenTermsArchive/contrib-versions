@@ -20,7 +20,7 @@ For the best results managing your Business Profile:
 
 Brands, organisations, artists and other online-only businesses aren't eligible for Business Profiles.
 
-**Tip:** If you’d like to get one-on-one guidance and tailored recommendations on how to make the most out of your profile, [book an appointment with Small Business Advisors](http://business.google.com/advisors).
+**Tip:** If you’d like to get one-on-one guidance and tailored recommendations on how to make the most out of your profile, [book an appointment with Small Business Advisors](http://business.google.com/advisors). (The service is unable to assist with troubleshooting disabled or suspended business profiles.)
 
 Business eligibility & ownership
 --------------------------------
