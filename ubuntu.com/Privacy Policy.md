@@ -380,6 +380,7 @@ The open source software platform that runs everywhere from the smartphone, the 
     *   [Features](https://ubuntu.com/desktop/features)
     *   [Organisations](https://ubuntu.com/desktop/organisations)
     *   [Developers](https://ubuntu.com/desktop/developers)
+    *   [Flavours](https://ubuntu.com/desktop/flavours)
     *   [Partners](https://ubuntu.com/desktop/partners)
     *   [Statistics](https://ubuntu.com/desktop/statistics)
 *   [Server](https://ubuntu.com/server)
@@ -408,7 +409,6 @@ The open source software platform that runs everywhere from the smartphone, the 
     *   [Desktop](https://ubuntu.com/download/desktop)
     *   [Xilinx](https://ubuntu.com/download/xilinx)
     *   [Alternative downloads](https://ubuntu.com/download/alternative-downloads)
-    *   [Ubuntu flavours](https://ubuntu.com/download/flavours)
 *   [Observability](https://ubuntu.com/observability)
     -------------------------------------------------
     
