@@ -48,7 +48,6 @@ To view recent updates to these policies, please see our [Ad Policy Change Log](
 *   [Amazon brand usage guidelines](https://advertising.amazon.com/resources/ad-policy/brand-usage?ref_=a20m_us_spcs_brdusg)
 *   [Amazon DSP additional policies](https://advertising.amazon.com/resources/ad-policy/amazon-dsp-additional-policies?ref_=a20m_us_spcs_dspap)
 *   [Amazon pixelling guidelines](https://advertising.amazon.com/resources/ad-policy/pixeling-policy?ref_=a20m_us_spcs_pxlg)
-*   [Approved third-party ad servers and technology providers](https://advertising.amazon.com/resources/ad-policy/approved-3p-ad-servers?ref_=a20m_us_spcs_3psrv)
 *   [Automated guaranteed platform policy](https://advertising.amazon.com/resources/ad-specs/automated-guarantee?ref_=a20m_us_spcs_autgrt)
 *   [Book advertising guidelines and acceptance policies](https://advertising.amazon.com/en-us/resources/ad-policy/book-ads?ref_=a20m_us_spcs_bkad)
 *   [Brand creative guidelines](https://advertising.amazon.com/resources/ad-specs/how-to-build-brand-creatives-to-engage-amazon-shoppers?ref_=a20m_us_spcs_bcag)
