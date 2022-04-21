@@ -20,7 +20,7 @@
 
 User Agreement      
 
-11/02/2021   
+03/25/2022   
 
  
 
@@ -84,11 +84,23 @@ content to the Services, or the fact that Parler may receive a benefit from your
 
 10. You agree to receive communications from Parler, including communications sent by phone, email, text message, or other means of communication. If you provided a phone number to Parler, you are required to notify Parler when you cease to own or control that number to help prevent Parler from sending communications to others who may acquire that number.   
 
-11. The Services are provided to you as-is and at your own risk. The Services come with no express or implied warranties, except those that cannot be disclaimed under the law.   
+Mobile Terms and Conditions 
 
-PARLER DISCLAIMS ALL EXPRESS OR IMPLIED WARRANTIES AND CONDITIONS, SUCH  AS  MERCHANTABILITY,  FITNESS  FOR  A  PARTICULAR  PURPOSE,  AND NON-INFRINGEMENT. Parler makes no representation or endorsement about the function of the Services or any content available through the Services. Parler has no responsibility or liability to you arising from your use of the Services. Parler has no  responsibility  or  liability  to  you  arising  from  content  provided  by  you  or  any other  person,  even  if  such  content  is  untrue,  harmful,  damaging,  offensive, inappropriate,  fraudulent,  tortious,  unlawful,  contrary  to  social  norms,  etc. Although Parler may make efforts to review or monitor content, you agree that you will not rely on this fact for any purpose. Parler has no responsibility or liability to you  arising  from  hacking  event,  data  breach,  theft,  misuse  of  information, conspiracy,  racket,  fraud,  act  of  terrorism,  misappropriation  of  information, technical malfunction, interruption of service, or similar event that may cause you to suffer damage, loss, or injury, including without limitation any damage to or loss of  your  personal  property,  data,  operations,  information,  reputation,  goodwill, profits, etc.   
+(Effective date: 3/25/2022) 
 
-TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, AND REGARD-    LESS OF THE NATURE OF THE CAUSE OF ACTION, PARLER WILL NOT BE   LIABLE TO YOU FOR ANY DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, OR PUNITIVE DAMAGES, OR FOR ANY LOST PROFITS, WHETHER  INCURRED DIRECTLY OR INDIRECTLY, OR FOR INTANGIBLE LOSSES, ARISING FROM (a) YOUR ACCESS TO OR USE OF (OR INABILITY TO ACCESS OR USE) THE SERVICES; (b) FROM THE ACTS OR OMISSIONS OF ANY OTHER PERSON   
+Parler Alerts.  Receive alerts from Parler on important issues and updates via your mobile device. Text PARLER to 89331 to receive text messages with Parler updates. Message frequency varies. Message and data rates may apply. 
+
+By opting into this service, you consent to receive mobile text alerts using an automatic   telephone   dialing   system.   Consent   to   receive   marketing   text messages is not required as a condition of using our services or purchasing any goods or services we may offer. 
+
+By signing up, you are confirming you are over the age of 13. 
+
+STOP Information: Text STOP to 89331 to stop receiving Parler Alerts messages from Parler (you will receive a confirmation text). 
+
+HELP  Information: For  additional  information,  text  Help  to  89331  or  contact support@parler.com. 
+
+Supported carriers are:  
+
+AT\&T, Sprint, T-Mobile®, Verizon Wireless, Boost, Cricket, MetroPCS, U.S. Cellular, Virgin  Mobile,  Google  Voice,  ACS  Wireless,  Advantage  Cellular  (DTC  Wireless), Appalachian   Wireless,   Atlantic   Tele-Network   International   (ATN),   Bandwidth, Bluegrass Cellular, Buffalo  Wireless, CableVision, Carolina West  Wireless, Cellcom, Copper Valley,  C-Spire  Wireless  (formerly  Cellsouth),  Cellular  One  of  East  Central Illinois,  Chariton  Valley  Cellular,  Cross  (dba  Sprocket),  Duet  IP,  Element  Mobile, EpicTouch, GCI Communications, Golden State, Hawkeye (Chat Mobility), Hawkeye (NW  Missouri  Cellular),  i  Wireless  (IOWA  Wireless),  Illinois  Valley  Cellular,  Immix (Keystone  Wireless  /  PC  Management),  Inland  Cellular,  Mobi  PCS  (Coral  Wireless 
 
   
 
@@ -96,7 +108,23 @@ TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, AND REGARD-    LESS OF THE NA
 
 5   
 
-OR  THIRD  PARTY,  INCLUDING,  WITHOUT  LIMITATION,  ANY  DEFAMATORY, OFFENSIVE, OR ILLEGAL CONDUCT OF OTHER PERSONS OR THIRD PARTIES; (c)  ANY  CONTENT  OBTAINED  FROM  THE  SERVICES;  OR  (d)  UNAUTHORIZED ACCESS,  USE,  OR  ALTERATION  OF  YOUR  CONTENT  OR  COMMUNICATIONS THROUGH THE SERVICES. IN NO EVENT SHALL THE AGGREGATE LIABILITY OF PARLER ARISING OUT OF OR RELATING TO THESE TERMS OR THE SERVICES EXCEED  THE  GREATER  OF  TWO  HUNDRED  U.S.  DOLLARS  (U.S.  $200.00)  OR THE AMOUNT YOU PAID PARLER, IF ANY, IN THE PAST SIX MONTHS FOR THE SERVICES GIVING RISE TO THE CLAIM. THE LIMITATIONS OF THIS SECTION  SHALL APPLY TO ANY THEORY OF LIABILITY, WHETHER BASED ON WARRANTY,  CONTRACT, STATUTE, TORT (INCLUDING NEGLIGENCE), OR OTHERWISE, AND SHALL FURTHER APPLY WHETHER OR NOT PARLER HAS BEEN INFORMED OF THE POSSIBLITY OF ANY SUCH DAMAGES AND EVEN IF A REMEDY LAID OUT IN THESE TERMS IS FOUND TO HAVE FAILED ITS ESSENTIAL PURPOSE.        
+LLC),  Mosaic,  MTA  Communications,  MTPCS  /  Cellular  One  (Cellone  Nation),  Nex-Tech Wireless, Panhandle Telecommunications, Peoples Wireless, Pine Belt Wireless, Pine  Cellular,  Pioneer,  Plateau,  Revol  Wireless,  RINA,  SI  Wireless/Mobile  Nation, SouthernLinc,   SRT   Wireless,   Thumb   Cellular,   Union   Wireless,   United,   Viaero Wireless, West Central Wireless, Leaco, Nemont/Sagebrush. T-Mobile is not liable for delayed or undelivered messages. 
+
+ 
+
+11. The Services are provided to you as-is and at your own risk. The Services come with no express or implied warranties, except those that cannot be disclaimed under the law.   
+
+PARLER DISCLAIMS ALL EXPRESS OR IMPLIED WARRANTIES AND CONDITIONS, SUCH  AS  MERCHANTABILITY,  FITNESS  FOR  A  PARTICULAR  PURPOSE,  AND NON-INFRINGEMENT. Parler makes no representation or endorsement about the function of the Services or any content available through the Services. Parler has no responsibility or liability to you arising from your use of the Services. Parler has no  responsibility  or  liability  to  you  arising  from  content  provided  by  you  or  any other  person,  even  if  such  content  is  untrue,  harmful, damaging,  offensive, inappropriate,  fraudulent,  tortious,  unlawful,  contrary  to  social  norms,  etc. Although Parler may make efforts to review or monitor content, you agree that you will not rely on this fact for any purpose. Parler has no responsibility or liability to you  arising  from  hacking  event,  data  breach,  theft,  misuse  of  information, conspiracy,  racket,  fraud,  act  of  terrorism,  misappropriation  of  information, technical malfunction, interruption of service, or similar event that may cause you to suffer damage, loss, or injury, including without limitation any damage to or loss of  your  personal  property,  data,  operations,  information,  reputation,  goodwill, profits, etc.   
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, AND REGARD-    LESS OF THE NATURE OF THE CAUSE OF ACTION, PARLER WILL NOT BE   LIABLE TO YOU FOR ANY DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, OR PUNITIVE DAMAGES, OR FOR ANY LOST PROFITS, WHETHER  INCURRED DIRECTLY OR INDIRECTLY, OR FOR INTANGIBLE LOSSES, ARISING FROM (a) YOUR ACCESS TO OR USE OF (OR INABILITY TO ACCESS OR USE) THE SERVICES; (b) FROM THE ACTS OR OMISSIONS OF ANY OTHER PERSON   OR  THIRD  PARTY,  INCLUDING,  WITHOUT  LIMITATION,  ANY  DEFAMATORY, OFFENSIVE, OR ILLEGAL CONDUCT OF OTHER PERSONS OR THIRD PARTIES; (c)  ANY  CONTENT  OBTAINED  FROM  THE  SERVICES;  OR  (d)  UNAUTHORIZED ACCESS,  USE,  OR  ALTERATION  OF  YOUR  CONTENT  OR  COMMUNICATIONS THROUGH THE SERVICES. IN NO EVENT SHALL THE AGGREGATE LIABILITY OF 
+
+  
+
+ 
+
+6   
+
+PARLER ARISING OUT OF OR RELATING TO THESE TERMS OR THE SERVICES EXCEED  THE  GREATER  OF  TWO  HUNDRED  U.S.  DOLLARS  (U.S.  $200.00)  OR THE AMOUNT YOU PAID PARLER, IF ANY, IN THE PAST SIX MONTHS FOR THE SERVICES GIVING RISE TO THE CLAIM. THE LIMITATIONS OF THIS SECTION  SHALL APPLY TO ANY THEORY OF LIABILITY, WHETHER BASED ON WARRANTY,  CONTRACT, STATUTE, TORT (INCLUDING NEGLIGENCE), OR OTHERWISE, AND SHALL FURTHER APPLY WHETHER OR NOT PARLER HAS BEEN INFORMED OF THE POSSIBLITY OF ANY SUCH DAMAGES AND EVEN IF A REMEDY LAID OUT IN THESE TERMS IS FOUND TO HAVE FAILED ITS ESSENTIAL PURPOSE.        
 
  
 
@@ -106,19 +134,19 @@ OR  THIRD  PARTY,  INCLUDING,  WITHOUT  LIMITATION,  ANY  DEFAMATORY, OFFENSIVE,
 
 12. Applicable law and dispute resolution procedure.  
 
-(a) The laws of Washington, DC will govern these Terms and any dispute that arises between you and Parler. You agree that all disputes related to these Terms or the Services will first be mediated, in good faith, within sixty (60) days of the demanding party’s provision of a written demand, unless expressly agreed otherwise in a signed writing. In the event that a full settlement is not achieved during mediation, you agree that any dispute, action or proceeding seeking to enforce any provision of, or based on any right arising out of these Terms or otherwise, shall then be settled exclusively by arbitration as set forth hereunder and you hereby waive the right to a jury trial before any court of competent jurisdiction. (b) Jury Trial Waiver. IN USING THE SERVICES, YOU THEREBY WAIVE A TRIAL BY JURY  IN  ANY  ACTION,  PROCEEDING,  OR  COUNTER-CLAIM  BROUGHT  OR ASSERTED BY EITHER YOU OR PARLER AGAINST THE OTHER ON ANY MATTERS WHATSOEVER  RELATING  TO  OR  ARISING  OUT  OF  THE  FORMATION  OF  AN AGREEMENT BETWEEN THE PARTIES BASED ON THESE TERMS. (c) Requirement.  All  claims,  controversies,  disputes  and  other  matters  in  question arising out of, or relating to these Terms, the breach hereof or the rights, privileges, responsibilities  or  duties  between  or  among  you  and  Parler,  shall  be  decided  by confidential   arbitration   in   Washington,   DC,   USA   in   accordance   with   the Commercial Arbitration Rules of the American Arbitration Association (“AAA”) then existing,  unless  all  parties  to  any  such  claim,  controversy  or  dispute, or  other matter in question, unanimously agree to the contrary. The provisions contained in this Paragraph shall be specifically enforceable under the prevailing arbitration law. (d) Procedure.  The  arbitrator  or  arbitrators  for  any proceeding  conducted  hereunder shall be a person or persons with experience in the social media business, selected 
+(a) The laws of Washington, DC will govern these Terms and any dispute that arises between you and Parler. You agree that all disputes related to these Terms or the Services will first be mediated, in good faith, within sixty (60) days of the demanding party’s provision of a written demand, unless expressly agreed otherwise in a signed writing. In the event that a full settlement is not achieved during mediation, you agree that any dispute, action or proceeding seeking to enforce any provision of, or based on any right arising out of these Terms or otherwise, shall then be settled exclusively by arbitration as set forth hereunder and you hereby waive the right to a jury trial before any court of competent jurisdiction. (b) Jury Trial Waiver. IN USING THE SERVICES, YOU THEREBY WAIVE A TRIAL BY JURY  IN  ANY  ACTION,  PROCEEDING,  OR  COUNTER-CLAIM  BROUGHT  OR ASSERTED BY EITHER YOU OR PARLER AGAINST THE OTHER ON ANY MATTERS WHATSOEVER  RELATING  TO  OR ARISING  OUT  OF  THE  FORMATION  OF  AN AGREEMENT BETWEEN THE PARTIES BASED ON THESE TERMS. (c) Requirement.  All  claims,  controversies,  disputes  and  other  matters  in  question arising out of, or relating to these Terms, the breach hereof or the rights, privileges, responsibilities  or  duties  between  or  among  you  and  Parler,  shall  be  decided  by confidential   arbitration   in   Washington,   DC,   USA   in   accordance   with   the Commercial Arbitration Rules of the American Arbitration Association (“AAA”) then existing,  unless  all  parties  to  any  such  claim,  controversy  or  dispute, or  other matter in question, unanimously agree to the contrary. The provisions contained in this Paragraph shall be specifically enforceable under the prevailing arbitration law. (d) Procedure.  The arbitrator  or  arbitrators  for  any proceeding  conducted  hereunder shall be a person or persons with experience in the social media business, selected in accordance with the AAA’s Commercial Arbitration Rules then in effect. The parties will be entitled to conduct discovery in accordance with the provisions of Washington, DC’s applicable code of civil procedure. The remedial authority of the arbitrator  or  arbitrators  will  be  the  same  as,  but  no  greater  than,  would  be  the remedial power of a court having jurisdiction over the Parties and their dispute. The 
 
   
 
  
 
-6   
+7   
 
-in accordance with the AAA’s Commercial Arbitration Rules then in effect. The parties will be entitled to conduct discovery in accordance with the provisions of Washington, DC’s applicable code of civil procedure. The remedial authority of the arbitrator  or  arbitrators  will  be  the  same  as,  but  no  greater  than,  would  be  the remedial power of a court having jurisdiction over the Parties and their dispute. The arbitrator or arbitrators will render a written opinion based on Washington, DC law, and specifying an  award,  which  will  be  final  and  binding  upon  the  Parties.  
+arbitrator or arbitrators will render a written opinion based on Washington, DC law, and specifying an  award,  which  will  be  final  and  binding  upon  the  Parties.  
 
  
 
-13. You  affirm  that  you  are  competent to  agree  to  be  bound  by  this  Agreement, meaning  that  you  are over  the  age  of  18 and,  if  applicable,  have  the  consent of  any designated guardian. Guardians should be aware that, in addition to the NSFW filters made available by Parler, there are “Parental Control” products and features available on the market, which can help you tailor your child’s experience on our platform. Some examples can be found here and here.  
+13. You  affirm  that  you  are  competent  to  agree  to be  bound  by  this  Agreement, meaning  that  you  are over  the  age  of  18 and,  if  applicable,  have  the  consent of  any designated guardian. Guardians should be aware that, in addition to the NSFW filters made available by Parler, there are “Parental Control” products and features available on the market, which can help you tailor your child’s experience on our platform. Some examples can be found here and here.  
 
 14. Parler cannot waive any right to enforce this Agreement, unless it does so expressly in  writing.  No  waiver  of  any  part  of  this  Agreement,  will  be  a  further  or  continuing waiver  of  that  part  or  any  other  part,  and  no  failure  to  enforce  any  part  of  this Agreement will be deemed a waiver of any kind.   
 
@@ -128,4 +156,4 @@ in accordance with the AAA’s Commercial Arbitration Rules then in effect. The 
 
  
 
-Last Updated: November 02, 2021.
+Last Updated: March 25, 2022.
