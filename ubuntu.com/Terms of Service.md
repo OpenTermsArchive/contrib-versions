@@ -174,7 +174,7 @@ The open source software platform that runs everywhere from the smartphone, the 
     *   [Tutorials](https://ubuntu.com/tutorials?q=core)
     *   [Features](https://ubuntu.com/core/features)
     *   [Success stories](https://ubuntu.com/core/stories)
-    *   [Consulting](https://ubuntu.com/core/smartstart)
+    *   [Consulting](https://ubuntu.com/core/services)
 
 *   [Desktop](https://ubuntu.com/desktop)
     -------------------------------------
@@ -184,7 +184,6 @@ The open source software platform that runs everywhere from the smartphone, the 
     *   [Developers](https://ubuntu.com/desktop/developers)
     *   [Flavours](https://ubuntu.com/desktop/flavours)
     *   [Partners](https://ubuntu.com/desktop/partners)
-    *   [Statistics](https://ubuntu.com/desktop/statistics)
 *   [Server](https://ubuntu.com/server)
     -----------------------------------
     
