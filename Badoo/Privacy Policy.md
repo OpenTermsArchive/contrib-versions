@@ -163,7 +163,7 @@ Our policy is to not disclose your personal data, except in the limited circumst
 MORE INFORMATION ABOUT DISCLOSURES
 ----------------------------------
 
-### Sharing your personal data with Service Providers
+### Service Providers
 
 We engage certain trusted third parties to perform functions and provide services to us (“Service Providers”). The suppliers with which Badoo shares User personal data vary depending on a variety of factors, such as which of our Apps and Sites a User engages with. For example, to provide our services to Badoo App Users, we typically use the following suppliers:
 
@@ -176,7 +176,7 @@ We engage certain trusted third parties to perform functions and provide service
 
 We carry out due diligence on all Service Providers we engage to ensure they have adequate data protection and information security measures in place and only provide them with the personal data necessary to the service they are providing. Our suppliers are also subject to extensive obligations under our contractual arrangements, including strict data retention limits.
 
-### Sharing your personal data with Marketing Service Providers and Advertising Partners
+### Marketing Service Providers and Advertising Partners
 
 We may partner with advertising publishers to place third party adverts on our App and Sites (‘Advertising Partners’). We also partner with providers of marketing services (such as Facebook for example) (‘Marketing Services Providers’) to help us market and advertise our App and services on third party websites and applications and measure the effectiveness of our advertising campaigns. For example:
 
@@ -197,11 +197,9 @@ We share a limited amount of your personal data with companies that help us with
 
 For more information about how we use cookies and other tracking technologies, including how you can set and manage your preferences with regards to such technologies, please see our [Cookie Policy](https://badoo.com/en-us/cookie-policy).
 
-Some platforms require user consent before Badoo is permitted to use data gained through the platform for advertising purposes and where it is the case, Badoo will only use this data where the necessary consent has been obtained. Through your device’s security settings, you also have the option to prevent or limit device identifiers being shared with third party advertisers and what use is made of the device identifiers. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit [this page](https://optout.networkadvertising.org/?c=1).
-
 In some cases, these third parties will also use the data that they collect for their own purposes, for example they may aggregate your data with other data they hold and use this to inform advertising related services provided to other clients.
 
-### Sharing with Facebook
+### Facebook
 
 Where we share data with Facebook as our Marketing Service Provider (including via the Facebook “Like” function), we are Joint Data Controllers with Facebook Ireland for this processing. This arrangement means that Badoo has to provide you this notice, but you should contact Facebook if you wish to exercise your data protection rights. Further information, including how Facebook enables you to exercise your data protection rights, and subsequently processes your information as an independent data controller can be found in [Facebook Ireland’s Data Policy](https://en-gb.facebook.com/policy.php). If you want more information relating to the nature of the arrangement we have in place with Facebook, please email DPO@corp.badoo.com.
 
@@ -335,4 +333,4 @@ Thanks for reading, we hope we didn’t drone on for too long!
 
 As Badoo evolves, we may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at https://badoo.com/privacy/. If we make a change to this policy that, in our sole discretion, is material, we will notify you, for example, via an email to the email associated with your Account or by posting a notice within Badoo.
 
-**Effective date.** This Privacy Policy was last updated on 07 March 2022.
+**Effective date.** This Privacy Policy was last updated on 25 April 2022.
