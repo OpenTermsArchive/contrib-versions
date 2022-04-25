@@ -132,7 +132,7 @@ We will respond to any request for transfer of personal data submitted by e-mail
 
 *   We will only use your e-mail address, Bolt app and/or phone number to send direct marketing messages pursuant to their legitimate business interest under Article 6, para. 1, let. f.) of the GDPR.
     
-*   We may share (1) your Full Name, (2) Email and (3) Circle K Tag Number to CIRCLE K IRELAND ENERGY LIMITED (registration number: 8209; registered office: Circle K House, Beech Hill, Clonskeagh, Dublin 4) ("Circle K") as long as and to the extent that you have filed and submitted the Bolt - Circle K form requesting the relevant information and available at: [https://forms.gle/geT1kfg5fHvoMZqY8](https://forms.gle/geT1kfg5fHvoMZqY8) with the purpose of obtaining exclusive benefits from Circle K with their Park & Play app (subject to the relevant terms and conditions), in accordance with the Data Sharing Agreement in force between Circle K and us and in compliance with applicable laws.
+*   We may share your Circle K Tag Number with CIRCLE K IRELAND ENERGY LIMITED (registration number: 8209; registered office: Circle K House, Beech Hill, Clonskeagh, Dublin 4) ("Circle K") with the purpose of obtaining exclusive benefits from Circle K with their Park & Play app (subject to the relevant terms and conditions), in accordance with the Data Sharing Agreement in force between Circle K and us and in compliance with applicable laws.
     
 *   We may personalize direct marketing messages using the information on how you use Bolt services (frequency of use, journeys, payments) by sending you direct marketing messages, push notifications, emails to promote third party providers who may offer you promotions, discounts or similar initiatives by reason of you using the Bolt Services.
     
@@ -146,4 +146,4 @@ We will respond to any request for transfer of personal data submitted by e-mail
 *   In case you believe that the data processing is unlawful, you are entitled to start the procedure before the Irish Data Protection Commission (Postal address: Data Protection Commission, 21 Fitzwilliam Square South, Dublin 2, D02 RD28, Ireland; web contact: [https://forms.dataprotection.ie/contact](https://forms.dataprotection.ie/contact)) and initiate judicial proceedings or before the Estonian Data Protection Inspectorate ([www.aki.ee](https://www.aki.ee/)) which can be contacted by email: [info@aki.ee](mailto:info@aki.ee).
     
 
-This privacy notice was last updated on 29 March 2022.
+This privacy notice was last updated on 25 April 2022.
