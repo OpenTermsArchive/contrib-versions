@@ -37,17 +37,17 @@ The information we collect helps to enhance the App and verify our Users (robots
 
 For Users who are California residents, the data we may collect falls within the following categories of “personal information”, as defined by the California Consumer Privacy Act (CCPA):
 
-1.  Identifiers, such as name and location;
-2.  Personal information, as defined in the California customer records law, such as contact (including email and telephone number) and financial information;
-3.  Characteristics of protected classifications under California or federal law (if you choose to provide them), such as age, gender identity, marital status, sexual orientation, race, ancestry, national origin, religion, and medical conditions;
-4.  Commercial information, such as transaction information and purchase history;
-5.  Biometric information;
-6.  Internet or network activity information, such as browsing history and interactions with our Sites and App;
-7.  Geolocation data, such as mobile device location;
-8.  Audio, electronic, visual and similar information, such as photos and videos;
-9.  Professional or employment-related information, such as work history and prior employer;
-10.  Non-public education information; and
-11.  Inferences drawn from any of the personal information listed above to create a profile or summary about, for example, an individual’s preferences and characteristics.
+*   A. Identifiers, such as name and location;
+*   B. Personal information, as defined in the California customer records law, such as contact (including email and telephone number) and financial information;
+*   C. Characteristics of protected classifications under California or federal law (if you choose to provide them), such as age, gender identity, marital status, sexual orientation, race, ancestry, national origin, religion, and medical conditions;
+*   D. Commercial information, such as transaction information and purchase history;
+*   E. Biometric information;
+*   F. Internet or network activity information, such as browsing history and interactions with our Sites and App;
+*   G. Geolocation data, such as mobile device location;
+*   H. Audio, electronic, visual and similar information, such as photos and videos;
+*   I. Professional or employment-related information, such as work history and prior employer;
+*   J. Non-public education information; and
+*   K. Inferences drawn from any of the personal information listed above to create a profile or summary about, for example, an individual’s preferences and characteristics.
 
 ### Profile Information
 
@@ -139,7 +139,7 @@ Under EU and UK data protection laws, we are required to tell you our lawful bas
 | To serve promo cards and advertisements on the App | Location, gender, age, and information that you have optionally provided us with via your profile (CCPA Categories A, C and G) | We obtain age, gender and profile information from you, and location data from the device that you use to access the service | Legitimate interests – it is in our legitimate interests to target advertisements so that Users see relevant advertisements and to allow us to generate income from advertising revenue |
 | To serve advertisements on third party networks and measure the effectiveness of such ads | Data about your visit to our Sites or App and action taken on those (for example if you downloaded our App or created an account with Bumble), IP address (and your estimated location based on your IP address), age and gender, device ID (CCPA Categories B, C, G, F and K) | We obtain age and gender from you and we obtain other information from the device or browser that you use to access the service | Consent – as indicated by you in your Privacy Settings/Cookies Settings preferences and via your browser or device privacy preferences (where required by your device manufacturer, for example Apple devices using iOS 14.5). |
 | To contact you in order to run surveys for research purposes and to obtain feedback, and to find out if you want to take part in marketing campaigns | Email address and mobile phone number (CCPA Category B) | You provide this information to us | Legitimate interests – it is in our legitimate interests to carry out research so that we can further develop the app and improve the service |
-| To enable video and audio call functions, and the sending of images and video | Video and audio call usage data, images and video\* (CCPA Categories F and H)<br><br>\*If you use the Snap Lenses feature offered in our App on an Apple device (and give Bumble camera access), we may use information from Apple’s TrueDepth camera. Information from the TrueDepth camera is only used in real time to improve the quality of the Snap Lenses feature. We don’t store this information on our servers or share it with third parties. | We obtain this information from the device that you use to access the service | Legitimate interests – it is in our legitimate interests to provide these functionalities as part of the services |
+| To enable video and audio call functions, and the sending of images and video | Video and audio call usage data, images and video (CCPA Categories F and H) | We obtain this information from the device that you use to access the service | Legitimate interests – it is in our legitimate interests to provide these functionalities as part of the services |
 | To defend legal claims, protect legal rights and to protect people from harm | This could include any information that is relevant to the issue | This information may be obtained directly from you, from your device or from third parties, depending on the information involved | Legitimate interests – it is in our legitimate interests to protect our legal rights, defend legal claims and to protect our Users and third parties from harm |
 
 3\. DISCLOSURE OF INFORMATION.
@@ -165,7 +165,7 @@ Bumble does not sell your data and has not sold your personal data in the previo
 
   
 
-### Sharing your personal data with Service Providers
+### Service Providers
 
 We engage certain trusted third parties to perform functions and provide services to us (“Service Providers”). The suppliers with which Bumble shares User personal data vary depending on a variety of factors, such as which of our App, Sites and services a User engages with. For example, to provide our services to Users, we typically use the following suppliers:
 
@@ -177,7 +177,7 @@ We engage certain trusted third parties to perform functions and provide service
 
 We carry out due diligence on all Service Providers we engage to ensure they have adequate data protection and information security measures in place and only provide them with the personal data necessary to the service they are providing. Measures are taken to ensure that the data shared is non-attributable to the greatest extent possible and our suppliers are also subject to extensive obligations under our contractual arrangements, including strict data retention limits.
 
-### Sharing your personal data with Marketing Services Providers
+### Marketing Services Providers
 
 We partner with providers of marketing services (such as Facebook for example) (‘Marketing Services Providers’) to help us market and advertise our App and services on third party websites and applications and measure the effectiveness of our advertising campaigns. For example:
 
@@ -199,11 +199,9 @@ We share a limited amount of your personal data with these Marketing Services Pr
 
 For more information about how we use cookies and other tracking technologies, including how you can set and manage your preferences with regards to such technologies, please see our [Cookie Policy.](https://bumble.com/cookie-policy)
 
-Some platforms require user consent before Bumble is permitted to use data gained through the platform for advertising purposes and where this is the case, Bumble will only use this data where the necessary consent has been obtained. Through your device’s privacy settings, you also have the option to prevent or limit device identifiers being shared with third party advertisers and what use is made of the device identifiers. If you would like more information about your choices and how you can stop your device identifiers being shared with third party advertisers, please visit [this page.](https://optout.networkadvertising.org/?c=1)
-
 In some cases, these third parties will also use the data that they collect for their own purposes, for example they may aggregate your data with other data they hold and use this to inform advertising related services provided to other clients.
 
-### Sharing with Facebook
+### Facebook
 
 Where we share data with Facebook as our Marketing Service Provider (including via the Facebook “Like” function), we are Joint Data Controllers with Facebook Ireland for this processing. This arrangement means that Bumble has to provide you this notice, but you should contact Facebook if you wish to exercise your data protection rights. Further information, including how Facebook enables you to exercise your data protection rights, and subsequently processes your information as independent data controller can be found in [Facebook Ireland’s Data Policy](https://en-gb.facebook.com/policy.php). If you want more information relating to the nature of the arrangement we have in place with Facebook, please email [DPO@team.bumble.com](mailto:DPO@team.bumble.com).
 
@@ -362,4 +360,4 @@ As Bumble evolves, we may revise this Privacy Policy from time to time. The most
 
 ### Effective date
 
-This Privacy Policy was last updated 07 March 2022.
+This Privacy Policy was last updated 25 April 2022.
