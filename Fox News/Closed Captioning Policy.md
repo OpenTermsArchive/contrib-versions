@@ -3,9 +3,9 @@ Closed Captioning Policy
 
 Fox News is pleased to offer closed captioning on many Fox News programs made available online and through mobile apps. Programs with closed captioning will have a "CC" icon in the player controls. Just tap to enable or disable.
 
-[Certification Statement](https://www.foxnews.com/closed-captioning/fnc-cc-cert.pdf)
+[Certification Statement](https://static.foxnews.com/foxnews.com/content/uploads/2022/04/1Qtr-2022-Closed-Captioning-Certificates.pdf)
 
-To report an issue or concern regarding closed captioning on foxnews.com, please contact us at [closedcaptioning@foxnews.com](mailto:closedcaptioning@foxnews.com). Please detail your issue or concern by providing the following information:
+To report an issue or concern regarding closed captioning on foxnews.com, please contact us at [closedcaptioning@foxnews.com](mailto:closedcaptioning@foxnews.com). Please detail your issue or concern by providing the following information:
 
 *   Name of the program
 *   Type of issue (e.g., garbling, missing captions on a certain episode, captions cut off at certain times or on certain days)
