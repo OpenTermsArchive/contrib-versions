@@ -304,6 +304,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             *   Nîmes Métropole
             *   Grand Guéret Agglo
             *   Tout'enbus Aubenas
+            *   Métropole de Montpellier
         *   [Data.gouv.fr](https://www.data.gouv.fr/fr/) : [Sites de prélèvements pour les tests COVID](https://www.data.gouv.fr/fr/datasets/sites-de-prelevements-pour-les-tests-covid/); [Lieux de vaccination contre la Covid-19](https://www.data.gouv.fr/fr/datasets/lieux-de-vaccination-contre-la-covid-19/)
         *   SNCF : les Informations sont fournies par l’intermédiaire de l’API SNCF ; la réutilisation de ces données est réalisée de manière indépendante de SNCF
             
@@ -410,6 +411,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         *   Sheffield City Council ([http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/))
             
         *   The Spatial Hub ([https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/))
+            
+        *   Open Data Bristol - The UK Government - information licensed under the Open Government Licence 3.0.- ([https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/))
             
         *   Source: Office for National Statistics licensed under the Open Government Licence v.3.0  
             Contains OS data © Crown copyright and database right 2021  
@@ -1256,6 +1259,26 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
     53.  **Yemen**
         
         OCHA Yemen ([https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode))
+        
+    54.  **Zimbabwe**
+        
+        OCHA Regional Office for Southern and Eastern Africa (ROSEA) - Creative Commons Attribution for Intergovernmental Organisations (CC BY-IGO) - ([https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses))
+        
+    55.  **Senegal**
+        
+        OCHA West and Central Africa (ROWCA) - Creative Commons Attribution 3.0 for Intergovernmental Organisations (CC By-IGO) - ([https://data.humdata.org/about/license](https://data.humdata.org/about/license))
+        
+    56.  **Uganda**
+        
+        OCHA Regional Office for Southern and Eastern Africa (ROSEA) - Creative Commons Attribution 3.0 for Intergovernmental Organisations (CC By-IGO) - ([https://data.humdata.org/about/license](https://data.humdata.org/about/license))
+        
+    57.  **Ghana**
+        
+        OCHA West and Central Africa (ROWCA) - Creative Commons Attribution 3.0 for Intergovernmental Organisations (CC By-IGO) - ([https://data.humdata.org/about/license](https://data.humdata.org/about/license))
+        
+    58.  **Morocco**
+        
+        OCHA Middle East and North Africa (ROMENA) - Attribution required - Creative Commons Attribution for Intergovernmental Organisations (CC BY-IGO) - ([https://data.humdata.org/about/license](https://data.humdata.org/about/license))
         
 4.  **Business Listings Data.**
     
