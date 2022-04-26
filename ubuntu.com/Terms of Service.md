@@ -125,12 +125,14 @@ The open source software platform that runs everywhere from the smartphone, the 
 *   [Kubernetes](https://ubuntu.com/kubernetes)
     -------------------------------------------
     
+    *   [Industry report](https://ubuntu.com/kubernetes/cloud-native-kubernetes-usage-report-2021)
     *   [What is Kubernetes](https://ubuntu.com/kubernetes/what-is-kubernetes)
-    *   [Features](https://ubuntu.com/kubernetes/charmed-k8s)
-    *   [Managed](https://ubuntu.com/kubernetes/managed)
+    *   [Charmed Kubernetes](https://ubuntu.com/kubernetes/charmed-k8s)
     *   [Compare](https://ubuntu.com/kubernetes/compare)
+    *   [Managed](https://ubuntu.com/kubernetes/managed)
     *   [Install](https://ubuntu.com/kubernetes/install)
     *   [Docs](https://ubuntu.com/kubernetes/docs)
+    *   [Resources](https://ubuntu.com/kubernetes/resources)
 *   [AI / ML](https://ubuntu.com/ai)
     --------------------------------
     
