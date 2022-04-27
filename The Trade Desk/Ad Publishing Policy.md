@@ -154,4 +154,4 @@ In addition to the daily reporting (which shall include, for purposes of clarifi
 
 Company shall provide, for download via the interface or via email, the reporting information in xls or csv.
 
-In order to promptly address any billing or reporting issues, Company shall create an email alias specifically for TD, e.g., “TDReporting@\[Company.com\],” and emails to such alias will have a Company distribution to at least four people, one at a VP level or higher, for escalation purposes, especially in the event of discrepancies above 10%. TD emails to this alias will be responded to within 24 hours.
+In order to promptly address any billing or reporting issues, Company shall create an email alias specifically for TD, e.g., “[\[email protected\]](https://www.thetradedesk.com/cdn-cgi/l/email-protection)\[Company.com\],” and emails to such alias will have a Company distribution to at least four people, one at a VP level or higher, for escalation purposes, especially in the event of discrepancies above 10%. TD emails to this alias will be responded to within 24 hours.
