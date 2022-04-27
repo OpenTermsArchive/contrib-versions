@@ -3,7 +3,7 @@ End User License Agreement
 
 ![Benoit](https://files.helpdocs.io/n0njida9x8/other/1574088362284/03-mg-1925-1.jpg)
 
-Updated 2022-04-12T13:45:05Z by Benoit
+Updated 2022-04-27T07:59:53Z by Benoit
 
 The Yuka App is managed by the company Yuca SAS (hereafter “Yuca”), located at 14 rue de Turbigo 75001 Paris, France (R.C.S. Paris no. 817 769 466)
 
@@ -53,11 +53,9 @@ The [food scoring](https://help.yuka.io/l/en/article/ijzgfvi1jq) method used b
 *   presence of food additives (30%)
 *   whether the product is organic (10%)
 
-For nutritional balance, the scoring method is based on Nutri-Score, a nutritional quality information system for food products developed by Santé Publique France (www.santepubliquefrance.fr).
-
 ﻿For salt and chocolate, the rating method takes into account additional specific criteria, differentiating from a qualitative or environmental point of view: the extraction or processing method for salt; the cocoa content and type of fat for chocolate.
 
-The [cosmetics scoring](https://help.yuka.io/l/en/article/2t20ixn5y5) method is based on analyzing all of the product's ingredients. The application evaluates the level of health risk of the ingredients that make up the products. On the other hand, the application does not evaluate their effectiveness.
+The [cosmetics scoring](https://help.yuka.io/l/en/article/2t20ixn5y5) method is based on analyzing all of the product's ingredients. The application evaluates the level of risk of the ingredients that make up the products. On the other hand, the application does not evaluate their effectiveness.
 
 Each ingredient is assigned a science-based risk level. For risk levels have been defined: to avoid (red), moderate (orange), low (yellow), and no risk (green).
 
