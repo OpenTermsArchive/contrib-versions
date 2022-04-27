@@ -31,7 +31,7 @@ This privacy policy covers data that the Trade Desk collects, uses and discloses
 
 This policy does not cover data that is collected, used or disclosed through the Trade Desk’s advertising technology platform and systems (the “Platform”). For more information on privacy as it relates to the Platform, please see [The Trade Desk Platform Privacy Policy](https://www.thetradedesk.com/us/privacy). Additionally, this policy does not apply to the privacy practices of other websites that are linked to from our Websites. The Trade Desk is not responsible for the privacy practices of these other websites. We encourage you to read the privacy policies of those websites to understand their data privacy practices.
 
-The Trade Desk is a member of the [Network Advertising Initiative](http://www.networkadvertising.org/) (NAI) and adheres to the NAI’s 2020 Code of Conduct. The Trade Desk also follows the industry self-regulatory guidelines of the [Digital Advertising Alliance](http://aboutads.info/), the [Digital Advertising Alliance of Canada](https://youradchoices.ca/), and the [European Digital Advertising Alliance](http://youronlinechoices.com/).
+The Trade Desk is a member of the [Network Advertising Initiative](https://www.networkadvertising.org/) (NAI) and adheres to the NAI’s 2020 Code of Conduct. The Trade Desk also follows the industry self-regulatory guidelines of the [Digital Advertising Alliance](http://aboutads.info/), the [Digital Advertising Alliance of Canada](https://youradchoices.ca/), and the [European Digital Advertising Alliance](http://youronlinechoices.com/).
 
 The Trade Desk also implements and adheres to the policies of the IAB EU Transparency & Consent Framework as part of our compliance with EU data protection law. See [http://advertisingconsent.eu](http://advertisingconsent.eu/) for more information.
 
@@ -63,7 +63,7 @@ Any PII you provide to or through the Websites shall be used for the purposes fo
 *   We may use data that is not directly identifying to find other users who may have an interest in our products and services
 *   We alert you to changes and provide updates on specific features, products and services that you may be receiving from us
 
-If you no longer wish to receive marketing email communications or wish to opt out, you can follow the unsubscribe instructions contained in the emails you receive or by contacting us at privacy@thetradedesk.com_._
+If you no longer wish to receive marketing email communications or wish to opt out, you can follow the unsubscribe instructions contained in the emails you receive or by contacting us at [\[email protected\]](https://www.thetradedesk.com/cdn-cgi/l/email-protection)_._
 
 **HOW WE SHARE INFORMATION**
 
@@ -106,9 +106,9 @@ Our Websites may include social media features, such as the Facebook “like” 
 
 **YOUR CHOICES**
 
-**Industry opt-out pages.** The online advertising industry provides websites from which you may opt out of interest-based advertising from the Trade Desk and other companies that participate in self-regulatory programs. The US-based opt out pages are [www.aboutads.info/choices](http://www.aboutads.info/choices) and [www.networkadvertising.org/choices](http://www.networkadvertising.org/choices). The European based page is [www.youronlinechoices.com](https://www.youronlinechoices.com/). In Canada, use [youradchoices.ca/choices](http://youradchoices.ca/choices).
+**Industry opt-out pages.** The online advertising industry provides websites from which you may opt out of interest-based advertising from the Trade Desk and other companies that participate in self-regulatory programs. The US-based opt out pages are [www.aboutads.info/choices](http://www.aboutads.info/choices) and [www.networkadvertising.org/choices](https://www.networkadvertising.org/choices). The European based page is [www.youronlinechoices.com](https://www.youronlinechoices.com/). In Canada, use [youradchoices.ca/choices](http://youradchoices.ca/choices).
 
-**For mobile apps.** You can opt out of the Trade Desk using information about your usage of mobile apps that are targeted to your interests by using your device settings, for most devices. We are not able to directly access the Mobile App Opt Out on devices that offer it. To learn how to use the mobile app opt out, consult your device instructions. To find information on Opting out on Mobile Devices please visit [http://www.networkadvertising.org/mobile-choice](http://www.networkadvertising.org/mobile-choice).
+**For mobile apps.** You can opt out of the Trade Desk using information about your usage of mobile apps that are targeted to your interests by using your device settings, for most devices. We are not able to directly access the Mobile App Opt Out on devices that offer it. To learn how to use the mobile app opt out, consult your device instructions. To find information on Opting out on Mobile Devices please visit [http://www.networkadvertising.org/mobile-choice](https://www.networkadvertising.org/mobile-choice).
 
 **The Trade Desk’s Data Control Page**. You are able to opt out of having new data associated with your device and to request that we disassociate from your device data we already have. You can directly access The Trade Desk’s opt out, which will cease data collection and disassociate data from your device, by visiting [](http://www.adsrvr.org/)**[http://www.adsrvr.org](http://www.adsrvr.org/)****.**
 
@@ -122,7 +122,7 @@ DNT is a privacy preference that you may set in certain browsers or may be prese
 
 **YOUR RIGHTS**
 
-You have the right to request access to or deletion of the information we have collected about you through our Websites. If you’d like to access, update, correct, or request deletion of your information that you have provided to us on our Websites or elsewhere, please send your request to us at [dsr@thetradedesk.com](mailto:dsr@thetradedesk.com). We may take reasonable steps to confirm your identity. You will not be discriminated against for the exercise of such rights (for example, we will not provide you with a different level or quality of goods or services).
+You have the right to request access to or deletion of the information we have collected about you through our Websites. If you’d like to access, update, correct, or request deletion of your information that you have provided to us on our Websites or elsewhere, please send your request to us at [\[email protected\]](https://www.thetradedesk.com/cdn-cgi/l/email-protection#removed). We may take reasonable steps to confirm your identity. You will not be discriminated against for the exercise of such rights (for example, we will not provide you with a different level or quality of goods or services).
 
 **INTERNATIONAL TRANSFERS**
 
