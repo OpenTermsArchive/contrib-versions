@@ -1,7 +1,7 @@
 Terms of Service
 ----------------
 
-_Last Updated: November 22, 2021_
+_Last Updated: April 26, 2022_
 
 The Gist
 --------
@@ -15,7 +15,7 @@ We’ve made these Terms available under a [Creative Commons Sharealike license]
 Terms of Service
 ----------------
 
-These Terms govern your access to and use of the products and services we provide through or for [WordPress.com](https://wordpress.com/), [WooCommerce.com](https://woocommerce.com/), [WooCommerce Shipping & Tax](https://wordpress.org/plugins/woocommerce-services/), [Jetpack.com](https://jetpack.com/), [VaultPress.com](https://vaultpress.com/), [Happy.Tools](https://happy.tools/), [Jetpack CRM](https://jetpackcrm.com/), [MailPoet](http://mailpoet.com/), [WPScan.com](https://wpscan.com/), and [WordPress.com Courses](https://wpcourses.com/) (collectively, “Services”).
+These Terms govern your access to and use of the products and services we provide through or for [WordPress.com](https://wordpress.com/), [WooCommerce.com](https://woocommerce.com/), [WooCommerce Shipping & Tax](https://wordpress.org/plugins/woocommerce-services/), [WooPay](https://woo.app/), [Jetpack.com](https://jetpack.com/), [VaultPress.com](https://vaultpress.com/), [Happy.Tools](https://happy.tools/), [Jetpack CRM](https://jetpackcrm.com/), [MailPoet](http://mailpoet.com/), [WPScan.com](https://wpscan.com/), and [WordPress.com Courses](https://wpcourses.com/) (collectively, “Services”).
 
 These Terms also govern visitors’ access to and use of any websites that use our Services, like the websites that our users create on WordPress.com. Please note though that the operators of those websites may also have their own separate terms of use.
 
@@ -193,7 +193,15 @@ Your use of certain Services offered via WooCommerce.com or [WooCommerce Shippin
 
 Please note that extensions and themes are purchased and handled separately, and may function independently. While many work well in tandem, that may not always be the case.
 
-### c. Jetpack
+### c. WooPay
+
+WooPay is a service that facilitates faster checkouts on sites using WooCommerce, by enabling you to save certain of your information to make purchases on those sites.
+
+Sites using WooCommerce may offer you the ability to use WooPay. If you elect to use WooPay, your payment method information will be saved for use on any site that has integrated WooPay. To take advantage of WooPay for future purchases, you must use the same web browser that you used to sign up for WooPay and must not have cleared your cookies (otherwise you may be required to re-enroll). You agree to follow any other steps we require to help verify your identity as part of the enrollment or purchase process, including via email or SMS text message confirmations. Enrolling in WooPay will create a WordPress.com account for you if you don’t already have one. WooPay is designed to allow you to save certain information, such as shipping and payment information, for future purchases. You must keep your WooPay information accurate and up-to-date. You can update your WooPay information by accessing your [WooPay Dashboard](https://woo.app/account/) using the email and phone number you signed up with. You should only use WooPay on a device that you own or control and it is your responsibility to prevent others from accessing your device’s web browser to help prevent unauthorized purchases through WooPay.
+
+Even when your saved WooPay information is used for a transaction, the transaction remains only between you and the merchant. Requesting the deletion of your WooPay information will not cancel any transactions you have already made or terminate any subscriptions you have already enrolled in. To cancel a transaction or terminate a subscription, you must contact the merchant directly.
+
+### d. Jetpack
 
 Jetpack is a plugin that connects your website to WordPress.com’s infrastructure to give you powerful WordPress.com features. To take advantage of the performance-boosting features of Jetpack, certain information about the Content, settings, and setup of your website are synced with our servers, as described on our [What Data Does Jetpack Sync? support page](https://jetpack.com/support/what-data-does-jetpack-sync/). Any content you publish on a self-hosted website connected to Jetpack (“Jetpack Content”) remains under your ownership and control.
 
@@ -207,7 +215,7 @@ You grant us a worldwide, royalty-free, transferable, sub-licensable, non-exclus
 
 **Prohibited Uses.** Your website and Jetpack Content must comply with [Jetpack’s Service Guidelines](https://jetpack.com/service-guidelines/).
 
-### d. Jetpack CRM
+### e. Jetpack CRM
 
 Jetpack CRM is an open source, customizable customer relationship management tool built specifically for WordPress sites. Jetpack CRM core is free to install and you can extend the functionality by purchasing premium extensions.
 
@@ -215,7 +223,7 @@ Jetpack CRM is an open source, customizable customer relationship management too
 
 **Reseller Program.** If you use our white label option or participate in our [Reseller Program](https://jetpackcrm.com/reseller/), which allows you to sell Jetpack CRM as your own product, and optionally under your own branding, these [Terms and Conditions](https://app.jetpackcrm.com/app/rebrandr/terms/) apply. Our Reseller Program is priced based on the number of copies you intend to sell. We don’t provide direct support for end users of any licenses you sell as part of our Reseller Program. Unless you participate in our Reseller Program, you’re not allowed to sell our system or extensions.
 
-### e. VaultPress
+### f. VaultPress
 
 VaultPress is a subscription-based security and backup service for self-hosted WordPress websites. VaultPress will back up your WordPress content (e.g., your WordPress database, plugins, themes, and uploads, as well as some additional files, as described in this [introduction to VaultPress](https://help.vaultpress.com/get-to-know/)) (“VaultPress Content”).
 
@@ -225,9 +233,9 @@ VaultPress is a subscription-based security and backup service for self-hosted W
 
 You also grant us a worldwide, royalty-free, transferable, sub-licensable, and non-exclusive license to use, reproduce, modify, distribute, adapt, and store your VaultPress Content for the purpose of operating and improving our products and Services.
 
-### f. Ecommerce Services
+### g. Ecommerce Services
 
-There are certain features offered via [WooCommerce](https://woocommerce.com/), [WooCommerce Shipping & Tax](https://wordpress.org/plugins/woocommerce-services/), [WordPress.com](https://wordpress.com/), and [Jetpack](https://jetpack.com/) that enable you to sell items (goods, content, services, etc.) or receive payments on your website, like [WooCommerce Payments](https://woocommerce.com/payments/), [Store](https://wordpress.com/support/store/), the [Payments feature](https://wordpress.com/support/wordpress-editor/blocks/payments/), and the [Pay with PayPal block](https://wordpress.com/support/pay-with-paypal/) (collectively, “Ecommerce Services”).
+There are certain features offered via [WooCommerce](https://woocommerce.com/), [WooCommerce Shipping & Tax](https://wordpress.org/plugins/woocommerce-services/), [WordPress.com](https://wordpress.com/), and [Jetpack](https://jetpack.com/) that enable you to sell items (goods, content, services, etc.) or receive payments on your website, like [WooCommerce Payments](https://woocommerce.com/payments/), [Store](https://wordpress.com/support/store/), the [Payments feature](https://wordpress.com/support/wordpress-editor/blocks/payments/), [WooPay](https://woo.app/), and the [Pay with PayPal block](https://wordpress.com/support/pay-with-paypal/) (collectively, “Ecommerce Services”).
 
 If you use Ecommerce Services, the terms in this subsection apply, along with the terms for any underlying Service that you use.
 
@@ -244,11 +252,13 @@ If you use Ecommerce Services, the terms in this subsection apply, along with th
 *   If you have transactions with individuals (i.e., consumers), you specifically agree to provide consumer disclosures required by law, and to not engage in unfair, deceptive, or abusive acts or practices.
 *   You’re financially liable for disputes (including chargebacks), refunds, reversals, or fines that arise from your use of Ecommerce Services.
 *   You must ensure that any information you provide about your business, products, and services is accurate, complete, and current.
+*   You’re responsible for investigating any transaction you believe may be erroneous, suspicious, prohibited by law, or otherwise poses unacceptable compliance risks to us or you and, if appropriate, obtaining adequate information and assurances from your customer before fulfilling or completing the transaction.
+*   You’re solely responsible for ensuring that your transactions with customers comply with applicable export, import, and sanctions laws and regulations, including obtaining any required licenses or other authorizations or making required filings.
 *   You agree to promptly notify us via [email](mailto:legal@wordpress.com) if you receive any inquiry or action from a government or regulatory agency (such as the Federal Trade Commission or a state Attorney General) relating to your transactions.
 
 **Prohibited Uses.** You may not use Ecommerce Services for any unlawful purposes; in furtherance of illegal activities; or in a manner that is unfair, deceptive, exposes us or customers to unreasonable risks, or does not disclose important terms of a transaction in advance. Among other things, this means that:
 
-*   Ecommerce Services cannot be used in or for the benefit of a country, organization, entity, or person embargoed or blocked by any government, including those on [sanctions lists identified by the United States Office of Foreign Asset Control (OFAC)](https://www.treasury.gov/resource-center/sanctions).
+*   Ecommerce Services cannot be used in, from, by, or for the benefit of a country, organization, entity, or person embargoed or blocked by any government, including those on [sanctions lists identified by the United States Office of Foreign Asset Control (OFAC)](https://www.treasury.gov/resource-center/sanctions).
 *   If you’re using Ecommerce Services on WordPress.com, you must observe all WordPress.com [User Guidelines](https://en.support.wordpress.com/user-guidelines/) and [Store Guidelines](https://en.support.wordpress.com/store-guidelines/).
 *   If you’re using Ecommerce Services to sell CBD and other hemp-derived products via WooCommerce, you must follow the [WooCommerce Guidelines for CBD and Other Hemp-Derived Products](https://docs.woocommerce.com/document/woocommerce-cbd/).
 
@@ -281,6 +291,8 @@ If you receive a POS terminal, you agree to: (a) use it for your own lawful comm
 You’ll be responsible for all shipping and handling charges for the POS terminal specified during the ordering process. We may restrict availability based on your region or limit the quantity of POS terminals that you may order. We may reject any order at any time, in which case, we’ll refund what you paid. Risk of loss for the POS terminal passes to you when the shipping carrier receives the terminal from our drop shipper for delivery, and title will transfer to you upon delivery. Shipping and delivery dates are estimates only and cannot be guaranteed. We are not liable for any delays in shipments.
 
 Unless a refund is required by law, there are no refunds for POS terminals and all transactions are final.
+
+**More on WooPay Specifically.** When you use WooCommerce Payments, WooPay may be available as a checkout option on your checkout page unless you remove it from your checkout options through your administrative controls. WooPay may not be available in all languages or jurisdictions, and we make no representation that WooPay is available for use in all locations or for all products or services. The use of saved WooPay information for a transaction does not change your obligations relating to the transaction, and we make no representations or warranties that the saved WooPay information is accurate or that the WooPay user is authorized to use any payment information they saved with WooPay. You acknowledge and agree that we are not and do not become a party to the transaction between you and your customer as a result of the use of WooPay and that we will not be responsible for any aspect of the products or services that you sell. By enabling WooPay on your site, you acknowledge that we may collect and process information about you, your customers, and your orders pursuant to our [privacy policy](https://automattic.com/privacy/). You will comply with any additional terms and conditions required by any third-party services associated with your use of WooPay.
 
 **More on Shipping Services Specifically.** Our shipping Services allow you to check shipping rates or buy shipping labels from certain mailing services, like [UPS](https://www.ups.com/), [USPS](https://www.usps.com/), [DHL](https://www.dhl.com/), and [Canada Post](https://www.canadapost.ca/). We’re only an intermediary between you and these third parties; we aren’t involved in any way with your product or its shipment. We also don’t guarantee that the results you obtain from the use of these services (like rates, labels, or delivery timeframes) will be accurate or reliable.
 
@@ -364,7 +376,7 @@ You agree to indemnify and hold harmless Automattic, its contractors, and its li
 19\. US Economic Sanctions
 --------------------------
 
-You may not use the Services if such use is inconsistent with U.S. sanctions law or if you are on any list maintained by a U.S. government authority relating to designated, restricted or prohibited persons.
+You agree that our ability to provide our Services to you is subject to compliance with US sanctions that restrict or prohibit who or from where our Services can be accessed. By using the Services, you represent and warrant that you (i) are not located or residing in any country or territory subject to comprehensive US sanctions (currently Cuba, Crimea, Iran, North Korea, Donetsk People’s Republic, Luhansk People’s Republic, and Syria); (ii) are not listed on any United States list of prohibited or restricted parties, such as [OFAC’s Specially Designated Nationals and Persons List](https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists), or otherwise subject to US sanctions that would prohibit your access to or use of our Services; and (iii) shall not use or allow access by any of your customers or potential customers (if applicable) to the Services in any manner that may cause Automattic to violate US export controls and sanctions. We reserve the right to restrict or block your access, or access by any of your customers or potential customers (if applicable), to the Services and/or to terminate the Agreement at any time without notice if we determine, at our sole discretion, that such access may cause a violation or create unacceptable risk to us under export controls or sanctions.
 
 20\. Data Processing Agreement
 ------------------------------
@@ -383,6 +395,6 @@ The Agreement (together with any other terms we provide that apply to any specif
 
 Automattic may assign its rights under the Agreement without condition. You may only assign your rights under the Agreement with our prior written consent.
 
-[Print friendly version](https://en.support.files.wordpress.com/2022/01/tos-11-22-21.pdf)
+[Print friendly version](https://en.support.files.wordpress.com/2022/04/wordpress.com-terms-of-service-wordpresscom.pdf)
 
 [**Change log**](https://wordpress.com/tos-change-log)
