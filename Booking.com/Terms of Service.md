@@ -69,7 +69,7 @@ A2. About these terms
 
 A3. About Booking.com
 
-1\. When you book an accommodation, flight or attraction, [Booking.com B.V.](https://secure.booking.com/content/legal.en-gb.html?label=removedsid=removed) provides and is responsible for the Platform – but not the Travel Experience itself (see A4.4 below).
+1\. When you book an accommodation, flight or attraction, [Booking.com B.V.](https://secure.booking.com/content/legal.en-gb.html?label=removed;sid=removed) provides and is responsible for the Platform – but not the Travel Experience itself (see A4.4 below).
 
 2\. When you book a rental car, or private or public transport, Booking.com Transport Limited provides and is responsible for the Platform – but not the Travel Experience itself (see A4.4 below).
 
@@ -100,7 +100,7 @@ A5. Our values
 
 1\. You will:
 
-*   abide by [Our values](https://secure.booking.com/trust-and-safety/values.en-gb.html?label=removedsid=removed)
+*   abide by [Our values](https://secure.booking.com/trust-and-safety/values.en-gb.html?label=removed;sid=removed)
 *   comply with all applicable laws
 *   cooperate with any anti-fraud/anti-money laundering checks we need to carry out
 *   not use the Platform to cause a nuisance or make fake Bookings
@@ -153,7 +153,7 @@ A8. Policies
 
 A9. Privacy and cookies
 
-1\. If you book an accommodation, flight, or attraction, please see our [Privacy and Cookies Statement](https://secure.booking.com/content/privacy.en-gb.html?label=removedsid=removed) for more information on privacy, cookies, and how we might contact you and process personal data
+1\. If you book an accommodation, flight, or attraction, please see our [Privacy and Cookies Statement](https://secure.booking.com/content/privacy.en-gb.html?label=removed;sid=removed) for more information on privacy, cookies, and how we might contact you and process personal data
 
 2\. If you book ground transport, please see the [Rentalcars.com Privacy Statement](https://www.rentalcars.com/en/privacy), [Cars.booking.com Privacy Statement](https://cars.booking.com/PrivacyPolicy.do), or [Taxi.booking.com Privacy Statement](https://taxi.booking.com/information/privacy) as appropriate to find out how we process your personal data.
 
@@ -178,7 +178,7 @@ A12. Genius
 
 4\. We may change any feature of the Genius programme, including the membership levels and the way the programme is structured.
 
-5\. For more details, visit [https://www.booking.com/genius.html](https://secure.booking.com/genius.en-gb.html?label=removedsid=removed).
+5\. For more details, visit [https://www.booking.com/genius.html](https://secure.booking.com/genius.en-gb.html?label=removed;sid=removed).
 
 A13. Rewards, Credits & Wallet
 
@@ -280,7 +280,7 @@ A14. Intellectual property rights
 *   using any device or software to gather prices or other information
 *   doing anything that places undue stress on our Platform.
 
-4\. By uploading any picture to our Platform (with a review, for example), you’re confirming that it complies with [our criteria](https://secure.booking.com/reviews_guidelines.en-gb.html?label=removedsid=removed) and that:
+4\. By uploading any picture to our Platform (with a review, for example), you’re confirming that it complies with [our criteria](https://secure.booking.com/reviews_guidelines.en-gb.html?label=removed;sid=removed) and that:
 
 *   it’s truthful (you haven’t altered the picture, for example, or uploaded a picture of a different property)
 *   it doesn’t contain any viruses
@@ -321,7 +321,7 @@ A17. Measures against unacceptable behaviour
 1\. We have the right to stop you making any Bookings, to cancel any Bookings you’ve already made, and/or to stop you using our Platform, our Customer Service, and/or your Account. Of course, we’ll only do this if, in our opinion, there’s a good reason to - for example:
 
 *   fraud or abuse
-*   non-compliance with [Our values](https://secure.booking.com/trust-and-safety/values.en-gb.html?label=removedsid=removed), or with applicable laws or regulations
+*   non-compliance with [Our values](https://secure.booking.com/trust-and-safety/values.en-gb.html?label=removed;sid=removed), or with applicable laws or regulations
 *   inappropriate or unlawful behaviour (e.g. violence, threats or invasion of privacy) in relation to us, any of the companies we work with – or anyone else, for that matter.
 
 2\. If we cancel a Booking as a result, you won’t be entitled to a refund. We may tell you why we've cancelled your Booking, unless telling you would (a) contravene applicable laws and/or (b) prevent or obstruct the detection or prevention of fraud or other illegal activities. If you believe we have incorrectly cancelled your Booking, please contact our Customer Service team.
@@ -435,7 +435,7 @@ B7. What else do you need to know?
 
 We Price Match
 
-1\. We want you to get the best possible price every time. If, after you've booked your Accommodation with us, you find the same Accommodation (with the same conditions) for less on another website, we promise to refund the difference, subject to the [We Price Match](https://www.booking.com/general.en-gb.html?label=removedremoved;tmpl=doc/rate_guarantee) terms and conditions.
+1\. We want you to get the best possible price every time. If, after you've booked your Accommodation with us, you find the same Accommodation (with the same conditions) for less on another website, we promise to refund the difference, subject to the [We Price Match](https://www.booking.com/general.en-gb.html?label=removed;tmpl=doc/rate_guarantee) terms and conditions.
 
 Partner offer
 
@@ -472,7 +472,7 @@ Damage policy
 
 How We Work
 
-9\. For info on reviews, ranking, how we make money (and more), check out [How We Work](https://secure.booking.com/content/how_we_work.en-gb.html?label=removedsid=removed).
+9\. For info on reviews, ranking, how we make money (and more), check out [How We Work](https://secure.booking.com/content/how_we_work.en-gb.html?label=removed;sid=removed).
 
 Back to top
 
@@ -523,7 +523,7 @@ C7. What else do you need to know?
 
 How We Work
 
-1\. For info on reviews, ranking, how we make money (and more), check out [How We Work](https://secure.booking.com/content/how_we_work.en-gb.html?label=removedsid=removed).
+1\. For info on reviews, ranking, how we make money (and more), check out [How We Work](https://secure.booking.com/content/how_we_work.en-gb.html?label=removed;sid=removed).
 
 Back to top
 
@@ -683,7 +683,7 @@ Late Pick-up/early drop-off
 
 How We Work
 
-5\. For info on reviews, ranking, how we make money (and more), check out [How We Work](https://secure.booking.com/content/how_we_work.en-gb.html?label=removedsid=removed).
+5\. For info on reviews, ranking, how we make money (and more), check out [How We Work](https://secure.booking.com/content/how_we_work.en-gb.html?label=removed;sid=removed).
 
 Back to top
 
@@ -837,7 +837,7 @@ EU: Rights of disabled persons and persons with reduced mobility when travelling
 
 How We Work
 
-27\. For info on reviews, ranking, how we make money (and more), check out [How We Work](https://secure.booking.com/content/how_we_work.en-gb.html?label=removedsid=removed).
+27\. For info on reviews, ranking, how we make money (and more), check out [How We Work](https://secure.booking.com/content/how_we_work.en-gb.html?label=removed;sid=removed).
 
 Back to top
 
@@ -988,7 +988,7 @@ Repair or cleaning charges
 
 How We Work
 
-4\. For info on reviews, ranking, how we make money (and more), check out [How We Work](https://secure.booking.com/content/how_we_work.en-gb.html?label=removedsid=removed).
+4\. For info on reviews, ranking, how we make money (and more), check out [How We Work](https://secure.booking.com/content/how_we_work.en-gb.html?label=removed;sid=removed).
 
 Back to top
 
@@ -1005,7 +1005,7 @@ Booking.com dictionary
 
 ‘Booking’ means the booking of a Travel Experience on our Platform, whether you pay for it now or later.
 
-‘Booking.com’, ‘us’, ‘we’ or ‘our’ means Booking.com B.V. (for accommodation, flights or attractions) or Booking.com Transport Limited (for any ground transport service). [Corporate contact](https://secure.booking.com/content/contact-us.en-gb.html?label=removedsid=removed)
+‘Booking.com’, ‘us’, ‘we’ or ‘our’ means Booking.com B.V. (for accommodation, flights or attractions) or Booking.com Transport Limited (for any ground transport service). [Corporate contact](https://secure.booking.com/content/contact-us.en-gb.html?label=removed;sid=removed)
 
 ‘Booking Confirmation’ (in the ‘Car rentals’ section) means the confirmation email and voucher we send you, explaining the details of your Booking.
 
@@ -1167,7 +1167,7 @@ For reservations made before 14 February 2022
     
     Sometimes cheaper rates are available on our Platform for a specific stay, product or service, however, these rates made available by Trip Providers may carry special restrictions and conditions, for example non-cancelable and non-refundable. Please check the relevant product, service and reservation conditions and details thoroughly for any such conditions prior to making your reservation.
     
-    We want you to pay the lowest price possible for your product and service of choice. Should you find your property of choice booked through the Platform, with the same Trip conditions, at a lower rate on the Internet after you have made a reservation through us, we will match the difference between our rate and the lower rate under the terms and conditions of the [We Price Match](https://www.booking.com/general.en-gb.html?label=removedsid=removed;tmpl=doc/rate_guarantee). Our We Price Match promise does not apply to non-accommodations related products and services.
+    We want you to pay the lowest price possible for your product and service of choice. Should you find your property of choice booked through the Platform, with the same Trip conditions, at a lower rate on the Internet after you have made a reservation through us, we will match the difference between our rate and the lower rate under the terms and conditions of the [We Price Match](https://www.booking.com/general.en-gb.html?label=removed;tmpl=doc/rate_guarantee). Our We Price Match promise does not apply to non-accommodations related products and services.
     
     The currency converter is for information purposes only and should not be relied upon as accurate and real time; actual rates may vary.
     
@@ -1188,7 +1188,7 @@ For reservations made before 14 February 2022
     3\. Privacy and cookies
     -----------------------
     
-    Booking.com respects your privacy. Please have a look at our [privacy and cookies policy](https://www.booking.com/general.en-gb.html?label=removedsid=removed;tmpl=docs/privacy-policy) for further information.
+    Booking.com respects your privacy. Please have a look at our [privacy and cookies policy](https://www.booking.com/general.en-gb.html?label=removed;tmpl=docs/privacy-policy) for further information.
     
     4\. Free of charge for consumers, only Trip Providers pay!
     ----------------------------------------------------------
@@ -1268,7 +1268,7 @@ For reservations made before 14 February 2022
     
     By uploading photos/images onto our system (for instance in addition to a review) you certify, warrant and agree that you own the copyright to the photos/images and that you agree that Booking.com may use the uploaded photos/images on its (mobile) website and app, and in (online/offline) promotional materials and publications and as Booking.com at its discretion sees fit. You are granting Booking.com a non-exclusive, worldwide, irrevocable, unconditional, perpetual right and license to use, reproduce, display, have reproduced, distribute, sublicense, communicate and make available the photos/images as Booking.com at its discretion sees fit. By uploading these photos/images the person uploading the picture(s) accepts full legal and moral responsibility of any and all legal claims that are made by any third parties (including, but not limited to, accommodation owners) due to Booking.com publishing and using these photos/images. Booking.com does not own or endorse the photos/images that are uploaded. The truthfulness, validity and right to use of all photos/images is assumed by the person who uploaded the photo, and is not the responsibility of Booking.com. Booking.com disclaims all responsibility and liability for the pictures posted. The person who uploaded the photo warrants that the photos/images shall not contain any viruses, Trojan horses or infected files and shall not contain any pornographic, illegal, obscene, insulting, objectionable or inappropriate material and does not infringe any third party (intellectual property right, copyright or privacy) rights. Any photo/image that does not meet the aforesaid criteria will not be posted and/or can be removed/deleted by Booking.com at any time and without prior notice.
     
-    Booking.com is entitled, with immediate effect, to deny or limit access to our Platform, our (customer) service and/or your Booking.com account, and/or to cancel a confirmed reservation, and/or prevent a reservation from being made by you in the event of any alleged or reasonably suspected (i) form of fraud or abuse, (ii) non-compliance with applicable laws and/or regulations, (iii) non-compliance with Booking.com [values and guidelines](https://www.booking.com/trust-and-safety/values.en-gb.html?label=removedsid=removed.html), (iv) inappropriate or unlawful behaviour, which includes but is not limited to the following: violence, threat, harassment, discrimination, hate speech, endangerment, invasion of privacy, human trafficking, exploitation of children, and obscenity in relation to Booking.com (or its employees and agents), the Trip Provider (or its employees and agents), and/or third parties, or (v) other circumstances that – at Booking.com's sole discretion – reasonably justify Booking.com taking any of the aforementioned measures.
+    Booking.com is entitled, with immediate effect, to deny or limit access to our Platform, our (customer) service and/or your Booking.com account, and/or to cancel a confirmed reservation, and/or prevent a reservation from being made by you in the event of any alleged or reasonably suspected (i) form of fraud or abuse, (ii) non-compliance with applicable laws and/or regulations, (iii) non-compliance with Booking.com [values and guidelines](https://www.booking.com/trust-and-safety/values.en-gb.html?label=removed;sid=removed.html), (iv) inappropriate or unlawful behaviour, which includes but is not limited to the following: violence, threat, harassment, discrimination, hate speech, endangerment, invasion of privacy, human trafficking, exploitation of children, and obscenity in relation to Booking.com (or its employees and agents), the Trip Provider (or its employees and agents), and/or third parties, or (v) other circumstances that – at Booking.com's sole discretion – reasonably justify Booking.com taking any of the aforementioned measures.
     
     10\. Intellectual property rights
     ---------------------------------
