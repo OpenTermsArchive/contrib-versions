@@ -37,11 +37,13 @@ The Trade Desk also implements and adheres to the policies of the IAB EU Transpa
 
 **INFORMATION WE COLLECT**
 
-**PII We Collect From Our Websites**
+**PII We Collect From Our Websites or Other Sources**
 
 We may collect PII such as your name, email address and phone number when you interact with us in the manners described below. PII is distinguished from “pseudonymous” data we collect about your browser or device (as described below) in that PII links to, or is, data which can directly identify you as an individual, client or prospective client.
 
 PII we collect may be voluntarily provided, for example when you request more information through a form on the Websites or apply for employment. The PII that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your PII.
+
+We may collect PII through third party services for the purpose of job recruitment, such as vendor platforms that provide candidate search and data engine for sourcing and recruiting efforts.
 
 **Pseudonymous Data**
 
