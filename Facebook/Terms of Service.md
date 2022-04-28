@@ -229,3 +229,27 @@ We provide these services to you and others to help advance our mission. In exch
 
   
 Date of last revision: 4 January 2022
+
+English (UK)
+
+Polski
+
+Español
+
+Français (France)
+
+Italiano
+
+Lietuvių
+
+Română
+
+中文(简体)
+
+Português (Brasil)
+
+Deutsch
+
+العربية
+
+[Sign Up](https://www.facebook.com/reg/)[Log In](https://www.facebook.com/login/)[Messenger](https://messenger.com/)[Facebook Lite](https://www.facebook.com/lite/)[Watch](https://www.facebook.com/watch/)[Places](https://www.facebook.com/places/)[Games](https://www.facebook.com/games/)[Marketplace](https://www.facebook.com/marketplace/)[Facebook Pay](https://pay.facebook.com/)[Oculus](https://www.oculus.com/)[Portal](https://portal.facebook.com/)[Instagram](https://www.instagram.com/)[Bulletin](https://www.bulletin.com/)[Local](https://www.facebook.com/local/lists/245019872666104/)[Fundraisers](https://www.facebook.com/fundraisers/)[Services](https://www.facebook.com/biz/directory/)[Voting Information Centre](https://www.facebook.com/votinginformationcenter/?entry_point=c2l0ZQ%3D%3D)[Groups](https://www.facebook.com/groups/explore/)
