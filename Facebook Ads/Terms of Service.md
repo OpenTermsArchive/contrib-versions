@@ -84,6 +84,30 @@ Effective date: 28 June 2021.
   
   
 
+English (UK)
+
+Polski
+
+Español
+
+Français (France)
+
+Italiano
+
+Lietuvių
+
+Română
+
+中文(简体)
+
+Português (Brasil)
+
+Deutsch
+
+العربية
+
+[Sign Up](https://www.facebook.com/reg/)[Log In](https://www.facebook.com/login/)[Messenger](https://l.facebook.com/l.php?u=https%3A%2F%2Fmessenger.com%2F&h=AT2f_5E5tZxGjgqqFy1sfD8HYilTowtnFRVTiEb843HwoiV7wdZUeseTloIyfMVHac5TnvAHRP1NK71IIcq8B6DIk94GKLb7IrHDEiouG-3_R_GxAzIZtMmo5DSxYsI4TTbpFXBIHCyxSRonByBrypUSMIIqKYwImAx_rg)[Facebook Lite](https://www.facebook.com/lite/)[Watch](https://www.facebook.com/watch/)[Places](https://www.facebook.com/places/)[Games](https://www.facebook.com/games/)[Marketplace](https://www.facebook.com/marketplace/)[Facebook Pay](https://pay.facebook.com/)[Oculus](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.oculus.com%2F&h=AT2f_5E5tZxGjgqqFy1sfD8HYilTowtnFRVTiEb843HwoiV7wdZUeseTloIyfMVHac5TnvAHRP1NK71IIcq8B6DIk94GKLb7IrHDEiouG-3_R_GxAzIZtMmo5DSxYsI4TTbpFXBIHCyxSRonByBrypUSMIIqKYwImAx_rg)[Portal](https://portal.facebook.com/)[Instagram](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2F&h=AT2f_5E5tZxGjgqqFy1sfD8HYilTowtnFRVTiEb843HwoiV7wdZUeseTloIyfMVHac5TnvAHRP1NK71IIcq8B6DIk94GKLb7IrHDEiouG-3_R_GxAzIZtMmo5DSxYsI4TTbpFXBIHCyxSRonByBrypUSMIIqKYwImAx_rg)[Bulletin](https://www.bulletin.com/)[Local](https://www.facebook.com/local/lists/245019872666104/)[Fundraisers](https://www.facebook.com/fundraisers/)[Services](https://www.facebook.com/biz/directory/)[Voting Information Centre](https://www.facebook.com/votinginformationcenter/?entry_point=c2l0ZQ%3D%3D)[Groups](https://www.facebook.com/groups/explore/)
+
 *   [Privacy](https://www.facebook.com/privacy/explanation/) ·
 *   [Terms](https://www.facebook.com/policies?ref=pf) ·
 *   [Advertising](https://www.facebook.com/business/) ·
