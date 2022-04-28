@@ -12,6 +12,7 @@ Privacy Policy
 *   [Current Subprocessors List](https://miro.com/legal/subprocessors-list)
 *   [Code of Conduct](https://miro.com/legal/code-of-conduct)
 *   [Prior Master Cloud Agreement "MCA" Versions](https://miro.com/legal/prior-master-cloud-agreement-mca-versions)
+*   [Recruitment Privacy Notice](https://miro.com/legal/recruitment-privacy-notice)
 
 Privacy Policy
 --------------
