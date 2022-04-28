@@ -45,3 +45,27 @@ Example:
 *   A broadcast that is limited to a photo and has no other auditory or visual elements
 
 *   A broadcast that only contains a poll
+
+English (UK)
+
+Polski
+
+Español
+
+Français (France)
+
+Italiano
+
+Lietuvių
+
+Română
+
+中文(简体)
+
+Português (Brasil)
+
+Deutsch
+
+العربية
+
+[Sign Up](https://www.facebook.com/reg/)[Log In](https://www.facebook.com/login/)[Messenger](https://l.facebook.com/l.php?u=https%3A%2F%2Fmessenger.com%2F&h=AT1QwTYcODa8lutUFRNpV_81VUsqKVQEasDaahLrGZFXRgcE9A_GjOLgikx2BLXtCoLcDV5Igze1yzXcHYwuhfulXwcwBvRJ8MVenSIKosCFW8OS2OfiWCjM9eBSjMDmAe7Pq_A1hL9TIH5_eTzMdku6nN11yHbQ4O_Kfw)[Facebook Lite](https://www.facebook.com/lite/)[Watch](https://en-gb.facebook.com/watch/)[Places](https://www.facebook.com/places/)[Games](https://www.facebook.com/games/)[Marketplace](https://www.facebook.com/marketplace/)[Facebook Pay](https://pay.facebook.com/)[Oculus](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.oculus.com%2F&h=AT1QwTYcODa8lutUFRNpV_81VUsqKVQEasDaahLrGZFXRgcE9A_GjOLgikx2BLXtCoLcDV5Igze1yzXcHYwuhfulXwcwBvRJ8MVenSIKosCFW8OS2OfiWCjM9eBSjMDmAe7Pq_A1hL9TIH5_eTzMdku6nN11yHbQ4O_Kfw)[Portal](https://portal.facebook.com/)[Instagram](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2F&h=AT1QwTYcODa8lutUFRNpV_81VUsqKVQEasDaahLrGZFXRgcE9A_GjOLgikx2BLXtCoLcDV5Igze1yzXcHYwuhfulXwcwBvRJ8MVenSIKosCFW8OS2OfiWCjM9eBSjMDmAe7Pq_A1hL9TIH5_eTzMdku6nN11yHbQ4O_Kfw)[Bulletin](https://www.bulletin.com/)[Local](https://www.facebook.com/local/lists/245019872666104/)[Fundraisers](https://www.facebook.com/fundraisers/)[Services](https://www.facebook.com/biz/directory/)[Voting Information Centre](https://www.facebook.com/votinginformationcenter/?entry_point=c2l0ZQ%3D%3D)[Groups](https://www.facebook.com/groups/explore/)
