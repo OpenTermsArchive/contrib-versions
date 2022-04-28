@@ -26,3 +26,27 @@ This European Data Transfer Addendum (“**Data Transfer Addendum**”) is incor
     *   “**Processor to Processor SCCs**” mean, as applicable to the transfer concerned: (a) module 3 (processor to processor) of the standard contractual clauses for the transfer of personal data to third countries pursuant to the GDPR and approved by the European Commission decision 2021/914, dated 4 June 2021; or (b) such other (processor to processor) standard contractual clauses for the transfer of personal data to third countries that are recognised under the applicable data protection laws in the EU, EEA, UK or Switzerland (in either case with any optional clauses as chosen by Facebook).
     
 *   For the purposes of this Data Transfer Addendum, any capitalised terms have the meaning given to them in the Applicable Product Terms, except where stated otherwise. References to the Applicable Product Terms, including the Data Processing Terms, are to them as updated from time to time in accordance with the Applicable Product Terms.
+
+English (UK)
+
+Polski
+
+Español
+
+Français (France)
+
+Italiano
+
+Lietuvių
+
+Română
+
+中文(简体)
+
+Português (Brasil)
+
+Deutsch
+
+العربية
+
+[Sign Up](https://www.facebook.com/reg/)[Log In](https://www.facebook.com/login/)[Messenger](https://l.facebook.com/l.php?u=https%3A%2F%2Fmessenger.com%2F&h=AT0Hkr_0udufFjZXkL7m-54E8SVdn54N0Zvp1eMjAcOn5O3eYu-kRFYWV9sTXKtErHgvFUJ45wECxxjjb6S92dVq6XMTMpP9mSJzfmohJes3-Tc2_gpbCTSs-A2TVDzW7p3g02SDiW-Kr_ygSbFLVZgLF1QYnY2XqmGfMw)[Facebook Lite](https://www.facebook.com/lite/)[Watch](https://www.facebook.com/watch/)[Places](https://www.facebook.com/places/)[Games](https://www.facebook.com/games/)[Marketplace](https://www.facebook.com/marketplace/)[Facebook Pay](https://pay.facebook.com/)[Oculus](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.oculus.com%2F&h=AT0Hkr_0udufFjZXkL7m-54E8SVdn54N0Zvp1eMjAcOn5O3eYu-kRFYWV9sTXKtErHgvFUJ45wECxxjjb6S92dVq6XMTMpP9mSJzfmohJes3-Tc2_gpbCTSs-A2TVDzW7p3g02SDiW-Kr_ygSbFLVZgLF1QYnY2XqmGfMw)[Portal](https://portal.facebook.com/)[Instagram](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2F&h=AT0Hkr_0udufFjZXkL7m-54E8SVdn54N0Zvp1eMjAcOn5O3eYu-kRFYWV9sTXKtErHgvFUJ45wECxxjjb6S92dVq6XMTMpP9mSJzfmohJes3-Tc2_gpbCTSs-A2TVDzW7p3g02SDiW-Kr_ygSbFLVZgLF1QYnY2XqmGfMw)[Bulletin](https://www.bulletin.com/)[Local](https://www.facebook.com/local/lists/245019872666104/)[Fundraisers](https://www.facebook.com/fundraisers/)[Services](https://www.facebook.com/biz/directory/)[Voting Information Centre](https://www.facebook.com/votinginformationcenter/?entry_point=c2l0ZQ%3D%3D)[Groups](https://www.facebook.com/groups/explore/)
