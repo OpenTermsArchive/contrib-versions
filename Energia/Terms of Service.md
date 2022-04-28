@@ -5,7 +5,7 @@ Energy Supply Contract
 ----------------------
 
 General Terms and Conditions for the Supply of Energy  
-These terms and conditions, as amended from time to time (the “General Terms and Conditions”) together with the Customer Registration and Product Terms Sheet constitute the Energy Supply Contract between Viridian Energy Ltd (“Energia”) and a person requesting a supply of Energy (the “Customer” or “you”).
+These terms and conditions, as amended from time to time (the “General Terms and Conditions”) together with the Customer Registration and Product Terms Sheet constitute the Energy Supply Contract between Energia Customer Solutions Limited and a person requesting a supply of Energy (the “Customer” or “you”).
 
 1\. Definitions
 
