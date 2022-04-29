@@ -579,6 +579,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   The Municipality of Amsterdam [https://maps.amsterdam.nl/open\_geodata/?k=265](https://maps.amsterdam.nl/open_geodata/?k=265) "The original dataset is available to everyone free of charge from the Municipality, under these Terms of Use, which also apply to the transmitted dataset." ([https://maps.amsterdam.nl/open\_geodata/terms.php?LANG=nl](https://maps.amsterdam.nl/open_geodata/terms.php?LANG=nl))
             
+        *   NDW - Nationaal Dataportaal Wegverkeer ([https://www.ndw.nu/copyright](https://www.ndw.nu/copyright))
+            
     26.  **New Zealand**
         *   © Auckland International Airport Ltd
             
@@ -757,6 +759,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         *   SITNA – Gobierno de Navarra ([https://creativecommons.org/licenses/by/4.0/deed.es\_ES](https://creativecommons.org/licenses/by/4.0/deed.es_ES))
             
         *   Gerencia de Urbanismo y Medio Ambiente. Ayuntamiento de Sevilla ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
+            
+        *   Instituto de Estadística y Cartografía de Andalucía ([https://www.juntadeandalucia.es/institutodeestadisticaycartografia/ieagen/avisoLegal/index.htm#cc](https://www.juntadeandalucia.es/institutodeestadisticaycartografia/ieagen/avisoLegal/index.htm#cc))
             
     37.  **Sweden**
         *   © 2009 Cartesia GIS AB
@@ -1189,12 +1193,16 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         
         Abu Dhabi Government ([https://addata.gov.ae/addata\_open\_license](https://addata.gov.ae/addata_open_license))
         
-    46.  **Uruguay**
+    46.  **India**
+        
+        Ministry of Rural Development, 2022. PMGSY Rural Connectivity Datasets (PRCD22), [https://geosadak-pmgsy.nic.in/opendata/](https://geosadak-pmgsy.nic.in/opendata/). Published under India's Government Open Data License: [https://data.gov.in/government-open-data-license-india](https://data.gov.in/government-open-data-license-india).
+        
+    47.  **Uruguay**
         *   © 2000 Aviation Systems
             
         *   Servicio de Geomática, República Oriental del Uruguay. Dataset used: [https://catalogodatos.gub.uy/dataset/intendencia-montevideo-parcelas-catastrales](https://catalogodatos.gub.uy/dataset/intendencia-montevideo-parcelas-catastrales) ([https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/sites/agencia-gobierno-electronico-sociedad-informacion-conocimiento/files/documentos/publicaciones/licencia\_de\_datos\_abiertos\_0.pdf](https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/sites/agencia-gobierno-electronico-sociedad-informacion-conocimiento/files/documentos/publicaciones/licencia_de_datos_abiertos_0.pdf))
             
-    47.  **Worldwide**
+    48.  **Worldwide**
         *   Unicode Common Locale Data Repository © Unicode, Inc. ([https://www.unicode.org/copyright.html](https://www.unicode.org/copyright.html)). All rights reserved.
             
         *   © 2010 Europa Technologies
@@ -1235,48 +1243,48 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   Landsat / Copernicus
             
-    48.  **Chile**
+    49.  **Chile**
         *   Biblioteca del Congreso Nacional de Chile ([https://creativecommons.org/licenses/by/3.0/cl/](https://creativecommons.org/licenses/by/3.0/cl/))
             
         *   IDE del Gobierno Regional de Coquimbo
             
-    49.  **Zambia**
+    50.  **Zambia**
         
         OCHA Regional Office for Southern and Eastern Africa (ROSEA) ([https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses))
         
-    50.  **Mali**
+    51.  **Mali**
         
         OCHA Mali ([https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses))
         
-    51.  **Madagascar**
+    52.  **Madagascar**
         
         OCHA FIS ([https://data.humdata.org/about/license](https://data.humdata.org/about/license))
         
-    52.  **Papua New Guinea**
+    53.  **Papua New Guinea**
         
         WFP - World Food Programme ([https://creativecommons.org/licenses/by/4.0/legalcode](https://creativecommons.org/licenses/by/4.0/legalcode))
         
-    53.  **Yemen**
+    54.  **Yemen**
         
         OCHA Yemen ([https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode))
         
-    54.  **Zimbabwe**
+    55.  **Zimbabwe**
         
         OCHA Regional Office for Southern and Eastern Africa (ROSEA) - Creative Commons Attribution for Intergovernmental Organisations (CC BY-IGO) - ([https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses))
         
-    55.  **Senegal**
+    56.  **Senegal**
         
         OCHA West and Central Africa (ROWCA) - Creative Commons Attribution 3.0 for Intergovernmental Organisations (CC By-IGO) - ([https://data.humdata.org/about/license](https://data.humdata.org/about/license))
         
-    56.  **Uganda**
+    57.  **Uganda**
         
         OCHA Regional Office for Southern and Eastern Africa (ROSEA) - Creative Commons Attribution 3.0 for Intergovernmental Organisations (CC By-IGO) - ([https://data.humdata.org/about/license](https://data.humdata.org/about/license))
         
-    57.  **Ghana**
+    58.  **Ghana**
         
         OCHA West and Central Africa (ROWCA) - Creative Commons Attribution 3.0 for Intergovernmental Organisations (CC By-IGO) - ([https://data.humdata.org/about/license](https://data.humdata.org/about/license))
         
-    58.  **Morocco**
+    59.  **Morocco**
         
         OCHA Middle East and North Africa (ROMENA) - Attribution required - Creative Commons Attribution for Intergovernmental Organisations (CC BY-IGO) - ([https://data.humdata.org/about/license](https://data.humdata.org/about/license))
         
