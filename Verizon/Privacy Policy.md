@@ -133,11 +133,11 @@ Open all Close all
     
     Determine your eligibility for new products and services
     
-    For example, we may use information to determine whether you are eligible for service upgrades or to prescreen you for credit (unless you have opted out using the [](https://www.optoutprescreen.com/) [industry-wide](https://www.optoutprescreen.com/) [opt out](https://www.optoutprescreen.com/) or by calling 1-888-567-8688).  
+    For example, we may use information to determine whether you are eligible for service upgrades or to prescreen you for credit (unless you have opted out using the [industry-wide](https://www.optoutprescreen.com/) [opt out](https://www.optoutprescreen.com/) or by calling 1-888-567-8688).  
     
     personalize your service
     
-    For example, we may use information we collect to tailor the content you see and marketing you receive, manage the frequency with which you see an advertisement, tailor advertisements to better match your interests, provide service-related notices and understand the effectiveness of our advertising.  
+    For example, we may use information we collect to tailor the content you see and marketing you receive, manage the frequency with which you see an advertisement, tailor advertisements to better match your interests, provide service-related notices and understand the effectiveness of our advertising.  
     
     Deliver personalized content and offers
     
@@ -149,9 +149,9 @@ Open all Close all
     
     Our Custom Experience program uses information about [websites you visit and apps you use](#) on your mobile device to help us better personalize our communications with you, give you more relevant product and service recommendations, and develop plans, services, and offers that are more appealing to you. You are included in the program [unless you opt out.](https://www.verizon.com/about/privacy/full-privacy-policy#acc-item-34)
     
-    Websites you visit and apps uou Use
+    Websites you visit and apps you use
     
-    We use only the first part of the web addresses (URLs) you visit (the part that includes the top level domain and subdomain of the URL); we do not useinformation past the first “/” or “?” in the URL
+    We use only the first part of the web addresses (URLs) you visit (the part that includes the top level domain and subdomain of the URL); we do not use information past the first “/” or “?” in the URL
     
     Our Custom Experience Plus program (formerly called Verizon Selects) uses a broader set of information for the same purposes including information about websites you visit and apps you use, your Verizon Fios services, location information, and Customer Proprietary Network Information, including phone numbers you call or those that call you. You must [opt in to be part of this program](https://www.verizon.com/about/privacy/full-privacy-policy#acc-item-34). 
     
@@ -674,7 +674,7 @@ Open all Close all
     
     The law provides you with the right to know what information we collect about you and how we use it, to access and delete that information within certain limitations, to tell us not to sell personal information about you and to not be discriminated against for invoking these rights.
     
-    **Your right to know.** We describe the personal information we collect and how we use it in this [privacy policy](https://www.verizon.com/about/privacy/full-privacy-policy?scrollto#acc-item-30)[.](https://www.verizon.com/about/privacy/full-privacy-policy?scrollto=index-1#acc-item-30) The information we collect varies depending on your interactions with us and the products and services you use. The California law requires us to let you know the [categories of personal information](#) we collect and use.
+    **Your right to know.** We describe the personal information we collect and how we use it in this [privacy policy](https://www.verizon.com/about/privacy/full-privacy-policy?scrollto#acc-item-30). The information we collect varies depending on your interactions with us and the products and services you use. The California law requires us to let you know the [categories of personal information](#) we collect and use.
     
     Categories of personal information
     
