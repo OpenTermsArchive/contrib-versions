@@ -1,3 +1,7 @@
+#### [Platform Terms and Conditions](https://www.acuityads.com/terms-and-conditions/schedule-a-platform/)
+
+* * *
+
 ### Revised: June 15th, 2021
 
 These Terms and Conditions (the “Terms and Conditions”) are entered into between AcuityAds Inc. (“Acuity”), an Ontario corporation with offices at 70 University Ave, Suite 1200 Toronto, ON M5J 2M4 Canada and the entity specified in the applicable Insertion Order (the “IO”, and together with the Terms and Conditions, the “Agreement”) with offices at the address specified in the IO. Acuity reserves the right to update and change these Terms and Conditions from time to time without notice to Advertiser.
@@ -368,3 +372,5 @@ AcuityAds regularly reviews system activity rated by security threat level by ou
 _Measures for pseudonymization of data:_
 
 AcuityAds works with upstream data controllers to ensure no PII enters our system. Any e-mail addresses are hashed prior to ingestion into the platform which would render them as pseudonymous personal data by the time they reach AcuityAds’ systems. Where AcuityAds acts to track activity with cookies, the platform will be disabling inbound traffic to our pixel collection from any IP address that the company determines is coming from the EU.
+
+#### [Platform Terms and Conditions](https://www.acuityads.com/terms-and-conditions/schedule-a-platform/)
