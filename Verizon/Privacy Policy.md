@@ -721,7 +721,7 @@ Open all Close all
     
     For example, you may have to prove access to your mobile phone, to your email address on file with us, or to a government-issued ID
     
-    If you have questions about your rights under CCPA, you can email us at vz.ccpa@verizon.com.
+    If you have questions about your rights under CCPA, please [submit a privacy inquiry form](https://www.verizon.com/about/privacy/privacy-inquiries).
     
     **Reporting.** You can access our [2020 Record-Keeping report](https://www.verizon.com/about/privacy/ccpa-reporting) to find out more about the CCPA requests we received during the year. 
     
