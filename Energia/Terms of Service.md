@@ -488,7 +488,7 @@ Contract length/Type
   
 The contract duration is 12 months, after which the customer will revert to Energia’s standard Nightsaver plan.  
   
-The price of the electricity and gas unit rates are fixed for 12 months. Standard Electricity Ex. Vat Rates (Day 36.48 cent /kwh , Night 10.50 cent /kwh) Standard Electricity Inc. Vat Rates (Day 41.40 cent /kwh , Night 11.92 cent /kwh). Standard Gas Ex. Vat Rates (9.24 cent /kwh) Standard Gas Inc. Vat Rates (10.49 cent /kwh)  
+The Public Service Obligation (PSO) Levy is set annually in October. This applies to all domestic electricity customers irrespective of supplier.  The Carbon Tax is set annually by the Revenue. This tax applies to all domestic natural gas customers, irrespective of supplier.  
   
 The standing charges are subject to change in accordance with our General Terms and Conditions.  
   
@@ -501,15 +501,16 @@ Exit fee: €50 per fuel 
   
 Taxes and Pass through charges  
   
-VAT applies at 13.5%.  The Public Service Obligation (PSO) Levy has been set at €.7.40 (inc VAT) per month from 1st of October 2020. This applies to all domestic electricity customers irrespective of supplier.  The Carbon Tax has been set at 0.69 c kwh (inc. VAT) per c/kWh. This tax applies to all domestic natural gas customers, irrespective of supplier.
+VAT applies at 9%.  The Public Service Obligation (PSO) Levy is set annually in October. This applies to all domestic electricity customers irrespective of supplier.  The Carbon Tax is set annually by the Revenue. This tax applies to all domestic natural gas customers, irrespective of supplier.
 
 25\. Product Terms & Conditions
 
 Total discount is based on your chosen price plan options and applies to new customers only.  You must pay your bill by Direct Debit to avail of the Direct Debit Discount and register for Online Billing to receive the Online Billing Discount. If you cancel your Direct Debit payment or choose to switch to paper bill, you will lose these discounts.  From time to time we may issue promotional codes.  Only one promotional code will be accepted per customer registration. Other promotional codes may be available at any given time.
 
-Discounts are against Energia Standard Unit Rates.  Standing Charges also apply.  VAT applies at 13.5%.  The Public Service Obligation (PSO) Levy has been set at €4.88 (inc VAT) per month from 1st of October 2021. This applies to all domestic electricity customers irrespective of supplier.  The Carbon Tax has been set at 0.61 c/kWh (ex VAT) or 0.69 c/kWh (inc VAT). This tax applies to all domestic natural gas customers, irrespective of supplier.
+The Public Service Obligation (PSO) Levy is set annually in October. This applies to all domestic electricity customers irrespective of supplier.  The Carbon Tax is set annually by the Revenue. This tax applies to all domestic natural gas customers, irrespective of supplier
 
-All prices are subject to change as per our General Terms and Conditions above.  
+All prices are subject to change as per our General Terms and Conditions above.
+
   
 **Payments**  
    
@@ -560,15 +561,15 @@ To avail of the cashback offer you must be successfully signed up to Energia. 
 
  
 
-*   The quoted saving is based on the typical annual spend of a family in a three bedroomed house (based on urban domestic standard Electricity consumption of 4,200 kWh) and Energia's "NETATMOELEC" offer on Electricity consisting of 25% off electricity. Prices correct as at 1st of Jan 2019.  Figures have been rounded to the nearest Euro value.  
-      
-    Total discount is based on your chosen price plan options and use of the promotional code “NETATMOELEC”. You must pay your bill by Direct Debit to avail of the Direct Debit Discount and register for Online Billing to receive the Online Billing Discount. If you cancel your Direct Debit payment or choose to switch to paper bill, you will lose these discounts.  
-      
-    Discounts are against Energia Standard Unit Rates. Standing Charges also apply. VAT applies at 13.5%. The Public Service Obligation (PSO) Levy has been set at €3.22 (inc VAT) per month from 1st October 2019.This applies to all domestic electricity customers irrespective of supplier. The Carbon Tax has been set at 0.0041995 (inc.VAT) per kWh. This tax applies to all domestic natural gas customers, irrespective of supplier.  
-      
-    Your SmartElectricity tariff discounts will apply for a period of one year from the date Energia is registered as your supplier. After one year you will revert to Energia standard unit rates. Once you have signed up to an Energia SmartElectricity Tariff, there is a 14 day Cooling Off period, during which you may choose to cancel your agreement to switch. There is no penalty for cancelling during the Cooling Off period. If you cancel your service any time after the Cooling Off period and before the end of your contract, a termination fee of €50 will apply.  
-      
-    All prices are subject to change as per Energia standard terms and conditions. For new customers only that sign up online or over the phone
+*   The quoted saving is based on the typical annual spend of a family in a three bedroomed house (based on urban domestic standard Electricity consumption of 4,200 kWh) and Energia's "NETATMOELEC" offer on Electricity consisting of 25% off electricity. Prices correct as at 1st of Jan 2019.  Figures have been rounded to the nearest Euro value.
+
+Total discount is based on your chosen price plan options and use of the promotional code “NETATMOELEC”. You must pay your bill by Direct Debit to avail of the Direct Debit Discount and register for Online Billing to receive the Online Billing Discount. If you cancel your Direct Debit payment or choose to switch to paper bill, you will lose these discounts.
+
+The Public Service Obligation (PSO) Levy is set annually in October. This applies to all domestic electricity customers irrespective of supplier.  The Carbon Tax is set annually by the Revenue. This tax applies to all domestic natural gas customers, irrespective of supplier  
+  
+Your SmartElectricity tariff discounts will apply for a period of one year from the date Energia is registered as your supplier. After one year you will revert to Energia standard unit rates. Once you have signed up to an Energia SmartElectricity Tariff, there is a 14 day Cooling Off period, during which you may choose to cancel your agreement to switch. There is no penalty for cancelling during the Cooling Off period. If you cancel your service any time after the Cooling Off period and before the end of your contract, a termination fee of €50 will apply.  
+  
+All prices are subject to change as per Energia standard terms and conditions. For new customers only that sign up online or over the phone.
 
  
 
@@ -606,20 +607,19 @@ Prices correct as of 29th May 2020. Figures have been rounded to the nearest cen
 
 Total discount is based on your chosen price plan options and use of the promotional code “DUAL40” for dual fuel or "ELEC41" for electricity. You must pay your bill by Direct Debit to avail of the Direct Debit Discount and register for Online Billing to receive the Online Billing Discount. If you cancel your Direct Debit payment or choose to switch to paper bill, you will lose these discounts.
 
-Discounts are against Energia Standard Unit Rates. Standing Charges also apply. VAT applies at 13.5%. The Public Service Obligation (PSO) Levy has been set at €7.40 (inc VAT) per month from 1st October 2020.  This applies to all domestic electricity customers irrespective of supplier. The Carbon Tax has been set at 0.54 c/kWh per kWh. This tax applies to all domestic natural gas customers, irrespective of supplier.
-
-Your Dual fuel and Electricity tariff discounts will apply for a period of one year from the date Energia is registered as your supplier. After one year you will revert to Energia standard unit rates. Once you have signed up to an Energia Dual fuel or Electricity Tariff, there is a 14 day Cooling Off period, during which you may choose to cancel your agreement to switch. There is no penalty for cancelling during the Cooling Off period. If you cancel your service any time after the Cooling Off period and before the end of your contract, a termination fee of €50 will apply.
-
+The Public Service Obligation (PSO) Levy is set annually in October. This applies to all domestic electricity customers irrespective of supplier.  The Carbon Tax is set annually by the Revenue. This tax applies to all domestic natural gas customers, irrespective of supplier.  
+  
+Your Dual fuel and Electricity tariff discounts will apply for a period of one year from the date Energia is registered as your supplier. After one year you will revert to Energia standard unit rates. Once you have signed up to an Energia Dual fuel or Electricity Tariff, there is a 14 day Cooling Off period, during which you may choose to cancel your agreement to switch. There is no penalty for cancelling during the Cooling Off period. If you cancel your service any time after the Cooling Off period and before the end of your contract, a termination fee of €50 will apply.  
+  
 All prices are subject to change as per Energia standard terms and conditions. For new customers only that sign up online or over the phone.
 
 30\. Contract Renewal Terms & Conditions
 
 Total discount is based on opting in to our Renewal Price Plan.  You must pay your bill by Direct Debit to avail of the Direct Debit Discount and use Online Billing to receive the Online Billing Discount. If you cancel your Direct Debit payment or choose to switch to paper bill, you will lose these discounts.    
    
-Discounts are against Energia Standard Unit Rates.  Standing Charges also apply.  VAT applies at 13.5%.  The Public Service Obligation (PSO) Levy has been set at €4.88 (inc VAT) per month from 1st of October 2021.  
-This applies to all domestic electricity customers irrespective of supplier.  The Carbon Tax has been set at 0.69 (inc. VAT) per c/kWh.  This tax applies to all domestic natural gas customers, irrespective of supplier.   
+The Public Service Obligation (PSO) Levy is set annually in October. This applies to all domestic electricity customers irrespective of supplier.  The Carbon Tax is set annually by the Revenue. This tax applies to all domestic natural gas customers, irrespective of supplier  
    
-Your renewal discount will be applied for 12 months and will begin on either your next bill or the one following that, depending on your billing cycle. After one year you will revert to Energia standard unit rates.  Once you have signed up to an Energia Renewal Tariff, there is a 14 day Cooling Off period, during which you may choose to cancel your agreement to renew. There is no penalty for cancelling during the Cooling Off period. If you cancel your service any time after the Cooling Off period and before the end of your contract, a termination fee of €50 per fuel will apply.   
+Your renewal discount will be applied for 12 months and will begin on either your next bill or the one following that, depending on your billing cycle. After one year you will revert to Energia standard unit rates.  Once you have signed up to an Energia Renewal Tariff, there is a 14 day Cooling Off period, during which you may choose to cancel your agreement to renew. There is no penalty for cancelling during the Cooling Off period. If you cancel your service any time after the Cooling Off period and before the end of your contract, a termination fee of €50 per fuel will apply.   
    
 All prices are subject to change as per our General Terms and Conditions above.
 
@@ -906,13 +906,13 @@ Data Protection Commission by writing to the Data Protection Commission, 21 Fitz
 
 36\. Revolut Customer Exclusive Offer
 
-**Dual Fuel Terms:**  
+Dual Fuel Terms:  
    
-EAB €1,799, based on average annual usage. 12 month contract, discounted unit rates, standing charge, PSO levy and Carbon Tax, T&Cs and early termination fee apply. Valid from November 2020 & subject to change. Smart Home Voucher must be used at [https://smarthomestore.energia.ie/](https://smarthomestore.energia.ie/) by 31st December 2021. No cash equivalent will be provided. €100 cash back to be applied to 3rd customer bill.  
+EAB €2,745, based on average annual usage. 12 month contract, discounted unit rates, standing charge, PSO levy and Carbon Tax, T&Cs and early termination fee apply. Valid from November 2020 & subject to change. Smart Home Voucher must be used at [https://smarthomestore.energia.ie/](https://smarthomestore.energia.ie/) by 31st December 2022. No cash equivalent will be provided. €100 cash back to be applied to 3rd customer bill.  
    
-**Electricity Terms:**  
+Electricity Terms:  
   
-EAB €1,009, based on average annual usage. 12 month contract, discounted unit rates, standing charge, PSO levy and Carbon Tax, T&Cs and early termination fee apply. Valid from November 2020 & subject to change. Smart Home Voucher must be used at [https://smarthomestore.energia.ie/](https://smarthomestore.energia.ie/) by 31st December 2021. No cash equivalent will be provided. €50 cash back to be applied to 3rd customer bill.
+EAB €1,512, based on average annual usage. 12 month contract, discounted unit rates, standing charge, PSO levy and Carbon Tax, T&Cs and early termination fee apply. Valid from November 2020 & subject to change. Smart Home Voucher must be used at [https://smarthomestore.energia.ie/](https://smarthomestore.energia.ie/) by 31st December 2022. No cash equivalent will be provided. €50 cash back to be applied to 3rd customer bill.
 
 37\. Competition terms and conditions
 
