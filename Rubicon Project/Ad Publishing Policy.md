@@ -78,14 +78,15 @@ Bid Response Requirements
 
 POLITICAL ADVERTISING
 
-Buyers must comply with all applicable federal and state laws regarding political advertising, including obligations with respect to ensuring required disclosures regarding the source of political advertisements and maintaining certain archives.
+Buyers must comply with all applicable federal and state laws regarding political advertising, including obligations with respect to ensuring required disclosures regarding the source of political advertisements and maintaining certain archives and providing reporting.
 
 All buyers purchasing inventory for the display of political ads through the Magnite platforms will be obligated to include a DAA Political Ad or similar icon within those advertisements, which link to information regarding the political advertiser’s name, contact information, contribution records, and other disclosures required by applicable state law.
 
-Political ads and political ad landing pages must not include or contain:
+Magnite makes certain data about US state political advertisements served via our platform for public disclosure, as legally required, and such data may be accessed at [this page](https://www.magnite.com/political-ads/).
 
-*   Content promoting candidates for state or local elections and/or ballot measures in the following states: New York, New Jersey, Maryland, Nevada, and Washington.
-*   Content promoting candidates for state or local elections and/or ballot measures in California, other than ads that are: (a) a graphic, image, animated graphic, or animated image that the online platform hosting the advertisement allows to hyperlink to an internet website, or (b) all video or all audio.
+Without Magnite’s prior written consent, political ads and political ad landing pages must not include or contain:
+
+*   Content promoting candidates for state or local elections and/or ballot measures in the following states: California, New York, New Jersey, Maryland, Nevada, and Washington.
 *   Any political advertisement in the United States if the advertiser is not located in the United States. Any political advertisement in any other jurisdiction if the advertiser is not located in that jurisdiction.
 
 Kid’s Sites
