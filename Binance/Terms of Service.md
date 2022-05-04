@@ -1,6 +1,6 @@
 Binance Terms of Use
 
-Last revised: 1 April 2022
+Last revised: 4 May 2022
 
 These Binance Terms of Use is entered into between you (hereinafter referred to as “you” or “your”) and Binance operators (as defined below). By accessing, downloading, using or clicking on “I agree” to accept any Binance Services (as defined below) provided by Binance (as defined below), you agree that you have read, understood and accepted all of the terms and conditions stipulated in these Terms of Use (hereinafter referred to as “these Terms”) as well as our Privacy Policy at [www.binance.com/en/privacy](https://www.binance.com/en/privacy). In addition, when using some features of the Services, you may be subject to specific additional terms and conditions applicable to those features.
 
@@ -12,13 +12,13 @@ By accessing, using or attempting to use Binance Services in any capacity, you a
 
 **1\. Binance** refers to an ecosystem comprising Binance websites (whose domain names include but are not limited to [https://www.binance.com/en](https://https//www.binance.com/en)), mobile applications, clients, applets and other applications that are developed to offer Binance Services, and includes independently-operated platforms, websites and clients within the ecosystem (e.g. Binance’s Open Platform, Binance Launchpad, Binance Labs, Binance Charity, Binance DEX, Binance X, JEX, Trust Wallet, and fiat gateways). In case of any inconsistency between relevant terms of use of the above platforms and the contents of these Terms, the respective applicable terms of such platforms shall prevail.
 
-**2\. Binance Operators** ：refer to all parties that run Binance, including but not limited to legal persons (including Binance UAB), unincorporated organizations and teams that provide Binance Services and are responsible for such services. For convenience, unless otherwise stated, references to “Binance” and “we” in these Terms specifically mean Binance Operators. **UNDER THESE TERMS, BINANCE OPERATORS MAY CHANGE AS BINANCE’S BUSINESS ADJUSTS, IN WHICH CASE, THE CHANGED OPERATORS SHALL PERFORM THEIR OBLIGATIONS UNDER THESE TERMS WITH YOU AND PROVIDE SERVICES TO YOU, AND SUCH CHANGE DOES NOT AFFECT YOUR RIGHTS AND INTERESTS UNDER THESE TERMS. ADDITIONALLY, THE SCOPE OF BINANCE OPERATORS MAY BE EXPANDED DUE TO THE PROVISION OF NEW BINANCE SERVICES, IN WHICH CASE, IF YOU CONTINUE TO USE BINANCE SERVICES, IT IS DEEMED THAT YOU HAVE AGREED TO JOINTLY EXECUTE THESE TERMS WITH THE NEWLY ADDED BINANCE OPERATORS. IN CASE OF A DISPUTE, YOU SHALL DETERMINE THE ENTITIES BY WHICH THESE TERMS ARE PERFORMED WITH YOU AND THE COUNTERPARTIES OF THE DISPUTE, DEPENDING ON THE SPECIFIC SERVICES YOU USE AND THE PARTICULAR ACTIONS THAT AFFECT YOUR RIGHTS OR INTERESTS**.
+**2\. Binance Operators** refer to all parties that run Binance, including but not limited to legal persons (including Binance UAB), unincorporated organizations and teams that provide Binance Services and are responsible for such services. For convenience, unless otherwise stated, references to “Binance” and “we” in these Terms specifically mean Binance Operators. **UNDER THESE TERMS, BINANCE OPERATORS MAY CHANGE AS BINANCE’S BUSINESS ADJUSTS, IN WHICH CASE, THE CHANGED OPERATORS SHALL PERFORM THEIR OBLIGATIONS UNDER THESE TERMS WITH YOU AND PROVIDE SERVICES TO YOU, AND SUCH CHANGE DOES NOT AFFECT YOUR RIGHTS AND INTERESTS UNDER THESE TERMS. ADDITIONALLY, THE SCOPE OF BINANCE OPERATORS MAY BE EXPANDED DUE TO THE PROVISION OF NEW BINANCE SERVICES, IN WHICH CASE, IF YOU CONTINUE TO USE BINANCE SERVICES, IT IS DEEMED THAT YOU HAVE AGREED TO JOINTLY EXECUTE THESE TERMS WITH THE NEWLY ADDED BINANCE OPERATORS. IN CASE OF A DISPUTE, YOU SHALL DETERMINE THE ENTITIES BY WHICH THESE TERMS ARE PERFORMED WITH YOU AND THE COUNTERPARTIES OF THE DISPUTE, DEPENDING ON THE SPECIFIC SERVICES YOU USE AND THE PARTICULAR ACTIONS THAT AFFECT YOUR RIGHTS OR INTERESTS**.
 
 **3\. Binance Services** refer to various services provided to you by Binance that are based on Internet and/or blockchain technologies and offered via Binance websites, mobile applications, clients and other forms (including new ones enabled by future technological development). Binance Services include but are not limited to such Binance ecosystem components as Digital Asset Trading Platforms, the financing sector, Binance Labs, Binance Academy, Binance Charity, Binance Info, Binance Launchpad, Binance Research, Binance Chain, Binance X, Binance Fiat Gateway, existing services offered by Trust Wallet and novel services to be provided by Binance.
 
 **4\. Binance Platform Rules** refer to all rules, interpretations, announcements, statements, letters of consent and other contents that have been and will be subsequently released by Binance, as well as all regulations, implementation rules, product process descriptions, and announcements published in the Help Center or within products or service processes.
 
-5\. Users refer to all individuals, institutions or organizations that access, download or use Binance or Binance Services and who meet the criteria and conditions stipulated by Binance. If there exist other agreements for such entities as developers, distributors, market makers, and Digital Currencies exchanges, such agreements shall be followed.
+**5\. Users** refer to all individuals, institutions or organizations that access, download or use Binance or Binance Services and who meet the criteria and conditions stipulated by Binance. If there exist other agreements for such entities as developers, distributors, market makers, and Digital Currencies exchanges, such agreements shall be followed.
 
 **6\. Digital Currencies** refer to encrypted or digital tokens or cryptocurrencies with a certain value that are based on blockchain and cryptography technologies and are issued and managed in a decentralized form.
 
@@ -33,6 +33,8 @@ By accessing, using or attempting to use Binance Services in any capacity, you a
 **11\. Collateral Accounts** refer to special accounts opened by Users on Binance to deposit and withdraw collateral (such as margins) in accordance with these Terms (including the Binance Contract Services Agreement and Binance Platform Rules), as required for contract transactions, leveraged trading and/or currency borrowing services.
 
 **12\. Loan/Lending** refers to Binance’s lending of Digital Currencies to Users at an interest collected in certain ways (in the form of Digital Currencies), including but not limited to the leveraged trading and currency lending services currently offered, and other forms of loan/lending services to be launched by Binance.
+
+**13\. KYC** refers to the “know-your-customer” process that Binance has put in place before entering into a business relationship or conducting transactions with its Users. As part of this process, Binance may do anything that it deems necessary in order to identify Users, verify their identity, scrutinize and investigate User transactions, or comply with any applicable law or regulation.
 
 ### II. General Provisions
 
@@ -378,17 +380,19 @@ Binance maintains full custody of the Digital Assets, funds and User data/inform
 
 ### 5\. Dormant Accounts
 
-Notwithstanding any provision of this Section VI, Binance may provide a written notice requiring you to close all of your open positions and withdraw all of your Digital Assets from your Binance Account within 30 days of the notice. In the event that you fail to do so, Binance may:
+Notwithstanding any provision of this Section VI, Binance may provide a written notice requiring you to close all of your open positions and withdraw all of your Digital Assets from your Binance Account within 30 days of the notice. In the event that you fail to do so, Binance may in its absolute discretion and without prior notice to you:
 
 (a) deem your Binance account as a dormant account;
 
 (b) close any open positions in any Binance products;
 
-(c) transfer such dormant account (including any Digital Assets contained therein) to an affiliate of the Binance Operators or any third-party custodian where it is deemed reasonably necessary by Binance to do so;
+(c) convert the Digital Assets to a different type of Digital Asset (e.g., from BTC to BUSD). For the avoidance of doubt, none of the Binance Operators shall be liable for any loss of profit, tax obligations or any other loss, damage or expense incurred by you resulting from such conversion;
 
-(d) where necessary for a transfer set out in paragraph 5(c) above, the conversion of the Digital Assets to a different type of asset supported by the relevant affiliate of the Binance Operators or any third-party custodian. For the avoidance of doubt, none of the Binance Operators or any third-party custodian shall be liable for any loss of profit resulting from such conversion; and
+(d) transfer such dormant account (including any Digital Assets contained therein) to an affiliate of the Binance Operators, any third-party custodian or an isolated wallet where it is deemed reasonably necessary by Binance to do so. In the event that such transfer has taken place, you have the right to retrieve your digital assets from subject to satisfying Binance’s verification requirements, including completing KYC;
 
-(e) charge a dormant account fee to cover the cost of maintaining the assets by the Binance Operators, its affiliates or any third-party and such fee shall be withdrawn directly from the dormant account on a monthly basis.
+(e) charge a dormant account fee to cover the cost of maintaining the assets by the Binance Operators, its affiliates or any third-party and such fee shall be withdrawn directly from the dormant account on a monthly basis; and
+
+(f) close a dormant account at any time, and Binance will not be liable for any loss, damage or expense incurred by you as a result of the closure of a dormant account unless there was fraud or willful default by Binance. Any assets in these dormant accounts will be transferred in accordance to paragraph 5(d) above. After a dormant account is closed, it cannot be reactivated by you (i.e. you will need to register a new Binance account if you wish to continue to use Binance Services).
 
 ### VII. No Financial Advice
 
