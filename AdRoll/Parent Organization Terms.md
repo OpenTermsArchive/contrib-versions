@@ -386,10 +386,10 @@ Add-Ons
 **Applicable Legal Terms**
 
 **ABM SaaS Packages  
-\-Starter  
-\-Standard  
-\-Professional  
-\-Ultimate**
+‑Starter  
+‑Standard  
+‑Professional  
+‑Ultimate**
 
 **Contact Data Services**
 
@@ -425,6 +425,10 @@ AdRoll Packages
 **Growth**
 
 **Advanced**
+
+**Ads**
+
+**Marketing & Ads Plus**
 
 [NextRoll Terms of Service](https://www.nextroll.com/terms)
 
