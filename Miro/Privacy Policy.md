@@ -41,7 +41,7 @@ As the controller for Customer Content, Customer may, for example, use the Servi
 
 As the processor for Customer Content, Miro processes Customer Content only on the Customer’s request and in accordance with the Customer’s written instructions, including the applicable terms in the Customer Agreement, Customer’s use of the Services, and as required by applicable law. For more information about how Customer Content is processed (such as how your personal data is processed, the purpose and legal basis for processing, and your data subject rights), we refer you to the relevant Customer’s privacy notice.
 
-Miro is the controller for certain other categories of data (described in paragraph 3 below). If you have any questions or complaints, or would like to exercise your rights with regard to your personal data, please contact us at privacy@miro.com.
+Miro is the controller for certain other categories of data (described in paragraph 3 below). If you have any questions or complaints, or would like to exercise your rights with regard to your personal data, please contact us at [privacy@miro.com](mailto:privacy@miro.com).
 
 ### **The types of personal data we collect**
 
@@ -180,7 +180,7 @@ If you are based in the European Union, the following provisions also apply:
     
 *   If we share your personal data with our group company(ies) or third parties located outside the European Economic Area, we take steps to ensure that appropriate safeguards are in place to guarantee the continued protection of your personal data, such as by entering into the Standard Contractual Clauses adopted by the European Commission (article 46(2)(c) GDPR), which are available [here](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc/standard-contractual-clauses-international-transfers_en).
     
-*   Where we are the controller of your personal data, the GDPR data protection rights set out below apply to you. Most of these rights are not absolute and are subject to exemptions under applicable law. We will respond to any request to exercise your rights within one month, but have the right to extend this period in certain circumstances. If we extend the response period, we will let you know within one month of your request. If your request is clearly unfounded or excessive, we reserve the right to charge a reasonable fee or refuse to comply with it. 
+*   Where we are the controller of your personal data, the GDPR data protection rights set out below apply to you. Most of these rights are not absolute and are subject to exemptions under applicable law. We will respond to any request to exercise your rights within one month, but have the right to extend this period in certain circumstances. If we extend the response period, we will let you know within one month of your request. If your request is clearly unfounded or excessive, we reserve the right to charge a reasonable fee or refuse to comply with it. To exercise these rights, please submit a request to us by sending an email to [privacy@miro.com](mailto:privacy@miro.com). 
     
     *   **Access your personal data.** You are entitled to ask us if we are processing your personal data and, if we are, you can request access to your personal data. This enables you to receive a copy of the personal data we hold about you.
         
@@ -230,7 +230,7 @@ If you are based in California, the following provisions also apply:
         
     *   The specific pieces of personal information we collected about you (also called a data portability request). 
         
-*   **Notice of Sale**. We do not sell the personal information of Californica residents. WE also do not have any actual knowledge of selling the personal information of any California resident who is 16 years or younger.
+*   **Notice of Sale**. We do not sell the personal information of California residents. We also do not have any actual knowledge of selling the personal information of any California resident who is 16 years or younger.
     
 *   **Right to Request Deletion.** You have the right to request that we delete any of your personal information that we collected from you and retained, subject to certain exceptions. Once we receive and confirm your verifiable consumer request (see Exercising Access and Deletion Rights), we will delete (and direct our service providers to delete) your personal information from our records. However, we may retain personal information that has been de-identified or aggregated. Furthermore, we may deny your deletion request if retaining the information is necessary for us or our service provider(s) in order to perform certain actions set forth under the California Data Protection Laws, such as detecting security incidents and protecting against fraudulent or illegal activity. 
     
