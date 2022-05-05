@@ -85,7 +85,7 @@ Miro uses reasonable technical and organizational measures designed to protect t
 
 #### Personal Data
 
-Each party agrees to comply with the [DPA](https://miro.com/static/legal/Miro-Data-Processing-Addendum.pdf).
+Each party agrees to comply with the [DPA](https://assets.ctfassets.net/a6zo0szqvm4a/5aE0a0XtexowbZVMjKbFy6/f92b3f6561cc32dfca920ba304307d1a/Customer_DPA_w_out_SCC__Web_Version__APR1222__Non-Executable_.pdf).
 
 #### Data Export
 
@@ -319,7 +319,7 @@ This Section applies to any access to the Service purchased by Customer through 
 
 “**Policies**” means the [Privacy Policy](https://miro.com/legal/privacy-policy/), [Security Policy](https://miro.com/static/legal/Miro-Security-Policy.pdf) and [Support Policy](https://miro.com/static/legal/Miro-Support-Policy.pdf).
 
-“**Privacy Policy**” means the [](https://miro.com/legal/privacy-policy/)Privacy Policy, the current version of which is [here](https://miro.com/legal/privacy-policy/).
+“**Privacy Policy**” means the Privacy Policy, the current version of which is [here](https://miro.com/legal/privacy-policy/).
 
 “**Prohibited Data**” means any (a) special categories of data enumerated in European Union Regulation 2016/679, Article 9(1) or any successor legislation, (b) patient, medical or other protected health information regulated by the Health Insurance Portability and Accountability Act (as amended and supplemented) (“**HIPAA**”), (c) credit, debit or other payment card data subject to the Payment Card Industry Data Security Standards (PCI DSS), (d) other information subject to regulation or protection under specific Laws such as the Children’s Online Privacy Protection Act or Gramm-Leach-Bliley Act (or related rules or regulations), (e) social security numbers, driver’s license numbers or other government ID numbers or (f) any data similar to the above protected under foreign or domestic Laws.
 
