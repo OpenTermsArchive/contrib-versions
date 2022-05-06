@@ -11,7 +11,7 @@ ZIFF DAVIS, LLC PRIVACY POLICY
 
 ](https://privacy.truste.com/privacy-seal/validation?rid=ce211316-dfd0-4abb-8bfb-9cb70de1e37c)
 
-**Effective April 14, 2020** – [Version Française](http://www.ziffdavis.com/privacy-policy-f/)
+**Effective May 5, 2022** – [Version Française](http://www.ziffdavis.com/privacy-policy-f/)
 
 If you have any questions related to Data Subject Access Rights under GDPR or CCPA, you can contact us through our [DSAR Portal](https://dsar.ziffdavis.com/).​
 
@@ -238,14 +238,13 @@ Online Data is aggregated with the Other Information and data we collect as desc
 
 #### Summary – Lawful Basis for Processing User Information
 
-We may Process your User Information where: you have given your consent; the Processing is necessary for a contract between you and us; the Processing is required by applicable law; the Processing is necessary to protect the vital interests of any individual; or where we have a valid legitimate interest in the Processing.
+We may Process your User Information where: you have given your consent; the Processing is necessary for a contract between you and us; the Processing is required by applicable law; or where we have a valid legitimate interest in the Processing.
 
 In Processing your User Information in connection with the purposes set out in this Policy, we may rely on one or more of the following legal bases, depending on the circumstances:
 
 *   Consent: We may Process your User Information where we have obtained your prior, express consent to the Processing (this legal basis is only used in relation to Processing that is entirely voluntary – it is not used for Processing that is necessary or obligatory in any way);
 *   Contractual necessity: We may Process your User Information where the Processing is necessary in connection with any contract that you may enter into with us;
 *   Compliance with applicable law: We may Process your User Information where the Processing is required by applicable law;
-*   Vital interests: We may Process your User Information where the Processing is necessary to protect the vital interests of any individual; or
 *   Legitimate interests: We may Process your User Information where we have a legitimate interest in carrying out the Processing for the purpose of managing, operating or promoting our business, and that legitimate interest is not overridden by your interests, fundamental rights, or freedoms.
 
 As described above, we have identified our lead generation services and how we market our business to our current and prospective customers as having a legitimate interest.
