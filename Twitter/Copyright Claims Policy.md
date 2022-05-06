@@ -5,9 +5,9 @@ Copyright policy
 
 Twitter responds to copyright complaints submitted under the Digital Millennium Copyright Act (“DMCA”). Section 512 of the DMCA outlines the statutory requirements necessary for formally reporting copyright infringement, as well as providing instructions on how an affected party can appeal a removal by submitting a compliant counter-notice.
 
-Twitter will respond to reports of alleged copyright infringement, such as allegations concerning the unauthorized use of a copyrighted image as a profile or header photo, allegations concerning the unauthorized use of a copyrighted video or image uploaded through our media hosting services, or Tweets containing links to allegedly infringing materials. Note that not all unauthorized uses of copyrighted materials are infringements (see our [fair use](https://help.twitter.com/en/rules-and-policies/fair-use-policy) article for more information).
+Twitter will respond to reports of alleged copyright infringement, such as allegations concerning the unauthorized use of a copyrighted image as a profile or header photo, allegations concerning the unauthorized use of a copyrighted video or image uploaded through our media hosting services, or Tweets containing links to allegedly infringing materials. Note that not all unauthorized uses of copyrighted materials are infringements (see our [fair use](https://help.twitter.com/en/rules-and-policies/fair-use-policy.html) article for more information).
 
-If you are concerned about the use of your brand or entity’s name, please review [Twitter’s trademark policy](https://help.twitter.com/en/rules-and-policies/twitter-trademark-policy). If you are concerned about a parody, newsfeed, commentary, or fan account, please see the relevant policy [here](https://help.twitter.com/enr/ules-and-policies/parody-account-policy). These are generally not copyright issues.
+If you are concerned about the use of your brand or entity’s name, please review [Twitter’s trademark policy](https://help.twitter.com/en/rules-and-policies/twitter-trademark-policy.html). If you are concerned about a parody, newsfeed, commentary, or fan account, please see the relevant policy [here](https://help.twitter.com/enrules-and-policies/parody-account-policy.html). These are generally not copyright issues.
 
 #### Am I a copyright holder? How do I know?
 
@@ -15,7 +15,7 @@ If you are unsure whether you hold rights to a particular work, please consult a
 
 #### What to consider before submitting a copyright complaint
 
-Before submitting a copyright complaint to us, please consider whether or not the use could be considered [fair use](https://help.twitter.com/en/rules-and-policies/fair-use-policy). 
+Before submitting a copyright complaint to us, please consider whether or not the use could be considered [fair use](https://help.twitter.com/en/rules-and-policies/fair-use-policy.html). 
 
 If you have considered fair use, and you still wish to continue with a copyright complaint, you may want to first reach out to the user in question to see if you can resolve the matter directly with the user. You can reply to the user’s Tweet or send the user a Direct Message and ask for them to remove your copyrighted content without having to contact Twitter. 
 
@@ -35,7 +35,7 @@ To submit a notice of claimed copyright infringement, you will need to provide u
 6.  A statement that the information in the complaint is accurate, and, under penalty of perjury, that you are authorized to act on behalf of the copyright owner.  
      
 
-If you are reporting the content of a Tweet, please give us a [direct link](https://help.twitter.com/en/using-twitter/tweet-and-moment-url) to that Tweet. Or please specify if the alleged infringement is in the header, avatar, etc. A LINK TO A PROFILE PAGE IS INSUFFICIENT FOR TWITTER TO IDENTIFY INFRINGING MATERIALS.
+If you are reporting the content of a Tweet, please give us a [direct link](https://help.twitter.com/en/using-twitter/tweet-and-moment-url.html) to that Tweet. Or please specify if the alleged infringement is in the header, avatar, etc. A LINK TO A PROFILE PAGE IS INSUFFICIENT FOR TWITTER TO IDENTIFY INFRINGING MATERIALS.
 
 #### How do I file a copyright complaint?
 
@@ -79,7 +79,7 @@ Tip: Removing the material reported in a copyright complaint will not resolve th
 #### What if I want to contest the takedown?
 
 If you believe that the materials reported in the copyright complaints  
-were misidentified or removed in error, you may send us a [counter-notification(s)](https://help.twitter.com/en/forms/ipi/dmca-counternotice) through our Help Center. A counter-notice is a request for Twitter to reinstate the removed material, and it has legal consequences. Alternatively, you may be able to seek a retraction of the copyright complaint from the reporter.
+were misidentified or removed in error, you may send us a [counter-notification(s)](https://help.twitter.com/en/forms/ipi/dmca-counternotice.html) through our Help Center. A counter-notice is a request for Twitter to reinstate the removed material, and it has legal consequences. Alternatively, you may be able to seek a retraction of the copyright complaint from the reporter.
 
 #### How do I seek a retraction?
 
