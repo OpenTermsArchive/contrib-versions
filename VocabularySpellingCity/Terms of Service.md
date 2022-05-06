@@ -28,7 +28,7 @@ Billing Policies
 
 **Cancellation Policy for Online Professional Development.** We offer live online professional development (“PD”) programs for all schools and districts – domestic and international. Scheduling of live online PD programs must be made at minimum one week in advance and is subject to availability. Cancellation of live online PD programs within two business days of the scheduled date will result in a cancellation fee of $200.
 
-**Payment Options.** VocabularySpellingCity accepts Visa, MasterCard, Discover, American Express, and PayPal™. Users wishing to pay for a Premium Membership by check, PO, or other means, must contact [info@spellingcity.com](mailto:info@spellingcity.com).
+**Payment Options.** VocabularySpellingCity accepts Visa, MasterCard, Discover, American Express, and PayPal™. Users wishing to pay for a Premium Membership by check, PO, or other means, must contact [sales@learninga-z.com](mailto:sales@learninga-z.com).
 
 **Refunds.** All payments to VocabularySpellingCity are non-refundable, unless it is within the 30-day money back guarantee period for New Users.
 
@@ -63,11 +63,11 @@ You also agree not to reproduce, duplicate, copy, sell, resell or exploit for an
 Trademarks & Copyrights
 -----------------------
 
-Copyright © 2018 VocabularySpellingCity.com. Any rights not expressly granted in this Agreement are reserved for the exclusive use of VocabularySpellingCity. The owner and manufacturer of VocabularySpellingCity.com is VKidz, Inc. 6300 NE 1st Ave. Suite 203, Ft. Lauderdale, FL 33334. "VocabularySpellingCity", "Vocabulary and SpellingCity", "Spelling City", "SpellingCity", "SpellingCity.com", "VocabularyCity", "VocabularyCity.com", "VocabularyandSpellingCity.com", “PhonicsCity”, and “GrammarCity” are the exclusive trademarks of VKidz, Inc. All other copyrights and trademarks appearing on the VocabularySpellingCity.com website are the exclusive rights of their respective owners. If any company does not wish the site to be listed, please contact us at  
+Copyright © 2018 VocabularySpellingCity.com. Any rights not expressly granted in this Agreement are reserved for the exclusive use of VocabularySpellingCity. The owner and manufacturer of VocabularySpellingCity.com is VKidz, Inc. 6300 NE 1st Ave. Suite 203, Ft. Lauderdale, FL 33334. “VocabularySpellingCity”, “Vocabulary and SpellingCity”, “Spelling City”, “SpellingCity”, “SpellingCity.com”, “VocabularyCity”, “VocabularyCity.com”, “VocabularyandSpellingCity.com”, “PhonicsCity”, and “GrammarCity” are the exclusive trademarks of VKidz, Inc. All other copyrights and trademarks appearing on the VocabularySpellingCity.com website are the exclusive rights of their respective owners. If any company does not wish the site to be listed, please contact us at  
 [legal@VocabularySpellingCity.com](mailto:legal@vocabularyspellingcity.com).
 
 **Words, Lists, Sentences, Forum Comments, and Suggestions**  
-Any words, lists, sentences, comments, or suggestions ("Content") posted by users to VocabularySpellingCity’s website and/or iOS Apps are  
+Any words, lists, sentences, comments, or suggestions (“Content”) posted by users to VocabularySpellingCity’s website and/or iOS Apps are  
 **public** and will be widely available to all VocabularySpellingCity users. As a user of VocabularySpellingCity, you understand and agree that all Content posted by users are the sole responsibility of the person posting such Content, and that VocabularySpellingCity cannot guarantee the accuracy, integrity, appropriateness or quality of such Content. You agree that VocabularySpellingCity will not be liable and you will to hold it harmless for the Content and protection of any and all words or lists regardless of the circumstances, including, but not limited to, error, omission, deletion, alteration or editing of any list and loss or damage of any kind you or others incur as a result use of lists or of any VocabularySpellingCity.com error or omission.
 
 Further, users who post or submit Content on the VocabularySpellingCity website understand and agree that they grant VocabularySpellingCity a royalty-free, worldwide, perpetual, irrevocable, non-exclusive and fully sublicensable right and license to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, perform, ignore, or display such Content (in whole or part) and/or to incorporate it in other works in any form, media or technology now known or later developed without any attribution or credit or moral rights due to you.
@@ -88,7 +88,7 @@ VocabularySpellingCity respects the intellectual property of others and we ask o
 VocabularySpellingCity shares intellectual property with Time4Learning.com, a highly popular online service providing a comprehensive PreK-High School multi-subject curriculum featuring student-paced learning in a fun and entertaining format. In particular, VocabularySpellingCity uses with permission the  
 [spelling lists](http://www.time4learning.com/spellingwords/spelling-words.shtml) provided by Time4Learning.com. Time4Learning.com is widely used for  
 [homeschooling curriculum](http://www.time4learning.com/homeschool-curriculum.htm), after-school enrichment and remediation and summer study. Time4Learning.com works well for a broad range of students including gifted children, and those with all kinds of special needs and situations such as  
-[homeschooling students with Asperger's](http://www.time4learning.com/aspergers.shtml), attention deficit syndromes\*\*, sensory impairment\*\* and dyslexia\*\*.
+[homeschooling students with Asperger’s](http://www.time4learning.com/aspergers.shtml), attention deficit syndromes\*\*, sensory impairment\*\* and dyslexia\*\*.
 
 VocabularySpellingCity provides resources for the  
 [online writing courses](http://www.time4writing.com/) offered by Time4Writing.com, an educational website providing remedial and regular writing programs led by certified teachers that efficiently boost students’ writing abilities. VocabularySpellingCity’s website is integrated with the Science Songs\*\* found on the  
