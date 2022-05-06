@@ -1,4 +1,5 @@
 Vinted Terms & Conditions of Use
+================================
 
 **TERMS AND CONDITIONS** 
 
