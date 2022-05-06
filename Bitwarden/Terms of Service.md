@@ -11,7 +11,7 @@ Summary
 | [A. Definitions](#definitions) | Some basic terms, defined in a way that will help you understand this agreement. Refer back up to this section for clarification. |
 | [B. Account Terms](#account_terms) | These are the basic requirements of having an account on Bitwarden. |
 | [C. Acceptable Use](#acceptable_use) | These are the basic rules you must follow when using your Bitwarden account. |
-| [D. Intellectual Property Notice](#intellectual_property) | This describes Bitwarden\`s rights in the website and service. |
+| [D. Intellectual Property Notice](#intellectual_property) | This describes Bitwarden's rights in the website and service. |
 | [E. Payment](#payment) | You are responsible for payment. We are responsible for billing you accurately. |
 | [F. Cancellation and Termination](#cancellation) | You may cancel this agreement and close your account at any time. |
 | [G. Communications with Bitwarden](#communication) | We only use email and other electronic means to stay in touch with our users. We do not provide phone support. |
@@ -30,11 +30,11 @@ hidden link anchor
 
 ### A. Definitions
 
-**Short version:** _We use these basic terms throughout the agreement, and they have specific meanings. You should know what we mean when we use each of the terms. There\`s not going to be a test on it, but it\`s still useful information._
+**Short version:** _We use these basic terms throughout the agreement, and they have specific meanings. You should know what we mean when we use each of the terms. There's not going to be a test on it, but it's still useful information._
 
 1.  The "Agreement" refers, collectively, to all the terms, conditions, notices contained or referenced in this document (the "Terms of Service" or the "Terms") and all other operating rules, policies (including the Bitwarden Privacy Policy, available at [bitwarden.com/privacy](https://bitwarden.com/privacy)) and procedures that we may publish from time to time on the Website.
 2.  The "Service" refers to the applications, software, products, and services provided by Bitwarden.
-3.  The "Website" refers to Bitwarden\`s website located at [bitwarden.com](https://bitwarden.com/), and all content, services, and products provided by Bitwarden at or through the Website. It also refers to Bitwarden-owned subdomains of bitwarden.com, such as [vault.bitwarden.com](https://vault.bitwarden.com/) and [bitwarden.com/help/](https://bitwarden.com/help/). Occasionally, websites owned by Bitwarden may provide different or additional terms of service. If those additional terms conflict with this Agreement, the more specific terms apply to the relevant page or service.
+3.  The "Website" refers to Bitwarden's website located at [bitwarden.com](https://bitwarden.com/), and all content, services, and products provided by Bitwarden at or through the Website. It also refers to Bitwarden-owned subdomains of bitwarden.com, such as [vault.bitwarden.com](https://vault.bitwarden.com/) and [bitwarden.com/help/](https://bitwarden.com/help/). Occasionally, websites owned by Bitwarden may provide different or additional terms of service. If those additional terms conflict with this Agreement, the more specific terms apply to the relevant page or service.
 4.  "The User," "You," and "Your" refer to the individual person, company, or organization that has visited or is using the Website or Service; that accesses or uses any part of the account; or that directs the use of the account in the performance of its functions. A User must be at least 13 years of age.
 5.  "Bitwarden,", "8bit," "We," and "Us" refer to 8bit Solutions LLC, as well as our affiliates, directors, subsidiaries, contractors, licensors, officers, agents, and employees.
 6.  "Content" refers to content featured or displayed through the Website, including without limitation text, data, articles, images, photographs, graphics, software, applications, designs, features, and other materials that are available on the Website or otherwise available through the Service. "Content" also includes Services. "User-Generated Content" is Content, written or otherwise, created or uploaded by our Users. "Paid Content" is Content only available to Users who are participating in a payment plan, including premium memberships.
@@ -51,17 +51,17 @@ You must provide a valid email address in order to complete the signup process. 
 
 2\. Account Requirements
 
-We have a few simple rules for accounts on Bitwarden\`s Service.
+We have a few simple rules for accounts on Bitwarden's Service.
 
 *   You must be a human to create an account. Accounts registered by "bots" or other automated methods are not permitted.
 *   One person or legal entity may maintain no more than one free account.
-*   You must be age 13 or older. While we are thrilled to see brilliant young people take an interest in our Service, we must comply with United States law. Bitwarden does not target our Service to children under 13, and we do not permit any Users under 13 on our Service. If we learn of any User under the age of 13, we will [terminate that User\`s account immediately](#cancellation). If you are a resident of a country outside the United States, your country\`s minimum age may be older; in such a case, you are responsible for complying with your country\`s laws.
+*   You must be age 13 or older. While we are thrilled to see brilliant young people take an interest in our Service, we must comply with United States law. Bitwarden does not target our Service to children under 13, and we do not permit any Users under 13 on our Service. If we learn of any User under the age of 13, without parental consent, we will [terminate that User's account immediately](#cancellation). If you are a resident of a country outside the United States, your country's minimum age may be older; in such a case, you are responsible for complying with your country's laws.
 *   Your login may only be used by one person — i.e., a single login may not be shared by multiple people. A paid organization account may create separate logins for as many users as its subscription allows.
-*   Overall, the number of Users must not exceed the number of accounts you\`ve ordered from us.
+*   Overall, the number of Users must not exceed the number of accounts you've ordered from us.
 
 3\. User Account Security
 
-You are responsible for keeping your account secure while you use our Service. We offer tools such as two-factor authentication to help you maintain your account\`s security, but the content of your account and its security are up to you.
+You are responsible for keeping your account secure while you use our Service. We offer tools such as two-factor authentication to help you maintain your account's security, but the content of your account and its security are up to you.
 
 *   You are responsible for all content posted and activity that occurs under your account (even when content is posted by others who have accounts under your account).
 *   You are responsible for maintaining the security of your account and password. Bitwarden cannot and will not be liable for any loss or damage from your failure to comply with this security obligation.
@@ -69,7 +69,7 @@ You are responsible for keeping your account secure while you use our Service. W
 
 4\. Additional Terms
 
-In some situations, third parties\` terms may apply to your use of Bitwarden. For example, you may be a member of an organization on Bitwarden with its own terms or license agreements; or you may download an application that integrates with Bitwarden. Please be aware that while these Terms are our full agreement with you, other parties\` terms govern their relationships with you.
+In some situations, third parties' terms may apply to your use of Bitwarden. For example, you may be a member of an organization on Bitwarden with its own terms or license agreements; or you may download an application that integrates with Bitwarden. Please be aware that while these Terms are our full agreement with you, other parties' terms govern their relationships with you.
 
 hidden link anchor
 
@@ -87,13 +87,13 @@ While using Bitwarden, you agree that you will not under any circumstances:
 
 *   harass, abuse, threaten, or incite violence towards any individual or group, including Bitwarden employees, officers, and agents, or other Bitwarden Users;
 *   use our servers for any form of excessive automated bulk activity (for example, spamming), or relay any other form of unsolicited advertising or solicitation through our servers;
-*   attempt to disrupt or tamper with Bitwarden\`s servers in ways that could harm our Website or Service, to place undue burden on Bitwarden\`s servers through automated means, or to access Bitwarden\`s Service in ways that exceed your authorization;
-*   impersonate any person or entity, including any of our employees or representatives, including through false association with Bitwarden, or by fraudulently misrepresenting your identity or site\`s purpose; or
-*   violate the privacy of any third party, such as by posting another person\`s personal information without consent.
+*   attempt to disrupt or tamper with Bitwarden's servers in ways that could harm our Website or Service, to place undue burden on Bitwarden's servers through automated means, or to access Bitwarden's Service in ways that exceed your authorization;
+*   impersonate any person or entity, including any of our employees or representatives, including through false association with Bitwarden, or by fraudulently misrepresenting your identity or site's purpose; or
+*   violate the privacy of any third party, such as by posting another person's personal information without consent.
 
 3\. Services Usage Limits
 
-You agree not to reproduce, duplicate, copy, sell, resell or exploit any portion of the Service, use of the Service, or access to the Service without Bitwarden\`s express written permission.
+You agree not to reproduce, duplicate, copy, sell, resell or exploit any portion of the Service, use of the Service, or access to the Service without Bitwarden's express written permission.
 
 4\. Excessive Bandwidth Use
 
@@ -109,7 +109,7 @@ hidden link anchor
 
 **Short version:** _We own the service and all of our content. In order for you to use our content, we give you certain rights to it, but you may only use our content in the way we have allowed._
 
-1\. Bitwarden\`s Rights to Content
+1\. Bitwarden's Rights to Content
 
 Bitwarden and our licensors, vendors, agents, and/or our content providers retain ownership of all intellectual property rights of any kind related to the Website and Service. We reserve all rights that are not expressly granted to you under this Agreement or by law. The look and feel of the Website and Service is copyright ©; 8bit Solutions LLC. All rights reserved.
 
@@ -147,7 +147,7 @@ hidden link anchor
 
 ### F. Cancellation and Termination
 
-**Short version:** _You may close your account at any time. If you do, we\`ll treat your information responsibly._
+**Short version:** _You may close your account at any time. If you do, we'll treat your information responsibly._
 
 1\. Account Cancellation
 
@@ -177,7 +177,7 @@ For contractual purposes, you (1) consent to receive communications from us in a
 
 2\. Legal Notice to Bitwarden Must Be in Writing
 
-Communications made through email or Bitwarden Support\`s messaging system will not constitute legal notice to Bitwarden or any of its officers, employees, agents or representatives in any situation where notice to Bitwarden is required by contract or any law or regulation. Legal notice to Bitwarden must be in writing and served on Bitwarden\`s legal agent.
+Communications made through email or Bitwarden Support's messaging system will not constitute legal notice to Bitwarden or any of its officers, employees, agents or representatives in any situation where notice to Bitwarden is required by contract or any law or regulation. Legal notice to Bitwarden must be in writing and served on Bitwarden's legal agent.
 
 3\. No Phone Support
 
@@ -217,13 +217,13 @@ hidden link anchor
 
 **Short version:** _You are responsible for your use of the service._
 
-You agree to indemnify us, defend us, and hold us harmless from and against any and all claims, liabilities, and expenses, including attorneys\` fees, arising out of your use of the Website and the Service, including but not limited to your violation of this Agreement, provided that Bitwarden (1) promptly gives you written notice of the claim, demand, suit or proceeding; (2) gives you sole control of the defense and settlement of the claim, demand, suit or proceeding (provided that you may not settle any claim, demand, suit or proceeding unless the settlement unconditionally releases Bitwarden of all liability); and (3) provides to you all reasonable assistance, at your expense.
+You agree to indemnify us, defend us, and hold us harmless from and against any and all claims, liabilities, and expenses, including attorneys' fees, arising out of your use of the Website and the Service, including but not limited to your violation of this Agreement, provided that Bitwarden (1) promptly gives you written notice of the claim, demand, suit or proceeding; (2) gives you sole control of the defense and settlement of the claim, demand, suit or proceeding (provided that you may not settle any claim, demand, suit or proceeding unless the settlement unconditionally releases Bitwarden of all liability); and (3) provides to you all reasonable assistance, at your expense.
 
 hidden link anchor
 
 ### K. Changes to these Terms of Service
 
-**Short version:** _We want our users to be informed of important changes to our terms, but some changes aren\`t that important — we don\`t want to bother you every time we fix a typo. So while we may modify this agreement at any time, we will notify users of any changes that affect your rights and give you time to adjust to them._
+**Short version:** _We want our users to be informed of important changes to our terms, but some changes aren't that important — we don't want to bother you every time we fix a typo. So while we may modify this agreement at any time, we will notify users of any changes that affect your rights and give you time to adjust to them._
 
 We reserve the right, at our sole discretion, to amend these Terms of Service at any time and will update these Terms of Service in the event of any such amendments. We will notify our Users of material changes to this Agreement, such as price changes, at least 30 days prior to the change taking effect by posting a notice on our Website. For non-material modifications, your continued use of the Website constitutes agreement to our revisions of these Terms of Service.
 
@@ -247,7 +247,7 @@ Throughout this Agreement, each section includes titles and brief summaries of t
 
 4\. Severability, No Waiver, and Survival
 
-If any part of this Agreement is held invalid or unenforceable, that portion of the Agreement will be construed to reflect the parties\` original intent. The remaining portions will remain in full force and effect. Any failure on the part of Bitwarden to enforce any provision of this Agreement will not be considered a waiver of our right to enforce such provision. Our rights under this Agreement will survive any termination of this Agreement.
+If any part of this Agreement is held invalid or unenforceable, that portion of the Agreement will be construed to reflect the parties' original intent. The remaining portions will remain in full force and effect. Any failure on the part of Bitwarden to enforce any provision of this Agreement will not be considered a waiver of our right to enforce such provision. Our rights under this Agreement will survive any termination of this Agreement.
 
 5\. Complete Agreement
 
