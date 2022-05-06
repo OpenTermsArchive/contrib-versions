@@ -121,9 +121,7 @@ Job Candidate Applications
 Collection, Use, and Retention
 ------------------------------
 
-If you participate in a Bitwarden Event, and direct us to share your information, we may share information about you with event sponsors and partners so that they may contact you about their products and other participants. Please review the event page where you registered for a listing of sponsors.
-
-If you would like to change your sharing instructions with these sponsors, please visit the website of such sponsors.
+If you apply for a job at Bitwarden, we collect and use your Personal Information for legitimate human resources and business management reasons including:
 
 *   Identifying and evaluating candidates for potential employment, as well as for future roles that may become available;
 *   Recordkeeping in relation to recruiting and hiring;
