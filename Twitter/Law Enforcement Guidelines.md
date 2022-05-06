@@ -1,14 +1,14 @@
 Guidelines for law enforcement
 ==============================
 
-These guidelines are intended for law enforcement authorities seeking information about Twitter accounts. Information concerning requests to [withhold content on Twitter](https://help.twitter.com/rules-and-policies/tweet-withheld-by-country) is available. More general information is available in our [Privacy Policy](https://twitter.com/en/privacy), [Terms of Service](https://twitter.com/en/tos), and [Twitter Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules).   
+These guidelines are intended for law enforcement authorities seeking information about Twitter accounts. Information concerning requests to [withhold content on Twitter](https://help.twitter.com/rules-and-policies/tweet-withheld-by-country) is available. More general information is available in our [Privacy Policy](https://twitter.com/en/privacy), [Terms of Service](https://twitter.com/en/tos), and [Twitter Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html).   
 
 ### What is Twitter?
 
   
 Twitter is a real-time global information network that lets users create and share ideas and information instantly to serve the public conversation. Twitter is what’s happening in the world and what people are talking about right now. When it happens, it happens on Twitter.
 
-For more information, please visit [about.twitter.com](https://about.twitter.com/). For the latest on Twitter's features and functionality, please visit our [Help Center](https://help.twitter.com/en.html).  
+For more information, please visit [about.twitter.com](https://about.twitter.com/). For the latest on Twitter's features and functionality, please visit our [Help Center](https://help.twitter.com/).  
  
 
 ### Account Information Requests
@@ -21,7 +21,7 @@ A Twitter account profile often contains a profile photo, header photo, backgrou
 ### Does Twitter have access to user-generated photos or videos?  
 
   
-Twitter provides photo hosting for some image uploads (i.e., pic.twitter.com images) as well as Twitter account profile photos, and header photos. However, Twitter is not the sole photo provider for images that may appear on the Twitter platform. More information about [posting photos on Twitter](https://help.twitter.com/en/using-twitter/tweeting-gifs-and-pictures).
+Twitter provides photo hosting for some image uploads (i.e., pic.twitter.com images) as well as Twitter account profile photos, and header photos. However, Twitter is not the sole photo provider for images that may appear on the Twitter platform. More information about [posting photos on Twitter](https://help.twitter.com/en/using-twitter/tweeting-gifs-and-pictures.html).
 
 Twitter provides video hosting for some videos uploaded to Twitter (i.e., pic.twitter.com videos) as well as those posted to Periscope. Please note that Twitter is not the sole video provider for videos that may appear on the Twitter platform.
 
