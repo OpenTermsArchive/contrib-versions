@@ -234,7 +234,7 @@ You can learn more about how privacy works [on Facebook](https://www.facebook.co
 
 Contact us
 
-The data controller responsible for your information is Meta Platforms Ireland Limited, which you can [contact online](https://www.facebook.com/help/contact/2061665240770586)or by writing to:
+The data controller responsible for your information is Meta Platforms Ireland Limited, which you can [contact online](https://www.facebook.com/help/contact/1650115808681298)or by writing to:
 
 Meta Platforms Ireland Ltd.  
 4 Grand Canal Square  
