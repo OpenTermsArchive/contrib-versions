@@ -509,6 +509,8 @@ If we change this privacy policy (except for technical tweaks), we will notify y
 
 We are committed to working with you to obtain a fair resolution of any complaint or concern about privacy. If, however, you believe that we have not been able to assist with your complaint or concern, you have the right to make a complaint to your local data protection authority or to the data protection authority of Luxembourg using their website [**https://cnpd.public.lu/en.html**](https://cnpd.public.lu/en.html).
 
+In the event you read this policy in any language other than English, you agree that in the event of any discrepancies, the English version shall prevail.
+
 Current Privacy Policy PDF Version [Viber Privacy Policy March 2022](https://www.viber.com/app/uploads/Viber-Privacy-Policy-EN-March-2022-1.pdf)
 
 Previous Privacy Policy PDF Version [Viber Privacy Policy November 2019](https://www.viber.com/app/uploads/Viber-Privacy-Policy-EN-November-2019.pdf)
