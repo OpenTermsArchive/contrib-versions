@@ -1,6 +1,3 @@
-1.  [Home](https://www.thomsonreuters.com/en.html)
-2.  Privacy statement
-
 Thomson Reuters Privacy Statement
 =================================
 
