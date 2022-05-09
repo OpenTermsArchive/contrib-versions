@@ -81,15 +81,6 @@ In the event that you notice content that may relate to apologies for crimes aga
 
 In any other situation, please send is a registered letter to the following address: QWANT – Direction Ethique & Affaires Juridiques, Crystal Park building, 63 Rue de Villiers, 92200 Neuilly-sur-Seine, France.
 
-Qwant account
--------------
-
-If you have created a user account, you bear the sole responsibility for information that you fill in when registering or when modifying your account. We do not access your profile and deny any responsibility regarding its content. You agree to taking all necessary measures to preserve the confidentiality of your password. You can read some advice on how to manage your password security [on this page](https://help.qwant.com/help/qwant-search/my-account/how-do-i-sign-up/).
-
-You can delete your account any time from your profile by clicking the link that says « Remove my qwant.com account ». Any data associated with your account will be removed 7 days after the removal request. Meanwhile, you can reactivate your account using your previous user ID and password.
-
-If you want to keep your data and content, you will bear the responsibility to organize their transfer prior to the deletion of your account.
-
 Data protection
 ---------------
 
@@ -107,11 +98,9 @@ For any delisting request, please refer to the help page [“How to exercise my 
 Cookies and other tracking devices
 ----------------------------------
 
-We don’t use any cookie or any other ads tracking device (pixel, fingerprinting…) when browsing our Services.
+Please find our cookie policy on the [dedicated page](https://about.qwant.com/en/legal/confidentialite/cookie-policy/).
 
-The only technology that may be installed on your computer, called « local storage », is used to save your browsing preferences (language, activation or deactivation of trends settings, adult content filtering and « favicon »).
-
-You can remove the data from the “local storage” by deactivating cookies thanks to the settings of your browser. However, this deactivation may prevent you from accessing some features of the Services, such as saving your browsing preferences.
+We do not use any advertising trackers (pixels, fingerprinting) when you browse the Services.
 
 Applicable law
 --------------
@@ -120,4 +109,4 @@ The Services and their TOS are subject to French law, wherever they may be used.
 
 All rights reserved, QWANT® 2019
 
-*   Last update: October 20, 2021
+*   Last update: May 9, 2022
