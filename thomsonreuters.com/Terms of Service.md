@@ -1,6 +1,3 @@
-1.  [Home](https://www.thomsonreuters.com/en.html)
-2.  Terms of use
-
 Terms of use
 ============
 
