@@ -133,22 +133,26 @@ Your access to your customer account will be automatically suspended following 2
 
 Cookies are set when you visit your account. The following cookies are also set when you use your account.  
   
-Use of CrossEngage  
+**Use of CrossEngage**
+
 If you have a bahn.de/bahn.com customer account, personal offers and promotions can be displayed when you are logged in. In order to be able to design and display this content, we have to place a cookie on your browser when you use bahn.de/bahn.com. It has a lifetime of 12 months. The data collected via the cookie is pseudonymised and processed on the servers of our service provider CrossEngage GmbH (Gontardstr. 11, 10178 Berlin, Germany). The legal basis for this is Article 6(1)(b) GDPR.
 
-**Cookies that are not essential for using the website:**
+#### Cookies that are not essential for using the website:
 
 The following cookies are not essential for using the website and will be processed only if you give your consent beforehand. 
 
-Remain-logged-in option   
+**Remain-logged-in option** 
+
 If you use the remain-logged-in option, you will be recognised and addressed by your name the next time you visit. You can use the contents of your customer account faster and receive customised offerings. Use of the remain-logged-in option does not enable direct access to your personal customer account. In order to access your data such as address, account or booking information, personal offers, etc., you must always log in to your customer account with your user name and password bahn.de/bahn.com will be pre-set with your user name every time you log in. Our aim is to provide a faster and more convenient login. We will never pre-set your password. If your end-user device is used by several people, please make sure that the auto-fill-in option in your browser is switched off in order to avoid misuse.
 
-Registration   
+**Registration** 
+
 If you wish to use the remain-logged-in option, we need your consent in accordance with Article 6(1)(a) GDPR. You can give your consent to the remain-logged-in option on registration and when logging in to your customer account. By entering your user name and password, ticking the remain-logged-in box and clicking the login button, you consent to the option. You have to give your consent for every end-user device and every browser used. Following your consent, we place two cookies on your browser. These are first-party cookies that can only be read by us. One cookie allows us to give your browser a randomly generated ID and thereby enables us to clearly recognise it and/or you as user of the browser. The other cookie indicates whether the remain-logged-in option has been set in your browser. If this is the case, the randomly generated cookie ID from your browser is decoded in our systems and allocated to your customer account. This only takes place by way of encrypted connections.  
 Both cookies thereby enable us to recognise you on subsequent visits to bahn.de/bahn.com and to address you by your name. These cookies are not used to collect usage data from your browser or to link this usage data with data from other browser sessions.  
 The cookies for the remain-logged-in option have a lifetime of 24 months. After every login to your user account with your customer name and password, the lifetime of the cookies will be extended by a further 24 months as from this login. 
 
-Opt out  
+**Opt out**
+
 You can opt out of the remain-logged-in option via the link "You are not \[Vorname\]\[Nachname\]? Opt out". You will find the link by clicking on your name, which is displayed on the website. In addition, in your customer account on the "Change login data" page, you can opt out, in a single step, of the remain-logged-in option on all browsers or end-user devices on which you gave consent. This opt-out option is only displayed in the customer account, however, if consent to the remain-logged-in option was given on at least one end-user device.  
 If you delete the cookies on your browser, you will also opt out of the option. If a third party uses your end-user device (browser) and logs in to his/her customer account, the remain-logged-in option will also be deleted. 
 
