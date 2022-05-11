@@ -1,7 +1,7 @@
 Developer Programme Policy
 ==========================
 
-_(effective from 17 January 2022, unless otherwise stated)_
+_(effective 11 May 2022, unless otherwise stated)_
 
 * * *
 
@@ -48,9 +48,9 @@ To ensure that Google Play remains a safe and respectful platform, we've created
 
 ### Hate speech
 
-We don't allow apps that promote violence, or incite hatred against individuals or groups based on race or ethnic origin, religion, disability, age, nationality, veteran status, sexual orientation, gender, gender identity, or any other characteristic that is associated with systemic discrimination or marginalisation.
+We don't allow apps that promote violence or incite hatred against individuals or groups based on race or ethnic origin, religion, disability, age, nationality, veteran status, sexual orientation, gender, gender identity, caste, immigration status or any other characteristic that is associated with systemic discrimination or marginalisation.
 
-Apps that contain EDSA (Educational, Documentary, Scientific or Artistic) content related to Nazis may be blocked in certain countries, in accordance with local laws and regulations.
+Apps that contain EDSA (educational, documentary, scientific or artistic) content related to Nazis may be blocked in certain countries, in accordance with local laws and regulations.
 
 To ensure that Google Play remains a safe and respectful platform, we've created standards defining and prohibiting content that is harmful or inappropriate for our users.
 
@@ -171,21 +171,27 @@ We do not allow apps that promote personal loans that require repayment in full 
 
 In the United States, we do not allow apps for personal loans where the Annual Percentage Rate (APR) is 36% or higher. Apps for personal loans in the United States must display their maximum APR, calculated consistently with the [Truth in Lending Act (TILA)](https://www.ecfr.gov/cgi-bin/text-idx?c=ecfr&tpl=/ecfrbrowse/Title12/12cfr1026_main_02.tpl).
 
-This policy applies to apps which offer loans directly, lead generators and those who connect consumers with third-party lenders.
+This policy applies to apps which offer loans directly, lead generators, and those who connect consumers with third-party lenders.
 
-**Additional requirements for personal loan apps in India and Indonesia**
+**Additional requirements for personal loan apps in India, Indonesia and the Philippines**
 
-Personal loan apps in India and Indonesia must complete the additional proof of eligibility requirements below. 
+Personal loan apps in India, Indonesia and the Philippines must complete the additional proof of eligibility requirements below. 
 
 1.  **India**
     *   Complete the [personal loan app declaration for India](https://support.google.com/googleplay/android-developer/contact/plad_in), and provide necessary documentation to support your declaration. For example:
         *   If you are licensed by the Reserve Bank of India (RBI) to provide personal loans, you must submit a copy of your licence for our review.
         *   If you are not directly engaged in money lending activities and are only providing a platform to facilitate money lending by registered non-banking financial companies (NBFCs) or banks to users, you will need to accurately reflect this in the declaration.
-    *   Ensure that the developer account name reflects the name of the associated registered business name provided through your declaration.
+            *   In addition, the names of all registered NBFCs and banks must be prominently disclosed in your app’s description.
+    *   Ensure that the developer account name matches the name of the associated registered business name provided through your declaration.
 2.  **Indonesia**
-    *   We only allow personal loan apps licensed by or registered with the Financial Services Authority (Otoritas Jasa Keuangan, 'OJK') of Indonesia.
-        *   Complete the [personal loan app declaration for Indonesia](https://support.google.com/googleplay/android-developer/contact/plad_id), and provide your OJK documentation to support your declaration.
-        *   Ensure that the developer account name reflects the name of the associated registered business name provided through your declaration.
+    *   Complete the [personal loan app declaration for Indonesia](https://support.google.com/googleplay/android-developer/contact/plad_id), and provide necessary documentation to support your declaration. For example:
+        *   If your app is engaged in the activity of information technology-based money lending services in accordance with OJK regulation no. 77/POJK.01/2016 (as may be amended from time to time), you must submit a copy of your valid licence for our review.
+    *   Ensure that the developer account name matches the name of the associated registered business name provided through your declaration.
+3.  **Philippines**
+    *   Complete the [personal loan app declaration for the Philippines](https://support.google.com/googleplay/android-developer/contact/plad_ph), and provide necessary documentation to support your declaration.
+        *   All financing and lending companies offering loans via online lending platforms (OLP) must obtain a SEC registration number and the certificate of authority (CA) number from the Philippines Securities and Exchanges Commission (PSEC).
+            *   In addition, you must disclose your corporate name, business name, PSEC registration number and certificate of authority to operate a financing/lending company (CA) in your app’s description.
+        *   Apps engaged in lending-based crowdfunding activities, such as peer-to-peer (P2P) lending, or as defined under the rules and regulations governing crowdfunding (CF rules), must process transactions through PSEC-registered CF intermediaries.
 
 To ensure that Google Play remains a safe and respectful platform, we've created standards defining and prohibiting content that is harmful or inappropriate for our users.
 
@@ -358,13 +364,23 @@ Eligible apps must meet the following requirements:
 
 ### Other real-money games, contests and tournament apps
 
-For all other apps which do not meet the eligibility requirements for gambling apps noted above, we don't allow content or services that enable or facilitate users’ ability to wager, stake or participate using real money (including in-app items purchased with money) to obtain a prize of real-world monetary value. This includes, but is not limited to, online casinos, sports betting, lotteries and games that accept money and offer prizes of cash or other real-world value (except programmes permitted under the gamified loyalty programmes requirements described below).
+For all other apps that do not meet the eligibility requirements for gambling apps noted above and are not included in the ‘other real-money game pilots’ noted below, we don't allow content or services that enable or facilitate users’ ability to wager, stake or participate using real money (including in-app items purchased with money) to obtain a prize of real world monetary value. This includes, but is not limited to, online casinos, sports betting, lotteries and games that accept money and offer prizes of cash or other real-world value (except programmes permitted under the gamified loyalty programmes requirements described below).
 
 #### Examples of violations
 
 *   Games that accept money in exchange for an opportunity to win a physical or monetary prize
 *   Apps that have navigational elements or features (e.g. menu items, tabs, buttons, [WebViews](https://developer.android.com/reference/android/webkit/WebView), etc.) that provide a 'call to action' to wager, stake or participate in real-money games, contests or tournaments using real money, such as apps that invite users to 'BET!' or 'REGISTER!' or 'COMPETE!' in a tournament for a chance to win a cash prize.
 *   Apps that accept or manage wagers, in-app currencies, winnings or deposits in order to gamble for, or obtain a physical or monetary prize.
+
+Effective from 11 July 2022
+
+#### Other real-money game pilots
+
+In order to explore possible updates to the other real-money games, contests and tournament apps policy, Google Play is conducting limited-time tests for the following game types in the following regions, subject to additional terms and conditions:
+
+| **Game type** | **Region** | **Pilot period** | **How to participate** |
+| --- | --- | --- | --- |
+| Online crane games | Japan only | 11 July 2022 to 11 July 2023 | [Click here to apply](https://support.google.com/googleplay/android-developer/contact/ocgform) |
 
 ### Gamified loyalty programmes
 
@@ -447,21 +463,32 @@ To ensure that Google Play remains a safe and respectful platform, we've created
 
 * * *
 
+Effective from 11 October 2022
+
 User-generated content
 ----------------------
 
 User-generated content (UGC) is content that users contribute to an app, and which is visible to or accessible by at least a subset of the app's users.
 
-Apps that contain or feature UGC must:
+Apps that contain or feature UGC, including apps which are specialised browsers or clients to direct users to a UGC platform, must implement robust, effective and ongoing UGC moderation that:
 
-*   require that users accept the app's terms of use and/or user policy before users can create or upload UGC;
-*   define objectionable content and behaviours (in a way that complies with Play’s Developer Programme Policies), and prohibit them in the app’s Terms of Use or user policies;
-*   implement robust, effective and ongoing UGC moderation, as is reasonable and consistent with the type of UGC hosted by the app
-    *   In the case of live-streaming apps, objectionable UGC must be removed as close to real time as reasonably possible;
-    *   In the case of augmented reality (AR) apps, UGC moderation (including the in-app reporting system) must account for both objectionable AR UGC (e.g. a sexually explicit AR image) and sensitive AR anchoring location (e.g. AR content anchored to a restricted area, such as a military base or a private property where AR anchoring may cause issues for the property owner);
-*   provide a user-friendly, in-app system for reporting objectionable UGC and take action against that UGC where appropriate;
-*   remove or block abusive users who violate the app's Terms of Use and/or user policy;
-*   provide safeguards to prevent in-app monetisation from encouraging objectionable user behaviour.
+*   Requires users to accept the app's terms of use and/or user policy before users can create or upload UGC;
+*   Defines objectionable content and behaviours (in a way that complies with Google Play Developer Programme Policies), and prohibits them in the app’s terms of use or user policies;
+*   Conducts UGC moderation, as is reasonable and consistent with the type of UGC hosted by the app;
+    *   In the case of augmented reality (AR) apps, UGC moderation (including the in-app reporting system) must account for both objectionable AR UGC (e.g. a sexually explicit AR image) and sensitive AR anchoring location (e.g. AR content anchored to a restricted area, such as a military base, or a private property where AR anchoring may cause issues for the property owner).
+*   Provides an in-app system for reporting objectionable UGC and users, and takes action against that UGC and/or user where appropriate;
+*   Provides an in-app system for blocking UGC and users;
+*   Provides safeguards to prevent in-app monetisation from encouraging objectionable user behaviour.
+
+#### **Incidental sexual content**
+
+Sexual content is considered 'incidental' if it appears in a UGC app that (1) provides access to primarily non-sexual content, and (2) does not actively promote or recommend sexual content. Sexual content defined as illegal by applicable law and [child endangerment](https://support.google.com/googleplay/android-developer/answer/9878809) content is not considered 'incidental' and are not permitted.    
+
+UGC apps may contain incidental sexual content if all of the following requirements are met: 
+
+*   Such content is hidden by default behind filters that require at least two user actions in order to completely disable (e.g. behind an obfuscating interstitial or precluded from view by default unless 'safe search' is disabled).
+*   Children, as defined in the [Families policy,](https://support.google.com/googleplay/android-developer/answer/9893335) are explicitly prohibited from accessing your app using age screening systems such as a [neutral age screen](https://support.google.com/googleplay/android-developer/answer/9867159?visit_id=637661037575013539-1915084824&rd=1#neutral-agescreen) or an appropriate system as defined by applicable law**.**
+*   Your app provides accurate responses to the content rating questionnaire regarding UGC, as required by the [content ratings policy](https://support.google.com/googleplay/android-developer/answer/9898843).
 
 Apps whose primary purpose is featuring objectionable UGC will be removed from Google Play. Similarly, apps that end up being used primarily for hosting objectionable UGC, or that develop a reputation among users of being a place where such content thrives, will also be removed from Google Play.
 
@@ -623,8 +650,6 @@ In addition to the requirements above, the table below describes requirements fo
 | Your app targets children | Your app must not include an SDK that is not approved for use in child-directed services. See [Designing apps for children and families](https://support.google.com/googleplay/android-developer/answer/9893335) for full policy language and requirements. |
 | Your app collects or links persistent device identifiers (e.g. IMEI, IMSI, SIM Serial #, etc.) | Persistent device identifiers may not be linked to other personal and sensitive user data or resettable device identifiers except for the purposes of <br><br>*   Telephony linked to a SIM identity (e.g. Wi-Fi calling linked to an operator account) and<br>*   Enterprise device management apps using device owner mode.<br><br>These uses must be prominently disclosed to users as specified in the [user data policy](https://support.google.com/googleplay/android-developer/answer/10144311).<br><br>Please [consult this resource](https://developer.android.com/training/articles/user-data-ids) for alternative unique identifiers.<br><br>Please read the [ads policy](https://support.google.com/googleplay/android-developer/answer/9857753) for additional guidelines for Android advertising ID. |
 
-Effective 20 July 2022
-
 #### Data safety section
 
 All developers must complete a clear and accurate Data safety section for every app detailing collection, use and sharing of user data. The developer is responsible for the accuracy of the label and keeping this information up to date. Where relevant, the section must be consistent with the disclosures made in the app’s privacy policy. 
@@ -743,10 +768,11 @@ App inventory data queried from Play-distributed apps may never be sold nor shar
 
 The Accessibility API cannot be used to:
 
-*   Change user settings without their permission unless authorised by a parent or guardian through a parental control app or by authorised administrators through enterprise management software; 
-*   Prevent the ability for users to disable or uninstall any app or service, 
-*   Work around Android built-in privacy controls and notifications, or
+*   Change user settings without their permission or prevent the ability for users to disable or uninstall any app or service unless authorised by a parent or guardian through a parental control app or by authorised administrators through enterprise management software; 
+*   Work around Android built-in privacy controls and notifications; or
 *   Change or leverage the user interface in a way that is deceptive or otherwise violates Google Play developer policies. 
+
+The Accessibility API is not designed and cannot be requested for remote call audio recording. 
 
 The use of the Accessibility API must be documented in the Google Play listing.
 
@@ -757,6 +783,26 @@ Apps with a core functionality intended to directly support people with disabili
 Apps not eligible for **IsAccessibilityTool** may not use the flag and must meet prominent disclosure and consent requirements as outlined in the [user data policy](https://support.google.com/googleplay/android-developer/answer/10144311?hl=en-GB&ref_topic=9877467) as the accessibility-related functionality is not obvious to the user. Please refer to the [AccessibilityService API](https://support.google.com/googleplay/android-developer/answer/10964491?hl=en) Help Centre article for more information.
 
 Apps must use more narrowly scoped [APIs and permissions](https://developer.android.com/privacy/best-practices#permissions) in lieu of the Accessibility API when possible to achieve the desired functionality. 
+
+Effective from 11 July 2022
+
+#### **Request install packages permission**
+
+The [REQUEST\_INSTALL\_PACKAGES](https://developer.android.com/reference/android/Manifest.permission#REQUEST_INSTALL_PACKAGES) permission allows an application to request the installation of app packages.​​ To use this permission, your app’s core functionality must include: 
+
+*   Sending or receiving app packages; and
+*   Enabling user-initiated installation of app packages. 
+
+Permitted functionalities include:
+
+*   Web browsing or search; or
+*   Communication services that support attachments; or
+*   File sharing, transfer or management; or
+*   Enterprise device management. 
+
+Core functionality is defined as the main purpose of the app. The core functionality, as well as any core features that comprise this core functionality, must all be prominently documented and promoted in the app's description. 
+
+The REQUEST\_INSTALL\_PACKAGES permission may not be used to perform self updates, modifications or the bundling of other APKs in the asset file unless for device management purposes. All updates or installing of packages must abide by Google Play’s [device and network abuse](https://support.google.com/googleplay/android-developer/answer/9888379?hl=en-GB&ref_topic=9877467) policy and must be initiated and driven by the user.
 
 * * *
 
@@ -802,7 +848,7 @@ To ensure that Google Play remains a safe and respectful platform, we've created
 *   Apps that misrepresent or do not accurately and clearly describe their functionality:
     *   An app that claims to be a racing game in its description and screenshots, but is actually a puzzle block game using a picture of a car.
     *   An app that claims to be an antivirus app, but only contains a text guide explaining how to remove viruses.
-*   Apps that feature medical or health-related content or functionalities that are misleading or potentially harmful.
+*   Apps that feature medical or health-related content or functionalities that are misleading or potentially harmful. For example, we do not allow apps that claim to have oximetry functionality that is solely app-based. Oximeter apps must be supported by external hardware, wearable or dedicated smartphone sensors designed to support oximetry functionality. These supported apps must also contain disclaimers in the metadata stating that they are not intended for medical use, are only designed for general fitness and wellness purposes, are not a medical device, and must properly disclose the compatible hardware model/device model.
 *   Apps that claim functionalities that are not possible to implement, such as insect repellent apps, even if it is represented as a prank, fake, joke, etc.
 *   Apps that are improperly categorised, including, but not limited to the app rating or app category.
 *   Demonstrably deceptive or false content that may interfere with voting processes.
@@ -811,8 +857,8 @@ To ensure that Google Play remains a safe and respectful platform, we've created
 
 ![](//lh3.googleusercontent.com/A1eTZ0k5mqZNzUIiekEmGzLcw2Jxy4anLVoa7w5unaJInstFQEl5oYl6TpY9XUn6Mwt6=w660)
 
-(1) This app features medical or health-related claims (cure cancer) that is misleading  
-(2) This apps claim functionalities that are not possible to implement (using your phone as a breathalyser)
+(1) This app features medical or health-related claims (cure cancer) that is misleading.  
+(2) This app claims functionalities that are not possible to implement (using your phone) as a breathalyser.
 
 ### Deceptive device settings changes
 
@@ -827,7 +873,7 @@ Additionally, we do not allow:
 
 ### Enabling dishonest behaviour
 
-We don't allow apps that help users to mislead others or are functionally deceptive in any way, including, but not limited to: apps that generate or facilitate the generation of ID cards, social security numbers, passports, diplomas, credit cards and driving licences. Apps must provide accurate disclosures, titles, descriptions and images/video regarding the app's functionality and/or content, and should perform as reasonably and accurately expected by the user.
+We don't allow apps that help users to mislead others or are functionally deceptive in any way, including, but not limited to: apps that generate or facilitate the generation of ID cards, social security numbers, passports, diplomas, credit cards, bank accounts and driving licences. Apps must provide accurate disclosures, titles, descriptions and images/video regarding the app's functionality and/or content and should perform as reasonably and accurately expected by the user.
 
 Additional app resources (for example, game assets) may only be downloaded if they are necessary for the users' use of the app. Downloaded resources must be compliant with all Google Play policies, and before beginning the download, the app should prompt users and clearly disclose the download size.
 
@@ -869,6 +915,22 @@ We do not allow apps or developer accounts that:
 *   impersonate any person or organisation, or that misrepresent or conceal their ownership or primary purpose. 
 *   that engage in coordinated activity to mislead users. This includes, but isn’t limited to, apps or developer accounts that misrepresent or conceal their country of origin and that direct content at users in another country.
 *   coordinate with other apps, sites, developers or other accounts to conceal or misrepresent developer or app identity or other material details, where app content relates to politics, social issues or matters of public concern.
+
+* * *
+
+ Effective 1 November 2022
+
+### Google Play's target API level policy
+
+To provide users with a safe and secure experience, Google Play requires the following target API levels for **all apps**:
+
+**New apps and app updates MUST** target an Android API level within one year of the latest major Android version release. New apps and app updates that fail to meet this requirement will be prevented from app submission in Play Console.
+
+**Existing Google Play apps that are not updated** and that do not target an API level within two years of the latest major Android version release, will not be available to new users with devices running newer versions of Android OS. Users who have previously installed the app from Google Play will continue to be able to discover, re-install and use the app on any Android OS version that the app supports.
+
+For technical advice on how to meet the target API level requirement, please consult the [migration guide](https://developer.android.com/distribute/best-practices/develop/target-sdk.html). 
+
+For exact timelines, please refer to this [Help Centre article](https://support.google.com/googleplay/android-developer/answer/11926878).
 
 * * *
 
@@ -1426,28 +1488,29 @@ Families ads programme
 
 If you serve ads in your app, and the target audience for your app only includes children as described in the [Families policy](https://support.google.com/googleplay/android-developer/answer/9893335), then you must use ad SDKs that have self-certified compliance with Google Play policies, including the Ad SDK certification requirements below. If the target audience for your app includes both children and older users, you must implement age screening measures and make sure that ads shown to children come exclusively from one of these self-certified ad SDKs. Apps in the Designed for Families programme are required to only use self-certified ad SDKs.
 
-The use of Google Play certified ad SDKs is only required if you are using ad SDKs to serve ads to children. The following are permitted without an ad SDK's self-certification with Google Play; however, you are still responsible for ensuring that your ad content and data collection practices are compliant with Play's [user data policy](https://support.google.com/googleplay/android-developer/answer/9888076) and [Families policy](https://support.google.com/googleplay/android-developer/answer/9893335):
+The use of Google Play certified ad SDKs is only required if you are using ad SDKs to serve ads to children. The following are permitted without an ad SDK's self-certification with Google Play. However, you are still responsible for ensuring that your ad content and data collection practices are compliant with Google Play's [user data policy](https://support.google.com/googleplay/android-developer/answer/9888076) and [Families policy](https://support.google.com/googleplay/android-developer/answer/9893335):
 
-*   In-house advertising whereby you use SDKs to manage cross-promotion of your apps or other owned media and merchandising
-*   Entering into direct deals with advertisers whereby you use SDKs for inventory management
+*   In-house advertising whereby you use SDKs to manage cross-promotion of your apps or other owned media and merchandising.
+*   Entering into direct deals with advertisers whereby you use SDKs for inventory management.
 
 **Ad SDK certification requirements**
 
-*   Define what are objectionable ad content and behaviours and prohibit them in the ad SDK's terms or policies. The definitions  should comply with Play’s Developer Programme Policies.
+*   Define what are objectionable ad content and behaviours and prohibit them in the ad SDK's terms or policies. The definitions  should comply with Google Play Developer Programme Policies.
 *   Create a method to rate your ad creatives according to age-appropriate groups. Age-appropriate groups must at least include groups for 'Everyone' and 'Mature'. The rating methodology must align with the methodology that Google supplies to SDKs once they have filled in the interest form below.
-*   Allow publishers, on a per-request or per-app basis, to request child-directed treatment for ad serving. Such treatment must be in compliance with applicable laws and regulations, such as the [US Children's Online Privacy and Protection Act (COPPA)](https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children%27s-privacy) and the EU [General Data Protection Regulation (GDPR)](https://gdpr.eu/). Google Play requires ad SDKs to disable personalised ads, interest-based advertising and remarketing as part of the child-directed treatment.
-*   Allow publishers to select ad formats that are compliant with [Play’s families ads and monetisation policy](https://play.google.com/about/families/ads-monetization/), and meet the requirement of the [Teacher-Approved programme](https://playacademy.exceedlms.com/sl/044a202e). 
+*   Allow publishers, on a per-request or per-app basis, to request child-directed treatment for ad serving. Such treatment must be in compliance with applicable laws and regulations, such as the [US Children's Online Privacy and Protection Act (COPPA)](https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children&#39;s-privacy) and the EU [General Data Protection Regulation (GDPR)](https://gdpr.eu/). Google Play requires ad SDKs to disable personalised ads, interest-based advertising and remarketing as part of the child-directed treatment.
+*   Allow publishers to select ad formats that are compliant with Google Play's [Families Ads and Monetisation policy](https://play.google.com/about/families/ads-monetization/), and meet the requirement of the [Expert Approved programme](https://playacademy.exceedlms.com/sl/044a202e). 
 *   Ensure that when real-time bidding is used to serve ads to children, the creatives have been reviewed and privacy indicators are propagated to the bidders.
-*   Provide Google with sufficient information, such as information indicated in the [interest form](https://docs.google.com/forms/d/e/1FAIpQLSc8msikGDxjTHHFmIECoitMnpudaCbtrb_hhgzpUOznPhDoBw/viewform?p=adnet&visit_id=637244930778989316-3754351249&rd=1) below, to verify the ad SDK's compliance with all certification requirements, and respond in a timely manner to any subsequent requests for information.
+*   Provide Google with sufficient information, such as information indicated in the [interest form](https://docs.google.com/forms/d/e/1FAIpQLSc8msikGDxjTHHFmIECoitMnpudaCbtrb_hhgzpUOznPhDoBw/viewform?p=adnet&visit_id=637244930778989316-3754351249&rd=1) below, to verify the ad SDK's compliance with all certification requirements, and respond in a timely manner to any subsequent requests for information, such as submitting new version releases to verify the ad SDK version’s compliance with all certification requirements.
+*   Self-certify that each SDK version release is compliant with the latest Google Play Developer Programme Policies.
 
 _Note: Ad SDKs must support ad serving that complies with all relevant statutes and regulations concerning children that may apply to their publishers._
 
 Mediation requirements for serving platforms when serving ads to children:
 
-*   only use Play-certified ad SDKs or implement safeguards necessary to ensure that all ads served from mediation comply with these requirements; and
+*   Only use Google Play certified ad SDKs or implement safeguards necessary to ensure that all ads served from mediation comply with these requirements; and
 *   Pass the information necessary to mediation platforms to indicate the ad content rating and any applicable child-directed treatment.
 
-Developers can find a [list of self-certified ad SDKs](https://support.google.com/googleplay/android-developer/answer/9283445) here.
+Developers can find a list of self-certified ad SDKs [here](https://support.google.com/googleplay/android-developer/answer/9283445).
 
 Also, developers can share this [interest form](https://support.google.com/googleplay/android-developer/?p=adnet) with ad SDKs who wish to become self-certified.
 
@@ -1587,25 +1650,40 @@ If you do not agree with the rating assigned to your app, you can appeal directl
 
 * * *
 
+Effective 11 August 2022
+
 News
 ----
 
-An app that declares itself as a 'News' app in Play Console ('News apps') must meet all of the following requirements.
+A News app is an app that:
+
+*   Declares itself as a 'News' app in the Google Play Console, or
+*   Lists itself within the 'News and magazine' category on the Google Play Store and describes itself as 'news' in its app title, icon, developer name or description.
+
+Examples of apps within the 'News and magazine' category that qualify as News apps:
+
+*   Apps that describe themselves as 'news' in app descriptions, including but not limited to:
+    *   Latest news
+    *   Newspaper
+    *   Breaking news
+    *   Local news
+    *   Daily news
+*   Apps with the word 'News' in app titles, icons or developer name.
+
+However, if apps contain primarily user-generated content (e.g. social media apps), they should not declare themselves as News apps, and are not considered to be News apps.
 
 News apps that require a user to purchase a membership must provide an in-app content preview for users prior to purchase. 
 
-News apps MUST:
+News apps must:
 
-*   provide ownership information about the news publisher and its contributors including, but not limited to, the official website for the news published in your app, valid and verifiable contact information, and the original publisher of each article, and 
-*   have a dedicated website or in-app page that is clearly labelled as containing contact information, is easy to find (e.g. linked at the bottom of the home page or in the site navigation bar), and provides valid contact information for the news publisher, including at least a contact email address and phone number.
+*   Provide ownership information about the app and the source of news articles including, but not limited to, the original publisher or author of each article. In cases where it is not customary to list individual authors for articles, the news app must be the original publisher of the articles. Please note that links to social media accounts are not sufficient forms of author or publisher information. 
+*   Have a dedicated website or in-app page that is clearly labelled as containing contact information, is easy to find (e.g. linked at the bottom of the home page or in the site navigation bar), and provides valid contact information for the news publisher, including either a contact email address or a phone number. Please note that links to social media accounts are not sufficient forms of publisher contact information.
 
-Please note that links to social media accounts are not sufficient forms of publisher contact information. Additionally, apps that contain primarily user-generated content (e.g. social media apps) should not declare themselves as News apps.
+News apps must not:
 
-News apps MUST NOT:
-
-*   contain significant spelling and/or grammatical errors,
-*   contain only static content (e.g. content that is several months old), and 
-*   have affiliate marketing or ad revenue as its primary purpose.  
+*   Contain significant spelling and/or grammatical errors,
+*   Contain only static content (e.g. content that is more than three months old), or
+*   Have affiliate marketing or ad revenue as its primary purpose.  
 
 Please note that News apps _may_ use ads and other forms of marketing to monetise as long as the app’s primary purpose isn’t to sell products and services or generate advertising revenue.
 
@@ -1750,30 +1828,25 @@ Network traffic from inside the instant app must be encrypted using a TLS protoc
 
 * * *
 
-Effective 11 May 2022
-
 ### **Android emoji policy**
 
-Our emoji policy is designed to promote an inclusive and consistent user experience across the Google platform. 
+Our emoji policy is designed to promote an inclusive and consistent user experience. To accomplish that, all apps must support the latest version of [Unicode emoji](https://www.unicode.org/emoji/techindex.html) when running on Android 12+. 
 
-Apps running on Android 12 and above must comply with the latest Unicode version within four months of public availability.
+Apps that use default Android emoji without any custom implementations already use the latest version of Unicode emoji when running on Android 12+. 
 
-In order to remain compliant, developers MUST follow one of the options:
+Apps with custom emoji implementations, including those provided by third-party libraries, must fully support the latest Unicode version when running on Android 12+ within four months after new Unicode emoji are released.
 
-*   If [AppCompat](https://developer.android.com/jetpack/androidx/releases/appcompat) is already in use, make sure emoji is enabled.
-*   Use an existing [EmojiCompat](https://developer.android.com/reference/androidx/emoji/text/EmojiCompat) library across all surfaces within the app. This should work with custom views that directly use [StaticLayout](https://developer.android.com/reference/android/text/StaticLayout).
-*   Update the handling and font/images for emoji based on the latest version of Unicode.
+Consult this [guide](https://developer.android.com/guide/topics/ui/look-and-feel/emoji2) to learn how to support modern emoji.
 
 Use the emoji examples below to test if your app is compliant with the latest Unicode version:
 
 | Examples | Unicode version |
 | --- | --- |
+| 🫠 🫱🏼‍🫲🏿 🫰🏽 | [14.0](https://emojipedia.org/emoji-14.0/) |
 | 😶‍🌫️ 🧔🏻‍♀️ 🧑🏿‍❤️‍🧑🏾 | [13.1](https://emojipedia.org/emoji-13.1/) |
 | 🥲 🥷🏿 🐻‍❄️ | [13.0](https://emojipedia.org/unicode-13.0/) |
 | 🧑🏻‍🦰 🧑🏿‍🦯 👩🏻‍🤝‍👩🏼 | [12.1](https://emojipedia.org/emoji-12.1/) |
 | 🦩 🦻🏿 👩🏼‍🤝‍👩🏻 | [12.0](https://emojipedia.org/emoji-12.0/) |
-
-Please consult [this resource](https://developer.android.com/guide/topics/ui/look-and-feel/emoji2) for additional emoji compatibility guidance.
 
 * * *
 
@@ -1813,11 +1886,13 @@ We strongly recommend that you let your existing users know if you change the ta
 
 Misrepresentation of any information about your app in the Play Console, including in the target audience and content section, may result in removal or suspension of your app, so it is important to provide accurate information.
 
+* * *
+
 ### Families policy requirements
 
 If one of the target audiences for your app is children, you must comply with the following requirements. Failure to satisfy these requirements may result in app removal or suspension.
 
-1.  **App content:** Your app's content that is accessible to children must be appropriate for children.
+1.  **App content:** Your app's content that is accessible to children must be appropriate for children. If your app contains content that is not globally appropriate, but that content is deemed appropriate for child users in a particular region, the app may be available in that region ([limited regions](https://support.google.com/googleplay/android-developer/answer/9899234)) but will remain unavailable in other regions.
 2.  **App functionality:** Your app must not merely provide a web view of a website or have a primary purpose of driving affiliate traffic to a website, regardless of ownership of the website. 
     *   We are constantly exploring ways to enable new experiences for children app developers. If you are interested in joining our trusted web app pilot for education apps, please submit your interest [here](https://docs.google.com/forms/d/e/1FAIpQLSePvuUWWfnPKyeSR5fHRDeTgeHZr-eXpMA_wT3uynu78pSlQQ/viewform).
 3.  **Play Console answers:** You must accurately answer the questions in the Play Console regarding your app and update those answers to accurately reflect any changes to your app. This includes, but is not limited to, accurately disclosing your app’s interactive elements on the content rating questionnaire, such as:
@@ -1825,15 +1900,15 @@ If one of the target audiences for your app is children, you must comply with th
     *   Your app shares user-provided information with third parties; and
     *   Your app shares the user’s physical location with other users.
 4.  **Ads:** If your app displays ads to children or to users of unknown age, you must:
-    *   only use [Google Play-certified ad SDKs](https://support.google.com/googleplay/android-developer/answer/9900633) to display ads to those users;
-    *   ensure that ads displayed to those users do not involve interest-based advertising (advertising targeted at individual users who have certain characteristics based on their online browsing behaviour) or remarketing (advertising targeted at individual users based on previous interaction with an app or website); 
-    *   ensure that ads displayed to those users present content that is appropriate for children;
-    *   ensure that ads displayed to those users follow the Families ad format requirements; and
-    *   ensure compliance with all applicable legal regulations and industry standards relating to advertising to children.
+    *   Only use [Google Play-certified ad SDKs](https://support.google.com/googleplay/android-developer/answer/9900633) to display ads to those users;
+    *   Ensure that ads displayed to those users do not involve interest-based advertising (advertising targeted at individual users who have certain characteristics based on their online browsing behaviour) or remarketing (advertising targeted at individual users based on previous interaction with an app or website); 
+    *   Ensure that ads displayed to those users present content that is appropriate for children;
+    *   Ensure that ads displayed to those users follow the Families ad format requirements; and
+    *   Ensure compliance with all applicable legal regulations and industry standards relating to advertising to children.
 5.  **Data practices:** You must disclose the collection of any [personal and sensitive information](https://support.google.com/googleplay/android-developer/answer/9888076#personal_sensitive) from children in your app, including through APIs and SDKs called or used in your app. Sensitive information from children includes, but is not limited to, authentication information, microphone and camera sensor data, device data, Android ID and ad usage data. You must also ensure that your app follows the data practices below:
     *   You must not transmit Android advertising identifier (AAID), SIM Serial, Build Serial, BSSID, MAC, SSID, IMEI and/or IMSI from children or users of unknown age.
     *   Device phone number must not be requested from TelephonyManager of the Android API.
-    *   Apps that solely target children may not request, collect, use or transmit location.
+    *   Apps that solely target children may not request location permission, or collect, use and transmit [precise location](https://support.google.com/googleplay/android-developer/answer/10787469?hl=en#zippy=%2Cdata-types).
     *   Apps must use the [Companion Device Manager (CDM)](https://developer.android.com/reference/android/companion/CompanionDeviceManager) when requesting Bluetooth, unless your app is only targeting device Operating System (OS) versions that are not compatible with CDM.
 6.  **APIs and SDKs:** You must ensure that your app properly implements any APIs and SDKs.
     *   Apps that solely target children must not contain any APIs or SDKs that are not approved for use in primarily child-directed services. This includes Google Sign-In (or any other Google API service that accesses data associated with a Google Account), Google Play Games services and any other API service using OAuth technology for authentication and authorisation.
@@ -1842,7 +1917,7 @@ If one of the target audiences for your app is children, you must comply with th
     *   An appropriate message about the importance of parental supervision.
     *   A reminder to be aware of physical hazards in the real world (e.g. be aware of your surroundings).
     *   Your app must not require the usage of a device that is advised not to be used by children. (e.g. Daydream, Oculus).
-8.  **Social apps and features:** If your apps allow users to share or exchange information, you must accurately disclose these features in the [content rating questionnaire](https://support.google.com/googleplay/android-developer/answer/9859655?visit_id=637679283344610643-1951945832&rd=1#questionnaire) on the Play Developer Console. 
+8.  **Social apps and features:** If your apps allow users to share or exchange information, you must accurately disclose these features in the [content rating questionnaire](https://support.google.com/googleplay/android-developer/answer/9859655?visit_id=637679283344610643-1951945832&rd=1#questionnaire) on the Play Console. 
     *   Social apps: A social app is  an app where the main focus is to enable users to share freeform content or communicate with large groups of people. All social apps that include children in their target audience must provide an in-app reminder to be safe online and to be aware of the real world risk of online interaction before allowing child users to exchange freeform media or information. You must also require adult action before allowing child users to exchange personal information. 
     *   Social features: A social feature is any additional app functionality that enables users to share freeform content or communicate with large groups of people. Any app that includes children in their target audience and has social features, must provide an in-app reminder to be safe online and to be aware of the real world risk of online interaction before allowing child users to exchange freeform media or information. You must also provide a method for adults to manage social features for child users, including, but not limited to, enabling/disabling the social feature or selecting different levels of functionality. Finally, you must require adult action before enabling features that allow children to exchange personal information. 
     *   Adult action means a mechanism to verify that the  user is not a child and does not encourage children to falsify their age to gain access to areas of your app that are designed for adults (i.e. an adult PIN, password, date of birth, email verification, photo ID, credit card or SSN).
