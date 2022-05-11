@@ -6,44 +6,44 @@ Updated 14 February 2022
 Table of contents
 -----------------
 
-*   [A. All Travel Experiences](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_all_heading)
-*   [B. Accommodations](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_accommodations_heading)
-*   [C. Attractions](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_attractions_heading)
-*   [D. Car rentals](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_cars_heading)
-*   [E. Flights](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_flights_heading)
-*   [F. Private and Public Transport](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_rides_heading)
-*   [Booking.com dictionary](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_dictionary_heading)
-*   [Previous terms of service](https://www.booking.com/content/terms.en-gb.html#tcs_previous_terms_section)
+*   [A. All Travel Experiences](#nov2021_terms_all_heading)
+*   [B. Accommodations](#nov2021_terms_accommodations_heading)
+*   [C. Attractions](#nov2021_terms_attractions_heading)
+*   [D. Car rentals](#nov2021_terms_cars_heading)
+*   [E. Flights](#nov2021_terms_flights_heading)
+*   [F. Private and Public Transport](#nov2021_terms_rides_heading)
+*   [Booking.com dictionary](#nov2021_terms_dictionary_heading)
+*   [Previous terms of service](#tcs_previous_terms_section)
 
 Back to top
 
 A. All Travel Experiences
 -------------------------
 
-*   [A1. Definitions](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_all_definitions_subheading)
-*   [A2. About these terms](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_all_about_terms_subheading)
-*   [A3. About Booking.com](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_all_about_booking_subheading)
-*   [A4. Our Platform](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_all_platform_subheading)
-*   [A5. Our values](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_all_values_subheading)
-*   [A6. Prices](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_all_prices_subheading)
-*   [A7. Payment](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_all_payment_subheading)
-*   [A8. Policies](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_all_policies_subheading)
-*   [A9. Privacy and cookies](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_all_privacy_subheading)
-*   [A10. Accessibility requests](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_all_accessibility_subheading)
-*   [A11. Insurance](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_all_insurance_subheading)
-*   [A12. Genius](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_all_genius_subheading)
-*   [A13. Rewards, Credits & Wallet](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_all_rewards_subheading)
-*   [A14. Intellectual property rights](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_all_ipr_subheading)
-*   [A15. What if something goes wrong?](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_all_wrong_subheading)
-*   [A16. Communication with the Service Provider](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_all_communications_subheading)
-*   [A17. Measures against unacceptable behaviour](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_all_behaviour_subheading)
-*   [A18. Limitation of liability](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_all_liability_subheading)
-*   [A19. Applicable law and forum](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_all_applicable_subheading)
-*   [A20. Linked travel arrangements](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_all_linked_subheading)
+*   [A1. Definitions](#nov2021_terms_all_definitions_subheading)
+*   [A2. About these terms](#nov2021_terms_all_about_terms_subheading)
+*   [A3. About Booking.com](#nov2021_terms_all_about_booking_subheading)
+*   [A4. Our Platform](#nov2021_terms_all_platform_subheading)
+*   [A5. Our values](#nov2021_terms_all_values_subheading)
+*   [A6. Prices](#nov2021_terms_all_prices_subheading)
+*   [A7. Payment](#nov2021_terms_all_payment_subheading)
+*   [A8. Policies](#nov2021_terms_all_policies_subheading)
+*   [A9. Privacy and cookies](#nov2021_terms_all_privacy_subheading)
+*   [A10. Accessibility requests](#nov2021_terms_all_accessibility_subheading)
+*   [A11. Insurance](#nov2021_terms_all_insurance_subheading)
+*   [A12. Genius](#nov2021_terms_all_genius_subheading)
+*   [A13. Rewards, Credits & Wallet](#nov2021_terms_all_rewards_subheading)
+*   [A14. Intellectual property rights](#nov2021_terms_all_ipr_subheading)
+*   [A15. What if something goes wrong?](#nov2021_terms_all_wrong_subheading)
+*   [A16. Communication with the Service Provider](#nov2021_terms_all_communications_subheading)
+*   [A17. Measures against unacceptable behaviour](#nov2021_terms_all_behaviour_subheading)
+*   [A18. Limitation of liability](#nov2021_terms_all_liability_subheading)
+*   [A19. Applicable law and forum](#nov2021_terms_all_applicable_subheading)
+*   [A20. Linked travel arrangements](#nov2021_terms_all_linked_subheading)
 
 A1. Definitions
 
-1\. Some of the words you’ll see have very specific meanings, so please check out the ‘[Booking.com dictionary](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_dictionary_heading)’ at the end of these Terms.
+1\. Some of the words you’ll see have very specific meanings, so please check out the ‘[Booking.com dictionary](#nov2021_terms_dictionary_heading)’ at the end of these Terms.
 
 A2. About these terms
 
@@ -69,7 +69,7 @@ A2. About these terms
 
 A3. About Booking.com
 
-1\. When you book an accommodation, flight or attraction, [Booking.com B.V.](https://secure.booking.com/content/legal.en-gb.html?label=removed&sid=removed) provides and is responsible for the Platform – but not the Travel Experience itself (see A4.4 below).
+1\. When you book an accommodation, flight or attraction, [Booking.com B.V.](https://secure.booking.com/content/legal.en-gb.html?) provides and is responsible for the Platform – but not the Travel Experience itself (see A4.4 below).
 
 2\. When you book a rental car, or private or public transport, Booking.com Transport Limited provides and is responsible for the Platform – but not the Travel Experience itself (see A4.4 below).
 
@@ -100,7 +100,7 @@ A5. Our values
 
 1\. You will:
 
-*   abide by [Our values](https://secure.booking.com/trust-and-safety/values.en-gb.html?label=removed&sid=removed)
+*   abide by [Our values](https://secure.booking.com/trust-and-safety/values.en-gb.html?)
 *   comply with all applicable laws
 *   cooperate with any anti-fraud/anti-money laundering checks we need to carry out
 *   not use the Platform to cause a nuisance or make fake Bookings
@@ -153,7 +153,7 @@ A8. Policies
 
 A9. Privacy and cookies
 
-1\. If you book an accommodation, flight, or attraction, please see our [Privacy and Cookies Statement](https://secure.booking.com/content/privacy.en-gb.html?label=removed;sid=removed) for more information on privacy, cookies, and how we might contact you and process personal data
+1\. If you book an accommodation, flight, or attraction, please see our [Privacy and Cookies Statement](https://secure.booking.com/content/privacy.en-gb.html?) for more information on privacy, cookies, and how we might contact you and process personal data
 
 2\. If you book ground transport, please see the [Rentalcars.com Privacy Statement](https://www.rentalcars.com/en/privacy), [Cars.booking.com Privacy Statement](https://cars.booking.com/PrivacyPolicy.do), or [Taxi.booking.com Privacy Statement](https://taxi.booking.com/information/privacy) as appropriate to find out how we process your personal data.
 
@@ -178,7 +178,7 @@ A12. Genius
 
 4\. We may change any feature of the Genius programme, including the membership levels and the way the programme is structured.
 
-5\. For more details, visit [https://www.booking.com/genius.html](https://secure.booking.com/genius.en-gb.html?label=removed&sid=removed).
+5\. For more details, visit [https://www.booking.com/genius.html](https://secure.booking.com/genius.en-gb.html?).
 
 A13. Rewards, Credits & Wallet
 
@@ -280,7 +280,7 @@ A14. Intellectual property rights
 *   using any device or software to gather prices or other information
 *   doing anything that places undue stress on our Platform.
 
-4\. By uploading any picture to our Platform (with a review, for example), you’re confirming that it complies with [our criteria](https://secure.booking.com/reviews_guidelines.en-gb.html?label=removed&sid=removed) and that:
+4\. By uploading any picture to our Platform (with a review, for example), you’re confirming that it complies with [our criteria](https://secure.booking.com/reviews_guidelines.en-gb.html?) and that:
 
 *   it’s truthful (you haven’t altered the picture, for example, or uploaded a picture of a different property)
 *   it doesn’t contain any viruses
@@ -321,7 +321,7 @@ A17. Measures against unacceptable behaviour
 1\. We have the right to stop you making any Bookings, to cancel any Bookings you’ve already made, and/or to stop you using our Platform, our Customer Service, and/or your Account. Of course, we’ll only do this if, in our opinion, there’s a good reason to - for example:
 
 *   fraud or abuse
-*   non-compliance with [Our values](https://secure.booking.com/trust-and-safety/values.en-gb.html?label=removed&sid=removed), or with applicable laws or regulations
+*   non-compliance with [Our values](https://secure.booking.com/trust-and-safety/values.en-gb.html?), or with applicable laws or regulations
 *   inappropriate or unlawful behaviour (e.g. violence, threats or invasion of privacy) in relation to us, any of the companies we work with – or anyone else, for that matter.
 
 2\. If we cancel a Booking as a result, you won’t be entitled to a refund. We may tell you why we've cancelled your Booking, unless telling you would (a) contravene applicable laws and/or (b) prevent or obstruct the detection or prevention of fraud or other illegal activities. If you believe we have incorrectly cancelled your Booking, please contact our Customer Service team.
@@ -383,13 +383,13 @@ Back to top
 B. Accommodations
 -----------------
 
-*   [B1. Scope of this section](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_accommodations_scope_subheading)
-*   [B2. Contractual relationship](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_accommodations_contract_subheading)
-*   [B3. What we will do](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_accommodations_we_subheading)
-*   [B4. What you need to do](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_accommodations_you_subheading)
-*   [B5. Price and payment](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_accommodations_price_subheading)
-*   [B6. Amendments, cancellations and refunds](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_accommodations_amendments_subheading)
-*   [B7. What else do you need to know?](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_accommodations_know_subheading)
+*   [B1. Scope of this section](#nov2021_terms_accommodations_scope_subheading)
+*   [B2. Contractual relationship](#nov2021_terms_accommodations_contract_subheading)
+*   [B3. What we will do](#nov2021_terms_accommodations_we_subheading)
+*   [B4. What you need to do](#nov2021_terms_accommodations_you_subheading)
+*   [B5. Price and payment](#nov2021_terms_accommodations_price_subheading)
+*   [B6. Amendments, cancellations and refunds](#nov2021_terms_accommodations_amendments_subheading)
+*   [B7. What else do you need to know?](#nov2021_terms_accommodations_know_subheading)
 
 B1. Scope of this section
 
@@ -435,7 +435,7 @@ B7. What else do you need to know?
 
 We Price Match
 
-1\. We want you to get the best possible price every time. If, after you've booked your Accommodation with us, you find the same Accommodation (with the same conditions) for less on another website, we promise to refund the difference, subject to the [We Price Match](https://www.booking.com/general.en-gb.html?label=removed;tmpl=doc/rate_guarantee) terms and conditions.
+1\. We want you to get the best possible price every time. If, after you've booked your Accommodation with us, you find the same Accommodation (with the same conditions) for less on another website, we promise to refund the difference, subject to the [We Price Match](https://www.booking.com/general.en-gb.html?&tmpl=doc/rate_guarantee) terms and conditions.
 
 Partner offer
 
@@ -472,20 +472,20 @@ Damage policy
 
 How We Work
 
-9\. For info on reviews, ranking, how we make money (and more), check out [How We Work](https://secure.booking.com/content/how_we_work.en-gb.html?label=removed&sid=removed).
+9\. For info on reviews, ranking, how we make money (and more), check out [How We Work](https://secure.booking.com/content/how_we_work.en-gb.html?).
 
 Back to top
 
 C. Attractions
 --------------
 
-*   [C1. Scope of this section](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_attractions_scope_subheading)
-*   [C2. Contractual relationship](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_attractions_contract_subheading)
-*   [C3. What we will do](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_attractions_we_subheading)
-*   [C4. What you need to do](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_attractions_you_subheading)
-*   [C5. Price and payment](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_attractions_price_subheading)
-*   [C6. Amendments, cancellations and refunds](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_attractions_amendments_subheading)
-*   [C7. What else do you need to know?](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_attractions_know_subheading)
+*   [C1. Scope of this section](#nov2021_terms_attractions_scope_subheading)
+*   [C2. Contractual relationship](#nov2021_terms_attractions_contract_subheading)
+*   [C3. What we will do](#nov2021_terms_attractions_we_subheading)
+*   [C4. What you need to do](#nov2021_terms_attractions_you_subheading)
+*   [C5. Price and payment](#nov2021_terms_attractions_price_subheading)
+*   [C6. Amendments, cancellations and refunds](#nov2021_terms_attractions_amendments_subheading)
+*   [C7. What else do you need to know?](#nov2021_terms_attractions_know_subheading)
 
 C1. Scope of this section
 
@@ -523,20 +523,20 @@ C7. What else do you need to know?
 
 How We Work
 
-1\. For info on reviews, ranking, how we make money (and more), check out [How We Work](https://secure.booking.com/content/how_we_work.en-gb.html?label=removed&sid=removed).
+1\. For info on reviews, ranking, how we make money (and more), check out [How We Work](https://secure.booking.com/content/how_we_work.en-gb.html?).
 
 Back to top
 
 D. Car rentals
 --------------
 
-*   [D1. Scope of this section](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_cars_scope_subheading)
-*   [D2. Contractual relationship](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_cars_contract_subheading)
-*   [D3. What we will do](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_cars_we_subheading)
-*   [D4. What you need to do](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_cars_you_subheading)
-*   [D5. Price and payment](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_cars_price_subheading)
-*   [D6. Amendments, cancellations and refunds](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_cars_amendments_subheading)
-*   [D7. What else do you need to know?](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_cars_know_subheading)
+*   [D1. Scope of this section](#nov2021_terms_cars_scope_subheading)
+*   [D2. Contractual relationship](#nov2021_terms_cars_contract_subheading)
+*   [D3. What we will do](#nov2021_terms_cars_we_subheading)
+*   [D4. What you need to do](#nov2021_terms_cars_you_subheading)
+*   [D5. Price and payment](#nov2021_terms_cars_price_subheading)
+*   [D6. Amendments, cancellations and refunds](#nov2021_terms_cars_amendments_subheading)
+*   [D7. What else do you need to know?](#nov2021_terms_cars_know_subheading)
 
 D1. Scope of this section
 
@@ -683,20 +683,20 @@ Late Pick-up/early drop-off
 
 How We Work
 
-5\. For info on reviews, ranking, how we make money (and more), check out [How We Work](https://secure.booking.com/content/how_we_work.en-gb.html?label=removed&sid=removed).
+5\. For info on reviews, ranking, how we make money (and more), check out [How We Work](https://secure.booking.com/content/how_we_work.en-gb.html?).
 
 Back to top
 
 E. Flights
 ----------
 
-*   [E1. Scope of this section](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_flights_scope_subheading)
-*   [E2. Contractual relationship](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_flights_contract_subheading)
-*   [E3. What we will do](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_flights_we_subheading)
-*   [E4. What you need to do](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_flights_you_subheading)
-*   [E5. Price and payment](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_flights_price_subheading)
-*   [E6. Amendments, cancellations and refunds](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_flights_amendments_subheading)
-*   [E7. What else do you need to know?](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_flights_know_subheading)
+*   [E1. Scope of this section](#nov2021_terms_flights_scope_subheading)
+*   [E2. Contractual relationship](#nov2021_terms_flights_contract_subheading)
+*   [E3. What we will do](#nov2021_terms_flights_we_subheading)
+*   [E4. What you need to do](#nov2021_terms_flights_you_subheading)
+*   [E5. Price and payment](#nov2021_terms_flights_price_subheading)
+*   [E6. Amendments, cancellations and refunds](#nov2021_terms_flights_amendments_subheading)
+*   [E7. What else do you need to know?](#nov2021_terms_flights_know_subheading)
 
 E1. Scope of this section
 
@@ -837,20 +837,20 @@ EU: Rights of disabled persons and persons with reduced mobility when travelling
 
 How We Work
 
-27\. For info on reviews, ranking, how we make money (and more), check out [How We Work](https://secure.booking.com/content/how_we_work.en-gb.html?label=removed&sid=removed).
+27\. For info on reviews, ranking, how we make money (and more), check out [How We Work](https://secure.booking.com/content/how_we_work.en-gb.html?).
 
 Back to top
 
 F. Private and Public Transport
 -------------------------------
 
-*   [F1. Scope of this section](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_rides_scope_subheading)
-*   [F2. Contractual relationship](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_rides_contract_subheading)
-*   [F3. What we will do](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_rides_we_subheading)
-*   [F4. What you need to do](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_rides_you_subheading)
-*   [F5. Price and payment](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_rides_price_subheading)
-*   [F6. Amendments, cancellations and refunds](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_rides_amendments_subheading)
-*   [F7. What else do you need to know?](https://www.booking.com/content/terms.en-gb.html#nov2021_terms_rides_know_subheading)
+*   [F1. Scope of this section](#nov2021_terms_rides_scope_subheading)
+*   [F2. Contractual relationship](#nov2021_terms_rides_contract_subheading)
+*   [F3. What we will do](#nov2021_terms_rides_we_subheading)
+*   [F4. What you need to do](#nov2021_terms_rides_you_subheading)
+*   [F5. Price and payment](#nov2021_terms_rides_price_subheading)
+*   [F6. Amendments, cancellations and refunds](#nov2021_terms_rides_amendments_subheading)
+*   [F7. What else do you need to know?](#nov2021_terms_rides_know_subheading)
 
 F1. Scope of this section
 
@@ -988,7 +988,7 @@ Repair or cleaning charges
 
 How We Work
 
-4\. For info on reviews, ranking, how we make money (and more), check out [How We Work](https://secure.booking.com/content/how_we_work.en-gb.html?label=removed&sid=removed).
+4\. For info on reviews, ranking, how we make money (and more), check out [How We Work](https://secure.booking.com/content/how_we_work.en-gb.html?).
 
 Back to top
 
@@ -1005,7 +1005,7 @@ Booking.com dictionary
 
 ‘Booking’ means the booking of a Travel Experience on our Platform, whether you pay for it now or later.
 
-‘Booking.com’, ‘us’, ‘we’ or ‘our’ means Booking.com B.V. (for accommodation, flights or attractions) or Booking.com Transport Limited (for any ground transport service). [Corporate contact](https://secure.booking.com/content/contact-us.en-gb.html?label=removed&sid=removed)
+‘Booking.com’, ‘us’, ‘we’ or ‘our’ means Booking.com B.V. (for accommodation, flights or attractions) or Booking.com Transport Limited (for any ground transport service). [Corporate contact](https://secure.booking.com/content/contact-us.en-gb.html?)
 
 ‘Booking Confirmation’ (in the ‘Car rentals’ section) means the confirmation email and voucher we send you, explaining the details of your Booking.
 
@@ -1095,22 +1095,22 @@ For reservations made before 14 February 2022
     Content
     -------
     
-    *   [Code of Good Practices](https://www.booking.com/content/terms.en-gb.html#code_of_good_practice)
-    *   [Introduction TCs](https://www.booking.com/content/terms.en-gb.html#introduction_tcs)
+    *   [Code of Good Practices](#code_of_good_practice)
+    *   [Introduction TCs](#introduction_tcs)
     *   TCs:
-        0.  [Definitions](https://www.booking.com/content/terms.en-gb.html#old_tcs_s0)
-        1.  [Scope and nature of our Service](https://www.booking.com/content/terms.en-gb.html#old_tcs_s1)
-        2.  [Prices, We Price Match, and offers facilitated by a partner company](https://www.booking.com/content/terms.en-gb.html#old_tcs_s2)
-        3.  [Privacy and cookies](https://www.booking.com/content/terms.en-gb.html#old_tcs_s3)
-        4.  [Free of charge for consumers, only Trip Providers pay!](https://www.booking.com/content/terms.en-gb.html#old_tcs_s4)
-        5.  [Credit card or bank transfer](https://www.booking.com/content/terms.en-gb.html#old_tcs_s5)
-        6.  [Pre-payment, cancellation, no-show and fine print](https://www.booking.com/content/terms.en-gb.html#old_tcs_s6)
-        7.  [(Further) correspondence and communication](https://www.booking.com/content/terms.en-gb.html#old_tcs_s7)
-        8.  [Ranking, preferred programme, stars and guest reviews](https://www.booking.com/content/terms.en-gb.html#old_tcs_s8)
-        9.  [Disclaimer](https://www.booking.com/content/terms.en-gb.html#old_tcs_s9)
-        10.  [Intellectual property rights](https://www.booking.com/content/terms.en-gb.html#old_tcs_s10)
-        11.  [Applicable law, jurisdiction, and dispute resolution](https://www.booking.com/content/terms.en-gb.html#old_tcs_s11)
-        12.  [About Booking.com and the support companies](https://www.booking.com/content/terms.en-gb.html#old_tcs_s12)
+        0.  [Definitions](#old_tcs_s0)
+        1.  [Scope and nature of our Service](#old_tcs_s1)
+        2.  [Prices, We Price Match, and offers facilitated by a partner company](#old_tcs_s2)
+        3.  [Privacy and cookies](#old_tcs_s3)
+        4.  [Free of charge for consumers, only Trip Providers pay!](#old_tcs_s4)
+        5.  [Credit card or bank transfer](#old_tcs_s5)
+        6.  [Pre-payment, cancellation, no-show and fine print](#old_tcs_s6)
+        7.  [(Further) correspondence and communication](#old_tcs_s7)
+        8.  [Ranking, preferred programme, stars and guest reviews](#old_tcs_s8)
+        9.  [Disclaimer](#old_tcs_s9)
+        10.  [Intellectual property rights](#old_tcs_s10)
+        11.  [Applicable law, jurisdiction, and dispute resolution](#old_tcs_s11)
+        12.  [About Booking.com and the support companies](#old_tcs_s12)
     
     Code of Good Practices
     ----------------------
@@ -1167,7 +1167,7 @@ For reservations made before 14 February 2022
     
     Sometimes cheaper rates are available on our Platform for a specific stay, product or service, however, these rates made available by Trip Providers may carry special restrictions and conditions, for example non-cancelable and non-refundable. Please check the relevant product, service and reservation conditions and details thoroughly for any such conditions prior to making your reservation.
     
-    We want you to pay the lowest price possible for your product and service of choice. Should you find your property of choice booked through the Platform, with the same Trip conditions, at a lower rate on the Internet after you have made a reservation through us, we will match the difference between our rate and the lower rate under the terms and conditions of the [We Price Match](https://www.booking.com/general.en-gb.html?label=removed&tmpl=doc/rate_guarantee). Our We Price Match promise does not apply to non-accommodations related products and services.
+    We want you to pay the lowest price possible for your product and service of choice. Should you find your property of choice booked through the Platform, with the same Trip conditions, at a lower rate on the Internet after you have made a reservation through us, we will match the difference between our rate and the lower rate under the terms and conditions of the [We Price Match](https://www.booking.com/general.en-gb.html?&tmpl=doc/rate_guarantee). Our We Price Match promise does not apply to non-accommodations related products and services.
     
     The currency converter is for information purposes only and should not be relied upon as accurate and real time; actual rates may vary.
     
@@ -1188,7 +1188,7 @@ For reservations made before 14 February 2022
     3\. Privacy and cookies
     -----------------------
     
-    Booking.com respects your privacy. Please have a look at our [privacy and cookies policy](https://www.booking.com/general.en-gb.html?label=removed&tmpl=docs/privacy-policy) for further information.
+    Booking.com respects your privacy. Please have a look at our [privacy and cookies policy](https://www.booking.com/general.en-gb.html?&tmpl=docs/privacy-policy) for further information.
     
     4\. Free of charge for consumers, only Trip Providers pay!
     ----------------------------------------------------------
@@ -1268,7 +1268,7 @@ For reservations made before 14 February 2022
     
     By uploading photos/images onto our system (for instance in addition to a review) you certify, warrant and agree that you own the copyright to the photos/images and that you agree that Booking.com may use the uploaded photos/images on its (mobile) website and app, and in (online/offline) promotional materials and publications and as Booking.com at its discretion sees fit. You are granting Booking.com a non-exclusive, worldwide, irrevocable, unconditional, perpetual right and license to use, reproduce, display, have reproduced, distribute, sublicense, communicate and make available the photos/images as Booking.com at its discretion sees fit. By uploading these photos/images the person uploading the picture(s) accepts full legal and moral responsibility of any and all legal claims that are made by any third parties (including, but not limited to, accommodation owners) due to Booking.com publishing and using these photos/images. Booking.com does not own or endorse the photos/images that are uploaded. The truthfulness, validity and right to use of all photos/images is assumed by the person who uploaded the photo, and is not the responsibility of Booking.com. Booking.com disclaims all responsibility and liability for the pictures posted. The person who uploaded the photo warrants that the photos/images shall not contain any viruses, Trojan horses or infected files and shall not contain any pornographic, illegal, obscene, insulting, objectionable or inappropriate material and does not infringe any third party (intellectual property right, copyright or privacy) rights. Any photo/image that does not meet the aforesaid criteria will not be posted and/or can be removed/deleted by Booking.com at any time and without prior notice.
     
-    Booking.com is entitled, with immediate effect, to deny or limit access to our Platform, our (customer) service and/or your Booking.com account, and/or to cancel a confirmed reservation, and/or prevent a reservation from being made by you in the event of any alleged or reasonably suspected (i) form of fraud or abuse, (ii) non-compliance with applicable laws and/or regulations, (iii) non-compliance with Booking.com [values and guidelines](https://www.booking.com/trust-and-safety/values.en-gb.html?label=removed&sid=removed.html), (iv) inappropriate or unlawful behaviour, which includes but is not limited to the following: violence, threat, harassment, discrimination, hate speech, endangerment, invasion of privacy, human trafficking, exploitation of children, and obscenity in relation to Booking.com (or its employees and agents), the Trip Provider (or its employees and agents), and/or third parties, or (v) other circumstances that – at Booking.com's sole discretion – reasonably justify Booking.com taking any of the aforementioned measures.
+    Booking.com is entitled, with immediate effect, to deny or limit access to our Platform, our (customer) service and/or your Booking.com account, and/or to cancel a confirmed reservation, and/or prevent a reservation from being made by you in the event of any alleged or reasonably suspected (i) form of fraud or abuse, (ii) non-compliance with applicable laws and/or regulations, (iii) non-compliance with Booking.com [values and guidelines](https://www.booking.com/trust-and-safety/values.en-gb.html?), (iv) inappropriate or unlawful behaviour, which includes but is not limited to the following: violence, threat, harassment, discrimination, hate speech, endangerment, invasion of privacy, human trafficking, exploitation of children, and obscenity in relation to Booking.com (or its employees and agents), the Trip Provider (or its employees and agents), and/or third parties, or (v) other circumstances that – at Booking.com's sole discretion – reasonably justify Booking.com taking any of the aforementioned measures.
     
     10\. Intellectual property rights
     ---------------------------------
