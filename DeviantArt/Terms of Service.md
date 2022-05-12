@@ -3,7 +3,7 @@ About Us: Terms of Service
 
 **Introduction**
 
-Please read these Terms of Service ("Terms") carefully. They contain the legal terms and conditions that govern your use of services provided to you by DeviantArt, including information, text, images, graphics, data or other materials ("Content") and products and services provided through [www.DeviantArt.com](https://www.deviantart.com/) , [www.deviantart.com/shop](https://www.deviantart.com/shop) , Sta.sh and other DeviantArt mobile applications as well as all elements, software, programs and code forming or incorporated in to [www.DeviantArt.com](https://www.deviantart.com/) (the "Service"). This Service is operated by DeviantArt, Inc. ("DeviantArt"). DeviantArt is also referred to in these Terms as "we", "our", and "us".
+Please read these Terms of Service ("Terms") carefully. They contain the legal terms and conditions that govern your use of services provided to you by DeviantArt, including information, text, images, graphics, data or other materials ("Content") and products and services provided through [www.DeviantArt.com](https://www.deviantart.com/) , [www.deviantart.com/shop](https://www.deviantart.com/shop) , Sta.sh, DeviantArt Protect and other DeviantArt mobile applications as well as all elements, software, programs and code forming or incorporated in to [www.DeviantArt.com](https://www.deviantart.com/) (the "Service"). This Service is operated by DeviantArt, Inc. ("DeviantArt"). DeviantArt is also referred to in these Terms as "we", "our", and "us".
 
   
 
@@ -240,3 +240,22 @@ Your use of Cryptocurrency Payment Services is subject to certain fees and excha
   
 
 Certain transactions (e.g., underpayment and overpayment of cryptocurrency transactions) may be subject to additional fees by the Cryptocurrency Payment Services provider. In the case of BitPay, please refer to the following [article](https://support.bitpay.com/hc/en-us/articles/360000051746-How-to-claim-a-refund-from-a-BitPay-merchant-refund-email) for additional information.
+
+  
+
+  
+
+**23\. DeviantArt Protect**
+
+  
+
+DeviantArt enables you to use its DeviantArt Protect service (for qualifying images stored in Sta.sh or qualifying images submitted as deviations), in order to detect potential infringements of your images that you submitted or uploaded in the ways specified below. By using DeviantArt Protect, you agree and acknowledge the following:
+
+1.  The DeviantArt Protect service is limited to detecting potentially similar or near-identical images to your images identified on DeviantArt or various blockchains (for more details on the specific platforms scanned, see our [updated list](http://www.deviantartprotect.com/)). There might be other similar images that we will not detect, and therefore, we encourage you to keep track of existing works on different platforms.
+2.  To use DeviantArt Protect, you will need to open an account with DeviantArt, and agree to these terms and to the DeviantArt [general privacy policy](https://www.deviantart.com/about/policy/privacy/).
+3.  For images eligible for the DeviantArt Protect service, when a potential infringement is identified, we will send you a notice via email or via platform notification, of any potential similar image found. Upon receiving such a notice, you may choose if you wish to take action regarding such images or not (for example, by filing a DMCA takedown notice).
+4.  We will not cause or initiate any legal procedures with respect to the similar images. If you believe that one of our results is infringing upon your image, we encourage you to enter the relevant platform, and submit a takedown notice independently. DeviantArt will not be responsible, in any event, for such procedures. All results are indicating some similarity, but in no event will we determine or suggest if such work is indeed infringing or not.
+5.  DeviantArt Protect for images uploaded to Sta.sh:  
+    You can upload up to 10 images and up to 2GB for free coverage by the DeviantArt Protect service. To receive coverage of the DeviantArt Protect service for any additional images, you will need to upgrade for a relevant Core Membership. Find out more about our membership, pricing, storage and plans [here](https://www.deviantart.com/core-membership).
+6.  DeviantArt Protect for images published on DeviantArt as deviations:  
+    For Core Members, we provide the DeviantArt Protect service for all images published as deviations. For non-Core users, we offer the DeviantArt Protect service for 90 days as of the day when the image was submitted as a deviation.
