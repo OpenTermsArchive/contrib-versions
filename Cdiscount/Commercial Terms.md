@@ -258,7 +258,7 @@ Les modes de paiement listés ci-après peuvent être proposés par CDISCOUNT :
   
 (i) Cartes bancaires : Visa, Mastercard.  
   
-(ii) Paiement en « 4 fois » : le paiement en « 4 fois » peut être effectué par carte bancaire conformément aux conditions générales du paiement en « 4 fois », dont vous devez prendre connaissance au moment de la passation de votre commande.  Les conditions générales du paiement en « 4 fois » sont accessibles [en cliquant ici](https://i2.cdscdn.com/resources/InterestRateConfiguration/4f.pdf?rnd=790653C4).
+(ii) Paiement en « 4 fois » : le paiement en « 4 fois » peut être effectué par carte bancaire conformément aux conditions générales du paiement en « 4 fois », dont vous devez prendre connaissance au moment de la passation de votre commande.  Les conditions générales du paiement en « 4 fois » sont accessibles [en cliquant ici](https://i1.cdscdn.com/odr/ImagesOK/CommercialOffer/conditions_74150202204010857229655.pdf).
 
  
 
@@ -1242,7 +1242,7 @@ Cdiscount se réserve le droit de résilier l’Abonnement au Service pour motif
 
 La résiliation de l’Abonnement sera effective immédiatement, sans préavis ni indemnité auprès de l’Abonné qui n’aurait pas respecté les présentes CGA et n'entraîne aucun remboursement du prix du Service.
 
-Le solde de la Cagnotte de l’Abonné éventuellement disponible à la date de résiliation effective de l’Abonnement au Service sera définitivement perdu. 
+Le solde de la Cagnotte de l’Abonné éventuellement disponible à la date de résiliation effective de l'Abonnement au Service sera définitivement perdu. 
 
   
 **7.2 Résiliation par l’Abonné**
@@ -1785,7 +1785,7 @@ Le bon d’achat est valable un (1) an à compter de sa date d’émission et ut
 4.1. Livraison garantie le jour J  
   
   
-Pour toute commande déun ou plusieurs Produits Jeux Vidéos en précommande pour laquelle vous avez sélectionné un mode de livraison à domicile Express, Cdiscount vous garantit une livraison chez vous le jour de la sortie officielle nationale du ou des Produits Jeux Vidéos précommandés, et ce, quel que soit le montant de votre commande.  
+Pour toute commande d’un ou plusieurs Produits Jeux Vidéos en précommande pour laquelle vous avez sélectionné un mode de livraison à domicile Express, Cdiscount vous garantit une livraison chez vous le jour de la sortie officielle nationale du ou des Produits Jeux Vidéos précommandés, et ce, quel que soit le montant de votre commande.  
   
 4.2. Livraison offerte dès vingt-cinq euros (25 €)  
   
