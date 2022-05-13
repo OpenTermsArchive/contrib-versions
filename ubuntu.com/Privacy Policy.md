@@ -43,6 +43,7 @@ Specific details about personal data collection can be found in the relevant pri
 *   [Online competitions privacy notice ›](https://ubuntu.com/legal/data-privacy/online-competitions)
 *   [Confidentiality agreement privacy notice ›](https://ubuntu.com/legal/data-privacy/unilateral-nda)
 *   [CUBE Beta privacy notice ›](https://ubuntu.com/legal/data-privacy/cube-beta)
+*   [Recruitment privacy notice ›](https://ubuntu.com/legal/data-privacy/recruitment)
 
 Information we collect from you
 -------------------------------
@@ -445,7 +446,7 @@ The open source software platform that runs everywhere from the smartphone, the 
 *   *   [Containers](https://ubuntu.com/containers)
     *   [Tutorials](https://ubuntu.com/tutorials)
     *   [16-04](https://ubuntu.com/16-04)
-    *   [Model-driven operations](https://ubuntu.com/model-driven-operations)
+    *   [Model-driven operations](https://ubuntu.com/model-driven-operations) [Landscape](https://ubuntu.com/landscape)
 
 * * *
 
