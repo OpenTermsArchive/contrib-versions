@@ -1242,7 +1242,7 @@ Cdiscount se réserve le droit de résilier l’Abonnement au Service pour motif
 
 La résiliation de l’Abonnement sera effective immédiatement, sans préavis ni indemnité auprès de l’Abonné qui n’aurait pas respecté les présentes CGA et n'entraîne aucun remboursement du prix du Service.
 
-Le solde de la Cagnotte de l’Abonné éventuellement disponible à la date de résiliation effective de l’Abonnement au Service sera définitivement perdu. 
+Le solde de la Cagnotte de l’Abonné éventuellement disponible à la date de résiliation effective de l'Abonnement au Service sera définitivement perdu. 
 
   
 **7.2 Résiliation par l’Abonné**
@@ -1898,7 +1898,7 @@ Nonobstant la clause de réserve de propriété, et à compter du transfert des 
   
 5.3.1   Aucun retard de livraison n’autorise le Client Pro à annuler, totalement ou partiellement, sa commande ou à refuser la livraison des Produits, sans que Cdiscount n’ait été en mesure de constater effectivement et préalablement, la réalité du grief qui lui est reproché par le Client Pro. En tout état de cause, le retour des Produits ne peut intervenir qu’à condition d’avoir fait l’objet de l’accord exprès et préalable de Cdiscount, dans le respect des stipulations de l’article 7.  
    
-5.3.2. Aucune pénalité, de quelque nature que ce soit, ne peut être appliquée par le Client Pro é Cdiscount lorsque le manquement allégué par le Client Pro est dû à une circonstance extérieure à la volonté de Cdiscount et/ou, même partiellement, à la faute ou à la négligence du Client Pro.  
+5.3.2. Aucune pénalité, de quelque nature que ce soit, ne peut être appliquée par le Client Pro à Cdiscount lorsque le manquement allégué par le Client Pro est dû à une circonstance extérieure à la volonté de Cdiscount et/ou, même partiellement, à la faute ou à la négligence du Client Pro.  
    
 5.3.3. Dans les autres cas, l’application de pénalités suppose que Cdiscount ait été en mesure de contrôler la réalité des griefs qui lui sont reprochés par le Client Pro. En conséquence, aucune pénalité ne saurait être appliquée de manière unilatérale et non contradictoire par le Client Pro. Toute compensation avec une somme due par le Client Pro à Cdiscount suppose, en outre, que Cdiscount ait expressément reconnu, par écrit et préalablement, la réalité du grief justifiant l’application des pénalités.  
    
