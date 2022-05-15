@@ -1242,7 +1242,7 @@ Cdiscount se réserve le droit de résilier l’Abonnement au Service pour motif
 
 La résiliation de l’Abonnement sera effective immédiatement, sans préavis ni indemnité auprès de l’Abonné qui n’aurait pas respecté les présentes CGA et n'entraîne aucun remboursement du prix du Service.
 
-Le solde de la Cagnotte de l’Abonné éventuellement disponible à la date de résiliation effective de l’Abonnement au Service sera définitivement perdu. 
+Le solde de la Cagnotte de l’Abonné éventuellement disponible à la date de résiliation effective de l'Abonnement au Service sera définitivement perdu. 
 
   
 **7.2 Résiliation par l’Abonné**
