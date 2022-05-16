@@ -17,10 +17,6 @@ Privacy Policy
 Privacy Policy
 --------------
 
-Publication date: 2 May 2022
-
-Effective date: 2 May 2022
-
 This Privacy Policy describes how RealtimeBoard, Inc. dba Miro, including its affiliates and subsidiaries (collectively, **Miro** and also referred to as **our**, **us** and **we**) collects, uses and discloses personal data, as well as any choices you have with respect to this personal data.
 
 When we refer to “Miro”, we mean the Miro entity that acts as the controller or processor of your personal data, explained in more detail in the “Identifying the Data Controller and Processor” section below.
@@ -96,11 +92,11 @@ Miro uses Other Data for the purposes of our legitimate interests in operating o
     
 *   **To develop, test and provide search, learning and productivity tools and additional features.** Miro tries to make the Services as useful as possible. For example, we make Services suggestions based on historical use and predictive models, identify organizational trends and insights, customize your experience of the Services, or to create new features and products.
     
-*   **To conduct market and user research.** To improve our Services and troubleshoot new products and features, we may carry out research. For example we may survey Customers (including Admins, Users and other contacts) or third parties about their interests, the effectiveness of our marketing campaigns and customer satisfaction.
+*   **To conduct market and user research.** To improve our Services and troubleshoot new products and features, we may carry out research. For example we may survey Customers (including Admins, Users and other contacts) or third parties about customer satisfaction, user experience, the effectiveness of our marketing campaigns, and their broader interests.
     
 *   **To send emails and other communications.** 
     
-    *   We may send you service, transactional, technical and other administrative communications, such as communications about your account, our Service offerings, changes to the Services, and important Services-related notices, such as security and fraud notices. These communications are considered part of the Services and you may not opt out of them.
+    *   We may send you service, transactional, technical and other administrative communications, such as communications about your account, our Service offerings, changes to the Services, and important Services-related notices, such as security and fraud notices. These communications are considered part of the Services.
         
     *   In addition, if you have opted-in, we sometimes send emails about new product features, recommendations and promotional communications, or other news about Miro. You can opt-out of these messages at any time by using the unsubscribe link included in all of these communications.
         
@@ -250,6 +246,8 @@ If you are based in California, the following provisions also apply:
         
     *   Suggesting that you may receive a different price or rate for goods or services or a different level or quality of goods or services.
         
+
+Last updated: 16 May 2022
 
 ##### Do you have any questions?
 
