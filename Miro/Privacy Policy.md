@@ -17,6 +17,8 @@ Privacy Policy
 Privacy Policy
 --------------
 
+Last updated: 16 May 2022
+
 This Privacy Policy describes how RealtimeBoard, Inc. dba Miro, including its affiliates and subsidiaries (collectively, **Miro** and also referred to as **our**, **us** and **we**) collects, uses and discloses personal data, as well as any choices you have with respect to this personal data.
 
 When we refer to “Miro”, we mean the Miro entity that acts as the controller or processor of your personal data, explained in more detail in the “Identifying the Data Controller and Processor” section below.
@@ -246,8 +248,6 @@ If you are based in California, the following provisions also apply:
         
     *   Suggesting that you may receive a different price or rate for goods or services or a different level or quality of goods or services.
         
-
-Last updated: 16 May 2022
 
 ##### Do you have any questions?
 
