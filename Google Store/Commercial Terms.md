@@ -3,7 +3,7 @@ Google Store Sales Terms
 
 Effective Date: March 15, 2022
 
-Welcome to the online Google Store (the “**Store**”) provided by Google Commerce Limited whose principal place of business is at Gordon House, Barrow Street, Dublin 4, Ireland, Company number IE512080, VAT number IE9825613N (“**Google**” or “**we**”). These Google Store Sales Terms and any other terms referred to in these terms, such as terms provided in the [Returns Policy](https://support.google.com/store/answer/2411741) (Devices), [Cancellation Policy](https://support.google.com/store/answer/11264766) (Subscription Services) and [Warranty Center](https://support.google.com/store/go/warranty) (“**Terms**”), apply between you and Google when you purchase devices and/or accessories (“**Device**”) and/or subscription services (“**Subscription Services**”) from the Store.
+Welcome to the online Google Store (the “**Store**”) provided by Google Commerce Limited whose principal place of business is at Gordon House, Barrow Street, Dublin 4, Ireland, Company number IE512080, VAT number IE9825613N (“**Google**” or “**we**”). These Google Store Sales Terms and any other terms referred to in these terms, such as terms provided in the [Returns Policy](https://support.google.com/store/answer/2411741) (Devices), [Cancellation Policy](https://support.google.com/store/answer/11264766) (Subscription Services) and [Warranty Center](https://support.google.com/product-documentation/troubleshooter/3070579) (“**Terms**”), apply between you and Google when you purchase devices and/or accessories (“**Device**”) and/or subscription services (“**Subscription Services**”) from the Store.
 
 Please carefully read the Terms. Your purchase of a Device and/or Subscription Service requires that you accept the Terms. If you do not understand the Terms or do not accept any part of them, do not place an order.
 
@@ -21,7 +21,7 @@ Beside these Terms, we also publish a [Google Privacy Policy](https://policies.g
 
 4\. **Support**
 
-Please refer to [Google Store Support](https://support.google.com/store/?rd=2#topic=2411735) to learn more about the support offered by Google in connection with your Device and/or Subscription Service.
+Please refer to [Google Store Support](https://support.google.com/store/) to learn more about the support offered by Google in connection with your Device and/or Subscription Service.
 
 5\. **Ordering and Payment for Devices**
 
@@ -59,7 +59,7 @@ When purchasing a new Pixel phone, you may be offered the option to trade in you
 
 We may not be able to deliver Devices to, or offer Subscription Services in, all locations. Where there are restrictions on delivery these will be communicated to you at the beginning of the ordering process if not before. You can also consult our [Country Availability](https://support.google.com/store/answer/2462844?ref_topic=2803008) page for locations to which we will deliver your Device [or offer a Subscription Service](https://support.google.com/store/answer/2462844). If Google does not ship a Device to the address you provided, you will be sent a notice and you will not be charged for your order.
 
-If you do not receive your Device, please contact [Google Store Support](https://support.google.com/store/?rd=2#topic=2411735). For more information on missing shipments see [here](https://support.google.com/store/answer/6380752).
+If you do not receive your Device, please contact [Google Store Support](https://support.google.com/store/). For more information on missing shipments see [here](https://support.google.com/store/answer/6380752).
 
 For information on delivery dates, times and costs, please see [here](https://support.google.com/store/answer/6380752). Although we will aim to deliver your Device as soon as reasonably possible, you agree that any delivery dates or times provided by Google (or a delivery agent) are estimates only and are not guaranteed.
 
@@ -149,19 +149,19 @@ If you tell Google that you have not received your Device, the Device is defecti
 
 19\. **Device Warranty**
 
-Details of any manufacturer's warranty can be found in the Device box and in the [Warranty Center](https://support.google.com/store/go/warranty). This limited warranty will only apply to consumers purchasing a Device from Google or its authorised resellers in the EEA (except France), UK or Switzerland, except as otherwise stated in the limited warranty.
+Details of any manufacturer's warranty can be found in the Device box and in the [Warranty Center](https://support.google.com/product-documentation/troubleshooter/3070579). This limited warranty will only apply to consumers purchasing a Device from Google or its authorised resellers in the EEA (except France), UK or Switzerland, except as otherwise stated in the limited warranty.
 
 20\. **Legal Guarantee**
 
 If you’re a UK based consumer, and you’ve agreed to these Terms as part of a purchase of goods (such as a phone), then UK consumer laws provide you with a legal guarantee covering the goods that we provide. Under this guarantee, if the goods are not (i) as described, (ii) fit for certain purposes, or (iii) of satisfactory quality, then we’re liable for any such lack of conformity that you discover.
 
-For more detail regarding your rights in relation to defective Devices, please see Section 21 below. Your rights under the legal guarantee aren’t limited by any other commercial guarantees that we provide (such as the manufacturer warranty). If you want to make a claim under the legal guarantee, please contact [Google Store Support](https://support.google.com/store/?rd=2#topic=2411735).
+For more detail regarding your rights in relation to defective Devices, please see Section 21 below. Your rights under the legal guarantee aren’t limited by any other commercial guarantees that we provide (such as the manufacturer warranty). If you want to make a claim under the legal guarantee, please contact [Google Store Support](https://support.google.com/store/).
 
 21\. **Device Defects**
 
 In addition to your rights set out at Sections 19 (Device Warranty), if the Device is or becomes defective through no fault of your own, you may have statutory rights such as the right to repair or replacement of the defective Device, or in some cases, a price reduction, or the right to cancel the contract for a refund.
 
-If you have a defective Device, please contact [Google Store Support](https://support.google.com/store/?rd=2#topic=2411735). If the Device is manufactured by a third party, Google may refer you to the applicable manufacturer of the Device for initial support with Device defects.
+If you have a defective Device, please contact [Google Store Support](https://support.google.com/store/). If the Device is manufactured by a third party, Google may refer you to the applicable manufacturer of the Device for initial support with Device defects.
 
 Google may require that you return the defective Device before sending you a replacement. You must then ensure that the correct Device is returned to Google. Google is not required to send you a replacement until we have received the correct Device. If, at its discretion, Google provides you with an advanced replacement device before we receive your defective Device, and you do not return the defective Device within a reasonable time (as communicated to you in notification emails), you authorize Google to charge your original form of payment for the full value of the replacement Device.
 
