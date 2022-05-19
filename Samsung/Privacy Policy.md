@@ -23,7 +23,11 @@ SHARING YOUR PERSONAL INFORMATION
 
 We may share your personal information with affiliate companies of Samsung Electronics, as well as with companies that provide services on behalf of Samsung Electronics. We may also share your personal information with trusted partner companies, such as mobile service providers or insurance companies, that provide you with products and services that you request and information about products and services you may be interested in. We share personal information with law enforcement agencies when it’s required by law or to protect Samsung Electronics and its users.
 
-*   ### [GENERAL PRIVACY POLICY](javascript:void(0))
+*   ### [
+    
+    GENERAL PRIVACY POLICY
+    
+    ](javascript:void(0))
     
     _Effective Date: 3rd June 2021_
     
@@ -31,7 +35,11 @@ We may share your personal information with affiliate companies of Samsung Elect
     
     It’s important that you check back often for updates to the Privacy Policy. We may update this Privacy Policy periodically to reflect changes in our personal information practices with respect to the Services or changes in applicable law. We’ll post a notice on our website or on your device to notify you in advance of material changes to our Privacy Policy and indicate at the top of the Privacy Policy when it was most recently updated. The most current version of the Privacy Policy will always be available here: [https://account.samsung.com/membership/pp](https://account.samsung.com/membership/pp). In addition to this Privacy Policy, Samsung may also provide specific privacy notices related to certain products and services. In the event of any deviation between the terms of this Privacy Policy and a specific privacy notice, the terms of the specific privacy notice control.
     
-*   ### [WHAT INFORMATION DO WE COLLECT?](javascript:void(0))
+*   ### [
+    
+    WHAT INFORMATION DO WE COLLECT?
+    
+    ](javascript:void(0))
     
     Samsung Electronics collects your personal information in a variety of ways.
     
@@ -85,7 +93,11 @@ We may share your personal information with affiliate companies of Samsung Elect
     
     You can choose not to provide us with certain types of information, such as information requested as part of registering a Samsung account. In some cases, this may limit your ability to use some Services. We’ll do our best to explain these limitations when we’re asking for your information so you can make an informed decision. For example, Samsung Cloud allows you to back up your information and create a restore point; however, Samsung Cloud was not designed nor intended to store or process sensitive information.
     
-*   ### [HOW DO WE USE YOUR INFORMATION?](javascript:void(0))
+*   ### [
+    
+    HOW DO WE USE YOUR INFORMATION?
+    
+    ](javascript:void(0))
     
     _We use the information we collect for the following purposes:_
     
@@ -123,7 +135,11 @@ We may share your personal information with affiliate companies of Samsung Elect
     
     Samsung Electronics is the data controller of your personal information as described above. For some direct marketing communications and some customised advertising in Europe, Samsung Electronics (UK) Limited, which is located in the United Kingdom, is also the data controller of your personal information. Some of our European Samsung subsidiaries also process your personal information in their countries. Where applicable, the European Samsung subsidiary has its own local Privacy Policy on its website to explain this.
     
-*   ### [WHO DO WE SHARE YOUR INFORMATION WITH?](javascript:void(0))
+*   ### [
+    
+    WHO DO WE SHARE YOUR INFORMATION WITH?
+    
+    ](javascript:void(0))
     
     We will disclose your information internally within our business, but only to those who need it to further provide Services or to help with your requests.
     
@@ -136,11 +152,19 @@ We may share your personal information with affiliate companies of Samsung Elect
     *   **Other Parties in Connection with Corporate Transactions:** We may disclose your information to a third party as part of a merger or transfer, acquisition or sale, or in the event of a bankruptcy.
     *   **Other Parties with Your Consent or at Your Direction:** In addition to the disclosures described in this Privacy Policy, we may share information about you with third parties when you separately consent to or request such sharing.
     
-*   ### [HOW DO WE KEEP YOUR INFORMATION SECURE?](javascript:void(0))
+*   ### [
+    
+    HOW DO WE KEEP YOUR INFORMATION SECURE?
+    
+    ](javascript:void(0))
     
     We take data protection seriously. We’ve put in place physical and technical safeguards to keep the information we collect secure. However, please note that although we take reasonable steps to protect your information, no website, Internet transmission, computer system, or wireless connection is completely secure.
     
-*   ### [WHERE DO WE SEND YOUR DATA?](javascript:void(0))
+*   ### [
+    
+    WHERE DO WE SEND YOUR DATA?
+    
+    ](javascript:void(0))
     
     Your use of our Services will involve the transfer, storage, and processing of your personal information within and outside of your country of residence, consistent with this policy. In particular, your personal information will be transferred to the Republic of Korea. Please note that the data protection and other laws of countries to which your information may be transferred might not be as comprehensive as those in your country.
     
@@ -152,7 +176,11 @@ We may share your personal information with affiliate companies of Samsung Elect
     
     In addition, your use of the Services may also involve the transfer, storage, and processing of your personal information to other countries; such countries include, without limitation, countries in the European Economic Area, the United Kingdom, the United States of America, China, Singapore, Vietnam, India, Canada, the Philippines, and Japan. We will take appropriate measures, in compliance with applicable law, to ensure that your personal information remains protected. Such measures include the use of Standard Contractual Clauses to safeguard the transfer of data outside of the EEA. To request more information or to obtain a copy of the contractual agreements in place, contact us. See the [CONTACT US](#privacy-ctns-eleven) section.
     
-*   ### [WHAT ARE YOUR RIGHTS?](javascript:void(0))
+*   ### [
+    
+    WHAT ARE YOUR RIGHTS?
+    
+    ](javascript:void(0))
     
     Your personal information belongs to you. You can ask us to provide details about what we’ve collected, and you can ask us to delete it or correct any inaccuracies. You can also ask us to restrict or limit processing, sharing, or transfer of your personal information, as well as to provide to you your personal information that we’ve collected so you can use it for your own purposes. However, requesting the deletion of your personal information may also result in a loss of access to Services we provide. We won’t delete data that we’re required by law to retain.
     
@@ -160,7 +188,11 @@ We may share your personal information with affiliate companies of Samsung Elect
     
     To make a request concerning your rights or to make an inquiry, contact us. See the [CONTACT US](#privacy-ctns-eleven) section.
     
-*   ### [HOW LONG DO WE KEEP YOUR INFORMATION?](javascript:void(0))
+*   ### [
+    
+    HOW LONG DO WE KEEP YOUR INFORMATION?
+    
+    ](javascript:void(0))
     
     We won’t keep your personal information for longer than is necessary for the purpose for which it was collected. This means that information will be destroyed or erased from our systems when it’s no longer required.
     
@@ -174,7 +206,11 @@ We may share your personal information with affiliate companies of Samsung Elect
     2\. As required under law, a contract, or with regard to our statutory obligations  
     3\. Only for as long as is necessary for the purpose for which it was collected, is processed, or longer if required under any contract, by applicable law, or for statistical purposes, subject to appropriate safeguards.
     
-*   ### [WHAT THIRD-PARTY SERVICES DO WE USE?](javascript:void(0))
+*   ### [
+    
+    WHAT THIRD-PARTY SERVICES DO WE USE?
+    
+    ](javascript:void(0))
     
     Some of the content, advertising, and functionality in our Services is provided by third parties. These third parties may use cookies, beacons, tracking pixels, and other tools to collect information about your use of these Services. These third parties are not controlled directly by Samsung, so we recommend that you check their privacy policies to understand how they use your data.
     
@@ -182,7 +218,11 @@ We may share your personal information with affiliate companies of Samsung Elect
     
     For some apps and services, including social networks, we receive and store sign-in information, as well as other information that you allow us to receive when you connect with these apps and services.
     
-*   ### [COOKIES, BEACONS, AND SIMILAR TECHNOLOGIES](javascript:void(0))
+*   ### [
+    
+    COOKIES, BEACONS, AND SIMILAR TECHNOLOGIES
+    
+    ](javascript:void(0))
     
     We, as well as certain third parties that provide content, advertising, or other functionality in our Services, use cookies, pixels, beacons, and other technologies in certain areas of our Services.
     
@@ -209,7 +249,11 @@ We may share your personal information with affiliate companies of Samsung Elect
     
     We, along with certain third parties, may use technologies called beacons or pixels that communicate information from your device to a server. Beacons can be embedded in online content, videos, and emails, and can allow a server to read certain types of information from your device, know when you’ve viewed particular content or a particular email message, and determine the time and date on which you viewed the beacon and the IP address of your device. We and certain third parties use beacons for a variety of purposes, including to analyze the use of our Services and, along with cookies, to provide content and ads that are more relevant to you.
     
-*   ### [CONTACT US](javascript:void(0))
+*   ### [
+    
+    CONTACT US
+    
+    ](javascript:void(0))
     
     You can contact us to update your preferences, correct your information, submit a request, or ask us questions.
     
@@ -254,7 +298,11 @@ We may share your personal information with affiliate companies of Samsung Elect
     
     You can lodge a complaint with the relevant supervisory authority if you consider that our processing of your personal information infringes applicable law. Contact details for all EU supervisory authorities can be found at [https://ec.europa.eu/info/index\_en](https://ec.europa.eu/info/index_en).
     
-*   ### [PRIVACY POLICY FOR SAMSUNG ONLINE SHOP](javascript:void(0))
+*   ### [
+    
+    PRIVACY POLICY FOR SAMSUNG ONLINE SHOP
+    
+    ](javascript:void(0))
     
     **Privacy Policy of Samsung.com E-commerce Platform**
     
@@ -431,7 +479,11 @@ We may share your personal information with affiliate companies of Samsung Elect
     
     You may lodge a complaint with the relevant supervisory authority if you consider that our processing of your personal information infringes applicable law. Contact details for all EU Supervisory Authorities can be found [here](http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080).
     
-*   ### [SAMSUNG PRIVACY POLICY – SMART TV SUPPLEMENT](javascript:void(0))
+*   ### [
+    
+    SAMSUNG PRIVACY POLICY – SMART TV SUPPLEMENT
+    
+    ](javascript:void(0))
     
     Samsung’s Smart TV service offers a set of features that provide enhanced video content, customized TV experiences, movies, connections to social networking services, and the ability to control and interact with your Smart TV with voice commands. We collect, use, share, and store information through your Smart TV and the devices connected with your Smart TV in the ways described in the Samsung Privacy Policy. This Supplement provides additional details about the privacy practices of some Smart TV features.
     
@@ -487,7 +539,11 @@ We may share your personal information with affiliate companies of Samsung Elect
     
     Please note that one or more of the features described in this Smart TV Supplement may not be available to you depending on where you live.
     
-*   ### [VIEWING INFORMATION SERVICES PRIVACY NOTICE](javascript:void(0))
+*   ### [
+    
+    VIEWING INFORMATION SERVICES PRIVACY NOTICE
+    
+    ](javascript:void(0))
     
     _Effective Date: 26th October, 2020_
     
@@ -544,7 +600,11 @@ We may share your personal information with affiliate companies of Samsung Elect
     
     This Privacy Notice may be updated periodically to reflect changes in our personal information practices with respect to Viewing Information Services or changes in the applicable law. We will post a notice on our website and/or your device to notify you of any significant changes to our Privacy Notice, and indicate at the top of the notice when it was most recently updated.
     
-*   ### [INTEREST-BASED ADVERTISEMENTS PRIVACY NOTICE](javascript:void(0))
+*   ### [
+    
+    INTEREST-BASED ADVERTISEMENTS PRIVACY NOTICE
+    
+    ](javascript:void(0))
     
     _Effective Date: 26th October, 2020_
     
@@ -634,7 +694,11 @@ We may share your personal information with affiliate companies of Samsung Elect
     
     This Privacy Notice may be updated periodically to reflect changes in our personal information practices with respect to interest-based advertisements or changes in the applicable law. We will post a notice on our website and/or your device to notify you of any significant changes to our Privacy Notice, and indicate at the top of the notice when it was most recently updated.
     
-*   ### [VOICE RECOGNITION SERVICE PRIVACY NOTICE](javascript:void(0))
+*   ### [
+    
+    VOICE RECOGNITION SERVICE PRIVACY NOTICE
+    
+    ](javascript:void(0))
     
     Effective Date: 1st March, 2019
     
