@@ -15,7 +15,7 @@ We’ve made these Terms available under a [Creative Commons Sharealike license]
 Terms of Service
 ----------------
 
-These Terms govern your access to and use of the products and services we provide through or for [WordPress.com](https://wordpress.com/), [WooCommerce.com](https://woocommerce.com/), [WooCommerce Shipping & Tax](https://wordpress.org/plugins/woocommerce-services/), [WooPay](https://woo.app/), [Jetpack.com](https://jetpack.com/), [VaultPress.com](https://vaultpress.com/), [Happy.Tools](https://happy.tools/), [Jetpack CRM](https://jetpackcrm.com/), [MailPoet](http://mailpoet.com/), [WPScan.com](https://wpscan.com/), and [WordPress.com Courses](https://wpcourses.com/) (collectively, “Services”).
+These Terms govern your access to and use of the products and services we provide through or for [WordPress.com](https://wordpress.com/), [WooCommerce.com](https://woocommerce.com/), [WooCommerce Shipping & Tax](https://wordpress.org/plugins/woocommerce-services/), [WooPay](https://pay.woo.com/), [Jetpack.com](https://jetpack.com/), [VaultPress.com](https://vaultpress.com/), [Happy.Tools](https://happy.tools/), [Jetpack CRM](https://jetpackcrm.com/), [MailPoet](http://mailpoet.com/), [WPScan.com](https://wpscan.com/), and [WordPress.com Courses](https://wpcourses.com/) (collectively, “Services”).
 
 These Terms also govern visitors’ access to and use of any websites that use our Services, like the websites that our users create on WordPress.com. Please note though that the operators of those websites may also have their own separate terms of use.
 
@@ -197,7 +197,7 @@ Please note that extensions and themes are purchased and handled separately, and
 
 WooPay is a service that facilitates faster checkouts on sites using WooCommerce, by enabling you to save certain of your information to make purchases on those sites.
 
-Sites using WooCommerce may offer you the ability to use WooPay. If you elect to use WooPay, your payment method information will be saved for use on any site that has integrated WooPay. To take advantage of WooPay for future purchases, you must use the same web browser that you used to sign up for WooPay and must not have cleared your cookies (otherwise you may be required to re-enroll). You agree to follow any other steps we require to help verify your identity as part of the enrollment or purchase process, including via email or SMS text message confirmations. Enrolling in WooPay will create a WordPress.com account for you if you don’t already have one. WooPay is designed to allow you to save certain information, such as shipping and payment information, for future purchases. You must keep your WooPay information accurate and up-to-date. You can update your WooPay information by accessing your [WooPay Dashboard](https://woo.app/account/) using the email and phone number you signed up with. You should only use WooPay on a device that you own or control and it is your responsibility to prevent others from accessing your device’s web browser to help prevent unauthorized purchases through WooPay.
+Sites using WooCommerce may offer you the ability to use WooPay. If you elect to use WooPay, your payment method information will be saved for use on any site that has integrated WooPay. To take advantage of WooPay for future purchases, you must use the same web browser that you used to sign up for WooPay and must not have cleared your cookies (otherwise you may be required to re-enroll). You agree to follow any other steps we require to help verify your identity as part of the enrollment or purchase process, including via email or SMS text message confirmations. Enrolling in WooPay will create a WordPress.com account for you if you don’t already have one. WooPay is designed to allow you to save certain information, such as shipping and payment information, for future purchases. You must keep your WooPay information accurate and up-to-date. You can update your WooPay information by accessing your [WooPay Dashboard](https://pay.woo.com/account/) using the email and phone number you signed up with. You should only use WooPay on a device that you own or control and it is your responsibility to prevent others from accessing your device’s web browser to help prevent unauthorized purchases through WooPay.
 
 Even when your saved WooPay information is used for a transaction, the transaction remains only between you and the merchant. Requesting the deletion of your WooPay information will not cancel any transactions you have already made or terminate any subscriptions you have already enrolled in. To cancel a transaction or terminate a subscription, you must contact the merchant directly.
 
@@ -235,7 +235,7 @@ You also grant us a worldwide, royalty-free, transferable, sub-licensable, and n
 
 ### g. Ecommerce Services
 
-There are certain features offered via [WooCommerce](https://woocommerce.com/), [WooCommerce Shipping & Tax](https://wordpress.org/plugins/woocommerce-services/), [WordPress.com](https://wordpress.com/), and [Jetpack](https://jetpack.com/) that enable you to sell items (goods, content, services, etc.) or receive payments on your website, like [WooCommerce Payments](https://woocommerce.com/payments/), [Store](https://wordpress.com/support/store/), the [Payments feature](https://wordpress.com/support/wordpress-editor/blocks/payments/), [WooPay](https://woo.app/), and the [Pay with PayPal block](https://wordpress.com/support/pay-with-paypal/) (collectively, “Ecommerce Services”).
+There are certain features offered via [WooCommerce](https://woocommerce.com/), [WooCommerce Shipping & Tax](https://wordpress.org/plugins/woocommerce-services/), [WordPress.com](https://wordpress.com/), and [Jetpack](https://jetpack.com/) that enable you to sell items (goods, content, services, etc.) or receive payments on your website, like [WooCommerce Payments](https://woocommerce.com/payments/), [Store](https://wordpress.com/support/store/), the [Payments feature](https://wordpress.com/support/wordpress-editor/blocks/payments/), [WooPay](https://pay.woo.com/), and the [Pay with PayPal block](https://wordpress.com/support/pay-with-paypal/) (collectively, “Ecommerce Services”).
 
 If you use Ecommerce Services, the terms in this subsection apply, along with the terms for any underlying Service that you use.
 
@@ -395,6 +395,6 @@ The Agreement (together with any other terms we provide that apply to any specif
 
 Automattic may assign its rights under the Agreement without condition. You may only assign your rights under the Agreement with our prior written consent.
 
-[Print friendly version](https://en.support.files.wordpress.com/2022/04/wordpress.com-terms-of-service-wordpresscom.pdf)
+[Print friendly version](https://wpcom.files.wordpress.com/2022/05/wordpress.com-terms-of-service-wordpresscom.pdf)
 
 [**Change log**](https://wordpress.com/tos-change-log)
