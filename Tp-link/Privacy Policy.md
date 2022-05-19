@@ -106,7 +106,7 @@ TP-Link gives you choices regarding your information. For example, you can:
 *   Control how and when you want to receive notifications from us in the Mobile Apps
 *   Opt-out of our email service by clicking the “unsubscribe” link at the bottom of our emails.
 *   Not use features and Services that require you to provide your information and data, such as our community or video storage.
-*   Request account information and data deletion by emailing us at privacy.us@tp-link.com or calling us at 1-866-225-8139.
+*   Request account information and data deletion at [https://account-delete.tplinkcloud.com/](https://account-delete.tplinkcloud.com/ "https://account-delete.tplinkcloud.com/").
 
 You may not opt out of administrative emails for your registered account (e.g., emails about your transactions, policy changes, forgot password, and confirmation emails).
 
