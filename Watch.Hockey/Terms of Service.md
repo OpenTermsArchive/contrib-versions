@@ -1,6 +1,6 @@
 **TERMS OF USE**
 
-Last update March 2022
+Last update May 2022
 
 These Terms of Use (�**Terms**�) govern your access to and use of the website (�**Site**�) of Federation Internationale de Hockey (�**FIH**�) and the application (�**App**�) of FIH (collectively the �**Service**�), operated and provided by Nagravision Sarl (�**NAGRAVISION**�) and any videos, information, text, links, graphics, photos, music, sound, software, scripts, audiovisual combination, interactive features or other materials or arrangements of materials uploaded, downloaded or appearing on the Site and/or the App (collectively referred to as �**Content**�).
 
@@ -25,6 +25,8 @@ You agree that you will be solely responsible (to NAGRAVISION, and to others) fo
 ### Access to the Service
 
 When requesting the Service and by accepting these Terms on the registration page, you are entering into a legally binding contract with NAGRAVISION. The Service may entitle you to Content that is available free of charge and you may also be entitled to purchase Content.� The contract for any Content that you purchase is conditional on your submission of a permitted and valid method of payment (or subscription or promotional code, if applicable), and is at all times subject to these Terms.
+
+The App may from time to time propose content in relation to the field hockey practice, such as but not limited to, training, nutrition and performance. You acknowledge that such content, which may include text, graphics, images and other materials created by NAGRAVISION or obtained from NAGRAVISION's licensors, as well as other materials contained on or referred to in, the App (collectively, **"Content**") is provided for informational purposes and solely reflects the opinion of the contributor. The Content is not intended to be a substitute for professional medical advice, diagnosis or treatment, or for dedicated advice by a specialist. Any reliance on and use of such information by you is done at your sole direction, control and risk. The App does not recommend or endorse any specific tests, physicians, products, procedures, opinions or other information that may be mentioned in the Content. NAGRAVISION shall not incur any responsibility in relation to any error or omission in the Content.
 
 ### Fees and Payment
 
@@ -218,4 +220,4 @@ To learn about how NAGRAVISION protects your personal information, such as your 
 
 These Terms shall be treated as though executed and performed in Cheseaux- sur- Lausanne, Switzerland, and shall be governed by and construed in accordance with the Swiss laws (without regard to conflict of law principles). Any cause of action by you with respect to the App and/or the Site (and/or information, content, documents and other materials contained therein) must be instituted within one (1) year after the cause of action arose or be forever waived and barred. You expressly submit to the exclusive jurisdiction and venue of the courts of Switzerland with respect to all matters relating to these Terms or your use of the App and/or the Site, and consent to extra-territorial service of process in connection therewith. Should any part of these Terms be held invalid or unenforceable, that portion shall be construed consistent with applicable law and the remaining portions shall remain in full force and effect. To the extent that anything in or associated with the App and/or the Site is in conflict or inconsistent with these Terms, these Terms shall take precedence. Our failure to enforce any provision of these Terms shall not be deemed a waiver of such provision nor of the right to enforce such provision.
 
-These Terms are an agreement between you and NAGRAVISION Sarl, route de Geneve 22-24, 1033 Cheseaux sur Lausanne, Switzerland. If you have any questions about these Terms, please contact us at [contact@nagra.com](mailto:contact@nagra.com).
+These Terms are an agreement between you and NAGRAVISION Sarl, route de Geneve 22-24, 1033 Cheseaux sur Lausanne, Switzerland. If you have any questions about these Terms, please contact us at [sportsprivacy@nagra.com](mailto:sportsprivacy@nagra.com)
