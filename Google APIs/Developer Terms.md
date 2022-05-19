@@ -78,7 +78,7 @@ Additional Requirements for Specific API Scopes
 > 
 > **_For Google Fit Restricted Scopes:_**
 > 
-> _The Google Fit requirements in this section are enforceable as of June 22, 2022. Applications that had access to Google Fit Restricted Read Health Scopes prior to the enforcement start date will be informed by Google when to obtain their first Letter of Assessment to keep access to Google Fit Restricted Read Health Scopes. All other apps must first be verified and obtain the letter prior to being granted access to Google Fit Restricted Read Health Scopes. To learn more about the new Google Fit requirements, read the [Google Fit Developer and User Data Policy](https://developers.google.com/fit/policy)._
+> _Enforcement of the Google Fit requirements in this section began on May 18, 2022. Applications that had access to Google Fit Restricted Read Health Scopes prior to the enforcement start date will be informed by Google when to obtain their first Letter of Assessment to keep access to Google Fit Restricted Read Health Scopes. All other apps must first be verified and obtain the letter prior to being granted access to Google Fit Restricted Read Health Scopes. To learn more about the new Google Fit requirements, read the [Google Fit Developer and User Data Policy](https://developers.google.com/fit/policy)._
 
 Certain [Google OAuth API Scopes](https://developers.google.com/identity/protocols/googlescopes) (the "Restricted Scopes") are subject to additional requirements in this section.
 
