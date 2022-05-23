@@ -92,7 +92,7 @@ In addition, to the extent permitted by data protection law, Wire may disclose y
 
 To the extent that Wire transfers personal data to third parties located outside the European Economic Area (EEA) (see also the overview of third party providers above), Wire will ensure that (i) the third party is located in a state that has been recognized by the EU Commission as having an equivalent level of data protection or or/and (ii) Wire has concluded “standard data protection clauses” with the third party within the meaning of Art. 46 § 2 c) GDPR or/and (iii) there is another guarantee within the meaning of Art. 46 or exception under Art. 49 GDPR. If you use third-party services such as YouTube, Spotify, Giphy etc. via the Wire application, all data that you share with these services is subject to their privacy policies.
 
-### 13\. Processing of data in response to requests
+### 13\. Your legal rights as a data subject
 
 As a data subject within the meaning of the GDPR, you have the following rights in relation to Wire:
 
