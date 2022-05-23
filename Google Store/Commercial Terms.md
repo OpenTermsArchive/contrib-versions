@@ -13,7 +13,7 @@ When you use any Google product or service through your Device and/or any Subscr
 
 2\. **Google Payments or Guest Checkout**
 
-To place an order, you may use guest checkout or be signed in to your Google account. To use your Google account you will need to agree to the [Google Payments Terms of Service](https://support.google.com/pay/answer/7020860) and to set up a [Google Payments Account](https://payments.google.com/), which is free to set up and use. To use guest checkout, you will need to agree to the Google Payments Terms of Service.
+To place an order, you may use guest checkout or be signed in to your Google account. To use your Google account you will need to agree to the [Google Payments Terms of Service](https://support.google.com/pay/answer/7020860) and to set up a [Google Payments Account](https://payments.google.com/). To use guest checkout, you will need to agree to the Google Payments Terms of Service.
 
 3\. **Privacy**
 
