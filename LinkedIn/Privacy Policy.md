@@ -12,6 +12,8 @@ LinkedIn’s mission is to connect the world’s professionals to allow them to 
 
 This Privacy Policy applies when you use our Services (described below). We offer our users [choices](#key-terms-intro) about the data we collect, use and share as described in this Privacy Policy, [Cookie Policy](https://www.linkedin.com/legal/cookie-policy), Settings and our [Help Center.](https://www.linkedin.com/help/linkedin)
 
+Key Terms
+
 #### Choices
 
  [Settings](https://www.linkedin.com/psettings/privacy) are available to Members of LinkedIn and Visitors are provided separate controls. [Learn More](https://www.linkedin.com/help/linkedin/answer/89876).
@@ -149,6 +151,8 @@ Table of Contents
     
     Our Services are dynamic, and we often introduce new features, which may require the collection of new information. If we collect materially different personal data or materially change how we collect, use or share your data, we will notify you and may also modify this Privacy Policy.
     
+    Key Terms
+    
     #### Affiliates
     
     Affiliates are companies controlling, controlled by or under common control with us, including, for example, LinkedIn Ireland, LinkedIn Corporation, LinkedIn Singapore and Microsoft Corporation.
@@ -263,6 +267,8 @@ Table of Contents
     We use data for security, fraud prevention and investigations.
     
     We use your data (including your communications) for security purposes or to prevent or investigate possible fraud or other violations of our [User Agreement](https://www.linkedin.com/legal/user-agreement) and/or attempts to harm our Members, Visitors or others.
+    
+    Key Terms
     
     #### Social Action
     
@@ -413,6 +419,8 @@ Table of Contents
     You can contact us or use other options to resolve any complaints.
     
     If you have questions or complaints regarding this Policy, please first [contact LinkedIn](http://www.linkedin.com/help/legacy/redirect/app/ask/path/ppq/loc/na/trk/microsites-frontend_legal_privacy-policy/) online. You can also reach us by [physical mail](https://www.linkedin.com/help/linkedin/answer/79728). If contacting us does not resolve your complaint, you have more [options](https://www.linkedin.com/help/linkedin/answer/80432). Residents in the [Designated Countries](https://www.linkedin.com/help/linkedin/answer/89877) and [other regions](https://privacy.linkedin.com/regionalinfo) may also have the right to contact our Data Protection Officer [here](https://www.linkedin.com/help/linkedin/ask/TSO-DPO).If this does not resolve your complaint, Residents in the Designated Countries and other regions may have more [options](https://www.linkedin.com/help/linkedin/answer/80432) under their laws.
+    
+    Key Terms
     
     #### Consent
     
