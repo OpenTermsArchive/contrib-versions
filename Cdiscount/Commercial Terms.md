@@ -146,10 +146,19 @@ Pour les produits éligibles, le prix affiché sur la fiche produit inclus le mo
 
 Vous pouvez consulter le montant des frais de livraison applicables à votre commande en consultant la page dédiée aux modes et frais de livraison accessible [en cliquant ici](https://www.cdiscount.com/shipping/shippinginfo.html?shippingpartnerorigin=ft) ainsi que lorsque vous sélectionnez le mode de livraison de votre commande.
 
-**  
-2.2 Prix de référence  
+ **2.2 Prix de référence  
   
-**Le prix de référence d’un produit ou d’un service proposé sur le Site peut être :
+2.2.1 Les "annonces de réductions de prix"  
+**  
+Pour toute annonce de réduction de prix d’un produit proposé sur le Site, nous indiquons comme prix de référence le « _Prix le + bas sur 30j_ ».
+
+Conformément [à l’article L.112-1-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044549592/2022-05-28) du Code de la consommation, le « _Prix le + bas sous 30j_ » correspond au prix antérieur le plus bas pratiqué par le professionnel à l'égard de tous les consommateurs sur le Site au cours des trente (30) derniers jours précédant l'application de la réduction de prix.  
+  
+Dans certains cas uniquement, nous pourrons être amenés à mentionner en plus du « Prix le +bas sous 30j » un « _prix avant remise_ », correspondant au dernier prix effectivement pratiqué sur le Site avant la réduction du prix.
+
+**2.2.2 Les" prix de comparaison"**  
+  
+Le prix de comparaison d’un produit ou d’un service proposé sur le Site peut être : 
 
 \- Le « _Prix conseillé par la marque/le fabricant en xx/xxxx_ » : est le prix auquel le fabricant, la marque ou son représentant officiel (notamment l’importateur ou le distributeur des produits) nous propose/conseille de vendre le produit qu’il nous fournit. La date indiquée à côté du prix conseillé est celle à partir de laquelle ce prix nous est communiqué par le fabricant, la marque ou son représentant officiel. Ce prix est mis à jour dès lors que le fabricant, la marque ou son représentant officiel communique un nouveau prix conseillé pour le produit concerné.
 
@@ -157,9 +166,9 @@ Vous pouvez consulter le montant des frais de livraison applicables à votre com
 
 \- Le «_prix moyen constaté sur une sélection allant jusqu’à 37 sites_ » : est la moyenne des prix de vente à laquelle ce même produit est vendu par un panel de site Internet de e-commerce concurrents au nôtre, lequel peut comprendre entre 2 et 37 sites Internet. Ce prix est établi par un prestataire professionnel, indépendant de notre société, la société WORKIT ; il est actualisé une fois par mois.
 
-\- Le « _prix renseigné par le vendeur de la Marketplace_ » est le prix de référence renseigné par le vendeur de la Marketplace Cdiscount. Notre société n’intervient pas dans la détermination de ce prix de référence. 
+\- Le « _prix de comparaison renseigné par le vendeur de la Marketplace_ » est le prix de référence renseigné par le vendeur de la Marketplace Cdiscount. Notre société n’intervient pas dans la détermination de ce prix de référence. 
 
-\- Le _« prix le plus élevé effectivement pratiqué et maintenu pendant 7 jours consécutifs au cours des 3 derniers mois glissants »_ est le prix le plus élevé auquel Cdiscount a commercialisé le produit ou le service concerné pendant 7 jours consécutifs sur le Site, au cours des 3 derniers mois glissants. 
+. 
 
 _Article 3 : COMMANDES_
 -----------------------
@@ -558,7 +567,7 @@ Dans le cas où, après acceptation du colis, vous constateriez que le produit c
 
 \- en vous connectant sur votre Espace Client.
 
-et ce, au plus tard dans les trois (3) jours calendaires après réception de votre commande.
+et ce, au plus tard dans les quatorze (14) jours calendaires après réception de votre commande.
 
 _Article 8 : RETRACTATION_
 --------------------------
