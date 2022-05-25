@@ -329,13 +329,20 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             Cette base de données: [https://opendata.lillemetropole.fr/explore/dataset/vlille-realtime/](https://opendata.lillemetropole.fr/explore/dataset/vlille-realtime/) est disponible sous [https://www.etalab.gouv.fr/wp-content/uploads/2014/05/Licence\_Ouverte.pdf.](https://www.etalab.gouv.fr/wp-content/uploads/2014/05/Licence_Ouverte.pdf)
             
         *   Métropole Aix-Marseille-Provence : [source](https://transport.data.gouv.fr/datasets/reseaux-de-transports-en-commun-de-la-metropole-daix-marseille-provence-et-des-bouches-du-rhone/)
+            
         *   Metropole Nice Cote d'Azure ([https://www.etalab.gouv.fr/licence-ouverte-open-licence](https://www.etalab.gouv.fr/licence-ouverte-open-licence))
+            
         *   Communauté Urbaine du Grand Reims. Accessed from [https://transport.data.gouv.fr/datasets/zones-a-faibles-emissions-cugr/](https://transport.data.gouv.fr/datasets/zones-a-faibles-emissions-cugr/) on 22.03.2022  
             Link to licensing terms: [https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf](https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf)
+            
         *   Toulouse métropole. Accessed from [https://transport.data.gouv.fr/datasets/perimetre-zone-a-faibles-emissions-mobilite-zfem/](https://transport.data.gouv.fr/datasets/perimetre-zone-a-faibles-emissions-mobilite-zfem/) on 22.03.2022.  
             Link to licensing terms: [https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf](https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf)
+            
         *   Métropole Rouen Normandie. Accessed from [https://transport.data.gouv.fr/datasets/zfe-m-metropole-rouen-normandie/](https://transport.data.gouv.fr/datasets/zfe-m-metropole-rouen-normandie/) on 22.03.2022  
             Link to licensing terms: [https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf](https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf)
+            
+        *   Data Mauges Communauté ([https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf](https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf))
+            
     10.  **Germany**
         *   Bundesamt für Kartographie und Geodäsie - © Vermessungsverwaltungen der Bundesländer und Bundesamt für Kartographie und Geodäsie
             
@@ -376,6 +383,12 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         *   Stadt Mülheim an der Ruhr ([https://geo.muelheim-ruhr.de/open-data/nutzungsbedingungen/14043](https://geo.muelheim-ruhr.de/open-data/nutzungsbedingungen/14043))
             
         *   VGN GmbH ([https://www.vgn.de/web-entwickler/open-data/](https://www.vgn.de/web-entwickler/open-data/))
+            
+        *   GEOportal.NRW - ([https://www.geoportal.nrw/nutzungsbedingungen](https://www.geoportal.nrw/nutzungsbedingungen))
+            
+        *   Stadt Gelsenkirchen - gdi.gelsenkirchen.de ([https://gdi.gelsenkirchen.de/mapapps/resources/apps/full-page-sdi/index.html?lang=en#/datasets/iso/a574ec45-404b-47db-9d00-546bbd7b8289](https://gdi.gelsenkirchen.de/mapapps/resources/apps/full-page-sdi/index.html?lang=en#/datasets/iso/a574ec45-404b-47db-9d00-546bbd7b8289))
+            
+        *   Geoportal Sachsenatlas ([https://www.govdata.de/dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0))
             
     11.  **Great Britain**
         *   This Service contains Ordnance Survey data © Crown copyright and database right 2011, Royal Mail data © Royal Mail copyright and database right 2011, and National Statistics data © Crown copyright and database right 2011 ([https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf](https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf)). All rights reserved. © South West Coast Path Team. Contains information of Network Rail Infrastructure Limited licensed under the following [licence](https://www.networkrail.co.uk/terms-and-conditions/). Contains public sector information licensed under the [Open Government Licence v2.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/). Contains public sector information licensed under the Open Government Licence v3.0.
@@ -556,6 +569,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   DoCoMo: Docomo is a trade mark or registered trade mark of DOCOMO BIKESHARE, INC. in Japan.
             
+        *   Mirai Archive Data (GO!GNSS GO!JAPAN: [https://go.gnss.go.jp/mirai/miraiarchive/](https://go.gnss.go.jp/mirai/miraiarchive/)) accessed on 2022-05-11 Licenses: [https://go.gnss.go.jp/terms/](https://go.gnss.go.jp/terms/)
+            
     23.  **Luxembourg**
         
         © Administration du Cadastre et de la Topography (ACT)
@@ -649,6 +664,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         *   © Warszawska Kolej Dojazdowa sp. z o.o., [https://www.wkd.com.pl/](https://www.wkd.com.pl/) Google strives to update this data on an ongoing basis. However the most current version is available at the websites mentioned above. The data made available here has been enhanced from the original source by adding additional information.
             
         *   © Warszawski Transport Publiczny, [https://www.wtp.waw.pl/](https://www.wtp.waw.pl/) Google strives to update this data on an ongoing basis. However the most current version is available at the websites mentioned above. The data made available here has been enhanced from the original source by adding additional information.
+            
+        *   Main Office of Geodesy and Cartography - [http://www.gugik.gov.pl/prawa-autorskie](http://www.gugik.gov.pl/prawa-autorskie)
             
     30.  **Portugal**
         *   IgeoE - Portugal
@@ -1189,6 +1206,36 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         177.  Minnesota Geospatial Commons ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
             
+        178.  Adams County, Colorado ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
+            
+        179.  Jefferson County, Colorado ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
+            
+        180.  McGIS - McLean County ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
+            
+        181.  Atlanta Regional Commission - City of Atlanta ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
+            
+        182.  City and County of Denver ([https://creativecommons.org/licenses/by/3.0/](https://creativecommons.org/licenses/by/3.0/))
+            
+        183.  Sacramento County ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
+            
+        184.  Town of Gilbert's ([https://creativecommons.org/licenses/by/4.0/legalcode](https://creativecommons.org/licenses/by/4.0/legalcode))
+            
+        185.  City of Tempe ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
+            
+        186.  City of Grand Forks and Grand Forks County ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
+            
+        187.  Will County, Illinois ([https://www.willcountyillinois.com/Portals/0/WillCountyOpenGISDataLic.pdf](https://www.willcountyillinois.com/Portals/0/WillCountyOpenGISDataLic.pdf))
+            
+        188.  McLean County, Illinois ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
+            
+        189.  Lake County, FL ([https://www.lakecountyfl.gov/ftp/GIS/Docs4GeoHub/gis\_data\_policy.pdf](https://www.lakecountyfl.gov/ftp/GIS/Docs4GeoHub/gis_data_policy.pdf))
+            
+        190.  Manatee County, FL ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
+            
+        191.  City of Phoenix ([http://opendefinition.org/licenses/cc-by/](http://opendefinition.org/licenses/cc-by/))
+            
+        192.  UNAVCO Data Center [https://www.unavco.org/data/gps-gnss/gps-gnss.html](https://www.unavco.org/data/gps-gnss/gps-gnss.html), GPS/GNSS Data, licenses: [https://www.unavco.org/community/policies\_forms/data-policy/data-policy-pbo-highrate-gps/data-policy-pbo-highrate-gps.html](https://www.unavco.org/community/policies_forms/data-policy/data-policy-pbo-highrate-gps/data-policy-pbo-highrate-gps.html), accessed 10 May 2022.
+            
     45.  **United Arab Emirates / Abu Dhabi**
         
         Abu Dhabi Government ([https://addata.gov.ae/addata\_open\_license](https://addata.gov.ae/addata_open_license))
@@ -1283,6 +1330,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
     58.  **Morocco**
         
         OCHA Middle East and North Africa (ROMENA) - Attribution required - Creative Commons Attribution for Intergovernmental Organisations (CC BY-IGO) - ([https://data.humdata.org/about/license](https://data.humdata.org/about/license))
+        
+    59.  **Dominican Republic**
+        
+        OCHA Field Information Services Section (FISS) - [https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses)
         
 4.  **Business Listings Data.**
     
