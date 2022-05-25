@@ -244,7 +244,7 @@ By using the Service, you consent to receiving certain electronic communications
 19\. Publicity
 --------------
 
-You agree to allow us to identify you as a customer, to use your website’s name in connection with proposals to prospective customers, to hyperlink to your website’s home page, to display your logo on the Cloudflare website, and to otherwise refer to you in print or electronic form for marketing or reference purposes. If you do not wish for Cloudflare to use your name or logo in any of the preceding ways, please contact [support@cloudflare.com](mailto:support@cloudflare.com).
+You agree to allow us to identify you as a customer, to use your website’s name in connection with proposals to prospective customers, to hyperlink to your website��s home page, to display your logo on the Cloudflare website, and to otherwise refer to you in print or electronic form for marketing or reference purposes. If you do not wish for Cloudflare to use your name or logo in any of the preceding ways, please contact [support@cloudflare.com](mailto:support@cloudflare.com).
 
 20\. Contact Information
 ------------------------
