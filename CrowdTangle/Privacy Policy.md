@@ -1,6 +1,6 @@
 Data Policy
 
-Effective Date: January 10th, 2022
+Effective Date: May 26th, 2022
 
 CrowdTangle, Inc. (“CrowdTangle,” “we” or “us”) is a social analytic platform that helps publishers and media companies surface stories that matter, measure their social performance and identify influencers on social media platforms (also known as our “Platform Partners”). This Data Policy describes how CrowdTangle processes personal information of users of the CrowdTangle platform (“CrowdTangle Users”), in particular information obtained from CrowdTangle Users on the CrowdTangle website and any other website, online service, or mobile application that we operate and that links to this Data Policy (the “Services”). This Data Policy also describes our practices for handling personal information of individuals who visit, use, or interact with our Platform Partners’ websites and apps who integrate our services. We refer to CrowdTangle Users and Platform Partner users separately throughout this Data Policy, but collectively we refer to each as “you” or “your”.
 
@@ -40,7 +40,7 @@ We collect Publicly Available Content and Metrics about Platform Partner users f
 
   
 
-We process Publicly Available Content and Metrics to measure the performance of content, monitor trends, and to perform third-party fact-checking and misinformation. We obtain personal information about Platform Partner users primarily through our use of APIs provided by Platform Partners. An API is an application-programming interface that allows our services to communicate and integrate with products and services from third party integration partners, including our Platform Partners. You can learn more about how our Platform Partners disclose information to us and how to control the disclosure of information in their privacy policies. For example, for more information about how Facebook collects, uses, and shares information and how to control it, please see the [Facebook Data Policy](https://www.facebook.com/policy.php). Likewise, for more information about how Instagram collects, uses, and shares information and how to control it, please see the [Instagram Data Policy](https://help.instagram.com/519522125107875).
+We process Publicly Available Content and Metrics to measure the performance of content, monitor trends, and to perform third-party fact-checking and misinformation. We obtain personal information about Platform Partner users primarily through our use of APIs provided by Platform Partners. An API is an application-programming interface that allows our services to communicate and integrate with products and services from third party integration partners, including our Platform Partners. You can learn more about how our Platform Partners disclose information to us and how to control the disclosure of information in their privacy policies. For example, for more information about how Facebook collects, uses, and shares information and how to control it, please see the [Facebook Privacy Policy](https://facebook.com/privacy/policy/?entrypoint=crowdtangle). Likewise, for more information about how Instagram collects, uses, and shares information and how to control it, please see the [Instagram Privacy Policy](https://privacycenter.instagram.com/policy/?entrypoint=crowdtangle).
 
 ### How We Use Information
 
