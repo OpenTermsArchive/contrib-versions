@@ -8,7 +8,7 @@ These guidelines are intended for law enforcement authorities seeking informatio
   
 Twitter is a real-time global information network that lets users create and share ideas and information instantly to serve the public conversation. Twitter is what’s happening in the world and what people are talking about right now. When it happens, it happens on Twitter.
 
-For more information, please visit [about.twitter.com](https://about.twitter.com/). For the latest on Twitter's features and functionality, please visit our [Help Center](https://help.twitter.com/).  
+For more information, please visit [about.twitter.com](https://about.twitter.com/). For the latest on Twitter's features and functionality, please visit our [Help Center](https://help.twitter.com/en.html).  
  
 
 ### Account Information Requests
