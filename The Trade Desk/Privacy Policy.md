@@ -65,7 +65,7 @@ Any PII you provide to or through the Websites shall be used for the purposes fo
 *   We may use data that is not directly identifying to find other users who may have an interest in our products and services
 *   We alert you to changes and provide updates on specific features, products and services that you may be receiving from us
 
-If you no longer wish to receive marketing email communications or wish to opt out, you can follow the unsubscribe instructions contained in the emails you receive or by contacting us at [\[email protected\]](https://www.thetradedesk.com/cdn-cgi/l/email-protection)dedesk.com_._
+If you no longer wish to receive marketing email communications or wish to opt out, you can follow the unsubscribe instructions contained in the emails you receive or by contacting us at [\[email protected\]](https://www.thetradedesk.com/cdn-cgi/l/email-protection)_._
 
 **HOW WE SHARE INFORMATION**
 
