@@ -47,7 +47,7 @@ This privacy policy covers noyb.eu, support.noyb.eu and the noyb.eu newsletters.
 
 **(5) When you send us a message via our ticket system**
 
-**It’s simple:** If you send us an general request (e.g. via our webform or at our general email address) your emails go into a ticket system. Our team is then assigneing the ticket to a colleague and you will get an answer from us.  
+**It’s simple:** If you send us an general request (e.g. via our webform or at our general email address) your emails go into a ticket system. Our team will then assign the ticket to a colleague and you will get an answer from us.  
 **Purpose:** Assigning the ticket to a team member and responding to your request.  
 **Storage:** Tickets are automatically deleted within 6 months from the last communication, unless there is a legal duty to keep the ticket, such as accounting regulations or keeping evidence of legal requests.  
 **Legal Basis:** Your consent when sending us an email ("affirmative action" when sending an email to a recipient) and, in certain cases, our legitimate interest or legal duty to keep communication as evidence.  
