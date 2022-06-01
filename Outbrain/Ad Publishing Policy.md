@@ -81,7 +81,7 @@ Prohibited Categories
 
 *   No content that encourages high-risk investments or money-making schemes with the intention of profiting off user participation (i.e. "Get Rich Quick" Schemes)
 *   No Payday Loans or Cash Advance Loans
-*   No Penny Stocks, Binary Options, or Forex
+*   No Penny Stocks, or Binary Options
 *   No non-premium TV/Movie streaming boxes (acceptable brands are Mi/Xiaomi, Apple TV, and Amazon Fire stick).
 *   No Penny Auctions
 
@@ -137,7 +137,7 @@ Marketers are solely responsible for complying with applicable federal, state an
 #### Financial Services (Restricted)
 
 *   Content must comply with financial governing bodies
-*   CFDs can be promoted by managed accounts only, and upon verification by the Outbrain team.
+*   CFDs and Forex can be promoted by managed accounts only, and upon verification by the Outbrain team.
 
 #### Cryptocurrency
 
