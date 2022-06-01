@@ -455,7 +455,11 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         
         © GeoX – FÖMI – MoD Mapping Agency, 2012
         
-    17.  **Ireland**
+    17.  **Iceland**
+        
+        Contains data from the Evrópugögn database of the National Land Survey of Iceland from 3/2022 ([https://www.lmi.is/is/um-lmi/starfsemi/skilmalar-og-gjaldskra/gjaldskra](https://www.lmi.is/is/um-lmi/starfsemi/skilmalar-og-gjaldskra/gjaldskra))
+        
+    18.  **Ireland**
         *   © An Post GeoDirectory Limited 2022
             
         *   This Service includes [mapping data](https://www.osi.ie/about/open-data/) in modified form licensed from Ordnance Survey Ireland under a [Creative Commons Attribution 4.0 licence](https://creativecommons.org/licenses/by/4.0/legalcode), which includes disclaimers of warranties. © Ordnance Survey Ireland.
@@ -486,11 +490,11 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   Smart Dublin ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
             
-    18.  **Isle of Man**
+    19.  **Isle of Man**
         
         Isle of Man Government
         
-    19.  **Israel**
+    20.  **Israel**
         *   Based on mapping data from Mapa - Mapping and Publishing Ltd ("Mapa"). © Mapa - Mapping and Publishing. The mapping data is protected by international copyright laws and international copyright conventions.
             
         *   Your use of mapping data is permitted only for personal use (unless you are a business user where you can use the mapping for internal use, and in accordance with Google's terms that apply to the relevant Service) via Google's services.
@@ -503,7 +507,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   [data.gov.il](https://data.gov.il/dataset/bike_mahirlair) ([https://data.gov.il/terms](https://data.gov.il/terms))
             
-    20.  **Italy (including Vatican City and San Marino)**
+    21.  **Italy (including Vatican City and San Marino)**
         *   © Geo4Map Srl
             
         *   © 2005 ediMap di Marcello Robberto
@@ -536,11 +540,11 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   Istat – Istituto Nazionale di Statistica ([https://creativecommons.org/licenses/by/3.0/it/](https://creativecommons.org/licenses/by/3.0/it/))
             
-    21.  **Ivory Cost (Côte d'Ivoire)**
+    22.  **Ivory Cost (Côte d'Ivoire)**
         
         OCHA Côte d'Ivoire ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
         
-    22.  **Japan**
+    23.  **Japan**
         *   日本の Google マップのサービスには、第三者から提供された著作権の対象となるデータに基づいて Google が変更したビジネス リスティング データが含まれます。当該データを許可なく使用すると、Google またはその他の者が保持する著作権を侵害することになる可能性があります。また商用利用は固く禁じられています。ユーザーがビジネス リスティング データを取得することは許可されていません。
             
         *   Google および Google マップに表示されるデータの使用を許諾する第三者は、本データの使用に起因する（結果的損害を含む）いかなる損害についても責任を負わないものとします。
@@ -551,9 +555,9 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   この地図の作成にあたり、平凡社と平凡社地図出版からのライセンス提供を受けています。
             
-        *   交承 平成 25 年 110 号 JR データの内容は、株式会社交通新聞社発行の「JR 時刻表」([https://www.kotsu.co.jp/jrlogo/](https://www.kotsu.co.jp/jrlogo/)) 令和4年 4 月号に基づ いています。この時刻データを無断で転載・複写し、又は紙媒体、電磁媒体その他いかなる媒体に加工することも禁じます。
+        *   交承 平成 25 年 110 号 JR データの内容は、株式会社交通新聞社発行の「JR 時刻表」([https://www.kotsu.co.jp/jrlogo/](https://www.kotsu.co.jp/jrlogo/)) 令和4年 5 月号に基づ いています。この時刻データを無断で転載・複写し、又は紙媒体、電磁媒体その他いかなる媒体に加工することも禁じます。
             
-        *   JRバスデータの内容は、株式会社交通新聞社作成のデータ令和4年 4 月分に基づいています。この時刻データを無断転載・複写や電磁媒体等に加工することを禁じます。
+        *   JRバスデータの内容は、株式会社交通新聞社作成のデータ令和4年 5 月分に基づいています。この時刻データを無断転載・複写や電磁媒体等に加工することを禁じます。
             
         *   ジオテクノロジーズ（株）の提供する地図データに基づいています。この地図データは世界各国の著作権法および国際的な著作権協定によって保護されています。Googleの利用規約類およびポリシーにより認められている場合を除き、当該データを無断転載／複写又は加工することを禁じます。[https://business.mapfan.com/aboutmap/](https://business.mapfan.com/aboutmap/)
             
@@ -571,11 +575,11 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   Mirai Archive Data (GO!GNSS GO!JAPAN: [https://go.gnss.go.jp/mirai/miraiarchive/](https://go.gnss.go.jp/mirai/miraiarchive/)) accessed on 2022-05-11 Licenses: [https://go.gnss.go.jp/terms/](https://go.gnss.go.jp/terms/)
             
-    23.  **Luxembourg**
+    24.  **Luxembourg**
         
         © Administration du Cadastre et de la Topography (ACT)
         
-    24.  **Mexico**
+    25.  **Mexico**
         
         Source: INEGI (INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA)
         
@@ -583,7 +587,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         
         "Mapa de Ubicación de Códigos Postales para Jalisco" published by Correos de México. Accessed from [https://datos.gob.mx/busca/](https://datos.gob.mx/) on 28-03-2022
         
-    25.  **Netherlands**
+    26.  **Netherlands**
         *   © Andes B.V.
             
         *   When using public transit data for The Netherlands, the data may have been supplied by Reisinformatiegroep B.V. (9292). These data may not be used to: (a) provide any product or service that deliberately negatively affects the broad availability of open public transport information to the public (e.g., deliberately misinforms end users); or (b) provide any product or service that is unethical or tortious in respect of third parties, in particular public transport operators (e.g., promotes fare dodging). These data are not suitable for interpreting the performance of public transport operators. 9292 explicitly reserves its rights.
@@ -596,7 +600,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   NDW - Nationaal Dataportaal Wegverkeer ([https://www.ndw.nu/copyright](https://www.ndw.nu/copyright))
             
-    26.  **New Zealand**
+    27.  **New Zealand**
         *   © Auckland International Airport Ltd
             
         *   Bay of Plenty TA's
@@ -631,11 +635,11 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   This work is based on/includes [Constituency 2020 Provisional Data](https://datafinder.stats.govt.nz/layer/103481-constituency-2020-provisional/) and [Urban Rural 2019 (generalised)](https://datafinder.stats.govt.nz/layer/98752-urban-rural-2019-generalised/) which are licensed by Stats NZ for reuse under the [Creative Commons Attribution 4.0 International licence](https://creativecommons.org/licenses/by/4.0/). Crown copyright ©.
             
-    27.  **Northern Ireland**
+    28.  **Northern Ireland**
         
         © Ordnance Survey of Northern Ireland
         
-    28.  **Norway**
+    29.  **Norway**
         *   Elveg©Statens kartverk and Statens vegvesen, N50 Kartdata©Statens kartverk
             
         *   © Bergen kommune
@@ -644,7 +648,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   © Norwegian Polar Institute
             
-    29.  **Poland**
+    30.  **Poland**
         *   © MGGP Aero
             
         *   © ZSIP Powiat Olesnicki
@@ -667,7 +671,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   Main Office of Geodesy and Cartography - [http://www.gugik.gov.pl/prawa-autorskie](http://www.gugik.gov.pl/prawa-autorskie)
             
-    30.  **Portugal**
+    31.  **Portugal**
         *   IgeoE - Portugal
             
         *   © 2012 SRES DRIGOT
@@ -684,11 +688,11 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   Agência para a Modernização Administrativa ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
             
-    31.  **Russia**
+    32.  **Russia**
         
         GIS Innovatsia 2011, Database«TopoRF\_1000000» (с) ДАТА+, 2006 2013 Rosreestr
         
-    32.  **Singapore**
+    33.  **Singapore**
         *   This Service includes mapping data licensed from MapIt MSC Sdn Bhd.
             
         *   [Data.gov.sg](https://data.gov.sg/) Contains information from "Cycling Path Network" accessed on 2021 from [https://data.gov.sg/dataset/cycling-path-network](https://data.gov.sg/dataset/cycling-path-network) which is made available under the terms of the Singapore Open Data Licence version 1.0 [https://data.gov.sg/open-data-licence](https://data.gov.sg/open-data-licence)
@@ -705,24 +709,24 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   [Data.gov.sg](https://data.gov.sg/) Contains information from "List of verified public access AED Locations" accessed on 2021 from [https://data.gov.sg/dataset/list-of-verified-public-access-aed-locations](https://data.gov.sg/dataset/list-of-verified-public-access-aed-locations) which is made available under the terms of the Singapore Open Data Licence version 1.0 [https://data.gov.sg/open-data-licence](https://data.gov.sg/open-data-licence)
             
-    33.  **Slovakia**
+    34.  **Slovakia**
         *   © Slovak Road Administration - [https://www.cdb.sk/sk/Novinky.alej](https://www.cdb.sk/sk/Novinky.alej)
             
         *   © Eurosense/Geodis Slovakia
             
         *   © GEODIS Brno
             
-    34.  **South Africa**
+    35.  **South Africa**
         *   © AfriGIS (Pty) Ltd
             
         *   © CDNGI
             
-    35.  **South Korea**
+    36.  **South Korea**
         *   Based upon electronic data © SK telecom Co., Ltd. All rights reserved. Korean Association Survey and Mapping Review Completed No. 2012-018 (2012-05-09).
             
         *   NSPO FORMOSAT-2
             
-    36.  **Spain**
+    37.  **Spain**
         *   Vectorial cartographic information based on Base Cartográfica Nacional from Instituto Geográfico Nacional de España
             
         *   Ajuntament de Roses
@@ -779,7 +783,9 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   Instituto de Estadística y Cartografía de Andalucía ([https://www.juntadeandalucia.es/institutodeestadisticaycartografia/ieagen/avisoLegal/index.htm#cc](https://www.juntadeandalucia.es/institutodeestadisticaycartografia/ieagen/avisoLegal/index.htm#cc))
             
-    37.  **Sweden**
+        *   IDE - Infraestructura de Datos Espaciales de Tenerife ([http://opendefinition.org/licenses/cc-by/](http://opendefinition.org/licenses/cc-by/))
+            
+    38.  **Sweden**
         *   © 2009 Cartesia GIS AB
             
         *   © Swedish Environmental Protection Agency
@@ -792,7 +798,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   Data Stockholm University
             
-    38.  **Switzerland**
+    39.  **Switzerland**
         *   © Swisstopo
             
         *   Swiss Postal Data (March 2011) are © Die Schweizerische Post. You are not permitted, at any one time, to use Swiss Postal Data to provide, display or provide access to mass downloads or bulk feeds of numerical latitude and longitude coordinates.
@@ -819,7 +825,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   © opentransportdata.swiss
             
-    39.  **Taiwan**
+    40.  **Taiwan**
         *   © 2013 Kingwaytek Technology Co., Ltd.
             
         *   © GeoForce Technologies
@@ -832,23 +838,23 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   National Land Surveying and Mapping Center (NLSC) - Taiwan Map Store. Source: [https://whgis.nlsc.gov.tw/Opendata/Files.aspx](https://whgis.nlsc.gov.tw/Opendata/Files.aspx), year: 2021. License: [https://data.gov.tw/license](https://data.gov.tw/license)
             
-    40.  **Timor-Leste**
+    41.  **Timor-Leste**
         
         OCHA Regional Office for Asia and the Pacific (ROAP) ([https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode))
         
-    41.  **Turkey**
+    42.  **Turkey**
         
         © 2013 Basarsoft
         
-    42.  **Turks and Caicos**
+    43.  **Turks and Caicos**
         
         © Salt Cay Devco Ltd.
         
-    43.  **Ukraine**
+    44.  **Ukraine**
         
         © Transnavicom - [http://www.transnavi.com/](http://www.transnavi.com/)
         
-    44.  **United States.**
+    45.  **United States.**
         
         Google’s maps of the United States include data provided from the following sources:
         
@@ -1236,16 +1242,18 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         192.  UNAVCO Data Center [https://www.unavco.org/data/gps-gnss/gps-gnss.html](https://www.unavco.org/data/gps-gnss/gps-gnss.html), GPS/GNSS Data, licenses: [https://www.unavco.org/community/policies\_forms/data-policy/data-policy-pbo-highrate-gps/data-policy-pbo-highrate-gps.html](https://www.unavco.org/community/policies_forms/data-policy/data-policy-pbo-highrate-gps/data-policy-pbo-highrate-gps.html), accessed 10 May 2022.
             
-    45.  **United Arab Emirates / Abu Dhabi**
+    46.  International GNSS Service (IGS). NASA CDDIS.GNSS Station Position Products. Available from ([https://cddis.nasa.gov/Data\_and\_Derived\_Products/GNSS/station\_position\_products.html](https://cddis.nasa.gov/Data_and_Derived_Products/GNSS/station_position_products.html)) Licenses: ([https://cddis.nasa.gov/About/Data\_citation\_and\_acknowledgment.html](https://cddis.nasa.gov/About/Data_citation_and_acknowledgment.html))
+        
+    47.  **United Arab Emirates / Abu Dhabi**
         
         Abu Dhabi Government ([https://addata.gov.ae/addata\_open\_license](https://addata.gov.ae/addata_open_license))
         
-    46.  **Uruguay**
+    48.  **Uruguay**
         *   © 2000 Aviation Systems
             
         *   Servicio de Geomática, República Oriental del Uruguay. Dataset used: [https://catalogodatos.gub.uy/dataset/intendencia-montevideo-parcelas-catastrales](https://catalogodatos.gub.uy/dataset/intendencia-montevideo-parcelas-catastrales) ([https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/sites/agencia-gobierno-electronico-sociedad-informacion-conocimiento/files/documentos/publicaciones/licencia\_de\_datos\_abiertos\_0.pdf](https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/sites/agencia-gobierno-electronico-sociedad-informacion-conocimiento/files/documentos/publicaciones/licencia_de_datos_abiertos_0.pdf))
             
-    47.  **Worldwide**
+    49.  **Worldwide**
         *   Unicode Common Locale Data Repository © Unicode, Inc. ([https://www.unicode.org/copyright.html](https://www.unicode.org/copyright.html)). All rights reserved.
             
         *   © 2010 Europa Technologies
@@ -1286,52 +1294,52 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   Landsat / Copernicus
             
-    48.  **Chile**
+    50.  **Chile**
         *   Biblioteca del Congreso Nacional de Chile ([https://creativecommons.org/licenses/by/3.0/cl/](https://creativecommons.org/licenses/by/3.0/cl/))
             
         *   IDE del Gobierno Regional de Coquimbo
             
-    49.  **Zambia**
+    51.  **Zambia**
         
         OCHA Regional Office for Southern and Eastern Africa (ROSEA) ([https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses))
         
-    50.  **Mali**
+    52.  **Mali**
         
         OCHA Mali ([https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses))
         
-    51.  **Madagascar**
+    53.  **Madagascar**
         
         OCHA FIS ([https://data.humdata.org/about/license](https://data.humdata.org/about/license))
         
-    52.  **Papua New Guinea**
+    54.  **Papua New Guinea**
         
         WFP - World Food Programme ([https://creativecommons.org/licenses/by/4.0/legalcode](https://creativecommons.org/licenses/by/4.0/legalcode))
         
-    53.  **Yemen**
+    55.  **Yemen**
         
         OCHA Yemen ([https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode))
         
-    54.  **Zimbabwe**
+    56.  **Zimbabwe**
         
         OCHA Regional Office for Southern and Eastern Africa (ROSEA) - Creative Commons Attribution for Intergovernmental Organisations (CC BY-IGO) - ([https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses))
         
-    55.  **Senegal**
+    57.  **Senegal**
         
         OCHA West and Central Africa (ROWCA) - Creative Commons Attribution 3.0 for Intergovernmental Organisations (CC By-IGO) - ([https://data.humdata.org/about/license](https://data.humdata.org/about/license))
         
-    56.  **Uganda**
+    58.  **Uganda**
         
         OCHA Regional Office for Southern and Eastern Africa (ROSEA) - Creative Commons Attribution 3.0 for Intergovernmental Organisations (CC By-IGO) - ([https://data.humdata.org/about/license](https://data.humdata.org/about/license))
         
-    57.  **Ghana**
+    59.  **Ghana**
         
         OCHA West and Central Africa (ROWCA) - Creative Commons Attribution 3.0 for Intergovernmental Organisations (CC By-IGO) - ([https://data.humdata.org/about/license](https://data.humdata.org/about/license))
         
-    58.  **Morocco**
+    60.  **Morocco**
         
         OCHA Middle East and North Africa (ROMENA) - Attribution required - Creative Commons Attribution for Intergovernmental Organisations (CC BY-IGO) - ([https://data.humdata.org/about/license](https://data.humdata.org/about/license))
         
-    59.  **Dominican Republic**
+    61.  **Dominican Republic**
         
         OCHA Field Information Services Section (FISS) - [https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses)
         
