@@ -38,7 +38,7 @@ We will collect the following Personal Data:
 ● Information collected externally such as information to be collected via a LINE App plug-in installed in a third-party app, such as “Like”  
 ● Public information containing Personal Data such as online news published on the internet
 
-We will collect the following types of Personal Data in providing our Services. If you do not provide certain types of information such as your phone number or information related to your Facebook account (“Facebook ID”) which needs to be registered for using our Services, you may not be able to use all or a part of our Services.
+We will collect the following types of Personal Data in providing our Services. If you do not provide certain types of information such as your phone number which needs to be registered for using our Services, you may not be able to use all or a part of our Services.
 
 3.a.Personal Data to be provided by you
 
@@ -47,7 +47,7 @@ We will collect the following types of Personal Data in providing our Services. 
 Before you start using our Services, we may ask you to provide your contact information for creating a LINE account (“Account”).
 
 For example:  
-● In order to create an Account, you need to register your phone number or Facebook ID. If you choose to register your Facebook ID, while Facebook may ask you to enter your Facebook password, we will not collect or store such password.
+● In order to create an Account, you need to register your phone number.
 
 Please note that we assign an internal identification code (“Internal Identifier”) to each Account created by our users.
 
@@ -252,7 +252,9 @@ As the purpose of sharing Personal Data is the same as the purpose of use descri
 LINE is the administrator in sharing Personal Data under the laws of Japan.  
 We will take measures to have our group companies with which the Personal Data is shared comply with the eight (8) principles under the OECD Privacy Guidelines by ways such as prescribing matters related to confidentiality and data protection in the contract with such group company, and thereby establish a system for properly managing Personal Data.
 
-Please click [here](https://terms.line.me/line_communication_privacy_tw) for the scope of our group companies to share Personal Data of users in Taiwan.
+You can confirm our group companies in “[List of Group Companies](https://linecorp.com/en/company/info#group)”.
+
+In addition, please click [here](https://terms.line.me/line_communication_privacy_tw) for the scope of our group companies to share Personal Data of users in Taiwan.
 
 Countries and regions to which Personal Data is transferred: Japan, Taiwan, Thailand, Indonesia,Korea and Singapore.
 
@@ -415,7 +417,7 @@ When we make any material changes to this Policy, we will notify you through rea
 
 The Services are intended for a general audience. If a minor is to use our Services and provides Personal Data, the minor must do so with the consent of his/her guardian. You represent and warrant that you have the right capacity and legal capacity required for using our Services. If you are a minor, you represent and warrant that you are using our Services with the consent of your guardian. We have voluntarily imposed age restrictions on certain Services in cases where we are unable to confirm that you are of a certain age.
 
-We understand the special necessity to protect the Personal Data collected from minors in the U.S. or Europe (under the age of 13 in the U.S., and under the age of 16 in Europe) using our Services, and we do not knowingly collect any Personal Data from minors.  
+We understand the special necessity to protect the Personal Data collected from minors in the U.S., Europe, or Thailand (under the age of 13 in the U.S., under the age of 16 in Europe, and under the age of 11 in Thailand) using our Services, and we do not knowingly collect any Personal Data from minors.  
   
 If, however, you believe that we have collected Personal Data from minors, then please let us know via the [Contact Form](https://contact-cc.line.me/) or by writing to the address indicated below. If we learn that we have inadvertently collected Personal Data from minors, we will deactivate the relevant Account(s) and will take reasonable measures to promptly delete such Personal Data from our records.
 
@@ -432,7 +434,7 @@ Attn: Privacy Policy
 Person responsible for the handling of personal data  
 Chief Privacy Officer
 
-If you are in the European Economic Area (EEA) or the United Kingdom, you may contact the Data Protection Officer, our EU representative below or our UK representative below, or you may lodge a complaint with a supervisory authority in the European Economic Area or the United Kingdom.
+If you are in the European Economic Area (EEA), the United Kingdom, or Thailand, you may contact the Data Protection Officer, our EU representative below, our UK representative below, or Thailand representative below, or you may lodge a complaint with a supervisory authority in the European Economic Area, the United Kingdom, or Thailand.
 
 <Data Protection Officer>  
 LINE Corporation  
@@ -453,6 +455,13 @@ Attn: LINE Corporation
 16 Great Queen Street, Covent Garden, London, WC2B 5AH, United Kingdom  
 line@gdpr-rep.com
 
+<Thailand Representative>  
+Tilleke & Gibbins Digital Solutions Co., Ltd.  
+Attn: LINE Corporation  
+No. 1011 Supalai Grand Tower, 20th-26th Floors, Rama 3 Road, Chongnonsi, Yannawa, Bangkok 10120, Thailand  
++662-056-5566  
+digital@tilleke.com
+
 9.c.Changes to this Policy
 
 We may modify this Policy from time to time, and the latest version of the privacy policy will always be posted on this site. When we make any material changes to this Policy, we will notify you on our Services, or by other reasonable means. We encourage you to review the contents of the latest version of the privacy policy carefully.
@@ -463,7 +472,7 @@ LINE Corporation
 CEO and President - Takeshi Idezawa
 
 Formulated on August 15, 2012  
-Last revised on March 30, 2022
+Last revised on June 1, 2022
 
 10.Reference
 ------------
