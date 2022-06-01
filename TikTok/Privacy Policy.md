@@ -1,6 +1,6 @@
 Privacy Policy
 
-**_Last updated:_** _5 October 2021_
+**_Last updated:_** _5 October 2021_ 
 
 **Introduction**
 ----------------
