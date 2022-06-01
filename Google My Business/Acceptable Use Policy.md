@@ -7,7 +7,7 @@ If your business either has a physical location that customers can visit, or tra
 *   Reflect your business accurately
 *   Comply with the policies in this article
 
-**Important:** As a precaution in light of COVID-19, we're operating with a limited team. It may take longer than usual to connect with us. We recommend our [Help Community](https://support.google.com/business/community) and [YouTube Channel](https://www.youtube.com/c/GoogleMyBusinessHelp/featured). Thank you for your patience.
+**Important:** As a COVID-19 precaution, we're operating with a limited team. It may take longer than usual to connect with us. We recommend our [Help Community](https://support.google.com/business/community) and [YouTube Channel](https://www.youtube.com/c/GoogleMyBusinessHelp/featured).
 
 To maintain high quality information on Google, follow this list of guidelines for local businesses. These guidelines can help you avoid common problems, including changes to your information or, in some cases, removal of your business information from Google.
 
@@ -20,7 +20,7 @@ For the best results managing your Business Profile:
 
 Brands, organisations, artists and other online-only businesses aren't eligible for Business Profiles.
 
-**Tip:** If you’d like to get one-on-one guidance and tailored recommendations on how to make the most out of your profile, [book an appointment with Small Business Advisors](http://business.google.com/advisors). (The service is unable to assist with troubleshooting disabled or suspended business profiles.)
+**Tip:** If you’d like to get one-on-one guidance and tailored recommendations on how to make the most of your profile, [book an appointment with Small Business Advisors](https://support.google.com/advisors).
 
 Business eligibility & ownership
 --------------------------------
@@ -69,12 +69,12 @@ Authorised representatives must:
 
 Failure to adhere to these policies may result in a suspension for the Business Profile and/or Google Account.
 
-Content guidelines for a Business Profile
------------------------------------------
+Learn content guidelines for Business Profiles
+----------------------------------------------
 
 Published content should highlight what makes your business unique.
 
-**Important:** We do not allow content that contains private or confidential information such as personal financial information, government-issued IDs, contact information linked/associated with a name, sensitive records, images, transcripts or links that contain personal information. We also do not allow solicitation of the above information through local posts or a business description other than the user's own name, email and phone number.
+**Important:** We do not allow content that contains private or confidential information such as personal financial information, government-issued IDs, contact information linked or associated with a name, sensitive records, images, transcripts or links that contain personal information. We also do not allow solicitation of the above information through local posts or a business description other than the user's own name, email and phone number.
 
 Business description
 
@@ -101,16 +101,16 @@ Name
 
 To help customers find your business online, accurately represent your business name. Your name should reflect your business’ real-world name, as used consistently on your shopfront, website, stationery and as known to customers.
 
-Add additional details like [address](https://support.google.com/business/answer/3038177#address), [service area](https://support.google.com/business/answer/3038177#address), [business hours](https://support.google.com/business/answer/3038177/#hours) and [category](https://support.google.com/business/answer/3038177/#categories) in the other sections of your business information. 
+Add additional details like [address](https://support.google.com/business/answer/3038177#address), [service area](https://support.google.com/business/answer/3038177#address), [opening hours](https://support.google.com/business/answer/3038177/#hours) and [category](https://support.google.com/business/answer/3038177#Categories) in the other sections of your business information. 
 
 For example, if you create a Business Profile for a 24-hour coffee shop in Southampton called Shelly’s Coffee, you would enter that business information as:
 
-*   **Business name**: Shelly’s Coffee
-*   **Address**: 324 Poppy Street, Southampton
-*   **Hours**: Open 24 hours
-*   **Category**: Coffee shop
+*   **Business name:** Shelly’s Coffee
+*   **Address:** 3247 Poppy Street, San Francisco, CA 94102
+*   **Hours:** Open 24 hours
+*   **Category:** Coffee shop
 
-Including unnecessary information in your business name is not permitted, and could result in the suspension of your Business Profile. Refer to the specific examples below to determine what you can and can't include in your business name.
+Including unnecessary information in your business name isn't permitted, and could result in the suspension of your Business Profile. Refer to the specific examples below to determine what you can and can't include in your business name.
 
 #### Business name examples
 
@@ -203,7 +203,7 @@ Opening hours
 
 Provide your regular customer-facing hours of operation. If applicable, you may use your current seasonal hours as your regular hours. You may also specify [special hours for particular days, like holidays or special events](https://support.google.com/business/answer/6303076).
 
-Certain types of businesses shouldn’t provide hours, including those with varied hours (like schedules for different types of activities, including showtimes, worship services or classes) and those that operate only by appointment. Examples of business that _shouldn’t_ provide hours include, but are not limited to:
+Certain types of businesses shouldn’t provide hours, including those with varied hours (like schedules for different types of activities, including showtimes, worship services or classes) and those that operate only by appointment. Examples of business that _shouldn’t_ provide hours include, but aren't limited to:
 
 *   Indoor lodging such as: Hotels, motels and apartment buildings/complexes
 *   Schools and universities
@@ -222,7 +222,7 @@ If your business has multiple sets of hours, refer to these guidelines for parti
 *   **Gas stations:** Use the hours for your gas pumps.
 *   **Restaurants:** Use the hours when diners can sit down and dine in your restaurant. Otherwise, use takeaway hours. If neither of these is possible, use drive-through hours, or, as a last resort, delivery hours.
 *   **Storage facilities:** Use office hours. Otherwise, use front gate hours.
-*   You can also set [More hours](https://support.google.com/business/answer/9876800) to highlight times for specific services.
+*   To highlight times for specific services, you can also set [More hours](https://support.google.com/business/answer/9876800).
     *   In general, you should set More hours as a subset of your primary hours.
 
 #### Seasonal hours
@@ -241,30 +241,39 @@ Categories help your customers to find accurate, specific results for services t
 *   Use as few categories as possible to describe your overall core business from the provided list.
 *   Choose categories that are as specific as possible, but representative of your main business.
     *   Do not use categories solely as keywords or to describe attributes of your business.
-        *   Do not use categories that pertain to other businesses that are nearby or related, such as a business physically contained within your business or an entity that contains your business.
+    *   Do not use categories that pertain to other businesses that are nearby or related, such as a business physically contained within your business or an entity that contains your business.
 
 #### Select your category
 
-Select categories that complete the statement: 'This business _IS_ a' rather than 'this business _HAS_ a'. The goal is to describe your business holistically rather than a list of all the services that it offers, products that it sells or amenities that it features.
+Select categories that complete the statement: 'This business _IS_ a' rather than 'this business _HAS_ a'. The goal is to describe your business holistically rather than a list of all the services it offers, products it sells or amenities it features.
 
-You should focus primarily on adding the most specific categories for your business. We'll do the rest behind the scenes. For instance, when you select a specific category like 'Golf Resort', Google implicitly includes more general categories such as 'Resort Hotel', 'Hotel' and 'Golf Course'. Feel free to skip adding any category that seems redundant and add a more specific category that you selected. If you can't find a category for your business, then pick one that is more general. Google can also detect category information from your website and from mentions about your business throughout the web.
+Focus primarily on adding the most specific categories for your business; we'll do the rest behind the scenes. For instance, when you select a specific category like 'Golf Resort', Google implicitly includes more general categories such as 'Resort Hotel', 'Hotel' and 'Golf Course'. Feel free to skip adding any category that seems redundant and add a more specific category that you selected. If you can't find a category for your business, choose one that's more general. Google can also detect category information from your website and from mentions about your business throughout the web.
 
-For example:
+|     |     |     |
+| --- | --- | --- |
+| Scenario | Correct category | Incorrect category |
+| 'Papa John’s' offers pizza takeaway and delivery but doesn't offer on-premises dining. | *   Pizza delivery<br>*   Pizza takeaway | *   Delivery restaurant<br>*   Takeaway restaurant |
+| 'Navy Federal Credit Union' | *   Federal Credit Union | *   Bank |
+| 'Super 8' is a motel with an onsite swimming pool. | *   Motel | *   Hotel<br>*   Swimming pool |
+| '24-hour fitness' | *   Health club | *   Gym<br>*   Swimming pool |
+| 'A1 Check Cashing' | *   Cheque cashing service | *   Banking and finance |
+| 'Wendy’s' is a fast food hamburger restaurant that also offers some desserts on its menu. | *   Fast food restaurant<br>*   Hamburger restaurant | *   Dessert restaurant |
 
-*   'Papa John’s' offers pizza takeaway and delivery but does not offer on-premises dining. It should use the category 'Pizza Delivery' and additional category 'Pizza Takeaway' (instead of the less specific 'Delivery Restaurant' or 'Takeaway Restaurant').
-*   'Navy Federal Credit Union' should use the category 'Federal Credit Union' (rather than the less specific 'Bank').
-*   'Super 8' is a motel with an onsite swimming pool. It should use the category 'Motel' rather than 'Hotel' and should not include 'Swimming Pool' as a category.
-*   '24 Hour Fitness' should choose the category 'Health Club' (and not its amenities 'Gym' or 'Swimming Pool').
-*   'A1 Cheque Cashing' should use the category 'Cheque Cashing Service' (rather than the less specific 'Banking and Finance').
-*   'Wendy’s' is a fast-food hamburger restaurant that also offers some desserts on its menu. 'Wendy’s' should choose the category 'Fast Food Restaurant', and the additional category 'Hamburger Restaurant', but not use the category 'Dessert Restaurant'.
+If your business contains another business that your organisation doesn't own and operate, only use categories that represent your business.
 
-If your business contains another business that your organisation does not own and operate, then only use those categories that represent your business.
+Examples:
 
-*   'Costa Coffee', which has the category 'Coffee Shop', is operated inside 'Waterstones', which has the category 'Book Shop' (and does not have the category 'Coffee Shop').
-*   'Cardtronics ATM', which has the category 'ATM', is operated inside 'Spar', which has the category 'Convenience Store' (and does not have the category 'ATM').
-*   'Nobu' has the category 'Restaurant' and is operated inside 'Hard Rock Hotel', which has the category 'Hotel' (and does not have the category 'Restaurant').
+*   'Starbucks' is operated inside 'Barnes and Nobles'.
+    *   **'Starbucks' category:** 'Coffee shop'
+    *   **'Barnes and Nobles' category:** 'Book shop'. It shouldn't add “Coffee shop” as a category.
+*   'Cardtronics ATM' is operated inside 'Co-Op'.
+    *   **'Cardtronics ATM' category:** 'ATM'
+    *   **'Co-Op' category:** 'Convenience store'. It shouldn't add 'ATM' as a category.
+*   'Nobu' is operated inside 'Hard Rock Hotel'.
+    *   **'Nobu' category:** 'Restaurant'
+    *   **'Hard Rock Hotel' category:** 'Hotel'. It shouldn't add 'Restaurant' as a category.
 
-The following types of co-located businesses should each have their own page. If you need to use both categories for the same business location, then create two pages instead. Be sure to use a different name for the second business. [Learn about Departments](https://support.google.com/business/answer/3038177#departments).
+The following types of co-located businesses should each have their own page. If you need to use both categories for the same business location, then create two pages instead. Make sure that you use a different name for the second business. [Learn about departments](https://support.google.com/business/answer/3038177#departments).
 
 *   A Restaurant/Cafe/Bar inside a Hotel/Motel
 *   A Pharmacy inside a Supermarket/Grocery Shop
@@ -316,9 +325,9 @@ All business locations within the same country must have the same name for all l
 
 There are 2 exceptions to this policy:
 
-*   If you have **multiple types of businesses**, sub-brands, multiple departments, or various types of operations such as retail and wholesale, they may also have a distinct name so long as it is consistently applied to all locations of that business.
+*   If you have multiple types of businesses, sub-brands, multiple departments or various types of operations such as retail and wholesale, they may also have a distinct name as long as it's consistently applied to all locations of that business.
     *   Acceptable name variations: 'Tesco Superstore' and 'Tesco Express'; 'Monsoon' and 'Monsoon Accessorise'; 'Gap' and 'babyGap'
-*   If some of your locations **consistently use a different name** on their shop front, website or stationery, these locations can use this different name.
+*   If some of your locations consistently use a different name on their shop front, website or stationery, these locations can use this different name.
     *   Acceptable name variations: 'Intercontinental Mark Hopkins San Francisco' and 'Intercontinental New York Barclay'; 'PFK' (for locations in Quebec) and 'KFC' (for locations in the US and rest of Canada)
 
 #### Category consistency
@@ -333,17 +342,19 @@ All the locations of a business must share the one category that best represents
 
 If your business location combines two or more brands, do not combine the brand names into a single Business Profile. Instead, pick one brand’s name for the Business Profile. If the brands operate independently, you may use a separate profile for each brand at this location.
 
-*   Not Acceptable: 'KFC_/Taco Bell_' or 'Dunkin' Donuts_/Baskin Robbins_'
-*   Acceptable: 'Taco Bell', 'KFC', 'Dunkin’ Donuts', 'Baskin Robbins'
+For multiple virtual food brands at the same location, refer to the food-specific guidelines in the _Virtual food brands_ section below.
+
+*   **Not acceptable:** ‘KFC_/Taco Bell_’ or ‘Dunkin' Donuts_/Baskin Robbins_’
+*   **Acceptable:** ‘Taco Bell’, ‘KFC’, ‘Dunkin’ Donuts‘, ‘Baskin Robbins’
 
 If your business sells another business brand’s product(s) or service(s), use only the name of the business, excluding the name of the brand being sold, which can't have a Business Profile for this location.
 
-*   Not Acceptable: 'Rymans_/Staedtler', '_Steve’s Tyres_/Firestone_'
-*   Acceptable: 'Rymans', 'Steve’s Tyres'
+*   **Not acceptable:** ‘Staples_/UPS’, ‘_America’s Tire_/Firestone_’
+*   **Acceptable:** 'Staples', 'America’s Tire'
 
-However, if the business is an authorised and fully dedicated seller of the branded product or service (sometimes known as a 'franchisee'), you may use the underlying brand name when you create the Business Profile.
+However, if the business is an authorised and fully dedicated seller of the branded product or service, sometimes known as a 'franchisee', you may use the underlying brand name when you create the Business Profile.
 
-*   Acceptable: 'EE Authorised Retailer', 'Shell Oil Local Distributor'
+*   **Acceptable:** 'TCC Verizon Wireless Premium Retailer', 'U-Haul Neighborhood Dealer'
 
 #### Rebranding
 
