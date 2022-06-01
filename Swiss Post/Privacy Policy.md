@@ -51,6 +51,7 @@ Collecting data helps us to continue developing and improving our digital presen
 *   To provide logins, online services and contractually-compliant processing of these services.
 *   To tailor our websites to specific target groups (with targeted content or information on the website that may be of interest to you).
 *   To prevent fraud and improve the security of the website.
+*   To serve you with personalized adverts on our digital presence based on data from third parties.
 
 We also use so-called re-targeting or re-marketing methods on our websites. These are online marketing tools. If you visit other third-party websites, you will then be shown product recommendations with targeted pop-up adverts. In order to achieve an optimized result for you in this regard, data is also transmitted to third-party providers who may also be domiciled abroad.
 
@@ -74,7 +75,7 @@ We use cookies to carry out an analysis of general user behaviour. Our goal is t
 
 #### 4.4 How do we use cookies from third-party providers (third-party cookies)?
 
-We use selected cookies from third-party providers (so-called third-party cookies). These cookies are intended to optimize the user experience, display personalized advertising or prevent fraud. We draw attention to our use of cookies via a cookie banner. You have the ability to prevent the use of cookies at any time via the cookie settings in your browser (see section 7 below).
+We use selected cookies from third-party providers (so-called third-party cookies). These cookies are intended to optimize the user experience, [display personalized advertising](https://www.post.ch/en/pages/programmatic-ads) (Google Ad Manager) or prevent fraud. We draw attention to our use of cookies via a cookie banner. You have the ability to prevent the use of cookies at any time via the cookie settings in your browser (see section 7 below).
 
 ### 5\. Social media
 
