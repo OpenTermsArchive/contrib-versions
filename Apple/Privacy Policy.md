@@ -176,8 +176,6 @@ Please take a moment to familiarize yourself with our privacy practices, accessi
     
     When there is a material change to this Privacy Policy, we’ll post a notice on this website at least a week in advance of doing so and contact you directly about the change if we have your data on file.
     
-    Apple Inc. One Apple Park Way, Cupertino, California, USA, 95014
-    
 
 [View our APEC CBPR certification >](https://privacy.truste.com/privacy-seal/validation?rid=1580fe3d-f313-4354-8fa1-008e083ce49e)
 
