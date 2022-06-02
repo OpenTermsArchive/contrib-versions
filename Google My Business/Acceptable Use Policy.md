@@ -4,10 +4,13 @@ Guidelines for representing your business on Google
 If your business either has a physical location that customers can visit, or travels to customers where they are, you can create a Business Profile on Google. To create a successful Business Profile that won’t be suspended requires that you:
 
 *   Avoid prohibited content. [Learn what content is prohibited](https://support.google.com/business/answer/3038177#illegal).
-*   Reflect your business accurately
-*   Comply with the policies in this article
+*   Reflect your business accurately.
+*   Comply with the policies in this article.
 
 **Important:** As a COVID-19 precaution, we're operating with a limited team. It may take longer than usual to connect with us. We recommend our [Help Community](https://support.google.com/business/community) and [YouTube Channel](https://www.youtube.com/c/GoogleMyBusinessHelp/featured).
+
+Understand basic guidelines
+---------------------------
 
 To maintain high quality information on Google, follow this list of guidelines for local businesses. These guidelines can help you avoid common problems, including changes to your information or, in some cases, removal of your business information from Google.
 
@@ -33,7 +36,7 @@ There are some exceptions:
 
 *   ATMs, video-rental kiosks and express mail drop boxes are permitted. If you add these locations, then you must include contact information for customers to get help.
 *   Seasonal businesses, like an ice-skating rink only open in winter months, are eligible. These businesses must display permanent signage at their location year-round.
-*   Virtual Kitchens are permitted. Virtual Kitchens are professional food preparation and cooking facilities set up to prepare delivery-only meals via third-party services. They are also referred to as Ghost Kitchens and Cloud Kitchens. A Virtual Kitchen should create its Business Profile as a [service area business](https://support.google.com/business/answer/9157481).
+*   Delivery-only food services are permitted with some conditions. [Learn more under Virtual Food Brands](#chains).
 
 Ineligible businesses
 
@@ -114,42 +117,22 @@ Including unnecessary information in your business name isn't permitted, and cou
 
 #### Business name examples
 
-Throughout the examples below, names or parts of names in _italics_ would not be permitted.
+Throughout the examples below, names or parts of names in italics wouldn't be permitted.
 
-Your name must **not** include:
+| Your name must not include: | Not acceptable: | Acceptable |
+| --- | --- | --- |
+| Marketing taglines | *   TD Bank, _America’s Most Convenient Bank_<br>*   GNC _Live Well_ | *   TD Bank<br>*   GNC |
+| Shop codes | *   The UPS Store _\- 2872_ | *   The UPS Store |
+| Trademark/Registered signs | *   Burger King_®_ | *   Burger King |
+| Fully capitalised words | *   SUBWAY | *   Subway, KFC, IHOP, JCPenney |
+| Opening hours information | *   Regal Pizzeria _Open 24 hours_<br>*   Sears Outlet _(Closed)_ | *   Regal Pizzeria<br>*   Sears Outlet |
+| Phone numbers or website URLs | *   Airport Direct _1-888-557-8953_<br>*   _webuyanycar.com_ | *   Airport Direct<br>*   1-800-Got-Junk |
+| Special characters (e.g. %&$@/") or irrelevant legal terms | *   Shell Pay_@Pump_<br>*   Re/Max_, LLC_<br>*   LAZ Parking _Ltd_ | *   Shell<br>*   Re/Max<br>*   LAZ Parking<br>*   Toys R Us<br>*   H&M<br>*   T.J.Maxx |
+| Service or product information | *   Verizon Wireless _4G LTE_<br>*   Midas _Auto Service Experts_ | *   Verizon Wireless<br>*   Midas<br>*   Best Buy Mobile<br>*   Advance Auto Parts<br>*   JCPenney Portrait Studios |
+| Location information | *   Holiday Inn _(I-93 at Exit 2)_<br>*   U.S. Bank ATM _– 7th & Pike – Car Park Lobby near Life_<br>*   Equinox _near SOHO_ | *   Holiday Inn Salem<br>*   U.S. Bank ATM<br>*   Equinox SOHO<br>*   University of California, Berkeley |
+| Containment information | *   Chase ATM _(in Duane Reade)_<br>*   Apple Store _at Stanford Shopping Center_<br>*   Benefit Brow Bar _– Bloomingdales_<br>*   Sam’s Club Tire & Battery _(part of Sam’s Club)_<br>*   Geek Squad _(inside Best Buy)_ | *   Chase ATM<br>*   Apple Store<br>*   Benefit Brow Bar<br>*   Sam’s Club Tire & Battery<br>*   Geek Squad |
 
-*   **Marketing taglines**.
-    *   Not acceptable: 'Barclays Bank_, Britain’s Most Convenient Bank_', 'GNC _Live Well\*'._
-    *   Acceptable: 'Barclays Bank', 'GNC'
-*   **Shop codes**.
-    *   Not acceptable: 'The Flower Shop _– 2872_'
-    *   Acceptable: 'The Flower Shop'
-*   **Trademark/registered signs**.
-    *   Not acceptable: 'Burger King_®_'
-    *   Acceptable: 'Burger King'
-*   **Fully capitalised words** (with the exception of acronyms) or **unnecessary spaces**.
-    *   Not acceptable: '_SUBWAY_'
-    *   Acceptable: 'Subway', 'KFC', 'BHS', 'WHSmith'
-*   **Business hours information**, including closed/open status.
-    *   Not acceptable: 'Pizza Hut _Open 24 hours_', 'Curry's _(Closed)_'
-    *   Acceptable: 'Pizza Hut', 'Curry's'
-*   **Phone numbers or website URLs**, unless they reflect your business’s consistently used and recognised real-world representation.
-    *   Not acceptable: 'Airport Direct _0800 557 8953_', '_webuyanycar.com_'
-    *   Acceptable: 'Airport Direct', '0800-Got-Junk'
-*   **Special characters (e.g. %&$@/")** or **irrelevant legal terms** unless they are part of your business’s real world representation
-    *   Not Acceptable: 'Shell _Pay@Pump_', 'Re/Max_, LLC_', 'LAZ Parking _Ltd_'
-    *   Acceptable: 'Shell', 'Re/Max', 'LAZ Parking', 'Toys ’’R’’ Us', 'H&M', 'TK Maxx'
-*   **Service or product** information about your business, unless this information is part of its real world representation or this information is needed to identify a department within a business (see '[Departments](#departments)'). Service information is best represented by categories (see '[Categories](https://support.google.com/business/answer/3038177/#categories)').
-    *   Not acceptable: 'Vodafone _4G LTE_', 'Midas _Auto Service Experts_'
-    *   Acceptable: 'Vodafone', 'Midas', 'Best Buy Mobile', 'Advance Car Parts', 'JCPenney Portrait Studios'
-*   **Location information**, such as **local area**, **city** or **street name**, unless it's part of your business's consistently-used and recognised real-world representation. Your name must not include street address or direction information.
-    *   Not acceptable: 'Holiday Inn _(Ringroad)_', 'Barclays Bank ATM _\- Lowe Street Multi-storey Car Park Foyer near Lift_', 'Equinox _near SOHO_'
-    *   Acceptable: 'Holiday Inn Salem', 'U.S. Bank ATM', 'Equinox SOHO', 'University of California Berkeley'
-*   ****Containment information**** indicating that your business is located inside another business (whether or not the businesses are part of the same organisation).
-    *   Not acceptable: 'Link ATM _(in Tesco)_', 'Apple Store _at Stanford Shopping Centre_', 'Benefit Brow Bar _– John Lewis_', 'Kwik Fit Tyre & Battery _(part of Kwik Fit)_', 'Costa Coffee _(inside Tesco Extra)_'
-    *   Acceptable: 'Chase ATM', 'Apple Store', 'Benefit Brow Bar', 'Kwik Fit Tyre & Battery', 'Costa Coffee'
-
-There are additional guidelines for multi-location shops ([chains and brands](#chains)), [departments](#departments), and [individual practitioners](#pract) (such as doctors, lawyers and real estate agents) below.
+There are additional guidelines for multi-location shops ([chains and brands](https://support.google.com/business/answer/3038177#chains)), [departments](https://support.google.com/business/answer/3038177#departments) and [individual practitioners](https://support.google.com/business/answer/3038177#pract) (such as doctors, lawyers and property agents) below.
 
 Address
 
@@ -160,10 +143,10 @@ Use a precise, accurate address and/or service area to describe your business lo
     *   If you must specify a mailbox or suite number:
         *   Enter your physical address as 'Address Line 1'.
         *   Enter your mailbox or suite number as 'Address Line 2'.
-    *   If your business rents a physical mailing address but doesn't operate out of that location, also known as a virtual office, that location is not eligible for a Business Profile.
-    *   Businesses can't list an office at a co-working space unless that office maintains clear signage, receives customers at the location during business hours, and is staffed during business hours by your business staff.
-*   Don’t include information in address lines that doesn't pertain to your business’s physical location, like URLs or keywords.
-*   Don’t create more than one page for each location of your business, either in a single account or multiple accounts.
+    *   If your business rents a physical postal address but doesn't operate out of that location, also known as a virtual office, that location isn't eligible for a Business Profile.
+    *   Businesses can't list an office at a co-working space unless that office maintains clear signage, receives customers at the location during opening hours, and is staffed during opening hours by your business staff.
+*   Do not include information in address lines that doesn't pertain to your business’s physical location, like URLs or keywords.
+*   Do not create more than one page for each location of your business, either in a single account or multiple accounts.
     *   Individual practitioners and departments within businesses, universities, hospitals and government buildings may have separate pages. For more info, go to specific guidelines about [individual practitioners](https://support.google.com/business/answer/3038177#pract) and [departments](https://support.google.com/business/answer/3038177#departments).
 *   If your address doesn't have a street number, or the system can't find it, you can [pin your business's location directly on the map](https://support.google.com/business/answer/6279343).
 
@@ -187,7 +170,7 @@ If you’re a service-area business, you should hide your business address from 
 
 *   For example, if you’re a plumber and run your business from your residential address, clear the address from your Business Profile.
 
-[Learn how to Add or edit your business address](https://support.google.com/business/answer/2853879).
+[Learn how to add or edit your business address](https://support.google.com/business/answer/2853879).
 
 Website & phone
 
@@ -293,21 +276,6 @@ Both kinds of menu must follow the following guidelines:
 *   Menu URLs can’t be direct links to third-party ordering or delivery services.
 *   Third parties that manage Business Profiles on behalf of clients must notify and have the consent of the business owner to submit a menu URL for a business.
 
-Products
-
-If you run a retail business, you can show nearby shoppers what you sell by adding your in-store products to your Business Profile. 
-
-You can add your in-store product to your Business Profile at no charge in two ways:
-
-*   Manually upload your products with the Product Editor. [Learn how to upload with the Product Editor](https://support.google.com/business/answer/9124203). 
-*   Automatically add your products with Pointy. [Learn how to add products with Pointy](https://support.google.com/business/answer/9934993). 
-
-Both methods must adhere to the following guidelines : 
-
-*   Products submitted via Product Editor or Pointy must adhere to the Shopping Ads Policy. [Learn more about the Shopping Ads Policy](https://support.google.com/business/answer/10786874). 
-*   We do not allow content related to regulated products and services, including alcohol, tobacco products, gambling, financial services, pharmaceuticals and unapproved supplements or health/medical devices.
-*   Submitting products that violate Google's policy may result in the removal of the entire product catalogue, including products that aren't in violation. 
-
 Guidelines for chains, departments & individual practitioners
 -------------------------------------------------------------
 
@@ -356,9 +324,26 @@ However, if the business is an authorised and fully dedicated seller of the bran
 
 *   **Acceptable:** 'TCC Verizon Wireless Premium Retailer', 'U-Haul Neighborhood Dealer'
 
+#### Virtual food brands 
+
+ Virtual food brands are permitted with conditions. 
+
+ **Co-located food brands offering collection**
+
+*   Food brands that are co-located each must have permanent separate signage. They should display their address **only** if they offer collection to all customers.
+    *   Delivery-only brands (no collection option) out of shared kitchens must hide their address and add service areas to that specific brand to avoid confusing their customers.
+
+ **Delivery-only food brands**
+
+*   Delivery-only brands (i.e. those operating out of virtual kitchens) are permitted if they have distinct branded packaging and a distinct website.
+*   Multiple virtual brands operating out of one location are permitted, but are subject to additional verification steps.
+*   Delivery-only brands must add their service areas and [hide the address](https://support.google.com/business/answer/9157481?hl=en) on their business profile to avoid confusing their customers.
+*   If there's a partnership where a food brand has authorised the virtual kitchen as a verified provider of the food, the virtual kitchen may manage each authorised brand’s business profile once the authorisation is confirmed.
+*   The facility that houses the delivery-only brands, i.e. DoorDash Kitchens, is permitted to have its own separate business profile. Only someone affiliated with the facility can claim and verify this profile.
+
 #### Rebranding
 
-Your business profile may be eligible for rebranding (defined as an eligible name change without creating a new business profile) if you make a minor name change, in which the proper nouns and services described in the business name remain unchanged and the business category remains unchanged.
+Your Business Profile may be eligible for rebranding (defined as an eligible name change without creating a new Business Profile) if you make a minor name change, in which the proper nouns and services described in the business name remain unchanged and the business category remains unchanged.
 
 You may also be eligible for rebranding if you have multiple locations and the business name changes.
 
@@ -366,7 +351,7 @@ If your business meets the rebranding criteria above, you can update your busine
 
 If your business changes its name but doesn't meet the criteria above, then it's considered a new business. You must mark the existing Business Profile as closed and then create a new Business Profile with your new business name. [Learn how to mark a profile as closed](https://support.google.com/business/answer/6314541).
 
-If you encounter any issues with rebranding, [contact us](https://support.google.com/business/contactflow). 
+If you encounter any issues with rebranding, [contact our support team](https://support.google.com/business/contactflow). 
 
 **Tip:** If you assume ownership of a Business Profile, you first need to have the previous owner [add you as an owner](https://support.google.com/business/answer/3403100) and [transfer ownership to you](https://support.google.com/business/answer/3415281).
 
@@ -386,11 +371,11 @@ Public-facing departments that operate as distinct entities should have their ow
     *   The _Apple_ _products_ section of PC World
     *   The _hot food bar_ inside Meadowhall
 
-For each department, the category that is the most representative of that department must be different from that of the main business and that of other departments.
+For each department, the category that's the most representative of that department must be different from that of the main business and that of other departments.
 
-*   The main business 'Barclays' has the category 'Bank' whereas the department 'Barclays Advisors' has the category 'Financial Consultant'
-*   The main business 'South Bay Toyota' has the category 'Toyota Dealer' whereas the 'South Bay Toyota Service & Parts' has the category 'Auto Repair Shop' (plus the category 'Auto Parts Store')
-*   The main business 'GetGo' has the category 'Convenience Store' (plus the category 'Sandwich Shop') whereas the department 'GetGo Fuel' has the category 'Petrol Station', and the department 'WetGo' has the category 'Car Wash'
+*   The main business 'Barclays' has the category 'Bank' whereas the department 'Barclays Advisors' has the category 'Financial Consultant'.
+*   The main business 'Southend Toyota' has the category 'Toyota Dealer' whereas 'Southend Toyota Service & Parts' has the category 'Auto Repair Shop' (plus the category 'Auto Parts Shop')
+*   The main business 'GetGo' has the category 'Convenience Store' (plus the category 'Sandwich Shop') whereas the department 'GetGo Fuel' has the category 'Petrol Station', and the department 'WetGo' has the category 'Car Wash'.
 
 Individual practitioners
 
@@ -433,4 +418,3 @@ Related resources
 -----------------
 
 *   [Report a violation of Business Profile third-party policies](https://support.google.com/business/contact/gmb_3p_complaints).
-*   [Check the video about our guidelines and policies](https://youtu.be/1wa9_B4mZWo).
