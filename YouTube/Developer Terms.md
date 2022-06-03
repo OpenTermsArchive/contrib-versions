@@ -450,9 +450,11 @@ You and your [API Clients](#definition-api-client) must not, and must not encour
     
 18.  infringe copyrights or exploit copyright-infringing materials;
     
-19.  engage in, promote or facilitate unlawful online gambling; or
+19.  engage in, promote or facilitate unlawful online gambling;
     
-20.  create, display, promote or facilitate disruptive commercial messages or advertisements.
+20.  create, display, promote or facilitate disruptive commercial messages or advertisements; or
+    
+21.  situate the YouTube player in a nested or hierarchical iframe lineage to circumvent YouTube policies or otherwise obfuscate the source of use.
     
 
 ### J. Child-Directed API Clients
