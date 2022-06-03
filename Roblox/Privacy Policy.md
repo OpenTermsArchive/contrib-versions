@@ -17,7 +17,7 @@
 
 [](https://www.kidsafeseal.com/certifiedproducts/roblox.html)
 
-Please find the shortened version of our Privacy Policy below. Please click the title of each section to expand for the full details of our Privacy Policy. You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/en-us/article_attachments/4408980742292/Roblox_Privacy_Policy_2021-10-22.pdf).
+Please find the shortened version of our Privacy Policy below. Please click the title of each section to expand for the full details of our Privacy Policy. You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/article_attachments/6737020279828/Roblox_Privacy_Policy_2022-06-03.pdf).
 
 [Expand All +](#/)
 
@@ -121,11 +121,11 @@ Any other capitalized term that is not defined in this Policy is defined and has
 
 3\. Information Collected on our Corporate Websites
 
-Please note that our corporate websites (which may include corp.roblox.com, blog.roblox.com, and their subdomains) are general audience websites. On these sites, we may provide information regarding the corporate side of Roblox, press information, career information, and other general audience information. We may also ask for your name, email address, employment details if you send us a CV, resume or other details of your employment history in connection with an advertised job vacancy or a general inquiry regarding employment opportunities with us and other information so that we can provide corporate-related information to you or respond to your job application. No experiences are available on the corporate websites. As such, the parts of this Privacy Policy that discuss experiences or discuss children are not applicable to the corporate websites.
+Please note that our corporate websites (which may include corp.roblox.com, blog.roblox.com, and their subdomains) are general audience websites. On these sites, we may provide information regarding the corporate side of Roblox, press information, career information, and other general audience information. We may also ask for your name, email address, employment details if you send us a CV, resume or other details of your employment history in connection with an advertised job vacancy or a general inquiry regarding employment opportunities with us and other information so that we can provide corporate-related information to you or respond to your job application. We may also ask for your name, email address, company information, and other details in connection with your business to fulfill your request for updates or materials from us. No experiences are available on the corporate websites. As such, the parts of this Privacy Policy that discuss experiences or discuss children are not applicable to the corporate websites.
 
 We have a number of corporate websites, such as corp.roblox.com and blog.roblox.com. These sites explain our technology and who works at Roblox. There is news on there about the company and we let people know about job openings that they can apply for at Roblox. There is also information on there for parents in the resources section. While these websites are generally aimed at adults, you can also visit them to learn more about Roblox as a company.
 
-We only collect information from people on these websites when someone is applying for a job.
+We only collect information from people on these websites when someone is applying for a job or interested in partnering with Roblox.
 
 4\. Information You Provide when Setting Up an Account on Roblox
 
@@ -154,7 +154,8 @@ In addition to account setup on Roblox, we may collect and process Personal Info
 *   When you make purchases on the Service. Users can purchase virtual currency or premium subscriptions, for example, in the form of Robux, Premium memberships, etc., and may use a variety of payment methods. When making purchases, users or their parents will be required to enter billing information, which may include name, billing address, credit card or other payment information, and billing email. Our payment processors will process all purchases, and you will be subject to their terms and conditions and privacy policy. Your billing information, transaction details, and purchase history may be retained and used by our payment processors to resolve subsequent billing disputes and inquiries.
 *   When you post, share, or otherwise transmit comments, messages, or content on Roblox via community features, such as public chat or private chat, forums, group walls, personal posts, portfolios, etc. We may collect these comments, messages, posts, and they may be monitored, filtered and moderated for purposes such as removal of profanity, Personal Information, and other inappropriate content. Where permitted by law, we may use pre-filtered chat, comments and messages for purposes such as training and improving our filter technology to increase the safety on our platform.
 *   When you participate in our Roblox Developer Exchange Program. We require you to provide us with an IRS W-9 form (for U.S. taxpayers) or W-8 form (for non-U.S. taxpayers). We may also ask you to verify your identity by providing a government issued photo ID through a third-party vendor. For more information on the Developer Exchange program, please visit our [Developer Exchange Terms of Use](https://en.help.roblox.com/hc/en-us/articles/115005718246).
-*   When you provide us with your phone number. If you choose to provide a phone number during registration, you may receive a verification SMS after sign-up to confirm your ownership of the number, which will allow you to log in via mobile. Your phone number may also be used to recover a lost or forgotten password.
+*   When you provide us with your phone number. If you choose to provide a phone number during registration, you may receive a verification SMS after sign-up to confirm your ownership of the number, which will allow you to log in via mobile. Your phone number may also be used to recover a lost or forgotten password. Additionally, with your explicit and informed consent, we may use your phone number to recommend you as a friend to others using Roblox. You will be recommended with your contact name as stored on your friends’ devices, which may include also your real name. If you do not want us to use your phone number to be found by your friends on Roblox, please do not activate this feature or deactivate it at any time. Please note that the Discoverability feature may not be available in certain locations.
+*   When you provide us with your contact book. If you opt-in to the Contact Importer feature, you consent to sharing with Roblox the first and last names and phone numbers of your contacts in your address book on your mobile phone, either at the time you register for our Service or otherwise. We do so to help you connect with your friends on our Service. As part of the Contact Importer feature, we will automatically access and collect information in your address book from time to time in order to sync your contacts. Such information will only be retained in case of matches with existing Roblox users. However, our Contact Importer feature may not be available in certain locations.
 *   When you join our experiences on a VR platform. If you join our experiences on a VR platform, we will collect your physical movement information in order to replicate your movement in the experience. This information is only used to provide the Service and is not stored.
 *   When you contact or send communications to us. For example, when you contact customer support, report a problem, or submit questions, concerns, or comments regarding our Service or its content, we may collect contact information such as your email address and other important information about your inquiry or concern. This information is used to respond to your communications, fulfill your requests, or provide other customer support.
 *   When you use or interact with third-party plug-ins that may be available on the Service for users other than children. This includes third-party social media widgets, share buttons, and/or login mechanisms. These features may include social plugins from Google, Facebook, Twitter or other platforms, and may be subject to the terms and conditions and/or privacy policies of these other companies as posted on their respective websites. When you use these features, certain information from your social media accounts may be accessed by or shared with Roblox, and likewise, certain information about your use of Roblox may be posted to your profile on those platforms.
@@ -185,7 +186,7 @@ In addition to the specific uses above, any information that you provide or that
 
 You don't have to share any additional personal information with us (other than the information described above) to use our websites or app. We may collect other personal information when you use our platform, for example, if you or your parents buy Robux, we will collect additional information from the buyer in order to take the payment such as your name, billing address, email address and payment card details or other payment information.
 
-When you type content on Roblox in public chat, private chat, forums, group walls, personal posts or portfolios, we will monitor what you write to check that they do not contain swear words, your personal information or chat that is not suitable for users to have on Roblox.
+When you use voice chat or type content on Roblox in public chat, private chat, forums, group walls, personal posts or portfolios, we will monitor what you say and write to check that it does not contain inappropriate content, your personal information, or chat that is not suitable for users to have on Roblox.
 
 If you contact us, for example, about a problem with our services, we may collect your contact information, such as your email address and other important information about your issue or concern. We will only use this information to solve your problem/concerns and to be able to reply to you.
 
@@ -304,7 +305,7 @@ We offer users the ability to use forums and similar means of public discussion.
 
 #### Creators
 
-The creators of the experiences you access will be provided your username, display name, user ID, and the regional location you are based in. The information shall enable the creators to determine their player base, so they can adjust their experiences to the legal requirements of the respective regional location. We offer creators a tool which allows them to review the regional location of origin of players who play their experiences. For this purpose, we will determine the user’s regional location of access to the Roblox website based on the IP address. We will not share your IP address with the creators.
+The creators of the experiences you access will be provided your username, display name, game metrics, user ID, and the regional location you are based in. The information shall enable the creators to determine their player base, so they can adjust their experiences to the legal requirements of the respective regional location. We offer creators a tool which allows them to review the regional location of origin of players who play their experiences. For this purpose, we will determine the user’s regional location of access to the Roblox website based on the IP address. We will not share your IP address with the creators.
 
 #### Legal disclosures
 
@@ -334,7 +335,7 @@ There are some areas on Roblox such as in game chat where you can communicate wi
 
 #### Creators
 
-We share your username, display name, location and user ID with the creators of the experiences you access.
+We share your username, display name, game metrics, location and user ID with the creators of the experiences you access.
 
 #### Legal disclosures, business transfers, and other important content
 
@@ -598,4 +599,4 @@ We update this privacy policy sometimes, so you should review this site regularl
 
 If we make any major changes, we will let you know by email (if we have your email address) or by showing a prominent notice on this website or in app prior to the change becoming effective. If required by law, we will obtain your parent’s consent if any of these changes impact you.
 
-Last Update: October 22, 2021
+Last Update: June 3, 2022
