@@ -1,9 +1,9 @@
 Privacy Notice
 ==============
 
-#### Last Updated: April 1, 2022
+#### Last Updated: June 3, 2022
 
-To see prior version, click [here](https://aws.amazon.com/privacy/prior-version20220308).
+To see prior version, click [here](https://aws.amazon.com/privacy/aws-privacy-prior-20220401/).
 
 This Privacy Notice describes how we collect and use your personal information in relation to AWS websites, applications, products, services, events, and experiences that reference this Privacy Notice (together, “AWS Offerings”).
 
@@ -106,12 +106,11 @@ We keep your personal information to enable your continued use of AWS Offerings,
 
 #### Contacts, Notices, and Revisions
 
-If you have any concern about privacy at AWS or want to contact one of our data controllers, please [contact us](https://console.aws.amazon.com/support/home) with a thorough description, and we will try to resolve the issue for you. You may also contact us at the addresses below:
+If you have any concerns about privacy at AWS, please [contact us](https://console.aws.amazon.com/support/home) with a thorough description, and we will try to resolve the issue for you. 
 
-*   For any prospective or current customers of Amazon Web Services, Inc., our mailing address is: Amazon Web Services, Inc., 410 Terry Avenue North, Seattle, WA 98109-5210, ATTN: AWS Legal
-*   For any prospective or current customers of Amazon Web Services EMEA SARL, our mailing address is: Amazon Web Services EMEA SARL, 38 Avenue John F. Kennedy, L-1855, Luxembourg, ATTN: AWS EMEA Legal
-*   For any prospective or current customers of Amazon Internet Services Private Limited, our mailing address is: Amazon Internet Services Private Limited, Block E, 14th Floor, Unit Nos. 1401 to 1421, International Trade Tower, Nehru Place, New Delhi, Delhi 110019, India, ATTN: AISPL Legal
-*   For any prospective or current customers of Amazon Web Services Japan G.K., our mailing address is: Amazon Web Services Japan G.K., 3-1-1 Kamiosaki, Shinagawa-ku, Tokyo 141-0021 JAPAN, ATTN: AWS Japan Legal
+For any prospective or current customers of Amazon Web Services, Inc., our mailing address is: Amazon Web Services, Inc., 410 Terry Avenue North, Seattle, WA 98109-5210, ATTN: AWS Legal  
+
+Contact details for specific jurisdictions including the European Economic Area, the UK and Switzerland, can be found in “Additional Information for Certain Jurisdictions” below. 
 
 If you interact with AWS Offerings on behalf of or through your organization, then your personal information may also be subject to your organization’s privacy practices, and you should direct privacy inquiries to your organization.
 
@@ -125,7 +124,7 @@ Amazon Web Services, Inc. participates in the EU-US and Swiss-US Privacy Shield 
 
 #### Additional Information for Certain Jurisdictions
 
-We provide additional information about the privacy, collection, and use of personal information of prospective and current customers of AWS Offerings located in certain jurisdictions.
+We provide additional information about our controllers and data protection officers (as applicable), the privacy, collection, and use of personal information of prospective and current customers of AWS Offerings located in certain jurisdictions.  
 
 *   Brazil
     
@@ -219,20 +218,26 @@ We provide additional information about the privacy, collection, and use of pers
     
     If you wish to do any of these things and you are an AWS customer, please [contact us](https://console.aws.amazon.com/support/home). If you are not an AWS customer, please contact us at Zona Franca America, Edificio C7. 600 norte de Plaza Real Cariari, sobre la paralela a la Autopista General Cañas. San Francisco de Heredia, Costa Rica.  
     
-*   European Economic Area
+*   European Economic Area, UK, and Switzerland
     
-    **Controller of Personal Information.** When Amazon Web Services EMEA SARL is the provider of an AWS Offering, Amazon Web Services EMEA SARL, 38 Avenue John F. Kennedy, L-1855, Luxembourg, is the data controller of personal information collected or processed through the AWS Offering. The data protection officer for Amazon Web Services EMEA SARL can be contacted at aws-EU-privacy@amazon.com.
+    **Controller of Personal Information.** When Amazon Web Services EMEA SARL is the provider of an AWS Offering, Amazon Web Services EMEA SARL, 38 Avenue John F. Kennedy, L-1855, Luxembourg, is the data controller of personal information collected or processed through the AWS Offering. 
     
-    Amazon Web Services EMEA SARL is also the authorized representative of Amazon Web Services, Inc. in the EEA.  
+    Amazon Web Services EMEA SARL is also the authorized representative of Amazon Web Services, Inc. in the EEA.
     
-    If you have a data protection related question and you are an AWS customer, please contact us [here](https://console.aws.amazon.com/support/home). If you are not an AWS customer, please contact us [here](https://pages.awscloud.com/DSAR_RTF.html).
+    **Processing.** We process your personal information on one or more of the following legal bases:
     
-    **Processing.** We process your personal information on one or more of the following legal bases:
-    
-    *   as necessary to enter into a contract with you or a legal entity you represent, to perform our contractual obligations, to provide AWS Offerings, to respond to requests from you, or to provide customer support;
-    *   where we have a legitimate interest, as described in this Privacy Notice (see How We Use Personal Information above);
+    *   as necessary to enter into a contract with you or a legal entity you represent, to perform our contractual obligations, to provide AWS Offerings, to respond to requests from you, or to provide customer support;  
+        
+    *   where we have a legitimate interest, as described in this Privacy Notice (see How We Use Personal Information above);  
+        
     *   as necessary to comply with relevant law and legal obligations, including to respond to lawful requests and orders; or 
     *   with your consent.
+    
+    **Information We Retain After Your Account is Closed.**  
+    
+    *   If you decide to terminate your agreement and close your AWS account, we will retain your content for a period of up to 90 days after account closure, during which you may still access part of the AWS Management Console in order to retrieve your billing documents and to contact customer support. During this period, you may also decide to reopen your AWS account. At the end of this period, we will delete any content remaining in your account.  
+        
+    *   After account closure, we may need to keep certain information for an additional period of time for legal and legitimate business purposes. For example, we may retain personal information such as your contact information (e.g., name, email address, physical address) and any invoices that AWS has sent to you (e.g., record of purchases, applicable discounts, and tax information) for tax and accounting purposes. If applicable, AWS may also retain records of communications with you, as well as relevant logs (e.g., a log of your account closure) for dispute resolution purposes. We further may keep records for preventing fraud and ensuring security, for example in case of misuse of our services or violation of our terms.
     
     **Your Rights**. Subject to applicable law, you have the right to:
     
@@ -243,15 +248,21 @@ We provide additional information about the privacy, collection, and use of pers
     *   object to the processing of personal information; and
     *   request portability of personal information that you have provided to us (which does not include information derived from the collected information), where the processing of such personal information is based on consent or a contract with you and is carried out by automated means.
     
-    If you wish to do any of these things and you are an AWS customer, please contact us [here](https://console.aws.amazon.com/support/home). If you are not an AWS customer, please contact us [here](https://pages.awscloud.com/DSAR_RTF.html).
+    **Questions and Contacts.** If you wish to do any of these things or have a data-protection related question, and you are an AWS customer, please contact us [here](https://signin.aws.amazon.com/signin?redirect_uri=https%3A%2F%2Fus-east-1.console.aws.amazon.com%2Fsupport%2Fhome%3Fregion%3Dus-east-1%26state%3DhashArgs%2523%26isauthcode%3Dtrue&client_id=arn%3Aaws%3Aiam%3A%3A015428540659%3Auser%2Fsupportcenter&forceMobileApp=0&code_challenge=k2xgcbrSF22NYXIq_NYk47-95DzdIyEpseijzwDkUlY&code_challenge_method=SHA-256). If you are not an AWS customer, please contact us [here](https://pages.awscloud.com/DSAR_RTF.html). 
+    
+    The data protection officer for Amazon Web Services EMEA SARL can be contacted at aws-EU-privacy@amazon.com.  
     
     You can also lodge a complaint with our principal supervisory authority, the [Commission Nationale pour la Protection des Données in Luxembourg](https://cnpd.public.lu/en.html), or with a local authority.
     
-    When you consent to our processing your personal information for a specified purpose, you may withdraw your consent at any time, and we will stop any further processing of your data for that purpose.
+    When you consent to our processing your personal information for a specified purpose, you may withdraw your consent at any time, and we will stop any further processing of your data for that purpose.  
     
     **Cookies.** Please refer to our [Cookie Notice](https://aws.amazon.com/legal/cookies/).
     
     **Transfers outside of the EEA.** When we transfer your personal information outside the EEA we do so in accordance with the terms of this Privacy Notice and applicable data protection law.  
+    
+*   India
+    
+    For any prospective or current customers of Amazon Internet Services Private Limited, our mailing address is: Amazon Internet Services Private Limited, Block E, 14th Floor, Unit Nos. 1401 to 1421, International Trade Tower, Nehru Place, New Delhi, Delhi 110019, India, ATTN: AISPL Legal.
     
 *   Japan
     
@@ -267,7 +278,7 @@ We provide additional information about the privacy, collection, and use of pers
     
     **Your Rights**
     
-    You may have the right to request access to or delete your personal information in accordance with applicable law. If you wish to submit a data subject access request, please [contact us](https://console.aws.amazon.com/support/home) (for AWS customers) or contact us at the address under [Contacts, Notices, and Revisions](https://aws.amazon.com/privacy/#Contacts.2C_Notices.2C_and_Revisions) above (for AWS customers and non-customers).
+    You may have the right to request access to or delete your personal information in accordance with applicable law. If you wish to submit a data subject access request, please [contact us](https://console.aws.amazon.com/support/home) (for AWS customers) or contact us at our mailing address, Amazon Web Services Japan G.K., 3-1-1 Kamiosaki, Shinagawa-ku, Tokyo 141-0021 JAPAN, ATTN: AWS Japan Legal (for current or prospective customers of Amazon Web Services Japan G.K. and non-customers in Japan).
     
 *   Malaysia
     
