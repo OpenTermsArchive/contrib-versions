@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-#### Last Updated: May 13, 2022
+#### Last Updated: June 3, 2022
 
 #### 1\. Universal Service Terms (Applicable to All Services)
 
@@ -1008,9 +1008,11 @@ Migration Evaluator collects performance and usage metrics and data about your 
 
 **70.5.** You release us (and our agents and employees) from claims, demands, and damages (actual or consequential) of any and every kind and nature, known or unknown, suspected or unsuspected, disclosed and undisclosed, arising out of or in any way connected with your use of the AWS IQ marketplace.
 
-#### 71\. RDS on VMware
+#### 71\. AWS Cloud WAN (Preview)
 
-The RDS on VMware Service is an AWS managed service offering enabling Customers to use RDS on a variety of customer-provided hardware and software configurations. To provide you with managed services outside of the AWS Network, AWS needs access to the virtual machines you select for use with RDS on VMware. AWS will not access the virtual machines that you select to use with RDS on VMware except as necessary to maintain and provide the Service. Such access will be secured, logged and limited. You consent to AWS’s ability to access and manage these virtual machines. RDS on VMware Software licensed by AWS is AWS Content. Software licensed by VMware is Third Party Content. Your use of VMware software is governed by the [VMware End User Terms and Conditions](https://www.vmware.com/download/eula.html). AWS may share Account Information, logs or other usage information with VMware in order to provide support and other services initiated by you or investigate fraud, abuse or violations of the Agreement. You agree to remain enrolled in AWS Support at the Business or Enterprise level (or its successor or higher level) during the entire period of your use of the RDS on VMware Service. You are responsible for obtaining all required on-premises licenses and complying with all applicable licensing requirements for software that you install.  
+**71.1.** AWS Cloud WAN in Japan is sold and provided by AMCS LLC, an affiliate of AWS, and not AWS, but is otherwise subject to the terms of the Agreement.
+
+**71.2.** AWS Cloud WAN in Singapore is sold and provided by AMCS SG PRIVATE LIMITED, an affiliate of AWS, and not AWS, but is otherwise subject to the terms of the Agreement.
 
 #### 72\. AWS CodeStar Notifications
 
@@ -1163,11 +1165,5 @@ Amazon FinSpace is a tool to help you analyze data for investment and business d
 **86.5** For purposes of your use of AWS DeepRacer Student, Amazon Web Services, Inc. is the AWS Contracting Party under the Agreement.
 
 **86.6** You must be a student in high school or a higher education institution, and at least 16 years old, to use AWS DeepRacer Student. If you are under 18 years of age, or the age of majority in your location, you may use AWS DeepRacer Student only with involvement of a parent or guardian who agrees to be bound by these Service Terms.
-
-### 87\. AWS Cloud WAN (Preview)
-
-**87.1.** AWS Cloud WAN in Japan is sold and provided by AMCS LLC, an affiliate of AWS, and not AWS, but is otherwise subject to the terms of the Agreement.
-
-**87.2.** AWS Cloud WAN in Singapore is sold and provided by AMCS SG PRIVATE LIMITED, an affiliate of AWS, and not AWS, but is otherwise subject to the terms of the Agreement.
 
 [Previous version(s)](https://aws.amazon.com/service-terms/historical/)
