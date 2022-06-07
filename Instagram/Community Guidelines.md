@@ -1,3 +1,5 @@
+*   [Terms and policies](https://help.instagram.com/1417489251945243/?helpref=breadcrumb)
+
 Community Guidelines
 ====================
 
