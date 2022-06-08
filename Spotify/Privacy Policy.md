@@ -154,8 +154,8 @@ Here is a general explanation of each 'legal basis' to help you understand the t
     *   comply with obligations under a contract with you. This includes Spotify's obligations under the Terms of Use to provide the Spotify Service to you, or
     *   verify information before a new contract with you begins.
 *   **Legitimate Interest:** When Spotify or a third party has an interest in using your personal data in a certain way, which is necessary and justified considering any possible risks to you and other Spotify users. For example, using your Usage Data to improve the Spotify Service for all users. [Contact us](#11-how-to-contact-us) if you want to understand a specific justification.
-*   \*\*Consent: \*\*When Spotify asks you to actively indicate your agreement to Spotify's use of your personal data for a certain purpose.
-*   \*\*Compliance with Legal Obligations: \*\*When Spotify must process your personal data to comply with a law.
+*   **Consent:** When Spotify asks you to actively indicate your agreement to Spotify's use of your personal data for a certain purpose.
+*   **Compliance with Legal Obligations:** When Spotify must process your personal data to comply with a law.
 
 | Purpose for processing your data | Legal basis that permits the purpose | Categories of personal data used for the purpose |
 | --- | --- | --- |
@@ -246,10 +246,10 @@ We keep your personal data only as long as necessary to provide you with the Spo
 
 Criteria used to determine the retention periods include:
 
-*   \*\*How can we minimize the data retention period? \*\*Our systems are designed to age out personal data in 90 days, unless another period is selected for legitimate business reasons.
+*   **How can we minimize the data retention period?** Our systems are designed to age out personal data in 90 days, unless another period is selected for legitimate business reasons.
 *   **Do we need to keep data to ensure the service that users expect?** We keep personal data for an appropriate period to deliver a personalized service to our users over time. We typically keep streaming history for the life of an account, for example, to provide retrospective playlists that users enjoy (e.g. Your Summer Rewind and the end-of-year Wrapped campaign) and personalized recommendations based on current listening habits.
-*   \*\*Are users able to update or delete the data themselves? \*\*Where users are able to see and update the personal data themselves, we keep the information for as long as the user chooses. For example, we keep your Spotify email address and other profile information until you choose to change or delete it yourself.
-*   \*\*Do we need to keep the data to uphold our rules and keep our service safe? \*\*To help ensure user safety, protect against harmful content on our platform, and take action with reports of intellectual property infringement, we may keep data that has been removed from the Spotify Service for a limited period of time. This helps us investigate potential breaches of our [User Guidelines](https://www.spotify.com/legal/user-guidelines/) and [Platform Rules](https://www.spotify.com/platform-rules/).
+*   **Are users able to update or delete the data themselves?** Where users are able to see and update the personal data themselves, we keep the information for as long as the user chooses. For example, we keep your Spotify email address and other profile information until you choose to change or delete it yourself.
+*   **Do we need to keep the data to uphold our rules and keep our service safe?** To help ensure user safety, protect against harmful content on our platform, and take action with reports of intellectual property infringement, we may keep data that has been removed from the Spotify Service for a limited period of time. This helps us investigate potential breaches of our [User Guidelines](https://www.spotify.com/legal/user-guidelines/) and [Platform Rules](https://www.spotify.com/platform-rules/).
 *   **Is Spotify subject to a legal or contractual obligation to keep or delete the data?** Examples include mandatory data retention laws, government orders to preserve data relevant to an investigation or data kept for the purposes of litigation. Conversely, we will remove unlawful content if the law requires us to do so.
 
 [Top of page ↑](#spotify-privacy-policy)
