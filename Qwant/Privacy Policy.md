@@ -1,32 +1,22 @@
-![](/wp-content/uploads/2021/08/Illustration_1@2x.png)
-
 A search engine that respects your privacy
 ------------------------------------------
 
 At Qwant, we don’t know who you are. We don’t target you with ads or keep your search history. Because your age, gender, and interests belong only to you. And so with each new search request, you get a blank page to begin anew.  
-
-![](/wp-content/uploads/2021/08/Illustration_3@2x-e1630070698755.png)
 
 An open and neutral web at your service
 ---------------------------------------
 
 By not tracking our users, our search engine offers you a completely unfiltered overview of the Internet and guarantees neutral results. Your search results are never locked into certainties.  Thus, your previous searches don’t influence the results of your next ones.
 
-![](/wp-content/uploads/2021/08/Illustration_2@2x.png)
-
 Browse without targeted advertising!
 ------------------------------------
 
 Qwant does not place any advertising cookies in your browser. Therefore, any advertisements that appear during your browsing will be linked to your search keywords, and not to your user profile. 
 
-![](/wp-content/uploads/2021/08/Illustration_4@2x-e1630070748850.png)
-
 Your data is not a bargaining chip
 ----------------------------------
 
 Nowadays it is common to refer to data as, “black gold”. Not at Qwant. We don’t sell your data to third-party organizations, for advertising or for any other purposes. 
-
-![](/wp-content/uploads/2021/08/Illustration_5@2x-e1630070362669.png)
 
 An alternative made in France that implements European legislation
 ------------------------------------------------------------------
@@ -336,4 +326,4 @@ What data is processed for the Qwant mobile application on Android and iOS?
 
 We do not integrate any tracker in our applications nor any advertising ID. Qwant does not process any specific personal data when you use the Qwant application for Android or iOS. The processing of personal data carried out by Qwant during your navigation and use of our Services from the application are exclusively those described above.
 
-*   Last update: March 10, 2022
+*   Last update: June 1, 2022
