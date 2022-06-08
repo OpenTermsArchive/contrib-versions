@@ -1,5 +1,7 @@
 Privacy Policy
 
+[Our new Privacy Policy can be found here - it becomes effective on 13 July 2022](https://www.tiktok.com/legal/new-privacy-policy?lang=en)  
+
 **_Last updated:_** _5 October 2021_ 
 
 **Introduction**
@@ -321,7 +323,7 @@ We may amend or update this Privacy Policy from time to time. We will notify you
     
 *   Norwegian: [Personvernerklæring](https://www.tiktok.com/legal/no-privacy-policy-eea?lang=en)  
     
-*   Slovakian: [Predpis o ochrane osobných údajov](https://www.tiktok.com/legal/sk-privacy-policy-eea?lang=en)  
+*   Slovakian: [Predpis o ochrane osobných údajov](https://www.tiktok.com/legal/sk-privacy-policy-eea?lang=en)  
     
 
 **Contact Us**
