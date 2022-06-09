@@ -11,7 +11,7 @@ When you use Zillow Group services to find, buy, rent, or sell your home, get a 
 *   [Information collected by Zillow](#Information-collected-by-Zillow)
 *   [Why Zillow uses your information](#Why-Zillow-uses-your-information)
 *   [Sharing your information](#Sharing-your-information)
-*   [Privacy tools and](#Privacy-tools-and-choices) [choices](https://www.zillowgroup.com/zg-privacy-policy/#Privacy-tools-and-choices)
+*   [Privacy tools and](#Privacy-tools-and-choices) [choices](https://bedrock.cms.int.zg-core.com/zillowgroup/zg-privacy-policy/#Privacy-tools-and-choices)
 *   [Protecting your information](#Protecting-your-information)
 *   [Applicability of this policy](#Applicability-of-this-policy)
 *   [Legal disclosures](#Legal-disclosures)
@@ -178,7 +178,7 @@ When Zillow partners with other businesses to offer products and services to you
 
 ### Legal and compliance transfers
 
-When Zillow needs to share data to satisfy a legal or regulatory requirement, including responding to a subpoena or other lawful government request for data, we will share information only as necessary to comply with that requirement.  We’ll tell you before sharing your information in these situations unless we’re prohibited from doing so.  For more information about how we respond to requests for data, see [Government and Civil Information Requests](https://www.zillowgroup.com/terms-of-use-privacy-policy/government-civil-information-requests/).  We may also share information if needed to enforce our legal rights, detect or prevent fraud or security concerns, and protect public safety.
+When Zillow needs to share data to satisfy a legal or regulatory requirement, including responding to a subpoena or other lawful government request for data, we will share information only as necessary to comply with that requirement.  We’ll tell you before sharing your information in these situations unless we’re prohibited from doing so.  For more information about how we respond to requests for data, see [Government and Civil Information Requests](https://bedrock.cms.int.zg-core.com/zillowgroup/terms-of-use-privacy-policy/government-civil-information-requests/).  We may also share information if needed to enforce our legal rights, detect or prevent fraud or security concerns, and protect public safety.
 
 If Zillow is involved in a merger, acquisition, or any form of transfer or sale of some or all of its business, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, we may share your information in connection with that transaction.
 
@@ -286,8 +286,8 @@ We are always reviewing our privacy practices to make sure they comply with this
 
 See our previous Privacy Policies:
 
-[Effective January 1, 2020](https://www.zillowgroup.com/previous-privacy-policy)
+[Effective January 1, 2020](https://bedrock.cms.int.zg-core.com/zillowgroup/previous-privacy-policy)
 
-[Effective June 25, 2019](http://www.zillowgroup.com/previous-privacy-policy-june-25-2019)
+[Effective June 25, 2019](http://bedrock.cms.int.zg-core.com/zillowgroup/previous-privacy-policy-june-25-2019)
 
 * * *
