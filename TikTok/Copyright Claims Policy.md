@@ -3,9 +3,7 @@
 
 _Last updated: June 7, 2021_
 
-TikTok respects the intellectual property rights of others, and we expect you to do the same. TikTok’s [Terms of Service](https://www.tiktok.com/en/terms-of-use) and [Community Guidelines](https://www.tiktok.com/community-guidelines) do not allow posting, sharing, or sending any content that violates or infringes someone else’s copyrights, trademarks or other intellectual property rights.
-
-  
+TikTok respects the intellectual property rights of others, and we expect you to do the same. TikTok’s [Terms of Service](https://www.tiktok.com/en/terms-of-use) and [Community Guidelines](https://www.tiktok.com/community-guidelines) do not allow posting, sharing, or sending any content that violates or infringes someone else’s copyrights, trademarks or other intellectual property rights.
 
 **Copyright**
 -------------
@@ -20,13 +18,13 @@ At the same time, not all unauthorized uses of copyrighted content constitute an
 
 **Removal of Content; Suspension or Termination of Account**
 
-Any user content that infringes an other person’s copyright may be removed. The account may be suspended or terminated for multiple copyright violations in connection with the use of the TikTok site or app, or other violations of the [Terms of Service](https://www.tiktok.com/en/terms-of-use) and [Community Guidelines](https://www.tiktok.com/community-guidelines). We reserve the right to refuse any account holder whose account was used for improper activities from opening a new account on TikTok’s site or app, or otherwise hosted by TikTok.
+Any user content that infringes an other person’s copyright may be removed. The account may be suspended or terminated for multiple copyright violations in connection with the use of the TikTok site or app, or other violations of the [Terms of Service](https://www.tiktok.com/en/terms-of-use) and [Community Guidelines](https://www.tiktok.com/community-guidelines). We reserve the right to refuse any account holder whose account was used for improper activities from opening a new account on TikTok’s site or app, or otherwise hosted by TikTok.
 
 ### **Information for Rightsholders:**
 
 **Copyright Infringement Notification**
 
-Contacting the user directly may resolve your complaint more quickly and in a way that is more beneficial to you, the user, and our community. You may also file a [Copyright Infringement Report](https://www.tiktok.com/legal/report/Copyright) to request the removal of the alleged infringing content from TikTok.
+Contacting the user directly may resolve your complaint more quickly and in a way that is more beneficial to you, the user, and our community. You may also file a [Copyright Infringement Report](https://www.tiktok.com/legal/report/Copyright) to request the removal of the alleged infringing content from TikTok.
 
 All complaints should contain the information requested in our online Copyright Infringement Report form. Failure to include necessary information may limit our ability to investigate your claims and may result in your complaint being denied.
 
@@ -38,9 +36,9 @@ If you submit a report or infringement notification to us, we may contact you if
 
 **EU Copyright Directive**
 
-Pursuant to Article 17 of the Copyright Directive (EU 2019/790), if you want to make an enquiry about granting an authorisation to TikTok to make your copyright-protected works available on TikTok, please use [this form](https://www.tiktok.com/legal/report/licensing-form). We will review your request and be in touch.
+Pursuant to Article 17 of the Copyright Directive (EU 2019/790), if you want to make an enquiry about granting an authorisation to TikTok to make your copyright-protected works available on TikTok, please use [this form](https://www.tiktok.com/legal/report/licensing-form). We will review your request and be in touch.
 
-If you want to request that your music or audiovisual works are made unavailable in the EU, we need you to file [this form](https://www.tiktok.com/legal/report/Copyright/eurequests). So that TikTok can consider your request, you will have to provide us with relevant and necessary information about you and your copyright works. Upon receiving this information and validating your request, TikTok will do its best to ensure that your copyright work is made unavailable on TikTok in the EU.
+If you want to request that your music or audiovisual works are made unavailable in the EU, we need you to file [this form](https://www.tiktok.com/legal/report/Copyright/eurequests). So that TikTok can consider your request, you will have to provide us with relevant and necessary information about you and your copyright works. Upon receiving this information and validating your request, TikTok will do its best to ensure that your copyright work is made unavailable on TikTok in the EU.
 
 Please note that in accordance with its legal obligations TikTok provides to users and rightholders a copyright infringement dispute resolution mechanism, however rightholders remain free to assert their rights in court.
 
@@ -76,8 +74,6 @@ Videos that fall within an exception or limitation to copyright are still subjec
 
 Please note that in accordance with its legal obligations TikTok provides to users and rightholders a copyright infringement dispute resolution mechanism, however users remain free to assert their rights in court.
 
-  
-
 **Trademark**
 -------------
 
@@ -85,31 +81,55 @@ A trademark is a word, symbol, slogan, design, or combination of any of the fore
 
 ### **Trademark Infringement**
 
-Trademark laws prohibit trademark infringement, which is generally the unauthorized use of a trademark or service mark in connection with goods or services in a way that is likely to cause confusion, deception or mistake about the source, origin, sponsorship or affiliation of the associated goods and/or services. 
+Trademark laws prohibit trademark infringement, which is generally the unauthorized use of a trademark or service mark in connection with goods or services in a way that is likely to cause confusion, deception or mistake about the source, origin, sponsorship or affiliation of the associated goods and/or services.
 
-At the same time, the use of another’s trademark for purposes of accurately referencing, lawfully commenting, criticizing, parodying, or reviewing the trademark owner’s products or services, or for purposes of comparing them to other products or services, where the mark is not used to designate the user’s own goods or services or those of a third party, is generally not considered a violation of our policies. Likewise, it is generally permissible to make a fan page about a brand, even without the brand’s permission, provided that you do not claim to speak for or be associated with the brand or otherwise violate the brand’s intellectual property rights. 
+At the same time, the use of another’s trademark for purposes of accurately referencing, lawfully commenting, criticizing, parodying, or reviewing the trademark owner’s products or services, or for purposes of comparing them to other products or services, where the mark is not used to designate the user’s own goods or services or those of a third party, is generally not considered a violation of our policies. Likewise, it is generally permissible to make a fan page about a brand, even without the brand’s permission, provided that you do not claim to speak for or be associated with the brand or otherwise violate the brand’s intellectual property rights.
 
 ### **Removal of Content; Suspension or Termination of Account**
 
-Any content that violate another’s trademark rights may be taken down. Repeat violations of trademark rights in connection with the use of the TikTok site or app, or other violations of the [Terms of Service](https://www.tiktok.com/en/terms-of-use) and [Community Guidelines](https://www.tiktok.com/community-guidelines) may result in the suspension or termination of the user account. We reserve the right to refuse any account holder whose account was used for improper activities from opening a new account on TikTok’s site or app, or otherwise hosted by TikTok. 
+Any content that violate another’s trademark rights may be taken down. Repeat violations of trademark rights in connection with the use of the TikTok site or app, or other violations of the [Terms of Service](https://www.tiktok.com/en/terms-of-use) and [Community Guidelines](https://www.tiktok.com/community-guidelines) may result in the suspension or termination of the user account. We reserve the right to refuse any account holder whose account was used for improper activities from opening a new account on TikTok’s site or app, or otherwise hosted by TikTok.
 
 ### **Trademark Complaint and Notification**
 
 Contacting the user directly may resolve your complaint more quickly and in a way that is more beneficial to you, the user, and our community. You may also file a [Trademark Infringement Report](https://www.tiktok.com/legal/report/Trademark).
 
-All complaints should contain the information requested in our online Trademark Infringement Report form.  Failure to include necessary information may limit our ability to deal with your claims and may result in your complaint being denied. We may provide the account holder with your contact information, including the email address and the name of the trademark owner, and/or details of the complaint, in accordance with our Terms of Services and Privacy Policy.
+All complaints should contain the information requested in our online Trademark Infringement Report form. Failure to include necessary information may limit our ability to deal with your claims and may result in your complaint being denied. We may provide the account holder with your contact information, including the email address and the name of the trademark owner, and/or details of the complaint, in accordance with our Terms of Services and Privacy Policy.
 
 Before submitting a notification, please be aware that intentionally submitting a misleading or fraudulent report may lead to liability for damages under laws as may be applicable in some countries.
 
 ### **Trademark Infringement Counter-Notification**
 
-If you receive a trademark infringement notification that you believe to be in error or believe that you are authorized to use the content, you can reach out to the trademark owner directly to request a retraction. 
+If you receive a trademark infringement notification that you believe to be in error or believe that you are authorized to use the content, you can reach out to the trademark owner directly to request a retraction.
 
-You may also provide us with a counter-notification via our online [Counter Notification Form](https://www.tiktok.com/legal/report/counternotification). All counter-notification should contain the information requested in our online Counter Notification Form. Failure to include necessary information may limit our ability to investigate your claims and may result in your counter-notification being denied. 
-
-  
+You may also provide us with a counter-notification via our online [Counter Notification Form](https://www.tiktok.com/legal/report/counternotification). All counter-notification should contain the information requested in our online Counter Notification Form. Failure to include necessary information may limit our ability to investigate your claims and may result in your counter-notification being denied.
 
 **General Note**
 ----------------
 
 As a TikTok user, you are responsible for the content you post. If you have questions about copyright law or trademark law, such as questions about whether your content or your use of another person’s name or brand infringes or otherwise violates another person’s rights, you may want to contact an attorney. If you are unsure whether the material you plan to report to us is infringing or otherwise violating another person’s right, you may also want to first seek legal advice before reporting such content to us.
+
+Additional languages (please also see the language settings for other available languages)
+------------------------------------------------------------------------------------------
+
+*   Bulgarian: [български](https://www.tiktok.com/legal/bul-ip-policy-eea?lang=en)  
+    
+
+*   Croatian: [Cruatu](https://www.tiktok.com/legal/hr-ip-policy-eea?lang=en)  
+    
+
+*   Danish: [Dansk](https://www.tiktok.com/legal/da-ip-policy-eea?lang=en)  
+    
+
+*   Estonian: [Eesti keel](https://www.tiktok.com/legal/et-ip-policy-eea?lang=en)  
+    
+
+*   Latvian: [Latviski](https://www.tiktok.com/legal/lv-ip-policy-eea?lang=en)  
+    
+
+*   Lithuanian: [Lietuvių](https://www.tiktok.com/legal/lt-ip-policy-eea?lang=en)  
+    
+
+*   Norwegian: [Norsk](https://www.tiktok.com/legal/nb-ip-policy-eea?lang=en)  
+    
+
+*   Slovak: [Slovenský](https://www.tiktok.com/legal/sk-ip-policy-eea?lang=en)
