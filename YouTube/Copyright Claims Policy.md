@@ -8,7 +8,7 @@ What is fair use?
 
 Fair use is a US law that allows the reuse of copyright-protected material under certain circumstances without getting permission from the copyright owner. However, fair use is determined on a case-by-case basis, and different countries have different rules about when it's acceptable to use material without the copyright owner's permission. In the US, works of commentary, criticism, research, teaching or news reporting might be considered fair use, but it can depend on the situation.
 
-We created the YouTube [Audio Library](https://support.google.com/youtube/answer/3376882) to help creators reuse content safely by providing free high-quality music and sound effects.
+We have created the YouTube [Audio Library](https://support.google.com/youtube/answer/3376882?hl=en-gb) to help creators reuse content safely by providing high-quality music and sound effects.
 
 ### Resources
 
@@ -18,7 +18,7 @@ We created the YouTube [Audio Library](https://support.google.com/youtube/answer
 How can rightsholders make copyright claims?
 --------------------------------------------
 
-Everyone has access to YouTube's Copyright Management Tools, which give rightsholders control of their copyrighted material on YouTube. We work with rightsholders to match them to appropriate features based on the scale of their copyrighted content on YouTube and the resources that they've dedicated to responsibly managing their content online. Our Copyright Management Suite provides a number of ways for rightsholders to make copyright claims.
+Everyone has access to YouTube's Copyright Management tools, which give rightsholders control of their copyrighted material on YouTube. We work with rightsholders to match them to appropriate features based on the scale of their copyrighted content on YouTube and the resources that they've dedicated to responsibly managing their content online. Our Copyright Management Suite provides a number of ways for rightsholders to make copyright claims.
 
 Webform
 -------
@@ -28,12 +28,12 @@ The simplest way to have unauthorised copies of copyrighted content removed is b
 Copyright Match Tool
 --------------------
 
-The [Copyright Match Tool](https://support.google.com/youtube/answer/7648743) uses the power of Content ID matching technology to find re-uploads of videos on YouTube. Available to over 1,500,000 channels, it identifies near-full re-uploads of a creator's original videos on other YouTube channels and allows the creator to choose an action to take: they can request the removal of the video, message the uploader of the video or simply archive the match if they do not want to take any action. Any user with a demonstrated history of successful DMCA takedowns via our webform can apply for access using our public form.
+The [Copyright Match Tool](https://support.google.com/youtube/answer/7648743) uses the power of Content ID matching technology to find re-uploads of videos on YouTube. Available to over 1,500,000 channels, it identifies near-full re-uploads of a creator's original videos on other YouTube channels and allows the creator to choose an action to take: they can request the removal of the video, message the uploader of the video or simply archive the match if they do not want to take any action. Any user with a demonstrated history of successful DMCA takedowns via our webform can apply for access using our public form.
 
 Content ID
 ----------
 
-[Content ID](https://support.google.com/youtube/answer/2797370) is our solution for those with the most complex rights management needs. It is our digital fingerprinting system that allows rightsholders to upload content that they have exclusive rights to as reference files, and then scans videos uploaded to YouTube for matches of that content. When a user uploads content, Content ID scans against the database for matching videos. If there is a match, then an action is taken based on the predefined rules or policies that a content owner sets themselves:
+[Content ID](https://support.google.com/youtube/answer/2797370) is our solution for those with the most complex rights management needs. It is our digital fingerprinting system that allows rightsholders to upload content that they have exclusive rights to as reference files, and then scans videos uploaded to YouTube for matches of that content. When a user uploads content, Content ID scans against the database for matching videos. If there is a match, then an action is taken based on the predefined rules or policies that a content owner sets themselves:
 
 *   Block a whole video from being viewed. Creators do not receive a copyright strike if the content owner blocks a video.
 *   Monetise the video by running ads against it, in some cases sharing revenue with the uploader.
