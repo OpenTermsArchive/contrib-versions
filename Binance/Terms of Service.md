@@ -312,6 +312,24 @@ g. Binance.com reserves the right to suspend or terminate Binance POS service. I
 
 h. Due to network delay, computer system failures and other force majeure, which may lead to delay, suspension or deviation of Binance POS service execution, Binance.com will use commercially reasonable effort to ensure but not promise that Binance POS service execution system run stably and effectively. Binance.com does not take any responsibility if the final execution doesn’t match your expectations due to the above factors.
 
+### 11\. Binance Convert
+
+a. Upon completion of the registration and identity verification for your Binance Account, you may be able to make use of the Binance Convert Services, which enable Users to buy and sell Digital Assets. Users may provide Binance with a request to convert one Digital Asset into another Digital Asset, which Binance may, in its sole discretion, elect to accept or reject.
+
+b. For the conversion between a supported trading pair of Digital Assets, Users may place a market order, by specifying the type and amount of the Digital Asset to be converted (a “Convert Market Order”) or a limit order, by specifying the type and amount of the Digital Asset to be converted, the price and the expiry of the limit order (a “Convert Limit Order”).
+
+c. If a User places a Convert Market Order, Binance may provide a non-binding quote for the conversion (a “Convert Quote”), which the User may accept or decline within such period of time as Binance may in its sole discretion specify. It is the User’s responsibility to check the competitiveness of the price and decide whether to accept the Convert Quote or not within the specified time. User’s acceptance of the Convert Quote (the “User Trade Request”) authorizes Binance to temporarily lock the User’s Digital Assets that are to be converted until the conversion is completed.
+
+d. Binance may either accept or reject the User Trade Request at its sole discretion, depending on market conditions and other factors at the relevant time.
+
+e. If Binance accepts the User Trade Request, Binance will guarantee the price (regardless of price movement) as well as the amount it provides to the User and will settle the Digital Assets accordingly. In most cases, the settlement will complete within 10 seconds. But it is sometimes possible that the settlement process takes several hours or even longer, depending on various factors, including market conditions, technical issues, etc. During the process of settlement, the User cannot cancel the conversion or transfer, withdraw, or trade the Digital Asset that is being processed. Binance shall not be held responsible for potential loss or opportunity cost in connection with any price change of the Digital Asset being processed during this settlement period.
+
+f. In respect of Convert Limit Orders, Binance does not guarantee the fulfillment of the limit order, even if the market price hits or crosses the limit price set by the User, as orders are executed subject to market conditions and liquidity. Binance shall not be held responsible for any potential loss or opportunity cost due to the unsuccessful execution of limit orders in such case.
+
+g. Binance has the exclusive authority to determine which Digital Assets are listed on the platform and may add or remove Digital Assets from the platform in its sole discretion, from time to time. Binance may also change the order size available for each Digital Asset. In respect of such additions, removals, or amendments, Binance may, but is not obliged to, notify Users in advance and Binance shall have no liability to Users in connection with such additions, removals or amendments.
+
+h. It is recommended that Users conduct independent research into different Digital Assets prior to using Binance Convert Services. Users bear full responsibility for any profit or loss in connection with their use of the Binance Convert Services.
+
 ### IV. Liabilities
 
 ### 1\. Disclaimer of Warranties
