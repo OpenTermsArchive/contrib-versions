@@ -29,7 +29,7 @@ Open all Close all
     
     the ways that you interact with us
     
-    You may interact with us in a variety of ways, for example, when you place an order or have questions about your account or services; contact us on social media; seek technical support; enter a Verizon-sponsored or affiliated contest, sweepstakes or promotion; or register to receive news or public policy updates.
+    You may interact with us in a variety of ways, for example, when you visit our stores, call us, or use our websites or apps to place an order or ask questions about your account or services; contact us on social media; seek technical support; enter a Verizon-sponsored or affiliated contest, sweepstakes or promotion; or register to receive news or public policy updates.
     
     When you communicate with us, we may monitor or record the interaction to help us better serve you; to personalize your experiences; to train or otherwise support employees, resources or systems; and for security purposes. We may use artificial intelligence guided by humans, such as chat bots, to respond to your inquiry. When you interact with us through third-party services like Facebook Messenger or Twitter Direct Message, your communications are also governed by these companies’ privacy policies.
     
@@ -59,8 +59,8 @@ Open all Close all
     
     Some Verizon wireless devices include system applications we provide to:
     
-    *   collect information about network and device conditions including location, battery life and applications on the device.
-    *   automatically install apps when you activate your device and with your consent at later times, for example, when you request an app from an advertisement or over the phone. The software collects information when an app it places is first opened or is uninstalled and may update or send you information about Verizon and third-party offers and promotions that may interest you as well as notices about apps on your device that you have not yet used. You can use your device app controls to disable notifications from Verizon App Manager to opt out of these messages.
+    *   collect information about network and device conditions including location, battery life and applications on the device, .
+    *   automatically install apps when you activate your device, during certain operating system updates and with your consent at later times, for example, when you request an app from an advertisement or over the phone. The software collects information when an app it places is first opened or is uninstalled and may update or send you information about Verizon and third-party offers and promotions that may interest you as well as notices about apps on your device that you have not yet used. You can use your device app controls to disable notifications from Verizon App Manager to opt out of these messages.
     
     Some apps installed or updated on your device in this way do not appear as icons on your device screen because of their limited utility. For example, they might facilitate the download of apps you select for your device, update apps you already have on your device, or report to an app owner that an app has been opened on the device. You can see and also delete or disable apps installed on your device, whether or not they have visible icons, using your device’s Application Manager under Settings. Apps on your device are governed by their own terms and privacy policies.
     
@@ -310,7 +310,7 @@ Open all Close all
     
     ### We share certain Fios TV information for audience measurement and market research purposes.
     
-    The [Fios TV apps](#) and website include Adobe, [Comscore](https://www.comscore.com/About/Privacy/Data-Subject-Rights) and [Nielsen](https://www.nielsen.com/us/en/legal/privacy-statement/digital-measurement/) software that collects information for these companies’ market research and audience measurement purpose, including information about the content you viewed; the apps, website  and device you used; your advertising identifier (if available); IP address; and operating system. [You have a  choice about participating](https://www.verizon.com/about/privacy/full-privacy-policy#acc-item-34).
+    The [Fios TV apps](#) and website include [Comscore](https://www.comscore.com/About/Privacy/Data-Subject-Rights) and [Nielsen](https://www.nielsen.com/us/en/legal/privacy-statement/digital-measurement/) software that collects information for these companies’ market research and audience measurement purpose, including information about the content you viewed; the apps, website  and device you used; your advertising identifier (if available); IP address; and operating system. [You have a  choice about participating](https://www.verizon.com/about/privacy/full-privacy-policy#acc-item-34).
     
     Fios Tv Apps
     
@@ -451,7 +451,7 @@ Open all Close all
     
     ### Our Identity Verification Service helps protect you against fraud.
     
-    We share certain Verizon Wireless account, device and profile data with third parties to help them verify your identity on behalf of companies with which you do business to help protect you against theft and account takeover. Companies that receive information from us to provide identity verification services are contractually required to protect the information and use it only for providing those services. [You have a choice about participating.](https://www.verizon.com/about/privacy/full-privacy-policy#acc-item-34)
+    We use certain Verizon Wireless account, device and profile information to help third parties verify your identity on behalf of companies with which you do business, for example to help your bank confirm that you are calling rather than a fraudster. This helps protect you against theft and account takeover. Third parties that verify your  identity are contractually required to protect the information and use it only for providing their verification services. [You have a choice about participating.](https://www.verizon.com/about/privacy/full-privacy-policy#acc-item-34)
     
 *   [
     
@@ -514,7 +514,7 @@ Open all Close all
     
     **Custom Experience**
     
-    You will be part of the Custom Experience program unless you opt out. You can opt out on the My Verizon site or in your My Verizon app by accessing [privacy preferences.](https://myvpostpay.verizon.com/ui/acct/secure/profile/privacypreferences)
+    You will be part of the Custom Experience program unless you opt out. You can opt out on the My Verizon site or in your My Verizon app by accessing [privacy preferences](https://myvpostpay.verizonwireless.com/vzw/secure/mcm/mcmDisplayPreferences.action), or you can call us at 866.211.0874.
     
     **Custom Experience Plus**
     
@@ -544,7 +544,7 @@ Open all Close all
     Account owners can update preferences for each line on their account using the [privacy choices page in My Verizon](https://myvpostpay.verizon.com/ui/acct/secure/profile/privacypreferences) or in the My Verizon app; or by calling 1-866-211-0874.
     
     **Identity Verification service**  
-    If you do not want your information shared with third parties for the purpose of verifying your identity, you can go online to My Verizon -> My Profile -> Privacy Settings. If you opt out, your information will not be sent to companies who participate in this program.
+    If you do not want us to use your information  to help third parties verify your identity on behalf of companies with which you do business, you can go online to My Verizon ->My Profile ->Privacy Settings.
     
     **Fios TV Market Research and Audience Measurement**
     
@@ -610,13 +610,13 @@ Open all Close all
     
     Customers can review and update their account information in the following ways:
     
-    **Verizon**  
+    **Verizon Wireline**  
     call 1-800-VERIZON  
-    or [make changes online](https://www.verizon.com/home/myverizon/)
+    or [access your Verizon home account online](https://www.verizon.com/home/myverizon/)
     
     **Verizon Wireless**  
     call 1-800-922-0204  
-    or [make changes online](http://verizonwireless.com/myprivacy)
+    or [access your Verizon mobile account online](http://verizonwireless.com/myprivacy)
     
     **Verizon Enterprise Services**  
     Contact your account manager
@@ -634,7 +634,7 @@ Open all Close all
     Do I have specific rights under privacy laws in the United States?
     ------------------------------------------------------------------
     
-    You may have additional rights under the Cable Act and under state laws, including California, Maine and Nevada privacy laws.
+    You may have additional rights under the Cable Act and state laws, including California, Maine and Nevada privacy laws.
     
     
     
@@ -806,9 +806,9 @@ Open all Close all
     
     We may make changes to this privacy policy, so please check back periodically. You will be able to see that we made changes by checking the effective date below. You can also read about [recent changes](https://www.verizon.com/about/privacy/changes-privacy-policy) . If we decide to use or disclose information that identifies you personally in a way that is materially different from what we stated in our privacy policy at the time we collected that information from you, we will give you a choice about the new use or disclosure by appropriate means, which may include an opportunity to opt-out.
     
-    Updated November, 2021
+    Updated June, 2022
     
-    © 2021 Verizon. All rights reserved.
+    © 2022 Verizon. All rights reserved.
     
 
 Related topics
