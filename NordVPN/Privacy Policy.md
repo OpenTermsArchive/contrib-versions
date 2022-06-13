@@ -19,6 +19,8 @@ Privacy Policy
 
 Last updated: January 31, 2022
 
+We are in the process of updating our Terms of Service, Privacy Policy and service-specific documents. The new versions that will be applicable to you from 1 July can be found [here](https://my.nordaccount.com/legal/privacy-policy-july-1/).
+
 This document (“Privacy Policy”) explains the privacy rules applicable to all information collected or submitted when you access, install, or use the Nord Services.
 
 All definitions and capitalized words used in this Privacy Policy are defined here or in our General Terms.
