@@ -19,6 +19,8 @@ General Terms of Service
 
 Last updated: October 27, 2020
 
+We are in the process of updating our Terms of Service, Privacy Policy and service-specific documents. The new versions that will be applicable to you from 1 July can be found [here](https://my.nordaccount.com/legal/terms-of-service-july-1/).
+
 Notice: as a part of Nord Group structural changes, from November 15, 2020, the contracting party shall be changed from Tefincom S.A. to nordvpn s.a., a company incorporated in Panama. From the said date all Services will be provided by nordvpn s.a. instead of Tefincom S.A.
 
 PLEASE READ THESE TERMS OF SERVICE CAREFULLY. AMONG OTHER THINGS, THEY PROVIDE KEY INFORMATION ON YOUR LEGAL RIGHTS AND OBLIGATIONS, FUTURE CHANGES TO THE TERMS, AUTOMATIC RENEWALS AND LIMITATIONS OF LIABILITY. THESE TERMS ALSO CONTAIN A MANDATORY CLASS ACTION WAIVER IN SECTION 12 WHICH AFFECTS HOW DISPUTES ARE RESOLVED.
