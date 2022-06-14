@@ -8,21 +8,21 @@ Introduction
 
 At GitLab, we take the privacy and security of your information seriously. This privacy policy (“Privacy Policy”) will explain how GitLab B.V. and GitLab, Inc. ("GitLab", "we", "our", "us") handles your personal data. "Personal Data," as used in this Privacy Policy, is information that identifies or can reasonably be linked directly or indirectly to an identifiable person. The privacy practices and standards detailed in this Privacy Policy apply to all data subjects globally, unless specifically noted otherwise. In particular, this Privacy Policy will touch on the following sections:
 
-*   [What Personal Data does GitLab collect about me?](#what-personal-data-does-gitlab-collect-about-me-?)
+*   [What Personal Data does GitLab collect about me?](https://about.gitlab.com/privacy/#what-personal-data-does-gitlab-collect-about-me)
     
-*   [What Personal Data is Not Collected by GitLab?](#what-personal-data-is-not-collected-by-gitlab-?)
+*   [What Personal Data is Not Collected by GitLab?](https://about.gitlab.com/privacy/#what-personal-data-is-not-collected-by-gitlab)
     
-*   [How does GitLab use my Personal Data?](#how-does-gitlab-use-my-personal-data-?)
+*   [How does GitLab use my Personal Data?](https://about.gitlab.com/privacy/#how-does-gitlab-use-my-personal-data)
     
-*   [With Whom does GitLab share my Personal Data?](#with-whom-does-gitlab-share-my-personal-data-?)
+*   [With Whom does GitLab share my Personal Data?](https://about.gitlab.com/privacy/#with-whom-does-gitlab-share-my-personal-data)
     
-*   [How does GitLab Secure my Personal Data?](#how-does-gitlab-secure-my-personal-data-?)
+*   [How does GitLab Secure my Personal Data?](https://about.gitlab.com/privacy/#how-does-gitlab-secure-my-personal-data)
     
-*   [What are my rights and choices regarding Personal Data?](#what-are-my-choices-regarding-personal-data-?)
+*   [What are my rights and choices regarding Personal Data?](https://about.gitlab.com/privacy/#what-are-my-rights-and-choices-regarding-personal-data)
     
-*   [California Privacy Rights](#california-privacy-rights)
+*   [California Privacy Rights](https://about.gitlab.com/privacy/#california-privacy-rights)
     
-*   [Other important privacy information](#other-important-privacy-information)
+*   [Other important privacy information](https://about.gitlab.com/privacy/#other-important-privacy-information)
     
 
 This Privacy Policy applies to the GitLab websites ("Websites"), GitLab.com ("SaaS"), Self-managed ("Self-managed"), and additional software products and services; collectively "Services."
@@ -170,8 +170,7 @@ In order to protect your Personal Data, GitLab will only retain your Personal Da
 
 GitLab reserves the right to delete inactive accounts, projects, namespaces, and associated content. GitLab may deem an account, project, or namespace inactive based on various criteria, including, but not limited to, the account creation date, the last time there was a valid log-in, and the date of the last contribution. If we plan to delete your account or projects, we will provide advance notice by sending a message to the email address registered to your account. GitLab encourages you to utilize your account on occasion to avoid the risk of being deemed inactive.
 
-What are my rights and choices regarding Personal Data?
--------------------------------------------------------
+### What are my rights and choices regarding Personal Data?
 
 You have the right to access, correct, restrict or delete your Personal Data, and to port your Personal Data to another company. While these rights may vary by jurisdiction, GitLab provides you with the same rights and choices, no matter where you live. We provide these rights free of charge unless your requests are manifestly unfounded and excessive.
 
