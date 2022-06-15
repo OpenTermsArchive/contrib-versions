@@ -297,7 +297,7 @@ In accordance with We Heart It’s policies and procedures, all We Heart It user
 *   the right to limit, restrict, or object to the processing of your Personal Information under certain circumstances.
 *   the right to request that we transfer your Personal Information to another party to the extent provided for under applicable data privacy laws.
 
-If you want to exercise one of the above rights, please contact us at **legal@weheartit.com** or write to We Heart It at Super Basic, LLC, 1880 Century Park East, Suite 1108, Los Angeles, CA 90067. To protect your privacy and security, we also will take reasonable steps to verify your identity before granting access, making corrections, or following such a request to correct or delete your data.
+If you want to exercise one of the above rights, please contact us at **legal@weheartit.com** or write to We Heart It at Super Basic, LLC, 1510 Fashion Island Blvd, #300, San Mateo, CA 94404. To protect your privacy and security, we also will take reasonable steps to verify your identity before granting access, making corrections, or following such a request to correct or delete your data.
 
 When you contact us, we will respond as soon as possible and where possible within one month. If your request is more complicated, it may take longer to respond to you, but we will respond within two months of your request. There is no charge for most requests, but if you ask us to provide a significant amount of data, for example, we may ask you to pay a reasonable administrative fee if permitted under applicable law.
 
@@ -319,9 +319,9 @@ Super Basic, LLC
 
 Attn:California Privacy Rights
 
-1880 Century Park East, Suite 1108
+1510 Fashion Island Blvd #300
 
-Los Angeles, CA 90067
+San Mateo, CA 94404 USA
 
 At this time, we do not respond to Do Not Track browser settings or signals. For information about Do Not Track, please visit: www.allaboutdnt.com.
 
@@ -395,7 +395,7 @@ Our Services may provide links to other websites and applications. If you choose
 
 **XI. Complaints**
 
-If you have any complaints concerning We Heart It’s processing of your Personal Information, please email us at **legal@weheartit.com** or write to us at 1880 Century Park East, Suite 1108, Los Angeles, CA 90067.
+If you have any complaints concerning We Heart It’s processing of your Personal Information, please email us at **legal@weheartit.com** or write to us at 1510 Fashion Island Blvd #300 San Mateo, CA 94404 USA.
 
 Please note that if you are an EU Resident, you may have the right to lodge a complaint with a European Union supervisory authority that is responsible for the protection of Personal Information in the country where you live or work, or in which you think a breach of data protection laws might have taken place. You can learn more about these rights at https://ec.europa.eu/info/law/law-topic/data-protection/reform/rights-citizens\_en.
 
