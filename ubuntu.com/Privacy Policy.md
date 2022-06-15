@@ -299,10 +299,8 @@ The open source software platform that runs everywhere from the smartphone, the 
     *   [Managed](https://ubuntu.com/openstack/managed)
     *   [Consulting](https://ubuntu.com/openstack/consulting)
     *   [Compare](https://ubuntu.com/openstack/compare)
-    *   [Cost calculator](https://ubuntu.com/openstack/pricing-calculator)
     *   [Install](https://ubuntu.com/openstack/install)
-    *   [Docs](https://ubuntu.com/openstack/docs)
-    *   [Tutorials](https://ubuntu.com/openstack/tutorials)
+    *   [Resources](https://ubuntu.com/openstack/resources)
     *   [Support](https://ubuntu.com/openstack/support)
 *   [Ceph](https://ubuntu.com/ceph)
     -------------------------------
