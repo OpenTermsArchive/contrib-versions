@@ -1115,7 +1115,7 @@ To ensure that Google Play remains a safe and respectful platform, we've created
     
 *   App titles and icons that are so similar to those of existing products or services that users may be misled:
     
-    ![](//lh3.googleusercontent.com/xtZuoVyE6Z5rXwzCzZfzsYu3BSpR4rTHtTF1ix0H4FQVN0ZWdnEunBt8zZkD93Z7D045=w1100-h500)
+    ![](//storage.googleapis.com/support-kms-prod/sBVNnPnyoJOXaPHtBkDxjpytXq8Lu3V3aDke)
 *   Apps that falsely claim to be the official app of an established entity. Titles like 'Justin Bieber Official' are not allowed without the necessary permissions or rights.
     
 *   Apps that violate the [Android brand guidelines](https://developer.android.com/distribute/tools/promote/brand.html).
