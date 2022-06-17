@@ -1,6 +1,6 @@
 Binance Terms of Use
 
-Last revised: 15 June 2022
+Last revised: 17 June 2022
 
 These Binance Terms of Use is entered into between you (hereinafter referred to as “you” or “your”) and Binance operators (as defined below). By accessing, downloading, using or clicking on “I agree” to accept any Binance Services (as defined below) provided by Binance (as defined below), you agree that you have read, understood and accepted all of the terms and conditions stipulated in these Terms of Use (hereinafter referred to as “these Terms”) as well as our Privacy Policy at [www.binance.com/en/privacy](https://www.binance.com/en/privacy). In addition, when using some features of the Services, you may be subject to specific additional terms and conditions applicable to those features.
 
@@ -103,10 +103,12 @@ By creating a Binance Account, you hereby agree that:
 
 Upon completion of the registration and identity verification for your Binance Account, you may use various Binance Services, including but not limited to, Crypto-to-crypto Trading, Fiat Trading, contract trading, leveraged trading, Binance Savings services, staking, acquiring market-related data, research and other information released by Binance, participating in User activities held by Binance, etc., in accordance with the provisions of these Terms (including Binance Platform Rules and other individual agreements). Binance has the right to:
 
-*   Provide, modify or terminate, in its discretion, any Binance Services based on its development plan; and
+*   Provide, modify or terminate, in its discretion, any Binance Services; and
     
 *   Allow or prohibit some Users’ use of any Binance Services in accordance with relevant Binance Platform Rules.
     
+
+Binance has the exclusive authority to determine which Digital Assets are listed on the platform and may add or remove Digital Assets from the platform in its sole discretion, from time to time. Binance may also change the order size available for each Digital Asset. In respect of such additions, removals, or amendments, Binance may, but is not obliged to, notify Users in advance and Binance shall have no liability to Users in connection with such additions, removals or amendments.
 
 ### 1\. Service Usage Guidelines
 
@@ -324,9 +326,7 @@ e. If Binance accepts the User Trade Request, Binance will guarantee the price (
 
 f. In respect of Convert Limit Orders, Binance does not guarantee the fulfillment of the limit order, even if the market price hits or crosses the limit price set by the User, as orders are executed subject to market conditions and liquidity. Binance shall not be held responsible for any potential loss or opportunity cost due to the unsuccessful execution of limit orders in such case.
 
-g. Binance has the exclusive authority to determine which Digital Assets are listed on the platform and may add or remove Digital Assets from the platform in its sole discretion, from time to time. Binance may also change the order size available for each Digital Asset. In respect of such additions, removals, or amendments, Binance may, but is not obliged to, notify Users in advance and Binance shall have no liability to Users in connection with such additions, removals or amendments.
-
-h. It is recommended that Users conduct independent research into different Digital Assets prior to using Binance Convert Services. Users bear full responsibility for any profit or loss in connection with their use of the Binance Convert Services.
+g. It is recommended that Users conduct independent research into different Digital Assets prior to using Binance Convert Services. Users bear full responsibility for any profit or loss in connection with their use of the Binance Convert Services.
 
 ### IV. Liabilities
 
