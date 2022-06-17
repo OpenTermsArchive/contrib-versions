@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-Effective: Jan 1, 2019.  
+Updated: June 17th, 2022.
 
 Infolinks Media, LLC (AKA, Infolinks) is an advertising technology company that provides a variety of online advertising-related services. We respect all concerns about privacy issues and want you to be familiar with how we collect, use, and share information and how you can exercise the privacy rights available to you.  This Privacy Policy (“Policy”) covers the information that we may process:
 
@@ -58,7 +58,7 @@ We use the information we collect for a variety of business purposes.  For exam
 
 **2.3       COOKIES AND SIMILAR TRACKING TECHNOLOGIES**
 
-We use cookies and other similar tracking technologies (such as pixel tags and web or browser caches) to collect information automatically from End Users’ devices.  They help us identify unique browsers or devices used by an End User and to perform functions like, for example, limiting the same ad from continuously reappearing, ensuring that ads are properly displayed on our Publisher Clients’ Digital Properties, and serving an ad to the End User.  To opt out of our use of such technologies for interest-based advertising purposes. 
+We use cookies and other similar tracking technologies (such as pixel tags and web or browser caches) to collect information automatically from End Users’ devices.  They help us identify unique browsers or devices used by an End User and to perform functions like, for example, limiting the same ad from continuously reappearing, ensuring that ads are properly displayed on our Publisher Clients’ Digital Properties, and serving an ad to the End User.  To opt out of our use of such technologies for interest-based advertising purposes.
 
 **SECTION 3 – PRIVACY FOR THE INFOLINKS PROPERTIES**
 
@@ -70,7 +70,7 @@ Information that individuals provide voluntarily
 
 Certain parts of the Infolinks Properties may ask visitors to provide personal information voluntarily: for example, we may collect personal information when a visitor registers for an Infolinks publisher or media buyer account, Becomes an Infolinks customer, expresses an interest in obtaining additional information about Infolinks or our products and services, subscribes to our marketing, or otherwise contacts us.
 
-The personal information we collect may include contact information (such as name, address, telephone number, or email address) and contact preferences, and the nature of an individual’s request. 
+The personal information we collect may include contact information (such as name, address, telephone number, or email address) and contact preferences, and the nature of an individual’s request.
 
 Information we or our third-party partners collect automatically
 
@@ -94,7 +94,7 @@ We may use information collected from the Infolinks Properties for the following
 
 **3.3         COOKIES AND SIMILAR TRACKING TECHNOLOGIES**
 
-We and our third-party partners may use cookies and similar tracking technologies on the Infolinks Properties to collect and use information about visitors. 
+We and our third-party partners may use cookies and similar tracking technologies on the Infolinks Properties to collect and use information about visitors.
 
 **3.4       USE OF INFOLINKS PROPERTIES BY MINORS**
 
@@ -118,7 +118,7 @@ Information collected from our Ad Services and Infolinks Properties may be discl
 
 **4.2       YOUR OPT-OUT CHOICES**
 
-Opting out of receiving electronic communications from us 
+Opting out of receiving electronic communications from us
 
 If you no longer want to receive marketing-related emails from us on a going-forward basis, you may opt-out of receiving these marketing-related emails by clicking on the opt-out link within the email message that you receive from us. Please also note that if you do opt out of receiving marketing-related emails from us, we may still be required to send you administrative messages relating to our services from time to time.
 
@@ -131,7 +131,7 @@ You have the following data protection rights:
 *   The right to opt out of receiving marketing communications from us.
 *   If you are a resident of the European Economic Area (EEA), you also have the following rights:
     *   The right to object to the processing of your personal information, restrict processing of your personal information, or request portability of your personal information.
-    *   The right to complain to a data protection authority about our collection and use of your personal information. For more information, please contact your local data protection authority. 
+    *   The right to complain to a data protection authority about our collection and use of your personal information. For more information, please contact your local data protection authority.
 
 *   *   Please note that because most of the information we store can only identify a particular browser or device, and cannot directly identify you personally, you may need to provide us with some additional detailed information to enable us to identify the information we hold about you and ensure that we accurately fulfil your request and do not infringe on the privacy rights of other individuals. To Learn more see “EEA Data Rights Explained” below.
 
@@ -163,7 +163,7 @@ If you are an End User, we may retain information that we collect through the Ad
 
 The Infolinks Properties and Ad Services are provided, supported, and hosted in the United States.  If you are using these from outside the United States, be aware that your information may be transferred to, stored, and processed by us in our facilities and by those third parties with whom we may share your personal information, in the United States and other locations.  These countries may have data protection laws that are different from the laws of your country of residence.
 
-However, we have taken specific and appropriate safeguards to require that your personal information will remain protected in accordance with the EEA and European Union data protection law. 
+However, we have taken specific and appropriate safeguards to require that your personal information will remain protected in accordance with the EEA and European Union data protection law.
 
 **4.9     UPDATES TO THIS POLICY**
 
@@ -187,7 +187,7 @@ Who is the controller of my data? For the purposes of EU data protection legisl
 
 **SECTION 5 – EEA Data Rights Explained**
 
-Infolinks has adjusted our technology and policies specific to users in the EEA to fully comply with GDPR. We will be defaulting our systems to a No-Consent interaction. No-Consent default means we will perform the following actions:
+Infolinks has adjusted our technology and policies specific to users in the EEA to fully comply with GDPR and adopt the TCF (transparency consent framework) for all data activity. We will be defaulting our systems to a No-Consent interaction when it’s not possible to determine Consent. No-Consent default means we will perform the following actions:
 
 1.  Location masking by removing the last octet from the IP address of all EEA end users to de-identify such information and mask latitude/longitude
 2.  No cookie syncing or cookie targeting by default unless compliant
@@ -202,6 +202,12 @@ If you make a request to access personal information we hold about you (also kno
 Please note, however, that for detailed information we have a very short retention period for most files with Digital Identifiers. As a result, we may not be able to provide you with any records at all in response to an access request. In such cases, however, we will inform you that we have not been able to locate any records associated with your Digital Identifiers.
 
 Important Note: We have a responsibility to verify your identity before we respond to an access request.  This is to make sure that we provide a copy of your personal information only to the person who is entitled to it — you.  Because of this, it is our policy not to accept requests submitted by third parties (including automated robots), and to require certain documentation from you to verify that you are authorized to make the access request. If you wish to make an access request, we kindly ask that you contact us directly and follow the instructions below.
+
+**Representative for data subjects in the EU and UK**
+
+We value your privacy and your rights as a data subject and have therefore appointed Prighter Group with its local partners as our privacy representative and your point of contact.
+
+Prighter gives you an easy way to exercise your privacy-related rights (e.g. requests to access or erase personal data). If you want to contact us via our representative, Prighter or make use of your data subject rights, please visit the following website. [https://prighter.com/q/13666019965](https://prighter.com/q/13666019965)
 
 **SECTION 5A – Additional Information for California Residents Explained**
 
@@ -332,6 +338,6 @@ Name of Witness (print)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Signature of Witness 
+Signature of Witness
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
