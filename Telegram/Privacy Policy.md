@@ -199,6 +199,14 @@ We may share your personal data with: _(1)_ our parent company, Telegram Group I
 
 If Telegram receives a court order that confirms you're a terror suspect, we may disclose your IP address and phone number to the relevant authorities. So far, this has never happened. When it does, we will include it in a semiannual transparency report published at: [](https://t.me/transparency)[https://t.me/transparency](https://t.me/transparency).
 
+#### [](#8-4-translation-of-messages-at-the-request-of-the-user)8.4. Translation of Messages at the Request of the User
+
+Users can choose to translate a specific text message into a different language by tapping “Translate” in the action menu of the message (to enable this option, a user should first turn on Translation services in the Settings > Languages section of the Telegram application). Since Telegram may rely on a third-party, Google LLC, subsidiary of Alphabet Inc, for automatic translation of messages, the text of specific messages users choose to translate may be shared with Google in order to obtain their translated versions. The third-party service owner (Google) may also receive the IP of the user requesting the translation – this is true for any equivalent translation service and the IP cannot be traced back to any Telegram user account or ID.
+
+#### [](#8-5-transcription-of-voice-messages-at-the-request-of-the-user)8.5. Transcription of Voice Messages at the Request of the User
+
+Some users can choose to convert a voice message to text by tapping on the Voice-to-Text icon (“->A”) displayed in voice messages (to enable this option, users should subscribe to Telegram Premium in the Settings > Telegram Premium section of the Telegram application). Since Telegram may rely on a third party, Google LLC, subsidiary of Alphabet Inc, for voice-to-text conversion, the contents of voice messages users choose to convert to text may be shared with Google in order to obtain their transcribed versions.
+
 ### [](#9-your-rights-regarding-the-personal-data-you-provide-to-us)9\. Your Rights Regarding the Personal Data You Provide to Us
 
 #### [](#9-1-your-rights)9.1. Your Rights
@@ -252,6 +260,10 @@ We will review and may update this Privacy Policy from time to time. Any changes
 **October 26, 2021**
 
 *   Expanded [5.6. No Ads Based on User Data](#5-6-no-ads-based-on-user-data) with information about [sponsored messages in public channels](https://t.me/durov/153).
+
+**June 19, 2022**
+
+*   Added [8.4. Translation of Messages at the Request of the User](#8-4-translation-of-messages-at-the-request-of-the-user) and [8.5. Transcription of Voice Messages at the Request of the User](#8-5-transcription-of-voice-messages-at-the-request-of-the-user).
 
 Important changes made to this Privacy Policy will be notified to you via Telegram.
 
