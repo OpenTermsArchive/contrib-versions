@@ -586,7 +586,7 @@ All prices are subject to change as per Energia standard terms and conditions. F
 
 28\. Boiler Services Terms & Conditions
 
-See [here](https://www.energia.ie/getmedia/3d6accee-18d9-42b6-86fe-d82019a356e4/BOILER-SERVICES-T-Cs-Feb-20_1.pdf.aspx;) for Boiler Servicing Terms & Conditions.
+See [here](https://www.energia.ie/getattachment/Privacy-2018/Terms-Conditions/Boiler-Services-Terms-Conditions/BOILER-SERVICES-TCs.pdf.aspx;?lang=en-IE) for Boiler Servicing Terms & Conditions.
 
 29\. "Get a Quote Calculator" Promotional Terms & Conditions
 
@@ -916,7 +916,7 @@ EAB €1,512, based on average annual usage. 12 month contract, discounted unit 
 
 37\. Competition terms and conditions
 
-**View May 2022 rugby newsletter terms and conditions [here.](https://www.energia.ie/getattachment/Privacy-2018/Terms-Conditions/Heineken-Champions-Cup-Final-Competition-2019-(7)/May-2022-Signed-Ireland-Jersey-T-Cs.pdf.aspx;?lang=en-IE)**  
+**View June 2022 rugby newsletter terms and conditions [here.](https://www.energia.ie/getattachment/Privacy-2018/Terms-Conditions/Heineken-Champions-Cup-Final-Competition-2019-(7)/June-2022-%E2%82%AC50-Merchandise-Voucher-for-Lifestyle-Sports.pdf.aspx;?lang=en-IE)**  
   
  
 
