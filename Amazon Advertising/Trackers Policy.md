@@ -3,7 +3,7 @@ About Cookies
 
 Last changed on 09 September 2020.
 
-We use cookies and similar tools (collectively, "cookies") for the purposes described below.
+We use cookies and similar tools (collectively, cookies) for the purposes described below.
 
 **Operational Cookies**: We use cookies to provide our services, for example:
 
