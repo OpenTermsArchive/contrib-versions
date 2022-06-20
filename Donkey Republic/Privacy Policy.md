@@ -26,7 +26,7 @@ Central business register (Denmark), CVR-number: 38049488
 
 VAT-ID: DK 38049488 
 
-E-Mail: [\[email protected\]](https://www.donkey.bike/cdn-cgi/l/email-protection)
+E-Mail: [\[email protected\]](https://www.donkey.bike/cdn-cgi/l/email-protection).com
 
 Telephone: (+45) 89 88 7227
 
