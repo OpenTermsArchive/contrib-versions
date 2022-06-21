@@ -97,12 +97,12 @@ The open source software platform that runs everywhere from the smartphone, the 
     
     *   [What is OpenStack](https://ubuntu.com/openstack/what-is-openstack)
     *   [Features](https://ubuntu.com/openstack/features)
-    *   [Managed](https://ubuntu.com/openstack/managed)
     *   [Consulting](https://ubuntu.com/openstack/consulting)
+    *   [Managed](https://ubuntu.com/openstack/managed)
+    *   [Support](https://ubuntu.com/openstack/support)
     *   [Compare](https://ubuntu.com/openstack/compare)
     *   [Install](https://ubuntu.com/openstack/install)
     *   [Resources](https://ubuntu.com/openstack/resources)
-    *   [Support](https://ubuntu.com/openstack/support)
 *   [Ceph](https://ubuntu.com/ceph)
     -------------------------------
     
