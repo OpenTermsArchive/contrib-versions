@@ -307,7 +307,6 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         *   Google utilise les dernières versions des jeux de données communiquées par les producteurs ci-dessous ; ces données sont disponibles sur [transport.data.gouv.fr](https://transport.data.gouv.fr/) sous la licence « Open Database Licence » (ODbL) et sous les conditions d'utilisation précisant que la clause de partage à l’identique figurant à l’article 4.4 concerne les informations de même nature, de même granularité, de même conditions temporelles et de même emprise géographique :
             
             *   SNCF ; les modifications et améliorations aux données sont disponibles [ici](https://opendata.itoworld.com/france_sncf/france_sncf_gtfs.zip)
-            *   Lyon Métropole (Sytral) ; les modifications et améliorations aux données sont disponibles [ici](https://gtech-transit-prod.apigee.net/v1/google/gtfs/odbl/lyon.zip?apikey=BasyG6OFZXgXnzWdQLTwJFGcGmeOs204&secret=gNo6F5PhQpsGRBCK)
             *   Nantes Métropole
             *   Nîmes Métropole
             *   Grand Guéret Agglo
@@ -350,6 +349,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             Link to licensing terms: [https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf](https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf)
             
         *   Data Mauges Communauté ([https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf](https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf))
+            
+        *   Contient des informations de Grand Lyon Métropole sujettes à la [Licence Mobilités](https://download.data.grandlyon.com/licences/Licence_mobilit%C3%A9s_V_02_2021.pdf) ([source](https://data.grandlyon.com/jeux-de-donnees/horaires-theoriques-reseau-transports-commun-lyonnais/info)), conformément à laquelle les données sont disponibles sur le Point d'Accès National ([lien](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-transports-en-commun-lyonnais/))
             
     10.  **Germany**
         *   Bundesamt für Kartographie und Geodäsie - © Vermessungsverwaltungen der Bundesländer und Bundesamt für Kartographie und Geodäsie
