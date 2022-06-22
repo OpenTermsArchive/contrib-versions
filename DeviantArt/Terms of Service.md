@@ -66,6 +66,18 @@ As a convenience, we may make third-party software available through the Service
 
   
 
+MPEG License:  
+
+As part of the DeviantArt platform, DeviantArt may provide different video services, available for its Core users.
+
+The use of the video services for your account, may require that you receive a license to use certain patents from MPEG-LA (the "License"). It is your own exclusive responsibility to decide whether your activity requires a License and to obtain it. Information about the License can be obtained from MPEG LA L.L.C. [here](https://www.mpegla.com/).
+
+Without derogating from any subclause in these Terms of Use, and without any limitation of liability, you shall fully indemnify, defend and hold DeviantArt its officers, directors, shareholders, employees, affiliates and agents, harmless from any and all damages and costs, obligations, losses, liabilities debt and expenses (including attorneys' fees), as accrued, that arise out of or are related to infringement and/or misuse of the patent pool under the MPEG-LA consortium.
+
+If your needs require a more inclusive plan than those regularly offered by us, please contact our support team at: [help@deviantart.com](mailto:help@deviantart.com)
+
+  
+
 **8\. Conduct**
 
 You agree that you shall not interfere with or disrupt (or attempt to interfere with or disrupt) this Service or servers or networks connected to this Service, or to disobey any requirements, procedures, policies or regulations of networks connected to this Service; or provide any information to DeviantArt that is false or misleading, that attempts to hide your identity or that you do not have the right to disclose. DeviantArt does not endorse any content placed on the Service by third parties or any opinions or advice contained in such content. You agree to defend, indemnify, and hold harmless DeviantArt, its officers, directors, employees and agents, from and against any claims, liabilities, damages, losses, and expenses, including, without limitation, reasonable legal and expert fees, arising out of or in any way connected with your access to or use of the Services, or your violation of these Terms.
