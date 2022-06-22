@@ -1,5 +1,5 @@
-Privacy Notice for Passengers in Ireland
-----------------------------------------
+Global Privacy Notice for Passengers and Riders
+-----------------------------------------------
 
 This privacy notice lets you know how we promise to look after your personal data. This notice tells you things like what information we use to provide you with our bundle of transportation services, how we use your information to keep you safe, and the choices and controls available to you. This notice also tells you about your privacy rights and how data protection rules work to protect everyone.
 
