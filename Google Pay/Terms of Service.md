@@ -1,3 +1,5 @@
+We’re [updating our Google Pay/Google Payments Additional Terms of Service](https://payments.google.com/files/tos/landingpage_nonEEA/buyertos/buyertos_GB_en.html) on July 23, 2022, to make it easier for you to understand what to expect as you use Google Pay/Google Payments services. You can review a [summary of the key changes](https://payments.google.com/files/tos/landingpage_nonEEA/Buyertos_Landingpage_en.html). Until then, the Terms below remain in effect.
+
 **IMPORTANT:** If you reside in **India,** the Google Pay terms of service applicable to you are [here](https://www.google.com/url?q=http://pay.google.com/intl/en_in/about/terms/&sa=D&ust=1547576634379000).
 
 * * *
