@@ -96,7 +96,9 @@ In general, users you interact with will not have to purchase a Telegram Premium
 
 #### [](#7-4-voice-to-text-conversion)7.4. Voice-to-text conversion
 
-Premium Services include the ability to convert any voice message on Telegram to text. This technology is still evolving and there is no guarantee that every voice message you attempt to convert to text will be transcribed correctly or transcribed at all. The accuracy and availability of this technology depends on a third party (Google LLC, subsidiary of Alphabet Inc.), and we can not guarantee that it will always be accurate and available.
+Premium Services include the optional ability to request the conversion of any voice message on Telegram to text. This technology is still evolving and there is no guarantee that every voice message you attempt to convert to text will be transcribed correctly or transcribed at all. The accuracy and availability of this technology depends on a third party (Google LLC, subsidiary of Alphabet Inc.), and we can not guarantee that it will always be accurate and available.
+
+> Read more about the privacy of this data in our [Privacy Policy](https://telegram.org/privacy#8-5-transcription-of-voice-messages-at-the-request-of-the-user).
 
 #### [](#7-5-increased-download-speed)7.5. Increased Download Speed
 
