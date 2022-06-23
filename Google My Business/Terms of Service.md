@@ -1,7 +1,7 @@
 Google Business Profile Additional Terms of Service
 ===================================================
 
-**Last modified:** 4 November 2021
+**Last modified:**14 June 2022
 
 To use Google Business Profile or any related services, features and functionality (the 'Google Business Profile Services'), you must accept (1) [the Google Terms of Service](https://policies.google.com/terms), and (2) these Business Profile Additional Terms of Service (the 'Google Business Profile Additional Terms').
 
@@ -84,7 +84,7 @@ Before moving to terminate the Terms, we’ll give you no less than 30 days adva
 Questions or complaints
 -----------------------
 
-If you have any questions or complaints regarding Google My Business Services, you can go to our [Help Centre](https://support.google.com/business/) or you can [contact us](https://support.google.com/business/gethelp). If you believe that your access to Google My Business Services has been suspended or terminated in error, you can [appeal](https://support.google.com/business/answer/4569145).
+If you have any questions or complaints regarding Google Business Profile, you can go to our [Help Centre](https://support.google.com/business/) or you can [contact us](https://support.google.com/business/gethelp). If you believe that your access to Google Business Profile has been suspended or terminated in error, you can [appeal](https://support.google.com/business/answer/4569145).
 
 Related resources
 -----------------
