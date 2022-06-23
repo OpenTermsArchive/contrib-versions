@@ -169,11 +169,12 @@ The open source software platform that runs everywhere from the smartphone, the 
 *   [Core](https://ubuntu.com/core)
     -------------------------------
     
-    *   [Docs](https://ubuntu.com/core/docs)
-    *   [Tutorials](https://ubuntu.com/tutorials?q=core)
-    *   [Features](https://ubuntu.com/core/features)
-    *   [Success stories](https://ubuntu.com/core/stories)
     *   [Consulting](https://ubuntu.com/core/services)
+    *   [Success stories](https://ubuntu.com/core/stories)
+    *   [Features](https://ubuntu.com/core/features)
+    *   [Secure boot](https://ubuntu.com/core/features/secure-boot)
+    *   [Tutorials](https://ubuntu.com/tutorials?q=core)
+    *   [Docs](https://ubuntu.com/core/docs)
 
 *   [Desktop](https://ubuntu.com/desktop)
     -------------------------------------
