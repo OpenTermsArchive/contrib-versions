@@ -58,7 +58,7 @@ Failure to comply with the Telegram Terms of Service may result in a temporary o
 
 Telegram can decide to stop offering subscriptions at any time, including in response to unforeseen circumstances beyond our control, or to comply with a legal requirement; in this case we will cancel your subscription and refund the prorated portion of any prepaid subscription fee equal to the remaining unused term of the subscription.
 
-#### [](#5-taxes-fees-and-refunds)5\. Taxes, Fees and Refunds
+### [](#5-taxes-fees-and-refunds)5\. Taxes, Fees and Refunds
 
 You are responsible for all applicable taxes, data plans, internet fees, and other fees associated with your use of Telegram.
 
