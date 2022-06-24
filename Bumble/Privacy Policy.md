@@ -276,11 +276,13 @@ Our legal justifications for processing your personal data in BFF are listed bel
 
 If you use BFF, we may use your activity, life and interests information to recommend friends and content.
 
-In BFF, we provide opportunities to join groups built around locations or topics. We’ll recommend groups you can join based on your location, activity, life and interests information.
+In BFF, we provide opportunities to join groups built around locations or topics. We’ll automatically recommend groups you can join based on your location, activity, life and interests information.
 
-### Who Sees Your Content
+### Who Sees Your Content and Memberships
 
 ### BFF Chat
+
+Certain BFF chat groups can be found by other members in nearby locations. For these discoverable chat groups, people nearby will be able to see the full members list, geographic location of the chat group, the title of the chat group and the chat group description. This means that people nearby may be able to discover sensitive information about you, such as information about your sexual orientation, health condition or political beliefs, depending on the nature and topic of the chat group. By joining these discoverable chat groups in BFF, you explicitly consent to our processing of such sensitive personal data about you and making it public to other Users.
 
 BFF members will not be able to see chat discussions until they join the specific chat and when they join, they’ll see the full message history.
 
@@ -360,4 +362,4 @@ As Bumble evolves, we may revise this Privacy Policy from time to time. The most
 
 ### Effective date
 
-This Privacy Policy was last updated 25 April 2022.
+This Privacy Policy was last updated 21 June 2022.
