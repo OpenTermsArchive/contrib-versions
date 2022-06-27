@@ -368,7 +368,7 @@ If you disable cookies, please be aware that some of the features of our Service
 
 For more details on your choices regarding use of your web browsing activity for interest-based advertising you may visit the following sites:
 
-*   [networkadvertising.org](http://networkadvertising.org/)
+*   [https://thenai.org](https://thenai.org/ "https://thenai.org")
 *   [optout.aboutads.info](http://optout.aboutads.info/)
 *   [youradchoices.com](http://youradchoices.com/)
 *   [youronlinechoices.eu](http://youronlinechoices.eu/)
@@ -413,7 +413,7 @@ _How do I Opt-out of Interest-Based Advertising?_
 
 You may choose not to receive interest-based advertising. Please note that, even if you opt-out of receiving interest-based advertising, you will still receive advertisements and marketing materials, but they will not be personalized to you specifically.
 
-For some of our vendors that participate in the Digital Advertising Alliance (DAA), you can exercise your online advertising choices for those vendors to opt-out of interest-based advertising at [http://optout.aboutads.info](http://optout.aboutads.info/).  You may also opt out of receiving interest-based ads from many sites through the Network Advertising Initiative's (NAI) Opt Out Tool ([http://www.networkadvertising.org/choices](http://www.networkadvertising.org/choices)) and in the EU at [http://www.youronlinechoices.com/](http://www.youronlinechoices.com/).
+For some of our vendors that participate in the Digital Advertising Alliance (DAA), you can exercise your online advertising choices for those vendors to opt-out of interest-based advertising at [http://optout.aboutads.info](http://optout.aboutads.info/).  You may also opt out of receiving interest-based ads from many sites through the Network Advertising Initiative's (NAI) Opt Out Tool ([https://optout.networkadvertising.org/](https://optout.networkadvertising.org/ "https://optout.networkadvertising.org/")) and in the EU at [http://www.youronlinechoices.com/](http://www.youronlinechoices.com/).
 
 _How Do I Opt-Out of Advertising on Mobile Devices?_
 
