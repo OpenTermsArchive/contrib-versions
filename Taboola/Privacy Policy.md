@@ -122,7 +122,7 @@ Taboola supports initiatives to offer our Users greater transparency and control
 
 *   _**If**_  _**you do not want to receive interest-based ads from Taboola, you can disable the display of such ads by clicking on the opt-out link below**_. Please note that an opt out will not prevent you from seeing Taboola’s content recommendations. Rather, the opt out will prevent Taboola from using your Information to tailor these recommendations to your interests. You will continue to receive recommendations that are selected based on the particular website that you are viewing (i.e., contextually based ads).
     
-    You are currently: Opted Out [Opt In](#) Not Opted Out [Opt Out](#)
+    You are currently: Opted Out [Opt In](#) Not Opted Out [Opt Out](https://accessrequest.taboola.com/)
     
     *   **Not Opted Out**: Taboola will serve you personalized recommendations based on your history.
     *   **Opted Out**: You have opted out of tracking, Taboola will no longer serve you with personalized content recommendations based on your Internet use history.
