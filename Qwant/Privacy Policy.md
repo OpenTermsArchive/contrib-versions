@@ -165,6 +165,13 @@ To evaluate its audience and understand the use of its services in order to impr
 
 This processing is necessary for the purposes of Qwant’s legitimate interest in developing statistics and measuring its audience, based on article 6.1.f of the GDPR.
 
+Translation module
+------------------
+
+In order to respond to requests for the translation service provided in partnership with our partner Deepl, but also for performance and experience purposes, Qwant keeps the texts to be translated and the translation returned by Deepl cached for 1 hour from the time of collection. This data is processed by Deepl as part of their professional offering, only for the time necessary to create and transmit the translations.
+
+This processing is necessary for the execution of Qwant’s General Terms of Use, on the basis of Article 6.1.b of the RGPD.
+
 Management of registered users accounts
 ---------------------------------------
 
@@ -326,4 +333,4 @@ What data is processed for the Qwant mobile application on Android and iOS?
 
 We do not integrate any tracker in our applications nor any advertising ID. Qwant does not process any specific personal data when you use the Qwant application for Android or iOS. The processing of personal data carried out by Qwant during your navigation and use of our Services from the application are exclusively those described above.
 
-*   Last update: June 1, 2022
+*   Last update: June 28, 2022
