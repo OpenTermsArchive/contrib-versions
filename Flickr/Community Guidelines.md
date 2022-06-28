@@ -70,7 +70,7 @@ Here’s the deal: We like to give second chances. However, when we discover you
     
 *   Don’t use hate speech.
     
-    Flickr has a zero-tolerance policy towards attacking a person or group based on, but is not limited to, race, ethnicity, national origin, religion, disability, disease, age, sexual orientation, gender, or gender identity. [Here](https://www.adl.org/sites/default/files/documents/assets/pdf/combating-hate/confront-hate-speech-online.pdf) are some suggestions for confronting hate online.
+    Flickr has a zero-tolerance policy towards attacking a person or group based on, but is not limited to, race, ethnicity, national origin, religion, disability, disease, age, sexual orientation, gender, or gender identity. [Here](https://www.flickrhelp.com/hc/en-us/articles/4404057906068-How-to-report-Community-Guidelines-violations) are steps you can take to report these behaviors to Flickr and to [block](https://www.flickrhelp.com/hc/en-us/articles/4404057922324-Block-or-unblock-someone-in-Flickr) anyone on Flickr.
     
 *   Don’t promote or encourage self-harm.
     
@@ -93,6 +93,6 @@ In Conclusion
 
 If you don’t feel that you can abide by our Community Guidelines as outlined above, maybe Flickr isn’t for you. We’ve crafted these guidelines to ensure that everyone within the Flickr community has a good time.
 
-You may also want to check out our [Help Center](http://flickrhelp.com/) and [Privacy Policy](https://www.smugmug.com/about/privacy-flickr). If you ever have any questions or comments, we’d love to hear from you. Please feel free to drop us a line via our [webform](https://flickrhelp.com/hc/en-us/requests/new).
+You may also want to check out our [Help Center](http://flickrhelp.com/) and [Privacy Policy](https://www.flickr.com/help/privacy). If you ever have any questions or comments, we’d love to hear from you. Please feel free to drop us a line via our [webform](https://flickrhelp.com/hc/en-us/requests/new).
 
-The Flickreenos, Dec 17, 2018
+The Flickreenos, June 27, 2022
