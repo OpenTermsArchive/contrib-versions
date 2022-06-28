@@ -293,7 +293,7 @@ Pour en savoir plus sur la Solution de Crédit - "Payez en plusieurs fois", [cli
   
 (viii)               Par Bancontact/Mistercash : Ce mode de paiement n’est pas disponible pour les paniers contenant des produits de la Marketplace Cdiscount.  Pour bénéficier de ce mode de paiement, vous devez disposer d’une adresse de facturation située en Belgique. En cas de paiement par Bancontact/Mistercash, ce sont les conditions générales d'utilisation de Bancontact/Mistercash qui s'appliquent. Elles sont accessibles en cliquant [ici](https://www.bancontact.com/).  
   
-(ix) Par bons d'achat  : Il est possible d’utiliser les bons d’achat émis par CDISCOUNT pour le paiement de toute ou partie de votre commande. Ces bons d’achats ne sont utilisables qu’une seule fois. Dans l’hypothèse où un client tenterait d’utiliser frauduleusement plusieurs fois l’un de ses bons d’achat, les commandes concernées par cette fraude seraient automatiquement annulées par CDISCOUNT.  
+(ix) Par bons d'achat  : Il est possible d’utiliser les bons d’achat émis par CDISCOUNT pour le paiement de toute ou partie de votre commande. Ces bons d’achats ne sont utilisables qu’une seule fois. Dans l’hypothèse où un client tenterait d’utiliser frauduleusement plusieurs fois l’un de ses bons déachat, les commandes concernées par cette fraude seraient automatiquement annulées par CDISCOUNT.  
   
 (x) Paiement PAYLIB : Vous pouvez également régler votre commande via l'application PAYLIB sur votre téléphone. Pour bénéficier de ce mode de paiement, vous devez télécharger et créer un compte sur l'application de votre banque. En cas de paiement par PAYLIB, ce sont les conditions générales d'utilisation de PAYLIB qui s'appliquent.
 
