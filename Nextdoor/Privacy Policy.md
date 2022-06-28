@@ -253,7 +253,7 @@ If you reside in Canada, contact us at Nextdoor Canada Ltd, 18 King Street East,
 
 If you reside in the United Kingdom, the Services are operated and provided to you by Nextdoor Europe UK Ltd., C/O Legalinx Limited, 3rd Floor, 207 Regent Street, London, W1B 3HH. You may reach our Data Protection Officer at dpo@nextdoor.com.
 
-If you reside in the EU, contact us at Nextdoor EMEA Limited, Digital Depot, Thomas Street West, Dublin 8, Ireland. Email: privacy@nextdoor.com. You may reach our Data Protection Officer at [dpo@nextdoor.com](mailto:dpo@nextdoor.com).
+If you reside in the EU, contact us at Nextdoor EMEA Limited, The Greenway, Ardilaun Court, 112-114 St. Stephen’s Green, Dublin 2, D02 TD28, Ireland. Email: privacy@nextdoor.com. You may reach our Data Protection Officer at [dpo@nextdoor.com](mailto:dpo@nextdoor.com).
 
 If you reside in the United States, contact us at Nextdoor, Inc., 420 Taylor Street, San Francisco, CA 94102. Phone: +1 415-569-7971. Email: [privacy@nextdoor.com](mailto:privacy@nextdoor.com).
 
