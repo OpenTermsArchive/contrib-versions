@@ -1,6 +1,22 @@
 Terms of Use
 ============
 
+*   [Page](https://foundation.wikimedia.org/wiki/Terms_of_Use/en "View the content page [c]")
+*   [Discussion](https://foundation.wikimedia.org/wiki/Talk:Terms_of_Use/en "Discussion about the content page [t]")
+
+ English 
+
+*   [Read](https://foundation.wikimedia.org/wiki/Terms_of_Use/en)
+*   [View source](https://foundation.wikimedia.org/w/index.php?title=Terms_of_Use/en&action=edit "This page is protected.
+    You can view its source [e]")
+*   [View history](https://foundation.wikimedia.org/w/index.php?title=Terms_of_Use/en&action=history "Past revisions of this page [h]")
+
+ More 
+
+*   [Read](https://foundation.wikimedia.org/wiki/Terms_of_Use/en)
+*   [View source](https://foundation.wikimedia.org/w/index.php?title=Terms_of_Use/en&action=edit)
+*   [View history](https://foundation.wikimedia.org/w/index.php?title=Terms_of_Use/en&action=history)
+
 From the Wikimedia Foundation Governance Wiki
 
 < [Terms of Use](https://foundation.wikimedia.org/wiki/Terms_of_Use "Terms of Use")(Redirected from [Terms of Use](https://foundation.wikimedia.org/w/index.php?title=Terms_of_Use&redirect=no "Terms of Use"))
