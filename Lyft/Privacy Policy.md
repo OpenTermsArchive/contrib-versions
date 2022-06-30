@@ -213,7 +213,7 @@ As explained more below and on our [privacy homepage](https://www.lyft.com/priva
 
 ### B. California Residents
 
-The California Consumer Privacy Act provides some California residents with the additional rights listed below. To exercise these rights see the “Exercising Your California Privacy Rights” section or visit our [privacy homepage](https://www.lyft.com/privacy/home). For metrics regarding rights requests, [see here](https://drive.google.com/file/d/1qGf0oGi7gz4ysFQ1HFB4GSUrfbVLqqmM/view?usp=sharing).
+The California Consumer Privacy Act provides some California residents with the additional rights listed below. To exercise these rights see the “Exercising Your California Privacy Rights” section or visit our [privacy homepage](https://www.lyft.com/privacy/home). For metrics regarding rights requests, [see here](https://drive.google.com/file/d/1diphnWIuBu0XREWrARDeb7yXhtMLyKiU/view).
 
 **Right to Know.** You have the right to know and see what data we have collected about you over the past 12 months, including:
 
