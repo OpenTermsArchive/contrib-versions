@@ -1,9 +1,17 @@
 SIMPLI.FI Website Privacy Policy
 ================================
 
-[![TRUSTe Privacy Certification](//privacy-policy.truste.com/privacy-seal/seal?rid=f535d01d-afd3-4141-baa1-3db679535a5f)](https://privacy.truste.com/privacy-seal/validation?rid=f535d01d-afd3-4141-baa1-3db679535a5f "TRUSTe Privacy Certification")
+[![TRUSTe Privacy Certification](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-[![TRUSTe](//privacy-policy.truste.com/privacy-seal/seal?rid=8ca39875-b9cf-402d-a502-283cc0432a0b)](https://privacy.truste.com/privacy-seal/validation?rid=8ca39875-b9cf-402d-a502-283cc0432a0b)
+![TRUSTe Privacy Certification](//privacy-policy.truste.com/privacy-seal/seal?rid=f535d01d-afd3-4141-baa1-3db679535a5f)
+
+](https://privacy.truste.com/privacy-seal/validation?rid=f535d01d-afd3-4141-baa1-3db679535a5f "TRUSTe Privacy Certification")
+
+[![TRUSTe](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+
+![TRUSTe](//privacy-policy.truste.com/privacy-seal/seal?rid=8ca39875-b9cf-402d-a502-283cc0432a0b)
+
+](https://privacy.truste.com/privacy-seal/validation?rid=8ca39875-b9cf-402d-a502-283cc0432a0b)
 
 **Effective Date**  
 October 6, 2021
