@@ -401,6 +401,14 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   Offenes Daten Portal - [https://www.govdata.de/dl-de/zero-2-0](https://www.govdata.de/dl-de/zero-2-0)
             
+        *   Geoportal Thüringen - Geoportal-Th.de: Licenses: [https://www.govdata.de/dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0)
+            
+        *   Open Data Dresden - [https://www.govdata.de/dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0)
+            
+        *   Landesvermessung und Geobasisinformation Brandenburg - LGB (GeoBroker) - Licenses:[https://www.govdata.de/dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0)
+            
+        *   Geoportal Berlin / Adressen Berlin - [https://www.govdata.de/dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0)
+            
     11.  **Great Britain**
         *   This Service contains Ordnance Survey data © Crown copyright and database right 2011, Royal Mail data © Royal Mail copyright and database right 2011, and National Statistics data © Crown copyright and database right 2011 ([https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf](https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf)). All rights reserved. © South West Coast Path Team. Contains information of Network Rail Infrastructure Limited licensed under the following [licence](https://www.networkrail.co.uk/terms-and-conditions/). Contains public sector information licensed under the [Open Government Licence v2.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/). Contains public sector information licensed under the Open Government Licence v3.0.
             
@@ -569,9 +577,9 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   この地図の作成にあたり、平凡社と平凡社地図出版からのライセンス提供を受けています。
             
-        *   交承 平成 25 年 110 号 JR データの内容は、株式会社交通新聞社発行の「JR 時刻表」([https://www.kotsu.co.jp/jrlogo/](https://www.kotsu.co.jp/jrlogo/)) 令和4年 5 月号に基づ いています。この時刻データを無断で転載・複写し、又は紙媒体、電磁媒体その他いかなる媒体に加工することも禁じます。
+        *   交承 平成 25 年 110 号 JR データの内容は、株式会社交通新聞社発行の「JR 時刻表」([https://www.kotsu.co.jp/jrlogo/](https://www.kotsu.co.jp/jrlogo/)) 令和4年 6 月号に基づ いています。この時刻データを無断で転載・複写し、又は紙媒体、電磁媒体その他いかなる媒体に加工することも禁じます。
             
-        *   JRバスデータの内容は、株式会社交通新聞社作成のデータ令和4年 5 月分に基づいています。この時刻データを無断転載・複写や電磁媒体等に加工することを禁じます。
+        *   JRバスデータの内容は、株式会社交通新聞社作成のデータ令和4年 6 月分に基づいています。この時刻データを無断転載・複写や電磁媒体等に加工することを禁じます。
             
         *   ジオテクノロジーズ（株）の提供する地図データに基づいています。この地図データは世界各国の著作権法および国際的な著作権協定によって保護されています。Googleの利用規約類およびポリシーにより認められている場合を除き、当該データを無断転載／複写又は加工することを禁じます。[https://business.mapfan.com/aboutmap/](https://business.mapfan.com/aboutmap/)
             
@@ -703,6 +711,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         *   Ciclovia.pt
             
         *   Agência para a Modernização Administrativa ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
+            
+        *   Geographical information provided by the Directorate-General for the Territory - Direção-Geral do Território ([https://www.dgterritorio.gov.pt/dados-abertos](https://www.dgterritorio.gov.pt/dados-abertos))
             
     33.  **Russia**
         
@@ -846,6 +856,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         *   © Dütschler & Naegeli / Perrinjaquet AG
             
         *   © opentransportdata.swiss
+            
+        *   Federal Office of Topography swisstopo - [https://www.swisstopo.admin.ch/en/home/meta/conditions/geodata/ogd.html](https://www.swisstopo.admin.ch/en/home/meta/conditions/geodata/ogd.html)
             
     41.  **Taiwan**
         *   © 2013 Kingwaytek Technology Co., Ltd.
