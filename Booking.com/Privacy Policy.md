@@ -547,7 +547,7 @@ Booking.com B.V. controls the processing of personal data, as described in this 
 
 If you have any questions about this Privacy Statement, or about our processing of your personal data, please contact our Data Protection Officer at dataprotectionoffice@booking.com and we’ll get back to you as soon as possible.
 
-For questions about a reservation, please contact our customer service team through the [customer service contact page](https://secure.booking.com/help.en-gb.html?#/?source=privacy_policy).
+For questions about a reservation, please contact our customer service team through the [customer service contact page](https://secure.booking.com/help.en-gb.html?&source=privacy_policy#/?source=privacy_policy).
 
 Requests from law enforcement should be submitted using the [Law Enforcement](https://authorityportal.booking.com/) process.
 
