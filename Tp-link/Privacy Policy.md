@@ -112,7 +112,7 @@ You may not opt out of administrative emails for your registered account (e.g., 
 
 ### **9\.** **CHILDREN’S PRIVACY**
 
-Our Products and Services are not directed to, or intended for, individuals under the age of 16 and we do not knowingly collect personal information from individuals under the age of 16. If you believe that we have any such information, please notify us immediately using the contact information provided in Section 10 and we will delete the information as quickly as possible.
+Our Products and Services are not directed to, or intended for, individuals under the age of 16 and we do not knowingly collect personal information from individuals under the age of 16. If you believe that we have any such information, please notify us immediately using the contact information provided in Section 11 and we will delete the information as quickly as possible.
 
 ### **10\.** **UPDATES TO OUR PRIVACY POLICY**
 
