@@ -1,7 +1,7 @@
 Yelp Privacy Policy
 ===================
 
-**Last Updated on December 13, 2019.** This Privacy Policy is effective **January 1, 2020** for all users. To review the previous policy, please click [here](https://www.yelp.co.uk/tos/privacy_en_uk_20190329).
+**Last Updated on June 30, 2022.** This Privacy Policy is effective **January 1, 2020** for all users. To review the previous policy, please click [here](https://www.yelp.co.uk/tos/privacy_en_uk_20190329).
 
 This Privacy Policy describes our policies on the collection, use, and disclosure of information about you in connection with your use of our services, including those offered through our websites, communications (e.g., emails, phone calls, and texts), and mobile applications (collectively, the “**Service**”). The terms “**we**”, “**us**”, and “**Yelp**” refer to: (i) Yelp Inc., a Delaware corporation with its headquarters in San Francisco, California, unless you are a European Resident; or (ii) Yelp Ireland Ltd., a limited liability company established and resident under the laws of the Republic of Ireland, if you are a European Resident. “**European Resident**” means a resident of a country in the European Economic Area (“**EEA**”) or Switzerland.
 
@@ -99,8 +99,8 @@ When you use the Service, you consent to our collection, use, and disclosure of 
     If you are not a European Resident:
     
     Yelp, Attn: Data Privacy Manager  
-    140 New Montgomery St., 9th Floor  
-    San Francisco, California 94105
+    350 Mission Street, 10th Floor  
+    San Francisco, California 94105, U.S.A.
     
     If you are a European Resident:
     
@@ -108,6 +108,8 @@ When you use the Service, you consent to our collection, use, and disclosure of 
     Attn: Data Privacy Manager  
     70 Sir John Rogerson’s Quay  
     Dublin 2, Ireland
+    
+    If you are a European Resident then you can also contact our Data Protection Officer (“DPO”) by emailing dataprotection@yelp.com and putting “Attention DPO” in the subject line.
     
     For security purposes, we will take such steps as we deem necessary to confirm your identity before completing your request or sharing any personal data with you.
     
