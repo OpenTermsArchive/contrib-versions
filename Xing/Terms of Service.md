@@ -176,20 +176,20 @@ XING shall notify users of such changes to its GTC, e.g. via the XING Websites.
 
 **6.5** XING reserves the right to reasonably increases the fee with effect from the start of a new billing period. Prices may only be increased once per calendar year. In such cases, XING shall inform the user at least six (6) weeks prior to expiry of a billing period to which the fee increase applies. A user may object to the fee increase within three (3) weeks of notification via the contact form, letter, or e-mail. The user’s submission of an objection is tantamount to cancelling Premium membership, meaning that said membership will expire at the end of the existing minimum usage period or current billing period.
 
-**Please note:** 
+_**Please note:**_ 
 
-The previous term continues to apply to contracts concluded before 1 March 2022:
+_The previous term continues to apply to contracts concluded before 1 March 2022:_
 
-**6.5** XING reserves the right to reasonably increase the fees charged for Premium membership with effect from the start of a new renewal period, either after the initial term or the respective current renewal period. Prices may only be increased once per calendar year. In such cases, XING shall inform the user at least six (6) weeks prior to expiry of the initial term or respective current renewal period. Should the user not agree to this increase, they may object to the validity of the increase within three (3) weeks of notification via the contact form, letter, or e-mail. The user’s submission of an objection is tantamount to cancelling its Premium membership, meaning that said membership will expire at the end of the initial term or respective current renewal period.
+_**6.5** XING reserves the right to reasonably increase the fees charged for Premium membership with effect from the start of a new renewal period, either after the initial term or the respective current renewal period. Prices may only be increased once per calendar year. In such cases, XING shall inform the user at least six (6) weeks prior to expiry of the initial term or respective current renewal period. Should the user not agree to this increase, they may object to the validity of the increase within three (3) weeks of notification via the contact form, letter, or e-mail. The user’s submission of an objection is tantamount to cancelling its Premium membership, meaning that said membership will expire at the end of the initial term or respective current renewal period._
 
-Section 6.5 does not apply to existing customers who registered with XING before 17 March 2014, except in the following cases:
+_Section 6.5 does not apply to existing customers who registered with XING before 17 March 2014, except in the following cases:_
 
-*   (a) An older version of the GTC containing a corresponding price modification provision (in Section 12.2) in effect at the time of registration was already explicitly agreed to
-*   (b) A price modification provision was already explicitly agreed to before 17 March 2014, e.g. when switching from the old Premium to the New Premium version
-*   (c) A price modification provision was explicitly agreed to after 17 March 2014
-*   (d) These GTC including the price modification provision (Section 6.5) are or have been explicitly agreed to (e.g. when taking out Premium membership).
+*   _(a) An older version of the GTC containing a corresponding price modification provision (in Section 12.2) in effect at the time of registration was already explicitly agreed to_
+*   _(b) A price modification provision was already explicitly agreed to before 17 March 2014, e.g. when switching from the old Premium to the New Premium version_
+*   _(c) A price modification provision was explicitly agreed to after 17 March 2014_
+*   _(d) These GTC including the price modification provision (Section 6.5) are or have been explicitly agreed to (e.g. when taking out Premium membership)._
 
-This price modification provision (Section 6.5) shall apply without limitation to new customers and new contracts.
+_This price modification provision (Section 6.5) shall apply without limitation to new customers and new contracts._
 
 **Special provision regarding credit card as a payment method**
 
@@ -207,11 +207,11 @@ This price modification provision (Section 6.5) shall apply without limitation t
 
 **Premium membership**
 
-**7.3** Premium membership shall run for the initial term selected by the user during the upgrade process. After this term, the Premium membership will renew automatically for an unlimited period (with monthly billing periods) unless terminated in due time by the user or XING. The user and XING may each terminate Premium membership without cause at any time via the contact form, letter, or e-mail. If Premium membership has been terminated, the user is entitled to retain free membership until this membership is terminated, meaning that the additional and advanced Premium membership features will no longer be available.
+**7.3** Premium membership shall run for the initial term selected by the user during the upgrade process. After this term, the Premium membership will renew automatically for an unlimited period (with monthly billing periods) unless terminated in due time by the user or XING. The user and XING may each terminate Premium membership without cause at any time to the end of the minimum usage period or current billing period. Terminations can be submitted by letter, fax or e-mail. The user may also use the contact form or online cancellation process to cancel Premium membership. If Premium membership has been terminated, the user is entitled to retain free membership until this membership is terminated, meaning that the additional and advanced Premium membership features will no longer be available.
 
-**Please note:** The previous term continues to apply to contracts concluded before 1 March 2022:
+_**Please note:** The previous term continues to apply to contracts concluded before 1 March 2022:_
 
-**7.3** Premium membership shall run for the initial term selected by the user during the upgrade process. After this term, the Premium membership will be renewed by a term of the same length as the initial term, unless terminated in due time by the user or XING. The user and XING may each terminate Premium membership without cause to the end of the initial term selected by the user during registration process, or to the end of any renewal period after said minimum term expires, by serving notice of three (3) weeks via the contact form, letter, or e-mail. If Premium membership has been terminated, the user is entitled to retain free membership until this membership is terminated, meaning that the additional and advanced Premium membership features will no longer be available.
+_Premium membership shall run for the initial term selected by the user during the upgrade process. After this term, the Premium membership will be renewed by a term of the same length as the initial term, unless terminated in due time by the user or XING. The user and XING may each terminate Premium membership without cause to the end of the initial term selected by the user during the registration process, or to the end of any renewal period after said minimum term expires, by serving notice of three (3) weeks._ 
 
 **Cancellation and suspension for good cause**
 
