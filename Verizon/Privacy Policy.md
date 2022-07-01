@@ -723,7 +723,7 @@ Open all Close all
     
     If you have questions about your rights under CCPA, please [submit a privacy inquiry form](https://www.verizon.com/about/privacy/privacy-inquiries).
     
-    **Reporting.** You can access our [2020 Record-Keeping report](https://www.verizon.com/about/privacy/ccpa-reporting) to find out more about the CCPA requests we received during the year. 
+    **Reporting.** You can access our [2021 Record-Keeping report](https://www.verizon.com/about/privacy/ccpa-reporting) to find out more about the CCPA requests we received during the year. 
     
     ### Additional California Privacy Rights
     
