@@ -786,24 +786,6 @@ Apps must use more narrowly scoped [APIs and permissions](https://developer.and
 
 Effective from 11 July 2022
 
-#### **Request install packages permission**
-
-The [REQUEST\_INSTALL\_PACKAGES](https://developer.android.com/reference/android/Manifest.permission#REQUEST_INSTALL_PACKAGES) permission allows an application to request the installation of app packages.​​ To use this permission, your app’s core functionality must include: 
-
-*   Sending or receiving app packages; and
-*   Enabling user-initiated installation of app packages. 
-
-Permitted functionalities include:
-
-*   Web browsing or search; or
-*   Communication services that support attachments; or
-*   File sharing, transfer or management; or
-*   Enterprise device management. 
-
-Core functionality is defined as the main purpose of the app. The core functionality, as well as any core features that comprise this core functionality, must all be prominently documented and promoted in the app's description. 
-
-The REQUEST\_INSTALL\_PACKAGES permission may not be used to perform self updates, modifications or the bundling of other APKs in the asset file unless for device management purposes. All updates or installing of packages must abide by Google Play’s [device and network abuse](https://support.google.com/googleplay/android-developer/answer/9888379?hl=en-GB&ref_topic=9877467) policy and must be initiated and driven by the user.
-
 * * *
 
 Device and network abuse
