@@ -5,8 +5,6 @@ _Last updated: 3 August 2020_
 
 You can change your cookie settings on the Websites to accept or refuse certain tracking technologies at any time via our Cookie Settings tool, which you can access by clicking the link below.
 
-[Open cookies settings](https://www.tiktok.com/legal/cookie-settings?lang=en)
-
 This Cookies Policy applies whenever you visit a website on the [tiktok.com](https://tiktok.com/) domain, unless expressly stated otherwise (collectively, the “Websites” and each a “Website”). Other than the Websites, this Cookies Policy does not apply to any of our services, applications, products and content, which are each subject to their own, separate, notices.
 
 On the Websites, we use cookies and other tracking technologies such as software development kits (SDKs), pixels and local storage. These technologies allow us to store information or gain access to information stored on your device to enable certain features and distinguish you from other visitors. Tracking technologies are used by most website providers to let users navigate between pages efficiently, ensure web security, understand how their websites are used, remember user preferences and generally improve the user experience.
