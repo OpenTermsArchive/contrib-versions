@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-#### Last Updated: June 20, 2022
+#### Last Updated: July 01, 2022
 
 #### 1\. Universal Service Terms (Applicable to All Services)
 
@@ -535,7 +535,7 @@ You must have all necessary rights to use any domain name that you use in conjun
 
 #### 39\. AWS IoT Services
 
-**39.1. “AWS IoT Services”** means AWS IoT Core, AWS IoT Device Management, AWS IoT Device Defender, AWS IoT 1-Click, AWS IoT Events, AWS IoT Analytics, AWS IoT SiteWise, AWS IoT FleetWise (Preview), AWS IoT TwinMaker, FreeRTOS, AWS IoT ExpressLink (Preview), AWS IoT Greengrass, and AWS IoT RoboRunner (Preview).
+**39.1. “AWS IoT Services”** means AWS IoT Core, AWS IoT Device Management, AWS IoT Device Defender, AWS IoT 1-Click, AWS IoT Events, AWS IoT Analytics, AWS IoT SiteWise, AWS IoT FleetWise (Preview), AWS IoT TwinMaker, FreeRTOS, AWS IoT ExpressLink, AWS IoT Greengrass, and AWS IoT RoboRunner (Preview).
 
 **39.2**. AWS IoT Services are not intended for use in, or in association with, the operation of any hazardous environments or critical systems that may lead to serious bodily injury or death or cause environmental or property damage, and you are solely responsible for all liability that may arise in connection with any such use. 
 
@@ -551,7 +551,7 @@ You must have all necessary rights to use any domain name that you use in conjun
 
 **39.8.** AWS IoT TwinMaker is designed to help customers build digital twins of physical systems such as machines, factory equipment, and buildings. Data collected through your use of AWS IoT TwinMaker should be evaluated for accuracy as appropriate for your use case. AWS IoT TwinMaker should not be used as a substitute for human monitoring of physical systems for purposes of assessing whether such systems are operating safely. You and your End Users are solely responsible for all decisions made, advice given, actions taken, and failures to take action based on your use of AWS IoT TwinMaker.
 
-**39.9.** AWS IoT ExpressLink (Preview) is AWS cloud connectivity software and specifications that select AWS Partner Network (APN) Partners may incorporate into hardware modules they develop, manufacture, and offer to AWS customers. If you purchase a hardware module (including any evaluation kit) from an APN Partner that includes AWS IoT ExpressLink, you agree that AWS is not a party to any agreement between you and the APN Partner governing your purchase and use of the module, AWS is not responsible or liable to you for the module, and AWS does not make any representations or warranties with respect to the module.   
+**39.9.** AWS IoT ExpressLink is AWS cloud connectivity software and specifications that select AWS Partner Network (APN) Partners may incorporate into hardware modules they develop, manufacture, and offer to AWS customers. If you purchase a hardware module (including any evaluation kit) from an APN Partner that includes AWS IoT ExpressLink, you agree that AWS is not a party to any agreement between you and the APN Partner governing your purchase and use of the module, AWS is not responsible or liable to you for the module, and AWS does not make any representations or warranties with respect to the module.   
 
 #### 40\. Amazon QuickSight
 
