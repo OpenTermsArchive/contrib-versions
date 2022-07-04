@@ -286,8 +286,11 @@ Pour plus d'informations : [https://www.facebook.com/](https://www.facebook.com/
 **Tokywoky :** Tokywoky est responsable de traitement de données d'inscription fournies par les utilisateurs lorsqu'ils ouvrent un compte sur la communauté Tokywoky. Nous vus invitons à consulter les CGV de Tokywoky lorsque vous utilisez ce service.
 
 **Twitter :** Twitter nous permet de vous proposer des publicités personnalisées.  
-Pour plus d'informations : [https://twiter.com/](https://twitter.com/?lang=fr "Twitter")**  
+Pour plus d'informations : [https://twiter.com/  
   
+](https://twitter.com/?lang=fr "Twitter")**Veasybl  
+**Veasybl nous permet de vous proposer des produits susceptibles de vous intéresser.  
+**  
   
 Partage de l'utilisation du terminal du client avec d'autres personnes**
 
@@ -351,7 +354,7 @@ Vous pouvez à tout moment et facilement vous opposer au dépôt des cookies Liv
 
 **Service Client** : Rue du commerce, Service clients – 118 rue de Javel\- 75015 Paris ou au ![Numéro téléphone Service Client](https://www.rueducommerce.fr/static/drupal-front/inline-images/T%C3%A9l%C3%A9phone.gif) du lundi au vendredi de 8h à 21h, le samedi de 9h à 18h et les dimanches et jours fériés de 10h à 18h
 
-**Délégué à la Protection des Données Personnelles** : Chez Rue du Commerce, un Délégué à la Protection des Données a été désigné. Vous pouvez le contacter pour toutes questions relatives au traitement de vos données personnelles: Rue du Commerce - Délégué à la Protection des données personnelles – 118 rue de Javel\- 75015 Paris  
+**Délégué à la Protection des Données Personnelles** : Chez Rue du Commerce, un Délégué à la Protection des Données a été désigné. Vous pouvez le contacter pour toutes questions relatives au traitement de vos données personnelles: Rue du Commerce - Délégué à la Protection des données personnelles – 118 rue de Javel- 75015 Paris  
   
   
 
@@ -640,8 +643,11 @@ Pour plus d'informations : [https://www.facebook.com/](https://www.facebook.com/
 **Tokywoky :** Tokywoky est responsable de traitement de données d'inscription fournies par les utilisateurs lorsqu'ils ouvrent un compte sur la communauté Tokywoky. Nous vus invitons à consulter les CGV de Tokywoky lorsque vous utilisez ce service.
 
 **Twitter :** Twitter nous permet de vous proposer des publicités personnalisées.  
-Pour plus d'informations : [https://twiter.com/](https://twitter.com/?lang=fr "Twitter")**  
+Pour plus d'informations : [https://twiter.com/  
   
+](https://twitter.com/?lang=fr "Twitter")**Veasybl  
+**Veasybl nous permet de vous proposer des produits susceptibles de vous intéresser.  
+**  
   
 Partage de l'utilisation du terminal du client avec d'autres personnes**
 
@@ -705,4 +711,4 @@ Vous pouvez à tout moment et facilement vous opposer au dépôt des cookies Liv
 
 **Service Client** : Rue du commerce, Service clients – 118 rue de Javel\- 75015 Paris ou au ![Numéro téléphone Service Client](https://www.rueducommerce.fr/static/drupal-front/inline-images/T%C3%A9l%C3%A9phone.gif) du lundi au vendredi de 8h à 21h, le samedi de 9h à 18h et les dimanches et jours fériés de 10h à 18h
 
-**Délégué à la Protection des Données Personnelles** : Chez Rue du Commerce, un Délégué à la Protection des Données a été désigné. Vous pouvez le contacter pour toutes questions relatives au traitement de vos données personnelles: Rue du Commerce - Délégué à la Protection des données personnelles – 118 rue de Javel\- 75015 Paris
+**Délégué à la Protection des Données Personnelles** : Chez Rue du Commerce, un Délégué à la Protection des Données a été désigné. Vous pouvez le contacter pour toutes questions relatives au traitement de vos données personnelles: Rue du Commerce - Délégué à la Protection des données personnelles – 118 rue de Javel- 75015 Paris
