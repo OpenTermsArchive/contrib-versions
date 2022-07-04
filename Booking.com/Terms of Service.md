@@ -435,7 +435,7 @@ B7. What else do you need to know?
 
 We Price Match
 
-1\. We want you to get the best possible price every time. If, after you've booked your Accommodation with us, you find the same Accommodation (with the same conditions) for less on another website, we promise to refund the difference, subject to the [We Price Match](https://www.booking.com/general.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSAlYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AECiAIBqAIEuALDu4uWBsACAdICJGQzNjY0ZThhLTQ4YWMtNGY5Yy1hMzMzLTQ0M2E1NzE3ZjQxZNgCBeACAQ&sid=5c177da546f540fd40110b7d09024a22&tmpl=doc%2Frate_guarantee) terms and conditions.
+1\. We want you to get the best possible price every time. If, after you've booked your Accommodation with us, you find the same Accommodation (with the same conditions) for less on another website, we promise to refund the difference, subject to the [We Price Match](https://www.booking.com/general.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSAlYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AECiAIBqAIEuAKs5IyWBsACAdICJDQ0NzljNjBmLThjMTUtNDNkZi04NTIxLTI3MmQ0MzU3YjgyN9gCBeACAQ&sid=799ad9103acd52d588df7319f2b18a1a&tmpl=doc%2Frate_guarantee) terms and conditions.
 
 Partner offer
 
