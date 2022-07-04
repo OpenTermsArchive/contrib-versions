@@ -6,15 +6,19 @@ Privacy Policy
 In a nutshell
 -------------
 
-Olvid does not collect ANY personal data.
+**Olvid does not collect ANY personal data.**
 
 Olvid’s technology does not require any personal data to operate : no phone number, no email address, no name, no surname, no address, no birth date… Olvid will never request access to your contacts, your files or any other data that belongs to you. (NB: like any application, Olvid simply uses purely technical data, i.e. users' IP addresses, for its operation, without consulting, collecting or storing them).
 
-\- When installing Olvid, you are not asked to create an account. Identification elements you enter and which are displayed to other users remain locally on your phone, they are never sent to our servers.
+**When you launch Olvid for the first time**, you are asked to enter a first and last name. All identification elements you enter remain locally on your phone, they are never sent to our servers. These Identification elements will only be shared with Olvid users you decide to invite.
 
-\- When you use Olvid, we have access to no information. Absolutely everything is encrypted, data and metadata. We can not learn anything about what users exchange and it is impossible for us to know « who is talking to whom ».
+**When you use Olvid**, we have no access to any information. Everything is end-to-end encrypted, data and metadata. In particular, it is impossible for us to see what is being exchanged or to know "who is talking to whom".
 
-\- If you uninstall the application, no personal data whatsoever remains. It’s as if you had never installed the app.
+**Location data**. When using location sharing in Olvid, the application will request the permission to access your location. If you choose to enable continuous location sharing, the application may request the permission to access the location of your device "all the time".
+
+In both cases, this location will never be shared with us and will only be sent to contacts with whom you enable this sharing.
+
+**To delete your data**, simply uninstall the application. That's all. True freedom is also being able to leave whenever you want.
 
 * * *
 
