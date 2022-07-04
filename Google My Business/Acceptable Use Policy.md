@@ -36,7 +36,7 @@ There are some exceptions:
 
 *   ATMs, video-rental kiosks and express mail drop boxes are permitted. If you add these locations, then you must include contact information for customers to get help.
 *   Seasonal businesses, like an ice-skating rink only open in winter months, are eligible. These businesses must display permanent signage at their location year-round.
-*   Delivery-only food services are permitted with some conditions. [Learn more under Virtual Food Brands](#chains).
+*   Delivery-only food services are permitted with some conditions. [Learn more under Virtual Food Brands](https://support.google.com/business/answer/3038177#chains).
 
 Ineligible businesses
 
