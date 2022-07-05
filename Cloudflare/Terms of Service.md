@@ -31,7 +31,7 @@ Unless otherwise expressly permitted in writing by Cloudflare, you will not and 
 
 (b) interfere with, disrupt, alter, or modify the Services or any part thereof, or create an undue burden on the Services or the networks or services connected to the Services, including, but not limited to, causing (whether directly or indirectly) traffic for your Cloudflare-proxied domain to be sent to an IP address that was not assigned by Cloudflare for the domain;
 
-(c) utilize any framing techniques to enclose any Cloudflare trademark, logo, service mark, or other trade dress (“Cloudflare Marks”) or Materials (defined below) or use any meta tags or other “hidden text” utilizing the Cloudflare Marks or Materials without Cloudflare���s written consent
+(c) utilize any framing techniques to enclose any Cloudflare trademark, logo, service mark, or other trade dress (“Cloudflare Marks”) or Materials (defined below) or use any meta tags or other “hidden text” utilizing the Cloudflare Marks or Materials without Cloudflare’s written consent
 
 (d) introduce software or automated agents or scripts into the Services so as to produce multiple accounts, generate automated searches, requests or queries, or to strip or mine data from the Services;
 
