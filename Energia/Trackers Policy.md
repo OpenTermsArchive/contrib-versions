@@ -229,7 +229,7 @@ If you wish to object to receiving direct marketing please use the provided opt-
    
 **7.9 Right to lodge a complaint with the Data Protection Commission.** You have the right to lodge a complaint with the:
 
-*   Data Protection Commission via their website at [www.dataprotection.ie](https://www.dataprotection.ie/) or by writing to the Data Protection Commission, 21 Fitzwilliam Square South, Dublin 2, D02 RD28, Ireland.
+*   Data Protection Commission via their website at [www.dataprotection.ie](http://www.dataprotection.ie/) or by writing to the Data Protection Commission, 21 Fitzwilliam Square South, Dublin 2, D02 RD28, Ireland.
 
 ### More from Privacy
 
