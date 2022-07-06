@@ -5,7 +5,8 @@ Effective September 12, 2021. Last Revised August 12, 2021
 
 We want you to understand how and why Reddit, Inc. (“**Reddit**,” “**we**” or “**us**”) collects, uses, and shares information about you when you use our sites, mobile apps, widgets, and other online products and services (collectively, the “**Services**”) or when you otherwise interact with us or receive a communication from us. This Privacy Policy applies to all of our Services including Reddit Gifts, which maintains a [separate privacy notice](https://www.redditgifts.com/privacy/) that incorporates this Privacy Policy by reference.  
 
-**What We Collect (and How it is Used and Shared)**
+What We Collect (and How it is Used and Shared)
+-----------------------------------------------
 
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
@@ -15,35 +16,30 @@ We want you to understand how and why Reddit, Inc. (“**Reddit**,” “**we**�
 |     | _  <br>Actions you take_ |     | We collect information about the actions you take when using the Services. This includes your interactions with content, like voting, saving, hiding, and reporting. It also includes your interactions with other users, such as following, friending, and blocking. We collect your interactions with communities, like your subscriptions or moderator status. |     |
 |     | _  <br>Transactional information_ |     | If you purchase products or services from us (e.g., Reddit Premium or Reddit Coins), we will collect certain information from you, including your name, address, email address, and information about the product or service you are purchasing. Reddit uses industry-standard payment processor services (for example, Stripe) to handle payment information. |     |
 |     | _  <br>Other information_ |     | You may choose to provide other information directly to us. For example, we may collect information when you fill out a form, participate in Reddit-sponsored activities or promotions, apply for a job, request customer support, or otherwise communicate with us. |     |
-|     |     |     |     |     |
 
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |     | Information We Collect Automatically  <br>When you access or use our Services, we may also automatically collect information about you. This includes: |     |     |     |
 |     | _  <br>Log and usage data_ |     | We may log information when you access and use the Services. This may include your IP address, user-agent string, browser type, operating system, referral URLs, device information (e.g., device IDs), device settings, mobile carrier name, pages visited, links clicked, the requested URL, and search terms. Except for the IP address used to create your account, Reddit will delete any IP addresses collected after 100 days. |     |
-|     | _  <br>Information collected from cookies and similar technologies_ |     | We may receive information from cookies, which are pieces of data your browser stores and sends back to us when making requests, and similar technologies. We use this information to improve your experience, understand user activity, personalize content and advertisements, and improve the quality of our Services. For example, we store and retrieve information about your preferred language and other settings. See our [Cookie Notice](https://www.redditinc.com/policies/cookies) for more information about how Reddit uses cookies. For more information on how you can disable cookies, please see [Your Choices](#your-choices) below. |     |
+|     | _  <br>Information collected from cookies and similar technologies_ |     | We may receive information from cookies, which are pieces of data your browser stores and sends back to us when making requests, and similar technologies. We use this information to improve your experience, understand user activity, personalize content and advertisements, and improve the quality of our Services. For example, we store and retrieve information about your preferred language and other settings. See our [Cookie Notice](https://www.reddit.com/policies/cookies) for more information about how Reddit uses cookies. For more information on how you can disable cookies, please see [Your Choices](#your-choices) below. |     |
 |     | __Location information__ |     | We may receive and process information about your location. For example, with your consent, we may collect information about the specific location of your mobile device (for example, by using GPS or Bluetooth). We may also receive location information from you when you choose to share such information on our Services, including by associating your content with a location, or we may derive your approximate location from other information about you, including your IP address. |     |
 |     | _Other Information_ |     | We may also use information from Apple's TrueDepth camera to provide enhanced functionality in the Reddit app camera if you choose to use it. Information from the TrueDepth camera is used in real time — we don't store this information on our servers or share it with third parties. |     |
-|     |     |     |     |     |
 
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |     | Information Collected from Other Sources  <br>We may receive information about you from other sources, including from other users and third parties, and combine that information with the other information we have about you. For example, we may receive demographic or interest information about you from third parties, including advertisers (such as the fact that an advertiser is interested in showing you an ad), and combine it with our own data using a common account identifier such as a hash of an email address or a mobile-device ID. You can control how we use this information to personalize the Services for you as described in [Your Choices - Controlling Advertising and Analytics](#controlling-advertising-and-analytics) below. |     |     |     |
 |     | _  <br>Linked services_ |     | If you authorize or link a third-party service (e.g., an unofficial mobile app client) to access your Reddit account, Reddit receives information about your use of that service when it uses that authorization. Linking services may also cause the other service to send us information about your account with that service. For example, if you sign in to Reddit with a third-party identity provider, that provider may share an email address with us. Information sharing with linked services is described [later in this section](#sharing). |     |
 |     | _  <br>Information collected from integrations_ |     | We also may receive information about you, including log and usage data and cookie information, from third-party sites that integrate our Services, including our embeds and advertising technology. For example, when you visit a site that uses [Reddit embeds](https://www.redditinc.com/policies/embeds-terms), we may receive information about the web page you visited. Similarly, if an advertiser incorporates Reddit’s ad technology, Reddit may receive limited information about your activity on the advertiser’s site or app, such as whether you bought something from the advertiser. You can control how we use this information to personalize the Services for you as described in [Your Choices - Controlling Advertising and Analytics](#controlling-advertising-and-analytics) below. |     |
-|     |     |     |     |     |
 
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |     | Information Collected by Third Parties |     |     |     |
 |     | _  <br>Embedded content_ |     | Reddit displays some linked content in-line on the Reddit services via “embeds.” For example, Reddit posts that link to YouTube or Twitter may load the linked video or tweet within Reddit directly from those services to your device so you don’t have to leave Reddit to see it. In general, Reddit does not control how third-party services collect data when they serve you their content directly via these embeds. As a result, embedded content is not covered by this privacy policy but by the policies of the service from which the content is embedded. |     |
 |     | _  <br>Audience measurement_ |     | We partner with audience measurement companies (including Quantcast and Nielsen) to learn demographic information about the population that uses Reddit. To provide this demographic information, these companies collect cookie information to recognize your device. |     |
-|     |     |     |     |     |
 
 |     |     |     |
 | --- | --- | --- |
 |     | Information Collected from Advertisers and Potential Advertisers  <br>If you use Reddit Ads (Reddit’s self-serve ads platform at ads.reddit.com) we collect some additional information. To sign up for Reddit Ads, you must provide your name, email address, and information about your company. If you purchase advertising services, you will need to provide transactional information as described above, and we may also require additional documentation to verify your identity. When using Reddit Ads, we may record a session replay of your visit for customer service, troubleshooting, and usability research purposes. |     |     |     |
-|     |     |     |     |     |
 
   
 We use information about you to:
@@ -77,7 +73,8 @@ We do not sell your personal information. However, in addition to the personal i
 *   _With our affiliates._ We may share information between and among Reddit, and any of our parents, affiliates, subsidiaries, and other companies under common control and ownership.
 *   _Aggregated or de-identified information._ We may share information about you that has been aggregated or anonymized such that it cannot reasonably be used to identify you. For example, we may show the total number of times a post has been upvoted without identifying who the visitors were, or we may tell an advertiser how many people saw their ad.
 
-**How We Protect Your Information**
+How We Protect Your Information
+-------------------------------
 
 We take measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration, and destruction. For example, we use HTTPS while information is being transmitted. We also enforce technical and administrative access controls to limit which of our employees have access to nonpublic personal information.
 
@@ -85,7 +82,8 @@ You can help maintain the security of your account by configuring [two-factor au
 
 We store the information we collect for as long as it is necessary for the purpose(s) for which we originally collected it. We may retain certain information for legitimate business purposes or as required by law.
 
-**Your Choices**
+Your Choices
+------------
 
 You have choices about how to protect and limit the collection, use, and sharing of information about you when you use the Services. Some of these choices are available to everyone who uses Reddit, while others only apply if you have a Reddit account.
 
@@ -94,15 +92,17 @@ You have choices about how to protect and limit the collection, use, and sharing
 |     | _Accessing and Changing Your Information_ |     | You can access and change certain information through the Services. See our [Help Center](https://www.reddithelp.com/en/categories/privacy-security/accessing-your-reddit-data/where-and-how-can-i-access-my-reddit-data) page for more information. You can also request a copy of the personal information Reddit maintains about you by following the process described [here](https://www.reddithelp.com/en/categories/privacy-security/accessing-your-reddit-data/how-do-i-request-copy-my-reddit-data-and)[](https://www.reddithelp.com/en/categories/privacy-security/accessing-your-reddit-data/how-do-i-request-copy-my-reddit-data-and). |     |
 |     | _Deleting Your Account_ |     | You may delete your account information at any time from the user preferences page. You can also submit a request to delete the personal information Reddit maintains about you by following the process described in the [Your Rights - Data Subject and Consumer Information Requests](#your-rights) section below. When you delete your account, your profile is no longer visible to other users and disassociated from content you posted under that account. Please note, however, that the posts, comments, and messages you submitted prior to deleting your account will still be visible to others unless you first delete the specific content. We may also retain certain information about you as required by law or for legitimate business purposes after you delete your account. |     |
 |     | _Controlling Linked Services’ Access to Your Account_ |     | You can review the services you have permitted to access your account and revoke access to individual services by visiting your account’s [Apps page](https://www.reddit.com/prefs/apps) (for third-party app authorizations) and the Connected Accounts section of your [Account Settings](https://www.reddit.com/settings) (for Google Sign-In, Sign in with Apple, and connected Twitter accounts). |     |
-|     | _Controlling the Use of Cookies_ |     | Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject first- and third-party cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Services. For more information on controlling how cookies and similar technologies are used on Reddit, see our [Cookie Notice](https://www.redditinc.com/policies/cookies). |     |
+|     | _Controlling the Use of Cookies_ |     | Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject first- and third-party cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Services. For more information on controlling how cookies and similar technologies are used on Reddit, see our [Cookie Notice](https://www.reddit.com/policies/cookies). |     |
 |     | _Controlling Advertising and Analytics_ |     | Some analytics providers we partner with may provide specific opt-out mechanisms and we may provide, as needed and as available, additional tools and third-party services that allow you to better understand cookies and how you can opt out. For example, you may manage the use and collection of certain information by [Google Analytics](http://www.google.com/policies/privacy/partners/) via the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout). You can opt out of the Audience Measurement services provided by [Nielsen](https://www.nielsen.com/us/en/legal/privacy-statement/digital-measurement/#choices) and [Quantcast](https://www.quantcast.com/opt-out/).  <br>  <br>We also offer you choices about receiving personalized advertisements. You can adjust how we personalize advertisements for you by visiting your ads preferences your account settings in the Reddit app, or [here](https://www.reddit.com/personalization) if you use Reddit in a web browser. You can also use device-level settings to control personalized advertisements on Android (“Reset advertising ID” and “Opt out of Ads Personalization”) and iOS (“Limit Ad Tracking”) devices. You may also generally opt out of receiving personalized advertisements from certain third-party advertisers and ad networks. To learn more about these advertisements or to opt out, please visit the sites of the [Digital Advertising Alliance](http://optout.aboutads.info/#!) and the [Network Advertising Initiative](http://optout.networkadvertising.org/#!), or if you are a user in the European Economic Area, [Your Online Choices](http://www.youronlinechoices.eu/). |     |
 |     | _Do Not Track_ |     | Most modern web browsers give you the option to send a Do Not Track signal to the sites you visit, indicating that you do not wish to be tracked. However, there is no accepted standard for how a site should respond to this signal, and we do not take any action in response to this signal. Instead, in addition to publicly available third-party tools, we offer you the choices described in this policy to manage the collection and use of information about you. |     |
 |     | _Controlling Promotional Communications_ |     | You may opt out of receiving some or all categories of promotional communications from us by following the instructions in those communications or by updating your email options in your account preferences [here](https://www.reddit.com/prefs/). If you opt out of promotional communications, we may still send you non-promotional communications, such as information about your account or your use of the Services. |     |
 |     | _Controlling Mobile Notifications_ |     | With your consent, we may send promotional and non-promotional push notifications or alerts to your mobile device. You can deactivate these messages at any time by changing the notification settings on your mobile device. |     |
 |     | _Controlling Location Information_ |     | You can control how we use location information inferred from your IP address for content recommendation purposes via the [Safety and Privacy settings](https://www.reddit.com/settings/privacy) on your account. If you initially consent to our collection of more precise location information from your device, you can subsequently stop the collection of this information at any time by changing the preferences on your mobile device. |     |
-|     |     |     |     |     |
 
-**Your Rights** **Data Subject and Consumer Information Requests**
+Your Rights
+-----------
+
+### Data Subject and Consumer Information Requests
 
 Requests for a copy of the information Reddit has about your account—including EU General Data Protection Regulation (**“GDPR”**) data subject access requests and California Consumer Privacy Act (“**CCPA**”) consumer information requests—can be submitted following the process described [here](https://www.reddithelp.com/en/categories/privacy-security/accessing-your-reddit-data/how-do-i-request-copy-my-reddit-data-and).  
   
@@ -110,7 +110,7 @@ All other data subject and consumer requests under data protection laws should b
   
 Before we process a request from you about your personal information, we need to verify the request via your access to your Reddit account or to a verified email address associated with your Reddit account. You may also designate an authorized agent to exercise these rights on your behalf. Reddit does not discriminate against users for exercising their rights under data protection laws to make requests regarding their personal information.
 
-**International Data Transfers**
+### International Data Transfers
 
 Reddit, Inc. is based in the United States and we process and store information on servers located in the United States. We may store information on servers and equipment in other countries depending on a variety of factors, including the locations of our users and service providers. By accessing or using the Services or otherwise providing information to us, you consent to the processing, transfer, and storage of information in and to the U.S. and other countries, where you may not have the same rights as you do under local law.  
   
@@ -120,7 +120,7 @@ Please direct any inquiries or complaints regarding our compliance with the Priv
   
 For more information about the Privacy Shield principles and to view our certification, please visit the U.S. Department of Commerce’s [Privacy Shield site](https://www.privacyshield.gov/).
 
-**Additional Information for EEA Users**
+### Additional Information for EEA Users
 
 Users in the European Economic Area have the right to request access to, rectification of, or erasure of their personal data; to data portability in certain circumstances; to request restriction of processing; to object to processing; and to withdraw consent for processing where they have previously provided consent. These rights can be exercised using the information provided under [Your Choices](#your-choices) above or as described in the [Your Rights - Data Subject and Consumer Information Requests](#your-rights) section above. EEA users also have the right to lodge a complaint with their local supervisory authority.  
   
@@ -131,7 +131,7 @@ As required by applicable law, we collect and process information about individu
 *   It satisfies a legitimate interest (which is not overridden by your data protection interests), such as preventing fraud, ensuring network and information security, enforcing our rules and policies, protecting our legal rights and interests, research and development, personalizing the Services, and marketing and promoting the Services; or
 *   We need to process your information to comply with our legal obligations.
 
-**Additional Information for California Users**
+### Additional Information for California Users
 
 The California Consumer Privacy Act (CCPA) requires us to provide California residents with some additional information about the categories of personal information we collect and share, where we get that personal information, and how and why we use it.  
   
@@ -149,15 +149,16 @@ You can find more information about (a) what we collect and sources of that info
   
 If you are a California resident, you have additional rights under the CCPA, including the right to request access to or deletion of your personal information, and information about our data practices, as well as the right not to be discriminated against for exercising your privacy rights. These rights can be exercised as described in the Data Subject and Consumer Information Requests section above.
 
-**Children**
+### Children
 
 Children under the age of 13 are not allowed to create an account or otherwise use the Services. Additionally, if you are in the EEA, you must be over the age required by the laws of your country to create an account or otherwise use the Services, or we need to have obtained verifiable consent from your parent or legal guardian.
 
-**Changes to This Policy**
+### Changes to This Policy
 
 We may change this Privacy Policy from time to time. If we do, we will let you know by revising the date at the top of the policy. If the changes, in our sole discretion, are material, we may also notify you by sending an email to the address associated with your account (if you have chosen to provide an email address) or by otherwise providing notice through our Services. We encourage you to review the Privacy Policy whenever you access or use our Services or otherwise interact with us to stay informed about our information practices and the ways you can help protect your privacy. By continuing to use our Services after Privacy Policy changes go into effect, you agree to be bound by the revised policy.
 
-**Contact Us**
+Contact Us
+----------
 
 To send a GDPR data subject request or CCPA consumer request, or if you have other inquiries about your privacy rights, follow the steps in the [Your Rights - Data Subject and Consumer Information Requests](#your-rights) section above.  
   
