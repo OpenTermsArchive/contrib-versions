@@ -262,17 +262,13 @@ _Article 4 : MODALITES DE PAIEMENT_
 
  **4.1. Modes de paiement** 
 
-  
-
 Les modes de paiement listés ci-après peuvent être proposés par CDISCOUNT :  
   
 (i) Cartes bancaires : Visa, Mastercard.  
   
-(ii) Paiement en « 4 fois » : le paiement en « 4 fois » peut être effectué par carte bancaire conformément aux conditions générales du paiement en « 4 fois », dont vous devez prendre connaissance au moment de la passation de votre commande.  Les conditions générales du paiement en « 4 fois » sont accessibles [en cliquant ici](https://i1.cdscdn.com/odr/ImagesOK/CommercialOffer/conditions_74150202204010857229655.pdf).
+(ii) Paiement en « 4 fois » : le paiement en « 4 fois » peut être effectué par carte bancaire conformément aux conditions générales du paiement en « 4 fois », dont vous devez prendre connaissance au moment de la passation de votre commande.  Les conditions générales du paiement en « 4 fois » sont accessibles [en cliquant ici](https://i2.cdscdn.com/resources/ImagesOK/cgv/4f.pdf).
 
- 
-
-  [](https://i2.cdscdn.com/resources/InterestRateConfiguration/4f.pdf) Le paiement en "4 fois" n'est pas proposé de manière systématique à tous nos clients et/ou pour toutes les commandes. Nous mettons en œuvre une décision individuelle automatisée afin d'identifier les clients et les commandes éligibles au paiement en "4 fois".  
+ [](https://i2.cdscdn.com/resources/InterestRateConfiguration/4f.pdf) Le paiement en "4 fois" n'est pas proposé de manière systématique à tous nos clients et/ou pour toutes les commandes. Nous mettons en œuvre une décision individuelle automatisée afin d'identifier les clients et les commandes éligibles au paiement en "4 fois".  
   
 (iii) Paiement en magasin : Cdiscount peut vous proposer de régler votre commande dans certains magasins, jusqu’à 3000 euros (dans la limite de 1000€ en espèces). Pour tout savoir sur ce mode de paiement, [cliquez ici](https://www.cdiscount.com/payment/paymentinfo.html).  
   
@@ -319,8 +315,6 @@ Dans le cas où vous utilisez les coordonnées bancaires d'un tiers sur le Site,
 **En passant commande sur le Site, vous acceptez que votre facture d’achat vous soit transmise sous format électronique.
 
 Elle est accessible sur votre Espace Client au plus tard au moment de la livraison de votre commande.
-
-  
 
 _Article 5 : SECURISATION DES PAIEMENTS ET LUTTE CONTRE LA FRAUDE_
 ------------------------------------------------------------------
@@ -570,8 +564,8 @@ Dans le cas où, après acceptation du colis, vous constateriez que le produit c
 
 et ce, au plus tard dans les quatorze (14) jours calendaires après réception de votre commande.
 
-_Article 8 : RETRACTATION_
---------------------------
+_Article 8 : RETRACTION_
+------------------------
 
 **8.1 Principe**
 
@@ -645,15 +639,16 @@ b) **ou en nous retournant, à l’adresse postale indiquée, le formulaire suiv
 
 (Veuillez compléter et renvoyer le présent formulaire uniquement si vous souhaitez vous rétracter du contrat).
 
-À l’attention de CDISCOUNT, Cdiscount.com / SGPN Service Client - BP 90200 - 93472 Neuilly Sur Marne, France :
+À l’attention de CDISCOUNT, Cdiscount.com / SGPN Service Client - BP 90200 - 93472 Neuilly Sur Marne, France, [droit.retractation@cdiscount.com](https://www.cdiscount.com/mailto:droit.retractation@cdiscount.com) :
 
-— Je/Nous (\*) vous notifie/notifions (\*) par la présente ma/notre (\*) rétractation du contrat portant sur la vente du bien/service (\*) ci-dessous \[Indiquez le ou les produits/services pour lesquels vous vous rétractez\] …………………………………………………………………………………………………… ………………………………………………….... — Commandé le (\*)/reçu le (\*)………………………………………………………………………………………………… …………..............
+— Je/Nous (\*) vous notifie/notifions (\*) par la présente ma/notre (\*) rétractation du contrat portant sur la vente du bien (\*) / prestation de services (\*) ci-dessous \[Indiquez le ou les produits/services pour lesquels vous vous rétracter\]…………………………………………………………………………………………………… ……………………………………………….... — Commandé le (\*) / reçu le (\*)………………………………………………………………………………………………… …………..............
 
 — N° de commande …………………………………………………………………………………………………… ………..............................
 
 — Nom du (des) consommateur(s) …………………………………………………………………………………………………… …..............
 
-— Adresse du (des) consommateur(s) …………………………………………………………………………………………………...... ........ …………………………………………………………………………………………………… ……………………………………………………. — Signature du (des) consommateur(s) (uniquement en cas de notification du présent formulaire sur papier)
+— Adresse du (des) consommateur(s) …………………………………………………………………………………………………...... ........ …………………………………………………………………………………………………… …………………………………………………….  
+— Signature du (des) consommateur(s) (uniquement en cas de notification du présent formulaire sur papier)
 
 — Date……………………………
 
@@ -679,7 +674,7 @@ Pour un meilleur traitement des demandes de rétractation, chaque produit d'une 
 
 En cas d’exercice d’un droit de rétractation sur un produit ayant bénéficié d’une prestation de service de montage pleinement exécutée, dont l'exécution a commencé après accord préalable exprès du client et renoncement exprès à son droit de rétractation;  vous serez remboursé de toutes les sommes versées à l’exception de celles correspondant à la prestation de service de montage pleinement exécutée et de toute dépréciation financière du produit qui pourrait vous être imputée dans les conditions ci-dessous.  
   
-Conformément aux dispositions de l’article L. 221-23 du Code de la consommation, vous êtes responsable de la manipulation des biens et de la dépréciation de leur valeur au cours du délai de rétractation. A ce titre, Cdiscount se réserve la faculté d’engager votre responsabilité en cas de dépréciation des produits retournés dans le cadre de l’exercice du droit de rétractation, résultant de manipulations autres que celles nécessaires pour établir la nature, les caractéristiques et le bon fonctionnement de ces produits. Toute trace visible sur tout produit préalablement monté et assemblé, par vous-même ou à léissue d’une prestation de montage, puis démonté par vos soins ou toute autre personne extérieure à CDISCOUNT, telle que des traces de vis, clous, des rayure(s) ou une partie du produit arrachée (sans que cette liste soit limitative) sera considérée comme une dépréciation du produit, devenu alors impropre à la vente, et CDISCOUNT se réservera le droit d’imputer au client le coût financier relatif à cette dépréciation.
+Conformément aux dispositions de l’article L. 221-23 du Code de la consommation, vous êtes responsable de la manipulation des biens et de la dépréciation de leur valeur au cours du délai de rétractation. A ce titre, Cdiscount se réserve la faculté d’engager votre responsabilité en cas de dépréciation des produits retournés dans le cadre de l’exercice du droit de rétractation, résultant de manipulations autres que celles nécessaires pour établir la nature, les caractéristiques et le bon fonctionnement de ces produits. Toute trace visible sur tout produit préalablement monté et assemblé, par vous-même ou à l’issue d’une prestation de montage, puis démonté par vos soins ou toute autre personne extérieure à CDISCOUNT, telle que des traces de vis, clous, des rayure(s) ou une partie du produit arrachée (sans que cette liste soit limitative) sera considérée comme une dépréciation du produit, devenu alors impropre à la vente, et CDISCOUNT se réservera le droit d’imputer au client le coût financier relatif à cette dépréciation. 
 
 **  
 8.3 Exceptions**
@@ -705,7 +700,9 @@ Conformément à l’article L221-28 du Code de la Consommation, le droit de ré
   
 Conformément à l’article L221-25 du Code de la consommation : « Si vous avez demandé de commencer la prestation de services pendant le délai de rétractation, vous devrez nous payer un montant proportionnel à ce qui vous a été fourni jusqu'au moment où vous nous avez informé de votre rétractation du présent contrat, par rapport à l'ensemble des prestations prévues par le contrat. » 
 
-  **8.4 Remboursement dans le cadre d’une rétractation** 
+ 
+
+**8.4 Remboursement dans le cadre d’une rétractation** 
 
   
 A la suite de votre demande de rétractation, CDISCOUNT, conformément aux dispositions légales, procédera à votre remboursement dans un délai de 14 jours suivant la notification de votre demande de rétractation.
