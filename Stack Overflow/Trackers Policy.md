@@ -101,6 +101,7 @@ These cookies may be set through our site by our advertising partners. They may 
 | www.linkedin.com | bscookie, JSESSIONID | 3rd Party |
 | casalemedia.com | CMID, CMPRO, CMPS, CMST | 3rd Party |
 | facebook.com | fr  | 3rd Party |
+| demdex.net | demdex | 3rd Party |
 | yahoo.com | A1, A1S, A3, B, GUC | 3rd Party |
 | en.wikipedia.org | WMF-Last-Access | 3rd Party |
 | www.facebook.com |     | 3rd Party |
