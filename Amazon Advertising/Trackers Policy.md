@@ -1,23 +1,36 @@
-Cookies
-=======
+About Cookies
+=============
 
-Published on: August 31, 2020
+Last changed on 09 September 2020.
 
-We use cookies, pixels, and other technologies (collectively, "cookies") to recognize your browser or device, learn more about your interests, and provide you with essential features and services and for additional purposes, including:
+We use cookies and similar tools (collectively, cookies) for the purposes described below.
 
-*   Recognizing you when you sign-in to use our services. This allows us to provide you with product recommendations, display personalized content, and provide other customized features and services.
-*   Keeping track of your specified preferences. This allows us to honor your preferences, such as whether or not you would like to see interest-based ads. You may set your preferences through [Your Account](https://www.amazon.ae/your-account)
-*   Keeping track of items stored in your shopping cart.
-*   Conducting research and diagnostics to improve Amazon's content, products, and services.
+**Operational Cookies**: We use cookies to provide our services, for example:
+
+*   Recognising you when you sign-in to use our services.
+*   Recognising if you are a Prime member and providing other customised features and services.
+*   Displaying features, products, and services which might be of interest to you, including ads on our services if they are for products and services available on Amazon.
+*   Keeping track of items stored in your shopping basket.
 *   Preventing fraudulent activity.
 *   Improving security.
-*   Delivering content, including ads, relevant to your interests on Amazon sites and third-party sites (see the [Interest-Based Ads notice](https://www.amazon.ae/gp/help/customer/display.html?nodeId=202075050) for how we use cookies in serving interest-based ads).
-*   Reporting. This allows us to measure and analyze the performance of our services.
+*   Keeping track of your preferences such as currency and language.
 
-Amazon's cookies allow you to take advantage of some of Amazon's essential features. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Cart, proceed to Checkout, or use any Amazon products and services that require you to sign in.
+We also use cookies to understand how customers use our services so we can make improvements. For example, we use cookies to conduct research and diagnostics to improve Amazon’s content, products, and services, and to measure and understand the performance of our services.
 
-Approved third parties may also set cookies when you interact with Amazon services. Third parties include search engines, providers of measurement and analytics services, social media networks, and advertising companies. Third parties use cookies in the process of delivering content, including ads relevant to your interests, to measure the effectiveness of their ads, and to perform services on behalf of Amazon.
+**Advertising Cookies:** We also use cookies to serve certain types of ads, including for products and services not available on Amazon and for certain ads relevant to your interests.
 
-You can manage browser cookies through your browser settings. The 'Help' feature on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, how to block cookies, and when cookies will expire. If you block all cookies on your browser, neither we nor third parties will transfer cookies to your browser. If you do this, however, you may have to manually adjust some preferences every time you visit a site and some features and services may not work.
+Approved third parties may also set cookies when you interact with Amazon services. Third parties include search engines, providers of measurement and analytics services, social media networks, and advertising companies. Third parties use cookies in the process of delivering ad content, including ads relevant to your interests, to measure the effectiveness of their ads, and to perform services on behalf of Amazon.
 
-See our [Privacy Notice](https://www.amazon.ae/gp/help/customer/display.html?nodeId=201909010) for more information about the types of information we gather.
+To learn more about how Amazon provides interest-based ads, please visit the [Interest-Based Ads](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=G64JFZVFDY66XG9K) notice. To adjust your interest-based ad preferences, please go to the [Advertising Preferences](https://www.amazon.co.uk/adprefs) page. You can see which approved third parties use cookies and manage how they use cookies by visiting our [Cookie Preferences page](https://www.amazon.co.uk/cookieprefs)
+
+**Additional Information**
+
+Operational cookies will remain on your browser for 13 months from your last visit to our services, except for cookies used to remember your privacy settings (such as Advertising Preferences), which may remain on your browser for up to 5 years. Other cookies remain on your browser for 13 months after you provide us with your consent to use these cookies.
+
+You can manage cookies by visiting our [Cookie Preferences page](https://www.amazon.co.uk/cookieprefs). We will apply your cookie preferences to the Amazon service and the browser on which you made your choice and on any other browser where you are signed in. If you are not signed in, we may need to ask you for your choice again.
+
+Alternatively, the settings on your browser will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, how to disable and remove cookies, and when cookies will expire.
+
+Operational cookies allow you to take advantage of some of Amazon's essential features. If you block or otherwise reject operational cookies through your browser settings some features and services may not work. For example, you will not be able to add items to your shopping basket, proceed to checkout, or use any Amazon services that require you to sign in. You may also need to manually adjust some of your preferences every time you visit one of our services.
+
+See our [Privacy Notice](https://www.amazon.co.uk/gp/help/customer/display.html/?nodeId=GX7NJQ4ZB8MHFRNJ) for more information about the types of information we gather.
