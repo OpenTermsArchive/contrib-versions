@@ -554,7 +554,11 @@ Shelbourne Rd
 Ballsbridge,  
 Dublin 4,  
 Ireland  
-Or contact us [here](https://help.surveymonkey.com/contact?l=en&form=datarequest).  
+Or contact us [here](https://help.surveymonkey.com/contact?l=en&form=datarequest).
+
+**Data Protection Officer**: Momentive’s Data Protection Officer is registered with the Irish Data Protection Commission.  Contact our DPO at dpo@momentive.ai
+
+  
 Note that our contact form is the [best](https://help.surveymonkey.com/contact?l=en&form=datarequest) way to make a rights request with us.
 
 Complaints
