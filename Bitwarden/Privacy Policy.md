@@ -1,8 +1,10 @@
 Bitwarden Inc. Privacy Policy
 -----------------------------
 
-[](#privacy-shield)Privacy Shield
-----------------------------------
+[](#privacy-shield)
+
+Privacy Shield
+--------------
 
 Bitwarden Inc. ("Bitwarden") complies with the EU-U.S., Swiss-U.S. Privacy Shield Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Information transferred from the European Union, United Kingdom (UK) and Switzerland, as applicable, to the United States in reliance on Privacy Shield. Bitwarden has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov.](https://www.privacyshield.gov/)
 
@@ -15,18 +17,24 @@ Bitwarden Inc. ("Bitwarden") complies with the EU-U.S., Swiss-U.S. Privacy Shiel
 *   [Recourse and Enforcement](#recourse-and-enforcement)
 *   [Security](#security)
 
-[](#notice)Notice
-------------------
+[](#notice)
+
+Notice
+------
 
 Bitwarden provides this Privacy Policy to describe the ways we collect, use, transfer, store, secure and protect Personal Information on our Bitwarden.com website ("Site") and in connection with the Bitwarden password management solution used by customers to securely store, share, and access passwords ("Bitwarden Service"). "Personal Information" means information that personally identifies you as described in the Privacy Policy. This Privacy Policy describes the ways you can exercise your rights to access and control your Personal Information, and the complaint and recourse methods available to you.
 
-[](#data-integrity-and-purpose-limitation)Data Integrity and Purpose Limitation
---------------------------------------------------------------------------------
+[](#data-integrity-and-purpose-limitation)
+
+Data Integrity and Purpose Limitation
+-------------------------------------
 
 These are the ways that Bitwarden collects, uses, and stores Personal Information:
 
-[](#bitwarden-service)Bitwarden Service
-----------------------------------------
+[](#bitwarden-service)
+
+Bitwarden Service
+-----------------
 
 Collection and Use
 ------------------
@@ -57,8 +65,10 @@ Bitwarden has a legitimate interest to further process your Administrative Data 
 *   To monitor your user experience on the Service.
 *   To enable us to proactively help customers maintain the performance and functionality of deployments of the Bitwarden Service.
 
-[](#the-bitwarden-website)The Bitwarden Website
-------------------------------------------------
+[](#the-bitwarden-website)
+
+The Bitwarden Website
+---------------------
 
 Collection
 ----------
@@ -103,20 +113,26 @@ Analytics Data
 
 We use data for analytics and measurement to understand how our the Site and Bitwarden Service are used. For example, we analyze data about your visits to our Site to do things like optimize product design. We use a variety of tools to do this, including Google Analytics. When you visit the Site using Google Analytics, we and Google may link information about your activity from that site with activity from other sites that use Google Analytics services.
 
-[](#bitwarden-community)Bitwarden Community
---------------------------------------------
+[](#bitwarden-community)
+
+Bitwarden Community
+-------------------
 
 If you participate in the Bitwarden Community Forums, we process information about you in order to provide you with this service. You must have a separate account to use the Community Forum.
 
-[](#bitwarden-hosted-events)Bitwarden Hosted Events
-----------------------------------------------------
+[](#bitwarden-hosted-events)
+
+Bitwarden Hosted Events
+-----------------------
 
 If you participate in a Bitwarden Event, and direct us to share your information, we may share information about you with event sponsors and partners so that they may contact you about their products and other participants. Please review the event page where you registered for a listing of sponsors.
 
 If you would like to change your sharing instructions with these sponsors, please visit the website of such sponsors.
 
-[](#job-candidate-applications)Job Candidate Applications
-----------------------------------------------------------
+[](#job-candidate-applications)
+
+Job Candidate Applications
+--------------------------
 
 Collection, Use, and Retention
 ------------------------------
@@ -139,8 +155,10 @@ Your Personal Information may be accessed by recruiters and interviewers working
 
 We may use third party service providers to provide a recruiting software system. We also share your Personal Information with other third party service providers that may assist us in recruiting talent, administering and evaluating pre-employment screening and testing, and improving our recruiting practices.
 
-[](#choice-access)Choice; Access
----------------------------------
+[](#choice;-access)
+
+Choice; Access
+--------------
 
 Here is how to exercise your rights to access and control your Personal Information:
 
@@ -154,13 +172,17 @@ Accessing, Correcting And Deleting Your Personal Information
 
 Ensuring that Personal Information we hold about you is accurate and complete is important to us. We enable you to access, correct, and delete your account with the Bitwarden Service at any time. If you would like to request assistance with accessing, correcting, or deleting your Personal Information, please submit your request to us by email at privacypolicy@bitwarden.com. We will verify these requests and respond to you in accordance with our legal obligations, which typically means forwarding your request to the licensed administrator (in your organization) of your Bitwarden account for review.
 
-[](#accountability-and-onward-transfer)Accountability and Onward Transfer
---------------------------------------------------------------------------
+[](#accountability-and-onward-transfer)
+
+Accountability and Onward Transfer
+----------------------------------
 
 This section describes our accountability with regard to the onward transfer of your Personal Information to third party service providers (subprocessors, suppliers, vendors, or partners) and across country borders.
 
-[](#information-sharing)Information Sharing
---------------------------------------------
+[](#information-sharing)
+
+Information Sharing
+-------------------
 
 Except as listed below, Bitwarden will not share Personal Information with third party service providers unless you have consented to the disclosure.
 
@@ -199,15 +221,19 @@ We may also provide your Personal Information to a third party in connection wit
     *   inform you in some prominent manner enabling you to make a choice about whether to agree to the new practices.
 *   You may choose to opt-out of allowing your Personal Information to be shared with certain third-parties. To do so, please [Contact Us](#contact-us). We will do our best to respond in a timely manner and grant your request to the extent permitted by law.
 
-[](#international-transfer-and-storage-of-information-collected)International Transfer And Storage Of Information Collected
-----------------------------------------------------------------------------------------------------------------------------
+[](#international-transfer-and-storage-of-information-collected)
+
+International Transfer And Storage Of Information Collected
+-----------------------------------------------------------
 
 Bitwarden and our subprocessors and vendors primarily store information collected from you within the European Economic Area and the United States. To facilitate our global operations, we may transfer and access such Personal Information from around the world, including from other countries in which Bitwarden or our subprocessors have operations. For more information about our subprocessors, visit [https://bitwarden.com/help/article/subprocessors/](https://bitwarden.com/help/article/subprocessors/).
 
 We use applicable, approved information transfer mechanisms where required, such as EU Standard Contractual Clauses (SCCs), or the EU - U.S. Privacy Shield.
 
-[](#recourse-and-enforcement)Recourse and Enforcement
-------------------------------------------------------
+[](#recourse-and-enforcement)
+
+Recourse and Enforcement
+------------------------
 
 You may contact us about our practices or to make a complaint and seek recourse according to these methods available to you, and subject to applicable enforcement powers.
 
@@ -219,8 +245,10 @@ The services of JAMS EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield ADR ar
 
 Bitwarden is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). European Union and Swiss individuals have the possibility, under certain conditions, to invoke binding arbitration.
 
-[](#security)Security
-----------------------
+[](#security)
+
+Security
+--------
 
 The security of your Personal Information is important to us. Your data, including Personal Information, is never sent to the Bitwarden cloud servers without first being encrypted on your local device using AES 256 bit encryption. In addition, Bitwarden encrypts the transmission of that information using secure socket layer technology (SSL).
 
@@ -229,8 +257,10 @@ We follow generally accepted standards to protect the Personal Information submi
 Additional Terms
 ----------------
 
-[](#cookies)Cookies
---------------------
+[](#cookies)
+
+Cookies
+-------
 
 **The Bitwarden Service and the Site use cookies and other similar technologies (collectively "cookies"), in order to provide a better service to you, to help keep your account safe, and to generally improve our Site and the Bitwarden Service. Cookies perform essential functions, such as ensuring that a web page loads correctly and securely. They also help us provide you with a consistent and efficient experience.**
 
@@ -242,28 +272,38 @@ Functional cookies help us learn how you use the Site to help improve performanc
 
 Google Analytics which tracks user behavior on the Site, which helps us better understand how users are using the Site. Learn more at [https://www.google.com/policies/privacy](https://www.google.com/policies/privacy), and to opt out, visit [http://tools.google.com/dlpage/gaoptout](http://tools.google.com/dlpage/gaoptout)
 
-[](#do-not-track-signals)Do Not Track Signals
-----------------------------------------------
+[](#do-not-track-signals)
+
+Do Not Track Signals
+--------------------
 
 We do not track visitors to the Site across third-party websites and therefore we do not respond to Do Not Track signals in these circumstances.
 
-[](#links-to-third-party-sites)Links To Third-Party Sites
-----------------------------------------------------------
+[](#links-to-third-party-sites)
+
+Links To Third-Party Sites
+--------------------------
 
 The Site or Bitwarden Service may contain links to a number of sites owned and operated by third parties that may offer useful information. The policies and procedures described in this Privacy Policy do not apply to those third-party sites. Please contact those third-party sites for information on their data collection, security, and distribution policies.
 
-[](#minimum-age)Minimum Age
-----------------------------
+[](#minimum-age)
+
+Minimum Age
+-----------
 
 The Site or Bitwarden Service is not directed to, nor intended to be used by, individuals under the age of 13, or the equivalent minimum age in the relevant jurisdiction. Bitwarden does not knowingly collect Personal Information from individuals under the age of 13, or the equivalent minimum age in the relevant jurisdiction. If you become aware that an individual under the age of 13, or the equivalent minimum age in the relevant jurisdiction, has provided us with Personal Information, please [Contact Us](#contact-us). If we become aware that an individual under the age of 13, or the equivalent minimum age in the relevant jurisdiction, has provided us with Personal Information without parental consent, we will take steps to delete such information.
 
-[](#updates-to-this-privacy-policy)Updates to this Privacy Policy
-------------------------------------------------------------------
+[](#updates-to-this-privacy-policy)
+
+Updates to this Privacy Policy
+------------------------------
 
 Bitwarden may update this Privacy Policy from time to time. When we do update it, for your convenience, we will make the updated Privacy Policy available on this page. Please check this Privacy Policy periodically for changes. If we make any material changes, we will notify you by email (sent to the email address specified in your account registered with the Site or Bitwarden Service) or by means of a notice on the Site or Service.
 
-[](#notice-for-california-users)Notice for California Users
-------------------------------------------------------------
+[](#notice-for-california-users)
+
+Notice for California Users
+---------------------------
 
 For individuals who are California residents, the California Consumer Privacy Act (CCPA) requires certain disclosures about the categories of Personal Information we collect and how we use it, the categories of sources from whom we collect Personal Information, and the third parties with whom we share it. While we have set out the categories below as required by the California Consumer Privacy Act, you can review the other sections of this Privacy Policy for examples and other information that describes our data collection and use as previously disclosed to you which have not changed under this notice.
 
@@ -289,13 +329,17 @@ All of the categories of Personal Information we collect about you (as detailed 
 *   Short-term, transient use, such as customizing content that we or our service providers display on the services
 *   Other uses for which we provide you with notice
 
-[](#california-rights-and-choices)California Rights and Choices
-----------------------------------------------------------------
+[](#california-rights-and-choices)
+
+California Rights and Choices
+-----------------------------
 
 Subject to certain restrictions, as a California resident, you have the right to request that we disclose what Personal Information we collect about you, to delete any Personal Information that we collected from or maintain about you, and to opt-out of the sale of Personal Information about you. You also have the right to designate an agent to exercise these rights on your behalf, subject to verification of that agency relationship. This section describes how to exercise those rights and our process for handling those requests, including our means of verifying your identity. If you would like further information regarding your legal rights under applicable law or would like to exercise any of them, please [Contact Us](#contact-us).
 
-[](#accessing-and-deleting-your-personal-information)Accessing and Deleting Your Personal Information
-------------------------------------------------------------------------------------------------------
+[](#accessing-and-deleting-your-personal-information)
+
+Accessing and Deleting Your Personal Information
+------------------------------------------------
 
 Right to request access to your Personal Information
 
