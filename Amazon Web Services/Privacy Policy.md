@@ -1,7 +1,7 @@
 Privacy Notice
 ==============
 
-#### Last Updated: June 3, 2022
+#### Last Updated: June 03, 2022
 
 To see prior version, click [here](https://aws.amazon.com/privacy/aws-privacy-prior-20220401/).
 
@@ -157,7 +157,7 @@ We provide additional information about our controllers and data protection offi
     
 *   California
     
-    These additional disclosures are required by the California Consumer Privacy Act and are effective as of February 9, 2021:
+    These additional disclosures are required by the California Consumer Privacy Act and are effective as of July 6, 2022:
     
     **Categories of personal information collected**. The personal information that we may collect, or may have collected from consumers in the preceding twelve months, fall into the following categories established by the California Consumer Privacy Act, depending on how you engage with the AWS Offerings:
     
