@@ -63,7 +63,7 @@ Communication data
 Information collected on our Websites
 
 *   **Access logs.** As most websites on the internet, our Websites collect access logs (such as IP address, browser type, operating system) to operate our Services and ensure their secure, reliable, and robust performance. This information is also essential for fighting against DDoS attacks, scanning, and similar hacking attempts.
-*   **Cookies.** Cookies, pixels, and other similar technologies are usually small text or image files that are placed on your device when you visit our Websites. Some cookies are essential for our Websites to operate smoothly; others are used to improve Websites’ functionality, analyze aggregated usage statistics to improve Websites’ performance, and for advertising. We also use affiliate cookies to identify the customers referred to our Websites by our partners so that we can grant the referrers their commission. You can check what cookies we use at our [Cookie Policy](https://my.nordaccount.com/legal/cookie-policy/).
+*   **Cookies.** Cookies, pixels, and other similar technologies are usually small text or image files that are placed on your device when you visit our Websites. Some cookies are essential for our Websites to operate smoothly; others are used to improve Websites’ functionality, analyze aggregated usage statistics to improve Websites’ performance, and for advertising. We also use affiliate cookies to identify the customers referred to our Websites by our partners so that we can grant the referrers their commission. You can check what cookies we use at our [Cookie policy](https://my.nordaccount.com/legal/cookie-policy/).
 
 Referrals data
 
@@ -83,7 +83,7 @@ Your personal data is processed:
 *   **We sometimes may process your personal data under the legal basis of our or third parties’ legitimate interest.** Such cases include: i) to properly administer business communication with you; ii) to detect, prevent, or otherwise address fraud, abuse, security, or technical issues with our Services and Websites; iii) to protect against harm to the rights, property, and safety of Nord, our users, or third parties; iv) to improve or maintain our Services and provide new products and features; v) to receive knowledge of how our Websites and applications are being used.
     
 
-3\. SHARING YOUR PERSONAL DATA
+3\. Sharing your personal data
 
 We do not share your personal data with third parties except as described in this Privacy Policy.
 
@@ -165,7 +165,7 @@ If you do not agree with the processing of your personal data by Nord, please do
 
 To raise any other questions, concerns, or complaints about our privacy practices or about our processing of your personal data, please contact us as provided below (Section “Contact Us”).
 
-5\. DATA SECURITY
+5\. Data security
 
 We maintain tight controls over the personal data we collect. Our dedicated IT security team has implemented appropriate physical, technical, and organizational measures to protect information about you against accidental or unlawful destruction or accidental loss, alteration, unauthorized disclosure, or access and against all other unlawful forms of processing:
 
@@ -227,7 +227,7 @@ If you are located within the United Kingdom, you may also contact our represent
 
 Nord does not knowingly collect or solicit personal data from anyone under the age of 18. If you are under 18, please do not attempt to send any personal data about yourself to Nord. If we acknowledge that we have collected and processed personal data from a child under the age of 18, we will delete that data as quickly as possible.
 
-10\. OTHER TERMS
+10\. Other Terms
 
 **Limitation of Liability.** To ensure the security of personal data, Nord employs various technical, physical, and organizational security measures; however, it is your responsibility to exercise caution and reason when using the Services and Websites. You will be personally liable if your use of the Services and Websites violates any third party privacy or any other rights or any applicable laws. Under no circumstances is Nord liable for the consequences of your unlawful, willful and negligent activities, and any circumstances that may not have been reasonably controlled or foreseen (please read the [General Terms](https://my.nordaccount.com/legal/terms-of-service/) for more information).
 
