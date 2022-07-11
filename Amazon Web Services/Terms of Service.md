@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-#### Last Updated: July 01, 2022
+#### Last Updated: July 08, 2022
 
 #### 1\. Universal Service Terms (Applicable to All Services)
 
@@ -589,7 +589,7 @@ You must have all necessary rights to use any domain name that you use in conjun
 
 (viii) You will not, in connection with use of the Certificate, upload or distribute any files or software that may damage the operation of another’s computer;
 
-(ix) You will not make representations about or use a Certificate except as may be allowed in ATS’s [CPS](https://www.amazontrust.com/repository/cps-1.0.7.pdf);
+(ix) You will not make representations about or use a Certificate except as may be allowed in ATS’s [CPS](https://www.amazontrust.com/cps);
 
 (x) You will not, in connection with use of the Certificate, impersonate or misrepresent your affiliation with any entity;
 
