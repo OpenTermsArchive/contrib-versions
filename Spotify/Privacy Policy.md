@@ -1,5 +1,3 @@
-Your privacy is important. As of 8 June 2022, we've updated our Privacy Policy to improve clarity and reflect some exciting new features.
-
 [**Spotify Privacy Policy**](#spotify-privacy-policy)
 =====================================================
 
