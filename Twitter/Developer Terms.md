@@ -1,5 +1,3 @@
-[Submit](http://chirpdevchallenge.devpost.com/?ref=web-dtc-DevChallenge&utm_source=dtc&utm_medium=web&utm_campaign=DevChallenge&utm_content=announcement-banner) your app to the Chirp Developer Challenge by August 19!
-
 **Developer terms**
 
 Developer Agreement
