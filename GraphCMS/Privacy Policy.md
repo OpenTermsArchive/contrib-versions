@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-This page contains GraphCMS privacy policies.
+This page contains Hygraph privacy policies.
 
 We, GraphCMS GmbH, Dircksenstraße 47, 10178 Berlin, Germany (hereinafter "we/our"), take the protection of your personal data very seriously and strictly adhere to all applicable laws and regulations on data protection, in particular the General Data Protection Regulation (GDPR), the German Data Protection Act (Bundesdatenschutzgesetz - BDSG) and the German Telemedia Act (Telemediengesetz - TMG). The following explanations will give you an overview of how we ensure this protection and which data we process for which purpose.
 
@@ -12,7 +12,7 @@ The Controller within the meaning of Art. 4 No. 7 of the GDPR is:
 
 GraphCMS GmbH Dircksenstraße 47, 10178 Berlin, Germany
 
-Phone: +49 641 580 988 14 Email: info@graphcms.com
+Phone: +49 641 580 988 14 Email: [\[email protected\]](https://graphcms.com/cdn-cgi/l/email-protection)
 
 2\. Name and address of the data protection officer
 ---------------------------------------------------
@@ -30,7 +30,7 @@ You have the following rights towards us regarding your personal data:
 *   Right to object to the processing
 *   Right to data transferability
 
-Please send an email to support@graphcms.com in order to exercise one or more of the aforementioned rights. If you believe that the processing of personal data concerning you violates the GDPR, you have the right of appeal to a supervisory authority, without prejudice to any other remedies.
+Please send an email to [\[email protected\]](https://graphcms.com/cdn-cgi/l/email-protection) in order to exercise one or more of the aforementioned rights. If you believe that the processing of personal data concerning you violates the GDPR, you have the right of appeal to a supervisory authority, without prejudice to any other remedies.
 
 4\. General information regarding the data processing
 -----------------------------------------------------
@@ -100,20 +100,20 @@ We use the external service provider Intercom, Inc. for the provision of the cha
 
 Third party information: Intercom, Inc., 55 2nd Street, 4th Floor, San Francisco, CA 94105, USA, [https://www.intercom.com/](https://www.intercom.com/). Privacy policy: [https://www.intercom.com/legal/privacy](https://www.intercom.com/legal/privacy).
 
-8\. Use of our service “GraphCMS”
----------------------------------
+8\. Use of our service “Hygraph”
+--------------------------------
 
-If you want to use our service “GraphCMS”, you have to sign up with your email-address, a password and your name. We use the so-called double opt-in procedure for sign up, i.e. your registration is not complete until you have previously confirmed your registration via a confirmation e-mail sent to you for this purpose by clicking on the link contained therein. If your confirmation is not received, your registration will be automatically deleted from our database.
+If you want to use our service “Hygraph”, you have to sign up with your email-address, a password and your name. We use the so-called double opt-in procedure for sign up, i.e. your registration is not complete until you have previously confirmed your registration via a confirmation e-mail sent to you for this purpose by clicking on the link contained therein. If your confirmation is not received, your registration will be automatically deleted from our database.
 
 Providing the above data is mandatory. Any further personal data you provide us with is voluntary and you consent into its processing in accordance with this privacy policy by providing it.
 
-We process the personal data only for and in connection with the provision of GraphCMS.
+We process the personal data only for and in connection with the provision of Hygraph.
 
-We use your email address to provide you with information about updates of GraphCMS via our regular newsletter. You can revoke your consent to receive our newsletter at any time by using the respective link in the newsletter or sending an email to support@graphcms.com.
+We use your email address to provide you with information about updates of Hygraph via our regular newsletter. You can revoke your consent to receive our newsletter at any time by using the respective link in the newsletter or sending an email to [\[email protected\]](https://graphcms.com/cdn-cgi/l/email-protection)
 
-The legal basis for the processing of mandatory personal data in relation to the use of GraphCMS is Art. 6 para. 1 s. 1 lit. b GDPR; the legal basis for voluntary personal data is Art. 6 para. 1 s. 1 lit. a GDPR.
+The legal basis for the processing of mandatory personal data in relation to the use of Hygraph is Art. 6 para. 1 s. 1 lit. b GDPR; the legal basis for voluntary personal data is Art. 6 para. 1 s. 1 lit. a GDPR.
 
-We use services and storage systems of external service providers for the provision of GraphCMS. These service providers have access to the personal data you upload to GraphCMS. The processing of your personal data by the respective service provider is based on an agreement on data protection and data security that complies with legal requirements.
+We use services and storage systems of external service providers for the provision of Hygraph. These service providers have access to the personal data you upload to Hygraph. The processing of your personal data by the respective service provider is based on an agreement on data protection and data security that complies with legal requirements.
 
 These service providers are categorized as follows:
 
