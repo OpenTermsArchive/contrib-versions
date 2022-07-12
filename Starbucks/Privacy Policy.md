@@ -10,7 +10,7 @@ Last Revised: November 10, 2021
 
 This Starbucks Privacy Statement describes the types of personal information that we collect, how we use it, how and when it may be shared, and the rights and choices you have with respect to your information. It also explains how we communicate with you and how you can make requests or submit inquiries to us about your information. Our goal is to help you understand how we use your information to improve our products, services, marketing, and interactions with you, as part of our commitment to maintaining your trust. Thank you for taking the time to read and understand our data and privacy related practices.
 
-This Privacy Statement, as well as our [Terms of Use](https://www.starbucks.com/about-us/company-information/online-policies/terms-of-use) and other important policies, are available on our [Online Policies](https://www.starbucks.com/about-us/company-information/online-policies/terms-of-use) page. **If you do not agree with our Terms of Use or this Privacy Statement, please discontinue use of our websites and mobile applications immediately**.
+This Privacy Statement, as well as our [Terms of Use](https://www.starbucks.com/about-us/company-information/online-policies/terms-of-use) and other important policies, are available on our [Online Policies](https://www.starbucks.com/terms/online-policies/) page. **If you do not agree with our Terms of Use or this Privacy Statement, please discontinue use of our websites and mobile applications immediately**.
 
 **Contents**
 
@@ -318,7 +318,7 @@ In the preceding twelve months we may have disclosed these categories of persona
     *   Purpose of Information Collected – We develop inference data to provide our services; to communicate with you, and for research, development, and services improvement, as outlined in Section 4(a)-(c) above.
     *   How we share it – We share inference data with our service providers and to protect lawful interests, as outlined in Section 5 above.
 
-**How We Sell Your Information** – In the preceding twelve months we have not sold personal information. We do not sell personal information, but we recognize that the CCPA defines “personal information” in such a way that making available identifiers linked to you for a benefit may be considered a “sale.”
+**How We Sell Your Information** – In the preceding twelve months we have not sold personal information.
 
 In addition to the [Your Choices](#your_choices) section above’s description for opting out of interest-based advertising and controlling browser settings, California consumers may also use the Digital Advertising Alliance’s tool to send requests under the CCPA for a web browser to opt out of the sale of personal information by some or all of that framework’s participating companies by accessing the DAA’s tool here: [https://www.privacyrights.info/](https://www.privacyrights.info/), or by downloading the DAA’s AppChoices mobile application opt-out here: [https://www.privacyrights.info/appchoices](https://www.privacyrights.info/appchoices).
 
@@ -349,23 +349,25 @@ Phone: 1-800-STARBUC (782-7282); or by submitting this [form](https://privacypor
 Starbucks Customer Service  
 Starbucks, P.O. Box 20430, Augusta, GA 30916
 
-**Privacy Rights Metrics** (January 2020 – December 2020) – Includes requests from the United States and Canada:
+**Privacy Rights Metrics** (January 2021 – December 2021) – Includes requests from the United States and Canada:
 
 Right to Know
 
-*   Requests Received – 498
-*   Requests Complete – 336
-*   Requests unable to be completed\* – 162
-*   Average completion time – 9 days
+*   Requests Received – 321
+*   Requests Complete – 169
+*   Requests unable to be completed\* – 152
+*   Average completion time – 12 days
 
 Right to Delete
 
-*   Requests Received – 2,659
-*   Requests Complete – 1,266
-*   Requests unable to be completed\* – 1,393
-*   Average completion time – 13 days
+*   Requests Received – 2,316
+*   Requests Complete – 1,038
+*   Requests unable to be completed\* – 1,278
+*   Average completion time – 12 days
 
 \*Requests may be unable to be completed due to factors such as inability to verify the customer, duplicate requests, or no information is found
+
+**Notice of Financial Incentive** – Starbucks Rewards is one way in which Starbucks endeavors to reward and thank loyal customers for patronizing our business and purchasing Starbucks products. Starbucks Rewards members opt in by signing up for Rewards online or through the Starbucks App and are able to earn and accumulate "Stars" that can be redeemed for Starbucks Rewards benefits at participating Starbucks stores. Starbucks collects and uses the personal information described above, including information you voluntarily provide us (such as your name and email), information we collect automatically, and information from other sources to operate the Starbucks Rewards program, including to send you promotions, content, and special offers and the other uses described in this Privacy Statement. Starbucks does not assign monetary value for the information we collect through the Starbucks Rewards program when sending email communications. You may opt out of receiving commercial email communications at any time by adjusting your Starbucks online account settings as described in How to Manage Your Account Settings, or by clicking the “unsubscribe” link included within any commercial email we send you. Participation in Starbucks Rewards is voluntary, and you may withdraw from the Starbucks Rewards program by visiting the Account section in the Starbucks iOS App, by requesting deletion of your information by filling out this form, or by calling Starbucks customer service. Based on our reasonable and good faith estimate, we receive value from Starbucks Rewards in increased customer loyalty and patronage, though any value will vary by Starbucks Rewards member depending on purchases made, which offers a member takes advantage of, and many other factors.
 
 ### 17\. Additional Disclosures for Data Subjects in the EEA, the U.K., and Switzerland
 
