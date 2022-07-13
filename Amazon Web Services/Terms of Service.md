@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-#### Last Updated: July 08, 2022
+#### Last Updated: July 12, 2022
 
 #### 1\. Universal Service Terms (Applicable to All Services)
 
@@ -37,7 +37,7 @@ If, as of the time of a change of the AWS Contracting Party responsible for your
 
 **1.14. Data Protection.**
 
-**1.14.1** These Service Terms incorporate the [AWS GDPR Data Processing Addendum](https://d1.awsstatic.com/legal/aws-gdpr/AWS_GDPR_DPA.pdf) (“DPA”), when the GDPR applies to your use of the AWS Services to process Customer Data (as defined in the DPA).The DPA is effective as of 25 May 2018 and replaces and supersedes any previously agreed data processing addendum between you and AWS relating to the Directive 95/46/EC.
+**1.14.1** These Service Terms incorporate the [AWS GDPR Data Processing Addendum](https://d1.awsstatic.com/legal/aws-gdpr/AWS_GDPR_DPA.pdf) (“DPA”), when the GDPR applies to your use of the AWS Services to process Customer Data (as defined in the DPA). The DPA is effective as of 25 May 2018 and replaces and supersedes any previously agreed data processing addendum between you and AWS relating to the Directive 95/46/EC.
 
 **1.14.2** These Service Terms incorporate the [AWS Supplementary Addendum](https://d1.awsstatic.com/Supplementary_Addendum_to_the_AWS_GDPR_DPA.pdf) to the DPA, when the GDPR applies to your use of the AWS Services to process Customer Data.
 
@@ -1008,7 +1008,7 @@ Migration Evaluator collects performance and usage metrics and data about your 
 
 **70.5.** You release us (and our agents and employees) from claims, demands, and damages (actual or consequential) of any and every kind and nature, known or unknown, suspected or unsuspected, disclosed and undisclosed, arising out of or in any way connected with your use of the AWS IQ marketplace.
 
-#### 71\. AWS Cloud WAN (Preview)
+#### 71\. AWS Cloud WAN
 
 **71.1.** AWS Cloud WAN in Japan is sold and provided by AMCS LLC, an affiliate of AWS, and not AWS, but is otherwise subject to the terms of the Agreement.
 
