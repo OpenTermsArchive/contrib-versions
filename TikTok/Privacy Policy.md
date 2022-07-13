@@ -1,7 +1,5 @@
 Privacy Policy
 
-We're updating our Privacy Policy with effect from 13 July 2022. Click [here](https://www.tiktok.com/legal/new-privacy-policy) to view our new Privacy Policy.
-
 **_Last updated:_** _5 October 2021_
 
 **Introduction**
