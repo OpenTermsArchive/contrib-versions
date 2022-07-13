@@ -21,7 +21,7 @@ These Terms govern your access to and use of the products and services we provid
 
 These Terms also govern visitors’ access to and use of any websites that use our Services, like the websites that our users create on WordPress.com. Please note though that the operators of those websites may also have their own separate terms of use.
 
-For some of Automattic’s other products, services, and programs, such as [Akismet](https://akismet.com/), [Crowdsignal](https://crowdsignal.com/), [Newspack](https://newspack.pub/), [WordPress.com VIP](https://wpvip.com/), our [Affiliate Program](https://refer.wordpress.com/), and our [Refer-A-Friend Program](https://wordpress.com/refer-a-friend-program-terms-of-service/), additional or separate terms may apply.
+For some of Automattic’s other products, services, and programs, such as [Akismet](https://akismet.com/), [Crowdsignal](https://crowdsignal.com/), [Newspack](https://newspack.pub/), [WordPress VIP](https://wpvip.com/), our [Affiliate Program](https://refer.wordpress.com/), and our [Refer-A-Friend Program](https://wordpress.com/refer-a-friend-program-terms-of-service/), additional or separate terms may apply.
 
 Please read these Terms carefully before accessing or using our Services. By accessing or using any part of our Services, you agree to be bound by all of the Terms and all other operating rules, policies, and procedures that we may publish via the Services from time to time (collectively, the “Agreement”). You also agree that we may automatically change, update, or add on to our Services as stated in the Terms, and the Agreement will apply to any changes.
 
