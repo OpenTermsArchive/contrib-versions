@@ -396,7 +396,7 @@ As we have explained above, we process personal data for various purposes. Accor
 
 The criteria used by us to determine Viber’s retention periods are as follows:
 
-*   **The type of personal data and purpose of collection –** unless otherwise specified, we retain data as long as it is necessary and relevant for us to achieve the purposes for which the personal data was collected. For example:
+*   The type of personal data and purpose of collection – unless otherwise specified, we retain data as long as it is necessary and relevant for us to achieve the purposes for which the personal data was collected. For example:
 *   Personal data required to be retained in order to maintain your Viber account and to enable you the use of Viber Services – these types of data, including your mobile number, and phone address book, will be retained for as long as you maintain your Viber account.
 *   Personal data you have voluntarily provided during registration or through your account – these types of data, including your photo, date of birth, email address and interests, will be retained for as long as you maintain your Viber account.
 *   The details of your communication with our customer support team will be stored for 10 years.
