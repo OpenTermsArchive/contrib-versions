@@ -182,7 +182,7 @@ For that reason, we allow promotion of the content below, but on a limited basis
 
 #### [Trademarks](https://support.google.com/merchants/merchants/answer/6172182)
 
-> Shopping ads don't restrict use of trademarks by merchants in the title or description of an ad when it's for a trademarked product or a product compatible with the trademarked product. Merchants need to reference trademarks to be able communicate to users what they're offering, and users need that information as it's relevant to their searches. We'll review claims by trademark owners that use of their trademark is likely to cause consumer confusion about the origin of a product. To submit a trademark-related complaint if you're an owner of the trademark, [use this form](https://support.google.com/merchants/contact/policy).
+> Shopping ads don't restrict use of trademarks by merchants in the title or description of an ad when it's for a trademarked product or a product compatible with the trademarked product. Merchants need to reference trademarks to be able to communicate to users what they're offering, and users need that information as it's relevant to their searches. We'll review claims by trademark owners that use of their trademark is likely to cause consumers confusion about the origin of a product. To submit a trademark-related complaint if you're an owner of the trademark, [use this form](https://support.google.com/legal/contact/TM_CF_Shopping?product=productsearch).
 
 #### [High-fat, -sugar and -salt food and beverage](https://support.google.com/merchants/merchants/answer/11191042)
 
