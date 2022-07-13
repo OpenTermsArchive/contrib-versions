@@ -88,6 +88,7 @@ You can find more information about the individual cookies used on our Sites, an
 | previewsSiteCountryCode | Saves the user’s previews country code in cases where there are visits from multiple countries for the same user |
 | GA\_Last\_Click\_Medium\_\_c | Saves the user’s last traffic medium |
 | GA\_Last\_Click\_Source\_\_c | Saves the user’s last traffic source |
+| Functionality Cookies | ta\_user | Indicates if the user had logged in to Taboola Ads in the past |
 
 Third-Party Cookies on Taboola’s Sites
 
