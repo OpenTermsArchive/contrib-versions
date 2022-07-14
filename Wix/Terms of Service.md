@@ -1,4 +1,4 @@
-Wix.com Terms of Use
+Wix.com Terms of Use
 ====================
 
 Last Revised: April 8, 2021
@@ -74,8 +74,8 @@ The account information you provide us must be your own (or your company’s), a
 
 When a user account is disputed, we may determine the ownership of such user account. 
 
-2. Your Obligations
--------------------
+2\. Your Obligations
+--------------------
 
 ### 2.1. You represent and warrant that:
 
@@ -253,7 +253,7 @@ We welcome any form of feedback or suggestions. If you do provide us with any, p
 
 Certain parts of the Wix Services (including certain Third Party Services available therein, as further explained in Section 8 below) require or involve the submission, collection and/or use of certain personally identifying or identifiable information. In particular and as a part of accessing or using the Wix Services, Wix and such Third Party Services may collect, access and use certain data pertaining to Users and End Users, including the activities or navigation undertaken by Users and End Users through the Wix Services and/or User Platforms. We encourage you to read our [Privacy Policy](http://www.wix.com/about/privacy) and each such Third Party Services’ relevant policies on a regular basis, for a description of such data collection and use practices.
 
-#### #ItsThatEasy
+### #ItsThatEasy
 
 We care about your privacy, and you should too. Please read our Privacy Policy to learn more about our practices concerning personal information
 
@@ -448,7 +448,7 @@ In addition to the aforesaid in Section 13 of these Terms of Use and without any
 
 If your needs require a more inclusive plan than those regularly offered by us, please contact our support team at: [contactvideo@wix.com](mailto:contactvideo@wix.com).
 
-#### #ItsThatEasy
+### #ItsThatEasy
 
 Certain use of Wix Video Services may require a license for use of certain patents. You are obligated to verify whether you are obligated to obtain such license.
 
@@ -475,7 +475,7 @@ If you use third parties' services, software or goods while using our Services, 
 
 While we hope to avoid such instances, Wix may, at any time and at its sole discretion, suspend, disable access to or remove from your User Account, User Platform(s) and/or the Wix Services, any Third Party Services – whether or not incorporated with or made part of your User Account and/or User Platform(s) at such time – without any liability to you or to any End Users.
 
-#### #ItsThatEasy
+### #ItsThatEasy
 
 Our services enable you to get various services and tools from third parties that are not affiliated with us.
 
@@ -488,7 +488,7 @@ We can remove services at any time, which may affect your website, user account 
 
 As part of the Wix Services, we enable you to enhance your brand by creating your own customized business logo (the “Wix Logo”) using our Wix Logo Maker. The additional terms available at [](https://www.wix.com/about/logo-terms-of-use)[https://www.wix.com/about/logo-terms-of-use](https://www.wix.com/about/logo-terms-of-use) apply to your use of Wix Logo Maker, and are in addition to, and not in replacement of, the Wix Terms, unless explicitly stated otherwise.
 
-#### #ItsThatEasy
+### #ItsThatEasy
 
 Make sure to read the additional terms regarding the Wix Logo Maker which are in addition to our general terms.
 
@@ -546,7 +546,7 @@ Wix does not recommend the use of the Wix Services for hosting of personal conte
 
 Please note that certain Wix Services are currently offered in their BETA version, and undergoing BETA testing. You understand and agree that certain Wix Services may still contain software bugs, suffer disruptions and not operate as intended or designated. Your use of the Wix Services at this BETA stage signifies your agreement to participate in such Wix Services’ BETA testing.
 
-#### #ItsThatEasy
+### #ItsThatEasy
 
 We make no warranties regarding our services, including their quality, reliability, security, compatibility and conditions.
 
@@ -568,7 +568,7 @@ To the fullest extent permitted by law in each applicable jurisdiction, Wix, its
 
 You acknowledge and agree that these limitations of liability are agreed allocations of risk constituting in part the consideration for Wix’s services to you, and such limitations will apply even if Wix has been advised of the possibility of such liabilities.
 
-#### #ItsThatEasy
+### #ItsThatEasy
 
 Subject to applicable law, we will not be liable for any damages.
 
@@ -577,7 +577,7 @@ Subject to applicable law, we will not be liable for any damages.
 
 You agree to defend, indemnify and hold harmless Wix, its officers, directors, shareholders, employees, affiliates and agents, from and against any and all claims, damages, obligations, losses, liabilities, costs, debt and expenses (including attorneys’ fees) arising from: (1) your violation of any term of these Terms of Use or any other Wix Terms; (2) your violation of any third party right, including any copyright, access rights, property, or privacy right, resulting from your User Platform or User Content and/or your use of the Wix Services, including, without limitation, Wix Services’ actions for your benefit; and/or (3) any other type of claim that your User Platform and/or User Content caused damage to a third party.
 
-#### #ItsThatEasy
+### #ItsThatEasy
 
 If we get sued or are otherwise placed in harm’s way because of something you did, you will bear the associated costs and damages.
 
