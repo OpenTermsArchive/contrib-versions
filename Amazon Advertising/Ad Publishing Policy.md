@@ -58,7 +58,7 @@ Advertising policies
 *   [Fire TV guidelines and acceptance policies](https://advertising.amazon.com/resources/ad-policy/fire-tv?ref_=a20m_us_spcs_ftv)
 *   [General policies](https://advertising.amazon.com/resources/ad-policy/general-policies?ref_=a20m_us_spcs_gnrplc)
 *   [MMP measurement URLs for app advertising](https://advertising.amazon.com/resources/ad-policy/mmp-measurement-urls?ref_=a20m_us_spcs_mmpmsr)
-*   [On Box Ads and F3 Bags and Inserts guidelines and acceptance policies](https://advertising.amazon.com/resources/ad-policy/on-box-and-bag-ads?ref_=a20m_us_spcs_bxbg)
+*   [On box ads, bags and inserts guidelines and acceptance policies](https://advertising.amazon.com/resources/ad-policy/on-box-and-bag-ads?ref_=a20m_us_spcs_bxbg)
 *   [Product terms](https://advertising.amazon.com/legal/product-terms?ref_=a20m_us_spcs_prdtrm)
 *   [Remarketing and conversion pixel requirements](https://advertising.amazon.com/resources/ad-policy/remarketing-conversion-pixel-requirements?ref_=a20m_us_spcs_rmktg)
 *   [Sponsored ads guidelines and acceptance policies](https://advertising.amazon.com/resources/ad-policy/sponsored-ads-policies?ref_=a20m_us_spcs_spadcap)
