@@ -1,6 +1,6 @@
 #### ironSource Website Privacy Policy
 
-Last Revised: March 17, 2021
+Last Revised: July 13, 2022
 
 The following policy governs how ironSource Ltd. (“ironSource“, “Company” “we” or “us“), and its subsidiaries, handle information collected from users of its websites, at the addresses [is.com/](https://www.is.com/), lunalabs.io/, bidalgo.com/ and their subdomains (the “Sites“), including ironSource Mobile Dashboard, Luna Create Hub and the Luna Control Hub (the “Dashboards”).
 
@@ -42,7 +42,7 @@ We collect the following types of information from Users:
 
 What are the Purposes of the Collection of Information?
 
-1.  We use Site Information for the following purposes:
+1.  We use the information we collect for the following purposes:
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
@@ -111,9 +111,9 @@ We may need to request additional information from a customer to verify the cust
 
 For purposes of the CCPA, this section of the Privacy Policy also serves as a notice of the right to opt out of sale of personal information.
 
-Information about California resident requests in 2020
+Information about California resident requests in 2021
 
-![](/wp-content/uploads/2021/06/privacy-policy-5.png )
+![](/wp-content/uploads/2022/07/privacy-policy-5.png )
 
 Changes to the Privacy Policy
 
