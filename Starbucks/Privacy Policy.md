@@ -2,7 +2,7 @@
 
 As part of our effort to protect your privacy and to comply with applicable privacy and data protection laws, we strive to consider all of our data governance practices through the lens of the recognized principles of data minimization, limited collection, and limited use, among other key areas addressed below. We do so to respect and maintain your trust. In other words, we believe that taking care of you includes taking care of your data and privacy. Grab a cup of coffee and learn more below.
 
-Last Revised: November 10, 2021
+Last Revised: July 11, 2022
 
 ### Starbucks Privacy Statement
 
@@ -68,7 +68,7 @@ You may also in some instances provide us information about other people, such a
 
 **Device and Usage Information** – We may collect information about your browser or device. This information may include the type of device you are using, your operating system, your browser, your internet service provider, your domain name, your internet protocol (“IP”) address, your device and mobile ad identifiers (e.g., Apple IDFA or Android AAID), the website that referred you to our website, the web pages of our website that you view (including the date and time you viewed them), the services or functionality you access or use (including the date and time of your access or use), and the subject of the ads you click or scroll over. To collect this information, we may use log files that record events in connection with your use of our services, as well as [cookies and similar technologies](#cookies_web_beacons_and_similar_technologies), such as web beacons embedded in marketing emails to monitor the engagement of recipients.
 
-**CCTV Information** – Closed circuit video surveillance cameras (“CCTV”) may be installed at some of our retail locations to monitor building security and assist in crime prevention, detection, and investigation, and to ensure the health and safety of our staff and visitors to our facilities.
+**CCTV Information** – Closed circuit video surveillance cameras (“CCTV”) may be installed at some of our retail locations to monitor building security and assist in crime prevention, detection, and investigation, and to ensure the safety of our staff and visitors to our facilities.
 
 **Location Information** – We may collect information about the location of your device, such as information that identifies your device’s precise location (for example, GPS latitude and longitude level) or its approximate location (e.g., less precise location estimated based on a browser or device’s IP address). We may also use location-based technology in our retail locations, such as iBeacons, to collect information about the presence of your device, if your Bluetooth is turned on and your device settings allow for this.
 
@@ -133,7 +133,7 @@ We may share your information in the following circumstances:
 
 **(c) When We Work on Business Transactions** – If we become involved with a merger, corporate transaction or another situation involving the transfer of some or all of our business assets, we may share your information with business entities or people involved in the negotiation or transfer.
 
-**(d) When Sharing Helps Us Protect Safety and Lawful Interests** – We may disclose your information if we believe that the disclosure is required by law, if we believe that the disclosure is necessary to enforce our agreements or policies, or if we believe that the disclosure will help us protect the rights, property, health or safety of Starbucks or our customers or partners.
+**(d) When Sharing Helps Us Protect Safety and Lawful Interests** – We may disclose your information if we believe that the disclosure is required by law, if we believe that the disclosure is necessary to enforce our agreements or policies, or if we believe that the disclosure will help us protect the rights, property, or safety of Starbucks or our customers or partners.
 
 **(e) When We Work with Marketing Service Providers** – We may share your information with marketing service providers to assess, develop and provide you with promotions and special offers that may interest you, administer contests, sweepstakes and events or for other promotional purposes.
 
