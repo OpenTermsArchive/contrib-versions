@@ -1,16 +1,16 @@
 1.  Complete Terms of Service
     -------------------------
     
-    These Terms of Service and any terms expressly incorporated herein ("**Terms**") apply to your access to and use of the websites and mobile applications provided by Payward, Inc. and its wholly owned subsidiaries (collectively, "**Payward**", "**Kraken**", "**we**", or "**us**"), and the trading, direct sale, staking, NFT and other services provided by Payward as described in these Terms (collectively, our "**Services**").  
+    These Terms of Service and any terms expressly incorporated herein (**"Terms"**) apply to your access to and use of the websites and mobile applications provided by Payward, Inc. and its wholly owned subsidiaries (collectively, **"Payward"**, **"Kraken"**, **"we"**, or **"us"**), and the trading, direct sale, staking, NFT and other services provided by Payward as described in these Terms (collectively, our **"Services"**).  
       
-    Our products and services are provided through local operating entities that are subsidiaries of Payward, Inc. Except as provided in Annex B for the Parachain Slot Auction Services, Annex C for the On-Chain Staking Services, Annex D for the Off-chain Staking Program, and Annex G for the NFT Services (as defined therein), your sole and exclusive counterparty to these Terms is as follows:  
-     
+    Our products and services are provided through local operating entities that are subsidiaries of Payward, Inc. Except as provided in Annex B for the Parachain Slot Auction Services, Annex C for the On-Chain Staking Services, Annex D for the Off-chain Staking Program, Annex G for the NFT Services (as defined therein) and Annex H for any Kraken Account denominated in United Arab Emirates dirham (“AED”), your sole and exclusive counterparty to these Terms is as follows:
     
     1.  If you reside in Australia - Bit Trade Pty Limited, Unit 610, 478 George Street, Sydney, NSW 2000, Australia.
     2.  If you reside in Canada - Payward Canada Inc., 1100-1959 Upper Water Street, Halifax, NS B3J 3N2, Canada.
     3.  If you reside in the UK - Payward Ltd., 6th Floor, One London Wall, London, EC2Y 5EB, United Kingdom.
     4.  If you reside in the United States - Payward Ventures, Inc., 237 Kearny Street #102, San Francisco, CA 94108, USA.
-    5.  If you reside in any other country not set forth in 1.1-1.4 above (other than Japan, in which case, you have been provided with a separate terms of service that is applicable to you) - Payward Trading Ltd., c/o SHRM Trustees (BVI) Limited, Trinity Chambers, Ora et Labora Building, Road Town, Tortola, VG1110, British Virgin Islands.
+    5.  If you reside in Italy - Payward Europe Solutions Limited, Italian Branch,  21 Via San Marco, Milan, MI, 20121, Italy
+    6.  If you reside in any other country not set forth in 1.1-1.5 above (other than Japan, in which case, you have been provided with a separate terms of service that is applicable to you) - Payward Trading Ltd., c/o SHRM Trustees (BVI) Limited, Trinity Chambers, Ora et Labora Building, Road Town, Tortola, VG1110, British Virgin Islands.
     
     *   ### Key Definitions
         
