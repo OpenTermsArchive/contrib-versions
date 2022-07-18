@@ -3,7 +3,7 @@ General Terms and Conditions for Fleet Partners / Drivers
 
 **Last Updated: 1 AUGUST 2022**
 
-**You can download an offline version of these Terms for your record and future reference [here](https://assets.ctfassets.net/tk7rwcciwvbq/49Y59Ng0XpX1TVjxjAKsic/c125938f4770e8eacc388f79c83613c9/Bolt_Balance_Terms_and_Conditions__effective_as_of_21.07.2022_.pdf).**
+**You can download an offline version of these Terms for your record and future reference [here](https://assets.ctfassets.net/tk7rwcciwvbq/7HXqZyl34GcF6ygWUfDO4h/4f6dc8922e897ede27dd9fbc2218cf5b/Updated_15.07.22_General_Terms_for_Drivers_-_Ireland__PDF_.pdf).**
 
 By offering the Bolt Apps and the Bolt Services, we offer technological solutions to assist the Fleet Partner and/ or Driver in its operations and a platform where Passengers can connect with them in order to request the provision of Transportation Services. Bolt Ireland provides booking services as a licensed dispatch operator for the procurement of transportation services performed by third party licensed small public service vehicles which include taxis, hackneys or limousines (“SPSV”).
 
