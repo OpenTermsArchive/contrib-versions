@@ -922,7 +922,7 @@ EAB €1,512, based on average annual usage. 12 month contract, discounted unit 
 
 38\. Download all Terms & Conditions.
 
-You can download all Terms & Conditions [here](https://www.energia.ie/getmedia/a2221157-e37d-4df6-944f-6a496af4d233/5366-Energia-Domestic-Terms-and-Conditions-Feb-21.pdf.aspx;).
+You can download all Terms & Conditions [here.](https://www.energia.ie/getattachment/Privacy-2018/Terms-Conditions/Heineken-Champions-Cup-Final-Competition-2019-(6)/5366-Energia-Domestic-Terms-and-Conditions-Nov-21.pdf.aspx;?lang=en-IE)
 
 ### More from Privacy
 
