@@ -182,7 +182,7 @@ This is another reason why it’s important for you to make sure your Basic Subs
 Except where these Terms or any Separate Agreement specifically provide for use of a different means or address for notice, any notice to Evernote must be delivered by email to [compliance@evernote.com](mailto:compliance@evernote.com). This email address may be updated as part of any update to these Terms of Service. If you are unable to deliver notice via email, you may send a notice to us at the following address (as applicable to your Service provider): 
 
 Evernote Corporation  
-305 Walnut Street  
+2400 Broadway, Suite 210  
 Redwood City, California 94063 USA  
 Attention: Legal Notice
 
@@ -262,7 +262,7 @@ SPECIAL NOTICE FOR CALIFORNIA USERS.
 Under California Civil Code Section 1789.3, users of the Evernote Service from California are entitled to the following specific consumer rights notice: The Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs may be contacted in writing at 1625 North Market Blvd., Suite N 112, Sacramento, CA 95834, or by telephone at (916) 445-1254 or (800) 952-5210. You may contact us via email at [legalnotice@evernote.com](mailto:legalnotice@evernote.com) or at:
 
 Evernote Corporation  
-305 Walnut Street  
+2400 Broadway, Suite 210  
 Redwood City, California 94063 USA  
 Attention: Legal Notice
 
