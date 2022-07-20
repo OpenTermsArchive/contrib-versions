@@ -68,7 +68,7 @@ To read our full Privacy Statement [click here.](#privacy)
 
 [\[Versión en Español\]](https://www.toyota.com/espanol/support/privacy-rights)
 
-UPDATED AS OF: January 1, 2022
+UPDATED AS OF: July 19, 2022
 
 Toyota Motor Sales, U.S.A., Inc. is committed to maintaining your confidence and trust as it relates to the privacy of your Personal Information (as defined below). Please read below and learn how we collect, protect, share and use your Personal Information including information we collect as part of our technology Platforms (including, without limitation, our Toyota-owned and branded websites, web pages, interactive features, applications, and mobile applications that link to this Privacy Statement ("Platforms")), offline, and from third parties.
 
@@ -76,7 +76,7 @@ Toyota Motor Sales, U.S.A., Inc. is committed to maintaining your confidence and
 
 **Toyota Connected Services.** This Privacy Statement does not apply to any vehicle-originated data collected in connection with our Toyota Connected Services (such as driving behavior data and vehicle health data). Please visit [www.toyota.com/privacyvts](https://www.toyota.com/privacyvts) to learn more about our vehicle data collection, use and sharing practices.
 
-This Privacy Statement also does not apply to the data practices of any Toyota, Lexus, or Scion dealers; local Toyota dealer associations; private distributors; Toyota Financial Services; Lexus Financial Services; or Toyota Insurance Management Solutions. If you wish to learn about the privacy practices of these entities, please visit their respective privacy statements. To reach the privacy policy for Toyota Financial Services, please click [here](https://www.toyotafinancial.com/us/en/online_policies_and_agreements.html). To reach the privacy policy for Lexus Financial Services, please click [here](https://www.lexusfinancial.com/us/en/planning_tools/faq/privacy.html). To reach the privacy policy for Toyota Insurance Management Solutions, please click [here](https://toyotaims.com/privacy.php). To reach Toyota dealer sites, please click [here](https://www.toyota.com/dealers/). 
+This Privacy Statement also does not apply to the data practices of any Toyota, Lexus, or Scion dealers; local Toyota dealer associations; private distributors; Toyota Financial Services; Lexus Financial Services; or Toyota Insurance Management Solutions. If you wish to learn about the privacy practices of these entities, please visit their respective privacy statements. To reach the privacy policy for Toyota Financial Services, please click [here](https://www.toyotafinancial.com/us/en/online_policies_and_agreements.html). To reach the privacy policy for Lexus Financial Services, please click [here](https://www.lexusfinancial.com/us/en/planning_tools/faq/privacy.html). To reach the privacy policy for Toyota Insurance Management Solutions, please click [here](https://toyotaims.com/privacy.php). To reach Toyota dealer sites, please click [here](https://www.toyota.com/dealers/). To reach the privacy policy for Gulf States Toyota, Inc. (private distributor in Arkansas, Louisiana, Mississippi, Oklahoma, and Texas), please click [here](https://www.buyatoyota.com/gst/legal/). 
 
 **QUICK GUIDE TO CONTENTS**
 
@@ -123,7 +123,7 @@ We may collect Personal Information about you in a variety of ways, depending on
       
     Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser. However, please be aware that some features of the website may not function properly or may be slower if you refuse cookies. In addition, the offers we provide when you visit us may not be as relevant to you or tailored to your interests. If you block or delete cookies, not all tracking that we have described in this Privacy Statement will stop.  
       
-    We use cookies provided by Google Analytics and BlueKai DMP to collect statistical information about the use of the website. You can opt out of Google Analytics here: [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout "https://tools.google.com/dlpage/gaoptout") (requires you to install a browser add-on). You can manage your third-party data on BlueKai here: [https://datacloudoptout.oracle.com/registry/](https://datacloudoptout.oracle.com/registry/ "https://datacloudoptout.oracle.com/registry/"), and you can completely opt out of BlueKai third-party data collection here: [https://datacloudoptout.oracle.com/#](https://datacloudoptout.oracle.com/ "https://datacloudoptout.oracle.com/").
+    We use cookies provided by Google Analytics and LiveRamp to collect statistical information about the use of the website. You can opt out of Google Analytics here: [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout "https://tools.google.com/dlpage/gaoptout") (requires you to install a browser add-on). You can completely opt out of LiveRamp third-party data collection here: [https://liveramp.com/opt\_out/](https://liveramp.com/opt_out/ "https://liveramp.com/opt_out/").
 
 **3. HOW WE USE THE INFORMATION WE COLLECT**
 
