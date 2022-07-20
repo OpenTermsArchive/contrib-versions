@@ -1,7 +1,7 @@
 Amazon Coins Terms
 ==================
 
-Last updated: April 28, 2021
+Last updated: July 18, 2022
 
   
 
@@ -11,11 +11,11 @@ Last updated: April 28, 2021
 Amazon Coins Terms and Conditions
 ---------------------------------
 
-This is an agreement between you and ACI Gift Cards LLC (with its affiliates, "**Amazon**" or "**we**") regarding the Amazon Coins program (the "**Program**"). Before purchasing or redeeming any Amazon Coins or otherwise using the Program, please read these Terms and Conditions, all rules and policies related to the Program (including any rules or provisions on any product detail page or any help or informational page relating to the Program), the Amazon.com Privacy Notice at **[https://www.amazon.com/privacy](https://www.amazon.com/privacy)**, and the Amazon.com Conditions of Use at **[https://www.amazon.com/conditionsofuse](https://www.amazon.com/conditionsofuse)** (collectively, the "**Agreement**"). If you receive, purchase, or redeem any Amazon Coins or otherwise use the Program, you agree to be bound by the Agreement on behalf of yourself and all members of your household and others who use Amazon Coins or otherwise use the Program under your account.
+This is an agreement between you and ACI Gift Cards LLC (with its affiliates, "**Amazon**" or "**we**") regarding the Amazon Coins program (the "**Program**"). Before purchasing or redeeming any Amazon Coins or otherwise using the Program, please read these Terms and Conditions, all rules and policies related to the Program (including any rules or provisions on any product detail page or any help or informational page relating to the Program), the Amazon.com Privacy Notice at **[https://www.amazon.com/privacy](https://www.amazon.com/gp/help/customer/%20https://www.amazon.com/privacy)**, and the Amazon.com Conditions of Use at **[https://www.amazon.com/conditionsofuse](https://www.amazon.com/conditionsofuse)** (collectively, the "**Agreement**"). If you receive, purchase, or redeem any Amazon Coins or otherwise use the Program, you agree to be bound by the Agreement on behalf of yourself and all members of your household and others who use Amazon Coins or otherwise use the Program under your account.
 
 **1\. Amazon Coins**
 
-The Program allows customers to receive and purchase Amazon Coins ("**Coins**") and to redeem those Coins for the purchase of eligible digital products we sell through the Amazon Appstore for Android (the "**Amazon Appstore**"). The Program includes two types of Coins: Coins you purchase from us or receive as a gift from another customer ("**Purchased Coins**") and Coins we give you for promotional purposes ("**Promotional Coins**"). Each Coin is worth $0.01 when making purchases through the Amazon Appstore.
+The Program allows customers to receive and purchase Amazon Coins ("**Coins**") and to redeem those Coins for the purchase of eligible digital products we sell through the Amazon Appstore for Android (the "**Amazon Appstore**"). The Program includes two types of Coins: Coins you purchased from us (**"Purchased Coins**") and Coins we give you for promotional purposes ("**Promotional Coins**"). Each Coin is worth $0.01 when making purchases through the Amazon Appstore.
 
 **2\. Use of Coins**
 
@@ -23,13 +23,11 @@ The Program allows customers to receive and purchase Amazon Coins ("**Coins**") 
 
 **2.2 Purchased Coins**. Purchases of Coins will be charged to the 1-Click payment method associated with your Amazon account. All purchases of Coins are final. We do not accept returns of Purchased Coins except where required by law. If you believe any Purchased Coins were not properly credited to your account, please contact Amazon customer service for assistance. If we offer discounts on the purchase of Coins, we may modify or discontinue those discounts at any time without notice to you.
 
-**2.3 Gifting Coins**. We may allow you to give Purchased Coins as gifts to other customers. To gift Coins, you must designate the Coins as a gift prior to purchase. You may not gift Purchased Coins that have already been applied to your account or Promotional Coins. If you purchase Coins as a gift and you specify a future date for delivery of the Coins, we will charge your account at the time of purchase but you can obtain a full refund if you cancel the order prior to the scheduled delivery date.
+**2.3 Promotional Coins**. All Coins that have not been purchased from us are Promotional Coins. This includes any Coins we give you in connection with your purchase of apps or other products, your use of other Amazon services, or any other promotional activity.
 
-**2.4 Promotional Coins**. All Coins that you do not pay for (other than Coins you receive as a gift from another customer) are Promotional Coins. This includes any Coins we give you in connection with your purchase of apps or other products, your use of other Amazon services, or any other promotional activity.
+**2.4 Expiration Dates; Application of Coins**. Purchased Coins do not expire. Promotional Coins expire one year after the later of the date we give them to you or the date you last purchased or redeemed Coins. When you make a purchase with Coins, any Promotional Coins you have will be applied first, followed by your Purchased Coins.
 
-**2.5 Expiration Dates; Application of Coins**. Purchased Coins do not expire. Promotional Coins expire one year after the later of the date we give them to you or the date you last purchased or redeemed Coins. When you make a purchase with Coins, any Promotional Coins you have will be applied first, followed by your Purchased Coins.
-
-**2.6 Restrictions**. Coins cannot be resold, transferred for value or redeemed for cash, except to the extent required by law. Coins in one Amazon account may not be transferred to another Amazon account. We may limit the number of Coins you can purchase or receive within certain periods of time, or implement other restrictions on the receipt or use of Coins. If we give you Promotional Coins in connection with your purchase of a product and you later return or receive a refund for that product, we may revoke those Promotional Coins. If you have already used those Coins, we may deduct the same number of other Promotional Coins or Purchased Coins from your account or charge your credit card or other payment instrument for any products you purchased using those Coins.
+**2.5 Restrictions**. Coins cannot be resold, transferred for value or redeemed for cash, except to the extent required by law. Coins in one Amazon account may not be transferred to another Amazon account. We may limit the number of Coins you can purchase or receive within certain periods of time, or implement other restrictions on the receipt or use of Coins. If we give you Promotional Coins in connection with your purchase of a product and you later return or receive a refund for that product, we may revoke those Promotional Coins. If you have already used those Coins, we may deduct the same number of other Promotional Coins or Purchased Coins from your account or charge your credit card or other payment instrument for any products you purchased using those Coins.
 
 **3\. Software**. We may make available to you software for your use in connection with the Program. Terms contained in the Amazon.com **[Conditions of Use](https://www.amazon.com/conditionsofuse)** apply to your use of that software.
 
