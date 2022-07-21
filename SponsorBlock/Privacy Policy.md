@@ -80,11 +80,6 @@ By using this browser extension or API, you hereby consent to the Privacy Policy
 
 Please email me with your request.
 
-[](#use-of-youtube-api)Use of YouTube API
------------------------------------------
-
-The extension uses the YouTube API on the server-side to verify that submissions are for valid videos, and provide information about videos that have been downvoted to moderators. The use of the YouTube API is governed by the [Google Privacy Policy](https://policies.google.com/privacy) and the [YouTube Terms of Service](https://www.youtube.com/t/terms)
-
 [](#error-logging-and-cloudflare)Error logging and Cloudflare
 -------------------------------------------------------------
 
