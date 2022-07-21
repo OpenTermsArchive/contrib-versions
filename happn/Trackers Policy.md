@@ -1,7 +1,7 @@
 Use of Cookies and Trackers
 ===========================
 
-Updated on: 03/31/2021
+Updated on: 07/21/2022
 
 **You can configure the way happn and its partners use cookies or other tracking technologies for analytics and targeted ads by clicking here: [Change cookie settings](http://www.happn.com/cookies)**
 
@@ -125,19 +125,11 @@ HAPPN uses **Audience measurement cookies** to obtain information about user bro
 |     |     |     |     |
 | --- | --- | --- | --- |  
 | Cookie name | Company | Domain | Purpose |
-| \_ga | Google Analytics\* | happn.com | Measures audience statistics on the Website. |
-| \_gat\_UA-46012774-2 | Google Analytics\* | happn.com | Measures audience statistics on the Website. |
-| \_gid | Google Analytics\* | happn.com | Measures audience statistics on the Website. |
 | \_fbp | Facebook | happn.com | Measures audience statistics on the Website. |
-| ry\_ry-h4n3pp1z\_realytics | Realytics\*\* | happn.com | Measures audience statistics on the Website. |
-| ry\_ry-h4n3pp1z\_so\_realytics | Realytics\*\* | happn.com | Measures audience statistics on the Website. |
+| ry\_ry-h4n3pp1z\_realytics | Realytics\* | happn.com | Measures audience statistics on the Website. |
+| ry\_ry-h4n3pp1z\_so\_realytics | Realytics\* | happn.com | Measures audience statistics on the Website. |
 
-\*If you wish to refuse Google Analytics cookies, you can: 
-
-*   Download and install the [Google Analytics opt-out module](https://tools.google.com/dlpage/gaoptout?hl=en)
-*   Refuse the use of analytical cookies on our cookie banner (see below).
-
-\*\*If you wish to refuse Realytics cookies, you can:
+\*If you wish to refuse Realytics cookies, you can:
 
 *   Visit the following page: [Realytics.io/Optout](https://www.realytics.io/optout/)
 *   Refuse the use of analytical cookies on our cookie banner (see below).
@@ -171,7 +163,6 @@ Certain Trackers are specific to the Application or the Web App. Where applicabl
 | Braze | Braze | FUNCTIONAL<br><br>Managing customer relations (notifications, etc.) |
 | Facebook Login | Facebook | FUNCTIONAL<br><br>Enabling subscription via Facebook Login |
 | Google Firebase | Google | FUNCTIONAL<br><br>Sends push notifications to users<br><br>This tool is specific to the mobile Application. |
-| Bugsnag | Bugsnag | SECURITY  <br>Detects bugs.<br><br>This tool is specific to the mobile Application. |
 | Spotify | Spotify | FUNCTIONAL<br><br>Collects users’ musical preferences when they have consented to Spotify sharing these preferences with HAPPN when creating their profile. |
 | Sign in with Apple | Apple | FUNCTIONAL<br><br>Enables subscription Sign-in with Apple<br><br>This tool is specific to the mobile Application. |
 | Sign in with Google | Google | FUNCTIONAL<br><br>Enables subscription via Sign-in with Google |
@@ -202,7 +193,6 @@ Certain Trackers are specific to the Application or the Web App. Where applicabl
 | Adjust | Adjust | MEASUREMENT  <br> <br><br>Audience and attribution measurement<br><br>This tool is specific to the mobile Application |
 | Facebook | Facebook | MEASUREMENT  <br> <br><br>Audience and attribution measurement |
 | Google Firebase Analytics | Google | MEASUREMENT  <br> <br><br>Audience and attribution measurement<br><br>This tool is specific to the mobile Application. |
-| Google Tag Manager | Google | MEASUREMENT  <br> <br><br>Audience and attribution measurement<br><br>This tool is specific to the Web App |
 
 4\. How can you manage your cookies and the use of your user details?
 ---------------------------------------------------------------------
