@@ -1650,7 +1650,7 @@ If you do not agree with the rating assigned to your app, you can appeal directl
 
 * * *
 
-Effective 11 August 2022
+Effective 14 September 2022
 
 News
 ----
