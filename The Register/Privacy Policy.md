@@ -4,238 +4,296 @@ Privacy Policy
 What we do with your data
 -------------------------
 
-Last updated at: February 9, 2020
+Last updated: 21st July 2022
 
-**The Register ("The Register", "our", "we") is owned and operated by [Situation Publishing Limited](https://situationpublishing.com/)**.
+The Register ("The Register", "our", "we") is owned and operated by [Situation Publishing Limited](https://situationpublishing.com/) (a company registered in England with registered number 03403653) ("**we**", "**us**", "**our**"). We are the controller of your personal data collected through our website. We are committed to protecting and respecting your privacy.
 
-Situation Publishing Limited  
-Unit 1  
-Portland Street Trading Estate  
-14 Portland Street  
-Southport  
-PR8 1LJ
+This privacy policy (the "**Policy**") sets out the types of personal data we collect and use when you access and visit [www.theregister.com](https://www.theregister.com/) (the "**Website**") or any sub-domains of the same and how we may use that data.
 
 ### Introduction
 
-The Register strongly believes in respecting individuals' right to privacy. The Register will never use your personal data for any use beyond that stated or the permissions you give us or as required by law. This Privacy Policy ("**Privacy Policy**") aims to give you information on how The Register collects and processes your personal data when you use www.theregister.com ("**Website**").
+This Policy explains who we are, why and how we process personal data collected through your use of the Website and, if you are the subject of any of the personal data concerned, what rights you have and how to get in touch with us if you need to.
 
-This Privacy Policy should be read in conjunction with our [Terms and Conditions of Use](https://www.theregister.com/Profile/terms_and_conditions_of_use/), our [Cookie Policy](https://www.theregister.com/Profile/cookies/), and for California consumers, our [CCPA statement](https://www.theregister.com/Profile/privacy_policy_california_residents/).
+When you supply any personal data to us, we have legal obligations towards you in the way we use that data. For ease of reading, we have divided this Policy into several sections:
 
-The Website is not intended for children (those aged 13 and under) and we do not knowingly collect data relating to children.
+1.  [Introduction](#introduction)
+2.  [What information can we collect?](#wiwcc)
+3.  [How is your personal information collected?](#hiypic)
+4.  [How and why do we use and share your personal information?](#hawdwuasypi)
+5.  [For how long do we keep your personal information?](#fhldwkypd)
+6.  [Security](#security)
+7.  [International Data Transfers](#idt)
+8.  [Your Rights](#yourrights)
+9.  [Contact Details](#contactdetails)
 
-When you register or use the Website you will be asked to "opt in" to our Privacy Policy i.e. to confirm that you agree to our use of any personal data that we may collect from you as a user of the Website as set out in this Privacy Policy. If you do not give your consent, you will not be able to use the Website as we will be unable to provide our services and facilities to you. You can withdraw your consent to our use of your personal data at any time by cancelling your membership (see Your Rights).
+It is important that you read this Policy together with any other privacy notice or fair processing notices that we may provide on the Website at or around the time that we collect or process personal data about you (for example, fair processing notices that we may display to you at the time that you sign up to receive e-mail updates from us) so that you are fully aware of how and why we are using that data.
 
-**For ease of reading, we have divided this Privacy Policy into several sections:**
+This Policy supplements other notices on the Website, including our [Website Terms and Conditions of Use](https://www.theregister.com/Profile/terms_and_conditions_of_use/); our [Cookie Policy](https://www.theregister.com/Profile/cookies/); and for California consumers our [CCPA statement](https://www.theregister.com/Profile/privacy_policy_california_residents/), and should be read alongside such terms. This Policy is not intended to override or replace these terms.
 
-*   [What information do we collect?](#s1)
-*   [How we use your personal data?](#s2)
-*   [Disclosure of your personal information](#s3)
-*   [International Transfers](#s4)
-*   [Third Party Websites](#s5)
-*   [How long do we keep your information for?](#s6)
-*   [Your Rights](#s7)
-*   [Your Rights](#s7)
-*   [Your California Privacy Rights](#ccpa)
+By visiting or otherwise using our Website, you agree to its terms (including as amended from time to time) and this Policy. If, for any reason, you do not agree to the terms of this Policy, please stop using the Website.
 
-### What information do we collect?
+We reserve the right to revise or amend this Policy at any time to reflect changes to our business or changes in the law. Where these changes are significant we will endeavour to let users of the Website know, most likely by way of showing you a notification when you next log in to the Website. However, it is your responsibility to check this Policy before each use of the Website and to make yourself aware of any changes. For ease of reference the top of this Policy indicates the date on which it was last updated.
 
-#### What is personal data?
+Please note that the Website is not directed at individuals under the age of 13 and we do not knowingly collect personal data about individuals under this age (a "**Child**"). If you believe we have collected personal data about your Child, you may contact us at [readerservices@situationpublishing.com](mailto:readerservices@situationpublishing.com) and request that we cease processing data about your Child.
 
-Where this Privacy Policy refers to 'personal data' it is referring to data about you (or other living people) from which you could be identified – such as your name, your contact details and even your IP address.
+### What information can we collect?
 
-By law all organisations in the UK are obliged to process your personal data in certain ways and to ensure that you are given an appropriate amount of information about how they use it. You also have various rights to seek information from those organisations about how they are using your data, and to prevent them from processing it unlawfully. For more information about these rights, please see the '[Your Rights](#s7)' section of this Privacy Policy.
+**What is personal data?**
 
-#### Data we collect from you
+Where this Policy refers to 'personal data' it is referring to data about you from which you could be identified - such as your name, your date of birth, your contact details (including your email address) and even your IP address.
 
-The Register may collect, process and use your personal data (including your name, postal address, email address, telephone number, mobile number and technical data including your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access this Website ("Technical Data").
+By law all organisations who process your personal data in the United Kingdom are obliged to process your personal data in certain ways and to ensure that you are given an appropriate amount of information about how they use it. You also have various rights to seek information from those organisations about how they are using your data, and to prevent them from processing it unlawfully. For more information about these rights, please see the 'Your Rights' section of this Policy.
 
-We collect this data in a number of ways, including through:
+**What types of data we collect from you when you use the Website**
 
-*   **Direct interactions**. You may give us your identity, and contact details\] by filling in forms or by corresponding with us by post, phone, email or otherwise. This includes personal data you provide when you:
-    *   create an account on our Website;
-    *   subscribe to our headlines-by-email service;
-    *   subscribe to our publications;
-    *   request marketing to be sent to you;
-    *   enter a competition, promotion or survey; or
-    *   give us some feedback.
-*   **Automated technologies or interactions**. As you interact with our Website, we may automatically collect Technical Data about your equipment, browsing actions and patterns. We collect this personal data by using cookies, server logs and other similar technologies. We may also receive Technical Data about you if you visit other websites employing our cookies. Please see our [cookie policy](https://www.theregister.com/Profile/cookies/) for further details.
-*   **Third parties**. We may receive personal data about your from various third parties, for example, Technical Data from analytics providers such as Google based outside the EU.
+The personal data we collect from you depends on precisely what details you volunteer to us as you interact with the Website but may include:
 
-### How we use your personal data
+*   **Identity Data** which includes your name, date of birth and gender.
+*   **Contact Data** which includes your e-mail address, phone number, billing address and delivery address.
+*   **Device Data** which includes data about the device(s) on which you visit the Website, such as your mobile operating system, any unique ID assigned to that device, and technical information about the type of device you are using.
+*   **Financial Data** which, where you provide them, includes your bank account and payment card details.
+*   **Transaction Data** which includes details about payments that you have made and details about the products or services that those transactions relate to.
+*   **Technical Data** which includes, Device Data, your IP address, your login data, time zone setting and location, operating system and browser type and version (i.e. that enables us to provide electronic services to you across the internet and/or Wi-Fi networks).
+*   **Profile Data** which includes your username and password, your interests, preferences, feedback and survey responses including any personal data contained in content that you upload to the Website.
+*   **Location Data** which includes data about where you access the Website from.
+*   **Usage Data** which includes information about how you use and engage with the Website.
+*   **Marketing and Communications Data** which includes your preferences in receiving marketing from us (i.e. whether you have subscribed to receive any marketing communications from us and our third parties) including information about the kind of adverts, stories or products that we believe you are most likely to be interested in.
 
-We will only use your personal data when the law allows us to. Most commonly, we will use your personal data in the following circumstances:
+Certain types of personal data are categorised as sensitive and need more protection. For example: information about your race or ethnic origins, political opinions, sex life or sexual orientation, religious beliefs, health information, biometric and genetic data. There are also special rules about the use of criminal information (information about criminal convictions or allegations about criminal convictions). Collectively 'special category personal data'.
 
-*   Where we need to perform the contract we are about to enter into or have entered into with you.
-*   Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests.
+We will not usually collect special category personal data and we will only process this type of personal data about you if we have a valid reason for doing so and only if the law allows us to do so. One example where we may collect special category personal data from you is if we perform any diversity monitoring about engagement with the Website.
+
+### How is your personal information collected?
+
+**Direct interactions with us**
+
+When you use the Website you are likely to provide a certain amount of personal data to us. This could be in response to various questions and forms which we present to you as part of the process of setting up your account . This will include Identity, Contact \[and Financial\] Data as you will provide us with details about your name and location as part of creating your account and populating your user profile.
+
+We may also collect, store and use any personal data about you that you otherwise provide, disclose or volunteer to us and/or upload to the Website (for example: by subscribing to our headlines-by-email or any other service; subscribing to our publications or newsletters; applying for a product or service; requesting promotional materials or marketing to be sent to you; participating in social media functions; taking part in an online survey; filling in a form or questionnaire that we present to you; posting a comment or otherwise messaging on the Website; entering competitions; or similar activities; when you report a problem with the Website or otherwise give us feedback; or when you contact us by e-mail, telephone or by post).
+
+**Use of the Website**
+
+When you use the Website to interact with content or other users we will collect both the data that you upload to it (which may be included in messages that you send, or content that you upload) as well as data about how you are interacting with the Website and with other users.
+
+So, for example, we will collect data about posts or content that you view and this can give us a fairly detailed picture of what content users like to view and their use of the Website.
+
+Please always remember that most things posted on the Website are publicly viewable.
+
+**Automated technologies or interactions**
+
+We will also collect personal data about you and various information about the technology you use through the use of technologies such as cookies and server logs when you visit and interact with the Website. The following are examples of information we may collect:
+
+*   information about your device, browser or operating system;
+*   your IP address;
+*   information about links that you click and pages, content or products you view on the Website;
+*   length of visits to certain pages, content or products;
+*   subjects you viewed or searched for;
+*   page response times;
+*   records of download errors and/or broken links;
+*   page interaction information (such as details of your scrolling, clicks, and mouse-overs);
+*   methods used to browse away from a page; and
+*   the full Uniform Resource Locators (URL) clickstream to, through and from the Website (including date and time).
+
+We use the data described above for several different reasons. Firstly, we use it to ensure that the Website works properly, it is secure and that you are able to receive the full benefit of it. Second, we use the data to monitor online traffic and user participation across the Website which helps us to improve the Website's functionality, optimise the ways that it operates, and to focus our time and creativity on the features or products which users prefer. We undertake both of these activities because we have a legitimate interest in doing so.
+
+For more information on this kind of technology and details of the cookies that we use on the Website please see our [Cookie Policy](https://www.theregister.com/Profile/cookies/).
+
+**Third parties or publicly available sources**
+
+We also partner with third parties who may collect anonymous usage or statistical data through your use of the Website (including, for example, business partners, sub-contractors in technical and delivery of services, advertising networks, analytics providers, search information providers, credit reference agencies). We may receive information about you from these partners through the use of cookie technologies to personalise advertisements for goods and services. To opt out of receiving advertisements tailored to your interests by our partners, visit the European Interactive Digital Advertising Alliance at [https://youronlinechoices.eu](https://youronlinechoices.eu/).
+
+**Updating your information**
+
+If you want to update the information you have previously given to us, you can contact us at [readerservices@situationpublishing.com](mailto:readerservices@situationpublishing.com).
+
+### How and why do we use/share your personal data?
+
+**Lawful basis for processing your information**
+
+We will only use your personal data when the law allows us to. Most commonly we will use your personal data in the following circumstances:
+
+*   Where you have asked us to do so, or consented to us doing so;
+*   Where we need to do so in order to perform a contract we have entered into with you;
+*   Where it is necessary for our legitimate interests (or those of a third party) and your fundamental rights do not override those interests; and
 *   Where we need to comply with a legal or regulatory obligation.
 
-Generally we do not rely on consent as a legal basis for processing your personal data other than in relation to sending third party direct marketing communications to you via email or text message. You have the right to withdraw consent to marketing at any time by changing your account settings or by [contacting us](mailto:readerservices@situationpublishing.com).
+Here are some examples about how we may use the information we collect about you and the lawful basis we rely on to do so.
 
-We have set out below more specifics on how we use such data.
+| Activity | Examples of the types of personal data we may collect | Lawful basis for processing |
+| --- | --- | --- |
+| To provide you with our products and services and to register you as a new subscriber or account holder. | Identify, contact, financial, transactional, technical, profile and marketing communications information. | Performance of a contract with you. |
+| To process and deliver your orders including to:  <br>  <br>(a) Manage payments, fees and charges  <br>(b) Collect and recover money owed to us | Identify, contact, financial, transactional, technical, profile and marketing communications information. | Performance of a contract with you.  <br>  <br>Necessary for our legitimate interests (to recover debts due to us). |
+| To test new products, track products and services that are popular, develop new ways to work with our customers and manage how we interact with third parties. | Identify, contact, financial, transactional, profile and marketing communications information. | Performance of a contract with you.  <br>  <br>Necessary for our legitimate interests (to study how customers use our products/services, to develop them and grow our business). |
+| To obey applicable laws and regulations, manage risk for us and our customers, respond to complaints and seek to prevent crime. | Identify, contact, financial, transactional, profile and usage information. | Necessary for our legitimate interests (for running our business, network security and to prevent fraud).  <br>  <br>Necessary to comply with our legal / regulatory obligations. |
+| To manage our relationship with you including notifying you of any changes to the Website or services provided on the Website. | Identity, contact, profile information, transactional and marketing communications information. | To take the necessary steps to arrange a contract with you.  <br>  <br>Performance of a contract with you.  <br>  <br>Necessary to comply with our legal / regulatory obligations.  <br>  <br>Necessary for our legitimate interests (to keep our records updated and to study how customers use our products/services). |
+| To enable you to partake in a prize draw, competition or complete a survey. | Identity, contact, profile, usage and marketing communications information. | Performance of a contract with you.  <br>  <br>Necessary for our legitimate interests (to study how customers use our products/services, to develop them and grow our business). |
+| To administer and protect our business and the Website (including troubleshooting, data analysis, credit and fraud checks and system testing.) | Identity, contact and technical information. | Necessary for our legitimate interests (for running our business, provision of administration and IT services, network security, to prevent fraud and in the context of a business reorganisation or group restructuring exercise).  <br>  <br>Necessary to comply with our legal / regulatory obligations. |
+| To deliver relevant content, newsletters and advertisements (including making suggestions and recommendations to you about content or products that may be of interest) to you via the Website or to otherwise personalise your experience on the Website. | Identity, contact, profile, usage, marketing and communications, transactional and technical information. | Necessary for our legitimate interests (to promote products, surveys and services we offer that you may be interested in).  <br>  <br>Necessary for our legitimate interests (to study how customers use our products/services, to develop them, to grow our business and to inform our marketing strategy). |
+| To use data analytics to improve and optimise the effectiveness and functioning of the Website, our services, marketing, customer relationships and experiences. | All types of data that we collect. | Necessary for our legitimate interests (in optimising the content of the Website and ensuring that you are served with relevant commercial communications as you use them). |
+| To respond to your enquiries where you have contacted us via e-mail or telephone or participated in any surveys or reviews. | Identity, contact, marketing communications information and technical information. | Necessary for our legitimate interests (in responding and contacting you regarding the enquiries you have made in relation to the services we offer and reviewing your responses to our surveys). |
+| To develop new services or products for our users, and to innovate and improve the services which they use most frequently. | All types of data that we collect. | Necessary for our legitimate interests (for running, developing and growing our business). |
 
-#### Server Logs
+**Marketing and Advertising**
 
-The Register will collect your IP address to produce a server log – as all web servers do - and other data derived from your IP address including your country or region, your ISP, and in some cases your organisation. This information is used to monitor the volume of traffic the site receives, the number of readers and their location. We do not use this information to track the activity of individual visitors to the website.
+We may use your personal data to form a view on what we think you may want or need, or what may be of interest to you. This is how we decide which products, services and offers may be relevant for you (we call this marketing).
 
-#### Advertising
+You will only receive marketing communications from us (such as e-mails or text messages) if you have requested information from us or purchased content, goods or services from us or via the Website and you have not opted out of receiving that marketing at the time of purchase or when you registered to receive a service (such as our headlines-by-email service).
 
-The Register runs advertising for a wide variety of organisations. These adverts are served from our advertising servers as well as from third-party advertising servers managed by the advertiser. Recent third-party ad servers include Google Ad Manager (formerly DoubleClick), SizMek and FlashTalking.
+This however this differs from advertisements which you may see on the Website. We run advertising for a wide variety of organisations. These adverts are served from our advertising server as well as from third-party advertising servers managed by the advertiser. All users of the Website will see advertisements on the Website, but the content of these adverts will differ depending on each user. As described above, these adverts are delivered to you based on analysis of your behaviour on the Website.
 
-These ad servers may attempt to set cookies on your computer. All these sites stress that information gathered through these cookies is used purely for the purpose of advert delivery, recording and segmentation. They do not use information gathered through their cookies for their own use, and they do not collect any personally identifiable information.
+These advertising servers may attempt to set cookies on your device but stress that information gathered through these cookies is used purely for the purpose of advert delivery, recording and segmentation. They do not use information gathered through their cookies for their own use, and they do not collect any personally identifiable information.
 
-The respective privacy policies of these ad servers can be found here:
+For more information on this technology and details of the cookies used on the Website please see our [Cookie Policy](https://www.theregister.com/Profile/cookies/).
 
-[Google Ad Manager](https://www.google.com/intl/en/policies/privacy/)  
-Google Ad Manager has a cookie opt-out facility [here](https://www.google.com/privacy/ads/)
+If you encounter any problems with advertising please email [ads@situationpublishing.com](mailto:ads@situationpublishing.com)
 
-[Sizmek Privacy Policy](https://www.sizmek.com/privacy-policy/).
+Showing advertisements in this way is essential to the Website’s operation and viability. Please however be assured that we do not sell or otherwise disclose your personal data to advertisers directly, and individual advertisers are not made aware of which individual users have viewed their advertisements (unless you actively click on or otherwise engage with the advert in question).
 
-[Flashtalking Privacy Policy](http://www.flashtalking.com/privacypolicy/).
+**Opting Out of Marketing**
 
-If you encounter any problems with advertising please email [ads@situationpublishing.com](mailto:ads@situationpublishing.com).
+To unsubscribe from marketing messages at any time, please click on the unsubscribe link at the bottom of any marketing messages. You may also contact us directly if you do not wish to receive any marketing materials from us.
 
-To read more about our cookie policy please [click here](https://www.theregister.com/Profile/cookies/).
+We may retain your e-mail address, or other contact details, on file should you ever 'opt-out' of receiving marketing messages from us. We will retain your contact details in order to ensure that we continue to honour and respect that opt-out request.
 
-#### Email and Online Forms
+**Sharing your personal data**
 
-As previously stated, if you choose to subscribe to our headlines-by-email service, or complete any of our online forms, you may be asked to supply personal data. If you choose to do so, that information is recorded and used for broad demographic information, which may be used to target advertising. If permission is granted, this information may be used to target specific users with occasional emails informing you about commercial services provided by The Register; and offers from our partners.
+Depending on how and why you provide us with your personal data we may share it in the following ways:
 
-The Register will never use your data for anything beyond the reason stated and the permissions you grant us. To alter the emails which you receive from us, including unsubscribing from all email communications, please [visit this page](https://account.theregister.com/). Make sure that you enter exactly the same email address as you used to sign up.
+*   with any member of our company group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006;
+*   with selected official bodies to prevent and detect fraud or credit risks such as: central and local government bodies, HM Revenue & Customs, regulators and other tax authorities, law enforcement agencies, and fraud protection agencies;
+*   with selected third parties who we sub-contract to provide various services and/or aspects of the Website's functionality, such as where we use third parties to host and/or store data for us or use other IT systems supplied by third parties (see 'Service Providers' below);
+*   with analytics and search engine providers that assist us in the improvement and optimisation of this Website as described above;
+*   with selected third parties whose content you have viewed and/or engaged with including any content or channels that you have subscribed to; and
+*   with selected third parties who we contract with to provide professional services such as our insurers, accountants, auditors and lawyers.
 
-Register journalists may use their email address to reply to comments that you have posted on our Website.
+We will not share your personal data with third parties in order for that third party to provide direct marketing communications to you, unless it relates to a specific activity which we are undertaking with a third party (e.g. if you are watching / have watched a sponsored webinar, or are downloading / have downloaded a sponsored whitepaper) and you have provided your consent for that use. Such activity may have its own terms and conditions relating to the way in which your personal data may be used, which you will be notified of at the relevant time.
 
-#### Competitions
+We reserve the right to publish correspondence sent to us. If you ask not to have your identity revealed that information will not be published. We will never knowingly publish a private e-mail address unless specifically asked to do so by you.
 
-If you enter The Register competitions, you will be asked for some personal information, but only to allow us to judge the validity of your applications and to contact you should you be declared a competition winner.
+We may also disclose your personal data to third parties in the following events:
 
-If permission is granted, this information may be used to target specific users with occasional emails informing you about commercial services provided by The Register, and offers from our partners.
+*   if we were to sell or buy any business or assets, in which case we might disclose your personal data to the prospective seller or buyer of such business or assets as part of that sale;
+*   if we, or substantially all of our assets, are acquired by or are transferred to a third party, in which case personal data held by us about our customers will be one of the transferred assets;
+*   if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or if we are compelled to provide your details to a lawful authority in order to aid in the investigation of crime or disorder; and/or
+*   in order to enforce or apply the Website's terms and conditions; or to protect the rights, property, or safety of our company, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
-The Register will never use your data for anything beyond the reason stated and the permissions you grant us.
+**Service Providers**
 
-#### Change of purpose
+Our service providers provide us with a variety of administrative, statistical, and technical services. We will only provide service providers with the minimum amount of personal data they need to fulfil the services we request, and we stipulate that they protect this data and do not use it for any other purpose. We take these relationships seriously and oblige all of our data processors to sign contracts with us that clearly set out their commitment to respecting individual rights, and their commitments to assisting us to help you exercise your rights as a data subject. For more information on the service providers we use you can contact us at [readerservices@situationpublishing.com](mailto:readerservices@situationpublishing.com).
 
-We will only use your personal data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If you wish to get an explanation as to how the processing for the new purpose is compatible with the original purpose, please [contact us](mailto:readerservices@situationpublishing.com).
+**Links to third party sites**
 
-If we need to use your personal data for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so.
+Where we provide links to third party websites, plug-ins and applications that are not affiliated with the Website such sites are out of our control and are not covered by this Policy. If you access third party sites using the links provided, the operators of these sites may collect personal data from you that could be used by them, in accordance with their own privacy policies. Please check these policies before you submit any personal data to those websites.
 
-Please note that we may process your personal data without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law.
+### For how long do we keep your personal data?
 
-### Disclosure of your personal data
+We will hold your personal data on our systems only for as long as required to provide you with the services you have requested, including for the purposes of satisfying any legal, regulatory, tax, accounting or reporting requirements. We may retain your personal data for a longer period in the event of a complaint or if we reasonably believe there is a prospect of litigation in respect to our relationship with you.
 
-Depending on how and why you provide us with your personal data. We may share it in the following ways:
+To determine the appropriate retention period for personal data, we consider the amount, nature and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal, regulatory, tax, accounting or other requirements.
 
-*   if required to do so by law or if we believe that such action is necessary to protect and defend the rights, property or personal safety of the Website or its visitors.
-*   if we have first obtained your consent to do so, The Register may share your information with our trusted partners so that they can provide information to you about products and services that may interest you by email. If at any time you do not wish us to share your information in this way, then you can opt out any time by [contacting us](mailto:readerservices@situationpublishing.com) or changing the settings in your [account](https://account.theregister.com/).
-*   With our service providers. We will use third party service providers to undertake processing operations on our behalf, and this may require us to share your personal data with them. These service providers provide us with a variety of administrative, statistical, and technical services. We will only provide service providers with the minimum amount of personal data they need to fulfil the services we request, and we stipulate that they protect this information and do not use it for any other purpose. We take these relationships seriously and oblige all of our data processors to sign contracts with us that clearly set out their commitment to respecting individual rights, and their commitments to assisting us to help you exercise your rights as a data subject. For example, if you use a credit or debit card to make a payment to us, we will send your details to [PayPal](https://paypal.com/), who we employ to do our online payment processing. The Register will not keep your card details, other than the type of card used. However, details may be stored by our payment providers (i.e. PayPal) for the purposes of processing further payments you have instructed us to collect.
+Accordingly, you should expect us to keep your personal data for so long as you have a registered account on the Website (whether that account is actively used or not). If you delete your account then we may need to keep some of the personal data associated with that account, or transactions for services made using it, for up to six years (for the reasons described above).
 
-#### Publishing
-
-We reserve the right to publish emails and letters sent to The Register. If you ask not to have your identity revealed, that information won't be published. We never publish a private email address unless specifically asked to do so by you.
-
-### International transfers
-
-We may transfer your personal data outside the European Economic Area (EEA).
-
-Whenever we transfer your personal data out of the EEA, we ensure a similar degree of protection is afforded to it by ensuring at least one of the following safeguards is implemented:
-
-We will only transfer your personal data to countries that have been deemed to provide an adequate level of protection for personal data by the European Commission. For further details, see [European Commission: Adequacy of the protection of personal data in non-EU countries](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en).
-
-Where we use certain service providers, we may use specific contracts approved by the European Commission which give personal data the same protection it has in Europe. For further details, see [European Commission: Model contracts for the transfer of personal data to third countries](https://ec.europa.eu/info/strategy/justice-and-fundamental-rights/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en).
-
-Where we use providers based in the US, we may transfer data to them if they are part of the Privacy Shield which requires them to provide similar protection to personal data shared between the Europe and the US. For further details, see [European Commission: EU-US Privacy Shield](https://ec.europa.eu/info/strategy/justice-and-fundamental-rights/data-protection/data-transfers-outside-eu/eu-us-privacy-shield_en).
-
-### Links to third party sites
-
-Please note that where we provide links to third party websites that are not affiliated with The Register such sites are out of our control and are not covered by this Privacy Policy, regardless of whether they use our branding or logo on their websites. If you access third party sites using the links provided, the operators of these sites may collect information from you that could be used by them, in accordance with their own privacy policies. Please check these policies before you submit any personal data to these websites.
-
-### How long do we keep your information for?
-
-#### Data retention
-
-We will only retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.
-
-To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirement.
-
-In some circumstances you can ask us to delete your data: see '[Your Rights](#s7)' below for further information.
+By law we have to keep basic information about our customers (including contact, identity, financial and transaction data) for six years after they cease being customers for compliance purposes. In some circumstances you can ask us to delete some or all of your data earlier: see 'Your Rights' below for further information.
 
 In some circumstances we may anonymise your personal data (so that it can no longer be associated with you) for research or statistical purposes in which case we may use this information indefinitely without further notice to you.
 
-#### Data storage and security
+We may also collect, use and share aggregated data such as statistical or demographic data for any purpose. Aggregated data could be derived from your personal data but is not considered personal data in law as this data will not directly or indirectly reveal your identity. For example, we may aggregate your usage data to calculate the percentage of users accessing a specific website feature.
 
-The Register takes the protection of your information very seriously. We use encryption (SSL) to protect your personal data when appropriate, and all the information provided to The Register is stored securely once we receive it.
+### Security
 
-The Register may store your personal data on secure servers either on our premises or in secure third party data centres.
+We take the protection of your information very seriously. We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed, including use of secure servers (on our premises or in secure third-party data centres), encryption (SSL) and passwords. If you have ever chosen a password, or we have given you one, which enables you to access certain parts of this Website, you are responsible for keeping this password confidential. We ask you not to share the password with anyone.
 
-Aptum Technologies Ltd, whose servers are located in the EEA and the USA, hosts The Register's Website
+In addition, we limit access to your personal data to those employees, agents, contractors and other third parties who have a business need to know. They will only process your personal data on our instructions and they are subject to a duty of confidentiality.
+
+We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach where we are legally required to do so.
+
+### International Data Transfers
+
+If you are based in Europe please note that we use service providers that may be based outside of the UK and/or the European Economic Area (the "**EEA**"). These service providers may work for us or for one of our suppliers and may be engaged in, among other things, the fulfilment of your request for information from the Website, the processing of your payment details and the provision of services, products or other support services. For example we use Aptum Technologies Ltd, whose servers are located in the EEA and the USA, to host the Website.
+
+We endeavour to minimise the number of international data transfers which take place without your prior knowledge and authorisation (such as where you use the Website to interact directly with another user who is based outside of the UK or EEA, or where the transfer is one that you actively make happen). Where we do use providers based outside of Europe, we usually do so in order to ensure that the Website can work seamlessly in multiple jurisdictions.
+
+Where we transfer your data to a service provider that is outside of the UK or EEA we seek to ensure that appropriate safeguards are in place to make sure that your personal data is held securely and that your rights as a data subject are upheld. Transfers of personal data are either made:
+
+*   to a country recognised by the European Commission as providing an adequate level of protection; or
+*   to a country which does not offer adequate protection but whose transfer has been governed by the standard contractual clauses of the European Commission or by implementing other appropriate cross-border transfer solutions to provide adequate protection.
+
+By submitting your personal data, you agree to this transfer, storing or processing. If you would like more information about the mechanism via which your personal data is transferred, please contact [readerservices@situationpublishing.com](mailto:readerservices@situationpublishing.com).
 
 ### Your Rights
 
-As a data subject you have a number of rights in relation to your personal data. Below, we have described the various rights that you have, as well as how you can exercise them.
+If you are resident in the UK or the EEA then the following information about your rights is relevant to you. This part of the Policy is a mandatory statement which summarises certain law applicable in your jurisdiction. It is not a replacement for, nor an extension of, your legal rights so should be read only as a summary of that legislation.
 
-#### Right of Access
+This section is not applicable to you if you do not reside in one of the regions described above.
 
-You may, at any time, request access to the personal data that we hold which relates to you (you may have heard of this right being described as a "subject access request").
+If you are a resident of one of the regions described above then you have the following rights in relation to your personal data held by us:
+
+**Right of Access**
+
+You may, at any time, request access to the personal data that we hold which relates to you (you may have heard of this right being described as a "**subject access request**").
 
 Please note that this right entitles you to receive a copy of the personal data that we hold about you in order to enable you to check that it is correct and to ensure that we are processing that personal data lawfully. It is not a right that allows you to request personal data about other people, or a right to request specific documents from us that do not relate to your personal data.
 
-You can exercise this right at any time by writing to us using the contact details set out [here](#s8) and telling us that you are making a subject access request. You do not have to fill in a specific form to make this kind of request.
+You can exercise this right at any time by writing to us and telling us that you are making a subject access request. You do not have to fill in a specific form to make this request.
 
-#### Your Right to Rectification and Erasure
+**Your Right to Rectification and Erasure**
 
-You may, at any time, request that we correct personal data that we hold about you which you believe is incorrect or inaccurate. You may also ask us to erase personal data if you do not believe that we need to continue retaining it (you may have heard of this right described as the "right to be forgotten").
+You may, at any time, request that we correct personal data that we hold about you which you believe is incorrect or inaccurate. You may also ask us to erase personal data if you do not believe that we need to continue retaining it (you may have heard of this right described as the "**right to be forgotten**").
 
-Please note that we may ask you to verify any new data that you provide to us and may take our own steps to check that the new data you have supplied us with is right. Further, we are not always obliged to erase personal data when asked to do so; if for any reason we believe that we have a good legal reason to continue processing personal data that you ask us to erase we will tell you what that reason is at the time we respond to your request.
+Please note that we may ask you to verify any new data that you provide to us and may take our own steps to check that the new data you have supplied us with is right. Further, we are not always obliged to erase personal data when asked to do so if, for example, we have an ongoing legal obligation or need to continue processing that personal data.
 
-You can exercise this right at any time by writing to us using the contact details set out [here](#s8) and telling us that you are making a request to have your personal data rectified or erased and on what basis you are making that request. If you want us to replace inaccurate data with new data, you should tell us what that new data is. You do not have to fill in a specific form to make this kind of request.
+You can exercise this right at any time by writing to us and telling us that you are making a request to have your personal data rectified or erased and on what basis you are making that request. If you want us to replace inaccurate data with new data, you should tell us what that new data is. You do not have to fill in a specific form to make this kind of request.
 
-#### Your Right to Restrict Processing
+**Your Right to Restrict Processing**
 
-Where we process your personal data on the basis of a legitimate interest (see the section of this Privacy Policy which explains why we use your personal data) you are entitled to ask us to stop processing it in that way if you feel that our continuing to do so impacts on your fundamental rights and freedoms or if you feel that those legitimate interests are not valid.
+Where we process your personal data on the basis of a legitimate interest (see the sections of this Policy which explain how and why we use your information) you are entitled to ask us to stop processing it in that way if you feel that our continuing to do so impacts on your fundamental rights and freedoms or if you feel that those legitimate interests are not valid.
 
 You may also ask us to stop processing your personal data (a) if you dispute the accuracy of that personal data and want us verify that data's accuracy; (b) where it has been established that our use of the data is unlawful but you do not want us to erase it; (c) where we no longer need to process your personal data (and would otherwise dispose of it) but you wish for us to continue storing it in order to enable you to establish, exercise or defend legal claims.
 
-Please note that if for any reason we believe that we have a good legal reason to continue processing personal data that you ask us to stop processing, we will tell you what that reason is, either at the time we first respond to your request or after we have had the opportunity to consider and investigate it.
+We will comply with your request unless we have an ongoing legal obligation or need to continue processing personal data that you ask us to stop processing; a compelling overriding legitimate interest for such processing; or we need to continue processing your personal data to establish, exercise or defend a legal claim.
 
-You can exercise this right at any time by writing to us using the contact details set out [here](#s8) and telling us that you are making a request to have us stop processing the relevant aspect of your personal data and describing which of the above conditions you believe is relevant to that request. You do not have to fill in a specific form to make this kind of request.
+You can exercise this right at any time by writing to us and telling us that you are making a request to have us stop processing the relevant aspect of your personal data and describing which of the above conditions you believe is relevant to that request. You do not have to fill in a specific form to make this kind of request.
 
-#### Your Right to Portability
+**Your Right to Portability**
 
-Where you wish to transfer certain personal data that we hold about you, which is processed by automated means, to a third party you may write to us and ask us to provide it to you in a commonly used machine-readable format.
+Where you wish to transfer personal data that we hold about you, which is processed by automated means, to a third party you may write to us and ask us to provide it to you in a commonly used machine-readable format.
 
-Because of the kind of work that we do and the systems that we use, we do not envisage this right being relevant to the majority of individuals with whom we interact. However, if you wish to transfer your data from us to a third party we will consider such requests.
+Because of the kind of work that we do and the systems that we use, we do not envisage this right being particularly relevant to the majority of individuals with whom we interact. However, if you wish to transfer your data to a third party we are happy to consider such requests.
 
-#### Your Right to stop receiving communications
+**Your Right to stop receiving communications**
 
-For details on your rights to ask us to stop sending you various kinds of communications, please [contact us](mailto:readerservices@situationpublishing.com).
+Where we send you e-mail marketing communications (or other regulated electronic messages) you have the right to opt-out at any time. You can do this by using the 'unsubscribe' link that appears in the footer of each communication (or the equivalent mechanism in those communications).
 
-#### Your Right to object to automated decision making and profiling
+Alternatively, if for any reason you cannot use those links, or if you would prefer to contact us directly - you can unsubscribe by writing to us at [readerservices@situationpublishing.com](mailto:readerservices@situationpublishing.com) and telling us which communications you would like us to stop sending you. Please note that where you request a change in this way it is likely to take longer for your request to take effect.
+
+**Your Right to object to automated decision making and profiling**
 
 You have the right to be informed about the existence of any automated decision making and profiling of your personal data, and where appropriate, be provided with meaningful information about the logic involved, as well as the significance and the envisaged consequences of such processing that affects you.
 
-#### Exercising your rights
+If you want more information about any automated decision making and profiling or to object to the same you can exercise this right at any time by writing to us and telling us that you are making such a request. You do not have to fill in a specific form to make this kind of request.
+
+**Exercising your rights**
 
 When you write to us making a request to exercise your rights we are entitled to ask you to prove that you are who you say you are. We may ask you to provide copies of relevant ID documents to help us to verify your identity.
 
-It will help us to process your request if you clearly state which right you wish to exercise and, where relevant, why it is that you are exercising it. The clearer and more specific you can be the faster and more efficiently we can deal with your request. If you do not provide us with sufficient information then we may delay actioning your request until you have provided us with additional information (and where this is the case we will tell you).
+It will help us to process your request if you clearly state which right you wish to exercise and, where relevant, why it is that you are exercising it. The clearer and more specific you can be, the faster and more efficiently we can deal with your request. If you do not provide us with sufficient information then we may delay actioning your request until you have provided us with additional information (and where this is the case we will tell you).
 
-### Your California Privacy Rights
+You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we could refuse to comply with your request in these circumstances.
 
-The California Consumer Privacy Act (“CCPA) provides certain rights for California consumers. If you are a consumer residing in California you may ask us about the information we release to other organisations for their marketing purposes. For a complete statement of these rights under the California Consumer Privacy Act (CCPA), including the right to opt out of the selling of your personal data and how you can exercise them please visit [Your California Privacy Rights](https://www.theregister.com/Profile/privacy_policy_california_residents/).
+We try to respond to all legitimate requests within one month. Occasionally it could take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated.
 
-#### Contacting us
+**Statutory Regulator**
 
-If you wish to contact Situation Publishing Limited regarding any aspect of the Privacy Policy you should use the following contact details:
+If you are unhappy with the way that we have processed your data then you have the right to lodge a complaint with your local data and privacy regulator. If you wish to do so then you can write to them using their published contact details. We would however appreciate the chance to address your concerns before you approach the supervisory authority so please contact us in the first instance.
 
-**By Post**
+If you are located in the UK then your local regulator is the Information Commissioner's Office. If you are resident in the European Union then details of your local regulator are published by the European Data Protection Board.
 
-Head of Data Protection  
-Situation Publishing Limited  
-Unit 1 Portland Street Trading Estate  
-14 Portland Street  
-Southport  
-PR8 1LJ
+**Your California Privacy Rights**
 
-**By Email**  
-Reader Services: [readerservices@situationpublishing.com](mailto:readerservices@situationpublishing.com)
+The California Consumer Privacy Act ("**CCPA**") provides certain rights for California consumers. If you are a consumer residing in California you may ask us about the information we release to other organisations for their marketing purposes. For a complete statement of these rights under the CCPA, including the right to opt out of the selling of your personal data and how you can exercise them please visit our [CCPA statement](https://www.theregister.com/Profile/privacy_policy_california_residents/).
+
+### Contact Details
+
+If you have any queries regarding this Policy, if you wish to exercise any of your rights set out above or if you think that the Policy has not been followed, please contact us by e-mailing at [readerservices@situationpublishing.com](mailto:readerservices@situationpublishing.com).
 
 **Get our** [Tech Resources](https://whitepapers.theregister.com/)
