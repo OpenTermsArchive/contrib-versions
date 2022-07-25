@@ -304,4 +304,8 @@
         
     2.  Payward will hold, reject or block (as appropriate) any deposit, withdrawal, trade or transaction involving sanctioned jurisdictions or persons on the SDN List, Consolidated Non-SDN Lists, UN Security Council Consolidated List, or regional or foreign government watchlists or persons otherwise subject to sanctions. We reserve the right to lock, disable and/or close accounts under review for sanctions compliance violations.
         
-    3.  By using Payward software, you represent and warrant that you are not located in an embargoed country or jurisdiction (currently, Crimea, Cuba, Donetsk, Iran, Luhansk, North Korea, Sudan and Syria) or on the Office of Foreign Assets Control’s SDN List or the U.S. Department of Commerce’s Entity List available [here](https://www.trade.gov/consolidated-screening-list). You also agree that Payward software will not be used, exported, reexported or transferred for any purpose prohibited by U.S. or local export or import control laws and regulations.
+    3.  By using Payward software, you represent and warrant that you are not located in an embargoed country or jurisdiction (currently, Crimea, Cuba, Donetsk, Iran, Luhansk, North Korea, Sudan and Syria) or on the Office of Foreign Assets Control’s SDN List or the U.S. Department of Commerce’s Entity List available [here](https://www.trade.gov/consolidated-screening-list). You also agree that Payward software will not be used, exported, reexported or transferred for any purpose prohibited by U.S. or local export or import control laws and regulations. 
+        
+27.  ### Referral Program
+    
+    Kraken may, from time to time, offer a referral program for users with a current Kraken Account. The terms of any such referral program will be contained on the Kraken.com page for that referral program.
