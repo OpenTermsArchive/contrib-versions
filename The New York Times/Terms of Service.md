@@ -8,19 +8,19 @@ For information on how NYT collects, uses and shares any personal information, p
 
 **Table of Contents**
 
-1.  [GENERAL RULES AND DEFINITIONS](#1)
-2.  [CONTENT ON THE SERVICES](#2)
-3.  [USER-GENERATED CONTENT: SUBMISSIONS, INCLUDING COMMENTS AND MORE](#3)
-4.  [PROHIBITED USE OF THE SERVICES](#4)
-5.  [REPRESENTATIONS AND WARRANTIES; INDEMNIFICATION; LIMITATION OF LIABILITIES](#5)
-6.  [REGISTRATION AND SECURITY](#6)
-7.  [FEES AND PAYMENTS](#7)
-8.  [THIRD-PARTY CONTENT AND LINKS TO THIRD-PARTY WEBSITES](#8)
-9.  [SOFTWARE LICENSES](#9)
-10.  [TERMINATION](#10)
-11.  [GOVERNING LAW; JURISDICTION; **WAIVER OF CLASS ACTIONS**.](#11)
-12.  [MISCELLANEOUS](#12)
-13.  [SPECIAL TERMS: BETA TESTING](#13)
+1. [GENERAL RULES AND DEFINITIONS](#1)
+2. [CONTENT ON THE SERVICES](#2)
+3. [USER-GENERATED CONTENT: SUBMISSIONS, INCLUDING COMMENTS AND MORE](#3)
+4. [PROHIBITED USE OF THE SERVICES](#4)
+5. [REPRESENTATIONS AND WARRANTIES; INDEMNIFICATION; LIMITATION OF LIABILITIES](#5)
+6. [REGISTRATION AND SECURITY](#6)
+7. [FEES AND PAYMENTS](#7)
+8. [THIRD-PARTY CONTENT AND LINKS TO THIRD-PARTY WEBSITES](#8)
+9. [SOFTWARE LICENSES](#9)
+10. [TERMINATION](#10)
+11. [GOVERNING LAW; JURISDICTION; **WAIVER OF CLASS ACTIONS**.](#11)
+12. [MISCELLANEOUS](#12)
+13. [SPECIAL TERMS: BETA TESTING](#13)
 
 **1\. GENERAL RULES AND DEFINITIONS**
 
@@ -114,7 +114,7 @@ You consent to receive notifications from us electronically to the e-mail addres
 
 6.4 You are responsible for all usage or activity on your account with NYT, including use of the account by any third party authorized by you to use your login credentials. Any fraudulent, abusive, or otherwise illegal activity may be grounds for termination of your account, at our sole discretion, and we may refer you to appropriate law-enforcement agencies.
 
-6.5 If your access to any Service has been provided by or through a third party (for example, your employer or an educational institution at which you are a student) (each, a “**Client**”), the Client may have provided us with information about you to enable us to provide you with access to the Services and distinguish you from other subscribers (such as your IP address, email address or name). 
+6.5 If your access to any Service has been provided by or through a third party (for example, your employer or an educational institution at which you are a student) (each, a “**Client**”), the Client may have provided us with information about you to enable us to provide you with access to the Services and distinguish you from other subscribers (such as your IP address, email address or name). 
 
 * * *
 
@@ -142,7 +142,7 @@ You consent to receive notifications from us electronically to the e-mail addres
 
 10.2 NYT may, in its sole discretion, terminate or suspend your access to all or part of the Services for any reason, including, without limitation, breach or assignment of these Terms of Service.
 
-10.3 The provisions of these Terms of Service shall survive the termination of your account or access to all or part of the Services. 
+10.3 The provisions of these Terms of Service shall survive the termination of your account or access to all or part of the Services. 
 
 * * *
 
@@ -150,7 +150,7 @@ You consent to receive notifications from us electronically to the e-mail addres
 
 11.1 These Terms of Service have been made and shall be construed and enforced in accordance with the laws of the United States of America and the State of New York as an agreement wholly performed therein without regard to their conflict of law provisions and the United Nations Conventions on Contracts (if applicable).
 
-11.2 Any claim or cause of action arising out of or related to use of the Services or these Terms of Services must be filed within one year after such claim or cause of action arose or be forever barred. Any claim by you that may arise in connection with these Terms of Service will be compensable by monetary damages and you will in no event be entitled to injunctive or other equitable relief. 
+11.2 Any claim or cause of action arising out of or related to use of the Services or these Terms of Services must be filed within one year after such claim or cause of action arose or be forever barred. Any claim by you that may arise in connection with these Terms of Service will be compensable by monetary damages and you will in no event be entitled to injunctive or other equitable relief. 
 
 11.3 **WAIVER OF CLASS ACTIONS****.** YOU AND NYT AGREE THAT EACH PARTY MAY BRING DISPUTES AGAINST THE OTHER PARTY ONLY IN AN INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING, INCLUDING, WITHOUT LIMITATION, A FEDERAL OR STATE CLASS ACTION LAWSUIT. However, nothing in this paragraph 11.3 limits your right or NYT’s right to bring a lawsuit against each other as an individual plaintiff.
 
@@ -170,15 +170,15 @@ You consent to receive notifications from us electronically to the e-mail addres
 
 12.6 If a provision of these Terms of Service is held invalid or unenforceable for any reason, that provision shall be construed in a manner consistent with applicable law to reflect, as nearly as possible, the intention of the parties, and the remaining provision will not be affected and remain in full force and effect.
 
- 12.7 If you believe that your work has been copied in a way that constitutes copyright infringement, please provide us the following information in writing to NYT's Copyright Agent (see 17 U.S.C. § 512(c)(3) for further detail). Please be advised that to be effective, the Notice must include ALL of the following:
+ 12.7 If you believe that your work has been copied in a way that constitutes copyright infringement, please provide us the following information in writing to NYT's Copyright Agent (see 17 U.S.C. § 512(c)(3) for further detail). Please be advised that to be effective, the Notice must include ALL of the following:
 
-1.  a physical or electronic signature of the person authorized to act on behalf of the owner of an exclusive copyright that is allegedly infringed;  
+1. a physical or electronic signature of the person authorized to act on behalf of the owner of an exclusive copyright that is allegedly infringed;  
     
-2.  a description of the copyrighted work that you claim has been infringed;
-3.  a description of where the material that you claim is infringing is located on the Site
-4.  your address, telephone number, and email address and all other information reasonably sufficient to permit us to contact you;
-5.  a statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law;
-6.  a statement by you, made under penalty of perjury, that the above information in your Notice is accurate and that you are the copyright owner or authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+2. a description of the copyrighted work that you claim has been infringed;
+3. a description of where the material that you claim is infringing is located on the Site
+4. your address, telephone number, and email address and all other information reasonably sufficient to permit us to contact you;
+5. a statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law;
+6. a statement by you, made under penalty of perjury, that the above information in your Notice is accurate and that you are the copyright owner or authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
 
 If you believe that any content or materials you uploaded, posted, or submitted to the NYT Service, that were subsequently removed from the NYT Service, or to which access was disabled, improperly removed or disabled, please provide the following Counter-Notification to NYT's Copyright Agent (see 17 U.S.C. § 512(g) for further detail):
 
