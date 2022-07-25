@@ -186,4 +186,4 @@ Attn: Privacy
   
 Telephone: (310) 904-6433  
   
-E-mail: [su\[email protected\]](http://www.shockwave.com/cdn-cgi/l/email-protection#removed)
+E-mail: [\[email protected\]](http://www.shockwave.com/cdn-cgi/l/email-protection#removed)
