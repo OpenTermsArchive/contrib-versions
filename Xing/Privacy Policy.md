@@ -4,7 +4,7 @@ Privacy Policy (printable version)
 General information
 -------------------
 
-*   Last updated: 22 March 2022
+*   Last updated: 22 July 2022
 *   Here we inform you about data processing in connection with the entire service XING and its applications (kununu etc.).
 *   New Work SE is the body responsible for the processing of personal data.
 *   Our Data Protection Officer is Felix Lasse.
@@ -322,7 +322,12 @@ The legal basis for this processing of [personal data](https://privacy.xing.com/
 #### Data when providing user feedback
 
 If you provide us with feedback of your own volition or when taking part in one of our surveys, we will process your data in order to conduct the survey, or to evaluate and, where applicable, implement your feedback.  
-In some cases we may ask for separate consent from you to process your data provided as part of a survey.
+In some cases we may ask for separate consent from you to process your data provided as part of a survey.  
+We want to understand your needs so we can make XING even better for everyone. To this end, we may link your profile and usage data to your answers.
+
+#### Visibility
+
+Please note that we always handle and evaluate your data confidentially. We don't publish any of your data, and we don't disclose it to third parties.
 
 #### Period saved for
 
