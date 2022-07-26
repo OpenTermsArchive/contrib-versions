@@ -3,8 +3,6 @@ NextRoll's Terms of Service
 
 To see our prior terms of service, [click here](https://nextroll.test/terms/archived).
 
-To see our older terms of service, [click here](https://nextroll.test/terms/archived-old).
-
 **Effective: July 25, 2022**
 
 These Terms of Service, together with applicable Services Addenda, Order Forms, Insertion Orders, and materials referenced herein (collectively, this “**Agreement**”), describe the terms and conditions under which you (“**Customer**”) may access and use the Services (defined below) of NextRoll, Inc. (“**NextRoll**”).
@@ -30,7 +28,7 @@ NEXTROLL MAY UPDATE OR OTHERWISE MODIFY THIS AGREEMENT FROM TIME TO TIME. CUSTOM
 *   [RESOLVING DISPUTES](#resolving-disputes)
 *   [MISCELLANEOUS](#miscellaneous)
 
-[](#services-addenda)
+[SERVICES ADDENDA](#services-addenda)
 
 * * *
 
@@ -45,7 +43,7 @@ NEXTROLL MAY UPDATE OR OTHERWISE MODIFY THIS AGREEMENT FROM TIME TO TIME. CUSTOM
     
 *   **“Agency(ies)”** means an advertising agency that manages Services on behalf of one or more Clients (defined in Section 4.1), and has executed an Order Form or Insertion Order.  References to “Customers” shall include Agencies. 
     
-*   **“Applicable Law(s)”** means any applicable federal, state, and foreign laws or regulations or any industry self-regulatory rules or guidelines that relate to a party’s rights and obligations under this Agreement (including, but not limited to, the Interactive Advertising Bureau (IAB) Guidelines, Standards & Best Practices, the Network Advertising Initiative (NAI) Code of Conduct, the Digital Advertising Alliance (DAA) Self-Regulatory Principles for Online Behavioral Advertising, the General Data Protection Regulation (EU) 2016/679 (GDPR), the California Consumer Privacy Act of 2018 (CCPA), the California Privacy Rights Act of 2020(CPRA), and the Childrens’ Online Privacy Protection Act (COPPA)).
+*   **“Applicable Law(s)”** means any applicable federal, state, and foreign laws or regulations or any industry self-regulatory rules or guidelines that relate to a party’s rights and obligations under this Agreement (including, but not limited to, the Interactive Advertising Bureau (IAB) Guidelines, Standards & Best Practices, the Network Advertising Initiative (NAI) Code of Conduct, the Digital Advertising Alliance (DAA) Self-Regulatory Principles for Online Behavioral Advertising, the General Data Protection Regulation (EU) 2016/679 (GDPR), the California Consumer Privacy Act of 2018 (CCPA), the California Privacy Rights Act of 2020 (CPRA), and the Childrens’ Online Privacy Protection Act (COPPA)).
     
 *   **“Authorized Reseller”** means an entity that is authorized by NextRoll to resell the Services to Clients (defined in Section 4.1) through its own proprietary platform, that has executed an Order Form or Insertion Order.  References to “Customers” shall include Authorized Resellers.
     
@@ -240,17 +238,15 @@ NEXTROLL MAY UPDATE OR OTHERWISE MODIFY THIS AGREEMENT FROM TIME TO TIME. CUSTOM
 
 1.  Consent Mechanism. Where the Customer Sites attract End Users from European Territories, Customer must deploy a consent and transparency mechanism (“Consent Mechanism”) on Customer Sites to obtain End User consent to NextRoll (and its Network) placing cookies or similar tracking technologies on End Users' browsers. The foregoing obligations shall also apply where the Customer Sites attract visitors from other jurisdictions that require Consent Mechanisms with respect to the placement of or access to cookies or similar tracking technologies on visitors’ devices and/or specific data transfer mechanisms under Applicable Law.
     
-2.  Privacy Notice.
+2.  Privacy Notice.  
+    An online privacy notice that: 
     
-
- An online privacy notice that:
-
-1.  Discloses the categories of data collected by NextRoll, and the purposes for which data is collected and used by NextRoll. NextRoll’s Service Privacy Notice ([https://www.nextroll.com/privacy](https://www.nextroll.com/privacy)) identifies this information and Customer may provide a link to NextRoll’s privacy notice in Customer’s privacy notice; and
-    
-2.  Includes instructions on how End Users can control the collection of data and opt-out from receiving interest-based advertising, for example, through opt-out pages at: [http://www.networkadvertising.org/choices/](http://www.networkadvertising.org/choices/), [http://www.aboutads.info/](http://www.aboutads.info/) or, for End Users located in European Territories, the EDAA opt-out page at [http://youronlinechoices.eu/](http://youronlinechoices.eu/).
-    
-3.  Includes instructions on how End Users how they may opt-out from receiving cross-site advertising, by accessing their device setting or visiting and employing the controls described on the NAI’s Mobile Choices page.
-    
+    1.  Discloses the categories of data collected by NextRoll, and the purposes for which data is collected and used by NextRoll. NextRoll’s Service Privacy Notice ([https://www.nextroll.com/privacy](https://www.nextroll.com/privacy)) identifies this information and Customer may provide a link to NextRoll’s privacy notice in Customer’s privacy notice; and 
+        
+    2.  Includes instructions on how End Users can control the collection of data and opt-out from receiving interest-based advertising, for example, through opt-out pages at: [http://www.networkadvertising.org/choices/](http://www.networkadvertising.org/choices/), [http://www.aboutads.info/](http://www.aboutads.info/) or, for End Users located in European Territories, the EDAA opt-out page at [http://youronlinechoices.eu/](http://youronlinechoices.eu/).
+        
+    3.  Includes instructions on how End Users how they may opt-out from receiving cross-site advertising, by accessing their device setting or visiting and employing the controls described on the NAI’s Mobile Choices page.
+        
 
 More information and guidelines on privacy notice best practices  can be found here: (for AdRoll Customers [https://help.adroll.com/hc/en-us/articles/216104687-Privacy-Notice-Requirement](https://help.adroll.com/hc/en-us/articles/216104687-Privacy-Notice-Requirement)) (for RollWorks Customers [https://help.rollworks.com/hc/en-us/articles/360036024352-Privacy-Notice-Requirements](https://help.rollworks.com/hc/en-us/articles/360036024352-Privacy-Notice-Requirements)).
 
@@ -347,7 +343,8 @@ All terminations (cancellations) and downgrades will take effect at the end of t
 
 Following termination of this Agreement, NextRoll reserves the right to permanently delete all Customer CRM Data stored on the NextRoll Services without further notice to Customer.
 
-**11.7  Survival.** The following Sections will survive expiration or termination of this Agreement: Sections 1, 4 -14 (as applicable).
+**11.7  Survival.** The following Sections will survive expiration or termination of this Agreement: Sections 1,  
+4 -14 (as applicable).
 
 |     |     |
 | --- | --- |
@@ -427,7 +424,7 @@ Notices to Customer will be sent to the email address on file and/or posted thro
 
 |     |     |
 | --- | --- |
-| ### | [Back to top](#terms-index) |
+| ### SERVICES ADDENDA | [Back to top](#terms-index) |
 
 **THE FOLLOWING ADDITIONAL TERMS AND CONDITIONS WILL APPLY TO THE SERVICES, AS APPLICABLE:**
 
