@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-#### Last Updated: July 12, 2022
+#### Last Updated: July 26, 2022
 
 #### 1\. Universal Service Terms (Applicable to All Services)
 
@@ -1165,5 +1165,11 @@ Amazon FinSpace is a tool to help you analyze data for investment and business d
 **86.5** For purposes of your use of AWS DeepRacer Student, Amazon Web Services, Inc. is the AWS Contracting Party under the Agreement.
 
 **86.6** You must be a student in high school or a higher education institution, and at least 16 years old, to use AWS DeepRacer Student. If you are under 18 years of age, or the age of majority in your location, you may use AWS DeepRacer Student only with involvement of a parent or guardian who agrees to be bound by these Service Terms.
+
+### 87\. Amazon GuardDuty
+
+**87.1** “Malware Content” is Your Content that the Amazon GuardDuty Malware Protection feature processes and identifies as being malicious or harmful. 
+
+**87.2** You agree and instruct that: (a) we may use and store Malware Content to maintain and provide Amazon GuardDuty (including development and improvement of Amazon GuardDuty and its underlying technologies); (b) we may use and store Malware Content that is not personal data to develop and improve other AWS security services; and (c) solely in connection with the development and improvement described in clauses (a) and (b), we may store such Malware Content in an AWS region outside the AWS region where you are using the Amazon GuardDuty Malware Protection feature. You may instruct AWS not to use and store Malware Content to develop and improve Amazon GuardDuty or other AWS security services by configuring an AI services opt out policy using AWS Organizations.
 
 [Previous version(s)](https://aws.amazon.com/service-terms/historical/)
