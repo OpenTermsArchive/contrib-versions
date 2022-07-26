@@ -6,7 +6,7 @@ This Privacy Notice describes how Binance collects and processes your personal i
 
 This Privacy Policy applies to all platforms, websites, and departments of Binance and Binance Operators. By using Binance Services, you are consenting to the collection, storage, processing and transfer of your personal information as described in this Privacy Policy.
 
-Binance Services Holdings Limited, a company registered at 6th Floor, South Bank House, Barrow Street, 4 Dublin, Ireland, is the data controller for personal information collected in connection with provision of Binance services.
+Binance Holdings (IE) Limited, a company registered at 6th Floor, South Bank House, Barrow Street, 4 Dublin, Ireland, is the data controller for personal information collected in connection with provision of Binance services.
 
 ### 1\. What Personal Information does Binance collect and process? Why does Binance process my personal information ? What are the legal basis for our use of personal information?
 
