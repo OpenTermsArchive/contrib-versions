@@ -3,8 +3,8 @@ Terms of Service
 *   [Terms of Service](https://miro.com/legal/terms-of-service)
 *   [Master Cloud Agreement](https://miro.com/legal/master-cloud-agreement)
 *   [Privacy Policy](https://miro.com/legal/privacy-policy)
-*   [Recruitment Privacy Policy](https://miro.com/legal/recruitment-privacy-policy)
 *   [Cookies Policy](https://miro.com/legal/cookies-policy)
+*   [Recruitment Privacy Policy](https://miro.com/legal/recruitment-privacy-policy)
 *   [Developer Terms of Use](https://miro.com/legal/developer-terms-of-use)
 *   [Community Leader Program Terms and Conditions](https://miro.com/legal/community-leader-program-terms-and-conditions)
 *   [Online Community Terms of Use](https://miro.com/legal/online-community-terms-of-use)
@@ -13,6 +13,7 @@ Terms of Service
 *   [Current Subprocessors List](https://miro.com/legal/subprocessors-list)
 *   [Code of Conduct](https://miro.com/legal/code-of-conduct)
 *   [Prior Master Cloud Agreement "MCA" Versions](https://miro.com/legal/prior-master-cloud-agreement-mca-versions)
+*   [Miro Marketplace Terms of Use](https://miro.com/legal/miro-marketplace-terms-of-use)
 
 Terms of Service
 ----------------
