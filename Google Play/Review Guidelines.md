@@ -204,7 +204,7 @@ Gambling
 
 We allow real money gambling apps, ads related to real money gambling, loyalty programmes with gamified outcomes and daily fantasy sports apps that meet certain requirements.
 
-### Gambling apps
+#### Gambling apps
 
 Subject to restrictions and compliance with all Google Play policies, we allow apps that enable or facilitate online gambling in the following countries in the table below as long as the developer [completes the application process](https://support.google.com/googleplay/android-developer/contact/gambling) for gambling apps being distributed on Google Play, is an approved governmental operator and/or is registered as a licensed operator with the appropriate governmental gambling authority in the specified country, and provides a valid operating licence in the specified country for the type of online gambling product that they want to offer. 
 
@@ -1099,8 +1099,7 @@ However, if an app allows arbitrary code execution and we don’t have any reaso
 
 * * *
 
-Impersonation
--------------
+### Impersonation
 
 We don’t allow apps that mislead users by impersonating someone else (e.g. another developer, company or entity) or another app. Don’t imply that your app is related to or authorised by someone when it isn’t.  Be careful not to use app icons, descriptions, titles or in-app elements that could mislead users about your app’s relationship to someone else or another app.  
  
