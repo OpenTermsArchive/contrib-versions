@@ -1,7 +1,7 @@
 NextRoll's Terms of Service
 ===========================
 
-To see our prior terms of service, [click here](https://nextroll.test/terms/archived).
+To see our prior terms of service, [click here](https://nextroll.com/terms/archived).
 
 **Effective: July 25, 2022**
 
