@@ -240,7 +240,7 @@ How can I contact Evernote?
 Evernote welcomes your feedback regarding this Privacy Policy. If you have questions, comments or concerns about this Policy, please contact us by email at [privacy@evernote.com](mailto:privacy@evernote.com) or postal mail at:
 
 EVERNOTE CORPORATION  
-305 Walnut Street  
+2400 Broadway, Suite 210  
 Redwood City, California 94063 USA  
 Attention: Privacy Team
 
