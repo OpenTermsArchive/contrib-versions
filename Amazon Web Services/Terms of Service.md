@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-#### Last Updated: July 26, 2022
+#### Last Updated: July 27, 2022
 
 #### 1\. Universal Service Terms (Applicable to All Services)
 
@@ -1171,5 +1171,13 @@ Amazon FinSpace is a tool to help you analyze data for investment and business d
 **87.1** “Malware Content” is Your Content that the Amazon GuardDuty Malware Protection feature processes and identifies as being malicious or harmful. 
 
 **87.2** You agree and instruct that: (a) we may use and store Malware Content to maintain and provide Amazon GuardDuty (including development and improvement of Amazon GuardDuty and its underlying technologies); (b) we may use and store Malware Content that is not personal data to develop and improve other AWS security services; and (c) solely in connection with the development and improvement described in clauses (a) and (b), we may store such Malware Content in an AWS region outside the AWS region where you are using the Amazon GuardDuty Malware Protection feature. You may instruct AWS not to use and store Malware Content to develop and improve Amazon GuardDuty or other AWS security services by configuring an AI services opt out policy using AWS Organizations.
+
+### 88\. AWS Wickr (Preview)
+
+**88.1.** End Users.
+
+**88.1.1.** You may enable End Users to use AWS Wickr under your account. Termination of your account’s use of AWS Wickr may also may suspend or terminate such End Users’ features or access associated with your account or organization.
+
+**88.1.2.** AWS Wickr End Users can be managed by End Users with administrative privileges (“AWS Wickr Administrators”). AWS Wickr Administrators can (a) upgrade or downgrade End Users’ AWS Wickr feature set; (b) suspend End User’s access to AWS Wickr; and (c) access information about their End Users’ use of AWS Wickr.  
 
 [Previous version(s)](https://aws.amazon.com/service-terms/historical/)
