@@ -1,3 +1,5 @@
+Toggle the table of contents
+
 Terms of Use
 ============
 
