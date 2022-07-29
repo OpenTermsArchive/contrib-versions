@@ -17,7 +17,7 @@ We disclose account records solely in accordance with our terms of service and a
 
 It is important to note that some information we store is collected automatically, while other information is provided by the user. We do not require email or phone verification, and we do not require people to use real names or identities on Instagram.
 
-For additional information about Instagram, please read our [Privacy Policy](https://help.instagram.com/519522125107875?helpref=faq_content) and [Terms of Use](https://help.instagram.com/581066165581870?helpref=faq_content).
+For additional information about Instagram, please read our [Privacy Policy](https://privacycenter.instagram.com/policy/) and [Terms of Use](https://help.instagram.com/581066165581870?helpref=faq_content).
 
 Data Retention and Availability
 
@@ -70,7 +70,7 @@ Submission of Requests
 
 Online:
 
-Law enforcement officials may use the [Law Enforcement Online Request System](https://l.instagram.com/?u=https%3A%2F%2Fwww.facebook.com%2Frecords&e=AT2l1EflsKtRsz_2p1tMvzJlV247Ll3wKj8beyhf8oxFIw0EF5Cq5pOfg1G3R8ss7ZTEGYAoR9UbLz2wN9B5TwNdtvo4yYyU9VIupFPJpvj-iFkxdfpsVnwIoI5QAf9AKwKBpjN6qhzMlFEfb7qXSi3RCWlQT9IN01AqqQ) for the submission, tracking and processing of requests. A government-issued email address is required to access the Law Enforcement Online Request System.
+Law enforcement officials may use the [Law Enforcement Online Request System](https://l.instagram.com/?u=https%3A%2F%2Fwww.facebook.com%2Frecords&e=AT0ZMQPyFHIxTWrx8l-eVhFGkI0s5i0MopPEs5k6BnrK1aDcVhB1mfRZWLyHLnEWqkXmk4nd1qP5ujJVoCgpx87p0onPf1Z4ZUJzoijA0r2WC8NSLWnuhHmlBmhu5AR80yl6WW6hjvADd4HkUqB4XuTlAss0zM9TIGNaOQ) for the submission, tracking and processing of requests. A government-issued email address is required to access the Law Enforcement Online Request System.
 
 Please note:
 
@@ -95,4 +95,4 @@ Menlo Park, CA 94025.
 
 Mail:
 
-Law enforcement officials who do not submit requests through the [Law Enforcement Online Request System](https://l.instagram.com/?u=https%3A%2F%2Fwww.facebook.com%2Frecords&e=AT2l1EflsKtRsz_2p1tMvzJlV247Ll3wKj8beyhf8oxFIw0EF5Cq5pOfg1G3R8ss7ZTEGYAoR9UbLz2wN9B5TwNdtvo4yYyU9VIupFPJpvj-iFkxdfpsVnwIoI5QAf9AKwKBpjN6qhzMlFEfb7qXSi3RCWlQT9IN01AqqQ) should expect longer response times.
+Law enforcement officials who do not submit requests through the [Law Enforcement Online Request System](https://l.instagram.com/?u=https%3A%2F%2Fwww.facebook.com%2Frecords&e=AT0ZMQPyFHIxTWrx8l-eVhFGkI0s5i0MopPEs5k6BnrK1aDcVhB1mfRZWLyHLnEWqkXmk4nd1qP5ujJVoCgpx87p0onPf1Z4ZUJzoijA0r2WC8NSLWnuhHmlBmhu5AR80yl6WW6hjvADd4HkUqB4XuTlAss0zM9TIGNaOQ) should expect longer response times.
