@@ -251,7 +251,9 @@ En cas d'activité anormale d'un client sur le Site constatée par CDISCOUNT sur
 **3.5 Pratiques frauduleuses et remises promotionnelles  
 **  
 
-Toute manœuvre répétée ou non du client ayant pour but de bénéficier à tort d’une remise promotionnelle (code promo, bon de réduction etc.), telle que des annulations partielles de commande en vue de conserver indument une remise promotionnelle, sera considérée comme frauduleuse. A ce te titre, CDISCOUNT se réserve le droit de ne pas valider la commande, d’en suspendre l’exécution ou encore de suspendre ou clore le compte client conformément à l’article 3, faisant perdre définitivement au client le bénéfice de la réduction promotionnelle associée (immédiate ou différée).
+Toute manœuvre répétée ou non du client ayant pour but de bénéficier à tort d’une remise promotionnelle (code promo, bon de réduction etc.), telle que des annulations partielles de commande en vue de conserver indument une remise promotionnelle, sera considérée comme frauduleuse.  
+  
+A ce titre, CDISCOUNT se réserve le droit de ne pas valider la commande, d’en suspendre l’exécution ou encore de suspendre ou clore le compte client conformément à l’article 3, faisant perdre définitivement au client le bénéfice de la réduction promotionnelle associée (immédiate ou différée).
 
 Nonobstant ce qui précède, CDISCOUNT se réserve le droit d’engager toute action de recouvrement à l’encontre du client ayant bénéficié à tort et/ou via des manœuvres frauduleuses, de remises promotionnelles, afin de recouvrer les sommes indument perçues sur le fondement de l’article 1302-1 du code civil. 
 
@@ -266,7 +268,7 @@ Les modes de paiement listés ci-après peuvent être proposés par CDISCOUNT :
   
 (i) Cartes bancaires : Visa, Mastercard.  
   
-(ii) Paiement en « 4 fois » : le paiement en « 4 fois » peut être effectué par carte bancaire conformément aux conditions générales du paiement en « 4 fois », dont vous devez prendre connaissance au moment de la passation de votre commande.  Les conditions générales du paiement en « 4 fois » sont accessibles [en cliquant ici](https://i2.cdscdn.com/resources/ImagesOK/cgv/4f.pdf).
+(ii) Paiement en « 4 fois » : le paiement en « 4 fois » peut être effectué par carte bancaire conformément aux conditions générales du paiement en « 4 fois », dont vous devez prendre connaissance au moment de la passation de votre commande.  Les conditions générales du paiement en « 4 fois » sont accessibles [en cliquant ici](https://i1.cdscdn.com/odr/ImagesOK/CommercialOffer/conditions_78018202207011721497685.pdf).
 
  [](https://i2.cdscdn.com/resources/InterestRateConfiguration/4f.pdf) Le paiement en "4 fois" n'est pas proposé de manière systématique à tous nos clients et/ou pour toutes les commandes. Nous mettons en œuvre une décision individuelle automatisée afin d'identifier les clients et les commandes éligibles au paiement en "4 fois".  
   
