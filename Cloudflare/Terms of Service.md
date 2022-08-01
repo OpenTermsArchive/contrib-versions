@@ -85,7 +85,7 @@ We may offer free or trial versions of the Services (“Free Services”) from t
 
 ### 2.7 Acceptable Use
 
-By using the Services you are agreeing, among other things, that you will not use the Services to (a) falsely imply any sponsorship or association with Cloudflare; (b) post, transmit, store or link to any files, materials, data, text, audio, video, images or other content that infringe on any person��s intellectual property rights or that are otherwise unlawful; or (c) engage in any activities that are illegal, including disseminating, promoting or facilitating child sexual abuse material or engaging in human trafficking.
+By using the Services you are agreeing, among other things, that you will not use the Services to (a) falsely imply any sponsorship or association with Cloudflare; (b) post, transmit, store or link to any files, materials, data, text, audio, video, images or other content that infringe on any person’s intellectual property rights or that are otherwise unlawful; or (c) engage in any activities that are illegal, including disseminating, promoting or facilitating child sexual abuse material or engaging in human trafficking.
 
 ### 2.8 Limitation on Serving Non-HTML Content
 
