@@ -1879,7 +1879,7 @@ _ARTICLE 4 :  PRIX_
   
 4.2    Les commandes sont facturées au prix applicable au jour de l’émission du devis par Cdiscount ou de sa confirmation par email de la commande en ligne. Les prix sont susceptibles d’évoluer à tout moment. Il appartient donc au Client Pro de consulter sur le Site les prix en vigueur préalablement à toute passation de commande. En aucun cas, le Client Pro ne pourra invoquer un quelconque droit à l’encontre de Cdiscount aux fins de bénéficier d’un prix précédemment proposé ou proposé a posteriori par Cdiscount sur le Site.  
   
-4.3    Lorsque des avantages financiers sont convenus en fonction du chiffre d'affaires réalisé entre Cdiscount et le Client Pro, le chiffre d’affaires servant d’assiette correspond aux chiffres d’affaires hors toutes taxes (notamment, hors TVA, contribution Eco-Emballages, DEEE, Sorecop…) effectivement encaissés par Cdiscount pendant la période de référence.  
+4.3    Lorsque des avantages financiers sont convenus en fonction du chiffre d’affaires réalisé entre Cdiscount et le Client Pro, le chiffre d’affaires servant d’assiette correspond aux chiffres d’affaires hors toutes taxes (notamment, hors TVA, contribution Eco-Emballages, DEEE, Sorecop…) effectivement encaissés par Cdiscount pendant la période de référence.  
   
   
   
