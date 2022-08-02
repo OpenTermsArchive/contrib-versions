@@ -11,7 +11,7 @@ The use of the application contributes to the overall strategy of detecting cont
 
 ### Data controller and purpose
 
-The development coordination of which has been entrusted to Inria (Institut national de recherche en sciences et technologies du numérique), which is placed under the responsibility of the Direction générale de la santé du ministère des Solidarités et de la Santé.
+The development coordination of which has been entrusted to Inria (Institut national de recherche en sciences et technologies du numérique), which is placed under the responsibility of the Direction générale de la santé du ministère de la Santé et de la Prévention.
 
 The data will be used in order to:
 
@@ -29,15 +29,11 @@ The data will be used in order to:
 
 7° Keep certificates of vaccination and negative / positive tests for Covid-19, recovery from Covid-19 and exemption to vaccination;
 
-8° Convert 2D-DOC vaccination and negative / positive COVID-19 certificates to digital EU COVID certificates;
+8° Inform users of the application of their eligibility for the vaccine booster and of the expiration of their health certificate, by sending them targeted messages on the basis of the certificates present in the Wallet;
 
-9° Register during the visit in a defined venue subject to the contact tracing logbook (restaurants, bars, sports halls, etc.), from the "Cahier de rappel" module;
+9° Inform users in the event of invalidation of their health pass following the observation of fraudulent use of the health pass by a third person, whether or not the user is aware of it;
 
-10° Inform users of the application of their eligibility for the vaccine booster and of the expiration of their health pass, as part of the activity pass in France, by sending them targeted messages on the basis of the certificates present in the Wallet ;
-
-11° Inform users in the event of invalidation of their health pass following the observation of fraudulent use of the health pass by a third person, whether or not the user is aware of it.
-
-12° Aggregate several Covid-19 certificates in EU digital format available in the Wallet module of TousAntiCovid, in order to generate a vaccine pass.
+10° Aggregate several Covid-19 certificates in EU digital format available in the Wallet module of TousAntiCovid, in order to generate a valid health certificate.
 
 ### Legal basis and regulatory nature of the processing
 
@@ -64,13 +60,11 @@ Part of this data is used for the production of statistics:
 *   User Covid status and associated events;
 *   An application identifier specific to statistics.
 
-### Personal data processed by the IN Groupe central server and the Orange Business Services central server
-
-In the conversion process of a 2D-DOC certificate, the TousAntiCovid application uses the central servers of IN Groupe to obtain a digital COVID certificate from the European Union.
+### Personal data processed by the Orange Business Services central server
 
 The aggregation of several certificates is done on the central server of Orange Business Services.
 
-The data processed in the conversion and aggregation processes are listed below.
+The data processed in the aggregation process are listed below.
 
 Identification data (common to vaccine evidence, screening tests, recovery from Covid-19 and exemption to vaccination):
 
@@ -114,15 +108,15 @@ Data relating to the digital signature certificate (common to all certificates):
 
 ### Personal data processed in the TousAntiCovid application
 
-For the generation of proof of the exceptional travel certificate type, the information entered in this travel certificate generator is not processed by the ministère des Solidarités et de la Santé. This personal data is stored exclusively on the user's mobile phone in order to make it easier for him to complete the next exceptional travel certificate.
+For the generation of proof of the exceptional travel certificate type, the information entered in this travel certificate generator is not processed by the ministère de la Santé et de la Prévention. This personal data is stored exclusively on the user's mobile phone in order to make it easier for him to complete the next exceptional travel certificate.
 
 To obtain health information related to Covid-19 relating to a place of interest, the information entered is processed locally, on the user's phone, and is not subject to any transfer.
 
 For the storage of the vaccination certificate, negative / positive tests for Covid-19, recovery from Covid-19, exemption to vaccination, the information is processed locally, on the user's phone, and are not subject to any transfer.
 
-For the notification of eligibility for the vaccine booster or the expiration of the health pass (as part of the activity pass in France), the information is processed locally, on the user's phone, and does not make the subject to no transfer.
+For the notification of eligibility for the vaccine booster or the expiration of the health certificate, the information is processed locally, on the user's phone, and does not make the subject to no transfer.
 
-To fight against fraudulent use of health passes, information is processed locally, on the user's phone, and is not subject to any transfer. This local processing is based on the comparison of a hash of the certificate with those of a reference database hosted by Inria, previously downloaded in the mobile application.
+To fight against fraudulent use of health certificates, information is processed locally, on the user's phone, and is not subject to any transfer. This local processing is based on the comparison of a hash of the certificate with those of a reference database hosted by Inria, previously downloaded in the mobile application.
 
 For the aggregation of several digital certificates from the European Union, the Wallet module of TousAntiCovid carries out an initial filtering based on the last name, first name and date of birth.
 
@@ -135,7 +129,7 @@ The application may ask the user to authorize the use of his/her mobile phone's 
 For the information of having been near another user positive for Covid-19:
 
 *   Users identified by the application as contacts at risk of having contracted the Covid-19 virus are sent information according to which they have been near at least one other user diagnosed or screened positive for the Covid-19 virus.
-*   Inria as a subcontractor of the Direction générale de la santé du ministère des Solidarités et de la Santé.
+*   Inria as a subcontractor of the Direction générale de la santé du ministère de la Santé et de la Prévention.
 
 For the supporting documents required by the public authorities, such as an exceptional certificate:
 
@@ -148,7 +142,7 @@ For obtaining health information on news related to Covid-19 relating to a place
 
 For the production of statistics
 
-*   Inria as a subcontractor of the Direction générale de la santé du ministère des Solidarités et de la Santé.
+*   Inria as a subcontractor of the Direction générale de la santé du ministère de la Santé et de la Prévention.
 
 For the storage of vaccination certificates, negative / positive tests for Covid-19, recovery from Covid-19 or exemption to vaccination:
 
@@ -156,19 +150,15 @@ For the storage of vaccination certificates, negative / positive tests for Covid
 
 When displaying the certificates in the Wallet module:
 
-*   Public authorities and persons empowered, in accordance with the decree, to carry out health pass checks
-
-For the conversion of vaccination certificates and negative / positive tests to Covid-19:
-
-*   IN Groupe by providing a conversion API
+*   Public authorities and persons empowered, in accordance with the decree, to carry out health certificate checks
 
 For the aggregation of several European Union digital Covid-19 certificates:
 
 *   Orange Business Services by providing an aggregation API
 
-To fight against the fraudulent use of health passes:
+To fight against the fraudulent use of health certificates:
 
-*   Inria as a subcontractor of the Direction générale de la santé du ministère des Solidarités et de la Santé and responsible for providing the TousAntiCovid application, TAC Verif or third party device, the reference base of validated fraudulent health passes or vaccine passes by the Direction générale de la santé
+*   Inria as a subcontractor of the Direction générale de la santé du ministère de la Santé et de la Prévention and responsible for providing the TousAntiCovid application, TAC Verif or third party device, the reference base of validated fraudulent health certificates by the Direction générale de la santé
 
 ### Retention period
 
@@ -182,8 +172,6 @@ For the production of statistics: the data used is kept for three months.
 
 For the storage of vaccination certificates, recovery certificates or negative / positive tests for Covid-19: certificates can be deleted by the user at any time in the application.
 
-For the conversion of vaccination certificates, recovery certificates and negative / positive tests for Covid-19, by IN Groupe: no data is recorded by the central server during the conversion process.
-
 For the aggregation of vaccination certificates, recovery certificates or negative / positive Covid-19 tests, by Orange Business Services: no data is recorded by the central server during the aggregation process
 
 ### Exercising your rights
@@ -194,10 +182,10 @@ However, each user can, at any time, delete data on the mobile application himse
 
 The user can also at any time exercise his right to object to the development of anonymous statistics by deactivating them from the settings of the TousAntiCovid application.
 
-The user can declare, at any time, the fraudulent use of his health pass by e-mail by writing to revocation-passe-sanitaire@sante.gouv.fr and recover, after confirmation of his/her revocation, his/her new certificate on the site https://sidep.gouv.fr or https://attestation-vaccin.ameli.fr
+The user can declare, at any time, the fraudulent use of his health certificate by e-mail by writing to revocation-passe-sanitaire@sante.gouv.fr and recover, after confirmation of his/her revocation, his/her new certificate on the site https://sidep.gouv.fr or https://attestation-vaccin.ameli.fr
 
 The user can at any time via the "settings" of the application deactivate the Smart Wallet allowing them to receive targeted health recommendations, in particular on the eligibility for the vaccination booster and the expiration of certificates.
 
-For any questions about the processing of your personal data, you can consult either the website [https://faq.tousanticovid.gouv.fr/kb/fr/donnees-personnelles-26615](https://faq.tousanticovid.gouv.fr/kb/fr/donnees-personnelles-26615) or by email: [tousanticovid-rgpd@sante.gouv.fr](mailto:tousanticovid-rgpd@sante.gouv.fr) or by mail: Ministère des solidarités et de la santé - Data Protection Officer - Direction générale de la santé - 14 Avenue Duquesne 75350 Paris 07 SP.
+For any questions about the processing of your personal data, you can consult either the website [https://faq.tousanticovid.gouv.fr/kb/fr/donnees-personnelles-26615](https://faq.tousanticovid.gouv.fr/kb/fr/donnees-personnelles-26615) or by email: [tousanticovid-rgpd@sante.gouv.fr](mailto:tousanticovid-rgpd@sante.gouv.fr) or by mail: ministère de la Santé et de la Prévention - Data Protection Officer - Direction générale de la santé - 14 Avenue Duquesne 75350 Paris 07 SP.
 
 If you believe that your data is being processed in a way that does not comply with data protection law, you may submit a complaint to the CNIL (France’s data protection authority) [https://www.cnil.fr/fr/plaintes/](https://www.cnil.fr/fr/plaintes/) CNIL - Service des plaintes - 3 place Fontenoy - TSA 80715 - 75334 PARIS CEDEX 07
