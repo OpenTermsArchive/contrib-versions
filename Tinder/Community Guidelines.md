@@ -86,7 +86,7 @@ From your match list, Swipe Left on a row and tap the “Report” button to sen
 
 From your message screen, tap the following icon and send us a quick, confidential report:
 
- [![flag](/static/4efa30bd3b15a2b7bb879d387f0db56c/73af6/flag.png "flag")](https://policies.tinder.com/static/4efa30bd3b15a2b7bb879d387f0db56c/73af6/flag.png) 
+[![flag](/static/4efa30bd3b15a2b7bb879d387f0db56c/73af6/flag.png "flag")](https://policies.tinder.com/static/4efa30bd3b15a2b7bb879d387f0db56c/73af6/flag.png)
 
 While swiping, open a user’s profile, tap the following icon and send us a quick, confidential report:
 
