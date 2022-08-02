@@ -5,7 +5,7 @@ Latest update on **Friday 4 February 2022 à 03:34** by David Webb.
 
 **CCM BENCHMARK GROUP** is responsible for the collection and the processing of personal data.
 
-**CCM BENCHMARK GROUP** is an _SAS_ (Simplified Joint-Stock Company) with a capital of 1 848 864,45 €. Headquartered at: 14 boulevard Haussmann – 75009 Paris, France   
+**CCM BENCHMARK GROUP** is an _SAS_ (Simplified Joint-Stock Company) with a capital of 1 848 864,45 €. Headquartered at: 14 boulevard Haussmann – 75009 Paris, France   
 Registered in the Registre du Commerce et des Sociétés (Registry of Commerce and Companies) as number 512 085 630 PARIS
 
 Nature of collected data
@@ -37,7 +37,7 @@ You have a right to access, modify, oppose, and delete your personal data.
 You may exercise these rights at any moment, and by any means, notably:  
 By postal mail at the following address:
 
-**CCM BENCHMARK GROUP**   
+**CCM BENCHMARK GROUP**   
 "Personal Data - CCM"  
 14 boulevard Haussmann – 75009 Paris, France 
 
