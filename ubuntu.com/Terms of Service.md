@@ -92,8 +92,8 @@ The open source software platform that runs everywhere from the smartphone, the 
 
 [Back to top](#)
 
-*   [OpenStack](https://ubuntu.com/openstack)
-    -----------------------------------------
+*   [OpenStack](https://ubuntu.com/openstack) [OpenStack](#)
+    --------------------------------------------------------
     
     *   [What is OpenStack](https://ubuntu.com/openstack/what-is-openstack)
     *   [Features](https://ubuntu.com/openstack/features)
@@ -103,16 +103,16 @@ The open source software platform that runs everywhere from the smartphone, the 
     *   [Compare](https://ubuntu.com/openstack/compare)
     *   [Install](https://ubuntu.com/openstack/install)
     *   [Resources](https://ubuntu.com/openstack/resources)
-*   [Ceph](https://ubuntu.com/ceph)
-    -------------------------------
+*   [Ceph](https://ubuntu.com/ceph) [Ceph](#)
+    -----------------------------------------
     
     *   [What is Ceph](https://ubuntu.com/ceph/what-is-ceph)
     *   [Managed](https://ubuntu.com/ceph/managed)
     *   [Consulting](https://ubuntu.com/ceph/consulting)
     *   [Docs](https://ubuntu.com/ceph/docs)
     *   [Install](https://ubuntu.com/ceph/install)
-*   [Managed](https://ubuntu.com/managed)
-    -------------------------------------
+*   [Managed](https://ubuntu.com/managed) [Managed](#)
+    --------------------------------------------------
     
     *   [OpenStack](https://ubuntu.com/openstack/managed)
     *   [Kubernetes](https://ubuntu.com/kubernetes/managed)
@@ -120,8 +120,8 @@ The open source software platform that runs everywhere from the smartphone, the 
     *   [Apps](https://ubuntu.com/managed/apps)
     *   [Observability](https://ubuntu.com/observability/managed)
 
-*   [Kubernetes](https://ubuntu.com/kubernetes)
-    -------------------------------------------
+*   [Kubernetes](https://ubuntu.com/kubernetes) [Kubernetes](#)
+    -----------------------------------------------------------
     
     *   [What is Kubernetes](https://ubuntu.com/kubernetes/what-is-kubernetes)
     *   [Charmed Kubernetes](https://ubuntu.com/kubernetes/charmed-k8s)
@@ -130,27 +130,27 @@ The open source software platform that runs everywhere from the smartphone, the 
     *   [Install](https://ubuntu.com/kubernetes/install)
     *   [Docs](https://ubuntu.com/kubernetes/docs)
     *   [Resources](https://ubuntu.com/kubernetes/resources)
-*   [AI / ML](https://ubuntu.com/ai)
-    --------------------------------
+*   [AI / ML](https://ubuntu.com/ai) [AI / ML](#)
+    ---------------------------------------------
     
     *   [What is Kubeflow](https://ubuntu.com/ai/what-is-kubeflow)
     *   [Services](https://ubuntu.com/ai/services)
-*   [Robotics](https://ubuntu.com/robotics)
-    ---------------------------------------
+*   [Robotics](https://ubuntu.com/robotics) [Robotics](#)
+    -----------------------------------------------------
     
     *   [ROS ESM](https://ubuntu.com/robotics/ros-esm)
     *   [What is ROS](https://ubuntu.com/robotics/what-is-ros)
     *   [Community](https://ubuntu.com/robotics/community)
-*   [Cloud](https://ubuntu.com/cloud)
-    ---------------------------------
+*   [Cloud](https://ubuntu.com/cloud) [Cloud](#)
+    --------------------------------------------
     
     *   [What is private cloud](https://ubuntu.com/cloud/private-cloud)
     *   [What is hybrid cloud](https://ubuntu.com/cloud/hybrid-cloud)
     *   [What is multi-cloud](https://ubuntu.com/cloud/multi-cloud)
     *   [Public cloud](https://ubuntu.com/cloud/public-cloud)
 
-*   [IoT](https://ubuntu.com/internet-of-things)
-    --------------------------------------------
+*   [IoT](https://ubuntu.com/internet-of-things) [IoT](#)
+    -----------------------------------------------------
     
     *   [Smart displays](https://ubuntu.com/internet-of-things/smart-displays)
     *   [Gateways](https://ubuntu.com/internet-of-things/gateways)
@@ -162,13 +162,13 @@ The open source software platform that runs everywhere from the smartphone, the 
     *   [Smart city](https://ubuntu.com/internet-of-things/smart-city)
     *   [Smart home](https://ubuntu.com/internet-of-things/smart-home)
     *   [Management](https://ubuntu.com/internet-of-things/management)
-*   [Raspberry Pi](https://ubuntu.com/raspberry-pi)
-    -----------------------------------------------
+*   [Raspberry Pi](https://ubuntu.com/raspberry-pi) [Raspberry Pi](#)
+    -----------------------------------------------------------------
     
     *   [Desktop](https://ubuntu.com/raspberry-pi/desktop)
     *   [Server](https://ubuntu.com/raspberry-pi/server)
-*   [Core](https://ubuntu.com/core)
-    -------------------------------
+*   [Core](https://ubuntu.com/core) [Core](#)
+    -----------------------------------------
     
     *   [Consulting](https://ubuntu.com/core/services)
     *   [Success stories](https://ubuntu.com/core/stories)
@@ -177,21 +177,21 @@ The open source software platform that runs everywhere from the smartphone, the 
     *   [Tutorials](https://ubuntu.com/tutorials?q=core)
     *   [Docs](https://ubuntu.com/core/docs)
 
-*   [Desktop](https://ubuntu.com/desktop)
-    -------------------------------------
+*   [Desktop](https://ubuntu.com/desktop) [Desktop](#)
+    --------------------------------------------------
     
     *   [Features](https://ubuntu.com/desktop/features)
     *   [Organisations](https://ubuntu.com/desktop/organisations)
     *   [Developers](https://ubuntu.com/desktop/developers)
     *   [Flavours](https://ubuntu.com/desktop/flavours)
     *   [Partners](https://ubuntu.com/desktop/partners)
-*   [Server](https://ubuntu.com/server)
-    -----------------------------------
+*   [Server](https://ubuntu.com/server) [Server](#)
+    -----------------------------------------------
     
     *   [Hyperscale](https://ubuntu.com/server/hyperscale)
     *   [Docs](https://ubuntu.com/server/docs)
-*   [Security](https://ubuntu.com/security)
-    ---------------------------------------
+*   [Security](https://ubuntu.com/security) [Security](#)
+    -----------------------------------------------------
     
     *   [ESM](https://ubuntu.com/security/esm)
     *   [Livepatch](https://ubuntu.com/security/livepatch)
@@ -201,8 +201,8 @@ The open source software platform that runs everywhere from the smartphone, the 
     *   [OVAL](https://ubuntu.com/security/oval)
     *   [Docker Images](https://ubuntu.com/security/docker-images)
 
-*   [Downloads](https://ubuntu.com/download)
-    ----------------------------------------
+*   [Downloads](https://ubuntu.com/download) [Downloads](#)
+    -------------------------------------------------------
     
     *   [Cloud](https://ubuntu.com/download/cloud)
     *   [IoT](https://ubuntu.com/download/iot)
@@ -211,13 +211,13 @@ The open source software platform that runs everywhere from the smartphone, the 
     *   [Desktop](https://ubuntu.com/download/desktop)
     *   [AMD-Xilinx](https://ubuntu.com/download/amd-xilinx)
     *   [Alternative downloads](https://ubuntu.com/download/alternative-downloads)
-*   [Observability](https://ubuntu.com/observability)
-    -------------------------------------------------
+*   [Observability](https://ubuntu.com/observability) [Observability](#)
+    --------------------------------------------------------------------
     
     *   [What is observability](https://ubuntu.com/observability/what-is-observability)
     *   [Managed](https://ubuntu.com/observability/managed)
-*   [Appliance](https://ubuntu.com/appliance)
-    -----------------------------------------
+*   [Appliance](https://ubuntu.com/appliance) [Appliance](#)
+    --------------------------------------------------------
     
     *   [About](https://ubuntu.com/appliance/about)
     *   [Portfolio](https://ubuntu.com/appliance/portfolio)
@@ -225,14 +225,14 @@ The open source software platform that runs everywhere from the smartphone, the 
     *   [Hardware](https://ubuntu.com/appliance/hardware)
     *   [Virtual machines](https://ubuntu.com/appliance/vm)
 
-*   [Support](https://ubuntu.com/support)
-    -------------------------------------
+*   [Support](https://ubuntu.com/support) [Support](#)
+    --------------------------------------------------
     
     *   [Your subscriptions](https://ubuntu.com/advantage)
     *   [Account users](https://ubuntu.com/advantage/users)
     *   [Community support](https://ubuntu.com/support/community-support)
-*   [Pricing](https://ubuntu.com/pricing)
-    -------------------------------------
+*   [Pricing](https://ubuntu.com/pricing) [Pricing](#)
+    --------------------------------------------------
     
     *   [Support](https://ubuntu.com/pricing/infra)
     *   [Consulting](https://ubuntu.com/pricing/consulting)
@@ -247,7 +247,9 @@ The open source software platform that runs everywhere from the smartphone, the 
 *   *   [Containers](https://ubuntu.com/containers)
     *   [Tutorials](https://ubuntu.com/tutorials)
     *   [16-04](https://ubuntu.com/16-04)
-    *   [Model-driven operations](https://ubuntu.com/model-driven-operations) [Landscape](https://ubuntu.com/landscape) [Canonical Embedding Programme](https://ubuntu.com/embedding)
+    *   [Model-driven operations](https://ubuntu.com/model-driven-operations)
+    *   [Landscape](https://ubuntu.com/landscape)
+    *   [Canonical Embedding Programme](https://ubuntu.com/embedding)
 
 * * *
 
