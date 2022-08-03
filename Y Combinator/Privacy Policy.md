@@ -6,7 +6,7 @@ For California residents, please [click here](#calprivacy) to learn more about y
 
 Welcome to the Y Combinator website (including all websites to which this Privacy Policy is posted, the **“Site”**), which is operated by Y Combinator Management, LLC and its affiliates (collectively, “**Y Combinator**,” “**we**”, “**us**” and/or “**our**”). This Site provides, among other things, information about our people, organization and application process, tools for applicants to submit applications and go through the application process, a platform for applying to work at Y Combinator startups, a free online course on how to start a company, our blog, forums for discussions about topics relevant to startups, and profiles of founders and companies that have participated in the Y Combinator program (collectively the “**Service**”).
 
-This Privacy Policy explains what Personal Information (defined below) we collect, how we use and share that data, and your choices concerning our data practices. This Privacy Policy is incorporated into and forms part of our [Terms of Use](https://www.ycombinator.com/legal/).
+This Privacy Policy explains what Personal Information (defined below) we collect, how we use and share that data, and your choices concerning our data practices. This Privacy Policy is incorporated into and forms part of our [Terms of Use](https://www.ycombinator.com/legal#tou).
 
 Before using the Service or submitting any Personal Information to Y Combinator, please review this Privacy Policy carefully and contact us if you have any questions. By using the Service, you agree to the practices described in this Privacy Policy. If you do not agree to this Privacy Policy, please do not access the Site or otherwise use the Service.
 
@@ -22,7 +22,7 @@ We collect information that alone or in combination with other information in ou
 
 **Work at a Startup Information**: If you sign up for our Work at a Startup program (“**WaaS**”), we will collect Personal Information, which includes your name, email address, LinkedIn profile, and other information relevant to the type of job you are seeking, such as your location, eligibility to work in the United States, and your work experience, education, and skills (“**WaaS Information**”).
 
-**Startup School Information**: If you sign up for our Startup School program (“**SUS**”), we will collect Personal Information, which includes your name, email, location (city and country), LinkedIn profile, gender, education, area of expertise, company information, and cofounder email addresses and other information that we will use to manage, optimize and administer your participation in SUS (“**SUS Information**”).
+**Startup School Information**: If you sign up for our Startup School program (“**SUS**”), we will collect Personal Information, which includes your name, email, location (city and country), LinkedIn profile, gender (optional), education, area of expertise, company information, and cofounder email addresses and other information that we will use to manage, optimize and administer your participation in SUS (“**SUS Information**”).
 
 **Application Information**: If you submit an application to Y Combinator, Personal Information related to your application is governed by our Application Privacy Policy available at [https://www.ycombinator.com/apply/privacy/](https://www.ycombinator.com/apply/privacy/). In the event of any conflict between the Applications Privacy Policy and any other portion of this Privacy Policy or our Terms of Use, the Applications Privacy Policy will control.
 
@@ -110,7 +110,7 @@ In certain circumstances we may share your Personal Information with third parti
 
 ### 4\. UPDATE YOUR INFORMATION
 
-Please log in to your account to change or correct your Personal Information, or [contact us](mailto:hn@ycombinator.com) if you need help. All requests regarding your Personal Information should be directed to [hn@ycombinator.com](mailto:hn@ycombinator.com) If you email any other Y Combinator email address regarding your Personal Information, it will be forwarded to [hn@ycombinator.com](mailto:hn@ycombinator.com).
+Please log in to your account to change or correct your Personal Information, or [contact us](mailto:hn@ycombinator.com) if you need help. All requests regarding your Personal Information should be directed to [hn@ycombinator.com](mailto:hn@ycombinator.com). If you email any other Y Combinator email address regarding your Personal Information, it will be forwarded to [hn@ycombinator.com](mailto:hn@ycombinator.com).
 
 ### 5\. CALIFORNIA PRIVACY RIGHTS
 
@@ -142,7 +142,7 @@ To the extent provided for by law and subject to applicable exceptions, Californ
 
 **We do not and will not sell your Personal Information.**
 
-**Exercising Your Rights**: California residents can exercise the right to request deletion of Personal Information by [contacting us](mailto:hn@ycombinator.com) at [hn@ycombinator.com](mailto:hn@ycombinator.com). California residents can exercise the right to know what Personal Information we have collected and how we have used and disclosed that Personal Information by emailing [hn@ycombinator.com](mailto:hn@ycombinator.com)
+**Exercising Your Rights**: California residents can exercise the right to request deletion of Personal Information by [contacting us](mailto:hn@ycombinator.com) at [hn@ycombinator.com](mailto:hn@ycombinator.com). California residents can exercise the right to know what Personal Information we have collected and how we have used and disclosed that Personal Information by emailing [hn@ycombinator.com](mailto:hn@ycombinator.com).
 
 **Verification**: in order to protect your Personal Information from unauthorized access or deletion, we may require you to verify your login credentials before you can submit a request to know or delete Personal Information. If you do not have an account with us, or if we suspect fraudulent or malicious activity, we may ask you to provide additional Personal Information and proof of residency for verification. If we cannot verify your identity, we will not provide or delete your Personal Information.
 
