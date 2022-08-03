@@ -131,7 +131,6 @@ Marketers are solely responsible for complying with applicable federal, state an
 #### Health/Beauty and Cosmetics
 
 *   May not make illegitimate or unproven claims about results
-*   No before/after photos of unlikely results
 *   May not allude to diagnose, cure, prevent, treat, or reverse any disease, condition, or illness
 
 #### Financial Services (Restricted)
