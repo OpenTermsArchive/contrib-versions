@@ -1,10 +1,12 @@
 ### Privacy Policy
 
+Last Updated August 2022
+
 For California residents, please [click here](#calprivacy) to learn more about your privacy rights.
 
-Welcome to the Y Combinator website (including all websites to which this Privacy Policy is posted, the **“Site”**), which is operated by Y Combinator Management, LLC and its affiliates (collectively, “**Y Combinator**,” “**we**”, “**us**” and/or “**our**”). This Site provides, among other things, information about our people, organization and application process, tools for applicants to submit applications and go through the application process, our blog, forums for discussions about topics relevant to startups, and profiles of founders and companies that have participated in the Y Combinator program (collectively the “**Service**”).
+Welcome to the Y Combinator website (including all websites to which this Privacy Policy is posted, the **“Site”**), which is operated by Y Combinator Management, LLC and its affiliates (collectively, “**Y Combinator**,” “**we**”, “**us**” and/or “**our**”). This Site provides, among other things, information about our people, organization and application process, tools for applicants to submit applications and go through the application process, a platform for applying to work at Y Combinator startups, a free online course on how to start a company, our blog, forums for discussions about topics relevant to startups, and profiles of founders and companies that have participated in the Y Combinator program (collectively the “**Service**”).
 
-This Privacy Policy explains what Personal Information (defined below) we collect, how we use and share that data, and your choices concerning our data practices. This Privacy Policy is incorporated into and forms part of our [Terms of Service](https://www.ycombinator.com/legal/).
+This Privacy Policy explains what Personal Information (defined below) we collect, how we use and share that data, and your choices concerning our data practices. This Privacy Policy is incorporated into and forms part of our [Terms of Use](https://www.ycombinator.com/legal/).
 
 Before using the Service or submitting any Personal Information to Y Combinator, please review this Privacy Policy carefully and contact us if you have any questions. By using the Service, you agree to the practices described in this Privacy Policy. If you do not agree to this Privacy Policy, please do not access the Site or otherwise use the Service.
 
@@ -28,9 +30,9 @@ We collect information that alone or in combination with other information in ou
 
 **Personal Information We Collect Through Our Social Media Pages**: We have pages on social media sites like Instagram, Facebook, Medium, Twitter, YouTube and LinkedIn (“**Social Media Pages**”). When you interact with our Social Media Pages, we will collect Personal Information that you elect to provide to us, such as your contact details (“**Social Information**”). In addition, the companies that host our Social Media Pages may provide us with aggregate information and analytics regarding the use of our Social Media Pages.
 
-**Personal Information We Receive Automatically From Your Use of the Service**: When you visit, use, and interact with the Service, we may receive certain information about your visit, use, or interactions (“**Technical Information**”). For example, we may monitor the number of people that visit the Service, peak hours of visits, which page(s) are visited, the domains our visitors come from (e.g., google.com, yahoo.com, etc.), and which browsers people use to access the Service (e.g., Chrome, Firefox, Microsoft Internet Explorer, etc.), broad geographical information, and navigation pattern. In particular, Technical Information includes the following, which is created and automatically logged in our systems:
+**Personal Information We Receive Automatically From Your Use of the Service**: When you visit, use, and interact with the Service, we may receive certain information about your visit, use, or interactions (“**Technical Information**”). For example, we may monitor the number of people that visit the Site, peak hours of visits, which page(s) are visited, the domains our visitors come from (e.g., google.com, yahoo.com, etc.), and which browsers people use to access the Service (e.g., Chrome, Firefox, Microsoft Internet Explorer, etc.), broad geographical information, and navigation pattern. In particular, Technical Information includes the following, which is created and automatically logged in our systems:
 
-*   Log data: Information that your browser automatically sends whenever you visit the Site (“**log data**”). Log data includes your Internet Protocol address, browser type and settings, the date and time of your request, and how you interacted with the Site.
+*   Log data: Log data is information that your browser automatically sends whenever you visit the Site Log data includes your Internet Protocol address, browser type and settings, the date and time of your request, and how you interacted with the Site.
     
 *   Cookies: Please see the “Cookies” section below to learn more about how we use cookies.
     
@@ -101,14 +103,14 @@ In certain circumstances we may share your Personal Information with third parti
     
 *   **Legal Requirements**: If required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, including to meet national security or law enforcement requirements, (ii) protect and defend our rights or property, (iii) prevent fraud, (iv) act in urgent circumstances to protect the personal safety of users of the Services, or the public, or (v) protect against legal liability.
     
-*   **Affiliates**: We may share Personal Information with our affiliates, meaning an entity that controls, is controlled by, or is under common control with Y Combinator. Our affiliates may use the Personal Information we share in a manner consistent with this Privacy Policy.
+*   **Affiliates**: We may share Personal Information with our affiliates, meaning an entity that controls, is controlled by, or is under common control with Y Combinator. Our affiliates will use the Personal Information we share in a manner consistent with this Privacy Policy.
     
 *   **Other Users**: certain actions you take may be visible to other users of the Service. For example, the “about” field in your Profile Information, and submissions or comments you post on Hacker News, are published on the Internet.
     
 
 ### 4\. UPDATE YOUR INFORMATION
 
-Please log in to your account to change or correct your Personal Information, or [contact us](mailto:hn@ycombinator.com) if you need help. If you have questions about this Privacy Policy, please email the [legal team](mailto:yclegal@ycombinator.com).
+Please log in to your account to change or correct your Personal Information, or [contact us](mailto:hn@ycombinator.com) if you need help. All requests regarding your Personal Information should be directed to [hn@ycombinator.com](mailto:hn@ycombinator.com) If you email any other Y Combinator email address regarding your Personal Information, it will be forwarded to [hn@ycombinator.com](mailto:hn@ycombinator.com).
 
 ### 5\. CALIFORNIA PRIVACY RIGHTS
 
@@ -140,7 +142,7 @@ To the extent provided for by law and subject to applicable exceptions, Californ
 
 **We do not and will not sell your Personal Information.**
 
-**Exercising Your Rights**: California residents can exercise the above privacy rights by [contacting us](mailto:hn@ycombinator.com), or by calling us at 415-874-1528.
+**Exercising Your Rights**: California residents can exercise the right to request deletion of Personal Information by [contacting us](mailto:hn@ycombinator.com) at [hn@ycombinator.com](mailto:hn@ycombinator.com). California residents can exercise the right to know what Personal Information we have collected and how we have used and disclosed that Personal Information by emailing [hn@ycombinator.com](mailto:hn@ycombinator.com)
 
 **Verification**: in order to protect your Personal Information from unauthorized access or deletion, we may require you to verify your login credentials before you can submit a request to know or delete Personal Information. If you do not have an account with us, or if we suspect fraudulent or malicious activity, we may ask you to provide additional Personal Information and proof of residency for verification. If we cannot verify your identity, we will not provide or delete your Personal Information.
 
@@ -148,7 +150,7 @@ To the extent provided for by law and subject to applicable exceptions, Californ
 
 ### 6\. CHILDREN
 
-Our Service is not directed to children who are under the age of 13. Y Combinator does not knowingly collect Personal Information from children under the age of 13. If you have reason to believe that a child under the age of 13 has provided Personal Information to Y Combinator through the Service, please [contact us](mailto:hn@ycombinator.com) and we will endeavor to delete that information from our databases.
+Our Service is not directed to children who are under the age of 13. Y Combinator does not knowingly collect Personal Information from children under the age of 13. If you have reason to believe that a child under the age of 13 has provided Personal Information to Y Combinator through the Service, please [contact us](mailto:hn@ycombinator.com) at [hn@ycombinator.com](mailto:hn@ycombinator.com) and we will endeavor to delete that information from our databases.
 
 ### 7\. LINKS TO OTHER WEBSITES
 
@@ -162,9 +164,9 @@ You use the Service at your own risk. We implement commercially reasonable techn
 
 By using our Service, you understand and acknowledge that your Personal Information will be transferred from your location to our facilities and servers in the United States.
 
-### 10\. YOUR CHOICES
+### 10\. YOUR CHOICES; DELETION REQUESTS
 
-In certain circumstances providing Personal Information is optional. However, if you choose not to provide Personal Information that is needed to use some features of our Service, you may be unable to use those features. You can also [contact us](mailto:hn@ycombinator.com) to ask us to update or correct your Personal Information. Please note that we reserve the right to refuse to (i) delete any of the submissions, favorites, or comments you post on the Site or link in your profile or (ii) remove their association with your profile or username.
+In certain circumstances providing Personal Information is optional. However, if you choose not to provide Personal Information that is needed to use some features of our Service, you may be unable to use those features. You can also contact us [contact us](mailto:hn@ycombinator.com) at [hn@ycombinator.com](mailto:hn@ycombinator.com) to ask us to update, correct, or delete your Personal Information. Please note that we reserve the right to refuse to (i) delete any of the submissions, favorites, or comments you post on the Site or link in your profile or (ii) remove their association with your profile or username.
 
 ### 11\. CHANGES TO THE PRIVACY POLICY
 
