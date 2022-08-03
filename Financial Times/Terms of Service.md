@@ -217,18 +217,16 @@ in each case even if we have been advised that such damages may arise.**
 6\. Corporate Information
 -------------------------
 
-**6.1.** If you buy a Digital or Bundled Subscription and are resident in any country other than those listed in section 6.2 below or you access the FT Content under an organisation's subscription agreement, then you will be contracting with The Financial Times Limited, whose principal place of business is at Bracken House, 1 Friday Street, London, EC4M 9BT, United Kingdom.
+6.1. Other than as set out in section 6.2 below, you will be contracting with The Financial Times Limited for any Subscriptions. The Financial Times Limited is the publisher of the Newspaper and FT.com, and its corporate details are set out at section 1.1.
 
-**6.2.** If you buy a Newspaper or Bundled Subscription and are resident in one of the countries specified below, you will be contracting with the applicable entity listed below:
+6.2. If you buy a Print or Bundled Subscription and are resident in one of the countries specified below, you will be contracting with the applicable entity listed below:
 
 *   Americas: F.T. Publications, Inc, whose principal place of business is at 330 Hudson Street, 8th Floor, New York, NY 10013, USA.
 *   Japan or South Korea: The Financial Times (Japan) Limited, whose principal place of business is at 10F Nihon Keizai Shimbunsha Tokyo Honsha Building, 1-3-7 Otemachi, Chiyoda-ku, Tokyo, 100-8066, Japan.
 *   Singapore: The Financial Times (Singapore) Pte Limited, whose principal place of business is at 60 Anson Road, #06-02 Mapletree Anson, Singapore 079914.
 *   Asia (other than Japan, South Korea or Singapore) or Oceania: The Financial Times (H.K.) Limited, whose principal place of business is at 6/F Nan Fung Tower, 88 Connaught Road, Central, Hong Kong.
 
-**6.3.** The Financial Times Limited is the publisher of the Newspaper and FT.com, and its corporate details are as set out in section 1.1.
-
-**6.4.** The Managed Funds and Personal Finance areas of FT.com are operated separately by FT Personal Finance Limited whose corporate details are as follows: registered office address is Bracken House, 1 Friday Street, London, EC4M 9BT; company number is 3855520; VAT number GB226162332; and Data Protection Registration Number is Z7670392.
+6.3. The Managed Funds and Personal Finance areas of FT.com are operated separately by FT Personal Finance Limited whose corporate details are as follows: registered office address is Bracken House, 1 Friday Street, London, EC4M 9BT; company number is 3855520; VAT number GB226162332; and Data Protection Registration Number is Z7670392.
 
 7\. Changes to these Terms and Conditions
 -----------------------------------------
