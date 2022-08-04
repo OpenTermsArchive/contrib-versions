@@ -80,6 +80,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   Stadt Wien – [data.wien.gv.at](https://www.data.gv.at/auftritte/?organisation=stadt-wien/) ([https://www.data.gv.at/netiquette/](https://www.data.gv.at/netiquette/))
             
+        *   Open Data Austria - [https://creativecommons.org/licenses/by/4.0/deed.de](https://creativecommons.org/licenses/by/4.0/deed.de)
     4.  **Belgium**
         *   Institut Geographique National - IGN Belgium ([https://creativecommons.org/licenses/by/1.0/](https://creativecommons.org/licenses/by/1.0/))
             
@@ -273,6 +274,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         73.  City of Toronto Open Data ([https://open.toronto.ca/open-data-license/](https://open.toronto.ca/open-data-license/))
             
+        74.  OC Transpo - Canada - City of Ottawa: ([https://ottawa.ca/en/city-hall/open-transparent-and-accountable-government/open-data#](https://ottawa.ca/en/city-hall/open-transparent-and-accountable-government/open-data#))
+            
     7.  **Denmark**
         *   © COWI A/S
             
@@ -352,6 +355,11 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   Contient des informations de Grand Lyon Métropole sujettes à la [Licence Mobilités](https://download.data.grandlyon.com/licences/Licence_mobilit%C3%A9s_V_02_2021.pdf) ([source](https://data.grandlyon.com/jeux-de-donnees/horaires-theoriques-reseau-transports-commun-lyonnais/info)), conformément à laquelle les données sont disponibles sur le Point d'Accès National ([lien](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-transports-en-commun-lyonnais/))
             
+        *   Saint-Etienne Métropole La Zone à Faibles Émissions accessed from: [https://transport.data.gouv.fr/datasets/zfe-m-zone-a-faibles-emissions-de-saint-etienne-metropole-1](https://transport.data.gouv.fr/datasets/zfe-m-zone-a-faibles-emissions-de-saint-etienne-metropole-1) on 07-07-22  
+            Etalab: [https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf](https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf)
+            
+        *   Ville de Gatineau - Service de l'informatique - [https://creativecommons.org/licenses/by/4.0/legalcode](https://creativecommons.org/licenses/by/4.0/legalcode)
+            
     10.  **Germany**
         *   Bundesamt für Kartographie und Geodäsie - © Vermessungsverwaltungen der Bundesländer und Bundesamt für Kartographie und Geodäsie
             
@@ -409,6 +417,14 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   Geoportal Berlin / Adressen Berlin - [https://www.govdata.de/dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0)
             
+        *   Contains information from Verkehrsverbund Rhein-Sieg GmbH which is made available under the ODC Attribution License - [https://opendatacommons.org/licenses/by/1-0/](https://opendatacommons.org/licenses/by/1-0/) - Data also compatible with CC-By 4.0:[https://creativecommons.org/licenses/by/4.0/deed.de](https://creativecommons.org/licenses/by/4.0/deed.de)
+            
+        *   Offene Daten Köln - [https://creativecommons.org/licenses/by/3.0/de/](https://creativecommons.org/licenses/by/3.0/de/)
+            
+        *   Metropole Ruhr Geoportal - [https://creativecommons.org/licenses/by/4.0/deed.de](https://creativecommons.org/licenses/by/4.0/deed.de)
+            
+        *   OpenData-Portal der Landeshauptstadt München - [https://www.govdata.de/dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0)
+            
     11.  **Great Britain**
         *   This Service contains Ordnance Survey data © Crown copyright and database right 2011, Royal Mail data © Royal Mail copyright and database right 2011, and National Statistics data © Crown copyright and database right 2011 ([https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf](https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf)). All rights reserved. © South West Coast Path Team. Contains information of Network Rail Infrastructure Limited licensed under the following [licence](https://www.networkrail.co.uk/terms-and-conditions/). Contains public sector information licensed under the [Open Government Licence v2.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/). Contains public sector information licensed under the Open Government Licence v3.0.
             
@@ -451,6 +467,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             Contains Royal Mail data © Royal Mail copyright and database right 2021  
             License: [https://www.ons.gov.uk/methodology/geography/licences](https://www.ons.gov.uk/methodology/geography/licences)
             
+        *   Office for National Statistics licensed - [https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
+            
+        *   Manchester City Council - [https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
+            
     12.  **Greece**
         *   EuroGeographics; Copyright Geomatics Ltd.
             
@@ -492,6 +512,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         *   © 2022 Tech Mahindra Limited
             
         *   © 2022 Azure Cloud Services Private Limited
+            
+        *   Capital Region Urban Transport (CRUT), 2020, City Bus GTFS Static in Bhubaneshwar City, DataSpace, version v0.0.1, 08/07/2022: [https://dataspace.mobi/dataset/city-bus-bhubaneswar-gtfs-static.](https://dataspace.mobi/dataset/city-bus-bhubaneswar-gtfs-static) Published under Government Open Data License (India) - [https://data.gov.in/government-open-data-license-india](https://data.gov.in/government-open-data-license-india)
             
     19.  **Ireland**
         *   © An Post GeoDirectory Limited 2022
@@ -574,6 +596,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   Istat – Istituto Nazionale di Statistica ([https://creativecommons.org/licenses/by/3.0/it/](https://creativecommons.org/licenses/by/3.0/it/))
             
+        *   Comune di Prato - [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+            
+        *   AperTO - Open data della Città di Torino - [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+            
     23.  **Ivory Cost (Côte d'Ivoire)**
         
         OCHA Côte d'Ivoire ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
@@ -589,9 +615,9 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   この地図の作成にあたり、平凡社と平凡社地図出版からのライセンス提供を受けています。
             
-        *   交承 平成 25 年 110 号 JR データの内容は、株式会社交通新聞社発行の「JR 時刻表」([https://www.kotsu.co.jp/jrlogo/](https://www.kotsu.co.jp/jrlogo/)) 令和4年 6 月号に基づ いています。この時刻データを無断で転載・複写し、又は紙媒体、電磁媒体その他いかなる媒体に加工することも禁じます。
+        *   交承 平成 25 年 110 号 JR データの内容は、株式会社交通新聞社発行の「JR 時刻表」([https://www.kotsu.co.jp/jrlogo/](https://www.kotsu.co.jp/jrlogo/)) 令和4年 7 月号に基づ いています。この時刻データを無断で転載・複写し、又は紙媒体、電磁媒体その他いかなる媒体に加工することも禁じます。
             
-        *   JRバスデータの内容は、株式会社交通新聞社作成のデータ令和4年 6 月分に基づいています。この時刻データを無断転載・複写や電磁媒体等に加工することを禁じます。
+        *   JRバスデータの内容は、株式会社交通新聞社作成のデータ令和4年 7 月分に基づいています。この時刻データを無断転載・複写や電磁媒体等に加工することを禁じます。
             
         *   ジオテクノロジーズ（株）の提供する地図データに基づいています。この地図データは世界各国の著作権法および国際的な著作権協定によって保護されています。Googleの利用規約類およびポリシーにより認められている場合を除き、当該データを無断転載／複写又は加工することを禁じます。[https://business.mapfan.com/aboutmap/](https://business.mapfan.com/aboutmap/)
             
@@ -620,6 +646,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         "Mapa de Ubicación de Códigos Postales para la Ciudad de México" published by Correos de México. Accessed from [https://datos.gob.mx/](https://datos.gob.mx/) on 28-03-2022
         
         "Mapa de Ubicación de Códigos Postales para Jalisco" published by Correos de México. Accessed from [https://datos.gob.mx/busca/](https://datos.gob.mx/) on 28-03-2022
+        
+        Museums administered by the state of Puebla, published by the Ministry of Culture and Tourism. Consulted at [http://datos.puebla.gob.mx/dataset/museos-administrados-estado-puebla#](http://datos.puebla.gob.mx/dataset/museos-administrados-estado-puebla#) consultation date: 2018-06-01
         
     27.  Datos Abiertos del Gobierno de México - [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
         
@@ -829,6 +857,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   Renfe Data - [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
             
+        *   Instituto Geográfico Nacional de España - Centro Nacional de Información Geográfica (CNIG): [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+            
+        *   Gobierno Vasco / Eusko Jaurlaritza - Geo Euskadi Open Data Portal - [https://creativecommons.org/licenses/by/3.0/es/](https://creativecommons.org/licenses/by/3.0/es/)
+            
     40.  **Sweden**
         *   © 2009 Cartesia GIS AB
             
@@ -888,6 +920,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   Data Gov TW - Hualien County Government - 2021 \[Wu Kidd (03-8227141#392)\] License: [https://data.gov.tw/license](https://data.gov.tw/license)
             
+        *   The Transportation Data Exchange Platform (TDX) - [https://tdx.transportdata.tw/.](https://tdx.transportdata.tw/) License: [https://tdx.transportdata.tw/term](https://tdx.transportdata.tw/term%20target=) License Terms: 4. Version update and authorization conversion
+            
+            These terms are compatible with the "Creative CC Authorized Name Marking 4.0 International Version". Users who use the open data in accordance with these terms, if the subsequent use of the "Creative CC Authorized Name Marking 4.0 International Version", will be deemed to be comply with the provisions of this clause.
+            
     43.  **Timor-Leste**
         
         OCHA Regional Office for Asia and the Pacific (ROAP) ([https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode))
@@ -928,7 +964,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         10.  University of New Hampshire - [https://ccom.unh.edu/](https://ccom.unh.edu/)
             
-        11.  U.S. National Parks Service - [https://www.nps.gov](https://www.nps.gov/)
+        11.  U.S. National Parks Service - [https://www.nps.gov](https://www.nps.gov/) No claim to original U.S. Government works.
             
         12.  U.S. Department of Transportation, Research and Innovative Technology Administration - [https://www.transportation.gov/](https://www.transportation.gov/)
             
@@ -1292,6 +1328,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         192.  UNAVCO Data Center [https://www.unavco.org/data/gps-gnss/gps-gnss.html](https://www.unavco.org/data/gps-gnss/gps-gnss.html), GPS/GNSS Data, licenses: [https://www.unavco.org/community/policies\_forms/data-policy/data-policy-pbo-highrate-gps/data-policy-pbo-highrate-gps.html](https://www.unavco.org/community/policies_forms/data-policy/data-policy-pbo-highrate-gps/data-policy-pbo-highrate-gps.html), accessed 10 May 2022.
             
+        193.  California State Geoportal - [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+            
     48.  International GNSS Service (IGS). NASA CDDIS.GNSS Station Position Products. Available from ([https://cddis.nasa.gov/Data\_and\_Derived\_Products/GNSS/station\_position\_products.html](https://cddis.nasa.gov/Data_and_Derived_Products/GNSS/station_position_products.html)) Licenses: ([https://cddis.nasa.gov/About/Data\_citation\_and\_acknowledgment.html](https://cddis.nasa.gov/About/Data_citation_and_acknowledgment.html))
         
     49.  **United Arab Emirates / Abu Dhabi**
@@ -1393,6 +1431,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
     63.  **Dominican Republic**
         
         OCHA Field Information Services Section (FISS) - [https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses)
+        
+    64.  **Democratic Republic of the Congo**
+        
+        OurAirports.com community - [https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses)
         
 4.  **Business Listings Data.**
     
