@@ -176,7 +176,7 @@ The main reason we use your information is to deliver and improve our services. 
 *   Comply with legal requirements
 *   Assist law enforcement
 
-For information on how we process personal information through profiling and automated decision-making, please see our [FAQ](https://www.help.tinder.com/hc/en-us/articles/360003082172-Profiling-and-automated-decision-making-at-Tinder).
+For information on how we process personal information through profiling and automated decision-making, please see our [FAQ](https://www.help.tinder.com/hc/en-us/articles/5349453268877-Privacy-FAQs).
 
 To process your information as described in this Privacy Policy, we rely on the following legal bases:
 
