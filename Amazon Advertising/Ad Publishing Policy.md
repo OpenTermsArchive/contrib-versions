@@ -39,17 +39,17 @@ For an overview of policies addressing questions that commonly arise, please see
   
 To view recent updates to these policies, please see our [Ad Policy Change Log](https://advertising.amazon.com/resources/ad-policy/creative-acceptance/ad-policy-change-log?ref_=a20m_us_spcs_cap_spcs_chnglg).
 
-Advertising Policies
+Advertising policies
 --------------------
 
-*   [Advertising and the EU General Data Protection Regulation](https://advertising.amazon.com/resources/ad-policy/eu-data-protection-and-privacy?ref_=a20m_us_spcs_gdpr)
-*   [Advertising and the BR General Data Protection Law](https://advertising.amazon.com/resources/ad-policy/lgpd?ref_=a20m_us_spcs_lgpd)
-*   [Alexa Home Screen Guidelines and Acceptance Policies](https://advertising.amazon.com/resources/ad-policy/alexa-home-screen?ref_=a20m_us_spcs_alxhs)
+*   [Advertising and the EU general data protection regulation](https://advertising.amazon.com/resources/ad-policy/eu-data-protection-and-privacy?ref_=a20m_us_spcs_gdpr)
+*   [Advertising and the BR general data protection law](https://advertising.amazon.com/resources/ad-policy/lgpd?ref_=a20m_us_spcs_lgpd)
+*   [Alexa Home Screen guidelines and acceptance policies](https://advertising.amazon.com/resources/ad-policy/alexa-home-screen?ref_=a20m_us_spcs_alxhs)
 *   [Amazon Ads API policies](https://advertising.amazon.com/resources/ad-policy/api?ref_=a20m_us_spcs_api)
-*   [Amazon Ads Guidelines and Acceptance Policies](https://advertising.amazon.com/resources/ad-policy/creative-acceptance?ref_=a20m_us_spcs_cap)
+*   [Amazon Ads guidelines and acceptance policies](https://advertising.amazon.com/resources/ad-policy/creative-acceptance?ref_=a20m_us_spcs_cap)
 *   [Amazon brand usage guidelines](https://advertising.amazon.com/resources/ad-policy/brand-usage?ref_=a20m_us_spcs_brdusg)
 *   [Amazon DSP additional policies](https://advertising.amazon.com/resources/ad-policy/amazon-dsp-additional-policies?ref_=a20m_us_spcs_dspap)
-*   [Amazon pixeling guidelines](https://advertising.amazon.com/resources/ad-policy/pixeling-policy?ref_=a20m_us_spcs_pxlg)
+*   [Amazon pixelling guidelines](https://advertising.amazon.com/resources/ad-policy/pixeling-policy?ref_=a20m_us_spcs_pxlg)
 *   [Automated guaranteed platform policy](https://advertising.amazon.com/resources/ad-specs/automated-guarantee?ref_=a20m_us_spcs_autgrt)
 *   [Book advertising guidelines and acceptance policies](https://advertising.amazon.com/en-us/resources/ad-policy/book-ads?ref_=a20m_us_spcs_bkad)
 *   [Brand creative guidelines](https://advertising.amazon.com/resources/ad-specs/how-to-build-brand-creatives-to-engage-amazon-shoppers?ref_=a20m_us_spcs_bcag)
@@ -58,7 +58,7 @@ Advertising Policies
 *   [Fire TV guidelines and acceptance policies](https://advertising.amazon.com/resources/ad-policy/fire-tv?ref_=a20m_us_spcs_ftv)
 *   [General policies](https://advertising.amazon.com/resources/ad-policy/general-policies?ref_=a20m_us_spcs_gnrplc)
 *   [MMP measurement URLs for app advertising](https://advertising.amazon.com/resources/ad-policy/mmp-measurement-urls?ref_=a20m_us_spcs_mmpmsr)
-*   [On Box Ads, Bags, and Inserts Guidelines and Acceptance Policies](https://advertising.amazon.com/resources/ad-policy/on-box-and-bag-ads?ref_=a20m_us_spcs_bxbg)
+*   [On box ads, bags and inserts guidelines and acceptance policies](https://advertising.amazon.com/resources/ad-policy/on-box-and-bag-ads?ref_=a20m_us_spcs_bxbg)
 *   [Product terms](https://advertising.amazon.com/legal/product-terms?ref_=a20m_us_spcs_prdtrm)
 *   [Remarketing and conversion pixel requirements](https://advertising.amazon.com/resources/ad-policy/remarketing-conversion-pixel-requirements?ref_=a20m_us_spcs_rmktg)
 *   [Sponsored ads guidelines and acceptance policies](https://advertising.amazon.com/resources/ad-policy/sponsored-ads-policies?ref_=a20m_us_spcs_spadcap)
