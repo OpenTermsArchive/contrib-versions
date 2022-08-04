@@ -46,7 +46,7 @@ Vous trouverez ci-dessous, pour chaque base légale, (exécution du contrat, int
 
 ### 2.1 Exécution du contrat
 
-### 2.1.1 Exécution du contrat (seule finalité)
+#### 2.1.1 Exécution du contrat (seule finalité)
 
 En se fondant sur l’exécution du contrat que vous avez souscrit, Orange met en œuvre des traitements sur vos données personnelles avec les finalités suivantes.
 
@@ -64,7 +64,7 @@ En se fondant sur l’exécution du contrat que vous avez souscrit, Orange met e
 | Intervenir en physique chez le client | *   Informer le client de l’intervention<br>*   Permettre au client de communiquer avec le technicien en charge du rendez-vous<br>*   Installer<br>*   Dépanner, récupérer et désinstaller l’équipement<br>*   Permettre au client d’évaluer la prestation suite à un rendez-vous technicien<br>*   Permettre au technicien d’optimiser ses parcours et plannings d’intervention |
 | Gérer les impayés | *   Recouvrer à l’amiable<br>*   Inscrire les clients en contentieux<br>*   Recouvrer les impayés des clients en contentieux Alimenter la base du GIE Préventel<br>*   Interroger les fichiers d’impayés lors de la souscription d’un nouvel abonnement mobile et collecter un dépôt de garantie le cas échéant |
 
-### 2.1.2 Exécution du contrat et intérêt légitime
+#### 2.1.2 Exécution du contrat et intérêt légitime
 
 | Finalité du traitement | Description | Base(s) légale(s) applicable(s) |
 | --- | --- | --- |
@@ -81,7 +81,7 @@ En se fondant sur l’exécution du contrat que vous avez souscrit, Orange met e
 | Permettre au client d’administrer la configuration de ses produits et services |
 | Etudier le déploiement des réseaux | Etudier et préparer le déploiement du réseau | Exécution du contrat ou intérêt légitime |
 
-### 2.1.3. Exécution du contrat et consentement
+#### 2.1.3. Exécution du contrat et consentement
 
 | Finalité du traitement | Description | Base(s) légale(s) applicable(s) |
 | --- | --- | --- |
@@ -91,7 +91,7 @@ En se fondant sur l’exécution du contrat que vous avez souscrit, Orange met e
 | Livrer et installer la commande |
 | Recueillir les consentements pour les sollicitations hors commandes | Consentement |
 
-### 2.1.4. Exécution du contrat et obligation légale
+#### 2.1.4. Exécution du contrat et obligation légale
 
 | Finalité du traitement | Description | Base(s) légale(s) applicable(s) |
 | --- | --- | --- |
@@ -99,7 +99,7 @@ En se fondant sur l’exécution du contrat que vous avez souscrit, Orange met e
 | Constituer un dossier pour le médiateur des communications électroniques | Obligation légale |
 | Communiquer au titre de la gestion de la clientèle | Cibler et envoyer des communications nécessaires à l’exécution du contrat vers les clients | Obligation légale et exécution du contrat |
 
-### 2.1.5. Exécution du contrat, consentement et intérêt légitime
+#### 2.1.5. Exécution du contrat, consentement et intérêt légitime
 
 | Finalité du traitement | Description | Base(s) légale(s) applicable(s) |
 | --- | --- | --- |
@@ -123,7 +123,7 @@ En se fondant sur l’exécution du contrat que vous avez souscrit, Orange met e
 
 ### 2.2. Intérêt légitime
 
-### 2.2.1. Intérêt légitime (seule finalité)
+#### 2.2.1. Intérêt légitime (seule finalité)
 
 Orange réalise également des traitements de données pour d’autres finalités que la stricte exécution de vos contrats. En se fondant sur son intérêt légitime d’entreprise dans le cadre du développement de ses activités et de sa relation client., Orange met en œuvre des traitements de vos données personnelles.
 
@@ -137,11 +137,11 @@ Orange réalise également des traitements de données pour d’autres finalité
 | Mesurer l’audience en boutique | *   Fournir des rapports de fréquentation des points de vente physiques<br>*   Réaliser des mesures d’efficacité des actions publicitaire quant au trafic dans les boutiques |
 | Identifier un client via son compte grâce au service Orange ID |     |
 
-### 2.2.2. Intérêt légitime et exécution du contrat
+#### 2.2.2. Intérêt légitime et exécution du contrat
 
 Voir 2.1.2
 
-### 2.2.3. Intérêt légitime et consentement
+#### 2.2.3. Intérêt légitime et consentement
 
 | Finalité du traitement | Description | Base(s) légale(s) applicable(s) |
 | --- | --- | --- |
@@ -152,7 +152,7 @@ Voir 2.1.2
 | Préparer et envoyer les communications marketing écrites |
 | Proposer des offres ciblées et adaptées de la part de nos partenaires et de nos filiales | Consentement |
 
-### 2.2.4. Intérêt légitime et obligation légale
+#### 2.2.4. Intérêt légitime et obligation légale
 
 | Finalité du traitement | Description | Base(s) légale(s) applicable(s) |
 | --- | --- | --- |
@@ -163,7 +163,7 @@ Voir 2.1.2
 
 Orange recueille votre consentement afin d’effectuer certains traitements sur vos données personnelles. Vous pouvez retirer votre consentement à tout moment.
 
-### 2.3.1. Consentement (seule finalité)
+#### 2.3.1. Consentement (seule finalité)
 
 | Finalité du traitement | Description | Base(s) légale(s) applicable(s) |
 | --- | --- | --- |
@@ -173,11 +173,11 @@ Orange recueille votre consentement afin d’effectuer certains traitements sur 
 | Faire des recommandations personnalisées sur la TV d’Orange – le Guide TV | Proposer aux clients de la TV d’Orange des contenus et offres personnalisés en fonction de leur consommation des services de la TV d’Orange |
 | Cibler la publicité sur la TV d’Orange | *   Recueillir le consentement des clients pour recevoir de la publicité ciblée des partenaires d’Orange<br>*   Analyser les usages pour calculer, optimiser et mettre à disposition des critères de ciblage<br>*   Déterminer le profil du consommateur TV |
 
-### 2.3.2. Consentement et exécution du contrat
+#### 2.3.2. Consentement et exécution du contrat
 
 Voir 2.1.3
 
-### 2.3.3. Consentement et intérêt légitime
+#### 2.3.3. Consentement et intérêt légitime
 
 Voir 2.1.2
 
@@ -185,13 +185,13 @@ Voir 2.1.2
 
 En tant qu’opérateur de communications électroniques Orange se doit de répondre à des obligations légales ou réglementaires et doit ainsi mettre en œuvre certains traitements sur vos données personnelles.
 
-### 2.4.1. Obligation légale (seule finalité)
+#### 2.4.1. Obligation légale (seule finalité)
 
-### 2.4.2. Obligation légale et exécution du contrat
+#### 2.4.2. Obligation légale et exécution du contrat
 
 Voir 2.1.4
 
-### 2.4.3. Obligation légale et intérêt légitime
+#### 2.4.3. Obligation légale et intérêt légitime
 
 Voir 2.2.4
 
@@ -275,31 +275,31 @@ Orange a mis en place des procédures visant à détecter, analyser et traiter t
 
 Vous disposez de différents droits liés aux traitements de vos données personnelles :
 
-#### 8.1. Droit d’accès
+### 8.1. Droit d’accès
 
 Vous avez le droit d’obtenir les données personnelles vous concernant dont Orange dispose, et de prendre connaissance du ou des traitements vous concernant réalisés par Orange.
 
-#### 8.2. Droit de rectification
+### 8.2. Droit de rectification
 
 Dans l’hypothèse où vos données personnelles ne seraient pas complètes, exactes ou non actualisées, vous disposez d’un droit de rectification.
 
-#### 8.3. Droit d’opposition
+### 8.3. Droit d’opposition
 
 Ce droit s’applique lorsque le traitement repose sur l’intérêt légitime d’Orange et dès lors que vos droits et libertés prévalent sur ce dernier. Lorsque les données personnelles vous concernant sont traitées à des fins de prospection, vous pouvez vous opposer à tout moment à ce que vos données personnelles fassent l’objet d’un tel traitement. Les clients peuvent exercer ce droit directement depuis leur espace client.
 
-#### 8.4. Droit de suppression
+### 8.4. Droit de suppression
 
 Vous pouvez demander à Orange de supprimer vos données personnelles. Mais vous ne pouvez exercer ce droit dans le cas où vos données personnelles sont nécessaires à la fourniture de vos services, ou qu’elles sont nécessaires à Orange pour respecter ses obligations légales ou exercer ses droits, ou si l’intérêt légitime d’Orange prévaut.
 
-#### 8.5. Droit à la portabilité des données fournies
+### 8.5. Droit à la portabilité des données fournies
 
 Vous pouvez demander l'obtention des données personnelles vous concernant dans un format techniquement exploitable par vous-même ou par une autre entité qu’Orange, dès lors que celles-ci sont font l'objet d'un traitement reposant sur votre consentement ou sur une relation contractuelle.
 
-#### 8.6. Droit à la limitation d’un ou plusieurs traitements
+### 8.6. Droit à la limitation d’un ou plusieurs traitements
 
 Ce droit vous permet, en cas de doute sur la légalité de l’un de nos traitements ou pour faire constater, exercer ou défendre vos droits en justice, de demander à Orange de ne plus réaliser temporairement tout ou partie des traitements de vos données personnelles sans pour autant les effacer.
 
-#### 8.7. Testament numérique
+### 8.7. Testament numérique
 
 Vous pouvez émettre des directives sur la conservation, la suppression ou la communication de vos données personnelles après votre décès.
 
