@@ -1,7 +1,7 @@
 Cloudflare Self-Serve Subscription Agreement
 ============================================
 
-Effective April 1, 2022
+Effective August 4, 2022
 
 PLEASE READ THE FOLLOWING CAREFULLY AS IT AFFECTS YOUR LEGAL RIGHTS. THIS SELF-SERVE SUBSCRIPTION AGREEMENT (“SUBSCRIPTION AGREEMENT”), [SUPPLEMENTAL TERMS](https://www.cloudflare.com/supplemental-terms/), [DOMAIN REGISTRATION AGREEMENT](https://www.cloudflare.com/domain-registration-agreement/), ANY PLAN OR FEATURE LIMITS, PRODUCT DISCLAIMERS, OR OTHER RESTRICTIONS PRESENTED TO YOU ON THE CLOUDFLARE WEBSITE OR DOCUMENTATION, AND ALL OTHER APPLICABLE TERMS (COLLECTIVELY, THE “AGREEMENT”) GOVERN YOUR USE OF OUR SERVICES (AS DEFINED BELOW), INCLUDING BUT NOT LIMITED TO, ANY FREE, TRIAL, OR PAID CLOUDFLARE SERVICES OR SOFTWARE WHERE THE SUBSCRIPTION AGREEMENT APPEARS OR IS LINKED TO. THE [SUPPLEMENTAL TERMS](https://www.cloudflare.com/supplemental-terms/) AND [DOMAIN REGISTRATION AGREEMENT](https://www.cloudflare.com/domain-registration-agreement/) (EACH WHERE APPLICABLE), WHICH MAY BE UPDATED BY US FROM TIME TO TIME, ARE HEREBY INCORPORATED BY REFERENCE INTO THE SUBSCRIPTION AGREEMENT.
 
@@ -69,7 +69,7 @@ You must obtain all necessary rights, releases and permissions to provide Custom
 
 #### 2.5.3
 
-Cloudflare may modify certain components of Customer Content on or transmitted to or from your website to enhance your website’s performance or security or the functionality of the Services. For example, depending on the Services you select or the Apps that you enable, Cloudflare may: (i) intercept requests determined to be threats and take actions, such as, presenting them with a challenge page, dropping the request, presenting alternative content, redirecting and other similar measures; (ii) add cookies to your domain to track visitors, such as those who have successfully passed the CAPTCHA on a challenge page; (iii) add scripts to your pages to perform additional performance tracking; (iv) add firewall rules to your website; and (v) make other changes to increase the performance, security or analytic capabilities of your website. Cloudflare will make it clear whenever a feature will materially modify Customer Content and, whenever possible, provide you a mechanism to allow you to disable the feature.
+Cloudflare may modify certain components of Customer Content on or transmitted to or from your Internet Properties or scan your infrastructure and related configurations to enhance your website’s performance or security or the functionality of the Services. For example, depending on the Services you select or the Apps that you enable, Cloudflare may: (i) intercept requests determined to be threats and take actions, such as, presenting them with a challenge page, dropping the request, presenting alternative content, redirecting and other similar measures; (ii) add cookies to your domain to track visitors, such as those who have successfully passed the CAPTCHA on a challenge page; (iii) add scripts to your pages to perform additional performance tracking; (iv) add firewall rules to your website; (v) scan your infrastructure to identify supported protocols in order to enhance your Internet Properties’ security; and (vi) make other changes to increase the performance, security, or analytic capabilities of your website. Cloudflare will make it clear whenever a feature will materially modify Customer Content and, whenever possible, provide you a mechanism to allow you to disable the feature.
 
 #### 2.5.4
 
