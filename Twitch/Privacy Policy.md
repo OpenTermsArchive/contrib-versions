@@ -75,7 +75,7 @@ Residents of the European Economic Area (“EEA”) and residents of Brazil can 
 *   Transfer your personal information to a third-party provider of services.
 *   Revoke consent that you previously provided for the processing of your personal information.
 
-For more information on how to exercise these rights, click [here](https://www.twitch.tv/p/legal/privacy-choices/).  If applicable, you may make a complaint to the data protection supervisory authority in the country where you are based. Alternatively, you may seek a remedy through local courts if you believe your rights have been breached.
+For more information on how to exercise these rights, view your [Privacy Choices](https://www.twitch.tv/p/legal/privacy-choices/).  If applicable, you may make a complaint to the data protection supervisory authority in the country where you are based. Alternatively, you may seek a remedy through local courts if you believe your rights have been breached.
 
 #### Account Closure & Deletion
 
@@ -89,7 +89,7 @@ If you connect to a third-party service (such as Facebook, Twitter, or another t
 
 #### Extensions
 
-The [Twitch Extensions](https://dev.twitch.tv/extensions) program allows broadcasters to embed interactive, custom, third-party content and applications on their channel pages. You can find out more about the specific Extension(s) operating on a given channel by clicking on the attribution links or icons that Twitch will make available on the channel page, for example, on the Twitch video player or at the bottom of an Extension’s panel.
+The [Twitch Extensions Program for Developers](https://dev.twitch.tv/extensions) allows broadcasters to embed interactive, custom, third-party content and applications on their channel pages. You can find out more about the specific Extension(s) operating on a given channel by clicking on the attribution links or icons that Twitch will make available on the channel page, for example, on the Twitch video player or at the bottom of an Extension’s panel.
 
 Interaction by a viewer with an Extension or with the channel on which the Extension is activated will provide the developer that operates the Extension with viewer information of the nature described above in “Automatically Collected Information.” Twitch does not provide access to your user name or ID to third-party Extension developers as part of the Twitch Extensions program unless you click “Grant Access” within the Extension or you install an Extension on your channel. You are responsible for any information you provide to the developer independently, for example, through a web form on the Extension or visiting that developer’s website.
 
@@ -141,16 +141,16 @@ We will not materially change our policies and practices to make them less prote
 
 #### Twitch Contact Information
 
-Please contact Twitch with any questions or comments about this Privacy Notice at 350 Bush Street, 2nd Floor, San Francisco, CA 94104, [here](https://help.twitch.tv/s/contactsupport) under the ‘Privacy Questions’ category, or by email to privacy@twitch.tv. Our Data Protection Officer (DPO) can also be contacted at privacy@twitch.tv. We will respond to your inquiry within 30 days of its receipt. If you are a California resident, you may have information emailed to you by sending a letter to the foregoing address with your email address and your request for information.
+Please contact Twitch with any questions or comments about this Privacy Notice at 350 Bush Street, 2nd Floor, San Francisco, CA 94104, visit the [Twitch Support Portal](https://help.twitch.tv/s/contactsupport) under the ‘Privacy Questions’ category, or send an email to privacy@twitch.tv. Our Data Protection Officer (DPO) can also be contacted at privacy@twitch.tv. We will respond to your inquiry within 30 days of its receipt. If you are a California resident, you may have information emailed to you by sending a letter to the foregoing address with your email address and your request for information.
 
-Twitch UK Limited has been designated by Twitch Interactive, Inc. as its representative under the UK General Data Protection Regulation (UK GDPR) for residents of the UK. Please contact Twitch UK with any questions (including questions about your rights) or comments about this Privacy Notice at Twitch UK Limited,1 New Oxford Street WC1A 1BA, UK, [here](https://help.twitch.tv/s/contactsupport) under the ‘Privacy Questions’ category, or by email to privacy@twitch.tv.
+Twitch UK Limited has been designated by Twitch Interactive, Inc. as its representative under the UK General Data Protection Regulation (UK GDPR) for residents of the UK. Please contact Twitch UK with any questions (including questions about your rights) or comments about this Privacy Notice at Twitch UK Limited,1 New Oxford Street WC1A 1BA, UK, visit the [Twitch Support Portal](https://help.twitch.tv/s/contactsupport) under the ‘Privacy Questions’ category, or send an email to privacy@twitch.tv.
 
 #### Additional Information for Certain Jurisdictions
 
 ##### California Privacy Disclosures
 
-[Click here](https://www.twitch.tv/p/en/legal/california-privacy-disclosure) to read additional disclosures required under the California Consumer Privacy Act and other California laws.
+Visit the [California Privacy Disclosures](https://www.twitch.tv/p/legal/california-privacy-disclosure/) page to read additional disclosures required under the California Consumer Privacy Act and other California laws.
 
 ##### Republic of Korea Privacy Disclosures
 
-[Click here](https://www.twitch.tv/p/en/legal/republic-of-korea-privacy-disclosures) to read additional disclosures required under the Personal Information Protection Act.
+Visit the [Republic of Korea Privacy Disclosures](https://www.twitch.tv/p/legal/republic-of-korea-privacy-disclosures/) page to read additional disclosures required under the Personal Information Protection Act.
