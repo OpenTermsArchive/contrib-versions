@@ -1,5 +1,7 @@
-Terms of use
-============
+**Terms of use**
+================
+
+All use of Thomson Reuters web pages located within www.thomsonreuters.com is subject to the terms and conditions set forth below 
 
  
 
