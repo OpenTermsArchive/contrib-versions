@@ -166,7 +166,7 @@ By using our Service, you understand and acknowledge that your Personal Informat
 
 ### 10\. YOUR CHOICES; DELETION REQUESTS
 
-In certain circumstances providing Personal Information is optional. However, if you choose not to provide Personal Information that is needed to use some features of our Service, you may be unable to use those features. You can also contact us [contact us](mailto:hn@ycombinator.com) at [hn@ycombinator.com](mailto:hn@ycombinator.com) to ask us to update, correct, or delete your Personal Information. Please note that we reserve the right to refuse to (i) delete any of the submissions, favorites, or comments you post on the Site or link in your profile or (ii) remove their association with your profile or username.
+In certain circumstances providing Personal Information is optional. However, if you choose not to provide Personal Information that is needed to use some features of our Service, you may be unable to use those features. You can also [contact us](mailto:hn@ycombinator.com) at [hn@ycombinator.com](mailto:hn@ycombinator.com) to ask us to update, correct, or delete your Personal Information. Please note that we reserve the right to refuse to (i) delete any of the submissions, favorites, or comments you post on the Site or link in your profile or (ii) remove their association with your profile or username.
 
 ### 11\. CHANGES TO THE PRIVACY POLICY
 
