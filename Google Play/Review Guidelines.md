@@ -75,7 +75,7 @@ We don't permit terrorist organisations to publish apps on Google Play for any p
 
 We don't allow apps with content related to terrorism, such as content that promotes terrorist acts, incites violence or celebrates terrorist attacks. If posting content related to terrorism for an educational, documentary, scientific or artistic purpose, be mindful to provide relevant EDSA context.
 
-#### **Dangerous movements and organisations**
+#### Dangerous organisations and movements
 
 We do not permit movements or organisations that have engaged in, prepared for or claimed responsibility for acts of violence against civilians to publish apps on Google Play for any purpose, including recruitment. 
 
