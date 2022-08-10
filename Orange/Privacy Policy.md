@@ -312,19 +312,19 @@ Toute demande d'exercice de vos droits doit être accompagnée d’éléments pe
 
 Une réponse vous sera adressée dans un délai d'un mois à compter de la réception de votre demande. En cas de complexité de la demande, ce délai peut être allongé. Dans ce cas vous en serez notifié.
 
-#### Offres Grand Public
+### Offres Grand Public
 
 Vous pouvez utiliser le [formulaire de contact en ligne](https://formulaires.services.orange.fr/1770) disponible dans votre espace client sur orange.fr, rubrique Compte > Vie privée et confidentialité ou en écrivant à : Orange Service Client, Gestion des données personnelles, 33732 Bordeaux Cedex 9.
 
-#### Offres Professionnelles
+### Offres Professionnelles
 
 Vous pouvez utiliser le formulaire de contact en ligne disponible sur pro.orange.fr > nous contacter et nous l'adresser numériquement ou écrire à Orange Business Service, Agences Entreprises, Gestion des données personnelles, TSA 70007, 82008 Montauban.
 
-#### Prospects
+### Prospects
 
 Vous pouvez écrire à : Orange Service Client, Gestion des données personnelles, 33732 Bordeaux Cedex 9 pour les prospects Grand Public. Orange Business Service, Agences Entreprises, Gestion des données personnelles, TSA 70007, 82008 Montauban pour les prospects pros.
 
-#### Possibilité de saisir la CNIL
+### Possibilité de saisir la CNIL
 
 Si vos échanges avec Orange n’ont pas été satisfaisants, vous avez la possibilité d’introduire une réclamation auprès de la Commission Nationale de l’Informatique et des Libertés (CNIL), autorité de contrôle en charge du respect des obligations en matière de protection des données personnelles en France.
 
