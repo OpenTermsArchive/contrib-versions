@@ -1498,7 +1498,7 @@ Pour lui permettre de faire librement son choix, toutes les informations utiles 
 
 Le Client est libre d’accepter ou de refuser la proposition de don qui lui est faite, de choisir le montant de son don ainsi que le Projet qui en bénéficiera.
 
-En cas de refus par le Client, la proposition de don disparaét et la procédure de paiement reprend comme habituellement. 
+En cas de refus par le Client, la proposition de don disparaît et la procédure de paiement reprend comme habituellement. 
 
 **2.2.** **ACCEPTATION DE LA PROPOSITION DE DON ET PAIEMENT**
 
