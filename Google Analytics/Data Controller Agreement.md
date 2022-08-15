@@ -1,6 +1,8 @@
 Google Measurement Controller-Controller Data Protection Terms
 ==============================================================
 
+We are making changes to the Google Measurement Controller-Controller Data Protection Terms. These updates will apply from September 21, 2022. You can find the terms which apply prior to September 21, 2022 [here](https://support.google.com/analytics/answer/12374520).
+
 The Measurement Services customer agreeing to these terms (“**Customer**”) has entered into an agreement with either Google or a third party reseller (as applicable) for the provision of the Measurement Services (as amended from time to time, the “**Agreement**”) through which services user interface Customer has enabled the Data Sharing Setting.
 
 These Google Measurement Controller-Controller Data Protection Terms (“**Controller Terms**”) are entered into by Google and Customer. Where the Agreement is between Customer and Google, these Controller Terms supplement the Agreement. Where the Agreement is between Customer and a third party reseller, these Controller Terms form a separate agreement between Google and Customer.
@@ -29,13 +31,13 @@ In these Controller Terms:
 
 “Adequate Country” means:
 
-*   (a) for data processed subject to the EU GDPR: the EEA, or a country or territory that is the subject of an adequacy decision by the Commission under Article 45(1) of the EU GDPR;
-*   (b) for data processed subject to the UK GDPR: the UK or a country or territory that is the subject of the adequacy regulations under Article 45(1) of the UK GDPR and Section 17A of the Data Protection Act 2018; and/or
-*   (c) for data processed subject to the Swiss FDPA: Switzerland, or a country or territory that (i) is included in the list of the states whose legislation ensures an adequate level of protection as published by the Swiss Federal Data Protection and Information Commissioner, or (ii) is the subject of an adequacy decision by the Swiss Federal Council under the Swiss FDPA.
+*   (a) for data processed subject to the EU GDPR: the EEA, or a country or territory recognized as ensuring adequate data protection under EU GDPR;
+*   (b) for data processed subject to the UK GDPR: the UK or a country or territory recognized as ensuring adequate data protection under the UK GDPR and the Data Protection Act 2018; and/or
+*   (c) for data processed subject to the Swiss FDPA: Switzerland, or a country or territory that is (i) included in the list of the states whose legislation ensures adequate data protection as published by the Swiss Federal Data Protection and Information Commissioner, or (ii) recognized as ensuring adequate data protection by the Swiss Federal Council under the Swiss FDPA, in each case, other than on the basis of an optional data protection framework.
 
 “Affiliate” means an entity that directly or indirectly controls, is controlled by, or is under common control with, a party.
 
-“Alternative Transfer Solution” means a solution, other than the Controller UK SCCs, that enables the lawful transfer of personal data to a third country in accordance with the European Data Protection Legislation.
+“Alternative Transfer Solution” means a solution, other than the Controller SCCs, that enables the lawful transfer of personal data to a third country in accordance with the European Data Protection Legislation, for example a data protection framework recognized as ensuring that participating local entities provide adequate protection.
 
 "Confidential Information" means these Controller Terms.
 
@@ -43,7 +45,7 @@ In these Controller Terms:
 
 “Controller Personal Data” means any personal data that is processed by a party pursuant to the Data Sharing Setting.
 
-“Controller UK SCCs” means the terms at [https://business.safety.google/adscontrollerterms/sccs/uk-c2c](https://business.safety.google/adscontrollerterms/sccs/uk-c2c).
+“Controller SCCs” means the terms at [business.safety.google/adscontrollerterms/sccs/c2c](https://support.google.com/analytics/answer/business.safety.google/adscontrollerterms/sccs/c2c).
 
 “Data Sharing Setting” means the data sharing setting which Customer has enabled via the user interface of the Measurement Services and which enables Google and its Affiliates to use personal data for improving Google’s and its Affiliates’ products and services.
 
@@ -56,6 +58,8 @@ In these Controller Terms:
 “European Controller Personal Data” means Controller Personal Data of Controller Data Subjects located in the European Economic Area or Switzerland.
 
 “European Data Protection Legislation” means, as applicable: (a) the GDPR; and/or (b) the Swiss FDPA.
+
+“European Laws” means, as applicable: (a) EU or EU Member State law (if the EU GDPR applies to the processing of Controller Personal Data); and (b) the law of the UK or a part of the UK (if the UK GDPR applies to the processing of Controller Personal Data).
 
 “GDPR” means, as applicable: (a) the EU GDPR; and/or (b) the UK GDPR.
 
@@ -75,7 +79,7 @@ In these Controller Terms:
 
 “Non-European Data Protection Legislation” means data protection or privacy laws in force outside the EEA, Switzerland and the UK.
 
-“Permitted Transfers” means the processing of Controller Personal Data in, or the transfer of Controller Personal Data to, an Adequate Country.
+“Permitted European Transfers” means the processing of Controller Personal Data in, or the transfer of Controller Personal Data to, an Adequate Country.
 
 “Policies” means the Google End User Consent Policy available at [https://www.google.com/about/company/user-consent-policy.html](https://www.google.com/about/company/user-consent-policy.html).
 
@@ -84,7 +88,7 @@ In these Controller Terms:
 *   (a) where Google is a party to the Agreement, the processor terms available at https://business.safety.google/adsprocessorterms; or
 *   (b) where the Agreement is between Customer and a third party reseller, such terms reflecting a controller-processor relationship (if any) as agreed between the Customer and the third party reseller.
 
-“Restricted Transfers” means transfers of Controller Personal Data which are (a) subject to the European Data Protection Legislation; and (b) are not Permitted Transfers.
+“Restricted European Transfers” means transfers of Controller Personal Data which are (a) subject to the European Data Protection Legislation; and (b) are not Permitted European Transfers.
 
 “Swiss FDPA” means the Federal Data Protection Act of 19 June 1992 (Switzerland).
 
@@ -99,7 +103,7 @@ In these Controller Terms:
 
 ### 2.2
 
-The terms “controller”, “data subject”, “personal data”, “processing” and “processor” as used in these Controller Terms have the meanings given in the GDPR, and the terms “data importer” and “data exporter” have the meanings given in the Controller UK SCCs.
+The terms “controller”, “data subject”, “personal data”, “processing” and “processor” as used in these Controller Terms have the meanings given in the GDPR, and the terms “data importer” and “data exporter” have the meanings given in the Controller SCCs.
 
 ### 2.3
 
@@ -115,7 +119,7 @@ To the extent any translated version of this Agreement is inconsistent with the 
 
 ### 2.6
 
-References in the Controller UK SCCs to the “Google Ads Controller-Controller Data Protection Terms” shall be deemed to mean the “Google Measurement Controller-Controller Data Protection Terms”.
+References in the Controller SCCs to the “Google Ads Controller-Controller Data Protection Terms” shall be deemed to mean the “Google Measurement Controller-Controller Data Protection Terms”.
 
 3\. Application of these Controller Terms
 -----------------------------------------
@@ -153,51 +157,42 @@ Customer will comply with the Policies in relation to the Controller Personal Da
 
 ### 4.4 End Controllers
 
-Without reducing either party’s obligations under these Controller Terms, each party acknowledges that: (a) the other party’s Affiliates or clients may be End Controllers; and (b) the other party may act as a processor on behalf of its End Controllers. The Google End Controllers are: (i) for European Controller Personal Data processed by Google, Google Ireland Limited; and (ii) for UK Controller Personal Data processed by Google, Google LLC. Each party will ensure that its End Controllers comply with the Controller Terms, including (where applicable) the Controller UK SCCs.
+Without reducing either party’s obligations under these Controller Terms, each party acknowledges that: (a) the other party’s Affiliates or clients may be End Controllers; and (b) the other party may act as a processor on behalf of its End Controllers. The Google End Controllers are: (i) for European Controller Personal Data processed by Google, Google Ireland Limited; and (ii) for UK Controller Personal Data processed by Google, Google LLC. Each party will ensure that its End Controllers comply with the Controller Terms, including (where applicable) the Controller SCCs.
 
 5\. Data Transfers
 ------------------
 
-### 5.1 Restricted Transfers
+### 5.1 Restricted European Transfers
 
-Subject to Section 5.3 (Transfers of UK Controller Personal Data to Google), either party may make Restricted Transfers if it complies with the provisions on Restricted Transfers in the European Data Protection Legislation.
+Subject to Section 5.3 (Transfers of UK Controller Personal Data to Google), either party may make Restricted European Transfers if it complies with the provisions on Restricted European Transfers in the European Data Protection Legislation.
 
 ### 5.2 Alternative Transfer Solution
 
-If Google announces its adoption of an Alternative Transfer Solution for any Restricted Transfers, then: (a) Google will ensure that such Restricted Transfers are made in accordance with that Alternative Transfer Solution, and (b) Sections 5.3 (Transfers of UK Controller Personal Data to Google) to 5.8 (Third Party Controllers) will not apply to such Restricted Transfers.
+*   (a) If Google announces its adoption of an Alternative Transfer Solution for any Restricted European Transfers, then: (i) Google will ensure that such Restricted European Transfers are made in accordance with that Alternative Transfer Solution, and (ii) Sections 5.3 (Transfers of UK Controller Personal Data to Google) to 5.6 (Data Deletion on Termination) will not apply to such Restricted European Transfers.
+*   (b) If Google has not adopted, or has informed Customer that Google is no longer adopting, an Alternative Transfer Solution for any Restricted European Transfers, then Section 5.3 will apply to such Restricted European Transfers.
 
 ### 5.3 Transfers of UK Controller Personal Data to Google
 
-To the extent that Customer transfers UK Controller Personal Data to Google, Customer as data exporter will be deemed to have entered into the Controller UK SCCs with Google LLC (the applicable Google End Controller) as data importer and the transfers will be subject to the Controller UK SCCs, because Google LLC is established in the USA and such transfers are therefore Restricted Transfers. For clarity, to the extent Customer transfers European Controller Personal Data to Google, no transfer mechanism under Chapter V of the EU GDPR is required because Google Ireland Limited (the applicable Google End Controller) is established in Ireland and such transfers are therefore Permitted Transfers.
+To the extent that Customer transfers UK Controller Personal Data to Google, Customer as data exporter will be deemed to have entered into the Controller SCCs with Google LLC (the applicable Google End Controller) as data importer and the transfers will be subject to the Controller SCCs, because Google LLC is established in the USA and such transfers are therefore Restricted European Transfers. For clarity, to the extent Customer transfers European Controller Personal Data to Google, no transfer mechanism under Chapter V of the EU GDPR is required because Google Ireland Limited (the applicable Google End Controller) is established in Ireland and such transfers are therefore Permitted European Transfers.
 
-### 5.4 Additional Commercial Clauses for the Controller UK SCCs
+### 5.4 Contacting Google; Customer Information
 
-Sections 5.5 (Contacting Google) to 5.8 (Third Party Controllers) are additional commercial clauses relating to the Controller UK SCCs as permitted by Clause VII (Variation of these clauses) of the Controller UK SCCs. Nothing in Sections 5.5 (Contacting Google) to 5.8 (Third Party Controllers) varies or modifies any rights or obligations of the parties to the Controller UK SCCs.
+*   (a) Customer may contact Google Ireland Limited and/or Google LLC in connection with the Controller SCCs at [https://support.google.com/policies/troubleshooter/9009584](https://support.google.com/policies/troubleshooter/9009584) or through such other means as may be provided by Google from time to time.
+*   (b) Customer acknowledges that Google is required under the Controller SCCs to record certain information, including (i) the identity and contact details of the data importer (including any contact person with responsibility for data protection); and (ii) the technical and organisational measures implemented by the data importer. Accordingly, Customer will, where requested and as applicable to Customer, provide such information to Google via such means as may be provided by Google, and will ensure that all information provided is kept accurate and up-to-date.
 
-### 5.5 Contacting Google
+### 5.5 Responding to Data Subject Enquiries
 
-Customer may contact Google Ireland Limited and/or Google LLC in connection with the Controller UK SCCs at [https://support.google.com/policies/troubleshooter/9009584](https://support.google.com/policies/troubleshooter/9009584) or through such other means as may be provided by Google from time to time, including for the purposes of requesting an Audit under Section 5.7 (a) (Reviews, Audits and Certifications of Compliance) below, to the extent applicable under the Controller UK SCCs.
+The applicable data importer will be responsible for responding to enquiries from data subjects and the supervisory authority concerning the processing of applicable Controller Personal Data by the data importer.
 
-### 5.6 Responding to Data Subject Enquiries
+### 5.6 Data Deletion on Termination
 
-For the purpose of Clause I(d) of the Controller UK SCCs, the applicable data importer will be responsible for responding to enquiries from data subjects and the authority concerning the processing of applicable Controller Personal Data by the data importer.
+To the extent that:
 
-### 5.7 Reviews, Audits and Certifications of Compliance
+(a) Google LLC acts as data importer and Customer acts as data exporter under the Controller SCCs; and
 
-*   (a) If the Controller UK SCCs apply under this Section 5 (Data Transfers), the applicable data importer will allow the applicable data exporter or a third party inspection agent or auditor appointed by the data exporter to conduct a review, audit and/or certification as described in the Controller UK SCCs (“Audit”) in accordance with this Section 5.7 (Reviews, Audits and Certifications of Compliance).
-*   (b) Following receipt by the data importer of a request for an Audit, the data importer and the data exporter will discuss and agree in advance on the reasonable start date, scope and duration of, and security and confidentiality controls applicable to, the Audit.
-*   (c) The data importer may charge a fee (based on the data importer’s reasonable costs) for any Audit. The data importer will provide the data exporter with further details of any applicable fee, and the basis of its calculation, in advance of the Audit. The data exporter will be responsible for any fees charged by any third party inspection agent or auditor appointed by the data exporter to execute the Audit.
-*   (d) The data importer may object to any third party inspection agent or auditor appointed by the data exporter to conduct any Audit if the inspection agent or auditor is, in the data importer’s reasonable opinion, not suitably qualified or independent, a competitor of the data importer or otherwise manifestly unsuitable. Any such objection by the data importer will require the data exporter to appoint another inspection agent or auditor or conduct the Audit itself.
-*   (e) The data importer will not be required either to disclose to the data exporter or its third party inspection agent or auditor, or to allow the data exporter or its third party inspection agent or auditor to access:
-    *   (i) any data of any customers of the data importer or any of its Affiliates;
-    *   (ii) any internal accounting or financial information of the data importer or any of its Affiliates;
-    *   (iii) any trade secret of the data importer or any of its Affiliates;
-    *   (iv) any information that, in the data importer’s reasonable opinion, could: (A) compromise the security of any systems or premises of the data importer or any of its Affiliates; or (B) cause the data importer or any Affiliate of the data importer to breach its obligations under the European Data Protection Legislation or its security and/or privacy obligations to the data exporter or any third party; or
-    *   (v) any information that the data exporter or its third party inspection agent or auditor seeks to access for any reason other than the good faith fulfillment of the data exporter’s obligations under the European Data Protection Legislation.
+(b) Customer terminates the Agreement in accordance with Clause 16(c) of the Controller SCCs,
 
-### 5.8 Third Party Controllers
-
-To the extent Google LLC acts as data importer and Customer acts as data exporter under the Controller UK SCCs under Section 5.3 (Transfers of UK Controller Personal Data to Google), Google notifies Customer for the purpose of Clause II(i) of the Controller UK SCCs that UK Controller Personal Data may be transferred to the third party data controllers described in applicable Help Centre articles for the Measurement Services.
+then for the purposes of Clause 16(d) of the Controller SCCs, Customer directs Google to delete Controller Personal Data, and, unless European Laws require storage, Google will facilitate such deletion as soon as is reasonably practicable, to the extent such deletion is reasonably possible (taking into account that Google is an independent controller of such data, as well as the nature and functionality of the Controller Services).
 
 6\. Liability
 -------------
@@ -211,37 +206,41 @@ If Google is:
     *   (ii) a jurisdiction that is not a state of the United States of America, then the liability of the parties under or in connection with these Controller Terms will be subject to the exclusions and limitations of liability in the Agreement; or
 *   (b) not party to the Agreement, to the extent permitted by applicable law, Google will not be liable for Customer’s lost revenues or indirect, special, incidental, consequential, exemplary or punitive damages, even if Google or its Affiliates have been advised of, knew or should have known that such damages do not satisfy a remedy. Google’s (and its Affiliates’) total cumulative liability to Customer or any other party for any loss or damages resulting from claims, damages or actions arising out of or relating to these Controller Terms will not exceed $500 (USD).
 
-### 6.2 Liability if the Controller UK SCCs Apply
+### 6.2 Liability if the Controller SCCs Apply
 
-If the Controller UK SCCs apply under Section 5 (Data Transfers), then:
+If the Controller SCCs apply under Section 5 (Data Transfers), then:
 
-(a) if Google is party to the Agreement, the total combined liability of: (i) Google and Google LLC towards Customer; and (ii) Customer towards Google, Google LLC and Google Ireland Limited; under or in connection with the Agreement and the Controller UK SCCs combined will be subject to Section 6.1(a) (Liability Cap). Clause III(a) of the Controller UK SCCs will not affect the previous sentence.
+(a) if Google is party to the Agreement, the total combined liability of: (i) Google and Google LLC towards Customer; and (ii) Customer towards Google, Google LLC and Google Ireland Limited; under or in connection with the Agreement and the Controller SCCs combined will be subject to Section 6.1(a) (Liability Cap). Clause 12 of the Controller SCCs will not affect the previous sentence.
 
-(b) if Google is not party to the Agreement, the total combined liability of: (i) Google and Google LLC towards Customer; and (ii) Customer towards Google, Google LLC and Google Ireland Limited; under or in connection with these Controller Terms and the Controller UK SCCs combined will be subject to Section 6.1(b) (Liability Cap). Clause III(a) of the Controller UK SCCs will not affect the previous sentence.
+(b) if Google is not party to the Agreement, the total combined liability of: (i) Google and Google LLC towards Customer; and (ii) Customer towards Google, Google LLC and Google Ireland Limited; under or in connection with these Controller Terms and the Controller SCCs combined will be subject to Section 6.1(b) (Liability Cap). Clause 12 of the Controller SCCs will not affect the previous sentence.
 
 7\. Third Party Beneficiaries
 -----------------------------
 
-Where Google LLC is not a party to the Agreement but is a party to the Controller UK SCCs, Google LLC will be a third-party beneficiary of Sections 4.4 (End Controllers), 5.3 (Transfers of UK Controller Personal Data to Google) to 5.8 (Third Party Controllers), and 6.1 (Liability Cap) to 6.2 (Liability if the Controller UK SCCs Apply). To the extent this Section 7 conflicts or is inconsistent with any other clause in the Agreement, this Section 7 will apply.
+Where Google LLC is not a party to the Agreement but is a party to the Controller SCCs, Google LLC will be a third-party beneficiary of Sections 4.4 (End Controllers), 5.3 (Transfers of Controller Personal Data to Google) to 5.6 (Data Deletion on Termination), and 6.1 (Liability Cap) to 6.2 (Liability if the Controller SCCs Apply). To the extent this Section 7 conflicts or is inconsistent with any other clause in the Agreement, this Section 7 will apply.
 
-8\. Effect of Controller UK SCCs
---------------------------------
+8\. Effect of Controller Terms
+------------------------------
 
 ### 8.1 Order of Precedence
 
-If there is any conflict or inconsistency between the Controller UK SCCs, the Additional Terms for Non-European Data Protection Legislation, the remainder of these Controller Terms and/or the remainder of the Agreement then, subject to Sections 4.2 (Restrictions on Processing) and 8.4 (No Effect on Processor Terms), the following order of precedence will apply: (a) the Controller UK SCCs (if applicable); (b) the Additional Terms for Non-European Data Protection Legislation (if applicable); (c) the remainder of these Controller Terms; and (d) the remainder of the Agreement (if applicable). Subject to the amendments in these Controller Terms, the Agreement between Google and Customer remains in full force and effect.
+If there is any conflict or inconsistency between the Controller SCCs, the Additional Terms for Non-European Data Protection Legislation, the remainder of these Controller Terms and/or the remainder of the Agreement then, subject to Sections 4.2 (Restrictions on Processing) and 8.4 (No Effect on Processor Terms), the following order of precedence will apply: (a) the Controller SCCs (if applicable); (b) the Additional Terms for Non-European Data Protection Legislation (if applicable); (c) the remainder of these Controller Terms; and (d) the remainder of the Agreement (if applicable). Subject to the amendments in these Controller Terms, the Agreement between Google and Customer remains in full force and effect.
 
 ### 8.2 Additional Commercial Clauses
 
-Sections 5.5 (Contacting Google) to 5.8 (Third Party Controllers), and Section 6.2 (Liability if Controller UK SCCs Apply) are additional commercial clauses as permitted by Clause VII (Variation of these Clauses) of the Controller UK SCCs.
+Sections 5.4 (Contacting Google) to 5.6 (Data Deletion on Termination), and Section 6.2 (Liability if Controller SCCs Apply) are additional commercial clauses relating to the Controller SCCs as permitted by Clause 2(a) (Effect and invariability of the Clauses) of the Controller SCCs.
 
-### 8.3 No Modification of Controller UK SCCs
+### 8.3 No Modification of Controller SCCs
 
-Nothing in the Agreement (including these Controller Terms) is intended to modify or contradict any Controller UK SCCs or prejudice the fundamental rights or freedoms of data subjects under the European Data Protection Legislation.
+Nothing in the Agreement (including these Controller Terms) is intended to modify or contradict any Controller SCCs or prejudice the fundamental rights or freedoms of data subjects under the European Data Protection Legislation.
 
 ### 8.4 No Effect on Processor Terms
 
 These Controller Terms will not replace or affect any Processor Terms. For the avoidance of doubt, if Customer is party to the Processor Terms in connection with the Measurement Services, the Processor Terms will continue to apply to the Measurement Services notwithstanding that these Controller Terms apply to Controller Personal Data processed pursuant to the Data Sharing Setting.
+
+### 8.5 Legacy UK SCCs
+
+As of 21 September 2022 or the Agreement’s effective date, whichever is later, the Controller SCCs’ supplementary terms for UK GDPR transfers will apply, and will supersede and terminate any standard contractual clauses approved under the UK GDPR and the Data Protection Act 2018 and previously entered into by Customer and Google (“Legacy UK SCCs”). This Section 8.5 (Legacy UK SCCs) will not affect either party’s rights, or any data subject’s rights, that may have accrued under the Legacy UK SCCs while they were in force.
 
 9\. Changes to these Controller Terms
 -------------------------------------
@@ -251,7 +250,7 @@ These Controller Terms will not replace or affect any Processor Terms. For the a
 Google may change these Controller Terms if the change:
 
 *   (a) is required to comply with applicable law, applicable regulation, a court order or guidance issued by a governmental regulator or agency, or reflects Google’s adoption of an Alternative Transfer Solution; or
-*   (b) does not: (i) seek to alter the categorisation of the parties as independent controllers of Controller Personal Data under the European Data Protection Legislation; (ii) expand the scope of, or remove any restrictions on, either party’s rights to use or otherwise process Controller Personal Data; or (iii) have a material adverse impact on Customer, as reasonably determined by Google.
+*   (b) does not: (i) otherwise seek to alter the categorisation of the parties as controllers of Controller Personal Data under the European Data Protection Legislation; (ii) expand the scope of, or remove any restrictions on, either party’s rights to use or otherwise process Controller Personal Data; or (iii) have a material adverse impact on Customer, as reasonably determined by Google.
 
 ### 9.2 Notification of Changes
 
@@ -290,7 +289,7 @@ If any term (or part of a term) of these Controller Terms is invalid, illegal, o
 > 
 > (b) Where the Agreement is between Customer and a third party reseller, and the third party reseller is organised in Europe, the Middle East or Africa, these Controller Terms will be governed by English law. Each party agrees to submit to the exclusive jurisdiction of the English courts in relation to any dispute (whether contractual or non-contractual) arising out of or in connection with these Controller Terms.
 > 
-> (c) In the event the Controller UK SCCs apply and provide for governing law that differs from the laws outlined in sections (a) and (b) above, the governing law set forth in the Controller UK SCCs will apply solely with respect to the Controller UK SCCs.
+> (c) In the event the Controller SCCs apply and provide for governing law that differs from the laws outlined in sections (a) and (b) above, the governing law set forth in the Controller SCCs will apply solely with respect to the Controller SCCs.
 > 
 > (d) The United Nations Convention on Contracts for the International Sale of Goods and the Uniform Computer Information Transactions Act do not apply to these Controller Terms.
 
@@ -323,10 +322,12 @@ For the purposes of these Controller Terms:
 
 _Google Measurement Controller-Controller Data Protection Terms, Version 2.0_
 
-27 September, 2021
+21 September, 2022
 
 Previous versions
 -----------------
+
+[27 September, 2021](https://support.google.com/analytics/answer/12374520)
 
 [16 August, 2020](https://support.google.com/analytics/answer/11156289)
 
