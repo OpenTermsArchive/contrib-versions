@@ -1,6 +1,8 @@
-Ulster University Privacy notice.
+Page content
+------------
 
-* * *
+*   [Ulster.ac.uk](#panel1-1195415)
+*   [Alumni](#panel2-1195415)
 
 Ulster.ac.uk (www.ulster.ac.uk) is provided by Ulster University.
 
@@ -178,13 +180,41 @@ The data protection officer can be contacted at [gpdr@ulster.ac.uk](mailto:gpdr@
 
 [Get more information on our GDPR policies](https://www.ulster.ac.uk/about/governance/compliance/gdpr).
 
+About Ulster University
+-----------------------
+
+Ulster University is a registered charity (registered with the Charity Commission for Northern Ireland NIC100166). The Data Controller for the University is the University Secretary.
+
+How we use your data
+--------------------
+
+Your data (your name, contact details and any other information that you provide to us, including information about your engagement with the University) is held securely by the Development and Alumni Relations Office of Ulster University on its database.
+
+All data held on this database is treated confidentially in accordance with the provisions of the Data Protection Act 1988.
+
+The Development and Alumni Relations Office may use this data to notify you of University alumni activities, benefits and services; to invite you to participate in research; and to advise you of academic and fundraising programmes. Anonymised data may be used for statistical purposes.
+
+The Development and Alumni Relations Office obtains data, including financial data, from third party sources which assists us in organising and planning our fundraising programmes.
+
+Your data will not be passed to third parties for marketing purposes.
+
+Managing the way in which we communicate with you
+-------------------------------------------------
+
+We are required to gather your contact details in order to process payments for merchandise/tickets and donations. In order to manage the way in which we communicate with you, please contact [alumni@ulster.ac.uk](mailto:alumni@ulster.ac.uk) or call 028 9536 7486. Alternatively, you may wish to write to us at the following address:
+
+Alumni Relations Assistant  
+Development and Alumni Relations Office  
+Ulster University  
+York Street  
+Belfast   
+BT15 1ED
+
 The Data Protection Officer provides independent advice and monitoring of our use of personal information.
 
 [You can also make a complaint to the Information Commissioner](https://ico.org.uk/make-a-complaint/), who is an independent regulator.
 
 Ulster University’s registration number is Z6533200.
-
-* * *
 
 Changes to this policy
 ----------------------
@@ -195,4 +225,4 @@ In that case, the ‘last updated’ date at the bottom of this page will also c
 
 If these changes affect how your personal data is processed, Ulster University will take reasonable steps to let you know.
 
-Last update on 25 April 2021.
+Last update on 20 May 2022.
