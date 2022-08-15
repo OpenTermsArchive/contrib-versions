@@ -10,9 +10,11 @@ How we use cookies
 
 Like most providers of online services, Snap Inc. uses cookies, including third-party cookies, for a number of reasons, like protecting your Snapchat data and account, helping us see which features are most popular, counting visitors to a page, understanding how you engage with web content and emails we send, improving our users’ experience, keeping our services secure, providing relevant advertising and just generally providing you with a better, more intuitive and satisfying experience. The cookies we use generally fall into one of the following categories:
 
+You can see which cookies we use on our sites, for what purpose(s), and for how long on our [Cookie Information Page](https://www.snap.com/en-GB/privacy/cookie-information#Necessary).
+
 | Category of cookies | Why we use these cookies |
 | --- | --- |
-| Necessary | We use these cookies to run our site and to identify and prevent security risks.  <br>  <br>For example, we may use these cookies to store your session information to prevent others from changing your password without your username and password. |
+| Essential | Also known as “necessary” cookies. We use these cookies to run our site and to identify and prevent security risks.  <br>  <br>For example, we may use these cookies to store your session information to prevent others from changing your password without your username and password or remember your cookie preferences. |
 | Preferences | We use these cookies to remember your settings and preferences and to improve your experience on our site.  <br>  <br>For example, we may use these cookies to remember your language preferences. |
 | Performance & Analytics | We use these cookies to collect information about how you use our site, monitor site performance and improve our site performance, our services and your experience.  <br>  <br>For example, we can use these cookies to learn more about which features are the most popular with our users and which ones might need some tweaks. |
 | Marketing | We use these cookies to deliver advertisements, to make them more relevant and meaningful to consumers, and to track the efficiency of our advertising campaigns, both on our services and on other websites or mobile apps. Our [third-party advertising partners](#third-party-advertising-partners) may use these cookies to build a profile of your interests and deliver relevant advertising on other sites. |
@@ -33,7 +35,7 @@ We may collect information about your activity on third-party services that use 
 Your choices
 ------------
 
-Your browser may provide you with the option to refuse some or all browser cookies. You may also be able to remove cookies from your browser. For more information about how to manage browser cookies, please follow the instructions provided by your browser.
+Your browser may provide you with the option to refuse some or all non-essential browser cookies. You may also be able to remove cookies from your browser. For more information about how to manage browser cookies, please follow the instructions provided by your browser.
 
 ### _Browser cookies_
 
