@@ -4,7 +4,7 @@ Privacy Policy (printable version)
 General information
 -------------------
 
-*   Last updated: 22 July 2022
+*   Last updated: 3 August 2022
 *   Here we inform you about data processing in connection with the entire service XING and its applications (kununu etc.).
 *   New Work SE is the body responsible for the processing of personal data.
 *   Our Data Protection Officer is Felix Lasse.
@@ -44,7 +44,8 @@ How is your personal data processed?
 
 The main reason we process [personal data](https://privacy.xing.com/en/privacy-policy/glossary/personal-data) is to fulfil our contractual obligations towards our users. The processing of data is required, for example, for us to be able to suggest suitable contacts, services and information to you.
 
-Operating a service like [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) is subject to dynamic change by its very nature. It is not therefore possible to share every single detail about our data processing with you, but we do intend to inform you of all the key information. We process data first and foremost in order to fulfill our contractual obligations towards our users. In addition to this, we process your data to preserve our justifiable interests while taking your interests into account (e.g. when we send you promotional [newsletters](https://privacy.xing.com/en/privacy-policy/glossary/newsletter)). And, of course, in some cases we are legally obliged to process data (e.g. to pass the data on to any investigative authorities). In all other cases we will ask for your separate consent to process your data (e.g. when [using tracking technologies for the measurement and optimisation of advertising](https://privacy.xing.com/en/privacy-policy/information-we-automatically-receive-through-your-use-of-xing/measurement-and-optimisation-of-advertising) or when you enter a prize draw). When it comes to fulfilling our contractual obligations towards our users, we try to tailor our products and services to the needs of users at all times. Personalisation is important here. Interest and usage profiles are created. In order to be able to show you recommendations, e.g. for jobs, events, groups or contacts, and to suggest you as a valuable business contact or potential employee, we must have an idea of what your interests might be. In order to ascertain these interests we use information that you provide to us, in addition to implicit feedback, i.e. information that we automatically obtain through your usage of our service (by means of so-called "tracking"), as well as information that we may possibly receive indirectly (e.g. through a [user's address book or upload](https://privacy.xing.com/en/privacy-policy/information-we-receive-about-you-from-other-sources)). In order to meet our contractual obligations, we also serve you third-party advertising tailored to your needs and interests wherever possible. To this end, we provide advertisers with certain targeting criteria. Advertisers can state, for example, that they would like to target "directors" at companies with "1,000-5,000 employees".
+Operating a service like [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) is subject to dynamic change by its very nature. It is not therefore possible to share every single detail about our data processing with you, but we do intend to inform you of all the key information. We process data first and foremost in order to fulfil our contractual obligations towards our users. In addition to this, we process your data to preserve our justifiable interests while taking your interests into account (e.g. when we send you promotional [newsletters](https://privacy.xing.com/en/privacy-policy/glossary/newsletter)). And, of course, in some cases we are legally obliged to process data (e.g. to pass the data on to any investigative authorities). In all other cases we will ask for your separate consent to process your data (e.g. when [using tracking technologies for the measurement and optimisation of advertising](https://privacy.xing.com/en/privacy-policy/information-we-automatically-receive-through-your-use-of-xing/measurement-and-optimisation-of-advertising) or when you enter a prize draw). When it comes to fulfilling our contractual obligations towards our users, we try to tailor our products and services to the needs of users at all times. Personalisation is important here. Interest and usage profiles are created. In order to be able to show you recommendations, e.g. for jobs, events, groups or contacts, and to suggest you as a valuable business contact or potential employee, we must have an idea of what your interests might be. In order to ascertain these interests we use information that you provide to us, in addition to implicit feedback, i.e. information that we automatically obtain through your usage of our service (by means of so-called "tracking"), as well as information that we may possibly receive indirectly (e.g. through a [user's address book or upload](https://privacy.xing.com/en/privacy-policy/information-we-receive-about-you-from-other-sources)). In order to meet our contractual obligations, we also serve you third-party advertising tailored to your needs and interests wherever possible. To this end, we provide advertisers with certain targeting criteria. Advertisers can state, for example, that they would like to target "directors" at companies with "1,000-5,000 employees".  
+If you give us your consent, we will use your data for targeting on third-party platforms (see [measurement and optimisation of advertising](https://privacy.xing.com/en/privacy-policy/information-we-automatically-receive-through-your-use-of-xing/measurement-and-optimisation-of-advertising)). The legal basis for this processing of personal data is Article 6 (1) a) of the EU General Data Protection Regulation (GDPR).
 
 ### 2\. Information you provide to us
 
@@ -83,7 +84,7 @@ The legal basis for this processing of [personal data](https://privacy.xing.com/
 
 #### Mandatory information in the social network
 
-You are required to complete certain mandatory fields. This information is essential for a functioning professional network.
+You are required to complete certain mandatory fields. The social network offers you a number of different ways for your to present yourself with your own user profile on XING websites and beyond, and to interact with other users and third parties in real time. This mandatory information is essential to serve the overarching purpose of XING.
 
 #### Category
 
@@ -96,7 +97,7 @@ e.g.
 
 #### Visibility
 
-The following mandatory information is always visible without limitation to other users in the [social network](https://privacy.xing.com/en/privacy-policy/glossary/social-network):
+The following mandatory information is always visible without limitation to other users in the [social network](https://privacy.xing.com/en/privacy-policy/glossary/social-network), and to users of certain other XING websites on which your user profile is displayed in full or in part:
 
 *   First name, last name
 *   Job title and company name
@@ -113,7 +114,7 @@ The legal basis for this processing of [personal data](https://privacy.xing.com/
 
 #### Optional information in the social network
 
-As well as the mandatory information we require, you can also enter additional information to make it easier for users to get to know you better and, for example, identify and select you as a suitable business contact.
+As well as the mandatory information we require, you can also enter additional information to make it easier for users to get to know you better and, for example, identify and select you as a suitable employee or business contact.
 
 #### Category
 
@@ -128,18 +129,18 @@ e.g.
 
 #### Visibility
 
-Your optional information is visible to all users in the social network after you enter it. In some cases, you can choose whether optional information should only be visible to certain users in the social network.
+After entry, your optional information is visible to all users in the social network, and to users of certain other XING websites where your user profile is displayed in full or in part. In some cases, you can choose whether optional information should only be visible to certain users.
 
 If you activate the "around you" feature with Bluetooth also activated, other XING users with this feature activated will be sought within a radius of 10 to 20 metres (depending on your device). This feature can act as a substitute for exchanging conventional business cards. To provide this feature, your profile details, including your name, company name, your job title and your photo are displayed to other users. We do not use Bluetooth permanently in the background and do not track your location.
 
 #### Privacy
 
 You can retract most optional information at any time for the future by deleting the respective data in your [profile](https://privacy.xing.com/en/privacy-policy/glossary/profile).  
-With your contact details and date of birth, you can decide on a case-by-case basis whether and to what extent this information should be visible for a particular user in the [social network](https://privacy.xing.com/en/privacy-policy/glossary/social-network).
+With your contact details and date of birth, you can decide on a case-by-case basis whether and to what extent this information should be visible for a particular user.
 
 #### Period saved for
 
-If you delete the data, it will be removed from the social network. We will erase the data in full when you delete your user account.
+If you delete the data, it will be removed from your user profile. We will erase the data in full when you delete your user account.
 
 #### Legal basis
 
@@ -194,7 +195,7 @@ The legal basis for this processing of [personal data](https://privacy.xing.com/
 
 #### E-mail address(es)
 
-We use the electronic mail address(es) that you have provided to us to send you regular [newsletters](https://privacy.xing.com/en/privacy-policy/glossary/newsletter) and/or status e-mails electronically, in addition to advertising for our own related products and services, or surveys for the purpose of our own market research, unless you have objected to this form of usage. The [newsletters](https://privacy.xing.com/en/privacy-policy/glossary/newsletter) are a simple and effective way of finding out about new features on [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing), for example, having interesting contacts suggested to you, or receiving certain personal statistics. We also use the e-mail addresses you provided us with (with the exception of the login e-mail address) to ensure that your [profile](https://privacy.xing.com/en/privacy-policy/glossary/profile) can be found by other users of the [social network](https://privacy.xing.com/en/privacy-policy/glossary/social-network) and to be able to display your profile to these users.
+We use the electronic mail address(es) that you have provided to us to send you regular [newsletters](https://privacy.xing.com/en/privacy-policy/glossary/newsletter) and/or status e-mails electronically, in addition to advertising for our own related products and services, or surveys for the purpose of our own market research, unless you have objected to this form of usage. The [newsletters](https://privacy.xing.com/en/privacy-policy/glossary/newsletter) are a simple and effective way of finding out about new features on [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing), for example, having interesting contacts suggested to you, or receiving certain personal statistics. We use the e-mail addresses you provided us with (with the exception of the login e-mail address) to ensure that your [profile](https://privacy.xing.com/en/privacy-policy/glossary/profile) can be found by other users of the [social network](https://privacy.xing.com/en/privacy-policy/glossary/social-network) and to be able to display your profile to these users. If you give us your consent, we will use your data for targeting on third-party platforms (see [measurement and optimisation of advertising](https://privacy.xing.com/en/privacy-policy/information-we-automatically-receive-through-your-use-of-xing/measurement-and-optimisation-of-advertising)).
 
 #### Privacy
 
@@ -206,7 +207,7 @@ If you delete the e-mail address(es), it/they will be removed from the respectiv
 
 #### Legal basis
 
-The legal basis for this processing of [personal data](https://privacy.xing.com/en/privacy-policy/glossary/personal-data) are Article 6 (1) f) (newsletters) and Article 6 (1) b) of the [EU General Data Protection Regulation (GDPR)](https://privacy.xing.com/en/privacy-policy/glossary/eu-gdpr).
+The legal basis for this processing of [personal data](https://privacy.xing.com/en/privacy-policy/glossary/personal-data) are Article 6 (1) f) and Article 6 (1) b) of the [EU General Data Protection Regulation (GDPR)](https://privacy.xing.com/en/privacy-policy/glossary/eu-gdpr) as well as Article 6 (1) a) of the EU General Data Protection Regulation (GDPR) with regard to use for third-party platform targeting.
 
 #### Your contacts in the social network
 
@@ -266,7 +267,7 @@ e.g.
 #### Visibility
 
 Generally speaking, the content and reactions you share in the [social network](https://privacy.xing.com/en/privacy-policy/glossary/social-network) are visible to all users in the [social network](https://privacy.xing.com/en/privacy-policy/glossary/social-network).  
-Any comments you make in XING Klartext articles and any content you post in groups marked as "public" are subject to a greater degree of visibility. This information can also be accessed outside of the [social network](https://privacy.xing.com/en/privacy-policy/glossary/social-network) for non-users and can be found in online search engines.  
+Any comments you make in XING Klartext/Zukunft.machen articles and any content you post in groups marked as "public" are subject to a greater degree of visibility. This information can also be accessed outside of the [social network](https://privacy.xing.com/en/privacy-policy/glossary/social-network) for non-users and can be found in online search engines.  
 For individual features the level of visibility may be more restricted (e.g. only visible to contacts). In such cases you will be informed about visibility when using the respective feature. Please be aware that even if you restrict visibility, the content and reactions that you share may become visible beyond your own network if your contacts choose to share this information with other users.
 
 #### Privacy
@@ -461,91 +462,97 @@ We use a tool called VWO to run A/B tests. You can opt out of this kind of web a
 
 #### Measurement and optimisation of advertising
 
-Tracking helps us to obtain metrics for the success of advertising campaigns and to optimise the way that online ads are displayed. Your user ID is not sent to third-party providers. The cookies have a lifespan of up to 2 years.  
-In this context, the servers of third-party providers (e.g. marketers) might be accessed directly when using XING. Here, the respective third-party provider may record the fact that you visited our website(s). In addition, such site visits may lead to information being sent to some of these third-party providers with the aim of optimising and measuring the performance of our advertising. This includes, for example, information about the kind of pages you visited, or you belonging to a certain target audience we have defined. Calling third-party provider servers directly allows third-party providers to use cookies and advertising IDs for retargeting purposes. Retargeting technologies enables third-party providers to show you personalised advertising based on your previous browsing behaviour on partner websites. Third-party providers are, to some extent, able to link your various technical IDs and thus show you personalised advertising across multiple devices. Third-party providers such as Xandr enable us to offer advertising campaigns outside of XING so that advertisers can also promote their products and services on and outside of XING based on targeting criteria we supply to advertisers. To this end, advertisers do not receive any of your personal data. To measure and evaluate an advertising campaign's performance, we may send the third-party provider randomly generated click IDs which enable us to assign user conversions to a certain campaign.  
-Third-party providers are solely responsible for operating their IT systems in line with applicable data-protection practices and law. Third-party providers are responsible for deciding how long data is stored for. If we use third-party providers, data may be processed outside of the EU in so-called third countries where the level of data protection applied may not match EU standards. This means there is a risk that authorities in third countries may be able to access third-party provider data, possibly without any means of redress, for monitoring or surveillance purposes.  
+With your permission, we and third-party providers we commission will use cookies, device identifiers or other information saved or viewed on your device (tracking) and your data (see also [information you provide us with](https://privacy.xing.com/en/privacy-policy/information-you-provide-us-with/)) to measure the success of advertising campaigns, to build up a profile of your interests, and to serve you relevant ads based on this profile. The cookies have a lifespan of up to 2 years.  
+In this context, the servers of third-party providers (e.g. marketers) might be accessed directly when using XING. Here, the respective third-party provider may record the fact that you visited our website(s). In addition, such site visits may lead to information being sent to some of these third-party providers with the aim of optimising and measuring the performance of our advertising. This includes, for example, information about the kind of pages you visited, or encoded user attributes such as you belonging to a certain target audience we have defined (e.g. that you are a XING member). Calling third-party provider servers directly allows third-party providers to use cookies and advertising IDs for retargeting purposes. Retargeting technologies enables third-party providers to show you personalised advertising based on your previous browsing behaviour on partner websites. Third-party providers are, to some extent, able to link your various technical IDs and thus show you personalised advertising across multiple devices. Third-party providers such as Xandr or The AdEx enable us to offer advertising campaigns outside of XING so that advertisers can also promote their products and services on and outside of XING based on targeting criteria we supply to advertisers. To ensure maximum protection of your data, we use a complex hashing algorithm which encrypts your information stored in the cookie. To measure and evaluate an advertising campaign's performance, we may send the third-party provider randomly generated click IDs which enable us to assign user conversions to a certain campaign.  
+In addition, an advertising partner can also send us their randomly generated user ID which may be linked to a XING user ID. By linking these technical IDs, we can identify users and provide advertising partners with information such as whether a user is a registered XING user. This may also include information such as an IP address or device IDs (e.g. a combination of browser version and operating system). The aforementioned link serving to transfer information between our website and third-party providers, be it for conversion measurement or as remarketing technology, is generally provided in the form of a pixel or other similar technology.  
+When remarketing on third-party-provider platforms such as Google, we also create custom audiences on these third-party platforms (e.g. Google Customer Match or Facebook Custom Audiences). These custom audience features (e.g. from Meta Platforms Ireland Limited, Facebook) are designed to serve users with targeted advertising based on their interests when visiting the respective third-party platform (e.g. Facebook or some other Meta platform). In addition to cookies and technical IDs, we use hashed information such as your e-mail address or phone number along with the aforementioned encoded user attributes and other technical IDs to create custom audiences. Custom audience data is only supplied to respective third-party providers such as Meta in highly hashed form. To recognise repeat visitors to their platform, third-party providers apply the same method to hash their users' e-mail addresses and phone numbers. Better user identification means better use of targeting technologies and matching job offers for you in ads.  
+Third-party providers are solely responsible for operating their IT systems in line with applicable data-protection practices and law. Third-party providers are responsible for deciding how long data is stored for. If we use third-party providers, data may be processed outside of the EU in so-called third countries where the level of data protection applied may not match EU standards. This means there is a risk that authorities in third countries may be able to access third-party provider data, possibly without any means of redress, for monitoring or surveillance purposes. To ensure an appropriate level of protection, we use the EU Standard Contract Clauses (SCCs) on a regular basis.  
   
-Tracking for the measurement and optimisation of advertising is based on your consent, see Article 6 (1) a) of the EU General Data Protection Regulation (GDPR). You can withdraw your consent at any time.
+Tracking and processing of your data as described here are based on your consent, see Section 25 (1) of the New German Telecommunications and Telemedia Data Protection Act (TTDSG) and Article 6 (1) a) of the EU General Data Protection Regulation (GDPR). Along with our protective measures, data processing in third countries is based on your consent, see Article 49 (1) of the EU General Data Protection Regulation (GDPR). You can withdraw your consent at any time.
 
 #### Third-party providers we use
 
 In the following you will find further information about the tracking technologies used and information from providers about data processing.
 
-#### Google
+#### ADITION
 
-More information is available [here](https://policies.google.com/technologies/partner-sites)
+More information is available [here](https://www.adition.com/datenschutz)
 
-#### Bing
+#### Adjust
 
-More information is available [here](https://account.microsoft.com/privacy/ad-settings/signedout?ru=https:%2F%2Faccount.microsoft.com%2Fprivacy%2Fad-settings)
+More information is available [here](https://www.adjust.com/terms/privacy-policy/)
+
+#### AppNexus / Xandr
+
+[More information](https://www.xandr.com/privacy/platform-privacy-policy/)
 
 #### Criteo
 
 More information is available [here](https://www.criteo.com/privacy/)
 
+#### Google
+
+More information is available [here](https://policies.google.com/technologies/partner-sites)
+
 #### LinkedIn
 
-More information is available [here](https://www.linkedin.com/psettings/advertising/actions-that-showed-interest)
+More information is available [here](https://de.linkedin.com/legal/privacy-policy)
 
-#### Facebook Pixel
+#### Meta
 
-We use the so-called "Facebook Pixel" developed by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA to create "custom audiences". This serves the purpose of optimising our advertising in the social network Facebook, of placing only relevant advertising there, and measuring the success of our Facebook advertising campaigns. The Facebook [Pixel](https://privacy.xing.com/en/privacy-policy/glossary/pixel) makes it possible for Facebook to identify visitors to the [XING Websites](https://privacy.xing.com/en/privacy-policy/glossary/xing-websites) as a target group for the display of ads in the social network Facebook.  
-  
-A direct link to the Facebook servers is established via the Facebook [Pixel](https://privacy.xing.com/en/privacy-policy/glossary/pixel) implemented on the [XING Websites](https://privacy.xing.com/en/privacy-policy/glossary/xing-websites) when a user visits the [XING Websites](https://privacy.xing.com/en/privacy-policy/glossary/xing-websites). The Facebook server is informed here that you have visited the [XING Websites](https://privacy.xing.com/en/privacy-policy/glossary/xing-websites), and information is also transferred about which specific pages you viewed. In addition, individual information and parameters are transferred that are required for the optimisation of our ads, to increase relevance and measure success. This relates in particular to information about so-called "conversion events" on [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) (e.g. whether a registration or a purchase was completed).  
-  
-Further information about the collection and usage of data by Facebook and about your corresponding right and options for protecting your privacy can be found in the Facebook Data Policy at [https://www.facebook.com/about/privacy/](https://www.facebook.com/about/privacy/).
+More information is available [here](https://www.facebook.com/about/privacy)
 
-#### Twitter
+#### Microsoft Advertising
 
-We use Twitter, a service provided by Twitter Inc., to track conversion and to post target-group-based online advertisements. To do so, we implemented a Twitter tag on our website. When you visit our websites, this tag creates a direct link to the Twitter servers so that Twitter knows you visited our websites and whether you performed any requests or similar. Twitter assigns this information to your personal Twitter user account. We are then able to serve (remarketing) advertisements based on your previous page views and activity. The data Twitter processes in this regard does not allow us to identify you. These pseudonyms are also not linked to any of your other personal data. To learn about your rights and privacy options, and for more information about how Twitter collects and uses data, visit the Twitter Privacy Policy: [https://twitter.com/privacy?lang=de](https://twitter.com/privacy?lang=de)
+More information is available [here](https://privacy.microsoft.com/de-de/privacystatement)
 
-#### Ad-defend
+#### OptinMonster
 
-More information is available [here](https://www.addefend.com/en)
+[More information](https://optinmonster.com/gdpr/cookies/)
 
-#### Performance Media
+#### OSDS/The Adex
 
-More information is available [here](https://www.performance-media.de/)
-
-#### Adform
-
-More information in German is available [here](https://site.adform.com/de/privacy-center/platform/widerrufsrecht/)
-
-#### Adjust
-
-More information is available [here](https://www.adjust.com/)
-
-#### ADITION
-
-More information is available [here](https://www.adition.com/)
+More information in German is available [here](https://theadex.com/datenschutz-plattform/)
 
 #### Outbrain
 
 More information is available [here](https://www.outbrain.com/legal/privacy)
 
+#### Performance Media
+
+More information is available [here](https://www.performance-media.de/datenschutz/)
+
 #### Pinterest
 
 More information is available [here](https://policy.pinterest.com/privacy-policy)
 
-#### AppNexus
+#### RTB House
 
-More information is available [here](https://www.appnexus.com/platform-privacy-policy-072016)
+More information in German is available [here](https://www.rtbhouse.com/rtbhouse-paperflite-privacy-policy/)
 
 #### Snap Pixel
 
-We use the so-called "Snap Pixel" developed by Snap Inc., 2772 Donald Douglas Loop North, Santa Monica, CA 90405, USA to create "custom audiences". This serves the purpose of optimising our advertising in the social network Snap, of placing only relevant advertising there, and measuring the success of our Snap advertising campaigns. The Snap [Pixel](https://privacy.xing.com/en/privacy-policy/glossary/pixel) makes it possible for Snap to identify visitors to the [XING Websites](https://privacy.xing.com/en/privacy-policy/glossary/xing-websites) as a target group for the display of ads in the social network Snap.  
-  
-A direct link to the Snap servers is established via the Snap [Pixel](https://privacy.xing.com/en/privacy-policy/glossary/pixel) implemented on the [XING Websites](https://privacy.xing.com/en/privacy-policy/glossary/xing-websites) when a user visits the [XING Websites](https://privacy.xing.com/en/privacy-policy/glossary/xing-websites). The Snap server is informed here that you have visited the [XING Websites](https://privacy.xing.com/en/privacy-policy/glossary/xing-websites), and information is also transferred about which specific pages you viewed. In addition, individual information and parameters are transferred that are required for the optimisation of our ads, to increase relevance and measure success. This relates in particular to information about so-called "conversion events" on [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) (e.g. whether a registration or a purchase was completed).  
-  
-Further information about the collection and usage of data by Snap and about your corresponding right and options for protecting your privacy can be found in the Snap Privacy Center at [https://www.snap.com/en-US/privacy/privacy-center/](https://www.snap.com/en-US/privacy/privacy-center/).
+More information is available [here](https://www.snap.com/de-DE/privacy/privacy-center)
 
-#### Xandr
+#### Taboola
 
-[More information](https://www.xandr.com/privacy/platform-privacy-policy/)
+More information in German is available [here](https://www.taboola.com/de/policies/datenschutzerklaerung/)
 
-#### OptinMonster
+#### TikTok
 
-[More information](https://optinmonster.com/gdpr/cookies/)
+More information in German is available [here](https://www.tiktok.com/legal/privacy-policy-eea?lang=de-DE)
+
+#### Twitter
+
+More information is available [here](https://twitter.com/privacy?lang=de)
+
+#### Wonderkind
+
+More information in German is available [here](https://wonderkind.com/wp-content/uploads/2020/10/Wonderkind-privacy-statement-2020.pdf)
+
+#### Zeotap
+
+More information in German is available [here](https://zeotap.com/product-privacy-policy/)
 
 #### Opting out of tracking for the measurement and optimisation of advertising in our applications
 
@@ -685,8 +692,8 @@ You can learn more about how visible you are to other users under [“Informatio
 #### Non-users of the social network
 
 You can determine whether you want non-users of the [social network](https://privacy.xing.com/en/privacy-policy/glossary/social-network) to be able to find and access the information in your [profile](https://privacy.xing.com/en/privacy-policy/glossary/profile), e.g. via search engines. Separate privacy settings are available to you here. If you opt not to restrict these settings, the information in your [profile](https://privacy.xing.com/en/privacy-policy/glossary/profile) will be visible and accessible to non-users of the [social network](https://privacy.xing.com/en/privacy-policy/glossary/social-network), although this does not include any personal contact details such as e-mail addresses and phone numbers.  
-The standard external accessibility of profile information forms a central element of [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) as a way of fostering networking between users, as many business contacts are made in the first instance when other users (or third parties) find the name of a user when conducting research in search engines.  
-With some features on [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) (e.g. with posts in groups on guest lists) another user determines whether and to what extent the data used or shared for a particular function is visible or accessible to other users and non-users, and who is authorised to read this content and add to this content. If you aren’t able to change these settings through your own privacy settings we will inform you about the respective use of your data in the respective feature.
+The standard external accessibility of profile information by non-users forms a central element of [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) as a way of fostering networking between users, as many business contacts are made in the first instance when other users (or third parties) find the name of a user when conducting research in search engines.  
+With some features on [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) (e.g. with posts in groups on guest lists) another user determines whether and to what extent the data used or shared for a particular function is visible or accessible to other users and non-users, and who is authorised to read this content and add to this content. If you aren’t able to change these settings through your own privacy settings, we will inform you about the respective use of your data in the respective feature.
 
 #### People you want to invite to the social network or other XING application
 
