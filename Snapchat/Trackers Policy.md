@@ -47,9 +47,9 @@ Your mobile operating system may let you opt-out from having certain device iden
 
 And, of course, if your mobile device offers an uninstall process, you can always stop us from collecting information through the app by uninstalling the Snapchat app.
 
-### _Change your settings_
+### _Website settings_
 
-You can also block certain cookies by adjusting your settings on our sites.
+You can also block certain cookies by adjusting your settings on our sites.
 
 [Snap.com cookie settings](https://www.snap.com/en-GB/cookie-settings)
 
@@ -59,19 +59,25 @@ You can also block certain cookies by adjusting your settings on our sites.
 
 [Yellowla.com cookie settings](https://www.yellowla.com/cookie-settings)
 
-[Snapfoundation.org Cookie Settings](https://www.snapfoundation.org/cookie-settings)
+[Snapfoundation.org cookie settings](https://www.snapfoundation.org/cookie-settings)
+
+[Arcadiacreativestudio.com cookie settings](https://arcadiacreativestudio.com/cookie-settings)
+
+[Pixy.com cookie settings](https://pixy.com/cookie-settings)
 
 Third-party advertising partners
 --------------------------------
 
-*   Twitter
+*   [Twitter](https://help.twitter.com/rules-and-policies/twitter-cookies)
     
-*   Pinterest
+*   [Pinterest](https://policy.pinterest.com/cookies)
     
-*   Google Analytics
+*   [Google Analytics](https://policies.google.com/technologies/cookies)
     
-*   LinkedIn
+*   [LinkedIn](https://www.linkedin.com/legal/cookie-policy)
     
-*   Bing
+*   [Bing](https://privacy.microsoft.com/privacystatement)
     
-*   Pardot
+*   [Pardot](https://www.salesforce.com/company/privacy)
+    
+*   [Facebook](https://www.facebook.com/policies/cookies/)
