@@ -315,6 +315,7 @@ Other users can see on Viber the following data about you:
 *   When you join Viber, the contacts in your address book that are already Viber members may be informed that you’re now on Viber too.
 *   A reminder about your birthday on the date of your birthday.
 *   When you join Viber Pay, the contacts in your address book that are already Viber members may be informed that you’re now using Viber Pay. In addition, Viber users will see an indication whether you are a Viber Pay user.
+*   If your “Use Peer-to-Peer” option is on, other users can use technical tools to see your IP address. You can turn this option off at any time on your privacy settings.
 *   **Your public posts:** if you post information on our public spaces such as communities or channels, it may be searchable and available to anyone on Viber. You can always delete your posts on those public spaces, but Viber cannot control and is not responsible for what other users do with this information (e.g., store on their devices, publish on Viber or outside of it etc.), thus, we recommend you do not disclose your personal data through the content of your posts.
 
 [Back to top](#top)  
