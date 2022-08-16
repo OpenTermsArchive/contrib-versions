@@ -7,8 +7,8 @@ La présente politique de protection de vos données personnelles (ci-après la 
 
 Cette Politique s’applique aux clients et utilisateurs des offres et services d’Orange et aux visiteurs des sites pro.orange.fr et orange.fr. Elle est susceptible d’être complétée par des informations spécifiques portées directement et explicitement à votre connaissance, s’agissant d’une offre, d’une composante de votre offre ou d’un service particulier.
 
-1\. Données personnelles collectées et traitées
------------------------------------------------
+1\. Quelles sont les données traitées ?
+---------------------------------------
 
 Orange traite des données personnelles vous concernant dans le cadre de ses relations avec vous et de votre utilisation de ses offres et services. Orange ne traite que les données pertinentes et nécessaires à l’objectif poursuivi.
 
@@ -37,8 +37,8 @@ Certaines données traitées par Orange sont collectées de manière indirecte 
 *   Au travers de sources provenant de partenaires sur la base de votre consentement
 *   Au travers de sources en libre accès
 
-2\. Finalités et durées de conservation
----------------------------------------
+2\. Pourquoi Orange traite vos données ?
+----------------------------------------
 
 Vos données sont traitées par Orange pour des finalités déterminées, explicites et légitimes.
 
@@ -195,8 +195,8 @@ Voir 2.1.4
 
 Voir 2.2.4
 
-3\. Durées de conservation
---------------------------
+3\. Pendant combien de temps vos données sont conservées ?
+----------------------------------------------------------
 
 Vos Données Personnelles sont conservées sur les périodes suivantes :
 
@@ -229,8 +229,8 @@ Orange conserve également des données dans le cadre de ses obligations légale
 *   Données relatives aux demandes d’exercice des droits des personnes concernées : ces données sont conservées pour une durée de 5 ans après le traitement de la demande ou, à défaut, dès la prescription d’une décision de l’autorité de contrôle compétente ou prescription du contentieux.
 *   Données nécessaires pour assurer le blocage, à l’utilisation, des mobiles déclarés volés : ces données sont conservées pendant 18 mois après la date d’inscription.
 
-4\. Personnes concernées
-------------------------
+4\. Quelles personnes sont concernées par ces traitements de données ?
+----------------------------------------------------------------------
 
 Les personnes concernées par les traitements réalisés dans le cadre de cette Politique par Orange sont :
 
@@ -239,8 +239,8 @@ Les personnes concernées par les traitements réalisés dans le cadre de cette 
 *   Clients des opérateurs tiers pour les besoins techniques attenants à leurs offres
 *   Ayants-droits, représentants et mandataires de ces clients
 
-5\. Destinataires de vos données personnelles
----------------------------------------------
+5\. Quels sont les destinataires de vos données ?
+-------------------------------------------------
 
 Les données traitées sont destinées aux **services internes d’Orange et à ses filiales** : seuls peuvent avoir accès à vos données les salariés habilités en ayant besoins dans le cadre de leurs missions.
 
@@ -250,15 +250,15 @@ Les données traitées peuvent également être destinées aux **partenaires d�
 
 Les données traitées peuvent, être transmises aux **autorités compétentes**, à leur demande, dans le cadre de procédures judiciaires, dans le cadre de recherches judiciaires et de sollicitations d'information des autorités ou afin de se conformer à d'autres obligations légales. Elles peuvent enfin être transmises aux **tiers autorisés par une décision de justice.**
 
-6\. Traitement de vos données personnelles hors de l’Union Européenne
----------------------------------------------------------------------
+6\. Vos données sont-elles traitées hors UE ?
+---------------------------------------------
 
 Les données personnelles collectées sont susceptibles d’être traitées hors de l’Union Européenne. Dans ce cas, Orange prend les dispositions nécessaires avec ses sous-traitants et partenaires afin de garantir un niveau de protection de vos données personnelles adéquat et ce en conformité avec la réglementation applicable.
 
 Si les sous-traitants et partenaires concernés ne sont pas situés dans un pays disposant d’une législation considérée comme offrant un niveau de protection adéquate, ils auront préalablement signé les « clauses contractuelles types » de la Commission européenne ou sont soumis à des Règles internes contraignantes approuvées par les autorités. Lorsque la législation du pays tiers ne présente pas de protection équivalente à celle offerte par la règlementation applicable dans l’Union Européenne, Orange veille à la mise en œuvre de mesures supplémentaires adaptées aux traitements mis en œuvre.
 
-7\. Sécurité
-------------
+7\. Comment vos données sont-elles sécurisées ?
+-----------------------------------------------
 
 Orange accorde une importance particulière à la sécurité de vos données personnelles.
 
@@ -270,8 +270,8 @@ Orange a mis en place des mesures techniques et organisationnelles appropriées 
 
 Orange a mis en place des procédures visant à détecter, analyser et traiter toute suspicion de violation de vos données personnelles, et vous avertit ainsi que toute autorité de contrôle concernée d'une violation lorsqu’Orange est légalement ou contractuellement tenue de le faire.
 
-8\. Vos droits
---------------
+8\. Quels sont vos droits ?
+---------------------------
 
 Vous disposez de différents droits liés aux traitements de vos données personnelles :
 
@@ -328,8 +328,8 @@ Vous pouvez écrire à : Orange Service Client, Gestion des données personnelle
 
 Si vos échanges avec Orange n’ont pas été satisfaisants, vous avez la possibilité d’introduire une réclamation auprès de la Commission Nationale de l’Informatique et des Libertés (CNIL), autorité de contrôle en charge du respect des obligations en matière de protection des données personnelles en France.
 
-10\. Informations relatives à des offres ou services spécifiques
-----------------------------------------------------------------
+10\. Y a-t-il des particularités pour certains services ?
+---------------------------------------------------------
 
 ### 10.1. Annuaires
 
@@ -345,8 +345,8 @@ Les données relatives à la localisation des utilisateurs du réseau mobile Ora
 
 Le dispositif technique utilisé par Flux Vision garantit une anonymisation irréversible en supprimant toute donnée à caractère personnel et en rendant impossible l’identification d’une personne physique, ainsi que la ré-identification de manière directe ou indirecte.
 
-11\. Modification de la Politique de Protection des Données personnelles
-------------------------------------------------------------------------
+11\. Modification de la Politique de protection des données
+-----------------------------------------------------------
 
 La présente Politique de Protection des Données personnelles peut être amenée à évoluer.
 
