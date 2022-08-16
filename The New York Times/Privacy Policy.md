@@ -394,7 +394,7 @@ How Is Information Transferred Internationally?
 
 The New York Times Company is headquartered in the United States. If you are located outside the United States, your information is collected in your country and then transferred to the United States — or to another country in which we (or our affiliates or service providers) operate.
 
-If we transfer your data out of the European Economic Area (E.E.A.), we implement at least one of the three following safeguards:
+If we transfer your data out of the European Economic Area (E.E.A.), we implement at least one of the two following safeguards:
 
 *   We transfer your information to countries that have been recognized by the European Commission as providing an adequate level of data protection according to E.E.A. standards (see the [full list of these countries](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en)).
 *   We take steps to ensure that the recipient is bound by E.U. Standard Contractual Clauses together with additional safeguards to protect your personal data. You can see a [copy of these clauses](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en).
