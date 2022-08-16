@@ -276,6 +276,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         74.  OC Transpo - Canada - City of Ottawa: ([https://ottawa.ca/en/city-hall/open-transparent-and-accountable-government/open-data#](https://ottawa.ca/en/city-hall/open-transparent-and-accountable-government/open-data#))
             
+        75.  City of Ontario - [https://www.ontarioca.gov](https://www.ontarioca.gov/) - The data made available here has been modified for use from its original source, which is the City of Ontario. The City of Ontario makes no claims as to the completeness, timeliness, accuracy or content of any data contained in this application; makes any representation of any kind, including, but not limited to, warranty of the accuracy or fitness for a particular use; nor are any such warranties to be implied or inferred with respect to the information or data furnished herein. The data is subject to change as modifications and updates are complete. It is understood that the information contained in the web feed is being used at one's own risk.
+            
+        76.  Government of Yukon: Contains information licensed under the Open Government Licence – Yukon - [https://open.yukon.ca/open-government-licence-yukon](https://open.yukon.ca/open-government-licence-yukon)
+            
     7.  **Denmark**
         *   © COWI A/S
             
@@ -360,6 +364,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   Ville de Gatineau - Service de l'informatique - [https://creativecommons.org/licenses/by/4.0/legalcode](https://creativecommons.org/licenses/by/4.0/legalcode)
             
+        *   Open Data Soft - [https://www.etalab.gouv.fr/wp-content/uploads/2014/05/Licence\_Ouverte.pdf](https://www.etalab.gouv.fr/wp-content/uploads/2014/05/Licence_Ouverte.pdf)
+            
     10.  **Germany**
         *   Bundesamt für Kartographie und Geodäsie - © Vermessungsverwaltungen der Bundesländer und Bundesamt für Kartographie und Geodäsie
             
@@ -424,6 +430,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         *   Metropole Ruhr Geoportal - [https://creativecommons.org/licenses/by/4.0/deed.de](https://creativecommons.org/licenses/by/4.0/deed.de)
             
         *   OpenData-Portal der Landeshauptstadt München - [https://www.govdata.de/dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0)
+            
+        *   Transparenzportal Hamburg - [https://www.govdata.de/dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0)
             
     11.  **Great Britain**
         *   This Service contains Ordnance Survey data © Crown copyright and database right 2011, Royal Mail data © Royal Mail copyright and database right 2011, and National Statistics data © Crown copyright and database right 2011 ([https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf](https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf)). All rights reserved. © South West Coast Path Team. Contains information of Network Rail Infrastructure Limited licensed under the following [licence](https://www.networkrail.co.uk/terms-and-conditions/). Contains public sector information licensed under the [Open Government Licence v2.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/). Contains public sector information licensed under the Open Government Licence v3.0.
@@ -634,6 +642,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         *   DoCoMo: Docomo is a trade mark or registered trade mark of DOCOMO BIKESHARE, INC. in Japan.
             
         *   Mirai Archive Data (GO!GNSS GO!JAPAN: [https://go.gnss.go.jp/mirai/miraiarchive/](https://go.gnss.go.jp/mirai/miraiarchive/)) accessed on 2022-05-11 Licenses: [https://go.gnss.go.jp/terms/](https://go.gnss.go.jp/terms/)
+            
+        *   地理院タイル: [https://maps.gsi.go.jp/development/ichiran.html](https://maps.gsi.go.jp/development/ichiran.html)
             
     25.  **Luxembourg**
         
