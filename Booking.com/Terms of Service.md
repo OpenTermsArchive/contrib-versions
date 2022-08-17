@@ -435,7 +435,7 @@ B7. What else do you need to know?
 
 We Price Match
 
-1\. We want you to get the best possible price every time. If, after you've booked your Accommodation with us, you find the same Accommodation (with the same conditions) for less on another website, we promise to refund the difference, subject to the [We Price Match](https://www.booking.com/general.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSAlYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AECiAIBqAIEuALolvKXBsACAdICJDIyZGNhMWExLTk1NTYtNGY3Zi1iNjJlLWMzNDc3NzhmOWQ5MdgCBeACAQ&sid=e6927bb25fff4ab83bcd4d5e8c021913&tmpl=doc%2Frate_guarantee) terms and conditions.
+1\. We want you to get the best possible price every time. If, after you've booked your Accommodation with us, you find the same Accommodation (with the same conditions) for less on another website, we promise to refund the difference, subject to the [We Price Match](https://www.booking.com/general.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSAlYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AECiAIBqAIEuALKv_OXBsACAdICJGUwNzQ4NDgxLTA5NTUtNGMzNS1hNWU2LTc2Njg1OTFhMjRiN9gCBeACAQ&sid=f317246b88249988d38f29a2ea9e13ee&tmpl=doc%2Frate_guarantee) terms and conditions.
 
 Partner offer
 
@@ -775,11 +775,11 @@ Charges, taxes and fees
 
 9\. Your fare will include any taxes and fees charged by an airline or government (except entry/exit fees - see ‘Entry/exit fees’ below). You may be responsible for dealing with any retroactive change in the tax rate.
 
-Booking fee
+Service fees
 
-10\. We don’t charge any booking fees - but the Third-Party Aggregator might, depending on which Flight you’ve chosen.
+10\. Depending on which Flight you choose, you may be charged a service fee by us and/or the Third-Party Aggregator.
 
-11\. If they do, the fee will be included in the price of your ticket.
+11\. The price of your ticket will include any service fee(s).
 
 Fees for baggage and other extras
 
