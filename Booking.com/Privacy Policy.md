@@ -4,7 +4,7 @@ Privacy and Cookie Statement
 Privacy Statement
 -----------------
 
-5 Apr 2022
+20 Aug 2022
 
 First things first – your privacy is important to us. That might be the kind of thing all these notices say, but we mean it. You place your trust in us by using Booking.com services and we value that trust. That means we’re committed to protecting and safeguarding any personal data you give us. We act in our customers’ best interest and we are transparent about the processing of your personal data.
 
@@ -633,116 +633,6 @@ Booking.com has compiled the following statistics about the receipt and handling
     
 *   Average number of days taken by Booking.com to substantially respond to requests to know, delete or opt out: 8.514
     
-
-### China
-
-#### Mandatory personal information
-
-To use Booking.com (through our website or through our app) we need to collect certain types of personal information about you for a number of specific purposes. Some of this personal information is collected when you make a Trip Reservation and some of it is collected automatically when you visit Booking.com or use the app.
-
-When you make a Trip Reservation, you are (at minimum) asked for your name and email address. Depending on the Trip Reservation, we may also ask for your home address, telephone number, payment information, date of birth, and the names of the people travelling with you.
-
-We also use functional cookies that automatically collect personal information. These cookies are required for our websites and apps to function and they must be enabled in order for you to use our services. You can find out more about these functional cookies by reviewing the [consent management page](https://www.booking.com/content/privacy.en-gb.html#).
-
-All the information described above, including the information collected through functional cookies, constitutes personal information which we need in order to provide you with our services, for the purposes described in the section titled ‘[Why does Booking.com collect and use your personal data?](https://www.booking.com/content/privacy.en-gb.html#personal-data-collected-why)’, specifically under the following paragraphs:
-
-A – Trip reservation, B – Customer service, C – Account facilities, F – Communicating with you, H – Improving our services, I – Providing the best prices for you, K – Call monitoring, L – Promotion of a safe and trustworthy service, M – Legal purposes
-
-We will ask for your consent before collecting mandatory personal information from you. If you don't grant consent for these necessary data processing activities, you will not be able to access or use our services.
-
-#### Optional personal information
-
-There are other instances where we collect optional personal information, which isn’t required for us to be able to provide our services. This includes information we collect through analytical and marketing cookies.
-
-We use optional personal information to provide you with our services described under the section ‘[Why does Booking.com collect and use your personal data?](https://www.booking.com/content/privacy.en-gb.html#personal-data-collected-why)’, specifically in paragraphs:
-
-*   D – Online groups,
-    
-*   E – Marketing activities,
-    
-*   G – Market research,
-    
-*   J – Customer reviews
-    
-
-We will ask for your consent before we collect any optional personal information. Even if you don’t consent to the collection of this type of information, you will still be able to access and use our services.
-
-Read more about the [personal data we collect](https://www.booking.com/content/privacy.en-gb.html#personal-data-collected-type).
-
-#### List of SDKs
-
-When using Booking.com services, you agree to the collection and/or processing of data by the following third party vendors, for the following purposes:
-
-| Vendor | Purpose of use and data collected |
-| --- | --- |
-| Appsflyer | Purpose of use: Advertising<br><br>Data collected: Device information (may include device model, sensor information), location information |
-| Huawei | Purpose of use: Push notifications<br><br>Data collected: BSSID, IMEI, wireless network list, network type, network status, device model, SSID, AAID, mobile phone ID, application ID, application package name, server public network IP address<br><br>Android permissions: READ\_PHONE\_STATE, WRITE\_EXTERNAL\_STORAGE, ACCESS\_NETWORK\_STATE, ACCESS\_WIFI\_STATE |
-| Alipay | Purpose of use: Third-party payments<br><br>Data collected: Device model, brand, manufacturer, device MAC address, IMSI, BSSID, wireless network, sensor information, IMEI, Android ID, hardware serial number, SIM card serial number<br><br>Android permissions: ACCESS\_NETWORK\_STATE, ACCESS\_WIFI\_STATE, READ\_PHONE\_STATE, READ\_EXTERNAL\_STORAGE, READ\_PHONE\_STATE |
-| Google | Purpose of use: Anonymous device tracking<br><br>Data collected: Advertising ID (a unique, user-resettable ID for advertising – provided by Google Play services)<br><br>Android permissions: AD\_ID |
-
-#### Sensitive personal information
-
-‘Sensitive personal information’ is any information that, if leaked or illegally used, could easily lead to the infringement of human dignity or cause harm to an individual or their property. When using Booking.com services, the following sensitive personal information may be collected by Booking.com or a third party vendor:
-
-*   Information necessary to process your payment (such as your bank account and payment card number, provided by you or in your name),
-    
-*   Information about minors, provided with the authorisation of the parent or guardian (see below for further information),
-    
-*   Location information, in order to show you city guides, to recommend the accommodation and attractions closest to your current location or to give other recommendations.
-    
-
-Please note that, when using our services, the type of accommodation you search for might reveal sensitive information about your sexual orientation. Similarly, the food preferences you indicate when booking a flight might also reveal sensitive information about your religion and health.
-
-We will ask for your consent before we collect sensitive personal information. However, where you voluntarily provide sensitive personal information, we will assume that you have given us consent to process that information within the context it was submitted.
-
-For more information, please read the section of this Privacy Statement titled ‘[Why does Booking.com collect and use your personal data?](https://www.booking.com/content/privacy.en-gb.html#personal-data-collected-why)’
-
-#### Children's personal information
-
-In China, people under 16 years of age are not permitted to use Booking.com. We only process personal information about children with the consent of their parents or legal guardians, or when the information is shared with us by the parents or legal guardians themselves.
-
-If we become aware that we’ve processed the information of a child under 16 years old without the valid consent of a parent or guardian, we will delete it.
-
-#### International transfer and recipients of personal information
-
-To be able to provide our services, we will share your personal information with third parties. In many cases, your personal information may be transferred and stored outside of China in order to send the data to these third parties. We will ask for your consent before making such a transfer. The reasons for the transfer, as well as the recipient categories for this personal information, are stated below.
-
-In order to complete your Trip Reservation, we transfer relevant reservation details to the Trip Provider you have booked. This is one of the most essential things we do for you. Depending on the Trip Reservation and the Trip Provider, the personal information we transfer can include your name, contact and payment details, the names of the people accompanying you and any other information or preferences you've specified when you made your Trip Reservation. Other recipients include Booking.com B.V., Booking Holdings Inc. corporate group, and our service providers.
-
-In addition, we may transfer your data to third parties for purposes not required to provide our services. In that case, you can indicate whether or not you consent to such uses by [managing your consent](https://www.booking.com/content/privacy.en-gb.html#).
-
-Read more about [how data is shared with third parties](https://www.booking.com/content/privacy.en-gb.html#personal-data-3rd-parties-shared-how) and [how we share your personal data with the Booking Holdings Inc. corporate group](https://www.booking.com/content/privacy.en-gb.html#personal-data-holdings-shared-how).
-
-#### Automated decision-making
-
-Automated decision-making refers to the activity of using computer programmes to automatically analyse, assess or make decisions on the following: personal behaviours, habits, interests, hobbies, finance-, health-, credit- or other status.
-
-We rely on personal information to make automated decisions, such as providing the best price for you, depending on where you are based. When you search our apps or website, for example to find an accommodation, a rental car or a flight, we process your IP address to confirm whether you are in the European Economic Area (EEA) or in another country. We do this to offer you the best price for the region (EEA) or country (non-EEA). This processing does not result in differential treatment of individuals in China.
-
-#### Personalised recommendations
-
-To improve your Booking.com experience, we provide personalised recommendation services, which make your search results more relevant to you. These results are ranked, by default, according to what we believe you will find most relevant. We do this based on your past bookings, dates and the length of your stay, the composition of the group you're travelling with, where you are from and the actions you take during your search.
-
-You can turn off personalised recommendations at any time. This can be done in the following places:
-
-*   If you are using the app, go to your ‘Profile’, followed by ‘Settings’ and then ‘Personalisation’
-    
-*   If you are on the web, go to ‘Manage account’, followed by ‘Preferences’
-    
-*   If you are not logged in, go to ‘Manage your privacy settings’ on the main page
-    
-
-#### How to exercise your rights
-
-If you have a Booking.com account, you can find the personal information we store about you in your account settings. This includes your name, email address, phone number, address and payment information. You can exercise your right to access, rectification or erasure, by viewing, changing or deleting this data at any time.
-
-If you want to delete your account, you can also do this by going to account settings on the Booking.com website, clicking into the ‘Security’ section and selecting ‘Delete account’.
-
-In addition to the above, if you’d like to exercise your rights to access your data or for that data to be erased, to unsubscribe from email marketing or to withdraw the consent you have given us to process your personal information, please fill out our form: [Data Subject Request for Booking.com customers](https://www.booking.com/content/dsar.en-gb.html?).
-
-To protect your personal information, we may need to verify your identity before completing your request. We will do this by asking you questions about your previous reservations with us. We will respond to your request within 15 working days, unless another time-frame is required by applicable laws.
-
-To otherwise exercise these or any of your other rights under Personal Information Protection Law (PIPL), or to contact us about this Privacy Statement and our practices, you can email us at [privacyrequests@booking.com](javascript:location='mailto:/u0064/u0061/u0074/u0061/u0070/u0072/u006f/u0074/u0065/u0063/u0074/u0069/u006f/u006e/u006f/u0066/u0066/u0069/u0063/u0065/u0040/u0062/u006f/u006f/u006b/u0069/u006e/u0067/u002e/u0063/u006f/u006d';void 0). Please use the subject line: ‘China PIPL Privacy Rights - Request’.
 
 ### Russia
 
