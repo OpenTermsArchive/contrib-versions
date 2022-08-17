@@ -4,7 +4,8 @@ As part of our effort to protect your privacy and to comply with applicable priv
 
 Last Revised: July 11, 2022
 
-### Starbucks Privacy Statement
+Starbucks Privacy Statement
+---------------------------
 
 **Overview**
 
