@@ -15,7 +15,7 @@ We do not currently respond to “Do Not Track” signals in browsers as we are 
 Cookies
 -------
 
-Logitech uses cookies that are essentially small data files placed on your computer, tablet, mobile phone, or other devices. Click [here](https://www.logitech.com/en-gb/legal/cookie-policy.html) to learn more about cookies.
+Logitech uses cookies that are essentially small data files placed on your computer, tablet, mobile phone, or other devices. Click [here](https://www.logitech.com/legal/cookie-policy.html) to learn more about cookies.
 
 Data use and sharing
 --------------------
@@ -77,7 +77,7 @@ Controlling and accessing your information
 
 You may request that we update or delete/deactivate certain information pertaining to you.
 
-If we cannot remove some personal information, we will let you know why. If you have subscribed to marketing emails, you may stop the delivery by following the unsubscribe instructions contained in the email received or at the subscription management page on our Site: [https://www.logitech.com/subscribe](https://www.logitech.com/en-gb/footer/subscription-management).
+If we cannot remove some personal information, we will let you know why. If you have subscribed to marketing emails, you may stop the delivery by following the unsubscribe instructions contained in the email received or at the subscription management page on our Site: [https://www.logitech.com/subscribe](https://www.logitech.com/footer/subscription-management).
 
 You also have the right to request how your data is processed and with whom we share it.
 
@@ -111,7 +111,7 @@ Logitech processes personal data relating to EU customers on one or more of the 
 3.  **The processing is necessary to meet Logitech’s legal obligations.**  
     We may need to process your personal data to comply with relevant EU or Member State laws.
 4.  **Consent**  
-    Logitech processes some personal data based on consent. We often do this for our direct marketing communications. You can unsubscribe at any time by following the instructions here [https://www.logitech.com/subscribe](https://www.logitech.com/en-gb/footer/subscription-management).
+    Logitech processes some personal data based on consent. We often do this for our direct marketing communications. You can unsubscribe at any time by following the instructions here [https://www.logitech.com/subscribe](https://www.logitech.com/footer/subscription-management).
 
 ##### Your rights and choices
 
