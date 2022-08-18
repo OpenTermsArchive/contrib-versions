@@ -314,7 +314,7 @@ Une réponse vous sera adressée dans un délai d'un mois à compter de la réce
 
 ### Offres Grand Public
 
-Vous pouvez utiliser le [formulaire de contact en ligne](https://formulaires.services.orange.fr/1770) disponible dans votre espace client sur orange.fr, rubrique Compte > Vie privée et confidentialité ou en écrivant à : Orange Service Client, Gestion des données personnelles, 33732 Bordeaux Cedex 9.
+Vous pouvez utiliser le [formulaire de contact en ligne](https://espace-client.orange.fr/compte/demande-donnees-personnelles) disponible dans votre espace client sur orange.fr, rubrique Compte > Vie privée et confidentialité ou en écrivant à : Orange Service Client, Gestion des données personnelles, 33732 Bordeaux Cedex 9.
 
 ### Offres Professionnelles
 
