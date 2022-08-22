@@ -28,7 +28,7 @@ Our mission is to give people the power to build community and bring the world c
     
 *   **Promote the safety, security and integrity of our services, combat harmful conduct and keep our community of users safe:** People will only build community on Meta Products if they feel safe and secure. We work hard to maintain the security (including the availability, authenticity, integrity and confidentiality) of our Products and services. We employ dedicated teams around the world, work with external service providers, partners and other relevant entities and develop advanced technical systems to detect potential misuse of our Products, harmful conduct towards others and situations where we may be able to help support or protect our community, including to respond to user reports of potentially violating content. If we learn of content or conduct such as this, we may take appropriate action based on our assessment that may include notifying you, offering help, removing content, removing or restricting access to certain features, disabling an account or contacting law enforcement. We share data across [Meta Companies](https://www.facebook.com/help/111814505650678?ref=tos) when we detect misuse or harmful conduct by someone using one of our Products or to help keep Meta Products, users and the community safe. For example, we share information with Meta Companies that provide financial products and services to help them promote safety, security and integrity and comply with applicable law. Meta may access, preserve, use and share any information it collects about you where it has a good faith belief that it is required or permitted by law to do so. For more information, please review our [Privacy Policy](https://www.facebook.com/about/privacy/update).  
       
-    In some cases, the Oversight Board may review our decisions, subject to its terms and bylaws. Learn more [here](https://www.oversightboard.com/).
+    In some cases, the Oversight Board may review our decisions, subject to its terms and bylaws. Learn more [here](https://fr-fr.facebook.com/legal/terms/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fwww.oversightboard.com%2F).
     
 *   **Use and develop advanced technologies to provide safe and functional services for everyone:** We use and develop advanced technologies such as artificial intelligence, machine learning systems and augmented reality so that people can use our Products safely regardless of physical ability or geographic location. For example, technology such as this helps people who have visual impairments understand what or who is in photos or videos shared on Facebook or Instagram. We also build sophisticated network and communication technology to help more people connect to the Internet in areas with limited access. And we develop automated systems to improve our ability to detect and remove abusive and dangerous activity that may harm our community and the integrity of our Products.
     
@@ -144,7 +144,7 @@ We provide these services to you and others to help advance our mission. In exch
       
     
 *   Limits on using our intellectual property  
-    If you use content covered by intellectual property rights that we have and make available in our Products (for example, images, designs, videos or sounds we provide that you add to content you create or share on Facebook), we retain all rights to that content (but not yours). You can only use our copyrights or [trademarks (or any similar marks)](https://en.facebookbrand.com/trademarks/) as expressly permitted by our [Brand Usage Guidelines](https://en.facebookbrand.com/guidelines/brand) or with our prior written permission. You must obtain our written permission (or permission under an open-source licence) to modify, translate, create derivative works of, decompile or reverse-engineer our products or their components, or otherwise attempt to extract source code from us, unless an exception or limitation applies under applicable law or your conduct relates to the [Meta Bug Bounty Programme](https://m.facebook.com/whitehat).
+    If you use content covered by intellectual property rights that we have and make available in our Products (for example, images, designs, videos or sounds we provide that you add to content you create or share on Facebook), we retain all rights to that content (but not yours). You can only use our copyrights or [trademarks (or any similar marks)](https://fr-fr.facebook.com/legal/terms/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fen.facebookbrand.com%2Ftrademarks%2F) as expressly permitted by our [Brand Usage Guidelines](https://fr-fr.facebook.com/legal/terms/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fen.facebookbrand.com%2Fguidelines%2Fbrand) or with our prior written permission. You must obtain our written permission (or permission under an open-source licence) to modify, translate, create derivative works of, decompile or reverse-engineer our products or their components, or otherwise attempt to extract source code from us, unless an exception or limitation applies under applicable law or your conduct relates to the [Meta Bug Bounty Programme](https://m.facebook.com/whitehat).
 
   
 
@@ -229,34 +229,10 @@ We provide these services to you and others to help advance our mission. In exch
 *   [Facebook Pages, Groups and Events Policy](https://www.facebook.com/policies/pages_groups_events): These guidelines apply if you create or administer a Facebook Page, group or event, or if you use Facebook to communicate or administer a promotion.
 *   [Meta Platform Policy](https://developers.facebook.com/policy/): These Terms apply to the use of the set of APIs, SDKs, tools, plugins, code, technology, content and services that enables others to develop functionality, retrieve data from MetaProducts or provide data to us.
 *   [Developer Payment Terms](https://developers.facebook.com/policy/credits): These Terms apply to developers of applications that use Facebook Payments.
-*   [Meta brand resources](https://www.facebookbrand.com/): These guidelines outline the policies that apply to use of Meta trademarks, logos and screenshots.
-*   Recommendations guidelines: The [Facebook recommendations guidelines](https://www.facebook.com/help/1257205004624246/) and [Instagram recommendations guidelines](https://help.instagram.com/313829416281232/) outline our standards for recommending and not recommending content.
+*   [Meta brand resources](https://fr-fr.facebook.com/legal/terms/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fwww.facebookbrand.com%2F): These guidelines outline the policies that apply to use of Meta trademarks, logos and screenshots.
+*   Recommendations guidelines: The [Facebook recommendations guidelines](https://www.facebook.com/help/1257205004624246/) and [Instagram recommendations guidelines](https://fr-fr.facebook.com/legal/terms/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fhelp.instagram.com%2F313829416281232%2F) outline our standards for recommending and not recommending content.
 *   [Live Policies](https://www.facebook.com/policies/live): These policies apply to all content broadcast to Facebook Live.
     
 
   
 Date of last revision: 26 July 2022
-
-English (UK)
-
-Polski
-
-Español
-
-Français (France)
-
-Italiano
-
-Lietuvių
-
-Română
-
-中文(简体)
-
-Português (Brasil)
-
-Deutsch
-
-العربية
-
-[Sign Up](https://www.facebook.com/reg/)[Log In](https://www.facebook.com/login/)[Messenger](https://messenger.com/)[Facebook Lite](https://www.facebook.com/lite/)[Watch](https://www.facebook.com/watch/)[Places](https://www.facebook.com/places/)[Games](https://www.facebook.com/games/)[Marketplace](https://www.facebook.com/marketplace/)[Facebook Pay](https://pay.facebook.com/)[Oculus](https://www.oculus.com/)[Portal](https://portal.facebook.com/)[Instagram](https://www.instagram.com/)[Bulletin](https://www.bulletin.com/)[Local](https://www.facebook.com/local/lists/245019872666104/)[Fundraisers](https://www.facebook.com/fundraisers/)[Services](https://www.facebook.com/biz/directory/)[Voting Information Centre](https://www.facebook.com/votinginformationcenter/?entry_point=c2l0ZQ%3D%3D)[Groups](https://www.facebook.com/groups/explore/)
