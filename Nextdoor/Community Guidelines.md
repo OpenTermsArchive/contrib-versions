@@ -27,19 +27,13 @@ We do not tolerate racism, hateful language, or discrimination of any kind.
 We have policies and dedicated spaces for important non-local topics, such as national politics.  
  
 
-[4\.](https://help.nextdoor.com/s/article/promote-local-business-and-commerce-the-right-way) [Promote local commerce the right way](http://help.nextdoor.com/s/article/promote-local-business-and-commerce-the-right-way)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-We have created designated spaces for neighbours and local businesses to sell products and services.   
- 
-
-[5\.](https://help.nextdoor.com/s/article/use-your-true-identity) [Use your true identity](http://help.nextdoor.com/s/article/use-your-true-identity)
+[4\.](https://help.nextdoor.com/s/article/use-your-true-identity) [Use your true identity](http://help.nextdoor.com/s/article/use-your-true-identity)
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 Nextdoor is built on trust — we want everyone to know they’re communicating with their real neighbour, and therefore require you to use your true identity.   
  
 
-[6\.](https://help.nextdoor.com/s/article/Do-not-engage-in-harmful-activity?language=en_GB) [Do not engage in harmful activity](http://help.nextdoor.com/s/article/Do-not-engage-in-harmful-activity?language=en_GB)
+[5\.](https://help.nextdoor.com/s/article/Do-not-engage-in-harmful-activity?language=en_GB) [Do not engage in harmful activity](http://help.nextdoor.com/s/article/Do-not-engage-in-harmful-activity?language=en_GB)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 We prohibit any activity that could hurt someone, from physical harm to scams.  
