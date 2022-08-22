@@ -1,13 +1,15 @@
 Google Maps/Google Earth Additional Terms of Service
 ====================================================
 
-Last Modified: 12 Jan 2022
+Last modified: July 2022
 
-To use Google Maps/Google Earth, you must accept (1) the [Google Terms of Service](https://policies.google.com/terms), and (2) these Google Maps/Google Earth Additional Terms of Service (the “**Maps/Earth Additional Terms**”). The Maps/Earth Additional Terms incorporate by reference the [Legal Notices for Google Maps/Google Earth and Google Maps/Google Earth APIs.](https://www.google.com/help/legalnotices_maps/)
+To use Google Maps/Google Earth, you must accept (1) the [Google Terms of Service](https://policies.google.com/terms) and (2) these Google Maps/Google Earth Additional Terms of Service (the “**Maps/Earth Additional Terms**”). The Maps/Earth Additional Terms incorporate by reference the [Legal Notices for Google Maps/Google Earth and Google Maps/Google Earth APIs.](https://www.google.com/help/legalnotices_maps/)
 
-Please read each of these documents carefully. Together, these documents are known as the “**Terms**”. They establish what you can expect from us as you use our services, and what we expect from you.
+Please read each of these documents carefully. Together, these documents are known as the '**Terms**'. They establish what you can expect from us as you use our services, and what we expect from you.
 
-Although it’s not a part of these Terms, we encourage you to read [our Privacy Policy](https://policies.google.com/privacy) to better understand how you can [update, manage, export and delete your information](https://myaccount.google.com/).
+If you use the merchant-only features in Google Maps to manage your Business Profile then the Google Business Profile Terms at [https://support.google.com/business/answer/9292476](https://support.google.com/business/answer/9292476) apply to that use.
+
+Although it's not a part of these Terms, we encourage you to read [our privacy policy](https://policies.google.com/privacy) to better understand how you can [update, manage, export and delete your information](https://account.google.com/).
 
 1.  **Licence.** As long as you follow these Terms, the [Google Terms of Service](https://policies.google.com/terms) give you a licence to use Google Maps/Google Earth, including features that allow you to:
     
