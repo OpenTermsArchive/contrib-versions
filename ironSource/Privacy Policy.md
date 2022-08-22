@@ -12,7 +12,7 @@ If you would like to review our privacy policies for our products and services, 
 
 Mobile Ad Network and Mediation Platform – [https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/](https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/)
 
-[https://supersonic.com/privacy/](https://supersonic.com/privacy/)
+Supersonic Studios Apps – [https://supersonic.com/privacy/](https://supersonic.com/privacy/)
 
 The Sites are accessible for individuals around the world. Accordingly, throughout the document, we try to harmonize our approach and the language of the privacy policy as much as possible. However, sometimes we refer to specific laws that require further disclosures. These disclosures cover laws and regulations applicable to the following regions:
 
