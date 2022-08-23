@@ -237,4 +237,6 @@ Nord does not knowingly collect or solicit personal data from anyone under the a
 
 © 2022 Nord Security. All Rights Reserved.[support@nordaccount.com](mailto:support@nordaccount.com)[Terms of Service](https://my.nordaccount.com/legal/terms-of-service/)
 
-EnglishFrançaisDeutschPortuguêsPortuguês BrasileiroEspañolPolskiEnglish
+English
+
+EnglishFrançaisDeutschPortuguêsPortuguês BrasileiroEspañolPolski
