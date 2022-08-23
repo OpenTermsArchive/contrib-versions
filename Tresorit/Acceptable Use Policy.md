@@ -106,3 +106,6 @@ Tresorit respects the right of others and we require the same from our Users. Th
         7.  "I hereby state, that I am the owner or am authorized to act on behalf of the owner of the copyright that is allegedly infringed;"
             
         8.  The full name and electronic or physical signature of the copyright owner or the copyright owner's agent.
+            
+
+30 August 2019
