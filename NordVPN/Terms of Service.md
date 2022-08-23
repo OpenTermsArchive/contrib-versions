@@ -195,4 +195,6 @@ Last updated: July 1, 2022
 
 © 2022 Nord Security. All Rights Reserved.[support@nordaccount.com](mailto:support@nordaccount.com)[Terms of Service](https://my.nordaccount.com/legal/terms-of-service/)
 
-EnglishFrançaisDeutschPortuguêsPortuguês BrasileiroEspañolPolskiEnglish
+English
+
+EnglishFrançaisDeutschPortuguêsPortuguês BrasileiroEspañolPolski
