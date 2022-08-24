@@ -11,7 +11,7 @@ When you use the Service, you consent to our collection, use, and disclosure of 
 ---------------------
 
 1.  [Information We Collect and How We Use It](#INFORMATION-WE-COLLECT-AND-HOW-WE-USE-IT)
-2.  [Cookies](#Cookies)
+2.  [Cookies](#cookies)
 3.  [Third Parties](#third-parties)
 4.  [Controlling Your Personal Data](#Controlling-Your-Personal-Data)
 5.  [Data Retention and Account Termination](#Data-Retention-and-Account-Termination)
