@@ -435,7 +435,7 @@ B7. What else do you need to know?
 
 We Price Match
 
-1\. We want you to get the best possible price every time. If, after you've booked your Accommodation with us, you find the same Accommodation (with the same conditions) for less on another website, we promise to refund the difference, subject to the [We Price Match](https://www.booking.com/general.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSAlYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AECiAIBqAIEuAKLk5iYBsACAdICJDNhNjQyNGQxLWVlODItNDBhNi1hYzQ3LTI4MWQ0ZDM4ZmZhZtgCBeACAQ&sid=cc0c7e4450b38081449d94664d3c804b&tmpl=doc%2Frate_guarantee) terms and conditions.
+1\. We want you to get the best possible price every time. If, after you've booked your Accommodation with us, you find the same Accommodation (with the same conditions) for less on another website, we promise to refund the difference, subject to the [We Price Match](https://www.booking.com/general.en-gb.html?label=gen173nr-1FCBQoggJCBXRlcm1zSAlYBGhQiAEBmAEJuAEYyAEF2AEB6AEB-AECiAIBqAIEuAKhmJiYBsACAdICJDBiMTY1NDg0LTFlN2ItNDE0ZS05NWU2LTVmYjEzMjljNWU0MNgCBeACAQ&sid=fb5fac9f03c144370d17c210eaeaf58f&tmpl=doc%2Frate_guarantee) terms and conditions.
 
 Partner offer
 
@@ -778,6 +778,9 @@ Charges, taxes and fees
 Service fees
 
 10\. Depending on which Flight you choose, you may be charged a service fee by us and/or the Third-Party Aggregator.
+
+*   Our service fee (if any) is a fee for using our Platform so you can buy a ticket from a Third-Party Aggregator. This fee includes any applicable VAT/GST/similar taxes.
+*   The Third-Party Aggregator’s service fee (if any) is a fee for using them as intermediary to the airline(s). This fee may include any applicable VAT/GST/similar taxes.
 
 11\. The price of your ticket will include any service fee(s).
 
