@@ -14,6 +14,8 @@ Mobile Ad Network and Mediation Platform – [https://developers.ironsrc.com/iro
 
 Supersonic Studios Apps – [https://supersonic.com/privacy/](https://supersonic.com/privacy/)
 
+Tapjoy’s privacy policy – [https://dev.tapjoy.com/en/legal/Privacy-Policy](https://dev.tapjoy.com/en/legal/Privacy-Policy)
+
 The Sites are accessible for individuals around the world. Accordingly, throughout the document, we try to harmonize our approach and the language of the privacy policy as much as possible. However, sometimes we refer to specific laws that require further disclosures. These disclosures cover laws and regulations applicable to the following regions:
 
 1.  Individuals who we deem to be located in the European Economic Area, United Kingdom, or Switzerland – With respect to the collection and processing of their personal data, as defined by the General Data Protection Regulation (“GDPR”), and the UK Data Protection Act.
