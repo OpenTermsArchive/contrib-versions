@@ -97,12 +97,10 @@ The open source software platform that runs everywhere from the smartphone, the 
     
     *   [What is OpenStack](https://ubuntu.com/openstack/what-is-openstack)
     *   [Features](https://ubuntu.com/openstack/features)
-    *   [Consulting](https://ubuntu.com/openstack/consulting)
     *   [Managed](https://ubuntu.com/openstack/managed)
-    *   [Support](https://ubuntu.com/openstack/support)
-    *   [Compare](https://ubuntu.com/openstack/compare)
+    *   [Consulting](https://ubuntu.com/openstack/consulting)
     *   [Install](https://ubuntu.com/openstack/install)
-    *   [Resources](https://ubuntu.com/openstack/resources)
+    *   [Support](https://ubuntu.com/openstack/support)
 *   [Ceph](https://ubuntu.com/ceph) [Ceph](#)
     -----------------------------------------
     
@@ -125,7 +123,6 @@ The open source software platform that runs everywhere from the smartphone, the 
     
     *   [What is Kubernetes](https://ubuntu.com/kubernetes/what-is-kubernetes)
     *   [Charmed Kubernetes](https://ubuntu.com/kubernetes/charmed-k8s)
-    *   [Compare](https://ubuntu.com/kubernetes/compare)
     *   [Managed](https://ubuntu.com/kubernetes/managed)
     *   [Install](https://ubuntu.com/kubernetes/install)
     *   [Docs](https://ubuntu.com/kubernetes/docs)
@@ -152,15 +149,9 @@ The open source software platform that runs everywhere from the smartphone, the 
 *   [IoT](https://ubuntu.com/internet-of-things) [IoT](#)
     -----------------------------------------------------
     
-    *   [Smart displays](https://ubuntu.com/internet-of-things/smart-displays)
-    *   [Gateways](https://ubuntu.com/internet-of-things/gateways)
     *   [App store](https://ubuntu.com/internet-of-things/appstore)
     *   [Embedded Linux](https://ubuntu.com/embedded)
-    *   [Automotive](https://ubuntu.com/automotive)
     *   [EdgeX](https://ubuntu.com/internet-of-things/edgex)
-    *   [Networking](https://ubuntu.com/internet-of-things/networking)
-    *   [Smart city](https://ubuntu.com/internet-of-things/smart-city)
-    *   [Smart home](https://ubuntu.com/internet-of-things/smart-home)
     *   [Management](https://ubuntu.com/internet-of-things/management)
 *   [Raspberry Pi](https://ubuntu.com/raspberry-pi) [Raspberry Pi](#)
     -----------------------------------------------------------------
@@ -173,7 +164,6 @@ The open source software platform that runs everywhere from the smartphone, the 
     *   [Consulting](https://ubuntu.com/core/services)
     *   [Success stories](https://ubuntu.com/core/stories)
     *   [Features](https://ubuntu.com/core/features)
-    *   [Secure boot](https://ubuntu.com/core/features/secure-boot)
     *   [Tutorials](https://ubuntu.com/tutorials?q=core)
     *   [Docs](https://ubuntu.com/core/docs)
 
@@ -183,8 +173,8 @@ The open source software platform that runs everywhere from the smartphone, the 
     *   [Features](https://ubuntu.com/desktop/features)
     *   [Organisations](https://ubuntu.com/desktop/organisations)
     *   [Developers](https://ubuntu.com/desktop/developers)
-    *   [Flavours](https://ubuntu.com/desktop/flavours)
     *   [Partners](https://ubuntu.com/desktop/partners)
+    *   [Statistics](https://ubuntu.com/desktop/statistics)
 *   [Server](https://ubuntu.com/server) [Server](#)
     -----------------------------------------------
     
@@ -198,19 +188,15 @@ The open source software platform that runs everywhere from the smartphone, the 
     *   [Certifications & Hardening](https://ubuntu.com/security/certifications)
     *   [CVEs](https://ubuntu.com/security/cves)
     *   [Notices](https://ubuntu.com/security/notices)
-    *   [OVAL](https://ubuntu.com/security/oval)
     *   [Docker Images](https://ubuntu.com/security/docker-images)
 
 *   [Downloads](https://ubuntu.com/download) [Downloads](#)
     -------------------------------------------------------
     
-    *   [Cloud](https://ubuntu.com/download/cloud)
-    *   [IoT](https://ubuntu.com/download/iot)
-    *   [Raspberry Pi](https://ubuntu.com/download/raspberry-pi)
-    *   [Server](https://ubuntu.com/download/server)
     *   [Desktop](https://ubuntu.com/download/desktop)
-    *   [AMD-Xilinx](https://ubuntu.com/download/amd-xilinx)
-    *   [Alternative downloads](https://ubuntu.com/download/alternative-downloads)
+    *   [Server](https://ubuntu.com/download/server)
+    *   [IoT](https://ubuntu.com/download/iot)
+    *   [Cloud](https://ubuntu.com/download/cloud)
 *   [Observability](https://ubuntu.com/observability) [Observability](#)
     --------------------------------------------------------------------
     
