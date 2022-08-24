@@ -2,6 +2,10 @@
 
 These Terms of Use (the “Terms”) is the legal agreement between you (the “User” or “you”) and ironSource Ltd. (“ironSource”, “us” or “our” or “we” or “Company”) for your use of our website available at [is.com,](https://www.is.com/) and any of its subdomains (the “Site”).
 
+If you would like to review our terms of use for other products and services, please use the following links:  
+ironSource offerwall – [https://www.ironsource.mobi/termsofuse.html](https://www.ironsource.mobi/termsofuse.html)  
+Tapjoy offerwall – [https://dev.tapjoy.com/en/legal/Users-Terms-Of-Service](https://dev.tapjoy.com/en/legal/Users-Terms-Of-Service)
+
 BY ACCESSING AND/OR USING THE SITE, YOU ACKNOWLEDGE THAT YOU HAVE READ AND THAT YOU AGREE TO BE BOUND BY THESE TERMS INCLUDING THE TERMS OF OUR PRIVACY POLICY, AS AVAILABLE ON THE SITE
 
 IF YOU DO NOT AGREE TO THESE TERMS, DO NOT CONNECT TO, ACCESS OR USE THE SITE IN ANY MANNER WHATSOEVER.
