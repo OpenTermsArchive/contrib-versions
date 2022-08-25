@@ -190,13 +190,13 @@ TERMS OF USE FOR ALL USERS
 
 **Last updated: December 2021**
 
-TERMS OF USE FOR CREATORS
-=========================
+TERMS OF USE FOR FANS
+=====================
 
-**BY USING OUR WEBSITE AS A CREATOR YOU AGREE TO THESE TERMS – PLEASE READ THEM CAREFULLY**
+**BY USING OUR WEBSITE AS A FAN YOU AGREE TO THESE TERMS – PLEASE READ THEM CAREFULLY**
 
-1.  **Introduction:** These Terms of Use for Creators are additional terms which apply if you use OnlyFans as a Creator (also referred to as "you" and "your" in these Terms of Use for Creators). These Terms of Use for Creators form part of your agreement with us.
-2.  **Interpretation:** In these Terms of Use for Creators, defined terms have the same meanings given to them in the [Terms of Use for all Users](#terms-use-all-users). In addition:
+1.  **Introduction:** These Terms of Use for Fans are additional terms which apply if you use OnlyFans as a Fan (also referred to as "**you**" and "**your**" in these Terms of Use for Fans). These Terms of Use for Fans form part of your agreement with us.
+2.  **Interpretation:** In these Terms of Use for Fans, defined terms have the same meanings given to them in the [Terms of Use for all Users](#terms-use-all-users). In addition:
     
     1.  "**VAT**" means United Kingdom value added tax and any other tax imposed in addition to or in substitution for it at the rate from time to time imposed and any equivalent or similar governmental, state, federal, provincial, or municipal indirect tax, charge, duty, impost or levy in any other jurisdiction; and
     2.  "**Tax**" shall include all forms of tax and statutory, governmental, state, federal, provincial, local government or municipal charges, duties, imposts, contributions, levies, withholdings or liabilities wherever chargeable and whether of the UK or any other jurisdiction.
@@ -204,176 +204,119 @@ TERMS OF USE FOR CREATORS
     
     1.  Our [Terms of Use for all Users](#terms-use-all-users);
     2.  Our [Privacy Policy](https://onlyfans.com/privacy) – which tells you how we use your personal data and other information we collect about you;
-    3.  Our [Acceptable Use Policy](#acceptable-use-policy) – which tells you what you can and can’t do on OnlyFans;
+    3.  Our [Acceptable Use Policy](#acceptable-use-policy) – which tells you what you can and can't do on OnlyFans;
     4.  Our [Complaints Policy](#complaints-policy) – which sets out the procedure for making a complaint about any aspect of OnlyFans, and how we will deal with that complaint;
     5.  The [Standard Contract between Fan and Creator](https://onlyfans.com/contract) – which does not form part of your agreement with us, but which governs and sets out the terms applicable to each Fan/Creator Transaction you enter into on OnlyFans; and
     6.  Our [Community Guidelines](https://onlyfans.com/help) – which provide additional terms and guidance regarding your interactions with [OnlyFans](https://onlyfans.com/).
 4.  **Other terms which may apply to your use of OnlyFans:** The following additional terms may apply to your use of OnlyFans:
     
-    1.  If you are established or resident in the European Union or the United Kingdom, then the [Platform to Business Regulation Terms](#platform-business-regulation-terms) will also apply to you;
-    2.  If you are also a Fan, the [Terms of Use for Fans](#terms-use-fans) will also apply to your use of OnlyFans as a Fan; and
-    3.  If you participate in the OnlyFans Referral Program, the [Referral Program Terms](#referral-program-terms) will apply to your use of the OnlyFans Referral Program.
-5.  **What are the fees that we charge Creators for the use of OnlyFans?** We charge a fee to you of twenty per cent (20%) of all Fan Payments made to you (exclusive of any VAT element of the Fan Payment) (called **Our Fee**. The remaining eighty per cent (80%) of the Fan Payment (exclusive of any VAT element of the Fan Payment) is payable to you (called "**Creator Earnings**"). Our Fee includes the costs of providing, maintaining and operating OnlyFans and storing your Content. Our Fee is deducted from the Fan Payment, and Creator Earnings are paid to you in the way described in the [Payouts to Creators](#payouts-creators) section below.
-6.  **How to set up your account as a Creator account:** To set up your account as a Creator account:
+    1.  If you are also a Creator, the [Terms of Use for Creators](#terms-use-creators) will apply to your use of OnlyFans as a Creator;
+    2.  If you are a Creator who is established or resident in the European Union or the United Kingdom, then the [Platform to Business Regulation Terms](#platform-business-regulation-terms) will also apply to you; and
+    3.  If you participate in the OnlyFans referral program, the [Referral Program Terms](#referral-program-terms) will apply to your use of the OnlyFans Referral Program.
+5.  **Your commitments to us:** You warrant (which means you make a legally enforceable promise) that:
     
-    1.  You will need on your User account page to upload a valid form of ID and two photos of you in accordance with the requirements set out [here](https://onlyfans.com/help/3/18/73).
-    2.  You will need on your User account page to add a bank account or payment details of your bank account or a payment method.
-    3.  You will need on your User account page to select one of the available methods provided by OnlyFans as to how your Creator Earnings will be transferred to you. These methods are called **Payout Options**.
-    4.  If you are registered for VAT in the UK, you will need to provide us with your valid UK VAT number. See the [Promoting Tax compliance and VAT](#promoting-tax-compliance-vat) section of these Terms of Use for Creators in relation to UK VAT.
-    5.  You may also need to submit additional information depending on the country where you live.
-    6.  We may ask you for additional age or identity verification information at any time. We may reject your application to set up a Creator account for any reason, including the reasons stated [here](https://onlyfans.com/help/3/18/74).
-    7.  Once you have set up your account as a Creator account, then if you want to charge your Fans a monthly subscription fee you will need to set your subscription price for your Fans within the range allowed by OnlyFans as set out [here](https://onlyfans.com/help/3/24/93).
-    8.  You will then be able to start adding Content and Users will be able to subscribe to your account to become your Fans.
-    9.  If you lose access to your account, you can reset your password, but you will need to know the email address used to set up the account to do so. If you do not recall the email address used to set up the account, we may require you to provide identification documents and photos and any additional evidence we may reasonably require to prove your identity.
-7.  **Personal legal responsibility of Creators:** Only individuals can be Creators. Every Creator is bound personally by the Terms of Service. If you have an agent, agency, management company or other third party which assists you with the operation of your Creator account (or operates it on your behalf), this does not affect your personal legal responsibility. Our relationship is with you, and not with any third party, and you will be legally responsible for ensuring that all Content posted and all use of your account complies with the Terms of Service.
-8.  **Fan/Creator Transactions:** This section describes the terms which apply to Fan/Creator Transactions:
+    1.  you are at least 18 years old;
+    2.  if the laws of the country or State/province where you live provide that you can only be legally bound by a contract at an age which is higher than 18 years old, then you are old enough to be legally bound by a contract under the laws of the country or State/province where you live;
+    3.  you will provide such other information or verification records as we require.
+    4.  you are permitted by the laws of the country or State/province where you are located to join OnlyFans and to view any Content available on it and to use any functionality provided by it; and
+    5.  you are able and willing to make payment (where required) to view Content available on OnlyFans which you wish to view and to use any functionality provided by OnlyFans that you wish to use.
+6.  **Content - general terms:** In addition to the terms set out elsewhere in the Terms of Service (in particular in our [Acceptable Use Policy](#acceptable-use-policy)), the following terms apply to the Content posted, displayed, uploaded or published by you as a Fan on OnlyFans:
     
-    1.  All Fan/Creator Transactions are contracts between Fans and Creators on the terms of the [Standard Contract between Fan and Creator](https://onlyfans.com/contract). Although we facilitate Fan/Creator Transactions by providing the OnlyFans platform and storing Content, we are not a party to the [Standard Contract between Fan and Creator](https://onlyfans.com/contract) or any other contract which may exist between a Fan and Creator, and are not responsible for any Fan/Creator Transaction.
-    2.  Fan Payments are exclusive of VAT, which shall be added at the current rate as applicable to Fan Payments.
-    3.  When you receive confirmation from OnlyFans, either in the ‘Statements’ page of your User account or by email (or both), that the Fan/Creator Transaction has been confirmed, you must perform your part of such Fan/Creator Transaction (for example, by allowing the Fan to view the Content on your Creator account and/or providing the customised Content paid for by the Fan and/or allowing the Fan to use the fan interaction function paid for (as applicable)). You agree that you will indemnify us for any breach by you of this obligation (which means you will be responsible for any loss or damage (including loss of profit) we suffer as a result of you failing to comply with this obligation).
-9.  **Content – general terms:** In addition to the terms set out elsewhere in the Terms of Service (in particular in our [Acceptable Use Policy](#acceptable-use-policy)), the following terms apply to the Content posted, displayed, uploaded or published by you as a Creator on OnlyFans:
-    
-    1.  Your Content is not confidential, and you authorize your Fans to access and view your Content on OnlyFans for their own lawful and personal use, and in accordance with any licenses that you grant to your Fans.
-    2.  You warrant (which means that you make a legally enforceable promise to us) that for each item of Content which you post, display, upload or publish on OnlyFans:
+    1.  You warrant (which means that you make a legally enforceable promise to us) that for each item of Content which you post, display, upload or publish on OnlyFans:
         
         1.  the Content complies in full with the Terms of Service (and in particular our [Acceptable Use Policy](#acceptable-use-policy));
-        2.  you hold all rights necessary to license and deal in your Content on OnlyFans, including in each territory where you have Fans and in the United Kingdom;
-        3.  you either own your Content (and all intellectual property rights in it) or have a valid license to offer and supply your Content to your Fans;
-        4.  if your Content includes or uses any third-party material, you have secured all rights, licenses, written consents and releases that are necessary for the use of such third-party property in your Content and for the subsequent use and exploitation of that Content on OnlyFans; and
-        5.  the Content is:
-            
-            1.  of satisfactory quality, taking account of any description of the Content, the price, and all other relevant circumstances including any statement or representation which you make about the nature of the Content on your account or in any advertising;
-            2.  reasonably suitable for any purpose which the Fan has made known to you is the purpose for which the Fan is using the Content; and
-            3.  as described by you.
-    3.  You agree that you will be liable to us and indemnify us if any of the warranties at section **9(b)** is untrue. This means you will be responsible for any loss or damage (including loss of profit) we suffer as a result of any of the warranties being untrue.
-    4.  We are not responsible for and do not endorse any aspect of any Content posted by you or any other User of OnlyFans. We do not have any obligation to monitor any Content and have no direct control over what your Content may comprise.
-    5.  You also agree to act as custodian of records for the Content that you upload to OnlyFans.
-10.  **Advertising on OnlyFans:**
+        2.  you either own your Content (and all intellectual property rights in it) or have a valid license to your Content; and
+        3.  if your Content includes or uses any third-party material, you have secured all rights, licenses, written consents and releases that are necessary for the use of such third-party property in your Content and for the subsequent use and exploitation of that Content on OnlyFans.
+    2.  You agree that you will be liable to us and indemnify us if any of the warranties at section **6(a)** is untrue. This means you will be responsible for any loss or damage we suffer as a result of any warranty being untrue.
+    3.  We are not responsible for and do not endorse any aspect of any Content posted by you or any other User of OnlyFans. We do not have any obligation to monitor any Content and have no direct control over what your Content may comprise.
+7.  **Adult material:** You acknowledge that you are aware that some of the Content on OnlyFans contains adult material, and you agree to take this into account when deciding where to access and view Content. We will not be responsible to you if you suffer any loss or damage as a result of your accessing or viewing Content containing adult material in a way which places you in breach of any contract you have with a third party (for example, your employment contract) or in breach of any applicable law.
+8.  **Subscriptions and purchases by Fans:** This section describes the terms which apply to Fan/Creator Transactions:
     
-    1.  If you post or upload video Content to your Creator account which is designed to promote, directly or indirectly, a third-party goods, services or image in return for payment, other valuable consideration, or self-promotional purposes (including advertising, sponsorship, and product placement) (together "Advertising Content"), then you must comply with the requirements set out in sections **10(b)** and **(c)** of these Terms of Use for Creators.
-    2.  Requirements – Advertising Content: You must ensure that any Advertising Content which you post to your Creator account:
-        
-        1.  does not:
-            
-            1.  prejudice respect for human dignity;
-            2.  include or promote discrimination based on sex, racial or ethnic origin, nationality, religion or belief, disability, age or sexual orientation;
-            3.  encourage behaviour prejudicial to health or safety;
-            4.  encourage behaviour grossly prejudicial to the protection of the environment;
-            5.  cause physical, mental or moral detriment to any person;
-            6.  directly urge persons to purchase or rent goods or services in a manner which exploits their inexperience or credulity;
-            7.  directly encourage persons to persuade others to purchase or rent goods or services;
-            8.  exploit the trust of persons in others; or
-            9.  unreasonably show persons in dangerous situations;
-        2.  does not advertise cigarettes and other tobacco products, electronic cigarettes and electronic cigarette refill containers, illegal drugs, or any prescription-only medicine;
-        3.  does not advertise, promote, or facilitate illegal gambling, and
-        4.  in respect of any Advertising Content for alcoholic drinks, is not aimed at minors and does not encourage immoderate consumption of alcohol.
-    3.  Transparency requirement - Advertising Content: You must declare that any Advertising Content which you post or upload to OnlyFans contains advertising by including the signifier **#ad** in the caption to the Advertising Content before posting or uploading.
-11.  **Co-authored Content:**
+    1.  All Fan/Creator Transactions are contracts between Fans and Creators on the terms of the [Standard Contract between Fan and Creator](https://onlyfans.com/contract). Although we facilitate Fan/Creator Transactions by providing the OnlyFans platform and storing Content we are not a party to the [Standard Contract between Fan and Creator](https://onlyfans.com/contract) or any other contract which may exist between a Fan and Creator, and are not responsible for any Fan/Creator Transactions.
+    2.  Creators are solely responsible for determining (within the parameters for pricing on OnlyFans) the pricing applicable to Fan/Creator Transactions and the Content to which you may be given access. All prices appear in USD only.
+    3.  Fan Payments are exclusive of VAT, which shall be added at the current rate as applicable to Fan Payments.
+    4.  To be able to enter into a Fan/Creator Transaction with a particular Creator, you must first add a payment card to your account and then click the 'Subscribe' button on the relevant Creator's profile.
+    5.  You authorize us and our subsidiary companies to supply your payment card details to a third-party payment provider for the purpose of processing your Fan Payment. All Fan Payments will be charged in USD. Your payment card provider may charge you currency conversion fees. We do not have control over currency exchange rates or charges imposed by your payment card provider or bank and we and our subsidiary companies will not be responsible for paying any charges or fees imposed by your payment card provider or bank.
+    6.  If you choose to provide details of two or more payment cards, then if you try to make a Fan Payment from the first card and the card is rejected for any reason, then the other payment card will be used to collect the full Fan Payment.
+    7.  The payment provider will take (i) periodic payments from your payment card for Fan Payments which are Subscriptions; and (ii) immediate payments from your payment card for Fan Payments other than Subscriptions (including any tips paid by you to a Creator). You authorize and consent to each of these payments being debited using your supplied payment card details.
+    8.  Apart from free-trial Subscriptions, all Subscriptions to a Creator's profile will automatically renew at the end of the relevant subscription period, except if your payment card is declined, the subscription price for the Subscription has increased, or you have turned off the "Auto-Renew" switch located on the relevant Creator's profile. This means that if you want to stop subscribing to a Creator's profile and paying continuing monthly subscription charges, you will need to turn off the "Auto-Renew" switch located on the relevant Creator's profile.
+    9.  If you cancel a Subscription you will continue to be permitted to view the relevant Creator's Content until the end of the subscription period in which you cancelled, after which no further payments will be taken from your payment card in respect of subscriptions to that Creator's profile (unless you choose to pay for a new Subscription to that Creator’s profile), and you will no longer be able to view the relevant Creator's Content.
+    10.  You agree that you will not make unjustified requests for a refund in respect of any Fan/Creator Transaction or tip to a Creator, or unjustified chargeback requests of your payment card provider in relation to any Fan/Creator Transaction or tip to a Creator. If we consider that any request for a refund or chargeback request was made by you in bad faith, we have the right to suspend or delete your User account.
+    11.  Wallet credits: You can prepay an amount on OnlyFans (known as "Wallet Credits") which you can later use to make Fan Payments. Purchases on OnlyFans cannot be divided - if you attempt a purchase that costs more than the total amount of your remaining Wallet Credits, your payment card will be charged the full amount for that purchase. Wallet Credits are subject to a maximum amount as determined by us from time to time. Interest will not accrue on Wallet Credits. Wallet Credits are non-refundable, which means that you are not entitled to a refund of any unused Wallet Credits.
+9.  **Suspension of your User account:** If we suspend your User account in accordance with our rights under the Terms of Service, then any Fan Payments which would otherwise have fallen due during the period of suspension of your User account will be suspended during the period of the suspension of your User account.  
     
-    1.  If you upload Content to your Creator account which shows anyone else other than or in addition to you (even if that person cannot be identified from the Content) ("Co-Authored Content"), you warrant (which means you make a legally enforceable promise to us) that each individual shown in any Co-Authored Content uploaded to your account is i) a Creator on OnlyFans; or ii) a consenting adult, and that you have verified the identity and age of each such individual and will provide supporting documents as we may request in our discretion.
-    2.  You further warrant that you have obtained and keep on record written consent from each individual shown in your Co-Authored Content that such individual:
-        
-        1.  has given his or her express, prior and fully informed consent to his or her appearance in the Co-Authored Content; and
-        2.  has consented to the Co-Authored Content in which he or she appears being posted on OnlyFans.
-    3.  In addition to the confirmations in sections **11(a)** and **(b)** above, you agree that if you upload Co-Authored Content where the other person or people appearing in the Content maintain a Creator account on OnlyFans, you will tag the OnlyFans account(s) of any person or people appearing in the Co-Authored Content who can be identified from it.
-    4.  If any Co-Authored Content is a work of joint authorship, you are solely responsible for obtaining any required licenses or consents from any other joint authors of the Content which are sufficient to permit such Content to be uploaded to and made available on OnlyFans.
-    5.  You agree that we will only arrange for Creator Earnings to be paid to the account of the Creator to which the Co-Authored Content is uploaded. The Creator who uploaded the Co-Authored Content is solely responsible for dividing and distributing any revenue generated from the Co-Authored Content between the individuals shown in such Co-Authored Content. Any such revenue-sharing agreement shall be an independent, private agreement between you and such individual(s), and we are not responsible for providing or enforcing any such agreements. You understand and agree that you are not entitled to any Creator Earnings earned on any Co-Authored Content in which you appear but which is posted on another Creator’s account. If you post Co-Authored Content on your account, we may require you to provide valid and complete legal information for all individuals which appear in the Co-Authored Content. If you fail to provide any information requested by us upon our request, we may delete the Co-Authored Content, restrict your rights and permissions to post as a Creator, terminate your account, and/or withhold all or any portion of Creator Earnings earned but not yet paid out to you.
-    6.  You agree to release us from and not to make any claims against us arising from Co-Authored Content. You agree that all claims arising from Co-Authored Content shall be made against the Creator(s) who posted Co-Authored Content or the individual(s) who appeared in the Co-Authored Content (as applicable).
-12.  **Payouts to Creators:**
-    
-    1.  All Fan Payments will be received by a third-party payment provider approved by us.
-    2.  If you have chosen the Stripe Payout Option, Stripe will collect the Fan Payment and pay the Creator Earnings to your bank account.
-    3.  Where Stripe is not the Payout Option chosen by you, Our Fee will be deducted from the Fan Payment received and your Creator Earnings will be held by us or one of our subsidiary companies on your behalf.
-    4.  Your OnlyFans account will be updated within a reasonable time with your Creator Earnings. Your Creator Earnings will become available for withdrawal by you from your OnlyFans account once such Creator Earnings appear in your OnlyFans account.
-    5.  To make a withdrawal of Creator Earnings from your OnlyFans account, you must have at least the minimum payout amount in your OnlyFans account. Please click on the Banking page on your account to see what the minimum payout amount is for your country of residence and Payout Option.
-    6.  The amount that you see in your ‘current balance’ in your OnlyFans account is your Creator Earnings at the relevant time. All Fan Payments and Creator Earnings are transacted in USD only. If you have chosen the "Stripe" Payout Option then the Fan Payments and Creator Earnings figures will be reflected in your local currency, at an exchange rate controlled by Stripe. Your bank may charge you currency conversion or transfer fees to receive the money. Additionally, your e-wallet company may charge you a fee for accessing the money. We do not have control over currency exchange rates or charges imposed by your bank or your e-wallet company, and we and our subsidiary companies will not be responsible for paying any charges imposed by your bank or your e-wallet company.
-    7.  If a Fan successfully seeks a refund or chargeback from their credit card provider in respect of a Fan Payment made to you, we may investigate and may decide to deduct from your account an amount equal to the Creator Earnings earned by you on the charged-back or refunded amount.
-    8.  Except for Payout Options involving payment by direct bank transfer, we do not store any data disclosed by you when you register your Payout Options with a third-party payment provider.
-13.  **Circumstances in which we may withhold Creator Earnings:**
-    
-    1.  We may withhold all or any part of the Creator Earnings due to you but not yet paid out:
-        
-        1.  if we think that you have or may have seriously or repeatedly breached any part of the Terms of Service;
-        2.  if you attempt or threaten to breach any part of the Terms of Service in a way which we think has or could have serious consequences for us or another User (including actual or possible loss caused to us or another User); or
-        3.  if we suspect that all or any part of the Creator Earnings result from unlawful or fraudulent activity, either by you or by the Fan who made the Fan Payment resulting in the Creator Earnings,
-        
-        for as long as is necessary to investigate the actual, threatened or suspected breach by you or the suspected unlawful activity (as applicable). If following our investigation, we conclude that (i) you have seriously or repeatedly breached any part of the Terms of Service; (ii) you have attempted or threatened to breach any part of the Terms of Service in a way which has or could have serious consequences for us or another User (including actual or possible loss caused to us or another User), and/or (iii) the Creator Earnings result from unlawful or fraudulent activity, we may notify you that you have forfeited your Creator Earnings.
-        
-    2.  We may also withhold all or any part of the Creator Earnings due to you but not yet paid out if we receive notice that you have secured, encumbered, pledged, assigned, or otherwise allowed a lien to be placed on Creator Earnings. We undertake no duty to pay Creator Earnings to third-party lienholders and may withhold payment of Creator Earnings until the lien has been removed.
-    3.  We shall not have any responsibility to you if we withhold or forfeit any of your Creator Earnings where we have a right to do so under these Terms of Use for Creators.
-    4.  If we are withholding all or any part of the Creator Earnings due to you and we determine that part of the Creator Earnings withheld by us is unrelated to breaches by you of the Terms of Service or suspected unlawful or fraudulent activity, then we may arrange for you to be paid the part of the Creator Earnings which we determine to be unrelated to breaches by you of the Terms of Service or suspected unlawful or fraudulent activity. However, you agree that if we consider that your breach(es) of the Terms of Service has or may cause us loss, we may withhold all Creator Earnings due to you but not yet paid and we may set off such amounts against any losses suffered by us.
-    5.  If once we have finished our investigation we determine that Creator Earnings are forfeited, we will (unless prohibited by law) use our best efforts to ensure that any Fan Payments which resulted in forfeited Creator Earnings are returned to the relevant Fans who paid such Fan Payments.
-14.  **Promoting Tax compliance and VAT:**
-    
-    1.  **General:**
-        
-        1.  We recommend that all Creators seek professional advice to ensure you are compliant with your local Tax and VAT rules, based on your individual circumstances.
-        2.  By using OnlyFans as a Creator, you warrant (which means you make a legally enforceable promise) that you have reported and will report in the future the receipt of all payments made to you in connection with your use of OnlyFans to the relevant Tax authority in your jurisdiction, as required by law.
-        3.  By using OnlyFans as a Creator you warrant (which means you make a legally enforceable promise) that you will at all times comply with all laws and regulations relating to Tax which apply to you. If, at any point whilst you have an OnlyFans account, any Tax non-compliance occurs in relation to you (including a failure by you to report earnings or the imposition on you of any penalty or interest relating to Tax) or if any litigation, enquiry, or investigation is commenced against you that is in connection with, or which may lead to, any occurrence of Tax non-compliance, you agree that you will:
-            
-            1.  notify us by email to [vat@onlyfans.com](mailto:vat@onlyfans.com) in writing within 7 days of the occurrence of the Tax non-compliance or the commencement of the litigation, enquiry or investigation (as applicable); and
-            2.  promptly provide us by email to [vat@onlyfans.com](mailto:vat@onlyfans.com) with:
-                
-                1.  details of the steps which you are taking to address the occurrence of the Tax non-compliance and to prevent the same from happening again, together with any mitigating factors that you consider relevant; and
-                2.  such other information in relation to the occurrence of the Tax non-compliance as we may reasonably require.
-        4.  For the avoidance of doubt, you are responsible for your own Tax affairs and we and our subsidiary companies (i) are not responsible for advising you on your Tax affairs and will not be liable in respect of any general information provided on OnlyFans or by [support@onlyfans.com](mailto:support@onlyfans.com) in respect of Tax, and (ii) will not be liable for any non-payment of Tax by Creators.
-        5.  We reserve the right to close your OnlyFans account if we are notified of or become aware of any Tax non-compliance by you.
-    2.  **UK VAT and UK established Creators:**
-        
-        1.  For the purposes of UK VAT only, Creators are treated as providing their services to OnlyFans, rather than to Fans directly.
-        2.  If you are a Creator registered for UK VAT:
-            
-            1.  You will be treated, for VAT purposes, as charging OnlyFans your Creator Earnings (80% of all and any Fan Payments), together with UK VAT at the prevailing rate in force at the time of the Fan Payment;
-            2.  OnlyFans also agrees that, subject to the terms set out in this section of these Terms of Use for Creators, you can add UK VAT at the prevailing rate in force at the time of the referral payment to the amount of any referral payments payable to you under the [Referral Program Terms](#referral-program-terms) (" **Referral Payments**").
-            3.  You agree to use the OnlyFans VAT invoice generator tool which can be found at: [https://onlyfans.com/my/banking/vat/create-document](https://onlyfans.com/my/banking/vat/create-document) to generate monthly VAT invoices, addressed to Fenix International Limited, in respect of your Creator Earnings (and Referral Payments, if any) for the relevant period together with the VAT on such Creator Earnings (and Referral Payments, if any);
-            4.  The VAT element added to your Creator Earnings (and Referral Payments, if any) (the "VAT Amount") will be paid to you by way of a separate payment outside of your regular Creator Earnings, provided that you must have submitted to us copies of the following before payment of the VAT Amount will be made to you:
-                
-                1.  your VAT registration number by completing this form [https://onlyfans.com/my/banking/vat](https://onlyfans.com/my/banking/vat);
-                2.  a valid VAT invoice generated and submitted using the OnlyFans VAT invoice generator tool and uploaded using [https://onlyfans.com/my/banking/vat/add-documents](https://onlyfans.com/my/banking/vat/add-documents); and
-                3.  a VAT return made to HM Revenue & Customs, including a value of taxable supplies equal to or greater than the aggregate value of your Creator Earnings (and Referral Payments, if any) for the relevant period. You can find the monthly earning details at [https://onlyfans.com/my/stats/earnings](https://onlyfans.com/my/stats/earnings);
-        3.  You shall pay the VAT Amount which is paid to you directly to HM Revenue & Customs.
-        4.  If you need any further information or assistance on what is needed in order to receive the VAT Amount you can email [vat@onlyfans.com](mailto:vat@onlyfans.com).
-        5.  More information on who is required to register for VAT in the UK, and the VAT position for Creators whose earnings are not above the earnings threshold or who are not VAT registered can be found at [https://onlyfans.com/help/3/120](https://onlyfans.com/help/3/120) and in the following guidance from HM Revenue & Customs in the UK at [https://www.gov.uk/vat-registration/when-to-register](https://www.gov.uk/vat-registration/when-to-register).
-        6.  You agree that you will keep copies of all VAT invoices and VAT returns in connection with your earnings from OnlyFans and you will provide us with copies of such documents within 14 days of our written request that you do so. For the avoidance of doubt, it is your obligation to comply with all provisions of VAT legislation and make, give, obtain, maintain and keep accurate, complete and up-to-date records, invoices, accounts and other documents required for the purposes of the VAT legislation.
-        7.  If you are a Creator in the UK who is not required to register for UK VAT, then you should monitor the level of taxable sales that you make in the UK (including any Referral Payments) to ensure you have not exceeded the VAT registration threshold in the UK. It is your obligation, as a taxable person, to monitor whether you have exceeded the VAT registration threshold.
-        8.  We do not monitor earnings that Creators receive from other income sources. However, we will monitor the annual earnings of UK Creators on our platform, and if you are not already VAT registered and your earnings exceed the VAT registration threshold, you will receive a notification from us asking you to register for VAT. If you receive such a VAT registration notification, you agree to register for VAT as soon as possible and to send your VAT registration number to us at [vat@onlyfans.com](mailto:vat@onlyfans.com), within 6 weeks of such notification. Failure to do so may result in your OnlyFans account being closed.
 
 **Last updated: December 2021**
 
-PLATFORM TO BUSINESS REGULATION TERMS
-=====================================
+REFERRAL PROGRAM TERMS
+======================
 
-1.  **Introduction:** These Platform to Business Regulation Terms form part of the Terms of Service.
-2.  **Interpretation:** In these Platform to Business Regulation Terms, unless otherwise stated, defined terms have the same meanings given to them in the [Terms of Use for all Users](#terms-use-all-users).
-3.  **Do these Platform to Business Regulation Terms apply to me?** These Platform to Business Regulation Terms only apply to Creators who are established or resident in the European Union or the United Kingdom (also referred to as "**you**" and "**your**"). If these Platform to Business Regulation Terms apply to you, they form part of your agreement with us.
-4.  **What do these Platform to Business Regulation Terms include?** These Platform to Business Regulation Terms provide information about our practices to comply with the fairness and transparency requirements set out in EU Regulation 2019/1150 (the "**Platform to Business Regulation**").
-5.  **Promoting Creators via other distribution channels:** We may choose to promote you via our Instagram ([www.instagram.com/onlyfans](https://www.instagram.com/onlyfans)) and Twitter ([www.twitter.com/onlyfans](https://www.twitter.com/onlyfans)) social media accounts.
-6.  **Ranking on OnlyFans:** We randomly suggest potential Creators for a User to follow based on the Creators that have earned money on OnlyFans in the previous 30 days. We have no ranking system. There is no search/discovery feature on OnlyFans.
-7.  **Complaints:** If you have a complaint about:
+WARNING!
+--------
+
+In compliance with regulation 3 of the Trading Scheme Regulations 1997 (as amended) and section 120(1) of the Fair Trading Act 1973, please read the warning below in respect of the OnlyFans Referral Program:
+
+*   It is illegal for us or for a participant in the OnlyFans Referral Program (including Referring Users and Referred Creators) to persuade anyone to make a payment by promising benefits from getting others to join the OnlyFans Referral Program.
+*   Do not be misled by claims that high earnings are easily achieved from participation in the OnlyFans Referral Program.
+*   Although we do not demand any payment from Referring Users for the purposes of participating in the OnlyFans Referral Program, we are legally required to inform you that if you sign this contract, you have 14 days in which to cancel and get your money back.
+
+1.  **Introduction:** These Referral Program Terms are additional terms which apply if you use the OnlyFans Referral Program. These Referral Program Terms form part of your agreement with us.
+2.  **Interpretation:** In these Referral Program Terms defined terms have the same meanings given to them in the [Terms of Use for all Users](#terms-use-all-users). In addition:
     
-    1.  any alleged non-compliance by us with any obligations laid down in the Platform to Business Regulation which affect you; or
-    2.  technological issues relating directly to OnlyFans and which affect you; or
-    3.  measures taken by us or our conduct which relate directly to OnlyFans and which affect you,
+    1.  "**Referring User**" is also referred to as "**you**" or "**your**" in these Referral Program Terms;
+    2.  "**Referred Creator**" means the person who joins OnlyFans as a Creator via the Referring User's unique referral link.
+3.  **What is the OnlyFans Referral Program?** OnlyFans offers a referral program by which existing Users can introduce people who are interested in becoming Creators to OnlyFans and receive referral payments from OnlyFans which are calculated and limited as described in these Referral Program Terms.
     
-    then please submit your complaint to [support@onlyfans.com](mailto:support@onlyfans.com).
+    The OnlyFans Referral Program is operated by Fenix International Limited. We are a limited company registered in England and Wales, with company registration number 10354575 and we have our registered office address at Fourth Floor, Imperial House, 8 Kean Street, London, WC2B 4AS.
     
-8.  **Complaint-handling process:** Following receipt of your complaint under section **7** above, we will:
+4.  **The rules of the OnlyFans Referral Program:**
     
-    1.  consider your complaint and the follow-up which we may need to give to your complaint (including asking you for further information or documents) in order to adequately address the issue raised;
-    2.  process your complaints within a reasonable time, taking into account the importance and complexity of the issue raised; and
-    3.  communicate to you in plain and intelligible language by email or by message to your OnlyFans account the outcome of the internal complaint-handling process.
-9.  **Mediation service:** If your complaint under section **7** above is not resolved to your satisfaction through our internal complaint-handling process as set out in section **8** above, then you may access the mediation service by contacting:
+    1.  Only Users of OnlyFans with a current User account can participate in the OnlyFans Referral Program. If a User's account has been suspended or terminated by us for any reason or deleted by the User, that User will not be eligible to participate in the OnlyFans Referral Program.
+    2.  You will need on your User account page to add a bank account or a payment method details of your bank account or a payment method in order to receive referral payments under the OnlyFans Referral Program.
+    3.  Each User has a unique referral link (which can be accessed via the User's User account) which the User may share with others. When sharing your unique referral link you must not impersonate OnlyFans or give the impression that your referral link is being shared or promoted by us. You must not use Google Ads or any similar advertising platform or search engine advertising service to share or promote your unique referral link. Upon our request, you must disclose the methods by which you share your unique referral link in the Bio/Website field of your OnlyFans account.
+    4.  The Referred Creator must click on your unique referral link and then register with OnlyFans using the same browser that they used to click on your unique referral link. If someone registers with OnlyFans other than by using your unique referral link, we will not link that account to your referral and no referral payments will be made to you.
+    5.  The Referred Creator must not have opened a User account with OnlyFans (whether under the same name or another name) before clicking on your unique referral link. If the Referred Creator is currently or has previously been a User of OnlyFans no referral payments will be made to you for the referral.
+    6.  If the Referred Creator sets up more than one User account referral payments will be made to you on the earnings made by the Referred Creator from their first User account only. No referral payments will be made to you on any further User accounts set up by the Referred Creator.
+    7.  No referral payments will be made to you on any referral of a Referred Creator which we determine is owned or operated by you, or is in a commercial relationship with you. You will provide any information which we request to enable us to determine whether the Referred Creator is owned or operated by you or if there is a commercial relationship between you and the Referred Creator.
+    8.  You agree that when promoting OnlyFans in any way as a Referring User:
+        
+        *   you will not give a false impression of OnlyFans, the services, programs, and content (including Content) made available through OnlyFans, its Users or the Terms of Service; and
+        *   you will not make any statements which suggest to a potential Creator that the potential Creator will make a particular sum of money (or any money) from their use of OnlyFans, or any statements regarding the likely number of Fans.
+5.  **Referral payments:**
     
-    Centre for Effective Dispute Resolution  
-    International Dispute Resolution Centre  
-    P2B Panel of Mediators  
-    70 Fleet Street  
-    London  
-    EC4Y 1EU  
-    United Kingdom  
-    [https://www.cedr.com/p2bmediation/](https://www.cedr.com/p2bmediation/)
+    1.  **How are referral payments calculated?** Once a Referred Creator has become a registered User of OnlyFans in accordance with the rules of the OnlyFans Referral Program described above, the Referring User will be paid a referral payment equal to five per cent (5%) of Fan Payments generated by the Referred Creator in the twelve months after the date on which the Referred Creator becomes a registered User of OnlyFans, up to a maximum referral payment by OnlyFans to the Referring User of US$50,000 per Referred Creator.
+        
+        This means that if a Referred Creator generates Fan Payments with a total value of US$1 million or more in the twelve months after the date on which that Referred Creator becomes a registered User of OnlyFans, then the Referring User's referral payments in relation to that Referred Creator will be capped at US$50,000 in total. However, if the Referred Creator generates Fan Payments with a total value of less than US$1 million in the twelve months after the date on which that Referred Creator becomes a registered User of OnlyFans, then the Referring User will be paid five per cent (5%) of the Fan Payments generated by that Referred Creator in the twelve months after the date on which the Referred Creator becomes a registered User of OnlyFans, following which no further referral payments will be made to the Referring User in respect of that Referred Creator.
+        
+        For all referrals made prior to 1 May 2020, referral payments will be made to the relevant Referring Users until 1 May 2021 or until US$50,000 has been paid out to the Referring User on the referral, whichever occurs first.
+        
+    2.  **VAT:** If you are a Referring User you should know that all referral payments payable to you by us will be inclusive of any VAT (as defined in the [Terms of Use for Creators](#terms-use-creators)) which is or becomes chargeable on any supplies made by you, except as provided for in the " [Promoting Tax compliance and VAT](#promoting-tax-compliance-vat)" section of the [Terms of Use for Creators](#terms-use-creators).
+    3.  **Warning:** In compliance with regulation 3 of the Trading Scheme Regulations 1997 (as amended) and section 120(1) of the Fair Trading Act 1973, please read the warning below in respect of the OnlyFans Referral Program:
+        
+        *   It is illegal for us or for a participant in the OnlyFans Referral Program (including Referring Users and Referred Creators) to persuade anyone to make a payment by promising benefits from getting others to join the OnlyFans Referral Program.
+        *   Do not be misled by claims that high earnings are easily achieved from participation in the OnlyFans Referral Program.
+    4.  **Choosing a payout method to receive referral payments:** In order to be able to receive referral payments you must first choose one of the payout methods provided by OnlyFans in your country of residence. These methods are called "Payout Options".
+    5.  **How frequently are referral payments made?** The referral payment due to you on Fan Payments made to the Referred Creator in a calendar month will be transferred to you on or around the first day of the next calendar month (which means, for example, that referral payments due to you in respect of Fan Payments made to the Referred Creator in February shall be paid to you on or around 1 March).
+    6.  **Who bears the cost of the referral payment?** The cost of the referral payment is borne by us, not the Referred Creator.
+6.  **Our rights relating to the referral program.**
     
-    You and we will act in good faith throughout any mediation. However, any attempt to reach agreement through mediation on the settlement of a dispute between us will not affect our or your rights to commence legal proceedings at any time before, during or after the mediation process, as such rights are set out in our [Terms of Use for all Users](#terms-use-all-users).
+    1.  If referral payments have been made incorrectly then we have the right to recover the wrongly paid sums from the User to whom the wrongly paid sums have been paid.
+    2.  We may request you or Referred Creators (or both) to provide us with ID and other information reasonably required by us to verify any referral payment to be made and the person to whom any referral payment should be made. Failure to provide any information requested by us may lead to you losing your entitlement to referral payments in respect of the relevant Referred Creator.
+    3.  We may change any aspect of the OnlyFans Referral Program (including how referral payments are calculated) or discontinue the OnlyFans Referral Program at any time, but no change will deprive any Referring User of referral payments already earned based on Fan Payments made to Referred Creators before the changes came into effect.
+7.  **Circumstances in which we may withhold referral payments:**
     
+    1.  We may withhold all or any part of the referral payments due to you but not yet paid out:
+        
+        *   if we think that you have or may have seriously or repeatedly breached any part of the Terms of Service;
+        *   if you attempt or threaten to breach any part of the Terms of Service in a way which has or could have serious consequences for us or another User (including actual or possible loss caused to us or another User); or
+        *   if we suspect that all or any part of the referral payments due to you result from unlawful or fraudulent activity, either by you, by the Fan who made the Fan Payment to the Referred Creator which resulted in the referral payment, or by the Referred Creator to whom the Fan Payment was made which resulted in the referral payment,
+        
+        for as long as is necessary to investigate the actual, threatened or suspected breach(es) by you or the suspected unlawful or fraudulent activity (as applicable). If following our investigation, we conclude that (i) you have seriously or repeatedly breached any part of the Terms of Service; (ii) you have attempted or threatened to breach any part of the Terms of Service in a way which has or could have serious consequences for us or another User (including actual or possible loss caused to us or another User), and/or (iii) all or any part of referral payments due to you result from unlawful or fraudulent activity, we may notify you that you have forfeited all or any part of your referral payments.
+        
+    2.  We may also withhold all or any part of the referral payments due to you but not yet paid out if we receive notice that you have secured, encumbered, pledged, assigned, or otherwise allowed a lien to be placed on, referral payments. We undertake no duty to pay referral payments to third-party lienholders and may withhold payment of Creator Earnings until the lien has been removed.
+    3.  We shall not have any responsibility to you if we withhold or forfeit any payment due to you under the OnlyFans Referral Program where we have a right to do so under these Referral Program Terms.
+    4.  If we are withholding all or any part of the referral payments due to you and we determine that part of the referral payments withheld by us is unrelated to breaches by you of the Terms of Service or suspected unlawful or fraudulent activity, then we may arrange for you to be paid the part of the referral payments which is unrelated to breaches by you of the Terms of Service or suspected unlawful or fraudulent activity. However, you agree that if we consider that your breach(es) of the Terms of Service has or may cause us loss, we may withhold all referral payments due to you but not yet paid and we may set off such amounts against any losses suffered by us.
+
+**Last updated: December 2021**
 
 **Last updated: November 2021**
