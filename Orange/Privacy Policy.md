@@ -16,7 +16,7 @@ Les données personnelles collectées par Orange sont regroupées sous les caté
 
 |     |     |
 | --- | --- |
-| Données d’identification | Identité (nom, prénom, pseudo), identifiant administratif (carte d’identité, SIREN, passeport, plaque d’immatriculation, identifiant fiscal, Kbis…), identifiant émis par un tiers non administratif (compte Facebook, twitter…) |
+| Données d’identification | Identité (nom, prénom, pseudo), identifiant administratif (carte d’identité, SIREN, passeport, identifiant fiscal, Kbis…), identifiant émis par un tiers non administratif (compte Facebook, twitter…) |
 | Vie personnelle | Centres d’intérêts, statut marital, composition du foyer, habitudes de vie, client déclarant avoir une offre chez un opérateur concurrent |
 | Vie professionnelle | Emploi occupé, organisation du travail, |
 | Caractéristiques personnelles | Etat civil, mesure de protection juridique, client bénéficiaire de tarifs sociaux, caractéristiques physiques, photo ou avatar, procuration, signature |
@@ -28,7 +28,7 @@ Les données personnelles collectées par Orange sont regroupées sous les caté
 | Produits et services détenus ou utilisés | Offres et options détenues, équipement détenu, paramétrage, contenus achetés, applications téléchargées |
 | Profil, scores et segmentation client | Score et segmentation marketing, indicateur de satisfaction client, profil bon ou mauvais payeur et éventuel plan de recouvrement, scoring du risque de fraude |
 
-Les collectées indirectement auprès de tiers.
+**Les données collectées indirectement auprès de tiers**
 
 Certaines données traitées par Orange sont collectées de manière indirecte :
 
@@ -56,30 +56,25 @@ En se fondant sur l’exécution du contrat que vous avez souscrit, Orange met e
 | Assurer le Service Après-vente | *   Accéder aux données de contexte du client<br>*   Orienter le client vers le back-office concerné<br>*   Accompagner le client<br>*   Diagnostiquer et traiter le problème<br>*   Dépanner à distance<br>*   Traiter à distance le sinistre d’un équipement<br>*   Prendre le contrôle, à distance sur l’environnement du client |
 | Gérer les données personnelles, caractéristiques et droits sur un contrat | *   Gérer les créations et modifications des informations et données personnelles<br>*   Proposer et traiter les modifications des informations personnelles<br>*   Recueillir et utiliser les informations personnelles complémentaires requises |
 | Maintenir la qualité du temps de réponse ressenti par les clients Internet Fibre ou ADSL | *   Détecter les équipements réseau induisant une baisse de performance du réseau pour mettre les actions correctrices nécessaires |
-| Proposer un service de messagerie électronique Mail Orange | *   Créer et gérer jusqu’à la suppression envoyer et recevoir des emails et leurs pièces jointes de manière sécurisée et les stocker jusqu’à suppression de l’email par l’utilisateur<br>*   Agréger les emails provenant d’autres fournisseurs de messagerie électronique Notifier<br>*   Gérer un annuaire de contacts<br>*   Gérer un agenda et exporter les emails |
+| Proposer un service de messagerie électronique Mail Orange | *   Créer et gérer jusqu’à la suppression l'adresse de messagerie électronique<br>*   Envoyer et recevoir des emails et leurs pièces jointes de manière sécurisée et les stocker jusqu’à suppression de l’email par l’utilisateur<br>*   Agréger les emails provenant d’autres fournisseurs de messagerie électronique Notifier<br>*   Gérer un annuaire de contacts<br>*   Gérer un agenda et exporter les emails |
 | Assurer un service de messagerie vocale | *   Sauvegarder les messages vocaux notifier les clients sur l’arrivée d’un nouveau message<br>*   Supprimer les messages, soit sur demande du client soit après un délai d’expiration<br>*   Gérer les préférences pour certains clients mobiles<br>*   Retranscrire en texte les messages vocaux par SMS |
 | Gérer le matériel | *   Préparer, configurer, expédier, livrer, réparer, recycler, reconditionner, échanger, récupérer ou détruire |
 | S’authentifier à un service Orange ou à un service de tiers via le service Mobile Connect |     |
-| Proposer un service d’hébergement de pages web avec le service Pages perso | *   Création et hébergement avec possibilité de suppression des pages sur signalement dans les cas prévus par la loi ou les conditions générales |
+| Proposer un service d’hébergement de pages web avec le service Pages perso | *   Créer et héberger avec possibilité de supprimer des pages sur signalement dans les cas prévus par la loi ou les conditions générales |
 | Intervenir en physique chez le client | *   Informer le client de l’intervention<br>*   Permettre au client de communiquer avec le technicien en charge du rendez-vous<br>*   Installer<br>*   Dépanner, récupérer et désinstaller l’équipement<br>*   Permettre au client d’évaluer la prestation suite à un rendez-vous technicien<br>*   Permettre au technicien d’optimiser ses parcours et plannings d’intervention |
-| Gérer les impayés | *   Recouvrer à l’amiable<br>*   Inscrire les clients en contentieux<br>*   Recouvrer les impayés des clients en contentieux Alimenter la base du GIE Préventel<br>*   Interroger les fichiers d’impayés lors de la souscription d’un nouvel abonnement mobile et collecter un dépôt de garantie le cas échéant |
+| Gérer les impayés | *   Recouvrer à l’amiable<br>*   Inscrire les clients en contentieux<br>*   Recouvrer les impayés des clients en contentieux<br>*   Alimenter la base du GIE Préventel<br>*   Interroger les fichiers d’impayés lors de la souscription d’un nouvel abonnement mobile et collecter un dépôt de garantie le cas échéant |
 
 #### 2.1.2 Exécution du contrat et intérêt légitime
 
 | Finalité du traitement | Description | Base(s) légale(s) applicable(s) |
 | --- | --- | --- |
-| Déployer et opérer les réseaux | Construire, exploiter et optimiser les réseaux | Exécution du contrat ou intérêt légitime |
-| Assurer le traitement des dossiers de dommage aux réseaux jusqu’au recouvrement |
-| Intervenir sur les réseaux, en préventif ou curatif |
-| Paramétrer les réseaux |
-| Acheminer les communications | Exécution du contrat |
-| Traiter les résiliations | Gérer la résiliation à l’initiative du client ou de son représentant | Exécution du contrat |
-| Gérer la résiliation à l’initiative d’Orange | Intérêt légitime |
-| Gérer les courriers entrants | Réception, numérisation et archivage des courriers / documents | Exécution du contrat ou intérêt légitime |
-| Déployer et opérer les offres et services | Fournir au client des rapports d’analyse de ses usages ou de ses offres | Exécution du contrat et intérêt légitime |
-| Opérer des services |
-| Permettre au client d’administrer la configuration de ses produits et services |
-| Etudier le déploiement des réseaux | Etudier et préparer le déploiement du réseau | Exécution du contrat ou intérêt légitime |
+| Déployer et opérer les réseaux | *   Construire, exploiter et optimiser les réseaux<br>*   Assurer le traitement des dossiers de dommage aux réseaux jusqu’au recouvrement<br>*   Intervenir sur les réseaux, en préventif ou curatif<br>*   Paramétrer les réseaux | Exécution du contrat ou intérêt légitime |
+| *   Acheminer les communications | Exécution du contrat |
+| Traiter les résiliations | *   Gérer la résiliation à l’initiative du client ou de son représentant | Exécution du contrat |
+| *   Gérer la résiliation à l’initiative d’Orange | Intérêt légitime |
+| Gérer les courriers entrants | *   Réception, numérisation et archivage des courriers / documents | Exécution du contrat ou intérêt légitime |
+| Déployer et opérer les offres et services | *   Fournir au client des rapports d’analyse de ses usages ou de ses offres<br>*   Opérer des services<br>*   Permettre au client d’administrer la configuration de ses produits et services | Exécution du contrat et intérêt légitime |
+| Etudier le déploiement des réseaux | *   Etudier et préparer le déploiement du réseau | Exécution du contrat ou intérêt légitime |
 
 #### 2.1.3. Exécution du contrat et consentement
 
@@ -125,7 +120,7 @@ En se fondant sur l’exécution du contrat que vous avez souscrit, Orange met e
 
 #### 2.2.1. Intérêt légitime (seule finalité)
 
-Orange réalise également des traitements de données pour d’autres finalités que la stricte exécution de vos contrats. En se fondant sur son intérêt légitime d’entreprise dans le cadre du développement de ses activités et de sa relation client., Orange met en œuvre des traitements de vos données personnelles.
+Orange réalise également des traitements de données pour d’autres finalités que la stricte exécution de vos contrats. En se fondant sur son intérêt légitime d’entreprise dans le cadre du développement de ses activités et de sa relation client, Orange met en œuvre des traitements de vos données personnelles.
 
 | Finalité du traitement | Description | Base(s) légale(s) applicable(s) |
 | --- | --- | --- |
@@ -133,7 +128,7 @@ Orange réalise également des traitements de données pour d’autres finalité
 | Superviser le dispositif de facturation |     |
 | Eviter la fraude et préserver le Chiffre d’Affaires | *   Contrôler les processus sur nos canaux de vente<br>*   Interroger, et gérer les inscriptions et désinscriptions inter-opérateur nationaux – GIE Préventel – et dans la base des impayés d’Orange<br>*   Estimer et prévenir les risques d’impayé client<br>*   Détecter et superviser des situations suspectes pouvant impacter le chiffre d’affaires et/ou relever des cas de fraudes afin d’en limiter les risques et d’assurer les actions de remédiations nécessaires<br>*   Constituer le dossier de preuves dans le cade d’investigations en cas de fraude |
 | Sonder les clients ou les utilisateurs | *   Mesurer la qualité de l’acte suite à la sollicitation des clients<br>*   Enrichir la connaissance clients au travers des sondages clients |
-| Améliorer notre offre et relation client | *   Mesurer, catégoriser et comprendre les sollicitations clients et les réponses sondages afin de dimensionner et améliorer la relation client et afin d’améliorer nos produits et services<br>*   Mesurer, comprendre et améliorer la performance des parcours clients Améliorer la satisfaction client<br>*   Analyser nos ventes afin d’adapter nos offres, produits et services<br>*   Enrichir la connaissance clients au travers d’études<br>*   Mettre à disposition, en interne, des outils et données d’analyse afin d’améliorer notre relation client |
+| Améliorer notre offre et relation client | *   Mesurer, catégoriser et comprendre les sollicitations clients et les réponses sondages afin de dimensionner et améliorer la relation client et afin d’améliorer nos produits et services<br>*   Mesurer, comprendre et améliorer la performance des parcours clients<br>*   Améliorer la satisfaction client<br>*   Analyser nos ventes afin d’adapter nos offres, produits et services<br>*   Enrichir la connaissance clients au travers d’études<br>*   Mettre à disposition, en interne, des outils et données d’analyse afin d’améliorer notre relation client |
 | Mesurer l’audience en boutique | *   Fournir des rapports de fréquentation des points de vente physiques<br>*   Réaliser des mesures d’efficacité des actions publicitaire quant au trafic dans les boutiques |
 | Identifier un client via son compte grâce au service Orange ID |     |
 
@@ -146,7 +141,7 @@ Voir 2.1.2
 | Finalité du traitement | Description | Base(s) légale(s) applicable(s) |
 | --- | --- | --- |
 | Commercialiser et optimiser des objets connectés et les offres associées | Optimiser les objets connectés et les offres | Intérêt légitime |
-| Envoi de notifications, proposer un ensemble d’objets connectés interagissant avec une base domotique ou plateforme de service dédiée | Consentement |
+| Envoyer des notifications, proposer un ensemble d’objets connectés interagissant avec une base domotique ou plateforme de service dédiée | Consentement |
 | Organiser des opérations de marketing direct | Assurer l’animation marketing | Intérêt légitime (clients), consentement (prospects et résiliés) |
 | Mener des campagnes relationnelles |
 | Préparer et envoyer les communications marketing écrites |
@@ -170,7 +165,7 @@ Orange recueille votre consentement afin d’effectuer certains traitements sur 
 | Améliorer la qualité de service sur nos réseaux par collecte d’informations du terminal | *   Améliorer la qualité de service sur nos réseaux<br>*   Améliorer la satisfaction client dans les domaines de la qualité des réseaux, des offres et de la relation client<br>*   Optimiser la qualité de service sur nos réseaux | Consentement |
 | Sonder les prospects |     |
 | Identifier un client via son compte grâce au service Orange ID |     |
-| Faire des recommandations personnalisées sur la TV d’Orange – le Guide TV | Proposer aux clients de la TV d’Orange des contenus et offres personnalisés en fonction de leur consommation des services de la TV d’Orange |
+| Faire des recommandations personnalisées sur la TV d’Orange – le Guide TV | *   Proposer aux clients de la TV d’Orange des contenus et offres personnalisés en fonction de leur consommation des services de la TV d’Orange |
 | Cibler la publicité sur la TV d’Orange | *   Recueillir le consentement des clients pour recevoir de la publicité ciblée des partenaires d’Orange<br>*   Analyser les usages pour calculer, optimiser et mettre à disposition des critères de ciblage<br>*   Déterminer le profil du consommateur TV |
 
 #### 2.3.2. Consentement et exécution du contrat
@@ -200,7 +195,7 @@ Voir 2.2.4
 
 Vos Données Personnelles sont conservées sur les périodes suivantes :
 
-*   Données utilisées dans le cadre de la gestion de la relation commerciale et à des fins de prospection commerciale : les données d’un client d’une offre résidentielle sont conservées pendant 3 ans à compter de la fin de la relation commerciale. Les données d’un client d’une offre entreprise sont conservées pendant 5 ans à compter de la fin de la relation commerciale. Les données d’un prospect sont conservées pendant 3 à compter de leur collecte ou du dernier contact émanant du prospect.
+*   Données utilisées dans le cadre de la gestion de la relation commerciale et à des fins de prospection commerciale : les données d’un client d’une offre résidentielle sont conservées pendant 3 ans à compter de la fin de la relation commerciale. Les données d’un client d’une offre entreprise sont conservées pendant 5 ans à compter de la fin de la relation commerciale. Les données d’un prospect sont conservées pendant 3 ans à compter de leur collecte ou du dernier contact émanant du prospect.
 *   Données de connexion, d’usages des services et d’interaction : ces données sont conservées deux ans à compter de leur collecte, sauf pour les données de trafic au sens de l’article L34-1 du Code des Postes et communication électronique qui sont conservées un an à compter de leur collecte.
 *   Données d’interactions avec les services clients Orange: les conversations écrites (e-chat) sont conservées pendant 13 mois. Les conversations orales sont enregistrées de manière aléatoire (échantillonnage) et sont conservées 6 mois.
 *   Les données de contenus des services vendus par Orange sont conservées le temps de délivrer le service (acheminement, remise du contenu et accès au contenu).
@@ -242,7 +237,7 @@ Les personnes concernées par les traitements réalisés dans le cadre de cette 
 5\. Quels sont les destinataires de vos données ?
 -------------------------------------------------
 
-Les données traitées sont destinées aux **services internes d’Orange et à ses filiales** : seuls peuvent avoir accès à vos données les salariés habilités en ayant besoins dans le cadre de leurs missions.
+Les données traitées sont destinées aux **services internes d’Orange et à ses filiales** : seuls peuvent avoir accès à vos données les salariés habilités en ayant besoin dans le cadre de leurs missions.
 
 Les données traitées peuvent être, selon les offres, destinées aux **sous-traitants d’Orange** : dans ce cas Orange ne communique vos données qu’aux sous-traitants avec lesquels Orange a conclu un contrat par lequel ils assurent leur engagement et leurs garanties sur leur capacité à répondre aux exigences de sécurité et de confidentialité, et à respecter l’ensemble des obligations légales et réglementaires en matière de protection des données personnelles.
 
