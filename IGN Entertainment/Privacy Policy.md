@@ -13,7 +13,7 @@ ZIFF DAVIS, LLC PRIVACY POLICY
 
 **Effective May 5, 2022** – [Version Française](http://www.ziffdavis.com/privacy-policy-f/)
 
-If you have any questions related to Data Subject Access Rights under GDPR or CCPA, you can contact us through our [DSAR Portal](https://dsar.ziffdavis.com/).​
+If you have any questions related to Data Subject Access Rights under GDPR or CCPA, you can contact us through our [DSAR Portal](https://dsar.ziffdavis.com/).
 
 1.  [Privacy Policy Overview](#overview)
 2.  [What Categories of Information We May Process](#categories)
