@@ -1504,7 +1504,7 @@ En cas de refus par le Client, la proposition de don disparaît et la procédure
 
 Pour accepter la proposition de don, le Client doit choisir le montant de son don, qui est par défaut fixé à un minimum de 1 euro, et le Projet qui en bénéficiera. Le Client ne peut faire qu’un seul don par achat. Le Client doit ensuite valider son don.
 
-Une fois le don validé, son montant s’ajoute au montant de la commande initiale du Client et le paiement global de la commande et du don s'opère conformément aux conditions prévues par le Site.
+Une fois le don validé, son montant s’ajoute au montant de la commande initiale du Client et le paiement global de la commande et du don s’opère conformément aux conditions prévues par le Site.
 
 En cas d’abandon de la procédure de paiement avant la validation définitive du paiement, le don est considéré comme nul et non avenu.
 
@@ -1768,7 +1768,7 @@ Dans l’hypothèse où le prix pratiqué au moment de l’achat d’un Produit 
 Les Produits Téléphonie en précommande sont exclus de la Garantie du prix Cdiscount le plus bas.  
 La Garantie du prix Cdiscount le plus bas est soumise aux conditions cumulatives suivantes :  
   
-\- Le Produit Jeu Vidéo précommandé acheté auprès de CDISCOUNT et le Produit Jeu Vidéo en précommande dont le prix est présenté sur le Site est inférieur :  
+\- Le Produit Jeu Vidéo précommandé acheté auprés de CDISCOUNT et le Produit Jeu Vidéo en précommande dont le prix est présenté sur le Site est inférieur :  
 \- DOIVENT ETRE tous les deux vendus par CDISCOUNT (à l’exclusion des produits vendus sur la Marketplace de Cdiscount) ;  
 \- DOIVENT ETRE du magasin Jeux Vidéos uniquement ;  
 \- DOIVENT ETRE tous les deux identiques (même marque, même modèle, même couleur, même référence fabricant, même durée de garantie constructeur, etc.) ;  
