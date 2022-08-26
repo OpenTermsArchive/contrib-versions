@@ -41,11 +41,11 @@ REMEMBER: IF YOU MAKE USE OF THE SITE, REGISTER WITH THE SITE, REQUEST INFORMATI
 
 We may collect information about you through a variety of methods, such as your participation in games, quizzes, contests, chat rooms, forums or the like or other documents that you submit to us, transactions in which you may engage with us or our affiliated companies (Affiliates), or through visits that you may make to the Site, including via our mobile applications. This policy applies to all personally identifiable information that we collect and maintain about our users in connection with providing services, such as:
 
-*   Your contact information (such as name, Twitter handle, postal and email address, or phone number);
-*   Username and password for the account you may establish on our sites;
-*   Demographic information (such as age, date of birth and gender);
-*   Location information, such as the real-time geographic location of the device on which you install our mobile applications; and
-*   Other details that you may submit to us or that may be included in the information provided to us by third parties.
+* Your contact information (such as name, Twitter handle, postal and email address, or phone number);
+* Username and password for the account you may establish on our sites;
+* Demographic information (such as age, date of birth and gender);
+* Location information, such as the real-time geographic location of the device on which you install our mobile applications; and
+* Other details that you may submit to us or that may be included in the information provided to us by third parties.
 
 You may view or change your information at any time; if you'd like to do so, please [CONTACT US](http://www.shockwave.com/cdn-cgi/l/email-protection#removed). Please include documents that prove your identity and a clear and precise description of the information to which you request access.
 
@@ -59,12 +59,12 @@ Through some social networking sites' privacy settings, you can control what dat
 
 We also may use third-party website analytics tools (such as Omniture or Google), that collect information about visitor traffic on our sites and mobile applications. The information we may collect by automated means includes:
 
-*   Information about the devices our visitors use to access the Internet (such as the IP address and the device, browser, and operating system type);
-*   URLs that refer visitors to the Site;
-*   Dates and times of visits to the Site;
-*   Information on actions taken on the Site (such as page views and site navigation patterns)
-*   A general geographic location (such as country and city) from which a visitor accesses our Site; and
-*   Search terms that visitors use to reach the Site.
+* Information about the devices our visitors use to access the Internet (such as the IP address and the device, browser, and operating system type);
+* URLs that refer visitors to the Site;
+* Dates and times of visits to the Site;
+* Information on actions taken on the Site (such as page views and site navigation patterns)
+* A general geographic location (such as country and city) from which a visitor accesses our Site; and
+* Search terms that visitors use to reach the Site.
 
 **When you use our mobile applications on your mobile device, you may choose not to share your geo-location details with us by adjusting the device's location services settings. For instructions on changing the relevant settings, please contact your service provider or device manufacturer.**
 
