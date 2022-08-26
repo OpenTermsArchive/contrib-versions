@@ -349,6 +349,10 @@ Please print a copy of this privacy policy for you records and PLEASE check this
 
 Got a few minutes? _Let’s get going._
 
+Email Address\*
+
+Something went wrong
+
 LOADING
 
 Next
@@ -376,6 +380,8 @@ Number of Employees
 Select Number of EmployeesONLY ME2-4 EMPLOYEES5-9 EMPLOYEES10-20 EMPLOYEES21-49 EMPLOYEES50+ EMPLOYEES
 
                      
+
+Something went wrong
 
 LOADING
 
@@ -438,6 +444,9 @@ Schedule Demo
 ![](/media/demo-logo-getapp-2019.png)
 
 ![](/media/demo-logo-getapp-2019.png)
+
+Watch how Thryv helps businesses like yours  
+_get the job, manage the job, and get credit._
 
 _Ready to chat?_
 
