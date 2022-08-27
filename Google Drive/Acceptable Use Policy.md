@@ -1,15 +1,15 @@
 Abuse programme policies and enforcement
 ========================================
 
-The programme policies below apply to Drive, Docs, Sheets, Slides, Forms and new Sites. The policies play an important role in maintaining a positive experience for everyone using Google products.   
-   
-We need to curb abuses that threaten our ability to provide these services, and we ask that everyone abide by the policies below to help us achieve this goal. After we are notified of a potential policy violation, we may review the content and take action, including restricting access to the content, removing the content, and limiting or terminating a user’s access to Google products.  
-   
-When applying these policies, we may make exceptions based on artistic, educational, documentary or scientific considerations, or where there are other substantial benefits to the public from not taking action on the content.
+The programme policies below apply to Drive, Docs, Sheets, Slides, Forms and new Sites. These policies play an important role to maintain a positive experience for everyone that uses Google products.
 
-We may take action on accounts that go above storage quota limits. For example, we may reject new uploads, compress existing content or delete content if you exceed your storage quota or fail to obtain sufficient additional storage. [Read more about storage quotas here](https://support.google.com/drive/answer/9312312#changes).  
-   
-Make sure that you check back from time to time, as these policies may change. Please also refer to [Google's Terms of Service](https://policies.google.com/terms?hl=en-US) for more information.
+We need to curb abuses that threaten our ability to provide these services and we ask that everyone abides by the policies below to help us achieve this goal. We may review content for violations of these policies and take action. This review includes access restriction of content, removal of content, and limitation or termination of a user's access to Google products.
+
+When these policies apply, Google may make exceptions based on artistic, educational, documentary or scientific considerations, or where there are other substantial benefits to the public to not take action on the content.
+
+Google may take action on accounts that go above storage quota limits. For example, we may reject new uploads, compress content that exists, or delete content if you exceed your storage quota or fail to obtain sufficient additional storage. [Read more about storage quotas here](https://support.google.com/drive/answer/9312312#changes).
+
+Make sure that you check back from time to time, as these policies may change. You can refer to [Google's Terms of Service](https://policies.google.com/terms) for more information.
 
 Report abuse
 ------------
