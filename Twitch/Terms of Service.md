@@ -278,8 +278,8 @@ Soundtrack was borne out of Twitch’s desire to offer creators a wide variety o
 
 The licenses Twitch secured allow Twitch to make these materials available to you for your use in live streams on your Twitch channel. Music and other materials made available through Soundtrack have not been licensed for your use in pre-recorded content, in content that can be streamed on-demand (such as VODs and Clips), or outside the Twitch Services. What this means is that you may not:
 
-*   Create on-demand content containing materials from Soundtrack – we have designed Soundtrack with this restriction in mind, and proper setup will allow you to create and use music-free on-demand videos of live streams that include Soundtrack music; or
-*   Live stream content that includes music or other materials from Soundtrack outside the Twitch Services.
+* Create on-demand content containing materials from Soundtrack – we have designed Soundtrack with this restriction in mind, and proper setup will allow you to create and use music-free on-demand videos of live streams that include Soundtrack music; or
+* Live stream content that includes music or other materials from Soundtrack outside the Twitch Services.
 
 Doing any of the above may subject you to a notice of alleged infringement from rights holders and their agents.
 
