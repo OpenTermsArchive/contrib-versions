@@ -6,13 +6,13 @@ Parler Privacy Policy
 
 
 
-Effective Date: April 14, 2022
+Effective Date: July 28, 2022
 
 Parler, Inc. and its affiliates (“Company,” “we,” “our,” and/or “us”) value the privacy of
 
 individuals who use our social news applications, the websites where this Privacy Policy is posted
 
-( “Websites”) , and related services (collectively, our “Services”). This privacy policy (the “Privacy
+(“Websites”), and related services (collectively, our “Services”). This privacy policy (the “Privacy
 
 Policy”) explains how we collect, use, and share information from our users (“Users,” “you,”
 
@@ -114,7 +114,7 @@ purposes of legal compliance.
 
 Content you Share. We collect any information you choose to provide on our Services, such as
 
-posts (“Parleys”), follows, photos, videos, gifs, comments, votes, and echoes.
+posts (“Parleys”), follows, photos, videos, gifs, comments, votes, echoes, and interests.
 
 
 
@@ -522,7 +522,7 @@ security measures to protect your information.
 
 
 
-We do not knowingly collect, maintain, or use Personal Information from children under 13 years
+We do not knowingly collect, maintain, or use Personal Information from children under 16 years
 
 of age, and no part of our Services is directed to children. If you learn that a child has provided us
 
@@ -552,9 +552,11 @@ our Services, you consent to such transfer, storage, and processing.
 
 You can update your account and profile information through your account settings. You can delete
 
-your account by selecting that option via our online Parler Privacy Request portal, which is
+your account either by navigating to Settings \> Legal \> Delete Account while logged into your
 
-accessible by clicking here.
+account on our Website or in one of our Apps, or by selecting that option via our online Parler
+
+Privacy Request portal, which is accessible by clicking here.
 
 
 
@@ -884,15 +886,15 @@ Only if using device to capture,
 
 audio, photo or video with the
 
-Services as part of
+Services as part of user
 
-usergenerated content.
+generated content.
 
 
 
-9\. Professional or
+9\. Professional or employment
 
-employmentrelated information.
+related information.
 
 Current or past job history or
 
@@ -970,7 +972,15 @@ and aptitudes.
 
 
 
-No
+No inferences drawn, but if a
+
+user chooses to specify interests
+
+explicitly, we use these
+
+expressed preferences to
+
+populate that user’s feed(s).
 
 
 
@@ -1208,9 +1218,7 @@ notice and an opportunity to opt out of further sales. We do not sell your Perso
 
 third parties. If this position changes and you are older than 16, you will be given explicit notice
 
-and an opportunity to opt out of further sales, with details of how to exercise that “right to opt out”
-
-listed in this policy.
+and an opportunity to opt out of further sales, with details of how to exercise that “right to opt out.”
 
 
 
@@ -1226,9 +1234,9 @@ sales at any time.
 
 
 
-We will only use Personal Information provided in an opt-out request to review and comply with
+We use Personal Information provided in an opt-out request only to review and comply with the
 
-the request.
+request.
 
 
 
@@ -1288,19 +1296,13 @@ covered by the “Shine The Light” requirements and only information on covere
 
 included in our response. To make such a request, please do so via our online Parler Privacy
 
-Request portal, which is accessible by clicking here, or write to us at:
+Request portal, which is accessible by clicking here, or write to us at: Parler Privacy Request,
+
+P.O. Box 60989, Nashville, TN 37206
 
 13
 
 
-
-Parler Privacy Request
-
-209 S Stephanie Street
-
-B212
-
-Henderson, NV 89012
 
 12. Your Additional Rights in the European Economic Area
 
@@ -1384,10 +1386,6 @@ If you are in the EEA, you may lodge a complaint with a supervisory authority th
 
 in your country or region. Please see the following website for contact information of the data
 
-14
-
-
-
 protection authorities for member countries in the EEA:
 
 https://ec.europa.eu/justice/article29/structure/data-protection-authorities/index_en.htm.
@@ -1397,6 +1395,10 @@ https://ec.europa.eu/justice/article29/structure/data-protection-authorities/ind
 Parler, Inc. is the data controller with respect to processing of your Personal Information in
 
 connection with the Services.
+
+14
+
+
 
 13. Contact Information
 
@@ -1416,4 +1418,4 @@ Request portal, which is accessible by clicking here.
 
 
 
-Last Updated: April 14, 2022
+Last Updated: July 28, 2022
