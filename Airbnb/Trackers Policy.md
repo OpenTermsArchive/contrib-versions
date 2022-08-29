@@ -74,3 +74,38 @@ Flash cookies operate differently than browser cookies, and cookie management to
 Your mobile device may allow you to control cookies through its settings function. Refer to your device manufacturer’s instructions for more information.
 
 If you choose to decline cookies, some parts of the Airbnb Platform may not work as intended or may not work at all.
+
+Related articles
+
+
+--------------------
+
+*   [
+    
+    Airbnb basics
+    
+    Enterprise Customers and Airbnb for Work
+    
+    Please review this information which supplements our Privacy Policy.
+    
+    
+    
+    ](https://www.airbnb.co.uk/help/article/2865/enterprise-customers-and-airbnb-for-work)
+*   [
+    
+    Airbnb basics
+    
+    Airbnb Community Outreach Programme Terms – Ireland
+    
+    Please review our Airbnb Community Outreach Programme Terms – Ireland.
+    
+    
+    
+    ](https://www.airbnb.co.uk/help/article/1497/airbnb-community-outreach-programme-terms-ireland)
+*   [
+    
+    Retired article 173: What are references on Airbnb?
+    
+    
+    
+    ](https://www.airbnb.co.uk/help/article/173/retired-article-173-what-are-references-on-airbnb)
