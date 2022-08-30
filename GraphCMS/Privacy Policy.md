@@ -12,7 +12,7 @@ The Controller within the meaning of Art. 4 No. 7 of the GDPR is:
 
 GraphCMS GmbH Dircksenstraße 47, 10178 Berlin, Germany
 
-Phone: +49 641 580 988 14 Email: in[\[email protected\]](https://graphcms.com/cdn-cgi/l/email-protection)
+Phone: +49 641 580 988 14 Email: [\[email protected\]](https://graphcms.com/cdn-cgi/l/email-protection)
 
 2\. Name and address of the data protection officer
 ---------------------------------------------------
