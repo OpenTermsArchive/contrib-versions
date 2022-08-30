@@ -1768,7 +1768,7 @@ Dans l’hypothèse où le prix pratiqué au moment de l’achat d’un Produit 
 Les Produits Téléphonie en précommande sont exclus de la Garantie du prix Cdiscount le plus bas.  
 La Garantie du prix Cdiscount le plus bas est soumise aux conditions cumulatives suivantes :  
   
-\- Le Produit Jeu Vidéo précommandé acheté auprés de CDISCOUNT et le Produit Jeu Vidéo en précommande dont le prix est présenté sur le Site est inférieur :  
+\- Le Produit Jeu Vidéo précommandé acheté auprès de CDISCOUNT et le Produit Jeu Vidéo en précommande dont le prix est présenté sur le Site est inférieur :  
 \- DOIVENT ETRE tous les deux vendus par CDISCOUNT (à l’exclusion des produits vendus sur la Marketplace de Cdiscount) ;  
 \- DOIVENT ETRE du magasin Jeux Vidéos uniquement ;  
 \- DOIVENT ETRE tous les deux identiques (même marque, même modèle, même couleur, même référence fabricant, même durée de garantie constructeur, etc.) ;  
