@@ -1,5 +1,3 @@
-[![](http://vdx.tv/wp-content/uploads/2020/01/print-icon.png)](#print)
-
 Last updated: January 22, 2021
 
 #### **INTRODUCTION**
