@@ -167,3 +167,7 @@ US Users : Each party specifically waives any right to trial by jury in any cour
 [_Legal Notice_](https://help.yuka.io/l/en/article/nlsu1ptphw)
 
 * * *
+
+![Benoit](https://files.helpdocs.io/n0njida9x8/other/1574088362284/03-mg-1925-1.jpg)
+
+Updated 2022-04-27T07:59:53Z by Benoit
