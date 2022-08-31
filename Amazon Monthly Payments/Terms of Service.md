@@ -1,25 +1,26 @@
-About Monthly Payments
-======================
+Prime Student Terms & Conditions
+================================
 
-*   This offer to enroll in an installment plan applies only to qualifying products where the "Monthly Payments" option is available on the product detail page or during checkout.
-*   This offer may not be available to every customer and may not be available to you for all qualifying products. From time to time, and at Amazon’s discretion, Monthly Payment offers may be available to you. Your eligibility for this offer is based on information relating to your Amazon.com account, such as your purchase history on Amazon.com, or the price of the qualifying Product or Device. We will not use a credit report to determine your eligibility. You acknowledge that your Monthly Payments purchase is for personal, family, or household purposes and not business purposes.
-*   This offer applies to a limited number of qualifying products, and Amazon reserves the right to limit the number of Monthly Payments plans that you may have open at any one time.
-*   This offer is not transferable and may not be combined with other offers.
-*   We reserve the right to cancel this offer at any time.
-*   You will be charged the full price of the qualifying product(s) you selected in one initial (down) payment and the corresponding number of subsequent monthly payments so that the total number of payments equals the number of payments in your Monthly Payments offer (provided that if the full price is not evenly divisible, your final payment amount may be smaller). Any applicable tax, shipping, and add-on charges will be due and assessed in full as part of your initial (down) payment when your item(s) ships. No interest or finance charges apply to this offer. Any interest, finance charges or fees assessed by the issuer of the payment method to which payments are charged may still apply. Taxes may apply in certain jurisdictions. An example of a payment schedule with five total payments is below. To see your payment schedule, please visit your [Manage Monthly Payments](https://www.amazon.com/manage-monthly-payments) page after your initial (down) payment is charged.
+Last updated: July 18, 2016
 
-| Payment | Due Date |
-| --- | --- |
-| Initial (Down) Payment | Shipment Date |
-| First Installment Payment | 30 Days from the Shipment Date |
-| Second Installment Payment | 60 Days from the Shipment Date |
-| Third Installment Payment | 90 Days from the Shipment Date |
-| Fourth Installment Payment | 120 Days from the Shipment Date |
+Welcome to the terms and conditions ("**Terms**") for Prime Student, which govern your Prime Student membership. Please note that your use of the Amazon.com Web site and the Prime Student membership are also governed by our [Conditions of Use](https://www.amazon.com/gp/help/customer/display.html?nodeId=508088), [Privacy Notice](https://www.amazon.com/gp/help/customer/display.html?nodeId=468496), [Amazon Prime Terms & Conditions](https://www.amazon.com/gp/help/customer/display.html?nodeId=13819201), as well as all other applicable terms, conditions, limitations and requirements on the Amazon.com Web site.
 
-*   You authorize us to charge each payment to your selected payment method. If the selected method is unavailable (for example, a card has expired and cannot be charged successfully or funds are not available in that account), we will use another payment method we have on record for you. You agree to maintain in your Amazon.com account at least one valid credit card that expires no earlier than 20 days after your last payment due date.
-*   You can choose to prepay either your next scheduled payment or the full remaining balance of your purchase at any time.
-*   If we are not able to charge any payment to a payment method on file in your Amazon.com account we reserve the right to pursue any remedy that is available to us, including the right to suspend or terminate your Amazon.com account and, for Amazon devices purchased using Monthly Payments, the right to deregister your Amazon device, which will block your ability to access Amazon content and services from your device. You agree that we and our affiliates have no liability related to the exercise of these remedies.
-*   This offer and your purchase, including any dispute or claim relating thereto, are subject to the terms in the [Amazon.com Conditions of Use](https://www.amazon.com/conditionsofuse), including the dispute resolution, governing law, disclaimer of warranties, and limitation of liability terms therein. Any return of a product purchased through this offer, and the amount of any resulting refund, will be subject to our [standard returns policy](https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=GKM69DUUYKQWKWX7). The remaining balance of your installment plan will be deducted from any refund.
-*   With respect to Amazon devices, if you receive a replacement device from us under our limited warranty service, you are still responsible to pay the remaining balance owed on your purchase.
-*   Void where prohibited.
-*   **Monthly Payments plans with more than four installment payments are subject to the terms and conditions as set forth in the Monthly Payments Agreement. If you entered into a Monthly Payments Agreement your installment plan is governed by the terms and conditions in that agreement.**
+Membership Benefits
+-------------------
+
+If you sign up for a Prime Student membership, you will receive certain Amazon Prime benefits at no cost for an initial period as indicated in the Prime Student program pages. There is no minimum purchase requirement. Unless you cancel, when the initial period expires you will automatically be entitled to receive full Amazon Prime benefits (except that you may not invite your household members to share your Prime membership) for the reduced rate specified in the [Prime Student](https://www.amazon.com/gp/help/customer/display.html?nodeId=201133670) section of our Help pages for a total benefit period (inclusive of your six month trial period) of up to four years. Benefits are subject to restrictions, such as geographic limitations, as stated on the Prime section of our Help pages. Unless you cancel, after you graduate or at the end of the fourth year of your Prime Student membership, whichever comes first, your subscription will automatically renew on its anniversary date into a full paid subscription for Amazon Prime at then-current rates. Prime Student members may also receive other benefits, such as discounts and promotions, which we will communicate to you via e-mail or make available on the Prime Student membership page at [www.amazon.com/student](https://www.amazon.com/Amazon-Student/b/ref=amb_link_409138702_5?ie=UTF8&node=668781011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=center-3&pf_rd_r=1Z6BXY15AG1ZCX9280VR&pf_rd_t=1401&pf_rd_p=2016704022&pf_rd_i=1000522721). From time to time, we may choose in our sole discretion to add or remove Prime Student membership benefits.
+
+Conditions
+----------
+
+To sign up for and use Prime Student, you must (1) have an Amazon.com account, (2) be a college student actively enrolled in at least one course at a college geographically located in one of the 50 United States, the District of Columbia, or Puerto Rico, (3) be able to provide proof of enrollment upon request and (4) have a valid e-mail address that contains the domain suffix .edu. We may accept or refuse membership in our sole discretion. We may ask you to furnish documentation supporting your eligibility. If you do not provide documentation indicating that you meet the eligibility requirements above, you may be required to reimburse us for benefits you received as a result of your Prime Student membership. The Prime Student membership is for personal use only and may not be used to purchase products or services for the purpose of resale. You may not transfer or assign your Prime Student membership or the benefits associated with a Prime Student membership. You may not use your student e-mail address for more than one Prime Student membership. You may not enroll in Prime Student more than once.
+
+Agreement Changes
+-----------------
+
+We may in our discretion change these Terms or any aspect of Prime Student membership, without notice to you. If any change is found invalid, void, or for any reason unenforceable, that change is severable and does not affect the validity and enforceability of any remaining changes or conditions. YOUR CONTINUED MEMBERSHIP AFTER WE CHANGE THESE TERMS CONSTITUTES YOUR ACCEPTANCE OF THE CHANGES. IF YOU DO NOT AGREE TO ANY CHANGES, YOU MUST CANCEL YOUR MEMBERSHIP.
+
+Termination by Us
+-----------------
+
+We may terminate your Prime Student membership at our discretion without notice. Failure to insist upon or enforce your strict compliance with these Terms will not constitute a waiver of any of our rights.
