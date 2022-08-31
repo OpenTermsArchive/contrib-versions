@@ -1,7 +1,7 @@
 Developer Programme Policy
 ==========================
 
-_(effective 11 May 2022, unless otherwise stated)_
+_(effective 31 August 2022, unless otherwise stated)_
 
 * * *
 
@@ -18,11 +18,24 @@ People from all over the world use Google Play to access apps and games every da
 
 ### Child endangerment
 
-Apps that include content that sexualises minors are subject to immediate removal from the Store, including but not limited to, apps that promote paedophilia or inappropriate interaction targeted at a minor (e.g. groping or caressing). 
+Apps that do not prohibit users from creating, uploading or distributing content that facilitates the exploitation or abuse of children will be subject to immediate removal from Google Play. This includes all child sexual abuse material. To report content on a Google product that may exploit a child, click **[Report abuse](https://support.google.com/googleplay/contact/rap_family)**. If you find content elsewhere on the Internet, please contact [the appropriate agency in your country](https://support.google.com/websearch/answer/148666) directly. 
 
-In addition, apps that appeal to children but contain adult themes are not allowed, including but not limited to, apps with excessive violence, blood and gore; apps that depict or encourage harmful and dangerous activities. We also don’t allow apps that promote negative body or self image including apps that depict for entertainment purposes plastic surgery, weight loss and other cosmetic adjustments to a person's physical appearance.
+We prohibit the use of apps to endanger children. This includes, but is not limited to the use of apps to promote predatory behaviour towards children, such as:
 
-If we become aware of content with child sexual abuse imagery, we will report it to the appropriate authorities and delete the Google Accounts of those involved with the distribution.
+*   Inappropriate interaction targeted at a child (for example, groping or caressing).
+*   Child grooming (for example, befriending a child online to facilitate, either online or offline, sexual contact and/or exchanging sexual imagery with that child).
+*   Sexualisation of a minor (for example, imagery that depicts, encourages or promotes the sexual abuse of children or the portrayal of children in a manner that could result in the sexual exploitation of children).
+*   Sextortion (for example, threatening or blackmailing a child by using real or alleged access to a child’s intimate images).
+*   Trafficking of a child (for example, advertising or solicitation of a child for commercial sexual exploitation).
+
+We will take appropriate action, which may include reporting to the National Centre for Missing and Exploited Children, if we become aware of content with child sexual abuse material. If you believe that a child is in danger of or has been subject to abuse, exploitation or trafficking, please contact your local law enforcement and contact a child safety organisation listed [here](https://support.google.com/websearch/answer/148666).
+
+In addition, apps that appeal to children but contain adult themes are not allowed, including, but not limited to:
+
+*   Apps with excessive violence, blood and gore.
+*   Apps that depict or encourage harmful and dangerous activities.
+
+We also don’t allow apps that promote negative body or self-image, including apps that depict for entertainment purposes plastic surgery, weight loss and other cosmetic adjustments to a person's physical appearance.
 
 * * *
 
@@ -83,14 +96,13 @@ We don’t allow apps with content related to planning, preparing or glorifying 
 
 ### Sensitive events
 
-We don't allow apps that lack reasonable sensitivity towards or capitalise on a natural disaster, atrocity, health crisis, conflict, death or other tragic event. Apps with content related to a sensitive event are generally allowed if that content has EDSA (Educational, Documentary, Scientific or Artistic) value or intends to alert users to or raise awareness for the sensitive event.   
- 
+We don't allow apps that capitalise on or are insensitive towards a sensitive event with significant social, cultural or political impact, such as civil emergencies, natural disasters, public health emergencies, conflicts, deaths or other tragic events. Apps with content related to a sensitive event are generally allowed if that content has EDSA (educational, documentary, scientific or artistic) value or intends to alert users to or raise awareness for the sensitive event. 
 
 To ensure that Google Play remains a safe and respectful platform, we've created standards defining and prohibiting content that is harmful or inappropriate for our users.
 
 *   Lacking sensitivity regarding the death of a real person or group of people due to suicide, overdose, natural causes, etc.
-*   Denying a major tragic event.
-*   Appearing to profit from a tragic event with no discernible benefit to the victims.
+*   Denying the occurrence of a well-documented, major tragic event.
+*   Appearing to profit from a sensitive event with no discernible benefit to the victims.
 *   Apps that are in violation of the [Requirements for coronavirus disease 2019 (COVID-19) apps article](https://support.google.com/googleplay/android-developer/answer/9889712).
 
 ### Bullying and harassment
@@ -206,9 +218,9 @@ We allow real money gambling apps, ads related to real money gambling, loyalty p
 
 #### Gambling apps
 
-Subject to restrictions and compliance with all Google Play policies, we allow apps that enable or facilitate online gambling in the following countries in the table below as long as the developer [completes the application process](https://support.google.com/googleplay/android-developer/contact/gambling) for gambling apps being distributed on Google Play, is an approved governmental operator and/or is registered as a licensed operator with the appropriate governmental gambling authority in the specified country, and provides a valid operating licence in the specified country for the type of online gambling product that they want to offer. 
+Subject to restrictions and compliance with all Google Play policies, we allow apps that enable or facilitate online gambling in select countries, as long as the developer [completes the application process](https://support.google.com/googleplay/android-developer/contact/gambling) for gambling apps being distributed on Google Play, is an approved governmental operator and/or is registered as a licensed operator with the appropriate governmental gambling authority in the specified country, and provides a valid operating licence in the specified country for the type of online gambling product that they want to offer. 
 
-We only allow valid licensed or authorised gambling apps that have the following types of online gambling products (please consult the table below for the specific types of gambling products allowed in each country):
+We only allow valid licensed or authorised gambling apps that have the following types of online gambling products 
 
 *   Online casino games
 *   Sports betting
@@ -216,149 +228,16 @@ We only allow valid licensed or authorised gambling apps that have the following
 *   Lotteries
 *   Daily fantasy sports
 
-Australia
----------
-
-| Summary | Details |
-| --- | --- |
-| Allowed with limitations | Subject to the application and licensing requirements in this 'Gambling apps' section, apps with the following types of gambling products are allowed:<br><br>*   Sports betting (including daily fantasy sports where legal)<br>*   Lotteries |
-
-Belgium
--------
-
-| Summary | Details |
-| --- | --- |
-| Allowed with limitations | Subject to the application and licensing requirements in this 'Gambling apps' section, apps with the following types of gambling products are allowed:<br><br>*   Online casino games<br>*   Sports betting<br>*   Lotteries (governmental operators only) |
-
-Brazil
-------
-
-| Summary | Details |
-| --- | --- |
-| Allowed with limitations | Subject to the application and licensing requirements in this 'Gambling apps' section, apps with the following types of gambling products are allowed:<br><br>*   Sports betting (horse racing only)<br>*   Lotteries (limited to approved apps published by Caixa Economica Federal) |
-
-Canada
-------
-
-| Summary | Details |
-| --- | --- |
-| Allowed with limitations | Subject to the application and licensing requirements in this 'Gambling apps' section, apps with the following types of gambling products are allowed:<br><br>*   Online casino games (governmental operators only)<br>*   Sports betting (governmental operators only)<br>*   Lotteries (governmental operators only) |
-
-Colombia
---------
-
-| Summary | Details |
-| --- | --- |
-| Allowed with limitations | Subject to the application and licensing requirements in this 'Gambling apps' section, apps with the following types of gambling products are allowed:<br><br>*   Online casino games<br>*   Sports betting<br>*   Lotteries (governmental operators only) |
-
-Denmark
--------
-
-| Summary | Details |
-| --- | --- |
-| Allowed with limitations | Subject to the application and licensing requirements in this 'Gambling apps' section, apps with the following types of gambling products are allowed:<br><br>*   Online casino games<br>*   Sports betting (including daily fantasy sports where legal)<br>*   Lotteries |
-
-Finland
--------
-
-| Summary | Details |
-| --- | --- |
-| Allowed with limitations | Subject to the application and licensing requirements in this 'Gambling apps' section, apps with the following types of gambling products are allowed:<br><br>*   Online casino games (governmental operators only)<br>*   Sports betting (governmental operators only)<br>*   Lotteries (governmental operators only) |
-
-France
-------
-
-| Summary | Details |
-| --- | --- |
-| Allowed with limitations | Subject to the application and licensing requirements in this 'Gambling apps' section, apps with the following types of gambling products are allowed:<br><br>*   Online casino games<br>*   Sports betting<br>*   Horse racing (where regulated and licensed separately from sports betting)<br>*   Lotteries (governmental operators only) |
-
-Germany
--------
-
-| Summary | Details |
-| --- | --- |
-| Allowed with limitations | Subject to the application and licensing requirements in this 'Gambling apps' section, apps with the following types of gambling products are allowed:<br><br>*   Sports betting<br>*   Horse racing (where regulated and licensed separately from sports betting)<br>*   Lotteries (governmental operators or affiliated contracted operators only) |
-
-Ireland
--------
-
-| Summary | Details |
-| --- | --- |
-| Allowed with limitations | Subject to the application and licensing requirements in this 'Gambling apps' section, apps with the following types of gambling products are allowed:<br><br>*   Online casino games<br>*   Sports betting<br>*   Lotteries (governmental or charitable operators only) |
-
-Japan
------
-
-| Summary | Details |
-| --- | --- |
-| Allowed with limitations | Subject to the application and licensing requirements in this 'Gambling apps' section, apps with the following types of gambling products are allowed:<br><br>*   Sports betting (horse racing, motorboat racing, cycle racing, auto-cycle racing and football lottery by governmental operators only)<br>*   Lotteries (governmental operators only) |
-
-Mexico
-------
-
-| Summary | Details |
-| --- | --- |
-| Allowed with limitations | Subject to the application and licensing requirements in this 'Gambling apps' section, apps with the following types of gambling products are allowed:<br><br>*   Online casino games<br>*   Sports betting<br>*   Lotteries<br>*   Daily fantasy sports |
-
-New Zealand
------------
-
-| Summary | Details |
-| --- | --- |
-| Allowed with limitations | Subject to the application and licensing requirements in this 'Gambling apps' section, apps with the following types of gambling products are allowed:<br><br>*   Sports betting (governmental operators only)<br>*   Lotteries (governmental operators only) |
-
-Norway
-------
-
-| Summary | Details |
-| --- | --- |
-| Allowed with limitations | Subject to the application and licensing requirements in this 'Gambling apps' section, apps with the following types of gambling products are allowed:<br><br>*   Online casino games<br>*   Sports betting (governmental operators only)<br>*   Lotteries |
-
-Romania
--------
-
-| Summary | Details |
-| --- | --- |
-| Allowed with limitations | Subject to the application and licensing requirements in this 'Gambling apps' section, apps with the following types of gambling products are allowed:<br><br>*   Online casino games<br>*   Sports betting<br>*   Lotteries (governmental operators only) |
-
-Spain
------
-
-| Summary | Details |
-| --- | --- |
-| Allowed with limitations | Subject to the application and licensing requirements in this 'Gambling apps' section, apps with the following types of gambling products are allowed:<br><br>*   Online casino games<br>*   Sports betting (including daily fantasy sports where legal)<br>*   Horse racing (where regulated and licensed separately from sports betting)<br>*   Lotteries (governmental operators only) |
-
-Sweden
-------
-
-| Summary | Details |
-| --- | --- |
-| Allowed with limitations | Subject to the application and licensing requirements in this 'Gambling apps' section, apps with the following types of gambling products are allowed:<br><br>*   Online casino games<br>*   Sports betting<br>*   Lotteries (governmental operators only) |
-
-United Kingdom
---------------
-
-| Summary | Details |
-| --- | --- |
-| Allowed with limitations | Subject to the application and licensing requirements in this 'Gambling apps' section, apps with the following types of gambling products are allowed:<br><br>*   Online casino games<br>*   Sports betting (including daily fantasy sports where legal)<br>*   Lotteries |
-
-United States
--------------
-
-| Summary | Details |
-| --- | --- |
-| Allowed with limitations | Subject to the application and licensing requirements in this 'Gambling apps' section, apps with the following types of gambling products are allowed in certain states where legal and appropriately licensed:<br><br>*   Online casino games <br>*   Sports betting <br>*   Horse racing (where regulated and licensed separately from sports betting) <br>*   Lotteries <br><br>Please note that if a state or gambling product for a state is not available on the [application form](https://support.google.com/googleplay/android-developer/contact/gambling), Google Play does not permit distribution at this time.<br><br>Depending on the state, daily fantasy sports may be regulated as gambling in the US, and all daily fantasy sports apps published in the United States are subject to the daily fantasy sports (DFS) apps requirements below. |
-
 Eligible apps must meet the following requirements:
 
-*   Developer must successfully [complete the application process](https://support.google.com/googleplay/android-developer/contact/gambling) in order to distribute the app on Play;
+*   Developer must successfully [complete the application process](https://support.google.com/googleplay/android-developer/contact/gambling) in order to distribute the app on Google Play;
 *   App must comply with all applicable laws and industry standards for each country in which it is distributed;
 *   Developer must have a valid gambling licence for each country or state/territory in which the app is distributed;
 *   Developer must not offer a type of gambling product that exceeds the scope of its gambling licence;
 *   App must prevent under-age users from using the app;
 *   App must prevent access and use from countries, states/territories or the geographic areas not covered by the developer-provided gambling licence;
 *   App must NOT be purchasable as a paid app on Google Play, nor use Google Play In-App Billing;
-*   App must be free to download and install from the Store;
+*   App must be free to download and install from the Google Play Store;
 *   App must be rated AO (Adult Only) or [IARC equivalent](https://support.google.com/googleplay/android-developer/answer/9898843); and
 *   App and its app listing must clearly display information about responsible gambling.
 
@@ -371,8 +250,6 @@ For all other apps that do not meet the eligibility requirements for gambling ap
 *   Games that accept money in exchange for an opportunity to win a physical or monetary prize
 *   Apps that have navigational elements or features (e.g. menu items, tabs, buttons, [WebViews](https://developer.android.com/reference/android/webkit/WebView), etc.) that provide a 'call to action' to wager, stake or participate in real-money games, contests or tournaments using real money, such as apps that invite users to 'BET!' or 'REGISTER!' or 'COMPETE!' in a tournament for a chance to win a cash prize.
 *   Apps that accept or manage wagers, in-app currencies, winnings or deposits in order to gamble for, or obtain a physical or monetary prize.
-
-Effective from 11 July 2022
 
 #### Other real-money game pilots
 
@@ -457,7 +334,7 @@ We don’t allow apps that facilitate or promote illegal activities.
 
 To ensure that Google Play remains a safe and respectful platform, we've created standards defining and prohibiting content that is harmful or inappropriate for our users.
 
-*   Facilitating the sale or purchase of illegal drugs or prescription drugs without a prescription.
+*   Facilitating the sale or purchase of illegal drugs.
 *   Depicting or encouraging the use or sale of drugs, alcohol or tobacco by minors.
 *   Instructions for growing or manufacturing illegal drugs.
 
@@ -501,21 +378,70 @@ To ensure that Google Play remains a safe and respectful platform, we've created
 
 * * *
 
-Unapproved substances
----------------------
+Effective 31 August 2022
 
-Google Play doesn't allow apps that promote or sell unapproved substances, irrespective of any claims of legality. Examples:
+#### Health content and services
 
-*   All items on this non-exhaustive list of [prohibited pharmaceuticals and supplements](https://support.google.com/googleplay/android-developer/?p=supplements)
-*   Products that contain ephedra
-*   Products containing human chorionic gonadotropin (hCG) in relation to weight loss or weight control, or when promoted in conjunction with anabolic steroids
-*   Herbal and dietary supplements with active pharmaceutical or dangerous ingredients
-*   False or misleading health claims, including claims implying that a product is as effective as prescription drugs or controlled substances
-*   Non-government approved products that are marketed in a way that implies that they're safe or effective for use in preventing, curing or treating a particular disease or ailment
-*   Products that have been subject to any government or regulatory action or warning
-*   Products with names that are confusingly similar to an unapproved pharmaceutical or supplement or controlled substance
+We don't allow apps that expose users to harmful health content and services. 
 
-For additional information on the unapproved or misleading pharmaceuticals and supplements that we monitor, please visit [www.legitscript.com](https://www.legitscript.com/).
+If your app contains or promotes health content and services, you must ensure that your app is compliant with any applicable laws and regulations.
+
+#### Prescription drugs
+
+We do not allow apps that facilitate the sale or purchase of prescription drugs without a prescription.
+
+#### Unapproved substances
+
+Google Play doesn't allow apps that promote or sell unapproved substances, irrespective of any claims of legality. 
+
+To ensure that Google Play remains a safe and respectful platform, we've created standards defining and prohibiting content that is harmful or inappropriate for our users.
+
+*   All items on this non-exhaustive list of [prohibited pharmaceuticals and supplements](https://support.google.com/googleplay/android-developer/answer/9217430?visit_id=637901565944441825-118521119&p=supplements&rd=1).
+    
+*   Products that contain ephedra.
+    
+*   Products containing human chorionic gonadotropin (hCG) in relation to weight loss or weight control, or when promoted in conjunction with anabolic steroids.
+    
+*   Herbal and dietary supplements with active pharmaceutical or dangerous ingredients.
+    
+*   False or misleading health claims, including claims implying that a product is as effective as prescription drugs or controlled substances.
+    
+*   Non-government-approved products that are marketed in a way that implies that they're safe or effective for use in preventing, curing or treating a particular disease or ailment.
+    
+*   Products that have been subject to any government or regulatory action or warning.
+    
+*   Products with names that are confusingly similar to an unapproved pharmaceutical or supplement or controlled substance.
+    
+
+For additional information on the unapproved or misleading pharmaceuticals and supplements that we monitor, please visit [www.legitscript.com](http://www.legitscript.com/).
+
+Effective 31 August 2022
+
+#### Health misinformation
+
+We don’t allow apps containing misleading health claims that contradict existing medical consensus or can cause harm to users.
+
+To ensure that Google Play remains a safe and respectful platform, we've created standards defining and prohibiting content that is harmful or inappropriate for our users.
+
+*   Misleading claims about vaccines, such as 'vaccines can alter one’s DNA'.
+*   Advocacy of harmful, unapproved treatments.
+*   Advocacy of other harmful health practices, such as conversion therapy.
+
+#### COVID-19 restrictions
+
+Apps must follow the [Requirements for coronavirus disease 2019 (COVID-19) apps article](https://support.google.com/googleplay/android-developer/answer/9889712).
+
+#### Medical functionalities
+
+We don’t allow apps that feature medical or health-related functionalities that are misleading or potentially harmful. For example, we do not allow apps that claim to have oximetry functionality that is solely app-based. Oximeter apps must be supported by external hardware, wearable or dedicated smartphone sensors designed to support oximetry functionality. These supported apps must also contain disclaimers in the metadata stating that they are not intended for medical use, are only designed for general fitness and wellness purposes, are not a medical device, and must properly disclose the compatible hardware model/device model.
+
+#### Payments – clinical services
+
+Transactions involving regulated clinical services should not use Google Play’s billing system. For more information, see [Understanding Google Play’s payments policy](https://support.google.com/googleplay/android-developer/answer/10281818#zippy=%2Cmy-app-provides-clinical-services-should-i-use-google-plays-billing-system-for-those-transactions).
+
+#### Health Connect data
+
+Data accessed through Health Connect permissions is regarded as personal and sensitive user data subject to the [User data](https://support.google.com/googleplay/android-developer/answer/10144311#personal-sensitive) policy, and is subjected to [additional requirements](https://support.google.com/googleplay/android-developer/answer/11995078#health_connect_preview).
 
 * * *
 
@@ -580,8 +506,8 @@ We don't allow apps that sell counterfeit goods or promote them for sale. Counte
 
 * * *
 
-Privacy, security and deception
-===============================
+Privacy, deception and device abuse
+===================================
 
 We’re committed to protecting user privacy and providing a safe and secure environment for our users. Apps that are deceptive, malicious, or intended to abuse or misuse any network, device or personal data are strictly prohibited.
 
@@ -589,6 +515,8 @@ User data
 ---------
 
 You must be transparent in how you handle user data (e.g. information collected from or about a user, including device information). That means disclosing your app’s access, collection, use and sharing of the data, and limiting the use of the data to the purposes disclosed. In addition, if your app handles personal and sensitive user data, please also refer to the additional requirements in the 'personal and sensitive user data' section below. These Google Play requirements are in addition to any requirements prescribed by applicable privacy and data protection laws. If you include third-party code (e.g. SDKs) in your app, you must ensure that the third party code used in your app is compliant with Google Play Developer Programme Policies. 
+
+Effective from 11 October 2022
 
 #### Personal and sensitive user data
 
@@ -635,8 +563,6 @@ To ensure that Google Play remains a safe and respectful platform, we've created
 *   An app that collects [device location](https://developer.android.com/training/location) and does not comprehensively disclose its use and obtain consent in accordance with the above requirements
 *   An app that collects restricted permissions in the background of the app including for tracking, research or marketing purposes and does not comprehensively disclose its use and obtain consent in accordance with the above requirements. 
 
-:  
-
 #### **Restrictions for personal and sensitive data access**
 
 In addition to the requirements above, the table below describes requirements for specific activities.
@@ -654,21 +580,21 @@ In addition to the requirements above, the table below describes requirements fo
 
 All developers must complete a clear and accurate Data safety section for every app detailing collection, use and sharing of user data. The developer is responsible for the accuracy of the label and keeping this information up to date. Where relevant, the section must be consistent with the disclosures made in the app’s privacy policy. 
 
-Please refer to [this article](https://support.google.com/googleplay/android-developer/answer/10787469?hl=en#zippy=%2Cdata-types) for additional information on completing the Data safety section.
+Please refer to [this article](https://support.google.com/googleplay/android-developer/answer/10787469?hl=en-GB#zippy=%2Cdata-types) for additional information on completing the Data safety section.
 
 #### Privacy policy
 
-All apps must post a privacy policy in both the designated field in Play Console and within the app itself. The privacy policy must, together with any in-app disclosures, comprehensively disclose how your app accesses, collects, uses and shares user data, not limited by the data disclosed in the Data Safety section. This must include: 
+All apps must post a privacy policy link in the designated field within Play Console, and a privacy policy link or text within the app itself. The privacy policy must, together with any in-app disclosures, comprehensively disclose how your app accesses, collects, uses and shares user data, not limited by the data disclosed in the privacy label. This must include: 
 
-*   developer information and a privacy point of contact or a mechanism to submit enquiries
-*   disclosing the types of personal and sensitive user data that your app accesses, collects, uses and shares; and any parties with which any personal or sensitive user data is shared
-*   secure data handling procedures for personal and sensitive user data
-*   the developer’s data retention and deletion policy
-*   clear labelling as a privacy policy (e.g. listed as 'privacy policy' in title)
+*   Developer information and a privacy point of contact or a mechanism to submit enquiries.
+*   Disclosing the types of personal and sensitive user data that your app accesses, collects, uses and shares; and any parties with which any personal or sensitive user data is shared.
+*   Secure data handling procedures for personal and sensitive user data.
+*   The developer’s data retention and deletion policy.
+*   Clear labelling as a privacy policy (for example, listed as 'privacy policy' in title).
 
-The entity (e.g. developer, company) named in the app’s Google Play listing must appear in the privacy policy or the app must be named in the privacy policy. Apps that do not access any personal and sensitive user data must still submit a privacy policy. 
+The entity (for example, developer, company) named in the app’s Google Play Store Listing must appear in the privacy policy or the app must be named in the privacy policy. Apps that do not access any personal and sensitive user data must still submit a privacy policy. 
 
-Please make sure that your privacy policy is available on an active URL (no PDFs) and is non-editable.
+Please make sure that your privacy policy is available on an active, publicly accessible and non-geo-fenced URL (no PDFs) and is non-editable.
 
 ### **Usage of app set ID**
 
@@ -693,8 +619,8 @@ As of 16 July 2020, Google no longer relies on the EU-U.S. Privacy Shield to tra
 
 * * *
 
-Permission
-----------
+Permissions and APIs that Access Sensitive Information
+------------------------------------------------------
 
 Requests for permission and APIs that access sensitive information should make sense to users. You may only request permissions and APIs that access sensitive information that are necessary to implement current features or services in your app that are promoted in your Google Play listing. You may not use permissions or APIs that access sensitive information that give access to user or device data for undisclosed, unimplemented or disallowed features or purposes. Personal or sensitive data accessed through permissions or APIs that access sensitive information may never be sold.
 
@@ -804,6 +730,50 @@ Core functionality is defined as the main purpose of the app. The core functiona
 
 The REQUEST\_INSTALL\_PACKAGES permission may not be used to perform self updates, modifications or the bundling of other APKs in the asset file unless for device management purposes. All updates or installing of packages must abide by Google Play’s [device and network abuse](https://support.google.com/googleplay/android-developer/answer/9888379?hl=en-GB&ref_topic=9877467) policy and must be initiated and driven by the user.
 
+Effective 1 November 2022
+
+#### VPN service
+
+The [VPNService](https://developer.android.com/reference/android/net/VpnService) is a base class for applications to extend and build their own VPN solutions. Only apps that use the VPNService and have VPN as their core functionality can create a secure device-level tunnel to a remote server. Exceptions include apps that require a remote server for core functionality, such as:
+
+*   Parental control and enterprise management apps.
+*   App usage tracking.
+*   Device security apps (for example, anti-virus, mobile device management, firewall).
+*   Network-related tools (for example, remote access).
+*   Web browsing apps.
+*   Operator apps that require the use of VPN functionality to provide telephony or connectivity services.
+
+The VPNService cannot be used to:
+
+*   Collect personal and sensitive user data without prominent disclosure and consent.
+*   Redirect or manipulate user traffic from other apps on a device for monetisation purposes (for example, redirecting ad traffic through a country different to that of the user).
+*   Manipulate ads that can impact app monetisation.
+
+Apps that use the VPNService must: 
+
+*   Document use of the VPNService in the Google Play listing, and
+*   Must encrypt the data from the device to VPN tunnel end point, and
+*   Abide by all [Developer Programme Policies](https://support.google.com/googleplay/android-developer/topic/9858052?hl=en-GB) , including the [Ad fraud](https://support.google.com/googleplay/android-developer/answer/9969955?hl=en-GB&ref_topic=9969691#zippy=%2Cexamples-of-common-violations), [Permissions](https://support.google.com/googleplay/android-developer/answer/9888170?hl=en-GB&ref_topic=9877467) and [Malware](https://support.google.com/googleplay/android-developer/answer/9888380?hl=en-GB&ref_topic=9975838) policies.  
+
+ Effective from 31 July 2023
+
+#### **Exact alarm permission**
+
+A new permission, USE\_EXACT\_ALARM, will be introduced that will grant access to [exact alarm functionality](https://developer.android.com/about/versions/13/features#use-exact-alarm-permission) in apps starting with Android 13 (API target level 33). 
+
+USE\_EXACT\_ALARM is a restricted permission and apps must only declare this permission if their core functionality supports the need for an exact alarm. Apps that request this restricted permission are subject to review, and those that do not meet the acceptable use case criteria will be disallowed from publishing on Google Play.
+
+**Acceptable use cases for using the exact alarm permission**
+
+Your app must use the USE\_EXACT\_ALARM functionality only when your app’s core, user-facing functionality requires precisely timed actions, such as:
+
+*   The app is an alarm or timer app.
+*   The app is a calendar app that shows event notifications.
+
+If you have a use case for exact alarm functionality that’s not covered above, you should evaluate if using SCHEDULE\_EXACT\_ALARM as an alternative is an option.
+
+For more information on exact alarm functionality, please see this [developer guidance](https://developer.android.com/about/versions/13/features#use-exact-alarm-permission).
+
 * * *
 
 Device and network abuse
@@ -832,6 +802,16 @@ To ensure that Google Play remains a safe and respectful platform, we've created
 *   Apps that link to or facilitate the distribution or installation of malicious software.
 *   Apps or third-party code (e.g. SDKs) containing a WebView with added JavaScript interface that loads untrusted web content (e.g. http:// URL) or unverified URLs obtained from untrusted sources (e.g. URLs obtained with untrusted intents)
 
+Effective 1 November 2022
+
+#### Flag secure requirements
+
+[FLAG\_SECURE](https://developer.android.com/reference/android/view/WindowManager.LayoutParams#FLAG_SECURE) is a display flag declared in an app’s code to indicate that its UI contains sensitive data intended to be limited to a secure surface while using the app. This flag is designed to prevent the data from appearing in screenshots or from being viewed on non-secure displays. Developers declare this flag when the app’s content should not be broadcast, viewed or otherwise transmitted outside of the app or users’ device.
+
+For security and privacy purposes, all apps distributed on Google Play are required to respect the FLAG\_SECURE declaration of other apps. Meaning, apps must not facilitate or create workarounds to bypass the FLAG\_SECURE settings in other apps.
+
+Apps that qualify as an [accessibility tool](https://support.google.com/googleplay/android-developer/answer/10964491?hl=en) are exempt from this requirement, as long as they do not transmit, save or cache FLAG\_SECURE protected content for access outside of the user's device.
+
 * * *
 
 Deceptive behaviour
@@ -848,7 +828,6 @@ To ensure that Google Play remains a safe and respectful platform, we've created
 *   Apps that misrepresent or do not accurately and clearly describe their functionality:
     *   An app that claims to be a racing game in its description and screenshots, but is actually a puzzle block game using a picture of a car.
     *   An app that claims to be an antivirus app, but only contains a text guide explaining how to remove viruses.
-*   Apps that feature medical or health-related content or functionalities that are misleading or potentially harmful. For example, we do not allow apps that claim to have oximetry functionality that is solely app-based. Oximeter apps must be supported by external hardware, wearable or dedicated smartphone sensors designed to support oximetry functionality. These supported apps must also contain disclaimers in the metadata stating that they are not intended for medical use, are only designed for general fitness and wellness purposes, are not a medical device, and must properly disclose the compatible hardware model/device model.
 *   Apps that claim functionalities that are not possible to implement, such as insect repellent apps, even if it is represented as a prank, fake, joke, etc.
 *   Apps that are improperly categorised, including, but not limited to the app rating or app category.
 *   Demonstrably deceptive or false content that may interfere with voting processes.
@@ -857,8 +836,8 @@ To ensure that Google Play remains a safe and respectful platform, we've created
 
 ![](//lh3.googleusercontent.com/A1eTZ0k5mqZNzUIiekEmGzLcw2Jxy4anLVoa7w5unaJInstFQEl5oYl6TpY9XUn6Mwt6=w660)
 
-(1) This app features medical or health-related claims (cure cancer) that is misleading.  
-(2) This app claims functionalities that are not possible to implement (using your phone) as a breathalyser.
+(1) This app features medical or health-related claims (cures cancer) that are misleading.  
+(2) This app claims functionality that is not possible to implement (using your phone) as a breathalyser.
 
 ### Deceptive device settings changes
 
@@ -981,21 +960,26 @@ Code that tricks users into subscribing to or purchasing content via their mobil
 
 Toll fraud includes any type of billing except premium SMS and premium calls. Examples of this include direct operator billing, wireless access point (WAP) and mobile airtime transfer. WAP fraud is one of the most prevalent types of toll fraud. WAP fraud can include tricking users into clicking a button on a silently loaded, transparent WebView. Upon performing the action, a recurring subscription is initiated, and the confirmation SMS or email is often hijacked to prevent users from noticing the financial transaction.
 
+Effective 1 November 2022
+
 ### Stalkerware
 
-Code that collects and/or transmits personal or sensitive user data from a device without adequate notice or consent and doesn't display a persistent notification that this is happening.
+Code that collects personal or sensitive user data from a device and transmits the data to a third party (enterprise or another individual) for monitoring purposes.
 
-Stalkerware apps target device users by monitoring personal or sensitive user data, and transmitting or making this data accessible to third parties. 
+Apps must provide adequate prominent disclosure and obtain consent as required by the [user data policy](https://support.google.com/googleplay/android-developer/answer/10144311?hl=en).
 
-Apps exclusively designed and marketed for parents to track their children or enterprise management, provided that they fully comply with the requirements described below are the only acceptable surveillance apps. These apps cannot be used to track anyone else (a spouse, for example) even with their knowledge and permission, regardless if persistent notification is displayed.
+**Guidelines for monitoring applications**
 
-Non-stalkerware apps distributed on the Play Store which monitor or track a user's behaviour on a device must minimally comply with these requirements:
+Apps exclusively designed and marketed for monitoring another individual, for example, parents to monitor their children or enterprise management for the monitoring of individual employees, provided that they fully comply with the requirements described below are the only acceptable monitoring apps. These apps cannot be used to track anyone else (a spouse, for example) even with their knowledge and permission, regardless if persistent notification is displayed. These apps must use the IsMonitoringTool metadata flag in their manifest file to appropriately designate themselves as monitoring apps.
+
+Monitoring apps must comply with these requirements:
 
 *   Apps must not present themselves as a spying or secret surveillance solution.
 *   Apps must not hide or cloak tracking behaviour or attempt to mislead users about such functionality.
 *   Apps must present users with a persistent notification at all times when the app is running and a unique icon that clearly identifies the app.
+*   Apps must disclose monitoring or tracking functionality in the Google Play Store description.
 *   Apps and app listings on Google Play must not provide any means to activate or access functionality that violates these terms, such as linking to a non-compliant APK hosted outside Google Play.
-*   You are solely responsible for determining the legality of your app in its targeted locale. Apps determined to be unlawful in locations where they are published will be removed.
+*   Apps must comply with any applicable laws. You are solely responsible for determining the legality of your app in its targeted locale.
 
 ### Denial of service (DoS)
 
@@ -1099,6 +1083,8 @@ However, if an app allows arbitrary code execution and we don’t have any reaso
 
 * * *
 
+Effective 31 August 2022
+
 ### Impersonation
 
 We don’t allow apps that mislead users by impersonating someone else (e.g. another developer, company or entity) or another app. Don’t imply that your app is related to or authorised by someone when it isn’t.  Be careful not to use app icons, descriptions, titles or in-app elements that could mislead users about your app’s relationship to someone else or another app.  
@@ -1106,15 +1092,26 @@ We don’t allow apps that mislead users by impersonating someone else (e.g. ano
 
 To ensure that Google Play remains a safe and respectful platform, we've created standards defining and prohibiting content that is harmful or inappropriate for our users.
 
-*   Developers that falsely imply a relationship to another company/developer:
+*   Developers that falsely imply a relationship to another company/developer/entity/organisation.
     
     ![](//lh3.googleusercontent.com/CTXDDQ5617TOtJ7SXt26hSid4qUaq_sXHYsOkRikG_I5irsQ3Qh8Y5vmcu9Nr8wYEg=w600-h1100)
     
-    ① The developer name listed for this app suggests an official relationship with Google, even though such a relationship doesn’t exist.
+    ① The Developer name listed for this app suggests an official relationship with Google, even though such a relationship doesn’t exist.
     
-*   App titles and icons that are so similar to those of existing products or services that users may be misled:
+*   Apps whose icons and titles are falsely implying a relationship with another company/developer/entity/organisation.  
+    ![](//storage.googleapis.com/support-kms-prod/wgtqYG99hfVov68y6R4ZbDsxdkJtij89hPUR)
+    
+    ①The app is using a national emblem and misleads users into believing it is affiliated with the government.  
+    ②The app is copying the logo of a business entity to falsely suggest it is an official app of the business.
+    
+*   App titles and icons that are so similar to those of existing products or services that users may be misled.
     
     ![](//storage.googleapis.com/support-kms-prod/sBVNnPnyoJOXaPHtBkDxjpytXq8Lu3V3aDke)
+    
+    ![](//storage.googleapis.com/support-kms-prod/lKN7LHSddGjHbZPBB3CSL43PftsuvJjsMcOn)  
+    ①The app is using the logo of a popular cryptocurrency website in its app icon to suggest it is the official website.  
+    ②The app is copying the character and title of a famous TV show in its app icon and misleading users to think that it is affiliated with a TV show.
+    
 *   Apps that falsely claim to be the official app of an established entity. Titles like 'Justin Bieber Official' are not allowed without the necessary permissions or rights.
     
 *   Apps that violate the [Android brand guidelines](https://developer.android.com/distribute/tools/promote/brand.html).
@@ -1294,7 +1291,7 @@ Payments
 
 We don’t allow apps that contain deceptive or disruptive ads. Ads must only be displayed within the app serving them. We consider ads served in your app as part of your app. The ads shown in your app must be compliant with all our policies. For policies on gambling ads, please click [here](https://play.google.com/about/restricted-content/gambling/).
 
-We don’t allow apps that contain deceptive or disruptive ads. Ads must only be displayed within the app serving them. We consider ads served in your app as part of your app. The ads shown in your app must be compliant with all our policies. For policies on gambling ads, please click [here](https://support.google.com/googleplay/android-developer/answer/9877032).
+We don’t allow apps that contain deceptive or disruptive ads. Ads must only be displayed within the app serving them. We consider ads and their associated offers served in your app as part of your app. The ads shown in your app must be compliant with all our policies. For policies on gambling ads, please click [here](https://support.google.com/googleplay/android-developer/answer/9877032).
 
 ### Use of location data for ads
 
@@ -1378,15 +1375,17 @@ To ensure that Google Play remains a safe and respectful platform, we've created
 
 ### Inappropriate ads
 
-The ads shown within your app must be appropriate for the intended audience of your app, even if the content by itself is otherwise compliant with our policies.
+The ads and their associated offers (for example, the ad is promoting the download of another app) shown within your app must be appropriate for the [content rating](https://support.google.com/googleplay/android-developer/answer/9898843) of your app, even if the content by itself is otherwise compliant with our policies.
 
 To ensure that Google Play remains a safe and respectful platform, we've created standards defining and prohibiting content that is harmful or inappropriate for our users.
 
 ![](//lh3.googleusercontent.com/PBa67hgzNg4f1FflV7_Y4KX5Jc41bGZ-sEtXILC02F6kGkMJsqvrYeKbCCrWTIDoe0s=h900)
 
-      ① This ad is inappropriate (teenagers) for the intended audience of the app (7+)  
-  
-      ② This ad is inappropriate (mature) for the intended audience of the app (12+)
+![](//storage.googleapis.com/support-kms-prod/5xy4IkVMxNbFd5K7vDp8ufRvk1wTqiag6SNy)
+
+① This ad is inappropriate (Teenager) for the content rating of the app (Everyone)  
+② This ad is inappropriate (Mature) for the content rating of the app (Teenager)  
+③ The offer of the ad (promoting the download of a Mature app) is inappropriate for the content rating of the game app in which the ad was displayed (Everyone)
 
 ### Usage of Android advertising ID
 
@@ -1394,14 +1393,40 @@ Google Play services version 4.0 introduced new APIs and an ID for use by advert
 
 *   **Usage**. The Android advertising identifier (AAID) must only be used for advertising and user analytics. The status of the 'Opt out of interest-based advertising' or 'Opt out of ads personalisation' setting must be verified on each access of the ID.
 *   **Association with personally identifiable information or other identifiers**.
-    *   Advertising use: The advertising identifier may not be connected to persistent device identifiers (for example: MAC address, IMEI, etc.) for any advertising purpose. The advertising identifier may only be connected to personally identifiable information with the explicit consent of the user.
-    *   Analytics use: The advertising identifier may only be connected to personally identifiable information or associated with any persistent device identifier (for example: MAC address, IMEI, etc.) with the explicit consent of the user. Please read the [User Data policy](https://support.google.com/googleplay/android-developer/answer/10144311?hl=en-GB&ref_topic=9877467)for additional guidelines on persistent device identifiers.
+    *   Advertising use: The advertising identifier may not be connected to persistent device identifiers (for example: SSAID, MAC address, IMEI, etc.) for any advertising purpose. The advertising identifier may only be connected to personally identifiable information with the explicit consent of the user.
+    *   Analytics use: The advertising identifier may not be connected to personally identifiable information or associated with any persistent device identifier (for example: SSAID, MAC address, IMEI, etc.) for any analytics purpose. Please read the [User data policy](https://support.google.com/googleplay/android-developer/answer/10144311?hl=en-GB&ref_topic=9877467)for additional guidelines on persistent device identifiers.
 *   **Respecting users' selections**.
     *   If reset, a new advertising identifier must not be connected to a previous advertising identifier or data derived from a previous advertising identifier without the explicit consent of the user.
     *   You must abide by a user’s 'Opt out of interest-based advertising' or 'Opt out of ads personalisation' setting. If a user has enabled this setting, you may not use the advertising identifier for creating user profiles for advertising purposes or for targeting users with personalised advertising. Allowed activities include contextual advertising, frequency capping, conversion tracking, reporting and security and fraud detection.
     *   On newer devices, when a user deletes the Android advertising identifier, the identifier will be removed. Any attempts to access the identifier will receive a string of zeros. A device without an advertising identifier must not be connected to data linked to or derived from a previous advertising identifier.
 *   **Transparency to users**. The collection and use of the advertising identifier and commitment to these terms must be disclosed to users in a legally adequate privacy notification. To learn more about our privacy standards, please review our [User data](https://support.google.com/googleplay/android-developer/answer/9888076) policy.
-*   **Abiding by the Terms of Use**. The advertising identifier may only be used in accordance with the Play Developer Programme Policies, including by any party that you may share it with in the course of your business. All apps uploaded or published to Google Play must use the advertising ID (when available on a device) in lieu of any other device identifiers for any advertising purposes.
+*   **Abiding by the Terms of Use**. The advertising identifier may only be used in accordance with the Google Play Developer Programme Policies, including by any party that you may share it with in the course of your business. All apps uploaded or published to Google Play must use the advertising ID (when available on a device) in lieu of any other device identifiers for any advertising purposes.
+
+Effective 30 September 2022
+
+#### Better ad experiences
+
+Developers are required to comply with the following ad guidelines to ensure high-quality experiences for users when they are using Google Play apps. Your ads may not be shown in the following unexpected ways for users:
+
+*   Full-screen interstitial ads of all formats (video, GIF, static, etc.) that show unexpectedly, typically when the user has chosen to do something else, are not allowed. 
+    *   Ads that appear during gameplay at the beginning of a level or during the beginning of a content segment are not allowed. 
+    *   Full-screen video interstitial ads that appear before an app’s loading screen (splash screen) are not allowed.
+*   Full-screen interstitial ads of all formats that are not closeable after 15 seconds are not allowed. Opt-in full-screen interstitials or full-screen interstitials that do not interrupt users in their actions (for example, after the score screen in a game app) may persist more than 15 seconds.
+
+This policy does not apply to rewarded ads which are explicitly opted-in by users (for example, an ad that developers explicitly offer a user to watch in exchange for unlocking a specific game feature or a piece of content). This policy also does not apply to monetisation and advertising that does not interfere with normal app use or gameplay (for example, video content with integrated ads, non-fullscreen banner ads).
+
+These guidelines are inspired by the [Better Ads Standards – mobile apps experience](https://www.betterads.org/standards/#mobileapp) guidelines. For more information on Better Ads Standards, please refer to [Coalition of Better Ads](https://www.betterads.org/).
+
+To ensure that Google Play remains a safe and respectful platform, we've created standards defining and prohibiting content that is harmful or inappropriate for our users.
+
+*   Unexpected ads that appear during gameplay or during the beginning of a content segment (for example, after a user has clicked on a button, and before the action intended by the button click has taken effect). These ads are unexpected for users, as users expect to begin a game or engage in content instead.  
+    ![](//storage.googleapis.com/support-kms-prod/rJ1QH4O7L9Y0M6oowyUp0lxJL4sYjhP0iUH7)  
+    ① Unexpected static ad appears during gameplay at the beginning of a level.  
+    ![](//storage.googleapis.com/support-kms-prod/2w6koURCQNygQL43lkbCg3v6G8Nau8pdV46A)  
+    ② Unexpected video ad appears during the beginning of a content segment.
+*   A full-screen ad that appears during gameplay and cannot be closed after 15 seconds.  
+    ![](//storage.googleapis.com/support-kms-prod/NBioy9uf8nqdAXXolKCR4q8u8EGxX02PSuwW)  
+    ①  An interstitial ad appears during gameplay and does not offer users an option to skip within 15 seconds.
 
 * * *
 
@@ -1472,46 +1497,56 @@ To ensure that Google Play remains a safe and respectful platform, we've created
 
 ④ Offer should be localised in the same language as the Terms and Conditions so that users can understand the entire offer.
 
-### Subscription management and cancellation
+Effective 30 September 2022
 
-As a developer, you must ensure that your app(s) clearly disclose how a user can manage or cancel their subscription.
+#### Subscription management, cancellation and **refunds**
 
-If a user cancels a subscription purchased from an app on Google Play, our policy is that the user will not receive a refund for the current billing period, but will continue to receive their subscription content for the remainder of the current billing period, regardless of the cancellation date. The user's cancellation goes into effect after the current billing period has passed.
+If you sell subscriptions in your app(s), you must ensure that your app(s) clearly disclose how a user can manage or cancel their subscription. You must also include in your app access to an easy-to-use, online method to cancel the subscription. In your app’s account settings (or equivalent page), you can satisfy this requirement by including:
+
+*   A link to Google Play’s subscription centre (for apps that use Google Play’s billing system); and/or
+*   direct access to your cancellation process.
+
+If a user cancels a subscription purchased through Google Play’s billing system, our general policy is that the user will not receive a refund for the current billing period, but will continue to receive their subscription content for the remainder of the current billing period, regardless of the cancellation date. The user's cancellation goes into effect after the current billing period has passed.
 
 You (as the content or access provider) may implement a more flexible refund policy with your users directly. It is your responsibility to notify your users of any changes to your subscription, cancellation and refund policies, and ensure that the policies comply with applicable law.
 
 * * *
 
-Families ads programme
-----------------------
+Effective 1 November 2022
 
-If you serve ads in your app, and the target audience for your app only includes children as described in the [Families policy](https://support.google.com/googleplay/android-developer/answer/9893335), then you must use ad SDKs that have self-certified compliance with Google Play policies, including the Ad SDK certification requirements below. If the target audience for your app includes both children and older users, you must implement age screening measures and make sure that ads shown to children come exclusively from one of these self-certified ad SDKs. Apps in the Designed for Families programme are required to only use self-certified ad SDKs.
+### Families self-certified ad SDK programme
 
-The use of Google Play certified ad SDKs is only required if you are using ad SDKs to serve ads to children. The following are permitted without an ad SDK's self-certification with Google Play. However, you are still responsible for ensuring that your ad content and data collection practices are compliant with Google Play's [user data policy](https://support.google.com/googleplay/android-developer/answer/9888076) and [Families policy](https://support.google.com/googleplay/android-developer/answer/9893335):
+If you serve ads in your app, and the target audience for your app only includes children as described in the [Families policy](https://support.google.com/googleplay/android-developer/answer/9893335), then you must only use ad SDKs that have self-certified compliance with Google Play policies, including the ad SDK self-certification requirements below.
+
+If the target audience for your app includes both children and older users, you must make sure that ads shown to children come exclusively from one of these self-certified ad SDKs (for example, through the use of neutral age screening measures). Apps in the Designed for Families programme are required to only use self-certified ad SDKs.
+
+Note: It is your responsibility to ensure that all SDK versions that you implement in your app, including self-certified ad SDKs, are compliant with all applicable policies, local laws and regulations. Google does not provide any representations or guarantees as to the accuracy of the information that the ad SDKs provide during the self-certification process.
+
+The use of Families self-certified ad SDKs is only required if you are using ad SDKs to serve ads to children. The following are permitted without an ad SDK's self-certification with Google Play. However, you are still responsible for ensuring that your ad content and data collection practices are compliant with Google Play's [user data policy](https://support.google.com/googleplay/android-developer/answer/9888076) and [Families policy](https://support.google.com/googleplay/android-developer/answer/9893335):
 
 *   In-house advertising whereby you use SDKs to manage cross-promotion of your apps or other owned media and merchandising.
 *   Entering into direct deals with advertisers whereby you use SDKs for inventory management.
 
-**Ad SDK certification requirements**
+**Families self-certified ad SDK requirements**
 
-*   Define what are objectionable ad content and behaviours and prohibit them in the ad SDK's terms or policies. The definitions  should comply with Google Play Developer Programme Policies.
+*   Define what are objectionable ad content and behaviours and prohibit them in the ad SDK's terms or policies. The definitions should comply with Google Play Developer Programme Policies.
 *   Create a method to rate your ad creatives according to age-appropriate groups. Age-appropriate groups must at least include groups for 'Everyone' and 'Mature'. The rating methodology must align with the methodology that Google supplies to SDKs once they have filled in the interest form below.
 *   Allow publishers, on a per-request or per-app basis, to request child-directed treatment for ad serving. Such treatment must be in compliance with applicable laws and regulations, such as the [US Children's Online Privacy and Protection Act (COPPA)](https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children&#39;s-privacy) and the EU [General Data Protection Regulation (GDPR)](https://gdpr.eu/). Google Play requires ad SDKs to disable personalised ads, interest-based advertising and remarketing as part of the child-directed treatment.
 *   Allow publishers to select ad formats that are compliant with Google Play's [Families Ads and Monetisation policy](https://play.google.com/about/families/ads-monetization/), and meet the requirement of the [Expert Approved programme](https://playacademy.exceedlms.com/sl/044a202e). 
 *   Ensure that when real-time bidding is used to serve ads to children, the creatives have been reviewed and privacy indicators are propagated to the bidders.
-*   Provide Google with sufficient information, such as information indicated in the [interest form](https://docs.google.com/forms/d/e/1FAIpQLSc8msikGDxjTHHFmIECoitMnpudaCbtrb_hhgzpUOznPhDoBw/viewform?p=adnet&visit_id=637244930778989316-3754351249&rd=1) below, to verify the ad SDK's compliance with all certification requirements, and respond in a timely manner to any subsequent requests for information, such as submitting new version releases to verify the ad SDK version’s compliance with all certification requirements.
-*   Self-certify that each SDK version release is compliant with the latest Google Play Developer Programme Policies.
+*   Provide Google with sufficient information, such as submitting a test app and the information indicated in the [interest form](https://docs.google.com/forms/d/e/1FAIpQLSc8msikGDxjTHHFmIECoitMnpudaCbtrb_hhgzpUOznPhDoBw/viewform?p=adnet&visit_id=637244930778989316-3754351249&rd=1) below, to verify the ad SDK's policy compliance with all self-certification requirements, and respond in a timely manner to any subsequent requests for information, such as submitting new version releases to verify the ad SDK version’s compliance with all self-certification requirements.
+*   [Self-certify](https://support.google.com/googleplay/android-developer/answer/12253906#families_self-certified_requirements) that all new version releases are compliant with the latest Google Play Developer Programme Policies, including Families policy requirements.
 
-_Note: Ad SDKs must support ad serving that complies with all relevant statutes and regulations concerning children that may apply to their publishers._
+_Note: Families self-certified_ _Ad_ _SDKs must support ad serving that complies with all relevant statutes and regulations concerning children that may apply to their publishers._
 
-Mediation requirements for serving platforms when serving ads to children:
+Here are mediation requirements for serving platforms when serving ads to children:
 
-*   Only use Google Play certified ad SDKs or implement safeguards necessary to ensure that all ads served from mediation comply with these requirements; and
+*   Only use Families self-certified ad SDKs or implement safeguards necessary to ensure that all ads served from mediation comply with these requirements; and
 *   Pass the information necessary to mediation platforms to indicate the ad content rating and any applicable child-directed treatment.
 
-Developers can find a list of self-certified ad SDKs [here](https://support.google.com/googleplay/android-developer/answer/9283445).
+Developers can find a list of Families self-certified ad SDKs [here](https://support.google.com/googleplay/android-developer/answer/9283445).
 
-Also, developers can share this [interest form](https://support.google.com/googleplay/android-developer/?p=adnet) with ad SDKs who wish to become self-certified.
+Also, developers can share this [interest form](https://support.google.com/googleplay/android-developer/?p=adnet) with ad SDKs who wish to self-certify.
 
 * * *
 
@@ -1649,7 +1684,7 @@ If you do not agree with the rating assigned to your app, you can appeal directl
 
 * * *
 
-Effective 14 September 2022
+Effective 11 August 2022
 
 News
 ----
@@ -1740,11 +1775,19 @@ To ensure that Google Play remains a safe and respectful platform, we've created
 Made for ads
 ------------
 
-We do not allow apps whose primary purpose is to serve ads.
+We don’t allow apps that display interstitial ads repeatedly to distract users from interacting with an app and performing in-app tasks.
 
 To ensure that Google Play remains a safe and respectful platform, we've created standards defining and prohibiting content that is harmful or inappropriate for our users.
 
-*   Apps where interstitial ads are placed after every user action, including but not limited to clicks, swipes, etc.
+*   Apps where an interstitial ad is placed after a user action (including, but not limited to clicks, swipes, etc.) in a consecutive manner.
+    
+    ![](//storage.googleapis.com/support-kms-prod/6N76HWDiB0xLD4mTNiQBkb6WozvInE0MffL9)
+    
+    The first in-app page has multiple buttons to interact with. When the user clicks **Start app** to use the app, an interstitial ad pops up. After the ad is closed, the user returns to the app and clicks **Service** to start using the service, but another interstitial ad appears.  
+      
+    ![](//storage.googleapis.com/support-kms-prod/ewpzgReDq8OpLTyYmSJMp8Suu62UPpNYnC1D)  
+    On the first page, the user is led to click **Play** as it is the only button available to use the app. When the user clicks it, an interstitial ad appears. After the ad is closed, the user clicks **Launch** as it is the only button to interact with, and another interstitial ad pops up.
+    
 
 * * *
 
@@ -1905,7 +1948,8 @@ If one of the target audiences for your app is children, you must comply with th
     *   Ensure that ads displayed to those users follow the Families ad format requirements; and
     *   Ensure compliance with all applicable legal regulations and industry standards relating to advertising to children.
 5.  **Data practices:** You must disclose the collection of any [personal and sensitive information](https://support.google.com/googleplay/android-developer/answer/9888076#personal_sensitive) from children in your app, including through APIs and SDKs called or used in your app. Sensitive information from children includes, but is not limited to, authentication information, microphone and camera sensor data, device data, Android ID and ad usage data. You must also ensure that your app follows the data practices below:
-    *   You must not transmit Android advertising identifier (AAID), SIM Serial, Build Serial, BSSID, MAC, SSID, IMEI and/or IMSI from children or users of unknown age.
+    *   Apps that solely target children must not transmit Android advertising identifier (AAID), SIM serial, build serial, BSSID, MAC, SSID, IMEI and/or IMSI.
+    *   Apps that target both children and older audiences must not transmit AAID, SIM serial, build serial, BSSID, MAC, SSID, IMEI and/or IMSI from children or users of unknown age.
     *   Device phone number must not be requested from TelephonyManager of the Android API.
     *   Apps that solely target children may not request location permission, or collect, use and transmit [precise location](https://support.google.com/googleplay/android-developer/answer/10787469?hl=en#zippy=%2Cdata-types).
     *   Apps must use the [Companion Device Manager (CDM)](https://developer.android.com/reference/android/companion/CompanionDeviceManager) when requesting Bluetooth, unless your app is only targeting device Operating System (OS) versions that are not compatible with CDM.
@@ -2020,11 +2064,13 @@ To ensure that Google Play remains a safe and respectful platform, we've created
 *   **Dating or relationships**: Ads for dating or adult relationship sites.
 *   **Violent content**: Ads with violent and graphic content that is not appropriate for children.
 
+Effective 1 November 2022
+
 **Ad SDKs**
 
-If you serve ads in your app and your target audience only includes children, then you must use [Google Play-certified ad SDKs](https://support.google.com/googleplay/android-developer/answer/9900633/). If the target audience for your app includes both children and older users, you must implement age screening measures, such as a [neutral age screen](https://support.google.com/googleplay/android-developer/answer/9285070#neutral-agescreen), and make sure that ads shown to children come exclusively from Google Play-certified ad SDKs. Apps in the Designed for Families programme are required to only use self-certified ad SDKs.
+If you serve ads in your app and your target audience only includes children, then you must use only [Families self-certified ad SDKs](https://support.google.com/googleplay/android-developer/answer/9900633/). If the target audience for your app includes both children and older users, you must implement age screening measures, such as a [neutral age screen](https://support.google.com/googleplay/android-developer/answer/9285070#neutral-agescreen), and make sure that ads shown to children come exclusively from Families self-certified ad SDKs. Apps in the Designed for Families programme are required to only use self-certified ad SDKs.
 
-Please refer to the [Families ads programme policy](https://support.google.com/googleplay/android-developer/answer/9900633/) page for more details on these requirements and to see the current list of approved ad SDKs.
+Please refer to the [Families self-certified ad SDK programme](https://support.google.com/googleplay/android-developer/answer/9900633/) policy page for more details on these requirements and to see the current list of self-certified ad SDKs.
 
 If you use AdMob, refer to the [AdMob Help Centre](https://support.google.com/admob/answer/6223431) for more details on their products.
 
