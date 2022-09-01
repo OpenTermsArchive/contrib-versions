@@ -1,9 +1,9 @@
 Privacy Notice
 ==============
 
-#### Last Updated: June 03, 2022
+#### Last Updated: September 1, 2022
 
-To see prior version, click [here](https://aws.amazon.com/privacy/aws-privacy-prior-20220401/).
+To see prior version, click [here](https://aws.amazon.com/privacy/aws-privacy-prior-20220603).
 
 This Privacy Notice describes how we collect and use your personal information in relation to AWS websites, applications, products, services, events, and experiences that reference this Privacy Notice (together, “AWS Offerings”).
 
@@ -274,7 +274,11 @@ We provide additional information about our controllers and data protection offi
     
     We jointly use your personal information for such purposes as described in this Privacy Notice with domestic and foreign affiliates that Amazon.com, Inc. controls, including Amazon Web Services, Inc., Amazon Web Services Japan G.K., Amazon Web Services EMEA SARL, and other global entities that either are subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice. Jointly used personal information includes personal information described under “Personal Information We Collect” and “Example of Information Collected” above. Amazon Web Services, Inc. is the business operator primarily responsible for managing jointly used personal information.  
     
-    We may transfer personal information to third parties only to the extent described under “How We Share Personal Information” above and in accordance with the Act on Protection of Personal Information.  
+    We share personal information with third parties only to the extent described under “How We Share Personal Information” above and in accordance with the Act on Protection of Personal Information.  
+    
+    When we share your personal information with third parties outside of Japan, such as sellers of products on AWS Marketplace and sponsors of AWS events, we require the recipients to adopt personal information security measures to protect your personal information.
+    
+    Please see [here](https://aws.amazon.com/legal/sharing-of-personal-information-japan/) for information on the countries where third parties may be located, and the applicable data privacy laws and data protection systems in these countries. 
     
     **Your Rights**
     
@@ -416,9 +420,9 @@ Customers can access the information above through AWS Offerings, such as the [A
 Privacy Notice
 ==============
 
-#### Last Updated: June 03, 2022
+#### Last Updated: September 1, 2022
 
-To see prior version, click [here](https://aws.amazon.com/privacy/aws-privacy-prior-20220401/).
+To see prior version, click [here](https://aws.amazon.com/privacy/aws-privacy-prior-20220603).
 
 This Privacy Notice describes how we collect and use your personal information in relation to AWS websites, applications, products, services, events, and experiences that reference this Privacy Notice (together, “AWS Offerings”).
 
@@ -689,7 +693,11 @@ We provide additional information about our controllers and data protection offi
     
     We jointly use your personal information for such purposes as described in this Privacy Notice with domestic and foreign affiliates that Amazon.com, Inc. controls, including Amazon Web Services, Inc., Amazon Web Services Japan G.K., Amazon Web Services EMEA SARL, and other global entities that either are subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice. Jointly used personal information includes personal information described under “Personal Information We Collect” and “Example of Information Collected” above. Amazon Web Services, Inc. is the business operator primarily responsible for managing jointly used personal information.  
     
-    We may transfer personal information to third parties only to the extent described under “How We Share Personal Information” above and in accordance with the Act on Protection of Personal Information.  
+    We share personal information with third parties only to the extent described under “How We Share Personal Information” above and in accordance with the Act on Protection of Personal Information.  
+    
+    When we share your personal information with third parties outside of Japan, such as sellers of products on AWS Marketplace and sponsors of AWS events, we require the recipients to adopt personal information security measures to protect your personal information.
+    
+    Please see [here](https://aws.amazon.com/legal/sharing-of-personal-information-japan/) for information on the countries where third parties may be located, and the applicable data privacy laws and data protection systems in these countries. 
     
     **Your Rights**
     
