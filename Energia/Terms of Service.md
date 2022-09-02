@@ -496,9 +496,6 @@ Charges/Discounts
   
 Discounts apply for the contract duration and are against the Energia **EV Tariff Our Electric Vehicle Plan**, subject to the customer continuing to pay by direct debit and receiving their bills online.  
   
-31% Discount valid on Electricity rates, 30% on gas rates for Dual Fuel customers.  
-Exit fee: €50 per fuel   
-  
 Taxes and Pass through charges  
   
 VAT applies at 9%.  The Public Service Obligation (PSO) Levy is set annually in October. This applies to all domestic electricity customers irrespective of supplier.  The Carbon Tax is set annually by the Revenue. This tax applies to all domestic natural gas customers, irrespective of supplier.
@@ -916,9 +913,9 @@ EAB €1,512, based on average annual usage. 12 month contract, discounted unit 
 
 37\. Competition terms and conditions
 
-**View June 2022 rugby newsletter terms and conditions [here.](https://www.energia.ie/getattachment/Privacy-2018/Terms-Conditions/Heineken-Champions-Cup-Final-Competition-2019-(7)/June-2022-%E2%82%AC50-Merchandise-Voucher-for-Lifestyle-Sports.pdf.aspx;?lang=en-IE)**  
+**View June 2022 rugby newsletter terms and conditions [_here._](https://www.energia.ie/getattachment/Privacy-2018/Terms-Conditions/Heineken-Champions-Cup-Final-Competition-2019-(7)/June-2022-%E2%82%AC50-Merchandise-Voucher-for-Lifestyle-Sports.pdf.aspx;?lang=en-IE)**  
   
- 
+**View the ​September NL Competition terms and conditions _[here](https://www.energia.ie/getattachment/Privacy-2018/Terms-Conditions/Heineken-Champions-Cup-Final-Competition-2019-(7)/September-2022-Two-tickets-to-Ireland-vs-South-Africa-Autumn-International-2022-Competition-(1).pdf.aspx;)._** 
 
 38\. Download all Terms & Conditions.
 
