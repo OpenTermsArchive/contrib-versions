@@ -7,7 +7,7 @@ If your business either has a physical location that customers can visit, or tra
 *   Reflect your business accurately.
 *   Comply with the policies in this article.
 
-**Important:** As a COVID-19 precaution, we're operating with a limited team. It may take longer than usual to connect with us. We recommend our [Help Community](https://support.google.com/business/community) and [YouTube Channel](https://www.youtube.com/c/GoogleMyBusinessHelp/featured).
+**Important:** As a COVID-19 precaution, we're operating with a limited team. It may take longer than usual to connect with us. We recommend our [Help Community](https://support.google.com/business/community) and [YouTube Channel](https://www.youtube.com/c/GoogleBusinessProfile).
 
 Understand basic guidelines
 ---------------------------
