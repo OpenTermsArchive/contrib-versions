@@ -368,6 +368,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   Montpellier Méditerranée Métropole - [https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf](https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf)
             
+        *   Île-de-France Mobilités - [https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf](https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf)
+            
     10.  **Germany**
         *   Bundesamt für Kartographie und Geodäsie - © Vermessungsverwaltungen der Bundesländer und Bundesamt für Kartographie und Geodäsie
             
@@ -411,13 +413,9 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         *   GEOportal.NRW - ([https://www.geoportal.nrw/nutzungsbedingungen](https://www.geoportal.nrw/nutzungsbedingungen))
             
-        *   Stadt Gelsenkirchen - gdi.gelsenkirchen.de ([https://gdi.gelsenkirchen.de/mapapps/resources/apps/full-page-sdi/index.html?lang=en#/datasets/iso/a574ec45-404b-47db-9d00-546bbd7b8289](https://gdi.gelsenkirchen.de/mapapps/resources/apps/full-page-sdi/index.html?lang=en#/datasets/iso/a574ec45-404b-47db-9d00-546bbd7b8289))
-            
         *   Geoportal Sachsenatlas ([https://www.govdata.de/dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0))
             
         *   Offenes Daten Portal - [https://www.govdata.de/dl-de/zero-2-0](https://www.govdata.de/dl-de/zero-2-0)
-            
-        *   Geoportal Thüringen - Geoportal-Th.de: Licenses: [https://www.govdata.de/dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0)
             
         *   Open Data Dresden - [https://www.govdata.de/dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0)
             
@@ -480,10 +478,6 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             License: [https://www.ons.gov.uk/methodology/geography/licences](https://www.ons.gov.uk/methodology/geography/licences)
             
         *   Office for National Statistics licensed - [https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
-            
-        *   Manchester City Council - [https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
-            
-        *   © Crown copyright and database rights 2022 OS 100043505. Contains National Statistics data © Crown copyright and database right 2022.
             
     12.  **Greece**
         *   EuroGeographics; Copyright Geomatics Ltd.
@@ -662,8 +656,6 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         "Mapa de Ubicación de Códigos Postales para la Ciudad de México" published by Correos de México. Accessed from [https://datos.gob.mx/](https://datos.gob.mx/) on 28-03-2022
         
         "Mapa de Ubicación de Códigos Postales para Jalisco" published by Correos de México. Accessed from [https://datos.gob.mx/busca/](https://datos.gob.mx/) on 28-03-2022
-        
-        Museums administered by the state of Puebla, published by the Ministry of Culture and Tourism. Consulted at [http://datos.puebla.gob.mx/dataset/museos-administrados-estado-puebla#](http://datos.puebla.gob.mx/dataset/museos-administrados-estado-puebla#) consultation date: 2018-06-01
         
     27.  Datos Abiertos del Gobierno de México - [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
         
@@ -1448,10 +1440,6 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         
         OCHA Field Information Services Section (FISS) - [https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses)
         
-    64.  **Democratic Republic of the Congo**
-        
-        OurAirports.com community - [https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses)
-        
 4.  **Business Listings Data.**
     
     1.  **Argentina**
@@ -1500,10 +1488,6 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         American Red Cross and FSD Kenya - [https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses)
         
         The World Bank Group - Kenya Power and Lighting Company (KPLC) - [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
-        
-    11.  **Ethiopia**
-        
-        OCHA Ethiopia - [https://data.humdata.org/about/license](https://data.humdata.org/about/license)
         
 5.  **Software.**
     
