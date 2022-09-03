@@ -1,10 +1,6 @@
 WARNERMEDIA CONSUMER PRIVACY POLICY
 ===================================
 
-  
-
-===
-
 A WarnerMedia Company 
 ======================
 
