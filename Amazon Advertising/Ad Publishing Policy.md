@@ -46,7 +46,7 @@ Advertising policies
 *   [Advertising and the BR general data protection law](https://advertising.amazon.com/resources/ad-policy/lgpd?ref_=a20m_us_spcs_lgpd)
 *   [Alexa Home Screen guidelines and acceptance policies](https://advertising.amazon.com/resources/ad-policy/alexa-home-screen?ref_=a20m_us_spcs_alxhs)
 *   [Amazon Ads API policies](https://advertising.amazon.com/resources/ad-policy/api?ref_=a20m_us_spcs_api)
-*   [Amazon Ads guidelines and acceptance policies](https://advertising.amazon.com/resources/ad-policy/creative-acceptance?ref_=a20m_us_spcs_cap)
+*   [Amazon Ads Guidelines and Acceptance Policies](https://advertising.amazon.com/resources/ad-policy/creative-acceptance?ref_=a20m_us_spcs_cap)
 *   [Amazon brand usage guidelines](https://advertising.amazon.com/resources/ad-policy/brand-usage?ref_=a20m_us_spcs_brdusg)
 *   [Amazon DSP additional policies](https://advertising.amazon.com/resources/ad-policy/amazon-dsp-additional-policies?ref_=a20m_us_spcs_dspap)
 *   [Amazon pixelling guidelines](https://advertising.amazon.com/resources/ad-policy/pixeling-policy?ref_=a20m_us_spcs_pxlg)
