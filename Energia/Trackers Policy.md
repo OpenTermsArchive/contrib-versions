@@ -10,7 +10,7 @@ Protecting our customer’s personal data is important to Energia. This Privacy 
   
 **1.1 Company Information.** Energia is part of the Energia Group, the leading independent energy company in the all-Ireland market.  Energia is the trading name of Energia Customer Solutions Limited a company registered in Ireland with company number 306035 and having its registered office at The Liberty Centre, Blanchardstown Retail Park, Dublin 15, D15 YT2H. Further information can be found at [https://www.energia.ie/home](https://www.energia.ie/home)  or [https://www.energiagroup.com/](https://www.energiagroup.com/).  
    
-**1.2 Contact us**. If you have questions as to the manner in which your personal data is being handled or if you require any further information you can contact the Data Protection Officer at [\[email protected\].ie](https://www.energia.ie/cdn-cgi/l/email-protection#removed) or by writing to the :
+**1.2 Contact us**. If you have questions as to the manner in which your personal data is being handled or if you require any further information you can contact the Data Protection Officer at [\[email protected\]](https://www.energia.ie/cdn-cgi/l/email-protection#removed) or by writing to the :
 
 *   Data Protection Officer, The Liberty Centre, Blanchardstown Retail Park, Dublin 15, D15 YT2H.
 
