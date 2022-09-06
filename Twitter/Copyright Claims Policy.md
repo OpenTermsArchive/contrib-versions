@@ -131,9 +131,11 @@ We cannot offer any legal advice. Should you have questions, please consult an a
 
 Please think twice before submitting a claim or counter-notice, especially if you are unsure whether you are the actual rights holder or authorized to act on a rights holder’s behalf. There are legal and financial consequences for fraudulent and/or bad faith submissions. Please be sure that you are the actual rights holder, or that you have a good faith belief that the material was removed in error, and that you understand the repercussions of submitting a false claim.
 
-#### What happens if my account receives multiple copyright complaints?
+#### What happens if my account receives one or more copyright complaints?
 
-If multiple copyright complaints are received about an account, or other evidence suggests a pattern of repeat infringement, Twitter may suspend that account in accordance with our Repeat Infringer Policy. Users may file a suspension appeal using [this form](https://help.twitter.com/forms/general?subtopic=suspended). Our Repeat Infringer Policy will take valid retractions and counter-notices into account.
+If multiple copyright complaints are received about an account, or other evidence suggests a pattern of repeat infringement, Twitter may suspend that account in accordance with our Repeat Infringer Policy. Our Repeat Infringer Policy takes valid retractions and counter-notices into account. Users suspended under that policy may file a suspension appeal using [this form](https://help.twitter.com/forms/general?subtopic=suspended).
+
+Additionally, re-posting material that was already removed in response to a copyright complaint, indicating where to access copyrighted material on third party websites, or certain other actions that demonstrate your account is intended solely or primarily to infringe the copyrighted material of others may result in permanent account suspension. If you are suspended on this basis, you may file an appeal using [this form](https://help.twitter.com/forms/general?subtopic=suspended). Please be aware that appealing a suspension does not guarantee your account will be reinstated.
 
  ![](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 530 86%22%3E%3C/svg%3E) 
 
