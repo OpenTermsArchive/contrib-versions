@@ -52,6 +52,25 @@ Copyrighted material
 
 Value Impression publishers may not display Value Impression ads on webpages with content protected by copyright law unless they have the necessary legal rights to display that content. Please see a DCMA policy for further information on this subject.
 
+Sanctions Policy
+----------------
+
+As a Company, we are committed to carrying on business in accordance with the highest ethical standards. This includes complying with all applicable trade sanctions regulations (“Sanctions Laws”) in the countries in which we operate
+
+The Company, the Board of Directors and its management are committed to complying with all laws. Any employee who violates the rules in this Policy or who permits anyone to violate those rules mat be subject to disciplinary action, up to and including dismissal and may be subject to personal civil or criminal fines.
+
+It is the Company’s policy to comply with all Sanctions Laws in our operations worldwide. To this end, the Company will comply with all economic and trade sanctions applicable to our business activities.
+
+In order to ensure to comply with all Sanctions Laws, Valueimpression has a Sanctions Policy that define the minimum standards including:
+
+Screening customers according to the sanctions lists issued by the UN, the EU, the US (including the Office of Foreign Asset Control of the US (OFAC)) and all applicable local regulatory sanctions lists in the jurisdictions in which Valueimpression operate.
+
+Prohibiting or restricting all business activities and customer relationships that we believe may violate the applicable sanctions laws.
+
+Valueimpression may further investigate into whether a particular transaction or relationship may present a potential economic trade sanctions regulatory issue. All employees shall look for any red flags or suspicions that may indicate the direct or indirect involvement of a restricted territory, restricted party, controlled item, service, end-use or any other sanctions compliance concern.
+
+This policy is owned by Valueimpression. It is subject to review and update from time to time and any updates shall be added to the Company Handbook and/or the Intranet.
+
 Traffic sources
 ---------------
 
