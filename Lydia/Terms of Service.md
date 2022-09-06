@@ -1,1 +1,1 @@
-![Lydia](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)![Lydia](https://www.lydia-app.com/wp-content/uploads/2021/06/logo-white.svg)
+![Lydia](https://www.lydia-app.com/wp-content/uploads/2021/06/logo-white.svg)
