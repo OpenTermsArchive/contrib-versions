@@ -7,13 +7,13 @@ Last Revised: July 11, 2022
 Starbucks Privacy Statement
 ---------------------------
 
-**Overview**
+### Overview
 
 This Starbucks Privacy Statement describes the types of personal information that we collect, how we use it, how and when it may be shared, and the rights and choices you have with respect to your information. It also explains how we communicate with you and how you can make requests or submit inquiries to us about your information. Our goal is to help you understand how we use your information to improve our products, services, marketing, and interactions with you, as part of our commitment to maintaining your trust. Thank you for taking the time to read and understand our data and privacy related practices.
 
 This Privacy Statement, as well as our [Terms of Use](https://www.starbucks.com/about-us/company-information/online-policies/terms-of-use) and other important policies, are available on our [Online Policies](https://www.starbucks.com/terms/online-policies/) page. **If you do not agree with our Terms of Use or this Privacy Statement, please discontinue use of our websites and mobile applications immediately**.
 
-**Contents**
+### Contents
 
 You may skip to the specific sections of our Privacy Statement by selecting any of the sections listed below.
 
@@ -53,7 +53,7 @@ As you use our websites and mobile applications or visit one of our stores, we c
 
 Some examples of when we collect this information include when you browse or make a purchase on one of our websites or mobile application; create a Starbucks account; use our website or mobile application to purchase, reload or redeem a Starbucks Card; use the order and pay functionality in our mobile applications; buy or send a gift card or e-gift; or participate in a survey or promotion.
 
-**(a) Information You Voluntarily Provide Us**
+### (a) Information You Voluntarily Provide Us
 
 Some information we collect is provided when you use our services, such as when you create an account, add a Stored Value Starbucks Card, or join Starbucks Rewards loyalty program; pay for products; book a Starbucks Roastery tour; or submit online forms through our websites or mobile applications.
 
@@ -63,7 +63,7 @@ You may also choose to permit us to access information directly from your device
 
 You may also in some instances provide us information about other people, such as name, phone number and email address, including when you direct us to send someone a gift card or e-gift.
 
-**(b) Information We Collect Automatically**
+### (b) Information We Collect Automatically
 
 **Purchasing Information** – We may collect information about your transactions in our stores, on our websites or via our Starbucks mobile applications including what products you purchase, how frequently you purchase them, any Rewards or promotions associated with a purchase, and the products you have placed on your “Wishlist" or “My Bag" for future purchase.
 
@@ -77,7 +77,7 @@ We collect this location information or derive it from your GPS, WiFi, Bluetooth
 
 We may also use information about the location of the device you are using to help us understand how our websites, mobile applications, and other services and functionality are being used, or to deliver more relevant advertising or personalized experiences for you, including tailored marketing offers or messages based on your location or related context such as the time of day or weather. If you want to opt out of the collection of this location information, please see the section below titled [Your Choices](#your_choices). To learn more about our mobile-based location services, please see the [Starbucks Mobile Applications](#starbucks_mobile_applications) section below.
 
-**(c) Information We Collect from Other Sources**
+### (c) Information We Collect from Other Sources
 
 Some information we collect is from unaffiliated sources, including in some cases information that is publicly available, provided by or purchased from marketing business partners, or present on social media platforms.
 
@@ -89,7 +89,9 @@ We use your information for business and commercial purposes, including to provi
 
 We may use the information we collect about you in a variety of ways, including to:
 
-**(a) To Provide Our Services.** We process certain personal information when you access or use our services, including to:
+### (a) To Provide Our Services.
+
+We process certain personal information when you access or use our services, including to:
 
 *   process your purchases of, or requests for, products and services;
 *   register and verify user accounts;
@@ -98,7 +100,9 @@ We may use the information we collect about you in a variety of ways, including 
 *   facilitate the functionality of our websites and mobile applications, including payment-related functionality; and
 *   customize experiences and personalization when you are in and around our stores, if you have given permission for location sharing.
 
-**(b) To Communicate With You.** We process certain information in order to communicate with you in relation to your accounts, our services, our marketing, and your requests, including to:
+### (b) To Communicate With You.
+
+We process certain information in order to communicate with you in relation to your accounts, our services, our marketing, and your requests, including to:
 
 *   communicate with you about orders, purchases, returns, services, accounts, programs, contests, and sweepstakes;
 *   respond to your customer service inquiries and requests for information;
@@ -108,19 +112,27 @@ We may use the information we collect about you in a variety of ways, including 
 *   implement your communications preferences, such as sharing information with Starbucks business partners so that they may email you about their promotions, products and initiatives; and
 *   provide important product safety information and notice of product recalls.
 
-**(c) For Research, Development, and Improvement of Our Services.** We want to ensure that our website, mobile applications, and services are continually improving and expanding so that we meet and exceed your needs and expectations. To do so, we may process certain personal information, including to:
+### (c) For Research, Development, and Improvement of Our Services.
+
+We want to ensure that our website, mobile applications, and services are continually improving and expanding so that we meet and exceed your needs and expectations. To do so, we may process certain personal information, including to:
 
 *   maintain, improve, and analyze our websites, mobile applications, ads, and the products and services we offer; and
 *   detect, prevent, or investigate suspicious activity or fraud.
 
-**(d) To Enforce our Terms, Agreements, or Policies.** To maintain a safe, secure, and trusted environment for you when you use our websites, mobile applications, and other services, we use your personal information to ensure our terms, policies, and agreements with you and any third parties are enforced.
+### (d) To Enforce our Terms, Agreements, or Policies.
 
-**(e) To Comply with Applicable Laws.** We may be required to process certain personal information under certain laws and regulations, such as tax laws, as well as to:
+To maintain a safe, secure, and trusted environment for you when you use our websites, mobile applications, and other services, we use your personal information to ensure our terms, policies, and agreements with you and any third parties are enforced.
+
+### (e) To Comply with Applicable Laws.
+
+We may be required to process certain personal information under certain laws and regulations, such as tax laws, as well as to:
 
 *   maintain appropriate records for internal administrative purposes; and
 *   comply with applicable legal and regulatory obligations, and respond to lawful governmental requests, as needed.
 
-**(f) With Your Consent.** We may process certain personal information in order to fulfill any other business or commercial purposes at your direction or with your consent.
+### (f) With Your Consent.
+
+We may process certain personal information in order to fulfill any other business or commercial purposes at your direction or with your consent.
 
 ### 5\. How We Share Your Information
 
@@ -128,21 +140,14 @@ We share your information as needed to fulfill the purposes described in this Pr
 
 We may share your information in the following circumstances:
 
-**(a) When We Work Together** – We may share information between and among Starbucks Corporation, its subsidiaries, and affiliated companies for purposes of management and analysis, decision making, and other business purposes. For example, we may share your information with our subsidiaries and affiliated companies to administer our loyalty programs, process orders and requests, and expand and promote our product and service offerings.
-
-**(b) When We Work with Service Providers** – We may share your information with service providers that provide us with support services, such as credit card processing, website hosting, email and postal delivery, location mapping, product and service delivery, analytics services, or conducting academic research. We strive to contractually prohibit these service providers from retaining, using, or disclosing your confidential personal information for any purpose other than performing agreed upon services for us.
-
-**(c) When We Work on Business Transactions** – If we become involved with a merger, corporate transaction or another situation involving the transfer of some or all of our business assets, we may share your information with business entities or people involved in the negotiation or transfer.
-
-**(d) When Sharing Helps Us Protect Safety and Lawful Interests** – We may disclose your information if we believe that the disclosure is required by law, if we believe that the disclosure is necessary to enforce our agreements or policies, or if we believe that the disclosure will help us protect the rights, property, or safety of Starbucks or our customers or partners.
-
-**(e) When We Work with Marketing Service Providers** – We may share your information with marketing service providers to assess, develop and provide you with promotions and special offers that may interest you, administer contests, sweepstakes and events or for other promotional purposes.
-
-**(f) When You Give Consent** – We may share information about you with other companies if you give us permission or direct us to share the information.
-
-**(g) When the Information Does Not Identify You** – We may share your information in a way that does not directly identify you. For example, we may share information about your use of our websites and mobile applications in a manner that does not identify you, or we may combine information about the nature or frequency of your transactions with similar information about other people and share the aggregated information for statistical analysis and other business purposes.
-
-**(h) When You Post on Our Websites** – If you post information on a blog or another part of our websites, the information that you post may be seen by other visitors to our websites, including your user name.
+*   **(a) When We Work Together** – We may share information between and among Starbucks Corporation, its subsidiaries, and affiliated companies for purposes of management and analysis, decision making, and other business purposes. For example, we may share your information with our subsidiaries and affiliated companies to administer our loyalty programs, process orders and requests, and expand and promote our product and service offerings.
+*   **(b) When We Work with Service Providers** – We may share your information with service providers that provide us with support services, such as credit card processing, website hosting, email and postal delivery, location mapping, product and service delivery, analytics services, or conducting academic research. We strive to contractually prohibit these service providers from retaining, using, or disclosing your confidential personal information for any purpose other than performing agreed upon services for us.
+*   **(c) When We Work on Business Transactions** – If we become involved with a merger, corporate transaction or another situation involving the transfer of some or all of our business assets, we may share your information with business entities or people involved in the negotiation or transfer.
+*   **(d) When Sharing Helps Us Protect Safety and Lawful Interests** – We may disclose your information if we believe that the disclosure is required by law, if we believe that the disclosure is necessary to enforce our agreements or policies, or if we believe that the disclosure will help us protect the rights, property, or safety of Starbucks or our customers or partners.
+*   **(e) When We Work with Marketing Service Providers** – We may share your information with marketing service providers to assess, develop and provide you with promotions and special offers that may interest you, administer contests, sweepstakes and events or for other promotional purposes.
+*   **(f) When You Give Consent** – We may share information about you with other companies if you give us permission or direct us to share the information.
+*   **(g) When the Information Does Not Identify You** – We may share your information in a way that does not directly identify you. For example, we may share information about your use of our websites and mobile applications in a manner that does not identify you, or we may combine information about the nature or frequency of your transactions with similar information about other people and share the aggregated information for statistical analysis and other business purposes.
+*   **(h) When You Post on Our Websites** – If you post information on a blog or another part of our websites, the information that you post may be seen by other visitors to our websites, including your user name.
 
 ### 6\. How We May Allow Others to Collect Your Information
 
@@ -150,13 +155,10 @@ When you use our websites or mobile applications, we may allow third parties to 
 
 These third parties collect this information for the following purposes and for other purposes consistent with their own privacy policies:
 
-**To Display Ads for Products or Services** – We allow some advertising companies to collect this information in order to display ads that are more relevant to you across your different devices and on our own and others’ websites and mobile apps. Please see the [Your Choices](#your_choices) section of this Statement for more information about opting out of targeted advertising and controlling the use of [cookies, web beacons and other similar technologies](#cookies_web_beacons_and_similar_technologies).
-
-**To Understand the Use of Our Services** – We allow certain service providers to collect this information to help us understand how our websites and mobile applications are used and to assist us in improving the content and operation of our online properties (e.g., compiling analytics and measuring user engagement with a particular website or feature through A/B testing). These service providers collect aggregate statistical usage data that is not matched or linked to any individual user.
-
-**To Make the Services of Other Companies Work on Our Websites** – We allow companies to use [cookies, web beacons, and other similar technologies](#cookies_web_beacons_and_similar_technologies) to enhance the operations of particular services and functionality of our websites and mobile applications. For example, we allow Adobe to set and enable special cookies that are necessary to deliver video content for Adobe Flash Player. These cookies are called Flash cookies. To manage Flash cookies, see the “Your Choices” section below.
-
-**To Link Your Activity on Our Websites to Your Social Networks** – We have added certain features to our websites and mobile applications that allow social networks (such as Facebook and Twitter) to track the activities of their members or collect certain information when they use our website or mobile applications. These features may include technologies called "plug-ins" and "widgets." Plug-ins create a direct link between two websites, and widgets are interactive mini-programs that provide other companies’ services on our websites. If you are concerned about the way a social network is tracking your activity, please contact the social network or review its privacy policy. For example, you can review Facebook’s data-use policy at [https://www.facebook.com/about/privacy/](https://www.facebook.com/about/privacy/).
+*   **To Display Ads for Products or Services** – We allow some advertising companies to collect this information in order to display ads that are more relevant to you across your different devices and on our own and others’ websites and mobile apps. Please see the [Your Choices](#your_choices) section of this Statement for more information about opting out of targeted advertising and controlling the use of [cookies, web beacons and other similar technologies](#cookies_web_beacons_and_similar_technologies).
+*   **To Understand the Use of Our Services** – We allow certain service providers to collect this information to help us understand how our websites and mobile applications are used and to assist us in improving the content and operation of our online properties (e.g., compiling analytics and measuring user engagement with a particular website or feature through A/B testing). These service providers collect aggregate statistical usage data that is not matched or linked to any individual user.
+*   **To Make the Services of Other Companies Work on Our Websites** – We allow companies to use [cookies, web beacons, and other similar technologies](#cookies_web_beacons_and_similar_technologies) to enhance the operations of particular services and functionality of our websites and mobile applications. For example, we allow Adobe to set and enable special cookies that are necessary to deliver video content for Adobe Flash Player. These cookies are called Flash cookies. To manage Flash cookies, see the “Your Choices” section below.
+*   **To Link Your Activity on Our Websites to Your Social Networks** – We have added certain features to our websites and mobile applications that allow social networks (such as Facebook and Twitter) to track the activities of their members or collect certain information when they use our website or mobile applications. These features may include technologies called "plug-ins" and "widgets." Plug-ins create a direct link between two websites, and widgets are interactive mini-programs that provide other companies’ services on our websites. If you are concerned about the way a social network is tracking your activity, please contact the social network or review its privacy policy. For example, you can review Facebook’s data-use policy at [https://www.facebook.com/about/privacy/](https://www.facebook.com/about/privacy/).
 
 ### 7\. Cookies, Web Beacons and Similar Technologies
 
@@ -214,7 +216,7 @@ As described further below, certain optional information may also be shared with
 *   location-based information, such as through GPS, Bluetooth-enabled iBeacons, or other location-based technology to enhance the user experience so that you may order ahead, receive directions, and see what is available at nearby stores; and
 *   the day and month of your birthday, so that we may recognize you on your special day (we don’t ask for your birth year for this).
 
-**Controlling Application Functionality**
+### Controlling Application Functionality
 
 **Location Services** - In order to use certain Application functionality, such as MOP and location-based services and technology, you must either (a) enable “location services” in the Application; and/or (b) set the permissions in your mobile device to allow communication of this information. More information about adjusting location services on iOS devices may be found [here](https://support.apple.com/en-us/HT207092), and additional information on managing an Android device’s location settings may be found [here](https://support.google.com/accounts/answer/3467281?hl=en).
 
@@ -226,11 +228,11 @@ If you use such Application functionality, including location services and voice
 
 **eGifts** - If you choose to use Application functionality that allows you to send messages or eGifts to third parties, you must first obtain their permission to provide their personal information, such as their name, phone number or email address, to Starbucks. The referred information will be used by Starbucks for the purpose of contacting the third party, on your behalf, to carry out the requested functionality, for example, by emailing an eGift. Although you may enter the recipient’s contact information into the Application, you also have the option to provide the recipient’s contact information by granting Starbucks permission to access your device’s contacts.
 
-**User Responsibility**
+### User Responsibility
 
 You are solely responsible for maintenance of the confidentiality and security of any User Information which you transmit from or store on a Device for purposes of the Application, including Mobile Payment, MOP and Voice Ordering, and for all transactions and other activities undertaken with any Starbucks Card registered in the your name, whether authorized or unauthorized. You agree to immediately notify Starbucks of any unauthorized transactions associated with the Application including Mobile Payment, MOP, Voice Ordering, or any other breach of security. Starbucks shall not be responsible for any losses arising out of the loss or theft of User Information which you transmit from or store on a Device or from unauthorized or fraudulent transactions associated with the Application.
 
-**Email Communications, Push Notifications, and In-App Messages**
+### Email Communications, Push Notifications, and In-App Messages
 
 The Application allows all users to set preferences for receiving promotional email communications from Starbucks, receiving push notifications on your device, and receiving inbox messages. Please note as well that you may opt-out of receiving email communications at any time by adjusting your Starbucks online account settings as described in the **How to Manage Your Account Settings** section below, or by clicking the “unsubscribe” link included within any commercial email we send you.
 
@@ -238,25 +240,35 @@ The Application allows all users to set preferences for receiving promotional em
 
 You have control over your promotional communications preferences, mobile application functionality, cookie settings, interest-based advertising preferences, Flash cookies, and more.
 
-**Promotional Communication Choices**
+### Promotional Communication Choices
 
 You can opt out of receiving promotional emails and mailings by informing us of your preference at the time you sign up for a Starbucks account, by modifying your promotional preferences online in your account’s profile management section, or by following the “unsubscribe” instructions in the promotional emails we send you. Similarly, you may opt in to receive text messages, telephone calls and mailings. Please note that if you opt out of receiving promotional communications from us, we may still send you transactional communications, including emails about your Starbucks accounts or purchases.
 
-**Mobile Functionality** – As described in the [Starbucks Mobile Applications](#starbucks_mobile_applications) section above, location services, push notifications, and voice transmissions may be adjusted or disabled within your device settings.
+#### Mobile Functionality
 
-**Cookies, Web Beacons and Similar Technologies** – You may be able to reject cookies, web beacons, entity tags and HTML5 local storage by adjusting the appropriate settings in your browser. Each browser is different, but many browsers have preferences or options that may be adjusted to allow you to either accept or reject cookies and certain other technologies before they are set or installed, or allow you to remove or reject the use or installation of certain technologies altogether. If you want to learn the correct way to modify your browser settings, please use the Help menu in your browser or review the instructions provided by the following browsers: [Internet Explorer](https://support.microsoft.com/en-us/kb/260971), [Google Chrome](https://support.google.com/chrome/answer/95647?hl=en-GB), [Mozilla Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer), [Safari Desktop](https://support.apple.com/en-us/guide/safari/manage-cookies-and-website-data-sfri11471/mac), [Safari Mobile](https://support.apple.com/en-us/HT201265); and [Android browser](http://support.google.com/ics/nexus/bin/answer.py?hl=en&answer=2425067).
+As described in the [Starbucks Mobile Applications](#starbucks_mobile_applications) section above, location services, push notifications, and voice transmissions may be adjusted or disabled within your device settings.
+
+#### Cookies, Web Beacons and Similar Technologies
+
+You may be able to reject cookies, web beacons, entity tags and HTML5 local storage by adjusting the appropriate settings in your browser. Each browser is different, but many browsers have preferences or options that may be adjusted to allow you to either accept or reject cookies and certain other technologies before they are set or installed, or allow you to remove or reject the use or installation of certain technologies altogether. If you want to learn the correct way to modify your browser settings, please use the Help menu in your browser or review the instructions provided by the following browsers: [Internet Explorer](https://support.microsoft.com/en-us/kb/260971), [Google Chrome](https://support.google.com/chrome/answer/95647?hl=en-GB), [Mozilla Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer), [Safari Desktop](https://support.apple.com/en-us/guide/safari/manage-cookies-and-website-data-sfri11471/mac), [Safari Mobile](https://support.apple.com/en-us/HT201265); and [Android browser](http://support.google.com/ics/nexus/bin/answer.py?hl=en&answer=2425067).
 
 For more information on how to opt-out of tracking technology from Google Analytics, click [here](https://tools.google.com/dlpage/gaoptout?hl=en).
 
-**Interest-Based Ads** – Many advertising companies that collect information for interest-based advertising are members of the Digital Advertising Alliance (DAA) or the Network Advertising Initiative (NAI), both of which maintain websites where people can opt out of interest-based advertising from their members. To opt-out of website interest-based advertising provided by each organization’s respective participating companies, visit the DAA’s opt-out portal available at [http://optout.aboutads.info/](http://optout.aboutads.info/), the DAA of Canada’s opt-out portal available at [https://youradchoices.ca/en/tools](https://youradchoices.ca/en/tools), or visit the NAI’s opt-out portal available at [http://optout.networkadvertising.org/?c=1](http://optout.networkadvertising.org/?c=1)..
+#### Interest-Based Ads
+
+Many advertising companies that collect information for interest-based advertising are members of the Digital Advertising Alliance (DAA) or the Network Advertising Initiative (NAI), both of which maintain websites where people can opt out of interest-based advertising from their members. To opt-out of website interest-based advertising provided by each organization’s respective participating companies, visit the DAA’s opt-out portal available at [http://optout.aboutads.info/](http://optout.aboutads.info/), the DAA of Canada’s opt-out portal available at [https://youradchoices.ca/en/tools](https://youradchoices.ca/en/tools), or visit the NAI’s opt-out portal available at [http://optout.networkadvertising.org/?c=1](http://optout.networkadvertising.org/?c=1)..
 
 Residents of the European Union may opt-out of online behavioral advertising served by the European Interactive Digital Advertising Alliance’s participating member organizations by visiting [https://www.youronlinechoices.eu/](https://www.youronlinechoices.eu/).
 
 To opt-out of data collection for interest-based advertising across mobile applications by participating companies, download the DAA’s AppChoices mobile application opt-out offering here: [https://youradchoices.com/appchoices](https://youradchoices.com/appchoices).
 
-**Adobe Flash Player Technology** – We allow Adobe to set and enable special cookies that are necessary to deliver video content for Adobe Flash Player. You cannot remove Flash cookies simply by changing your browser settings. If you would like to limit the websites that can store information in Flash cookies on your device, you must visit the Adobe website: [http://www.macromedia.com/support/documentation/en/flashplayer/help/settings\_manager07.html](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
+#### Adobe Flash Player Technology
 
-**"Do Not Track" Technology** – Some newer web browsers have a "Do Not Track" preference that transmits a "Do Not Track" header to the websites you visit with information indicating that you do not want your activity to be tracked. We currently do not respond to browser "Do Not Track" signals, as there is no standard for how online services should respond to such signals. As standards develop, we may develop policies for responding to do-not-track signals that we will describe in this Privacy Statement.
+We allow Adobe to set and enable special cookies that are necessary to deliver video content for Adobe Flash Player. You cannot remove Flash cookies simply by changing your browser settings. If you would like to limit the websites that can store information in Flash cookies on your device, you must visit the Adobe website: [http://www.macromedia.com/support/documentation/en/flashplayer/help/settings\_manager07.html](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
+
+#### "Do Not Track" Technology
+
+Some newer web browsers have a "Do Not Track" preference that transmits a "Do Not Track" header to the websites you visit with information indicating that you do not want your activity to be tracked. We currently do not respond to browser "Do Not Track" signals, as there is no standard for how online services should respond to such signals. As standards develop, we may develop policies for responding to do-not-track signals that we will describe in this Privacy Statement.
 
 ### 10\. How to Manage Your Account Information and Your Privacy Rights
 
@@ -323,9 +335,11 @@ In the preceding twelve months we may have disclosed these categories of persona
 
 In addition to the [Your Choices](#your_choices) section above’s description for opting out of interest-based advertising and controlling browser settings, California consumers may also use the Digital Advertising Alliance’s tool to send requests under the CCPA for a web browser to opt out of the sale of personal information by some or all of that framework’s participating companies by accessing the DAA’s tool here: [https://www.privacyrights.info/](https://www.privacyrights.info/), or by downloading the DAA’s AppChoices mobile application opt-out here: [https://www.privacyrights.info/appchoices](https://www.privacyrights.info/appchoices).
 
-**Your Rights**
+### Your Rights
 
-**Access to Specific Information and Data Portability Rights** – Subject to certain exceptions, if you are a California resident you have the right to request a copy of the personal information that we collected about you during the 12 months before your request. Once we receive your request and verify your identity, we will disclose to you:
+#### Access to Specific Information and Data Portability Rights
+
+Subject to certain exceptions, if you are a California resident you have the right to request a copy of the personal information that we collected about you during the 12 months before your request. Once we receive your request and verify your identity, we will disclose to you:
 
 *   The categories of personal information we have collected about you;
 *   The categories of sources for the personal information we have collected about you;
@@ -333,24 +347,38 @@ In addition to the [Your Choices](#your_choices) section above’s description f
 *   The categories of third parties with whom we share that personal information;
 *   The specific pieces of personal information we collected about you;
 
-**Deletion Request Rights** – You have the right to request that we delete any of your personal information that we collected from you and retained, subject to certain exceptions.
+#### Deletion Request Rights
 
-**Opting Out** – As described in “How We Sell Your Information” above, California residents have the right to opt-out of having their personal information sold.
+You have the right to request that we delete any of your personal information that we collected from you and retained, subject to certain exceptions.
 
-**Non-Discrimination** – California residents may not receive discriminatory treatment by the business for exercising your CCPA rights.
+#### Opting Out
 
-**Exercising Access, Data Portability, and Deletion Rights** – To exercise the access, data portability, and deletion rights described above as a California resident, please submit a verifiable consumer request to us by either:
+As described in “How We Sell Your Information” above, California residents have the right to opt-out of having their personal information sold.
+
+#### Non-Discrimination
+
+California residents may not receive discriminatory treatment by the business for exercising your CCPA rights.
+
+#### Exercising Access, Data Portability, and Deletion Rights
+
+To exercise the access, data portability, and deletion rights described above as a California resident, please submit a verifiable consumer request to us by either:
 
 Phone: 1-800-STARBUC (782-7282); or by submitting this [form](https://privacyportal-cdn.onetrust.com/dsarwebform/f9975fc5-c93f-4ff8-8169-846d8f6cd4d2/dd7e8c8f-839f-4be3-9ebc-060786941e92.html). Please note that in order to verify your request, we may require you to verify personal information that we already have on file for you or to provide additional information.
 
-**Use of an Authorized Agent to Submit a Request** – Only you or a person you formally authorize to act on your behalf, may make a verifiable consumer request related to your personal information as a California consumer. If you use an authorized agent to submit such a request, we will require written proof that the authorized agent has been authorized to act on your behalf or a copy of the power-of-attorney document granting that right.
+#### Use of an Authorized Agent to Submit a Request
 
-**Direct Marketing** – If you are a California resident, you can request a notice disclosing the categories of personal information we have shared with third parties for the third parties’ direct marketing purposes. To request a notice, please submit your request by postal mail to:
+Only you or a person you formally authorize to act on your behalf, may make a verifiable consumer request related to your personal information as a California consumer. If you use an authorized agent to submit such a request, we will require written proof that the authorized agent has been authorized to act on your behalf or a copy of the power-of-attorney document granting that right.
+
+#### Direct Marketing
+
+If you are a California resident, you can request a notice disclosing the categories of personal information we have shared with third parties for the third parties’ direct marketing purposes. To request a notice, please submit your request by postal mail to:
 
 Starbucks Customer Service  
 Starbucks, P.O. Box 20430, Augusta, GA 30916
 
-**Privacy Rights Metrics** (January 2021 – December 2021) – Includes requests from the United States and Canada:
+#### Privacy Rights Metrics (January 2021 – December 2021)
+
+Includes requests from the United States and Canada:
 
 Right to Know
 
@@ -368,7 +396,9 @@ Right to Delete
 
 \*Requests may be unable to be completed due to factors such as inability to verify the customer, duplicate requests, or no information is found
 
-**Notice of Financial Incentive** – Starbucks Rewards is one way in which Starbucks endeavors to reward and thank loyal customers for patronizing our business and purchasing Starbucks products. Starbucks Rewards members opt in by signing up for Rewards online or through the Starbucks App and are able to earn and accumulate "Stars" that can be redeemed for Starbucks Rewards benefits at participating Starbucks stores. Starbucks collects and uses the personal information described above, including information you voluntarily provide us (such as your name and email), information we collect automatically, and information from other sources to operate the Starbucks Rewards program, including to send you promotions, content, and special offers and the other uses described in this Privacy Statement. Starbucks does not assign monetary value for the information we collect through the Starbucks Rewards program when sending email communications. You may opt out of receiving commercial email communications at any time by adjusting your Starbucks online account settings as described in How to Manage Your Account Settings, or by clicking the “unsubscribe” link included within any commercial email we send you. Participation in Starbucks Rewards is voluntary, and you may withdraw from the Starbucks Rewards program by visiting the Account section in the Starbucks iOS App, by requesting deletion of your information by filling out this form, or by calling Starbucks customer service. Based on our reasonable and good faith estimate, we receive value from Starbucks Rewards in increased customer loyalty and patronage, though any value will vary by Starbucks Rewards member depending on purchases made, which offers a member takes advantage of, and many other factors.
+#### Notice of Financial Incentive
+
+Starbucks Rewards is one way in which Starbucks endeavors to reward and thank loyal customers for patronizing our business and purchasing Starbucks products. Starbucks Rewards members opt in by signing up for Rewards online or through the Starbucks App and are able to earn and accumulate "Stars" that can be redeemed for Starbucks Rewards benefits at participating Starbucks stores. Starbucks collects and uses the personal information described above, including information you voluntarily provide us (such as your name and email), information we collect automatically, and information from other sources to operate the Starbucks Rewards program, including to send you promotions, content, and special offers and the other uses described in this Privacy Statement. Starbucks does not assign monetary value for the information we collect through the Starbucks Rewards program when sending email communications. You may opt out of receiving commercial email communications at any time by adjusting your Starbucks online account settings as described in How to Manage Your Account Settings, or by clicking the “unsubscribe” link included within any commercial email we send you. Participation in Starbucks Rewards is voluntary, and you may withdraw from the Starbucks Rewards program by visiting the Account section in the Starbucks iOS App, by requesting deletion of your information by filling out this form, or by calling Starbucks customer service. Based on our reasonable and good faith estimate, we receive value from Starbucks Rewards in increased customer loyalty and patronage, though any value will vary by Starbucks Rewards member depending on purchases made, which offers a member takes advantage of, and many other factors.
 
 ### 17\. Additional Disclosures for Data Subjects in the EEA, the U.K., and Switzerland
 
