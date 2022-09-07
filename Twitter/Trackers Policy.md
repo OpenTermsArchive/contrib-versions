@@ -1,7 +1,7 @@
 How cookies are used on Twitter
 ===============================
 
-Cookies and similar technologies like pixels and local storage provide you with a better, faster, and safer experience on Twitter. Cookies are also used to operate our services, which include our websites, applications, APIs, pixels, embeds, and email communications. Specifically, Twitter uses these technologies to:
+Cookies and similar technologies like pixels and local storage provide you with a better, faster, and safer experience on Twitter. Cookies are also used to operate our services, which include our websites, applications, APIs, pixels, email communications, and Twitter content (like Tweets, Tweet and follow buttons, and embedded timelines). Specifically, Twitter uses these technologies to:
 
 *   Keep you logged in to Twitter.
 *   Deliver features and functionality of Twitter services.
@@ -29,7 +29,7 @@ What are cookies, pixels, and local storage?
 
 **Cookies** are small files placed on your computer as you browse the web or use a web-enabled app. We use cookies to operate our services, discover how people use our services, understand how to make them work better and more. See above for more examples of how we use cookies. 
 
-**Pixels** are small amounts of code placed on a web page, in a web-enabled app, or an email. We use pixels, some of which we provide to advertisers to place on their web properties, to learn whether you've interacted with specific web or email content — as many services do. This helps us measure and improve our services and personalize your experience, including the ads and content you see.
+**Pixels** are small amounts of code placed on a web page, in a web-enabled app, or an email. We use pixels, some of which we provide to advertisers to place on their web properties, to learn whether you've interacted with specific web or email content — as many services do. This helps us measure and improve our services and personalize your experience, including the ads you see.
 
 We use **local storage** to save data on your computer or mobile device. We use data from local storage to turn on web navigation, maintain video player preferences, customize what we show you based on your past interactions with our services, remember your preferences, and measure ad effectiveness. We may also use local storage on other websites, where necessary to provide you certain features, to obtain information about your visits to those sites.
 
@@ -67,7 +67,7 @@ Cookies, pixels, and local storage work to operate and support our business, and
 
 *   Improve and understand how people use our services, including buttons and widgets.
 *   Optimize your experience by understanding how you interact with our services, like when and how often you use them and what links you visit, and from where. (We may use [Google Analytics](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage) to help us with this.) 
-*   Count the number of people who have seen a particular Tweet, embedded Tweets, buttons, or timeline. [Learn more](https://developer.twitter.com/en/docs/twitter-for-websites/privacy).
+*   Count the number of people who have seen particular Twitter content, like embedded Tweets, buttons, or timelines on other websites. [Learn more](https://developer.twitter.com/en/docs/twitter-for-websites/privacy).
 
 **Research and development**
 
@@ -98,22 +98,18 @@ To see more about the devices and web browsers associated with your Twitter acco
 
 ### Where are these technologies used?
 
-We (along with third parties) use these technologies on Twitter services, which includes our websites, applications, and services and on other websites, applications, and services that have integrated Twitter services, including third-party properties that incorporate our advertising technology. This includes our ad partners’ websites and sites that use our embeds, including embedded timelines. Third parties may also use these technologies, for example, when you click on links from Twitter services, view or interact with third-party content in Twitter services, or visit third-party websites that incorporate our advertising technology.
+We (along with third parties) use these technologies on Twitter services, which includes our websites, applications, and services and on other websites, applications, and services that have integrated Twitter services, including third-party properties that incorporate our advertising technology. This includes our ad partners’ websites and sites that display Twitter content, like embedded Tweets, embedded timelines, Tweet buttons, and follow buttons. Third parties may also use these technologies, for example, when you click on links from Twitter services, view or interact with third-party content in Twitter services, or visit third-party websites that incorporate our advertising technology.
 
 ### What are my privacy options? 
 
 We're committed to giving you meaningful privacy options to control or limit how we, our partners, and other third-parties use cookies and cookie-related data:
 
-Twitter [stores information](https://help.twitter.com/en/using-twitter/tailored-suggestions.html) about other websites where you've seen Twitter content or accessed our services. For most Twitter features you can adjust this by going to: _Settings and privacy > Privacy and safety > Off-Twitter activity > Allow use of where you see Twitter content across the web_. However, for certain paid subscription features, even if you make this adjustment we will still store certain information where doing so is necessary for that feature to work. We will tell you about this storage when you sign up for these features.  
-
-If you’ve turned this off, or are in the EU,  Iceland, Liechtenstein, Norway or Switzerland, we won't store or use these web page visits to improve your experience in the future. However, if we've previously stored your web browsing history, we may continue to personalize your experience based on information we've already learned from that history.
-
-You will always see ads on Twitter based on your Twitter activity. There are a variety of ways you can adjust the way Twitter uses your data for ads. You can use the following tools:
+You will always see ads on Twitter based on your Twitter activity. There are a variety of ways you can adjust the way Twitter uses your data for ads. You can use the following tools:  
 
 *   **Personalized ads setting in Twitter  
-    **Adjust your setting for use of off-Twitter data by going to _Settings and privacy > Privacy and safety > Ads preferences > Personalized ads_.
+    **Adjust your setting for use of off-Twitter data for personalized ads by going to _Settings and privacy > Privacy and safety > Ads preferences > Personalized ads_.
 *   **Interest-based advertising for web  
-    **Opt-out in your current browser through the Digital Advertising Alliance's consumer choice tool at [optout.aboutads.info](https://optout.aboutads.info/?c=2&lang=EN).
+    **Opt out in your current browser through the Digital Advertising Alliance's consumer choice tool at [optout.aboutads.info](https://optout.aboutads.info/?c=2&lang=EN).
 *   **Limit ad tracking for iOS version 13 and earlier**  
     Turn on this setting through your iOS device settings (precise instructions vary by version). 
 *   **Ads personalization for Android**  
@@ -121,7 +117,7 @@ You will always see ads on Twitter based on your Twitter activity. There are a v
 *   **Allow apps to request to track for iOS version 14 and later**   
     Turn off the setting through your device settings (precise instructions vary by version). 
 *   **Personalize based on your inferred identity setting in Twitter**  
-    Adjust the setting by going to _Settings and privacy > Privacy and safety > Off-Twitter activity > Personalize based on your inferred identity_. This controls whether we link your account to browsers or devices other than the ones you use to log into Twitter (or if you're logged out, whether we link the browser or device you're currently using to any other browsers or devices).
+    Adjust the setting by going to _Settings and privacy > Privacy and safety > Inferred identity > Personalize based on your inferred identity_. This controls whether we link your account to browsers or devices other than the ones you use to log into Twitter (or if you're logged out, whether we link the browser or device you're currently using to any other browsers or devices).
 *   **Cookie settings through web browsers**   
     Most browsers will request your permission to use cookies. Note that if you turn off cookies entirely, Twitter services may not work correctly or you might have trouble logging into twitter.com.
 
@@ -131,4 +127,4 @@ Along with [optout.aboutads.info](https://optout.aboutads.info/?c=2&lang=EN), yo
 
 **Important:** To view or change web settings for your Twitter account, you'll need to log in to the web browser. Changing your Twitter settings in the web browser when you’re logged out will only affect behavior on that browser while you aren't logged in to Twitter. Read our article on how to access your [personalization and data settings](https://help.twitter.com/en/personalization-data-settings.html) for more.
 
-The cookies you encounter depend on the features and functionality you use. The most commonly used cookies on Twitter services are described in this [chart](https://cdn.cms-twdigitalassets.com/content/dam/help-twitter/rules-and-policies/cookie-description-lists/cookie-description-list-en.pdf), which we update from time to time. Cookie lifespans are capped at 13 months in certain areas.
+The cookies you encounter depend on the features and functionality you use. The most commonly used cookies on Twitter services are described in the chart below, which we update from time to time. Cookie lifespans are capped at 13 months in certain areas.
