@@ -1,6 +1,8 @@
 Google API Services User Data Policy
 ====================================
 
+Notifications Save this page to your Developer Profile to get notifications on important updates. Stay organized with collections Save and categorize content based on your preferences.
+
 _Last updated May 18, 2022_
 
 Google API Services, including Google Sign-In, are part of an authentication and authorization framework that gives you, the developer, the ability to connect directly with Google users when you would like to request access to Google user data. The policy below, as well as the [Google APIs Terms of Service](https://developers.google.com/terms), govern the use of Google API Services when you request access to Google user data. Please check back from time to time as these policies are occasionally updated.
