@@ -45,9 +45,11 @@ To make it easier for your contacts and other people to reach you and recognize 
 
 We do **not** require your screen name to be your real name. Note that users who have you in their contacts will see you by the name they saved and not by your screen name. This way your mother can have the public name 'Johnny Depp' while appearing as 'Mom' to you and as 'Boss' to her underlings at work (or the other way around, depending on how these relationships are structured).
 
-#### [](#3-2-your-e-mail-address)3.2. Your E-mail Address
+#### [](#3-2-your-email-address)3.2. Your Email Address
 
 When you enable 2-step-verification for your account or store documents using the Telegram Passport feature, you can opt to set up a password recovery email. This address will only be used to send you a password recovery code if you forget it. That's right: no marketing or “we miss you” bullshit.
+
+From September 2022, we may ask some users to provide an email address to receive login codes via email instead of SMS (with an option to use 'Sign in With Google' / 'Sign in with Apple'). In this case, we will receive an email address which will be stored separately from the recovery email, and will only be used to send you authentication codes when you log in to your account. The login email address will be stored until it is changed or the account is deleted.
 
 #### [](#3-3-your-messages)3.3. Your Messages
 
@@ -264,6 +266,10 @@ We will review and may update this Privacy Policy from time to time. Any changes
 **June 19, 2022**
 
 *   Added [8.4. Translation of Messages at the Request of the User](#8-4-translation-of-messages-at-the-request-of-the-user) and [8.5. Transcription of Voice Messages at the Request of the User](#8-5-transcription-of-voice-messages-at-the-request-of-the-user).
+
+**September 8, 2022**
+
+*   Expanded [3.2. Your Email Address](https://telegram.org/privacy#3-2-your-email-address) with information on login emails, available as of Telegram 9.0
 
 Important changes made to this Privacy Policy will be notified to you via Telegram.
 
