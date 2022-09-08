@@ -10,7 +10,7 @@ General guidelines
 
 ### Help Google find your pages
 
-*   Ensure that all pages on the site can be reached by a link from another findable page. Make sure the referring link includes either text or, for images, an `alt` attribute, that is relevant to the target page. Crawlable links are [`<a>` tags with an `href` attribute](https://support.google.com/search/docs/advanced/guidelines/links-crawlable).
+*   Ensure that all pages on the site can be reached by a link from another findable page. Make sure the referring link includes either text or, for images, an `alt` attribute, that is relevant to the target page. Crawlable links are [`<a>` tags with an `href` attribute](https://support.google.com/search/docs/crawling-indexing/links-crawlable).
 *   Provide a [sitemap file](https://support.google.com/search/docs/advanced/sitemaps/overview) with links that point to the important pages on your site. Also provide a page with a human-readable list of links to these pages (sometimes called a site index or site map page).
 *   Limit the number of links on a page to a reasonable number (a few thousand at most).
 *   Make sure that your web server correctly supports the `If-Modified-Since` HTTP header. This feature directs your web server to tell Google if your content has changed since we last crawled your site. Supporting this feature saves you bandwidth and overhead.
