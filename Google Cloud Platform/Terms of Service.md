@@ -1,5 +1,7 @@
 *   [Home](https://cloud.google.com/)
 
+Notifications Save this page to your Developer Profile to get notifications on important updates. Stay organized with collections Save and categorize content based on your preferences.
+
 Google Cloud Platform Terms of Service
 ======================================
 
