@@ -1,6 +1,8 @@
 Google APIs Terms of Service
 ============================
 
+Notifications Save this page to your Developer Profile to get notifications on important updates. Stay organized with collections Save and categorize content based on your preferences.
+
 Last modified: November 9, 2021 [(see previous version)](https://developers.google.com/terms/2020)
 
 Thank you for using Google's APIs, other developer services, and associated software (collectively, "APIs"). By accessing or using our APIs, you are agreeing to the terms below. If there is a conflict between these terms and additional terms applicable to a given API, the additional terms will control for that conflict. Collectively, we refer to the terms below, any additional terms, terms within the accompanying API documentation, and any applicable policies and guidelines as the "Terms." You agree to comply with the Terms and that the Terms control your relationship with us. So please read all the Terms carefully. If you use the APIs as an interface to, or in conjunction with other Google products or services, then the terms for those other products or services also apply.
