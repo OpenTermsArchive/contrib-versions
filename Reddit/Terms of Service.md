@@ -98,13 +98,13 @@ Moderating a subreddit is an unofficial, voluntary position that may be availabl
   
 If you choose to moderate a subreddit:
 
-*   You agree to follow the [Moderator Guidelines for Healthy Communities](https://www.reddit.com/help/healthycommunities/);
+*   You agree to follow the [Moderator Guidelines for Healthy Communities](https://www.redditinc.com/policies/moderator-code-of-conduct);
 *   You agree that when you receive reports related to a subreddit you moderate, you will take appropriate action, which may include removing content that violates policy and/or promptly escalating to Reddit for review;
 *   You are not, and may not represent that you are, authorized to act on behalf of Reddit;
 *   You may not enter into any agreement with a third party on behalf of Reddit, or any subreddits that you moderate, without our written approval;
 *   You may not perform moderation actions in return for any form of compensation, consideration, gift, or favor from third parties;
 *   If you have access to non-public information as a result of moderating a subreddit, you will use such information only in connection with your performance as a moderator; and
-*   You may create and enforce rules for the subreddits you moderate, provided that such rules do not conflict with these Terms, the [Content Policy](https://www.redditinc.com/policies/content-policy), or the [Moderator Guidelines for Healthy Communities](https://www.reddit.com/help/healthycommunities/).
+*   You may create and enforce rules for the subreddits you moderate, provided that such rules do not conflict with these Terms, the [Content Policy](https://www.redditinc.com/policies/content-policy), or the [Moderator Guidelines for Healthy Communities](https://www.redditinc.com/policies/moderator-code-of-conduct).
 
 Reddit reserves the right, but has no obligation, to overturn any action or decision of a moderator if Reddit, in its sole discretion, believes that such action or decision is not in the interest of Reddit or the Reddit community.
 
