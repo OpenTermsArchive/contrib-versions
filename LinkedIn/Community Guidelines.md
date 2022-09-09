@@ -81,7 +81,7 @@ Thank you for using LinkedIn, where the world’s professionals come together to
 *   Be professional
     ---------------
     
-    LinkedIn's mission is to connect the world's professionals o make them more productive and successful. We allow broad conversations about the world of work, but require professional expression. To maintain a professional platform, members should treat each other with respect and civility. Do not interact with others or share content in a way that's uncivil, inappropriate, or disrespectful.
+    LinkedIn's mission is to connect the world's professionals to make them more productive and successful. We allow broad conversations about the world of work, but require professional expression. To maintain a professional platform, members should treat each other with respect and civility. Do not interact with others or share content in a way that's uncivil, inappropriate, or disrespectful.
     
     **Do not be hateful.** We don't allow content that attacks, denigrates, intimidates, dehumanizes, incites or threatens hatred, violence, prejudicial or discriminatory action against individuals or groups because of their actual or perceived race, ethnicity, national origin, caste, gender, gender identity, sexual orientation, religious affiliation, age, or disability status. Hate groups are not permitted on LinkedIn. Do not use racial, religious, or other slurs that incite or promote hatred, or any other content intended to create division. Do not post or share content that denies a well-documented historical event such as the Holocaust or slavery in the United States.
     
