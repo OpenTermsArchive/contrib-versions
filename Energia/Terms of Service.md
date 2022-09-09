@@ -558,13 +558,13 @@ To avail of the cashback offer you must be successfully signed up to Energia. 
 
  
 
-*   The quoted saving is based on the typical annual spend of a family in a three bedroomed house (based on urban domestic standard Electricity consumption of 4,200 kWh) and Energia's "NETATMOELEC" offer on Electricity consisting of 25% off electricity. Prices correct as at 1st of Jan 2019.  Figures have been rounded to the nearest Euro value.
+*   The quoted saving is based on the typical annual spend of a family in a three bedroomed house (based on urban domestic standard Electricity consumption of 4,200 kWh) and Energia's "NETATMOELEC". Figures have been rounded to the nearest Euro value.
 
 Total discount is based on your chosen price plan options and use of the promotional code “NETATMOELEC”. You must pay your bill by Direct Debit to avail of the Direct Debit Discount and register for Online Billing to receive the Online Billing Discount. If you cancel your Direct Debit payment or choose to switch to paper bill, you will lose these discounts.
 
 The Public Service Obligation (PSO) Levy is set annually in October. This applies to all domestic electricity customers irrespective of supplier.  The Carbon Tax is set annually by the Revenue. This tax applies to all domestic natural gas customers, irrespective of supplier  
   
-Your SmartElectricity tariff discounts will apply for a period of one year from the date Energia is registered as your supplier. After one year you will revert to Energia standard unit rates. Once you have signed up to an Energia SmartElectricity Tariff, there is a 14 day Cooling Off period, during which you may choose to cancel your agreement to switch. There is no penalty for cancelling during the Cooling Off period. If you cancel your service any time after the Cooling Off period and before the end of your contract, a termination fee of €50 will apply.  
+Your Electricity tariff discounts will apply for a period of one year from the date Energia is registered as your supplier. After one year you will revert to Energia standard unit rates. Once you have signed up to an Energia Electricity Tariff, there is a 14 day Cooling Off period, during which you may choose to cancel your agreement to switch. There is no penalty for cancelling during the Cooling Off period. If you cancel your service any time after the Cooling Off period and before the end of your contract, a termination fee may apply.  
   
 All prices are subject to change as per Energia standard terms and conditions. For new customers only that sign up online or over the phone.
 
@@ -574,9 +574,11 @@ All prices are subject to change as per Energia standard terms and conditions. F
        
     Total discount is based on your chosen price plan options and use of the promotional code “NETATMODUAL”. You must pay your bill by Direct Debit to avail of the Direct Debit Discount and register for Online Billing to receive the Online Billing Discount. If you cancel your Direct Debit payment or choose to switch to paper bill, you will lose these discounts.  
       
-    Discounts are against Energia Standard Unit Rates. Standing Charges also apply. VAT applies at 13.5%. The Public Service Obligation (PSO) Levy has been set at €3.22 (inc VAT) per month from 1st October 2019.  This applies to all domestic electricity customers irrespective of supplier. The Carbon Tax has been set at 0.0041995 (inc. VAT) per kWh. This tax applies to all domestic natural gas customers, irrespective of supplier.  
+    Discounts are against Energia Standard Unit Rates. Standing Charges also apply. VAT applies at 9%. The Public Service Obligation (PSO) Levy is set annually in October. This applies to all domestic electricity customers irrespective of supplier. The Carbon Tax is set annually by the Revenue. This tax applies to all domestic natural gas customers, irrespective of supplier.  
       
-    Your SmartDual tariff discounts will apply for a period of one year from the date Energia is registered as your supplier. After one year you will revert to Energia standard unit rates. Once you have signed up to an Energia SmartElectricity Tariff, there is a 14 day Cooling Off period, during which you may choose to cancel your agreement to switch. There is no penalty for cancelling during the Cooling Off period. If you cancel your service any time after the Cooling Off period and before the end of your contract, a termination fee of €50 will apply.
+      
+      
+    Your Dual tariff discounts will apply for a period of one year from the date Energia is registered as your supplier. After one year you will revert to Energia standard unit rates. Once you have signed up to an Energia Electricity Tariff, there is a 14 day Cooling Off period, during which you may choose to cancel your agreement to switch. There is no penalty for cancelling during the Cooling Off period. If you cancel your service any time after the Cooling Off period and before the end of your contract, a termination fee may apply.
     
     All prices are subject to change as per Energia standard terms and conditions. For new customers only that sign up online or over the phone.
     
@@ -585,87 +587,25 @@ All prices are subject to change as per Energia standard terms and conditions. F
 
 See [here](https://www.energia.ie/getattachment/Privacy-2018/Terms-Conditions/Boiler-Services-Terms-Conditions/BOILER-SERVICES-TCs.pdf.aspx;?lang=en-IE) for Boiler Servicing Terms & Conditions.
 
-29\. "Get a Quote Calculator" Promotional Terms & Conditions
-
-The quoted average monthly bill amount is calculated upon average figures outlined below.  
-  
-Average Dual Fuel is based on Energia's "DUAL40" offer on Dual Fuel Bundle consisting of 40% off electricity and 39% off gas discount on Energia standard unit rates and €25 cashback.  
-Average Electricity is based on Energia's "ELEC41" offer on Electricity consisting of 41% off electricity discount on Energia standard unit rates and €25 cashback.  
-  
-Electricity average usage is based upon 1 bedroom - 2,700 kWh per annum, 2 bedrooms - 3,400 kWh per annum, 3 bedrooms - 4,200 kWh per annum, 4 bedrooms - 5,100 kWh per annum, 5 bedrooms - 6,150 kWh per annum.  
-  
-Gas average usage is based upon 1 bedroom - 6,900 kWh per annum, 2 bedrooms - 8,700 kWh per annum, 3 bedrooms - 11,000 kWh per annum, 4 bedrooms - 13,300 kWh per annum, 5 bedrooms - 16,100 kWh per annum.  
-  
-Tariffs and charges depending on urban or rural location are outlined in detail on https://www.energia.ie/price-plans/dual-fuel and https://www.energia.ie/price-plans/electricity in the rates section.  
-  
-Tariffs and charges depending on the meter type (24 hr standard, day/night or night storage) are outlined in detail on https://www.energia.ie/price-plans/dual-fuel and https://www.energia.ie/price-plans/electricity in the rates section.  
-  
-Prices correct as of 29th May 2020. Figures have been rounded to the nearest cent value.
-
-Total discount is based on your chosen price plan options and use of the promotional code “DUAL40” for dual fuel or "ELEC41" for electricity. You must pay your bill by Direct Debit to avail of the Direct Debit Discount and register for Online Billing to receive the Online Billing Discount. If you cancel your Direct Debit payment or choose to switch to paper bill, you will lose these discounts.
-
-The Public Service Obligation (PSO) Levy is set annually in October. This applies to all domestic electricity customers irrespective of supplier.  The Carbon Tax is set annually by the Revenue. This tax applies to all domestic natural gas customers, irrespective of supplier.  
-  
-Your Dual fuel and Electricity tariff discounts will apply for a period of one year from the date Energia is registered as your supplier. After one year you will revert to Energia standard unit rates. Once you have signed up to an Energia Dual fuel or Electricity Tariff, there is a 14 day Cooling Off period, during which you may choose to cancel your agreement to switch. There is no penalty for cancelling during the Cooling Off period. If you cancel your service any time after the Cooling Off period and before the end of your contract, a termination fee of €50 will apply.  
-  
-All prices are subject to change as per Energia standard terms and conditions. For new customers only that sign up online or over the phone.
-
-30\. Contract Renewal Terms & Conditions
+29\. Contract Renewal Terms & Conditions
 
 Total discount is based on opting in to our Renewal Price Plan.  You must pay your bill by Direct Debit to avail of the Direct Debit Discount and use Online Billing to receive the Online Billing Discount. If you cancel your Direct Debit payment or choose to switch to paper bill, you will lose these discounts.    
    
 The Public Service Obligation (PSO) Levy is set annually in October. This applies to all domestic electricity customers irrespective of supplier.  The Carbon Tax is set annually by the Revenue. This tax applies to all domestic natural gas customers, irrespective of supplier  
    
-Your renewal discount will be applied for 12 months and will begin on either your next bill or the one following that, depending on your billing cycle. After one year you will revert to Energia standard unit rates.  Once you have signed up to an Energia Renewal Tariff, there is a 14 day Cooling Off period, during which you may choose to cancel your agreement to renew. There is no penalty for cancelling during the Cooling Off period. If you cancel your service any time after the Cooling Off period and before the end of your contract, a termination fee of €50 per fuel will apply.   
+Your renewal discount will be applied for 12 months and will begin on either your next bill or the one following that, depending on your billing cycle. After one year you will revert to Energia standard unit rates.  Once you have signed up to an Energia Renewal Tariff, there is a 14 day Cooling Off period, during which you may choose to cancel your agreement to renew. There is no penalty for cancelling during the Cooling Off period. If you cancel your service any time after the Cooling Off period and before the end of your contract, a termination fee may apply.   
    
 All prices are subject to change as per our General Terms and Conditions above.
 
-31\. Free Gas Boiler Offer
+30\. Free Gas Boiler Offer
 
 [See here](https://www.energia.ie/getattachment/Privacy-2018/Terms-Conditions/Earlybird-Gas-Boiler-Offer/Supplementary-Energia-TCs-Extended-June-2022.pdf.aspx;?lang=en-IE) for Limited Offer Free Boiler Servicing Terms & Conditions.
 
-32\. Pic Of The Month
-
-**Terms and Conditions: Energia’s Pic of the Month**  
- 
-
-*   By entering Energia’s Pic of the Month you agree to be bound by these terms and conditions.
-*   Entrants to Energia’s Pic of the Month must be aged 18 or over on the date of submission.
-*   Entrants to Energia’s Pic of the Month must be resident in Ireland.
-*   Employees of Energia (and their families) cannot enter Energia’s Pic of the Month.
-*   Entrants must contain sole intellectual property rights to the submitted photograph. Any entrants found to have been plagiarised from another source will be disqualified.
-*   Entries will be tracked using the #EnergiaPicoftheMonth hashtag on Twitter and Instagram, and will be considered for a prize only within the month in which they are submitted.
-*   The winner of the competition will receive €500 by cheque. 5 runners up will receive €100 each by cheque.
-*   Entrants can submit multiple photos for entry within 1 month, but can only receive one prize within that month.
-*   The winner and runners up will be selected by Energia’s Digital Marketing Division.
-*   If you accept a prize from Energia as a winner or runner up in Energia’s Pic of the Month, you grant permission to Energia to use your photograph in subsequent marketing campaigns, limited to promotion of Energia’s Pic of the Month.
-
-33\. GIY Grow and Cook Experience 2019
-
-**Terms and Conditions**
-
-*   GIY Grow and Cook Experience Competition 2019 open on Friday 1st February, Friday 8th, and Friday 15th February 2019.
-*   Competition closes Thursday 7th, 14th and 21st February at 23:59.
-*   Each promotion is individual and all entrants must be over 18 years old.
-*   All entries must include #GetIrelandGrowing and #ThePowerBehindYourGrowing and tag a person they wish to bring with them.
-*   Any person tagged should be known to the applicant and over 18.
-*   Only one entry per person can be made.
-*   Entries will be collated from all social media channels included but not limited to Facebook, Instagram and Twitter.
-*   Energia will review all entries select the winner at random ensuring the above criteria are met.
-*   Details of the winners will be posted online at www.energia.ie and on Energia’s social media channels.
-*   Winners must be available between Friday 22nd February – Sunday 30th June in order to fulfil the prize offering.
-*   Winner agree to be filmed for promotional purposes for Energia at Grow Cook Experience in GIY.
-*   The time, date and location of the prize fulfilment will be determined by Energia in conjunction with GIY at both their discretion and communicated in a timely manner to the winner.
-*   The prize offering is of the sole discretion of provider, in this instance Energia and can be revoked at any time.
-*   Prizes offering: Grow/Cook Eat experience in GIY HQ,  one night hotel stay in Waterford to be booked and arranged by Energia, Grow Box located in Waterford, Ireland.
-*   It is the winner’s sole responsibility to travel to prize location; Energia is not responsible for any of the costs incurred in reaching the prize.
-*   There will be no monetary exchange or refund available for this prize offering.
-
-34\. Energia Solar & Battery Terms and Conditions
+31\. Energia Solar & Battery Terms and Conditions
 
 ****View the terms and conditions [here](https://www.energia.ie/getmedia/cf7b9dbf-bdb0-41aa-aead-322081026d05/Solar-and-Battery-TC-s-and-Privacy-Policy-(final)-(11-11-2020)_2.pdf.aspx;).****
 
-35\. Energia EV Charger Customer Terms and Conditions
+32\. Energia EV Charger Customer Terms and Conditions
 
 **Energia EV Charger Customer Terms and Conditions**
 
@@ -693,7 +633,7 @@ All prices are subject to change as per our General Terms and Conditions above.
 13.  **"Force Majeure Event"** means an event or circumstance beyond a party's reasonable control.
 14.  "**Installation Location**" means the specific location on the Site where the Electric Vehicle Charging Point shall be installed;
 15.  **"Non-Standard Installation"** means any installation that is not a Standard Installation, and which shall be as determined and advised by Energia to the Customer.
-16.  "**Price**" means the total price payable by the Customer for the Services, being €600 incl VAT. For clarity, the Price may not include Additional Costs;
+16.  "**Price**" means the total price payable by the Customer for the Services. For clarity, the Price may not include Additional Costs;
 17.  "**Qualification Criteria**" means:
     1.  Having purchased an  electric vehicle from a retailer participating in Energia’s EV Charger scheme (**Participating Retailer)** ; and
     2.  Being registered as an Energia energy customer for the Customer's domestic dwelling (provided always that Energia may waive this requirement in its sole discretion)
@@ -901,7 +841,7 @@ Data Protection Officer, The Liberty Centre, Blanchardstown Retail Park, Dublin 
 You have the right to lodge a complaint with the:  
 Data Protection Commission by writing to the Data Protection Commission, 21 Fitzwilliam Square South, Dublin 2, D02 RD28, Ireland or contacting them via their website at: [https://www.dataprotection.ie/](https://www.dataprotection.ie/).
 
-36\. Revolut Customer Exclusive Offer
+33\. Revolut Customer Exclusive Offer
 
 Dual Fuel Terms:  
    
@@ -911,13 +851,13 @@ Electricity Terms:
   
 EAB €1,512, based on average annual usage. 12 month contract, discounted unit rates, standing charge, PSO levy and Carbon Tax, T&Cs and early termination fee apply. Valid from November 2020 & subject to change. Smart Home Voucher must be used at [https://smarthomestore.energia.ie/](https://smarthomestore.energia.ie/) by 31st December 2022. No cash equivalent will be provided. €50 cash back to be applied to 3rd customer bill.
 
-37\. Competition terms and conditions
+34\. Competition terms and conditions
 
 **View June 2022 rugby newsletter terms and conditions [_here._](https://www.energia.ie/getattachment/Privacy-2018/Terms-Conditions/Heineken-Champions-Cup-Final-Competition-2019-(7)/June-2022-%E2%82%AC50-Merchandise-Voucher-for-Lifestyle-Sports.pdf.aspx;?lang=en-IE)**  
   
 **View the ​September NL Competition terms and conditions _[here](https://www.energia.ie/getattachment/Privacy-2018/Terms-Conditions/Heineken-Champions-Cup-Final-Competition-2019-(7)/September-2022-Two-tickets-to-Ireland-vs-South-Africa-Autumn-International-2022-Competition-(1).pdf.aspx;)._** 
 
-38\. Download all Terms & Conditions.
+35\. Download all Terms & Conditions.
 
 You can download all Terms & Conditions [here.](https://www.energia.ie/getattachment/Privacy-2018/Terms-Conditions/Heineken-Champions-Cup-Final-Competition-2019-(6)/5366-Energia-Domestic-Terms-and-Conditions-Nov-21.pdf.aspx;?lang=en-IE)
 
