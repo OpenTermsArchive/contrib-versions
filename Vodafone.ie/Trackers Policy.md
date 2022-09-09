@@ -32,10 +32,10 @@ Cookies and you
 
 To buy a phone or sign up to services like My Vodafone or Vodafone Cherry Points on Pay as you go, you must have cookies enabled on your internet browser. The more popular ones are:
 
-*   Internet Explorer
-*   Firefox
-*   Safari
-*   Google Chrome
+* Internet Explorer
+* Firefox
+* Safari
+* Google Chrome
 
 You can still see the website if you choose not to enable cookies. If cookies aren't enabled, your shopping experience will be limited to just browsing our site.
 
@@ -43,37 +43,37 @@ You can still see the website if you choose not to enable cookies. If cookies ar
 
 You can control Vodafone website cookies by clicking the Cookie Settings button. You can control how you use cookies on all websites through your browser settings. If you don't know what browser you're using, find out by:  
 
-*   PC users: Go to 'Help' in your browser and choosing 'About'.
-*   Mac users: Click on the Apple menu and choose 'About'.
+* PC users: Go to 'Help' in your browser and choosing 'About'.
+* Mac users: Click on the Apple menu and choose 'About'.
 
 ### How to enable cookies for PCs
 
 #### Google Chrome
 
-1.  Go to Settings
-2.  Near the bottom of the page, select Show advanced settings.
-3.  In the "Privacy" section, select Content settings.
-4.  Select Allow local data to be set (recommended).
-5.  Select Done.
+1. Go to Settings
+2. Near the bottom of the page, select Show advanced settings.
+3. In the "Privacy" section, select Content settings.
+4. Select Allow local data to be set (recommended).
+5. Select Done.
 
 #### Microsoft Internet Explorer 9.0
 
-1.  Click the Tools button and then click Internet options.
-2.  Click the Privacy tab, and then, under Settings, move the slider to the top to block all cookies or to the bottom to allow all cookies, and then click OK  
+1. Click the Tools button and then click Internet options.
+2. Click the Privacy tab, and then, under Settings, move the slider to the top to block all cookies or to the bottom to allow all cookies, and then click OK  
     
 
 #### Mozilla Firefox
 
-1.  Click the menu button at the top right of your browser window and select Options.
-2.  Then select the Privacy icon.
-3.  Set 'Firefox will:'' to 'Use custom settings for history'.
-4.  Check mark Accept cookies from sites to enable Cookies, and uncheck it to disable them.
+1. Click the menu button at the top right of your browser window and select Options.
+2. Then select the Privacy icon.
+3. Set 'Firefox will:'' to 'Use custom settings for history'.
+4. Check mark Accept cookies from sites to enable Cookies, and uncheck it to disable them.
 
 #### Safari on OSX
 
-1.  Choose Safari
-2.  Select Preferences followed by Privacy.
-3.  You can then choose to block or unblock cookies.
+1. Choose Safari
+2. Select Preferences followed by Privacy.
+3. You can then choose to block or unblock cookies.
 
 {{feedbackMessage}}
 
@@ -83,10 +83,10 @@ Block cookies
 
 If you'd like to find out how to stop websites using cookies to remember what sites you visit, choose your browser from the list. This will take you to the browser's respective page where you can manage your cookies and site data:
 
-*   [Chrome](https://support.google.com/chrome/answer/95647?hl=en-GB "Chrome")
-*   [Safari](https://support.apple.com/kb/PH19214?viewlocale=en_US&amp;locale=en_US "Safari")
-*   [Firefox](https://www.mozilla.org/en-US/firefox/dnt/ "Firefox")
-*   [Internet Explorer](http://windows.microsoft.com/en-GB/internet-explorer/use-tracking-protection#ie=ie-11 "Internet Explorer")
+* [Chrome](https://support.google.com/chrome/answer/95647?hl=en-GB "Chrome")
+* [Safari](https://support.apple.com/kb/PH19214?viewlocale=en_US&amp;locale=en_US "Safari")
+* [Firefox](https://www.mozilla.org/en-US/firefox/dnt/ "Firefox")
+* [Internet Explorer](http://windows.microsoft.com/en-GB/internet-explorer/use-tracking-protection#ie=ie-11 "Internet Explorer")
 
 {{feedbackMessage}}
 
@@ -120,10 +120,10 @@ We use local storage to keep track of which of our digital tools you have used a
 
 **How To Clear Local Storage**  
 
-*   Open the Google Chrome Console by pressing F12 key
-*   .Select “Application” in the console’s top menu
-*   Select “Local Storage” in the console’s left menu
-*   ..Right click your site(s) and click clear to delete the local storage.
+* Open the Google Chrome Console by pressing F12 key
+* .Select “Application” in the console’s top menu
+* Select “Local Storage” in the console’s left menu
+* ..Right click your site(s) and click clear to delete the local storage.
 
 {{feedbackMessage}}
 
