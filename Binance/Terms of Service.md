@@ -1,6 +1,6 @@
 Binance Terms of Use
 
-Last revised: 12 July 2022
+Last revised: 12 September 2022
 
 These Binance Terms of Use is entered into between you (hereinafter referred to as “you” or “your”) and Binance operators (as defined below). By accessing, downloading, using or clicking on “I agree” to accept any Binance Services (as defined below) provided by Binance (as defined below), you agree that you have read, understood and accepted all of the terms and conditions stipulated in these Terms of Use (hereinafter referred to as “these Terms”) as well as our Privacy Policy at [www.binance.com/en/privacy](https://www.binance.com/en/privacy). In addition, when using some features of the Services, you may be subject to specific additional terms and conditions applicable to those features.
 
@@ -14,29 +14,37 @@ If you would like to know more about the risks associated with investing in or t
 
 **1\. Binance** refers to an ecosystem comprising Binance websites (whose domain names include but are not limited to [https://www.binance.com/en](https://https//www.binance.com/en)), mobile applications, clients, applets and other applications that are developed to offer Binance Services, and includes independently-operated platforms, websites and clients within the ecosystem (e.g. Binance’s Open Platform, Binance Launchpad, Binance Labs, Binance Charity, Binance DEX, Binance X, JEX, Trust Wallet, and fiat gateways). In case of any inconsistency between relevant terms of use of the above platforms and the contents of these Terms, the respective applicable terms of such platforms shall prevail.
 
-**2\. Binance Operators** refer to all parties that run Binance, including but not limited to legal persons (including Binance UAB), unincorporated organizations and teams that provide Binance Services and are responsible for such services. For convenience, unless otherwise stated, references to “Binance” and “we” in these Terms specifically mean Binance Operators. **UNDER THESE TERMS, BINANCE OPERATORS MAY CHANGE AS BINANCE’S BUSINESS ADJUSTS, IN WHICH CASE, THE CHANGED OPERATORS SHALL PERFORM THEIR OBLIGATIONS UNDER THESE TERMS WITH YOU AND PROVIDE SERVICES TO YOU, AND SUCH CHANGE DOES NOT AFFECT YOUR RIGHTS AND INTERESTS UNDER THESE TERMS. ADDITIONALLY, THE SCOPE OF BINANCE OPERATORS MAY BE EXPANDED DUE TO THE PROVISION OF NEW BINANCE SERVICES, IN WHICH CASE, IF YOU CONTINUE TO USE BINANCE SERVICES, IT IS DEEMED THAT YOU HAVE AGREED TO JOINTLY EXECUTE THESE TERMS WITH THE NEWLY ADDED BINANCE OPERATORS. IN CASE OF A DISPUTE, YOU SHALL DETERMINE THE ENTITIES BY WHICH THESE TERMS ARE PERFORMED WITH YOU AND THE COUNTERPARTIES OF THE DISPUTE, DEPENDING ON THE SPECIFIC SERVICES YOU USE AND THE PARTICULAR ACTIONS THAT AFFECT YOUR RIGHTS OR INTERESTS**.
+**2\. Binance Accounts** refer to the foundational virtual accounts, including main accounts and subaccounts, which are opened by Binance for Users to record on Binance their usage of Binance Services, transactions, asset changes and basic information. Binance Accounts serve as the basis for Users to enjoy and exercise their rights on Binance.
 
-**3\. Binance Services** refer to various services provided to you by Binance that are based on Internet and/or blockchain technologies and offered via Binance websites, mobile applications, clients and other forms (including new ones enabled by future technological development). Binance Services include but are not limited to such Binance ecosystem components as Digital Asset Trading Platforms, the financing sector, Binance Labs, Binance Academy, Binance Charity, Binance Info, Binance Launchpad, Binance Research, Binance Chain, Binance X, Binance Fiat Gateway, existing services offered by Trust Wallet and novel services to be provided by Binance.
+**3\. Binance Operators** refer to all parties that run Binance, including but not limited to legal persons (including Binance UAB), unincorporated organizations and teams that provide Binance Services and are responsible for such services. For convenience, unless otherwise stated, references to “Binance” and “we” in these Terms specifically mean Binance Operators. **UNDER THESE TERMS, BINANCE OPERATORS MAY CHANGE AS BINANCE’S BUSINESS ADJUSTS, IN WHICH CASE, THE CHANGED OPERATORS SHALL PERFORM THEIR OBLIGATIONS UNDER THESE TERMS WITH YOU AND PROVIDE SERVICES TO YOU, AND SUCH CHANGE DOES NOT AFFECT YOUR RIGHTS AND INTERESTS UNDER THESE TERMS. ADDITIONALLY, THE SCOPE OF BINANCE OPERATORS MAY BE EXPANDED DUE TO THE PROVISION OF NEW BINANCE SERVICES, IN WHICH CASE, IF YOU CONTINUE TO USE BINANCE SERVICES, IT IS DEEMED THAT YOU HAVE AGREED TO JOINTLY EXECUTE THESE TERMS WITH THE NEWLY ADDED BINANCE OPERATORS. IN CASE OF A DISPUTE, YOU SHALL DETERMINE THE ENTITIES BY WHICH THESE TERMS ARE PERFORMED WITH YOU AND THE COUNTERPARTIES OF THE DISPUTE, DEPENDING ON THE SPECIFIC SERVICES YOU USE AND THE PARTICULAR ACTIONS THAT AFFECT YOUR RIGHTS OR INTERESTS**.
 
-**4\. Binance Platform Rules** refer to all rules, interpretations, announcements, statements, letters of consent and other contents that have been and will be subsequently released by Binance, as well as all regulations, implementation rules, product process descriptions, and announcements published in the Help Center or within products or service processes.
+**4\. Binance Services** refer to various services provided to you by Binance that are based on Internet and/or blockchain technologies and offered via Binance websites, mobile applications, clients and other forms (including new ones enabled by future technological development). Binance Services include but are not limited to such Binance ecosystem components as Digital Asset Trading Platforms, the financing sector, Binance Labs, Binance Academy, Binance Charity, Binance Info, Binance Launchpad, Binance Research, Binance Chain, Binance X, Binance Fiat Gateway, existing services offered by Trust Wallet and novel services to be provided by Binance.
 
-**5\. Users** refer to all individuals, institutions or organizations that access, download or use Binance or Binance Services and who meet the criteria and conditions stipulated by Binance. If there exist other agreements for such entities as developers, distributors, market makers, and Digital Currencies exchanges, such agreements shall be followed.
+**5\. Binance Platform Rules** refer to all rules, interpretations, announcements, statements, letters of consent and other contents that have been and will be subsequently released by Binance, as well as all regulations, implementation rules, product process descriptions, and announcements published in the Help Center or within products or service processes.
 
-**6\. Digital Currencies** refer to encrypted or digital tokens or cryptocurrencies with a certain value that are based on blockchain and cryptography technologies and are issued and managed in a decentralized form.
+**6\. BUSD** means Binance USD, a US dollar denominated and backed stablecoin managed Paxos Trust Company, LLC.
 
-**7\. Digital Assets** refer to Digital Currencies, their derivatives or other types of digitalized assets with a certain value.
+**7\. Collateral Accounts** refer to special accounts opened by Users on Binance to deposit and withdraw collateral (such as margins) in accordance with these Terms (including the Binance Contract Services Agreement and Binance Platform Rules), as required for contract transactions, leveraged trading and/or currency borrowing services.
 
-**8\. Binance Accounts** refer to the foundational virtual accounts, including main accounts and subaccounts, which are opened by Binance for Users to record on Binance their usage of Binance Services, transactions, asset changes and basic information. Binance Accounts serve as the basis for Users to enjoy and exercise their rights on Binance.
+**8\. Conversion Inception Date** means the date, specified by Binance, on which the Designated Stablecoin Conversion will commence.
 
-**9\. Crypto-to-crypto Trading** refers to spot transactions in which one digital currency is exchanged for another digital currency.
+**9\. Crypto-to-crypto Trading** refers to spot transactions in which one digital currency is exchanged for another digital currency.
 
-**10\. Fiat Trading** refers to spot transactions in which Digital Currencies are exchanged for fiat currencies or vice versa.
+**10\. Designated Stablecoin** means each of USD Coin (USDC), Pax Dollar (USDP), TrueUSD (TUSD) and any other Digital Asset Binance may designate as such from time to time, provided that Binance may remove any Digital Asset from the scope of this definition at any time without prior notice.
 
-**11\. Collateral Accounts** refer to special accounts opened by Users on Binance to deposit and withdraw collateral (such as margins) in accordance with these Terms (including the Binance Contract Services Agreement and Binance Platform Rules), as required for contract transactions, leveraged trading and/or currency borrowing services.
+**11\. Designated Stablecoin Conversion** means, in respect of each Designated Stablecoin, the automatic conversion of that Designated Stablecoin into BUSD upon deposit or transfer into your Binance Account or the conversion of BUSD into that Designated Stablecoin in connection with a withdrawal request.
 
-**12\. Loan/Lending** refers to Binance’s lending of Digital Currencies to Users at an interest collected in certain ways (in the form of Digital Currencies), including but not limited to the leveraged trading and currency lending services currently offered, and other forms of loan/lending services to be launched by Binance.
+**12\. Digital Currencies** refer to encrypted or digital tokens or cryptocurrencies with a certain value that are based on blockchain and cryptography technologies and are issued and managed in a decentralized form.
 
-**13\. KYC** refers to the “know-your-customer” process that Binance has put in place before entering into a business relationship or conducting transactions with its Users. As part of this process, Binance may do anything that it deems necessary in order to identify Users, verify their identity, scrutinize and investigate User transactions, or comply with any applicable law or regulation.
+**13\. Digital Assets** refer to Digital Currencies, their derivatives or other types of digitalized assets with a certain value.
+
+**14\. Fiat Trading** refers to spot transactions in which Digital Currencies are exchanged for fiat currencies or vice versa.
+
+**15\. KYC** refers to the “know-your-customer” process that Binance has put in place before entering into a business relationship or conducting transactions with its Users. As part of this process, Binance may do anything that it deems necessary in order to identify Users, verify their identity, scrutinize and investigate User transactions, or comply with any applicable law or regulation.
+
+**16\. Loan/Lending** refers to Binance’s lending of Digital Currencies to Users at an interest collected in certain ways (in the form of Digital Currencies), including but not limited to the leveraged trading and currency lending services currently offered, and other forms of loan/lending services to be launched by Binance.
+
+**17\. Users** refer to all individuals, institutions or organizations that access, download or use Binance or Binance Services and who meet the criteria and conditions stipulated by Binance. If there exist other agreements for such entities as developers, distributors, market makers, and Digital Currencies exchanges, such agreements shall be followed.
 
 ### II. General Provisions
 
@@ -200,15 +208,15 @@ d. You agree and authorize Binance to take various reasonable measures in its di
 
 ### 5\. Options Trading
 
-You acknowledge and agree that:
+Before entering into transactions in Options products through Binance (“Options Trading”), you acknowledge and agree that:
 
 a. You fully understand the high risks of Options Trading, including but not limited to the risk of major fluctuations of Digital Assets in Options Trading, and the risk of exacerbated adverse outcome when leverage is used;
 
 b. You have sufficient investment knowledge and experience and the capacity to take risks arising from Options Trading, and agree to independently assume all the risks arising from the investment of Options Trading;
 
-c. Before performing Options Trading, you have read and understood all the relevant Binance Platform Rules, and have consulted relevant professionals to make informed decisions on whether and how to complete Options Trading according to their recommendations and your own reasonable judgment;
+c. Before performing Options Trading, you have read and understood, and agree to be bound by the terms of, the [Binance Options Service Agreement](https://www.binance.com/en/support/faq/d2c1c4dbc7dd4aceafebb98ce956a180) and all relevant Binance Platform Rules, which shall supplement these Terms of Use, and have consulted relevant professionals to make informed decisions on whether and how to complete Options Trading according to their recommendations and your own reasonable judgment;
 
-d. You agree and authorize Binance to take various reasonable measures in its discretion (including but not limited to forced liquidation and forced position reduction under specific circumstances) in accordance with the relevant Binance Platform Rules to protect the legitimate interests of you, Binance and other Users.
+d. You agree and authorize Binance to take various reasonable measures in its discretion (including but not limited to forced liquidation and forced position reduction under specific circumstances) in accordance with the Binance Options Service Agreement and all relevant Binance Platform Rules to protect the legitimate interests of you, Binance and other Users.
 
 ### 6\. Margins Trading
 
@@ -327,6 +335,28 @@ e. If Binance accepts the User Trade Request, Binance will guarantee the price (
 f. In respect of Convert Limit Orders, Binance does not guarantee the fulfillment of the limit order, even if the market price hits or crosses the limit price set by the User, as orders are executed subject to market conditions and liquidity. Binance shall not be held responsible for any potential loss or opportunity cost due to the unsuccessful execution of limit orders in such case.
 
 g. It is recommended that Users conduct independent research into different Digital Assets prior to using Binance Convert Services. Users bear full responsibility for any profit or loss in connection with their use of the Binance Convert Services.
+
+### 12\. Binance Leveraged Tokens
+
+Before transacting in Binance Leveraged Tokens, you acknowledge and agree that you have read, understood and accepted each of the [Binance Leveraged Tokens Risk Disclosure Statement](https://www.binance.com/en/support/faq/360042918232) and the [Binance Leveraged Tokens Agreement](https://www.binance.com/en/leveraged-tokens/agreement), which shall apply to all subscriptions to, redemptions of and transactions in Binance Leveraged Tokens (as such term is defined in the Binance Leveraged Tokens Agreement).
+
+### 13\. BUSD Conversion
+
+Deposits
+
+From such time on the Conversion Inception Date as Binance may determine, when you deposit or receive a Designated Stablecoin into your Binance Account, the amount received will automatically be converted into an equivalent amount of BUSD at a rate of 1 to 1.
+
+Existing balances
+
+At such time on the Conversion Inception Date as Binance may determine, any balance in your Binance Account denominated in a Designated Stablecoin will automatically be converted into an equivalent amount of BUSD at a rate of 1 to 1.
+
+Withdrawals
+
+On or after the Conversion Inception Date, if you have a balance in your Binance Account denominated in BUSD, you may give Instructions to withdraw such balance from your Binance Account either in BUSD or in any of the Designated Stablecoins. Where you choose to withdraw a Designated Stablecoin, you will receive an amount equal to your balance in BUSD, converted into the relevant Designated Stablecoin at a rate of 1 to 1, minus any applicable withdrawal and transaction fees.
+
+Exceptions
+
+Binance reserves the right to suspend or terminate the Designated Stablecoin Conversion for any or all Designated Stablecoins at any time without prior notice. Where necessary due to market conditions affecting one or more Designated Stablecoins, Binance may adjust the conversion rate used for the Designated Stablecoin Conversion.
 
 ### IV. Liabilities
 
