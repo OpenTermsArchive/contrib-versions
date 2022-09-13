@@ -1,7 +1,7 @@
 Google APIs Terms of Service
 ============================
 
-Notifications Save this page to your Developer Profile to get notifications on important updates. Stay organized with collections Save and categorize content based on your preferences.
+Stay organized with collections Save and categorize content based on your preferences.
 
 Last modified: November 9, 2021 [(see previous version)](https://developers.google.com/terms/2020)
 
