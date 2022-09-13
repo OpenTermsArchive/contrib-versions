@@ -246,7 +246,7 @@ Attention: Privacy Team
 
 EVERNOTE GMBH  
 c/o Centralis Switzerland GmbH  
-Dufourstrasse 101, 8008 Zurich, Switzerland  
+Kanzleistrasse 18, 8004 Zurich, Switzerland  
 Attention: Privacy Team
 
 EVERNOTE DO BRASIL SERVIÇOS DE APLICAÇÕES LTDA.  
