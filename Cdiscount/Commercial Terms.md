@@ -2351,7 +2351,7 @@ La date anniversaire de l’Abonnement au Service correspond à la date de sousc
 L’Abonné Pro sera informé par email de la date de reconduction de son Abonnement au Service.  
 Cet email lui sera envoyé au plus tard 31 jours avant ladite date de renouvellement.   
   
-Dans le cadre d'une tacite reconduction, le montant de l’Abonnement au Service sera prélevé sur la carte bancaire utilisée pour le paiement de l’Abonnement initial ou, dans l’hypothèse où cette carte aurait été supprimée de l’Espace Client de l’Abonné Pro ou serait arrivée à expiration, Abonné Pro sur la dernière carte enregistrée dans l’Espace Client de l’Abonné Pro ;  
+Dans le cadre d’une tacite reconduction, le montant de l’Abonnement au Service sera prélevé sur la carte bancaire utilisée pour le paiement de l’Abonnement initial ou, dans l’hypothèse où cette carte aurait été supprimée de l’Espace Client de l’Abonné Pro ou serait arrivée à expiration, Abonné Pro sur la dernière carte enregistrée dans l’Espace Client de l’Abonné Pro ;  
   
 Il est expressément rappelé que l’Abonné pro ne bénéficie pas du droit de rétractation prévu aux articles L 221-18 et suivants du Code la consommation.  
   
