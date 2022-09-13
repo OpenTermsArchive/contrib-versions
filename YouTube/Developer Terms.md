@@ -1,7 +1,7 @@
 YouTube API Services - Developer Policies
 =========================================
 
-Notifications Save this page to your Developer Profile to get notifications on important updates. Stay organized with collections Save and categorize content based on your preferences.
+Stay organized with collections Save and categorize content based on your preferences.
 
 **Note:** The new [Complying with the YouTube Developer Policies](https://developers.google.com/youtube/terms/developer-policies-guide) guide provides guidance and examples to help you ensure that your API clients adhere to specific portions of the YouTube API Services [Terms](https://developers.google.com/youtube/terms/api-services-terms-of-service) and [Policies](https://developers.google.com/youtube/terms/developer-policies) (API TOS). This guidance offers insight into how YouTube enforces certain aspects of the API TOS but does not replace any existing documents.
 
