@@ -4,7 +4,7 @@
 Brand guidelines
 ================
 
-Notifications Save this page to your Developer Profile to get notifications on important updates. Stay organized with collections Save and categorize content based on your preferences.
+Stay organized with collections Save and categorize content based on your preferences.
 
 The "Android" name, the Android logo, the "Google Play" brand, and other Google trademarks, are property of Google LLC and not part of the assets available through the Android Open Source Project.
 
