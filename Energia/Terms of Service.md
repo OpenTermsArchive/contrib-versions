@@ -548,13 +548,13 @@ To avail of the cashback offer you must be successfully signed up to Energia. 
 *   This offer is available on the date of registration/ renewal only – you cannot choose to take the offer thereafter
 *   This offer is only available to new and existing customers who sign-up to a minimum 12-month contract on the specific offers outlined at registration or renewal
 *   You must be the homeowner of the property or have permission from the owner of the property to install the Netatmo before installation
-*   The Netatmo product must be installed and remain operational in your home until 2020
+*   The Netatmo product must be installed and remain operational in your home until 2023
 *   If you move house you cannot move the Netatmo with you, you must leave it on the property as it forms part of the central heating system
 *   You will be eligible for a charge of €100 if you request that your Netatmo be uninstalled
 *   We will make every attempt to contact you promptly after registration/ renewal to arrange installation of the Netatmo within 28 days of your completed registration with Energia - i.e. after the 14 day cooling off period – and based on your availability. If we are unable to contact you and/or we cannot install the Netatmo within 28 days due to your unavailability, the Free Netatmo element of the offer will be terminated
 *   Energia reserves the right to vary and/or cancel this offer at any time for valid commercial, technical, operational and/or regulatory reasons
-*   This offer is available until the 31st of December 2019, however may be extended
-*   These Terms & Conditions are in addition to Energia Standard Terms & Conditions and the [Netatmo Terms and Conditions](https://www.energia.ie/getmedia/6a935067-4226-4b6e-8107-2c31736ab6d4/viridian-home-services-terms-conditions-netatmo.pdf.aspx;)
+*   This offer is available until the 31st December 2022, however, may be extended
+*   These Terms & Conditions are in addition to Energia Standard Terms & Conditions.
 
  
 
