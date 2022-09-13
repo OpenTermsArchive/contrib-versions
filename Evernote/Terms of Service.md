@@ -188,8 +188,8 @@ Attention: Legal Notice
 
 Evernote GmbH  
 c/o Centralis Switzerland GmbH  
-Dufourstrasse 101  
-8008 Zürich, Switzerland  
+Kanzleistrasse 18  
+8004 Zürich, Switzerland  
 Attention: Legal Notice
 
 Evernote Do Brasil Serviços De  
