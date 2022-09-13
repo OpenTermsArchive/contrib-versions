@@ -380,7 +380,7 @@ To ensure that Google Play remains a safe and respectful platform, we've created
 
 Effective 31 August 2022
 
-#### Health content and services
+### Health content and services
 
 We don't allow apps that expose users to harmful health content and services. 
 
