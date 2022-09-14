@@ -276,6 +276,21 @@ Both kinds of menu must follow the following guidelines:
 *   Menu URLs can’t be direct links to third-party ordering or delivery services.
 *   Third parties that manage Business Profiles on behalf of clients must notify and have the consent of the business owner to submit a menu URL for a business.
 
+Products
+
+If you run a retail business, you can show nearby shoppers what you sell by adding your in-store products to your Business Profile at no charge.
+
+You can add in-store products to your Business Profile in two ways:
+
+*   Manually upload your products with the Product Editor. [Learn how to upload with the Product Editor](https://support.google.com/business/answer/9124203). 
+*   Simply add your products with Pointy. [Learn how to add products with Pointy](https://support.google.com/pointy/answer/10731675). 
+
+Both methods must adhere to the following guidelines: 
+
+*   Products submitted via Product Editor or Pointy must adhere to the Shopping Ads Policy. [Learn more about the Shopping Ads Policy](https://support.google.com/business/answer/10786874). 
+*   We do not allow content related to regulated products and services, including alcohol, tobacco products, gambling, financial services, pharmaceuticals and unapproved supplements or health/medical devices.
+*   Submitting products that violate Google's policy may result in removal of the entire product catalogue, including products that aren't in violation.
+
 Guidelines for chains, departments & individual practitioners
 -------------------------------------------------------------
 
