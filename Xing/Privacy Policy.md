@@ -4,18 +4,18 @@ Privacy Policy (printable version)
 General information
 -------------------
 
-*   Last updated: 3 August 2022
-*   Here we inform you about data processing in connection with the entire service XING and its applications (kununu etc.).
+*   Last updated: 13 September 2022
+*   Here we inform you about data processing in connection with the entire service XING and its applications (kununu, onlyfy etc.).
 *   New Work SE is the body responsible for the processing of personal data.
 *   Our Data Protection Officer is Felix Lasse.
 
 #### XING is a comprehensive service with various applications
 
-[XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) is a service intended through a variety of different applications to improve and simplify users' professional lives. The combination of these applications gives users the best possible user experience and the widest range of functionality. With the boundaries between our professional and private lives becoming ever more intertwined, and correlations occurring between the two, [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) is focused not only on a professional context but also includes applications in a private context. [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) is particularly interested in opening up new capabilities for users (primarily in a professional context, but also in their private lives), making it easier for them to form horizontal networks, democratising information, fostering the exchange of information, and supporting lifelong learning. In order to fulfil these aims, [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) makes offers, recommendations and services available to its users, often on the basis of data it has collected, and encourages interaction – both within and beyond a user’s network. The applications that make up the service XING include, in particular, the [social network](https://privacy.xing.com/en/privacy-policy/glossary/social-network) where users can acquire a membership, an events platform, an employer rating platform and a platform to foster employee engagement. Some of the XING applications may appear online under another brand name or in the form of other [XING Websites](https://privacy.xing.com/en/privacy-policy/glossary/xing-websites) (e.g. kununu, HalloFreelancer).  
+[XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) is a service intended through a variety of different applications to improve and simplify users' professional lives. The combination of these applications gives users the best possible user experience and the widest range of functionality. With the boundaries between our professional and private lives becoming ever more intertwined, and correlations occurring between the two, [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) is focused not only on a professional context but also includes applications in a private context. [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) is particularly interested in opening up new capabilities for users (primarily in a professional context, but also in their private lives), making it easier for them to form horizontal networks, democratising information, fostering the exchange of information, and supporting lifelong learning. In order to fulfil these aims, [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) makes offers, recommendations and services available to its users, often on the basis of data it has collected, and encourages interaction – both within and beyond a user’s network. The applications that make up the service XING include, in particular, the [social network](https://privacy.xing.com/en/privacy-policy/glossary/social-network) where users can acquire a membership, an events platform, an employer rating platform and a platform to foster employee engagement. Some of the XING applications may appear online under another brand name or in the form of other [XING Websites](https://privacy.xing.com/en/privacy-policy/glossary/xing-websites) (e.g. kununu, onlyfy).  
   
 We provide this Privacy Policy to inform you about data processing in connection with the entire service XING (including all applications). We also provide additional information about data processing for the following applications, which you can access on the respective websites of the applications:
 
-*   [XING TalentManager](https://www.xing.com/legal/privacy_policy_talentmanager)
+*   [onlyfy TalentManager](https://www.xing.com/legal/privacy_policy_talentmanager)
 *   [XING TalentpoolManager](https://www.xing.com/legal/privacy_policy_talentpoolmanager)
 *   [XING AdCreator](https://www.xing.com/terms)
 *   [XING Exchange](https://xing-exchange.xing.com/datenschutz)
@@ -130,8 +130,6 @@ e.g.
 #### Visibility
 
 After entry, your optional information is visible to all users in the social network, and to users of certain other XING websites where your user profile is displayed in full or in part. In some cases, you can choose whether optional information should only be visible to certain users.
-
-If you activate the "around you" feature with Bluetooth also activated, other XING users with this feature activated will be sought within a radius of 10 to 20 metres (depending on your device). This feature can act as a substitute for exchanging conventional business cards. To provide this feature, your profile details, including your name, company name, your job title and your photo are displayed to other users. We do not use Bluetooth permanently in the background and do not track your location.
 
 #### Privacy
 
@@ -396,7 +394,7 @@ In the so-called "back end", at our web server level, we collect the data of log
 
 #### Ensuring security
 
-One reason for tracking is to ensure and preserve the legitimate interest of the protection of users, the security of user data, XING Websites, and the XING service. To this end, we save the data we record for up to 90 days in its full form. Only a limited number of our employees with the respective authorisation rights have access to this data. The legal basis for this processing of personal data are Article 6 (1) f) and Article 32 of the EU General Data Protection Regulation (GDPR).
+One reason for tracking is to ensure and preserve the legitimate interest of the protection of users, the security of user data, XING Websites, and the XING service. To this end, we save the data we record for up to 12 months in its full form. Only a limited number of our employees with the respective authorisation rights have access to this data. The legal basis for this processing of personal data are Article 6 (1) f) and Article 32 of the EU General Data Protection Regulation (GDPR).
 
 #### Provision of our service
 
@@ -689,9 +687,9 @@ In cases where we work together with external service providers for our data pro
 
 You can learn more about how visible you are to other users under [“Information you provide to us”](https://privacy.xing.com/privacy-policy/information-we-automatically-receive-through-your-use-of-xing/provision-of-our-service/examples) and by way of the examples of how we use your usage data to meet our contractual obligations and to render the service you use.
 
-#### Non-users of the social network
+#### Non-users
 
-You can determine whether you want non-users of the [social network](https://privacy.xing.com/en/privacy-policy/glossary/social-network) to be able to find and access the information in your [profile](https://privacy.xing.com/en/privacy-policy/glossary/profile), e.g. via search engines. Separate privacy settings are available to you here. If you opt not to restrict these settings, the information in your [profile](https://privacy.xing.com/en/privacy-policy/glossary/profile) will be visible and accessible to non-users of the [social network](https://privacy.xing.com/en/privacy-policy/glossary/social-network), although this does not include any personal contact details such as e-mail addresses and phone numbers.  
+You can determine whether you want non-users to be able to find and access the information in your [profile](https://privacy.xing.com/en/privacy-policy/glossary/profile), e.g. via search engines. Separate privacy settings are available to you here. If you opt not to restrict these settings, the information in your [profile](https://privacy.xing.com/en/privacy-policy/glossary/profile) will be visible and accessible to non-users, although this does not include any personal contact details such as e-mail addresses and phone numbers.  
 The standard external accessibility of profile information by non-users forms a central element of [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) as a way of fostering networking between users, as many business contacts are made in the first instance when other users (or third parties) find the name of a user when conducting research in search engines.  
 With some features on [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) (e.g. with posts in groups on guest lists) another user determines whether and to what extent the data used or shared for a particular function is visible or accessible to other users and non-users, and who is authorised to read this content and add to this content. If you aren’t able to change these settings through your own privacy settings, we will inform you about the respective use of your data in the respective feature.
 
@@ -813,7 +811,7 @@ You have the right to demand confirmation as to whether we process your [persona
   
 As a user of the [social network](https://privacy.xing.com/en/privacy-policy/glossary/social-network) you can request this information at [https://www.xing.com/settings/privacy/data/disclosure](https://www.xing.com/settings/privacy/data/disclosure).  
   
-As a kununu, kununu engage, XING EventManager, HalloFreelancer, XING TalentService, XING Exchange, or applications via XING user you can also easily access the data we have saved about you there. Simply send an e-mail request:
+As a kununu, kununu engage, XING EventManager, HalloFreelancer, onlyfy TalentService, XING Exchange, or applications via XING user you can also easily access the data we have saved about you there. Simply send an e-mail request:
 
 #### kununu
 
@@ -831,9 +829,9 @@ Use the following e-mail address to request the data we saved about you in this 
 
 Use the following e-mail address to request the data we saved about you in this application: [HalloFreelancer data disclosure report](mailto:support@hallofreelancer.com)
 
-#### XING TalentService
+#### onlyfy TalentService
 
-Use the following e-mail address to request the data we saved about you in XING TalentService: [gdpr\_xts@xing.com](mailto:gdpr_xts@xing.com)
+Use the following e-mail address to request the data we saved about you in onlyfy TalentService: [gdpr\_xts@xing.com](mailto:gdpr_xts@xing.com)
 
 #### XING Exchange
 
