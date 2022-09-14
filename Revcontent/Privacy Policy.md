@@ -316,9 +316,9 @@ If you have any questions or need to contact us, please do so at [privacy@revcon
 
 Revcontent, LLC
 
-1680 Fruitville Road
+1515 Fruitville Road
 
-Suite 400
+Suite 100
 
 Sarasota, FL 34236
 
