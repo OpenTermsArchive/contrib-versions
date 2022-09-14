@@ -960,7 +960,7 @@ Code that tricks users into subscribing to or purchasing content via their mobil
 
 Toll fraud includes any type of billing except premium SMS and premium calls. Examples of this include direct operator billing, wireless access point (WAP) and mobile airtime transfer. WAP fraud is one of the most prevalent types of toll fraud. WAP fraud can include tricking users into clicking a button on a silently loaded, transparent WebView. Upon performing the action, a recurring subscription is initiated, and the confirmation SMS or email is often hijacked to prevent users from noticing the financial transaction.
 
-Effective 1 November 2022
+Effective from 15 February 2023
 
 ### Stalkerware
 
