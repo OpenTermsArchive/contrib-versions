@@ -3,7 +3,7 @@ Google API Services User Data Policy
 
 Stay organized with collections Save and categorize content based on your preferences.
 
-_Last updated May 18, 2022_
+_Last updated August 22, 2022_
 
 Google API Services, including Google Sign-In, are part of an authentication and authorization framework that gives you, the developer, the ability to connect directly with Google users when you would like to request access to Google user data. The policy below, as well as the [Google APIs Terms of Service](https://developers.google.com/terms), govern the use of Google API Services when you request access to Google user data. Please check back from time to time as these policies are occasionally updated.
 
@@ -25,14 +25,14 @@ You must publish a privacy policy that fully documents how your application inte
 
 **Disclosures about data use should be prominent and timely.** Your privacy policy and any in-product notifications regarding data use should be prominently displayed in your application interface so that users can find this information easily. Where possible, disclosures about data use should be timely and shown in context.
 
-Request relevant permissions
-----------------------------
+Request the minimum relevant permissions
+----------------------------------------
 
 Permission requests should make sense to users, and should be limited to the critical information necessary to implement your application.
 
-**Don't request access to information that you don't need.** Only request access to the minimal, technically feasible [scope](https://developers.google.com/identity/protocols/googlescopes) of access that is necessary to implement existing features or services in your application, and limit access to the minimum amount of data needed. Don't attempt to "future proof" your access to user data by requesting access to information that might benefit services or features that have not yet been implemented.
+**Don't request access to information that you don't need.** Only request access to the permissions necessary to implement your application's features or services. If your application does not require access to specific permissions, then you must not request access to these permissions. Don't attempt to "future proof" your access to user data by requesting access to information that might benefit services or features that have not yet been implemented.
 
-**Request permissions in context where possible.** Request access to user data in context (via incremental auth) whenever you can, so that users understand why you need the data.
+**Request permissions in context where possible.** Only request access to user data in context (via incremental auth) whenever you can, so that users understand why you need the data.
 
 Deceptive or unauthorized use of Google API Services is prohibited
 ------------------------------------------------------------------
@@ -47,7 +47,7 @@ Overall there should be no surprises for Google users: hidden features, services
 
 **Do not mislead Google about an application's operating environment.** You must accurately represent the environment in which the authentication page appears. For example, don't claim to be an Android application in the user agent header if your application is running on iOS, or represent that your application's authentication page is rendered in a desktop browser if instead the authentication page is rendered in an embedded web view.
 
-**Do not use undocumented APIs without express permission.** Don't reverse engineer undocumented Google API Services or otherwise attempt to derive or use the underlying source code of undocumented Google API Services. You may only access data from Google API Services according to the means stipulated in the official documentation of that API Service, as provided on Google's developer site.
+**Do not use undocumented APIs without express permission.** Don't reverse engineer undocumented Google API Services or otherwise attempt to derive or use the underlying source code of undocumented Google API Services. You may only access data from Google API Services according to the means stipulated in the official documentation of that API Service, as provided on Google's [Developer Page](https://developers.google.com/).
 
 **Do not make false or misleading statements about any entities that have allegedly authorized or managed your application.** You must accurately represent the company, organization, or other authority that manages your application. Making false representations about client credentials to Google or Google users is grounds for suspension.
 
@@ -63,63 +63,48 @@ The Children's Online Privacy Protection Act, or [COPPA](https://www.ftc.gov/tip
 Maintain a secure operating environment
 ---------------------------------------
 
-You must take reasonable and appropriate steps to protect all applications or systems that make use of Google API Services against unauthorized or unlawful access, use, destruction, loss, alteration, or disclosure.
+We expect all user data is secure in transit and at rest. Take reasonable and appropriate steps to protect all applications or systems that make use of Google API Service and any data derived from it against unauthorized or unlawful access, use, destruction, loss, alteration, or disclosure.
 
 Additional Requirements for Specific API Scopes
 -----------------------------------------------
 
-> _More information about the assessment requirements to obtain (or keep) access to Restricted Scopes is available in the [OAuth Application Verification FAQ](https://support.google.com/cloud/answer/9110914#restricted-scopes)._
-> 
-> **_For Gmail Restricted Scopes:_**
-> 
-> _Enforcement of the Gmail requirements in this section began on January 15, 2019. Applications that had access to Gmail Restricted Scopes prior to January 15, 2019 must obtain their first Letter of Assessment no later than December 31, 2019 to keep access to Gmail Restricted Scopes. All other apps must first be verified and obtain the letter prior to being granted access to Gmail Restricted Scopes._
-> 
-> **_For Drive Restricted Scopes:_**
-> 
-> _To learn more about the new Drive requirements, read our blog post, [Enhancing security controls for Google Drive third-party apps](https://cloud.google.com/blog/products/identity-security/enhancing-security-controls-for-google-drive-third-party-apps)._
-> 
-> **_For Google Fit Restricted Scopes:_**
-> 
-> _Enforcement of the Google Fit requirements in this section began on May 18, 2022. Applications that had access to Google Fit Restricted Read Health Scopes prior to the enforcement start date will be informed by Google when to obtain their first Letter of Assessment to keep access to Google Fit Restricted Read Health Scopes. All other apps must first be verified and obtain the letter prior to being granted access to Google Fit Restricted Read Health Scopes. To learn more about the new Google Fit requirements, read the [Google Fit Developer and User Data Policy](https://developers.google.com/fit/policy)._
+Certain Google OAuth API Scopes (the "[Sensitive](https://support.google.com/cloud/answer/9110914#sensitive-scopes) and [Restricted](https://support.google.com/cloud/answer/9110914#restricted-scopes) Scopes") are subject to additional requirements that can be found in each product's User Data and Developer Policy or the [Google Developer Page](https://developers.google.com/). More information about the requirements to obtain (or keep) access to these scopes is also available in the [OAuth Application Verification FAQ](https://support.google.com/cloud/answer/9110914#restricted-scopes).
 
-Certain [Google OAuth API Scopes](https://developers.google.com/identity/protocols/googlescopes) (the "Restricted Scopes") are subject to additional requirements in this section.
+> **Note:** If your app is only used by users within your own domain, then these requirements do not apply. [Google Workspace](https://support.google.com/a/topic/29157?ref_topic=7570177) can control access to connected applications [via allowlisting](https://support.google.com/a/answer/7281227). Learn more about [best practices](https://cloud.google.com/blog/products/g-suite/take-charge-your-oauth-ecosystem-these-best-practices) for managing your enterprise OAuth ecosystem.
 
-> **Note:** If your app is only used by users within your own domain, then these requirements do not apply. As well, [G Suite administrators](https://support.google.com/a/topic/29157?ref_topic=7570177) can control access to connected applications [via whitelisting](https://support.google.com/a/answer/7281227). Learn more about [best practices](https://cloud.google.com/blog/products/g-suite/take-charge-your-oauth-ecosystem-these-best-practices) for managing your enterprise OAuth ecosystem.
+**Additional requirements include:**
 
-**Restricted Scopes:**
-
-*   **Gmail** - Any Gmail API scope that permits an application to
-    *   Read, create, or modify message bodies (including attachments), metadata, or headers; or
-    *   Control mailbox access, email forwarding, or admin settings.
-*   **Drive** - Any Drive API scope that permits an application to read, modify, or manage the content or metadata of a user’s Drive files, without the user individually granting file-by-file access.
-*   **Google Fit** - Any Google Fit API scope that permits an application to read or write a user's health and fitness data types, which include activity, blood glucose, blood pressure, body temperature, body measurement data (body fat percentage, height, weight), heart rate, location, nutrition, oxygen saturation, reproductive health, and sleep data.
-
-[Here](https://support.google.com/cloud/answer/9110914#restricted-scopes) is a list of the Restricted Scopes.
-
-**Application Type:** Only certain application types may access Restricted Scopes for each product.
-
-| **Product** | **Permitted Application Types** |
-| --- | --- |
-| Gmail | 1.  **Native and web email clients** that allow users to compose, send, read, and process email via a user interface<br>2.  **Applications that automatically backup email**<br>3.  **Applications that enhance the email experience for productivity purposes** (such as applications for customer relationship management, delayed sending of email, or mail merge)<br>4.  **Applications that use information from emails to provide reporting or monitoring services for the benefit of users** (such as applications that automate travel itineraries or track flight or package delivery statuses) |
-| Drive | 1.  **Native and web apps that provide local sync or automatic backup of users’ Drive files**<br>2.  **Productivity and educational applications** (including task management, note taking, workgroup communications, and classroom collaboration applications) that only use Restricted Scopes to handle Drive files (or their metadata or permissions) via the application’s user interface |
-| Fit | 1.  Applications or services with one or more features designed to benefit users’ health and fitness via a user interface allowing users to directly journal, report, monitor, and/or analyze their physical activity, sleep, mental well-being, nutrition, health measurements, physical descriptions, and/or other health or fitness-related descriptions and measurements.<br>2.  Applications or services with one or more features designed to benefit users’ health and fitness via a user interface allowing users to sync their physical activity, sleep, mental well-being, nutrition, health measurements, physical descriptions, and/or other health or fitness-related descriptions and measurements. |
-
-**Limited Use:** Your use of data obtained via the Restricted Scopes must comply with these requirements:
-
-1.  Limit your use of data to providing or improving user-facing features that are prominent in the requesting application's user interface. All other uses of the data are prohibited;
-2.  Only transfer the data to others if necessary to provide or improve user-facing features that are prominent in the requesting application's user interface. You may also transfer data as necessary to comply with applicable law or as part of a merger, acquisition, or sale of assets with notice to users. All other transfers or sales of the user data are prohibited;
-3.  Don't use or transfer the data for serving ads, including retargeting, personalized, or interest-based advertising; and
-4.  Don't allow humans to read the data, unless
-    1.  You first obtained the user's affirmative agreement to view specific messages, files, or other data, with the limited exception of use cases approved by Google under additional terms applicable to the Nest Device Access program;
-    2.  It is necessary for security purposes (such as investigating a bug or abuse);
-    3.  It is necessary to comply with applicable law; or
-    4.  Your use is limited to internal operations and the data (including derivations) have been aggregated and anonymized.
-
-These prohibitions apply to the raw data obtained from Restricted Scopes and data aggregated, anonymized, or derived from them. You must ensure that your employees, agents, contractors, and successors comply with this Google API Services: User Data Policy.
-
-**Secure Data Handling:** Applications accessing Restricted Scopes must demonstrate that they adhere to certain security practices. Depending on the API being accessed and number of user grants or users, applications must pass an annual security assessment and obtain a Letter of Assessment from a Google-designated third party. Local client applications that only allow user-configured transmissions of Restricted Scope data from the device may be exempt from this requirement.
+1.  **Appropriate Access:** Developers may only request access to the scopes for a permitted Application Type described by the product. Such application types can be found under an Appropriate Access heading in the product specific policy or the product's [Google Developer Page](https://developers.google.com/).
+    
+2.  **Limited Use:** Your use of data obtained via the product's specified scopes must comply with the below requirements. These requirements apply to the raw data obtained from the scopes and data aggregated, anonymized, or derived from them.
+    
+    1.  Limit your use of data to providing or improving user-facing features that are prominent in the requesting application's user interface;
+        
+    2.  Transfers of data are not allowed, except:
+        
+        1.  To provide or improve your appropriate access or user-facing features that are visible and prominent in the requesting application's user interface and only with the user's consent;
+        2.  For security purposes (for example, investigating abuse);
+        3.  To comply with applicable laws; or,
+        4.  As part of a merger, acquisition, or sale of assets of the developer after obtaining explicit prior consent from the user.
+    3.  Don't allow humans to read the data, unless:
+        
+        1.  You first obtained the user's affirmative agreement to view specific messages, files, or other data, with the limited exception of use cases approved by Google under additional terms applicable to the Nest Device Access program;
+        2.  It is necessary for security purposes (for example, investigating a bug or abuse);
+        3.  It is necessary to comply with applicable law; or
+        4.  The data (including derivations) is aggregated and used for internal operations in accordance with applicable privacy and other jurisdictional legal requirements.
+    
+    All other transfers, uses, or sales of user data are prohibited, including:
+    
+    1.  Transferring or selling user data to third parties like advertising platforms, data brokers, or any information resellers.
+    2.  Transferring, selling, or using user data for serving ads, including retargeting, personalized or interest-based advertising.
+    3.  Transferring, selling, or using user data to determine credit-worthiness or for lending purposes.
+    
+    You must ensure that your employees, agents, contractors, and successors comply with this Google API Services User Data Policy.
+    
+3.  **Secure Data Handling:** Applications accessing the product specified scopes (the "[Sensitive](https://support.google.com/cloud/answer/9110914#sensitive-scopes) and [Restricted](https://support.google.com/cloud/answer/9110914#restricted-scopes) Scopes") must demonstrate that they adhere to certain security practices. Depending on the API being accessed and number of user grants or users, applications must pass an annual security assessment and obtain a Letter of Assessment from a Google-designated third party. More information about the assessment requirements to obtain or keep access to the scopes is also available in the [OAuth Application Verification FAQ](https://support.google.com/cloud/answer/9110914#restricted-scopes) and the product's [Google Developer Page](https://developers.google.com/).
+    
 
 Enforcement
 -----------
 
-You must access Google API Services in accordance with the [Google APIs Terms of Service](https://developers.google.com/terms). If you are found to be out of compliance with the [Google APIs Terms of Service](https://developers.google.com/terms), this Google API Services: User Data Policy, or any Google product policies that are applicable to the Google API Service you are using, Google may revoke or suspend your access to Google API Services and other Google products and services. Your access to Google API Services may also be revoked if your application enables end-users or other parties to violate the Google APIs Terms of Service and/or Google policies.
+You must access Google API Services in accordance with the [Google APIs Terms of Service](https://developers.google.com/terms). If you are found to be out of compliance with the [Google APIs Terms of Service](https://developers.google.com/terms), this Google API Services: User Data Policy, or any Google product policies that are applicable to the Google API Service you are using, Google may revoke or suspend your access to Google API Services and other Google products and services if you are found in violation of other product policies, terms of service, or other guidelines. Your access to Google API Services may also be revoked if your application enables end-users or other parties to violate the Google APIs Terms of Service and/or Google policies.
