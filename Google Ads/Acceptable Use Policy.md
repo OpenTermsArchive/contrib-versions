@@ -168,7 +168,7 @@ Our advertising policies cover four broad areas:
 > 
 > ### [Editorial](https://support.google.com/adspolicy/answer/6021546)
 > 
-> > In order to provide a quality user experience, Google requires that all ads, extensions, and destinations meet high professional and editorial standards. We only allow ads that are clear, professional in appearance, and that lead users to content that is relevant, useful, and easy to interact with.
+> > In order to provide a quality user experience, Google requires that all ads, assets, and destinations meet high professional and editorial standards. We only allow ads that are clear, professional in appearance, and that lead users to content that is relevant, useful, and easy to interact with.
 > > 
 > > _Examples of promotions that don't meet these editorial and professional requirements:_
 > > 
