@@ -1,9 +1,9 @@
- Add languages 
-
 Toggle the table of contents
 
 Terms of Use
 ============
+
+ Add languages 
 
 *   [Page](https://foundation.wikimedia.org/wiki/Terms_of_Use/en "View the content page [c]")
 *   [Discussion](https://foundation.wikimedia.org/wiki/Talk:Terms_of_Use/en "Discussion about the content page [t]")
