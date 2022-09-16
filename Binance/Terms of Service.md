@@ -342,19 +342,19 @@ Before transacting in Binance Leveraged Tokens, you acknowledge and agree that y
 
 ### 13\. BUSD Conversion
 
-Deposits
+A. Deposits
 
 From such time on the Conversion Inception Date as Binance may determine, when you deposit or receive a Designated Stablecoin into your Binance Account, the amount received will automatically be converted into an equivalent amount of BUSD at a rate of 1 to 1.
 
-Existing balances
+B. Existing balances
 
 At such time on the Conversion Inception Date as Binance may determine, any balance in your Binance Account denominated in a Designated Stablecoin will automatically be converted into an equivalent amount of BUSD at a rate of 1 to 1.
 
-Withdrawals
+C. Withdrawals
 
 On or after the Conversion Inception Date, if you have a balance in your Binance Account denominated in BUSD, you may give Instructions to withdraw such balance from your Binance Account either in BUSD or in any of the Designated Stablecoins. Where you choose to withdraw a Designated Stablecoin, you will receive an amount equal to your balance in BUSD, converted into the relevant Designated Stablecoin at a rate of 1 to 1, minus any applicable withdrawal and transaction fees.
 
-Exceptions
+D. Exceptions
 
 Binance reserves the right to suspend or terminate the Designated Stablecoin Conversion for any or all Designated Stablecoins at any time without prior notice. Where necessary due to market conditions affecting one or more Designated Stablecoins, Binance may adjust the conversion rate used for the Designated Stablecoin Conversion.
 
