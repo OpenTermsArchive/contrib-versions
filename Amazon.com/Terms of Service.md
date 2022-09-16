@@ -29,8 +29,6 @@ ELECTRONIC COMMUNICATIONS
 COPYRIGHT
 ---------
 
- 
-
 All content included in or made available through any Amazon Service, such as text, graphics, logos, button icons, images, audio clips, digital downloads, data compilations, and software is the property of Amazon or its content suppliers and protected by United States and international copyright laws. The compilation of all content included in or made available through any Amazon Service is the exclusive property of Amazon and protected by U.S. and international copyright laws.
 
 TRADEMARKS
@@ -72,7 +70,7 @@ RETURNS, REFUNDS AND TITLE
 
  
 
-Amazon does not take title to returned items until the item arrives at our fulfillment center. At our discretion, a refund may be issued without requiring a return. In this situation, Amazon does not take title to the refunded item. For more information about our returns and refunds, please see our [Returns Center](https://www.amazon.com/returns) .
+Amazon does not take title to returned items until the item arrives at our fulfillment center. At our discretion, a refund may be issued without requiring a return. In this situation, Amazon does not take title to the refunded item. For more information about our returns and refunds, please see our [Returns Center](https://www.amazon.com/returns).
 
 PRODUCT DESCRIPTIONS
 --------------------
@@ -140,8 +138,6 @@ Amazon.com, Inc.
 P.O. Box 81226
 Seattle, WA 98108-1226
 
-[https://www.amazon.com](https://www.amazon.com/)
-
   
 
 ADDITIONAL AMAZON SOFTWARE TERMS
@@ -167,7 +163,7 @@ HOW TO SERVE A SUBPOENA OR OTHER LEGAL PROCESS
 
 Amazon.com, Inc.
 Corporation Service Company
-300 Deschutes Way SW, Ste. 208 MC-CSC1
+300 Deschutes Way SW, Suite 208 MC-CSC1
 Tumwater, WA 98501
 Attn: Legal Department – Legal Process
 
