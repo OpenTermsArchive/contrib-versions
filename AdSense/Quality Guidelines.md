@@ -25,9 +25,9 @@ General guidelines
 
 *   Create a useful, information-rich site, and write pages that clearly and accurately describe your content.
 *   Think about the words users would type to find your pages, and make sure that your site actually includes those words within it.
-*   Ensure that your [`<title>` elements](https://support.google.com/search/docs/advanced/appearance/title-link) and `alt` attributes are descriptive, specific, and accurate.
+*   Ensure that your [`<title>` elements](https://support.google.com/search/docs/appearance/title-link) and `alt` attributes are descriptive, specific, and accurate.
 *   Design your site to have a clear conceptual page hierarchy.
-*   Follow our recommended best practices for [images](https://support.google.com/search/docs/advanced/guidelines/google-images), [video](https://support.google.com/search/docs/advanced/guidelines/video), and [structured data](https://support.google.com/search/docs/appearance/structured-data/intro-structured-data).
+*   Follow our recommended best practices for [images](https://support.google.com/search/docs/appearance/google-images), [video](https://support.google.com/search/docs/appearance/video), and [structured data](https://support.google.com/search/docs/appearance/structured-data/intro-structured-data).
 *   When using a content management system (for example, Wix or WordPress), make sure that it creates pages and links that search engines can crawl.
 *   To help Google fully understand your site's contents, allow all site assets that would significantly affect page rendering to be crawled: for example, CSS and JavaScript files that affect the understanding of the pages. The Google indexing system renders a web page as the user would see it, including images, CSS, and JavaScript files. To see which page assets that Googlebot cannot crawl, use the [URL Inspection tool](https://support.google.com/webmasters/answer/9012289). To debug directives in your robots.txt file, use the [robots.txt Tester](https://support.google.com/webmasters/answer/6062598) tool.
 *   Allow search bots to crawl your site without session IDs or URL parameters that track their path through the site. These techniques are useful for tracking individual user behavior, but the access pattern of bots is entirely different. Using these techniques may result in incomplete indexing of your site, as bots may not be able to eliminate URLs that look different but actually point to the same page.
@@ -78,7 +78,7 @@ If you believe that another site is abusing Google's quality guidelines, please 
 
 **Follow** good practices:
 
-*   Monitoring your site for [hacking](https://support.google.com/search/docs/advanced/security/what-is-hacked) and removing hacked content as soon as it appears
+*   Monitoring your site for [hacking](https://support.google.com/search/docs/monitor-debug/security/what-is-hacked) and removing hacked content as soon as it appears
 *   Preventing and removing [user-generated spam](https://support.google.com/search/docs/advanced/guidelines/user-gen-spam) on your site
 
 If your site violates one or more of these guidelines, then Google may take [manual action](https://support.google.com/webmasters/answer/9044175) against it. Once you have remedied the problem, you can [submit your site for reconsideration](https://support.google.com/webmasters/answer/35843).
