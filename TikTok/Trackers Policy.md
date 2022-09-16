@@ -1,7 +1,7 @@
 **TikTok Web Cookies Policy**
 =============================
 
-_Last updated: 3 August 2020_
+_Last updated: 16 September 2022_
 
 You can change your cookie settings on the Websites to accept or refuse certain tracking technologies at any time via our Cookie Settings tool, which you can access by clicking the link below.
 
@@ -35,7 +35,7 @@ The types of tracking technologies used by us and our partners in connection wit
 
 ### **(i) Strictly necessary**
 
-These tracking technologies are essential to provide you with the Website and the features you have requested, such as to allow you to log into secure areas of the Website. Because these technologies are essential for the Website and the features you have requested to work, you cannot decline these tracking technologies.
+These tracking technologies are strictly necessary to provide you with the Website and the features you have requested, such as to allow you to log into secure areas of the Website. Because these technologies are essential for the Website and the features you have requested to work, you cannot decline these tracking technologies.
 
 _First-party tracking technologies (set by TikTok):_
 
@@ -75,8 +75,6 @@ We use first-party tracking technologies for the following functionality purpose
 
 *   Cookie consent (remembering your cookie consent preferences)
 
-  
-
 Some of these tracking technologies have a maximum duration of 24 months.
 
 _Third-party tracking technologies (set by our partners):_
@@ -107,7 +105,7 @@ Some of our Websites use third-party advertising and marketing tracking technolo
 
 _First-party tracking technologies (set by TikTok):_
 
-None for this purpose.
+We use first-party tracking technologies to improve our marketing campaigns, including to track ad conversions from ads for TikTok, build targeted audiences, optimise TikTok ads on third party websites and apps for current and future visitors and remarket to people who have already taken action on our Websites or on TikTok ads.
 
 _Third-party tracking technologies (set by our partners):_ 
 
@@ -115,32 +113,37 @@ We also deploy tracking technologies from the following third parties for the fo
 
 *   AppsFlyer ([https://www.appsflyer.com/privacy-policy/](https://www.appsflyer.com/privacy-policy/)) 
 
-*   Purpose: App download attribution, campaign measurement and remarketing services.  When you download TikTok via a Website, AppsFlyer collects certain data from your device to help us understand the source of the download, the advert through which you accessed TikTok, and when the installation happened. Your post-installation activity, such as what videos you have viewed/accounts you have followed, will also be used to measure campaign effectiveness. 
+*   Purpose: App download attribution, campaign measurement and remarketing services.  For example, when you download TikTok via a Website, AppsFlyer collects selective data from your device to help us understand the download source, the ad you clicked on to access TikTok, and when the installation happened. Your post-installation activity, such as what videos you have viewed/accounts you have followed, will also be used to measure campaign effectiveness. 
 
 *   Duration: 24 months 
 
 *   Google Analytics remarketing and search engine optimisation ([https://policies.google.com/privacy](https://policies.google.com/privacy))
 
-*   Purpose: To connect Google searches with visits to our Websites.  Also to connect activity on a Website with the Google Ads network for the remarketing of our products and services, and to generate demographic and interest reports. 
+*   Purpose: To connect Google searches with visits to our Websites. To improve our marketing campaigns, including to track ad conversions from ads for TikTok shown on Google build targeted audiences, optimise TikTok ads on third party websites and apps for current and future visitors and remarket to people who have already taken some kind of action on our Websites or on TikTok ads.
 
 *   Duration: 24 months 
 
 *   Facebook Pixel ([https://www.facebook.com/policy](https://www.facebook.com/policy))
 
-*   Purpose: Track ad conversions from Facebook ads, optimise our ads, build targeted audiences for future ads, and remarket to people who have already taken some kind of action on our Websites. 
+*   Purpose: To improve our marketing campaigns, including to track ad conversions from ads for TikTok shown on Facebook, build targeted audiences, optimise TikTok ads on third party websites and apps for current and future visitors and remarket to people who have already taken action on our websites or on TikTok ads. 
 
 *   Duration: 24 months
 
 *   LinkedIn Insight Tag ([https://www.linkedin.com/legal/privacy-policy](https://www.linkedin.com/legal/privacy-policy))
 
-*   Purpose: Track ad conversions from LinkedIn ads, optimise our ads, build targeted audiences for future ads, and remarket to people who have already taken some kind of action on our Websites. 
+*   Purpose: To improve our marketing campaigns, including to track ad conversions from ads for TikTok shown on LinkedIn, build targeted audiences, optimise TikTok ads on third party websites and apps for current and future visitors and remarket to people who have already taken action on our Websites or on TikTok ads.
 
 *   Duration: 24 months
 
 *   Bing Pixel ([https://privacy.microsoft.com/privacystatement](https://privacy.microsoft.com/privacystatement))
 
-*   Purpose: Track ad conversions from Bing ads, optimise our ads, build targeted audiences for future ads, and remarket to people who have already taken some kind of action on our Websites. 
+*   Purpose: To improve our marketing campaigns, including to track ad conversions from ads for TikTok shown on Bing, build targeted audiences, optimise TikTok ads on third party websites and apps  for current and future visitors and remarket to people who have already taken action on our Websites or on TikTok ads.
 
+*   Duration: 24 months
+
+*   Reddit Pixel ([https://www.reddit.com/policies/privacy-policy](https://www.reddit.com/policies/privacy-policy))
+
+*   Purpose: To improve our marketing campaigns, including to track ad conversions from ads for TikTok shown on Reddit, build targeted audiences, optimise TikTok ads on third party websites and apps for current and future visitors and remarket to people who have already taken action on our Websites or on TikTok ads.
 *   Duration: 24 months
 
 **3\. How to accept or refuse cookies**
