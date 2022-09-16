@@ -18,7 +18,7 @@ General guidelines
 
 **Ways to help Google find your site:**
 
-*   [Ask Google to crawl your pages](https://support.google.com/search/docs/advanced/crawling/ask-google-to-recrawl).
+*   [Ask Google to crawl your pages](https://support.google.com/search/docs/crawling-indexing/ask-google-to-recrawl).
 *   Make sure that any sites that should know about your pages are aware your site is online.
 
 ### Help Google understand your pages
