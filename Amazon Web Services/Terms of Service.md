@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-#### Last Updated: August 19, 2022
+#### Last Updated: September 16, 2022
 
 #### 1\. Universal Service Terms (Applicable to All Services)
 
@@ -552,6 +552,8 @@ You must have all necessary rights to use any domain name that you use in conjun
 **39.8.** AWS IoT TwinMaker is designed to help customers build digital twins of physical systems such as machines, factory equipment, and buildings. Data collected through your use of AWS IoT TwinMaker should be evaluated for accuracy as appropriate for your use case. AWS IoT TwinMaker should not be used as a substitute for human monitoring of physical systems for purposes of assessing whether such systems are operating safely. You and your End Users are solely responsible for all decisions made, advice given, actions taken, and failures to take action based on your use of AWS IoT TwinMaker.
 
 **39.9.** AWS IoT ExpressLink is AWS cloud connectivity software and specifications that select AWS Partner Network (APN) Partners may incorporate into hardware modules they develop, manufacture, and offer to AWS customers. If you purchase a hardware module (including any evaluation kit) from an APN Partner that includes AWS IoT ExpressLink, you agree that AWS is not a party to any agreement between you and the APN Partner governing your purchase and use of the module, AWS is not responsible or liable to you for the module, and AWS does not make any representations or warranties with respect to the module.   
+
+**39.10.** The FreeRTOS Extended Maintenance Plan (“FreeRTOS EMP”) provides subscribing customers with security patches and critical bug fixes on a chosen FreeRTOS Long Term Support (LTS) version beyond the expiry of that version’s initial LTS period. FreeRTOS EMP is a “Service” for purposes of the Agreement. Any code, fixes or patches (collectively, “EMP Patches”) that you receive, obtain or access in connection with FreeRTOS EMP that have not been incorporated into the publicly available FreeRTOS libraries are AWS Content provided to you under the [Intellectual Property License](https://aws.amazon.com/legal/aws-ip-license-terms/), except that AWS also grants you a limited, non-exclusive, non-sublicensable, non-transferrable, perpetual license to (a) modify and create derivative works of the EMP Patches and (b) to distribute the EMP Patches in object code form only.  
 
 #### 40\. Amazon QuickSight
 
