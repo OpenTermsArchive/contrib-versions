@@ -62,12 +62,12 @@ SHARING OF INFORMATION
   
 We may share the information we collect as follows or as otherwise described in this Privacy Policy:
 
-*   With vendors, consultants and other service providers who need access to such information to carry out work or perform services on our behalf;
-*   In response to a request for information if we believe disclosure is in accordance with, or required by, any applicable law, rule, regulation or legal process;
-*   If we believe your actions are inconsistent with our user agreements or policies, or to protect the rights, property or safety of Revcontent or others;
-*   In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business by another company;
-*   Between and among Revcontent and any current or future parent, subsidiary and/or affiliated company; and
-*   With your consent or at your direction.
+* With vendors, consultants and other service providers who need access to such information to carry out work or perform services on our behalf;
+* In response to a request for information if we believe disclosure is in accordance with, or required by, any applicable law, rule, regulation or legal process;
+* If we believe your actions are inconsistent with our user agreements or policies, or to protect the rights, property or safety of Revcontent or others;
+* In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business by another company;
+* Between and among Revcontent and any current or future parent, subsidiary and/or affiliated company; and
+* With your consent or at your direction.
 
 We may also share aggregated or de-identified information, which cannot reasonably be used to identify you.  For example, we may share de-identified information with advertisers that partner with us to help them understand how well their advertisements performed.
 
@@ -122,9 +122,9 @@ _Legal Basis for Processing_
 
 If you are a resident of the EEA, when we process your personal data we will only do so in the following situations:
 
-*   We need to use your personal data to perform our responsibilities under our contract with you (e.g., processing payments for and providing the services you have requested).
-*   We have a legitimate interest in processing your personal data. For example, we may process your personal data to provide content and advertisements that may be of interest to you, to communicate with you about changes to our Services, and to provide, secure, and improve our Services.
-*   There is another applicable lawful basis under which we are permitted to process your personal data.
+* We need to use your personal data to perform our responsibilities under our contract with you (e.g., processing payments for and providing the services you have requested).
+* We have a legitimate interest in processing your personal data. For example, we may process your personal data to provide content and advertisements that may be of interest to you, to communicate with you about changes to our Services, and to provide, secure, and improve our Services.
+* There is another applicable lawful basis under which we are permitted to process your personal data.
 
 _Data Subject Requests_
 
@@ -141,7 +141,7 @@ RESIDENTS OF THE STATE OF CALIFORNIA
 
 For Residents of the State of California, the following provisions address the foundational principles of the California Consumer Privacy Act of 2018.
 
-1.  **DATA PROTECTION PRINCIPLES**
+1. **DATA PROTECTION PRINCIPLES**
 
 The COMPANY is committed to processing data in accordance with its responsibilities under the CCPA, and in particular with regard to the principles articulated therein which affirm a right to privacy, provide California consumers should be able to exercise control over their personal information, and provide that there are safeguards against misuse of their personal information.
 
