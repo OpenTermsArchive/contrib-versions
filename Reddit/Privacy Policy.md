@@ -44,15 +44,15 @@ What We Collect (and How it is Used and Shared)
   
 We use information about you to:
 
-*   Provide, maintain, and improve the Services;
-*   Research and develop new services;
-*   Help protect the safety of Reddit and our users, which includes blocking suspected spammers, addressing abuse, and enforcing the [Reddit User Agreement](https://www.redditinc.com/policies/user-agreement) and our other policies;
-*   Send you technical notices, updates, security alerts, invoices, and other support and administrative messages;
-*   Provide customer service;
-*   Communicate with you about products, services, offers, promotions, and events, and provide other news and information we think will be of interest to you (for information about how to opt out of these communications, see [Your Choices](#your-choices) below);
-*   Monitor and analyze trends, usage, and activities in connection with our Services;
-*   Measure the effectiveness of ads shown on our Services; and
-*   Personalize the Services, and provide and optimize advertisements, content, and features that match user profiles or interests.
+* Provide, maintain, and improve the Services;
+* Research and develop new services;
+* Help protect the safety of Reddit and our users, which includes blocking suspected spammers, addressing abuse, and enforcing the [Reddit User Agreement](https://www.redditinc.com/policies/user-agreement) and our other policies;
+* Send you technical notices, updates, security alerts, invoices, and other support and administrative messages;
+* Provide customer service;
+* Communicate with you about products, services, offers, promotions, and events, and provide other news and information we think will be of interest to you (for information about how to opt out of these communications, see [Your Choices](#your-choices) below);
+* Monitor and analyze trends, usage, and activities in connection with our Services;
+* Measure the effectiveness of ads shown on our Services; and
+* Personalize the Services, and provide and optimize advertisements, content, and features that match user profiles or interests.
 
 Much of the information on the Services is public and accessible to everyone, even without an account. By using the Services, you are directing us to share this information publicly and freely.
 
@@ -64,14 +64,14 @@ We offer social sharing features that let you share content or actions you take 
 
 We do not sell your personal information. However, in addition to the personal information that is displayed publicly as described above, we may share personal information in the following ways:
 
-*   _With your consent._ We may share information about you with your consent or at your direction.
-*   _With linked services._ If you link your Reddit account with a third-party service, Reddit will share the information you authorize with that third-party service. You can control this sharing as described in [Your Choices](#your-choices) below.
-*   _With our service providers._ We may share information with vendors, consultants, and other service providers who need access to such information to carry out work for us. Their use of personal data will be subject to appropriate confidentiality and security measures. A few examples: (i) payment processors who process transactions on our behalf, (ii) cloud providers who host our data and our services, (iii) third-party ads measurement providers who help us and advertisers measure the performance of ads shown on our Services.
-*   _To comply with the law._ We may share information in response to a request for information if we believe disclosure is in accordance with, or required by, any applicable law, regulation, legal process, or governmental request, including, but not limited to, meeting national security or law enforcement requirements. To the extent the law allows it, we will attempt to provide you with prior notice before disclosing your information in response to such a request. Our [Transparency Report](https://www.redditinc.com/policies/transparency-report-2020-1) has additional information about how we respond to government requests.
-*   _In an emergency._ We may share information if we believe it's necessary to prevent imminent and serious bodily harm to a person.
-*   _To enforce our policies and rights._ We may share information if we believe your actions are inconsistent with our [User Agreement](https://www.redditinc.com/policies/user-agreement), [rules](https://www.redditinc.com/policies/content-policy), or other Reddit policies, or to protect the rights, property, and safety of ourselves and others.
-*   _With our affiliates._ We may share information between and among Reddit, and any of our parents, affiliates, subsidiaries, and other companies under common control and ownership.
-*   _Aggregated or de-identified information._ We may share information about you that has been aggregated or anonymized such that it cannot reasonably be used to identify you. For example, we may show the total number of times a post has been upvoted without identifying who the visitors were, or we may tell an advertiser how many people saw their ad.
+* _With your consent._ We may share information about you with your consent or at your direction.
+* _With linked services._ If you link your Reddit account with a third-party service, Reddit will share the information you authorize with that third-party service. You can control this sharing as described in [Your Choices](#your-choices) below.
+* _With our service providers._ We may share information with vendors, consultants, and other service providers who need access to such information to carry out work for us. Their use of personal data will be subject to appropriate confidentiality and security measures. A few examples: (i) payment processors who process transactions on our behalf, (ii) cloud providers who host our data and our services, (iii) third-party ads measurement providers who help us and advertisers measure the performance of ads shown on our Services.
+* _To comply with the law._ We may share information in response to a request for information if we believe disclosure is in accordance with, or required by, any applicable law, regulation, legal process, or governmental request, including, but not limited to, meeting national security or law enforcement requirements. To the extent the law allows it, we will attempt to provide you with prior notice before disclosing your information in response to such a request. Our [Transparency Report](https://www.redditinc.com/policies/transparency-report-2020-1) has additional information about how we respond to government requests.
+* _In an emergency._ We may share information if we believe it's necessary to prevent imminent and serious bodily harm to a person.
+* _To enforce our policies and rights._ We may share information if we believe your actions are inconsistent with our [User Agreement](https://www.redditinc.com/policies/user-agreement), [rules](https://www.redditinc.com/policies/content-policy), or other Reddit policies, or to protect the rights, property, and safety of ourselves and others.
+* _With our affiliates._ We may share information between and among Reddit, and any of our parents, affiliates, subsidiaries, and other companies under common control and ownership.
+* _Aggregated or de-identified information._ We may share information about you that has been aggregated or anonymized such that it cannot reasonably be used to identify you. For example, we may show the total number of times a post has been upvoted without identifying who the visitors were, or we may tell an advertiser how many people saw their ad.
 
 How We Protect Your Information
 -------------------------------
@@ -126,10 +126,10 @@ Users in the European Economic Area have the right to request access to, rectifi
   
 As required by applicable law, we collect and process information about individuals in the EEA only where we have a legal basis for doing so. Our legal bases depend on the Services you use and how you use them. We process your information on the following legal bases:
 
-*   You have consented for us to do so for a specific purpose;
-*   We need to process the information to provide you the Services, including to operate the Services, provide customer support and personalized features and to protect the safety and security of the Services;
-*   It satisfies a legitimate interest (which is not overridden by your data protection interests), such as preventing fraud, ensuring network and information security, enforcing our rules and policies, protecting our legal rights and interests, research and development, personalizing the Services, and marketing and promoting the Services; or
-*   We need to process your information to comply with our legal obligations.
+* You have consented for us to do so for a specific purpose;
+* We need to process the information to provide you the Services, including to operate the Services, provide customer support and personalized features and to protect the safety and security of the Services;
+* It satisfies a legitimate interest (which is not overridden by your data protection interests), such as preventing fraud, ensuring network and information security, enforcing our rules and policies, protecting our legal rights and interests, research and development, personalizing the Services, and marketing and promoting the Services; or
+* We need to process your information to comply with our legal obligations.
 
 ### Additional Information for California Users
 
@@ -137,13 +137,13 @@ The California Consumer Privacy Act (CCPA) requires us to provide California res
   
 In the last 12 months, we collected the following categories of personal information from California residents, depending on the Services used:
 
-*   Identifiers, like your Reddit username, email address, IP address, and cookie information.
-*   Commercial information, including information about transactions you undertake with us.
-*   Internet or other electronic network activity information, such as information about your activity on our Services and limited information about your activity on the services of advertisers who use our advertising technology.
-*   Geolocation information based on your IP address, or more specific location information if you authorize your device to provide it to us.
-*   Audiovisual information in pictures, audio, or video content submitted to Reddit.
-*   Professional or employment-related information or demographic information, but only if you explicitly provide it to us, such as by applying for a job or filling out a survey.
-*   Inferences we make based on other collected data, for purposes such as recommending content, advertising, and analytics.
+* Identifiers, like your Reddit username, email address, IP address, and cookie information.
+* Commercial information, including information about transactions you undertake with us.
+* Internet or other electronic network activity information, such as information about your activity on our Services and limited information about your activity on the services of advertisers who use our advertising technology.
+* Geolocation information based on your IP address, or more specific location information if you authorize your device to provide it to us.
+* Audiovisual information in pictures, audio, or video content submitted to Reddit.
+* Professional or employment-related information or demographic information, but only if you explicitly provide it to us, such as by applying for a job or filling out a survey.
+* Inferences we make based on other collected data, for purposes such as recommending content, advertising, and analytics.
 
 You can find more information about (a) what we collect and sources of that information, (b) the business and commercial purposes for collecting that information, and (c) the categories of third parties with whom we share that information in the [What We Collect (and How it is Used and Shared)](#what-we-collect) section above.  
   
