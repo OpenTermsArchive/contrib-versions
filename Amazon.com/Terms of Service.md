@@ -44,7 +44,7 @@ Subject to your compliance with these Conditions of Use and any Service Terms, a
 YOUR ACCOUNT
 ------------
 
-You may need your own Amazon account to use certain Amazon Services, and you may be required to be logged in to the account and have a valid payment method associated with it. If there is a problem charging your selected payment method, we may charge any other valid payment method associated with your account. to manage your payment options. You are responsible for maintaining the confidentiality of your account and password and for restricting access to your account, and you agree to accept responsibility for all activities that occur under your account or password. Amazon does sell products for children, but it sells them to adults, who can purchase with a credit card or other permitted payment method. If you are under 18, you may use the Amazon Services only with involvement of a parent or guardian. Parents and guardians may create profiles for teenagers in their Amazon Household. Alcohol listings on Amazon are intended for adults. You must be at least 21 years of age to purchase alcohol, or use any site functionality related to alcohol. Amazon reserves the right to refuse service, terminate accounts, terminate your rights to use Amazon Services, remove or edit content, or cancel orders in its sole discretion.
+You may need your own Amazon account to use certain Amazon Services, and you may be required to be logged in to the account and have a valid payment method associated with it. If there is a problem charging your selected payment method, we may charge any other valid payment method associated with your account. Visit [Your Payments](https://www.amazon.com/cpe/managepaymentmethods) to manage your payment options. You are responsible for maintaining the confidentiality of your account and password and for restricting access to your account, and you agree to accept responsibility for all activities that occur under your account or password. Amazon does sell products for children, but it sells them to adults, who can purchase with a credit card or other permitted payment method. If you are under 18, you may use the Amazon Services only with involvement of a parent or guardian. Parents and guardians may create profiles for teenagers in their Amazon Household. Alcohol listings on Amazon are intended for adults. You must be at least 21 years of age to purchase alcohol, or use any site functionality related to alcohol. Amazon reserves the right to refuse service, terminate accounts, terminate your rights to use Amazon Services, remove or edit content, or cancel orders in its sole discretion.
 
 REVIEWS, COMMENTS, COMMUNICATIONS, AND OTHER CONTENT
 ----------------------------------------------------
@@ -91,7 +91,7 @@ We generally do not charge your credit card until after your order has entered t
 APP PERMISSIONS
 ---------------
 
-When you use apps created by Amazon, such as the Amazon App or Kindle App, you may grant certain permissions to us for your device. Most mobile devices provide you with information about these permissions. To learn more about these permissions,
+When you use apps created by Amazon, such as the Amazon App or Kindle App, you may grant certain permissions to us for your device. Most mobile devices provide you with information about these permissions. To learn more about these permissions, [click here](https://www.amazon.com/gp/help/customer/display.html/?nodeId=201818880)
 
 SANCTIONS AND EXPORT POLICY
 ---------------------------
