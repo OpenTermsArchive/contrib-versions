@@ -7,7 +7,7 @@ Anchor Navigation
 Data protection
 ---------------
 
-When visiting this website, using the Swiss Post Customer Center login (hereafter referred to as “login”), using Swiss Post apps or using Swiss Post apps that are offered online (hereafter referred to as “online services” \[e.g. microsites\]), data is collected. These services will hereinafter be referred to as “digital presence”.
+When visiting this website, using the “My Post” login (hereafter referred to as “login”), using Swiss Post apps or using Swiss Post apps that are offered online (hereafter referred to as “online services” \[e.g. microsites\]), data is collected. These services will hereinafter be referred to as “digital presence”.
 
 Depending on the use of the digital presence, personal data will be processed by Swiss Post Ltd, Post CH Ltd, Post CH Communication Ltd and Post CH Network Ltd (collectively referred to as “Swiss Post,” “we,” or “us”).
 
