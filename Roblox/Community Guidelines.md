@@ -191,7 +191,6 @@ Roblox aims to build a community that’s transparent about its rules and how th
     *   Uploading unauthorized copies of content
     *   Selling Roblox assets for real money off-platform
     *   Artificially inflating the number of likes or visits to an experience
-    *   Falsely applying a Roblox Verified Badge to any account
 20.  **Spam**  
     Roblox prohibits content that is designed to deceive others or that is shared repeatedly and disruptively anywhere on the platform. This includes:
     *   Clickbait-type advertisements
@@ -212,6 +211,7 @@ Roblox aims to build a community that’s transparent about its rules and how th
     *   Position in a company
     *   Digital representation
     *   A post or comment
+    *   Falsely applying a Roblox Verified Badge to any account
     
     This does not apply to satire, fan art, or tributes that are not misleading to other users.  
       
@@ -306,6 +306,6 @@ To maintain a safe metaverse, Roblox does **not** permit:
 
 See the [Roblox Terms of Use](https://en.help.roblox.com/hc/en-us/articles/115004647846) for more information.
 
-**Last Updated**: September 12, 2022
+**Last Updated**: September 19, 2022
 
 [Return to top](#article-container)
