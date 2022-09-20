@@ -853,7 +853,7 @@ EAB €1,512, based on average annual usage. 12 month contract, discounted unit 
 
 34\. Competition terms and conditions
 
-**View June 2022 rugby newsletter terms and conditions [_here._](https://www.energia.ie/getattachment/Privacy-2018/Terms-Conditions/Heineken-Champions-Cup-Final-Competition-2019-(7)/June-2022-%E2%82%AC50-Merchandise-Voucher-for-Lifestyle-Sports.pdf.aspx;?lang=en-IE)**  
+**View September 2022 rugby newsletter terms and conditions _[here](https://www.energia.ie/getattachment/Privacy-2018/Terms-Conditions/Heineken-Champions-Cup-Final-Competition-2019-(7)/September-2022-Two-tickets-to-Ireland-vs-Fiji-November-Series.pdf.aspx;?lang=en-IE)._**  
   
 **View the ​September NL Competition terms and conditions _[here](https://www.energia.ie/getattachment/Privacy-2018/Terms-Conditions/Heineken-Champions-Cup-Final-Competition-2019-(7)/September-2022-Two-tickets-to-Ireland-vs-South-Africa-Autumn-International-2022-Competition-(1).pdf.aspx;)._** 
 
