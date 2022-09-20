@@ -1,21 +1,13 @@
-1.  You are here:
-2.  GitLab Website Terms of Use
+1. You are here:
+2. GitLab Website Terms of Use
 
 #### Maintained by:
 
-[
-
-![Robin Schulman](/images/team/robin_schulman-crop.jpg "Robin Schulman")
+[![Robin Schulman](/images/team/robin_schulman-crop.jpg "Robin Schulman")
 
 Robin Schulman
 
-@robin
-
-
-
-
-
-](https://gitlab.com/robin)
+@robin](https://gitlab.com/robin)
 
 Last updated: 28 April 2022
 
@@ -44,19 +36,19 @@ These Website Terms of Use (the “Agreement”) govern all use of the GitLab.co
 
 **3.2.** By accepting this Agreement, you agree not to use, or facilitate others to use, the Website in a way that is harmful to others or overburdens or otherwise impairs the Website. Examples of such use include, without limitation:
 
-*   Engaging in illegal or fraudulent activities;
+* Engaging in illegal or fraudulent activities;
     
-*   Infringing a third party’s intellectual property rights;
+* Infringing a third party’s intellectual property rights;
     
-*   Distributing harmful or offensive Content that is defamatory, obscene, abusive, an invasion of privacy or harassing;
+* Distributing harmful or offensive Content that is defamatory, obscene, abusive, an invasion of privacy or harassing;
     
-*   The distribution of malicious/commercial spam;
+* The distribution of malicious/commercial spam;
     
-*   Violating the security or integrity of any computer, network or communications system;
+* Violating the security or integrity of any computer, network or communications system;
     
-*   Using the Website to mine or demonstrate proof-of-work for a cryptocurrency or blockchain; or
+* Using the Website to mine or demonstrate proof-of-work for a cryptocurrency or blockchain; or
     
-*   Using any process or device (automated or otherwise) to retrieve, index, "data mine", "scrape", or in any way reproduce the presentation of this website or its Content, unless otherwise permitted under applicable content licensing permissions.
+* Using any process or device (automated or otherwise) to retrieve, index, "data mine", "scrape", or in any way reproduce the presentation of this website or its Content, unless otherwise permitted under applicable content licensing permissions.
     
 
 #### 4\. DMCA and Privacy Policies
