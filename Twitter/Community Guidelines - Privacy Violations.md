@@ -1,13 +1,13 @@
 Private information and media policy
 ====================================
 
-### Overview 
+### Overview 
 
 **April 2022**
 
 **You may not publish or post other people's private information without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so.**
 
-**In addition, you may not share private media, such as images or videos of private individuals, without their consent. However, we recognise that there are instances where users may share images or videos of private individuals, who are not public figures, as part of a newsworthy event or to further public discourse on issues or events of public interest. In such cases, we may allow the media to remain on the platform.** 
+**In addition, you may not share private media, such as images or videos of private individuals, without their consent. However, we recognise that there are instances where users may share images or videos of private individuals, who are not public figures, as part of a newsworthy event or to further public discourse on issues or events of public interest. In such cases, we may allow the media to remain on the platform.** 
 
 **Sharing someone’s private information:**
 
@@ -39,112 +39,112 @@ Sharing private media:**
 
 Posting images is an important part of our users' experience on Twitter. Where individuals have a reasonable expectation of privacy in an individual piece of media, we believe they should be able to determine whether or not it is shared. Sharing such media could potentially violate users' privacy and may lead to emotional or physical harm. When we are notified by individuals depicted, or their authorized representative, that they did not consent to having media shared, we will remove the media. This policy is not applicable to public figures. 
 
-### What is in violation of this policy? 
+### What is in violation of this policy? 
 
 Under this policy, you can’t share the following types of private information, without the permission of the person who it belongs to:
 
-*   home address or physical location information, including street addresses, GPS coordinates or other identifying information related to locations that are considered private;
-*   identity documents, including government-issued IDs and social security or other national identity numbers – note: we may make limited exceptions in regions where this information is not considered to be private;
-*   contact information, including non-public personal phone numbers or email addresses; 
-*   financial account information, including bank account and credit card details;
-*   other private information, including biometric data or medical records;
-*   media of private individuals without the permission of the person(s) depicted; and
-*   media depicting prisoners of war posted by government or state-affiliated media accounts on or after April 5, 2022. 
+* home address or physical location information, including street addresses, GPS coordinates or other identifying information related to locations that are considered private;
+* identity documents, including government-issued IDs and social security or other national identity numbers – note: we may make limited exceptions in regions where this information is not considered to be private;
+* contact information, including non-public personal phone numbers or email addresses; 
+* financial account information, including bank account and credit card details;
+* other private information, including biometric data or medical records;
+* media of private individuals without the permission of the person(s) depicted; and
+* media depicting prisoners of war posted by government or state-affiliated media accounts on or after April 5, 2022. 
 
 The following behaviors are also not permitted:   
 
-*   threatening to publicly expose someone’s private information;
-*   sharing information that would enable individuals to hack or gain access to someone’s private information without their consent,e.g., sharing sign-in credentials for online banking services;
-*   asking for or offering a bounty or financial reward in exchange for posting someone’s private information;
-*   asking for a bounty or financial reward in exchange for not posting someone’s private information, sometimes referred to as blackmail.  
+* threatening to publicly expose someone’s private information;
+* sharing information that would enable individuals to hack or gain access to someone’s private information without their consent,e.g., sharing sign-in credentials for online banking services;
+* asking for or offering a bounty or financial reward in exchange for posting someone’s private information;
+* asking for a bounty or financial reward in exchange for not posting someone’s private information, sometimes referred to as blackmail.  
      
 
-### What is not a violation of this policy? 
+### What is not a violation of this policy? 
 
 The following are not in violation of this policy:
 
-*   people sharing their own private information;
-*   sharing information that is publicly available elsewhere, in a non-abusive manner; and
-*   sharing information that we don’t consider to be private, including:
-    *   name;
-    *   birthdate or age;
-    *   place of education or employment;
-    *   location information related to commercial property or places of business, where this information is publicly available;
-    *   descriptions of physical appearance;
-    *   gossip, rumours, accusations, and allegations; and
-    *   screenshots of text messages or messages from other platforms (unless they contain private information e.g., phone number).  
+* people sharing their own private information;
+* sharing information that is publicly available elsewhere, in a non-abusive manner; and
+* sharing information that we don’t consider to be private, including:
+    * name;
+    * birthdate or age;
+    * place of education or employment;
+    * location information related to commercial property or places of business, where this information is publicly available;
+    * descriptions of physical appearance;
+    * gossip, rumours, accusations, and allegations; and
+    * screenshots of text messages or messages from other platforms (unless they contain private information e.g., phone number).  
          
 
 **For media, the following are not in violation of our policy:**
 
-*   the media is publicly available or is being covered by mainstream media;
-*   the media and the accompanying tweet text add value to the public discourse or are shared in public interest;
-*   contains eyewitness accounts or on the ground reports from developing events; 
-*   the subject of the media is a public figure. 
+* the media is publicly available or is being covered by mainstream media;
+* the media and the accompanying tweet text add value to the public discourse or are shared in public interest;
+* contains eyewitness accounts or on the ground reports from developing events; 
+* the subject of the media is a public figure. 
 
-### Who can report violations of this policy? 
+### Who can report violations of this policy? 
 
 **Sharing private information:**
 
 Anyone can report private information that has been shared in a clearly abusive way (whether they have a Twitter account or not). In cases where the information hasn’t been shared with a clearly abusive intent, we need to hear directly from the owner of this information (or an authorized representative, such as a lawyer) before taking enforcement action. 
 
   
-**Sharing private media:** 
+**Sharing private media:** 
 
 When reporting private media, we need a first person report in order to make the determination that the image or video has been shared without their permission. We accept reports from: 
 
-1.  Individuals depicted in the reported media or
-2.  Their authorized representative such as:  
+1. Individuals depicted in the reported media or
+2. Their authorized representative such as:  
         a.  parents/legal guardians,  
         b.  lawyers, or  
         c.  legal representative.
 
-### How can I report violations of this policy? 
+### How can I report violations of this policy? 
 
 **In-app**
 
 You can report this content for review in-app as follows:
 
-1.  Select **Report Tweet** from the  icon.
-2.  Select **It’s abusive or harmful**.
-3.  Select **Includes private information**.
-4.  Select the type of information that you’re reporting.
-5.  Select the relevant option depending on who owns the information you are reporting.
-6.  Select up to 5 Tweets to report for review.
-7.  Submit your report.  
+1. Select **Report Tweet** from the  icon.
+2. Select **It’s abusive or harmful**.
+3. Select **Includes private information**.
+4. Select the type of information that you’re reporting.
+5. Select the relevant option depending on who owns the information you are reporting.
+6. Select up to 5 Tweets to report for review.
+7. Submit your report.  
      
 
 **Desktop**
 
 You can report this content for review via desktop as follows:
 
-1.  Select **Report Tweet** from the  icon.
-2.  Select **It’s abusive or harmful**.
-3.  Select **Includes private information**.
-4.  Select the type of information that you’re reporting. 
-5.  Select the relevant option depending on who owns the information you are reporting.
-6.  Select up to 5 Tweets to report for review.
-7.  Submit your report.
+1. Select **Report Tweet** from the  icon.
+2. Select **It’s abusive or harmful**.
+3. Select **Includes private information**.
+4. Select the type of information that you’re reporting. 
+5. Select the relevant option depending on who owns the information you are reporting.
+6. Select up to 5 Tweets to report for review.
+7. Submit your report.
 
 You can also report this content for review via [our private information report form](https://help.twitter.com/forms/private_information), by selecting the type of private information that you want to report.  
   
 
-### What happens if you violate this policy? 
+### What happens if you violate this policy? 
 
   
 When determining the penalty for violating this policy, we consider a number of factors including, but not limited to, the severity of the violation and an individual’s previous record of rule violations. 
 
 **Sharing private information:**
 
-*   The first time you violate this policy by sharing private information (such as home address, identity documents etc.), we will require you to remove this content. We will also temporarily lock you out of your account before you can Tweet again. If you violate this policy by posting private information again after your first warning, your account will be permanently suspended. 
+* The first time you violate this policy by sharing private information (such as home address, identity documents etc.), we will require you to remove this content. We will also temporarily lock you out of your account before you can Tweet again. If you violate this policy by posting private information again after your first warning, your account will be permanently suspended. 
 
-**Sharing private media:** 
+**Sharing private media:** 
 
-*   If you violate this policy by sharing private media of an individual without their consent, we will require you to remove the content and temporarily lock your account while you remove the media. 
+* If you violate this policy by sharing private media of an individual without their consent, we will require you to remove the content and temporarily lock your account while you remove the media. 
 
 If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).
 
-### Additional resources 
+### Additional resources 
 
 Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
 
