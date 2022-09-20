@@ -255,15 +255,15 @@ Subject to your compliance with the Agreement, Bolt Ireland hereby grants you fo
 
 12.2. Bolt Ireland, Bolt Group Companies, Bolt Partners and/or its agents, directors and employees shall not be liable, to the maximum extent permitted by applicable law, for any loss or damage that may arise out of or in connection with this Agreement or the use of the Bolt Apps and/or Bolt Platform and/or Bolt Services, including, but not limited to:
 
-*   any direct or indirect property damage, financial or monetary loss;
+* any direct or indirect property damage, financial or monetary loss;
     
-*   loss of profit or anticipated savings;
+* loss of profit or anticipated savings;
     
-*   loss of business, contracts, contacts, goodwill, reputation and any loss that may arise from the interruption of the business;
+* loss of business, contracts, contacts, goodwill, reputation and any loss that may arise from the interruption of the business;
     
-*   loss or inaccuracy of data; and
+* loss or inaccuracy of data; and
     
-*   any other type of loss or damage.
+* any other type of loss or damage.
     
 
 12.3. The financial liability of Bolt Ireland, Bolt Group Companies, Bolt Partners in connection with the violation of this Agreement shall be limited to EUR 500 per Fleet Partner. You shall have the right to claim for damages only if Bolt Ireland, Bolt Group Companies, Bolt Partners has deliberately violated this Agreement.
@@ -284,11 +284,11 @@ Subject to your compliance with the Agreement, Bolt Ireland hereby grants you fo
 
 13.3. Bolt Ireland may terminate this Agreement with a notice period of 30 (thirty) days at any time and at its own discretion. The notice period shall not apply and the termination shall produce immediate effect, if Bolt Ireland:
 
-*   has a legal or regulatory obligation to terminate this agreement in a manner which does not allow it to respect that notice period; or
+* has a legal or regulatory obligation to terminate this agreement in a manner which does not allow it to respect that notice period; or
     
-*   exercises a right of termination under an imperative reason pursuant to national law;
+* exercises a right of termination under an imperative reason pursuant to national law;
     
-*   can demonstrate that your (also by means of your employees or contractors) have repeatedly infringed any of the applicable terms and conditions.
+* can demonstrate that your (also by means of your employees or contractors) have repeatedly infringed any of the applicable terms and conditions.
     
 
 Or if you have become insolvent or have initiated any liquidation or bankruptcy proceeding or any proceeding similar in nature.
@@ -305,8 +305,8 @@ Bolt Ireland does not have to provide a statement of reasons where it has a lega
 
 The termination of the Agreement will not affect:
 
-*   any accrued rights of either party, including any right to receive any payments due but unpaid before the termination; or
-*   obligations, which are expressed to survive the termination.
+* any accrued rights of either party, including any right to receive any payments due but unpaid before the termination; or
+* obligations, which are expressed to survive the termination.
 
 13.5. Bolt Ireland may immediately suspend the Fleet Partners / Diver's access to the Bolt Platform, Bolt Driver Account, and Bolt Services also during the investigation period if we suspect there is a violation of the Agreement or fraudulent activity. The access suspension is removed as soon as the investigation disproves such suspicions.
 
