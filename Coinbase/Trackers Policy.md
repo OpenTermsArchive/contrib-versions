@@ -32,11 +32,11 @@ We may place cookies from third-party service providers who may use information 
 
 The following are some examples of information that we collect and how we may use it:
 
-*   We may collect and store details of how you use our Sites and Services. Except in limited instances to ensure quality of our Services over the Internet, such information will not be associated with your IP address.
+* We may collect and store details of how you use our Sites and Services. Except in limited instances to ensure quality of our Services over the Internet, such information will not be associated with your IP address.
     
-*   We may collect information such as your language, inferred zip code or area code, unique device identifier, referrer URL, location, and time zone so that we can better understand customer behavior and improve our Services.
+* We may collect information such as your language, inferred zip code or area code, unique device identifier, referrer URL, location, and time zone so that we can better understand customer behavior and improve our Services.
     
-*   We may collect information regarding customer activities on our websites and platforms, which is used to understand which parts of our Sites and Services are of most interest. This data is aggregated, and thus is considered non-personal information for the purposes of this Cookie Policy and our Global Privacy Policy.
+* We may collect information regarding customer activities on our websites and platforms, which is used to understand which parts of our Sites and Services are of most interest. This data is aggregated, and thus is considered non-personal information for the purposes of this Cookie Policy and our Global Privacy Policy.
     
 
 ### WHAT TYPES OF COOKIES DO WE USE?
