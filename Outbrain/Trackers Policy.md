@@ -17,9 +17,9 @@ Please note that Outbrains’ subsidiary Zemanta Inc has a separate Privacy Poli
 
 Outbrain’s mission is to serve interesting recommendations to you based on what we believe are your interests. To achieve our mission we enter into agreements with:
 
-*   online publishers and partners who want to recommend relevant content to their readers (this is [Outbrain Engage](https://www.outbrain.com/help/publishers/what-is-outbrain-engage/));
-*   advertisers who want readers to view their content (this is [Outbrain Amplify](https://www.outbrain.com/help/advertisers/what-is-outbrain-amplify/)); and
-*   third party partners who help us serve relevant recommendations.
+* online publishers and partners who want to recommend relevant content to their readers (this is [Outbrain Engage](https://www.outbrain.com/help/publishers/what-is-outbrain-engage/));
+* advertisers who want readers to view their content (this is [Outbrain Amplify](https://www.outbrain.com/help/advertisers/what-is-outbrain-amplify/)); and
+* third party partners who help us serve relevant recommendations.
 
 For further information on our Amplify (advertiser) services see [here](https://www.outbrain.com/advertisers/?kme=PageClick&km_Home_page=H_Advertisers_cta) and our Engage (publisher) services see [here](https://www.outbrain.com/publishers/?kme=PageClick&km_Home_page=H_Publishers_cta).
 
@@ -29,15 +29,15 @@ We regularly review our compliance with this Privacy Policy. Questions, comments
 
 If Outbrain does not satisfactorily answer your questions or concerns, you may also contact the following for advice, support or complaints:
 
-*   Outbrain’s Data Protection Officer (“DPO”) at [dpo@outbrain.com](mailto:dpo@outbrain.com) ; and/or
-*   the [Information Commissioner’s Office](https://ico.org.uk/concerns/), which is Outbrain’s lead supervisory authority within the European Territories.
+* Outbrain’s Data Protection Officer (“DPO”) at [dpo@outbrain.com](mailto:dpo@outbrain.com) ; and/or
+* the [Information Commissioner’s Office](https://ico.org.uk/concerns/), which is Outbrain’s lead supervisory authority within the European Territories.
 
 2\. Alliances and Adherence
 ---------------------------
 
-*   We adhere to the Self-Regulatory Principles set forth by the [Digital Advertising Alliance](http://digitaladvertisingalliance.org/) (DAA) and the [European Interactive Digital Advertising Alliance](https://www.edaa.eu/) (EDAA);
-*   We are members in good standing of the [Network Advertising Initiative](https://www.networkadvertising.org/) (NAI), an association dedicated to responsible data collection and its use for digital advertising. We also adhere to the NAI Code of Conduct for Web and Mobile. Outbrain also adheres to the Interactive Advertising Bureau’s (IAB) Self-Regulatory Principles for Online Behavioral Advertising, and the IAB Europe OBA Framework; and
-*   We are also TAG Brand Safety Certified [here](https://tag-members-prod.herokuapp.com/registry/lookup?q=outbrain).
+* We adhere to the Self-Regulatory Principles set forth by the [Digital Advertising Alliance](http://digitaladvertisingalliance.org/) (DAA) and the [European Interactive Digital Advertising Alliance](https://www.edaa.eu/) (EDAA);
+* We are members in good standing of the [Network Advertising Initiative](https://www.networkadvertising.org/) (NAI), an association dedicated to responsible data collection and its use for digital advertising. We also adhere to the NAI Code of Conduct for Web and Mobile. Outbrain also adheres to the Interactive Advertising Bureau’s (IAB) Self-Regulatory Principles for Online Behavioral Advertising, and the IAB Europe OBA Framework; and
+* We are also TAG Brand Safety Certified [here](https://tag-members-prod.herokuapp.com/registry/lookup?q=outbrain).
 
 ![](https://www.outbrain.com/privacy/wp-content/uploads/2021/11/rJwgwc0EP-e1639478091999-1024x151.png)
 
@@ -62,11 +62,11 @@ Please see this [Cookie Table](https://www.outbrain.com/privacy/cookies/), whic
 
 **(c) How we may share information**
 
-*   **Sharing Information we learn about you on Our Sites**
+* **Sharing Information we learn about you on Our Sites**
 
 We do not sell and/or share personal data about you with third parties for third party marketing or advertising purposes. We may use various third parties (each listed on the [Cookie Table](https://www.outbrain.com/privacy/cookies/)) to help us market or advertise to you. We require that these third parties and companies agree to comply with all applicable data protection laws, keep all information shared with them confidential and to use the information only to perform their obligations to us. We do this by entering into agreements with all third parties who process personal data. If you post on our blog, your comment and information will be publicly available. Please contact [support@outbrain.com](mailto:support@outbrain.com) to remove your comment.
 
-*   **Using Third Party Services on Our Sites**
+* **Using Third Party Services on Our Sites**
 
 Our Sites contain links to other websites that we do not own or operate. We do not control, recommend or endorse the content, products, services, privacy policies or practices of these third party websites. For example, on Our Sites you will notice clickable icons which take you to the Outbrain Facebook page or the Outbrain LinkedIn page. If you choose to click on these links, you should know that these sites are not owned or operated by Outbrain and therefore these third party websites may send their own cookies to your device and they may independently collect personal data. It is therefore important that you get familiar with the privacy policies of these third party websites.
 
@@ -90,17 +90,17 @@ See more here.
 
 We use UUIDs, IP Address and other Usage Information so that we can serve interesting recommendations. Outbrain’s recommendations may be paid for by an advertiser linking you to a new website or they may be organic such that the link is to another page on the same Partner’s Site. Outbrain may use high-level health interest categories to serve recommendations, that you can find [here](https://www.outbrain.com/privacy/health-categories/).
 
-*   **UUID**
+* **UUID**
 
 When you, as a User, first visit a Partner Site (e.g., CNN.com), Outbrain drops a cookie on your device in order to generate a UUID. Alternatively, if you first interact with a Partner using that Partner’s application, Outbrain receives your advertiser ID which is assigned to you by your device. We catalogue and analyze the content you consume across Partner Sites. Our recommendations are based on: (i) a UUIDs browsing history; (ii) similar browsing patterns of other Users; (iii) recommendations that are generally popular with Outbrain’s audience at this time; (iv) some randomness, and (v) targeting requirements that may be provided or requested by our Amplify clients. As an example, Outbrain may know that UUID 123 (which could be you on your iPhone X on The Guardian using Chrome as your browser) likes to read about far away holiday destinations and that people who like to read about far away holiday destinations also like to read about exotic food. When you interact with Outbrain we do not collect traditional personal data from you, like your email address or name, therefore we cannot associate your name with your UUID (for example, we do not know that John Smith, who is also UUID 123, likes to read about far away holiday destinations).
 
 The UUID is a sequence of numbers and/or letters. This UUID attaches itself to your device and varies depending on your browser combination. In other words, Outbrain records a different UUID depending on which device and/or which browser you use when accessing the Partner Sites. For example, you will have one UUID when you visit a Partner Site from your mobile phone using the browser Safari, and a different UUID when you visit a Partner Site from your iPad using the browser Safari. Outbrain will combine and consolidate a UUID from a mobile device (handheld or tablet) from a browser that then accesses an application (or vice versa) from that same device. Outbrain does not conduct cross device tracking and therefore cannot link a user interacting with Outbrain on their phone as the same user who is interacting with Outbrain on their desktop.
 
-*   **IP Address**
+* **IP Address**
 
 In addition to your UUID, we recognise your IP address, which we translate into geolocation and delete the last octet in order to mask the identifying information. We then use this masked information, in conjunction with information we received from other trusted third party partners (such as MaxMind) to determine a broad understanding of where you are located (e.g., New York). Outbrain will still recognise your IP address even if you opt out of personalised tracking as this is necessary to continue serving you context-based recommendations however, in such instances your IP address is not associated with your UUID and would not form part of any user profile.
 
-*   **Other Usage Information**
+* **Other Usage Information**
 
 In addition to your UUID and IP address, we also collect the following information from you on (a) desktop and mobile web: (i) User Agent data: device type (e.g., iPhone), browser type (e.g., chrome), operating system (e.g. iOS); (ii) the pages visited; (iii) the time of visit; and (iv) referring URLs and other information normally transmitted in HTTP requests. The above statistical information provides us with information about how many Users visited a specific page on our Partner Sites on which the Outbrain widget is installed, how long each User stayed on that page, the type of content on that page they clicked on and how they generally engaged with that page; and (b) on applications (i) application version (as it appears in App Store or Play Store); (ii) application ID or package name (as it appears in the App Store or Play Store); (iii) operating system ( e.g. IOS or Android); (iii) operating system version; and (iv) device model (e.g. iPhone X).This information is considered personal data if Outbrain associates it with a UUID.
 
@@ -108,47 +108,47 @@ As Outbrain does not have a direct relationship with Users interacting with Part
 
 **(b) What cookies and other similar technologies we use**
 
-*   **Outbrain cookies**
+* **Outbrain cookies**
 
-Please see the [Cookie Table](https://www.outbrain.com/privacy/cookies/) under “Users” for a detailed list of the First Party Cookies we use when you interact with Partner Sites where the Outbrain technology is implemented.
+Please see the [Cookie Table](https://www.outbrain.com/privacy/cookies/) under “Users” for a detailed list of the First Party Cookies we use when you interact with Partner Sites where the Outbrain technology is implemented.
 
-*   **Outbrain pixels**
+* **Outbrain pixels**
 
 In addition to Outbrain’s visible widget on Partner Sites, certain Outbrain advertisers may implement the Outbrain pixel on their websites. The Outbrain pixel determines whether the User reaching the page where the pixel is installed has an Outbrain UUID in order to provide reporting to advertisers in respect of their particular campaign. If there is a UUID associated with such end user, Outbrain allows advertisers to either retarget those UUIDs and/or provides advertisers with the total number of Users (on an aggregated and anonymised basis) that reached a particular page (for example, an advertiser does not know that UUID1234 converted but only that 1 conversion took place). Outbrain does not pass its advertisers any personal data (including your UUID) or collect any further personal data via the pixel. Outbrain does not combine information received from the Outbrain pixel information with a UUID’s profile (for example, Outbrain only tracks that 1 conversion has taken place and not the UUID123 has converted when it reaches the advertiser’s chosen page). We require advertisers to disclose the usage of the Outbrain pixel on their own websites.Outbrain may also allow certain trusted third party partners to collect data via cookies delivered through the Outbrain widget. In such cases, Outbrain does not pass these third parties the data which Outbrain collects on its Users but allows such third parties to directly collect data (including personal data) via the widget for fraud and/or security purposes or in order to provide measurement information to advertisers (such as the number of conversions and/or impressions). Any such collection shall be governed by such third parties privacy policy.
 
-*   **Third party pixels**
+* **Third party pixels**
 
 If you click on a link to one of our recommendations, the advertiser sponsoring the recommendation may place cookies (or third party cookies of third parties acting on the advertiser’s behalf) on your device either through redirects prior to arriving on the destination page of the recommendations or upon reaching the destination page. Such cookies are dropped for the purposes of providing analytics to the advertiser with regards to the advertiser’s campaign (for example, to see how many users viewed the advertiser’s campaign). We require our advertisers to disclose the use of third party pixels and/or cookies to end users via their website. As these cookies and/or pixels are added at the sole discretion of our advertisers you will be subject to that advertiser’s privacy notice and/or privacy policy.
 
 **(c) How we may share information**
 
-*   **Our Partners**
+* **Our Partners**
 
 Outbrain does not share and/or sell a User’s entire profiles with any third parties. However, we may share certain elements of a user profile (for example, UUID) with the following partners, including:
 
-1.  Brand safety, analytics and fraud partners;
-2.  Demand Side Platforms (DSP) and Supply Side Platforms (SSP);
-3.  Ad Exchanges and/or Networks; and
-4.  Demand Management Platforms.
+1. Brand safety, analytics and fraud partners;
+2. Demand Side Platforms (DSP) and Supply Side Platforms (SSP);
+3. Ad Exchanges and/or Networks; and
+4. Demand Management Platforms.
 
 Please see [here](https://www.outbrain.com/privacy/outbrain-trusted-partners/) for a list of some of our trusted partners. In addition, we may collect and/ or share some personal data with trusted partners by virtue of participating in the OpenRTB. Many of these partners are registered as IAB TCF Global Vendors and can be found [here](https://iabeurope.eu/vendor-list/).
 
 **(d) Your rights**
 
-*   **Outbrain opt out on desktop and mobile web**
+* **Outbrain opt out on desktop and mobile web**
 
 You may opt out of Outbrain’s personalized recommendations (or, if you have opted out and would like to opt back in) at any time by moving the toggle below. You may also opt out of personalized recommendations via Outbrain’s [Interest Profile](https://my.outbrain.com/recommendations-settings/home) which is a website that provides a general visualization of the data Outbrain knows about you and may use to make its recommendations.
 
-*   **Outbrain opt out on apps**
+* **Outbrain opt out on apps**
 
 In order to opt-out of Outbrain’s recommendations on your mobile applications you can follow the steps below:
 
-1.  iOS Devices: Settings > Privacy > Advertising > Limit Ad Tracking
-2.  Android Devices: Google Settings App > Ads > Opt Out of Interest-based Advertising
+1. iOS Devices: Settings > Privacy > Advertising > Limit Ad Tracking
+2. Android Devices: Google Settings App > Ads > Opt Out of Interest-based Advertising
 
 Please note that an opt out via our Interest Profile and/or this Privacy Policy will not opt you out of personalised tracking on your applications. This opt out must be done via your device settings.
 
-*   **Additional Opt-Out Options**
+* **Additional Opt-Out Options**
 
 You may also opt out of receiving personalized ads served by us or other advertising companies through industry powered tools such as the NAI or the various DAA-based pages (DAA, [http://www.aboutads.info/choices](http://www.aboutads.info/choices); DAAC, [www.youradchoices.ca/choices](http://www.youradchoices.ca/choices) , and/or EDAA [www.youronlinechoices.eu](http://www.youronlinechoices.eu/)). Visiting the NAI, DAA, DAAC, or EDAA consumer choice pages allows you to opt out of all some or all of the participating members’ services. Like Outbrain’s opt out, these opt outs do not mean you will no longer receive any advertising, the advertisements will just not be tailored to you. You will continue to receive advertisements, for example, based on the particular website that you are viewing (i.e., [contextually based ads](https://www.outbrain.com/contextual-advertising/)). Also, if your browsers are configured to reject cookies when you visit the DAA, DAAC or EDAA consumer choice pages, your opt out may not be effective as our opt out is cookie based.  
 
@@ -156,11 +156,11 @@ You may also opt out of receiving personalized ads served by us or other adverti
 
 Even though you have opted out of Outbrain’s personalised recommendations:
 
-*   **You will still see Outbrain recommendations.** Opting out of Outbrain personalization tracking does not mean you will no longer receive recommendations from Outbrain. Instead, it means that Outbrain’s recommendations will not be personalized (i.e. they will be context based recommendations).
-*   **Your opt out will be cookie based and device/browser specific.** If you browse the web from several devices and/or browsers, you will need to opt out from each device and/or browser to ensure that we prevent personalization tracking on all of them. For the same reason, if you buy a new device, change browsers or delete (or clear) the opt out cookie, you will need to opt-out again. Opting out of personalization tracking is not the same as blocking cookies.
-*   **You must not opt in to Outbrain for at least 21 days as the deletion of your profile is tied to your UUID****.** Your opt out from Outbrain’s personalized recommendations is effective immediately. However, if your browser permits local storage and you opt into Outbrain’s personalized recommendations (for example, by accepting a cookie banner) within 21 days of your opt out, it is possible your prior profile will be reconnected to your UUID. If you do not opt in within 21 days, your profile will be deleted and cannot be recovered.
-*   **As with most opt out cookies, the Outbrain browser opt out relies upon a cookie.** The opt-out cookie is intended to be persistent to honor the user’s preferences. However, the “Intelligent Tracking Prevention” feature in iOS11 may impact the persistence of cookies across websites post a 24 hour window. We suggest using another browser or considering blocking all 3rd party cookies from the browser so that you are “opted out” without needing to rely on any company’s actual opt out methodology.
-*   **Your local storage will not be cleared.** Even though you have opted out of Outbrain’s personalised recommendations your local storage will not be automatically cleared and therefore you need to clear this at a browser level in addition to your opt out.
+* **You will still see Outbrain recommendations.** Opting out of Outbrain personalization tracking does not mean you will no longer receive recommendations from Outbrain. Instead, it means that Outbrain’s recommendations will not be personalized (i.e. they will be context based recommendations).
+* **Your opt out will be cookie based and device/browser specific.** If you browse the web from several devices and/or browsers, you will need to opt out from each device and/or browser to ensure that we prevent personalization tracking on all of them. For the same reason, if you buy a new device, change browsers or delete (or clear) the opt out cookie, you will need to opt-out again. Opting out of personalization tracking is not the same as blocking cookies.
+* **You must not opt in to Outbrain for at least 21 days as the deletion of your profile is tied to your UUID****.** Your opt out from Outbrain’s personalized recommendations is effective immediately. However, if your browser permits local storage and you opt into Outbrain’s personalized recommendations (for example, by accepting a cookie banner) within 21 days of your opt out, it is possible your prior profile will be reconnected to your UUID. If you do not opt in within 21 days, your profile will be deleted and cannot be recovered.
+* **As with most opt out cookies, the Outbrain browser opt out relies upon a cookie.** The opt-out cookie is intended to be persistent to honor the user’s preferences. However, the “Intelligent Tracking Prevention” feature in iOS11 may impact the persistence of cookies across websites post a 24 hour window. We suggest using another browser or considering blocking all 3rd party cookies from the browser so that you are “opted out” without needing to rely on any company’s actual opt out methodology.
+* **Your local storage will not be cleared.** Even though you have opted out of Outbrain’s personalised recommendations your local storage will not be automatically cleared and therefore you need to clear this at a browser level in addition to your opt out.
 
 **Business Partners:** You are a Business Partner when you register (or email with Outbrain) on behalf of the company you work for to use the Outbrain Amplify or Outbrain Engage Services.
 
@@ -172,10 +172,10 @@ You may provide certain personal data (such as email address) when you sign up f
 
 We collect and process the personal data above in order to perform our obligations under our agreement as a Business Partner (or prospective Business Partner) with you including to:
 
-*   respond to your questions and requests;
-*   to provide you with access to certain functions and features of our Amplify or Engage services (e.g., to provide and maintain your dashboard account);
-*   verify your identity; and
-*   communicate with you about your account, our products, and available promotions relevant to your use of the Amplify or Engage service.
+* respond to your questions and requests;
+* to provide you with access to certain functions and features of our Amplify or Engage services (e.g., to provide and maintain your dashboard account);
+* verify your identity; and
+* communicate with you about your account, our products, and available promotions relevant to your use of the Amplify or Engage service.
 
 **(b) What cookies and other similar technologies we use**
 
@@ -210,10 +210,10 @@ When we transfer personal data from the European Economic Area (EEA) we will ens
 
 In addition to the description of how we may disclose your personal data for each user type, we may also disclose personal data as follows:
 
-*   Within the family of companies controlled by Outbrain for internal reasons, primarily for business and operational purposes;
-*   If we go through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of our assets, your personal data will likely be among the assets transferred;
-*   When legally required to do so (e.g., to cooperate with law enforcement investigations or other legal proceedings); and/or
-*   To respond to a genuine emergency.
+* Within the family of companies controlled by Outbrain for internal reasons, primarily for business and operational purposes;
+* If we go through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of our assets, your personal data will likely be among the assets transferred;
+* When legally required to do so (e.g., to cooperate with law enforcement investigations or other legal proceedings); and/or
+* To respond to a genuine emergency.
 
 In addition, we combine your personal data with those of other users in order to share trend information and aggregate user statistics with third parties, always in aggregated and anonymized form.
 
@@ -237,13 +237,13 @@ We do not collect or receive any sensitive categories of personal data.
 
 In compliance with certain privacy laws, in particular the European General Data Protection Regulation (GDPR), Outbrain provides specific additional rights for individuals who interact with Outbrain such as the right to access, rectification, right to object, to complaint, erasure and blockage. More specifically and under certain circumstances:
 
-*   the right to request information about whether and which personal data is processed by us, and the right to demand that personal data is rectified or amended.
-*   the right to request that personal data should be deleted.
-*   the right to demand that the processing of personal data should be restricted.
-*   withdraw your consent to the processing and use of your data completely or partially at any time with future application.
-*   have the right to obtain your personal data in a common, structured and mechanically readable format.
-*   contact our data protection officer if there are any questions, comments, complaints or requests in connection with our statement on data protection and the processing of your personal data.
-*   the right to complain to the responsible supervisory authority if believed that the processing of your personal data is in violation of the legislation.
+* the right to request information about whether and which personal data is processed by us, and the right to demand that personal data is rectified or amended.
+* the right to request that personal data should be deleted.
+* the right to demand that the processing of personal data should be restricted.
+* withdraw your consent to the processing and use of your data completely or partially at any time with future application.
+* have the right to obtain your personal data in a common, structured and mechanically readable format.
+* contact our data protection officer if there are any questions, comments, complaints or requests in connection with our statement on data protection and the processing of your personal data.
+* the right to complain to the responsible supervisory authority if believed that the processing of your personal data is in violation of the legislation.
 
 In addition to the above, we reference certain rights for European Territory citizens throughout this Privacy Policy. Pursuant to the GDPR, citizens from “European Territories” mean the European Economic Area (EEA), the European Free Trade Area (EFTA) and Switzerland. For the purpose of this Privacy Policy, the term “European Territories” shall continue to include the United Kingdom, even after the United Kingdom leaves the European Economic Area following Brexit. If you are in the UK, or the European Economic Areas, the controller of your data is Outbrain UK Limited.
 
@@ -258,28 +258,28 @@ This section applies only to California residents. It describes how we collect, 
 
 As a California resident, you have the rights listed below. However, these rights are not absolute, and in certain cases we may decline your request as permitted by law.
 
-*   **Information.** You can request the following information about how we have collected and used your Personal Information during the past 12 months:
-    *   The categories of Personal Information that we have collected.
-    *   The categories of sources from which we collected Personal Information.
-    *   The business or commercial purpose for collecting and/or selling Personal Information.
-    *   The categories of third parties with whom we share Personal Information.
-    *   Whether we have disclosed your Personal Information for a business purpose, and if so, the categories of Personal Information received by each category of third party recipient.
-    *   Whether we’ve sold your Personal Information, and if so, the categories of Personal Information received by each category of third party recipient.
-*   **Access****.** You can request a copy of the Personal Information that we have collected about you during the past 12 months.
-*   **Deletion.** You can ask us to delete the Personal Information that we have collected from you.
-*   **Opt-out of sales****.** If we sell your Personal Information, you can opt-out. In addition, if you direct us not to sell your Personal Information, we will consider it a request pursuant to California’s “Shine the Light” law to stop sharing your personal information covered by that law with third parties for their direct marketing purposes.
-*   **Opt-in.** We contractually prohibit our publishing and advertising clients from placing our technology on pages that target individuals younger than 16 years old. If we learn that you are younger than 16 years old, we will asking for your permission (or if you are younger than 13 years old, your parent or guardian’s permission) to sell your Personal Information before we do so.
-*   **Non discrimination.** You are entitled to exercise the rights described above free from discrimination. This means that we will not penalize you for exercising your rights by taking actions such as denying you services; increasing the price/rate of services; decreasing service quality; or suggesting that we may penalize you as described above for exercising your rights.
+* **Information.** You can request the following information about how we have collected and used your Personal Information during the past 12 months:
+    * The categories of Personal Information that we have collected.
+    * The categories of sources from which we collected Personal Information.
+    * The business or commercial purpose for collecting and/or selling Personal Information.
+    * The categories of third parties with whom we share Personal Information.
+    * Whether we have disclosed your Personal Information for a business purpose, and if so, the categories of Personal Information received by each category of third party recipient.
+    * Whether we’ve sold your Personal Information, and if so, the categories of Personal Information received by each category of third party recipient.
+* **Access****.** You can request a copy of the Personal Information that we have collected about you during the past 12 months.
+* **Deletion.** You can ask us to delete the Personal Information that we have collected from you.
+* **Opt-out of sales****.** If we sell your Personal Information, you can opt-out. In addition, if you direct us not to sell your Personal Information, we will consider it a request pursuant to California’s “Shine the Light” law to stop sharing your personal information covered by that law with third parties for their direct marketing purposes.
+* **Opt-in.** We contractually prohibit our publishing and advertising clients from placing our technology on pages that target individuals younger than 16 years old. If we learn that you are younger than 16 years old, we will asking for your permission (or if you are younger than 13 years old, your parent or guardian’s permission) to sell your Personal Information before we do so.
+* **Non discrimination.** You are entitled to exercise the rights described above free from discrimination. This means that we will not penalize you for exercising your rights by taking actions such as denying you services; increasing the price/rate of services; decreasing service quality; or suggesting that we may penalize you as described above for exercising your rights.
 
 **(b) How to exercise your rights**
 
 You may exercise your California privacy rights described above as follows:
 
-*   **Right to information, access and deletion**. You can request to exercise your information, access and deletion rights by:
-    *   calling us toll free on 1-866-I-OPT-OUT and entering service code 253# to leave us a message.
-    *   emailing [privacy@outbrain.com](mailto:privacy@outbrain.com)
-    *   using the [web form](https://pact.ly/iI1fxy) to submit your request(s) to us
-*   **Right to opt-out of the “sale” of your Personal Information**. We do not sell your Personal Information in the conventional sense (i.e., for money). However, like many companies, we use services that help deliver interest-based ads to you. California law classifies our use of these services as a “sale” of your Personal Information to the companies that provide the services. This is because we allow them to collect information from our website users (e.g., online identifiers and browsing activity) so they can help serve ads more likely to interest you. To opt-out from this “sale”, click on this [link](https://my.outbrain.com/recommendations-settings/home) which will take you to our Interest Profile where you can opt out of personalised recommendations.
+* **Right to information, access and deletion**. You can request to exercise your information, access and deletion rights by:
+    * calling us toll free on 1-866-I-OPT-OUT and entering service code 253# to leave us a message.
+    * emailing [privacy@outbrain.com](mailto:privacy@outbrain.com)
+    * using the [web form](https://pact.ly/iI1fxy) to submit your request(s) to us
+* **Right to opt-out of the “sale” of your Personal Information**. We do not sell your Personal Information in the conventional sense (i.e., for money). However, like many companies, we use services that help deliver interest-based ads to you. California law classifies our use of these services as a “sale” of your Personal Information to the companies that provide the services. This is because we allow them to collect information from our website users (e.g., online identifiers and browsing activity) so they can help serve ads more likely to interest you. To opt-out from this “sale”, click on this [link](https://my.outbrain.com/recommendations-settings/home) which will take you to our Interest Profile where you can opt out of personalised recommendations.
 
 We will need to confirm your identity and California residency to process your requests to exercise your information, access or deletion rights. We cannot process your request if you do not provide us with sufficient detail to allow us to understand and respond to it.
 
