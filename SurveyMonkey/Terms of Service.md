@@ -236,25 +236,25 @@ Unless otherwise noted, the Services are provided by, and you are contracting wi
 
 For any Service provided by Momentive Inc., the following provisions will apply to any terms governing that Service:
 
-*   Contracting Entity. References to “Momentive”, “we”, “us”, and “our” are references to Momentive Inc., located at One Curiosity Way, San Mateo, CA 94403, USA.
-*   Governing Law. Those terms are governed by the laws of the State of California (without regard to its conflict of laws provisions).
-*   Jurisdiction. Except if prohibited by applicable law, each party submits to the exclusive jurisdiction of the state courts located in San Mateo County, California, and the federal courts located in the Northern District of California with respect to the subject matter of those terms.
+* Contracting Entity. References to “Momentive”, “we”, “us”, and “our” are references to Momentive Inc., located at One Curiosity Way, San Mateo, CA 94403, USA.
+* Governing Law. Those terms are governed by the laws of the State of California (without regard to its conflict of laws provisions).
+* Jurisdiction. Except if prohibited by applicable law, each party submits to the exclusive jurisdiction of the state courts located in San Mateo County, California, and the federal courts located in the Northern District of California with respect to the subject matter of those terms.
 
 ### 14.3 Momentive Europe UC.
 
 For any Service provided by Momentive Europe UC, the following provisions will apply to any terms governing that Service:
 
-*   Contracting Entity. References to “Momentive”, “we”, “us”, and “our” are references to Momentive Europe UC, located at 2 Shelbourne Buildings, Second Floor, Shelbourne Road, Dublin 4, Ireland.
-*   Governing Law. Those terms are governed by the laws of Ireland (without regard to its conflicts of laws provisions).
-*   Jurisdiction. Except if prohibited by applicable law, in relation to any legal action or proceedings to enforce those terms or arising out of or in connection with those terms, each party irrevocably submits to the exclusive jurisdiction of the courts of Ireland.
+* Contracting Entity. References to “Momentive”, “we”, “us”, and “our” are references to Momentive Europe UC, located at 2 Shelbourne Buildings, Second Floor, Shelbourne Road, Dublin 4, Ireland.
+* Governing Law. Those terms are governed by the laws of Ireland (without regard to its conflicts of laws provisions).
+* Jurisdiction. Except if prohibited by applicable law, in relation to any legal action or proceedings to enforce those terms or arising out of or in connection with those terms, each party irrevocably submits to the exclusive jurisdiction of the courts of Ireland.
 
 ### 14.4 Momentive Brasil Internet Eireli.
 
 For any Service provided by Momentive Brasil Internet Eireli, the following provisions will apply to any terms governing that Service:
 
-*   Contracting Entity. References to “Momentive”, “we”, “us”, and “our” are references to Momentive Brasil Internet Eireli, located at Rua Joaquim Floriano, No. 243, suite 113, Itaim Bibi, São Paulo-SP, 04534-010 Brazil.
-*   Governing Law. Those terms are governed by the laws of Brazil (without regard to its conflicts of laws provisions).
-*   Jurisdiction. Except if prohibited by applicable law, in relation to any legal action or proceedings to enforce those terms or arising out of or in connection with those terms, each party irrevocably submits to the exclusive jurisdiction of the courts of the city of São Paulo, Brazil.
+* Contracting Entity. References to “Momentive”, “we”, “us”, and “our” are references to Momentive Brasil Internet Eireli, located at Rua Joaquim Floriano, No. 243, suite 113, Itaim Bibi, São Paulo-SP, 04534-010 Brazil.
+* Governing Law. Those terms are governed by the laws of Brazil (without regard to its conflicts of laws provisions).
+* Jurisdiction. Except if prohibited by applicable law, in relation to any legal action or proceedings to enforce those terms or arising out of or in connection with those terms, each party irrevocably submits to the exclusive jurisdiction of the courts of the city of São Paulo, Brazil.
 
 15\. Other Terms
 ----------------
@@ -310,17 +310,17 @@ The following sections will survive the termination of this TOU: Introduction, 1
 
 The following amendments automatically apply to you upon acceptance of these Terms if you are one of the types of entities identified below:
 
-*   If you are a United States Federal Government Agency, [this Amendment](https://www.surveymonkey.com/mp/legal/terms-of-use-federal-government/) applies to you.
-*   If you are a different type of government entity in the United States, [this Amendment](https://www.surveymonkey.com/mp/legal/terms-of-use-state-government/) applies to you.
+* If you are a United States Federal Government Agency, [this Amendment](https://www.surveymonkey.com/mp/legal/terms-of-use-federal-government/) applies to you.
+* If you are a different type of government entity in the United States, [this Amendment](https://www.surveymonkey.com/mp/legal/terms-of-use-state-government/) applies to you.
 
 ### 16.2 Wufoo-Specific Terms.
 
 If you are using Wufoo Services, the following additional terms apply:
 
-*   One free account per person. You may only have one active, free Wufoo account at any time. Multiple Wufoo accounts for any person may be terminated by Momentive.
-*   Form Gallery. In the course of using the Wufoo website, you may create certain templates, graphics or form documents (collectively, the “**Form Content**”) and load or post such documents into the Wufoo form gallery (“**Form Gallery**”) for other users. By making such Form Content available on the Form Gallery, you grant to Momentive a worldwide, irrevocable, perpetual, royalty-free, transferable and sub-licensable, non-exclusive right to use, copy, modify, distribute, display, perform, create derivative works and exploit that Form Content in connection with Momentive’s operation of Wufoo.
-*   Termination. Momentive may terminate any free Wufoo accounts that do not receive a form submission for 6 months or where the accounts are not accessed for 6 months.
-*   Use of API. You may access your Wufoo account data via Wufoo’s application programming interface (“**API**”) and Momentive hereby grants you a non-exclusive, non-transferable license (without the right to sublicense) to use the API solely as necessary to develop, test, operate and support your software application or website using certain data and content from the Wufoo website (“**Application**”), and to distribute or allow access to your integration of the API within your Application to end users of your Application. Any use of the API, including use of the API through a third party product or service that accesses Wufoo, is bound by these Terms, plus the following specific items:
+* One free account per person. You may only have one active, free Wufoo account at any time. Multiple Wufoo accounts for any person may be terminated by Momentive.
+* Form Gallery. In the course of using the Wufoo website, you may create certain templates, graphics or form documents (collectively, the “**Form Content**”) and load or post such documents into the Wufoo form gallery (“**Form Gallery**”) for other users. By making such Form Content available on the Form Gallery, you grant to Momentive a worldwide, irrevocable, perpetual, royalty-free, transferable and sub-licensable, non-exclusive right to use, copy, modify, distribute, display, perform, create derivative works and exploit that Form Content in connection with Momentive’s operation of Wufoo.
+* Termination. Momentive may terminate any free Wufoo accounts that do not receive a form submission for 6 months or where the accounts are not accessed for 6 months.
+* Use of API. You may access your Wufoo account data via Wufoo’s application programming interface (“**API**”) and Momentive hereby grants you a non-exclusive, non-transferable license (without the right to sublicense) to use the API solely as necessary to develop, test, operate and support your software application or website using certain data and content from the Wufoo website (“**Application**”), and to distribute or allow access to your integration of the API within your Application to end users of your Application. Any use of the API, including use of the API through a third party product or service that accesses Wufoo, is bound by these Terms, plus the following specific items:
 
 **(a)** Abuse of the API or excessively frequent requests to Wufoo via the API may result in the temporary or permanent suspension of your access to the API. Momentive, in its sole discretion, will determine if your usage constitutes abuse or excessive usage of the API. Momentive will endeavor to warn the account owner via email prior to suspension. While Momentive strives to have the API available without interruption, Momentive cannot guarantee any uptime for the API.
 
@@ -342,297 +342,25 @@ See [here](https://developer.surveymonkey.com/tou/?ut_source=legal&ut_source2=te
 
 See [here](https://www.surveymonkey.com/mp/legal/surveymonkey-contribute-terms-of-service/?ut_source=legal&ut_source2=terms-of-use&ut_source3=inline) for the terms for using SurveyMonkey Contribute.
 
-[
+[#### Community:](https://www.facebook.com/surveymonkey/)
 
-#### Community:
+[Developers](https://developer.surveymonkey.com/?ut_source=legal&ut_source2=terms-of-use)[Facebook](https://www.facebook.com/surveymonkey/)[Twitter](https://twitter.com/SurveyMonkey)[Linkedin](https://www.linkedin.com/company/surveymonkey/)[Our Blog](https://www.surveymonkey.com/curiosity/)[Instagram](https://www.instagram.com/surveymonkey/)[Youtube](https://www.youtube.com/surveymonkey)
 
+[#### About Us:](https://www.momentive.ai/en/about/?utm_source=surveymonkeyfooter)
 
+[Leadership Team](https://www.momentive.ai/en/about/leadership/?utm_source=surveymonkeyfooter)[Board of Directors](https://www.momentive.ai/en/about/directors/?utm_source=surveymonkeyfooter)[Investor Relations](https://investor.momentive.ai/home/default.aspx?utm_source=surveymonkeyfooter)[App Directory](https://www.surveymonkey.com/apps/?ut_source=legal&ut_source2=terms-of-use)[Newsroom](https://www.momentive.ai/en/newsroom/)[Office Locations](https://www.surveymonkey.com/mp/aboutus/office-locations/)[Imprint](https://www.surveymonkey.com/mp/imprint/)[Careers](https://www.momentive.ai/en/careers/)[Sitemap](https://www.surveymonkey.com/mp/sitemap/)[Help](https://help.surveymonkey.com/en/)
 
-](https://www.facebook.com/surveymonkey/)
+[#### Policies:](https://www.surveymonkey.com/mp/legal/)
 
-[
+[Terms of Use](https://www.surveymonkey.com/mp/legal/terms-of-use/)[Privacy Notice](https://www.surveymonkey.com/mp/legal/privacy/)[California Privacy Notice](https://www.surveymonkey.com/mp/legal/region-specific-privacy-statement/)[Acceptable Uses Policy](https://www.surveymonkey.com/mp/legal/acceptable-uses-policy/)[Security Statement](https://www.surveymonkey.com/mp/legal/security/)[GDPR Compliance](https://www.surveymonkey.com/mp/privacy/)[Email Opt-In](https://www.surveymonkey.com/user/email-opt-in/?ut_source=legal&ut_source2=terms-of-use)[Accessibility](https://help.surveymonkey.com/en/create/accessibility/)[Cookies Notice](https://www.surveymonkey.com/mp/legal/cookies/)
 
-Developers
+[#### Use Cases:](https://www.surveymonkey.com/?ut_source=legal&ut_source2=terms-of-use)
 
-](https://developer.surveymonkey.com/?ut_source=legal&ut_source2=terms-of-use)[
+[Online Polls](https://www.surveymonkey.com/mp/online-polls/)[Facebook Surveys](https://www.surveymonkey.com/mp/facebook/)[Survey Template](https://www.surveymonkey.com/mp/survey-templates/)[Scheduling Polls](https://www.surveymonkey.com/mp/online-schedule-poll/)[Google Forms vs. SurveyMonkey](https://www.surveymonkey.com/mp/surveymonkey-better-than-google-forms/)[Employee Satisfaction Surveys](https://www.surveymonkey.com/mp/employee-satisfaction-surveys/)[Free Survey Templates](https://www.surveymonkey.com/mp/free-survey-templates/)[Mobile Surveys](https://www.surveymonkey.com/mp/mobile-surveys/)[How to Improve Customer Service](https://www.surveymonkey.com/mp/6-keys-improving-teams-customer-service-skills/)[AB Test Significance Calculator](https://www.surveymonkey.com/mp/ab-testing-significance-calculator/)[NPS Calculator](https://www.surveymonkey.com/mp/nps-calculator/)[Questionnaire Templates](https://www.surveymonkey.com/mp/sample-survey-questionnaire-templates/)[Event Survey](https://www.surveymonkey.com/mp/post-event-survey-questions/)
 
-Facebook
+[Sample Size Calculator](https://www.surveymonkey.com/mp/sample-size-calculator/)[Writing Good Surveys](https://www.surveymonkey.com/mp/writing-survey-questions/)[Likert Scale](https://www.surveymonkey.com/mp/likert-scale/)[Survey Analysis](https://www.surveymonkey.com/mp/how-to-analyze-survey-data/)[360 Degree Feedback](https://www.surveymonkey.com/mp/360-employee-feedback-survey-example/)[Education Surveys](https://www.surveymonkey.com/mp/education-surveys/)[Survey Questions](https://www.surveymonkey.com/mp/survey-question-types/)[NPS Calculation](https://www.surveymonkey.com/mp/net-promoter-score-calculation/)[Customer Satisfaction Survey Questions](https://www.surveymonkey.com/mp/customer-satisfaction-survey-questions/)[Agree Disagree Questions](https://www.surveymonkey.com/mp/2-tips-for-writing-agree-disagree-survey-questions/)[Create a Survey](https://www.surveymonkey.com/mp/how-to-create-surveys/)
 
-](https://www.facebook.com/surveymonkey/)[
-
-Twitter
-
-](https://twitter.com/SurveyMonkey)[
-
-Linkedin
-
-](https://www.linkedin.com/company/surveymonkey/)[
-
-Our Blog
-
-](https://www.surveymonkey.com/curiosity/)[
-
-Instagram
-
-](https://www.instagram.com/surveymonkey/)[
-
-Youtube
-
-](https://www.youtube.com/surveymonkey)
-
-[
-
-#### About Us:
-
-
-
-](https://www.momentive.ai/en/about/?utm_source=surveymonkeyfooter)
-
-[
-
-Leadership Team
-
-](https://www.momentive.ai/en/about/leadership/?utm_source=surveymonkeyfooter)[
-
-Board of Directors
-
-](https://www.momentive.ai/en/about/directors/?utm_source=surveymonkeyfooter)[
-
-Investor Relations
-
-](https://investor.momentive.ai/home/default.aspx?utm_source=surveymonkeyfooter)[
-
-App Directory
-
-](https://www.surveymonkey.com/apps/?ut_source=legal&ut_source2=terms-of-use)[
-
-Newsroom
-
-](https://www.momentive.ai/en/newsroom/)[
-
-Office Locations
-
-](https://www.surveymonkey.com/mp/aboutus/office-locations/)[
-
-Imprint
-
-](https://www.surveymonkey.com/mp/imprint/)[
-
-Careers
-
-](https://www.momentive.ai/en/careers/)[
-
-Sitemap
-
-](https://www.surveymonkey.com/mp/sitemap/)[
-
-Help
-
-](https://help.surveymonkey.com/en/)
-
-[
-
-#### Policies:
-
-
-
-](https://www.surveymonkey.com/mp/legal/)
-
-[
-
-Terms of Use
-
-](https://www.surveymonkey.com/mp/legal/terms-of-use/)[
-
-Privacy Notice
-
-](https://www.surveymonkey.com/mp/legal/privacy/)[
-
-California Privacy Notice
-
-](https://www.surveymonkey.com/mp/legal/region-specific-privacy-statement/)[
-
-Acceptable Uses Policy
-
-](https://www.surveymonkey.com/mp/legal/acceptable-uses-policy/)[
-
-Security Statement
-
-](https://www.surveymonkey.com/mp/legal/security/)[
-
-GDPR Compliance
-
-](https://www.surveymonkey.com/mp/privacy/)[
-
-Email Opt-In
-
-](https://www.surveymonkey.com/user/email-opt-in/?ut_source=legal&ut_source2=terms-of-use)[
-
-Accessibility
-
-](https://help.surveymonkey.com/en/create/accessibility/)[
-
-Cookies Notice
-
-](https://www.surveymonkey.com/mp/legal/cookies/)
-
-[
-
-#### Use Cases:
-
-
-
-](https://www.surveymonkey.com/?ut_source=legal&ut_source2=terms-of-use)
-
-[
-
-Online Polls
-
-](https://www.surveymonkey.com/mp/online-polls/)[
-
-Facebook Surveys
-
-](https://www.surveymonkey.com/mp/facebook/)[
-
-Survey Template
-
-](https://www.surveymonkey.com/mp/survey-templates/)[
-
-Scheduling Polls
-
-](https://www.surveymonkey.com/mp/online-schedule-poll/)[
-
-Google Forms vs. SurveyMonkey
-
-](https://www.surveymonkey.com/mp/surveymonkey-better-than-google-forms/)[
-
-Employee Satisfaction Surveys
-
-](https://www.surveymonkey.com/mp/employee-satisfaction-surveys/)[
-
-Free Survey Templates
-
-](https://www.surveymonkey.com/mp/free-survey-templates/)[
-
-Mobile Surveys
-
-](https://www.surveymonkey.com/mp/mobile-surveys/)[
-
-How to Improve Customer Service
-
-](https://www.surveymonkey.com/mp/6-keys-improving-teams-customer-service-skills/)[
-
-AB Test Significance Calculator
-
-](https://www.surveymonkey.com/mp/ab-testing-significance-calculator/)[
-
-NPS Calculator
-
-](https://www.surveymonkey.com/mp/nps-calculator/)[
-
-Questionnaire Templates
-
-](https://www.surveymonkey.com/mp/sample-survey-questionnaire-templates/)[
-
-Event Survey
-
-](https://www.surveymonkey.com/mp/post-event-survey-questions/)
-
-[
-
-Sample Size Calculator
-
-](https://www.surveymonkey.com/mp/sample-size-calculator/)[
-
-Writing Good Surveys
-
-](https://www.surveymonkey.com/mp/writing-survey-questions/)[
-
-Likert Scale
-
-](https://www.surveymonkey.com/mp/likert-scale/)[
-
-Survey Analysis
-
-](https://www.surveymonkey.com/mp/how-to-analyze-survey-data/)[
-
-360 Degree Feedback
-
-](https://www.surveymonkey.com/mp/360-employee-feedback-survey-example/)[
-
-Education Surveys
-
-](https://www.surveymonkey.com/mp/education-surveys/)[
-
-Survey Questions
-
-](https://www.surveymonkey.com/mp/survey-question-types/)[
-
-NPS Calculation
-
-](https://www.surveymonkey.com/mp/net-promoter-score-calculation/)[
-
-Customer Satisfaction Survey Questions
-
-](https://www.surveymonkey.com/mp/customer-satisfaction-survey-questions/)[
-
-Agree Disagree Questions
-
-](https://www.surveymonkey.com/mp/2-tips-for-writing-agree-disagree-survey-questions/)[
-
-Create a Survey
-
-](https://www.surveymonkey.com/mp/how-to-create-surveys/)
-
-[
-
-Online Quizzes
-
-](https://www.surveymonkey.com/mp/quiz/)[
-
-Qualitative vs Quantitative Research
-
-](https://www.surveymonkey.com/mp/quantitative-vs-qualitative-research/)[
-
-Customer Survey
-
-](https://www.surveymonkey.com/mp/customer-satisfaction-surveys/)[
-
-Market Research Surveys
-
-](https://www.surveymonkey.com/mp/market-research-surveys/)[
-
-NPS Survey
-
-](https://www.surveymonkey.com/mp/net-promoter-score/)[
-
-Survey Design Best Practices
-
-](https://www.surveymonkey.com/mp/survey-guidelines/)[
-
-Margin of Error Calculator
-
-](https://www.surveymonkey.com/mp/margin-of-error-calculator/)[
-
-Questionnaire
-
-](https://www.surveymonkey.com/mp/online-questionnaires/)[
-
-Demographic Questions
-
-](https://www.surveymonkey.com/mp/gathering-demographic-information-from-surveys/)[
-
-Training Survey
-
-](https://www.surveymonkey.com/mp/training-survey/)[
-
-Offline Survey
-
-](https://www.surveymonkey.com/mp/offline-surveys/)[
-
-360 Review Template
-
-](https://www.surveymonkey.com/mp/360-degree-employee-evaluation-survey-template/)
+[Online Quizzes](https://www.surveymonkey.com/mp/quiz/)[Qualitative vs Quantitative Research](https://www.surveymonkey.com/mp/quantitative-vs-qualitative-research/)[Customer Survey](https://www.surveymonkey.com/mp/customer-satisfaction-surveys/)[Market Research Surveys](https://www.surveymonkey.com/mp/market-research-surveys/)[NPS Survey](https://www.surveymonkey.com/mp/net-promoter-score/)[Survey Design Best Practices](https://www.surveymonkey.com/mp/survey-guidelines/)[Margin of Error Calculator](https://www.surveymonkey.com/mp/margin-of-error-calculator/)[Questionnaire](https://www.surveymonkey.com/mp/online-questionnaires/)[Demographic Questions](https://www.surveymonkey.com/mp/gathering-demographic-information-from-surveys/)[Training Survey](https://www.surveymonkey.com/mp/training-survey/)[Offline Survey](https://www.surveymonkey.com/mp/offline-surveys/)[360 Review Template](https://www.surveymonkey.com/mp/360-degree-employee-evaluation-survey-template/)
 
 * * *
 
