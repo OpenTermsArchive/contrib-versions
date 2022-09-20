@@ -9,10 +9,10 @@ Canonical collects personal information from you in a number of different ways. 
 
 At Canonical, we consider your privacy to be extremely important to us. These are the fundamental principles that we follow in relation to your personal information:
 
-*   We don't ask you for personal information unless we truly need it.
-*   We don't share your personal information with anyone except to provide you with services, products, to comply with the law, or to protect our rights.
-*   We don't store personal information unless required for the on-going operation of services to you, to provide you with products, to comply with law or to protect our rights.
-*   We will use personal information that you provide to us in accordance with this privacy policy.
+* We don't ask you for personal information unless we truly need it.
+* We don't share your personal information with anyone except to provide you with services, products, to comply with the law, or to protect our rights.
+* We don't store personal information unless required for the on-going operation of services to you, to provide you with products, to comply with law or to protect our rights.
+* We will use personal information that you provide to us in accordance with this privacy policy.
 
 Canonical Group Limited (**"we"**, **"us"** and **"our"**) are committed to protecting and respecting your privacy. Information collected for or on behalf of the Canonical group of companies will be the responsibility of Canonical Group Limited.
 
@@ -29,28 +29,28 @@ Privacy notices
 
 Specific details about personal data collection can be found in the relevant privacy notice:
 
-*   [Newsletter privacy notice ›](https://ubuntu.com/legal/data-privacy/newsletter)
-*   [Webinar privacy notice ›](https://ubuntu.com/legal/data-privacy/webinar)
-*   [Online purchase privacy notice ›](https://ubuntu.com/legal/data-privacy/online-purchase)
-*   [Snap store privacy notice ›](https://ubuntu.com/legal/data-privacy/snap-store)
-*   [Snapcraft NPS privacy notice ›](https://ubuntu.com/legal/data-privacy/snapcraft-nps)
-*   [Contact us and enquiries privacy notice ›](https://ubuntu.com/legal/data-privacy/contact)
-*   [Single sign on privacy notice ›](https://ubuntu.com/legal/data-privacy/sso)
-*   [Partner Portal privacy notice ›](https://ubuntu.com/legal/data-privacy/partner-portal)
-*   [ESXi privacy notice ›](https://ubuntu.com/legal/data-privacy/esxi)
-*   [Survey privacy notice ›](https://ubuntu.com/legal/data-privacy/survey)
-*   [Events privacy notice ›](https://ubuntu.com/legal/data-privacy/events)
-*   [Online competitions privacy notice ›](https://ubuntu.com/legal/data-privacy/online-competitions)
-*   [Confidentiality agreement privacy notice ›](https://ubuntu.com/legal/data-privacy/unilateral-nda)
-*   [CUBE Beta privacy notice ›](https://ubuntu.com/legal/data-privacy/cube-beta)
-*   [Recruitment privacy notice ›](https://ubuntu.com/legal/data-privacy/recruitment)
+* [Newsletter privacy notice ›](https://ubuntu.com/legal/data-privacy/newsletter)
+* [Webinar privacy notice ›](https://ubuntu.com/legal/data-privacy/webinar)
+* [Online purchase privacy notice ›](https://ubuntu.com/legal/data-privacy/online-purchase)
+* [Snap store privacy notice ›](https://ubuntu.com/legal/data-privacy/snap-store)
+* [Snapcraft NPS privacy notice ›](https://ubuntu.com/legal/data-privacy/snapcraft-nps)
+* [Contact us and enquiries privacy notice ›](https://ubuntu.com/legal/data-privacy/contact)
+* [Single sign on privacy notice ›](https://ubuntu.com/legal/data-privacy/sso)
+* [Partner Portal privacy notice ›](https://ubuntu.com/legal/data-privacy/partner-portal)
+* [ESXi privacy notice ›](https://ubuntu.com/legal/data-privacy/esxi)
+* [Survey privacy notice ›](https://ubuntu.com/legal/data-privacy/survey)
+* [Events privacy notice ›](https://ubuntu.com/legal/data-privacy/events)
+* [Online competitions privacy notice ›](https://ubuntu.com/legal/data-privacy/online-competitions)
+* [Confidentiality agreement privacy notice ›](https://ubuntu.com/legal/data-privacy/unilateral-nda)
+* [CUBE Beta privacy notice ›](https://ubuntu.com/legal/data-privacy/cube-beta)
+* [Recruitment privacy notice ›](https://ubuntu.com/legal/data-privacy/recruitment)
 
 Information we collect from you
 -------------------------------
 
-*   **Information you give us**. This is information about you that you give us by filling in forms on a Canonical website or by corresponding with us by phone, e-mail or otherwise. It includes information you provide when you register to use our site, your login information where provided on a site or make a purchase on our site. It may include the following: first name, last name; company name; company size; industry; job title; level; phone number; email address; state or province and country.
-*   **Information about your visit**. This information includes the full Uniform Resource Locators (URL), clickstream to, through and from our site (including date and time, timezone, your geolocation), items you viewed or searched for, page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), methods used to browse away from the page.
-*   **Information we receive from other sources**. This is information we receive about you if you use any of the other websites we operate or the other services we provide. In this case we will have informed you when we collected that data (through a Privacy notice) if we intend to share those data internally and combine it with data collected on this site. We will also have told you for what purpose we will share and combine your data. We are working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies). We may notify you when we receive information about you from them and the purposes for which we intend to use that information.
+* **Information you give us**. This is information about you that you give us by filling in forms on a Canonical website or by corresponding with us by phone, e-mail or otherwise. It includes information you provide when you register to use our site, your login information where provided on a site or make a purchase on our site. It may include the following: first name, last name; company name; company size; industry; job title; level; phone number; email address; state or province and country.
+* **Information about your visit**. This information includes the full Uniform Resource Locators (URL), clickstream to, through and from our site (including date and time, timezone, your geolocation), items you viewed or searched for, page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), methods used to browse away from the page.
+* **Information we receive from other sources**. This is information we receive about you if you use any of the other websites we operate or the other services we provide. In this case we will have informed you when we collected that data (through a Privacy notice) if we intend to share those data internally and combine it with data collected on this site. We will also have told you for what purpose we will share and combine your data. We are working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies). We may notify you when we receive information about you from them and the purposes for which we intend to use that information.
 
 How information is collected from you
 -------------------------------------
@@ -96,15 +96,15 @@ What do we do with your personal data
 
 We may use your information in the following ways:
 
-*   To authenticate access to certain features of our websites.
-*   To contact you to respond to enquiries or to provide notices to you regarding your use of our websites or the provision of our services.
-*   To provide services, products, process payment, and authenticate access (where required).
-*   To analyse the performance or the appropriateness of products or services.
-*   To comply with legal and regulatory requirements (including responding to court orders, subpoenas and to prevent crime). These special circumstances may require us to disclose personal information.
-*   To contact you if your actions violate your agreement with us (if any).
-*   To fix errors and analyse trends.
-*   To study how anonymous users interact with our websites and services.
-*   To market our products or services to you.
+* To authenticate access to certain features of our websites.
+* To contact you to respond to enquiries or to provide notices to you regarding your use of our websites or the provision of our services.
+* To provide services, products, process payment, and authenticate access (where required).
+* To analyse the performance or the appropriateness of products or services.
+* To comply with legal and regulatory requirements (including responding to court orders, subpoenas and to prevent crime). These special circumstances may require us to disclose personal information.
+* To contact you if your actions violate your agreement with us (if any).
+* To fix errors and analyse trends.
+* To study how anonymous users interact with our websites and services.
+* To market our products or services to you.
 
 Unless you have notified us otherwise, Canonical may occasionally send you email to tell you about new features, solicit feedback, or just to keep you up to date with what's going on. We may use various community websites (Launchpad Answers, Ubuntu Forums, blogs etc.) to communicate this type of information, so we expect to keep this type of information to a minimum. If you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications, modify the communications preferences in your account or contact us using the contact details provided below.
 
@@ -117,14 +117,14 @@ You can also exercise the right at any time by contacting us at [dataprotection@
 
 Under the data protection legislation, you have the following rights. These consist of:
 
-*   The right to be informed
-*   The right of access
-*   The right to rectification
-*   The right to erasure
-*   The right to restrict processing
-*   The right to data portability
-*   The right to object
-*   Rights in relation to automated decision making and profiling.
+* The right to be informed
+* The right of access
+* The right to rectification
+* The right to erasure
+* The right to restrict processing
+* The right to data portability
+* The right to object
+* Rights in relation to automated decision making and profiling.
 
 Each of these rights are supported by appropriate procedures within Canonical which allow the required action to be taken within the timescales stated in the applicable data protection legislation.
 
@@ -158,10 +158,10 @@ A cookie is a small file of letters and numbers that we store on your browser or
 
 We use the following cookies:
 
-*   **Strictly necessary cookies**. These are cookies that are required for the operation of our website. They include, for example, cookies that enable you to log into secure areas of our website, use a shopping cart or make use of e-billing services.
-*   **Analytical/performance cookies**. They allow us to recognise and count the number of visitors and to see how visitors move around our website when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily.
-*   **Functionality cookies**. These are used to recognise you when you return to our website. This enables us to personalise our content for you, greet you by name and remember your preferences (for example, your choice of language or region).
-*   **Targeting cookies**. These cookies record your visit to our website, the pages you have visited and the links you have followed. We will use this information to make our website and the advertising displayed on it more relevant to your interests. We may also share this information with third parties for this purpose.
+* **Strictly necessary cookies**. These are cookies that are required for the operation of our website. They include, for example, cookies that enable you to log into secure areas of our website, use a shopping cart or make use of e-billing services.
+* **Analytical/performance cookies**. They allow us to recognise and count the number of visitors and to see how visitors move around our website when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily.
+* **Functionality cookies**. These are used to recognise you when you return to our website. This enables us to personalise our content for you, greet you by name and remember your preferences (for example, your choice of language or region).
+* **Targeting cookies**. These cookies record your visit to our website, the pages you have visited and the links you have followed. We will use this information to make our website and the advertising displayed on it more relevant to your interests. We may also share this information with third parties for this purpose.
 
 You can find more information about the individual cookies we use and the purposes for which we use them in the table below:
 
@@ -191,12 +191,12 @@ How we use the information we collect
 
 We use information held about you in the following ways:
 
-*   To provide you with the services you require at the time and for the reasons you provide the information, e.g. newsletters and webinars.
-*   To carry out our obligations arising from any contracts entered into between you and us and to provide you with the information, products and services that you request from us.
-*   To provide you with information about other goods and services we offer that are similar to those that you have already purchased or enquired about.
-*   To provide you, or permit selected third parties to provide you, with information about goods or services we feel may interest you in accordance with your consent and our Privacy notices.
-*   To make suggestions and recommendations to you and other users of our site about goods or services that may interest you or them.
-*   We will combine this information with information you give to us and information we collect about you. We will use this information and the combined information for the purposes set out above (depending on the types of information we receive).
+* To provide you with the services you require at the time and for the reasons you provide the information, e.g. newsletters and webinars.
+* To carry out our obligations arising from any contracts entered into between you and us and to provide you with the information, products and services that you request from us.
+* To provide you with information about other goods and services we offer that are similar to those that you have already purchased or enquired about.
+* To provide you, or permit selected third parties to provide you, with information about goods or services we feel may interest you in accordance with your consent and our Privacy notices.
+* To make suggestions and recommendations to you and other users of our site about goods or services that may interest you or them.
+* We will combine this information with information you give to us and information we collect about you. We will use this information and the combined information for the purposes set out above (depending on the types of information we receive).
 
 Disclosure of your information
 ------------------------------
@@ -205,10 +205,10 @@ You agree that we have the right to share your information with any member of ou
 
 We will also disclose your information to third parties:
 
-*   If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://ubuntu.com/legal/terms) and other agreements; or to protect the rights, property, or safety of Canonical, our customers, or others.
-*   In accordance with Privacy notices made known at the time of collection.
-*   In the event that we sell or buy any business or assets, in which case we will disclose your personal data to the prospective seller or buyer of such business or assets.
-*   If Canonical or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+* If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://ubuntu.com/legal/terms) and other agreements; or to protect the rights, property, or safety of Canonical, our customers, or others.
+* In accordance with Privacy notices made known at the time of collection.
+* In the event that we sell or buy any business or assets, in which case we will disclose your personal data to the prospective seller or buyer of such business or assets.
+* If Canonical or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
 
 Where we transfer and store your information
 --------------------------------------------
@@ -252,28 +252,28 @@ United Kingdom
 
 #### CONTENTS
 
-*   [Privacy notices](#privacy-notices)
-*   [Information we collect from you](#information-we-collect-from-you)
-*   [How information is collected from you](#how-information-is-collected-from-you)
-*   [What do we do with your personal data](#what-do-we-do-with-your-personal-data)
-*   [What are your rights](#what-are-your-rights)
-*   [Cookies](#cookies)
-*   [How do we protect the information we collect](#how-do-we-protect-the-information-we-collect)
-*   [How we use the information we collect](#how-we-use-the-information-we-collect)
-*   [Disclosure of your information](#disclosure-of-your-information)
-*   [Where we transfer and store your information](#where-we-transfer-and-store-your-information)
-*   [Changes to our privacy policy](#changes-to-our-privacy-policy)
-*   [Contact](#contact)
-*   [Your right to complain](#your-right-to-complain)
+* [Privacy notices](#privacy-notices)
+* [Information we collect from you](#information-we-collect-from-you)
+* [How information is collected from you](#how-information-is-collected-from-you)
+* [What do we do with your personal data](#what-do-we-do-with-your-personal-data)
+* [What are your rights](#what-are-your-rights)
+* [Cookies](#cookies)
+* [How do we protect the information we collect](#how-do-we-protect-the-information-we-collect)
+* [How we use the information we collect](#how-we-use-the-information-we-collect)
+* [Disclosure of your information](#disclosure-of-your-information)
+* [Where we transfer and store your information](#where-we-transfer-and-store-your-information)
+* [Changes to our privacy policy](#changes-to-our-privacy-policy)
+* [Contact](#contact)
+* [Your right to complain](#your-right-to-complain)
 
 #### Older versions
 
-*   [25 March 2013 ›](https://ubuntu.com/legal/data-privacy/2013-03-25)
-*   [08 February2016 ›](https://ubuntu.com/legal/data-privacy/2016-02-08)
+* [25 March 2013 ›](https://ubuntu.com/legal/data-privacy/2013-03-25)
+* [08 February2016 ›](https://ubuntu.com/legal/data-privacy/2016-02-08)
 
 #### Contact us
 
-*   [Data protection enquiries ›](https://ubuntu.com/legal/data-privacy/enquiry)
+* [Data protection enquiries ›](https://ubuntu.com/legal/data-privacy/enquiry)
 
 ### Want a fully managed private cloud?
 
@@ -291,176 +291,176 @@ The open source software platform that runs everywhere from the smartphone, the 
 
 ### Further reading
 
-*   _Loading..._
+* _Loading..._
 
 [Back to top](#)
 
-*   [OpenStack](https://ubuntu.com/openstack) [OpenStack](#)
+* [OpenStack](https://ubuntu.com/openstack) [OpenStack](#)
     --------------------------------------------------------
     
-    *   [What is OpenStack](https://ubuntu.com/openstack/what-is-openstack)
-    *   [Features](https://ubuntu.com/openstack/features)
-    *   [Managed](https://ubuntu.com/openstack/managed)
-    *   [Consulting](https://ubuntu.com/openstack/consulting)
-    *   [Install](https://ubuntu.com/openstack/install)
-    *   [Support](https://ubuntu.com/openstack/support)
-*   [Ceph](https://ubuntu.com/ceph) [Ceph](#)
+    * [What is OpenStack](https://ubuntu.com/openstack/what-is-openstack)
+    * [Features](https://ubuntu.com/openstack/features)
+    * [Managed](https://ubuntu.com/openstack/managed)
+    * [Consulting](https://ubuntu.com/openstack/consulting)
+    * [Install](https://ubuntu.com/openstack/install)
+    * [Support](https://ubuntu.com/openstack/support)
+* [Ceph](https://ubuntu.com/ceph) [Ceph](#)
     -----------------------------------------
     
-    *   [What is Ceph](https://ubuntu.com/ceph/what-is-ceph)
-    *   [Managed](https://ubuntu.com/ceph/managed)
-    *   [Consulting](https://ubuntu.com/ceph/consulting)
-    *   [Docs](https://ubuntu.com/ceph/docs)
-    *   [Install](https://ubuntu.com/ceph/install)
-*   [Managed](https://ubuntu.com/managed) [Managed](#)
+    * [What is Ceph](https://ubuntu.com/ceph/what-is-ceph)
+    * [Managed](https://ubuntu.com/ceph/managed)
+    * [Consulting](https://ubuntu.com/ceph/consulting)
+    * [Docs](https://ubuntu.com/ceph/docs)
+    * [Install](https://ubuntu.com/ceph/install)
+* [Managed](https://ubuntu.com/managed) [Managed](#)
     --------------------------------------------------
     
-    *   [OpenStack](https://ubuntu.com/openstack/managed)
-    *   [Kubernetes](https://ubuntu.com/kubernetes/managed)
-    *   [Ceph](https://ubuntu.com/ceph/managed)
-    *   [Apps](https://ubuntu.com/managed/apps)
-    *   [Observability](https://ubuntu.com/observability/managed)
+    * [OpenStack](https://ubuntu.com/openstack/managed)
+    * [Kubernetes](https://ubuntu.com/kubernetes/managed)
+    * [Ceph](https://ubuntu.com/ceph/managed)
+    * [Apps](https://ubuntu.com/managed/apps)
+    * [Observability](https://ubuntu.com/observability/managed)
 
-*   [Kubernetes](https://ubuntu.com/kubernetes) [Kubernetes](#)
+* [Kubernetes](https://ubuntu.com/kubernetes) [Kubernetes](#)
     -----------------------------------------------------------
     
-    *   [What is Kubernetes](https://ubuntu.com/kubernetes/what-is-kubernetes)
-    *   [Charmed Kubernetes](https://ubuntu.com/kubernetes/charmed-k8s)
-    *   [Managed](https://ubuntu.com/kubernetes/managed)
-    *   [Install](https://ubuntu.com/kubernetes/install)
-    *   [Docs](https://ubuntu.com/kubernetes/docs)
-    *   [Resources](https://ubuntu.com/kubernetes/resources)
-*   [AI / ML](https://ubuntu.com/ai) [AI / ML](#)
+    * [What is Kubernetes](https://ubuntu.com/kubernetes/what-is-kubernetes)
+    * [Charmed Kubernetes](https://ubuntu.com/kubernetes/charmed-k8s)
+    * [Managed](https://ubuntu.com/kubernetes/managed)
+    * [Install](https://ubuntu.com/kubernetes/install)
+    * [Docs](https://ubuntu.com/kubernetes/docs)
+    * [Resources](https://ubuntu.com/kubernetes/resources)
+* [AI / ML](https://ubuntu.com/ai) [AI / ML](#)
     ---------------------------------------------
     
-    *   [What is Kubeflow](https://ubuntu.com/ai/what-is-kubeflow)
-    *   [Services](https://ubuntu.com/ai/services)
-*   [Robotics](https://ubuntu.com/robotics) [Robotics](#)
+    * [What is Kubeflow](https://ubuntu.com/ai/what-is-kubeflow)
+    * [Services](https://ubuntu.com/ai/services)
+* [Robotics](https://ubuntu.com/robotics) [Robotics](#)
     -----------------------------------------------------
     
-    *   [ROS ESM](https://ubuntu.com/robotics/ros-esm)
-    *   [What is ROS](https://ubuntu.com/robotics/what-is-ros)
-    *   [Community](https://ubuntu.com/robotics/community)
-*   [Cloud](https://ubuntu.com/cloud) [Cloud](#)
+    * [ROS ESM](https://ubuntu.com/robotics/ros-esm)
+    * [What is ROS](https://ubuntu.com/robotics/what-is-ros)
+    * [Community](https://ubuntu.com/robotics/community)
+* [Cloud](https://ubuntu.com/cloud) [Cloud](#)
     --------------------------------------------
     
-    *   [What is private cloud](https://ubuntu.com/cloud/private-cloud)
-    *   [What is hybrid cloud](https://ubuntu.com/cloud/hybrid-cloud)
-    *   [What is multi-cloud](https://ubuntu.com/cloud/multi-cloud)
-    *   [Public cloud](https://ubuntu.com/cloud/public-cloud)
+    * [What is private cloud](https://ubuntu.com/cloud/private-cloud)
+    * [What is hybrid cloud](https://ubuntu.com/cloud/hybrid-cloud)
+    * [What is multi-cloud](https://ubuntu.com/cloud/multi-cloud)
+    * [Public cloud](https://ubuntu.com/cloud/public-cloud)
 
-*   [IoT](https://ubuntu.com/internet-of-things) [IoT](#)
+* [IoT](https://ubuntu.com/internet-of-things) [IoT](#)
     -----------------------------------------------------
     
-    *   [App store](https://ubuntu.com/internet-of-things/appstore)
-    *   [Embedded Linux](https://ubuntu.com/embedded)
-    *   [EdgeX](https://ubuntu.com/internet-of-things/edgex)
-    *   [Management](https://ubuntu.com/internet-of-things/management)
-*   [Raspberry Pi](https://ubuntu.com/raspberry-pi) [Raspberry Pi](#)
+    * [App store](https://ubuntu.com/internet-of-things/appstore)
+    * [Embedded Linux](https://ubuntu.com/embedded)
+    * [EdgeX](https://ubuntu.com/internet-of-things/edgex)
+    * [Management](https://ubuntu.com/internet-of-things/management)
+* [Raspberry Pi](https://ubuntu.com/raspberry-pi) [Raspberry Pi](#)
     -----------------------------------------------------------------
     
-    *   [Desktop](https://ubuntu.com/raspberry-pi/desktop)
-    *   [Server](https://ubuntu.com/raspberry-pi/server)
-*   [Core](https://ubuntu.com/core) [Core](#)
+    * [Desktop](https://ubuntu.com/raspberry-pi/desktop)
+    * [Server](https://ubuntu.com/raspberry-pi/server)
+* [Core](https://ubuntu.com/core) [Core](#)
     -----------------------------------------
     
-    *   [Consulting](https://ubuntu.com/core/services)
-    *   [Success stories](https://ubuntu.com/core/stories)
-    *   [Features](https://ubuntu.com/core/features)
-    *   [Tutorials](https://ubuntu.com/tutorials?q=core)
-    *   [Docs](https://ubuntu.com/core/docs)
+    * [Consulting](https://ubuntu.com/core/services)
+    * [Success stories](https://ubuntu.com/core/stories)
+    * [Features](https://ubuntu.com/core/features)
+    * [Tutorials](https://ubuntu.com/tutorials?q=core)
+    * [Docs](https://ubuntu.com/core/docs)
 
-*   [Desktop](https://ubuntu.com/desktop) [Desktop](#)
+* [Desktop](https://ubuntu.com/desktop) [Desktop](#)
     --------------------------------------------------
     
-    *   [Features](https://ubuntu.com/desktop/features)
-    *   [Organisations](https://ubuntu.com/desktop/organisations)
-    *   [Developers](https://ubuntu.com/desktop/developers)
-    *   [Partners](https://ubuntu.com/desktop/partners)
-    *   [Flavours](https://ubuntu.com/desktop/flavours)
-*   [Server](https://ubuntu.com/server) [Server](#)
+    * [Features](https://ubuntu.com/desktop/features)
+    * [Organisations](https://ubuntu.com/desktop/organisations)
+    * [Developers](https://ubuntu.com/desktop/developers)
+    * [Partners](https://ubuntu.com/desktop/partners)
+    * [Flavours](https://ubuntu.com/desktop/flavours)
+* [Server](https://ubuntu.com/server) [Server](#)
     -----------------------------------------------
     
-    *   [Hyperscale](https://ubuntu.com/server/hyperscale)
-    *   [Docs](https://ubuntu.com/server/docs)
-*   [Security](https://ubuntu.com/security) [Security](#)
+    * [Hyperscale](https://ubuntu.com/server/hyperscale)
+    * [Docs](https://ubuntu.com/server/docs)
+* [Security](https://ubuntu.com/security) [Security](#)
     -----------------------------------------------------
     
-    *   [ESM](https://ubuntu.com/security/esm)
-    *   [Livepatch](https://ubuntu.com/security/livepatch)
-    *   [Certifications & Hardening](https://ubuntu.com/security/certifications)
-    *   [CVEs](https://ubuntu.com/security/cves)
-    *   [Notices](https://ubuntu.com/security/notices)
-    *   [Docker Images](https://ubuntu.com/security/docker-images)
+    * [ESM](https://ubuntu.com/security/esm)
+    * [Livepatch](https://ubuntu.com/security/livepatch)
+    * [Certifications & Hardening](https://ubuntu.com/security/certifications)
+    * [CVEs](https://ubuntu.com/security/cves)
+    * [Notices](https://ubuntu.com/security/notices)
+    * [Docker Images](https://ubuntu.com/security/docker-images)
 
-*   [Downloads](https://ubuntu.com/download) [Downloads](#)
+* [Downloads](https://ubuntu.com/download) [Downloads](#)
     -------------------------------------------------------
     
-    *   [Desktop](https://ubuntu.com/download/desktop)
-    *   [Server](https://ubuntu.com/download/server)
-    *   [IoT](https://ubuntu.com/download/iot)
-    *   [Cloud](https://ubuntu.com/download/cloud)
-*   [Observability](https://ubuntu.com/observability) [Observability](#)
+    * [Desktop](https://ubuntu.com/download/desktop)
+    * [Server](https://ubuntu.com/download/server)
+    * [IoT](https://ubuntu.com/download/iot)
+    * [Cloud](https://ubuntu.com/download/cloud)
+* [Observability](https://ubuntu.com/observability) [Observability](#)
     --------------------------------------------------------------------
     
-    *   [What is observability](https://ubuntu.com/observability/what-is-observability)
-    *   [Managed](https://ubuntu.com/observability/managed)
-*   [Appliance](https://ubuntu.com/appliance) [Appliance](#)
+    * [What is observability](https://ubuntu.com/observability/what-is-observability)
+    * [Managed](https://ubuntu.com/observability/managed)
+* [Appliance](https://ubuntu.com/appliance) [Appliance](#)
     --------------------------------------------------------
     
-    *   [About](https://ubuntu.com/appliance/about)
-    *   [Portfolio](https://ubuntu.com/appliance/portfolio)
-    *   [Community](https://ubuntu.com/appliance/community)
-    *   [Hardware](https://ubuntu.com/appliance/hardware)
-    *   [Virtual machines](https://ubuntu.com/appliance/vm)
+    * [About](https://ubuntu.com/appliance/about)
+    * [Portfolio](https://ubuntu.com/appliance/portfolio)
+    * [Community](https://ubuntu.com/appliance/community)
+    * [Hardware](https://ubuntu.com/appliance/hardware)
+    * [Virtual machines](https://ubuntu.com/appliance/vm)
 
-*   [Support](https://ubuntu.com/support) [Support](#)
+* [Support](https://ubuntu.com/support) [Support](#)
     --------------------------------------------------
     
-    *   [Your subscriptions](https://ubuntu.com/advantage)
-    *   [Account users](https://ubuntu.com/advantage/users)
-    *   [Community support](https://ubuntu.com/support/community-support)
-*   [Pricing](https://ubuntu.com/pricing) [Pricing](#)
+    * [Your subscriptions](https://ubuntu.com/advantage)
+    * [Account users](https://ubuntu.com/advantage/users)
+    * [Community support](https://ubuntu.com/support/community-support)
+* [Pricing](https://ubuntu.com/pricing) [Pricing](#)
     --------------------------------------------------
     
-    *   [Support](https://ubuntu.com/pricing/infra)
-    *   [Consulting](https://ubuntu.com/pricing/consulting)
-    *   [Devices](https://ubuntu.com/pricing/devices)
-*   Sectors
+    * [Support](https://ubuntu.com/pricing/infra)
+    * [Consulting](https://ubuntu.com/pricing/consulting)
+    * [Devices](https://ubuntu.com/pricing/devices)
+* Sectors
     -------
     
-    *   [Industrial](https://ubuntu.com/industrial)
-    *   [Government](https://ubuntu.com/gov)
-    *   [Telco](https://ubuntu.com/telco)
-    *   [Finance](https://ubuntu.com/financial-services)
-*   *   [Containers](https://ubuntu.com/containers)
-    *   [Tutorials](https://ubuntu.com/tutorials)
-    *   [16-04](https://ubuntu.com/16-04)
-    *   [Model-driven operations](https://ubuntu.com/model-driven-operations)
-    *   [Landscape](https://ubuntu.com/landscape)
-    *   [Canonical Embedding Programme](https://ubuntu.com/embedding)
+    * [Industrial](https://ubuntu.com/industrial)
+    * [Government](https://ubuntu.com/gov)
+    * [Telco](https://ubuntu.com/telco)
+    * [Finance](https://ubuntu.com/financial-services)
+* * [Containers](https://ubuntu.com/containers)
+    * [Tutorials](https://ubuntu.com/tutorials)
+    * [16-04](https://ubuntu.com/16-04)
+    * [Model-driven operations](https://ubuntu.com/model-driven-operations)
+    * [Landscape](https://ubuntu.com/landscape)
+    * [Canonical Embedding Programme](https://ubuntu.com/embedding)
 
 * * *
 
-*   [Contact us](https://ubuntu.com/contact-us)
-*   [Contact us](https://ubuntu.com/contact-us)
-*   [About us](https://ubuntu.com/about)
-*   [Community](https://ubuntu.com/community)
-*   [Careers](http://www.canonical.com/careers)
-*   [Blog](https://ubuntu.com/blog)
-*   [Resources](https://ubuntu.com/engage)
-*   [Press centre](https://ubuntu.com/blog/press-centre)
+* [Contact us](https://ubuntu.com/contact-us)
+* [Contact us](https://ubuntu.com/contact-us)
+* [About us](https://ubuntu.com/about)
+* [Community](https://ubuntu.com/community)
+* [Careers](http://www.canonical.com/careers)
+* [Blog](https://ubuntu.com/blog)
+* [Resources](https://ubuntu.com/engage)
+* [Press centre](https://ubuntu.com/blog/press-centre)
 
 © 2022 Canonical Ltd. Ubuntu and Canonical are registered trademarks of Canonical Ltd.
 
-*   [Legal information](https://ubuntu.com/legal)
-*   [Data privacy](https://ubuntu.com/legal/data-privacy)
-*   [Manage your tracker settings](https://ubuntu.com/legal/data-privacy)
-*   [Report a bug on this site](https://github.com/canonical-websites/www.ubuntu.com/issues/new)
+* [Legal information](https://ubuntu.com/legal)
+* [Data privacy](https://ubuntu.com/legal/data-privacy)
+* [Manage your tracker settings](https://ubuntu.com/legal/data-privacy)
+* [Report a bug on this site](https://github.com/canonical-websites/www.ubuntu.com/issues/new)
 
-*   [](https://twitter.com/ubuntu "Follow Ubuntu on Twitter")
-*   [](https://www.facebook.com/ubuntulinux/ "Follow Ubuntu on Facebook")
-*   [](https://www.linkedin.com/company/234280 "Find Canonical on LinkedIn")
-*   [](https://ubuntu.com/blog/feed "Use the Ubuntu Blog rss feed")
+* [](https://twitter.com/ubuntu "Follow Ubuntu on Twitter")
+* [](https://www.facebook.com/ubuntulinux/ "Follow Ubuntu on Facebook")
+* [](https://www.linkedin.com/company/234280 "Find Canonical on LinkedIn")
+* [](https://ubuntu.com/blog/feed "Use the Ubuntu Blog rss feed")
 
 [Go to the top of the page](#)
