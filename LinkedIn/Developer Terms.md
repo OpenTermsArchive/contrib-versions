@@ -175,29 +175,29 @@ y. Scrape Content from the Services.
 
 In addition to the other terms and conditions in these Terms, except as expressly set forth herein, you agree not to do the following:
 
-**a.**    Implement features or business practices, or use the APIs or Content in a way that may harm the professional reputation, relationships or professional ecosystem of Members;
+**a.**    Implement features or business practices, or use the APIs or Content in a way that may harm the professional reputation, relationships or professional ecosystem of Members;
 
-**b.**     Disclose or provide the APIs or Access Credentials to any person or entity other than to your employees or independent contractors, provided (1) such employees or independent contractors enter into an agreement with you at least as protective of LinkedIn’s rights as this Agreement, and (2) you hereby agree to be responsible for, and liable to LinkedIn for, any breaches of such agreements by such employees or independent contractors;
+**b.**     Disclose or provide the APIs or Access Credentials to any person or entity other than to your employees or independent contractors, provided (1) such employees or independent contractors enter into an agreement with you at least as protective of LinkedIn’s rights as this Agreement, and (2) you hereby agree to be responsible for, and liable to LinkedIn for, any breaches of such agreements by such employees or independent contractors;
 
-**c.**    Request or publish information impersonating a Member, misrepresent any user or other third party in requesting information or allow any third party, including other Members, to see information obtained from another Member’s network or through another Member’s view of the Services or Content;  
+**c.**    Request or publish information impersonating a Member, misrepresent any user or other third party in requesting information or allow any third party, including other Members, to see information obtained from another Member’s network or through another Member’s view of the Services or Content;  
 
 **d.**    Use the APIs or Content for any illegal purposes, or in any manner which would violate these Terms, or breach any laws or regulations regarding privacy or data protection, or violate the rights of third parties or expose LinkedIn or its users to legal liability;
 
 **e.**    Remove any legal, copyright, trademark or other proprietary rights notices contained in or on materials you receive or access pursuant to these Terms, including, but not limited to, the APIs, the Developer Documentation, and the Content;
 
-**f.**     Obtain, display or use more Content than is minimally required by the Application;
+**f.**     Obtain, display or use more Content than is minimally required by the Application;
 
 **g.**    Sell, lease, share (with the exception of making the Content available to users through the Application), transfer, sublicense or otherwise make available any Content, directly or indirectly, to any third party (e.g. you may not sell access to an aggregated collection of Member profiles or the most relevant Members for a position), including, but not limited to, any data broker, ad network, ad exchange, or other advertising monetization-related party;
 
 **h.**   Use the Content for any other purpose other than to allow your users to use the Content in your Application;
 
-**i.**    Use any Content in any advertisements or for purposes of targeting advertisements specifically to any individual user (whether such advertisements appear in the Application or elsewhere), or to generate mass messages, promotions or offers;
+**i.**    Use any Content in any advertisements or for purposes of targeting advertisements specifically to any individual user (whether such advertisements appear in the Application or elsewhere), or to generate mass messages, promotions or offers;
 
-**j.**    Make any statements or use any API or Content in a manner that expresses or implies that you, your Application or your use of the Content is sponsored or endorsed by LinkedIn (e.g., you must not state or in any way imply that LinkedIn has “verified” or “confirmed” the veracity of any Profile Data);
+**j.**    Make any statements or use any API or Content in a manner that expresses or implies that you, your Application or your use of the Content is sponsored or endorsed by LinkedIn (e.g., you must not state or in any way imply that LinkedIn has “verified” or “confirmed” the veracity of any Profile Data);
 
-**k. **   Use any API in any manner that, as determined by LinkedIn in its reasonable discretion, constitutes abusive usage;
+**k.**    Use any API in any manner that, as determined by LinkedIn in its reasonable discretion, constitutes abusive usage;
 
-**l.**    Interfere with or disrupt the Services or servers or networks connected to the Services, or disobey any requirements, procedures, policies or regulations of networks connected to the Services, or transmit any viruses, worms, defects, Trojan horses, or any items of a destructive nature through your use of any API;
+**l.**    Interfere with or disrupt the Services or servers or networks connected to the Services, or disobey any requirements, procedures, policies or regulations of networks connected to the Services, or transmit any viruses, worms, defects, Trojan horses, or any items of a destructive nature through your use of any API;
 
 **m.**    Obfuscate or hide your deployment or use of any LinkedIn buttons, sign-in functionality, consent or authorization flows from your users;
 
@@ -209,7 +209,7 @@ In addition to the other terms and conditions in these Terms, except as expressl
 
 **q.**    Use Content in any manner that facilitates bias or discriminatory practices, including data "redlining," whether intentional or inadvertent, based on any sensitive or legally protected categories or characteristics;  
 
-**r.**     Use Content in any manner that facilitates government surveillance (either directly or as a contractor for a government entity);
+**r.**     Use Content in any manner that facilitates government surveillance (either directly or as a contractor for a government entity);
 
 **s.**    Try to exceed or circumvent limitations on API calls and use. This includes creating multiple Applications for identical, or largely similar, usage;
 
@@ -219,11 +219,11 @@ In addition to the other terms and conditions in these Terms, except as expressl
 
 **v.**    Attempt to re-identify any de-identified or anonymized data;
 
-**w.**    Access a Member’s network through your Application without their express permission;
+**w.**    Access a Member’s network through your Application without their express permission;
 
 **x.**    Permit a Member to share their networks or data about their networks to anyone else through your Application; or
 
-**y.**     Access, store, display, or facilitate the transfer of any LinkedIn content obtained through the following methods: scraping, crawling, spidering or using any other technology or software to access LinkedIn content outside the APIs (such content, collectively, “**Non-Official Content**”). This restriction applies (1) whether the Non-Official Content was obtained directly or indirectly through a third party, such as a customer or third party developer, and (2) whether or not the Non-Official Content is stored or displayed in the Application or some other resource, product or service.
+**y.**     Access, store, display, or facilitate the transfer of any LinkedIn content obtained through the following methods: scraping, crawling, spidering or using any other technology or software to access LinkedIn content outside the APIs (such content, collectively, “**Non-Official Content**”). This restriction applies (1) whether the Non-Official Content was obtained directly or indirectly through a third party, such as a customer or third party developer, and (2) whether or not the Non-Official Content is stored or displayed in the Application or some other resource, product or service.
 
 You must not:
 
@@ -292,7 +292,7 @@ You must immediately delete all Content if we terminate your use of the APIs for
 
 If you process Covered Data received from us you must agree to LinkedIn’s Data Processing Agreement.
 
-**4.7   Data Protection** 
+**4.7   Data Protection**   
 
 The term “**Covered Data**” has the meaning given to the term “personal data” under the European Union General Data Protection Regulation, Regulation (EU) 2016/679 (“**GDPR**”).  To the extent either party processes Covered Data received from the other party, the parties agree that the LinkedIn Data Processing Agreement, currently located at [https://legal.linkedin.com/bd-dpa](https://legal.linkedin.com/bd-dpa), shall govern such processing and is expressly incorporated by reference herein.
 
@@ -446,7 +446,7 @@ In addition to any other documents incorporated by reference into these Terms ab
 
 **b.**     [The LinkedIn Privacy Policy](https://www.linkedin.com/legal/privacy-policy);
 
-**c.**     [The LinkedIn Cookie Policy](https://www.linkedin.com/legal/cookie-policy);
+**c.**     [The LinkedIn Cookie Policy](https://www.linkedin.com/legal/cookie-policy);
 
 **d.**     [The Data Processing Agreement](https://legal.linkedin.com/bd-dpa); and
 
@@ -530,8 +530,8 @@ LinkedIn and its affiliates shall not be liable to you for indirect damages or d
 
 NEITHER LINKEDIN NOR ANY OF OUR SUBSIDIARIES, AFFILIATED COMPANIES, OR SUPPLIERS (EACH A "**LINKEDIN AFFILIATE**"), AND OUR AND THEIR RESPECTIVE EMPLOYEES, SHAREHOLDERS, OR DIRECTORS, SHALL BE CUMULATIVELY LIABLE FOR: (A) ANY SPECIAL, INCIDENTAL, INDIRECT, PUNITIVE, OR CONSEQUENTIAL DAMAGES OR LOSS OF USE, PROFIT, REVENUE OR DATA TO YOU OR ANY THIRD PERSON ARISING FROM YOUR USE OF LINKEDIN MATERIALS ACCESSED THROUGH OR DOWNLOADED FROM LINKEDIN; OR (B) ANY LIABILITY OR DAMAGES IN EXCESS OF TEN THOUSAND DOLLARS ($10,000).  THIS LIMITATION OF LIABILITY SHALL:
 
-1.  APPLY REGARDLESS OF WHETHER (A) YOU BASE YOUR CLAIM ON CONTRACT, TORT, STATUTE, OR ANY OTHER LEGAL THEORY, (B) WE KNEW OR SHOULD HAVE KNOWN ABOUT THE POSSIBILITY OF SUCH DAMAGES, OR (C) THE LIMITED REMEDIES PROVIDED IN THIS SECTION FAIL OF THEIR ESSENTIAL PURPOSE; AND
-2.  NOT APPLY TO ANY DAMAGE THAT LINKEDIN MAY CAUSE YOU INTENTIONALLY OR KNOWINGLY IN VIOLATION OF THESE TERMS OR APPLICABLE LAW, OR AS OTHERWISE MANDATED BY APPLICABLE LAW THAT CANNOT BE DISCLAIMED IN THESE TERMS.
+1. APPLY REGARDLESS OF WHETHER (A) YOU BASE YOUR CLAIM ON CONTRACT, TORT, STATUTE, OR ANY OTHER LEGAL THEORY, (B) WE KNEW OR SHOULD HAVE KNOWN ABOUT THE POSSIBILITY OF SUCH DAMAGES, OR (C) THE LIMITED REMEDIES PROVIDED IN THIS SECTION FAIL OF THEIR ESSENTIAL PURPOSE; AND
+2. NOT APPLY TO ANY DAMAGE THAT LINKEDIN MAY CAUSE YOU INTENTIONALLY OR KNOWINGLY IN VIOLATION OF THESE TERMS OR APPLICABLE LAW, OR AS OTHERWISE MANDATED BY APPLICABLE LAW THAT CANNOT BE DISCLAIMED IN THESE TERMS.
 
 You will indemnify us for your breach of these Terms and for any intellectual property claim.  LinkedIn is not agreeing to indemnify you.
 
