@@ -37,24 +37,24 @@ Further information about the customer account are available in the [terms and c
 
 The above-named companies share joint responsibility for processing your data in connection with the customer account. They have concluded an agreement which details the following: which of them is responsible for which tasks within the scope of joint processing, what objectives this meets, who organises it, and who is responsible for obligations arising from GDPR, in particular for information-related obligations. The essential details of this agreement are described below.  
   
-**DB Vertrieb GmbH and DB Fernverkehr AG are responsible for the following.** 
+**DB Vertrieb GmbH and DB Fernverkehr AG are responsible for the following.** 
 
-*   Sale of BahnCards and their extension as subscriptions, plus the processes by which registered customers can join or leave the BahnBonus programme.
-*   Operational customer management for registered customers and in connection with BahnCard and BahnBonus (e.g. enabling the collection of BahnBonus loyalty points).
-*   Handling marketing communication and providing customer information for register customers, BahnCard holders and BahnBonus participants within the framework of campaign management activities at DB Fernverkehr AG (with the involvement of DB Vertrieb GmbH).
-*   Handling marketing communication and providing customer information for registered customers within the framework of campaign management activities at DB Vertrieb GmbH (with the involvement of DB Fernverkehr AG).
-*   Performing statistical analyses on the basis of pseudonymised or anonymised data such as the details of registered customers, from the BahnBonus loyalty points programme, the BahnCard programme and campaign management activities.
+* Sale of BahnCards and their extension as subscriptions, plus the processes by which registered customers can join or leave the BahnBonus programme.
+* Operational customer management for registered customers and in connection with BahnCard and BahnBonus (e.g. enabling the collection of BahnBonus loyalty points).
+* Handling marketing communication and providing customer information for register customers, BahnCard holders and BahnBonus participants within the framework of campaign management activities at DB Fernverkehr AG (with the involvement of DB Vertrieb GmbH).
+* Handling marketing communication and providing customer information for registered customers within the framework of campaign management activities at DB Vertrieb GmbH (with the involvement of DB Fernverkehr AG).
+* Performing statistical analyses on the basis of pseudonymised or anonymised data such as the details of registered customers, from the BahnBonus loyalty points programme, the BahnCard programme and campaign management activities.
 
 **DB Vertrieb GmbH and DB Regio AG are responsible for the following.**
 
-*   Customer communication activities (e.g. for subscription customers) and advertising activities (e.g. regional offerings) for registered customers.
+* Customer communication activities (e.g. for subscription customers) and advertising activities (e.g. regional offerings) for registered customers.
 
 **DB Vertrieb GmbH, DB Fernverkehr AG and DB Regio AG are responsible for the following.**
 
-*   Marketing products and services via websites and apps, providing information and handling marketing communication for registered customers.
-*   Issuing vouchers and tracking their redemption, providing the information necessary for campaigns for registered customers. 
-*   Sharing registered customers' data to facilitate the holistic processing of activities, e.g. booking tickets, buying a BahnCard or preventing fraud.
-*   Sharing registered customers' data in connection with complaints management, service-related issues and customer dialogue. 
+* Marketing products and services via websites and apps, providing information and handling marketing communication for registered customers.
+* Issuing vouchers and tracking their redemption, providing the information necessary for campaigns for registered customers. 
+* Sharing registered customers' data to facilitate the holistic processing of activities, e.g. booking tickets, buying a BahnCard or preventing fraud.
+* Sharing registered customers' data in connection with complaints management, service-related issues and customer dialogue. 
 
 We collect and process your customer account data exclusively for specific purposes. These purposes may be due to technical necessity, contractual obligations or express requests on the part of users.
 
@@ -72,14 +72,14 @@ List of specific examples:
 **Creating a customer account**  
 The following mandatory information is required when users create a customer account:
 
-*   User name (e-mail address) and password
-*   First name and surname
-*   E-mail address
-*   Security question for forgotten passwords and answer to your security question
+* User name (e-mail address) and password
+* First name and surname
+* E-mail address
+* Security question for forgotten passwords and answer to your security question
 
 It is not possible to create a personal account without supplying this information. All other personal information and details pertaining to the user's travel profile are optional. We save your booking and login data in your customer account and use it for performing internal analyses and marketing research. 
 
-**Booking a digital ticket**   
+**Booking a digital ticket**      
 When you book a digital ticket, our system uses the address details as well as surname and first name in your customer account. In addition, when you book an international ticket via international-bahn.de/bahn.com or certain regional offerings, our system uses the date of birth in your customer account, if you have included it. When the tickets are inspected on board the train, the train attendant's mobile terminal will display the information contained in the ticket.
 
 **Purchasing a BahnCard**  
@@ -88,10 +88,10 @@ When you purchase a BahnCard, our system uses the contact and identification dat
 **Payment details in customer accounts**  
 We process your payment details when handling transactions, such as when you buy a product via bahn.de/bahn.com. Depending on the payment method chosen, we may forward your payment details to a third party, as we work with partner companies in order to process certain payment options. You can use the payment services of PayPal and giropay without payment details being stored in your customer account. 
 
-*   **Registration for payment by SEPA direct debit**  
+* **Registration for payment by SEPA direct debit**  
     When you register to use the SEPA direct debit process, you provide us with a SEPA mandate that we can use to deduct payments from your bank account by means of a SEPA direct debit if you have selected this payment option. The legal basis for this is Article 6(1)(b) GDPR.
 
-*   **Payment by credit card**  
+* **Payment by credit card**  
     To ensure that your payments are processed securely, payment-related data (amount, booking reference, booking description, payer) in your customer account is forwarded to a payment service provider. The legal basis for this is Article 6(1)(b) GDPR. Our payment service provider for processing credit card payments is PAYONE GmbH, Lyoner Strasse 9, 60528 Frankfurt am Main, Germany. To learn how Payone processes your data, please read its privacy policy at [https://www.payone.com/dsgvo](https://www.payone.com/dsgvo)/.    
     The payment service provider performs the following: processing of credit card data in order to perform payments and store details in your customer account; application of security measures used by your card's issuer (such as 3D Secure and strong customer authentication). No other institution handles your data. We do not receive access to your full credit card data. Instead, we merely save a reference in the form of an abbreviated credit card number so that you can identify it. To prevent cases of fraud, a processor is used to process your device or browser fingerprint along with your payment-related data. This serves to protect you and us by preventing the misuse of your financial details when making payments via bahn.de/bahn.com. The legal basis for this is Article 6 (1) (f) GDPR.
 
@@ -141,11 +141,11 @@ If you have a bahn.de/bahn.com customer account, personal offers and promotions 
 
 The following cookies are not essential for using the website and will be processed only if you give your consent beforehand. 
 
-**Remain-logged-in option** 
+**Remain-logged-in option** 
 
 If you use the remain-logged-in option, you will be recognised and addressed by your name the next time you visit. You can use the contents of your customer account faster and receive customised offerings. Use of the remain-logged-in option does not enable direct access to your personal customer account. In order to access your data such as address, account or booking information, personal offers, etc., you must always log in to your customer account with your user name and password bahn.de/bahn.com will be pre-set with your user name every time you log in. Our aim is to provide a faster and more convenient login. We will never pre-set your password. If your end-user device is used by several people, please make sure that the auto-fill-in option in your browser is switched off in order to avoid misuse.
 
-**Registration** 
+**Registration** 
 
 If you wish to use the remain-logged-in option, we need your consent in accordance with Article 6(1)(a) GDPR. You can give your consent to the remain-logged-in option on registration and when logging in to your customer account. By entering your user name and password, ticking the remain-logged-in box and clicking the login button, you consent to the option. You have to give your consent for every end-user device and every browser used. Following your consent, we place two cookies on your browser. These are first-party cookies that can only be read by us. One cookie allows us to give your browser a randomly generated ID and thereby enables us to clearly recognise it and/or you as user of the browser. The other cookie indicates whether the remain-logged-in option has been set in your browser. If this is the case, the randomly generated cookie ID from your browser is decoded in our systems and allocated to your customer account. This only takes place by way of encrypted connections.  
 Both cookies thereby enable us to recognise you on subsequent visits to bahn.de/bahn.com and to address you by your name. These cookies are not used to collect usage data from your browser or to link this usage data with data from other browser sessions.  
@@ -158,13 +158,13 @@ If you delete the cookies on your browser, you will also opt out of the option. 
 
 ### What rights to customer account users have?
 
-*   You can request information to find out if and what information is stored about you.
-*    You can request the correction, deletion and restriction of the processing (blocking) of your personal data as long as this is legally permissible and possible within the framework of an existing contractual relationship.
-*    You have the right to file complaints with the supervisory authority. The supervisory authority responsible for DB Vertrieb GmbH is Der Hessische Datenschutzbeauftragte, Gustav-Stresemann-Ring 1, 65189 Wiesbaden, Germany; e-mail: [poststelle@datenschutz.hessen.de](mailto:poststelle@datenschutz.hessen.de)
-*   You have the right to the transferability of the data that you have submitted to us based on consent or under a contract (data transferability).
-*   If you have given us your consent to data processing, you can withdraw it at any time by the same means by which it was given. Withdrawal of consent does not affect the legitimacy of processing carried out on the basis of consent prior to its withdrawal.
-*   You can object to data processing for reasons arising from your particular circumstances if the data processing is based on our legitimate interests.
-*    You can opt out of advertising messages at any time with future effect (advertising opt-out).    
+* You can request information to find out if and what information is stored about you.
+*  You can request the correction, deletion and restriction of the processing (blocking) of your personal data as long as this is legally permissible and possible within the framework of an existing contractual relationship.
+*  You have the right to file complaints with the supervisory authority. The supervisory authority responsible for DB Vertrieb GmbH is Der Hessische Datenschutzbeauftragte, Gustav-Stresemann-Ring 1, 65189 Wiesbaden, Germany; e-mail: [poststelle@datenschutz.hessen.de](mailto:poststelle@datenschutz.hessen.de)
+* You have the right to the transferability of the data that you have submitted to us based on consent or under a contract (data transferability).
+* If you have given us your consent to data processing, you can withdraw it at any time by the same means by which it was given. Withdrawal of consent does not affect the legitimacy of processing carried out on the basis of consent prior to its withdrawal.
+* You can object to data processing for reasons arising from your particular circumstances if the data processing is based on our legitimate interests.
+*  You can opt out of advertising messages at any time with future effect (advertising opt-out).    
     
 
 DB Vertrieb, DB Fernverkehr and DB Regio share joint responsibility as per Article 26 GDPR. As part of this agreement, the companies have identified which GDPR-related obligations each of them must to meet. Independently of this, you can assert your rights vis-a-vis the above-named companies whenever necessary.   
