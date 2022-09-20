@@ -9,13 +9,13 @@ October 2020**
 There is no place on Twitter for violent organizations, including terrorist organizations, violent extremist groups, or individuals who affiliate with and promote their illicit activities. The violence that these groups engage in and/or promote jeopardizes the physical safety and well-being of those targeted. Our assessments under this policy are informed by national and international terrorism designations, as well as our violent extremist group and violent organizations criteria.  
  
 
-**You may not threaten or promote terrorism or violent extremism.** 
+**You may not threaten or promote terrorism or violent extremism.** 
 
 Violent extremist groups are those that meet all of the below criteria:  
 
-*   identify through their stated purpose, publications, or actions as an extremist group;
-*   have engaged in, or currently engage in, violence and/or the promotion of violence as a means to further their cause; and
-*   target civilians in their acts and/or promotion of violence.  
+* identify through their stated purpose, publications, or actions as an extremist group;
+* have engaged in, or currently engage in, violence and/or the promotion of violence as a means to further their cause; and
+* target civilians in their acts and/or promotion of violence.  
      
 
 **Other violent organizations  
@@ -23,8 +23,8 @@ Violent extremist groups are those that meet all of the below criteria:
 
 Other violent organizations are those that meet all of the below criteria:
 
-*   a collection of individuals with a shared purpose; and
-*   have systematically targeted civilians with violence. 
+* a collection of individuals with a shared purpose; and
+* have systematically targeted civilians with violence. 
 
 We examine a group’s activities both on and off Twitter to determine whether they satisfy the above criteria.  
  
@@ -34,10 +34,10 @@ We examine a group’s activities both on and off Twitter to determine whether t
   
 Under this policy, you can’t affiliate with and promote the illicit activities of a terrorist organization or violent extremist group. Examples of the types of content that violate this policy include, but are not limited to:
 
-*   engaging in or promoting acts on behalf of a violent organization;
-*   recruiting for a violent organization;
-*   providing or distributing services (e.g., financial, media/propaganda) to further a violent organization’s stated goals; and
-*   using the insignia or symbol of violent organizations to promote them or indicate affiliation or support.  
+* engaging in or promoting acts on behalf of a violent organization;
+* recruiting for a violent organization;
+* providing or distributing services (e.g., financial, media/propaganda) to further a violent organization’s stated goals; and
+* using the insignia or symbol of violent organizations to promote them or indicate affiliation or support.  
      
 
 ### What is not a violation of this policy?
@@ -59,24 +59,24 @@ In-app**
 
 You can report this content for review in-app on iOS as follows:
 
-1.  Select **Report Tweet** from the  icon.
-2.  Select **It’s abusive or harmful**.
-3.  Select **Threatening violence or physical harm**.
-4.  Select the relevant option depending on who you are reporting on behalf of.
-5.  Select up to 5 Tweets to report for review.
-6.  Submit your report.  
+1. Select **Report Tweet** from the  icon.
+2. Select **It’s abusive or harmful**.
+3. Select **Threatening violence or physical harm**.
+4. Select the relevant option depending on who you are reporting on behalf of.
+5. Select up to 5 Tweets to report for review.
+6. Submit your report.  
      
 
 **Desktop**
 
 You can report this content for review via desktop as follows:
 
-1.  Select **Report Tweet** from the  icon.
-2.  Select **It’s abusive or harmful**.
-3.  Select **Threatening violence or physical harm**.
-4.  Select the relevant option depending on who you are reporting on behalf of.
-5.  Select up to 5 Tweets to report for review.
-6.  Submit your report.  
+1. Select **Report Tweet** from the  icon.
+2. Select **It’s abusive or harmful**.
+3. Select **Threatening violence or physical harm**.
+4. Select the relevant option depending on who you are reporting on behalf of.
+5. Select up to 5 Tweets to report for review.
+6. Submit your report.  
      
 
 **Report form**
