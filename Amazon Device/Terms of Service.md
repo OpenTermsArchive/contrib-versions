@@ -31,7 +31,7 @@ For the purpose of these Amazon Device Terms of Use:
 
 **2\. Connectivity and Availability**
 
- **a. Internet and Wireless Connectivity.** Your Amazon Device may require an Internet connection or data plan from a third-party provider in order to use some features. In such cases, your Internet connection or data plan is subject to the fees, restrictions, terms and limitations imposed by your provider.
+ **a. Internet and Wireless Connectivity.** Your Amazon Device may require an Internet connection or data plan from a third-party provider in order to use some features. In such cases, your Internet connection or data plan is subject to the fees, restrictions, terms and limitations imposed by your provider.
 
 **b. Availability.** Some Services may be unavailable, vary (by device or geography, for example), be offered for a limited time, or require separate subscriptions. In addition, if your Amazon Device requires wireless data services and is located in an area where it cannot access such services, you may not be able to use some or all of the Services or other features of your Amazon Device. We are not responsible for the unavailability of wireless data services or any corresponding loss of Services.
 
