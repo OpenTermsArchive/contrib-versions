@@ -3,11 +3,11 @@
 
 This policy tells you:
 
-*   what information we might collect about you
-*   how we might use that information
-*   when we might use your details to contact you
-*   what information of yours we might share with others
-*   your choices about the personal information you give us
+* what information we might collect about you
+* how we might use that information
+* when we might use your details to contact you
+* what information of yours we might share with others
+* your choices about the personal information you give us
 
 [Back to top](#top "Back to top")
 
@@ -60,19 +60,19 @@ When you [register for a BBC account](https://www.bbc.co.uk/usingthebbc/account/
 
 Devices are lots of things like:
 
-*   your computer
-*   your mobile
-*   your TV
-*   your tablet
-*   your voice-enabled device
+* your computer
+* your mobile
+* your TV
+* your tablet
+* your voice-enabled device
 
 [We automatically collect some technical information from these devices and web browsers](https://www.bbc.co.uk/usingthebbc/privacy/how-does-the-bbc-collect-data-about-me/) even when you're not signed into to a [BBC account](https://www.bbc.co.uk/usingthebbc/account/what-is-a-bbc-account/ "BBC account"). This might include:
 
-*   IP (internet protocol) address
-*   device ID
-*   app ID
-*   vendor ID
-*   advertising ID
+* IP (internet protocol) address
+* device ID
+* app ID
+* vendor ID
+* advertising ID
 
 **c. Location Information**
 
@@ -100,10 +100,10 @@ Like [the articles you read and the programmes you watch](https://www.bbc.co.uk/
 
 When you give us any personal information [we'll let you know how long we'll hold it for](https://www.bbc.co.uk/usingthebbc/privacy/how-long-will-the-bbc-keep-my-information/). And always stick to these principles:
 
-*   we only hold your information for as long as we do the activities we told you about or have a [valid reason](https://www.bbc.co.uk/usingthebbc/privacy-policy/#392685c07752f9b2f99eb10cf4f3032c) to keep it
-*   we think about what type of information it is, the amount collected, how sensitive it might be and any legal requirements
-*   we design [our services](http://www.bbc.co.uk/usingthebbc/terms-of-use/#8d3b08a2eb8e55faf084a6d803c43b3d) so that we don't hold your information any longer than we have to
-*   we may close your BBC account if you haven't used it in the last year. We'll send you an email to tell you that we plan to do this before we delete anything, so please check to see if we've sent you any emails about this
+* we only hold your information for as long as we do the activities we told you about or have a [valid reason](https://www.bbc.co.uk/usingthebbc/privacy-policy/#392685c07752f9b2f99eb10cf4f3032c) to keep it
+* we think about what type of information it is, the amount collected, how sensitive it might be and any legal requirements
+* we design [our services](http://www.bbc.co.uk/usingthebbc/terms-of-use/#8d3b08a2eb8e55faf084a6d803c43b3d) so that we don't hold your information any longer than we have to
+* we may close your BBC account if you haven't used it in the last year. We'll send you an email to tell you that we plan to do this before we delete anything, so please check to see if we've sent you any emails about this
 
 [Back to top](#top "Back to top")
 
@@ -112,8 +112,8 @@ When you give us any personal information [we'll let you know how long we'll hol
 
 We have to have a valid reason to use your personal information. It's called the "lawful basis for processing". Sometimes we might ask your permission to do things, like [when you subscribe to an email](http://www.bbc.co.uk/usingthebbc/account/what-emails-and-newsletters-will-the-bbc-send-me/). Other times, when you'd reasonably expect us to use your personal information, we don't ask your permission, but only when:
 
-*   the law says it's fine to use it, and
-*   it fits with the [rights you have](https://www.bbc.co.uk/usingthebbc/privacy/what-are-my-rights/)
+* the law says it's fine to use it, and
+* it fits with the [rights you have](https://www.bbc.co.uk/usingthebbc/privacy/what-are-my-rights/)
 
 We use your information for these types of things:
 
@@ -154,13 +154,13 @@ You're not a guinea-pig here, but [knowing how you use our services](https://www
 
 We might use your information to contact you about different things, like:
 
-*   to update you on any changes to the BBC’s policies, practices and [Terms of Use](https://www.bbc.co.uk/usingthebbc/terms/)
-*   to check with you about any service or activity you’ve signed up for. For example, we might tell you if your [BBC account hasn't been used in a long time](https://www.bbc.co.uk/usingthebbc/privacy-policy/#e7c570eb00a8c5019159cb3012bf9481). Or it might be about [creating a child account](https://www.bbc.co.uk/usingthebbc/account/how-to-register-a-child-account/)
-*   to contact you about a [creation](https://www.bbc.co.uk/usingthebbc/terms-of-use/#349d7bccaa27c197ed02856d14c6b7b9) you sent us, like things you’ve sent in to School Report news day
-*   to answer you when you’ve contacted us, or to respond to a comment or complaint
-*   to invite you to take part in surveys about BBC services, which are always voluntary
-*   for [marketing purposes](https://www.bbc.co.uk/usingthebbc/privacy-policy/#26543a5fc6e4d2c820b768833fcc9509)
-*   to send you notifications on your device depending on [your settings](http://www.bbc.co.uk/usingthebbc/account/how-can-i-use-notifications/)
+* to update you on any changes to the BBC’s policies, practices and [Terms of Use](https://www.bbc.co.uk/usingthebbc/terms/)
+* to check with you about any service or activity you’ve signed up for. For example, we might tell you if your [BBC account hasn't been used in a long time](https://www.bbc.co.uk/usingthebbc/privacy-policy/#e7c570eb00a8c5019159cb3012bf9481). Or it might be about [creating a child account](https://www.bbc.co.uk/usingthebbc/account/how-to-register-a-child-account/)
+* to contact you about a [creation](https://www.bbc.co.uk/usingthebbc/terms-of-use/#349d7bccaa27c197ed02856d14c6b7b9) you sent us, like things you’ve sent in to School Report news day
+* to answer you when you’ve contacted us, or to respond to a comment or complaint
+* to invite you to take part in surveys about BBC services, which are always voluntary
+* for [marketing purposes](https://www.bbc.co.uk/usingthebbc/privacy-policy/#26543a5fc6e4d2c820b768833fcc9509)
+* to send you notifications on your device depending on [your settings](http://www.bbc.co.uk/usingthebbc/account/how-can-i-use-notifications/)
 
 We’ll only contact you when we need to or when you’ve given us permission.
 
@@ -233,9 +233,9 @@ Here's what happens when you use them.
 
 We keep information about you so that we can
 
-*   [get the right services for you](https://www.bbc.co.uk/usingthebbc/privacy-policy/#392685c07752f9b2f99eb10cf4f3032c)
-*   [plan and improve our services](https://www.bbc.co.uk/usingthebbc/privacy-policy/#392685c07752f9b2f99eb10cf4f3032c)
-*   [keep in touch with you](https://www.bbc.co.uk/usingthebbc/privacy-policy/#833f5613d0ead3584c83cba814a958a5)
+* [get the right services for you](https://www.bbc.co.uk/usingthebbc/privacy-policy/#392685c07752f9b2f99eb10cf4f3032c)
+* [plan and improve our services](https://www.bbc.co.uk/usingthebbc/privacy-policy/#392685c07752f9b2f99eb10cf4f3032c)
+* [keep in touch with you](https://www.bbc.co.uk/usingthebbc/privacy-policy/#833f5613d0ead3584c83cba814a958a5)
 
 **b. We'll always tell you why we're collecting your personal information**
 
@@ -251,18 +251,18 @@ The main rule is we will never sell your personal information to anyone.
 
 To make sure you use the parts of the BBC that are suitable for you. For example:
 
-*   so that adults don't [post comments](https://www.bbc.co.uk/usingthebbc/account/what-happens-to-the-comments-i-post-on-the-bbc/) on kid's message boards
-*   when you want to [get a BBC account](https://www.bbc.co.uk/usingthebbc/account/help-with-child-accounts/)
-*   When you're watching a programme, like on BBC iPlayer, and it's a bit edgy
+* so that adults don't [post comments](https://www.bbc.co.uk/usingthebbc/account/what-happens-to-the-comments-i-post-on-the-bbc/) on kid's message boards
+* when you want to [get a BBC account](https://www.bbc.co.uk/usingthebbc/account/help-with-child-accounts/)
+* When you're watching a programme, like on BBC iPlayer, and it's a bit edgy
 
 **f. Sometimes we'll ask to get your parent or guardian's consent**
 
 You'll see a notification. We might also ask for some details from them, so that we can contact them. Other times we may contact your parent or guardian:
 
-*   so you can [get notifications](https://www.bbc.co.uk/usingthebbc/account/what-are-notifications/) from us
-*   so we can s[how you more things we think you'll like](https://www.bbc.co.uk/usingthebbc/privacy-policy/#392685c07752f9b2f99eb10cf4f3032c), based on what you do
-*   so you can post comments
-*   so you can upload your contribution to us
+* so you can [get notifications](https://www.bbc.co.uk/usingthebbc/account/what-are-notifications/) from us
+* so we can s[how you more things we think you'll like](https://www.bbc.co.uk/usingthebbc/privacy-policy/#392685c07752f9b2f99eb10cf4f3032c), based on what you do
+* so you can post comments
+* so you can upload your contribution to us
 
 **g. Sometimes we'll tell your parents about your activities**
 
@@ -304,9 +304,9 @@ When you share your [creation](https://www.bbc.co.uk/usingthebbc/terms-of-use/#3
 
 You can:
 
-*   ask us [what personal information we hold](https://www.bbc.co.uk/usingthebbc/privacy/what-info-do-you-have-about-me/) about you
-*   ask us [to correct](https://www.bbc.co.uk/usingthebbc/privacy/how-do-i-change-my-info/) or [delete your personal information](https://www.bbc.co.uk/usingthebbc/privacy/can-i-delete-my-data/)
-*   tell us [to stop using your personal information](https://www.bbc.co.uk/usingthebbc/privacy/how-can-i-stop-you-using-my-personal-info/)
+* ask us [what personal information we hold](https://www.bbc.co.uk/usingthebbc/privacy/what-info-do-you-have-about-me/) about you
+* ask us [to correct](https://www.bbc.co.uk/usingthebbc/privacy/how-do-i-change-my-info/) or [delete your personal information](https://www.bbc.co.uk/usingthebbc/privacy/can-i-delete-my-data/)
+* tell us [to stop using your personal information](https://www.bbc.co.uk/usingthebbc/privacy/how-can-i-stop-you-using-my-personal-info/)
 
 If you're 13 or older, you can do this yourself, but not always. Sometimes we'll be asking for your parent or guardian to do that.
 
@@ -323,8 +323,8 @@ This depends on what information you're talking about.
 
 You can [delete your account](https://www.bbc.co.uk/usingthebbc/account/how-to-delete-your-account/). Your account information is immediately deleted. Keep in mind:
 
-*   we keep a record of how you've used our services, but this information can't be linked back to you
-*   we also keep anything you've uploaded or commented on
+* we keep a record of how you've used our services, but this information can't be linked back to you
+* we also keep anything you've uploaded or commented on
 
 **b. What about other information I've shared with you?**
 
@@ -339,10 +339,10 @@ Remember, you're in control of your personal information.
 
 [You have the right to](https://www.bbc.co.uk/usingthebbc/privacy/what-are-my-rights/):
 
-*   [request a copy of your information](https://www.bbc.co.uk/usingthebbc/privacy/what-info-do-you-have-about-me/)
-*   [not let robots make big decisions about you](https://www.bbc.co.uk/usingthebbc/privacy/how-is-my-info-being-used-to-make-decisions/)
-*   to ask us to correct information that's wrong, to delete it or to request that we only use it for certain purposes
-*   to change your mind, and ask us to stop using your information. For example, [unsubscribing from any marketing emails](https://www.bbc.co.uk/usingthebbc/account/what-emails-and-newsletters-will-the-bbc-send-me/) or [turning off personalisation](https://www.bbc.co.uk/usingthebbc/account/what-emails-and-newsletters-will-the-bbc-send-me/)
+* [request a copy of your information](https://www.bbc.co.uk/usingthebbc/privacy/what-info-do-you-have-about-me/)
+* [not let robots make big decisions about you](https://www.bbc.co.uk/usingthebbc/privacy/how-is-my-info-being-used-to-make-decisions/)
+* to ask us to correct information that's wrong, to delete it or to request that we only use it for certain purposes
+* to change your mind, and ask us to stop using your information. For example, [unsubscribing from any marketing emails](https://www.bbc.co.uk/usingthebbc/account/what-emails-and-newsletters-will-the-bbc-send-me/) or [turning off personalisation](https://www.bbc.co.uk/usingthebbc/account/what-emails-and-newsletters-will-the-bbc-send-me/)
 
 Bear in mind, sometimes we might not be able to help. Like if the law tells us we can't or it forms part of our journalistic output.
 
@@ -361,12 +361,12 @@ There are also similar [pieces of tracking information we collect](https://www.b
 
 To do a few different things:
 
-*   to remember information about you, so you don't have to give it to us again. And again. And again
-*   to keep you signed in, even on different devices
-*   to help us understand how people are using our services, so we can make them better
-*   to deliver advertising to websites outside of the UK
-*   to help us personalise the BBC to you by remembering your preferences and settings. And your progress, so you can pause and pick up where you left off watching a programme even on a different device
-*   to find out if our emails have been read and if you find them useful
+* to remember information about you, so you don't have to give it to us again. And again. And again
+* to keep you signed in, even on different devices
+* to help us understand how people are using our services, so we can make them better
+* to deliver advertising to websites outside of the UK
+* to help us personalise the BBC to you by remembering your preferences and settings. And your progress, so you can pause and pick up where you left off watching a programme even on a different device
+* to find out if our emails have been read and if you find them useful
 
 **c. What are the types of cookies?**
 
@@ -406,15 +406,15 @@ Find out more and [contact us about your rights](https://www.bbc.co.uk/usingtheb
 
 For any other questions or comments about this policy speak to our Data Protection Officer.
 
-*   [by email](mailto:DataProtection.Officer@bbc.co.uk)
-*   by post
+* [by email](mailto:DataProtection.Officer@bbc.co.uk)
+* by post
 
 BBC Data Protection Office, BBC Broadcast Centre, BC2 C6, 201 Wood Lane, London W12 7TP
 
 If you’re outside the UK please contact the BBC Studios Data Protection Officer:
 
-*   [by email](mailto:Dataprotection@bbc.com)
-*   by post at BBC Studios DPO, Regulatory Affairs, 1 Television Centre, 101 Wood Lane, London W12 7FA
+* [by email](mailto:Dataprotection@bbc.com)
+* by post at BBC Studios DPO, Regulatory Affairs, 1 Television Centre, 101 Wood Lane, London W12 7FA
 
 We're regulated by the [Information Commissioner's Office](https://ico.org.uk/concerns/). You can also contact them for advice and support.
 
