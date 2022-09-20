@@ -61,11 +61,11 @@ Our Services may require additional information or permissions from your device 
 
 _Log Data_. When you use the Services, whether as a registered user or a non-registered user, for example in accessing our Services through a Social Networking Site, (any of these, a **“We Heart It User”**), our servers automatically record information that your browser sends whenever you visit a website or application (**“Log Data”**). This Log Data may include information such as:
 
-*   your computer’s Internet Protocol (**“IP”**) address
-*   the browser type or the website or application you were visiting before you came to the Services
-*   pages of the websites or applications involved in the Service that you visit and the time spent on those pages
-*   information you search for
-*   other details about your interaction with our Services, such as access times and dates, your device’s operating system, software version, unique advertising identifier, and other identifiers and statistics
+* your computer’s Internet Protocol (**“IP”**) address
+* the browser type or the website or application you were visiting before you came to the Services
+* pages of the websites or applications involved in the Service that you visit and the time spent on those pages
+* information you search for
+* other details about your interaction with our Services, such as access times and dates, your device’s operating system, software version, unique advertising identifier, and other identifiers and statistics
 
 We use this information to monitor and analyze use of the Services and for the Service’s technical administration, to increase the functionality and user-friendliness of our Services, and to better tailor the Services to our visitors’ needs. For example, some of this information is collected so that when you use our Services again, it will recognize you and remember your preferences. We also use this information to verify that visitors to the Services meet the criteria required to process their requests. We may aggregate, analyze and evaluate Log Data, and such aggregate data is not treated as Personal Information.
 
@@ -77,55 +77,55 @@ We may use your Personal Information to provide products and services and to sup
 
 **_Provide, Improve, and Develop the Services._**
 
-*   Provide the Services to you
-*   Display content and information (including Personal Information) you choose to make public on the Services
-*   Recognize you when you return to our Services, save your registration ID and login password for future logins, and store information about your use of the Services
-*   Provide customer service
-*   Operate, protect, improve, and optimize the Services and the user experience, such as by performing analytics and conducting research
-*   Communicate with you and send you information by email, postal mail, telephone, text message, or other means about our products, services, contests, support messages, updates, security alerts, and account notifications. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications or update your “user preferences” information. (See “**Your Rights**,” below.)
-*   Make your user experience easier, more personalized, more enjoyable and more efficient
-*   Address problems with and improve our products, brands, services and technologies, and develop new products and services
-*   Enable certain features of the Services in order to better understand how you interact with the Services and monitor aggregate usage.
-*   Enable you to share information to Social Networking Sites
-*   Administer and fulfill contests and promotions
-*   Help us learn more about your product preferences
-*   Send you push notifications with app-related information when you give us permission
-*   Fulfill your purchase requests and process refunds
-*   Fulfill a contract we have with you
-*   Operate, protect, improve, and optimize the Services and experience, and personalize and customize your experience. We personalize the Services based on how you use, interact, and share information with the Services.
+* Provide the Services to you
+* Display content and information (including Personal Information) you choose to make public on the Services
+* Recognize you when you return to our Services, save your registration ID and login password for future logins, and store information about your use of the Services
+* Provide customer service
+* Operate, protect, improve, and optimize the Services and the user experience, such as by performing analytics and conducting research
+* Communicate with you and send you information by email, postal mail, telephone, text message, or other means about our products, services, contests, support messages, updates, security alerts, and account notifications. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications or update your “user preferences” information. (See “**Your Rights**,” below.)
+* Make your user experience easier, more personalized, more enjoyable and more efficient
+* Address problems with and improve our products, brands, services and technologies, and develop new products and services
+* Enable certain features of the Services in order to better understand how you interact with the Services and monitor aggregate usage.
+* Enable you to share information to Social Networking Sites
+* Administer and fulfill contests and promotions
+* Help us learn more about your product preferences
+* Send you push notifications with app-related information when you give us permission
+* Fulfill your purchase requests and process refunds
+* Fulfill a contract we have with you
+* Operate, protect, improve, and optimize the Services and experience, and personalize and customize your experience. We personalize the Services based on how you use, interact, and share information with the Services.
 
 We process this information given our legitimate interest in improving the Services and our users’ experience, and where it is necessary, for the adequate performance of the contract with you.
 
 **_Create and Maintain a Trusted and Safe Environment._**
 
-*   Prevent, detect, mitigate and investigate fraud, security breaches and activities that are or potentially may be prohibited or illegal
-*   Conduct security investigations and risk assessments
-*   Verify or authenticate information
-*   As we believe to be required or appropriate to protect the rights, property, safety and security of our Services and our employees, customers and others
-*   As we believe to be required or appropriate under applicable law, to respond to requests from government authorities and to comply with legal process, investigations, regulatory or governmental enquiries or for other legal or regulatory purposes
-*   Comply with our legal obligations
-*   Resolve any disputes with any of our users and enforce our agreements with third parties
-*   Enforce our Terms of Service or other policies
+* Prevent, detect, mitigate and investigate fraud, security breaches and activities that are or potentially may be prohibited or illegal
+* Conduct security investigations and risk assessments
+* Verify or authenticate information
+* As we believe to be required or appropriate to protect the rights, property, safety and security of our Services and our employees, customers and others
+* As we believe to be required or appropriate under applicable law, to respond to requests from government authorities and to comply with legal process, investigations, regulatory or governmental enquiries or for other legal or regulatory purposes
+* Comply with our legal obligations
+* Resolve any disputes with any of our users and enforce our agreements with third parties
+* Enforce our Terms of Service or other policies
 
 We process this information given our legitimate interest in providing and protecting the Services, to measure the adequate performance of our contract with you, and to comply with applicable laws.
 
 **_Provide, Personalize, Measure, and Improve our Advertising and Marketing._**
 
-*   Send you promotional messages we believe may be of interest to you, including marketing, advertising, and other information that may be of interest to you based on your preferences (including information about We Heart It or partner campaigns and services).
-*   Personalize, measure, and improve our advertising.
-*   Administer referral programs, rewards, surveys, sweepstakes, contests, or other promotional activities or events sponsored or managed by We Heart It or its third party partners.
-*   Gather and infer information about your characteristics and preferences (based on the information you provide to us, your interactions with the Services, information obtained from third parties, and your search and booking history) so that we can send you promotional messages, marketing, advertising and other information that we think may be of interest to you.
+* Send you promotional messages we believe may be of interest to you, including marketing, advertising, and other information that may be of interest to you based on your preferences (including information about We Heart It or partner campaigns and services).
+* Personalize, measure, and improve our advertising.
+* Administer referral programs, rewards, surveys, sweepstakes, contests, or other promotional activities or events sponsored or managed by We Heart It or its third party partners.
+* Gather and infer information about your characteristics and preferences (based on the information you provide to us, your interactions with the Services, information obtained from third parties, and your search and booking history) so that we can send you promotional messages, marketing, advertising and other information that we think may be of interest to you.
 
 We will process your Personal Information for the purposes listed in this section given our legitimate interest in undertaking marketing activities to offer you products or services that may be of interest.
 
 **_Other Purposes._**
 
-*   When you consent to it
-*   When it is necessary to protect your vital interests or that of another person
-*   When it is necessary to carry out your instructions
-*   When it is necessary for the performance of a task carried out in the public interest
-*   If there is a sale of the assets of We Heart It or corporate restructuring, or as a result of a change of control of We Heart It or one of its group companies, or in preparation of any of these events. Any third party to which We Heart It transfers or sells We Heart It’s assets will have the right to continue to use the Personal Information and other information that you provide to us in the manner set out in this Privacy Policy.
-*   When it is in our legitimate interests. Legitimate interests are our business or commercial reasons for using your data, such as (i) keeping our records up to date (ii) providing the Services to you; (iii) maintaining or administering the Services (iv) performing business analyses or for other internal purposes to improve the quality of our business and the Services we offer; (v) prevention of fraud and financial crime to protect the public; (vi) communicating with you concerning programs or services consistent with our obligations to provide those services or otherwise; and (vii) participating in litigation, investigations, regulatory or governmental enquiries or for other legal or regulatory purposes involving our customers who use or have used our Services or other third parties. We will not unfairly place our legitimate interests above what is best for you.
+* When you consent to it
+* When it is necessary to protect your vital interests or that of another person
+* When it is necessary to carry out your instructions
+* When it is necessary for the performance of a task carried out in the public interest
+* If there is a sale of the assets of We Heart It or corporate restructuring, or as a result of a change of control of We Heart It or one of its group companies, or in preparation of any of these events. Any third party to which We Heart It transfers or sells We Heart It’s assets will have the right to continue to use the Personal Information and other information that you provide to us in the manner set out in this Privacy Policy.
+* When it is in our legitimate interests. Legitimate interests are our business or commercial reasons for using your data, such as (i) keeping our records up to date (ii) providing the Services to you; (iii) maintaining or administering the Services (iv) performing business analyses or for other internal purposes to improve the quality of our business and the Services we offer; (v) prevention of fraud and financial crime to protect the public; (vi) communicating with you concerning programs or services consistent with our obligations to provide those services or otherwise; and (vii) participating in litigation, investigations, regulatory or governmental enquiries or for other legal or regulatory purposes involving our customers who use or have used our Services or other third parties. We will not unfairly place our legitimate interests above what is best for you.
 
 **II. Legal Bases for Use of Your Personal Information**
 
@@ -165,81 +165,81 @@ _Opting Out of Personalized Ads on Browsers and on Certain Devices._ You may be 
 
 On mobile you can reset your settings by referring to your devices settings and instructions or by taking the following steps:
 
-*   For iOS: https://support.apple.com/en-us/HT202074
-*   For Android: https://support.google.com/ads/answer/2662922?hl=en).
+* For iOS: https://support.apple.com/en-us/HT202074
+* For Android: https://support.google.com/ads/answer/2662922?hl=en).
 
 For advertisers or advertising networks who are members of the Network Advertising Initiative or who subscribe to the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising, you may be able to opt out of receiving personalized advertisements by visiting the opt-out options of each of those organizations. Links to those sites are here:
 
 Network Advertising Initiative:
 
-*   Browser Opt-Out: http://www.networkadvertising.org/choices/ 
+* Browser Opt-Out: http://www.networkadvertising.org/choices/ 
 
 Digital Advertising Alliance:
 
-*   Browser Opt-Out: http://www.aboutads.info/choices/ 
+* Browser Opt-Out: http://www.aboutads.info/choices/ 
 
 Both Network Advertising Initiative and Digital Advertising Alliance
 
-*   App Opt-Out: http://youradchoices.com/appchoices
+* App Opt-Out: http://youradchoices.com/appchoices
 
 When you opt out of personalized advertising, you may continue to see online advertising on our Services and/or our ads on other website and online services.
 
 A list of the third-party advertising and technology companies that we work with is set forth below:
 
-*   AdAdapted, Inc. – [Privacy Policy](https://info.adadapted.com/privacy-policy)
-*   AdButler (SparkLIT Networks) – [Privacy Policy](https://www.adbutler.com/agreements.spark?agreement=privacy)
-*   AdColony, Inc. – [Privacy Policy](https://www.adcolony.com/privacy-policy/)
-*   Admob (Google LLC) – [Privacy Policy](https://support.google.com/admob/answer/48182)
-*   Adview Technology – [Privacy Policy](https://www.adview.cn/web/overseas/policy/privacy)
-*   Aerserv LLC – [Privacy Policy](https://www.aerserv.com/privacy-policy/)
-*   Amazon Services International, Inc. – [Privacy Policy](https://developer.amazon.com/support/legal/mobileads/terms-and-agreements)
-*   AppGeneration –Software Technologies, Lda – [Privacy Policy](http://www.appgeneration.com/privacy.html)
-*   AppLovin Corporation – [Privacy Policy](https://www.applovin.com/privacy/)
-*   Appnexus Inc. – [Privacy Policy](https://www.appnexus.com/platform-privacy-policy)
-*   AppoDeal, Inc. – [Privacy Policy](https://www.appodeal.com/privacy-policy)
-*   Avocarrot (Glispa GmbH) – [Privacy Policy](https://www.glispa.com/privacy-policy/)
-*   bRealTime (TAM) / EMX (EMX Digital LLC) – [Privacy Policy](http://www.brealtime.com/privacy-policy/)
-*   Chartboost, Inc. – [Privacy Policy](https://answers.chartboost.com/en-us/articles/200780269)
-*   District M (A9/TAM) – [Privacy Policy](https://www.districtm.net/platforms-data-privacy-policy/)
-*   EMX Digital, Inc. – [Privacy Policy](https://emxdigital.com/privacy/)
-*   Facebook, Inc. – [Privacy Policy](https://www.facebook.com/ads/manage/audience_network/publisher_tos/)
-*   Fyber N.V – [Privacy Policy](https://www.fyber.com/website-privacy-policy/)
-*   Greystripe / Conversant (Conversant LLC) – [Privacy Policy](https://www.conversantmedia.com/legal/privacy)
-*   Index Exchange, Inc. – [Privacy Policy](http://www.indexexchange.com/privacy/)
-*   Inmobi Pte Ltd – [Privacy Policy](https://www.inmobi.com/privacy-policy/)
-*   ironSource Mobile Ltd. – [Privacy Policy](https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/)
-*   Kiip, Inc. – [Privacy Policy](https://app.kiip.me/privacy)
-*   Liftoff Mobile, Inc. – [Privacy Policy](https://liftoff.io/privacy-policy/)
-*   LiveRamp – [Privacy Policy](https://liveramp.com/privacy/)
-*   LiveIntent – [Privacy Policy](https://www.liveintent.com/services-privacy-policy/)
-*   LoopMe Ltd. – [Privacy Policy](https://loopme.com/privacy/)
-*   Mobfox – [Privacy Policy](https://www.mobfox.com/privacy-policy/)
-*   MobileFuse, LLC – [Privacy Policy](https://mobilefuse.com/privacy-policy/)
-*   Mopub Inc. – [Privacy Policy](https://www.mopub.com/legal/privacy/)
-*   OpenX Software Ltd. – [Privacy Policy](https://www.openx.com/legal/privacy-policy/)
-*   Outbrain Inc. – [Privacy Policy](https://www.outbrain.com/legal/privacy#privacy-policy)
-*   PubMatic, Inc. – [Privacy Policy](https://pubmatic.com/legal/privacy-policy/)
-*   PubNative GmbH – [Privacy Policy](https://pubnative.net/privacy-policy/)
-*   Rubicon Project, Inc. – [Privacy Policy](https://rubiconproject.com/privacy-policy/)
-*   Sharethrough, Inc. – [Privacy Policy](https://platform-cdn.sharethrough.com/privacy-policy)
-*   Shop Style– [Privacy Policy](https://www.shopstyle.com/privacy)
-*   Smaato, Inc. – [Privacy Policy](https://www.smaato.com/privacy/)
-*   SmartFox – [Privacy Policy](https://www.smartfoxserver.com/privacy)
-*   Snap Inc. – [Privacy Policy](https://www.snap.com/en-US/privacy/privacy-policy)
-*   Sonobi, Inc. – [Privacy Policy](http://sonobi.com/privacy-policy/)
-*   Sovrn Holdings, Inc. – [Privacy Policy](https://www.sovrn.com/privacy-policy/)
-*   StartApp Inc. – [Privacy Policy](https://www.startapp.com/policy/privacy-policy/)
-*   Tapdaq Limited – [Privacy Policy](https://tapdaq.com/privacy-policy)
-*   TappX – [Privacy Policy](https://www.tappx.com/en/privacy-policy/)
-*   TripleLift, Inc. – [Privacy Policy](https://triplelift.com/privacy/)
-*   Unity Ads (Unity Technologies) – [Privacy Policy](https://unity3d.com/legal/privacy-policy)
-*   Unruly – [Privacy Policy](https://unruly.co/privacy/)
-*   Verve Wireless, Inc. – [Privacy Policy](https://www.verve.com/privacy-policy/)
-*   Verizon Media (Oath) – [Privacy Policy](https://www.verizonmedia.com/policies/us/en/verizonmedia/privacy/index.html)
-*   VigLink – [Privacy Policy](https://www.viglink.com/legal/privacy/)
-*   Vrtcal (VRTCAL Markets, Inc.) – [Privacy Policy](https://vrtcal.com/docs/PrivacyPolicy-Advertising.pdf)
-*   Vungle, Inc. – [Privacy Policy](https://vungle.com/privacy/)
-*   YieldMo – [Privacy Policy](https://www.yieldmo.com/privacy-policy/)
+* AdAdapted, Inc. – [Privacy Policy](https://info.adadapted.com/privacy-policy)
+* AdButler (SparkLIT Networks) – [Privacy Policy](https://www.adbutler.com/agreements.spark?agreement=privacy)
+* AdColony, Inc. – [Privacy Policy](https://www.adcolony.com/privacy-policy/)
+* Admob (Google LLC) – [Privacy Policy](https://support.google.com/admob/answer/48182)
+* Adview Technology – [Privacy Policy](https://www.adview.cn/web/overseas/policy/privacy)
+* Aerserv LLC – [Privacy Policy](https://www.aerserv.com/privacy-policy/)
+* Amazon Services International, Inc. – [Privacy Policy](https://developer.amazon.com/support/legal/mobileads/terms-and-agreements)
+* AppGeneration –Software Technologies, Lda – [Privacy Policy](http://www.appgeneration.com/privacy.html)
+* AppLovin Corporation – [Privacy Policy](https://www.applovin.com/privacy/)
+* Appnexus Inc. – [Privacy Policy](https://www.appnexus.com/platform-privacy-policy)
+* AppoDeal, Inc. – [Privacy Policy](https://www.appodeal.com/privacy-policy)
+* Avocarrot (Glispa GmbH) – [Privacy Policy](https://www.glispa.com/privacy-policy/)
+* bRealTime (TAM) / EMX (EMX Digital LLC) – [Privacy Policy](http://www.brealtime.com/privacy-policy/)
+* Chartboost, Inc. – [Privacy Policy](https://answers.chartboost.com/en-us/articles/200780269)
+* District M (A9/TAM) – [Privacy Policy](https://www.districtm.net/platforms-data-privacy-policy/)
+* EMX Digital, Inc. – [Privacy Policy](https://emxdigital.com/privacy/)
+* Facebook, Inc. – [Privacy Policy](https://www.facebook.com/ads/manage/audience_network/publisher_tos/)
+* Fyber N.V – [Privacy Policy](https://www.fyber.com/website-privacy-policy/)
+* Greystripe / Conversant (Conversant LLC) – [Privacy Policy](https://www.conversantmedia.com/legal/privacy)
+* Index Exchange, Inc. – [Privacy Policy](http://www.indexexchange.com/privacy/)
+* Inmobi Pte Ltd – [Privacy Policy](https://www.inmobi.com/privacy-policy/)
+* ironSource Mobile Ltd. – [Privacy Policy](https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/)
+* Kiip, Inc. – [Privacy Policy](https://app.kiip.me/privacy)
+* Liftoff Mobile, Inc. – [Privacy Policy](https://liftoff.io/privacy-policy/)
+* LiveRamp – [Privacy Policy](https://liveramp.com/privacy/)
+* LiveIntent – [Privacy Policy](https://www.liveintent.com/services-privacy-policy/)
+* LoopMe Ltd. – [Privacy Policy](https://loopme.com/privacy/)
+* Mobfox – [Privacy Policy](https://www.mobfox.com/privacy-policy/)
+* MobileFuse, LLC – [Privacy Policy](https://mobilefuse.com/privacy-policy/)
+* Mopub Inc. – [Privacy Policy](https://www.mopub.com/legal/privacy/)
+* OpenX Software Ltd. – [Privacy Policy](https://www.openx.com/legal/privacy-policy/)
+* Outbrain Inc. – [Privacy Policy](https://www.outbrain.com/legal/privacy#privacy-policy)
+* PubMatic, Inc. – [Privacy Policy](https://pubmatic.com/legal/privacy-policy/)
+* PubNative GmbH – [Privacy Policy](https://pubnative.net/privacy-policy/)
+* Rubicon Project, Inc. – [Privacy Policy](https://rubiconproject.com/privacy-policy/)
+* Sharethrough, Inc. – [Privacy Policy](https://platform-cdn.sharethrough.com/privacy-policy)
+* Shop Style– [Privacy Policy](https://www.shopstyle.com/privacy)
+* Smaato, Inc. – [Privacy Policy](https://www.smaato.com/privacy/)
+* SmartFox – [Privacy Policy](https://www.smartfoxserver.com/privacy)
+* Snap Inc. – [Privacy Policy](https://www.snap.com/en-US/privacy/privacy-policy)
+* Sonobi, Inc. – [Privacy Policy](http://sonobi.com/privacy-policy/)
+* Sovrn Holdings, Inc. – [Privacy Policy](https://www.sovrn.com/privacy-policy/)
+* StartApp Inc. – [Privacy Policy](https://www.startapp.com/policy/privacy-policy/)
+* Tapdaq Limited – [Privacy Policy](https://tapdaq.com/privacy-policy)
+* TappX – [Privacy Policy](https://www.tappx.com/en/privacy-policy/)
+* TripleLift, Inc. – [Privacy Policy](https://triplelift.com/privacy/)
+* Unity Ads (Unity Technologies) – [Privacy Policy](https://unity3d.com/legal/privacy-policy)
+* Unruly – [Privacy Policy](https://unruly.co/privacy/)
+* Verve Wireless, Inc. – [Privacy Policy](https://www.verve.com/privacy-policy/)
+* Verizon Media (Oath) – [Privacy Policy](https://www.verizonmedia.com/policies/us/en/verizonmedia/privacy/index.html)
+* VigLink – [Privacy Policy](https://www.viglink.com/legal/privacy/)
+* Vrtcal (VRTCAL Markets, Inc.) – [Privacy Policy](https://vrtcal.com/docs/PrivacyPolicy-Advertising.pdf)
+* Vungle, Inc. – [Privacy Policy](https://vungle.com/privacy/)
+* YieldMo – [Privacy Policy](https://www.yieldmo.com/privacy-policy/)
 
 This list may be updated at any time. Please check this Privacy Policy for the most current information.
 
@@ -251,19 +251,19 @@ Service providers with whom we share your Personal Information include:
 
 **Hosting & Cloud Services:**
 
-*   Amazon Web Services – [Privacy Policy](https://aws.amazon.com/privacy/)
-*   Rackspace Technology Global, Inc. – [Privacy Policy](https://www.rackspace.com/information/legal/privacystatement)
-*   Highwinds Network Group, Inc. – [Privacy Policy](https://www.stackpath.com/legal/privacy-statement/)
-*   Google (Firebase, Google Analytics, Google Cloud)
+* Amazon Web Services – [Privacy Policy](https://aws.amazon.com/privacy/)
+* Rackspace Technology Global, Inc. – [Privacy Policy](https://www.rackspace.com/information/legal/privacystatement)
+* Highwinds Network Group, Inc. – [Privacy Policy](https://www.stackpath.com/legal/privacy-statement/)
+* Google (Firebase, Google Analytics, Google Cloud)
 
 **Messaging & Email:**
 
-*   Sendgrid (Twilio) – [Privacy Policy](https://www.twilio.com/legal/privacy)
-*   Onesignal – [Privacy Policy](https://onesignal.com/privacy_policy)
+* Sendgrid (Twilio) – [Privacy Policy](https://www.twilio.com/legal/privacy)
+* Onesignal – [Privacy Policy](https://onesignal.com/privacy_policy)
 
 **Customer Support:**
 
-*   Zendesk, Inc – [Privacy Policy](https://www.zendesk.com/company/customers-partners/privacy-policy/)
+* Zendesk, Inc – [Privacy Policy](https://www.zendesk.com/company/customers-partners/privacy-policy/)
 
 **_Social Networking Sites_.**
 
@@ -293,9 +293,9 @@ We keep your Personal Information for no longer than necessary for the purposes 
 
 In accordance with We Heart It’s policies and procedures, all We Heart It users have certain rights regarding their Personal Information:
 
-*   the right to review, verify, correct, and request erasure of the Personal Information that we hold about them under certain circumstances.Please note that if you completely delete all such information, then your account may become deactivated.
-*   the right to limit, restrict, or object to the processing of your Personal Information under certain circumstances.
-*   the right to request that we transfer your Personal Information to another party to the extent provided for under applicable data privacy laws.
+* the right to review, verify, correct, and request erasure of the Personal Information that we hold about them under certain circumstances.Please note that if you completely delete all such information, then your account may become deactivated.
+* the right to limit, restrict, or object to the processing of your Personal Information under certain circumstances.
+* the right to request that we transfer your Personal Information to another party to the extent provided for under applicable data privacy laws.
 
 If you want to exercise one of the above rights, please contact us at **legal@weheartit.com** or write to We Heart It at Super Basic, LLC, 1510 Fashion Island Blvd, #300, San Mateo, CA 94404. To protect your privacy and security, we also will take reasonable steps to verify your identity before granting access, making corrections, or following such a request to correct or delete your data.
 
@@ -307,9 +307,9 @@ You may opt out of personal advertising in the We Heart It app in Settings on iO
 
 In addition, you can use your device settings to let us know that you wish to withdraw your consent to personalized advertising experience across all of your apps on that device.
 
-*   On iOS version 13 and earlier only, you may withdraw your consent by enabling the “Limit Ad Tracking” setting in your iOS settings.
-*   On iOS version 14 and later only, you may withdraw your consent by disabling the “Allow Apps to Request to Track” setting in your iOS settings.
-*   On Android devices, you may withdraw your consent in the Google Ads settings within your Android settings by toggling the “Opt out of Ads Personalization” switch on.
+* On iOS version 13 and earlier only, you may withdraw your consent by enabling the “Limit Ad Tracking” setting in your iOS settings.
+* On iOS version 14 and later only, you may withdraw your consent by disabling the “Allow Apps to Request to Track” setting in your iOS settings.
+* On Android devices, you may withdraw your consent in the Google Ads settings within your Android settings by toggling the “Opt out of Ads Personalization” switch on.
 
 **_Your California Privacy Rights_**
 
@@ -327,10 +327,10 @@ At this time, we do not respond to Do Not Track browser settings or signals. For
 
 Under the California Consumer Privacy Act of 2018 (“CCPA”), California residents have the right to request:
 
-*   the deletion of the Personal Information we have about them
-*   additional information about whether and how we have collected, used, disclosed, and sold Personal Information about them
-*   the specific pieces of Personal Information we have about them
-*   that we opt them out of the “sale” of their Personal Information (**“Right to Opt Out”**), which can be done at the below **“Do Not Sell My Personal Information”**[link](https://help.weheartit.com/hc/en-us/requests/new).
+* the deletion of the Personal Information we have about them
+* additional information about whether and how we have collected, used, disclosed, and sold Personal Information about them
+* the specific pieces of Personal Information we have about them
+* that we opt them out of the “sale” of their Personal Information (**“Right to Opt Out”**), which can be done at the below **“Do Not Sell My Personal Information”**[link](https://help.weheartit.com/hc/en-us/requests/new).
 
 California residents also have the right not to receive discriminatory treatment if they exercise the rights list above.
 
@@ -342,8 +342,8 @@ California law permits California residents to use an authorized agent to make p
 
 You may submit a California privacy rights request to us by:
 
-*   Completing [this form](https://help.weheartit.com/hc/en-us/requests/new), select the California Privacy Rights option
-*   Emailing us at **legal@weheartit.com**.
+* Completing [this form](https://help.weheartit.com/hc/en-us/requests/new), select the California Privacy Rights option
+* Emailing us at **legal@weheartit.com**.
 
 To exercise the Right to Opt Out, in addition to contacting us using the above information, you may use the following link:
 
@@ -373,9 +373,9 @@ Some of the recipients of Personal Information as specified above may be located
 
 If we do transfer Personal Information outside the U.S., we will make sure that it is protected in the same way as if it were being used in the U.S. We will use one of the following safeguards to ensure your information is protected:
 
-*   Transfer the data to a non-EEA country that has privacy laws at least as protective as those within the EEA, or
-*   Put in place a contract with the recipient of the data, which means the recipient must protect the data to the same standards as required within the EEA, or
-*   Transfer it to organizations that are part of the Privacy Shield. The Privacy Shield is a framework that sets out the standards for data to be sent between the United States and European countries. The Privacy Shield ensures that data are protected to the same standards as used within the EEA.
+* Transfer the data to a non-EEA country that has privacy laws at least as protective as those within the EEA, or
+* Put in place a contract with the recipient of the data, which means the recipient must protect the data to the same standards as required within the EEA, or
+* Transfer it to organizations that are part of the Privacy Shield. The Privacy Shield is a framework that sets out the standards for data to be sent between the United States and European countries. The Privacy Shield ensures that data are protected to the same standards as used within the EEA.
 
 **_Consent to Electronic Notice If There is a Security Breach._**
 
