@@ -16,15 +16,15 @@ This Policy explains who we are, why and how we process personal data collected 
 
 When you supply any personal data to us, we have legal obligations towards you in the way we use that data. For ease of reading, we have divided this Policy into several sections:
 
-1.  [Introduction](#introduction)
-2.  [What information can we collect?](#wiwcc)
-3.  [How is your personal information collected?](#hiypic)
-4.  [How and why do we use and share your personal information?](#hawdwuasypi)
-5.  [For how long do we keep your personal information?](#fhldwkypd)
-6.  [Security](#security)
-7.  [International Data Transfers](#idt)
-8.  [Your Rights](#yourrights)
-9.  [Contact Details](#contactdetails)
+1. [Introduction](#introduction)
+2. [What information can we collect?](#wiwcc)
+3. [How is your personal information collected?](#hiypic)
+4. [How and why do we use and share your personal information?](#hawdwuasypi)
+5. [For how long do we keep your personal information?](#fhldwkypd)
+6. [Security](#security)
+7. [International Data Transfers](#idt)
+8. [Your Rights](#yourrights)
+9. [Contact Details](#contactdetails)
 
 It is important that you read this Policy together with any other privacy notice or fair processing notices that we may provide on the Website at or around the time that we collect or process personal data about you (for example, fair processing notices that we may display to you at the time that you sign up to receive e-mail updates from us) so that you are fully aware of how and why we are using that data.
 
@@ -48,16 +48,16 @@ By law all organisations who process your personal data in the United Kingdom ar
 
 The personal data we collect from you depends on precisely what details you volunteer to us as you interact with the Website but may include:
 
-*   **Identity Data** which includes your name, date of birth and gender.
-*   **Contact Data** which includes your e-mail address, phone number, billing address and delivery address.
-*   **Device Data** which includes data about the device(s) on which you visit the Website, such as your mobile operating system, any unique ID assigned to that device, and technical information about the type of device you are using.
-*   **Financial Data** which, where you provide them, includes your bank account and payment card details.
-*   **Transaction Data** which includes details about payments that you have made and details about the products or services that those transactions relate to.
-*   **Technical Data** which includes, Device Data, your IP address, your login data, time zone setting and location, operating system and browser type and version (i.e. that enables us to provide electronic services to you across the internet and/or Wi-Fi networks).
-*   **Profile Data** which includes your username and password, your interests, preferences, feedback and survey responses including any personal data contained in content that you upload to the Website.
-*   **Location Data** which includes data about where you access the Website from.
-*   **Usage Data** which includes information about how you use and engage with the Website.
-*   **Marketing and Communications Data** which includes your preferences in receiving marketing from us (i.e. whether you have subscribed to receive any marketing communications from us and our third parties) including information about the kind of adverts, stories or products that we believe you are most likely to be interested in.
+* **Identity Data** which includes your name, date of birth and gender.
+* **Contact Data** which includes your e-mail address, phone number, billing address and delivery address.
+* **Device Data** which includes data about the device(s) on which you visit the Website, such as your mobile operating system, any unique ID assigned to that device, and technical information about the type of device you are using.
+* **Financial Data** which, where you provide them, includes your bank account and payment card details.
+* **Transaction Data** which includes details about payments that you have made and details about the products or services that those transactions relate to.
+* **Technical Data** which includes, Device Data, your IP address, your login data, time zone setting and location, operating system and browser type and version (i.e. that enables us to provide electronic services to you across the internet and/or Wi-Fi networks).
+* **Profile Data** which includes your username and password, your interests, preferences, feedback and survey responses including any personal data contained in content that you upload to the Website.
+* **Location Data** which includes data about where you access the Website from.
+* **Usage Data** which includes information about how you use and engage with the Website.
+* **Marketing and Communications Data** which includes your preferences in receiving marketing from us (i.e. whether you have subscribed to receive any marketing communications from us and our third parties) including information about the kind of adverts, stories or products that we believe you are most likely to be interested in.
 
 Certain types of personal data are categorised as sensitive and need more protection. For example: information about your race or ethnic origins, political opinions, sex life or sexual orientation, religious beliefs, health information, biometric and genetic data. There are also special rules about the use of criminal information (information about criminal convictions or allegations about criminal convictions). Collectively 'special category personal data'.
 
@@ -83,16 +83,16 @@ Please always remember that most things posted on the Website are publicly viewa
 
 We will also collect personal data about you and various information about the technology you use through the use of technologies such as cookies and server logs when you visit and interact with the Website. The following are examples of information we may collect:
 
-*   information about your device, browser or operating system;
-*   your IP address;
-*   information about links that you click and pages, content or products you view on the Website;
-*   length of visits to certain pages, content or products;
-*   subjects you viewed or searched for;
-*   page response times;
-*   records of download errors and/or broken links;
-*   page interaction information (such as details of your scrolling, clicks, and mouse-overs);
-*   methods used to browse away from a page; and
-*   the full Uniform Resource Locators (URL) clickstream to, through and from the Website (including date and time).
+* information about your device, browser or operating system;
+* your IP address;
+* information about links that you click and pages, content or products you view on the Website;
+* length of visits to certain pages, content or products;
+* subjects you viewed or searched for;
+* page response times;
+* records of download errors and/or broken links;
+* page interaction information (such as details of your scrolling, clicks, and mouse-overs);
+* methods used to browse away from a page; and
+* the full Uniform Resource Locators (URL) clickstream to, through and from the Website (including date and time).
 
 We use the data described above for several different reasons. Firstly, we use it to ensure that the Website works properly, it is secure and that you are able to receive the full benefit of it. Second, we use the data to monitor online traffic and user participation across the Website which helps us to improve the Website's functionality, optimise the ways that it operates, and to focus our time and creativity on the features or products which users prefer. We undertake both of these activities because we have a legitimate interest in doing so.
 
@@ -112,10 +112,10 @@ If you want to update the information you have previously given to us, you can c
 
 We will only use your personal data when the law allows us to. Most commonly we will use your personal data in the following circumstances:
 
-*   Where you have asked us to do so, or consented to us doing so;
-*   Where we need to do so in order to perform a contract we have entered into with you;
-*   Where it is necessary for our legitimate interests (or those of a third party) and your fundamental rights do not override those interests; and
-*   Where we need to comply with a legal or regulatory obligation.
+* Where you have asked us to do so, or consented to us doing so;
+* Where we need to do so in order to perform a contract we have entered into with you;
+* Where it is necessary for our legitimate interests (or those of a third party) and your fundamental rights do not override those interests; and
+* Where we need to comply with a legal or regulatory obligation.
 
 Here are some examples about how we may use the information we collect about you and the lawful basis we rely on to do so.
 
@@ -159,12 +159,12 @@ We may retain your e-mail address, or other contact details, on file should you 
 
 Depending on how and why you provide us with your personal data we may share it in the following ways:
 
-*   with any member of our company group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006;
-*   with selected official bodies to prevent and detect fraud or credit risks such as: central and local government bodies, HM Revenue & Customs, regulators and other tax authorities, law enforcement agencies, and fraud protection agencies;
-*   with selected third parties who we sub-contract to provide various services and/or aspects of the Website's functionality, such as where we use third parties to host and/or store data for us or use other IT systems supplied by third parties (see 'Service Providers' below);
-*   with analytics and search engine providers that assist us in the improvement and optimisation of this Website as described above;
-*   with selected third parties whose content you have viewed and/or engaged with including any content or channels that you have subscribed to; and
-*   with selected third parties who we contract with to provide professional services such as our insurers, accountants, auditors and lawyers.
+* with any member of our company group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006;
+* with selected official bodies to prevent and detect fraud or credit risks such as: central and local government bodies, HM Revenue & Customs, regulators and other tax authorities, law enforcement agencies, and fraud protection agencies;
+* with selected third parties who we sub-contract to provide various services and/or aspects of the Website's functionality, such as where we use third parties to host and/or store data for us or use other IT systems supplied by third parties (see 'Service Providers' below);
+* with analytics and search engine providers that assist us in the improvement and optimisation of this Website as described above;
+* with selected third parties whose content you have viewed and/or engaged with including any content or channels that you have subscribed to; and
+* with selected third parties who we contract with to provide professional services such as our insurers, accountants, auditors and lawyers.
 
 We will not share your personal data with third parties in order for that third party to provide direct marketing communications to you, unless it relates to a specific activity which we are undertaking with a third party (e.g. if you are watching / have watched a sponsored webinar, or are downloading / have downloaded a sponsored whitepaper) and you have provided your consent for that use. Such activity may have its own terms and conditions relating to the way in which your personal data may be used, which you will be notified of at the relevant time.
 
@@ -172,10 +172,10 @@ We reserve the right to publish correspondence sent to us. If you ask not to hav
 
 We may also disclose your personal data to third parties in the following events:
 
-*   if we were to sell or buy any business or assets, in which case we might disclose your personal data to the prospective seller or buyer of such business or assets as part of that sale;
-*   if we, or substantially all of our assets, are acquired by or are transferred to a third party, in which case personal data held by us about our customers will be one of the transferred assets;
-*   if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or if we are compelled to provide your details to a lawful authority in order to aid in the investigation of crime or disorder; and/or
-*   in order to enforce or apply the Website's terms and conditions; or to protect the rights, property, or safety of our company, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+* if we were to sell or buy any business or assets, in which case we might disclose your personal data to the prospective seller or buyer of such business or assets as part of that sale;
+* if we, or substantially all of our assets, are acquired by or are transferred to a third party, in which case personal data held by us about our customers will be one of the transferred assets;
+* if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or if we are compelled to provide your details to a lawful authority in order to aid in the investigation of crime or disorder; and/or
+* in order to enforce or apply the Website's terms and conditions; or to protect the rights, property, or safety of our company, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 **Service Providers**
 
@@ -215,8 +215,8 @@ We endeavour to minimise the number of international data transfers which take p
 
 Where we transfer your data to a service provider that is outside of the UK or EEA we seek to ensure that appropriate safeguards are in place to make sure that your personal data is held securely and that your rights as a data subject are upheld. Transfers of personal data are either made:
 
-*   to a country recognised by the European Commission as providing an adequate level of protection; or
-*   to a country which does not offer adequate protection but whose transfer has been governed by the standard contractual clauses of the European Commission or by implementing other appropriate cross-border transfer solutions to provide adequate protection.
+* to a country recognised by the European Commission as providing an adequate level of protection; or
+* to a country which does not offer adequate protection but whose transfer has been governed by the standard contractual clauses of the European Commission or by implementing other appropriate cross-border transfer solutions to provide adequate protection.
 
 By submitting your personal data, you agree to this transfer, storing or processing. If you would like more information about the mechanism via which your personal data is transferred, please contact [readerservices@situationpublishing.com](mailto:readerservices@situationpublishing.com).
 
