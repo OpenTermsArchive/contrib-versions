@@ -8,7 +8,7 @@ The Gist
 
 We (the [folks at Automattic](https://automattic.com/about/)) are on a mission to make the web a better place. We hope you love our products and services — from website publishing tools to ecommerce solutions to security backup systems to management tools for distributed companies to the next great idea that we haven’t even thought of yet — as much as we love creating them.
 
-These Terms of Service (“Terms”) describe our commitments to you, and your rights and responsibilities when using our services. Please read them carefully and reach out to us if you have any questions. **If you don’t agree to these Terms, don’t use our services.**
+These Terms of Service (“Terms”) describe our commitments to you, and your rights and responsibilities when using our services. Please read them carefully and reach out to us if you have any questions. **If you don’t agree to these Terms, don’t use our services.**
 
 If you are a user in countries located in the European Economic Area, Switzerland, or the United Kingdom (“European User”), some special terms apply to you as mentioned below.
 
@@ -34,15 +34,15 @@ Please see below to determine which entity your Agreement is with, which depends
 
 **All Automattic Services (except WooCommerce)**
 
-*   If you reside outside of the Designated Countries: Automattic Inc.
-*   If you reside in the Designated Countries: Aut O’Mattic A8C Ireland Ltd.
+* If you reside outside of the Designated Countries: Automattic Inc.
+* If you reside in the Designated Countries: Aut O’Mattic A8C Ireland Ltd.
 
 **WooCommerce Services**
 
 _WooCommerce Services includes WooCommerce, WooCommerce Payments, WooCommerce Shipping, MailPoet, and any products or services purchased from WooCommerce.com._
 
-*   If you reside outside of the Designated Countries: WooCommerce, Inc.
-*   If you reside in the Designated Countries: WooCommerce Ireland Ltd.
+* If you reside outside of the Designated Countries: WooCommerce, Inc.
+* If you reside in the Designated Countries: WooCommerce Ireland Ltd.
 
 We refer to Automattic Inc., Aut O’Mattic A8C Ireland Ltd., WooCommerce, Inc., and WooCommerce Ireland Ltd. collectively as “Automattic,” “us,” or “we” throughout these Terms.
 
@@ -71,13 +71,13 @@ Our Services are not directed to children. You’re not allowed to access or use
 
 We haven’t reviewed, and can’t review, all of the content (like text, photo, video, audio, code, computer software, items for sale, and other materials) posted to or made available through our Services by users or anyone else (“Content”) or on websites that link to, or are linked from, our Services. We’re not responsible for any use or effects of Content or third-party websites. So, for example:
 
-*   We don’t have any control over third-party websites.
-*   A link to or from one of our Services does not represent or imply that we endorse any third-party website.
-*   We don’t endorse any Content or represent that Content is accurate, useful, or not harmful. Content could be offensive, indecent, or objectionable; include technical inaccuracies, typographical mistakes, or other errors; or violate or infringe the privacy, publicity rights, intellectual property rights, or other proprietary rights of third parties.
-*   You’re fully responsible for the Content available on your website, and any harm resulting from that Content. It’s your responsibility to ensure that your website’s Content abides by applicable laws and by the Agreement.
-*   We aren’t responsible for any harm resulting from anyone’s access, use, purchase, or downloading of Content, or for any harm resulting from third-party websites. You’re responsible for taking the necessary precautions to protect yourself and your computer systems from viruses, worms, Trojan horses, and other harmful or destructive content.
-*   Any Content that’s for sale through any of our Services is the seller’s sole responsibility, so you must look solely to the seller for any damages that result from your purchase or use of Content.
-*   We are not a party to, and will have no responsibility or liability for, any communications, transactions, interactions, or disputes between you and the provider of any Content.
+* We don’t have any control over third-party websites.
+* A link to or from one of our Services does not represent or imply that we endorse any third-party website.
+* We don’t endorse any Content or represent that Content is accurate, useful, or not harmful. Content could be offensive, indecent, or objectionable; include technical inaccuracies, typographical mistakes, or other errors; or violate or infringe the privacy, publicity rights, intellectual property rights, or other proprietary rights of third parties.
+* You’re fully responsible for the Content available on your website, and any harm resulting from that Content. It’s your responsibility to ensure that your website’s Content abides by applicable laws and by the Agreement.
+* We aren’t responsible for any harm resulting from anyone’s access, use, purchase, or downloading of Content, or for any harm resulting from third-party websites. You’re responsible for taking the necessary precautions to protect yourself and your computer systems from viruses, worms, Trojan horses, and other harmful or destructive content.
+* Any Content that’s for sale through any of our Services is the seller’s sole responsibility, so you must look solely to the seller for any damages that result from your purchase or use of Content.
+* We are not a party to, and will have no responsibility or liability for, any communications, transactions, interactions, or disputes between you and the provider of any Content.
 
 Please note that additional third-party terms and conditions may apply to Content you download, copy, purchase, or use.
 
@@ -130,17 +130,17 @@ We love hearing from you and are always looking to improve our Services. When yo
 
 Our mission is to make the web a better place, and our Services are designed to give you control and ownership over your websites. We encourage you to express yourself freely, subject to a few requirements. In particular, you represent and warrant that your use of our Services:
 
-*   Will be in strict accordance with the Agreement;
-*   Will comply with all applicable laws and regulations (including, without limitation, all applicable laws regarding online conduct and acceptable content, privacy, data protection, the transmission of technical data exported from the United States or the country in which you reside, the use or provision of financial services, notification and consumer protection, unfair competition, and false advertising);
-*   Will not be for any unlawful purposes, to publish illegal content, or in furtherance of illegal activities;
-*   Will not infringe or misappropriate the intellectual property rights of Automattic or any third party;
-*   Will not overburden or interfere with our systems or impose an unreasonable or disproportionately large load on our infrastructure, as determined by us in our sole discretion;
-*   Will not disclose the personal information of others;
-*   Will not be used to send spam or bulk unsolicited messages;
-*   Will not interfere with, disrupt, or attack any service or network;
-*   Will not be used to create, distribute, or enable material that is, facilitates, or operates in conjunction with, malware, spyware, adware, or other malicious programs or code;
-*   Will not involve reverse engineering, decompiling, disassembling, deciphering, or otherwise attempting to derive the source code for the Services or any related technology that is not open source; and
-*   Will not involve renting, leasing, loaning, selling, or reselling the Services or related data without our consent.
+* Will be in strict accordance with the Agreement;
+* Will comply with all applicable laws and regulations (including, without limitation, all applicable laws regarding online conduct and acceptable content, privacy, data protection, the transmission of technical data exported from the United States or the country in which you reside, the use or provision of financial services, notification and consumer protection, unfair competition, and false advertising);
+* Will not be for any unlawful purposes, to publish illegal content, or in furtherance of illegal activities;
+* Will not infringe or misappropriate the intellectual property rights of Automattic or any third party;
+* Will not overburden or interfere with our systems or impose an unreasonable or disproportionately large load on our infrastructure, as determined by us in our sole discretion;
+* Will not disclose the personal information of others;
+* Will not be used to send spam or bulk unsolicited messages;
+* Will not interfere with, disrupt, or attack any service or network;
+* Will not be used to create, distribute, or enable material that is, facilitates, or operates in conjunction with, malware, spyware, adware, or other malicious programs or code;
+* Will not involve reverse engineering, decompiling, disassembling, deciphering, or otherwise attempting to derive the source code for the Services or any related technology that is not open source; and
+* Will not involve renting, leasing, loaning, selling, or reselling the Services or related data without our consent.
 
 8\. Specific Service Terms
 --------------------------
@@ -239,25 +239,25 @@ If you use Ecommerce Services, the terms in this subsection apply, along with th
 
 **Your responsibilities.** You have control over your store, and with great power comes great responsibility. We’re not involved in your relationships or transactions with any customer or potential customer, and you’re solely responsible for all of your ecommerce activities. Among other things, this means that you:
 
-*   may only use Ecommerce Services for legitimate transactions with your customers.
-*   must comply with all applicable laws (such as those relating to automatic renewal or providing consumer disclosures) and agree not to engage in unfair, deceptive, or abusive acts or practices.
-*   are responsible for all products and services you provide, including delivery, support, refunds, returns, providing any appropriate warnings, and ensuring all information you provide is accurate, complete, and current.
-*   must accurately communicate product and transaction details, set expectations appropriately, and fulfill all commitments you’ve made.
-*   are responsible for payment of all applicable Taxes relating to your ecommerce activities and your use of Ecommerce Services. You must collect, report, and/or pay the correct amounts to the appropriate authorities if applicable, and if needed, tell your customers about any Taxes they may be required to pay and issue appropriate invoices.
-*   are responsible for acquiring appropriate consent to process customer transactions, giving customers confirmation or receipts for each charge, verifying customers’ identities, and determining a customer’s eligibility and authority to complete transactions.
-*   must provide contact information so customers can contact you with questions or complaints.
-*   must maintain fair and legally compliant return, refund, cancellation, and adjustment policies and clearly explain how customers can request a refund.
-*   are responsible for all questions, complaints, disputes (including chargebacks), refunds, reversals, or fines that arise from your use of Ecommerce Services.
-*   are responsible for investigating any transaction you believe may be erroneous, suspicious, or prohibited by law, or otherwise pose unacceptable compliance risks to us or you and, if appropriate, obtaining adequate information and assurances from your customer before fulfilling or completing the transaction.
-*   are solely responsible for ensuring that your transactions with customers comply with applicable export, import, and sanctions laws and regulations, including obtaining any required licenses or other authorizations or making required filings.
-*   must comply with Payment Card Industry Data Security Standard (PCI DSS) if applicable to you.
-*   must promptly notify us via [email](mailto:legal@wordpress.com) if you receive any inquiry or action from a government or regulatory agency (such as the Federal Trade Commission or a state Attorney General) that’s related to your use of Ecommerce Services.
+* may only use Ecommerce Services for legitimate transactions with your customers.
+* must comply with all applicable laws (such as those relating to automatic renewal or providing consumer disclosures) and agree not to engage in unfair, deceptive, or abusive acts or practices.
+* are responsible for all products and services you provide, including delivery, support, refunds, returns, providing any appropriate warnings, and ensuring all information you provide is accurate, complete, and current.
+* must accurately communicate product and transaction details, set expectations appropriately, and fulfill all commitments you’ve made.
+* are responsible for payment of all applicable Taxes relating to your ecommerce activities and your use of Ecommerce Services. You must collect, report, and/or pay the correct amounts to the appropriate authorities if applicable, and if needed, tell your customers about any Taxes they may be required to pay and issue appropriate invoices.
+* are responsible for acquiring appropriate consent to process customer transactions, giving customers confirmation or receipts for each charge, verifying customers’ identities, and determining a customer’s eligibility and authority to complete transactions.
+* must provide contact information so customers can contact you with questions or complaints.
+* must maintain fair and legally compliant return, refund, cancellation, and adjustment policies and clearly explain how customers can request a refund.
+* are responsible for all questions, complaints, disputes (including chargebacks), refunds, reversals, or fines that arise from your use of Ecommerce Services.
+* are responsible for investigating any transaction you believe may be erroneous, suspicious, or prohibited by law, or otherwise pose unacceptable compliance risks to us or you and, if appropriate, obtaining adequate information and assurances from your customer before fulfilling or completing the transaction.
+* are solely responsible for ensuring that your transactions with customers comply with applicable export, import, and sanctions laws and regulations, including obtaining any required licenses or other authorizations or making required filings.
+* must comply with Payment Card Industry Data Security Standard (PCI DSS) if applicable to you.
+* must promptly notify us via [email](mailto:legal@wordpress.com) if you receive any inquiry or action from a government or regulatory agency (such as the Federal Trade Commission or a state Attorney General) that’s related to your use of Ecommerce Services.
 
 **Prohibited Uses.** You may not use Ecommerce Services for any unlawful purposes; in furtherance of illegal activities; or in a manner that is unfair, deceptive, exposes us or customers to unreasonable risks, or does not disclose important terms of a transaction in advance. Among other things, this means that:
 
-*   Ecommerce Services cannot be used in, from, by, or for the benefit of a country, organization, entity, or person embargoed or blocked by any government, including those on [sanctions lists identified by the United States Office of Foreign Asset Control (OFAC)](https://www.treasury.gov/resource-center/sanctions).
-*   If you’re using Ecommerce Services, you must observe all [Store Guidelines](https://en.support.wordpress.com/store-guidelines/) and, if hosted on WordPress.com, the [User Guidelines](https://en.support.wordpress.com/user-guidelines/) as well.
-*   If you’re using Ecommerce Services to sell CBD and other hemp-derived products via WooCommerce, you must follow the [WooCommerce Guidelines for CBD and Other Hemp-Derived Products](https://docs.woocommerce.com/document/woocommerce-cbd/).
+* Ecommerce Services cannot be used in, from, by, or for the benefit of a country, organization, entity, or person embargoed or blocked by any government, including those on [sanctions lists identified by the United States Office of Foreign Asset Control (OFAC)](https://www.treasury.gov/resource-center/sanctions).
+* If you’re using Ecommerce Services, you must observe all [Store Guidelines](https://en.support.wordpress.com/store-guidelines/) and, if hosted on WordPress.com, the [User Guidelines](https://en.support.wordpress.com/user-guidelines/) as well.
+* If you’re using Ecommerce Services to sell CBD and other hemp-derived products via WooCommerce, you must follow the [WooCommerce Guidelines for CBD and Other Hemp-Derived Products](https://docs.woocommerce.com/document/woocommerce-cbd/).
 
 We may terminate your access to our Services or force refunds (where possible) to your subscribers and customers without notice to you if we determine (in our sole discretion) that your use violates the Agreement, or if a payment processor or regulatory authority requires it.
 
@@ -295,8 +295,8 @@ Unless a refund is required by law, there are no refunds for POS terminals and a
 
 You’re solely responsible for compliance with all applicable rules and regulations, including domestic and international shipping and customs regulations and any regulations imposed by the mailing service(s) you use. For example:
 
-*   If you use USPS postage, you need to comply with their [shipping restrictions](https://www.usps.com/ship/shipping-restrictions.htm) and [mailing standards](http://pe.usps.com/text/dmm300/dmm300_landing.htm), among others.
-*   When using DHL’s services, you are responsible for compliance with all applicable [DHL rules and terms](http://www.dhl-usa.com/), such as the DHL Express Terms and Conditions of Carriage.
+* If you use USPS postage, you need to comply with their [shipping restrictions](https://www.usps.com/ship/shipping-restrictions.htm) and [mailing standards](http://pe.usps.com/text/dmm300/dmm300_landing.htm), among others.
+* When using DHL’s services, you are responsible for compliance with all applicable [DHL rules and terms](http://www.dhl-usa.com/), such as the DHL Express Terms and Conditions of Carriage.
 
 In addition, you’re solely responsible for customs charges, import taxes or duties, and any other charges related to your shipments. If we incur any charges as a result of your use of the shipping services, you agree to reimburse us for the full amount within 7 days.
 
@@ -323,11 +323,11 @@ While using the Services, you may enable, use, or purchase services, products, s
 
 If you use any Third-Party Services, you understand that:
 
-*   Third-Party Services aren’t vetted, endorsed, or controlled by Automattic.
-*   Any use of a Third-Party Service is at your own risk, and we won’t be responsible or liable to anyone for Third-Party Services.
-*   Your use is solely between you and the respective third party (“Third Party”) and is governed by the Third Party’s terms and policies.
-*   Some Third-Party Services may request or require access to your data — or to your visitors’ or customers’ data — through things like pixels or cookies. If you use the Third-Party Service or grant them access, the data will be handled in accordance with the Third Party’s privacy policy and practices, which you should carefully review before you use any Third-Party Services. Third-Party Services may not work appropriately with our Services and we may not be able to provide support for issues caused by any Third-Party Services.
-*   If you have questions or concerns about how a Third-Party Service operates or need support, contact the Third Party directly.
+* Third-Party Services aren’t vetted, endorsed, or controlled by Automattic.
+* Any use of a Third-Party Service is at your own risk, and we won’t be responsible or liable to anyone for Third-Party Services.
+* Your use is solely between you and the respective third party (“Third Party”) and is governed by the Third Party’s terms and policies.
+* Some Third-Party Services may request or require access to your data — or to your visitors’ or customers’ data — through things like pixels or cookies. If you use the Third-Party Service or grant them access, the data will be handled in accordance with the Third Party’s privacy policy and practices, which you should carefully review before you use any Third-Party Services. Third-Party Services may not work appropriately with our Services and we may not be able to provide support for issues caused by any Third-Party Services.
+* If you have questions or concerns about how a Third-Party Service operates or need support, contact the Third Party directly.
 
 In rare cases we may at our discretion, suspend, disable, or remove Third-Party Services from your account or website.
 
