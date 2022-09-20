@@ -117,14 +117,14 @@ When you are asked to provide personal data, you may decline. And you may use we
 
 We may use your information to provide, administer, analyze, manage, and operate our Service. For example, we use your information for the following purposes:
 
-*   Provide our products and deliver our services including troubleshooting, improving, and personalizing the features on the Service.
-*   Business operations such as billing, accounting, improving our internal operations, securing our systems, detecting fraudulent or illegal activity, and meeting our legal obligations.
-*   Improve and develop our products and services including to develop new services or features, and conduct research.
-*   Personalization of our Service by understanding you and your preferences to enhance your experience and enjoyment using our Service.
-*   Provide customer support and respond to your questions.
-*   Deliver promotional communications with you about new services, features, offers, promotions, and other information about our Service.
-*   Personalize and measure the effectiveness of enterprise business ads, promotional communications or marketing you receive related to the Enterprise Marketing Pages.
-*   Send you information, including confirmations, invoices, technical notices, updates, security alerts, support and administrative messages.
+* Provide our products and deliver our services including troubleshooting, improving, and personalizing the features on the Service.
+* Business operations such as billing, accounting, improving our internal operations, securing our systems, detecting fraudulent or illegal activity, and meeting our legal obligations.
+* Improve and develop our products and services including to develop new services or features, and conduct research.
+* Personalization of our Service by understanding you and your preferences to enhance your experience and enjoyment using our Service.
+* Provide customer support and respond to your questions.
+* Deliver promotional communications with you about new services, features, offers, promotions, and other information about our Service.
+* Personalize and measure the effectiveness of enterprise business ads, promotional communications or marketing you receive related to the Enterprise Marketing Pages.
+* Send you information, including confirmations, invoices, technical notices, updates, security alerts, support and administrative messages.
 
 We combine data we collect from different sources for these purposes and to give you a more seamless, consistent, and personalized experience.
 
@@ -161,9 +161,9 @@ We enable access to personal data across our subsidiaries, affiliates, and relat
 
 We will disclose personal data if we believe it is necessary to:
 
-*   protect our customers and others, for example to prevent spam or attempts to commit fraud, or to help prevent the loss of life or serious injury of anyone;
-*   operate and maintain the security of the Service, including to prevent or stop an attack on our systems or networks; or
-*   protect the rights or property or ourselves or others, including enforcing our agreements, terms, and policies.
+* protect our customers and others, for example to prevent spam or attempts to commit fraud, or to help prevent the loss of life or serious injury of anyone;
+* operate and maintain the security of the Service, including to prevent or stop an attack on our systems or networks; or
+* protect the rights or property or ourselves or others, including enforcing our agreements, terms, and policies.
 
 ### [](#for-legal-disclosure)For legal disclosure
 
@@ -264,24 +264,24 @@ The table below provides additional information about how we use different types
 
 You have several options to disable non-essential cookies:
 
-1.  **Specifically on GitHub Enterprise Marketing Pages**
+1. **Specifically on GitHub Enterprise Marketing Pages**
     
     Any GitHub page that serves non-essential cookies will have a link in the page’s footer to cookie settings. You can express your preferences at any time by clicking on that linking and updating your settings.
     
     Some users will also be able to manage non-essential cookies via a cookie consent banner, including the options to accept, manage, and reject all non-essential cookies.
     
-2.  **Generally for all websites**
+2. **Generally for all websites**
     
     You can control the cookies you encounter on the web using a variety of widely-available tools. For example:
     
-    *   If your browser sends a [Do Not Track](https://en.wikipedia.org/wiki/Do_Not_Track) (DNT) signal, GitHub will not set non-essential cookies and will not load third party resources which set non-essential cookies.
-    *   Many browsers provide cookie controls which may limit the types of cookies you encounter online. Check out the documentation for your browser to learn more.
-    *   If you enable a browser extension designed to block tracking, such as [Privacy Badger](https://en.wikipedia.org/wiki/Privacy_Badger), non-essential cookies set by a website or third parties may be disabled.
-    *   If you enable a browser extension designed to block unwanted content, such as [uBlock Origin](https://en.wikipedia.org/wiki/UBlock_Origin), non-essential cookies will be disabled to the extent that content that sets non-essential cookies will be blocked.
-    *   Advertising controls. Our advertising partners may participate in associations that provide simple ways to opt out of ad targeting, which you can access at:
-        *   United States: [NAI](http://optout.networkadvertising.org/) and [DAA](http://optout.aboutads.info/)
-        *   Canada: [Digital Advertising Alliance of Canada](https://youradchoices.ca/)
-        *   Europe: [European Digital Advertising Alliance](http://www.youronlinechoices.com/)
+    * If your browser sends a [Do Not Track](https://en.wikipedia.org/wiki/Do_Not_Track) (DNT) signal, GitHub will not set non-essential cookies and will not load third party resources which set non-essential cookies.
+    * Many browsers provide cookie controls which may limit the types of cookies you encounter online. Check out the documentation for your browser to learn more.
+    * If you enable a browser extension designed to block tracking, such as [Privacy Badger](https://en.wikipedia.org/wiki/Privacy_Badger), non-essential cookies set by a website or third parties may be disabled.
+    * If you enable a browser extension designed to block unwanted content, such as [uBlock Origin](https://en.wikipedia.org/wiki/UBlock_Origin), non-essential cookies will be disabled to the extent that content that sets non-essential cookies will be blocked.
+    * Advertising controls. Our advertising partners may participate in associations that provide simple ways to opt out of ad targeting, which you can access at:
+        * United States: [NAI](http://optout.networkadvertising.org/) and [DAA](http://optout.aboutads.info/)
+        * Canada: [Digital Advertising Alliance of Canada](https://youradchoices.ca/)
+        * Europe: [European Digital Advertising Alliance](http://www.youronlinechoices.com/)
     
     These choices are specific to the browser you are using. If you access our Services from other devices or browsers, take these actions from those systems to ensure your choices apply to the data collected when you use those systems.
     
@@ -298,12 +298,12 @@ GitHub takes reasonable measures necessary to protect your personal data from un
 
 In addition, if your account has private repositories, you control the access to that Content. GitHub personnel does not access private repository content except for
 
-*   security purposes,
-*   automated scanning for known vulnerabilities, active malware, or other content known to violate our Terms of Service
-*   to assist the repository owner with a support matter
-*   to maintain the integrity of the Service
-*   to comply with our legal obligations if we have reason to believe the contents are in violation of the law,
-*   or with your consent.
+* security purposes,
+* automated scanning for known vulnerabilities, active malware, or other content known to violate our Terms of Service
+* to assist the repository owner with a support matter
+* to maintain the integrity of the Service
+* to comply with our legal obligations if we have reason to believe the contents are in violation of the law,
+* or with your consent.
 
 Github will provide notice regarding private repository access where not prohibited by law or if in response to a security threat or other risk to security.
 
