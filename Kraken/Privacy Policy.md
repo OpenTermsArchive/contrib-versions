@@ -1,6 +1,6 @@
 _Last Updated: Jul 15, 2022_
 
-1.  Introduction
+1. Introduction
     ------------
     
     As part of our daily business operations, we collect personal information from our clients and prospective clients in order to provide them with our products and services, and ensure that we can meet their needs when providing these products and services, as well as when providing them with any respective information.
@@ -15,7 +15,7 @@ _Last Updated: Jul 15, 2022_
     
     We may amend this Privacy Notice at any time by posting the amended version on this site including the effective date of the amended version. We will announce any material changes to this Privacy Notice on our website.
     
-2.  Definitions
+2. Definitions
     -----------
     
     2.1 As used herein, the following terms are defined as follows:
@@ -30,30 +30,30 @@ _Last Updated: Jul 15, 2022_
     
     2.1.5 “Personal Information” or “Personal Data” or “your data” refers to any information relating to you, as an identified or identifiable natural person, including your name, an identification number, location data, or an online identifier or to one or more factors specific to the physical, economic, cultural or social identity of you as a natural person.
     
-3.  Your Data Controller
+3. Your Data Controller
     --------------------
     
     Our products and services are provided through local operating entities that are subsidiaries of Payward Inc.
     
     You are contracting with one Payward group company, as follows:
     
-    *   If you reside in Australia, you are contracting with Bit Trade Pty Limited, Unit 610, 478 George Street, Sydney, NSW 2000, Australia.
+    * If you reside in Australia, you are contracting with Bit Trade Pty Limited, Unit 610, 478 George Street, Sydney, NSW 2000, Australia.
         
-    *   If you reside in Canada, you are contracting with Payward Canada Inc., 1100-1959 Upper Water Street, Halifax, NS B3J 3N2, Canada.
+    * If you reside in Canada, you are contracting with Payward Canada Inc., 1100-1959 Upper Water Street, Halifax, NS B3J 3N2, Canada.
         
-    *   If you reside in the UK, you are contracting with Payward Ltd., 6th Floor, One London Wall, London, EC2Y 5EB.
+    * If you reside in the UK, you are contracting with Payward Ltd., 6th Floor, One London Wall, London, EC2Y 5EB.
         
-    *   If you reside in the United States, you are contracting with Payward Ventures Inc., 237 Kearny Street #102, San Francisco, CA 94108.
+    * If you reside in the United States, you are contracting with Payward Ventures Inc., 237 Kearny Street #102, San Francisco, CA 94108.
         
-    *   If you reside in Italy you are contracting with Payward Europe Solutions Limited, Italian Branch, 21 Via San Marco, Milan, MI, 20121, Italy
+    * If you reside in Italy you are contracting with Payward Europe Solutions Limited, Italian Branch, 21 Via San Marco, Milan, MI, 20121, Italy
         
-    *   If you reside in the rest of the world (other than Japan, in which case, you have been provided with a separate privacy notice that is applicable to you), you are contracting with Payward Trading Ltd., c/o SHRM Trustees (BVI) Limited, Trinity Chambers, Ora et Labora Building, Road Town, Tortola, VG1110, British Virgin Islands.
+    * If you reside in the rest of the world (other than Japan, in which case, you have been provided with a separate privacy notice that is applicable to you), you are contracting with Payward Trading Ltd., c/o SHRM Trustees (BVI) Limited, Trinity Chambers, Ora et Labora Building, Road Town, Tortola, VG1110, British Virgin Islands.
         
-    *   If you are a client of Kraken Futures, you are contracting with either Payward Brokers Pte. Ltd., or Payward Global Trading Pte. Ltd., 8 Tomasello Boulevard, #15-04, Suntec Tower Three, Singapore 038988.
+    * If you are a client of Kraken Futures, you are contracting with either Payward Brokers Pte. Ltd., or Payward Global Trading Pte. Ltd., 8 Tomasello Boulevard, #15-04, Suntec Tower Three, Singapore 038988.
         
-    *   The Company you are contracting with is your Data Controller, and is responsible for the collection, use, disclosure, retention and protection of your personal information in accordance with our global privacy standards, this Privacy Notice, as well as any applicable national laws. The Company uses encryption to protect your information and store decryption keys in separate systems. We process and retain your personal information on our servers in multiple data center locations, including the European Union, Japan, Australia, the United Kingdom, the United States of America and elsewhere in the world.
+    * The Company you are contracting with is your Data Controller, and is responsible for the collection, use, disclosure, retention and protection of your personal information in accordance with our global privacy standards, this Privacy Notice, as well as any applicable national laws. The Company uses encryption to protect your information and store decryption keys in separate systems. We process and retain your personal information on our servers in multiple data center locations, including the European Union, Japan, Australia, the United Kingdom, the United States of America and elsewhere in the world.
         
-4.  How do we protect personal information?
+4. How do we protect personal information?
     ---------------------------------------
     
     The Company respects the privacy of any users who access its website, and it is therefore committed to taking all reasonable steps to safeguard any existing or prospective clients, applicants and website visitors.
@@ -64,48 +64,48 @@ _Last Updated: Jul 15, 2022_
     
     The personal information that you provide us with when applying to open an account, applying for a role within the Company, or when using our website, is classified as registered information, which is protected in several ways. You can access your registered information after logging in to your account by entering your username and the password that you have selected. It is your responsibility to make sure that your password is only known to you and not disclosed to anyone else. Registered information is securely stored in a safe location, and only authorised personnel have access to it via a username and password. All personal information is transferred to the Company over a secure connection, and thus all reasonable measures are taken to prevent unauthorised parties from viewing any such information. Personal information provided to the Company that does not classify as registered information is also kept in a safe environment and accessible by authorised personnel only through username and password.
     
-5.  Information we may collect about you
+5. Information we may collect about you
     ------------------------------------
     
     In order to open an account with us, you must first complete and submit a “create account” form to us by completing the required information. By completing this form, you are requested to disclose personal information in order to enable the Company to assess your application and comply with the relevant laws (including their regulations).
     
     The information that we collect from you is as follows:
     
-    *   Full name, residential address and contact details (e.g. email address, telephone number, fax etc.);
+    * Full name, residential address and contact details (e.g. email address, telephone number, fax etc.);
         
-    *   Date of birth, place of birth, gender, citizenship;
+    * Date of birth, place of birth, gender, citizenship;
         
-    *   Bank account information, credit card details, including details about your source of funds, assets and liabilities, and OFAC information;
+    * Bank account information, credit card details, including details about your source of funds, assets and liabilities, and OFAC information;
         
-    *   Trading account balances, trading activity, your inquiries and our responses;
+    * Trading account balances, trading activity, your inquiries and our responses;
         
-    *   Information on whether you hold a prominent public function (PEP);
+    * Information on whether you hold a prominent public function (PEP);
         
-    *   Verification information, which includes information necessary to verify your identity such as a passport, driver’s licence or Government-issued identity card);
+    * Verification information, which includes information necessary to verify your identity such as a passport, driver’s licence or Government-issued identity card);
         
-    *   Other Personal Information or commercial and/or identification information – Whatever information we, in our sole discretion, deem necessary to comply with our legal obligations under various anti-money laundering (AML) obligations, such as under the European Union’s 4th AML Directive and the U.S. Bank Secrecy Act (BSA).
+    * Other Personal Information or commercial and/or identification information – Whatever information we, in our sole discretion, deem necessary to comply with our legal obligations under various anti-money laundering (AML) obligations, such as under the European Union’s 4th AML Directive and the U.S. Bank Secrecy Act (BSA).
         
     
     Information we collect about you automatically.
     
-    *   Browser Information – Information that is automatically collected via analytics systems providers from your browser, including your IP address and/or domain name and any external page that referred you to us, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system, and platform;
+    * Browser Information – Information that is automatically collected via analytics systems providers from your browser, including your IP address and/or domain name and any external page that referred you to us, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system, and platform;
         
-    *   Log Information – Information that is generated by your use of Kraken Exchange Services that is automatically collected and stored in our server logs. This may include, but is not limited to, device-specific information, location information, system activity and any internal and external information related to pages that you visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our Website or App (including date and time; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page;
+    * Log Information – Information that is generated by your use of Kraken Exchange Services that is automatically collected and stored in our server logs. This may include, but is not limited to, device-specific information, location information, system activity and any internal and external information related to pages that you visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our Website or App (including date and time; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page;
         
     
     Information we receive about you from other sources.
     
     We obtain information about you in a number of ways through your use of our services, including through any of our websites, the account opening process, webinar sign-up forms, event subscribing, news and updates subscribing, and from information provided in the course of on-going support service communications. We also receive information about you from third parties such as your payment providers and through publicly available sources. For example:
     
-    *   The banks you use to transfer money to us will provide us with your basic personal information, such as your name and address, as well as your financial information such as your bank account details;
+    * The banks you use to transfer money to us will provide us with your basic personal information, such as your name and address, as well as your financial information such as your bank account details;
         
-    *   Your business partners may provide us with your name and address, as well as financial information;
+    * Your business partners may provide us with your name and address, as well as financial information;
         
-    *   Advertising networks, analytics providers and search information providers may provide us with anonymized or de-identified information about you, such as confirming how you found our website;
+    * Advertising networks, analytics providers and search information providers may provide us with anonymized or de-identified information about you, such as confirming how you found our website;
         
-    *   Credit reference agencies do not provide us with any personal information about you, but may be used to corroborate the information you have provided to us.
+    * Credit reference agencies do not provide us with any personal information about you, but may be used to corroborate the information you have provided to us.
         
-6.  Lawful basis for processing your personal information
+6. Lawful basis for processing your personal information
     -----------------------------------------------------
     
     We will process your personal information on the following bases and for the following purposes:
@@ -126,15 +126,15 @@ _Last Updated: Jul 15, 2022_
     
     We process personal data so as to safeguard the legitimate interests pursued by us or by a third party. A legitimate interest is when we have a business or commercial reason to use your information. Example of such processing activities include the following:
     
-    *   Initiating legal claims and preparing our defense in litigation procedures;
+    * Initiating legal claims and preparing our defense in litigation procedures;
         
-    *   Means and processes we undertake to provide for the Company’s IT and system security, preventing potential crime, asset security and access controls;
+    * Means and processes we undertake to provide for the Company’s IT and system security, preventing potential crime, asset security and access controls;
         
-    *   Measures for managing the business and for further developing products and services;
+    * Measures for managing the business and for further developing products and services;
         
-    *   Sharing your data within the Payward Inc. group of companies for the purpose of updating and/or verifying your personal data in accordance with the relevant anti-money laundering compliance frameworks, and
+    * Sharing your data within the Payward Inc. group of companies for the purpose of updating and/or verifying your personal data in accordance with the relevant anti-money laundering compliance frameworks, and
         
-    *   Risk management.
+    * Risk management.
         
     
     **To provide you with products and services, or information about our products and services, and to review your ongoing needs.**
@@ -175,66 +175,66 @@ _Last Updated: Jul 15, 2022_
     
     Often the law requires us to advise you of certain changes to products or services or laws. We may need to inform you of changes to the terms or the features of our products or services. We need to process your personal information to send you these legal notifications. You will continue to receive this information from us even if you choose not to receive direct marketing information from us.
     
-7.  Disclosure of your personal information
+7. Disclosure of your personal information
     ---------------------------------------
     
     The Company will not disclose any of its clients’ confidential information to a third party, except: (a) to the extent that it is required to do so pursuant to any applicable laws, rules or regulations; (b) if there is a duty to disclose; (c) if our legitimate business interests require disclosure; (d) in line with our Terms of Service; (e) at your request or with your consent or to those described in this Privacy Notice. The Company will endeavour to make such disclosures on a “need-to-know” basis, unless otherwise instructed by a regulatory authority. Under such circumstances, the Company will notify the third party regarding the confidential nature of any such information.
     
     As part of using your personal information for the purposes set out above, the Company may disclose your personal information to the following:
     
-    *   Any members of the Company, which means that any of our affiliates and subsidiaries may receive such information;
+    * Any members of the Company, which means that any of our affiliates and subsidiaries may receive such information;
         
-    *   Any of our service providers and business partners, for business purposes, such as specialist advisors who have been contracted to provide us with administrative, financial, legal, tax, compliance, insurance, IT, debt-recovery, analytics, research or other services;
+    * Any of our service providers and business partners, for business purposes, such as specialist advisors who have been contracted to provide us with administrative, financial, legal, tax, compliance, insurance, IT, debt-recovery, analytics, research or other services;
         
     
     If the Company discloses your personal information to service providers and business partners, in order to perform the services requested by clients, such providers and partners may store your personal information within their own systems in order to comply with their legal and other obligations.
     
     We require that service providers and business partners who process personal information to acknowledge the confidentiality of this information, undertake to respect any client’s right to privacy and comply with all relevant privacy and data protection laws and this Privacy Notice.
     
-8.  Where we store your personal data
+8. Where we store your personal data
     ---------------------------------
     
     Our operations are supported by a network of computers, servers, and other infrastructure and information technology, including, but not limited to, third-party service providers. We and our third-party service providers and business partners store and process your personal data in the European Union, Japan, the United Kingdom, the United States of America and elsewhere in the world.
     
-9.  Transfers of personal information outside of the European Economic Area (EEA) and the United Kingdom (UK)
+9. Transfers of personal information outside of the European Economic Area (EEA) and the United Kingdom (UK)
     ---------------------------------------------------------------------------------------------------------
     
     We may transfer your personal information outside the EEA and UK to other Company subsidiaries, service providers and business partners (i.e Data Processors) who are engaged on our behalf. To the extent that we transfer your personal information outside of the EEA and UK, we will ensure that the transfer is lawful and that Data Processors in third countries are obliged to comply with the European Union (EU) General Data Protection Act 2016 and the UK Data Protection Act 2018. If transfers of personal information are processed in the US, we may in some cases rely on standard contractual clauses.
     
-10.  Transfers of Personal Information outside of your country
+10. Transfers of Personal Information outside of your country
     ---------------------------------------------------------
     
     By using our products and services, you consent to your Personal Data being transferred to other countries, including countries that have differing levels of privacy and data protection laws than your country. In all such transfers, we will protect your personal information as described in this Privacy Notice, and ensure that appropriate information sharing contractual agreements are in place.
     
-11.  Privacy when using digital assets and blockchains
+11. Privacy when using digital assets and blockchains
     -------------------------------------------------
     
     Your funding of bitcoin, XRP, ether, and other Digital Assets, may be recorded on a public blockchain. Public blockchains are distributed ledgers, intended to immutably record transactions across wide networks of computer systems. Many blockchains are open to forensic analysis which can lead to deanonymization and the unintentional revelation of private financial information, especially when blockchain data is combined with other data.
     
     Because blockchains are decentralized or third-party networks which are not controlled or operated by Payward or its affiliates, we are not able to erase, modify, or alter personal data from such networks.
     
-12.  Data Retention
+12. Data Retention
     --------------
     
     Safeguarding the privacy of your personal information is of utmost importance to us, whether you interact with us personally, by phone, by email, over the internet or any other electronic medium. We will hold personal information, for as long as we have a business relationship with you, in secure computer storage facilities, and we take the necessary measures to protect the personal information we hold from misuse, loss, unauthorised access, modification or disclosure.
     
     When we consider that personal information is no longer necessary for the purpose for which it was collected, we will remove any details that will identify you or we will securely destroy the records. However, we may need to maintain records for a significant period of time (after you cease being our client). For example, we are subject to certain anti-money laundering laws which require us to retain the following, for a period of 5 years after our business relationship with you has ended.
     
-    *   A copy of the records we used in order to comply with our client due diligence obligations;
+    * A copy of the records we used in order to comply with our client due diligence obligations;
         
-    *   Supporting evidence and records of transactions with you and your relationship with us.
+    * Supporting evidence and records of transactions with you and your relationship with us.
         
     
     Also, the personal information we hold in the form of a recorded information, by telephone, electronically or otherwise, will be held in line with local regulatory requirements (i.e. 5 years after our business relationship with you has ended or longer if you have legitimate interests (such as handling a dispute with you)). If you have opted out of receiving marketing communications we will hold your details on our suppression list so that we know you do not want to receive these communications.
     
     We may keep your data for longer than 5 years if we cannot delete it for legal, regulatory, or technical reasons.
     
-13.  Cookies
+13. Cookies
     -------
     
     When you use our products and services, we may make use of the standard practice of placing tiny data files called cookies, flash cookies, pixel tags, or other tracking tools (herein, “Cookies”) on your computer or other devices used when engaging with us. We use Cookies to (i) help us recognize you as a customer, collect information about your use of our products and services, to better customize our services and content for you, and to collect information about your computer or other access devices to ensure our compliance with our BSA and AML obligations.
     
-14.  Your rights regarding your personal information
+14. Your rights regarding your personal information
     -----------------------------------------------
     
     The rights that are available to you in relation to the personal information we hold about you are outlined below.
@@ -265,35 +265,35 @@ _Last Updated: Jul 15, 2022_
     
     You can ask us to stop processing your personal information, and we will do so, if we are:
     
-    *   Relying on our own or someone else’s legitimate interests to process your personal information except if we can demonstrate compelling legal grounds for the processing;
+    * Relying on our own or someone else’s legitimate interests to process your personal information except if we can demonstrate compelling legal grounds for the processing;
         
-    *   Processing your personal information for direct marketing; or
+    * Processing your personal information for direct marketing; or
         
-    *   Processing your personal information for research unless we reasonably believe such processing is necessary or prudent for the performance of a task carried out in the public interest (such as by a regulatory or enforcement agency).
+    * Processing your personal information for research unless we reasonably believe such processing is necessary or prudent for the performance of a task carried out in the public interest (such as by a regulatory or enforcement agency).
         
     
     **Automated decision-making and profiling**
     
     If we have made a decision about you based solely on an automated process (e.g. through automatic profiling) that affects your ability to access our products and services or has another significant effect on you, you can request not to be subject to such a decision unless we can demonstrate to you that such decision is necessary for entering into, or the performance of, a contract between you and us. Even if a decision is necessary for entering into or performing a contract, you may contest the decision and require human intervention. We may not be able to offer our products or services to you, if we agree to such a request (i.e. end our relationship with you).
     
-15.  Changes to this Privacy Notice
+15. Changes to this Privacy Notice
     ------------------------------
     
     Our Privacy Notice is reviewed regularly to ensure that any new obligations and technologies, as well as any changes to our business operations and practices are taken into consideration, as well as that it remains abreast of the changing regulatory environment. Any personal information we hold will be governed by our most recent Privacy Notice.
     
     If we decide to change our Privacy Notice, we will post those changes to this Privacy Notice and other places we deem appropriate.
     
-16.  Our products and services are not available to children
+16. Our products and services are not available to children
     -------------------------------------------------------
     
     Our products and services are not directed to persons under the age of 18, hereinafter “Children”, “Child” and we do not knowingly collect personal information from Children. If we learn that we have inadvertently gathered personal information from a Child, we will take legally permissible measures to remove that information from our records. The Company will require the user to close his or her account and will not allow the use of our products and services. If you are a parent or guardian of a Child, and you become aware that a Child has provided personal information to us, please contact us at support@kraken.com and you may request to exercise your applicable access, rectification, cancellation, and/or objection rights.
     
-17.  Contact Information
+17. Contact Information
     -------------------
     
     Any questions, complaints, comments and requests regarding this Privacy Notice are welcome and should be addressed to support@kraken.com.
     
-18.  Data Protection Authorities
+18. Data Protection Authorities
     ---------------------------
     
     If you are not satisfied with our response to your complaint, you have the right to submit a complaint with our regulator. You can contact the appropriate regulator direct from the details below:
