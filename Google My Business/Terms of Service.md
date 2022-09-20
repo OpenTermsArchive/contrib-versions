@@ -16,10 +16,10 @@ What we expect from you
 
 You’re responsible for the entity listed on your profile (your 'Business Profile'). That means, in addition to following the basic rules of conduct in [the Google Terms of Service](https://policies.google.com/terms), you must, when using the Business Profile Services:
 
-*   Comply with applicable laws and industry best practices when operating and promoting your entity, including obtaining all applicable licences and approvals.
-*   Ensure that your content is correct, up to date and complete.
-*   Supply all required disclaimers, warnings and notices (or if you rely on any supplied by Google, ensure their sufficiency for your entity).
-*   Comply with [these policies](https://support.google.com/business/answer/7667250) which apply to the Business Profile Services.
+* Comply with applicable laws and industry best practices when operating and promoting your entity, including obtaining all applicable licences and approvals.
+* Ensure that your content is correct, up to date and complete.
+* Supply all required disclaimers, warnings and notices (or if you rely on any supplied by Google, ensure their sufficiency for your entity).
+* Comply with [these policies](https://support.google.com/business/answer/7667250) which apply to the Business Profile Services.
 
 Moderation of your content and other content on the Business Profile
 --------------------------------------------------------------------
@@ -89,4 +89,4 @@ If you have any questions or complaints regarding Google Business Profile, you c
 Related resources
 -----------------
 
-*   [Report a violation of Business Profile third-party policies](https://support.google.com/business/contact/gmb_3p_complaints).
+* [Report a violation of Business Profile third-party policies](https://support.google.com/business/contact/gmb_3p_complaints).
