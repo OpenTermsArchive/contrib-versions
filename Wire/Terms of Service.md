@@ -198,10 +198,10 @@ You must read and agree to this ToU and the supporting Privacy Policy to use the
 
 Under the General Data Protection Regulation (GDPR), you, as a data subject, have the following rights regarding your personal data:
 
-*   a) The right to request access to your personal data (Art. 15 GDPR);
-*   b) The right to rectification or erasure of your personal data (Art. 16 and Art. 17 GDPR);
-*   c) The right to restriction of, or to object the processing of your personal data (Art. 18 and Art. 21 GDPR);
-*   d) The right to data portability (Art. 20 GDPR).
+* a) The right to request access to your personal data (Art. 15 GDPR);
+* b) The right to rectification or erasure of your personal data (Art. 16 and Art. 17 GDPR);
+* c) The right to restriction of, or to object the processing of your personal data (Art. 18 and Art. 21 GDPR);
+* d) The right to data portability (Art. 20 GDPR).
 
 Please note that your rights according to b), c) and d) above will only exist under certain conditions pursuant to the GDPR and may, therefore, not apply vis-à-vis us. Furthermore, you always have the right to lodge a complaint with a data protection authority.
 
@@ -371,7 +371,7 @@ a. you and the Company will attempt in good faith to negotiate a written resolut
 
 b. if the parties are unable to resolve the dispute in accordance with Section 16.1(a) above, then they shall be free to pursue their respective remedies in accordance with applicable law or these ToU.
 
-16.2 **Arbitration Procedures**. You and the Company agree that, except as provided in Section 16.5 below, all disputes, controversies and claims related to this ToU (each a “**Claim**”), shall be finally and exclusively resolved by binding arbitration, which may be initiated by either party by sending a written notice requesting arbitration to the other party. Any election to arbitrate by one party shall be final and binding on the other. The arbitration will be conducted under the Streamlined Arbitration Rules and Procedures of JAMS that are in effect at the time the arbitration is initiated (the “**JAMS Rules**”) and under the terms set forth in this ToU. In the event of a conflict between the terms set forth in this Section 16 and the JAMS Rules, the terms in this Section 16 will control and prevail.
+16.2 **Arbitration Procedures**. You and the Company agree that, except as provided in Section 16.5 below, all disputes, controversies and claims related to this ToU (each a “**Claim**”), shall be finally and exclusively resolved by binding arbitration, which may be initiated by either party by sending a written notice requesting arbitration to the other party. Any election to arbitrate by one party shall be final and binding on the other. The arbitration will be conducted under the Streamlined Arbitration Rules and Procedures of JAMS that are in effect at the time the arbitration is initiated (the “**JAMS Rules**”) and under the terms set forth in this ToU. In the event of a conflict between the terms set forth in this Section 16 and the JAMS Rules, the terms in this Section 16 will control and prevail.
 
 Except as otherwise set forth in Section 16.5, you may seek any remedies available to you under federal, state or local laws in an arbitration action. As part of the arbitration, both you and the Company will have the opportunity for discovery of non-privileged information that is relevant to the Claim. The arbitrator will provide a written statement of the arbitrator’s decision regarding the Claim, the award given and the arbitrator’s findings and conclusions on which the arbitrator’s decision is based. The determination of whether a Claim is subject to arbitration shall be governed by the Federal Arbitration Act and determined by a court rather than an arbitrator. Except as otherwise provided in this ToU, (a) you and the Company may litigate in court to compel arbitration, stay proceedings pending arbitration, or confirm, modify, vacate or enter judgment on the award entered by the arbitrator; and (b) the arbitrator’s decision shall be final, binding on all parties and enforceable in any court that has jurisdiction, provided that any award may be challenged if the arbitrator fails to follow applicable law.
 
@@ -602,217 +602,217 @@ For further information on the technical measures taken by Wire please visit [h
 
 * * *
 
-*   [1PasswordExtension](https://github.com/AgileBits/onepassword-app-extension) _under MIT_
-*   adm-zip _under MIT_
-*   Akka _under Apache 2.0_
-*   Amber _under BSD_
-*   amplify _under MIT,GPL_
-*   Android AppCompat Library V7 _under Apache 2.0_
-*   Android Contraint Layout _under Apache 2.0_
-*   Android Design _under Apache 2.0_
-*   Android Job _under Apache 2.0_
-*   Android Multidex _under Apache 2.0_
-*   Android Paging Common _under Apache 2.0_
-*   Android Paging Runtime _under Apache 2.0_
-*   Android Support CardView V7 _under Apache 2.0_
-*   Android Support Grid Layout _under Apache 2.0_
-*   Android Support Library Annotations _under Apache 2.0_
-*   Android Support Preference V7 _under Apache 2.0_
-*   Android Support RecyclerView V7 _under Apache 2.0_
-*   Android Support V13 _under Apache 2.0_
-*   Android Support V4 _under Apache 2.0_
-*   Android Testing Support Library – rules _under Apache 2.0_
-*   Android Testing Support Library – runner _under Apache 2.0_
-*   Android WorkManager Runtime _under Apache 2.0_
-*   Android WorkManager Testing _under Apache 2.0_
-*   ansi-regex _under MIT_
-*   Apache Commons _under Apache 2.0_
-*   Apache HttpClient _under Apache 2.0_
-*   Apache Maven Project _under Apache 2.0_
-*   Appium _under Apache 2.0_
-*   axios _under MIT_
-*   babel-plugin-react-intl _under BSD-3-Clause_
-*   bower _under MIT_
-*   bro-fs _under MIT_
-*   Cartography _under MIT_
-*   chalk _under MIT_
-*   Circe Core _under Apache 2.0_
-*   Circe Generic _under Apache 2.0_
-*   Circe Parser _under Apache 2.0_
-*   color _under MIT_
-*   commander _under MIT_
-*   CommonMark Java Core _under BSD 2-clause_
-*   compression _under MIT_concurr
-*   ently _under MIT_
-*   copy _under MIT_
-*   cosmiconfig _under MIT_
-*   crypto-js _under MIT_
-*   Cucumber _under MIT_
-*   debug _under MIT_
-*   dexie _under Apache-2.0_
-*   dexie-batch _under MIT_
-*   Dexmaker _under Apache 2.0_
-*   Dexmaker DX _under Apache 2.0_
-*   Dexmaker Mockito _under Apache 2.0_
-*   DifferenceKit _under MIT_
-*   dotenv _under BSD-2-Clause_
-*   dotenv-extended _under MIT_
-*   Down _under MIT_
-*   ed2curve _under Unlicense_
-*   electron _under MIT_
-*   express _under MIT_
-*   express-formidable _under MIT_
-*   express-hbs _under MIT_
-*   express-useragent _under MIT_
-*   Fabric8 :: Mock Web Server _under Apache 2.0_
-*   Facebook Rebound _under BSD_
-*   FBSnapshotTestCase _under BSD_
-*   Firebase Android SDK _under Apache 2.0_
-*   FLAnimatedImage _under MIT_
-*   FormatterKit _under MIT_
-*   fs-extra _under MIT_
-*   generate-changelog _under MIT_
-*   glob _under ISC_
-*   Google Play Services SDK – _Base under Android SDK License Agreement_
-*   Google Play Services SDK – _GCM under Android SDK License Agreement_
-*   Google Play Services SDK – _Location under Android SDK License Agreemen_t
-*   Google Play Services SDK – _Maps under Android SDK License Agreement_
-*   google-breakpad _under BSD_
-*   GRMustache _under BSD_
-*   GTMSessionFetcher _under Apache 2.0_
-*   hash.js _under MIT_
-*   helmet _under MIT_
-*   helmet-csp _under MIT_
-*   highlightjs _under BSD-3-Clause_
-*   HockeySDK-iOS _under MIT_
-*   html5-websocket _under MIT_
-*   HTMLString _under MIT_
-*   httpclient _under Apache 2.0_
-*   i18next _under MIT_
-*   i18next-express-middleware _under MIT_
-*   i18next-node-fs-backend _under MIT_
-*   ICU4J _under ICU_
-*   intl _under MIT_
-*   ISO Parser _under Apache 2.0_
-*   Java Native Access _under Apache 2.0_
-*   Jersey _under GNU GENERAL PUBLIC LICENSE_
-*   jquery _under MIT_
-*   jquery-mousewheel _under MIT_
-*   js-cookie _under MIT_
-*   jsoncpp _under MIT_
-*   jsrsasign _under MIT_
-*   jszip _under (MIT OR GPL-3.0)_
-*   JUnit _under EPL 1.0_
-*   keyboardjs _under MIT_
-*   KeyValueObserver _under BSD_
-*   knex _under MIT_
-*   knockout _under MIT_
-*   Kotlin Standard Library _under Apache 2.0_
-*   libcmark _under BSD_
-*   Libphonenumber _under Apache 2.0_
-*   LibPhoneNumber _under Apache 2.0_
-*   libPhoneNumber (iOS / OS X) _under Apache 2.0_
-*   libre _under BSD_
-*   libsodium _under ISC_
-*   libsodium-wrappers-sumo _under ISC_
-*   libvpx _under BSD_
-*   libyuv _under BSD_
-*   lint-staged _under MIT_
-*   ListViewAnimations _under Apache 2.0_
-*   lodash _under MIT_
-*   logdown _under MIT_
-*   long _under Apache-2.0_
-*   luxon _under MIT_
-*   Macros _under Apache 2.0_
-*   metadata-extractor _under Apache 2.0_
-*   metamacros.h from libextobjc _under MIT_
-*   minimist _under MIT_
-*   minizip _under GNU_
-*   Mockito Core _under MIT_
-*   moment _under MIT_
-*   ms _under MIT_
-*   mysql _under MIT_
-*   nan _under MIT_
-*   normalize.css _under MIT_
-*   nunjucks _under BSD-2-Clause_
-*   nunjucks-autoescape _under Apache 2.0_
-*   ObjcAssociatedObjectHelpers _under MIT_
-*   OCMock _under Apache 2.0_
-*   ogg _under BSD_
-*   OkHttp _under Apache 2.0_
-*   Ono _under MIT_
-*   OpenCV library _under 3-clause BSD_
-*   openssl _under BSD_
-*   opn _under MIT_
-*   opus _under BSD_
-*   phoneformat.js _under UNKNOWN_
-*   PINCache _under Apache 2.0_
-*   platform _under MIT_
-*   pm2 _under AGPL-3.0_
-*   prop-types _under MIT_
-*   Protobuf _under Apache 2.0_
-*   Protobuf-objc _under Apache 2.0_
-*   protobuf.js _under Apache 2.0_
-*   protobufjs _under BSD-3-Clause_
-*   pseudo-worker _under Apache 2.0_
-*   pure-uuid _under MIT_
-*   PureLayout _under MIT_
-*   raygun4js _under MIT_
-*   react _under MIT_
-*   react-document-title _under MIT_
-*   react-dom _under MIT_
-*   react-intl _under BSD-3-Clause_
-*   react-intl-po _under MIT_
-*   react-markdown _under MIT_
-*   react-redux _under MIT_
-*   react-router _under MIT_
-*   react-router-config _under MIT_
-*   react-router-dom _under MIT_
-*   react-stripe-elements _under MIT_
-*   react-transition-group _under BSD-3-Clause_
-*   Rebound _under BSD 2-clause_
-*   recompose _under MIT_
-*   reconnecting-websocket _under MIT_
-*   redux _under MIT_
-*   redux-devtools-extension _under MIT_
-*   redux-logger _under MIT_
-*   redux-thunk _under MIT_
-*   Request _under Apache 2.0_
-*   request _under Apache-2.0_
-*   Retrofit _under Apache 2.0_
-*   rimraf _under ISC_
-*   Roboeletric _under Apache 2.0_
-*   Scala Async _under BSD 3-clause_
-*   Scala Library _under Apache 2.0_
-*   Scala Reflect _under Apache 2.0_
-*   ScalaCheck _under BSD 2-clause_
-*   ScalaMock _under MIT_
-*   ScalaTest _under Apache 2.0_
-*   scrypt _under Apache 2.0_
-*   SCSiriWaveformView _under MIT_
-*   sdp-transform _under MIT_
-*   serve-favicon _under MIT_
-*   Sikuli Project _under MIT_
-*   Silencer – Lib _under Apache 2.0_
-*   Silencer – Plugin _under Apache 2.0_
-*   simplebar _under MIT_
-*   spark-md5 _under WTFPL_
-*   speakingurl _under BSD-3-Clause_
-*   Stetho _under BSD_
-*   styled-normalize _under MIT_
-*   styled-transition-group _under MIT_
-*   ThreeTenAbp _under Apache 2.0_
-*   Timber _under Apache 2.0_
-*   tough-cookie _under BSD-3-Clause_
-*   uint32 _under Do, what You want_
-*   underscore _under MIT_
-*   url-search-params-polyfill _under MIT_
-*   usrsctp _under BSD_
-*   uuid _under MIT_
-*   uuidjs _under Apache-2.0_
-*   WebRTC _under BSD_
-*   webrtc-adapter _under BSD-3-Clause_
-*   whatwg-fetch _under MIT_
-*   ZipArchive _under MIT_
+* [1PasswordExtension](https://github.com/AgileBits/onepassword-app-extension) _under MIT_
+* adm-zip _under MIT_
+* Akka _under Apache 2.0_
+* Amber _under BSD_
+* amplify _under MIT,GPL_
+* Android AppCompat Library V7 _under Apache 2.0_
+* Android Contraint Layout _under Apache 2.0_
+* Android Design _under Apache 2.0_
+* Android Job _under Apache 2.0_
+* Android Multidex _under Apache 2.0_
+* Android Paging Common _under Apache 2.0_
+* Android Paging Runtime _under Apache 2.0_
+* Android Support CardView V7 _under Apache 2.0_
+* Android Support Grid Layout _under Apache 2.0_
+* Android Support Library Annotations _under Apache 2.0_
+* Android Support Preference V7 _under Apache 2.0_
+* Android Support RecyclerView V7 _under Apache 2.0_
+* Android Support V13 _under Apache 2.0_
+* Android Support V4 _under Apache 2.0_
+* Android Testing Support Library – rules _under Apache 2.0_
+* Android Testing Support Library – runner _under Apache 2.0_
+* Android WorkManager Runtime _under Apache 2.0_
+* Android WorkManager Testing _under Apache 2.0_
+* ansi-regex _under MIT_
+* Apache Commons _under Apache 2.0_
+* Apache HttpClient _under Apache 2.0_
+* Apache Maven Project _under Apache 2.0_
+* Appium _under Apache 2.0_
+* axios _under MIT_
+* babel-plugin-react-intl _under BSD-3-Clause_
+* bower _under MIT_
+* bro-fs _under MIT_
+* Cartography _under MIT_
+* chalk _under MIT_
+* Circe Core _under Apache 2.0_
+* Circe Generic _under Apache 2.0_
+* Circe Parser _under Apache 2.0_
+* color _under MIT_
+* commander _under MIT_
+* CommonMark Java Core _under BSD 2-clause_
+* compression _under MIT_concurr
+* ently _under MIT_
+* copy _under MIT_
+* cosmiconfig _under MIT_
+* crypto-js _under MIT_
+* Cucumber _under MIT_
+* debug _under MIT_
+* dexie _under Apache-2.0_
+* dexie-batch _under MIT_
+* Dexmaker _under Apache 2.0_
+* Dexmaker DX _under Apache 2.0_
+* Dexmaker Mockito _under Apache 2.0_
+* DifferenceKit _under MIT_
+* dotenv _under BSD-2-Clause_
+* dotenv-extended _under MIT_
+* Down _under MIT_
+* ed2curve _under Unlicense_
+* electron _under MIT_
+* express _under MIT_
+* express-formidable _under MIT_
+* express-hbs _under MIT_
+* express-useragent _under MIT_
+* Fabric8 :: Mock Web Server _under Apache 2.0_
+* Facebook Rebound _under BSD_
+* FBSnapshotTestCase _under BSD_
+* Firebase Android SDK _under Apache 2.0_
+* FLAnimatedImage _under MIT_
+* FormatterKit _under MIT_
+* fs-extra _under MIT_
+* generate-changelog _under MIT_
+* glob _under ISC_
+* Google Play Services SDK – _Base under Android SDK License Agreement_
+* Google Play Services SDK – _GCM under Android SDK License Agreement_
+* Google Play Services SDK – _Location under Android SDK License Agreemen_t
+* Google Play Services SDK – _Maps under Android SDK License Agreement_
+* google-breakpad _under BSD_
+* GRMustache _under BSD_
+* GTMSessionFetcher _under Apache 2.0_
+* hash.js _under MIT_
+* helmet _under MIT_
+* helmet-csp _under MIT_
+* highlightjs _under BSD-3-Clause_
+* HockeySDK-iOS _under MIT_
+* html5-websocket _under MIT_
+* HTMLString _under MIT_
+* httpclient _under Apache 2.0_
+* i18next _under MIT_
+* i18next-express-middleware _under MIT_
+* i18next-node-fs-backend _under MIT_
+* ICU4J _under ICU_
+* intl _under MIT_
+* ISO Parser _under Apache 2.0_
+* Java Native Access _under Apache 2.0_
+* Jersey _under GNU GENERAL PUBLIC LICENSE_
+* jquery _under MIT_
+* jquery-mousewheel _under MIT_
+* js-cookie _under MIT_
+* jsoncpp _under MIT_
+* jsrsasign _under MIT_
+* jszip _under (MIT OR GPL-3.0)_
+* JUnit _under EPL 1.0_
+* keyboardjs _under MIT_
+* KeyValueObserver _under BSD_
+* knex _under MIT_
+* knockout _under MIT_
+* Kotlin Standard Library _under Apache 2.0_
+* libcmark _under BSD_
+* Libphonenumber _under Apache 2.0_
+* LibPhoneNumber _under Apache 2.0_
+* libPhoneNumber (iOS / OS X) _under Apache 2.0_
+* libre _under BSD_
+* libsodium _under ISC_
+* libsodium-wrappers-sumo _under ISC_
+* libvpx _under BSD_
+* libyuv _under BSD_
+* lint-staged _under MIT_
+* ListViewAnimations _under Apache 2.0_
+* lodash _under MIT_
+* logdown _under MIT_
+* long _under Apache-2.0_
+* luxon _under MIT_
+* Macros _under Apache 2.0_
+* metadata-extractor _under Apache 2.0_
+* metamacros.h from libextobjc _under MIT_
+* minimist _under MIT_
+* minizip _under GNU_
+* Mockito Core _under MIT_
+* moment _under MIT_
+* ms _under MIT_
+* mysql _under MIT_
+* nan _under MIT_
+* normalize.css _under MIT_
+* nunjucks _under BSD-2-Clause_
+* nunjucks-autoescape _under Apache 2.0_
+* ObjcAssociatedObjectHelpers _under MIT_
+* OCMock _under Apache 2.0_
+* ogg _under BSD_
+* OkHttp _under Apache 2.0_
+* Ono _under MIT_
+* OpenCV library _under 3-clause BSD_
+* openssl _under BSD_
+* opn _under MIT_
+* opus _under BSD_
+* phoneformat.js _under UNKNOWN_
+* PINCache _under Apache 2.0_
+* platform _under MIT_
+* pm2 _under AGPL-3.0_
+* prop-types _under MIT_
+* Protobuf _under Apache 2.0_
+* Protobuf-objc _under Apache 2.0_
+* protobuf.js _under Apache 2.0_
+* protobufjs _under BSD-3-Clause_
+* pseudo-worker _under Apache 2.0_
+* pure-uuid _under MIT_
+* PureLayout _under MIT_
+* raygun4js _under MIT_
+* react _under MIT_
+* react-document-title _under MIT_
+* react-dom _under MIT_
+* react-intl _under BSD-3-Clause_
+* react-intl-po _under MIT_
+* react-markdown _under MIT_
+* react-redux _under MIT_
+* react-router _under MIT_
+* react-router-config _under MIT_
+* react-router-dom _under MIT_
+* react-stripe-elements _under MIT_
+* react-transition-group _under BSD-3-Clause_
+* Rebound _under BSD 2-clause_
+* recompose _under MIT_
+* reconnecting-websocket _under MIT_
+* redux _under MIT_
+* redux-devtools-extension _under MIT_
+* redux-logger _under MIT_
+* redux-thunk _under MIT_
+* Request _under Apache 2.0_
+* request _under Apache-2.0_
+* Retrofit _under Apache 2.0_
+* rimraf _under ISC_
+* Roboeletric _under Apache 2.0_
+* Scala Async _under BSD 3-clause_
+* Scala Library _under Apache 2.0_
+* Scala Reflect _under Apache 2.0_
+* ScalaCheck _under BSD 2-clause_
+* ScalaMock _under MIT_
+* ScalaTest _under Apache 2.0_
+* scrypt _under Apache 2.0_
+* SCSiriWaveformView _under MIT_
+* sdp-transform _under MIT_
+* serve-favicon _under MIT_
+* Sikuli Project _under MIT_
+* Silencer – Lib _under Apache 2.0_
+* Silencer – Plugin _under Apache 2.0_
+* simplebar _under MIT_
+* spark-md5 _under WTFPL_
+* speakingurl _under BSD-3-Clause_
+* Stetho _under BSD_
+* styled-normalize _under MIT_
+* styled-transition-group _under MIT_
+* ThreeTenAbp _under Apache 2.0_
+* Timber _under Apache 2.0_
+* tough-cookie _under BSD-3-Clause_
+* uint32 _under Do, what You want_
+* underscore _under MIT_
+* url-search-params-polyfill _under MIT_
+* usrsctp _under BSD_
+* uuid _under MIT_
+* uuidjs _under Apache-2.0_
+* WebRTC _under BSD_
+* webrtc-adapter _under BSD-3-Clause_
+* whatwg-fetch _under MIT_
+* ZipArchive _under MIT_
 
 * * *
