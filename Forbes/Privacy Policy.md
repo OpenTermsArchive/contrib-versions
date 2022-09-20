@@ -1,4 +1,4 @@
-*   _Effective as of: November 1, 2020_
+* _Effective as of: November 1, 2020_
     
     _
     
@@ -114,17 +114,17 @@
     
     In particular, we and our partners use cookies and similar technologies on the Site for our business purposes of personalizing and optimizing your browsing experience and the Site by:
     
-    *   providing you with tailored content and advertisements (see below for more information),
-    *   enabling social media features,
-    *   safeguarding against spam and malware,
-    *   analyzing trends, traffic, and user behavior,
-    *   administering the Site, including triggering paywalls for certain content as appropriate,
-    *   gathering demographic information about our user base as a whole,
-    *   tracking web and advertising analytics throughout the Site and its affiliate websites,
-    *   remembering your preferences and voluntarily-submitted information (e.g. custom video playlists, preferences, job title, story ratings, membership status),
-    *   performing location-related functionalities and analytics,
-    *   participating in market research (e.g., Site ratings), and
-    *   educating ourselves about how we can continue to improve the Site and its various elements.
+    * providing you with tailored content and advertisements (see below for more information),
+    * enabling social media features,
+    * safeguarding against spam and malware,
+    * analyzing trends, traffic, and user behavior,
+    * administering the Site, including triggering paywalls for certain content as appropriate,
+    * gathering demographic information about our user base as a whole,
+    * tracking web and advertising analytics throughout the Site and its affiliate websites,
+    * remembering your preferences and voluntarily-submitted information (e.g. custom video playlists, preferences, job title, story ratings, membership status),
+    * performing location-related functionalities and analytics,
+    * participating in market research (e.g., Site ratings), and
+    * educating ourselves about how we can continue to improve the Site and its various elements.
     
     Cookies fall into the subcategories below.
     
