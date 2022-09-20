@@ -3,17 +3,17 @@ How cookies are used on Twitter
 
 Cookies and similar technologies like pixels and local storage provide you with a better, faster, and safer experience on Twitter. Cookies are also used to operate our services, which include our websites, applications, APIs, pixels, email communications, and Twitter content (like Tweets, Tweet and follow buttons, and embedded timelines). Specifically, Twitter uses these technologies to:
 
-*   Keep you logged in to Twitter.
-*   Deliver features and functionality of Twitter services.
-*   Save and honor your preferences.
-*   Personalize the content you see.
-*   Protect you against spam and abuse.
-*   Show you more relevant ads.
-*   Provide subscription features and distribute certain content.
-*   Understand how you interact with our services and where we can improve.
-*   Measure the effectiveness of our advertising and marketing.
-*   Rate how our services perform and identify bugs and other quality issues. 
-*   Gather data used to operate our business — from measuring our audience size to enforcing the [Twitter Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). 
+* Keep you logged in to Twitter.
+* Deliver features and functionality of Twitter services.
+* Save and honor your preferences.
+* Personalize the content you see.
+* Protect you against spam and abuse.
+* Show you more relevant ads.
+* Provide subscription features and distribute certain content.
+* Understand how you interact with our services and where we can improve.
+* Measure the effectiveness of our advertising and marketing.
+* Rate how our services perform and identify bugs and other quality issues. 
+* Gather data used to operate our business — from measuring our audience size to enforcing the [Twitter Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html). 
 
 [What are cookies, pixels, and local storage?](#what-are-cookies)
 
@@ -37,25 +37,25 @@ Why do our services use these technologies?
 
 Cookies, pixels, and local storage work to operate and support our business, and to help provide you with an improved experience. They're used across the following categories:
 
-*   Authentication and security
-*   Functionality
-*   User preferences
-*   Analytics
-*   Research and development
-*   Personalized content
-*   Advertising
-*   Marketing
-*   Personalization across devices
+* Authentication and security
+* Functionality
+* User preferences
+* Analytics
+* Research and development
+* Personalized content
+* Advertising
+* Marketing
+* Personalization across devices
 
 **Within each of these categories, cookies, pixels, and local storage help us:**
 
 **Authentication and security  
 **Authenticate your Twitter access to show you relevant content. They also help prevent unauthorized parties from accessing your account. We use these technologies to:
 
-*   Log you in to Twitter and our services.
-*   Help protect your security and the security of our services.
-*   Let you view content with limited distribution.
-*   Help us detect and fight spam, abuse, and other activities that break the [Twitter Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html).
+* Log you in to Twitter and our services.
+* Help protect your security and the security of our services.
+* Let you view content with limited distribution.
+* Help us detect and fight spam, abuse, and other activities that break the [Twitter Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html).
 
 **Functionality  
 **Deliver error messages, allow you to switch between accounts, coordinate our service across tabs in a browser, and provide certain features on partner websites. 
@@ -65,26 +65,26 @@ Cookies, pixels, and local storage work to operate and support our business, and
 
 **Analytics**
 
-*   Improve and understand how people use our services, including buttons and widgets.
-*   Optimize your experience by understanding how you interact with our services, like when and how often you use them and what links you visit, and from where. (We may use [Google Analytics](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage) to help us with this.) 
-*   Count the number of people who have seen particular Twitter content, like embedded Tweets, buttons, or timelines on other websites. [Learn more](https://developer.twitter.com/en/docs/twitter-for-websites/privacy).
+* Improve and understand how people use our services, including buttons and widgets.
+* Optimize your experience by understanding how you interact with our services, like when and how often you use them and what links you visit, and from where. (We may use [Google Analytics](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage) to help us with this.) 
+* Count the number of people who have seen particular Twitter content, like embedded Tweets, buttons, or timelines on other websites. [Learn more](https://developer.twitter.com/en/docs/twitter-for-websites/privacy).
 
 **Research and development**
 
-*   Gather data about how you use our services, including how our services perform. This helps us detect issues, understand where we may improve, or develop new products or services.
-*   Test updates to Twitter services, as well as build new features, functionality, and services. 
+* Gather data about how you use our services, including how our services perform. This helps us detect issues, understand where we may improve, or develop new products or services.
+* Test updates to Twitter services, as well as build new features, functionality, and services. 
 
 **Personalized content**  
 Personalize our services in areas like trends, stories, ads, and suggestions for people to follow with more relevant content. We also use:
 
-*   Local storage to tell us which parts of your Twitter timeline you've viewed already so that we can show you new content.
-*   Cookies to suggest who you might enjoy following based on your visits to websites with integrated Twitter services.
+* Local storage to tell us which parts of your Twitter timeline you've viewed already so that we can show you new content.
+* Cookies to suggest who you might enjoy following based on your visits to websites with integrated Twitter services.
 
 **Advertising**  
 Personalize ads and measure performance, like showing you ads and evaluating their effectiveness based on your visits to our ad partners' websites. This helps advertisers provide you with high-quality ads and content that may be more interesting to you. We'll also:
 
-*   Deliver ads, measure their performance, and make them more relevant to you based on criteria, like your activity on Twitter and visits to our ad partners' websites.
-*   Work with third-party advertising partners, including Google, to market our services.
+* Deliver ads, measure their performance, and make them more relevant to you based on criteria, like your activity on Twitter and visits to our ad partners' websites.
+* Work with third-party advertising partners, including Google, to market our services.
 
 **Marketing  
 **Deliver our email and web marketing campaigns and to understand our marketing effectiveness.
@@ -100,28 +100,28 @@ To see more about the devices and web browsers associated with your Twitter acco
 
 We (along with third parties) use these technologies on Twitter services, which includes our websites, applications, and services and on other websites, applications, and services that have integrated Twitter services, including third-party properties that incorporate our advertising technology. This includes our ad partners’ websites and sites that display Twitter content, like embedded Tweets, embedded timelines, Tweet buttons, and follow buttons. Third parties may also use these technologies, for example, when you click on links from Twitter services, view or interact with third-party content in Twitter services, or visit third-party websites that incorporate our advertising technology.
 
-### What are my privacy options? 
+### What are my privacy options? 
 
 We're committed to giving you meaningful privacy options to control or limit how we, our partners, and other third-parties use cookies and cookie-related data:
 
 You will always see ads on Twitter based on your Twitter activity. There are a variety of ways you can adjust the way Twitter uses your data for ads. You can use the following tools:  
 
-*   **Personalized ads setting in Twitter  
+* **Personalized ads setting in Twitter  
     **Adjust your setting for use of off-Twitter data for personalized ads by going to _Settings and privacy > Privacy and safety > Ads preferences > Personalized ads_.
-*   **Interest-based advertising for web  
+* **Interest-based advertising for web  
     **Opt out in your current browser through the Digital Advertising Alliance's consumer choice tool at [optout.aboutads.info](https://optout.aboutads.info/?c=2&lang=EN).
-*   **Limit ad tracking for iOS version 13 and earlier**  
+* **Limit ad tracking for iOS version 13 and earlier**  
     Turn on this setting through your iOS device settings (precise instructions vary by version). 
-*   **Ads personalization for Android**  
+* **Ads personalization for Android**  
     Opt out through your device settings (precise instructions vary by version). 
-*   **Allow apps to request to track for iOS version 14 and later**   
+* **Allow apps to request to track for iOS version 14 and later**   
     Turn off the setting through your device settings (precise instructions vary by version). 
-*   **Personalize based on your inferred identity setting in Twitter**  
+* **Personalize based on your inferred identity setting in Twitter**  
     Adjust the setting by going to _Settings and privacy > Privacy and safety > Inferred identity > Personalize based on your inferred identity_. This controls whether we link your account to browsers or devices other than the ones you use to log into Twitter (or if you're logged out, whether we link the browser or device you're currently using to any other browsers or devices).
-*   **Cookie settings through web browsers**   
+* **Cookie settings through web browsers**   
     Most browsers will request your permission to use cookies. Note that if you turn off cookies entirely, Twitter services may not work correctly or you might have trouble logging into twitter.com.
 
-### More privacy options 
+### More privacy options 
 
 Along with [optout.aboutads.info](https://optout.aboutads.info/?c=2&lang=EN), you can read more about opting out of interest-based ads at [networkadvertising.org/choices](https://optout.networkadvertising.org/?c=1). Lastly, you can opt-out of interest-based Google ads using [Google's Ads Settings](https://adssettings.google.com/u/0/authenticated).
 
