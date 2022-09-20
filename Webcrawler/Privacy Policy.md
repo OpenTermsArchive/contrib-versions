@@ -9,9 +9,9 @@ Our Services include our websites, applications and other services that link to 
 
 This Policy applies to information we collect:
 
-*   When you use or interact with our Services.
-*   In your email, text, and other electronic messages with us.
-*   Through our mobile and desktop websites and applications.
+* When you use or interact with our Services.
+* In your email, text, and other electronic messages with us.
+* Through our mobile and desktop websites and applications.
 
 Please read this Policy carefully to understand our policies and practices regarding your information and how we use it and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Services. By accessing or using our Services, you agree to accept the terms and conditions set forth in this Policy. This Policy may change from time to time (see “[Changes to Our Privacy Policy](#policyChanges)“). Your continued use of our Services after we make changes is deemed to be acceptance of those changes, so please check the Policy periodically for updates.
 
@@ -35,15 +35,15 @@ Marina Del Rey, CA 90066
 
 We collect several types of information from and about users of our Services, including information:
 
-*   by which you may be personally identified, such as name, postal address, e-mail address, telephone number, or any other identifier by which you may be contacted online or offline (“personal information”);
-*   that is about you but individually does not identify you, such as your IP address, referral data, and browser and platform type; and/or
-*   about your internet connection, the equipment you use to access our Services and usage details.
+* by which you may be personally identified, such as name, postal address, e-mail address, telephone number, or any other identifier by which you may be contacted online or offline (“personal information”);
+* that is about you but individually does not identify you, such as your IP address, referral data, and browser and platform type; and/or
+* about your internet connection, the equipment you use to access our Services and usage details.
 
 We collect this information:
 
-*   Directly from you when you provide it to us.
-*   Automatically as you use our Services. Information collected automatically may include usage details, IP addresses, and information collected through cookies, web beacons, pixels and other tracking technologies.
-*   From third parties, for example, our business partners and commercial vendors that we use to implement or provide our Services.
+* Directly from you when you provide it to us.
+* Automatically as you use our Services. Information collected automatically may include usage details, IP addresses, and information collected through cookies, web beacons, pixels and other tracking technologies.
+* From third parties, for example, our business partners and commercial vendors that we use to implement or provide our Services.
 
 **Information You Provide to Us**
 
@@ -57,8 +57,8 @@ Information that you provide us also includes records and copies of your corresp
 
 As you use our Services, we may use automatic data collection or tracking technologies to collect certain information about your equipment, browsing actions, and patterns, including:
 
-*   Details of your use of our Services, including traffic data, referral data, location data, logs, and other communication data and the resources that you use (or information that you retrieve) on our Services.
-*   Information about your computer or other device and internet connection, including your IP address, operating system, and browser type.
+* Details of your use of our Services, including traffic data, referral data, location data, logs, and other communication data and the resources that you use (or information that you retrieve) on our Services.
+* Information about your computer or other device and internet connection, including your IP address, operating system, and browser type.
 
 We also may use these technologies to collect information about your online activities over time and across third-party websites or other online services (e.g. behavioral tracking).
 
@@ -66,9 +66,9 @@ The information we collect automatically is statistical data and does not includ
 
 The technologies we use for this automatic data collection may include:
 
-*   **Cookies (or browser cookies)**. A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting(s) on your browser. However, if you select this setting you may be unable to access certain parts of our Services. Unless you have adjusted your browser setting(s) so that it will refuse to accept cookies, our system(s) and technologies will issue cookies when you direct your browser to our Services.
-*   **Flash Cookies**. Certain features of our Services may use local stored objects (or “flash cookies”) to collect and store information about your preferences and navigation to, from, and on our Services. Flash cookies are not managed by the same browser setting(s) as are used for browser cookies.
-*   **Web Beacons**. Portions of our Services may contain small electronic files known as web beacons (sometimes also referred to as clear gifs, pixel tags, and single-pixel gifs) that allow us, for example, to count users who have visited pages and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).
+* **Cookies (or browser cookies)**. A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting(s) on your browser. However, if you select this setting you may be unable to access certain parts of our Services. Unless you have adjusted your browser setting(s) so that it will refuse to accept cookies, our system(s) and technologies will issue cookies when you direct your browser to our Services.
+* **Flash Cookies**. Certain features of our Services may use local stored objects (or “flash cookies”) to collect and store information about your preferences and navigation to, from, and on our Services. Flash cookies are not managed by the same browser setting(s) as are used for browser cookies.
+* **Web Beacons**. Portions of our Services may contain small electronic files known as web beacons (sometimes also referred to as clear gifs, pixel tags, and single-pixel gifs) that allow us, for example, to count users who have visited pages and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).
 
 We do not collect personal information automatically, but we may tie this information to personal information about you that we collect or receive from other third-party sources or you provide to us.
 
@@ -82,15 +82,15 @@ We do not control these third-parties’ tracking technologies or how they may b
 
 We use information that we collect about you or that you provide to us, including any personal information:
 
-*   To present our Services and its contents to you.
-*   To provide you with information, products, or services that you request from us.
-*   To fulfill any other purpose for which you provide it.
-*   To provide you with notices about your account, including expiration and renewal notices.
-*   To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.
-*   To notify you about changes to our Services.
-*   To allow you to participate in interactive features on our Services.
-*   In any other way we may describe when you provide the information.
-*   For any other purpose with your consent.
+* To present our Services and its contents to you.
+* To provide you with information, products, or services that you request from us.
+* To fulfill any other purpose for which you provide it.
+* To provide you with notices about your account, including expiration and renewal notices.
+* To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.
+* To notify you about changes to our Services.
+* To allow you to participate in interactive features on our Services.
+* In any other way we may describe when you provide the information.
+* For any other purpose with your consent.
 
 We may use the information we have collected from you to enable us to display advertisements to our advertisers’ target audiences. Even though we do not disclose your personal information for these purposes without your consent, if you click on or otherwise interact with an advertisement, the advertiser may assume that you meet its target or objective criteria.
 
@@ -100,31 +100,31 @@ We may disclose aggregated information about our users, and information that doe
 
 We may disclose personal information that we collect or you provide as described in this Policy:
 
-*   To our subsidiaries and affiliates.
-*   To contractors, service providers, and other third-parties we use to support our business and deliver our Services.
-*   To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information of users held by us is among the assets transferred.
-*   To fulfill the purpose for which you provide it.
-*   For any other purpose disclosed by us when you provide the information.
-*   With your consent.
+* To our subsidiaries and affiliates.
+* To contractors, service providers, and other third-parties we use to support our business and deliver our Services.
+* To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information of users held by us is among the assets transferred.
+* To fulfill the purpose for which you provide it.
+* For any other purpose disclosed by us when you provide the information.
+* With your consent.
 
 We may also disclose your personal information:
 
-*   To comply with any court order, law, or legal process, including to respond to any government or regulatory request.
-*   If we believe disclosure is necessary or appropriate to protect our rights, property, or for our safety, and that of our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
-*   Under certain circumstances, we may be required to disclose your personal information in response to valid requests by public, regulatory or governmental authorities, including to meet national security or law enforcement requirements.
-*   System1’s accountability for data it receives pursuant to the EU-US Privacy Shield or the Swiss-US Privacy Shield and subsequent transfer of that data to third parties is detailed in the Privacy Shield Principles. In cases of onward transfer to third parties of data of EU or Swiss individuals received pursuant to the EU-US Privacy Shield or the Swiss-US Privacy Shield, System1 is potentially liable. In particular, System1 remains responsible and liable under the Privacy Shield Principles if third-party agents that it engages to process the personal data on its behalf do so in a manner inconsistent with the Privacy Shield Principles, unless System1 proves that it is not responsible for the event giving rise to the damage. With regards to any human resources related data that may be transferred from the EU to the US in connection with or in the context of any employment relationship with a EU-based employee, System1 is committed to co-operating with EU data protection authorities (or DPAs) in the relevant country regarding any such EU-based employee and comply with the advice provided by such DPAs in connection with the foregoing.
+* To comply with any court order, law, or legal process, including to respond to any government or regulatory request.
+* If we believe disclosure is necessary or appropriate to protect our rights, property, or for our safety, and that of our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
+* Under certain circumstances, we may be required to disclose your personal information in response to valid requests by public, regulatory or governmental authorities, including to meet national security or law enforcement requirements.
+* System1’s accountability for data it receives pursuant to the EU-US Privacy Shield or the Swiss-US Privacy Shield and subsequent transfer of that data to third parties is detailed in the Privacy Shield Principles. In cases of onward transfer to third parties of data of EU or Swiss individuals received pursuant to the EU-US Privacy Shield or the Swiss-US Privacy Shield, System1 is potentially liable. In particular, System1 remains responsible and liable under the Privacy Shield Principles if third-party agents that it engages to process the personal data on its behalf do so in a manner inconsistent with the Privacy Shield Principles, unless System1 proves that it is not responsible for the event giving rise to the damage. With regards to any human resources related data that may be transferred from the EU to the US in connection with or in the context of any employment relationship with a EU-based employee, System1 is committed to co-operating with EU data protection authorities (or DPAs) in the relevant country regarding any such EU-based employee and comply with the advice provided by such DPAs in connection with the foregoing.
 
 ### Choices About How We Use and Disclose Your Information
 
 We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your personal information and similar data that we may collect and store:
 
-*   You can set your browser to refuse to accept all or some browser cookies, or to alert you when cookies are being set. If you disable or refuse cookies, please note that some parts of our Services (including certain websites and applications that you may access through our Services) may then be inaccessible or not function properly.
-*   For some of our products, we use Google Analytics Advertising Features, including Remarketing with Google Analytics, Google Display Network Impression Reporting, DoubleClick Platform integrations, and Google Analytics Demographic and Interest Reporting. For information about Google Analytics currently available opt-outs, please click [here](https://tools.google.com/dlpage/gaoptout/).
-*   Some of our products and Services may include advertisements from Microsoft. To learn more about information collected by Microsoft, please click [here](http://www.microsoft.com/en-us/privacystatement/Default.aspx). You can opt-out of Microsoft’s personalized advertising services by following the instructions found [here](http://choice.microsoft.com/).
-*   We do not control any of the third parties’ collection or use of your personal information to serve interest-based advertising. However, these third parties may provide you with ways to choose not to have your personal information collected or used in this way. You can also generally opt-out of receiving personalized ads from third party advertisers and ad networks who are members of the [Network Advertising Initiative (NAI)](http://www.networkadvertising.org/managing/opt_out.asp) or who follow the [Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising (DAA)](http://www.aboutads.info/choices/) by visiting the opt-out pages on the NAI website and the DAA website.
-*   System1 acknowledges that EU and Swiss individuals have the right to access the personal information that we maintain about them. An EU or Swiss individuals who seeks access, or who seeks to correct, amend, or delete inaccurate data, should [contact System1](https://system1.com/terms/privacy-policy/privacy-inquiries). If requested to remove data, we will respond within a reasonable timeframe.
-*   We will also provide an EU or Swiss individuals with opt-out or opt-in choice(s) before we share their data with third parties other than our agents, or before we use it for a purpose other than which it was originally collected or subsequently authorized.
-*   To limit the use and disclosure of your personal information, please submit a written request [here](https://system1.com/terms/privacy-policy/privacy-inquiries).
+* You can set your browser to refuse to accept all or some browser cookies, or to alert you when cookies are being set. If you disable or refuse cookies, please note that some parts of our Services (including certain websites and applications that you may access through our Services) may then be inaccessible or not function properly.
+* For some of our products, we use Google Analytics Advertising Features, including Remarketing with Google Analytics, Google Display Network Impression Reporting, DoubleClick Platform integrations, and Google Analytics Demographic and Interest Reporting. For information about Google Analytics currently available opt-outs, please click [here](https://tools.google.com/dlpage/gaoptout/).
+* Some of our products and Services may include advertisements from Microsoft. To learn more about information collected by Microsoft, please click [here](http://www.microsoft.com/en-us/privacystatement/Default.aspx). You can opt-out of Microsoft’s personalized advertising services by following the instructions found [here](http://choice.microsoft.com/).
+* We do not control any of the third parties’ collection or use of your personal information to serve interest-based advertising. However, these third parties may provide you with ways to choose not to have your personal information collected or used in this way. You can also generally opt-out of receiving personalized ads from third party advertisers and ad networks who are members of the [Network Advertising Initiative (NAI)](http://www.networkadvertising.org/managing/opt_out.asp) or who follow the [Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising (DAA)](http://www.aboutads.info/choices/) by visiting the opt-out pages on the NAI website and the DAA website.
+* System1 acknowledges that EU and Swiss individuals have the right to access the personal information that we maintain about them. An EU or Swiss individuals who seeks access, or who seeks to correct, amend, or delete inaccurate data, should [contact System1](https://system1.com/terms/privacy-policy/privacy-inquiries). If requested to remove data, we will respond within a reasonable timeframe.
+* We will also provide an EU or Swiss individuals with opt-out or opt-in choice(s) before we share their data with third parties other than our agents, or before we use it for a purpose other than which it was originally collected or subsequently authorized.
+* To limit the use and disclosure of your personal information, please submit a written request [here](https://system1.com/terms/privacy-policy/privacy-inquiries).
 
 ### Accessing and Correcting Your Information
 
@@ -142,46 +142,46 @@ This section of the Policy provides the information California residents need to
 
 In the year before the date this Policy was updated, on or through some of our Services we may have collected and/or shared (for operational purposes with providers who provide services for or to us in connection with developing, improving, providing and/or offering our Services) the following categories of California Information:
 
-*   Address and other identifiers — such as email address, device type, web-browser, operating system or other similar identifiers;
-*   Unique and online identifiers — such as IP address, device IDs derived from device type, or other similar identifiers;
-*   Characteristics of protected classifications — such as race, ethnicity, or sexual orientation;
-*   Certain commercial information — such as products or services purchased, obtained, or considered through our Services, or other purchasing or consuming histories or tendencies;
-*   Internet, gaming or other electronic network activity information — such as browsing history, search history and information regarding an individual’s interaction with an internet website, application, or advertisement;
-*   Location information – geo-location information about where you are accessing our Services (e.g. if you access our Services on your mobile or tablet device we may collect information about your device’s precise location to the extent feasible);
-*   Online viewing activities and habits (e.g., videos viewed, pages viewed); and
-*   Inferences drawn from California Information, such as individual profiles, preferences, characteristics and behaviors.
+* Address and other identifiers — such as email address, device type, web-browser, operating system or other similar identifiers;
+* Unique and online identifiers — such as IP address, device IDs derived from device type, or other similar identifiers;
+* Characteristics of protected classifications — such as race, ethnicity, or sexual orientation;
+* Certain commercial information — such as products or services purchased, obtained, or considered through our Services, or other purchasing or consuming histories or tendencies;
+* Internet, gaming or other electronic network activity information — such as browsing history, search history and information regarding an individual’s interaction with an internet website, application, or advertisement;
+* Location information – geo-location information about where you are accessing our Services (e.g. if you access our Services on your mobile or tablet device we may collect information about your device’s precise location to the extent feasible);
+* Online viewing activities and habits (e.g., videos viewed, pages viewed); and
+* Inferences drawn from California Information, such as individual profiles, preferences, characteristics and behaviors.
 
 We may have collected these categories of California Information for the following purposes:
 
-*   Performing services on behalf of our various businesses, such as user retention, providing content recommendations and/or processing information;
-*   Fraud and crime prevention;
-*   Debugging errors in systems;
-*   Marketing and advertising;
-*   Internal research, analytics and development — e.g., user-preference analytics; and
-*   Developing, maintaining, provisioning or upgrading networks, products, services, or devices.
+* Performing services on behalf of our various businesses, such as user retention, providing content recommendations and/or processing information;
+* Fraud and crime prevention;
+* Debugging errors in systems;
+* Marketing and advertising;
+* Internal research, analytics and development — e.g., user-preference analytics; and
+* Developing, maintaining, provisioning or upgrading networks, products, services, or devices.
 
 We may have obtained California Information from a variety of sources, including:
 
-*   Directly from you, including technical and usage information when you use our Services;
-*   Linked sites, such as social media sites, and other third-party platforms;
-*   Our various affiliated entities;
-*   Our joint-ventures and promotional and strategic partners;
-*   Information suppliers;
-*   Distributors, service providers and other vendors;
-*   Marketing mailing lists;
-*   Other users submitting California Information about you, such as to invite you to participate in an offering, make recommendations, or share content; and
-*   Publicly available sources.
+* Directly from you, including technical and usage information when you use our Services;
+* Linked sites, such as social media sites, and other third-party platforms;
+* Our various affiliated entities;
+* Our joint-ventures and promotional and strategic partners;
+* Information suppliers;
+* Distributors, service providers and other vendors;
+* Marketing mailing lists;
+* Other users submitting California Information about you, such as to invite you to participate in an offering, make recommendations, or share content; and
+* Publicly available sources.
 
 While the CCPA defines ‘sale’ very broadly, there is no industry-wide consensus whether enabling third parties to collect personal data via cookies and other similar tracking technologies for the purposes of delivering interest or location-based advertising and/or similar targeting activities constitutes a “sale” under the CCPA. However, a “sale” under the CCPA may be considered to include the sharing of California Information in exchange for anything of value. According to this broad definition, in the year before the date this Policy was updated, on or through some of our Services we may be deemed to have sold the following categories of California Information:
 
-*   Address and other identifiers — such as email address, device type, web-browser, operating system or other similar identifiers;
-*   Unique and online identifiers — such as IP address, device IDs derived from device type, or other similar identifiers;
-*   Characteristics of protected classifications — such as race, ethnicity, or sexual orientation;
-*   Certain commercial information — such as products or services purchased, obtained, or considered through our Services, or other purchasing or consuming histories or tendencies;
-*   Internet, gaming or other electronic network activity information — such as browsing history, search history and information regarding an individual’s interaction with an internet website, application, or advertisement;
-*   Location information – geo-location information about where you are accessing our Services (e.g. if you access our Services on your mobile or tablet device we may collect information about your device’s precise location to the extent feasible);
-*   Online viewing activities and habits (e.g., videos viewed, pages viewed); and
-*   Inferences drawn from California Information, such as individual profiles, preferences, characteristics and behaviors.
+* Address and other identifiers — such as email address, device type, web-browser, operating system or other similar identifiers;
+* Unique and online identifiers — such as IP address, device IDs derived from device type, or other similar identifiers;
+* Characteristics of protected classifications — such as race, ethnicity, or sexual orientation;
+* Certain commercial information — such as products or services purchased, obtained, or considered through our Services, or other purchasing or consuming histories or tendencies;
+* Internet, gaming or other electronic network activity information — such as browsing history, search history and information regarding an individual’s interaction with an internet website, application, or advertisement;
+* Location information – geo-location information about where you are accessing our Services (e.g. if you access our Services on your mobile or tablet device we may collect information about your device’s precise location to the extent feasible);
+* Online viewing activities and habits (e.g., videos viewed, pages viewed); and
+* Inferences drawn from California Information, such as individual profiles, preferences, characteristics and behaviors.
 
 **Your California Privacy Rights to Request Disclosure of Information We Collect and Share About You**
 
@@ -189,15 +189,15 @@ If you are a California resident, California Civil Code Section 1798.83 permits 
 
 In addition, if you are a California resident, the CCPA grants you the right to request certain information about our practices with respect to California Information. In particular, you can request the following:
 
-*   The categories and specific pieces of your California Information that we’ve collected;
-*   The categories of sources from which we collected your California Information;
-*   The business or commercial purposes for which we collected or ‘sold’ your California Information; and
-*   The categories or types of third parties with which we have shared your California Information.
+* The categories and specific pieces of your California Information that we’ve collected;
+* The categories of sources from which we collected your California Information;
+* The business or commercial purposes for which we collected or ‘sold’ your California Information; and
+* The categories or types of third parties with which we have shared your California Information.
 
 You can submit a request to us for the following additional information:
 
-*   The categories or types of third parties to which we’ve sold your California Information, and the category or categories of California Information sold to each.
-*   The categories or types of California Information that we’ve shared with service providers who provide services for us, like processing your bill.
+* The categories or types of third parties to which we’ve sold your California Information, and the category or categories of California Information sold to each.
+* The categories or types of California Information that we’ve shared with service providers who provide services for us, like processing your bill.
 
 To exercise your CCPA rights with respect to this information, please [contact us](https://system1.com/terms/privacy-policy/privacy-inquiries). These requests for disclosure are generally free.
 
