@@ -20,48 +20,48 @@ These Terms govern your use of the interactive websites, mobile and connected ap
 
 These Terms cover the following Ziff Davis websites and mobile applications:
 
-*   [Ziff Davis](http://www.ziffdavis.com/)
-*   [IGN](http://www.ign.com/), [IGN Canada](http://ca.ign.com/), [IGN UK](http://uk.ign.com/), [IGN Australia](http://au.ign.com/)
-*   [AskMen](http://www.askmen.com/), [AskMen Canada](http://ca.askmen.com/), [AskMen UK](http://uk.askmen.com/), [AskMen Australia](http://au.askmen.com/)
-*   [PCMag](http://www.pcmag.com/), [PCMag UK](http://uk.pcmag.com/), [PCMag Australia](http://au.pcmag.com/)
-*   [Geek](http://www.geek.com/)
-*   [ExtremeTech](http://www.extremetech.com/)
-*   [TechBargains](http://www.techbargains.com/)
-*   [Mashable](http://www.mashable.com/)
-*   [Offers.com](http://www.offers.com/)
-*   [Credit Cards Explained](http://www.creditcardsexplained.com/)
-*   [CouponCodes.com](http://www.couponcodes.com/)
-*   [Black Friday](http://www.blackfriday.com/)
-*   [Best Black Friday](http://www.bestblackfriday.com/)
-*   [Retail Me Not](https://www.retailmenot.com/)
-*   [Ookla](http://www.ookla.com/), [Speedtest.net](http://www.speedtest.net/), [Speedtest Custom](http://www.speedtestcustom.com/)
-*   [Toolbox.com](http://www.toolbox.com/), [Inside CRM](http://www.insidecrm.com/), [Inside-Erp](http://www.inside-erp.com/), [IT Management](http://www.itmanagement.com/), [IT Security](http://www.itsecurity.com/), [VoIP-News](http://www.voip-news.com/)
-*   [emedia.com](http://www.emedia.com/), [emedia.co.uk](http://www.emedia.co.uk/)
-*   [Salesify](http://www.salesify.com/), [B2BSignals](http://www.b2bsignals.com/)
-*   [Revenu8](https://revenu8.com/), [MarTechAdvisor](https://www.martechadvisor.com/), [ReadITQuick](https://www.readitquik.com/), [HRTechnologist](https://www.hrtechnologist.com/)
-*   [Ziff Davis Data](http://www.ziffdavisdata.net/)
-*   [Bestgifts.com](https://bestgifts.com/)
-*   [Deals of America](https://dealsofamerica.com/)
-*   [The Black Friday](https://theblackfriday.com/)
-*   [Mashable Shop](https://shop.mashable.com/)
-*   [IGN Store](https://store.ign.com/)
-*   [NursingALD](https://www.nursingald.com/)
+* [Ziff Davis](http://www.ziffdavis.com/)
+* [IGN](http://www.ign.com/), [IGN Canada](http://ca.ign.com/), [IGN UK](http://uk.ign.com/), [IGN Australia](http://au.ign.com/)
+* [AskMen](http://www.askmen.com/), [AskMen Canada](http://ca.askmen.com/), [AskMen UK](http://uk.askmen.com/), [AskMen Australia](http://au.askmen.com/)
+* [PCMag](http://www.pcmag.com/), [PCMag UK](http://uk.pcmag.com/), [PCMag Australia](http://au.pcmag.com/)
+* [Geek](http://www.geek.com/)
+* [ExtremeTech](http://www.extremetech.com/)
+* [TechBargains](http://www.techbargains.com/)
+* [Mashable](http://www.mashable.com/)
+* [Offers.com](http://www.offers.com/)
+* [Credit Cards Explained](http://www.creditcardsexplained.com/)
+* [CouponCodes.com](http://www.couponcodes.com/)
+* [Black Friday](http://www.blackfriday.com/)
+* [Best Black Friday](http://www.bestblackfriday.com/)
+* [Retail Me Not](https://www.retailmenot.com/)
+* [Ookla](http://www.ookla.com/), [Speedtest.net](http://www.speedtest.net/), [Speedtest Custom](http://www.speedtestcustom.com/)
+* [Toolbox.com](http://www.toolbox.com/), [Inside CRM](http://www.insidecrm.com/), [Inside-Erp](http://www.inside-erp.com/), [IT Management](http://www.itmanagement.com/), [IT Security](http://www.itsecurity.com/), [VoIP-News](http://www.voip-news.com/)
+* [emedia.com](http://www.emedia.com/), [emedia.co.uk](http://www.emedia.co.uk/)
+* [Salesify](http://www.salesify.com/), [B2BSignals](http://www.b2bsignals.com/)
+* [Revenu8](https://revenu8.com/), [MarTechAdvisor](https://www.martechadvisor.com/), [ReadITQuick](https://www.readitquik.com/), [HRTechnologist](https://www.hrtechnologist.com/)
+* [Ziff Davis Data](http://www.ziffdavisdata.net/)
+* [Bestgifts.com](https://bestgifts.com/)
+* [Deals of America](https://dealsofamerica.com/)
+* [The Black Friday](https://theblackfriday.com/)
+* [Mashable Shop](https://shop.mashable.com/)
+* [IGN Store](https://store.ign.com/)
+* [NursingALD](https://www.nursingald.com/)
 
 Applications:
 
-*   IGN: Video Game News, Reviews, Guides
-*   IGN App For PlayStation All-Stars Battle Royale
-*   IGN App For Elder Scrolls V: Skyrim
-*   IGN App For PlanetSide 2
-*   IGN: Video Game News, Reviews
-*   IGN App For GW2
-*   IGN App For Final Fantasy XIV: A Realm Reborn
-*   IGN App For Dead Space 3
-*   TechBargains
-*   PC Magazine
-*   Speedtest
-*   Deals of America
-*   The Black Friday
+* IGN: Video Game News, Reviews, Guides
+* IGN App For PlayStation All-Stars Battle Royale
+* IGN App For Elder Scrolls V: Skyrim
+* IGN App For PlanetSide 2
+* IGN: Video Game News, Reviews
+* IGN App For GW2
+* IGN App For Final Fantasy XIV: A Realm Reborn
+* IGN App For Dead Space 3
+* TechBargains
+* PC Magazine
+* Speedtest
+* Deals of America
+* The Black Friday
 
 We reserve the right, in our discretion, to change or modify all or any part of the Agreement at any time, effective immediately upon notice published on this page. Your use of the Services constitutes your binding acceptance of these terms and conditions, including any changes or modifications made by Ziff Davis as permitted above. Please be sure to review the Agreement periodically to ensure familiarity with the most current version. If at any time the terms and conditions of the Agreement are no longer acceptable to you, you should immediately cease all use of the Services. It is your responsibility to refer to the Agreement upon accessing the Services.
 
@@ -114,7 +114,7 @@ ZIFF DAVIS RESERVES THE RIGHT, AT ANY TIME, TO CHANGE ITS FEES AND/OR BILLING ME
 2\. Your Use of Content
 -----------------------
 
-You acknowledge that the Services contain information, software, articles, reviews, content, photographs, audio and video clips, graphics, links, logos, trademarks, the “look and feel” of our websites, applications and software and other material (collectively, the **“Content”**) that are protected by copyright, trademark and/or other proprietary rights of Ziff Davis or third parties. All Content on the Services is protected by applicable copyright laws. You agree to comply with all copyright laws and any copyright notices, information, or restrictions contained in any Content available on or accessed through the Services. Users of the Services may use the Content only for their personal, noncommercial use. Businesses, organizations or other legal entities may not become Members, and are not permitted to use the Services for any purpose, including but not limited to collecting usernames and/or email addresses of Members by electronic or other means for the purpose of sending unsolicited email and unauthorized framing of, or linking to, the Services or users on the Services. **Please refer to our [Linking Policy](http://www.ziffdavis.com/ziff-davis-linking-policy/) for more information on linking and use of Content.**
+You acknowledge that the Services contain information, software, articles, reviews, content, photographs, audio and video clips, graphics, links, logos, trademarks, the “look and feel” of our websites, applications and software and other material (collectively, the **“Content”**) that are protected by copyright, trademark and/or other proprietary rights of Ziff Davis or third parties. All Content on the Services is protected by applicable copyright laws. You agree to comply with all copyright laws and any copyright notices, information, or restrictions contained in any Content available on or accessed through the Services. Users of the Services may use the Content only for their personal, noncommercial use. Businesses, organizations or other legal entities may not become Members, and are not permitted to use the Services for any purpose, including but not limited to collecting usernames and/or email addresses of Members by electronic or other means for the purpose of sending unsolicited email and unauthorized framing of, or linking to, the Services or users on the Services. **Please refer to our [Linking Policy](http://www.ziffdavis.com/ziff-davis-linking-policy/) for more information on linking and use of Content.**
 
 Except as expressly permitted, you may not (i) modify, publish, transmit, reproduce, create derivative works from, distribute, perform, display, adapt, aggregate, sell, transfer or in any way exploit any of the Content, code or Material (defined below), in whole or in part, or (ii) use any robot, spider, site search and/or retrieval application, or other device to scrape, extract, retrieve or index any portion of the Services. Content consisting of downloadable or web-based software may not be reverse engineered unless specifically authorized by the owner of the software’s patent and/or copyright. You also agree not to circumvent, disable or otherwise interfere with any security related features of the Services or the Content, including features that prevent or restrict use or copying, or that enforce limitations on use.
 
@@ -131,17 +131,17 @@ For questions regarding use of Content please email [Brand\_Licensing@ziffdavis.
 
 Ziff Davis has the right, but not the obligation, to investigate any illegal and/or unauthorized use of the Services and appropriate legal action may be taken, including without limitation, civil, and injunctive relief. While utilizing the Services, you may not:
 
-*   Use the Services for any commercial purpose, to distribute any advertising or solicitation of funds or goods and services, or to solicit users to join competitive online services;
-*   Post on the Services any links to any external Internet sites that are obscene or pornographic, or display pornographic or sexually explicit material of any kind;
-*   Post on the Services or transmit through the Services any Material that violates or infringes another person’s intellectual property rights (including, but not limited to, third party music, videos, photos or other materials where you do not have written authority from the owner to post or transmit such materials);
-*   Post or transmit any Material that contains any advertising, promotional materials, “junk mail”, “spam”, “chain letters”, “pyramid schemes” or any other form of solicitation;
-*   Reformat, frame or mirror any portion of any web page that is part of the Service;
-*   Post Material containing restricted or password only access pages, or hidden pages or images (those not linked to or from another accessible page);
-*   Submit any Material that impersonates a person or entity, falsely implies sponsorship or endorsement of that Material by the Services, Ziff Davis and/or any third party, falsify or delete any author attributions in any Material, or promote any information that you know is false or misleading;
-*   Transmit any viruses, worms, defects, Trojan horses or other items of a contaminating or destructive nature through the Services or otherwise attempt to interfere with the proper working of the Service or the use and enjoyment of the Services by other users;
-*   Promote an illegal or unauthorized copy of another person’s copyrighted work, such as providing pirated computer programs or videos or links to them, providing information to circumvent manufacture-installed copy-protect devices, or providing pirated music or links to pirated music files;
-*   Submit Material, or engage in any activity, that is libelous, defamatory, obscene, pornographic, abusive, harassing, threatening, unlawful, or violates the rights of any third party (including their rights of privacy or publicity) or that promotes or encourages illegal activity, racism, bigotry, hatred, physical harm or discrimination of any kind against any group or individual; or
-*   Harvest or collect email addresses or other contact information of other users by electronic or other means.
+* Use the Services for any commercial purpose, to distribute any advertising or solicitation of funds or goods and services, or to solicit users to join competitive online services;
+* Post on the Services any links to any external Internet sites that are obscene or pornographic, or display pornographic or sexually explicit material of any kind;
+* Post on the Services or transmit through the Services any Material that violates or infringes another person’s intellectual property rights (including, but not limited to, third party music, videos, photos or other materials where you do not have written authority from the owner to post or transmit such materials);
+* Post or transmit any Material that contains any advertising, promotional materials, “junk mail”, “spam”, “chain letters”, “pyramid schemes” or any other form of solicitation;
+* Reformat, frame or mirror any portion of any web page that is part of the Service;
+* Post Material containing restricted or password only access pages, or hidden pages or images (those not linked to or from another accessible page);
+* Submit any Material that impersonates a person or entity, falsely implies sponsorship or endorsement of that Material by the Services, Ziff Davis and/or any third party, falsify or delete any author attributions in any Material, or promote any information that you know is false or misleading;
+* Transmit any viruses, worms, defects, Trojan horses or other items of a contaminating or destructive nature through the Services or otherwise attempt to interfere with the proper working of the Service or the use and enjoyment of the Services by other users;
+* Promote an illegal or unauthorized copy of another person’s copyrighted work, such as providing pirated computer programs or videos or links to them, providing information to circumvent manufacture-installed copy-protect devices, or providing pirated music or links to pirated music files;
+* Submit Material, or engage in any activity, that is libelous, defamatory, obscene, pornographic, abusive, harassing, threatening, unlawful, or violates the rights of any third party (including their rights of privacy or publicity) or that promotes or encourages illegal activity, racism, bigotry, hatred, physical harm or discrimination of any kind against any group or individual; or
+* Harvest or collect email addresses or other contact information of other users by electronic or other means.
 
 Health eCareers and NursingALD Material: The Health eCareers and NursingALD Services allow for the posting by employers, recruiters and staffing agencies of available job opportunities at their companies or companies they represent and by candidates of their own resumes. Ziff Davis is under no obligation to evaluate or censor the resumes, job listings or other information posted to the Health eCareers and NursingALD Services. Moreover, Ziff Davis is not involved in the actual transaction, if any, between potential employers and candidates. Consequently, we have no control over the quality, safety or legality of the job listings or resumes posted to the Services, the truth or accuracy of such job listings or resumes, the ability of employers to hire candidates, or the ability of the candidates to fill job openings. As a representative of your company in connection with your use of the Health eCareers Services, you represent and warrant to Ziff Davis that you are authorized to do so.
 
@@ -149,18 +149,18 @@ When you post Material on the Health eCareers and NursingALD Services, you are s
 
 The following additional restrictions apply to Material posted by you on the Health eCareers Services. You shall not do any of the following without the prior written authorization of Ziff Davis:
 
-*   Post any inaccurate, untimely, stale, incomplete or misleading information, including inaccurate biographical information;
-*   Post any employment opportunity or requirements that are inaccurate or not available with a verifiable company that is directly represented by you or your company;
-*   Post any employment opportunities that are not healthcare-related, or are outside a healthcare-related field or organization;
-*   Key code (through overuse of a skill set, term or definition within a job posting, profile, resume or otherwise in an effort to gain priority placement of a posting), copy other job postings as your own, post the same position multiple times on the Services or post multiple positions within one posting;
-*   Place any contact information within a job posting that is different from or in addition to contact information provided when subscribing to the Health eCareers Services;
-*   Post any employment opportunity that does not contain a valid application method (such as company URL, email address, or “apply online”) that is connected to the “Apply” button in the job posting;
-*   Place any content within the job details section of a job posting that directs job seekers to apply directly via an email address or any other method that circumvents the “Apply” link;
-*   Resell or make available to any person not expressly licensed by Ziff Davis, whether via phone, fax, email, mail or other medium, any of the Health eCareers Services or any information obtained therefrom, including, without limitation, resumes or candidate information;
-*   Allow job postings or employment requirements to remain posted on the Health eCareers Services for more than 24 hours after they are no longer viable or valid (to the extent that a position is placed on “hold” or is otherwise not available for immediate placement, the posting should be removed until such time as it is a viable opening);
-*   Respond to a job listing on behalf of anyone other than yourself;
-*   Delete or revise any Material posted by another person or entity; or
-*   Use, print, or otherwise copy any personal information of candidates for any purpose other than consideration of the candidates for potential employment by your company or a company you represent.
+* Post any inaccurate, untimely, stale, incomplete or misleading information, including inaccurate biographical information;
+* Post any employment opportunity or requirements that are inaccurate or not available with a verifiable company that is directly represented by you or your company;
+* Post any employment opportunities that are not healthcare-related, or are outside a healthcare-related field or organization;
+* Key code (through overuse of a skill set, term or definition within a job posting, profile, resume or otherwise in an effort to gain priority placement of a posting), copy other job postings as your own, post the same position multiple times on the Services or post multiple positions within one posting;
+* Place any contact information within a job posting that is different from or in addition to contact information provided when subscribing to the Health eCareers Services;
+* Post any employment opportunity that does not contain a valid application method (such as company URL, email address, or “apply online”) that is connected to the “Apply” button in the job posting;
+* Place any content within the job details section of a job posting that directs job seekers to apply directly via an email address or any other method that circumvents the “Apply” link;
+* Resell or make available to any person not expressly licensed by Ziff Davis, whether via phone, fax, email, mail or other medium, any of the Health eCareers Services or any information obtained therefrom, including, without limitation, resumes or candidate information;
+* Allow job postings or employment requirements to remain posted on the Health eCareers Services for more than 24 hours after they are no longer viable or valid (to the extent that a position is placed on “hold” or is otherwise not available for immediate placement, the posting should be removed until such time as it is a viable opening);
+* Respond to a job listing on behalf of anyone other than yourself;
+* Delete or revise any Material posted by another person or entity; or
+* Use, print, or otherwise copy any personal information of candidates for any purpose other than consideration of the candidates for potential employment by your company or a company you represent.
 
 _The above is not a complete list of illegal and/or prohibited uses of the Service._
 
@@ -173,14 +173,14 @@ Despite our rights outlined herein, you shall remain solely responsible for all 
 
 Ziff Davis has the right, but not the obligation, to take any of the following actions in our sole discretion at any time and for any reason without giving you any prior notice:
 
-*   Restrict, suspend, or terminate your access to all or any part of our Services;
-*   Change, suspend, or discontinue all or any part of our Services;
-*   Refuse, move, edit or remove any Material for any reason;
-*   Refuse, move, edit or remove any Content that is available on the Services;
-*   Deactivate or delete your account(s) and all related information and files in your account(s);
-*   Disclose your identity or other information about you to any third party who claims that Material posted by you violates their legal rights, including, but not limited to, their intellectual property rights or their rights of privacy or publicity;
-*   Disclose your identity or other information about you to law enforcement officials upon request if Ziff Davis determines in its sole discretion that such disclosure is in the interest of protecting its users or the public;
-*   Establish general practices and limits concerning use of our sites and Services.
+* Restrict, suspend, or terminate your access to all or any part of our Services;
+* Change, suspend, or discontinue all or any part of our Services;
+* Refuse, move, edit or remove any Material for any reason;
+* Refuse, move, edit or remove any Content that is available on the Services;
+* Deactivate or delete your account(s) and all related information and files in your account(s);
+* Disclose your identity or other information about you to any third party who claims that Material posted by you violates their legal rights, including, but not limited to, their intellectual property rights or their rights of privacy or publicity;
+* Disclose your identity or other information about you to law enforcement officials upon request if Ziff Davis determines in its sole discretion that such disclosure is in the interest of protecting its users or the public;
+* Establish general practices and limits concerning use of our sites and Services.
 
 You agree that Ziff Davis will not be liable to you or any third party for taking any of these actions. You understand and agree that our Services may include communications such as advertisements, service announcements and administrative messages from us or from our partners, and that these are considered part of the Services.
 
@@ -204,12 +204,12 @@ Please note that we may allow certain manufacturers to license, use and/or repri
 
 You agree to indemnify, defend and hold Ziff Davis and its affiliates, and their respective officers, directors, owners, agents, information providers and licensors (collectively, the “Ziff Davis Parties”) harmless from and against any and all claims, liability, losses, damages, costs and expenses (including attorneys’ fees) incurred by any Ziff Davis Party in connection with:
 
-*   Your use of, or connection to, our Services;
-*   Any use or alleged use of your accounts or your passwords by any person, whether or not authorized by you;
-*   The content, the quality, or the performance of Material that you submit;
-*   Your violation of the Agreement or the [Ziff Davis Privacy Policy](https://www.ziffdavis.com/privacy-policy);
-*   Your violation of the rights of any other person or entity; or
-*   Your violation of any applicable laws, rules or regulations.
+* Your use of, or connection to, our Services;
+* Any use or alleged use of your accounts or your passwords by any person, whether or not authorized by you;
+* The content, the quality, or the performance of Material that you submit;
+* Your violation of the Agreement or the [Ziff Davis Privacy Policy](https://www.ziffdavis.com/privacy-policy);
+* Your violation of the rights of any other person or entity; or
+* Your violation of any applicable laws, rules or regulations.
 
 Ziff Davis reserves the right, at its own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you, and in such case, you agree to cooperate with Ziff Davis’ defense of such claim
 
