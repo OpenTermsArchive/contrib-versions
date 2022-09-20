@@ -175,19 +175,19 @@ If you would like to make use of the Brand Features in a manner not within the f
 Q:  I want to use the LinkedIn logo on my business cards and/or website. Is that ok?
 ====================================================================================
 
-*   LinkedIn does not permit the use of the LinkedIn logo on business cards and/or website. However, you may use the ‘in’ logo on business cards and/or website to promote your presence on LinkedIn. See question below.
+* LinkedIn does not permit the use of the LinkedIn logo on business cards and/or website. However, you may use the ‘in’ logo on business cards and/or website to promote your presence on LinkedIn. See question below.
 
 Q:  I want to use the ‘in’ logo on my business cards and/or website. Is that ok?
 ================================================================================
 
-*   Permitted uses of the ‘in’ logo:  
+* Permitted uses of the ‘in’ logo:  
     o  Use in social buttons as a link to your LinkedIn page or profile  
     o  Use on business cards to indicate that you are a member of LinkedIn  
     o  Include the ‘in’ logo in a series of social media icons indicating your participation in those sites  
     o  Use the logo to allow users to sign-in to your website using their LinkedIn account  
       
     
-*   However, please do not do any of the following:  
+* However, please do not do any of the following:  
     o  Modify the ‘in’ logo in any way  
     o  Incorporate the ‘in’ logo into your own logo, brand, or domain name  
     o  Use the ‘in’ logo as an icon or link for any application other than LinkedIn
@@ -195,19 +195,19 @@ Q:  I want to use the ‘in’ logo on my business cards and/or website. Is 
 Q:  We are a corporate entity that uses LinkedIn. Can we use the LinkedIn logo on our corporate website?
 ========================================================================================================
 
-*   LinkedIn does not permit the use of the LinkedIn logo on third-party corporate website. See below question.
+* LinkedIn does not permit the use of the LinkedIn logo on third-party corporate website. See below question.
 
 Q:  We are a corporate entity that uses LinkedIn.  Can we use the ‘in’ logo on our corporate website?
 =====================================================================================================
 
-*   We allow the use of our ‘in’ logo to designate how to reach your organization’s LinkedIn page.
-*   Permitted uses of the ‘in’ logo:  
+* We allow the use of our ‘in’ logo to designate how to reach your organization’s LinkedIn page.
+* Permitted uses of the ‘in’ logo:  
     o  Use in social buttons as a link to your LinkedIn company’s page  
     o  Include the ‘in’ logo in a series of social media icons indicating your participation in those sites  
     o  Use the logo to allow users to sign-in to your website using their LinkedIn account  
       
     
-*   However, please do not do any of the following:  
+* However, please do not do any of the following:  
     o  Modify the ‘in’ logo in any way  
     o  Incorporate the ‘in’ logo into your own logo, brand, or domain name  
     o  Use the ‘in’ logo as an icon or link for any application other than LinkedIn
@@ -215,19 +215,19 @@ Q:  We are a corporate entity that uses LinkedIn.  Can we use the ‘in’ lo
 Q:  I want to use the LinkedIn logo or ‘in’ logo on promotional merchandise. Can I do that?
 ===========================================================================================
 
-*   No, we do not permit use of any of our logos on manufactured items such as t-shirts, mugs, or similar items
+* No, we do not permit use of any of our logos on manufactured items such as t-shirts, mugs, or similar items
 
 Q:  I want to use the LinkedIn name as part of my ad searches (i.e, Google adwords).  Can I do that?
 ====================================================================================================
 
-*   No, LinkedIn does not permit our name to be used in ad searches for third parties.
+* No, LinkedIn does not permit our name to be used in ad searches for third parties.
 
 Q:  The downloadable logo files on your website will not work for my needs. Can I get a different or modified logo?
 ===================================================================================================================
 
-*   LinkedIn does not permit any modifications of the LinkedIn or ‘in’ logo. For example, you may not modify the color or dimensions of the logo. You may not use a logo that you have obtained from a third-party website. You may not add text to the logo.
+* LinkedIn does not permit any modifications of the LinkedIn or ‘in’ logo. For example, you may not modify the color or dimensions of the logo. You may not use a logo that you have obtained from a third-party website. You may not add text to the logo.
 
 Q:  I believe a third-party website is using the LinkedIn and/or ‘in’ logo in a manner that violates the LinkedIn Brand Guidelines. What should I do?
 =====================================================================================================================================================
 
-*   We appreciate your assistance. Please send evidence of any possible TM or branding violations to: [TrademarkRequest@linkedin.com](mailto:TrademarkRequest@linkedin.com)
+* We appreciate your assistance. Please send evidence of any possible TM or branding violations to: [TrademarkRequest@linkedin.com](mailto:TrademarkRequest@linkedin.com)
