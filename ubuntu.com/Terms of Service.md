@@ -174,7 +174,7 @@ The open source software platform that runs everywhere from the smartphone, the 
     *   [Organisations](https://ubuntu.com/desktop/organisations)
     *   [Developers](https://ubuntu.com/desktop/developers)
     *   [Partners](https://ubuntu.com/desktop/partners)
-    *   [Statistics](https://ubuntu.com/desktop/statistics)
+    *   [Flavours](https://ubuntu.com/desktop/flavours)
 *   [Server](https://ubuntu.com/server) [Server](#)
     -----------------------------------------------
     
