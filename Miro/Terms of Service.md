@@ -1,19 +1,19 @@
 Terms of Service
 
-*   [Terms of Service](https://miro.com/legal/terms-of-service)
-*   [Master Cloud Agreement](https://miro.com/legal/master-cloud-agreement)
-*   [Privacy Policy](https://miro.com/legal/privacy-policy)
-*   [Recruitment Privacy Policy](https://miro.com/legal/recruitment-privacy-policy)
-*   [Cookies Policy](https://miro.com/legal/cookies-policy)
-*   [Developer Terms of Use](https://miro.com/legal/developer-terms-of-use)
-*   [Online Community Terms of Use](https://miro.com/legal/online-community-terms-of-use)
-*   [Open Source Software - Site](https://miro.com/legal/open-source-software-site)
-*   [Open Source Software - Client](https://miro.com/legal/open-source-software-client)
-*   [Current Subprocessors List](https://miro.com/legal/subprocessors-list)
-*   [Prior Master Cloud Agreement "MCA" Versions](https://miro.com/legal/prior-master-cloud-agreement-mca-versions)
-*   [Miro Marketplace Terms of Use](https://miro.com/legal/miro-marketplace-terms-of-use)
-*   [Code of Conduct](https://miro.com/legal/code-of-conduct)
-*   [Vendor Data Processing Addendum](https://miro.com/legal/vendor-data-processing-addendum)
+* [Terms of Service](https://miro.com/legal/terms-of-service)
+* [Master Cloud Agreement](https://miro.com/legal/master-cloud-agreement)
+* [Privacy Policy](https://miro.com/legal/privacy-policy)
+* [Recruitment Privacy Policy](https://miro.com/legal/recruitment-privacy-policy)
+* [Cookies Policy](https://miro.com/legal/cookies-policy)
+* [Developer Terms of Use](https://miro.com/legal/developer-terms-of-use)
+* [Online Community Terms of Use](https://miro.com/legal/online-community-terms-of-use)
+* [Open Source Software - Site](https://miro.com/legal/open-source-software-site)
+* [Open Source Software - Client](https://miro.com/legal/open-source-software-client)
+* [Current Subprocessors List](https://miro.com/legal/subprocessors-list)
+* [Prior Master Cloud Agreement "MCA" Versions](https://miro.com/legal/prior-master-cloud-agreement-mca-versions)
+* [Miro Marketplace Terms of Use](https://miro.com/legal/miro-marketplace-terms-of-use)
+* [Code of Conduct](https://miro.com/legal/code-of-conduct)
+* [Vendor Data Processing Addendum](https://miro.com/legal/vendor-data-processing-addendum)
 
 Terms of Service
 ----------------
