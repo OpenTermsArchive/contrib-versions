@@ -17,9 +17,9 @@ When you visit the Site, we automatically collect certain information about your
 
 We collect Device Information using the following technologies:
 
-*   "Cookies" are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit http://www.allaboutcookies.org.
-*   "Log files", and User Accounts, track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.
-*   "Web beacons", "tags", and "pixels" are electronic files used to record information about how you browse the Site.
+* "Cookies" are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit http://www.allaboutcookies.org.
+* "Log files", and User Accounts, track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.
+* "Web beacons", "tags", and "pixels" are electronic files used to record information about how you browse the Site.
 
 Additionally when you make a purchase or attempt to make a purchase through the Site, we collect certain information from you, including your name, billing address, shipping address, payment information (including credit card numbers, email address, and phone number. We refer to this information as "Order Information".
 
@@ -34,16 +34,16 @@ How do we use your personal information?
 
 We use the Order Information that we collect generally to fulfill any orders placed through the Site (including processing your payment information, arranging for shipping, and providing you with invoices and/or order confirmations). Additionally, we use this Order Information to:
 
-*   Communicate with you;
-*   Screen our orders for potential risk or fraud; and
-*   When in line with the preferences you have shared with us, provide you with information or advertising relating to our products or services.
+* Communicate with you;
+* Screen our orders for potential risk or fraud; and
+* When in line with the preferences you have shared with us, provide you with information or advertising relating to our products or services.
 
 We use the Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the Site, and to assess the success of our marketing and advertising campaigns).
 
 We use your account information that we collect generally to generate statistics for you, and provide personalized roadmaps. Additionally, we use this information to:
 
-*   Communicate with you;
-*   When in line with the preferences you have shared with us, provide you with information or advertising relating to our products or services.
+* Communicate with you;
+* When in line with the preferences you have shared with us, provide you with information or advertising relating to our products or services.
 
 * * *
 
@@ -69,9 +69,9 @@ As described above, we use your Personal Information to provide you with targete
 
 You can opt out of targeted advertising by using the links below:
 
-*   \- Facebook: https://www.facebook.com/settings/?tab=ads
-*   \- Google: https://www.google.com/settings/ads/anonymous
-*   \- Bing: https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads
+* \- Facebook: https://www.facebook.com/settings/?tab=ads
+* \- Google: https://www.google.com/settings/ads/anonymous
+* \- Bing: https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads
 
 You can get a full list of the partners we use by accessing our ads.txt file.
 
@@ -129,8 +129,8 @@ Our Tryit Editor allows users to store code to, or import code from, Google Driv
 
 This allows users to:
 
-*   Store examples/code to their Google Drive
-*   Share examples/code through Google Drive
+* Store examples/code to their Google Drive
+* Share examples/code through Google Drive
 
 W3Schools does not keep for ourselves, or share this information with third parties.
 
