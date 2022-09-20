@@ -3,15 +3,11 @@ SIMPLI.FI Website Privacy Policy
 
 [![TRUSTe Privacy Certification](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![TRUSTe Privacy Certification](//privacy-policy.truste.com/privacy-seal/seal?rid=f535d01d-afd3-4141-baa1-3db679535a5f)
-
-](https://privacy.truste.com/privacy-seal/validation?rid=f535d01d-afd3-4141-baa1-3db679535a5f "TRUSTe Privacy Certification")
+![TRUSTe Privacy Certification](//privacy-policy.truste.com/privacy-seal/seal?rid=f535d01d-afd3-4141-baa1-3db679535a5f)](https://privacy.truste.com/privacy-seal/validation?rid=f535d01d-afd3-4141-baa1-3db679535a5f "TRUSTe Privacy Certification")
 
 [![TRUSTe](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![TRUSTe](//privacy-policy.truste.com/privacy-seal/seal?rid=8ca39875-b9cf-402d-a502-283cc0432a0b)
-
-](https://privacy.truste.com/privacy-seal/validation?rid=8ca39875-b9cf-402d-a502-283cc0432a0b)
+![TRUSTe](//privacy-policy.truste.com/privacy-seal/seal?rid=8ca39875-b9cf-402d-a502-283cc0432a0b)](https://privacy.truste.com/privacy-seal/validation?rid=8ca39875-b9cf-402d-a502-283cc0432a0b)
 
 **Effective Date**  
 October 6, 2021
@@ -48,10 +44,10 @@ We will not sell, trade or share your Personal Information with other companies 
 
 We may share the information we collect with other parties for other reasons, including the following:
 
-*   With our affiliates and third party vendors who provide services on our behalf, such as an email marketing company who distributes our newsletters to our users, and our third party payment processors who process your transactions. These companies are authorized to use your Personal Information only as necessary to provide these services to us.
-*   Simplifi may also disclose any information if required to do so by law or in the good faith belief that such action is necessary to: (1) comply with the law or comply with legal process served on Simplifi, (2) protect and defend the rights or property of Simplifi; (3) protect the personal safety of users of Simplifi, its Site and other services, or the public; (4) provide updates and services that may be of interest to the user; or (5) prevent online fraud or other cyber threats, for example through an online threat exchange, or to report, detect and/or prevent security events.
-*   Simplifi is required to disclose Personal Information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
-*   We may disclose Personal Information with your consent.
+* With our affiliates and third party vendors who provide services on our behalf, such as an email marketing company who distributes our newsletters to our users, and our third party payment processors who process your transactions. These companies are authorized to use your Personal Information only as necessary to provide these services to us.
+* Simplifi may also disclose any information if required to do so by law or in the good faith belief that such action is necessary to: (1) comply with the law or comply with legal process served on Simplifi, (2) protect and defend the rights or property of Simplifi; (3) protect the personal safety of users of Simplifi, its Site and other services, or the public; (4) provide updates and services that may be of interest to the user; or (5) prevent online fraud or other cyber threats, for example through an online threat exchange, or to report, detect and/or prevent security events.
+* Simplifi is required to disclose Personal Information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+* We may disclose Personal Information with your consent.
 
 Sale of Assets
 --------------
@@ -122,8 +118,8 @@ RIGHTS FOR CALIFORNIA RESIDENTS
 
 Our clients who are California residents have certain rights under the California Consumer Privacy Act (“CCPA”) with respect to the personal information that we collect about you:
 
-*   With respect to the right to opt out of sales of personal information, we do not and will not sell your personal information in any manner that requires an opt-out opportunity under the CCPA.
-*   If we engaged in sales, you would have the right not to receive discriminatory treatment for the exercise of your opt-out right conferred by the CCPA.
+* With respect to the right to opt out of sales of personal information, we do not and will not sell your personal information in any manner that requires an opt-out opportunity under the CCPA.
+* If we engaged in sales, you would have the right not to receive discriminatory treatment for the exercise of your opt-out right conferred by the CCPA.
 
 THIRD-PARTY LINKS AND TOOLS
 ---------------------------
