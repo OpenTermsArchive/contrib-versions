@@ -14,8 +14,8 @@ And a notice to California subscribers: You may cancel your subscription and req
 
 Before you can use the App, you will need to register for an account (“Account”). In order to create an Account you must:
 
-1.  be at least 18 years old or the age of majority to legally enter into a contract under the laws of your home country; and
-2.  be legally permitted to use the App by the laws of your home country.
+1. be at least 18 years old or the age of majority to legally enter into a contract under the laws of your home country; and
+2. be legally permitted to use the App by the laws of your home country.
 
 You can create an Account via manual registration, or by using your Facebook login details. If you create an Account using your Facebook login details, you authorise us to access, display and use certain information from your Facebook account (e.g. profile pictures, relationship status, location and information about Facebook friends). For more information about what information we use and how we use it, please check out our [Privacy Policy](https://bumble.com/en/privacy).
 
@@ -32,26 +32,26 @@ You may not access, tamper with, or use non-public areas of the App or our syste
 
 There are three types of content that you will be able to access on the App:
 
-1.  content that you upload and provide (“Your Content”);
-2.  content that members provide (“Member Content”); and
-3.  content that the Bumble Group provides (including, without limitation, database(s) and/or software) (“Our Content”).
+1. content that you upload and provide (“Your Content”);
+2. content that members provide (“Member Content”); and
+3. content that the Bumble Group provides (including, without limitation, database(s) and/or software) (“Our Content”).
 
 **There is certain content we can’t allow on Bumble**
 
 We want our users to be able express themselves as much as possible and post all sorts of things on Bumble, but we have to impose restrictions on certain content which:
 
-*   contains language or imagery which could be deemed offensive or is likely to harass, upset, embarrass, alarm or annoy any other person (including for example and without limitation, language that could be deemed discriminatory towards an individual’s race, colour, ethnicity, national origin, religion, disability, sexual orientation, gender expression, gender identity or physical appearance);
-*   is obscene, pornographic, violent or otherwise may offend human dignity (including for example and without limitation, language that could be deemed discriminatory towards an individual’s race, colour, ethnicity, national origin, religion, disability, sexual orientation, gender expression, gender identity or physical appearance);
-*   is abusive, insulting or threatening, discriminatory or which promotes or encourages racism, sexism, hatred or bigotry (including for example and without limitation, language that could be deemed discriminatory towards an individual’s race, colour, ethnicity, national origin, religion, disability, sexual orientation, gender expression, gender identity or physical appearance);
-*   encourages any illegal activity including, without limitation, terrorism, inciting racial hatred or the submission of which in itself constitutes committing a criminal offence;
-*   is defamatory or libellous;
-*   relates to commercial activities (including, without limitation, sales, competitions and advertising, links to other websites or premium line telephone numbers);
-*   involves the transmission of “junk” mail or “spam”;
-*   contains any spyware, adware, viruses, corrupt files, worm programmes or other malicious code designed to interrupt, damage or limit the functionality of or disrupt any software, hardware, telecommunications, networks, servers or other equipment, Trojan horse or any other material designed to damage, interfere with, wrongly intercept or expropriate any data or personal information whether from Bumble or otherwise;
-*   itself, or the posting of which, infringes any third party’s rights (including, without limitation, intellectual property rights and privacy rights);
-*   shows another person which was created or distributed without that person’s consent;
-*   is harmful to minors; or
-*   impersonates any other person, including falsely stating your name.
+* contains language or imagery which could be deemed offensive or is likely to harass, upset, embarrass, alarm or annoy any other person (including for example and without limitation, language that could be deemed discriminatory towards an individual’s race, colour, ethnicity, national origin, religion, disability, sexual orientation, gender expression, gender identity or physical appearance);
+* is obscene, pornographic, violent or otherwise may offend human dignity (including for example and without limitation, language that could be deemed discriminatory towards an individual’s race, colour, ethnicity, national origin, religion, disability, sexual orientation, gender expression, gender identity or physical appearance);
+* is abusive, insulting or threatening, discriminatory or which promotes or encourages racism, sexism, hatred or bigotry (including for example and without limitation, language that could be deemed discriminatory towards an individual’s race, colour, ethnicity, national origin, religion, disability, sexual orientation, gender expression, gender identity or physical appearance);
+* encourages any illegal activity including, without limitation, terrorism, inciting racial hatred or the submission of which in itself constitutes committing a criminal offence;
+* is defamatory or libellous;
+* relates to commercial activities (including, without limitation, sales, competitions and advertising, links to other websites or premium line telephone numbers);
+* involves the transmission of “junk” mail or “spam”;
+* contains any spyware, adware, viruses, corrupt files, worm programmes or other malicious code designed to interrupt, damage or limit the functionality of or disrupt any software, hardware, telecommunications, networks, servers or other equipment, Trojan horse or any other material designed to damage, interfere with, wrongly intercept or expropriate any data or personal information whether from Bumble or otherwise;
+* itself, or the posting of which, infringes any third party’s rights (including, without limitation, intellectual property rights and privacy rights);
+* shows another person which was created or distributed without that person’s consent;
+* is harmful to minors; or
+* impersonates any other person, including falsely stating your name.
 
 Bumble Group operates a zero-tolerance policy for this kind of content.
 
@@ -83,10 +83,10 @@ You may be wondering what happens to the rest of the Content on Bumble. Well, it
 
 We grant you a non-exclusive, limited, personal, non-transferable, revocable, licence to access and use Our Content, without the right to sublicense, under the following conditions:
 
-1.  you shall not use, sell, modify, or distribute Our Content except as permitted by the functionality of the App;
-2.  you shall not use our name in metatags, keywords and/or hidden text;
-3.  you shall not create derivative works from Our Content or scrape, disable, decompile, analyse or in any way commercially exploit Our Content, in whole or in part, in any way; and
-4.  you shall use Our Content for lawful purposes only.
+1. you shall not use, sell, modify, or distribute Our Content except as permitted by the functionality of the App;
+2. you shall not use our name in metatags, keywords and/or hidden text;
+3. you shall not create derivative works from Our Content or scrape, disable, decompile, analyse or in any way commercially exploit Our Content, in whole or in part, in any way; and
+4. you shall use Our Content for lawful purposes only.
 
 We reserve all other rights.
 
@@ -99,18 +99,18 @@ Since Bumble is an online community, we generally try to avoid getting in the wa
 
 You agree to:
 
-*   comply with all applicable laws, including without limitation, privacy laws, intellectual property laws, anti-spam laws, equal opportunity laws and regulatory requirements;
-*   use your real name and real age in creating your Bumble account and on your profile; and
-*   use the services in a professional manner.
+* comply with all applicable laws, including without limitation, privacy laws, intellectual property laws, anti-spam laws, equal opportunity laws and regulatory requirements;
+* use your real name and real age in creating your Bumble account and on your profile; and
+* use the services in a professional manner.
 
 You agree that you will not:
 
-*   act in an unlawful or unprofessional manner including being dishonest, abusive or discriminatory;
-*   misrepresent your identity, your age, your current or previous positions, qualifications or affiliations with a person or entity;
-*   disclose information that you do not have the consent to disclose;
-*   stalk or harass any other user of the App;
-*   create or operate a pyramid scheme, fraud or other similar practice, or;
-*   develop, support or use software, devices, scripts, robots, other types of mobile code or any other means or processes (including crawlers, browser plugins and add-on or other technology) to scrape or otherwise exfiltrate from Bumble or its services, or otherwise copy profiles and other data from the services.
+* act in an unlawful or unprofessional manner including being dishonest, abusive or discriminatory;
+* misrepresent your identity, your age, your current or previous positions, qualifications or affiliations with a person or entity;
+* disclose information that you do not have the consent to disclose;
+* stalk or harass any other user of the App;
+* create or operate a pyramid scheme, fraud or other similar practice, or;
+* develop, support or use software, devices, scripts, robots, other types of mobile code or any other means or processes (including crawlers, browser plugins and add-on or other technology) to scrape or otherwise exfiltrate from Bumble or its services, or otherwise copy profiles and other data from the services.
 
 We don’t like users misbehaving in the Bumble community. You can report any abuse or complain about Member Content by contacting us, outlining the abuse and/or complaint. You can also report a user directly from a profile or in chat by clicking the ‘Block & Report’ link. We reserve the right to investigate any possible violations of these Terms, any Bumble user’s rights, or any third party rights and we may, in our sole discretion, immediately terminate any user’s right to use of the App without prior notice, as set out further in Section 1 above, and/or remove any improper, infringing or otherwise unauthorised Member Content submitted to the App.
 
@@ -201,11 +201,11 @@ THE LIMITATION OF LIABILITY HEREIN IS A FUNDAMENTAL ELEMENT OF THE BASIS OF THE 
 
 All the actions you make and information you post on Bumble remain your responsibility. Therefore, you agree to indemnify, defend, release, and hold us, and our partners, licensors, affiliates, contractors, officers, directors, employees, representatives and agents, harmless, from and against any third party claims, damages (actual and/or consequential), actions, proceedings, demands, losses, liabilities, costs and expenses (including reasonable legal fees) suffered or reasonably incurred by us arising as a result of, or in connection with:
 
-1.  any negligent acts, omissions or wilful misconduct by you;
-2.  your access to and use of the App;
-3.  the uploading or submission of Content to the App by you;
-4.  any breach of these Terms by you; and/or
-5.  your violation of any law or of any rights of any third party.
+1. any negligent acts, omissions or wilful misconduct by you;
+2. your access to and use of the App;
+3. the uploading or submission of Content to the App by you;
+4. any breach of these Terms by you; and/or
+5. your violation of any law or of any rights of any third party.
 
 We retain the exclusive right to settle, compromise and pay any and all claims or causes of action which are brought against us without your prior consent. If we ask, you will co-operate fully and reasonably as required by us in the defence of any relevant claim.
 
@@ -216,12 +216,12 @@ The foregoing provision does not require you to indemnify Bumble Group for any u
 
 If you believe any content on Bumble infringes the copyright in a work that you own, please submit a notification alleging such infringement (“DMCA Takedown Notice”) to Bumble Group’s Copyright Agent. The Takedown Notice must include the following:
 
-1.  A physical or electronic signature of a person authorised to act on behalf of the owner of an exclusive right that is allegedly infringed;
-2.  Identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works;
-3.  Identification of the material claimed to be infringing or to be the subject of infringing activity and that is to be removed or access disabled and information reasonably sufficient to permit the service provider to locate the material;
-4.  Information reasonably sufficient to permit the service provider to contact you, such as an address, telephone number, and, if available, an electronic mail;
-5.  A statement that you have a good faith belief that use of the material in the manner complained of is not authorised by the copyright owner, its agent, or the law; and
-6.  A statement that, under penalty of perjury, the information in the notification is accurate and you are authorised to act on behalf of the owner of the exclusive right that is allegedly infringed.
+1. A physical or electronic signature of a person authorised to act on behalf of the owner of an exclusive right that is allegedly infringed;
+2. Identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works;
+3. Identification of the material claimed to be infringing or to be the subject of infringing activity and that is to be removed or access disabled and information reasonably sufficient to permit the service provider to locate the material;
+4. Information reasonably sufficient to permit the service provider to contact you, such as an address, telephone number, and, if available, an electronic mail;
+5. A statement that you have a good faith belief that use of the material in the manner complained of is not authorised by the copyright owner, its agent, or the law; and
+6. A statement that, under penalty of perjury, the information in the notification is accurate and you are authorised to act on behalf of the owner of the exclusive right that is allegedly infringed.
 
 Takedown Notices should be sent to Bumble Group’s Copyright Agent at [copyright@team.bumble.com](mailto:copyright@team.bumble.com). If you wish to reach out to Bumble Group’s Copyright Agent via other methods, you can write to: Bumble, Attn: Bumble Group’s Copyright Agent, P.O. Box 300940, Austin, Texas, 78703; or phone: +1 - 512-696-1409.
 
@@ -230,10 +230,10 @@ Takedown Notices should be sent to Bumble Group’s Copyright Agent at [copyrigh
 
 The following additional terms and conditions apply to you if you download the App from a Third Party Store. To the extent that the other terms and conditions of these Terms are less restrictive than, or otherwise conflict with, the terms and conditions of this Section, the more restrictive or conflicting terms and conditions in this Section will apply, but solely with respect to the App and the Third Party Store. You acknowledge and agree that:
 
-1.  These Terms are concluded solely between you and the Bumble Group and not with the providers of the Third Party Store, and the Bumble Group (and not the Third Party Store providers) is solely responsible for the App and the content thereof. To the extent that these Terms provide for usage rules for the App which are less restrictive or in conflict with the applicable terms of service of the Third Party Store from which you obtain the App, the more restrictive or conflicting term of the Third Party Store will take precedence and will apply.
-2.  The Third Party Store provider has no obligation whatsoever to provide any maintenance and support services with respect to the App. The Bumble Group is solely responsible for any product warranties, whether express or implied by law, to the extent not effectively disclaimed. The Third Party Store provider will have no warranty obligation whatsoever with respect to the App, and any other claims, losses, liabilities, damages, costs or expenses attributable to any failure to conform to any warranty will be the sole responsibility of the Bumble Group.
-3.  The Bumble Group, not the Third Party Store provider, is responsible for addressing any claims you or any third party may have relating to the App or your possession and/or use of the App, including, but not limited to: (i) product liability claims; (ii) any claim that the App fails to conform to any applicable legal or regulatory requirement; (iii) claims arising under consumer protection or similar legislation; and/or (iv) intellectual property infringement claims.
-4.  The Third Party Store provider and its subsidiaries are third party beneficiaries of these Terms, and, upon your acceptance of these Terms, the Third Party Store provider from whom you obtained the App will have the right (and will be deemed to have accepted the right) to enforce these Terms against you as a third party beneficiary thereof.
+1. These Terms are concluded solely between you and the Bumble Group and not with the providers of the Third Party Store, and the Bumble Group (and not the Third Party Store providers) is solely responsible for the App and the content thereof. To the extent that these Terms provide for usage rules for the App which are less restrictive or in conflict with the applicable terms of service of the Third Party Store from which you obtain the App, the more restrictive or conflicting term of the Third Party Store will take precedence and will apply.
+2. The Third Party Store provider has no obligation whatsoever to provide any maintenance and support services with respect to the App. The Bumble Group is solely responsible for any product warranties, whether express or implied by law, to the extent not effectively disclaimed. The Third Party Store provider will have no warranty obligation whatsoever with respect to the App, and any other claims, losses, liabilities, damages, costs or expenses attributable to any failure to conform to any warranty will be the sole responsibility of the Bumble Group.
+3. The Bumble Group, not the Third Party Store provider, is responsible for addressing any claims you or any third party may have relating to the App or your possession and/or use of the App, including, but not limited to: (i) product liability claims; (ii) any claim that the App fails to conform to any applicable legal or regulatory requirement; (iii) claims arising under consumer protection or similar legislation; and/or (iv) intellectual property infringement claims.
+4. The Third Party Store provider and its subsidiaries are third party beneficiaries of these Terms, and, upon your acceptance of these Terms, the Third Party Store provider from whom you obtained the App will have the right (and will be deemed to have accepted the right) to enforce these Terms against you as a third party beneficiary thereof.
 
 In the event of a conflict between a Third Party Store’s or mobile carrier’s applicable terms and conditions and these Terms, the terms and conditions of the Third Party Store or mobile carrier shall govern and control. We are not responsible and have no liability whatsoever for third-party goods or services you obtain through a Third Party Store or mobile carrier. We encourage you to make whatever investigation you feel necessary or appropriate before proceeding with any online transaction with any of these third parties.
 
@@ -309,15 +309,15 @@ No failure or delay in exercising any right, power or privilege under the Terms 
 
 You represent and warrant that:
 
-1.  you are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a “terrorist supporting” country; and
-2.  you are not listed on any U.S. Government list of prohibited or restricted parties.
+1. you are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a “terrorist supporting” country; and
+2. you are not listed on any U.S. Government list of prohibited or restricted parties.
 
 By using the App, you agree and acknowledge that Bumble is a global app operating through servers located in a number of countries around the world, including the United States. If you live in a country with data protection laws, the storage of your personal data may not provide you with the same protections as you enjoy in your country of residence. By submitting your personal information, or by choosing to upgrade the services you use, or by making use of the applications available on Bumble, you agree to the transfer of your personal information to, and storage and processing of your personal information in, any such countries and destinations.
 
 The App may contain links to third-party websites or resources. In such cases, you acknowledge and agree that we are not responsible or liable for:
 
-1.  the availability or accuracy of such websites or resources; or
-2.  the content, products, or services on or available from such websites or resources.
+1. the availability or accuracy of such websites or resources; or
+2. the content, products, or services on or available from such websites or resources.
 
 Links to such websites or resources do not imply any endorsement. You acknowledge sole responsibility for and assume all risk arising from your use of any such websites or resources. Framing, in-line linking or other methods of association with the App are expressly prohibited without first obtaining our prior written approval.
 
