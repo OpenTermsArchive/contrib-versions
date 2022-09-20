@@ -8,7 +8,7 @@ Updated: 4/8/2022
 
   
 
-This Privacy Policy explains what personal information WarnerMedia companies ("we", "us", or "our") collect, use, share and otherwise process about individuals (“you”) interacting with our Offerings (“**Information**”). Also, this Privacy Policy does not apply to Digital Services that are online services targeted at children. You can learn more about affiliated companies by visiting our [controller and affiliate site](https://www.warnermediaprivacy.com/policycenter/b2c/affiliateslist/) ([https://www.warnermediaprivacy.com/policycenter/b2c/affiliateslist/](https://www.warnermediaprivacy.com/policycenter/b2c/affiliateslist/)).
+This Privacy Policy explains what personal information WarnerMedia companies ("we", "us", or "our") collect, use, share and otherwise process about individuals (“you”) interacting with our Offerings (“**Information**”). Also, this Privacy Policy does not apply to Digital Services that are online services targeted at children. You can learn more about affiliated companies by visiting our [controller and affiliate site](https://www.warnermediaprivacy.com/policycenter/b2c/affiliateslist/) ([https://www.warnermediaprivacy.com/policycenter/b2c/affiliateslist/](https://www.warnermediaprivacy.com/policycenter/b2c/affiliateslist/)).
 
   
 
@@ -31,19 +31,19 @@ Please read this policy carefully. It explains the types of Information we may c
 
 **Digital Services:**
 
-*   Our websites, including activities run through our websites, such as surveys, research studies, focus group tests, promotions, competitions and prize-draws, purchases within our services, calls to action for user-generated content (“UGC”) and subscribing for newsletters;
-*   Mobile apps, including activities run through our apps, such as those listed for our websites;
-*   Subscription services or other streaming services offered by us to consumers and services where you receive our audio-visual content through our websites, mobile apps and/or via a service provided by a third party, such as an internet service provider, pay TV platform or mobile phone operator;
-*   Console games;
-*   Our fan pages/channels/accounts on third party social networks (e.g. official pages on Facebook, Instagram, Twitter).
+* Our websites, including activities run through our websites, such as surveys, research studies, focus group tests, promotions, competitions and prize-draws, purchases within our services, calls to action for user-generated content (“UGC”) and subscribing for newsletters;
+* Mobile apps, including activities run through our apps, such as those listed for our websites;
+* Subscription services or other streaming services offered by us to consumers and services where you receive our audio-visual content through our websites, mobile apps and/or via a service provided by a third party, such as an internet service provider, pay TV platform or mobile phone operator;
+* Console games;
+* Our fan pages/channels/accounts on third party social networks (e.g. official pages on Facebook, Instagram, Twitter).
 
   
 
 **Offline Services:**
 
-*   Studio tours;
-*   Attractions and exhibitions (e.g. theme parks, marketing activations at conventions or other public places, in person VR experiences); and 
-*   Events you attend as a consumer or guest (as opposed to in a business capacity) such as film premieres, marketing and influencer events, focus group or user tests and private events held at our premises or studios under hire.
+* Studio tours;
+* Attractions and exhibitions (e.g. theme parks, marketing activations at conventions or other public places, in person VR experiences); and 
+* Events you attend as a consumer or guest (as opposed to in a business capacity) such as film premieres, marketing and influencer events, focus group or user tests and private events held at our premises or studios under hire.
 
   
 
@@ -60,19 +60,19 @@ We collect, use, share and otherwise process the following categories of Informa
 
   
 
-*   **Registration, account, and sign-up Information**, including information about you when you register or sign up with us for one of our Offerings (e.g. name, username, password, email, contact details, date of birth or age, interest in our content, etc.) 
-*   **Information about your purchase of an Offering**, including relevant payment information (e.g. credit card information). We may also process Information about trial periods, redemptions of rewards or promotions, periods without an active subscription, payment history and any missed payments.
-*   **Information about your use of, or participation in an Offering**, including information about whether you have opened an email we have sent you, how you (including any account you use) interact with a Digital Service, content that you have viewed or posted, advertisements you have interacted with, games you have played and the level you reached, your preferences and interest in and use of various features, programs, services and content available on a Digital Service. This may also include demographic information, including at an individual or household level.
-*   **Information you provide when participating in consumer surveys, research studies or focus group tests**, including online or written replies and where applicable the recording of your audio or video interviews.
-*   **Entries to promotions, competitions, prize-draws or calls to action**, including images, videos and text.
-*   **Camera access**, including where for some Digital Services, we ask for permission to access your device’s camera. If you grant permission, you may be able to take pictures or video within the app experience, to send them to us, or to access certain augmented reality (“AR”) features. Some of these features may rely on camera systems to track movements of your eyes and other facial features or your immediate surroundings to apply AR effects.
-*   **Sensitive data**, including where you choose to share Information as part of one of our Offerings, or where you provide Information during one of our surveys or feedback sessions, including, where permitted by applicable law, information relating to your physical or mental health, race or ethnicity, religious or philosophical beliefs, sex life or sexual orientation, or your political beliefs. In some Offerings that include dynamic entertainment features, we may with your consent and in accordance with applicable law, collect information such as via facial scanning, eye tracking, or skin response that may be considered biometric.
-*   **Information about your social media engagement**, including your interactions with our fan pages/channels/accounts in third party communities, forums, and social media sites, services, plug-ins, and applications (“**Social Media Sites**”). This may include posts, your 'likes' and other user-generated content that you may provide, as well as details about yourself such as your name, user ID, profile photo, birthday, and, where you allow us to, lists of friends and people you follow. For information about how you can customize your privacy settings on Social Media Sites, and how those Social Media Sites handle your personal information and content, please refer to their privacy help guides, privacy policies, and terms of use.
-*   **Information shared on public or community forums**, including where you share photos, letters, videos or comments, while participating in online forums. Depending on your privacy settings, this Information or content and your username may become public on the Internet or within a community of users. We cannot prevent further use of this Information once you share it in a publicly available or community forum. Please refer to the specific forum’s privacy policies for further information on how they handle your Information. 
-*   **Information about your location**, including where it is derived from device information (such as an IP address or country code), your device’s interactions with our Digital Services, or, with your consent, Information about your device’s precise location (e.g. geolocation via mobile devices).
-*   **Event Information**, including images and clips, whether captured via a booth or by other means by us or a third party on our behalf, and other Information relating to the organisation and management of an event, such as food allergies and other individual requirements. 
-*   **Technical/usage Information from your device**, including the type of device, browser, unique device identifier, operating system, internet provider, mobile device identifier and/or mobile advertising identifier, connected device identifier (including that of a connected television), IP address, network attributes, television device and application attributes and settings, and other device or browser attributes and settings. 
-*   **Information about your customer queries**, including when you contact us through one of our customer helpdesks, email addresses, customer service chat boxes, forms or ticketing systems, Social Media Sites and customer call-centres, where calls may be recorded. 
+* **Registration, account, and sign-up Information**, including information about you when you register or sign up with us for one of our Offerings (e.g. name, username, password, email, contact details, date of birth or age, interest in our content, etc.) 
+* **Information about your purchase of an Offering**, including relevant payment information (e.g. credit card information). We may also process Information about trial periods, redemptions of rewards or promotions, periods without an active subscription, payment history and any missed payments.
+* **Information about your use of, or participation in an Offering**, including information about whether you have opened an email we have sent you, how you (including any account you use) interact with a Digital Service, content that you have viewed or posted, advertisements you have interacted with, games you have played and the level you reached, your preferences and interest in and use of various features, programs, services and content available on a Digital Service. This may also include demographic information, including at an individual or household level.
+* **Information you provide when participating in consumer surveys, research studies or focus group tests**, including online or written replies and where applicable the recording of your audio or video interviews.
+* **Entries to promotions, competitions, prize-draws or calls to action**, including images, videos and text.
+* **Camera access**, including where for some Digital Services, we ask for permission to access your device’s camera. If you grant permission, you may be able to take pictures or video within the app experience, to send them to us, or to access certain augmented reality (“AR”) features. Some of these features may rely on camera systems to track movements of your eyes and other facial features or your immediate surroundings to apply AR effects.
+* **Sensitive data**, including where you choose to share Information as part of one of our Offerings, or where you provide Information during one of our surveys or feedback sessions, including, where permitted by applicable law, information relating to your physical or mental health, race or ethnicity, religious or philosophical beliefs, sex life or sexual orientation, or your political beliefs. In some Offerings that include dynamic entertainment features, we may with your consent and in accordance with applicable law, collect information such as via facial scanning, eye tracking, or skin response that may be considered biometric.
+* **Information about your social media engagement**, including your interactions with our fan pages/channels/accounts in third party communities, forums, and social media sites, services, plug-ins, and applications (“**Social Media Sites**”). This may include posts, your 'likes' and other user-generated content that you may provide, as well as details about yourself such as your name, user ID, profile photo, birthday, and, where you allow us to, lists of friends and people you follow. For information about how you can customize your privacy settings on Social Media Sites, and how those Social Media Sites handle your personal information and content, please refer to their privacy help guides, privacy policies, and terms of use.
+* **Information shared on public or community forums**, including where you share photos, letters, videos or comments, while participating in online forums. Depending on your privacy settings, this Information or content and your username may become public on the Internet or within a community of users. We cannot prevent further use of this Information once you share it in a publicly available or community forum. Please refer to the specific forum’s privacy policies for further information on how they handle your Information. 
+* **Information about your location**, including where it is derived from device information (such as an IP address or country code), your device’s interactions with our Digital Services, or, with your consent, Information about your device’s precise location (e.g. geolocation via mobile devices).
+* **Event Information**, including images and clips, whether captured via a booth or by other means by us or a third party on our behalf, and other Information relating to the organisation and management of an event, such as food allergies and other individual requirements. 
+* **Technical/usage Information from your device**, including the type of device, browser, unique device identifier, operating system, internet provider, mobile device identifier and/or mobile advertising identifier, connected device identifier (including that of a connected television), IP address, network attributes, television device and application attributes and settings, and other device or browser attributes and settings. 
+* **Information about your customer queries**, including when you contact us through one of our customer helpdesks, email addresses, customer service chat boxes, forms or ticketing systems, Social Media Sites and customer call-centres, where calls may be recorded. 
 
   
 
@@ -105,15 +105,15 @@ We may use your Information for the purpose of setting up your account with us, 
 
 In countries where our processing of Information requires a lawful basis, we rely upon the following:
 
-*   Much of our processing, such as providing, and maintaining our Offerings, is necessary for entering into, or the performance of, the contract we have with you, including enabling new customers to sign-up or register with us and existing customers to log-in to our Digital Services.
-*   Other types of processing are necessary for our ‘legitimate interests’ (and those of others), including:
-    *   Running our business, providing our Offerings and serving our customers;
-    *   Contacting customers with important notices or updates; 
-    *   Contacting customers about their transactions, purchases and competition wins;
-    *   Personalizing content and making recommendations for other content;
-    *   Exercising and/or enforcing the rights granted to us under the terms and conditions of the Offering;
-    *   Facilitating payment for our Offerings.
-*   For other types of processing we may rely on your consent (where given). 
+* Much of our processing, such as providing, and maintaining our Offerings, is necessary for entering into, or the performance of, the contract we have with you, including enabling new customers to sign-up or register with us and existing customers to log-in to our Digital Services.
+* Other types of processing are necessary for our ‘legitimate interests’ (and those of others), including:
+    * Running our business, providing our Offerings and serving our customers;
+    * Contacting customers with important notices or updates; 
+    * Contacting customers about their transactions, purchases and competition wins;
+    * Personalizing content and making recommendations for other content;
+    * Exercising and/or enforcing the rights granted to us under the terms and conditions of the Offering;
+    * Facilitating payment for our Offerings.
+* For other types of processing we may rely on your consent (where given). 
 
   
 
@@ -127,12 +127,12 @@ In countries where our processing of Information requires a lawful basis, we rel
 
   
 
-*   Some types of processing are necessary for our ‘legitimate interests’ (and those of others), including:
-    *   Improving and developing our Offerings.
-    *   Creating efficiencies in our business.
-    *   Understanding consumer trends and interests, including through customer insights, market research, and measurement of content performance.
-    *   Compiling statistics about the use of our Offerings.
-*   For other types of processing we may rely on your consent (where given).
+* Some types of processing are necessary for our ‘legitimate interests’ (and those of others), including:
+    * Improving and developing our Offerings.
+    * Creating efficiencies in our business.
+    * Understanding consumer trends and interests, including through customer insights, market research, and measurement of content performance.
+    * Compiling statistics about the use of our Offerings.
+* For other types of processing we may rely on your consent (where given).
 
   
 
@@ -154,17 +154,17 @@ In countries where our processing of Information requires a lawful basis, we rel
 
   
 
-*   To use UGC you have submitted, we will rely on the rights granted to us under the terms and conditions of the Offering and the performance of our contract with you.
-*   Other types of processing for Marketing and Personalized Advertising are necessary for our legitimate interests (or those of others), including:
-    *   Furthering our commercial interests by marketing and advertising Our Offerings, including engaging in contextual (non-data driven) advertising, analytics, and measurement of ad performance; 
-    *   Expanding our customer base by deepening relationships with existing customers and developing new customers;
-    *   Using UGC you have submitted (unless it is not necessary for the performance of a contract with you or we are able to ask for your consent); and,
-    *   Promoting our brands both online and offline.
-*   In certain jurisdictions, for certain types of processing, such as interest-based advertising or where we send direct marketing communications by email, text message or SMS, messages on Social Media Sites, we rely on your consent (where given). 
+* To use UGC you have submitted, we will rely on the rights granted to us under the terms and conditions of the Offering and the performance of our contract with you.
+* Other types of processing for Marketing and Personalized Advertising are necessary for our legitimate interests (or those of others), including:
+    * Furthering our commercial interests by marketing and advertising Our Offerings, including engaging in contextual (non-data driven) advertising, analytics, and measurement of ad performance; 
+    * Expanding our customer base by deepening relationships with existing customers and developing new customers;
+    * Using UGC you have submitted (unless it is not necessary for the performance of a contract with you or we are able to ask for your consent); and,
+    * Promoting our brands both online and offline.
+* In certain jurisdictions, for certain types of processing, such as interest-based advertising or where we send direct marketing communications by email, text message or SMS, messages on Social Media Sites, we rely on your consent (where given). 
 
   
 
-**Providing Customer Services** 
+**Providing Customer Services** 
 
 We may use your Information for the purpose of providing Customer Services, including dealing with your queries and complaints (including troubleshooting), whether you contact us by telephone, email, chat boxes, forms or ticketing services, letter, website or via a Social Media Site.
 
@@ -174,12 +174,12 @@ In countries where our processing of Information requires a lawful basis, we rel
 
   
 
-*   Some types of processing activities will be necessary for us to perform our contract with you to provide an Offering. 
-*   Some types of processing activities will be necessary to comply with our legal obligations.
-*   Some types of processing will be necessary for our legitimate interests (or those of others), including:
-    *   Responding to our customer queries and complaints;
-    *   Tracking the progress and effectiveness of our response; and
-    *   Improving our Customer Services.
+* Some types of processing activities will be necessary for us to perform our contract with you to provide an Offering. 
+* Some types of processing activities will be necessary to comply with our legal obligations.
+* Some types of processing will be necessary for our legitimate interests (or those of others), including:
+    * Responding to our customer queries and complaints;
+    * Tracking the progress and effectiveness of our response; and
+    * Improving our Customer Services.
 
   
 
@@ -193,13 +193,13 @@ In countries where our processing of Information requires a lawful basis, we rel
 
   
 
-*   Some types of processing activities will be necessary to comply with our legal obligations.
-*   Some types of processing will be necessary for our legitimate interests (or those of others), including:
-    *   Protecting our business interests and rights, privacy, safety and property, or that of our customers and users;
-    *   Establishing, exercising or defending legal claims; 
-    *   Sharing your Information with third parties in order to permit us to pursue available remedies or limit damage that we may sustain.
+* Some types of processing activities will be necessary to comply with our legal obligations.
+* Some types of processing will be necessary for our legitimate interests (or those of others), including:
+    * Protecting our business interests and rights, privacy, safety and property, or that of our customers and users;
+    * Establishing, exercising or defending legal claims; 
+    * Sharing your Information with third parties in order to permit us to pursue available remedies or limit damage that we may sustain.
 
-**Compliance with legal obligations** 
+**Compliance with legal obligations** 
 
 We may use your Information for the purpose of complying with our legal obligations, including accounting rules, responding to Individual Rights Requests and responding to requests from regulators, judicial authorities and law enforcement or governmental bodies.
 
@@ -209,7 +209,7 @@ In countries where our processing of Information requires a lawful basis, we rel
 
   
 
-*   These types of activities are necessary to comply with our legal obligations.
+* These types of activities are necessary to comply with our legal obligations.
 
 INFORMATION SHARING AND DISCLOSURE
 ----------------------------------
@@ -272,12 +272,12 @@ Under certain conditions, you have the right to ask us to fulfil one or more of 
 
   
 
-*   **Right to access and rectification:** You can request details of the Information we hold, along with a copy of your Information, and the correction of any errors in your Information. 
-*   **Right to erasure (“right to be forgotten”):** The right, in certain circumstances, to ask for your Information to be deleted. In specific cases, we may not be able to delete some types of Information, in particular, where we have a legal obligation to keep that Information (e.g. for regulatory reporting purposes) or, for example, where you want us to continue to provide you with an Offering and the processing of the Information is necessary for the provision of that Offering.
-*   **Marketing communications and sharing with third parties.** We provide you with an opportunity to express your preferences with respect to receiving certain marketing communications from us, and our sharing of Information with trusted partners for their direct marketing purposes. Please see the “Ad Choices” section below for more information. 
-*   **Right to portability:** The right in some cases to receive your Information in a digital format or to have it transmitted directly to another controller (where technically feasible).
-*   **Right to object:** The right to object (on grounds relating to your particular situation) to the processing of your Information on the basis of our legitimate interests, including for direct marketing purposes. 
-*   **Right to withdraw consent:** You can withdraw your consent at any time in respect of any processing of Information which is based upon a consent. 
+* **Right to access and rectification:** You can request details of the Information we hold, along with a copy of your Information, and the correction of any errors in your Information. 
+* **Right to erasure (“right to be forgotten”):** The right, in certain circumstances, to ask for your Information to be deleted. In specific cases, we may not be able to delete some types of Information, in particular, where we have a legal obligation to keep that Information (e.g. for regulatory reporting purposes) or, for example, where you want us to continue to provide you with an Offering and the processing of the Information is necessary for the provision of that Offering.
+* **Marketing communications and sharing with third parties.** We provide you with an opportunity to express your preferences with respect to receiving certain marketing communications from us, and our sharing of Information with trusted partners for their direct marketing purposes. Please see the “Ad Choices” section below for more information. 
+* **Right to portability:** The right in some cases to receive your Information in a digital format or to have it transmitted directly to another controller (where technically feasible).
+* **Right to object:** The right to object (on grounds relating to your particular situation) to the processing of your Information on the basis of our legitimate interests, including for direct marketing purposes. 
+* **Right to withdraw consent:** You can withdraw your consent at any time in respect of any processing of Information which is based upon a consent. 
 
   
 
@@ -290,11 +290,11 @@ When you visit our Digital Services, we, third party service providers, and part
 
   
 
-**Cookie Description** 
+**Cookie Description** 
 
   
 
-**1\. Required cookies** 
+**1\. Required cookies** 
 
 These cookies are required to enable core website functionality 
 
@@ -304,17 +304,17 @@ These cookies are required to enable core website functionality 
 
   
 
-**2\. Performance cookies** 
+**2\. Performance cookies** 
 
 These cookies allow us to analyze usage of our Digital Services so we can measure and improve performance 
 
   
 
-**Performance cookies or similar technologies:** They collect information about how you use our Digital Services, so that we can analyze traffic, understand users' interactions, and improve the relevant Digital Service. Our emails and newsletters may contain a ‘web pixel’ to let us know how you have interacted with what we have sent you. For games, these technologies collect information about your gameplay, including accomplishments, use of features and other in-game activities. We may use third party service providers such as Google Analytics for this purpose who may use their own cookies or similar technologies. You can find out more information by clicking on the Google Analytics cookies usage resource link: [https://tools.google.com/dlpage/gaoptout?hl=en](https://tools.google.com/dlpage/gaoptout?hl=en%C2%A0) 
+**Performance cookies or similar technologies:** They collect information about how you use our Digital Services, so that we can analyze traffic, understand users' interactions, and improve the relevant Digital Service. Our emails and newsletters may contain a ‘web pixel’ to let us know how you have interacted with what we have sent you. For games, these technologies collect information about your gameplay, including accomplishments, use of features and other in-game activities. We may use third party service providers such as Google Analytics for this purpose who may use their own cookies or similar technologies. You can find out more information by clicking on the Google Analytics cookies usage resource link: [https://tools.google.com/dlpage/gaoptout?hl=en](https://tools.google.com/dlpage/gaoptout?hl=en%C2%A0) 
 
   
 
-**3\. Functionality cookies** 
+**3\. Functionality cookies**  
 
   
 
@@ -322,7 +322,7 @@ These cookies allow us to analyze usage of our Digital Services so we can measur
 
   
 
-**4\. Advertising cookies** 
+**4\. Advertising cookies** 
 
 These cookies are used by advertising companies to serve ads that are relevant to your interests 
 
@@ -332,7 +332,7 @@ These cookies are used by advertising companies to serve ads that are relevant t
 
 **Advertising cookies or similar technologies**: Some of our Digital Services may use a third-party advertising network, or an affiliated company, to deliver targeted advertising. They may also have the capability to limit the number of times you see an advertisement and track your browsing or usage across our Digital Services and Social Media Sites.  
 
-**Managing cookies and other technologies.** For Digital Services in some jurisdictions, including the EEA, you may learn more information about our use of cookies and other technologies, and provide or withdraw consents, or set your cookie preferences and in some cases object legitimate interest purposes for processing your personal information, by clicking Manage Cookies+ or otherwise adjusting cookie preferences. These settings are accessible on a site or app specific basis, at any time through the ‘Manage Cookies+’ link or a similar link located on webpages or in application settings. You may also use your app/browser settings to set your cookie preferences. 
+**Managing cookies and other technologies.** For Digital Services in some jurisdictions, including the EEA, you may learn more information about our use of cookies and other technologies, and provide or withdraw consents, or set your cookie preferences and in some cases object legitimate interest purposes for processing your personal information, by clicking Manage Cookies+ or otherwise adjusting cookie preferences. These settings are accessible on a site or app specific basis, at any time through the ‘Manage Cookies+’ link or a similar link located on webpages or in application settings. You may also use your app/browser settings to set your cookie preferences. 
 
   
 
@@ -354,9 +354,9 @@ In addition to managing your preferences through our consent management platform
 
 Important things to note about cookie-based web browser opt outs (such as those utilized by the EDAA, APDA and DAAC):
 
-*   **Blocked cookies:** The opt out cookie may not work if your browser is configured to block third-party cookies.
-*   **Deleting or protecting opt outs:** If you delete your cookies, you will need to opt out again. There are browser plugins to help you preserve your opt out cookies.
-*   **Only this browser:** The opt out only applies to the browser profile in which you set it. For example, if you set the opt out while using Firefox, but then use Chrome, the opt out will not be active in Chrome. To opt out in Chrome, you will need to repeat the opt out process. This is because the cookies cannot be read between different browsers or browser profiles.
+* **Blocked cookies:** The opt out cookie may not work if your browser is configured to block third-party cookies.
+* **Deleting or protecting opt outs:** If you delete your cookies, you will need to opt out again. There are browser plugins to help you preserve your opt out cookies.
+* **Only this browser:** The opt out only applies to the browser profile in which you set it. For example, if you set the opt out while using Firefox, but then use Chrome, the opt out will not be active in Chrome. To opt out in Chrome, you will need to repeat the opt out process. This is because the cookies cannot be read between different browsers or browser profiles.
 
   
 
@@ -396,4 +396,4 @@ If you have any questions about this Privacy Policy, you can contact us and our 
 COMPLAINTS
 ----------
 
-If you are unhappy with how we have dealt with your query, in the first instance please contact us at [wmprivacy@warnermedia.com](mailto:wmprivacy@warnermedia.com). If you are still unhappy with our response, you may have the right to complain to your Data Protection Authority. Please contact us at [wmprivacy@warnermedia.com](mailto:wmprivacy@warnermedia.com) to obtain details of how to contact them.
+If you are unhappy with how we have dealt with your query, in the first instance please contact us at [wmprivacy@warnermedia.com](mailto:wmprivacy@warnermedia.com). If you are still unhappy with our response, you may have the right to complain to your Data Protection Authority. Please contact us at [wmprivacy@warnermedia.com](mailto:wmprivacy@warnermedia.com) to obtain details of how to contact them.
