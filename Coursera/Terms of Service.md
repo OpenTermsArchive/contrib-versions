@@ -169,10 +169,10 @@ Under California Civil Code Section 1789.3, California website users are entitle
 Referenced Policies
 -------------------
 
-1.  [Acceptable Use Policy](#acceptable-use-policy)
-2.  [Copyright and Trademark Infringement Policy](#copyright-and-trademark-policy)
-3.  [Refund Policy](#coursera-refund-policy)
-4.  [Honor Code](#honor-code)
+1. [Acceptable Use Policy](#acceptable-use-policy)
+2. [Copyright and Trademark Infringement Policy](#copyright-and-trademark-policy)
+3. [Refund Policy](#coursera-refund-policy)
+4. [Honor Code](#honor-code)
 
 * * *
 
@@ -189,29 +189,29 @@ We may remove or edit inappropriate content or activity identified by or reporte
 
 #### You are prohibited from using our Services to share content that:
 
-*   Contains illegal content or promotes illegal activities with the intent to commit such activities. Please keep in mind that users who are as young as 13 use Coursera, and we do not allow content that is inappropriate for these younger users.
-*   Contains credible threats or organizes acts of real-world violence. We don’t allow content that creates a genuine risk of physical injury or property damage, credibly threatens people or public safety, or organizes or encourages harm.
-*   Harrasses others. We encourage commentary about people and matters of public interest, but abusive or otherwise inappropriate content directed at private individuals is not allowed.
-*   Violates intellectual property, privacy, or other rights. Do not share content that you do not have the right to share, claim content that you did not create as your own, or otherwise infringe or misappropriate someone else’s intellectual property or other rights. Always attribute materials used or quoted by you to the original copyright owner.
-*   Spams others. Do not share irrelevant or inappropriate advertising, promotional, or solicitation content.
-*   Otherwise violates the Coursera Terms of Use.
+* Contains illegal content or promotes illegal activities with the intent to commit such activities. Please keep in mind that users who are as young as 13 use Coursera, and we do not allow content that is inappropriate for these younger users.
+* Contains credible threats or organizes acts of real-world violence. We don’t allow content that creates a genuine risk of physical injury or property damage, credibly threatens people or public safety, or organizes or encourages harm.
+* Harrasses others. We encourage commentary about people and matters of public interest, but abusive or otherwise inappropriate content directed at private individuals is not allowed.
+* Violates intellectual property, privacy, or other rights. Do not share content that you do not have the right to share, claim content that you did not create as your own, or otherwise infringe or misappropriate someone else’s intellectual property or other rights. Always attribute materials used or quoted by you to the original copyright owner.
+* Spams others. Do not share irrelevant or inappropriate advertising, promotional, or solicitation content.
+* Otherwise violates the Coursera Terms of Use.
 
 Please note that specific Content Offerings may have additional rules and requirements.
 
 #### You also aren't allowed to:
 
-*   Do anything that violates local, state, national, or international law or breaches any of your contractual obligations or fiduciary duties.
-*   Share your password, let anyone besides yourself access your account, or do anything that might put your account at risk.
-*   Attempt to access any other user's account.
-*   Reproduce, transfer, sell, resell, or otherwise misuse any content from our Services, unless specifically authorized to do so.
-*   Access, tamper with, or use non-public areas of our systems, unless specifically authorized to do so.
-*   Break or circumvent our authentication or security measures or otherwise test the vulnerability of our systems or networks, unless specifically authorized to do so.
-*   Try to reverse engineer any portion of our Services.
-*   Try to interfere with any user, host, or network, for example by sending a virus, overloading, spamming, or mail-bombing.
-*   Use our Services to distribute malware.
-*   Use our Services or any functionality of the Coursera platform for anything other than for completing online courses or for pedagogical purposes.
-*   Impersonate or misrepresent your affiliation with any person or entity.
-*   Encourage or help anyone do any of the things on this list.
+* Do anything that violates local, state, national, or international law or breaches any of your contractual obligations or fiduciary duties.
+* Share your password, let anyone besides yourself access your account, or do anything that might put your account at risk.
+* Attempt to access any other user's account.
+* Reproduce, transfer, sell, resell, or otherwise misuse any content from our Services, unless specifically authorized to do so.
+* Access, tamper with, or use non-public areas of our systems, unless specifically authorized to do so.
+* Break or circumvent our authentication or security measures or otherwise test the vulnerability of our systems or networks, unless specifically authorized to do so.
+* Try to reverse engineer any portion of our Services.
+* Try to interfere with any user, host, or network, for example by sending a virus, overloading, spamming, or mail-bombing.
+* Use our Services to distribute malware.
+* Use our Services or any functionality of the Coursera platform for anything other than for completing online courses or for pedagogical purposes.
+* Impersonate or misrepresent your affiliation with any person or entity.
+* Encourage or help anyone do any of the things on this list.
 
 * * *
 
@@ -230,17 +230,17 @@ If you believe in good faith that materials on the Coursera platform infringe yo
 
 The notice must include the following information:
 
-1.  the physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed;
-2.  identification of the copyrighted work claimed to have been infringed (or, if multiple copyrighted works located on the platform are covered by a single notification, a representative list of such works);
-3.  identification of the material that is claimed to be infringing or the subject of infringing activity, and information reasonably sufficient to allow Coursera to locate the material on the platform;
-4.  the name, address, telephone number, and email address (if available) of the complaining party;
-5.  a statement that the complaining party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and
-6.  a statement that the information in the notification is accurate and, under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+1. the physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed;
+2. identification of the copyrighted work claimed to have been infringed (or, if multiple copyrighted works located on the platform are covered by a single notification, a representative list of such works);
+3. identification of the material that is claimed to be infringing or the subject of infringing activity, and information reasonably sufficient to allow Coursera to locate the material on the platform;
+4. the name, address, telephone number, and email address (if available) of the complaining party;
+5. a statement that the complaining party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and
+6. a statement that the information in the notification is accurate and, under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
 
 Notices must meet the then-current statutory requirements imposed by the DMCA. Notices and counter-notices with respect to the Services can either be sent:
 
-1.  via mail: Copyright Agent, Coursera 381 E. Evelyn Ave Mountain View, CA 94041
-2.  via email: [copyright@coursera.org](mailto:copyright@coursera.org)
+1. via mail: Copyright Agent, Coursera 381 E. Evelyn Ave Mountain View, CA 94041
+2. via email: [copyright@coursera.org](mailto:copyright@coursera.org)
 
 We suggest that you consult your legal advisor before filing a notice. Also, be aware that there can be penalties for false claims under the DMCA.
 
@@ -311,23 +311,23 @@ European Users Right of Withdrawal
 
 In addition to the refund policies set forth above, if you have a right of withdrawal under the relevant laws in your country including any applicable European Union laws, then:
 
-*   You have a right of withdrawal for a period of 14 days. You may withdraw your contract with Coursera for the Services, without giving any reason, and without incurring any costs other than those provided for in this clause.
-*   The withdrawal period will expire after 14 days from the day that your contract was concluded. However, you do not have a right of withdrawal a) if the Services have already been fully performed with your prior express consent and with your acknowledgement that you will lose your right of withdrawal once the Services have been performed by us or b) if the Services have begun with your prior express consent and your acknowledgement that you will lose your right of withdrawal upon beginning use of the Services .
-*   To exercise the right of withdrawal, you should inform us of your decision to withdraw by an unequivocal statement (e.g. a letter sent by post or by [contacting us](https://about.coursera.org/contact/). You may use the below model form, but it is not obligatory.
+* You have a right of withdrawal for a period of 14 days. You may withdraw your contract with Coursera for the Services, without giving any reason, and without incurring any costs other than those provided for in this clause.
+* The withdrawal period will expire after 14 days from the day that your contract was concluded. However, you do not have a right of withdrawal a) if the Services have already been fully performed with your prior express consent and with your acknowledgement that you will lose your right of withdrawal once the Services have been performed by us or b) if the Services have begun with your prior express consent and your acknowledgement that you will lose your right of withdrawal upon beginning use of the Services .
+* To exercise the right of withdrawal, you should inform us of your decision to withdraw by an unequivocal statement (e.g. a letter sent by post or by [contacting us](https://about.coursera.org/contact/). You may use the below model form, but it is not obligatory.
     
     **Model Withdrawal Form** (complete and return this form only if you wish to withdraw from the contract)
     
-    *   To Coursera Europe B.V., Schiphol Boulevard 195, (1118 BG) Schiphol, the Netherlands:
-    *   I/We (_) hereby give notice that I/We (_) withdraw from my/our (_) contract of sale for the provision of the following service (_),
-    *   Ordered on (_)/received on (_),
-    *   Name of consumer(s),
-    *   Address of consumer(s),
-    *   Signature of consumer(s) (only if this form is notified on paper),
-    *   Date
-*   You may also electronically submit the model form or any other unequivocal statement to us at [https://www.coursera.org/about/contact](https://www.coursera.org/about/contact). You shall have exercised your right of withdrawal within the 14-day withdrawal period if the communication is sent by you before that period has expired. The exercise of the right of withdrawal shall terminate the obligations of the parties to perform the contract. If you exercise your right of withdrawal, any ancillary contracts shall be automatically terminated.
-*   If you withdraw the contract, we shall reimburse to you all payments received from you, including, if applicable, the costs of delivery, without undue delay and in any event not later than 14 days from the day on which we are informed of your decision to rescind this contract in accordance with this clause. We will carry out such reimbursement using the same means of payment as you used for the initial transaction, unless you have expressly agreed otherwise. In any event you do not incur any fees as a result of such reimbursement.
-*   If you want the Services to begin during the 14-day withdrawal period you should make an express request thereto, where you acknowledge that you will lose your right of withdrawal once the service has been fully performed. If you exercise the right of withdrawal before the Services have been fully performed, you shall be liable to pay us reasonable costs, consisting of an amount which is in proportion to what has been provided until the time you have informed us of the exercise of the right of withdrawal.
-*   The burden of proof of exercising the right of withdrawal in accordance with this clause shall be on you. Except as provided for in this clause, you shall not incur any liability as a consequence of the exercise of the right of withdrawal.
+    * To Coursera Europe B.V., Schiphol Boulevard 195, (1118 BG) Schiphol, the Netherlands:
+    * I/We (_) hereby give notice that I/We (_) withdraw from my/our (_) contract of sale for the provision of the following service (_),
+    * Ordered on (_)/received on (_),
+    * Name of consumer(s),
+    * Address of consumer(s),
+    * Signature of consumer(s) (only if this form is notified on paper),
+    * Date
+* You may also electronically submit the model form or any other unequivocal statement to us at [https://www.coursera.org/about/contact](https://www.coursera.org/about/contact). You shall have exercised your right of withdrawal within the 14-day withdrawal period if the communication is sent by you before that period has expired. The exercise of the right of withdrawal shall terminate the obligations of the parties to perform the contract. If you exercise your right of withdrawal, any ancillary contracts shall be automatically terminated.
+* If you withdraw the contract, we shall reimburse to you all payments received from you, including, if applicable, the costs of delivery, without undue delay and in any event not later than 14 days from the day on which we are informed of your decision to rescind this contract in accordance with this clause. We will carry out such reimbursement using the same means of payment as you used for the initial transaction, unless you have expressly agreed otherwise. In any event you do not incur any fees as a result of such reimbursement.
+* If you want the Services to begin during the 14-day withdrawal period you should make an express request thereto, where you acknowledge that you will lose your right of withdrawal once the service has been fully performed. If you exercise the right of withdrawal before the Services have been fully performed, you shall be liable to pay us reasonable costs, consisting of an amount which is in proportion to what has been provided until the time you have informed us of the exercise of the right of withdrawal.
+* The burden of proof of exercising the right of withdrawal in accordance with this clause shall be on you. Except as provided for in this clause, you shall not incur any liability as a consequence of the exercise of the right of withdrawal.
 
 * * *
 
@@ -340,10 +340,10 @@ _Effective as of January 1, 2022_
 
 All users participating in Content Offerings must agree to abide by the following code:
 
-1.  I will register for only one account, unless expressly permitted to register for additional accounts by Coursera.
-2.  My answers to homework, quizzes, exams, projects, and other assignments will be my own work (except for assignments that explicitly permit collaboration) as specified in the Coursera [Plagiarism Policy](https://learner.coursera.help/hc/en-us/articles/209818863-Coursera-Honor-Code).
-3.  I will not make solutions to homework, quizzes, exams, projects, and other assignments available to anyone else (except to the extent an assignment explicitly permits sharing solutions). This includes both solutions written by me, as well as any solutions provided by the course staff or others.
-4.  I will not engage in any other activities that will dishonestly improve my results or dishonestly improve or hurt the results of others.
+1. I will register for only one account, unless expressly permitted to register for additional accounts by Coursera.
+2. My answers to homework, quizzes, exams, projects, and other assignments will be my own work (except for assignments that explicitly permit collaboration) as specified in the Coursera [Plagiarism Policy](https://learner.coursera.help/hc/en-us/articles/209818863-Coursera-Honor-Code).
+3. I will not make solutions to homework, quizzes, exams, projects, and other assignments available to anyone else (except to the extent an assignment explicitly permits sharing solutions). This includes both solutions written by me, as well as any solutions provided by the course staff or others.
+4. I will not engage in any other activities that will dishonestly improve my results or dishonestly improve or hurt the results of others.
 
 Any violation of this code may result in your access to all or part of the Services being suspended, disabled, or terminated.
 
@@ -356,34 +356,34 @@ Revisions
 
 Below is a list of all the revisions made to the content of our Terms, with links to view the difference between each revision.
 
-*   [2021-12-17: Updated terms specific to users based in certain jurisdictions. Updated terms specific to Degree, MasterTrack, and University Certificate programs. Added terms addressing export laws.](https://www.diffchecker.com/cRdj5n0M)
-*   [2020-12-18: Updated arbitration language and increased clarity of definitions](https://www.diffchecker.com/2JTCTEUY)
-*   [2019-12-20: Updated to reflect new product offerings including degrees, MasterTrack, and Coursera Plus](https://www.diffchecker.com/SVNlk3dr)
-*   [2018-07-11: Updated Introduction and Reference Policies for clarification purposes.](https://www.diffchecker.com/HnhrMdiT)
-*   [2018-03-26: Updated refund policy to clarify course and specialization purchases. Added links to Cookies Policy](https://www.diffchecker.com/wyB7EQ02)
-*   [2017-08-22: Updated refund policy to reflect new products and policies](https://www.diffchecker.com/b9xCv6S6)
-*   [2017-08-08: Updated refund policy to reflect new products and policies](https://www.diffchecker.com/67u8psoJ)
-*   [2017-06-28: Updated refund policy to reflect new products and policies](https://www.diffchecker.com/V9V2O3xN)
-*   [2017-04-11: Updated refund policy to reflect new products and policies](https://www.diffchecker.com/np2lUM3L)
-*   [2017-03-13: Updated refund policy to reflect new products and policies](https://www.diffchecker.com/sUlMRWBH)
-*   [2017-01-19: Updated refund policy to reflect new products and policies](https://www.diffchecker.com/Dbf5AYgE)
-*   [2016-11-01: Updated refund policy to reflect new products, and remove references to old platform courses](https://www.diffchecker.com/9dgDRnHv)
-*   [2015-03-24: Updated refund policy to reflect new products and policies](https://www.diffchecker.com/ghik9hpr)
-*   [2015-08-24: Updated refund policy and changed Verified certificate to Course certificate](https://www.diffchecker.com/vt1zwrhg)
-*   [2015-04-03: Updated Terms of Use for Specializations-on-demand, clarification and simplification](https://www.diffchecker.com/jc9vwihk)
-*   [2014-09-12: Changed 'Terms of Service' to 'Terms of Use'](https://www.diffchecker.com/o1pm3cze)
-*   [2014-01-02: Updated and moved privacy policy to a new page](https://www.coursera.org/about/privacy)
-*   [2013-08-17: Added to rules of conduct and permission to use materials](https://www.diffchecker.com/ifvt4b79)
-*   [2013-06-13: Added section on e-Readers](https://www.diffchecker.com/wx9y570z)
-*   [2013-06-05: Added section on Partner sites](https://www.diffchecker.com/8t76slmm)
-*   [2013-05-22: Revised Online Certifications section](https://www.diffchecker.com/grd3yv4r)
-*   [2013-04-30: Reworded "universities" to "institutions"](https://www.diffchecker.com/x7s71waw)
-*   [2013-02-28: Changed effective dates](https://www.diffchecker.com/himokno0)
-*   [2013-01-14: Added sections on Fees/Taxes, Refund Policy, Identity Verification](https://www.diffchecker.com/gphp7zb0)
-*   [2012-12-22: Removed section on Minnesota students](https://www.diffchecker.com/xszjm56q)
-*   [2012-09-20: Added to Online Certifications section](https://www.diffchecker.com/aqigp1md)
-*   [2012-09-10: Revision to User Materials Submission section](https://www.diffchecker.com/bvdii4e4)
-*   [2012-08-30: Added section on Online Education Research](https://www.diffchecker.com/ewodcetj)
-*   [2012-08-28: Minor fixes and typos](https://www.diffchecker.com/qxrjy8a4)
-*   [2012-08-20: Added section on Minnesota students](https://www.diffchecker.com/ogb9znep)
-*   [2012-08-02: Added link to InCommons agreement](https://www.diffchecker.com/rqmnhuq3)
+* [2021-12-17: Updated terms specific to users based in certain jurisdictions. Updated terms specific to Degree, MasterTrack, and University Certificate programs. Added terms addressing export laws.](https://www.diffchecker.com/cRdj5n0M)
+* [2020-12-18: Updated arbitration language and increased clarity of definitions](https://www.diffchecker.com/2JTCTEUY)
+* [2019-12-20: Updated to reflect new product offerings including degrees, MasterTrack, and Coursera Plus](https://www.diffchecker.com/SVNlk3dr)
+* [2018-07-11: Updated Introduction and Reference Policies for clarification purposes.](https://www.diffchecker.com/HnhrMdiT)
+* [2018-03-26: Updated refund policy to clarify course and specialization purchases. Added links to Cookies Policy](https://www.diffchecker.com/wyB7EQ02)
+* [2017-08-22: Updated refund policy to reflect new products and policies](https://www.diffchecker.com/b9xCv6S6)
+* [2017-08-08: Updated refund policy to reflect new products and policies](https://www.diffchecker.com/67u8psoJ)
+* [2017-06-28: Updated refund policy to reflect new products and policies](https://www.diffchecker.com/V9V2O3xN)
+* [2017-04-11: Updated refund policy to reflect new products and policies](https://www.diffchecker.com/np2lUM3L)
+* [2017-03-13: Updated refund policy to reflect new products and policies](https://www.diffchecker.com/sUlMRWBH)
+* [2017-01-19: Updated refund policy to reflect new products and policies](https://www.diffchecker.com/Dbf5AYgE)
+* [2016-11-01: Updated refund policy to reflect new products, and remove references to old platform courses](https://www.diffchecker.com/9dgDRnHv)
+* [2015-03-24: Updated refund policy to reflect new products and policies](https://www.diffchecker.com/ghik9hpr)
+* [2015-08-24: Updated refund policy and changed Verified certificate to Course certificate](https://www.diffchecker.com/vt1zwrhg)
+* [2015-04-03: Updated Terms of Use for Specializations-on-demand, clarification and simplification](https://www.diffchecker.com/jc9vwihk)
+* [2014-09-12: Changed 'Terms of Service' to 'Terms of Use'](https://www.diffchecker.com/o1pm3cze)
+* [2014-01-02: Updated and moved privacy policy to a new page](https://www.coursera.org/about/privacy)
+* [2013-08-17: Added to rules of conduct and permission to use materials](https://www.diffchecker.com/ifvt4b79)
+* [2013-06-13: Added section on e-Readers](https://www.diffchecker.com/wx9y570z)
+* [2013-06-05: Added section on Partner sites](https://www.diffchecker.com/8t76slmm)
+* [2013-05-22: Revised Online Certifications section](https://www.diffchecker.com/grd3yv4r)
+* [2013-04-30: Reworded "universities" to "institutions"](https://www.diffchecker.com/x7s71waw)
+* [2013-02-28: Changed effective dates](https://www.diffchecker.com/himokno0)
+* [2013-01-14: Added sections on Fees/Taxes, Refund Policy, Identity Verification](https://www.diffchecker.com/gphp7zb0)
+* [2012-12-22: Removed section on Minnesota students](https://www.diffchecker.com/xszjm56q)
+* [2012-09-20: Added to Online Certifications section](https://www.diffchecker.com/aqigp1md)
+* [2012-09-10: Revision to User Materials Submission section](https://www.diffchecker.com/bvdii4e4)
+* [2012-08-30: Added section on Online Education Research](https://www.diffchecker.com/ewodcetj)
+* [2012-08-28: Minor fixes and typos](https://www.diffchecker.com/qxrjy8a4)
+* [2012-08-20: Added section on Minnesota students](https://www.diffchecker.com/ogb9znep)
+* [2012-08-02: Added link to InCommons agreement](https://www.diffchecker.com/rqmnhuq3)
