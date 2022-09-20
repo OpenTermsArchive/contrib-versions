@@ -49,7 +49,7 @@ En achetant un Produit sur la Galerie Marchande Rue du Commerce, vous réalisez 
 
 Les offres du site Rue du Commerce, qu'elles soient proposées par Rue du Commerce ou des Partenaires Marchands, sont présentées par le biais d’un moteur de recherche thématique fonctionnant grâce à des mots clefs. Vous pouvez également y accéder en visitant les différentes rubriques proposées.
 
-### 4.2 Les fiches produit de la Galerie Marchande Rue du Commerce
+### 4.2 Les fiches produit de la Galerie Marchande Rue du Commerce
 
 Chaque produit mis en vente par un Partenaire Marchand sur la Galerie Marchande Rue du Commerce est détaillé dans une Fiche Produit qui lui sera consacrée, accessible sur les Sites.
 
@@ -82,7 +82,7 @@ Le prix des produits mis en vente par le biais de la Galerie Marchande Rue du Co
 Le prix est indiqué dans la Fiche Produit en euros, toutes taxes comprises hors frais de livraison (et de services).
 
 ###    
-4.4 Passer commande sur la Galerie Marchande Rue du Commerce
+4.4 Passer commande sur la Galerie Marchande Rue du Commerce
 
 Pour passer une commande auprès d’un Partenaire Marchand, vous devez être inscrit sur le Site et vous identifier sur votre espace client à l’aide de votre adresse email et de votre mot de passe.
 
@@ -92,7 +92,7 @@ Dès que vous validez votre commande, nous la transmettons au Partenaire Marchan
 
 Rue du Commerce ne débitera votre compte bancaire du montant de la commande que si le Partenaire Marchand confirme son expédition. La facture sera générée par le Partenaire Marchand qui vous la fera parvenir par email et/ou par voie postale lors de l’expédition de votre commande.
 
-### 4.5 Les garanties que vous pouvez souscrire pour les produits de la Galerie Marchande Rue du Commerce
+### 4.5 Les garanties que vous pouvez souscrire pour les produits de la Galerie Marchande Rue du Commerce
 
 Parce que votre satisfaction est notre priorité, Rue du Commerce vous propose différentes extensions de garanties pour vous permettre de profiter un maximum de vos achats effectués sur la Galerie Marchande Rue du commerce.
 
@@ -100,7 +100,7 @@ Pour connaître toutes les garanties et leurs conditions, rendez-vous ici
 
 Nous vous rappelons que l’adhésion à ces garanties ne saurait faire obstacle à ce que vous bénéficiez des garanties légales que le Partenaire Marchand se doit de respecter, à savoir la garantie relative aux défauts cachés au sens des articles 1641 à 1649 du Code Civil ainsi que de la garantie relative aux défauts de conformité au sens des articles L.217-4, L.217-5, L.217-7 et L.217-12 du Code de la consommation. L’adhésion ne se confond pas avec lesdites garanties légales, ni ne les remplace.
 
-### 4.6 Paiement d’une commande passée sur la Galerie Marchande Rue du Commerce
+### 4.6 Paiement d’une commande passée sur la Galerie Marchande Rue du Commerce
 
 En choisissant l’un des modes de paiement proposés lors de la validation finale de la commande et en cliquant sur l'onglet "Payer pour commander", vous reconnaissez que la passation d'une commande entraine le paiement de celle-ci.
 
@@ -122,7 +122,7 @@ Pour plus de détails sur les modes de paiement acceptés sur Rue du Commerce, r
 
 Vous êtes informés que Rue du Commerce est mandaté par les Partenaires Marchands pour encaisser, en leur nom et pour leur compte, le prix de vente de la commande. Ce montant est consigné après votre commande sur un compte-séquestre. Rue du Commerce ne procèdera au paiement entre les mains du Partenaire Marchand que si ce dernier confirme l'expédition de votre commande. Dans le cas contraire, si la commande connait un écart de stock ou n'est pas livré par le Partenaire Marchand, le montant de la commande vous sera remboursé, à moins que vous ne préfériez un échange.
 
-### 4.7 Expédition / livraison d’une commande passée sur la Galerie Marchande Rue du Commerce
+### 4.7 Expédition / livraison d’une commande passée sur la Galerie Marchande Rue du Commerce
 
 Une fois la commande confirmée, Rue du Commerce communique au Partenaire Marchand votre adresse de livraison. Votre commande sera préparée et expédiée par le Partenaire Marchand, sous sa responsabilité.
 
@@ -132,7 +132,7 @@ Si vous avez achetez plusieurs Produits auprès de différents Partenaires March
 
 **Bon à savoir** : Pour toute question concernant le suivi de votre commande, contactez le Partenaire Marchand par le biais de votre espace client.
 
-### 4.8 Je rencontre un problème avec une commande passée sur la Galerie Marchande Rue du Commerce
+### 4.8 Je rencontre un problème avec une commande passée sur la Galerie Marchande Rue du Commerce
 
 Si vous souhaitez annuler votre commande, si vous n’avez pas reçu votre Produit dans le délai prévu, si celui-ci comporte des défauts ou si vous voulez le renvoyer, veuillez contacter votre vendeur, Partenaire Marchand, via votre espace client, et vous reporter à ses conditions générales de vente.
 
@@ -154,7 +154,7 @@ En résumé :
 5\. Les engagements de la Galerie Marchande Rue du Commerce
 --------------------------------------------------------------
 
-### 5.1 Paiement sécurisé
+### 5.1 Paiement sécurisé
 
 Nous vous garantissons des paiements en ligne sécurisés.
 
@@ -164,7 +164,7 @@ Nous vous certifions que les coordonnées de cartes de paiement sont cryptées g
 
 Le paiement est directement effectué auprès de la banque. Les données concernant votre carte de paiement ne sont pas archivées par Rue du Commerce. Pour réaliser une nouvelle commande et pour garantir la sécurisation de vos données, vous devrez vous identifier de nouveau et saisir votre mot de passe.
 
-### 5.2 La « Garantie Zen » : pour des achats en toute sérénité
+### 5.2 La « Garantie Zen » : pour des achats en toute sérénité
 
 Si vous rencontrez des difficultés dans la relation commerciale avec notre Partenaire Marchand, Rue du Commerce s’engage à intervenir auprès du Partenaire Marchand : c'est la Garantie Zen Rue du Commerce !  
   
@@ -215,13 +215,13 @@ Pour faire jouer votre Garantie Zen vous devez contacter Rue du Commerce via le 
 
 Nous nous engageons à vous apporter une réponse dans un délai maximum de 10 jours, suivant le dépôt de votre requête
 
-### 5.3 En cas de litige persistant avec le Partenaire Marchand
+### 5.3 En cas de litige persistant avec le Partenaire Marchand
 
 Si aucune solution ne peut être trouvée avec le Partenaire Marchand malgré l’intervention de Rue du Commerce, nous vous rappelons que :
 
 \- Conformément à l’article L.612-1 du Code de la consommation, votre Partenaire Marchand doit vous proposer un règlement amiable et gratuit des litiges auprès d’un médiateur de la consommation. Pour plus de détail, nous vous invitons à consulter les conditions générales de vente de votre Partenaire Marchand. Vous restez libre d’accepter ou de refuser le recours à la médiation et, en cas de recours à la médiation, chaque partie est libre d’accepter ou de refuser la solution proposée par le médiateur.
 
-\- Conformément à l’article 14 du Règlement (UE) n°524/2013, la Commission Européenne a mis en place une plateforme de règlement en ligne des litiges ([https://webgate.ec.europa.eu/odr](https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home.chooseLanguage)), facilitant le règlement indépendant par voie extrajudiciaire des litiges entre consommateurs et professionnels de l’Union européenne. Vous restez libre d’accepter ou de refuser le recours à la médiation et, en cas de recours à la médiation, chaque partie est libre d’accepter ou de refuser la solution proposée par le médiateur.  
+\- Conformément à l’article 14 du Règlement (UE) n°524/2013, la Commission Européenne a mis en place une plateforme de règlement en ligne des litiges ([https://webgate.ec.europa.eu/odr](https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home.chooseLanguage)), facilitant le règlement indépendant par voie extrajudiciaire  des litiges entre consommateurs et professionnels de l’Union européenne. Vous restez libre d’accepter ou de refuser le recours à la médiation et, en cas de recours à la médiation, chaque partie est libre d’accepter ou de refuser la solution proposée par le médiateur.  
   
 
   
@@ -272,7 +272,7 @@ En achetant un Produit sur la Galerie Marchande Rue du Commerce, vous réalisez 
 
 Les offres du site Rue du Commerce, qu'elles soient proposées par Rue du Commerce ou des Partenaires Marchands, sont présentées par le biais d’un moteur de recherche thématique fonctionnant grâce à des mots clefs. Vous pouvez également y accéder en visitant les différentes rubriques proposées.
 
-### 4.2 Les fiches produit de la Galerie Marchande Rue du Commerce
+### 4.2 Les fiches produit de la Galerie Marchande Rue du Commerce
 
 Chaque produit mis en vente par un Partenaire Marchand sur la Galerie Marchande Rue du Commerce est détaillé dans une Fiche Produit qui lui sera consacrée, accessible sur les Sites.
 
@@ -305,7 +305,7 @@ Le prix des produits mis en vente par le biais de la Galerie Marchande Rue du Co
 Le prix est indiqué dans la Fiche Produit en euros, toutes taxes comprises hors frais de livraison (et de services).
 
 ###    
-4.4 Passer commande sur la Galerie Marchande Rue du Commerce
+4.4 Passer commande sur la Galerie Marchande Rue du Commerce
 
 Pour passer une commande auprès d’un Partenaire Marchand, vous devez être inscrit sur le Site et vous identifier sur votre espace client à l’aide de votre adresse email et de votre mot de passe.
 
@@ -315,7 +315,7 @@ Dès que vous validez votre commande, nous la transmettons au Partenaire Marchan
 
 Rue du Commerce ne débitera votre compte bancaire du montant de la commande que si le Partenaire Marchand confirme son expédition. La facture sera générée par le Partenaire Marchand qui vous la fera parvenir par email et/ou par voie postale lors de l’expédition de votre commande.
 
-### 4.5 Les garanties que vous pouvez souscrire pour les produits de la Galerie Marchande Rue du Commerce
+### 4.5 Les garanties que vous pouvez souscrire pour les produits de la Galerie Marchande Rue du Commerce
 
 Parce que votre satisfaction est notre priorité, Rue du Commerce vous propose différentes extensions de garanties pour vous permettre de profiter un maximum de vos achats effectués sur la Galerie Marchande Rue du commerce.
 
@@ -323,7 +323,7 @@ Pour connaître toutes les garanties et leurs conditions, rendez-vous ici
 
 Nous vous rappelons que l’adhésion à ces garanties ne saurait faire obstacle à ce que vous bénéficiez des garanties légales que le Partenaire Marchand se doit de respecter, à savoir la garantie relative aux défauts cachés au sens des articles 1641 à 1649 du Code Civil ainsi que de la garantie relative aux défauts de conformité au sens des articles L.217-4, L.217-5, L.217-7 et L.217-12 du Code de la consommation. L’adhésion ne se confond pas avec lesdites garanties légales, ni ne les remplace.
 
-### 4.6 Paiement d’une commande passée sur la Galerie Marchande Rue du Commerce
+### 4.6 Paiement d’une commande passée sur la Galerie Marchande Rue du Commerce
 
 En choisissant l’un des modes de paiement proposés lors de la validation finale de la commande et en cliquant sur l'onglet "Payer pour commander", vous reconnaissez que la passation d'une commande entraine le paiement de celle-ci.
 
@@ -345,7 +345,7 @@ Pour plus de détails sur les modes de paiement acceptés sur Rue du Commerce, r
 
 Vous êtes informés que Rue du Commerce est mandaté par les Partenaires Marchands pour encaisser, en leur nom et pour leur compte, le prix de vente de la commande. Ce montant est consigné après votre commande sur un compte-séquestre. Rue du Commerce ne procèdera au paiement entre les mains du Partenaire Marchand que si ce dernier confirme l'expédition de votre commande. Dans le cas contraire, si la commande connait un écart de stock ou n'est pas livré par le Partenaire Marchand, le montant de la commande vous sera remboursé, à moins que vous ne préfériez un échange.
 
-### 4.7 Expédition / livraison d’une commande passée sur la Galerie Marchande Rue du Commerce
+### 4.7 Expédition / livraison d’une commande passée sur la Galerie Marchande Rue du Commerce
 
 Une fois la commande confirmée, Rue du Commerce communique au Partenaire Marchand votre adresse de livraison. Votre commande sera préparée et expédiée par le Partenaire Marchand, sous sa responsabilité.
 
@@ -355,7 +355,7 @@ Si vous avez achetez plusieurs Produits auprès de différents Partenaires March
 
 **Bon à savoir** : Pour toute question concernant le suivi de votre commande, contactez le Partenaire Marchand par le biais de votre espace client.
 
-### 4.8 Je rencontre un problème avec une commande passée sur la Galerie Marchande Rue du Commerce
+### 4.8 Je rencontre un problème avec une commande passée sur la Galerie Marchande Rue du Commerce
 
 Si vous souhaitez annuler votre commande, si vous n’avez pas reçu votre Produit dans le délai prévu, si celui-ci comporte des défauts ou si vous voulez le renvoyer, veuillez contacter votre vendeur, Partenaire Marchand, via votre espace client, et vous reporter à ses conditions générales de vente.
 
@@ -377,7 +377,7 @@ En résumé :
 5\. Les engagements de la Galerie Marchande Rue du Commerce
 --------------------------------------------------------------
 
-### 5.1 Paiement sécurisé
+### 5.1 Paiement sécurisé
 
 Nous vous garantissons des paiements en ligne sécurisés.
 
@@ -387,7 +387,7 @@ Nous vous certifions que les coordonnées de cartes de paiement sont cryptées g
 
 Le paiement est directement effectué auprès de la banque. Les données concernant votre carte de paiement ne sont pas archivées par Rue du Commerce. Pour réaliser une nouvelle commande et pour garantir la sécurisation de vos données, vous devrez vous identifier de nouveau et saisir votre mot de passe.
 
-### 5.2 La « Garantie Zen » : pour des achats en toute sérénité
+### 5.2 La « Garantie Zen » : pour des achats en toute sérénité
 
 Si vous rencontrez des difficultés dans la relation commerciale avec notre Partenaire Marchand, Rue du Commerce s’engage à intervenir auprès du Partenaire Marchand : c'est la Garantie Zen Rue du Commerce !  
   
@@ -438,10 +438,10 @@ Pour faire jouer votre Garantie Zen vous devez contacter Rue du Commerce via le 
 
 Nous nous engageons à vous apporter une réponse dans un délai maximum de 10 jours, suivant le dépôt de votre requête
 
-### 5.3 En cas de litige persistant avec le Partenaire Marchand
+### 5.3 En cas de litige persistant avec le Partenaire Marchand
 
 Si aucune solution ne peut être trouvée avec le Partenaire Marchand malgré l’intervention de Rue du Commerce, nous vous rappelons que :
 
 \- Conformément à l’article L.612-1 du Code de la consommation, votre Partenaire Marchand doit vous proposer un règlement amiable et gratuit des litiges auprès d’un médiateur de la consommation. Pour plus de détail, nous vous invitons à consulter les conditions générales de vente de votre Partenaire Marchand. Vous restez libre d’accepter ou de refuser le recours à la médiation et, en cas de recours à la médiation, chaque partie est libre d’accepter ou de refuser la solution proposée par le médiateur.
 
-\- Conformément à l’article 14 du Règlement (UE) n°524/2013, la Commission Européenne a mis en place une plateforme de règlement en ligne des litiges ([https://webgate.ec.europa.eu/odr](https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home.chooseLanguage)), facilitant le règlement indépendant par voie extrajudiciaire des litiges entre consommateurs et professionnels de l’Union européenne. Vous restez libre d’accepter ou de refuser le recours à la médiation et, en cas de recours à la médiation, chaque partie est libre d’accepter ou de refuser la solution proposée par le médiateur.
+\- Conformément à l’article 14 du Règlement (UE) n°524/2013, la Commission Européenne a mis en place une plateforme de règlement en ligne des litiges ([https://webgate.ec.europa.eu/odr](https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home.chooseLanguage)), facilitant le règlement indépendant par voie extrajudiciaire  des litiges entre consommateurs et professionnels de l’Union européenne. Vous restez libre d’accepter ou de refuser le recours à la médiation et, en cas de recours à la médiation, chaque partie est libre d’accepter ou de refuser la solution proposée par le médiateur.
