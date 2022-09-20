@@ -87,13 +87,13 @@ PMS: White
 
 **9\. Permissible Uses of the AWS Marks.** Except as permitted in Section 3 and as otherwise expressly permitted by us in writing, you may only use the AWS Marks: (i) in a relational phrase using “for” or one of the equivalent naming conventions listed below; or (ii) to the right of the top-level domain name (e.g., ”.com”, ”.net”, ”.uk”) in a URL.
 
-*   Relational Phrases.  
+* Relational Phrases.  
     Example of Permissible Use:  
     \[Your Application\] for EC2  
     Equivalents:  
     You may replace “for” in this example with any of the following, so long as the term you use is accurate when used with the AWS Marks: “for use with”; “with”; “compatible with”; “works with”; “powered by”; “built on”; “built with”; “developed on”; “developed with.”  
     You may replace “EC2” in this example with any of the AWS Marks, so long as your use of the AWS Marks is accurate.
-*   URLs.  
+* URLs.  
     Example of Permissible Use:  
     www.YourDomainName.com/aws  
     Equivalents:  
