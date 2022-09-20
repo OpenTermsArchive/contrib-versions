@@ -132,13 +132,13 @@ Google may modify these terms or any additional terms that apply to the Service 
 
 If You link a Property to Firebase (**“Firebase Linkage”**) as part of using the Service, the following terms, in addition to Sections 1-16 above, will also apply to You, and will also govern Your use of the Service, including with respect to Your use of Firebase Linkage. Other than as modified below, all other terms will stay the same and continue to apply. In the event of a conflict between this Section 17 and Sections 1-16 above, the terms in Section 17 will govern and control solely with respect to Your use of the Firebase Linkage.
 
-1.  The following definition in Section 1 is modified as follows:
-    1.  "Hit" means a collection of interactions that results in data being sent to the Service and processed. Examples of Hits may include page view hits and ecommerce hits. A Hit can be a call to the Service by various libraries, but does not have to be so (e.g., a Hit can be delivered to the Service by other Google Analytics-supported protocols and mechanisms made available by the Service to You). For the sake of clarity, a Hit does not include certain events whose collection reflects interactions with certain Properties capable of supporting multiple data streams, and which may include screen views and custom events (the collection of events, an **“Enhanced Packet”**).
-2.  The following sentence is added to the end of Section 7 as follows:
-    1.  If You link a Property to a Firebase project (**“Firebase Linkage”**) (i) certain data from Your Property, including Customer Data, may be made accessible within or to any other entity or personnel according to permissions set in Firebase and (ii) that Property may have certain Service settings modified by authorized personnel of Firebase (notwithstanding the settings You may have designated for that Property within the Service).
+1. The following definition in Section 1 is modified as follows:
+    1. "Hit" means a collection of interactions that results in data being sent to the Service and processed. Examples of Hits may include page view hits and ecommerce hits. A Hit can be a call to the Service by various libraries, but does not have to be so (e.g., a Hit can be delivered to the Service by other Google Analytics-supported protocols and mechanisms made available by the Service to You). For the sake of clarity, a Hit does not include certain events whose collection reflects interactions with certain Properties capable of supporting multiple data streams, and which may include screen views and custom events (the collection of events, an **“Enhanced Packet”**).
+2. The following sentence is added to the end of Section 7 as follows:
+    1. If You link a Property to a Firebase project (**“Firebase Linkage”**) (i) certain data from Your Property, including Customer Data, may be made accessible within or to any other entity or personnel according to permissions set in Firebase and (ii) that Property may have certain Service settings modified by authorized personnel of Firebase (notwithstanding the settings You may have designated for that Property within the Service).
 
 Last Updated: 31 March 2021
 
 **Previous Versions**
 
-*   [June 17, 2019](https://marketingplatform.google.com/about/analytics/terms/gb-20190617/)
+* [June 17, 2019](https://marketingplatform.google.com/about/analytics/terms/gb-20190617/)
