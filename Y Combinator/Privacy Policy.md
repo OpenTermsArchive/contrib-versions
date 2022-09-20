@@ -32,13 +32,13 @@ We collect information that alone or in combination with other information in ou
 
 **Personal Information We Receive Automatically From Your Use of the Service**: When you visit, use, and interact with the Service, we may receive certain information about your visit, use, or interactions (“**Technical Information**”). For example, we may monitor the number of people that visit the Site, peak hours of visits, which page(s) are visited, the domains our visitors come from (e.g., google.com, yahoo.com, etc.), and which browsers people use to access the Service (e.g., Chrome, Firefox, Microsoft Internet Explorer, etc.), broad geographical information, and navigation pattern. In particular, Technical Information includes the following, which is created and automatically logged in our systems:
 
-*   Log data: Log data is information that your browser automatically sends whenever you visit the Site Log data includes your Internet Protocol address, browser type and settings, the date and time of your request, and how you interacted with the Site.
+* Log data: Log data is information that your browser automatically sends whenever you visit the Site Log data includes your Internet Protocol address, browser type and settings, the date and time of your request, and how you interacted with the Site.
     
-*   Cookies: Please see the “Cookies” section below to learn more about how we use cookies.
+* Cookies: Please see the “Cookies” section below to learn more about how we use cookies.
     
-*   Device information: Includes name of the device, operating system, and browser you are using. Information collected may depend on the type of device you use and its settings.
+* Device information: Includes name of the device, operating system, and browser you are using. Information collected may depend on the type of device you use and its settings.
     
-*   Usage Information: We collect information about how you use our Service, such as the types of content that you view or engage with, the features you use, the actions you take, and the time, frequency, and duration of your activities.
+* Usage Information: We collect information about how you use our Service, such as the types of content that you view or engage with, the features you use, the actions you take, and the time, frequency, and duration of your activities.
     
 
 **Cookies**: We use cookies to operate and administer our Site, gather usage data on our Site, and improve your experience on it. A “cookie” is a piece of information sent to your browser by a website you visit. Cookies can be stored on your computer for different periods of time. Some cookies expire after a certain amount of time, or upon logging out (session cookies), others survive after your browser is closed until a defined expiration date set in the cookie (as determined by the third party placing it), and help recognize your computer when you open your browser and browse the Internet again (persistent cookies). For more details on cookies please visit [All About Cookies](http://www.allaboutcookies.org/).
@@ -49,13 +49,13 @@ We collect information that alone or in combination with other information in ou
 
 **Your Choices**. On most web browsers, you will find a “help” section on the toolbar. Please refer to this section for information on how to receive a notification when you are receiving a new cookie and how to turn cookies off. Please see the links below for guidance on how to modify your web browser’s settings on the most popular browsers:
 
-*   [Internet Explorer](http://windows.microsoft.com/en-gb/internet-explorer/delete-manage-cookies#ie=ie-11)
+* [Internet Explorer](http://windows.microsoft.com/en-gb/internet-explorer/delete-manage-cookies#ie=ie-11)
     
-*   [Mozilla Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences?esab=a&s=cookies&r=6&as=s)
+* [Mozilla Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences?esab=a&s=cookies&r=6&as=s)
     
-*   [Google Chrome](https://support.google.com/accounts/answer/61416?hl=en)
+* [Google Chrome](https://support.google.com/accounts/answer/61416?hl=en)
     
-*   [Apple Safari](https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac)
+* [Apple Safari](https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac)
     
 
 Please note that if you limit the ability of websites to set cookies, you may be unable to access certain parts of the Site and you may not be able to benefit from the full functionality of the Site.
@@ -68,27 +68,27 @@ If you access the Site on your mobile device, you may not be able to control tra
 
 We may use Personal Information for the following purposes:
 
-*   To provide and administer access to the Service;
+* To provide and administer access to the Service;
     
-*   To grant access to and track attendance at our events;
+* To grant access to and track attendance at our events;
     
-*   To inform you about services or events we believe might be of interest to you;
+* To inform you about services or events we believe might be of interest to you;
     
-*   To administer promotions and surveys you choose to participate in, as required by applicable law (for example, to provide a winners list or make required filings), or in accordance with the rules of the promotion or survey;
+* To administer promotions and surveys you choose to participate in, as required by applicable law (for example, to provide a winners list or make required filings), or in accordance with the rules of the promotion or survey;
     
-*   To respond to your inquiries, comments, feedback, or questions;
+* To respond to your inquiries, comments, feedback, or questions;
     
-*   To send administrative information to you, for example, information regarding the Service and changes to our terms, conditions, and policies;
+* To send administrative information to you, for example, information regarding the Service and changes to our terms, conditions, and policies;
     
-*   To analyze how you interact with our Service;
+* To analyze how you interact with our Service;
     
-*   To maintain and improve the content and functionality of the Service;
+* To maintain and improve the content and functionality of the Service;
     
-*   To develop new programs and services;
+* To develop new programs and services;
     
-*   To prevent fraud, criminal activity, or misuses of our Service, and to ensure the security of our IT systems, architecture, and networks; and
+* To prevent fraud, criminal activity, or misuses of our Service, and to ensure the security of our IT systems, architecture, and networks; and
     
-*   To comply with legal obligations and legal process and to protect our rights, privacy, safety, or property, and/or that of our affiliates, you, or other third parties.
+* To comply with legal obligations and legal process and to protect our rights, privacy, safety, or property, and/or that of our affiliates, you, or other third parties.
     
 
 **Aggregated Information**. We may aggregate Personal Information and use the aggregated information to analyze the effectiveness of our Service, to improve and add features to our Service, and for other similar purposes. In addition, from time to time, we may analyze the general behavior and characteristics of users of our Services and share aggregated information like general user statistics with prospective business partners. We may collect aggregated information through the Service, through cookies, and through other means described in this Privacy Policy.
@@ -97,15 +97,15 @@ We may use Personal Information for the following purposes:
 
 In certain circumstances we may share your Personal Information with third parties without further notice to you, unless required by the law, as set forth below:
 
-*   **Vendors and Service Providers**: To assist us in meeting business operations needs and to perform certain services and functions, we may share Personal Information with vendors and service providers, including providers of hosting services, cloud services, and other information technology services providers, event management services, email communication software and email newsletter services, advertising and marketing services, and web analytics services. Pursuant to our instructions, these parties will access, process, or store Personal Information in the course of performing their duties to us.
+* **Vendors and Service Providers**: To assist us in meeting business operations needs and to perform certain services and functions, we may share Personal Information with vendors and service providers, including providers of hosting services, cloud services, and other information technology services providers, event management services, email communication software and email newsletter services, advertising and marketing services, and web analytics services. Pursuant to our instructions, these parties will access, process, or store Personal Information in the course of performing their duties to us.
     
-*   **Business Transfers**: If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, sale of all or a portion of our assets, or transition of service to another provider (collectively a “Transaction”), your Personal Information and other information may be shared in the diligence process with counterparties and others assisting with the Transaction and transferred to a successor or affiliate as part of that Transaction along with other assets.
+* **Business Transfers**: If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, sale of all or a portion of our assets, or transition of service to another provider (collectively a “Transaction”), your Personal Information and other information may be shared in the diligence process with counterparties and others assisting with the Transaction and transferred to a successor or affiliate as part of that Transaction along with other assets.
     
-*   **Legal Requirements**: If required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, including to meet national security or law enforcement requirements, (ii) protect and defend our rights or property, (iii) prevent fraud, (iv) act in urgent circumstances to protect the personal safety of users of the Services, or the public, or (v) protect against legal liability.
+* **Legal Requirements**: If required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, including to meet national security or law enforcement requirements, (ii) protect and defend our rights or property, (iii) prevent fraud, (iv) act in urgent circumstances to protect the personal safety of users of the Services, or the public, or (v) protect against legal liability.
     
-*   **Affiliates**: We may share Personal Information with our affiliates, meaning an entity that controls, is controlled by, or is under common control with Y Combinator. Our affiliates will use the Personal Information we share in a manner consistent with this Privacy Policy.
+* **Affiliates**: We may share Personal Information with our affiliates, meaning an entity that controls, is controlled by, or is under common control with Y Combinator. Our affiliates will use the Personal Information we share in a manner consistent with this Privacy Policy.
     
-*   **Other Users**: certain actions you take may be visible to other users of the Service. For example, the “about” field in your Profile Information, and submissions or comments you post on Hacker News, are published on the Internet.
+* **Other Users**: certain actions you take may be visible to other users of the Service. For example, the “about” field in your Profile Information, and submissions or comments you post on Hacker News, are published on the Internet.
     
 
 ### 4\. UPDATE YOUR INFORMATION
@@ -133,11 +133,11 @@ The following disclosures are intended to provide additional information about (
 
 To the extent provided for by law and subject to applicable exceptions, California residents have the following privacy rights in relation to the Personal Information we collect:
 
-*   The right to know what Personal Information we have collected and how we have used and disclosed that Personal Information;
+* The right to know what Personal Information we have collected and how we have used and disclosed that Personal Information;
     
-*   The right to request deletion of your Personal Information; and
+* The right to request deletion of your Personal Information; and
     
-*   The right to be free from discrimination relating to the exercise of any of your privacy rights.
+* The right to be free from discrimination relating to the exercise of any of your privacy rights.
     
 
 **We do not and will not sell your Personal Information.**
