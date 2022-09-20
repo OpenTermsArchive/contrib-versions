@@ -9,11 +9,11 @@ We are a leading global media and entertainment company that creates content and
 
 Trust is a cornerstone of our mission at Paramount. We are committed to gaining and maintaining your trust by following a core set of privacy principles:
 
-*   Transparency – We will tell you what information we collect about you and how we use it.
-*   Choice – When possible, we will give you choices about how your information is collected and used.
-*   Access – When possible, and when required by law, we will provide you with access to the information that we collect about you.
-*   Security – We will protect your information with reasonable security measures.
-*   Accountability – We will take responsibility for the secure processing of your information and do our best to address any concerns or questions that you have about how we process your information.
+* Transparency – We will tell you what information we collect about you and how we use it.
+* Choice – When possible, we will give you choices about how your information is collected and used.
+* Access – When possible, and when required by law, we will provide you with access to the information that we collect about you.
+* Security – We will protect your information with reasonable security measures.
+* Accountability – We will take responsibility for the secure processing of your information and do our best to address any concerns or questions that you have about how we process your information.
 
 This Privacy Policy applies to all information about you that we collect in connection with the Services throughout the world. There may be additional notices about our information practices and choices for certain Paramount offerings. By using any of the Services, you acknowledge the data collection practices and purposes outlined in this Privacy Policy. You can learn more about Paramount and our affiliates by visiting our affiliates page [https://www.viacomcbs.com/brands](https://www.viacomcbs.com/brands).
 
@@ -141,10 +141,10 @@ Your Choices, Rights, and Controls
 
 **Ad Choices.** We, our affiliates, and any associated third-parties may collect information on our Services and on third-party websites to help serve advertising that will be relevant to your interests across your devices, browsers, and on and off our Services. This is known as interest-based advertising. We rely on third parties who collect information on the Services to provide opt-outs or other controls to you. For more information on how to opt-out of receiving interest-based advertising on desktop and mobile websites, please visit:
 
-*   Digital Advertising Alliance (US) [https://www.aboutads.info/choices/](https://www.aboutads.info/choices/)
-*   Digital Advertising Alliance (Canada) [https://youradchoices.ca/en/tools](https://youradchoices.ca/en/tools)
-*   Digital Advertising Alliance (EU) [https://www.youronlinechoices.com/](https://www.youronlinechoices.com/)
-*   Network Advertising Initiative [https://optout.networkadvertising.org/?c=1](https://optout.networkadvertising.org/?c=1)
+* Digital Advertising Alliance (US) [https://www.aboutads.info/choices/](https://www.aboutads.info/choices/)
+* Digital Advertising Alliance (Canada) [https://youradchoices.ca/en/tools](https://youradchoices.ca/en/tools)
+* Digital Advertising Alliance (EU) [https://www.youronlinechoices.com/](https://www.youronlinechoices.com/)
+* Network Advertising Initiative [https://optout.networkadvertising.org/?c=1](https://optout.networkadvertising.org/?c=1)
 
 You can also opt out of interest-based advertising with some of the service providers we use, such as Google [https://adssettings.google.com/authenticated](https://adssettings.google.com/authenticated). Please note that, if you opt out of interest-based advertising, some information will still be collected for other purposes, such as research, analytics, and internal operations. You will also continue to receive contextual advertisements, but they may be less relevant to your interests.
 
@@ -190,71 +190,71 @@ CCPA metrics [https://www.viacomcbsprivacy.com/metrics/ccpa/](https://www.viacom
 
 #### **Identifiers**
 
-*   Names and Aliases
-*   Physical Address
-*   Phone Number
-*   E-Mail Address
-*   IP Address
-*   Unique Identifiers
+* Names and Aliases
+* Physical Address
+* Phone Number
+* E-Mail Address
+* IP Address
+* Unique Identifiers
 
 #### **Legally Protected Characteristics**
 
-*   Gender
-*   Age
+* Gender
+* Age
 
 #### **Commercial Information**
 
-*   Interactions with Customer Service
-*   Information about transactions made on our Services, including purchase history
-*   Customer preferences and attributes, such as likes, interests, social media statuses and updates, pictures, and references to your online presence
+* Interactions with Customer Service
+* Information about transactions made on our Services, including purchase history
+* Customer preferences and attributes, such as likes, interests, social media statuses and updates, pictures, and references to your online presence
 
 #### **Financial Information**
 
-*   Credit card numbers
+* Credit card numbers
 
 #### **Inferences drawn from Personal Information categories**
 
-*   Information related to your preferences, attitudes, online behaviors, demographics, product and ad choices, and preferences
+* Information related to your preferences, attitudes, online behaviors, demographics, product and ad choices, and preferences
 
 #### **Geolocation**
 
-*   Information related to your location, including your IP address
+* Information related to your location, including your IP address
 
 #### **Internet/ Electronic Activity**
 
-*   Information collected through tracking tools, such as browser cookies and web beacons. To learn more about these tools and how to control them, please visit the Paramount Cookie Policy [https://www.viacomcbsprivacy.com/cookies](https://www.viacomcbsprivacy.com/cookies).
-*   Information related to your location, including your IP address
-*   Passwords
-*   Device attributes
+* Information collected through tracking tools, such as browser cookies and web beacons. To learn more about these tools and how to control them, please visit the Paramount Cookie Policy [https://www.viacomcbsprivacy.com/cookies](https://www.viacomcbsprivacy.com/cookies).
+* Information related to your location, including your IP address
+* Passwords
+* Device attributes
 
 We collect Personal Information from the following sources:
 
-*   Directly from you (e.g. Information provided when you register with one of our Services, submit payment for Services, post on our Services, when you correspond with us, information provided and collected offline, etc.);
-*   Automatically collected information (e.g. collected automatically through cookies and other online tracking technologies, etc.);
-*   Business partners (e.g. Analytics companies, etc.);
-*   Third parties (e.g. data brokers, marketing companies, advertising partners, social media platforms, data aggregators, public databases, etc.); or
-*   Inferences from your profile or online behaviors.
+* Directly from you (e.g. Information provided when you register with one of our Services, submit payment for Services, post on our Services, when you correspond with us, information provided and collected offline, etc.);
+* Automatically collected information (e.g. collected automatically through cookies and other online tracking technologies, etc.);
+* Business partners (e.g. Analytics companies, etc.);
+* Third parties (e.g. data brokers, marketing companies, advertising partners, social media platforms, data aggregators, public databases, etc.); or
+* Inferences from your profile or online behaviors.
 
 ### Personal Information Disclosed for a Business Purpose to Third Parties
 
 The categories of Personal Information listed above may be disclosed to the following categories of third parties:
 
-*   The Paramount family of companies;
-*   In connection with a corporate transaction (e.g. any purchase, sale, lease, merger, acquisition, disposal, or financing involving our brands);
-*   Our service providers (e.g. cloud services providers, technical service providers, law firms, accounting firms, etc.);
-*   Business partners (e.g. audience measurement companies, marketing companies, sweepstakes partners, other partners who are working with us on co-branded Services or events, etc.);
-*   Sponsors and other partners for contests, giveaways, sweepstakes, and promotions;
-*   Advertising partners to provide advertising based on your interests;
-*   When you ask us to provide information to a third party; or
-*   To law enforcement or others if required by law.
-*   The disclosures to third parties listed above may be for any of the following business purposes
-*   To provide you with our Services;
-*   For marketing purposes;
-*   To provide you with ads or information we think may be of interest to you;
-*   To improve our products and Services;
-*   To enable you to participate in public platforms or other interactive features of the Services;
-*   To maintain the safety and security of our Services; or
-*   As otherwise permitted by law.
+* The Paramount family of companies;
+* In connection with a corporate transaction (e.g. any purchase, sale, lease, merger, acquisition, disposal, or financing involving our brands);
+* Our service providers (e.g. cloud services providers, technical service providers, law firms, accounting firms, etc.);
+* Business partners (e.g. audience measurement companies, marketing companies, sweepstakes partners, other partners who are working with us on co-branded Services or events, etc.);
+* Sponsors and other partners for contests, giveaways, sweepstakes, and promotions;
+* Advertising partners to provide advertising based on your interests;
+* When you ask us to provide information to a third party; or
+* To law enforcement or others if required by law.
+* The disclosures to third parties listed above may be for any of the following business purposes
+* To provide you with our Services;
+* For marketing purposes;
+* To provide you with ads or information we think may be of interest to you;
+* To improve our products and Services;
+* To enable you to participate in public platforms or other interactive features of the Services;
+* To maintain the safety and security of our Services; or
+* As otherwise permitted by law.
 
 ### Information about the Sale of Personal Information
 
@@ -264,16 +264,16 @@ Where a brand does this or otherwise “sells” your information, we will give 
 
 The following types of information may be “sold”:
 
-*   Names and Aliases;
-*   Email Address;
-*   IP Address;
-*   Unique Identifier;
-*   Information about transactions or content choices made on or in connection with our Services;
-*   Customer preferences and attributes, such as likes, interests, social media statuses and updates, pictures, and references to your online presence;
-*   Information related to your preferences, attitudes, online behaviors, demographics, product and ad choices, and preferences;
-*   Information related to your location, including your IP address;
-*   Information collected through cookies and web beacons; or
-*   Device attributes.
+* Names and Aliases;
+* Email Address;
+* IP Address;
+* Unique Identifier;
+* Information about transactions or content choices made on or in connection with our Services;
+* Customer preferences and attributes, such as likes, interests, social media statuses and updates, pictures, and references to your online presence;
+* Information related to your preferences, attitudes, online behaviors, demographics, product and ad choices, and preferences;
+* Information related to your location, including your IP address;
+* Information collected through cookies and web beacons; or
+* Device attributes.
 
 Paramount does not engage in any “sales” of Personal Information of users that it has actual knowledge are minors under the age of sixteen.
 
@@ -295,12 +295,12 @@ EEA, the UK or Switzerland
 
 If you are located in the European Economic Area (the EEA,) in the United Kingdom (the UK) or in Switzerland, you may have certain rights under applicable data protection laws:
 
-*   The right to request access to, and a copy of, the information we hold about you, including details as to how we process this information.
-*   The right to object to, or restrict, our processing of your information.
-*   The right to request that your information be erased from further use.
-*   The right to correct, amend, or update information you have given us (in some instances, where you have an account with us, you can also do this by logging in and updating your information).
-*   The right of portability, which allows you to request that we share your information with others.
-*   The right to withdraw any consent to processing you have provided us.
+* The right to request access to, and a copy of, the information we hold about you, including details as to how we process this information.
+* The right to object to, or restrict, our processing of your information.
+* The right to request that your information be erased from further use.
+* The right to correct, amend, or update information you have given us (in some instances, where you have an account with us, you can also do this by logging in and updating your information).
+* The right of portability, which allows you to request that we share your information with others.
+* The right to withdraw any consent to processing you have provided us.
 
 Please note that Paramount does not engage in any automated decision-making about you.
 
@@ -322,7 +322,7 @@ For the purposes of our processing of Personal Information in the EEA, the UK or
 
 If you would like to exercise your rights under the GDPR (or similar laws in the UK or Switzerland), please submit your request using our Privacy Rights Manager [https://www.viacomcbsprivacy.com/managemyrights](https://www.viacomcbsprivacy.com/managemyrights).
 
-*   Please note that, while we will carefully assess every request we receive, your rights may differ according to your place of residence and we may not always have to comply. When this happens, we will explain why.
+* Please note that, while we will carefully assess every request we receive, your rights may differ according to your place of residence and we may not always have to comply. When this happens, we will explain why.
 
 If you have any unresolved privacy concerns that we have not addressed satisfactorily after contacting us, you have the right to contact the UK or Swiss Data Protection Authority or an EU Data Protection Authority and lodge a complaint.
 
@@ -333,34 +333,34 @@ In certain jurisdictions, including Argentina, Brazil and Singapore, we require 
 
 In addition, you may have additional privacy rights under certain jurisdictions such as Argentina, Australia, Brazil, Canada, China, Hong Kong, India, Japan, Malaysia, Mexico, Philippines, Singapore, South Africa, and Taiwan, including but not limited to:
 
-*   The right to access your Personal Information.
-*   The right to correct/update/rectify your Personal Information.
-*   The right to delete your Personal Information
-*   The right to object or restrict to the processing or sharing of your Personal Information
-*   The rights to addition or disassociation with respect to your data.
+* The right to access your Personal Information.
+* The right to correct/update/rectify your Personal Information.
+* The right to delete your Personal Information
+* The right to object or restrict to the processing or sharing of your Personal Information
+* The rights to addition or disassociation with respect to your data.
 
 ### Australian companies
 
-*   CBS Interactive Pty Limited (ABN 41 092 094 525)
-*   Network Ten Pty Limited (ABN 91 052 515 250)
-*   Network Ten All Access Pty Limited (ABN 60 629 391 117)
-*   Network Ten (Adelaide) Pty Limited (ABN 007 577 666
-*   Network Ten (Brisbane) Pty Limited (ABN 050 148 537)
-*   Network Ten (Melbourne) Pty Limited (ABN 008 664 953)
-*   Network Ten (Perth) Pty Limited (ABN 009 108 614)
-*   Network Ten (Sydney) Pty Limited (ABN 008 664 962)
-*   Capice Pty Ltd (ABN 008 655 847)
-*   CBS International Television Australia Pty Limited (ABN 000 005 925)
-*   Chartreuse Pty Limited (ABN 008 655 874)
-*   Elevenco Pty Limited (ABN 147 043 981)
-*   VIMN Australia Pty Ltd. (ABN 18 107 601 418)
-*   Nickelodeon Australia (ABN 99 627 643 021)
-*   Nickelodeon Australia Management Pty Ltd. (ABN 99 627 643 021)
-*   Paramount Pictures Australia Pty. (ABN 85008573171)
-*   Paramount Home Entertainment (Australasia) Pty Limited (ABN 29 003 914 609)
-*   Rosy Haze Productions Pty Limited (ABN 63 630 698 529)
-*   Springy Productions Pty. Limited (ABN 164 833 229)
-*   Linbaba’s Story Pty Ltd (ABN 76 632 452 594)
+* CBS Interactive Pty Limited (ABN 41 092 094 525)
+* Network Ten Pty Limited (ABN 91 052 515 250)
+* Network Ten All Access Pty Limited (ABN 60 629 391 117)
+* Network Ten (Adelaide) Pty Limited (ABN 007 577 666
+* Network Ten (Brisbane) Pty Limited (ABN 050 148 537)
+* Network Ten (Melbourne) Pty Limited (ABN 008 664 953)
+* Network Ten (Perth) Pty Limited (ABN 009 108 614)
+* Network Ten (Sydney) Pty Limited (ABN 008 664 962)
+* Capice Pty Ltd (ABN 008 655 847)
+* CBS International Television Australia Pty Limited (ABN 000 005 925)
+* Chartreuse Pty Limited (ABN 008 655 874)
+* Elevenco Pty Limited (ABN 147 043 981)
+* VIMN Australia Pty Ltd. (ABN 18 107 601 418)
+* Nickelodeon Australia (ABN 99 627 643 021)
+* Nickelodeon Australia Management Pty Ltd. (ABN 99 627 643 021)
+* Paramount Pictures Australia Pty. (ABN 85008573171)
+* Paramount Home Entertainment (Australasia) Pty Limited (ABN 29 003 914 609)
+* Rosy Haze Productions Pty Limited (ABN 63 630 698 529)
+* Springy Productions Pty. Limited (ABN 164 833 229)
+* Linbaba’s Story Pty Ltd (ABN 76 632 452 594)
 
 ### Brazil
 
@@ -368,12 +368,12 @@ If you are a resident of Brazil, your Personal Information is controlled by MTV 
 
 If you are a resident of Brazil, you have certain additional rights under the Brazilian General Data Protection Act:
 
-*   The right to confirm the existence of the processing of your Personal Information.
-*   The right to change your marketing preferences, including the right to withdraw your consent at any time.
-*   The right to request information about the possibility of denying consent and the consequences of such denial.
-*   The right to request information about the entities, public or private, with which Paramount shared your Personal Information.
-*   The right to request anonymization, blocking or elimination when (a) you want us to establish the accuracy of the Personal Information; (b) you need the Personal Information to be maintained even if we no longer need it to establish, exercise or defend legal claims; or (c) you oppose the use of your Personal Information, unless we have verified that we have a legitimate reason for using it.
-*   The right to review automated decisions made solely on the basis of automated processing of your Personal Information that affects your interests.
+* The right to confirm the existence of the processing of your Personal Information.
+* The right to change your marketing preferences, including the right to withdraw your consent at any time.
+* The right to request information about the possibility of denying consent and the consequences of such denial.
+* The right to request information about the entities, public or private, with which Paramount shared your Personal Information.
+* The right to request anonymization, blocking or elimination when (a) you want us to establish the accuracy of the Personal Information; (b) you need the Personal Information to be maintained even if we no longer need it to establish, exercise or defend legal claims; or (c) you oppose the use of your Personal Information, unless we have verified that we have a legitimate reason for using it.
+* The right to review automated decisions made solely on the basis of automated processing of your Personal Information that affects your interests.
 
 Paramount may process your Personal Information using automated decision-making technologies that use algorithms to create a profile about you based on your interactions with our Services that automatically select advertising or content that may of interest to you. However, these technologies do not make automated decisions that may have a legal or significant effect on you without your consent, or that is not permitted under applicable law.
 
