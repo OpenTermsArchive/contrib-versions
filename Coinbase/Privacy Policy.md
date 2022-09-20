@@ -52,58 +52,58 @@ If you choose not to share certain information with us, we may not be able to se
 
 We may collect the following types of information from you:
 
-*   Personal Identification Information: Full name, date of birth, nationality, gender, signature, utility bills, photographs, phone number, home address, and/or email.
+* Personal Identification Information: Full name, date of birth, nationality, gender, signature, utility bills, photographs, phone number, home address, and/or email.
     
-*   Formal Identification Information: Government issued identity document such as Passport, Driver's License, National Identity Card, State ID Card, Tax ID number, passport number, driver's license details, national identity card details, visa information, and/or any other information deemed necessary to comply with our legal obligations under financial or anti-money laundering laws.
+* Formal Identification Information: Government issued identity document such as Passport, Driver's License, National Identity Card, State ID Card, Tax ID number, passport number, driver's license details, national identity card details, visa information, and/or any other information deemed necessary to comply with our legal obligations under financial or anti-money laundering laws.
     
-*   Institutional Information: Employer Identification number (or comparable number issued by a government), proof of legal formation (e.g. Articles of Incorporation), personal identification information for all material beneficial owners.
+* Institutional Information: Employer Identification number (or comparable number issued by a government), proof of legal formation (e.g. Articles of Incorporation), personal identification information for all material beneficial owners.
     
-*   Financial Information: Bank account information, payment card primary account number (PAN), transaction history, trading data, and/or tax identification.
+* Financial Information: Bank account information, payment card primary account number (PAN), transaction history, trading data, and/or tax identification.
     
-*   Transaction Information: Information about the transactions you make on our Services, such as the name of the recipient, your name, the amount, and/or timestamp.
+* Transaction Information: Information about the transactions you make on our Services, such as the name of the recipient, your name, the amount, and/or timestamp.
     
-*   Employment Information: Office location, job title, and/or description of role.
+* Employment Information: Office location, job title, and/or description of role.
     
-*   Correspondence: Survey responses, information provided to our support team or user research team.
+* Correspondence: Survey responses, information provided to our support team or user research team.
     
-*   Audio, electronic, visual and similar information, such as call and video recordings.
+* Audio, electronic, visual and similar information, such as call and video recordings.
     
 
 **Information we collect from you automatically.** To the extent permitted under the applicable law, we may collect certain types of information automatically, such as whenever you interact with the Sites or use the Services. This information helps us address customer support issues, improve the performance of our Sites and Services, provide you with a streamlined and personalized experience, and protect your account from fraud by detecting unauthorized access. Information collected automatically includes:
 
-*   Online Identifiers: Geo location/tracking details, browser fingerprint, operating system, browser name and version, and/or personal IP addresses.
+* Online Identifiers: Geo location/tracking details, browser fingerprint, operating system, browser name and version, and/or personal IP addresses.
     
-*   Usage Data: Authentication data, security questions, click-stream data, public social networking posts, and other data collected via cookies and similar technologies. Please read our [Cookie Policy](https://www.coinbase.com/legal/cookie?locale%3Den-US) for more information.
+* Usage Data: Authentication data, security questions, click-stream data, public social networking posts, and other data collected via cookies and similar technologies. Please read our [Cookie Policy](https://www.coinbase.com/legal/cookie?locale%3Den-US) for more information.
     
 
 For example, we may automatically receive and record the following information on our server logs:
 
-*   How you came to and use the Services;
+* How you came to and use the Services;
     
-*   Device type and unique device identification numbers;
+* Device type and unique device identification numbers;
     
-*   Device event information (such as crashes, system activity and hardware settings, browser type, browser language, the date and time of your request and referral URL);
+* Device event information (such as crashes, system activity and hardware settings, browser type, browser language, the date and time of your request and referral URL);
     
-*   How your device interacts with our Sites and Services, including pages accessed and links clicked;
+* How your device interacts with our Sites and Services, including pages accessed and links clicked;
     
-*   Broad geographic location (e.g. country or city-level location); and
+* Broad geographic location (e.g. country or city-level location); and
     
-*   Other technical data collected through cookies, pixel tags and other similar technologies that uniquely identify your browser.
+* Other technical data collected through cookies, pixel tags and other similar technologies that uniquely identify your browser.
     
 
 We may also use identifiers to recognize you when you access our Sites via an external link, such as a link appearing on a third party site.
 
-**Information we collect from our affiliates and third parties.** From time to time, we may obtain information about you from our affiliates or third party sources as required or permitted by applicable law. These sources may include:
+**Information we collect from our affiliates and third parties.** From time to time, we may obtain information about you from our affiliates or third party sources as required or permitted by applicable law. These sources may include:
 
-*   Our Coinbase Family of Companies: Our “family of companies” is the group of companies related to us by common control or ownership (“Affiliates”). In accordance with applicable law, we may obtain information about you from our Affiliates as a normal part of conducting business, if you link your various Coinbase accounts (e.g., Coinbase Wallet account or Coinbase Commerce account in order to convert cryptocurrency into fiat and make withdrawals into your bank account), so that we may offer our Affiliates’ Services to you.
+* Our Coinbase Family of Companies: Our “family of companies” is the group of companies related to us by common control or ownership (“Affiliates”). In accordance with applicable law, we may obtain information about you from our Affiliates as a normal part of conducting business, if you link your various Coinbase accounts (e.g., Coinbase Wallet account or Coinbase Commerce account in order to convert cryptocurrency into fiat and make withdrawals into your bank account), so that we may offer our Affiliates’ Services to you.
     
-*   Public Databases, Credit Bureaus & ID Verification Partners: We obtain information about you from public databases and ID verification partners for purposes of verifying your identity in accordance with applicable law. ID verification partners like World-Check use a combination of government records and publicly available information about you to verify your identity. Such information may include your name, address, job role, public employment profile, credit history, status on any sanctions lists maintained by public authorities, and other relevant data. We obtain such information to comply with our legal obligations, such as anti-money laundering laws. In some cases, we may process additional data about you to assess risk and ensure our Services are not used fraudulently or for other illicit activities. In such instances, processing is necessary for us to continue to perform our contractual obligations with you and others. World-Check's Privacy Policy, available at [https://www.refinitiv.com/en/products/world-check-kyc-screening/privacy-statement/](https://www.refinitiv.com/en/products/world-check-kyc-screening/privacy-statement/), describes its collection and use of personal data.
+* Public Databases, Credit Bureaus & ID Verification Partners: We obtain information about you from public databases and ID verification partners for purposes of verifying your identity in accordance with applicable law. ID verification partners like World-Check use a combination of government records and publicly available information about you to verify your identity. Such information may include your name, address, job role, public employment profile, credit history, status on any sanctions lists maintained by public authorities, and other relevant data. We obtain such information to comply with our legal obligations, such as anti-money laundering laws. In some cases, we may process additional data about you to assess risk and ensure our Services are not used fraudulently or for other illicit activities. In such instances, processing is necessary for us to continue to perform our contractual obligations with you and others. World-Check's Privacy Policy, available at [https://www.refinitiv.com/en/products/world-check-kyc-screening/privacy-statement/](https://www.refinitiv.com/en/products/world-check-kyc-screening/privacy-statement/), describes its collection and use of personal data.
     
-*   Blockchain Data: We may analyze public blockchain data to ensure parties utilizing our Services are not engaged in illegal or prohibited activity under our Terms, and to analyze transaction trends for research and development purposes.
+* Blockchain Data: We may analyze public blockchain data to ensure parties utilizing our Services are not engaged in illegal or prohibited activity under our Terms, and to analyze transaction trends for research and development purposes.
     
-*   Joint Marketing Partners & Resellers: For example, unless prohibited by applicable law, joint marketing partners or resellers may share information about you with us so that we can better understand which of our Services may be of interest to you.
+* Joint Marketing Partners & Resellers: For example, unless prohibited by applicable law, joint marketing partners or resellers may share information about you with us so that we can better understand which of our Services may be of interest to you.
     
-*   Advertising Networks & Analytics Providers: We work with these providers to provide us with de-identified information about how you found our Sites and how you interact with the Sites and Services. This information may be collected prior to account creation. For more information on how you can manage collection of this data, please see our [Cookie Policy](https://www.coinbase.com/legal/cookie?locale%3Den-US).
+* Advertising Networks & Analytics Providers: We work with these providers to provide us with de-identified information about how you found our Sites and how you interact with the Sites and Services. This information may be collected prior to account creation. For more information on how you can manage collection of this data, please see our [Cookie Policy](https://www.coinbase.com/legal/cookie?locale%3Den-US).
     
 
 ### 4\. ANONYMIZED AND AGGREGATED DATA
@@ -187,51 +187,51 @@ For individuals who are located in the European Economic Area, the United Kingdo
 
 We take care to allow your personal information to be accessed only by those who require access to perform their tasks and duties, and to share only with third parties who have a legitimate purpose for accessing it. CB will never sell or rent your personal information to third parties without your explicit consent. We will only share your information in the following circumstances:
 
-*   With third party identity verification services in order to prevent fraud. This allows CB to confirm your identity by comparing the information you provide us to public records and other third party databases. These service providers may create derivative data based on your personal information that can be used in connection with the provision of identity verification and fraud prevention services. For example:
+* With third party identity verification services in order to prevent fraud. This allows CB to confirm your identity by comparing the information you provide us to public records and other third party databases. These service providers may create derivative data based on your personal information that can be used in connection with the provision of identity verification and fraud prevention services. For example:
     
-    *   We may use Jumio Corporation or Jumio UK, Limited (collectively “Jumio”) to verify your identity by determining whether a selfie you take matches the photo in your government issued identity document. The information collected from your photo may include biometric data. Jumio's Privacy Policy, available at [https://www.jumio.com/legal-information/privacy-policy/jumio-inc-privacy-policy-for-online-services/](https://www.jumio.com/legal-information/privacy-policy/jumio-inc-privacy-policy-for-online-services/), describes its collection and use of personal information.
+    * We may use Jumio Corporation or Jumio UK, Limited (collectively “Jumio”) to verify your identity by determining whether a selfie you take matches the photo in your government issued identity document. The information collected from your photo may include biometric data. Jumio's Privacy Policy, available at [https://www.jumio.com/legal-information/privacy-policy/jumio-inc-privacy-policy-for-online-services/](https://www.jumio.com/legal-information/privacy-policy/jumio-inc-privacy-policy-for-online-services/), describes its collection and use of personal information.
         
-    *   For Germany users, we may use SolarisBank AG (“Solarisbank”) to verify your identity through verification of identifiable personal information. The information collected from you may include biometric data. Solarisbank’s Privacy Policy, available at [https://www.solarisbank.com/en/privacy-policy/](https://www.solarisbank.com/en/privacy-policy/), describes its collection and use of personal information. 
+    * For Germany users, we may use SolarisBank AG (“Solarisbank”) to verify your identity through verification of identifiable personal information. The information collected from you may include biometric data. Solarisbank’s Privacy Policy, available at [https://www.solarisbank.com/en/privacy-policy/](https://www.solarisbank.com/en/privacy-policy/), describes its collection and use of personal information. 
         
-    *   We may use Sift Science, Inc. (“Sift”) to detect and prevent fraudulent activity on your account in real time. Information shared with Sift is treated by Sift in accordance with its Privacy Policy, available at [https://sift.com/service-privacy](https://sift.com/service-privacy).
+    * We may use Sift Science, Inc. (“Sift”) to detect and prevent fraudulent activity on your account in real time. Information shared with Sift is treated by Sift in accordance with its Privacy Policy, available at [https://sift.com/service-privacy](https://sift.com/service-privacy).
         
-    *   If you are based in the US, CB may use Plaid, Inc. ("Plaid") to connect your Coinbase account with your bank account, verify your bank account and confirm your bank account balance prior to approving a transaction. Information shared with Plaid is treated by Plaid in accordance with its Privacy Policy, available at [https://plaid.com/legal/#end-user-privacy-policy](https://plaid.com/legal/#end-user-privacy-policy).
+    * If you are based in the US, CB may use Plaid, Inc. ("Plaid") to connect your Coinbase account with your bank account, verify your bank account and confirm your bank account balance prior to approving a transaction. Information shared with Plaid is treated by Plaid in accordance with its Privacy Policy, available at [https://plaid.com/legal/#end-user-privacy-policy](https://plaid.com/legal/#end-user-privacy-policy).
         
-*   With financial institutions with which we partner to process payments you have authorized.
+* With financial institutions with which we partner to process payments you have authorized.
     
-*   With service providers under contract who help with parts of our business operations. Our contracts require these service providers to only use your information in connection with the services they perform for us, and prohibit them from selling your information to anyone else. Examples of the types of service providers we may share personal information with (other than those mentioned above) include:
+* With service providers under contract who help with parts of our business operations. Our contracts require these service providers to only use your information in connection with the services they perform for us, and prohibit them from selling your information to anyone else. Examples of the types of service providers we may share personal information with (other than those mentioned above) include:
     
-    *   Network infrastructure
+    * Network infrastructure
         
-    *   Cloud storage
+    * Cloud storage
         
-    *   Payment processing
+    * Payment processing
         
-    *   Transaction monitoring
+    * Transaction monitoring
         
-    *   Security
+    * Security
         
-    *   Document repository services
+    * Document repository services
         
-    *   Customer support
+    * Customer support
         
-    *   Internet (e.g. ISPs)
+    * Internet (e.g. ISPs)
         
-    *   Data analytics
+    * Data analytics
         
-    *   Information Technology
+    * Information Technology
         
-    *   Marketing
+    * Marketing
         
-*   With companies or other entities that we plan to merge with or be acquired by. You will receive prior notice of any change in applicable policies.
+* With companies or other entities that we plan to merge with or be acquired by. You will receive prior notice of any change in applicable policies.
     
-*   With companies or other entities that purchase CB assets pursuant to a court-approved sale or where we are required to share your information pursuant to insolvency law in any applicable jurisdiction.
+* With companies or other entities that purchase CB assets pursuant to a court-approved sale or where we are required to share your information pursuant to insolvency law in any applicable jurisdiction.
     
-*   With our professional advisors who provide banking, legal, compliance, insurance, accounting, or other consulting services in order to complete third party financial, technical, compliance and legal audits of our operations or otherwise comply with our legal obligations.
+* With our professional advisors who provide banking, legal, compliance, insurance, accounting, or other consulting services in order to complete third party financial, technical, compliance and legal audits of our operations or otherwise comply with our legal obligations.
     
-*   With law enforcement, officials, or other third parties when we are compelled to do so by a subpoena, court order, or similar legal procedure, or when we believe in good faith that the disclosure of personal information is necessary to prevent physical harm or financial loss, to report suspected illegal activity, or to investigate violations of our User Agreement or any other applicable policies.
+* With law enforcement, officials, or other third parties when we are compelled to do so by a subpoena, court order, or similar legal procedure, or when we believe in good faith that the disclosure of personal information is necessary to prevent physical harm or financial loss, to report suspected illegal activity, or to investigate violations of our User Agreement or any other applicable policies.
     
-*   We share personal information about you with our Affiliates as a normal part of conducting business and offering Services to you.
+* We share personal information about you with our Affiliates as a normal part of conducting business and offering Services to you.
     
 
 Where we believe it is necessary in order to protect the vital interests of any person. If you establish a CB Account indirectly on a third party website or via a third party application, any information that you enter on that website or application (and not directly on a CB website) will be shared with the owner of the third party website or application and your information will be subject to their privacy policies. For more information see the “Third-Party Sites and Services” section below.
@@ -260,15 +260,15 @@ Furthermore, we cannot ensure or warrant the security or confidentiality of info
 
 We store your personal information securely throughout the life of your CB Account. We will only retain your personal information for as long as necessary to fulfill the purposes for which we collected it, including for the purposes of satisfying any legal, accounting, or reporting obligations or to resolve disputes. While retention requirements vary by jurisdiction, information about our typical retention periods for different aspects of your personal information are described below.
 
-*   Personal information collected to comply with our legal obligations under financial or anti-money laundering laws may be retained after account closure for as long as required under such laws.
+* Personal information collected to comply with our legal obligations under financial or anti-money laundering laws may be retained after account closure for as long as required under such laws.
     
-*   Contact Information such as your name, email address and telephone number for marketing purposes is retained on an ongoing basis until you unsubscribe. Thereafter we will add your details to our suppression list to ensure we do not inadvertently market to you.
+* Contact Information such as your name, email address and telephone number for marketing purposes is retained on an ongoing basis until you unsubscribe. Thereafter we will add your details to our suppression list to ensure we do not inadvertently market to you.
     
-*   Content that you post on our website such as support desk comments, photographs, videos, blog posts, and other content may be kept after you close your account for audit and crime prevention purposes (e.g. to prevent a known fraudulent actor from opening a new account).
+* Content that you post on our website such as support desk comments, photographs, videos, blog posts, and other content may be kept after you close your account for audit and crime prevention purposes (e.g. to prevent a known fraudulent actor from opening a new account).
     
-*   Recording of our telephone calls with you may be kept for a period of up to six years.
+* Recording of our telephone calls with you may be kept for a period of up to six years.
     
-*   Information collected via technical means such as cookies, webpage counters and other analytics tools is kept for a period of up to one year from expiry of the cookie.
+* Information collected via technical means such as cookies, webpage counters and other analytics tools is kept for a period of up to one year from expiry of the cookie.
     
 
 ### 11\. THIRD-PARTY SITES AND SERVICES
@@ -277,9 +277,9 @@ If you authorize one or more third-party applications to access your CB Services
 
 Examples of account connections include:
 
-*   Merchants: If you use your CB account to conduct a transaction with a third party merchant, the merchant may provide data about you and your transaction to us.
+* Merchants: If you use your CB account to conduct a transaction with a third party merchant, the merchant may provide data about you and your transaction to us.
     
-*   Your Financial Services Providers: For example, if you send us funds from your bank account, your bank will provide us with identifying information in addition to information about your account in order to complete the transaction.
+* Your Financial Services Providers: For example, if you send us funds from your bank account, your bank will provide us with identifying information in addition to information about your account in order to complete the transaction.
     
 
 Information that we share with a third party based on an account connection will be used and disclosed in accordance with the third party's privacy practices. Please review the privacy notice of any third party that will gain access to your personal information. Coinbase is not responsible for such third party conduct.
@@ -312,21 +312,21 @@ Depending on applicable law where you reside, you may be able to assert certain 
 
 Your rights to personal information are not absolute. Depending upon the applicable law, access to your rights under the applicable law may be denied: (a) when denial of access is required or authorized by law; (b) when granting access would have a negative impact on another's privacy; (c) to protect our rights and properties; (d) where the request is frivolous or vexatious, or for other reasons.
 
-*   Access and portability. You may request that we provide you a copy of your personal information held by us. This information will be provided without undue delay subject to a potential fee associated with gathering of the information (as permitted by law), unless such provision adversely affects the rights and freedoms of others. In certain circumstances, you may request to receive your personal information in a structured, commonly used and machine-readable format, and to have us transfer your personal information directly to another data controller.
+* Access and portability. You may request that we provide you a copy of your personal information held by us. This information will be provided without undue delay subject to a potential fee associated with gathering of the information (as permitted by law), unless such provision adversely affects the rights and freedoms of others. In certain circumstances, you may request to receive your personal information in a structured, commonly used and machine-readable format, and to have us transfer your personal information directly to another data controller.
     
-*   Rectification of incomplete or inaccurate personal information. You may request us to rectify or update any of your personal information held by CB that is inaccurate. You may do this at any time by logging in to your account and clicking the Profile or My Account tab.
+* Rectification of incomplete or inaccurate personal information. You may request us to rectify or update any of your personal information held by CB that is inaccurate. You may do this at any time by logging in to your account and clicking the Profile or My Account tab.
     
-*   Erasure. You may request to erase your personal information, subject to applicable law. If you close your CB Account, we will mark your account in our database as "Closed," but will keep certain account information, including your request to erase, in our database for a period of time as described above. This is necessary to deter fraud, by ensuring that persons who try to commit fraud will not be able to avoid detection simply by closing their account and opening a new account, and to comply with CB's legal obligations. However, if you close your account, your personal information will not be used by us for any further purposes, nor shared with third parties, except as necessary to prevent fraud and assist law enforcement, as required by law, or in accordance with this Privacy Policy.
+* Erasure. You may request to erase your personal information, subject to applicable law. If you close your CB Account, we will mark your account in our database as "Closed," but will keep certain account information, including your request to erase, in our database for a period of time as described above. This is necessary to deter fraud, by ensuring that persons who try to commit fraud will not be able to avoid detection simply by closing their account and opening a new account, and to comply with CB's legal obligations. However, if you close your account, your personal information will not be used by us for any further purposes, nor shared with third parties, except as necessary to prevent fraud and assist law enforcement, as required by law, or in accordance with this Privacy Policy.
     
-*   Withdraw consent. To the extent the processing of your personal information is based on your consent, you may withdraw your consent at any time. Your withdrawal will not affect the lawfulness of CB's processing based on consent before your withdrawal.
+* Withdraw consent. To the extent the processing of your personal information is based on your consent, you may withdraw your consent at any time. Your withdrawal will not affect the lawfulness of CB's processing based on consent before your withdrawal.
     
-*   Restriction of processing. In some jurisdictions, applicable law may give you the right to restrict or object to us processing or transferring your personal information under certain circumstances. We may continue to process your personal information if it is necessary for the defense of legal claims, or for any other exceptions permitted by applicable law.
+* Restriction of processing. In some jurisdictions, applicable law may give you the right to restrict or object to us processing or transferring your personal information under certain circumstances. We may continue to process your personal information if it is necessary for the defense of legal claims, or for any other exceptions permitted by applicable law.
     
-*   Automated individual decision-making, including profiling. CB relies on automated tools to help determine whether a transaction or a customer account presents a fraud or legal risk. In some jurisdictions, you have the right not to be subject to a decision based solely on automated processing of your personal information, including profiling, which produces legal or similarly significant effects on you, save for the exceptions applicable under relevant data protection laws.
+* Automated individual decision-making, including profiling. CB relies on automated tools to help determine whether a transaction or a customer account presents a fraud or legal risk. In some jurisdictions, you have the right not to be subject to a decision based solely on automated processing of your personal information, including profiling, which produces legal or similarly significant effects on you, save for the exceptions applicable under relevant data protection laws.
     
-*   Marketing communications. You can opt-out of receiving marketing communications from CB. Direct marketing includes any communications to you that are only based on advertising or promoting our products and services. We will only contact you by electronic means (email or SMS) based on our legitimate interests, as permitted by applicable law, or your consent. If you do not want us to send you marketing communications, please go to your account settings to opt-out or submit a request via our [Support Portal](https://support.coinbase.com/customer/portal/emails/new). 
+* Marketing communications. You can opt-out of receiving marketing communications from CB. Direct marketing includes any communications to you that are only based on advertising or promoting our products and services. We will only contact you by electronic means (email or SMS) based on our legitimate interests, as permitted by applicable law, or your consent. If you do not want us to send you marketing communications, please go to your account settings to opt-out or submit a request via our [Support Portal](https://support.coinbase.com/customer/portal/emails/new). 
     
-    *   For users in the European Economic Area, the United Kingdom and Switzerland: To the extent we can rely on legitimate interest under the applicable law, we will only send you information about our Services that are similar to those which were the subject of a previous sale or negotiations of a sale to you. We will contact you by electronic means for marketing purposes only if you have consented to such communication. You may raise such objections with regard to initial or further processing for purposes of direct marketing, at any time and free of charge. 
+    * For users in the European Economic Area, the United Kingdom and Switzerland: To the extent we can rely on legitimate interest under the applicable law, we will only send you information about our Services that are similar to those which were the subject of a previous sale or negotiations of a sale to you. We will contact you by electronic means for marketing purposes only if you have consented to such communication. You may raise such objections with regard to initial or further processing for purposes of direct marketing, at any time and free of charge. 
         
 
 **How to make a privacy request**
@@ -347,9 +347,9 @@ In Ireland, the relevant data protection authority is the Data Protection Commis
 
 In addition to the rights provided for above, if you are a California resident, you have the right to request information from us regarding whether we share certain categories of your personal information with third parties for the third parties' direct marketing purposes. To the extent we share you personal information in this way, you may receive the following information:
 
-*   the categories of information we disclosed to third parties for the third parties' direct marketing purposes during the preceding calendar year; and
+* the categories of information we disclosed to third parties for the third parties' direct marketing purposes during the preceding calendar year; and
     
-*    the names and addresses of third parties that received such information, or if the nature of their business cannot be determined from the name, then examples of the products or services marketed.
+*  the names and addresses of third parties that received such information, or if the nature of their business cannot be determined from the name, then examples of the products or services marketed.
     
 
 Pursuant to the California Consumer Privacy Act of 2018 (“CCPA”), California residents have certain rights in relation to their personal information, subject to limited exceptions. Any terms defined in the CCPA have the same meaning when used in this California Privacy Rights section. This section describes the categories of personal information CB has collected, the categories of personal information CB has disclosed, and a description of California residents’ rights.
@@ -375,9 +375,9 @@ The chart below described the categories of personal information CB has collect
 
 Under the CCPA, you may have the following consumer rights. Please note that these rights are not absolute and in certain cases are subject to conditions or limitations as specified in the CCPA:
 
-*   For personal information collected by us during the preceding 12 months preceding your request that is not otherwise subject to an exception, California residents have the right to access and delete their personal information. CB will not discriminate against those who exercise their rights. Specifically, if you exercise your rights, we will not deny you services, charge you different prices for services or provide you a different level or quality of services.
+* For personal information collected by us during the preceding 12 months preceding your request that is not otherwise subject to an exception, California residents have the right to access and delete their personal information. CB will not discriminate against those who exercise their rights. Specifically, if you exercise your rights, we will not deny you services, charge you different prices for services or provide you a different level or quality of services.
     
-*   To the extent we sell your personal information to third parties, you also have the right to request that we disclose to you: (i) the categories of your personal information that we sold, and (ii) the categories of third parties to whom your personal information was sold. You have the right to direct us not to sell your personal information. CB does not sell your personal information in its ordinary course of business and will never sell your personal information to third parties without your explicit consent.
+* To the extent we sell your personal information to third parties, you also have the right to request that we disclose to you: (i) the categories of your personal information that we sold, and (ii) the categories of third parties to whom your personal information was sold. You have the right to direct us not to sell your personal information. CB does not sell your personal information in its ordinary course of business and will never sell your personal information to third parties without your explicit consent.
     
 
 Should CB engage in any of the activities listed in this section, your ability to exercise these rights will be made available to you in your account settings. You can exercise your rights by going to your [Privacy Rights Dashboard](https://www.coinbase.com/settings/privacy-rights) or contacting us via our [Support Portal](https://support.coinbase.com/customer/portal/emails/new) so that we may consider your request.
