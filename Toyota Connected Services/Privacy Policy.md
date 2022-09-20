@@ -20,33 +20,33 @@ This summary of the Toyota Privacy Statement applies to Personal Information (as
 
 **Information Collected**
 
-*   We collect Personal Information that you provide, which may include your name, mailing address, email address, phone number, and certain demographic information. We may collect Personal Information about you from third parties, including our affiliates and dealers.
-*   We collect and store "usage information" about how you use our technology platforms (including, without limitation, our Toyota-owned and branded websites, web pages, interactive features, applications, and mobile applications that link to this Privacy Statement ("Platforms"), such as the name of your Internet service provider, the browser and type of machine you are using, the IP address and the Web site that referred you to us and the pages you visit to help manage and enhance the Platforms.
-*   We, and the advertising and other data companies we use, utilize cookies and web beacons to manage the Platforms, tailor our communications with you, and personalize your experience on the Platforms.
+* We collect Personal Information that you provide, which may include your name, mailing address, email address, phone number, and certain demographic information. We may collect Personal Information about you from third parties, including our affiliates and dealers.
+* We collect and store "usage information" about how you use our technology platforms (including, without limitation, our Toyota-owned and branded websites, web pages, interactive features, applications, and mobile applications that link to this Privacy Statement ("Platforms"), such as the name of your Internet service provider, the browser and type of machine you are using, the IP address and the Web site that referred you to us and the pages you visit to help manage and enhance the Platforms.
+* We, and the advertising and other data companies we use, utilize cookies and web beacons to manage the Platforms, tailor our communications with you, and personalize your experience on the Platforms.
 
 [**Learn more**](#_1)
 
 **Uses and Sharing**
 
-*   We use Personal Information to provide you with services or information you request, such as new vehicle information alerts, promotions and mailed brochures.
-*   We also collect and use Personal Information when you request to participate in promotional activities such as sweepstakes, contests, games, special events, blogs and chats.
-*   We share Personal Information with our service providers and business partners to assist us in fulfilling your requests and providing features and services for the Platforms.
-*   We also share Personal Information with companies affiliated with Toyota and our authorized dealers and their holding companies, dealer advertising associations and distributors for their own use.
-*   We, Web publishers, and other Web sites on which we advertise may target advertisements for products and services in which you might be interested based on your visits to both the Platforms and other Web sites.
+* We use Personal Information to provide you with services or information you request, such as new vehicle information alerts, promotions and mailed brochures.
+* We also collect and use Personal Information when you request to participate in promotional activities such as sweepstakes, contests, games, special events, blogs and chats.
+* We share Personal Information with our service providers and business partners to assist us in fulfilling your requests and providing features and services for the Platforms.
+* We also share Personal Information with companies affiliated with Toyota and our authorized dealers and their holding companies, dealer advertising associations and distributors for their own use.
+* We, Web publishers, and other Web sites on which we advertise may target advertisements for products and services in which you might be interested based on your visits to both the Platforms and other Web sites.
 
 [**Learn more**](#_3)
 
 **Important Information**
 
-*   [Children's Privacy](#_7). Toyota does not seek information from children under the age of 13.
-*   [Phishing Scams](#_8). Toyota will never ask you to update your Personal Information through email.
-*   [Acceptance](#_5). By using the Platforms, you signify your acceptance of this Privacy Statement.
+* [Children's Privacy](#_7). Toyota does not seek information from children under the age of 13.
+* [Phishing Scams](#_8). Toyota will never ask you to update your Personal Information through email.
+* [Acceptance](#_5). By using the Platforms, you signify your acceptance of this Privacy Statement.
 
 **Your Choices and Access**
 
-*   You have the right to have a copy of the Personal Information you provide to Toyota.
-*   You have the right to correct or update your Personal Information.
-*   You may instruct Toyota to remove you from our programs you have subscribed to by using the unsubscribe link provided in our email programs or by contacting us.
+* You have the right to have a copy of the Personal Information you provide to Toyota.
+* You have the right to correct or update your Personal Information.
+* You may instruct Toyota to remove you from our programs you have subscribed to by using the unsubscribe link provided in our email programs or by contacting us.
 
 [**Learn more**](#_5)
 
@@ -74,52 +74,52 @@ Toyota Motor Sales, U.S.A., Inc. is committed to maintaining your confidence and
 
 **United States Only**. This Privacy Statement describes our practices with respect to Personal Information collected regarding individuals in the United States. If you are located in another country, please review the applicable Toyota privacy statement for your country.
 
-**Toyota Connected Services.** This Privacy Statement does not apply to any vehicle-originated data collected in connection with our Toyota Connected Services (such as driving behavior data and vehicle health data). Please visit [www.toyota.com/privacyvts](https://www.toyota.com/privacyvts) to learn more about our vehicle data collection, use and sharing practices.
+**Toyota Connected Services.** This Privacy Statement does not apply to any vehicle-originated data collected in connection with our Toyota Connected Services (such as driving behavior data and vehicle health data). Please visit [www.toyota.com/privacyvts](https://www.toyota.com/privacyvts) to learn more about our vehicle data collection, use and sharing practices.
 
 This Privacy Statement also does not apply to the data practices of any Toyota, Lexus, or Scion dealers; local Toyota dealer associations; private distributors; Toyota Financial Services; Lexus Financial Services; or Toyota Insurance Management Solutions. If you wish to learn about the privacy practices of these entities, please visit their respective privacy statements. To reach the privacy policy for Toyota Financial Services, please click [here](https://www.toyotafinancial.com/us/en/online_policies_and_agreements.html). To reach the privacy policy for Lexus Financial Services, please click [here](https://www.lexusfinancial.com/us/en/planning_tools/faq/privacy.html). To reach the privacy policy for Toyota Insurance Management Solutions, please click [here](https://toyotaims.com/privacy.php). To reach Toyota dealer sites, please click [here](https://www.toyota.com/dealers/). To reach the privacy policy for Gulf States Toyota, Inc. (private distributor in Arkansas, Louisiana, Mississippi, Oklahoma, and Texas), please click [here](https://www.buyatoyota.com/gst/legal/). 
 
 **QUICK GUIDE TO CONTENTS**
 
-1.  **[INFORMATION WE COLLECT.](#_1)**
-2.  **[HOW WE COLLECT INFORMATION.](#_2)**
-3.  **[HOW WE USE THE INFORMATION WE COLLECT.](#_3)**
-4.  **[HOW WE SHARE INFORMATION.](#_4)**
-5.  **[YOUR PRIVACY RIGHTS, CHOICE AND ACCESS.](#_5)**
-6.  **[ADVERTISING/BEHAVIORAL TARGETING; HOW TO OPT OUT.](#_6)**
-7.  **[CHILDREN.](#_7)**
-8.  **[SECURITY OF YOUR INFORMATION AND PHISHING SCAMS.](#_8)**
-9.  **[OTHER SITES.](#_9)**
-10.  **[CONSENT TO PROCESSING AND TRANSFER OF INFORMATION.](#_10)**
-11.  **[CHANGES.](#_11)**
-12.  **[CONTACT US.](#_12)**
+1. **[INFORMATION WE COLLECT.](#_1)**
+2. **[HOW WE COLLECT INFORMATION.](#_2)**
+3. **[HOW WE USE THE INFORMATION WE COLLECT.](#_3)**
+4. **[HOW WE SHARE INFORMATION.](#_4)**
+5. **[YOUR PRIVACY RIGHTS, CHOICE AND ACCESS.](#_5)**
+6. **[ADVERTISING/BEHAVIORAL TARGETING; HOW TO OPT OUT.](#_6)**
+7. **[CHILDREN.](#_7)**
+8. **[SECURITY OF YOUR INFORMATION AND PHISHING SCAMS.](#_8)**
+9. **[OTHER SITES.](#_9)**
+10. **[CONSENT TO PROCESSING AND TRANSFER OF INFORMATION.](#_10)**
+11. **[CHANGES.](#_11)**
+12. **[CONTACT US.](#_12)**
 
 **1. INFORMATION WE COLLECT.**
 
 We may collect certain types of Personal Information (i.e., information that can be used to identify you as an individual, such as your name, email, telephone number, home address, demographic information (such as Zip Code, age), or payment information (such as account or credit card number)) about you in a variety of ways, depending on your interactions with us, as described further below. We may also collect information from third parties, such as our dealers, as described further below.
 
-*   **Contact and Demographic Information**: Contact Information includes information that may be used to contact you or identify you. Examples include your name, address, phone number, email address, owner account information, online identifier, user ID, demographic information (such as Zip Code and age), and social media IDs.
-*   **Product and Service Data**: Product and Service Data includes vehicle ownership records associated with your current and/or prior owned vehicles. Examples include vehicle ownership transactions, Retail Delivery Report (RDR) records, recall records, warranty records, repair order records, part order records, Toyota Insurance Management Solutions insurance product records, and incentive offers that you accept.
-*   **Interaction and Feedback Data**: Interaction Data includes information regarding your interactions with Toyota (such as Toyota’s Brand Engagement Center) via telephone, email, chat, text and/or postal mail. Examples include comments and feedback that you provide to us (including customer testimonials); information collected in connection with your participation in sweepstakes, contests, games, special events, promotions, blogs and chats, and surveys (“Programs”); and call center records and screen, audio and/or video recordings of such interactions.
-*   **Online Activity Data**: Online Activity Data includes information regarding your online interactions with Toyota’s Platforms and other websites, where applicable. Examples include your browsing history on Toyota’s Platforms, information collected from Toyota’s cookies, IP addresses, and publicly available social media information (such as publicly available information that you post on social media sites).
-*   **Marketing Interaction Data**: Marketing Interaction Data includes information regarding your pre- and post-sale marketing interactions with Toyota. Examples include information collected at events, vehicle purchase negotiation information, vehicle service marketing information, direct marketing information, and retention marketing information.
-*   **Payment Information**: Payment Information includes payment-related information in connection with your purchase of products and/or services from Toyota. Examples include your credit card number or payment platform number.
-*   **Research Data**: Research data includes data collected by Toyota related to Toyota’s consumer and product research. Examples include your responses to surveys, and information you provide as part of a focus group.
-*   **Legal Activity Data**: Legal Activity Data includes information collected in connection with legal claims. Examples include information relating to disputes, claims, reimbursements and recalls.
+* **Contact and Demographic Information**: Contact Information includes information that may be used to contact you or identify you. Examples include your name, address, phone number, email address, owner account information, online identifier, user ID, demographic information (such as Zip Code and age), and social media IDs.
+* **Product and Service Data**: Product and Service Data includes vehicle ownership records associated with your current and/or prior owned vehicles. Examples include vehicle ownership transactions, Retail Delivery Report (RDR) records, recall records, warranty records, repair order records, part order records, Toyota Insurance Management Solutions insurance product records, and incentive offers that you accept.
+* **Interaction and Feedback Data**: Interaction Data includes information regarding your interactions with Toyota (such as Toyota’s Brand Engagement Center) via telephone, email, chat, text and/or postal mail. Examples include comments and feedback that you provide to us (including customer testimonials); information collected in connection with your participation in sweepstakes, contests, games, special events, promotions, blogs and chats, and surveys (“Programs”); and call center records and screen, audio and/or video recordings of such interactions.
+* **Online Activity Data**: Online Activity Data includes information regarding your online interactions with Toyota’s Platforms and other websites, where applicable. Examples include your browsing history on Toyota’s Platforms, information collected from Toyota’s cookies, IP addresses, and publicly available social media information (such as publicly available information that you post on social media sites).
+* **Marketing Interaction Data**: Marketing Interaction Data includes information regarding your pre- and post-sale marketing interactions with Toyota. Examples include information collected at events, vehicle purchase negotiation information, vehicle service marketing information, direct marketing information, and retention marketing information.
+* **Payment Information**: Payment Information includes payment-related information in connection with your purchase of products and/or services from Toyota. Examples include your credit card number or payment platform number.
+* **Research Data**: Research data includes data collected by Toyota related to Toyota’s consumer and product research. Examples include your responses to surveys, and information you provide as part of a focus group.
+* **Legal Activity Data**: Legal Activity Data includes information collected in connection with legal claims. Examples include information relating to disputes, claims, reimbursements and recalls.
 
 **2. HOW WE COLLECT INFORMATION**
 
 We may collect Personal Information about you in a variety of ways, depending on your interaction with us or certain third parties. We may also supplement the information we collect about you directly and through our Platforms with information that we receive from third parties.
 
-*   **Directly from You**: We may collect Personal Information directly from you. This may happen in a variety of ways, including, but not limited to, when you use the Platforms, when you use or subscribe to services that we offer (such as Connected Services), when you use applications that we offer (such as the Toyota App), when you purchase a vehicle, and when you interact with Toyota’s Brand Engagement Center. We may also collect Personal Information from you when you submit comments to us or participate in programs. You may also provide us with written, audio or video feedback or testimonials that contain Personal Information.
-*   **Publicly Available Sources**: We may collect Personal Information from publicly available sources. For example, Toyota utilizes third-party social media management services to collect and analyze publicly available information on various social media sites.
-*   **From Other Individuals**: We may also collect Personal Information from other individuals. For example, some features on the Platforms may permit users to submit information about other people. If you wish to invite your friends to participate in a program offered through the Platforms or forward particular content from the Platforms to your friends, you will be asked to submit your friends' email addresses. Our use, sharing and protection of the other person's information will also be subject to the terms of the applicable program and this Privacy Statement.
-*   **From Third Parties**: We may also collect Personal Information from third parties, including our affiliates (such as Toyota Financial Services and Toyota Motor Corporation), our business partners, our service providers, and certain third-party companies (such as our authorized dealers, distributors, local dealer associations, data brokers and other data providers). Information from such third parties may have been collected online, offline, or through publicly or commercially available sources. In addition, we may collect information from third parties in the ways described below:
-*   _Requests to Third Parties._ Third parties may provide your information to us at your request. For example, if you are on another website and you opt in to receive information from Toyota, that website will submit to us your email address and other information about you so that we may contact you as requested.
-*   _Third Party Applications and Websites; Social Media._ You may also choose to participate in a third-party application or feature (such as one of our Facebook or Twitter applications or a similar application or feature on a third-party website) or use a third-party website where you allow us to collect (or the third party to collect and share) information about you, including online activity data and other Personal Information, such as lists of your friends, "likes," comments you have shared, groups, location, and your activity on the third-party website. Services like Facebook Connect give you the option to post information about your activities on our Platforms to your profile page to share with others within your network. In addition, we may receive information about you if other users of a third-party website give us access to their profiles and you are one of their "connections" or information about you is otherwise accessible through your "connections'" web page, profile page, or similar page on a social networking or other third-party website or interactive service.
-*   **Automatically From Your Devices**:  We may also collect the following types of Online Activity Data automatically when you use the Platforms:
-*   _Usage Information._ Whenever you visit or interact with the Platforms, we, as well as any third-party advertisers and/or service providers, may use a variety of technologies that automatically or passively collect information about how the Platforms are accessed and used ("Usage Information"). Usage Information may include browser type, device type, operating system, application version, the page served, the time, the preceding page views, and your use of features or applications on the Platforms, such as interactions with friends and group activities. This information helps us keep our Platforms fresh and interesting to our visitors and allows us to tailor content to a visitor's interests. Usage Information is generally non-identifying, but if Toyota associates it with you as a specific and identifiable person, Toyota treats it as Personal Information.
-*   _Device Identifier._ We automatically collect your IP address or other unique identifier ("Device Identifier") for the Device (computer, mobile phone, tablet or other device) you use to access the Platforms. A Device Identifier is a number that is assigned to your Device when you access a website or its servers, and our computers identify your device by its Device Identifier. We, and our affiliates, service providers, business partners, and other third parties, including authorized dealers, may use a Device Identifier to, among other things, administer the Platforms; help diagnose problems with our servers; analyze trends; track users' web page movements over time and across different websites, Platforms, or other mobile, online, or offline services; to help identify you and your shopping cart, and gather broad demographic information for aggregate use.
-*   _Cookies; Pixel Tags._ The technologies used on the Platforms to collect Usage Information, including Device Identifiers, include but are not limited to: cookies (data files placed on a Device when it is used to visit the Platforms), mobile analytics software and pixel tags (transparent graphic images, sometimes called web beacons or tracking beacons, placed on a web page or in an email, which indicates that a page or email has been viewed). Cookies may also be used to associate you with social networking sites like Facebook and Twitter and, by using one of their applications either on or otherwise connected to our Platforms (e.g., social media login credentials or vehicle configuration shared to social media), you may enable interaction between your activities on the Platforms and your activities on such social networking sites. We, or our vendors, may place cookies or similar files on your Device for security purposes, to facilitate site navigation and to personalize your experience while visiting our Platforms (such as allowing us to select which ads or offers are most likely to appeal to you, based on your interests, preferences, location or demographic information). To customize your cookie settings for Toyota.com, visit Toyota.com and click on "Cookie Consent Options".  
+* **Directly from You**: We may collect Personal Information directly from you. This may happen in a variety of ways, including, but not limited to, when you use the Platforms, when you use or subscribe to services that we offer (such as Connected Services), when you use applications that we offer (such as the Toyota App), when you purchase a vehicle, and when you interact with Toyota’s Brand Engagement Center. We may also collect Personal Information from you when you submit comments to us or participate in programs. You may also provide us with written, audio or video feedback or testimonials that contain Personal Information.
+* **Publicly Available Sources**: We may collect Personal Information from publicly available sources. For example, Toyota utilizes third-party social media management services to collect and analyze publicly available information on various social media sites.
+* **From Other Individuals**: We may also collect Personal Information from other individuals. For example, some features on the Platforms may permit users to submit information about other people. If you wish to invite your friends to participate in a program offered through the Platforms or forward particular content from the Platforms to your friends, you will be asked to submit your friends' email addresses. Our use, sharing and protection of the other person's information will also be subject to the terms of the applicable program and this Privacy Statement.
+* **From Third Parties**: We may also collect Personal Information from third parties, including our affiliates (such as Toyota Financial Services and Toyota Motor Corporation), our business partners, our service providers, and certain third-party companies (such as our authorized dealers, distributors, local dealer associations, data brokers and other data providers). Information from such third parties may have been collected online, offline, or through publicly or commercially available sources. In addition, we may collect information from third parties in the ways described below:
+* _Requests to Third Parties._ Third parties may provide your information to us at your request. For example, if you are on another website and you opt in to receive information from Toyota, that website will submit to us your email address and other information about you so that we may contact you as requested.
+* _Third Party Applications and Websites; Social Media._ You may also choose to participate in a third-party application or feature (such as one of our Facebook or Twitter applications or a similar application or feature on a third-party website) or use a third-party website where you allow us to collect (or the third party to collect and share) information about you, including online activity data and other Personal Information, such as lists of your friends, "likes," comments you have shared, groups, location, and your activity on the third-party website. Services like Facebook Connect give you the option to post information about your activities on our Platforms to your profile page to share with others within your network. In addition, we may receive information about you if other users of a third-party website give us access to their profiles and you are one of their "connections" or information about you is otherwise accessible through your "connections'" web page, profile page, or similar page on a social networking or other third-party website or interactive service.
+* **Automatically From Your Devices**:  We may also collect the following types of Online Activity Data automatically when you use the Platforms:
+* _Usage Information._ Whenever you visit or interact with the Platforms, we, as well as any third-party advertisers and/or service providers, may use a variety of technologies that automatically or passively collect information about how the Platforms are accessed and used ("Usage Information"). Usage Information may include browser type, device type, operating system, application version, the page served, the time, the preceding page views, and your use of features or applications on the Platforms, such as interactions with friends and group activities. This information helps us keep our Platforms fresh and interesting to our visitors and allows us to tailor content to a visitor's interests. Usage Information is generally non-identifying, but if Toyota associates it with you as a specific and identifiable person, Toyota treats it as Personal Information.
+* _Device Identifier._ We automatically collect your IP address or other unique identifier ("Device Identifier") for the Device (computer, mobile phone, tablet or other device) you use to access the Platforms. A Device Identifier is a number that is assigned to your Device when you access a website or its servers, and our computers identify your device by its Device Identifier. We, and our affiliates, service providers, business partners, and other third parties, including authorized dealers, may use a Device Identifier to, among other things, administer the Platforms; help diagnose problems with our servers; analyze trends; track users' web page movements over time and across different websites, Platforms, or other mobile, online, or offline services; to help identify you and your shopping cart, and gather broad demographic information for aggregate use.
+* _Cookies; Pixel Tags._ The technologies used on the Platforms to collect Usage Information, including Device Identifiers, include but are not limited to: cookies (data files placed on a Device when it is used to visit the Platforms), mobile analytics software and pixel tags (transparent graphic images, sometimes called web beacons or tracking beacons, placed on a web page or in an email, which indicates that a page or email has been viewed). Cookies may also be used to associate you with social networking sites like Facebook and Twitter and, by using one of their applications either on or otherwise connected to our Platforms (e.g., social media login credentials or vehicle configuration shared to social media), you may enable interaction between your activities on the Platforms and your activities on such social networking sites. We, or our vendors, may place cookies or similar files on your Device for security purposes, to facilitate site navigation and to personalize your experience while visiting our Platforms (such as allowing us to select which ads or offers are most likely to appeal to you, based on your interests, preferences, location or demographic information). To customize your cookie settings for Toyota.com, visit Toyota.com and click on "Cookie Consent Options".  
       
     Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser. However, please be aware that some features of the website may not function properly or may be slower if you refuse cookies. In addition, the offers we provide when you visit us may not be as relevant to you or tailored to your interests. If you block or delete cookies, not all tracking that we have described in this Privacy Statement will stop.  
       
@@ -129,22 +129,22 @@ We may collect Personal Information about you in a variety of ways, depending on
 
 We use the information we collect about and from you for a variety of business purposes such as to:
 
-*   Respond to your questions and requests such as requests for product information, new vehicle information alerts, and brochures, or to provide other customer support to you;
-*   Advise you of important safety-related information;
-*   Provide services to you, such as the Connected Services to which you have subscribed (e.g., roadside assistance, navigation and telematics services) or the Toyota App;
-*   Provide and enhance vehicle services to you, such as service reminders and dealer support services;
-*   Enable you to participate in promotional activities, or other programs;
-*   Provide you with access to certain areas and features of the Platforms such as your interactions with other users;
-*   Verify your identity;
-*   Communicate with you about your account and activities on the Platforms and, in our discretion, changes to any Toyota policy or notice;
-*   Provide advertisements to you, including via electronic and physical means, and tailor any content, opportunities or other offers we serve you, including by providing more relevant content, advertisements, and offers over time and across multiple devices;
-*   Offer other products and services to you that you may be interested in;
-*   Internal research, design, marketing analysis, and analytics purposes, including to improve customer satisfaction and the Platforms, our vehicles and other products, and our services;
-*   Quality control purposes;
-*   Comply with laws or other legal obligations, including for dispute resolution purposes;
-*   Comply with license obligations;
-*   For purposes disclosed at the time you provide your Personal Information or otherwise with your consent.
-*   You may share your location with us and we may use it for the purpose of providing you with offers and other information relevant to your location.
+* Respond to your questions and requests such as requests for product information, new vehicle information alerts, and brochures, or to provide other customer support to you;
+* Advise you of important safety-related information;
+* Provide services to you, such as the Connected Services to which you have subscribed (e.g., roadside assistance, navigation and telematics services) or the Toyota App;
+* Provide and enhance vehicle services to you, such as service reminders and dealer support services;
+* Enable you to participate in promotional activities, or other programs;
+* Provide you with access to certain areas and features of the Platforms such as your interactions with other users;
+* Verify your identity;
+* Communicate with you about your account and activities on the Platforms and, in our discretion, changes to any Toyota policy or notice;
+* Provide advertisements to you, including via electronic and physical means, and tailor any content, opportunities or other offers we serve you, including by providing more relevant content, advertisements, and offers over time and across multiple devices;
+* Offer other products and services to you that you may be interested in;
+* Internal research, design, marketing analysis, and analytics purposes, including to improve customer satisfaction and the Platforms, our vehicles and other products, and our services;
+* Quality control purposes;
+* Comply with laws or other legal obligations, including for dispute resolution purposes;
+* Comply with license obligations;
+* For purposes disclosed at the time you provide your Personal Information or otherwise with your consent.
+* You may share your location with us and we may use it for the purpose of providing you with offers and other information relevant to your location.
 
 **4. HOW WE SHARE INFORMATION**
 
