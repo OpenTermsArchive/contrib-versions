@@ -1,4 +1,4 @@
-*   [Home](https://cloud.google.com/)
+* [Home](https://cloud.google.com/)
 
 Stay organized with collections Save and categorize content based on your preferences.
 
@@ -139,7 +139,7 @@ If Google makes a material change to the Cloud Data Processing Addendum in accor
 
 **(e) matters for which liability cannot be excluded or limited under applicable law.**
 
-**13.** **Indemnification****.**
+**13.** **Indemnification****.**
 
 13.1 _Google Indemnification Obligations._ Google will defend Customer and its Affiliates using the Services under Customer’s Account and indemnify them against Indemnified Liabilities in any Third-Party Legal Proceeding to the extent arising from an allegation that any Service or any Google Brand Feature, in each case used in accordance with the Agreement, infringes the third party's Intellectual Property Rights.
 
@@ -207,46 +207,46 @@ If Google makes a material change to the Cloud Data Processing Addendum in accor
 
 14.19 _Definitions._
 
-*   "Account" means Customer's Google Cloud Platform account.
-*   "Admin Console" means the online console(s) or dashboard provided by Google to Customer for administering the Services.
-*   "Affiliate" means any entity that directly or indirectly Controls, is Controlled by, or is under common Control with a party.
-*   "Anti-Bribery Laws" means all applicable commercial and public anti-bribery laws, including the U.S. Foreign Corrupt Practices Act of 1977 and the UK Bribery Act 2010, that prohibit corrupt offers of anything of value, either directly or indirectly, to anyone, including government officials, to obtain or keep business or to secure any other improper commercial advantage. Government officials include: any government employees, candidates for public office, members of royal families, and employees of government-owned or government-controlled companies, public international organizations, and political parties.
-*   "AUP" means the then-current acceptable use policy for the Services stated at [https://cloud.google.com/terms/aup](https://cloud.google.com/terms/aup).
-*   "BAA" or "Business Associate Agreement" is an amendment to the Agreement covering the handling of Protected Health Information (as defined in HIPAA).
-*   "Brand Features" means the trade names, trademarks, service marks, logos, domain names, and other distinctive brand features of each party, respectively, as secured by such party from time to time.
-*   “Cloud Data Processing Addendum” means the then-current terms describing data processing and security obligations with respect to Customer Data, as described at [https://cloud.google.com/terms/data-processing-addendum](https://cloud.google.com/terms/data-processing-addendum).
-*   "Confidential Information" means information that one party (or an Affiliate) discloses to the other party under this Agreement, and which is marked as confidential or would normally under the circumstances be considered confidential information. It does not include information that is independently developed by the recipient, is rightfully given to the recipient by a third party without confidentiality obligations, or becomes public through no fault of the recipient. Subject to the preceding sentence, Customer Data is considered Customer's Confidential Information.
-*   "Control" means control of greater than 50 percent of the voting rights or equity interests of a party.
-*   "Customer Application" means a software program that Customer creates or hosts using the Services.
-*   "Customer Data" means data provided to Google by Customer or End Users through the Services under the Account.
-*   "Documentation" means the Google documentation (as may be updated from time to time) in the form generally made available by Google to its customers for use with the Services at [https://cloud.google.com/docs/](https://cloud.google.com/docs).
-*   "End Users" means the individuals who are permitted by Customer to use the Services. For clarity, End Users may include employees of Customer Affiliates and other authorized third parties.
-*   "Export Control Laws" means all applicable export and re-export control laws and regulations, including (a) the Export Administration Regulations ("EAR") maintained by the U.S. Department of Commerce, (b) trade and economic sanctions maintained by the U.S. Treasury Department’s Office of Foreign Assets Control, and (c) the International Traffic in Arms Regulations ("ITAR") maintained by the U.S. Department of State.
-*   "Fee Accrual Period" means a calendar month or another period specified by Google in the Admin Console.
-*   "Fees" means the applicable fees for each Service or Software plus any applicable Taxes. The Fees for each Service are stated at [https://cloud.google.com/skus/](https://cloud.google.com/skus) (incorporated into the Agreement by this reference).
-*   "Google API" means any application programming interface provided by Google as part of the Services.
-*   "High Risk Activities" means activities where the use or failure of the Services would reasonably be expected to lead to death, personal injury, or environmental or property damage (such as the creation or operation of nuclear facilities, air traffic control, life support systems, or weaponry).
-*   "HIPAA" means the Health Insurance Portability and Accountability Act of 1996 as it may be amended from time to time, and any regulations issued under it.
-*   "including" means including but not limited to.
-*   "Indemnified Liabilities" means any (i) settlement amounts approved by the indemnifying party and (ii) damages and costs finally awarded against the indemnified party by a court of competent jurisdiction.
-*   "Intellectual Property Rights" means current and future worldwide rights under patent, copyright, trade secret, trademark, and moral rights laws, and other similar rights.
-*   "Legal Process" means an information disclosure request made under law, governmental regulation, court order, subpoena, warrant, or other valid legal authority, legal procedure, or similar process.
-*   "Liability" means any liability, whether under contract, tort (including negligence), or otherwise, regardless of whether foreseeable or contemplated by the parties.
-*   "Notification Email Address" means the email address(es) designated by Customer in the Admin Console.
-*   "Project" means a collection of Google Cloud Platform resources configured by Customer via the Services.
-*   "Service Specific Terms" means the then-current terms specific to one or more Services stated at [https://cloud.google.com/terms/service-terms](https://cloud.google.com/terms/service-terms) .
-*   "Services" means the then-current services described at [https://cloud.google.com/terms/services](https://cloud.google.com/terms/services), excluding any Third-Party Offerings.
-*   "SLA" means each of the then-current service level agreements at [https://cloud.google.com/terms/sla/](https://cloud.google.com/terms/sla).
-*   "Software" means any downloadable tools, software development kits, or other such computer software provided by Google in connection with the Services, and any updates Google may make to such Software from time to time, excluding any Third-Party Offerings.
-*   "Suspend" or "Suspension" means disabling or limiting access to or use of the Services or components of the Services.
-*   "Taxes" means all government-imposed taxes, except for taxes based on Google's net income, net worth, asset value, property value, or employment.
-*   "Term" has the meaning stated in Section 8.1 (Agreement Term) of this Agreement.
-*   "Third-Party Offerings" means (a) third-party services, software, products, and other offerings that are not incorporated into the Services or Software, (b) offerings identified in the "Third-Party Terms" section of the Service Specific Terms, and (c) third-party operating systems.
-*   "Third-Party Legal Proceeding" means any formal legal proceeding filed by an unaffiliated third party before a court or government tribunal (including any appellate proceeding).
-*   "Trademark Guidelines" means Google's Guidelines for Third Party Use of Google Brand Features at [https://www.google.com/permissions/guidelines.html](https://www.google.com/permissions/guidelines.html).
-*   "TSS" means the then-current technical support service provided by Google to Customer under the TSS Guidelines.
-*   "TSS Guidelines" means Google's technical support services guidelines then in effect for the Services. TSS Guidelines are at [https://cloud.google.com/terms/tssg/](https://cloud.google.com/terms/tssg) (under Google Cloud Platform Services).
-*   "URL Terms" means, collectively, the AUP, Cloud Data Processing Addendum, Service Specific Terms, SLA, and TSS Guidelines.
+* "Account" means Customer's Google Cloud Platform account.
+* "Admin Console" means the online console(s) or dashboard provided by Google to Customer for administering the Services.
+* "Affiliate" means any entity that directly or indirectly Controls, is Controlled by, or is under common Control with a party.
+* "Anti-Bribery Laws" means all applicable commercial and public anti-bribery laws, including the U.S. Foreign Corrupt Practices Act of 1977 and the UK Bribery Act 2010, that prohibit corrupt offers of anything of value, either directly or indirectly, to anyone, including government officials, to obtain or keep business or to secure any other improper commercial advantage. Government officials include: any government employees, candidates for public office, members of royal families, and employees of government-owned or government-controlled companies, public international organizations, and political parties.
+* "AUP" means the then-current acceptable use policy for the Services stated at [https://cloud.google.com/terms/aup](https://cloud.google.com/terms/aup).
+* "BAA" or "Business Associate Agreement" is an amendment to the Agreement covering the handling of Protected Health Information (as defined in HIPAA).
+* "Brand Features" means the trade names, trademarks, service marks, logos, domain names, and other distinctive brand features of each party, respectively, as secured by such party from time to time.
+* “Cloud Data Processing Addendum” means the then-current terms describing data processing and security obligations with respect to Customer Data, as described at [https://cloud.google.com/terms/data-processing-addendum](https://cloud.google.com/terms/data-processing-addendum).
+* "Confidential Information" means information that one party (or an Affiliate) discloses to the other party under this Agreement, and which is marked as confidential or would normally under the circumstances be considered confidential information. It does not include information that is independently developed by the recipient, is rightfully given to the recipient by a third party without confidentiality obligations, or becomes public through no fault of the recipient. Subject to the preceding sentence, Customer Data is considered Customer's Confidential Information.
+* "Control" means control of greater than 50 percent of the voting rights or equity interests of a party.
+* "Customer Application" means a software program that Customer creates or hosts using the Services.
+* "Customer Data" means data provided to Google by Customer or End Users through the Services under the Account.
+* "Documentation" means the Google documentation (as may be updated from time to time) in the form generally made available by Google to its customers for use with the Services at [https://cloud.google.com/docs/](https://cloud.google.com/docs).
+* "End Users" means the individuals who are permitted by Customer to use the Services. For clarity, End Users may include employees of Customer Affiliates and other authorized third parties.
+* "Export Control Laws" means all applicable export and re-export control laws and regulations, including (a) the Export Administration Regulations ("EAR") maintained by the U.S. Department of Commerce, (b) trade and economic sanctions maintained by the U.S. Treasury Department’s Office of Foreign Assets Control, and (c) the International Traffic in Arms Regulations ("ITAR") maintained by the U.S. Department of State.
+* "Fee Accrual Period" means a calendar month or another period specified by Google in the Admin Console.
+* "Fees" means the applicable fees for each Service or Software plus any applicable Taxes. The Fees for each Service are stated at [https://cloud.google.com/skus/](https://cloud.google.com/skus) (incorporated into the Agreement by this reference).
+* "Google API" means any application programming interface provided by Google as part of the Services.
+* "High Risk Activities" means activities where the use or failure of the Services would reasonably be expected to lead to death, personal injury, or environmental or property damage (such as the creation or operation of nuclear facilities, air traffic control, life support systems, or weaponry).
+* "HIPAA" means the Health Insurance Portability and Accountability Act of 1996 as it may be amended from time to time, and any regulations issued under it.
+* "including" means including but not limited to.
+* "Indemnified Liabilities" means any (i) settlement amounts approved by the indemnifying party and (ii) damages and costs finally awarded against the indemnified party by a court of competent jurisdiction.
+* "Intellectual Property Rights" means current and future worldwide rights under patent, copyright, trade secret, trademark, and moral rights laws, and other similar rights.
+* "Legal Process" means an information disclosure request made under law, governmental regulation, court order, subpoena, warrant, or other valid legal authority, legal procedure, or similar process.
+* "Liability" means any liability, whether under contract, tort (including negligence), or otherwise, regardless of whether foreseeable or contemplated by the parties.
+* "Notification Email Address" means the email address(es) designated by Customer in the Admin Console.
+* "Project" means a collection of Google Cloud Platform resources configured by Customer via the Services.
+* "Service Specific Terms" means the then-current terms specific to one or more Services stated at [https://cloud.google.com/terms/service-terms](https://cloud.google.com/terms/service-terms) .
+* "Services" means the then-current services described at [https://cloud.google.com/terms/services](https://cloud.google.com/terms/services), excluding any Third-Party Offerings.
+* "SLA" means each of the then-current service level agreements at [https://cloud.google.com/terms/sla/](https://cloud.google.com/terms/sla).
+* "Software" means any downloadable tools, software development kits, or other such computer software provided by Google in connection with the Services, and any updates Google may make to such Software from time to time, excluding any Third-Party Offerings.
+* "Suspend" or "Suspension" means disabling or limiting access to or use of the Services or components of the Services.
+* "Taxes" means all government-imposed taxes, except for taxes based on Google's net income, net worth, asset value, property value, or employment.
+* "Term" has the meaning stated in Section 8.1 (Agreement Term) of this Agreement.
+* "Third-Party Offerings" means (a) third-party services, software, products, and other offerings that are not incorporated into the Services or Software, (b) offerings identified in the "Third-Party Terms" section of the Service Specific Terms, and (c) third-party operating systems.
+* "Third-Party Legal Proceeding" means any formal legal proceeding filed by an unaffiliated third party before a court or government tribunal (including any appellate proceeding).
+* "Trademark Guidelines" means Google's Guidelines for Third Party Use of Google Brand Features at [https://www.google.com/permissions/guidelines.html](https://www.google.com/permissions/guidelines.html).
+* "TSS" means the then-current technical support service provided by Google to Customer under the TSS Guidelines.
+* "TSS Guidelines" means Google's technical support services guidelines then in effect for the Services. TSS Guidelines are at [https://cloud.google.com/terms/tssg/](https://cloud.google.com/terms/tssg) (under Google Cloud Platform Services).
+* "URL Terms" means, collectively, the AUP, Cloud Data Processing Addendum, Service Specific Terms, SLA, and TSS Guidelines.
 
 **15. Regional Terms.** Customer agrees to the following modifications to the Agreement if Customer’s billing address is in the applicable region as described below:
 
