@@ -20,16 +20,16 @@ The Bumble Group has designated a Data Protection Officer and they can be reache
 
 When you download the App and create an account (“Account”), we may collect certain information (“Registration Information”) about you, such as:
 
-*   Name;
-*   Username;
-*   Email address;
-*   Mobile number;
-*   Gender identity;
-*   Date of birth;
-*   Sexual preference;
-*   Photographs;
-*   Location; and
-*   Login information for social media accounts that you connect to your Bumble Account (this could include, for example, your Facebook and Instagram accounts). For more information about this, see “Linking other Accounts to Bumble” in section 7 below.
+* Name;
+* Username;
+* Email address;
+* Mobile number;
+* Gender identity;
+* Date of birth;
+* Sexual preference;
+* Photographs;
+* Location; and
+* Login information for social media accounts that you connect to your Bumble Account (this could include, for example, your Facebook and Instagram accounts). For more information about this, see “Linking other Accounts to Bumble” in section 7 below.
 
 Once you register, you will be able to review and change this information at any time just by logging in to Bumble (other than your date of birth and location (which, if you have given Bumble access to your location in your device settings, is automatically updated based on the location of your device)). It is your responsibility to ensure that your account details are kept up to date. If your phone number changes, please ensure that you update this in your account.
 
@@ -37,17 +37,17 @@ The information we collect helps to enhance the App and verify our Users (robots
 
 For Users who are California residents, the data we may collect falls within the following categories of “personal information”, as defined by the California Consumer Privacy Act (CCPA):
 
-*   A. Identifiers, such as name and location;
-*   B. Personal information, as defined in the California customer records law, such as contact (including email and telephone number) and financial information;
-*   C. Characteristics of protected classifications under California or federal law (if you choose to provide them), such as age, gender identity, marital status, sexual orientation, race, ancestry, national origin, religion, and medical conditions;
-*   D. Commercial information, such as transaction information and purchase history;
-*   E. Biometric information;
-*   F. Internet or network activity information, such as browsing history and interactions with our Sites and App;
-*   G. Geolocation data, such as mobile device location;
-*   H. Audio, electronic, visual and similar information, such as photos and videos;
-*   I. Professional or employment-related information, such as work history and prior employer;
-*   J. Non-public education information; and
-*   K. Inferences drawn from any of the personal information listed above to create a profile or summary about, for example, an individual’s preferences and characteristics.
+* A. Identifiers, such as name and location;
+* B. Personal information, as defined in the California customer records law, such as contact (including email and telephone number) and financial information;
+* C. Characteristics of protected classifications under California or federal law (if you choose to provide them), such as age, gender identity, marital status, sexual orientation, race, ancestry, national origin, religion, and medical conditions;
+* D. Commercial information, such as transaction information and purchase history;
+* E. Biometric information;
+* F. Internet or network activity information, such as browsing history and interactions with our Sites and App;
+* G. Geolocation data, such as mobile device location;
+* H. Audio, electronic, visual and similar information, such as photos and videos;
+* I. Professional or employment-related information, such as work history and prior employer;
+* J. Non-public education information; and
+* K. Inferences drawn from any of the personal information listed above to create a profile or summary about, for example, an individual’s preferences and characteristics.
 
 ### Profile Information
 
@@ -75,8 +75,8 @@ If you have given Bumble access to your location in your device settings, when y
 
 If you have given Bumble access to your location, but wish to turn this off, you can do so by the following methods:
 
-1.  iPhone app — settings, privacy, location services, Bumble
-2.  Android — settings, location, Bumble, permissions, location
+1. iPhone app — settings, privacy, location services, Bumble
+2. Android — settings, location, Bumble, permissions, location
 
 ### Device Information
 
@@ -105,14 +105,14 @@ If you would like to find out more about cookies, including how we use them and 
 
 Our main goal is to ensure your experience on Bumble is an enjoyable one and you don’t end up getting stung! In order to deliver an enjoyable experience to you, we may use your Registration and other information to:
 
-*   offer you our services and features;
-*   contact you with information about the App (e.g., updates and new features);
-*   personalise the App/Sites and the content we deliver to you;
-*   conduct research and analytics about how you use and interact with the App/Sites;
-*   resolve disputes, troubleshoot problems and to enforce our Terms & Conditions;
-*   investigate fraud, protect our legal rights, and to enforce our Terms & Conditions.
-*   to send you information about the promotions and offers we have available - if you’ve signed up for our communications or otherwise told us it’s OK (you can withdraw from marketing at any time via Settings in the App or by using the opt-out mechanisms and links provided in each message); and
-*   protect our Users and third parties from harm.
+* offer you our services and features;
+* contact you with information about the App (e.g., updates and new features);
+* personalise the App/Sites and the content we deliver to you;
+* conduct research and analytics about how you use and interact with the App/Sites;
+* resolve disputes, troubleshoot problems and to enforce our Terms & Conditions;
+* investigate fraud, protect our legal rights, and to enforce our Terms & Conditions.
+* to send you information about the promotions and offers we have available - if you’ve signed up for our communications or otherwise told us it’s OK (you can withdraw from marketing at any time via Settings in the App or by using the opt-out mechanisms and links provided in each message); and
+* protect our Users and third parties from harm.
 
 ### Moderation Practices
 
@@ -169,11 +169,11 @@ Bumble does not sell your data and has not sold your personal data in the previo
 
 We engage certain trusted third parties to perform functions and provide services to us (“Service Providers”). The suppliers with which Bumble shares User personal data vary depending on a variety of factors, such as which of our App, Sites and services a User engages with. For example, to provide our services to Users, we typically use the following suppliers:
 
-*   Billing services – to allow customers to purchase paid features of our App (for example, Google Play)
-*   Authentication services – to allow customers to authenticate their account (for example, Twilio)
-*   Social media providers – to allow customers to create/connect their Bumble account with their account(s) on such platforms (for example Facebook, Instagram or Spotify)
-*   Product improvement and market research – we use third party platforms (such as Typeform) and agencies (such as Kantar) to carry out customer surveys and market research to improve our products and services
-*   IT services – some of the third-party software providers used in the operation of our business may process Users’ personal data (for example, if a User contacts us via social media with a support inquiry, their inquiry is processed by our community management software provider Khoros)
+* Billing services – to allow customers to purchase paid features of our App (for example, Google Play)
+* Authentication services – to allow customers to authenticate their account (for example, Twilio)
+* Social media providers – to allow customers to create/connect their Bumble account with their account(s) on such platforms (for example Facebook, Instagram or Spotify)
+* Product improvement and market research – we use third party platforms (such as Typeform) and agencies (such as Kantar) to carry out customer surveys and market research to improve our products and services
+* IT services – some of the third-party software providers used in the operation of our business may process Users’ personal data (for example, if a User contacts us via social media with a support inquiry, their inquiry is processed by our community management software provider Khoros)
 
 We carry out due diligence on all Service Providers we engage to ensure they have adequate data protection and information security measures in place and only provide them with the personal data necessary to the service they are providing. Measures are taken to ensure that the data shared is non-attributable to the greatest extent possible and our suppliers are also subject to extensive obligations under our contractual arrangements, including strict data retention limits.
 
@@ -181,18 +181,18 @@ We carry out due diligence on all Service Providers we engage to ensure they hav
 
 We partner with providers of marketing services (such as Facebook for example) (‘Marketing Services Providers’) to help us market and advertise our App and services on third party websites and applications and measure the effectiveness of our advertising campaigns. For example:
 
-*   to exclude you from advertising campaigns aimed at finding new users, if you already have a Bumble account;
-*   to show Bumble adverts to users who have visited the Bumble App/Sites but haven’t yet created a Bumble account;
-*   to create an audience for our advertisements of other potential users who have similar characteristics to you based on the information the Marketing Service Providers holds about you (also known as a Lookalike Audience); or
-*   to include you in a ‘custom audience’ that will receive Bumble advertising content (a custom audience is essentially a list of people who we think are most likely to be interested in a particular advertisement).
+* to exclude you from advertising campaigns aimed at finding new users, if you already have a Bumble account;
+* to show Bumble adverts to users who have visited the Bumble App/Sites but haven’t yet created a Bumble account;
+* to create an audience for our advertisements of other potential users who have similar characteristics to you based on the information the Marketing Service Providers holds about you (also known as a Lookalike Audience); or
+* to include you in a ‘custom audience’ that will receive Bumble advertising content (a custom audience is essentially a list of people who we think are most likely to be interested in a particular advertisement).
 
 We share a limited amount of your personal data with these Marketing Services Providers, such as:
 
-*   the advertising identifier associated with your device (this is a random number assigned by your mobile device manufacturer (for example Apple or Google) to your device to help advertisers (including the manufacturer) know when an ad has been viewed or clicked in an app, and when an ad causes a ‘conversion’ (for example, downloading the app advertised to you))
-*   your estimated location (based on your IP address)
-*   age and gender
-*   data about your visit to our Sites or App and action taken on those (for example if you downloaded our App or created an account with our App)
-*   a hashed\* version of your email address (to create ‘custom audiences’).
+* the advertising identifier associated with your device (this is a random number assigned by your mobile device manufacturer (for example Apple or Google) to your device to help advertisers (including the manufacturer) know when an ad has been viewed or clicked in an app, and when an ad causes a ‘conversion’ (for example, downloading the app advertised to you))
+* your estimated location (based on your IP address)
+* age and gender
+* data about your visit to our Sites or App and action taken on those (for example if you downloaded our App or created an account with our App)
+* a hashed\* version of your email address (to create ‘custom audiences’).
   
 
 \*Hashing is a way of encrypting information by turning it into a combination of random numbers and letters - this code cannot be traced back to the email address. When hashed email addresses are sent to a Marketing Service Provider, they’re then matched against the Provider’s own existing list of their own users’ hashed information and our ads are served to those of our users who have successfully been matched with the Provider’s. Matched and unmatched hashes are then deleted by the Provider.
@@ -236,9 +236,9 @@ Here at Bumble, we pride ourselves on taking all appropriate security measures t
 
 Unfortunately, no website or Internet transmission is ever completely 100% secure and even we cannot guarantee that unauthorised access, hacking, data loss or other breaches will never occur, but here are some handy tips to help keep your data secure:
 
-1.  Please make sure you log out of your Account after use as you never know who may stumble onto your Account!
-2.  Please don’t share the password you use to access your Bumble Account with anyone else!
-3.  Change your password periodically.
+1. Please make sure you log out of your Account after use as you never know who may stumble onto your Account!
+2. Please don’t share the password you use to access your Bumble Account with anyone else!
+3. Change your password periodically.
 
 If you ever think someone has had access to your password or Account, please follow the steps set out [here](https://bumble.com/en/help/i-think-my-bumble-account-has-been-hacked). We cannot guarantee the security of your personal data while it is being transmitted to our site and any transmission is at your own risk.
 
@@ -268,9 +268,9 @@ If you use BFF, you can populate your profile with certain information (like you
 
 Our legal justifications for processing your personal data in BFF are listed below:
 
-*   The processing of your personal data is necessary in order to perform our contract with you and deliver certain BFF services and features you’ve requested. For example, in order to offer you certain features, we need to process your location and interests data to show you content and groups that are relevant to you.
-*   We also rely on legitimate interests as a lawful basis to collect and process personal data in BFF. It is in our legitimate interests to facilitate networking opportunities in the Bumble app.
-*   When you upload and choose to share sensitive information (such as sexuality, beliefs and political leanings), you are explicitly consenting to sharing that information with other members of BFF.
+* The processing of your personal data is necessary in order to perform our contract with you and deliver certain BFF services and features you’ve requested. For example, in order to offer you certain features, we need to process your location and interests data to show you content and groups that are relevant to you.
+* We also rely on legitimate interests as a lawful basis to collect and process personal data in BFF. It is in our legitimate interests to facilitate networking opportunities in the Bumble app.
+* When you upload and choose to share sensitive information (such as sexuality, beliefs and political leanings), you are explicitly consenting to sharing that information with other members of BFF.
 
 ### Using Your Information to Recommend Friends and Content
 
@@ -295,8 +295,8 @@ Remember that certain areas of BFF are public spaces that are freely open to eve
 
 For Users who are California residents, you have the following rights (in addition to those listed at section 10 below) under the California Consumer Privacy Act, and you have the right to be free from unlawful discrimination for exercising your rights under the Act:
 
-1.  You have the right to request that we disclose certain information to you and explain how we have collected, used and shared your personal information over the past 12 months.
-2.  You have the right to request that we delete your personal information that we collected from you, subject to certain exceptions.
+1. You have the right to request that we disclose certain information to you and explain how we have collected, used and shared your personal information over the past 12 months.
+2. You have the right to request that we delete your personal information that we collected from you, subject to certain exceptions.
 
 California’s “Shine the Light” law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses’ practices related to disclosing personal information to third parties for the third parties’ direct marketing purposes. If you wish to find out about any rights you may have under California Civil Code section 1798.83, you can write to us at [feedback@team.bumble.com](mailto:feedback@team.bumble.com).
 
@@ -309,14 +309,14 @@ In addition, under California law, operators of online services are required to 
 
 Privacy laws applicable in your country may give you the following rights:
 
-1.  Right to be informed: what personal data an organisation is processing and why (we provide this information to you in this Privacy Policy).
-2.  Right of access: you can request a copy of your data.
-3.  Right of rectification: if the data held is inaccurate, you have the right to have it corrected.
-4.  Right to erasure: you have the right to have your data deleted in certain circumstances.
-5.  Right to restrict processing: in limited circumstances, you have the right to request that processing is stopped but the data retained.
-6.  Right to data portability: you can request a copy of certain data in a machine-readable form that can be transferred to another provider.
-7.  Right to object: in certain circumstances (including where data is processed on the basis of legitimate interests or for the purposes of marketing) you may object to that processing.
-8.  Rights related to automated decision-making including profiling: there are several rights in this area where processing carried out on a solely automated basis results in a decision which has legal or significant effects for the individual. In these circumstances your rights include the right to ensure that there is human intervention in the decision-making process.
+1. Right to be informed: what personal data an organisation is processing and why (we provide this information to you in this Privacy Policy).
+2. Right of access: you can request a copy of your data.
+3. Right of rectification: if the data held is inaccurate, you have the right to have it corrected.
+4. Right to erasure: you have the right to have your data deleted in certain circumstances.
+5. Right to restrict processing: in limited circumstances, you have the right to request that processing is stopped but the data retained.
+6. Right to data portability: you can request a copy of certain data in a machine-readable form that can be transferred to another provider.
+7. Right to object: in certain circumstances (including where data is processed on the basis of legitimate interests or for the purposes of marketing) you may object to that processing.
+8. Rights related to automated decision-making including profiling: there are several rights in this area where processing carried out on a solely automated basis results in a decision which has legal or significant effects for the individual. In these circumstances your rights include the right to ensure that there is human intervention in the decision-making process.
 
 The particular rights which are applicable to you (which might include other rights not listed above) may vary depending on your country. You should make yourself aware of the rights you have under applicable privacy laws in your country.
 
@@ -346,10 +346,10 @@ We keep your personal information only as long as we need it for the legal basis
 
 When you delete your Account, or it is deactivated by us, we make sure it is no longer viewable in the App. For up to 28 days, it is still possible to restore your Account if it was accidentally deleted or wrongfully deactivated. After 28 days, we begin the process of deleting your personal information from our systems, unless:
 
-1.  we must keep it to comply with applicable law (for instance, if you make purchases within the App, some personal data may be kept for tax and accounting purposes);
-2.  we must keep it to evidence our compliance with applicable law (for example, if an account is blocked, we keep some account information and a record of the behaviour that led to the block - this information is retained for evidential purposes in case of queries or legal claims concerning the block);
-3.  there is an outstanding issue, claim or dispute requiring us to keep the relevant information until it is resolved; or
-4.  the information must be kept for our legitimate business interests, such as fraud prevention and enhancing Users’ safety and security (for example, information may need to be kept to prevent a user who was banned for unsafe behaviour or security incidents from opening a new account).
+1. we must keep it to comply with applicable law (for instance, if you make purchases within the App, some personal data may be kept for tax and accounting purposes);
+2. we must keep it to evidence our compliance with applicable law (for example, if an account is blocked, we keep some account information and a record of the behaviour that led to the block - this information is retained for evidential purposes in case of queries or legal claims concerning the block);
+3. there is an outstanding issue, claim or dispute requiring us to keep the relevant information until it is resolved; or
+4. the information must be kept for our legitimate business interests, such as fraud prevention and enhancing Users’ safety and security (for example, information may need to be kept to prevent a user who was banned for unsafe behaviour or security incidents from opening a new account).
 
 **Warning:** Even after you remove information from your profile or delete your Account, copies of that information may still be viewable and/or accessed to the extent such information has been previously shared with others, or copied or stored by others. We cannot control this, nor do we accept any liability for this. If you have given third party applications or websites access to your personal information, they may retain such information to the extent permitted under their terms of service or privacy policies.
 
