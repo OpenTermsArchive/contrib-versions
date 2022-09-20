@@ -22,11 +22,11 @@ Data use and sharing
 
 We use the data we collect to provide you with rich, interactive experiences. In particular, we may use data to:
 
-*   provide the service or carry out the transactions at your request;
-*   improve and develop our products;
-*   personalize your experience;
-*   process job applications you submit through our Sites;
-*   advertise and market to you subject to applicable legal requirements, which may include sending promotional communications, targeting advertising, and presenting you with relevant offers.
+* provide the service or carry out the transactions at your request;
+* improve and develop our products;
+* personalize your experience;
+* process job applications you submit through our Sites;
+* advertise and market to you subject to applicable legal requirements, which may include sending promotional communications, targeting advertising, and presenting you with relevant offers.
 
 Read more
 
@@ -46,10 +46,10 @@ These companies are required to abide by our data protection and security requir
 
 We may disclose your personal information to
 
-1.  comply with relevant laws, regulatory requirements, and to respond to lawful requests, court orders, and legal process;
-2.  to protect and defend the rights or property of us or third parties, including enforcing agreements, policies, and terms of use;
-3.  in an emergency, including to protect the safety of our employees or any person; or
-4.  in connection with investigating or preventing fraud.
+1. comply with relevant laws, regulatory requirements, and to respond to lawful requests, court orders, and legal process;
+2. to protect and defend the rights or property of us or third parties, including enforcing agreements, policies, and terms of use;
+3. in an emergency, including to protect the safety of our employees or any person; or
+4. in connection with investigating or preventing fraud.
 
 We may share your personal data for purposes of a business deal, or negotiation of a business deal, involving sale or transfer of all or a part of our business or assets. These deals can include any merger, financing, acquisition, divestiture, joint venture or partnership, or bankruptcy transaction or proceeding.
 
@@ -104,13 +104,13 @@ Read more
 
 Logitech processes personal data relating to EU customers on one or more of the lawful bases specified in the GDPR.
 
-1.  **The processing is necessary for entering into or performing a contract with you.**  
+1. **The processing is necessary for entering into or performing a contract with you.**  
     We need to process personal data relating to you in order to activate and register products, ensure products and services you use are working as they should, maintain and improve products, answer to questions and requests from you, and provide customer support.
-2.  **The processing is necessary for Logitech’s legitimate interests.**  
+2. **The processing is necessary for Logitech’s legitimate interests.**  
     We process usage data to support website functionality, detect and prevent fraud; to protect and defend the rights or property of other customers or third parties, or our own rights and interests. We consider your rights and freedoms when doing so and de-identify personal data to the largest extent practicable. We may also process your personal data to meet regulatory requirements, and to respond to lawful requests, court orders, and legal processes.
-3.  **The processing is necessary to meet Logitech’s legal obligations.**  
+3. **The processing is necessary to meet Logitech’s legal obligations.**  
     We may need to process your personal data to comply with relevant EU or Member State laws.
-4.  **Consent**  
+4. **Consent**  
     Logitech processes some personal data based on consent. We often do this for our direct marketing communications. You can unsubscribe at any time by following the instructions here [https://www.logitech.com/subscribe](https://www.logitech.com/footer/subscription-management).
 
 ##### Your rights and choices
@@ -119,37 +119,37 @@ If you are a Logitech customer within the EU, you have the rights described belo
 
 ###### Right of access and explanation
 
-*   You have the right to receive an explanation of what data Logitech has about you and how it uses this data.
-*   You have the right to receive a copy of the personal data Logitech has about you.
+* You have the right to receive an explanation of what data Logitech has about you and how it uses this data.
+* You have the right to receive a copy of the personal data Logitech has about you.
 
 ###### Right of rectification
 
-*   If you believe certain information Logitech processes about you is inaccurate or incomplete, you have the right to have this information corrected.
+* If you believe certain information Logitech processes about you is inaccurate or incomplete, you have the right to have this information corrected.
 
 ###### Right to erasure
 
-*   You have the right to request to have your data permanently deleted by Logitech.
+* You have the right to request to have your data permanently deleted by Logitech.
 
 ###### Right to object
 
-*   You have the right to object to Logitech’s processing of your personal data based on legitimate interests on grounds relating to your particular situation. Logitech may continue to process your personal data notwithstanding the objection to the extent permitted under GDPR. You also have the right to object to Logitech's processing of your personal data for direct marketing purposes.
+* You have the right to object to Logitech’s processing of your personal data based on legitimate interests on grounds relating to your particular situation. Logitech may continue to process your personal data notwithstanding the objection to the extent permitted under GDPR. You also have the right to object to Logitech's processing of your personal data for direct marketing purposes.
 
 ###### Right to restriction of processing
 
-*   You have the right to request that Logitech restrict the processing of your personal data in certain situations where you feel the processing is inappropriate.
+* You have the right to request that Logitech restrict the processing of your personal data in certain situations where you feel the processing is inappropriate.
 
 ###### Right to portability
 
-*   You have the right to request portability of personal data that you have actively or passively provided to us (which does not include data derived or inferred from collected data), where the processing of such personal data is based on consent or a contract with you and is carried out by automated means.
+* You have the right to request portability of personal data that you have actively or passively provided to us (which does not include data derived or inferred from collected data), where the processing of such personal data is based on consent or a contract with you and is carried out by automated means.
 
 ###### Right to complain to the supervisory authority
 
-*   You also have the right to file a complaint regarding Logitech’s processing of your personal data with the Data Protection Commission, the Irish Supervisory Authority. Their contact information is as follows:  
+* You also have the right to file a complaint regarding Logitech’s processing of your personal data with the Data Protection Commission, the Irish Supervisory Authority. Their contact information is as follows:  
     Data Protection Commission  
     21 Fitzwilliam Square, Dublin 2  
     D02 RD28, Ireland  
     Phone: +353 57 8684800, +353 (0)761 104 800
-*   Where processing is based on consent, you have a right to withdraw consent at any time. Use of our Sites and our products as described in Logitech Privacy Statements is voluntary.
+* Where processing is based on consent, you have a right to withdraw consent at any time. Use of our Sites and our products as described in Logitech Privacy Statements is voluntary.
 
 To invoke any of these rights, please fill out the form [here](https://support.logitech.com/response-center). You may also contact us via phone, email, or postal mail by using the contact information below:
 
