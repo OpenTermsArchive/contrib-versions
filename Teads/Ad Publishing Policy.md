@@ -101,7 +101,7 @@ Other financial services shall be discussed further in the Restricted Content se
 
 Teads will not accept any advertisements for news sites that are non-satirical in nature but are evidently false or which are meant to intentionally deceive, no matter the reason.
 
-These types of advertisements include but, are not limited to: “news” that are designed to make the person believe they are reading a legitimate editorial content or factual news; propaganda; or hoaxes. 
+These types of advertisements include but, are not limited to: “news” that are designed to make the person believe they are reading a legitimate editorial content or factual news; propaganda; or hoaxes. 
 
 ### Dangerous Products or Services
 
@@ -192,7 +192,7 @@ All advertisements in this category are further regulated by our specific guidel
 
 Cannabis content shall include any content promoting any type of cannabinoid, including CBD products and hemp derived products.
 
-At no time will any Cannabis content be allowed outside of the United States. This type of content will only be allowed in those states where it is legal as further detailed **[HERE](https://www.teads.com/ad-policies/cannabis-specific-guidelines/).** 
+At no time will any Cannabis content be allowed outside of the United States. This type of content will only be allowed in those states where it is legal as further detailed **[HERE](https://www.teads.com/ad-policies/cannabis-specific-guidelines/).** 
 
 ### [Political Content](https://www.teads.com/ad-policies/political-specific-guidelines/)
 
@@ -226,13 +226,13 @@ For Spain, advertisements for medical weight loss procedures are prohibited. Adv
 
 For the United States, the following claims are prohibited at all times by the Federal Trade Commission:
 
-*   Causes weight loss of xx pounds or more a week for a month or more without dieting or exercise
-*   Causes substantial weight loss no matter what or how much you eat
-*   Causes permanent weight loss even after the product is discontinued
-*   Blocks the absorption of fat/calories in order to cause the person to lose substantial weight
-*   Safely enables users to lose more than xx pounds a week for more than xx weeks
-*   Causes substantial weight loss for everyone
-*   Causes substantial weight loss by wearing or applying product onto skin
+* Causes weight loss of xx pounds or more a week for a month or more without dieting or exercise
+* Causes substantial weight loss no matter what or how much you eat
+* Causes permanent weight loss even after the product is discontinued
+* Blocks the absorption of fat/calories in order to cause the person to lose substantial weight
+* Safely enables users to lose more than xx pounds a week for more than xx weeks
+* Causes substantial weight loss for everyone
+* Causes substantial weight loss by wearing or applying product onto skin
 
 The use of customer testimonials may be allowed if the claims are qualified by a clear and conspicuous disclaimer that results are not typical and that the results provided are actual results.
 
@@ -248,9 +248,9 @@ Teads will not accept advertisements for the sale any products or services that 
 
 Advertisements for motion pictures, theater and events may be acceptable if they follow the requirements below:
 
-*   All content must include ratings from the appropriate evaluation agency
-*   Placement and targeting will be according to the ratings (G, PG, PG-13, R and NC-17)
-*   Red band trailers must be limited to age-appropriate properties and shall always include appropriate warnings and an age-gate.
+* All content must include ratings from the appropriate evaluation agency
+* Placement and targeting will be according to the ratings (G, PG, PG-13, R and NC-17)
+* Red band trailers must be limited to age-appropriate properties and shall always include appropriate warnings and an age-gate.
 
 Advertisements for Video Games must include the rating from the evaluating agency and shall be targeted based on the rating (E, E10+, T, M, A). Advertisements for Adult Only (A) shall never be permitted.
 
@@ -347,9 +347,9 @@ Before and after images are prohibited.
 
 Images cannot employ deceptive tactics to lure a user to click. For instance:
 
-*   Images that pretend to be a system or site warning
-*   Images that use irrelevant sensational tactics
-*   Images that uses video player icon
+* Images that pretend to be a system or site warning
+* Images that use irrelevant sensational tactics
+* Images that uses video player icon
 
 ### Video
 
@@ -357,9 +357,9 @@ Video and audio must be of clear quality, must contain recognizable visuals, and
 
 Videos cannot employ deceptive tactics to lure a user to click. For instance:
 
-*   Videos with fake player buttons (Play/Pause, Skip Ad…)
-*   Images that pretend to be a system or site warning
-*   Images that use irrelevant sensational tactics
+* Videos with fake player buttons (Play/Pause, Skip Ad…)
+* Images that pretend to be a system or site warning
+* Images that use irrelevant sensational tactics
 
 ### Endorsements and Testimonials
 
