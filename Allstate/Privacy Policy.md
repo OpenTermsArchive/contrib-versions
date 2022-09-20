@@ -64,19 +64,19 @@ Our website is not intended for children. We do not market any products or servi
 
 We use your personal and other information for business purposes including to:
 
-*   **Provide and maintain your services and products.** We may use your personal information to provide or maintain your service, products, or membership including to set up a product or service or provide a product or service, maintain your account, service your policy, change your policy, handle a claim, complete a transaction, repair a product or respond to customer service requests or other inquiries. We may also collect information about other parties from you to carry out necessary services and/or requests, including adding another driver to your existing policy. If you provide us personal information about others, or if others give us your personal information, we will only use the information for the specific reason for which it was provided to us. If you use the Allstate Digital FootprintSM feature, we will access the emails in your inbox to identify companies in your Digital Footprint. Additional information about uses and restrictions is in the Allstate Digital FootprintSM section below.
-*   **Improve, develop and analyze our Sites, services and products.** We use your personal information and other information to:
-    *   analyze, improve, develop or deliver our Sites, products and services and develop new services, products or features using algorithms, analytics software and other similar methods,
-    *   conduct actuarial or research studies to maintain, protect and develop our networks, services, and products and protect our customers, and
-    *   analyze how visitors use our Sites to improve the Sites and enhance and personalize your experience.
+* **Provide and maintain your services and products.** We may use your personal information to provide or maintain your service, products, or membership including to set up a product or service or provide a product or service, maintain your account, service your policy, change your policy, handle a claim, complete a transaction, repair a product or respond to customer service requests or other inquiries. We may also collect information about other parties from you to carry out necessary services and/or requests, including adding another driver to your existing policy. If you provide us personal information about others, or if others give us your personal information, we will only use the information for the specific reason for which it was provided to us. If you use the Allstate Digital FootprintSM feature, we will access the emails in your inbox to identify companies in your Digital Footprint. Additional information about uses and restrictions is in the Allstate Digital FootprintSM section below.
+* **Improve, develop and analyze our Sites, services and products.** We use your personal information and other information to:
+    * analyze, improve, develop or deliver our Sites, products and services and develop new services, products or features using algorithms, analytics software and other similar methods,
+    * conduct actuarial or research studies to maintain, protect and develop our networks, services, and products and protect our customers, and
+    * analyze how visitors use our Sites to improve the Sites and enhance and personalize your experience.
 
 We collect some information used for these purposes using analytics software, cookies and other tracking technologies. For more information about the collection and use of this information, see Cookies and Other Tracking Technologies below.
 
-*   **Communicate with you about your service or product.** We may communicate with you about your product, service, account, policy or membership, provide you transaction confirmations, payment alerts or other service or product related messages via mail, email or other available methods such as push notifications.
-*   **Provide marketing communications.** We may use your personal information to send you promotional communications about products, services, features, and options we believe may interest you. We may send communications via e-mail, regular mail or may send push notifications via a mobile device. We may also use your information to serve you ads or customized content online.
-*   **Comply with legal requirements and protect the safety and security of our business, services, and Sites.** We may use your personal information to comply with laws, regulations or other legal obligations, to assist in an investigation, to protect and defend our rights and property or the rights of third parties or enforce terms and conditions. We may also use your personal information to prevent suspected fraud, threats to our network or other illegal activities, prevent misuse or for any other reason permitted by law. We may use your personal information to protect our company, our affiliates, our customers, our network and our Sites.
-*   **Update or correct our records.** We may receive personal information about you from other sources, including publicly available databases or third parties from whom we have purchased data, and combine that personal information with other personal information we have about you to update our records. For example, we may obtain change of address information from public sources and use that personal information to update or correct your address.
-*   **Find locations on request.** Your location may be obtained from the mobile device or the network using your device's Global Positioning System (GPS) functionality or directly from you. We may use your location information to search for information including searching for an agent, searching for a service provider, identifying the location of an accident or identifying the location of a roadside event you are reporting. If you do not want location information used, you can disable the GPS functionality on your mobile device.
+* **Communicate with you about your service or product.** We may communicate with you about your product, service, account, policy or membership, provide you transaction confirmations, payment alerts or other service or product related messages via mail, email or other available methods such as push notifications.
+* **Provide marketing communications.** We may use your personal information to send you promotional communications about products, services, features, and options we believe may interest you. We may send communications via e-mail, regular mail or may send push notifications via a mobile device. We may also use your information to serve you ads or customized content online.
+* **Comply with legal requirements and protect the safety and security of our business, services, and Sites.** We may use your personal information to comply with laws, regulations or other legal obligations, to assist in an investigation, to protect and defend our rights and property or the rights of third parties or enforce terms and conditions. We may also use your personal information to prevent suspected fraud, threats to our network or other illegal activities, prevent misuse or for any other reason permitted by law. We may use your personal information to protect our company, our affiliates, our customers, our network and our Sites.
+* **Update or correct our records.** We may receive personal information about you from other sources, including publicly available databases or third parties from whom we have purchased data, and combine that personal information with other personal information we have about you to update our records. For example, we may obtain change of address information from public sources and use that personal information to update or correct your address.
+* **Find locations on request.** Your location may be obtained from the mobile device or the network using your device's Global Positioning System (GPS) functionality or directly from you. We may use your location information to search for information including searching for an agent, searching for a service provider, identifying the location of an accident or identifying the location of a roadside event you are reporting. If you do not want location information used, you can disable the GPS functionality on your mobile device.
 
 #### SHARING YOUR INFORMATION
 
@@ -84,23 +84,23 @@ We do not sell your personal information. We may share your personal information
 
 We may also share your personal or other information with service providers and other third parties for business purposes or as required or permitted by law including with:
 
-*   **Companies involved in insurance and other business transactions:** We share your personal information with other companies that play a role in an insurance transaction with you such as independent claims adjusters, repair shops, and other claims related companies. We may also share your personal information to participate in insurance support organizations.
-*   **Authorized agents or brokers:** Allstate operates through agents and brokers who sell our services and products on our behalf. We may share your personal information with those agents or brokers to provide you with the services you've requested. They may use your personal information in the manner described in this Privacy Statement.
-*   **Service providers:** Personal information may be shared with service providers who perform services on our behalf for a business purpose including service providers that:
-    *   help complete transactions, handle a claim, service your policy or service your membership,
-    *   engage in credit reporting or payment processing,
-    *   provide marketing and advertising, email or other communication services,
-    *   provide services that support our online activities including providing tracking technologies, web hosting and analytics,
-    *   provide tax and accounting, legal services, delivery, and data enhancement services,
-    *   provide technology services and enhance security, privacy and fraud protections,
-    *   provide data analytics services or conduct research or actuarial studies, and
-    *   provide support to our operations.
-*   **Marketing and advertising partners:** We may share personal and other information with third party online and other marketing and advertising partners or permit these partners to collect personal information from you directly on our Sites to personalize online advertising. We may share personal information with other financial institutions or other companies with whom we have a joint marketing agreement. The Cookies and Other Tracking Technologies section below has more details about these activities.
-*   **Third parties in connection with a business transaction:** Personal information may be disclosed to third parties in connection with a corporate transaction, such as a merger, sale of any or all of our company assets or shares, reorganization, financing, change of control or acquisition of all or a portion of our business by an affiliate or third party, or in the event of a bankruptcy or similar proceedings.
-*   **Law enforcement, regulators and other parties for legal reasons:** Personal information may be disclosed to third parties, as required by law or subpoena, or if we reasonably believe such action is necessary to:
-    *   comply with the law and the reasonable requests of regulators, law enforcement or other public authorities,
-    *   protect our or others safety, rights or property, and
-    *   investigate fraud or to protect the security or integrity of our Sites or any product or services.
+* **Companies involved in insurance and other business transactions:** We share your personal information with other companies that play a role in an insurance transaction with you such as independent claims adjusters, repair shops, and other claims related companies. We may also share your personal information to participate in insurance support organizations.
+* **Authorized agents or brokers:** Allstate operates through agents and brokers who sell our services and products on our behalf. We may share your personal information with those agents or brokers to provide you with the services you've requested. They may use your personal information in the manner described in this Privacy Statement.
+* **Service providers:** Personal information may be shared with service providers who perform services on our behalf for a business purpose including service providers that:
+    * help complete transactions, handle a claim, service your policy or service your membership,
+    * engage in credit reporting or payment processing,
+    * provide marketing and advertising, email or other communication services,
+    * provide services that support our online activities including providing tracking technologies, web hosting and analytics,
+    * provide tax and accounting, legal services, delivery, and data enhancement services,
+    * provide technology services and enhance security, privacy and fraud protections,
+    * provide data analytics services or conduct research or actuarial studies, and
+    * provide support to our operations.
+* **Marketing and advertising partners:** We may share personal and other information with third party online and other marketing and advertising partners or permit these partners to collect personal information from you directly on our Sites to personalize online advertising. We may share personal information with other financial institutions or other companies with whom we have a joint marketing agreement. The Cookies and Other Tracking Technologies section below has more details about these activities.
+* **Third parties in connection with a business transaction:** Personal information may be disclosed to third parties in connection with a corporate transaction, such as a merger, sale of any or all of our company assets or shares, reorganization, financing, change of control or acquisition of all or a portion of our business by an affiliate or third party, or in the event of a bankruptcy or similar proceedings.
+* **Law enforcement, regulators and other parties for legal reasons:** Personal information may be disclosed to third parties, as required by law or subpoena, or if we reasonably believe such action is necessary to:
+    * comply with the law and the reasonable requests of regulators, law enforcement or other public authorities,
+    * protect our or others safety, rights or property, and
+    * investigate fraud or to protect the security or integrity of our Sites or any product or services.
 
 We share the following categories of personal information with the following parties:
 
@@ -140,21 +140,21 @@ Companies involved in insurance and other business transactions; Authorized agen
 
 **Technologies and Information Collected:** When you visit our Sites, we and our service providers automatically collect information about your use of and access to these Sites. We collect this information through a variety of tracking technologies, including cookies, Flash objects, web beacons (also called pixel tags), embedded scripts, location-identifying technologies, and similar technology (collectively, "tracking technologies"). Information we collect automatically about you may be combined with other personal information we collect directly. The information collected in this manner includes:
 
-*   The website from where you accessed the Site, where you went to when you left the Site, how frequently you visit the Sites, when and whether you open emails or click the links contained in emails, pages you visit on our Sites, the links you click and ads you view, or your location when you access our Sites,
-*   Information about the computer, tablet, smartphone or other device you use, such as your IP address, browser type, Internet service provider, platform type, device type/model/manufacturer, operating system, date and time stamp, a unique ID that allows us to uniquely identify your browser, mobile device or your account (including, e.g., a persistent device identifier or an Ad ID), and other similar information,
-*   Analytics information collected by us or via third party analytics tools, to help us measure traffic and usage trends for the Sites and to understand more about the demographics and behaviors of our users, and
-*   How often you use a mobile app, from where the app was downloaded, events that occur within the app, aggregated usage, and performance data.
+* The website from where you accessed the Site, where you went to when you left the Site, how frequently you visit the Sites, when and whether you open emails or click the links contained in emails, pages you visit on our Sites, the links you click and ads you view, or your location when you access our Sites,
+* Information about the computer, tablet, smartphone or other device you use, such as your IP address, browser type, Internet service provider, platform type, device type/model/manufacturer, operating system, date and time stamp, a unique ID that allows us to uniquely identify your browser, mobile device or your account (including, e.g., a persistent device identifier or an Ad ID), and other similar information,
+* Analytics information collected by us or via third party analytics tools, to help us measure traffic and usage trends for the Sites and to understand more about the demographics and behaviors of our users, and
+* How often you use a mobile app, from where the app was downloaded, events that occur within the app, aggregated usage, and performance data.
 
 **Use of the information:** The information collected through tracking technologies allows us to provide you with an improved, enhanced and personalized customer experience, to monitor and improve our Sites and for other internal purposes such as:
 
-*   Remembering information so that you will not have to re-enter it during your visit or the next time you visit the Sites,
-*   Provide custom, personalized content and information, including targeted content, communications and advertising,
-*   Identify and contact you across multiple devices,
-*   Provide and monitor the effectiveness of our Sites,
-*   Perform analytics and detect usage patterns on our Sites,
-*   Diagnose or fix technology problems,
-*   Detect or prevent fraud or other harmful activities, and
-*   Otherwise to plan for and enhance our Sites.
+* Remembering information so that you will not have to re-enter it during your visit or the next time you visit the Sites,
+* Provide custom, personalized content and information, including targeted content, communications and advertising,
+* Identify and contact you across multiple devices,
+* Provide and monitor the effectiveness of our Sites,
+* Perform analytics and detect usage patterns on our Sites,
+* Diagnose or fix technology problems,
+* Detect or prevent fraud or other harmful activities, and
+* Otherwise to plan for and enhance our Sites.
 
 Our service providers include Adobe and Google. To learn about Adobe Analytics privacy practices or to opt-out of cookies set to facilitate reporting, [click here](http://www.adobe.com/privacy.html). To learn more about Google's privacy practices, [click here](https://www.google.com/policies/privacy/). To access and use the Google Analytics Opt-out Browser Add-on, [click here](https://tools.google.com/dlpage/gaoptout).
 
@@ -192,21 +192,21 @@ California residents have certain rights under CCPA to access and delete persona
 
 **Right to Access Your Personal Information:** You have the right to request that we disclose certain information about our collection and use of your personal information over the past twelve months including:
 
-*   the specific pieces of personal information we have collected about you,
-*   the categories of personal information collected,
-*   the categories of sources from which personal information was collected,
-*   the business purpose for collecting the personal information, and
-*   the categories of third parties with whom we share personal information.
+* the specific pieces of personal information we have collected about you,
+* the categories of personal information collected,
+* the categories of sources from which personal information was collected,
+* the business purpose for collecting the personal information, and
+* the categories of third parties with whom we share personal information.
 
 **Right to Deletion of Personal Information:** You have the right to request we delete personal information we collected. We will delete your personal information in response to a verifiable request unless needed to:
 
-*   Complete a transaction for which we collected the personal information, provide a good or service you requested, take actions reasonably anticipated within the context of our ongoing business relationship with you, or otherwise perform our contract with you,
-*   Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity, or prosecute those responsible for such activities,
-*   Debug products to identify or repair errors that impair functionality,
-*   Exercise free speech ensure the right of another consumer to exercise their free speech rights, or exercise another right provided for by law,
-*   Enable solely internal uses that are reasonably aligned with consumer expectations based on your relationship with us,
-*   Comply with a legal obligation, or
-*   Otherwise use your personal information, internally, in a lawful manner that is compatible with the context in which you provided the information.
+* Complete a transaction for which we collected the personal information, provide a good or service you requested, take actions reasonably anticipated within the context of our ongoing business relationship with you, or otherwise perform our contract with you,
+* Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity, or prosecute those responsible for such activities,
+* Debug products to identify or repair errors that impair functionality,
+* Exercise free speech ensure the right of another consumer to exercise their free speech rights, or exercise another right provided for by law,
+* Enable solely internal uses that are reasonably aligned with consumer expectations based on your relationship with us,
+* Comply with a legal obligation, or
+* Otherwise use your personal information, internally, in a lawful manner that is compatible with the context in which you provided the information.
 
 **Non-Discrimination Rights:** You have the right not to receive discriminatory treatment by us for the exercise of your California privacy rights.
 
@@ -289,14 +289,14 @@ We limit access to your personal information to those who need it to do their jo
 
 If you enroll in the Allstate Digital FootprintSM feature through the mobile app, you provide Allstate access to your Microsoft and/or Google email accounts. We will only use the data accessed from your Microsoft and Google accounts to read, write, modify, or control email message bodies (including attachments), metadata, headers, and settings ("email data") to:
 
-*   identify certain online accounts,
-*   notify you of known security breaches related to those accounts, and
-*   send data privacy requests, unsubscribe requests or deletion requests from your email account at your request.
+* identify certain online accounts,
+* notify you of known security breaches related to those accounts, and
+* send data privacy requests, unsubscribe requests or deletion requests from your email account at your request.
 
 We will not:
 
-*   transfer email data to others unless it is necessary to provide and improve features, comply with applicable law, or otherwise provide the services, use email data for serving advertisements, or
-*   allow a person to read your email data unless we have your affirmative agreement regarding specific messages, doing so is necessary for security purposes such as investigating abuse, to comply with applicable law, or for an Allstate product's internal operations.
+* transfer email data to others unless it is necessary to provide and improve features, comply with applicable law, or otherwise provide the services, use email data for serving advertisements, or
+* allow a person to read your email data unless we have your affirmative agreement regarding specific messages, doing so is necessary for security purposes such as investigating abuse, to comply with applicable law, or for an Allstate product's internal operations.
 
 #### CONTACT US
 
