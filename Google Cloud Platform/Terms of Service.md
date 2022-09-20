@@ -9,11 +9,9 @@ If you are accessing the Google Cloud Platform Services as a customer of an unaf
 
 If you signed an offline variant of this Agreement for use of the Google Cloud Platform services under the same Google Cloud Platform Account, the terms below do not apply to you, and your offline terms govern your use of the Google Cloud Platform Services.
 
-If your billing account is in India, please review these [Terms of Service](https://cloud.google.com/terms/india), which apply to your use of Google Cloud Platform.
+If your billing account is in Brazil, please review these [Terms of Service](https://cloud.google.com/terms/), which apply to your use of Google Cloud Platform.
 
-If your billing account is in Brazil, please review these [Terms of Service](https://cloud.google.com/terms/?hl=pt-br), which apply to your use of Google Cloud Platform.
-
-Se a sua conta para faturamento é no Brasil, por gentileza veja o [Termos de Serviço](https://cloud.google.com/terms/?hl=pt-br), que será o Termo aplicável à sua utilização da Google Cloud Platform.
+Se a sua conta para faturamento é no Brasil, por gentileza veja o [Termos de Serviço](https://cloud.google.com/terms/), que será o Termo aplicável à sua utilização da Google Cloud Platform.
 
 These Google Cloud Platform Terms of Service (together, the "Agreement") are entered into by Google and the entity or person agreeing to these terms ("Customer") and govern Customer's access to and use of the Services. "Google" has the meaning given at [https://cloud.google.com/terms/google-entity](https://cloud.google.com/terms/google-entity).
 
@@ -31,19 +29,19 @@ This Agreement is effective when Customer clicks to accept it (the "Effective Da
 
 (a) _To the Services._ Google may make commercially reasonable updates to the Services from time to time. Google will inform Customer if Google makes a material change to the Services that has a material impact on Customer's use of the Services provided that Customer has subscribed with Google to be informed about such change.
 
-(b) _To the Agreement._ Google may make changes to this Agreement (including the URL Terms) and pricing from time to time. Unless otherwise noted by Google, material changes to the Agreement will become effective 30 days after they are posted, except to the extent the changes apply to new functionality or the Data Processing and Security Terms, or are required by applicable law, in which case they will be effective immediately. Google will provide at least 90 days' advance notice for materially adverse changes to any SLAs by (i) sending an email to the Notification Email Address; (ii) posting a notice in the Admin Console; or (iii) posting a notice to the applicable SLA webpage. If Customer does not agree to the revised Agreement, Customer may stop using the Services. Customer may also terminate this Agreement for convenience under Section 8.4 (Termination for Convenience). Customer's continued use of the Services after such material change will constitute Customer's consent to such changes. Google will post any modification to this Agreement to [https://cloud.google.com/terms/](https://cloud.google.com/terms).
+(b) _To the Agreement._ Google may make changes to this Agreement (including the URL Terms) and pricing from time to time. Unless otherwise noted by Google, material changes to the Agreement will become effective 30 days after they are posted, except to the extent the changes apply to new functionality or the Cloud Data Processing Addendum, or are required by applicable law, in which case they will be effective immediately. Google will provide at least 90 days' advance notice for materially adverse changes to any SLAs by (i) sending an email to the Notification Email Address; (ii) posting a notice in the Admin Console; or (iii) posting a notice to the applicable SLA webpage. If Customer does not agree to the revised Agreement, Customer may stop using the Services. Customer may also terminate this Agreement for convenience under Section 8.4 (Termination for Convenience). Customer's continued use of the Services after such material change will constitute Customer's consent to such changes. Google will post any modification to this Agreement to [https://cloud.google.com/terms/](https://cloud.google.com/terms).
 
-(c) _To the Data Processing and Security Terms._ Google may only change the Data Processing and Security Terms where such change is required to comply with applicable law, is expressly permitted by the Data Processing and Security Terms, or:
+(c) _To the Cloud Data Processing Addendum._ Google may only change the Cloud Data Processing Addendum where such change is required to comply with applicable law, is expressly permitted by the Cloud Data Processing Addendum, or:
 
 (i) is commercially reasonable;
 
 (ii) does not result in a material reduction of the security of the Services;
 
-(iii) does not expand the scope of or remove any restrictions on Google's processing of "Customer Personal Data," as described in the "Scope of Processing" Section of the Data Processing and Security Terms; and
+(iii) does not expand the scope of or remove any restrictions on Google's processing of "Customer Personal Data," as described in the "Scope of Processing" Section of the Cloud Data Processing Addendum; and
 
-(iv) does not otherwise have a material adverse impact on Customer's rights under the Data Processing and Security Terms.
+(iv) does not otherwise have a material adverse impact on Customer's rights under the Cloud Data Processing Addendum.
 
-If Google makes a material change to the Data Processing and Security Terms in accordance with this Section 1.4(c) (Modifications: To the Data Processing and Security Terms), Google will post the change at the webpage containing the Data Processing and Security Terms.
+If Google makes a material change to the Cloud Data Processing Addendum in accordance with this Section 1.4(c) (Modifications: To the Cloud Data Processing Addendum), Google will post the change at the webpage containing the Cloud Data Processing Addendum.
 
 (d) _Discontinuation of Services._ Google will notify Customer at least 12 months before discontinuing any Service (or associated material functionality) unless Google replaces such discontinued Service or functionality with a materially similar Service or functionality. Further, Google will notify Customer at least 12 months before significantly modifying a Customer-facing Google API in a backwards-incompatible manner. Nothing in this Section 1.4(d) (Discontinuation of Services) limits Google's ability to make changes required to comply with applicable law, address a material security risk, or avoid a substantial economic or material technical burden. This Section 1.4(d) (Discontinuation of Services) does not apply to pre-general availability Services, offerings, or functionality.
 
@@ -51,7 +49,7 @@ If Google makes a material change to the Data Processing and Security Terms in a
 
 **2. Payment Terms.**
 
-2.1 _Online Billing._ At the end of the applicable Fee Accrual Period or as otherwise stated by Google in the Admin Console, Google will issue an electronic bill to Customer for all charges based on Customer's use of the Services during the applicable Fee Accrual Period (including, if applicable, the relevant Fees for TSS). Customer will pay all Fees in the currency stated in the invoice. If Customer elects to pay by credit card, debit card, or other non-invoiced form of payment, Google will charge (and Customer will pay) all Fees immediately at the end of the Fee Accrual Period. If Customer elects to pay by invoice (and Google agrees), all Fees are due as stated in the invoice. Customer's obligation to pay all Fees is non-cancellable. Google's measurement of Customer's use of the Services is final. Google has no obligation to provide multiple bills. Payments made via wire transfer must include the bank information provided by Google.
+2.1 _Online Billing._ At the end of the applicable Fee Accrual Period or as otherwise stated by Google in the Admin Console, Google will issue an electronic bill to Customer for all charges based on Customer's use of the Services during the applicable Fee Accrual Period (including, if applicable, the relevant Fees for TSS). If Google determines that Customer is at risk of non-payment or that Customer’s Account is potentially fraudulent, then Google may invoice Customer more frequently. Customer will pay all Fees in the currency stated in the invoice. If Customer elects to pay by credit card, debit card, or other non-invoiced form of payment, Google will charge (and Customer will pay) all Fees immediately at the end of the Fee Accrual Period. If Customer elects to pay by invoice (and Google agrees), all Fees are due as stated in the invoice. Customer's obligation to pay all Fees is non-cancellable. Google's measurement of Customer's use of the Services is final. Google has no obligation to provide multiple bills. Payments made via wire transfer must include the bank information provided by Google.
 
 2.2 _Taxes._
 
@@ -75,7 +73,7 @@ If Google makes a material change to the Data Processing and Security Terms in a
 
 3.4 _Documentation._ Google may provide Documentation for Customer's use of the Services.
 
-3.5 _Copyright._ Google provides information to help copyright holders manage their intellectual property online, but Google cannot determine whether something is being used legally without input from the copyright holders. Google will respond to notices of alleged copyright infringement and may terminate repeat infringers in appropriate circumstances as required to maintain safe harbor for online service providers under the U.S. Digital Millennium Copyright Act. If Customer believes a person or entity is infringing Customer's or its End User's copyrights and would like to notify Google, Customer can find information about submitting notices, and Google's policy about responding to notices, at [https://www.google.com/dmca.html](https://www.google.com/dmca.html).
+3.5 _Copyright._ Google responds to notices of alleged copyright infringement and will terminate the Accounts of repeat infringers in appropriate circumstances as required to maintain safe harbor for online service providers under the U.S. Digital Millennium Copyright Act.
 
 **4. Suspension.**
 
@@ -87,7 +85,7 @@ If Google makes a material change to the Data Processing and Security Terms in a
 
 5.1 _Intellectual Property Rights._ Except as expressly stated in this Agreement, this Agreement does not grant either party any rights, implied or otherwise, to the other's content or any of the other's intellectual property. As between the parties, Customer owns all Intellectual Property Rights in Customer Data and Customer Applications, and Google owns all Intellectual Property Rights in the Services and Software.
 
-5.2 _Protection of Customer Data._ Google will only access or use Customer Data to provide the Services and TSS to Customer or as otherwise instructed by Customer and will not use it for any other Google products, services, or advertising. Google has implemented and will maintain administrative, physical, and technical safeguards to protect Customer Data, as further described in the Data Processing and Security Terms.
+5.2 _Protection of Customer Data._ Google will only access or use Customer Data to provide the Services and TSS to Customer or as otherwise instructed by Customer and will not use it for any other Google products, services, or advertising. Google has implemented and will maintain administrative, physical, and technical safeguards to protect Customer Data, as further described in the Cloud Data Processing Addendum.
 
 5.3 _Customer Feedback_. At its option, Customer may provide feedback or suggestions about the Services to Google ("Feedback"). If Customer provides Feedback, then Google and its Affiliates may use that Feedback without restriction and without obligation to Customer.
 
@@ -169,7 +167,7 @@ If Google makes a material change to the Data Processing and Security Terms in a
 
 14.2 _Emails._ The parties may use emails to satisfy written approval and consent requirements under the Agreement.
 
-14.3 _Assignment._ Neither party may assign any part of this Agreement without the written consent of the other, except to an Affiliate where (a) the assignee has agreed in writing to be bound by the terms of this Agreement, and (b) the assigning party has notified the other party of the assignment. Any other attempt to assign is void. If Customer assigns this Agreement to an Affiliate in another jurisdiction such that there is a change in the Google contracting entity as defined at [https://cloud.google.com/terms/google-entity](https://cloud.google.com/terms/google-entity) (i) this Agreement is automatically assigned to the new Google contracting entity; and (ii) if the Affiliate’s billing account is in India or Brazil, the applicable terms of service linked above, and not this Agreement, will apply from the moment of the assignment.
+14.3 _Assignment._ Neither party may assign any part of this Agreement without the written consent of the other, except to an Affiliate where (a) the assignee has agreed in writing to be bound by the terms of this Agreement, and (b) the assigning party has notified the other party of the assignment. Any other attempt to assign is void. If Customer assigns this Agreement to an Affiliate in another jurisdiction such that there is a change in the Google contracting entity as defined at [https://cloud.google.com/terms/google-entity](https://cloud.google.com/terms/google-entity) (i) this Agreement is automatically assigned to the new Google contracting entity; and (ii) if the Affiliate’s billing account is in Brazil, the applicable terms of service linked above, and not this Agreement, will apply from the moment of the assignment.
 
 14.4 _Change of Control._ If a party experiences a change of Control other than as part of an internal restructuring or reorganization (for example, through a stock purchase or sale, merger, or other form of corporate transaction), that party will give written notice to the other party within 30 days after the change of Control.
 
@@ -195,13 +193,13 @@ If Google makes a material change to the Data Processing and Security Terms in a
 
 (c) _For All Other Entities._ If Customer is any entity not identified in Section 14.12(a) (U.S. Governing Law for U.S. City, County, and State Government Entities) or (b) (U.S. Governing Law for Federal Government Entities), then the following applies: ALL CLAIMS ARISING OUT OF OR RELATING TO THIS AGREEMENT OR THE SERVICES WILL BE GOVERNED BY CALIFORNIA LAW, EXCLUDING THAT STATE'S CONFLICT OF LAWS RULES, AND WILL BE LITIGATED EXCLUSIVELY IN THE FEDERAL OR STATE COURTS OF SANTA CLARA COUNTY, CALIFORNIA, USA; THE PARTIES CONSENT TO PERSONAL JURISDICTION IN THOSE COURTS.
 
-14.13 _Amendments._ Except as stated in Section 1.4(b) (Modifications: To the Agreement) or (c) (Modifications: To the Data Processing and Security Terms), any amendment must be in writing, signed by both parties, and expressly state that it is amending this Agreement.
+14.13 _Amendments._ Except as stated in Section 1.4(b) (Modifications: To the Agreement) or (c) (Modifications: To the Cloud Data Processing Addendum), any amendment must be in writing, signed by both parties, and expressly state that it is amending this Agreement.
 
 14.14 _Survival._ The following Sections will survive expiration or termination of this Agreement: Section 2 (Payment Terms), Section 5 (Intellectual Property Rights; Protection of Customer Data; Feedback), Section 7 (Confidential Information), Section 8.6 (Effect of Termination), Section 11 (Disclaimer), Section 12 (Limitation of Liability), Section 13 (Indemnification), and Section 14 (Miscellaneous).
 
 14.15 _Entire Agreement._ This Agreement sets out all terms agreed between the parties and supersedes all other agreements between the parties relating to its subject matter. In entering into this Agreement, neither party has relied on, and neither party will have any right or remedy based on, any statement, representation, or warranty (whether made negligently or innocently), except those expressly stated in this Agreement. The URL Terms are incorporated by reference into the Agreement. After the Effective Date, Google may provide an updated URL in place of any URL in this Agreement.
 
-14.16 _Conflicting Terms._ If there is a conflict between the documents that make up this Agreement, the documents will control in the following order (of decreasing precedence): the Data Processing and Security Terms, the remainder of the Agreement (excluding the URL Terms), and the URL Terms (excluding the Data Processing and Security Terms).
+14.16 _Conflicting Terms._ If there is a conflict between the documents that make up this Agreement, the documents will control in the following order (of decreasing precedence): the Cloud Data Processing Addendum, the remainder of the Agreement (excluding the URL Terms), and the URL Terms (excluding the Cloud Data Processing Addendum).
 
 14.17 _Headers._ Headings and captions used in the Agreement are for reference purposes only and will not have any effect on the interpretation of the Agreement.
 
@@ -216,11 +214,11 @@ If Google makes a material change to the Data Processing and Security Terms in a
 *   "AUP" means the then-current acceptable use policy for the Services stated at [https://cloud.google.com/terms/aup](https://cloud.google.com/terms/aup).
 *   "BAA" or "Business Associate Agreement" is an amendment to the Agreement covering the handling of Protected Health Information (as defined in HIPAA).
 *   "Brand Features" means the trade names, trademarks, service marks, logos, domain names, and other distinctive brand features of each party, respectively, as secured by such party from time to time.
+*   “Cloud Data Processing Addendum” means the then-current terms describing data processing and security obligations with respect to Customer Data, as described at [https://cloud.google.com/terms/data-processing-addendum](https://cloud.google.com/terms/data-processing-addendum).
 *   "Confidential Information" means information that one party (or an Affiliate) discloses to the other party under this Agreement, and which is marked as confidential or would normally under the circumstances be considered confidential information. It does not include information that is independently developed by the recipient, is rightfully given to the recipient by a third party without confidentiality obligations, or becomes public through no fault of the recipient. Subject to the preceding sentence, Customer Data is considered Customer's Confidential Information.
 *   "Control" means control of greater than 50 percent of the voting rights or equity interests of a party.
 *   "Customer Application" means a software program that Customer creates or hosts using the Services.
 *   "Customer Data" means data provided to Google by Customer or End Users through the Services under the Account.
-*   "Data Processing and Security Terms" means the terms stated at [https://cloud.google.com/terms/data-processing-terms](https://cloud.google.com/terms/data-processing-terms).
 *   "Documentation" means the Google documentation (as may be updated from time to time) in the form generally made available by Google to its customers for use with the Services at [https://cloud.google.com/docs/](https://cloud.google.com/docs).
 *   "End Users" means the individuals who are permitted by Customer to use the Services. For clarity, End Users may include employees of Customer Affiliates and other authorized third parties.
 *   "Export Control Laws" means all applicable export and re-export control laws and regulations, including (a) the Export Administration Regulations ("EAR") maintained by the U.S. Department of Commerce, (b) trade and economic sanctions maintained by the U.S. Treasury Department’s Office of Foreign Assets Control, and (c) the International Traffic in Arms Regulations ("ITAR") maintained by the U.S. Department of State.
@@ -243,12 +241,12 @@ If Google makes a material change to the Data Processing and Security Terms in a
 *   "Suspend" or "Suspension" means disabling or limiting access to or use of the Services or components of the Services.
 *   "Taxes" means all government-imposed taxes, except for taxes based on Google's net income, net worth, asset value, property value, or employment.
 *   "Term" has the meaning stated in Section 8.1 (Agreement Term) of this Agreement.
-*   "Third-Party Offerings" means (a) third-party services, software, products, and other offerings that are not incorporated into the Services or Software and (b) offerings identified in the "Third-Party Terms" section of the Service Specific Terms.
+*   "Third-Party Offerings" means (a) third-party services, software, products, and other offerings that are not incorporated into the Services or Software, (b) offerings identified in the "Third-Party Terms" section of the Service Specific Terms, and (c) third-party operating systems.
 *   "Third-Party Legal Proceeding" means any formal legal proceeding filed by an unaffiliated third party before a court or government tribunal (including any appellate proceeding).
 *   "Trademark Guidelines" means Google's Guidelines for Third Party Use of Google Brand Features at [https://www.google.com/permissions/guidelines.html](https://www.google.com/permissions/guidelines.html).
 *   "TSS" means the then-current technical support service provided by Google to Customer under the TSS Guidelines.
 *   "TSS Guidelines" means Google's technical support services guidelines then in effect for the Services. TSS Guidelines are at [https://cloud.google.com/terms/tssg/](https://cloud.google.com/terms/tssg) (under Google Cloud Platform Services).
-*   "URL Terms" means, collectively, the AUP, Data Processing and Security Terms, Service Specific Terms, SLA, and TSS Guidelines.
+*   "URL Terms" means, collectively, the AUP, Cloud Data Processing Addendum, Service Specific Terms, SLA, and TSS Guidelines.
 
 **15. Regional Terms.** Customer agrees to the following modifications to the Agreement if Customer’s billing address is in the applicable region as described below:
 
@@ -288,15 +286,79 @@ Section 14.12 (U.S. Governing Law) is replaced as follows:
 
 (i) Each party will bear its own lawyers’ and experts’ fees and expenses, regardless of the arbitrator’s final decision regarding the Dispute.
 
+**Asia Pacific - India**
+
+Google Cloud India has been appointed by Google Asia Pacific Pte. Ltd. (‘GAP’) as a non-exclusive reseller of the Services (as defined below) in India. For avoidance of any doubts, whilst in the Agreement, both the entities have been referred  to as ‘Google,’ it is hereby clarified that wherever the provisions refer to Google for sales or rights and obligations in relation thereto (including any terms relating to invoicing for sale of services, credit limit, termination of this Agreement, etc.),  ‘Google’ shall mean Google Cloud India, and wherever in the agreement, the provisions refer to  ‘Google’ as a provider of the Services or rights and obligations in relation thereto shall mean  ‘Google Asia Pacific Pte Ltd’ or ‘GAP’.
+
+Google Cloud India may execute Order Form(s) referencing the Agreement, but the Order Form will form a separate contract between Google Cloud India and the Customer, and incorporate all of the terms of this Agreement and the applicable Service Schedule by reference. Under the agreement, whereas, as a reseller of services, Google Cloud India purchases the services from GAP for resale to the customer, the entire obligation to provide such services under the Service Schedule will be met by GAP and as such, Google Cloud India will not have any obligation under the Service Schedule.
+
+Section 2 (Payment Terms) is replaced as follows:
+
+2_. Payment Terms_.
+
+2.1 _Payment_. 
+
+(a) Google will invoice Customer for the Fees. Customer will pay Google all invoiced amounts by the Payment Due Date. All payments are due in the currency described in the invoice. Wire transfer payments must include the bank information described in the invoice.
+
+2.2 _Taxes_. 
+
+(a) In consideration of the sale of Services, Customer agrees to pay to Google, the Fees plus any applicable taxes. If Google is obligated to collect or pay Taxes, the Taxes will be invoiced to Customer along with the Fees for sale of services, unless Customer provides Google Cloud India with a timely and valid tax exemption certificate authorized by the appropriate taxing authority.
+
+(b) If required under the applicable law, Customer will provide Google with applicable tax identification information (Goods and Services Tax Identification Number (“GSTIN”), location where the Services would be received by the customer, tax status etc.) that Google may require to ensure its compliance with applicable tax regulations in India. The Customer acknowledges that all the details provided such as the GSTIN, location where the Services would be received by the Customer, tax status etc. are correct. The address and GSTIN provided are of the location where the Services would be received by the Customer. Customer will be liable to pay (or reimburse Google for) any taxes, interest or fines arising out of any mis-declaration by the Customer.
+
+(c) If Customer is required by law to withhold any amounts for Income Tax on its payments to Google for sale of services, Customer must provide Google in a timely manner with a withholding tax certificate or other appropriate documentation and undertake to carry out the necessary compliances as per the applicable tax laws in India to enable Google to claim credit of such withholding taxes and provide support, as may be required for such purpose.
+
+2.3 _Invoice Disputes_. 
+
+(a) Customer must submit any invoice disputes to collections@google.com before the Payment Due Date. If the parties determine that Fees were incorrectly invoiced, then Google will issue a credit equal to the agreed amount.
+
+Section 14.12 (U.S. Governing Law) is replaced as follows:
+
+14.12 _Governing Law_. 
+
+All claims arising out of or relating to the Agreement will be governed by laws of India, excluding that state’s conflict of laws rules, and will be litigated exclusively in the courts of New Delhi; the parties consent to exclusive jurisdiction in those courts.
+
+The definition of "Taxes" under Section 14.19 (Definitions) is replaced as follows:
+
+“_Taxes_” means all taxes as per the applicable law including but not limited to any duties, or taxes (other than income tax on income), including indirect taxes such as goods and services tax (“GST”) or the taxes associated with the purchase of the Services
+
+Previous versions of the Terms of Service for Customers with billing accounts in India are [here](https://cloud.google.com/terms/india/previousversions)**.**
+
 **Asia Pacific - Indonesia**
 
 A new Section 8.6 is added:
 
 8.6 _Termination Waiver._ The parties agree to waive any provisions under any applicable laws to the extent that a court decision or order is required for the cancellation of this Agreement.
 
-The Indonesian version of this Agreement is accessible [here](https://cloud.google.com/terms?hl=id) and Section 14.18 is replaced as follows:
+The Indonesian version of this Agreement is accessible [here](https://cloud.google.com/terms) and Section 14.18 is replaced as follows:
 
 14.18 _Conflicting Languages._ This Agreement is made in the Indonesian and the English language. Both versions are equally authentic. In the event of any inconsistency or different interpretation between the Indonesian version and the English version, the parties agree to amend the Indonesian version to make the relevant part of the Indonesian version consistent with the relevant part of the English version.
+
+**Europe, Middle East, Africa -** **Algeria, Bahrain, Jordan, Kuwait, Libya, Mauritania, Morocco, Oman, Palestine, Qatar, Tunisia, Yemen, Egypt, Israel, United Arab Emirates and Lebanon**
+
+A new Section 8.7 is added as follows:
+
+8.7 _No requirement for Court Order_. Both parties acknowledge and agree that a court order will not be required to give effect to any termination or amendment of the Agreement or to give effect to any other section of the Agreement.
+
+Section 14.12 (U.S. Governing Law) is replaced as follows:
+
+14.12 _Governing Law; Arbitration._
+
+(a) ALL CLAIMS ARISING OUT OF OR RELATING TO THIS AGREEMENT OR ANY RELATED GOOGLE PRODUCTS OR SERVICES (INCLUDING ANY DISPUTE REGARDING THE INTERPRETATION OR PERFORMANCE OF THE AGREEMENT) ("Dispute") WILL BE GOVERNED BY THE LAWS OF THE STATE OF CALIFORNIA, USA, EXCLUDING CALIFORNIA'S CONFLICTS OF LAWS RULES.
+
+(b) The parties will try in good faith to settle any Dispute within 30 days after the Dispute arises. If the Dispute is not resolved within 30 days, it must be resolved by arbitration under the Arbitration Rules of the London Court of International Arbitration (LCIA) ("Rules"), which Rules are deemed to be incorporated by reference to this Section.
+
+(c) The parties will mutually select one arbitrator. The arbitration will be conducted in English and the place and the legal seat of the arbitration will be the Dubai International Financial Center, DIFC, Dubai UAE.
+
+(d) Either party may apply to any competent court for injunctive relief necessary to protect its rights pending resolution of the arbitration. The arbitrator may order equitable or injunctive relief consistent with the remedies and limitations in the Agreement.
+
+(e) The arbitral award will be final and binding on the parties and its execution may be presented in any competent court, including any court with jurisdiction over either party or any of its property.
+
+(f) Any arbitration proceeding conducted in accordance with this Section 14.12 (Governing Law; Arbitration) will be considered Confidential Information under Section 7 (Confidential Information), including: (i) the existence of, (ii) any information disclosed during, and (iii) any oral communications or documents related to, the arbitration proceedings. In addition to the disclosure rights under Section 7 (Confidential Information), the parties may disclose the information described in this Subsection 14.12 (f) to a competent court as may be necessary to execute any arbitral decision, but the parties must request that those judicial proceedings be conducted _in camera_ (in private).
+
+(g) The parties will pay the arbitrator’s fees, the arbitrator's appointed experts' fees and expenses, and the arbitration center's administrative expenses in accordance with the Rules. In its final decision, the arbitrator will determine the non-prevailing party's obligation to reimburse the amount paid in advance by the prevailing party for these fees.
+
+(h) Each party will bear its own lawyers’ and experts’ fees and expenses, regardless of the arbitrator’s final decision regarding the Dispute.
 
 **North America - United States**
 
@@ -306,6 +368,6 @@ A new Section 14.19 is added:
 
 14.19 _U.S. Federal Agency Users._ The Services were developed solely at private expense and are commercial computer software and related documentation within the meaning of the applicable Federal Acquisition Regulations and their agency supplements.
 
-Previous versions _(Last modified March 29, 2022)_
+Previous versions _(Last modified September 20, 2022)_
 
-[September 20, 2021](https://cloud.google.com/terms/index-20210920) [April 1, 2021](https://cloud.google.com/terms/index-20210401) [November 2, 2020](https://cloud.google.com/terms/index-20201102) [October 6, 2020](https://cloud.google.com/terms/index-20201006) [August 31, 2020](https://cloud.google.com/terms/index-20200831) [August 13, 2020](https://cloud.google.com/terms/index-20200813) [March 26, 2020](https://cloud.google.com/terms/index-20200326) [November 21, 2019](https://cloud.google.com/terms/index-20191121) [July 22, 2019](https://cloud.google.com/terms/index-20190722) [November 2, 2018](https://cloud.google.com/terms/index-20181102) [November 1, 2018](https://cloud.google.com/terms/index-20181101) [October 1, 2018](https://cloud.google.com/terms/index-20181001) [June 27, 2018](https://cloud.google.com/terms/index-20180627) [June 15, 2018](https://cloud.google.com/terms/index-20180615) [June 5, 2018](https://cloud.google.com/terms/index-20180605) [May 23, 2018](https://cloud.google.com/terms/index-20180523) [May 18, 2018](https://cloud.google.com/terms/index-20180518) [April 30, 2018](https://cloud.google.com/terms/index-20180430) [April 4, 2018](https://cloud.google.com/terms/index-20180404) [February 8, 2018](https://cloud.google.com/terms/index-20180208) [January 9, 2018](https://cloud.google.com/terms/index-20180109) [October 19, 2017](https://cloud.google.com/terms/index-20171019)
+[March 29, 2022](https://cloud.google.com/terms/index-20220329) [September 20, 2021](https://cloud.google.com/terms/index-20210920) [April 1, 2021](https://cloud.google.com/terms/index-20210401) [November 2, 2020](https://cloud.google.com/terms/index-20201102) [October 6, 2020](https://cloud.google.com/terms/index-20201006) [August 31, 2020](https://cloud.google.com/terms/index-20200831) [August 13, 2020](https://cloud.google.com/terms/index-20200813) [March 26, 2020](https://cloud.google.com/terms/index-20200326) [November 21, 2019](https://cloud.google.com/terms/index-20191121) [July 22, 2019](https://cloud.google.com/terms/index-20190722) [November 2, 2018](https://cloud.google.com/terms/index-20181102) [November 1, 2018](https://cloud.google.com/terms/index-20181101) [October 1, 2018](https://cloud.google.com/terms/index-20181001) [June 27, 2018](https://cloud.google.com/terms/index-20180627) [June 15, 2018](https://cloud.google.com/terms/index-20180615) [June 5, 2018](https://cloud.google.com/terms/index-20180605) [May 23, 2018](https://cloud.google.com/terms/index-20180523) [May 18, 2018](https://cloud.google.com/terms/index-20180518) [April 30, 2018](https://cloud.google.com/terms/index-20180430) [April 4, 2018](https://cloud.google.com/terms/index-20180404) [February 8, 2018](https://cloud.google.com/terms/index-20180208) [January 9, 2018](https://cloud.google.com/terms/index-20180109) [October 19, 2017](https://cloud.google.com/terms/index-20171019)
