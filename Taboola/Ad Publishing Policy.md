@@ -23,9 +23,9 @@ Ads must not promote content that is pornographic, sexualised, containing nudity
 
 Examples of inappropriate content:
 
-*   Shirtless men with sexual overtones
-*   Revealing bikinis
-*   Shirtless woman covering her chest (with hands or a towel)
+* Shirtless men with sexual overtones
+* Revealing bikinis
+* Shirtless woman covering her chest (with hands or a towel)
 
 2\. Harm or sexualisation of children
 
@@ -37,8 +37,8 @@ Ads must not depict harm or sexualisation of children
 
 Example:
 
-*   Portraying schoolkids with sexually provocative dress and behaviour
-*   Over muscled children
+* Portraying schoolkids with sexually provocative dress and behaviour
+* Over muscled children
 
 3\. Hateful, discriminatory, abusive, intolerant or exploitative content
 
@@ -54,7 +54,7 @@ Ads must not promote anything that is hateful, discriminatory, abusive, intolera
 
 Example:
 
-*   Using Taboola’s campaign and targeting settings to knowingly discriminate based on personal attributes.
+* Using Taboola’s campaign and targeting settings to knowingly discriminate based on personal attributes.
 
 4\. Obscene or offensive
 
@@ -66,9 +66,9 @@ Ads must not promote anything that is obscene or offensive. For example using im
 
 Examples:
 
-*   Dead bodies.
-*   Feces.
-*   Bodily fluids.
+* Dead bodies.
+* Feces.
+* Bodily fluids.
 
 5\. Profanity or vulgar language
 
@@ -80,11 +80,11 @@ Ads must not use profanity or vulgar language. For example: curse words, racial,
 
 Examples:
 
-*   Curse words.
-*   Racial slander.
-*   Religious slander.
-*   Homophobic slurs.
-*   Spelling variations of profane language or use of foreign language profanity.
+* Curse words.
+* Racial slander.
+* Religious slander.
+* Homophobic slurs.
+* Spelling variations of profane language or use of foreign language profanity.
 
 6\. Illegal products and services
 
@@ -96,9 +96,9 @@ Ads must not promote anything that has a significant risk of being a breach of i
 
 Examples:
 
-*   Targeting children in an alcohol campaign or depicting children drinking alcohol.
-*   Advertising gambling products in regions where the client is not licensed to do so.
-*   Advertising a trading platform membership without disclosing the risks to users investments.
+* Targeting children in an alcohol campaign or depicting children drinking alcohol.
+* Advertising gambling products in regions where the client is not licensed to do so.
+* Advertising a trading platform membership without disclosing the risks to users investments.
 
 7\. Third party infringements
 
@@ -110,11 +110,11 @@ Ads must not violate third party rights including but not limited to copyright, 
 
 Examples:
 
-*   Using brand logos or images of persons without permission to do so.
-*   Making unsubstantiated claims about a competitor’s product.
-*   Plagiarism.
-*   Promoting counterfeit products.
-*   Impersonating businesses.
+* Using brand logos or images of persons without permission to do so.
+* Making unsubstantiated claims about a competitor’s product.
+* Plagiarism.
+* Promoting counterfeit products.
+* Impersonating businesses.
 
 8\. Targeting children
 
@@ -126,7 +126,7 @@ Ads must not target children or be inappropriately positioned on the network whe
 
 Examples:
 
-*   Alcohol products advertised on a publisher whose content is primarily aimed at children.
+* Alcohol products advertised on a publisher whose content is primarily aimed at children.
 
 9\. Misusing user information
 
@@ -138,10 +138,10 @@ Ads must not collect or distribute user information unless they comply with all 
 
 Examples:
 
-*   Directly capturing any personally identifiable or sensitive user information, without the user’s express consent.
-*   Associating cookies, web beacons, or other tracking mechanisms with personally-identifiable information (PII) for any purpose or with precise user location for behavior targeting, unless the user has knowingly and expressly opted in.
-*   Using websites that are designed to collect a user's personal information or harvest personal information with the intention of distributing that information without the user's consent.
-*   Storing or soliciting information from users under the age of 13.
+* Directly capturing any personally identifiable or sensitive user information, without the user’s express consent.
+* Associating cookies, web beacons, or other tracking mechanisms with personally-identifiable information (PII) for any purpose or with precise user location for behavior targeting, unless the user has knowingly and expressly opted in.
+* Using websites that are designed to collect a user's personal information or harvest personal information with the intention of distributing that information without the user's consent.
+* Storing or soliciting information from users under the age of 13.
 
 10\. Fraud or scams
 
@@ -153,10 +153,10 @@ Ads must not promote anything that is at significant risk of being fraudulent or
 
 Examples:
 
-*   Pyramid and ponzi schemes.
-*   Get-rich-quick schemes.
-*   Campaigns making exaggerated claims (see [misleading claims](#search)).
-*   Products that have received multiple significant verified user complaints (treated on a case by case basis).
+* Pyramid and ponzi schemes.
+* Get-rich-quick schemes.
+* Campaigns making exaggerated claims (see [misleading claims](#search)).
+* Products that have received multiple significant verified user complaints (treated on a case by case basis).
 
 11\. Misleading claims
 
@@ -172,10 +172,10 @@ Ads must not make claims that cannot be easily supported or that set unrealistic
 
 Examples:
 
-*   **Prohibited:** A campaign for a supplement product claiming that a product can be used to diagnose, cure, prevent, treat, or reverse any disease, condition, or illness.
-*   **Permitted:** A campaign for a supplement claiming it may help users feel better may be permissible if the claims can easily be supported. The campaign would also need to include the appropriate disclaimers clearly placed on the landing page (see [landing page policies](https://help.taboola.com/hc/en-us/articles/115006592387-Landing-Page-Policies)).
-*   **Prohibited:** A campaign for a property investment guaranteeing that users will profit on their investment within the next year would not be permitted.
-*   **Permitted:** A campaign for a property investment that claims that the investment is likely to be profitable in the future may be permissible if it qualifies its claims by explaining that there are no guarantees and investments can be risky. The campaign would also need to include the appropriate disclaimers clearly placed on the landing page (see [landing page policies](https://help.taboola.com/hc/en-us/articles/115006592387-Landing-Page-Policies)).
+* **Prohibited:** A campaign for a supplement product claiming that a product can be used to diagnose, cure, prevent, treat, or reverse any disease, condition, or illness.
+* **Permitted:** A campaign for a supplement claiming it may help users feel better may be permissible if the claims can easily be supported. The campaign would also need to include the appropriate disclaimers clearly placed on the landing page (see [landing page policies](https://help.taboola.com/hc/en-us/articles/115006592387-Landing-Page-Policies)).
+* **Prohibited:** A campaign for a property investment guaranteeing that users will profit on their investment within the next year would not be permitted.
+* **Permitted:** A campaign for a property investment that claims that the investment is likely to be profitable in the future may be permissible if it qualifies its claims by explaining that there are no guarantees and investments can be risky. The campaign would also need to include the appropriate disclaimers clearly placed on the landing page (see [landing page policies](https://help.taboola.com/hc/en-us/articles/115006592387-Landing-Page-Policies)).
 
 12\. Misrepresentation
 
@@ -187,17 +187,17 @@ Ads must not use deception or intentionally hide or exaggerate information to le
 
 Examples:
 
-*   Not including the appropriate disclaimers, terms and conditions and other relevant product information.
-*   Putting the information listed above in a hard to read font or in a difficult to find part of the page.
-*   Claiming to have the appropriate licensing, but the license is expired or non-existent.
-*   Not including company or contact information like physical address, phone number and contact email address.
+* Not including the appropriate disclaimers, terms and conditions and other relevant product information.
+* Putting the information listed above in a hard to read font or in a difficult to find part of the page.
+* Claiming to have the appropriate licensing, but the license is expired or non-existent.
+* Not including company or contact information like physical address, phone number and contact email address.
 
 ❌ Images and text should not appear as though they have functionality, when they don’t.
 
 Examples:
 
-*   A play icon in an image that is not a video.
-*   A hyperlinked word that does not click through.
+* A play icon in an image that is not a video.
+* A hyperlinked word that does not click through.
 
 13\. Misinformation
 
@@ -209,9 +209,9 @@ Ads must not promote or disseminate anything that qualifies as fake news or any 
 
 Examples:
 
-*   Focusing on the alleged sexuality of celebrities.
-*   Promoting or exploiting rumours of political intrigue.
-*   Promoting unsubstantiated claims of a scientific breakthrough.
+* Focusing on the alleged sexuality of celebrities.
+* Promoting or exploiting rumours of political intrigue.
+* Promoting unsubstantiated claims of a scientific breakthrough.
 
 14\. Shock or scare tactics
 
@@ -229,7 +229,7 @@ Ads must not use shock or scare tactics to promote content, products, or service
 
 Example of inappropriate tactics:
 
-*   Auto-updating expiration dates and hours for offers
+* Auto-updating expiration dates and hours for offers
 
 15\. Crisis and controversy marketing
 
@@ -253,11 +253,11 @@ Ads must not promote content that encourages dangerous behaviour or that is at s
 
 Examples:
 
-*   Dangerous supplements (determined at the discretion of Taboola).
-*   How to guides of homemade weapons or unsafe products.
-*   Content encouraging violence against the state, businesses or other people.
-*   Content that describes or depicts dangerous, violent or harmful behaviour in a very graphic way.
-*   Campaigns exploiting dangerous, violent or harmful content.
+* Dangerous supplements (determined at the discretion of Taboola).
+* How to guides of homemade weapons or unsafe products.
+* Content encouraging violence against the state, businesses or other people.
+* Content that describes or depicts dangerous, violent or harmful behaviour in a very graphic way.
+* Campaigns exploiting dangerous, violent or harmful content.
 
 17\. Weapons, ammunition, and explosives
 
@@ -273,15 +273,15 @@ Ads must not promote the sale of weapons, ammunition, and explosives
 
 Examples:
 
-*   Handguns
-*   Rifles
-*   BB Guns
-*   Airsoft Guns
-*   Paintball Guns
-*   Ammunition
-*   Gun Clips
-*   Magazines
-*   Gun Holsters
+* Handguns
+* Rifles
+* BB Guns
+* Airsoft Guns
+* Paintball Guns
+* Ammunition
+* Gun Clips
+* Magazines
+* Gun Holsters
 
 18\. Drugs and drugs-related products
 
@@ -305,15 +305,15 @@ Ads must not promote the sale of tobacco and related products.
 
 Examples:
 
-*   Cigarettes
-*   Cigars
-*   Chewing tobacco
-*   Tobacco pipes
-*   Hookahs
-*   Hookah lounges
-*   Rolling papers
-*   Vaporized delivery devices
-*   Electronic cigarettes
+* Cigarettes
+* Cigars
+* Chewing tobacco
+* Tobacco pipes
+* Hookahs
+* Hookah lounges
+* Rolling papers
+* Vaporized delivery devices
+* Electronic cigarettes
 
 ❌ Ads must not promote the direct sale of over the counter medication, prescription medication or supplements claiming to assist recovering smokers.
 
@@ -349,8 +349,8 @@ Ads must not exploit the network settings or use the network inappropriately.
 
 Examples:
 
-*   Using websites that contain any code or script that interferes with a user's control of the site.
-*   Using URLs that direct different users to different landing pages without a valid business or legal reason, as determined at our sole discretion.
+* Using websites that contain any code or script that interferes with a user's control of the site.
+* Using URLs that direct different users to different landing pages without a valid business or legal reason, as determined at our sole discretion.
 
 23\. Circumventing systems
 
@@ -362,8 +362,8 @@ Ads must not use methods to circumvent our ad review process and other enforceme
 
 Examples:
 
-*   ‘Cloaking’ or using other techniques to hide the true url destination that users are redirected to once they are in the funnel.
-*   Restricting Taboola’s access to a destination url.
+* ‘Cloaking’ or using other techniques to hide the true url destination that users are redirected to once they are in the funnel.
+* Restricting Taboola’s access to a destination url.
 
 24\. Malicious software - Spyware or Malwares
 
@@ -375,8 +375,8 @@ Ads must not promote content, product, or services intended to harm or gain unau
 
 Examples:
 
-*   Using websites or content that contains or causes the download of any spyware, malware or software, resulting in an unexpected experience, such as the automatic download of applications without users' consent.
-*   Ads that drive traffic to malware or spyware sites.
+* Using websites or content that contains or causes the download of any spyware, malware or software, resulting in an unexpected experience, such as the automatic download of applications without users' consent.
+* Ads that drive traffic to malware or spyware sites.
 
 25\. Low quality or disruptive content
 
@@ -388,12 +388,12 @@ Ads must not interfere with the user’s experience. For example, Ads may not us
 
 Examples:
 
-*   Campaigns using poor spelling and grammar throughout the entirety of the funnel.
-*   Interfering with a user's ability to return to the original referring website by clicking back in their browsers.
-*   Using websites that contain pop-under advertisements, which open new browser windows hidden under the active window.
-*   Landing pages with
+* Campaigns using poor spelling and grammar throughout the entirety of the funnel.
+* Interfering with a user's ability to return to the original referring website by clicking back in their browsers.
+* Using websites that contain pop-under advertisements, which open new browser windows hidden under the active window.
+* Landing pages with
 
-*   Broken links or navigational bars
-*   Excessive pop ups
-*   Significantly altered images
-*   Significantly misaligned images
+* Broken links or navigational bars
+* Excessive pop ups
+* Significantly altered images
+* Significantly misaligned images
