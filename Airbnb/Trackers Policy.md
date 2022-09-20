@@ -13,15 +13,15 @@ Airbnb uses cookies, mobile identifiers, tracking URLs, log data and similar tec
 
 We use these technologies for a number of purposes, such as:
 
-*   to enable you to use and access the Airbnb Platform and the Payment Services
-*   to enable, facilitate and streamline the functioning of and your access to the Airbnb Platform
-*   to better understand how you navigate through and interact with the Airbnb Platform and to improve the Airbnb Platform
-*   to serve you tailored advertising (such as on the Airbnb Platform, emails and on third-party websites)
-*   to show you content (e.g., advertisements) that is more relevant to you
-*   to monitor and analyze the performance, operation, and effectiveness of the Airbnb Platform and Airbnb advertisements
-*   to enforce legal agreements that govern use of the Airbnb Platform
-*   for fraud detection and prevention, trust and safety, and investigations
-*   for purposes of our own customer support, analytics, research, product development, and regulatory compliance.
+* to enable you to use and access the Airbnb Platform and the Payment Services
+* to enable, facilitate and streamline the functioning of and your access to the Airbnb Platform
+* to better understand how you navigate through and interact with the Airbnb Platform and to improve the Airbnb Platform
+* to serve you tailored advertising (such as on the Airbnb Platform, emails and on third-party websites)
+* to show you content (e.g., advertisements) that is more relevant to you
+* to monitor and analyze the performance, operation, and effectiveness of the Airbnb Platform and Airbnb advertisements
+* to enforce legal agreements that govern use of the Airbnb Platform
+* for fraud detection and prevention, trust and safety, and investigations
+* for purposes of our own customer support, analytics, research, product development, and regulatory compliance.
 
 **Cookies**
 
@@ -80,32 +80,14 @@ Related articles
 
 --------------------
 
-*   [
-    
-    Airbnb basics
+* [Airbnb basics
     
     Enterprise Customers and Airbnb for Work
     
-    Please review this information which supplements our Privacy Policy.
-    
-    
-    
-    ](https://www.airbnb.co.uk/help/article/2865/enterprise-customers-and-airbnb-for-work)
-*   [
-    
-    Airbnb basics
+    Please review this information which supplements our Privacy Policy.](https://www.airbnb.co.uk/help/article/2865/enterprise-customers-and-airbnb-for-work)
+* [Airbnb basics
     
     Airbnb Community Outreach Programme Terms – Ireland
     
-    Please review our Airbnb Community Outreach Programme Terms – Ireland.
-    
-    
-    
-    ](https://www.airbnb.co.uk/help/article/1497/airbnb-community-outreach-programme-terms-ireland)
-*   [
-    
-    Retired article 173: What are references on Airbnb?
-    
-    
-    
-    ](https://www.airbnb.co.uk/help/article/173/retired-article-173-what-are-references-on-airbnb)
+    Please review our Airbnb Community Outreach Programme Terms – Ireland.](https://www.airbnb.co.uk/help/article/1497/airbnb-community-outreach-programme-terms-ireland)
+* [Retired article 173: What are references on Airbnb?](https://www.airbnb.co.uk/help/article/173/retired-article-173-what-are-references-on-airbnb)
