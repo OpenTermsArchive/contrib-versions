@@ -51,32 +51,32 @@ We do not sell your personal information to third parties.
 
 We only use the information collected for the legitimate purposes, as follows:
 
-*   **Contract Processing**
-*   Providing the Products and Services
-*   Addressing customer inquiries or issues
-*   Maintaining customer accounts
-*   Processing customer payments
-*   Improving the quality of our Products and Services
-*   Improving the quality of our Sites
-*   Personalizing the Products and Services
-*   Analyzing how you use the Products and Services
-*   Providing marketing and promotional efforts
-*   Addressing, identifying, and preventing fraud or illegal or improper activities
-*   Establishing, exercising, or defending a legal claim
-*   Monitoring and reporting compliance issues
-*   For administrative purposes
-*   For other legally permissible purposes
+* **Contract Processing**
+* Providing the Products and Services
+* Addressing customer inquiries or issues
+* Maintaining customer accounts
+* Processing customer payments
+* Improving the quality of our Products and Services
+* Improving the quality of our Sites
+* Personalizing the Products and Services
+* Analyzing how you use the Products and Services
+* Providing marketing and promotional efforts
+* Addressing, identifying, and preventing fraud or illegal or improper activities
+* Establishing, exercising, or defending a legal claim
+* Monitoring and reporting compliance issues
+* For administrative purposes
+* For other legally permissible purposes
 
 ### **3\.** **HOW WE SHARE YOUR INFORMATION**
 
 We may share your information in the following situations:
 
-*   _With Our Corporate Family_: We may share your information with our corporate family, which includes our affiliates and subsidiaries.
-*   _Service Providers_: To assist in our business operations and better provide Products and Services (e.g. for software maintenance services, advertising serving technologies, e-mail services, delivery services, database management services, web analytics, and other services), we may share your information with such service provider.
-*   _Other Entities with Your Consent_: You may choose to integrate certain third-party services with our Services. By doing so, you authorize us to transmit your personal information to third parties when you choose to integrate their services with our Services. Information collected by such third-party services is subject to their own terms and policies, all of which you should carefully and diligently review.
-*   _Marketing_: We may aggregate anonymized user information and provide it to our third-party marketing service providers only for our promotional and/or marketing practices.
-*   _Change of Control_: We may be required to share your information as part of a merger, acquisition, asset sale, asset purchase, financing, bankruptcy, or other change of control.
-*   _Responding to Legal Requests_: We may share information where we have a good faith belief that such disclosure is necessary to (a) comply with applicable law or legal process or (b) respond to actual or potential complaints or legal claims, or where otherwise necessary to protect our rights, interests, and/or property (including, without limitation, to enforce our agreements), or the rights, interests, and/or property of our agents, independent contractors, customers, and others.
+* _With Our Corporate Family_: We may share your information with our corporate family, which includes our affiliates and subsidiaries.
+* _Service Providers_: To assist in our business operations and better provide Products and Services (e.g. for software maintenance services, advertising serving technologies, e-mail services, delivery services, database management services, web analytics, and other services), we may share your information with such service provider.
+* _Other Entities with Your Consent_: You may choose to integrate certain third-party services with our Services. By doing so, you authorize us to transmit your personal information to third parties when you choose to integrate their services with our Services. Information collected by such third-party services is subject to their own terms and policies, all of which you should carefully and diligently review.
+* _Marketing_: We may aggregate anonymized user information and provide it to our third-party marketing service providers only for our promotional and/or marketing practices.
+* _Change of Control_: We may be required to share your information as part of a merger, acquisition, asset sale, asset purchase, financing, bankruptcy, or other change of control.
+* _Responding to Legal Requests_: We may share information where we have a good faith belief that such disclosure is necessary to (a) comply with applicable law or legal process or (b) respond to actual or potential complaints or legal claims, or where otherwise necessary to protect our rights, interests, and/or property (including, without limitation, to enforce our agreements), or the rights, interests, and/or property of our agents, independent contractors, customers, and others.
 
 ### **4\.** **SECURITY**
 
@@ -102,11 +102,11 @@ You may block or delete cookies and control data collection through your web bro
 
 TP-Link gives you choices regarding your information. For example, you can:
 
-*   Update your account information and settings at any time by accessing your Mobile Apps, Subscription Services, or Web Apps
-*   Control how and when you want to receive notifications from us in the Mobile Apps
-*   Opt-out of our email service by clicking the “unsubscribe” link at the bottom of our emails.
-*   Not use features and Services that require you to provide your information and data, such as our community or video storage.
-*   Request account information and data deletion at [https://account-delete.tplinkcloud.com/](https://account-delete.tplinkcloud.com/ "https://account-delete.tplinkcloud.com/").
+* Update your account information and settings at any time by accessing your Mobile Apps, Subscription Services, or Web Apps
+* Control how and when you want to receive notifications from us in the Mobile Apps
+* Opt-out of our email service by clicking the “unsubscribe” link at the bottom of our emails.
+* Not use features and Services that require you to provide your information and data, such as our community or video storage.
+* Request account information and data deletion at [https://account-delete.tplinkcloud.com/](https://account-delete.tplinkcloud.com/ "https://account-delete.tplinkcloud.com/").
 
 You may not opt out of administrative emails for your registered account (e.g., emails about your transactions, policy changes, forgot password, and confirmation emails).
 
