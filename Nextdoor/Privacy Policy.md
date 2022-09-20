@@ -1,9 +1,9 @@
 EEA+ Privacy Policy
 ===================
 
-_This Privacy Policy is effective June 15, 2021. To review the previous Privacy Policy, please click_ [_here_](https://legal.nextdoor.com/gb-privacy-policy-2020/)_._
+_This Privacy Policy is effective June 15, 2021. To review the previous Privacy Policy, please click_ [_here_](https://legal.nextdoor.com/gb-privacy-policy-2020/)_._
 
-**1.** **Our Service**
+**1.** **Our Service**
 
 Welcome to Nextdoor. Nextdoor is where neighbours plug into the neighbourhoods that matter to them. We believe by bringing neighbours together, we can cultivate a kinder world where everyone has a neighbourhood they can rely on.
 
@@ -13,7 +13,7 @@ We use “Nextdoor” to refer to the Nextdoor websites and our iOS and Android 
 
 Unless otherwise indicated, this Privacy Policy applies to all of our Services in all geographies in which Nextdoor offers its Services. Certain portions of this Policy apply only to Services offered in particular geographies; please see [Section 11](https://html-cleaner.com/#30j0zll) for additional information. Capitalised words used but not defined have the meanings described in the [Member Agreement](http://www.nextdoor.co.uk/member_agreement).
 
-**2.** **What information is collected?**
+**2.** **What information is collected?**
 
 We may collect personal information from you, through technology that automatically collects information from your browser or device, and from third party sources. See below for examples. Note that not all Nextdoor account types and features are available in all locations, so some of the examples below may not apply where you live. We may also collect personal information that is not specifically listed below, which we use consistent with this Privacy Policy or as otherwise described at the time of collection.
 
@@ -51,9 +51,9 @@ We may collect personal information from you, through technology that automatica
 
 ● _Contact lists_. With your permission, we may sync your contacts with Nextdoor, including their name, email address, physical address, and phone number. You may also manually enter the contact information of your neighbours. We use this to help you see which of your contacts are already on Nextdoor, invite contacts who aren’t on Nextdoor to join, get notified when contacts join, and see more of what’s relevant to you through personalization.
 
-● _Geolocation._ You may choose to grant the Services permission to access your device’s precise geolocation, which we use to confirm your address and help us operate or personalise our Services, including by tagging posts, adding information to a map, and helping us show you more relevant content or ads.
+● _Geolocation._ You may choose to grant the Services permission to access your device’s precise geolocation, which we use to confirm your address and help us operate or personalise our Services, including by tagging posts, adding information to a map, and helping us show you more relevant content or ads.
 
-● _Business information._ If you use our Business Services, you may share details about your association with a business and services offered by you or the business.
+● _Business information._ If you use our Business Services, you may share details about your association with a business and services offered by you or the business.
 
 2.2. **From your browser and device.**
 
@@ -81,7 +81,7 @@ We may collect information from third parties (such as service providers and par
 
 ● Public sources, such as census data, street addresses, property lot maps, and postal address change information, provide us with information that helps us understand our Members, improve our Services, and determine potential areas for expansion.
 
-**3.** **How is my information used?**
+**3.** **How is my information used?**
 
 We use personal information for the following purposes or as otherwise described at the time we collect it:
 
@@ -167,7 +167,7 @@ We may customise advertising offers you see on Nextdoor based on information fro
 
 We may use your personal information for research and development purposes. As part of these activities, we may create aggregated, de-identified and/or other anonymous data from personal information we collect. We make personal information into anonymous data by removing information that makes the data personally identifiable to you. We may use this anonymous data and share it with third parties for our lawful business purposes, including to analyze and improve the Services and promote our business.
 
-**4.** **Is my information shared with third parties?**
+**4.** **Is my information shared with third parties?**
 
 We share personal information as follows:
 
@@ -213,7 +213,7 @@ We may need to share your personal information with the relevant participants in
 
 We may share personal information with our professional advisors, such as lawyers, auditors, bankers and insurers, where necessary in the course of the professional services that they render to us.
 
-**5.** **What are my choices?**
+**5.** **What are my choices?**
 
 You can choose the degree to which your personal information, such as the street number of your home address, is shared in your personal profile and alongside your posts by using your account settings. You can modify these [account settings](https://nextdoor.com/settings/privacy/) at any time.
 
@@ -223,11 +223,11 @@ You can opt out of third-party personalised advertising by adjusting your cookie
 
 See our jurisdiction-specific disclosures in Section 11 below for more information about legal rights you have if you live in a listed jurisdiction.
 
-**6.** **How long is my information kept?**
+**6.** **How long is my information kept?**
 
 We retain your information in our server logs, our databases, and our records for as long as necessary to provide the Services. We may need to retain some of your information for a longer period, such as in order to comply with our legal or regulatory obligations, to resolve disputes or defend against legal claims, or to enforce our [Member Agreement](http://nextdoor.com/member_agreement).
 
-**7.** **How is my information protected?**
+**7.** **How is my information protected?**
 
 7.1. **Account security.**
 
@@ -237,15 +237,15 @@ Nextdoor uses technical and organizational measures intended to keep your data s
 
 When using Nextdoor, you may come across links to websites and services operated by third parties that are not owned or controlled by Nextdoor (for example, if a Member shares a link to a video on YouTube, or if an advertiser provides a link to a contest or sweepstakes). This Privacy Policy does not apply to information collected on any third-party site or application that may link to or be accessible from the Services. These third parties have their own privacy policies, which will apply to any personal information they collect. We do not accept any responsibility or liability for such external sites’ privacy and security practices.
 
-**8.** **Children**
+**8.** **Children**
 
 Children are not allowed to use the Services if they are under 13 years old or not old enough for Nextdoor to process their personal information without parental or age-specific consent where they live. If you believe we might have collected personal information from a child in one of these categories, please contact us at privacy@nextdoor.com, and if we learn that we have, we will delete their personal information.
 
-**9.** **Amendments to this Privacy Policy.**
+**9.** **Amendments to this Privacy Policy.**
 
 We may make changes to this Privacy Policy from time to time, so please review it periodically. If we materially change our Privacy Policy, we will take steps to notify you in advance of the change as required by applicable law, for example by emailing you or by posting a notice in your neighbourhood feed. If you object to any changes, you may close your account. You acknowledge that your continued use of our Services after we publish or send a notice about our changes to this Policy means that the collection, use, and sharing of your personal data is subject to the updated Privacy Policy, as of its effective date.
 
-**10.** **Contact us.**
+**10.** **Contact us.**
 
 If you reside in Australia, contact us at Nextdoor Australia Pty Ltd, Level 33, Australia Square 264 George Street Sydney, New South Wales 2000 Australia. Email: privacy@nextdoor.com.
 
@@ -257,7 +257,7 @@ If you reside in the EU, contact us at Nextdoor EMEA Limited, The Greenway, Ardi
 
 If you reside in the United States, contact us at Nextdoor, Inc., 420 Taylor Street, San Francisco, CA 94102. Phone: +1 415-569-7971. Email: [privacy@nextdoor.com](mailto:privacy@nextdoor.com).
 
-**11.** **Jurisdiction-specific disclosures.**
+**11.** **Jurisdiction-specific disclosures.**
 
 11.1. **California.**
 
@@ -269,17 +269,17 @@ The chart below summarises the personal information we collect by reference to t
 
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-| **Statutory category of personal information (PI)  <br>**(Cal. Civ. Code § 1798.140) | **PI we collect in this category** (See Personal information we collect above for description) | **Source of PI** | **Business/  <br>commercial purpose for collection** | **Categories of third parties to whom we “disclose” PI for a business purpose** |
-| **Identifiers (other than online identifiers)** | ● _Contact details_● _Network details_● _Data from other accounts_● _Posts, interests, location, and recommendations_● _Business information_● _Information from third parties and public sources_ | ● _You_● _Third parties and public sources_ | ● _Establishing and developing_ _neighbourhoods_● _Setting you up on Nextdoor_● _Provide and improve the Services_● _Create and maintain a trusted environment_● _Advertising_● _Research and development_ | ● _Public_● _Verification partners_● _Legal and safety-related third parties_● _Advertising partners_● _Third party partners_● _Nextdoor corporate family_● _Business transferees_● _Professional advisors_ |
-| **California Customer Records** (as defined in California Civil Code section 1798.80) | ● _Contact details_● _Network details_● _Data from other accounts_● _Posts, interests, location, and recommendations_● _Payment information_● _Business information_● _Information from third parties and public sources_ | ● _You_● _Third parties and public sources_ | ● _Establishing and developing_ _neighbourhoods_● _Setting you up on Nextdoor_● _Provide and improve the Services_● _Create and maintain a trusted environment_● _Advertising_● _Research and development_ | ● _Public_● _Verification partners_● _Legal and safety-related third parties_● _Advertising partners_● _Third party partners_● _Nextdoor corporate family_● _Business transferees_● _Professional advisors_ |
-| **Commercial Information** | ● _Contact details_● _Network details_● _Posts, interests, location, and recommendations_● _Payment information_● _Survey data_● _Contests, sweepstakes, and prize drawings data_● _Messages and email data_● _Business information_● _Online activity data_● _Information from third parties and public sources_ | ● _You_● _Your browser and device_● _Third parties and public sources_ | ● _Establishing and developing_ _neighbourhoods_● _Setting you up on NextdoorSetting you up on Nextdoor_● _Provide and improve the ServicesProvide and improve the Services_● _Create and maintain a trusted environment_● _Advertising_● _Research and development_ | ● _Public_● _Verification partners_● _Legal and safety-related third parties_● _Advertising partners_● _Third party partners_● _Nextdoor corporate family_● _Business transferees_● _Professional advisors_ |
+| **Statutory category of personal information (PI)  <br>**(Cal. Civ. Code § 1798.140) | **PI we collect in this category** (See Personal information we collect above for description) | **Source of PI** | **Business/  <br>commercial purpose for collection** | **Categories of third parties to whom we “disclose” PI for a business purpose** |
+| **Identifiers (other than online identifiers)** | ● _Contact details_● _Network details_● _Data from other accounts_● _Posts, interests, location, and recommendations_● _Business information_● _Information from third parties and public sources_ | ● _You_● _Third parties and public sources_ | ● _Establishing and developing_ _neighbourhoods_● _Setting you up on Nextdoor_● _Provide and improve the Services_● _Create and maintain a trusted environment_● _Advertising_● _Research and development_ | ● _Public_● _Verification partners_● _Legal and safety-related third parties_● _Advertising partners_● _Third party partners_● _Nextdoor corporate family_● _Business transferees_● _Professional advisors_ |
+| **California Customer Records** (as defined in California Civil Code section 1798.80) | ● _Contact details_● _Network details_● _Data from other accounts_● _Posts, interests, location, and recommendations_● _Payment information_● _Business information_● _Information from third parties and public sources_ | ● _You_● _Third parties and public sources_ | ● _Establishing and developing_ _neighbourhoods_● _Setting you up on Nextdoor_● _Provide and improve the Services_● _Create and maintain a trusted environment_● _Advertising_● _Research and development_ | ● _Public_● _Verification partners_● _Legal and safety-related third parties_● _Advertising partners_● _Third party partners_● _Nextdoor corporate family_● _Business transferees_● _Professional advisors_ |
+| **Commercial Information** | ● _Contact details_● _Network details_● _Posts, interests, location, and recommendations_● _Payment information_● _Survey data_● _Contests, sweepstakes, and prize drawings data_● _Messages and email data_● _Business information_● _Online activity data_● _Information from third parties and public sources_ | ● _You_● _Your browser and device_● _Third parties and public sources_ | ● _Establishing and developing_ _neighbourhoods_● _Setting you up on NextdoorSetting you up on Nextdoor_● _Provide and improve the ServicesProvide and improve the Services_● _Create and maintain a trusted environment_● _Advertising_● _Research and development_ | ● _Public_● _Verification partners_● _Legal and safety-related third parties_● _Advertising partners_● _Third party partners_● _Nextdoor corporate family_● _Business transferees_● _Professional advisors_ |
 | **Financial Information** | ● _Payment information_ | ● _You_ | ● _Provide and improve the Services_● _Create and maintain a trusted environment_● _Research and development_ | ● _Legal and safety-related third parties_● _Third party partners_● _Nextdoor corporate family_● _Business transferees_● _Professional advisors_ |
-| **Online Identifiers** | ● _Messages and email data_● _Contact lists_● _Geolocation_● _Device data_● _Online activity data_● _Information from third parties and public sources_ | ● _You_● _Your browser and device_● _Third parties and public sources_ | ● _Establishing and developing_ _neighbourhoods_● _Setting you up on Nextdoor_● _Provide and improve the Services_● _Create and maintain a trusted environment_● _Advertising_● _Research and development_ | ● _Verification partners_● _Legal and safety-related third parties_● _Advertising partners_● _Third party partners_● _Nextdoor corporate family_● _Business transferees_● _Professional advisors_ |
-| **Internet or Network Information** | ● _Messages and email data_● _Device data_● _Online activity data_ | ● _You_● _Your browser and device_● _Third parties and public sources_ | ● _Establishing and developing_ _neighbourhoods_● _Setting you up on Nextdoor_● _Provide and improve the Services_● _Create and maintain a trusted environment_● _Advertising_● _Research and development_ | ● _Legal and safety-related third parties_● _Advertising partners_● _Third party partners_● _Nextdoor corporate family_● _Business transferees_● _Professional advisors_ |
-| **Geolocation Data** | ● _Geolocation_● _Device data_ | ● _You_● _Your browser and device_ | ● _Establishing and developing_ _neighbourhoods_● _Setting you up on Nextdoor_● _Provide and improve the Services_● _Create and maintain a trusted environment_● _Advertising_● _Research and development_ | ● _Legal and safety-related third parties_● _Advertising partners_● _Nextdoor corporate family_● _Business transferees_● _Professional advisors_ |
-| **Inferences** | _May be derived from your:_● _Contact details_● Network details● _Posts, interests, location, and recommendations_● _Survey data_● _Contests, sweepstakes, and prize drawings data_● _Messages and email data_● _Geolocation_● _Device data_● _Online activity data_● _Information from third parties and public sources_ | N/A | ● _Establishing and developing_ _neighbourhoods_● _Setting you up on Nextdoor_● _Provide and improve the Services_● _Create and maintain a trusted environment_● _Advertising_● _Research and development_ | ● _Legal and safety-related third parties_● _Advertising partners_● _Third party partners_● _Nextdoor corporate family_● _Business transferees_● _Professional advisors_ |
-| **Professional or Employment Information** | ● _Business information_● _Information from third parties and public sources_ | ● _You_● _Third party sources_ | ● _Establishing and developing_ _neighbourhoods_● _Setting you up on Nextdoor_● _Provide and improve the Services_● _Create and maintain a trusted environment_● _Advertising_● _Research and development_ | ● _Public_● _Verification partners_● _Legal and safety-related third parties_● _Advertising partners_● _Third party partners_● _Nextdoor corporate family_● _Business transferees_● _Professional advisors_ |
-| **Sensory Information** | ● _Photos and videos_ | ● _You_ | ● _Establishing and developing_ _neighbourhoods_● _Setting you up on Nextdoor_● _Provide and improve the Services_● _Create and maintain a trusted environment_● _Advertising_● _Research and development_ | ● _Public_● _Legal and safety-related third parties_● _Third party partners_● _Nextdoor corporate family_● _Business transferees_● _Professional advisors_ |
+| **Online Identifiers** | ● _Messages and email data_● _Contact lists_● _Geolocation_● _Device data_● _Online activity data_● _Information from third parties and public sources_ | ● _You_● _Your browser and device_● _Third parties and public sources_ | ● _Establishing and developing_ _neighbourhoods_● _Setting you up on Nextdoor_● _Provide and improve the Services_● _Create and maintain a trusted environment_● _Advertising_● _Research and development_ | ● _Verification partners_● _Legal and safety-related third parties_● _Advertising partners_● _Third party partners_● _Nextdoor corporate family_● _Business transferees_● _Professional advisors_ |
+| **Internet or Network Information** | ● _Messages and email data_● _Device data_● _Online activity data_ | ● _You_● _Your browser and device_● _Third parties and public sources_ | ● _Establishing and developing_ _neighbourhoods_● _Setting you up on Nextdoor_● _Provide and improve the Services_● _Create and maintain a trusted environment_● _Advertising_● _Research and development_ | ● _Legal and safety-related third parties_● _Advertising partners_● _Third party partners_● _Nextdoor corporate family_● _Business transferees_● _Professional advisors_ |
+| **Geolocation Data** | ● _Geolocation_● _Device data_ | ● _You_● _Your browser and device_ | ● _Establishing and developing_ _neighbourhoods_● _Setting you up on Nextdoor_● _Provide and improve the Services_● _Create and maintain a trusted environment_● _Advertising_● _Research and development_ | ● _Legal and safety-related third parties_● _Advertising partners_● _Nextdoor corporate family_● _Business transferees_● _Professional advisors_ |
+| **Inferences** | _May be derived from your:_● _Contact details_● Network details● _Posts, interests, location, and recommendations_● _Survey data_● _Contests, sweepstakes, and prize drawings data_● _Messages and email data_● _Geolocation_● _Device data_● _Online activity data_● _Information from third parties and public sources_ | N/A | ● _Establishing and developing_ _neighbourhoods_● _Setting you up on Nextdoor_● _Provide and improve the Services_● _Create and maintain a trusted environment_● _Advertising_● _Research and development_ | ● _Legal and safety-related third parties_● _Advertising partners_● _Third party partners_● _Nextdoor corporate family_● _Business transferees_● _Professional advisors_ |
+| **Professional or Employment Information** | ● _Business information_● _Information from third parties and public sources_ | ● _You_● _Third party sources_ | ● _Establishing and developing_ _neighbourhoods_● _Setting you up on Nextdoor_● _Provide and improve the Services_● _Create and maintain a trusted environment_● _Advertising_● _Research and development_ | ● _Public_● _Verification partners_● _Legal and safety-related third parties_● _Advertising partners_● _Third party partners_● _Nextdoor corporate family_● _Business transferees_● _Professional advisors_ |
+| **Sensory Information** | ● _Photos and videos_ | ● _You_ | ● _Establishing and developing_ _neighbourhoods_● _Setting you up on Nextdoor_● _Provide and improve the Services_● _Create and maintain a trusted environment_● _Advertising_● _Research and development_ | ● _Public_● _Legal and safety-related third parties_● _Third party partners_● _Nextdoor corporate family_● _Business transferees_● _Professional advisors_ |
 
 11.1.2. **What are my rights?**
 
