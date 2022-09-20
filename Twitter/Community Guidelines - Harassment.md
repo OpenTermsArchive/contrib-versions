@@ -14,7 +14,7 @@ In order to facilitate healthy dialogue on the platform, and empower individuals
 Learn more about our approach to [policy development and our enforcement philosophy](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).  
   
 
-### When this applies 
+### When this applies 
 
   
 Some Tweets may seem to be abusive when viewed in isolation, but may not be when viewed in the context of a larger conversation. When we review this type of content, it may not be clear whether it is intended to harass an individual, or if it is part of a consensual conversation. To help our teams understand the context of a conversation, we may need to hear directly from the person being targeted, to ensure that we have the information needed prior to taking any enforcement action.
@@ -26,23 +26,23 @@ Violent threats**
 
 We prohibit content that makes violent threats against an identifiable target. Violent threats are declarative statements of intent to inflict injuries that would result in serious and lasting bodily harm, where an individual could die or be significantly injured, e.g., “I will kill you.”
 
-**Note**: We have a zero tolerance policy against violent threats. Those deemed to be sharing violent threats will face immediate and permanent suspension of their account.   
+**Note**: We have a zero tolerance policy against violent threats. Those deemed to be sharing violent threats will face immediate and permanent suspension of their account.   
 
 **Wishing, hoping, or calling for serious harm on a person or group of people**
 
 We do not tolerate content that wishes, hopes, promotes, incites, or expresses a desire for death, serious bodily harm or serious disease against an individual or group of people. This includes, but is not limited to: 
 
-*   Hoping that someone dies as a result of a serious disease e.g., “I hope you get cancer and die.”
-*   Wishing for someone to fall victim to a serious accident e.g., “I wish that you would get run over by a car next time you run your mouth.”
-*   Saying that a group of individuals deserves serious physical injury e.g., “If this group of protesters don’t shut up, they deserve to be shot.”  
+* Hoping that someone dies as a result of a serious disease e.g., “I hope you get cancer and die.”
+* Wishing for someone to fall victim to a serious accident e.g., “I wish that you would get run over by a car next time you run your mouth.”
+* Saying that a group of individuals deserves serious physical injury e.g., “If this group of protesters don’t shut up, they deserve to be shot.”  
      
 
-**About wishes of harm exceptions on Twitter** 
+**About wishes of harm exceptions on Twitter** 
 
 We recognize that conversations regarding certain individuals credibly accused of severe violence may prompt outrage and associated wishes of harm. In these limited cases, we will request the user to delete the Tweet without any risk of account penalty, strike, or suspension. Examples are, but not limited to:
 
-*    “I wish all rapists to die.” 
-*   “Child abusers should be hanged.”  
+*  “I wish all rapists to die.” 
+* “Child abusers should be hanged.”  
      
 
 **Unwanted sexual advances  
@@ -50,10 +50,10 @@ We recognize that conversations regarding certain individuals credibly accused o
 
 While some [consensual nudity and adult content is permitted](https://help.twitter.com/en/rules-and-policies/media-policy.html) on Twitter, we prohibit unwanted sexual advances and content that sexually objectifies an individual without their consent. This includes, but is not limited to:
 
-*   sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
-*   unwanted sexual discussion of someone’s body; 
-*   solicitation of sexual acts; and 
-*   any other content that otherwise sexualizes an individual without their consent.   
+* sending someone unsolicited and/or unwanted adult media, including images, videos, and GIFs; 
+* unwanted sexual discussion of someone’s body; 
+* solicitation of sexual acts; and 
+* any other content that otherwise sexualizes an individual without their consent.   
      
 
 **Using insults, profanity, or slurs with the purpose of harassing or intimidating others  
@@ -82,12 +82,12 @@ Consequences
 
 When determining the penalty for violating this policy, we consider a number of factors including, but not limited to, the severity of the violation and an individual’s previous record of rule violations. The following is a list of potential enforcement options for content that violates this policy:
 
-*   Downranking Tweets in replies, except when the user follows the Tweet author.
-*   Making Tweets ineligible for amplification in Top search results and/or on timelines for users who don’t follow the Tweet author.
-*   Excluding Tweets and/or accounts in email or in-product recommendations. 
-*   Requiring Tweet removal.
-    *   For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Tweet again. Subsequent violations will lead to longer read-only periods and may eventually result in permanent suspension.
-*   Suspending accounts whose primary use we’ve determined is to engage in abusive behavior as defined in this policy, or who have shared violent threats.
+* Downranking Tweets in replies, except when the user follows the Tweet author.
+* Making Tweets ineligible for amplification in Top search results and/or on timelines for users who don’t follow the Tweet author.
+* Excluding Tweets and/or accounts in email or in-product recommendations. 
+* Requiring Tweet removal.
+    * For example, we may ask someone to remove the violating content and serve a period of time in read-only mode before they can Tweet again. Subsequent violations will lead to longer read-only periods and may eventually result in permanent suspension.
+* Suspending accounts whose primary use we’ve determined is to engage in abusive behavior as defined in this policy, or who have shared violent threats.
 
 Learn more about [our range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html).
 
