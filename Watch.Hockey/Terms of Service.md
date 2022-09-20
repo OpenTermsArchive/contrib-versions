@@ -24,7 +24,7 @@ You agree that you will be solely responsible (to NAGRAVISION, and to others) fo
 
 ### Access to the Service
 
-When requesting the Service and by accepting these Terms on the registration page, you are entering into a legally binding contract with NAGRAVISION. The Service may entitle you to Content that is available free of charge and you may also be entitled to purchase Content. The contract for any Content that you purchase is conditional on your submission of a permitted and valid method of payment (or subscription or promotional code, if applicable), and is at all times subject to these Terms.
+When requesting the Service and by accepting these Terms on the registration page, you are entering into a legally binding contract with NAGRAVISION. The Service may entitle you to Content that is available free of charge and you may also be entitled to purchase Content.  The contract for any Content that you purchase is conditional on your submission of a permitted and valid method of payment (or subscription or promotional code, if applicable), and is at all times subject to these Terms.
 
 The App may from time to time propose content in relation to the field hockey practice, such as but not limited to, training, nutrition and performance. You acknowledge that such content, which may include text, graphics, images and other materials created by NAGRAVISION or obtained from NAGRAVISION's licensors, as well as other materials contained on or referred to in, the App (collectively, **"Content**") is provided for informational purposes and solely reflects the opinion of the contributor. The Content is not intended to be a substitute for professional medical advice, diagnosis or treatment, or for dedicated advice by a specialist. Any reliance on and use of such information by you is done at your sole direction, control and risk. The App does not recommend or endorse any specific tests, physicians, products, procedures, opinions or other information that may be mentioned in the Content. NAGRAVISION shall not incur any responsibility in relation to any error or omission in the Content.
 
@@ -36,7 +36,7 @@ The financial transactions associated with the Service are provided by the appli
 
 ### Termination
 
-NAGRAVISION can terminate this agreement with immediate effect and by written notice at any time if you commit a material breach of this agreement (and any breach of clauses described in “General Restrictions on Use” of “User Conduct” will be considered to be a material breach) or if you do not fulfil any of the technical requirements described in “Technical Requirements”. In addition, NAGRAVISION may terminate this agreement for convenience on one calendar month’s notice.
+NAGRAVISION can terminate this agreement with immediate effect and by written notice at any time if you commit a material breach of this agreement (and any breach of clauses described in “General Restrictions on Use” of “User Conduct” will be considered to be a material breach) or if you do not fulfil any of the technical requirements described in “Technical Requirements”.  In addition, NAGRAVISION may terminate this agreement for convenience on one calendar month’s notice.
 
 ### Technical Support and Contacting NAGRAVISION
 
@@ -46,17 +46,17 @@ You can contact NAGRAVISION whether to discuss technical problems or for any oth
 
 NAGRAVISION hereby grants you permission to access and use the Service and Content, subject to the following express conditions, and you agree that your failure to adhere to any of these conditions shall constitute a breach of these Terms on your part:
 
-a) you agree to use the Service and Content strictly in compliance with the terms described herein.
+a)    you agree to use the Service and Content strictly in compliance with the terms described herein.
 
-b) you agree not to distribute any part of or parts of the App and/or the Site, including but not limited to any Content, in any medium without NAGRAVISION’s prior written authorization, unless NAGRAVISION makes available the means for such distribution through functionality offered by the App and/or the Site;
+b)    you agree not to distribute any part of or parts of the App and/or the Site, including but not limited to any Content, in any medium without NAGRAVISION’s prior written authorization, unless NAGRAVISION makes available the means for such distribution through functionality offered by the App and/or the Site;
 
-c) you agree not to alter or modify any part of the App and/or the Site;
+c)    you agree not to alter or modify any part of the App and/or the Site;
 
-d) you agree not to access Content through any technology or means other than the video playback pages of the App or the Site itself or such other means as NAGRAVISION may explicitly designate for this purpose;
+d)    you agree not to access Content through any technology or means other than the video playback pages of the App or the Site itself or such other means as NAGRAVISION may explicitly designate for this purpose;
 
-e) you agree not to (or attempt to) circumvent, disable or otherwise interfere with any security related features of the App and/or the Site or features that (i) prevent or restrict use or copying of Content or (ii) enforce limitations on use of the App and/or the Site or the content accessible via the App and/or the Site;
+e)    you agree not to (or attempt to) circumvent, disable or otherwise interfere with any security related features of the App and/or the Site or features that (i) prevent or restrict use or copying of Content or (ii) enforce limitations on use of the App and/or the Site or the content accessible via the App and/or the Site;
 
-f) you agree not to use the App and/or the Site for any of the following commercial uses unless you obtain NAGRAVISION’s prior written approval:
+f)     you agree not to use the App and/or the Site for any of the following commercial uses unless you obtain NAGRAVISION’s prior written approval:
 
 i. the sale of access to the App and/or the Site;
 
@@ -66,15 +66,15 @@ iii. the sale of advertising, sponsorships or promotions on any page of an ad- e
 
 Notwithstanding the foregoing, prohibited commercial uses shall not include (i) uploading an original video to NAGRAVISION, (ii) maintaining an original channel on the App and/or the Site in order to promote a business or artistic enterprise, (iii) showing NAGRAVISION videos through an ad-enabled blog or website, subject to those advertising restrictions set out in f.(iii) above; and (iv) any use that is expressly authorized by NAGRAVISION in writing;
 
-g) you agree not to collect or harvest any personal data of any user of the App and/or Site (and agree that this shall be deemed to include FIH account names);
+g)    you agree not to collect or harvest any personal data of any user of the App and/or Site (and agree that this shall be deemed to include FIH account names);
 
-h) you agree not to use the App and/or the Site for the solicitation of business in the course of trade or in connection with a commercial enterprise;
+h)    you agree not to use the App and/or the Site for the solicitation of business in the course of trade or in connection with a commercial enterprise;
 
-i) you agree not to solicit, for commercial purposes, any users of the App and/or the Site with respect to their Content;
+i)      you agree not to solicit, for commercial purposes, any users of the App and/or the Site with respect to their Content;
 
-j) you agree not to access Content for any reason other than your personal, non-commercial use solely as intended through and permitted by the normal functionality of the App and/or the Site, and solely for Streaming and downloading when offered by the App and/or the Site. “**Streaming**” means a contemporaneous digital transmission of the material by NAGRAVISION via the Internet to a user operated Internet enabled device in such a manner that the data is intended for real- time viewing and not intended to be downloaded (either permanently or temporarily), copied, stored, or redistributed by the user; and
+j)      you agree not to access Content for any reason other than your personal, non-commercial use solely as intended through and permitted by the normal functionality of the App and/or the Site, and solely for Streaming and downloading when offered by the App and/or the Site. “**Streaming**” means a contemporaneous digital transmission of the material by NAGRAVISION via the Internet to a user operated Internet enabled device in such a manner that the data is intended for real- time viewing and not intended to be downloaded (either permanently or temporarily), copied, stored, or redistributed by the user; and
 
-k) you shall not copy, reproduce, distribute, transmit, broadcast, display, sell, license, or otherwise exploit any Content for any other purposes without the prior written consent of NAGRAVISION or the respective licensors of the Content.
+k)    you shall not copy, reproduce, distribute, transmit, broadcast, display, sell, license, or otherwise exploit any Content for any other purposes without the prior written consent of NAGRAVISION or the respective licensors of the Content.
 
 You agree that you will comply with all of the other provisions of these Terms at all times during your use of the App and/or the Site.
 
@@ -91,67 +91,67 @@ You agree that you are solely responsible for (and that NAGRAVISION has no respo
 
 In connection with your access to or use of the Service, you shall not:
 
-1. upload, post, email, transmit or otherwise make available any Content that:
+1.    upload, post, email, transmit or otherwise make available any Content that:
 
-a) is illegal, harmful, threatening, abusive, harassing, tortious, defamatory, vulgar, obscene, libelous, invasive of another's privacy, hateful or otherwise objectionable;
+a)    is illegal, harmful, threatening, abusive, harassing, tortious, defamatory, vulgar, obscene, libelous, invasive of another's privacy, hateful or otherwise objectionable;
 
-b) infringes any patent, trademark, trade secret, copyright or other proprietary right of any party;
+b)    infringes any patent, trademark, trade secret, copyright or other proprietary right of any party;
 
-c) consists of unsolicited or unauthorized advertising, promotional materials, junk mail, spam, chain letters, pyramid schemes, commercial electronic messages or any other form of solicitation; or
+c)    consists of unsolicited or unauthorized advertising, promotional materials, junk mail, spam, chain letters, pyramid schemes, commercial electronic messages or any other form of solicitation; or
 
-d) contains software viruses or any other code, files or programs designed to interrupt, destroy or limit the functionality of any software or hardware;
+d)    contains software viruses or any other code, files or programs designed to interrupt, destroy or limit the functionality of any software or hardware;
 
-2. impersonate any person or entity, including, but not limited to, NAGRAVISION and FIH personnel, or falsely state or otherwise misrepresent your affiliation with any person or entity;
+2.    impersonate any person or entity, including, but not limited to, NAGRAVISION and FIH personnel, or falsely state or otherwise misrepresent your affiliation with any person or entity;
 
-3. forge headers or otherwise manipulate identifiers in order to disguise the origin of any Content transmitted through the Service;
+3.    forge headers or otherwise manipulate identifiers in order to disguise the origin of any Content transmitted through the Service;
 
-4. act in a manner that negatively affects the ability of other users to access or use the Service;
+4.    act in a manner that negatively affects the ability of other users to access or use the Service;
 
-5. take any action that imposes an unreasonable or disproportionately heavy load on the Service or its infrastructure;
+5.    take any action that imposes an unreasonable or disproportionately heavy load on the Service or its infrastructure;
 
-6. interfere with or disrupt the Service or servers or networks connected to the Service, or disobey any requirements, procedures, policies or regulations of networks connected to the Service;
+6.    interfere with or disrupt the Service or servers or networks connected to the Service, or disobey any requirements, procedures, policies or regulations of networks connected to the Service;
 
-7. use spiders, crawlers, robots or any other similar means to access the Service or substantially download, reproduce or archive any portion of the Service;
+7.    use spiders, crawlers, robots or any other similar means to access the Service or substantially download, reproduce or archive any portion of the Service;
 
-8. sell, share, transfer, trade, loan or exploit for any commercial purpose any portion of the Service, including, but not limited to, your user account and password; or
+8.    sell, share, transfer, trade, loan or exploit for any commercial purpose any portion of the Service, including, but not limited to, your user account and password; or
 
-9. violate any applicable local, state, provincial, federal, national or international law or regulation.
+9.    violate any applicable local, state, provincial, federal, national or international law or regulation.
 
 **Responsibility For Content**
 ------------------------------
 
-1. Content may be provided by users of the App and/or the Site. As a FIH account holder you may submit, capture and/or share Content (“**Your Content**”). You understand that whether or not Content is published, NAGRAVISION does not guarantee any confidentiality with respect to Content.
+1.    Content may be provided by users of the App and/or the Site. As a FIH account holder you may submit, capture and/or share Content (“**Your Content**”). You understand that whether or not Content is published, NAGRAVISION does not guarantee any confidentiality with respect to Content.
 
-2. You understand and agree that you are solely responsible for Your Content and the consequences of posting, publishing or sharing it. NAGRAVISION does not endorse any Content or any opinion, recommendation, or advice expressed therein, and NAGRAVISION expressly disclaims any and all liability in connection with Content.
+2.    You understand and agree that you are solely responsible for Your Content and the consequences of posting, publishing or sharing it. NAGRAVISION does not endorse any Content or any opinion, recommendation, or advice expressed therein, and NAGRAVISION expressly disclaims any and all liability in connection with Content.
 
-3. You retain all of your ownership rights in Your Content, but you are required to grant limited license rights to NAGRAVISION and other users of the App and/or the Site. These are described in the section entitled “Rights You license” of these Terms.
+3.    You retain all of your ownership rights in Your Content, but you are required to grant limited license rights to NAGRAVISION and other users of the App and/or the Site. These are described in the section entitled “Rights You license” of these Terms.
 
-4. You acknowledge and agree that all Content accessible through the Service, whether publicly posted or privately transmitted, are the sole responsibility of the person from whom such Content originated. This means that you, and not NAGRAVISION, are entirely responsible for all Content that you upload, post, email, transmit or otherwise make available through the Service, and other users of the Service, and not NAGRAVISION, are similarly responsible for all Content they upload, post, email, transmit or otherwise make available through the Service (“**User Content**”).
+4.    You acknowledge and agree that all Content accessible through the Service, whether publicly posted or privately transmitted, are the sole responsibility of the person from whom such Content originated. This means that you, and not NAGRAVISION, are entirely responsible for all Content that you upload, post, email, transmit or otherwise make available through the Service, and other users of the Service, and not NAGRAVISION, are similarly responsible for all Content they upload, post, email, transmit or otherwise make available through the Service (“**User Content**”).
 
-5. You agree that you will not post, capture and/or share any Content which contains material which it is unlawful for you to possess in the country in which you are resident, or which it would be unlawful for NAGRAVISION to use or possess in connection with the provision of the App and/or the Site.
+5.    You agree that you will not post, capture and/or share any Content which contains material which it is unlawful for you to possess in the country in which you are resident, or which it would be unlawful for NAGRAVISION to use or possess in connection with the provision of the App and/or the Site.
 
-6. You acknowledge and agree that NAGRAVISION has no obligation to pre-screen Content (including, but not limited to, Your Content and User Content), although NAGRAVISION reserves the right in its sole discretion to pre-screen, filter, refuse or remove any Content.
+6.    You acknowledge and agree that NAGRAVISION has no obligation to pre-screen Content (including, but not limited to, Your Content and User Content), although NAGRAVISION reserves the right in its sole discretion to pre-screen, filter, refuse or remove any Content.
 
-7. NAGRAVISION shall have the right to edit or remove any Content appearing in the App and/or on the Site.
+7.    NAGRAVISION shall have the right to edit or remove any Content appearing in the App and/or on the Site.
 
-8. You represent and warrant that you have (and will continue to have during your use of the App and/or the Site) all necessary licenses, rights, consents, and permissions which are required to enable NAGRAVISION to use Your Content for the purposes of the provision of and use of the App and/or the Site by NAGRAVISION, and otherwise to use Your Content in the manner contemplated by the App and/or the Site and these Terms.
+8.    You represent and warrant that you have (and will continue to have during your use of the App and/or the Site) all necessary licenses, rights, consents, and permissions which are required to enable NAGRAVISION to use Your Content for the purposes of the provision of and use of the App and/or the Site by NAGRAVISION, and otherwise to use Your Content in the manner contemplated by the App and/or the Site and these Terms.
 
-9. You agree that Your Content you submit, capture and/or share to the App and/or the Site will not contain any third party copyright material, or material that is subject to other third party proprietary rights (including rights of privacy or rights of publicity), unless you have a formal license or permission from the rightful owner, or are otherwise legally entitled, to post the material in question and to grant NAGRAVISION the license referred to in the first paragraph of the section entitled “Rights you license” of these Terms below.
+9.    You agree that Your Content you submit, capture and/or share to the App and/or the Site will not contain any third party copyright material, or material that is subject to other third party proprietary rights (including rights of privacy or rights of publicity), unless you have a formal license or permission from the rightful owner, or are otherwise legally entitled, to post the material in question and to grant NAGRAVISION the license referred to in the first paragraph of the section entitled “Rights you license” of these Terms below.
 
-10. On becoming aware of any potential violation of these Terms, NAGRAVISION reserves the right (but shall have no obligation) to decide whether Content complies with the content requirements set out in these Terms and may remove such Content and/or terminate a User’s access for uploading Content which is in violation of these Terms at any time, without prior notice and at its sole discretion.
+10.  On becoming aware of any potential violation of these Terms, NAGRAVISION reserves the right (but shall have no obligation) to decide whether Content complies with the content requirements set out in these Terms and may remove such Content and/or terminate a User’s access for uploading Content which is in violation of these Terms at any time, without prior notice and at its sole discretion.
 
-11. You further understand and acknowledge that in using the App and/or the Site, you may be exposed to Content that is factually inaccurate, offensive, indecent, or otherwise objectionable to you. The App and/or the Site allow you to report such Content to NAGRAVISION to review and enforce compliance of our Community Guidelines. You agree to waive, and hereby do waive, any legal or equitable rights or remedies you have or may have against NAGRAVISION with respect to any such Content.
+11.  You further understand and acknowledge that in using the App and/or the Site, you may be exposed to Content that is factually inaccurate, offensive, indecent, or otherwise objectionable to you. The App and/or the Site allow you to report such Content to NAGRAVISION to review and enforce compliance of our Community Guidelines. You agree to waive, and hereby do waive, any legal or equitable rights or remedies you have or may have against NAGRAVISION with respect to any such Content.
 
 **Rights You License**
 ----------------------
 
 When you upload or capture Content to the App and/ the Site, you grant:
 
-1. to NAGRAVISION a worldwide, non-exclusive, royalty-free, transferable license (with right to sub-license) to use, reproduce, distribute, prepare derivative works of, display, and perform that Content in connection with the provision of the App and/or the Site and otherwise in connection with the provision of the App and/or the Site and NAGRAVISION’s business, including without limitation for promoting and redistributing part or all of the Content (and derivative works thereof) in any media formats and through any media channels;
+1.    to NAGRAVISION a worldwide, non-exclusive, royalty-free, transferable license (with right to sub-license) to use, reproduce, distribute, prepare derivative works of, display, and perform that Content in connection with the provision of the App and/or the Site and otherwise in connection with the provision of the App and/or the Site and NAGRAVISION’s business, including without limitation for promoting and redistributing part or all of the Content (and derivative works thereof) in any media formats and through any media channels;
 
-2. to each user of the App and/or the Site, a worldwide, non-exclusive, royalty-free license to access your Content through the App and/or the Site, and to use such Content to the extent permitted by the functionality of the App and/or the Site and under these Terms.
+2.    to each user of the App and/or the Site, a worldwide, non-exclusive, royalty-free license to access your Content through the App and/or the Site, and to use such Content to the extent permitted by the functionality of the App and/or the Site and under these Terms.
 
-3. The above licenses granted by you in Content terminate when you remove or delete your Content from the Site. The above licenses granted by you in textual comments you submit as Content are perpetual and irrevocable, but are otherwise without prejudice to your ownerships rights, which are retained by you as set out in third paragraph of the section entitled “Responsibility For Content” above.
+3.    The above licenses granted by you in Content terminate when you remove or delete your Content from the Site. The above licenses granted by you in textual comments you submit as Content are perpetual and irrevocable, but are otherwise without prejudice to your ownerships rights, which are retained by you as set out in third paragraph of the section entitled “Responsibility For Content” above.
 
 **Limited Right to Use**
 ------------------------
@@ -188,11 +188,11 @@ If you elect to provide or make available to NAGRAVISION any suggestions, commen
 **Dealings with Advertisers and Other Third Parties**
 -----------------------------------------------------
 
-1. Your dealings with advertisers and other third parties who market, sell, buy or offer to sell or buy any goods or services on the Service, including payment for or delivery of such goods or services and any other terms, conditions, warranties or representations associated with such dealings, are solely between you and the advertiser or other third party. You acknowledge and agree that NAGRAVISION shall not be liable for any loss or damage of any kind incurred as a result of any such dealings.
+1.    Your dealings with advertisers and other third parties who market, sell, buy or offer to sell or buy any goods or services on the Service, including payment for or delivery of such goods or services and any other terms, conditions, warranties or representations associated with such dealings, are solely between you and the advertiser or other third party. You acknowledge and agree that NAGRAVISION shall not be liable for any loss or damage of any kind incurred as a result of any such dealings.
 
-2. The Service provided to you hereunder may require data usage from a third party service provider such as a wireless carrier and/or an Internet service provider (“**ISP**”). As between you and NAGRAVISION, you are responsible for obtaining services from such ISP and you are responsible for all charges related to such services from ISPs, including without limitation airtime service charges, Internet access charges, and data usage charges and overages.
+2.    The Service provided to you hereunder may require data usage from a third party service provider such as a wireless carrier and/or an Internet service provider (“**ISP**”). As between you and NAGRAVISION, you are responsible for obtaining services from such ISP and you are responsible for all charges related to such services from ISPs, including without limitation airtime service charges, Internet access charges, and data usage charges and overages.
 
-3. You should give due consideration before sharing your personal information with other persons or parties you may interact or communicate with within the Service. You acknowledge and agree that NAGRAVISION shall not be liable for any loss or damage of any kind incurred as a result of such interactions.
+3.    You should give due consideration before sharing your personal information with other persons or parties you may interact or communicate with within the Service. You acknowledge and agree that NAGRAVISION shall not be liable for any loss or damage of any kind incurred as a result of such interactions.
 
 **Links and External Materials**
 --------------------------------
@@ -220,4 +220,4 @@ To learn about how NAGRAVISION protects your personal information, such as your 
 
 These Terms shall be treated as though executed and performed in Cheseaux- sur- Lausanne, Switzerland, and shall be governed by and construed in accordance with the Swiss laws (without regard to conflict of law principles). Any cause of action by you with respect to the App and/or the Site (and/or information, content, documents and other materials contained therein) must be instituted within one (1) year after the cause of action arose or be forever waived and barred. You expressly submit to the exclusive jurisdiction and venue of the courts of Switzerland with respect to all matters relating to these Terms or your use of the App and/or the Site, and consent to extra-territorial service of process in connection therewith. Should any part of these Terms be held invalid or unenforceable, that portion shall be construed consistent with applicable law and the remaining portions shall remain in full force and effect. To the extent that anything in or associated with the App and/or the Site is in conflict or inconsistent with these Terms, these Terms shall take precedence. Our failure to enforce any provision of these Terms shall not be deemed a waiver of such provision nor of the right to enforce such provision.
 
-These Terms are an agreement between you and NAGRAVISION Sarl, route de Geneve 22-24, 1033 Cheseaux sur Lausanne, Switzerland. If you have any questions about these Terms, please contact us at [sportsprivacy@nagra.com](mailto:sportsprivacy@nagra.com)
+These Terms are an agreement between you and NAGRAVISION Sarl, route de Geneve 22-24, 1033 Cheseaux sur Lausanne, Switzerland. If you have any questions about these Terms, please contact us at [sportsprivacy@nagra.com](mailto:sportsprivacy@nagra.com)
