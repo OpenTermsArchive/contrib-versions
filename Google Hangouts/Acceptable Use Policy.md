@@ -8,8 +8,8 @@ Spam and commercial use
 
 Do not send or facilitate the transmission of spam, large numbers of commercial messages, or automated messages or calls. Spam includes, but is not limited to, unwanted promotional or commercial content and unwanted or mass solicitation. Do not make calls that violate laws that prohibit unsolicited marketing calls (e.g. 'Do not call' laws).
 
-*   Learn how to [block users in Chat](https://support.google.com/hangoutschat/answer/9277792).
-*   Learn how to [block users in Hangouts](https://support.google.com/hangouts/answer/2945109).
+* Learn how to [block users in Chat](https://support.google.com/hangoutschat/answer/9277792).
+* Learn how to [block users in Hangouts](https://support.google.com/hangouts/answer/2945109).
 
 Fraud, phishing and other deceptive practices
 ---------------------------------------------
