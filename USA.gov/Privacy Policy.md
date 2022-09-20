@@ -6,8 +6,8 @@ USA.gov doesn't collect personal information when you visit our web site unless 
 On This Page
 ------------
 
-*   [External Links](#item-211458)
-*   [If You Send Us Personal Information](#item-211460)
+* [External Links](#item-211458)
+* [If You Send Us Personal Information](#item-211460)
 
 External Links
 --------------
@@ -27,14 +27,14 @@ We only share the information you give us with another government agency if your
 
 Share This Page:
 
- [![Facebook](../../../images/Icon_Connect_Facebook.png)](https://www.facebook.com/sharer/sharer.php?u=https://www.usa.gov/policies&v=3) [ ![Twitter](../../../images/Icon_Connect_Twitter.png) ](https://twitter.com/intent/tweet?source=webclient&text=Privacy%20and%20Security%20Policieshttps://www.usa.gov/policies) [![Email](../../../images/Icon_Connect_Email.png)](mailto:?subject=Privacy%20and%20Security%20Policies&body=https://www.usa.gov/policies) 
+ [![Facebook](../../../images/Icon_Connect_Facebook.png)](https://www.facebook.com/sharer/sharer.php?u=https://www.usa.gov/policies&v=3)[![Twitter](../../../images/Icon_Connect_Twitter.png)](https://twitter.com/intent/tweet?source=webclient&text=Privacy%20and%20Security%20Policieshttps://www.usa.gov/policies)[![Email](../../../images/Icon_Connect_Email.png)](mailto:?subject=Privacy%20and%20Security%20Policies&body=https://www.usa.gov/policies)
 
 Do you have a question?
 -----------------------
 
 Ask a real person any government-related question for free. They'll get you the answer or let you know where to find it.
 
-*   [Talk to a live USA.gov agent](https://www.usa.gov/phone)
-*   [Web Chat with a live USA.gov agent](https://www.usa.gov/chat)
+* [Talk to a live USA.gov agent](https://www.usa.gov/phone)
+* [Web Chat with a live USA.gov agent](https://www.usa.gov/chat)
 
 Last Updated: March 21, 2022
