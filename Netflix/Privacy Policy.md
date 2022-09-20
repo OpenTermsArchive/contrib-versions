@@ -13,64 +13,64 @@ The data controller of your personal information is [Netflix Services UK Limited
 
 We receive and store information about you such as:
 
-*   **Information you provide to us:** We collect information you provide to us which includes:
+* **Information you provide to us:** We collect information you provide to us which includes:
     
-    *   your name, email address, address or postal code, payment method(s), and telephone number. We collect this information in a number of ways, including when you enter it while using our service, interact with our customer service, or participate in surveys or marketing promotions;
+    * your name, email address, address or postal code, payment method(s), and telephone number. We collect this information in a number of ways, including when you enter it while using our service, interact with our customer service, or participate in surveys or marketing promotions;
         
-    *   information when you choose to provide ratings, taste preferences, account settings (including preferences set in the "Account" section of our website), or otherwise provide information to us through our service or elsewhere.
+    * information when you choose to provide ratings, taste preferences, account settings (including preferences set in the "Account" section of our website), or otherwise provide information to us through our service or elsewhere.
         
-*   **Information we collect automatically:** We collect information about you and your use of our service, your interactions with us and our advertising, as well as information regarding your network, network devices, and your computer or other Netflix capable devices you might use to access our service (such as gaming systems, smart TVs, mobile devices, set top boxes, and other streaming media devices). This information includes:
+* **Information we collect automatically:** We collect information about you and your use of our service, your interactions with us and our advertising, as well as information regarding your network, network devices, and your computer or other Netflix capable devices you might use to access our service (such as gaming systems, smart TVs, mobile devices, set top boxes, and other streaming media devices). This information includes:
     
-    *   your activity on the Netflix service, such as title selections, shows you have watched, and search queries;
+    * your activity on the Netflix service, such as title selections, shows you have watched, and search queries;
         
-    *   your interactions with our emails and texts, and with our messages through push and online messaging channels;
+    * your interactions with our emails and texts, and with our messages through push and online messaging channels;
         
-    *   details of your interactions with our customer service, such as the date, time and reason for contacting us, transcripts of any chat conversations, and if you call us, your phone number and call recordings;
+    * details of your interactions with our customer service, such as the date, time and reason for contacting us, transcripts of any chat conversations, and if you call us, your phone number and call recordings;
         
-    *   device IDs or other unique identifiers, including for your network devices, and devices that are Netflix capable on your Wi-Fi network;
+    * device IDs or other unique identifiers, including for your network devices, and devices that are Netflix capable on your Wi-Fi network;
         
-    *   resettable device identifiers (also known as advertising identifiers), such as those on mobile devices, tablets, and streaming media devices that include such identifiers (see the "Cookies and Internet Advertising" section below for more information);
+    * resettable device identifiers (also known as advertising identifiers), such as those on mobile devices, tablets, and streaming media devices that include such identifiers (see the "Cookies and Internet Advertising" section below for more information);
         
-    *   device and software characteristics (such as type and configuration), connection information including type (wifi, cellular), statistics on page views, referring source (for example, referral URLs), IP address (which may tell us your general location), browser and standard web server log information;
+    * device and software characteristics (such as type and configuration), connection information including type (wifi, cellular), statistics on page views, referring source (for example, referral URLs), IP address (which may tell us your general location), browser and standard web server log information;
         
-    *   information collected via the use of cookies, web beacons and other technologies, including ad data (such as information on the availability and delivery of ads, the site URL, as well as the date and time). (See our "Cookies and Internet Advertising" section for more details.)
+    * information collected via the use of cookies, web beacons and other technologies, including ad data (such as information on the availability and delivery of ads, the site URL, as well as the date and time). (See our "Cookies and Internet Advertising" section for more details.)
         
-*   **Information from partners:** We collect information from other companies with whom you have a relationship (“Partners”). These Partners might include (depending on what services you use): your TV or internet service provider, or other streaming media device providers who make our service available on their device; mobile phone carriers or other companies who provide services to you and collect payment for the Netflix service for distribution to us or provide pre-paid promotions for the Netflix service; and voice assistant platform providers who enable interaction with our service through voice commands. The information Partners provide us varies depending on the nature of the Partner services, and may include:
+* **Information from partners:** We collect information from other companies with whom you have a relationship (“Partners”). These Partners might include (depending on what services you use): your TV or internet service provider, or other streaming media device providers who make our service available on their device; mobile phone carriers or other companies who provide services to you and collect payment for the Netflix service for distribution to us or provide pre-paid promotions for the Netflix service; and voice assistant platform providers who enable interaction with our service through voice commands. The information Partners provide us varies depending on the nature of the Partner services, and may include:
     
-    *   search queries and commands applicable to Netflix that you make through Partner devices or voice assistant platforms;
+    * search queries and commands applicable to Netflix that you make through Partner devices or voice assistant platforms;
         
-    *   service activation information such as your email address or other contact information;
+    * service activation information such as your email address or other contact information;
         
-    *   IP addresses, device IDs or other unique identifiers, as well as associated pre-paid promotion, billing and user interface information, that support user authentication, the Netflix service registration experience, Partner payment processing, and the presentation of Netflix content to you through portions of the Partner user interface.
+    * IP addresses, device IDs or other unique identifiers, as well as associated pre-paid promotion, billing and user interface information, that support user authentication, the Netflix service registration experience, Partner payment processing, and the presentation of Netflix content to you through portions of the Partner user interface.
         
-*   **Information from other sources:** We also obtain information from other sources. We protect this information according to the practices described in this Privacy Statement, plus any additional restrictions imposed by the source of the data. These sources vary over time, but could include:
+* **Information from other sources:** We also obtain information from other sources. We protect this information according to the practices described in this Privacy Statement, plus any additional restrictions imposed by the source of the data. These sources vary over time, but could include:
     
-    *   service providers that help us determine a location based on your IP address in order to customize our service and for other uses consistent with this Privacy Statement;
+    * service providers that help us determine a location based on your IP address in order to customize our service and for other uses consistent with this Privacy Statement;
         
-    *   security service providers who provide us with information to secure our systems, prevent fraud and help us protect the security of Netflix accounts;
+    * security service providers who provide us with information to secure our systems, prevent fraud and help us protect the security of Netflix accounts;
         
-    *   payment service providers who provide us with payment or balance information, or updates to that information, based on their relationship with you;
+    * payment service providers who provide us with payment or balance information, or updates to that information, based on their relationship with you;
         
-    *   online and offline data providers, from which we obtain aggregated demographic, interest based and online advertising related data;
+    * online and offline data providers, from which we obtain aggregated demographic, interest based and online advertising related data;
         
-    *   publicly-available sources such as publicly available posts on social media platforms and information available through public databases associating IP addresses with internet service providers (ISPs).
+    * publicly-available sources such as publicly available posts on social media platforms and information available through public databases associating IP addresses with internet service providers (ISPs).
         
 
 ### Use of Information
 
 We use information to provide, analyze, administer, enhance and personalize our services and marketing efforts, to manage member referrals, to process your registration, your orders and your payments, and to communicate with you on these and other topics. For example, we use such information to:
 
-*   determine your general geographic location, provide localized content, provide you with customized and personalized viewing recommendations for movies and TV shows we think will be of interest to you, determine your ISP to support network troubleshooting for you (we also use aggregated ISP information for operational and business purposes), and help us quickly and efficiently respond to inquiries and requests;
+* determine your general geographic location, provide localized content, provide you with customized and personalized viewing recommendations for movies and TV shows we think will be of interest to you, determine your ISP to support network troubleshooting for you (we also use aggregated ISP information for operational and business purposes), and help us quickly and efficiently respond to inquiries and requests;
     
-*   coordinate with Partners on making the Netflix service available to members and providing information to non members about the availability of the Netflix service, based on the specific relationship you have with the Partner;
+* coordinate with Partners on making the Netflix service available to members and providing information to non members about the availability of the Netflix service, based on the specific relationship you have with the Partner;
     
-*   secure our systems, prevent fraud and help us protect the security of Netflix accounts;
+* secure our systems, prevent fraud and help us protect the security of Netflix accounts;
     
-*   prevent, detect and investigate potentially prohibited or illegal activities, including fraud, and to enforce our terms (such as determining whether and for which Netflix signup offers you are eligible and determining whether a particular device is permitted to use the account consistent with our Terms of Use);
+* prevent, detect and investigate potentially prohibited or illegal activities, including fraud, and to enforce our terms (such as determining whether and for which Netflix signup offers you are eligible and determining whether a particular device is permitted to use the account consistent with our Terms of Use);
     
-*   analyze and understand our audience, improve our service (including our user interface experiences and service performance) and optimize content selection, recommendation algorithms and delivery;
+* analyze and understand our audience, improve our service (including our user interface experiences and service performance) and optimize content selection, recommendation algorithms and delivery;
     
-*   communicate with you concerning our service so that we can send you news about Netflix, details about new features and content available on Netflix, special offers, promotional announcements, consumer surveys, and to assist you with operational requests such as password reset requests. These communications may be by various methods, such as email, push notifications, text message, online messaging channels, and matched identifier communications (described below). Please see the "Your Choices" section of this Privacy Statement to learn how to set or change your communications preferences.
+* communicate with you concerning our service so that we can send you news about Netflix, details about new features and content available on Netflix, special offers, promotional announcements, consumer surveys, and to assist you with operational requests such as password reset requests. These communications may be by various methods, such as email, push notifications, text message, online messaging channels, and matched identifier communications (described below). Please see the "Your Choices" section of this Privacy Statement to learn how to set or change your communications preferences.
     
 
 Our legal basis for collecting and using the personal information described in this Privacy Statement will depend on the personal information concerned and the specific context in which we collect and use it. We will normally collect personal information from you where we need the personal information to perform a contract with you (for example, to provide our services to you), where the processing is in our legitimate interests and not overridden by your data protection interests or fundamental rights and freedoms (for example, our direct marketing activities in accordance with your preferences), or where we have your consent to do so (for example, for you to participate in certain consumer insights activities like specific surveys and focus groups). In some cases, we may also have a legal obligation to collect personal information from you or may otherwise need the personal information to protect your vital interests or those of another person (for example, to prevent payment fraud or confirm your identity). For questions about our use of your personal information (including legal bases and transfer mechanisms we rely on), cookies or similar technologies, please contact our Data Protection Officer/Privacy Office by email at [privacy@netflix.com](mailto:privacy@netflix.com). Please visit our online help center at [help.netflix.com](https://help.netflix.com/) for more information about these topics.
@@ -79,45 +79,45 @@ Our legal basis for collecting and using the personal information described in t
 
 We disclose your information for certain purposes and to third parties, as described below:
 
-*   **The Netflix family of companies:** We share your information among the Netflix family of companies ([help.netflix.com/legal/corpinfo](https://help.netflix.com/legal/corpinfo)) as needed for: providing you with access to our services; providing customer support; making decisions about service improvements; content development; and for other purposes described in the Use of Information section of this Privacy Statement.
+* **The Netflix family of companies:** We share your information among the Netflix family of companies ([help.netflix.com/legal/corpinfo](https://help.netflix.com/legal/corpinfo)) as needed for: providing you with access to our services; providing customer support; making decisions about service improvements; content development; and for other purposes described in the Use of Information section of this Privacy Statement.
     
-*   **Service Providers:** We use other companies, agents or contractors ("Service Providers") to perform services on our behalf or to assist us with the provision of services to you. For example, we engage Service Providers to provide marketing, advertising, communications, security, infrastructure and IT services, to customize, personalize and optimize our service, to provide bank account or balance information, to process credit card transactions or other payment methods, to provide customer service, to analyze and enhance data (including data about users' interactions with our service), and to process and administer consumer surveys. In the course of providing such services, these Service Providers may have access to your personal or other information. We do not authorize them to use or disclose your personal information except in connection with providing their services (which includes maintaining and improving their services).
+* **Service Providers:** We use other companies, agents or contractors ("Service Providers") to perform services on our behalf or to assist us with the provision of services to you. For example, we engage Service Providers to provide marketing, advertising, communications, security, infrastructure and IT services, to customize, personalize and optimize our service, to provide bank account or balance information, to process credit card transactions or other payment methods, to provide customer service, to analyze and enhance data (including data about users' interactions with our service), and to process and administer consumer surveys. In the course of providing such services, these Service Providers may have access to your personal or other information. We do not authorize them to use or disclose your personal information except in connection with providing their services (which includes maintaining and improving their services).
     
-*   **Partners:** As described above, you may have a relationship with one or more of our Partners, in which case we may share certain information with them in order to coordinate with them on providing the Netflix service to members and providing information about the availability of the Netflix service. For example, depending on what Partner services you use, we may share information:
+* **Partners:** As described above, you may have a relationship with one or more of our Partners, in which case we may share certain information with them in order to coordinate with them on providing the Netflix service to members and providing information about the availability of the Netflix service. For example, depending on what Partner services you use, we may share information:
     
-    *   in order to facilitate Partner pre-paid promotions or collection of payment for the Netflix service for distribution to us;
+    * in order to facilitate Partner pre-paid promotions or collection of payment for the Netflix service for distribution to us;
         
-    *   with Partners who operate voice assistant platforms that allow you to interact with our service using voice commands;
+    * with Partners who operate voice assistant platforms that allow you to interact with our service using voice commands;
         
-    *   so that content and features available in the Netflix service can be suggested to you in the Partner’s user interface. For members, these suggestions are part of the Netflix service and may include customized and personalized viewing recommendations.
+    * so that content and features available in the Netflix service can be suggested to you in the Partner’s user interface. For members, these suggestions are part of the Netflix service and may include customized and personalized viewing recommendations.
         
-*   **Promotional offers:** We may offer joint promotions or programs that, in order for your participation, will require us to share your information with third parties. In fulfilling these types of promotions, we may share your name and other information in connection with fulfilling the incentive. Please note that these third parties are responsible for their own privacy practices.
+* **Promotional offers:** We may offer joint promotions or programs that, in order for your participation, will require us to share your information with third parties. In fulfilling these types of promotions, we may share your name and other information in connection with fulfilling the incentive. Please note that these third parties are responsible for their own privacy practices.
     
-*   **Protection of Netflix and others:** Netflix and its Service Providers may disclose and otherwise use your personal and other information where we or they reasonably believe such disclosure is needed to (a) satisfy any applicable law, regulation, legal process, or governmental request, (b) enforce applicable terms of use, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address illegal or suspected illegal activities (including payment fraud), security or technical issues, or (d) protect against harm to the rights, property or safety of Netflix, its users or the public, as required or permitted by law.
+* **Protection of Netflix and others:** Netflix and its Service Providers may disclose and otherwise use your personal and other information where we or they reasonably believe such disclosure is needed to (a) satisfy any applicable law, regulation, legal process, or governmental request, (b) enforce applicable terms of use, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address illegal or suspected illegal activities (including payment fraud), security or technical issues, or (d) protect against harm to the rights, property or safety of Netflix, its users or the public, as required or permitted by law.
     
-*   **Business transfers:** In connection with any reorganization, restructuring, merger or sale, or other transfer of assets, we will transfer information, including personal information, provided that the receiving party agrees to respect your personal information in a manner that is consistent with our Privacy Statement.
+* **Business transfers:** In connection with any reorganization, restructuring, merger or sale, or other transfer of assets, we will transfer information, including personal information, provided that the receiving party agrees to respect your personal information in a manner that is consistent with our Privacy Statement.
     
 
 Whenever in the course of sharing information we transfer personal information to other countries, we will ensure that the information is transferred in accordance with this Privacy Statement and as permitted by the applicable laws on data protection.
 
 You may also choose to disclose your information in the following ways:
 
-*   certain portions of our service may contain a tool which gives you the option to share information by email, text message and social or other sharing applications, using the clients and applications on your smart device;
+* certain portions of our service may contain a tool which gives you the option to share information by email, text message and social or other sharing applications, using the clients and applications on your smart device;
     
-*   social plugins and similar technologies allow you to share information.
+* social plugins and similar technologies allow you to share information.
     
 
 Social plugins and social applications are operated by the social networks themselves, and are subject to their terms of use and privacy policies.
 
 ### Access to Account and Profiles
 
-*   **“Remember me” function:** For ease of access to your account, you can use the "Remember me on this device" function when you log in to the website. This function uses technology that enables us to provide direct account access and to help administer the Netflix service without requiring reentry of any password or other user identification when your browser revisits the service. 
+* **“Remember me” function:** For ease of access to your account, you can use the "Remember me on this device" function when you log in to the website. This function uses technology that enables us to provide direct account access and to help administer the Netflix service without requiring reentry of any password or other user identification when your browser revisits the service. 
     
-*   **Giving others access to your account:** If you share or otherwise allow others to have access to your account, they will be able to see shows you have watched, ratings, and account information (including your email address or other information in the "Account" area of our website). This remains true even if you use our profiles feature. You might have the option to use seamless account login through the Netflix mobile app, which enables login to the Netflix app on smart TVs, set top boxes, and other streaming media devices on the Wi-Fi network to which you are connected. If you use that feature, those devices will remain signed into your account unless you later log out of those devices. 
+* **Giving others access to your account:** If you share or otherwise allow others to have access to your account, they will be able to see shows you have watched, ratings, and account information (including your email address or other information in the "Account" area of our website). This remains true even if you use our profiles feature. You might have the option to use seamless account login through the Netflix mobile app, which enables login to the Netflix app on smart TVs, set top boxes, and other streaming media devices on the Wi-Fi network to which you are connected. If you use that feature, those devices will remain signed into your account unless you later log out of those devices. 
     
-*   **Profiles:** Profiles allow users to have a distinct, personalized Netflix experience, built around the movies and shows of interest to them, as well as separate watch histories. Please note that profiles are available to everyone who uses your Netflix account, so that anyone with access to your Netflix account can navigate to and use, edit or delete profiles. You should explain this to others with access to your account, and if you do not wish them to use or change your profile, be sure to let them know. Profile users may be offered the opportunity to add an email address, phone number or other information to the profile and will be provided with notice of collection and use at the time such information is requested (the Profile Privacy Notice applies ([help.netflix.com/legal/profileprivacy](https://help.netflix.com/legal/profileprivacy))). 
+* **Profiles:** Profiles allow users to have a distinct, personalized Netflix experience, built around the movies and shows of interest to them, as well as separate watch histories. Please note that profiles are available to everyone who uses your Netflix account, so that anyone with access to your Netflix account can navigate to and use, edit or delete profiles. You should explain this to others with access to your account, and if you do not wish them to use or change your profile, be sure to let them know. Profile users may be offered the opportunity to add an email address, phone number or other information to the profile and will be provided with notice of collection and use at the time such information is requested (the Profile Privacy Notice applies ([help.netflix.com/legal/profileprivacy](https://help.netflix.com/legal/profileprivacy))). 
     
-*   **Removing device access to your Netflix account:** To remove access to your Netflix account from your devices: (a) visit the "Account" section of our website, choose "Sign out of all devices," and follow the instructions to deactivate your devices (note, deactivation may not occur immediately) or (b) delete your Netflix settings from your device (steps vary by device and the option is not available on all devices). Where possible, users of public or shared devices should log out at the completion of each visit. If you sell or return a computer or Netflix ready device, you should log out and deactivate the device before doing so. If you do not maintain the security of your password or device, or fail to log out or deactivate your device, subsequent users may be able to access your account, including your personal information.
+* **Removing device access to your Netflix account:** To remove access to your Netflix account from your devices: (a) visit the "Account" section of our website, choose "Sign out of all devices," and follow the instructions to deactivate your devices (note, deactivation may not occur immediately) or (b) delete your Netflix settings from your device (steps vary by device and the option is not available on all devices). Where possible, users of public or shared devices should log out at the completion of each visit. If you sell or return a computer or Netflix ready device, you should log out and deactivate the device before doing so. If you do not maintain the security of your password or device, or fail to log out or deactivate your device, subsequent users may be able to access your account, including your personal information.
     
 
 ### Your Choices
@@ -178,11 +178,11 @@ We use these types of technologies for various reasons, like making it easy to a
 
 To help you better understand how we use cookies and resettable device identifiers, please see the information below:
 
-*   **Essential cookies:** These cookies are strictly necessary to provide our website or online service. For example, we and our Service Providers may use these cookies to authenticate and identify our members when they use our websites and applications so we can provide our service to them. They also help us to enforce our Terms of Use, prevent fraud and maintain the security of our service. 
+* **Essential cookies:** These cookies are strictly necessary to provide our website or online service. For example, we and our Service Providers may use these cookies to authenticate and identify our members when they use our websites and applications so we can provide our service to them. They also help us to enforce our Terms of Use, prevent fraud and maintain the security of our service. 
     
-*   **Performance and functionality cookies:** These cookies help us to customize and enhance your online experience with Netflix. For example, they help us to remember your preferences and prevent you from needing to re-enter information you previously provided (for example, during member sign up). We also use these cookies to collect information (such as popular pages, conversion rates, viewing patterns, click-through and other information) about our visitors' use of the Netflix service so that we can enhance and personalize our website and service and conduct market research. Deletion of these types of cookies may result in limited functionality of our service. 
+* **Performance and functionality cookies:** These cookies help us to customize and enhance your online experience with Netflix. For example, they help us to remember your preferences and prevent you from needing to re-enter information you previously provided (for example, during member sign up). We also use these cookies to collect information (such as popular pages, conversion rates, viewing patterns, click-through and other information) about our visitors' use of the Netflix service so that we can enhance and personalize our website and service and conduct market research. Deletion of these types of cookies may result in limited functionality of our service. 
     
-*   **Advertising cookies and resettable device identifiers:** These cookies and resettable device identifiers use information about your use of this and other websites and apps, your response to ads and emails, and to deliver ads that are more relevant to you and for analytics and optimization purposes. These types of ads are called "interest-based advertising." The advertising cookies associated with our service belong to our Service Providers. 
+* **Advertising cookies and resettable device identifiers:** These cookies and resettable device identifiers use information about your use of this and other websites and apps, your response to ads and emails, and to deliver ads that are more relevant to you and for analytics and optimization purposes. These types of ads are called "interest-based advertising." The advertising cookies associated with our service belong to our Service Providers. 
     
 
 In connection with our use of these technologies, some of the websites and apps where we advertise, as well as advertising technology companies that we use to purchase, deliver, optimize, and/or measure our advertisements (collectively “Advertising Partners”), may receive limited information from us as part of our campaign targeting, measurement, and optimization (e.g., steps completed in sign-up and site visit or app open/install information).
@@ -205,7 +205,7 @@ To opt out of interest-based ads from Netflix in connection with a resettable de
 
 Netflix supports the following self-regulatory programs, which provide additional privacy choices for interest-based advertising: 
 
-*   In Europe: [European Interactive Digital Advertising Alliance (EDAA)](http://www.youronlinechoices.com/) 
+* In Europe: [European Interactive Digital Advertising Alliance (EDAA)](http://www.youronlinechoices.com/) 
     
 
 **To exercise choice regarding other technologies**
