@@ -9,17 +9,17 @@ This "Privacy Policy" explains what information we gather from our users and how
 
 Webs is not intended for children under 13 years of age. Consistent with the Federal Children's Online Privacy Protection Act of 1998 ("COPPA"), we will never knowingly gather or use personally identifiable information from anyone under the age of 13, and we do not allow anyone under the age of 13 to register on Webs.
 
-*   [What information does Webs gather?](#whatGather)
-*   [Why does Webs gather information about me?](#whyGather)
-*   [How will Websites and Applications on Webs treat my information?](#howGather)
-*   [What are cookies?](#whatAreCookies)
-*   [What about third party advertisers and links?](#whatAdvertisers)
-*   [How secure is my information?](#howSecure)
-*   [How private is the Content I upload?](#howPrivate)
-*   [What control do I have over my information?](#whatControl)
-*   [How is information shared?](#howShared)
-*   [How am I notified of changes to this Privacy Policy?](#howNotified)
-*   [Who can I contact about this Privacy Policy?](#whoContact)
+* [What information does Webs gather?](#whatGather)
+* [Why does Webs gather information about me?](#whyGather)
+* [How will Websites and Applications on Webs treat my information?](#howGather)
+* [What are cookies?](#whatAreCookies)
+* [What about third party advertisers and links?](#whatAdvertisers)
+* [How secure is my information?](#howSecure)
+* [How private is the Content I upload?](#howPrivate)
+* [What control do I have over my information?](#whatControl)
+* [How is information shared?](#howShared)
+* [How am I notified of changes to this Privacy Policy?](#howNotified)
+* [Who can I contact about this Privacy Policy?](#whoContact)
 
 ##### What information does Webs gather?
 
@@ -27,13 +27,13 @@ Webs gathers and stores three types of information about users that are subject 
 
   
 
-*   Information users provide to us:  
+* Information users provide to us:  
     These are voluntary submissions made when creating an account on Webs or through your use of the Services, such as your name, date of birth, location and email address provided during registration, Content posted, or payment information provided during purchases. Please understand that when you sign into Webs or post Content, your information is not anonymous to us.  
     
-*   Information we collect when you interact with Webs:  
+* Information we collect when you interact with Webs:  
     We keep track of the actions you take on Webs, such as adding a friend, adding an application, or posting Content. Also, when you access our Services, we may collect information about your access method (such as hardware and software attributes), location, IP address, and pages you visit. In addition, we store certain information from your browser using "cookies". (For more on cookies, please see the section "What are cookies?")  
     
-*   Information we receive from third parties:  
+* Information we receive from third parties:  
     We do not own or operate the third-party applications, user websites and other services offered that you may use or interact with through Webs (collectively, "Webs-enhanced" applications, websites and services). Whenever you visit, use or interact with a Webs-enhanced application, website or service, we will receive information from them, including information about actions you take and Content you post on that application, website or service.
 
 ##### Why does Webs gather information about me?
@@ -44,13 +44,13 @@ Webs collects information in order to provide a safe, efficient and customized e
 
 As mentioned above, we do not own or operate Webs-enhanced applications, websites and services. We take steps to ensure that providers of Webs-enhanced applications, websites and services use information that you share on Webs in a manner consistent with your privacy settings and the terms of this Privacy Policy, but we cannot guarantee that they will follow our rules. Please take the time to familiarize yourself with the privacy settings of your account, as well as the settings and policies of the applications, websites and services that you visit, add or use on Webs. Here are some specific things to remember:
 
-*   By visiting or becoming a Member of a Website on Webs, the Content and information you provide during the registration process (including your email address) and other interactions with the Website may be accessed by the Website Creator and their authorized representatives and administrators, as well as any Application Developer whose Applications run on that Website.
-*   By adding or using an Application or a service provided by one of our affiliates or business partners, the information you provide in the interactions with that Application or service may be accessed by the respective Application Developer, affiliate or business partner and their authorized representatives.
-*   Although certain categories of profile information (such as your birthdate) have privacy settings, others (such as your name, gender, profile photo, geographic region, list of friends, list of websites you have joined) are considered publicly available and have no privacy settings associated with them.
-*   Even after you remove information from your profile or delete your account, copies of that information may remain viewable elsewhere to the extent it has been shared with others, it was otherwise distributed pursuant to your privacy settings or privacy settings of the Website(s) or Application(s) you used, or it was copied or stored by other users.
-*   Certain types of communications you send to other users cannot be removed, such as messages.
-*   When you post information on a Website, that information is subject to that Website's privacy settings and privacy policy, which may change from time to time.
-*   Publicly available information may be accessed by everyone on the Internet, including third-party search engines that may index, cache and store that information.
+* By visiting or becoming a Member of a Website on Webs, the Content and information you provide during the registration process (including your email address) and other interactions with the Website may be accessed by the Website Creator and their authorized representatives and administrators, as well as any Application Developer whose Applications run on that Website.
+* By adding or using an Application or a service provided by one of our affiliates or business partners, the information you provide in the interactions with that Application or service may be accessed by the respective Application Developer, affiliate or business partner and their authorized representatives.
+* Although certain categories of profile information (such as your birthdate) have privacy settings, others (such as your name, gender, profile photo, geographic region, list of friends, list of websites you have joined) are considered publicly available and have no privacy settings associated with them.
+* Even after you remove information from your profile or delete your account, copies of that information may remain viewable elsewhere to the extent it has been shared with others, it was otherwise distributed pursuant to your privacy settings or privacy settings of the Website(s) or Application(s) you used, or it was copied or stored by other users.
+* Certain types of communications you send to other users cannot be removed, such as messages.
+* When you post information on a Website, that information is subject to that Website's privacy settings and privacy policy, which may change from time to time.
+* Publicly available information may be accessed by everyone on the Internet, including third-party search engines that may index, cache and store that information.
 
 You should always review the policies of third party websites, applications and services to make sure you are comfortable with the ways in which they use information you share with them. Any information you share with them is at your own risk. If you find an application, website or service that violates our rules, you should report the violation to us using this [automated form](https://www.webs.com/report-abuse), and we reserve the right to take action as we deem appropriate without assuming any obligation or liability to do so.
 
@@ -66,9 +66,9 @@ In the course of serving advertisements on Webs, a third-party advertiser may pl
 
 Ads appearing on this website, Webs, and sites hosted by Webs may be delivered to you by Google Ad Manager, DoubleClick, or other advertising partners. Information about your visits to this site, such as the number of times you have viewed an ad (but not your name, address or other personal information), is used to serve ads to you. For more information about these partners, their cookies, and how to "opt-out," please follow the links below.
 
-*   [Network Advertising Initiative (NAI)](https://www.networkadvertising.org/managing/opt_out.asp)
-*   [Google Ad Manager](https://www.google.com/admanager/policies/en_US/index.html)
-*   [DoubleClick](https://www.doubleclick.com/privacy/index.aspx)
+* [Network Advertising Initiative (NAI)](https://www.networkadvertising.org/managing/opt_out.asp)
+* [Google Ad Manager](https://www.google.com/admanager/policies/en_US/index.html)
+* [DoubleClick](https://www.doubleclick.com/privacy/index.aspx)
 
 ##### How secure is my information?
 
