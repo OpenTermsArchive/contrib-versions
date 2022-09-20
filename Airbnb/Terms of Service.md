@@ -136,11 +136,11 @@ Our mission is to create a world where you can belong anywhere. From cabins to c
 
 **6.3 Search Ranking**. The ranking of Listings in search results on the Airbnb Platform depends on a variety of factors, including these main parameters:
 
-*   Guest search parameters (e.g. number of Guests, time and duration of the trip, price range),
-*   Listing characteristics (e.g. price, calendar availability, number and quality of images, Reviews, type of Host Service, host status, age of the Listing, average Guest popularity),
-*   Guest booking experience (e.g. customer service and cancellation history of the Host, ease of booking),
-*   Host requirements (e.g. minimum or maximum nights, booking cut-off time), and
-*   Guest preferences (e.g. previous trips, saved Listings, location from where the Guest is searching).
+* Guest search parameters (e.g. number of Guests, time and duration of the trip, price range),
+* Listing characteristics (e.g. price, calendar availability, number and quality of images, Reviews, type of Host Service, host status, age of the Listing, average Guest popularity),
+* Guest booking experience (e.g. customer service and cancellation history of the Host, ease of booking),
+* Host requirements (e.g. minimum or maximum nights, booking cut-off time), and
+* Guest preferences (e.g. previous trips, saved Listings, location from where the Guest is searching).
 
 Search results may appear different on our mobile application than they appear on our website. Airbnb may allow Hosts to promote their Listings in search or elsewhere on the Airbnb Platform by paying an additional fee. More information about the factors that determine how your Listing appears in search results, our current promotional programs (if any) and how we identify promoted Content can be found in our [Help Center](https://www.airbnb.co.uk/help/article/39/what-factors-determine-how-my-listing-appears-in-search-results).
 
@@ -181,36 +181,36 @@ Airbnb may charge fees (and applicable Taxes) to Hosts and Guests for the right 
 
 **12.1 Rules**. You must follow these rules and must not help or induce others to break or circumvent these rules.
 
-*   Act with integrity and treat others with respect
-    *   Do not lie, misrepresent something or someone, or pretend to be someone else.
-    *   Be polite and respectful when you communicate or interact with others.
-    *   Follow our [Nondiscrimination Policy](https://www.airbnb.co.uk/terms/nondiscrimination_policy) and do not discriminate against or harass others.
-*   Do not scrape, hack, reverse engineer, compromise or impair the Airbnb Platform
-    *   Do not use bots, crawlers, scrapers or other automated means to access or collect data or other content from or otherwise interact with the Airbnb Platform.
-    *   Do not hack, avoid, remove, impair, or otherwise attempt to circumvent any security or technological measure used to protect the Airbnb Platform or Content.
-    *   Do not decipher, decompile, disassemble or reverse engineer any of the software or hardware used to provide the Airbnb Platform.
-    *   Do not take any action that could damage or adversely affect the performance or proper functioning of the Airbnb Platform.
-*   Only use the Airbnb Platform as authorized by these Terms or another agreement with us
-    *   You may only use another Member’s personal information as necessary to facilitate a transaction using the Airbnb Platform as authorized by these Terms.
-    *   Do not use the Airbnb Platform, our messaging tools, or Members’ personal information to send commercial messages without their express consent.
-    *   You may use Content made available through the Airbnb Platform solely as necessary to enable your use of the Airbnb Platform as a Guest or Host.
-    *   Do not use Content unless you have permission from the Content owner or the use is authorized by us in these Terms or another agreement you have with us.
-    *   Do not request, make or accept a booking or any payment outside of the Airbnb Platform to avoid paying fees, taxes or for any other reason. See our [Offline Fee Policy](https://www.airbnb.co.uk/help/article/2827/what-is-the-airbnb-policy-for-collecting-fees-in-person) for exceptions.
-    *   Do not require or encourage Guests to open an account, leave a review, or otherwise interact, with a third party website, application or service before, during or after a reservation, unless authorized by Airbnb.
-    *   Do not engage in any practices that are intended to manipulate our search algorithm.
-    *   Do not book Host Services unless you are actually using the Host Services.
-    *   Do not use, copy, display, mirror or frame the Airbnb Platform, any Content, any Airbnb branding, or any page layout or design without our consent.
-*   Honor your legal obligations
-    *   Understand and follow the laws that apply to you, including privacy, data protection, and export laws.
-    *   If you provide us with someone else’s personal information, you: (i) must do so in compliance with applicable law, (ii) must be authorized to do so, and (iii) authorize us to process that information under our [Privacy Policy](https://www.airbnb.co.uk/terms/privacy_policy).
-    *   Read and follow our Terms, [](https://www.airbnb.co.uk/help/feature/1/)[Additional Legal Terms](https://www.airbnb.co.uk/help/feature/2/), [Policies](https://www.airbnb.co.uk/help/feature/1/) and [Standards](https://www.airbnb.co.uk/standards).
+* Act with integrity and treat others with respect
+    * Do not lie, misrepresent something or someone, or pretend to be someone else.
+    * Be polite and respectful when you communicate or interact with others.
+    * Follow our [Nondiscrimination Policy](https://www.airbnb.co.uk/terms/nondiscrimination_policy) and do not discriminate against or harass others.
+* Do not scrape, hack, reverse engineer, compromise or impair the Airbnb Platform
+    * Do not use bots, crawlers, scrapers or other automated means to access or collect data or other content from or otherwise interact with the Airbnb Platform.
+    * Do not hack, avoid, remove, impair, or otherwise attempt to circumvent any security or technological measure used to protect the Airbnb Platform or Content.
+    * Do not decipher, decompile, disassemble or reverse engineer any of the software or hardware used to provide the Airbnb Platform.
+    * Do not take any action that could damage or adversely affect the performance or proper functioning of the Airbnb Platform.
+* Only use the Airbnb Platform as authorized by these Terms or another agreement with us
+    * You may only use another Member’s personal information as necessary to facilitate a transaction using the Airbnb Platform as authorized by these Terms.
+    * Do not use the Airbnb Platform, our messaging tools, or Members’ personal information to send commercial messages without their express consent.
+    * You may use Content made available through the Airbnb Platform solely as necessary to enable your use of the Airbnb Platform as a Guest or Host.
+    * Do not use Content unless you have permission from the Content owner or the use is authorized by us in these Terms or another agreement you have with us.
+    * Do not request, make or accept a booking or any payment outside of the Airbnb Platform to avoid paying fees, taxes or for any other reason. See our [Offline Fee Policy](https://www.airbnb.co.uk/help/article/2827/what-is-the-airbnb-policy-for-collecting-fees-in-person) for exceptions.
+    * Do not require or encourage Guests to open an account, leave a review, or otherwise interact, with a third party website, application or service before, during or after a reservation, unless authorized by Airbnb.
+    * Do not engage in any practices that are intended to manipulate our search algorithm.
+    * Do not book Host Services unless you are actually using the Host Services.
+    * Do not use, copy, display, mirror or frame the Airbnb Platform, any Content, any Airbnb branding, or any page layout or design without our consent.
+* Honor your legal obligations
+    * Understand and follow the laws that apply to you, including privacy, data protection, and export laws.
+    * If you provide us with someone else’s personal information, you: (i) must do so in compliance with applicable law, (ii) must be authorized to do so, and (iii) authorize us to process that information under our [Privacy Policy](https://www.airbnb.co.uk/terms/privacy_policy).
+    * Read and follow our Terms, [](https://www.airbnb.co.uk/help/feature/1/)[Additional Legal Terms](https://www.airbnb.co.uk/help/feature/2/), [Policies](https://www.airbnb.co.uk/help/feature/1/) and [Standards](https://www.airbnb.co.uk/standards).
 
-*   Do not organize or facilitate unauthorized parties or events. You are responsible and liable for any party or event during your reservation that violates our [rules for parties and events](https://www.airbnb.co.uk/help/article/2704/what-are-airbnbs-rules-for-parties-and-events-at-listings), as incorporated by reference herein.
+* Do not organize or facilitate unauthorized parties or events. You are responsible and liable for any party or event during your reservation that violates our [rules for parties and events](https://www.airbnb.co.uk/help/article/2704/what-are-airbnbs-rules-for-parties-and-events-at-listings), as incorporated by reference herein.
 
-*   Do not use the name, logo, branding, or trademarks of Airbnb or others without permission.
-*   Do not use or register any domain name, social media handle, trade name, trademark, branding, logo or other source identifier that may be confused with Airbnb branding.
-*   Do not offer Host Services that violate the laws or agreements that apply to you.
-*   Do not offer or solicit prostitution or participate in or facilitate human trafficking.
+* Do not use the name, logo, branding, or trademarks of Airbnb or others without permission.
+* Do not use or register any domain name, social media handle, trade name, trademark, branding, logo or other source identifier that may be confused with Airbnb branding.
+* Do not offer Host Services that violate the laws or agreements that apply to you.
+* Do not offer or solicit prostitution or participate in or facilitate human trafficking.
 
 **12.2 Reporting Violations**. If you believe that a Member, Listing or Content poses an imminent risk of harm to a person or property, you should immediately contact local authorities before contacting Airbnb. In addition, if you believe that a Member, Listing or Content has violated our [Standards](https://www.airbnb.co.uk/standards), you should report your concerns to Airbnb. If you reported an issue to local authorities, Airbnb may request a copy of that report. Except as required by law, we are not obligated to take action in response to any report.
 
@@ -224,10 +224,10 @@ Airbnb may charge fees (and applicable Taxes) to Hosts and Guests for the right 
 
 **13.3 Member Violations**. If (i) you breach these Terms, our [](https://www.airbnb.co.uk/help/topic/250/terms---policies)[](https://www.airbnb.co.uk/help/topic/250/terms---policies)[Additional Legal Terms](https://www.airbnb.co.uk/help/feature/2/), [Policies](https://www.airbnb.co.uk/help/feature/1/), or our [Standards](https://www.airbnb.co.uk/standards), (ii) you violate applicable laws, regulations or third party rights, (iii) you have repeatedly received poor Reviews or Airbnb otherwise becomes aware of or has received complaints about your performance or conduct, (vi) you have repeatedly cancelled confirmed bookings or failed to respond to booking requests without a valid reason, or (vii) such action is necessary to protect the personal safety or property of Airbnb, its Members, or third parties, Airbnb may:
 
-*   suspend or limit your access to or use of the Airbnb Platform and/or your account;
-*   suspend or remove Listings, Reviews, or other Content;
-*   cancel pending or confirmed bookings; or
-*   suspend or revoke any special status associated with your account.
+* suspend or limit your access to or use of the Airbnb Platform and/or your account;
+* suspend or remove Listings, Reviews, or other Content;
+* cancel pending or confirmed bookings; or
+* suspend or revoke any special status associated with your account.
 
 In case of non-material violations or where otherwise appropriate, you will be given notice of any intended measure by Airbnb and an opportunity to resolve the issue, unless such notification would (i) prevent or impede the detection or prevention of fraud or other illegal activities, (ii) harm the legitimate interests of other Members or third parties, or (iii) contravene applicable laws.
 
