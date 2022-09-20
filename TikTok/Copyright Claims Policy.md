@@ -60,11 +60,11 @@ If you receive a copyright infringement notification and believe that you have t
 
 Under EU law, users are allowed to use copyright works without the authorization of the copyright holder for quotation, criticism, review and for the purpose of caricature, parody or pastiche provided that such use is fair. EU countries may also provide for additional exceptions. See below some further information about the exceptions and limitations to copyright available in the EU:
 
-*   **_Quotation, criticism and review_**
+* **_Quotation, criticism and review_**
 
 Quotation is the use of an extract from a copyright-protected work for purposes such as illustrating an assertion, defending an opinion or engaging in debate. Quotations may also be used for the purposes of criticising a copyrighted work (e.g. critical commentary on a movie) or reviewing one (e.g. reviewing a book or an album).
 
-*   **_Caricature, parody and pastiche_**
+* **_Caricature, parody and pastiche_**
 
 Caricatures aim at exaggerating or distorting reality, usually for humorous purposes. A parody will evoke an existing copyrighted work while being noticeably different from it and should constitute an expression of humor or mockery. A pastiche will usually incorporate distinctive elements from other works or styles into a new work.
 
@@ -111,25 +111,25 @@ As a TikTok user, you are responsible for the content you post. If you have ques
 Additional languages (please also see the language settings for other available languages)
 ------------------------------------------------------------------------------------------
 
-*   Bulgarian: [български](https://www.tiktok.com/legal/bul-ip-policy-eea?lang=en)  
+* Bulgarian: [български](https://www.tiktok.com/legal/bul-ip-policy-eea?lang=en)  
     
 
-*   Croatian: [Cruatu](https://www.tiktok.com/legal/hr-ip-policy-eea?lang=en)  
+* Croatian: [Cruatu](https://www.tiktok.com/legal/hr-ip-policy-eea?lang=en)  
     
 
-*   Danish: [Dansk](https://www.tiktok.com/legal/da-ip-policy-eea?lang=en)  
+* Danish: [Dansk](https://www.tiktok.com/legal/da-ip-policy-eea?lang=en)  
     
 
-*   Estonian: [Eesti keel](https://www.tiktok.com/legal/et-ip-policy-eea?lang=en)  
+* Estonian: [Eesti keel](https://www.tiktok.com/legal/et-ip-policy-eea?lang=en)  
     
 
-*   Latvian: [Latviski](https://www.tiktok.com/legal/lv-ip-policy-eea?lang=en)  
+* Latvian: [Latviski](https://www.tiktok.com/legal/lv-ip-policy-eea?lang=en)  
     
 
-*   Lithuanian: [Lietuvių](https://www.tiktok.com/legal/lt-ip-policy-eea?lang=en)  
+* Lithuanian: [Lietuvių](https://www.tiktok.com/legal/lt-ip-policy-eea?lang=en)  
     
 
-*   Norwegian: [Norsk](https://www.tiktok.com/legal/nb-ip-policy-eea?lang=en)  
+* Norwegian: [Norsk](https://www.tiktok.com/legal/nb-ip-policy-eea?lang=en)  
     
 
-*   Slovak: [Slovenský](https://www.tiktok.com/legal/sk-ip-policy-eea?lang=en)
+* Slovak: [Slovenský](https://www.tiktok.com/legal/sk-ip-policy-eea?lang=en)
