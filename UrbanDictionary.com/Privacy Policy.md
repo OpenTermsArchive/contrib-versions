@@ -3,29 +3,29 @@ Privacy Policy
 
 This privacy policy discloses:
 
-*   When and how we collect, use and share your information
-*   When and how third-party advertising networks might collect your information when you visit urbandictionary.com
-*   What your privacy rights are and how you can exercise them
+* When and how we collect, use and share your information
+* When and how third-party advertising networks might collect your information when you visit urbandictionary.com
+* What your privacy rights are and how you can exercise them
 
 Your use of Urban Dictionary is also subject to our [Terms of Service](https://about.urbandictionary.com/tos).
 
 Table of contents
 -----------------
 
-*   [The information we collect, in brief](#the_information_we_collect_in_brief)
-*   [How we use your information](#how_we_use_your_information)
-*   [When we share your information](#when_we_share_your_information)
-*   [The information we sell](#the_information_we_sell)
-*   [Your privacy rights](#your_privacy_rights)
-*   [Requests to know and requests to delete](#requests_to_know_and_requests_to_delete)
-*   [Your information sale opt-out right](#your_information_sale_opt_out_right)
-*   [Cookies and web beacons](#cookies_and_web_beacons)
-*   [Data storage](#data_storage)
-*   [Security](#security)
-*   [California consumer privacy disclosures](#california_consumer_privacy_disclosures)
-*   [Children](#children)
-*   [Changes](#changes)
-*   [Questions](#questions)
+* [The information we collect, in brief](#the_information_we_collect_in_brief)
+* [How we use your information](#how_we_use_your_information)
+* [When we share your information](#when_we_share_your_information)
+* [The information we sell](#the_information_we_sell)
+* [Your privacy rights](#your_privacy_rights)
+* [Requests to know and requests to delete](#requests_to_know_and_requests_to_delete)
+* [Your information sale opt-out right](#your_information_sale_opt_out_right)
+* [Cookies and web beacons](#cookies_and_web_beacons)
+* [Data storage](#data_storage)
+* [Security](#security)
+* [California consumer privacy disclosures](#california_consumer_privacy_disclosures)
+* [Children](#children)
+* [Changes](#changes)
+* [Questions](#questions)
 
 The information we collect, in brief
 ------------------------------------
@@ -42,10 +42,10 @@ When we share your information
 
 We do not share or sell your information to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances:
 
-*   If it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Terms of Service, or as required by law.
-*   If Urban Dictionary is acquired by or merged with another company, we will transfer your information along with the Urban Dictionary website. Should this happen, Urban Dictionary will provide advance notice of the transfer and of resulting changes to these terms on the Urban Dictionary website and, where possible, by email.
-*   We may provide such information to trusted businesses or persons for the sole purpose of processing personally identifying information on our behalf. When this is done, it is subject to agreements that oblige those parties to process such information only on our instructions and in compliance with this Privacy Policy and appropriate confidentiality and security measures.
-*   We may provide such information to a company controlled by, or under common control with, Urban Dictionary for any purpose permitted by this Privacy Policy.
+* If it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Terms of Service, or as required by law.
+* If Urban Dictionary is acquired by or merged with another company, we will transfer your information along with the Urban Dictionary website. Should this happen, Urban Dictionary will provide advance notice of the transfer and of resulting changes to these terms on the Urban Dictionary website and, where possible, by email.
+* We may provide such information to trusted businesses or persons for the sole purpose of processing personally identifying information on our behalf. When this is done, it is subject to agreements that oblige those parties to process such information only on our instructions and in compliance with this Privacy Policy and appropriate confidentiality and security measures.
+* We may provide such information to a company controlled by, or under common control with, Urban Dictionary for any purpose permitted by this Privacy Policy.
 
 More details are available in the [California consumer privacy disclosures](#california_consumer_privacy_disclosures) section of this policy.
 
@@ -59,20 +59,20 @@ Your privacy rights
 
 Urban Dictionary is in the process of extending consumer rights under the California Consumer Privacy Act to all our users. California users have the following rights concerning the information we collect:
 
-*   The right to request disclosure of the kinds of personal information and the specific pieces of personal information that we have collected about you. We will consider and verify your request in accordance with California regulations before disclosing any personal information.
-*   The right to be informed about the information we collect about you. We detail all our information collection practices in this privacy policy.
-*   The right to request deletion of any personal information we collect about you. We will consider and verify your request in accordance with California regulations before deleting any personal information.
-*   The right to know how and when we disclose or sell your personal information.
-*   The right to opt out of the sale of your personal information.
-*   The right to exercise the above rights without facing retaliatory discrimination.
+* The right to request disclosure of the kinds of personal information and the specific pieces of personal information that we have collected about you. We will consider and verify your request in accordance with California regulations before disclosing any personal information.
+* The right to be informed about the information we collect about you. We detail all our information collection practices in this privacy policy.
+* The right to request deletion of any personal information we collect about you. We will consider and verify your request in accordance with California regulations before deleting any personal information.
+* The right to know how and when we disclose or sell your personal information.
+* The right to opt out of the sale of your personal information.
+* The right to exercise the above rights without facing retaliatory discrimination.
 
 Requests to know and requests to delete
 ---------------------------------------
 
 You may request disclosure and/or deletion of any information we have collected about you by either:
 
-*   filling out the form available [here](https://privacyportal.cookiepro.com/webform/1f3ee98b-8600-4aae-954a-cf9d215eb0ab/4419f43d-8c61-4ba7-9b40-58e2c4cc5fc8), or
-*   emailing us with the details of your request at [support@urbandictionary.com](mailto:support@urbandictionary.com)
+* filling out the form available [here](https://privacyportal.cookiepro.com/webform/1f3ee98b-8600-4aae-954a-cf9d215eb0ab/4419f43d-8c61-4ba7-9b40-58e2c4cc5fc8), or
+* emailing us with the details of your request at [support@urbandictionary.com](mailto:support@urbandictionary.com)
 
 We will be in touch after receiving your request to verify your identity and to process your request. Please note that requests are considered on a case-by-case basis and are subject to legal requirements and adequate identity verification.
 
@@ -112,11 +112,11 @@ California law requires we disclose our information collection and use practices
 |     |     |     |     |
 | --- | --- | --- | --- |
 | Category of Personal Information | What we collect | How we use it | How we disclose it |
-| Identifiers (names, aliases, addresses, etc.) | *   The IP addresses of visitors and logged-in users.<br>*   For logged-in users, the pseudonym or handle of your choosing<br>*   For logged-in users, your email address<br>*   Information you send to us (for example, if/when you email us, or if you purchase an item from our store) | *   We use account information to allow users to post definitions under the handle of their choosing.<br>*   We use contact information to contact our users about our website and services.<br>*   We use visitor IP addresses to analyze trends among our users and to help improve and secure our website.<br>*   We use identification information to help secure our website and enforce our terms of service | We disclose account information as is reasonably necessary to authenticate your account, and other identifiers where needed to process a sale from our store.  <br>  <br>Otherwise, we do not disclose this information except where required by law or where reasonably necessary to secure our website or enforce our terms of service.  <br>  <br>Ad Partners may collect IP address information from visitors. |
+| Identifiers (names, aliases, addresses, etc.) | * The IP addresses of visitors and logged-in users.<br>* For logged-in users, the pseudonym or handle of your choosing<br>* For logged-in users, your email address<br>* Information you send to us (for example, if/when you email us, or if you purchase an item from our store) | * We use account information to allow users to post definitions under the handle of their choosing.<br>* We use contact information to contact our users about our website and services.<br>* We use visitor IP addresses to analyze trends among our users and to help improve and secure our website.<br>* We use identification information to help secure our website and enforce our terms of service | We disclose account information as is reasonably necessary to authenticate your account, and other identifiers where needed to process a sale from our store.  <br>  <br>Otherwise, we do not disclose this information except where required by law or where reasonably necessary to secure our website or enforce our terms of service.  <br>  <br>Ad Partners may collect IP address information from visitors. |
 | Protected classification (like race, sex, or national origin) | We do not collect this information. | N/A | N/A |
-| Commercial information | *   Your purchase history from the Urban Dictionary store<br>*   Personal details required to complete transactions on the Urban Dictionary Store | We use this information to complete transactions at our store, as well as to improve the service and maintain its security. | We may disclose this information to trusted third party processors in order to process your transactions. |
+| Commercial information | * Your purchase history from the Urban Dictionary store<br>* Personal details required to complete transactions on the Urban Dictionary Store | We use this information to complete transactions at our store, as well as to improve the service and maintain its security. | We may disclose this information to trusted third party processors in order to process your transactions. |
 | Biometric information | We do not collect this information. | N/A | N/A |
-| Network activity | *   Internet service providers’ names<br>*   web browser types<br>*   mobile device types<br>*   computer operating system information<br>*   data about browsing activity when using our website<br>*   search data on our website | We use this information to analyze trends among our users and to help improve and secure our website. | We do not disclose this information except where required by law or where reasonably necessary to secure our website or enforce our terms of service.  <br>  <br>Ad Partners may collect similar information from visitors. |
+| Network activity | * Internet service providers’ names<br>* web browser types<br>* mobile device types<br>* computer operating system information<br>* data about browsing activity when using our website<br>* search data on our website | We use this information to analyze trends among our users and to help improve and secure our website. | We do not disclose this information except where required by law or where reasonably necessary to secure our website or enforce our terms of service.  <br>  <br>Ad Partners may collect similar information from visitors. |
 | Geolocation data | IP addresses | We use this information to analyze trends among our users and to help improve and secure our website. | We do not disclose this information except where required by law or where reasonably necessary to secure our website or enforce our terms of service.  <br>  <br>Ad Partners may collect similar information from visitors. |
 | Audio/electronic/visual/thermal/olfactory/similar | We do not collect this information. | N/A | N/A |
 | Professional or employment-related information | We do not collect this information. | N/A | N/A |
