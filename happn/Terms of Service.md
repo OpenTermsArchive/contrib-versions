@@ -231,7 +231,7 @@ The Member must have access to a secure email account. If such a precaution is n
 
 HAPPN shall also endeavor to avert Members of any exceptional risk of receiving spam Messages or Messages claiming to have been sent by HAPPN. The Member must be attentive and vigilant in order to avoid being the victim of scams and report any of the above circumstances to HAPPN by sending a letter or email to the address provided in Article 16 hereof.
 
-**7.2 Illegal Conduct** 
+**7.2 Illegal Conduct**  
 
 HAPPN and its partners cannot be held liable for actions by its Members which are illegal or which incur criminal penalties, including but not limited to:
 
@@ -485,7 +485,7 @@ For the App Store: you must notify that you are exercising your right to withdra
 
 [https://www.apple.com/legal/internet-services/itunes/fr/terms.html](https://www.apple.com/legal/internet-services/itunes/fr/terms.html)
 
-**9.8** **Early Termination of the Contract by the Member or by HAPPN** 
+**9.8** **Early Termination of the Contract by the Member or by HAPPN** 
 
 In the event of breach of the TOS or a legal provision by the Member, HAPPN has the right to terminate the contract, effective immediately and without prejudice. HAPPN is not required to justify its decision to terminate to the Member.
 
@@ -619,8 +619,8 @@ The Member may uninstall the Application from his or her cell phone at any time 
 
 The Member may decide, at any time and without notice, to permanently delete his or her Account using one of the following means:
 
-*   By deleting it of his or her own accord from the Application, by going to the Settings of the application > My data > Delete my account.
-*   By sending a letter or email to HAPPN, whose postal address and email address are shown in Article 16 hereof. 
+* By deleting it of his or her own accord from the Application, by going to the Settings of the application > My data > Delete my account.
+* By sending a letter or email to HAPPN, whose postal address and email address are shown in Article 16 hereof. 
 
 Consequently, the Member’s profile will be permanently deleted, including the remaining Hellos, FlashNotes (if eligible), Video Calls or Boosts in his or her Account.
 
