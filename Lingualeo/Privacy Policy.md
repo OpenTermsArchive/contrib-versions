@@ -11,11 +11,11 @@ This Privacy Policy uses terms in the same way they are defined in the End-user 
 
 2\. The Website User (Licensee) can only give their personal data to the Website Owner (Licensor) **voluntarily**. In this case, the Website Owner is guided by this Provision in the collection, processing, and storage of the Website User’s personal data.
 
-3\. The Website Owner (Licensor) requests the following information for the Website user: 
+3\. The Website Owner (Licensor) requests the following information for the Website user:  
 
-*   email address – to create an account and for communication purposes
-*   contacts – for recommendation to friends
-*   data from the User’s Google account to fill out the User’s profile on the website.
+* email address – to create an account and for communication purposes
+* contacts – for recommendation to friends
+* data from the User’s Google account to fill out the User’s profile on the website.
 
 4\. By signing up on our Website and using our Website, You fully agree with the terms specified in this Provision.
 
