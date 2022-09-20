@@ -33,11 +33,11 @@ We may make changes to this Agreement and to the Service from time to time. We m
 
 You are not authorized to create an account or access or use the Service or systems it resides on unless all of the following are true:
 
-*   you are at least 18 years of age.
-*   you can form a binding contract with Tinder,
-*   you are not a person who is barred from using the Service under the laws of the United States or any other applicable jurisdiction (for example, you do not appear on the U.S. Treasury Department’s list of Specially Designated Nationals or face any other similar prohibition),
-*   you will comply with this Agreement and all applicable local, state, national and international laws, rules and regulations, and
-*   you have never been convicted of a felony or indictable offense (or crime of similar severity), a sex crime, or any crime involving violence, and that you are not required to register as a sex offender with any state, federal or local sex offender registry.
+* you are at least 18 years of age.
+* you can form a binding contract with Tinder,
+* you are not a person who is barred from using the Service under the laws of the United States or any other applicable jurisdiction (for example, you do not appear on the U.S. Treasury Department’s list of Specially Designated Nationals or face any other similar prohibition),
+* you will comply with this Agreement and all applicable local, state, national and international laws, rules and regulations, and
+* you have never been convicted of a felony or indictable offense (or crime of similar severity), a sex crime, or any crime involving violence, and that you are not required to register as a sex offender with any state, federal or local sex offender registry.
 
 3\. Your Account.
 -----------------
@@ -69,20 +69,20 @@ YOU ARE SOLELY RESPONSIBLE FOR YOUR INTERACTIONS WITH OTHER MEMBERS. YOU UNDERST
 
 Tinder grants you a personal, worldwide, royalty-free, non-assignable, nonexclusive, revocable, and non-sublicensable license to access and use the Service. This license is for the sole purpose of letting you use and enjoy the Service’s benefits as intended by Tinder and permitted by this Agreement. This license and any authorization to access the Service are automatically revoked in the event that you do any of the following:
 
-*   use the Service or any content contained in the Service for any commercial purposes without our written consent.
-*   copy, modify, transmit, create any derivative works from, make use of, or reproduce in any way any copyrighted material, images, trademarks, trade names, service marks, or other intellectual property, content or proprietary information accessible through the Service without Tinder’s prior written consent.
-*   express or imply that any statements you make are endorsed by Tinder.
-*   use any robot, bot, spider, crawler, scraper, site search/retrieval application, proxy or other manual or automatic device, method or process to access, retrieve, index, "data mine", or in any way reproduce or circumvent the navigational structure or presentation of the Service or its contents.
-*   use the Service in any way that could interfere with, disrupt or negatively affect the Service or the servers or networks connected to the Service.
-*   upload viruses or other malicious code or otherwise compromise the security of the Service.
-*   forge headers or otherwise manipulate identifiers in order to disguise the origin of any information transmitted to or through the Service.
-*   "frame" or "mirror" any part of the Service without Tinder’s prior written authorization.
-*   use meta tags or code or other devices containing any reference to Tinder or the Service (or any trademark, trade name, service mark, logo or slogan of Tinder) to direct any person to any other website for any purpose.
-*   modify, adapt, sublicense, translate, sell, reverse engineer, decipher, decompile or otherwise disassemble any portion of the Service, or cause others to do so.
-*   use or develop any third-party applications that interact with the Service or other members' Content or information without our written consent.
-*   use, access, or publish the Tinder application programming interface without our written consent.
-*   probe, scan or test the vulnerability of our Service or any system or network.
-*   encourage or promote any activity that violates this Agreement.
+* use the Service or any content contained in the Service for any commercial purposes without our written consent.
+* copy, modify, transmit, create any derivative works from, make use of, or reproduce in any way any copyrighted material, images, trademarks, trade names, service marks, or other intellectual property, content or proprietary information accessible through the Service without Tinder’s prior written consent.
+* express or imply that any statements you make are endorsed by Tinder.
+* use any robot, bot, spider, crawler, scraper, site search/retrieval application, proxy or other manual or automatic device, method or process to access, retrieve, index, "data mine", or in any way reproduce or circumvent the navigational structure or presentation of the Service or its contents.
+* use the Service in any way that could interfere with, disrupt or negatively affect the Service or the servers or networks connected to the Service.
+* upload viruses or other malicious code or otherwise compromise the security of the Service.
+* forge headers or otherwise manipulate identifiers in order to disguise the origin of any information transmitted to or through the Service.
+* "frame" or "mirror" any part of the Service without Tinder’s prior written authorization.
+* use meta tags or code or other devices containing any reference to Tinder or the Service (or any trademark, trade name, service mark, logo or slogan of Tinder) to direct any person to any other website for any purpose.
+* modify, adapt, sublicense, translate, sell, reverse engineer, decipher, decompile or otherwise disassemble any portion of the Service, or cause others to do so.
+* use or develop any third-party applications that interact with the Service or other members' Content or information without our written consent.
+* use, access, or publish the Tinder application programming interface without our written consent.
+* probe, scan or test the vulnerability of our Service or any system or network.
+* encourage or promote any activity that violates this Agreement.
 
 Tinder may investigate and take any available legal action in response to illegal or unauthorized uses of the Service, including termination of your account.
 
@@ -108,20 +108,20 @@ Please be informed that Tinder may access, store and disclose your account infor
 
 By using the Service, you agree that you will not:
 
-*   use the Service for any purpose that is illegal or prohibited by this Agreement.
-*   use the Service for any harmful or nefarious purpose
-*   use the Service in order to damage Tinder
-*   violate our [Community Guidelines](https://policies.tinder.com/community-guidelines), as updated from time to time.
-*   spam, solicit money from or defraud any members.
-*   impersonate any person or entity or post any images of another person without his or her permission.
-*   bully, "stalk", intimidate, assault, harass, mistreat or defame any person.
-*   post any Content that violates or infringes anyone's rights, including rights of publicity, privacy, copyright, trademark or other intellectual property or contract right.
-*   post any Content that is hate speech, threatening, sexually explicit or pornographic.
-*   post any Content that incites violence; or contains nudity or graphic or gratuitous violence.
-*   post any Content that promotes racism, bigotry, hatred or physical harm of any kind against any group or individual.
-*   solicit passwords for any purpose, or personal identifying information for commercial or unlawful purposes from other members or disseminate another person's personal information without his or her permission.
-*   use another member's account, share an account with another member, or maintain more than one account.
-*   create another account if we have already terminated your account, unless you have our permission.
+* use the Service for any purpose that is illegal or prohibited by this Agreement.
+* use the Service for any harmful or nefarious purpose
+* use the Service in order to damage Tinder
+* violate our [Community Guidelines](https://policies.tinder.com/community-guidelines), as updated from time to time.
+* spam, solicit money from or defraud any members.
+* impersonate any person or entity or post any images of another person without his or her permission.
+* bully, "stalk", intimidate, assault, harass, mistreat or defame any person.
+* post any Content that violates or infringes anyone's rights, including rights of publicity, privacy, copyright, trademark or other intellectual property or contract right.
+* post any Content that is hate speech, threatening, sexually explicit or pornographic.
+* post any Content that incites violence; or contains nudity or graphic or gratuitous violence.
+* post any Content that promotes racism, bigotry, hatred or physical harm of any kind against any group or individual.
+* solicit passwords for any purpose, or personal identifying information for commercial or unlawful purposes from other members or disseminate another person's personal information without his or her permission.
+* use another member's account, share an account with another member, or maintain more than one account.
+* create another account if we have already terminated your account, unless you have our permission.
 
 Tinder reserves the right to investigate and/or terminate your account without a refund of any purchases if you have violated this Agreement, misused the Service or behaved in a way that Tinder regards as inappropriate or unlawful, including actions or communications that occur on or off the Service. In addition, in certain instances, we may terminate your account for violating the applicable terms of any of the Match Group family of businesses, which includes in addition to Tinder, services such as OkCupid, Plenty of Fish, Match, Meetic, BlackPeopleMeet, LoveScout24, OurTime, Pairs, ParPerfeito, and Twoo (for more details, click [here](https://mtch.com/safety)). In the event that you violate these rules or our Community Guidelines, your authorization to use the Service will be automatically revoked.
 
@@ -178,12 +178,12 @@ If you believe that your work has been copied and posted on the Service in a way
 
 If you contact us regarding alleged copyright infringement, please be sure to include the following information:
 
-*   an electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest;
-*   a description of the copyrighted work that you claim has been infringed;
-*   a description of where the material that you claim is infringing is located on the Service (and such description must be reasonably sufficient to enable us to find the alleged infringing material);
-*   your contact information, including address, telephone number and email address and the copyright owner’s identity;
-*   a written statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law; and
-*   a statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf.
+* an electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest;
+* a description of the copyrighted work that you claim has been infringed;
+* a description of where the material that you claim is infringing is located on the Service (and such description must be reasonably sufficient to enable us to find the alleged infringing material);
+* your contact information, including address, telephone number and email address and the copyright owner’s identity;
+* a written statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law; and
+* a statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf.
 
 Tinder will terminate the accounts of repeat infringers.
 
@@ -211,10 +211,10 @@ SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES, 
 
 Except for members residing within the EU or European Economic Area and elsewhere where prohibited by applicable law:
 
-1.  The exclusive means of resolving any dispute or claim arising out of or relating to this Agreement (including any alleged breach thereof) or the Service shall be BINDING ARBITRATION administered by JAMS under the JAMS Streamlined Arbitration Rules & Procedures, except as modified by our [Arbitration Procedures](https://policies.tinder.com/arbitration). The one exception to the exclusivity of arbitration is that either party has the right to bring an individual claim against the other in a small claims court of competent jurisdiction, or, if filed in arbitration, the responding party may request that the dispute proceed in small claims court instead if the claim is within the jurisdiction of the small claims court. If the request to proceed in small claims court is made before an arbitrator has been appointed, the arbitration shall be administratively closed. If the request to proceed in small claims court is made after an arbitrator has been appointed, the arbitrator shall determine whether the dispute should remain in arbitration or instead be decided in small claims court. Such arbitration shall be conducted by written submissions only, unless either you or Tinder elect to invoke the right to an oral hearing before the Arbitrator. But whether you choose arbitration or small claims court, you agree that you will not under any circumstances commence, or maintain, or participate in against the Company any class action, class arbitration, or other representative action or proceeding against Tinder.
-2.  By using the Service in any manner, you agree to the above arbitration agreement. In doing so, YOU GIVE UP YOUR RIGHT TO GO TO COURT to assert or defend any claims between you and the Company (except for matters that may be taken to small-claims court). YOU ALSO GIVE UP YOUR RIGHT TO PARTICIPATE IN A CLASS ACTION OR OTHER CLASS PROCEEDING. If you assert a claim against Tinder outside of small claims court (and Tinder does not request that the claim be moved to small claims court), your rights will be determined by a NEUTRAL ARBITRATOR, NOT A JUDGE OR JURY, and the arbitrator shall determine all claims and all issues regarding the arbitrability of the dispute. You are entitled to a fair hearing before the arbitrator. The arbitrator can generally grant any relief that a court can, including the ability to hear a dispositive motion (which may include a dispositive motion based upon the parties’ pleadings, as well as a dispositive motion based upon the parties’ pleadings along with the evidence submitted), but you should note that arbitration proceedings are usually simpler and more streamlined than trials and other judicial proceedings. Decisions by the arbitrator are enforceable in court and may be overturned by a court only for very limited reasons. For details on the arbitration process, see our [Arbitration Procedures](https://policies.tinder.com/arbitration).
-3.  Any proceeding to enforce this arbitration agreement, including any proceeding to confirm, modify, or vacate an arbitration award, may be commenced in any court of competent jurisdiction. In the event that this arbitration agreement is for any reason held to be unenforceable, any litigation against the Company (except for small-claims court actions) may be commenced only in the federal or state courts located in Dallas County, Texas. You hereby irrevocably consent to the jurisdiction of those courts for such purposes.
-4.  The online dispute settlement platform of the European Commission is available under [http://ec.europa.eu/odr](http://ec.europa.eu/odr). Tinder does not take part in dispute settlement procedures in front of a consumer arbitration entity for members residing in the EU or European Economic Area.
+1. The exclusive means of resolving any dispute or claim arising out of or relating to this Agreement (including any alleged breach thereof) or the Service shall be BINDING ARBITRATION administered by JAMS under the JAMS Streamlined Arbitration Rules & Procedures, except as modified by our [Arbitration Procedures](https://policies.tinder.com/arbitration). The one exception to the exclusivity of arbitration is that either party has the right to bring an individual claim against the other in a small claims court of competent jurisdiction, or, if filed in arbitration, the responding party may request that the dispute proceed in small claims court instead if the claim is within the jurisdiction of the small claims court. If the request to proceed in small claims court is made before an arbitrator has been appointed, the arbitration shall be administratively closed. If the request to proceed in small claims court is made after an arbitrator has been appointed, the arbitrator shall determine whether the dispute should remain in arbitration or instead be decided in small claims court. Such arbitration shall be conducted by written submissions only, unless either you or Tinder elect to invoke the right to an oral hearing before the Arbitrator. But whether you choose arbitration or small claims court, you agree that you will not under any circumstances commence, or maintain, or participate in against the Company any class action, class arbitration, or other representative action or proceeding against Tinder.
+2. By using the Service in any manner, you agree to the above arbitration agreement. In doing so, YOU GIVE UP YOUR RIGHT TO GO TO COURT to assert or defend any claims between you and the Company (except for matters that may be taken to small-claims court). YOU ALSO GIVE UP YOUR RIGHT TO PARTICIPATE IN A CLASS ACTION OR OTHER CLASS PROCEEDING. If you assert a claim against Tinder outside of small claims court (and Tinder does not request that the claim be moved to small claims court), your rights will be determined by a NEUTRAL ARBITRATOR, NOT A JUDGE OR JURY, and the arbitrator shall determine all claims and all issues regarding the arbitrability of the dispute. You are entitled to a fair hearing before the arbitrator. The arbitrator can generally grant any relief that a court can, including the ability to hear a dispositive motion (which may include a dispositive motion based upon the parties’ pleadings, as well as a dispositive motion based upon the parties’ pleadings along with the evidence submitted), but you should note that arbitration proceedings are usually simpler and more streamlined than trials and other judicial proceedings. Decisions by the arbitrator are enforceable in court and may be overturned by a court only for very limited reasons. For details on the arbitration process, see our [Arbitration Procedures](https://policies.tinder.com/arbitration).
+3. Any proceeding to enforce this arbitration agreement, including any proceeding to confirm, modify, or vacate an arbitration award, may be commenced in any court of competent jurisdiction. In the event that this arbitration agreement is for any reason held to be unenforceable, any litigation against the Company (except for small-claims court actions) may be commenced only in the federal or state courts located in Dallas County, Texas. You hereby irrevocably consent to the jurisdiction of those courts for such purposes.
+4. The online dispute settlement platform of the European Commission is available under [http://ec.europa.eu/odr](http://ec.europa.eu/odr). Tinder does not take part in dispute settlement procedures in front of a consumer arbitration entity for members residing in the EU or European Economic Area.
 
 16\. Governing Law.
 -------------------
