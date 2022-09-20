@@ -20,9 +20,9 @@ Lydia is committed to protecting and respecting its Clients’ privacy. Therefor
 
 Lydia commits to:
 
-*   Maintaining a high standard of security and confidentiality of its Clients’ data, both by raising awareness of data protection issues amongst Lydia staff, and also by putting tools into place to ensure the protection of data against internal and external risks (e.g. by obfuscating, anonymizing, or encrypting certain data);
-*   Acting in its Clients’ best interest - honestly, fairly, and professionally;
-*   Replying to its Clients’ queries transparently, and to provide correct, clear, and honest information.
+* Maintaining a high standard of security and confidentiality of its Clients’ data, both by raising awareness of data protection issues amongst Lydia staff, and also by putting tools into place to ensure the protection of data against internal and external risks (e.g. by obfuscating, anonymizing, or encrypting certain data);
+* Acting in its Clients’ best interest - honestly, fairly, and professionally;
+* Replying to its Clients’ queries transparently, and to provide correct, clear, and honest information.
 
 #### 3\. CONTROLLERS
 
@@ -30,21 +30,21 @@ Lydia works with certified financial partners. Lydia and its Partners are jointl
 
 Lydia and its Partners jointly determine the treatment's purpose and means. The natural persons personal data are transferred to Lydia’s Partners in the only aim to properly perform the contract between the natural person and Lydia.
 
-*   The SFPMEI (Société Française du Porte-monnaie Electronique Interbancaire) is an electronic money establishment in charge of the management of payment accounts, the execution of payment operations as well as the issuance of L-card (Visa). The SFPMEI privacy policy is accessible here (in French).
-*   Budget Insight allows Lydia to supply bank accounts aggregation and information services Budget insight Privacy Policy is accessible here. 
-*   Treezor issues Lydia IBAN and L-card (Mastercard). Treezor Privacy Policy is accessible here.
+* The SFPMEI (Société Française du Porte-monnaie Electronique Interbancaire) is an electronic money establishment in charge of the management of payment accounts, the execution of payment operations as well as the issuance of L-card (Visa). The SFPMEI privacy policy is accessible here (in French).
+* Budget Insight allows Lydia to supply bank accounts aggregation and information services Budget insight Privacy Policy is accessible here. 
+* Treezor issues Lydia IBAN and L-card (Mastercard). Treezor Privacy Policy is accessible here.
 
 Lydia and its Partners have a duty of mutual information, in particular regarding under the following situations :
 
-*   Any breach of personal data concerning natural persons;
-*   Any subcontractor who is treating Consumers personal data outside of the EEA.
+* Any breach of personal data concerning natural persons;
+* Any subcontractor who is treating Consumers personal data outside of the EEA.
 
 #### 4\. INFORMATION LYDIA COLLECTS ABOUT ITS CLIENTS 
 
 Lydia collects:
 
-*   Information submitted directly by Clients to Lydia;
-*   Information received indirectly when Clients use Lydia Services.
+* Information submitted directly by Clients to Lydia;
+* Information received indirectly when Clients use Lydia Services.
 
 **4.1 Information Clients submit**
 
@@ -110,13 +110,13 @@ Information about the bank account aggregation service
 
 In the case where the Client uses the bank account aggregation service allowing him/her to aggregate his/her bank account(s) to the Lydia app, the data relating to this / these aggregated account(s) are collected by Lydia: name of the bank, types of bank account (current account, credit account, savings account), realized transactions and account's balance.
 
-**4.3 How long Lydia retains Clients' information** 
+**4.3 How long Lydia retains Clients' information** 
 
 In compliance with the regulations against fraud and financing terrorism and as indicated in Lydia’s [Terms of Service](https://lydia-app.com/en/about/terms-of-service.html), Lydia is required by the French Law to retain the following information in intermediate archiving (restricted access, intermediate step before deletion) for five years starting from the date the Client close his/her account or terminate his/her contractual relationship with Lydia:
 
-*   Documents relating to the Client’s identity, whether he/she is a frequent or occasional user;
-*   Documents and information relating to operations the Client has made;
-*   Any information collected as part of compliance procedures (fight against fraud, fight against money laundering or terrorism financing...).
+* Documents relating to the Client’s identity, whether he/she is a frequent or occasional user;
+* Documents and information relating to operations the Client has made;
+* Any information collected as part of compliance procedures (fight against fraud, fight against money laundering or terrorism financing...).
 
 Also, as mentioned in our [Terms of Service](https://lydia-app.com/en/about/terms-of-service.html), the Client is no longer considered to be a frequent or occasional user if no transactions have been made in his/her Lydia account for a period of 24 consecutive months.
 
@@ -124,24 +124,24 @@ Also, as mentioned in our [Terms of Service](https://lydia-app.com/en/about/term
 
 Lydia may use Clients’ personal data to:
 
-*   Let them know about payments via Lydia Services that are pending, have been executed, or are to come;
-*   Inform them that one of their contacts uses the Lydia app;
-*   Evaluate the effectiveness of its communication, and to adapt the way Lydia communicates with users;
-*   Let them communicate with the Lydia support team in order to have replies to their questions or requests;
-*   Manage loyalty programs, giveaways, competitions, or other promotional activities executed by Lydia or its commercial partners;
-*   Calculate usage levels and rewards, based on payments made with Lydia Services;
-*   Identify Clients in order to allow them to access services to which they have subscribed (e.g. in case they forget their password) and to authenticate their identity information (e.g. by comparing the photo of their proofs of identity to a selfie they send Lydia by mobile);
-*   Detect and prevent fraud, abuse, security incidents, and other activities that are forbidden by Lydia (e.g. betting, sales of means of payment);
-*   Ensuring that their personal data are protected (e.g. by deleting their data upon request and/or as the result of a legal deadline for data retention);
-*   Provide them with the services that they signed up for (e.g. transferring money with another Lydia user);
-*   Let them personalize certain aspects of their profile or of Lydia products (e.g. when creating a money pot) in order to improve the user experience;
-*   Understand and analyze their usage of the Lydia app so that Lydia can offer them and/or develop new features that meet their needs;
-*   Ensure full compliance with current regulation, with Lydia [Terms of Service](https://lydia-app.com/en/about/terms-of-service.html), and with this Personal Data Protection Policy;
-*   Resolve any contentious issues and honour contracts with third parties.
+* Let them know about payments via Lydia Services that are pending, have been executed, or are to come;
+* Inform them that one of their contacts uses the Lydia app;
+* Evaluate the effectiveness of its communication, and to adapt the way Lydia communicates with users;
+* Let them communicate with the Lydia support team in order to have replies to their questions or requests;
+* Manage loyalty programs, giveaways, competitions, or other promotional activities executed by Lydia or its commercial partners;
+* Calculate usage levels and rewards, based on payments made with Lydia Services;
+* Identify Clients in order to allow them to access services to which they have subscribed (e.g. in case they forget their password) and to authenticate their identity information (e.g. by comparing the photo of their proofs of identity to a selfie they send Lydia by mobile);
+* Detect and prevent fraud, abuse, security incidents, and other activities that are forbidden by Lydia (e.g. betting, sales of means of payment);
+* Ensuring that their personal data are protected (e.g. by deleting their data upon request and/or as the result of a legal deadline for data retention);
+* Provide them with the services that they signed up for (e.g. transferring money with another Lydia user);
+* Let them personalize certain aspects of their profile or of Lydia products (e.g. when creating a money pot) in order to improve the user experience;
+* Understand and analyze their usage of the Lydia app so that Lydia can offer them and/or develop new features that meet their needs;
+* Ensure full compliance with current regulation, with Lydia [Terms of Service](https://lydia-app.com/en/about/terms-of-service.html), and with this Personal Data Protection Policy;
+* Resolve any contentious issues and honour contracts with third parties.
 
 #### 6\. TRANSFER OF PERSONAL DATA
 
-**6.1 To Lydia's banking partners, suppliers and operational contractors** 
+**6.1 To Lydia's banking partners, suppliers and operational contractors** 
 
 All of Clients’ personal data held by Lydia are protected and kept confidential in accordance with article L.511-33 of the monetary and financial code. Lydia Solutions may share Clients’ personal data with its Principals (SFPMEI, Budget Insight and Treezor) and with its suppliers and operational service providers with whom Lydia is contractually tied, in order to provide certain services and process transactions, under condition that these third parties guarantee a sufficient level of protection of the data shared in compliance with article 561-7 II b of the monetary and financial code and in respect with the GDPR. These partners and service providers only have access to the data that is strictly necessary for the execution of the contracts established with Lydia Solutions.
 
@@ -181,10 +181,10 @@ Via the Lydia app, a Partner Application, or Lydia’s support team, Clients can
 
 Clients have the right to ask Lydia to delete their personal data within a reasonable timeframe, in particular when:
 
-*   There is no longer a good reason for Lydia to continue to process or collect these data;
-*   The client has withdrawn his/her consent or objected to the processing of his/her personal data;
-*   Client’s personal data have been subject to unlawful processing;
-*   Lydia is not legally bound by the French legislator to keep Client’s data in the fight against money laundering and financing terrorism (see 2.3 How long Lydia retains Clients’ information).
+* There is no longer a good reason for Lydia to continue to process or collect these data;
+* The client has withdrawn his/her consent or objected to the processing of his/her personal data;
+* Client’s personal data have been subject to unlawful processing;
+* Lydia is not legally bound by the French legislator to keep Client’s data in the fight against money laundering and financing terrorism (see 2.3 How long Lydia retains Clients’ information).
 
 **8.4 Request restriction of objection to processing of Clients’ personal data**
 
@@ -212,5 +212,5 @@ Lydia may occasionally change this Personal Data Protection Policy. When necessa
 
 For any questions relative to this Privacy Policy, the Clients can contact Lydia Data Protection Officer :
 
-*   Email : [dpo@lydia-app.com](mailto:dpo@lydia-app.com)
-*   Address : Data Protection Officer, 14 avenue de l’Opera, 75001 Paris
+* Email : [dpo@lydia-app.com](mailto:dpo@lydia-app.com)
+* Address : Data Protection Officer, 14 avenue de l’Opera, 75001 Paris
