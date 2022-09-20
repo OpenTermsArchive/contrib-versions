@@ -23,13 +23,13 @@ You must use the Services in accordance with the [Content and Conduct Policy](ht
 
 Use of the Services by you, as a Member, is subject to all applicable local, state, national and international laws and regulations. The Company reserves the right, but does not assume any obligation, to monitor the Services to enforce this Agreement. Nor does the Company guarantee that any monitoring it does perform will be to the Member's satisfaction. Upon learning of any violation of this Agreement, the Company, at its sole discretion, may terminate your access to and use of the Services, require you to correct such violation, and/or take any other actions that the Company deems appropriate to enforce its rights and pursue all available remedies. Without limitation, the Company reserves the right to terminate your access to and use of the Services if, in our view, your conduct fails to meet any of the following guidelines:
 
-1.  Members shall not attempt to gain unauthorized access to the Company’s database or other computer systems.
-2.  Members shall not attempt to change, translate, adapt, edit, decompile, disassemble, or reverse engineer any software programs used by Company in connection with the Services.
-3.  Members shall not engage in any activity that disrupts, diminishes the quality of, interferes with the performance of, or impairs the functionality of, the Services.
-4.  Members shall not use the account, username, or password of another Member at any time or disclose their password to any third party or permit any third party to access their account.
-5.  Members shall not attempt to buy Tagged Gold outside of the hi5.com website.
-6.  Members shall not attempt to sell Tagged Gold.
-7.  Members shall not attempt to sell a user account associated with one of the Services.
+1. Members shall not attempt to gain unauthorized access to the Company’s database or other computer systems.
+2. Members shall not attempt to change, translate, adapt, edit, decompile, disassemble, or reverse engineer any software programs used by Company in connection with the Services.
+3. Members shall not engage in any activity that disrupts, diminishes the quality of, interferes with the performance of, or impairs the functionality of, the Services.
+4. Members shall not use the account, username, or password of another Member at any time or disclose their password to any third party or permit any third party to access their account.
+5. Members shall not attempt to buy Tagged Gold outside of the hi5.com website.
+6. Members shall not attempt to sell Tagged Gold.
+7. Members shall not attempt to sell a user account associated with one of the Services.
 
 All decisions concerning the applicability of these guidelines shall be at the sole and exclusive discretion of the Company and its designees. The Company has the right in its sole discretion to pre-screen, refuse or remove any content that is available via the Services. The Company and its designees shall have the right to remove any Content that violates this Agreement or is otherwise objectionable. An account may be terminated at any time, without notice, depending on the severity of the offense, which is determined exclusively at the discretion of the Company. The Company is not obligated to provide a Member with a warning prior to removal.
 
@@ -83,12 +83,12 @@ The Meet Group Copyright Agent 100 Union Square Drive, New Hope, PA 18938 (215) 
 
 Please provide our Agent with the following Notice:
 
-1.  Identify the copyrighted work or other intellectual property that you claim has been infringed;
-2.  Identify the material on the Services that you claim is infringing, with enough detail so that we may locate it on the website;
-3.  A statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law;
-4.  A statement by you declaring under penalty of perjury that (a) the above information in your Notice is accurate, and (b) that you are the owner of the copyright interest involved or that you are authorized to act on behalf of that owner;
-5.  Your address, telephone number, and email address; and
-6.  Your physical or electronic signature.
+1. Identify the copyrighted work or other intellectual property that you claim has been infringed;
+2. Identify the material on the Services that you claim is infringing, with enough detail so that we may locate it on the website;
+3. A statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law;
+4. A statement by you declaring under penalty of perjury that (a) the above information in your Notice is accurate, and (b) that you are the owner of the copyright interest involved or that you are authorized to act on behalf of that owner;
+5. Your address, telephone number, and email address; and
+6. Your physical or electronic signature.
 
 The Company’s Agent will forward this information to the alleged infringer. It is Company’s policy to terminate the accounts of repeat infringers.
 
@@ -96,15 +96,15 @@ The Company’s Agent will forward this information to the alleged infringer. It
 
 PLEASE READ THIS SECTION CAREFULLY AS IT LIMITS THE MANNER IN WHICH YOU CAN SEEK RELIEF. You and the Company agree that, except as otherwise specifically provided in this Agreement, you and the Company shall seek to resolve any and all disputes between the Company and you, respectively, including, without limitation, all claims, counter-claims and cross-claims (collectively, "Claims"), whether in law, equity or otherwise, solely through individual arbitration in accordance with the policies and procedures set forth in this Agreement. Such disputes shall include without limitation:
 
-*   disputes arising out of and/or otherwise relating to Company’s Terms of Service, Content and Conduct Policy, and/or Privacy Policy;
-*   disputes arising out of and/or otherwise relating to any Services and/or any content on our Services;
-*   disputes arising out of and/or otherwise relating to any information, communications and/or other material that you and/or any other person and/or entity provide to and/or through the Services;
-*   disputes arising out of and/or otherwise relating to any information and/or other material that is collected, stored and/or disseminated by, on behalf of and/or with the approval of the Company;
-*   disputes arising out of and/or otherwise relating to any advertising and/or other communications by the Company in connection with the Services;
-*   disputes that are the subject of purported class action litigation in which you are not a member of a certified class;
-*   disputes that arose before you entered into this Agreement and/or any prior version of this Agreement;
-*   disputes that may arise after you terminate your registration with the Services; and
-*   disputes arising out of or relating to any aspect of the relationship between us, whether based in contract, tort, statute, fraud, misrepresentation or any other legal theory.
+* disputes arising out of and/or otherwise relating to Company’s Terms of Service, Content and Conduct Policy, and/or Privacy Policy;
+* disputes arising out of and/or otherwise relating to any Services and/or any content on our Services;
+* disputes arising out of and/or otherwise relating to any information, communications and/or other material that you and/or any other person and/or entity provide to and/or through the Services;
+* disputes arising out of and/or otherwise relating to any information and/or other material that is collected, stored and/or disseminated by, on behalf of and/or with the approval of the Company;
+* disputes arising out of and/or otherwise relating to any advertising and/or other communications by the Company in connection with the Services;
+* disputes that are the subject of purported class action litigation in which you are not a member of a certified class;
+* disputes that arose before you entered into this Agreement and/or any prior version of this Agreement;
+* disputes that may arise after you terminate your registration with the Services; and
+* disputes arising out of or relating to any aspect of the relationship between us, whether based in contract, tort, statute, fraud, misrepresentation or any other legal theory.
 
 Despite the language agreed to above and as an alternative to arbitration, either you and/or the Company may bring an individual action against the other in small claims court. Additionally, you and/or the Company may bring any Claim against the other to the attention of a federal, state and/or local government entity, which may elect to seek relief against the Company on your behalf, and/or against you on the Company’s behalf.
 
@@ -124,8 +124,8 @@ In addition to any reimbursement of AAA filing fees as detailed above, and so lo
 
 You and the Company agree that unless and until the arbitrator determines the monetary and/or other relief, if any, to which you and/or the Company is entitled in connection with the dispute being arbitrated, neither you nor the Company shall disclose to the arbitrator the amount of any settlement offer(s) that you and/or the Company previously made to the other in connection with said dispute. In any individual arbitration between you and the Company, if the arbitrator issues you an award that is greater than the value of the Company’s last written settlement offer to you then the Company shall:
 
-*   pay you the amount of the award or $2,500 (the "Member Incentive"), whichever is greater; and
-*   pay your attorney, if any, twice the amount of any fees, and reimburse said attorney any expenses (including expert witness fees and costs), that said attorney reasonably and actually accrues in investigating, preparing and pursuing your Claim against the Company in the arbitration (collectively, the "Attorney Incentive").
+* pay you the amount of the award or $2,500 (the "Member Incentive"), whichever is greater; and
+* pay your attorney, if any, twice the amount of any fees, and reimburse said attorney any expenses (including expert witness fees and costs), that said attorney reasonably and actually accrues in investigating, preparing and pursuing your Claim against the Company in the arbitration (collectively, the "Attorney Incentive").
 
 However, if the Company did not make any written settlement offer to you prior to the arbitrator in said individual arbitration issuing you an award, then so long as the arbitrator awards you any monetary relief on the merits of your Claim against the Company, you and your attorney (if any) shall be entitled to receive the Member Incentive and the Attorney Incentive, respectively. The arbitrator may make rulings and resolve disputes as to the payment and reimbursement of any fees and/or expenses, the Member Incentive and/or the Attorney Incentive at any time during the individual arbitration and/or upon request by you and/or the Company made within 14 days of the arbitrator's ruling on the merits of said individual arbitration. The Attorney Incentive supplements and does not supersede any right you may have under applicable law to receive attorneys' fees and/or expenses in connection with the individual arbitration (including as may be awarded to you by the arbitrator), but in no event may you recover a duplicative award of attorneys' fees and/or expenses. If the Company prevails in an individual arbitration against you and is entitled under applicable law to receive attorneys' fees and/or expenses, the Company hereby agrees that it shall not seek and shall refuse to receive such an award.
 
@@ -133,8 +133,8 @@ The arbitrator may award any form of individual relief in your favor, but solely
 
 AT ANY TIME AND IN ITS SOLE DISCRETION THE COMPANY MAY DIRECT THE AAA TO CONSOLIDATE ANY AND ALL PENDING INDIVIDUAL ARBITRATION CLAIMS THAT (i) ARISE IN SUBSTANTIAL PART FROM THE SAME AND/OR RELATED TRANSACTIONS, EVENTS AND/OR OCCURRENCES, AND (ii) INVOLVE A COMMON QUESTION OF LAW AND/OR FACT WHICH, IF RESOLVED IN MULTIPLE INDIVIDUAL AND NON-CONSOLIDATED ARBITRATION PROCEEDINGS, MAY RESULT IN CONFLICTING AND/OR INCONSISTENT RESULTS. IN SAID EVENT, YOU HEREBY CONSENT TO CONSOLIDATED ARBITRATION, IN LIEU OF INDIVIDUAL ARBITRATION, OF ANY AND ALL CLAIMS YOU MAY HAVE AGAINST THE COMPANY AND THE AAA RULES SET FORTH HEREIN SHALL GOVERN ALL PARTIES. Additionally, in said event, if the arbitrator issues you an award that is greater than the value of Company’s last written settlement offer to you then the Company shall:
 
-*   pay you the amount of the award or three times the amount of the Company’s last written settlement offer to you (the "Member Incentive"), whichever is greater; and
-*   pay your attorney, if any, twice the amount of any fees, and reimburse said attorney any expenses (including expert witness fees and costs), that said attorney reasonably and actually accrues in investigating, preparing and pursuing your Claim against the Company in the arbitration (collectively, the "Attorney Incentive").
+* pay you the amount of the award or three times the amount of the Company’s last written settlement offer to you (the "Member Incentive"), whichever is greater; and
+* pay your attorney, if any, twice the amount of any fees, and reimburse said attorney any expenses (including expert witness fees and costs), that said attorney reasonably and actually accrues in investigating, preparing and pursuing your Claim against the Company in the arbitration (collectively, the "Attorney Incentive").
 
 However, if the Company did not make any written settlement offer to you prior to the arbitrator in said consolidated arbitration issuing you an award, then so long as the arbitrator awards you any monetary relief on the merits of your Claim against the Company, then you shall be entitled to receive the award and/or $500, whichever is greater, and your attorney (if any) shall be entitled to receive the Attorney Incentive. As also noted above, the arbitrator may make rulings and resolve disputes as to the payment and reimbursement of any fees and/or expenses, the Member Incentive and/or the Attorney Incentive at any time during the consolidated arbitration and/or upon request by you and/or the Company made within 14 days of the arbitrator's ruling on the merits of said arbitration. Similarly, the Attorney Incentive supplements and does not supersede any right you may have under applicable law to receive attorneys' fees and/or expenses in connection with the consolidated arbitration (including as may be awarded to you by the arbitrator), but in no event may you recover a duplicative award of attorneys' fees and/or expenses. If the Company prevails in a consolidated arbitration against you and is entitled under applicable law to receive attorneys' fees and/or expenses, the Company hereby agrees that it shall not seek and shall refuse to receive such an award. If all or part of this specific paragraph is found by a court of competent jurisdiction to be unenforceable after final appeal, then the entirety of this Dispute provision shall be deemed null and void.
 
