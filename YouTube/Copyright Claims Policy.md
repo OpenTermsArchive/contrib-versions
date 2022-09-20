@@ -12,7 +12,7 @@ We have created the YouTube [Audio Library](https://support.google.com/youtube/a
 
 ### Resources
 
-*   [Learn more about fair use](https://support.google.com/youtube/answer/9783148?hl=en)
+* [Learn more about fair use](https://support.google.com/youtube/answer/9783148?hl=en)
     
 
 How can rightsholders make copyright claims?
@@ -35,17 +35,17 @@ Content ID
 
 [Content ID](https://support.google.com/youtube/answer/2797370) is our solution for those with the most complex rights management needs. It is our digital fingerprinting system that allows rightsholders to upload content that they have exclusive rights to as reference files, and then scans videos uploaded to YouTube for matches of that content. When a user uploads content, Content ID scans against the database for matching videos. If there is a match, then an action is taken based on the predefined rules or policies that a content owner sets themselves:
 
-*   Block a whole video from being viewed. Creators do not receive a copyright strike if the content owner blocks a video.
-*   Monetise the video by running ads against it, in some cases sharing revenue with the uploader.
-*   Track the video's viewership statistics.
+* Block a whole video from being viewed. Creators do not receive a copyright strike if the content owner blocks a video.
+* Monetise the video by running ads against it, in some cases sharing revenue with the uploader.
+* Track the video's viewership statistics.
 
 In most cases, this means that rightsholders don't need to submit copyright takedowns for these videos and instead have the opportunity to monetise and run ads in exchange for the videos being live.
 
 ### Resources
 
-*   [Learn more about YouTube's copyright management tools](https://support.google.com/youtube/answer/9245819?hl=en&ref_topic=9282364)
+* [Learn more about YouTube's copyright management tools](https://support.google.com/youtube/answer/9245819?hl=en&ref_topic=9282364)
     
-*   [Learn more about copyright strikes](https://support.google.com/youtube/answer/2814000?hl=en&p=c_strike_basics)
+* [Learn more about copyright strikes](https://support.google.com/youtube/answer/2814000?hl=en&p=c_strike_basics)
     
 
 What action does YouTube take for copyright infringement?
@@ -57,8 +57,8 @@ If a copyright owner submits a valid DMCA (Digital Millennium Copyright Act) com
 
 ### Resources
 
-*   [Learn more about copyright strikes](https://support.google.com/youtube/answer/2814000?hl=en&p=c_strike_basics)
+* [Learn more about copyright strikes](https://support.google.com/youtube/answer/2814000?hl=en&p=c_strike_basics)
     
-*   [Retract a claim of copyright infringement](https://support.google.com/youtube/answer/2807691?hl=en)
+* [Retract a claim of copyright infringement](https://support.google.com/youtube/answer/2807691?hl=en)
     
-*   [Submit a counter notification](https://support.google.com/youtube/answer/2807684?hl=en)
+* [Submit a counter notification](https://support.google.com/youtube/answer/2807684?hl=en)
