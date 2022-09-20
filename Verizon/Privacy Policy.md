@@ -8,19 +8,9 @@ Our Privacy Policy describes the information we collect, how it is used and shar
 
 Open all Close all
 
-*   [
+* [### What information does Verizon collect?
     
-    ### What information does Verizon collect?
-    
-    Learn about the information Verizon collects about you, your devices and your use of products and services we provide.
-    
-    
-    
-    
-    
-    
-    
-    ](#acc-item-30)
+    Learn about the information Verizon collects about you, your devices and your use of products and services we provide.](#acc-item-30)
     
     #### We collect information when you interact with us and use our products and services.
     
@@ -32,11 +22,11 @@ Open all Close all
     
     When you communicate with us, we may monitor or record the interaction to help us better serve you; to personalize your experiences; to train or otherwise support employees, resources or systems; and for security purposes. We may use artificial intelligence guided by humans, such as chat bots, to respond to your inquiry. When you interact with us through third-party services like Facebook Messenger or Twitter Direct Message, your communications are also governed by these companies’ privacy policies.
     
-    *   [Contact, billing and other information you provide](#)
-    *   [How you use our services and your devices](#)
-    *   [How you use our websites and apps](#)
-    *   [How our network and your devices are working](#)
-    *   [Location of your wireless devices](#)
+    * [Contact, billing and other information you provide](#)
+    * [How you use our services and your devices](#)
+    * [How you use our websites and apps](#)
+    * [How our network and your devices are working](#)
+    * [Location of your wireless devices](#)
     
     Contact, billing and other information you provide
     
@@ -58,8 +48,8 @@ Open all Close all
     
     Some Verizon wireless devices include system applications we provide to:
     
-    *   collect information about network and device conditions including location, battery life and applications on the device, .
-    *   automatically install apps when you activate your device, during certain operating system updates and with your consent at later times, for example, when you request an app from an advertisement or over the phone. The software collects information when an app it places is first opened or is uninstalled and may update or send you information about Verizon and third-party offers and promotions that may interest you as well as notices about apps on your device that you have not yet used. You can use your device app controls to disable notifications from Verizon App Manager to opt out of these messages.
+    * collect information about network and device conditions including location, battery life and applications on the device, .
+    * automatically install apps when you activate your device, during certain operating system updates and with your consent at later times, for example, when you request an app from an advertisement or over the phone. The software collects information when an app it places is first opened or is uninstalled and may update or send you information about Verizon and third-party offers and promotions that may interest you as well as notices about apps on your device that you have not yet used. You can use your device app controls to disable notifications from Verizon App Manager to opt out of these messages.
     
     Some apps installed or updated on your device in this way do not appear as icons on your device screen because of their limited utility. For example, they might facilitate the download of apps you select for your device, update apps you already have on your device, or report to an app owner that an app has been opened on the device. You can see and also delete or disable apps installed on your device, whether or not they have visible icons, using your device’s Application Manager under Settings. Apps on your device are governed by their own terms and privacy policies.
     
@@ -71,11 +61,11 @@ Open all Close all
     
     This includes: 
     
-    *   [Credit information from outside agencies](#)
-    *   [Demographic and interest data](#) as well as device type, carrier, city and state information from third party data providers
-    *   [Information from social media platforms](#) when you interact with us via social media or use your social media login to interact with Verizon sites or offers
-    *   [Contact, marketing lead and other information we purchase or receive](#)
-    *   [Fraud information](#)
+    * [Credit information from outside agencies](#)
+    * [Demographic and interest data](#) as well as device type, carrier, city and state information from third party data providers
+    * [Information from social media platforms](#) when you interact with us via social media or use your social media login to interact with Verizon sites or offers
+    * [Contact, marketing lead and other information we purchase or receive](#)
+    * [Fraud information](#)
     
     Credit information from outside agencies
     
@@ -97,37 +87,27 @@ Open all Close all
     
     This includes risk scores and related indicators we obtain from third party data providers to help us identify fraudulent transactions.  
     
-*   [
+* [### How does Verizon use information?
     
-    ### How does Verizon use information?
-    
-    Learn about the different ways we use the information we collect.
-    
-    
-    
-    
-    
-    
-    
-    ](#acc-item-31)
+    Learn about the different ways we use the information we collect.](#acc-item-31)
     
     #### We use information to provide you with services and enhance your experiences with us.
     
     We use information to:
     
-    *   Deliver and maintain products and services
-    *   Establish and maintain your account and billing records
-    *   Measure credit and payment risk
-    *   Provide account-related services and information
-    *   Help you with service and technical support issues or questions
-    *   Manage and protect our networks, services, employees and users
-    *   Detect and prevent fraud
-    *   Help us improve and [personalize your services.](#)
-    *   Research, develop and market new products and services
-    *   Authenticate you
-    *   [Determine your eligibility for new products and services](#)
-    *   Better predict content and marketing offers that may interest you
-    *   [Deliver personalized content and offers](#) to you
+    * Deliver and maintain products and services
+    * Establish and maintain your account and billing records
+    * Measure credit and payment risk
+    * Provide account-related services and information
+    * Help you with service and technical support issues or questions
+    * Manage and protect our networks, services, employees and users
+    * Detect and prevent fraud
+    * Help us improve and [personalize your services.](#)
+    * Research, develop and market new products and services
+    * Authenticate you
+    * [Determine your eligibility for new products and services](#)
+    * Better predict content and marketing offers that may interest you
+    * [Deliver personalized content and offers](#) to you
     
     Determine your eligibility for new products and services
     
@@ -159,13 +139,13 @@ Open all Close all
     
     | Information: | Additional uses: |
     | --- | --- |
-    | Clicks, opens and other interactions with our advertisements, emails, sites and apps | *   To personalize your experiences and make our marketing more relevant to you<br>*   To help you when you request assistance with website or app navigation<br>*   To protect you and us against fraud |
-    | Location obtained from system applications on your mobile devices | *   To assist with locating you in an emergency <br>*   To help improve location accuracy in our services and apps<br>*   To provide you with updates to system and Verizon applications |
-    | Information from your calls and chats with our service and support representatives | *   To help train employees and support resources and systems to better serve you<br>*   To provide customized technical support<br>*   To assist you with device settings |
-    | Employment and grant applications and surveys | *   For the purpose for which you provide it, or as described at the time when you submitted the information. |
-    | Information obtained from others | *   To determine creditworthiness and perform business risk analysis<br>*   To verify your identity<br>*   To contact you with marketing offers<br>*   To improve business modeling |
-    | Network usage information | *   To measure service quality on your current plan and other plans we offer |
-    | Domain name server information | *   To deliver content efficiently and help you find the website you are looking for<br>*   To block harmful content<br>*   For network security<br>*   To provide technical support |
+    | Clicks, opens and other interactions with our advertisements, emails, sites and apps | * To personalize your experiences and make our marketing more relevant to you<br>* To help you when you request assistance with website or app navigation<br>* To protect you and us against fraud |
+    | Location obtained from system applications on your mobile devices | * To assist with locating you in an emergency <br>* To help improve location accuracy in our services and apps<br>* To provide you with updates to system and Verizon applications |
+    | Information from your calls and chats with our service and support representatives | * To help train employees and support resources and systems to better serve you<br>* To provide customized technical support<br>* To assist you with device settings |
+    | Employment and grant applications and surveys | * For the purpose for which you provide it, or as described at the time when you submitted the information. |
+    | Information obtained from others | * To determine creditworthiness and perform business risk analysis<br>* To verify your identity<br>* To contact you with marketing offers<br>* To improve business modeling |
+    | Network usage information | * To measure service quality on your current plan and other plans we offer |
+    | Domain name server information | * To deliver content efficiently and help you find the website you are looking for<br>* To block harmful content<br>* For network security<br>* To provide technical support |
     
     Information:
     
@@ -173,9 +153,9 @@ Open all Close all
     
     Additional uses:
     
-    *   To personalize your experiences and make our marketing more relevant to you
-    *   To help you when you request assistance with website or app navigation
-    *   To protect you and us against fraud
+    * To personalize your experiences and make our marketing more relevant to you
+    * To help you when you request assistance with website or app navigation
+    * To protect you and us against fraud
     
     Information:
     
@@ -183,9 +163,9 @@ Open all Close all
     
     Additional uses:
     
-    *   To assist with locating you in an emergency 
-    *   To help improve location accuracy in our services and apps
-    *   To provide you with updates to system and Verizon applications
+    * To assist with locating you in an emergency 
+    * To help improve location accuracy in our services and apps
+    * To provide you with updates to system and Verizon applications
     
     Information:
     
@@ -193,9 +173,9 @@ Open all Close all
     
     Additional uses:
     
-    *   To help train employees and support resources and systems to better serve you
-    *   To provide customized technical support
-    *   To assist you with device settings
+    * To help train employees and support resources and systems to better serve you
+    * To provide customized technical support
+    * To assist you with device settings
     
     Information:
     
@@ -203,7 +183,7 @@ Open all Close all
     
     Additional uses:
     
-    *   For the purpose for which you provide it, or as described at the time when you submitted the information.
+    * For the purpose for which you provide it, or as described at the time when you submitted the information.
     
     Information:
     
@@ -211,10 +191,10 @@ Open all Close all
     
     Additional uses:
     
-    *   To determine creditworthiness and perform business risk analysis
-    *   To verify your identity
-    *   To contact you with marketing offers
-    *   To improve business modeling
+    * To determine creditworthiness and perform business risk analysis
+    * To verify your identity
+    * To contact you with marketing offers
+    * To improve business modeling
     
     Information:
     
@@ -222,7 +202,7 @@ Open all Close all
     
     Additional uses:
     
-    *   To measure service quality on your current plan and other plans we offer    
+    * To measure service quality on your current plan and other plans we offer    
     
     Information:
     
@@ -230,10 +210,10 @@ Open all Close all
     
     Additional uses:
     
-    *   To deliver content efficiently and help you find the website you are looking for
-    *   To block harmful content
-    *   For network security
-    *   To provide technical support
+    * To deliver content efficiently and help you find the website you are looking for
+    * To block harmful content
+    * For network security
+    * To provide technical support
     
     #### Cookies, social media plug-ins and other website and app tools.
     
@@ -269,19 +249,9 @@ Open all Close all
     
     For example, you can opt out of our advertising and insights programs. [Go to choices](https://www.verizon.com/about/privacy/full-privacy-policy#acc-item-34).  
     
-*   [
+* [### Does Verizon share my information?
     
-    ### Does Verizon share my information?
-    
-    We share information within our company, with vendors and partners, and as described in this section.
-    
-    
-    
-    
-    
-    
-    
-    ](#acc-item-33)
+    We share information within our company, with vendors and partners, and as described in this section.](#acc-item-33)
     
     #### We share information within Verizon.
     
@@ -323,12 +293,12 @@ Open all Close all
     
     In addition to the circumstances described above, information that individually identifies you or your device may be shared in certain circumstances, such as:
     
-    *   [To comply with the law](#)
-    *   [To protect you, others or us](#)
-    *   [To credit companies and collection agencies](#)
-    *   When needed by outside auditors and regulators
-    *   If Verizon enters into a merger, acquisition or sale of all or a portion of our assets or business
-    *   With your consent
+    * [To comply with the law](#)
+    * [To protect you, others or us](#)
+    * [To credit companies and collection agencies](#)
+    * When needed by outside auditors and regulators
+    * If Verizon enters into a merger, acquisition or sale of all or a portion of our assets or business
+    * With your consent
     
     To protect you, others or us
     
@@ -342,19 +312,9 @@ Open all Close all
     
     For example, to communicate with credit bureaus or collection agencies for determining credit risk, for reporting purposes, and to obtain payment for Verizon-billed products and services; and with our credit card issuer for the prescreening and application process for our credit card.  
     
-*   [
+* [### Does Verizon have programs that allow other companies to use information about me?
     
-    ### Does Verizon have programs that allow other companies to use information about me?
-    
-    Learn about how information may be used for third-party advertising, insights and identity verification programs.
-    
-    
-    
-    
-    
-    
-    
-    ](#acc-item-32)
+    Learn about how information may be used for third-party advertising, insights and identity verification programs.](#acc-item-32)
     
     #### Our advertising programs make ads you see more personalized and useful.
     
@@ -449,23 +409,13 @@ Open all Close all
     
     We use certain Verizon Wireless account, device and profile information to help third parties verify your identity on behalf of companies with which you do business, for example to help your bank confirm that you are calling rather than a fraudster. This helps protect you against theft and account takeover. Third parties that verify your  identity are contractually required to protect the information and use it only for providing their verification services. [You have a choice about participating.](https://www.verizon.com/about/privacy/full-privacy-policy#acc-item-34)
     
-*   [
+* [### What choices do I have about uses of my information?
     
-    ### What choices do I have about uses of my information?
-    
-    You have choices about how Verizon reaches you with marketing offers and about other uses of your information.
-    
-    
-    
-    
-    
-    
-    
-    ](#acc-item-34)
+    You have choices about how Verizon reaches you with marketing offers and about other uses of your information.](#acc-item-34)
     
     #### You can limit the ways we may send marketing offers to you.
     
-    **Telemarketing**   
+    **Telemarketing**   
     Opt out of [marketing-related calls](#) by calling 1-800-VERIZON. It can take up to 30 days to remove you from existing marketing campaigns.
     
     marketing-related calls
@@ -486,7 +436,7 @@ Open all Close all
     
     #### You have choices about whether certain information may be used within Verizon for specific marketing purposes.
     
-    **Credit information**   
+    **Credit information**   
     Wireline customers can limit the sharing of credit information within Verizon for the marketing of new products and services. Check the instructions in the [notice](https://www.verizon.com/about/privacy/customer-proprietary-network-information) on your monthly bill, or call 1-844-366-2879 to opt out.
     
     **Customer Proprietary Network Information (CPNI)**  
@@ -520,18 +470,18 @@ Open all Close all
     **Relevant Online Advertising**  
     To opt out of participating in the Relevant Online Advertising program:
     
-    *   Go to the Services area of My Verizon online
-    *   Click on Internet
-    *   Select the Manage Online Advertising Preferences link within My Internet Service
+    * Go to the Services area of My Verizon online
+    * Click on Internet
+    * Select the Manage Online Advertising Preferences link within My Internet Service
     
     You will need your user ID and password to access your online account.
     
     **Relevant TV Advertising**  
     To opt out of participating in Relevant TV advertising:
     
-    *   Go to the Services area of My Verizon online
-    *   Click on TV
-    *   Select the Manage TV Advertising Preferences link within My TV Service
+    * Go to the Services area of My Verizon online
+    * Click on TV
+    * Select the Manage TV Advertising Preferences link within My TV Service
     
     You will need your user ID and password to access your online account.
     
@@ -551,7 +501,7 @@ Open all Close all
     
     #### You have other choices available to you.
     
-    **Website information used for interest-based advertising**   
+    **Website information used for interest-based advertising**   
     You have a choice whether certain information collected on websites, including Verizon sites, is used to customize your ads. Click on this [icon](#) ad choices icon in or around an advertisement and follow the instructions for opting out. Similarly, settings on your mobile devices let you limit the collection and use of information from your device for advertising purposes.
     
     Icon
@@ -566,19 +516,9 @@ Open all Close all
     **Credit Prescreening**  
     You have a choice about whether companies use your information to prescreen you for credit, including our credit card. You can opt out at [www.optoutprescreen.com](http://www.optoutprescreen.com/) or by calling 1-888-567-8688
     
-*   [
+* [### How does Verizon protect my information, and how do I update my account details?
     
-    ### How does Verizon protect my information, and how do I update my account details?
-    
-    Learn about our information security and retention practices and how to update your account information.
-    
-    
-    
-    
-    
-    
-    
-    ](#acc-item-35)
+    Learn about our information security and retention practices and how to update your account information.](#acc-item-35)
     
     #### Information security and retention.
     
@@ -623,19 +563,9 @@ Open all Close all
     
     Customers who have Fios or other fiber-to-the-home services can [email](mailto:privacyoffice@verizon.com) us to set up an appointment to review the personally identifiable information we have about you. You can only review records that contain your personally identifiable information, and you’ll have to provide proper identification to do so. We’ll work with you to update your records if necessary. You may be charged for copies of documents that you request.
     
-*   [
+* [### Do I have specific rights under privacy laws in the United States?
     
-    ### Do I have specific rights under privacy laws in the United States?
-    
-    You may have additional rights under the Cable Act and state laws, including California, Maine and Nevada privacy laws.
-    
-    
-    
-    
-    
-    
-    
-    ](#acc-item-55)
+    You may have additional rights under the Cable Act and state laws, including California, Maine and Nevada privacy laws.](#acc-item-55)
     
     #### Information about the Cable Act
     
@@ -705,8 +635,8 @@ Open all Close all
     
     You can authorize an agent to exercise your California privacy rights on your behalf. To designate a California business as your agent, use our [Privacy Dashboard](https://www.verizon.com/privacy/your-data) to “Assign and manage your authorized agent.” To designate an individual as your authorized agent to exercise your privacy rights, send their name, physical address, and email address to vz.ccpa@verizon.com. We may require additional proof that you granted the authority.
     
-    *   Visiting our [Privacy Dashboard](https://www.verizon.com/privacy/your-data), or
-    *   Calling 1.800.333.3972.
+    * Visiting our [Privacy Dashboard](https://www.verizon.com/privacy/your-data), or
+    * Calling 1.800.333.3972.
     
     We require you to [verify your identity](#) using the processes described in the dashboard before we fulfill your request.
     
@@ -780,19 +710,9 @@ Open all Close all
     
     We will not refuse to provide you with broadband service, charge you a penalty, or offer you a discount based on whether you agree that we can use or share your broadband customer personal information.
     
-*   [
+* [### How do I learn about changes to this privacy policy?
     
-    ### How do I learn about changes to this privacy policy?
-    
-     Learn about how to know that we have made changes to this policy.
-    
-    
-    
-    
-    
-    
-    
-    ](#acc-item-57)
+     Learn about how to know that we have made changes to this policy.](#acc-item-57)
     
     #### Changes to the privacy policy
     
