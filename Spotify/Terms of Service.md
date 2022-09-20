@@ -67,9 +67,9 @@ The Spotify Service may be integrated with, or may otherwise interact with, thir
 
 We use reasonable efforts to keep the Spotify Service operational and to provide you with a personalized, immersive audio experience. However, our service offerings and their availability may change from time to time, without liability to you; for example:
 
-*   The Spotify Services may experience temporary interruptions due to technical difficulties, maintenance or testing, or updates, including those required to reflect changes in relevant laws and regulatory requirements.
-*   We aim to evolve and improve the Spotify Service constantly, and we may modify, suspend, or stop (permanently or temporarily) providing all of part of the Spotify Service (including particular functions, features, subscription plans, and promotional offerings);
-*   Spotify has no obligation to provide any specific content through the Spotify Service, and Spotify or the applicable owners may remove particular songs, videos, podcasts, and other Content without notice.
+* The Spotify Services may experience temporary interruptions due to technical difficulties, maintenance or testing, or updates, including those required to reflect changes in relevant laws and regulatory requirements.
+* We aim to evolve and improve the Spotify Service constantly, and we may modify, suspend, or stop (permanently or temporarily) providing all of part of the Spotify Service (including particular functions, features, subscription plans, and promotional offerings);
+* Spotify has no obligation to provide any specific content through the Spotify Service, and Spotify or the applicable owners may remove particular songs, videos, podcasts, and other Content without notice.
 
 If you have prepaid fees directly to Spotify for a Paid Subscription that Spotify permanently discontinues prior to the end of your Pre-Paid Period (as that term is defined in the [Payments and cancellations](https://www.spotify.com/legal/end-user-agreement/#s4) section below), Spotify will refund you the prepaid fees for the Pre-Paid Period after such discontinuation. Your account and billing information must be up to date in order for us to refund you.
 
@@ -107,8 +107,8 @@ You agree to abide by the [Spotify User Guidelines](https://www.spotify.com/lega
 
 You may purchase a Paid Subscription directly from Spotify or through a third party either by:
 
-*   paying a subscription fee plus applicable taxes in advance on a monthly basis or some other recurring interval disclosed to you prior to your purchase; or
-*   pre-payment giving you access to the Spotify Service for a specific time period ("**Pre-Paid Period**").
+* paying a subscription fee plus applicable taxes in advance on a monthly basis or some other recurring interval disclosed to you prior to your purchase; or
+* pre-payment giving you access to the Spotify Service for a specific time period ("**Pre-Paid Period**").
 
 Tax rates are calculated based on the information you provide and the applicable rate at the time of your monthly charge.
 
