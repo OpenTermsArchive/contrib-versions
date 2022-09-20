@@ -10,18 +10,18 @@ This **Vimeo Terms of Service Agreement** (the “**Agreement**” or “**Terms
 **Content**
 -----------
 
-1.  [Acceptance](#acceptance)
-2.  [Our Services](#our_services)
-3.  [Accounts](#accounts)
-4.  [Subscription Plans](#subscription_plans)
-5.  [Acceptable Use Policy](#acceptable_use_policy)
-6.  [Licenses Granted by You](#licenses_granted_by_you)
-7.  [Your Obligations](#your_obligations)
-8.  [Term and Termination](#term_and_termination)
-9.  [Disclaimers](#disclaimers)
-10.  [Limitation of Liability](#limitation_of_liability)
-11.  [Disputes, Arbitration, and Choice of Law](#disputes_arbitration_and_choice_of_law)
-12.  [General Provisions](#general_provisions)
+1. [Acceptance](#acceptance)
+2. [Our Services](#our_services)
+3. [Accounts](#accounts)
+4. [Subscription Plans](#subscription_plans)
+5. [Acceptable Use Policy](#acceptable_use_policy)
+6. [Licenses Granted by You](#licenses_granted_by_you)
+7. [Your Obligations](#your_obligations)
+8. [Term and Termination](#term_and_termination)
+9. [Disclaimers](#disclaimers)
+10. [Limitation of Liability](#limitation_of_liability)
+11. [Disputes, Arbitration, and Choice of Law](#disputes_arbitration_and_choice_of_law)
+12. [General Provisions](#general_provisions)
 
 1\. Acceptance
 --------------
@@ -39,10 +39,10 @@ This Agreement includes our [Privacy Policy](https://vimeo.com/privacy) and th
 
 **Service License:** Subject to the terms hereof, we grant you access to our Services. This includes the right to:
 
-*   Stream videos that you have the right to view;
-*   Upload, store, and/or live stream videos, subject to your plan;
-*   Embed our embeddable video player on third-party websites; and
-*   Use all related functionality that we may provide.
+* Stream videos that you have the right to view;
+* Upload, store, and/or live stream videos, subject to your plan;
+* Embed our embeddable video player on third-party websites; and
+* Use all related functionality that we may provide.
 
 **Features:** The features available to you will depend on your plan. We may change features from time to time. If you have a paid account, we commit to providing the core video hosting and streaming features of your plan (including the bandwidth and storage capabilities stated at the time of purchase) during your current service period.
 
@@ -92,20 +92,20 @@ This Agreement includes our [Privacy Policy](https://vimeo.com/privacy) and th
 
 **Refund Policy:** Subject to the terms hereof, Self-Serve subscribers who purchase plans directly from Vimeo may cancel and receive a full refund of their initial purchase within **thirty (30) days** after purchasing an annual plan and **five (5) days** after purchasing a monthly plan. Our refund policy does not apply to:
 
-*   In-app purchases;
-*   Fees charged immediately after a free-trial period ends;
-*   Attempted abuse of the refund policy (i.e., by subscribing and requesting refunds repeatedly);
-*   Subscription renewals or migrations to other plans;
-*   Fees other than annual or monthly subscription fees;
-*   Requests made after the specified periods;
-*   Customers who have breached this Agreement or whose accounts were terminated in accordance with our [Copyright Policy](https://vimeo.com/dmca);
-*   Customers who joined using a promotion that expressly disclaimed our refund policy;
-*   Customers who have initiated a chargeback dispute; or
-*   Enterprise plan customers.
+* In-app purchases;
+* Fees charged immediately after a free-trial period ends;
+* Attempted abuse of the refund policy (i.e., by subscribing and requesting refunds repeatedly);
+* Subscription renewals or migrations to other plans;
+* Fees other than annual or monthly subscription fees;
+* Requests made after the specified periods;
+* Customers who have breached this Agreement or whose accounts were terminated in accordance with our [Copyright Policy](https://vimeo.com/dmca);
+* Customers who joined using a promotion that expressly disclaimed our refund policy;
+* Customers who have initiated a chargeback dispute; or
+* Enterprise plan customers.
 
 **Automatic Renewal:** **To the extent permitted by applicable law, subscriptions automatically renew at the end of each subscription period unless canceled beforehand. Monthly plans renew for 30-day periods. Annual plans renew for one-year periods.** You must pay the annual or monthly fee (plus any taxes) when each renewal period starts. Unused storage, bandwidth, and other usage limits do not roll over.
 
-**How to Decline Renewal:** **Self-Serve subscribers may opt out of automatic renewal by changing their account settings. Enterprise plan customers may opt out according to the** [**Enterprise Terms**](https://vimeo.com/enterpriseterms)**.** Any opt-out or notice of non-renewal will not affect the current subscription period. Vimeo may decline renewals.
+**How to Decline Renewal:** **Self-Serve subscribers may opt out of automatic renewal by changing their account settings. Enterprise plan customers may opt out according to the** [**Enterprise Terms**](https://vimeo.com/enterpriseterms)**.** Any opt-out or notice of non-renewal will not affect the current subscription period. Vimeo may decline renewals.
 
 **Lapse Policy:** When a subscription ends, the account will, at Vimeo’s option, revert to a free membership or will be deleted. Any content in the account may be deleted to comply with the limitations of the new account status. You are responsible for archiving your content. Vimeo shall not be responsible for the loss of any content. We may publish additional guidelines regarding the treatment of lapsed subscriptions. These guidelines describe current practices only and shall not require Vimeo to provide any level of post-subscription account status.
 
@@ -126,21 +126,21 @@ You may only upload content that you have the right to upload and share. Copyrig
 
 You may not submit any content that:
 
-*   Infringes any third party’s copyrights or other rights (e.g., trademark, privacy rights, etc.);
-*   Is sexually explicit or promotes a sexual service;
-*   Is defamatory;
-*   Is harassing or abusive;
-*   Contains hateful or discriminatory speech;
-*   Promotes or supports terror or hate groups;
-*   Contains instructions on how to assemble explosive/incendiary devices or homemade/improvised firearms;
-*   Exploits or endangers minors;
-*   Depicts or encourages self-harm or suicide;
-*   Depicts (1) unlawful real-world acts of extreme violence, (2) vivid, realistic, or particularly graphic acts of violence and brutality, (3) sexualized violence, including rape, torture, abuse, and humiliation, or (4) animal cruelty or extreme violence towards animals;
-*   Promotes fraudulent or dubious money-making schemes, proposes an unlawful transaction, or uses deceptive marketing practices;
-*   Contains false or misleading claims about (1) vaccination safety, or (2) health-related information that has a serious potential to cause individual or public harm;
-*   Contains false or misleading information about voting or seeks to obstruct voting;
-*   Contains (1) claims that a real-world tragedy did not occur; (2) false claims that a violent crime or catastrophe has occurred; or (3) false or misleading information (including fake news, deepfakes, propaganda, or unproven or debunked conspiracy theories) that creates a serious risk of material harm to a person, group, or the general public; or
-*   Violates any applicable law.
+* Infringes any third party’s copyrights or other rights (e.g., trademark, privacy rights, etc.);
+* Is sexually explicit or promotes a sexual service;
+* Is defamatory;
+* Is harassing or abusive;
+* Contains hateful or discriminatory speech;
+* Promotes or supports terror or hate groups;
+* Contains instructions on how to assemble explosive/incendiary devices or homemade/improvised firearms;
+* Exploits or endangers minors;
+* Depicts or encourages self-harm or suicide;
+* Depicts (1) unlawful real-world acts of extreme violence, (2) vivid, realistic, or particularly graphic acts of violence and brutality, (3) sexualized violence, including rape, torture, abuse, and humiliation, or (4) animal cruelty or extreme violence towards animals;
+* Promotes fraudulent or dubious money-making schemes, proposes an unlawful transaction, or uses deceptive marketing practices;
+* Contains false or misleading claims about (1) vaccination safety, or (2) health-related information that has a serious potential to cause individual or public harm;
+* Contains false or misleading information about voting or seeks to obstruct voting;
+* Contains (1) claims that a real-world tragedy did not occur; (2) false claims that a violent crime or catastrophe has occurred; or (3) false or misleading information (including fake news, deepfakes, propaganda, or unproven or debunked conspiracy theories) that creates a serious risk of material harm to a person, group, or the general public; or
+* Violates any applicable law.
 
 Please see the [Vimeo Guidelines](https://vimeo.com/help/guidelines) for guidance on how we interpret these terms.
 
@@ -148,36 +148,36 @@ Please see the [Vimeo Guidelines](https://vimeo.com/help/guidelines) for guidanc
 
 In using our Services, you may not:
 
-*   Use an offensive screen name (e.g., explicit language) or avatar (e.g., containing nudity);
-*   Act in a deceptive manner or impersonate any person or organization;
-*   Harass or stalk any person;
-*   Harm or exploit minors;
-*   Distribute “spam” in any form or use misleading metadata;
-*   Collect personal information about others without their authorization;
-*   Access another’s account except as permitted herein;
-*   Use or export any of our Services in violation of any U.S. law;
-*   Act in a manner that would subject Vimeo to industry-specific privacy regulations such as the Health Insurance Portability and Accountability Act (HIPAA) or the Gramm-Leach-Bliley Act (GLBA);
-*   Engage in any unlawful activity;
-*   Embed our video player on or provide links to sites that contain content prohibited by **Section 5.2**; or
-*   Cause or encourage others to do any of the above.
+* Use an offensive screen name (e.g., explicit language) or avatar (e.g., containing nudity);
+* Act in a deceptive manner or impersonate any person or organization;
+* Harass or stalk any person;
+* Harm or exploit minors;
+* Distribute “spam” in any form or use misleading metadata;
+* Collect personal information about others without their authorization;
+* Access another’s account except as permitted herein;
+* Use or export any of our Services in violation of any U.S. law;
+* Act in a manner that would subject Vimeo to industry-specific privacy regulations such as the Health Insurance Portability and Accountability Act (HIPAA) or the Gramm-Leach-Bliley Act (GLBA);
+* Engage in any unlawful activity;
+* Embed our video player on or provide links to sites that contain content prohibited by **Section 5.2**; or
+* Cause or encourage others to do any of the above.
 
 ### **5.4 Prohibited Technical Measures**
 
 You will not:
 
-*   Except as authorized by law or as permitted by us in writing: scrape, reproduce, redistribute, frame, mirror, create derivative works from, decompile, reverse engineer, alter, archive, or disassemble any part of our Services; or attempt to circumvent any of our security, rate-limiting, filtering, or digital rights management measures;
-*   Remove or modify any logo, watermark, or notice of proprietary rights embedded on or in the Services or any output thereof without our permission;
-*   Submit any malicious program, script, or code;
-*   Submit an unreasonable number of requests to our servers; or
-*   Take any other actions to manipulate, interfere with, or damage our Services.
+* Except as authorized by law or as permitted by us in writing: scrape, reproduce, redistribute, frame, mirror, create derivative works from, decompile, reverse engineer, alter, archive, or disassemble any part of our Services; or attempt to circumvent any of our security, rate-limiting, filtering, or digital rights management measures;
+* Remove or modify any logo, watermark, or notice of proprietary rights embedded on or in the Services or any output thereof without our permission;
+* Submit any malicious program, script, or code;
+* Submit an unreasonable number of requests to our servers; or
+* Take any other actions to manipulate, interfere with, or damage our Services.
 
 ### **5.5 Restricted Users**
 
 You may not use our Services if you:
 
-*   are a terror or hate group or a member thereof;
-*   have been designated by a U.S. agency as an entity that we may not contract with (e.g., a Specially Designated National); or
-*   are subject to sanctions by a non-U.S. government such that we would be required to block your videos in a substantial number of countries in which we provide service.
+* are a terror or hate group or a member thereof;
+* have been designated by a U.S. agency as an entity that we may not contract with (e.g., a Specially Designated National); or
+* are subject to sanctions by a non-U.S. government such that we would be required to block your videos in a substantial number of countries in which we provide service.
 
 You may not purchase goods or software services from us if doing so would violate any U.S. sanctions. You hereby make a continuing representation that you are in compliance with the foregoing restrictions.
 
@@ -196,14 +196,14 @@ As between you and Vimeo, you own and will retain ownership of all intellectual 
 
 Subject to the terms hereof, by submitting a video, you grant Vimeo permission to:
 
-*   Stream the video to end users;
-*   Embed the video on third-party websites;
-*   Distribute the video via our APIs;
-*   Make the video available for download;
-*   Transcode the video (create compressed versions of your video file that are optimized for streaming);
-*   Generate stills (i.e., “thumbnails”) from your video to represent it (if you have not selected one);
-*   Automatically generate and display closed captions or subtitles from your video; and
-*   Alter or enhance your video as directed by you.
+* Stream the video to end users;
+* Embed the video on third-party websites;
+* Distribute the video via our APIs;
+* Make the video available for download;
+* Transcode the video (create compressed versions of your video file that are optimized for streaming);
+* Generate stills (i.e., “thumbnails”) from your video to represent it (if you have not selected one);
+* Automatically generate and display closed captions or subtitles from your video; and
+* Alter or enhance your video as directed by you.
 
 If you have enabled a video privacy setting or disabled downloading or embedding, we will limit distribution of your video pursuant to your selection. By enabling access to your video to any third party, you grant each such person permission to stream (and/or download or embed, as applicable) your video. For the purposes of this **Section 6.1**, your video includes its title, description, tags, and other metadata.
 
@@ -232,11 +232,11 @@ All licenses granted by you in this **Section 6**: (a) are non-exclusive, worldw
 
 For each piece of content that you submit to or through Vimeo, you represent and warrant that:
 
-*   You have the right to submit the content to Vimeo and grant the licenses herein;
-*   Vimeo will not need to obtain licenses from any third party or pay royalties to any third party with respect to the streaming or other permitted distribution of the content;
-*   You have obtained appropriate releases (if necessary) from all persons who appear in the content;
-*   The content does not, and will not, infringe any third party's rights, including intellectual property rights, rights of publicity, moral rights, and privacy rights; and
-*   The content complies with this Agreement and all applicable laws.
+* You have the right to submit the content to Vimeo and grant the licenses herein;
+* Vimeo will not need to obtain licenses from any third party or pay royalties to any third party with respect to the streaming or other permitted distribution of the content;
+* You have obtained appropriate releases (if necessary) from all persons who appear in the content;
+* The content does not, and will not, infringe any third party's rights, including intellectual property rights, rights of publicity, moral rights, and privacy rights; and
+* The content complies with this Agreement and all applicable laws.
 
 ### **7.2 Indemnification**
 
@@ -258,14 +258,14 @@ VIMEO PROVIDES THE SERVICES ON AN “AS IS” AND “AS AVAILABLE” BASIS. YOU 
 
 EXCEPT AS EXPRESSLY SET FORTH HEREIN, AND TO THE EXTENT PERMITTED BY APPLICABLE LAW, VIMEO DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. Among other things, Vimeo makes no representations or warranties:
 
-*   That our Services, or any part thereof, will be available or permitted in your jurisdiction, uninterrupted or error-free, completely secure, or accessible from all devices or browsers;
-*   That we will host, make available, or remove any specific piece of content;
-*   Concerning any content submitted by or actions of our users;
-*   That any geo-filtering or digital rights management solution that we might offer will be effective;
-*   That we comply with the Health Insurance Portability and Accountability Act (HIPAA), the Gramm-Leach-Bliley Act (GLBA), or any other industry-specific privacy obligations;
-*   That our Services will meet your business or professional needs;
-*   That we will continue to support any particular feature or maintain backwards compatibility with any third-party software or device; or
-*   Concerning any third-party websites and resources.
+* That our Services, or any part thereof, will be available or permitted in your jurisdiction, uninterrupted or error-free, completely secure, or accessible from all devices or browsers;
+* That we will host, make available, or remove any specific piece of content;
+* Concerning any content submitted by or actions of our users;
+* That any geo-filtering or digital rights management solution that we might offer will be effective;
+* That we comply with the Health Insurance Portability and Accountability Act (HIPAA), the Gramm-Leach-Bliley Act (GLBA), or any other industry-specific privacy obligations;
+* That our Services will meet your business or professional needs;
+* That we will continue to support any particular feature or maintain backwards compatibility with any third-party software or device; or
+* Concerning any third-party websites and resources.
 
 **10\. Limitation of Liability**
 --------------------------------
@@ -310,19 +310,19 @@ The English version of this Agreement shall control. For convenience, we may pro
 
 **Addenda:** This Agreement incorporates the following documents (and no others) by reference:
 
-*   [Privacy Policy](https://vimeo.com/privacy)
-*   [Cookie Policy](https://vimeo.com/cookie_policy)
-*   [Copyright Policy](https://vimeo.com/dmca)
-*   [Government Entity Addendum](https://vimeo.com/governmententityaddendum)
-*   [Third-Party Service Addendum](https://vimeo.com/terms/thirdpartyservices)
-*   [Vimeo Create Addendum](https://vimeo.com/vimeo-create-addendum)
-*   [Vimeo On Demand Viewer Agreement](https://vimeo.com/vodvieweragreement)
-*   [Stock Footage License Agreement](https://vimeo.com/stock/standardlicense)
-*   [Seller Addendum](https://vimeo.com/selleraddendum)
-*   [EU OTT Seller Addendum](https://vimeo.com/terms/p2b-addendum)
-*   [API License Addendum](https://developer.vimeo.com/guidelines/terms)
-*   [Arbitration Procedures](https://vimeo.com/terms/arbitration-procedures)
-*   [Enterprise Terms](https://vimeo.com/enterpriseterms)
+* [Privacy Policy](https://vimeo.com/privacy)
+* [Cookie Policy](https://vimeo.com/cookie_policy)
+* [Copyright Policy](https://vimeo.com/dmca)
+* [Government Entity Addendum](https://vimeo.com/governmententityaddendum)
+* [Third-Party Service Addendum](https://vimeo.com/terms/thirdpartyservices)
+* [Vimeo Create Addendum](https://vimeo.com/vimeo-create-addendum)
+* [Vimeo On Demand Viewer Agreement](https://vimeo.com/vodvieweragreement)
+* [Stock Footage License Agreement](https://vimeo.com/stock/standardlicense)
+* [Seller Addendum](https://vimeo.com/selleraddendum)
+* [EU OTT Seller Addendum](https://vimeo.com/terms/p2b-addendum)
+* [API License Addendum](https://developer.vimeo.com/guidelines/terms)
+* [Arbitration Procedures](https://vimeo.com/terms/arbitration-procedures)
+* [Enterprise Terms](https://vimeo.com/enterpriseterms)
 
 **Notices:** You must send any notices of a legal nature to us by [email](mailto:legal@vimeo.com) or at:
 
