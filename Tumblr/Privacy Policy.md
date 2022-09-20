@@ -76,25 +76,25 @@ To learn more about how we select the ads you see, you can check out [Tumblr’s
 
 When using web-based versions of Tumblr, you may opt-out of interest-based or personalized advertising by using the following industry opt-out pages:
 
-*   (EU) European Interactive Digital Advertising Alliance (EDAA) - [www.youronlinechoices.com](https://www.tumblr.com/privacy/www.youronlinechoices.com)
-*   (US) Network Advertising Initiative (NAI) - [www.networkadvertising.org](https://www.tumblr.com/privacy/www.networkadvertising.org)
-*   (US) Digital Advertising Alliance (DAA) - [www.aboutads.info](https://www.tumblr.com/privacy/www.aboutads.info)
-*   (Japan) Data Driven Advertising Initiative (DDAI) - [www.ddai.info](https://www.tumblr.com/privacy/www.ddai.info)
+* (EU) European Interactive Digital Advertising Alliance (EDAA) - [www.youronlinechoices.com](https://www.tumblr.com/privacy/www.youronlinechoices.com)
+* (US) Network Advertising Initiative (NAI) - [www.networkadvertising.org](https://www.tumblr.com/privacy/www.networkadvertising.org)
+* (US) Digital Advertising Alliance (DAA) - [www.aboutads.info](https://www.tumblr.com/privacy/www.aboutads.info)
+* (Japan) Data Driven Advertising Initiative (DDAI) - [www.ddai.info](https://www.tumblr.com/privacy/www.ddai.info)
 
 These industry advertising organizations offer web browser-based tools for limiting the use of your web viewing data for interest-based or personalized advertising. Any choices made via these industry tools will only apply to the web browser in use for the choices made. These advertising choices are not propagated among all of your devices.
 
 When using the mobile app version of Tumblr on Apple iOS devices you can opt out of personalized advertising by selecting "Limit Ad Tracking" in the iOS settings. For more information about these iOS options:
 
-1.  Open Settings;
-2.  Select Privacy; and
-3.  Select Advertising and follow the on-screen instructions.
+1. Open Settings;
+2. Select Privacy; and
+3. Select Advertising and follow the on-screen instructions.
 
 When using the mobile app version of Tumblr on Android devices you can opt-out of personalized advertising by selecting "Opt out of Interest Based Ads” in Google settings. For more information about these Android options:
 
-1.  Open Settings;
-2.  Select Google;
-3.  Select Privacy; and
-4.  Select Ads and follow the on-screen instructions.
+1. Open Settings;
+2. Select Google;
+3. Select Privacy; and
+4. Select Ads and follow the on-screen instructions.
 
 With Whom Your Information Is Shared
 ------------------------------------
