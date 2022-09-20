@@ -17,10 +17,10 @@ Hate speech
 
 We do not allow content that promotes hatred or violence against a group of people based on:
 
-*   Race or ethnic origin
-*   Religion
-*   Disability, gender, or age
-*   Veteran status, sexual orientation, or gender identity
+* Race or ethnic origin
+* Religion
+* Disability, gender, or age
+* Veteran status, sexual orientation, or gender identity
 
 Illegal activities
 
@@ -48,10 +48,10 @@ Personal & confidential information
 
 Do not publish or disclose private and confidential information belonging to other people unless you’re authorized to do so. This includes:
 
-*   Government identification numbers
-*   Credit card numbers
-*   Driver's and other license numbers
-*   Non-public contacts, or any other information that's not publicly available
+* Government identification numbers
+* Credit card numbers
+* Driver's and other license numbers
+* Non-public contacts, or any other information that's not publicly available
 
 Sexually explicit material
 
