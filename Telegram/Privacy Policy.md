@@ -9,8 +9,8 @@ This Privacy Policy sets out how we, Telegram Messenger Inc. **(“Telegram”)*
 
 Telegram has two fundamental principles when it comes to collecting and processing private data:
 
-*   We don't use your data to show you ads.
-*   We only store the data that Telegram needs to function as a secure and feature-rich messaging service.
+* We don't use your data to show you ads.
+* We only store the data that Telegram needs to function as a secure and feature-rich messaging service.
 
 #### [](#1-2-terms-of-service)1.2. Terms of Service
 
@@ -20,12 +20,12 @@ This Privacy Policy forms part of our Terms of Service, which describes the term
 
 This Privacy Policy explains the following:
 
-*   [the legal basis for processing your personal data;](#2-legal-ground-for-processing-your-personal-data)
-*   [what personal data we may collect from you;](#3-what-personal-data-we-use)
-*   [how we keep your personal data safe;](#4-keeping-your-personal-data-safe)
-*   [what we may use your personal data for;](#5-processing-your-personal-data)
-*   [who your personal data may be shared with;](#8-who-your-personal-data-may-be-shared-with) and
-*   [your rights regarding your personal data.](#9-your-rights-regarding-the-personal-data-you-provide-to-us)
+* [the legal basis for processing your personal data;](#2-legal-ground-for-processing-your-personal-data)
+* [what personal data we may collect from you;](#3-what-personal-data-we-use)
+* [how we keep your personal data safe;](#4-keeping-your-personal-data-safe)
+* [what we may use your personal data for;](#5-processing-your-personal-data)
+* [who your personal data may be shared with;](#8-who-your-personal-data-may-be-shared-with) and
+* [your rights regarding your personal data.](#9-your-rights-regarding-the-personal-data-you-provide-to-us)
 
 #### [](#1-4-eea-representative)1.4. EEA Representative
 
@@ -143,11 +143,11 @@ Telegram has an API that allows third-party developers to create [bots](https://
 
 You can send data to bot developers when you interact with their bots in one of these ways:
 
-*   By sending messages to a bot.
-*   By using an [inline bot](https://telegram.org/blog/inline-bots).
-*   By participating in a group with a bot.
-*   By pressing buttons in messages sent by a bot.
-*   By paying for goods and services via bots (see [section 7](#7-third-party-payment-services) below).
+* By sending messages to a bot.
+* By using an [inline bot](https://telegram.org/blog/inline-bots).
+* By participating in a group with a bot.
+* By pressing buttons in messages sent by a bot.
+* By paying for goods and services via bots (see [section 7](#7-third-party-payment-services) below).
 
 #### [](#6-3-what-data-bots-receive)6.3. What Data Bots Receive
 
@@ -155,11 +155,11 @@ In any of the above cases, the developers of an automated user (bot) can get you
 
 Bots can also receive the following data when you **interact** with them.
 
-*   Bots will obviously get your messages when you send them something.
-*   If you click on links or buttons provided by the bot, the bot can potentially get your IP address (provided that it controls the website to which the link leads).
-*   If the bot is a member of the same group with you, it may know you are a member.
-*   When you start your message with the username of an [inline bot](https://telegram.org/blog/inline-bots) (e.g. [@gif](https://t.me/gif)) the interface transforms so that everything you type becomes a query to that bot. This query is sent to the bot so that it can provide its service. We will warn you about this the first time you use an inline bot.
-*   Bots added to groups can operate in two modes: with access to messages in the group or [without access](https://core.telegram.org/bots#privacy-mode). If the bot has access to messages, it can see everything that happens in the group. The interface clearly shows whether or not a bot has access to messages in groups.
+* Bots will obviously get your messages when you send them something.
+* If you click on links or buttons provided by the bot, the bot can potentially get your IP address (provided that it controls the website to which the link leads).
+* If the bot is a member of the same group with you, it may know you are a member.
+* When you start your message with the username of an [inline bot](https://telegram.org/blog/inline-bots) (e.g. [@gif](https://t.me/gif)) the interface transforms so that everything you type becomes a query to that bot. This query is sent to the bot so that it can provide its service. We will warn you about this the first time you use an inline bot.
+* Bots added to groups can operate in two modes: with access to messages in the group or [without access](https://core.telegram.org/bots#privacy-mode). If the bot has access to messages, it can see everything that happens in the group. The interface clearly shows whether or not a bot has access to messages in groups.
 
 #### [](#6-4-bots-are-not-maintained-by-telegram)6.4. Bots Are Not Maintained by Telegram
 
@@ -233,10 +233,10 @@ If you would like to delete your account, you can do this on the [deactivation p
 
 #### [](#10-2-messages)10.2. Messages
 
-*   In secret chats, deleting a message always instructs the app on the other end to delete it too.
-*   In cloud chats, you can choose to delete a message for all participants within at least 48 hours after sending. Otherwise, deleting a message will delete it from your message history. This means that a copy will stay on the server as part of your partner's message history. As soon as your partner deletes it too, it's gone forever.
-*   As of [version 5.5](https://telegram.org/blog/unsend-privacy-emoji), any party can choose to delete any messages in one-on-one chats, both sent and received, for both sides. There is no time limit. Any party can also opt to clear the entire chat history for both parties, in which case the apps will be instructed to remove all messages in that chat, regardless of how many messages are retained by either of the participants.
-*   In [supergroups](https://telegram.org/blog/supergroups) and channels, deleting a message removes it for all participants. Note that deleted messages and original versions of edited messages from supergroups are stored for 48 hours after deletion in order to be shown in the [admins log](https://telegram.org/blog/admin-revolution#recent-admin-actions).
+* In secret chats, deleting a message always instructs the app on the other end to delete it too.
+* In cloud chats, you can choose to delete a message for all participants within at least 48 hours after sending. Otherwise, deleting a message will delete it from your message history. This means that a copy will stay on the server as part of your partner's message history. As soon as your partner deletes it too, it's gone forever.
+* As of [version 5.5](https://telegram.org/blog/unsend-privacy-emoji), any party can choose to delete any messages in one-on-one chats, both sent and received, for both sides. There is no time limit. Any party can also opt to clear the entire chat history for both parties, in which case the apps will be instructed to remove all messages in that chat, regardless of how many messages are retained by either of the participants.
+* In [supergroups](https://telegram.org/blog/supergroups) and channels, deleting a message removes it for all participants. Note that deleted messages and original versions of edited messages from supergroups are stored for 48 hours after deletion in order to be shown in the [admins log](https://telegram.org/blog/admin-revolution#recent-admin-actions).
 
 #### [](#10-3-self-destructing-messages)10.3. Self-Destructing Messages
 
@@ -252,24 +252,24 @@ We will review and may update this Privacy Policy from time to time. Any changes
 
 **March 25, 2019**
 
-*   Expanded \[10.2. Deleting Messages\] with data on the new features in [version 5.5](https://telegram.org/blog/unsend-privacy-emoji), which allow both participants to remove any messages from one-on-one chats for both sides without a time limit.
+* Expanded \[10.2. Deleting Messages\] with data on the new features in [version 5.5](https://telegram.org/blog/unsend-privacy-emoji), which allow both participants to remove any messages from one-on-one chats for both sides without a time limit.
 
 **March 24, 2021**
 
-*   Added [3.5. Location Data](#3-5-location-data).
-*   Improved structure, moving 3.3.5 to [3.4](#3-4-phone-number-and-contacts) and 3.3.6 to [3.6](#3-6-cookies).
+* Added [3.5. Location Data](#3-5-location-data).
+* Improved structure, moving 3.3.5 to [3.4](#3-4-phone-number-and-contacts) and 3.3.6 to [3.6](#3-6-cookies).
 
 **October 26, 2021**
 
-*   Expanded [5.6. No Ads Based on User Data](#5-6-no-ads-based-on-user-data) with information about [sponsored messages in public channels](https://t.me/durov/153).
+* Expanded [5.6. No Ads Based on User Data](#5-6-no-ads-based-on-user-data) with information about [sponsored messages in public channels](https://t.me/durov/153).
 
 **June 19, 2022**
 
-*   Added [8.4. Translation of Messages at the Request of the User](#8-4-translation-of-messages-at-the-request-of-the-user) and [8.5. Transcription of Voice Messages at the Request of the User](#8-5-transcription-of-voice-messages-at-the-request-of-the-user).
+* Added [8.4. Translation of Messages at the Request of the User](#8-4-translation-of-messages-at-the-request-of-the-user) and [8.5. Transcription of Voice Messages at the Request of the User](#8-5-transcription-of-voice-messages-at-the-request-of-the-user).
 
 **September 8, 2022**
 
-*   Expanded [3.2. Your Email Address](https://telegram.org/privacy#3-2-your-email-address) with information on login emails, available as of Telegram 9.0
+* Expanded [3.2. Your Email Address](https://telegram.org/privacy#3-2-your-email-address) with information on login emails, available as of Telegram 9.0
 
 Important changes made to this Privacy Policy will be notified to you via Telegram.
 
@@ -279,10 +279,10 @@ If you have any questions about privacy and our data policies, please contact ou
 
 Telegram is an open source project. You can examine more information on our:
 
-*   API at: [](https://core.telegram.org/api)[https://core.telegram.org/api](https://core.telegram.org/api);
-*   Bot Platform at: [](https://core.telegram.org/bots)[https://core.telegram.org/bots](https://core.telegram.org/bots);
-*   Protocol at: [](https://core.telegram.org/mtproto)[https://core.telegram.org/mtproto](https://core.telegram.org/mtproto); and
-*   Source Code at: [](https://telegram.org/apps#source-code)[https://telegram.org/apps#source-code](https://telegram.org/apps#source-code).
+* API at: [](https://core.telegram.org/api)[https://core.telegram.org/api](https://core.telegram.org/api);
+* Bot Platform at: [](https://core.telegram.org/bots)[https://core.telegram.org/bots](https://core.telegram.org/bots);
+* Protocol at: [](https://core.telegram.org/mtproto)[https://core.telegram.org/mtproto](https://core.telegram.org/mtproto); and
+* Source Code at: [](https://telegram.org/apps#source-code)[https://telegram.org/apps#source-code](https://telegram.org/apps#source-code).
 
 * * *
 
