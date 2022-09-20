@@ -72,21 +72,21 @@ Use of Services
 
 The Services may contain e-mail services, bulletin board services, chat areas, news groups, forums, communities, personal web pages, calendars, photo albums, file cabinets and/or other message or communication facilities designed to enable you to communicate with others (each a "Communication Service" and collectively "Communication Services"). You agree to use the Communication Services only to post, send and receive messages and material that are proper and, when applicable, related to the particular Communication Service. By way of example, and not as a limitation, you agree that when using the Communication Services, you will not:
 
-*   Use the Communication Services in connection with surveys, contests, pyramid schemes, chain letters, junk email, spamming or any duplicative or unsolicited messages (commercial or otherwise).
-*   Defame, abuse, harass, stalk, threaten or otherwise violate the legal rights (such as rights of privacy and publicity) of others.
-*   Publish, post, upload, distribute or disseminate any inappropriate, profane, defamatory, obscene, indecent, or unlawful topic, name, material, or information.
-*   Upload, or otherwise make available, files that contain images, photographs, software, or other material protected by intellectual property laws, including, by way of example, and not as limitation, copyright, or trademark laws (or by rights of privacy or publicity) unless you own or control the rights thereto or have received all necessary consent to do the same.
-*   Use any material or information, including images or photographs, which are made available through the Services in any manner that infringes any copyright, trademark, patent, trade secret, or other proprietary right of any party.
-*   Upload files that contain viruses, Trojan horses, worms, time bombs, cancelbots, corrupted files, or any other similar software or programs that may damage the operation of another's computer or property of another.
-*   Advertise or offer to sell or buy any goods or services for any business purpose unless such Communication Services specifically allows such messages.
-*   Download any file posted by another user of a Communication Service that you know, or reasonably should know, cannot be legally reproduced, displayed, performed, and/or distributed in such manner.
-*   Falsify or delete any copyright management information, such as author attributions, legal or other proper notices or proprietary designations or labels of the origin or source of software or other material contained in a file that is uploaded.
-*   Restrict or inhibit any other user from using and enjoying the Communication Services.
-*   Violate any code of conduct or other guidelines which may be applicable for any particular Communication Service.
-*   Harvest or otherwise collect information about others, including e-mail addresses.
-*   Violate any applicable laws or regulations.
-*   Create a false identity for the purpose of misleading others.
-*   Use, download or otherwise copy, or provide (whether or not for a fee) to a person or entity any directory of users of the Services or other user or usage information or any portion thereof.
+* Use the Communication Services in connection with surveys, contests, pyramid schemes, chain letters, junk email, spamming or any duplicative or unsolicited messages (commercial or otherwise).
+* Defame, abuse, harass, stalk, threaten or otherwise violate the legal rights (such as rights of privacy and publicity) of others.
+* Publish, post, upload, distribute or disseminate any inappropriate, profane, defamatory, obscene, indecent, or unlawful topic, name, material, or information.
+* Upload, or otherwise make available, files that contain images, photographs, software, or other material protected by intellectual property laws, including, by way of example, and not as limitation, copyright, or trademark laws (or by rights of privacy or publicity) unless you own or control the rights thereto or have received all necessary consent to do the same.
+* Use any material or information, including images or photographs, which are made available through the Services in any manner that infringes any copyright, trademark, patent, trade secret, or other proprietary right of any party.
+* Upload files that contain viruses, Trojan horses, worms, time bombs, cancelbots, corrupted files, or any other similar software or programs that may damage the operation of another's computer or property of another.
+* Advertise or offer to sell or buy any goods or services for any business purpose unless such Communication Services specifically allows such messages.
+* Download any file posted by another user of a Communication Service that you know, or reasonably should know, cannot be legally reproduced, displayed, performed, and/or distributed in such manner.
+* Falsify or delete any copyright management information, such as author attributions, legal or other proper notices or proprietary designations or labels of the origin or source of software or other material contained in a file that is uploaded.
+* Restrict or inhibit any other user from using and enjoying the Communication Services.
+* Violate any code of conduct or other guidelines which may be applicable for any particular Communication Service.
+* Harvest or otherwise collect information about others, including e-mail addresses.
+* Violate any applicable laws or regulations.
+* Create a false identity for the purpose of misleading others.
+* Use, download or otherwise copy, or provide (whether or not for a fee) to a person or entity any directory of users of the Services or other user or usage information or any portion thereof.
 
 Microsoft has no obligation to monitor the Communication Services. However, Microsoft reserves the right to review materials posted to the Communication Services and to remove any materials in its sole discretion. Microsoft reserves the right to terminate your access to any or all of the Communication Services at any time, without notice, for any reason whatsoever.
 
