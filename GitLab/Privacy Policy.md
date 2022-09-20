@@ -1,5 +1,5 @@
-1.  You are here:
-2.  GitLab Privacy Policy
+1. You are here:
+2. GitLab Privacy Policy
 
 _Last updated: 10 June 2022_
 
@@ -8,21 +8,21 @@ Introduction
 
 At GitLab, we take the privacy and security of your information seriously. This privacy policy (“Privacy Policy”) will explain how GitLab B.V. and GitLab, Inc. ("GitLab", "we", "our", "us") handles your personal data. "Personal Data," as used in this Privacy Policy, is information that identifies or can reasonably be linked directly or indirectly to an identifiable person. The privacy practices and standards detailed in this Privacy Policy apply to all data subjects globally, unless specifically noted otherwise. In particular, this Privacy Policy will touch on the following sections:
 
-*   [What Personal Data does GitLab collect about me?](https://about.gitlab.com/privacy/#what-personal-data-does-gitlab-collect-about-me)
+* [What Personal Data does GitLab collect about me?](https://about.gitlab.com/privacy/#what-personal-data-does-gitlab-collect-about-me)
     
-*   [What Personal Data is Not Collected by GitLab?](https://about.gitlab.com/privacy/#what-personal-data-is-not-collected-by-gitlab)
+* [What Personal Data is Not Collected by GitLab?](https://about.gitlab.com/privacy/#what-personal-data-is-not-collected-by-gitlab)
     
-*   [How does GitLab use my Personal Data?](https://about.gitlab.com/privacy/#how-does-gitlab-use-my-personal-data)
+* [How does GitLab use my Personal Data?](https://about.gitlab.com/privacy/#how-does-gitlab-use-my-personal-data)
     
-*   [With Whom does GitLab share my Personal Data?](https://about.gitlab.com/privacy/#with-whom-does-gitlab-share-my-personal-data)
+* [With Whom does GitLab share my Personal Data?](https://about.gitlab.com/privacy/#with-whom-does-gitlab-share-my-personal-data)
     
-*   [How does GitLab Secure my Personal Data?](https://about.gitlab.com/privacy/#how-does-gitlab-secure-my-personal-data)
+* [How does GitLab Secure my Personal Data?](https://about.gitlab.com/privacy/#how-does-gitlab-secure-my-personal-data)
     
-*   [What are my rights and choices regarding Personal Data?](https://about.gitlab.com/privacy/#what-are-my-rights-and-choices-regarding-personal-data)
+* [What are my rights and choices regarding Personal Data?](https://about.gitlab.com/privacy/#what-are-my-rights-and-choices-regarding-personal-data)
     
-*   [California Privacy Rights](https://about.gitlab.com/privacy/#california-privacy-rights)
+* [California Privacy Rights](https://about.gitlab.com/privacy/#california-privacy-rights)
     
-*   [Other important privacy information](https://about.gitlab.com/privacy/#other-important-privacy-information)
+* [Other important privacy information](https://about.gitlab.com/privacy/#other-important-privacy-information)
     
 
 This Privacy Policy applies to the GitLab websites ("Websites"), GitLab.com ("SaaS"), Self-managed ("Self-managed"), and additional software products and services; collectively "Services."
@@ -97,26 +97,26 @@ If you are a child under the age of 13, you may not have an account. With the ex
 
 GitLab uses your Personal Data for the following purposes:
 
-*   To create your account, identify and authenticate your access to the Services and provide you with the Services you have requested;
-*   To process your payment for the Services you have purchased;
-*   To understand how our Services are used and to improve our Services;
-*   To provide personalized experiences;
-*   To conduct user research and development;
-*   To send you important information about the Services;
-*   To send you information you have requested;
-*   To send you advertising, marketing content, offers, promotions, newsletters, surveys or other information;
-*   To provide you a forum to comment on or discuss the Services;
-*   To create digital productions and manage events;
-*   To provide trainings and learning opportunities;
-*   To enable partners to register and track deals;
-*   To provide workload and code review recommendations through machine-learning;
-*   To respond to your requests for customer support;
-*   To improve the security of and troubleshoot our Services, as necessary to perform the contract governing your use of our applications or to communicate with you;
-*   To detect, prevent, or otherwise address fraud and abuse to protect you, GitLab, and third-parties;
-*   To enforce the legal terms that govern our Services;
-*   To comply with our legal obligations;
-*   To protect the rights, safety and property of GitLab, you, or any third-party; and
-*   For other purposes, for which we obtain your consent.
+* To create your account, identify and authenticate your access to the Services and provide you with the Services you have requested;
+* To process your payment for the Services you have purchased;
+* To understand how our Services are used and to improve our Services;
+* To provide personalized experiences;
+* To conduct user research and development;
+* To send you important information about the Services;
+* To send you information you have requested;
+* To send you advertising, marketing content, offers, promotions, newsletters, surveys or other information;
+* To provide you a forum to comment on or discuss the Services;
+* To create digital productions and manage events;
+* To provide trainings and learning opportunities;
+* To enable partners to register and track deals;
+* To provide workload and code review recommendations through machine-learning;
+* To respond to your requests for customer support;
+* To improve the security of and troubleshoot our Services, as necessary to perform the contract governing your use of our applications or to communicate with you;
+* To detect, prevent, or otherwise address fraud and abuse to protect you, GitLab, and third-parties;
+* To enforce the legal terms that govern our Services;
+* To comply with our legal obligations;
+* To protect the rights, safety and property of GitLab, you, or any third-party; and
+* For other purposes, for which we obtain your consent.
 
 #### Legal Basis for the Processing of your Personal Data
 
