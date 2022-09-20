@@ -8,10 +8,10 @@ Our Principles
 
 At VocabularySpellingCity, we are guided by the following fundamental principles when it comes to your privacy:
 
-*   We only collect personal information from you when we absolutely need it to provide you with our service.
-*   We do not share your personal information with anyone unless it is required to provide or develop our service, comply with the law, or protect the rights, property or safety of VocabularySpellingCity, our users, or the public.
-*   We do not store your personal information unless we need it to provide you with our service.
-*   We give you control over how your personal information is used, including what is made visible to the public, seen by search engines, kept private, and deleted.
+* We only collect personal information from you when we absolutely need it to provide you with our service.
+* We do not share your personal information with anyone unless it is required to provide or develop our service, comply with the law, or protect the rights, property or safety of VocabularySpellingCity, our users, or the public.
+* We do not store your personal information unless we need it to provide you with our service.
+* We give you control over how your personal information is used, including what is made visible to the public, seen by search engines, kept private, and deleted.
 
 We drafted our privacy policy with these principles in mind, and designed it to comply with state and federal regulations that were enacted to protect the privacy of children and ensure the security and confidentiality of student data, including, but not limited to, the [Children’s Online Privacy Protection Act (“COPPA”)](https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule), the [Federal Education Rights and Privacy Act (“FERPA”)](https://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html), the [California Education Code Section 49073.1](http://leginfo.ca.gov/pub/13-14/bill/asm/ab_1551-1600/ab_1584_bill_20140929_chaptered.pdf) and the European Union’s General Data Protection Regulation (“GDPR”). We ask all users to take some time to review our Privacy Policy and understand our policies and procedures relating to the use of our Website, our commitment to privacy, and the access and use of data. This is important, so if there is anything you do not understand, please contact us with questions.
 
@@ -23,12 +23,12 @@ The VocabularySpellingCity Website, [www.VocabularySpellingCity.com](https://www
 
 We intend for this Privacy Policy to help you understand how we collect and use the personal information that you provide to us through the Service. This Policy explains:
 
-1.  What information we collect.
-2.  How we use that information.
-3.  How is information shared.
-4.  How can you access and manage the information.
-5.  How we secure that information.
-6.  How we let you know about changes to the policy.
+1. What information we collect.
+2. How we use that information.
+3. How is information shared.
+4. How can you access and manage the information.
+5. How we secure that information.
+6. How we let you know about changes to the policy.
 
 I. What Information Do We Collect?
 ----------------------------------
@@ -52,12 +52,12 @@ We do not request access to or collect location information, such as GPS or Blue
 **Log information**  
 When you use the Service, VocabularySpellingCity automatically collects and stores certain information about your activity, including:
 
-*   Details of how you use the Service, like your search queries, clicks and site navigation information, or study activity
-*   Browser type
-*   Time zone
-*   Referring site, and the date and time of each user request
-*   Connection information like ISP or mobile operator
-*   Internet Protocol (IP) address
+* Details of how you use the Service, like your search queries, clicks and site navigation information, or study activity
+* Browser type
+* Time zone
+* Referring site, and the date and time of each user request
+* Connection information like ISP or mobile operator
+* Internet Protocol (IP) address
 
 **Analytics data**  
 We use technologies such as anonymous cookies, beacons, tags and scripts to collect and store data about our users in order to track website statistics, such as visitors, length of time on the Website, and conversion rates, to support the internal operations of our Service and further the education purposes of VocabularySpellingCity. VocabularySpellingCity also reserves the right to use aggregated, de-identified data to improve our educational products, demonstrate the effectiveness of our educational products in marketing, and develop and improve our Website, services or applications. We may share that aggregated, de-identified data with third parties to further the education purpose of our Service.
