@@ -29,9 +29,9 @@ By visiting our Websites, by submitting your personal data to us, and by accessi
 
 **Product-specific Privacy Notices.** As Nord products cater to different user needs, they may process different personal data points during their performance. The following links provide further information on:
 
-*   [NordVPN Privacy Notice (additional terms)](https://my.nordaccount.com/legal/privacy-policy/nordvpn/)
-*   [NordPass Privacy Notice (additional terms)](https://my.nordaccount.com/legal/privacy-policy/nordpass/)
-*   [NordLocker Privacy Notice (additional terms)](https://my.nordaccount.com/legal/privacy-policy/nordlocker/)
+* [NordVPN Privacy Notice (additional terms)](https://my.nordaccount.com/legal/privacy-policy/nordvpn/)
+* [NordPass Privacy Notice (additional terms)](https://my.nordaccount.com/legal/privacy-policy/nordpass/)
+* [NordLocker Privacy Notice (additional terms)](https://my.nordaccount.com/legal/privacy-policy/nordlocker/)
 
 Additional information on your personal data may also be indicated in contractual terms, supplemental privacy statements, or notices.
 
@@ -41,46 +41,46 @@ Nord processes personal data to a limited scope to: provide Services, process pa
 
 Information for creating your Account
 
-*   **Email address.** We ask for your email address as part of your registration. It is necessary for creation of your Nord Account, retrieving a lost password, and using the Services.
+* **Email address.** We ask for your email address as part of your registration. It is necessary for creation of your Nord Account, retrieving a lost password, and using the Services.
 
 Social networks data
 
-*   **Account data.** For the purpose of managing and administering our social networks (e.g., “Facebook”, “Instagram”, “Twitter”, “LinkedIn”,“YouTube”, “Reddit” accounts), we may collect and process your personal data (e.g., full name, social network profile name, pictures, and/or public comments) you provided voluntarily.
+* **Account data.** For the purpose of managing and administering our social networks (e.g., “Facebook”, “Instagram”, “Twitter”, “LinkedIn”,“YouTube”, “Reddit” accounts), we may collect and process your personal data (e.g., full name, social network profile name, pictures, and/or public comments) you provided voluntarily.
 
 **Payment related information** (if using paid Services)
 
-*   **Payment data.** This information is necessary to collect payments for the Services. Our payment processing partners process basic billing information for payment processing and refund requests (e.g., date of purchase, payer’s IP address, postal (ZIP) code, credit card owner's full name and credit card information). We also process some of such billing information ourselves (e. g., date of purchase, credit card owner's full name, part of your credit card number, its expiration date) in cases of recurring payments or when you provide your payment details directly to us.
-*   **Country details.** When making a purchase we process information on the user’s country the purchase takes place from. This information is necessary for VAT calculation purposes.
-*   **Information for payment fraud prevention.** To prevent fraudulent payments for the Services, your personal data (such as email address) is verified by our payment processing partners fraud management tools. A payment transaction that is considered high risk may be rejected by us.
+* **Payment data.** This information is necessary to collect payments for the Services. Our payment processing partners process basic billing information for payment processing and refund requests (e.g., date of purchase, payer’s IP address, postal (ZIP) code, credit card owner's full name and credit card information). We also process some of such billing information ourselves (e. g., date of purchase, credit card owner's full name, part of your credit card number, its expiration date) in cases of recurring payments or when you provide your payment details directly to us.
+* **Country details.** When making a purchase we process information on the user’s country the purchase takes place from. This information is necessary for VAT calculation purposes.
+* **Information for payment fraud prevention.** To prevent fraudulent payments for the Services, your personal data (such as email address) is verified by our payment processing partners fraud management tools. A payment transaction that is considered high risk may be rejected by us.
 
 Communication data
 
-*   **Email address.** We use your email address to: i) send you important updates and announcements related to your use of the Services and Websites; ii) respond to your requests or inquiries; iii) send you offers, surveys, and other marketing content (you can opt-out of those at any time).
-*   **Communication optimization data.** We use various tools to help us optimize our emailing campaigns. These tools may track actions you perform with an email, such as open it or unsubscribe from further communication. We may also be able to see the user device’s operating system (e.g., Windows, Mac, iOS, Android) and country in order to optimize push and email notifications and automatically set the language.
-*   **Chatbot.** If you contact us via our chatbot on our Websites, in addition to processing your contact information, we will be able to collect your device information and IP address.
-*   **Live chat widget.** If you contact us via live chat widget, in addition to processing your contact information, we will also process your device information (such as type of the operating system and browser) and IP address. This information is necessary for our support to determine the user's country, prevent abuse,see if the user is connected to our servers, and help our support to process queries faster.
+* **Email address.** We use your email address to: i) send you important updates and announcements related to your use of the Services and Websites; ii) respond to your requests or inquiries; iii) send you offers, surveys, and other marketing content (you can opt-out of those at any time).
+* **Communication optimization data.** We use various tools to help us optimize our emailing campaigns. These tools may track actions you perform with an email, such as open it or unsubscribe from further communication. We may also be able to see the user device’s operating system (e.g., Windows, Mac, iOS, Android) and country in order to optimize push and email notifications and automatically set the language.
+* **Chatbot.** If you contact us via our chatbot on our Websites, in addition to processing your contact information, we will be able to collect your device information and IP address.
+* **Live chat widget.** If you contact us via live chat widget, in addition to processing your contact information, we will also process your device information (such as type of the operating system and browser) and IP address. This information is necessary for our support to determine the user's country, prevent abuse,see if the user is connected to our servers, and help our support to process queries faster.
 
 Information collected on our Websites
 
-*   **Access logs.** As most websites on the internet, our Websites collect access logs (such as IP address, browser type, operating system) to operate our Services and ensure their secure, reliable, and robust performance. This information is also essential for fighting against DDoS attacks, scanning, and similar hacking attempts.
-*   **Cookies.** Cookies, pixels, and other similar technologies are usually small text or image files that are placed on your device when you visit our Websites. Some cookies are essential for our Websites to operate smoothly; others are used to improve Websites’ functionality, analyze aggregated usage statistics to improve Websites’ performance, and for advertising. We also use affiliate cookies to identify the customers referred to our Websites by our partners so that we can grant the referrers their commission. You can check what cookies we use at our [Cookie policy](https://my.nordaccount.com/legal/cookie-policy/).
+* **Access logs.** As most websites on the internet, our Websites collect access logs (such as IP address, browser type, operating system) to operate our Services and ensure their secure, reliable, and robust performance. This information is also essential for fighting against DDoS attacks, scanning, and similar hacking attempts.
+* **Cookies.** Cookies, pixels, and other similar technologies are usually small text or image files that are placed on your device when you visit our Websites. Some cookies are essential for our Websites to operate smoothly; others are used to improve Websites’ functionality, analyze aggregated usage statistics to improve Websites’ performance, and for advertising. We also use affiliate cookies to identify the customers referred to our Websites by our partners so that we can grant the referrers their commission. You can check what cookies we use at our [Cookie policy](https://my.nordaccount.com/legal/cookie-policy/).
 
 Referrals data
 
-*   **Information for participating in referral programs.** Participation in referral programs maintained by Nord requires referrers to submit personal information (e.g., full name, e-mail address, phone number, relationship with the referred party) about themselves and a referred party so that Nord could i) reach out to the referred party; ii) contact referrers with regards to their participation in referral programs and/or provision of rewards. It is the referrer's responsibility to abide by applicable privacy laws when disclosing third parties’ personal data to Nord, including informing third parties that they are providing referred parties’ personal data to Nord and how it will be used and processed. Referred parties may unsubscribe from any future communication at any time. If you believe that one of your contacts has provided us with your personal data and you would like it to be removed from our database, please contact us.
+* **Information for participating in referral programs.** Participation in referral programs maintained by Nord requires referrers to submit personal information (e.g., full name, e-mail address, phone number, relationship with the referred party) about themselves and a referred party so that Nord could i) reach out to the referred party; ii) contact referrers with regards to their participation in referral programs and/or provision of rewards. It is the referrer's responsibility to abide by applicable privacy laws when disclosing third parties’ personal data to Nord, including informing third parties that they are providing referred parties’ personal data to Nord and how it will be used and processed. Referred parties may unsubscribe from any future communication at any time. If you believe that one of your contacts has provided us with your personal data and you would like it to be removed from our database, please contact us.
     
 
 2\. GROUNDS FOR PROCESSING OF PERSONAL DATA
 
 Your personal data is processed:
 
-*   **Where it is necessary to fulfill our contract with you at your request.** Such cases include: i) to provide access to our Services; ii) to process your purchase transactions; iii) to ensure the secure, reliable, and robust performance of our Services and Websites.
+* **Where it is necessary to fulfill our contract with you at your request.** Such cases include: i) to provide access to our Services; ii) to process your purchase transactions; iii) to ensure the secure, reliable, and robust performance of our Services and Websites.
     
-*   **When we have a legal obligation to process certain personal data collected from you** (e.g., to keep and process records for tax purposes and accounting).
+* **When we have a legal obligation to process certain personal data collected from you** (e.g., to keep and process records for tax purposes and accounting).
     
-*   **Where you have provided your consent to us.** Such cases may include: i) to send marketing communication (unless applicable law permits us to contact you without your prior consent); ii) to communicate with you and manage your participation in Nord’s contests, offers, referrals, or promotions. Please note that although Nord may also process your personal data for marketing purposes when applicable law permits us to contact you without your separate consent, if you choose not to receive marketing communication from us (i.e., if you opt-out), we will honor your request.
+* **Where you have provided your consent to us.** Such cases may include: i) to send marketing communication (unless applicable law permits us to contact you without your prior consent); ii) to communicate with you and manage your participation in Nord’s contests, offers, referrals, or promotions. Please note that although Nord may also process your personal data for marketing purposes when applicable law permits us to contact you without your separate consent, if you choose not to receive marketing communication from us (i.e., if you opt-out), we will honor your request.
     
-*   **We sometimes may process your personal data under the legal basis of our or third parties’ legitimate interest.** Such cases include: i) to properly administer business communication with you; ii) to detect, prevent, or otherwise address fraud, abuse, security, or technical issues with our Services and Websites; iii) to protect against harm to the rights, property, and safety of Nord, our users, or third parties; iv) to improve or maintain our Services and provide new products and features; v) to receive knowledge of how our Websites and applications are being used.
+* **We sometimes may process your personal data under the legal basis of our or third parties’ legitimate interest.** Such cases include: i) to properly administer business communication with you; ii) to detect, prevent, or otherwise address fraud, abuse, security, or technical issues with our Services and Websites; iii) to protect against harm to the rights, property, and safety of Nord, our users, or third parties; iv) to improve or maintain our Services and provide new products and features; v) to receive knowledge of how our Websites and applications are being used.
     
 
 3\. Sharing your personal data
@@ -91,11 +91,11 @@ Service providers. We use third-party service providers to help us with various 
 
 Some of our main long-term service providers:
 
-*   Live chat and support service platform, e.g., Zendesk (provided by Zendesk Inc.)
-*   Emailing service providers, e.g., Iterable (provided by Iterable Inc.), Sendgrid (provided by Twilio Inc.)
-*   Marketing, application analytics and diagnostics, e.g., Google Analytics, Firebase Analytics (provided by Google), AppsFlyer (provided by AppsFlyer Ltd.), Bugsnag (provided by Bugsnag Inc.)
-*   Conversion attribution system, e.g., Hasoffers (provided by Tune Inc.)
-*   Payments processing, e.g., Mollymind AG, Moonflash Limited, Lagosec, Inc., Nord Security JP Co., Ltd
+* Live chat and support service platform, e.g., Zendesk (provided by Zendesk Inc.)
+* Emailing service providers, e.g., Iterable (provided by Iterable Inc.), Sendgrid (provided by Twilio Inc.)
+* Marketing, application analytics and diagnostics, e.g., Google Analytics, Firebase Analytics (provided by Google), AppsFlyer (provided by AppsFlyer Ltd.), Bugsnag (provided by Bugsnag Inc.)
+* Conversion attribution system, e.g., Hasoffers (provided by Tune Inc.)
+* Payments processing, e.g., Mollymind AG, Moonflash Limited, Lagosec, Inc., Nord Security JP Co., Ltd
 
 **Nord partners.** Sometimes our partners, for example, distributors, resellers, and app store partners, will be independent data controllers of your personal data. In such cases, the procedures established by them (e.g., terms of service and privacy policies) will apply to such relationships. In other cases we may collaborate with partners as joint controllers meaning that we jointly define the purpose and means of data processing with them. Both joint controllers are then responsible for the data processing and its compliance with applicable privacy laws.
 
@@ -119,21 +119,21 @@ To facilitate our Services and Websites, we may store, access, and transfer pers
 
 Please note that there are various data protection laws across different jurisdictions that provide privacy rights to you as a data subject. Subject to those applicable data protection laws, among others, you may have the following rights:
 
-*   **Delete**: request us to erase your personal data;
+* **Delete**: request us to erase your personal data;
     
-*   **Access**: know and access personal data Nord has collected about you;
+* **Access**: know and access personal data Nord has collected about you;
     
-*   **Rectify**: rectify, correct, update, or complement inaccurate/incomplete personal data Nord has about you;
+* **Rectify**: rectify, correct, update, or complement inaccurate/incomplete personal data Nord has about you;
     
-*   **Object**: object to the processing of your personal data which is done on the basis of our legitimate interests (e.g., for marketing purposes);
+* **Object**: object to the processing of your personal data which is done on the basis of our legitimate interests (e.g., for marketing purposes);
     
-*   **Portability**: request us to provide you with a copy of your personal data in a structured, commonly used and machine-readable format or to transmit (if technically feasible) your personal data to another controller (only where our processing is based on your consent and carried out by automated means);
+* **Portability**: request us to provide you with a copy of your personal data in a structured, commonly used and machine-readable format or to transmit (if technically feasible) your personal data to another controller (only where our processing is based on your consent and carried out by automated means);
     
-*   **Restrict**: restrict the processing of your personal data (when there is a legal basis for that);
+* **Restrict**: restrict the processing of your personal data (when there is a legal basis for that);
     
-*   **Withdraw consent**: withdraw your consent where processing is based on a consent you have previously provided;
+* **Withdraw consent**: withdraw your consent where processing is based on a consent you have previously provided;
     
-*   **Lodge a complaint**: exercise your rights by contacting us directly or, if all else fails, by lodging a complaint with a supervisory authority.
+* **Lodge a complaint**: exercise your rights by contacting us directly or, if all else fails, by lodging a complaint with a supervisory authority.
     
 
 **Rectification.** If you’d like to edit your profile information (e.g., change your email address, add additional username), please contact our support team at [support@nordaccount.com](mailto:support@nordaccount.com).
@@ -144,15 +144,15 @@ Please note that you will need to pass through the Account verification process 
 
 Additionally, you may delete your Nord Account for different Nord products as described below. To initiate deletion, please follow these steps and our support team will follow up with your request shortly:
 
-*   **NordVPN Account via NordVPN app on iPhone**: open the NordVPN app and log into your Account, tap on the “Settings” icon on the bottom right corner, tap “Contact Us”, select “Manage the account”, type in “Please delete my account”, and tap “SEND”.
+* **NordVPN Account via NordVPN app on iPhone**: open the NordVPN app and log into your Account, tap on the “Settings” icon on the bottom right corner, tap “Contact Us”, select “Manage the account”, type in “Please delete my account”, and tap “SEND”.
     
-*   **NordVPN Account via NordVPN desktop app on Mac**: open the NordVPN app and log into your Account, click on “Help” and select “Email Support”; on our “Contact Us” form select “Manage the account”, type in “Please delete my account”, and click “SEND”.
+* **NordVPN Account via NordVPN desktop app on Mac**: open the NordVPN app and log into your Account, click on “Help” and select “Email Support”; on our “Contact Us” form select “Manage the account”, type in “Please delete my account”, and click “SEND”.
     
-*   **NordPass Account via NordPass app on mobile devices**: open the NordPass app and log in to your Account, click on “Menu” icon at the bottom right of the window, tap the “Help” option, and go to “Help Center”; you will be directed to a new page on your mobile browser, click “Submit a request” at the top-right corner, type in a message saying that you wish to remove your Account and indicate the email address your Account is registered with.
+* **NordPass Account via NordPass app on mobile devices**: open the NordPass app and log in to your Account, click on “Menu” icon at the bottom right of the window, tap the “Help” option, and go to “Help Center”; you will be directed to a new page on your mobile browser, click “Submit a request” at the top-right corner, type in a message saying that you wish to remove your Account and indicate the email address your Account is registered with.
     
-*   **NordPass Account via NordPass desktop application**: open the NordPass app and log in to your Account, click on “Settings”, and tap “Visit Help Center”; you will be directed to a new page on your browser, click “Submit a request”, type in a message saying that you wish to remove your Account and indicate the email address your Account is registered with.
+* **NordPass Account via NordPass desktop application**: open the NordPass app and log in to your Account, click on “Settings”, and tap “Visit Help Center”; you will be directed to a new page on your browser, click “Submit a request”, type in a message saying that you wish to remove your Account and indicate the email address your Account is registered with.
     
-*   **NordLocker Account via NordLocker app**: open the NordLocker app and log in to your Account, click on “Settings” icon, tap the “Delete account”; you will be directed to a new page on your mobile browser, click “Submit a request” at the top right corner, type in a message saying that you wish to remove your Account and indicate the email address your Account is registered with.
+* **NordLocker Account via NordLocker app**: open the NordLocker app and log in to your Account, click on “Settings” icon, tap the “Delete account”; you will be directed to a new page on your mobile browser, click “Submit a request” at the top right corner, type in a message saying that you wish to remove your Account and indicate the email address your Account is registered with.
     
 
 **Nord's Obligations on Termination.** Upon expiration or termination of your Account and/or Subscription, Nord will immediately cease processing information that’s associated with you. However, please note that there might be cases when we retain information associated with you after expiration or termination of your Account and/or Subscription: (i) all Nord products' databases are connected; after expiration or termination of your Account, basic information (such as your email address) would still be visible in our system in case you have another existing Account associated with a different Nord product (e.g., if we delete your NordPass Account, your email address would still be visible in our system if you have a NordVPN or NordLocker Account). In order to delete all of your data, we would need to delete all of your Accounts associated with different Nord products (in order to do so, please contact our support team); (ii) Nord also may retain information associated with you (e.g., payments data) in order to fulfill its obligations as required by applicable laws, regulations, court orders, subpoenas, or other legal processes for archival purposes.
@@ -169,11 +169,11 @@ To raise any other questions, concerns, or complaints about our privacy practice
 
 We maintain tight controls over the personal data we collect. Our dedicated IT security team has implemented appropriate physical, technical, and organizational measures to protect information about you against accidental or unlawful destruction or accidental loss, alteration, unauthorized disclosure, or access and against all other unlawful forms of processing:
 
-*   **Physical Measures.** We control access to our facilities with access cards.We also use security alarm systems and CCTV. We store devices with personal data information only in locked rooms or cabinets. Our printers are protected by access control measures. A clean desk policy is implemented.
+* **Physical Measures.** We control access to our facilities with access cards.We also use security alarm systems and CCTV. We store devices with personal data information only in locked rooms or cabinets. Our printers are protected by access control measures. A clean desk policy is implemented.
     
-*   **Technical Measures.** We use layered defense with firewalls, anti-malware protection, intrusion detection and prevention systems. Our infrastructure is regularly updated and regular vulnerability scans are in place to detect possible vulnerabilities. We have security event and incident management solutions to correlate and investigate signals in security tools. Servers are hardened and automated configuration tools are used to manage them. All workplaces are managed from a centralized endpoint management tool. Data at rest and in transit are encrypted. Encryption protocols are used according to the newest security practices.
+* **Technical Measures.** We use layered defense with firewalls, anti-malware protection, intrusion detection and prevention systems. Our infrastructure is regularly updated and regular vulnerability scans are in place to detect possible vulnerabilities. We have security event and incident management solutions to correlate and investigate signals in security tools. Servers are hardened and automated configuration tools are used to manage them. All workplaces are managed from a centralized endpoint management tool. Data at rest and in transit are encrypted. Encryption protocols are used according to the newest security practices.
     
-*   **Organizational Measures.** We adopted information security and data processing policies according to best practices. We have external audits to prove our information security and data processing policies are up to standards. We adopted a constant development culture of security and data protection awareness among our employees (including organizing regular and ongoing training and other awareness activities).. We analyze the threat landscape and attack surface and constantly update our security measures. Access to databases containing personal data is granted on a need-to-know basis.
+* **Organizational Measures.** We adopted information security and data processing policies according to best practices. We have external audits to prove our information security and data processing policies are up to standards. We adopted a constant development culture of security and data protection awareness among our employees (including organizing regular and ongoing training and other awareness activities).. We analyze the threat landscape and attack surface and constantly update our security measures. Access to databases containing personal data is granted on a need-to-know basis.
     
 
 If we detect something suspicious, we will notify you immediately and guide you through steps to stay better protected. However, no company can guarantee the absolute security of internet communications as no technology is completely bulletproof. By using the Services and Websites, you expressly acknowledge that we cannot guarantee the 100% security of personal data provided to or received by us through the Services and that any information received from you through Websites or our Services is provided at your own responsibility. If you have any reason to believe that your interaction with us is no longer secure, please notify us at [privacy@nordaccount.com](mailto:privacy@nordaccount.com).
@@ -182,9 +182,9 @@ If we detect something suspicious, we will notify you immediately and guide you 
 
 Nord will keep your personal data only as long as necessary to provide you with the Services, or for as long as we have another legitimate ground to do so, but not longer than permitted or required by law. Some of more specific data retention terms are provided below:
 
-*   Customer billing information and payment details are kept by Nord for 10 years from the last payment transaction.
+* Customer billing information and payment details are kept by Nord for 10 years from the last payment transaction.
     
-*   Nord will use your email for marketing communication for 1 year after the end of your Subscription.
+* Nord will use your email for marketing communication for 1 year after the end of your Subscription.
     
 
 When we no longer have a legal ground to keep your personal data, it will either be securely disposed of, or de-identified through appropriate anonymization means.
@@ -207,20 +207,20 @@ nordvpn S.A., PH F&F TOWER, 50th Street & 56th Street, Suite #32-D, Floor 32, Pa
 
 On matters related to the processing of personal data, you may also contact our representative VeraSafe in the European Economic Area using the following details:
 
-*   via this contact form: [https://verasafe.com/public-resources/contact-data-protection-representative](https://verasafe.com/public-resources/contact-data-protection-representative)
+* via this contact form: [https://verasafe.com/public-resources/contact-data-protection-representative](https://verasafe.com/public-resources/contact-data-protection-representative)
     
-*   via telephone at: +420 228 881 031
+* via telephone at: +420 228 881 031
     
-*   via postal address at: VeraSafe Ireland Ltd., Unit 3D North Point House, North Point Business Park, New Mallow Road, Cork T23AT2P, Ireland
+* via postal address at: VeraSafe Ireland Ltd., Unit 3D North Point House, North Point Business Park, New Mallow Road, Cork T23AT2P, Ireland
     
 
 If you are located within the United Kingdom, you may also contact our representative VeraSafe in the United Kingdom:
 
-*   via this contact form: [https://verasafe.com/public-resources/contact-data-protection-representative](https://verasafe.com/public-resources/contact-data-protection-representative)
+* via this contact form: [https://verasafe.com/public-resources/contact-data-protection-representative](https://verasafe.com/public-resources/contact-data-protection-representative)
     
-*   via telephone at: +44 (20) 4532 2003
+* via telephone at: +44 (20) 4532 2003
     
-*   via postal address at: VeraSafe United Kingdom Ltd., 37 Albert Embankment, London SE1 7TL, United Kingdom
+* via postal address at: VeraSafe United Kingdom Ltd., 37 Albert Embankment, London SE1 7TL, United Kingdom
     
 
 9\. CHILDREN’S DATA
