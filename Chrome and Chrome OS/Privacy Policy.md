@@ -20,11 +20,11 @@ For step-by-step guides to managing your privacy preferences, read [this overvie
 
 ### Table of contents:
 
-*   [Browser modes](#browser-modes)
-*   [Managing users in Chrome](#managing-users-in-chrome)
-*   [Safe Browsing practices](#safe-browsing-practices)
-*   [Privacy practices of using apps, extensions, themes, services, and other add-ons](#privacy-practices-of-apps)
-*   [More information](#more-information)
+* [Browser modes](#browser-modes)
+* [Managing users in Chrome](#managing-users-in-chrome)
+* [Safe Browsing practices](#safe-browsing-practices)
+* [Privacy practices of using apps, extensions, themes, services, and other add-ons](#privacy-practices-of-apps)
+* [More information](#more-information)
 
 Browser modes
 -------------
@@ -35,30 +35,30 @@ You don't need to provide any personal information to use Chrome, but Chrome has
 
 The basic browser mode stores information locally on your system. This information might include:
 
-*   Browsing history information. For example, Chrome stores the URLs of pages that you visit, a cache of text, images and other resources from those pages, and, if the [network actions prediction](#pre-rendering) feature is turned on, a list of some of the IP addresses linked from those pages.
+* Browsing history information. For example, Chrome stores the URLs of pages that you visit, a cache of text, images and other resources from those pages, and, if the [network actions prediction](#pre-rendering) feature is turned on, a list of some of the IP addresses linked from those pages.
     
-*   Personal information and passwords, to help you fill out forms or sign in to sites you visit.
+* Personal information and passwords, to help you fill out forms or sign in to sites you visit.
     
-*   A list of permissions that you have granted to websites.
+* A list of permissions that you have granted to websites.
     
-*   [Cookies](#cookies) or data from websites that you visit.
+* [Cookies](#cookies) or data from websites that you visit.
     
-*   Data saved by add-ons.
+* Data saved by add-ons.
     
-*   A record of what you downloaded from websites.
+* A record of what you downloaded from websites.
     
 
 You can manage this information in several ways:
 
-*   You can [delete your browsing history information](https://support.google.com/chrome/answer/95589).
+* You can [delete your browsing history information](https://support.google.com/chrome/answer/95589).
     
-*   You can manage or delete stored browsing data from the [Cookies and Site Data dialog](https://support.google.com/chrome/answer/2392709).
+* You can manage or delete stored browsing data from the [Cookies and Site Data dialog](https://support.google.com/chrome/answer/2392709).
     
-*   You can stop Chrome from [accepting cookies](#cookies). [Learn more](https://support.google.com/chrome/answer/95647).
+* You can stop Chrome from [accepting cookies](#cookies). [Learn more](https://support.google.com/chrome/answer/95647).
     
-*   You can review stored passwords in Chrome settings. [Learn more](https://support.google.com/chrome/answer/95606).
+* You can review stored passwords in Chrome settings. [Learn more](https://support.google.com/chrome/answer/95606).
     
-*   You can view and manage your stored Autofill information. [Learn more](https://support.google.com/chrome/answer/142893).
+* You can view and manage your stored Autofill information. [Learn more](https://support.google.com/chrome/answer/142893).
     
 
 The personal information that Chrome stores won't be sent to Google unless you choose to store that data in your [Google Account](#google-account) by turning on sync, or, in the case of passwords, payment cards, and billing information, choosing specific credentials or payment card and billing information to store in your Google Account. [Learn More](#signed-in).
@@ -71,10 +71,10 @@ The personal information that Chrome stores won't be sent to Google unless you c
 
 **Location.** To get more geographically relevant information, Chrome gives you the option to share your location with a site. Chrome won't allow a site to access your location without your permission; Chrome uses Google Location Services to estimate your location. The information that Chrome sends to Google Location Services may include:
 
-*   The Wi-Fi routers closest to you
-*   Cell IDs of the cell towers closest to you
-*   The strength of your Wi-Fi or cell signal
-*   The IP address that is currently assigned to your device
+* The Wi-Fi routers closest to you
+* Cell IDs of the cell towers closest to you
+* The strength of your Wi-Fi or cell signal
+* The IP address that is currently assigned to your device
 
 Google doesn't have control over third-party websites or their privacy practices, so be cautious when sharing your location with a website.
 
@@ -104,11 +104,11 @@ When you are signed into Chrome with your Google Account, Chrome may offer to sa
 
 Chrome includes a number of unique and non-unique identifiers necessary to power features and functional services. For example, if you use push messaging, an identifier is created in order to deliver notices to you. Where possible, we use non-unique identifiers and remove identifiers when they are no longer needed. Additionally, the following identifiers help us develop, distribute, and promote Chrome, but are not directly related to a Chrome feature.
 
-*   **Installation tracking.** Each copy of the Windows desktop version of the Chrome browser includes a temporary randomly generated installation number that is sent to Google when you install and first use Chrome. This temporary identifier helps us estimate the number of installed browsers, and will be deleted the first time Chrome updates. The mobile version of Chrome uses a variant of the device identifier on an ongoing basis to track the number of installations of Chrome.
+* **Installation tracking.** Each copy of the Windows desktop version of the Chrome browser includes a temporary randomly generated installation number that is sent to Google when you install and first use Chrome. This temporary identifier helps us estimate the number of installed browsers, and will be deleted the first time Chrome updates. The mobile version of Chrome uses a variant of the device identifier on an ongoing basis to track the number of installations of Chrome.
     
-*   **Promotion tracking.** In order to help us track the success of promotional campaigns, Chrome generates a unique token that is sent to Google when you first run and use the browser. In addition, if you received or reactivated your copy of the desktop version of the Chrome browser as part of a promotional campaign and Google is your default search engine, then searches from the omnibox will include a non-unique promotional tag. All mobile versions of the Chrome browser also include a non-unique promotional tag with searches from the omnibox. Chrome OS may also send a non-unique promotional tag to Google periodically (including during initial setup) and when performing searches with Google. [Learn more](https://www.google.com/chrome/browser/privacy/whitepaper.html#measurepromotions).
+* **Promotion tracking.** In order to help us track the success of promotional campaigns, Chrome generates a unique token that is sent to Google when you first run and use the browser. In addition, if you received or reactivated your copy of the desktop version of the Chrome browser as part of a promotional campaign and Google is your default search engine, then searches from the omnibox will include a non-unique promotional tag. All mobile versions of the Chrome browser also include a non-unique promotional tag with searches from the omnibox. Chrome OS may also send a non-unique promotional tag to Google periodically (including during initial setup) and when performing searches with Google. [Learn more](https://www.google.com/chrome/browser/privacy/whitepaper.html#measurepromotions).
     
-*   **Field trials.** We sometimes conduct limited tests of new features. Chrome includes a seed number that is randomly selected on first run to assign browsers to experiment groups. Experiments may also be limited by country (determined by your IP address), operating system, Chrome version, and other parameters. A list of field trials that are currently active on your installation of Chrome is included in all requests sent to Google. [Learn more](https://www.google.com/chrome/browser/privacy/whitepaper.html#variations).
+* **Field trials.** We sometimes conduct limited tests of new features. Chrome includes a seed number that is randomly selected on first run to assign browsers to experiment groups. Experiments may also be limited by country (determined by your IP address), operating system, Chrome version, and other parameters. A list of field trials that are currently active on your installation of Chrome is included in all requests sent to Google. [Learn more](https://www.google.com/chrome/browser/privacy/whitepaper.html#variations).
     
 
 ### Sign-in and Sync Chrome modes
@@ -119,11 +119,11 @@ You also have the option to use the Chrome browser while signed in to your Googl
 
 **Sync.** When you sign in to the Chrome browser or a Chromebook and enable sync with your [Google Account](#google-account), your personal information is saved in your Google Account on Google's servers so you may access it when you sign in and sync to Chrome on other computers and devices. This personal information will be used and protected in accordance with the [Google Privacy Policy](https://www.google.com/policies/privacy/). This type of information can include:
 
-*   Browsing history
-*   Bookmarks
-*   Tabs
-*   Passwords and Autofill information
-*   Other browser settings, like installed extensions
+* Browsing history
+* Bookmarks
+* Tabs
+* Passwords and Autofill information
+* Other browser settings, like installed extensions
 
 Sync is only enabled if you choose. [Learn More](https://support.google.com/chrome/answer/185277). To customize the specific information that you have enabled to sync, use the "Settings" menu. [Learn more](https://support.google.com/chrome/answer/165139). You can see the amount of Chrome data stored for your Google Account at [Chrome data from your account](https://chrome.google.com/sync). On the Dashboard, except for Google Accounts created through Family Link, you can also disable sync and delete all the associated data from Google's servers. [Learn more](https://support.google.com/chrome/answer/185277). For Google Accounts created in Family Link, sign-in is required for parent management features, such as website restrictions. However, children with Family Link accounts can still delete their data and disable synchronization of most data types. [Learn More](https://support.google.com/families/answer/7087030). The [Privacy Notice for Google Accounts created in Family Link](https://families.google.com/familylink/privacy/child-policy/) applies to Chrome sync data stored in those accounts.
 
@@ -137,9 +137,9 @@ You can change this setting on your [Account History](https://www.google.com/set
 
 You can limit the information Chrome stores on your system by using [incognito mode or guest mode](https://support.google.com/chrome/answer/95464). In these modes, Chrome won't store certain information, such as:
 
-*   Basic browsing history information like URLs, cached page text, or IP addresses of pages linked from the websites you visit
-*   Snapshots of pages that you visit
-*   Records of your downloads, although the files you download will still be stored elsewhere on your computer or device
+* Basic browsing history information like URLs, cached page text, or IP addresses of pages linked from the websites you visit
+* Snapshots of pages that you visit
+* Records of your downloads, although the files you download will still be stored elsewhere on your computer or device
 
 #### How Chrome handles your incognito or guest information
 
@@ -177,21 +177,21 @@ Each site you visit is checked against the Safe Browsing list on your system. If
 
 The following Safe Browsing features are specific to Chrome:
 
-*   If you have turned on Safe Browsing’s Enhanced Protection mode, Chrome provides additional protections, and sends Google additional data, as described in Chrome settings. [Learn more](https://support.google.com/chrome?p=safe_browsing_preferences). Some of these protections may also be available as standalone features, subject to separate controls, where Standard Protection is enabled.
+* If you have turned on Safe Browsing’s Enhanced Protection mode, Chrome provides additional protections, and sends Google additional data, as described in Chrome settings. [Learn more](https://support.google.com/chrome?p=safe_browsing_preferences). Some of these protections may also be available as standalone features, subject to separate controls, where Standard Protection is enabled.
     
-*   If you have turned on "Make searches and browsing better / Sends URLs of pages you visit to Google” and Safe Browsing is enabled, Chrome sends Google the full URL of each site you visit to determine whether that site is safe. If you also sync your browsing history without a sync passphrase, these URLs will be temporarily associated with your Google account to provide more personalized protection. This feature is disabled in incognito and guest modes.
+* If you have turned on "Make searches and browsing better / Sends URLs of pages you visit to Google” and Safe Browsing is enabled, Chrome sends Google the full URL of each site you visit to determine whether that site is safe. If you also sync your browsing history without a sync passphrase, these URLs will be temporarily associated with your Google account to provide more personalized protection. This feature is disabled in incognito and guest modes.
     
-*   Some versions of Chrome feature Safe Browsing technology that can identify potentially harmful sites and potentially dangerous file types not already known by Google. The full URL of the site or potentially dangerous file might also be sent to Google to help determine whether the site or file is harmful.
+* Some versions of Chrome feature Safe Browsing technology that can identify potentially harmful sites and potentially dangerous file types not already known by Google. The full URL of the site or potentially dangerous file might also be sent to Google to help determine whether the site or file is harmful.
     
-*   Chrome uses Safe Browsing technology to scan your computer periodically, in order to detect unwanted software that prevents you from changing your settings or otherwise interferes with the security and stability of your browser. [Learn more](https://www.google.com/about/company/unwanted-software-policy.html). If this kind of software is detected, Chrome might offer you the option to download the [Chrome Cleanup Tool](https://www.google.com/chrome/cleanup-tool/) to remove it.
+* Chrome uses Safe Browsing technology to scan your computer periodically, in order to detect unwanted software that prevents you from changing your settings or otherwise interferes with the security and stability of your browser. [Learn more](https://www.google.com/about/company/unwanted-software-policy.html). If this kind of software is detected, Chrome might offer you the option to download the [Chrome Cleanup Tool](https://www.google.com/chrome/cleanup-tool/) to remove it.
     
-*   You can choose to send additional data to help improve Safe Browsing when you access a site that appears to contain malware or when Chrome detects unwanted software on your computer. [Learn more](https://www.google.com/chrome/browser/privacy/whitepaper.html#extendedreport).
+* You can choose to send additional data to help improve Safe Browsing when you access a site that appears to contain malware or when Chrome detects unwanted software on your computer. [Learn more](https://www.google.com/chrome/browser/privacy/whitepaper.html#extendedreport).
     
-*   If you use Chrome’s password manager, Safe Browsing checks with Google when you enter any saved password on an uncommon page to protect you from phishing attacks. Chrome does not send your passwords to Google as part of this protection. In addition, Safe Browsing protects your Google Account password. If you enter it on a likely phishing site, Chrome will prompt you to change your Google Account password. If you sync your browsing history, or if you are signed in to your Google Account and choose to notify Google, Chrome will also flag your Google Account as likely phished.
+* If you use Chrome’s password manager, Safe Browsing checks with Google when you enter any saved password on an uncommon page to protect you from phishing attacks. Chrome does not send your passwords to Google as part of this protection. In addition, Safe Browsing protects your Google Account password. If you enter it on a likely phishing site, Chrome will prompt you to change your Google Account password. If you sync your browsing history, or if you are signed in to your Google Account and choose to notify Google, Chrome will also flag your Google Account as likely phished.
     
-*   If you are signed in to your Google Account, Chrome will also warn you when you use a username and password that may have been exposed in a data breach. To check, when you sign in to a site, Chrome sends Google a partial hash of your username and other encrypted information about your password, and Google returns a list of possible matches from known breaches. Chrome uses this list to determine whether your username and password were exposed. Google does not learn your username or password, or whether they were exposed, as part of this process. This feature can be disabled in Chrome settings. [Learn more](https://support.google.com/chrome?p=leak_detection_privacy).
+* If you are signed in to your Google Account, Chrome will also warn you when you use a username and password that may have been exposed in a data breach. To check, when you sign in to a site, Chrome sends Google a partial hash of your username and other encrypted information about your password, and Google returns a list of possible matches from known breaches. Chrome uses this list to determine whether your username and password were exposed. Google does not learn your username or password, or whether they were exposed, as part of this process. This feature can be disabled in Chrome settings. [Learn more](https://support.google.com/chrome?p=leak_detection_privacy).
     
-*   On desktop and Android versions of Chrome, you can always choose to [disable the Safe Browsing feature within Chrome settings](https://support.google.com/chrome/answer/99020). On iOS versions of Chrome, Apple controls the Safe Browsing technology used by your device and may send data to Safe Browsing providers other than Google.
+* On desktop and Android versions of Chrome, you can always choose to [disable the Safe Browsing feature within Chrome settings](https://support.google.com/chrome/answer/99020). On iOS versions of Chrome, Apple controls the Safe Browsing technology used by your device and may send data to Safe Browsing providers other than Google.
     
 
 Privacy practices of apps, extensions, themes, services, and other add-ons
@@ -203,15 +203,15 @@ You can use apps, extensions, themes, services and other add-ons with Chrome, in
 
 Before installing an add-on, you should review the requested permissions. Add-ons can have permission to do various things, like:
 
-*   Store, access, and share data stored locally or in your Google Drive account
-*   View and access content on websites you visit
-*   Use notifications that are sent through Google servers
+* Store, access, and share data stored locally or in your Google Drive account
+* View and access content on websites you visit
+* Use notifications that are sent through Google servers
 
 Chrome can interact with add-ons in a few different ways:
 
-*   Checking for updates
-*   Downloading and installing updates
-*   Sending usage indicators to Google about the add-ons
+* Checking for updates
+* Downloading and installing updates
+* Sending usage indicators to Google about the add-ons
 
 Some add-ons might require access to a unique identifier for digital rights management or for delivery of push messaging. You can disable the use of identifiers by removing the add-on from Chrome.
 
@@ -225,11 +225,11 @@ Here is an example of a typical log entry for where the search is for "cars" loo
 
 `123.45.67.89 - 25/Mar/2003 10:15:32 - https://www.google.com/search?q=cars - Firefox 1.0.7; Windows NT 5.1 - 740674ce2123e969`
 
-*   `123.45.67.89` is the Internet Protocol address assigned to the user by the user’s ISP. D; depending on the user’s service, a different address may be assigned to the user by their service provider each time they connect to the Internet.;
-*   `25/Mar/2003 10:15:32` is the date and time of the query.;
-*   `https://www.google.com/search?q=cars` is the requested URL, including the search query.;
-*   `Firefox 1.0.7; Windows NT 5.1` is the browser and operating system being used.;
-*   `740674ce2123a969` is the unique cookie ID that was assigned to this particular computer the first time it visited a Google site. (Cookies can be deleted by users. If the user has deleted the cookie from the computer since the last time they’ve/s/he visited Google, then it will be the unique cookie ID assigned to their device the user the next time theys/he visits Google from that particular computer).
+* `123.45.67.89` is the Internet Protocol address assigned to the user by the user’s ISP. D; depending on the user’s service, a different address may be assigned to the user by their service provider each time they connect to the Internet.;
+* `25/Mar/2003 10:15:32` is the date and time of the query.;
+* `https://www.google.com/search?q=cars` is the requested URL, including the search query.;
+* `Firefox 1.0.7; Windows NT 5.1` is the browser and operating system being used.;
+* `740674ce2123a969` is the unique cookie ID that was assigned to this particular computer the first time it visited a Google site. (Cookies can be deleted by users. If the user has deleted the cookie from the computer since the last time they’ve/s/he visited Google, then it will be the unique cookie ID assigned to their device the user the next time theys/he visits Google from that particular computer).
 
 More information
 ----------------
