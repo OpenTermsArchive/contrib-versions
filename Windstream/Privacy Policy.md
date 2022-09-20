@@ -5,22 +5,22 @@ This Privacy Statement describes how Windstream and its affiliates collects info
 
 This Statement addresses:
 
-1.  [Personal Information Collected](#A)
-2.  [Use of Personally Identifiable Information](#B)
-3.  [Customer Proprietary Network Information (CPNI)](#C)
-4.  [SMS/Text Messaging](#D)
-5.  [Value-Added Services](#E)
-6.  [Information Disclosed to Third Parties](#F)
-7.  [Data Collection Technologies](#G)
-8.  [Security Measures](#H)
-9.  [Children](#I)
-10.  [Links](#J)
-11.  [Statement Updates](#K)
-12.  [Security Breaches](#L)
-13.  [Contact Us](#M)
-14.  [Definitions](#N)
-15.  [Internet Information](#O)
-16.  [US-EU Privacy Principles](#P)
+1. [Personal Information Collected](#A)
+2. [Use of Personally Identifiable Information](#B)
+3. [Customer Proprietary Network Information (CPNI)](#C)
+4. [SMS/Text Messaging](#D)
+5. [Value-Added Services](#E)
+6. [Information Disclosed to Third Parties](#F)
+7. [Data Collection Technologies](#G)
+8. [Security Measures](#H)
+9. [Children](#I)
+10. [Links](#J)
+11. [Statement Updates](#K)
+12. [Security Breaches](#L)
+13. [Contact Us](#M)
+14. [Definitions](#N)
+15. [Internet Information](#O)
+16. [US-EU Privacy Principles](#P)
 
 A. Personal Information Collected
 ---------------------------------
@@ -29,24 +29,24 @@ Windstream limits the information collected about you to what is needed for cond
 
 Examples of PII are:
 
-*   Name (including company name for business customers)
-*   Unlisted or restricted mailing address
-*   Unlisted or restricted telephone number
-*   E-mail address
-*   Credit card number or financial/bank account number or information, including routing numbers
-*   Passwords or personal identification codes (PINs)
-*   Date of birth
-*   Social Security number
-*   Driver’s license number or government issued identification number
-*   Company contact information for business customers
-*   Information obtained by Windstream through customer referral programs
+* Name (including company name for business customers)
+* Unlisted or restricted mailing address
+* Unlisted or restricted telephone number
+* E-mail address
+* Credit card number or financial/bank account number or information, including routing numbers
+* Passwords or personal identification codes (PINs)
+* Date of birth
+* Social Security number
+* Driver’s license number or government issued identification number
+* Company contact information for business customers
+* Information obtained by Windstream through customer referral programs
 
 The following information is not PII:
 
-*   Mailing address, unless unlisted or restricted at your request
-*   Telephone number, unless unlisted or restricted at your request
-*   IP Address allowing you to use our internet service
-*   PII included in aggregate data complied by Windstream
+* Mailing address, unless unlisted or restricted at your request
+* Telephone number, unless unlisted or restricted at your request
+* IP Address allowing you to use our internet service
+* PII included in aggregate data complied by Windstream
 
 Windstream may compile or aggregate PII from numerous customers or Web visitors or mobile app users to collect data about groups of customers or potential customers or categories of service. Windstream does not consider this “aggregate” information as PII because the aggregate information does not contain the PII of any individual customer, Web visitor, or mobile app user.
 
@@ -93,16 +93,16 @@ F. Information Disclosed to Third Parties
 
 Windstream does not sell PII of its customers. In limited circumstances, Windstream may provide PII to third parties:
 
-*   To assist us in developing, promoting, establishing, maintaining, and/or providing Windstream-related products and services to you, including joint marketing efforts or promotions, but PII may not be used by the third parties for any other purpose;
+* To assist us in developing, promoting, establishing, maintaining, and/or providing Windstream-related products and services to you, including joint marketing efforts or promotions, but PII may not be used by the third parties for any other purpose;
 
-*   To assist us in establishing accounts, billing, collecting payment (i.e. credit bureaus and collection agencies), enforcing the Terms and Conditions or the Acceptable Use Policy of our Windstream services where permitted by law, and protecting or enforcing our rights or property, or the services of our other customers, from fraudulent, abusive, or unlawful use by you of our services;
-*   To comply, when required by law, with court or administrative orders, civil or criminal subpoenas, warrants from law enforcement agencies, federal or state regulatory requirements, mandatory governmental audits, E911 reporting requirements, grand jury investigations, civil or criminal governmental investigations, or reporting required by the National Center for Missing and Exploited Children, designated by federal law as a reporting mechanism for child pornography; and
-*   To appropriate law enforcement, 911 centers, or emergency services when Windstream, in good faith, believes the disclosure is necessary to protect a person, Windstream property, or the public from an immediate threat of serious harm.
+* To assist us in establishing accounts, billing, collecting payment (i.e. credit bureaus and collection agencies), enforcing the Terms and Conditions or the Acceptable Use Policy of our Windstream services where permitted by law, and protecting or enforcing our rights or property, or the services of our other customers, from fraudulent, abusive, or unlawful use by you of our services;
+* To comply, when required by law, with court or administrative orders, civil or criminal subpoenas, warrants from law enforcement agencies, federal or state regulatory requirements, mandatory governmental audits, E911 reporting requirements, grand jury investigations, civil or criminal governmental investigations, or reporting required by the National Center for Missing and Exploited Children, designated by federal law as a reporting mechanism for child pornography; and
+* To appropriate law enforcement, 911 centers, or emergency services when Windstream, in good faith, believes the disclosure is necessary to protect a person, Windstream property, or the public from an immediate threat of serious harm.
 
 G. Data Collection Technologies
 -------------------------------
 
-In addition to PII identified in Section A of this Statement, we, or our third-party partners, may collect non-personal information automatically when you visit Windstream websites, other third-party sites, open Windstream emails or use Windstream mobile apps, such as domain name, browser, your computer operating system, information about the Web page from which you linked to the website, and time spent on different parts of our websites or mobile apps. We or our partners may use this information to evaluate and improve the websites and mobile apps, and may share the information with third parties on an aggregated basis to enhance our products and services offered. This on-line information is typically collected via **cookies**, **web beacons** (see **Section N** for definitions), and/or other data collection technologies. Like virtually all other websites that you visit, we use cookies to deliver Web content specific to your interests and to control access to your personal shopping cart after your initial entry. The cookie permits the server to recall information from your previous shopping trip, should you decide to think about your purchase. A cookie is not used to access or otherwise compromise the data on your hard drive. With most browsers, you can choose to change your browser settings to disable cookies. Please be aware that cookies may be required to complete certain functions on Windstream websites and other websites you may link to from Windstream websites, including making purchases or payments on your Windstream account.
+In addition to PII identified in Section A of this Statement, we, or our third-party partners, may collect non-personal information automatically when you visit Windstream websites, other third-party sites, open Windstream emails or use Windstream mobile apps, such as domain name, browser, your computer operating system, information about the Web page from which you linked to the website, and time spent on different parts of our websites or mobile apps. We or our partners may use this information to evaluate and improve the websites and mobile apps, and may share the information with third parties on an aggregated basis to enhance our products and services offered. This on-line information is typically collected via **cookies**, **web beacons** (see **Section N** for definitions), and/or other data collection technologies. Like virtually all other websites that you visit, we use cookies to deliver Web content specific to your interests and to control access to your personal shopping cart after your initial entry. The cookie permits the server to recall information from your previous shopping trip, should you decide to think about your purchase. A cookie is not used to access or otherwise compromise the data on your hard drive. With most browsers, you can choose to change your browser settings to disable cookies. Please be aware that cookies may be required to complete certain functions on Windstream websites and other websites you may link to from Windstream websites, including making purchases or payments on your Windstream account.
 
 H. Security Measures
 --------------------
