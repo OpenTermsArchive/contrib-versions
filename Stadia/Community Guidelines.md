@@ -15,20 +15,20 @@ It’s important that you treat other players the way that you’d like to be tr
 Here are a few things to remember:
 ----------------------------------
 
-*   Gaming is for everyone.  
+* Gaming is for everyone.  
     Stadia is your community.
     
-*   Hate, harassment and bullying  
+* Hate, harassment and bullying  
     have no place on Stadia.
     
-*   When playing with others, show good sportspersonship, whether you win or lose.
+* When playing with others, show good sportspersonship, whether you win or lose.
     
-*   Some competitive banter or rubbish talk is OK as long as everyone’s onboard with it, but don’t be abusive or malicious.
+* Some competitive banter or rubbish talk is OK as long as everyone’s onboard with it, but don’t be abusive or malicious.
     
-*   Don’t be a troll.  
+* Don’t be a troll.  
     No one likes a troll.
     
-*   Above all,  
+* Above all,  
     be excellent to one another.
     
 
@@ -65,10 +65,10 @@ Keep children safe
 
 We take child safety very seriously. Don't use Stadia to do anything that endangers children – on or off the platform. This includes predatory behaviour towards children, such as:
 
-*   'Child grooming' (for example, befriending a child online to facilitate, either online or offline, sexual contact and/or exchanging sexual imagery with that child);
-*   'Sextortion' (for example, threatening or blackmailing a child by using real or alleged access to a child’s intimate images);
-*   Sexualisation of a minor (for example, imagery that depicts, encourages or promotes the sexual abuse of children or the portrayal of children in a manner that could result in the sexual exploitation of children); and
-*   Trafficking of a child (for example, advertising or solicitation of a child for commercial sexual exploitation).
+* 'Child grooming' (for example, befriending a child online to facilitate, either online or offline, sexual contact and/or exchanging sexual imagery with that child);
+* 'Sextortion' (for example, threatening or blackmailing a child by using real or alleged access to a child’s intimate images);
+* Sexualisation of a minor (for example, imagery that depicts, encourages or promotes the sexual abuse of children or the portrayal of children in a manner that could result in the sexual exploitation of children); and
+* Trafficking of a child (for example, advertising or solicitation of a child for commercial sexual exploitation).
 
 Do not create, upload or distribute content that exploits or abuses children. This includes all child sexual abuse materials. We will remove such content and take appropriate action, which may include disabling accounts, limiting access to product features and reporting it to the [National Centre for Missing & Exploited Children (NCMEC)](http://www.missingkids.com/home) and other authorities. Note that this policy applies to everything that you share through Stadia, even if you didn't originally create the content.
 
@@ -121,9 +121,9 @@ Consequences
 
 Your safety on Stadia is a top priority for us. Our response to violations of our policies varies and may include:
 
-*   Assignment of a new Stadia Name, if you create an inappropriate Stadia Name.
-*   Temporary bans: If you violate our policies, we may send you a warning. Repeated violations of our policies, including across platforms like YouTube, may result in temporary restrictions of social features on Stadia, including but not limited to chat, live streaming on YouTube, Crowd Play and access to online multiplayer functionality for varying amounts of time.
-*   Permanent ban: Access to the platform may be suspended if you commit egregious or repeated violations or try to circumvent suspensions through the use of multiple accounts.
+* Assignment of a new Stadia Name, if you create an inappropriate Stadia Name.
+* Temporary bans: If you violate our policies, we may send you a warning. Repeated violations of our policies, including across platforms like YouTube, may result in temporary restrictions of social features on Stadia, including but not limited to chat, live streaming on YouTube, Crowd Play and access to online multiplayer functionality for varying amounts of time.
+* Permanent ban: Access to the platform may be suspended if you commit egregious or repeated violations or try to circumvent suspensions through the use of multiple accounts.
 
 We don’t take these actions lightly. While we understand that people make mistakes, we believe that learning from mistakes is an opportunity to become better players and people.
 
