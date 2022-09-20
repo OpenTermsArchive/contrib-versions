@@ -10,8 +10,8 @@ While we make reasonable efforts to provide accurate and timely information abou
 
 These terms include an Arbitration provision that governs any disputes between you and us. This provision will:
 
-*   Eliminate your right to a trial by jury; and
-*   Substantially affect your rights, including preventing you from bringing, joining or participating in class or consolidated proceedings.
+* Eliminate your right to a trial by jury; and
+* Substantially affect your rights, including preventing you from bringing, joining or participating in class or consolidated proceedings.
 
 You agree that we may provide notices, disclosures and amendments to these Terms by electronic means, including by changing these Terms by posting revisions on the Sites.
 
