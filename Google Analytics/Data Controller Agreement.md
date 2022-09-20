@@ -31,9 +31,9 @@ In these Controller Terms:
 
 “Adequate Country” means:
 
-*   (a) for data processed subject to the EU GDPR: the EEA, or a country or territory recognized as ensuring adequate data protection under EU GDPR;
-*   (b) for data processed subject to the UK GDPR: the UK or a country or territory recognized as ensuring adequate data protection under the UK GDPR and the Data Protection Act 2018; and/or
-*   (c) for data processed subject to the Swiss FDPA: Switzerland, or a country or territory that is (i) included in the list of the states whose legislation ensures adequate data protection as published by the Swiss Federal Data Protection and Information Commissioner, or (ii) recognized as ensuring adequate data protection by the Swiss Federal Council under the Swiss FDPA, in each case, other than on the basis of an optional data protection framework.
+* (a) for data processed subject to the EU GDPR: the EEA, or a country or territory recognized as ensuring adequate data protection under EU GDPR;
+* (b) for data processed subject to the UK GDPR: the UK or a country or territory recognized as ensuring adequate data protection under the UK GDPR and the Data Protection Act 2018; and/or
+* (c) for data processed subject to the Swiss FDPA: Switzerland, or a country or territory that is (i) included in the list of the states whose legislation ensures adequate data protection as published by the Swiss Federal Data Protection and Information Commissioner, or (ii) recognized as ensuring adequate data protection by the Swiss Federal Council under the Swiss FDPA, in each case, other than on the basis of an optional data protection framework.
 
 “Affiliate” means an entity that directly or indirectly controls, is controlled by, or is under common control with, a party.
 
@@ -65,11 +65,11 @@ In these Controller Terms:
 
 “Google” means:
 
-*   (a) where a Google Entity is party to the Agreement, that Google Entity.
-*   (b) where the Agreement is between Customer and a third party reseller and:
-    *   (i) the third party reseller is organised in North America or in another region outside Europe, the Middle East, Africa, Asia and Oceania, Google LLC (formerly known as Google Inc.);
-    *   (ii) the third party reseller is organised in Europe, the Middle East or Africa, Google Ireland Limited; or
-    *   (iii) the third party reseller is organised in Asia and Oceania, Google Asia Pacific Pte. Ltd.
+* (a) where a Google Entity is party to the Agreement, that Google Entity.
+* (b) where the Agreement is between Customer and a third party reseller and:
+    * (i) the third party reseller is organised in North America or in another region outside Europe, the Middle East, Africa, Asia and Oceania, Google LLC (formerly known as Google Inc.);
+    * (ii) the third party reseller is organised in Europe, the Middle East or Africa, Google Ireland Limited; or
+    * (iii) the third party reseller is organised in Asia and Oceania, Google Asia Pacific Pte. Ltd.
 
 “Google End Controllers” means the End Controllers of Controller Personal Data processed by Google.
 
@@ -85,8 +85,8 @@ In these Controller Terms:
 
 “Processor Terms” means:
 
-*   (a) where Google is a party to the Agreement, the processor terms available at https://business.safety.google/adsprocessorterms; or
-*   (b) where the Agreement is between Customer and a third party reseller, such terms reflecting a controller-processor relationship (if any) as agreed between the Customer and the third party reseller.
+* (a) where Google is a party to the Agreement, the processor terms available at https://business.safety.google/adsprocessorterms; or
+* (b) where the Agreement is between Customer and a third party reseller, such terms reflecting a controller-processor relationship (if any) as agreed between the Customer and the third party reseller.
 
 “Restricted European Transfers” means transfers of Controller Personal Data which are (a) subject to the European Data Protection Legislation; and (b) are not Permitted European Transfers.
 
@@ -94,8 +94,8 @@ In these Controller Terms:
 
 “Terms Effective Date” means, as applicable:
 
-*   (a) 25 May 2018, if Customer clicked to accept or the parties otherwise agreed to these Controller Terms before or on such date; or
-*   (b) the date on which Customer clicked to accept or the parties otherwise agreed to these Controller Terms, if such date is after 25 May 2018.
+* (a) 25 May 2018, if Customer clicked to accept or the parties otherwise agreed to these Controller Terms before or on such date; or
+* (b) the date on which Customer clicked to accept or the parties otherwise agreed to these Controller Terms, if such date is after 25 May 2018.
 
 “UK Controller Personal Data” means Controller Personal Data of Controller Data Subjects located in the UK.
 
@@ -143,9 +143,9 @@ These Controller Terms will apply from the Terms Effective Date and continue whi
 
 Subject to Section 4.4 (End Controllers), each:
 
-*   (a) is an independent controller of Controller Personal Data under the European Data Protection Legislation;
-*   (b) will individually determine the purposes and means of its processing of Controller Personal Data; and
-*   (c) will comply with the obligations applicable to it under the European Data Protection Legislation regarding the processing of Controller Personal Data.
+* (a) is an independent controller of Controller Personal Data under the European Data Protection Legislation;
+* (b) will individually determine the purposes and means of its processing of Controller Personal Data; and
+* (c) will comply with the obligations applicable to it under the European Data Protection Legislation regarding the processing of Controller Personal Data.
 
 ### 4.2 Restrictions on Processing
 
@@ -168,8 +168,8 @@ Subject to Section 5.3 (Transfers of UK Controller Personal Data to Google), eit
 
 ### 5.2 Alternative Transfer Solution
 
-*   (a) If Google announces its adoption of an Alternative Transfer Solution for any Restricted European Transfers, then: (i) Google will ensure that such Restricted European Transfers are made in accordance with that Alternative Transfer Solution, and (ii) Sections 5.3 (Transfers of UK Controller Personal Data to Google) to 5.6 (Data Deletion on Termination) will not apply to such Restricted European Transfers.
-*   (b) If Google has not adopted, or has informed Customer that Google is no longer adopting, an Alternative Transfer Solution for any Restricted European Transfers, then Section 5.3 will apply to such Restricted European Transfers.
+* (a) If Google announces its adoption of an Alternative Transfer Solution for any Restricted European Transfers, then: (i) Google will ensure that such Restricted European Transfers are made in accordance with that Alternative Transfer Solution, and (ii) Sections 5.3 (Transfers of UK Controller Personal Data to Google) to 5.6 (Data Deletion on Termination) will not apply to such Restricted European Transfers.
+* (b) If Google has not adopted, or has informed Customer that Google is no longer adopting, an Alternative Transfer Solution for any Restricted European Transfers, then Section 5.3 will apply to such Restricted European Transfers.
 
 ### 5.3 Transfers of UK Controller Personal Data to Google
 
@@ -177,8 +177,8 @@ To the extent that Customer transfers UK Controller Personal Data to Google, Cus
 
 ### 5.4 Contacting Google; Customer Information
 
-*   (a) Customer may contact Google Ireland Limited and/or Google LLC in connection with the Controller SCCs at [https://support.google.com/policies/troubleshooter/9009584](https://support.google.com/policies/troubleshooter/9009584) or through such other means as may be provided by Google from time to time.
-*   (b) Customer acknowledges that Google is required under the Controller SCCs to record certain information, including (i) the identity and contact details of the data importer (including any contact person with responsibility for data protection); and (ii) the technical and organisational measures implemented by the data importer. Accordingly, Customer will, where requested and as applicable to Customer, provide such information to Google via such means as may be provided by Google, and will ensure that all information provided is kept accurate and up-to-date.
+* (a) Customer may contact Google Ireland Limited and/or Google LLC in connection with the Controller SCCs at [https://support.google.com/policies/troubleshooter/9009584](https://support.google.com/policies/troubleshooter/9009584) or through such other means as may be provided by Google from time to time.
+* (b) Customer acknowledges that Google is required under the Controller SCCs to record certain information, including (i) the identity and contact details of the data importer (including any contact person with responsibility for data protection); and (ii) the technical and organisational measures implemented by the data importer. Accordingly, Customer will, where requested and as applicable to Customer, provide such information to Google via such means as may be provided by Google, and will ensure that all information provided is kept accurate and up-to-date.
 
 ### 5.5 Responding to Data Subject Enquiries
 
@@ -201,10 +201,10 @@ then for the purposes of Clause 16(d) of the Controller SCCs, Customer directs G
 
 If Google is:
 
-*   (a) party to the Agreement and the Agreement is governed by the laws of:
-    *   (i) a state of the United States of America, then, regardless of anything else in the Agreement, the total liability of either party towards the other party under or in connection with these Controller Terms will be limited to the maximum monetary or payment-based amount at which that party’s liability is capped under the Agreement (and therefore, any exclusion of indemnification claims from the Agreement’s limitation of liability will not apply to indemnification claims under the Agreement relating to the European Data Protection Legislation); or
-    *   (ii) a jurisdiction that is not a state of the United States of America, then the liability of the parties under or in connection with these Controller Terms will be subject to the exclusions and limitations of liability in the Agreement; or
-*   (b) not party to the Agreement, to the extent permitted by applicable law, Google will not be liable for Customer’s lost revenues or indirect, special, incidental, consequential, exemplary or punitive damages, even if Google or its Affiliates have been advised of, knew or should have known that such damages do not satisfy a remedy. Google’s (and its Affiliates’) total cumulative liability to Customer or any other party for any loss or damages resulting from claims, damages or actions arising out of or relating to these Controller Terms will not exceed $500 (USD).
+* (a) party to the Agreement and the Agreement is governed by the laws of:
+    * (i) a state of the United States of America, then, regardless of anything else in the Agreement, the total liability of either party towards the other party under or in connection with these Controller Terms will be limited to the maximum monetary or payment-based amount at which that party’s liability is capped under the Agreement (and therefore, any exclusion of indemnification claims from the Agreement’s limitation of liability will not apply to indemnification claims under the Agreement relating to the European Data Protection Legislation); or
+    * (ii) a jurisdiction that is not a state of the United States of America, then the liability of the parties under or in connection with these Controller Terms will be subject to the exclusions and limitations of liability in the Agreement; or
+* (b) not party to the Agreement, to the extent permitted by applicable law, Google will not be liable for Customer’s lost revenues or indirect, special, incidental, consequential, exemplary or punitive damages, even if Google or its Affiliates have been advised of, knew or should have known that such damages do not satisfy a remedy. Google’s (and its Affiliates’) total cumulative liability to Customer or any other party for any loss or damages resulting from claims, damages or actions arising out of or relating to these Controller Terms will not exceed $500 (USD).
 
 ### 6.2 Liability if the Controller SCCs Apply
 
@@ -249,8 +249,8 @@ As of 21 September 2022 or the Agreement’s effective date, whichever is later,
 
 Google may change these Controller Terms if the change:
 
-*   (a) is required to comply with applicable law, applicable regulation, a court order or guidance issued by a governmental regulator or agency, or reflects Google’s adoption of an Alternative Transfer Solution; or
-*   (b) does not: (i) otherwise seek to alter the categorisation of the parties as controllers of Controller Personal Data under the European Data Protection Legislation; (ii) expand the scope of, or remove any restrictions on, either party’s rights to use or otherwise process Controller Personal Data; or (iii) have a material adverse impact on Customer, as reasonably determined by Google.
+* (a) is required to comply with applicable law, applicable regulation, a court order or guidance issued by a governmental regulator or agency, or reflects Google’s adoption of an Alternative Transfer Solution; or
+* (b) does not: (i) otherwise seek to alter the categorisation of the parties as controllers of Controller Personal Data under the European Data Protection Legislation; (ii) expand the scope of, or remove any restrictions on, either party’s rights to use or otherwise process Controller Personal Data; or (iii) have a material adverse impact on Customer, as reasonably determined by Google.
 
 ### 9.2 Notification of Changes
 
@@ -314,7 +314,7 @@ Appendix 1: Additional Terms for Non-European Data Protection Legislation
 
 The following Additional Terms for Non-European Data Protection Legislation supplement these Controller Terms:
 
-*   [LGPD Controller Addendum to the Google Ads Controller-Controller Data Protection Terms](https://privacy.google.com/businesses/controllerterms/lgpd/) (“LGPD Controller Addendum”)
+* [LGPD Controller Addendum to the Google Ads Controller-Controller Data Protection Terms](https://privacy.google.com/businesses/controllerterms/lgpd/) (“LGPD Controller Addendum”)
 
 For the purposes of these Controller Terms:
 
