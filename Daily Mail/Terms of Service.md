@@ -33,7 +33,7 @@ Please note that by using this website or our mobile applications (for example o
 
 2.7. Information posted on Mailonline’s official social media accounts, including Twitter and Facebook, is often published just as breaking news occurs and may not be amended or removed following updates made to articles. Whilst every effort is made to ensure the accuracy of posts, for the most current version of a story, readers should visit www.dailymail.co.uk
 
- 2.8. You may use and display on your website or social networking profile page content on our Site where an embed code is provided (the “Embeddable Content”) subject to these Terms and on the following conditions:
+ 2.8. You may use and display on your website or social networking profile page content on our Site where an embed code is provided (the “Embeddable Content”) subject to these Terms and on the following conditions:
 
 i. Any use of the Embeddable Content must be for personal, non-commercial purposes. You may not charge users of your website for access to the Embeddable Content, use the Content as means to secure advertising, or commercialise the Embeddable Content in any other way. 3. Registration
 
@@ -82,13 +82,13 @@ xi. You hereby agree to reimburse Us in respect of all damages, costs and expens
 
 3.4 You must not:
 
- (i) impersonate or try to impersonate another person;
+              (i) impersonate or try to impersonate another person;
 
- (ii) disclose your password to anyone else;
+              (ii) disclose your password to anyone else;
 
- (iii) allow anyone else use your account;
+              (iii) allow anyone else use your account;
 
- (iv) use anyone else's account.
+              (iv) use anyone else's account.
 
 3.5. You are responsible for everything done using your account. If you think that someone else may have access to, or be using, your password or account, you must tell us as soon as possible by emailing community@dailymailonline.co.uk.
 
@@ -105,10 +105,10 @@ xi. You hereby agree to reimburse Us in respect of all damages, costs and expens
 
 This clause 4 means, for example (without limitation), that we can:
 
-*   Continue to publish all or part of Your Content, including your name, town and country, even if you change your mind and want us to remove it and/or you are no longer registered with the Site;
-*   Remove Your Content, even if you have not breached these Terms or our House Rules;
-*   Use all or part of Your Content in promoting our products and services (e.g. we may use a screenshot including your comments in our advertising);
-*   Edit your Content, which may result in a part of it being modified and displayed, including without your name. Please note that we do not check, monitor, moderate or even see all the comments and other material submitted to us. While some comments are pre-moderated (i.e. checked in advance by us before publication), some are not (see our [FAQ](https://www.dailymail.co.uk/home/article-1204078/Frequently-Asked-Questions.html) for more details).
+* Continue to publish all or part of Your Content, including your name, town and country, even if you change your mind and want us to remove it and/or you are no longer registered with the Site;
+* Remove Your Content, even if you have not breached these Terms or our House Rules;
+* Use all or part of Your Content in promoting our products and services (e.g. we may use a screenshot including your comments in our advertising);
+* Edit your Content, which may result in a part of it being modified and displayed, including without your name. Please note that we do not check, monitor, moderate or even see all the comments and other material submitted to us. While some comments are pre-moderated (i.e. checked in advance by us before publication), some are not (see our [FAQ](https://www.dailymail.co.uk/home/article-1204078/Frequently-Asked-Questions.html) for more details).
 
 5\. Your content - what you are not allowed to do
 -------------------------------------------------
@@ -117,33 +117,33 @@ This clause 4 means, for example (without limitation), that we can:
 
 5.1. You must not submit any material to our Site that:
 
- (a) is:
+        (a) is:
 
- (i) defamatory, malicious, threatening, false, misleading, offensive, abusive, discriminatory, harassing, blasphemous or racist,
+            (i) defamatory, malicious, threatening, false, misleading, offensive, abusive, discriminatory, harassing, blasphemous or racist,
 
- (ii) indecent, obscene or of a sexual nature,
+            (ii) indecent, obscene or of a sexual nature,
 
- (iii) a breach of confidentiality or someone's privacy;
+            (iii) a breach of confidentiality or someone's privacy;
 
- (b) could prejudice any active legal proceedings of which you are aware;
+        (b) could prejudice any active legal proceedings of which you are aware;
 
- (c) is likely to:
+        (c) is likely to:
 
- (i) cause someone alarm, anxiety or distress;
+            (i) cause someone alarm, anxiety or distress;
 
- (ii) encourage violence or racial or religious hatred;
+            (ii) encourage violence or racial or religious hatred;
 
- (d) infringes any intellectual property rights, such as copyright and trade marks. This means generally that you must own the rights in everything you submit or must obtain permission from the rights owner to submit the material;
+        (d) infringes any intellectual property rights, such as copyright and trade marks. This means generally that you must own the rights in everything you submit or must obtain permission from the rights owner to submit the material;
 
- (e) is technically harmful (including, without limitation, computer viruses, logic bombs, Trojan horses, worms, harmful components, corrupted data or other malicious software, harmful data or conduct);
+        (e) is technically harmful (including, without limitation, computer viruses, logic bombs, Trojan horses, worms, harmful components, corrupted data or other malicious software, harmful data or conduct);
 
- (f) advertises any product or services;
+        (f) advertises any product or services;
 
- (g) impersonates anyone else or otherwise misrepresents your identity, affiliation or status;
+        (g) impersonates anyone else or otherwise misrepresents your identity, affiliation or status;
 
- (h) is in breach of these Terms, our [Privacy Policy,](https://www.dailymail.co.uk/privacy) and/or [House Rules](https://www.dailymail.co.uk/houserules);
+        (h) is in breach of these Terms, our [Privacy Policy,](https://www.dailymail.co.uk/privacy) and/or [House Rules](https://www.dailymail.co.uk/houserules);
 
- (i) is, encourages or teaches conduct that is a criminal offence, gives rise to civil liability, or is otherwise unlawful;
+        (i) is, encourages or teaches conduct that is a criminal offence, gives rise to civil liability, or is otherwise unlawful;
 
 5.2. You must not include links on the Site to any websites or webpages.
 
@@ -183,8 +183,8 @@ If you see something which you reasonably believe breaches these Terms or our [H
   
   
 
-9\. Our liability 
-------------------
+9\. Our liability   
+--------------------
 
   
 
@@ -192,13 +192,13 @@ If you see something which you reasonably believe breaches these Terms or our [H
 
 9.2. Except for liability for fraudulent misrepresentation, we are not liable for:
 
- (a) any action you may take as a result of relying on any information provided on this Site or for any loss or damage suffered by you as a result of you taking this action;
+        (a) any action you may take as a result of relying on any information provided on this Site or for any loss or damage suffered by you as a result of you taking this action;
 
- (b) any dealings you have with third parties (e.g. other users, advertisers or promoters) that take place using or facilitated by the Site;
+        (b) any dealings you have with third parties (e.g. other users, advertisers or promoters) that take place using or facilitated by the Site;
 
- (c) any liability for losses which are not a foreseeable or likely consequence of (i) your use of the Site, or (ii) a breach of these Terms; and
+        (c) any liability for losses which are not a foreseeable or likely consequence of (i) your use of the Site, or (ii) a breach of these Terms; and
 
- (d) any loss or damage which you may suffer as a result of or connected to your use of the embed code, player or the Embeddable Content. 
+        (d) any loss or damage which you may suffer as a result of or connected to your use of the embed code, player or the Embeddable Content. 
 
 9.3. We are not responsible if you cannot access the Site properly or at all because of any event outside our control, for example (without limitation) the performance of your or our ISP, your browser or the Internet.
 
