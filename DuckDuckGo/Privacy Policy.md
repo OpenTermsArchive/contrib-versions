@@ -1,16 +1,16 @@
 **[DuckDuckGo](https://duckduckgo.com/?q=&t=i) does not collect or share personal information.** That is our privacy policy in a nutshell. The rest of this page tries to explain why you should care.
 
-*   [Why You Should Care - Search Leakage](#s1)
-*   [Why You Should Care - Search History](#s2)
-*   [Information Not Collected](#s3)
-*   [Information Collected](#s4)
-*   [Information Shared](#s5)
+* [Why You Should Care - Search Leakage](#s1)
+* [Why You Should Care - Search History](#s2)
+* [Information Not Collected](#s3)
+* [Information Collected](#s4)
+* [Information Shared](#s5)
 
-*   Last updated on 04/11/12. Removed ", which gets sent to my personal email." in last paragraph as our feedback is now handled by multiple team members via desk.com.
-*   Before that, on 03/11/12. Removed [dead link](#change4) (Scroogle) and added a missing 'to'.
-*   Before that, on 11/16/10. [This paragraph](#change3) was added.
-*   Before that, on 9/25/10. [This paragraph](#change2) was added.
-*   Before that, on 9/16/10. [This paragraph](#change) was added.
+* Last updated on 04/11/12. Removed ", which gets sent to my personal email." in last paragraph as our feedback is now handled by multiple team members via desk.com.
+* Before that, on 03/11/12. Removed [dead link](#change4) (Scroogle) and added a missing 'to'.
+* Before that, on 11/16/10. [This paragraph](#change3) was added.
+* Before that, on 9/25/10. [This paragraph](#change2) was added.
+* Before that, on 9/16/10. [This paragraph](#change) was added.
 
 Why You Should Care
 -------------------
@@ -113,7 +113,7 @@ Other
 
 If you care about search privacy, you might also want to check out these other search engines that take it seriously by default.
 
-*   [Ixquick](https://ixquick.com/) \[[privacy policy](https://ixquick.com/eng/protect-privacy.html)\]
+* [Ixquick](https://ixquick.com/) \[[privacy policy](https://ixquick.com/eng/protect-privacy.html)\]
 
 Each does things a bit differently in terms of privacy and very differently in terms of results. And not all go as far as DuckDuckGo in some aspects. However, none store your personal information by default, which make them all pretty safe in our opinion.
 
