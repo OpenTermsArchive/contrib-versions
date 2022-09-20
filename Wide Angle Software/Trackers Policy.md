@@ -7,8 +7,8 @@ wideanglesoftware.com puts small files (known as ‘cookies’) onto your comput
 
 Cookies are used to:
 
-*   measure how you use the website so it can be updated and improved based on your needs
-*   remember the notifications you’ve seen so that we don’t show them to you again  
+* measure how you use the website so it can be updated and improved based on your needs
+* remember the notifications you’ve seen so that we don’t show them to you again  
     
 
   
@@ -34,11 +34,11 @@ We use Google Analytics software to collect information about how you use widean
 
 Google Analytics stores information about:
 
-*   The pages you visit on wideanglesoftware.com
-*   How long you spend on each wideanglesoftware.com page.
-*   How you got to the site.
-*   What you click on while you’re visiting the site.
-*   We don’t collect or store your personal information (eg your name or address) so this information can’t be used to identify who you are.
+* The pages you visit on wideanglesoftware.com
+* How long you spend on each wideanglesoftware.com page.
+* How you got to the site.
+* What you click on while you’re visiting the site.
+* We don’t collect or store your personal information (eg your name or address) so this information can’t be used to identify who you are.
 
 Google Analytics sets the following cookies:
 
@@ -77,11 +77,11 @@ You can prevent your browsing from being tracked by browsing in ‘private mode�
 
 Find out how to manage cookies on popular browsers:
 
-*   [Apple Safari](https://support.apple.com/en-gb/guide/safari/sfri11471/mac)
-*   [Google Chrome](https://support.google.com/chrome/answer/95647?hl=en&co=GENIE.Platform%3DDesktop&oco=1)
-*   [Microsoft Internet Explorer](https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies) & [Microsoft Edge](https://support.microsoft.com/en-us/help/4468242/microsoft-edge-browsing-data-and-privacy-microsoft-privacy)
-*   [Mozilla Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)
-*   [Opera browser](https://blogs.opera.com/news/2015/08/how-to-manage-cookies-in-opera/)
+* [Apple Safari](https://support.apple.com/en-gb/guide/safari/sfri11471/mac)
+* [Google Chrome](https://support.google.com/chrome/answer/95647?hl=en&co=GENIE.Platform%3DDesktop&oco=1)
+* [Microsoft Internet Explorer](https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies) & [Microsoft Edge](https://support.microsoft.com/en-us/help/4468242/microsoft-edge-browsing-data-and-privacy-microsoft-privacy)
+* [Mozilla Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)
+* [Opera browser](https://blogs.opera.com/news/2015/08/how-to-manage-cookies-in-opera/)
 
 ### Opt out of being tracked by Google Analytics
 
