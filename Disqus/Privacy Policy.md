@@ -18,17 +18,17 @@ a. Personal data, or personal information, means any information about an indivi
 
 b. We may collect, use, store and transfer different kinds of personal data about you which we have categorized as follows:
 
-*   i. **Identity Data** includes first name, last name, username or similar identifier, date of birth, email address, telephone number, and mailing address.
+* i. **Identity Data** includes first name, last name, username or similar identifier, date of birth, email address, telephone number, and mailing address.
     
-*   ii. **Technical Data** includes internet protocol (IP) address, unique Cookie ID, Device ID, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access the Service.
+* ii. **Technical Data** includes internet protocol (IP) address, unique Cookie ID, Device ID, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access the Service.
     
-*   iii. **Profile Data** includes your username and password, your interests, preferences, feedback and survey responses, marital status, gender, title.
+* iii. **Profile Data** includes your username and password, your interests, preferences, feedback and survey responses, marital status, gender, title.
     
-*   iv. **Usage Data** includes information about how you use the Service, and the content of comments that you post.
+* iv. **Usage Data** includes information about how you use the Service, and the content of comments that you post.
     
-*   v. **Aggregated Data** includes statistical or demographic data for any purpose. 
+* v. **Aggregated Data** includes statistical or demographic data for any purpose. 
     
-*   vi. **Special Data** We do not intentionally collect any personal data about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data, or information about criminal convictions and offences. However, if you make comments using the Service that include such data about yourself it will be publicly available and may be processed by Disqus or others.
+* vi. **Special Data** We do not intentionally collect any personal data about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data, or information about criminal convictions and offences. However, if you make comments using the Service that include such data about yourself it will be publicly available and may be processed by Disqus or others.
     
 
 **3\. HOW IS YOUR PERSONAL DATA COLLECTED?**  
@@ -44,7 +44,7 @@ We use different methods to collect data from and about you including through:
 
 **Clear Gifs (Web Beacons) Information:** When you use the Service, we may employ clear gifs (also known as web beacons) which are used to collect Technical Data and information such as online usage patterns. We may also use clear gifs in HTML-based emails sent to our users to track which emails are opened and which links or advertisements are clicked by recipients. 
 
-**Third parties or publicly available sources.** We may obtain or receive personal data about you from the following parties**,** analytics providers such as Google based outside the EU**,** advertising partners listed [here](https://help.disqus.com/terms-and-policies/third-party-advertising-partners), and Identity and Contact Data from third party connections or log-ins for example Facebook Connect, Google or Twitter by “following”, “liking” or linking your account to the Service. 
+**Third parties or publicly available sources.** We may obtain or receive personal data about you from the following parties**,** analytics providers such as Google based outside the EU**,**  advertising partners listed [here](https://help.disqus.com/terms-and-policies/third-party-advertising-partners), and Identity and Contact Data from third party connections or log-ins for example Facebook Connect, Google or Twitter by “following”, “liking” or linking your account to the Service. 
 
 **4\. TARGETED ADVERTISING and AD PARTNERS.**  
 Advertising is the predominant way Disqus makes money. Advertising revenue allows Disqus to support and improve the Service. Disqus uses, and also engages third party ad partners and affiliates who use cookie IDs, device IDs (including mobile), hashed email addresses, IP address, ISP and browser information, demographic or interest data, content viewed and actions taken on the Service or Partner Sites, including information about the websites you’ve viewed and advertisements you’ve interacted within order to provide you with more relevant advertising targeted to your preferences and interests derived from your interaction with the Service, Partner Sites or other third party websites. For a list of third party ad partners that Disqus is currently working with click [here](https://help.disqus.com/terms-and-policies/third-party-advertising-partners). Disqus may also send you email newsletters and email marketing messages if you have provided us with permission, or consented to receive such emails, as required in the jurisdiction in which you reside. Email marketing messages may be tailored to your interests based on the information described above in this section, for information about how to opt-out and utilize our “Do Not Sell” option please click [here](https://help.disqus.com/customer/portal/articles/1255134#email-notifications). 
@@ -78,7 +78,7 @@ We may seek to acquire other businesses or merge with them. If a change happens 
 
 In addition to the above, we may access, preserve, and disclose your personal data, including your Identity, Contact, or Technical data, if we believe doing so is required or appropriate to comply with law enforcement requests and legal process. We may also access, preserve, and disclose such personal data if we believe in good faith that disclosure is necessary to protect yours', ours' or others' rights, property, or safety, or to investigate fraud.
 
-We require all third parties to respect the security of your personal data and to treat it in accordance with the law. 
+We require all third parties to respect the security of your personal data and to treat it in accordance with the law.  
 
 **7\. YOUR CHOICES REGARDING COLLECTION OF YOUR INFORMATION.**  
 a. Your Account. All registered users may review, update or correct the Identity, Contact and Profile data by changing their “user preferences” in their account. To delete your account entirely, please follow [these steps](https://help.disqus.com/customer/portal/articles/472013-deleting-your-account). 
@@ -125,17 +125,17 @@ vii. Withdraw consent at any time (we will treat this as a request for data dele
   
 We are required to publish statistics on how many people exercised their privacy rights in the previous year. The following statistics are for people who made requests relating to Disqus during 2020. These statistics cover all requests received from individuals around the world.
 
-*   Number of requests for access to (copy of) data: 111
+* Number of requests for access to (copy of) data: 111
     
-    *   Number of these requests that were not actioned because the requestor did not complete the verification process: 7
+    * Number of these requests that were not actioned because the requestor did not complete the verification process: 7
         
-*   Number of requests for data deletion: 641
+* Number of requests for data deletion: 641
     
-    *   Number of these requests that were not actioned because the requestor did not complete the verification process: 30
+    * Number of these requests that were not actioned because the requestor did not complete the verification process: 30
         
-*   Number of requests for opt-out (Do Not Sell): 76
+* Number of requests for opt-out (Do Not Sell): 76
     
-    *   Number of these requests that were not actioned because the requestor did not complete the verification process: 7
+    * Number of these requests that were not actioned because the requestor did not complete the verification process: 7
         
 
 **11\. INTERNATIONAL DATA TRANSFERS.**  
