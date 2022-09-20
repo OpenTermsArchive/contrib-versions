@@ -18,10 +18,10 @@ The End User hereby enters into a License Agreement with Lingualeo Inc. (hereina
 
 1.1.4. License Agreement Conclusion (acceptance of Public Offer) means full and unconditional acceptance of this End User License Agreement by means of taking one of the following acts by the End User:
 
-*   registering and/or logging on to the Website in accordance with the procedure established by the Licensor;
-*   submitting a query or taking other acts listed on the relevant page of the End User Account in order to be granted the right to use the Additional Functionality of the Website subject to conditions of a selected tariff and/or tariff plan;
-*   making a payment for granting the right to use the Additional Functionality of the Website in the amount established by the tariff and/or tariff plan for the relevant Additional Functionality;
-*   Starting to use of the Website by the End User in any other form.
+* registering and/or logging on to the Website in accordance with the procedure established by the Licensor;
+* submitting a query or taking other acts listed on the relevant page of the End User Account in order to be granted the right to use the Additional Functionality of the Website subject to conditions of a selected tariff and/or tariff plan;
+* making a payment for granting the right to use the Additional Functionality of the Website in the amount established by the tariff and/or tariff plan for the relevant Additional Functionality;
+* Starting to use of the Website by the End User in any other form.
 
 1.1.5. Additional Functionality of the Website means additional capabilities of the Website, which may include Courses, Programs and other special capabilities.
 
@@ -238,12 +238,12 @@ b) Until termination of the Agreement.
 
 6.3. The simple (non-exclusive) license granted to the Licensor allows for the following use of the Content:
 
-*   Reproduce the Content i.e. make one or more copies of the Content in any material form, and also save them to an electronic device (reproduction right);
-*   Distribute copies of the Content i.e. provide access to the Content reproduced in any material form, including by network or other methods, and also by means of sale, lease, rent, lend, including import for any of the above purposes (distribution right);  
+* Reproduce the Content i.e. make one or more copies of the Content in any material form, and also save them to an electronic device (reproduction right);
+* Distribute copies of the Content i.e. provide access to the Content reproduced in any material form, including by network or other methods, and also by means of sale, lease, rent, lend, including import for any of the above purposes (distribution right);  
     Demonstrate the Content in public (public demonstration right);
-*   Communicate the Content in a manner enabling any person to get online access to it from any place and at any time at the option of such person (publication right);  
+* Communicate the Content in a manner enabling any person to get online access to it from any place and at any time at the option of such person (publication right);  
     Modify the Content i.e. rearrange or revise the Content in any other manner including translation of the Content from one language to another;
-*   Assign the acquired rights or a part thereof to third persons (sublicensing right).
+* Assign the acquired rights or a part thereof to third persons (sublicensing right).
 
 6.4. The End User grants the Licensor with the right to use translations of words and sentences created by the End User on the Licensor’s website. The right of use includes the right to copy and publish translations created by the End User anywhere on the Licensor’s Website, as well as the right to grant similar rights of use to third parties.
 
@@ -256,23 +256,23 @@ b) Until termination of the Agreement.
 
 7.3. You may not use the Website for:
 
-*   Placing and/or distributing counterfeit Content;
-*   Placing and/or distributing pornographic Content, and also for promotion of pornography and children’s erotica, or for advertising sexual services;
-*   Placing and/or distributing any other prohibited information including extremist materials, and also materials aimed at limiting human rights and freedoms based on racial and national identity, religion, language, and gender, inciting acts of violence to any person, or inhumane treatment of animals, calling for commitment of other illegal acts, including explaining a procedure for manufacturing and employment of weapons, drugs and pre-courses thereof etc.;
-*   Placing and/or distributing ID documents or private financial information;
-*   Preferred or exclusive placing of links to other websites;
-*   Distribution of advertising materials in personal messages to other End Users without obtaining their advance consent to the receipt thereof (SPAM);
-*   Limitation of access to pages and files placed on the Website or transmitted to it by means of password or otherwise.
+* Placing and/or distributing counterfeit Content;
+* Placing and/or distributing pornographic Content, and also for promotion of pornography and children’s erotica, or for advertising sexual services;
+* Placing and/or distributing any other prohibited information including extremist materials, and also materials aimed at limiting human rights and freedoms based on racial and national identity, religion, language, and gender, inciting acts of violence to any person, or inhumane treatment of animals, calling for commitment of other illegal acts, including explaining a procedure for manufacturing and employment of weapons, drugs and pre-courses thereof etc.;
+* Placing and/or distributing ID documents or private financial information;
+* Preferred or exclusive placing of links to other websites;
+* Distribution of advertising materials in personal messages to other End Users without obtaining their advance consent to the receipt thereof (SPAM);
+* Limitation of access to pages and files placed on the Website or transmitted to it by means of password or otherwise.
 
 7.4. You must not place the Content containing information, forbidden for distribution among children, namely:
 
-*   inducing children to commit actions posing a threat to their life and (or) health, including to infliction of harm to health, suicide;
-*   capable of causing the desire to use drugs, psychotropic and (or) stupefying substances, tobacco products, alcoholic and alcohol-containing products, beer and the drinks made on its basis, to take part in gambling, to be engaged in prostitution, vagrancy or begging;
-*   proving or justifying admissibility of violence and (or) cruelty or inducing to commit violent acts in relation to people or animals;
-*   denying family values and forming disrespect for parents and (or) other family members;
-*   justifying illegal behavior;
-*   containing obscene abuse;
-*   containing information of pornographic character.
+* inducing children to commit actions posing a threat to their life and (or) health, including to infliction of harm to health, suicide;
+* capable of causing the desire to use drugs, psychotropic and (or) stupefying substances, tobacco products, alcoholic and alcohol-containing products, beer and the drinks made on its basis, to take part in gambling, to be engaged in prostitution, vagrancy or begging;
+* proving or justifying admissibility of violence and (or) cruelty or inducing to commit violent acts in relation to people or animals;
+* denying family values and forming disrespect for parents and (or) other family members;
+* justifying illegal behavior;
+* containing obscene abuse;
+* containing information of pornographic character.
 
 7.5. In spite of the prohibition established, in the course of using the Website you may receive Content, which in your opinion my contain information of insulting or obscene nature, and also, violating the applicable laws and rights of the third parties in any other way.
 
