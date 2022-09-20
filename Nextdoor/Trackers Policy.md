@@ -29,7 +29,7 @@ The cookies used on our Services are categorised as follows:
 
 ● Performance cookies
 
-**Strictly necessary** cookies are necessary for our Services to function. You can set your browser to block or alert you about these cookies, but some parts of our Services will not work and we will not be able to guarantee how the security on our Services will perform during your visit.
+**Strictly necessary** cookies are necessary for our Services to function. You can set your browser to block or alert you about these cookies, but some parts of our Services will not work and we will not be able to guarantee how the security on our Services will perform during your visit.
 
 **Functional cookies** enable us to provide you with enhanced functionality and personalisation. If you do not add these cookies then some of our Services may not function properly.
 
