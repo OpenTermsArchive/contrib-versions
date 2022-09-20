@@ -2,8 +2,8 @@
 
 Last Updated: Feb 1, 2017
 
-*   [Username Policy](https://mix.com/about/usernames)
-*   [Privacy Policy](https://mix.com/privacy)
+* [Username Policy](https://mix.com/about/usernames)
+* [Privacy Policy](https://mix.com/privacy)
 
 * * *
 
@@ -45,11 +45,11 @@ You may choose to create a Mix account or you may use the Services without creat
 
 By using the Services, you represent that:
 
-1.  All required registration information you submit either as part of the Mix registration process or by your registration through a Partner Community is truthful and accurate.
-2.  You will maintain the accuracy of such information.
-3.  If you are using the Services on behalf of a legal entity, you represent that you are authorized to enter into an agreement on behalf of that legal entity.
-4.  You are 13 years of age or older.
-5.  Your use of the Services does not violate any applicable law or regulation.
+1. All required registration information you submit either as part of the Mix registration process or by your registration through a Partner Community is truthful and accurate.
+2. You will maintain the accuracy of such information.
+3. If you are using the Services on behalf of a legal entity, you represent that you are authorized to enter into an agreement on behalf of that legal entity.
+4. You are 13 years of age or older.
+5. Your use of the Services does not violate any applicable law or regulation.
 
 Your Mix account may be deleted if we have reason to believe that you do not meet these eligibility requirements.
 
@@ -201,5 +201,5 @@ These Terms of Service constitute the entire agreement between you and Mix with 
 
 **Revision History**
 
-*   Terms of Service - Effective February 1, 2017
-*   Terms of Service - Effective October 18, 2019
+* Terms of Service - Effective February 1, 2017
+* Terms of Service - Effective October 18, 2019
