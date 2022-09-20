@@ -116,16 +116,16 @@ We perform ongoing technical maintenance and upgrades to the Platform to protect
 
 The following service providers are established outside the European Economic Area, which may result in your data being transferred outside the European Economic Area. In these cases the personal data is protected by the service providers entering into the [EU standard contractual clauses](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010D0087&from=en) for the transfer of data as approved by the European Commission:
 
-1.  Amazon Web Services, Inc. (USA);
-2.  Google LLC (USA);
-3.  Apple Inc. (USA);
-4.  Microsoft Corporation (USA);
-5.  Slack Technologies, Inc. (USA);
-6.  BlackLine Systems, Inc. (USA);
-7.  Chronicle, LLC (USA);
-8.  True Partners Consulting, LLC (USA);
-9.  Arcaris, Inc. (USA);
-10.  Havas Edge, Inc. (USA).
+1. Amazon Web Services, Inc. (USA);
+2. Google LLC (USA);
+3. Apple Inc. (USA);
+4. Microsoft Corporation (USA);
+5. Slack Technologies, Inc. (USA);
+6. BlackLine Systems, Inc. (USA);
+7. Chronicle, LLC (USA);
+8. True Partners Consulting, LLC (USA);
+9. Arcaris, Inc. (USA);
+10. Havas Edge, Inc. (USA).
 
 We transfer personal data to attorneys, attorney assistants, notaries, bailiffs, auditors, accountants, bookkeepers, debt collectors, consultants, translation agencies, IT service providers, insurance companies, and archiving services that provide services to Vinted.
 
@@ -158,14 +158,14 @@ If you are a California resident, please see our [California Privacy Policy](#cc
 
 Subject to conditions, limitations, and exceptions established by statutory data protection provisions, you have the right at any time:
 
-*   to be informed of the data we collect and use and to request access or demand a copy of the data concerned (right to access). You can access any data you actively provided us on the Platform (2.1, 2.5 and 2.6) at any time through your Vinted account;
-*   to demand the correction of inaccurate data and, subject to the nature of the collection and use, the completion of incomplete data (right to rectification). You can also amend any of the data that you have actively provided us on the Platform (2.1, 2.5 and 2.6) at any time through your Vinted account (except sent messages and any forum posts or reviews);
-*   subject to just cause, to demand the deletion of your data (right to deletion);
-*   to demand that the collection and use of your data be restricted, provided the legal criteria are met (right to restrict processing);
-*   subject to the legal criteria being met, to receive the data you have provided in a structured, current and machine-readable form and to transfer this data to another data controller or, when technically feasible, to have it transferred by Vinted (right to data portability);
-*   to object to the collection and use of data – only where the collection and use is based on a task carried out in the public interest or in the exercise of a vested official authority (Art. 6 (1)(e) of GDPR) or legitimate interest (Art. 6 (1)(f) of GDPR), including profiling, based on the same data collection and use grounds as explained in other sections of this statement (right to object). You also have the right to object to the collection of your personal data for direct marketing purposes at any time;
-*   to revoke any permission, you have granted us at any time. Such revocation will not affect the legality of collection and use carried out prior to the revocation and is based on the permission granted. You can revoke your permission to receive our newsletter by changing your Vinted account settings to block the receipt of any further Marketing Emails. Alternatively, you can click "Unsubscribe" at the end of the Marketing Email;
-*   not to receive discriminatory treatment while exercising your rights.
+* to be informed of the data we collect and use and to request access or demand a copy of the data concerned (right to access). You can access any data you actively provided us on the Platform (2.1, 2.5 and 2.6) at any time through your Vinted account;
+* to demand the correction of inaccurate data and, subject to the nature of the collection and use, the completion of incomplete data (right to rectification). You can also amend any of the data that you have actively provided us on the Platform (2.1, 2.5 and 2.6) at any time through your Vinted account (except sent messages and any forum posts or reviews);
+* subject to just cause, to demand the deletion of your data (right to deletion);
+* to demand that the collection and use of your data be restricted, provided the legal criteria are met (right to restrict processing);
+* subject to the legal criteria being met, to receive the data you have provided in a structured, current and machine-readable form and to transfer this data to another data controller or, when technically feasible, to have it transferred by Vinted (right to data portability);
+* to object to the collection and use of data – only where the collection and use is based on a task carried out in the public interest or in the exercise of a vested official authority (Art. 6 (1)(e) of GDPR) or legitimate interest (Art. 6 (1)(f) of GDPR), including profiling, based on the same data collection and use grounds as explained in other sections of this statement (right to object). You also have the right to object to the collection of your personal data for direct marketing purposes at any time;
+* to revoke any permission, you have granted us at any time. Such revocation will not affect the legality of collection and use carried out prior to the revocation and is based on the permission granted. You can revoke your permission to receive our newsletter by changing your Vinted account settings to block the receipt of any further Marketing Emails. Alternatively, you can click "Unsubscribe" at the end of the Marketing Email;
+* not to receive discriminatory treatment while exercising your rights.
 
 To exercise any of the rights specified in this section, you can contact Vinted and submit your request using the contact information (7 below).
 
@@ -215,8 +215,8 @@ What is this California Privacy Policy? The California Consumer Privacy Act of 2
 
 What is "personal information"? For the purposes of this California Privacy Policy, "personal information" is defined as information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular California consumer or California household. Personal information does not include:
 
-1.  Publicly available information from government records.
-2.  De-identified or aggregated information.
+1. Publicly available information from government records.
+2. De-identified or aggregated information.
 
 What are "California consumers"? A "California consumer" is a natural person who resides in California. For the purposes of this California Privacy Policy, a California consumer does not include persons to the extent they are (i) acting as an employee, owner, director, officer or contractor of a company, partnership, sole proprietorship, nonprofit or government agency that is doing business with Vinted or (ii) acting as a job applicant to, an employee of, owner of, director of, officer of, medical staff member of, or contractor of Vinted.
 
@@ -230,22 +230,22 @@ This section contains the categories of personal information that we may have co
 
 We obtain the categories of personal information listed above from the following categories of sources:
 
-1.  From you directly (e.g., when you register as a member on the Platform, if you enter your Google or Facebook log-in details, when you list items on the Platform, when you communicate with other members, and if you send us query, request or complaint)
-2.  Information we generate about you in the course of our relationship with you (e.g., data collected from cookies and similar technologies as described in our [Cookie Policy](https://www.vinted.com/cookie-policy))
-3.  Directly and indirectly from your activity on the Platform (e.g., Platform usage information collected automatically)
-4.  From third-parties suppliers that interact with us in connection with the services they provide.
-5.  From our affiliated businesses
+1. From you directly (e.g., when you register as a member on the Platform, if you enter your Google or Facebook log-in details, when you list items on the Platform, when you communicate with other members, and if you send us query, request or complaint)
+2. Information we generate about you in the course of our relationship with you (e.g., data collected from cookies and similar technologies as described in our [Cookie Policy](https://www.vinted.com/cookie-policy))
+3. Directly and indirectly from your activity on the Platform (e.g., Platform usage information collected automatically)
+4. From third-parties suppliers that interact with us in connection with the services they provide.
+5. From our affiliated businesses
 
 We may use your personal information for the following purposes:
 
-1.  To enable you to use the Platform, allow us to provide our services and perform our [general terms and conditions](https://www.vinted.com/terms-and-conditions) ("GTC"). We collect and use your personal data to allow you to use our Platform, to provide our services and to fulfill a contract (GTC) with you and especially to undertake commercial transactions via the Platform, to use the electronic payment system or to leave reviews and communicate with other members.
-2.  To improve your experience when using the Platform. We collect and use your personal information in order to improve your experience when using the Platform by enabling you to personalize your feed and search results, providing you relevant suggestions and keeping your previous searches, sending you notifications and otherwise making the use of the Platform more pleasant.
-3.  To ensure the security of your account and the Platform. Vinted strives to ensure that the accounts of our members and the Platform itself would be secure and protected from cyber-attacks, unauthorized access and other related risks.
-4.  To supervise compliance with and enforce our GTC. Vinted actively supervises compliance with and enforces the GTC for the purpose of ensuring the security of your account and the Platform.
-5.  To enable your payments for items. We collect and use your personal information in order to for example, allow you to make a purchase and add a bank card for payment purposes or to add a bank account for withdrawal purposes.
-6.  To enable shipment of items purchased on the Platform. We collect and use your personal information in order to enable you to ship or receive items.
-7.  To carry out marketing activities or track your parcel. We collect and use your personal information in order to engage in marketing activities such as sending you marketing emails or to enable us to post your content on our social media accounts.
-8.  For legal purposes. We may collect and use your personal information in order to comply with applicable law.
+1. To enable you to use the Platform, allow us to provide our services and perform our [general terms and conditions](https://www.vinted.com/terms-and-conditions) ("GTC"). We collect and use your personal data to allow you to use our Platform, to provide our services and to fulfill a contract (GTC) with you and especially to undertake commercial transactions via the Platform, to use the electronic payment system or to leave reviews and communicate with other members.
+2. To improve your experience when using the Platform. We collect and use your personal information in order to improve your experience when using the Platform by enabling you to personalize your feed and search results, providing you relevant suggestions and keeping your previous searches, sending you notifications and otherwise making the use of the Platform more pleasant.
+3. To ensure the security of your account and the Platform. Vinted strives to ensure that the accounts of our members and the Platform itself would be secure and protected from cyber-attacks, unauthorized access and other related risks.
+4. To supervise compliance with and enforce our GTC. Vinted actively supervises compliance with and enforces the GTC for the purpose of ensuring the security of your account and the Platform.
+5. To enable your payments for items. We collect and use your personal information in order to for example, allow you to make a purchase and add a bank card for payment purposes or to add a bank account for withdrawal purposes.
+6. To enable shipment of items purchased on the Platform. We collect and use your personal information in order to enable you to ship or receive items.
+7. To carry out marketing activities or track your parcel. We collect and use your personal information in order to engage in marketing activities such as sending you marketing emails or to enable us to post your content on our social media accounts.
+8. For legal purposes. We may collect and use your personal information in order to comply with applicable law.
 
 Sale of Personal Information to Third Parties
 
