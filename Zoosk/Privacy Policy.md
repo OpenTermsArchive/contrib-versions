@@ -440,35 +440,35 @@ Cookies, device identifiers, or other information can be stored or accessed on y
 
 Ads and content can be personalised based on a profile. More data can be added to better personalise ads and content. Ad and content performance can be measured. Insights about audiences who saw the ads and content can be derived. Data can be used to build or improve user experience, systems and software.
 
-*   ##### Create a personalised ads profile
+* ##### Create a personalised ads profile
     
     A profile can be built about you and your interests to show you personalised ads that are relevant to you.
     
-*   ##### Select personalised ads
+* ##### Select personalised ads
     
     Personalised ads can be shown to you based on a profile about you.
     
-*   ##### Create a personalised content profile
+* ##### Create a personalised content profile
     
     A profile can be built about you and your interests to show you personalised content that is relevant to you.
     
-*   ##### Select personalised content
+* ##### Select personalised content
     
     Personalised content can be shown to you based on a profile about you.
     
-*   ##### Measure ad performance
+* ##### Measure ad performance
     
     The performance and effectiveness of ads that you see or interact with can be measured.
     
-*   ##### Measure content performance
+* ##### Measure content performance
     
     The performance and effectiveness of content that you see or interact with can be measured.
     
-*   ##### Apply market research to generate audience insights
+* ##### Apply market research to generate audience insights
     
     Market research can be used to learn more about the audiences who visit sites/apps and view ads.
     
-*   ##### Develop and improve products
+* ##### Develop and improve products
     
     Your data can be used to improve existing systems and software, and to develop new products
     
