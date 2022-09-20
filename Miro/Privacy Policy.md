@@ -1,19 +1,19 @@
 Privacy Policy
 
-*   [Terms of Service](https://miro.com/legal/terms-of-service)
-*   [Master Cloud Agreement](https://miro.com/legal/master-cloud-agreement)
-*   [Privacy Policy](https://miro.com/legal/privacy-policy)
-*   [Recruitment Privacy Policy](https://miro.com/legal/recruitment-privacy-policy)
-*   [Cookies Policy](https://miro.com/legal/cookies-policy)
-*   [Developer Terms of Use](https://miro.com/legal/developer-terms-of-use)
-*   [Online Community Terms of Use](https://miro.com/legal/online-community-terms-of-use)
-*   [Open Source Software - Site](https://miro.com/legal/open-source-software-site)
-*   [Open Source Software - Client](https://miro.com/legal/open-source-software-client)
-*   [Current Subprocessors List](https://miro.com/legal/subprocessors-list)
-*   [Prior Master Cloud Agreement "MCA" Versions](https://miro.com/legal/prior-master-cloud-agreement-mca-versions)
-*   [Miro Marketplace Terms of Use](https://miro.com/legal/miro-marketplace-terms-of-use)
-*   [Code of Conduct](https://miro.com/legal/code-of-conduct)
-*   [Vendor Data Processing Addendum](https://miro.com/legal/vendor-data-processing-addendum)
+* [Terms of Service](https://miro.com/legal/terms-of-service)
+* [Master Cloud Agreement](https://miro.com/legal/master-cloud-agreement)
+* [Privacy Policy](https://miro.com/legal/privacy-policy)
+* [Recruitment Privacy Policy](https://miro.com/legal/recruitment-privacy-policy)
+* [Cookies Policy](https://miro.com/legal/cookies-policy)
+* [Developer Terms of Use](https://miro.com/legal/developer-terms-of-use)
+* [Online Community Terms of Use](https://miro.com/legal/online-community-terms-of-use)
+* [Open Source Software - Site](https://miro.com/legal/open-source-software-site)
+* [Open Source Software - Client](https://miro.com/legal/open-source-software-client)
+* [Current Subprocessors List](https://miro.com/legal/subprocessors-list)
+* [Prior Master Cloud Agreement "MCA" Versions](https://miro.com/legal/prior-master-cloud-agreement-mca-versions)
+* [Miro Marketplace Terms of Use](https://miro.com/legal/miro-marketplace-terms-of-use)
+* [Code of Conduct](https://miro.com/legal/code-of-conduct)
+* [Vendor Data Processing Addendum](https://miro.com/legal/vendor-data-processing-addendum)
 
 Privacy Policy
 --------------
@@ -48,35 +48,35 @@ Your personal data is provided by you, obtained from third parties, and/or creat
 
 Miro may collect and receive Customer Content and other personal data (“**Other Data**”) in a variety of ways:
 
-*   **Customer Content.** Customers or Authorized Users routinely submit Customer Content to Miro when using the Services.
+* **Customer Content.** Customers or Authorized Users routinely submit Customer Content to Miro when using the Services.
     
-*   **Other Data.** Miro also collects, generates and/or receives Other Data:
+* **Other Data.** Miro also collects, generates and/or receives Other Data:
     
-    *   **Organization and account information.** To create or update an Organization account, you or the relevant Customer (e.g. your employer) supplies Miro with an email address, phone number, password, domain and/or similar account details. In addition, Customers that purchase a paid version of the Services provide Miro (or its payment processors) with billing details such as credit card information, banking information and/or a billing address.
+    * **Organization and account information.** To create or update an Organization account, you or the relevant Customer (e.g. your employer) supplies Miro with an email address, phone number, password, domain and/or similar account details. In addition, Customers that purchase a paid version of the Services provide Miro (or its payment processors) with billing details such as credit card information, banking information and/or a billing address.
         
-    *   **Usage data.** 
+    * **Usage data.** 
         
-        *   **Service metadata.** When an Authorized User interacts with the Services, metadata is generated to provide additional context about their use of the Services. For example, Miro logs the Organizations, boards, people, features, content and links that you view or interact with, as well the types of files shared and any Third-Party Services that you use.
+        * **Service metadata.** When an Authorized User interacts with the Services, metadata is generated to provide additional context about their use of the Services. For example, Miro logs the Organizations, boards, people, features, content and links that you view or interact with, as well the types of files shared and any Third-Party Services that you use.
             
-        *   **Log data.** Like most websites and services delivered over the Internet, our servers automatically collect information when you access or use our Websites or Services, recording this information in log files. This log data may include the Internet Protocol (IP) address, the address of the web page visited before using the Website or Services, your browser type and settings, the date and time the Services were used, information about browser configuration and plugins, and language preferences.
+        * **Log data.** Like most websites and services delivered over the Internet, our servers automatically collect information when you access or use our Websites or Services, recording this information in log files. This log data may include the Internet Protocol (IP) address, the address of the web page visited before using the Website or Services, your browser type and settings, the date and time the Services were used, information about browser configuration and plugins, and language preferences.
             
-        *   **Device data.** Miro collects information about devices accessing the Services, including the type of device, operating system used, device settings, application IDs, unique device identifiers and crash data. Whether we collect some or all of this Other Data often depends on the type of device used and its settings.
+        * **Device data.** Miro collects information about devices accessing the Services, including the type of device, operating system used, device settings, application IDs, unique device identifiers and crash data. Whether we collect some or all of this Other Data often depends on the type of device used and its settings.
             
-        *   **Location data.** We receive information from you, the relevant Customer and other third-parties that helps us approximate your location. We may, for example, use a business address submitted by your employer or an IP address received from your browser or device to determine approximate location. Miro may also collect location information from devices in accordance with the consent provided by your device.
+        * **Location data.** We receive information from you, the relevant Customer and other third-parties that helps us approximate your location. We may, for example, use a business address submitted by your employer or an IP address received from your browser or device to determine approximate location. Miro may also collect location information from devices in accordance with the consent provided by your device.
             
-        *   **Third-party data.** Miro may receive data about organizations, industries, lists of companies that are customers, Website visitors, marketing campaigns and other matters relevant to our business from parent corporations, affiliates and subsidiaries, our partners, or other third parties that we use to make our own information more useful. This data may be combined and may include aggregate-level data. For example, information about how well an online marketing or email campaign performed, or to create a business contacts directory.
+        * **Third-party data.** Miro may receive data about organizations, industries, lists of companies that are customers, Website visitors, marketing campaigns and other matters relevant to our business from parent corporations, affiliates and subsidiaries, our partners, or other third parties that we use to make our own information more useful. This data may be combined and may include aggregate-level data. For example, information about how well an online marketing or email campaign performed, or to create a business contacts directory.
             
-        *   **Cookie data.** Miro uses a variety of cookies and similar technologies in our Websites and Services to help us collect Other Data. For more details about how we use these technologies, as well as your opt-out opportunities and other options, please see our [Cookie Notice](https://miro.com/legal/cookies-policy/).
+        * **Cookie data.** Miro uses a variety of cookies and similar technologies in our Websites and Services to help us collect Other Data. For more details about how we use these technologies, as well as your opt-out opportunities and other options, please see our [Cookie Notice](https://miro.com/legal/cookies-policy/).
             
-        *   **Third-Party Services data.** A Customer may choose to use Third-Party Services. If Customer enables Third-Party Services, Miro may access and exchange Customer Content and Other Data with the Third-Party on Customer’s behalf, in accordance with our agreement with the Third-Party Services and any permissions granted by the Customer (including its Authorized User(s)).
+        * **Third-Party Services data.** A Customer may choose to use Third-Party Services. If Customer enables Third-Party Services, Miro may access and exchange Customer Content and Other Data with the Third-Party on Customer’s behalf, in accordance with our agreement with the Third-Party Services and any permissions granted by the Customer (including its Authorized User(s)).
             
-        *   **Contact data.** In accordance with the consent provided by your device or other third-party API, we process any contact information that an Authorized User chooses to import when using the Services.
+        * **Contact data.** In accordance with the consent provided by your device or other third-party API, we process any contact information that an Authorized User chooses to import when using the Services.
             
-        *   **Community data**. We also receive Other Data when submitted to our Websites or in other ways, such as if you participate in the Miro Community (such as in Forums, Programs, Miroverse, contests, activities, events, educational programs hosted by Miro or a vendor, or otherwise communicate with Miro).
+        * **Community data**. We also receive Other Data when submitted to our Websites or in other ways, such as if you participate in the Miro Community (such as in Forums, Programs, Miroverse, contests, activities, events, educational programs hosted by Miro or a vendor, or otherwise communicate with Miro).
             
-        *   **Additional data provided to Miro.** We also receive Other Data when submitted to our Websites or in other ways, such as when you request support, interact with our social media accounts or otherwise communicate with Miro.
+        * **Additional data provided to Miro.** We also receive Other Data when submitted to our Websites or in other ways, such as when you request support, interact with our social media accounts or otherwise communicate with Miro.
             
-*   **Business data**. Miro may receive information about individuals from organisations, industries, Customers, (potential) partners, parent corporations, affiliates and subsidiaries, and our partners for cooperation and communication purposes.
+* **Business data**. Miro may receive information about individuals from organisations, industries, Customers, (potential) partners, parent corporations, affiliates and subsidiaries, and our partners for cooperation and communication purposes.
     
 
 Generally, no one is under a statutory or contractual obligation to provide any Customer Content or Other Data (collectively, “**Personal Data**”). However, certain Personal Data is collected automatically and if some Personal Data, such as Organization setup details, is not provided, we may be unable to provide the Services.
@@ -87,27 +87,27 @@ Customer Content will be used by Miro in accordance with Customer’s instructio
 
 Miro uses Other Data for the purposes of our legitimate interests in operating our Services, Websites and business. More specifically, Miro uses Other Data:
 
-*   **To provide, update, maintain and protect our Services, Websites and business.** This includes the use of Other Data to support delivery of the Services under a Customer Agreement, prevent or address service errors, security or technical issues, and to analyze and monitor usage, trends and other activities.
+* **To provide, update, maintain and protect our Services, Websites and business.** This includes the use of Other Data to support delivery of the Services under a Customer Agreement, prevent or address service errors, security or technical issues, and to analyze and monitor usage, trends and other activities.
     
-*   **As required by applicable law, legal process or regulation.**
+* **As required by applicable law, legal process or regulation.**
     
-*   **To support and communicate with you by responding to your requests, comments and questions.** If you contact us, we may use your Other Data to respond.
+* **To support and communicate with you by responding to your requests, comments and questions.** If you contact us, we may use your Other Data to respond.
     
-*   **To develop, test and provide search, learning and productivity tools and additional features.** Miro tries to make the Services as useful as possible. For example, we make Services suggestions based on historical use and predictive models, identify organizational trends and insights, customize your experience of the Services, or to create new features and products.
+* **To develop, test and provide search, learning and productivity tools and additional features.** Miro tries to make the Services as useful as possible. For example, we make Services suggestions based on historical use and predictive models, identify organizational trends and insights, customize your experience of the Services, or to create new features and products.
     
-*   **To conduct market and user research.** To improve our Services and troubleshoot new products and features, we may carry out research. For example we may survey Customers (including Admins, Users and other contacts) or third parties about customer satisfaction, user experience, the effectiveness of our marketing campaigns, and their broader interests.
+* **To conduct market and user research.** To improve our Services and troubleshoot new products and features, we may carry out research. For example we may survey Customers (including Admins, Users and other contacts) or third parties about customer satisfaction, user experience, the effectiveness of our marketing campaigns, and their broader interests.
     
-*   **To send emails and other communications.** 
+* **To send emails and other communications.** 
     
-    *   We may send you service, transactional, technical and other administrative communications, such as communications about your account, our Service offerings, changes to the Services, and important Services-related notices, such as security and fraud notices. These communications are considered part of the Services.
+    * We may send you service, transactional, technical and other administrative communications, such as communications about your account, our Service offerings, changes to the Services, and important Services-related notices, such as security and fraud notices. These communications are considered part of the Services.
         
-    *   In addition, if you have opted-in, we sometimes send emails about new product features, recommendations and promotional communications, or other news about Miro. You can opt-out of these messages at any time by using the unsubscribe link included in all of these communications.
+    * In addition, if you have opted-in, we sometimes send emails about new product features, recommendations and promotional communications, or other news about Miro. You can opt-out of these messages at any time by using the unsubscribe link included in all of these communications.
         
-*   **For billing, account management and other administrative matters.** Miro may need to contact you for invoicing, account management, and similar reasons and we use account data to administer accounts and keep track of billing and payments.
+* **For billing, account management and other administrative matters.** Miro may need to contact you for invoicing, account management, and similar reasons and we use account data to administer accounts and keep track of billing and payments.
     
-*   **To investigate and help prevent security issues and abuse.**
+* **To investigate and help prevent security issues and abuse.**
     
-*   **To manage and to contact you with regard to involvement.** We may need to manage and contact you with regard to your involvement and participation in the Miro Community (such as the Forums, Programs, Miroverse, contests, activities, events or educational programs hosted by Miro or a vendor).
+* **To manage and to contact you with regard to involvement.** We may need to manage and contact you with regard to your involvement and participation in the Miro Community (such as the Forums, Programs, Miroverse, contests, activities, events or educational programs hosted by Miro or a vendor).
     
 
 If information is aggregated or de-identified so that it can no longer reasonably be associated with an identified or identifiable natural person, Miro may use it for any business purpose. To the extent information is associated with an identified or identifiable natural person and is protected as personal data under applicable data protection law, it is referred to in this Privacy Policy as “Personal Data.”
@@ -126,25 +126,25 @@ Miro may share and disclose personal data in accordance with a Customer’s inst
 
 We may share personal data as follows: 
 
-*   **Displaying the Services**. When an Authorized User submits Customer Content (including personal data), it may be displayed to other Authorized Users that have access to the same Miro Board. For example, an Authorized User’s name and Miro profile may be displayed. Please consult the Help Center for more information on this functionality.
+* **Displaying the Services**. When an Authorized User submits Customer Content (including personal data), it may be displayed to other Authorized Users that have access to the same Miro Board. For example, an Authorized User’s name and Miro profile may be displayed. Please consult the Help Center for more information on this functionality.
     
-*   **Customer access**. Owners, administrators, Authorized Users, and other Customer representatives and personnel may be able to access, modify, or restrict access to personal data. This may include, for example, your employer using Service features to export logs of your activity or accessing or modifying your profile details.
+* **Customer access**. Owners, administrators, Authorized Users, and other Customer representatives and personnel may be able to access, modify, or restrict access to personal data. This may include, for example, your employer using Service features to export logs of your activity or accessing or modifying your profile details.
     
-*   **Subcontractors.** We may engage third-party companies or individuals as sub-processors to process personal data. These third parties may, for example, provide virtual computing and storage services, or we may share business information to develop strategic partnerships to support our Customers. Please see more information on our subcontractors [here](https://miro.com/static/legal/Miro-Current-Subprocessors-List.pdf).
+* **Subcontractors.** We may engage third-party companies or individuals as sub-processors to process personal data. These third parties may, for example, provide virtual computing and storage services, or we may share business information to develop strategic partnerships to support our Customers. Please see more information on our subcontractors [here](https://miro.com/static/legal/Miro-Current-Subprocessors-List.pdf).
     
-*   **Third-Party Services**. Customers may enable Third-Party Services. When enabled, Miro may access and exchange Customer Content with the provider of a Third-Party Service on Customer’s behalf. Third-Party Services are not owned or controlled by Miro and third parties that have been granted access to personal data may have their own policies and practices for its collection, use, and sharing. Please check the permissions, privacy settings, and notices for these Third-Party Services or contact the relevant provider with any questions.
+* **Third-Party Services**. Customers may enable Third-Party Services. When enabled, Miro may access and exchange Customer Content with the provider of a Third-Party Service on Customer’s behalf. Third-Party Services are not owned or controlled by Miro and third parties that have been granted access to personal data may have their own policies and practices for its collection, use, and sharing. Please check the permissions, privacy settings, and notices for these Third-Party Services or contact the relevant provider with any questions.
     
-*   **Partners.** We may share personal data with developers, partners and others we engage to create Miro applications and/or integrating Miro features.
+* **Partners.** We may share personal data with developers, partners and others we engage to create Miro applications and/or integrating Miro features.
     
-*   **Forums**. The information you choose to provide in a community forum, including personal data, will be publicly available.
+* **Forums**. The information you choose to provide in a community forum, including personal data, will be publicly available.
     
-*   **Corporate Affiliates**. Miro may share personal data with its corporate affiliates, parents and/or subsidiaries for business continuity purposes.
+* **Corporate Affiliates**. Miro may share personal data with its corporate affiliates, parents and/or subsidiaries for business continuity purposes.
     
-*   **During a change to Miro’s business**. If Miro engages in a merger, acquisition, bankruptcy, dissolution, reorganization, sale of some or all of Miro’s assets or stock, financing, public offering of securities, acquisition of all or a portion of our business, a similar transaction or proceeding, or steps in contemplation of such activities, some or all personal data may be shared or transferred, subject to standard confidentiality arrangements.
+* **During a change to Miro’s business**. If Miro engages in a merger, acquisition, bankruptcy, dissolution, reorganization, sale of some or all of Miro’s assets or stock, financing, public offering of securities, acquisition of all or a portion of our business, a similar transaction or proceeding, or steps in contemplation of such activities, some or all personal data may be shared or transferred, subject to standard confidentiality arrangements.
     
-*   **To comply with laws.** If we receive a request for personal data, we may disclose personal data if we reasonably believe disclosure is in accordance with or required by any applicable law, regulation, or legal process.
+* **To comply with laws.** If we receive a request for personal data, we may disclose personal data if we reasonably believe disclosure is in accordance with or required by any applicable law, regulation, or legal process.
     
-*   **To enforce our rights, prevent fraud, and for safety.** To protect and defend the rights, property or safety of Miro, its users, or third parties, including enforcing its contracts or policies, or in connection with investigating and preventing illegal activity, fraud, or security issues, including to prevent death or imminent bodily harm.
+* **To enforce our rights, prevent fraud, and for safety.** To protect and defend the rights, property or safety of Miro, its users, or third parties, including enforcing its contracts or policies, or in connection with investigating and preventing illegal activity, fraud, or security issues, including to prevent death or imminent bodily harm.
     
 
 ### **Security**
@@ -173,81 +173,81 @@ Miro may change this Privacy Policy from time to time. Laws, regulations, and in
 
 If you are based in the European Union, the following provisions also apply:
 
-*   **GDPR** means Regulation 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC.
+* **GDPR** means Regulation 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC.
     
-*   **Member State** means a member state of the European Union.
+* **Member State** means a member state of the European Union.
     
-*   If we share your personal data with our group company(ies) or third parties located outside the European Economic Area, we take steps to ensure that appropriate safeguards are in place to guarantee the continued protection of your personal data, such as by entering into the Standard Contractual Clauses adopted by the European Commission (article 46(2)(c) GDPR), which are available [here](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc/standard-contractual-clauses-international-transfers_en).
+* If we share your personal data with our group company(ies) or third parties located outside the European Economic Area, we take steps to ensure that appropriate safeguards are in place to guarantee the continued protection of your personal data, such as by entering into the Standard Contractual Clauses adopted by the European Commission (article 46(2)(c) GDPR), which are available [here](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc/standard-contractual-clauses-international-transfers_en).
     
-*   Where we are the controller of your personal data, the GDPR data protection rights set out below apply to you. Most of these rights are not absolute and are subject to exemptions under applicable law. We will respond to any request to exercise your rights within one month, but have the right to extend this period in certain circumstances. If we extend the response period, we will let you know within one month of your request. If your request is clearly unfounded or excessive, we reserve the right to charge a reasonable fee or refuse to comply with it. To exercise these rights, please submit a request to us by sending an email to [privacy@miro.com](mailto:privacy@miro.com). 
+* Where we are the controller of your personal data, the GDPR data protection rights set out below apply to you. Most of these rights are not absolute and are subject to exemptions under applicable law. We will respond to any request to exercise your rights within one month, but have the right to extend this period in certain circumstances. If we extend the response period, we will let you know within one month of your request. If your request is clearly unfounded or excessive, we reserve the right to charge a reasonable fee or refuse to comply with it. To exercise these rights, please submit a request to us by sending an email to [privacy@miro.com](mailto:privacy@miro.com). 
     
-    *   **Access your personal data.** You are entitled to ask us if we are processing your personal data and, if we are, you can request access to your personal data. This enables you to receive a copy of the personal data we hold about you.
+    * **Access your personal data.** You are entitled to ask us if we are processing your personal data and, if we are, you can request access to your personal data. This enables you to receive a copy of the personal data we hold about you.
         
-    *   **Request the transfer of your personal data.** We will provide your personal data to you or a third party you have chosen in a structured, commonly used, machine-readable format. Please note that this right applies only to personal data you have provided to us, and only if we process your personal data on the basis of consent, or where we process your personal data in order to perform a contract with you. 
+    * **Request the transfer of your personal data.** We will provide your personal data to you or a third party you have chosen in a structured, commonly used, machine-readable format. Please note that this right applies only to personal data you have provided to us, and only if we process your personal data on the basis of consent, or where we process your personal data in order to perform a contract with you. 
         
-    *   **Request erasure (deletion) of your personal data.** You are entitled to ask us to delete or remove personal data in certain circumstances. There are certain exemptions where we may refuse a request for erasure. For example, where the personal data is required for compliance with law or in connection with legal claims. Where we rely on an exemption, we will inform you about this.
+    * **Request erasure (deletion) of your personal data.** You are entitled to ask us to delete or remove personal data in certain circumstances. There are certain exemptions where we may refuse a request for erasure. For example, where the personal data is required for compliance with law or in connection with legal claims. Where we rely on an exemption, we will inform you about this.
         
-    *   **Request the correction or updating of your personal data.** This enables you to have any incomplete or inaccurate data we hold about you corrected. 
+    * **Request the correction or updating of your personal data.** This enables you to have any incomplete or inaccurate data we hold about you corrected. 
         
-    *   **Request the restriction of our processing of your personal data in some situations.** If you request this, we can continue to store your personal data but are restricted from processing it while the restriction is in place.
+    * **Request the restriction of our processing of your personal data in some situations.** If you request this, we can continue to store your personal data but are restricted from processing it while the restriction is in place.
         
-    *   **Object to our processing of your personal data where we are relying on legitimate interests.** You also have a right to object where we are processing your personal data for the purposes of direct marketing or profiling. You can object at any time and we shall stop processing the information you have objected to, unless we can show compelling legitimate grounds to continue that processing. 
+    * **Object to our processing of your personal data where we are relying on legitimate interests.** You also have a right to object where we are processing your personal data for the purposes of direct marketing or profiling. You can object at any time and we shall stop processing the information you have objected to, unless we can show compelling legitimate grounds to continue that processing. 
         
-    *   **Withdraw your consent.** Where you have provided your consent to our processing of your personal data, you can withdraw your consent at any time. If you do withdraw consent, it will not affect the lawfulness of what we have done with your personal data before you withdrew consent.
+    * **Withdraw your consent.** Where you have provided your consent to our processing of your personal data, you can withdraw your consent at any time. If you do withdraw consent, it will not affect the lawfulness of what we have done with your personal data before you withdrew consent.
         
-    *   **Lodge a complaint at a supervisory authority.** We will do our best to resolve any complaints you may have. However, if you feel we have not resolved your complaint, you have a right to lodge a complaint with a supervisory authority in the country where you live, where you work, or where an alleged infringement of the applicable data protection law took place. A list of EU supervisory authorities and their contact details is available [here](https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm).
+    * **Lodge a complaint at a supervisory authority.** We will do our best to resolve any complaints you may have. However, if you feel we have not resolved your complaint, you have a right to lodge a complaint with a supervisory authority in the country where you live, where you work, or where an alleged infringement of the applicable data protection law took place. A list of EU supervisory authorities and their contact details is available [here](https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm).
         
-*   If you exercise the rights above and there is any question about who you are, we may require you to provide information in order to satisfy ourselves as to your identity. 
+* If you exercise the rights above and there is any question about who you are, we may require you to provide information in order to satisfy ourselves as to your identity. 
     
 
 #### **United Kingdom**
 
 If you are based in the United Kingdom, the following provisions also apply:
 
-*   **UK GDPR** means the Retained Regulation 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC.
+* **UK GDPR** means the Retained Regulation 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC.
     
-*   If we share your personal data with our group company(ies) or third parties located outside the United Kingdom, we take steps to ensure that appropriate safeguards are in place to guarantee the continued protection of your personal data, such as by entering into the international data transfer addendum to the European Commission’s Standard Contractual Clauses, adopted by the UK Government under section 119A of the Data Protection Act 2018.. 
+* If we share your personal data with our group company(ies) or third parties located outside the United Kingdom, we take steps to ensure that appropriate safeguards are in place to guarantee the continued protection of your personal data, such as by entering into the international data transfer addendum to the European Commission’s Standard Contractual Clauses, adopted by the UK Government under section 119A of the Data Protection Act 2018.. 
     
-*   In relation to your data subject rights, these are the same as for the EU as listed above, except that references to the "GDPR" should be read as references to the "UK GDPR", and in case you wish to lodge a complaint with a supervisory authority, you should direct your complaint to the UK supervisory authority, the [Information Commissioner’s Office](https://ico.org.uk/make-a-complaint/your-personal-information-concerns/personal-information-concerns/).
+* In relation to your data subject rights, these are the same as for the EU as listed above, except that references to the "GDPR" should be read as references to the "UK GDPR", and in case you wish to lodge a complaint with a supervisory authority, you should direct your complaint to the UK supervisory authority, the [Information Commissioner’s Office](https://ico.org.uk/make-a-complaint/your-personal-information-concerns/personal-information-concerns/).
     
 
 #### **United States**
 
 If you are based in California, the following provisions also apply:
 
-*   **California Data Protection Laws** means the California Consumer Privacy Act of 2018 and the California Privacy Rights Act of 2020, as each may be amended or replaced from time to time, and any regulations implementing the foregoing.
+* **California Data Protection Laws** means the California Consumer Privacy Act of 2018 and the California Privacy Rights Act of 2020, as each may be amended or replaced from time to time, and any regulations implementing the foregoing.
     
-*   Under the California Data Protection Laws you have the following rights:
+* Under the California Data Protection Laws you have the following rights:
     
-*   **Right to Know about Personal Information Collected, Disclosed or Sold.** You have the right to request that we disclose certain information to you about our collection, use, disclosure or sale of your personal information over the past 12 months. Once we receive and confirm your verifiable consumer request (see Exercising Access and Deletion Rights), and subject to certain limitations that we describe below, we will disclose such information. You have the right to request any or all of the following: 
+* **Right to Know about Personal Information Collected, Disclosed or Sold.** You have the right to request that we disclose certain information to you about our collection, use, disclosure or sale of your personal information over the past 12 months. Once we receive and confirm your verifiable consumer request (see Exercising Access and Deletion Rights), and subject to certain limitations that we describe below, we will disclose such information. You have the right to request any or all of the following: 
     
-    *   The categories of personal information we collected about you. 
+    * The categories of personal information we collected about you. 
         
-    *   The categories of sources from which the personal information is collected. 
+    * The categories of sources from which the personal information is collected. 
         
-    *   The categories of third parties with whom we share that personal information. 
+    * The categories of third parties with whom we share that personal information. 
         
-    *   The specific pieces of personal information we collected about you (also called a data portability request). 
+    * The specific pieces of personal information we collected about you (also called a data portability request). 
         
-*   **Notice of Sale**. We do not sell the personal information of California residents. We also do not have any actual knowledge of selling the personal information of any California resident who is 16 years or younger.
+* **Notice of Sale**. We do not sell the personal information of California residents. We also do not have any actual knowledge of selling the personal information of any California resident who is 16 years or younger.
     
-*   **Right to Request Deletion.** You have the right to request that we delete any of your personal information that we collected from you and retained, subject to certain exceptions. Once we receive and confirm your verifiable consumer request (see Exercising Access and Deletion Rights), we will delete (and direct our service providers to delete) your personal information from our records. However, we may retain personal information that has been de-identified or aggregated. Furthermore, we may deny your deletion request if retaining the information is necessary for us or our service provider(s) in order to perform certain actions set forth under the California Data Protection Laws, such as detecting security incidents and protecting against fraudulent or illegal activity. 
+* **Right to Request Deletion.** You have the right to request that we delete any of your personal information that we collected from you and retained, subject to certain exceptions. Once we receive and confirm your verifiable consumer request (see Exercising Access and Deletion Rights), we will delete (and direct our service providers to delete) your personal information from our records. However, we may retain personal information that has been de-identified or aggregated. Furthermore, we may deny your deletion request if retaining the information is necessary for us or our service provider(s) in order to perform certain actions set forth under the California Data Protection Laws, such as detecting security incidents and protecting against fraudulent or illegal activity. 
     
-*   **Exercising Access and Deletion Rights.** To exercise the access and deletion rights described above, please submit a request to us by sending an email to [privacy@miro.com](mailto:privacy@miro.com). Only you, or a person or business entity registered with the California Secretary of State that you authorize to act on your behalf (an “authorized agent”), may make the requests set forth above. You may also make a request on behalf of your minor child. The request should include your contact information and describe your request with sufficient detail that allows us to properly understand, evaluate, and respond to it. In addition, you should provide adequate information that we can reasonably verify that you are the person about whom we collected the personal information (including information that enables us to verify the identifying information we possibly maintain about you). 
+* **Exercising Access and Deletion Rights.** To exercise the access and deletion rights described above, please submit a request to us by sending an email to [privacy@miro.com](mailto:privacy@miro.com). Only you, or a person or business entity registered with the California Secretary of State that you authorize to act on your behalf (an “authorized agent”), may make the requests set forth above. You may also make a request on behalf of your minor child. The request should include your contact information and describe your request with sufficient detail that allows us to properly understand, evaluate, and respond to it. In addition, you should provide adequate information that we can reasonably verify that you are the person about whom we collected the personal information (including information that enables us to verify the identifying information we possibly maintain about you). 
     
-    *   We will respond to consumer requests in a reasonably timely manner. If we require extra time to respond, we will inform you of the reason and extension period in writing. In order to protect the security of your personal information, we will not honour a request if we cannot verify your identity or authority to make the request and confirm the personal information relates to you. The method used to verify your identity will depend on the type, sensitivity and value of the information, including the risk of harm to you posed by any authorized access or deletion. Generally speaking, verification will be performed by matching the identifying information provided by you to the personal information that we already have.
+    * We will respond to consumer requests in a reasonably timely manner. If we require extra time to respond, we will inform you of the reason and extension period in writing. In order to protect the security of your personal information, we will not honour a request if we cannot verify your identity or authority to make the request and confirm the personal information relates to you. The method used to verify your identity will depend on the type, sensitivity and value of the information, including the risk of harm to you posed by any authorized access or deletion. Generally speaking, verification will be performed by matching the identifying information provided by you to the personal information that we already have.
         
-    *   Any disclosures we provide will only cover the 12-month period preceding our receipt of your request (and will not be made more than twice in a 12-month period). If we cannot comply with a request, or cannot fully comply with a request, the response we provide will also explain the reasons we cannot comply. 
+    * Any disclosures we provide will only cover the 12-month period preceding our receipt of your request (and will not be made more than twice in a 12-month period). If we cannot comply with a request, or cannot fully comply with a request, the response we provide will also explain the reasons we cannot comply. 
         
-*   **Non-Discrimination.** We will not discriminate against you for exercising any of your CCPA based on the California Data Protection Laws, including, but not limited to, by: 
+* **Non-Discrimination.** We will not discriminate against you for exercising any of your CCPA based on the California Data Protection Laws, including, but not limited to, by: 
     
-    *   Denying you goods or services. 
+    * Denying you goods or services. 
         
-    *   Charging you different prices or rates for goods or services, including through granting discounts or other benefits, or imposing penalties. 
+    * Charging you different prices or rates for goods or services, including through granting discounts or other benefits, or imposing penalties. 
         
-    *   Providing you a different level or quality of goods or services. 
+    * Providing you a different level or quality of goods or services. 
         
-    *   Suggesting that you may receive a different price or rate for goods or services or a different level or quality of goods or services.
+    * Suggesting that you may receive a different price or rate for goods or services or a different level or quality of goods or services.
         
 
 ##### Do you have any questions?
