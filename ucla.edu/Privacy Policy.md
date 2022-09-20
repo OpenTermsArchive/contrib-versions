@@ -47,14 +47,14 @@ Non-personal information is used to generate statistics and to measure site acti
 
 Personal information allows us to provide you with products, services and information and enables us to offer a customized experience on our Sites. We use personal information for the purposes described in this privacy policy or otherwise disclosed to you on our Sites. For example, personal information may be used to:
 
-*   operate and improve our Sites;
-*   provide information about our institution and send you related information, including confirmations, brochures, academic notices, updates, security alerts and support and administrative messages;
-*   notify you of the closest UCLA Extension or UCLA Health facility;
-*   process and deliver contest entries and rewards;
-*   respond to comments, questions or requests for information and provide customer service;
-*   communicate with you about our classes, achievements, new contests, promotions, rewards, special offers, upcoming events and other news about UCLA and our selected partners;
-*   generate site analytics to improve our website and the user experience; and
-*   link or combine with personal information we get from third parties to help understand your needs and provide you with better service and information.
+* operate and improve our Sites;
+* provide information about our institution and send you related information, including confirmations, brochures, academic notices, updates, security alerts and support and administrative messages;
+* notify you of the closest UCLA Extension or UCLA Health facility;
+* process and deliver contest entries and rewards;
+* respond to comments, questions or requests for information and provide customer service;
+* communicate with you about our classes, achievements, new contests, promotions, rewards, special offers, upcoming events and other news about UCLA and our selected partners;
+* generate site analytics to improve our website and the user experience; and
+* link or combine with personal information we get from third parties to help understand your needs and provide you with better service and information.
 
 UCLA may store and process personal information in the United States and other countries.
 
@@ -62,11 +62,11 @@ Sharing Your Information
 
 We do not share your personal information with third parties except as described in this privacy policy or as otherwise disclosed to you on our Sites. For example, we may share personal information as follows:
 
-*   with our Financial Aid partner for the purpose of offering aid and services to our students or prospective students;
-*   when you give us your consent to do so, including if we notify you on the Site/s that the information you provide will be shared in a particular manner and you provide such information;
-*   with vendors, contractors, consultants and other service providers who are working on our behalf and need access to your information to carry out their work for us;
-*   (i) to comply with laws or to respond to lawful requests and legal process, (ii) to protect our rights and property and those of our agents, customers and others, including to enforce our agreements, policies and Terms of Use or (iii) in an emergency to protect UCLA and the safety of our students, faculty and staff or any third party; and
-*   we may also share aggregated or anonymous information that does not directly identify you.
+* with our Financial Aid partner for the purpose of offering aid and services to our students or prospective students;
+* when you give us your consent to do so, including if we notify you on the Site/s that the information you provide will be shared in a particular manner and you provide such information;
+* with vendors, contractors, consultants and other service providers who are working on our behalf and need access to your information to carry out their work for us;
+* (i) to comply with laws or to respond to lawful requests and legal process, (ii) to protect our rights and property and those of our agents, customers and others, including to enforce our agreements, policies and Terms of Use or (iii) in an emergency to protect UCLA and the safety of our students, faculty and staff or any third party; and
+* we may also share aggregated or anonymous information that does not directly identify you.
 
 Your California Privacy Rights
 
