@@ -55,16 +55,16 @@ Fair use defines our exceptions to the rights protected by copyright laws.
 
 Fair use of W3Schools includes using copyrighted material:
 
-*   In research
-*   In news reporting
-*   In citations
-*   In commentary
+* In research
+* In news reporting
+* In citations
+* In commentary
 
 Fair use of W3Schools also includes:
 
-*   Linking to W3Schools
-*   Adding W3Schools to search engines
-*   Library archiving W3Schools
+* Linking to W3Schools
+* Adding W3Schools to search engines
+* Library archiving W3Schools
 
 * * *
 
@@ -75,14 +75,14 @@ Fair use includes using copyrighted material in teaching under this balancing:
 
 ### Favorable Use:
 
-*   Copying examples and code snippets for non-profit teaching and research.
-*   Copying small quantities, appropriate for classroom teaching.
+* Copying examples and code snippets for non-profit teaching and research.
+* Copying small quantities, appropriate for classroom teaching.
 
 ### Not Favorable Use:
 
-*   Copying for profitable or commercial use.
-*   Massive or verbatim copying.
-*   Copying large quantities.
+* Copying for profitable or commercial use.
+* Massive or verbatim copying.
+* Copying large quantities.
 
 * * *
 
