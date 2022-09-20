@@ -226,9 +226,9 @@ Appendix 1: Additional Terms for Non-European Data Protection Legislation
 
 The following Additional Terms for Non-European Data Protection Legislation supplement these Controller Terms:
 
-*   CCPA Service Provider Addendum at [business.safety.google/adscontrollerterms/ccpa/](https://privacy.google.com/businesses/adscontrollerterms/ccpa/) (dated 1 January 2020)
+* CCPA Service Provider Addendum at [business.safety.google/adscontrollerterms/ccpa/](https://privacy.google.com/businesses/adscontrollerterms/ccpa/) (dated 1 January 2020)
     
-*   LGPD Controller Addendum at [business.safety.google/adscontrollerterms/lgpd/](https://privacy.google.com/businesses/adscontrollerterms/lgpd/) (dated 16 August 2020)
+* LGPD Controller Addendum at [business.safety.google/adscontrollerterms/lgpd/](https://privacy.google.com/businesses/adscontrollerterms/lgpd/) (dated 16 August 2020)
     
 
 _Google Ads Controller-Controller Data Protection Terms, Version 4.0_
@@ -237,9 +237,9 @@ _21 September 2022_
 
 **Previous Versions**
 
-*   [27 September 2021](https://privacy.google.com/static/assets/pdf/adscontrollerterms-20210927.pdf)
-*   [16 August 2020](https://privacy.google.com/adscontrollerterms-20200816/)
-*   [12 August 2020](https://privacy.google.com/static/assets/pdf/adscontrollerterms-20200812.pdf)
-*   [1 January 2020](https://privacy.google.com/static/assets/pdf/adscontrollerterms-20200101.pdf)
-*   [31 October 2019](https://privacy.google.com/static/assets/pdf/adscontrollerterms-20191031.pdf)
-*   [12 October 2017](https://privacy.google.com/static/assets/pdf/adscontrollerterms-20171012.pdf)
+* [27 September 2021](https://privacy.google.com/static/assets/pdf/adscontrollerterms-20210927.pdf)
+* [16 August 2020](https://privacy.google.com/adscontrollerterms-20200816/)
+* [12 August 2020](https://privacy.google.com/static/assets/pdf/adscontrollerterms-20200812.pdf)
+* [1 January 2020](https://privacy.google.com/static/assets/pdf/adscontrollerterms-20200101.pdf)
+* [31 October 2019](https://privacy.google.com/static/assets/pdf/adscontrollerterms-20191031.pdf)
+* [12 October 2017](https://privacy.google.com/static/assets/pdf/adscontrollerterms-20171012.pdf)
