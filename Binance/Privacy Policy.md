@@ -61,23 +61,23 @@ When you consent to our processing your personal information for a specified pur
 
 In addition, **subject to applicable law**, you have the right to request access to, correct, and delete your personal data, and to ask for data portability. You may also object to our processing of your personal data or ask that we restrict the processing of your personal data in certain instances, by contacting [dpo@binance.com](mailto:dpo@binance.com).
 
-*   **Right to access**: you have the right to obtain confirmation that your Data are processed and to obtain a copy of it as well as certain information related to its processing;
+* **Right to access**: you have the right to obtain confirmation that your Data are processed and to obtain a copy of it as well as certain information related to its processing;
     
-*   **Right to rectify**: you can request the rectification of your Data which are inaccurate, and also add to it. You can also change your personal information in your Account at any time
+* **Right to rectify**: you can request the rectification of your Data which are inaccurate, and also add to it. You can also change your personal information in your Account at any time
     
-*   **Right to delete**: you can, in some cases, have your Data deleted;
+* **Right to delete**: you can, in some cases, have your Data deleted;
     
-*   **Right to object**: you can object, for reasons relating to your particular situation, to the processing of your Data. For instance, you have the right to object to commercial prospection;
+* **Right to object**: you can object, for reasons relating to your particular situation, to the processing of your Data. For instance, you have the right to object to commercial prospection;
     
-*   **Right to limit the processing**: in certain circumstances, you have the right to limit the processing of your Data;
+* **Right to limit the processing**: in certain circumstances, you have the right to limit the processing of your Data;
     
-*   **Right to portability**: in some cases, you can ask to receive your Data which you have provided to us in a structured, commonly used and machine-readable format, or, when this is possible, that we communicate your Data on your behalf directly to another data controller;
+* **Right to portability**: in some cases, you can ask to receive your Data which you have provided to us in a structured, commonly used and machine-readable format, or, when this is possible, that we communicate your Data on your behalf directly to another data controller;
     
-*   **Right to withdraw your consent**: for processing requiring your consent, you have the right to withdraw your consent at any time. Exercising this right does not affect the lawfulness of the processing based on the consent given before the withdrawal of the latter;
+* **Right to withdraw your consent**: for processing requiring your consent, you have the right to withdraw your consent at any time. Exercising this right does not affect the lawfulness of the processing based on the consent given before the withdrawal of the latter;
     
-*   **Right to define the instructions relating to the use of your personal data post mortem**: you have the right to define instructions relating to the retention, deletion and communication of your Data after your death;
+* **Right to define the instructions relating to the use of your personal data post mortem**: you have the right to define instructions relating to the retention, deletion and communication of your Data after your death;
     
-*   **Right to lodge complaint to the relevant data protection authority**.
+* **Right to lodge complaint to the relevant data protection authority**.
     
 
 ### 10\. How Long Does Binance Keep My Personal Information?
