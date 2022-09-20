@@ -15,7 +15,7 @@ We want everyone to feel welcome on Nextdoor, and we have created these Guidelin
 You’re speaking to your real neighbours. Strong communities are built on strong relationships.
 
   
-[2.](https://help.nextdoor.com/s/article/Do-not-discriminate?language=en_GB) [Do not discriminate](http://help.nextdoor.com/s/article/Do-not-discriminate?language=en_GB)
+[2.](https://help.nextdoor.com/s/article/Do-not-discriminate?language=en_GB) [Do not discriminate](http://help.nextdoor.com/s/article/Do-not-discriminate?language=en_GB)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 We do not tolerate racism, hateful language, or discrimination of any kind.
@@ -42,7 +42,7 @@ We prohibit any activity that could hurt someone, from physical harm to scams.
 You, our neighbours who make up Nextdoor, play a key role in neighbourhood [moderation](https://help.nextdoor.com/s/article/About-moderation?language=en_GB) by reporting content or neighbours that violate these Guidelines. Please remember that disagreeing with a post is not a reason to report it. This slows down our ability to remove content that is truly abusive and to create a platform where everyone feels welcome.  
  
 
-**ADDITIONAL POLICY RESOURCES** 
+**ADDITIONAL POLICY RESOURCES** 
 
-*   **[Member Agreement](https://nextdoor.co.uk/member_agreement/)**
-*   **[Privacy Policy](https://nextdoor.co.uk/privacy_policy/)**
+* **[Member Agreement](https://nextdoor.co.uk/member_agreement/)**
+* **[Privacy Policy](https://nextdoor.co.uk/privacy_policy/)**
