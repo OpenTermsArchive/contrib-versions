@@ -45,13 +45,13 @@ In addition, we process personal data if you decide to send it to us; for exampl
 
 Collecting data helps us to continue developing and improving our digital presence and to optimize our range of services. We use the data collected by automatic logging for the following purposes:
 
-*   To enable you to use our digital presence (by establishing a connection).
-*   For internal management of the website, for example technical administration and maintenance of system security.
-*   To optimize user friendliness, we collect statistics on user behaviour on our website. This data is analysed (see also section 4.4).
-*   To provide logins, online services and contractually-compliant processing of these services.
-*   To tailor our websites to specific target groups (with targeted content or information on the website that may be of interest to you).
-*   To prevent fraud and improve the security of the website.
-*   To serve you with personalized adverts on our digital presence based on data from third parties.
+* To enable you to use our digital presence (by establishing a connection).
+* For internal management of the website, for example technical administration and maintenance of system security.
+* To optimize user friendliness, we collect statistics on user behaviour on our website. This data is analysed (see also section 4.4).
+* To provide logins, online services and contractually-compliant processing of these services.
+* To tailor our websites to specific target groups (with targeted content or information on the website that may be of interest to you).
+* To prevent fraud and improve the security of the website.
+* To serve you with personalized adverts on our digital presence based on data from third parties.
 
 We also use so-called re-targeting or re-marketing methods on our websites. These are online marketing tools. If you visit other third-party websites, you will then be shown product recommendations with targeted pop-up adverts. In order to achieve an optimized result for you in this regard, data is also transmitted to third-party providers who may also be domiciled abroad.
 
@@ -185,7 +185,7 @@ To the extent admissible by law, all legal relationships between the Users of th
 Phishing and attempted fraud on the Internet
 --------------------------------------------
 
- ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7) 
+![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
 The increasing number of attempts at fraud on the Internet deliberately target any carelessness on the part of users in order to gain access to coveted data. Here you will find information on what you and Swiss Post can do about them, and where you can report suspicious cases.
 
