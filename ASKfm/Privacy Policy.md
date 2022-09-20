@@ -52,16 +52,16 @@ How we collect, process and store information depends in part on how you use the
 
 We may collect information from you during your use of the Services, including your name, username, password, e-mail address, postal address, phone number, mobile phone number, payment information, gender, birth year, and other information you provide or post on our Services or allow us to access when you do certain things, such as:
 
-*   Sign up and complete our registration form;
-*   Create or edit your user profile;
-*   Login to the Services;
-*   Submit questions or answer questions;
-*   Contact our customer support team or use our reporting mechanisms;
-*   Enter a sweepstakes or contest or register for a promotion;
-*   Participate in voting or polling activities;
-*   Request certain features (e.g., newsletters, updates, or other products);
-*   Connect with the Services or otherwise allow us to access certain information about you via a social media service; or
-*   Post user-generated content to or on our Services.
+* Sign up and complete our registration form;
+* Create or edit your user profile;
+* Login to the Services;
+* Submit questions or answer questions;
+* Contact our customer support team or use our reporting mechanisms;
+* Enter a sweepstakes or contest or register for a promotion;
+* Participate in voting or polling activities;
+* Request certain features (e.g., newsletters, updates, or other products);
+* Connect with the Services or otherwise allow us to access certain information about you via a social media service; or
+* Post user-generated content to or on our Services.
 
 4\. What data do you collect about my friends?
 ==============================================
@@ -88,9 +88,9 @@ When you use the Services, we use persistent and session cookies and other simil
 
 We may collect, process and store:
 
-*   Your user ID associated with any social media account (such as your Twitter or Facebook account) that you use to sign in to the Services or connect with or use with the Services. When you sign in to your account or mobile application with your social media account information, or otherwise connect to your social media account with the Services, you consent to our collection, storage, and use, in accordance with this Privacy Policy, of the information that you choose to make available to us through the social media interface. This could include, without limitation, any information that you have made public in connection with your social media account, information that the social media service shares with us, or information that is disclosed as being shared during the sign-in process. Please see your social media provider’s privacy policy for more information about how they share information when you choose to connect your account. You expressly consent to the sharing of your content on your social media networks if you connect your Facebook and/or Twitter accounts to your ASKfm account, for example, the automatic sharing of answers posted. You can change this at any time by opt-out in answer composer.
-*   We may also obtain information about you if it is contained in user-generated content that other users post to or on our Services. For example, one of your friends could post something about you in a question they ask you, or in an answer they post.
-*   We may obtain additional information about you from affiliates and may combine that information with information which we collect from or about you and information derived from any other product or service we or our affiliates provide.
+* Your user ID associated with any social media account (such as your Twitter or Facebook account) that you use to sign in to the Services or connect with or use with the Services. When you sign in to your account or mobile application with your social media account information, or otherwise connect to your social media account with the Services, you consent to our collection, storage, and use, in accordance with this Privacy Policy, of the information that you choose to make available to us through the social media interface. This could include, without limitation, any information that you have made public in connection with your social media account, information that the social media service shares with us, or information that is disclosed as being shared during the sign-in process. Please see your social media provider’s privacy policy for more information about how they share information when you choose to connect your account. You expressly consent to the sharing of your content on your social media networks if you connect your Facebook and/or Twitter accounts to your ASKfm account, for example, the automatic sharing of answers posted. You can change this at any time by opt-out in answer composer.
+* We may also obtain information about you if it is contained in user-generated content that other users post to or on our Services. For example, one of your friends could post something about you in a question they ask you, or in an answer they post.
+* We may obtain additional information about you from affiliates and may combine that information with information which we collect from or about you and information derived from any other product or service we or our affiliates provide.
 
 9\. Do you anonymize my data so no-one knows its mine?
 ======================================================
@@ -124,24 +124,24 @@ We may assist the police or other law enforcement agencies with their requests, 
 
 We use the information we receive from and about you for the following purposes:
 
-*   To provide the Services including any special features;
-*   To process and respond to your inquiries;
-*   To send you information about your relationship or transactions with us;
-*   To contact you if you have filed a complaint or report, or if someone has made any claim or report against you;
-*   To make suggestions to you and other Registered Users, such as suggesting Registered Users’ profiles to follow;
-*   To notify you about new features of the Services, special events, or products, services, and special offers, or to send you questions of the day;
-*   To moderate content and to keep the Services safe and secure and address any security issues;
-*   To generate advertising and promotional materials for our Services;
-*   To understand and assess the effectiveness of advertisements on the Services;
-*   To process payment for virtual goods that may be available from time to time;
-*   To administer sweepstakes and contests;
-*   To generate and review reports and data about our user base and Service usage patterns;
-*   To analyze the accuracy, effectiveness, usability, or popularity of the Services;
-*   To improve the content and features of the Services;
-*   To allow us to personalize the content and advertising that you see on the Services;
-*   To safeguard ASKfm’s and others’ rights or property;
-*   To investigate, prevent, or take action regarding illegal activities, involving potential threats to the physical safety of a person, prevention of fraud, and violations of our Terms of Use; and
-*   To administer and troubleshoot the Services.
+* To provide the Services including any special features;
+* To process and respond to your inquiries;
+* To send you information about your relationship or transactions with us;
+* To contact you if you have filed a complaint or report, or if someone has made any claim or report against you;
+* To make suggestions to you and other Registered Users, such as suggesting Registered Users’ profiles to follow;
+* To notify you about new features of the Services, special events, or products, services, and special offers, or to send you questions of the day;
+* To moderate content and to keep the Services safe and secure and address any security issues;
+* To generate advertising and promotional materials for our Services;
+* To understand and assess the effectiveness of advertisements on the Services;
+* To process payment for virtual goods that may be available from time to time;
+* To administer sweepstakes and contests;
+* To generate and review reports and data about our user base and Service usage patterns;
+* To analyze the accuracy, effectiveness, usability, or popularity of the Services;
+* To improve the content and features of the Services;
+* To allow us to personalize the content and advertising that you see on the Services;
+* To safeguard ASKfm’s and others’ rights or property;
+* To investigate, prevent, or take action regarding illegal activities, involving potential threats to the physical safety of a person, prevention of fraud, and violations of our Terms of Use; and
+* To administer and troubleshoot the Services.
 
 15\. Does ASKfm share my information with other users?
 ======================================================
@@ -174,14 +174,14 @@ In general, please be careful and responsible whenever you are online. Should yo
 
 We don’t sell or share any personal information about you with third parties, except as provided in this Privacy Policy. We may share your information in the following circumstances:
 
-*   To assist in providing the Services;
-*   To provide you with services or products that you have requested;
-*   With companies that perform services on our behalf (including both third parties and our affiliates), such as advertising providers, advertising networks/advertising exchanges, payment processors, providers of technical infrastructure (such as servers) or engineering or other support, order fulfillment companies, moderation companies, technical services and features developers, research and analytical companies, and e-mail service providers;
-*   With our affiliates for the collective benefit of our affiliates’ businesses and for operational purposes;
-*   When we believe in good faith that such sharing is permitted by law or is reasonably necessary in order to investigate, prevent, or take action regarding possible illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of this Privacy Policy or the Terms of Use;
-*   In order to respond to the claims of violation of the rights of third parties and/or to protect the rights, property, and safety of ASKfm, our employees, Registered and Guest Users, or the public. This may involve the sharing of your information with law enforcement, government agencies, courts, and/or other organizations;
-*   As we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses, or sell some or all of our assets. In such transactions, user information may be among the transferred assets;
-*   We may share your information in any other circumstances where we have your consent or are otherwise permitted to share it by law.
+* To assist in providing the Services;
+* To provide you with services or products that you have requested;
+* With companies that perform services on our behalf (including both third parties and our affiliates), such as advertising providers, advertising networks/advertising exchanges, payment processors, providers of technical infrastructure (such as servers) or engineering or other support, order fulfillment companies, moderation companies, technical services and features developers, research and analytical companies, and e-mail service providers;
+* With our affiliates for the collective benefit of our affiliates’ businesses and for operational purposes;
+* When we believe in good faith that such sharing is permitted by law or is reasonably necessary in order to investigate, prevent, or take action regarding possible illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of this Privacy Policy or the Terms of Use;
+* In order to respond to the claims of violation of the rights of third parties and/or to protect the rights, property, and safety of ASKfm, our employees, Registered and Guest Users, or the public. This may involve the sharing of your information with law enforcement, government agencies, courts, and/or other organizations;
+* As we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses, or sell some or all of our assets. In such transactions, user information may be among the transferred assets;
+* We may share your information in any other circumstances where we have your consent or are otherwise permitted to share it by law.
 
 16B. Do you use any other companies to help ASKfm provide the services to me?
 -----------------------------------------------------------------------------
@@ -251,8 +251,8 @@ We are committed to providing you with meaningful choices about the information 
 
 You have a variety of choices regarding the collection, use, and sharing of your personal information through the Services, including the ability to prevent other users from submitting questions to you.
 
-*   The “Privacy” tab of the [Settings](https://ask.fm/account/settings/profile) page allows you to: (1) switch off receiving anonymous questions; and (2) hide your answers from appearing in the “Stream”.
-*   You can opt out of receiving certain e-mail notifications from us, including e-mails advertising ASKfm products and services, by clicking the “Notifications” tab of the Settings page on the mobile app and through the “Privacy” tab of the [Settings](https://ask.fm/account/settings/profile) page on the site.
+* The “Privacy” tab of the [Settings](https://ask.fm/account/settings/profile) page allows you to: (1) switch off receiving anonymous questions; and (2) hide your answers from appearing in the “Stream”.
+* You can opt out of receiving certain e-mail notifications from us, including e-mails advertising ASKfm products and services, by clicking the “Notifications” tab of the Settings page on the mobile app and through the “Privacy” tab of the [Settings](https://ask.fm/account/settings/profile) page on the site.
 
 21\. How can I block other users?
 =================================
@@ -294,11 +294,11 @@ This section only applies to individuals who are residents of California under t
 
 If you reside in California, the CCPA gives you the following rights:
 
-*   You have the right to obtain from us access to the information we hold on you, and you are entitled to know if we have shared that information with any third parties. If you would like to request this information, please submit your request by clicking [here](https://support.ask.fm/) or by emailing [SUPPORT@ASK.FM](mailto:SUPPORT@ask.fm) or by calling [\+ 1 310 3623927](tel:+13103623927). It is important for us to ensure that the person making the request is really you, and we will contact you to let you know what else we need from you before we send you a copy of your personal information, which currently involves providing us with photographic identification (which is used for the purpose of verifying your identity and is not otherwise used or stored by us). You are entitled to receive a response from us within 45 days.
-*   You have the right to ask us to delete all the personal information we hold on you. If you would like to request the deletion of your information, please submit your request by clicking [here](https://support.ask.fm/) or by emailing [SUPPORT@ASK.FM](mailto:SUPPORT@ask.fm) or by calling [\+ 1 310 3623927](tel:+13103623927). It is important for us to ensure that the person making the request is really you, and we will contact you to let you know what else we need from you before we send you a copy of your personal information, which currently involves providing us with photographic identification (which is used for the purpose of verifying your identity and is not otherwise used or stored by us). You are entitled to receive a response from us within 45 days.
-*   Your Right to Access and Right to Deletion are not absolute and are subject to certain exceptions. For instance, we cannot disclose specific pieces of Personal Information if the disclosure would create a substantial, articulable, and unreasonable risk to the security of the Personal Information, your account with us or the security of the business’s systems of networks.
-*   You have the right to understand how we share/sell your personal information (as described in this Privacy Policy), and importantly you have the right to opt out of having your personal information sold as defined in the CCPA. Please follow the instructions on our dedicated opt out page here [“Do Not Sell My Personal Information”](https://about.ask.fm/legal/en/personal_info_us.html). We must act upon your opt-out request within 15 days, and we must inform any third parties that you have opted out. Your right to opt-out of the sale of information is not retroactive, and we will not undo, reverse, or otherwise attempt to alter any sharing previously done.
-*   You have the right to appoint an authorized agent to submit a request to opt-out of the sale of personal information on your behalf if you provide the authorized agent’s written permission to do so. If you use an authorized agent to submit a request, he or she must provide their name, email address, phone number, and written permission from you that includes your contact information. We will contact you using the information provided and verify your identity directly with us. We cannot respond to your request to provide additional disclosures or delete any personal information if we cannot verify your identity and the authorized agent’s authority to make the request on your behalf. Written permission is not required if the agent provides proof of power of attorney pursuant or you are submitting the request on behalf of your minor child.
+* You have the right to obtain from us access to the information we hold on you, and you are entitled to know if we have shared that information with any third parties. If you would like to request this information, please submit your request by clicking [here](https://support.ask.fm/) or by emailing [SUPPORT@ASK.FM](mailto:SUPPORT@ask.fm) or by calling [\+ 1 310 3623927](tel:+13103623927). It is important for us to ensure that the person making the request is really you, and we will contact you to let you know what else we need from you before we send you a copy of your personal information, which currently involves providing us with photographic identification (which is used for the purpose of verifying your identity and is not otherwise used or stored by us). You are entitled to receive a response from us within 45 days.
+* You have the right to ask us to delete all the personal information we hold on you. If you would like to request the deletion of your information, please submit your request by clicking [here](https://support.ask.fm/) or by emailing [SUPPORT@ASK.FM](mailto:SUPPORT@ask.fm) or by calling [\+ 1 310 3623927](tel:+13103623927). It is important for us to ensure that the person making the request is really you, and we will contact you to let you know what else we need from you before we send you a copy of your personal information, which currently involves providing us with photographic identification (which is used for the purpose of verifying your identity and is not otherwise used or stored by us). You are entitled to receive a response from us within 45 days.
+* Your Right to Access and Right to Deletion are not absolute and are subject to certain exceptions. For instance, we cannot disclose specific pieces of Personal Information if the disclosure would create a substantial, articulable, and unreasonable risk to the security of the Personal Information, your account with us or the security of the business’s systems of networks.
+* You have the right to understand how we share/sell your personal information (as described in this Privacy Policy), and importantly you have the right to opt out of having your personal information sold as defined in the CCPA. Please follow the instructions on our dedicated opt out page here [“Do Not Sell My Personal Information”](https://about.ask.fm/legal/en/personal_info_us.html). We must act upon your opt-out request within 15 days, and we must inform any third parties that you have opted out. Your right to opt-out of the sale of information is not retroactive, and we will not undo, reverse, or otherwise attempt to alter any sharing previously done.
+* You have the right to appoint an authorized agent to submit a request to opt-out of the sale of personal information on your behalf if you provide the authorized agent’s written permission to do so. If you use an authorized agent to submit a request, he or she must provide their name, email address, phone number, and written permission from you that includes your contact information. We will contact you using the information provided and verify your identity directly with us. We cannot respond to your request to provide additional disclosures or delete any personal information if we cannot verify your identity and the authorized agent’s authority to make the request on your behalf. Written permission is not required if the agent provides proof of power of attorney pursuant or you are submitting the request on behalf of your minor child.
 
 24C. Your rights if you live elsewhere
 --------------------------------------
