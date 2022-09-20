@@ -23,17 +23,17 @@ These Data Processing Terms reflect the parties’ agreement on the terms govern
 
 “**Adequate Country**” means:
 
-(a) for data processed subject to the EU GDPR: the EEA, or a country or territory that is the subject of an adequacy decision by the Commission under Article 45(1) of the EU GDPR;
+(a) for data processed subject to the EU GDPR: the EEA, or a country or territory recognized as ensuring adequate data protection under the EU GDPR;
 
-(b) for data processed subject to the UK GDPR: the UK or a country or territory that is the subject of the adequacy regulations under Article 45(1) of the UK GDPR and Section 17A of the Data Protection Act 2018; and/or
+(b) for data processed subject to the UK GDPR: the UK, or a country or territory recognized as ensuring adequate data protection under the UK GDPR and the Data Protection Act 2018; and/or
 
-(c) for data processed subject to the Swiss FDPA: Switzerland, or a country or territory that (i) is included in the list of the states whose legislation ensures an adequate level of protection as published by the Swiss Federal Data Protection and Information Commissioner, or (ii) is the subject of an adequacy decision by the Swiss Federal Council under the Swiss FDPA.
+(c) for data processed subject to the Swiss FDPA: Switzerland, or a country or territory that is: (i) included in the list of the states whose legislation ensures adequate protection as published by the Swiss Federal Data Protection and Information Commissioner, or (ii) recognized as ensuring adequate data protection by the Swiss Federal Council under the Swiss FDPA, in each case, other than on the basis of an optional data protection framework.
 
-“**Alternative Transfer Solution**” means a solution, other than SCCs, that enables the lawful transfer of personal data to a third country in accordance with the European Data Protection Legislation.
+“**Alternative Transfer Solution**” means a solution, other than SCCs, that enables the lawful transfer of personal data to a third country in accordance with the European Data Protection Legislation, for example a data protection framework recognized as ensuring that participating local entities provide adequate protection.
 
 “**Customer Personal Data**” means personal data that is processed by Google on behalf of Customer in Google’s provision of the Processor Services.
 
-“**Customer SCCs**” means the SCCs (EU Controller-to-Processor), the SCCs (EU Processor-to-Controller), the SCCs (EU Processor-to-Processor), and/or the SCCs (UK Controller-to-Processor), as applicable.
+“**Customer SCCs**” means the SCCs (Controller-to-Processor), the SCCs (Processor-to-Controller), and/or the SCCs (Processor-to-Processor), as applicable.
 
 “**Data Incident**” means a breach of Google’s security leading to the accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to, Customer Personal Data on systems managed by or otherwise controlled by Google. “Data Incidents” will not include unsuccessful attempts or activities that do not compromise the security of Customer Personal Data, including unsuccessful log-in attempts, pings, port scans, denial of service attacks, and other network attacks on firewalls or networked systems.
 
@@ -65,17 +65,15 @@ These Data Processing Terms reflect the parties’ agreement on the terms govern
 
 “**Processor Services**” means the applicable services listed at [business.safety.google/adsservices](https://privacy.google.com/businesses/adsservices/).
 
-“**SCCs**“ means the Customer SCCs and/or SCCs (EU Processor-to-Processor, Google Exporter), as applicable.
+“**SCCs**“ means the Customer SCCs and/or SCCs (Processor-to-Processor, Google Exporter), as applicable.
 
-“**SCCs (EU Controller-to-Processor)**” means the terms at [business.safety.google/adsprocessorterms/sccs/eu-c2p](https://privacy.google.com/businesses/processorterms/sccs/eu-c2p/).
+“**SCCs (Controller-to-Processor)**” means the terms at [business.safety.google/adsprocessorterms/sccs/c2p](https://privacy.google.com/businesses/processorterms/sccs/c2p/).
 
-“**SCCs (EU Processor-to-Controller)**” means the terms at [business.safety.google/adsprocessorterms/sccs/eu-p2c](https://privacy.google.com/businesses/processorterms/sccs/eu-p2c/).
+“**SCCs (Processor-to-Controller)**” means the terms at [business.safety.google/adsprocessorterms/sccs/p2c](https://privacy.google.com/businesses/processorterms/sccs/p2c/).
 
-“**SCCs (EU Processor-to-Processor)**” means the terms at [business.safety.google/adsprocessorterms/sccs/eu-p2p](https://privacy.google.com/businesses/processorterms/sccs/eu-p2p/).
+“**SCCs (Processor-to-Processor)**” means the terms at [business.safety.google/adsprocessorterms/sccs/p2p](https://privacy.google.com/businesses/processorterms/sccs/p2p/).
 
-“**SCCs (EU Processor-to-Processor, Google Exporter)**” means the terms at [business.safety.google/adsprocessorterms/sccs/eu-p2p-intra-group](https://privacy.google.com/businesses/processorterms/sccs/eu-p2p-intra-group/).
-
-“**SCCs (UK Controller-to-Processor)**” means the terms at [business.safety.google/adsprocessorterms/sccs/uk-c2p.](https://privacy.google.com/businesses/processorterms/sccs/uk-c2p/).
+“**SCCs (Processor-to-Processor, Google Exporter)**” means the terms at [business.safety.google/adsprocessorterms/sccs/p2p-intra-group](https://privacy.google.com/businesses/processorterms/sccs/p2p-intra-group/).
 
 “**Security Documentation**” means the certificate issued for the ISO 27001 Certification and any other security certifications or documentation that Google may make available in respect of the Processor Services.
 
@@ -144,7 +142,7 @@ These Data Processing Terms will take effect on the Terms Effective Date. Regard
 
 (b) Customer will immediately forward to the relevant controller any notice provided by Google under Sections 5.4 (Instruction Notifications), 7.2.1 (Incident Notification), 11.4 (Opportunity to Object to Subprocessor Changes) or that refers to any SCCs; and
 
-(c) Customer may make available to the relevant controller any information made available by Google under Sections 7.4 (Security Certification), 10.6 (Data Centre Information) and 11.2 (Information about Subprocessors).
+(c) Customer may make available to the relevant controller any information made available by Google under Sections 7.4 (Security Certification), 10.5 (Data Centre Information) and 11.2 (Information about Subprocessors).
 
 5.2 **Customer’s Instructions**. By entering into these Data Processing Terms, Customer instructs Google to process Customer Personal Data only in accordance with applicable law: (a) to provide the Processor Services and any related technical support; (b) as further specified via Customer’s use of the Processor Services (including in the settings and other functionality of the Processor Services) and any related technical support; (c) as documented in the form of the Agreement (including these Data Processing Terms); and (d) as further documented in any other written instructions given by Customer and acknowledged by Google as constituting instructions for purposes of these Data Processing Terms (collectively, the “**Instructions**”).
 
@@ -232,7 +230,7 @@ Google may charge a fee (based on Google’s reasonable costs) for any data dele
 
 (a) Google will allow Customer or a third party auditor appointed by Customer to conduct audits (including inspections) to verify Google’s compliance with its obligations under these Data Processing Terms in accordance with Section 7.5.3 (Additional Business Terms for Audits). During an audit, Google will make available all information necessary to demonstrate such compliance and contribute to the audits as described in Section 7.4 (Security Certification) and this Section 7.5 (Reviews and Audits of Compliance).
 
-(b) If the SCCs apply under Section 10.3 (Restricted Transfers), Google will allow Customer (or a third-party auditor appointed by Customer) to conduct audits as described in those SCCs and, during the audit, make available all information required by those SCCs, each in accordance with Section 7.5.3 (Additional Business Terms for Audits).
+(b) If the SCCs apply under Section 10.2 (Restricted European Transfers), Google will allow Customer (or a third-party auditor appointed by Customer) to conduct audits as described in the SCCs and, during the audit, make available all information required by the SCCs, each in accordance with Section 7.5.3 (Additional Business Terms for Audits).
 
 (c) Customer may also conduct an audit to verify Google’s compliance with its obligations under these Data Processing Terms by reviewing the certificate issued for the ISO 27001 Certification (which reflects the outcome of an audit conducted by a third party auditor).
 
@@ -293,31 +291,25 @@ Google will (taking into account the nature of the processing and the informatio
 
 10.1 **Data Storage and Processing Facilities**. Subject to the remainder of this Section 10 (Data Transfers), Google may process Customer Personal Data in any country in which Google or any of its Subprocessors maintains facilities.
 
-10.2 **Permitted Transfers**. The parties acknowledge that the European Data Protection Legislation does not require the SCCs or an Alternative Transfer Solution in order to process Customer Personal Data in or transfer it to an Adequate Country (“**Permitted Transfers**”).
+10.2 **Restricted European Transfers**. The parties acknowledge that the European Data Protection Legislation does not require the SCCs or an Alternative Transfer Solution in order to process Customer Personal Data in or transfer it to an Adequate Country. If Customer Personal Data is transferred to any other country, and the European Data Protection Legislation applies to the transfers (“**Restricted European Transfers**”), then:
 
-10.3 **Restricted Transfers**. If the processing of Customer Personal Data involves any transfers that are not Permitted Transfers, and the European Data Protection Legislation applies to those transfers (“**Restricted Transfers**”), then:
+(a) if Google adopts an Alternative Transfer Solution for any Restricted European Transfers, then Google will inform Customer of the relevant solution and ensure that such Restricted European Transfers are made in accordance with that solution; and/or
 
-(a) if Google announces its adoption of an Alternative Transfer Solution for any Restricted Transfers, then Google will ensure that they are made in accordance with that Alternative Transfer Solution; and/or
-
-(b) if Google has not adopted an Alternative Transfer Solution for any Restricted Transfers, then:
+(b) if Google has not adopted, or has informed Customer that Google is no longer adopting an Alternative Transfer Solution for any Restricted European Transfers, then:
 
 (i) if Google’s address is in an Adequate Country:
 
-(A) the SCCs (EU Processor-to-Processor, Google Exporter) will apply with respect to all Restricted Transfers from Google to Subprocessors; and
+(A) the SCCs (Processor-to-Processor, Google Exporter) will apply with respect to such Restricted European Transfers from Google to Subprocessors; and
 
-(B) in addition, if Customer’s address is not in an Adequate Country, the SCCs (EU Processor-to-Controller) will apply with respect to Restricted Transfers between Google and Customer (regardless of whether Customer is a controller and/or a processor); or
+(B) in addition, if Customer’s address is not in an Adequate Country, the SCCs (Processor-to-Controller) will apply with respect to Restricted European Transfers between Google and Customer (regardless of whether Customer is a controller and/or a processor); or
 
-(ii) if Google’s address is not in an Adequate Country:
+(ii) if Google’s address is not in an Adequate Country, the SCCs (Controller-to-Processor) and/or SCCs (Processor-to-Processor) will apply (according to whether Customer is a controller and/or processor) with respect to such Restricted European Transfers between Customer and Google.
 
-(A) the SCCs (EU Controller-to-Processor) and/or SCCs (EU Processor-to-Processor) will apply (according to whether Customer is a controller and/or processor) with respect to Restricted Transfers between Customer and Google that are subject to the EU GDPR and/or the Swiss FDPA; and
+10.3 **Supplementary Measures and Information**. Google will provide Customer with information relevant to Restricted European Transfers, including information about supplementary measures to protect Customer Personal Data, as described in Section 7.5.1 (Reviews of Security Documentation), Appendix 2 (Security Measures) and other materials concerning the nature of the Processor Services and the processing of Customer Personal Data (for example, help centre articles).
 
-(B) the SCCs (UK Controller-to-Processor) will apply (regardless of whether Customer is a controller and/or processor) with respect to Restricted Transfers between Customer and Google that are subject to the UK GDPR.
+10.4 **Termination**. If Customer concludes, based on its current or intended use of the Processor Services, that the Alternative Transfer Solution and/or SCCs, as applicable, do not provide appropriate safeguards for Customer Personal Data, then Customer may immediately terminate the Agreement for convenience by notifying Google in writing.
 
-10.4 **Supplementary Measures and Information**. Google will provide Customer with information relevant to Restricted Transfers, including information about supplementary measures protect Customer Personal Data, as described in Section 7.5.1 (Reviews of Security Documentation), Appendix 2 (Security Measures) and other materials concerning the nature of the Processor Services and the processing of Customer Personal Data (for example, help centre articles).
-
-10.5 **Termination**. If Customer concludes, based on its current or intended use of the Processor Services, that the Alternative Transfer Solution and/or SCCs, as applicable, do not provide appropriate safeguards for Customer Personal Data, then Customer may immediately terminate the Agreement for convenience by notifying Google in writing.
-
-10.6 **Data Centre Information**. Information about the locations of Google data centres is available at [www.google.com/about/datacenters/locations/](https://www.google.com/about/datacenters/locations/).
+10.5 **Data Centre Information**. Information about the locations of Google data centres is available at [www.google.com/about/datacenters/locations/](https://www.google.com/about/datacenters/locations/).
 
 11. Subprocessors
 -----------------
@@ -379,7 +371,7 @@ Subject to the amendments in these Data Processing Terms, the Agreement remains 
 
 14.3 **No Effect on Controller Terms**. These Data Processing Terms will not affect any separate terms between Google and Customer reflecting a controller-controller relationship for a service other than the Processor Services.
 
-14.4 **Legacy MCCs**. Customer agrees that, as of their effective date, the SCCs will supersede and terminate any Model Contract Clauses approved under Article 26(2) of Directive 95/46/EC and previously entered into by Customer with Google LLC (“Model Contract Clauses”). Where Google LLC is not a party to the Agreement, Google LLC will be a third party beneficiary of this Section 14.4 (Legacy MCCs). This Section 14.4 (Legacy MCCs) will not affect either party’s rights, or any data subject’s rights, that may have accrued under the Model Contract Clauses whilst they were in force.
+14.4 **Legacy UK SCCs**. As of 21 September 2022 or the Agreement’s effective date, whichever is later, the SCCs’ supplementary terms for UK GDPR transfers will apply, and will supersede and terminate any standard contractual clauses approved under the UK GDPR and the Data Protection Act 2018 and previously entered into by Customer and Google (“**Legacy UK SCCs**”). This Section 14.4 (Legacy UK SCCs) will not affect either party’s rights, or any data subject’s rights, that may have accrued under the Legacy UK SCCs whilst they were in force.
 
 15. Changes to these Data Processing Terms
 ------------------------------------------
@@ -388,7 +380,7 @@ Subject to the amendments in these Data Processing Terms, the Agreement remains 
 
 (a) the SCCs in accordance with Sections 15.2(b) - 15.2(d) (Changes to Data Processing Terms) or to incorporate any new version of the SCCs that may be adopted under the European Data Protection Legislation, in each case in a manner that does not affect the validity of the SCCs under the European Data Protection Legislation; and
 
-(b) the list of potential Processor Services at business.safety.google/adsservices: (i) to reflect a change to the name of a service; (ii) to add a new service; or (iii) to remove a service where either: (x) all contracts for the provision of that service are terminated; or (y) Google has Customer’s consent.
+(b) the list of potential Processor Services at [business.safety.google/adsservices](https://privacy.google.com/businesses/adsservices): (i) to reflect a change to the name of a service; (ii) to add a new service; or (iii) to remove a service (or a feature of a service) where either: (x) all contracts for the provision of that service are terminated; (y) Google has Customer’s consent; or (z) the service, or a certain feature of the service, has been recategorised as a controller service.
 
 15.2 **Changes to Data Processing Terms.** Google may change these Data Processing Terms if the change:
 
@@ -527,12 +519,13 @@ The following Additional Terms for Non-European Data Protection Legislation supp
 *   LGPD Processor Addendum at [business.safety.google/adsprocessorterms/lgpd/](https://privacy.google.com/businesses/adsprocessorterms/lgpd/) (dated 16 August 2020)
     
 
-_Google Ads Data Processing Terms, Version 3.0_
+_Google Ads Data Processing Terms, Version 4.0_
 
-_27 September 2021_
+_21 September 2022_
 
 **Previous Versions**
 
+*   [27 September 2021](https://privacy.google.com/static/assets/pdf/adsprocessorterms-20210927.pdf)
 *   [16 August 2020](https://privacy.google.com/adsprocessorterms-20200816/)
 *   [12 August 2020](https://privacy.google.com/static/assets/pdf/adsprocessorterms-20200812.pdf)
 *   [1 January 2020](https://privacy.google.com/static/assets/pdf/adsprocessorterms-20200101.pdf)
