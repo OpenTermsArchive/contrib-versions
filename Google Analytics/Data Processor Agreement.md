@@ -417,9 +417,9 @@ Categories of Data Subjects
 
 Customer Personal Data will concern the following categories of data subjects:
 
-*   data subjects about whom Google collects personal data in its provision of the Processor Services; and/or
+* data subjects about whom Google collects personal data in its provision of the Processor Services; and/or
     
-*   data subjects about whom personal data is transferred to Google in connection with the Processor Services by, at the direction of, or on behalf of Customer.
+* data subjects about whom personal data is transferred to Google in connection with the Processor Services by, at the direction of, or on behalf of Customer.
     
 
 Depending on the nature of the Processor Services, these data subjects may include individuals: (a) to whom online advertising has been, or will be, directed; (b) who have visited specific websites or applications in respect of which Google provides the Processor Services; and/or (c) who are customers or users of Customer’s products or services.
@@ -514,9 +514,9 @@ Appendix 3: Additional Terms for Non-European Data Protection Legislation
 
 The following Additional Terms for Non-European Data Protection Legislation supplement these Data Processing Terms:
 
-*   CCPA Service Provider Addendum at [business.safety.google/adsprocessorterms/ccpa/](https://privacy.google.com/businesses/adsprocessorterms/ccpa/) (dated 1 January 2020)
+* CCPA Service Provider Addendum at [business.safety.google/adsprocessorterms/ccpa/](https://privacy.google.com/businesses/adsprocessorterms/ccpa/) (dated 1 January 2020)
     
-*   LGPD Processor Addendum at [business.safety.google/adsprocessorterms/lgpd/](https://privacy.google.com/businesses/adsprocessorterms/lgpd/) (dated 16 August 2020)
+* LGPD Processor Addendum at [business.safety.google/adsprocessorterms/lgpd/](https://privacy.google.com/businesses/adsprocessorterms/lgpd/) (dated 16 August 2020)
     
 
 _Google Ads Data Processing Terms, Version 4.0_
@@ -525,9 +525,9 @@ _21 September 2022_
 
 **Previous Versions**
 
-*   [27 September 2021](https://privacy.google.com/static/assets/pdf/adsprocessorterms-20210927.pdf)
-*   [16 August 2020](https://privacy.google.com/adsprocessorterms-20200816/)
-*   [12 August 2020](https://privacy.google.com/static/assets/pdf/adsprocessorterms-20200812.pdf)
-*   [1 January 2020](https://privacy.google.com/static/assets/pdf/adsprocessorterms-20200101.pdf)
-*   [31 October 2019](https://privacy.google.com/static/assets/pdf/adsprocessorterms-20191031.pdf)
-*   [12 October 2017](https://privacy.google.com/static/assets/pdf/adsprocessorterms-20171012.pdf)
+* [27 September 2021](https://privacy.google.com/static/assets/pdf/adsprocessorterms-20210927.pdf)
+* [16 August 2020](https://privacy.google.com/adsprocessorterms-20200816/)
+* [12 August 2020](https://privacy.google.com/static/assets/pdf/adsprocessorterms-20200812.pdf)
+* [1 January 2020](https://privacy.google.com/static/assets/pdf/adsprocessorterms-20200101.pdf)
+* [31 October 2019](https://privacy.google.com/static/assets/pdf/adsprocessorterms-20191031.pdf)
+* [12 October 2017](https://privacy.google.com/static/assets/pdf/adsprocessorterms-20171012.pdf)
