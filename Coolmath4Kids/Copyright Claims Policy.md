@@ -1,7 +1,7 @@
 Breadcrumb
 ----------
 
-1.  Copyrights & Fair Use
+1. Copyrights & Fair Use
 
 Copyrights & Fair Use
 =====================
