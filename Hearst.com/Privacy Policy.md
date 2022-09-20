@@ -20,10 +20,10 @@ We may ask you to provide your personal information when you use the Site, such 
 
 The personal information you give us may include details such as:
 
-*   Contact information (e.g., name, email address, company name and address);
-*   Demographic and interests information (e.g., region, interests and preferences);
-*   Other information you choose to share with us (e.g., when you submit a form); and/or
-*   Transactional and activity information (e.g., requests and searches).
+* Contact information (e.g., name, email address, company name and address);
+* Demographic and interests information (e.g., region, interests and preferences);
+* Other information you choose to share with us (e.g., when you submit a form); and/or
+* Transactional and activity information (e.g., requests and searches).
 
 **Information automatically collected:**
 
@@ -37,20 +37,20 @@ We may combine the personal information we obtain through the Site with other in
 
 Hearst may use the personal information we obtain in connection with the operation of the Site for a number of purposes, including, but not limited to:
 
-*   Providing you with the Site, as well as information you may request;
-*   Communicating with you, including by sending you marketing and advertising communications;
-*   Developing and improving the Site and the services we provide and customizing the user experience;
-*   Generating and analyzing statistics about your use of the Site and our offerings;
-*   Detecting, preventing, and responding to violations of this Notice or the Terms of Use, violations of law, or other misuse of the Site; and
-*   Complying with and enforcing applicable industry and legal requirements (including legal process such as court orders, warrants or subpoenas).
+* Providing you with the Site, as well as information you may request;
+* Communicating with you, including by sending you marketing and advertising communications;
+* Developing and improving the Site and the services we provide and customizing the user experience;
+* Generating and analyzing statistics about your use of the Site and our offerings;
+* Detecting, preventing, and responding to violations of this Notice or the Terms of Use, violations of law, or other misuse of the Site; and
+* Complying with and enforcing applicable industry and legal requirements (including legal process such as court orders, warrants or subpoenas).
 
 **WITH WHOM WE SHARE PERSONAL INFORMATION**
 
 Hearst may share the personal information we obtain from you through the Site:
 
-*   With our affiliates and subsidiaries;
-*   With third parties that provide services or handle transactions on our behalf; and
-*   As we believe is necessary or appropriate to protect, enforce, or defend our legal rights, the privacy or safety of our employees, users of the Site or other individuals and entities, or to comply with or enforce applicable law or legal process, including responding to court orders, warrants, subpoenas and other requests from public and government authorities.
+* With our affiliates and subsidiaries;
+* With third parties that provide services or handle transactions on our behalf; and
+* As we believe is necessary or appropriate to protect, enforce, or defend our legal rights, the privacy or safety of our employees, users of the Site or other individuals and entities, or to comply with or enforce applicable law or legal process, including responding to court orders, warrants, subpoenas and other requests from public and government authorities.
 
 We also reserve the right to transfer any of the information we have about you to proceed with the consideration, negotiation, or completion of a sale or transfer of all or a portion of our business or assets to a third party, such as in the event of a merger, acquisition or other disposition, or in connection with a bankruptcy reorganization, dissolution, or liquidation. We may share your information with third parties when you consent to or request such sharing.
 
@@ -77,11 +77,11 @@ The Site may contain links to third-party websites, mobile apps or features, inc
 **Your California Consumer Privacy Act of 2018 (“CCPA”) Rights**  
 Residents of California may have the following rights:
 
-1.  Right to access your personal information.  You may request to access the categories and specific pieces of personal information that we collected about you through this Site.  
-2.  Right to deletion.  Subject to certain exceptions, you may ask us to delete the personal information we collected about you through this Site.  
-3.  Right to disclosure.  You may request to receive additional details about the sources from which we collect information, the reasons we collect and share information, and the types of third parties with which we share the personal information we collected about you through this Site. 
-4.  Right to opt out of sales.  Under CCPA law, certain types of sharing of personal information may constitute a “sale” of your personal information.  We do not sell the personal information we collected about you through this Site. 
-5.  Right to be free from discrimination.  You may exercise any of the above rights without fear of being denied goods or services.  
+1. Right to access your personal information.  You may request to access the categories and specific pieces of personal information that we collected about you through this Site.  
+2. Right to deletion.  Subject to certain exceptions, you may ask us to delete the personal information we collected about you through this Site.  
+3. Right to disclosure.  You may request to receive additional details about the sources from which we collect information, the reasons we collect and share information, and the types of third parties with which we share the personal information we collected about you through this Site. 
+4. Right to opt out of sales.  Under CCPA law, certain types of sharing of personal information may constitute a “sale” of your personal information.  We do not sell the personal information we collected about you through this Site. 
+5. Right to be free from discrimination.  You may exercise any of the above rights without fear of being denied goods or services.  
 
 If you would like to exercise your CCPA rights with respect to the personal information we collected about you through this Site, please contact us by email at [ccparequestscorp@hearst.com](mailto:ccparequestscorp@hearst.com). 
 
