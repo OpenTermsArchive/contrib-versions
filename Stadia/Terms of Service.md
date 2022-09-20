@@ -26,13 +26,13 @@ Some Publishers may allow you to create, upload or otherwise submit your own mat
 
 **Restrictions.** You may not:
 
-*   use any Content, in whole or in part, as part of any public performance (except where permitted using features of the Service or where doing so would not constitute a copyright infringement);
+* use any Content, in whole or in part, as part of any public performance (except where permitted using features of the Service or where doing so would not constitute a copyright infringement);
     
-*   use any stream ripping, stream capture or similar software to record or create a copy of any Content, even if no fee is charged (except where doing so would not constitute a copyright infringement);
+* use any stream ripping, stream capture or similar software to record or create a copy of any Content, even if no fee is charged (except where doing so would not constitute a copyright infringement);
     
-*   sell, rent, lease or redistribute access to Stadia; or
+* sell, rent, lease or redistribute access to Stadia; or
     
-*   use Stadia or Content, as part of any service for sharing, lending or multi-person use, except as specifically permitted by Google.
+* use Stadia or Content, as part of any service for sharing, lending or multi-person use, except as specifically permitted by Google.
     
 
 **Purchased Content.** When you purchase Content ('Purchased Content') you are granted the non-exclusive, non-transferable right to access the Purchased Content, subject to the Terms and any additional limitations listed at the time of purchase or access. The purchase of Content means that you are granted an access right to the Purchased Content through the Service and does not include a transfer of a property right in the Purchased Content.
@@ -63,11 +63,11 @@ The following section applies to all Stadia purchases except for purchases made 
 
 **Subscriptions**. If you purchase a subscription, you receive any Content or services provided as part of that subscription on a continuing basis unless you cancel. Subscriptions are automatically charged at the start of each billing period (whether monthly, annually or another period as indicated during the subscription process) and you may be charged no more than 24 hours before the beginning of each billing period.
 
-*   \*\*(a) Trial Period.\*\* When you subscribe to the Service or Content for a price, you may receive access to the subscription benefits at no charge for a specific trial period as indicated, after which you will be charged until you cancel the subscription, unless otherwise indicated. To avoid being charged, you must cancel before the end of the trial period. Once you cancel a trial, you will immediately lose access to the Service or Content unless otherwise specified. Access to such trial periods may be limited to a certain number of trials for each user during a given period, or other restrictions.
+* \*\*(a) Trial Period.\*\* When you subscribe to the Service or Content for a price, you may receive access to the subscription benefits at no charge for a specific trial period as indicated, after which you will be charged until you cancel the subscription, unless otherwise indicated. To avoid being charged, you must cancel before the end of the trial period. Once you cancel a trial, you will immediately lose access to the Service or Content unless otherwise specified. Access to such trial periods may be limited to a certain number of trials for each user during a given period, or other restrictions.
     
-*   \*\*(b) Price changes.\*\* When you purchase a subscription, you will be charged at the rate applicable at the time of your agreement to subscribe. If the price of the subscription increases later, Google will notify you at least 30 days in advance. Before any increase of the rate of the subscription, we will take into account and balance your legitimate interests. You may object to any price increase by opting not to renew your subscription via the mechanism and within the time period we describe in our notice. The increase will apply to the next payment due from you after the notice period, provided you have been given at least 30 days’ prior written notice before the change is made. If you are given less than 30 days’ prior notice, the price increase will not apply until the payment after the next payment due. If you do not wish to pay the increased price for a subscription, you may cancel the subscription and you will not be charged further amounts for the subscription, provided that you have notified us before the end of the current billing period. If the price of your subscription increases and your consent is required, Google may cancel your subscription unless you agree to the new price. If your subscription is cancelled and you decide to subscribe again later, you will be charged the price then in effect.
+* \*\*(b) Price changes.\*\* When you purchase a subscription, you will be charged at the rate applicable at the time of your agreement to subscribe. If the price of the subscription increases later, Google will notify you at least 30 days in advance. Before any increase of the rate of the subscription, we will take into account and balance your legitimate interests. You may object to any price increase by opting not to renew your subscription via the mechanism and within the time period we describe in our notice. The increase will apply to the next payment due from you after the notice period, provided you have been given at least 30 days’ prior written notice before the change is made. If you are given less than 30 days’ prior notice, the price increase will not apply until the payment after the next payment due. If you do not wish to pay the increased price for a subscription, you may cancel the subscription and you will not be charged further amounts for the subscription, provided that you have notified us before the end of the current billing period. If the price of your subscription increases and your consent is required, Google may cancel your subscription unless you agree to the new price. If your subscription is cancelled and you decide to subscribe again later, you will be charged the price then in effect.
     
-*   **(c) Subscription terms, renewals and cancellations.** You may cancel your subscription at any time. Subscriptions may include the right to access and play specified Content. Those rights will be revoked if your subscription is cancelled. If you are based outside of Germany, your cancellation will take effect at the end of the billing period during which you cancelled your subscription.
+* **(c) Subscription terms, renewals and cancellations.** You may cancel your subscription at any time. Subscriptions may include the right to access and play specified Content. Those rights will be revoked if your subscription is cancelled. If you are based outside of Germany, your cancellation will take effect at the end of the billing period during which you cancelled your subscription.
     
 
 If you are based in Germany, your initial subscription term is the length of the billing period indicated during the subscription process, and the maximum length of any initial term is two years. If not cancelled before the end of the initial subscription term, the subscription will automatically renew for an indefinite amount of time. Following the renewal, the subscription will continue to be automatically charged at the beginning of each billing period. If you cancel your subscription, your cancellation will take effect at the end of the initial subscription term or, after renewal, at the end of the then-current month.
@@ -112,8 +112,8 @@ Date:
 
 If you’re an EEA-based consumer of digital content or services, and you’ve agreed to our Terms, then EEA consumer laws provide you with a legal guarantee. Under this guarantee, we're liable for any lack of conformity that you discover:
 
-*   within two years of the delivery of goods or the one-off supply of digital content or services
-*   at any time during the 'continuous' supply of digital content or services
+* within two years of the delivery of goods or the one-off supply of digital content or services
+* at any time during the 'continuous' supply of digital content or services
 
 Your national laws may provide an even longer guarantee. Your rights under these legal guarantees aren't limited by any other commercial guarantees that we provide. If you want to make a guarantee claim, please [contact us](http://support.google.com/stadia/?p=contact_us).
 
