@@ -14,7 +14,7 @@ THESE TERMS CONTAIN A MANDATORY ARBITRATION OF DISPUTES PROVISION THAT REQUIRES 
 
 You may only access and use the Service if you agree to be bound by these Terms, are over the age of 13, and are not a person barred from receiving or using the Services under the laws of the applicable jurisdiction.  If you are accepting these Terms and using the Service on behalf of a company, organization, government or other legal entity, you represent and warrant that you are authorized to do so. In the event you breach these Terms, or violate the [Basic Rules of Disqus](https://help.disqus.com/terms-and-policies/basic-rules-for-disqus), Disqus may, in our sole discretion, revoke your rights to use the Service and terminate your account.
 
-**License to Use the Service.** 
+**License to Use the Service.** 
 
 Disqus grants you a non-exclusive, limited, non-transferable, revocable license to access and use the Service in accordance with the Terms and in the manner contemplated hereunder. Disqus reserves all rights not expressly granted herein in and to the Service and the Disqus Content (as defined below). Disqus reserves the right to revoke your license to use the Service at any time and for any reason. 
 
@@ -28,7 +28,7 @@ We are constantly changing and improving Service. We may, without prior notice t
 
 By creating a Disqus account, you agree to these Terms. When creating your account, you must provide accurate and complete information. You are solely responsible for the activity that occurs on your account, and you must keep your account password secure. We encourage you to use “strong” passwords (passwords that use a combination of upper and lowercase letters, numbers and symbols) with your account. You may never use another user’s account without permission.  You must notify Disqus immediately of any breach of security or unauthorized use of your account. Disqus will not be liable for any losses caused by any unauthorized use of your account. You may control your User profile and how you interact with the Service by changing the settings in your [profile settings](https://disqus.com/account). 
 
-**Privacy.** 
+**Privacy.** 
 
 The [Disqus Privacy Policy](https://help.disqus.com/terms-and-policies/disqus-privacy-policy) describes how we use and process the information you provide to us when you use the Service. You understand that by using the Services you consent to the collection, use and disclosure of your information as set forth in our Privacy Policy. 
 
@@ -48,17 +48,17 @@ By using the Service you represent and warrant that your User Content does not v
 
 If you believe that your copyrighted work has been copied in a way that constitutes copyright infringement under the DMCA and is accessible via the Service, please notify Disqus’ copyright agent at the contact information below. For your complaint to be valid under the DMCA, you must provide the following information in writing:
 
-*   An electronic or physical signature of a person authorized to act on behalf of the copyright owner;
+* An electronic or physical signature of a person authorized to act on behalf of the copyright owner;
     
-*   Identification of the copyrighted work that you claim has been infringed;
+* Identification of the copyrighted work that you claim has been infringed;
     
-*   Identification of the material that is claimed to be infringing and where it is located on the Service;
+* Identification of the material that is claimed to be infringing and where it is located on the Service;
     
-*   Information reasonably sufficient to permit Disqus to contact you, such as your address, telephone number, and, e-mail address;
+* Information reasonably sufficient to permit Disqus to contact you, such as your address, telephone number, and, e-mail address;
     
-*   A statement that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or law; and
+* A statement that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or law; and
     
-*   A statement, made under penalty of perjury, that the above information is accurate, and that you are the copyright owner or are authorized to act on behalf of the owner.
+* A statement, made under penalty of perjury, that the above information is accurate, and that you are the copyright owner or are authorized to act on behalf of the owner.
     
 
 DMCA Agent Contact Information: 
@@ -123,7 +123,7 @@ THE SERVICE IS CONTROLLED AND OPERATED FROM ITS FACILITIES IN THE U.S.A. THE DIS
 
 ALL CLAIMS MUST BE BROUGHT IN THE PARTIES’ INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING. YOU AGREE THAT, BY ENTERING INTO THESE TERMS, YOU ARE WAIVING THE RIGHT TO A TRIAL BY JURY OR TO PARTICIPATE IN A CLASS ACTION.
 
-**Any dispute resolution proceedings relating to these Terms or the Site will be conducted only on an individual basis and not as a class, consolidated, joined or representative action and the parties expressly waive all rights to commence or participate in any class, consolidated or representative action/proceeding. You agree that Disqus’ agreement to arbitrate claims constitutes consideration for such waiver.** 
+**Any dispute resolution proceedings relating to these Terms or the Site will be conducted only on an individual basis and not as a class, consolidated, joined or representative action and the parties expressly waive all rights to commence or participate in any class, consolidated or representative action/proceeding. You agree that Disqus’ agreement to arbitrate claims constitutes consideration for such waiver.** 
 
 **U.S. Government Entities.**
 
