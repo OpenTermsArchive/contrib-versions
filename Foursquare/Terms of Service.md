@@ -9,9 +9,9 @@ These Terms of Use are a legally binding contract between you and Foursquare Lab
 
 These Terms of Use cover your use of the Foursquare consumer services, which we’ll refer to as the “Services”. The Services consist of:
 
-*   These websites: [foursquare.com/city-guide](https://foursquare.com/city-guide), [swarmapp.com](https://www.swarmapp.com/), [marsbotapp.com](https://marsbotapp.com/), [getpanelapp.com](https://getpanelapp.com/), and any other consumer websites offered by Foursquare (collectively, the “Sites”);
-*   These mobile apps: Foursquare CityGuide, Swarm, Marsbot, Marsbot for AirPods®, Placed Panel App, Give 2 Charity, Pathkeeper and Frequent Flier App, and any other consumer mobile apps offered by Foursquare (collectively, the “Apps”); and
-*   The services, features, content and widgets offered by Foursquare in connection with the above.
+* These websites: [foursquare.com/city-guide](https://foursquare.com/city-guide), [swarmapp.com](https://www.swarmapp.com/), [marsbotapp.com](https://marsbotapp.com/), [getpanelapp.com](https://getpanelapp.com/), and any other consumer websites offered by Foursquare (collectively, the “Sites”);
+* These mobile apps: Foursquare CityGuide, Swarm, Marsbot, Marsbot for AirPods®, Placed Panel App, Give 2 Charity, Pathkeeper and Frequent Flier App, and any other consumer mobile apps offered by Foursquare (collectively, the “Apps”); and
+* The services, features, content and widgets offered by Foursquare in connection with the above.
 
 These Terms of Use do not cover our enterprise (business) websites or services. Those services are described in our [Enterprise Site Terms](https://foursquare.com/legal/enterprise/siteterms).
 
@@ -29,10 +29,10 @@ You may need to register for an account or use your credentials (e.g. username a
 
 You agree that you will not:
 
-*   create an account for anyone other than yourself without such person's permission;
-*   create a username that is the name of another person with the intent to impersonate that person;
-*   create a user name or Foursquare account that is subject to any rights of a person other than you without appropriate authorization; or
-*   create a user name that is a name that is otherwise offensive, vulgar or obscene or otherwise unlawful.
+* create an account for anyone other than yourself without such person's permission;
+* create a username that is the name of another person with the intent to impersonate that person;
+* create a user name or Foursquare account that is subject to any rights of a person other than you without appropriate authorization; or
+* create a user name that is a name that is otherwise offensive, vulgar or obscene or otherwise unlawful.
 
 Foursquare reserves the right to refuse registration of, or cancel a user name, in its sole discretion. You are solely responsible and liable for activity that occurs on your account and shall be responsible for maintaining the confidentiality of your Foursquare password. You shall never use another user's account without such other user's prior express permission. You will immediately notify Foursquare in writing of any unauthorized use of your account, or other account related security breach of which you are aware.
 
@@ -70,31 +70,31 @@ As a condition of your use, you shall not use the Services for any purpose that 
 
 You shall not (and shall not permit any third party to) either (a) take any action or (b) upload, download, post, submit or otherwise distribute or facilitate distribution of any Content on or through our Services, including without limitation any User Submission, that:
 
-*   infringes any patent, trademark, trade secret, copyright, right of publicity or other right of any other person or entity or violates any law or contractual duty;
-*   you know is false, misleading, untruthful or inaccurate;
-*   is unlawful, threatening, abusive, harassing, defamatory, predatory, stalking, libelous, deceptive, fraudulent, invasive of another's privacy, tortious, obscene, vulgar, pornographic, offensive, profane, contains or depicts nudity, contains or depicts sexual activity, promotes bigotry, discrimination or violence, or is otherwise inappropriate or objectionable as determined by Foursquare in its sole discretion;
-*   constitutes unauthorized or unsolicited advertising, junk or bulk e-mail ("spamming");
-*   involves commercial activities (whether or not for profit) and/or sales without Foursquare's prior written consent such as contests, sweepstakes, barter, advertising, or pyramid schemes;
-*   contains software viruses or any other computer codes, files, worms, logic bombs or programs that are designed or intended to disrupt, disable, damage, limit or interfere with the proper function of any software, hardware, or telecommunications equipment or to damage or obtain unauthorized access to any system, data, password or other information of Foursquare or any third party;
-*   impersonates any person or entity, including any employee or representative of Foursquare;
-*   includes anyone's identification documents or sensitive information; or
-*   breaches the [Privacy Policy](https://foursquare.com/legal/privacy), the [House Rules](https://foursquare.com/info/houserules) and/or any of the other policies and rules incorporated herein.
+* infringes any patent, trademark, trade secret, copyright, right of publicity or other right of any other person or entity or violates any law or contractual duty;
+* you know is false, misleading, untruthful or inaccurate;
+* is unlawful, threatening, abusive, harassing, defamatory, predatory, stalking, libelous, deceptive, fraudulent, invasive of another's privacy, tortious, obscene, vulgar, pornographic, offensive, profane, contains or depicts nudity, contains or depicts sexual activity, promotes bigotry, discrimination or violence, or is otherwise inappropriate or objectionable as determined by Foursquare in its sole discretion;
+* constitutes unauthorized or unsolicited advertising, junk or bulk e-mail ("spamming");
+* involves commercial activities (whether or not for profit) and/or sales without Foursquare's prior written consent such as contests, sweepstakes, barter, advertising, or pyramid schemes;
+* contains software viruses or any other computer codes, files, worms, logic bombs or programs that are designed or intended to disrupt, disable, damage, limit or interfere with the proper function of any software, hardware, or telecommunications equipment or to damage or obtain unauthorized access to any system, data, password or other information of Foursquare or any third party;
+* impersonates any person or entity, including any employee or representative of Foursquare;
+* includes anyone's identification documents or sensitive information; or
+* breaches the [Privacy Policy](https://foursquare.com/legal/privacy), the [House Rules](https://foursquare.com/info/houserules) and/or any of the other policies and rules incorporated herein.
 
 If the User Submission includes a photograph, Foursquare's [Photo Guidelines](https://foursquare.com/legal/photos) shall apply. Foursquare has a zero-tolerance policy against child pornography, and will terminate and report to the appropriate authorities any user who publishes or distributes child pornography.
 
 You shall not (directly or indirectly):
 
-*   take any action that imposes or may impose (as determined by Foursquare in its sole discretion) an unreasonable or disproportionately large load on Foursquare's (or its third party providers') infrastructure;
-*   interfere or attempt to interfere with the proper working of the Service or any activities conducted on the Service;
-*   bypass any measures Foursquare may use to prevent or restrict access to the Service (or other accounts, computer systems or networks connected to the Service);
-*   run any form of auto-responder or "spam" on the Service;
-*   use manual or automated software, devices, or other processes to "crawl" or "spider" any page of the Site;
-*   harvest or scrape any Content from the Service;
-*   modify, adapt, appropriate, reproduce, distribute, translate, create derivative works or adaptations of, publicly display, republish, repurpose, sell, trade, or in any way exploit the Service or Site Content (other than your User Submissions), except as expressly authorized by Foursquare;
-*   decipher, decompile, disassemble, reverse engineer or otherwise attempt to derive any source code or underlying ideas or algorithms of any part of the Service (including without limitation any application or widget), except to the limited extent applicable laws specifically prohibit such restriction;
-*   copy, rent, lease, distribute, or otherwise transfer any of the rights that you receive hereunder;
-*   use the Services in any manner that could interfere with, disrupt, negatively affect or inhibit other users from fully enjoying our services or that could damage, disable, overburden or impair the functioning of our services in any manner;
-*   otherwise take any action in violation of Foursquare's guidelines and policies.
+* take any action that imposes or may impose (as determined by Foursquare in its sole discretion) an unreasonable or disproportionately large load on Foursquare's (or its third party providers') infrastructure;
+* interfere or attempt to interfere with the proper working of the Service or any activities conducted on the Service;
+* bypass any measures Foursquare may use to prevent or restrict access to the Service (or other accounts, computer systems or networks connected to the Service);
+* run any form of auto-responder or "spam" on the Service;
+* use manual or automated software, devices, or other processes to "crawl" or "spider" any page of the Site;
+* harvest or scrape any Content from the Service;
+* modify, adapt, appropriate, reproduce, distribute, translate, create derivative works or adaptations of, publicly display, republish, repurpose, sell, trade, or in any way exploit the Service or Site Content (other than your User Submissions), except as expressly authorized by Foursquare;
+* decipher, decompile, disassemble, reverse engineer or otherwise attempt to derive any source code or underlying ideas or algorithms of any part of the Service (including without limitation any application or widget), except to the limited extent applicable laws specifically prohibit such restriction;
+* copy, rent, lease, distribute, or otherwise transfer any of the rights that you receive hereunder;
+* use the Services in any manner that could interfere with, disrupt, negatively affect or inhibit other users from fully enjoying our services or that could damage, disable, overburden or impair the functioning of our services in any manner;
+* otherwise take any action in violation of Foursquare's guidelines and policies.
 
 Foursquare does not guarantee that any Content or User Submission (as defined above) will be made available on the Site or through the Service. Foursquare has no obligation to monitor the Sites, Services, Content, or User Submissions. However, Foursquare reserves the right to (i) remove, suspend, edit or modify any Content in its sole discretion, including without limitation any User Submissions at any time, without notice to you and for any reason (including, but not limited to, upon receipt of claims or allegations from third parties or authorities relating to such Content or if Foursquare is concerned that you may have violated these Terms of Use), or for no reason at all and (ii) to remove, suspend or block any User Submissions from the Service. Foursquare also reserves the right to access, read, preserve, and disclose any information as Foursquare reasonably believes is necessary to (i) satisfy any applicable law, regulation, legal process or governmental request, (ii) enforce these Terms of Use, including investigation of potential violations hereof, (iii) detect, prevent, or otherwise address fraud, security or technical issues, (iv) respond to user support requests, or (v) protect the rights, property or safety of Foursquare, its users and the public.
 
@@ -114,23 +114,23 @@ For information on Foursquare’s Feedback and Unsolicited Idea Submission Polic
 
 If you include Foursquare's 'Save-to-Foursquare' Link ("Save-to Link") on your website, the following additional terms apply to you:
 
-*   Subject to your continuous compliance with these Terms of Use, Foursquare hereby grants you a non-exclusive, non-transferable, non-sublicensable, revocable license to use and display the Save-to Link on a website for which you have proper authorization ("your website") so that users can post links or content from your website on the Service. You grant us permission to use and allow others to use such links and content on the Service.
-*   Your license is subject to the following restrictions on use: (a) you may not use the Save-to Link to facilitate your sale of access to the Service or any information therein without Foursquare's prior written approval; (b) you may not obscure or disable any element of the Save-to Link; (c) your website title and other trademarks and logos must appear at least as prominent as Foursquare's trademarks and logos in the Save-to Link; (d) you may not display the Save-to Link in any manner that implies partnership with, affiliation with, sponsorship, or endorsement by Foursquare; (e) you may not display the Save-to Link on any site that disparages Foursquare or its products or services, infringes any Foursquare's intellectual property or other rights, or violates any applicable law; (f) you may not place the Save-to Link on sites that include content that would violate these Terms of Use if posted on the Service; (g) you may not display the Save-to Link in a manner that does not permit successful linking to, redirection to the Service; and (h) you may not insert any intermediate page, splash page or other content between the Save-to Link and the Service.
+* Subject to your continuous compliance with these Terms of Use, Foursquare hereby grants you a non-exclusive, non-transferable, non-sublicensable, revocable license to use and display the Save-to Link on a website for which you have proper authorization ("your website") so that users can post links or content from your website on the Service. You grant us permission to use and allow others to use such links and content on the Service.
+* Your license is subject to the following restrictions on use: (a) you may not use the Save-to Link to facilitate your sale of access to the Service or any information therein without Foursquare's prior written approval; (b) you may not obscure or disable any element of the Save-to Link; (c) your website title and other trademarks and logos must appear at least as prominent as Foursquare's trademarks and logos in the Save-to Link; (d) you may not display the Save-to Link in any manner that implies partnership with, affiliation with, sponsorship, or endorsement by Foursquare; (e) you may not display the Save-to Link on any site that disparages Foursquare or its products or services, infringes any Foursquare's intellectual property or other rights, or violates any applicable law; (f) you may not place the Save-to Link on sites that include content that would violate these Terms of Use if posted on the Service; (g) you may not display the Save-to Link in a manner that does not permit successful linking to, redirection to the Service; and (h) you may not insert any intermediate page, splash page or other content between the Save-to Link and the Service.
 
 ### Special Terms for Pages.
 
 If you have a "Page" on the Service, you also agree to the following:
 
-*   Pages are special profiles that may only be used to promote a business or other commercial, political, or charitable organization or endeavor (including non-profit organizations, political campaigns, bands, and celebrities).
-*   You may only administer a Page if you are an authorized representative of the subject of the Page.
-*   All Content posted on the Pages will be made available to all users of the Services.
-*   You may not display any Content on your Page that is an ad or could be construed as an ad.
-*   You may not establish terms beyond those set forth in these Terms of Use to govern the use of the Page you administer.
-*   Your Page will not be used primarily or substantially to promote or advertise alcohol or tobacco products, firearms, or other products or services that may not be lawfully purchased or used by minors.
-*   You will not direct your Page, or any Content on your Page, to children under the age of 13.
-*   If you collect information about users, you will only use such information for your internal business purposes in connection with your use of the Service and in accordance with Foursquare's **Privacy Policy**.
-*   You will not use deceptive practices to get users to "like" your Page.
-*   You are responsible for ensuring that your Page, including any Content you post on your Page, shall comply with all applicable laws, rules and regulations and these Terms of Use, and any advertising, marketing, privacy, or other self-regulatory code(s) applicable to your industry.
+* Pages are special profiles that may only be used to promote a business or other commercial, political, or charitable organization or endeavor (including non-profit organizations, political campaigns, bands, and celebrities).
+* You may only administer a Page if you are an authorized representative of the subject of the Page.
+* All Content posted on the Pages will be made available to all users of the Services.
+* You may not display any Content on your Page that is an ad or could be construed as an ad.
+* You may not establish terms beyond those set forth in these Terms of Use to govern the use of the Page you administer.
+* Your Page will not be used primarily or substantially to promote or advertise alcohol or tobacco products, firearms, or other products or services that may not be lawfully purchased or used by minors.
+* You will not direct your Page, or any Content on your Page, to children under the age of 13.
+* If you collect information about users, you will only use such information for your internal business purposes in connection with your use of the Service and in accordance with Foursquare's **Privacy Policy**.
+* You will not use deceptive practices to get users to "like" your Page.
+* You are responsible for ensuring that your Page, including any Content you post on your Page, shall comply with all applicable laws, rules and regulations and these Terms of Use, and any advertising, marketing, privacy, or other self-regulatory code(s) applicable to your industry.
 
 ### Special Terms for Verified Venues.
 
@@ -174,22 +174,22 @@ ALL LIABILITY OF FOURSQUARE, ITS SUBSIDIARIES AND AFFILIATES, EACH OF IT AND ITS
 
 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL FOURSQUARE, ITS SUBSIDIARIES AND AFFILIATES, NOR IT AND ITS DIRECTORS, EMPLOYEES, AGENTS, REPRESENTATIVES, PARTNERS, SUPPLIERS OR CONTENT PROVIDERS, BE LIABLE UNDER CONTRACT, TORT, STRICT LIABILITY, NEGLIGENCE OR ANY OTHER LEGAL OR EQUITABLE THEORY OR OTHERWISE (AND WHETHER OR NOT FOURSQUARE, ITS DIRECTORS, EMPLOYEES, AGENTS, REPRESENTATIVES, PARTNERS, SUPPLIERS OR CONTENT PROVIDERS HAD PRIOR KNOWLEDGE OF THE CIRCUMSTANCES GIVING RISE TO SUCH LOSS OR DAMAGE) WITH RESPECT TO OUR SITES, SERVICES, CONTENT, USER SUBMISSIONS OR SAVE-TO LINK FOR:
 
-*   INDIRECT OR CONSEQUENTIAL LOSSES OR DAMAGES;
-*   LOSS OF ACTUAL OR ANTICIPATED PROFITS;
-*   LOSS OF REVENUE;
-*   LOSS OF GOODWILL;
-*   LOSS OF DATA;
-*   LOSS OF ANTICIPATED SAVINGS;
-*   WASTED EXPENDITURE; OR
-*   COST OF PROCUREMENT OF SUBSTITUE GOODS OR SERVICES.
+* INDIRECT OR CONSEQUENTIAL LOSSES OR DAMAGES;
+* LOSS OF ACTUAL OR ANTICIPATED PROFITS;
+* LOSS OF REVENUE;
+* LOSS OF GOODWILL;
+* LOSS OF DATA;
+* LOSS OF ANTICIPATED SAVINGS;
+* WASTED EXPENDITURE; OR
+* COST OF PROCUREMENT OF SUBSTITUE GOODS OR SERVICES.
 
 NOTHING IN THESE TERMS OF USE SHALL BE DEEMED TO EXCLUDE OR LIMIT YOUR LIABILITY IN RESPECT OF ANY INDEMNITY GIVEN BY YOU UNDER THESE TERMS OF USE. APPLICABLE LAW MAY NOT ALLOW THE LIMITATION OR EXCLUSION OF LIABILITY OR INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU. IN SUCH CASES, FOURSQUARE’S LIABILITY WILL BE LIMITED TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW.
 
 SOLELY IN RESPECT OF USERS LOCATED IN EUROPEAN ECONOMIC AREA (EEA), NOTHING IN THESE TERMS OF USE SHALL BE DEEMED TO EXCLUDE OR LIMIT OUR OR YOUR LIABILITY (AS APPLICABLE) IN RESPECT OF:
 
-*   DEATH OR PERSONAL INJURY ARISING AS A RESULT OF OUR OR YOUR NEGLIGENCE (AS APPLICABLE);
-*   FRAUD (INCLUDING FRAUDULENT MISREPRESENTATION), THEFT OR OTHER CRIMINAL ACTIVITY; OR
-*   ANY BREACH OF ANY OBLIGATIONS IMPLIED BY SECTION 12 OF THE SALE OF GOODS ACT 1979 OR SECTION 2 OF THE SUPPLY OF GOODS AND SERVICES ACT 1982.
+* DEATH OR PERSONAL INJURY ARISING AS A RESULT OF OUR OR YOUR NEGLIGENCE (AS APPLICABLE);
+* FRAUD (INCLUDING FRAUDULENT MISREPRESENTATION), THEFT OR OTHER CRIMINAL ACTIVITY; OR
+* ANY BREACH OF ANY OBLIGATIONS IMPLIED BY SECTION 12 OF THE SALE OF GOODS ACT 1979 OR SECTION 2 OF THE SUPPLY OF GOODS AND SERVICES ACT 1982.
 
 ### Governing Law.
 
@@ -197,11 +197,11 @@ A printed version of these Terms of Use and of any notice given in electronic fo
 
 For users not located in the EEA, the following arbitration and governing law provisions shall apply:
 
-*   These Terms of Use shall be governed by and construed in accordance with the laws of the State of New York, excluding its conflicts of law rules, and the United States of America. For all purposes of these Terms of Use, the parties consent to the exclusive jurisdiction and venue in the United States Federal Courts or state courts located in the Southern District of New York. Use of the Services is not authorized in any jurisdiction that does not give effect to all provisions of these Terms of Use, including without limitation, this section. If you are accepting these Terms of Use on behalf of a United States federal government entity that is legally unable to accept the controlling law, jurisdiction or venue clauses above, then those clauses do not apply to you but instead these Terms and any action related thereto will be will be governed by the laws of the United States of America (without reference to conflict of laws) and, in the absence of federal law and to the extent permitted under federal law, the laws of the State of New York (excluding choice of law).
+* These Terms of Use shall be governed by and construed in accordance with the laws of the State of New York, excluding its conflicts of law rules, and the United States of America. For all purposes of these Terms of Use, the parties consent to the exclusive jurisdiction and venue in the United States Federal Courts or state courts located in the Southern District of New York. Use of the Services is not authorized in any jurisdiction that does not give effect to all provisions of these Terms of Use, including without limitation, this section. If you are accepting these Terms of Use on behalf of a United States federal government entity that is legally unable to accept the controlling law, jurisdiction or venue clauses above, then those clauses do not apply to you but instead these Terms and any action related thereto will be will be governed by the laws of the United States of America (without reference to conflict of laws) and, in the absence of federal law and to the extent permitted under federal law, the laws of the State of New York (excluding choice of law).
 
 Solely in respect of users located in the EEA, the following governing law provisions shall apply:
 
-*   These Terms of Use and any disputes or claims arising out of or in connection with it shall be governed by, and construed in accordance with, the laws of England. All disputes or claims arising out of or relating to these Terms of Use shall be subject to the exclusive jurisdiction of the English Courts to which the Parties irrevocably submit.
+* These Terms of Use and any disputes or claims arising out of or in connection with it shall be governed by, and construed in accordance with, the laws of England. All disputes or claims arising out of or relating to these Terms of Use shall be subject to the exclusive jurisdiction of the English Courts to which the Parties irrevocably submit.
 
 ### Legal Compliance
 
