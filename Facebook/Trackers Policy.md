@@ -86,11 +86,11 @@ Our business partners may also choose to share information with Meta from cookie
 We may place cookies on your computer or device and receive information stored in cookies when you use or visit:  
   
 
-*   The [Meta Products](https://www.facebook.com/help/1561485474074139?ref=cookies);
+* The [Meta Products](https://www.facebook.com/help/1561485474074139?ref=cookies);
     
-*   Products provided by other members of the [Meta Companies](https://www.facebook.com/help/111814505650678?ref=cookies); and
+* Products provided by other members of the [Meta Companies](https://www.facebook.com/help/111814505650678?ref=cookies); and
     
-*   Websites and apps provided by other companies that use the Meta Products, including companies that incorporate Meta technologies into their websites and apps. Meta uses cookies and receives information when you visit those sites and apps, including [device information](https://www.facebook.com/policies/cookies) and information about your activity, without any further action from you. This occurs whether or not you have a Facebook account or are logged in.
+* Websites and apps provided by other companies that use the Meta Products, including companies that incorporate Meta technologies into their websites and apps. Meta uses cookies and receives information when you visit those sites and apps, including [device information](https://www.facebook.com/policies/cookies) and information about your activity, without any further action from you. This occurs whether or not you have a Facebook account or are logged in.
     
 
 ### Do other Companies use cookies in connection with the Meta Products?
@@ -107,13 +107,13 @@ We use cookies to help personalise and improve content and services, provide a s
 
 If you have a Facebook account:
 
-*   You can use your [ad preferences](https://www.facebook.com/ads/preferences/edit/) to learn why you're seeing a particular ad and control how we use information that we collect to show you ads.
+* You can use your [ad preferences](https://www.facebook.com/ads/preferences/edit/) to learn why you're seeing a particular ad and control how we use information that we collect to show you ads.
     
-*   To show you better ads, we use data that advertisers and other partners provide us about your activity off Meta Company Products, including websites and apps. You can control whether we use this data to show you ads in your [ad settings](https://www.facebook.com/ads/settings).
+* To show you better ads, we use data that advertisers and other partners provide us about your activity off Meta Company Products, including websites and apps. You can control whether we use this data to show you ads in your [ad settings](https://www.facebook.com/ads/settings).
     
-*   The Meta Audience Network is a way for advertisers to show you ads in apps and websites off the Meta Company Products. One of the ways that Audience Network shows relevant ads is by using your ad preferences to determine which ads you may be interested in seeing. You can control this in your [ad settings.](https://www.facebook.com/ads/settings)
+* The Meta Audience Network is a way for advertisers to show you ads in apps and websites off the Meta Company Products. One of the ways that Audience Network shows relevant ads is by using your ad preferences to determine which ads you may be interested in seeing. You can control this in your [ad settings.](https://www.facebook.com/ads/settings)
     
-*   You can review your off-Facebook activity, which is a summary of activity that businesses and organisations share with us about your interactions with them, such as visiting their apps or websites. They use our [business tools](https://www.facebook.com/help/2230503797265156?helpref=faq_content), such as Meta Pixel, to share this information with us. This helps us do things such as give you a more personalised experience on Meta Products. Learn more [about off-Facebook activity](https://www.facebook.com/help/2207256696182627?helpref=faq_content), how we use it and how you can manage it.
+* You can review your off-Facebook activity, which is a summary of activity that businesses and organisations share with us about your interactions with them, such as visiting their apps or websites. They use our [business tools](https://www.facebook.com/help/2230503797265156?helpref=faq_content), such as Meta Pixel, to share this information with us. This helps us do things such as give you a more personalised experience on Meta Products. Learn more [about off-Facebook activity](https://www.facebook.com/help/2207256696182627?helpref=faq_content), how we use it and how you can manage it.
     
 
 Everyone:
@@ -124,28 +124,28 @@ More information about online advertising:
 
 The advertising companies we work with generally use cookies and similar technologies as part of their services. To learn more about how advertisers generally use cookies and the choices they offer, you can review the following resources:  
 
-*   [Digital Advertising Alliance](http://www.aboutads.info/choices/)
+* [Digital Advertising Alliance](http://www.aboutads.info/choices/)
     
-*   [Digital Advertising Alliance of Canada](http://youradchoices.ca/)
+* [Digital Advertising Alliance of Canada](http://youradchoices.ca/)
     
-*   [European Interactive Digital Advertising Alliance](http://www.youronlinechoices.eu/)
+* [European Interactive Digital Advertising Alliance](http://www.youronlinechoices.eu/)
     
 
 Browser cookie controls:
 
 In addition, your browser or device may offer settings that allow you to choose whether browser cookies are set and to delete them. These controls vary by browser, and manufacturers may change both the settings that they make available and how they work at any time. As of 23 June 2021, you may find additional information about the controls offered by popular browsers at the links below. Certain parts of the Meta Products may not work properly if you have disabled browser cookie use. Please be aware that these controls are distinct from the controls that we offer you.  
 
-*   [Google Chrome](https://support.google.com/chrome/answer/95647)
+* [Google Chrome](https://support.google.com/chrome/answer/95647)
     
-*   [Internet Explorer](https://support.microsoft.com/en-ie/help/17442/windows-internet-explorer-delete-manage-cookies)
+* [Internet Explorer](https://support.microsoft.com/en-ie/help/17442/windows-internet-explorer-delete-manage-cookies)
     
-*   [Firefox](https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop)
+* [Firefox](https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop)
     
-*   [Safari](https://support.apple.com/en-ie/guide/safari/sfri11471/mac)
+* [Safari](https://support.apple.com/en-ie/guide/safari/sfri11471/mac)
     
-*   [Safari Mobile](https://support.apple.com/en-us/HT201265)
+* [Safari Mobile](https://support.apple.com/en-us/HT201265)
     
-*   [Opera](https://blogs.opera.com/news/2015/08/how-to-manage-cookies-in-opera/)
+* [Opera](https://blogs.opera.com/news/2015/08/how-to-manage-cookies-in-opera/)
     
 
   
