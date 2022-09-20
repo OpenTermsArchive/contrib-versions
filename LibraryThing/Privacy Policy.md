@@ -33,13 +33,13 @@ See LibraryThing Early Reviewers, below, for terms surrounding this optional pro
 
 All LibraryThing members have access to their own Member [Privacy Center](https://www.librarything.com/settings/privacy), where they can see and then update:
 
-*   Subscription settings for different types of LibraryThing emails
-*   Review-sharing preferences
-*   EU or non-EU residency
-*   Display preferences for name, location and other non-required fields
-*   Application-sharing preferences, such as to Facebook and Twitter
-*   Export and download account data (incomplete as of June 8, 2018)
-*   Disable or delete your account
+* Subscription settings for different types of LibraryThing emails
+* Review-sharing preferences
+* EU or non-EU residency
+* Display preferences for name, location and other non-required fields
+* Application-sharing preferences, such as to Facebook and Twitter
+* Export and download account data (incomplete as of June 8, 2018)
+* Disable or delete your account
 
 ### Private libraries
 
