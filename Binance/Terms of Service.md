@@ -100,20 +100,20 @@ You should be solely responsible for keeping safe of your Binance Account and pa
 
 By creating a Binance Account, you hereby agree that:
 
-1.  you will notify Binance immediately if you are aware of any unauthorized use of your Binance Account and password or any other violation of security rules;
+1. you will notify Binance immediately if you are aware of any unauthorized use of your Binance Account and password or any other violation of security rules;
     
-2.  you will strictly abide by all mechanisms or procedures of Binance regarding security, authentication, trading, charging, and withdrawal; and
+2. you will strictly abide by all mechanisms or procedures of Binance regarding security, authentication, trading, charging, and withdrawal; and
     
-3.  you will take appropriate steps to logout from Binance at the end of each visit.
+3. you will take appropriate steps to logout from Binance at the end of each visit.
     
 
 ### III. Binance Services
 
 Upon completion of the registration and identity verification for your Binance Account, you may use various Binance Services, including but not limited to, Crypto-to-crypto Trading, Fiat Trading, contract trading, leveraged trading, Binance Savings services, staking, acquiring market-related data, research and other information released by Binance, participating in User activities held by Binance, etc., in accordance with the provisions of these Terms (including Binance Platform Rules and other individual agreements). Binance has the right to:
 
-*   Provide, modify or terminate, in its discretion, any Binance Services; and
+* Provide, modify or terminate, in its discretion, any Binance Services; and
     
-*   Allow or prohibit some Users’ use of any Binance Services in accordance with relevant Binance Platform Rules.
+* Allow or prohibit some Users’ use of any Binance Services in accordance with relevant Binance Platform Rules.
     
 
 Binance has the exclusive authority to determine which Digital Assets are listed on the platform and may add or remove Digital Assets from the platform in its sole discretion, from time to time. Binance may also change the order size available for each Digital Asset. In respect of such additions, removals, or amendments, Binance may, but is not obliged to, notify Users in advance and Binance shall have no liability to Users in connection with such additions, removals or amendments.
@@ -132,13 +132,13 @@ Binance owns any feedback, suggestions, ideas, or other information or materials
 
 When you use Binance Services, you agree and undertake to comply with the following provisions:
 
-1.  During the use of Binance Services, all activities you carry out should comply with the requirements of applicable laws and regulations, these Terms, and various guidelines of Binance;
+1. During the use of Binance Services, all activities you carry out should comply with the requirements of applicable laws and regulations, these Terms, and various guidelines of Binance;
     
-2.  Your use of Binance Services should not violate public interests, public morals, or the legitimate interests of others, including any actions that would interfere with, disrupt, negatively affect, or prohibit other Users from using Binance Services;
+2. Your use of Binance Services should not violate public interests, public morals, or the legitimate interests of others, including any actions that would interfere with, disrupt, negatively affect, or prohibit other Users from using Binance Services;
     
-3.  You agree not to use the services for market manipulation (such as pump and dump schemes, wash trading, self-trading, front running, quote stuffing, and spoofing or layering, regardless of whether prohibited by law);
+3. You agree not to use the services for market manipulation (such as pump and dump schemes, wash trading, self-trading, front running, quote stuffing, and spoofing or layering, regardless of whether prohibited by law);
     
-4.  Without written consent from Binance, the following commercial uses of Binance data are prohibited:
+4. Without written consent from Binance, the following commercial uses of Binance data are prohibited:
     
     1) Trading services that make use of Binance quotes or market bulletin board information.
     
@@ -146,22 +146,22 @@ When you use Binance Services, you agree and undertake to comply with the follow
     
     3) Any other websites/apps/services that charge for or otherwise profit from (including through advertising or referral fees) market data obtained from Binance.
     
-5.  Without prior written consent from Binance, you may not modify, replicate, duplicate, copy, download, store, further transmit, disseminate, transfer, disassemble, broadcast, publish, remove or alter any copyright statement or label, or license, sub-license, sell, mirror, design, rent, lease, private label, grant security interests in the properties or any part of the properties, or create their derivative works or otherwise take advantage of any part of the properties.
+5. Without prior written consent from Binance, you may not modify, replicate, duplicate, copy, download, store, further transmit, disseminate, transfer, disassemble, broadcast, publish, remove or alter any copyright statement or label, or license, sub-license, sell, mirror, design, rent, lease, private label, grant security interests in the properties or any part of the properties, or create their derivative works or otherwise take advantage of any part of the properties.
     
-6.  You may not (i) use any deep linking, web crawlers, bots, spiders or other automatic devices, programs, scripts, algorithms or methods, or any similar or equivalent manual processes to access, obtain, copy or monitor any part of the properties, or replicate or bypass the navigational structure or presentation of Binance Services in any way, in order to obtain or attempt to obtain any materials, documents or information in any manner not purposely provided through Binance Services; (ii) attempt to access any part or function of the properties without authorization, or connect to Binance Services or any Binance servers or any other systems or networks of any Binance Services provided through the services by hacking, password mining or any other unlawful or prohibited means; (iii) probe, scan or test the vulnerabilities of Binance Services or any network connected to the properties, or violate any security or authentication measures on Binance Services or any network connected to Binance Services; (iv) reverse look-up, track or seek to track any information of any other Users or visitors of Binance Services; (v) take any actions that imposes an unreasonable or disproportionately large load on the infrastructure of systems or networks of Binance Services or Binance, or the infrastructure of any systems or networks connected to Binance services; (vi) use any devices, software or routine programs to interfere with the normal operation of Binance Services or any transactions on Binance Services, or any other person’s use of Binance Services; (vii) forge headers, impersonate, or otherwise manipulate identification, to disguise your identity or the origin of any messages or transmissions you send to Binance, or (viii) use Binance Services in an illegal way.
+6. You may not (i) use any deep linking, web crawlers, bots, spiders or other automatic devices, programs, scripts, algorithms or methods, or any similar or equivalent manual processes to access, obtain, copy or monitor any part of the properties, or replicate or bypass the navigational structure or presentation of Binance Services in any way, in order to obtain or attempt to obtain any materials, documents or information in any manner not purposely provided through Binance Services; (ii) attempt to access any part or function of the properties without authorization, or connect to Binance Services or any Binance servers or any other systems or networks of any Binance Services provided through the services by hacking, password mining or any other unlawful or prohibited means; (iii) probe, scan or test the vulnerabilities of Binance Services or any network connected to the properties, or violate any security or authentication measures on Binance Services or any network connected to Binance Services; (iv) reverse look-up, track or seek to track any information of any other Users or visitors of Binance Services; (v) take any actions that imposes an unreasonable or disproportionately large load on the infrastructure of systems or networks of Binance Services or Binance, or the infrastructure of any systems or networks connected to Binance services; (vi) use any devices, software or routine programs to interfere with the normal operation of Binance Services or any transactions on Binance Services, or any other person’s use of Binance Services; (vii) forge headers, impersonate, or otherwise manipulate identification, to disguise your identity or the origin of any messages or transmissions you send to Binance, or (viii) use Binance Services in an illegal way.
     
 
 By accessing Binance Services, you agree that Binance has the right to investigate any violation of these Terms, unilaterally determine whether you have violated these Terms, and take actions under relevant regulations without your consent or prior notice. Examples of such actions include, but are not limited to:
 
-*   Blocking and closing order requests;
+* Blocking and closing order requests;
     
-*   Freezing your account;
+* Freezing your account;
     
-*   Reporting the incident to the authorities;
+* Reporting the incident to the authorities;
     
-*   Publishing the alleged violations and actions that have been taken;
+* Publishing the alleged violations and actions that have been taken;
     
-*   Deleting any information you published that are found to be violations.
+* Deleting any information you published that are found to be violations.
     
 
 ### 2\. Crypto-to-crypto Trading
@@ -226,36 +226,36 @@ Unless otherwise specified by Binance, prior to conducting Margins Trading, you 
 
 Margins Trading is highly risky. As a leveraged trader, you acknowledge and agree that you access and use Margins Trading and borrowing services at your own risk, which include but are not limited to:
 
-1.  The liquidity, market depth and dynamics of the trading market fluctuate violently and change rapidly. The use of leverage may work to your advantage or disadvantage, which may result in major gains or losses as the case may be.
+1. The liquidity, market depth and dynamics of the trading market fluctuate violently and change rapidly. The use of leverage may work to your advantage or disadvantage, which may result in major gains or losses as the case may be.
     
-2.  You are not eligible to receive forked currencies split from any blockchain assets in your Collateral Account, even if you have not engaged in any Margins Trading or borrowing at all.
+2. You are not eligible to receive forked currencies split from any blockchain assets in your Collateral Account, even if you have not engaged in any Margins Trading or borrowing at all.
     
-3.  Loans carry risk, and the value of your blockchain assets may decline. If the value of your assets drops to a certain level, you are responsible for dealing with these market circumstances.
+3. Loans carry risk, and the value of your blockchain assets may decline. If the value of your assets drops to a certain level, you are responsible for dealing with these market circumstances.
     
-4.  In some market situations, you may find it difficult or impossible to liquidate a position. This may occur, for example, as a result of insufficient market liquidity or technical issues on Binance.
+4. In some market situations, you may find it difficult or impossible to liquidate a position. This may occur, for example, as a result of insufficient market liquidity or technical issues on Binance.
     
-5.  Placing contingent Orders does not necessarily limit your losses to the expected amount, as market conditions may prevent you from executing such orders.
+5. Placing contingent Orders does not necessarily limit your losses to the expected amount, as market conditions may prevent you from executing such orders.
     
-6.  Margins Trading does not have guaranteed measures against losses. As a borrower, you may suffer losses that exceed the amount you deposited into your Collateral Account.
+6. Margins Trading does not have guaranteed measures against losses. As a borrower, you may suffer losses that exceed the amount you deposited into your Collateral Account.
     
 
 **b. To start Margins Trading:**
 
-1.  You represent and warrant that you are neither from the U.S. nor on any list of trade embargoes or economic sanctions, such as the Specially Designated National by OFAC (The Office of Foreign Assets Control of the U.S. Department of the Treasury).
+1. You represent and warrant that you are neither from the U.S. nor on any list of trade embargoes or economic sanctions, such as the Specially Designated National by OFAC (The Office of Foreign Assets Control of the U.S. Department of the Treasury).
     
-2.  You should fully understand the risks associated with Margins Trading and Lending, and be fully responsible for any trading and non-trading activities under your Binance Account and Collateral Account. You should not engage in Transactions or invest in funds that are beyond your financial capacities;
+2. You should fully understand the risks associated with Margins Trading and Lending, and be fully responsible for any trading and non-trading activities under your Binance Account and Collateral Account. You should not engage in Transactions or invest in funds that are beyond your financial capacities;
     
-3.  You are fully responsible for knowing the true status of any position, even if Binance may present it incorrectly at any time;
+3. You are fully responsible for knowing the true status of any position, even if Binance may present it incorrectly at any time;
     
-4.  You agree to keep enough Digital Assets in your Collateral Account, as required by Binance for Users’ engagement in Margins Trading, and promptly repay your loan in full. Failure to keep enough assets or to timely repay the outstanding loan may result in forced liquidation of the assets in your Collateral Account;
+4. You agree to keep enough Digital Assets in your Collateral Account, as required by Binance for Users’ engagement in Margins Trading, and promptly repay your loan in full. Failure to keep enough assets or to timely repay the outstanding loan may result in forced liquidation of the assets in your Collateral Account;
     
-5.  Even if with the ability to forcefully liquidate any position, Binance cannot guarantee to stop losses. If your assets are insufficient to repay the outstanding loan after the liquidation of your position, you are still liable for any further shortfall of assets;
+5. Even if with the ability to forcefully liquidate any position, Binance cannot guarantee to stop losses. If your assets are insufficient to repay the outstanding loan after the liquidation of your position, you are still liable for any further shortfall of assets;
     
-6.  Binance may take measures, in its discretion and on your behalf, to reduce your potential losses, including but not limited to, transferring assets from your Collateral Account into your Binance Account and/or vice versa;
+6. Binance may take measures, in its discretion and on your behalf, to reduce your potential losses, including but not limited to, transferring assets from your Collateral Account into your Binance Account and/or vice versa;
     
-7.  During Binance system maintenance, you agree to be fully responsible for managing your Collateral Account under risks, including but not limited to, closing positions and repaying your loan.
+7. During Binance system maintenance, you agree to be fully responsible for managing your Collateral Account under risks, including but not limited to, closing positions and repaying your loan.
     
-8.  You agree to conduct all Transactions, Margins Trading and/or borrowing on your own, and be fully responsible for your activities. Binance assumes no liability for any loss or damage caused by your use of any Binance services or your unawareness of the risks associated with the use of Digital Assets or with your use of Binance Services.
+8. You agree to conduct all Transactions, Margins Trading and/or borrowing on your own, and be fully responsible for your activities. Binance assumes no liability for any loss or damage caused by your use of any Binance services or your unawareness of the risks associated with the use of Digital Assets or with your use of Binance Services.
     
 
 ### 7\. Lending Services
@@ -378,7 +378,7 @@ You agree to indemnify and hold harmless Binance Operators, their affiliates, co
 
 ### V. Announcements
 
-Please be aware that all official announcements, news, promotions, competitions and airdrops will be listed on [www.binance.com/en/support/announcement](https://www.binance.com/en/support/announcement%C2%A0) . **USERS UNDERTAKE TO REFER TO THESE MATERIALS REGULARLY AND PROMPTLY. BINANCE WILL NOT BE HELD LIABLE OR RESPONSIBLE IN ANY MANNER OF COMPENSATION SHOULD USERS INCUR PERSONAL LOSSES ARISING FROM IGNORANCE OR NEGLIGENCE OF THE ANNOUNCEMENTS.**
+Please be aware that all official announcements, news, promotions, competitions and airdrops will be listed on [www.binance.com/en/support/announcement](https://www.binance.com/en/support/announcement%C2%A0) . **USERS UNDERTAKE TO REFER TO THESE MATERIALS REGULARLY AND PROMPTLY. BINANCE WILL NOT BE HELD LIABLE OR RESPONSIBLE IN ANY MANNER OF COMPENSATION SHOULD USERS INCUR PERSONAL LOSSES ARISING FROM IGNORANCE OR NEGLIGENCE OF THE ANNOUNCEMENTS.**
 
 ### VI. Termination of Agreement
 
@@ -386,30 +386,30 @@ Please be aware that all official announcements, news, promotions, competitions 
 
 You agree that Binance shall have the right to immediately suspend your Binance Account (and any accounts beneficially owned by related entities or affiliates), freeze or lock the Digital Assets or funds in all such accounts, and suspend your access to Binance for any reason including if Binance suspects any such accounts to be in violation of these Terms, our Privacy Policy, or any applicable laws and regulations. You agree that Binance shall not be liable to you for any permanent or temporary modification of your Binance Account, or suspension or termination of your access to all or any portion of Binance Services. Binance shall reserve the right to keep and use the transaction data or other information related to such Binance Accounts. The above account controls may also be applied in the following cases:
 
-*   The Binance Account is subject to a governmental proceeding, criminal investigation or other pending litigation;
+* The Binance Account is subject to a governmental proceeding, criminal investigation or other pending litigation;
     
-*   We detect unusual activities in the Binance Account;
+* We detect unusual activities in the Binance Account;
     
-*   We detect unauthorized access to the Binance Account;
+* We detect unauthorized access to the Binance Account;
     
-*   We are required to do so by a court order or command by a regulatory/government authority.
+* We are required to do so by a court order or command by a regulatory/government authority.
     
 
 ### 2\. Cancellation of Binance Accounts
 
 In case of any of the following events, Binance shall have the right to directly terminate these Terms by cancelling your Binance Account, and shall enjoy the right but not the obligation to permanently freeze (cancel) the authorizations of your Binance Account on Binance and withdraw the corresponding Binance Account thereof:
 
-*   after Binance terminates services to you;
+* after Binance terminates services to you;
     
-*   you allegedly register or register in any other person’s name as a Binance User again, directly or indirectly;
+* you allegedly register or register in any other person’s name as a Binance User again, directly or indirectly;
     
-*   the information that you have provided is untruthful, inaccurate, outdated or incomplete;
+* the information that you have provided is untruthful, inaccurate, outdated or incomplete;
     
-*   when these Terms are amended, you state your unwillingness to accept the amended Terms by applying for cancellation of your Binance Account or by other means;
+* when these Terms are amended, you state your unwillingness to accept the amended Terms by applying for cancellation of your Binance Account or by other means;
     
-*   you request that Binance Services be terminated; and
+* you request that Binance Services be terminated; and
     
-*   any other circumstances where Binance deems it should terminate Binance Services.
+* any other circumstances where Binance deems it should terminate Binance Services.
     
 
 Should your Binance Account be terminated, the account and transactional information that meet data retention standards will be securely stored for 5 years. In addition, if a transaction is unfinished during the account termination process, Binance shall have the right to notify your counterparty of the situation at that time. You acknowledge that a user-initiated account exit (right to erasure under GDPR or other equivalent regulations) will also be subjected to the termination protocol stated above.
@@ -460,9 +460,9 @@ PLEASE READ THIS SECTION CAREFULLY, AS IT INVOLVES A WAIVER OF CERTAIN RIGHTS TO
 
 In the event the dispute cannot be resolved satisfactorily, and you wish to assert a legal claim against Binance, then you agree to set forth the basis of such claim in writing in a “Notice of Claim,” as a form of prior notice to Binance. The Notice of Claim must (1) describe the nature and basis of the claim or dispute, (2) set forth the specific relief sought, (3) provide the original ticket number, and (4) include your Binance account email. The Notice of Claim should be submitted to an email address or hyperlink provided in your correspondence with Binance. After you have provided the Notice of Claim to Binance, the dispute referenced in the Notice of Claim may be submitted by either Binance or you to arbitration in accordance with paragraph 2 of this Section, below. For the avoidance of doubt, the submission of a dispute to Binance for resolution internally and the delivery of a Notice of Claim to Binance are prerequisites to commencement of an arbitration proceeding (or any other legal proceeding). During the arbitration, the amount of any settlement offer made by you or Binance shall not be disclosed to the arbitrator.
 
-**2\. Agreement to Arbitrate and Governing Law. ** You and Binance Operators agree that, subject to paragraph 1 above, any dispute, claim, or controversy between you and Binance (and/or Binance Operators) arising in connection with or relating in any way to these Terms or to your relationship with Binance (and/or Binance Operators) as a user of Binance Services (whether based in contract, tort, statute, fraud, misrepresentation, or any other legal theory, and whether the claims arise during or after the termination of these Terms) will be determined by mandatory final and binding individual (not class) arbitration, except as set forth below under Exceptions to Agreement to Arbitrate. You and Binance Operators further agree that the arbitrator shall have the exclusive power to rule on his or her own jurisdiction, including without limitation any objections with respect to the existence, scope or validity of the Agreement to Arbitrate, or to the arbitrability of any claim or counterclaim. Arbitration is more informal than a lawsuit in court. THERE IS NO JUDGE OR JURY IN ARBITRATION, AND COURT REVIEW OF AN ARBITRATION AWARD IS LIMITED. There may be more limited discovery than in court. The arbitrator must follow this agreement and can award the same damages and relief as a court (including, if applicable, attorney fees), except that the arbitrator may not award declaratory or injunctive relief in favour of anyone but the parties to the arbitration. The arbitration provisions set forth in this Section will survive termination of these Terms. Arbitration Rules. The arbitration shall be subject to the HKIAC Administered Arbitration Rules (HKIAC. Rules) in force when the Notice of Arbitration is submitted, as modified by this Section X. The arbitration will be administered by the Hong Kong International Arbitration Centre (HKIAC). Unless the parties agree otherwise, there shall be only one arbitrator appointed in accordance with the HKIAC Rules. Any arbitration will be conducted in the English language. Regardless of the manner in which the arbitration is conducted, the arbitrator shall issue a reasoned written decision sufficient to explain the essential findings and conclusions on which the decision and award, if any, are based. JUDGMENT ON ANY ARBITRAL AWARD MAY BE GIVEN IN ANY COURT HAVING JURISDICTION OVER THE PARTY (OR OVER THE ASSETS OF THE PARTY) AGAINST WHOM SUCH AN AWARD IS RENDERED. Time for Filing: ANY ARBITRATION AGAINST BINANCE OPERATORS MUST BE COMMENCED BY FILING A REQUEST FOR ARBITRATION WITHIN ONE (1) YEAR, AFTER THE DATE THE PARTY ASSERTING THE CLAIM FIRST KNOWS OR REASONABLY SHOULD KNOW OF THE ACT, OMISSION OR DEFAULT GIVING RISE TO THE CLAIM; AND THERE SHALL BE NO RIGHT TO ANY REMEDY FOR ANY CLAIM NOT ASSERTED WITHIN THAT TIME PERIOD. THIS ONE YEAR LIMITATION PERIOD IS INCLUSIVE OF THE INTERNAL DISPUTE RESOLUTION PROCEDURE SET FORTH IN PARAGRAPH 1 OF THIS SECTION, ABOVE. THERE SHALL BE NO RIGHT TO ANY REMEDY FOR ANY CLAIM NOT ASSERTED WITHIN THAT TIME PERIOD. If applicable law prohibits a one-year limitation period for asserting claims, any claim must be asserted within the shortest time period permitted by applicable law. Process; Notice: The party who intends to seek arbitration after the expiration of the Dispute Resolution Period set forth in paragraph 1, above, must submit a request to the HKIAC in accordance with the HKIAC Rules. If we request arbitration against you, we will give you notice at the email address or mailing address you have provided. You agree that any notice sent to this email or mailing address shall be deemed effective for all purposes, including without limitation to determinations of adequacy of service. It is your obligation to ensure that the email address and/or mailing address on file with Binance is up-to-date and accurate. Seat of Arbitration: The seat of the arbitration shall be Hong Kong. Place of Hearing: The location of any in-person arbitration hearing shall be Hong Kong, unless otherwise agreed to by the parties. Governing Law: These Terms (including this arbitration agreement) shall be governed by, and construed in accordance with, the laws of Hong Kong. Confidentiality. The parties agree that the arbitration shall be kept confidential. The existence of the arbitration, any nonpublic information provided in the arbitration, and any submissions, orders or awards made in the arbitration (together, the “Confidential Information”) shall not be disclosed to any non-party except the tribunal, the HKIAC, the parties, their counsel, experts, witnesses, accountants and auditors, insurers and reinsurers, and any other person necessary to the conduct of the arbitration. Notwithstanding the foregoing, a party may disclose Confidential Information to the extent that disclosure may be required to fulfill a legal duty, protect or pursue a legal right, or enforce or challenge an award in bona fide legal proceedings. This confidentiality provision shall survive termination of these Terms and of any arbitration brought pursuant to these Terms.
+**2\. Agreement to Arbitrate and Governing Law.**  You and Binance Operators agree that, subject to paragraph 1 above, any dispute, claim, or controversy between you and Binance (and/or Binance Operators) arising in connection with or relating in any way to these Terms or to your relationship with Binance (and/or Binance Operators) as a user of Binance Services (whether based in contract, tort, statute, fraud, misrepresentation, or any other legal theory, and whether the claims arise during or after the termination of these Terms) will be determined by mandatory final and binding individual (not class) arbitration, except as set forth below under Exceptions to Agreement to Arbitrate. You and Binance Operators further agree that the arbitrator shall have the exclusive power to rule on his or her own jurisdiction, including without limitation any objections with respect to the existence, scope or validity of the Agreement to Arbitrate, or to the arbitrability of any claim or counterclaim. Arbitration is more informal than a lawsuit in court. THERE IS NO JUDGE OR JURY IN ARBITRATION, AND COURT REVIEW OF AN ARBITRATION AWARD IS LIMITED. There may be more limited discovery than in court. The arbitrator must follow this agreement and can award the same damages and relief as a court (including, if applicable, attorney fees), except that the arbitrator may not award declaratory or injunctive relief in favour of anyone but the parties to the arbitration. The arbitration provisions set forth in this Section will survive termination of these Terms. Arbitration Rules. The arbitration shall be subject to the HKIAC Administered Arbitration Rules (HKIAC. Rules) in force when the Notice of Arbitration is submitted, as modified by this Section X. The arbitration will be administered by the Hong Kong International Arbitration Centre (HKIAC). Unless the parties agree otherwise, there shall be only one arbitrator appointed in accordance with the HKIAC Rules. Any arbitration will be conducted in the English language. Regardless of the manner in which the arbitration is conducted, the arbitrator shall issue a reasoned written decision sufficient to explain the essential findings and conclusions on which the decision and award, if any, are based. JUDGMENT ON ANY ARBITRAL AWARD MAY BE GIVEN IN ANY COURT HAVING JURISDICTION OVER THE PARTY (OR OVER THE ASSETS OF THE PARTY) AGAINST WHOM SUCH AN AWARD IS RENDERED. Time for Filing: ANY ARBITRATION AGAINST BINANCE OPERATORS MUST BE COMMENCED BY FILING A REQUEST FOR ARBITRATION WITHIN ONE (1) YEAR, AFTER THE DATE THE PARTY ASSERTING THE CLAIM FIRST KNOWS OR REASONABLY SHOULD KNOW OF THE ACT, OMISSION OR DEFAULT GIVING RISE TO THE CLAIM; AND THERE SHALL BE NO RIGHT TO ANY REMEDY FOR ANY CLAIM NOT ASSERTED WITHIN THAT TIME PERIOD. THIS ONE YEAR LIMITATION PERIOD IS INCLUSIVE OF THE INTERNAL DISPUTE RESOLUTION PROCEDURE SET FORTH IN PARAGRAPH 1 OF THIS SECTION, ABOVE. THERE SHALL BE NO RIGHT TO ANY REMEDY FOR ANY CLAIM NOT ASSERTED WITHIN THAT TIME PERIOD. If applicable law prohibits a one-year limitation period for asserting claims, any claim must be asserted within the shortest time period permitted by applicable law. Process; Notice: The party who intends to seek arbitration after the expiration of the Dispute Resolution Period set forth in paragraph 1, above, must submit a request to the HKIAC in accordance with the HKIAC Rules. If we request arbitration against you, we will give you notice at the email address or mailing address you have provided. You agree that any notice sent to this email or mailing address shall be deemed effective for all purposes, including without limitation to determinations of adequacy of service. It is your obligation to ensure that the email address and/or mailing address on file with Binance is up-to-date and accurate. Seat of Arbitration: The seat of the arbitration shall be Hong Kong. Place of Hearing: The location of any in-person arbitration hearing shall be Hong Kong, unless otherwise agreed to by the parties. Governing Law: These Terms (including this arbitration agreement) shall be governed by, and construed in accordance with, the laws of Hong Kong. Confidentiality. The parties agree that the arbitration shall be kept confidential. The existence of the arbitration, any nonpublic information provided in the arbitration, and any submissions, orders or awards made in the arbitration (together, the “Confidential Information”) shall not be disclosed to any non-party except the tribunal, the HKIAC, the parties, their counsel, experts, witnesses, accountants and auditors, insurers and reinsurers, and any other person necessary to the conduct of the arbitration. Notwithstanding the foregoing, a party may disclose Confidential Information to the extent that disclosure may be required to fulfill a legal duty, protect or pursue a legal right, or enforce or challenge an award in bona fide legal proceedings. This confidentiality provision shall survive termination of these Terms and of any arbitration brought pursuant to these Terms.
 
-**3\. Class Action Waiver. ** You and Binance agree that any claims relating to these Terms or to your relationship with Binance as a user of Binance Services (whether based in contract, tort, statute, fraud, misrepresentation, or any other legal theory, and whether the claims arise during or after the termination of these Terms) shall be brought against the other party in an arbitration on an individual basis only and not as a plaintiff or class member in a purported class or representative action. You and Binance further agree to waive any right for such claims to be brought, heard, or arbitrated as a class, collective, representative, or private attorney general action, to the extent permissible by applicable law. Combining or consolidating individual arbitrations into a single arbitration is not permitted without the consent of all parties, including Binance.
+**3\. Class Action Waiver.**  You and Binance agree that any claims relating to these Terms or to your relationship with Binance as a user of Binance Services (whether based in contract, tort, statute, fraud, misrepresentation, or any other legal theory, and whether the claims arise during or after the termination of these Terms) shall be brought against the other party in an arbitration on an individual basis only and not as a plaintiff or class member in a purported class or representative action. You and Binance further agree to waive any right for such claims to be brought, heard, or arbitrated as a class, collective, representative, or private attorney general action, to the extent permissible by applicable law. Combining or consolidating individual arbitrations into a single arbitration is not permitted without the consent of all parties, including Binance.
 
 **4\. Modifications.** Binance reserves the right to update, modify, revise, suspend, or make any future changes to Section X regarding the parties’ Agreement to Arbitrate, subject to applicable law. You hereby consent and agree that it is your responsibility to ensure that your understanding of this Section is up to date. Subject to the applicable law, your continued use of your Binance account shall be deemed to be your acceptance of any modifications to Section X regarding the parties’ Agreement to Arbitrate. You agree that if you object to the modifications to Section X, Binance may block access to your account pending closure of your account. In such circumstances, the Terms of Use prior to modification shall remain in full force and effect pending closure of your account.
 
@@ -470,24 +470,24 @@ In the event the dispute cannot be resolved satisfactorily, and you wish to asse
 
 ### XI. Miscellaneous
 
-**1\. Independent Parties.** Binance is an independent contractor but not an agent of you in the performance of these Terms. These Terms shall not be interpreted as facts or evidence of an association, joint venture, partnership, or franchise between the parties.
+**1\. Independent Parties.** Binance is an independent contractor but not an agent of you in the performance of these Terms. These Terms shall not be interpreted as facts or evidence of an association, joint venture, partnership, or franchise between the parties.
 
-**2\. Entire Agreement.** These Terms constitute the entire agreement between the parties regarding use of Binance Services and will supersede all prior written or oral agreements between the parties. No usage of trade or other regular practice or method of dealing between the parties will be used to modify, interpret, supplement, or alter the terms herein.
+**2\. Entire Agreement.** These Terms constitute the entire agreement between the parties regarding use of Binance Services and will supersede all prior written or oral agreements between the parties. No usage of trade or other regular practice or method of dealing between the parties will be used to modify, interpret, supplement, or alter the terms herein.
 
-**3\. Interpretation and Revision.** Binance reserves the right to alter, revise, modify, and/or change these Terms at any time. All changes will take effect immediately upon being published on Binance websites. It is your responsibility to regularly check relevant pages on our websites/applications to confirm the latest version of these Terms. If you do not agree to any such modifications, your only remedy is to terminate your usage of Binance Services and cancel your account. You agree that, unless otherwise expressly provided in these Terms, Binance will not be responsible for any modification or termination of Binance Services by you or any third party, or suspension or termination of your access to Binance Services.
+**3\. Interpretation and Revision.** Binance reserves the right to alter, revise, modify, and/or change these Terms at any time. All changes will take effect immediately upon being published on Binance websites. It is your responsibility to regularly check relevant pages on our websites/applications to confirm the latest version of these Terms. If you do not agree to any such modifications, your only remedy is to terminate your usage of Binance Services and cancel your account. You agree that, unless otherwise expressly provided in these Terms, Binance will not be responsible for any modification or termination of Binance Services by you or any third party, or suspension or termination of your access to Binance Services.
 
 **4\. Language & Translations**: These Terms may, at Binance’s sole and absolute discretion, be translated into a language other than the English language. You agree that any such translation shall only be for your convenience and the English text shall prevail in the event of any ambiguity, discrepancy or omission as between the English text and any translated text.
 
-**5\. Force Majeure.** Binance will not be liable for any delay or failure to perform as required by these Terms because of any cause or condition beyond Binance’s reasonable control.
+**5\. Force Majeure.** Binance will not be liable for any delay or failure to perform as required by these Terms because of any cause or condition beyond Binance’s reasonable control.
 
 **6\. Severability.** If any portion of these Terms is held invalid or unenforceable, such invalidity or enforceability will not affect the other provisions of these Terms, which will remain in full force and effect, and the invalid or unenforceable portion will be given effect to the greatest extent possible.
 
-**7\. Assignment.** You may not assign or transfer any right to use Binance Services or any of your rights or obligations under these Terms without prior written consent from Binance, including any right or obligation related to the enforcement of laws or the change of control. Binance may assign or transfer any or all of its rights or obligations under these Terms, in whole or in part, without notice or obtaining your consent or approval.
+**7\. Assignment.** You may not assign or transfer any right to use Binance Services or any of your rights or obligations under these Terms without prior written consent from Binance, including any right or obligation related to the enforcement of laws or the change of control. Binance may assign or transfer any or all of its rights or obligations under these Terms, in whole or in part, without notice or obtaining your consent or approval.
 
-**8\. Waiver.** The failure of one party to require performance of any provision will not affect that party’s right to require performance at any time thereafter. At the same time, the waiver of one party to seek recovery for the other party’s violation of these Terms or any provision of applicable terms shall not constitute a waiver by that party of any subsequent breach or violation by the other party or of the provision itself.
+**8\. Waiver.** The failure of one party to require performance of any provision will not affect that party’s right to require performance at any time thereafter. At the same time, the waiver of one party to seek recovery for the other party’s violation of these Terms or any provision of applicable terms shall not constitute a waiver by that party of any subsequent breach or violation by the other party or of the provision itself.
 
-**9\. Third-Party Website Disclaimer. ** Any links to third-party websites from Binance Services does not imply endorsement by Binance of any product, service, information or disclaimer presented therein, nor does Binance guarantee the accuracy of the information contained on them. If you suffer loss from using such third-party product and service, Binance will not be liable for such loss. In addition, since Binance has no control over the terms of use or privacy policies of third-party websites, you should read and understand those policies carefully.
+**9\. Third-Party Website Disclaimer.**  Any links to third-party websites from Binance Services does not imply endorsement by Binance of any product, service, information or disclaimer presented therein, nor does Binance guarantee the accuracy of the information contained on them. If you suffer loss from using such third-party product and service, Binance will not be liable for such loss. In addition, since Binance has no control over the terms of use or privacy policies of third-party websites, you should read and understand those policies carefully.
 
 **10\. Matters Related to Apple Inc.** If you use any device manufactured by Apple Inc. to participate in any commercial activities or reward programs through Binance Services, such activities and programs are provided by Binance and are not associated with Apple Inc. in any manner.
 
-**11\. Contact Information. ** For more information on Binance, you may refer to the company and license information found on Binance websites. If you have questions regarding these Terms, please feel free to contact Binance for clarification via our Customer Support team at [www.binance.com/en/support/requests/new](https://www.binance.com/en/support/requests/new).
+**11\. Contact Information.**  For more information on Binance, you may refer to the company and license information found on Binance websites. If you have questions regarding these Terms, please feel free to contact Binance for clarification via our Customer Support team at [www.binance.com/en/support/requests/new](https://www.binance.com/en/support/requests/new).
