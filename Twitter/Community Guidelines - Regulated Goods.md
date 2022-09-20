@@ -1,29 +1,29 @@
 Illegal or certain regulated goods or services
 ==============================================
 
-### Overview 
+### Overview 
 
 **April 2019**
 
-**You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services.** 
+**You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services.**  
 
 Twitter takes the safety of our users seriously. In an effort to address the potential for real-world harm, we do not allow the use of Twitter for any unlawful behavior or to further illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. In some cases, we may ask you to contact a law enforcement agency and have them contact us via our law enforcement request page to ensure we have enough context to enforce this policy. In addition to reports received, we proactively surface activity that may violate this policy for human review. 
 
 Goods or services covered under this policy include, but are not limited to:
 
-*   counterfeit goods and services\*;
-*   drugs and controlled substances;
-*   human trafficking;
-*   products made from endangered or protected species;
-*   sexual services;
-*   stolen goods; and
-*   weapons, including firearms, ammunition, and explosives, and instructions on making weapons (e.g. bombs, 3D printed guns, etc.)  
+* counterfeit goods and services\*;
+* drugs and controlled substances;
+* human trafficking;
+* products made from endangered or protected species;
+* sexual services;
+* stolen goods; and
+* weapons, including firearms, ammunition, and explosives, and instructions on making weapons (e.g. bombs, 3D printed guns, etc.)  
      
 
 \*Learn more about our [counterfeit](https://help.twitter.com/rules-and-policies/counterfeit-goods-policy) policy.  
   
 
-### What happens if you violate this policy? 
+### What happens if you violate this policy? 
 
 The consequences for violating this policy depends on the severity of the violation and the account’s previous history of violations.
 
@@ -34,6 +34,6 @@ Accounts that appear to be using misleading account information in order to enga
 If you believe that your account was suspended in error, you can [submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
  
 
-### Additional resources 
+### Additional resources 
 
 Learn more about [our range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
