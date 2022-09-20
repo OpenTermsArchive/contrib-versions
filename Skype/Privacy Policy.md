@@ -26,13 +26,13 @@ We rely on a variety of legal reasons and permissions (sometimes called “legal
 
 We also obtain data from third parties. We protect data obtained from third parties according to the practices described in this statement, plus any additional restrictions imposed by the source of the data. These third-party sources vary over time and include:
 
-*   Data brokers from which we purchase demographic data to supplement the data we collect.
-*   Services that make user-generated content from their service available to others, such as local business reviews or public social media posts.
-*   Communication services, including email providers and social networks, when you give us permission to access your data on such third-party services or networks.
-*   Service providers that help us determine your device’s location.
-*   Partners with which we offer co-branded services or engage in joint marketing activities.
-*   Developers who create experiences through or for Microsoft products.
-*   Third parties that deliver experiences through Microsoft products. Publicly-available sources, such as open public sector, academic, and commercial data sets and other data sources.
+* Data brokers from which we purchase demographic data to supplement the data we collect.
+* Services that make user-generated content from their service available to others, such as local business reviews or public social media posts.
+* Communication services, including email providers and social networks, when you give us permission to access your data on such third-party services or networks.
+* Service providers that help us determine your device’s location.
+* Partners with which we offer co-branded services or engage in joint marketing activities.
+* Developers who create experiences through or for Microsoft products.
+* Third parties that deliver experiences through Microsoft products. Publicly-available sources, such as open public sector, academic, and commercial data sets and other data sources.
 
 If you represent an organisation, such as a business or school, that utilises Enterprise and Developer Products from Microsoft, please see the [Enterprise and developer products](#mainenterprisedeveloperproductsmodule) section of this privacy statement to learn how we process your data. If you are an end user of a Microsoft product or a Microsoft account provided by your organisation, please see the [Products provided by your organisation](#mainnoticetoendusersmodule) and the [Microsoft account](#mainmicrosoftaccountmodule) sections for more information.
 
@@ -54,28 +54,28 @@ The data we collect can include the following:
 
 **Interactions**. Data about your use of Microsoft products. In some cases, such as search queries, this is data you provide in order to make use of the products. In other cases, such as error reports, this is data we generate. Other examples of interactions data include:
 
-*   **Device and usage data**. Data about your device and the product and features you use, including information about your hardware and software, how our products perform, as well as your settings. For example:
-    *   **Payment and account history**. Data about the items you purchase and activities associated with your account.
-    *   **Browse history**. Data about the webpages you visit.
-    *   **Device, connectivity and configuration data**. Data about your device, your device configuration and nearby networks. For example, data about the operating systems and other software installed on your device, including product keys. In addition, IP address, device identifiers (such as the IMEI number for phones), regional and language settings and information about WLAN access points near your device.
-    *   **Error reports and performance data**. Data about the performance of the products and any problems you experience, including error reports. Error reports (sometimes called “crash dumps”) can include details of the software or hardware related to an error, contents of files opened when an error occurred, and data about other software on your device.
-    *   **Troubleshooting and help data**. Data you provide when you contact Microsoft for help, such as the products you use, and other details that help us provide support. For example, contact or authentication data, the content of your chats and other communications with Microsoft, data about the condition of your device, and the products you use related to your help enquiry. When you contact us, such as for customer support, phone conversations or chat sessions with our representatives may be monitored and recorded.
-    *   **Bot usage data**. Interactions with third-party bots and skills available through Microsoft products.
-*   **Interests and favourites**. Data about your interests and favourites, such as the sports teams you follow, the programming languages you prefer, the stocks you track or cities you add to track things like weather or traffic. In addition to those you explicitly provide, your interests and favourites can also be inferred or derived from other data we collect.
-*   **Content consumption data**. Information about media content (e.g., TV, video, music, audio, text books, apps, and games) you access through our products.
-*   **Searches and commands**. Search queries and commands when you use Microsoft products with search or related productivity functionality.
-*   **Voice data**. Your voice data, sometimes referred to as “voice clips”, such as search queries, commands, or dictation you speak, which may include background sounds.
-*   **Text, inking, and typing data**. Text, inking, and typing data and related information. For example, when we collect inking data, we collect information about the placement of your inking instrument on your device.
-*   **Images**. Images and related information, such as picture metadata. For example, we collect the image you provide when you use a Bing image-enabled service.
-*   **Contacts and relationships**. Data about your contacts and relationships if you use a product to share information with others, manage contacts, communicate with others, or improve your productivity.
-*   **Social data**. Information about your relationships and interactions between you, other people, and organisations, such as types of engagement (e.g. likes, dislikes, events, etc.) related to people and organisations.
-*   **Location data**. Data about your device’s location, which can be either precise or imprecise. For example, we collect location data using Global Navigation Satellite System (GNSS) (e.g., GPS) and data about nearby cell towers and Wi-Fi hotspots. Location can also be inferred from a device’s IP address or data in your account profile that indicates where it is located with less precision, such as at a city or postcode level.
-*   **Other input**. Other inputs provided when you use our products. For example, data such as the buttons you press on an Xbox wireless controller using the Xbox network, skeletal tracking data when you use Kinect, and other sensor data, like the number of steps you take, when you use devices that have applicable sensors. And, if you use Spend, at your direction, we also collect financial transaction data from your credit card issuer to provide the service. If you attend an in-store event, we collect the data you provide to us when registering for or during the event and if you enter into a prize promotion, we collect the data you input into the entry form.
+* **Device and usage data**. Data about your device and the product and features you use, including information about your hardware and software, how our products perform, as well as your settings. For example:
+    * **Payment and account history**. Data about the items you purchase and activities associated with your account.
+    * **Browse history**. Data about the webpages you visit.
+    * **Device, connectivity and configuration data**. Data about your device, your device configuration and nearby networks. For example, data about the operating systems and other software installed on your device, including product keys. In addition, IP address, device identifiers (such as the IMEI number for phones), regional and language settings and information about WLAN access points near your device.
+    * **Error reports and performance data**. Data about the performance of the products and any problems you experience, including error reports. Error reports (sometimes called “crash dumps”) can include details of the software or hardware related to an error, contents of files opened when an error occurred, and data about other software on your device.
+    * **Troubleshooting and help data**. Data you provide when you contact Microsoft for help, such as the products you use, and other details that help us provide support. For example, contact or authentication data, the content of your chats and other communications with Microsoft, data about the condition of your device, and the products you use related to your help enquiry. When you contact us, such as for customer support, phone conversations or chat sessions with our representatives may be monitored and recorded.
+    * **Bot usage data**. Interactions with third-party bots and skills available through Microsoft products.
+* **Interests and favourites**. Data about your interests and favourites, such as the sports teams you follow, the programming languages you prefer, the stocks you track or cities you add to track things like weather or traffic. In addition to those you explicitly provide, your interests and favourites can also be inferred or derived from other data we collect.
+* **Content consumption data**. Information about media content (e.g., TV, video, music, audio, text books, apps, and games) you access through our products.
+* **Searches and commands**. Search queries and commands when you use Microsoft products with search or related productivity functionality.
+* **Voice data**. Your voice data, sometimes referred to as “voice clips”, such as search queries, commands, or dictation you speak, which may include background sounds.
+* **Text, inking, and typing data**. Text, inking, and typing data and related information. For example, when we collect inking data, we collect information about the placement of your inking instrument on your device.
+* **Images**. Images and related information, such as picture metadata. For example, we collect the image you provide when you use a Bing image-enabled service.
+* **Contacts and relationships**. Data about your contacts and relationships if you use a product to share information with others, manage contacts, communicate with others, or improve your productivity.
+* **Social data**. Information about your relationships and interactions between you, other people, and organisations, such as types of engagement (e.g. likes, dislikes, events, etc.) related to people and organisations.
+* **Location data**. Data about your device’s location, which can be either precise or imprecise. For example, we collect location data using Global Navigation Satellite System (GNSS) (e.g., GPS) and data about nearby cell towers and Wi-Fi hotspots. Location can also be inferred from a device’s IP address or data in your account profile that indicates where it is located with less precision, such as at a city or postcode level.
+* **Other input**. Other inputs provided when you use our products. For example, data such as the buttons you press on an Xbox wireless controller using the Xbox network, skeletal tracking data when you use Kinect, and other sensor data, like the number of steps you take, when you use devices that have applicable sensors. And, if you use Spend, at your direction, we also collect financial transaction data from your credit card issuer to provide the service. If you attend an in-store event, we collect the data you provide to us when registering for or during the event and if you enter into a prize promotion, we collect the data you input into the entry form.
 
 **Content**. Content of your files and communications you input, upload, receive, create, and control. For example, if you transmit a file using Skype to another Skype user, we need to collect the content of that file to display it to you and the other user. If you receive an email using Outlook.com, we need to collect the content of that email to deliver it to your inbox, display it to you, enable you to reply to it, and store it for you until you choose to delete it. Other content we collect when providing products to you include:
 
-*   Communications, including audio, video, text (typed, inked, dictated, or otherwise), in a message, email, call, meeting request, or chat.
-*   Photos, images, songs, movies, software, and other media or documents you store, retrieve, or otherwise process with our cloud.
+* Communications, including audio, video, text (typed, inked, dictated, or otherwise), in a message, email, call, meeting request, or chat.
+* Photos, images, songs, movies, software, and other media or documents you store, retrieve, or otherwise process with our cloud.
 
 **Video or recordings**. Recordings of events and activities at Microsoft buildings, retail spaces, and other locations. If you enter Microsoft Store locations or other facilities, or attend a Microsoft event that is recorded, we may process your image and voice data.
 
@@ -89,10 +89,10 @@ How we use personal dataHow we use personal datamainhowweusepersonaldatamodule
 
 Microsoft uses the data we collect to provide you with rich, interactive experiences. In particular, we use data to:
 
-*   Provide our products, which includes updating, securing, and troubleshooting, as well as providing support. It also includes sharing data, when it is required to provide the service or carry out the transactions you request.
-*   Improve and develop our products.
-*   Personalise our products and make recommendations.
-*   Advertise and market to you, which includes sending promotional communications, targeting advertising, and presenting you with relevant offers.
+* Provide our products, which includes updating, securing, and troubleshooting, as well as providing support. It also includes sharing data, when it is required to provide the service or carry out the transactions you request.
+* Improve and develop our products.
+* Personalise our products and make recommendations.
+* Advertise and market to you, which includes sending promotional communications, targeting advertising, and presenting you with relevant offers.
 
 We also use the data to operate our business, which includes analysing our performance, meeting our legal obligations, developing our workforce and doing research.
 
@@ -102,10 +102,10 @@ Our processing of personal data for these purposes includes both automated and m
 
 Microsoft uses the data we collect to provide you rich, interactive experiences. In particular, we use data to:
 
-*   Provide our products, which includes updating, securing, and troubleshooting, as well as providing support. It also includes sharing data, when it is required to provide the service or carry out the transactions you request.
-*   Improve and develop our products.
-*   Personalise our products and make recommendations.
-*   Advertise and market to you, which includes sending promotional communications, targeting advertising, and presenting you relevant offers.
+* Provide our products, which includes updating, securing, and troubleshooting, as well as providing support. It also includes sharing data, when it is required to provide the service or carry out the transactions you request.
+* Improve and develop our products.
+* Personalise our products and make recommendations.
+* Advertise and market to you, which includes sending promotional communications, targeting advertising, and presenting you relevant offers.
 
 We also use the data to operate our business, which includes analysing our performance, meeting our legal obligations, developing our workforce and doing research.
 
@@ -117,24 +117,24 @@ When we process personal data about you, we do so with your consent and/or as re
 
 **More on the purposes of processing:**
 
-*   **Provide our products**. We use data to operate our products and provide you with rich, interactive experiences. For example, if you use OneDrive, we process the documents you upload to OneDrive to enable you to retrieve, delete, edit, forward, or otherwise process it, at your direction as part of the service. Or, for example, if you enter a search query in the Bing search engine, we use that query to display search results to you. Additionally, as communications are a feature of various products, programmes and activities, we use data to contact you. For example, we may contact you by phone or email or other means to inform you when a subscription is ending or discuss your licensing account. We also communicate with you to secure our products, for example by letting you know when product updates are available.
-*   **Product improvement**. We use data to continually improve our products, including adding new features or capabilities. For example, we use error reports to improve security features, search queries and clicks in Bing to improve the relevancy of the search results, usage data to determine what new features to prioritise, and voice data to develop and improve speech recognition accuracy.
-*   **Personalisation**. Many products include personalised features, such as recommendations that enhance your productivity and enjoyment. These features use automated processes to tailor your product experiences based on the data we have about you, such as inferences we make about you and your use of the product, activities, interests, and location. For example, depending on your settings, if you stream movies in a browser on your Windows device, you may see a recommendation for an app from the Microsoft Store that streams more efficiently. If you have a Microsoft account, with your permission, we can sync your settings on several devices. Many of our products provide controls to disable personalised features.
-*   **Product activation**. We use data—such as device and application type, location, and unique device, application, network, and subscription identifiers—to activate products that require activation.
-*   **Product development**. We use data to develop new products. For example, we use data, often de-identified, to better understand our customers’ computing and productivity needs which can shape the development of new products.
-*   **Customer support**. We use data to troubleshoot and diagnose product problems, repair customers’ devices, and provide other customer care and support services, including to help us provide, improve, and secure the quality of our products, services, and training, and to investigate security incidents. Call recording data may also be used to authenticate or identify you based on your voice to enable Microsoft to provide support services and investigate security incidents.
-*   **Help secure and troubleshoot**. We use data to help secure and troubleshoot our products. This includes using data to protect the security and safety of our products and customers, detecting malware and malicious activities, troubleshooting performance and compatibility issues to help customers get the most out of their experiences, and notifying customers of updates to our products. This may include using automated systems to detect security and safety issues.
-*   **Safety**. We use data to protect the safety of our products and our customers. Our security features and products can disrupt the operation of malicious software and notify users if malicious software is found on their devices. For example, some of our products, such as Outlook.com or OneDrive, systematically scan content in an automated manner to identify suspected spam, viruses, abusive actions, or URLs that have been flagged as fraud, phishing, or malware links; and we reserve the right to block delivery of a communication or remove content if it violates our terms. **In accordance with European Union Regulation (EU) 2021/1232, we have invoked the derogation permitted by that Regulation from Articles 5(1) and 6(1) of EU Directive 2002/58/EC. We use scanning technologies to create digital signatures (known as “hashes”) of certain images and video content on our systems. These technologies then compare the hashes they generate with hashes of reported child sexual exploitation and abuse imagery (known as a “hash set”), in a process called “hash matching”. Microsoft obtains hash sets from organisations that act in the public interest against child sex abuse. This can result in sharing information with the National Centre for Missing and Exploited Children (NCMEC) and law enforcement authorities.**
-*   **Updates**. We use data we collect to develop product updates and security patches. For example, we may use information about your device’s capabilities, such as available memory, to provide you a software update or security patch. Updates and patches are intended to maximise your experience with our products, help you protect the privacy and security of your data, provide new features, and evaluate whether your device is ready to process such updates.
-*   **Promotional communications**. We use data we collect to deliver promotional communications. You can sign up for email subscriptions and choose whether you wish to receive promotional communications from Microsoft by email, SMS, physical mail and telephone. For information about managing your contact data, email subscriptions, and promotional communications, see the [How to access and control your personal data](#mainhowtoaccesscontrolyourdatamodule) section of this privacy statement.
-*   **Relevant offers**. Microsoft uses data to provide you with relevant and valuable information regarding our products. We analyse data from a variety of sources to predict the information that will be most interesting and relevant to you and deliver such information to you in a variety of ways. For example, we may predict your interest in gaming and communicate with you about new games you may like.
-*   **Advertising**. Microsoft does not use what you say in email, chat, video calls or voicemail, or your documents, photos or other personal files to target ads to you. We use data we collect through our interactions with you, through some of our products, and on third-party web properties, for advertising in our products and on third-party properties. We may use automated processes to help make advertising more relevant to you. For more information about how your data is used for advertising, see the [Advertising](#mainadvertisingmodule) section of this privacy statement.
-*   **Prize promotions and events**. We use your data to administer prize promotions and events available in our physical Microsoft Stores. For example, if you enter into a prize promotion, we may use your data to select a winner and provide the prize to you if you win. Or, if you register for a coding workshop or gaming event, we will add your name to the list of expected attendees.
-*   **Transacting commerce**. We use data to carry out your transactions with us. For example, we process payment information to provide customers with product subscriptions and use contact information to deliver goods purchased from the Microsoft Store.
-*   **Reporting and business operations**. We use data to analyse our operations and perform business intelligence. This enables us to make informed decisions and report on the performance of our business.
-*   **Protecting rights and property**. We use data to detect and prevent fraud, resolve disputes, enforce agreements, and protect our property. For example, we use data to confirm the validity of software licences to reduce piracy. We may use automated processes to detect and prevent activities that violate our rights and the rights of others, such as fraud.
-*   **Legal compliance**. We process data to comply with law. For example, we use the age of our customers to assist us in meeting our obligations to protect children’s privacy. We also process contact information and credentials to help customers exercise their data protection rights.
-*   **Research.** With appropriate technical and organisational measures to safeguard individuals’ rights and freedoms, we use data to conduct research, including for public interest and scientific purposes.
+* **Provide our products**. We use data to operate our products and provide you with rich, interactive experiences. For example, if you use OneDrive, we process the documents you upload to OneDrive to enable you to retrieve, delete, edit, forward, or otherwise process it, at your direction as part of the service. Or, for example, if you enter a search query in the Bing search engine, we use that query to display search results to you. Additionally, as communications are a feature of various products, programmes and activities, we use data to contact you. For example, we may contact you by phone or email or other means to inform you when a subscription is ending or discuss your licensing account. We also communicate with you to secure our products, for example by letting you know when product updates are available.
+* **Product improvement**. We use data to continually improve our products, including adding new features or capabilities. For example, we use error reports to improve security features, search queries and clicks in Bing to improve the relevancy of the search results, usage data to determine what new features to prioritise, and voice data to develop and improve speech recognition accuracy.
+* **Personalisation**. Many products include personalised features, such as recommendations that enhance your productivity and enjoyment. These features use automated processes to tailor your product experiences based on the data we have about you, such as inferences we make about you and your use of the product, activities, interests, and location. For example, depending on your settings, if you stream movies in a browser on your Windows device, you may see a recommendation for an app from the Microsoft Store that streams more efficiently. If you have a Microsoft account, with your permission, we can sync your settings on several devices. Many of our products provide controls to disable personalised features.
+* **Product activation**. We use data—such as device and application type, location, and unique device, application, network, and subscription identifiers—to activate products that require activation.
+* **Product development**. We use data to develop new products. For example, we use data, often de-identified, to better understand our customers’ computing and productivity needs which can shape the development of new products.
+* **Customer support**. We use data to troubleshoot and diagnose product problems, repair customers’ devices, and provide other customer care and support services, including to help us provide, improve, and secure the quality of our products, services, and training, and to investigate security incidents. Call recording data may also be used to authenticate or identify you based on your voice to enable Microsoft to provide support services and investigate security incidents.
+* **Help secure and troubleshoot**. We use data to help secure and troubleshoot our products. This includes using data to protect the security and safety of our products and customers, detecting malware and malicious activities, troubleshooting performance and compatibility issues to help customers get the most out of their experiences, and notifying customers of updates to our products. This may include using automated systems to detect security and safety issues.
+* **Safety**. We use data to protect the safety of our products and our customers. Our security features and products can disrupt the operation of malicious software and notify users if malicious software is found on their devices. For example, some of our products, such as Outlook.com or OneDrive, systematically scan content in an automated manner to identify suspected spam, viruses, abusive actions, or URLs that have been flagged as fraud, phishing, or malware links; and we reserve the right to block delivery of a communication or remove content if it violates our terms. **In accordance with European Union Regulation (EU) 2021/1232, we have invoked the derogation permitted by that Regulation from Articles 5(1) and 6(1) of EU Directive 2002/58/EC. We use scanning technologies to create digital signatures (known as “hashes”) of certain images and video content on our systems. These technologies then compare the hashes they generate with hashes of reported child sexual exploitation and abuse imagery (known as a “hash set”), in a process called “hash matching”. Microsoft obtains hash sets from organisations that act in the public interest against child sex abuse. This can result in sharing information with the National Centre for Missing and Exploited Children (NCMEC) and law enforcement authorities.**
+* **Updates**. We use data we collect to develop product updates and security patches. For example, we may use information about your device’s capabilities, such as available memory, to provide you a software update or security patch. Updates and patches are intended to maximise your experience with our products, help you protect the privacy and security of your data, provide new features, and evaluate whether your device is ready to process such updates.
+* **Promotional communications**. We use data we collect to deliver promotional communications. You can sign up for email subscriptions and choose whether you wish to receive promotional communications from Microsoft by email, SMS, physical mail and telephone. For information about managing your contact data, email subscriptions, and promotional communications, see the [How to access and control your personal data](#mainhowtoaccesscontrolyourdatamodule) section of this privacy statement.
+* **Relevant offers**. Microsoft uses data to provide you with relevant and valuable information regarding our products. We analyse data from a variety of sources to predict the information that will be most interesting and relevant to you and deliver such information to you in a variety of ways. For example, we may predict your interest in gaming and communicate with you about new games you may like.
+* **Advertising**. Microsoft does not use what you say in email, chat, video calls or voicemail, or your documents, photos or other personal files to target ads to you. We use data we collect through our interactions with you, through some of our products, and on third-party web properties, for advertising in our products and on third-party properties. We may use automated processes to help make advertising more relevant to you. For more information about how your data is used for advertising, see the [Advertising](#mainadvertisingmodule) section of this privacy statement.
+* **Prize promotions and events**. We use your data to administer prize promotions and events available in our physical Microsoft Stores. For example, if you enter into a prize promotion, we may use your data to select a winner and provide the prize to you if you win. Or, if you register for a coding workshop or gaming event, we will add your name to the list of expected attendees.
+* **Transacting commerce**. We use data to carry out your transactions with us. For example, we process payment information to provide customers with product subscriptions and use contact information to deliver goods purchased from the Microsoft Store.
+* **Reporting and business operations**. We use data to analyse our operations and perform business intelligence. This enables us to make informed decisions and report on the performance of our business.
+* **Protecting rights and property**. We use data to detect and prevent fraud, resolve disputes, enforce agreements, and protect our property. For example, we use data to confirm the validity of software licences to reduce piracy. We may use automated processes to detect and prevent activities that violate our rights and the rights of others, such as fraud.
+* **Legal compliance**. We process data to comply with law. For example, we use the age of our customers to assist us in meeting our obligations to protect children’s privacy. We also process contact information and credentials to help customers exercise their data protection rights.
+* **Research.** With appropriate technical and organisational measures to safeguard individuals’ rights and freedoms, we use data to conduct research, including for public interest and scientific purposes.
 
 Reasons we share personal dataReasons we share personal datamainreasonswesharepersonaldatamodule
 
@@ -146,10 +146,10 @@ In addition, we share personal data among Microsoft-controlled affiliates and su
 
 Finally, we will retain, access, transfer, disclose, and preserve personal data, including your content (such as the content of your emails in Outlook.com, or files in private folders on OneDrive), when we have a good faith belief that doing so is necessary to do any of the following:
 
-*   Comply with applicable law or respond to valid legal process, including from law enforcement or other government agencies.
-*   Protect our customers, for example, to prevent spam or attempts to defraud users of our products, or to help prevent the loss of life or serious injury of anyone.
-*   Operate and maintain the security of our products, including to prevent or stop an attack on our computer systems or networks.
-*   Protect the rights or property of Microsoft, including enforcing the terms governing the use of the services—however, if we receive information indicating that someone is using our services to traffic in stolen intellectual or physical property of Microsoft, we will not inspect a customer's private content ourselves, but we may refer the matter to law enforcement.
+* Comply with applicable law or respond to valid legal process, including from law enforcement or other government agencies.
+* Protect our customers, for example, to prevent spam or attempts to defraud users of our products, or to help prevent the loss of life or serious injury of anyone.
+* Operate and maintain the security of our products, including to prevent or stop an attack on our computer systems or networks.
+* Protect the rights or property of Microsoft, including enforcing the terms governing the use of the services—however, if we receive information indicating that someone is using our services to traffic in stolen intellectual or physical property of Microsoft, we will not inspect a customer's private content ourselves, but we may refer the matter to law enforcement.
 
 For more information about data we disclose in response to requests from law enforcement and other government agencies, please see our [Law Enforcement Requests Report](https://www.microsoft.com/about/corporate-responsibility/lerr/).
 
@@ -159,9 +159,9 @@ How to access and control your personal dataHow to access and control your perso
 
 You can also make choices about the collection and use of your data by Microsoft. You can control your personal data that Microsoft has obtained, and exercise your data protection rights, by contacting Microsoft or using various tools we provide. In some cases, your ability to access or control your personal data will be limited, as required or permitted by applicable law. How you can access or control your personal data will also depend on which products you use. For example, you can:
 
-*   Control the use of your data for interest-based advertising from Microsoft by visiting our [opt-out page](https://go.microsoft.com/fwlink/?LinkID=286759).
-*   Choose whether you wish to receive promotional emails, SMS messages, telephone calls and postal mail from Microsoft.
-*   Access and clear some of your data through the [Microsoft privacy dashboard](https://account.microsoft.com/privacy).
+* Control the use of your data for interest-based advertising from Microsoft by visiting our [opt-out page](https://go.microsoft.com/fwlink/?LinkID=286759).
+* Choose whether you wish to receive promotional emails, SMS messages, telephone calls and postal mail from Microsoft.
+* Access and clear some of your data through the [Microsoft privacy dashboard](https://account.microsoft.com/privacy).
 
 Not all personal data processed by Microsoft can be accessed or controlled via the tools above. If you want to access or control personal data processed by Microsoft that is not available via the tools above or directly through the Microsoft products you use, you can always contact Microsoft at the address in the [How to contact us](#mainhowtocontactusmodule) section or by using our [web form](https://go.microsoft.com/fwlink/?linkid=2126612).
 
@@ -169,9 +169,9 @@ We provide aggregate metrics about user requests to exercise their data protecti
 
 You can also make choices about the collection and use of your data by Microsoft. You can control your personal data that Microsoft has obtained, and exercise your data protection rights, by contacting Microsoft or using various tools we provide. In some cases, your ability to access or control your personal data will be limited, as required or permitted by applicable law. How you can access or control your personal data will also depend on which products you use. For example, you can:
 
-*   Control the use of your data for interest-based advertising from Microsoft by visiting our [opt-out page](https://go.microsoft.com/fwlink/?LinkID=286759).
-*   Choose whether you wish to receive promotional emails, SMS messages, telephone calls and postal mail from Microsoft.
-*   Access and clear some of your data through the [Microsoft privacy dashboard](https://account.microsoft.com/privacy).
+* Control the use of your data for interest-based advertising from Microsoft by visiting our [opt-out page](https://go.microsoft.com/fwlink/?LinkID=286759).
+* Choose whether you wish to receive promotional emails, SMS messages, telephone calls and postal mail from Microsoft.
+* Access and clear some of your data through the [Microsoft privacy dashboard](https://account.microsoft.com/privacy).
 
 Not all personal data processed by Microsoft can be accessed or controlled via the tools above. If you want to access or control personal data processed by Microsoft that is not available via the tools above or directly through the Microsoft products you use, you can always contact Microsoft at the address in the [How to contact us](#mainhowtocontactusmodule) section or by using our [web form](https://go.microsoft.com/fwlink/?linkid=2126612).
 
@@ -179,14 +179,14 @@ We provide aggregate metrics about user requests to exercise their data protecti
 
 You can access and control your personal data that Microsoft has obtained with tools Microsoft provides to you, which are described below, or by contacting Microsoft. For instance:
 
-*   If Microsoft obtained your consent to use your personal data, you can withdraw that consent at any time.
-*   You can request access to, erasure of, and updates to your personal data.
-*   If you’d like to port your data elsewhere, you can use tools Microsoft provides to do so, or if none are available, you can contact Microsoft for assistance.
+* If Microsoft obtained your consent to use your personal data, you can withdraw that consent at any time.
+* You can request access to, erasure of, and updates to your personal data.
+* If you’d like to port your data elsewhere, you can use tools Microsoft provides to do so, or if none are available, you can contact Microsoft for assistance.
 
 You can also object to or restrict the use of your personal data by Microsoft. For example, you can object at any time to our use of your personal data:
 
-*   For direct marketing purposes.
-*   Where we are performing a task in the public interest or pursuing our legitimate interests or those of a third party.
+* For direct marketing purposes.
+* Where we are performing a task in the public interest or pursuing our legitimate interests or those of a third party.
 
 You may have these rights under applicable laws, including the EU General Data Protection Regulation (GDPR), but we offer them regardless of your location. In some cases, your ability to access or control your personal data will be limited, as required or permitted by applicable law.
 
@@ -194,18 +194,18 @@ If your organisation, such as your employer, school or service provider, provide
 
 You can access and control your personal data that Microsoft has obtained, and exercise your data protection rights, using various tools we provide. The tools most useful to you will depend on our interactions with you and your use of our products. Here is a general list of tools we provide to help you control your personal data; specific products may provide additional controls.
 
-*   **Bing.** If you are signed into Bing, you can view and clear your search history on your [privacy dashboard](https://account.microsoft.com/privacy). If you are not signed into Bing, you can view and clear search history associated to your device in your [Bing settings](https://www.bing.com/profile/history).
-*   **Cortana.** You can control some of the data Cortana accesses or stores in your [Cortana settings](https://support.microsoft.com/help/4468233/cortana-and-privacy-microsoft-privacy).
-*   **Microsoft account.** If you wish to access, edit, or remove the profile information and payment information in your Microsoft account, change your password, add security information or close your account, you can do so by visiting the [Microsoft account website](https://account.microsoft.com/).
-*   If you have a **Microsoft Developer Network** (MSDN) public profile, you can access and edit your data by signing in at [MSDN forum](https://social.msdn.microsoft.com/Forums/MSDNForum).
-*   **Microsoft privacy dashboard**. You can control some of the data Microsoft processes through your use of a Microsoft account on the [Microsoft privacy dashboard](https://account.microsoft.com/privacy). From here, for example, you can view and clear the browsing, search, and location data associated with your Microsoft account.
-*   **Microsoft Store.**You can access your Microsoft Store profile and account information by visiting [Microsoft Store](https://www.microsoftstore.com/) and selecting **View account** or **Order history.**
-*   **Microsoft Teams for personal use.** You can find out how to export or delete Teams data relating to your personal Microsoft account by visiting this [page](https://go.microsoft.com/fwlink/?linkid=2128346).
-*   **OneDrive.** You can view, download, and delete your files and photos in OneDrive by signing into your [OneDrive](https://onedrive.live.com/).
-*   **Outlook.com.** You can download your emails in [Outlook.com](https://outlook.live.com/mail/inbox) by signing into your account and navigating to your **Privacy and data** settings.
-*   **Skype**. If you wish to access, edit, or remove some profile and payment information for Skype or change your password, [sign in to your account](https://login.skype.com/login). If you wish to export your Skype chat history and files shared on Skype, you can [request a copy](https://go.skype.com/export).
-*   **Volume Licensing Service Centre (VLSC).** If you are a Volume Licensing customer, you can control your contact information and subscription and licensing data in one location by visiting the [Volume Licensing Service Centre website](https://www.microsoft.com/Licensing/servicecenter/default.aspx).
-*   **Xbox**. If you use the Xbox network or Xbox.com, you can view or edit your personal data, including billing and account information, privacy settings, and online safety and data sharing preferences by accessing [My Xbox](https://live.xbox.com/MyXbox/Profile) on the Xbox console or on the Xbox.com website.
+* **Bing.** If you are signed into Bing, you can view and clear your search history on your [privacy dashboard](https://account.microsoft.com/privacy). If you are not signed into Bing, you can view and clear search history associated to your device in your [Bing settings](https://www.bing.com/profile/history).
+* **Cortana.** You can control some of the data Cortana accesses or stores in your [Cortana settings](https://support.microsoft.com/help/4468233/cortana-and-privacy-microsoft-privacy).
+* **Microsoft account.** If you wish to access, edit, or remove the profile information and payment information in your Microsoft account, change your password, add security information or close your account, you can do so by visiting the [Microsoft account website](https://account.microsoft.com/).
+* If you have a **Microsoft Developer Network** (MSDN) public profile, you can access and edit your data by signing in at [MSDN forum](https://social.msdn.microsoft.com/Forums/MSDNForum).
+* **Microsoft privacy dashboard**. You can control some of the data Microsoft processes through your use of a Microsoft account on the [Microsoft privacy dashboard](https://account.microsoft.com/privacy). From here, for example, you can view and clear the browsing, search, and location data associated with your Microsoft account.
+* **Microsoft Store.**You can access your Microsoft Store profile and account information by visiting [Microsoft Store](https://www.microsoftstore.com/) and selecting **View account** or **Order history.**
+* **Microsoft Teams for personal use.** You can find out how to export or delete Teams data relating to your personal Microsoft account by visiting this [page](https://go.microsoft.com/fwlink/?linkid=2128346).
+* **OneDrive.** You can view, download, and delete your files and photos in OneDrive by signing into your [OneDrive](https://onedrive.live.com/).
+* **Outlook.com.** You can download your emails in [Outlook.com](https://outlook.live.com/mail/inbox) by signing into your account and navigating to your **Privacy and data** settings.
+* **Skype**. If you wish to access, edit, or remove some profile and payment information for Skype or change your password, [sign in to your account](https://login.skype.com/login). If you wish to export your Skype chat history and files shared on Skype, you can [request a copy](https://go.skype.com/export).
+* **Volume Licensing Service Centre (VLSC).** If you are a Volume Licensing customer, you can control your contact information and subscription and licensing data in one location by visiting the [Volume Licensing Service Centre website](https://www.microsoft.com/Licensing/servicecenter/default.aspx).
+* **Xbox**. If you use the Xbox network or Xbox.com, you can view or edit your personal data, including billing and account information, privacy settings, and online safety and data sharing preferences by accessing [My Xbox](https://live.xbox.com/MyXbox/Profile) on the Xbox console or on the Xbox.com website.
 
 Not all personal data processed by Microsoft can be accessed or controlled via the tools above. If you want to access or control personal data processed by Microsoft that is not available via the tools above or directly through the Microsoft products you use, you can always contact Microsoft at the address in the [How to contact us](#mainhowtocontactusmodule) section or by using our [web form](https://go.microsoft.com/fwlink/p/?linkid=2126612). We will respond to requests to control your personal data as required by applicable law.
 
@@ -229,9 +229,9 @@ You can opt out of receiving interest-based advertising from third parties we pa
 
 When you use a browser, you can control your personal data using certain features. For example:
 
-*   **Cookie controls**. You can control the data stored by cookies and withdraw consent to cookies by using the browser-based cookie controls described in the [Cookies](#maincookiessimilartechnologiesmodule) section of this privacy statement.
-*   **Tracking protections**. You can control the data third-party sites can collect about you using Tracking Protection in Internet Explorer (versions 9 and up) and Microsoft Edge. This feature will block third-party content, including cookies, from any site that is listed in a Tracking Protection List you add.
-*   **Browser controls for "Do Not Track."** Some browsers have incorporated "Do Not Track" (DNT) features that can send a signal to the websites you visit indicating you do not wish to be tracked. Because there is not yet a common understanding of how to interpret the DNT signal, Microsoft services do not currently respond to browser DNT signals. We continue to work with the online industry to define a common understanding of how to treat DNT signals. In the meantime, you can use the range of other tools we provide to control data collection and use, including the ability to opt out of receiving interest-based advertising from Microsoft as described above.
+* **Cookie controls**. You can control the data stored by cookies and withdraw consent to cookies by using the browser-based cookie controls described in the [Cookies](#maincookiessimilartechnologiesmodule) section of this privacy statement.
+* **Tracking protections**. You can control the data third-party sites can collect about you using Tracking Protection in Internet Explorer (versions 9 and up) and Microsoft Edge. This feature will block third-party content, including cookies, from any site that is listed in a Tracking Protection List you add.
+* **Browser controls for "Do Not Track."** Some browsers have incorporated "Do Not Track" (DNT) features that can send a signal to the websites you visit indicating you do not wish to be tracked. Because there is not yet a common understanding of how to interpret the DNT signal, Microsoft services do not currently respond to browser DNT signals. We continue to work with the online industry to define a common understanding of how to treat DNT signals. In the meantime, you can use the range of other tools we provide to control data collection and use, including the ability to opt out of receiving interest-based advertising from Microsoft as described above.
 
 Cookies and similar technologiesCookies and similar technologiesmaincookiessimilartechnologiesmodule
 
@@ -247,39 +247,39 @@ Cookies are small text files placed on your device to store data that can be rec
 
 Microsoft uses cookies and similar technologies for several purposes, depending on the context or product, including:
 
-*   **Storing your preferences and settings**. We use cookies to store your preferences and settings on your device, and to enhance your experiences. For example, depending on your settings, if you enter your city or postcode to get local news or weather information on a Microsoft website, we store that data in a cookie so that you will see the relevant local information when you return to the site. Saving your preferences with cookies, such as your preferred language, prevents you from having to set your preferences repeatedly. If you opt out of interest-based advertising, we store your opt-out preference in a cookie on your device. Similarly, in scenarios where we obtain your consent to place cookies on your device, we store your choice in a cookie.
-*   **Sign-in and authentication**. We use cookies to authenticate you. When you sign in to a website using your personal Microsoft account, we store a unique ID number, and the time you signed in, in an encrypted cookie on your device. This cookie allows you to move from page to page within the site without having to sign in again on each page. You can also save your sign-in information so you do not have to sign in each time you return to the site.
-*   **Security**. We use cookies to process information that helps us secure our products, as well as detect fraud and abuse.
-*   **Storing information you provide to a website**. We use cookies to remember information you shared. When you provide information to Microsoft, such as when you add products to a shopping cart on Microsoft websites, we store the data in a cookie for the purpose of remembering the information.
-*   **Social media**. Some of our websites include social media cookies, including those that enable users who are signed in to the social media service to share content via that service.
-*   **Feedback**. Microsoft uses cookies to enable you to provide feedback on a website.
-*   **Interest-based advertising**. Microsoft uses cookies to collect data about your online activity and identify your interests so that we can provide advertising that is most relevant to you. You can opt out of receiving interest-based advertising from Microsoft as described in the [How to access and control your personal data](#mainhowtoaccesscontrolyourdatamodule) section of this privacy statement.
-*   **Showing advertising**. Microsoft uses cookies to record how many visitors have clicked on an advertisement and to record which advertisements you have seen, for example, so you do not see the same one repeatedly.
-*   **Analytics**. We use first- and third-party cookies and other identifiers to gather usage and performance data. For example, we use cookies to count the number of unique visitors to a web page or service and to develop other statistics about the operations of our products.
-*   **Performance**. Microsoft uses cookies to understand and improve how our products perform. For example, we use cookies to gather data that helps with load balancing; this helps us keep our websites remain up and running.
+* **Storing your preferences and settings**. We use cookies to store your preferences and settings on your device, and to enhance your experiences. For example, depending on your settings, if you enter your city or postcode to get local news or weather information on a Microsoft website, we store that data in a cookie so that you will see the relevant local information when you return to the site. Saving your preferences with cookies, such as your preferred language, prevents you from having to set your preferences repeatedly. If you opt out of interest-based advertising, we store your opt-out preference in a cookie on your device. Similarly, in scenarios where we obtain your consent to place cookies on your device, we store your choice in a cookie.
+* **Sign-in and authentication**. We use cookies to authenticate you. When you sign in to a website using your personal Microsoft account, we store a unique ID number, and the time you signed in, in an encrypted cookie on your device. This cookie allows you to move from page to page within the site without having to sign in again on each page. You can also save your sign-in information so you do not have to sign in each time you return to the site.
+* **Security**. We use cookies to process information that helps us secure our products, as well as detect fraud and abuse.
+* **Storing information you provide to a website**. We use cookies to remember information you shared. When you provide information to Microsoft, such as when you add products to a shopping cart on Microsoft websites, we store the data in a cookie for the purpose of remembering the information.
+* **Social media**. Some of our websites include social media cookies, including those that enable users who are signed in to the social media service to share content via that service.
+* **Feedback**. Microsoft uses cookies to enable you to provide feedback on a website.
+* **Interest-based advertising**. Microsoft uses cookies to collect data about your online activity and identify your interests so that we can provide advertising that is most relevant to you. You can opt out of receiving interest-based advertising from Microsoft as described in the [How to access and control your personal data](#mainhowtoaccesscontrolyourdatamodule) section of this privacy statement.
+* **Showing advertising**. Microsoft uses cookies to record how many visitors have clicked on an advertisement and to record which advertisements you have seen, for example, so you do not see the same one repeatedly.
+* **Analytics**. We use first- and third-party cookies and other identifiers to gather usage and performance data. For example, we use cookies to count the number of unique visitors to a web page or service and to develop other statistics about the operations of our products.
+* **Performance**. Microsoft uses cookies to understand and improve how our products perform. For example, we use cookies to gather data that helps with load balancing; this helps us keep our websites remain up and running.
 
 Where required, we obtain your consent prior to placing or using optional cookies that are not (i) strictly necessary to provide the website; or (ii) for the purpose of facilitating a communication. Please see the “How to Control Cookies” section below for more information.
 
 Some of the cookies we commonly use are listed below. This list is not exhaustive, but it is intended to illustrate the primary purposes for which we typically set cookies. If you visit one of our websites, the site will set some or all of the following cookies:
 
-*   **MSCC**. Contains user choices for most Microsoft properties.
-*   **MUID, MC1, and MSFPC**. Identifies unique web browsers visiting Microsoft sites. These cookies are used for advertising, site analytics, and other operational purposes.
-*   **ANON**. Contains the ANID, a unique identifier derived from your Microsoft account, which is used for advertising, personalisation and operational purposes. It is also used to preserve your choice to opt out of interest-based advertising from Microsoft if you have chosen to associate the opt-out with your Microsoft account.
-*   **CC**. Contains a country code as determined from your IP address.
-*   **PPAuth, MSPAuth, MSNRPSAuth, KievRPSAuth, WLSSC, MSPProf**. Helps to authenticate you when you sign in with your Microsoft account.
-*   **MC0**. Detects whether cookies are enabled in the browser.
-*   **MS0**. Identifies a specific session.
-*   **NAP**. Contains an encrypted version of your country, postcode, age, gender, language and occupation, if known, based on your Microsoft account profile.
-*   **MH**. Appears on co-branded sites where Microsoft is partnering with an advertiser. This cookie identifies the advertiser, so the right ad is selected.
-*   **childinfo, kcdob, kcrelid, kcru, pcfm**. Contains information that Microsoft account uses within its pages in relation to child accounts.
-*   **MR**. This cookie is used by Microsoft to reset or refresh the MUID cookie.
-*   **x-ms-gateway-slice**. Identifies a gateway for load balancing.
-*   **TOptOut**. Records your decision not to receive interest-based advertising delivered by Microsoft. Where required, we place this cookie by default and remove it when you consent to interest-based advertising.
+* **MSCC**. Contains user choices for most Microsoft properties.
+* **MUID, MC1, and MSFPC**. Identifies unique web browsers visiting Microsoft sites. These cookies are used for advertising, site analytics, and other operational purposes.
+* **ANON**. Contains the ANID, a unique identifier derived from your Microsoft account, which is used for advertising, personalisation and operational purposes. It is also used to preserve your choice to opt out of interest-based advertising from Microsoft if you have chosen to associate the opt-out with your Microsoft account.
+* **CC**. Contains a country code as determined from your IP address.
+* **PPAuth, MSPAuth, MSNRPSAuth, KievRPSAuth, WLSSC, MSPProf**. Helps to authenticate you when you sign in with your Microsoft account.
+* **MC0**. Detects whether cookies are enabled in the browser.
+* **MS0**. Identifies a specific session.
+* **NAP**. Contains an encrypted version of your country, postcode, age, gender, language and occupation, if known, based on your Microsoft account profile.
+* **MH**. Appears on co-branded sites where Microsoft is partnering with an advertiser. This cookie identifies the advertiser, so the right ad is selected.
+* **childinfo, kcdob, kcrelid, kcru, pcfm**. Contains information that Microsoft account uses within its pages in relation to child accounts.
+* **MR**. This cookie is used by Microsoft to reset or refresh the MUID cookie.
+* **x-ms-gateway-slice**. Identifies a gateway for load balancing.
+* **TOptOut**. Records your decision not to receive interest-based advertising delivered by Microsoft. Where required, we place this cookie by default and remove it when you consent to interest-based advertising.
 
 In addition to the cookies Microsoft sets when you visit our websites, third parties can also set cookies when you visit Microsoft sites. For example:
 
-*   Companies we hire to provide services on our behalf, such as site analytics, place cookies when you visit our sites.
-*   Companies that deliver content, such as videos or news, or ads on Microsoft sites, place cookies on their own. These companies use the data they process in accordance with their privacy policies, which may enable these companies to collect and combine information about your activities across websites, apps, or online services.
+* Companies we hire to provide services on our behalf, such as site analytics, place cookies when you visit our sites.
+* Companies that deliver content, such as videos or news, or ads on Microsoft sites, place cookies on their own. These companies use the data they process in accordance with their privacy policies, which may enable these companies to collect and combine information about your activities across websites, apps, or online services.
 
 For a list of the third parties that set cookies on our websites, including service providers acting on our behalf, please visit our [third party cookie inventory](https://privacy.microsoft.com/privacystatement-third-party-cookies). On some of our websites, a list of third parties is available directly on the site. The third parties on these sites may not be included in the list on our [third party cookie inventory](https://privacy.microsoft.com/privacystatement-third-party-cookies).
 
@@ -313,8 +313,8 @@ Products provided by your organisation – notice to end usersProducts provided 
 
 If you use a Microsoft product with an account provided by an organisation you are affiliated with, such as your work or school account, that organisation can:
 
-*   Control and administer your Microsoft product and product account, including controlling privacy-related settings of the product or product account.
-*   Access and process your data, including the interaction data, diagnostic data, and the contents of your communications and files associated with your Microsoft product and product accounts.
+* Control and administer your Microsoft product and product account, including controlling privacy-related settings of the product or product account.
+* Access and process your data, including the interaction data, diagnostic data, and the contents of your communications and files associated with your Microsoft product and product accounts.
 
 If you lose access to your work or school account (in event of change of employment, for example), you may lose access to products and the content associated with those products, including those you acquired on your own behalf, if you used your work or school account to sign in to such products.
 
@@ -324,11 +324,11 @@ When you use a Microsoft product provided by your organisation, Microsoft’s pr
 
 For Microsoft products provided by your K-12 school, including Microsoft 365 Education, Microsoft will:
 
-*   not collect or use student personal data beyond that needed for authorised educational or school purposes;
-*   not sell or rent student personal data;
-*   not use or share student personal data for advertising or similar commercial purposes, such as behavioural targeting of advertisements to students;
-*   not build a personal profile of a student, other than for supporting authorised educational or school purposes or as authorised by the parent, guardian or student of appropriate age; and
-*   require that our vendors with whom student personal data is shared to deliver the educational service, if any, are obligated to implement these same commitments for student personal data.
+* not collect or use student personal data beyond that needed for authorised educational or school purposes;
+* not sell or rent student personal data;
+* not use or share student personal data for advertising or similar commercial purposes, such as behavioural targeting of advertisements to students;
+* not build a personal profile of a student, other than for supporting authorised educational or school purposes or as authorised by the parent, guardian or student of appropriate age; and
+* require that our vendors with whom student personal data is shared to deliver the educational service, if any, are obligated to implement these same commitments for student personal data.
 
 Microsoft accountMicrosoft accountmainmicrosoftaccountmodule
 
@@ -336,24 +336,24 @@ With a Microsoft account, you can sign in to Microsoft products, as well as thos
 
 There are three types of Microsoft account:
 
-*   When you create your own Microsoft account tied to your personal email address, we refer to that account as a **personal Microsoft account**.
-*   When you or your organisation (such as an employer or your school) create your Microsoft account tied to your email address provided by that organisation, we refer to that account as a **work or school account**.
-*   When you or your service provider (such as a cable or internet service provider) create your Microsoft account tied to your email address with your service provider’s domain, we refer to that account as a **third-party account**.
+* When you create your own Microsoft account tied to your personal email address, we refer to that account as a **personal Microsoft account**.
+* When you or your organisation (such as an employer or your school) create your Microsoft account tied to your email address provided by that organisation, we refer to that account as a **work or school account**.
+* When you or your service provider (such as a cable or internet service provider) create your Microsoft account tied to your email address with your service provider’s domain, we refer to that account as a **third-party account**.
 
 If you sign into a service offered by a third party with your Microsoft account, you will share with that third party the account data required by that service.
 
 With a Microsoft account, you can sign into Microsoft products, as well as those of select Microsoft partners. Personal data associated with your Microsoft account includes credentials, name and contact data, payment data, device and usage data, your contacts, information about your activities, and your interests and favourites. Signing into your Microsoft account enables personalisation, consistent experiences across products and devices, permits you to use cloud data storage, allows you to make payments using payment instruments stored in your Microsoft account, and enables other features. There are three types of Microsoft account:
 
-*   When you create your own Microsoft account tied to your personal email address, we refer to that account as a **personal Microsoft account**.
-*   When you or your organisation (such as an employer or your school) create your Microsoft account tied to your email address provided by that organisation, we refer to that account as a **work or school account**.
-*   When you or your service provider (such as a cable or internet service provider) create your Microsoft account tied to your email address with your service provider’s domain, we refer to that account as a **third-party account**.
+* When you create your own Microsoft account tied to your personal email address, we refer to that account as a **personal Microsoft account**.
+* When you or your organisation (such as an employer or your school) create your Microsoft account tied to your email address provided by that organisation, we refer to that account as a **work or school account**.
+* When you or your service provider (such as a cable or internet service provider) create your Microsoft account tied to your email address with your service provider’s domain, we refer to that account as a **third-party account**.
 
 **Personal Microsoft accounts**. The data associated with your personal Microsoft account, and how that data is used, depends on how you use the account.
 
-*   **Creating your Microsoft account**. When you create a personal Microsoft account, you will be asked to provide certain personal data and we will assign a unique ID number to identify your account and associated information. While some products, such as those involving payment, require a real name, you can sign in to and use other Microsoft products without providing your real name. Some data you provide, such as your display name, email address, and phone number, can be used to help others find and connect with you within Microsoft products. For example, people who know your display name, email address, or phone number can use it to search for you on Skype or Microsoft Teams for personal use and send you an invite to connect with them. Note that if you use a work or school email address to create a personal Microsoft account, your employer or school may gain access to your data. In some cases, you will need to change the email address to a personal email address in order to continue accessing consumer-oriented products (such as the Xbox network).
-*   **Signing in to Microsoft account**. When you sign in to your Microsoft account, we create a record of your sign-in, which includes the date and time, information about the product you signed in to, your sign-in name, the unique number assigned to your account, a unique identifier assigned to your device, your IP address, and your operating system and browser version.
-*   **Signing in to Microsoft products**. Signing in to your account enables improved personalisation, provides seamless and consistent experiences across products and devices, permits you to access and use cloud data storage, allows you to make payments using payment instruments stored in your Microsoft account and enables other enhanced features and settings. When you sign in to your account, you will stay signed in until you sign out. If you add your Microsoft account to a Windows device (version 8 or higher), Windows will automatically sign you in to products that use Microsoft account when you access those products on that device. When you are signed in, some products will display your name or username and your profile photo (if you have added one to your profile) as part of your use of Microsoft products, including in your communications, social interactions, and public posts.
-*   **Signing in to third-party products**. If you sign in to a third-party product with your Microsoft account, you will share data with the third party in accordance with the third party’s privacy policy. The third party will also receive the version number assigned to your account (a new version number is assigned each time you change your sign-in data); and information that describes whether your account has been deactivated. If you share your profile data, the third-party can display your name or username and your profile photo (if you have added one to your profile) when you are signed in to that third-party product. If you chose to make payments to third-party merchants using your Microsoft account, Microsoft will pass information stored in your Microsoft account to the third-party or its vendors (e.g. payment processors) as necessary to process your payment and fulfil your order (such as name, credit card number, billing and shipping addresses and relevant contact information). The third-party can use or share the data it receives when you sign-in or make a purchase according to its own practices and policies. **You should carefully review the privacy statement for each product you sign in to and each merchant you purchase from to determine how it will use the data it collects**.
+* **Creating your Microsoft account**. When you create a personal Microsoft account, you will be asked to provide certain personal data and we will assign a unique ID number to identify your account and associated information. While some products, such as those involving payment, require a real name, you can sign in to and use other Microsoft products without providing your real name. Some data you provide, such as your display name, email address, and phone number, can be used to help others find and connect with you within Microsoft products. For example, people who know your display name, email address, or phone number can use it to search for you on Skype or Microsoft Teams for personal use and send you an invite to connect with them. Note that if you use a work or school email address to create a personal Microsoft account, your employer or school may gain access to your data. In some cases, you will need to change the email address to a personal email address in order to continue accessing consumer-oriented products (such as the Xbox network).
+* **Signing in to Microsoft account**. When you sign in to your Microsoft account, we create a record of your sign-in, which includes the date and time, information about the product you signed in to, your sign-in name, the unique number assigned to your account, a unique identifier assigned to your device, your IP address, and your operating system and browser version.
+* **Signing in to Microsoft products**. Signing in to your account enables improved personalisation, provides seamless and consistent experiences across products and devices, permits you to access and use cloud data storage, allows you to make payments using payment instruments stored in your Microsoft account and enables other enhanced features and settings. When you sign in to your account, you will stay signed in until you sign out. If you add your Microsoft account to a Windows device (version 8 or higher), Windows will automatically sign you in to products that use Microsoft account when you access those products on that device. When you are signed in, some products will display your name or username and your profile photo (if you have added one to your profile) as part of your use of Microsoft products, including in your communications, social interactions, and public posts.
+* **Signing in to third-party products**. If you sign in to a third-party product with your Microsoft account, you will share data with the third party in accordance with the third party’s privacy policy. The third party will also receive the version number assigned to your account (a new version number is assigned each time you change your sign-in data); and information that describes whether your account has been deactivated. If you share your profile data, the third-party can display your name or username and your profile photo (if you have added one to your profile) when you are signed in to that third-party product. If you chose to make payments to third-party merchants using your Microsoft account, Microsoft will pass information stored in your Microsoft account to the third-party or its vendors (e.g. payment processors) as necessary to process your payment and fulfil your order (such as name, credit card number, billing and shipping addresses and relevant contact information). The third-party can use or share the data it receives when you sign-in or make a purchase according to its own practices and policies. **You should carefully review the privacy statement for each product you sign in to and each merchant you purchase from to determine how it will use the data it collects**.
 
 **Work or school accounts**. The data associated with a work or school account, and how it will be used, is generally similar to the use and collection of data associated with a personal Microsoft account.
 
@@ -361,12 +361,12 @@ If your employer or school uses Azure Active Directory (AAD) to manage the accou
 
 If you sign in to Microsoft products with a work or school account, note:
 
-*   The owner of the domain associated with your email address may control and administer your account, and access and process your data, including the contents of your communications and files, including data stored in products provided to you by your organisation and products you acquire by yourself.
-*   Your use of the products is subject to your organisation’s policies, if any. You should consider both your organisation’s policies and whether you are comfortable enabling your organisation to access your data before you choose to use your work or school account to sign-in to products you acquire for yourself.
-*   If you lose access to your work or school account (if you change employers, for example), you may lose access to products, including content associated with those products, you acquired on your own behalf if you used your work or school account to sign in to such products.
-*   Microsoft is not responsible for the privacy or security practices of your organisation, which may differ from those of Microsoft.
-*   If your organisation is administering your use of Microsoft products, please direct your privacy enquiries, including any requests to exercise your data subject rights, to your administrator. See also the [Notice to end users](#mainnoticetoendusersmodule) section of this privacy statement.
-*   If you are uncertain whether your account is a work or school account, please contact your organisation.
+* The owner of the domain associated with your email address may control and administer your account, and access and process your data, including the contents of your communications and files, including data stored in products provided to you by your organisation and products you acquire by yourself.
+* Your use of the products is subject to your organisation’s policies, if any. You should consider both your organisation’s policies and whether you are comfortable enabling your organisation to access your data before you choose to use your work or school account to sign-in to products you acquire for yourself.
+* If you lose access to your work or school account (if you change employers, for example), you may lose access to products, including content associated with those products, you acquired on your own behalf if you used your work or school account to sign in to such products.
+* Microsoft is not responsible for the privacy or security practices of your organisation, which may differ from those of Microsoft.
+* If your organisation is administering your use of Microsoft products, please direct your privacy enquiries, including any requests to exercise your data subject rights, to your administrator. See also the [Notice to end users](#mainnoticetoendusersmodule) section of this privacy statement.
+* If you are uncertain whether your account is a work or school account, please contact your organisation.
 
 **Third-party accounts**. The data associated with a third-party Microsoft account, and how it will be used, is generally similar to the use and collection of data associated with a personal Microsoft account. Your service provider has control over your account, including the ability to access or delete your account. **You should carefully review the terms the third party provided you to understand what it can do with your account**.
 
@@ -400,11 +400,11 @@ We collect limited information about children, including name, birthdate, 
 
 **Data we collect**. We collect information about your child’s use of Xbox services, games, apps, and devices including:
 
-*   When they sign in and sign out of Xbox, purchase history, and content they obtain.
-*   Which games they play and apps they use, their game progress, achievements, play time per game, and other play statistics.
-*   Performance data about Xbox consoles, Xbox Game Pass and other Xbox apps, the Xbox network, connected accessories, and network connection, including any software or hardware errors.
-*   Content they add, upload, or share through the Xbox network, including text, pictures, and video they capture in games and apps.
-*   Social activity, including chat data and interactions with other gamers, and connections they make (friends they add and people who follow them) on the Xbox network.
+* When they sign in and sign out of Xbox, purchase history, and content they obtain.
+* Which games they play and apps they use, their game progress, achievements, play time per game, and other play statistics.
+* Performance data about Xbox consoles, Xbox Game Pass and other Xbox apps, the Xbox network, connected accessories, and network connection, including any software or hardware errors.
+* Content they add, upload, or share through the Xbox network, including text, pictures, and video they capture in games and apps.
+* Social activity, including chat data and interactions with other gamers, and connections they make (friends they add and people who follow them) on the Xbox network.
 
 If your child uses an Xbox console or Xbox app on another device capable of accessing the Xbox network, and that device includes a storage device (hard drive or memory unit), usage data will be stored on the storage device and sent to Microsoft the next time they sign in to Xbox, even if they have been playing offline.
 
@@ -442,12 +442,12 @@ To close your child’s account, sign in with their account info at  [account.
 
 **Legacy**.
 
-*   **Xbox 360**. This Xbox console collects limited required diagnostic data. This data helps keep your child’s console functioning as expected.
-*   **Kinect**. The Kinect sensor is a combination of camera, microphone, and infrared sensor that can enable motions and voice to be used to control game play. For example:
-    *   If you choose, the camera can be used to sign in to the Xbox network automatically using facial recognition. This data stays on the console, is not shared with anyone, and can be deleted at any time.
-    *   For game play, Kinect will map distances between the joints on your child’s body to create a stick figure representation to enable play.
-    *   The Kinect microphone can enable voice chat between players during play. The microphone also enables voice commands for control of the console, game, or app, or to enter search terms.
-    *   The Kinect sensor can also be used for audio and video communications through services such as Skype.
+* **Xbox 360**. This Xbox console collects limited required diagnostic data. This data helps keep your child’s console functioning as expected.
+* **Kinect**. The Kinect sensor is a combination of camera, microphone, and infrared sensor that can enable motions and voice to be used to control game play. For example:
+    * If you choose, the camera can be used to sign in to the Xbox network automatically using facial recognition. This data stays on the console, is not shared with anyone, and can be deleted at any time.
+    * For game play, Kinect will map distances between the joints on your child’s body to create a stick figure representation to enable play.
+    * The Kinect microphone can enable voice chat between players during play. The microphone also enables voice commands for control of the console, game, or app, or to enter search terms.
+    * The Kinect sensor can also be used for audio and video communications through services such as Skype.
 
 Learn more about Kinect at [Xbox Kinect and Privacy](https://aka.ms/kinectprivacy/).
 
@@ -479,12 +479,12 @@ Microsoft retains personal data for as long as necessary to provide the products
 
 Other criteria used to determine the retention periods include:
 
-*   **Do customers provide, create, or maintain the data with the expectation we will retain it until they affirmatively remove it?** Examples include a document you store in OneDrive, or an email message you keep in your Outlook.com inbox. In such cases, we would aim to maintain the data until you actively delete it, such as by moving an email from your Outlook.com inbox to the Deleted Items folder, and then emptying that folder (when your Deleted Items folder is emptied, those emptied items remain in our system for up to 30 days before final deletion). (Note that there may be other reasons why the data has to be deleted sooner, for example if you exceed limits on how much data can be stored in your account.)
-*   **Is there an automated control, such as in the Microsoft privacy dashboard, that enables the customer to access and delete the personal data at any time?** If there is not, a shortened data retention time will generally be adopted.
-*   **Is the personal data of a sensitive type?** If so, a shortened retention time would generally be adopted.
-*   **Has Microsoft adopted and announced a specific retention period for a certain data type?** For example, for Bing search queries, we de-identify stored queries by removing the entirety of the IP address after 6 months, and cookie IDs and other cross-session identifiers that are used to identify a particular account or device after 18 months.
-*   **Has the user provided consent for a longer retention period?** If so, we will retain data in accordance with your consent.
-*   **Is Microsoft subject to a legal, contractual, or similar obligation to retain or delete the data?** Examples can include mandatory data retention laws in the applicable jurisdiction, government orders to preserve data relevant to an investigation, or data retained for the purposes of litigation. Conversely, if we are required by law to remove unlawful content, we will do so.
+* **Do customers provide, create, or maintain the data with the expectation we will retain it until they affirmatively remove it?** Examples include a document you store in OneDrive, or an email message you keep in your Outlook.com inbox. In such cases, we would aim to maintain the data until you actively delete it, such as by moving an email from your Outlook.com inbox to the Deleted Items folder, and then emptying that folder (when your Deleted Items folder is emptied, those emptied items remain in our system for up to 30 days before final deletion). (Note that there may be other reasons why the data has to be deleted sooner, for example if you exceed limits on how much data can be stored in your account.)
+* **Is there an automated control, such as in the Microsoft privacy dashboard, that enables the customer to access and delete the personal data at any time?** If there is not, a shortened data retention time will generally be adopted.
+* **Is the personal data of a sensitive type?** If so, a shortened retention time would generally be adopted.
+* **Has Microsoft adopted and announced a specific retention period for a certain data type?** For example, for Bing search queries, we de-identify stored queries by removing the entirety of the IP address after 6 months, and cookie IDs and other cross-session identifiers that are used to identify a particular account or device after 18 months.
+* **Has the user provided consent for a longer retention period?** If so, we will retain data in accordance with your consent.
+* **Is Microsoft subject to a legal, contractual, or similar obligation to retain or delete the data?** Examples can include mandatory data retention laws in the applicable jurisdiction, government orders to preserve data relevant to an investigation, or data retained for the purposes of litigation. Conversely, if we are required by law to remove unlawful content, we will do so.
 
 California Consumer Privacy ActCalifornia Consumer Privacy Actmaincaliforniaconsumerprivacyactmodule
 
@@ -502,42 +502,42 @@ You have a right not to receive discriminatory treatment if you exercise your CC
 
 Categories of Personal Data
 
-*   Name and contact data
-    *   Sources of personal data: Interactions with users and partners with whom we offer co-branded services
-    *   Purposes of Processing (Collection and Sharing with Third Parties): Provide our products; respond to customer questions; help, secure, and troubleshoot; and marketing
-    *   Recipients: Service providers and user-directed entities
-*   Credentials
-    *   Sources of personal data: Interactions with users and organisations that represent users
-    *   Purposes of Processing (Collection and Sharing with Third Parties): Provide our products; authentication and account access; and help, secure and troubleshoot
-    *   Recipients: Service providers and user-directed entities
-*   Demographic data
-    *   Sources of personal data: Interactions with users and purchases from data brokers
-    *   Purposes of Processing (Collection and Sharing with Third Parties): Provide and personalise our products; product development; help, secure and troubleshoot; and marketing
-    *   Recipients: Service providers and user-directed entities
-*   Payment data
-    *   Sources of personal data: Interactions with users and financial institutions
-    *   Purposes of Processing (Collection and Sharing with Third Parties): Transact commerce; process transactions; fulfil orders; help, secure and troubleshoot; and detect and prevent fraud
-    *   Recipients: Service providers and user-directed entities
-*   Subscription and licensing data
-    *   Sources of personal data: Interactions with users and organisations that represent users
-    *   Purposes of Processing (Collection and Sharing with Third Parties): Provide, personalise and activate our products; customer support; help, secure and troubleshoot; and marketing
-    *   Recipients: Service providers and user-directed entities
-*   Interactions
-    *   Sources of personal data: Interactions with users including data Microsoft generates through those interactions
-    *   Purposes of Processing (Collection and Sharing with Third Parties): Provide and personalise our products; product improvement; product development; marketing; and help, secure and troubleshoot
-    *   Recipients: Service providers and user-directed entities
-*   Content
-    *   Sources of personal data: Interactions with users and organisations that represent users
-    *   Purposes of Processing (Collection and Sharing with Third Parties): Provide our products; safety; and help, secure and troubleshoot
-    *   Recipients: Service providers and user-directed entities
-*   Video or recordings
-    *   Sources of personal data: Interactions with users and publicly available sources
-    *   Purposes of Processing (Collection and Sharing with Third Parties): Provide our products; product improvement; product development; marketing; help, secure, and troubleshoot; and safety
-    *   Recipients: Service providers and user-directed entities
-*   Feedback and ratings
-    *   Sources of personal data: Interactions with users
-    *   Purposes of Processing (Collection and Sharing with Third Parties): Provide our products; product improvement; product development; customer support; and help, secure, and troubleshoot
-    *   Recipients: Service providers and user-directed entities
+* Name and contact data
+    * Sources of personal data: Interactions with users and partners with whom we offer co-branded services
+    * Purposes of Processing (Collection and Sharing with Third Parties): Provide our products; respond to customer questions; help, secure, and troubleshoot; and marketing
+    * Recipients: Service providers and user-directed entities
+* Credentials
+    * Sources of personal data: Interactions with users and organisations that represent users
+    * Purposes of Processing (Collection and Sharing with Third Parties): Provide our products; authentication and account access; and help, secure and troubleshoot
+    * Recipients: Service providers and user-directed entities
+* Demographic data
+    * Sources of personal data: Interactions with users and purchases from data brokers
+    * Purposes of Processing (Collection and Sharing with Third Parties): Provide and personalise our products; product development; help, secure and troubleshoot; and marketing
+    * Recipients: Service providers and user-directed entities
+* Payment data
+    * Sources of personal data: Interactions with users and financial institutions
+    * Purposes of Processing (Collection and Sharing with Third Parties): Transact commerce; process transactions; fulfil orders; help, secure and troubleshoot; and detect and prevent fraud
+    * Recipients: Service providers and user-directed entities
+* Subscription and licensing data
+    * Sources of personal data: Interactions with users and organisations that represent users
+    * Purposes of Processing (Collection and Sharing with Third Parties): Provide, personalise and activate our products; customer support; help, secure and troubleshoot; and marketing
+    * Recipients: Service providers and user-directed entities
+* Interactions
+    * Sources of personal data: Interactions with users including data Microsoft generates through those interactions
+    * Purposes of Processing (Collection and Sharing with Third Parties): Provide and personalise our products; product improvement; product development; marketing; and help, secure and troubleshoot
+    * Recipients: Service providers and user-directed entities
+* Content
+    * Sources of personal data: Interactions with users and organisations that represent users
+    * Purposes of Processing (Collection and Sharing with Third Parties): Provide our products; safety; and help, secure and troubleshoot
+    * Recipients: Service providers and user-directed entities
+* Video or recordings
+    * Sources of personal data: Interactions with users and publicly available sources
+    * Purposes of Processing (Collection and Sharing with Third Parties): Provide our products; product improvement; product development; marketing; help, secure, and troubleshoot; and safety
+    * Recipients: Service providers and user-directed entities
+* Feedback and ratings
+    * Sources of personal data: Interactions with users
+    * Purposes of Processing (Collection and Sharing with Third Parties): Provide our products; product improvement; product development; customer support; and help, secure, and troubleshoot
+    * Recipients: Service providers and user-directed entities
 
 While the bulleted list above contains the primary sources and purposes of processing for each category of personal data, we also collect personal data from the sources listed in the [Personal data we collect](#mainpersonaldatawecollect) section, such as developers who create experiences through or for Microsoft products. Similarly, we process all categories of personal data for the purposes described in the [How we use personal data](#mainhowweusepersonaldatamodule) section, such as meeting our legal obligations, developing our workforce, and doing research.
 
@@ -549,10 +549,10 @@ AdvertisingAdvertisingmainadvertisingmodule
 
 Advertising allows us to provide, support, and improve some of our products. Microsoft does not use what you say in email, chat, video calls, voice mail or your documents, photos or other personal files to target ads to you. We use other data, detailed below, for advertising in our products and on third-party properties. For example:
 
-*   Microsoft may use data we collect to select and deliver some of the ads you see on Microsoft web properties, such as [Microsoft.com](https://www.microsoft.com/), MSN, and Bing.
-*   When the advertising ID is enabled in Windows as part of your privacy settings, third parties can access and use the advertising ID (much the same way that websites can access and use a unique identifier stored in a cookie) to select and deliver ads in such apps.
-*   We may share data we collect with partners, such as Verizon Media, AppNexus, or Facebook (see below), so that the ads you see in our products and their products are more relevant and valuable to you.
-*   Advertisers may choose to place our web beacons on their sites, or use similar technologies, in order to allow Microsoft to collect information on their sites such as activities, purchases, and visits; we use this data on behalf of our advertising customers to provide ads.
+* Microsoft may use data we collect to select and deliver some of the ads you see on Microsoft web properties, such as [Microsoft.com](https://www.microsoft.com/), MSN, and Bing.
+* When the advertising ID is enabled in Windows as part of your privacy settings, third parties can access and use the advertising ID (much the same way that websites can access and use a unique identifier stored in a cookie) to select and deliver ads in such apps.
+* We may share data we collect with partners, such as Verizon Media, AppNexus, or Facebook (see below), so that the ads you see in our products and their products are more relevant and valuable to you.
+* Advertisers may choose to place our web beacons on their sites, or use similar technologies, in order to allow Microsoft to collect information on their sites such as activities, purchases, and visits; we use this data on behalf of our advertising customers to provide ads.
 
 The ads that you see may be selected based on data we process about you, such as your interests and favourites, your location, your transactions, how you use our products, your search queries or the content you view. For example, if you view content on MSN about cars, we may show advertisements about cars; if you search “pizza places in Seattle” on Bing, you may see advertisements in your search results for restaurants in Seattle.
 
@@ -562,14 +562,14 @@ We may use information about you to serve you with personalised advertising when
 
 Further details regarding our advertising-related uses of data include:
 
-*   **Advertising industry best practices and commitments**. Microsoft is a member of the [Network Advertising Initiative](https://www.networkadvertising.org/) (NAI) and adheres to the NAI Code of Conduct. We also adhere to the following self-regulatory programmes:
-    *   In the US: [Digital Advertising Alliance (DAA)](https://www.aboutads.info/)
-    *   In Europe: [European Interactive Digital Advertising Alliance (EDAA)](https://www.youronlinechoices.com/)
-    *   In Canada: [Ad Choices: Digital Advertising Alliance of Canada (DAAC)](https://www.youradchoices.ca/) / [Choix de Pub: l'Alliance de la publicité numérique du Canada (DAAC)](https://www.youradchoices.ca/fr)
-*   **Health-related ad targeting**. In the United States, we provide personalised advertising based on a limited number of standard, non-sensitive health-related interest categories, including allergies, arthritis, cholesterol, cold and flu, diabetes, gastrointestinal health, headache / migraine, healthy eating, healthy heart, men’s health, oral health, osteoporosis, skin health, sleep and vision / eye care. We will also personalise ads based on customised, non-sensitive health-related interest categories as requested by advertisers.
-*   **Children and advertising**. We do not deliver personalised advertising to children whose birthdate in their Microsoft account identifies them as under 18 years of age.
-*   **Data retention**. For personalised advertising, we retain data for no more than 13 months, unless we obtain your consent to retain the data longer.
-*   **Data sharing**. In some cases, we share with advertisers reports about the data we have collected on their sites or ads.
+* **Advertising industry best practices and commitments**. Microsoft is a member of the [Network Advertising Initiative](https://www.networkadvertising.org/) (NAI) and adheres to the NAI Code of Conduct. We also adhere to the following self-regulatory programmes:
+    * In the US: [Digital Advertising Alliance (DAA)](https://www.aboutads.info/)
+    * In Europe: [European Interactive Digital Advertising Alliance (EDAA)](https://www.youronlinechoices.com/)
+    * In Canada: [Ad Choices: Digital Advertising Alliance of Canada (DAAC)](https://www.youradchoices.ca/) / [Choix de Pub: l'Alliance de la publicité numérique du Canada (DAAC)](https://www.youradchoices.ca/fr)
+* **Health-related ad targeting**. In the United States, we provide personalised advertising based on a limited number of standard, non-sensitive health-related interest categories, including allergies, arthritis, cholesterol, cold and flu, diabetes, gastrointestinal health, headache / migraine, healthy eating, healthy heart, men’s health, oral health, osteoporosis, skin health, sleep and vision / eye care. We will also personalise ads based on customised, non-sensitive health-related interest categories as requested by advertisers.
+* **Children and advertising**. We do not deliver personalised advertising to children whose birthdate in their Microsoft account identifies them as under 18 years of age.
+* **Data retention**. For personalised advertising, we retain data for no more than 13 months, unless we obtain your consent to retain the data longer.
+* **Data sharing**. In some cases, we share with advertisers reports about the data we have collected on their sites or ads.
 
 **Data collected by other advertising companies**. Advertisers sometimes include their own web beacons (or those of their other advertising partners) within their advertisements that we display, enabling them to set and read their own cookie. Additionally, Microsoft partners with third-party ad companies to help provide some of our advertising services, and we also allow other third-party ad companies to display advertisements on our sites. These third parties may place cookies on your computer and collect data about your online activities across websites or online services. These companies currently include, but are not limited to: [AppNexus](https://www.appnexus.com/), [Facebook](https://www.facebook.com/help/568137493302217), [Media.net](https://www.media.net/adchoices), [Outbrain](https://my.outbrain.com/recommendations-settings/home), [Taboola](https://www.taboola.com/privacy-policy#user-choices-and-optout) and [Verizon Media](https://www.verizonmedia.com/policies/us/en/verizonmedia/privacy/index.html). Select any of the preceding links to find more information on each company's practices, including the choices it offers. Many of these companies are also members of the [NAI](https://thenai.org/opt-out/) or [DAA](https://www.aboutads.info/choices/), which each provide a simple way to opt out of ad targeting from participating companies.
 
@@ -585,9 +585,9 @@ Changes to this privacy statementChanges to this privacy statementmainchangestot
 
 We update this privacy statement when necessary to provide greater transparency or in response to:
 
-*   Feedback from customer, regulators, industry, or other stakeholders.
-*   Changes in our products.
-*   Changes in our data processing activities or policies.
+* Feedback from customer, regulators, industry, or other stakeholders.
+* Changes in our products.
+* Changes in our data processing activities or policies.
 
 When we post changes to this statement, we will revise the "last updated" date at the top of the statement and describe the changes on the [Change history](https://go.microsoft.com/fwlink/p/?LinkId=780766) page. If there are material changes to the statement, such as a change to the purposes of processing of personal data that is not consistent with the purpose for which it was originally collected, we will notify you either by prominently posting a notice of such changes before they take effect or by directly sending you a notification. We encourage you to periodically review this privacy statement to learn how Microsoft is protecting your information.
 
@@ -597,8 +597,8 @@ If you have a privacy concern, complaint, or question for the Microsoft Chief Pr
 
 When Microsoft is a controller, unless otherwise stated, Microsoft Corporation and, for those in the European Economic Area, the United Kingdom, and Switzerland, Microsoft Ireland Operations Limited are the data controllers for personal data we collect through the products subject to this statement. Our addresses are:
 
-*   Microsoft Privacy, Microsoft Corporation, One Microsoft Way, Redmond, Washington 98052, USA. Telephone: +1 (425) 882 8080.
-*   Microsoft Ireland Operations Limited, Attn: Data Protection Officer, One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, Ireland. Telephone: +353 1 706 3117.
+* Microsoft Privacy, Microsoft Corporation, One Microsoft Way, Redmond, Washington 98052, USA. Telephone: +1 (425) 882 8080.
+* Microsoft Ireland Operations Limited, Attn: Data Protection Officer, One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, Ireland. Telephone: +353 1 706 3117.
 
 To find the Microsoft subsidiary in your country or region, see the list of [Microsoft office locations around the world](https://www.microsoft.com/worldwide/).
 
@@ -612,11 +612,11 @@ Enterprise and developer productsEnterprise and developer productsmainenterprise
 
 Enterprise and Developer Products are Microsoft products and related software offered to and designed primarily for use by organisations and developers. They include:
 
-*   Cloud services, referred to as Online Services in the Product Terms, such as Microsoft 365 and Office 365, Microsoft Azure, Microsoft Dynamics365 and Microsoft Intune for which an organisation (our customer) contracts with Microsoft for the services (“Enterprise Online Services”).
-*   Other enterprise and developer tools and cloud-based services, such as Azure PlayFab Services (to learn more see [Azure PlayFab Terms of Service](https://playfab.com/terms/)).
-*   Server, developer and hybrid cloud platform products, such as Windows Server, SQL Server, Visual Studio, System Centre, Azure Stack and open source software like Bot Framework solutions (“Enterprise and Developer Software”).
-*   Appliances and hardware used for storage infrastructure, such as StorSimple (“Enterprise Appliances”).
-*   Professional services referred to in the Product Terms that are available with Enterprise Online Services, such as onboarding services, data migration services, data science services, or services to supplement existing features in the Enterprise Online Services.
+* Cloud services, referred to as Online Services in the Product Terms, such as Microsoft 365 and Office 365, Microsoft Azure, Microsoft Dynamics365 and Microsoft Intune for which an organisation (our customer) contracts with Microsoft for the services (“Enterprise Online Services”).
+* Other enterprise and developer tools and cloud-based services, such as Azure PlayFab Services (to learn more see [Azure PlayFab Terms of Service](https://playfab.com/terms/)).
+* Server, developer and hybrid cloud platform products, such as Windows Server, SQL Server, Visual Studio, System Centre, Azure Stack and open source software like Bot Framework solutions (“Enterprise and Developer Software”).
+* Appliances and hardware used for storage infrastructure, such as StorSimple (“Enterprise Appliances”).
+* Professional services referred to in the Product Terms that are available with Enterprise Online Services, such as onboarding services, data migration services, data science services, or services to supplement existing features in the Enterprise Online Services.
 
 **_In the event of a conflict between this Microsoft privacy statement and the terms of any agreement(s) between a customer and Microsoft for Enterprise and Developer Products, the terms of those agreement(s) will control._**
 
@@ -626,11 +626,11 @@ If any of the terms below are not defined in this Privacy Statement or the Produ
 
 **General**. When a customer tries, purchases, uses, or subscribes to Enterprise and Developer Products, or obtains support for or professional services with such products, Microsoft receives data from you and collects and generates data to provide the service (including improving, securing, and updating the service), conduct our business operations, and communicate with the customer. For example:
 
-*   When a customer engages with a Microsoft sales representative, we collect the customer’s name and contact data, along with information about the customer’s organisation, to support that engagement.
-*   When a customer interacts with a Microsoft support professional, we collect device and usage data or error reports to diagnose and resolve problems.
-*   When a customer pays for products, we collect contact and payment data to process the payment.
-*   When Microsoft sends communications to a customer, we use data to personalise the content of the communication.
-*   When a customer engages with Microsoft for professional services, we collect the name and contact data of the customer’s designated point of contact and use information provided by the customer to perform the services that the customer has requested.
+* When a customer engages with a Microsoft sales representative, we collect the customer’s name and contact data, along with information about the customer’s organisation, to support that engagement.
+* When a customer interacts with a Microsoft support professional, we collect device and usage data or error reports to diagnose and resolve problems.
+* When a customer pays for products, we collect contact and payment data to process the payment.
+* When Microsoft sends communications to a customer, we use data to personalise the content of the communication.
+* When a customer engages with Microsoft for professional services, we collect the name and contact data of the customer’s designated point of contact and use information provided by the customer to perform the services that the customer has requested.
 
 The Enterprise and Developer Products enable you to purchase, subscribe to, or use other products and online services from Microsoft or third parties with different privacy practices, and those other products and online services are governed by their respective privacy statements and policies.
 
@@ -656,9 +656,9 @@ Enterprise and developer software and enterprise appliancesEnterprise and develo
 
 Enterprise and developer software and enterprise appliances collect data to operate effectively and provide you the best experiences. The data we collect depends on the features you use, as well as your configuration and settings, but it is generally limited to device and usage data. Customers have choices about the data they provide. Here are examples of the data we collect:
 
-*   During installation or when you upgrade an enterprise and developer software, we may collect device and usage data to learn whether you experience any difficulties.
-*   When you use enterprise software or enterprise appliances, we may collect device and usage data to learn about your operating environment to improve security features.
-*   When you experience a crash using enterprise software or enterprise appliances, you may choose to send Microsoft an error report to help us diagnose the problem and deliver customer support.
+* During installation or when you upgrade an enterprise and developer software, we may collect device and usage data to learn whether you experience any difficulties.
+* When you use enterprise software or enterprise appliances, we may collect device and usage data to learn about your operating environment to improve security features.
+* When you experience a crash using enterprise software or enterprise appliances, you may choose to send Microsoft an error report to help us diagnose the problem and deliver customer support.
 
 Microsoft uses the data we collect from enterprise and developer software and enterprise appliances to provide and improve our products, to deliver customer support, to activate the product, to communicate with you, and to operate our business.
 
@@ -668,9 +668,9 @@ Microsoft SQL Server is a relational database management platform and includes p
 
 HoloLens also processes and collects data related to the HoloLens experience and device, which include cameras, microphones, and infrared sensors that enable motions and voice to navigate.
 
-*   If you choose, cameras can be used to sign you in automatically using your iris. To do this, HoloLens takes an image of your iris and measures distances between key points to create and store a numeric value that represents only you. This data stays on the HoloLens and is not shared with anyone, and you can choose to delete this data from your HoloLens at any time.
-*   HoloLens also detects hand gestures intended for system interactions (such as menu navigation, pan/zoom, and scroll). This data is processed on your HoloLens device and is not stored.
-*   HoloLens derives tracking points based on your environment which allows it to understand surfaces in space and allows you to place digital assets on them. There are no images associated with this environmental data and it is stored locally on the HoloLens device. You can choose to delete this data from your HoloLens at any time.
+* If you choose, cameras can be used to sign you in automatically using your iris. To do this, HoloLens takes an image of your iris and measures distances between key points to create and store a numeric value that represents only you. This data stays on the HoloLens and is not shared with anyone, and you can choose to delete this data from your HoloLens at any time.
+* HoloLens also detects hand gestures intended for system interactions (such as menu navigation, pan/zoom, and scroll). This data is processed on your HoloLens device and is not stored.
+* HoloLens derives tracking points based on your environment which allows it to understand surfaces in space and allows you to place digital assets on them. There are no images associated with this environmental data and it is stored locally on the HoloLens device. You can choose to delete this data from your HoloLens at any time.
 
 The headset's microphones enable voice commands for navigation, controlling apps, or to enter search terms. [Learn more about voice data collection](#mainspeechinkingtypingmodule).
 
@@ -692,8 +692,8 @@ Microsoft 365, previous versions called Office 365, is a collection of productiv
 
 **Diagnostic Data**. Diagnostic data is used to (i) keep your Office apps secure and up to date; (ii) detect, diagnose, and remediate problems; and (iii) make product improvements. This data does not include a user's name or email address, the content of the user's files, or information about apps unrelated to Office. Users have a choice between two different levels of diagnostic data collection, Required and Optional.
 
-*   **Required**. The minimum data necessary to help keep Office apps secure, up to date, and performing as expected on the device it's installed on.
-*   **Optional**. Additional data that helps us make product improvements and provides enhanced information to help us detect, diagnose, and remediate issues.
+* **Required**. The minimum data necessary to help keep Office apps secure, up to date, and performing as expected on the device it's installed on.
+* **Optional**. Additional data that helps us make product improvements and provides enhanced information to help us detect, diagnose, and remediate issues.
 
 See [Diagnostic Data in Office](https://go.microsoft.com/fwlink/?linkid=2083611) for more information.
 
@@ -701,8 +701,8 @@ See [Diagnostic Data in Office](https://go.microsoft.com/fwlink/?linkid=2083611)
 
 Microsoft 365 consists of client software applications and connected experiences designed to enable you to create, communicate, and collaborate more effectively. Working with others on a document stored on OneDrive for Business or translating the contents of a Word document into a different language are examples of connected experiences. There are two types of connected experiences.
 
-*   **Experiences that analyse your content**. Experiences that use your Office content to provide you with design recommendations, editing suggestions, data insights, and similar features. For example, PowerPoint Designer or Editor in Word.
-*   **Experiences that download online content**. Experiences that allow you to search and download online content including templates, images, 3D models, videos, and reference materials to enhance your documents. For example, templates or PowerPoint QuickStarter.
+* **Experiences that analyse your content**. Experiences that use your Office content to provide you with design recommendations, editing suggestions, data insights, and similar features. For example, PowerPoint Designer or Editor in Word.
+* **Experiences that download online content**. Experiences that allow you to search and download online content including templates, images, 3D models, videos, and reference materials to enhance your documents. For example, templates or PowerPoint QuickStarter.
 
 You can access the privacy controls within your Office apps by selecting **File** > **Account** > **Account Privacy**. These privacy settings allow you to configure your connected experiences. For example, you can choose to enable connected experiences that download online content, but not connected experiences that analyse content. Turning off connected experiences will also turn off additional experiences, such as document co-authoring and online file storage. But even if you use this privacy setting to turn off connected experiences, certain functionality will remain available, such as syncing your mailbox in Outlook, as well as essential services described below.
 
@@ -818,8 +818,8 @@ Microsoft provides a core Surface Duo experience that runs on the Android operat
 
 **Diagnostic data**. Surface Duo collects diagnostic data to solve problems and to keep the core Surface Duo experience up to date, secure, and operating properly. This data also helps us improve Surface Duo and related Microsoft products and services. The data does not include your username, email address or the content of your files. There are two levels of diagnostic data: Required diagnostic data and Optional diagnostic data.
 
-*   **Required**. The minimum data necessary to help keep the core Surface Duo experience secure, up to date, and performing as expected.
-*   **Optional**. Additional data that helps us make product improvements and provides enhanced information to help Microsoft detect, diagnose, and remediate issues.
+* **Required**. The minimum data necessary to help keep the core Surface Duo experience secure, up to date, and performing as expected.
+* **Optional**. Additional data that helps us make product improvements and provides enhanced information to help Microsoft detect, diagnose, and remediate issues.
 
 [Learn more in Surface Duo Privacy Settings](https://go.microsoft.com/fwlink/?linkid=2127938).
 
@@ -883,9 +883,9 @@ Data about how you use your browser, such as your browsing history, web form dat
 
 Microsoft Edge allows you to capture and save content on your device, such as:
 
-*   **Settings and More**. Allows you to manage your favourites, downloads, history, extensions and collections.
-*   **Collections**. Allows you to collect text, images, videos, and other content in a note page in your browser. When you drag content into your collection, it is cached on your device and can be deleted through your collection.
-*   **Website Pin to Taskbar**. Allows you to pin your favorite websites to the Windows taskbar. Websites will be able to see which of their webpages you have pinned, so they can provide you a notification badge letting you know there is something new for you to check out on their websites.
+* **Settings and More**. Allows you to manage your favourites, downloads, history, extensions and collections.
+* **Collections**. Allows you to collect text, images, videos, and other content in a note page in your browser. When you drag content into your collection, it is cached on your device and can be deleted through your collection.
+* **Website Pin to Taskbar**. Allows you to pin your favorite websites to the Windows taskbar. Websites will be able to see which of their webpages you have pinned, so they can provide you a notification badge letting you know there is something new for you to check out on their websites.
 
 Microsoft collects data necessary to provide features you request in Microsoft Edge. For example, you may choose to sync browser information saved on your device across other devices when you are signed in with your Microsoft account. You may choose which browser data to sync, including your favourites, browsing history, extensions and associated data, settings, open tabs, autofill form entries (such as your name, address and phone number), passwords, payment information and other data types as they become available. If you choose to sync extensions that you acquired from third-party web stores, a copy of those extensions will be downloaded directly from those web stores on your synced device(s). If you have turned on Password Monitor, your saved credentials are hashed, encrypted and sent to Microsoft’s Password Monitor service to warn you if your credentials were detected as part of a malicious attack or a breach. Microsoft does not retain this data after the check is complete. You can disable or configure syncing in the Microsoft Edge settings.
 
@@ -967,24 +967,24 @@ If an organisation (such as your employer or school) uses Azure Active Directory
 
 **Required diagnostic data** includes information about your device, its settings and capabilities, and whether it is performing properly. We collect the following Required diagnostic data:
 
-*   Device, connectivity and configuration data:
-    *   Data about the device such as the processor type, OEM manufacturer, type of battery and capacity, number and type of cameras, firmware and memory attributes.
-    *   Network capabilities and connection data such as the device’s IP address, mobile network (including IMEI and mobile operator), and whether the device is connected to a free or paid network.
-    *   Data about the operating system and its configuration such as the OS version and build number, region and language settings, diagnostics data settings, and whether the device is part of the Windows Insider programme.
-    *   Data about connected peripherals such as model, manufacturer, drivers and compatibility data.
-    *   Data about the applications installed on the device such as application name, version and publisher.
-*   Whether a device is ready for an update and whether there are factors that may impede the ability to receive updates, such as low battery, limited disk space, or connectivity through a paid network.
-*   Whether updates complete successfully or fail.
-*   Data about the reliability of the diagnostics collection system itself.
-*   Basic error reporting, which is health data about the operating system and applications running on your device. For example, basic error reporting tells us if an application, such as Microsoft Paint or a third-party game, hangs or crashes.
+* Device, connectivity and configuration data:
+    * Data about the device such as the processor type, OEM manufacturer, type of battery and capacity, number and type of cameras, firmware and memory attributes.
+    * Network capabilities and connection data such as the device’s IP address, mobile network (including IMEI and mobile operator), and whether the device is connected to a free or paid network.
+    * Data about the operating system and its configuration such as the OS version and build number, region and language settings, diagnostics data settings, and whether the device is part of the Windows Insider programme.
+    * Data about connected peripherals such as model, manufacturer, drivers and compatibility data.
+    * Data about the applications installed on the device such as application name, version and publisher.
+* Whether a device is ready for an update and whether there are factors that may impede the ability to receive updates, such as low battery, limited disk space, or connectivity through a paid network.
+* Whether updates complete successfully or fail.
+* Data about the reliability of the diagnostics collection system itself.
+* Basic error reporting, which is health data about the operating system and applications running on your device. For example, basic error reporting tells us if an application, such as Microsoft Paint or a third-party game, hangs or crashes.
 
 **Optional diagnostic data** includes more detailed information about your device and its settings, capabilities, and device health. Optional diagnostic data also includes data about the websites you browse, device activity (also sometimes referred to as usage), and enhanced error reporting that helps Microsoft to fix and improve products and services for all users. When you choose to send Optional diagnostic data, Required diagnostic data will always be included, and we collect the following additional information:
 
-*   Additional data about the device, connectivity, and configuration, beyond that collected under Required diagnostic data.
-*   Status and logging information about the health of operating system and other system components beyond that collected about the update and diagnostics systems under Required diagnostic data.
-*   App activity, such as which programmes are launched on a device, how long they run and how quickly they respond to input.
-*   Browser activity, including browsing history and search terms, in Microsoft browsers (Microsoft Edge or Internet Explorer).
-*   Enhanced error reporting, including the memory state of the device when a system or app crash occurs (which may unintentionally contain user content, such as parts of a file you were using when the problem occurred). Crash data is never used for Tailored experiences as described below.
+* Additional data about the device, connectivity, and configuration, beyond that collected under Required diagnostic data.
+* Status and logging information about the health of operating system and other system components beyond that collected about the update and diagnostics systems under Required diagnostic data.
+* App activity, such as which programmes are launched on a device, how long they run and how quickly they respond to input.
+* Browser activity, including browsing history and search terms, in Microsoft browsers (Microsoft Edge or Internet Explorer).
+* Enhanced error reporting, including the memory state of the device when a system or app crash occurs (which may unintentionally contain user content, such as parts of a file you were using when the problem occurred). Crash data is never used for Tailored experiences as described below.
 
 Some of the data described above may not be collected from your device even if you choose to send Optional diagnostic data. Microsoft minimises the volume of Optional diagnostic data it collects from all devices by collecting some of the data from only a subset of devices (sample). By running the Diagnostic Data Viewer tool, you can see an icon which indicates whether your device is part of a sample and also which specific data is collected from your device. Instructions for how to download the Diagnostic Data Viewer tool can be found in the Windows settings app under Diagnostics & feedback.
 
@@ -1114,17 +1114,17 @@ Additionally, data about how you use your browser, such as your browsing history
 
 Microsoft Edge allows you to capture and save content on your device, such as:
 
-*   **Web note**. Allows you to create ink and text annotations on the webpages you visit, and clip, save, or share them.
-*   **Active reading**. Allows you to create and manage reading lists, including websites or documents.
-*   **Hub**. Allows you to easily manage your reading lists, favourites, downloads and history all in one area.
-*   **Website Pin to Taskbar**. Allows you to pin your favorite websites to the Windows taskbar. Websites will be able to see which of their webpages you have pinned, so they can provide you a notification badge letting you know there is something new for you to check out on their websites.
+* **Web note**. Allows you to create ink and text annotations on the webpages you visit, and clip, save, or share them.
+* **Active reading**. Allows you to create and manage reading lists, including websites or documents.
+* **Hub**. Allows you to easily manage your reading lists, favourites, downloads and history all in one area.
+* **Website Pin to Taskbar**. Allows you to pin your favorite websites to the Windows taskbar. Websites will be able to see which of their webpages you have pinned, so they can provide you a notification badge letting you know there is something new for you to check out on their websites.
 
 Some Microsoft browser information saved on your device will be synced across other devices when you sign in with your Microsoft account. For instance, in Internet Explorer, this information includes your browsing history and favourites; and in Microsoft Edge, it includes your favourites, reading lists, autofill form entries (such as your name, address, and phone number) and may include data for extensions that you have installed. As an example, if you sync your Microsoft Edge reading list across devices, copies of the content you choose to save to your reading list will be sent to each synced device for later viewing. You can disable syncing in Internet Explorer by going to **Start** > **Settings** > **Accounts** > **Sync your settings**. (For more information, see the [Sync settings](#mainsyncsettingsmodule) section of this privacy statement.) You can also disable syncing of Microsoft Edge browser information by turning off the sync option in Microsoft Edge Settings.
 
 Microsoft Edge and Internet Explorer use your search queries and browsing history to provide you with faster browsing and more relevant search results. These features include:
 
-*   **Search suggestions** in Internet Explorer automatically sends the information you type into the browser address bar to your default search provider (such as Bing) to offer search recommendations as you type each character.
-*   **Search and site suggestions** in Microsoft Edge automatically sends the information you type into the browser address bar to Bing (even if you have selected another default search provider) to offer search recommendations as you type each character.
+* **Search suggestions** in Internet Explorer automatically sends the information you type into the browser address bar to your default search provider (such as Bing) to offer search recommendations as you type each character.
+* **Search and site suggestions** in Microsoft Edge automatically sends the information you type into the browser address bar to Bing (even if you have selected another default search provider) to offer search recommendations as you type each character.
 
 You can turn off these features at any time. In order to provide search results, Microsoft Edge and Internet Explorer send your search queries, standard device information, and location (if you have location enabled) to your default search provider. If Bing is your default search provider, we use this data as described in the [Bing](#mainbingmodule) section of this privacy statement.
 
@@ -1198,18 +1198,18 @@ Xbox continues to provide new experiences in client apps that are connected to a
 
 **Data we collect** about your use of Xbox services, games, apps, and consoles includes:
 
-*   When you sign in and sign out of Xbox, any purchases you make, and content you obtain.
-*   Which games you play and apps you use, your game progress, achievements, play time per game, and other play statistics.
-*   Performance data about Xbox consoles, Xbox Game Pass and other Xbox apps, the Xbox network, connected accessories, and your network connection, including any software or hardware errors.
-*   Content you add, upload, or share through the Xbox network, including text, pictures, and video you capture in games and apps.
-*   Social activity, including chat data and interactions with other gamers, and connections you make (friends you add and people who follow you) on the Xbox network.
+* When you sign in and sign out of Xbox, any purchases you make, and content you obtain.
+* Which games you play and apps you use, your game progress, achievements, play time per game, and other play statistics.
+* Performance data about Xbox consoles, Xbox Game Pass and other Xbox apps, the Xbox network, connected accessories, and your network connection, including any software or hardware errors.
+* Content you add, upload, or share through the Xbox network, including text, pictures, and video you capture in games and apps.
+* Social activity, including chat data and interactions with other gamers, and connections you make (friends you add and people who follow you) on the Xbox network.
 
 If you use an Xbox console or Xbox app on another device capable of accessing the Xbox network, and that device includes a storage device (hard drive or memory unit), usage data will be stored on the storage device and sent to Microsoft the next time you sign in to Xbox, even if you’ve been playing offline.
 
 **Xbox console diagnostic data**. Diagnostic data has two categories: required and optional. If you use an Xbox console, the console will send required data to Microsoft. Optional data is additional data that you choose to share with Microsoft.
 
-*   **Required**. The minimum data necessary to help keep Xbox safe, secure, up to date, and performing as expected.
-*   **Optional**. Optional data includes additional details about your console, its settings, its health, its use, and enhanced error reporting to help us detect, diagnose, and fix problems.
+* **Required**. The minimum data necessary to help keep Xbox safe, secure, up to date, and performing as expected.
+* **Optional**. Optional data includes additional details about your console, its settings, its health, its use, and enhanced error reporting to help us detect, diagnose, and fix problems.
 
 Learn more at [Manage settings for optional data sharing](https://www.xbox.com/managedatacollection).
 
@@ -1223,9 +1223,9 @@ Data we collect also enables us to provide you with personalised, curated experi
 
 **Xbox data viewable by others**. Your gamertag, game and play statistics, achievements, presence (whether you are currently signed in to Xbox), content you share, and other data about your activity on Xbox can be seen by:
 
-*   Other players signed in to Xbox.
-*   Customers of third-party services you’ve linked your profile to, or
-*   Other services associated with Xbox (including those of partner companies).
+* Other players signed in to Xbox.
+* Customers of third-party services you’ve linked your profile to, or
+* Other services associated with Xbox (including those of partner companies).
 
 For example, your gamertag and scores that show on game leaderboards are considered public and cannot be hidden. For other data, you can adjust your privacy settings on consoles and at [Xbox.com](https://www.xbox.com/) to limit or block what is shared with the public or with friends.
 
@@ -1251,13 +1251,13 @@ For more information about Microsoft’s collection of data from children, inclu
 
 **Legacy**.
 
-*   **Xbox 360**. This Xbox console collects limited required diagnostic data to keep your console functioning as expected while using a console connected to the Xbox network.
-*   **Kinect**. The Kinect sensor is a combination of camera, microphone, and infrared sensor that can enable motions and voice to be used to control gameplay. For example:
+* **Xbox 360**. This Xbox console collects limited required diagnostic data to keep your console functioning as expected while using a console connected to the Xbox network.
+* **Kinect**. The Kinect sensor is a combination of camera, microphone, and infrared sensor that can enable motions and voice to be used to control gameplay. For example:
     
-    *   If you choose, the camera can be used to sign you in to the Xbox network automatically using facial recognition. This data stays on the console and is not shared with anyone, and you can choose to delete this data from your console at any time.
-    *   For game play, Kinect will map distances between your body's joints to create a stick figure representation of you that helps Kinect enable play.
-    *   The Kinect microphone can enable voice chat between players during play. The microphone also enables voice commands for control of the console, game, or app, or to enter search terms.
-    *   The Kinect sensor can also be used for audio and video communications through services such as Skype.
+    * If you choose, the camera can be used to sign you in to the Xbox network automatically using facial recognition. This data stays on the console and is not shared with anyone, and you can choose to delete this data from your console at any time.
+    * For game play, Kinect will map distances between your body's joints to create a stick figure representation of you that helps Kinect enable play.
+    * The Kinect microphone can enable voice chat between players during play. The microphone also enables voice commands for control of the console, game, or app, or to enter search terms.
+    * The Kinect sensor can also be used for audio and video communications through services such as Skype.
     
     Learn more about Kinect at [Xbox Kinect and Privacy](https://aka.ms/kinectprivacy/).
     
@@ -1266,9 +1266,9 @@ Microsoft StoreMicrosoft Storemainwindowsstoremodule
 
 Microsoft Store is an online service, accessible via PC, the Xbox Console and the Xbox App, that allows you to browse, download, purchase, rate, and review applications and other digital content. It includes:
 
-*   Apps and content for Windows devices such as phones, PCs, and tablets.
-*   Games, subscriptions and other apps for Xbox consoles and other devices.
-*   Products and apps for Microsoft 365, SharePoint, Exchange, Access, and Project (2013 versions or later).
+* Apps and content for Windows devices such as phones, PCs, and tablets.
+* Games, subscriptions and other apps for Xbox consoles and other devices.
+* Products and apps for Microsoft 365, SharePoint, Exchange, Access, and Project (2013 versions or later).
 
 We collect data about how you access and use Microsoft Store; the products you've viewed, purchased, or installed; the preferences you set for viewing apps in Microsoft Store; and any ratings, reviews, or problem reports you submit. Your Microsoft account is associated with your ratings and reviews; and if you write a review, the name and picture from your Microsoft account will be published with your review.
 
@@ -1322,7 +1322,7 @@ Microsoft collects diagnostic data to solve problems and to keep Mixed Reality r
 
 Mixed Reality also processes and collects data specifically related to the Mixed Reality experiences, such as:
 
-*   Mixed Reality maps distances between your body's joints to create a stick figure representation of you. If you are connected to the Internet, we collect those numeric values to enable and improve your experience.
-*   Mixed Reality detects specific hand gestures intended to perform simple system interactions (such as menu navigation, pan/zoom, and scroll). This data is processed on your PC and is not stored.
-*   The headset's microphones enable voice commands to control games, apps, or to enter search terms. [Learn more about voice data collection](#mainspeechinkingtypingmodule).
-*   Windows Mixed Reality can also be used for audio and video communications through services such as Skype.
+* Mixed Reality maps distances between your body's joints to create a stick figure representation of you. If you are connected to the Internet, we collect those numeric values to enable and improve your experience.
+* Mixed Reality detects specific hand gestures intended to perform simple system interactions (such as menu navigation, pan/zoom, and scroll). This data is processed on your PC and is not stored.
+* The headset's microphones enable voice commands to control games, apps, or to enter search terms. [Learn more about voice data collection](#mainspeechinkingtypingmodule).
+* Windows Mixed Reality can also be used for audio and video communications through services such as Skype.
