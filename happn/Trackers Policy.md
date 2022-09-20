@@ -16,9 +16,9 @@ Terms starting with a capital letter and not defined in this document have the m
 
 The current Policy applies to the following media: 
 
-*   The HAPPN website, available at the following address: [https://www.happn.com](https://www.happn.com/) (hereinafter, “the Website”);
-*   The HAPPN mobile application, available on the Apple App Store and the Google Play Store (hereinafter, “the Application”);
-*   The HAPPN web app (hereinafter, “the Web App”), available at the following address: [https://app.happn.com/signin](https://app.happn.com/signin)
+* The HAPPN website, available at the following address: [https://www.happn.com](https://www.happn.com/) (hereinafter, “the Website”);
+* The HAPPN mobile application, available on the Apple App Store and the Google Play Store (hereinafter, “the Application”);
+* The HAPPN web app (hereinafter, “the Web App”), available at the following address: [https://app.happn.com/signin](https://app.happn.com/signin)
 
 2\. What are cookies and trackers?
 ----------------------------------
@@ -31,13 +31,13 @@ A cookie can be categorized based on its lifetime and domain to which it belongs
 
 The lifetime of a cookie is either:
 
-*   A session cookie, which is deleted when the user closes his/her browser
-*   A persistent cookie that remains stored on the hard drive of the user’s terminal for a predetermined time.
+* A session cookie, which is deleted when the user closes his/her browser
+* A persistent cookie that remains stored on the hard drive of the user’s terminal for a predetermined time.
 
 Domain refers to either:
 
-*   Proprietary cookies which are placed by the server of the website visited that shares the same domain
-*   Thirdparty cookies are placed by a domain that is different from the website visited. For example, these cookies can be placed when a website makes reference to a file, such as JavaScript, located outside its domain (available on another site).
+* Proprietary cookies which are placed by the server of the website visited that shares the same domain
+* Thirdparty cookies are placed by a domain that is different from the website visited. For example, these cookies can be placed when a website makes reference to a file, such as JavaScript, located outside its domain (available on another site).
 
 ### 2.2. Other trackers
 
@@ -47,17 +47,17 @@ A tracking pixel is a code that is loaded when you visit a website, and can take
 
 What’s more, internal and partner tools (hereinafter, “Tracking Tools) are also installed on the Application and the Web App to access and collect details on your device (hereinafter, “User Details”). The following data can be collected:
 
-*   The device ID;
-*   The version of the Application or the Web App installed on the user’s device;
-*   The model of the user’s device; 
-*   The version of the operating system on the user’s device; 
-*   The battery level on the user’s device;
-*   The language configured on the user’s device;
-*   The device’s identifier for advertisers (IDFA/GAID); 
-*   The Push identifier on the user’s device; 
-*   The telephone operator;
-*   The user’s country and continent;
-*   The IP address.
+* The device ID;
+* The version of the Application or the Web App installed on the user’s device;
+* The model of the user’s device; 
+* The version of the operating system on the user’s device; 
+* The battery level on the user’s device;
+* The language configured on the user’s device;
+* The device’s identifier for advertisers (IDFA/GAID); 
+* The Push identifier on the user’s device; 
+* The telephone operator;
+* The user’s country and continent;
+* The IP address.
 
 Tracking tools and pixels will hereinafter be referred to, individually or collectively, as “Trackers.” 
 
@@ -76,14 +76,14 @@ The Cookies installed enable the Website to provide you with an adapted page, re
 
 When you visit our Website, cookies are installed on the hard drive of your device. Some of them are necessary for the (i) operation and security of our Website, while others are used, with your consent (ii), for statistical purposes. 
 
-**Technical needs:** 
+**Technical needs:** 
 
 When you visit the Website, **security cookies** are installed. They can be used for authentication or security purposes. They are necessary for certain functions on the Website and to ensure its security. **Functional cookies** are also installed and enable the improvement and optimization of your experience on the Website, for example by remembering your preferred browsing language.
 
 **Cookies for security and operational needs are strictly necessary for browsing the Website. As a result, you are unable to refuse the use of these cookies.**
 
 |     |     |     |     |
-| --- | --- | --- | --- |  
+| --- | --- | --- | --- |   
 | Cookie name | Company | Domain | Purpose |
 | happn-cookie-accepted | HAPPN | happn.com | FUNCTIONAL  <br>  <br>Conserves user consent to analytical cookies. |
 | \_\_cfduid | Cloudflare | happn.com | SECURITY  <br> <br><br>Applies the necessary security configuration for preventing cyber-attacks. |
@@ -123,7 +123,7 @@ HAPPN uses **Audience measurement cookies** to obtain information about user bro
 **Your consent is requested for installing cookies used for analytical purposes.**
 
 |     |     |     |     |
-| --- | --- | --- | --- |  
+| --- | --- | --- | --- |   
 | Cookie name | Company | Domain | Purpose |
 | \_fbp | Facebook | happn.com | Measures audience statistics on the Website. |
 | ry\_ry-h4n3pp1z\_realytics | Realytics\* | happn.com | Measures audience statistics on the Website. |
@@ -131,8 +131,8 @@ HAPPN uses **Audience measurement cookies** to obtain information about user bro
 
 \*If you wish to refuse Realytics cookies, you can:
 
-*   Visit the following page: [Realytics.io/Optout](https://www.realytics.io/optout/)
-*   Refuse the use of analytical cookies on our cookie banner (see below).
+* Visit the following page: [Realytics.io/Optout](https://www.realytics.io/optout/)
+* Refuse the use of analytical cookies on our cookie banner (see below).
 
 ### 3.2 On the Application and the Web App
 
@@ -142,11 +142,11 @@ Trackers and Internal and partner tools have been installed on the Application a
 
 These Trackers enable HAPPN to:
 
-*   Ensure the smooth operation of the Application and/or the Web App, 
-*   Ensure certain functions operate correctly; 
-*   Use them for advertising and analytical purposes if you have consented. 
+* Ensure the smooth operation of the Application and/or the Web App, 
+* Ensure certain functions operate correctly; 
+* Use them for advertising and analytical purposes if you have consented. 
 
-**Technical needs:** 
+**Technical needs:** 
 
 When you use the Application and the Web App, **security Trackers** collect and process data from your device. They can be used for the purpose of authentication or security. They are necessary for the operation of certain functions on the Application and the Web App, and to ensure their security. **Functional Trackers** are also used, and enable the improvement and optimization of your experience on the Application and the Web App, or are needed for the operation of certain functions. 
 
@@ -168,7 +168,7 @@ Certain Trackers are specific to the Application or the Web App. Where applicabl
 | Sign in with Google | Google | FUNCTIONAL<br><br>Enables subscription via Sign-in with Google |
 | MapKit | Apple | FUNCTIONAL<br><br>This tool is specific to the Web App. |
 
-**Personalized advertising:** 
+**Personalized advertising:** 
 
 **Trackers used for advertising purposes** can be used to show you relevant advertising and limit their display on the mobile Application.
 
@@ -179,13 +179,13 @@ Certain Trackers are specific to the Application or the Web App. Where applicabl
 | Tool name | Partner name | Purpose |
 | Google Ads | Google | ADVERTISING<br><br>Display and limitation of advertisements<br><br>This tool is specific to the mobile Application. |
 
-**Analytical needs:** 
+**Analytical needs:** 
 
 HAPPN uses **Audience measurement Trackers** to obtain information about user browsing behavior, analyze traffic on the Application and the Web App, and measure audience statistics. This enables HAPPN to improve the Application and the Web App according to the requests and needs of users. 
 
 Certain Trackers are specific to the Application or the Web App. Where applicable, this is indicated in the Purpose column below.
 
-**Your consent is requested for the collection of User Details and the use of Trackers for analytical purposes.** 
+**Your consent is requested for the collection of User Details and the use of Trackers for analytical purposes.** 
 
 |     |     |     |
 | --- | --- | --- |  
@@ -213,18 +213,18 @@ However, you can also directly delete these cookies via your browser. 
 
 In addition, you can refuse most behavioral advertising cookies via the following links:
 
-*   If you are in Europe: [www.youronlinechoices.com](http://www.youronlinechoices.com/)
-*   If you are in the United States: [http://optout.aboutads.info/?c=2&lang=EN](http://optout.aboutads.info/?c=2&lang=EN) and [http://optout.networkadvertising.org/](http://optout.networkadvertising.org/)
-*   If you are in Canada: [https://youradchoices.ca/](https://youradchoices.ca/).
+* If you are in Europe: [www.youronlinechoices.com](http://www.youronlinechoices.com/)
+* If you are in the United States: [http://optout.aboutads.info/?c=2&lang=EN](http://optout.aboutads.info/?c=2&lang=EN) and [http://optout.networkadvertising.org/](http://optout.networkadvertising.org/)
+* If you are in Canada: [https://youradchoices.ca/](https://youradchoices.ca/).
 
 **For third-party cookies**, you can configure your browser settings to refuse third-party cookies.
 
-*   For Google Chrome: [https://support.google.com/chrome/answer/95647?hlrm=en](https://support.google.com/chrome/answer/95647?hlrm=en)
-*   For Mozilla Firefox: [https://support.mozilla.org/enUS/kb/cookies-information-websites-store-on-your-computer](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer)
-*   For Microsoft Edge: [https://support.microsoft.com/engb/help/4468242/microsoft-edge-browsing-data-and-privacy-microsoft-privacy](https://support.microsoft.com/en-gb/help/4468242/microsoft-edge-browsing-data-and-privacy-microsoft-privacy)
-*   For Opera: [https://help.opera.com/en/latest/securityand-privacy/#tracking](https://help.opera.com/en/latest/security-and-privacy/#tracking)
-*   For Internet Explorer: [https://support.microsoft.com/engb/help/17442/windows-Internet-explorer-delete-manage-cookies#](https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies)
-*   For Apple Safari: [https://support.apple.com/guide/safari/managecookies-and-website-data-sfri11471/mac](https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac).
+* For Google Chrome: [https://support.google.com/chrome/answer/95647?hlrm=en](https://support.google.com/chrome/answer/95647?hlrm=en)
+* For Mozilla Firefox: [https://support.mozilla.org/enUS/kb/cookies-information-websites-store-on-your-computer](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer)
+* For Microsoft Edge: [https://support.microsoft.com/engb/help/4468242/microsoft-edge-browsing-data-and-privacy-microsoft-privacy](https://support.microsoft.com/en-gb/help/4468242/microsoft-edge-browsing-data-and-privacy-microsoft-privacy)
+* For Opera: [https://help.opera.com/en/latest/securityand-privacy/#tracking](https://help.opera.com/en/latest/security-and-privacy/#tracking)
+* For Internet Explorer: [https://support.microsoft.com/engb/help/17442/windows-Internet-explorer-delete-manage-cookies#](https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies)
+* For Apple Safari: [https://support.apple.com/guide/safari/managecookies-and-website-data-sfri11471/mac](https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac).
 
 **WE RECOMMEND THAT YOU DO NOT BLOCK AND DISABLE ALL COOKIES IN YOUR BROWSER’S SETTINGS. In fact, if you block all cookies, our website may not operate properly, and you may not be able to use some of its features.**
 
@@ -242,15 +242,15 @@ With the exception of Trackers used for audience measurement and advertising pur
 
 For Trackers used for advertising purposes, you can configure your device to refuse personalized advertising:
 
-*   For Apple / IOS:
-    1.  Go to Settings > Privacy > Advertising
-    2.  Activate “Limit Ad Tracking”
+* For Apple / IOS:
+    1. Go to Settings > Privacy > Advertising
+    2. Activate “Limit Ad Tracking”
 
 (In the event of any changes, go to: [https://support.apple.com/en-us/HT205223](https://support.apple.com/en-us/HT205223)) .
 
-*   For Android / Google Play Store:
-    1.  Go to Settings > Account _or_ Synchronization _or_ Google (depending on your device) > Privacy or Advertising or Notifications (depending on your device)
-    2.  Active “Disable the personalization of ads”
+* For Android / Google Play Store:
+    1. Go to Settings > Account _or_ Synchronization _or_ Google (depending on your device) > Privacy or Advertising or Notifications (depending on your device)
+    2. Active “Disable the personalization of ads”
 
 (In the event of any changes, go to: [https://support.google.com/googleplay/android-developer/answer/6048248?hl=fr](https://support.google.com/googleplay/android-developer/answer/6048248?hl=fr)).
 
@@ -259,9 +259,9 @@ For Trackers used for advertising purposes, you can configure your device to ref
 
 If you have any questions about this Use of Cookies document or have any complaints about cookies and Tracking tools, you can contact us:
 
-1.  By sending an email to our contact email address: [\[email protected\]](https://www.happn.com/cdn-cgi/l/email-protection#removed);
-2.  By sending an email to our Data Protection Officer: [\[email protected\]](https://www.happn.com/cdn-cgi/l/email-protection#removed);
-3.  By sending a letter to the following postal address:
+1. By sending an email to our contact email address: [\[email protected\]](https://www.happn.com/cdn-cgi/l/email-protection#removed);
+2. By sending an email to our Data Protection Officer: [\[email protected\]](https://www.happn.com/cdn-cgi/l/email-protection#removed);
+3. By sending a letter to the following postal address:
 
 For the attention of the Data Protection Officer
 
