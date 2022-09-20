@@ -28,26 +28,26 @@ We also allow advertising companies to collect information about your activity o
 
 We use the information we collect to deliver service, to market to you, and for other business purposes, including to:
 
-*   Fulfill your requests for products, services, information and customer support;
-*   Determine products and services that may interest you and market them to you, including on Visible sites and apps and on others’ sites, services, apps and devices as described in Section V below;
-*   Analyze the use of the sites, apps, and service for our purposes, such as product and service enhancements;
-*   Research and develop new products and services;
-*   Authenticate you;
-*   Customize the content you see when you use our sites and apps;
-*   Secure and improve our network and services;
-*   Detect and prevent potentially prohibited, fraudulent or illegal activities and otherwise in accordance with our [Terms of Use](javascript:void(0);); and
-*   For any other purposes disclosed to you at the time we collect your information or with your consent.
+* Fulfill your requests for products, services, information and customer support;
+* Determine products and services that may interest you and market them to you, including on Visible sites and apps and on others’ sites, services, apps and devices as described in Section V below;
+* Analyze the use of the sites, apps, and service for our purposes, such as product and service enhancements;
+* Research and develop new products and services;
+* Authenticate you;
+* Customize the content you see when you use our sites and apps;
+* Secure and improve our network and services;
+* Detect and prevent potentially prohibited, fraudulent or illegal activities and otherwise in accordance with our [Terms of Use](javascript:void(0);); and
+* For any other purposes disclosed to you at the time we collect your information or with your consent.
 
 ### III. DISCLOSURE OF INFORMATION
 
 We share information about you with vendors and partners who do work on our behalf and for other business purposes. We may also share certain information about you with affiliates for marketing.
 
-*   **Authorized service providers and partners.** We share your information with service providers and partners that help us with a variety of things, including development and delivery of our sites, apps and service. This includes services provided by others to help us with analytics, including [Google Analytics](https://policies.google.com/technologies/partner-sites), which may include storing and accessing cookies and other information on your computer or wireless device.
-*   **Business transfers.** We may share your information in connection with a substantial corporate transaction, such as a merger, consolidation, asset sale, or in the unlikely event of bankruptcy.
-*   **Legal purposes.** We may disclose information (1) to respond to subpoenas, court orders, legal process, law enforcement requests, legal claims or government inquiries and in emergencies such as those involving the danger of death or serious injury to any person; (2) to advance, protect or defend the rights, interests, property, safety, and security of Visible, our affiliates, users, or the public; (3) to identify, protect against, and address unauthorized or unlawful use of our sites, apps or service, or our network; and (4) to outside auditors and regulators.
-*   **Collections.** We may disclose information to collection agencies to obtain payment for Visible-billed products and services.
-*   **Aggregated and De-identified Information.** We may aggregate or otherwise de-identify information and use it for our own purposes or share it with third parties for their own purposes.
-*   **With your consent.** We may share information for any other purposes disclosed to you at the time we collect the information or pursuant to your consent.
+* **Authorized service providers and partners.** We share your information with service providers and partners that help us with a variety of things, including development and delivery of our sites, apps and service. This includes services provided by others to help us with analytics, including [Google Analytics](https://policies.google.com/technologies/partner-sites), which may include storing and accessing cookies and other information on your computer or wireless device.
+* **Business transfers.** We may share your information in connection with a substantial corporate transaction, such as a merger, consolidation, asset sale, or in the unlikely event of bankruptcy.
+* **Legal purposes.** We may disclose information (1) to respond to subpoenas, court orders, legal process, law enforcement requests, legal claims or government inquiries and in emergencies such as those involving the danger of death or serious injury to any person; (2) to advance, protect or defend the rights, interests, property, safety, and security of Visible, our affiliates, users, or the public; (3) to identify, protect against, and address unauthorized or unlawful use of our sites, apps or service, or our network; and (4) to outside auditors and regulators.
+* **Collections.** We may disclose information to collection agencies to obtain payment for Visible-billed products and services.
+* **Aggregated and De-identified Information.** We may aggregate or otherwise de-identify information and use it for our own purposes or share it with third parties for their own purposes.
+* **With your consent.** We may share information for any other purposes disclosed to you at the time we collect the information or pursuant to your consent.
 
 If you access third-party services, such as Facebook, Google, or Twitter, through our sites or apps, to log in or to share information about your experience with others, these third-party services may be able to collect information about you and they may notify your connections on the third-party services about your use of the site or app, in accordance with their own privacy policies.
 
