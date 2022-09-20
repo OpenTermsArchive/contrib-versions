@@ -20,27 +20,27 @@ You understand that the Services are built on APIs provided by CrowdTangle and t
 
 1\. When Signing Up
 
-*   When creating an account, you must provide us with complete and accurate information, and you must keep this information up to date.
-*   For business users, you represent and warrant that you are an authorized representative of the entity with the authority to bind the entity to these Terms, and that you agree to these Terms on the entity’s behalf.
-*   Each user account created must represent a person, not any sort of automated bot.
-*   By signing up for and using the Services, you agree that you are 13 years or older.
+* When creating an account, you must provide us with complete and accurate information, and you must keep this information up to date.
+* For business users, you represent and warrant that you are an authorized representative of the entity with the authority to bind the entity to these Terms, and that you agree to these Terms on the entity’s behalf.
+* Each user account created must represent a person, not any sort of automated bot.
+* By signing up for and using the Services, you agree that you are 13 years or older.
 
 2\. When Using CrowdTangle
 
-*   You may only use the Services to access content on CrowdTangle’s platform, and access, manage, and review content in accordance with these Terms.
-*   You may not access or use, or attempt to access or use, the Services to take any action that could harm us or any third-party, interfere with the operation of the Services, or use the Services in a manner that violates any laws. For example, and without limitation, you may not:
+* You may only use the Services to access content on CrowdTangle’s platform, and access, manage, and review content in accordance with these Terms.
+* You may not access or use, or attempt to access or use, the Services to take any action that could harm us or any third-party, interfere with the operation of the Services, or use the Services in a manner that violates any laws. For example, and without limitation, you may not:
 
-*   search or attempt to access or search the Service by any means except through CrowdTangle’s available interfaces;
-*   use the Service for any illegal or unauthorized purpose;
-*   impersonate any person or entity or otherwise misrepresent your affiliation;
-*   transfer, sell, disclose, or license any content from or content access through the Services without express written consent of CrowdTangle, including, but not limited to displaying content from CrowdTangle publicly or otherwise in an external format;
-*   engage in unauthorized spidering, “scraping,” or harvesting of content or personal information, or use any other unauthorized automated means to compile information;
-*   take any action that imposes an unreasonable or disproportionately large load on our network or infrastructure;
-*   use any device, software, or routine to interfere or attempt to interfere with the proper working of the Service or any activity conducted on the Service or attempt to probe, scan, test the vulnerability of, or breach the security of any system or network;
-*   attempt to decipher, decompile, disassemble, or reverse-engineer any of the software comprising or in any way making up a part of the Service;
-*   submit content that infringes on the copyright, trademark, patent, or other intellectual property rights of any third party, are false, misleading, libelous, defamatory, obscene, abusive, hateful, or sexually-explicit, violate a third party’s right to privacy or publicity, or degrade others on the basis of gender, race, class, ethnicity, national origin, religion, sexual preference, disability, or other classification;
-*   distribute any unauthorized materials or advertise or promote goods or services without our permission (including, without limitation, by sending spam); or
-*   engage in any other conduct that restricts or inhibits any person from using or enjoying the Services, or that, in our sole judgment, exposes us or any of our users, affiliates, or any other third party to any liability, damages, or detriment of any type.
+* search or attempt to access or search the Service by any means except through CrowdTangle’s available interfaces;
+* use the Service for any illegal or unauthorized purpose;
+* impersonate any person or entity or otherwise misrepresent your affiliation;
+* transfer, sell, disclose, or license any content from or content access through the Services without express written consent of CrowdTangle, including, but not limited to displaying content from CrowdTangle publicly or otherwise in an external format;
+* engage in unauthorized spidering, “scraping,” or harvesting of content or personal information, or use any other unauthorized automated means to compile information;
+* take any action that imposes an unreasonable or disproportionately large load on our network or infrastructure;
+* use any device, software, or routine to interfere or attempt to interfere with the proper working of the Service or any activity conducted on the Service or attempt to probe, scan, test the vulnerability of, or breach the security of any system or network;
+* attempt to decipher, decompile, disassemble, or reverse-engineer any of the software comprising or in any way making up a part of the Service;
+* submit content that infringes on the copyright, trademark, patent, or other intellectual property rights of any third party, are false, misleading, libelous, defamatory, obscene, abusive, hateful, or sexually-explicit, violate a third party’s right to privacy or publicity, or degrade others on the basis of gender, race, class, ethnicity, national origin, religion, sexual preference, disability, or other classification;
+* distribute any unauthorized materials or advertise or promote goods or services without our permission (including, without limitation, by sending spam); or
+* engage in any other conduct that restricts or inhibits any person from using or enjoying the Services, or that, in our sole judgment, exposes us or any of our users, affiliates, or any other third party to any liability, damages, or detriment of any type.
 
 ### Account Suspension and Termination
 
@@ -84,7 +84,7 @@ We work constantly to improve our Services and, as a result, we may need to upda
 
 ### Miscellaneous
 
-1.  These Terms constitute the entire agreement between you and us concerning the Services. In the event any provision of these Terms is held unenforceable, it will not affect the validity or enforceability of the remaining provisions and will be replaced by an enforceable provision that comes closest to the intention underlying the unenforceable provision.
-2.  You agree that no joint venture, partnership, employment, or agency relationship exists between you and us as a result of these Terms or your access to and use of the Services.
-3.  If we fail to enforce any of these Terms, it will not be considered a waiver. Any amendment to or waiver of these Terms must be made in writing and signed by us. Nothing contained in these Terms is in derogation of our right to comply with governmental, court, and law enforcement requests or requirements relating to your use of the Services or information provided to or gathered by us with respect to such use.
-4.  We may assign, subcontract, or transfer these Terms or any of our rights or obligatoins in them, in whole or in part, without our prior consent, provided this will not lead to any reduction of the rights you are entitled to by virtue of these Terms or by law. You will not transfer any of your rights or obligations under these terms without our consent.
+1. These Terms constitute the entire agreement between you and us concerning the Services. In the event any provision of these Terms is held unenforceable, it will not affect the validity or enforceability of the remaining provisions and will be replaced by an enforceable provision that comes closest to the intention underlying the unenforceable provision.
+2. You agree that no joint venture, partnership, employment, or agency relationship exists between you and us as a result of these Terms or your access to and use of the Services.
+3. If we fail to enforce any of these Terms, it will not be considered a waiver. Any amendment to or waiver of these Terms must be made in writing and signed by us. Nothing contained in these Terms is in derogation of our right to comply with governmental, court, and law enforcement requests or requirements relating to your use of the Services or information provided to or gathered by us with respect to such use.
+4. We may assign, subcontract, or transfer these Terms or any of our rights or obligatoins in them, in whole or in part, without our prior consent, provided this will not lead to any reduction of the rights you are entitled to by virtue of these Terms or by law. You will not transfer any of your rights or obligations under these terms without our consent.
