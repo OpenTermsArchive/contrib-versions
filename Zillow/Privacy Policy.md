@@ -7,16 +7,16 @@ The information we collect, why we use it, who we share it with, and how we prot
 
 When you use Zillow Group services to find, buy, rent, or sell your home, get a mortgage, or connect to a real estate pro, we know you’re trusting us with your data. We also know we have a responsibility to respect your privacy, and we work hard to do just that.  This policy explains what information we collect, why we use it, who we share it with, and how we protect it, along with the tools you can use to manage your privacy.
 
-*   [Introduction](#Introduction)
-*   [Information collected by Zillow](#Information-collected-by-Zillow)
-*   [Why Zillow uses your information](#Why-Zillow-uses-your-information)
-*   [Sharing your information](#Sharing-your-information)
-*   [Privacy tools and](#Privacy-tools-and-choices) [choices](https://zillowgroup.com/zg-privacy-policy/#Privacy-tools-and-choices)
-*   [Protecting your information](#Protecting-your-information)
-*   [Applicability of this policy](#Applicability-of-this-policy)
-*   [Legal disclosures](#Legal-disclosures)
-*   [Contacting Zillow](#Contacting-Zillow)
-*   [Changes to this policy](#Changes-to-this-policy)
+* [Introduction](#Introduction)
+* [Information collected by Zillow](#Information-collected-by-Zillow)
+* [Why Zillow uses your information](#Why-Zillow-uses-your-information)
+* [Sharing your information](#Sharing-your-information)
+* [Privacy tools and](#Privacy-tools-and-choices) [choices](https://zillowgroup.com/zg-privacy-policy/#Privacy-tools-and-choices)
+* [Protecting your information](#Protecting-your-information)
+* [Applicability of this policy](#Applicability-of-this-policy)
+* [Legal disclosures](#Legal-disclosures)
+* [Contacting Zillow](#Contacting-Zillow)
+* [Changes to this policy](#Changes-to-this-policy)
 
 Introduction
 ------------
@@ -240,10 +240,10 @@ In this section, we’ve provided some legally required disclosures under state 
 
 Under the California Consumer Privacy Act or CCPA, California residents have certain rights regarding their data, including:
 
-*   The right to know the categories of personal information we’ve collected and the categories of sources from which we got the information (see Information collected by Zillow and the chart just below)
-*   The right to know the business purposes for sharing personal information (see Why Zillow uses your information)
-*   The right to know the categories of third parties with whom we’ve shared personal information (see Sharing your information)
-*   The right to access the specific pieces of personal information we’ve collected and the right to delete your information (see Privacy tools and choices)
+* The right to know the categories of personal information we’ve collected and the categories of sources from which we got the information (see Information collected by Zillow and the chart just below)
+* The right to know the business purposes for sharing personal information (see Why Zillow uses your information)
+* The right to know the categories of third parties with whom we’ve shared personal information (see Sharing your information)
+* The right to access the specific pieces of personal information we’ve collected and the right to delete your information (see Privacy tools and choices)
 
 California residents also have the right to not be discriminated against if they choose to exercise their privacy rights.
 
@@ -254,7 +254,7 @@ Categories of Personal Information under the California Consumer Privacy Act
 | --- | --- | --- | --- |
 | **Category and sources of Information** | **How we use it** | **Types of individuals affected** | **How we share it** |
 | **Identifiers** We collect this information from our users, customers, and business partners.  We also generate identifiers internally. | To enable use of our sites, services, and products, to communicate with you, to understand how our users interact with our sites, and to improve our offerings | People who use our sites or mobile applications; create a user account; receive a Zillow Offer; send us an inquiry about buying a home, product, or service from us; ask to be connected to a real estate pro; purchase advertising from us;obtain a service from us; and real estate pros who we connect with users | We share this data with our service providers and with business partners, including those to whom you instruct us to send this information |
-| **Personal information under** [**California Civil Code section 1798.80**](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1798.80.&lawCode=CIV) We collect this information from our users, customers, and business partners | To enable use of our sites, services, and products, to communicate with you, to understand how our users interact with our sites, and to improve our offerings | People who create a user account; receive a Zillow Offer; send us an inquiry about buying a home, product, or service from us; ask to be connected to a real estate pro; purchase advertising from us; obtain a service from us; and real estate pros who we connect with users | We share this data with our service providers and with business partners, including those to whom you instruct us to send this information |
+| **Personal information under** [**California Civil Code section 1798.80**](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1798.80.&lawCode=CIV) We collect this information from our users, customers, and business partners | To enable use of our sites, services, and products, to communicate with you, to understand how our users interact with our sites, and to improve our offerings | People who create a user account; receive a Zillow Offer; send us an inquiry about buying a home, product, or service from us; ask to be connected to a real estate pro; purchase advertising from us; obtain a service from us; and real estate pros who we connect with users | We share this data with our service providers and with business partners, including those to whom you instruct us to send this information |
 | **Protected classifications** We collect this information from our users and business partners | To understand how our users interact with our sites, and to conduct research into housing and real estate trends and markets | People who buy or sell a home from/to us; use our rental application submission service; enter into a business partnership with us; | We don’t share |
 | **Commercial information** We collect this information from our customers, and generate it internally during transactions with our customers | To transact with you if you use our services or products, and to enable transactions you’ve requested | People who sell us a home; buy a home, product or service from us; purchase advertising from us | We share this data with our service providers and with business partners, including those to whom you instruct us to send this information |
 | **Biometric information** | We don’t collect this data | None | None |
