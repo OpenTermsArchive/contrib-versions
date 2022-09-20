@@ -172,8 +172,8 @@ Our advertising policies cover four broad areas:
 > > 
 > > _Examples of promotions that don't meet these editorial and professional requirements:_
 > > 
-> > > *   overly generic ads that contain vague phrases such as "Buy products here"
-> > > *   gimmicky use of words, numbers, letters, punctuation, or symbols such as FREE, f-r-e-e, and F₹€€!!
+> > > * overly generic ads that contain vague phrases such as "Buy products here"
+> > > * gimmicky use of words, numbers, letters, punctuation, or symbols such as FREE, f-r-e-e, and F₹€€!!
 > 
 > ### [Destination requirements](https://support.google.com/adspolicy/answer/6368661)
 > 
@@ -181,10 +181,10 @@ Our advertising policies cover four broad areas:
 > > 
 > > _Examples of promotions that don't meet destination requirements:_
 > > 
-> > > *   a display URL that does not accurately reflect the URL of the landing page, such as "google.com" taking users to "gmail.com"
-> > > *   sites or apps that are under construction, parked domains, or are just not working
-> > > *   sites that are not viewable in commonly used browsers
-> > > *   sites that have disabled the browser's back button
+> > > * a display URL that does not accurately reflect the URL of the landing page, such as "google.com" taking users to "gmail.com"
+> > > * sites or apps that are under construction, parked domains, or are just not working
+> > > * sites that are not viewable in commonly used browsers
+> > > * sites that have disabled the browser's back button
 > 
 > ### [Technical requirements](https://support.google.com/adspolicy/answer/6088505)
 > 
