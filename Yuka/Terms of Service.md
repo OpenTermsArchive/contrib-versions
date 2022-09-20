@@ -49,9 +49,9 @@ The App is published by the company Yuca, which is totally [independent](https:
 
 The [food scoring](https://help.yuka.io/l/en/article/ijzgfvi1jq) method used by the App includes the following factors:
 
-*   nutritional balance (60%)
-*   presence of food additives (30%)
-*   whether the product is organic (10%)
+* nutritional balance (60%)
+* presence of food additives (30%)
+* whether the product is organic (10%)
 
 ﻿For salt and chocolate, the rating method takes into account additional specific criteria, differentiating from a qualitative or environmental point of view: the extraction or processing method for salt; the cocoa content and type of fat for chocolate.
 
@@ -69,9 +69,9 @@ The product evaluation expressed by the Rating does not express an absolute judg
 
 The App offers the in-app purchase of a [Premium version](https://help.yuka.io/l/en/article/dop80j54bb) that includes the following Features:
 
-*   **“Offline”** mode: Allows the services offered by the application to be used without an Internet connection. This feature does not cover all of the products referenced in the database, only some of them (the most commonly scanned ones).
-*   the “**Search”** feature: Allows the User to search the database of referenced products using keywords (product name, brand, etc.), without needing to scan the product to search for it.
-*   the “**Food Preferences**” feature: Allows the User to customize the app based on their own food preferences. The App highlights unwanted ingredients in the nutritional facts and recommendations that take those preferences into account.
+* **“Offline”** mode: Allows the services offered by the application to be used without an Internet connection. This feature does not cover all of the products referenced in the database, only some of them (the most commonly scanned ones).
+* the “**Search”** feature: Allows the User to search the database of referenced products using keywords (product name, brand, etc.), without needing to scan the product to search for it.
+* the “**Food Preferences**” feature: Allows the User to customize the app based on their own food preferences. The App highlights unwanted ingredients in the nutritional facts and recommendations that take those preferences into account.
 
 ##### Database
 
@@ -97,9 +97,9 @@ Said suspension or deletion shall not be considered damaging the excluded member
 
 The User agrees:
 
-*   to only use the data relayed by the App for personal, non-commercial use;
-*   to not exploit the data, opinions, recommendations, and rankings offered by the App for their personal gain;
-*   to not make incorrect additions or changes to the composition of the products
+* to only use the data relayed by the App for personal, non-commercial use;
+* to not exploit the data, opinions, recommendations, and rankings offered by the App for their personal gain;
+* to not make incorrect additions or changes to the composition of the products
 
 Each User is free to close their account on the App. To do so, the member must send an e-mail to the Publisher indicating that they wish to delete their account, or follow the [deletion procedure](https://help.yuka.io/l/en/article/cjm0zng8ed).
 
@@ -135,16 +135,16 @@ Total or partial inability to use the App and the Features, particularly owing t
 
 The Publisher may not in any event be held liable:
 
-*   for any direct or indirect damages, particularly with regard to lost profits, lost income, lost clients, or lost data that may, inter alia, result from the use of the App, or the inability to use it;
-*   for a User device malfunction, downtime, misuse, or improperly configured settings, or for the use of an uncommon or obsolete device by the User;
-*   for the content of links or outside sources accessible by the User from the App;
-*   for the content of the information related to the composition of the analyzed products (food or cosmetics) and the evaluations, analyses, recommendations, or opinions related to them.
+* for any direct or indirect damages, particularly with regard to lost profits, lost income, lost clients, or lost data that may, inter alia, result from the use of the App, or the inability to use it;
+* for a User device malfunction, downtime, misuse, or improperly configured settings, or for the use of an uncommon or obsolete device by the User;
+* for the content of links or outside sources accessible by the User from the App;
+* for the content of the information related to the composition of the analyzed products (food or cosmetics) and the evaluations, analyses, recommendations, or opinions related to them.
 
 The User recognizes that the Publisher may not be held liable for the provision of data about the analyzed products, and may not be held liable for their content.
 
-**The User expressly agrees that it is using the App at its own risk and under its own responsibility alone.** The App provides the User with information as an example. The Publisher does not guarantee the accuracy, completeness, or exhaustiveness of the information and data found in the App. The Database changes, particularly when products are added and/or edited by the User and Publisher.  The User alone is responsible for choosing a purchasing a Feature.
+**The User expressly agrees that it is using the App at its own risk and under its own responsibility alone.** The App provides the User with information as an example. The Publisher does not guarantee the accuracy, completeness, or exhaustiveness of the information and data found in the App. The Database changes, particularly when products are added and/or edited by the User and Publisher.  The User alone is responsible for choosing a purchasing a Feature.
 
-The Publisher may not be held liable for errors in the Database, particularly with respect to information about product analysis. It is therefore up to the User to verify the composition of the products directly on their packaging in order to be sure they are obtaining up-to-date information about their composition.
+The Publisher may not be held liable for errors in the Database, particularly with respect to information about product analysis. It is therefore up to the User to verify the composition of the products directly on their packaging in order to be sure they are obtaining up-to-date information about their composition.
 
 The Publisher cannot guarantee the usefulness of the App’s information and recommendations. The App is not in any event a substitute for consulting with a health professional, such as a dietician or a doctor. The information and recommendations may contain errors and must not in any event be used for medical purposes.
 
