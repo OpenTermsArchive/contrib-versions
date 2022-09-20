@@ -13,7 +13,7 @@ TikTok's mission is to inspire creativity and bring joy. We are building a globa
 
 At TikTok, we prioritize safety, diversity, inclusion, and authenticity. We encourage creators to celebrate what makes them unique and viewers to engage with what inspires them; we believe that a safe environment helps everyone do so openly.  We prize the global nature of our community and strive to take into account the breadth of cultural norms where we operate. We also aim to cultivate an environment for genuine interactions by encouraging authentic content on TikTok.
 
-Our Community Guidelines apply to everyone and everything on TikTok. We proactively enforce them using a mix of technology and human moderation and aim to do so before people report potentially violative content to us. We also encourage our community members to use the [tools we provide on TikTok](https://support.tiktok.com/en/safety-hc/report-a-problem) to report any content or account they believe violates our Community Guidelines.
+Our Community Guidelines apply to everyone and everything on TikTok. We proactively enforce them using a mix of technology and human moderation and aim to do so before people report potentially violative content to us. We also encourage our community members to use the [tools we provide on TikTok](https://support.tiktok.com/en/safety-hc/report-a-problem) to report any content or account they believe violates our Community Guidelines.
 
 We will remove any content – including video, audio, livestream, images, comments, links, or other text – that violates our Community Guidelines. Individuals are notified of our decisions and can appeal them if they believe no violation has occurred. We will temporarily or permanently ban accounts and/or users that are involved in severe or repeated on-platform violations; we may also consider actions on other platforms and offline behavior in these decisions. Circumstances that involve any instance of a threat of real-world harm to human life that is specific, credible, and imminent may be reported to law enforcement authorities. The full TikTok experience is for people 13 and older, and we actively remove accounts of people we suspect are under this age. (_In the US, we accommodate people under 13 in TikTok for Younger Users, a limited app experience designed specifically for this audience with additional safeguards and privacy protections._)
 
@@ -30,7 +30,7 @@ Minor safety
 
 We are deeply committed to protecting the safety of minors on our platform. TikTok defines a minor as any person under the age of 18. We prohibit activities that perpetuate the abuse, harm, endangerment, or exploitation of minors on TikTok. Any content, including animation or digitally created or manipulated media, that depicts abuse, exploitation, or endangerment of minors is a violation on our platform and will be removed when detected. We report child sexual abuse material (CSAM) and supporting evidence  to the National Center for Missing & Exploited Children (NCMEC) and to any additional relevant legal authorities.
 
-Our users must meet the minimum age requirements to use TikTok, as stipulated in our [Terms of Service](https://www.tiktok.com/legal/terms-of-use). When an underage account is identified, we remove it. Given our platform is designed with the safety of minors in mind, some of our features are age restricted. Account holders who are under the age of 16 cannot use direct messaging or host a livestream and their content is not eligible to appear in the For You feed (the age thresholds may be higher in some regions). Account holders who are under the age of 18 cannot send or receive gifts via our virtual gifting features.
+Our users must meet the minimum age requirements to use TikTok, as stipulated in our [Terms of Service](https://www.tiktok.com/legal/terms-of-use). When an underage account is identified, we remove it. Given our platform is designed with the safety of minors in mind, some of our features are age restricted. Account holders who are under the age of 16 cannot use direct messaging or host a livestream and their content is not eligible to appear in the For You feed (the age thresholds may be higher in some regions). Account holders who are under the age of 18 cannot send or receive gifts via our virtual gifting features.
 
 ### Sexual exploitation of minors
 
@@ -38,11 +38,11 @@ TikTok will take action on any content or accounts involving CSAM or sexual expl
 
 **Do not post, upload, download, stream, or share:**
 
-*   Content that shares, reshares, offers to trade or sell, or directs users off platform to obtain or distribute CSAM
-*   Content that engages with minors in a sexualized way, or otherwise sexualizes a minor (e.g., via product features like duets)
-*   Content that depicts, solicits, glorifies, or encourages child abuse imagery including nudity, sexualized minors, or sexual activity with minors
-*   Content that depicts, promotes, normalizes, or glorifies pedophilia or the sexual assault of a minor
-*   Content that re-victimized or capitalizes on minor victims of abuse by third party reshares or reenactments of assault or confessions
+* Content that shares, reshares, offers to trade or sell, or directs users off platform to obtain or distribute CSAM
+* Content that engages with minors in a sexualized way, or otherwise sexualizes a minor (e.g., via product features like duets)
+* Content that depicts, solicits, glorifies, or encourages child abuse imagery including nudity, sexualized minors, or sexual activity with minors
+* Content that depicts, promotes, normalizes, or glorifies pedophilia or the sexual assault of a minor
+* Content that re-victimized or capitalizes on minor victims of abuse by third party reshares or reenactments of assault or confessions
 
 ### Grooming behavior
 
@@ -50,12 +50,12 @@ Grooming behaviors are those in which an adult builds an emotional relationship 
 
 **Do not post, upload, stream, or share:**
 
-*   Grooming advances
-*   Content that depicts, promotes, normalizes, or glorifies grooming behaviors
-*   Content that solicits real-world contact between a minor and an adult or between minors with a significant age difference
-*   Content that displays or offers nudity to minors
-*   Content that solicits minors to connect with an adult on another platform, website, or other digital space
-*   Any solicitation of nude imagery or sexual contact, through blackmail or other means of coercion
+* Grooming advances
+* Content that depicts, promotes, normalizes, or glorifies grooming behaviors
+* Content that solicits real-world contact between a minor and an adult or between minors with a significant age difference
+* Content that displays or offers nudity to minors
+* Content that solicits minors to connect with an adult on another platform, website, or other digital space
+* Any solicitation of nude imagery or sexual contact, through blackmail or other means of coercion
 
 ### Nudity and sexual activity involving minors
 
@@ -63,16 +63,16 @@ Nudity and sexual activity involving minors include content that is overtly reve
 
 **Do not post, upload, stream, or share:**
 
-*   Content that depicts or implies minor sexual activities including penetrative and non-penetrative sex, oral sex, or intimate kissing
-*   Content that depicts sexual arousal or sexual stimulation involving a minor
-*   Content that depicts a sexual fetish involving a minor
-*   Content that depicts exposed genitals, buttocks, the pubic region, or female nipples of a minor
-*   Content that contains sexually explicit language depicting or describing a minor
-*   Content depicting a minor that contains sexually explicit song lyrics
-*   Content with sexually explicit dancing of a minor, including twerking, breast shaking, pelvic thrusting, or fondling the groin or breasts of oneself or another
-*   Content depicting a minor undressing
-*   Content depicting a minor in minimal clothing that is not situationally relevant to the location
-*   Sexualized comments, emojis, text, or other graphics used to veil or imply nudity or sexual activity of a minor
+* Content that depicts or implies minor sexual activities including penetrative and non-penetrative sex, oral sex, or intimate kissing
+* Content that depicts sexual arousal or sexual stimulation involving a minor
+* Content that depicts a sexual fetish involving a minor
+* Content that depicts exposed genitals, buttocks, the pubic region, or female nipples of a minor
+* Content that contains sexually explicit language depicting or describing a minor
+* Content depicting a minor that contains sexually explicit song lyrics
+* Content with sexually explicit dancing of a minor, including twerking, breast shaking, pelvic thrusting, or fondling the groin or breasts of oneself or another
+* Content depicting a minor undressing
+* Content depicting a minor in minimal clothing that is not situationally relevant to the location
+* Sexualized comments, emojis, text, or other graphics used to veil or imply nudity or sexual activity of a minor
 
 ### Harmful activities by minors
 
@@ -80,9 +80,9 @@ Harmful minor activities include the possession or consumption of substances pro
 
 **Do not post, upload, stream, or share:**
 
-*   Content that suggests, depicts, imitates, or promotes the possession or consumption of alcoholic beverages, tobacco, or drugs by a minor
-*   Content that offers instruction targeting minors on how to buy, sell, or trade alcohol, tobacco, or controlled substances
-*   Content that depicts or promotes activities that may jeopardize youth well-being, including physical challenges, dares, or stunts
+* Content that suggests, depicts, imitates, or promotes the possession or consumption of alcoholic beverages, tobacco, or drugs by a minor
+* Content that offers instruction targeting minors on how to buy, sell, or trade alcohol, tobacco, or controlled substances
+* Content that depicts or promotes activities that may jeopardize youth well-being, including physical challenges, dares, or stunts
 
 ### Physical and psychological harm of minors
 
@@ -90,7 +90,7 @@ Behaviors that place minors at risk of physical or psychological harm include ph
 
 **Do not post, upload, stream, or share:**
 
-*   Content that depicts or promotes physical abuse, neglect, endangerment, or psychological disparagement of minors
+* Content that depicts or promotes physical abuse, neglect, endangerment, or psychological disparagement of minors
 
 ### Crimes against children
 
@@ -107,11 +107,11 @@ We define dangerous acts or other dangerous behavior as activities conducted in 
 
 **Do not post, upload, stream, or share:**
 
-*   Content that shows the potentially inappropriate use of dangerous tools or objects
-*   Content that depicts dangerous driving behavior
-*   Content that depicts or promotes ingesting substances that are not meant for consumption and could lead to severe harm
-*   Content that describes or provides instructional detail on how to perform a dangerous activity
-*   Dangerous games, dares, challenges, or stunts that might lead to injury or property damage 
+* Content that shows the potentially inappropriate use of dangerous tools or objects
+* Content that depicts dangerous driving behavior
+* Content that depicts or promotes ingesting substances that are not meant for consumption and could lead to severe harm
+* Content that describes or provides instructional detail on how to perform a dangerous activity
+* Dangerous games, dares, challenges, or stunts that might lead to injury or property damage 
 
   
 
@@ -128,9 +128,9 @@ Content that encourages or promotes suicide or self-harm hoaxes are also not all
 
 **Do not post, upload, stream, or share:**
 
-*   Content that depicts, promotes, normalizes, or glorifies suicide or self-harm
-*   Content that provides instructions for suicide or how to engage in self-harm
-*   Suicide or self harm games, dares, challenges, pacts, or hoaxes
+* Content that depicts, promotes, normalizes, or glorifies suicide or self-harm
+* Content that provides instructions for suicide or how to engage in self-harm
+* Suicide or self harm games, dares, challenges, pacts, or hoaxes
 
 ### Disordered eating
 
@@ -138,8 +138,8 @@ Content that promotes unhealthy eating behaviors or habits that are likely to ca
 
 **Do not post, upload, stream, or share:**
 
-*   Content that depicts, promotes, normalizes, or glorifies disordered eating
-*   Content that depicts, promotes, normalizes, or glorifies any dangerous weight loss behaviors associated with disordered eating
+* Content that depicts, promotes, normalizes, or glorifies disordered eating
+* Content that depicts, promotes, normalizes, or glorifies any dangerous weight loss behaviors associated with disordered eating
 
   
 
@@ -154,10 +154,10 @@ Sexual exploitation is defined as any actual or attempted abuse of a position of
 
 **Do not post, upload, stream, or share:**
 
-*   Content that depicts, solicits, promotes, normalizes, or glorifies non-consensual sexual acts or non-consensual touching, including rape and sexual assault
-*   Content that depicts, solicits, promotes, normalizes, or glorifies the sharing of non-consensual intimate imagery, including sexual images that are taken, created, or shared without consent
-*   Content that depicts, promotes, normalizes, or glorifies sexual violence
-*   Content that depicts, promotes, or glorifies sexual solicitation, including offering or asking for sexual partners, sexual chats or imagery, sexual services, premium sexual content, or sexcamming
+* Content that depicts, solicits, promotes, normalizes, or glorifies non-consensual sexual acts or non-consensual touching, including rape and sexual assault
+* Content that depicts, solicits, promotes, normalizes, or glorifies the sharing of non-consensual intimate imagery, including sexual images that are taken, created, or shared without consent
+* Content that depicts, promotes, normalizes, or glorifies sexual violence
+* Content that depicts, promotes, or glorifies sexual solicitation, including offering or asking for sexual partners, sexual chats or imagery, sexual services, premium sexual content, or sexcamming
 
 ### Nudity and sexual activity involving adults
 
@@ -165,11 +165,11 @@ Nudity and sexual activity include content that is overtly revealing of breasts,
 
 **Do not post, upload, stream, or share:**
 
-*   Content that explicitly or implicitly depicts sexual activities including penetrative and non-penetrative sex, oral sex, or erotic kissing
-*   Content that depicts sexual arousal or sexual stimulation
-*   Content that depicts a sexual fetish
-*   Content that depicts genitals, buttocks, the pubic region, or female nipples
-*   Content that contains sexually explicit language for sexual gratification
+* Content that explicitly or implicitly depicts sexual activities including penetrative and non-penetrative sex, oral sex, or erotic kissing
+* Content that depicts sexual arousal or sexual stimulation
+* Content that depicts a sexual fetish
+* Content that depicts genitals, buttocks, the pubic region, or female nipples
+* Content that contains sexually explicit language for sexual gratification
 
   
 
@@ -184,12 +184,12 @@ We remove expressions of abuse, including threats or degrading statements intend
 
 **Do not post, upload, stream, or share:**
 
-*   Content that insults another individual, or disparages an individual on the basis of attributes such as intellect, appearance, personality traits, or hygiene
-*   Content that encourages coordinated harassment
-*   Content that disparages victims of violent tragedies
-*   Content that uses TikTok interactive features (e.g., duet) to degrade others
-*   Content that depicts willful harm or intimidation, such as cyberstalking or trolling
-*   Content that wishes death, serious disease, or other serious harm on an individual
+* Content that insults another individual, or disparages an individual on the basis of attributes such as intellect, appearance, personality traits, or hygiene
+* Content that encourages coordinated harassment
+* Content that disparages victims of violent tragedies
+* Content that uses TikTok interactive features (e.g., duet) to degrade others
+* Content that depicts willful harm or intimidation, such as cyberstalking or trolling
+* Content that wishes death, serious disease, or other serious harm on an individual
 
 ### Sexual harassment
 
@@ -197,12 +197,12 @@ Sexual harassment involves unwanted or inappropriate sexual behavior directed at
 
 **Do not post, upload, stream, or share:**
 
-*   Content that attempts to make unwanted sexual contact
-*   Content that disparages another person’s sexual activity
-*   Content that simulates sexual activity with another person, either verbally, in text (including emojis), or through the use of any in-app features
-*   Content that alters or morphs an image of another individual to portray or imply sexual suggestiveness or engagement in sexual activity
-*   Content that reveals, or threatens to reveal, details of a person's private sexual life, including digital content, sexual history, and names of previous sexual partners
-*   Content that exposes, or threatens to expose, a person's sexual orientation without their consent
+* Content that attempts to make unwanted sexual contact
+* Content that disparages another person’s sexual activity
+* Content that simulates sexual activity with another person, either verbally, in text (including emojis), or through the use of any in-app features
+* Content that alters or morphs an image of another individual to portray or imply sexual suggestiveness or engagement in sexual activity
+* Content that reveals, or threatens to reveal, details of a person's private sexual life, including digital content, sexual history, and names of previous sexual partners
+* Content that exposes, or threatens to expose, a person's sexual orientation without their consent
 
 ### Threats of hacking, doxxing, and blackmail
 
@@ -210,10 +210,10 @@ Threatening to hack or dox with an intent to harass or blackmail another individ
 
 **Do not post, upload, stream, or share:**
 
-*   Content that threatens to reveal personal data or personally identifiable information (PII), including residential address, private email address, private phone number, bank statement, social security number, or passport number
-*   Content that threatens to blackmail an individual or to hack an individual's account
-*   Content that incites or encourages others to hack or reveal another person's account, personal data, or personally identifiable information (PII)
-*   An individual's account, personal data, or personally identifiable information to encourage others to abuse, troll, or harass that individual
+* Content that threatens to reveal personal data or personally identifiable information (PII), including residential address, private email address, private phone number, bank statement, social security number, or passport number
+* Content that threatens to blackmail an individual or to hack an individual's account
+* Content that incites or encourages others to hack or reveal another person's account, personal data, or personally identifiable information (PII)
+* An individual's account, personal data, or personally identifiable information to encourage others to abuse, troll, or harass that individual
 
   
 
@@ -226,28 +226,28 @@ TikTok is a diverse and inclusive community that has no tolerance for discrimina
 
 We define hate speech or behavior as content that attacks, threatens, incites violence against, or otherwise dehumanizes an individual or a group on the basis of the following protected attributes:
 
-*   Race
-*   Ethnicity
-*   National origin
-*   Religion
-*   Caste
-*   Sexual orientation
-*   Sex
-*   Gender
-*   Gender identity
-*   Serious disease
-*   Disability
-*   Immigration status
+* Race
+* Ethnicity
+* National origin
+* Religion
+* Caste
+* Sexual orientation
+* Sex
+* Gender
+* Gender identity
+* Serious disease
+* Disability
+* Immigration status
 
 Slurs are defined as derogatory terms that are intended to disparage groups or individuals based on any protected attributes listed above. To minimize the spread of egregiously offensive terms, we remove all slurs from our platform, unless the terms are reappropriated, used self-referentially (i.e., by members of the protected group), or used in a way that does not disparage (e.g., educational context).
 
 **Do not post, upload, stream, or share:**
 
-*   Content claiming individuals or groups with protected attributes are physically, mentally, or morally inferior or referring to them as criminals, animals, inanimate objects, or other non-human entities 
-*   Content promoting or justifying violence, exclusion, segregation, or discrimination against them
-*   Content that includes the use of non-self referential slurs
-*   Content that targets transgender or non-binary individuals through misgendering or deadnaming
-*   Content that depicts harm inflicted upon an individual or a group on the basis of a protected attribute
+* Content claiming individuals or groups with protected attributes are physically, mentally, or morally inferior or referring to them as criminals, animals, inanimate objects, or other non-human entities  
+* Content promoting or justifying violence, exclusion, segregation, or discrimination against them
+* Content that includes the use of non-self referential slurs
+* Content that targets transgender or non-binary individuals through misgendering or deadnaming
+* Content that depicts harm inflicted upon an individual or a group on the basis of a protected attribute
 
 ### Hateful ideology
 
@@ -255,12 +255,12 @@ Hateful ideologies are those that demonstrate clear hostility toward people beca
 
 **Do not post, upload, stream, or share**:
 
-*   Content that praises, promotes, glorifies, or supports any hateful ideology (e.g., white supremacy, misogyny, anti-LGBTQ, antisemitism)
-*   Content that contains names, symbols, logos, flags, slogans, uniforms, gestures, salutes, illustrations, portraits, songs, music, lyrics, or other objects related to a hateful ideology
-*   Content that promotes, supports, or advertises conversion therapy or related program
-*   Content that denies well-documented and violent events have taken place affecting groups with protected attributes (e.g., Holocaust denial)
-*   Claims of supremacy over a group of people with reference to other protected attributes
-*   Conspiracy theories used to justify hateful ideologies
+* Content that praises, promotes, glorifies, or supports any hateful ideology (e.g., white supremacy, misogyny, anti-LGBTQ, antisemitism)
+* Content that contains names, symbols, logos, flags, slogans, uniforms, gestures, salutes, illustrations, portraits, songs, music, lyrics, or other objects related to a hateful ideology
+* Content that promotes, supports, or advertises conversion therapy or related program
+* Content that denies well-documented and violent events have taken place affecting groups with protected attributes (e.g., Holocaust denial)
+* Claims of supremacy over a group of people with reference to other protected attributes
+* Conspiracy theories used to justify hateful ideologies
 
   
 
@@ -275,11 +275,11 @@ We consider incitement to violence as advocating for, directing, or encouraging 
 
 **Do not post, upload, stream, or share:**
 
-*   Statements of intent to inflict physical injuries on an individual or a group
-*   Statements or imagery that encourage others to commit or that advocate for violence
-*   Conditional or aspirational statements that encourage other people to commit violence
-*   Calls to bring weapons to a location with the intent to intimidate or threaten an individual or group with violence
-*   Instructions on how to make or use weapons that may incite violence
+* Statements of intent to inflict physical injuries on an individual or a group
+* Statements or imagery that encourage others to commit or that advocate for violence
+* Conditional or aspirational statements that encourage other people to commit violence
+* Calls to bring weapons to a location with the intent to intimidate or threaten an individual or group with violence
+* Instructions on how to make or use weapons that may incite violence
 
 ### Violent extremist organizations and individuals
 
@@ -299,9 +299,9 @@ Criminal organizations are transnational, national, or local groups that have en
 
 **Do not post, upload, stream, or share:**
 
-*   Content that praises, promotes, glorifies, or supports violent acts or extremist organizations or individuals
-*   Content that encourages participation in, or intends to recruit individuals to, violent extremist organizations
-*   Content with names, symbols, logos, flags, slogans, uniforms, gestures, salutes, illustrations, portraits, songs, music, lyrics, or other objects meant to represent violent extremist organizations or individuals
+* Content that praises, promotes, glorifies, or supports violent acts or extremist organizations or individuals
+* Content that encourages participation in, or intends to recruit individuals to, violent extremist organizations
+* Content with names, symbols, logos, flags, slogans, uniforms, gestures, salutes, illustrations, portraits, songs, music, lyrics, or other objects meant to represent violent extremist organizations or individuals
 
   
 
@@ -316,11 +316,11 @@ Fake engagement includes any content or activity that seeks to artificially infl
 
 **Do not:**
 
-*   Share instructions on how to artificially increase views, likes, followers, shares, or comments
-*   Engage in selling or buying views, likes, followers, shares, or comments
-*   Promote artificial traffic generation services
-*   Operate multiple TikTok accounts under false or fraudulent pretenses to distribute commercial spam
-*   Create malicious software or modify code to artificially increase views, likes, followers, shares, or comments
+* Share instructions on how to artificially increase views, likes, followers, shares, or comments
+* Engage in selling or buying views, likes, followers, shares, or comments
+* Promote artificial traffic generation services
+* Operate multiple TikTok accounts under false or fraudulent pretenses to distribute commercial spam
+* Create malicious software or modify code to artificially increase views, likes, followers, shares, or comments
 
 ### Impersonation
 
@@ -328,7 +328,7 @@ We do not allow accounts that pose as another person or entity in a deceptive ma
 
 **Do not:**
 
-*   Pose as another person or entity by using someone else's name, biographical details, or profile picture in a misleading manner
+* Pose as another person or entity by using someone else's name, biographical details, or profile picture in a misleading manner
 
 ### Harmful misinformation
 
@@ -336,16 +336,16 @@ Misinformation is defined as content that is inaccurate or false. We will remove
 
 **Do not post, upload, stream, or share:**
 
-*   Misinformation that incites hate or prejudice
-*   Misinformation related to emergencies that induces panic
-*   Medical misinformation that can cause harm to an individual's physical health
-*   Content that misleads community members about elections or other civic processes
-*   Conspiratorial content including content that attacks a specific person or a protected group, includes a violent call to action, or denies a violent or tragic event occurred
-*   Digital Forgeries (Synthetic Media or Manipulated Media) that mislead users by distorting the truth of events and cause significant harm to the subject of the video, other persons, or society
+* Misinformation that incites hate or prejudice
+* Misinformation related to emergencies that induces panic
+* Medical misinformation that can cause harm to an individual's physical health
+* Content that misleads community members about elections or other civic processes
+* Conspiratorial content including content that attacks a specific person or a protected group, includes a violent call to action, or denies a violent or tragic event occurred
+* Digital Forgeries (Synthetic Media or Manipulated Media) that mislead users by distorting the truth of events and cause significant harm to the subject of the video, other persons, or society
 
 **Do not:**
 
-*   Engage in coordinated inauthentic behavior such as the use of multiple accounts to exert influence and sway public opinion while misleading individuals, our community, or our systems about the account's identity, location, relationships, popularity, or purpose
+* Engage in coordinated inauthentic behavior such as the use of multiple accounts to exert influence and sway public opinion while misleading individuals, our community, or our systems about the account's identity, location, relationships, popularity, or purpose
 
   
 
@@ -360,13 +360,13 @@ Criminal activities cover a wide spectrum of acts punishable by law, including t
 
 **Do not post, upload, stream, or share:**
 
-*   Content that promotes acts of physical harm, such as assault or kidnapping
-*   Content that risks the safety of others, including swatting
-*   Content that promotes human exploitation, including human smuggling, bonded labor, domestic servitude, sex trafficking, or prostitution
-*   Content that promotes vandalism or damage to property
-*   Content that promotes the poaching or illegal trade of wildlife
-*   Content that offers the purchase, sale, trade, or solicitation of unlawfully acquired or counterfeit goods
-*   Content that provides instructions on how to conduct criminal activities that result in harm to people, animals, or property
+* Content that promotes acts of physical harm, such as assault or kidnapping
+* Content that risks the safety of others, including swatting
+* Content that promotes human exploitation, including human smuggling, bonded labor, domestic servitude, sex trafficking, or prostitution
+* Content that promotes vandalism or damage to property
+* Content that promotes the poaching or illegal trade of wildlife
+* Content that offers the purchase, sale, trade, or solicitation of unlawfully acquired or counterfeit goods
+* Content that provides instructions on how to conduct criminal activities that result in harm to people, animals, or property
 
 ### Weapons
 
@@ -374,8 +374,8 @@ We do not allow the depiction, promotion, or trade of firearms, ammunition, fire
 
 **Do not post, upload, stream, or share:**
 
-*   Content that displays firearms, firearm accessories, ammunition, or explosive weapons
-*   Content that offers the purchase, sale, trade, or solicitation of firearms, accessories, ammunition, explosive weapons, or instructions on how to manufacture them
+* Content that displays firearms, firearm accessories, ammunition, or explosive weapons
+* Content that offers the purchase, sale, trade, or solicitation of firearms, accessories, ammunition, explosive weapons, or instructions on how to manufacture them
 
 ### Drugs, controlled substances, alcohol, and tobacco
 
@@ -383,10 +383,10 @@ We do not allow the depiction, promotion, or trade of drugs or other controlled 
 
 **Do not post, upload, stream, or share:**
 
-*   Content that depicts or promotes drugs, drug consumption, or encourages others to make, use, or trade drugs or other controlled substances
-*   Content that offers the purchase, sale, trade, or solicitation of drugs or other controlled substances, alcohol or tobacco products (including vaping products, smokeless or combustible tobacco products, synthetic nicotine products, E-cigarettes, and other ENDS \[Electronic Nicotine Delivery Systems\])
-*   Content that provides information on how to buy illegal or controlled substances
-*   Content that depicts or promotes the misuse of legal substances, or instruction on how to make homemade substances, in an effort to become intoxicated
+* Content that depicts or promotes drugs, drug consumption, or encourages others to make, use, or trade drugs or other controlled substances
+* Content that offers the purchase, sale, trade, or solicitation of drugs or other controlled substances, alcohol or tobacco products (including vaping products, smokeless or combustible tobacco products, synthetic nicotine products, E-cigarettes, and other ENDS \[Electronic Nicotine Delivery Systems\])
+* Content that provides information on how to buy illegal or controlled substances
+* Content that depicts or promotes the misuse of legal substances, or instruction on how to make homemade substances, in an effort to become intoxicated
 
 ### Frauds and scams
 
@@ -394,9 +394,9 @@ We do not permit anyone to exploit our platform to take advantage of the trust o
 
 **Do not post, upload, stream, or share:**
 
-*   Content that promotes phishing
-*   Content that promotes Ponzi, multi-level marketing, or pyramid schemes
-*   Content that promotes investment schemes with promise of high returns, fixed betting, or any other types of scams
+* Content that promotes phishing
+* Content that promotes Ponzi, multi-level marketing, or pyramid schemes
+* Content that promotes investment schemes with promise of high returns, fixed betting, or any other types of scams
 
 ### Gambling
 
@@ -404,7 +404,7 @@ We do not allow content promoting gambling services, or that could be perceived 
 
 **Do not post, upload, stream, or share:**
 
-*   Content that promotes casinos, sports betting, poker, lotteries, gambling-related software and apps, or other gambling services
+* Content that promotes casinos, sports betting, poker, lotteries, gambling-related software and apps, or other gambling services
 
 ### Privacy, personal data, and personally identifiable information (PII)
 
@@ -412,7 +412,7 @@ We do not allow content that violates the confidentiality of personal data or pe
 
 **Do not post, upload, stream, or share:**
 
-*   Content that contains personal data or personally identifiable information (PII) 
+* Content that contains personal data or personally identifiable information (PII) 
 
   
 
@@ -423,18 +423,18 @@ TikTok is a platform that celebrates creativity but not shock value or violence.
 
 **Do not post, upload, stream, or share:**
 
-*   Content of humans that depicts:
+* Content of humans that depicts:
 
-*   violent or graphic deaths or accidents
-*   dismembered, mutilated, charred, or burned human remains
-*   gore in which an open wound or injury is the core focus
-*   real-world physical violence, fighting, or torture
+* violent or graphic deaths or accidents
+* dismembered, mutilated, charred, or burned human remains
+* gore in which an open wound or injury is the core focus
+* real-world physical violence, fighting, or torture
 
-*   Content of animals that depicts: 
+* Content of animals that depicts: 
 
-*   the slaughter or other non-natural death of animals
-*   dismembered, mutilated, charred, or burned animal remains
-*   animal cruelty and gore
+* the slaughter or other non-natural death of animals
+* dismembered, mutilated, charred, or burned animal remains
+* animal cruelty and gore
 
   
 
@@ -445,7 +445,7 @@ Copyright is a legal right that protects original works of authorship (e.g., mus
 
 **Do not post, upload, stream, or share:**
 
-*   Content that violates or infringes someone else's copyrights, trademarks, or other intellectual property rights
+* Content that violates or infringes someone else's copyrights, trademarks, or other intellectual property rights
 
   
 
@@ -456,13 +456,13 @@ A top priority for TikTok is the safety and security of our users, creators, bus
 
 **Do not:**
 
-*   Attempt to access the TikTok platform in an unauthorized manner, and do not create fake or misleading versions of the TikTok platform
-*   Create or distribute malicious files, content, or messages that contain viruses, Trojan horses, worms, logic bombs, or other materials that may be harmful to the community or platform
-*   Use automated scripts, web crawling, software, deceptive techniques, or any other way to attempt to obtain, acquire, or request login credentials or other sensitive information, including non-public data, from TikTok or its users
-*   Leverage TikTok accounts under false or fraudulent pretenses to distribute spam, phishing, or smishing content in an attempt to perpetrate cybercrime or gain unauthorized access to others’ content, accounts, systems, or data
-*   Modify, adapt, translate, reverse engineer, disassemble, decompile, or create any derivative products based on TikTok, including any files, tables or documentation, or attempt to regenerate any source code, algorithms, methods, or techniques embodied in TikTok
-*   Provide access to your account credentials to others or enable others to conduct activities against our Community Guidelines
-*   Click on suspicious links or engage in requests for information about your TikTok account details, passwords, verification qualification, financial, or other personal information
+* Attempt to access the TikTok platform in an unauthorized manner, and do not create fake or misleading versions of the TikTok platform
+* Create or distribute malicious files, content, or messages that contain viruses, Trojan horses, worms, logic bombs, or other materials that may be harmful to the community or platform
+* Use automated scripts, web crawling, software, deceptive techniques, or any other way to attempt to obtain, acquire, or request login credentials or other sensitive information, including non-public data, from TikTok or its users
+* Leverage TikTok accounts under false or fraudulent pretenses to distribute spam, phishing, or smishing content in an attempt to perpetrate cybercrime or gain unauthorized access to others’ content, accounts, systems, or data
+* Modify, adapt, translate, reverse engineer, disassemble, decompile, or create any derivative products based on TikTok, including any files, tables or documentation, or attempt to regenerate any source code, algorithms, methods, or techniques embodied in TikTok
+* Provide access to your account credentials to others or enable others to conduct activities against our Community Guidelines
+* Click on suspicious links or engage in requests for information about your TikTok account details, passwords, verification qualification, financial, or other personal information
 
   
 
@@ -501,4 +501,4 @@ Original and entertaining content form the core of the TikTok community. To main
 
 \-------------------------------------------------------------------------------------------------------------------------------
 
-Thank you for being a part of our vibrant global community and working with us to maintain a welcoming space for all users. If you come across content or accounts that you believe may violate our Community Guidelines, please [let us know](https://support.tiktok.com/en/safety-hc/report-a-problem)  so we can review and take appropriate action.
+Thank you for being a part of our vibrant global community and working with us to maintain a welcoming space for all users. If you come across content or accounts that you believe may violate our Community Guidelines, please [let us know](https://support.tiktok.com/en/safety-hc/report-a-problem)  so we can review and take appropriate action.
