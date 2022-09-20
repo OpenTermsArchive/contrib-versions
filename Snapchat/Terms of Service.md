@@ -21,13 +21,13 @@ These Terms apply if you live in the United States or if your principal place of
 
 No one under 13 (or, if greater than 13, the minimum age at which a person may use the Services in your country) is allowed to create an account or use the Services. If you are under 18 (or the legal age of majority in your country), you may only use the Services with the prior consent of your parent or legal guardian. Please be sure your parent or legal guardian has reviewed and discussed these Terms with you before you start using the Services. We may offer additional Services with additional terms that may require you to be even older to use them. So please read all terms carefully. By using the Services, you represent, warrant, and state that:
 
-*   You are forming a binding contract with Snap;
+* You are forming a binding contract with Snap;
     
-*   You are not a person who is barred from using the Services under the laws of the United States, the United Kingdom, or any other applicable jurisdiction—including, for example, that you do not appear on the U.S. Treasury Department’s list of Specially Designated Nationals or face any other similar prohibition;
+* You are not a person who is barred from using the Services under the laws of the United States, the United Kingdom, or any other applicable jurisdiction—including, for example, that you do not appear on the U.S. Treasury Department’s list of Specially Designated Nationals or face any other similar prohibition;
     
-*   You are not a convicted sex offender; and
+* You are not a convicted sex offender; and
     
-*   You will comply with these Terms and all applicable local, state, national and international laws, rules and regulations.
+* You will comply with these Terms and all applicable local, state, national and international laws, rules and regulations.
     
 
 If you are using the Services on behalf of a business or some other entity, you state that you are authorised to bind that business or entity to these Terms and you agree to these Terms on behalf of that business or entity (and all references to “you” and “your” in these Terms will mean both you as the end user and that business or entity).
@@ -74,31 +74,31 @@ Much of the content on our Services is produced by users, publishers and other t
 
 You must also respect Snap’s rights and adhere to the [Snapchat Brand Guidelines](https://www.snap.com/en-GB/brand-guidelines/), [Bitmoji Brand Guidelines](https://www.bitmoji.com/bitmoji_brand_guidelines.pdf), and any other guidelines, support pages, or FAQ’s published by Snap or our affiliates. That means, among other things, you may not do, attempt to do, enable, or encourage anyone else to do, any of the following:
 
-*   Use branding, logos, icons, user interface elements, designs, photographs, videos, or any other materials that Snap makes available via the Services, except as explicitly allowed by these Terms, the [Snapchat Brand Guidelines](https://www.snap.com/en-GB/brand-guidelines/), [Bitmoji Brand Guidelines](https://www.bitmoji.com/bitmoji_brand_guidelines.pdf) or other brand guidelines published by Snap Inc. or our affiliates;
+* Use branding, logos, icons, user interface elements, designs, photographs, videos, or any other materials that Snap makes available via the Services, except as explicitly allowed by these Terms, the [Snapchat Brand Guidelines](https://www.snap.com/en-GB/brand-guidelines/), [Bitmoji Brand Guidelines](https://www.bitmoji.com/bitmoji_brand_guidelines.pdf) or other brand guidelines published by Snap Inc. or our affiliates;
     
-*   Violate or infringe Snap’s or our affiliates’ copyrights, trademarks, or other intellectual property rights;
+* Violate or infringe Snap’s or our affiliates’ copyrights, trademarks, or other intellectual property rights;
     
-*   Copy, modify, archive, download, upload, disclose, distribute, sell, lease, syndicate, broadcast, perform, display, make available, make derivatives of, or otherwise use the Services or the content on the Services, other than temporary files that are automatically cached by your web browser for display purposes, as otherwise expressly permitted in these Terms, as otherwise expressly permitted by us in writing, or as enabled by the Service’s intended functionality;
+* Copy, modify, archive, download, upload, disclose, distribute, sell, lease, syndicate, broadcast, perform, display, make available, make derivatives of, or otherwise use the Services or the content on the Services, other than temporary files that are automatically cached by your web browser for display purposes, as otherwise expressly permitted in these Terms, as otherwise expressly permitted by us in writing, or as enabled by the Service’s intended functionality;
     
-*   Create more than one account for yourself, create another account if we have already disabled your account, attempt to access the Services through unauthorised third-party applications, solicit login credentials from other users, or buy, sell, rent, or lease access to your account, a username, Snaps, or a friend link;
+* Create more than one account for yourself, create another account if we have already disabled your account, attempt to access the Services through unauthorised third-party applications, solicit login credentials from other users, or buy, sell, rent, or lease access to your account, a username, Snaps, or a friend link;
     
-*   Reverse engineer, duplicate, decompile, disassemble, or decode the Services (including any underlying idea or algorithm), or otherwise extract the source code of the software of the Service;
+* Reverse engineer, duplicate, decompile, disassemble, or decode the Services (including any underlying idea or algorithm), or otherwise extract the source code of the software of the Service;
     
-*   You will not use any robot, spider, crawler, scraper or other automated means or interface to access the Services or extract other users’ information.
+* You will not use any robot, spider, crawler, scraper or other automated means or interface to access the Services or extract other users’ information.
     
-*   You will not use or develop any third-party applications that interact with the Services or other users’ content or information without our written consent.
+* You will not use or develop any third-party applications that interact with the Services or other users’ content or information without our written consent.
     
-*   You will not use the Services in any manner that could interfere with, disrupt, negatively affect or inhibit other users from fully enjoying the Services, or that could damage, disable, overburden, or impair the functioning of the Services in any manner;
+* You will not use the Services in any manner that could interfere with, disrupt, negatively affect or inhibit other users from fully enjoying the Services, or that could damage, disable, overburden, or impair the functioning of the Services in any manner;
     
-*   Upload viruses or other malicious code or otherwise compromise, bypass, or circumvent the security of the Services;
+* Upload viruses or other malicious code or otherwise compromise, bypass, or circumvent the security of the Services;
     
-*   Attempt to circumvent any content-filtering techniques we employ or attempt to access areas or features of the Services that you are not authorised to access;
+* Attempt to circumvent any content-filtering techniques we employ or attempt to access areas or features of the Services that you are not authorised to access;
     
-*   Probe, scan, or test the vulnerability of our Services or any system or network;
+* Probe, scan, or test the vulnerability of our Services or any system or network;
     
-*   Violate any applicable law or regulation in connection with your access to or use of the Services; or
+* Violate any applicable law or regulation in connection with your access to or use of the Services; or
     
-*   Access or use the Services in any way not expressly permitted by these Terms or our [Community Guidelines](https://www.snap.com/en-GB/community-guidelines).
+* Access or use the Services in any way not expressly permitted by these Terms or our [Community Guidelines](https://www.snap.com/en-GB/community-guidelines).
     
 
 6\. Respecting others’ rights
@@ -108,17 +108,17 @@ Snap Inc. respects the rights of others. And so should you. You therefore may n
 
 Snap honours copyright laws, including the Digital Millennium Copyright Act and takes reasonable steps to expeditiously remove from our Services any infringing material that we become aware of. If Snap becomes aware that a user has repeatedly infringed copyrights, we will take reasonable steps within our power to terminate the user’s account. If you believe that anything on the Services infringes a copyright that you own or control, please report it using the form accessible through this [tool](https://support.snapchat.com/a/infringement-reporting-about). Or you may file a notice with our designated agent: Snap Inc., Attn: Copyright Agent, 3000 31st Street, Santa Monica, CA 90405, email: copyright@snap.com. Please don’t use this email address for anything other than reporting copyright infringement, as such emails will be ignored. To report other forms of infringement on the Services, please use the tool accessible [here](https://support.snapchat.com/a/infringement-reporting-about). If you file a notice with our Copyright Agent, it must:
 
-*   Contain the physical or electronic signature of a person authorised to act on behalf of the copyright owner.
+* Contain the physical or electronic signature of a person authorised to act on behalf of the copyright owner.
     
-*   Identify the copyrighted work claimed to have been infringed.
+* Identify the copyrighted work claimed to have been infringed.
     
-*   Identify the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed, or access to which is to be disabled, and information reasonably sufficient to let us locate the material.
+* Identify the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed, or access to which is to be disabled, and information reasonably sufficient to let us locate the material.
     
-*   Provide your contact information, including your address, telephone number and an email address.
+* Provide your contact information, including your address, telephone number and an email address.
     
-*   Provide a personal statement that you have a belief in good faith that the use of the material in the manner complained of is not authorised by the copyright owner, its agent, or the law; and
+* Provide a personal statement that you have a belief in good faith that the use of the material in the manner complained of is not authorised by the copyright owner, its agent, or the law; and
     
-*   Provide a statement that the information in the notification is accurate and, under penalty of perjury, that you are authorised to act on behalf of the copyright owner.
+* Provide a statement that the information in the notification is accurate and, under penalty of perjury, that you are authorised to act on behalf of the copyright owner.
     
 
 9\. Safety
