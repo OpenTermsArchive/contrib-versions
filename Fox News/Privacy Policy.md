@@ -6,40 +6,40 @@ _Last Updated/Effective Date: June 30, 2022_
 Table of Contents:
 ------------------
 
-1.  [**Scope and Application**](#test)
+1. [**Scope and Application**](#test)
     
     What and who this Policy covers
     
-2.  [**Collection of Information**](#collection)
+2. [**Collection of Information**](#collection)
     
     The sources of and methods by which we, our service providers, and our advertisers collect information from and about you, including information about your interaction with the Fox News Services
     
-3.  [**Use and Disclosure**](#use)
+3. [**Use and Disclosure**](#use)
     
     How we use the information we collect from and about you, and who we might share it with and why
     
-4.  [**Security**](#security)
+4. [**Security**](#security)
     
     How we protect your information from loss or misuse
     
-5.  [**User Access and Control**](#access)
+5. [**User Access and Control**](#access)
     
     How you can access and control the information we maintain about you
     
-6.  [**Other Important Information**](#other)
+6. [**Other Important Information**](#other)
     
     Other things you should know about this Policy and how we handle your information
     
-7.  [**Contact Us**](#contact)
+7. [**Contact Us**](#contact)
     
     How to contact Fox News about this Policy
     
-8.  [**California Consumer Privacy Act Notice**](#ccpa)
+8. [**California Consumer Privacy Act Notice**](#ccpa)
     
     Other things you should know if you reside in California
     
 
-  
+ 
 
 ### 1) Scope and Application
 
@@ -49,7 +49,7 @@ As set forth in our [Terms of Use](https://www.foxnews.com/terms-of-use), the F
 
 This Privacy Policy applies to all users, including both those who use the Fox News Services without being registered with or subscribing to a Fox News Services and those who have registered with or subscribed to a Fox News Service. This Privacy Policy applies to our collection and use of your personal information (i.e., information that identifies a specific person, such as full name or email address). It also describes generally our practices for handling non-personal information (for example, interests, demographics and services usage).
 
-  
+ 
 
 ### 2) Collection of Information
 
@@ -79,7 +79,7 @@ Your browser may be initially set to accept cookies, but you can change your set
 
 **Do Not Track Signals.** At this time we do not respond to browser ‘Do Not Track’ signals, as we await the work of interested stakeholders and others to develop standards for how such signals should be interpreted.
 
-  
+ 
 
 ### 3) Use and Disclosure
 
@@ -87,29 +87,29 @@ We may use the information we collect from and about you to provide the Fox News
 
 We use the information we collect from and about you for these additional purposes:
 
-*   **To allow service providers to assist us in providing and managing the Fox News Services.** The information we collect from and about you may be made available to certain service providers, such as contractors, analytics and other measurement companies, agents or sponsors, who help us analyze and understand your use of the Fox News Services, and manage and/or provide the Fox News Services, including to purchase a product, subscribe to a service, or make payments.
-*   **To allow social sharing functionality.** If you log in with or connect a social media service account with Fox News Services, we may share your user name, picture, and likes, as well as your activities and comments with other Fox News Services users and with your friends associated with your social media service. We may also share the same information with the social media service provider. By logging in with or connecting your Fox News Services account with a social media service, you are authorizing us to share information we collect from and about you with the social media service provider, other users and your friends and you understand that the social media service’s use of the shared information will be governed by the social media service’s privacy policy. If you do not want your personal information shared in this way, please do not connect your social media service account with your Fox News Services account and do not participate in social sharing on Fox News Services.
-*   **To deliver video content.** In the ordinary course of our business, we may share information that we collect from or about you with other parties in order to process your requests and fulfill your orders for video content offered through the Fox News Services, including, to provide you with access to localized content and provide video content recommendations.
-*   **To enable commenting.** If you participate in commenting, we may use your user/display name, comments and other activity to facilitate commenting.
-*   **To process User-Uploaded Content for news gathering and other services.** User-Uploaded Content, including personal information, may be used publicly: for news gathering; published on our social media pages on other platforms; posted and displayed on our own community-related services; or published as part of our services. Whether we publish any piece of User-Uploaded Content is at our sole discretion and is subject to our Terms of Use. You should not upload materials that reveal your sensitive personal information or the personal information of others. If you do not wish to disclose metadata to us that may be associated with your User-Uploaded Content, you should either refrain from uploading the content or take steps to remove such metadata.
-*   **To provide co-branded services and features.** We may offer co-branded services or features, such as contests, sweepstakes or other promotions together with other companies ("Co-Branded Services"). These Co-Branded Services may be hosted on Fox News Services or on that other party’s service. By virtue of these relationships, we may share the information you submit in connection with the Co-Branded Service with that party. That other party’s use of your information will be governed by its privacy policy.
-*   **To deliver relevant advertisements.** Fox News and our service providers may use the information we collect from and about you as described in this Privacy Policy to deliver relevant ads to you when you use the Fox News Services or another service (on any of your devices). This may include, for example, sharing email address (in hashed form), IP address, or information about your browser or operating system, with our identity partners/service providers. In some instances, these entities may return an online identification code that we may store in a first party cookie, or other similar technology, for our use in online and cross-channel advertising and it may be shared with advertising companies to enable interest-based and targeted advertising. To opt out of this use, please click [here](https://optout.liveramp.com/opt_out).
+* **To allow service providers to assist us in providing and managing the Fox News Services.** The information we collect from and about you may be made available to certain service providers, such as contractors, analytics and other measurement companies, agents or sponsors, who help us analyze and understand your use of the Fox News Services, and manage and/or provide the Fox News Services, including to purchase a product, subscribe to a service, or make payments.
+* **To allow social sharing functionality.** If you log in with or connect a social media service account with Fox News Services, we may share your user name, picture, and likes, as well as your activities and comments with other Fox News Services users and with your friends associated with your social media service. We may also share the same information with the social media service provider. By logging in with or connecting your Fox News Services account with a social media service, you are authorizing us to share information we collect from and about you with the social media service provider, other users and your friends and you understand that the social media service’s use of the shared information will be governed by the social media service’s privacy policy. If you do not want your personal information shared in this way, please do not connect your social media service account with your Fox News Services account and do not participate in social sharing on Fox News Services.
+* **To deliver video content.** In the ordinary course of our business, we may share information that we collect from or about you with other parties in order to process your requests and fulfill your orders for video content offered through the Fox News Services, including, to provide you with access to localized content and provide video content recommendations.
+* **To enable commenting.** If you participate in commenting, we may use your user/display name, comments and other activity to facilitate commenting.
+* **To process User-Uploaded Content for news gathering and other services.** User-Uploaded Content, including personal information, may be used publicly: for news gathering; published on our social media pages on other platforms; posted and displayed on our own community-related services; or published as part of our services. Whether we publish any piece of User-Uploaded Content is at our sole discretion and is subject to our Terms of Use. You should not upload materials that reveal your sensitive personal information or the personal information of others. If you do not wish to disclose metadata to us that may be associated with your User-Uploaded Content, you should either refrain from uploading the content or take steps to remove such metadata.
+* **To provide co-branded services and features.** We may offer co-branded services or features, such as contests, sweepstakes or other promotions together with other companies ("Co-Branded Services"). These Co-Branded Services may be hosted on Fox News Services or on that other party’s service. By virtue of these relationships, we may share the information you submit in connection with the Co-Branded Service with that party. That other party’s use of your information will be governed by its privacy policy.
+* **To deliver relevant advertisements.** Fox News and our service providers may use the information we collect from and about you as described in this Privacy Policy to deliver relevant ads to you when you use the Fox News Services or another service (on any of your devices). This may include, for example, sharing email address (in hashed form), IP address, or information about your browser or operating system, with our identity partners/service providers. In some instances, these entities may return an online identification code that we may store in a first party cookie, or other similar technology, for our use in online and cross-channel advertising and it may be shared with advertising companies to enable interest-based and targeted advertising. To opt out of this use, please click [here](https://optout.liveramp.com/opt_out).
     
     As noted above, advertising technology companies and advertisers may use cookies and similar technologies to collect and track information such as demographic information, inferred interests, aggregated information, and information about the different devices and/or browsers you use and your activity on such devices and browsers, to assist them in delivering advertising that is more relevant to your interests. The information may also be used to deliver more relevant advertising to you across marketing channels, including email. To find out more about advertising networks and similar entities that use these technologies, see [https://youradchoices.com/](https://www.youradchoices.com/). If you wish to opt out of tailored advertising in desktop and mobile browsers, please visit [http://optout.aboutads.info/](https://optout.aboutads.info/) or [http://optout.networkadvertising.org/#](https://optout.networkadvertising.org/#) on each of your devices and browsers. To opt out in mobile apps, you may use your device’s setting to opt out of ads personalization or similar settings or download and use the AppChoices app at [https://youradchoices.com/appchoices](https://www.youradchoices.com/appchoices). To opt out on connected TVs, please use the setting "opt out of ads personalization," "Interest-based Ads," or equivalent settings on your device. Please note that opting-out does not mean that you will stop seeing all ads.
     
-*   **To contact you.** Fox News may periodically send promotional materials or notifications related to the Fox News Services. If you want to stop receiving promotional materials, you can follow the unsubscribe instructions at the bottom of each email. There are certain service notification and other non-promotional emails that you may not opt-out of, such as notifications of changes to the Fox News Services or policies. If you have installed a mobile app and you wish to stop receiving push notifications, you can change the settings either on your mobile device or through the app.
-*   **To share with our Fox News Affiliates.** Fox News may share your information with Fox News Affiliates for the purposes described in this Privacy Policy. A link to a website that lists Fox News Affiliates can be found at the beginning of this policy. Users who visit Fox News Affiliates’ services should still refer to their separate privacy policies, which may differ in some respects from this Privacy Policy.
-*   **To share with business partners.** Fox News may share your information with business partners to permit them to send you marketing communications consistent with your choices.
-*   **To protect the rights of Fox News and others.** There may be instances when Fox News may use or disclose your information, including situations where Fox News has a good faith belief that such use or disclosure is necessary in order to: (i) protect, enforce, or defend the legal rights, privacy, safety, or property of Fox News, our Fox News Affiliates, or their employees, agents and contractors (including enforcement of our agreements and our Terms of Use); (ii) protect the safety, privacy, and security of users of the Fox News Services or members of the public; (iii) protect against fraud or for risk management purposes; (iv) comply with the law or legal process; or (v) respond to requests from public and government authorities.
-*   **To complete a merger or sale of assets or other corporate transaction.** If Fox News sells all or part of its business or makes a sale or transfer of its assets or is otherwise involved in a reorganization, merger or transfer of all or a material part of its business (including in connection with a bankruptcy or similar proceedings), Fox News may transfer or disclose your information to the party or parties involved in the transaction as part of that transaction.
+* **To contact you.** Fox News may periodically send promotional materials or notifications related to the Fox News Services. If you want to stop receiving promotional materials, you can follow the unsubscribe instructions at the bottom of each email. There are certain service notification and other non-promotional emails that you may not opt-out of, such as notifications of changes to the Fox News Services or policies. If you have installed a mobile app and you wish to stop receiving push notifications, you can change the settings either on your mobile device or through the app.
+* **To share with our Fox News Affiliates.** Fox News may share your information with Fox News Affiliates for the purposes described in this Privacy Policy. A link to a website that lists Fox News Affiliates can be found at the beginning of this policy. Users who visit Fox News Affiliates’ services should still refer to their separate privacy policies, which may differ in some respects from this Privacy Policy.
+* **To share with business partners.** Fox News may share your information with business partners to permit them to send you marketing communications consistent with your choices.
+* **To protect the rights of Fox News and others.** There may be instances when Fox News may use or disclose your information, including situations where Fox News has a good faith belief that such use or disclosure is necessary in order to: (i) protect, enforce, or defend the legal rights, privacy, safety, or property of Fox News, our Fox News Affiliates, or their employees, agents and contractors (including enforcement of our agreements and our Terms of Use); (ii) protect the safety, privacy, and security of users of the Fox News Services or members of the public; (iii) protect against fraud or for risk management purposes; (iv) comply with the law or legal process; or (v) respond to requests from public and government authorities.
+* **To complete a merger or sale of assets or other corporate transaction.** If Fox News sells all or part of its business or makes a sale or transfer of its assets or is otherwise involved in a reorganization, merger or transfer of all or a material part of its business (including in connection with a bankruptcy or similar proceedings), Fox News may transfer or disclose your information to the party or parties involved in the transaction as part of that transaction.
 
-  
+ 
 
 ### 4) Security
 
 Fox News uses commercially reasonable administrative, technical, personnel, and physical measures designed to safeguard information in its possession against loss, theft and unauthorized use, disclosure, or modification. However, no one can guarantee the complete safety of your information.
 
-  
+ 
 
 ### 5) User Access and Control
 
@@ -121,7 +121,7 @@ If you are under 18 and a registered user of the Fox News Services, you may ask 
 
 You may request that we not share your personal information on a going-forward basis with Fox News Affiliates or unaffiliated third parties for their direct marketing purposes. You may opt-out of this sharing via: [https://help.foxnews.com/hc/en-us/requests/new](https://help.foxnews.com/hc/en-us/requests/new). We will try to comply with your request(s) as soon as reasonably practicable and consistent with applicable law.
 
-  
+ 
 
 ### 6) Other Important Information
 
@@ -137,7 +137,7 @@ You may request that we not share your personal information on a going-forward b
 
 Remember that even after you cancel your account, or if you ask us to delete your personal information, copies of some information from your account may remain viewable in some circumstances where, for example, you have shared information with social media or other services. Because of the nature of caching technology, your account may not be instantly inaccessible to others. We may also retain backup information related to your account on our servers for some time after cancellation or your request for deletion, for fraud detection or to comply with applicable law or our internal security or recordkeeping policies. It may not always be possible to completely remove or delete all of your information due to technical constraints or contractual, financial or legal requirements.
 
-  
+ 
 
 ### 7) Contact Us
 
@@ -150,7 +150,7 @@ Legal & Business Affairs, Fox News
 1211 Avenue of the Americas  
 New York, NY 10036
 
-  
+ 
 
 ### 8) California Consumer Privacy Act Notice
 
@@ -184,21 +184,21 @@ Depending on the individual’s interactions with us, Fox News may not have coll
 
 **_Purposes._** We may use this Personal Information for the following purposes:
 
-*   to operate, manage, and maintain our business;
-*   to provide our products and services;
-*   to accomplish our business purposes and objectives, including:
-    *   developing, improving, repairing, and maintaining our products and services;
-    *   personalizing, advertising, and marketing our products and services;
-    *   conducting research, analytics, and data analysis;
-    *   maintaining our facilities and infrastructure;
-    *   quality and safety assurance measures;
-    *   conducting risk and security controls and monitoring;
-    *   detecting and preventing fraud;
-    *   performing identity verification;
-    *   performing accounting, audit, and other internal functions;
-    *   complying with law, legal process, and internal policies;
-    *   maintaining records; and
-    *   exercising and defending legal claims.
+* to operate, manage, and maintain our business;
+* to provide our products and services;
+* to accomplish our business purposes and objectives, including:
+    * developing, improving, repairing, and maintaining our products and services;
+    * personalizing, advertising, and marketing our products and services;
+    * conducting research, analytics, and data analysis;
+    * maintaining our facilities and infrastructure;
+    * quality and safety assurance measures;
+    * conducting risk and security controls and monitoring;
+    * detecting and preventing fraud;
+    * performing identity verification;
+    * performing accounting, audit, and other internal functions;
+    * complying with law, legal process, and internal policies;
+    * maintaining records; and
+    * exercising and defending legal claims.
 
 Depending on the California resident’s interactions with us, Fox News may not have used Personal Information collected about that resident for each of these purposes.
 
@@ -206,11 +206,11 @@ Depending on the California resident’s interactions with us, Fox News may not 
 
 **(1) Right to Know.** You have the right to request that we disclose to you the following information:
 
-*   The categories of Personal Information we collected about you and the categories of sources from which we collected such Personal Information during the 12 months prior to your request;
-*   The specific pieces of Personal Information we collected about you during that time period;
-*   The business or commercial purpose for collecting, disclosing, or selling Personal Information about you;
-*   The categories of Personal Information about you that we sold and the categories of third parties to whom we sold that Personal Information; and
-*   The categories of Personal Information about you that we otherwise shared or disclosed and the categories of third parties with whom we shared or disclosed that Personal Information.
+* The categories of Personal Information we collected about you and the categories of sources from which we collected such Personal Information during the 12 months prior to your request;
+* The specific pieces of Personal Information we collected about you during that time period;
+* The business or commercial purpose for collecting, disclosing, or selling Personal Information about you;
+* The categories of Personal Information about you that we sold and the categories of third parties to whom we sold that Personal Information; and
+* The categories of Personal Information about you that we otherwise shared or disclosed and the categories of third parties with whom we shared or disclosed that Personal Information.
 
 To make a request for your Personal Information, please click [here](https://fcprivacy.exterro.net/portal/dsar.htm?target=Fox_News_Network) or call us at 888-596-3929. You will need to provide your name and email address, along with other details about your request. You will then receive verification instructions by email. For certain requests, you will be asked to authenticate to your account as part of the verification process, if you have an account/profile with us. But you do not need to have an account/profile to submit a request. In some circumstances, we may need additional information from you to verify your identity or proceed with your request.
 
