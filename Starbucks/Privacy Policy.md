@@ -17,25 +17,25 @@ This Privacy Statement, as well as our [Terms of Use](https://www.starbucks.com/
 
 You may skip to the specific sections of our Privacy Statement by selecting any of the sections listed below.
 
-1.  [Applicability and Scope](#applicability_and_scope)
-2.  [Updates to this Privacy Statement](#updates_to_this_privacy_statement)
-3.  [Information We Collect](#information_we_collect)
-4.  [How We Use Your Information](#how_we_use_your_information)
-5.  [How We Share Your Information](#how_we_share_your_information)
-6.  [How We May Allow Others to Collect Your Information](#how_we_may_allow_others_to_collect_your_information)
-7.  [Cookies, Web Beacons, and Similar Technologies](#cookies_web_beacons_and_similar_technologies)
-8.  [Starbucks Mobile Applications](#starbucks_mobile_applications)
-9.  [Your Choices](#your_choices)
-10.  [How to Manage Your Account Information and Your Privacy Rights](#how_to_manage_your_account_information_and_your_privacy_rights)
-11.  [How We Protect Your Information](#how_we_protect_your_information)
-12.  [Retention and Disposal of Your Information](#retention_and_disposal_of_your_information)
-13.  [Children’s Privacy](#childrens_privacy)
-14.  [Starbucks® Rewards](#starbucks_rewards)
-15.  [Starbucks WiFi](#starbucks_wifi)
-16.  [Additional Disclosures for California Residents](#additional_disclosures_for_california_residents)
-17.  [Additional Disclosures for Data Subjects in the EEA, the U.K. and Switzerland](#additional_disclosures_for_data_subjects_in_the_eea_the_uk_and_switzerland)
-18.  [Participation in the Privacy Shield Frameworks](#participation_in_the_privacy_shield_frameworks)
-19.  [Contact Us](#contact_us)
+1. [Applicability and Scope](#applicability_and_scope)
+2. [Updates to this Privacy Statement](#updates_to_this_privacy_statement)
+3. [Information We Collect](#information_we_collect)
+4. [How We Use Your Information](#how_we_use_your_information)
+5. [How We Share Your Information](#how_we_share_your_information)
+6. [How We May Allow Others to Collect Your Information](#how_we_may_allow_others_to_collect_your_information)
+7. [Cookies, Web Beacons, and Similar Technologies](#cookies_web_beacons_and_similar_technologies)
+8. [Starbucks Mobile Applications](#starbucks_mobile_applications)
+9. [Your Choices](#your_choices)
+10. [How to Manage Your Account Information and Your Privacy Rights](#how_to_manage_your_account_information_and_your_privacy_rights)
+11. [How We Protect Your Information](#how_we_protect_your_information)
+12. [Retention and Disposal of Your Information](#retention_and_disposal_of_your_information)
+13. [Children’s Privacy](#childrens_privacy)
+14. [Starbucks® Rewards](#starbucks_rewards)
+15. [Starbucks WiFi](#starbucks_wifi)
+16. [Additional Disclosures for California Residents](#additional_disclosures_for_california_residents)
+17. [Additional Disclosures for Data Subjects in the EEA, the U.K. and Switzerland](#additional_disclosures_for_data_subjects_in_the_eea_the_uk_and_switzerland)
+18. [Participation in the Privacy Shield Frameworks](#participation_in_the_privacy_shield_frameworks)
+19. [Contact Us](#contact_us)
 
 ### 1\. Applicability and Scope
 
@@ -93,31 +93,31 @@ We may use the information we collect about you in a variety of ways, including 
 
 We process certain personal information when you access or use our services, including to:
 
-*   process your purchases of, or requests for, products and services;
-*   register and verify user accounts;
-*   support and improve our loyalty programs, such as Starbucks® Rewards;
-*   deliver gift cards or e-gifts, and any associated personalized messages, in accordance with your instructions;
-*   facilitate the functionality of our websites and mobile applications, including payment-related functionality; and
-*   customize experiences and personalization when you are in and around our stores, if you have given permission for location sharing.
+* process your purchases of, or requests for, products and services;
+* register and verify user accounts;
+* support and improve our loyalty programs, such as Starbucks® Rewards;
+* deliver gift cards or e-gifts, and any associated personalized messages, in accordance with your instructions;
+* facilitate the functionality of our websites and mobile applications, including payment-related functionality; and
+* customize experiences and personalization when you are in and around our stores, if you have given permission for location sharing.
 
 ### (b) To Communicate With You.
 
 We process certain information in order to communicate with you in relation to your accounts, our services, our marketing, and your requests, including to:
 
-*   communicate with you about orders, purchases, returns, services, accounts, programs, contests, and sweepstakes;
-*   respond to your customer service inquiries and requests for information;
-*   post your comments or statements on our websites;
-*   send you personalized promotions, content, and special offers;
-*   communicate with you about our brands, products, events, or other promotional purposes;
-*   implement your communications preferences, such as sharing information with Starbucks business partners so that they may email you about their promotions, products and initiatives; and
-*   provide important product safety information and notice of product recalls.
+* communicate with you about orders, purchases, returns, services, accounts, programs, contests, and sweepstakes;
+* respond to your customer service inquiries and requests for information;
+* post your comments or statements on our websites;
+* send you personalized promotions, content, and special offers;
+* communicate with you about our brands, products, events, or other promotional purposes;
+* implement your communications preferences, such as sharing information with Starbucks business partners so that they may email you about their promotions, products and initiatives; and
+* provide important product safety information and notice of product recalls.
 
 ### (c) For Research, Development, and Improvement of Our Services.
 
 We want to ensure that our website, mobile applications, and services are continually improving and expanding so that we meet and exceed your needs and expectations. To do so, we may process certain personal information, including to:
 
-*   maintain, improve, and analyze our websites, mobile applications, ads, and the products and services we offer; and
-*   detect, prevent, or investigate suspicious activity or fraud.
+* maintain, improve, and analyze our websites, mobile applications, ads, and the products and services we offer; and
+* detect, prevent, or investigate suspicious activity or fraud.
 
 ### (d) To Enforce our Terms, Agreements, or Policies.
 
@@ -127,8 +127,8 @@ To maintain a safe, secure, and trusted environment for you when you use our web
 
 We may be required to process certain personal information under certain laws and regulations, such as tax laws, as well as to:
 
-*   maintain appropriate records for internal administrative purposes; and
-*   comply with applicable legal and regulatory obligations, and respond to lawful governmental requests, as needed.
+* maintain appropriate records for internal administrative purposes; and
+* comply with applicable legal and regulatory obligations, and respond to lawful governmental requests, as needed.
 
 ### (f) With Your Consent.
 
@@ -140,14 +140,14 @@ We share your information as needed to fulfill the purposes described in this Pr
 
 We may share your information in the following circumstances:
 
-*   **(a) When We Work Together** – We may share information between and among Starbucks Corporation, its subsidiaries, and affiliated companies for purposes of management and analysis, decision making, and other business purposes. For example, we may share your information with our subsidiaries and affiliated companies to administer our loyalty programs, process orders and requests, and expand and promote our product and service offerings.
-*   **(b) When We Work with Service Providers** – We may share your information with service providers that provide us with support services, such as credit card processing, website hosting, email and postal delivery, location mapping, product and service delivery, analytics services, or conducting academic research. We strive to contractually prohibit these service providers from retaining, using, or disclosing your confidential personal information for any purpose other than performing agreed upon services for us.
-*   **(c) When We Work on Business Transactions** – If we become involved with a merger, corporate transaction or another situation involving the transfer of some or all of our business assets, we may share your information with business entities or people involved in the negotiation or transfer.
-*   **(d) When Sharing Helps Us Protect Safety and Lawful Interests** – We may disclose your information if we believe that the disclosure is required by law, if we believe that the disclosure is necessary to enforce our agreements or policies, or if we believe that the disclosure will help us protect the rights, property, or safety of Starbucks or our customers or partners.
-*   **(e) When We Work with Marketing Service Providers** – We may share your information with marketing service providers to assess, develop and provide you with promotions and special offers that may interest you, administer contests, sweepstakes and events or for other promotional purposes.
-*   **(f) When You Give Consent** – We may share information about you with other companies if you give us permission or direct us to share the information.
-*   **(g) When the Information Does Not Identify You** – We may share your information in a way that does not directly identify you. For example, we may share information about your use of our websites and mobile applications in a manner that does not identify you, or we may combine information about the nature or frequency of your transactions with similar information about other people and share the aggregated information for statistical analysis and other business purposes.
-*   **(h) When You Post on Our Websites** – If you post information on a blog or another part of our websites, the information that you post may be seen by other visitors to our websites, including your user name.
+* **(a) When We Work Together** – We may share information between and among Starbucks Corporation, its subsidiaries, and affiliated companies for purposes of management and analysis, decision making, and other business purposes. For example, we may share your information with our subsidiaries and affiliated companies to administer our loyalty programs, process orders and requests, and expand and promote our product and service offerings.
+* **(b) When We Work with Service Providers** – We may share your information with service providers that provide us with support services, such as credit card processing, website hosting, email and postal delivery, location mapping, product and service delivery, analytics services, or conducting academic research. We strive to contractually prohibit these service providers from retaining, using, or disclosing your confidential personal information for any purpose other than performing agreed upon services for us.
+* **(c) When We Work on Business Transactions** – If we become involved with a merger, corporate transaction or another situation involving the transfer of some or all of our business assets, we may share your information with business entities or people involved in the negotiation or transfer.
+* **(d) When Sharing Helps Us Protect Safety and Lawful Interests** – We may disclose your information if we believe that the disclosure is required by law, if we believe that the disclosure is necessary to enforce our agreements or policies, or if we believe that the disclosure will help us protect the rights, property, or safety of Starbucks or our customers or partners.
+* **(e) When We Work with Marketing Service Providers** – We may share your information with marketing service providers to assess, develop and provide you with promotions and special offers that may interest you, administer contests, sweepstakes and events or for other promotional purposes.
+* **(f) When You Give Consent** – We may share information about you with other companies if you give us permission or direct us to share the information.
+* **(g) When the Information Does Not Identify You** – We may share your information in a way that does not directly identify you. For example, we may share information about your use of our websites and mobile applications in a manner that does not identify you, or we may combine information about the nature or frequency of your transactions with similar information about other people and share the aggregated information for statistical analysis and other business purposes.
+* **(h) When You Post on Our Websites** – If you post information on a blog or another part of our websites, the information that you post may be seen by other visitors to our websites, including your user name.
 
 ### 6\. How We May Allow Others to Collect Your Information
 
@@ -155,10 +155,10 @@ When you use our websites or mobile applications, we may allow third parties to 
 
 These third parties collect this information for the following purposes and for other purposes consistent with their own privacy policies:
 
-*   **To Display Ads for Products or Services** – We allow some advertising companies to collect this information in order to display ads that are more relevant to you across your different devices and on our own and others’ websites and mobile apps. Please see the [Your Choices](#your_choices) section of this Statement for more information about opting out of targeted advertising and controlling the use of [cookies, web beacons and other similar technologies](#cookies_web_beacons_and_similar_technologies).
-*   **To Understand the Use of Our Services** – We allow certain service providers to collect this information to help us understand how our websites and mobile applications are used and to assist us in improving the content and operation of our online properties (e.g., compiling analytics and measuring user engagement with a particular website or feature through A/B testing). These service providers collect aggregate statistical usage data that is not matched or linked to any individual user.
-*   **To Make the Services of Other Companies Work on Our Websites** – We allow companies to use [cookies, web beacons, and other similar technologies](#cookies_web_beacons_and_similar_technologies) to enhance the operations of particular services and functionality of our websites and mobile applications. For example, we allow Adobe to set and enable special cookies that are necessary to deliver video content for Adobe Flash Player. These cookies are called Flash cookies. To manage Flash cookies, see the “Your Choices” section below.
-*   **To Link Your Activity on Our Websites to Your Social Networks** – We have added certain features to our websites and mobile applications that allow social networks (such as Facebook and Twitter) to track the activities of their members or collect certain information when they use our website or mobile applications. These features may include technologies called "plug-ins" and "widgets." Plug-ins create a direct link between two websites, and widgets are interactive mini-programs that provide other companies’ services on our websites. If you are concerned about the way a social network is tracking your activity, please contact the social network or review its privacy policy. For example, you can review Facebook’s data-use policy at [https://www.facebook.com/about/privacy/](https://www.facebook.com/about/privacy/).
+* **To Display Ads for Products or Services** – We allow some advertising companies to collect this information in order to display ads that are more relevant to you across your different devices and on our own and others’ websites and mobile apps. Please see the [Your Choices](#your_choices) section of this Statement for more information about opting out of targeted advertising and controlling the use of [cookies, web beacons and other similar technologies](#cookies_web_beacons_and_similar_technologies).
+* **To Understand the Use of Our Services** – We allow certain service providers to collect this information to help us understand how our websites and mobile applications are used and to assist us in improving the content and operation of our online properties (e.g., compiling analytics and measuring user engagement with a particular website or feature through A/B testing). These service providers collect aggregate statistical usage data that is not matched or linked to any individual user.
+* **To Make the Services of Other Companies Work on Our Websites** – We allow companies to use [cookies, web beacons, and other similar technologies](#cookies_web_beacons_and_similar_technologies) to enhance the operations of particular services and functionality of our websites and mobile applications. For example, we allow Adobe to set and enable special cookies that are necessary to deliver video content for Adobe Flash Player. These cookies are called Flash cookies. To manage Flash cookies, see the “Your Choices” section below.
+* **To Link Your Activity on Our Websites to Your Social Networks** – We have added certain features to our websites and mobile applications that allow social networks (such as Facebook and Twitter) to track the activities of their members or collect certain information when they use our website or mobile applications. These features may include technologies called "plug-ins" and "widgets." Plug-ins create a direct link between two websites, and widgets are interactive mini-programs that provide other companies’ services on our websites. If you are concerned about the way a social network is tracking your activity, please contact the social network or review its privacy policy. For example, you can review Facebook’s data-use policy at [https://www.facebook.com/about/privacy/](https://www.facebook.com/about/privacy/).
 
 ### 7\. Cookies, Web Beacons and Similar Technologies
 
@@ -194,27 +194,27 @@ By downloading, installing, accessing or using the Application, you (the “User
 
 **User Information** -Through the use of an iOS, Android or other supported hardware device, some functionality of the Application may require the transmission of certain information provided by you, including:
 
-*   username and password;
-*   e-mail address;
-*   billing address;
-*   phone number;
-*   financial information, such as payment card numbers or account numbers;
-*   information related to a Starbucks stored value card (“Starbucks Card”);
-*   voice; and
-*   GPS location (together, “User Information”).
+* username and password;
+* e-mail address;
+* billing address;
+* phone number;
+* financial information, such as payment card numbers or account numbers;
+* information related to a Starbucks stored value card (“Starbucks Card”);
+* voice; and
+* GPS location (together, “User Information”).
 
 This User Information may be needed in order to purchase Starbucks products through the Application. You have multiple options to securely and conveniently make your purchase, including:
 
-*   by using the Application to pay in the same manner as you would pay with a Starbucks Card (“Mobile Payment”);
-*   by making payment via your mobile device using a Starbucks Card prior to arriving at the store (“Method of Payment,” or “MOP”); and
-*   by placing an order using voice commands (“Voice Ordering”).
+* by using the Application to pay in the same manner as you would pay with a Starbucks Card (“Mobile Payment”);
+* by making payment via your mobile device using a Starbucks Card prior to arriving at the store (“Method of Payment,” or “MOP”); and
+* by placing an order using voice commands (“Voice Ordering”).
 
 As described further below, certain optional information may also be shared with Starbucks through the Application, including:
 
-*   Personalized messages for individuals to whom you would like to purchase and send a Starbucks gift card (“eGift”), and names and email addresses from a device’s “contacts” list if you choose to import a recipient’s contact information from there;
-*   advanced analytics information such as location data, diagnostic and usage data, and user interactions;
-*   location-based information, such as through GPS, Bluetooth-enabled iBeacons, or other location-based technology to enhance the user experience so that you may order ahead, receive directions, and see what is available at nearby stores; and
-*   the day and month of your birthday, so that we may recognize you on your special day (we don’t ask for your birth year for this).
+* Personalized messages for individuals to whom you would like to purchase and send a Starbucks gift card (“eGift”), and names and email addresses from a device’s “contacts” list if you choose to import a recipient’s contact information from there;
+* advanced analytics information such as location data, diagnostic and usage data, and user interactions;
+* location-based information, such as through GPS, Bluetooth-enabled iBeacons, or other location-based technology to enhance the user experience so that you may order ahead, receive directions, and see what is available at nearby stores; and
+* the day and month of your birthday, so that we may recognize you on your special day (we don’t ask for your birth year for this).
 
 ### Controlling Application Functionality
 
@@ -306,30 +306,30 @@ Many Starbucks stores support providing you access to wireless internet (WiFi) a
 
 In the preceding twelve months we may have disclosed these categories of personal information for a business purpose:
 
-*   Identifiers
-    *   Sources of Information – We collect identifiers from the information you voluntarily provide to us; from the information we automatically collect; and from other sources, as outlined in Section 3(a)-(c) above.
-    *   Purpose of Information Collected – We collect identifiers to provide our services; to communicate with you; for research and development and services improvement; and to comply with applicable laws, and as otherwise outlined in Section 4 above.
-    *   How we share it – We share identifiers with our service providers; to protect lawful interests; and for any other purpose with your consent, as otherwise outlined in Section 5 above.
-*   Personal information under [California Civil Code section 1798.80](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1798.80.&lawCode=CIV)
-    *   Sources of Information – We collect Section 1798.80 information from the information you voluntarily provide to us; from the information we automatically collect; and from other sources, as outlined in Section 3(a)-(c) above.
-    *   Purpose of Information Collected – We collect Section 1798.80 information for the purposes outlined in Section 4(a)-(f) above.
-    *   How we share it – We share identifiers with our service providers; to protect lawful interests; and for any other purpose with your consent, as otherwise outlined in Section 5 above.
-*   Commercial information
-    *   Sources of Information – We collect commercial information from the information you voluntarily provide to us; from the information we automatically collect; and from other sources, as outlined in Section 3(a)-(c) above.
-    *   Purpose of Information Collected – We collect commercial information to provide our services; to communicate with you; for research and development and services improvement; and to comply with applicable laws, and as otherwise outlined in Section 4 above.
-    *   How we share it – We share commercial information with our service providers and Starbucks affiliates, as outlined in Section 5(a), (b) and (e) above.
-*   Electronic network activity information
-    *   Sources of Information – We collect network information through the information you voluntarily provide to us; from the information we automatically collect; and from other sources, as outlined in Section 3(a)-(c) above.
-    *   Purpose of Information Collected – We collect network information to provide our services; to communicate with you; for research and development and services improvement; and to comply with applicable laws, and as otherwise outlined in Section 4 above.
-    *   How we share it – We share network information with our service providers; to protect lawful interests; and for any other purpose with your consent, as outlined in Section 5 above.
-*   Geolocation data
-    *   Sources of Information – We collect geolocation data through the information you voluntarily provide to us; from the information we automatically collect; and from other sources, as outlined in Section 3(a)-(c) above.
-    *   Purpose of Information Collected – We collect geolocation data to provide our services; to communicate with you; for research and development and services improvement; and to comply with applicable laws, and as otherwise outlined in Section 4 above.
-    *   How we share it – We share geolocation data with our service providers; to protect lawful interests; and for any other purpose with your consent, as outlined in Section 5 above.
-*   Inferences
-    *   Sources of Information – We develop inference data through the information you voluntarily provide to us; from the information we automatically collect; and from other sources, as outlined in Section 3(a)-(c) above.
-    *   Purpose of Information Collected – We develop inference data to provide our services; to communicate with you, and for research, development, and services improvement, as outlined in Section 4(a)-(c) above.
-    *   How we share it – We share inference data with our service providers and to protect lawful interests, as outlined in Section 5 above.
+* Identifiers
+    * Sources of Information – We collect identifiers from the information you voluntarily provide to us; from the information we automatically collect; and from other sources, as outlined in Section 3(a)-(c) above.
+    * Purpose of Information Collected – We collect identifiers to provide our services; to communicate with you; for research and development and services improvement; and to comply with applicable laws, and as otherwise outlined in Section 4 above.
+    * How we share it – We share identifiers with our service providers; to protect lawful interests; and for any other purpose with your consent, as otherwise outlined in Section 5 above.
+* Personal information under [California Civil Code section 1798.80](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1798.80.&lawCode=CIV)
+    * Sources of Information – We collect Section 1798.80 information from the information you voluntarily provide to us; from the information we automatically collect; and from other sources, as outlined in Section 3(a)-(c) above.
+    * Purpose of Information Collected – We collect Section 1798.80 information for the purposes outlined in Section 4(a)-(f) above.
+    * How we share it – We share identifiers with our service providers; to protect lawful interests; and for any other purpose with your consent, as otherwise outlined in Section 5 above.
+* Commercial information
+    * Sources of Information – We collect commercial information from the information you voluntarily provide to us; from the information we automatically collect; and from other sources, as outlined in Section 3(a)-(c) above.
+    * Purpose of Information Collected – We collect commercial information to provide our services; to communicate with you; for research and development and services improvement; and to comply with applicable laws, and as otherwise outlined in Section 4 above.
+    * How we share it – We share commercial information with our service providers and Starbucks affiliates, as outlined in Section 5(a), (b) and (e) above.
+* Electronic network activity information
+    * Sources of Information – We collect network information through the information you voluntarily provide to us; from the information we automatically collect; and from other sources, as outlined in Section 3(a)-(c) above.
+    * Purpose of Information Collected – We collect network information to provide our services; to communicate with you; for research and development and services improvement; and to comply with applicable laws, and as otherwise outlined in Section 4 above.
+    * How we share it – We share network information with our service providers; to protect lawful interests; and for any other purpose with your consent, as outlined in Section 5 above.
+* Geolocation data
+    * Sources of Information – We collect geolocation data through the information you voluntarily provide to us; from the information we automatically collect; and from other sources, as outlined in Section 3(a)-(c) above.
+    * Purpose of Information Collected – We collect geolocation data to provide our services; to communicate with you; for research and development and services improvement; and to comply with applicable laws, and as otherwise outlined in Section 4 above.
+    * How we share it – We share geolocation data with our service providers; to protect lawful interests; and for any other purpose with your consent, as outlined in Section 5 above.
+* Inferences
+    * Sources of Information – We develop inference data through the information you voluntarily provide to us; from the information we automatically collect; and from other sources, as outlined in Section 3(a)-(c) above.
+    * Purpose of Information Collected – We develop inference data to provide our services; to communicate with you, and for research, development, and services improvement, as outlined in Section 4(a)-(c) above.
+    * How we share it – We share inference data with our service providers and to protect lawful interests, as outlined in Section 5 above.
 
 **How We Sell Your Information** – In the preceding twelve months we have not sold personal information.
 
@@ -341,11 +341,11 @@ In addition to the [Your Choices](#your_choices) section above’s description f
 
 Subject to certain exceptions, if you are a California resident you have the right to request a copy of the personal information that we collected about you during the 12 months before your request. Once we receive your request and verify your identity, we will disclose to you:
 
-*   The categories of personal information we have collected about you;
-*   The categories of sources for the personal information we have collected about you;
-*   Our business or commercial purpose for the information collection;
-*   The categories of third parties with whom we share that personal information;
-*   The specific pieces of personal information we collected about you;
+* The categories of personal information we have collected about you;
+* The categories of sources for the personal information we have collected about you;
+* Our business or commercial purpose for the information collection;
+* The categories of third parties with whom we share that personal information;
+* The specific pieces of personal information we collected about you;
 
 #### Deletion Request Rights
 
@@ -382,17 +382,17 @@ Includes requests from the United States and Canada:
 
 Right to Know
 
-*   Requests Received – 321
-*   Requests Complete – 169
-*   Requests unable to be completed\* – 152
-*   Average completion time – 12 days
+* Requests Received – 321
+* Requests Complete – 169
+* Requests unable to be completed\* – 152
+* Average completion time – 12 days
 
 Right to Delete
 
-*   Requests Received – 2,316
-*   Requests Complete – 1,038
-*   Requests unable to be completed\* – 1,278
-*   Average completion time – 12 days
+* Requests Received – 2,316
+* Requests Complete – 1,038
+* Requests unable to be completed\* – 1,278
+* Average completion time – 12 days
 
 \*Requests may be unable to be completed due to factors such as inability to verify the customer, duplicate requests, or no information is found
 
@@ -406,28 +406,28 @@ This section provides general information about how Starbucks collects, stores, 
 
 **Lawful Bases of Processing** – Where a Starbucks entity is acting as a data controller that determines the purposes and means of processing your personal data, such as when we collect, use, and share personal data as described in the [Information We Collect](#information_we_collect), [How We Use Your Information](#how_we_use_your_information), and [How We Share Your Information](#how_we_share_your_information) sections above, we must have a lawful basis for processing for doing so. Our lawful bases for processing personal data include:
 
-*   to conclude or perform a contract with you, for example to:
-    *   process your purchases of or requests for products and services, including delivering gift cards in accordance with your instructions;
-    *   communicate with you about orders, purchases, returns, services, accounts, programs, contests, and sweepstakes;
-*   for our legitimate business purposes, including to:
-    *   respond to your customer service inquiries and requests for information;
-    *   maintain, improve, and analyze our websites, mobile applications, ads, and the products and services we offer;
-    *   detect, prevent, or investigate security breaches or fraud; and
-    *   facilitate the functionality of our websites and mobile applications;
-*   to comply with our legal obligations, for example to maintain appropriate records for internal administrative purposes and as required by applicable law, and provide important product safety information and notice of product recalls; and
-*   on the basis of your consent, for example to send you via email and other electronic means personalized promotions and special offers or informing you about our brands, products, events, or other promotional purposes.
+* to conclude or perform a contract with you, for example to:
+    * process your purchases of or requests for products and services, including delivering gift cards in accordance with your instructions;
+    * communicate with you about orders, purchases, returns, services, accounts, programs, contests, and sweepstakes;
+* for our legitimate business purposes, including to:
+    * respond to your customer service inquiries and requests for information;
+    * maintain, improve, and analyze our websites, mobile applications, ads, and the products and services we offer;
+    * detect, prevent, or investigate security breaches or fraud; and
+    * facilitate the functionality of our websites and mobile applications;
+* to comply with our legal obligations, for example to maintain appropriate records for internal administrative purposes and as required by applicable law, and provide important product safety information and notice of product recalls; and
+* on the basis of your consent, for example to send you via email and other electronic means personalized promotions and special offers or informing you about our brands, products, events, or other promotional purposes.
 
 You can withdraw your consent at any time by modifying your promotional preferences in your Starbucks user account online, or by contacting us as described in the [Contact Us](#contact_us) section below.
 
 **Your EEA Data Subject Rights** – Under certain circumstances, by law you have the right to:
 
-*   **Request access** to your personal information (commonly known as a “data subject access request”). This enables you to receive a copy of the personal information we hold about you.
-*   **Request correction** of the personal information that we hold about you.
-*   **Request erasure** of your personal information. This enables you to ask us to delete or remove personal information where there is no good reason for us continuing to process it.
-*   **Object to processing** of your personal information where we are relying on a legitimate interest (or those of a third party), or where we are processing your personal information for direct marketing purposes.
-*   **Request the restriction of processing** of your personal information. This enables you to ask us to suspend the processing of personal information about you.
-*   **Request the transfer** of your personal information to another party, when possible.
-*   **Not be subject to automated decision-making** producing legal or significant effects on an individual, which we do not engage in.
+* **Request access** to your personal information (commonly known as a “data subject access request”). This enables you to receive a copy of the personal information we hold about you.
+* **Request correction** of the personal information that we hold about you.
+* **Request erasure** of your personal information. This enables you to ask us to delete or remove personal information where there is no good reason for us continuing to process it.
+* **Object to processing** of your personal information where we are relying on a legitimate interest (or those of a third party), or where we are processing your personal information for direct marketing purposes.
+* **Request the restriction of processing** of your personal information. This enables you to ask us to suspend the processing of personal information about you.
+* **Request the transfer** of your personal information to another party, when possible.
+* **Not be subject to automated decision-making** producing legal or significant effects on an individual, which we do not engage in.
 
 To exercise any of these rights, please see the [How to Manage Your Account Information and Your Privacy Rights](#how_to_manage_your_account_information_and_your_privacy_rights) section above, or contact us as set forth in the [Contact Us](#contact_us) section below and specify which GDPR privacy right(s) you wish to exercise. We must verify your identity in order to honor your request, which we will respond to within 30 days of receipt.
 
@@ -461,39 +461,39 @@ You may reach our Global Privacy Department and our Data Protection Officer at [
 
 Additional contact information may be found below for various Starbucks entities.
 
-*   Country – Canada
-    *   Entity Name – Starbucks Corporation (Canada)
-    *   Entity Address – P.O. Box 20430, Augusta, GA 30916 USA
-    *   Additional Contact (If Any) –
-        *   Customer Service
-            *   800-Starbuc (782-7282)
-            *   tel.: 800-Starbuc (782-7282)
-*   Country – France
-    *   Entity Name – Starbucks Coffee France SAS
-    *   Entity Address – 38 rue des Jeûneurs, 75002 Paris
-    *   Additional Contact (If Any) –
-        *   Customer Support
-            *   [service.clientele@starbucks.fr](mailto:service.clientele@starbucks.fr)
-            *   tel.: +33 01 44 76 72 00
-*   Country – Germany
-    *   Entity Name – AmRest Coffee Deutschland Sp. Z oo & Co. KG
-    *   Entity Address – Dachauser Strasse 6, 80335, Munich
-    *   Additional Contact (If Any) –
-        *   Customer Relations
-            *   [Starbucks.Gaesteservice@amrest.eu](mailto:Starbucks.Gaesteservice@amrest.eu)
-            *   tel.: +49 (0) 89.551.555.990
-*   Country – U.K.
-    *   Entity Name – Starbucks Coffee Company (UK) Limited
-    *   Entity Address – Building 4 Chiswick Park, 566 Chiswick High Road, London, W4 5YE
-    *   Additional Contact (If Any) –
-        *   Customer Support
-            *   [UKInfo@support.starbucks.com](mailto:UKInfo@support.starbucks.com)
-            *   tel.: +443330050449 or +442088345050 (app)
-*   Country – U.S.
-    *   Entity Name – Starbucks Reserve; Princi
-    *   Entity Address – Starbucks, P.O. Box 20430, Augusta, GA 30916  
+* Country – Canada
+    * Entity Name – Starbucks Corporation (Canada)
+    * Entity Address – P.O. Box 20430, Augusta, GA 30916 USA
+    * Additional Contact (If Any) –
+        * Customer Service
+            * 800-Starbuc (782-7282)
+            * tel.: 800-Starbuc (782-7282)
+* Country – France
+    * Entity Name – Starbucks Coffee France SAS
+    * Entity Address – 38 rue des Jeûneurs, 75002 Paris
+    * Additional Contact (If Any) –
+        * Customer Support
+            * [service.clientele@starbucks.fr](mailto:service.clientele@starbucks.fr)
+            * tel.: +33 01 44 76 72 00
+* Country – Germany
+    * Entity Name – AmRest Coffee Deutschland Sp. Z oo & Co. KG
+    * Entity Address – Dachauser Strasse 6, 80335, Munich
+    * Additional Contact (If Any) –
+        * Customer Relations
+            * [Starbucks.Gaesteservice@amrest.eu](mailto:Starbucks.Gaesteservice@amrest.eu)
+            * tel.: +49 (0) 89.551.555.990
+* Country – U.K.
+    * Entity Name – Starbucks Coffee Company (UK) Limited
+    * Entity Address – Building 4 Chiswick Park, 566 Chiswick High Road, London, W4 5YE
+    * Additional Contact (If Any) –
+        * Customer Support
+            * [UKInfo@support.starbucks.com](mailto:UKInfo@support.starbucks.com)
+            * tel.: +443330050449 or +442088345050 (app)
+* Country – U.S.
+    * Entity Name – Starbucks Reserve; Princi
+    * Entity Address – Starbucks, P.O. Box 20430, Augusta, GA 30916  
         
-    *   Additional Contact (If Any) –
-        *   Customer Service
-            *   [https://customerservice.starbucks.com/](https://customerservice.starbucks.com/)
-            *   tel.: 800-Starbuc (782-7282)
+    * Additional Contact (If Any) –
+        * Customer Service
+            * [https://customerservice.starbucks.com/](https://customerservice.starbucks.com/)
+            * tel.: 800-Starbuc (782-7282)
