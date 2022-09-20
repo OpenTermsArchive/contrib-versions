@@ -59,11 +59,11 @@ Pseudonymous data may contain cookie data. To understand more about how cookies 
 
 Any PII you provide to or through the Websites shall be used for the purposes for which you provided it that were disclosed at the time it was collected, including the following:
 
-*   We respond to inquiries initiated by individuals and provide requested information regarding our products and services
-*   We send you marketing communications related to our products, such as our newsletter, if you are a client or have chosen to receive it
-*   We create a unique identifier and associate it with other pseudonymous identifiers for marketing, operational and business purposes, such as recommend our features, products, and services that might be of interest to you, identify your preferences, and personalize your experience with The Trade Desk
-*   We may use data that is not directly identifying to find other users who may have an interest in our products and services
-*   We alert you to changes and provide updates on specific features, products and services that you may be receiving from us
+* We respond to inquiries initiated by individuals and provide requested information regarding our products and services
+* We send you marketing communications related to our products, such as our newsletter, if you are a client or have chosen to receive it
+* We create a unique identifier and associate it with other pseudonymous identifiers for marketing, operational and business purposes, such as recommend our features, products, and services that might be of interest to you, identify your preferences, and personalize your experience with The Trade Desk
+* We may use data that is not directly identifying to find other users who may have an interest in our products and services
+* We alert you to changes and provide updates on specific features, products and services that you may be receiving from us
 
 If you no longer wish to receive marketing email communications or wish to opt out, you can follow the unsubscribe instructions contained in the emails you receive or by contacting us at [\[email protected\]](https://www.thetradedesk.com/cdn-cgi/l/email-protection)_._
 
@@ -75,10 +75,10 @@ We may disclose your information to companies that provide data processing servi
 
 We will also disclose your information:
 
-*   As required by law, such as to comply with a subpoena, or similar legal process,
-*   When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
-*   If the Trade Desk is involved in a merger, acquisition, or sale of all or a portion of its assets, in such case you will be notified via email and/or a prominent notice on our Websites of any change in ownership or uses of your information, as well as any choices you have regarding your information, or
-*   any other third party with your prior consent to do so.
+* As required by law, such as to comply with a subpoena, or similar legal process,
+* When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
+* If the Trade Desk is involved in a merger, acquisition, or sale of all or a portion of its assets, in such case you will be notified via email and/or a prominent notice on our Websites of any change in ownership or uses of your information, as well as any choices you have regarding your information, or
+* any other third party with your prior consent to do so.
 
 **COOKIES ON OUR WEBSITES**
 
@@ -156,5 +156,5 @@ Email: **privacy** ((at)) **thetradedesk** ((dot)) **com**
 
 If you have a concern regarding our privacy practices, please contact us via the contacts above. If after reasonable efforts, you believe your concern has not been satisfactorily addressed by us:
 
-*   In the US, our privacy practices are regulated by the Federal Trade Commission.
-*   Otherwise, in the EU, we recommend you contact the Information Commissioner’s Office (ICO) of the United Kingdom.
+* In the US, our privacy practices are regulated by the Federal Trade Commission.
+* Otherwise, in the EU, we recommend you contact the Information Commissioner’s Office (ICO) of the United Kingdom.
