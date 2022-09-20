@@ -186,7 +186,7 @@ Not all of the Site Products are available worldwide or nationwide, and Company 
 
 Software available in connection with the Company Services is further subject to United States export controls. No such software may be downloaded from the Company Services or otherwise exported or re-exported in violation of U.S. export laws. Downloading or using such software is at your sole risk.
 
-  
+ 
 
 **Arbitration Agreement and Class Action Waiver**
 
@@ -212,10 +212,10 @@ Software available in connection with the Company Services is further subject to
 
 **(10) JAMS charges filing and other fees to conduct arbitrations. Ordinarily, the claimant has to pay the filing fee to initiate arbitration, but if you wish to commence an arbitration against Company, you and the Company acknowledge and agree to abide by the following:**
 
-***   If you are seeking to recover less than $10,000 (inclusive of attorneys' fees), Company will pay the filing fee on your behalf or reimburse your payment of it.
-*   If you are seeking to recover $10,000 or more, you will have to pay the filing fee charged by JAMS, but Company will reimburse the filing fee if you prevail on all claims decided upon by the arbitrator.
-*   Company and you agree that, if the claims to be arbitrated total less than $10,000 (inclusive of attorneys' fees), the claim ordinarily should be decided on written submissions only, without a telephonic or in-person hearing. Company will not request a hearing for any claims totaling less than $10,000. This provision shall not be construed by the arbitrator to deprive you of any rights you may have to a telephonic or in-person hearing in your hometown area pursuant to the JAMS Rules.
-*   Company and you agree that, if the claims to be arbitrated total $10,000 or more, the arbitration will occur in a manner and place consistent with the JAMS Rules.**
+*** If you are seeking to recover less than $10,000 (inclusive of attorneys' fees), Company will pay the filing fee on your behalf or reimburse your payment of it.
+* If you are seeking to recover $10,000 or more, you will have to pay the filing fee charged by JAMS, but Company will reimburse the filing fee if you prevail on all claims decided upon by the arbitrator.
+* Company and you agree that, if the claims to be arbitrated total less than $10,000 (inclusive of attorneys' fees), the claim ordinarily should be decided on written submissions only, without a telephonic or in-person hearing. Company will not request a hearing for any claims totaling less than $10,000. This provision shall not be construed by the arbitrator to deprive you of any rights you may have to a telephonic or in-person hearing in your hometown area pursuant to the JAMS Rules.
+* Company and you agree that, if the claims to be arbitrated total $10,000 or more, the arbitration will occur in a manner and place consistent with the JAMS Rules.**
 
 **
 
