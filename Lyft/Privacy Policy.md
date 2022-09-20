@@ -33,8 +33,8 @@ When you use the Lyft Platform, we collect the information you provide, usage in
 
 **Location Information.** Great rides start with an easy and accurate pickup. The Lyft Platform collects location information (including GPS and WiFi data) differently depending on your Lyft app settings and device permissions as well as whether you are using the platform as a Rider or Driver:
 
-*   Riders: We collect your device’s precise location when you open and use the Lyft app, including while the app is running in the background from the time you request a ride until it ends. Lyft also tracks the precise location of scooters and e-bikes at all times.
-*   Drivers: We collect your device’s precise location when you open and use the app, including while the app is running in the background when it is in driver mode. We also collect precise location for a limited time after you exit driver mode in order to detect ride incidents, and continue collecting it until a reported or detected incident is no longer active.
+* Riders: We collect your device’s precise location when you open and use the Lyft app, including while the app is running in the background from the time you request a ride until it ends. Lyft also tracks the precise location of scooters and e-bikes at all times.
+* Drivers: We collect your device’s precise location when you open and use the app, including while the app is running in the background when it is in driver mode. We also collect precise location for a limited time after you exit driver mode in order to detect ride incidents, and continue collecting it until a reported or detected incident is no longer active.
 
 **Usage Information.** We collect information about your use of the Lyft Platform, including ride information like the date, time, destination, distance, route, payment, and whether you used a promotional or referral code. We also collect information about your interactions with the Lyft Platform like our apps and websites, including the pages and content you view and the dates and times of your use.
 
@@ -50,10 +50,10 @@ When you use the Lyft Platform, we collect the information you provide, usage in
 
 **Third-Party Services.** Third-party services provide us with information needed for core aspects of the Lyft Platform, as well as for additional services, programs, loyalty benefits, and promotions that can enhance your Lyft experience. These third-party services include background check providers, insurance partners, financial service providers, marketing providers, and other businesses. We obtain the following information about you from these third-party services:
 
-*   Information to make the Lyft Platform safer, like background check information for drivers;
-*   Information about your participation in third-party programs that provide things like insurance coverage and financial instruments, such as insurance, payment, transaction, and fraud detection information;
-*   Information to operationalize loyalty and promotional programs or applications, services, or features you choose to connect or link to your Lyft account, such as information about your use of such programs, applications, services, or features; and
-*   Information about you provided by specific services, such as demographic and market segment information.
+* Information to make the Lyft Platform safer, like background check information for drivers;
+* Information about your participation in third-party programs that provide things like insurance coverage and financial instruments, such as insurance, payment, transaction, and fraud detection information;
+* Information to operationalize loyalty and promotional programs or applications, services, or features you choose to connect or link to your Lyft account, such as information about your use of such programs, applications, services, or features; and
+* Information about you provided by specific services, such as demographic and market segment information.
 
 **Enterprise Programs.** If you use Lyft through your employer or other organization that participates in one of our Lyft Business enterprise programs, we will collect information about you from those parties, such as your name and contact information.
 
@@ -68,50 +68,50 @@ How We Use Your Information
 
 We use your personal information to:
 
-*   Provide the Lyft Platform;
-*   Maintain the security and safety of the Lyft Platform and its users;
-*   Build and maintain the Lyft community;
-*   Provide customer support;
-*   Improve the Lyft Platform; and
-*   Respond to legal proceedings and obligations.
+* Provide the Lyft Platform;
+* Maintain the security and safety of the Lyft Platform and its users;
+* Build and maintain the Lyft community;
+* Provide customer support;
+* Improve the Lyft Platform; and
+* Respond to legal proceedings and obligations.
 
 **Providing the Lyft Platform.** We use your personal information to provide an intuitive, useful, efficient, and worthwhile experience on our platform. To do this, we use your personal information to:
 
-*   Verify your identity and maintain your account, settings, and preferences;
-*   Connect you to your rides and track their progress;
-*   Calculate prices and process payments;
-*   Allow Riders and Drivers to connect regarding their ride and to choose to share their location with others;
-*   Communicate with you about your rides and experience;
-*   Collect feedback regarding your experience;
-*   Facilitate additional services and programs with third parties; and
-*   Operate contests, sweepstakes, and other promotions.
+* Verify your identity and maintain your account, settings, and preferences;
+* Connect you to your rides and track their progress;
+* Calculate prices and process payments;
+* Allow Riders and Drivers to connect regarding their ride and to choose to share their location with others;
+* Communicate with you about your rides and experience;
+* Collect feedback regarding your experience;
+* Facilitate additional services and programs with third parties; and
+* Operate contests, sweepstakes, and other promotions.
 
 **Maintaining the Security and Safety of the Lyft Platform and its Users.** Providing you a secure and safe experience drives our platform, both on the road and on our apps. To do this, we use your personal information to:
 
-*   Authenticate users;
-*   Verify that Drivers and their vehicles meet safety requirements;
-*   Investigate and resolve incidents, accidents, and insurance claims;
-*   Encourage safe driving behavior and avoid unsafe activities;
-*   Find and prevent fraud; and
-*   Block and remove unsafe or fraudulent users from the Lyft Platform.
+* Authenticate users;
+* Verify that Drivers and their vehicles meet safety requirements;
+* Investigate and resolve incidents, accidents, and insurance claims;
+* Encourage safe driving behavior and avoid unsafe activities;
+* Find and prevent fraud; and
+* Block and remove unsafe or fraudulent users from the Lyft Platform.
 
 **Building and Maintaining the Lyft Community.** Lyft works to be a positive part of the community. We use your personal information to:
 
-*   Communicate with you about events, promotions, elections, and campaigns;
-*   Personalize and provide content, experiences, communications, and advertising to promote and grow the Lyft Platform; and
-*   Help facilitate donations you choose to make through the Lyft Platform.
+* Communicate with you about events, promotions, elections, and campaigns;
+* Personalize and provide content, experiences, communications, and advertising to promote and grow the Lyft Platform; and
+* Help facilitate donations you choose to make through the Lyft Platform.
 
 **Providing Customer Support.** We work hard to provide the best experience possible, including supporting you when you need it. To do this, we use your personal information to:
 
-*   Investigate and assist you in resolving questions or issues you have regarding the Lyft Platform; and
-*   Provide you support or respond to you.
+* Investigate and assist you in resolving questions or issues you have regarding the Lyft Platform; and
+* Provide you support or respond to you.
 
 **Improving the Lyft Platform.** We are always working to improve your experience and provide you with new and helpful features. To do this, we use your personal information to:
 
-*   Perform research, testing, and analysis;
-*   Develop new products, features, partnerships, and services;
-*   Prevent, find, and resolve software or hardware bugs and issues; and
-*   Monitor and improve our operations and processes, including security practices, algorithms, and other modeling.
+* Perform research, testing, and analysis;
+* Develop new products, features, partnerships, and services;
+* Prevent, find, and resolve software or hardware bugs and issues; and
+* Monitor and improve our operations and processes, including security practices, algorithms, and other modeling.
 
 **Responding to Legal Proceedings and Requirements.** Sometimes the law, government entities, or other regulatory bodies impose demands and obligations on us with respect to the services we seek to provide. In such a circumstance, we may use your personal information to respond to those demands or obligations.
 
@@ -140,38 +140,38 @@ Although we help Riders and Drivers communicate with one another to arrange a pi
 
 Depending on whether you’re a Rider or a Driver, Lyft may share the following categories of your personal information for a business purpose (as we have done for the preceding 12 months) to provide you with a variety of the Lyft Platform’s features and services:
 
-*   Personal identifiers, such as your name, address, email address, phone number, date of birth, government identification number (such as social security number), driver’s license information, vehicle information, and car insurance information;
-*   Financial information, such as bank routing numbers, tax information, and any other payment information you provide us;
-*   Commercial information, such as ride information, Driver/Rider statistics and feedback, and Driver/Rider transaction history;
-*   Internet or other electronic network activity information, such as your IP address, type of browser, version of operating system, carrier and/or manufacturer, device identifiers, and mobile advertising identifiers; and
-*   Location data.
+* Personal identifiers, such as your name, address, email address, phone number, date of birth, government identification number (such as social security number), driver’s license information, vehicle information, and car insurance information;
+* Financial information, such as bank routing numbers, tax information, and any other payment information you provide us;
+* Commercial information, such as ride information, Driver/Rider statistics and feedback, and Driver/Rider transaction history;
+* Internet or other electronic network activity information, such as your IP address, type of browser, version of operating system, carrier and/or manufacturer, device identifiers, and mobile advertising identifiers; and
+* Location data.
 
 We disclose those categories of personal information to service providers to fulfill the following business purposes:
 
-*   Maintaining and servicing your Lyft account;
-*   Processing or fulfilling rides;
-*   Providing you customer service;
-*   Processing Rider transactions;
-*   Processing Driver applications and payments;
-*   Verifying the identity of users;
-*   Detecting and preventing fraud;
-*   Processing insurance claims;
-*   Providing Driver loyalty and promotional programs;
-*   Providing marketing and advertising services to Lyft;
-*   Providing financing;
-*   Providing requested emergency services;
-*   Providing analytics services to Lyft; and
-*   Undertaking internal research to develop the Lyft Platform.
+* Maintaining and servicing your Lyft account;
+* Processing or fulfilling rides;
+* Providing you customer service;
+* Processing Rider transactions;
+* Processing Driver applications and payments;
+* Verifying the identity of users;
+* Detecting and preventing fraud;
+* Processing insurance claims;
+* Providing Driver loyalty and promotional programs;
+* Providing marketing and advertising services to Lyft;
+* Providing financing;
+* Providing requested emergency services;
+* Providing analytics services to Lyft; and
+* Undertaking internal research to develop the Lyft Platform.
 
 ### C. For Legal Reasons and to Protect the Lyft Platform
 
 We may share your personal information in response to a legal obligation, or if we have determined that sharing your personal information is reasonably necessary or appropriate to:
 
-*   Comply with any applicable federal, state, or local law or regulation, civil, criminal or regulatory inquiry, investigation or legal process, or enforceable governmental request;
-*   Respond to legal process (such as a search warrant, subpoena, summons, or court order);
-*   Enforce our Terms of Service;
-*   Cooperate with law enforcement agencies concerning conduct or activity that we reasonably and in good faith believe may violate federal, state, or local law; or
-*   Exercise or defend legal claims, protect against harm to our rights, property, interests, or safety or the rights, property, interests, or safety of you, third parties, or the public as required or permitted by law.
+* Comply with any applicable federal, state, or local law or regulation, civil, criminal or regulatory inquiry, investigation or legal process, or enforceable governmental request;
+* Respond to legal process (such as a search warrant, subpoena, summons, or court order);
+* Enforce our Terms of Service;
+* Cooperate with law enforcement agencies concerning conduct or activity that we reasonably and in good faith believe may violate federal, state, or local law; or
+* Exercise or defend legal claims, protect against harm to our rights, property, interests, or safety or the rights, property, interests, or safety of you, third parties, or the public as required or permitted by law.
 
 ### D. In Connection with Sale or Merger
 
@@ -217,24 +217,24 @@ The California Consumer Privacy Act provides some California residents with the 
 
 **Right to Know.** You have the right to know and see what data we have collected about you over the past 12 months, including:
 
-*   The categories of personal information we have collected about you;
-*   The categories of sources from which the personal information is collected;
-*   The business or commercial purpose for collecting your personal information;
-*   The categories of third parties with whom we have shared your personal information; and
-*   The specific pieces of personal information we have collected about you.
+* The categories of personal information we have collected about you;
+* The categories of sources from which the personal information is collected;
+* The business or commercial purpose for collecting your personal information;
+* The categories of third parties with whom we have shared your personal information; and
+* The specific pieces of personal information we have collected about you.
 
 **Right to Delete.** You have the right to request that we delete the personal information we have collected from you (and direct our service providers to do the same). There are a number of exceptions, however, that include, but are not limited to, when the information is necessary for us or a third party to do any of the following:
 
-*   Complete your transaction;
-*   Provide you a good or service;
-*   Perform a contract between us and you;
-*   Protect your security and prosecute those responsible for breaching it;
-*   Fix our system in the case of a bug;
-*   Protect the free speech rights of you or other users;
-*   Comply with the California Electronic Communications Privacy Act (Cal. Penal Code § 1546 et seq.);
-*   Engage in public or peer-reviewed scientific, historical, or statistical research in the public interests that adheres to all other applicable ethics and privacy laws;
-*   Comply with a legal obligation; or
-*   Make other internal and lawful uses of the information that are compatible with the context in which you provided it.
+* Complete your transaction;
+* Provide you a good or service;
+* Perform a contract between us and you;
+* Protect your security and prosecute those responsible for breaching it;
+* Fix our system in the case of a bug;
+* Protect the free speech rights of you or other users;
+* Comply with the California Electronic Communications Privacy Act (Cal. Penal Code § 1546 et seq.);
+* Engage in public or peer-reviewed scientific, historical, or statistical research in the public interests that adheres to all other applicable ethics and privacy laws;
+* Comply with a legal obligation; or
+* Make other internal and lawful uses of the information that are compatible with the context in which you provided it.
 
 **Other Rights.** You can request certain information about our disclosure of personal information to third parties for their own direct marketing purposes during the preceding calendar year. This request is free and may be made once a year. You also have the right not to be discriminated against for exercising any of the rights listed above.
 
