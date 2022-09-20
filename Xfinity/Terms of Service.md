@@ -12,13 +12,13 @@ Within these Web Services Terms of Service ("**Terms**") the term "**Comcast**" 
 
 These Terms set forth the terms and conditions through which Comcast will permit you to use these Comcast-owned and operated websites and services:
 
-*   Comcast-branded websites and web services that link to these Terms, such as: [comcast.net](http://my.xfinity.com/), [xfinity.com/stream](https://xfinity.com/stream/), [my.xfinity.com](http://my.xfinity.com/), [xfinityhomesecurity.com](http://www.xfinityhomesecurity.com/), and [internet.xfinity.com](https://internet.xfinity.com/), excluding certain co-branded websites and web services provided by third parties through contractual arrangements with Comcast, as further described below ( (the **"Comcast Sites"**);
+* Comcast-branded websites and web services that link to these Terms, such as: [comcast.net](http://my.xfinity.com/), [xfinity.com/stream](https://xfinity.com/stream/), [my.xfinity.com](http://my.xfinity.com/), [xfinityhomesecurity.com](http://www.xfinityhomesecurity.com/), and [internet.xfinity.com](https://internet.xfinity.com/), excluding certain co-branded websites and web services provided by third parties through contractual arrangements with Comcast, as further described below ( (the **"Comcast Sites"**);
     
-*   all mobile applications provided by Comcast that link to these Terms (such as Xfinity Stream, Xfinity Connect, and Xfinity xFi iOS and Android applications) (the **"Comcast Apps"**); and
+* all mobile applications provided by Comcast that link to these Terms (such as Xfinity Stream, Xfinity Connect, and Xfinity xFi iOS and Android applications) (the **"Comcast Apps"**); and
     
-*   Xfinity Wi-Fi services, if you are not an Xfinity subscriber or you are an Xfinity subscriber but your subscription does not include access to Xfinity Wi-Fi; and
+* Xfinity Wi-Fi services, if you are not an Xfinity subscriber or you are an Xfinity subscriber but your subscription does not include access to Xfinity Wi-Fi; and
     
-*   a Comcast-provided email address (such as yourname@comcast.net), if you are not an Xfinity Internet or Xfinity Voice subscriber (collectively, items (1) through (5) are referred to as the "**Comcast Web Services**").****
+* a Comcast-provided email address (such as yourname@comcast.net), if you are not an Xfinity Internet or Xfinity Voice subscriber (collectively, items (1) through (5) are referred to as the "**Comcast Web Services**").****
     
 
 ****
@@ -41,9 +41,9 @@ Some of the Comcast Web Services contain links to other websites, including webs
 
 In order for you to use any of the Comcast Web Services, you must first accept these Terms and the Comcast Software License. You can accept these Terms and the Comcast Software License by:
 
-1.  Signing in or checking a box next to "By signing in, you agree to these Terms of Service and Privacy Policy" (or similar language); or
+1. Signing in or checking a box next to "By signing in, you agree to these Terms of Service and Privacy Policy" (or similar language); or
     
-2.  Using any of the Comcast Web Services, in which case you understand and agree that these Terms and the Comcast Software License will apply to your use of those services (or any parts of them) (the earlier of the dates you checked such box or first used the Comcast Web Services, the "**Effective Date**").
+2. Using any of the Comcast Web Services, in which case you understand and agree that these Terms and the Comcast Software License will apply to your use of those services (or any parts of them) (the earlier of the dates you checked such box or first used the Comcast Web Services, the "**Effective Date**").
     
 
 You may wish to print or save a local copy of the Terms and the Comcast Software License for your records.
@@ -58,23 +58,23 @@ In order to use certain Comcast Web Services you may be required to provide info
 
 You specifically agree not to:
 
-*   use the Comcast Web Services to undertake or accomplish any unlawful purpose including, but not limited to, posting, storing, transmitting or disseminating information, data or material which is libelous, obscene, unlawful, threatening or defamatory, or which infringes the intellectual property rights of any person or entity, or which in any way constitutes or encourages conduct that would constitute a criminal offense, or otherwise violate any local, state, federal, or non-U.S. law, order, or regulation;
-*   post, store, send, transmit, or disseminate on the Comcast Web Services any information or material which a reasonable person could deem to be unlawful;
-*   upload, post, publish, transmit, reproduce, create derivative works of, or distribute on the Comcast Web Services in any way information, software or other material that is protected by copyright or other proprietary right, without obtaining any required permission of the owner;
-*   post on or distribute through the Comcast Web Services unsolicited bulk or commercial messages commonly known as "spam;"
-*   send very large numbers of copies of the same or substantially similar messages, empty messages, or messages which contain no substantive content, or send very large messages or files that disrupt a blog, newsgroup, chat, or similar feature of the Comcast Web Services;
-*   initiate, perpetuate, or in any way participate in any pyramid or other illegal scheme through the Comcast Web Services;
-*   participate in the collection of very large numbers of email addresses, screen names, or other identifiers of others (without their prior consent) from the Comcast Web Services, a practice sometimes known as spidering or harvesting, or participate in the use of software (including "spyware") designed to facilitate this activity;
-*   collect responses from unsolicited bulk messages posted on or distributed through the Comcast Web Services;
-*   impersonate any person or entity, engage in sender address falsification, forge anyone else's digital or manual signature, or perform any other similar fraudulent activity (for example, "phishing") on the Comcast Web Services;
-*   restrict, inhibit, or otherwise interfere with the ability of any other person, regardless of intent, purpose or knowledge, to use or enjoy the Comcast Web Services (except for tools for safety and security functions such as parental controls, for example), including, without limitation, posting or transmitting any information or software which contains a worm, virus, or other harmful feature, or generating levels of traffic sufficient to impede others' ability to use, send, or retrieve information;
-*   register under the name of, or attempt to use the Comcast Web Services under the name of, another person;
-*   allow another person to access the Comcast Web Services using your credentials;
-*   access (or attempt to access) the Comcast Web Services through any automated means (including use of scripts or web crawlers), except through APIs or other interfaces specifically provided for this purpose, or violate the instructions set out in any robots.txt or similar file present within the Comcast Web Services;
-*   engage in the systematic retrieval of data or other content from the Comcast Web Services, except though APIs or other interfaces specifically provided for this purpose, to create or compile, directly or indirectly, a collection, compilation, database or directory, without Comcast's prior written consent;
-*   capture, rip, download, or otherwise create a copy of any content that is shown on the Comcast Web Services without obtaining any required permission of the content owner;
-*   take any actions for the purpose of manipulating or distorting, or that may undermine the integrity and accuracy of, any ratings or reviews of any movie or other entertainment program, service or product that may be presented by the Comcast Web Services; or
-*   attempt to or actually circumvent any method used by Comcast to control access to Comcast Web Services, including, but not limited to, spoofing or otherwise impersonating an IP address for your computer that is not actually assigned to your computer or setting up a proxy or other device that allows others to access the Comcast Web Services through it.
+* use the Comcast Web Services to undertake or accomplish any unlawful purpose including, but not limited to, posting, storing, transmitting or disseminating information, data or material which is libelous, obscene, unlawful, threatening or defamatory, or which infringes the intellectual property rights of any person or entity, or which in any way constitutes or encourages conduct that would constitute a criminal offense, or otherwise violate any local, state, federal, or non-U.S. law, order, or regulation;
+* post, store, send, transmit, or disseminate on the Comcast Web Services any information or material which a reasonable person could deem to be unlawful;
+* upload, post, publish, transmit, reproduce, create derivative works of, or distribute on the Comcast Web Services in any way information, software or other material that is protected by copyright or other proprietary right, without obtaining any required permission of the owner;
+* post on or distribute through the Comcast Web Services unsolicited bulk or commercial messages commonly known as "spam;"
+* send very large numbers of copies of the same or substantially similar messages, empty messages, or messages which contain no substantive content, or send very large messages or files that disrupt a blog, newsgroup, chat, or similar feature of the Comcast Web Services;
+* initiate, perpetuate, or in any way participate in any pyramid or other illegal scheme through the Comcast Web Services;
+* participate in the collection of very large numbers of email addresses, screen names, or other identifiers of others (without their prior consent) from the Comcast Web Services, a practice sometimes known as spidering or harvesting, or participate in the use of software (including "spyware") designed to facilitate this activity;
+* collect responses from unsolicited bulk messages posted on or distributed through the Comcast Web Services;
+* impersonate any person or entity, engage in sender address falsification, forge anyone else's digital or manual signature, or perform any other similar fraudulent activity (for example, "phishing") on the Comcast Web Services;
+* restrict, inhibit, or otherwise interfere with the ability of any other person, regardless of intent, purpose or knowledge, to use or enjoy the Comcast Web Services (except for tools for safety and security functions such as parental controls, for example), including, without limitation, posting or transmitting any information or software which contains a worm, virus, or other harmful feature, or generating levels of traffic sufficient to impede others' ability to use, send, or retrieve information;
+* register under the name of, or attempt to use the Comcast Web Services under the name of, another person;
+* allow another person to access the Comcast Web Services using your credentials;
+* access (or attempt to access) the Comcast Web Services through any automated means (including use of scripts or web crawlers), except through APIs or other interfaces specifically provided for this purpose, or violate the instructions set out in any robots.txt or similar file present within the Comcast Web Services;
+* engage in the systematic retrieval of data or other content from the Comcast Web Services, except though APIs or other interfaces specifically provided for this purpose, to create or compile, directly or indirectly, a collection, compilation, database or directory, without Comcast's prior written consent;
+* capture, rip, download, or otherwise create a copy of any content that is shown on the Comcast Web Services without obtaining any required permission of the content owner;
+* take any actions for the purpose of manipulating or distorting, or that may undermine the integrity and accuracy of, any ratings or reviews of any movie or other entertainment program, service or product that may be presented by the Comcast Web Services; or
+* attempt to or actually circumvent any method used by Comcast to control access to Comcast Web Services, including, but not limited to, spoofing or otherwise impersonating an IP address for your computer that is not actually assigned to your computer or setting up a proxy or other device that allows others to access the Comcast Web Services through it.
 
 If you are an Xfinity Internet customer, you can find the guidelines for acceptable use of the Internet service, including any Xfinity email or webmail services, at [http://www.comcast.com/Corporate/Customers/Policies/Policies.html](http://www.comcast.com/Corporate/Customers/Policies/Policies.html).
 
@@ -267,12 +267,12 @@ Using the Wi-Fi Service
 
 In order to access and use the Wi-Fi Service, you must:
 
-*   provide Comcast with accurate and complete registration information;
-*   have a wireless-enabled device (compliant with the IEEE 802.11g or n standards, and or any later standard we support) with a web browser or its equivalent;
-*   provide all equipment and software necessary to connect to the Wi-Fi Service (other than the access point provided by Comcast);
-*   protect the password, username and security information you use to access the Wi-Fi Service and notify Comcast immediately of any unauthorized use of your account that you become aware of,
-*   comply with applicable laws and regulations, including but not limited to copyright and intellectual property rights laws, and
-*   be at least 18 years of age.
+* provide Comcast with accurate and complete registration information;
+* have a wireless-enabled device (compliant with the IEEE 802.11g or n standards, and or any later standard we support) with a web browser or its equivalent;
+* provide all equipment and software necessary to connect to the Wi-Fi Service (other than the access point provided by Comcast);
+* protect the password, username and security information you use to access the Wi-Fi Service and notify Comcast immediately of any unauthorized use of your account that you become aware of,
+* comply with applicable laws and regulations, including but not limited to copyright and intellectual property rights laws, and
+* be at least 18 years of age.
 
 Certain locations ("Venues") may offer you free use of Xfinity Wi-Fi ("Amenity Wi-Fi"). Your use of amenity Wi-Fi is subject to these Terms and any other terms and conditions made available by the Venue ("Venue Policies"). Comcast is not responsible for the Venue Policies or the actions of the Venue. You should read the Venue Policies before using Amenity Wi-Fi.
 
@@ -288,21 +288,21 @@ Restrictions on Use
 
 You may not use the Wi-Fi Service to do any of the following:
 
-*   falsify, alter, or remove message headers;
-*   falsify references to Comcast or its network, by name or other identifier, in messages;
-*   violate the rules, regulations, terms of service, or policies applicable to any network, server, computer database, service, application, system, or web site that you access or use;
-*   access any other person's computer or computer system, network, software, or data without his or her knowledge and consent; breach the security of another user or system; or attempt to circumvent the user authentication or security of any host, network, or account. This includes, but is not limited to, accessing data not intended for you, logging into or making use of a server or account you are not expressly authorized to access, or probing the security of other hosts, networks, or accounts without express permission to do so;
-*   use or distribute tools or devices designed or used for compromising security or whose use is otherwise unauthorized, such as password guessing programs, decoders, password gatherers, keystroke loggers, analyzers, cracking tools, packet sniffers, encryption circumvention devices, or Trojan Horse programs. Unauthorized port scanning is strictly prohibited;
-*   copy, distribute, or sublicense any proprietary software provided in connection with the Wi-Fi Service by Comcast or any third party, except that you may make one copy of each software program for back-up purposes only;
-*   distribute programs that make unauthorized changes to software (cracks);
-*   use or run dedicated, stand-alone equipment or servers, also commonly referred to as public services or servers. Examples of prohibited equipment and servers include, but are not limited to, email, web hosting, file sharing, and proxy services and servers;
-*   use the Wi-Fi Service, or use or run programs that provide network content or any other services, except for personal and non-commercial use;
-*   service, alter, modify, or tamper with any Comcast equipment or service or permit any other person who is not authorized by Comcast to do so;
-*   use the Wi-Fi Service for operation as an Internet service provider or for any business, other legal entity, or organization purpose (whether or not for profit);
-*   resell or otherwise make available the Wi-Fi Service, in whole or in part, directly or indirectly;
-*   interfere with computer networking or telecommunications service to any user, host or network, including, without limitation, denial of service attacks, flooding of a network, overloading a service, improper seizing and abusing operator privileges, and attempts to "crash" a host;
-*   falsify, alter, spoof, or otherwise modify or change any IP or MAC address assigned to or associated with your device to access the Wi-Fi Service; or
-*   access and use the Wi-Fi Service with anything other than a dynamic IP address that adheres to the dynamic host configuration protocol ("DHCP"). You may not configure your device to use this Wi-Fi Service or any related equipment to access or use a static IP address or use any protocol other than DHCP or for any unlawful purpose.
+* falsify, alter, or remove message headers;
+* falsify references to Comcast or its network, by name or other identifier, in messages;
+* violate the rules, regulations, terms of service, or policies applicable to any network, server, computer database, service, application, system, or web site that you access or use;
+* access any other person's computer or computer system, network, software, or data without his or her knowledge and consent; breach the security of another user or system; or attempt to circumvent the user authentication or security of any host, network, or account. This includes, but is not limited to, accessing data not intended for you, logging into or making use of a server or account you are not expressly authorized to access, or probing the security of other hosts, networks, or accounts without express permission to do so;
+* use or distribute tools or devices designed or used for compromising security or whose use is otherwise unauthorized, such as password guessing programs, decoders, password gatherers, keystroke loggers, analyzers, cracking tools, packet sniffers, encryption circumvention devices, or Trojan Horse programs. Unauthorized port scanning is strictly prohibited;
+* copy, distribute, or sublicense any proprietary software provided in connection with the Wi-Fi Service by Comcast or any third party, except that you may make one copy of each software program for back-up purposes only;
+* distribute programs that make unauthorized changes to software (cracks);
+* use or run dedicated, stand-alone equipment or servers, also commonly referred to as public services or servers. Examples of prohibited equipment and servers include, but are not limited to, email, web hosting, file sharing, and proxy services and servers;
+* use the Wi-Fi Service, or use or run programs that provide network content or any other services, except for personal and non-commercial use;
+* service, alter, modify, or tamper with any Comcast equipment or service or permit any other person who is not authorized by Comcast to do so;
+* use the Wi-Fi Service for operation as an Internet service provider or for any business, other legal entity, or organization purpose (whether or not for profit);
+* resell or otherwise make available the Wi-Fi Service, in whole or in part, directly or indirectly;
+* interfere with computer networking or telecommunications service to any user, host or network, including, without limitation, denial of service attacks, flooding of a network, overloading a service, improper seizing and abusing operator privileges, and attempts to "crash" a host;
+* falsify, alter, spoof, or otherwise modify or change any IP or MAC address assigned to or associated with your device to access the Wi-Fi Service; or
+* access and use the Wi-Fi Service with anything other than a dynamic IP address that adheres to the dynamic host configuration protocol ("DHCP"). You may not configure your device to use this Wi-Fi Service or any related equipment to access or use a static IP address or use any protocol other than DHCP or for any unlawful purpose.
 
 23\. Special Note about Comcast Email for Users who are not Xfinity Internet Subscribers.
 -----------------------------------------------------------------------------------------
