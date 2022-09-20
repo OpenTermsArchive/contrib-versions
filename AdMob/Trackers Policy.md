@@ -47,11 +47,11 @@ To opt out of personalized ads in apps on your mobile device, follow the instruc
 
 #### Android
 
-1.  Find Google Settings in one of these places (depending on your device):
-    1.  A separate app called **Google Settings**
-    2.  In your main **Settings** app, scroll down and tap **Google**
-2.  Tap **Ads**
-3.  Switch on **Opt out of interest-based ads**
+1. Find Google Settings in one of these places (depending on your device):
+    1. A separate app called **Google Settings**
+    2. In your main **Settings** app, scroll down and tap **Google**
+2. Tap **Ads**
+3. Switch on **Opt out of interest-based ads**
 
 #### iOS
 
