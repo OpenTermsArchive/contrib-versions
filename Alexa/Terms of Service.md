@@ -63,7 +63,7 @@ You can find more information about Amazon-Processed Purchases and donations in 
 
 **4.5 Termination.** We may terminate your access to Alexa at our discretion without notice (except as may be required by applicable law). Your rights under this Agreement will automatically terminate without notice if you fail to comply with any of its terms. In case of such termination, Amazon may immediately revoke your access to Alexa without refund of any fees. Amazon's failure to insist upon or enforce your strict compliance with this Agreement will not constitute a waiver of any of its rights.
 
-**4.6 Disputes. Any dispute or claim arising from or relating to this Agreement or Alexa is subject to the dispute resolution, governing law, disclaimer of warranties, limitation of liability, and all other terms in the** **[Amazon.com Conditions of Use](https://www.amazon.com/conditionsofuse)**.
+**4.6 Disputes. Any dispute or claim arising from or relating to this Agreement or Alexa is subject to the dispute resolution, governing law, disclaimer of warranties, limitation of liability, and all other terms in the** **[Amazon.com Conditions of Use](https://www.amazon.com/conditionsofuse)**.
 
 **4.7 Disclaimer of Warranties and Limitation of Liability. Without limiting the Disclaimer of Warranties and Limitation of Liability terms in the Amazon.com Conditions of Use, and unless otherwise required by applicable law, in no event will our or our licensors' or our service providers' aggregate liability with respect to any claim arising from or relating to this Agreement or your use of Alexa exceed fifty dollars ($50).**
 
