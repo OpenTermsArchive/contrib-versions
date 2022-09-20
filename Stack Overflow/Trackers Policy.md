@@ -122,57 +122,57 @@ General Browsing: We use cookies that are important for certain technical featur
 
 These cookies:
 
-*   Enable behavior in our Products and/or Services that is tailored to the activity or preferences of a person visiting our properties
-*   Allow users to opt out of certain types of modeling, tailoring, or personalization in our products
-*   Collect information on our users’ preferences in order to create more useful products
-*   Maintain the regular business operations of our Advertising and Marketing departments (such as one-time pop-ups or “hero” displays when first visiting a site and to collect impressions and click data)
-*   Help to diagnose and correct downtime, bugs, and errors in our code to ensure that our products are operating efficiently
+* Enable behavior in our Products and/or Services that is tailored to the activity or preferences of a person visiting our properties
+* Allow users to opt out of certain types of modeling, tailoring, or personalization in our products
+* Collect information on our users’ preferences in order to create more useful products
+* Maintain the regular business operations of our Advertising and Marketing departments (such as one-time pop-ups or “hero” displays when first visiting a site and to collect impressions and click data)
+* Help to diagnose and correct downtime, bugs, and errors in our code to ensure that our products are operating efficiently
 
 Public Q&A Platform: We use cookies that support and enhance our public Q&A platform by enabling important functionality. Such activity includes tracking and attributing reputation and badges based on site activity.
 
 These cookies:
 
-*   Validate the authenticity of persons attempting to gain access to a specific user account
-*   Enable the core platform of community-generated questions and answers, including diagnosing and resolving issues within our Q&A platform
-*   Identify individual users to attribute activities and awards
-*   Allow you to create an optional, résumé-like listing of user achievements and employment history, comparable to a resume, which users can reference when applying for new jobs through our Talent platform or externally
+* Validate the authenticity of persons attempting to gain access to a specific user account
+* Enable the core platform of community-generated questions and answers, including diagnosing and resolving issues within our Q&A platform
+* Identify individual users to attribute activities and awards
+* Allow you to create an optional, résumé-like listing of user achievements and employment history, comparable to a resume, which users can reference when applying for new jobs through our Talent platform or externally
 
 Talent Platform: We use cookies to run our Talent platform, allowing prospective employers to recruit for open positions and users to view and apply for those positions.
 
 These cookies:
 
-*   Validate the authenticity of persons attempting to gain access to a specific user account
-*   Help us to comply with legal requirements in recruitment and hiring
-*   Provide a means of contact for Talent employers (including opting out of the Talent candidate listings)
-*   Allow employers to target specific users (via searches and marketing efforts) who are likely to qualify for a given position
-*   Allow users to save searches in order to more quickly identify newly listed jobs
-*   Create a channel of direct communication between our support staff and users who request assistance
-*   Support integration of job applications and listings from our platform to third-party applicant tracking systems (ATS).
+* Validate the authenticity of persons attempting to gain access to a specific user account
+* Help us to comply with legal requirements in recruitment and hiring
+* Provide a means of contact for Talent employers (including opting out of the Talent candidate listings)
+* Allow employers to target specific users (via searches and marketing efforts) who are likely to qualify for a given position
+* Allow users to save searches in order to more quickly identify newly listed jobs
+* Create a channel of direct communication between our support staff and users who request assistance
+* Support integration of job applications and listings from our platform to third-party applicant tracking systems (ATS).
 
 Stack Overflow Teams: We use cookies for our Teams platform, enabling groups to access our secured, private Q&A solution.
 
 These cookies:
 
-*   Validate the identity of authorized persons and accounts to gain access to a specific Team or Company account
-*   Enable the core platform of team-generated questions and answers, including diagnosing and resolving issues within our Teams Q&A platform
-*   Identify individual users to attribute activities and awards
+* Validate the identity of authorized persons and accounts to gain access to a specific Team or Company account
+* Enable the core platform of team-generated questions and answers, including diagnosing and resolving issues within our Teams Q&A platform
+* Identify individual users to attribute activities and awards
 
 Advertising: We use cookies to enable advertising with our third-party Partners, which in turn allows us to provide many of our services free of charge.
 
 These cookies:
 
-*   Customize the ad experience for our users, including tailoring job and display ads to the technologies a person has previously looked at, the communities a person has visited, and the job ads a person has already seen
-*   Allow direct communication between a 3rd party partner who hosts a promotional event with us, and users who have opted into the promotion
-*   Allow us to track when a Stack Overflow user sees or clicks on an ad or later visits a third-party website or purchases a product on a third-party website
-*   Collect impressions and click data for internal reporting and product optimization
+* Customize the ad experience for our users, including tailoring job and display ads to the technologies a person has previously looked at, the communities a person has visited, and the job ads a person has already seen
+* Allow direct communication between a 3rd party partner who hosts a promotional event with us, and users who have opted into the promotion
+* Allow us to track when a Stack Overflow user sees or clicks on an ad or later visits a third-party website or purchases a product on a third-party website
+* Collect impressions and click data for internal reporting and product optimization
 
 Analytics: We use cookies to compile usage activity in order to better cater our Products and Services offerings to you, and to third parties. We DO NOT share identifiable “raw” data with our clients or any third parties, however we do make high-level decisions based on aggregated data about your usage of our Products and Services.
 
 These cookies:
 
-*   Monitor site traffic and behavior flows of users
-*   Measure the effectiveness of on-site products
-*   Measure the effectiveness of off-site marketing campaigns and tactics
+* Monitor site traffic and behavior flows of users
+* Measure the effectiveness of on-site products
+* Measure the effectiveness of off-site marketing campaigns and tactics
 
 How to turn off all cookies and consequences of doing so
 
@@ -190,10 +190,10 @@ Please note that by blocking any or all cookies you may not have access to certa
 
 Please check the “Help” section of your browser for more information. You can also click on the links below for more information from external help materials for some of the popular browsers:
 
-*   [Mozilla Firefox](https://www.mozilla.org/firefox/new/)
-*   [Apple Safari](https://www.apple.com/safari/)
-*   [Google Chrome](https://www.google.com/chrome/)
-*   [Microsoft Edge](https://www.microsoft.com/edge)
+* [Mozilla Firefox](https://www.mozilla.org/firefox/new/)
+* [Apple Safari](https://www.apple.com/safari/)
+* [Google Chrome](https://www.google.com/chrome/)
+* [Microsoft Edge](https://www.microsoft.com/edge)
 
 Your mobile device settings
 
