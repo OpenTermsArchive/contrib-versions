@@ -5,21 +5,21 @@ Last Updated: September 1, 2022
 
 This Privacy Policy explains the information that Vimeo collects when you use its products and services, how that information is used, with whom it may be shared, and your privacy choices.
 
-1.  [Introduction](#introduction)
-2.  [Children's Privacy](#children_s_privacy)
-3.  [Data We Collect About You](#data_we_collect_about_you)
-4.  [How We Use Your Data](#how_we_use_your_data)
-5.  [With Whom We Share Your Data](#with_whom_we_share_your_data)
-6.  [Legal and Safety-Related Disclosures](#legal_and_safety_related_disclosures)
-7.  [Data Retention](#data_retention)
-8.  [Your Privacy Choices](#your_privacy_choices)
-9.  [Account and Video Privacy Settings](#account_and_video_privacy_settings)
-10.  [Communications from Us](#communications_from_us)
-11.  [Protecting Your Information](#protecting_your_information)
-12.  [Your Responsibilities](#your_responsibilities)
-13.  [Third-Party Services](#third_party_services)
-14.  [International Data Transfers and Certain User Rights](#international_data_transfers_and_certain_user_rights)
-15.   [How to Contact Us](#how_to_contact_us)
+1. [Introduction](#introduction)
+2. [Children's Privacy](#children_s_privacy)
+3. [Data We Collect About You](#data_we_collect_about_you)
+4. [How We Use Your Data](#how_we_use_your_data)
+5. [With Whom We Share Your Data](#with_whom_we_share_your_data)
+6. [Legal and Safety-Related Disclosures](#legal_and_safety_related_disclosures)
+7. [Data Retention](#data_retention)
+8. [Your Privacy Choices](#your_privacy_choices)
+9. [Account and Video Privacy Settings](#account_and_video_privacy_settings)
+10. [Communications from Us](#communications_from_us)
+11. [Protecting Your Information](#protecting_your_information)
+12. [Your Responsibilities](#your_responsibilities)
+13. [Third-Party Services](#third_party_services)
+14. [International Data Transfers and Certain User Rights](#international_data_transfers_and_certain_user_rights)
+15. ﻿[How to Contact Us](#how_to_contact_us)
 
 1\. Introduction
 ----------------
@@ -87,24 +87,24 @@ We may obtain data from third parties about you. We may combine that data with i
 
 We may use your data for the following purposes:
 
-*   **Identification and authentication:** We use your data to verify you when you access your account.
-*   **Operating our services:** We use your data to provide our services, process and fulfill orders, provide customer support, and to otherwise comply with our contractual obligations to you. We (and/or our third-party vendors) use your financial information to process purchases made by you and to pay you amounts you have earned.
-*   **Communicating with you:** We use your data when we communicate with you (e.g., when we respond to a customer support or other inquiry).
-*   **Improving our services:** We use your data to understand how our services are being used and how we can improve them. In general, we analyze aggregated data, rather than specific user data. We may, however, need to analyze a specific case to address a specific problem (e.g., a bug that affects only a few accounts).
-*   **Customizing your experience:** We use your data to personalize the service to you. This may include remembering your preferences for language or volume or displaying videos that you might enjoy, based upon your viewing choices.
-*   **Marketing and advertising:** We use your data to show you ads on third-party sites, and to measure the effectiveness of those ads. 
-*   **Exercising our rights:** Where reasonably necessary, we use your data to exercise our legal rights and prevent abuse of our service. For example, we may use your data to detect and prevent fraud, spam, or content that violates our Terms of Service.
-*   **Legal compliance:** We use your data where we are legally required to do so. For example, we may need to gather your data to respond to a subpoena or court order.
-*   **Protecting your information:** Where appropriate, we may anonymize, backup, and delete certain data.
+* **Identification and authentication:** We use your data to verify you when you access your account.
+* **Operating our services:** We use your data to provide our services, process and fulfill orders, provide customer support, and to otherwise comply with our contractual obligations to you. We (and/or our third-party vendors) use your financial information to process purchases made by you and to pay you amounts you have earned.
+* **Communicating with you:** We use your data when we communicate with you (e.g., when we respond to a customer support or other inquiry).
+* **Improving our services:** We use your data to understand how our services are being used and how we can improve them. In general, we analyze aggregated data, rather than specific user data. We may, however, need to analyze a specific case to address a specific problem (e.g., a bug that affects only a few accounts).
+* **Customizing your experience:** We use your data to personalize the service to you. This may include remembering your preferences for language or volume or displaying videos that you might enjoy, based upon your viewing choices.
+* **Marketing and advertising:** We use your data to show you ads on third-party sites, and to measure the effectiveness of those ads. 
+* **Exercising our rights:** Where reasonably necessary, we use your data to exercise our legal rights and prevent abuse of our service. For example, we may use your data to detect and prevent fraud, spam, or content that violates our Terms of Service.
+* **Legal compliance:** We use your data where we are legally required to do so. For example, we may need to gather your data to respond to a subpoena or court order.
+* **Protecting your information:** Where appropriate, we may anonymize, backup, and delete certain data.
 
 We may use algorithms and other automated means to implement any of the above.
 
 Whenever we process your data for one of these purposes, we have determined that one or more of the following lawful bases apply:
 
-*   Performance of a contract;
-*   Legitimate commercial interest;
-*   Compliance with a legal obligation; or
-*   Consent
+* Performance of a contract;
+* Legitimate commercial interest;
+* Compliance with a legal obligation; or
+* Consent
 
 If you require further information about the balancing test that Vimeo has undertaken to justify its reliance on legitimate interest as a lawful basis of processing, see **Section 15** for information on how to contact us.
 
@@ -113,14 +113,14 @@ If you require further information about the balancing test that Vimeo has under
 
 We share data with third parties as follows:
 
-*   **As you instruct:** We may make your profile and videos available to others as you instruct in using our services. We may share your data with persons to whom you have granted account-level access.
-*   **With your consent:** We may share your data with third parties where we have obtained your express consent to do so.
-*   **Authorized vendors:** We may share your data with third-party vendors that help us operate our services, process orders, and comply with your instructions and our contractual obligations. This includes payment processors, content delivery networks (CDNs), cloud-based hosting services, monitoring services, email service providers, quality assurance and testing vendors, fraud and abuse prevention vendors, customer relations management (CRM) vendors, and shipment vendors.
-*   **Advertising:** We may share your data with advertising companies to display relevant ads to you, and to measure the effectiveness of those ads.
-*   **Analytics:** We may share your data with analytics providers which help us understand how customers are using our services. We may also share identifying analytics information with the hosts of webinars you attend, or users of your organization-administered account (see below for more details).
-*   **Affiliates and advisors:** We may share your data with our auditors and advisors for planning, financial reporting, accounting, auditing, tax filings, and legal compliance. We may share your data with our affiliates to the extent necessary to provide you with the services ordered.
-*   **Certain legal situations:** We may share your data where we believe disclosure is necessary to comply with a legal obligation or in connection with a corporate transaction as discussed in Section 6.
-*   **Aggregated or anonymized information:** We may publicly disclose non-personal aggregated or anonymized information such as our number of visitors and registered users.
+* **As you instruct:** We may make your profile and videos available to others as you instruct in using our services. We may share your data with persons to whom you have granted account-level access.
+* **With your consent:** We may share your data with third parties where we have obtained your express consent to do so.
+* **Authorized vendors:** We may share your data with third-party vendors that help us operate our services, process orders, and comply with your instructions and our contractual obligations. This includes payment processors, content delivery networks (CDNs), cloud-based hosting services, monitoring services, email service providers, quality assurance and testing vendors, fraud and abuse prevention vendors, customer relations management (CRM) vendors, and shipment vendors.
+* **Advertising:** We may share your data with advertising companies to display relevant ads to you, and to measure the effectiveness of those ads.
+* **Analytics:** We may share your data with analytics providers which help us understand how customers are using our services. We may also share identifying analytics information with the hosts of webinars you attend, or users of your organization-administered account (see below for more details).
+* **Affiliates and advisors:** We may share your data with our auditors and advisors for planning, financial reporting, accounting, auditing, tax filings, and legal compliance. We may share your data with our affiliates to the extent necessary to provide you with the services ordered.
+* **Certain legal situations:** We may share your data where we believe disclosure is necessary to comply with a legal obligation or in connection with a corporate transaction as discussed in Section 6.
+* **Aggregated or anonymized information:** We may publicly disclose non-personal aggregated or anonymized information such as our number of visitors and registered users.
 
 We use reasonable efforts to vet vendors for their privacy and data security practices. We require that such vendors agree to protect the data we share.
 
@@ -130,9 +130,9 @@ You may create a Vimeo account using an email address provided or assigned to yo
 
 This means the organization may:
 
-*   Access information about your account activity;
-*   Take control of the account, including any content whether uploaded before or after the date that the organization converts your account to the organization's account; and/or
-*   Delete your account.
+* Access information about your account activity;
+* Take control of the account, including any content whether uploaded before or after the date that the organization converts your account to the organization's account; and/or
+* Delete your account.
 
 If you sign up for a Vimeo account using an email address issued to you by an organization, Vimeo may share your personal information (e.g., name, email address) with such organization. If you do not want an organization to access or otherwise control an account, use a personal email address and do not use an organizational email address when creating an account. 
 
@@ -165,13 +165,13 @@ If we receive legal process pertaining to your account, we will retain your data
 
 We enable you to make numerous choices about your data:
 
-*   You may choose not to provide us with certain information. For example, you may choose not to create an account or not to provide optional account information.
-*   You may change your account and video privacy settings. See **Section 9** for more details.
-*   You may change or correct information voluntarily submitted to us. We encourage you to keep your data current by viewing your settings page.
-*   You may opt out of receiving commercial emails from us. See **Section 10** for more details.
-*   You may limit the use of cookies. See our Cookie Policy for options.
-*   You may backup your videos.
-*   You may close your account (which will delete all videos) or delete certain videos.
+* You may choose not to provide us with certain information. For example, you may choose not to create an account or not to provide optional account information.
+* You may change your account and video privacy settings. See **Section 9** for more details.
+* You may change or correct information voluntarily submitted to us. We encourage you to keep your data current by viewing your settings page.
+* You may opt out of receiving commercial emails from us. See **Section 10** for more details.
+* You may limit the use of cookies. See our Cookie Policy for options.
+* You may backup your videos.
+* You may close your account (which will delete all videos) or delete certain videos.
 
 Users in certain jurisdictions may have additional rights. See **Section 14** for more details.
 
@@ -192,11 +192,11 @@ Some of our subscription plans enable you to grant account-level access rights t
 
 We enable you to manage the privacy settings of your videos. On Vimeo.com, for example, your options, which depend on your subscription plan, may include:
 
-*   **Public:** Your video will be publicly-available.
-*   **Private:** Your video will be available to you and authorized Team Members.
-*   **Unlisted:** Your video will be available to anyone who has the unique URL.
-*   **Password:** Your video may be accessed by anyone who enters the password you have set.
-*   **Hide from Vimeo:** Your video will be private, but embeddable anywhere. 
+* **Public:** Your video will be publicly-available.
+* **Private:** Your video will be available to you and authorized Team Members.
+* **Unlisted:** Your video will be available to anyone who has the unique URL.
+* **Password:** Your video may be accessed by anyone who enters the password you have set.
+* **Hide from Vimeo:** Your video will be private, but embeddable anywhere. 
 
 You may change a video's privacy settings at any time. Changes will be applied on a go-forward basis. 
 
@@ -245,8 +245,8 @@ Vimeo is based in the United States. We provide services globally using computer
 
 This **Section 14.2** applies only to natural persons residing in the European Economic Area and the United Kingdom (for the purpose of this section only, "you" or "your" shall be limited accordingly). It is Vimeo's policy to comply with the EEA's General Data Protection Regulation (GDPR). In accordance with the GDPR, we may transfer your personal information from your home country to the U.S. (or other countries) based upon the following legal bases:
 
-*   Legitimate business interests: We could not provide our services or comply with our legal obligations without transferring your personal information to the U.S.
-*   Our use of Standard Contractual Clauses (also known as "Model Clauses") where appropriate.
+* Legitimate business interests: We could not provide our services or comply with our legal obligations without transferring your personal information to the U.S.
+* Our use of Standard Contractual Clauses (also known as "Model Clauses") where appropriate.
 
 You have the right to: opt out of non-essential cookies (see our [Cookie Policy](https://vimeo.com/cookie_policy)); access, correct, delete, restrict, or object to our use of your personal information; be forgotten; port your data; and withdraw consents. We enable exercise of these rights primarily through our services (which we reserve the right to modify). For example, we allow users to change their information, download their videos, and close their accounts. We also fulfil our obligations in response to direct requests. We will endeavor to process requests within one month. Please note that we may not be able to comply with requests to the extent that they would cause us to violate any law or infringe any other person's rights. We reserve the right to request appropriate identification. We will process requests free of charge unless they would impose an unreasonable cost on us.
 
