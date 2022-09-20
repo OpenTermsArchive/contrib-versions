@@ -5,15 +5,15 @@ Netflix provides a personalized subscription service that allows our members to 
 
 These Terms of Use govern your use of our service. As used in these Terms of Use, "Netflix service", "our service" or "the service" means the personalized service provided by Netflix for discovering and watching Netflix content, including all features and functionalities, recommendations and reviews, the website, and user interfaces, as well as all content and software associated with our service.  
 
-1.  **Membership**  
+1. **Membership**  
       
     1.1. Your Netflix membership will continue until terminated. To use the Netflix service you must have Internet access and a Netflix ready device, and provide us with one or more Payment Methods. "Payment Method" means a current, valid, accepted method of payment, as may be updated from time to time, and which may include payment through your account with a third party. Unless you cancel your membership before your billing date, you authorize us to charge the membership fee for the next billing cycle to your Payment Method (see "Cancellation" below).  
       
     1.2. We may offer a number of membership plans, including memberships offered by third parties in conjunction with the provision of their own products and services. Some membership plans may have differing conditions and limitations, which will be disclosed at your sign-up or in other communications made available to you. You can find specific details regarding your Netflix membership by visiting our website and clicking on the "Account" link available at the top of the pages under your profile name.  
     
-2.  **Promotional Offers.** We may from time to time offer special promotional offers, plans or memberships (“Offers”). Offer eligibility is determined by Netflix at its sole discretion and we reserve the right to revoke an Offer and put your account on hold in the event that we determine you are not eligible. Members of households with an existing or recent Netflix membership may not be eligible for certain introductory Offers. We may use information such as device ID, method of payment or an account email address used with an existing or recent Netflix membership to determine Offer eligibility. The eligibility requirements and other limitations and conditions will be disclosed when you sign-up for the Offer or in other communications made available to you.  
+2. **Promotional Offers.** We may from time to time offer special promotional offers, plans or memberships (“Offers”). Offer eligibility is determined by Netflix at its sole discretion and we reserve the right to revoke an Offer and put your account on hold in the event that we determine you are not eligible. Members of households with an existing or recent Netflix membership may not be eligible for certain introductory Offers. We may use information such as device ID, method of payment or an account email address used with an existing or recent Netflix membership to determine Offer eligibility. The eligibility requirements and other limitations and conditions will be disclosed when you sign-up for the Offer or in other communications made available to you.  
     
-3.  **Billing and Cancellation  
+3. **Billing and Cancellation  
     **  
     3.1. Billing Cycle. The membership fee for the Netflix service will be charged to your Payment Method on the specific payment date indicated on the  "Account" page. The length of your billing cycle will depend on the type of subscription that you choose when you signed up for the service. In some cases your payment date may change, for example if your Payment Method has not successfully settled, when you change your subscription plan or if your paid membership began on a day not contained in a given month. Visit our website and click on the "Billing details" link on the "Account" page to see your next payment date. If you signed up for Netflix using your account with a third party as a Payment Method, you can find the billing information about your Netflix membership by visiting your account with the applicable third party.  
       
@@ -25,7 +25,7 @@ These Terms of Use govern your use of our service. As used in these Terms of Use
       
     3.5. Changes to the Price and Subscription Plans. We may change our subscription plans and the price of our service from time to time; however, any price changes or changes to your subscription plans will apply no earlier than 30 days following notice to you.  
     
-4.  **Netflix Service  
+4. **Netflix Service  
     **  
     4.1. You must be at least 18 years of age to become a member of the Netflix service. Minors may only use the service under the supervision of an adult.  
       
@@ -43,9 +43,9 @@ These Terms of Use govern your use of our service. As used in these Terms of Use
       
     4.8. Netflix software is developed by, or for, Netflix and may solely be used for authorized streaming and viewing of Netflix content  through Netflix ready devices. This software may vary by device and medium, and functionalities and features may also differ between devices. You acknowledge that the use of the service may require third party software that is subject to third party licenses. You agree that you may automatically receive updated versions of the Netflix software and related third-party software.  
     
-5.  **Passwords and Account Access.** The member who created the Netflix account and whose Payment Method is charged (the "Account Owner") is responsible for any activity that occurs through the Netflix account. To maintain control over the account and to prevent anyone from accessing the account (which would include information on viewing history for the account), the Account Owner should maintain control over the Netflix ready devices that are used to access the service and not reveal the password or details of the Payment Method associated with the account to anyone. You are responsible for updating and maintaining the accuracy of the information you provide to us relating to your account. We can terminate your account or place your account on hold in order to protect you, Netflix or our partners from identity theft or other fraudulent activity.  
+5. **Passwords and Account Access.** The member who created the Netflix account and whose Payment Method is charged (the "Account Owner") is responsible for any activity that occurs through the Netflix account. To maintain control over the account and to prevent anyone from accessing the account (which would include information on viewing history for the account), the Account Owner should maintain control over the Netflix ready devices that are used to access the service and not reveal the password or details of the Payment Method associated with the account to anyone. You are responsible for updating and maintaining the accuracy of the information you provide to us relating to your account. We can terminate your account or place your account on hold in order to protect you, Netflix or our partners from identity theft or other fraudulent activity.  
     
-6.  **Miscellaneous**  
+6. **Miscellaneous**  
       
     6.1. Governing Law. These Terms of Use shall be governed by and construed in accordance with the laws of the United Kingdom.  
       
