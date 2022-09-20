@@ -77,13 +77,13 @@ Finally, users understand and agree that while VocabularySpellingCity does not p
 **Copyright Violation Notice**  
 VocabularySpellingCity respects the intellectual property of others and we ask our subscribers to do the same. If any copyright owner believes that there is any intellectual property infringement on the VocabularySpellingCity.com website, please contact us at [legal@VocabularySpellingCity.com](https://www.spellingcity.com/) and we will investigate and change or drop the link immediately. If you believe that your work is accessible on the VocabularySpellingCity service in a way that constitutes copyright infringement, you may notify us via email by providing VocabularySpellingCity the following information:
 
-1.  A description of and the location of the copyrighted work that you claim has been infringed, including the URL (i.e., web page address) of the location where the copyrighted work exists or a copy of the copyrighted work;
-2.  Identification of the specific language, image(s) or functionality on the VocabularySpellingCity website or iOS App that you believe to be infringing;
-3.  Identification of the URL or other specific location on the VocabularySpellingCity website or iOS App where that material is located;
-4.  Your name, title, organization, website address, mailing address, telephone number, and e-mail address;
-5.  A statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent or the law;
-6.  A statement by you, made under penalty of perjury, that the above information in your Notice is accurate and that you are the copyright owner or authorized to act on the copyright owner’s behalf; and
-7.  An electronic or physical signature of the owner or person authorized to act on behalf of the owner of the copyright interest attesting to all of the above.
+1. A description of and the location of the copyrighted work that you claim has been infringed, including the URL (i.e., web page address) of the location where the copyrighted work exists or a copy of the copyrighted work;
+2. Identification of the specific language, image(s) or functionality on the VocabularySpellingCity website or iOS App that you believe to be infringing;
+3. Identification of the URL or other specific location on the VocabularySpellingCity website or iOS App where that material is located;
+4. Your name, title, organization, website address, mailing address, telephone number, and e-mail address;
+5. A statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent or the law;
+6. A statement by you, made under penalty of perjury, that the above information in your Notice is accurate and that you are the copyright owner or authorized to act on the copyright owner’s behalf; and
+7. An electronic or physical signature of the owner or person authorized to act on behalf of the owner of the copyright interest attesting to all of the above.
 
 VocabularySpellingCity shares intellectual property with Time4Learning.com, a highly popular online service providing a comprehensive PreK-High School multi-subject curriculum featuring student-paced learning in a fun and entertaining format. In particular, VocabularySpellingCity uses with permission the  
 [spelling lists](http://www.time4learning.com/spellingwords/spelling-words.shtml) provided by Time4Learning.com. Time4Learning.com is widely used for  
