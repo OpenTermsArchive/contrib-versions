@@ -33,16 +33,16 @@ Specifically, the information we collect automatically may include identifiers l
 
 We use the information that we collect for a variety of business and commercial purposes, including:
 
-*   To respond to your requests or to provide you with information requested by you;
-*   To send administrative or account related information to you;
-*   To communicate with you about updates to our products and services;
-*   To maintain our websites and to tailor our websites to your needs;
-*   To allow you to participate in sweepstakes, contests or other promotions;
-*   For other business purposes, such as data analysis, identifying usage trends, determining the effectiveness of our marketing, and to enhance, customize and improve our websites, products and services;
-*   If you apply for a job, to determine your eligibility for a position with us;
-*   To comply with and enforce applicable legal requirements, agreements and policies;
-*   To prevent, detect, identify, investigate, respond and protect against potential or actual claims, liabilities, prohibited behavior, and criminal activity; and
-*   To notify you about important changes to our website, new services and special opportunities we think you will find valuable where this is in accordance with your expressed marketing preferences. You may notify us at any time if you do not wish to receive these offers by emailing us at [privacy@magnite.com](mailto:privacy@magnite.com).
+* To respond to your requests or to provide you with information requested by you;
+* To send administrative or account related information to you;
+* To communicate with you about updates to our products and services;
+* To maintain our websites and to tailor our websites to your needs;
+* To allow you to participate in sweepstakes, contests or other promotions;
+* For other business purposes, such as data analysis, identifying usage trends, determining the effectiveness of our marketing, and to enhance, customize and improve our websites, products and services;
+* If you apply for a job, to determine your eligibility for a position with us;
+* To comply with and enforce applicable legal requirements, agreements and policies;
+* To prevent, detect, identify, investigate, respond and protect against potential or actual claims, liabilities, prohibited behavior, and criminal activity; and
+* To notify you about important changes to our website, new services and special opportunities we think you will find valuable where this is in accordance with your expressed marketing preferences. You may notify us at any time if you do not wish to receive these offers by emailing us at [privacy@magnite.com](mailto:privacy@magnite.com).
 
 #### HOW WE SHARE YOUR INFORMATION
 
@@ -50,13 +50,13 @@ We do not rent, sell or disseminate personal information we collect about you to
 
 We may disclose your personal information to the following categories of third parties for the following business or commercial purposes:
 
-*   **Magnite Affiliates**: We share personal information with other companies in the Magnite group of companies to use for any of the purposes described in this Policy.
-*   **Business Transfers**: We may share personal information in connection with an actual or proposed sale or transfer of all or a part of our business or assets, corporate merger, consolidation, or bankruptcy.
-*   **Vital interest, legal rights and compliance with laws**. We may share personal information with law enforcement, regulatory authorities, courts with competent jurisdictions, emergency services or other necessary third parties for legal, protection, security, and safety purposes, including:
-    *   to comply with laws or regulatory requirements and to respond to lawful requests and legal process;
-    *   to protect the rights and property of Magnite, our affiliates, agents, customers, and others, including enforcing our agreements, policies, and terms of use and protecting our network and physical assets; and/or
-    *   to protect the safety of our employees and agents, our customers, or any person.
-*   **Vendors, partners and other service providers**: We may share personal information with our vendors, and service providers who perform functions on our behalf and require access to such information to provide us with services or do work for us. Examples include: supporting the delivery of, providing functionality on, or helping to enhance the security of our websites.
+* **Magnite Affiliates**: We share personal information with other companies in the Magnite group of companies to use for any of the purposes described in this Policy.
+* **Business Transfers**: We may share personal information in connection with an actual or proposed sale or transfer of all or a part of our business or assets, corporate merger, consolidation, or bankruptcy.
+* **Vital interest, legal rights and compliance with laws**. We may share personal information with law enforcement, regulatory authorities, courts with competent jurisdictions, emergency services or other necessary third parties for legal, protection, security, and safety purposes, including:
+    * to comply with laws or regulatory requirements and to respond to lawful requests and legal process;
+    * to protect the rights and property of Magnite, our affiliates, agents, customers, and others, including enforcing our agreements, policies, and terms of use and protecting our network and physical assets; and/or
+    * to protect the safety of our employees and agents, our customers, or any person.
+* **Vendors, partners and other service providers**: We may share personal information with our vendors, and service providers who perform functions on our behalf and require access to such information to provide us with services or do work for us. Examples include: supporting the delivery of, providing functionality on, or helping to enhance the security of our websites.
 
 #### COOKIES AND SIMILAR TRACKING TECHNOLOGY
 
@@ -98,7 +98,7 @@ If you would like to learn more about the safeguards we put in place for interna
 
 _**Privacy Shield**_
 
-Magnite, Inc. and its US subsidiary, Magnite Hopper, Inc., commit to comply with the EU-US and Swiss-US Privacy Shield Frameworks as set forth by the US Department of Commerce with respect to personal information concerning individuals from the EEA, UK and Switzerland. Please see our [Privacy Shield Notice](https://www.magnite.com/legal/privacy-shield/) [](#_msocom_12) to learn more. We no longer rely on the Privacy Shield frameworks as our lawful mechanism to transfer data that originated in the EEA, the UK or Switzerland to the United States.
+Magnite, Inc. and its US subsidiary, Magnite Hopper, Inc., commit to comply with the EU-US and Swiss-US Privacy Shield Frameworks as set forth by the US Department of Commerce with respect to personal information concerning individuals from the EEA, UK and Switzerland. Please see our [Privacy Shield Notice](https://www.magnite.com/legal/privacy-shield/) [](#_msocom_12)to learn more. We no longer rely on the Privacy Shield frameworks as our lawful mechanism to transfer data that originated in the EEA, the UK or Switzerland to the United States.
 
 If there is any conflict between the terms in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.
 
