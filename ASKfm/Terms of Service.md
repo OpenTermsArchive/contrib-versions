@@ -111,31 +111,31 @@ You are solely responsible for everything you write or post on ASKfm, and the fo
 
 You must not post or send anything which:
 
-*   Is mean, is bullying someone or is intended to harass, scare or upset anyone;
-*   Is deliberately designed to provoke or antagonize people, especially trolling;
-*   Uses rude words or is intended to upset or embarrass anyone;
-*   Encourages dangerous or illegal activities or self-harm;
-*   Depicts horrible, shocking or distressing things;
-*   Is obscene or pornographic, contains any pictures of naked people, is sexually explicit or depicts graphic violence;
-*   Contains any threat of any kind, including threats of physical violence to yourself or others, or incites others to commit violent acts against themselves or others;
-*   Promotes the sale or other promotion of any products or goods which are prohibited or illegal or counterfeit (in any territory) or obtained from any endangered or threatened species;
-*   Promotes or attempts to arrange marriage between any persons in what could be considered "marriage for sale", or "arranged marriages" or "foreign marriages";
-*   Sells or promotes (or encourages any person to be involved in the sale or promotion of) (i) tobacco and tobacco-related products, substances that alter mental state for the purpose of recreation or otherwise induce "highs", products or services marketed as facilitating recreational drug use (includes a restriction on providing instructions on producing, purchasing, or using recreational drugs) (ii) alcoholic beverages (or promotes irresponsible alcohol consumption), (iii) prescription medication or unapproved pharmaceuticals and supplements, (iv) online, real-money gambling or any internet-based game where money or other items of value are paid or wagered in exchange for the opportunity to win real money or prizes based on the outcome of the game;
-*   Is racist or discriminates based on someone’s race, religion, age, gender, disability or sexuality, veteran status, or any other characteristic that is associated in law with discrimination or marginalization;
-*   Infringes other individual’s privacy rights;
-*   Is illegal, or promotes or attempts to sell any illegal activity or product, or encourages people to get involved in any form of illegal or dangerous activities including but not limited to violence, crime, terrorism, glorifying or promoting/selling of guns, knives and any other weapons, explosives (including posts which promote how to assemble, make or use any form of weapon and/or explosives);
-*   Is defamatory or violates any third party’s rights, including breach of confidence, copyright, trademark, patent, trade secret, moral right, privacy right, right of publicity, or any other intellectual property right;
-*   Constitutes spam, attempts to sell anything to other users, or competes with the business of ASKfm;
-*   Contains any computer virus or other malicious code designed to attack, damage, divert, take over, disable, overburden, or otherwise impair the Services;
-*   Collects user content or information, or otherwise accesses the Services using automated means (such as harvesting bots, robots, spiders, or scrapers) without our prior permission;
-*   Violates any robot exclusion headers of the site, if any, or bypasses or circumvents other measures employed to prevent or limit access to the Services;
-*   Shares, recompiles, decompiles, disassembles, reverse engineers, or makes or distributes any other form of, or any derivative work from, the Services;
-*   Attempts to scrape or collect any personal or private information from other users or from the Services;
-*   Pretends to come from someone other than you, or where you are impersonating someone else;
-*   Intercepts or monitors, damages, or modifies any communication not intended for you;
-*   May cause any harm or damage to you or anyone else;
-*   Otherwise breaches the TOU; or
-*   Attempts to do any of the above.
+* Is mean, is bullying someone or is intended to harass, scare or upset anyone;
+* Is deliberately designed to provoke or antagonize people, especially trolling;
+* Uses rude words or is intended to upset or embarrass anyone;
+* Encourages dangerous or illegal activities or self-harm;
+* Depicts horrible, shocking or distressing things;
+* Is obscene or pornographic, contains any pictures of naked people, is sexually explicit or depicts graphic violence;
+* Contains any threat of any kind, including threats of physical violence to yourself or others, or incites others to commit violent acts against themselves or others;
+* Promotes the sale or other promotion of any products or goods which are prohibited or illegal or counterfeit (in any territory) or obtained from any endangered or threatened species;
+* Promotes or attempts to arrange marriage between any persons in what could be considered "marriage for sale", or "arranged marriages" or "foreign marriages";
+* Sells or promotes (or encourages any person to be involved in the sale or promotion of) (i) tobacco and tobacco-related products, substances that alter mental state for the purpose of recreation or otherwise induce "highs", products or services marketed as facilitating recreational drug use (includes a restriction on providing instructions on producing, purchasing, or using recreational drugs) (ii) alcoholic beverages (or promotes irresponsible alcohol consumption), (iii) prescription medication or unapproved pharmaceuticals and supplements, (iv) online, real-money gambling or any internet-based game where money or other items of value are paid or wagered in exchange for the opportunity to win real money or prizes based on the outcome of the game;
+* Is racist or discriminates based on someone’s race, religion, age, gender, disability or sexuality, veteran status, or any other characteristic that is associated in law with discrimination or marginalization;
+* Infringes other individual’s privacy rights;
+* Is illegal, or promotes or attempts to sell any illegal activity or product, or encourages people to get involved in any form of illegal or dangerous activities including but not limited to violence, crime, terrorism, glorifying or promoting/selling of guns, knives and any other weapons, explosives (including posts which promote how to assemble, make or use any form of weapon and/or explosives);
+* Is defamatory or violates any third party’s rights, including breach of confidence, copyright, trademark, patent, trade secret, moral right, privacy right, right of publicity, or any other intellectual property right;
+* Constitutes spam, attempts to sell anything to other users, or competes with the business of ASKfm;
+* Contains any computer virus or other malicious code designed to attack, damage, divert, take over, disable, overburden, or otherwise impair the Services;
+* Collects user content or information, or otherwise accesses the Services using automated means (such as harvesting bots, robots, spiders, or scrapers) without our prior permission;
+* Violates any robot exclusion headers of the site, if any, or bypasses or circumvents other measures employed to prevent or limit access to the Services;
+* Shares, recompiles, decompiles, disassembles, reverse engineers, or makes or distributes any other form of, or any derivative work from, the Services;
+* Attempts to scrape or collect any personal or private information from other users or from the Services;
+* Pretends to come from someone other than you, or where you are impersonating someone else;
+* Intercepts or monitors, damages, or modifies any communication not intended for you;
+* May cause any harm or damage to you or anyone else;
+* Otherwise breaches the TOU; or
+* Attempts to do any of the above.
 
 4D. Do you check my account and my posts?
 -----------------------------------------
