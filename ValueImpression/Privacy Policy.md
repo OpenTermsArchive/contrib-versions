@@ -239,7 +239,7 @@ We may use third-party Service Providers to show advertisements to you to help s
   
 
 |     |     |
-| --- | --- |  
+| --- | --- | 
 | Ad technology providers | Further info on how the ad technology providers use your data |
 | Google | https://www.google.com/policies/technologies/partner-sites/ |
 | Aarki | http://corp.aarki.com/privacy |
