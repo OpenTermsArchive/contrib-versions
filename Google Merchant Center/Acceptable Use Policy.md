@@ -20,13 +20,13 @@ Overview of our shopping ads policies
 Our policies cover four broad areas:  
  
 
-*   ![Google Ads policies | prohibited content](//storage.googleapis.com/support-kms-prod/RrjdySjRxcYJL3NpcXaobwTxuk7zctDbL8rX) **[Prohibited content](#con):** Content that you're not allowed to promote on the Google Network  
+* ![Google Ads policies | prohibited content](//storage.googleapis.com/support-kms-prod/RrjdySjRxcYJL3NpcXaobwTxuk7zctDbL8rX) **[Prohibited content](#con):** Content that you're not allowed to promote on the Google Network  
      
-*   ![Google Ads policies | prohibited practice](//storage.googleapis.com/support-kms-prod/aYpRwkWqocXCGj8TVXwShJAbVpbcYO9qABIs) **[Prohibited practices](#pra):** Things that you can't do if you want to advertise with us  
+* ![Google Ads policies | prohibited practice](//storage.googleapis.com/support-kms-prod/aYpRwkWqocXCGj8TVXwShJAbVpbcYO9qABIs) **[Prohibited practices](#pra):** Things that you can't do if you want to advertise with us  
      
-*   ![Google Ads policies | restricted content](//storage.googleapis.com/support-kms-prod/tNErobNFH6ZkSwZtpMfEXrQkhCi1uMdPn3ur) **[Restricted content](#res):** Content that you can advertise, but with limitations  
+* ![Google Ads policies | restricted content](//storage.googleapis.com/support-kms-prod/tNErobNFH6ZkSwZtpMfEXrQkhCi1uMdPn3ur) **[Restricted content](#res):** Content that you can advertise, but with limitations  
      
-*   ![Google Ads policies | editorial and technical content](//storage.googleapis.com/support-kms-prod/MIXDdIdSQ69Eq1NzuL5dUJjHRDYr9sjXX3wp) **[Editorial and technical](#ed):** Quality standards for your ads and website  
+* ![Google Ads policies | editorial and technical content](//storage.googleapis.com/support-kms-prod/MIXDdIdSQ69Eq1NzuL5dUJjHRDYr9sjXX3wp) **[Editorial and technical](#ed):** Quality standards for your ads and website  
      
 
 Click through the policies below for policy definitions, examples and troubleshooting steps.
@@ -79,10 +79,10 @@ Click through the policies below for policy definitions, examples and troublesho
 
 > Google wants Shopping ads to be useful, varied, relevant and safe for users, and so we've made some decisions about how we serve content on our network. As a result we don't allow any of the following:
 > 
-> *   malicious content
-> *   sites that offer little unique value to users and are focused primarily on traffic generation
-> *   retailers who attempt to gain an unfair advantage in Shopping campaigns
-> *   retailers who attempt to bypass our review processes
+> * malicious content
+> * sites that offer little unique value to users and are focused primarily on traffic generation
+> * retailers who attempt to gain an unfair advantage in Shopping campaigns
+> * retailers who attempt to bypass our review processes
 
 #### [Irresponsible data collection & use](https://support.google.com/merchants/merchants/answer/6150122)
 
@@ -92,19 +92,19 @@ Click through the policies below for policy definitions, examples and troublesho
 > 
 > _Examples of irresponsible data collection and use_: Obtaining the following data over non-secure SSL (https://) server connections:
 > 
-> *   Username or email in combination with passwords
-> *   Credit and debit card numbers
-> *   Bank and investment account numbers
-> *   Other account numbers
-> *   Bank transfer numbers
-> *   National-identity, pension, national-insurance, tax ID, healthcare or driving-licence number
+> * Username or email in combination with passwords
+> * Credit and debit card numbers
+> * Bank and investment account numbers
+> * Other account numbers
+> * Bank transfer numbers
+> * National-identity, pension, national-insurance, tax ID, healthcare or driving-licence number
 
 #### [Misrepresentation](https://support.google.com/merchants/merchants/answer/6150127)
 
 > Google doesn't want users to feel misled by the content promoted in Shopping ads, and that means being upfront, honest and providing them with the information that they need to make informed decisions. For this reason, we don't allow the following:
 > 
-> *   promotions that prompt users to initiate a purchase, download or other commitment without first providing all relevant information and obtaining the user's explicit consent
-> *   promotions that represent you or your products in a way that is not accurate, realistic and truthful
+> * promotions that prompt users to initiate a purchase, download or other commitment without first providing all relevant information and obtaining the user's explicit consent
+> * promotions that represent you or your products in a way that is not accurate, realistic and truthful
 
   
 
@@ -118,17 +118,17 @@ For that reason, we allow promotion of the content below, but on a limited basis
 
 > Google restricts the promotion of the following types of adult-orientated content:
 > 
-> *   adult merchandise
-> *   sexually suggestive content
-> *   images containing exposed skin and nudity
+> * adult merchandise
+> * sexually suggestive content
+> * images containing exposed skin and nudity
 > 
 > When promoting adult content, you may not do any of the following:
 > 
-> *   violate applicable laws or regulations for any location that you target
-> *   target minors
-> *   promote sexually explicit content
-> *   promote content with underage or non-consensual sexual themes, including child sexual abuse content
-> *   promote services that may be interpreted as providing sexual acts in exchange for compensation
+> * violate applicable laws or regulations for any location that you target
+> * target minors
+> * promote sexually explicit content
+> * promote content with underage or non-consensual sexual themes, including child sexual abuse content
+> * promote services that may be interpreted as providing sexual acts in exchange for compensation
 > 
 > _Examples of restricted adult content:_ sex toys; adult magazines; sexual-enhancement products; sexually suggestive lingerie promotions.
 
@@ -138,12 +138,12 @@ For that reason, we allow promotion of the content below, but on a limited basis
 > 
 > When promoting alcoholic drinks, you may not do any of the following:
 > 
-> *   Violate applicable laws and industry standards for any location that you target
-> *   Target individuals below the legal drinking age
-> *   Imply that drinking alcohol can improve social, sexual, professional, intellectual or athletic standing
-> *   Imply that drinking alcohol provides health or therapeutic benefits
-> *   Portray excessive drinking in a positive light or feature binge or competition drinking
-> *   Show alcohol being consumed in conjunction with the operation of a vehicle of any kind, the operation of machinery or the performance of any task requiring alertness or dexterity
+> * Violate applicable laws and industry standards for any location that you target
+> * Target individuals below the legal drinking age
+> * Imply that drinking alcohol can improve social, sexual, professional, intellectual or athletic standing
+> * Imply that drinking alcohol provides health or therapeutic benefits
+> * Portray excessive drinking in a positive light or feature binge or competition drinking
+> * Show alcohol being consumed in conjunction with the operation of a vehicle of any kind, the operation of machinery or the performance of any task requiring alertness or dexterity
 > 
 > _Examples of restricted alcoholic drinks:_ beer; wine; sake; spirits or hard alcohol; champagne; fortified wine; non-alcoholic beer; non-alcoholic wine; non-alcoholic distilled spirits.
 
@@ -161,11 +161,11 @@ For that reason, we allow promotion of the content below, but on a limited basis
 
 > Google restricts the promotion of healthcare-related content such as the following:
 > 
-> *   over-the-counter medication
-> *   prescription drugs
-> *   unapproved pharmaceuticals and supplements
-> *   pregnancy and fertility-related products
-> *   sexual enhancement treatments
+> * over-the-counter medication
+> * prescription drugs
+> * unapproved pharmaceuticals and supplements
+> * pregnancy and fertility-related products
+> * sexual enhancement treatments
 > 
 > The restrictions that apply to this content may vary depending on the product that you're promoting and the countries that you're targeting. Some content, such as unapproved pharmaceutical supplements, may not be promoted anywhere.
 > 
@@ -175,8 +175,8 @@ For that reason, we allow promotion of the content below, but on a limited basis
 
 > When promoting political content, you need to comply with the following requirements:
 > 
-> *   Applicable laws and industry standards for any location that you target
-> *   Any applicable election 'silence periods'
+> * Applicable laws and industry standards for any location that you target
+> * Any applicable election 'silence periods'
 > 
 > _Examples of political content:_ promotion of political parties/candidates, political issue advocacy.
 
@@ -202,11 +202,11 @@ We want to deliver ads that are engaging for users without being annoying or dif
 > 
 > _Examples of promotions that don't meet these editorial and professional requirements:_
 > 
-> *   a Display URL that does not accurately reflect the URL of the landing page, such as 'google.com' taking users to 'gmail.com'
-> *   gimmicky use of words, numbers, letters, punctuation or symbols such as FREE, f-r-e-e and F₹€€!!
-> *   sites that are under construction, parked domains or are just not working
-> *   sites that have disabled the browser's back button
-> *   sites that are not viewable in commonly used browsers
+> * a Display URL that does not accurately reflect the URL of the landing page, such as 'google.com' taking users to 'gmail.com'
+> * gimmicky use of words, numbers, letters, punctuation or symbols such as FREE, f-r-e-e and F₹€€!!
+> * sites that are under construction, parked domains or are just not working
+> * sites that have disabled the browser's back button
+> * sites that are not viewable in commonly used browsers
 
 * * *
 
