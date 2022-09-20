@@ -3,9 +3,9 @@ Terms of Service
 
 By signing up for Telegram, you accept our [Privacy Policy](https://telegram.org/privacy) and agree not to:
 
-*   Use our service to send spam or scam users.
-*   Promote violence on publicly viewable Telegram channels, bots, etc.
-*   Post illegal pornographic content on publicly viewable Telegram channels, bots, etc.
+* Use our service to send spam or scam users.
+* Promote violence on publicly viewable Telegram channels, bots, etc.
+* Post illegal pornographic content on publicly viewable Telegram channels, bots, etc.
 
 We reserve the right to update these Terms of Service later.
 
