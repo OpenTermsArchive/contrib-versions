@@ -8,19 +8,19 @@ What this policy covers
 
 Your privacy is important to us, and so is being transparent about how we collect, use, and share information about you. This policy is intended to help you understand:
 
-*   [What information we collect about you](#what-information-we-collect-about-you)
+* [What information we collect about you](#what-information-we-collect-about-you)
     
-*   [How we use information we collect](#how-we-use-information-we-collect) 
+* [How we use information we collect](#how-we-use-information-we-collect) 
     
-*   [How we share information we collect](#how-we-share-information-we-collect) 
+* [How we share information we collect](#how-we-share-information-we-collect) 
     
-*   [How we store and secure information we collect](#how-we-store-and-secure-information-we-collect) 
+* [How we store and secure information we collect](#how-we-store-and-secure-information-we-collect) 
     
-*   [How to access and control your information](#how-to-access-and-control-your-information) 
+* [How to access and control your information](#how-to-access-and-control-your-information) 
     
-*   [How we transfer information we collect internationally](#how-we-transfer-information-we-collect-internationally) 
+* [How we transfer information we collect internationally](#how-we-transfer-information-we-collect-internationally) 
     
-*   [Other important privacy information](#other-important-privacy-information)
+* [Other important privacy information](#other-important-privacy-information)
     
 
 This Privacy Policy covers the information we collect about you when you use our products or services, or otherwise interact with us (for example, by attending our premises or events or by communicating with us), unless a different policy is displayed.  Atlassian, we and us refers to Atlassian Pty Ltd, Atlassian, Inc. and any of our corporate affiliates.  We offer a wide range of products, [including our cloud, server and data center products](https://www.atlassian.com/legal/privacy-policy/product-family).  We refer to all of these products, together with our other services and websites as "Services" in this policy.    
@@ -40,13 +40,13 @@ We collect information about you when you input it into the Services or otherwis
 
 _**Account and Profile Information:**_ We collect information about you when you register for an account, create or modify your profile, set preferences, sign-up for or make purchases through the Services. For example, you provide your contact information and, in some cases, billing information, when you register for the Services. You also have the option of adding a display name, profile photo, job title, and other details to your profile information to be displayed in our Services.  We keep track of your preferences when you select settings within the Services.
 
-_**Content you provide through our products:**_ The Services include the Atlassian products you use, where we collect and store content that you post, send, receive and share. This content includes any information about you that you may choose to include. Examples of content we collect and store include: the summary and description added to a Jira issue, the pages you create in Confluence, the name of a Trello board, your repositories and pull requests in Bitbucket, information regarding an incident in Statuspage or Opsgenie, any stories you name in Jira Align, and any feedback you provide to us. Content also includes the files and links you upload to the Services. If you use a server or data center version of the Services, we do not host, store, transmit, receive or collect information about you (including your content), except in limited cases, where permitted by your administrator: we collect feedback you provide directly to us through the product and; we collect content using analytics techniques that hash, filter or otherwise scrub the information to exclude information that might identify you or your organization; and we collect clickstream data about how you interact with and use features in the Services. Server and data center administrators can disable our collection of this information from the Services via the administrator settings or prevent this information from being shared with us by blocking transmission at the local network level. 
+_**Content you provide through our products:**_ The Services include the Atlassian products you use, where we collect and store content that you post, send, receive and share. This content includes any information about you that you may choose to include. Examples of content we collect and store include: the summary and description added to a Jira issue, the pages you create in Confluence, the name of a Trello board, your repositories and pull requests in Bitbucket, information regarding an incident in Statuspage or Opsgenie, any stories you name in Jira Align, and any feedback you provide to us. Content also includes the files and links you upload to the Services. If you use a server or data center version of the Services, we do not host, store, transmit, receive or collect information about you (including your content), except in limited cases, where permitted by your administrator: we collect feedback you provide directly to us through the product and; we collect content using analytics techniques that hash, filter or otherwise scrub the information to exclude information that might identify you or your organization; and we collect clickstream data about how you interact with and use features in the Services. Server and data center administrators can disable our collection of this information from the Services via the administrator settings or prevent this information from being shared with us by blocking transmission at the local network level. 
 
 _**Content you provide through our websites:**_ The Services also include our websites owned or operated by us. We collect other content that you submit to these websites, which include social media or social networking websites operated by us. For example, you provide content to us when you provide feedback or when you participate in any interactive features, surveys, contests, promotions, sweepstakes, activities or events.  
 
 _**Information you provide through our support channels:**_ The Services also include our customer support, where you may choose to submit information regarding a problem you are experiencing with a Service.  Whether you designate yourself as a technical contact, open a support ticket, speak to one of our representatives directly or otherwise engage with our support team, you will be asked to provide contact information, a summary of the problem you are experiencing, and any other documentation, screenshots or information that would be helpful in resolving the issue.
 
-_**Payment Information:**_ We collect payment and billing information when you register for certain paid Services.  For example, we ask you to designate a billing representative, including name and contact information, upon registration.  You might also provide payment information, such as payment card details, which we collect via secure payment processing services.
+_**Payment Information:**_  We collect payment and billing information when you register for certain paid Services.  For example, we ask you to designate a billing representative, including name and contact information, upon registration.  You might also provide payment information, such as payment card details, which we collect via secure payment processing services.
 
 **Information we collect automatically when you use the Services**
 
@@ -83,7 +83,7 @@ _**To provide the Services and personalize your experience**_: We use informati
 
 _**For research and development**_:  We are always looking for ways to make our Services smarter, faster, secure, integrated, and useful.  We use information and collective learnings (including feedback) about how people use our Services to troubleshoot, to identify trends, usage, activity patterns, and areas for integration and to improve our Services and to develop new products, features and technologies that benefit our users and the public. For example, to improve the @mention feature, we automatically analyze recent interactions among users and how often they @mention one another to surface the most relevant connections for users. We automatically analyze and aggregate frequently used search terms to improve the accuracy and relevance of suggested topics that auto-populate when you use the search feature. In some cases, we apply these learnings across our Services to improve and develop similar features, to better integrate the Services you use, or to provide you with insights based on how others use our Services. We also test and analyze certain new features with some users before rolling the feature out to all users.  
 
-_**To communicate with you about the Services**_: We use your contact information to send transactional communications via email and within the Services, including confirming your purchases, reminding you of subscription expirations, responding to your comments, questions and requests, providing customer support, and sending you technical notices, updates, security alerts, and administrative messages.  We send you email notifications when you or others interact with you on the Services, for example, when you are @mentioned on a page or ticket, when a task is assigned to you, or when you are added to a Trello board. Depending on your chosen method of contact, we may send you SMS notifications or call you if you are on-call for incident alerts in Opsgenie. We also provide tailored communications based on your activity and interactions with us.  For example, certain actions you take in the Services may automatically trigger a feature or third-party app suggestion within the Services that would make that task easier.  We also send you communications as you onboard to a particular Service to help you become more proficient in using that Service. These communications are part of the Services and in most cases you cannot opt out of them.  If an opt out is available, you will find that option within the communication itself or in your account settings.   
+_**To communicate with you about the Services**_: We use your contact information to send transactional communications via email and within the Services, including confirming your purchases, reminding you of subscription expirations, responding to your comments, questions and requests, providing customer support, and sending you technical notices, updates, security alerts, and administrative messages.  We send you email notifications when you or others interact with you on the Services, for example, when you are @mentioned on a page or ticket, when a task is assigned to you, or when you are added to a Trello board. Depending on your chosen method of contact, we may send you SMS notifications or call you if you are on-call for incident alerts in Opsgenie. We also provide tailored communications based on your activity and interactions with us.  For example, certain actions you take in the Services may automatically trigger a feature or third-party app suggestion within the Services that would make that task easier.  We also send you communications as you onboard to a particular Service to help you become more proficient in using that Service. These communications are part of the Services and in most cases you cannot opt out of them.  If an opt out is available, you will find that option within the communication itself or in your account settings.   
 
 _**To market, promote and drive engagement with the Services:**_ We use your contact information and information about how you use the Services to send promotional communications that may be of specific interest to you, including by email and by displaying Atlassian ads on other companies' websites and applications.  These communications may be informed by audits of interactions (like counting ad impressions), and are aimed at driving engagement and maximizing what you get out of the Services, including information about new features, survey requests, newsletters, and events we think may be of interest to you.  We also communicate with you about new Services, product offers, promotions, and contests.  You can control whether you receive these communications as described below under "Opt-out of communications."
 
@@ -99,10 +99,10 @@ _**Legal bases for processing (for EEA users)**_: 
 
 If you are an individual in the European Economic Area (EEA), we collect and process information about you only where we have legal bases for doing so under applicable EU laws.  The legal bases depend on the Services you use and how you use them. This means we collect and use your information only where:
 
-*   We need it to provide you the Services, including to operate the Services, provide customer support and personalized features and to protect the safety and security of the Services;
-*   It satisfies a legitimate interest (which is not overridden by your data protection interests), such as for research and development, to market and promote the Services and to protect our legal rights and interests;
-*   You give us consent to do so for a specific purpose; or
-*   We need to process your data to comply with a legal obligation.
+* We need it to provide you the Services, including to operate the Services, provide customer support and personalized features and to protect the safety and security of the Services;
+* It satisfies a legitimate interest (which is not overridden by your data protection interests), such as for research and development, to market and promote the Services and to protect our legal rights and interests;
+* You give us consent to do so for a specific purpose; or
+* We need to process your data to comply with a legal obligation.
 
 If you have consented to our use of information about you for a specific purpose, you have the right to change your mind at any time, but this will not affect any processing that has already taken place.  Where we are using your information because we or a third party (e.g. your employer) have a legitimate interest to do so, you have the right to object to that use though, in some cases, this may mean no longer using the Services. 
 
@@ -111,7 +111,7 @@ How we share information we collect
 
 We make collaboration tools, and we want them to work well for you.  This means sharing information through the Services and with certain third parties.  We share information we collect about you in the ways discussed below, including in connection with possible business transfers. We are not in the business of selling information about you to advertisers or other third parties.
 
-**Sharing with other Service users** 
+**Sharing with other Service users** 
 
 When you use the Services, we share certain information about you with other Service users.
 
@@ -238,18 +238,18 @@ Many of our products are intended for use by organizations. Where the Services a
 
 Administrators are able to:
 
-*   require you to reset your account password;
-*   restrict, suspend or terminate your access to the Services;
-*   access information in and about your account;
-*   access or retain information stored as part of your account;
-*   install or uninstall third-party apps or other integrations 
+* require you to reset your account password;
+* restrict, suspend or terminate your access to the Services;
+* access information in and about your account;
+* access or retain information stored as part of your account;
+* install or uninstall third-party apps or other integrations 
 
 In some cases, administrators can also:
 
-*   restrict, suspend or terminate your account access;
-*   change the email address associated with your account;
-*   change your information, including profile information;
-*   restrict your ability to edit, restrict, modify or delete information
+* restrict, suspend or terminate your account access;
+* change the email address associated with your account;
+* change your information, including profile information;
+* restrict your ability to edit, restrict, modify or delete information
 
 Even if the Services are not currently administered to you by an organization, if you are a member of a Trello team administered by an organization, or if you use an email address provided by an organization (such as your work email address) to access the Services, then the owner of the domain associated with your email address (e.g. your employer) may assert administrative control over your account and use of the Services at a later date.  You will be notified if this happens. 
 
@@ -308,17 +308,17 @@ We have updated the **Other important privacy information** section by adding a
 
 **November 1, 2019**
 
-*   We are updating our Privacy Policy to reflect Jira Align and Trello specific examples as we fully integrate them into the Atlassian family.  
-*   We added details on data we may collect from third parties and public databases.
-*   We provided information about how we create user profiles and how you can opt out of this.
+* We are updating our Privacy Policy to reflect Jira Align and Trello specific examples as we fully integrate them into the Atlassian family.  
+* We added details on data we may collect from third parties and public databases.
+* We provided information about how we create user profiles and how you can opt out of this.
 
 November 1, 2018
 
-*   We are updating our Privacy Policy to reflect the expansion of our cloud data storage infrastructure
+* We are updating our Privacy Policy to reflect the expansion of our cloud data storage infrastructure
 
 May 25, 2018
 
-*   Better navigation and user-friendly language. To make the policy easier to understand, we use clear, plain language and examples that illustrate our activities. We reformatted our privacy policy page with active links, so you can quickly find the information that matters most to you.  
-*   How we integrate our products. We're always improving our products to give you a frictionless and customized experience. The updates to our policy describe the tools we’ve built to make our products smarter and allow you to move seamlessly from one Atlassian product to another.
-*   More control over your information. We make it easy for you to control the information you provide to us. Our policy explains how you can make choices about your information, and the measures we’ve put in place to keep your information secure.
-*   Using our products for work. Many users have access to our services through their organizations (e.g., their employers), who control their accounts or use of our services. The updated policy clarifies our relationship to these users and explains the tools available to administrators of these users.
+* Better navigation and user-friendly language. To make the policy easier to understand, we use clear, plain language and examples that illustrate our activities. We reformatted our privacy policy page with active links, so you can quickly find the information that matters most to you.  
+* How we integrate our products. We're always improving our products to give you a frictionless and customized experience. The updates to our policy describe the tools we’ve built to make our products smarter and allow you to move seamlessly from one Atlassian product to another.
+* More control over your information. We make it easy for you to control the information you provide to us. Our policy explains how you can make choices about your information, and the measures we’ve put in place to keep your information secure.
+* Using our products for work. Many users have access to our services through their organizations (e.g., their employers), who control their accounts or use of our services. The updated policy clarifies our relationship to these users and explains the tools available to administrators of these users.
