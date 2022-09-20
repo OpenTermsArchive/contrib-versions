@@ -8,27 +8,27 @@ Mix respects the privacy of its users. This Privacy Policy (**“Privacy Policy�
 
 ##### Table of Contents
 
-*   [About Us](#about-us)
-*   [About the Mix Services](#about-services)
-*   [About This Privacy Policy](#about-privacy)
-*   [Changes to This Privacy Policy](#changes)
-*   [Your Account](#account)
-*   [Why Does Mix Collect Information?](#why)
-*   [Some Terms We Use in This Privacy Policy](#terms)
-*   [What Information Does Mix Collect?](#collect)
-*   [Does Mix Use Cookies or Other Tracking Methods?](#cookies)
-*   [How Can You Edit or Remove Your Personal or Other Information?](#edit)
-*   [How Does Mix Use Information Internally?](#internal)
-*   [When Does Mix Share Information with Others, and with Whom?](#sharing)
-*   [How Do I Opt Out?](#opt-out)
-*   [Where and How Long Will Information Be Collected and Stored?](#storage)
-*   [How Secure Is the Information?](#security)
-*   [What Is the Policy Towards Children?](#age-policy)
-*   [Supplemental Notice for California Residents](#ca)
-*   [What Policies Apply to Third Party Websites, Services and Applications?](#third-party)
-*   [Supplemental Notice for Nevada Residents](#nv)
-*   [Additional Information for EU Residents](#eu)
-*   [Contact Us](#contact)
+* [About Us](#about-us)
+* [About the Mix Services](#about-services)
+* [About This Privacy Policy](#about-privacy)
+* [Changes to This Privacy Policy](#changes)
+* [Your Account](#account)
+* [Why Does Mix Collect Information?](#why)
+* [Some Terms We Use in This Privacy Policy](#terms)
+* [What Information Does Mix Collect?](#collect)
+* [Does Mix Use Cookies or Other Tracking Methods?](#cookies)
+* [How Can You Edit or Remove Your Personal or Other Information?](#edit)
+* [How Does Mix Use Information Internally?](#internal)
+* [When Does Mix Share Information with Others, and with Whom?](#sharing)
+* [How Do I Opt Out?](#opt-out)
+* [Where and How Long Will Information Be Collected and Stored?](#storage)
+* [How Secure Is the Information?](#security)
+* [What Is the Policy Towards Children?](#age-policy)
+* [Supplemental Notice for California Residents](#ca)
+* [What Policies Apply to Third Party Websites, Services and Applications?](#third-party)
+* [Supplemental Notice for Nevada Residents](#nv)
+* [Additional Information for EU Residents](#eu)
+* [Contact Us](#contact)
 
 * * *
 
@@ -127,22 +127,22 @@ Mix will collect only that Personal Information which is relevant for the purpos
 
 On the Mix Site, Mix and Third Parties that provide content, advertising, or other functionality on our Services may use cookies, pixel tags, local storage, and other technologies (**“Technologies”**) to automatically collect information through the Services. We use Technologies that are essentially small data files placed on your computer, tablet, mobile phone, or other devices (referred to collectively as a **"device"**) that allow us to record certain pieces of information whenever you visit or interact with our Sites, Services, applications, messaging, and tools, and to recognize you across devices.
 
-*   **Cookies.** Cookies are small text files placed in visitors’ computer browsers to store their preferences. Most browsers allow you to block and delete cookies. However, if you do that, the Site may not work properly.
-*   **Pixel Tags/Web Beacons.** A pixel tag (also known as a web beacon) is a piece of code embedded on the Site that collects information about users’ engagement on that web page. The use of a pixel allows us to record, for example, that a user has visited a particular web page or clicked on a particular advertisement.
-*   **Social Media Widgets.** Our Site includes social media features such as the Facebook “Like” button and LinkedIn (that might include widgets such as the share this button or other interactive mini-programs). These features may collect your IP address, which page you are visiting on our Site, and may set a cookie to enable the feature to function properly. These social media features are either hosted by a Third Party or hosted directly on our Site. Your interactions with these features are governed by the privacy policy of the company providing it.
+* **Cookies.** Cookies are small text files placed in visitors’ computer browsers to store their preferences. Most browsers allow you to block and delete cookies. However, if you do that, the Site may not work properly.
+* **Pixel Tags/Web Beacons.** A pixel tag (also known as a web beacon) is a piece of code embedded on the Site that collects information about users’ engagement on that web page. The use of a pixel allows us to record, for example, that a user has visited a particular web page or clicked on a particular advertisement.
+* **Social Media Widgets.** Our Site includes social media features such as the Facebook “Like” button and LinkedIn (that might include widgets such as the share this button or other interactive mini-programs). These features may collect your IP address, which page you are visiting on our Site, and may set a cookie to enable the feature to function properly. These social media features are either hosted by a Third Party or hosted directly on our Site. Your interactions with these features are governed by the privacy policy of the company providing it.
 
 The online advertising industry also provides websites from which you may opt out of receiving targeted ads from data partners and other advertising partners that participate in self-regulatory programs. You can access these and learn more about targeted advertising and consumer choice and privacy by visiting the [Network Advertising Initiative](https://www.networkadvertising.org/managing/opt_out.asp), [the Digital Advertising Alliance](http://www.aboutads.info/choices/), [the European Digital Advertising Alliance](https://www.youronlinechoices.eu/), and [the Digital Advertising Alliance of Canada](https://youradchoices.ca/choices/).
 
 Please note, you must opt out separately on each browser and on each device.
 
-*   **Analytics.** We may also use Google Analytics and Google Analytics Demographics and Interest Reporting to collect information regarding visitor behavior and visitor demographics on some of our Services, and to develop website content. This analytics data is not tied to any Personal Information. For more information about Google Analytics, please visit [http://www.google.com/policies/privacy/partners/](http://www.google.com/policies/privacy/partners/). You can opt out of Google’s collection and Processing of data generated by your use of the Services by going to [http://tools.google.com/dlpage/gaoptout](http://tools.google.com/dlpage/gaoptout).
+* **Analytics.** We may also use Google Analytics and Google Analytics Demographics and Interest Reporting to collect information regarding visitor behavior and visitor demographics on some of our Services, and to develop website content. This analytics data is not tied to any Personal Information. For more information about Google Analytics, please visit [http://www.google.com/policies/privacy/partners/](http://www.google.com/policies/privacy/partners/). You can opt out of Google’s collection and Processing of data generated by your use of the Services by going to [http://tools.google.com/dlpage/gaoptout](http://tools.google.com/dlpage/gaoptout).
 
 Our uses of such Technologies fall into the following general categories:
 
-*   **Operationally Necessary.** We may use Technologies that are necessary to the operation of our Site, Services, applications, and tools. This includes technologies that allow you access to our Site, Services, applications, and tools; that are required to identify irregular Site behavior, prevent fraudulent activity and improve security; or that allow you to make use of our functions such as shopping-carts, saved search, or similar functions;
-*   **Performance Related.** We may use cookies, web beacons, or other similar technologies to assess the performance of our Site, Services, applications, and tools, including as part of our analytic practices to help us understand how our visitors use our Sites, determine if you have interacted with our messaging, determine whether you have viewed an item or link, or to improve our Site content, Services, applications, or tools;
-*   **Functionality Related.** We may use cookies, web beacons, or other similar technologies that allow us to offer you enhanced functionality when accessing or using our Site, Services, applications, or tools. This may include identifying you when you sign into our Site or keeping track of your specified preferences, interests, or past items viewed so that we may enhance the presentation of content on our Site;
-*   **Advertising or Targeting Related.** We may use first-party or third-party cookies and web beacons to deliver content, including advertisements relevant to your interests, on our Site or on Third Party sites. This includes using technologies to understand the usefulness to you of the advertisements and content that has been delivered to you, such as whether you have clicked on an advertisement.
+* **Operationally Necessary.** We may use Technologies that are necessary to the operation of our Site, Services, applications, and tools. This includes technologies that allow you access to our Site, Services, applications, and tools; that are required to identify irregular Site behavior, prevent fraudulent activity and improve security; or that allow you to make use of our functions such as shopping-carts, saved search, or similar functions;
+* **Performance Related.** We may use cookies, web beacons, or other similar technologies to assess the performance of our Site, Services, applications, and tools, including as part of our analytic practices to help us understand how our visitors use our Sites, determine if you have interacted with our messaging, determine whether you have viewed an item or link, or to improve our Site content, Services, applications, or tools;
+* **Functionality Related.** We may use cookies, web beacons, or other similar technologies that allow us to offer you enhanced functionality when accessing or using our Site, Services, applications, or tools. This may include identifying you when you sign into our Site or keeping track of your specified preferences, interests, or past items viewed so that we may enhance the presentation of content on our Site;
+* **Advertising or Targeting Related.** We may use first-party or third-party cookies and web beacons to deliver content, including advertisements relevant to your interests, on our Site or on Third Party sites. This includes using technologies to understand the usefulness to you of the advertisements and content that has been delivered to you, such as whether you have clicked on an advertisement.
 
 **Your Options:** Most browsers are initially set up to accept cookies and tracking pixels. You can reset your browser to refuse all cookies or to indicate when a cookie is being set. Instructions to remove persistent cookies can be found through outside resources. Mobile devices may contain settings that allow you to disable tracking, analytics and/or location data. Be aware, however, that if you choose to disable cookies or opt out of tracking or disengage similar features on your mobile device, some areas of the Services may not be optimized for your use, you may not be able to access any or all of the functionality of the Services, and your experience using the Services will be limited.
 
@@ -160,32 +160,32 @@ Except with respect to biometric data [as noted above,](#biometric) we may retai
 
 **To Provide Products, Services, or Information Requested.** Mix may use information about you to fulfill requests for products, Services, or information, including information about potential or future Services, including to:
 
-*   • Generally manage Individual information and accounts;
-*   • Respond to questions, comments, and other requests;
-*   • Provide access to certain areas, functionalities, and features of Mix’s Services;
-*   • Contact you to answer requests for customer support or technical support.
+* • Generally manage Individual information and accounts;
+* • Respond to questions, comments, and other requests;
+* • Provide access to certain areas, functionalities, and features of Mix’s Services;
+* • Contact you to answer requests for customer support or technical support.
 
 **Administrative Purposes.** Mix may use Personal Information about you for its administrative purposes, including to:
 
-*   • Measure interest in Mix’s Services;
-*   • Develop new products and Services;
-*   • Ensure internal quality control;
-*   • Verify Individual identity;
-*   • Communicate about Individual accounts and activities on Mix’s Services and systems, and, in Mix’s discretion, changes to any of our policies;
-*   • Send email to the email address you provide to us to verify your account and for informational and operational purposes, such as account management, customer service, or system maintenance;
-*   • Process payment for products or services purchased;
-*   • Process applications and transactions;
-*   • Prevent potentially prohibited or illegal activities;
-*   • Enforce our Terms.
+* • Measure interest in Mix’s Services;
+* • Develop new products and Services;
+* • Ensure internal quality control;
+* • Verify Individual identity;
+* • Communicate about Individual accounts and activities on Mix’s Services and systems, and, in Mix’s discretion, changes to any of our policies;
+* • Send email to the email address you provide to us to verify your account and for informational and operational purposes, such as account management, customer service, or system maintenance;
+* • Process payment for products or services purchased;
+* • Process applications and transactions;
+* • Prevent potentially prohibited or illegal activities;
+* • Enforce our Terms.
 
 **Marketing.** Mix may use Personal Information to provide you with materials about offers, products, and Services that may be of interest, including new content or Services. Mix may provide you with these materials by or email, as permitted by applicable law. Such uses include:
 
-*   • To tailor content, advertisements, and offers;
-*   • To notify you about offers, products, and services that may be of interest to you;
-*   • To provide Services to you and our sponsors;
-*   • For other purposes disclosed at the time that Individuals provide Personal Information; or
-*   • Otherwise with your consent.
-*   • You may contact us at any time to opt-out of the use of your Personal Information for marketing purposes, as further described in “How do I Opt Out?” section below.
+* • To tailor content, advertisements, and offers;
+* • To notify you about offers, products, and services that may be of interest to you;
+* • To provide Services to you and our sponsors;
+* • For other purposes disclosed at the time that Individuals provide Personal Information; or
+* • Otherwise with your consent.
+* • You may contact us at any time to opt-out of the use of your Personal Information for marketing purposes, as further described in “How do I Opt Out?” section below.
 
 **Research and Development.** Mix may use Personal Information to create non-identifiable information that we may use alone or in the aggregate with information obtained from other sources, in order to help us to optimally deliver our existing products and Services or develop new products and Services. We may engage Third-Party service providers to conduct surveys on our behalf, in which case, if you elect to participate in a survey, we may provide our service providers with your Personal Information for purposes of conducting the survey. All survey responses are voluntary, and the information collected will be used for research and reporting purposes to help us better serve Individuals by learning more about their needs and the quality of the products and services we provide. The survey responses may be utilized to determine the effectiveness of our Services, various types of communications, advertising campaigns, and/or promotional activities. If an Individual participates in a survey, the information given will be used along with that of other study participants. We may share anonymous Individual and aggregate data for research and analysis purposes.
 
@@ -263,13 +263,13 @@ This Supplemental California Privacy Notice only applies to our processing of Pe
 
 | **Category of Personal Information Collected by Mix** | **Category of Third Parties Information is Disclosed to for a Business Purpose** |
 | --- | --- |
-| **Identifiers**<br><br>A real name, alias, Internet Protocol address, email address, account name, or other similar identifiers. | *   • Advertising networks<br>*   • Internet service providers<br>*   • Data analytics providers<br>*   • Operating systems and platforms<br>*   • Social networks<br>*   • Service providers |
-| **Personal information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e))**<br><br>A name | *   • Advertising networks<br>*   • Internet service providers<br>*   • Data analytics providers<br>*   • Operating systems and platforms<br>*   • Social networks<br>*   • Service providers |
-| **Protected classification characteristics under California or federal law**<br><br>Age (40 years or older) | *   • Advertising networks<br>*   • Internet service providers<br>*   • Data analytics providers<br>*   • Operating systems and platforms<br>*   • Social networks<br>*   • Service providers |
-| **Biometric information**<br><br>Imagery of the face from which an identifier template such as a faceprint can be extracted. | *   • Advertising networks<br>*   • Internet service providers<br>*   • Data analytics providers<br>*   • Operating systems and platforms<br>*   • Social networks<br>*   • Service providers |
-| **Internet or other electronic network activity**<br><br>Browsing history, search history, information on a consumer's interaction with an internet website, application, or advertisement. | *   • Advertising networks<br>*   • Internet service providers<br>*   • Data analytics providers<br>*   • Operating systems and platforms<br>*   • Social networks<br>*   • Service providers |
-| **Geolocation data**<br><br>Physical location or movements. | *   • Advertising networks<br>*   • Internet service providers<br>*   • Data analytics providers<br>*   • Operating systems and platforms<br>*   • Social networks<br>*   • Service providers |
-| **Inferences drawn from other personal information to create a profile about a consumer**<br><br>Profile reflecting a consumer's preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes. | *   • Advertising networks<br>*   • Internet service providers<br>*   • Data analytics providers<br>*   • Operating systems and platforms<br>*   • Social networks<br>*   • Service providers |
+| **Identifiers**<br><br>A real name, alias, Internet Protocol address, email address, account name, or other similar identifiers. | * • Advertising networks<br>* • Internet service providers<br>* • Data analytics providers<br>* • Operating systems and platforms<br>* • Social networks<br>* • Service providers |
+| **Personal information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e))**<br><br>A name | * • Advertising networks<br>* • Internet service providers<br>* • Data analytics providers<br>* • Operating systems and platforms<br>* • Social networks<br>* • Service providers |
+| **Protected classification characteristics under California or federal law**<br><br>Age (40 years or older) | * • Advertising networks<br>* • Internet service providers<br>* • Data analytics providers<br>* • Operating systems and platforms<br>* • Social networks<br>* • Service providers |
+| **Biometric information**<br><br>Imagery of the face from which an identifier template such as a faceprint can be extracted. | * • Advertising networks<br>* • Internet service providers<br>* • Data analytics providers<br>* • Operating systems and platforms<br>* • Social networks<br>* • Service providers |
+| **Internet or other electronic network activity**<br><br>Browsing history, search history, information on a consumer's interaction with an internet website, application, or advertisement. | * • Advertising networks<br>* • Internet service providers<br>* • Data analytics providers<br>* • Operating systems and platforms<br>* • Social networks<br>* • Service providers |
+| **Geolocation data**<br><br>Physical location or movements. | * • Advertising networks<br>* • Internet service providers<br>* • Data analytics providers<br>* • Operating systems and platforms<br>* • Social networks<br>* • Service providers |
+| **Inferences drawn from other personal information to create a profile about a consumer**<br><br>Profile reflecting a consumer's preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes. | * • Advertising networks<br>* • Internet service providers<br>* • Data analytics providers<br>* • Operating systems and platforms<br>* • Social networks<br>* • Service providers |
 
 The categories of sources from which we collect Personal Information and our business and commercial purposes for using personal information are set forth above.
 
@@ -329,10 +329,10 @@ In the course of visiting our website, using our mobile applications or browser 
 
 We use Technologies such as Cookies, Pixel Tags, Web Beacons, that are essentially small data files placed on your computer, tablet, mobile phone, or other devices (referred to collectively as a "device") that allow us to record certain pieces of information whenever you visit or interact with our Sites, Services, applications, messaging, and tools, and to recognize you across devices. These Technologies may be
 
-*   • Operationally Necessary. We may use Technologies that are necessary to the operation of our Site, Services, applications, and tools. This includes technologies that allow you access to our Site, Services, applications, and tools; that are required to identify irregular Site behavior, prevent fraudulent activity and improve security; or that allow you to make use of our functions such as shopping-carts, saved search, or similar functions. The legal basis is Article 6 sec. 1 sent. 1 lit. b GDPR ("performance of a contract").
-*   • Performance Related. We may use cookies, web beacons, or other similar technologies to assess the performance of our Site, Services, applications, and tools, including as part of our analytic practices to help us understand how our visitors use our Sites, determine if you have interacted with our messaging, determine whether you have viewed an item or link, or to improve our Site content, Services, applications, or tools. We have a legitimate interest to evaluate the effectiveness of our Services. The legal basis for this processing activity is Article 6 sec. 1 sent. 1 lit. f GDPR ("legitimate interest"). These cookies include: "branch\_session\_first", "iterate\_hq"
-*   • Functionality Related. We may use cookies, web beacons, or other similar technologies that allow us to offer you enhanced functionality when accessing or using our Site, Services, applications, or tools. This may include identifying you when you sign into our Site or keeping track of your specified preferences, interests, or past items viewed so that we may enhance the presentation of content on our Site. We have a legitimate interest to enhance the presentation of content on our Site. The legal basis for this processing activity is Article 6 sec. 1 sent. 1 lit. f ("legitimate interest") GDPR. These cookies include: "AWSALB", "\_csrf", "token", "usr\_sess", "user\_identified", "reported\_url\_ids"
-*   • Advertising or Targeting Related. We may use first-party or third-party cookies and web beacons to deliver content, including advertisements relevant to your interests, on our Site or on Third Party sites. This includes using technologies to understand the usefulness to you of the advertisements and content that has been delivered to you, such as whether you have clicked on an advertisement. This processing is based on Art. 6 sec. 1 sent. 1 lit. f DSGVO. We have a legitimate interest in analyzing user behavior in order to optimize our advertising. These cookies include: "ajs\_anonymous\_id", "ajs\_group\_id", "ajs\_user\_id", "\_ga", "\_gat", "\_fbp", "intercom"
+* • Operationally Necessary. We may use Technologies that are necessary to the operation of our Site, Services, applications, and tools. This includes technologies that allow you access to our Site, Services, applications, and tools; that are required to identify irregular Site behavior, prevent fraudulent activity and improve security; or that allow you to make use of our functions such as shopping-carts, saved search, or similar functions. The legal basis is Article 6 sec. 1 sent. 1 lit. b GDPR ("performance of a contract").
+* • Performance Related. We may use cookies, web beacons, or other similar technologies to assess the performance of our Site, Services, applications, and tools, including as part of our analytic practices to help us understand how our visitors use our Sites, determine if you have interacted with our messaging, determine whether you have viewed an item or link, or to improve our Site content, Services, applications, or tools. We have a legitimate interest to evaluate the effectiveness of our Services. The legal basis for this processing activity is Article 6 sec. 1 sent. 1 lit. f GDPR ("legitimate interest"). These cookies include: "branch\_session\_first", "iterate\_hq"
+* • Functionality Related. We may use cookies, web beacons, or other similar technologies that allow us to offer you enhanced functionality when accessing or using our Site, Services, applications, or tools. This may include identifying you when you sign into our Site or keeping track of your specified preferences, interests, or past items viewed so that we may enhance the presentation of content on our Site. We have a legitimate interest to enhance the presentation of content on our Site. The legal basis for this processing activity is Article 6 sec. 1 sent. 1 lit. f ("legitimate interest") GDPR. These cookies include: "AWSALB", "\_csrf", "token", "usr\_sess", "user\_identified", "reported\_url\_ids"
+* • Advertising or Targeting Related. We may use first-party or third-party cookies and web beacons to deliver content, including advertisements relevant to your interests, on our Site or on Third Party sites. This includes using technologies to understand the usefulness to you of the advertisements and content that has been delivered to you, such as whether you have clicked on an advertisement. This processing is based on Art. 6 sec. 1 sent. 1 lit. f DSGVO. We have a legitimate interest in analyzing user behavior in order to optimize our advertising. These cookies include: "ajs\_anonymous\_id", "ajs\_group\_id", "ajs\_user\_id", "\_ga", "\_gat", "\_fbp", "intercom"
 
 **Social Media Widgets.** Our Site includes social media features such as the Facebook “Like” button and LinkedIn (that might include widgets such as the share this button or other interactive mini-programs). These features may collect your IP address, which page you are visiting on our Site, and may set a cookie to enable the feature to function properly. These social media features are either hosted by a Third Party or hosted directly on our Site.
 
@@ -360,12 +360,12 @@ The legal basis is Article 6 sec. 1 sent. 1 lit. f ("legitimate interest") GDPR.
 
 **Your rights.** If you are a user based in the European Union, you may be entitled to exercise some or all of the following rights:
 
-*   • Require (i) information whether your personal data is retained and (ii) access to your personal data retained.
-*   • Request rectification, removal or restriction of your personal data, e.g. because (i) it is incomplete or inaccurate, (ii) it is no longer needed for the purposes for which it was collected, or (iii) the consent on which the processing was based has been withdrawn.
-*   • Refuse to provide and – without impact to data processing activities that have taken place before such withdrawal – withdraw your consent to processing of your personal data at any time.
-*   • **Object, on grounds relating to your particular situation, to processing of your personal data,** **in case such processing is based on our or a third party’s legitimate interests or object to the** **use of your personal data for direct marketing at any time.**
-*   • Take legal actions in relation to any potential breach of your rights regarding the processing of your personal data, as well as to lodge complaints before the competent data protection regulators.
-*   • Require (i) to receive the personal data concerning you, which you have provided to us, in a structured, commonly used and machine-readable format and (ii) to transmit those data to another controller without hindrance from our side. Where technically feasible you shall have the right to have the personal data transmitted directly from us to another controller.
+* • Require (i) information whether your personal data is retained and (ii) access to your personal data retained.
+* • Request rectification, removal or restriction of your personal data, e.g. because (i) it is incomplete or inaccurate, (ii) it is no longer needed for the purposes for which it was collected, or (iii) the consent on which the processing was based has been withdrawn.
+* • Refuse to provide and – without impact to data processing activities that have taken place before such withdrawal – withdraw your consent to processing of your personal data at any time.
+* • **Object, on grounds relating to your particular situation, to processing of your personal data,** **in case such processing is based on our or a third party’s legitimate interests or object to the** **use of your personal data for direct marketing at any time.**
+* • Take legal actions in relation to any potential breach of your rights regarding the processing of your personal data, as well as to lodge complaints before the competent data protection regulators.
+* • Require (i) to receive the personal data concerning you, which you have provided to us, in a structured, commonly used and machine-readable format and (ii) to transmit those data to another controller without hindrance from our side. Where technically feasible you shall have the right to have the personal data transmitted directly from us to another controller.
 
 * * *
 
