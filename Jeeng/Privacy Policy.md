@@ -35,22 +35,22 @@ Jeeng also collects data relating to employment candidates. This includes CVs an
 
 Jeeng will use Personal Data to provide and improve the Services and to meet our contractual, ethical and legal obligations, including for example:
 
-*   To enable us to meet our legal, contractual, ethical and business obligations as an employer and a potential employer for our employees and job applicants;
-*   Carrying out our obligations arising from any contracts entered into between you or your employer or organization and Jeeng and/or any contracts entered into with Jeeng and to provide you with the information and services that you request from Jeeng;
-*   Administering your account with Jeeng including to identify and authenticate you.
-*   Verifying and carrying out financial transactions in relation to payments you make in connection with the Services;
-*   To provide and operate the Services;
-*   To notify you about changes to the Services;
-*   Contacting you for the purpose of providing you with technical assistance and other related information about the Services;
-*   Replying to your queries, troubleshooting problems, detecting and protecting against error, fraud or other criminal activity;
-*   To send you updates and notices, to provide you with information relating to the Services, and to provide you with further marketing and advertising material. At any time, you may opt out of the mailing lists by changing your preferences in your personal account.
-*   Soliciting feedback in connection with your use of the Services;
-*   Tracking use of the Services to enable us to optimize them;
-*   To enforce the Website’s Terms of Use;
-*   Compliance and audit purposes, such as meeting our reporting obligations in our various jurisdictions, and for crime prevention and prosecution in so far as it relates to our staff, customers, facilities etc.;
-*   If necessary, we will use personal data to enforce our terms, policies and legal agreements and rights, to comply with court orders and warrants and assist law enforcement agencies as required by law, to collect debts, to prevent fraud, infringements, identity thefts and any other service misuse, and to take any action in any legal dispute and proceeding;
-*   For security purposes;
-*   To detect and prevent damage to Jeeng, its employees and third parties.
+* To enable us to meet our legal, contractual, ethical and business obligations as an employer and a potential employer for our employees and job applicants;
+* Carrying out our obligations arising from any contracts entered into between you or your employer or organization and Jeeng and/or any contracts entered into with Jeeng and to provide you with the information and services that you request from Jeeng;
+* Administering your account with Jeeng including to identify and authenticate you.
+* Verifying and carrying out financial transactions in relation to payments you make in connection with the Services;
+* To provide and operate the Services;
+* To notify you about changes to the Services;
+* Contacting you for the purpose of providing you with technical assistance and other related information about the Services;
+* Replying to your queries, troubleshooting problems, detecting and protecting against error, fraud or other criminal activity;
+* To send you updates and notices, to provide you with information relating to the Services, and to provide you with further marketing and advertising material. At any time, you may opt out of the mailing lists by changing your preferences in your personal account.
+* Soliciting feedback in connection with your use of the Services;
+* Tracking use of the Services to enable us to optimize them;
+* To enforce the Website’s Terms of Use;
+* Compliance and audit purposes, such as meeting our reporting obligations in our various jurisdictions, and for crime prevention and prosecution in so far as it relates to our staff, customers, facilities etc.;
+* If necessary, we will use personal data to enforce our terms, policies and legal agreements and rights, to comply with court orders and warrants and assist law enforcement agencies as required by law, to collect debts, to prevent fraud, infringements, identity thefts and any other service misuse, and to take any action in any legal dispute and proceeding;
+* For security purposes;
+* To detect and prevent damage to Jeeng, its employees and third parties.
 
 ### 3\. HOW WE USE AGGREGATED INFORMATION?
 
@@ -68,21 +68,21 @@ Third Parties: We transfer personal data to third parties in a variety of circum
 
 We periodically add and remove third party providers. At present, third-party providers to whom we transfer personal data include also the following:
 
-*   Website analytics;
-*   Document management and sharing services;
-*   Customer ticketing and support;
-*   On-site and cloud-based database services;
-*   Vendor and customer Interface;
-*   Payroll and pension management systems and providers, and other HR management software;
-*   Time and attendance software;
-*   CRM software;
-*   ERP software;
-*   Project Management system;
-*   Web Virtual Conferencing and meeting room platforms;
-*   Call center systems;
-*   Customer service providers;
-*   Recruiting and applicant management software and partners;
-*   Our lawyers, accountants, and other standard business service providers, software and partners.
+* Website analytics;
+* Document management and sharing services;
+* Customer ticketing and support;
+* On-site and cloud-based database services;
+* Vendor and customer Interface;
+* Payroll and pension management systems and providers, and other HR management software;
+* Time and attendance software;
+* CRM software;
+* ERP software;
+* Project Management system;
+* Web Virtual Conferencing and meeting room platforms;
+* Call center systems;
+* Customer service providers;
+* Recruiting and applicant management software and partners;
+* Our lawyers, accountants, and other standard business service providers, software and partners.
 
 In addition, we may disclose your personal data to third parties: if some or all of our companies or assets are acquired by a third party including by way of a merger, share acquisition, asset purchase or any similar transaction, in which case personal data may be one of the transferred assets. Likewise, we may transfer personal data to third parties if we are under a duty to disclose or share your personal data in order to comply with any legal or audit or compliance obligation, in the course of any legal or regulatory proceeding or investigation, or in order to enforce or apply our terms and other agreements with you or with a third party; or to assert or protect the rights, property, or safety of Jeeng, our customers, or others. This includes also exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction and to prevent cybercrime.
 
@@ -96,18 +96,18 @@ We keep Personal Data in servers which will be owned or controlled by Jeeng in o
 
 Personal Data may be transferred to, and stored and used at, a destination outside the European Economic Area (EEA) that may not be subject to data protection laws deemed adequate by the EU. Where your Data is transferred outside of the EEA, we will take all steps reasonably necessary to ensure that your Data is subject to appropriate safeguards, and that it is treated securely and in accordance with this privacy policy and applicable law. Jeeng transfers data from its various locations and jurisdictions to other jurisdictions as follows:
 
-*   to Israel. PowerInbox Ltd. is based in Israel. Israel is considered by the European Commission to offer an adequate level of protection for the personal information of EU Member State residents; we may transfer data to other countries with an adequacy ruling too; and
-*   to the United States of America and additional non-EU locations. Transfer to the US and elsewhere is done subject to Standard Contractual Clauses approved by the EU Commission, or some other mechanism valid under GDPR Chapter V; and within / to the EU.
+* to Israel. PowerInbox Ltd. is based in Israel. Israel is considered by the European Commission to offer an adequate level of protection for the personal information of EU Member State residents; we may transfer data to other countries with an adequacy ruling too; and
+* to the United States of America and additional non-EU locations. Transfer to the US and elsewhere is done subject to Standard Contractual Clauses approved by the EU Commission, or some other mechanism valid under GDPR Chapter V; and within / to the EU.
 
 We may transfer your personal data outside of the EEA, in order to:
 
-*   Store or backup the information;
-*   Enable us to provide you with the Services and fulfill our contract with you;
-*   Fulfill any legal, audit, ethical or compliance obligations which require us to make that transfer;
-*   Facilitate the operation of our group businesses, where it is in our legitimate interests and we have concluded these are not overridden by your rights;
-*   Serve our customers across multiple jurisdictions;
-*   Operate parent company, subsidiaries and affiliates in an efficient and optimal manner;
-*   Detect and prevent damage to Jeeng, its employees and third parties, and in accordance with the purposes detailed in part 2 above.
+* Store or backup the information;
+* Enable us to provide you with the Services and fulfill our contract with you;
+* Fulfill any legal, audit, ethical or compliance obligations which require us to make that transfer;
+* Facilitate the operation of our group businesses, where it is in our legitimate interests and we have concluded these are not overridden by your rights;
+* Serve our customers across multiple jurisdictions;
+* Operate parent company, subsidiaries and affiliates in an efficient and optimal manner;
+* Detect and prevent damage to Jeeng, its employees and third parties, and in accordance with the purposes detailed in part 2 above.
 
 ### 7\. DATA RETENTION
 
@@ -127,10 +127,10 @@ Most browsers will allow you to erase cookies from your computer’s hard drive,
 
 How to disable cookies: the effect of disabling cookies depends on which cookies you disable but, in general, the website and some services delivered through it may not operate properly, may not recognize your device, may not remember your preferences and so on, if cookies are disabled or removed. However, allowing or disabling cookies is your choice and in your control. If you want to disable cookies on our site, you need to change your browser settings to reject cookies. How you can do this will depend on the browser you use. Further details on how to disable cookies can be found here:
 
-*   Internet Explorer: [http://windows.microsoft.com/en-GB/internet-explorer/delete-manage-cookies](http://windows.microsoft.com/en-GB/internet-explorer/delete-manage-cookies)  
+* Internet Explorer: [http://windows.microsoft.com/en-GB/internet-explorer/delete-manage-cookies](http://windows.microsoft.com/en-GB/internet-explorer/delete-manage-cookies)  
     Google Chrome: [https://support.google.com/chrome/answer/95647?hl=en](https://support.google.com/chrome/answer/95647?hl=en)
-*   Firefox: [https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)
-*   Safari: [http://help.apple.com/safari/mac/8.0/#/sfri11471](http://help.apple.com/safari/mac/8.0/#/sfri11471)
+* Firefox: [https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)
+* Safari: [http://help.apple.com/safari/mac/8.0/#/sfri11471](http://help.apple.com/safari/mac/8.0/#/sfri11471)
 
 Our websites may, from time to time, contain links to external sites. We are not responsible for the operation, privacy policies and practices or the content of such sites.
 
@@ -158,11 +158,11 @@ If you are a California resident, California Civil Code section 1798.83 permits 
 
 Pursuant to California Civil Code sections 1798.110 and 1798.115, you have the right to request disclosure from Jeeng of the following:
 
-1.  The categories of personal information Jeeng has collected about you.
-2.  The categories of sources from which the personal information is collected.
-3.  The business or commercial purpose for collecting personal information.
-4.  The categories of third parties with whom the business shares personal information.
-5.  The specific pieces of personal information Jeeng has collected about you.
+1. The categories of personal information Jeeng has collected about you.
+2. The categories of sources from which the personal information is collected.
+3. The business or commercial purpose for collecting personal information.
+4. The categories of third parties with whom the business shares personal information.
+5. The specific pieces of personal information Jeeng has collected about you.
 
 To make any such requests, please contact us at: dpo@powerinbox.com.
 
@@ -170,10 +170,10 @@ Jeeng will disclose and deliver the required information to a consumer free of c
 
 Pursuant to California Civil Code section 1798.125, Jeeng shall not discriminate against a consumer because the consumer exercised any of the consumer’s rights, including, but not limited to, by:
 
-1.  Denying goods or services to the consumer;
-2.  Charging different prices or rates for goods or services, including through the use of discounts or other benefits or imposing penalties;
-3.  Providing a different level or quality of goods or services to the consumer;
-4.  Suggesting that the consumer will receive a different price or rate for goods or services or a different level or quality of goods or services.
+1. Denying goods or services to the consumer;
+2. Charging different prices or rates for goods or services, including through the use of discounts or other benefits or imposing penalties;
+3. Providing a different level or quality of goods or services to the consumer;
+4. Suggesting that the consumer will receive a different price or rate for goods or services or a different level or quality of goods or services.
 
 ### 13\. GENERAL
 
