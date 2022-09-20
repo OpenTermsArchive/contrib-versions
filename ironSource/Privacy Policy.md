@@ -18,8 +18,8 @@ Tapjoy’s privacy policy – [https://dev.tapjoy.com/en/legal/Privacy-Policy](h
 
 The Sites are accessible for individuals around the world. Accordingly, throughout the document, we try to harmonize our approach and the language of the privacy policy as much as possible. However, sometimes we refer to specific laws that require further disclosures. These disclosures cover laws and regulations applicable to the following regions:
 
-1.  Individuals who we deem to be located in the European Economic Area, United Kingdom, or Switzerland – With respect to the collection and processing of their personal data, as defined by the General Data Protection Regulation (“GDPR”), and the UK Data Protection Act.
-2.  Individuals who we deem to be located in California – With respect to the collection and processing of their personal information, as defined by the California Consumer Privacy Act (“CCPA”).
+1. Individuals who we deem to be located in the European Economic Area, United Kingdom, or Switzerland – With respect to the collection and processing of their personal data, as defined by the General Data Protection Regulation (“GDPR”), and the UK Data Protection Act.
+2. Individuals who we deem to be located in California – With respect to the collection and processing of their personal information, as defined by the California Consumer Privacy Act (“CCPA”).
 
 For purposes of the CCPA, this Privacy Policy serves as both the Privacy Policy and Notice at Collection of Personal Information.
 
@@ -29,22 +29,22 @@ Information We Collect, and Purposes of Processing
 
 We collect the following types of information from Users:
 
-1.  Information collected automatically from Users who are visiting the Sites (“Site Information”):
+1. Information collected automatically from Users who are visiting the Sites (“Site Information”):
 
-*   Technical Information – Technical information about your browser and device is automatically collected when you visit the Sites, or the Dashboard apps. Such information consists of the device’s IP address, device ID, the type and version of browser used to access the Sites, operating system, language of the browser and operating system, and type of device.
-*   Interaction Information – Information about your interactions with the Sites or Dashboard apps (e.g. whether you clicked on a specific link, where you clicked, time on Sites, etc.).
+* Technical Information – Technical information about your browser and device is automatically collected when you visit the Sites, or the Dashboard apps. Such information consists of the device’s IP address, device ID, the type and version of browser used to access the Sites, operating system, language of the browser and operating system, and type of device.
+* Interaction Information – Information about your interactions with the Sites or Dashboard apps (e.g. whether you clicked on a specific link, where you clicked, time on Sites, etc.).
 
-3.  Information you voluntarily provide us:
+3. Information you voluntarily provide us:
 
-*   Registration Information – When you register to our services, you will be asked to provide your email address, password, billing information, details about your apps, and payment details.
-*   Job Application Information – When you choose to apply for a job at ironSource via the Sites, you will be requested to provide us with your full name, email address, phone number, link to your Linkedin page, link to your website, and your CV.
-*   Newsletter Information – If you subscribe to our newsletter, you will be requested to provide your email address.
-*   Event Information – If you choose to register to an event we host, you will be requested to provide us with your full name, email address, phone number, job title, current company, and such other information necessary for attending the event.
-*   Communication Information – If you choose to communicate with us via an online form on the Sites, email, or automated chat service (‘chat bot’), you may provide us with information such as your name, and your email address, and any other information you choose to share with us.
+* Registration Information – When you register to our services, you will be asked to provide your email address, password, billing information, details about your apps, and payment details.
+* Job Application Information – When you choose to apply for a job at ironSource via the Sites, you will be requested to provide us with your full name, email address, phone number, link to your Linkedin page, link to your website, and your CV.
+* Newsletter Information – If you subscribe to our newsletter, you will be requested to provide your email address.
+* Event Information – If you choose to register to an event we host, you will be requested to provide us with your full name, email address, phone number, job title, current company, and such other information necessary for attending the event.
+* Communication Information – If you choose to communicate with us via an online form on the Sites, email, or automated chat service (‘chat bot’), you may provide us with information such as your name, and your email address, and any other information you choose to share with us.
 
 What are the Purposes of the Collection of Information?
 
-1.  We use the information we collect for the following purposes:
+1. We use the information we collect for the following purposes:
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
@@ -74,8 +74,8 @@ When you access or use the Sites, we may use industry-wide technologies such as 
 
 Information to Individuals Located in the European Economic Area, Switzerland, and the United Kingdom
 
-1.  International Transfers – We store personal data on our Amazon Web Services servers in the United States, and on the servers of our processors, which may be located outside of the European Union, or the United Kingdom. We will transfer personal data countries which are recognized as providing an adequate level of legal protection or where we can be satisfied that alternative arrangement are in place to protect your privacy rights.
-2.  Your Rights – Data subjects have the right to request us to access, rectify or erase personal data that we process, or to restrict or object to its processing in accordance with the provisions of the GDPR. A data subject can submit a request for exercising these rights by sending us an email to website-privacy-request@ironsrc.com. Please note that we will process the request subject to verification of the consumer’s identity.
+1. International Transfers – We store personal data on our Amazon Web Services servers in the United States, and on the servers of our processors, which may be located outside of the European Union, or the United Kingdom. We will transfer personal data countries which are recognized as providing an adequate level of legal protection or where we can be satisfied that alternative arrangement are in place to protect your privacy rights.
+2. Your Rights – Data subjects have the right to request us to access, rectify or erase personal data that we process, or to restrict or object to its processing in accordance with the provisions of the GDPR. A data subject can submit a request for exercising these rights by sending us an email to website-privacy-request@ironsrc.com. Please note that we will process the request subject to verification of the consumer’s identity.
 
 A data subject that chooses to withdraw consent can do that by the cookie settings available on the Site.
 
@@ -83,19 +83,19 @@ A data subject also has the right to file a complaint with the relevant supervis
 
 Information to California Residents
 
-1.  The below table summarizes the categories of personal information of California consumers we have collected, disclosed for a business purpose and sold, as well as the purposes for such disclosures or sales and the categories of sources from which we have obtained such personal information in the past 12 months:
-![](/wp-content/uploads/2021/03/privacy-policy-3.png )3.  Recipients of California Personal Information – Although we do not sell personal information for monetary consideration, we do sell personal information, under the definition of “Sale” in the CCPA, subject to the choices with respect to “Sale” of personal information you make on the Site, to the categories of third parties listed below:
+1. The below table summarizes the categories of personal information of California consumers we have collected, disclosed for a business purpose and sold, as well as the purposes for such disclosures or sales and the categories of sources from which we have obtained such personal information in the past 12 months:
+![](/wp-content/uploads/2021/03/privacy-policy-3.png )3. Recipients of California Personal Information – Although we do not sell personal information for monetary consideration, we do sell personal information, under the definition of “Sale” in the CCPA, subject to the choices with respect to “Sale” of personal information you make on the Site, to the categories of third parties listed below:
 
 – Advertising Companies; and
 
 – Analytics Providers.
 
-6.  Consumer Rights – A consumer who is a California resident may exercise the following rights regarding his/her personal information, subject to certain exceptions and limitations:
+6. Consumer Rights – A consumer who is a California resident may exercise the following rights regarding his/her personal information, subject to certain exceptions and limitations:
 
-*   The right to know the categories and specific pieces of personal information we collect, use, disclose, and sell about the consumer, the categories of sources from which we collected the consumer’s personal information, our purposes for collecting or selling the consumer’s personal information, the categories of personal information that we have either sold or disclosed for a business purpose, and the categories of third parties with which we have shared personal information.
-*   The right to request that we delete the personal information we have collected or maintain about the consumer.
-*   The right to opt out of our sale(s) of the consumer’s personal information. If a consumer opts out of certain types of sales, we will be unable to provide that consumer with the services that rely on such sales.
-*   The right not to receive discriminatory treatment for the exercise of the above privacy rights conferred by the CCPA.
+* The right to know the categories and specific pieces of personal information we collect, use, disclose, and sell about the consumer, the categories of sources from which we collected the consumer’s personal information, our purposes for collecting or selling the consumer’s personal information, the categories of personal information that we have either sold or disclosed for a business purpose, and the categories of third parties with which we have shared personal information.
+* The right to request that we delete the personal information we have collected or maintain about the consumer.
+* The right to opt out of our sale(s) of the consumer’s personal information. If a consumer opts out of certain types of sales, we will be unable to provide that consumer with the services that rely on such sales.
+* The right not to receive discriminatory treatment for the exercise of the above privacy rights conferred by the CCPA.
 
 How to Exercise Consumer Rights
 
