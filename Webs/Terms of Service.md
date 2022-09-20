@@ -11,42 +11,42 @@ This agreement (the "Terms of Service" or "Agreement") sets forth legally bindin
 
 You represent that you are fully able and competent to enter into the terms, conditions, obligations, representations and warranties set forth in these Terms of Service. If you are using or creating a Website or Application on or through the Sites as a representative of a company or legal entity, (i) you represent that you have the authority to enter into this Agreement on behalf of that company or entity, and (ii) you agree that the terms "you" and "your" in this Agreement refers to your company or legal entity.
 
-*   [Eligibility](#eligibilty)
-*   [Password](#password)
-*   [Fees](#fees)
-*   [Website Content Control and User Data](#website_content)
-*   [Your Obligation to Protect User Data](#obligation)
-*   [Proprietary Rights to Content](#proprietary)
-*   [Content Posted](#content_posted)
-*   [Content/Activity Prohibited](#content_activity)
-*   [Anti-SPAM](#antispam)
-*   [Webs Marks; Templates](#webs_marks)
-*   [User Support](#user_support)
-*   [Premium Services](#premium)
-*   [Other Paid Services](#other_paid)
-*   [Payments](#payments)
-*   [Taxes](#taxes)
-*   [Money-Back Guarantee](#money)
-*   [Webs Credits; Credit Shop](#credits)
-*   [Advertising on Websites](#advertising)
-*   [Webs Platform Policies](#platform_policies)
-*   [Copyright Infringement](#copyright)
-*   [Your Website Subdomains](#subdomains)
-*   [Webs Communications](#communications)
-*   [Third Party Content and Interaction;  
+* [Eligibility](#eligibilty)
+* [Password](#password)
+* [Fees](#fees)
+* [Website Content Control and User Data](#website_content)
+* [Your Obligation to Protect User Data](#obligation)
+* [Proprietary Rights to Content](#proprietary)
+* [Content Posted](#content_posted)
+* [Content/Activity Prohibited](#content_activity)
+* [Anti-SPAM](#antispam)
+* [Webs Marks; Templates](#webs_marks)
+* [User Support](#user_support)
+* [Premium Services](#premium)
+* [Other Paid Services](#other_paid)
+* [Payments](#payments)
+* [Taxes](#taxes)
+* [Money-Back Guarantee](#money)
+* [Webs Credits; Credit Shop](#credits)
+* [Advertising on Websites](#advertising)
+* [Webs Platform Policies](#platform_policies)
+* [Copyright Infringement](#copyright)
+* [Your Website Subdomains](#subdomains)
+* [Webs Communications](#communications)
+* [Third Party Content and Interaction;  
     Third Party Sites](#third_party)
-*   [Privacy of Your Information](#privacy_information)
-*   [Indemnity](#indemnity)
-*   [Disclaimer of Warranties](#disclaimer)
-*   [Limitation of Liability](#limitation)
-*   [Changes to Webs Services](#changes_services)
-*   [Amendments](#amendments)
-*   [Term and Termination](#term)
-*   [Effects of Terminating](#effects)
-*   [Survival](#survival)
-*   [Law and Arbitration](#law)
-*   [United States Export Controls](#united)
-*   [General](#general)
+* [Privacy of Your Information](#privacy_information)
+* [Indemnity](#indemnity)
+* [Disclaimer of Warranties](#disclaimer)
+* [Limitation of Liability](#limitation)
+* [Changes to Webs Services](#changes_services)
+* [Amendments](#amendments)
+* [Term and Termination](#term)
+* [Effects of Terminating](#effects)
+* [Survival](#survival)
+* [Law and Arbitration](#law)
+* [United States Export Controls](#united)
+* [General](#general)
 
 ##### 1\. Eligibility
 
@@ -102,24 +102,24 @@ You are solely responsible for the Content that you post on or through any of th
 
 The following is a partial list of the kind of Content and activity that is prohibited on any Website and through the use of the Services. Webs reserves the right, in its sole discretion, to reject, refuse to post or remove any posting (including private messages) by you, or to restrict, suspend, or terminate your access to all or any part of the Services at any time, with or without prior notice, and without liability if we believe you are in violation of this provision. Webs further reserves the right to investigate and take appropriate legal action against anyone who, in our sole discretion, violates this provision, including without limitation, reporting it to, and cooperating fully with, law enforcement authorities. Prohibited Content and activity includes, but is not limited to, Content or activity that in the sole discretion of Webs:
 
-*   may constitute or contribute to a crime or tort;
-*   is illegal, misleading, harmful, malicious, hateful, threatening, bullying, harassing, discriminatory, invasive of personal privacy or publicity rights, humiliating to other people (publicly or otherwise), libelous, pornographic, or that contains nudity or graphic or gratuitous violence;
-*   communicates any information or content that you do not have a right to make available under any law or under contractual or fiduciary relationships, or otherwise infringes or violates someone else's rights;
-*   involves sending or otherwise posting unauthorized commercial communication (such as spam);
-*   engages in unlawful multi-level marketing, such as a pyramid scheme;
-*   solicits login information or accessing an account belonging to someone else;
-*   solicits or posts personal identifying information from other Users, or knowingly collects any information from minors under the age of 13;
-*   obscures the advertisements we serve on your Website;
-*   makes automated use of the system, such as using scripts, bots, spiders or scrapers, to send messages, log into accounts, or collect Users' Content or information;
-*   interferes with, disrupts, impairs or creates an undue burden on the Services or the networks or services connected to the Services;
-*   attempts to impersonate another person or entity, including, but not limited to, a Member or Webs official, to falsely state or otherwise misrepresent your affiliation with a person or entity;
-*   provides false personal information on the Sites, or creates an account for anyone other than yourself without permission;
-*   involves selling or otherwise transferring your account without our prior permission;
-*   creates and maintains a Website that (i) redirects to another web page or (ii) stores or hosts content for remote loading by other web pages;
-*   uploads viruses or other malicious code;
-*   uses the Services to hyperlink to content not permitted on the Sites.
-*   facilitates or encourages any violation of these Terms of Service;
-*   relates to prostitution, escort services, or sex trafficking, all whether legal or not.
+* may constitute or contribute to a crime or tort;
+* is illegal, misleading, harmful, malicious, hateful, threatening, bullying, harassing, discriminatory, invasive of personal privacy or publicity rights, humiliating to other people (publicly or otherwise), libelous, pornographic, or that contains nudity or graphic or gratuitous violence;
+* communicates any information or content that you do not have a right to make available under any law or under contractual or fiduciary relationships, or otherwise infringes or violates someone else's rights;
+* involves sending or otherwise posting unauthorized commercial communication (such as spam);
+* engages in unlawful multi-level marketing, such as a pyramid scheme;
+* solicits login information or accessing an account belonging to someone else;
+* solicits or posts personal identifying information from other Users, or knowingly collects any information from minors under the age of 13;
+* obscures the advertisements we serve on your Website;
+* makes automated use of the system, such as using scripts, bots, spiders or scrapers, to send messages, log into accounts, or collect Users' Content or information;
+* interferes with, disrupts, impairs or creates an undue burden on the Services or the networks or services connected to the Services;
+* attempts to impersonate another person or entity, including, but not limited to, a Member or Webs official, to falsely state or otherwise misrepresent your affiliation with a person or entity;
+* provides false personal information on the Sites, or creates an account for anyone other than yourself without permission;
+* involves selling or otherwise transferring your account without our prior permission;
+* creates and maintains a Website that (i) redirects to another web page or (ii) stores or hosts content for remote loading by other web pages;
+* uploads viruses or other malicious code;
+* uses the Services to hyperlink to content not permitted on the Sites.
+* facilitates or encourages any violation of these Terms of Service;
+* relates to prostitution, escort services, or sex trafficking, all whether legal or not.
 
 ##### 9\. Anti-SPAM
 
@@ -192,23 +192,23 @@ Unless you subscribe to a [Premium Service](https://www.webs.com/plans) (includi
 
 Webs reserves the right to disable or deactivate Member accounts that are inactive for more than 90 days. In the future, we may limit the number of free Websites a Website Creator can create and may impose different bandwidth, storage or other usage restrictions than currently offered. In addition:
 
-*   You may not use profanity or others' trademarks in the name, domain or subdomain of your Website.
-*   In order to run Google AdSense advertisements and/or remove advertisements or promotional content served by us on your Website, you must purchase a [Premium Service](https://www.webs.com/plans).
-*   You may not edit or remove the Webs link at the bottom of your Website unless you purchase a Premium Service.
-*   You may not do anything to remove, hide, or alter the appearance of advertising served on your Website by Webs.
-*   The Webs ID link may not be edited and must be available in the Sign in and Sign up pages of your Website.
-*   The Webs Terms of Service may not be edited and must be available in the Sign Up page of your Website.
+* You may not use profanity or others' trademarks in the name, domain or subdomain of your Website.
+* In order to run Google AdSense advertisements and/or remove advertisements or promotional content served by us on your Website, you must purchase a [Premium Service](https://www.webs.com/plans).
+* You may not edit or remove the Webs link at the bottom of your Website unless you purchase a Premium Service.
+* You may not do anything to remove, hide, or alter the appearance of advertising served on your Website by Webs.
+* The Webs ID link may not be edited and must be available in the Sign in and Sign up pages of your Website.
+* The Webs Terms of Service may not be edited and must be available in the Sign Up page of your Website.
 
 ##### 20\. Copyright Infringement
 
 You may not post, modify, distribute, or reproduce in any way any copyrighted material, trademarks, or other proprietary information belonging to others without obtaining the prior written consent of the owner of such proprietary rights. It is our policy to respond to clear notices of alleged copyright infringement that comply with the Digital Millennium Copyright Act of 1998 ("DMCA"). In addition, we will promptly terminate without notice the Membership privileges of those determined by us to be repeat infringers. If you are a copyright owner and you believe that any content hosted on the Sites infringes your copyrights, then you may submit a notification pursuant to the DMCA by providing our Copyright Agent with the following information in writing:
 
-*   an electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest;
-*   a description of the copyrighted work that you claim has been infringed;
-*   a description of where the material that you claim is infringing is located on our Services, such as by providing us the URLs to the content;
-*   your address, telephone number, and email address;
-*   a written statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law;
-*   a statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf.
+* an electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest;
+* a description of the copyrighted work that you claim has been infringed;
+* a description of where the material that you claim is infringing is located on our Services, such as by providing us the URLs to the content;
+* your address, telephone number, and email address;
+* a written statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law;
+* a statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf.
 
 The fastest way to reach our Copyright Agent for notices of claims of copyright infringement is by submitting this [Automated DMCA form](https://www.webs.com/report-abuse). If you prefer, you can also send a DMCA notice to our Copyright Agent at the following address: Webs, Attention: Copyright Agent, 1100 Wayne Avenue, Suite 801, Silver Spring, MD 20910.
 
@@ -236,11 +236,11 @@ We care about the privacy of our Users. Click here to view our Privacy Policy. Y
 
 You agree to indemnify, defend, and hold harmless Vistaprint Netherlands B.V., its subsidiaries, and affiliates ("Vistaprint"), and their respective officers, agents, co-branders or other partners, employees, and third party Paid Service providers from and against any claim, demand, loss, damage, cost, or liability (including reasonable attorneys' fees) arising out of or relating to
 
-*   any Content you submit, post, transmit, or make available through the Sites;
-*   your use or misuse of the Services;
-*   your connection to the Services;
-*   your breach or alleged breach of this Agreement; or
-*   your violation of any rights (including intellectual property rights) of a third party.
+* any Content you submit, post, transmit, or make available through the Sites;
+* your use or misuse of the Services;
+* your connection to the Services;
+* your breach or alleged breach of this Agreement; or
+* your violation of any rights (including intellectual property rights) of a third party.
 
 Webs reserves the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify us and you agree to cooperate with our defense of these claims. You agree not to settle any matter without the prior written consent of Webs. Webs will use reasonable efforts to notify you of any such claim, action or proceeding upon becoming aware of it.
 
