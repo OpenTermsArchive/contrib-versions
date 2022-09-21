@@ -30,7 +30,7 @@ Lydia works with certified financial partners. Lydia and its Partners are jointl
 
 Lydia and its Partners jointly determine the treatment's purpose and means. The natural persons personal data are transferred to Lydia’s Partners in the only aim to properly perform the contract between the natural person and Lydia.
 
-* The SFPMEI (Société Française du Porte-monnaie Electronique Interbancaire) is an electronic money establishment in charge of the management of payment accounts, the execution of payment operations as well as the issuance of L-card (Visa). The SFPMEI privacy policy is accessible here (in French).
+* OKALI is an electronic money establishment in charge of the management of payment accounts, the execution of payment operations as well as the issuance of L-card (Visa). OKALI privacy policy is accessible here (in French).
 * Budget Insight allows Lydia to supply bank accounts aggregation and information services Budget insight Privacy Policy is accessible here. 
 * Treezor issues Lydia IBAN and L-card (Mastercard). Treezor Privacy Policy is accessible here.
 
@@ -143,7 +143,7 @@ Lydia may use Clients’ personal data to:
 
 **6.1 To Lydia's banking partners, suppliers and operational contractors** 
 
-All of Clients’ personal data held by Lydia are protected and kept confidential in accordance with article L.511-33 of the monetary and financial code. Lydia Solutions may share Clients’ personal data with its Principals (SFPMEI, Budget Insight and Treezor) and with its suppliers and operational service providers with whom Lydia is contractually tied, in order to provide certain services and process transactions, under condition that these third parties guarantee a sufficient level of protection of the data shared in compliance with article 561-7 II b of the monetary and financial code and in respect with the GDPR. These partners and service providers only have access to the data that is strictly necessary for the execution of the contracts established with Lydia Solutions.
+All of Clients’ personal data held by Lydia are protected and kept confidential in accordance with article L.511-33 of the monetary and financial code. Lydia Solutions may share Clients’ personal data with its Principals (OKALI, Budget Insight and Treezor) and with its suppliers and operational service providers with whom Lydia is contractually tied, in order to provide certain services and process transactions, under condition that these third parties guarantee a sufficient level of protection of the data shared in compliance with article 561-7 II b of the monetary and financial code and in respect with the GDPR. These partners and service providers only have access to the data that is strictly necessary for the execution of the contracts established with Lydia Solutions.
 
 Lydia may also share its Clients’ personal data to third party service providers or partners, under condition that these data are anonymised beforehand. Anonymising data means removing the following elements: phone number, address, and any other information that could identify the Client or allow him/her to be contacted directly.
 
