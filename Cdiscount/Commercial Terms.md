@@ -243,6 +243,8 @@ Toutefois, CDISCOUNT se réserve le droit de ne pas accepter une commande ou de
 \-          plusieurs éléments graves et concordants feraient peser un soupçon de fraude sur votre commande ;  
 \-          un même instrument de paiement serait utilisé massivement et simultanément par plusieurs utilisateurs et susceptible d’entrainer un dysfonctionnement du site.
 
+CDISCOUNT se réserve également le droit, en raison d’un approvisionnement limité sur un produit, notamment lié à une pénurie de composants/pièces détachées, et pour lutter contre toute manœuvre frauduleuse de spéculation sur ce produit, d’en limiter l’achat à une (1) commande par foyer (ex : consoles de jeux).
+
 **3.4 Suspension/Clôture d'un compte client par CDISCOUNT**  
   
 En cas d'activité anormale d'un client sur le Site constatée par CDISCOUNT sur la base d'indices graves et concordants qui feraient peser un soupçon de fraude sur ledit client, CDISCOUNT se réserve le droit de procéder à la suspension et/ou à la clôture du ou des compte(s) client concerné(s). Dans cette hypothèse, le client recevra un email d'information de la part de CDISCOUNT l'informant de la clôture de son compte client. CDISCOUNT se réserve la faculté d'engager les procédures judiciaires idoines permettant réparation de tout préjudice qu'elle aurait pu subir du fait d'une activité frauduleuse avérée.  
@@ -577,9 +579,13 @@ Le retour des produits se fait sous votre responsabilité et à vos frais.
 Tout dommage subi par les produits à cette occasion est de nature à faire échec à l’exercice de votre droit de rétractation.  
   
 Concernant la commande de Coupons, vous ne pourrez bénéficier du droit de rétractation qu'à condition que votre Coupon n'ait pas été utilisé.  
-**  
   
-Cas particuliers**
+
+Produits vendus en "Pack" : l’exercice du droit de rétractation est uniquement possible sur l’ensemble du pack, tel que décrit sur la fiche du produit, ce incluant tous les produits le composant.
+
+  
+  
+**Cas particuliers**
 
 Pour les produits ne pouvant être retournés par la Poste en raison de leur nature et/ou de leur taille, vous trouverez ci-dessous, conformément à la réglementation en vigueur, **une estimation** des frais de retour depuis la France, auprès d’un transporteur, dont vous devrez vous acquitter afin de nous retourner votre produit.
 
@@ -890,8 +896,8 @@ Pour faire jouer votre Garantie Fabricant, il vous appartient de consulter les m
 
 **IL EST RAPPELÉ QUE LE BÉNÉFICE DE LA GARANTIE FABRICANT NE FAIT PAS OBSTACLE A L’APPLICATION DES DISPOSITIONS LÉGALES RELATIVES a la GARANTIE LÉGALE DE CONFORMITÉ TELLES QUE FIGURANT AUX ARTICLES L217-3 À L217-20 DU CODE DE LA CONSOMMATION ET A LA GARANTIE DES VICES CACHES TELLES QUE FIGURANT AUX ARTICLES 1641 À 1648 DU CODE CIVIL AINSI QU’A L’ARTICLE 2232 DU MÊME CODE  ET REPRODUITES A L’ARTICLE 9.1.**
 
-_Article 10 :  ECO-PARTICIPATIONS ET REPRISE DE VOS DECHETS D’EQUIPEMENT ELECTRIQUES ET ELECTRONIQUES (DEEE) ET REDEVANCE POUR COPIE PRIVEE_
---------------------------------------------------------------------------------------------------------------------------------------------
+_Article 10 :  ECO-PARTICIPATIONS, REPRISE 1 POUR 1 ET REDEVANCE POUR COPIE PRIVEE_
+-----------------------------------------------------------------------------------
 
 **10.1 Les démarches environnementales de Cdiscount Eco-participations**
 
@@ -1754,7 +1760,7 @@ Les conditions générales de précommande applicables sont celles en vigueur su
 **ARTICLE 2 - PAIEMENT DES PRODUITS EN PRECOMMANDE**  
   
   
-Dans le cas où votre commande comprend uniquement un ou plusieurs Produits en Précommande, le montant de votre commande (ou votre premier paiement en cas de paiement en plusieurs fois) sera débité au moment de l’expédition des Produits en Précommande.  
+Dans le cas où votre commande comprend uniquement un ou plusieurs Produits en Précommande, le montant de votre commande (ou votre premier paiement en cas de paiement en plusieurs fois) sera débité au moment de léexpédition des Produits en Précommande.  
 Dans le cas où votre commande comprend plusieurs Produits en Précommande qui sont expédiés à des dates différentes, le montant intégral de votre commande sera débité au moment de l’expédition du premier Produit.  
   
 Dans le cas où votre commande comprend un ou plusieurs Produits en Précommande ainsi que d’autres produits immédiatement disponibles, le montant intégral de votre commande (ou votre premier paiement en cas de paiement en plusieurs fois) sera, pour des raisons techniques, débité au moment de l’expédition des produits immédiatement disponibles.  
