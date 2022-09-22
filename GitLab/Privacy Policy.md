@@ -1,12 +1,12 @@
 1. You are here:
-2. GitLab Privacy Policy
+2. GitLab Privacy Statement
 
 _Last updated: 10 June 2022_
 
 Introduction
 ------------
 
-At GitLab, we take the privacy and security of your information seriously. This privacy policy (“Privacy Policy”) will explain how GitLab B.V. and GitLab, Inc. ("GitLab", "we", "our", "us") handles your personal data. "Personal Data," as used in this Privacy Policy, is information that identifies or can reasonably be linked directly or indirectly to an identifiable person. The privacy practices and standards detailed in this Privacy Policy apply to all data subjects globally, unless specifically noted otherwise. In particular, this Privacy Policy will touch on the following sections:
+At GitLab, we take the privacy and security of your information seriously. This privacy statement (“Privacy Statement”) will explain how GitLab B.V. and GitLab, Inc. ("GitLab", "we", "our", "us") handles your personal data. "Personal Data," as used in this Privacy Statement, is information that identifies or can reasonably be linked directly or indirectly to an identifiable person. The privacy practices and standards detailed in this Privacy Statement apply to all data subjects globally, unless specifically noted otherwise. In particular, this Privacy Statement will touch on the following sections:
 
 * [What Personal Data does GitLab collect about me?](https://about.gitlab.com/privacy/#what-personal-data-does-gitlab-collect-about-me)
     
@@ -25,7 +25,7 @@ At GitLab, we take the privacy and security of your information seriously. This 
 * [Other important privacy information](https://about.gitlab.com/privacy/#other-important-privacy-information)
     
 
-This Privacy Policy applies to the GitLab websites ("Websites"), GitLab.com ("SaaS"), Self-managed ("Self-managed"), and additional software products and services; collectively "Services."
+This Privacy Statement applies to the GitLab websites ("Websites"), GitLab.com ("SaaS"), Self-managed ("Self-managed"), and additional software products and services; collectively "Services."
 
 ### What Personal Data does GitLab collect about me?
 
@@ -71,7 +71,7 @@ _Cookies and Similar Tracking Technologies:_ GitLab uses cookies and similar tec
 
 _Email marketing:_ When we send you emails, they may include technology such as a web beacon, that tells us your device type, email client, and whether you have received and opened an email, or clicked on any links contained in the email.
 
-_Buttons, tools, and content from other companies:_ The Services may include links or buttons to third-party services such as Facebook and Twitter. We may collect information about your use of these features. In addition, when you see or interact with these buttons, tools, or content, some information from your browser may automatically be sent to the other company. Please read that company’s privacy policy for more information.
+_Buttons, tools, and content from other companies:_ The Services may include links or buttons to third-party services such as Facebook and Twitter. We may collect information about your use of these features. In addition, when you see or interact with these buttons, tools, or content, some information from your browser may automatically be sent to the other company. Please read that company’s privacy statement for more information.
 
 #### Information from Third-Parties and Partners
 
@@ -202,9 +202,9 @@ If you are a California resident, please visit the [GitLab California Privacy No
 
 ### Other important privacy information
 
-### Policy Changes
+### Statement Changes
 
-GitLab may change its Privacy Policy from time to time. When we do, we will update the date at the top of this Policy. If we decide to make a significant change to our Privacy Policy, we will post a notice of the update on the homepage of our Website. We may also provide notification via email of any material changes to our Privacy Policy.
+GitLab may change its Privacy Statement from time to time. When we do, we will update the date at the top of this Statement. If we decide to make a significant change to our Privacy Statement, we will post a notice of the update on the homepage of our Website. We may also provide notification via email of any material changes to our Privacy Statement.
 
 ### Contact Us
 
