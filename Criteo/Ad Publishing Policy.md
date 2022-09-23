@@ -71,10 +71,12 @@ Criteo prohibits any content that targets the following characteristics of perso
 * **Police record**
 * **Age (age range is acceptable)**
 
+Criteo prohibits the creation or extension of audiences, or any use of its platform’s features, that would introduce a targeting bias towards groups or populations defined by one or more of the above listed users’ protected characteristics and resulting in an inappropriate prejudice in favor of or against those groups/populations.
+
 You are responsible for ensuring that your content, products or services comply with the applicable laws and regulations.
 
 Click [here](http://www.criteo.com/privacy/) to view the current version of this policy.
 
 Each of Criteo’s advertising partners is responsible for ensuring that its content, products, or services comply with applicable laws and regulations, including applicable data protection and privacy laws and regulations. To learn more about Criteo advertisers’ obligations related to the information of users and collection of consent, please click [here](https://www.criteo.com/criteo-privacy-guidelines-for-clients-and-publisher-partners/).
 
-Last updated: July 2020
+Last updated: September 2022
