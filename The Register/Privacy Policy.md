@@ -1,9 +1,3 @@
-Privacy Policy
-==============
-
-What we do with your data
--------------------------
-
 Last updated: 21st July 2022
 
 The Register ("The Register", "our", "we") is owned and operated by [Situation Publishing Limited](https://situationpublishing.com/) (a company registered in England with registered number 03403653) ("**we**", "**us**", "**our**"). We are the controller of your personal data collected through our website. We are committed to protecting and respecting your privacy.
@@ -297,3 +291,12 @@ The California Consumer Privacy Act ("**CCPA**") provides certain rights for Cal
 If you have any queries regarding this Policy, if you wish to exercise any of your rights set out above or if you think that the Policy has not been followed, please contact us by e-mailing at [readerservices@situationpublishing.com](mailto:readerservices@situationpublishing.com).
 
 **Get our** [Tech Resources](https://whitepapers.theregister.com/)
+
+#### Similar topics
+
+What we do with your data
+-------------------------
+
+#### TIP US OFF
+
+[Send news / corrections](https://www.theregister.com/Profile/contact/)
