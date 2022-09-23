@@ -313,7 +313,7 @@ Vous pouvez utiliser le [formulaire de contact en ligne](https://espace-client.o
 
 ### Offres Professionnelles
 
-Vous pouvez utiliser le formulaire de contact en ligne disponible sur pro.orange.fr > nous contacter et nous l'adresser numériquement ou écrire à Orange Business Service, Agences Entreprises, Gestion des données personnelles, TSA 70007, 82008 Montauban.
+Vous pouvez utiliser le [formulaire de contact en ligne](https://formulaires.services.orange.fr/1770) disponible sur pro.orange.fr > nous contacter et nous l'adresser numériquement ou écrire à Orange Business Service, Agences Entreprises, Gestion des données personnelles, TSA 70007, 82008 Montauban.
 
 ### Prospects
 
