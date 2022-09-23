@@ -869,6 +869,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Gobierno Vasco / Eusko Jaurlaritza - Geo Euskadi Open Data Portal - [https://creativecommons.org/licenses/by/3.0/es/](https://creativecommons.org/licenses/by/3.0/es/)
             
+        * Metrobus of Valencia Link to their license: [https://portaldadesobertes.gva.es/es/avis-legal](https://portaldadesobertes.gva.es/es/avis-legal)
+            
+        * EMT of Valencia Link to their license: [https://smartcity.valencia.es/aviso-legal/](https://smartcity.valencia.es/aviso-legal/)
+            
     40. **Sweden**
         * © 2009 Cartesia GIS AB
             
