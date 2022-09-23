@@ -1,6 +1,3 @@
-Terms and conditions of use
-===========================
-
 Welcome to The Register. The Register is a news organisation owned and operated by Situation Publishing that allows users who have created an account with us (“Members”) to post comments on contributions/articles and to receive newsletters through email subscriptions.
 
 ### 1\. Your acceptance of these Terms
@@ -134,3 +131,9 @@ If the whole or part of any term or provision in these Terms is to any extent he
 These Terms (as amended from time to time) are exclusively governed by and are construed in accordance with the laws of England and Wales whose courts will have exclusive jurisdiction in any dispute or any proceedings arising out of or in connection with these Terms, save that we have the right to commence and pursue proceedings in alternative jurisdictions.
 
 **Get our** [Tech Resources](https://whitepapers.theregister.com/)
+
+#### Similar topics
+
+#### TIP US OFF
+
+[Send news / corrections](https://www.theregister.com/Profile/contact/)
