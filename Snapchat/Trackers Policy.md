@@ -68,16 +68,20 @@ You can also block certain cookies by adjusting your settings on our sites.
 Third-party advertising partners
 --------------------------------
 
-* [Twitter](https://help.twitter.com/rules-and-policies/twitter-cookies)
+* [Bing](https://privacy.microsoft.com/privacystatement)
     
-* [Pinterest](https://policy.pinterest.com/cookies)
+* [Facebook](https://www.facebook.com/policies/cookies/)
     
 * [Google Analytics](https://policies.google.com/technologies/cookies)
     
 * [LinkedIn](https://www.linkedin.com/legal/cookie-policy)
     
-* [Bing](https://privacy.microsoft.com/privacystatement)
-    
 * [Pardot](https://www.salesforce.com/company/privacy)
     
-* [Facebook](https://www.facebook.com/policies/cookies/)
+* [PayPal](https://www.paypal.com/us/webapps/mpp/ua/cookie-full)
+    
+* [Pinterest](https://policy.pinterest.com/cookies)
+    
+* [Reddit](https://www.reddit.com/policies/cookies)
+    
+* [Twitter](https://help.twitter.com/rules-and-policies/twitter-cookies)
