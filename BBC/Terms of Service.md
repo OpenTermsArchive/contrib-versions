@@ -505,7 +505,7 @@ b. Isn't in English (unless we've asked you to comment in another language)
 
 c. Is illegal or defamatory (damaging to someone else’s reputation)
 
-d. Is inappropriate (offensive, off-topic or disruptive)
+d. Is inappropriate (offensive, off-topic, disruptive or spreads false information)
 
 e. Contains personal details
 
@@ -513,7 +513,7 @@ f. Contains spam (unless you're commenting on a story about reconstituted meat)
 
 g. Breaks our election or referendum rules. 
 
-h. Puts children at risk
+h. Puts children or others at risk
 
 i. Infringes anyone’s rights (that includes privacy rights)
 
@@ -523,7 +523,7 @@ k. Promotes a business
 
 l. Identifies someone (unless you have their consent or, if they’re under 16, the consent of their parent or guardian)
 
-m. Is in contempt of court
+m. Disrespects the rules or orders of a court (in contempt of court)
 
 n. Contains links to content that can't be seen easily, may be unsafe (viruses, worms, spyware and Trojans) or automatically launches lots of windows.
 
