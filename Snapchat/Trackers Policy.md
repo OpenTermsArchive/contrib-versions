@@ -19,47 +19,47 @@ You can see which cookies we use on our sites, for what purpose(s), and for how 
 | Performance & Analytics | We use these cookies to collect information about how you use our site, monitor site performance and improve our site performance, our services and your experience.  <br>  <br>For example, we can use these cookies to learn more about which features are the most popular with our users and which ones might need some tweaks. |
 | Marketing | We use these cookies to deliver advertisements, to make them more relevant and meaningful to consumers, and to track the efficiency of our advertising campaigns, both on our services and on other websites or mobile apps. Our [third-party advertising partners](#third-party-advertising-partners) may use these cookies to build a profile of your interests and deliver relevant advertising on other sites. |
 
-Analytics and advertising services
+Analytics and Advertising Services
 ----------------------------------
 
-### Provided by others
+### Provided by Others
 
 We may let other companies use cookies on our services. These companies may collect information about how you use our services over time and combine it with similar information from other services and companies. This information may be used to, among other things, analyse and track data, determine the popularity of certain content and better understand your online activity.
 
 Additionally, some companies, including our [affiliates](https://support.snapchat.com/a/snap-affiliates), may use information collected on our services to prevent fraud or other unauthorised or illegal activity and to measure and optimise the performance of adverts and deliver more relevant adverts on behalf of us or other companies, including on third-party websites and apps. For more information about interest-based adverts and the choices available to you, go [here](https://support.snapchat.com/a/advertising-preferences).
 
-### Provided by us
+### Provided by Us
 
 We may collect information about your activity on third-party services that use cookies provided by us. We use this information to improve our advertising services, including measuring the performance of adverts and showing you more relevant adverts. Visit our [Advertising Preferences](https://support.snapchat.com/a/advertising-preferences) page to learn more about Snapchat advertising and how you can control the information used to select the adverts you see.
 
-Your choices
+Your Choices
 ------------
+
+You may be able to adjust your cookie settings on your browser or device in addition to the settings we make available to you on our sites. See below for more information on each of the options that may be available to you.
+
+### _Browser Settings_
 
 Your browser may provide you with the option to refuse some or all non-essential browser cookies. You may also be able to remove cookies from your browser. For more information about how to manage browser cookies, please follow the instructions provided by your browser.
 
-### _Browser cookies_
+### _Device Identifier Settings_
 
-Your browser may provide you with the option to refuse some or all browser cookies. You may also be able to remove cookies from your browser. For more information about how to manage browser cookies, please follow the instructions provided by your browser.
-
-### _Mobile device identifiers_
-
-Your mobile operating system may let you opt-out from having certain device identifiers used for interest-based advertising. You should refer to the instructions provided by your mobile device’s manufacturer; this information is typically available under the “settings” function of your mobile device.
+Your device operating system may let you opt-out from having certain device identifiers used for interest-based advertising. You should refer to the instructions provided by your mobile device’s manufacturer; this information is typically available under the “settings” function of your mobile device.
 
 And, of course, if your mobile device offers an uninstall process, you can always stop us from collecting information through the app by uninstalling the Snapchat app.
 
-### _Website settings_
+### _Website Settings_
 
-You can also block certain cookies by adjusting your settings on our sites.
+You can also customise which cookies may be set by adjusting your settings on our sites. See the cookie menu on our sites that will allow you to do so:
 
 [Snap.com cookie settings](https://www.snap.com/en-GB/cookie-settings)
 
 [Snapchat.com cookie settings](https://www.snapchat.com/cookie-settings)
 
-[Spectacles.com cookie settings](https://www.spectacles.com/cookie-settings)
+[Spectacles.com cookie Settings](https://www.spectacles.com/cookie-settings)
 
 [Yellowla.com cookie settings](https://www.yellowla.com/cookie-settings)
 
-[Snapfoundation.org cookie settings](https://www.snapfoundation.org/cookie-settings)
+[Snapfoundation.org cookie Settings](https://www.snapfoundation.org/cookie-settings)
 
 [Arcadiacreativestudio.com cookie settings](https://arcadiacreativestudio.com/cookie-settings)
 
