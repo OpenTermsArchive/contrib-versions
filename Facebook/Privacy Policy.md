@@ -273,7 +273,7 @@ Combien de temps conservons-nous vos informations ?
 
 Nous conservons des informations tant que nous en avons besoin pour fournir nos Produits, respecter des obligations légales, ou protéger nos intérêts ou ceux d’autrui. Nous décidons combien de temps nous avons besoin des informations au cas par cas. Voici les éléments que nous prenons en considération au moment de prendre notre décision :
 
-* Si nous avons besoin de fournir nos Produits ou d’en assurer le fonctionnement Par exemple, nous devons conserver certaines de vos informations pour maintenir votre compte. [En savoir plus](https://fr-fr.facebook.com/privacy/policy/?annotations[0]=8.ex.1-IfWeNeedIt).
+* Si nous en avons besoin pour fournir nos Produits ou en assurer le fonctionnement. Par exemple, nous devons conserver certaines de vos informations pour maintenir votre compte. [En savoir plus](https://fr-fr.facebook.com/privacy/policy/?annotations[0]=8.ex.1-IfWeNeedIt).
 * La fonctionnalité pour laquelle nous utilisons les informations et son fonctionnement. Par exemple, les messages envoyés en mode éphémère sur Messenger sont conservés moins longtemps que les messages normaux. [En savoir plus](https://fr-fr.facebook.com/privacy/policy/?annotations[0]=8.story.1-TheFeatureWeUse).
 * Combien de temps nous devons conserver les informations pour satisfaire à certaines obligations légales. [Voir des exemples](https://fr-fr.facebook.com/privacy/policy/?annotations[0]=8.ex.2-HowLongWeNeed).
 * Si nous en avons besoin à d’autres fins légitimes, notamment pour prévenir des dommages, enquêter sur d’éventuelles violations de nos conditions générales ou de nos politiques, promouvoir la sûreté, la sécurité et l’intégrité, ou nous protéger (y compris nos droits, notre propriété ou nos produits)
