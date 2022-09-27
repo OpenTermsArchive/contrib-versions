@@ -732,7 +732,7 @@ Pour les produits directement vendus par Cdiscount (à l’exclusion des produit
   
 Il est rappelé que le consommateur, dans le cadre de la garantie légale de conformité :  
 
-    - bénéficie d’un délai de deux ans à compter de la délivrance du bien pour agir ;  
+    - bénéficie d’un délai de deux ans é compter de la délivrance du bien pour agir ;  
     - peut choisir entre la réparation ou le remplacement du produit, sous réserve des conditions de coût prévues par l’article L. 217-12 du code de la consommation ;  
     - est dispensé de rapporter la preuve de l’existence du défaut : les défauts sont donc présumés exister au moment de la délivrance à moins que cette présomption ne soit incompatible avec la nature du produit ou du défaut invoqué.  
   
@@ -1760,7 +1760,7 @@ Les conditions générales de précommande applicables sont celles en vigueur su
 **ARTICLE 2 - PAIEMENT DES PRODUITS EN PRECOMMANDE**  
   
   
-Dans le cas où votre commande comprend uniquement un ou plusieurs Produits en Précommande, le montant de votre commande (ou votre premier paiement en cas de paiement en plusieurs fois) sera débité au moment de léexpédition des Produits en Précommande.  
+Dans le cas où votre commande comprend uniquement un ou plusieurs Produits en Précommande, le montant de votre commande (ou votre premier paiement en cas de paiement en plusieurs fois) sera débité au moment de l’expédition des Produits en Précommande.  
 Dans le cas où votre commande comprend plusieurs Produits en Précommande qui sont expédiés à des dates différentes, le montant intégral de votre commande sera débité au moment de l’expédition du premier Produit.  
   
 Dans le cas où votre commande comprend un ou plusieurs Produits en Précommande ainsi que d’autres produits immédiatement disponibles, le montant intégral de votre commande (ou votre premier paiement en cas de paiement en plusieurs fois) sera, pour des raisons techniques, débité au moment de l’expédition des produits immédiatement disponibles.  
