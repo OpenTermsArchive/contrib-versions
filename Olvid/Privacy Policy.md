@@ -14,9 +14,7 @@ Olvid’s technology does not require any personal data to operate : no phone nu
 
 **When you use Olvid**, we have no access to any information. Everything is end-to-end encrypted, data and metadata. In particular, it is impossible for us to see what is being exchanged or to know "who is talking to whom".
 
-**Location data**. When using location sharing in Olvid, the application will request the permission to access your location. If you choose to enable continuous location sharing, the application may request the permission to access the location of your device "all the time".
-
-In both cases, this location will never be shared with us and will only be sent to contacts with whom you enable this sharing.
+**Location data**. When using location sharing in an Olvid discussion, the application asks for permission to access your device's location. If you choose to enable continuous location sharing, the app may ask to access the location of your device "all the time". In either cases, this location will never be shared with us and will only be sent to the contacts you enable sharing with in this discussion.
 
 **To delete your data**, simply uninstall the application. That's all. True freedom is also being able to leave whenever you want.
 
