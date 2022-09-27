@@ -1,6 +1,6 @@
 Binance Terms of Use
 
-Last revised: 12 September 2022
+Last revised: 26 September 2022
 
 These Binance Terms of Use is entered into between you (hereinafter referred to as “you” or “your”) and Binance operators (as defined below). By accessing, downloading, using or clicking on “I agree” to accept any Binance Services (as defined below) provided by Binance (as defined below), you agree that you have read, understood and accepted all of the terms and conditions stipulated in these Terms of Use (hereinafter referred to as “these Terms”) as well as our Privacy Policy at [www.binance.com/en/privacy](https://www.binance.com/en/privacy). In addition, when using some features of the Services, you may be subject to specific additional terms and conditions applicable to those features.
 
@@ -357,6 +357,10 @@ On or after the Conversion Inception Date, if you have a balance in your Binance
 D. Exceptions
 
 Binance reserves the right to suspend or terminate the Designated Stablecoin Conversion for any or all Designated Stablecoins at any time without prior notice. Where necessary due to market conditions affecting one or more Designated Stablecoins, Binance may adjust the conversion rate used for the Designated Stablecoin Conversion.
+
+### 14\. Binance OTC
+
+If agreed with Binance, you may be permitted to receive certain over-the-counter (OTC) services with respect to bilateral transactions in Digital Assets, which services shall be subject to the [Binance OTC Terms](https://www.binance.com/en/event/terms-OTC). You agree to be bound by the Binance OTC Terms with respect to all OTC Services provided to you through Agreed Communication Channels (as each term is defined in the Binance OTC Terms).
 
 ### IV. Liabilities
 
