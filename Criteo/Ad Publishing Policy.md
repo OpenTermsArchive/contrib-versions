@@ -7,13 +7,11 @@ Criteo Advertising Guidelines
 
 * * *
 
+Each of Criteo’s advertising partners is responsible for ensuring that its content, products, or services comply with applicable laws and regulations, including applicable data protection and privacy laws and regulations.
+
 Criteo operates through the highest quality network. For this reason, Criteo’s advertiser partners must adhere and comply at all times to these guidelines.
 
-Criteo does not display any content, products, or services listed below.
-
-The below listed topics are not exhaustive and Criteo reserves the right to reject or remove a partner from its network at its sole discretion.
-
-Criteo reserves the right to detail, modify, or update this policy at any time. In that case, Criteo will post such changes
+Criteo does not display any content, products, or services listed below. The below listed topics are not exhaustive and Criteo reserves the right to reject or remove a partner from its network at its sole discretion.
 
 1\. Prohibited Content
 ----------------------
@@ -71,12 +69,15 @@ Criteo prohibits any content that targets the following characteristics of perso
 * **Police record**
 * **Age (age range is acceptable)**
 
+Click [here](http://www.criteo.com/privacy/) to view the current version of our Privacy Policy.
+
+To learn more about Criteo advertisers’ obligations related to the information of users and collection of consent, please click [here](https://www.criteo.com/criteo-privacy-guidelines-for-clients-and-publisher-partners/).
+
+3\. Audiences
+-------------
+
 Criteo prohibits the creation or extension of audiences, or any use of its platform’s features, that would introduce a targeting bias towards groups or populations defined by one or more of the above listed users’ protected characteristics and resulting in an inappropriate prejudice in favor of or against those groups/populations.
 
-You are responsible for ensuring that your content, products or services comply with the applicable laws and regulations.
-
-Click [here](http://www.criteo.com/privacy/) to view the current version of this policy.
-
-Each of Criteo’s advertising partners is responsible for ensuring that its content, products, or services comply with applicable laws and regulations, including applicable data protection and privacy laws and regulations. To learn more about Criteo advertisers’ obligations related to the information of users and collection of consent, please click [here](https://www.criteo.com/criteo-privacy-guidelines-for-clients-and-publisher-partners/).
+Criteo reserves the right to detail, modify or update this policy at any time. Criteo will post these changes directly on this page and will notify our advertiser partners of such changes.
 
 Last updated: September 2022
