@@ -12,12 +12,12 @@ Please either **enable JavaScript**, or disable any extensions or plugins that i
 
 * * *
 
-[![Nord Account logo](https://s1.nordcdn.com/nordvpn/media/1.1645.0/images/account/global/logos/horizontal/nordaccount.svg)](https://my.nordaccount.com/dashboard/)
+[![Nord Account logo](https://s1.nordcdn.com/nordvpn/media/1.1686.0/images/account/global/logos/horizontal/nordaccount.svg)](https://my.nordaccount.com/dashboard/)
 
 Privacy Policy
 ==============
 
-Last updated: July 1, 2022
+Last updated: September 27, 2022
 
 This document (“**Privacy Policy**”) explains the privacy rules applicable to personal data and other information collected or submitted when you access, install, or use Nord Services and Websites regardless of the device (computer, mobile phone, tablet, etc.) you use.
 
@@ -103,6 +103,8 @@ We also partner with third parties to display advertising on our Websites or to 
 
 Your personal data may be processed in any country in which we engage service providers and partners. When you use our Services and Websites, you understand and acknowledge that your personal data may be transferred outside of the country where you reside.
 
+**Bundled subscriptions (Third Party Services purchased through Nord)**. By subscribing to the Bundled Subscription which includes Third Party Services purchased through Nord, you agree that certain purchase information (e.g., your email address, Subscription term, payment amount, and subscription ID will be shared with the respective provider of Third Party Services for purposes of activating, administering, and provision of Third Party Services, also for improving your experience, and communicating with you about the Bundled Subscription and Third Party Services. When you use Third Party Services, your personal data is processed by the provider of Third Party Services (which acts as a separate data controller of your personal data) according to the procedures established by it and governed by its privacy policies.
+
 **Other Nord group companies.** We share your personal data with other Nord group companies to carry out our daily business operations and to enable us to maintain and provide our Services to you. We may also share the contact information of Nord business customers (i.e., our customers which use our products as a tool for their business) with Nord group companies for marketing of their B2B products purposes (business users have a right to object to such transfer at any time).
 
 **Protection of our rights.** We may disclose personal data to establish or exercise our legal rights or defend against any legal claims or other complaints. We may also share such information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, and violations of our General Terms.
@@ -148,9 +150,9 @@ Additionally, you may delete your Nord Account for different Nord products as de
     
 * **NordVPN Account via NordVPN desktop app on Mac**: open the NordVPN app and log into your Account, click on “Help” and select “Email Support”; on our “Contact Us” form select “Manage the account”, type in “Please delete my account”, and click “SEND”.
     
-* **NordPass Account via NordPass app on mobile devices**: open the NordPass app and log in to your Account, click on “Menu” icon at the bottom right of the window, tap the “Help” option, and go to “Help Center”; you will be directed to a new page on your mobile browser, click “Submit a request” at the top-right corner, type in a message saying that you wish to remove your Account and indicate the email address your Account is registered with.
+* **NordPass Account via NordPass app on mobile devices**: open the NordPass app and log in to your Account, click on “Menu” icon at the bottom right of the window, tap the “Delete Account” option, and confirm by pressing “Submit Delete Request”; you will receive an email from NordAccount customer support to verify your identity and proceed with the Account Removal process.
     
-* **NordPass Account via NordPass desktop application**: open the NordPass app and log in to your Account, click on “Settings”, and tap “Visit Help Center”; you will be directed to a new page on your browser, click “Submit a request”, type in a message saying that you wish to remove your Account and indicate the email address your Account is registered with.
+* **NordPass Account via NordPass desktop application**: open the NordPass app and log in to your Account, click on “Settings”, click the “Delete Account” option, and confirm by pressing “Submit Delete Request”; then, you will receive an email from NordAccount customer support to verify your identity and proceed with the Account Removal process.
     
 * **NordLocker Account via NordLocker app**: open the NordLocker app and log in to your Account, click on “Settings” icon, tap the “Delete account”; you will be directed to a new page on your mobile browser, click “Submit a request” at the top right corner, type in a message saying that you wish to remove your Account and indicate the email address your Account is registered with.
     
