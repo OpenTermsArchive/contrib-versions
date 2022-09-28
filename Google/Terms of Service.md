@@ -390,8 +390,11 @@ If you withdraw from this contract, we shall reimburse to you all payments recei
 | Country | Phone number |
 | --- | --- |
 | Austria | 0800 001180 |
+| Åland Islands | 0800 526683 |
 | Belgium | 0800 58 142 |
 | Bulgaria | 0800 14 744 |
+| Canary Islands | +34 912 15 86 27 |
+| Ceuta & Melilla | +34 912 15 86 27 |
 | Croatia | 0800 787 086 |
 | Cyprus | 80 092492 |
 | Czechia | 800 720 070 |
@@ -399,8 +402,12 @@ If you withdraw from this contract, we shall reimburse to you all payments recei
 | Estonia | 8002 643 |
 | Finland | 0800 520030 |
 | France | 0 805 98 03 38 |
+| French Guiana | 0805 98 03 38 |
+| French Polynesia | +33 1 85 14 96 65 |
+| French Southern Territories | +33 1 85 14 96 65 |
 | Germany | 0800 6270502 |
-| Greece | 00800 4920 00536 |
+| Greece | 21 1180 9433 |
+| Guadeloupe | 0805 98 03 38 |
 | Hungary | 06 80 200 148 |
 | Iceland | 800 4177 |
 | Ireland | 1800 832 663 |
@@ -410,15 +417,25 @@ If you withdraw from this contract, we shall reimburse to you all payments recei
 | Lithuania | 8 800 00 163 |
 | Luxembourg | 800 40 005 |
 | Malta | 8006 2257 |
+| Martinique | 0805 98 03 38 |
+| Mayotte | +33 1 85 14 96 65 |
 | Netherlands | 0800 3600010 |
+| New Caledonia | +33 1 85 14 96 65 |
 | Norway | 800 62 068 |
 | Poland | 800 410 575 |
 | Portugal | 808 203 430 |
+| Réunion | 0805 98 03 38 |
 | Romania | 0800 672 350 |
 | Slovakia | 0800 500 932 |
 | Slovenia | 080 688882 |
 | Spain | 900 906 451 |
+| St Barthélemy | +33 1 85 14 96 65 |
+| St Martin | +33 1 85 14 96 65 |
+| St Pierre & Miquelon | +33 1 85 14 96 65 |
+| Svalbard & Jan Mayen | 800 62 425 |
 | Sweden | 020-012 52 41 |
+| Vatican City | 800 599 102 |
+| Wallis & Futuna | +33 1 85 14 96 65 |
 
 Definitions
 ===========
