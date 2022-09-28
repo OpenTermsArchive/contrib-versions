@@ -1,7 +1,7 @@
 Developer Programme Policy
 ==========================
 
-_(effective 31 August 2022, unless otherwise stated)_
+_(effective 28 September 2022, unless otherwise stated)_
 
 * * *
 
@@ -258,6 +258,7 @@ In order to explore possible updates to the other real-money games, contests and
 | **Game type** | **Region** | **Pilot period** | **How to participate** |
 | --- | --- | --- | --- |
 | Online crane games | Japan only | 11 July 2022 to 11 July 2023 | [Click here to apply](https://support.google.com/googleplay/android-developer/contact/ocgform) |
+| DFS/Rummy | India only | 28 September 2022 to 28 September 2023 | [Click here to apply](https://support.google.com/googleplay/android-developer/contact/dfsrform) |
 
 ### Gamified loyalty programmes
 
@@ -378,8 +379,6 @@ To ensure that Google Play remains a safe and respectful platform, we've created
 
 * * *
 
-Effective 31 August 2022
-
 ### Health content and services
 
 We don't allow apps that expose users to harmful health content and services. 
@@ -414,8 +413,6 @@ To ensure that Google Play remains a safe and respectful platform, we've created
     
 
 For additional information on the unapproved or misleading pharmaceuticals and supplements that we monitor, please visit [www.legitscript.com](http://www.legitscript.com/).
-
-Effective 31 August 2022
 
 #### Health misinformation
 
@@ -1429,6 +1426,8 @@ To ensure that Google Play remains a safe and respectful platform, we've created
     ①  An interstitial ad appears during gameplay and does not offer users an option to skip within 15 seconds.
 
 * * *
+
+ Effective 30 September 2022
 
 Subscriptions
 =============
