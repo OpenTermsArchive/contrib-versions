@@ -360,7 +360,7 @@ Binance reserves the right to suspend or terminate the Designated Stablecoin Con
 
 ### 14\. Binance OTC
 
-If agreed with Binance, you may be permitted to receive certain over-the-counter (OTC) services with respect to bilateral transactions in Digital Assets, which services shall be subject to the [Binance OTC Terms](https://www.binance.com/en/event/terms-OTC). You agree to be bound by the Binance OTC Terms with respect to all OTC Services provided to you through Agreed Communication Channels (as each term is defined in the Binance OTC Terms).
+If agreed with Binance, you may be permitted to receive certain over-the-counter (OTC) services with respect to bilateral transactions in Digital Assets, which services shall be subject to the [Binance OTC Terms](https://www.binance.com/en/terms-OTC). You agree to be bound by the Binance OTC Terms with respect to all OTC Services provided to you through Agreed Communication Channels (as each term is defined in the Binance OTC Terms).
 
 ### IV. Liabilities
 
