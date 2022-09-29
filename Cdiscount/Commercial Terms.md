@@ -298,7 +298,7 @@ Pour en savoir plus sur la Solution de Crédit - "Payez en plusieurs fois", [cli
 
 En cas d'abandon, de rétractation, ou tout autre motif d’annulation d’une commande payée par carte(s) cadeau(x), les sommes débitées sur la ou les carte(s) cadeau(x) utilisée(s) seront remboursées sous forme d’un ou plusieurs bon(s) d’achat, disponible(s) dans votre espace client et utilisable sur le Site pendant un (1) an.  
   
-(xi) Paiement par virement sécurisé par Bridge powered by Bankiné : ce mode de paiement n’est disponible que pour les règlements effectués depuis la plateforme de recouvrement de Cdiscount. Vous avez la possibilité de régulariser votre commande par virement bancaire en validant votre demande de virement directement depuis l’interface de votre banque, grâce à la solution Bridge powered by Bankin’, éditée par Perspecteev SAS - société par actions simplifiée immatriculée au RCS Paris numéro B 529 196 313 dont le siège social est 4 rue de la Pierre Levée - 75011 Paris. Perspecteev est un établissement de paiement agréé par l'ACPR sous le numéro 16918P, et est immatriculé à l'ORIAS sous le numéro 18003177 en tant que mandataire d'intermédiaire d'assurance. Perspecteev ne peut être assimilé à un établissement de crédit. Pour en savoir plus sur ce mode de paiement, [cliquez ici](https://pay.bridgeapi.io/docs/mention-information.pdf).  
+(xi) Paiement par virement sécurisé par Bridge powered by Bankin’ : ce mode de paiement n’est disponible que pour les règlements effectués depuis la plateforme de recouvrement de Cdiscount. Vous avez la possibilité de régulariser votre commande par virement bancaire en validant votre demande de virement directement depuis l’interface de votre banque, grâce à la solution Bridge powered by Bankin’, éditée par Perspecteev SAS - société par actions simplifiée immatriculée au RCS Paris numéro B 529 196 313 dont le siège social est 4 rue de la Pierre Levée - 75011 Paris. Perspecteev est un établissement de paiement agréé par l'ACPR sous le numéro 16918P, et est immatriculé à l'ORIAS sous le numéro 18003177 en tant que mandataire d'intermédiaire d'assurance. Perspecteev ne peut être assimilé à un établissement de crédit. Pour en savoir plus sur ce mode de paiement, [cliquez ici](https://pay.bridgeapi.io/docs/mention-information.pdf).  
   
 
 **Généralités**
@@ -732,7 +732,7 @@ Pour les produits directement vendus par Cdiscount (à l’exclusion des produit
   
 Il est rappelé que le consommateur, dans le cadre de la garantie légale de conformité :  
 
-    - bénéficie d’un délai de deux ans à compter de la délivrance du bien pour agir ;  
+    - bénéficie d’un délai de deux ans é compter de la délivrance du bien pour agir ;  
     - peut choisir entre la réparation ou le remplacement du produit, sous réserve des conditions de coût prévues par l’article L. 217-12 du code de la consommation ;  
     - est dispensé de rapporter la preuve de l’existence du défaut : les défauts sont donc présumés exister au moment de la délivrance à moins que cette présomption ne soit incompatible avec la nature du produit ou du défaut invoqué.  
   
@@ -1417,7 +1417,7 @@ Le montant du crédit auquel donne droit une Offre Site est précisé sur la fic
 
 Avant l’écoulement de ces périodes, le montant à créditer sera affiché comme étant « En attente » dans l’Espace Client de l’Abonné, rubrique « Ma cagnotte à volonté ».
 
-Il est également précisé, concernant les Offre Site, qu’en cas de commande contenant plusieurs Produits éligibles au Privilège, le total du crédit auquel donne droit cette commande sera cumulé sur la Cagnotte é l’issue d’un délai maximum de trente (30) jours ouvrés à compter de la livraison du dernier Produit éligible de la commande.
+Il est également précisé, concernant les Offre Site, qu’en cas de commande contenant plusieurs Produits éligibles au Privilège, le total du crédit auquel donne droit cette commande sera cumulé sur la Cagnotte à l’issue d’un délai maximum de trente (30) jours ouvrés à compter de la livraison du dernier Produit éligible de la commande.
 
 A l’issue de ce délai maximum de trente (30) jours ouvrés, le montant ainsi crédité sur la Cagnotte sera affiché comme étant « Actif » dans l’Espace Client de l’Abonné, rubrique « Ma cagnotte à volonté » (ci-après le **« Solde de la Cagnotte** ».
 
