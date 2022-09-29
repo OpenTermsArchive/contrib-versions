@@ -1,6 +1,6 @@
 Privacy Notice - Binance
 
-Last updated: 23 September 2022
+Last updated: 29 September 2022
 
 Binance (“Binance”, “we”, or “us”) is committed to protecting the privacy of our customers, and we take our data protection responsibilities with the utmost seriousness.
 
