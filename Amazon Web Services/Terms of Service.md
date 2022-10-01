@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-#### Last Updated: September 20, 2022
+#### Last Updated: September 30, 2022
 
 #### 1\. Universal Service Terms (Applicable to All Services)
 
@@ -387,7 +387,7 @@ The distribution of files created by Amazon Elastic Transcoder may require that 
 
 #### 23\. AWS OpsWorks
 
-Your use of the AWS OpsWorks agent is governed by the [AWS OpsWorks Client License Agreement.](https://aws.amazon.com/opsworks-local-license/) Your use of AWS OpsWorks for Chef Automate is subject to [Chef Software Inc.’s end user license agreement](https://www.chef.io/aws_eula). Your use of AWS OpsWorks for Puppet Enterprise is subject to Puppet, Inc.’s [Puppet Enterprise License Agreement](https://d1.awsstatic.com/legal/aws-opsworks/Puppet%20End%20User%20License%20Agreement.pdf).
+Your use of the AWS OpsWorks agent is governed by the [AWS OpsWorks Client License Agreement.](https://aws.amazon.com/opsworks-local-license/) Your use of AWS OpsWorks for Chef Automate is subject to [Chef Software Inc.’s end user license agreement](https://www.chef.io/aws_eula). Your use of AWS OpsWorks for Puppet Enterprise is subject to Puppet, Inc.’s  [Puppet Enterprise License Agreement](https://d1.awsstatic.com/legal/aws-opsworks/Puppet%20End%20User%20License%20Agreement.pdf).
 
 #### 24\. AWS CloudHSM
 
@@ -535,7 +535,7 @@ You must have all necessary rights to use any domain name that you use in conjun
 
 #### 39\. AWS IoT Services
 
-**39.1. “AWS IoT Services”** means AWS IoT Core, AWS IoT Device Management, AWS IoT Device Defender, AWS IoT 1-Click, AWS IoT Events, AWS IoT Analytics, AWS IoT SiteWise, AWS IoT FleetWise (Preview), AWS IoT TwinMaker, FreeRTOS, AWS IoT ExpressLink, AWS IoT Greengrass, and AWS IoT RoboRunner (Preview).
+**39.1. “AWS IoT Services”** means AWS IoT Core, AWS IoT Device Management, AWS IoT Device Defender, AWS IoT 1-Click, AWS IoT Events, AWS IoT Analytics, AWS IoT SiteWise, AWS IoT FleetWise , AWS IoT TwinMaker, FreeRTOS, AWS IoT ExpressLink, AWS IoT Greengrass, and AWS IoT RoboRunner (Preview).
 
 **39.2**. AWS IoT Services are not intended for use in, or in association with, the operation of any hazardous environments or critical systems that may lead to serious bodily injury or death or cause environmental or property damage, and you are solely responsible for all liability that may arise in connection with any such use. 
 
@@ -543,11 +543,11 @@ You must have all necessary rights to use any domain name that you use in conjun
 
 **39.4**. You are responsible for the creation, distribution, and security (including enabling of access) of any IoT devices connected to or enabled by your AWS account.
 
-**39.5.** AWS IoT FleetWise (Preview) is designed to help customers collect data from fleets of vehicles and transfer it to the Services for analysis and processing. Vehicle data collected through your use of AWS IoT FleetWise is intended for informational purposes (including to help you train cloud-based artificial intelligence and machine learning models), and you may not use AWS IoT FleetWise to control or operate vehicle functions. You are solely responsible for all liability that may arise in connection with any such use.
+**39.5.** AWS IoT FleetWise is designed to help customers collect data from fleets of vehicles and transfer it to the Services for analysis and processing. Vehicle data collected through your use of AWS IoT FleetWise is intended for informational purposes only (including to help you train cloud-based artificial intelligence and machine learning models), and you may not use AWS IoT FleetWise to control or operate vehicle functions. You are solely responsible for all liability that may arise in connection with any use outside of AWS IoT FleetWise’s intended purpose and in any manner contrary to applicable vehicle regulations.
 
 **39.6.** Vehicle data collected through your use of AWS IoT FleetWise should be evaluated for accuracy as appropriate for your use case, including for purposes of meeting any compliance obligations you may have under applicable vehicle safety regulations (such as safety monitoring and reporting obligations). Such evaluation should include collecting and reviewing information through other industry standard means and sources (such as reports from drivers of vehicles). You and your End Users are solely responsible for all decisions made, advice given, actions taken, and failures to take action based on your use of AWS IoT FleetWise.
 
-**39.7.** Without limiting any of the restrictions above, the AWS IoT FleetWise in-vehicle software component is licensed to you under the [Amazon Software License](https://aws.amazon.com/asl/). You are solely responsible for ensuring such software and any updates and modifications thereto are deployed and maintained safely and securely in any vehicles and do not otherwise impact vehicle safety.
+**39.7.** Without limiting any of the restrictions above, the Edge Agent Reference Implementation for AWS IoT FleetWise is licensed to you under the [Amazon Software License](https://aws.amazon.com/asl/). The Edge Agent Reference Implementation is intended to help you develop your Edge Agent for AWS IoT FleetWise and includes sample code that you may reference or modify so your Edge Agent meets your requirements. You are solely responsible for your Edge Agent, including ensuring that your Edge Agent and any updates and modifications thereto are deployed and maintained safely and securely in any vehicles.
 
 **39.8.** AWS IoT TwinMaker is designed to help customers build digital twins of physical systems such as machines, factory equipment, and buildings. Data collected through your use of AWS IoT TwinMaker should be evaluated for accuracy as appropriate for your use case. AWS IoT TwinMaker should not be used as a substitute for human monitoring of physical systems for purposes of assessing whether such systems are operating safely. You and your End Users are solely responsible for all decisions made, advice given, actions taken, and failures to take action based on your use of AWS IoT TwinMaker.
 
