@@ -130,7 +130,7 @@ We recommend that you read this entire Agreement carefully.  However, to make i
 
 13.4 “Data Protection and Privacy Requirements” means each party’s respective obligations under applicable data protection and privacy laws, regulations, and industry self-regulatory rules, codes and guidelines.
 
-13.5 “Demand Partner” means PubMatic’s media buying Publishers, and addressability partners, including but not limited to demand side platforms, ad exchanges, agencies, agency trading desks, and ad networks.
+13.5 “Demand Partner” means PubMatic’s media buying advertisers, and addressability partners, including but not limited to demand side platforms, ad exchanges, agencies, agency trading desks, and ad networks.
 
 13.6 “Publisher Revenue” represents revenue earned by Publisher based on Publisher Inventory monetized via the PubMatic Products as determined by PubMatic.
 
