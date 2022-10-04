@@ -5,13 +5,15 @@ When you use our services, you’re trusting us with your information. We unders
 
 This Privacy Policy is meant to help you understand what information we collect, why we collect it, and how you can update, manage, export, and delete your information.
 
+If European Union or United Kingdom data protection law applies to the processing of your information, you can review the [European requirements section](https://policies.google.com/privacy#europeanrequirements) below to learn more about your rights and Google’s compliance with these laws.
+
 Privacy Checkup
 
 Looking to change your privacy settings?
 
 [Take the Privacy Checkup](https://myaccount.google.com/privacycheckup?utm_source=pp&utm_medium=Promo-in-product&utm_campaign=pp_intro)
 
-Effective February 10, 2022 | [Archived versions](https://policies.google.com/privacy/archive) | [Download PDF](https://www.gstatic.com/policies/privacy/pdf/20220210/8e0kln2a/google_privacy_policy_en_eu.pdf)
+Effective October 4, 2022 | [Archived versions](https://policies.google.com/privacy/archive) | [Download PDF](https://www.gstatic.com/policies/privacy/pdf/20221004/a2n853ky/google_privacy_policy_en_eu.pdf)
 
 Contents
 --------
@@ -33,6 +35,8 @@ Contents
 [Retaining your information](https://policies.google.com/privacy#inforetaining)
 
 [Compliance & cooperation with regulators](https://policies.google.com/privacy#enforcement)
+
+[European requirements](https://policies.google.com/privacy#europeanrequirements)
 
 [About this policy](https://policies.google.com/privacy#about)
 
@@ -62,7 +66,7 @@ When you’re signed in, we also collect information that we store with your Goo
 Things you create or provide to us
 ----------------------------------
 
-When you create a Google Account, you provide us with [personal information](https://policies.google.com/privacy#footnote-personal-info) that includes your name and a password. You can also choose to add a [phone number](https://policies.google.com/privacy#footnote-phone-number) or [payment information](https://policies.google.com/privacy#footnote-payment-info) to your account. Even if you aren’t signed in to a Google Account, you might choose to provide us with information — like an email address to receive updates about our services.
+When you create a Google Account, you provide us with [personal information](https://policies.google.com/privacy#footnote-personal-info) that includes your name and a password. You can also choose to add a [phone number](https://policies.google.com/privacy#footnote-phone-number) or [payment information](https://policies.google.com/privacy#footnote-payment-info) to your account. Even if you aren’t signed in to a Google Account, you might choose to provide us with information — like an email address to communicate with Google or receive updates about our services.
 
 We also collect the content you create, upload, or receive from others when using our services. This includes things like email you write and receive, photos and videos you save, docs and spreadsheets you create, and comments you make on YouTube videos.
 
@@ -156,7 +160,7 @@ We use information we collect, like your email address, to interact with you dir
 
 ### Protect Google, our users, and the public
 
-We use information to help improve the [safety and reliability](https://policies.google.com/privacy#footnote-safety-reliability) of our services. This includes detecting, preventing, and responding to fraud, abuse, security risks, and technical issues that could harm Google, our users, or the public.
+We use information to help improve the [safety and reliability](https://policies.google.com/privacy#footnote-safety-reliability) of our services. This includes detecting, preventing, and responding to fraud, abuse, security risks, and technical issues that could harm Google, our users, or [the public](https://policies.google.com/privacy#footnote-the-public).
 
 * * *
 
@@ -249,8 +253,6 @@ You can export a copy of content in your Google Account if you want to back it u
 
 [Export your data](https://takeout.google.com/?utm_source=pp)
 
-You can also [request to remove content](https://support.google.com/legal?p=privpol_remove) from specific Google services based on applicable law.
-
 To delete your information, you can:
 
 * Delete your content from [specific Google services](https://policies.google.com/privacy#footnote-delete-specific)
@@ -260,7 +262,9 @@ To delete your information, you can:
 
 [Delete your information](https://myaccount.google.com/delete-services-or-account?utm_source=pp)
 
-And finally, [Inactive Account Manager](https://myaccount.google.com/inactive?utm_source=pp) allows you to give someone else access to parts of your Google Account in case you’re unexpectedly unable to use your account.
+[Inactive Account Manager](https://myaccount.google.com/inactive?utm_source=pp) allows you to give someone else access to parts of your Google Account in case you’re unexpectedly unable to use your account.
+
+And finally, you can also [request to remove content](https://support.google.com/legal/answer/3110420?visit_id=637939486089565735-343938859) from specific Google services based on applicable law and our policies.
 
 * * *
 
@@ -286,7 +290,7 @@ We do not share your personal information with companies, organizations, or indi
 
 ### With your consent
 
-We’ll share personal information outside of Google when we have your consent. For example, if you [use Google Home to make a reservation](https://support.google.com/googlehome?p=privpol_homedata) through a booking service, we’ll get your permission before sharing your name or phone number with the restaurant. We’ll ask for your explicit consent to share any [sensitive personal information](https://policies.google.com/privacy#footnote-sensitive-info).
+We’ll share personal information outside of Google when we have your consent. For example, if you [use Google Home to make a reservation](https://support.google.com/googlehome?p=privpol_homedata) through a booking service, we’ll get your permission before sharing your name or phone number with the restaurant. We also provide you with controls to [review and manage third party apps and sites](https://myaccount.google.com/permissions) you have given access to data in your Google Account. We’ll ask for your explicit consent to share any [sensitive personal information](https://policies.google.com/privacy#footnote-sensitive-info).
 
 ### With domain administrators
 
@@ -310,7 +314,7 @@ We will share personal information outside of Google if we have a good-faith bel
 * Meet any applicable law, regulation, [legal process, or enforceable governmental request](https://policies.google.com/privacy#footnote-legal). We share information about the number and type of requests we receive from governments in our [Transparency Report](https://transparencyreport.google.com/user-data/overview).
 * Enforce applicable Terms of Service, including investigation of potential violations.
 * Detect, prevent, or otherwise address fraud, security, or technical issues.
-* Protect against harm to the rights, property or safety of Google, our users, or the public as required or permitted by law.
+* Protect against harm to the rights, property or safety of Google, [our users](https://policies.google.com/privacy#footnote-our-users), or the public as required or permitted by law.
 
 We may share [non-personally identifiable information](https://policies.google.com/privacy#footnote-info) publicly and with our partners — like publishers, advertisers, developers, or rights holders. For example, we share information publicly to [show trends](https://policies.google.com/privacy#footnote-trends) about the general use of our services. We also allow [specific partners](https://policies.google.com/privacy#footnote-specific-partners) to collect information from your browser or device for advertising and measurement purposes using their own cookies or similar technologies.
 
@@ -353,7 +357,7 @@ Retaining your information
 
 We retain the data we collect for different periods of time depending on what it is, how we use it, and how you configure your settings:
 
-* Some data you can delete whenever you like, such as the content you create or upload. You can also delete [activity information](https://myactivity.google.com/myactivity) saved in your account, or [choose to have it deleted automatically](https://support.google.com/accounts/answer/465?authuser=0#auto-delete) after a set period of time.
+* Some data you can delete whenever you like, such as your [personal info](https://myaccount.google.com/personal-info) or the content you create or upload, like [photos](https://support.google.com/photos/answer/6128858) and [documents](https://support.google.com/docs/answer/6023494). You can also delete [activity information](https://myactivity.google.com/myactivity) saved in your account, or [choose to have it deleted automatically](https://support.google.com/accounts/answer/465?authuser=0#auto-delete) after a set period of time. We’ll keep this data in your Google Account until you remove it or choose to have it removed.
 * Other data is deleted or anonymized automatically after a set period of time, such as [advertising data](https://policies.google.com/technologies/ads) in server logs.
 * We keep some data until you delete your Google Account, such as information about how often you use our services.
 * And some data we retain for longer periods of time when necessary for legitimate business or legal purposes, such as security, fraud and abuse prevention, or financial record-keeping.
@@ -375,24 +379,34 @@ We maintain [servers around the world](https://policies.google.com/privacy#footn
 When we receive formal written complaints, we respond by contacting the person who made the complaint. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of your data that we cannot resolve with you directly.
 
 European requirements
----------------------
 
-If European Union (EU) or United Kingdom (UK) data protection law applies to the processing of your information, we provide the controls described in this policy so you can exercise your right to request access to, update, remove, and restrict the processing of your information. You also have the right to object to the processing of your information or export your information to another service.
+
+-----------------------
+
+### How to exercise your rights and contact Google
+
+If European Union (EU) or United Kingdom (UK) data protection law applies to the processing of your information, we provide the [controls](https://policies.google.com/privacy#infochoices) described in this policy so you can exercise your rights to request access to, update, [remove](https://policies.google.com/privacy#footnote-remove), and restrict the processing of your information. You also have the right to object to the processing of your information or export your information to another service.
+
+If you have additional questions or requests related to your rights, [you can contact Google and our data protection office](https://support.google.com/policies/troubleshooter/7575787). And you can contact your local data protection authority if you have concerns regarding your rights under local law.
+
+### Data controller
 
 Unless otherwise stated in a service-specific privacy notice, the [data controller responsible for processing your information](https://policies.google.com/privacy#footnote-data-controller) depends on where you are based:
 
-* Google Ireland Limited for users of Google services based in the European Economic Area or Switzerland
-* Google LLC for users of Google services based in the United Kingdom
+* Google Ireland Limited for users of Google services based in the European Economic Area or Switzerland, located at Gordon House, Barrow Street, Dublin 4, Ireland.
+* Google LLC for users of Google services based in the United Kingdom, located at 1600 Amphitheatre Parkway, Mountain View, California 94043, USA.
 
 Google LLC is the data controller responsible for processing information indexed and displayed in services like [Google Search](https://www.google.com/search/howsearchworks/crawling-indexing/) and Google Maps regardless of your location.
 
-We process your information for the purposes described in this policy, based on the following legal grounds:
+### Legal bases of processing
 
-### With your consent
+We process your information for the [purposes](https://policies.google.com/privacy#whycollect) described in this policy, based on the following legal grounds:
 
-We ask for your agreement to process your information for specific purposes and you have the right to withdraw your consent at any time. For example, we ask for your consent to provide you with personalized services, such as ads based on your interests. We also ask for your consent to collect your voice and audio activity for speech recognition. You can manage these settings in your [Google Account](https://myaccount.google.com/).
+#### With your consent
 
-### When we’re pursuing legitimate interests
+We ask for your agreement to process your information for specific purposes and you have the right to withdraw your consent at any time. For example, we ask for your consent to provide you with personalized services, such as ads based on your interests. We also ask for your consent to collect your voice and audio activity for speech recognition. You can manage these settings in your [Google Account](https://myaccount.google.com/). As described in the [Sharing your information](https://policies.google.com/privacy#infosharing) section, we’ll share personal information outside of Google when we have your consent, and provide you with controls to [review and manage third party apps and sites](https://myaccount.google.com/permissions) you have given access to data in your Google Account.
+
+#### When we’re pursuing legitimate interests
 
 We process your information for our legitimate interests and those of [third parties](https://policies.google.com/privacy#footnote-third-parties) while applying [appropriate safeguards](https://policies.google.com/privacy#footnote-safeguards) that protect your privacy. This means that we process your information for things like:
 
@@ -404,21 +418,17 @@ We process your information for our legitimate interests and those of [third par
 * Providing advertising, which allows us to offer many of our services without a fee (and when ads are personalized, we ask for your consent)
 * Detecting, preventing, or otherwise addressing fraud, abuse, security, or technical issues with our services
 * Protecting against harm to the rights, property or safety of Google, our users, or the public as required or permitted by law, including disclosing information to government authorities
-* Performing research that improves our services for our users and benefits the public
+* Performing research that improves our services for our users and [benefits the public](https://policies.google.com/privacy#footnote-benefits-the-public)
 * Fulfilling obligations to our partners like developers and rights holders
 * Enforcing legal claims, including investigation of potential violations of applicable Terms of Service
 
-### When we’re providing a service
+#### When we’re providing a service
 
-We process your data to provide a service you’ve asked for under a contract. For example, we process your payment information when you buy extra storage for Google Drive.
+We process some data in order to provide a service you’ve asked for under a contract. For example, we need to process your payment information when you buy extra storage for Google Drive.
 
-### When we’re complying with legal obligations
+#### When we’re complying with legal obligations
 
-We’ll process your data when we have a legal obligation to do so, for example, if we’re responding to [legal process or an enforceable governmental request](https://policies.google.com/privacy#footnote-legal).
-
-* * *
-
-If you have questions, [you can contact Google and our data protection office](https://support.google.com/policies/troubleshooter/7575787). And you can contact your local data protection authority if you have concerns regarding your rights under local law.
+We’ll process your data when we have a legal obligation to do so, for example, if we’re responding to [legal process or an enforceable governmental request](https://policies.google.com/privacy#footnote-legal). As another example, legal obligations sometimes require us to retain certain information for purposes like financial record-keeping, such as information about a payment you’ve made to Google for tax or accounting purposes.
 
 About this policy
 =================
@@ -574,6 +584,10 @@ Android devices with Google apps include devices sold by Google or one of our pa
 
 For example, we may anonymize data, or encrypt data to ensure it can’t be linked to other information about you. [Learn more](https://policies.google.com/technologies/anonymization)
 
+### benefits the public
+
+For example, we process information about [requests to remove content](https://support.google.com/legal/answer/3110420) from our services to educate the public, facilitate research, and provide transparency about these requests.
+
 ### combine the information we collect
 
 Some examples of how we combine the information we collect include:
@@ -637,6 +651,10 @@ For example, we use cookies to analyze how people interact with our services. An
 
 Google Analytics relies on first-party cookies, which means the cookies are set by the Google Analytics customer. Using our systems, data generated through Google Analytics can be linked by the Google Analytics customer and by Google to third-party cookies that are related to visits to other websites. For example, an advertiser may want to use its Google Analytics data to create more relevant ads, or to further analyze its traffic. [Learn more](https://support.google.com/analytics?p=privpol_data&hl=en_US)
 
+### our users
+
+For example, to prevent abuse and increase transparency and accountability over our online content moderation practices, Google shares data about requests for removal of content from our services with Lumen, which collects and analyzes these requests to facilitate research to help Internet users understand their rights. [Learn more](https://support.google.com/legal/answer/12158374).
+
 ### partner with Google
 
 There are over 2 million non-Google websites and apps that partner with Google to show ads. [Learn more](https://support.google.com/accounts?p=privpol_controlads&hl=en_US)
@@ -666,6 +684,10 @@ For example, we may collect information that’s publicly available online or fr
 ### rely on cookies to function properly
 
 For example, we use a cookie called ‘lbcs’ that makes it possible for you to open many Google Docs in one browser. Blocking this cookie would prevent Google Docs from working as expected. [Learn more](https://policies.google.com/technologies/cookies#types-of-cookies)
+
+### remove
+
+For example, as described above, you can [request to remove content](https://support.google.com/legal/answer/3110420?visit_id=637939486089565735-343938859), including content that may contain your information, from specific Google services, based on applicable law (including data protection law) and our policies.
 
 ### safety and reliability
 
@@ -716,6 +738,10 @@ Your Chrome browsing history is only saved to your account if you’ve enabled C
 ### the people who matter most to you online
 
 For example, when you type an address in the To, Cc, or Bcc field of an email you're composing, Gmail will suggest addresses based on the people you [contact most frequently](https://contacts.google.com/).
+
+### the public
+
+For example, we process information about [requests to remove content](https://support.google.com/legal/answer/3110420?visit_id=637939486089565735-343938859) from our services under Google's content removal policies or applicable law to assess the request, and to ensure transparency, improve accountability and prevent abuse and fraud in these practices.
 
 ### third parties
 
