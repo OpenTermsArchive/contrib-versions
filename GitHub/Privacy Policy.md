@@ -231,7 +231,7 @@ For Enterprise Marketing Pages, we may also use non-essential cookies to (i) gat
 
 Our emails to users may contain a pixel tag, which is a small, clear image that can tell us whether or not you have opened an email and what your IP address is. We use this pixel tag to make our email communications more effective and to make sure we are not sending you unwanted email.
 
-The length of time a cookie will stay on your browser or device depends on whether it is a “persistent” or “session” cookie. Session cookies will only stay on your device until you stop browsing. Persistent cookies stay until they expire or are deleted. The expiration time or retention period applicable to persistent cookies depends on the purpose of the cookie collection and tool used. You may be able to delete cookie data as described here.
+The length of time a cookie will stay on your browser or device depends on whether it is a “persistent” or “session” cookie. Session cookies will only stay on your device until you stop browsing. Persistent cookies stay until they expire or are deleted. The expiration time or retention period applicable to persistent cookies depends on the purpose of the cookie collection and tool used. You may be able to delete cookie data as described [here](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement#what-are-your-cookie-choices-and-controls).
 
 #### [](#what-are-cookies-and-similar-technologies)What are cookies and similar technologies?
 
@@ -398,11 +398,11 @@ When receiving a request, we will verify that the individual making the request 
 
 #### [](#right-to-know)Right to Know.
 
-You have a right to request that we disclose to you the personal information we have collected about you. You also have a right to request additional information about our collection, use, disclosure, or sale of such personal information. Note that we have provided much of this information in this privacy statement. You can use GitHub’s User Migration API to access and download your data. Learn more here. You may also make such a “request to know” by contacting us here.
+You have a right to request that we disclose to you the personal information we have collected about you. You also have a right to request additional information about our collection, use, disclosure, or sale of such personal information. Note that we have provided much of this information in this privacy statement. You can use GitHub’s User Migration tool to access and download your data. Learn more [here](https://docs.github.com/en/get-started/privacy-on-github/requesting-an-archive-of-your-personal-accounts-data). You may also make such a “request to know” by contacting us [here](https://support.github.com/contact/privacy).
 
 #### [](#right-to-request-deletion)Right to Request Deletion.
 
-You also have a right to request that we delete personal information under certain circumstances, subject to a number of exceptions. To make a request to delete, You can use GitHub’s User Migration API to access and download your data. Learn more here. You may also make such a “request to delete” by contacting us here.
+You also have a right to request that we delete personal information under certain circumstances, subject to a number of exceptions. To make a request to delete, you can contact us [here](https://support.github.com/contact/privacy) or use the account settings [here](https://github.com/settings/admin).
 
 #### [](#right-to-opt-out)Right to Opt-Out.
 
