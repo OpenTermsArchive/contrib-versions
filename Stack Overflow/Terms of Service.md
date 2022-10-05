@@ -160,6 +160,6 @@ Stack Exchange Inc.
 New York, NY 10038  
 **Tel**: +1 (212) 232-8280  
 **Fax**: +1 (212) 785-4578  
-**Email**: legal@stackoverflow.com  
+**Email**: [dmca@stackoverflow.com](mailto:dmca@stackoverflow.com)  
 
 Last update: January 12, 2022
