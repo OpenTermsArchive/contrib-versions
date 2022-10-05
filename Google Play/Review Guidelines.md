@@ -150,6 +150,7 @@ Consumer
 * [### Google Kids Space](https://support.google.com/kidsspace/?hl=en-GB)
 * [### User Security](https://support.google.com/user-security/?hl=en-GB)
 * [### Google Workspace Individual](https://support.google.com/google-workspace-individual/?hl=en-GB)
+* [### Google Pixel Watch](https://support.google.com/googlepixelwatch/?hl=en-GB)
 * [### Google Wallet](https://support.google.com/wallet/?hl=en-GB)
 * [### AR](https://support.google.com/ar/?hl=en-GB)
 
