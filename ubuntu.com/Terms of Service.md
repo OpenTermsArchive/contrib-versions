@@ -214,14 +214,15 @@ The open source software platform that runs everywhere from the smartphone, the 
 * [Support](https://ubuntu.com/support) [Support](#)
     --------------------------------------------------
     
-    * [Your subscriptions](https://ubuntu.com/advantage)
-    * [Account users](https://ubuntu.com/advantage/users)
+    * [Your subscriptions](https://ubuntu.com/pro)
+    * [Account users](https://ubuntu.com/pro/users)
     * [Community support](https://ubuntu.com/support/community-support)
 * [Pricing](https://ubuntu.com/pricing) [Pricing](#)
     --------------------------------------------------
     
     * [Support](https://ubuntu.com/pricing/infra)
     * [Consulting](https://ubuntu.com/pricing/consulting)
+    * [Desktops](https://ubuntu.com/pricing/desktops)
     * [Devices](https://ubuntu.com/pricing/devices)
 * Sectors
     -------
