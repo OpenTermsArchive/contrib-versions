@@ -823,7 +823,7 @@ We will retain your personal data only for as long as is necessary for the purpo
 
 The General Data Protection Regulation provides you with a number of rights under the legislation as a data subject. We will respond to your requests within one month of the receipt of your request or inform you in circumstances where an extension may be required.
 
-1. **Right of access.** You have the right to be provided with details of the processing of your personal data and to obtain a copy of the personal data we hold about you, subject to applicable exemptions under data protection legislation. In order to make an access request please write to the Data Protection Officer at [\[email protected\]gia.ie](https://www.energia.ie/cdn-cgi/l/email-protection#removed) or by writing to the:
+1. **Right of access.** You have the right to be provided with details of the processing of your personal data and to obtain a copy of the personal data we hold about you, subject to applicable exemptions under data protection legislation. In order to make an access request please write to the Data Protection Officer at [\[email protected\]](https://www.energia.ie/cdn-cgi/l/email-protection#removed) or by writing to the:
 
 Data Protection Officer, The Liberty Centre, Blanchardstown Retail Park, Dublin 15, D15 YT2H.
 
