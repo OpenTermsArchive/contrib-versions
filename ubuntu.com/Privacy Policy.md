@@ -430,6 +430,7 @@ The open source software platform that runs everywhere from the smartphone, the 
 * Sectors
     -------
     
+    * [Automotive](https://ubuntu.com/automotive)
     * [Industrial](https://ubuntu.com/industrial)
     * [Government](https://ubuntu.com/gov)
     * [Telco](https://ubuntu.com/telco)
