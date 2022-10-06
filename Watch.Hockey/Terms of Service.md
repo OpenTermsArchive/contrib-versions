@@ -1,10 +1,10 @@
 **TERMS OF USE**
 
-Last update May 2022
+Last update September 2022
 
-These Terms of Use (“**Terms**”) govern your access to and use of the website (“**Site**”) of Federation Internationale de Hockey (“**FIH**”) and the application (“**App**”) of FIH (collectively the “**Service**”), operated and provided by Nagravision Sarl (“**NAGRAVISION**”) and any videos, information, text, links, graphics, photos, music, sound, software, scripts, audiovisual combination, interactive features or other materials or arrangements of materials uploaded, downloaded or appearing on the Site and/or the App (collectively referred to as “**Content**”).
+These Terms of Use (“**Terms**”) govern your access to and use of the website (“**Site**”) of Federation Internationale de Hockey (“**FIH**”) and the application (“**App**”) of FIH (collectively the “**Service**”), operated and provided by Nagravision Sarl or any of its affiliates (“**NAGRAVISION**”) and any videos, information, text, links, graphics, photos, music, sound, software, scripts, audiovisual combination, interactive features or other materials or arrangements of materials uploaded, downloaded or appearing on the Site and/or the App (collectively referred to as “**Content**”). Access to certain content or features in exchange for one-time or recurring fee is subject to the acceptance of the Paid Service Terms of Use that are supplemental to these Terms.
 
-By using the Service or any of its components and/or by registering for an account and/or accessing the Content, you agree to be bound by these Terms and all applicable laws and regulations.
+By using the Service or any of its components and/or by registering for an account and/or accessing the Content, you agree to be bound by these Terms, our [Privacy Policy](https://fih-vpc-images-fih-nagra.s3.amazonaws.com/Privacy_Notice.htm) and all applicable laws and regulations.
 
 If you do not agree to these Terms, you should not obtain information from or otherwise use the Service nor the Content.
 
@@ -14,7 +14,7 @@ If you are under 13 years of age, you shall not register to use the Service. If 
 
 **Your FIH User Account**
 
-In order to access features of the Service and Content, you will have to create a FIH account. When creating your account, you must provide accurate and complete information. It is important that you must keep all information related to your FIH account and related credentials, such as login, password and login links send to your email, secure and confidential.
+In order to access features of the Service and Content, you will have to create a FIH account (“Account”). When creating your account, you must provide truthful, accurate and complete information. You must keep all information related to your FIH account accurate and related credentials, such as login, password and login links sent to your email, secure and confidential.
 
 Any password or login credentials right given to you to access the Service and Content from the App and/or the Site are not transferable
 
@@ -24,15 +24,9 @@ You agree that you will be solely responsible (to NAGRAVISION, and to others) fo
 
 ### Access to the Service
 
-When requesting the Service and by accepting these Terms on the registration page, you are entering into a legally binding contract with NAGRAVISION. The Service may entitle you to Content that is available free of charge and you may also be entitled to purchase Content.  The contract for any Content that you purchase is conditional on your submission of a permitted and valid method of payment (or subscription or promotional code, if applicable), and is at all times subject to these Terms.
+When requesting the Service and by accepting these Terms on the registration page, you are entering into a legally binding contract with NAGRAVISION. The Service may entitle you to Content that is available free of charge and subject to additional terms and conditions for paid services you may also be entitled to purchase Content. 
 
-The App may from time to time propose content in relation to the field hockey practice, such as but not limited to, training, nutrition and performance. You acknowledge that such content, which may include text, graphics, images and other materials created by NAGRAVISION or obtained from NAGRAVISION's licensors, as well as other materials contained on or referred to in, the App (collectively, **"Content**") is provided for informational purposes and solely reflects the opinion of the contributor. The Content is not intended to be a substitute for professional medical advice, diagnosis or treatment, or for dedicated advice by a specialist. Any reliance on and use of such information by you is done at your sole direction, control and risk. The App does not recommend or endorse any specific tests, physicians, products, procedures, opinions or other information that may be mentioned in the Content. NAGRAVISION shall not incur any responsibility in relation to any error or omission in the Content.
-
-### Fees and Payment
-
-Any fees we charge only cover access to the Content or Service. Telephone line and other communications or access costs may be charged to you separately by your ISP or relevant service provider.
-
-The financial transactions associated with the Service are provided by the applicable app store. To make a purchase, you must read and agree to the applicable terms of use, privacy notice, and other app store policies and requirements and follow the applicable payment instructions to complete each transaction.
+We may from time to time propose Content in relation to the field hockey practice, such as but not limited to, training, nutrition and performance. You acknowledge that such Content, which may include text, graphics, images and other materials created by NAGRAVISION or obtained from NAGRAVISION's licensors, as well as other materials contained on or referred to in, the App is provided for informational purposes and solely reflects the opinion of the contributor. Such Content is not intended to be a substitute for professional medical advice, diagnosis or treatment, or for dedicated advice by a specialist. Any reliance on and use of such information by you is done at your sole direction, control and risk. We do not recommend or endorse any specific tests, physicians, products, procedures, opinions or other information that may be mentioned in the Content. NAGRAVISION shall not incur any responsibility in relation to any error or omission in the Content.
 
 ### Termination
 
@@ -54,11 +48,11 @@ c)    you agree not to alter or modify any part of the App and/or the Site;
 
 d)    you agree not to access Content through any technology or means other than the video playback pages of the App or the Site itself or such other means as NAGRAVISION may explicitly designate for this purpose;
 
-e)    you agree not to (or attempt to) circumvent, disable or otherwise interfere with any security related features of the App and/or the Site or features that (i) prevent or restrict use or copying of Content or (ii) enforce limitations on use of the App and/or the Site or the content accessible via the App and/or the Site;
+e)    you agree not to (or attempt to) circumvent, remove, alter, disable, deactivate, degrade, thwart or otherwise interfere with any security related features of the App and/or the Site or features that (i) prevent or restrict use or copying of Content or (ii) enforce limitations on use of the App and/or the Site or the content accessible via the App and/or the Site;
 
 f)     you agree not to use the App and/or the Site for any of the following commercial uses unless you obtain NAGRAVISION’s prior written approval:
 
-i. the sale of access to the App and/or the Site;
+i. the sale of access to the Services, App and/or the Site;
 
 ii. the sale of advertising, sponsorships or promotions placed on or within the App and/or the Site, or Content;
 
@@ -72,9 +66,9 @@ h)    you agree not to use the App and/or the Site for the solicitation of bu
 
 i)      you agree not to solicit, for commercial purposes, any users of the App and/or the Site with respect to their Content;
 
-j)      you agree not to access Content for any reason other than your personal, non-commercial use solely as intended through and permitted by the normal functionality of the App and/or the Site, and solely for Streaming and downloading when offered by the App and/or the Site. “**Streaming**” means a contemporaneous digital transmission of the material by NAGRAVISION via the Internet to a user operated Internet enabled device in such a manner that the data is intended for real- time viewing and not intended to be downloaded (either permanently or temporarily), copied, stored, or redistributed by the user; and
+j)      you agree not to access Content for any reason other than your personal, non-commercial use solely as intended through and permitted by, the normal functionality of the App and/or the Site, and solely for Streaming and downloading when offered by the App and/or the Site. “**Streaming**” means a contemporaneous digital transmission of the material by NAGRAVISION via the Internet to a user operated Internet enabled device in such a manner that the data is intended for real- time viewing and not intended to be downloaded (either permanently or temporarily), copied, stored, or redistributed by the user; and
 
-k)    you shall not copy, reproduce, distribute, transmit, broadcast, display, sell, license, or otherwise exploit any Content for any other purposes without the prior written consent of NAGRAVISION or the respective licensors of the Content.
+k)    you shall not archive, copy, reproduce, distribute, modify, transmit, broadcast, display, perform, publish, sell, license, or otherwise exploit any Content for any other purposes without the prior written consent of NAGRAVISION or the respective licensors of the Content.
 
 You agree that you will comply with all of the other provisions of these Terms at all times during your use of the App and/or the Site.
 
@@ -161,19 +155,19 @@ Unless otherwise expressly agreed in writing by NAGRAVISION, the viewing, printi
 **Intellectual Property Rights on Material**
 --------------------------------------------
 
-“Material” includes NAGRAVISION Content on the Site not submitted to the App and/or the Site by you. All Material on the App and/or the Site is either owned by or licensed to NAGRAVISION, and is subject to copyright, trade mark rights, and other intellectual property rights of NAGRAVISION or NAGRAVISION’s licensors. Any third party trade or service marks present on Material are trade or service marks of their respective owners. Such Material may not be downloaded, copied, reproduced, distributed, transmitted, broadcast, displayed, sold, licensed, or otherwise exploited for any other purpose whatsoever without the prior written consent of NAGRAVISION or, where applicable, NAGRAVISION’s licensors.
+“Material” includes NAGRAVISION Content on the Site not submitted to the App and/or the Site by you. All Material on the App and/or the Site is either owned by or licensed to NAGRAVISION, and is subject to copyright, trademark rights, and other intellectual property rights of NAGRAVISION or NAGRAVISION’s licensors. Any third-party trade or service marks present on Material are trade or service marks of their respective owners. Such Material may not be downloaded, copied, reproduced, distributed, transmitted, broadcast, displayed, sold, licensed, or otherwise exploited for any other purpose whatsoever without the prior written consent of NAGRAVISION or, where applicable, NAGRAVISION’s licensors.
 
 NAGRAVISION and its licensors reserve all rights not expressly granted in and to their Material.
 
 **Use of Software**
 -------------------
 
-The software and accompanying documentation that is made available to download from the App and/or the Site is the copyrighted and/or patented work of NAGRAVISION and/or its suppliers. Use of the software is governed by the terms of the license agreement that accompanies or is included with such software. Such terms are incorporated by reference herein. You will not be able to install or use any software that is accompanied by or includes a license agreement unless you agree to the terms of such license agreement. If you do not agree to such terms, you will not be able to use the software. Absent a license agreement that accompanies the software, use of the software will be governed by this Agreement. You agree that you will not decompile, reverse engineer, or otherwise attempt to discover the source code of the software available from the App and/or the Site.
+The software and accompanying documentation that is made available to download from the App and/or the Site is the copyrighted and/or patented work of NAGRAVISION and/or its suppliers. Use of the software is governed by the terms of the license agreement that accompanies or is included with such software. Such terms are incorporated by reference herein. You will not be able to install or use any software that is accompanied by or includes a license agreement unless you agree to the terms of such license agreement. If you do not agree to such terms, you will not be able to use the software. Absent a license agreement that accompanies the software, use of the software will be governed by this Agreement. You agree that you will not decompile, reverse engineer, or otherwise attempt to discover the source code of the software or other products or processes available from the App and/or the Site.
 
 **Indemnification**
 -------------------
 
-You agree to indemnify, defend and hold NAGRAVISION and its affiliates (collectively, the “**Affiliated Parties**”) harmless from and against any liability, loss, claim or expense, including reasonable attorneys’ fees, related to your violation of these Terms or use of the Site.
+You agree to indemnify, defend and hold NAGRAVISION and its affiliates (collectively, the “**Affiliated Parties**”) harmless from and against any liability, loss, claim or expense, including reasonable attorneys’ fees, related to your violation of these Terms or use.
 
 **Warranties and Disclaimers**
 ------------------------------
