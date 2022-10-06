@@ -80,7 +80,6 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Stadt Wien – [data.wien.gv.at](https://www.data.gv.at/auftritte/?organisation=stadt-wien/) ([https://www.data.gv.at/netiquette/](https://www.data.gv.at/netiquette/))
             
-        * Open Data Austria - [https://creativecommons.org/licenses/by/4.0/deed.de](https://creativecommons.org/licenses/by/4.0/deed.de)
     4. **Belgium**
         * Institut Geographique National - IGN Belgium ([https://creativecommons.org/licenses/by/1.0/](https://creativecommons.org/licenses/by/1.0/))
             
@@ -280,6 +279,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         76. Government of Yukon: Contains information licensed under the Open Government Licence – Yukon - [https://open.yukon.ca/open-government-licence-yukon](https://open.yukon.ca/open-government-licence-yukon)
             
+        77. Donnees Quebec - [https://www.donneesquebec.ca/licence/#cc-by](https://www.donneesquebec.ca/licence/#cc-by)
+            
     7. **Denmark**
         * © COWI A/S
             
@@ -435,6 +436,12 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * OpenData Stadt Essen - [https://www.govdata.de/dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0)
             
+        * Offenes Datenportal Aachen - [https://www.govdata.de/dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0)
+            
+        * Offene Daten Wuppertal - [https://www.govdata.de/dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0)
+            
+        * Stadtverwaltung Gera - [https://www.govdata.de/dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0)
+            
     11. **Great Britain**
         * This Service contains Ordnance Survey data © Crown copyright and database right 2011, Royal Mail data © Royal Mail copyright and database right 2011, and National Statistics data © Crown copyright and database right 2011 ([https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf](https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf)). All rights reserved. © South West Coast Path Team. Contains information of Network Rail Infrastructure Limited licensed under the following [licence](https://www.networkrail.co.uk/terms-and-conditions/). Contains public sector information licensed under the [Open Government Licence v2.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/). Contains public sector information licensed under the Open Government Licence v3.0.
             
@@ -499,9 +506,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         Google’s maps of Hong Kong include business listings and transit data provided by Mapking International Limited – [www.mapking.com](https://www.mapking.com/).
         
     16. **Hungary**
-        
-        © GeoX – FÖMI – MoD Mapping Agency, 2012
-        
+        * © GeoX – FÖMI – MoD Mapping Agency, 2012
+            
+        * Centre for Budapest Transport (BKK) Licenses: [https://budapestgodokumentumok.bonsaix.com/content/article/510/altalanos-szerzodesi-feltetelek,](https://budapestgodokumentumok.bonsaix.com/content/article/510/altalanos-szerzodesi-feltetelek) [https://budapestgodokumentumok.bonsaix.com/content/article/510/uzletszabalyzat](https://budapestgodokumentumok.bonsaix.com/content/article/510/uzletszabalyzat)
+            
     17. **Iceland**
         * Contains data from the Evrópugögn database of the National Land Survey of Iceland from 3/2022 ([https://www.lmi.is/is/um-lmi/starfsemi/skilmalar-og-gjaldskra/gjaldskra](https://www.lmi.is/is/um-lmi/starfsemi/skilmalar-og-gjaldskra/gjaldskra))
             
