@@ -34,7 +34,7 @@ In addition, specific mentions appear on each collection form in order to ensure
 1\. Data controller
 -------------------
 
-Olvid, SAS with share capital of 30,000 euros, APE code 6201Z, whose registered office is located at 9 rue Charlot, Paris 75003, registered with the Paris Trade and Companies Registry under number B 850 667 171 and whose VAT number is FR07850667171.
+Olvid, SAS with share capital of 30,000 euros, APE code 6201Z, whose registered office is located at 26, rue Vignon, Paris 75009, registered with the Paris Trade and Companies Registry under number B 850 667 171 and whose VAT number is FR07850667171.
 
 2\. Purpose of the processing
 -----------------------------
@@ -158,7 +158,7 @@ For any question and/or to exercise Your rights, You may contact Olvid, by elect
 
 [contact@olvid.io](mailto:contact@olvid.io), or
 
-Olvid - 9 rue Charlot 75003 Paris.
+Olvid - 26, rue Vignon, Paris 75009.
 
 To stop receiving marketing messages from Olvid, You can also click on the unsubscribe link in each of Our messages.
 
