@@ -6,7 +6,7 @@ General terms and conditions of sale and use
 1\. INFORMATION ABOUT THE COMPANY
 ---------------------------------
 
-The Olvid application (hereinafter “the Application”) is published by the company Olvid, a simplified joint stock company with a share capital of € 30,000, registered in the Paris Trade and Companies Register under number 850 667 171, headquartered at 9 rue Charlot, 75003 Paris, and whose intra-community VAT number is FR07850667171.
+The Olvid application (hereinafter “the Application”) is published by the company Olvid, a simplified joint stock company with a share capital of € 30,000, registered in the Paris Trade and Companies Register under number 850 667 171, headquartered at 26, rue Vignon, Paris 75009, and whose intra-community VAT number is FR07850667171.
 
 The director and responsible for the publication is Thomas Baignères.
 
