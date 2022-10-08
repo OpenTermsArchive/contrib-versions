@@ -226,7 +226,7 @@ We may also provide your Personal Information to a third party in connection wit
 International Transfer And Storage Of Information Collected
 -----------------------------------------------------------
 
-Bitwarden and our subprocessors and vendors primarily store information collected from you within the European Economic Area and the United States. To facilitate our global operations, we may transfer and access such Personal Information from around the world, including from other countries in which Bitwarden or our subprocessors have operations. For more information about our subprocessors, visit [https://bitwarden.com/help/article/subprocessors/](https://bitwarden.com/help/article/subprocessors/).
+Bitwarden and our subprocessors and vendors primarily store information collected from you within the European Economic Area and the United States. To facilitate our global operations, we may transfer and access such Personal Information from around the world, including from other countries in which Bitwarden or our subprocessors have operations. For more information about our subprocessors, visit [https://bitwarden.com/help/subprocessors/](https://bitwarden.com/help/subprocessors/).
 
 We use applicable, approved information transfer mechanisms where required, such as EU Standard Contractual Clauses (SCCs), or the EU - U.S. Privacy Shield.
 
