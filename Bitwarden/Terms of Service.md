@@ -151,7 +151,7 @@ hidden link anchor
 
 1\. Account Cancellation
 
-It is your responsibility to properly cancel your account with Bitwarden. You can [delete your account at any time](https://bitwarden.com/help/article/delete-your-account/) by going into your web vault Settings. The Settings screen provides a simple, no questions asked delete option.
+It is your responsibility to properly cancel your account with Bitwarden. You can [delete your account at any time](https://bitwarden.com/help/delete-your-account/) by going into your web vault Settings. The Settings screen provides a simple, no questions asked delete option.
 
 2\. Upon Cancellation
 
