@@ -3,24 +3,22 @@ Privacy Notice
 
 Versions:
 
-August 16, 2021 (current)July 1, 2021November 2, 2020August 6, 2020July 7, 2020November 20, 2019September 26, 2019January 2, 2019April 11, 2018September 12, 2016April 7, 2016July 8, 2015January 1, 2015December 10, 2014October 29, 2013February 5, 2013March 28, 2012June 27, 2011SurveyMonkey Apply-FluidReview Privacy Policy (archived)TechValidate Privacy Policy (archived)Wufoo Privacy Statement (archived)
+October 10, 2022 (current)August 16, 2021July 1, 2021November 2, 2020August 6, 2020July 7, 2020November 20, 2019September 26, 2019January 2, 2019April 11, 2018September 12, 2016April 7, 2016July 8, 2015January 1, 2015December 10, 2014October 29, 2013February 5, 2013March 28, 2012June 27, 2011SurveyMonkey Apply-FluidReview Privacy Policy (archived)TechValidate Privacy Policy (archived)Wufoo Privacy Statement (archived)
 
-LAST UPDATED: August 16, 2021
+LAST UPDATED: October 10, 2022
 
-California residents: Please visit our [California Supplemental Privacy Notice](https://www.surveymonkey.com/mp/legal/region-specific-privacy-statement/) for more information on our privacy practices.
-
-Effective July 1, 2021, SurveyMonkey Inc. became Momentive Inc., SurveyMonkey Europe UC became Momentive Europe UC, SurveyMonkey Brasil Internet Eireli became Momentive Brasil Internet Eireli, and Usabilla BV became Momentive Netherlands B.V.
+US residents: Please visit our [Region Specific Privacy Notice](https://www.surveymonkey.com/mp/legal/region-specific-privacy-statement/) for more information on our privacy practices.
 
 1\. Introduction
 ----------------
 
 This Privacy Notice applies to all the products, services, websites and apps offered by Momentive Inc., Momentive Europe UC, Momentive Brasil Internet Eireli, Momentive Netherlands B.V., and other Momentive affiliates (collectively “Momentive”), except where otherwise noted. We refer to those products, services, websites, and apps collectively as the “services” in this notice. Unless otherwise noted in your contract, our services are provided by Momentive Inc. inside of the United States, by Momentive Brasil Internet Eireli inside of Brazil, and by Momentive Europe UC everywhere else.
 
-References to "data" in this Privacy Notice will refer to whatever data you use our services to collect, whether it be survey or questionnaire responses, data collected in a form or application, or data inserted on a site hosted by us – it’s all your data! Reference to personal information or just information, means information about you personally that we collect or for which we act as custodian.
+References in this Privacy Notice, to data, personal information or just information, are all references to Personal Data. Personal Data means information relating to a living individual who is, or can be, reasonably identified from information, either alone or in conjunction with other information (a "**Data Subject**").
 
 If you want to identify your data controller please see the “[Who is my data controller?](https://www.surveymonkey.com/mp/legal/privacy/?ut_source=legal&ut_source2=privacy&ut_source3=inline#who-is-my-data-controller)” section below.
 
-For a quick snapshot of how Momentive treats data and personal information see our [Privacy Basics](https://www.surveymonkey.com/mp/legal/privacy-basics/?ut_source=legal&ut_source2=privacy&ut_source3=inline).
+For a quick snapshot of how Momentive treats personal information see our [Privacy Basics](https://www.surveymonkey.com/mp/legal/privacy-basics/?ut_source=legal&ut_source2=privacy&ut_source3=inline).
 
 2\. Information we collect
 --------------------------
@@ -68,7 +66,7 @@ Account Information
 When you use our services, we may also collect the following data on your behalf for certain services:
 
 * Address book information.  
-    We may allow you to import email addresses and other contact information into an [Address Book](https://help.surveymonkey.com/articles/en_US/kb/What-is-the-address-book) so you can easily invite people to take your surveys or fill in your form via our collectors. We do not use this data for our own purposes or to contact anyone, except at your direction.
+    We may allow you to import email addresses and other contact information into an [Address](https://help.surveymonkey.com/en/send/importing-email-lists/) [Book](https://help.surveymonkey.com/articles/en_US/kb/What-is-the-address-book) so you can easily invite people to take your surveys or fill in your form via our collectors. We do not use this data for our own purposes or to contact anyone, except at your direction.
 * Survey/form/application data.  
     We store your survey/form/application data (questions and responses) for you and provide analysis tools for you to use with respect to this data.
 * Profile information.  
@@ -163,7 +161,7 @@ When you use our services, we may also collect the following data on your behalf
     
     * Your Account Information.
     
-    We need to use your account information to run your account, provide you with services, bill you for our services, provide you with customer support, and contact you or your organization about your service or account. We occasionally send you communications of a transactional nature (e.g. service-related announcements, billing-related matters, changes to our services or policies, a welcome email when you first register). You cannot opt out of these communications since they are required to provide our services to you.
+    We need to use your account information to run your account, provide you with services, bill you for our services, provide you with customer support, and contact you or your organization about your service or account. We may also use billing information in aggregate to determine billing and payment trends and, as needed, to adjust or manage pricing at the individual level or across all service users. We occasionally send you communications of a transactional nature (e.g. service-related announcements, billing-related matters, changes to our services or policies, a welcome email when you first register). You cannot opt out of these communications since they are required to provide our services to you.
     
     * Your Profile.
     
@@ -173,13 +171,13 @@ When you use our services, we may also collect the following data on your behalf
     
     In relation to Survey Data
     
-    * Your Data.
+    * Your Content.
     
-    We also use survey questions and responses on an aggregated or anonymized basis as described in this Privacy Notice. We will never sell individual response data or identify / contact individual respondents except on your request or where required by law. Feature descriptions will identify where this is feature linked. In some cases you can avoid the use of your questions/responses in this way by simply choosing not to use a feature or by indicating your preferences in your account. See our “[Respondent](https://www.surveymonkey.com/mp/legal/privacy/#three-two-respondent)” section.
+    We also use survey questions and responses on an aggregated or deidentified basis as described in this Privacy Notice. We will never sell individual response data or identify/contact individual respondents except on your request or where required by law. Feature descriptions will identify where this is feature linked. See our “[Respondent](https://www.surveymonkey.com/mp/legal/privacy/#three-two-respondent)” section.
     
     If you are part of a SurveyMonkey Enterprise plan, your plan’s administrator(s) can transfer your survey questions and responses to, or share them with, other members in your team, including your plan’s administrator(s) themselves.  Your plan’s administrator(s) can also delete your survey questions and responses.  Your plan’s administrator(s) may also have the ability to make changes to any aspects of your survey questions and analysis.  Please refer to your organization’s internal policies if you have questions about this. 
     
-    Finally, if you use our survey tool, depending on the package you are on and the settings you have selected, your Respondents may reach the standard [survey end page](https://help.surveymonkey.com/articles/en_US/kb/What-are-the-Survey-Completion-options) on completion of a survey. The end page is part of the Momentive website. We may include our own [research surveys](https://www.surveymonkey.com/mp/legal/survey-research-privacy-notice/) and polling on this end page. These surveys are optional for any Respondent to take or skip.
+    Finally, if you use our survey tool, depending on the package you are on and the settings you have selected, your Respondents may reach the standard [survey end page](https://help.surveymonkey.com/en/create/survey-end-page/) on completion of a survey. The end page is part of the Momentive website. We may include our own [research surveys](https://www.surveymonkey.com/mp/legal/survey-research-privacy-notice/) and polling on this end page. These surveys are optional for any Respondent to take or skip.
     
 * 3.2 Respondent
     
@@ -201,19 +199,19 @@ When you use our services, we may also collect the following data on your behalf
     
     Our customer support team uses your email address to communicate with you if you have contacted us about a survey, form, application, or questionnaire you received, but we will not send marketing to you unless you have otherwise opted-in to marketing.
     
-    * How you use our services (applicable to survey Respondents only).
+    * How you use our services.
     
     We use information about how you use our services to improve our services for you and all users.
     
     Examples
     
-    We collect information about the types of questions you answer. This data will be aggregated and anonymized so we can examine patterns in terms of respondent preferences when submitting responses (see further below in Information for Survey Respondent [section](https://www.surveymonkey.com/mp/legal/privacy/#two-one-respondents)). We collect and use all this data for our legitimate interests like helping us improve the experience for respondents (so that questions are easier to answer), for training purposes and to understand industry trends in and to help improve the completion rates on surveys/forms.
+    We collect information about the types of questions you answer. This data will be aggregated and deidentified so we can examine patterns in terms of respondent preferences when submitting responses (see further below in Information for Survey Respondent [section](https://www.surveymonkey.com/mp/legal/privacy/#two-one-respondents)). We collect and use all this data for our legitimate interests like helping us improve the experience for respondents (so that questions are easier to answer), for training purposes and to understand industry trends in and to help improve the completion rates on surveys/forms.
     
     We will also use usage information such as the type of survey, form, questionnaire or application that you answered to personalize products we show you on completion of a survey when you are re-directed to our website and to make recommendations to our customers about usage of our services.
     
     * Device and browser data.
     
-    We use device data both to troubleshoot problems with our service and to make improvements to it. We also infer your geographic location based on your IP address.
+    We use device data both to troubleshoot problems with our service and to make improvements to it. We also may infer your geographic location based on your IP address.
     
     Other Examples
     
@@ -238,7 +236,7 @@ When you use our services, we may also collect the following data on your behalf
     
     * Machine learning.
     
-    We will use machine learning techniques on response data, metadata (as described above) and cookie data, in order to provide Creators with useful and relevant insights from the data they have collected using our services, to build features, improve our services, for fraud detection and to develop aggregated data products. You can read more about this in relation to Momentive surveys below.
+    We will use machine learning techniques on response data, metadata (as described above) and cookie data, in order to provide Creators with useful and relevant insights from the data they have collected using our services, to build features, improve our services, for fraud detection and to develop aggregated data products. You can read more about this in relation to surveys below.
     
     * To manage our services we will also internally use your information and data, for the following limited purposes:
     
@@ -256,13 +254,13 @@ When you use our services, we may also collect the following data on your behalf
     
     Creator and Respondent trust is paramount to everything we do and so when we do use data about Respondents, we put Creators and Respondents first. When we do an analysis of response data we only do so once we aggregate and anonymize or pseudonymize the data.
     
-    We go into more detail below on how Momentive uses survey data. A Creator has some controls over how we use responses in their Account settings and may have turned off our ability to apply machine learning to responses where it is [linked to a specific product feature](https://help.surveymonkey.com/articles/en_US/kb/Automatic-Insights) in some cases.
+    We go into more detail below on how Momentive uses survey data. A Creator has some controls over how we use responses in their Account settings and may have turned off our ability to apply machine learning to responses where it is [linked to a](https://help.surveymonkey.com/articles/en_US/kb/Automatic-Insights) [specific](https://help.surveymonkey.com/en/policy/automatic-insights/) [product feature](https://help.surveymonkey.com/articles/en_US/kb/Automatic-Insights) in some cases.
     
     Momentive uses data in the ways described below, for our legitimate interests as described in this section:
     
     The data impacted by this section includes:
     
-    * Survey type, question type and responses (at an aggregated and anonymized level only)
+    * Survey type, question type and responses (at an aggregated and anonymized/pseudonymized level only)
     * Device data
     * Log data
     
@@ -270,14 +268,14 @@ When you use our services, we may also collect the following data on your behalf
     
     * Aggregate response data and activity:
     
-    We will do this so that we can identify trends, build product features that optimize responses, make product recommendations and provide guidance on which products and services work best in different scenarios. For an example of this check out how [SurveyMonkey Genius works here](https://help.surveymonkey.com/articles/en_US/kb/SurveyMonkey-Genius).
+    We will do this so that we can identify trends, build product features that optimize responses, make product recommendations and provide guidance on which products and services work best in different scenarios. For an example of this check out how [SurveyMonkey](https://help.surveymonkey.com/articles/en_US/kb/SurveyMonkey-Genius) [Genius](https://help.surveymonkey.com/en/create/surveymonkey-genius/) [works here](https://help.surveymonkey.com/articles/en_US/kb/SurveyMonkey-Genius).
     
     * Extract and analyze usage patterns:
     
-    By understanding response data and Respondent interaction in different types of surveys we can:
+    By understanding Respondent interaction in different types of surveys we can:
     
     * improve our services and ease of use: for example, we might identify when respondents prefer multiple choice versus open text questions and make predictive response suggestions when certain question types are selected. We might also use this data to help improve analysis of responses,
-    * undertake personalization for survey Creators and Respondents (for example by customizing the page on our website which a Respondent sees at the end of a survey - See more about [Customizing Survey End Page here](https://help.surveymonkey.com/articles/en_US/kb/What-are-the-Survey-Completion-options)). If a Respondent does not want to be included in this personalization they can [clear the cookies in their browser settings after taking a survey](https://help.surveymonkey.com/articles/en_US/kb/How-do-I-opt-out-of-e-mails-from-SurveyMonkey),
+    * undertake personalization for survey Creators and Respondents (for example by customizing the page on our website which a Respondent sees at the end of a survey - See more about [Customizing Survey End Page here](https://help.surveymonkey.com/en/create/survey-end-page/)). If a Respondent does not want to be included in this personalization they can [clear the cookies in their browser settings after taking a survey](https://help.surveymonkey.com/en/account/opt-out/),
     * improve user experience (for example, by collecting and using device and browser information from Respondents to improve how our survey service operates on those devices and in those browsers), and
     * identify insightful data trends (which never identify any individuals).
     
@@ -441,7 +439,7 @@ We use Google Analytics as a tool to measure the success of our advertising camp
 
 Where you have explicitly consented, or have not disabled third party advertising cookies (depending on your location), we will also use Google Analytics data to support display advertising, including re-targeting. In addition to customizing your preferences for these behaviors through steps we have outlined in our banners and privacy notices you can also customize the Google Display Network ads by using the [Google Ad Preferences Manager](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=en) and learn more about how Google serves ads by viewing its Customer Ads Help Center.
 
-You can also choose to remove or disable cookies via your [browser settings](https://help.surveymonkey.com/articles/en_US/kb/How-do-I-opt-out-of-e-mails-from-SurveyMonkey) and, depending on your geographic location you can withdraw consent to non-essential cookies using the in-product cookie preferences tool.
+You can also choose to remove or disable cookies via your [browser settings](https://help.surveymonkey.com/en/account/opt-out/) and, depending on your geographic location you can withdraw consent to non-essential cookies using the in-product cookie preferences tool.
 
 7\. Security
 ------------
@@ -451,7 +449,7 @@ We have a security statement related to our self-serve businesses (Momentive, Su
 8\. Data Retention
 ------------------
 
-If you are a Creator, we generally do not delete the data in your account as long as your account is active – you are responsible for and control the time periods for which you retain this data. You can read about this [here](https://help.surveymonkey.com/articles/en_US/kb/SurveyMonkey-Data) for account use. Here are some exceptions:
+If you are a Creator, we generally do not delete the data in your account as long as your account is active – you are responsible for and control the time periods for which you retain this data. You can read about this [here](https://help.surveymonkey.com/en/policy/surveymonkey-data/) for account use. Here are some exceptions:
 
 * If you are a SurveyMonkey Basic (free) user on our platforms and you have not engaged with the service actively for some time, we reserve the right to delete your account and data in accordance with our data retention policy.
 * If you have exceeded your response limit as a SurveyMonkey Basic (free) account holder, we will delete the overages if you do not upgrade within a fixed timeframe.
@@ -470,7 +468,7 @@ Our services are not intended for and may not be used by minors. “Minors” ar
 
 Your information and data may be processed in and transferred or disclosed in the United States and countries in which our affiliates are located and in which our service providers are located or have servers. You can view where our affiliates are located on the [Office Locations](https://www.surveymonkey.com/mp/aboutus/office-locations/) page. We ensure that the recipient of your Personal Data offers an adequate level of protection, for instance by entering into the appropriate back-to-back agreements. We apply our standard [Data Processing Agreement](https://www.surveymonkey.com/mp/legal/data-processing-agreement?ut_source=legal&ut_source2=privacy&ut_source3=inline) to all our customer agreements and we use standard contractual clauses for the transfer of data as approved by the European Commission.
 
-We have also provided a [help article](https://help.surveymonkey.com/articles/en_US/kb/SurveyMonkey-Data-Transfers-and-EU-Laws) which answers some additional questions about data transfers to the US.
+We have also provided a [help article](https://help.surveymonkey.com/en/policy/data-processing-agreements-eu/) which answers some additional questions about data transfers to the US.
 
 EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield.
 
@@ -492,7 +490,7 @@ We can make changes to the [Privacy Basics](https://www.surveymonkey.com/mp/lega
 12\. Personalized marketing
 ---------------------------
 
-You can opt-out from direct marketing in your account and we provide opt-out options in all direct marketing emails. Finally, if you do not wish to see personalized marketing content on the web related to our service you can clear the cookies in your browser settings. See our Help Center article on how to do this [here](https://help.surveymonkey.com/articles/en_US/kb/How-do-I-opt-out-of-e-mails-from-SurveyMonkey).
+You can opt-out from direct marketing in your account and we provide opt-out options in all direct marketing emails. Finally, if you do not wish to see personalized marketing content on the web related to our service you can clear the cookies in your browser settings. See our Help Center article on how to do this [here](https://help.surveymonkey.com/en/account/opt-out/).
 
 13\. Who is my data controller?
 -------------------------------
@@ -510,17 +508,17 @@ For SurveyMonkey Apply users please see [information on how to exercise your rig
 
 * Creator
     
-    Where you hold an account with any Momentive service, you are entitled to a copy of all personal data which we hold in relation to you. You also may be entitled to request that we restrict how we use your data or object to some aspect of our treatment of your data. You can access a lot of your data in your own account when you log in. If you want to exercise your rights, please contact us [here](https://help.surveymonkey.com/contact?l=en&form=datarequest).
+    Where you hold an account with any Momentive service, you are entitled to a copy of all personal data which we hold in relation to you. You also may be entitled to request that we restrict how we use your data or object to some aspect of our treatment of your data. You can access a lot of your data in your own account when you log in. If you want to exercise your rights, please contact us [here](https://help.surveymonkey.com/en/contact/?l=en&form=datarequest).
     
     Depending on your plan type, Momentive also enables you to export your own response data from our system in a variety of formats so that you can back it up or use it with other applications. Alternatively, for assistance in exporting you can contact us.
     
 * Respondent
     
-    Where you have responded to a survey, form, questionnaire or application sent to you by a Creator using a Momentive service, you will need to reach out directly to that individual or organization to discuss managing, deleting, accessing, restricting access to or otherwise withdrawing consent for use of the information which you provided to them in your responses. Momentive does not control your response data and, accordingly, is not in a position to directly handle these requests in relation to that data. If you are having difficulties finding this Creator or if you have any other questions after reading this Privacy Notice, you can [contact us through our support team](https://help.surveymonkey.com/contact?l=en&form=datarequest) and we will try our best to help you.
+    Where you have responded to a survey, form, questionnaire or application sent to you by a Creator using a Momentive service, you will need to reach out directly to that individual or organization to discuss managing, deleting, accessing, restricting access to or otherwise withdrawing consent for use of the information which you provided to them in your responses. Momentive does not control your response data and, accordingly, is not in a position to directly handle these requests in relation to that data. If you are having difficulties finding this Creator or if you have any other questions after reading this Privacy Notice, you can [contact us](https://help.surveymonkey.com/contact?l=en&form=datarequest) [through](https://help.surveymonkey.com/en/contact/?l=en&form=datarequest) [our support team](https://help.surveymonkey.com/contact?l=en&form=datarequest) and we will try our best to help you.
     
 * Visitor
     
-    Where you have visited our website and you want to exercise any of the above rights please contact our support team [here](https://help.surveymonkey.com/contact?l=en&form=datarequest). Alternatively, if your request is for the right to be forgotten as it relates only to our use of cookies you can achieve this by clearing the cookies in your browser settings. See our Help Center article describing how to do this [here](https://help.surveymonkey.com/articles/en_US/kb/How-do-I-opt-out-of-e-mails-from-SurveyMonkey).
+    Where you have visited our website and you want to exercise any of the above rights please contact our support team [here](https://help.surveymonkey.com/en/contact/?l=en&form=datarequest). Alternatively, if your request is for the right to be forgotten as it relates only to our use of cookies you can achieve this by clearing the cookies in your browser settings. See our Help Center article describing how to do this [here](https://help.surveymonkey.com/en/account/opt-out/).
     
 * Third Party Agents
     
@@ -534,7 +532,7 @@ For SurveyMonkey Apply users please see [information on how to exercise your rig
 
 Other rights and choices
 
-* For rights and choices specific to California consumers, please refer to our [California Supplemental Privacy Notice](https://www.surveymonkey.com/mp/legal/region-specific-privacy-statement/?ut_source=legal&ut_source2=privacy&ut_source3=inline). Please note we will take reasonable steps to verify your identity and the authenticity of your request as described in that Notice.
+* For rights and choices specific to US consumers, please refer to our [Region Specific Privacy Notice](https://www.surveymonkey.com/mp/legal/region-specific-privacy-statement/). Please note we will take reasonable steps to verify your identity and the authenticity of your request as described in that Notice.
 
 15\. Exercising your rights
 ---------------------------
@@ -545,7 +543,7 @@ Momentive Inc.
 1 Curiosity Way  
 San Mateo, California 94403  
 United States  
-Or contact us [here](https://help.surveymonkey.com/contact?l=en&form=datarequest).
+Or contact us [here](https://help.surveymonkey.com/en/contact/?l=en&form=datarequest).
 
 Momentive Europe UC  
 2 Shelbourne Buildings,  
@@ -554,8 +552,12 @@ Shelbourne Rd
 Ballsbridge,  
 Dublin 4,  
 Ireland  
-Or contact us [here](https://help.surveymonkey.com/contact?l=en&form=datarequest).  
-Note that our contact form is the [best](https://help.surveymonkey.com/contact?l=en&form=datarequest) way to make a rights request with us.
+Or contact us [here](https://help.surveymonkey.com/en/contact/?l=en&form=datarequest).
+
+**Data Protection Officer**: Momentive’s Data Protection Officer is registered with the Irish Data Protection Commission.  Contact our DPO at dpo@momentive.ai
+
+  
+Note that our contact form is the [best](https://help.surveymonkey.com/en/contact/?l=en&form=datarequest) way to make a rights request with us.
 
 Complaints
 
@@ -568,7 +570,7 @@ ALTHOUGH THIS NOTICE APPLIES TO ALL OUR SERVICES, IF YOU ARE USING THE BELOW SER
 
 [TECHVALIDATE](https://www.surveymonkey.com/mp/legal/privacy-information-specific-to-other-services?ut_source=legal&ut_source2=privacy&ut_source3=inline)
 
-[SURVEYMONKEY APPLY OR FLUIDREVIEW](https://www.surveymonkey.com/mp/legal/privacy-information-specific-to-other-services?ut_source=legal&ut_source2=privacy&ut_source3=inline)
+[SURVEYMONKEY APPLY](https://www.surveymonkey.com/mp/legal/privacy-information-specific-to-other-services)
 
 [WUFOO](https://www.surveymonkey.com/mp/legal/privacy-information-specific-to-other-services?ut_source=legal&ut_source2=privacy&ut_source3=inline)
 
