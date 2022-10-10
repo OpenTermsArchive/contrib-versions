@@ -299,4 +299,4 @@ What we do with your data
 
 #### TIP US OFF
 
-[Send news / corrections](https://www.theregister.com/Profile/contact/)
+[Send us news](https://www.theregister.com/Profile/contact/)
