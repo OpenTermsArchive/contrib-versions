@@ -136,4 +136,4 @@ These Terms (as amended from time to time) are exclusively governed by and are c
 
 #### TIP US OFF
 
-[Send news / corrections](https://www.theregister.com/Profile/contact/)
+[Send us news](https://www.theregister.com/Profile/contact/)
