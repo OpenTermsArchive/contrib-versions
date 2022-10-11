@@ -479,18 +479,23 @@ Attention: Customer Service Team,
 
 Eligibility:  
   
-New Energia Domestic customers with a Nightsaver Meter (Day/Night meter), either Dual Fuel or single fuel electricity.  
+New Energia Domestic customers with a Nightsaver Meter (Day/Night/Smart interval meter), either Dual Fuel or single fuel electricity.  
   
-Customers must agree to receive their bills online and pay their bills by direct debit to receive the full discount  
+Customers must agree to receive their bills online and pay their bills by direct debit to receive the full discount.  
+  
 The normal thresholds for nightsaver apply in terms of the kWh usage (Above 3,000kWh day usage and 2,000kWh night usage each billing period).  
+  
+For SMART interval customers a new charge time has been introduced from 2am to 6am with a threshold of 1000kWh usage per billing period, no thresholds apply to the day, night or peak usage.   
   
 Contract length/Type  
   
-The contract duration is 12 months, after which the customer will revert to Energia’s standard Nightsaver plan.  
+For Nightsaver customers, the contract duration is 12 months, after which the customer will revert to Energia’s standard Nightsaver plan.  
+  
+For SMART interval customers the contract duration is 24 months.  
   
 The Public Service Obligation (PSO) Levy is set annually in October. This applies to all domestic electricity customers irrespective of supplier.  The Carbon Tax is set annually by the Revenue. This tax applies to all domestic natural gas customers, irrespective of supplier.  
   
-The standing charges are subject to change in accordance with our General Terms and Conditions.  
+The unit rates and standing charges are subject to change in accordance with our General Terms and Conditions.  
   
 Charges/Discounts  
   
