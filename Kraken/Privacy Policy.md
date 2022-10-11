@@ -1,4 +1,4 @@
-_Last Updated: Jul 15, 2022_
+_Last Updated: Oct 10, 2022_
 
 1. Introduction
     ------------
@@ -30,6 +30,8 @@ _Last Updated: Jul 15, 2022_
     
     2.1.5 “Personal Information” or “Personal Data” or “your data” refers to any information relating to you, as an identified or identifiable natural person, including your name, an identification number, location data, or an online identifier or to one or more factors specific to the physical, economic, cultural or social identity of you as a natural person.
     
+    2.1.6 “VASP Services” means exchange between virtual assets and fiat currencies; exchange between one or more forms of virtual assets; transfer of virtual assets, that is to say, conduct a transaction on behalf of another person that moves a virtual assets from one virtual asset address or account to another; and act as a custodian wallet provider.
+    
 3. Your Data Controller
     --------------------
     
@@ -45,7 +47,7 @@ _Last Updated: Jul 15, 2022_
         
     * If you reside in the United States, you are contracting with Payward Ventures Inc., 237 Kearny Street #102, San Francisco, CA 94108.
         
-    * If you reside in Italy you are contracting with Payward Europe Solutions Limited, Italian Branch, 21 Via San Marco, Milan, MI, 20121, Italy
+    * If you reside in Italy you are contracting with Payward Europe Solutions Limited, 70 Sir John Rogerson’s Quay, Dublin 2, D02 R296, operating through its Italian Branch, Payward Europe Solutions Limited, Italian Branch, 21 Via San Marco, Milan, MI, 20121, Italy (for VASP Services). For all other clients located in the European Economic Area you are contracting with Payward International Markets Limited, Trinity Chambers, PO BOX 4301, Road Town, Tortola, British Virgin Islands.
         
     * If you reside in the rest of the world (other than Japan, in which case, you have been provided with a separate privacy notice that is applicable to you), you are contracting with Payward Trading Ltd., c/o SHRM Trustees (BVI) Limited, Trinity Chambers, Ora et Labora Building, Road Town, Tortola, VG1110, British Virgin Islands.
         
