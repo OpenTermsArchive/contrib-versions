@@ -9,7 +9,7 @@
     2. If you reside in Canada - Payward Canada Inc., 1100-1959 Upper Water Street, Halifax, NS B3J 3N2, Canada.
     3. If you reside in the UK - Payward Ltd., 6th Floor, One London Wall, London, EC2Y 5EB, United Kingdom.
     4. If you reside in the United States - Payward Ventures, Inc., 237 Kearny Street #102, San Francisco, CA 94108, USA.
-    5. If you reside in Italy - Payward Europe Solutions Limited, Italian Branch,  21 Via San Marco, Milan, MI, 20121, Italy
+    5. If you reside in Italy - Payward Europe Solutions Limited, Italian Branch,  21 Via San Marco, Milan, MI, 20121, Italy (for VASP Services). Otherwise if you reside in the European Economic Area - Payward International Markets Limited, Trinity Chambers, PO BOX 4301, Road Town, Tortola, British Virgin Islands.
     6. If you reside in any other country not set forth in 1.1-1.5 above (other than Japan, in which case, you have been provided with a separate terms of service that is applicable to you) - Payward Trading Ltd., c/o SHRM Trustees (BVI) Limited, Trinity Chambers, Ora et Labora Building, Road Town, Tortola, VG1110, British Virgin Islands.
     
     * ### Key Definitions
@@ -25,6 +25,7 @@
         * "Kraken Account" means a user account accessible via the Services where Assets may be stored by Payward on behalf of a user.
         * "Legal Tender" means any national currency, such as U.S. dollars, that may be used in connection with a purchase or sale of Digital Assets or NFTs via the Services, and does not include any Digital Asset or NFT.
         * “NFT” means a ‘non-fungible’ token or similar digital item implemented on a blockchain (such as the Ethereum blockchain), which uses smart contracts or similar technology (such as tokens complying with the ERC-721 standard, ERC-1155 standard or similar ‘non-fungible’ token standard) to link to or otherwise be associated with certain content or data. 
+        * “VASP Services” means exchange between virtual assets and fiat currencies; exchange between one or more forms of virtual assets; transfer of virtual assets, that is to say, conduct a transaction on behalf of another person that moves a virtual assets from one virtual asset address or account to another; and act as a custodian wallet provider.
 2. ### Eligibility
     
     Payward may not make the Services available in all markets and jurisdictions, and may restrict or prohibit use of the Services from certain U.S. states or foreign jurisdictions ("Restricted Locations"). If you are registering to use the Services on behalf of a legal entity, you represent and warrant that (i) such legal entity is duly organized and validly existing under the applicable laws of the jurisdiction of its organization; and (ii) you are duly authorized by such legal entity to act on its behalf.  
