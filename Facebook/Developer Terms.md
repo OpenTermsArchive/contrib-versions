@@ -1,4 +1,4 @@
-We are introducing an update to Section 10 of the Platform Terms (related to International Transfers from the European Economic Area) in respect of the [Meta-wide Technical and Organizational Measures](https://www.facebook.com/legal/terms/Privacy/TOMs). You can preview the update [here](https://www.facebook.com/legal/platform_terms_preview). Developers should review this update to ensure their practices comply with the updated requirements before they go into effect October 11, 2022. However, there is no action required in order to agree to the new terms and policies.
+We are updating Section 7(e)(iii) of the Platform Terms in respect of when we may remove an App’s access to any Platform APIs, permissions, or features that your App has not used or accessed within a certain period of time. You can preview the update [here](https://www.facebook.com/legal/platform_terms_sect_7). Effective as of December 15, 2022, the Platform Terms will require activity within a 28-day period to be deemed active. If you receive notice that your app has been inactive and you wish to reinstate your app, you can do so by going into your app admin role and reinstating it.
 
 The Facebook company is now Meta. We’ve updated our Platform Terms to reflect the new name on February 8, 2022. While our company name has changed, we are continuing to offer the same products, including the Facebook app from Meta. Our Data Policy and Terms of Service remain in effect, and this name change does not affect how we use or share data. [Learn more about Meta](https://about.facebook.com/meta) and our vision for the metaverse.
 
@@ -439,7 +439,7 @@ Whenever there is an EEA Data Transfer, your use of Meta Ireland Data is subject
         iii. "Sensitive data" is personal data about a person's racial or ethnic origin, political opinions, religious or philosophical beliefs, trade-union membership, genetic data, biometric data for the purpose of uniquely identifying a natural person, data concerning health or data concerning a natural person's sex life or sexual orientation, criminal convictions or alleged commission of an offence;
         
     *   
-        iv. "Frequency of the transfer" is on a continuous basis to the extent required to fulfil the purpose outlined in Section 10(b)(v) below;
+        iv. "Frequency of the transfer" is on a continuous basis to the extent required to fulfill the purpose outlined in Section 10(b)(v) below;
         
     *   
         v. Nature and purpose of the data transfer(s)" is the provision of the App and other products and services by you to Users pursuant to the applicable terms and conditions and Privacy Policy of you and/or your Client; and
@@ -452,7 +452,7 @@ Whenever there is an EEA Data Transfer, your use of Meta Ireland Data is subject
 *   
     c. For the purposes of Annex I(C) to the Clauses, the competent supervisory authority will be the Data Protection Commission in Ireland; and
     
-    d. For the purposes of Annex II to the Clauses, you will implement and maintain the technical and organisational security measures set out in Section 6 (“Data Security”) and such other measures as we may require from time to time.
+    d. For the purposes of Annex II to the Clauses, you will implement and maintain [Meta's Technical and Organisational Measures](https://www.facebook.com/legal/terms/Privacy/TOMs).
     
 
 11\. General
