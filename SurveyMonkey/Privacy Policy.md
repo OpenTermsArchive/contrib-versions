@@ -461,7 +461,7 @@ We also describe the expiry periods for cookies on our websites in our [](https:
 9\. Safety of Minors
 --------------------
 
-Our services are not intended for and may not be used by minors. “Minors” are individuals under the age of 13 (or under a higher age if permitted by the laws of their residence). Momentive does not knowingly collect personal data from Minors or allow them to register. If it comes to our attention that we have collected personal data from a Minor, we may delete this information without notice. If you have reason to believe that this has occurred, please contact customer support.
+Our services are not intended for and may not be used by minors. “Minors” are individuals under the age of 16 (or under a higher age if permitted by the laws of their residence). Momentive does not knowingly collect personal data from Minors or allow them to register. If it comes to our attention that we have collected personal data from a Minor, we may delete this information without notice. If you have reason to believe that this has occurred, please contact customer support.
 
 10\. Data Transfers and Privacy Shield Certification
 ----------------------------------------------------
@@ -478,7 +478,7 @@ Momentive also complies with the onward transfer liability provisions of the Pri
 
 When Momentive receives personal information under the Privacy Shield and then transfers it to a third-party service provider acting as agent on Momentive’s behalf, Momentive has certain liability under the Privacy Shield if both (i) the agent processes the information in a manner inconsistent with the Privacy Shield and (ii) Momentive is responsible for the event giving rise to the damage. In certain situations, Momentive may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-Momentive is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. Please contact Momentive as described in Section 14 below if you have any concerns or complaints of any nature. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider, (free of charge) at [https://www.jamsadr.com/file-an-eu-us-privacy-shield-claim](https://www.jamsadr.com/file-an-eu-us-privacy-shield-claim).
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Momentive is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. Please contact Momentive as described in Section 14 below if you have any concerns or complaints of any nature. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider, (free of charge) at [https://www.jamsadr.com/file-an-eu-us-privacy-shield-claim](https://www.jamsadr.com/file-an-eu-us-privacy-shield-claim).
 
 Under certain conditions, more fully described on the Privacy Shield website [https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
