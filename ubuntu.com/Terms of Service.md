@@ -245,7 +245,7 @@ The open source software platform that runs everywhere from the smartphone, the 
 * [Contact us](https://ubuntu.com/contact-us)
 * [About us](https://ubuntu.com/about)
 * [Community](https://ubuntu.com/community)
-* [Careers](http://www.canonical.com/careers)
+* [Careers](https://www.canonical.com/careers)
 * [Blog](https://ubuntu.com/blog)
 * [Resources](https://ubuntu.com/engage)
 * [Press centre](https://ubuntu.com/blog/press-centre)
