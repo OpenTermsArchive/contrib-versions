@@ -1,7 +1,7 @@
 LinkedIn Service Terms
 ======================
 
-December 13, 2021
+September 1, 2022
 
 The following Service Terms apply to Customer to the extent the specific Service is included in the applicable ordering document. LinkedIn may update these Service Terms from time to time. LinkedIn reserves the right to upgrade, update or discontinue any aspect or feature of a Service in whole or in part; provided, however, that if LinkedIn discontinues a Service in whole during the term of an ordering document, then LinkedIn will provide Customer with an alternative or replacement service.
 
@@ -124,13 +124,11 @@ Customer will maintain a social media policy and ensure that its personnel compl
 
 **7.1.4.** If purchased, the Glint Engage + Lifecycle Package includes all product features from the Glint Engage Module including Scheduled Recurring, Ad-Hoc & Always-On Surveys to measure employee engagement, team effectiveness, manager effectiveness, and/or diversity & inclusion, plus Glint’s Employee Lifecycle program which extends feedback to key events in the employee journey such as onboarding, role changes, and exit through automatically triggered surveys. 
 
-**7.1.5.** If purchased, the Glint People Success Package provides access to all Glint product features to allow organizations to measure and deliver insight into the employee experience, launch development feedback programs, and provide suggested actions and learning. This bundle includes Glint’s Engage, Lifecycle, 360s, and Anytime Feedback & Recognition modules, including access to the following features and capabilities:
+**7.1.5.** If purchased, the Glint People Success Package provides access to all Glint product features to allow organizations to measure and deliver insight into the employee experience, launch development feedback programs, and provide suggested actions and learning. This bundle includes Glint’s Engage, Lifecycle, and 360s modules, including access to the following features and capabilities:
 
 ·      **Pulse surveys** measure employee sentiment in real time, with programs spanning employee engagement, manager and team effectiveness, culture, diversity and inclusion and more
 
 ·      **Employee Lifecycle** captures feedback from critical moments in the employee journey such as onboarding, role changes, and exit through automatically triggered surveys
-
-·      **Anytime Feedback** gives every employee the ability to seek, provide, and receive timely feedback, fostering greater self-awareness, continuous learning, and growth
 
 ·      **360 Feedback** gives managers the structured insights and guidance they need to develop as more effective leaders
 
