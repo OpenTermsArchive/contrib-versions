@@ -148,6 +148,7 @@ Use a precise, accurate address and/or service area to describe your business lo
 * Do not include information in address lines that doesn't pertain to your business’s physical location, like URLs or keywords.
 * Do not create more than one page for each location of your business, either in a single account or multiple accounts.
     * Individual practitioners and departments within businesses, universities, hospitals and government buildings may have separate pages. For more info, go to specific guidelines about [individual practitioners](https://support.google.com/business/answer/3038177#pract) and [departments](https://support.google.com/business/answer/3038177#departments).
+* Businesses showing their address on Google should maintain permanent fixed signage of their business name at the address.
 * If your address doesn't have a street number, or the system can't find it, you can [pin your business's location directly on the map](https://support.google.com/business/answer/6279343).
 
 #### Service-area businesses
