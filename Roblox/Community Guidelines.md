@@ -71,14 +71,16 @@ We want our metaverse to be safe and welcoming for everyone, regardless of their
     * Fundraising for terrorist or extremist organizations, people, or groups  
           
         
-8. **Illegal and Regulated Activities**  
-    We prohibit users from discussing, depicting, or promoting illegal or highly-regulated activities. You also may not encourage others to violate their local laws, or do so yourself. These activities include:
+8. **Illegal and Regulated Goods**  
+    We prohibit users from discussing, depicting, or promoting illegal and some regulated goods. You also may not encourage others to violate laws in the real world, or do so yourself. These goods and activities include, but are not limited to:
     
-    * Illegal drugs, including marijuana and the misuse of prescription drugs
-    * Drug paraphernalia, including pills, syringes, and pipes
-    * Alcohol, including references to or depictions of drunkenness
+    * Illegal and regulated drugs, including marijuana and the misuse of prescription/over the counter drugs
+    * Drug paraphernalia, including: pill bottles, pills, syringes, and pipes
+    * Health and dietary supplements and enhancers such as weight loss pills and steroids
+    * Depictions of intoxicated behavior associated with consuming alcohol or drugs (e.g., being drunk, high, strung out, or any other inebriated state)
     * Tobacco, including e-cigarettes, e-liquid, vapes, hookas, and other smokable products
-    * Bomb- and weapon-making in the real world
+    * Bomb/explosive and weapon-making instructions or schematics in the real world
+    * Realistic modern firearms outside of in-game experiences
     
     Except where prohibited by local law or regulation, we allow the portrayal of gambling in experiences, no real money, Robux, or anything that can become real money or Robux, may be exchanged in these experiences. We also require that the odds of winning be fair and not skewed in the developer’s favor.  
       
@@ -306,6 +308,6 @@ To maintain a safe metaverse, Roblox does **not** permit:
 
 See the [Roblox Terms of Use](https://en.help.roblox.com/hc/en-us/articles/115004647846) for more information.
 
-**Last Updated**: September 19, 2022
+**Last Updated**: October 12, 2022
 
 [Return to top](#article-container)
