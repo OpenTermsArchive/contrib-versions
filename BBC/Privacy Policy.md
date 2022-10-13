@@ -1,7 +1,7 @@
 1\. What's in this policy?
 --------------------------
 
-This policy tells you:
+This policy is for when you're in the UK ([view policy for when you're outside the UK](https://www.bbc.co.uk/usingthebbc/privacy-policy-outside-the-uk)). It tells you:
 
 * what information we might collect about you
 * how we might use that information
@@ -404,21 +404,19 @@ If you don't agree to the changes, then you can always stop using our services, 
 
 Find out more and [contact us about your rights](https://www.bbc.co.uk/usingthebbc/privacy/what-are-my-rights/).
 
-For any other questions or comments about this policy speak to our Data Protection Officer.
+For any other questions or comments about this policy speak to our Data Protection Officer:
 
 * [by email](mailto:DataProtection.Officer@bbc.co.uk)
-* by post
+* by post: BBC Data Protection Officer, C/o First Floor, Wogan House, 99 Great Portland Street, London, W1W 7NY
 
-BBC Data Protection Office, BBC Broadcast Centre, BC2 C6, 201 Wood Lane, London W12 7TP
-
-If you’re outside the UK please contact the BBC Studios Data Protection Officer:
+If you’re outside the UK, please contact the BBC Studios Data Protection Officer:
 
 * [by email](mailto:Dataprotection@bbc.com)
-* by post at BBC Studios DPO, Regulatory Affairs, 1 Television Centre, 101 Wood Lane, London W12 7FA
+* by post: BBC Studios DPO, Regulatory Affairs, 1 Television Centre, 101 Wood Lane, London, W12 7FA
 
 We're regulated by the [Information Commissioner's Office](https://ico.org.uk/concerns/). You can also contact them for advice and support.
 
-© BBC 2019
+© BBC 2022
 
 [Back to top](#top "Back to top")
 
