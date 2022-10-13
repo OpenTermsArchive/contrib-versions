@@ -7,7 +7,7 @@ ZIFF DAVIS, LLC PRIVACY POLICY
 
 ![TRUSTe](//privacy-policy.truste.com/privacy-seal/seal?rid=ce211316-dfd0-4abb-8bfb-9cb70de1e37c)](https://privacy.truste.com/privacy-seal/validation?rid=ce211316-dfd0-4abb-8bfb-9cb70de1e37c)
 
-**Effective May 5, 2022** – [Version Française](http://www.ziffdavis.com/privacy-policy-f/)
+**Effective October 15, 2022** – [Version Française](http://www.ziffdavis.com/privacy-policy-f/)
 
 If you have any questions related to Data Subject Access Rights under GDPR or CCPA, you can contact us through our [DSAR Portal](https://dsar.ziffdavis.com/).
 
@@ -297,7 +297,7 @@ Where we transfer your Personal Information from the EEA to recipients located o
 
 Please note that when you transfer any Personal Information directly to a Company entity established outside the EEA, we are not responsible for that transfer of your Personal Information. We will nevertheless Process your Personal Information, from the point at which we receive the data, in accordance with the provisions of this Privacy Policy.
 
-Ziff Davis privacy practices described in this Privacy Policy comply with the Asia-Pacific Economic Cooperation (“**APEC**”) Cross Border Privacy Rules System. To learn more about this program, please click [here](http://www.apec.org/Groups/Committee-on-Trade-and-Investment/~/media/Files/Groups/ECSG/CBPR/CBPR-PoliciesRulesGuidelines.ashx).
+Ziff Davis privacy practices described in this Privacy Policy comply with the Asia-Pacific Economic Cooperation (“**APEC**”) Cross Border Privacy Rules System. To learn more about this program, please click [here](http://cbprs.org/).
 
 Please note that we may use data collected by a third party operator/licensee of localized versions or editions of Services.
 
@@ -352,7 +352,7 @@ If you are an EU resident, you may have certain rights including: the right not 
 
 You may directly take steps to change your preferences as follows:
 
-_Access to Your Personal Information_. Upon request Ziff Davis will provide you with information about whether we hold any of your personal information. You may access, correct, or request deletion of your personal information by logging into your account or contacting us through our [DSAR Portal](https://dsar.ziffdavis.com/). We will respond to your request within a reasonable timeframe.
+_Access to Your Personal Information_. Upon request Ziff Davis will provide you with information about whether we hold any of your personal information. You may access, correct, or request deletion of your personal information by logging into your account, contacting us through our DSAR Portal, or emailing us at [privacy@ziffdavis.com](mailto:privacy@ziffdavis.com), regardless of your citizenship or location. We will respond to your request within a reasonable timeframe.
 
 _Your Newsletter and Email Subscriptions_. You can opt out or unsubscribe to a newsletter or other email list at any time by following the instructions at the end of the newsletters or emails you receive. Please allow five to ten business days for changes to take effect. On some Services, member service-related communications are an integral part of such Services to which you subscribe and you may continue to receive emails as part of that particular portion of the Services unless you cancel your account, even if you opt out of the newsletters or email list. If you have provided more than one email address to us, you may continue to be contacted unless you request to unsubscribe each email address you have provided.
 
