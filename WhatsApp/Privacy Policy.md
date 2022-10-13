@@ -19,11 +19,11 @@ Table of Contents
 * [Updates To Our Policy](#privacy-policy-updates-to-our-policy)
 * [Contact Us](#38R2WanfxglMEvSfH)
 
-_If you don't live in the [European Region](https://faq.whatsapp.com/general/security-and-privacy/who-is-providing-your-whatsapp-services), WhatsApp LLC provides the services to you under this [Terms of Service](https://www.whatsapp.com/legal/updates/terms-of-service) and [Privacy Policy](https://www.whatsapp.com/legal/updates/privacy-policy)._
+_If you don't live in the [European Region](https://faq.whatsapp.com/1013614932324960/), WhatsApp LLC provides the services to you under this [Terms of Service](https://www.whatsapp.com/legal/updates/terms-of-service) and [Privacy Policy](https://www.whatsapp.com/legal/updates/privacy-policy)._
 
 ### WhatsApp Legal Info
 
-If you live in the [European Region](https://faq.whatsapp.com/general/security-and-privacy/who-is-providing-your-whatsapp-services), WhatsApp Ireland Limited ("WhatsApp," "our," "we," or "us") provides our Services to you under this [Terms of Service](https://www.whatsapp.com/legal/updates/terms-of-service-eea) and [Privacy Policy](https://www.whatsapp.com/legal/updates/privacy-policy-eea). If you live outside the [European Region](https://faq.whatsapp.com/general/security-and-privacy/who-is-providing-your-whatsapp-services), the services are provided to you by WhatsApp LLC.
+If you live in the [European Region](https://faq.whatsapp.com/1013614932324960/), WhatsApp Ireland Limited ("WhatsApp," "our," "we," or "us") provides our Services to you under this [Terms of Service](https://www.whatsapp.com/legal/updates/terms-of-service-eea) and [Privacy Policy](https://www.whatsapp.com/legal/updates/privacy-policy-eea). If you live outside the [European Region](https://faq.whatsapp.com/1013614932324960/), the services are provided to you by WhatsApp LLC.
 
 We are one of the [Facebook Companies](https://faq.whatsapp.com/general/security-and-privacy/the-facebook-companies). Our Privacy Policy ("Privacy Policy") helps explain our data practices, including the information we process to provide our [Services](https://www.whatsapp.com/legal/updates/terms-of-service-eea).
 
