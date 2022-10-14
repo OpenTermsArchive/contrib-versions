@@ -164,27 +164,22 @@ These third parties collect this information for the following purposes and for 
 
 We and others may use a variety of technologies to collect information about your device and use of our websites and mobile applications. These technologies include first- and third-party cookies, web beacons, JavaScript, entity tags, and HTML local storage. Most web browsers can be programmed to accept or reject the use of some or all of these technologies, although you must take additional steps to disable or control other technologies. For more information on exercising your preferences in relation to cookies and similar technologies, please see the section of this Statement titled [Your Choices](#your_choices).
 
-**Cookies** – Cookies are small data files that are sent from a website’s server and are stored on your device’s hard drive either for only the duration of your visit ("session cookies") or for a fixed period ("persistent cookies"). Cookies contain information that can later be read by a web server.
-
-**Web Beacons** – Web beacons are small, transparent images that are embedded in web pages, applications, and emails that are sometimes called “clear gifs," “single pixel gifs", "page tags" or “web bugs." We use web beacons to track the web pages you visit, to test the effectiveness of our marketing, and to find out if an email has been opened and acted on.
-
-**JavaScript** – JavaScript are code snippets embedded in various parts of websites and applications that facilitate a variety of operations including accelerating the refresh speed of certain functionality or monitoring usage of various online components.
-
-**Entity Tags** -- Entity Tags are HTTP code mechanisms that allow portions of websites to be stored or “cached" within your browser and validates these caches when the website is opened, accelerating website performance since the web server does not need to send a full response if the content has not changed.
-
-**HTML5 Local Storage** – HTML5 local storage allows data from websites to be stored or “cached" within your browser to store and retrieve data in HTML5 pages when the website is revisited.
+* **Cookies** – Cookies are small data files that are sent from a website’s server and are stored on your device’s hard drive either for only the duration of your visit ("session cookies") or for a fixed period ("persistent cookies"). Cookies contain information that can later be read by a web server.
+* **Web Beacons** – Web beacons are small, transparent images that are embedded in web pages, applications, and emails that are sometimes called “clear gifs," “single pixel gifs", "page tags" or “web bugs." We use web beacons to track the web pages you visit, to test the effectiveness of our marketing, and to find out if an email has been opened and acted on.
+* **JavaScript** – JavaScript are code snippets embedded in various parts of websites and applications that facilitate a variety of operations including accelerating the refresh speed of certain functionality or monitoring usage of various online components.
+* **Entity Tags** -- Entity Tags are HTTP code mechanisms that allow portions of websites to be stored or “cached" within your browser and validates these caches when the website is opened, accelerating website performance since the web server does not need to send a full response if the content has not changed.
+* **HTML5 Local Storage** – HTML5 local storage allows data from websites to be stored or “cached" within your browser to store and retrieve data in HTML5 pages when the website is revisited.
 
 These and similar technologies are used for the following purposes:
 
-**Services and Functionality** – Some of these technologies are required to allow you to access and use our websites or mobile applications and the various services and functionality we offer. Without these technologies, some of the services and functionality on our websites and mobile applications would not work properly.
-
-**Performance Monitoring** – Some of these technologies help us analyze and estimate traffic and assess the volume of use of services and functionality on websites and mobile applications. They show us how visitors and customers interact with our digital properties, whether there are any errors, the degree to which certain web pages, applications, services or functionality are accessed and used and how they are performing or operating. When these technologies are used for performance monitoring, no directly identifiable information (e.g., your name, email address or phone number) is collected.
-
-**User Convenience** – Some of these technologies enhance the ease of use of our websites and mobile applications and the services and functionality they make available by accelerating load and refresh times and remembering information that you have provided on prior visits to our websites or when you last used a website or mobile application service or functionality.
-
-**Marketing** – Some of these technologies are used to tailor your experience on our website, within our mobile applications, or across your applications or devices by controlling the promotions, advertisements and other marketing messages that may appear when you access or use these or other digital properties.
+* **Services and Functionality** – Some of these technologies are required to allow you to access and use our websites or mobile applications and the various services and functionality we offer. Without these technologies, some of the services and functionality on our websites and mobile applications would not work properly.
+* **Performance Monitoring** – Some of these technologies help us analyze and estimate traffic and assess the volume of use of services and functionality on websites and mobile applications. They show us how visitors and customers interact with our digital properties, whether there are any errors, the degree to which certain web pages, applications, services or functionality are accessed and used and how they are performing or operating. When these technologies are used for performance monitoring, no directly identifiable information (e.g., your name, email address or phone number) is collected.
+* **User Convenience** – Some of these technologies enhance the ease of use of our websites and mobile applications and the services and functionality they make available by accelerating load and refresh times and remembering information that you have provided on prior visits to our websites or when you last used a website or mobile application service or functionality.
+* **Marketing** – Some of these technologies are used to tailor your experience on our website, within our mobile applications, or across your applications or devices by controlling the promotions, advertisements and other marketing messages that may appear when you access or use these or other digital properties.
 
 Taken together, these technologies help us learn which services and functionality you are using and how you are accessing information about us. We may use this information to personalize your visit to a website or use of a mobile application or to send you relevant promotions and advertisements.
+
+  
 
 ### 8\. Starbucks Mobile Applications
 
