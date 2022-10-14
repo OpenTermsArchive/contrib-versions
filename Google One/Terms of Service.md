@@ -16,8 +16,8 @@ Although it’s not a part of these Terms, we encourage you to read our [Privacy
 
 Google One is made available by Google to provide you with a destination for Google services and support, provide rewards and offers, and discover new features and products. Google One features may include paid storage plans shared across Google Drive, Google Photos, and Gmail, customer support for certain Google products, family sharing features, mobile backup and restore, and other benefits provided to you by Google or via third parties. Your use of additional Google products or services is governed by the terms of service applicable to such products or services. Some products, features, and benefits may not be available in all countries. Please visit the Google One Help Center for more information.
 
-2\. Paid Accounts - Payment,Subscription, and Refunds
------------------------------------------------------
+2\. Paid Accounts - Payment, Subscription, and Refunds
+------------------------------------------------------
 
 **Payments.** Only Google One plan managers may purchase, upgrade, downgrade, or cancel a Google One membership. Google accepts payment through a Google Payments account or any other form of payment indicated prior to purchase.
 
