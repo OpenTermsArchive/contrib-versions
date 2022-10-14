@@ -1,7 +1,7 @@
 * [Terms and Policies](https://help.instagram.com/1417489251945243/?helpref=breadcrumb)
 
-Terms of Use
-============
+Terms and Imprint
+=================
 
 Copy link
 
