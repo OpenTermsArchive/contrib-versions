@@ -1,138 +1,180 @@
-Terms of Service Agreement
---------------------------
+Terms of Use
+------------
 
-### Effective Date: March 16, 2017
+Updated June 14, 2021
 
-PLEASE READ THIS TERMS AND CONDITIONS AGREEMENT ("**AGREEMENT**") CAREFULLY. THIS AGREEMENT IS A LEGAL CONTRACT BETWEEN YOU ("**USER**") AND MEREDITH CORPORATION ("**MEREDITH,**" "**COMPANY,**" "**WE,**" OR "**US**").  
-  
-**SECTION 15 OF THIS AGREEMENT IS AN ARBITRATION CLAUSE THAT REQUIRES MOST DISPUTES BETWEEN US TO BE RESOLVED THROUGH BINDING AND FINAL ARBITRATION INSTEAD OF IN COURT. SEE SECTION 15 FOR MORE INFORMATION REGARDING THIS ARBITRATION CLAUSE, AND HOW TO OPT OUT.**  
-By accessing or using any website with an authorized link to this Agreement ("**Website**"), registering an account or accessing or using any content, information, services, features or resources available or enabled via the Website (collectively with the Website, the "**Services**"), clicking on a button or taking another action to signify your acceptance of this Agreement, you: (1) agree to be bound by this Agreement and any future amendments and additions to this Agreement as published through the Services; (2) represent you are of legal age in your jurisdiction of residence to form a binding contract; and (3) represent that you have the authority to enter into this Agreement personally and, if applicable, on behalf of any company, organization or other legal entity on whose behalf you use the Services. **Except as otherwise provided herein, if you do not agree to be bound by this Agreement, you may not access or use the Services.**  
-  
-Your use of the Services is also subject to any additional terms, conditions and policies that we separately post on the Services ("**Supplemental Terms**") which are incorporated by reference into this Agreement. Some of the specialized features and tools accessible through our Services are provided by third-party companies pursuant to their own separate Terms of Service (“**Third-Party Terms**”) that differ from ours.  By using such third-party features and tools, you agree that your relationships with the third-party service providers will be governed by the applicable [Third-Party Terms](https://www.meredith.com/legal/terms-other).
+**1\. Overview**
 
-Subject to Section 15.9 of this Agreement, Meredith reserves the right to modify this Agreement or its policies relating to the Services at any time, effective upon posting of an updated version of this Agreement or any applicable Supplemental Terms on the applicable Services. You should regularly review this Agreement, as your continued use of the Services after any such changes constitutes your agreement to such changes.  
-  
-**1\. Registration.** When registering an account for the Services ("**Account**"), you agree to provide only true, accurate, current and complete information requested by the registration form (the "**Registration Data**") and to promptly update the Registration Data thereafter as necessary. You represent that you are not barred from using the Services under any applicable law and that you will be responsible for all activities that occur under your Account. You agree to monitor your Account to restrict its use by minors and other unauthorized users and agree not to share your Account or password with anyone. You further agree to notify Meredith immediately of any unauthorized use of your password or any other breach of the security of your Account and to exit from your Account at the end of each session. You agree not to create an Account using a false identity or alias or if you previously have been banned from using any of the Services. You further agree that you will not maintain more than one Account for the same Meredith service at any given time. Meredith reserves the right to remove or reclaim any usernames at any time and for any reason. You acknowledge and agree that you have no ownership or other property interest in your Account and that all rights in and to your Account are owned by and inure to the benefit of Meredith.  
-  
-**2\. Order Process.**  
-  
-**2.1 Order Acceptance.** Each part of any order that you submit to Meredith constitutes an offer to purchase. If you do not receive a message from Meredith confirming receipt of your order, please contact our Customer Service department before re-entering your order. Meredith's confirmation of receipt of your order does not constitute Meredith's acceptance of your order. Meredith is only deemed to have accepted your order once (i) the product(s) you ordered (each, a "**Product**") have been shipped (if the Product is a one-time order) or (ii) the initial Product for a subscription has been delivered (if the Product is subject to a subscription for the delivery of periodicals or other tangible goods) or (iii) you are granted access to the paid content or resources of a Product consisting of a digital subscription or membership).  
-  
-**2.2 Order Issues.** Although we strive to accept all valid orders, Meredith reserves the right to deny any order for any reason, including if: (i) we discover an error in pricing and/or other information about the Product or receive insufficient or erroneous billing, payment, and/or shipping information, (ii) we suspect an order has been placed using stolen payment card information or otherwise appears to be connected to fraud, or (iii) the ordered Product is unavailable due to discontinuance or otherwise. We may also refuse any order that is connected with a previous payment dispute.  
-  
-**2.3 Order Cancellation.** If any Product is discontinued or otherwise becomes unavailable, Meredith reserves the right to (i) cancel your order and provide you a refund for the amount paid for the Product (if the Product is a one-time order), (ii) substitute the Product with a similar Product (if the Product is subject to a subscription) or (iii) issue you a pro rata refund.  
-  
-**2.4 Restrictions on Resale.** To protect the intellectual property rights of Meredith and its licensors and suppliers, any resale of Products for personal and/or business profit is strictly prohibited. Meredith reserves the right to decline any order that we deem to possess characteristics of reselling.  
-  
-**3\. Fees and Purchase Terms.**  
-  
-**3.1 Payment.** You agree to pay all fees or charges to your Account in accordance with the fees, charges and billing terms in effect at the time a fee or charge is due and payable. You also agree to pay all applicable taxes. You must provide Meredith with valid payment information in connection with your orders. By providing Meredith with your payment information, you agree that (i) Meredith is authorized to immediately invoice your Account for all fees and charges due and payable to Meredith hereunder, (ii) Meredith is authorized to share any payment information and instructions required to complete the payment transactions with its third-party payment service providers (e.g., credit card transaction processing, merchant settlement, and related services), and (iii) no additional notice or consent is required for the foregoing authorizations. You agree to immediately notify Meredith of any change in your payment information. Meredith reserves the right at any time to change its prices and billing methods. If payment cannot be charged to your payment card or your payment is returned for any reason, Meredith reserves the right to either suspend or terminate your access to the upaid-for services.  
-  
-**3.2 Automatic Renewal.** If your order is subject to automatic renewal, you will be notified during the order process. The automatic renewal and cancellation terms provided during the order process are hereby incorporated into this Agreement.  
-  
-**3.3 Refunds.** Except as set forth in Section 2.3 or in any separate refund policy posted on the Services, all fees are non-refundable.  
-  
-**3.4 Discounts, Promo Codes and Premium Offers.** We may, in our sole discretion, create discounts and promotional codes that may be redeemed for credit in your Account, or other features or benefits, subject to any additional terms that we establish on a per promotional code basis ("**Promo Codes**"). Promo Codes may only be used once per person. Only Promo Codes sent to you through official Meredith communications channels are valid. You agree that Promo Codes: (i) must be used for the intended audience and purpose, and in a lawful manner; (ii) may not be duplicated, sold, or transferred in any manner, or made available to the general public (whether posted to a public forum or otherwise), unless expressly permitted by us; (iii) may be disabled by us at any time for any reason without liability to us; (iv) may only be used pursuant to the specific terms that we establish for such Promo Code; (v) are not redeemable for cash; and (vi) may expire prior to your use. From time to time, we may offer special promotions (such as free premiums with purchase), associated with some of our products or Services. All promotional offers, inlcuding premium offers, may be discontinued at any time, without prior notice, at our discretion and are only available while supplies last or for the duration noted.  Unless otherwise stated in the offer, shipment of premium items may take 6-12 weeks and shipping fees may apply.  
-  
-**4\. User Content.**  
-  
-**4.1 Responsible Party for Content.** You acknowledge that all content is the sole responsibility of the party from whom such content originated. This means that each User is entirely responsible for all content that that User makes available through the Services, or otherwise provided to Meredith, whether online or offline and whether or not solicited by Meredith ("**User Content**"). Meredith has no obligation to pre-screen any content. You use all User Content and interact with other Users at your own risk. Without limiting the foregoing, Meredith reserves the right in its sole discretion to pre-screen, refuse, or remove any content. Meredith shall have the right to remove any content that violates this Agreement or is otherwise objectionable.  
-  
-**4.2 Ownership of Your Content.** Meredith does not claim ownership of any User Content you make available on the Services ("**Your Content**"). However, when you as a User post or publish Your Content on or in the Services, you represent that you have all of the necessary rights to grant Meredith the license set forth in Section 4.3. Except with respect to Your Content, you agree that you have no right or title in or to any content that appears on or in the Services.  
-  
-**4.3 License to Your Content.** Subject to any applicable Account settings that you select, you grant Meredith, and anyone authorized by Meredith, an irrevocable, nonexclusive, perpetual, worldwide, royalty-free right and license to use, copy, display, publicly perform, transmit, modify,  publish, distribute, make derivative works of, sublicense, and otherwise commercially and non-commercially exploit  and use Your Content (in whole or in part) in any manner or medium now existing or hereafter developed (including print and electronic storage) and for any purpose. The foregoing grant includes the right to exploit any proprietary rights in Your Content, including, but not limited to, under copyright, trademark, trade secret, patent or other intellectual property laws that exist in any relevant jurisdiction.  In connection with the exercise of these rights, you grant Meredith, and anyone authorized by Meredith, the right to identify you as the author of Your Content by name, email address or screen name, as we deem appropriate. You will not receive any compensation of any kind for the use of Your Content.  Note that other Users may search for, see, use, modify and reproduce any of Your Content that you submit to any "public" area of the Services.
+Dotdash.com and its affiliated websites, email properties and other online services, including without limitation, Verywell.com, TheBalance.com, Lifewire.com, TheSpruce.com, TripSavvy.com, and ThoughtCo.com (collectively, the “Sites”) are owned and operated by About, Inc. and its affiliates (“Dotdash”, the “Company”, “we”, “our”, or “us”).  Access to and use of the Sites is subject to these terms and conditions of use (“Terms of Use”).
 
-  
-**4.4 Ratings and Reviews.** Ratings and reviews posted by Users on our Services are User Content that is not endorsed by Meredith and does not represent the views of Meredith. Meredith does not assume liability for ratings and reviews or for any claims for economic loss resulting from such ratings and reviews. Because we expect Users to maintain a high level of integrity with respect to ratings and reviews posted through the Services, you agree: (i) to base any rating or review you post only on your first-hand experience with the applicable business, product, or service; (ii) you will not provide a rating or review for any business, product, or service with respect to which you have a competitive, ownership or other economic interest, employment relationship or other affiliation; (iii) you will not submit a rating or review in exchange for payment or other benefits from any individual or entity; and (iv) your review will comply with the terms of this Agreement. If we determine, in our sole discretion, that any rating or review could diminish the integrity of the ratings and reviews, we may exclude such User Content without notice.  
-  
-**4.5 Other Restrictions on User Conduct.** You agree not to use the Services for any purpose prohibited by this Agreement or by applicable law. You shall not (and shall not permit any third-party to) (a) take any action or (b) make available any content on or through the Services that: (i) infringes any patent, trademark, trade secret, copyright, right of publicity or other right of any person or entity; (ii) is unlawful, threatening, abusive, harassing, defamatory, libelous, deceptive, fraudulent, invasive of another's privacy, tortious, obscene, offensive, or profane; (iii) constitutes unauthorized or unsolicited advertising, junk or bulk e-mail; (iv) involves commercial activities and/or sales without Meredith's prior written consent, such as contests, sweepstakes, barter, advertising, or pyramid schemes; or (v) impersonates any person or entity, including any employee or representative of Meredith.  
-  
-**5\. Feedback.** You agree that your submission of any ideas, suggestions, documents, and/or proposals to Meredith ("**Feedback**") is at your own risk and that Meredith has no obligations with respect to such Feedback. You represent and warrant that you have all rights necessary to submit the Feedback. You hereby grant to Meredith the right to use any Feedback in any way at any time without any additional approval or compensation.  
-  
-**6\. Ownership of and License to Use Meredith Properties.**  
-  
-**6.1 Use of the Services.** Except with respect to User Content, Meredith and its suppliers own all rights, title and interest in the Services. The Services are protected by copyright and other intellectual property laws throughout the world. Subject to this Agreement, Meredith grants you a limited license to use the Services solely for your personal non-commercial purposes. Any future release, update or other addition to the Services shall be subject to this Agreement. Meredith, its suppliers and service providers reserve all rights not granted in this Agreement.  
-  
-**6.2 Trademarks.** Meredith's stylized name and other related graphics, logos, service marks and trade names used on or in connection with the Services are the trademarks of Meredith and may not be used without permission in connection with any third-party products or services. Other trademarks, service marks and trade names that may appear on or in the Services are the property of their respective owners. You will not remove, alter or obscure any copyright notice, trademark, service mark or other proprietary rights notices incorporated in or accompanying the Services.  
-  
-**7\. Restrictions on Use of Services.** The rights granted to you in this Agreement are subject to the following restrictions: (a) you shall not license, sell, rent, lease, transfer, assign, reproduce, distribute, host or otherwise commercially exploit the Services or any portion of the Services; (b) you shall not frame or use framing techniques to enclose any trademark, logo or Services (including images, text, page layout or form) of Meredith; (c) you shall not use any metatags or other "hidden text" using Meredith's name or trademarks; (d) you shall not modify, translate, adapt, merge, make derivative works of, disassemble, decompile, reverse compile or reverse engineer any part of the Services except to the extent the foregoing restrictions are expressly prohibited by applicable law; (e) you shall not use any manual or automated software, devices or other processes (including but not limited to spiders, robots, scrapers, crawlers, avatars, data mining tools or the like) to "scrape" or download data from the Services (except that we grant the operators of public search engines revocable permission to use spiders to copy materials from the Website for the sole purpose of and solely to the extent necessary for creating publicly available searchable indices of the materials, but not caches or archives of such materials); (f) you shall not access the Services to build a similar or competitive website, application or service; (g) except as expressly stated herein, no part of the Services may be copied, reproduced, distributed, republished, downloaded, displayed, posted or transmitted in any form or by any means; (h) you shall not remove or destroy any copyright notices or other proprietary markings contained on or in the Services; (i) you shall not interfere with or attempt to interfere with the proper functioning of the Services or use the Services in any way not expressly permitted by this Agreement; and (j) you shall not attempt to harm our Services, including but not limited to, by violating or attempting to violate any related security features, introducing viruses, worms, or similar harmful code into the Services, or interfering or attempting to interfere with use of the Services by any other user, host or network, including by means of overloading, "flooding," "spamming," "mail bombing", or "crashing" the Services. Any unauthorized use of the Services terminates the licenses granted by Meredith pursuant to this Agreement.  
-  
-**8\. Third-Party Links.** The Services may contain links to third-party services such as third party websites, applications, or ads ("**Third-Party Links**"). When you click on such a link, we will not warn you that you have left the Services. Meredith does not control and is not responsible for Third-Party Links. Meredith provides these Third-Party Links only as a convenience and does not review, approve, monitor, endorse, warrant, or make any representations with respect to them, or any content, products or services accessible through such links. Your use of all Third-Party Links is at your own risk.  
-  
-**9\. Indemnification.** You agree to indemnify and hold Meredith, its corporate parents, subsidiaries, and affiliates, and the officers, directors, employees, agents, representatives, partners and licensors of each (collectively, the "**Meredith Parties**") harmless from any damages, losses, costs, liabilities and expenses (including reasonable attorneys' fees) relating to or arising out of any claims concerning: (a) Your Content; (b) your misuse of the Services; (c) your violation of this Agreement; (d) your violation of any rights of another party, including any Users; or (e) your violation of any applicable laws, rules or regulations. Meredith reserves the right, at its own cost, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you, in which event you will fully cooperate with Meredith in asserting any available defenses. This provision does not require you to indemnify any of the Meredith Parties for any unconscionable commercial practice by such party or for such party's negligence, fraud, deception, false promise, misrepresentation or concealment, suppression or omission of any material fact. You agree that the provisions in this section will survive any termination of your Account, this Agreement or your access to the Services.  
-  
-**10\. Disclaimer of Warranties and Conditions.** YOU EXPRESSLY UNDERSTAND AND AGREE THAT TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, YOUR USE OF THE SERVICES AND ANY PRODUCTS OFFERED THROUGH THE SERVICES IS AT YOUR SOLE RISK, AND THE SERVICES AND ANY PRODUCTS ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS, WITH ALL FAULTS. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, THE MEREDITH PARTIES EXPRESSLY DISCLAIM ALL WARRANTIES, REPRESENTATIONS, AND CONDITIONS OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OR CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT ARISING FROM USE OF THE SERVICES AND PRODUCTS. MEREDITH PARTIES MAKE NO WARRANTY, REPRESENTATION OR CONDITION THAT: (1) THE SERVICES OR ANY PRODUCTS WILL MEET YOUR REQUIREMENTS OR (2) YOUR USE OF THE SERVICES WILL BE UNINTERRUPTED, TIMELY, SECURE OR ERROR-FREE.  
-  
-**IF YOU RELY ON ANY DATA OR INFORMATION OBTAINED THROUGH OUR PRODUCTS OR SERVICES, YOU DO SO AT YOUR OWN RISK. YOU ARE SOLELY RESPONSIBLE FOR ANY DAMAGE OR LOSS THAT RESULTS FROM YOUR USE OF SUCH DATA OR INFORMATION.**  
-  
-**OUR PRODUCTS AND SERVICES ARE PROVIDED WITH THE UNDERSTANDING THAT MEREDITH AND ITS USERS ARE NOT ENGAGED IN RENDERING LEGAL, MEDICAL, COUNSELING OR OTHER PROFESSIONAL SERVICES OR ADVICE. OUR PRODUCTS AND SERVICES ARE NO SUBSTITUTE FOR PROFESSIONAL SERVICES OR ADVICE.**  
-  
-CERTAIN STATE LAWS DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES. IF THESE LAWS APPLY TO YOU, SOME OR ALL OF THE FOREGOING DISCLAIMERS, EXCLUSIONS AND LIMITATIONS MAY NOT APPLY TO YOU, AND YOU MIGHT HAVE ADDITIONAL RIGHTS.  
-  
-**11\. Limitation of Liability.**  
-  
-**11.1 Disclaimer of Certain Damages.** TO THE FULLEST EXTENT PERMITTED BYAPPLICABLE LAW, THE MEREDITH PARTIES SHALL NOT BE LIABLE FOR ANY LOSS OF PROFITS OR REVENUE OR FOR INDIRECT, INCIDENTAL, PUNITIVE, EXEMPLARY, SPECIAL OR CONSEQUENTIAL DAMAGES, OR DAMAGES OR COSTS DUE TO LOSS OF DATA, PRODUCTION, OR USE, BUSINESS INTERRUPTION OR PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, WHETHER OR NOT MEREDITH HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.  
-  
-**11.2 Cap on Liability.** UNDER NO CIRCUMSTANCES WILL THE TOTAL AGGREGATE AMOUNT THAT THE MEREDITH PARTIES ARE LIABLE TO YOU EXCEED THE GREATER OF (A) THE TOTAL AMOUNT ACTUALLY PAID TO MEREDITH BY YOU DURING THE TWELVE-MONTH PERIOD PRIOR TO THE ACT, OMISSION OR OCCURRENCE GIVING RISE TO SUCH LIABILITY, (B) THE REMEDY OR PENALTY IMPOSED BY THE STATUTE OR REGULATION UNDER WHICH SUCH CLAIM ARISES, OR (C) ONE HUNDRED DOLLARS ($100). THE FOREGOING CAP ON LIABILITY SHALL NOT APPLY TO LIABILITY OF A MEREDITH PARTY FOR (X) DEATH, TANGIBLE PROPERTY DAMAGE, OR PERSONAL INJURY CAUSED BY A MEREDITH PARTY'S GROSS NEGLIGENCE OR FOR (Y) ANY INJURY CAUSED BY A MEREDITH PARTY'S FRAUD OR FRAUDULENT MISREPRESENTATION.  
-  
-**11.3 User Content and Settings.** THE MEREDITH PARTIES ASSUME NO RESPONSIBILITY FOR THE TIMELINESS, DELETION, MIS-DELIVERY OR FAILURE TO STORE ANY CONTENT, USER COMMUNICATIONS OR PERSONALIZATION SETTINGS.  
-  
-**11.4 Basis of the Bargain.** THE LIMITATIONS OF DAMAGES SET FORTH ABOVE ARE FUNDAMENTAL ELEMENTS OF THE BASIS OF THE BARGAIN BETWEEN MEREDITH AND YOU.  
-  
-**11.5 Exclusions.** THE LAWS OF SOME STATES DO NOT ALLOW FOR THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES. IF THESE LAWS APPLY TO YOU, SOME OR ALL OF THE FOREGOING DISCLAIMERS, EXCLUSIONS AND LIMITATIONS MAY NOT APPLY TO YOU AND YOU MIGHT HAVE OTHER RIGHTS. **IN ADDITION, THE FOREGOING DISCLAIMER OF PUNITIVE AND EXEMPLARY DAMAGES SHALL NOT APPLY TO USERS WHO RESIDE IN THE STATE OF NEW JERSEY.**  
-  
-**12\. Procedure for Making Claims of Copyright Infringement.** If you believe content posted on the Services infringes your copyright rights, please provide our Copyright Agent with the following information: (1) an electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest; (2) a description of the copyrighted work that you claim has been infringed; (3) a description of the location on the Services of the material that you claim is infringing; (4) your address, telephone number and e-mail address; (5) a written statement that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent or the law; and (6) a statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf. Correspondence to our Copyright Agent regarding notice of claims of copyright infringement should be addressed to: Meredith Corporation, 1716 Locust Street, Des Moines, IA 50309-3023, Attn: General Counsel.  
-  
-**13\. Termination.** At its sole discretion, Meredith may modify or discontinue the Services, or may modify, suspend or terminate your access to the Services, for any reason, with or without notice to you and without liability to you or any third party. In addition to suspending or terminating your access to the Services, Meredith reserves the right to take appropriate legal action, including without limitation pursuing civil, criminal or injunctive redress. Even after your right to use the Services is terminated, this Agreement will remain enforceable against you and unpaid amounts you owe to Meredith for Products purchased will remain due.  
-  
-**14\. International Users.** The Services are controlled and offered by Meredith from its facilities in the United States of America. Meredith makes no representations that the Services are appropriate or available for use in other locations. Those who access or use the Services from other countries do so at their own volition and are responsible for compliance with local law.  
-  
-**15\. Dispute Resolution.** _**Please read the following arbitration agreement in this section**_ **("Arbitration Agreement")** _**carefully. It requires you to arbitrate most disputes with Meredith and limits the manner in which you can seek relief from us.**_  
-  
-**15.1 Applicability of Arbitration Agreement.** You agree that any dispute between you and us relating in any way to the Services, our advertising or marketing practices, any Products sold or distributed through the Services, or this Agreement, will be resolved by binding arbitration, rather than in court, except that (1) you may assert claims in small claims court if your claims qualify, so long as the matter remains in such court and advances only on an individual (non-class, non-representative) basis; and (2) you or Meredith may seek equitable relief in court for infringement or other misuse of intellectual property rights (such as trademarks, trade dress, domain names, trade secrets, copyrights, and patents). **This Arbitration Agreement shall apply, without limitation, to all claims that arose or were asserted before the Effective Date of this Agreement or any prior version of this Agreement.**  
-  
-****IF YOU AGREE TO ARBITRATION WITH MEREDITH, YOU ARE AGREEING IN ADVANCE THAT YOU WILL NOT PARTICIPATE IN OR SEEK TO RECOVER MONETARY OR OTHER RELIEF IN ANY LAWSUIT FILED AGAINST MEREDITH ALLEGING CLASS, COLLECTIVE, AND/OR REPRESENTATIVE CLAIMS ON YOUR BEHALF. INSTEAD, BY AGREEING TO ARBITRATION, YOU MAY BRING COVERED CLAIMS AGAINST MEREDITH ONLY IN AN INDIVIDUAL ARBITRATION PROCEEDING. IF SUCCESSFUL ON SUCH CLAIMS, YOU COULD BE AWARDED MONEY OR OTHER RELIEF BY AN ARBITRATOR. YOU ACKNOWLEDGE THAT YOU HAVE BEEN ADVISED THAT YOU MAY CONSULT WITH AN ATTORNEY IN DECIDING WHETHER TO ACCEPT THIS ARBITRATION AGREEMENT.****  
-  
-**15.2 Arbitration Rules and Forum.** The Federal Arbitration Act governs the interpretation and enforcement of this Arbitration Agreement. To begin an arbitration proceeding, you must send a letter requesting arbitration and describing your claim to John Zieser, General Counsel, Meredith Corporation, 1716 Locust Street, Des Moines, IA 50309. The arbitration will be conducted by JAMS, an established alternative dispute resolution provider. Disputes involving claims and counterclaims with an amount in controversy under $250,000, not inclusive of attorneys' fees and interest, shall be subject to JAMS' most current version of the Streamlined Arbitration Rules and procedures available at http://www.jamsadr.com/rules-streamlined-arbitration/; all other claims shall be subject to JAMS's most current version of the Comprehensive Arbitration Rules and Procedures, available at http://www.jamsadr.com/rules-comprehensive-arbitration/. JAMS's rules are also available at www.jamsadr.comor by calling JAMS at 800-352-5267. If JAMS is not available to arbitrate, the parties will select an alternative arbitral forum. If the arbitrator finds that you cannot afford to pay JAMS's filing, administrative, hearing and/or other fees and you cannot obtain a waiver from JAMS, Meredith will pay them for you. In addition, Meredith will reimburse all such JAMS' filing, administrative, hearing and/or other fees for claims with an amount in controversy totaling less than $10,000 unless the arbitrator determines the claims are frivolous.  
-  
-You may choose to have the arbitration conducted by telephone, based on written submissions, or in person in the county where you live or at another mutually agreed location. Any judgment on the award rendered by the arbitrator may be entered in any court of competent jurisdiction.  
-  
-**15.3 Authority of Arbitrator.** The arbitrator, and not any federal, state or local court or agency shall have exclusive authority to resolve any dispute related to the interpretation, applicability, enforceability or formation of this Arbitration Agreement including, but not limited to any claim that all or any part of this Arbitration Agreement is void or voidable. The arbitrator will decide the rights and liabilities, if any, of you and Meredith. The arbitration proceeding will not be consolidated with any other matters or joined with any other proceedings or parties. The arbitrator shall have the authority to grant motions dispositive of all or part of any claim or dispute. The arbitrator shall have the authority to award monetary damages and to grant any non-monetary remedy or relief available to an individual under applicable law, the arbitral forum's rules, and this Agreement (including the Arbitration Agreement). The arbitrator shall issue a written award and statement of decision describing the essential findings and conclusions on which any award (or decision not to render an award) is based, including the calculation of any damages awarded. The arbitrator shall follow the applicable law. The arbitrator has the same authority to award relief on an individual basis that a judge in a court of law would have. The award of the arbitrator is final and binding upon you and us.  
-  
-**15.4 Waiver of Jury Trial.** YOU AND MEREDITH HEREBY WAIVE ANY CONSTITUTIONAL AND STATUTORY RIGHTS TO SUE IN COURT (OTHER THAN SMALL CLAIMS COURT AS PERMITTED HEREIN) AND HAVE A TRIAL IN FRONT OF A JUDGE OR A JURY. You and Meredith are instead electing that all covered claims and disputes shall be resolved by arbitration under this Arbitration Agreement, except as specified in section 15.1 above. An arbitrator can award on an individual basis the same damages and relief as a court and must follow this Agreement as a court would. However, there is no judge or jury in arbitration, and court review of an arbitration award is subject to very limited review.  
-  
-**15.5 Waiver of Class or Consolidated Actions.** ALL CLAIMS AND DISPUTES WITHIN THE SCOPE OF THIS ARBITRATION AGREEMENT MUST BE ARBITRATED ON AN INDIVIDUAL BASIS AND NOT ON A CLASS, COLLECTIVE OR REPRESENTATIVE BASIS. ONLY INDIVIDUAL RELIEF IS AVAILABLE FOR CLAIMS COVERED BY THIS ARBITRATION AGREEMENT, AND CLAIMS OF MORE THAN ONE CUSTOMER OR USER CANNOT BE ARBITRATED OR CONSOLIDATED WITH THOSE OF ANY OTHER CUSTOMER OR USER. Notwithstanding anything to the contrary herein, in the event that this section 15.5 is deemed invalid or unenforceable with respect to a particular claim or dispute, neither you nor we shall be entitled to arbitration of such claim or dispute and instead the applicable claim or dispute shall be resolved in a court as set forth in section 16.5.  
-  
-**15.6 30-Day Right to Opt Out.** You have the right to opt out of the provisions of this Arbitration Agreement by sending a timely written notice of your decision to opt out to the following address: Meredith Corporation, 1716 Locust Street, Des Moines, IA 50309-3023, Attn: General Counsel or email to arbitrationoptout@meredith.com, within 30 days after first becoming subject to this Arbitration Agreement. Your notice must include your name and address, your Meredith username (if any), the email address you used to set up your Meredith account (if you have one), and a clear statement that you want to opt out of this Arbitration Agreement. If you opt out of this Arbitration Agreement, all other parts of this Agreement will continue to apply to you. Opting out of this Arbitration Agreement has no effect on any other arbitration agreements that you may currently have with us, or may enter into in the future with us.  
-  
-**15.7 Severability.** Subject to section 15.5, if any part or parts of this Arbitration Agreement are found under the law to be invalid or unenforceable, then such specific part or parts shall be of no force and effect and shall be severed and the remainder of the Arbitration Agreement shall continue in full force and effect.  
-  
-**15.8 Survival of Agreement.** This Arbitration Agreement will survive the termination or expiration of the Agreement or your relationship with Meredith.  
-  
-**15.9 Modification.** Notwithstanding any provision in this Agreement to the contrary, we agree that if Meredith makes any future material change to this Arbitration Agreement, it will not apply to any individual claim(s) of which you had already provided notice to Meredith.  
-  
-**16\. General Provisions.**  
-  
-**16.1 Electronic Communications.** The communications between you and Meredith use electronic means, whether you visit the Services or send Meredith e-mails, or whether Meredith posts notices on the Services or communicates with you via e-mail. For contractual purposes, you (1) consent to receive communications from Meredith in an electronic form; and (2) agree that all terms and conditions, agreements, notices, disclosures, and other communications and documents that Meredith provides to you electronically will have the same legal effect that such communications or documents would have if they were set forth in "writing." The foregoing sentence does not affect your statutory rights.  
-  
-**16.2 Assignment.** This Agreement, and your rights and obligations hereunder, may not be assigned, subcontracted, delegated or otherwise transferred by you without Meredith's prior written consent, and any attempted assignment, subcontract, delegation, or transfer in violation of the foregoing will be null and void.  
-  
-**16.3 Force Majeure.** Meredith shall not be liable for any delay or failure to perform resulting from causes outside its reasonable control, including, but not limited to, acts of God, war, terrorism, riots, embargos, acts of civil or military authorities, fire, floods, accidents, strikes or shortages of transportation facilities, fuel, energy, labor or materials.  
-  
-**16.4 Questions, Complaints, Claims.** If you have any questions, complaints or claims with respect to the Services, please contact our customer service department using the contact information available on the Services. We will do our best to address your concerns.  
-  
-**16.5 Exclusive Venue.** To the extent the parties are permitted under this Agreement to initiate litigation in a court, both you and Meredith agree that all claims and disputes arising out of or relating to this Agreement will be litigated exclusively in the state courts in Polk County, Iowa or federal courts located in the Southern District of Iowa.  
-  
-**16.6 Governing Law.** THIS AGREEMENT AND ANY ACTION RELATED THERETO WILL BE GOVERNED AND INTERPRETED BY AND UNDER THE LAWS OF THE STATE OFIOWA, CONSISTENT WITH THE FEDERAL ARBITRATION ACT, WITHOUT GIVING EFFECT TO ANY CONFLICT OF LAW OR OTHER PRINCIPLES THAT PROVIDE FOR THE APPLICATION OF THE LAW OF ANOTHER JURISDICTION. THE UNITED NATIONS CONVENTION ON CONTRACTS FOR THE INTERNATIONAL SALE OF GOODS DOES NOT APPLY TO THIS AGREEMENT.  
-  
-**16.7 Notice.** Where Meredith requires that you provide an e-mail address, you are responsible for providing Meredith with your most current e-mail address. In the event that the last e-mail address you provided to Meredith is not valid, or for any reason is not capable of delivering to you any notices required/ permitted by this Agreement, Meredith's dispatch of the e-mail containing such notice will nonetheless constitute effective notice. You may give notice to Meredith at the following address: Meredith Corporation, 1716 Locust Street, Des Moines, IA 50309-3023, Attn: General Counsel. Such notice shall be deemed given when received by Meredith by letter delivered by nationally recognized overnight delivery service or first class postage prepaid mail at the above address.  
-  
-**16.8 Waiver.** Any waiver or failure to enforce any provision of this Agreement on one occasion will not be deemed a waiver of any other provision or of such provision on any other occasion.  
-  
-**16.9 Severability.** Subject to Section 15.5, if any portion of this Agreement is held invalid or unenforceable, that portion shall be construed in a manner to reflect, as nearly as possible, the original intention of the parties, and the remaining portions shall remain in full force and effect.  
-  
-**16.10 Export Control.** You may not use, export, import, or transfer the Services except as authorized by U.S. law, the laws of the jurisdiction in which you obtained the Services, and any other applicable laws. In particular, but without limitation, the Services may not be exported or re-exported (a) into any United States embargoed countries, or (b) to anyone on the U.S. Treasury Department's list of Specially Designated Nationals or the U.S. Department of Commerce's Denied Person's List or Entity List. By using the Services, you represent and warrant that (i) you are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a "terrorist supporting" country and (ii) you are not listed on any U.S. Government list of prohibited or restricted parties. You also will not use the Services for any purpose prohibited by U.S. law.  
-  
-**16.11 Consumer Complaints.** In accordance with California Civil Code §1789.3, you may report complaints to the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs by contacting them in writing at 400 R Street, Sacramento, CA 95814, or by telephone at (800) 952-5210.  
-  
-**16.12 Entire Agreement.** This Agreement is the final, complete and exclusive agreement of the parties with respect to the subject matter hereof and supersedes and merges all prior discussions between the parties with respect to such subject matter.
+* “Sites” or “Dotdash” shall include any information or services made available by Dotdash, regardless of the medium, and shall include, without limitation any affiliated websites, mobile applications, videos, products and applications we make available. We reserve the right at any time, and from time to time, to modify, suspend or discontinue (temporarily or permanently) the Sites, or any part of the Sites, with or without notice.
+* The Sites are not intended for users under 13 years of age. If you are under 13, do not use the Sites and do not provide us with any personal information.
+* We make no claims that the Sites or any Sites’ content is accessible or appropriate outside of the United States. Access to the Sites may not be legal by certain persons or in certain countries. If you access the Sites from outside the United States, you do so on your own initiative and are responsible for compliance with local laws and regulations.
+
+**2\. Disclaimer**
+
+The information available through the Sites is provided solely for informational purposes on an “as is” basis at user’s sole risk. Dotdash makes no guarantees as to the accurateness, quality, or completeness of the information and Dotdash shall not be responsible or liable for any errors, omissions, or inaccuracies in the information or for any user’s reliance on the information. Users are solely responsible for verifying the information as being appropriate for user’s personal use.
+
+**3\. Our Right to Modify These Terms of Use**
+
+We reserve the right to change these Terms of Use at any time. You should check this page regularly. The changes will appear on the Sites and will be effective when we post the changes. Your continued use of the Sites means you agree to and accept the changes.
+
+**4\. Our Privacy Policy**
+
+Our Privacy Policy contains further information about how data is collected, used and made available on or by our Sites. We encourage you to read it, [here](https://www.dotdashmeredith.com/privacy-policy).
+
+**5\. Dotdash Intellectual Property**
+
+**Your Limited License to our Intellectual Property**
+
+The materials used and displayed on the Sites, including but not limited to text, software, photographs, graphics, illustrations and artwork, video, music and sound, and names, logos, trademarks and service marks, are the property of Dotdash, About, Inc., or its affiliates or licensors and are protected by copyright, trademark and other laws. Any such content may be used solely for your personal, non-commercial use. You agree not to modify, reproduce, retransmit, distribute, disseminate, sell, publish, broadcast or circulate any such material without the prior written permission of Dotdash.  Dotdash grants you a personal, non-exclusive, non-transferable, revocable license to use the Sites and any materials on the site for non-commercial purposes subject to these Terms of Use.
+
+**Dotdash Trademarks and Logos**
+
+The terms Dotdash, www.dotdash.com, and other Dotdash trademarks and services marks, and all related names, logos, product and service names, designs and slogans, are trademarks of Dotdash or its affiliates or licensors. You may not use such marks without the prior written permission of Dotdash. All other names, logos, product and service names, designs and slogans on the Sites are the trademarks of their respective owners.
+
+**6\. Reliance on Information on Site**
+
+**We have no obligation to, and you should not expect us to, review content on our Sites, including User Contributions (defined below) or contributions by our independent contributors.**
+
+**About our Contributors**
+
+Dotdash seeks out content providers in particular subject matters as independent contractor contributors to the Sites. Dotdash does not represent or guarantee that any contributor has achieved any particular level of expertise or knowledge or has any specific qualifications or credentials, without limitation, as to the subject matter to which their contributions relate. To the extent we refer to each of these contributors as an expert on the Sites, you must understand that we rely on the information they provide us and we are not obligated to independently verify or attempt to confirm any information they provide, nor their qualifications or credentials. Dotdash is also not obligated to monitor or independently research or verify any content they contribute. Contributors, even if characterized as an expert, are not employees of Dotdash or its affiliates, and Dotdash cannot and does not represent or warrant the accuracy, completeness or truthfulness of the qualifications or credentials of any contributor, nor of any other users of the Sites.
+
+**Please do not rely on our Sites’ content, including User Contributions and content from our independent contractor contributors. Content is provided for general information purposes only and can never take into account your unique, personal circumstances and needs. You acknowledge and agree that any reliance or actions you take in violation of your agreement with us shall be at your sole and exclusive risk and Dotdash shall have no responsibility or liability to you whatsoever. You also acknowledge and agree that communications on or through our Sites, whether with content providers or other users, are at your own risk and are not covered by any privilege or confidentiality obligation that might apply if you were to obtain your own professional advice.**
+
+**7\. Prohibited Uses of the Sites**
+
+You may use the Sites only for lawful purposes and in accordance with these Terms of Use. You agree not to use the Sites:
+
+* In any way that violates any applicable federal, state, local or international law or regulation.
+* For the purpose of exploiting, harming or attempting to exploit or harm minors in any way by exposing them to inappropriate content, asking for personally identifiable information or otherwise.
+* To transmit, or procure the sending of, any advertising or promotional material, including any “junk mail”, “chain letter” or “spam” or any other similar solicitation.
+* To impersonate or attempt to impersonate Dotdash, a Dotdash employee, another user or any other person or entity (including, without limitation, by using email addresses or screen names associated with any of the foregoing).
+* To engage in any other conduct that restricts or inhibits anyone’s use or enjoyment of the Sites, or which, as determined by us, may harm Dotdash or users of the Sites or expose them to liability.
+
+Additionally, you agree not to:
+
+* “Scrape” or disaggregate data from the Sites (whether by manual or automated means) for any commercial, marketing, or data compiling or enhancing purpose.
+* Introduce any viruses, Trojan horses, worms, logic bombs or other material or mechanism which is malicious or technologically harmful.
+* Attempt to gain unauthorized access to, interfere with, damage or disrupt any parts of the Sites, the server on which the Sites is stored, or any server, computer or database connected to the Sites.
+* Otherwise attempt to interfere with the proper working of the Sites.  
+    
+
+**8\. Content That You Make Available on the Site**
+
+**User Contributions**
+
+The Sites may contain message boards, chat rooms, personal web pages or profiles, forums, review and ratings sections, bulletin boards and other interactive features (collectively, “Interactive Services”) that allow users to post, submit, publish, display or transmit to other users or other persons (hereinafter, “post”) comments, content or other materials (collectively, “User Contributions”) on or through the Sites.
+
+If you voluntarily disclose personal information (e.g., user name, email address) on the Sites, such as on a forum, chat room or on any other user or member-generated pages, that information can be viewed in search engines, collected and used by others and may result in unsolicited contact from other parties. **We strongly advise that you not post any personal or other sensitive information on our Sites.**
+
+Any User Contribution you post to the Sites will be considered non-confidential and non-proprietary. By providing any User Contribution on the Sites, you grant us and our affiliates and service providers, and each of their and our respective licensees, successors and assigns the perpetual right to use, reproduce, modify, perform, display, distribute and otherwise disclose to third parties any such material for any purpose.
+
+You represent and warrant that:
+
+* You own or control all rights in and to the User Contributions and have the right to grant the license granted above to us and our affiliates and service providers, and each of their and our respective licensees, successors and assigns.
+* All of your User Contributions do and will comply with these Terms of Use.
+
+You understand and acknowledge that you are responsible for any User Contributions you submit or contribute, and you, not the Company, have full responsibility for such content, including its legality, reliability, accuracy and appropriateness. We are not responsible, or liable to any third party, for the content or accuracy of any User Contributions posted by you or any other user of the Sites.
+
+**Monitoring and Enforcement; Termination**
+
+We have the right to:
+
+* Remove or refuse to post any User Contributions for any or no reason in our sole discretion.
+* Take any action with respect to any User Contribution that we deem necessary or appropriate in our sole discretion, including if we believe that such User Contribution violates the Terms of Use, including the content standards below, infringes any intellectual property right or other right of any person or entity, threatens the personal safety of users of the Sites or the public or could create liability for the Company.
+* Disclose your identity or other information about you to any third party who claims that material posted by you violates their rights, including their intellectual property rights or their right to privacy.
+* Take appropriate legal action, including without limitation, referral to law enforcement, for any illegal or unauthorized use of the Sites.
+* Terminate or suspend your access to all or part of the Sites for any or no reason, including without limitation, any violation of these Terms of Use.
+
+Without limiting the foregoing, we have the right to fully cooperate with any law enforcement authorities or court order requesting or directing us to disclose the identity or other information related to anyone posting any materials on or through the Sites. YOU WAIVE AND HOLD HARMLESS THE COMPANY AND ITS AFFILIATES, AGENTS, LICENSEES AND SERVICE PROVIDERS FROM ANY CLAIMS RESULTING FROM ANY ACTION TAKEN BY ANY OF THE FOREGOING PARTIES DURING OR AS A RESULT OF ITS INVESTIGATIONS AND FROM ANY ACTIONS TAKEN AS A CONSEQUENCE OF INVESTIGATIONS BY EITHER THE COMPANY, SUCH PARTIES OR LAW ENFORCEMENT AUTHORITIES.
+
+We cannot and do not undertake to review all material before it is posted on the Sites, and cannot ensure prompt removal of objectionable material after it has been posted. Accordingly, we assume no liability for any action or inaction regarding transmissions, communications or content provided by any user or third party. We have no liability or responsibility to anyone for performance or nonperformance of the activities described in this section.
+
+**Content Standards**
+
+These content standards apply to any and all User Contributions and use of Interactive Services. User Contributions must in their entirety comply with all applicable federal, state, local and international laws and regulations. Without limiting the foregoing, User Contributions must not:
+
+* Contain any material which is defamatory, obscene, indecent, abusive, offensive, harassing, violent, hateful, inflammatory or otherwise objectionable.
+* Promote sexually explicit or pornographic material, violence, or discrimination based on race, sex, religion, nationality, disability, sexual orientation or age.
+* Infringe any patent, trademark, trade secret, copyright or other intellectual property or other rights of any other person.
+* Violate the legal rights (including the rights of publicity and privacy) of others or contain any material that could give rise to any civil or criminal liability under applicable laws or regulations or that otherwise may be in conflict with these Terms of Use and our Privacy Policy.
+* Be likely to deceive any person.
+* Promote any illegal activity, or advocate, promote or assist any unlawful act.
+* Cause annoyance, inconvenience or needless anxiety or be likely to upset, harass, embarrass, alarm or annoy any other person.
+* Impersonate any person, or misrepresent your identity or affiliation with any person or organization.
+* Promote commercial activities or sales, such as contests, sweepstakes and other sales promotions, barter or advertising.
+* Give the impression that they emanate from or are endorsed by us or any other person or entity, if that is not the case.  
+    
+
+**9\. Your Indemnification of Us**
+
+You agree to indemnify, defend and hold harmless Dotdash, and its officers, directors, owners, employees, agents, information providers, affiliates, licensors and licensees (collectively, the “Indemnified Parties”) from and against any and all liability and costs, including, without limitation, reasonable attorneys’ fees, incurred by the Indemnified Parties in connection with any claim arising out of (a) any User Contributions, or (b) breach by you or any user of your account of these Terms of Use or any representations, warranties and covenants contained in these Terms of Use. You shall cooperate fully and reasonably in the defense of any such claim. Dotdash reserves the right, at its own expense, to assume the exclusive defense and control of any matter subject to indemnification by you.
+
+**10\. WARRANTY DISCLAIMER**
+
+THE SITES ARE PROVIDED ON AN “AS IS” BASIS WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF TITLE OR IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, OTHER THAN THOSE WARRANTIES WHICH ARE IMPOSED BY AND INCAPABLE OF EXCLUSION, RESTRICTION OR MODIFICATION UNDER THE LAWS APPLICABLE TO THESE TERMS OF USE. WE DO NOT ENDORSE AND ARE NOT RESPONSIBLE FOR THE ACCURACY OR RELIABILITY OF ANY OPINION, ADVICE OR STATEMENT ON THE SITES. THE INFORMATION, FACTS, AND OPINIONS PROVIDED ARE NO SUBSTITUTE FOR PROFESSIONAL ADVICE.
+
+**11\. LIABILITY DISCLAIMER**
+
+YOUR USE OF THE SITES IS AT YOUR OWN RISK. NEITHER, DOTDASH OR ABOUT, INC. NOR ANY OF ITS SUBSIDIARIES, DIVISIONS, AFFILIATES, AGENTS, REPRESENTATIVES OR LICENSORS (INCLUDING OUR INDEPENDENT CONTRACTOR CONTRIBUTORS) SHALL BE LIABLE TO YOU OR ANYONE ELSE FOR ANY LOSS OR INJURY OR ANY DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, PUNITIVE OR SIMILAR DAMAGES ARISING OUT OF YOUR ACCESS OR USE OF, OR YOUR INABILITY TO ACCESS OR USE, THE SITES AND THE INFORMATION AVAILABLE ON THE SITES OR ARISING OUT OF ANY ACTION TAKEN IN RESPONSE TO OR AS A RESULT OF ANY INFORMATION AVAILABLE ON THE SITES. YOU HEREBY WAIVE ANY AND ALL CLAIMS AGAINST DOTDASH, ABOUT, INC. AND ITS SUBSIDIARIES, DIVISIONS, AFFILIATES, AGENTS, REPRESENTATIVES AND LICENSORS (INCLUDING OUR INDEPENDENT CONTRACTOR CONTRIBUTORS) ARISING OUT OF YOUR USE OF THE SITES AND THE INFORMATION AVAILABLE THEREON.
+
+**12\. Third-Party Links, Advertisements, Websites and Content**
+
+We do not review or monitor any websites, advertisements, or other media linked to or available through the Sites and are not responsible for the content of any such third-party advertisements or linked websites. Prior to purchasing any third-party products or services described on the Sites, you are advised to verify pricing, product quality and other information necessary to make an informed purchase. Neither Dotdash nor its parent or any of its subsidiaries, divisions, affiliates, agents, representatives or licensors shall have any liability arising from your purchases of third-party products or services based upon the information provided on the Sites, and we shall not receive or review complaints regarding such purchases.
+
+**13\. Disputes**
+
+These Terms of Use and any disputes arising out of or related to the Sites shall be governed by, and construed and enforced in accordance with, the laws of the State of New York (without regard to conflict of law principles). In the event of any such dispute, you irrevocably consent to exclusive jurisdiction and venue in the courts located in the State of New York, County of New York.
+
+ANY CAUSE OF ACTION OR CLAIM YOU MAY HAVE ARISING OUT OF OR RELATING TO THESE TERMS OF USE OR THE SITES MUST BE COMMENCED WITHIN ONE (1) YEAR AFTER THE CAUSE OF ACTION ACCRUES, OTHERWISE, SUCH CAUSE OF ACTION OR CLAIM IS PERMANENTLY BARRED AND YOU HEREBY AGREE TO WAIVE SUCH CAUSE OF ACTION OR CLAIM AFTER SUCH DATE.
+
+**14\. Waiver and Severability**
+
+No waiver by Dotdash of any term or condition set forth in these Terms of Use shall be deemed a further or continuing waiver of such term or condition or a waiver of any other term or condition, and any failure of Dotdash to assert a right or provision under these Terms of Use shall not constitute a waiver of such right or provision.
+
+If any provision of these Terms of Use is held by a court or other tribunal of competent jurisdiction to be invalid, illegal or unenforceable for any reason, such provision shall be eliminated or limited to the minimum extent such that the remaining provisions of the Terms of Use will continue in full force and effect.
+
+**15\. Entire Agreement**
+
+The Terms of Use constitute the sole and entire agreement between you and Dotdash with respect to the Sites and supersede all prior and contemporaneous understandings, agreements, representations and warranties, both written and oral, with respect to the Sites.
+
+**16\. DMCA Policy**
+
+Dotdash deals with copyright infringement in accordance with the Digital Millennium Copyright Act (DMCA). You may not post, upload, or otherwise place any content or information on the Sites that belongs to a third party, unless you have the legal right to do so. If you believe in good faith that your copyrighted work has been reproduced on our Sites without authorization in a way that constitutes copyright infringement, you may notify our designated copyright agent either by mail to Copyright Agent (Legal), About, Inc., 1500 Broadway, 6th Floor, New York, NY, 10036 or in an email to SafeHarborAgent@About.Com. This contact information is only for suspected copyright infringement. Please include the following:
+
+* Your physical or electronic signature.
+* Identification of the copyrighted work you believe to have been infringed or, if the claim involves multiple works on the Sites, a representative list of such works.
+* Identification of the material you believe to be infringing in a sufficiently precise manner to allow us to locate that material, such as the precise URL (web page) that it appeared on, along with any copies you have of that web page.
+* Adequate information by which we can contact you (including your name, postal address, telephone number and email address).
+* A statement that you have a good faith belief that use of the copyrighted material is not authorized by the copyright owner, its agent or the law.
+* A statement, under penalty of perjury, that the information in the written notice is accurate and that you are authorized to act on behalf of the copyright owner.
+* Please be aware that if you knowingly materially misrepresent that material or activity on the Sites is infringing your copyright, you may be held liable for damages (including costs and attorneys’ fees).
+
+It is the policy of Dotdash to disable the accounts of users who repeatedly post infringing material on the Sites.
+
+**17\. Patent Info**
+
+Dotdash’s systems are covered by one or more of the following patents:
+
+* U.S. Patent No. 5,918,010
+* U.S. Patent No. 6,081,788
+* U.S. Patent No. 6,157,926
+* U.S. Patent No. 6,195,681
+* U.S. Patent No. 6,226,648
+* U.S. Patent No. 6,336,132
+* U.S. Patent No. 8,719,333
+* Australian Patent No. 729,891
+* Other Patents Pending.  
+    
+
+**18\. How to Contact Us**
+
+The Sites are owned and operated by About, Inc., located at 28 Liberty Street, 7th Floor, New York, NY 10005.
+
+All other feedback, comments, requests for technical support and other communications relating to the Sites should be directed to: [contact@Dotdash.com](mailto:contact@dotdash.com).
+
+Requests to use and reproduce content published on Dotdash should be directed to:  permissions@dotdash.com.
+
+Thank you for visiting Dotdash.
