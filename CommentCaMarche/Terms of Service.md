@@ -1,26 +1,23 @@
 General Terms and Conditions of Use
 ===================================
 
-Latest update on **Thursday 3 February 2022 à 17:19** by Natalia Kudryavtseva.
+[](https://ccm.net/account/nataliakudryavtseva-11754057)[NataliaKudryavtseva](https://ccm.net/account/nataliakudryavtseva-11754057) 30/09/22 15:02
 
-**All Rights Reserved - 2018 © CCM BENCHMARK GROUP**
+All Rights Reserved - 2018 © CCM BENCHMARK GROUP
 
 Object
 ------
 
-These General Terms and Conditions are meant to define the ways in which the services of the website CCM.net, hereafter "The Service," are made available, as well as the conditions of use of the Service by the User. Any access and/or use of the site CCM.net constitutes an acknowledgement and unconditional acceptance of all of these Terms and Conditions. They are, therefore, a contract between CCM.net and the User. If the User does not agree to all or part of these general terms and conditions, he or she is requested not to use the Service in any way.  
+These General Terms and Conditions are meant to define the ways in which the services of the website CCM.net, hereafter "The Service," are made available, as well as the conditions of use of the Service by the User. Any access and/or use of the site CCM.net constitutes an acknowledgment and unconditional acceptance of all of these Terms and Conditions. They are, therefore, a contract between CCM.net and the User. If the User does not agree to all or part of these general terms and conditions, he or she is requested not to use the Service in any way.
 
 Legal Disclaimers and Imprint
 -----------------------------
 
 The website CCM.net is published by:  
 
-CCM BENCHMARK GROUP   
-SAS (Simplified Joint-Stock Company)   
-with a capital of 1 848 864,45 €,
+CCM BENCHMARK GROUP  SAS (Simplified Joint-Stock Company)  with a capital of 1 848 864,45 €,
 
-Headquartered at:   
-14 boulevard Haussmann – 75009 Paris, France 
+Headquartered at:  14 boulevard Haussmann – 75009 Paris, France 
 
 Registered in the Registre du Commerce et des Sociétés (Registry of Commerce and Companies) as number **512 085 630** PARIS
 
@@ -28,46 +25,48 @@ The director of publication is **Marc Feuillée**.
 
 **CCM BENCHMARK GROUP** is a subsidiary of France's **Figaro CCM Benchmark Group**.
 
+![](https://img-16.ccm2.net/ZRRg2FiV3iIcY-rcwT557GWlMFo=/200x/3924b191924f4e67925fca7f6187dc31/ccm-encyclopedia/938-cNslCeNJJ38cxQZL-s-.png)
+
 Definitions
 -----------
 
-**User**: The User is any person who uses the Site or one of the services offered by the Site.  
+**User**: The User is any person who uses the Site or one of the services offered by the Site.
 
-**User Content**: The term "User Content" designates data sent by the User to various areas of the Site.  
+**User Content**: The term "User Content" designates data sent by the User to various areas of the Site.
 
-**Member**: The term "Member" designates a User logged into the Site.  
+**Member**: The term "Member" designates a User logged into the Site.
 
-**User Name**: The term "user name" refers to all information needed for a user to log in to the site to access areas which are reserved for members.  
+**User Name**: The term "user name" refers to all information needed for a user to log in to the site to access areas which are reserved for members.
 
-**Password**: The "password" is private information that the User must keep secret, and that, in conjunction with his or her User name, is used to verify his or her identity.  
+**Password**: The "password" is private information that the User must keep secret, and that, in conjunction with his or her User name, is used to verify his or her identity.
 
 Accessing the Service
 ---------------------
 
-The Service is accessible at no charge to any User with Internet access. Any costs related to accessing the Service, whether they be costs for hardware, software, or Internet access, are solely the responsibility of the User. He or she alone is responsible for the proper functioning of his or her computing equipment as well as for his or her Internet access.  
+The Service is accessible at no charge to any User with Internet access. Any costs related to accessing the Service, whether they be costs for hardware, software, or Internet access, are solely the responsibility of the User. He or she alone is responsible for the proper functioning of his or her computing equipment as well as for his or her Internet access.
 
-Some areas of the Site are reserved for Members who have logged in with their User Name and Password.  
+Some areas of the Site are reserved for Members who have logged in with their User Name and Password.
 
-CCM.net reserves the right to refuse access to the Service, at its own discretion and without prior notice, to any User who does not comply with the conditions of use.  
+CCM.net reserves the right to refuse access to the Service, at its own discretion and without prior notice, to any User who does not comply with the conditions of use.
 
-CCM BENCHMARK GROUP takes all reasonable measures at its disposal to ensure quality access to the Service, but is under no legal obligation to do so.  
+CCM BENCHMARK GROUP takes all reasonable measures at its disposal to ensure quality access to the Service, but is under no legal obligation to do so.
 
-Additionally, CCM BENCHMARK GROUP may not be held responsible for any network or server malfunction, or any other event beyond reasonable control, which would block or diminish access to the Service  
+Additionally, CCM BENCHMARK GROUP may not be held responsible for any network or server malfunction, or any other event beyond reasonable control, which would block or diminish access to the Service
 
-CCM BENCHMARK GROUP reserves the right to briefly suspend or interrupt access to all or part of the Service without any prior notice, for necessary maintenance or any other reason, without this interruption of service subjecting Communitic International to any obligation to compensate for it.  
+CCM BENCHMARK GROUP reserves the right to briefly suspend or interrupt access to all or part of the Service without any prior notice, for necessary maintenance or any other reason, without this interruption of service subjecting Communitic International to any obligation to compensate for it.
 
 Intellectual Property
 ---------------------
 
-The website CCM.net, and in particular its content, is protected by French law. CCM BENCHMARK GROUP and Jean-François Pillou are the sole owners of all intellectual property rights relating to content on the site (including text, photographs, illustrations, images, logos, etc.).  
+The website CCM.net, and in particular its content, is protected by French law. CCM BENCHMARK GROUP and Jean-François Pillou are the sole owners of all intellectual property rights relating to content on the site (including text, photographs, illustrations, images, logos, etc.).
 
-The content reproduced on the Site is subject to copyright and its reproduction or distribution, without the express written authorization of **CCM BENCHMARK GROUP**, constitutes copyright infringement and may be subject to criminal penalties. The texts and illustrations that are explicitly licensed under the [Creative Commons license](https://ccm.net/contents/955-copyright-information) may under certain conditions be reproduced, distributed, or modified without necessarily requiring permission to do so.  
+The content reproduced on the Site is subject to copyright and its reproduction or distribution, without the express written authorization of **CCM BENCHMARK GROUP**, constitutes copyright infringement and may be subject to criminal penalties. The texts and illustrations that are explicitly licensed under the [Creative Commons license](https://ccm.net/contents/955-copyright-information) may under certain conditions be reproduced, distributed, or modified without necessarily requiring permission to do so.
 
-"**CCM**" and "**CCM BENCHMARK GROUP**" are registered trademarks of **CCM BENCHMARK GROUP**. Any unauthorized reproduction of these trademarks, logos, and distinctive signs constitutes copyright infringement and may be subject to criminal penalties. Violators face civil and criminal penalties.  
+"**CCM**" and "**CCM BENCHMARK GROUP**" are registered trademarks of **CCM BENCHMARK GROUP**. Any unauthorized reproduction of these trademarks, logos, and distinctive signs constitutes copyright infringement and may be subject to criminal penalties. Violators face civil and criminal penalties.
 
-The User alone is responsible for the User Content that he or she puts online via the Service, as well as for any texts or opinions that he or she writes. The User expressly grants to CCM BENCHMARK GROUP, at no charge, all intellectual property rights related to the User Content, in particular reproduction, depiction, and adaptation rights, for as long as the term of copyright protection lasts. He or she also agrees that this data does not infringe on the protective interests of any third party whatsoever. To that end, he or she absolves CCM BENCHMARK GROUP from any claim, based directly or indirectly on this information and/or data, that may cause any legal proceedings whatsoever to be brought against CCM BENCHMARK GROUP. He or she also agrees to bear any costs, of any kind whatsoever, resulting from said third-party action against CCM BENCHMARK GROUP, including lawyer's fees and legal expenses.  
+The User alone is responsible for the User Content that he or she puts online via the Service, as well as for any texts or opinions that he or she writes. The User expressly grants to CCM BENCHMARK GROUP, at no charge, all intellectual property rights related to the User Content, in particular reproduction, depiction, and adaptation rights, for as long as the term of copyright protection lasts. He or she also agrees that this data does not infringe on the protective interests of any third party whatsoever. To that end, he or she absolves CCM BENCHMARK GROUP from any claim, based directly or indirectly on this information and/or data, that may cause any legal proceedings whatsoever to be brought against CCM BENCHMARK GROUP. He or she also agrees to bear any costs, of any kind whatsoever, resulting from said third-party action against CCM BENCHMARK GROUP, including lawyer's fees and legal expenses.
 
-CCM BENCHMARK GROUP reserves the right to delete any or all User Content, at any time and for any reason, without warning or prior notice. The User is not entitled to any compensation should this occur.  
+CCM BENCHMARK GROUP reserves the right to delete any or all User Content, at any time and for any reason, without warning or prior notice. The User is not entitled to any compensation should this occur.
 
 Personal Data
 -------------
@@ -80,7 +79,7 @@ by using the provided [contact form](https://ccm.net/contact/);
 
 by contacting CCM directly at the following address: contact@ccm.net
 
-For more information about the processing of personal data, please read our [Privacy Policy](https://ccm.net/contents/957-processing-of-personal-data-ccm)
+For more information about the processing of personal data, please read our [Privacy Policy](https://ccm.net/apps-sites/internet-archeology/ccm/9941-processing-of-personal-data-ccm/)
 
 Limitation of Liability
 -----------------------
@@ -106,8 +105,7 @@ The User agrees to comply with all regulations provided for by French law.
 Hyperlinks
 ----------
 
-CCM.net includes hyperlinks to websites published and/or managed by third parties.  
-As CCM BENCHMARK GROUP cannot control these external resources, the User recognises that CCM BENCHMARK GROUP takes no responsibility for them, and cannot be held responsible for their content.
+CCM.net includes hyperlinks to websites published and/or managed by third parties. As CCM BENCHMARK GROUP cannot control these external resources, the User recognises that CCM BENCHMARK GROUP takes no responsibility for them, and cannot be held responsible for their content.
 
 Force majeure
 -------------
@@ -127,5 +125,4 @@ The contract is agreed to for an indefinite duration, beginning with Use of the 
 Legal Jurisdiction
 ------------------
 
-French law applies to the content and data transmission on and related to this website. The French language version of this Contract shall govern over any translation.  
-Any legal matter that may arise, and which cannot be resolved through mutual agreement, will be governed by the jurisdiction of French courts.
+French law applies to the content and data transmission on and related to this website. The French language version of this Contract shall govern over any translation. Any legal matter that may arise, and which cannot be resolved through mutual agreement, will be governed by the jurisdiction of French courts.
