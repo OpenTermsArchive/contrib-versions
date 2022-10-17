@@ -2,7 +2,7 @@
 
   
 
-_We're updating our livestream policies. Starting on 17 November, 2022, you'll need to be at least 18 years old to host a livestream. You can find our new policies [here](https://www.tiktok.com/community-guidelines-2022-update)._
+_We're updating our livestream policies. Starting on 23 November, 2022, you'll need to be at least 18 years old to host a livestream. You can find our new policies [here](https://www.tiktok.com/community-guidelines-2022-update)._
 
 Introduction
 ------------
@@ -499,6 +499,6 @@ We value authenticity and accuracy. We make ineligible for the FYF any content t
 
 Original and entertaining content form the core of the TikTok community. To maintain the positive experience our users expect from the TikTok platform, unoriginal and low-quality content is ineligible for recommendation. We consider content not original if it is imported or uploaded from TikTok, other platforms, or other sources including television, movies, or webcasts, and the user has not added new, creative edits. One indicator that the content is not original is a visible watermark or superimposed logo. Low quality content includes extremely short clips, static images, and exclusively-GIF based videos. Content that includes QR codes is usually ineligible for the FYF because it can lead users to harmful websites or apps, though we make exceptions in certain circumstances where that risk is low (e.g., e-commerce).
 
-\-------------------------------------------------------------------------------------------------------------------------------
+\-------------------------------------------------------------------------------------------------------------------------
 
 Thank you for being a part of our vibrant global community and working with us to maintain a welcoming space for all users. If you come across content or accounts that you believe may violate our Community Guidelines, please [let us know](https://support.tiktok.com/en/safety-hc/report-a-problem)  so we can review and take appropriate action.
