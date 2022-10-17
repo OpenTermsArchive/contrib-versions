@@ -1,12 +1,13 @@
-Processing of Personal Data - CCM
-=================================
+How is your data processed by CCM?
+==================================
 
-Latest update on **Friday 4 February 2022 à 03:34** by David Webb.
+[](https://ccm.net/account/dwebb-11634883)[David Webb](https://ccm.net/account/dwebb-11634883) 06/10/22 10:30
 
-**CCM BENCHMARK GROUP** is responsible for the collection and the processing of personal data.
+CCM BENCHMARK GROUP is responsible for the collection and the processing of personal data.
 
-**CCM BENCHMARK GROUP** is an _SAS_ (Simplified Joint-Stock Company) with a capital of 1 848 864,45 €. Headquartered at: 14 boulevard Haussmann – 75009 Paris, France   
-Registered in the Registre du Commerce et des Sociétés (Registry of Commerce and Companies) as number 512 085 630 PARIS
+**CCM BENCHMARK GROUP** is an _SAS_ (Simplified Joint-Stock Company) with a capital of 1 848 864,45 €. Headquartered at: 14 boulevard Haussmann – 75009 Paris, France  Registered in the Registre du Commerce et des Sociétés (Registry of Commerce and Companies) as number 512 085 630 PARIS
+
+![](https://img-16.ccm2.net/IRsMmwaZ_aTUhdyOWg0NGjAHyMs=/200x/9ea67803bd094fea821e50cc064ca727/ccm-encyclopedia/kfSgNHLL-ccm-rouge-s-.png)
 
 Nature of collected data
 ------------------------
@@ -15,41 +16,22 @@ In respect of the privacy of its users, CCM BENCHMARK GROUP promises that the co
 
 The information that we collect originates from:
 
-Either the voluntary registration of an email address which permits you to receive one of our newsletters or offers from our partners;  
-The input of your personal data while registering to one of our sites;  
-Or the data issued from your visit to our site via cookies: viewing a web page, clicking a link, a search.
+Either the voluntary registration of an email address which permits you to receive one of our newsletters or offers from our partners; The input of your personal data while registering to one of our sites; Or the data issued from your visit to our site via cookies: viewing a web page, clicking a link, a search.
 
 What do we do with this information?
 ------------------------------------
 
 ### Purpose of collected data
 
-Depending on the case, the uses include:  
-If you are subscribed to one of our newsletters: in this case, your email address is used for the sending of our email campaigns and internal announcements;  
-If you agree to receive email offers from one of our site partners during your registration, we may use the data collected to send you advertising campaigns of our partners according to your navigation behavior on our site. In no case will this data be transmitted to third parties without your prior consent;  
-If you are registered on one of our sites, your data is used for the management of your account (customer service searches, technical difficulties);  
-The internet sites of CCM Benchmark Group collect personal data through the use of cookies (see the complete presentation below in paragraph 3) for the purposes of targeted advertising.  
-Furthermore, the personal data is stored.
+Depending on the case, the uses include: If you are subscribed to one of our newsletters: in this case, your email address is used for the sending of our email campaigns and internal announcements; If you agree to receive email offers from one of our site partners during your registration, we may use the data collected to send you advertising campaigns of our partners according to your navigation behavior on our site. In no case will this data be transmitted to third parties without your prior consent; If you are registered on one of our sites, your data is used for the management of your account (customer service searches, technical difficulties); The internet sites of CCM Benchmark Group collect personal data through the use of cookies (see the complete presentation below in paragraph 3) for the purposes of targeted advertising. Furthermore, the personal data is stored.
 
 ### Your rights concerning your personal data
 
-You have a right to access, modify, oppose, and delete your personal data.  
-You may exercise these rights at any moment, and by any means, notably:  
-By postal mail at the following address:
+You have a right to access, modify, oppose, and delete your personal data. You may exercise these rights at any moment, and by any means, notably: By postal mail at the following address:
 
-**CCM BENCHMARK GROUP**   
-"Personal Data - CCM"  
-14 boulevard Haussmann – 75009 Paris, France 
+**CCM BENCHMARK GROUP**  "Personal Data - CCM" 14 boulevard Haussmann – 75009 Paris, France 
 
-By email at the following address: contact \[at\] commentcamarche.net  
-The request must be accompanied by a photocopy of a valid ID card.  
-Your request will be processed within a maximum delay of 2 months following receipt.  
-We remind you that abusive claims are punishable by law.  
-In some cases, you may also exercise these rights directly:  
-If you are subscribed to one of our newsletters: You may at any moment unsubscribe by clicking the “unsubscribe” link located at the bottom of every email;  
-If you accept to receive offers from our partners: You may at any moment unsubscribe by clicking on the “unsubscribe” link located at the bottom of every email;  
-If you have voluntarily subscribed to one of our sites: You may at any moment access, modify, or delete your data while connected to the Member Space;  
-In regards to cookies, the means of direct opposition are specified below in paragraph 3-3.
+By email at the following address: contact \[at\] commentcamarche.net The request must be accompanied by a photocopy of a valid ID card. Your request will be processed within a maximum delay of 2 months following receipt. We remind you that abusive claims are punishable by law. In some cases, you may also exercise these rights directly: If you are subscribed to one of our newsletters: You may at any moment unsubscribe by clicking the “unsubscribe” link located at the bottom of every email; If you accept to receive offers from our partners: You may at any moment unsubscribe by clicking on the “unsubscribe” link located at the bottom of every email; If you have voluntarily subscribed to one of our sites: You may at any moment access, modify, or delete your data while connected to the Member Space; In regards to cookies, the means of direct opposition are specified below in paragraph 3-3.
 
 Cookie Policy
 -------------
@@ -99,16 +81,11 @@ In this case, the sharing of your computer and your browser settings with others
 
 If you use Internet Explorer: click on the “Tools” button, followed by “Internet Options”. Under the “History” tab, click on “Select”. Select the “Cookies” check box, and then click “Delete”. [https://support.microsoft.com/en-us/windows/delete-and-manage-cookies-168dab11-0753-043d-7c16-ede5947fc64d#ie=ie-11](https://support.microsoft.com/en-us/windows/delete-and-manage-cookies-168dab11-0753-043d-7c16-ede5947fc64d#ie=ie-11)
 
-If you use Firefox: click on the “Menu” button and choose “Preferences”. Select the “Privacy” tab and go to the “History” section to set your cookie preferences.  
-[https://support.mozilla.org/en-US/kb/third-party-cookies-firefox-tracking-protection?redirectslug=disable-third-party-cookies&redirectlocale=en-US](https://support.mozilla.org/en-US/kb/third-party-cookies-firefox-tracking-protection?redirectslug=disable-third-party-cookies&redirectlocale=en-US)
+If you use Firefox: click on the “Menu” button and choose “Preferences”. Select the “Privacy” tab and go to the “History” section to set your cookie preferences. [https://support.mozilla.org/en-US/kb/third-party-cookies-firefox-tracking-protection?redirectslug=disable-third-party-cookies&redirectlocale=en-US](https://support.mozilla.org/en-US/kb/third-party-cookies-firefox-tracking-protection?redirectslug=disable-third-party-cookies&redirectlocale=en-US)
 
-If you use Safari: Click on “Preferences” > “Privacy” and then “View Cookies”. Select the cookies that you would like to deactivate and click on “Delete” or “Delete All”.  
-https://support.apple.com/kb/PH21411?viewlocale=en\_US&locale=en\_US
+If you use Safari: Click on “Preferences” > “Privacy” and then “View Cookies”. Select the cookies that you would like to deactivate and click on “Delete” or “Delete All”. https://support.apple.com/kb/PH21411?viewlocale=en\_US&locale=en\_US
 
-If you use Chrome: click on the menu icon, followed by “Parameters”. At the bottom of the page, click on “View advanced options”. In the “Confidentiality” section, click on “Content Parameters”.  
-To deactivate cookies, select “Block sites from setting any data”  
-To delete a specific cookie, click on “Cookies and site data”, and use the mouse to hover over the site that issued the cookie. Click on the “X” that appears on the right corner, or click “Delete All”.  
-[https://support.google.com/chrome/answer/95647?hl=en&hlrm=en](https://support.google.com/chrome/answer/95647?hl=en&hlrm=en)
+If you use Chrome: click on the menu icon, followed by “Parameters”. At the bottom of the page, click on “View advanced options”. In the “Confidentiality” section, click on “Content Parameters”. To deactivate cookies, select “Block sites from setting any data” To delete a specific cookie, click on “Cookies and site data”, and use the mouse to hover over the site that issued the cookie. Click on the “X” that appears on the right corner, or click “Delete All”. [https://support.google.com/chrome/answer/95647?hl=en&hlrm=en](https://support.google.com/chrome/answer/95647?hl=en&hlrm=en)
 
 ### Refusing an Advertising Cookie
 
@@ -118,12 +95,4 @@ Note that proceeding with this deactivation prevents the display of all interest
 
 ### Refusing a cookie issued by a social network
 
-If you would like to read more about cookies on our sites’ social networks, we invite you to consult the documentation on the sites of our social editors:  
-Google+: [https://support.google.com/accounts/answer/61416?hl=en](https://support.google.com/accounts/answer/61416?hl=en)  
-Twitter: [https://help.twitter.com/en/safety-and-security/twitter-do-not-track](https://help.twitter.com/en/safety-and-security/twitter-do-not-track)  
-LinkedIn: [https://www.linkedin.com/legal/cookie-policy](https://www.linkedin.com/legal/cookie-policy)  
-Yahoo: [https://legal.yahoo.com/us/en/yahoo/privacy/topics/cookies/index.html](https://legal.yahoo.com/us/en/yahoo/privacy/topics/cookies/index.html)  
-YouTube: [https://support.google.com/accounts/answer/61416?hl=en](https://support.google.com/accounts/answer/61416?hl=en)  
-Facebook: [https://www.facebook.com/](https://www.facebook.com/)  
-[https://magazinedelledonne.it/faq/11384-coma-cause-sintomi-e-trattamento](https://magazinedelledonne.it/faq/11384-coma-cause-sintomi-e-trattamento)  
-[https://pl.ccm.net/contents/520-polityka-prywatnosci](https://pl.ccm.net/contents/520-polityka-prywatnosci)
+If you would like to read more about cookies on our sites’ social networks, we invite you to consult the documentation on the sites of our social editors: Google+: [https://support.google.com/accounts/answer/61416?hl=en](https://support.google.com/accounts/answer/61416?hl=en) Twitter: [https://help.twitter.com/en/safety-and-security/twitter-do-not-track](https://help.twitter.com/en/safety-and-security/twitter-do-not-track) LinkedIn: [https://www.linkedin.com/legal/cookie-policy](https://www.linkedin.com/legal/cookie-policy) Yahoo: [https://legal.yahoo.com/us/en/yahoo/privacy/topics/cookies/index.html](https://legal.yahoo.com/us/en/yahoo/privacy/topics/cookies/index.html) YouTube: [https://support.google.com/accounts/answer/61416?hl=en](https://support.google.com/accounts/answer/61416?hl=en) Facebook: [https://www.facebook.com/](https://www.facebook.com/) [https://magazinedelledonne.it/faq/11384-coma-cause-sintomi-e-trattamento](https://magazinedelledonne.it/faq/11384-coma-cause-sintomi-e-trattamento) [https://pl.ccm.net/contents/520-polityka-prywatnosci](https://pl.ccm.net/contents/520-polityka-prywatnosci)
