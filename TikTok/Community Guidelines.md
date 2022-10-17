@@ -2,7 +2,7 @@
 
   
 
-  
+_We're updating our livestream policies. Starting on 17 November, 2022, you'll need to be at least 18 years old to host a livestream. You can find our new policies [here](https://www.tiktok.com/community-guidelines-2022-update)._
 
 Introduction
 ------------
