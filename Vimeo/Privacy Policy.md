@@ -1,7 +1,7 @@
 **Vimeo Privacy Policy**
 ========================
 
-Last Updated: September 1, 2022
+Last Updated: October 17, 2022
 
 This Privacy Policy explains the information that Vimeo collects when you use its products and services, how that information is used, with whom it may be shared, and your privacy choices.
 
@@ -57,8 +57,6 @@ If you wish to sell items or earn money from advertising through our services, y
 You may upload and create content such as videos, text, photographs, and artwork. Your account profile may display information about you and your activities. This information may be accessed by others. Your videos may be viewed and otherwise accessed by others, and associated metadata (e.g., titles, closed captions, descriptions, tags, etc.) may be viewable by others. You may choose to limit the availability of your profile and videos. For more details, see **Section 9**. 
 
 Your interactions during events such as live streams and webinars, or with other users (e.g., comments, "likes," poll responses) may be seen by others. 
-
-If you submit images or videos to us in connection with our video creation and editing tools, we may analyze such content using a variety of techniques, including machine-learning algorithms, for the sole purpose of creating a video at your direction. In doing so, we may derive facial-related information from your content solely for the purpose of creating a video for you. This information may be used, for example, to locate a face within a frame. Facial landmarks are retained for 48 hours after a video editing session. We do not collect, use, or store any facial-related information for the purpose of recognizing faces outside of the limited video-creation purposes set forth herein.
 
 ### **Capture Forms**
 
@@ -126,7 +124,7 @@ We use reasonable efforts to vet vendors for their privacy and data security pra
 
 ### **Organization-Administered Accounts**
 
-You may create a Vimeo account using an email address provided or assigned to you by an organization (such as your work email address). If the organization establishes a direct relationship with us, they may, with prior notice, convert your personal account to become part of the organization's account. 
+You may create a Vimeo account using an email address provided or assigned to you by an organization (such as your work email address). If the organization establishes a direct relationship with us, they may convert your personal account to become part of the organization's account. 
 
 This means the organization may:
 
@@ -196,7 +194,6 @@ We enable you to manage the privacy settings of your videos. On Vimeo.com, for e
 * **Private:** Your video will be available to you and authorized Team Members.
 * **Unlisted:** Your video will be available to anyone who has the unique URL.
 * **Password:** Your video may be accessed by anyone who enters the password you have set.
-* **Hide from Vimeo:** Your video will be private, but embeddable anywhere. 
 
 You may change a video's privacy settings at any time. Changes will be applied on a go-forward basis. 
 
@@ -230,9 +227,9 @@ You may receive other people's data in using our service. If you receive informa
 13\. Third-Party Services
 -------------------------
 
-We may provide links to online services that we do not own or operate. These services fall outside of this Privacy Policy and we have no control over the data they collect. For example, if you click on an advertisement, you may be taken to the advertiser's website. Once on a third-party site, your data may be collected by others. We encourage you to read the privacy policies of such services before using them.
+We may provide access to online services that we do not own or operate via hyperlinks or integrations. These services fall outside of this Privacy Policy and we have no control over the data they collect. Once on a third-party site, your data may be collected by others. We encourage you to read our [Third Party Services Addendum](https://vimeo.com/terms/thirdpartyservices) and the privacy policies of such services before using them.
 
-You may use our service through third-party sites and to send you offers. For example, you may watch a video that is embedded on a third-party site or use one of our apps on a third-party platform. This Privacy Policy covers our apps and video players, but does not cover any third-party site or any third-party video player.
+You may use our service through third-party sites. For example, you may watch a video that is embedded on a third-party site or use one of our apps on a third-party platform. This Privacy Policy covers our apps and video players, but does not cover any third-party site or any third-party video player.
 
 14\. International Data Transfers and Certain User Rights
 ---------------------------------------------------------
@@ -286,3 +283,11 @@ _330 West 34th Street, 5th Floor_
 _New York, New York 10001_
 
 [_Privacy@vimeo.com_](mailto:privacy@vimeo.com)
+
+  
+
+Alternatively, if you are in the UK or EU/EEA and would like to exercise your rights or have questions about our processing of personal data, you may contact our local representative for EU/EEA or the UK.
+
+For the EU/EEA: RA Robert Niedermeier, DATA BUSINESS SERVICES GmbH & CO KG-Germany, Noerdliche Muenchner Str 47, 82031 Gruenwald/Munich, Germany; or by email at niedermeier@db5.io.
+
+For the UK: RA Robert Niedermeier, DATA BUSINESS SERVICES GmbH & CO KG-UK, Golden Cross House, 8 Duncannon Street, Greater London WC2N4JF, London, England; or by email at niedermeier@db5.io.
