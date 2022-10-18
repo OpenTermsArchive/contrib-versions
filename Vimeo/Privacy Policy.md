@@ -227,7 +227,7 @@ You may receive other people's data in using our service. If you receive informa
 13\. Third-Party Services
 -------------------------
 
-We may provide access to online services that we do not own or operate via hyperlinks or integrations. These services fall outside of this Privacy Policy and we have no control over the data they collect. Once on a third-party site, your data may be collected by others. We encourage you to read our [Third Party Services Addendum](https://vimeo.com/terms/thirdpartyservices) and the privacy policies of such services before using them.
+We may provide access to online services that we do not own or operate via hyperlinks or integrations. These services fall outside of this Privacy Policy and we have no control over the data they collect. Once on a third-party site, your data may be collected by others. We encourage you to read our [Third-Part](https://vimeo.com/terms/thirdpartyservices)[y Service Addendum](https://vimeo.com/terms/thirdpartyservices) and the privacy policies of such services before using them.
 
 You may use our service through third-party sites. For example, you may watch a video that is embedded on a third-party site or use one of our apps on a third-party platform. This Privacy Policy covers our apps and video players, but does not cover any third-party site or any third-party video player.
 
@@ -274,20 +274,14 @@ Nevada residents have the right to opt out of the sale of certain "covered infor
 
 For any questions, inquiries, or complaints relating to your privacy, please contact us at:
 
-**_Vimeo.com, Inc._**
-
-_Attention: Data Protection Officer_
-
-_330 West 34th Street, 5th Floor_
-
-_New York, New York 10001_
-
+**_Vimeo.com, Inc._**  
+_Attention: Data Protection Officer_  
+_330 West 34th Street, 5th Floor_  
+_New York, New York 10001_  
 [_Privacy@vimeo.com_](mailto:privacy@vimeo.com)
-
-  
 
 Alternatively, if you are in the UK or EU/EEA and would like to exercise your rights or have questions about our processing of personal data, you may contact our local representative for EU/EEA or the UK.
 
-For the EU/EEA: RA Robert Niedermeier, DATA BUSINESS SERVICES GmbH & CO KG-Germany, Noerdliche Muenchner Str 47, 82031 Gruenwald/Munich, Germany; or by email at niedermeier@db5.io.
+For the EU/EEA: _RA Robert Niedermeier, DATA BUSINESS SERVICES GmbH & CO KG-Germany, Noerdliche Muenchner Str 47, 82031 Gruenwald/Munich, Germany_; or by email at _[niedermeier@db5.io](mailto:niedermeier@db5.io)_.
 
-For the UK: RA Robert Niedermeier, DATA BUSINESS SERVICES GmbH & CO KG-UK, Golden Cross House, 8 Duncannon Street, Greater London WC2N4JF, London, England; or by email at niedermeier@db5.io.
+For the UK: _RA Robert Niedermeier, DATA BUSINESS SERVICES GmbH & CO KG-UK, Golden Cross House, 8 Duncannon Street, Greater London WC2N4JF, London, England_; or by email at _[niedermeier@db5.io](mailto:niedermeier@db5.io)_.
