@@ -240,8 +240,8 @@ Our full details are:
 
 Zoosk Customer Care – Spark Networks Services  
 Attn: Data Protection Officer  
-3400 N. Ashton Blvd, Suite 175  
-Lehi, UT 84043  
+10808 S River Front Parkway Suite 398  
+South Jordan, UT 84095  
 United States  
 Email: dataprotectionofficer@zoosk.com  
 Phone: 020-3051-6952
