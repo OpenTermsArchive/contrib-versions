@@ -37,10 +37,7 @@ For all our [connected home devices and services](https://support.google.com/goo
 
 ### Independent security validation
 
-[Google Nest connected home devices](https://support.google.com/product-documentation/answer/10231940) released in 2019 or later are validated using third-party, industry-recognised security standards, and we publish the validation [results](https://support.google.com/product-documentation/answer/10231940).  
-  
-**Why it matters**  
-We put a lot of effort into making our devices secure. Before being released, we also validate our products against security standards created by organisations; for example, the [ioXt Alliance](https://www.ioxtalliance.org/). And we publish the validation [results](https://support.google.com/product-documentation/answer/10231940) so that you can see how we did.
+[Google Nest connected home devices](https://support.google.com/product-documentation/answer/10231940) released in 2019 or later are validated using third-party, industry-recognised security standards, and we publish the validation [results](https://support.google.com/product-documentation/answer/10231940).
 
 ### COMMITMENT
 
