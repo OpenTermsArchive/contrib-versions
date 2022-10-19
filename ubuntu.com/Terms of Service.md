@@ -64,9 +64,10 @@ Yes, it gives most of us a headache to read all of this, but it's important so t
 
 ### Registered office
 
-The Office Group, St Dunstans House,  
-4th floor, 201 Borough High St,  
-London SE1 1JA
+2nd Floor, Clarendon House,  
+Victoria Street,  
+Douglas IM1 2LN,  
+Isle of Man
 
 ### Contact us
 
