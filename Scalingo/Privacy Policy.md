@@ -1,6 +1,33 @@
 Privacy Policy
 ==============
 
+1\. Who collects and processes the data?
+========================================
+
+2\. What kind of information is collected?
+==========================================
+
+3\. Why do we collect your personal data?
+=========================================
+
+4\. How do we store and use the data collected?
+===============================================
+
+5\. Why do we use personal data?
+================================
+
+6\. With whom may your personal data may be shared?
+===================================================
+
+7\. How can you update your personal information?
+=================================================
+
+8\. How do we communicate with users?
+=====================================
+
+9\. How is Privacy Policy changed?
+==================================
+
 This Privacy Policy covers the data collection and processing practices of Scalingo SAS (“Scalingo”) and takes effect as of 3rd February 2015.
 
 We take good care of all personal data that we collect during the provision of our services. Below you will find answers to frequently asked questions about the security of your personal data.
@@ -32,12 +59,12 @@ All of the personal data collected is processed solely to perform the services r
 
 For the above-mentioned purposes, the data may, in particular, be used:
 
-*   to help diagnose problems with our servers and to administer the website;
-*   to keep track of your activities on the website in order to determine your preferences, so that the service can be adapted to your requirements and needs;
-*   to operate and improve the website;
-*   to contact you about your interest in the services offered;
-*   to protect our rights and property, and the rights of the website’s users;
-*   to ensure an efficient technical service;
+* to help diagnose problems with our servers and to administer the website;
+* to keep track of your activities on the website in order to determine your preferences, so that the service can be adapted to your requirements and needs;
+* to operate and improve the website;
+* to contact you about your interest in the services offered;
+* to protect our rights and property, and the rights of the website’s users;
+* to ensure an efficient technical service;
 
 4\. How do we store and use the data collected?
 ===============================================
@@ -60,9 +87,9 @@ Scalingo’s team does not access or interact with customer data or applications
 
 The personal data collected may be shared with other entities or individuals only in circumstances permitted by law and only in the following circumstances:
 
-1.  financial data shall be made available to payment services solely in order to implement the Internet payment in connection with your use of the services.
-2.  data shall be transmitted at the request of the Courts, the public prosecution department, the police or any other legal authority in the event of an infringement of the law by the user.
-3.  we use third party analytical services to analyse your use of our services. In particular, we transmit a limited amount of your data (such as your email address and sign-up date) to Intercom, Inc. (“Intercom”) and we use Intercom to collect data for analytical purposes when you visit our website or use our product. Intercom analyses your use of our website and/or product and our relationship with you, so that we can improve the services we offer you. We may also use Intercom as a medium for communication, either by email, or via messages within our product(s). As part of their service to us, Intercom also collects publicly available contact and social information related to you, such as your email address, gender, company, job title, photos, website URLs, social media handles and physical addresses, so that we can continue to improve our relationship with you. For more information on the privacy practices of Intercom, please consult \[http://docs.intercom.io/privacy\]. Intercom’s services are governed by Intercom’s terms of use which can be found at \[http://docs.intercom.io/terms\]. If you would like to opt out of having this information collected by or submitted to Intercom, please contact us.
+1. financial data shall be made available to payment services solely in order to implement the Internet payment in connection with your use of the services.
+2. data shall be transmitted at the request of the Courts, the public prosecution department, the police or any other legal authority in the event of an infringement of the law by the user.
+3. we use third party analytical services to analyse your use of our services. In particular, we transmit a limited amount of your data (such as your email address and sign-up date) to Intercom, Inc. (“Intercom”) and we use Intercom to collect data for analytical purposes when you visit our website or use our product. Intercom analyses your use of our website and/or product and our relationship with you, so that we can improve the services we offer you. We may also use Intercom as a medium for communication, either by email, or via messages within our product(s). As part of their service to us, Intercom also collects publicly available contact and social information related to you, such as your email address, gender, company, job title, photos, website URLs, social media handles and physical addresses, so that we can continue to improve our relationship with you. For more information on the privacy practices of Intercom, please consult \[[http://docs.intercom.io/privacy](http://docs.intercom.io/privacy)\]. Intercom’s services are governed by Intercom’s terms of use which can be found at \[[http://docs.intercom.io/terms](http://docs.intercom.io/terms)\]. If you would like to opt out of having this information collected by or submitted to Intercom, please contact us.
 
 Scalingo reserves the right to disclose general censuses. Such statements relate mainly to general views of the services provided and do not include data allowing individual users to be identified.
 
@@ -81,8 +108,8 @@ For security reasons, users cannot opt out of receiving transactional e-mails re
 9\. How is Privacy Policy changed?
 ==================================
 
-We reserve the right to change this Privacy Policy in order to reflect changes in our services and respond to any feedback provided by our customers. However, we will never deliberately change the Privacy Policy in any way that would decrease the protection of your data. Any changes to the Privacy Policy will be published on the page \[http://scalingo.com/policy/privacy\].
+We reserve the right to change this Privacy Policy in order to reflect changes in our services and respond to any feedback provided by our customers. However, we will never deliberately change the Privacy Policy in any way that would decrease the protection of your data. Any changes to the Privacy Policy will be published on the page \[[http://scalingo.com/policy/privacy](http://scalingo.com/policy/privacy)\].
 
 You will be informed about important material changes in a more visible manner (notification of changes to the Privacy Policy by e-mail). Each version of this Privacy Policy will be indicated at the top of the page together with the date it comes into force.
 
-If you have any questions regarding this Privacy Statement or how your data is handled, you may contact us at support@scalingo.com.
+If you have any questions regarding this Privacy Statement or how your data is handled, you may contact us at [support@scalingo.com](mailto:support@scalingo.com).
