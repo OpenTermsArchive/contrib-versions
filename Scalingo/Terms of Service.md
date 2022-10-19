@@ -4,7 +4,49 @@ Terms of Service
 1\. Scope and Subject Matter of Agreement
 =========================================
 
-1.1 The cloud computing platform www.scalingo.com (hereinafter referred to as the “Platform”) is operated by Scalingo SAS, located at 15 avenue du Rhin,. F-67100 Strasbourg, France (hereinafter referred to as “Scalingo” or “We”)
+2\. Scalingo's Obligations
+==========================
+
+3\. Your Obligations; Use of the Platform, Services and Scalingo Add-Ons
+========================================================================
+
+4\. Service and Support
+=======================
+
+5\. Scalingo’s License Grant; License Restrictions
+==================================================
+
+6\. License Grant from You
+==========================
+
+7\. Term and Termination; Inactive Apps
+=======================================
+
+8\. Add-ons
+===========
+
+9\. Free Basic Use; Fees
+========================
+
+10\. Limited Warranty ("Garantie")
+==================================
+
+11\. Copyright Policy and Privacy
+=================================
+
+12\. Limitation of Liability
+============================
+
+13\. Indemnity
+==============
+
+14\. Miscellaneous
+==================
+
+1\. Scope and Subject Matter of Agreement
+=========================================
+
+1.1 The cloud computing platform [www.scalingo.com](http://www.scalingo.com/) (hereinafter referred to as the “Platform”) is operated by Scalingo SAS, located at 3 place de Haguenau,. F-67000 Strasbourg, France (hereinafter referred to as “Scalingo” or “We”)
 
 1.2 Scalingo offers the Platform to entrepreneurs only. Entrepreneurs have legal capacity and act in their commercial or independent professional capacity when entering into a legal transaction.
 
@@ -20,9 +62,9 @@ Terms of Service
 
 1.5 Your use of the Platform, the Services and any Scalingo Add-Ons is exclusively subject to these Terms of Service. Your use of any Third Party Add-Ons is subject to separate agreements concluded between you and the relevant third party vendors. Regarding Third Party Add-Ons, we merely act as a commercial agent bringing you together with such third party vendors over our Platform. Your general terms and conditions will become part of this Agreement only if expressly agreed in writing between you and Scalingo.
 
-1.6 Scalingo reserves the right to modify these Terms of Service at any time, with the exception of the provisions determining the parties’ primary contractual obligations hereunder. The parties’ primary contractual obligations will not be changed in the manner described in this Section 1.6. Scalingo will inform you of any proposed modification of these Terms of Service, provide you with the proposed new version of these Terms of Service and notify you of the date when these new Terms of Service will be implemented. Any change is subject to a prior written notice of four (4) weeks. If you do not expressly refuse the respective modification within six (6) weeks from the date on which the new Terms of Service are implemented, you are deemed to have approved the modification of these Terms of Service. In the aforementioned notice of the proposed modification, Scalingo will inform you expressly and specifically about the right to object within the six (6) weeks period and the consequences of not expressly refusing the proposed modification.
+1.6 Scalingo reserves the right to modify these Terms of Service at any time, with the exception of the provisions determining the parties' primary contractual obligations hereunder. The parties' primary contractual obligations will not be changed in the manner described in this Section 1.6. Scalingo will inform you of any proposed modification of these Terms of Service, provide you with the proposed new version of these Terms of Service and notify you of the date when these new Terms of Service will be implemented. Any change is subject to a prior written notice of four (4) weeks. If you do not expressly refuse the respective modification within six (6) weeks from the date on which the new Terms of Service are implemented, you are deemed to have approved the modification of these Terms of Service. In the aforementioned notice of the proposed modification, Scalingo will inform you expressly and specifically about the right to object within the six (6) weeks period and the consequences of not expressly refusing the proposed modification.
 
-2\. Scalingo’s Obligations
+2\. Scalingo's Obligations
 ==========================
 
 2.1.1 Scalingo shall operate the Platform with an annual average availability of 98% on a best effort basis except for downtime by maintenance, software updates and when the web server cannot be accessed via the internet due to difficulties that are outside the scope of influence of Scalingo such as force majeure, third party fault, or similar circumstances.
@@ -84,15 +126,15 @@ Terms of Service
 4\. Service and Support
 =======================
 
-4.1 Service and Support beyond the services agreed in this Terms of Service can be ordered by activating one of the available service and support packages as specified on our website in your account. Service and Support packages are subject to additional fees. You can find out more about the extent of the offered performance and the fees at https://www.scalingo.com/pricing.
+4.1 Service and Support beyond the services agreed in this Terms of Service can be ordered by activating one of the available service and support packages as specified on our website in your account. Service and Support packages are subject to additional fees. You can find out more about the extent of the offered performance and the fees at [https://www.scalingo.com/pricing](https://www.scalingo.com/pricing).
 
-4.2 For Service and Support packages the following definitions shall apply: Response time: The interval between a customer-initiated request and the sent receipt of a response from Scalingo. Emergency hotline 24/7: Valid for one named contact person dedicated counterpart to be used for emergency situations where critical functions of the application are unavailable, there is no work around and the business is significantly impacted. Professional services Professional Services covers assistance related to issues generated directly from the customer’s code base and out of Scalingo’s control. Professional services include five categories of advice specified below:
+4.2 For Service and Support packages the following definitions shall apply: Response time: The interval between a customer-initiated request and the sent receipt of a response from Scalingo. Emergency hotline 24/7: Valid for one named contact person dedicated counterpart to be used for emergency situations where critical functions of the application are unavailable, there is no work around and the business is significantly impacted. Professional services Professional Services covers assistance related to issues generated directly from the customer's code base and out of Scalingo's control. Professional services include five categories of advice specified below:
 
-*   a) Deployment advice: The deployment advice aims to help new customers to easily migrate and/or launch new applications on Scalingo as well as questions related to internal development workflow.
-*   b) Performance optimization: Scalingo support engineering team assists customers with questions regarding best practices or recommendations about performance optimization in the customer code base for specific features related to the Scalingo platform.
-*   c) Database assistance: Scalingo support engineering team assists customers with questions regarding best practices or recommendations for customer database Add-On and schema. If the database in question is provided by a third party Add-On provider the Scalingo support engineering team will directly handle the issue with the specific provider.
-*   d) Proactive monitoring: By providing Scalingo with a URL to the customer application it will be added to Scalingo’s monitoring system. The emergency response team will be alerted in case of unavailability of the customer application independent of its root cause and try to resolve the issue or contact the named contact person.
-*   e) Problem diagnostic: In case of issues in the customer code base the Scalingo support engineering team will assist the customer in analyzing and identifying root causes.
+* a) Deployment advice: The deployment advice aims to help new customers to easily migrate and/or launch new applications on Scalingo as well as questions related to internal development workflow.
+* b) Performance optimization: Scalingo support engineering team assists customers with questions regarding best practices or recommendations about performance optimization in the customer code base for specific features related to the Scalingo platform.
+* c) Database assistance: Scalingo support engineering team assists customers with questions regarding best practices or recommendations for customer database Add-On and schema. If the database in question is provided by a third party Add-On provider the Scalingo support engineering team will directly handle the issue with the specific provider.
+* d) Proactive monitoring: By providing Scalingo with a URL to the customer application it will be added to Scalingo's monitoring system. The emergency response team will be alerted in case of unavailability of the customer application independent of its root cause and try to resolve the issue or contact the named contact person.
+* e) Problem diagnostic: In case of issues in the customer code base the Scalingo support engineering team will assist the customer in analyzing and identifying root causes.
 
 4.3 For the 24/7 emergency hotline available in the Agency and Enterprise plans a contact person on the part of the contracting partner has to be specified. He or she will be the only person who has access to the 24/7 hotline.
 
@@ -110,7 +152,7 @@ Terms of Service
 
 4.6.4 You have the option to downgrade the service and support package at any time. After this change of contract the higher proportionate costs will arise per day until the end of the month. After that the new support package will be in place.
 
-4.6.5 The valid prices of the respective service and support packages are listed on the Scalingo website (available at: https://www.scalingo.com/pricing).
+4.6.5 The valid prices of the respective service and support packages are listed on the Scalingo website (available at: [https://www.scalingo.com/pricing](https://www.scalingo.com/pricing)).
 
 4.7 The parties agree that service and support packages have a minimum term until the end of the month. If the parties do not cancel the service and support package to the end of the month, the service and support package agreement will be extended automatically by another month.
 
@@ -123,11 +165,11 @@ Terms of Service
 
 5.3 You may not attempt to disable or circumvent any security mechanisms used by the Services, Platform and/or any Scalingo Add-On, or copy, modify, create a derivative work of, reverse engineer, decompile or otherwise attempt to extract the source code of the Services, Platform or any Scalingo Add-On or any part thereof, unless (i) specifically authorized by Scalingo, in writing (e.g., through an open source software license), (ii) permitted under provisions of the French Intellectual Property Law (“Code de la Propriété Intellectuelle”), or (iii) to the extent such acts are necessary to achieve interoperability with a third software, but only if
 
-*   (a) Scalingo had not published details about the interfaces of the Service/Platform/Add-On before and has not provided such details upon your written request,
-*   (b) only those parts of the Service/Platform/Add-On are disassembled that are necessary to achieve interoperability
-*   (c) the gained information is only used to achieve interoperability,
-*   (d) the gained information is not made available in any way to any third party; and
-*   (e) the gained information is not used to develop or market a software which is similar to the Service/Platform/Add-On or for any other actions that infringe Scalingo’s rights.
+* (a) Scalingo had not published details about the interfaces of the Service/Platform/Add-On before and has not provided such details upon your written request,
+* (b) only those parts of the Service/Platform/Add-On are disassembled that are necessary to achieve interoperability
+* (c) the gained information is only used to achieve interoperability,
+* (d) the gained information is not made available in any way to any third party; and
+* (e) the gained information is not used to develop or market a software which is similar to the Service/Platform/Add-On or for any other actions that infringe Scalingo’s rights.
 
 6\. License Grant from You
 ==========================
@@ -181,7 +223,7 @@ Terms of Service
 
 9.6 Prices stated exclude the VAT rate. The payable fees are billed monthly at the end of each month and will include VAT if applicable. For European residents please refer to the VATMOSS directive. For non-European residents, VAT isn’t applicable. All invoices are payable immediately, and must be paid without deduction.
 
-10\. Limited Warranty (“Garantie”)
+10\. Limited Warranty ("Garantie")
 ==================================
 
 10.1 Subject to this Section 10, Scalingo warrants that the Platform, Services and Scalingo Add-Ons will perform essentially as agreed and Scalingo will remedy defects. The term “Defect” means any error and/or fault that revokes (“Substantial Defect”) or reduces the suitability for the specified purpose of use (“Minor Defect”).
@@ -228,7 +270,7 @@ You will indemnify and hold Scalingo harmless for any and all expenses and damag
 
 14.1 Place of performance is Scalingo’s registered office in Strasbourg, France.
 
-14.2 The Agreement is subject to French law, excluding of the UN Convention on Contracts for the International Sale of Goods. The Parties submit to the jurisdiction of the courts at Scalingo’s registered head office for all disputes arising out of or in connection with this Agreement. Scalingo is also entitled to bring claims at the user’s place of performance.
+14.2 The Agreement is subject to French law, excluding of the UN Convention on Contracts for the International Sale of Goods. The Parties submit to the jurisdiction of the courts at Scalingo’s registered head office for all disputes arising out of or in connection with this Agreement. Scalingo is also entitled to bring claims at the user's place of performance.
 
 14.3 Should one or more individual parts of this Agreement be or become void, invalid or unenforceable entirely or partly, the validity of the remaining Agreement shall remain unaffected. The provisions thus rendered void, or invalid or unenforceable shall be replaced by valid and enforceable provisions in a manner which ensures that the legal and economic purposes intended with the invalid provisions are achieved to the greatest extent possible. The same shall apply to any gaps in the contract.
 
