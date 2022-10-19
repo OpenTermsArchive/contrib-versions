@@ -1,4 +1,4 @@
-Amazon Ads Guidelines and Acceptance Policies
+Amazon Ads guidelines and acceptance policies
 =============================================
 
 TABLE OF CONTENTS
@@ -24,7 +24,9 @@ TABLE OF CONTENTS
 Overview
 --------
 
-At Amazon Ads, we believe maintaining a high customer experience bar for the ads we serve helps us drive better results for you, our advertisers. Accordingly, we have set customer-centric Ad Policies to help preserve and enhance that experience. All advertising content must be appropriate for a general audience and for the type of placement in which it will be displayed, and, as an advertiser using Amazon Ads, it is your responsibility to make sure that both you and your ads comply with all applicable laws, rules, regulations and industry standards in each geographical area where the advertisements may appear. You must be honest about the products or services that you promote and must avoid content that may mislead or offend our customers. Amazon customers represent a wide array of genders, races, ethnicities, abilities, ages, religions, sexual orientations and backgrounds.  
+At Amazon Ads, we believe maintaining a high customer experience bar for the ads we serve helps us drive better results for you, our advertisers. Accordingly, we have set customer-centric Ad Policies to help preserve and enhance that experience. All advertising content must be appropriate for a general audience and for the type of placement in which it will be displayed, and, as an advertiser using Amazon Ads, it is your responsibility to make sure that both you and your ads comply with all applicable laws, rules, regulations and industry standards in each geographical area where the advertisements may appear, for example adhering to the requirements of the CAP Code if your advertisements are targeting UK consumers.  
+  
+You must be honest about the products or services that you promote and must avoid content that may mislead or offend our customers. Amazon customers represent a wide array of genders, races, ethnicities, abilities, ages, religions, sexual orientations and backgrounds.  
   
 We encourage you to use diverse imagery within your ads. Our policies are not intended as legal advice. We encourage you to consult with your legal advisor if you have questions about the laws and regulations concerning your ads.  
   
