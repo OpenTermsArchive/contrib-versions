@@ -298,7 +298,7 @@ Section 2 (Payment Terms) is replaced as follows:
 
 2.1 _Payment_. 
 
-(a) Google will invoice Customer for the Fees. Customer will pay Google all invoiced amounts by the Payment Due Date. All payments are due in the currency described in the invoice. Wire transfer payments must include the bank information described in the invoice.
+(a) Google will invoice Customer for the Fees. Customer will pay Google all invoiced amounts by the payment due date. All payments are due in the currency described in the invoice. Wire transfer payments must include the bank information described in the invoice.
 
 2.2 _Taxes_. 
 
@@ -310,7 +310,7 @@ Section 2 (Payment Terms) is replaced as follows:
 
 2.3 _Invoice Disputes_. 
 
-(a) Customer must submit any invoice disputes to collections@google.com before the Payment Due Date. If the parties determine that Fees were incorrectly invoiced, then Google will issue a credit equal to the agreed amount.
+(a) Customer must submit any invoice disputes to collections@google.com before the payment due date. If the parties determine that Fees were incorrectly invoiced, then Google will issue a credit equal to the agreed amount.
 
 Section 14.12 (U.S. Governing Law) is replaced as follows:
 
