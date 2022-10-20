@@ -226,7 +226,9 @@ The collection and transmission of your personal data as part of live video stre
 
 **Purposes of Processing.** Your personal data will be processed under joint control as necessary for purposes of providing the following functionalities related to Live: enable participation in the chat related to Live to communicate with other users; enable participation in live streams via Live; moderation of the use of live streams; supporting (e.g., training) users with respect to becoming live streamers via Live; and management of virtual gifts in the context of live streams. This processing only takes place if you are using Live.
 
-**Duration of Processing.** Your live video stream will not be retained after the stream ends, subject to limited exceptions, for example, if some information is required to be retained for compliance with a legal obligation or as part of live streaming moderation activities.
+**Recipients.** Your live video stream can be seen by anyone who chooses to access Live. This includes users of Badoo and users of other applications who have access to Live.
+
+**Duration of Processing.** Your live video stream will not be retained after the stream ends, unless some information needs to be retained to comply with legal obligations or as part of live streaming moderation activities.
 
 You can contact [DPO@corp.badoo.com](mailto:DPO@corp.badoo.com) if you have questions about our joint controller arrangement with TMG. Please note that for other data processing activities, Badoo and TMG are separate controllers. For example, Badoo acts as a separate controller in relation to personal data collected from you for purposes of providing and operating the Badoo App.
 
@@ -354,4 +356,4 @@ Thanks for reading, we hope we didn’t drone on for too long!
 
 As Badoo evolves, we may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at https://badoo.com/privacy/. If we make a change to this policy that, in our sole discretion, is material, we will notify you, for example, via an email to the email associated with your Account or by posting a notice within Badoo.
 
-**Effective date.** This Privacy Policy was last updated on 17 October 2022.
+**Effective date.** This Privacy Policy was last updated on 20 October 2022.
