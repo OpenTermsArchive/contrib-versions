@@ -43,19 +43,91 @@ Google’s ad products may receive or infer information about your location from
 
 To serve ads in services where cookie technology may not be available (for example, in mobile applications), we may use technologies that perform similar functions to cookies. Sometimes Google links the identifier used for advertising on mobile applications to an advertising cookie on the same device in order to coordinate ads across your mobile apps and mobile browser. This can happen, for example, when you see an ad within an app that launches a web page in your mobile browser. This also helps us improve the reports we give to our advertisers on the effectiveness of their campaigns.
 
-To opt out of personalized ads in apps on your mobile device, follow the instructions below.
+Ads you see on your device may be personalized based on its Advertising ID. On Android devices, you can:
+
+* **Reset your device’s advertising ID**, which replaces the current ID with a new one. Apps can still show you personalized ads, but for a while they may not be as relevant or interesting to you.
+* **Delete your device’s advertising ID**, which deletes the advertising ID and doesn't assign a new one. Apps can still show you ads, but they may not be as relevant or interesting to you. You won't see ads based on this advertising ID, but you may still see ads based on other factors, like the information you’ve shared with apps.
+
+To make changes to the advertising ID on your Android device, follow the instructions below.
 
 #### Android
 
-1. Find Google Settings in one of these places (depending on your device):
-    1. A separate app called **Google Settings**
-    2. In your main **Settings** app, scroll down and tap **Google**
-2. Tap **Ads**
-3. Switch on **Opt out of interest-based ads**
+##### Reset your device’s advertising ID
+
+To reset your device’s advertising ID:
+
+1. On your Android device, go to **Settings**.
+2. Tap **Privacy** > **Ads**.
+3. Tap **Reset advertising ID** and confirm your changes.
+
+##### Delete your device’s advertising ID
+
+To delete your device’s advertising ID:
+
+1. On your Android device, go to **Settings**.
+2. Tap **Privacy** > **Ads**.
+3. Tap **Delete advertising ID** and confirm your changes.
+
+Your advertising ID will be reset or deleted, but apps may have their own settings using other types of identifiers, which can also affect the types of ads you see.
+
+##### On some older versions of Android
+
+If your Android device’s version is 4.4 or older:
+
+1. Open **Settings**
+2. Tap **Privacy** > **Advanced** > **Ads**
+3. Turn on **Opt out of Ads Personalization** and confirm your changes.
 
 #### iOS
 
 Devices with iOS use Apple’s Advertising Identifier. To learn more about your choices for use of this identifier, visit the **Settings** app on your device.
+
+#### Connected TV/Over-the-Top
+
+##### Advertising identifiers for connected TV
+
+Connected TVs are another area where cookie technology is not available, and, instead, Google will rely on device identifiers designed for use in advertising to serve ads. Many connected TV devices support an identifier for advertising that is similar in function to mobile device identifiers. These identifiers are built to give users the option to reset them or to opt out of personalized advertising entirely.
+
+The following “Ads” settings are available on TVs with the following consistent language:
+
+* Reset advertising ID
+* Delete advertising ID
+* Opt out of Ads Personalization (on or off)
+* Ads by Google (links to About Google ad personalization)
+* Your advertising ID (long string)
+
+These Ads settings are available in the following paths on Google TV and Android TV respectively.
+
+**Google TV**
+
+_Consistent path to Ads:_
+
+1. Settings
+2. Privacy
+3. Ads
+
+**Android TV**
+
+Ads settings show up in one of two general paths for Android TV depending on the TV manufacturer/model. In Android TV, partners have the freedom to adapt the Settings path. It’s up to the partner which path they use to best fit their custom TV experience but below are the common paths to Ad settings.
+
+_Path A:_
+
+1. Settings
+2. About
+3. Legal Information
+4. Ads
+
+_Path B:_
+
+1. Settings
+2. Devices Preferences
+3. About
+4. Legal Information
+5. Ads
+
+##### Non-Google Devices
+
+Many connected TV devices support identifiers for advertising and offer ways for users to opt out of personalized advertising. A full list of those devices, and ways users can opt out, is kept updated on the Network Advertising Initiative’s website here: [https://thenai.org/opt-out/connected-tv-choices/](https://thenai.org/opt-out/connected-tv-choices/).
 
 #### What determines the ads by Google that I see?
 
