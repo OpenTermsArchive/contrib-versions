@@ -247,14 +247,23 @@ PART III - PROCESSING OF PERSONAL DATA FOR WHICH SCALINGO IS THE CONTROLLER
 
 SCALINGO processes the following Personal Data, as data controller:
 
+  
+  
+
+  
+  
+
 | Person concerned | Purpose of the processing | Legal base | Categories of data processed | Shelf life |
 | --- | --- | --- | --- | --- |
-| Client contact, subscriber of the Services; DPO contact; Contact point able to designate a health professional; | Client Relationship Management | Execution of the Agreement | Last name, first name; Position; Business phone number and email address ; Company mailing address | Duration of the Agreement + archiving: 5 years (legal prescription in contractual matters) |
+| Client contact, subscriber of the Services; DPO contact; Contact point able to designate a health professional; | Client Relationship Management | Execution of the Agreement | Last name, first name; Position; Business phone number and email address; Company mailing address | Duration of the Agreement + archiving: 5 years (legal prescription in contractual matters) |
 | Client contact, subscriber of the Services | Billing | Performance of the Agreement and legal obligation of SCALINGO | Last name, first name | 10 years from the date of the invoice |
 | Client contact, subscriber of the Services | Prospecting (communication of SCALINGO offers) | SCALINGO's legitimate interest | Last name, first name; Business phone number and email address ; Company mailing address | Duration of the Agreement |
 | User | Account Creation | Execution of the Agreement | Last name, first name ; Company mailing address | Duration of the Agreement + archiving: 5 years (legal prescription in contractual matters) |
 | User | User support system | Execution of the Agreement | Last name, first name; Position; Professional email; connection logs; all data that the User could communicate in the framework of the support. | Duration of the Agreement + archiving: 5 years (legal prescription in contractual matters) |
 | User | Fraud prevention and detection, malware and security incident management | SCALINGO's legitimate interest | Last name, first name; Position; Work email; Connection logs (activity logs); IP address; | Duration of the Agreement + archiving: 5 years; In case of discovery of an infringement during this period, duration of the criminal statute of limitations applicable to the infringement. |
+
+  
+  
 
 The Client is informed that the Personal Data collected are further processed by SCALINGO, in order to improve the functionality and performance of the Platform and the Services and to carry out statistics. In accordance with the Data Protection Regulation, SCALINGO guarantees that the statistical results will not contain any personal data but only anonymous aggregated data. SCALINGO shall be free to use these statistical results for institutional publications concerning its products, services, and activities and for marketing purposes.
 
