@@ -1,6 +1,6 @@
 Binance Terms of Use
 
-Last revised: 26 September 2022
+Last revised: 20 October 2022
 
 These Binance Terms of Use is entered into between you (hereinafter referred to as “you” or “your”) and Binance operators (as defined below). By accessing, downloading, using or clicking on “I agree” to accept any Binance Services (as defined below) provided by Binance (as defined below), you agree that you have read, understood and accepted all of the terms and conditions stipulated in these Terms of Use (hereinafter referred to as “these Terms”) as well as our Privacy Policy at [www.binance.com/en/privacy](https://www.binance.com/en/privacy). In addition, when using some features of the Services, you may be subject to specific additional terms and conditions applicable to those features.
 
@@ -218,45 +218,9 @@ c. Before performing Options Trading, you have read and understood, and agree to
 
 d. You agree and authorize Binance to take various reasonable measures in its discretion (including but not limited to forced liquidation and forced position reduction under specific circumstances) in accordance with the Binance Options Service Agreement and all relevant Binance Platform Rules to protect the legitimate interests of you, Binance and other Users.
 
-### 6\. Margins Trading
+### 6\. Margin Trading
 
-Unless otherwise specified by Binance, prior to conducting Margins Trading, you must open a special Collateral Account and/or complete other related procedures, following the completion of registration and identity verification for your Binance Account.
-
-**a. Risks of Margins Trading**
-
-Margins Trading is highly risky. As a leveraged trader, you acknowledge and agree that you access and use Margins Trading and borrowing services at your own risk, which include but are not limited to:
-
-1. The liquidity, market depth and dynamics of the trading market fluctuate violently and change rapidly. The use of leverage may work to your advantage or disadvantage, which may result in major gains or losses as the case may be.
-    
-2. You are not eligible to receive forked currencies split from any blockchain assets in your Collateral Account, even if you have not engaged in any Margins Trading or borrowing at all.
-    
-3. Loans carry risk, and the value of your blockchain assets may decline. If the value of your assets drops to a certain level, you are responsible for dealing with these market circumstances.
-    
-4. In some market situations, you may find it difficult or impossible to liquidate a position. This may occur, for example, as a result of insufficient market liquidity or technical issues on Binance.
-    
-5. Placing contingent Orders does not necessarily limit your losses to the expected amount, as market conditions may prevent you from executing such orders.
-    
-6. Margins Trading does not have guaranteed measures against losses. As a borrower, you may suffer losses that exceed the amount you deposited into your Collateral Account.
-    
-
-**b. To start Margins Trading:**
-
-1. You represent and warrant that you are neither from the U.S. nor on any list of trade embargoes or economic sanctions, such as the Specially Designated National by OFAC (The Office of Foreign Assets Control of the U.S. Department of the Treasury).
-    
-2. You should fully understand the risks associated with Margins Trading and Lending, and be fully responsible for any trading and non-trading activities under your Binance Account and Collateral Account. You should not engage in Transactions or invest in funds that are beyond your financial capacities;
-    
-3. You are fully responsible for knowing the true status of any position, even if Binance may present it incorrectly at any time;
-    
-4. You agree to keep enough Digital Assets in your Collateral Account, as required by Binance for Users’ engagement in Margins Trading, and promptly repay your loan in full. Failure to keep enough assets or to timely repay the outstanding loan may result in forced liquidation of the assets in your Collateral Account;
-    
-5. Even if with the ability to forcefully liquidate any position, Binance cannot guarantee to stop losses. If your assets are insufficient to repay the outstanding loan after the liquidation of your position, you are still liable for any further shortfall of assets;
-    
-6. Binance may take measures, in its discretion and on your behalf, to reduce your potential losses, including but not limited to, transferring assets from your Collateral Account into your Binance Account and/or vice versa;
-    
-7. During Binance system maintenance, you agree to be fully responsible for managing your Collateral Account under risks, including but not limited to, closing positions and repaying your loan.
-    
-8. You agree to conduct all Transactions, Margins Trading and/or borrowing on your own, and be fully responsible for your activities. Binance assumes no liability for any loss or damage caused by your use of any Binance services or your unawareness of the risks associated with the use of Digital Assets or with your use of Binance Services.
-    
+By making use of the Margin Services, you acknowledge and agree that you have read, understood and accepted the “[Margin Service Terms of Use](https://www.binance.com/en/terms-margin)”, which shall apply to all Margin Services (as such term is defined in the Margin Service Terms of Use).
 
 ### 7\. Lending Services
 
