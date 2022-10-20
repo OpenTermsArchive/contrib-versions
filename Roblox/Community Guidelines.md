@@ -302,12 +302,20 @@ To maintain a safe metaverse, Roblox does **not** permit:
         
 30. **Roblox Economy**  
     Roblox maintains the Robux system for everyone’s benefit and enjoyment. To keep it secure, some uses of Robux are not permitted, including:
+    
     * Using third-party services to sell, trade, or give away Robux. This does not apply to Roblox gift cards.
     * Promotional codes that falsely appear to be offered by Roblox itself
-    * Inappropriate use of the group payout system, including offering payment in Robux for acting as a model for assets, joining groups, referring members, or role-playing in experiences.You also may not use third-party services or products to sell, either directly or as a bundle: in-experience items, exclusive features, or other in-experience enhancements.
+    * Inappropriate use of the group payout system, including offering payment in Robux for acting as a model for assets, joining groups, referring members, or role-playing in experiences.
+    
+    You also may not use third-party services or products to sell, either directly or as a bundle: in-experience items, exclusive features, or other in-experience enhancements.  
+      
+    We also don’t allow using Roblox to solicit donations for an external charitable cause. This includes, but is not limited to:
+    * In-experience prompts for users to donate Robux toward a crowdfunding campaign
+    * Claiming that a transaction is associated with a fundraiser
+    * Stating to users that some amount of sales proceeds will be directed toward a causeNote: Developers are allowed to implement in-experience Robux transactions for users to express appreciation of the experience or generously reward a creator (e.g. a “tip jar” feature) as long as it is clear to the user that they receive nothing in return for their payment.
 
 See the [Roblox Terms of Use](https://en.help.roblox.com/hc/en-us/articles/115004647846) for more information.
 
-**Last Updated**: October 12, 2022
+**Last Updated**: October 19, 2022
 
 [Return to top](#article-container)
