@@ -99,10 +99,14 @@ Our advertising policies cover four broad areas:
 > 
 > ### [Default Ads Treatment](https://support.google.com/adspolicy/answer/10959786)
 > 
+> > ![An illustration representing Google](//storage.googleapis.com/support-kms-prod/bwwYPHeLAgRTvXAn3GC4RpZEwdWqPL9WRZZX)
+> > 
 > > Google is committed to delivering a safe and trustworthy ad experience for all users. That’s why we limit serving certain types of ad categories for users that aren't signed in or users that our systems indicate are under 18.
 > 
 > ### [Sexual content](https://support.google.com/adspolicy/answer/6023699)
 > 
+> > ![An illustration representing Google](//storage.googleapis.com/support-kms-prod/wUNTEJ0JJrwXTcZRy4U1PDaPuEkdDhP6wabY)
+> > 
 > > Ads should respect user preferences and comply with legal regulations, so we don't allow certain kinds of sexual content in ads and destinations.  Some kinds of sexual content in ads and destinations are allowed only if they comply with the policies below and don't target minors, but they will only show in limited scenarios based on user search queries, user age, and local laws where the ad is being served. 
 > > 
 > > Learn about [what happens if you violate our policies](https://support.google.com/adspolicy/answer/7187501).
@@ -111,54 +115,76 @@ Our advertising policies cover four broad areas:
 > 
 > ### [Alcohol](https://support.google.com/adspolicy/answer/6012382)
 > 
+> > ![An illustration representing Google](//storage.googleapis.com/support-kms-prod/rV7qiFM6JGSN6S9aUAXiKU0XmrZE7wvxx4Fo)
+> > 
 > > We abide by local alcohol laws and industry standards, so we don’t allow certain kinds of alcohol-related advertising, both for alcohol and drinks that resemble alcohol. Some types of alcohol-related ads are allowed if they meet the policies below, don’t target minors, and target only countries that are explicitly allowed to show alcohol ads.
 > > 
 > > _Examples of restricted alcoholic beverages:_ beer, wine, sake, spirits or hard alcohol, Champagne, fortified wine, non-alcoholic beer, non-alcoholic wine, and non-alcoholic distilled spirits
 > 
 > ### [Copyrights](https://support.google.com/adspolicy/answer/6018015)
 > 
+> > ![An illustration representing Google](//storage.googleapis.com/support-kms-prod/hLcXkRSKs6d8pdOYPVKwQKzqp5EHllM9mz40)
+> > 
 > > We abide by local copyright laws and protect the rights of copyright holders, so we don’t allow ads that are unauthorized to use copyrighted content. If you are legally authorized to use copyrighted content, [apply for certification](https://support.google.com/google-ads/contact/copyright) to advertise. If you see unauthorized content, [submit a copyright-related complaint](https://support.google.com/legal/troubleshooter/1114905).
 > 
 > ### [Gambling and games](https://support.google.com/adspolicy/answer/6018017)
 > 
+> > ![An illustration representing Google](//storage.googleapis.com/support-kms-prod/cMFkvwBwIhYs0qqEHAh6pNRJg5VoGgIyvdTp)
+> > 
 > > We support responsible gambling advertising and abide by local gambling laws and industry standards, so we don’t allow certain kinds of gambling-related advertising. Gambling-related ads are allowed if they comply with the policies below and the advertiser has received the proper Google Ads certification. Gambling ads must target approved countries, have a landing page that displays information about responsible gambling, and never target minors. Check local regulations for the areas you want to target.
 > > 
 > > _Examples of restricted gambling-related content:_ physical casinos; sites where users can bet on poker, bingo, roulette, or sports events; national or private lotteries; sports odds aggregator sites; sites offering bonus codes or promotional offers for gambling sites; online educational materials for casino-based games; sites offering "poker-for-fun" games; non-casino-based cash game sites
 > 
 > ### [Healthcare and medicines](https://support.google.com/adspolicy/answer/176031)
 > 
+> > ![An illustration representing Google](//storage.googleapis.com/support-kms-prod/vr4Y0ip39lsn3rjwSldAAWfHsTVUzvDthJwE)
+> > 
 > > We are dedicated to following advertising regulations for healthcare and medicine, so we expect that ads and destinations follow appropriate laws and industry standards. Some healthcare-related content can’t be advertised at all, while others can only be advertised if the advertiser is certified with Google and targets only approved countries. Check local regulations for the areas you want to target.
 > 
 > ### [Political content](https://support.google.com/adspolicy/answer/6014595)
 > 
+> > ![An illustration representing Google](//storage.googleapis.com/support-kms-prod/y6iDGOCaxR2J6O71JmH8mG32HavtiEOrwQl1)
+> > 
 > > We support responsible political advertising and expect all political ads and destinations to comply with local campaign and election laws for any areas they target. This policy includes legally mandated election “silence periods.”  
 > > 
 > > _Examples of political content:_ promotion of political parties or candidates, political issue advocacy
 > 
 > ### [Financial services](https://support.google.com/adspolicy/answer/2464998)
 > 
+> > ![An illustration representing Google](//storage.googleapis.com/support-kms-prod/okv8r3f0myDHbgAKCeMUmah8kxXIi9Ea5wOg)
+> > 
 > > We want users to have adequate information to make informed financial decisions. Our policies are designed to give users information to weigh the costs associated with financial products and services, and to protect users from harmful or deceitful practices. For the purposes of this policy, we consider financial products and services to be those related to the management or investment of money and cryptocurrencies, including personalized advice.
 > > 
 > > When promoting financial products and services, you must comply with state and local regulations for any region or country that your ads target — for example, include specific disclosures required by local law. Refer to our non-exhaustive list of [country-specific requirements](https://support.google.com/adspolicy/answer/6023676) for more information but note that advertisers are expected to do their own research on the local regulations for any location their ads target.
 > 
 > ### [Trademarks](https://support.google.com/adspolicy/answer/6118)
 > 
+> > ![An illustration representing Google](//storage.googleapis.com/support-kms-prod/8JbxEmpHESDk4XMVL5Y92VjxCxlOY8FhfvU9)
+> 
 > > There are multiple factors that determine when trademarks can be used in ads. Along with the factors described in our Policy Center, these policies apply only when a trademark owner has submitted a valid complaint to Google.
 > 
 > ### [Legal requirements](https://support.google.com/adspolicy/answer/6023676)
 > 
+> > ![An illustration representing Google](//storage.googleapis.com/support-kms-prod/uPrjgfkAKYXXdZ7m9FRSE1sHH7dEr2x0AD5X)
+> > 
 > > You’re always responsible for ensuring that you comply with all applicable laws and regulations, in addition to Google's advertising policies, for all of the locations where your ads are showing.
 > 
 > ### [Other restricted businesses](https://support.google.com/adspolicy/answer/6368711)
+> 
+> > ![An illustration representing Google](//storage.googleapis.com/support-kms-prod/WsKLidB9IEfpSseFX2oT8SzGoL083NcfXwwg)
 > 
 > > We restrict certain kinds of businesses from advertising with us to prevent users from being exploited, even if individual businesses appear to comply with our other policies. Based on our own continuous reviews, and feedback from users, regulators, and consumer protection authorities, we occasionally identify products or services that are prone to abuse. If we feel that certain kinds of businesses pose an unreasonable risk to user safety or user experience, then we may limit or stop related ads from running.
 > 
 > ### [Restricted ad formats and features](https://support.google.com/adspolicy/answer/9481382)
 > 
+> > ![An illustration representing Google](//storage.googleapis.com/support-kms-prod/Aw61HddwNifI9MSppC0ynriMaJzscvE4CL7Q)
+> > 
 > > There are multiple factors that determine access to advanced ad formats and features on Google Ads. Certain ad formats are not available for all advertisers until they meet our specific requirements or complete the certification process.
 > 
 > ### Requirements for made for kids content
 > 
+> > ![An illustration representing Google](//storage.googleapis.com/support-kms-prod/6DBAL9kwU9qgXa59X7Khyqq3OHdKRM42JJxq)
+> > 
 > > Advertisers may not run personalized ads on content set as [made for kids](https://support.google.com/youtube/answer/9528076). [See here](https://support.google.com/adspolicy/answer/9683742) for categories restricted for advertising on made for kids content.
 > 
 > Editorial & technical requirements
