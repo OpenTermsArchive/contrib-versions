@@ -60,7 +60,7 @@ Intellectual Property
 
 The website CCM.net, and in particular its content, is protected by French law. CCM BENCHMARK GROUP and Jean-François Pillou are the sole owners of all intellectual property rights relating to content on the site (including text, photographs, illustrations, images, logos, etc.).
 
-The content reproduced on the Site is subject to copyright and its reproduction or distribution, without the express written authorization of **CCM BENCHMARK GROUP**, constitutes copyright infringement and may be subject to criminal penalties. The texts and illustrations that are explicitly licensed under the [Creative Commons license](https://ccm.net/contents/955-copyright-information) may under certain conditions be reproduced, distributed, or modified without necessarily requiring permission to do so.
+The content reproduced on the Site is subject to copyright and its reproduction or distribution, without the express written authorization of **CCM BENCHMARK GROUP**, constitutes copyright infringement and may be subject to criminal penalties. The texts and illustrations that are explicitly licensed under the [Creative Commons license](https://ccm.net/apps-sites/internet-archeology/ccm/10145-copyright-information/) may under certain conditions be reproduced, distributed, or modified without necessarily requiring permission to do so.
 
 "**CCM**" and "**CCM BENCHMARK GROUP**" are registered trademarks of **CCM BENCHMARK GROUP**. Any unauthorized reproduction of these trademarks, logos, and distinctive signs constitutes copyright infringement and may be subject to criminal penalties. Violators face civil and criminal penalties.
 
