@@ -68,7 +68,7 @@ Sonic is proud to provide personal support from a knowledgeable, friendly, and l
 
 **Voice/Fax Services:**
 
-Sonic voice and fax services may not utilized for the following: Auto-dialing or “predictive” dialing, continuous or repetitive call forwarding, fax or voicemail broadcasting or blasting, or high volume telemarketing. Service is subject to immediate termination and the application of all early termination fees if using Sonic’s Voice and Fax services excessively. Excessive use is defined by Sonic as use that substantially exceeds a 120 second average call duration and/or 200 calls per day per channel.
+Sonic voice and fax services may not be utilized for the following: Auto-dialing or “predictive” dialing, continuous or repetitive call forwarding, fax or voicemail broadcasting or blasting, or high volume telemarketing. Service is subject to immediate termination and the application of all early termination fees if using Sonic’s Voice and Fax services excessively. Excessive use is defined by Sonic as use that substantially exceeds a 120 second average call duration and/or 200 calls per day per channel.
 
 **Use of copyrighted material:**
 
