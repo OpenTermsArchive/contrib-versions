@@ -8,7 +8,7 @@
 * [8\. Security and Data Retention](#security-and-data-retention)
 * [9\. External Links](#external-links)
 * [10\. Children’s Privacy and Parental Controls](#parental-controls)
-* [11\. Accessing and Updating Your Personal Information](#accessing-updating-personal-info)
+* [11\. Accessing, Updating, and Deleting Your Personal Information](#accessing-updating-personal-info)
 * [12\. Storage and International Transfer of Your Personal Information](#storage-intl-transfer)
 * [13\. Your Privacy Rights in California](#your-privacy-rights-ca)
 * [14\. Your Privacy Rights if you live in the EEA, UK or Switzerland](#your-privacy-rights-eea-uk-ch)
@@ -17,24 +17,25 @@
 
 [](https://www.kidsafeseal.com/certifiedproducts/roblox.html)
 
-Please find the shortened version of our Privacy Policy below. Please click the title of each section to expand for the full details of our Privacy Policy. You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/article_attachments/7704427039252/Roblox_Privacy_Policy_2022-07-11.pdf).
+Please find the shortened version of our Privacy Policy below. Please click the title of each section to expand for the full details of our Privacy Policy. You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/article_attachments/10269380632340).
 
 [Expand All +](#/)
 
 1\. About Roblox and this Privacy Policy
 
-Your privacy is important to us. In order to help you understand our privacy practices, we created this Privacy Policy so that you are aware of what information we collect, how we use it, and who we share it with.
+Your privacy is important to us. This Privacy Policy tells you about the information we collect when you use our websites and app, how we use it, and who we share it with. This Policy covers the Roblox [Services](#service).
 
-This Policy covers our websites on the roblox.com domain, our Roblox mobile, virtual reality and Xbox apps, the Roblox Player, the Roblox Studio, and our other websites, products, software, applications, content, data feeds and other services on which an authorized link to this Policy is posted. This Policy covers our practices regarding Roblox users of all ages, including a unique set of practices for those under the age of 13. The Service is operated by or on behalf of Roblox Corporation.
+Roblox is a global company, and this Policy is for everyone around the world. Roblox has to follow laws designed to protect personal information in the many different countries where our users live. For example, we comply with the Children’s Online Privacy Protection Act (“COPPA”) in the US, the General Data Protection Regulation (“GDPR”) in the EU, the Data Protection Act of 2018 in the UK, and the Brazilian General Data Protection Law (“LGPD”) in Brazil.
 
-Roblox is also committed to protecting the privacy of our users, including children. Please see the ["Children’s Privacy and Parental Controls"](#parental-controls) section below for more information about your rights as a parent or legal guardian of our children users and the measures we take to afford children users with additional protections and comply with applicable data protection legislation, depending on where you are located, such as the Children’s Online Privacy Protection Act (“COPPA”), the General Data Protection Regulation (“GDPR”) and the Brazilian General Data Protection Law (“LGPD”).
+Roblox is also committed to protecting the privacy of children (i.e., users under the age of 13 under COPPA). See the ["Children’s Privacy and Parental Controls"](#parental-controls) section below for more information about your rights as a parent or legal guardian.
 
-To learn more about COPPA, you may consult this simple one-page informational guide from the kidSAFE Seal Program – [www.kidsafeseal.com/knowaboutcoppa.html](https://en.help.roblox.com/hc/en-us/articles/www.kidsafeseal.com/knowaboutcoppa.html).
+To learn more about COPPA, you can consult the US Federal Trade Commission’s COPPA website: [https://www.ftc.gov/news-events/topics/protecting-consumer-privacy-security/kids-privacy-coppa](https://www.ftc.gov/news-events/topics/protecting-consumer-privacy-security/kids-privacy-coppa).
+
+You can learn more about COPPA, by looking at this simple guide from the kidSAFE Seal Program – [www.kidsafeseal.com/knowaboutcoppa.html](https://en.help.roblox.com/hc/en-us/articles/www.kidsafeseal.com/knowaboutcoppa.html).
 
 If you have any questions, comments, or concerns regarding this Privacy Policy and/or our data practices, please contact us at the following support form, telephone number, or mailing address:
 
-[Customer Support Form](https://www.roblox.com/support)
-
+[Customer Support Form](https://www.roblox.com/support)  
 (888) 858 - BLOX  
 Roblox Corporation  
 Attn: Roblox Privacy Manager  
@@ -42,49 +43,9 @@ Address: 970 Park Place, Suite 100
 San Mateo, California, 94403  
 privacy@roblox.com
 
-For users based in the European Economic Area (EEA), the United Kingdom, or Switzerland:
-
-If you are a user based in the European Economic Area, the United Kingdom, or Switzerland, you may also contact our Representative according to Articles 27 EU and UK GDPR in the European Union:
+For users based in the European Economic Area, the United Kingdom, or Switzerland, you may also contact our Representative according to Articles 17 EU and UK GDPR in the European Union:
 
 roblox@gdpr-rep.com
-
-EEA:  
-Tel: +49 (0) 40 99999 - 3430  
-DP-Dock GmbH  
-Attn: Roblox Corporation  
-Ballindamm 39 / Ecke Jungfernstieg  
-0095 Hamburg, Germany
-
-UK:  
-DP Data Protection Services UK Ltd.  
-Attn: Roblox Corporation  
-16 Great Queen Street  
-Covent Garden, London, WC2B 5AH, United Kingdom
-
-If you are a user based in Brazil, you may contact our Brazilian Data Protection Officer regarding your personal data by emailing us at privacy@roblox.com.
-
-Roblox values your trust, so we want to tell you about the personal information we collect from you when you use our websites and app, how we use it, and who we share it with. That’s why we've created this privacy policy to keep you informed.
-
-Roblox is a global company, and this policy is for everyone around the world. Roblox has to follow laws designed to protect personal information in the different countries where our users live. For example, the Children’s Online Privacy Protection Act (“COPPA”) in the US, the General Data Protection Regulation (“GDPR”) in the EU and the UK, and the Brazilian General Data Protection Law (“LGPD”) in Brazil apply to Roblox.
-
-The laws in these countries give children (meaning users under the age of 13 for COPPA, for example) data protection rights. More information about these special rights are in the “Your Privacy Rights” sections below. You can also see the ["Children’s Privacy and Parental Controls"](#parental-controls) section for more information about your rights as a parent or legal guardian of our children users and the measures we take to afford children users with additional protections and comply with applicable data protection legislation, depending on where you are located.
-
-You can learn more about COPPA, by looking at this simple guide from the kidSAFE Seal Program – www.kidsafeseal.com/knowaboutcoppa.html.
-
-If you or your parent or guardian have questions about this policy or how we use your personal information, you can contact us by completing this [Customer Support Form](https://www.roblox.com/support).
-
-Alternatively, you can email our GDPR representative if you are in the European Economic Area, the United Kingdom, or Switzerland or by telephoning or writing to the Roblox office in California or our office for the EEA or the UK.
-
-[Customer Support Form](https://www.roblox.com/support)
-
-(888) 858 - BLOX  
-Roblox Corporation  
-Attn: Roblox Privacy Manager  
-Address: 970 Park Place, Suite 100  
-San Mateo, California, 94403  
-privacy@roblox.com
-
-Email our GDPR representative at: roblox@gdpr-rep.com
 
 EEA:  
 Tel: +49 (0) 40 99999 - 3430  
@@ -115,37 +76,31 @@ For the purposes of our services, the definitions are as follows:
 
 “Processing” means any operation which is performed on Personal Information, such as collection, recording, organization, structuring, storage, adaptation or any kind of disclosure or other use.
 
-“Service” means any service or application offered by Roblox, such as allowing users to develop Platform experiences, connect with others, and use content created by you and other users.
+“Service” means any service or application offered by Roblox, such as allowing users to develop Platform experiences, connect with others, and use content created by you and other users. It includes websites on the roblox.com domain, our Roblox mobile, virtual reality and Xbox apps, the Roblox Player, the Roblox Studio, and our other websites, products, software, applications, content, data feeds and other services on which an authorized link to this Policy is posted.
 
 Any other capitalized term that is not defined in this Policy is defined and has the meaning set out in our Terms of Use.
 
 3\. Information Collected on our Corporate Websites
 
-Please note that our corporate websites (which may include corp.roblox.com, blog.roblox.com, and their subdomains) are general audience websites. On these sites, we may provide information regarding the corporate side of Roblox, press information, career information, and other general audience information. We may also ask for your name, email address, employment details if you send us a CV, resume or other details of your employment history in connection with an advertised job vacancy or a general inquiry regarding employment opportunities with us and other information so that we can provide corporate-related information to you or respond to your job application. We may also ask for your name, email address, company information, and other details in connection with your business to fulfill your request for updates or materials from us. No experiences are available on the corporate websites. As such, the parts of this Privacy Policy that discuss experiences or discuss children are not applicable to the corporate websites.
+Please note that our corporate websites (which may include [corp.roblox.com](https://en.help.roblox.com/hc/en-us/articles/corp.roblox.com), [blog.roblox.com](https://en.help.roblox.com/hc/en-us/articles/blog.roblox.com), and their subdomains) are general audience websites. On these sites, we may provide information regarding the corporate side of Roblox, press information, career information, and other general audience information. We may also ask for your name, email address, employment details if you send us a CV, resume or other details of your employment history in connection with an advertised job vacancy or a general inquiry regarding employment opportunities with us and other information so that we can provide corporate-related information to you or respond to your job application. We may also ask for your name, email address, company information, and other details in connection with your business to fulfill your request for updates or materials from us. No experiences are available on the corporate websites. As such, the parts of this Privacy Policy that discuss experiences or discuss children are not applicable to the corporate websites.
 
-We have a number of corporate websites, such as corp.roblox.com and blog.roblox.com. These sites explain our technology and who works at Roblox. There is news on there about the company and we let people know about job openings that they can apply for at Roblox. There is also information on there for parents in the resources section. While these websites are generally aimed at adults, you can also visit them to learn more about Roblox as a company.
+We have a number of corporate websites, such as [corp.roblox.com](https://en.help.roblox.com/hc/en-us/articles/corp.roblox.com) and [blog.roblox.com](https://en.help.roblox.com/hc/en-us/articles/blog.roblox.com). These sites explain our technology and who works at Roblox. There is news on there about the company and we let people know about job openings that they can apply for at Roblox. There is also information on there for parents in the resources section. While these websites are generally aimed at adults, you can also visit them to learn more about Roblox as a company.
 
 We only collect information from people on these websites when someone is applying for a job or interested in partnering with Roblox.
 
 4\. Information You Provide when Setting Up an Account on Roblox
 
-All users must create a Roblox account to join any experiences. To create a Roblox account, we will ask you to create a unique username and password (so you can log into your account) and to provide other demographic information, such as your age or date of birth, gender, regional location or language preference (so we can customize your experience on Roblox).
-
-Users are strongly encouraged not to create a username that reflects their own name or other Personal Information. Users should also not pick a password that is easy to guess, and should not share their password.
-
-Usernames are used for participating in Service features, and we do not use them to identify individual users outside of their activities on our Service. Usernames are shared with the parties listed in Section 7 below.
-
-Users may be asked to provide or may choose to add an email address to their account for added verification and/or to enable certain features. The primary purpose for this email address is to provide account security, since this is the only way for Roblox to check the authenticity of an account owner. In this circumstance, children are asked to provide a parent email address. Users may change the email address associated with their account at any time; however, a notification will be sent to the previously provided email address upon making that change.
-
 Everyone on Roblox has to create an account in order to participate in our experiences.
 
-When you create a Roblox account, we will ask you to choose a unique username and password (so that you can log into your account).
+When you create a Roblox account, we will ask you to choose a unique username and password. We require this information so that you can log into your account and participate in Service features. We do not use usernames to identify individual users outside of their activities on our Service.
 
-We will also ask you for your date of birth, your gender, the country you live in and which language you speak.
+We will also ask you for your date of birth, your gender, the country you live in and which language you speak so we can customize your experience on Roblox..
 
-You must not create a username that includes your real name. It is also important to create a password that is not easy to guess. You may share your password with your parent(s) or legal guardian, but never share it with anyone else, not even your friends.
+You must not create a username that includes your real name or other Personal Information. It is also important to create a password that is not easy to guess. You may share your password with your parent(s) or legal guardian, but never share it with anyone else, not even your friends.
 
 You can also add an email address to your account in case you cannot remember your password and need to reset it.
+
+Users may be asked to provide or may choose to add an email address to their account for added verification and/or to enable certain features. The primary purpose for this email address is to provide account security, since this is the only way for Roblox to check the authenticity of an account owner. In this circumstance, children are asked to provide a parent email address. Users may change the email address associated with their account at any time; however, a notification will be sent to the previously provided email address upon making that change.
 
 5\. Additional Personal Information We Collect When You Use Roblox Features
 
@@ -163,10 +118,9 @@ In addition to account setup on Roblox, we may collect and process Personal Info
 * When you participate in contests, competitions, sweepstakes, giveaways, prize draws or other promotions that we may run or sponsor on our Service. These promotions may involve the collection and use of certain contact information (such as your name, email address, and/or phone number) for prize fulfillment purposes, as well as other information or content needed for the specific promotion. In some jurisdictions, we are required to publicly share information about the winners.
 * When you respond to or participate in voluntary research or surveys or studies. These surveys may collect information about your likes and dislikes, experience interests and habits, general hobbies and interests, and other lifestyle information or preferences. These surveys may ask for Personal Information.
 * When you request or agree to voice based services from Roblox. With your consent, we may collect, process and store your voice recording to provide services and to increase the safety of our voice related services. We may use your voice recording for purposes such as training and improving our filter technology to increase the safety on our platform, except that we will not engage in these activities with private server voice chat recordings of EEA users.
-* When you request or agree to location-based services from Roblox, which may be available to our users other than children. With your consent, we may collect or track real-time or precise geolocation information to provide services such as tagging, check-in and content delivery, or geo-based advertising, or other services that are dependent on knowing where you are. This information may be collected in combination with an identifier associated with your device to enable us to recognize your mobile browser or device when you return to the Service. You can always stop the collection of location information by updating your device settings, stopping the use of the Service, or uninstalling our mobile applications.
 * When you subscribe to other features or activities, which may be available to our users other than children. We may offer other features or activities on our Services from time to time, and you may be able to submit or upload Personal Information in connection with such features. The data being collected for such features and their intended uses will be evident at the time of data collection.
 * When you browse, navigate, or otherwise interact with the Service. We collect information about your interactions with the Service and connect the information collected with your account to provide you a better user experience. For example, we may collect information from your search history to provide you with similar recommendations. We may also collect information from your device when you visit our websites, as outlined in the “[Cookies and Similar Technologies](#cookies)” section below.
-* Information processed to enable advertising. To market our services, inter alia, via social media platforms in order to bring new users to our websites and to maintain and increase our user base, we may process Personal Information such as IP addresses, information on users’ browsers or operating systems, including language settings, location information and user names or user IDs.
+* Information processed to enable advertising. To market our services, inter alia, via social media platforms in order to bring new users to our websites and to maintain and increase our user base, we may process Personal Information such as IP addresses, information on users’ browsers or operating systems, including language settings, regional location information and user names or user IDs.
 
 You are under no obligation to provide Personal Information to Roblox when requested. However, if you choose to withhold any requested information, we may not be able to provide you with certain services and features.
 
@@ -185,7 +139,9 @@ In addition to the specific uses above, any information that you provide or that
 * To audit interactions, transactions, and other compliance activities; and
 * To protect the integrity, safety, or security of the Service or our users, comply with legal obligations, or enforce compliance with our Terms of Use, or other restrictions placed on your use of the Service.
 
-You don't have to share any additional personal information with us (other than the information described above) to use our websites or app. We may collect other personal information when you use our platform, for example, if you or your parents buy Robux, we will collect additional information from the buyer in order to take the payment such as your name, billing address, email address and payment card details or other payment information.
+You don't have to share any additional personal information with us (other than the information described above) to use our websites or app.
+
+We may collect other personal information when you use our other features and services of the Service. For example, when you make purchases on the Service, if you or your parents buy Robux, we will collect additional information from the buyer in order to take the payment such as your name, billing address, email address and payment card details or other payment information.
 
 When you use voice chat or type content on Roblox in public chat, private chat, forums, group walls, personal posts or portfolios, we will monitor what you say and write to check that it does not contain inappropriate content, your personal information, or chat that is not suitable for users to have on Roblox.
 
@@ -212,7 +168,7 @@ If your parents want more detail about this, they can view our full privacy poli
 
 Like most websites, we use cookies and other standard internet technologies to help us improve our Service.
 
-#### Cookies
+#### Cookies and other identifiers
 
 A cookie is a small text file that is placed on your computer or mobile device when you visit the site. It enables the website to remember your actions and preferences (such as login, language, font size and other display preferences) over a period of time, for example so you don’t have to re-enter them whenever you come back to the website or browse from one page to another.
 
@@ -248,11 +204,11 @@ We will not use cookies or similar technologies other than for the purposes stat
 
 #### Third party advertising and ad networks
 
+For our users that are children, Roblox partners with third-party advertising companies to serve contextual advertising (i.e., ads that are based on the content of the page the user is looking at rather than personal data about the individual), cap the frequency of advertising, and provide related uses permitted by COPPA. Roblox does not show behaviorally targeted or retargeted ads to children or track such users for the purposes of directing targeted advertising.
+
 Roblox partners with third-party advertisers, ad server companies, and ad networks (“third-party advertising companies”) to promote our Service. If you respond to one of our advertisements and visit or register to use our Service, we or our service providers may provide these third-party advertising companies with identifiers from your device or computer, such as an IP address or device ID, to help us analyze our user acquisition efforts.
 
-For our users that are children, Roblox partners with third-party advertising companies to serve contextual advertising, cap the frequency of advertising, and provide related uses permitted by COPPA. Roblox does not show behaviorally targeted or retargeted ads to children or track such users for the purposes of directing targeted advertising.
-
-NOTE: In order to disable advertising-related tracking at your request, companies may need to set an opt-out cookie on your browser. Sometimes a browser’s configuration may prevent companies from setting such cookies, for example, if your browser is set to block all third-party cookies by default. Therefore, you may need to change your browser settings to accept cookies, in order to fully disable advertising-related tracking.
+NOTE: To disable advertising-related tracking at your request, companies may need to set an opt-out cookie on your browser. Sometimes a browser’s configuration may prevent companies from setting such cookies, for example, if your browser is set to block all third-party cookies by default. Therefore, you may need to change your browser settings to accept cookies, in order to fully disable advertising-related tracking.
 
 #### Your choices
 
@@ -265,7 +221,7 @@ Most web and mobile device browsers automatically accept cookies, but if you pre
 Some browser manufacturers provide comprehensive help relating to cookie management in their products. Please see below for more information:
 
 * Google Chrome: [https://support.google.com/chrome/answer/95647?hl=en-GB](https://support.google.com/chrome/answer/95647?hl=en-GB),
-* Internet Explorer: [https://support.microsoft.com/en-us/help/260971/description-of-cookies](https://support.microsoft.com/en-us/help/260971/description-of-cookies),
+* Microsoft Edge: [https://support.microsoft.com/en-us/help/260971/description-of-cookies](https://docs.microsoft.com/en-us/microsoft-edge/devtools-guide-chromium/storage/cookies),
 * Mozilla Firefox: [https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer),
 * Safari (Desktop): [https://support.apple.com/kb/PH5042?locale=en\_US](https://support.apple.com/kb/PH5042?locale=en_US),
 * Safari (Mobile): [https://support.apple.com/en-us/HT201265](https://support.apple.com/en-us/HT201265),
@@ -276,7 +232,7 @@ You can also learn more about cookies by visiting [https://www.allaboutcookies.o
 
 Please note, however, that by blocking or deleting cookies used on the Service, you may not be able to take full advantage of the Service and you may not be able to log on to the Service or play the Roblox games.
 
-We use tracking technology (such as "Cookies") on our websites and app to help us understand and improve our service, as well as to understand your preferences. A Cookie allows us to remember your actions and preferences on the website (such as your login details, your language settings and your font size preference) over a period of time so you don't have to re-enter them whenever you come back to the website or browse from one page to another. We will also remember your favorite games and friends.
+We use tracking technology (such as "Cookies") on our websites and app to help us understand and improve our service, as well as to understand your preferences. A Cookie is a small text file that allows us to remember your actions and preferences on the website (such as your login details, your language settings and your font size preference) over a period of time so you don't have to re-enter them whenever you come back to the website or browse from one page to another. We will also remember your favorite games and friends.
 
 If your parents or guardians want more information about Cookies and similar tracking technology, they can view our full privacy policy.
 
@@ -306,7 +262,7 @@ We offer users the ability to use forums and similar means of public discussion.
 
 #### Creators
 
-The creators of the experiences you access will be provided your username, display name, game metrics, user ID, and the regional location you are based in. The information shall enable the creators to determine their player base, so they can adjust their experiences to the legal requirements of the respective regional location. We offer creators a tool which allows them to review the regional location of origin of players who play their experiences. For this purpose, we will determine the user’s regional location of access to the Roblox website based on the IP address. We will not share your IP address with the creators.
+The creators of the experiences you access will be provided your username, display name, game metrics, user ID, and the regional location you are based in. We offer creators a tool that allows them to review the regional location of origin of players to enable them to determine their player base, so they can adjust their experiences to the legal requirements of the respective regional location. For this purpose, we will determine the user’s regional location of access to the Roblox website based on the IP address. We will not share your IP address with the creators.
 
 #### Legal disclosures
 
@@ -320,15 +276,11 @@ Information about our users, including Personal Information, may be disclosed an
 
 We share aggregated, automatically-collected, or otherwise de-identified information with third parties for various purposes, including (i) compliance with reporting obligations; (ii) for business or marketing purposes; (iii) to assist us and other parties in understanding our users' interests, habits and usage patterns for certain programs, content, services, advertisements, promotions and/or functionality available through the Services.
 
-#### Do Not Track
-
-Roblox does not track its customers over time and across third party websites to provide targeted advertising and therefore does not respond to Do Not Track (DNT) signals.
-
 Roblox doesn’t sell your information to other companies for them to use as they want.
 
 Roblox does have relationships with some companies that help us provide our services (for example, when you or your parent purchase Robux), so we may provide some of your information to them, but only because we need to in order to complete your transaction.
 
-We also hire other people and companies to perform services for us. A list of some of the companies we may use to perform these functions can be found in the detailed version of our privacy policy.The other companies are only allowed to use the personal information we share with them to complete tasks that we hire them to do. They are not allowed to sell your personal information or use it for their own purposes.
+We also hire other people and companies to perform services for us. A list of some of the companies we may use to perform these functions can be found in the detailed version of our privacy policy. The other companies are only allowed to use the personal information we share with them to complete tasks that we hire them to do. They are not allowed to sell your personal information or use it for their own purposes.
 
 #### Public forums and community areas
 
@@ -336,7 +288,7 @@ There are some areas on Roblox such as in game chat where you can communicate wi
 
 #### Creators
 
-We share your username, display name, game metrics, location and user ID with the creators of the experiences you access.
+We share your username, display name, game metrics, regional location and user ID with the creators of the experiences you access.
 
 #### Legal disclosures, business transfers, and other important content
 
@@ -380,7 +332,7 @@ Sometimes you may find a link to another company’s website on our website or a
 
 Children are entitled to added protections with regard to their Personal Information and privacy online. For this reason, when children register for the Service, their account is automatically set to a more restrictive mode This means that child users will not have access to certain features, such as social media plug-ins, some forms of third-party advertising, and certain types of notification alerts.
 
-When a child creates an account on Roblox, we may collect a username, password, birthdate, and parent’s email address. This information is used to give the child access to the Service (with certain default settings) and, if a parent’s email is provided, to communicate with the parent about the child’s account. For example, we may use the parent’s email to send an email notification about the child’s account creation and an invitation for the parent to review, update settings, and approve of their child’s account. We may use the birthdate the child provides when signing up for the Service to determine which features on Roblox the child should have access to, and to determine when the child will be given broader access to features on our Service. In general, we will not use or share account information (including Personal Information) from your child’s account, except as permitted under the applicable laws.
+When a child creates an account on Roblox, we may collect a username, password, birthdate, and parent’s email address. This information is used to give the child access to the Service (with certain default settings) and, if a parent’s email is provided, to communicate with the parent about the child’s account. For example, we may use the parent’s email to send an email notification about the child’s account creation and an invitation for the parent to review, update settings, and approve of their child’s account. We will use the birthdate the child provides when signing up for the Service to determine which features on Roblox the child should have access to, and to determine when the child will be given broader access to features on our Service. In general, we will not use or share account information (including Personal Information) from your child’s account, except as permitted under the applicable laws.
 
 We may share aggregated or otherwise de-identified information of a child (which is information that cannot be used to identify such child) with third parties for various purposes such as: (i) compliance with reporting obligations; (ii) business or marketing purposes; or (iii) to assist us and other parties in understanding our users' interests, habits and usage patterns for certain programs, content, services, advertisements, promotions and/or functionality available through the Services.
 
@@ -396,17 +348,17 @@ If we become aware that a child has provided us with Personal Information, we wi
 
 As a user you are entitled to additional protections for your information and privacy online. When you register an account with Roblox, we make sure your account is set to a restrictive mode, which means that you won’t have access to certain features, such as social media links, if you are not 13 or over and your text filtering will be restricted. These additional measures are in place to keep you as safe as possible online.
 
-If your parent or guardian's email address is provided to us when you create an account on Roblox, we may share information about your account with them by email. We can also invite your parent or guardian to review or update settings and approve your account.
+If your parent or guardian's email address is provided to us when you create an account on Roblox, we will share information about your account with them by email. We can also invite your parent or guardian to review or update settings and approve your account.
 
 If you or your parents or guardian would like more information about the restrictive account mode, or parental controls available to them, please review our full privacy policy.
 
 If you are a parent and need to make changes to your child’s account, you can contact us by completing this [Customer Support Form](https://www.roblox.com/support).
 
-11\. Accessing and Updating Your Personal Information
+11\. Accessing, Updating, and Deleting Your Personal Information
 
 If Personal Information about you changes, or if you no longer desire to use our Service, you may correct, update, amend, or deactivate your account under your account settings or by contacting Roblox using the Personal Information set out above in Sec. 1. We will respond to your request within a reasonable timeframe. For children under the age of 13, please see the [“Children’s Privacy and Parental Controls”](https://en.help.roblox.com/hc/en-us/articles/parental-controls) section above. See Sections 13, 14 and 15 for additional rights available to California, UK, Swiss and European Economic Area, and Brazil residents.
 
-If you want to fix any of your personal information, or if you want us to delete your personal information, you can contact us by completing this [Customer Support Form](https://www.roblox.com/support).
+If you want to fix any of your personal information, or if you want us to delete your personal information, you can contact us by completing this [Customer Support Form](https://www.roblox.com/support). Select the desired option under the Data Privacy Requests. To protect your privacy, we will take steps to verify your identity before fulfilling your request.
 
 We will get back to you within a reasonable timeframe.
 
@@ -418,7 +370,7 @@ Roblox operates globally and we may transfer the personal data information that 
 
 Roblox stores your information in the United States.
 
-The privacy laws of the United States may not be as strict as those in your country (especially if you live in the EU or the UK), but we always take reasonable steps to protect your information and your privacy rights.
+The privacy laws of the United States may not be as strict as those in your country (especially if you live in the EU or the UK), but we take reasonable steps to protect your information and your privacy rights.
 
 13\. Your Privacy Rights in California
 
@@ -433,7 +385,7 @@ Some of these rights can be exercised by updating your account within the Servic
 
 Our California resident consumer request metrics for the previous year can be found [here](https://en.help.roblox.com/hc/en-us/articles/4402871541140).
 
-If you live in California, you may have additional "rights" when it comes to your information. You can ask us to:
+If you live in California, you may have additional rights when it comes to your information. You can ask us to:
 
 * Give you a copy of the personal information we have collected about you in the last year;
 * Fix your personal information if it is incorrect;
@@ -447,16 +399,19 @@ If you want to understand more, please review our full privacy policy.
 1. In the course of visiting our websites and apps, and/or using our services and products, we may process the following Personal Information:
     * Information relating to a job application made by you, like your name, email address, employment details, CV, resume or other details of your employment history sent by you. We will process this information to process and respond to your job application. The legal basis for this processing activity is Article 6 sec. 1 sent. 1 lit. b GDPR (“necessary for entering into an employment contract with us”).
     * Login information, which may include your IP address, device type, name, date and time of your visit, information on your browser version, information on your operating system, including language settings, MAC addresses, and User ID. We will process this information to provide you with our Service. The legal basis for this processing activity is Article sec. 1 sent. 1 lit. b (“performance of a contract”) and lit. f (“legitimate interest”) GDPR. It is in our legitimate interest to guarantee the Services’ stability and security.
-    * Account information, e.g. information such as your name, username, login and password details, location information, user-generated content, contact details and other Personal Information that are used for participating in the Service we are offering. We process this information to provide our Services to you. The legal basis for this processing activity is Article 6 sec. 1 sent. 1 lit. b GDPR (“performance of a contract”).
-    * Email addresses you provided us with for added verification and/or to enable certain features. The bases for processing this personal data are Article 6 sec. 1 sent. 1 lit. b (“performance of a contract”) and f (“legitimate interest”) GDPR. Roblox has a legitimate interest in providing a safe and secure Service, especially to protect children.
+    * Account information, e.g. information such as your name, username, login and password details, regional location information, user-generated content, contact details that you choose to provide to us, and other Personal Information that are used for participating in the Service we are offering. We process this information to provide our Services to you. The legal basis for this processing activity is Article 6 sec. 1 sent. 1 lit. b GDPR (“performance of a contract”).
+    * Email addresses and other information you provided us with for added verification and/or to enable certain features. The bases for processing this personal data are Article 6 sec. 1 sent. 1 lit. b (“performance of a contract”) and f (“legitimate interest”) GDPR. Roblox has a legitimate interest in providing a safe and secure Service, especially to protect children.
+    * When you request or agree to voice based services from Roblox. With your consent, we may collect, process and store your voice recording to provide services and to increase the safety of our voice related services. We may use your voice recording for purposes such as training and improving our filter technology to increase the safety on our platform, except that we will not engage in these activities with private server voice chat recordings of EEA users. The bases for processing this personal data are Article 6 sec. 1 sent. 1 lit. b (“performance of a contract”) and f (“legitimate interest”) GDPR.
     * Billing and payment information, when you participate in Developer Exchange or purchase virtual currency or premium subscriptions, including your name, billing address, credit card or other payment information and billing information. The legal basis for this processing activity is Article 6 sec. 1 sent. 1 lit. b GDPR (“performance of a contract”). We may also retain transaction details and purchase and payment history. The legal basis for processing these personal data is our legitimate interest in being able to resolve subsequent billing disputes and inquiries, Article 6 sec. 1 sent. 1 lit. f GDPR (“legitimate interest”).
     * Information relating to contacting our customer service, e.g. when you report a problem, submit questions, concerns or comments. We may process your email address, your name and information relating to your inquiry or concern in order to respond to your communications, fulfill your requests, or provide other customer support. This processing activity is based on your consent according to Article 6 sec. 1 sent. 1 lit. a GDPR and/or Article 6 sec. 1 sent. 1 lit. b GDPR (“performance of a contract”), depending on the initial purpose for contacting our customer support.
     * Comments or messages you post or transmit on Roblox via public chats, forums, group walls, personal post, etc. We process this information to monitor, filter and moderate this information for the purposes of being able to remove profanity, Personal Information, and other inappropriate conversations. Additionally, we may use pre-filtered comments and messages for other purposes such as training and improving our filter technology. The legal basis for this processing activity is Roblox’s legitimate interest in being able to defend ourselves from possible liability claims that may arise from unlawful comments posted by you, Article 6 sec. 1 sent. 1 lit. f GDPR (“legitimate interest”). Please note that any Personal Information submitted by you in forums and similar means offered by us is available to anyone who has access to this forum including other users. The Personal Information posted by you can be read, collected or used by other users of these forums and could be used to send unsolicited messages.
+    * Information required for additional features that require the use of your camera or upload of files. If you decide to use these features and upload content, we will collect, process, and store that content only for as long as needed to accomplish the purpose of the feature. The bases for processing this personal data are Article 6 sec. 1 sent. 1 lit. b (“performance of a contract”) and f (“legitimate interest”) GDPR.
+    * Information required for other features or activities, which may be available to our users other than children. We may offer other features or activities on our Services from time to time, and you may be able to submit or upload Personal Information in connection with such features. The data being collected for such features and their intended uses will be evident at the time of data collection. The bases for processing this personal data are Article 6 sec. 1 sent. 1 lit. b (“performance of a contract”) and f (“legitimate interest”) GDPR.
     * Information required for participating in our Roblox Developer Exchange Program, like the IRS W-9 form (for U.S. taxpayers) or W-8 form (for non-U.S. taxpayers). The legal basis for this processing is Article 6 sec.1 sent. 1 lit. f GDPR (“legitimate interest”) with regard to U.S. law requirements. It is our legitimate interest to comply with the legal requirements, especially with regard to U.S. anti-money laundering laws.
     * Information relating to your use of or interaction with third party plug-ins, e.g. social plugins from Google, Facebook or Twitter. When you use these features, certain information from your social media accounts may be accessed by or shared with Roblox, and likewise, certain information about your use of Roblox may be posted to your profile on those platforms. The legal bases for this processing activity are Article 6 sec. 1 sent. 1 lit. a (“consent”) and f (“legitimate interest”) GDPR. We have a legitimate interest to improve your website experience and to optimize our service.
-    * Information processed to enable advertising. To market our services, inter alia, via social media platforms in order to bring new users to our websites and to maintain and increase our user base, we may process Personal Information such as IP addresses, information on users’ browser or operating system, including language settings, location information and user names or user IDs. The legal basis for the processing of this data is Roblox’s legitimate interest in maintaining our user base, bringing new users to our websites and informing (potential) users about interesting events, Art. 6 sec. 1 sent. 1 lit. f GDPR (“legitimate interest”).
-    * Information relating to the use of location-based service. In order to provide Services such as tagging, check-in and content delivery, or other services that require knowing where you are, we may process your location information. This processing is based on Article 6 sec. 1 sent. 1 lit. b GDPR (“performance of a contract”) and/or Article 6 sec. 1 sent. 1 lit. f GDPR (“legitimate interest”) and represents our legitimate interest to improve your website experience and to optimize our services. Please note that you can always stop the collection of location information by updating your device settings, stopping to use the Service, or uninstalling our mobile applications.
+    * Information processed to enable advertising. To market our services, inter alia, via social media platforms in order to bring new users to our websites and to maintain and increase our user base, we may process Personal Information such as IP addresses, information on users’ browser or operating system, including language settings, regional location information and user names or user IDs. The legal basis for the processing of this data is Roblox’s legitimate interest in maintaining our user base, bringing new users to our websites and informing (potential) users about interesting events, Art. 6 sec. 1 sent. 1 lit. f GDPR (“legitimate interest”).
     * Information relating to your participation in contests, competitions, sweepstakes, giveaways, prize draws or other promotions that we may run on our Service or sponsor from time to time. We may process certain contact information (such as your name, email address, and/or phone number) for prize fulfillment purposes, as well as other information or content needed for the specific promotion. The legal basis for this processing activity is Article 6 sec. 1 sent. 1 lit. b GDPR (“performance of a contract”).
+    * When you respond to or participate in voluntary research or surveys or studies. These surveys may collect information about your likes and dislikes, experience interests and habits, general hobbies and interests, and other lifestyle information or preferences. These surveys may ask for Personal Information. The legal basis for this processing activity is Article 6 sec. 1 sent. 1 lit. b GDPR (“performance of a contract”).
     * Cookies. We will use certain cookies only if you have previously consented to such use. When you visit our website with an EEA IP address, a cookie banner will appear asking you for your consent. You can manage your choice by clicking on “manage cookie preferences” in the cookie banner. We will save your choices in the form of a cookie. This cookie has a limited effective period of one year. The legal basis for this processing activity is Article 6 sec. 1 sent. 1 lit. a GDPR (“consent”). In addition, you can also manage cookies using your browser settings. For further information on cookies and similar technologies see Section 6 above.
 2. Please note that we do not use your Personal Information for automated decision making which produces legal effects concerning you or similarly significantly affects you.
     
@@ -497,13 +452,13 @@ If you want to understand more, please review our full privacy policy.
     
     If you are a user based in the European Economic Area, you may be entitled to exercise some or all of the following rights:
     
-    * Require (i) information whether your Personal Information is retained and (ii) access to or duplicates of your Personal Information retained, including the purposes of the processing, the categories of Personal Information concerned, and the data recipients as well as potential retention periods;
+    * Request (i) information whether your Personal Information is retained and (ii) access to or duplicates of your Personal Information retained, including the purposes of the processing, the categories of Personal Information concerned, and the data recipients as well as potential retention periods;
     * Request rectification, removal or restriction of your Personal Information, e.g. because (i) it is incomplete or inaccurate, (ii) it is no longer needed for the purposes for which it was collected, or (iii) the consent on which the processing was based has been withdrawn;
     * Refuse to provide and – without impact to data processing activities that have taken place before such withdrawal – withdraw your consent to processing of your Personal Information at any time;
     * Object, on grounds relating to your particular situation, to processing of your Personal Information, in case such processing is either based on our or a third party’s legitimate interests or on a performance of a task carried out in the public interest. In this case, please provide us with information about your particular situation. After the assessment of the facts presented by you we will either stop processing your Personal Information or present you our compelling legitimate grounds for an ongoing processing;
     * Object to the use of your Personal Information for direct marketing at any time;
     * Take legal actions in relation to any potential breach of your rights regarding the processing of your Personal Information, as well as to lodge complaints before the competent data protection regulators; and/or
-    * Require (i) to receive the Personal Information concerning you, which you have provided to us, in a structured, commonly used and machine-readable format and (ii) to transmit those data to another controller without hindrance from our side. Where technically feasible you shall have the right to have the Personal Information transmitted directly from us to another controller.
+    * Request (i) to receive the Personal Information concerning you, which you have provided to us, in a structured, commonly used and machine-readable format and (ii) to transmit those data to another controller without hindrance from our side. Where technically feasible you shall have the right to have the Personal Information transmitted directly from us to another controller.
 4. You may (i) exercise the rights referred to above, (ii) pose any questions, or (iii) make any complaints regarding our data processing by contacting us under the contact details set out above in Sec. 1.
 
 If you live in the EEA, the UK or Switzerland, you may have additional "rights" when it comes to your personal information. You can ask us to:
@@ -514,7 +469,7 @@ If you live in the EEA, the UK or Switzerland, you may have additional "rights" 
 
 If you want to understand more, you can refer to the full privacy policy.
 
-If you have reason to, you can complain about how we are using your information by emailing us at roblox@gdpr-rep.com. You can also complain to a "data protection authority". You can find out about which "data protection authority" to complain to in your country [here](http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080).
+If you have reason to, you can complain about how we are using your information by emailing us at roblox@gdpr-rep.com. You can also complain to a "data protection authority". You can find out about which "data protection authority" to complain to in your country [here](https://edpb.europa.eu/about-edpb/about-edpb/members_en).
 
 15\. Additional Information for users in Brazil
 
@@ -522,17 +477,20 @@ If you have reason to, you can complain about how we are using your information 
 
 * Data relating to a job application made by you, like your name, email address, employment details, CV, resume or other details of your employment history sent by you. We will process this information to process and respond to your job application.
 * Login information, which may include your IP address, device type, name, date and time of your visit, information on your browser version, information on your operating system, including language settings, MAC addresses, and User ID. We will process this information to provide you with our Service and to guarantee the Services’ stability and security.
-* Account information, e.g. information such as your name, username, login and password details, location information, user-generated content, contact details and other Personal Information that are used for participating in the Service we are offering. We process this information to provide our Services to you.
+* Account information, e.g. information such as your name, username, login and password details, location information, user-generated content, contact details that you choose to provide to us, and other Personal Information that are used for participating in the Service we are offering. We process this information to provide our Services to you.
 * Email addresses you provided us with for added verification and/or to enable certain features. We use that data to provide a safe and secure Service, especially to protect children.
+* When you request or agree to voice based services from Roblox. With your consent, we may collect, process and store your voice recording to provide services and to increase the safety of our voice related services. We may use your voice recording for purposes such as training and improving our filter technology to increase the safety on our platform.
 * Billing and payment information, when you participate in Developer Exchange or purchase virtual currency or premium subscriptions, including your name, billing address, credit card or other payment information and billing information. We may also retain transaction details and purchase and payment history.
 * Information relating to contacting our customer service, e.g. when you report a problem, submit questions, concerns or comments. We may process your email address, your name and information relating to your inquiry or concern in order to respond to your communications, fulfill your requests, or provide other customer support.
 * Comments or messages you post or transmit on Roblox via public chats, forums, group walls, personal post, etc. We process this information to monitor, filter and moderate this information for the purposes of being able to remove profanity, Personal Information, and other inappropriate conversations. Additionally, we may use pre-filtered comments and messages for other purposes such as training and improving our filter technology. Please note that any Personal Information submitted by you in forums and similar means offered by us is available to anyone who has access to this forum including other users. The Personal Information posted by you can be read, collected or used by other users of these forums and could be used to send unsolicited messages.
+* Information required for additional features that require the use of your camera or upload of files. If you decide to use these features and upload content, we will collect, process, and store that content only for as long as needed to accomplish the purpose of the feature.
+* Information required for other features or activities, which may be available to our users other than children. We may offer other features or activities on our Services from time to time, and you may be able to submit or upload Personal Information in connection with such features. The data being collected for such features and their intended uses will be evident at the time of data collection.
 * Information required for participating in our Roblox Developer Exchange Program, like the IRS W-9 form (for U.S. taxpayers) or W-8 form (for non-U.S. taxpayers). We process that data to comply with the legal requirements, especially with regard to U.S. anti-money laundering laws, which we are subject to.
 * Information relating to your use of or interaction with third party plug-ins, e.g. social plugins from Google, Facebook or Twitter. When you use these features, certain information from your social media accounts may be accessed by or shared with Roblox, and likewise, certain information about your use of Roblox may be posted to your profile on those platforms. We use that information to improve your website experience and to optimize our service.
-* Information processed to enable advertising. To market our services, inter alia, via social media platforms in order to bring new users to our websites and to maintain and increase our user base, we may process Personal Information such as IP addresses, information on users’ browser or operating system, including language settings, location information and user names or user IDs.
-* Information relating to the use of location-based service. In order to provide Services such as tagging, check-in and content delivery, or other services that require knowing where you are, we may process your location information. This information is used to improve your website experience and to optimize our services. Please note that you can always stop the collection of location information by updating your device settings, stopping to use the Service, or uninstalling our mobile applications.
+* Information processed to enable advertising. To market our services, inter alia, via social media platforms in order to bring new users to our websites and to maintain and increase our user base, we may process Personal Information such as IP addresses, information on users’ browser or operating system, including language settings, regional location information and user names or user IDs.
 * Information relating to your participation in contest, competitions, sweepstakes, giveaways, prize draws or other promotions that we may run on our Service or sponsor from time to time. We may process certain contact information (such as your name, email address, and/or phone number) for prize fulfillment purposes, as well as other information or content needed for the specific promotion.
-    * Cookies. We will use certain cookies only if you have previously consented to such use. When you visit our website with an EEA IP address, a cookie banner will appear asking you for your consent. You can manage your choice by clicking on “manage cookie preferences” in the cookie banner. We will save your choices in the form of a cookie. This cookie has a limited effective period of one year. The legal basis for this processing activity is Article 6 sec. 1 sent. 1 lit. a GDPR (“consent”). In addition, you can also manage cookies using your browser settings. For further information on cookies and similar technologies see Section 6 above.
+* When you respond to or participate in voluntary research or surveys or studies. These surveys may collect information about your likes and dislikes, experience interests and habits, general hobbies and interests, and other lifestyle information or preferences. These surveys may ask for Personal Information.
+* Cookies. We will use certain cookies only if you have previously consented to such use. When you visit our website with an IP address, a cookie banner will appear asking you for your consent. You can manage your choice by clicking on “manage cookie preferences” in the cookie banner. We will save your choices in the form of a cookie. This cookie has a limited effective period of one year. In addition, you can also manage cookies using your browser settings. For further information on cookies and similar technologies see Section 6 above.
 
 2\. Please note that we do not use your Personal Information for automated decision making which produces legal effects concerning you or similarly significantly affects you.
 
@@ -590,14 +548,14 @@ If you live in Brazil, you may have additional "rights" when it comes to your pe
 
 If you want to understand more it might be useful to ask your parent or guardian to explain this section to you. Your parent or guardian can refer to the detailed version of this Policy.
 
-If you have reason to, you can complain about how we are using your information by emailing us at privacy@roblox.com. You can also complain to the National Data Protection Authority of Brazil.
+If you have reason to, you can complain about how we are using your information by emailing us at privacy@roblox.com. You can also complain to the National Data Protection Authority of Brazil at anpd@anpd.gov.br.
 
 16\. Privacy Policy Changes and Updates
 
-We may update this Privacy Policy to reflect changes to our information practices at any time, so please review it frequently. If we update this Policy, changes will be reflected on this page and we will update the “Last Updated” date posted below. If we make any material changes to this Privacy Policy, we will attempt to notify you by email (if you have provided us with your email address, by sending an email to the email address specified in your account) or by means of a prominent notice on this website prior to the change becoming effective. We will obtain prior parental consent if any changes we make to this Policy affect users under the age of 13 in a way that requires such consent under COPPA or the age of 16 (or as per the age derogation by Member States in their domestic law) or 13 in the UK, under the European and UK General Data Protection Regulation.
+We may update this Privacy Policy to reflect changes to our information practices at any time, so please review it frequently. If we update this Policy, changes will be reflected on this page and we will update the “Last Updated” date posted below. If we make any material changes to this Privacy Policy, we will attempt to notify you by email (if you have provided us with your email address, by sending an email to the email address specified in your account) or by means of a prominent notice on this website or in app prior to the change becoming effective. We will obtain prior parental consent if any changes we make to this Policy affect users under the age of 13 in a way that requires such consent under COPPA or the age of 16 (or as per the age derogation by Member States in their domestic law) or 13 in the UK, under the European and UK General Data Protection Regulation.
 
 We update this privacy policy sometimes, so you should review this site regularly. We always publish the date of the latest version at the bottom of this page.
 
-If we make any major changes, we will let you know by email (if we have your email address) or by showing a prominent notice on this website or in app prior to the change becoming effective. If required by law, we will obtain your parent’s consent if any of these changes impact you.
+If we make any major changes, we will let you know by email (if we have your email address) or by showing a prominent notice on this website or in app prior to the change becoming effective. If required by law, we will obtain your parent’s consent if any of these changes impact the data we’ve collected from you in a less protective way.
 
-Last Update: July 11, 2022
+Last Update: October 21, 2022
