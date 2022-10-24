@@ -276,7 +276,7 @@ You can also email us at privacy@zillow.com, or you can write to us at:
 
 Zillow, Inc.  
 Attn: Consumer Care  
-1301 Second Avenue, Floor 31  
+1301 Second Avenue  
 Seattle, WA 98101
 
 Changes to this policy
