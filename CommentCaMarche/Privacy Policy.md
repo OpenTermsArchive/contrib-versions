@@ -1,7 +1,18 @@
 How is your data processed by CCM?
 ==================================
 
-[](https://ccm.net/account/dwebb-11634883)[David Webb](https://ccm.net/account/dwebb-11634883) 06/10/22 10:30
+[](https://ccm.net/account/dwebb-11634883)[David Webb](https://ccm.net/account/dwebb-11634883)  
+06/10/22 10:30
+
+How is your data processed by CCM?
+==================================
+
+    ![How is your data processed by CCM?](https://img-19.ccm.net/43mF4m2xPar_Apol5RGgBuKC0os=/480x335/smart/db89bf34464943adb6e34d367a1fa989/ccmcms-enccm/38352558.jpg)
+
+[](https://ccm.net/account/dwebb-11634883)[David Webb](https://ccm.net/account/dwebb-11634883)  
+06/10/22 10:30
+
+[](https://www.facebook.com/sharer.php?u=https://ccm.net/apps-sites/internet-archeology/ccm/9941-processing-of-personal-data-ccm/)[](https://twitter.com/intent/tweet?text=How+is+your+data+processed+by+CCM%3F%2C+par+dwebb%20:%20https%3A%2F%2Fccm.net%2Fapps-sites%2Finternet-archeology%2Fccm%2F9941-processing-of-personal-data-ccm%2F%20via%20@ccmnet)
 
 CCM BENCHMARK GROUP is responsible for the collection and the processing of personal data.
 
