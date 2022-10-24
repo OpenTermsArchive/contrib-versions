@@ -12,7 +12,7 @@ Please either **enable JavaScript**, or disable any extensions or plugins that i
 
 * * *
 
-[![Nord Account logo](https://s1.nordcdn.com/nordvpn/media/1.1690.0/images/account/global/logos/horizontal/nordaccount.svg)](https://my.nordaccount.com/dashboard/)
+[![Nord Account logo](https://s1.nordcdn.com/nordvpn/media/1.1696.0/images/account/global/logos/horizontal/nordaccount.svg)](https://my.nordaccount.com/dashboard/)
 
 Privacy Policy
 ==============
@@ -241,4 +241,4 @@ Nord does not knowingly collect or solicit personal data from anyone under the a
 
 English
 
-EnglishFrançaisDeutschPortuguêsPortuguês BrasileiroEspañolPolski
+EnglishFrançaisDeutschPortuguêsPortuguês BrasileiroEspañolPolskiItaliano
