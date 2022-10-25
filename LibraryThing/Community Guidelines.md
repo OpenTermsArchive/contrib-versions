@@ -75,7 +75,7 @@ The mailing address and email information you provide for this program will only
 
 Recipients of books who submit reviews to LibraryThing hereby grant LibraryThing, the book's publisher, and its author perpetual non-exclusive permission to use of the review, together with their first name and city/town of residence, for purposes of entertainment, advertising, promotion, or publicity without additional compensation, except where prohibited by law. LibraryThing, the publisher, and the author reserve the right to edit reviews for clarity or language or to use only excerpts from them. Neither LibraryThing nor the publisher is under any obligation to publish a review.
 
-For more rules and conditions see [your profile](http://www.librarything.com/er/profile).
+For more rules and conditions see [your profile](http://www.librarything.com/ner/settings).
 
 ### Pay-for-review schemes
 
