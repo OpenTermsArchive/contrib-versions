@@ -1,19 +1,3 @@
-Noscript Error
-
-JavaScript is disabled
-
-* * *
-
-It looks like you have JavaScript disabled, or are using a browser extension which limits JavaScript. This website relies on JavaScript in order to display correctly and properly function.
-
-  
-
-Please either **enable JavaScript**, or disable any extensions or plugins that interfere with JavaScript and try again.
-
-* * *
-
-[![Nord Account logo](https://s1.nordcdn.com/nordvpn/media/1.1696.0/images/account/global/logos/horizontal/nordaccount.svg)](https://my.nordaccount.com/dashboard/)
-
 Privacy Policy
 ==============
 
@@ -236,9 +220,3 @@ Nord does not knowingly collect or solicit personal data from anyone under the a
 **Links to other websites.** Our Websites may include links to other websites (e.g., social media websites) whose privacy practices may be different from ours. If you access any of those websites via such links and/or submit your personal data to any of those websites, your personal data is processed by the procedures established by them and governed by their privacy policies. We encourage you to carefully read the privacy policy (or other respective privacy notice) of any website you visit.
 
 **Updates to the Privacy Policy.** We develop our Services and Websites introducing new features or modifying current ones constantly. Therefore, we may need to amend the Privacy Policy from time to time. If the amendments to the Privacy Policy materially affect the activities of our processing of your personal data, we will notify you in advance of such changes by reasonable means (e.g., notification through the respective applications, our Websites, or via email), and we will always indicate the date of the last update. Unless it is stated by us otherwise, each update of the Privacy Policy comes into force as of the moment when the amended Privacy Policy is published on this Website. You are expected to check this Privacy Policy regularly so that you are familiar with the most current wording of the Privacy Policy. Your continued use of the Services and Websites will be deemed acceptance thereof.
-
-© 2022 Nord Security. All Rights Reserved.[support@nordaccount.com](mailto:support@nordaccount.com)[Terms of Service](https://my.nordaccount.com/legal/terms-of-service/)
-
-English
-
-EnglishFrançaisDeutschPortuguêsPortuguês BrasileiroEspañolPolskiItaliano
