@@ -4,7 +4,7 @@ Politique de confidentialité
 
 Qu’est-ce que la Politique de confidentialité et que couvre-t-elle ?
 
-Date effective : 26 juillet 2022 | [Voir la version imprimable](https://mbasic.facebook.com/privacy/policy/printable/)
+Date effective : 26 juillet 2022 | [Voir la version imprimable](https://mbasic.facebook.com/privacy/policy/printable/) | [Afficher les versions précédentes](https://fr-fr.facebook.com/privacy/policy/?show_versions=1)
 
 Chez Meta, nous souhaitons que vous compreniez quelles informations nous recueillons et comment nous les utilisons et les partageons. C’est pourquoi nous vous encourageons à lire notre Politique de confidentialité. Cela vous permet d’utiliser les Produits Meta de la manière qui vous convient le mieux.
 
