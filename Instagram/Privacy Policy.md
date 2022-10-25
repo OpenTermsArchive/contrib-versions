@@ -8,7 +8,7 @@ Privacy Policy
 
 What is the Privacy Policy and what does it cover?
 
-Effective July 26, 2022 | [View printable version](https://help.instagram.com/https%3A%2F%2Fl.instagram.com%2F%3Fu=https%3A%2F%2Fmbasic.facebook.com%2Fprivacy%2Fpolicy%2Fprintable%2F&e=removed)
+Effective July 26, 2022 | [View printable version](https://help.instagram.com/https%3A%2F%2Fl.instagram.com%2F%3Fu=https%3A%2F%2Fmbasic.facebook.com%2Fprivacy%2Fpolicy%2Fprintable%2F&e=removed) | [See previous versions](https://help.instagram.com/policy/?show_versions=1)
 
 We at Meta want you to understand what information we collect, and how we use and share it. That’s why we encourage you to read our Privacy Policy. This helps you use Meta Products in the way that’s right for you.
 
