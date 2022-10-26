@@ -162,7 +162,7 @@ Our Services are hosted in the United States and information we collect will be 
 
 ### How does GitLab Secure my Personal Data?
 
-We work hard to protect your Personal Data. We employ administrative, technical, and physical security controls where appropriate, to protect your information. For more information on our security practices please see: [Technical and Organizational Security Measures for GitLab.com](https://about.gitlab.com/handbook/engineering/security/security-assurance/technical-and-organizational-measures.html).
+We work hard to protect your Personal Data. We employ administrative, technical, and physical security controls where appropriate, to protect your information. For more information on our security practices please see: [Technical and Organizational Security Measures for GitLab.com](https://about.gitlab.com/handbook/security/security-assurance/technical-and-organizational-measures.html).
 
 ### Data Retention
 
