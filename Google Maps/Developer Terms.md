@@ -281,6 +281,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         77. Donnees Quebec - [https://www.donneesquebec.ca/licence/#cc-by](https://www.donneesquebec.ca/licence/#cc-by)
             
+        78. The Government of Newfoundland and Labrador: [https://www.gov.nl.ca/disclaimer/](https://www.gov.nl.ca/disclaimer/)
+            
     7. **Denmark**
         * © COWI A/S
             
@@ -516,6 +518,11 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Contains data from the IS 50V database of the National Land Survey of Iceland from 3/2022 ([https://www.lmi.is/is/um-lmi/starfsemi/skilmalar-og-gjaldskra/gjaldskra](https://www.lmi.is/is/um-lmi/starfsemi/skilmalar-og-gjaldskra/gjaldskra))
             
         * National Registry of Iceland - Þjóðskrá Íslands er eigandi staðfangaskrár - Licenses: [https://opingogn.is/pages/notkunarleidbeiningar](https://opingogn.is/pages/notkunarleidbeiningar)
+            
+        * Vegagerðin: Icelandic Road and Coastal Administration (IRCA) and based on data from the Road Administration.[https://www.vegagerdin.is/upplysingar-og-utgafa/gagnaveita-vegagerdarinnar/](https://www.vegagerdin.is/upplysingar-og-utgafa/gagnaveita-vegagerdarinnar/)  
+            [https://www.road.is/about-us/privacy-statement/](https://www.road.is/about-us/privacy-statement/)
+            
+        * National Land Survey of Iceland: [https://www.lmi.is/is/moya/page/licence-for-national-land-survey-of-iceland-free-data](https://www.lmi.is/is/moya/page/licence-for-national-land-survey-of-iceland-free-data)
             
     18. **India**
         
