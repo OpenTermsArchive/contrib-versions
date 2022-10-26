@@ -100,7 +100,7 @@ A5. Our values
 
 1\. You will:
 
-* abide by [Our values](https://secure.booking.com/trust-and-safety/values.en-gb.html?)
+* abide by [Our values](https://www.booking.com/trust-and-safety/values.en-gb.html?)
 * comply with all applicable laws
 * cooperate with any anti-fraud/anti-money laundering checks we need to carry out
 * not use the Platform to cause a nuisance or make fake Bookings
@@ -321,7 +321,7 @@ A17. Measures against unacceptable behaviour
 1\. We have the right to stop you making any Bookings, to cancel any Bookings you’ve already made, and/or to stop you using our Platform, our Customer Service, and/or your Account. Of course, we’ll only do this if, in our opinion, there’s a good reason to - for example:
 
 * fraud or abuse
-* non-compliance with [Our values](https://secure.booking.com/trust-and-safety/values.en-gb.html?), or with applicable laws or regulations
+* non-compliance with [Our values](https://www.booking.com/trust-and-safety/values.en-gb.html?), or with applicable laws or regulations
 * inappropriate or unlawful behaviour (e.g. violence, threats or invasion of privacy) in relation to us, any of the companies we work with – or anyone else, for that matter.
 
 2\. If we cancel a Booking as a result, you won’t be entitled to a refund. We may tell you why we've cancelled your Booking, unless telling you would (a) contravene applicable laws and/or (b) prevent or obstruct the detection or prevention of fraud or other illegal activities. If you believe we have incorrectly cancelled your Booking, please contact our Customer Service team.
