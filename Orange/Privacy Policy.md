@@ -182,6 +182,15 @@ En tant qu’opérateur de communications électroniques Orange se doit de répo
 
 #### 2.4.1. Obligation légale (seule finalité)
 
+| Finalité du traitement | Description | Base(s) légale(s) applicable(s) |
+| --- | --- | --- |
+| Archiver les données comptables |     | Obligation légale |
+| Répondre aux demandes des tiers autorisés par la règlementation |     |
+| Répondre aux réquisitions des autorités et aux décisions de justice |     |
+| Gérer le livre de police | * Lutte contre la fraude fiscale et le recel d’objets volés |
+| Gérer les demandes d’exercice des droits des personnes concernées | * Réception des plaintes, des réclamations et/ou demandes d’exercice des droits |
+| Assurer le blocage, à l’utilisation, des mobiles déclarés volés |     |
+
 #### 2.4.2. Obligation légale et exécution du contrat
 
 Voir 2.1.4
