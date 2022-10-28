@@ -111,13 +111,6 @@ Your use of the Services is subject to the following additional restrictions. Yo
 
 1\. TP-Link will strive to maintain the Platform so that it is operational and available to you at least 99.9% of the time in any calendar month (“Service Level”). If the Monthly Uptime Percentage for a particular calendar month does not meet the Service Level, and if you have met your obligations under this Agreement, then you will be eligible to receive “Service Day Credit” as follows.
 
-|     |     |
-| --- | --- |
-| **Uptime Percentage for the Month** | **Service Days Credited** |
-| 99.5% to < 99.9% | 5   |
-| 99% to < 99.5% | 7   |
-| < 99% | 15  |
-
 As used herein, the term “Monthly Uptime Percentage” means the total number of 5-minute increments in a calendar month minus the number of 5-minute increments of Downtime in a calendar month, divided by the total number of 5-minute increments in a calendar month; the term “Downtime” means the unavailability of the service to you due to a failure of TP-Link; and the term “Service Day Credit” means the number of days that TP-Link will add to the end of the Term during which you may access the Services without charge.
 
 2\. Restrictions. You may receive a maximum of 15 Service Day Credits for all downtime that occurs in a single calendar month. Service Day Credits may not be exchanged for, or converted into, monetary amounts.
@@ -216,7 +209,7 @@ We reserve the right at any time without liability to you to suspend, modify or 
 
 ### **Limitations of Services and Product Software**
 
-You acknowledge and agree that Services and Product Software are not intended to be 100% reliable or available 24 hours a day, 7 days a week. The Services/Product Software may be suspended temporarily without notice for security reasons, system failure, maintenance and repair, updates, or other circumstances. You agree that you will not be entitled to any refund or rebate for such suspensions. TP-Link does not offer any specific uptime guarantee for the Services/Product’ Software.
+You acknowledge and agree that Services and Product Software are not intended to be 100% reliable or available 24 hours a day, 7 days a week. The Services/Product Software may be suspended temporarily without notice for security reasons, system failure, maintenance and repair, updates, or other circumstances. You agree that you will not be entitled to any refund or rebate for such suspensions. TP-Link does not offer any specific uptime guarantee for the Services/Product’ Software. The service takes effect upon your subscription, and cannot be unsubscribed under any circumstances.
 
 ### **Assignment**
 
