@@ -26,7 +26,7 @@ Read more [in section B. What Information We Obtain](#_WHAT_INFO). 
 * To process your requests and provide you with the Digital Services, including to deliver customized content or recommendations. Note that we use your payment card information (such as your card number and expiration date) for limited purposes such as to process your transaction (including recurring payments, if applicable), to provide you with the requested products or services and to protect our rights or the rights of others. 
 * To learn about users of the Digital Services and analyze how you and others interact with and respond to the Digital Services. 
 * To communicate with you, including to send you marketing and promotional communications. 
-* For advertising and marketing purposes, including to deliver [interest-based ads](https://www.hearst.com/-/_INTEREST_BASED), for cross-device linking and to analyze the performance of advertising and marketing activities. 
+* For advertising and marketing purposes, including to deliver [interest-based ads](#_INTEREST_BASED), for cross-device linking and to analyze the performance of advertising and marketing activities. 
 * To protect our rights and the rights of others. 
 
 Read more [in section C. How We Use the Information We Obtain](#_HOW_WE_USE). 
