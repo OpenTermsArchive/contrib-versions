@@ -2,7 +2,7 @@
 
 As part of our effort to protect your privacy and to comply with applicable privacy and data protection laws, we strive to consider all of our data governance practices through the lens of the recognized principles of data minimization, limited collection, and limited use, among other key areas addressed below. We do so to respect and maintain your trust. In other words, we believe that taking care of you includes taking care of your data and privacy. Grab a cup of coffee and learn more below.
 
-Last Revised: July 11, 2022
+Last Revised: October 28, 2022
 
 Starbucks Privacy Statement
 ---------------------------
@@ -71,11 +71,13 @@ You may also in some instances provide us information about other people, such a
 
 **CCTV Information** – Closed circuit video surveillance cameras (“CCTV”) may be installed at some of our retail locations to monitor building security and assist in crime prevention, detection, and investigation, and to ensure the safety of our staff and visitors to our facilities.
 
-**Location Information** – We may collect information about the location of your device, such as information that identifies your device’s precise location (for example, GPS latitude and longitude level) or its approximate location (e.g., less precise location estimated based on a browser or device’s IP address). We may also use location-based technology in our retail locations, such as iBeacons, to collect information about the presence of your device, if your Bluetooth is turned on and your device settings allow for this.
+**Location Information** – We may collect information about the location of your device, such as information that identifies your device’s precise geolocation (e.g., GPS latitude and longitude) or its approximate location (e.g., based on a browser or device’s IP address). We may also use location-based technology in our retail locations, to collect information about the presence of your device, if your Bluetooth is turned on and if your device settings allow for this. By acknowledging these terms and Privacy Statement, you agree to allow Starbucks to collect this information if your device settings allow for this. 
 
-We collect this location information or derive it from your GPS, WiFi, Bluetooth or other device settings for purposes of enhancing or facilitating our services, such as to enable the functionality of our websites or mobile applications that provide you with information about stores near you, to enable you to remotely order and pay for our products and services, or so that you may have certain Starbucks products delivered to you by a third-party vendor.
+We may collect this location information or derive it from your GPS, WiFi, Bluetooth or other location-based technology for purposes of facilitating our services, such as to provide you with information about stores near you, to enable you to remotely order and pay for our products and services, or so that you may have certain Starbucks products delivered to you by a third-party vendor.
 
-We may also use information about the location of the device you are using to help us understand how our websites, mobile applications, and other services and functionality are being used, or to deliver more relevant advertising or personalized experiences for you, including tailored marketing offers or messages based on your location or related context such as the time of day or weather. If you want to opt out of the collection of this location information, please see the section below titled [Your Choices](#your_choices). To learn more about our mobile-based location services, please see the [Starbucks Mobile Applications](#starbucks_mobile_applications) section below.
+We may also use information about the location of the device you are using to help us understand how our websites, mobile applications, and other services and functionality are being used, or to deliver more relevant advertising or personalized experiences for you, including tailored marketing offers or messages based on your location or related context such as the time of day or weather. 
+
+To learn more about our geolocation services and your choices, please see the [Starbucks Mobile Applications](#starbucks_mobile_applications) section below.
 
 ### (c) Information We Collect from Other Sources
 
@@ -181,11 +183,11 @@ Taken together, these technologies help us learn which services and functionalit
 
   
 
-### 8\. Starbucks Mobile Applications
+### 8\. Starbucks Online & Mobile Applications
 
 In certain locations, Starbucks may offer the Starbucks mobile application (“Application”) for our customers’ use and enjoyment. For more information on the Starbucks® Application for iPhone® or Android™, please visit: [https://www.starbucks.com/coffeehouse/mobile-apps](https://www.starbucks.com/coffeehouse/mobile-apps) or your device’s mobile app store.
 
-By downloading, installing, accessing or using the Application, you (the “User”) consent to all actions that we take with respect to your data consistent with this Starbucks Privacy Statement. Use of the Application entails information collection in accordance with the [Information We Collect](#information_we_collect) section above, and includes user controls for Application functionality, such as location services, purchasing e-gifts, and setting push notification and in-app message preferences.
+By downloading, installing, accessing or using the Application, you (the “User”) consent to the collection of your data and all actions that we take with respect to your data consistent with this Starbucks Privacy Statement.  Use of the Application entails information collection in accordance with the [Information We Collect](#information_we_collect) section above, and includes user controls for Application functionality, such as geolocation services, purchasing e-gifts, and setting push notification and in-app message preferences.
 
 **User Information** -Through the use of an iOS, Android or other supported hardware device, some functionality of the Application may require the transmission of certain information provided by you, including:
 
@@ -208,18 +210,20 @@ As described further below, certain optional information may also be shared with
 
 * Personalized messages for individuals to whom you would like to purchase and send a Starbucks gift card (“eGift”), and names and email addresses from a device’s “contacts” list if you choose to import a recipient’s contact information from there;
 * advanced analytics information such as location data, diagnostic and usage data, and user interactions;
-* location-based information, such as through GPS, Bluetooth-enabled iBeacons, or other location-based technology to enhance the user experience so that you may order ahead, receive directions, and see what is available at nearby stores; and
+* geolocation information through technologies such as GPS, Bluetooth, WiFi, or other location-based technology to enhance the user experience so that you may order ahead, receive directions, and see what is available at nearby stores;  and
 * the day and month of your birthday, so that we may recognize you on your special day (we don’t ask for your birth year for this).
 
-### Controlling Application Functionality
+### Your Choices for Controlling Application Functionality
 
-**Location Services** - In order to use certain Application functionality, such as MOP and location-based services and technology, you must either (a) enable “location services” in the Application; and/or (b) set the permissions in your mobile device to allow communication of this information. More information about adjusting location services on iOS devices may be found [here](https://support.apple.com/en-us/HT207092), and additional information on managing an Android device’s location settings may be found [here](https://support.google.com/accounts/answer/3467281?hl=en).
+**Geolocation Services** -In order to use certain services and Application functionality, such as MOP and location-based services and technology, you must either (a) enable “location services” in the Application; and/or (b) set the permissions in your mobile device to allow communication of this information. More information about adjusting location services on iOS devices may be found [here](https://support.apple.com/en-us/HT207092), and additional information on managing an Android device’s location settings may be found [here](https://support.google.com/accounts/answer/3467281?hl=en).
 
-If you allow for location sharing, your device may communicate with us in ways that allow for us to customize your experience in and around Starbucks stores, to monitor the effectiveness of our marketing efforts, to tailor messages based on your time and location patterns, and to limit the number of times you see a promotional message or offer.
+If you allow for location sharing, your device may communicate with us in ways that allow for us to customize your experience in and around Starbucks stores, to monitor the effectiveness of our marketing efforts, to tailor messages based on your time and location patterns, and to limit the number of times you see a promotional message or offer. Precise geolocation may be used to fulfill services and application functionality you choose to engage with. You can manage the use of that personal information at any time in your device settings.
+
+For most mobile devices, you can disable the collection of geolocation information by turning off location services on your device.  If you have any questions about how to prevent Starbucks from collecting your geolocation, we recommend you contact your mobile-device service provider or the device manufacturer. Certain Application functionality and some services may not work properly without information about your location. You can re-enable the collection of geolocation information, at any time, by turning on location services on your device. 
 
 **Voice Ordering** - In order to use certain Application functionality such as Voice Ordering, when available, you must (a) enable “microphone” and “speech recognition” in the Application; and/or (b) set the permissions in your mobile device to allow communication of this information.
 
-If you use such Application functionality, including location services and voice ordering, you consent to the transmission of User Information to Starbucks and/or its agents, and authorize Starbucks and/or its agents, to record, process, and store such User Information as necessary for the Application functionality and for purposes described in the Starbucks Privacy Statement. Please see the rest of this Privacy Statement for more information about how we may use and store personal information, and how to opt out of sharing personal information.
+If you use Application functionality described above, including geolocation services and voice ordering, you consent to the transmission of User Information to Starbucks and/or its agents, and authorize Starbucks and/or its agents, to record, process, and store such User Information as necessary for the Application functionality and for purposes described in the Starbucks Privacy Statement. Please see the rest of this Privacy Statement for more information about how we may use and store personal information, and how to opt out of sharing personal information.
 
 **eGifts** - If you choose to use Application functionality that allows you to send messages or eGifts to third parties, you must first obtain their permission to provide their personal information, such as their name, phone number or email address, to Starbucks. The referred information will be used by Starbucks for the purpose of contacting the third party, on your behalf, to carry out the requested functionality, for example, by emailing an eGift. Although you may enter the recipient’s contact information into the Application, you also have the option to provide the recipient’s contact information by granting Starbucks permission to access your device’s contacts.
 
@@ -233,7 +237,7 @@ The Application allows all users to set preferences for receiving promotional em
 
 ### 9\. Your Choices
 
-You have control over your promotional communications preferences, mobile application functionality, cookie settings, interest-based advertising preferences, Flash cookies, and more.
+You have control over your promotional communications preferences, mobile application functionality, geolocation information, cookie settings, interest-based advertising preferences, Flash cookies, and more.
 
 ### Promotional Communication Choices
 
@@ -318,7 +322,7 @@ In the preceding twelve months we may have disclosed these categories of persona
     * Purpose of Information Collected – We collect network information to provide our services; to communicate with you; for research and development and services improvement; and to comply with applicable laws, and as otherwise outlined in Section 4 above.
     * How we share it – We share network information with our service providers; to protect lawful interests; and for any other purpose with your consent, as outlined in Section 5 above.
 * Geolocation data
-    * Sources of Information – We collect geolocation data through the information you voluntarily provide to us; from the information we automatically collect; and from other sources, as outlined in Section 3(a)-(c) above.
+    * Sources of Information – We collect geolocation data through the information you voluntarily provide to us; from the information we automatically collect; and from other sources, as outlined in Section 3 above. You can disable the collection of geolocation data at any time in your device settings.  
     * Purpose of Information Collected – We collect geolocation data to provide our services; to communicate with you; for research and development and services improvement; and to comply with applicable laws, and as otherwise outlined in Section 4 above.
     * How we share it – We share geolocation data with our service providers; to protect lawful interests; and for any other purpose with your consent, as outlined in Section 5 above.
 * Inferences
