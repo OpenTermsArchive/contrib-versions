@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-#### Last Updated: October 21, 2022
+#### Last Updated: October 28, 2022
 
 #### 1\. Universal Service Terms (Applicable to All Services)
 
@@ -111,7 +111,7 @@ You must own or have all necessary rights to use any domain name or SSL certific
 
 **4.5.** Access to Outposts Equipment. You will give personnel designated by AWS prompt and reasonable access to the Designated Facility as necessary to deliver, install, inspect, maintain, and remove the Outposts Equipment. You will not require AWS personnel to sign, accept, or otherwise agree to any documentation as a condition of accessing the Designated Facility, and you agree that the terms of any such documentation are void even if signed by AWS personnel. You will ensure that no one accesses, moves, or repairs the Outposts Equipment other than (i) personnel designated by AWS, (ii) as permitted in writing by AWS in connection with the maintenance of Outposts Equipment, or (iii) as necessary due to a situation involving imminent injury, damage to property, or an active fire alarm system. You will ensure that no one modifies, alters, reverse engineers, or tampers with the Outposts Equipment. You acknowledge that the Outposts Equipment may be equipped with tamper monitoring.
 
-**4.6.** Enterprise Support. You will remain enrolled in AWS Support at the Enterprise level during the entire period of your use of Outposts.
+**4.6.** AWS Support Options. You will remain enrolled in either [Enterprise On-Ramp Support](https://aws.amazon.com/premiumsupport/plans/enterprise-onramp/) or [Enterprise Support](https://aws.amazon.com/premiumsupport/plans/enterprise/) during the entire period of your use of AWS Outposts.
 
 **4.7.** Services/SLAs/Security. The Service Terms for any Services that run locally on AWS Outposts also apply to your use of those Services on AWS Outposts. There are inherent differences between Services running locally on AWS Outposts from those Services running at AWS operated facilities because the Outposts Equipment is physically located at the Designated Facility where you are responsible for physical security and access controls, as well as all power, networking, and environmental conditions. Due to these differences:
 
@@ -144,7 +144,7 @@ c. The specific compliance and assurance programs for which AWS Outposts are in
 
 **5.2.** In conjunction with the Services, you may be allowed to use certain software (including related support, maintenance, and documentation) developed, owned, or provided by third parties or their licensors. Use of third party software is subject to these additional terms and conditions:
 
-* By using NVIDIA Corporation’s GRID Software, you agree to be bound by the terms and conditions of the [NVIDIA GRID Cloud End User License Agreement](http://aws-nvidia-license-agreement.s3.amazonaws.com/NvidiaGridAWSUserLicenseAgreement.DOCX).
+* By using NVIDIA Corporation’s GRID Software, you agree to be bound by the terms and conditions of the [NVIDIA GRID Cloud End User License Agreement](https://aws-nvidia-license-agreement.s3.amazonaws.com/NvidiaGridAWSUserLicenseAgreement.DOCX).
 * By using NVIDIA Corporation’s Tesla Driver, CUDA Toolkit, cuDNN, NVENC, NVCUVID, NVM:, nvidia-smi, and NCCL Library Software, toolkits, and drivers, you agree to be bound by the terms and conditions of the [NVIDIA Cloud End User License Agreement](https://s3.amazonaws.com/EULA/Nvidia-EULA.txt) and [NVIDIA Third Party Materials Notices](https://s3.amazonaws.com/EULA/Nvidia-3P-Notice.txt).
 * By using Red Hat, Inc.’s software, you agree to be bound by the terms and conditions of the [Red Hat Cloud Software Subscription Agreement](http://www.redhat.com/licenses/cloud_cssa/). Red Hat also disclaims any (i) warranties with respect to Red Hat, Inc. software; and (ii) liability for any damages, whether direct, indirect, incidental, special, punitive or consequential, and any loss of profits, revenue, data or data use, arising from use of Red Hat, Inc. software.
 * By using SUSE LLC’s software, you agree to be bound by the terms and conditions of the [SUSE End User License Agreement](https://www.suse.com/licensing/eula) and the [SUSE Terms and Conditions](https://www.suse.com/products/terms_and_conditions.pdf).
@@ -387,7 +387,9 @@ The distribution of files created by Amazon Elastic Transcoder may require that 
 
 #### 23\. AWS OpsWorks
 
-Your use of the AWS OpsWorks agent is governed by the [AWS OpsWorks Client License Agreement.](https://aws.amazon.com/opsworks-local-license/) Your use of AWS OpsWorks for Chef Automate is subject to [Chef Software Inc.’s end user license agreement](https://www.chef.io/aws_eula). Your use of AWS OpsWorks for Puppet Enterprise is subject to Puppet, Inc.’s  [Puppet Enterprise License Agreement](https://d1.awsstatic.com/legal/aws-opsworks/Puppet%20End%20User%20License%20Agreement.pdf).
+**23.1.** Your use of the AWS OpsWorks agent is governed by the [AWS OpsWorks Client License Agreement.](https://aws.amazon.com/opsworks-local-license/) Your use of AWS OpsWorks for Chef Automate is subject to [Chef Software Inc.’s end user license agreement](https://www.chef.io/aws_eula). Your use of AWS OpsWorks for Puppet Enterprise is subject to Puppet, Inc.’s  [Puppet Enterprise License Agreement](https://d1.awsstatic.com/legal/aws-opsworks/Puppet%20End%20User%20License%20Agreement.pdf).
+
+**23.2.** Your use of AWS OpsWorks for Chef Automate and AWS-ApplyChefRecipes, which leverage the Chef Infra Client software, are subject to Progress Software Corporation’s [Online Master License and Services Agreement for Chef](https://www.chef.io/online-master-agreement?_ga=2.241041664.246854641.1660593593-370928230.1543940878) (the “Progress EULA”) except that sections 1.9.2. (Product Compliance with Documentation) and 1.10.1. (Our Indemnification Obligation) of the Progress EULA do not apply and the Product, Documentation, and Technology (all as defined in the Progress EULA) are provided “as is,” with all faults, and Progress Software Corporation disclaims all warranties, express or implied, including, but not limited to, warranties of merchantability, fitness for a particular purpose, title, noninfringement, availability, error-free or uninterrupted operation, and any warranties arising from course of dealing, course of performance, or usage of trade. To the extent that Progress Software Corporation may not as a matter of applicable law disclaim any implied warranty, the scope and duration of such warranty will be the minimum permitted under applicable law.  
 
 #### 24\. AWS CloudHSM
 
@@ -738,6 +740,8 @@ Notwithstanding any other provision of the Agreement, you may incorporate into y
 
 **52.2.** Certain features of this Service include functionality that allows notifications to be sent to a contact channel (e.g., telephone number, email address). Your use of these features instructs us to send notifications (e.g., SMS/voice messages/emails) to the contact channels entered in the applicable workflows and confirms that you are authorized to send such notifications. Carriers may charge for notifications sent or received in connection with these features.
 
+**52.3.** Your use of AWS-ApplyChefRecipes is subject to Section 23.2. above.  
+
 #### 53\. Amazon Chime
 
 **53.1.** End Users.
@@ -860,17 +864,7 @@ If your messages sent through Amazon MQ are blocked, delayed, or prevented from 
 
 **58.3.2.** AWS does not provide security, risk, governance, legal or compliance advice. You are responsible for making your own assessment of whether your use of the MEM Services meets applicable legal and regulatory requirements. You are also solely responsible for carrying out any advice or recommendations we provide.  
 
-**58.3.3.** Payments for MEM Services are not refundable, and your sole remedy is for AWS to re-perform the relevant MEM Services, provided that you must notify us of any failure within 10 business days of the original date of performance.  
-
-**58.4.** Advanced Video Support Services (AVSS) 
-
-**58.4.1.** AVSS must be ordered at least ninety (90) days before the date of the first event (as described in the AVSS engagement summary we send you). We will invoice you annually in advance for your purchase of AVSS.  Payments for AVSS are not refundable. 
-
-**58.4.2.** In order to provide AVSS, we may request that you implement specific AWS Elemental Software updates and/or provide us with prompt and reasonable access to your AWS Elemental Products. 
-
-**58.4.3.** This Section 58.4 incorporates by reference Sections 1.2, 1.4 - 1.8, and 1.11 of the AWS Elemental [Service Plan](https://aws.amazon.com/legal/elemental-appliances-software-service-plan/), which will apply to your use of AVSS. 
-
-**58.4.4.** AWS reserves the right to charge you for support services performed outside the scope of the AVSS engagement summary as Professional Services.  
+**58.3.3.** Payments for MEM Services are not refundable, and your sole remedy is for AWS to re-perform the relevant MEM Services, provided that you must notify us of any failure within 10 business days of the original date of performance. We will invoice you in the manner set forth on your engagement summary.
 
 #### 59\. Alexa for Business
 
