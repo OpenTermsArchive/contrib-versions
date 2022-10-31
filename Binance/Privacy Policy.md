@@ -12,7 +12,7 @@ To the extent that you are a customer or user of our services, this Privacy Noti
 
 To the extent that you are not a relevant stakeholder, customer or user of our services, but are using our website, this Privacy Notice also applies to you together with our Cookie Notice.
 
-This Notice should therefore be read together with our Cookie Notice, which provides further details on our use of cookies on the website. Our Cookie Notice can be accessed [here](https://www.binance.com/en/cookie-policy).
+This Notice should therefore be read together with our Cookie Notice, which provides further details on our use of cookies on the website. Our Cookie Notice can be accessed [here](https://www.binance.com/en/cookie-privacy).
 
 ### 1\. Binance Relationship with you
 
