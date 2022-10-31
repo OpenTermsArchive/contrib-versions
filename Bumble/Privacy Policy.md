@@ -142,6 +142,10 @@ Under EU and UK data protection laws, we are required to tell you our lawful bas
 | To enable video and audio call functions, and the sending of images and video | Video and audio call usage data, images and video (CCPA Categories F and H) | We obtain this information from the device that you use to access the service | Legitimate interests – it is in our legitimate interests to provide these functionalities as part of the services |
 | To defend legal claims, protect legal rights and to protect people from harm | This could include any information that is relevant to the issue | This information may be obtained directly from you, from your device or from third parties, depending on the information involved | Legitimate interests – it is in our legitimate interests to protect our legal rights, defend legal claims and to protect our Users and third parties from harm |
 
+### Processing we perform to improve services for students
+
+We process personal data to understand which of our users may be in college or university. To do this, we collect information regarding whether you have used the App somewhere in a broad geographic area around a university. We keep a simple “student yes/no” indication based on our findings. No other information is collected and nothing is shared outside Bumble. Please note that we do not record your precise location as part of this processing and we permanently erase the usage data shortly after collection. We’ll combine this information with other relevant information we hold for the following purposes: so we can send the right offers, events and features to the right users; to understand which Bumble events are popular with the student demographic and which aren’t working so well; and to improve the design of the App to meet the needs of students, based on the way they like to use the App. The legal basis for this processing is our legitimate interests. We have a legitimate interest in providing a more tailored app experience for student users and in optimising their chances of finding the right connections. Please note this processing only affects Bumble users located in the United States.
+
 3\. DISCLOSURE OF INFORMATION.
 ------------------------------
 
@@ -264,27 +268,19 @@ If you no longer want to link your Bumble account to your Instagram, Facebook or
 8\. INFORMATION FOR BFF MEMBERS.
 --------------------------------
 
-If you use BFF, you can populate your profile with certain information (like your beliefs and political leanings). You can provide this information as part of your profile, but there’s no obligation to do so.
+If you use BFF, you can populate your profile with information (like your beliefs and political leanings). You can provide this information as part of your profile, but there’s no obligation to do so.
 
-Our legal justifications for processing your personal data in BFF are listed below:
+You should assume that whatever information you share in BFF, including which Hives you’ve joined, can be seen by any BFF member. Please note BFF members will not be able to see chat discussions until they join the specific chat and when they join, they’ll see the full chat history.
 
-* The processing of your personal data is necessary in order to perform our contract with you and deliver certain BFF services and features you’ve requested. For example, in order to offer you certain features, we need to process your location and interests data to show you content and groups that are relevant to you.
-* We also rely on legitimate interests as a lawful basis to collect and process personal data in BFF. It is in our legitimate interests to facilitate networking opportunities in the Bumble app.
-* When you upload and choose to share sensitive information (such as sexuality, beliefs and political leanings), you are explicitly consenting to sharing that information with other members of BFF.
+### How we process personal data in BFF and our legal bases for processing
 
-### Using Your Information to Recommend Friends and Content
+We offer the opportunity in BFF to join Hives built around locations or topics. We’ll automatically recommend Hives you can join based on your location, activity, “my life” and “my interests” information.
 
-If you use BFF, we may use your activity, life and interests information to recommend friends and content.
+The processing of your location data is necessary in order to perform our contract with you and deliver the Hives service to you.
 
-In BFF, we provide opportunities to join groups built around locations or topics. We’ll automatically recommend groups you can join based on your location, activity, life and interests information.
+The processing of your profile and activity information in order to make Hive recommendations is based on our legitimate interests. It is in our legitimate interests to use this information to recommend relevant Hives to you.
 
-### Who Sees Your Content and Memberships
-
-### BFF Chat
-
-Certain BFF chat groups can be found by other members in nearby locations. For these discoverable chat groups, people nearby will be able to see the full members list, geographic location of the chat group, the title of the chat group and the chat group description. This means that people nearby may be able to discover sensitive information about you, such as information about your sexual orientation, health condition or political beliefs, depending on the nature and topic of the chat group. By joining these discoverable chat groups in BFF, you explicitly consent to our processing of such sensitive personal data about you and making it public to other Users.
-
-BFF members will not be able to see chat discussions until they join the specific chat and when they join, they’ll see the full message history.
+Please note that if you upload and choose to share sensitive information (such as sexuality and beliefs), you are explicitly consenting to sharing that information with other BFF members.
 
 ### Public Spaces
 
@@ -344,7 +340,7 @@ We want you to be able to access Bumble wherever you happen to be in the world. 
 
 We keep your personal information only as long as we need it for the legal basis relied upon (as set out in Section 2 above) and as permitted by applicable law. Please see “Profile Verification Information (Including Biometric Information)” in Section 1, above, to learn about our retention policy with respect to biometric information.
 
-When you delete your Account, or it is deactivated by us, we make sure it is no longer viewable in the App. For up to 28 days, it is still possible to restore your Account if it was accidentally deleted or wrongfully deactivated. After 28 days, we begin the process of deleting your personal information from our systems, unless:
+When your Account is deleted, we make sure it is no longer viewable in the App. For up to 28 days, it is still possible to restore your Account if it was accidentally deleted. After 28 days, we begin the process of deleting your personal information from our systems, unless:
 
 1. we must keep it to comply with applicable law (for instance, if you make purchases within the App, some personal data may be kept for tax and accounting purposes);
 2. we must keep it to evidence our compliance with applicable law (for example, if an account is blocked, we keep some account information and a record of the behaviour that led to the block - this information is retained for evidential purposes in case of queries or legal claims concerning the block);
@@ -362,4 +358,4 @@ As Bumble evolves, we may revise this Privacy Policy from time to time. The most
 
 ### Effective date
 
-This Privacy Policy was last updated 21 June 2022.
+This Privacy Policy was last updated 31st October 2022.
