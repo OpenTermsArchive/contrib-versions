@@ -189,7 +189,7 @@ Business
 * [### Google Domains](https://support.google.com/domains/?hl=en-GB)
 * [### Google Pay Merchant](https://support.google.com/pay/merchants/?hl=en-GB)
 * [### Google Cloud Platform Console](https://support.google.com/cloud/?hl=en-GB)
-* [### Cultural Institute Platform](https://support.google.com/culturalinstitute/partners/?hl=en-GB)
+* [### Google Arts & Culture Platform](https://support.google.com/culturalinstitute/partners/?hl=en-GB)
 * [### Android Enterprise](https://support.google.com/work/android/?hl=en-GB)
 * [### Cloud Search](https://support.google.com/cloudsearch/?hl=en-GB)
 * [### Google Marketing Platform](https://support.google.com/marketingplatform/?hl=en-GB)
