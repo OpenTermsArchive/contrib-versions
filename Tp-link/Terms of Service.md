@@ -107,36 +107,6 @@ Your use of the Services is subject to the following additional restrictions. Yo
 11. Decompiles, reverse engineers, or otherwise attempts to obtain the source code of the Services; or  
 12. Undertake any other activity which may adversely affect the operation or enjoyment of the Services by any other person, including placing malware on the Services.
 
-### **Service Levels**
-
-1\. TP-Link will strive to maintain the Platform so that it is operational and available to you at least 99.9% of the time in any calendar month (“Service Level”). If the Monthly Uptime Percentage for a particular calendar month does not meet the Service Level, and if you have met your obligations under this Agreement, then you will be eligible to receive “Service Day Credit” as follows.
-
-As used herein, the term “Monthly Uptime Percentage” means the total number of 5-minute increments in a calendar month minus the number of 5-minute increments of Downtime in a calendar month, divided by the total number of 5-minute increments in a calendar month; the term “Downtime” means the unavailability of the service to you due to a failure of TP-Link; and the term “Service Day Credit” means the number of days that TP-Link will add to the end of the Term during which you may access the Services without charge.
-
-2\. Restrictions. You may receive a maximum of 15 Service Day Credits for all downtime that occurs in a single calendar month. Service Day Credits may not be exchanged for, or converted into, monetary amounts.
-
-3\. Exceptions. As noted, Service Day Credits are available only for Downtime. The unavailability of TP-Link for any reason other than Downtime are not eligible for Service Day Credits, and TP-Link shall have no liability to you in the event of any such unavailability. The following are examples of events that do not constitute Downtime:
-
-(a)   any reason not attributable to TP-Link;
-
-(b)   network or equipment failure or configuration adjustment outside of TP-Link’s control (e.g., a general outage on the Internet);
-
-(c)   scheduled system maintenance, e.g., for dependent cloud server services, cloud data disk services, load balancing services, private network services, cloud monitoring services;
-
-(d)   non-scheduled system maintenance, e.g., cuttings, repairs, upgrades, and simulated fault rehearsals, for which you received notice;
-
-(e)   build failure or build congestion due to unconnected user code repositories, third-party open source repositories, third-party mirror repositories with which the build task is associated;
-
-(f)   attacks or other misconduct on your application interfaces or data;
-
-(g)   any reason attributable to you, e.g., security issue in your operations, your use or misuse of third-party software or equipment, your failure to follow TP-Link’s product usage documentation or usage recommendations; and
-
-(h)   unforeseen large volume traffic bursts attributable to you for which you has not notified TP-Link in advance in writing.
-
-4\. To receive a Service Day Credit, you must notify TP-Link within 7 days from the time you become eligible to receive the credit. Failure to comply with this requirement will waive your right to receive a Service Day Credit.
-
-Sole Remedy. This Section states your sole and exclusive remedy for any failure of TP-Link to meet the Service Level.
-
 ### **Content on the Services**
 
 “Content” is all of the information collected during your use of the Services. It includes information provided by you, by other users, by hardware devices connected to the Services, and by third-party devices and services connected to the Services. It also includes any information we provide into the Services, as well as information derived from or aggregated from any and all information provided to the Services.
@@ -209,7 +179,7 @@ We reserve the right at any time without liability to you to suspend, modify or 
 
 ### **Limitations of Services and Product Software**
 
-You acknowledge and agree that Services and Product Software are not intended to be 100% reliable or available 24 hours a day, 7 days a week. The Services/Product Software may be suspended temporarily without notice for security reasons, system failure, maintenance and repair, updates, or other circumstances. You agree that you will not be entitled to any refund or rebate for such suspensions. TP-Link does not offer any specific uptime guarantee for the Services/Product’ Software. The service takes effect upon your subscription, and cannot be unsubscribed under any circumstances.
+You acknowledge and agree that Services and Product Software are not intended to be 100% reliable or available 24 hours a day, 7 days a week. The Services/Product Software may be suspended temporarily without notice for security reasons, system failure, maintenance and repair, updates, or other circumstances. You agree that you will not be entitled to any refund or rebate for such suspensions. TP-Link does not offer any specific uptime guarantee for the Services/Product’ Software. 
 
 ### **Assignment**
 
