@@ -1,27 +1,52 @@
 Prohibited Content and Practices: Inappropriate Content
 =======================================================
 
-Ads must not display, facilitate, or promote inappropriate content. We take our advertising policies very seriously and aim to ensure that ads which run via our platform are appropriate, respectful to others, non-offensive, and safe for our customers and those that are served our ads. Ads which promote shocking, violent, or discriminatory content are not eligible to run. 
+Content on all websites advertising via AdRoll must be appropriate, respectful to others, non-offensive, and safe for our customers and those that are served our ads. Ads and landing pages that promote violent, shocking, or discriminatory content are not eligible to run. 
 
-Examples are outlined below of prohibited content and practices in relation to inappropriate content. 
+Examples of inappropriate content that may be prohibited are outlined below.
 
-Animal Cruelty 
----------------
+**How to Fix Disapproved Ads** 
+-------------------------------
 
-Ads should not contain any upsetting or shocking content against animals or promoting cruelty towards any animal. This includes: 
+If you received an email with any of the following advertising policy violations, please follow the recommended solutions listed below.
 
-Advocating towards animal cruelty for entertainment value, e.g., dog fighting 
+### Ad Creative Violations
 
-Any event which promotes cruelty towards animals
+**Inappropriate Content: Ad Creative**  
+**Violence and Shocking Content: Ad Creative**
 
-Selling or promoting products obtained from threatened species, e.g., elephant ivory
+1. **Read the policies listed below** to learn more about the types of inappropriate content and services that we do not allow on ad creatives.
+2. **Upload new ad creatives** that contain compliant content.  
+    * Make sure that your new ads are added to the campaign(s) that you want to launch. This will automatically trigger the new ads into **In Review**.
+3. **Dynamic ads** **are not permitted** for websites that contain inappropriate content or services. Please upload static banners that depict compliant content.  
+    * Make sure that your new static banner ads are added to the campaign(s) that you want to launch. This will automatically trigger the new ads into **In Review**.
+
+### Landing Page Violations
+
+**Inappropriate Content: Landing Page**  
+**Violence and Shocking Content: Landing Page**
+
+1. **Read the policies listed below** to learn about the types of inappropriate content and services that we do not allow on landing pages.
+2. **Remove non-compliant content** from the landing page that you wish to use as your destination URL.
+    * Reach out to the [AdRoll Customer Support](https://help.adroll.com/hc/en-us/requests/new) team once the updates to your landing page have been made to request a re-review.
+3. If you’re not able to remove non-compliant content, **change your destination URL** to drive your target audience to landing pages with compliant content.  
+    * Once you update your destination URL, your ads will automatically trigger into **In Review**.
+
+Animal Cruelty
+--------------
+
+Advocating towards animal cruelty for entertainment value, (e.g., dog fighting) 
+
+Any event which promotes cruelty toward animals
+
+Selling or promoting products obtained from threatened species, (e.g., elephant ivory)
 
 Blogs or forums offering information on how to obtain products from threatened species 
 
 Discriminatory Practices
 ------------------------
 
-NextRoll will not approve any ads that support or encourage discrimination of any kind. Any treatment of a person, group, or concept as insignificant or peripheral or ads that promote marginalization are not eligible to run. Discrimination against an individual or group based on the below is strictly prohibited: 
+AdRoll will not approve any websites that support or encourage discrimination or hateful content of any kind. Content that promotes mistreatment, intolerance, or disparaging of a person, group, or concept is strictly prohibited. Examples include, but are not limited to discrimination on the basis of:
 
 Racial or ethnic origin
 
@@ -53,9 +78,9 @@ Content that intimidates another individual or group of individuals  
 
 Content that threatens harm or exploitation to others 
 
-Content that supports harming oneself or exploitation others
+Content that supports harming oneself or exploitation of others
 
-Content promoting any type of self-harm, such as: suicide or anorexia
+Content promoting any type of self-harm, such as suicide or anorexia
 
  Content that promotes violence against another individual or group of individuals
 
@@ -64,42 +89,36 @@ Content that promotes blackmail
 Sensitive Events
 ----------------
 
-Ads should not contain shocking content in relation to sensitive events that may have occurred. The below types of content is prohibited: 
-
 Lacking remorse or sensitivity towards a shocking or tragic event
 
-  Lacking remorse or sensitivity towards a natural disaster
+  Lacking remorse or sensitivity toward a natural disaster
 
 Lacking remorse or sensitivity towards a death
 
  Trying to profit or gain from a shocking event with no distinguishable advantage to the victims
 
-Shocking Content
-----------------
+Violence and Shocking Content
+-----------------------------
 
-Ads should not contain shocking, excessively violent, or sensational content. Any ads with imagery that may shock or scare an individual is prohibited. This includes ads and themes related to: 
+Gory content, (e.g., a car crash)
 
-Gory Content , e.g., a car crash
+Sensational content
 
-Sensational Content
-
-Violence, e.g., an ad with a gun pointed at the user
-
-Threats of Violence
+Violence, (e.g., an ad with a gun pointed at the user)
 
 Violent or offensive language
 
 Variations and misspellings of offensive language
 
-Physical Trauma
+Physical trauma
 
-Crime Scene or Accident Photos
+Crime scene or accident photos
 
-Imagery of needles or injections 
+Images of needles or injections 
 
 Excessive use of blood
 
-Human or Animal Waste
+Human or animal waste
 
 Content that suggests an individual may be at risk of harm or in danger
 
