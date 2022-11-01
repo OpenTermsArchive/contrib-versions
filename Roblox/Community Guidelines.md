@@ -254,7 +254,6 @@ Roblox aims to build a community that’s transparent about its rules and how th
     You can place ads in your experience in the form of 3d assets, static images, or videos, as long as you directly upload the ad assets (‘direct upload ads’) and follow the rules outlined below. Roblox will determine, at its sole discretion, whether advertising or brand placement meets these requirements and we may reject ads whose content harms our relationship with our community or compromises our competitive interests (e.g., gaming platforms and development tools). If your ad violates these rules, we may remove the content or suspend your experience, or require you to remove the content, at any time and without notice.
     * Developers who place advertisements in their experiences remain responsible for all advertising content; ads must follow the Community Rules, the Terms of Use and all other Roblox rules.
     * You may not relinquish control of the ad serving logic in your experience, including by using third party ad servers.
-    * Ads may not contain content intended for users under the age of 13.
     * Ads must comply with the Children's Online Privacy Protection Act (“COPPA”), Children’s Advertising Review Unit (“CARU”) and Children’s Food and Beverage Advertising Initiative (“CFBAI”) guidelines, and all other applicable local laws and regulations.
     * Ads cannot falsely represent the content being advertised to encourage user engagement (e.g., offer free Robux).
     * Developers may only share aggregated user information with third party advertisers.  
@@ -316,6 +315,6 @@ To maintain a safe metaverse, Roblox does **not** permit:
 
 See the [Roblox Terms of Use](https://en.help.roblox.com/hc/en-us/articles/115004647846) for more information.
 
-**Last Updated**: October 19, 2022
+**Last Updated**: October 31, 2022
 
 [Return to top](#article-container)
