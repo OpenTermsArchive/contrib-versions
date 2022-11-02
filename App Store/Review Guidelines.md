@@ -43,7 +43,7 @@ Make sure you:
 * [iOS Data Storage Guidelines](https://developer.apple.com/icloud/documentation/data-storage/)
 * [Apple File System](https://developer.apple.com/documentation/foundation/file_system/about_apple_file_system)
 * [App Store Connect Help](https://help.apple.com/app-store-connect/)
-* [Developer Account Help](https://help.apple.com/developer-account/)
+* [Developer Account Help](https://developer.apple.com/help/account/)
 
 **Design Guidelines**
 
