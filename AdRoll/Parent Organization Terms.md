@@ -421,31 +421,3 @@ With an email copy to: [legalnotices@nextroll.com](mailto:legalnotices@nextroll.
 Notices to Customer will be sent to the email address on file and/or posted through the Services and are deemed effective when sent or posted.
 
 * * *
-
-|     |     |
-| --- | --- |
-| ### SERVICES ADDENDA | [Back to top](#terms-index) |
-
-**THE FOLLOWING ADDITIONAL TERMS AND CONDITIONS WILL APPLY TO THE SERVICES, AS APPLICABLE:**
-
-#### AdRoll Services
-
-[View AdRoll Email Services Addendum](https://www.nextroll.com/terms/email)
-
-#### RollWorks Services
-
-[View RollWorks Account-Based Marketing (ABM) Services Addendum](https://www.nextroll.com/terms/abm)
-
-[View RollWorks Contact Data Services Addendum](https://www.nextroll.com/terms/contact-data)
-
-[View RollWorks Sales Automation Services Addendum](https://www.nextroll.com/terms/sales-automation)
-
-#### NextRoll Services (Applies to AdRoll and RollWorks)
-
-[View NextRoll Media Services Addendum](https://www.nextroll.com/terms/media-services)
-
-#### NextRoll Data Privacy
-
-[View NextRoll Data Protection Addendum](https://www.nextroll.com/terms/data-protection)
-
-[View NextRoll CCPA Service Provider Addendum](https://www.nextroll.com/terms/ccpa-service-provider)
