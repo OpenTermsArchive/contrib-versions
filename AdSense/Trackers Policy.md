@@ -24,7 +24,7 @@ See more detail about the [types of cookies used by Google](https://policies.goo
 
 ### How you can control advertising cookies
 
-You can use [Ads Settings](https://adssettings.google.com/) to manage the Google ads you see and opt out of Ads Personalization. Even if you opt out of Ads Personalization, you may still see ads based on factors such as your general location derived from your IP address, your browser type, and your search terms.
+You can use [ad settings](https://myadcenter.google.com/?ref=privacy-policy) to manage the Google ads you see and turn off personalized ads. Even if you turn off personalized ads, you may still see ads based on factors such as your general location derived from your IP address, your browser type, and your search terms.
 
 You can also manage many companies’ cookies used for online advertising via the consumer choice tools created under self-regulation programs in many countries, such as the US-based [aboutads.info choices](https://www.aboutads.info/choices/) page or the EU-based [Your Online Choices](https://www.youronlinechoices.com/uk/your-ad-choices).
 
