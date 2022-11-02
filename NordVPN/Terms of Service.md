@@ -1,19 +1,3 @@
-Noscript Error
-
-JavaScript is disabled
-
-* * *
-
-It looks like you have JavaScript disabled, or are using a browser extension which limits JavaScript. This website relies on JavaScript in order to display correctly and properly function.
-
-  
-
-Please either **enable JavaScript**, or disable any extensions or plugins that interfere with JavaScript and try again.
-
-* * *
-
-[![Nord Account logo](https://s1.nordcdn.com/nordvpn/media/1.1696.0/images/account/global/logos/horizontal/nordaccount.svg)](https://my.nordaccount.com/dashboard/)
-
 General Terms of Service
 ========================
 
@@ -197,9 +181,3 @@ Last updated: October 20, 2022
     
     1. If you have questions regarding the Terms, please contact us at [support@nordaccount.com](mailto:support@nordaccount.com).
     2. For the contact regarding allegations of abuse, please see the Service Specific Terms of each of our Services.
-
-© 2022 Nord Security. All Rights Reserved.[support@nordaccount.com](mailto:support@nordaccount.com)[Terms of Service](https://my.nordaccount.com/legal/terms-of-service/)
-
-English
-
-EnglishFrançaisDeutschPortuguêsPortuguês BrasileiroEspañolPolskiItaliano
