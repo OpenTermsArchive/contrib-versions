@@ -4,7 +4,7 @@ Welcome! This is where you can learn about Criteo, the technologies and services
 
 #### Our activity
 
-Criteo helps brands, e-commerce sites and other advertisers (“Advertisers”) promote their products and services. We do that by enabling Advertisers to tailor their campaigns and/or offers to audiences that they want to reach with content that they wish to promote, which in turns means that you may receive advertising that may be of interest to you on the websites, mobile applications and other platforms of our partners (the “Publishers”).
+Criteo helps brands, e-commerce sites and other advertisers (“Advertisers”) promote their products and services. We do that by enabling Advertisers to tailor their campaigns and/or offers to audiences that they want to reach with content that they wish to promote, which in turns means that you may receive advertising that may be of interest to you on the websites, mobile applications and other platforms of our partners (the “Publishers” or “Partners”).
 
 #### How do our services work?
 
@@ -86,7 +86,7 @@ Criteo's commitments
 Our ads do not require:
 
 * To collect data that allows us to identify you directly, such as your first and last name, your postal address, or your email address in plain text.
-* To collect sensitive information (such as religion, political opinion, health or sexual orientation …) to create segments or target ads to users. For the sole purpose of serving ads on a publisher’s properties that could possibly reveal sensitive information (eg. a medical website), we may collect the URL of the website or the name of the mobile application.
+* To collect sensitive information (such as religion, political opinion, health or sexual orientation …) to create segments or target ads to users. For the sole purpose of serving ads on a Publisher’s properties that could possibly reveal sensitive information (eg. a medical website), we may collect the URL of the website or the name of the mobile application.
 * To collect irrevocable identifiers, such as the hardware identifiers of the devices you use (UDID or MAC address, etc.).
 * To collect data related to your precise geolocation in real time.
 
