@@ -1,10 +1,6 @@
 Privacy Notice
 ==============
 
-Versions:
-
-October 10, 2022 (current)August 16, 2021July 1, 2021November 2, 2020August 6, 2020July 7, 2020November 20, 2019September 26, 2019January 2, 2019April 11, 2018September 12, 2016April 7, 2016July 8, 2015January 1, 2015December 10, 2014October 29, 2013February 5, 2013March 28, 2012June 27, 2011SurveyMonkey Apply-FluidReview Privacy Policy (archived)TechValidate Privacy Policy (archived)Wufoo Privacy Statement (archived)
-
 LAST UPDATED: October 10, 2022
 
 US residents: Please visit our [Region Specific Privacy Notice](https://www.surveymonkey.com/mp/legal/region-specific-privacy-statement/) for more information on our privacy practices.
@@ -579,35 +575,3 @@ ALTHOUGH THIS NOTICE APPLIES TO ALL OUR SERVICES, IF YOU ARE USING THE BELOW SER
 [GETFEEDBACK DIRECT](https://www.surveymonkey.com/mp/legal/privacy-information-specific-to-other-services?ut_source=legal&ut_source2=privacy&ut_source3=inline)
 
 [SURVEYMONKEY AUDIENCE - CONTRIBUTE / REWARDS (IN-HOUSE PANEL)](https://www.surveymonkey.com/mp/legal/privacy-information-specific-to-other-services?ut_source=legal&ut_source2=privacy&ut_source3=inline)
-
-[#### Community:](https://www.facebook.com/surveymonkey/)
-
-[Developers](https://developer.surveymonkey.com/?ut_source=legal&ut_source2=privacy)[Facebook](https://www.facebook.com/surveymonkey/)[Twitter](https://twitter.com/SurveyMonkey)[Linkedin](https://www.linkedin.com/company/surveymonkey/)[Our Blog](https://www.surveymonkey.com/curiosity/)[Instagram](https://www.instagram.com/surveymonkey/)[Youtube](https://www.youtube.com/surveymonkey)
-
-[#### About Us:](https://www.momentive.ai/en/about/?utm_source=surveymonkeyfooter)
-
-[Leadership Team](https://www.momentive.ai/en/about/leadership/?utm_source=surveymonkeyfooter)[Board of Directors](https://www.momentive.ai/en/about/directors/?utm_source=surveymonkeyfooter)[Investor Relations](https://investor.momentive.ai/home/default.aspx?utm_source=surveymonkeyfooter)[App Directory](https://www.surveymonkey.com/apps/?ut_source=legal&ut_source2=privacy)[Newsroom](https://www.momentive.ai/en/newsroom/)[Office Locations](https://www.surveymonkey.com/mp/aboutus/office-locations/)[Imprint](https://www.surveymonkey.com/mp/imprint/)[Careers](https://www.momentive.ai/en/careers/)[Sitemap](https://www.surveymonkey.com/mp/sitemap/)[Help](https://help.surveymonkey.com/en/)
-
-[#### Policies:](https://www.surveymonkey.com/mp/legal/)
-
-[Terms of Use](https://www.surveymonkey.com/mp/legal/terms-of-use/)[Privacy Notice](https://www.surveymonkey.com/mp/legal/privacy/)[California Privacy Notice](https://www.surveymonkey.com/mp/legal/region-specific-privacy-statement/)[Acceptable Uses Policy](https://www.surveymonkey.com/mp/legal/acceptable-uses-policy/)[Security Statement](https://www.surveymonkey.com/mp/legal/security/)[GDPR Compliance](https://www.surveymonkey.com/mp/privacy/)[Email Opt-In](https://www.surveymonkey.com/user/email-opt-in/?ut_source=legal&ut_source2=privacy)[Accessibility](https://help.surveymonkey.com/en/create/accessibility/)[Cookies Notice](https://www.surveymonkey.com/mp/legal/cookies/)
-
-[#### Use Cases:](https://www.surveymonkey.com/?ut_source=legal&ut_source2=privacy)
-
-[Online Polls](https://www.surveymonkey.com/mp/online-polls/)[Facebook Surveys](https://www.surveymonkey.com/mp/facebook/)[Survey Template](https://www.surveymonkey.com/mp/survey-templates/)[Scheduling Polls](https://www.surveymonkey.com/mp/online-schedule-poll/)[Google Forms vs. SurveyMonkey](https://www.surveymonkey.com/mp/surveymonkey-better-than-google-forms/)[Employee Satisfaction Surveys](https://www.surveymonkey.com/mp/employee-satisfaction-surveys/)[Free Survey Templates](https://www.surveymonkey.com/mp/free-survey-templates/)[Mobile Surveys](https://www.surveymonkey.com/mp/mobile-surveys/)[How to Improve Customer Service](https://www.surveymonkey.com/mp/6-keys-improving-teams-customer-service-skills/)[AB Test Significance Calculator](https://www.surveymonkey.com/mp/ab-testing-significance-calculator/)[NPS Calculator](https://www.surveymonkey.com/mp/nps-calculator/)[Questionnaire Templates](https://www.surveymonkey.com/mp/sample-survey-questionnaire-templates/)[Event Survey](https://www.surveymonkey.com/mp/post-event-survey-questions/)
-
-[Sample Size Calculator](https://www.surveymonkey.com/mp/sample-size-calculator/)[Writing Good Surveys](https://www.surveymonkey.com/mp/writing-survey-questions/)[Likert Scale](https://www.surveymonkey.com/mp/likert-scale/)[Survey Analysis](https://www.surveymonkey.com/mp/how-to-analyze-survey-data/)[360 Degree Feedback](https://www.surveymonkey.com/mp/360-employee-feedback-survey-example/)[Education Surveys](https://www.surveymonkey.com/mp/education-surveys/)[Survey Questions](https://www.surveymonkey.com/mp/survey-question-types/)[NPS Calculation](https://www.surveymonkey.com/mp/net-promoter-score-calculation/)[Customer Satisfaction Survey Questions](https://www.surveymonkey.com/mp/customer-satisfaction-survey-questions/)[Agree Disagree Questions](https://www.surveymonkey.com/mp/2-tips-for-writing-agree-disagree-survey-questions/)[Create a Survey](https://www.surveymonkey.com/mp/how-to-create-surveys/)
-
-[Online Quizzes](https://www.surveymonkey.com/mp/quiz/)[Qualitative vs Quantitative Research](https://www.surveymonkey.com/mp/quantitative-vs-qualitative-research/)[Customer Survey](https://www.surveymonkey.com/mp/customer-satisfaction-surveys/)[Market Research Surveys](https://www.surveymonkey.com/mp/market-research-surveys/)[NPS Survey](https://www.surveymonkey.com/mp/net-promoter-score/)[Survey Design Best Practices](https://www.surveymonkey.com/mp/survey-guidelines/)[Margin of Error Calculator](https://www.surveymonkey.com/mp/margin-of-error-calculator/)[Questionnaire](https://www.surveymonkey.com/mp/online-questionnaires/)[Demographic Questions](https://www.surveymonkey.com/mp/gathering-demographic-information-from-surveys/)[Training Survey](https://www.surveymonkey.com/mp/training-survey/)[Offline Survey](https://www.surveymonkey.com/mp/offline-surveys/)[360 Review Template](https://www.surveymonkey.com/templates/360-degree-employee-evaluation-survey-template/)
-
-* * *
-
-English
-
-SurveyMonkey is brought to you by [momentive.ai](https://www.momentive.ai/en/?utm_source=surveymonkeyfooter). Shape what's next with AI‑driven insights and experience management solutions built for the pace of modern business.
-
-Copyright © 1999-2022 Momentive
-
-[BBB credentials logo](https://www.bbb.org/us/ca/san-mateo/profile/market-survey/surveymonkey-1116-876628)
-
-[TrustedSite logo](https://www.trustedsite.com/verify?host=www.surveymonkey.com)
