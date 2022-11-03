@@ -58,7 +58,7 @@ Once approved, you may use our logos on your website and in connection with your
   
 **Logos for Use by Partners**  
   
-If you have a current agreement with LinkedIn, other than a license to LinkedIn’s APIs, you must request permission to use our logos pursuant to the terms of the agreement. Please contact us at [trademark@linkedin.com](mailto:trademark@linkedin.com) with your request.  
+If you have a current agreement with LinkedIn, other than a license to LinkedIn’s APIs, you must request permission to use our logos pursuant to the terms of the agreement. Please contact us at the email address provided in your agreement.  
   
 Once approved, you may use our logos in accordance with the terms of your agreement with LinkedIn and these Guidelines.  
   
