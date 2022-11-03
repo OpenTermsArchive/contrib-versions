@@ -478,7 +478,7 @@ The following links highlight useful resources for you to learn more about our p
 * [Privacy Checkup](https://myaccount.google.com/privacycheckup?utm_source=pp&utm_medium=Promo-in-product&utm_campaign=pp_body) guides you through key privacy settings for your Google Account
 * [Google’s safety center](https://www.google.com/intl/en/safetycenter/) helps you learn more about our built-in security, privacy controls, and tools to help set digital ground rules for your family online
 * [Google’s Teen Privacy Guide](https://www.google.com/policies/privacy/teens/) provides answers to some of the top questions we get asked about privacy
-* [Privacy & Terms](https://policies.google.com/) provides more context regarding this Privacy Policy and our Terms of Service
+* Privacy & Terms provides more context regarding this Privacy Policy and our Terms of Service
 * [Technologies](https://policies.google.com/technologies) includes more information about:
     * [How Google uses cookies](https://policies.google.com/technologies/cookies)
     * Technologies used for [Advertising](https://policies.google.com/technologies/ads)
