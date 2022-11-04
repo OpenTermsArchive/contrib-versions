@@ -5,7 +5,7 @@ The Facebook Payments service (“Facebook Payments”) helps developers who wis
 
 The Facebook Platform Policy has been updated and incorporated into the new Facebook Platform Terms and Developer Policies, effective August 31, 2020. [Learn More](https://developers.facebook.com/blog/post/2020/07/01/platform-terms-developer-policies/)
 
-_Date of Last Revision: April 15, 2021_
+_Date of Last Revision: November 4, 2022_
 
 To enhance the quality, convenience, and security of the user experience on Facebook, these Facebook Developer Payments Terms (the “Terms”) apply to all developers of apps using Facebook Payments. We have provided section headers for your convenience, but you should carefully read though these Terms in order to understand your rights and responsibilities, as well as ours.
 
@@ -18,12 +18,12 @@ This agreement was written in English (US). To the extent any translated version
     1. Eligibility . We may approve or deny your request to integrate Facebook Payments at our sole discretion. You must be eighteen (18) years of age or older to integrate Facebook Payments in your app; in addition, you may not be listed as an administrator for a Payments-enabled app if you are under the age of sixteen (16). We may also revoke your eligibility to continue utilizing Facebook Payments at any time at our sole discretion.
     2. Roles of parties
         1. You accept responsibility for fulfilling each transaction pursuant to the terms you offer. Facebook is not involved in any underlying transaction between or among developers and users except as noted in Section 3.9 of these Terms.
-        2. You appoint Facebook Payments Inc. (“FBP”) as your limited payment collection agent for the sole purpose of accepting payment on your behalf from users for content you offer on Facebook and, depending on the region, applicable taxes and fees.  
+        2. You appoint Meta Payments Inc. (“MPY”) as your limited payment collection agent for the sole purpose of accepting payment on your behalf from users for content you offer on Facebook and, depending on the region, applicable taxes and fees.  
               
             You agree that:  
-            1. Payment made by a user to FBP constitutes payment made directly to you and fully satisfies the user’s obligation to you for that payment, and you must fulfill your obligations to the user as if you had received the payment directly from the user;
-            2. FBP is responsible for remitting to you any payments received from users on your behalf, less any amounts payable to FBP or any of its affiliates pursuant to these Terms; and
-            3. If FBP does not remit any amounts received from users on your behalf which are due to you in accordance with these Terms, you will only have recourse against FBP.
+            1. Payment made by a user to MPY constitutes payment made directly to you and fully satisfies the user’s obligation to you for that payment, and you must fulfill your obligations to the user as if you had received the payment directly from the user;
+            2. MPY is responsible for remitting to you any payments received from users on your behalf, less any amounts payable to MPY or any of its affiliates pursuant to these Terms; and
+            3. If MPY does not remit any amounts received from users on your behalf which are due to you in accordance with these Terms, you will only have recourse against MPY.
     3. Pricing . Price-setting in apps is governed by the following rules:
         1. You may price items for sale in your own local currency where such pricing is supported.
         2. You may not price an item differently based on a user’s electronic value Balance.
@@ -88,8 +88,8 @@ This agreement was written in English (US). To the extent any translated version
     7. Notice to us . Except as otherwise stated, you must send notices to us relating to Facebook Payments and these Terms by postal mail to: Facebook, Attn: Legal Department, 1601 Willow Avenue, Menlo Park, California, 94025.
     8. “Us” . The following are the entities to which “us,” “we,” “our,” or “Facebook” refer:
         
-        1. If you are a resident of or have your principal place of business in the U.S. or Canada, these Terms are between you and Facebook Payments Inc., a Florida corporation.
-        2. If you are a resident of or have your principal place of business in a country other than the U.S. or Canada, these Terms are between you and Facebook Payments International Ltd., a private limited company in the Republic of Ireland. However, all transactions funded with a user’s electronic value Balance are processed by Facebook Payments Inc., a Florida corporation.
+        1. If you are a resident of or have your principal place of business in the U.S. or Canada, these Terms are between you and Meta Payments Inc., a Florida corporation.
+        2. If you are a resident of or have your principal place of business in a country other than the U.S. or Canada, these Terms are between you and Facebook Payments International Ltd., a private limited company in the Republic of Ireland. However, all transactions funded with a user’s electronic value Balance are processed by Meta Payments Inc., a Florida corporation.
         
           
         
@@ -101,7 +101,7 @@ The Facebook Payments service (“Facebook Payments”) helps developers who wis
 
 The Facebook Platform Policy has been updated and incorporated into the new Facebook Platform Terms and Developer Policies, effective August 31, 2020. [Learn More](https://developers.facebook.com/blog/post/2020/07/01/platform-terms-developer-policies/)
 
-_Date of Last Revision: April 15, 2021_
+_Date of Last Revision: November 4, 2022_
 
 To enhance the quality, convenience, and security of the user experience on Facebook, these Facebook Developer Payments Terms (the “Terms”) apply to all developers of apps using Facebook Payments. We have provided section headers for your convenience, but you should carefully read though these Terms in order to understand your rights and responsibilities, as well as ours.
 
@@ -114,12 +114,12 @@ This agreement was written in English (US). To the extent any translated version
     1. Eligibility . We may approve or deny your request to integrate Facebook Payments at our sole discretion. You must be eighteen (18) years of age or older to integrate Facebook Payments in your app; in addition, you may not be listed as an administrator for a Payments-enabled app if you are under the age of sixteen (16). We may also revoke your eligibility to continue utilizing Facebook Payments at any time at our sole discretion.
     2. Roles of parties
         1. You accept responsibility for fulfilling each transaction pursuant to the terms you offer. Facebook is not involved in any underlying transaction between or among developers and users except as noted in Section 3.9 of these Terms.
-        2. You appoint Facebook Payments Inc. (“FBP”) as your limited payment collection agent for the sole purpose of accepting payment on your behalf from users for content you offer on Facebook and, depending on the region, applicable taxes and fees.  
+        2. You appoint Meta Payments Inc. (“MPY”) as your limited payment collection agent for the sole purpose of accepting payment on your behalf from users for content you offer on Facebook and, depending on the region, applicable taxes and fees.  
               
             You agree that:  
-            1. Payment made by a user to FBP constitutes payment made directly to you and fully satisfies the user’s obligation to you for that payment, and you must fulfill your obligations to the user as if you had received the payment directly from the user;
-            2. FBP is responsible for remitting to you any payments received from users on your behalf, less any amounts payable to FBP or any of its affiliates pursuant to these Terms; and
-            3. If FBP does not remit any amounts received from users on your behalf which are due to you in accordance with these Terms, you will only have recourse against FBP.
+            1. Payment made by a user to MPY constitutes payment made directly to you and fully satisfies the user’s obligation to you for that payment, and you must fulfill your obligations to the user as if you had received the payment directly from the user;
+            2. MPY is responsible for remitting to you any payments received from users on your behalf, less any amounts payable to MPY or any of its affiliates pursuant to these Terms; and
+            3. If MPY does not remit any amounts received from users on your behalf which are due to you in accordance with these Terms, you will only have recourse against MPY.
     3. Pricing . Price-setting in apps is governed by the following rules:
         1. You may price items for sale in your own local currency where such pricing is supported.
         2. You may not price an item differently based on a user’s electronic value Balance.
@@ -184,5 +184,5 @@ This agreement was written in English (US). To the extent any translated version
     7. Notice to us . Except as otherwise stated, you must send notices to us relating to Facebook Payments and these Terms by postal mail to: Facebook, Attn: Legal Department, 1601 Willow Avenue, Menlo Park, California, 94025.
     8. “Us” . The following are the entities to which “us,” “we,” “our,” or “Facebook” refer:
         
-        1. If you are a resident of or have your principal place of business in the U.S. or Canada, these Terms are between you and Facebook Payments Inc., a Florida corporation.
-        2. If you are a resident of or have your principal place of business in a country other than the U.S. or Canada, these Terms are between you and Facebook Payments International Ltd., a private limited company in the Republic of Ireland. However, all transactions funded with a user’s electronic value Balance are processed by Facebook Payments Inc., a Florida corporation.
+        1. If you are a resident of or have your principal place of business in the U.S. or Canada, these Terms are between you and Meta Payments Inc., a Florida corporation.
+        2. If you are a resident of or have your principal place of business in a country other than the U.S. or Canada, these Terms are between you and Facebook Payments International Ltd., a private limited company in the Republic of Ireland. However, all transactions funded with a user’s electronic value Balance are processed by Meta Payments Inc., a Florida corporation.
