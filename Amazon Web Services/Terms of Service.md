@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-#### Last Updated: October 28, 2022
+#### Last Updated: November 4, 2022
 
 #### 1\. Universal Service Terms (Applicable to All Services)
 
@@ -281,6 +281,8 @@ Your failure to maintain your database instance within the support perimeter (as
 * Transmit any material that contains viruses, Trojan horses, worms, or any other malicious or harmful programs.
 * Offer or purport to offer any Emergency Services. “Emergency Services” means services that allow a user to connect with emergency services personnel or public safety answering points, such as 911 or E911 services.  
     
+* If the applicable AWS Contracting Party is AISPL, “Emergency Services” shall mean services that allow a user to connect with emergency services personnel or public safety answering points, such as 100, 112 services.  
+    
 * Materially violate or facilitate the material violation of any local or foreign law, rule, regulation, or order, including laws regarding the transmission of data or software.
 * Transmit material that is sexually explicit, relates to “adult services”, or contains sensitive financial or identifying information (such as social security numbers)
 * Resell, sublicense, or timeshare the Services, or use them on behalf of anonymous or other third parties.  
@@ -288,6 +290,13 @@ Your failure to maintain your database instance within the support perimeter (as
 * Use the Services in hazardous environments (such as operation of nuclear facilities, aircraft navigation, or any other use that may result in foreseeable risk of injury, death, or destruction of property).
 
 **11.7**.  From time to time, telecommunication providers may change or modify their rules, requirements, and policies (collectively “Carrier Policies”). We will make reasonable efforts to notify you of changes to Carrier Policies through, for example, email, Personal Health Dashboard notifications, or technical documentation. You are responsible for complying with all Carrier Policies that apply to your use of the Service.
+
+**11.8.** If the applicable AWS Contracting Party is AISPL, you must obtain our prior written consent before using Amazon SNS to send SMS messages for:  
+
+* financial transactions or payment services (e.g., mobile banking, bill presentment, bill payment, money transfer, peer-to-peer payment or lending credit, debit or stored value payment services);
+* sweepstakes or contests; or
+* advertisements or promotions for commercial products, goods, or services.   
+    
 
 #### 12\. AWS Identity and Access Management (IAM)
 
@@ -368,6 +377,12 @@ The Amazon DynamoDB Reserved Capacity program allows you to purchase reserved th
 **20.4.** Professional services offered on AWS Marketplace by third parties are subject to separate terms and conditions specified by the respective third party. AWS has no control over and makes no guarantees about such services. 
 
 **20.5.** If you are a buyer on AWS Marketplace, you are responsible for collecting tax documentation, withholding as required, and filing all tax forms with your applicable tax authorities for your AWS Marketplace transactions. If you are a buyer making a payment of U.S. source services or royalty income to a non-U.S. third party provider, all such collection, withholding, and filing obligations are yours as we do not act as a Withholding Agent as defined by U.S. Treas. Reg. 1.1441-7(a).  
+
+**20.6.** If the applicable AWS Contracting Party is AISPL, parties agree that this Section 20.6 will be applicable:   
+
+**20.6.1.** If you have provided your Goods and Services Tax (GST) registration number to us so that it can be applied to your purchases, then the information you provide with your registration (including your GST registration number and the name and address associated with your GST registration) will be shared with third parties from whom you have purchased software on the AWS Marketplace to the extent necessary for those third parties to comply with GST invoicing regulations and requirements.   
+
+**20.6.2.** The purchase fees and charges payable by you will be exclusive of all applicable Taxes, and will be made free and clear of any deduction or withholding, as may be required by law. For clarity, if any such deduction or withholding (including but not limited to cross-border withholding taxes) is required on any payment, you will pay such additional amount, as necessary, to ensure that the net amount received by AWS or its affiliates is equal to the amount then due and payable by you for your purchases on the AWS Marketplace. AWS or its affiliates will provide you with such tax forms, as are reasonably requested, in order to reduce or eliminate the amount of any withholding or deduction for taxes, in respect of the payments made by you for purchases on the AWS Marketplace. AWS or its affiliates may charge, and you will pay, all applicable Taxes that it or we are legally obligated or authorized to collect from you. AWS or its affiliates will not collect, and you will not pay, any Taxes for which you furnish us a properly completed exemption certificate, or a direct payment permit certificate, for which AWS or its affiliates may claim an available exemption from such Taxes.  
 
 ### 21\. AWS Ground Station
 
@@ -500,6 +515,10 @@ We may delete, upon 30 days’ notice to you, any of Your Content uploaded to AW
 **33.1.** Except to the extent Content made available through AWS Marketplace for Desktop Apps is provided to you under a separate license that expressly states otherwise, neither you nor any End User may, or may attempt to, (a) modify, alter, tamper with, repair, or otherwise create derivative works of any Content, (b) reverse engineer, disassemble, or decompile the Content or apply any other process or procedure to derive the source code of any software included in the Content, (c) resell or sublicense the Content, (d) transfer Content outside the Services without specific authorization to do so, or (e) tamper with or circumvent any controls or make unauthorized copies of the Content.
 
 **33.2.** AWS may stop providing AWS Marketplace for Desktop Apps (or any features of or listings within AWS Marketplace for Desktop Apps), without prior notice to you. In addition, AWS may disable or remove Content you have purchased on AWS Marketplace for Desktop Apps, if AWS determines that the Content may violate any Policies or any other regulations, policies, or laws.  
+
+**33.3.** If the applicable AWS Contracting Party is AISPL, parties agree that this Section 33.3 will be applicable:   
+
+You have provided your GST registration number to us so that it can be applied to your purchases, then the information you provide with your registration (including your GST registration number and the name and address associated with your GST registration) will be shared with third parties from whom you have purchased software on the AWS Marketplace for Desktop Apps to the extent necessary for those third parties to comply with GST invoicing regulations and requirements.33.3.2. You will be responsible for identifying and paying all applicable taxes, governmental fees, and charges (including any penalties, interest, and other additions) that may be imposed on you with respect to the purchases you make on the AWS Marketplace for Desktop Apps. The purchase fees and charges payable by you will be exclusive of all applicable Taxes, and will be made free and clear of any deduction or withholding, as may be required by law. For clarity, if any such deduction or withholding (including but not limited to cross-border withholding taxes) is required on any payment, you will pay such additional amount, as necessary, to ensure that the net amount received by AWS or its affiliates is equal to the amount then due and payable by you for your purchases on the AWS Marketplace. AWS or its affiliates will provide you with such tax forms, as are reasonably requested, in order to reduce or eliminate the amount of any withholding or deduction for taxes, in respect of the payments made by you for purchases on the AWS Marketplace. AWS or its affiliates may charge, and you will pay, all applicable Taxes that it or we are legally obligated or authorized to collect from you. AWS or its affiliates will not collect, and you will not pay, any Taxes for which you furnish us a properly completed exemption certificate, or a direct payment permit certificate, for which AWS or its affiliates may claim an available exemption from such Taxes.  
 
 #### 34\. AWS Directory Service
 
