@@ -10,13 +10,13 @@ Your Privacy Matters
 
 LinkedIn’s mission is to connect the world’s professionals to allow them to be more productive and successful. Central to this mission is our commitment to be transparent about the data we collect about you, how it is used and with whom it is shared.
 
-This Privacy Policy applies when you use our Services (described below). We offer our users [choices](#key-terms-intro) about the data we collect, use and share as described in this Privacy Policy, [Cookie Policy](https://www.linkedin.com/legal/cookie-policy), Settings and our [Help Center.](https://www.linkedin.com/help/linkedin)
+This Privacy Policy applies when you use our Services (described below). We offer our users [choices](#key-terms-intro) about the data we collect, use and share as described in this Privacy Policy, [Cookie Policy](https://www.linkedin.com/legal/cookie-policy), Settings and our [Help Center.](https://www.linkedin.com/help/linkedin?trk=microsites-frontend_legal_privacy-policy&lang=en)
 
 Key Terms
 
 #### Choices
 
-﻿[Settings](https://www.linkedin.com/psettings/privacy) are available to Members of LinkedIn and Visitors are provided separate controls. [Learn More](https://www.linkedin.com/help/linkedin/answer/89876).
+﻿[Settings](https://www.linkedin.com/psettings/privacy) are available to Members of LinkedIn and Visitors are provided separate controls. [Learn More](https://www.linkedin.com/help/linkedin/answer/89876?trk=microsites-frontend_legal_privacy-policy&lang=en).
 
 Table of Contents
 -----------------
@@ -25,12 +25,12 @@ Table of Contents
 2. [How We Use Your Data](#use)
 3. [How We Share Information](#share)
 4. [Your Choices and Obligations](#choices)
-5. [Other Important Information](#other)
+5. [Other Important Information](#others)
 
 1. Introduction
     ------------
     
-    We are a social network and online platform for professionals. People use our Services to find and be found for business opportunities, to connect with others and find information. Our Privacy Policy applies to any Member or Visitor to our Services.
+    We are a social network and online platform for professionals. People use our Services to find and be found for business opportunities, to connect with others and find information. Our Privacy Policy applies to any Member or
     
     Our registered users (“Members”) share their professional identities, engage with their network, exchange knowledge and professional insights, post and view relevant content, learn and develop skills, and find business and career opportunities. Content and data on some of our Services is viewable to non-members (“Visitors”).
     
@@ -38,7 +38,7 @@ Table of Contents
     
     ### Services
     
-    This Privacy Policy, including our [Cookie Policy](https://www.linkedin.com/legal/cookie-policy) applies to your use of our Services.
+    This Privacy Policy, including our Cookie Policy applies to your use of our Services.
     
     This Privacy Policy applies to LinkedIn.com, LinkedIn-branded apps, LinkedIn Learning and other LinkedIn-related sites, apps, communications and services (“Services”), including off-site Services, such as our ad services and the “Apply with LinkedIn” and “Share with LinkedIn” plugins, but excluding services that state that they are offered under a different privacy policy. For California residents, additional disclosures required by California law may be found in our [California Privacy Disclosure](https://www.linkedin.com/legal/california-privacy-disclosure).
     
@@ -54,7 +54,7 @@ Table of Contents
     
     Changes to the Privacy Policy apply to your use of our Services after the “effective date.”
     
-    LinkedIn (“we” or “us”) can modify this Privacy Policy, and if we make material changes to it, we will provide notice through our Services, or by other means, to provide you the opportunity to review the changes before they become effective. If you object to any changes, you may [close your account.](https://www.linkedin.com/help/linkedin/answer/63)
+    LinkedIn (“we” or “us”) can modify this Privacy Policy, and if we make material changes to it, we will provide notice through our Services, or by other means, to provide you the opportunity to review the changes before they become effective. If you object to any changes, you may [close your account.](https://www.linkedin.com/help/linkedin/answer/63?trk=microsites-frontend_legal_privacy-policy&lang=en)
     
     You acknowledge that your continued use of our Services after we publish or send a notice about our changes to this Privacy Policy means that the collection, use and sharing of your personal data is subject to the updated Privacy Policy, as of its effective date.
     
@@ -73,13 +73,13 @@ Table of Contents
     
     #### Profile
     
-    You have [choices](https://www.linkedin.com/profile/edit) about the information on your profile, such as your education, work experience, skills, photo, [city or area](https://www.linkedin.com/help/linkedin/answer/38594) and endorsements. Some Members may choose to complete a separate [ProFinder](https://www.linkedin.com/profinder/terms) [profile](https://www.linkedin.com/help/linkedin/answer/67210). You don’t have to provide additional information on your profile; however, profile information helps you to get more from our Services, including helping recruiters and business opportunities find you. It’s your choice whether to include [sensitive information](https://www.linkedin.com/help/linkedin/answer/77) on your profile and to make that sensitive information public. Please do not post or add personal data to your profile that you would not want to be publicly available.
+    You have [choices](https://www.linkedin.com/profile/edit) about the information on your profile, such as your education, work experience, skills, photo, [city or area](https://www.linkedin.com/help/linkedin/answer/38594?trk=microsites-frontend_legal_privacy-policy&lang=en) and endorsements. Some Members may choose to complete a separate [ProFinder](https://www.linkedin.com/profinder/terms) [profile](https://www.linkedin.com/help/linkedin/answer/67210?trk=microsites-frontend_legal_privacy-policy&lang=en). You don’t have to provide additional information on your profile; however, profile information helps you to get more from our Services, including helping recruiters and business opportunities find you. It’s your choice whether to include [sensitive information](https://www.linkedin.com/help/linkedin/answer/77?trk=microsites-frontend_legal_privacy-policy&lang=en) on your profile and to make that sensitive information public. Please do not post or add personal data to your profile that you would not want to be publicly available.
     
     You give other data to us, such as by syncing your address book or calendar.
     
     #### Posting and Uploading
     
-    We collect personal data from you when you provide, post or upload it to our Services, such as when you fill out a form, (e.g., with demographic data or [salary](https://www.linkedin.com/help/linkedin/answer/65947)), respond to a survey, or submit a resume or fill out a job application on our Services. If you opt to import your address book, we receive your contacts (including contact information your service provider(s) or app automatically added to your address book when you communicated with addresses or numbers not already in your list).
+    We collect personal data from you when you provide, post or upload it to our Services, such as when you fill out a form, (e.g., with demographic data or [salary](https://www.linkedin.com/help/linkedin/answer/65947?trk=microsites-frontend_legal_privacy-policy&lang=en)), respond to a survey, or submit a resume or fill out a job application on our Services. If you opt to import your address book, we receive your contacts (including contact information your service provider(s) or app automatically added to your address book when you communicated with addresses or numbers not already in your list).
     
     If you sync your contacts or calendars with our Services, we will collect your address book and calendar meeting information to keep growing your network by suggesting connections for you and others, and by providing information about events, e.g. times, places, attendees and contacts.
     
@@ -91,7 +91,7 @@ Table of Contents
     
     #### Content and News
     
-    You and others may post content that includes information about you (as part of articles, posts, comments, videos) on our Services. We also may collect public information about you, such as professional-related news and accomplishments, and make it available as part of our Services, including, as permitted by your settings, in notifications to others of [mentions in the news](https://www.linkedin.com/help/linkedin/answer/50021).
+    You and others may post content that includes information about you (as part of articles, posts, comments, videos) on our Services. We also may collect public information about you, such as professional-related news and accomplishments, and make it available as part of our Services, including, as permitted by your settings, in notifications to others of [mentions in the news](https://www.linkedin.com/help/linkedin/answer/50021?trk=microsites-frontend_legal_privacy-policy&lang=en).
     
     Others may sync their contacts or calendar with our Services
     
@@ -119,7 +119,7 @@ Table of Contents
     
     We collect data through cookies and similar technologies.
     
-    As further described in our [Cookie Policy](https://www.linkedin.com/legal/cookie-policy), we use cookies and similar technologies (e.g., pixels and ad tags) to collect data (e.g., device IDs) to recognize you and your device(s) on, off and across different services and devices where you have engaged with our Services. We also allow some others to use cookies as described in our Cookie Policy. If you are outside the Designated Countries, we also collect (or rely on others who collect) information about your device where you have not engaged with our Services (e.g., ad ID, IP address, operating system and browser information) so we can provide our Members with relevant ads and better understand their effectiveness. [Learn more](https://www.linkedin.com/help/linkedin/answer/111735). You can [opt out](https://www.linkedin.com/help/linkedin/answer/62931) from our use of data from cookies and similar technologies that track your behavior on the sites of others for ad targeting and other ad-related purposes. For Visitors, the controls are [here](https://www.linkedin.com/psettings/guest-controls).
+    As further described in our [Cookie Policy](https://www.linkedin.com/legal/cookie-policy), we use cookies and similar technologies (e.g., pixels and ad tags) to collect data (e.g., device IDs) to recognize you and your device(s) on, off and across different services and devices where you have engaged with our Services. We also allow some others to use cookies as described in our Cookie Policy. If you are outside the Designated Countries, we also collect (or rely on others who collect) information about your device where you have not engaged with our Services (e.g., ad ID, IP address, operating system and browser information) so we can provide our Members with relevant ads and better understand their effectiveness. [Learn more](https://www.linkedin.com/help/linkedin/answer/111735). You can [opt out](https://www.linkedin.com/help/linkedin/answer/62931?trk=microsites-frontend_legal_privacy-policy&lang=en) from our use of data from cookies and similar technologies that track your behavior on the sites of others for ad targeting and other ad-related purposes. For Visitors, the controls are [here](https://www.linkedin.com/psettings/guest-controls).
     
     ### 1.5 Your Device and Location
     
@@ -131,13 +131,13 @@ Table of Contents
     
     If you communicate through our Services, we learn about that.
     
-    We collect information about you when you send, receive, or engage with messages in connection with our Services. For example, if you get a LinkedIn connection request, we track whether you have acted on it and will send you reminders. We also use [automatic scanning](https://www.linkedin.com/help/linkedin/answer/79855) technology on messages to support and protect our site. For example, we use this technology to suggest possible responses to messages and to manage or block content that violates our User Agreement or [Professional Community Policies](https://www.linkedin.com/legal/professional-community-policies) from our Services.
+    We collect information about you when you send, receive, or engage with messages in connection with our Services. For example, if you get a LinkedIn connection request, we track whether you have acted on it and will send you reminders. We also use [automatic scanning](https://www.linkedin.com/help/linkedin/answer/79855?trk=microsites-frontend_legal_privacy-policy&lang=en) technology on messages to support and protect our site. For example, we use this technology to suggest possible responses to messages and to manage or block content that violates our User Agreement or [Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/34593?trk=microsites-frontend_legal_privacy-policy&lang=en) from our Services.
     
     ### 1.7 Workplace and School Provided Information
     
     When your organization (e.g., employer or school) buys a premium Service for you to use, they give us data about you.
     
-    Others buying our Services for your use, such as your employer or your school, provide us with personal data about you and your eligibility to use the Services that they purchase for use by their workers, students or alumni. For example, we will get contact information for “[Company Page](https://www.linkedin.com/help/linkedin/answer/1561)” administrators and for authorizing users of our premium Services, such as our recruiting, sales or learning products.
+    Others buying our Services for your use, such as your employer or your school, provide us with personal data about you and your eligibility to use the Services that they purchase for use by their workers, students or alumni. For example, we will get contact information for “[Company Page](https://www.linkedin.com/help/linkedin/answer/1561?trk=microsites-frontend_legal_privacy-policy&lang=en)” administrators and for authorizing users of our premium Services, such as our recruiting, sales or learning products.
     
     ### 1.8 Sites and Services of Others
     
@@ -174,7 +174,7 @@ Table of Contents
     
     Our Services allow you to stay in touch and up to date with colleagues, partners, clients, and other professional contacts. To do so, you can “connect” with the professionals who you choose, and who also wish to “connect” with you. Subject to your and their [settings](https://www.linkedin.com/psettings/), when you connect with other Members, you will be able to search each others’ connections in order to exchange professional opportunities.
     
-    We use data about you (such as your profile, profiles you have viewed or data provided through address book uploads or partner integrations) to help others find your profile, suggest connections for you and others (e.g. Members who share your contacts or job experiences) and enable you to invite others to become a Member and connect with you. You can also opt-in to allow us to use your precise location or proximity to others for certain tasks (e.g. to suggest other [nearby](https://www.linkedin.com/help/linkedin/answer/75689) Members for you to connect with, calculate the commute to a new job, or notify your connections that you are at a professional event).
+    We use data about you (such as your profile, profiles you have viewed or data provided through address book uploads or partner integrations) to help others find your profile, suggest connections for you and others (e.g. Members who share your contacts or job experiences) and enable you to invite others to become a Member and connect with you. You can also opt-in to allow us to use your precise location or proximity to others for certain tasks (e.g. to suggest other [nearby](https://www.linkedin.com/help/linkedin/answer/75689?trk=microsites-frontend_legal_privacy-policy&lang=en) Members for you to connect with, calculate the commute to a new job, or notify your connections that you are at a professional event).
     
     It is your choice whether to invite someone to our Services, send a connection request, or allow another Member to become your connection. When you invite someone to connect with you, your invitation will include your network and basic profile information (e.g., name, profile photo, job title, region). We will send invitation reminders to the person you invited. You can [choose](https://www.linkedin.com/psettings/connections-visibility) whether or not to share your own list of connections with your connections.
     
@@ -182,19 +182,19 @@ Table of Contents
     
     #### Stay Informed
     
-    Our Services allow you to stay informed about news, events and ideas regarding professional topics you care about, and from professionals you respect. Our Services also allow you to improve your professional skills, or learn new ones. We use the data we have about you (e.g., data you provide, data we collect from your engagement with our Services and inferences we make from the data we have about you), to personalize our Services for you, such as by recommending or ranking relevant content and conversations on our Services. We also use the data we have about you to suggest skills you could add to your profile and skills that you might need to pursue your next opportunity. So, if you let us know that you are interested in a new skill (e.g., by watching a learning video), we will use this information to personalize content in your feed, suggest that you follow certain members on our site, or suggest related learning content to help you towards that new skill. We use your content, activity and other data, including your name and photo, to provide notices to your network and others. For example, subject to your [settings](https://www.linkedin.com/psettings/), we may notify others that you have updated your profile, posted content, took a [social action](#key-terms-2), used a feature, made new connections or were [mentioned in the news](https://www.linkedin.com/help/linkedin/answer/50021).
+    Our Services allow you to stay informed about news, events and ideas regarding professional topics you care about, and from professionals you respect. Our Services also allow you to improve your professional skills, or learn new ones. We use the data we have about you (e.g., data you provide, data we collect from your engagement with our Services and inferences we make from the data we have about you), to personalize our Services for you, such as by recommending or ranking relevant content and conversations on our Services. We also use the data we have about you to suggest skills you could add to your profile and skills that you might need to pursue your next opportunity. So, if you let us know that you are interested in a new skill (e.g., by watching a learning video), we will use this information to personalize content in your feed, suggest that you follow certain members on our site, or suggest related learning content to help you towards that new skill. We use your content, activity and other data, including your name and photo, to provide notices to your network and others. For example, subject to your [settings](https://www.linkedin.com/psettings/), we may notify others that you have updated your profile, posted content, took a [social action](#key-terms-2), used a feature, made new connections or were [mentioned in the news](https://www.linkedin.com/help/linkedin/answer/50021?trk=microsites-frontend_legal_privacy-policy&lang=en).
     
     #### Career
     
-    Our Services allow you to explore careers, evaluate educational opportunities, and seek out, and be found for, career opportunities. Your profile can be found by those looking to hire (for a job or a [specific task](https://www.linkedin.com/help/linkedin/answer/67214)) or be hired by you. We will use your data to recommend jobs or mentees, show you and others relevant professional contacts (e.g., who work at a company, in an industry, function or location or have certain skills and connections). You can signal that you are [interested](https://www.linkedin.com/help/linkedin/answer/67405) in changing jobs and share information with recruiters. We will use your data to recommend jobs to you and you to recruiters. We may use automated systems to provide content and recommendations to help make our Services more relevant to our Members, Visitors and customers. Keeping your profile accurate and up-to-date may help you better connect to others and to opportunities through our Services.
+    Our Services allow you to explore careers, evaluate educational opportunities, and seek out, and be found for, career opportunities. Your profile can be found by those looking to hire (for a job or a [specific task](https://www.linkedin.com/help/linkedin/answer/67214?trk=microsites-frontend_legal_privacy-policy&lang=en)) or be hired by you. We will use your data to recommend jobs or mentees, show you and others relevant professional contacts (e.g., who work at a company, in an industry, function or location or have certain skills and connections). You can signal that you are [interested](https://www.linkedin.com/help/linkedin/answer/67405?trk=microsites-frontend_legal_privacy-policy&lang=en) in changing jobs and share information with recruiters. We will use your data to recommend jobs to you and you to recruiters. We may use automated systems to provide content and recommendations to help make our Services more relevant to our Members, Visitors and customers. Keeping your profile accurate and up-to-date may help you better connect to others and to opportunities through our Services.
     
     #### Productivity
     
-    Our Services allow you to collaborate with colleagues, search for potential clients, customers, partners and others to do business with. Our Services allow you to communicate with other Members and schedule and prepare meetings with them. If your [settings](https://www.linkedin.com/psettings/) allow, we scan messages to provide “bots” or similar tools that facilitate tasks such as scheduling meetings, drafting responses, summarizing messages or recommending next steps. [Learn more](https://www.linkedin.com/help/linkedin/answer/79855).
+    Our Services allow you to collaborate with colleagues, search for potential clients, customers, partners and others to do business with. Our Services allow you to communicate with other Members and schedule and prepare meetings with them. If your [settings](https://www.linkedin.com/psettings/) allow, we scan messages to provide “bots” or similar tools that facilitate tasks such as scheduling meetings, drafting responses, summarizing messages or recommending next steps. [Learn more](https://www.linkedin.com/help/linkedin/answer/79855?trk=microsites-frontend_legal_privacy-policy&lang=en).
     
     ### 2.2 Premium Services
     
-    Our premium Services help paying users to search for and contact Members through our Services, such as searching for and contacting job candidates, sales leads and co-workers, manage talent and promote content through social media.
+    Our premium Services help paying users to search for and contact Members through our Services, such as searching for and contacting job candidates, sales leads and co-workers, manage talent and promote content through social
     
     We sell premium Services that provide our customers and subscribers with customized-search functionality and tools (including messaging and activity alerts) as part of our talent, marketing and sales solutions. Customers can export limited information from your profile, such as name, headline, current company, current title, and general location (e.g., Dublin), such as to manage sales leads or talent, unless you [opt-out](https://www.linkedin.com/psettings/data-sharing). We do not provide contact information to customers as part of these premium Services without your consent. Premium Services customers can store information they have about you in our premium Services, such as a resume or contact information or sales history. The data stored about you by these customers is subject to the policies of those customers. Other enterprise Services and features that use your data include [TeamLink](https://www.linkedin.com/help/sales-navigator/answer/50216/teamlink-overview) and [Elevate](https://business.linkedin.com/elevate) (social promotion of content).
     
@@ -204,7 +204,7 @@ Table of Contents
     
     We will contact you through email, mobile phone, notices posted on our websites or apps, messages to your LinkedIn inbox, and other ways through our Services, including text messages and push notifications. We will send you messages about the availability of our Services, security, or other service-related issues. We also send messages about how to use our Services, network updates, reminders, job suggestions and promotional messages from us and our partners. You may change your communication [preferences](https://www.linkedin.com/psettings/messages) at any time. Please be aware that you cannot opt out of receiving service messages from us, including security and legal notices.
     
-    We also enable [communications](https://www.linkedin.com/help/linkedin/answer/137) between you and others through our Services, including for example [invitations](https://www.linkedin.com/help/linkedin/answer/115), [InMail](https://www.linkedin.com/help/linkedin/answer/1584), [groups](https://www.linkedin.com/help/linkedin/answer/1164) and [messages](https://www.linkedin.com/help/linkedin/answer/1645) between connections.
+    We also enable [communications](https://www.linkedin.com/help/linkedin/answer/137?trk=microsites-frontend_legal_privacy-policy&lang=en) between you and others through our Services, including for example [invitations](https://www.linkedin.com/help/linkedin/answer/115?trk=microsites-frontend_legal_privacy-policy&lang=en), [InMail](https://www.linkedin.com/help/linkedin/answer/1584?trk=microsites-frontend_legal_privacy-policy&lang=en), [groups](https://www.linkedin.com/help/linkedin/answer/1164?trk=microsites-frontend_legal_privacy-policy&lang=en) and [messages](https://www.linkedin.com/help/linkedin/answer/1645?trk=microsites-frontend_legal_privacy-policy&lang=en) between connections.
     
     ### 2.4 Advertising
     
@@ -214,15 +214,15 @@ Table of Contents
     
     * Data from advertising technologies on and off our Services, pixels, ad tags, cookies, and device identifiers;
     * Member-provided information (e.g., profile, contact information, title and industry);
-    * Data from your use of our Services (e.g., search history, feed, content you read, who you follow or is following you, connections, [groups](https://www.linkedin.com/help/linkedin/answer/1164) participation, page visits, videos you watch, clicking on an ad, etc.), including as described in Section 1.3;
-    * Information from advertising [partners](#key-terms-2), vendors and [publishers](https://www.linkedin.com/help/linkedin/answer/85809); and
+    * Data from your use of our Services (e.g., search history, feed, content you read, who you follow or is following you, connections, [groups](https://www.linkedin.com/help/linkedin/answer/1164?trk=microsites-frontend_legal_privacy-policy&lang=en) participation, page visits, videos you watch, clicking on an ad, etc.), including as described in Section 1.3;
+    * Information from advertising [partners](#key-terms-2), vendors and [publishers](https://www.linkedin.com/help/linkedin/answer/85809?trk=microsites-frontend_legal_privacy-policy&lang=en) ; and
     * Information inferred from data described above (e.g., using job titles from a profile to infer industry, seniority, and compensation bracket; using graduation dates to infer age or using first names or pronoun usage to infer gender; using your feed activity to infer your interests; or using device data to recognize you as a Member).
     
-    We will show you ads called [sponsored content](https://www.linkedin.com/help/linkedin/answer/39575) which look similar to non-sponsored content, except that they are labeled as advertising (e.g., as “ad” or “sponsored”). If you take a social action (such as like, comment or share) on these ads, your action is associated with your name and viewable by others, including the advertiser. Subject to your [settings](https://www.linkedin.com/psettings/data-visibility), if you take a social action on the LinkedIn Services, that action may be mentioned with related ads. For example, when you like a company we may include your name and photo when their sponsored content is shown.
+    We will show you ads called [sponsored content](https://www.linkedin.com/help/linkedin/answer/39575?trk=microsites-frontend_legal_privacy-policy&lang=en) which look similar to non-sponsored content, except that they are labeled as advertising (e.g., as “ad” or “sponsored”). If you take a social action (such as like, comment or share) on these ads, your action is associated with your name and viewable by others, including the advertiser. Subject to your [settings](https://www.linkedin.com/psettings/data-visibility), if you take a social action on the LinkedIn Services, that action may be mentioned with related ads. For example, when you like a company we may include your name and photo when their sponsored content is shown.
     
     #### Ad Choices
     
-    We adhere to [self-regulatory principles](https://www.linkedin.com/help/linkedin/answer/62931) for interest-based advertising and participate in industry [opt-outs](https://www.linkedin.com/help/linkedin/answer/62931) from such ads. This does not opt you out of receiving advertising; you will continue to get other ads by advertisers not listed with these self regulatory tools. You can also [opt-out](https://www.linkedin.com/psettings/enhanced-advertising) specifically from our uses of certain categories of data to show you more relevant ads. For Visitors, the setting is [here](https://www.linkedin.com/psettings/guest-controls).
+    We adhere to [self-regulatory principles](https://www.linkedin.com/help/linkedin/answer/62931?trk=microsites-frontend_legal_privacy-policy&lang=en) for interest-based advertising and participate in industry [opt-outs](https://www.linkedin.com/help/linkedin/answer/62931?trk=microsites-frontend_legal_privacy-policy&lang=en) from such ads. This does not opt you out of receiving advertising; you will continue to get other ads by advertisers not listed with these self regulatory tools. You can also [opt-out](https://www.linkedin.com/psettings/enhanced-advertising) specifically from our uses of certain categories of data to show you more relevant ads. For Visitors, the setting is [here](https://www.linkedin.com/psettings/guest-controls).
     
     #### Info to Ad Providers
     
@@ -287,18 +287,18 @@ Table of Contents
     
     #### Profile
     
-    Your profile is fully visible to all Members and customers of our Services. Subject to your [settings](https://www.linkedin.com/psettings/privacy), it can also be visible to others on or off of our Services (e.g., Visitors to our Services or users of third- party search engines). As detailed in our [Help Center](https://www.linkedin.com/help/linkedin/answer/77), your settings, degree of connection with the viewing Member, the subscriptions they may have, their [usage of our Services](https://www.linkedin.com/help/linkedin/answer/52950), access channels and search types (e.g., by name or by keyword) impact the availability of your profile and whether they can view certain fields in your profile.
+    Your profile is fully visible to all Members and customers of our Services. Subject to your [settings](https://www.linkedin.com/psettings/privacy), it can also be visible to others on or off of our Services (e.g., Visitors to our Services or users of third- party search engines). As detailed in our [Help Center](https://www.linkedin.com/help/linkedin/answer/77?trk=microsites-frontend_legal_privacy-policy&lang=en), your settings, degree of connection with the viewing Member, the subscriptions they may have, their [usage of our Services](https://www.linkedin.com/help/linkedin/answer/52950?trk=microsites-frontend_legal_privacy-policy&lang=en), access channels and search types (e.g., by name or by keyword) impact the availability of your profile and whether they can view certain fields in your profile.
     
     #### Posts, Likes, Follows, Comments, Messages
     
     Our Services allow viewing and sharing information including through posts, likes, follows and comments.
     
     * When you share an article or a post (e.g., an update, image, video or article) publicly it can be viewed by everyone and re-shared anywhere (subject to your [settings](https://www.linkedin.com/psettings/privacy)). Members, Visitors and others will be able to find and see your publicly-shared content, including your name (and photo if you have provided one).
-    * In a [group](https://www.linkedin.com/help/linkedin/answer/1164), posts are visible to others in the group. Your membership in groups is public and part of your profile, but you can change visibility in your [settings](https://www.linkedin.com/help/linkedin/answer/197).
+    * In a [group](https://www.linkedin.com/help/linkedin/answer/1164?trk=microsites-frontend_legal_privacy-policy&lang=en), posts are visible to others in the group. Your membership in groups is public and part of your profile, but you can change visibility in your [settings](https://www.linkedin.com/help/linkedin/answer/197?trk=microsites-frontend_legal_privacy-policy&lang=en).
     * Any information you share through companies’ or other organizations’ pages on our Services will be viewable by it and others who visit those pages.
     * When you follow a person or organization, you are visible to others and that “page owner” as a follower.
-    * We let senders know when you act on their message, subject to your [settings](https://www.linkedin.com/help/linkedin/answer/71013) where applicable.
-    * Subject to your [settings](https://www.linkedin.com/help/linkedin/answer/47992), we let a Member know when you view their profile.
+    * We let senders know when you act on their message, subject to your [settings](https://www.linkedin.com/help/linkedin/answer/71013?trk=microsites-frontend_legal_privacy-policy&lang=en) where applicable.
+    * Subject to your [settings](https://www.linkedin.com/help/linkedin/answer/47992?trk=microsites-frontend_legal_privacy-policy&lang=en), we let a Member know when you view their profile.
     * When you like or re-share or comment on another’s content (including ads), others will be able to view these “social actions” and associate it with you (e.g., your name, profile and photo if you provided it).
     
     Your employer can see how you use Services they provided for your work (e.g. as a recruiter or sales agent) and related information. We will not show them your job searches or personal messages.
@@ -319,11 +319,11 @@ Table of Contents
     
     ### 3.3 Others’ Services
     
-    You may link your account with others’ services so that they can look up your contacts’ profiles, post your shares on such platforms, or enable you to start conversations with your connections on such platforms. Excerpts from your profile will also appear on the services of others.
+    You may link your account with others’ services so that they can look up your contacts’ profiles, post your shares on such platforms, or enable you to start conversations with your connections on such platforms. Excerpts from
     
     Subject to your [settings](https://www.linkedin.com/psettings/privacy), other services may look up your profile. When you opt to link your account with other services, personal data will become available to them. The sharing and use of that personal data will be described in, or linked to, a consent screen when you opt to link the accounts. For example, you may link your Twitter or WeChat account to share content from our Services into these other services, or your email provider may give you the option to upload your LinkedIn contacts into its own service. Third-party services have their own privacy policies, and you may be giving them permission to use your data in ways we would not. You may [revoke](https://www.linkedin.com/psettings/account) the link with such accounts.
     
-    Subject to your [settings](https://www.linkedin.com/psettings/data-sharing), excerpts from your [profile](https://www.linkedin.com/help/linkedin/answer/79854) will appear on the services of others (e.g., search engine results, mail and calendar applications that show a user limited profile data of the person they are meeting or messaging, [social media aggregators](https://www.linkedin.com/help/linkedin/answer/79854), talent and lead managers). “Old” profile information remains on these services until they update their data cache with changes you made to your profile.
+    Subject to your [settings](https://www.linkedin.com/psettings/data-sharing), excerpts from your [profile](https://www.linkedin.com/help/linkedin/answer/79854?trk=microsites-frontend_legal_privacy-policy&lang=en) will appear on the services of others (e.g., search engine results, mail and calendar applications that show a user limited profile data of the person they are meeting or messaging, [social media aggregators](https://www.linkedin.com/help/linkedin/answer/79854?trk=psettings-data-sharing_api&lang=en), talent and lead managers). “Old” profile information remains on these services until they update their data cache with changes you made to your profile.
     
     ### 3.4 Related Services
     
@@ -341,7 +341,7 @@ Table of Contents
     
     We may need to share your data when we believe it’s required by law or to help protect the rights and safety of you, us or others.
     
-    It is possible that we will need to disclose information about you when required by law, subpoena, or other legal process or if we have a good faith belief that disclosure is reasonably necessary to (1) investigate, prevent or take action regarding suspected or actual illegal activities or to assist government enforcement agencies; (2) enforce our agreements with you; (3) investigate and defend ourselves against any third-party claims or allegations; (4) protect the security or integrity of our Services (such as by sharing with companies facing similar threats); or (5) exercise or protect the rights and safety of LinkedIn, our Members, personnel or others. We attempt to notify Members about legal demands for their personal data when appropriate in our judgment, unless prohibited by law or court order or when the request is an emergency. We may dispute such demands when we believe, in our discretion, that the requests are overbroad, vague or lack proper authority, but we do not promise to challenge every demand. To learn more see our [Data Request Guidelines](https://www.linkedin.com/help/linkedin/answer/16880) and [Transparency Report](https://about.linkedin.com/transparency).
+    It is possible that we will need to disclose information about you when required by law, subpoena, or other legal process or if we have a good faith belief that disclosure is reasonably necessary to (1) investigate, prevent or take action regarding suspected or actual illegal activities or to assist government enforcement agencies; (2) enforce our agreements with you; (3) investigate and defend ourselves against any third-party claims or allegations; (4) protect the security or integrity of our Services (such as by sharing with companies facing similar threats); or (5) exercise or protect the rights and safety of LinkedIn, our Members, personnel or others. We attempt to notify Members about legal demands for their personal data when appropriate in our judgment, unless prohibited by law or court order or when the request is an emergency. We may dispute such demands when we believe, in our discretion, that the requests are overbroad, vague or lack proper authority, but we do not promise to challenge every demand. To learn more see our [Data Request Guidelines](https://www.linkedin.com/help/linkedin/answer/16880?trk=microsites-frontend_legal_privacy-policy&lang=en) and [Transparency Report](https://www.linkedin.com/legal/transparency).
     
     ### 3.7 Change in Control or Sale
     
@@ -362,7 +362,7 @@ Table of Contents
     
     You can access or delete your personal data. You have many choices about how your data is collected, used and shared.
     
-    We provide many [choices](https://www.linkedin.com/help/linkedin/answer/66) about the collection, use and sharing of your data, from deleting or correcting data you include in your [profile](https://www.linkedin.com/profile/edit) and controlling the visibility of your [posts](https://www.linkedin.com/help/linkedin/answer/431) to advertising [opt-outs](https://www.linkedin.com/help/linkedin/answer/62931) and [communication](https://www.linkedin.com/psettings/messages) controls. We offer you [settings](https://www.linkedin.com/psettings/privacy) to control and manage the personal data we have about you.
+    We provide many [choices](https://www.linkedin.com/help/linkedin/answer/66?trk=microsites-frontend_legal_privacy-policy&lang=en) about the collection, use and sharing of your data, from deleting or correcting data you include in your [profile](https://www.linkedin.com/profile/edit) and controlling the visibility of your [posts](https://www.linkedin.com/help/linkedin/answer/431?trk=microsites-frontend_legal_privacy-policy&lang=en) to advertising [opt-outs](https://www.linkedin.com/help/linkedin/answer/62931?trk=microsites-frontend_legal_privacy-policy&lang=en) and [communication](https://www.linkedin.com/psettings/messages) controls. We offer you [settings](https://www.linkedin.com/psettings/privacy) to control and manage the personal data we have about you.
     
     For personal data that we have about you, you can:
     
@@ -371,17 +371,17 @@ Table of Contents
     * Object to, or Limit or Restrict, Use of Data: You can ask us to stop using all or some of your personal data (e.g., if we have no legal right to keep using it) or to limit our use of it (e.g., if your personal data is inaccurate or unlawfully held).
     * Right to Access and/or Take Your Data: You can ask us for a copy of your personal data and can ask for a copy of personal data you provided in machine readable form.
     
-    Visitors can learn more about how to make these requests [here](https://www.linkedin.com/help/linkedin/answer/50191). You may also contact us using the contact information below, and we will consider your request in accordance with applicable laws.
+    Visitors can learn more about how to make these requests [here](https://www.linkedin.com/help/linkedin/answer/50191?trk=microsites-frontend_legal_privacy-policy&lang=en). You may also contact us using the contact information below, and we will consider your request in accordance with applicable laws.
     
-    Residents in the [Designated Countries](https://www.linkedin.com/help/linkedin/answer/89877) and [other regions](https://privacy.linkedin.com/regionalinfo) may have additional rights under their laws.
+    Residents in the [Designated Countries](https://www.linkedin.com/help/linkedin/answer/89877?trk=microsites-frontend_legal_privacy-policy&lang=en) and [other regions](https://privacy.linkedin.com/regionalinfo) may have additional rights under their laws.
     
     ### 4.3 Account Closure
     
     We keep some of your data even after you close your account.
     
-    If you choose to close your [LinkedIn](https://www.linkedin.com/help/linkedin/answer/63) account, your personal data will generally stop being visible to others on our Services within 24 hours. We generally delete closed account information within 30 days of account closure, except as noted below.
+    If you choose to close your [Linkedin](https://www.linkedin.com/help/linkedin/answer/63?trk=microsites-frontend_legal_privacy-policy&lang=en) account, your personal data will generally stop being visible to others on our Services within 24 hours. We generally delete closed account information within 30 days of account closure, except as noted below.
     
-    We retain your personal data even after you have closed your account if reasonably necessary to comply with our legal obligations (including law enforcement requests), meet regulatory requirements, resolve disputes, maintain security, prevent fraud and abuse (e.g., if we have [restricted](https://www.linkedin.com/help/linkedin/answer/82934) your account for breach of our [Professional Community Policies](https://www.linkedin.com/legal/professional-community-policies)), enforce our User Agreement, or fulfill your request to "unsubscribe" from further messages from us. We will retain de-personalized information after your account has been closed.
+    We retain your personal data even after you have closed your account if reasonably necessary to comply with our legal obligations (including law enforcement requests), meet regulatory requirements, resolve disputes, maintain security, prevent fraud and abuse (e.g., if we have [restricted](https://www.linkedin.com/help/linkedin/answer/82934?trk=microsites-frontend_legal_privacy-policy&lang=en) your account for breach of our [Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/34593?trk=microsites-frontend_legal_privacy-policy&lang=en)), enforce our User Agreement, or fulfill your request to "unsubscribe" from further messages from us. We will retain de-personalized information after your account has been closed.
     
     Information you have shared with others (e.g., through InMail, updates or group posts) will remain visible after you close your account or delete the information from your own profile or mailbox, and we do not control data that other Members have copied out of our Services. Groups content and ratings or review content associated with closed accounts will show an unknown user as the source. Your profile may continue to be displayed in the services of others (e.g., search engine results) until they refresh their cache.
     
@@ -392,33 +392,33 @@ Table of Contents
     
     We monitor for and try to prevent security breaches. Please use the security features available through our Services.
     
-    We implement security safeguards designed to protect your data, such as HTTPS. We regularly monitor our systems for possible vulnerabilities and attacks. However, we cannot warrant the security of any information that you send us. There is no guarantee that data may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. Please visit our [Safety Center](https://safety.linkedin.com/) for additional information about safely using our Services, including [two-factor authentication](https://www.linkedin.com/help/linkedin/answer/531).
+    We implement security safeguards designed to protect your data, such as HTTPS. We regularly monitor our systems for possible vulnerabilities and attacks. However, we cannot warrant the security of any information that you send us. There is no guarantee that data may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. Please visit our [Safety Center](https://safety.linkedin.com/) for additional information about safely using our Services, including [two-factor authentication](https://www.linkedin.com/help/linkedin/answer/531?trk=microsites-frontend_legal_privacy-policy&lang=en).
     
     ### 5.2. Cross-Border Data Transfers
     
     We store and use your data outside your country.
     
-    We process data both inside and outside of the United States and rely on legally-provided mechanisms to lawfully transfer data across borders. [Learn more](https://www.linkedin.com/help/linkedin/answer/62533). Countries where we process data may have laws which are different from, and potentially not as protective as, the laws of your own country.
+    We process data both inside and outside of the United States and rely on legally-provided mechanisms to lawfully transfer data across borders. [Learn more](https://www.linkedin.com/help/linkedin/answer/62533?trk=microsites-frontend_legal_privacy-policy&lang=en). Countries where we process data may have laws which are different from, and potentially not as protective as, the laws of your own country.
     
     ### 5.3 Lawful Bases for Processing
     
     We have lawful bases to collect, use and share data about you. You have choices about our use of your data. At any time, you can withdraw consent you have provided by going to settings.
     
-    We will only collect and process personal data about you where we have lawful bases. Lawful bases include consent(where you have given consent), contract (where processing is necessary for the performance of a contract with you (e.g., to deliver the LinkedIn Services you have requested) and “legitimate interests.” [Learn more](https://www.linkedin.com/help/linkedin/answer/89878).
+    We will only collect and process personal data about you where we have lawful bases. Lawful bases include consent(where you have given consent), contract (where processing is necessary for the performance of a contract with you (e.g., to deliver the LinkedIn Services you have requested) and “legitimate interests.” [Learn more](https://www.linkedin.com/help/linkedin/answer/89878?trk=microsites-frontend_legal_privacy-policy&lang=en).
     
-    Where we rely on your [consent](#key-terms-5) to process personal data, you have the right to withdraw or decline your consent at any time and where we rely on legitimate interests, you have the right to object. [Learn More](https://www.linkedin.com/help/linkedin/answer/89878). If you have any questions about the lawful bases upon which we collect and use your personal data, please contact our Data Protection Officer [here](https://www.linkedin.com/help/linkedin/ask/TSO-DPO).
+    Where we rely on your [consent](#key-terms-5) to process personal data, you have the right to withdraw or decline your consent at any time and where we rely on legitimate interests, you have the right to object. [Learn More](https://www.linkedin.com/help/linkedin/answer/89878?trk=microsites-frontend_legal_privacy-policy&lang=en). If you have any questions about the lawful bases upon which we collect and use your personal data, please contact our Data Protection Officer [here](https://www.linkedin.com/help/linkedin/ask/TSO-DPO).
     
     ### 5.4. Direct Marketing and Do Not Track Signals
     
     Our statements regarding direct marketing and “do not track” signals.
     
-    We currently do not share personal data with third parties for their direct marketing purposes without your permission. [Learn more](https://www.linkedin.com/help/linkedin/answer/68763) about this and about our response to “do not track” signals.
+    We currently do not share personal data with third parties for their direct marketing purposes without your permission. [Learn more](https://www.linkedin.com/help/linkedin/answer/68763?trk=microsites-frontend_legal_privacy-policy&lang=en) about this and about our response to “do not track” signals.
     
     ### 5.5. Contact Information
     
     You can contact us or use other options to resolve any complaints.
     
-    If you have questions or complaints regarding this Policy, please first [contact LinkedIn](http://www.linkedin.com/help/legacy/redirect/app/ask/path/ppq/loc/na/trk/microsites-frontend_legal_privacy-policy/) online. You can also reach us by [physical mail](https://www.linkedin.com/help/linkedin/answer/79728). If contacting us does not resolve your complaint, you have more [options](https://www.linkedin.com/help/linkedin/answer/80432). Residents in the [Designated Countries](https://www.linkedin.com/help/linkedin/answer/89877) and [other regions](https://privacy.linkedin.com/regionalinfo) may also have the right to contact our Data Protection Officer [here](https://www.linkedin.com/help/linkedin/ask/TSO-DPO).If this does not resolve your complaint, Residents in the Designated Countries and other regions may have more [options](https://www.linkedin.com/help/linkedin/answer/80432) under their laws.
+    If you have questions or complaints regarding this Policy, please first [contact LinkedIn](http://www.linkedin.com/help/legacy/redirect/app/ask/path/ppq/loc/na/trk/microsites-frontend_legal_privacy-policy/) online. You can also reach us by [physical mail](https://www.linkedin.com/help/linkedin/answer/79728?trk=microsites-frontend_legal_privacy-policy&lang=en). If contacting us does not resolve your complaint, you have more [options](https://www.linkedin.com/help/linkedin/answer/80432?trk=microsites-frontend_legal_privacy-policy&lang=en). Residents in the [Designated Countries](https://www.linkedin.com/help/linkedin/answer/89877?trk=microsites-frontend_legal_privacy-policy&lang=en) and [other regions](https://privacy.linkedin.com/regionalinfo) may also have the right to contact our Data Protection Officer [here](https://www.linkedin.com/help/linkedin/ask/TSO-DPO).If this does not resolve your complaint, Residents in the Designated Countries and other regions may have more [options](https://www.linkedin.com/help/linkedin/answer/80432?trk=microsites-frontend_legal_privacy-policy&lang=en) under their laws.
     
     Key Terms
     
