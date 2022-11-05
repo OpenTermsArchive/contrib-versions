@@ -306,7 +306,7 @@ To maintain a safe metaverse, Roblox does **not** permit:
     * Promotional codes that falsely appear to be offered by Roblox itself
     * Inappropriate use of the group payout system, including offering payment in Robux for acting as a model for assets, joining groups, referring members, or role-playing in experiences.
     
-    You also may not use third-party services or products to sell, either directly or as a bundle: in-experience items, exclusive features, or other in-experience enhancements.  
+    Developers who are not part of a Roblox partnership program may not use off-platform services or products to sell on-platform items for money or Robux, either directly or as a bundle. This includes: Roblox Marketplace items, in-experience items, exclusive features, or other in-experience enhancements. Find more details on acceptable promo codes [here](https://en.help.roblox.com/hc/articles/10549651908244).  
       
     We also don’t allow using Roblox to solicit donations for an external charitable cause. This includes, but is not limited to:
     * In-experience prompts for users to donate Robux toward a crowdfunding campaign
@@ -315,6 +315,6 @@ To maintain a safe metaverse, Roblox does **not** permit:
 
 See the [Roblox Terms of Use](https://en.help.roblox.com/hc/en-us/articles/115004647846) for more information.
 
-**Last Updated**: October 31, 2022
+**Last Updated**: November 4, 2022
 
 [Return to top](#article-container)
