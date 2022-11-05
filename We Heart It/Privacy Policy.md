@@ -211,7 +211,6 @@ A list of the third-party advertising and technology companies that we work with
 * Kiip, Inc. – [Privacy Policy](https://app.kiip.me/privacy)
 * Liftoff Mobile, Inc. – [Privacy Policy](https://liftoff.io/privacy-policy/)
 * LiveRamp – [Privacy Policy](https://liveramp.com/privacy/)
-* LiveIntent – [Privacy Policy](https://www.liveintent.com/services-privacy-policy/)
 * LoopMe Ltd. – [Privacy Policy](https://loopme.com/privacy/)
 * Mobfox – [Privacy Policy](https://www.mobfox.com/privacy-policy/)
 * MobileFuse, LLC – [Privacy Policy](https://mobilefuse.com/privacy-policy/)
