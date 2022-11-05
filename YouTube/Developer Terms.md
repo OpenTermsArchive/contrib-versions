@@ -145,7 +145,7 @@ III. General Developer Policies
 
 1. API Credentials
     
-    To access or use some [YouTube API Services](#definition-youtube-api-services), you must first use the [Google Developers Console](https://console.developers.google.com/) ([https://console.developers.google.com/](https://console.developers.google.com/)) to create [API Credentials](#definition-api-credentials) for your [API Project](#definition-api-project"). Those credentials enable Google and YouTube to link API activity to a particular [API Project](#definition-api-project") and [API Client](#definition-api-client).
+    To access or use some [YouTube API Services](#definition-youtube-api-services), you must first use the [Google Developers Console](https://console.cloud.google.com/) ([https://console.cloud.google.com/](https://console.cloud.google.com/)) to create [API Credentials](#definition-api-credentials) for your [API Project](#definition-api-project"). Those credentials enable Google and YouTube to link API activity to a particular [API Project](#definition-api-project") and [API Client](#definition-api-client).
     
     In addition to creating [API Credentials](#definition-api-credentials), the Developers Console might require you to provide certain other information, such as identification or contact details, before you can access or use the [YouTube API Services](#definition-youtube-api-services) associated with those credentials. YouTube reserves the right to require you to provide additional information to continue to access or use [YouTube API Services](#definition-youtube-api-services).
     
