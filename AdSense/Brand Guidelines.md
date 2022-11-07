@@ -28,7 +28,7 @@ You must include certain elements of Google search results, while others are rec
 * _Mandatory_: Result Title, Snippet, Search Result URL
 * _Optional:_ cached link, similar pages link, size and date crawled, description
 
-![](//lh3.googleusercontent.com/oNhhElBruKbSmAjkAHIKjrmLfPEG5x6JFPZzzvkTj49-gh5dtKqNUKkc2crMYGKdOZk=w515)
+![Example of branding guidelines.](//lh3.googleusercontent.com/oNhhElBruKbSmAjkAHIKjrmLfPEG5x6JFPZzzvkTj49-gh5dtKqNUKkc2crMYGKdOZk=w515)
 
 ### Header
 
