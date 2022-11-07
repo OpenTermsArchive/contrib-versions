@@ -612,7 +612,7 @@ All prices are subject to change as per our General Terms and Conditions above.
 
 32\. Energia EV Charger Customer Terms and Conditions
 
-Please see Energia EV Charger Customer Terms and Conditions **[here](https://www.energia.ie/getattachment/Privacy-2018/Terms-Conditions/Heineken-Champions-Cup-Final-Competition-2019-(1)/Customer-Terms-and-Conditions.pdf.aspx;?lang=en-IE)**
+Please see Energia EV Charger Customer Terms and Conditions **[here](https://www.energia.ie/getattachment/Privacy-2018/Terms-Conditions/Energia-EV-Charger/Energia-EV-Charger-Customer-Terms-and-Conditions.pdf.aspx;?lang=en-IE)**
 
 33\. Revolut Customer Exclusive Offer
 
