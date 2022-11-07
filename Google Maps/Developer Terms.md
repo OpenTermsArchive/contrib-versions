@@ -373,6 +373,122 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Île-de-France Mobilités - [https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf](https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf)
             
+        * Contient des informations des producteurs de données suivants, sujettes à la Licence Ouverte v2 ([source](https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf)) et mises à jour régulièrement à partir d'octobre 2022 :
+            
+            * Région Bourgogne-Franche-Comté - Mobigo. ([https://transport.data.gouv.fr/datasets/reseau-de-transport-interurbain-mobigo-en-bourgogne-franche-comte/](https://transport.data.gouv.fr/datasets/reseau-de-transport-interurbain-mobigo-en-bourgogne-franche-comte/))
+                
+            * Département de Loire-Atlantique - Bacs. ([https://transport.data.gouv.fr/datasets/horaires-des-bacs-de-loire-en-loire-atlantique-gtfs/](https://transport.data.gouv.fr/datasets/horaires-des-bacs-de-loire-en-loire-atlantique-gtfs/))
+                
+            * Région Provence-Alpes-Côte-d'Azur - réseau ZOU. ([https://transport.data.gouv.fr/datasets/lignes-des-reseaux-de-transport-zou-en-provence-alpes-cote-dazur/](https://transport.data.gouv.fr/datasets/lignes-des-reseaux-de-transport-zou-en-provence-alpes-cote-dazur/))
+                
+            * Collectivité de Corse - Chemins de fer. ([https://transport.data.gouv.fr/datasets/gtfs-transport-horaires-chemins-de-fer-corse/](https://transport.data.gouv.fr/datasets/gtfs-transport-horaires-chemins-de-fer-corse/))
+                
+            * Communauté Urbaine du Grand Reims - réseau Citura. ([https://transport.data.gouv.fr/datasets/parcours-arrets-et-horaires-theoriques-du-reseau-de-transport-citura-de-la-communaute-urbaine-du-grand-reims-gtfs/](https://transport.data.gouv.fr/datasets/parcours-arrets-et-horaires-theoriques-du-reseau-de-transport-citura-de-la-communaute-urbaine-du-grand-reims-gtfs/))
+                
+            * Communauté d’Agglomération du Centre Littoral de Guyane - Agglobus. ([https://transport.data.gouv.fr/datasets/agence-agglobus/](https://transport.data.gouv.fr/datasets/agence-agglobus/))
+                
+            * Grand Poitiers Open Data - Vitalis. ([https://transport.data.gouv.fr/datasets/mobilite-arrets-services-et-horaires-theoriques-bus-fichier-gtfs/](https://transport.data.gouv.fr/datasets/mobilite-arrets-services-et-horaires-theoriques-bus-fichier-gtfs/))
+                
+            * Collectivité de Corse - Cars Haute Corse. ([https://transport.data.gouv.fr/datasets/gtfs-transport-horaires-cars-de-haute-corse/](https://transport.data.gouv.fr/datasets/gtfs-transport-horaires-cars-de-haute-corse/))
+                
+            * Collectivité de Corse - Cars Corse du Sud. ([https://transport.data.gouv.fr/datasets/gtfs-transport-horaires-cars-de-corse-du-sud/](https://transport.data.gouv.fr/datasets/gtfs-transport-horaires-cars-de-corse-du-sud/))
+                
+            * Estérel Côte d'Azur Agglomération - Agglobus. ([https://transport.data.gouv.fr/datasets/reseau-de-transport-urbain-agglobus-cavem/](https://transport.data.gouv.fr/datasets/reseau-de-transport-urbain-agglobus-cavem/))
+                
+            * Fluo Grand Est - réseau TRACE. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-trace-colmar-agglomeration](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-trace-colmar-agglomeration))
+                
+            * Dracénie Provence Verdon agglomération - TedBus. ([https://transport.data.gouv.fr/datasets/tedbus-horaires/](https://transport.data.gouv.fr/datasets/tedbus-horaires/))
+                
+            * Communauté d'Agglomération Provence Verte - Mouvenbus. ([https://transport.data.gouv.fr/datasets/reseau-de-transport-en-commun-de-la-communaute-dagglomeration-provence-verte/](https://transport.data.gouv.fr/datasets/reseau-de-transport-en-commun-de-la-communaute-dagglomeration-provence-verte/))
+                
+            * Fluo Grand Est - réseau Isibus. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-isibus-communaute-de-communes-sarrebourg-moselle-sud/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-isibus-communaute-de-communes-sarrebourg-moselle-sud/))
+                
+            * Communauté d'Agglomération Ventoux Comtat Venaissin - Trans'CoVe. ([https://transport.data.gouv.fr/datasets/reseau-de-transport-en-commun-de-la-communaute-agglomeration-ventoux-comtat-venaissin/](https://transport.data.gouv.fr/datasets/reseau-de-transport-en-commun-de-la-communaute-agglomeration-ventoux-comtat-venaissin/))
+                
+            * Fluo Grand Est - réseau Cmonbus. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-cmonbus-communaute-dagglomeration-de-chaumont-du-bassin-nogentais-et-du-bassin-de-bologne-vignory-froncles/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-cmonbus-communaute-dagglomeration-de-chaumont-du-bassin-nogentais-et-du-bassin-de-bologne-vignory-froncles/))
+                
+            * Durance Luberon Verdon Agglomération - Trans'Agglo. ([https://transport.data.gouv.fr/datasets/reseau-de-transport-en-commun-transagglo-de-dlva](https://transport.data.gouv.fr/datasets/reseau-de-transport-en-commun-transagglo-de-dlva))
+                
+            * Fluo Grand Est - réseau SITAC. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-sitac-communaute-dagglomeration-de-chalons-en-champagne/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-sitac-communaute-dagglomeration-de-chalons-en-champagne/))
+                
+            * Fluo Grand Est - réseau Lunéo. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-luneo-petr-du-pays-du-lunevillois/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-luneo-petr-du-pays-du-lunevillois/))
+                
+            * Fluo Grand Est - réseau Ticéa. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-ticea-communaute-dagglomeration-de-st-dizier-der-et-blaise/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-ticea-communaute-dagglomeration-de-st-dizier-der-et-blaise/))
+                
+            * Fluo Grand Est - réseau Mouvéo. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-mouveo-communaute-dagglomeration-epernay-coteaux-et-plaine-de-champagne/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-mouveo-communaute-dagglomeration-epernay-coteaux-et-plaine-de-champagne/))
+                
+            * Fluo Grand Est - réseau Aube. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-fluo-grand-est-10-region-grand-est-dga-mobilites/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-fluo-grand-est-10-region-grand-est-dga-mobilites/))
+                
+            * Fluo Grand Est - réseau Ardennes. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-fluo-grand-est-08-region-grand-est-dga-mobilites/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-fluo-grand-est-08-region-grand-est-dga-mobilites/))
+                
+            * Fluo Grand Est - réseau Meurthe-et-Moselle. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-fluo-grand-est-54-region-grand-est-dga-mobilites/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-fluo-grand-est-54-region-grand-est-dga-mobilites/))
+                
+            * Fluo Grand Est - réseau Bus Etoile. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-bus-etoile-commune-de-langres/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-bus-etoile-commune-de-langres/))
+                
+            * Fluo Grand Est - réseau CABUS. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-cabus-communaute-dagglomeration-sarreguemines-confluences/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-cabus-communaute-dagglomeration-sarreguemines-confluences/))
+                
+            * Fluo Grand Est - réseau Marne. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-fluo-grand-est-51-region-grand-est-dga-mobilites/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-fluo-grand-est-51-region-grand-est-dga-mobilites/))
+                
+            * Fluo Grand Est - réseau Soléa. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-solea-communaute-dagglomeration-mulhouse-alsace-agglomeration/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-solea-communaute-dagglomeration-mulhouse-alsace-agglomeration/))
+                
+            * Fluo Grand Est - réseau Haut-Rhin. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-fluo-grand-est-68-region-grand-est-dga-mobilites/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-fluo-grand-est-68-region-grand-est-dga-mobilites/))
+                
+            * Fluo Grand Est - réseau TIS. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-tis-communaute-de-communes-de-selestat/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-tis-communaute-de-communes-de-selestat/))
+                
+            * Fluo Grand Est - réseau Bas-Rhin. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-fluo-grand-est-67-region-grand-est-dga-mobilites/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-fluo-grand-est-67-region-grand-est-dga-mobilites/))
+                
+            * Le Grand Chalon - Zoom. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-zoom-le-grand-chalon-gtfs/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-zoom-le-grand-chalon-gtfs/))
+                
+            * Decazeville Communauté - TUB. ([https://transport.data.gouv.fr/datasets/transport-urbain-du-bassin/](https://transport.data.gouv.fr/datasets/transport-urbain-du-bassin/))
+                
+            * Fluo Grand Est - Troyes/Châlons-en-Champagne/Reims. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-fluo-grand-est-c140-region-grand-est-dga-mobilites/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-fluo-grand-est-c140-region-grand-est-dga-mobilites/))
+                
+            * Fluo Grand Est - réseau Meuse. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-fluo-grand-est-55-region-grand-est-dga-mobilites/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-fluo-grand-est-55-region-grand-est-dga-mobilites/))
+                
+            * Fluo Grand Est - réseau Transavold. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-transavold-communaute-dagglomeration-saint-avold-synergie/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-transavold-communaute-dagglomeration-saint-avold-synergie/))
+                
+            * Fluo Grand Est - réseau Vosges. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-fluo-grand-est-88-region-grand-est-dga-mobilites/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-fluo-grand-est-88-region-grand-est-dga-mobilites/))
+                
+            * Fluo Grand Est - réseau Colibiri. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-colibri-communaute-de-communes-terres-touloises/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-colibri-communaute-de-communes-terres-touloises/))
+                
+            * Fluo Grand Est - réseau Citeline. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-citeline-syndicat-mixte-des-transports-urbains-thionville-fensch/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-citeline-syndicat-mixte-des-transports-urbains-thionville-fensch/))
+                
+            * Oise Mobilité - Syndicat mixte des transports collectifs de l'Oise. ([https://transport.data.gouv.fr/datasets/arrets-horaires-et-parcours-theoriques-gtfs-des-differents-reseaux-de-transport-membres-du-synd3-1/](https://transport.data.gouv.fr/datasets/arrets-horaires-et-parcours-theoriques-gtfs-des-differents-reseaux-de-transport-membres-du-synd3-1/))
+                
+            * Fluo Grand Est - réseau Distribus. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-distribus-communaute-dagglomeration-saint-louis-agglomeration/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-distribus-communaute-dagglomeration-saint-louis-agglomeration/))
+                
+            * Fluo Grand Est - réseau Le Bus. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-le-bus-communaute-de-communes-du-bassin-de-pont-a-mousson/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-le-bus-communaute-de-communes-du-bassin-de-pont-a-mousson/))
+                
+            * Fluo Grand Est - réseau Forbus. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-forbus-agglomeration-de-forbach/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-forbus-agglomeration-de-forbach/))
+                
+            * Fluo Grand Est - réseau Le Fil. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-le-fil-syndicat-mixte-des-transports-du-pays-du-bassin-de-briey/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-le-fil-syndicat-mixte-des-transports-du-pays-du-bassin-de-briey/))
+                
+            * Fluo Grand Est - réseau Pass’O. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-passo-ville-dobernai/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-passo-ville-dobernai/))
+                
+            * Fluo Grand Est - réseau TUM. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-tum-commune-de-sainte-menehould/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-tum-commune-de-sainte-menehould/))
+                
+            * Fluo Grand Est - réseau Ritmo. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-ritmo-communaute-dagglomeration-de-haguenau/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-ritmo-communaute-dagglomeration-de-haguenau/))
+                
+            * Fluo Grand Est - réseau TAC. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-tac-communaute-dagglomeration-ardenne-metropole/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-tac-communaute-dagglomeration-ardenne-metropole/))
+                
+            * Fluo Grand Est - réseau Imagine. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-imagine-communaute-dagglomeration-depinal/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-imagine-communaute-dagglomeration-depinal/))
+                
+            * Fluo Grand Est - réseau SUB Nancy. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-sub-syndicat-mixte-des-transports-suburbains-de-nancy/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-sub-syndicat-mixte-des-transports-suburbains-de-nancy/))
+                
+            * Fluo Grand Est - réseau Le SIT. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-le-sit-communaute-de-communes-du-bassin-de-pompey](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-le-sit-communaute-de-communes-du-bassin-de-pompey))
+                
+            * Communauté d'Agglomération Hérault Méditerranée - Cap'Bus. ([https://transport.data.gouv.fr/datasets/gtfs-du-reseau-capbus-en-lien-avec-le-temps-reel-zenbus/](https://transport.data.gouv.fr/datasets/gtfs-du-reseau-capbus-en-lien-avec-le-temps-reel-zenbus/))
+                
+            * Fluo Grand Est - Pays du Sel et du Vermois. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-cc-des-pays-du-sel-et-du-vermois/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-cc-des-pays-du-sel-et-du-vermois/))
+                
+            * Communauté d'Agglomération Ventoux Comtat Venaissin - Trans'CoVe. ([https://transport.data.gouv.fr/datasets/reseau-de-transport-en-commun-de-la-communaute-agglomeration-ventoux-comtat-venaissin](https://transport.data.gouv.fr/datasets/reseau-de-transport-en-commun-de-la-communaute-agglomeration-ventoux-comtat-venaissin))
+                
+            * Fluo Grand Est - réseau TUB. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-tub-communaute-dagglomeration-bar-le-duc-sud-meuse/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-tub-communaute-dagglomeration-bar-le-duc-sud-meuse/))
+                
+            * Occitanie Pyrénées en Intelligence Géomatique - Grand Narbonne. ([https://transport.data.gouv.fr/datasets/arrets-de-bus-communaute-dagglomeration-le-grand-narbonne-2](https://transport.data.gouv.fr/datasets/arrets-de-bus-communaute-dagglomeration-le-grand-narbonne-2))
+                
+            * Fluo Grand Est - réseau TGL. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-tgl-syndicat-intercommunal-des-transports-collectifs-du-bassin-de-longwy](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-tgl-syndicat-intercommunal-des-transports-collectifs-du-bassin-de-longwy))
+                
     10. **Germany**
         * Bundesamt für Kartographie und Geodäsie - © Vermessungsverwaltungen der Bundesländer und Bundesamt für Kartographie und Geodäsie: [/www.govdata.de/dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0)
             
