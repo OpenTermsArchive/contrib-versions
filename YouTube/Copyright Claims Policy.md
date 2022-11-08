@@ -3,12 +3,24 @@ The first rule of copyright
 
 Creators should only upload videos that they have made or that they're authorised to use. That means that they should not upload videos that they didn't make, or use content in their videos that someone else owns the copyright to, such as music tracks, snippets of copyrighted programmes or videos made by other users, without necessary authorisations.
 
-What is fair use?
------------------
+What are copyright exceptions?
+------------------------------
 
-Fair use is a US law that allows the reuse of copyright-protected material under certain circumstances without getting permission from the copyright owner. However, fair use is determined on a case-by-case basis, and different countries have different rules about when it's acceptable to use material without the copyright owner's permission. In the US, works of commentary, criticism, research, teaching or news reporting might be considered fair use, but it can depend on the situation.
+Copyright exceptions are laws that allow you to reuse someone else's copyright-protected material without getting their permission, but only under certain circumstances.
 
-We have created the YouTube [Audio Library](https://support.google.com/youtube/answer/3376882?hl=en-gb) to help creators reuse content safely by providing high-quality music and sound effects.
+In the US, the most widely known copyright exception is fair use. When deciding whether a use is fair, courts look at four factors: the purpose and character of the use, the nature of the copyrighted work, the amount and substantiality of the portion used in relation to the copyrighted work as a whole, and the effect of the use upon the potential market for or value of the copyrighted work. Some activities that may qualify as fair use include criticism, commentary and news reporting. Fair use aims to promote freedom of expression.
+
+In some civil law countries, including many in the EU, more limited exceptions are recognised where the reuse must fall within specific categories, instead of having factors that are weighed. The categories set out in Article 17 of the EU Digital Single Market copyright directive are quotation, criticism, review, caricature, parody and pastiche. These words have their usual meaning in everyday language, but are also enacted into law by each member state and interpreted by both national courts and the Court of Justice of the European Union (CJEU). It is also important to consider the context of the use, and the purpose of such copyright exceptions, one of which is to balance creators' freedom of expression, and rightsholders' copyright.
+
+In some countries, such as Canada, the UK and Australia, a hybrid concept of fair dealing exists. Courts weigh factors similar to those in fair use, but reuses must fall within specific categories. These categories include quotation (general quotation, and quotation for the purposes of criticism, review or news reporting), caricature, parody and pastiche.
+
+Most countries in the world have signed an international treaty known as the Berne Convention, which allows reuses in specific categories, including for quotation, and news reporting.
+
+While there are some similarities regarding copyright exceptions across the globe, there are still considerable differences between the laws of each country. There's no one-size-fits-all answer as to whether a reuse falls within copyright exceptions, and the courts decide the applicability of such exceptions on a case-by-case basis.
+
+At YouTube, our mission is to give everyone a voice and show them the world. Copyright exceptions play a key role in furthering this mission by supporting the free flow of ideas and creativity. Therefore, we ask rightsholders to consider the applicability of copyright exceptions before they submit copyright removal requests. We believe that this would strike a balance between respecting the copyright of rightsholders, and creators' freedom of expression that may be protected by copyright exceptions.
+
+In addition, we build products that empower creators to access, create and share information like never before. We've created an [Audio Library](https://support.google.com/youtube/answer/3376882) for you to discover free high-quality music and sound effects that you can reuse safely. Now with YouTube Shorts, you can [create short videos sampling someone else's content](https://support.google.com/youtube/answer/10623810), provided that they have given you permission to do so. We're also continuing to build and expand [Creator Music](https://support.google.com/youtubecreatormusic), which lets creators in the YouTube Partner programme safely use commercial music by licensing tracks or sharing their video revenue with music rights holders.
 
 ### Resources
 
