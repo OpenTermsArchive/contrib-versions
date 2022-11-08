@@ -9,10 +9,6 @@ If you are accessing the Google Cloud Platform Services as a customer of an unaf
 
 If you signed an offline variant of this Agreement for use of the Google Cloud Platform services under the same Google Cloud Platform Account, the terms below do not apply to you, and your offline terms govern your use of the Google Cloud Platform Services.
 
-If your billing account is in Brazil, please review these [Terms of Service](https://cloud.google.com/terms/), which apply to your use of Google Cloud Platform.
-
-Se a sua conta para faturamento é no Brasil, por gentileza veja o [Termos de Serviço](https://cloud.google.com/terms/), que será o Termo aplicável à sua utilização da Google Cloud Platform.
-
 These Google Cloud Platform Terms of Service (together, the "Agreement") are entered into by Google and the entity or person agreeing to these terms ("Customer") and govern Customer's access to and use of the Services. "Google" has the meaning given at [https://cloud.google.com/terms/google-entity](https://cloud.google.com/terms/google-entity).
 
 This Agreement is effective when Customer clicks to accept it (the "Effective Date"). If you are accepting on behalf of Customer, you represent and warrant that (i) you have full legal authority to bind Customer to this Agreement; (ii) you have read and understand this Agreement; and (iii) you agree, on behalf of Customer, to this Agreement.
@@ -167,9 +163,9 @@ If Google makes a material change to the Cloud Data Processing Addendum in accor
 
 14.2 _Emails._ The parties may use emails to satisfy written approval and consent requirements under the Agreement.
 
-14.3 _Assignment._ Neither party may assign any part of this Agreement without the written consent of the other, except to an Affiliate where (a) the assignee has agreed in writing to be bound by the terms of this Agreement, and (b) the assigning party has notified the other party of the assignment. Any other attempt to assign is void. If Customer assigns this Agreement to an Affiliate in another jurisdiction such that there is a change in the Google contracting entity as defined at [https://cloud.google.com/terms/google-entity](https://cloud.google.com/terms/google-entity) (i) this Agreement is automatically assigned to the new Google contracting entity; and (ii) if the Affiliate’s billing account is in Brazil, the applicable terms of service linked above, and not this Agreement, will apply from the moment of the assignment.
+14.3 _Assignment._ Neither party may assign any part of this Agreement without the written consent of the other, except to an Affiliate where (a) the assignee has agreed in writing to be bound by the terms of this Agreement, and (b) the assigning party has notified the other party of the assignment. Any other attempt to assign is void. If Customer assigns this Agreement to an Affiliate in another jurisdiction such that there is a change in the Google contracting entity as defined at [https://cloud.google.com/terms/google-entity](https://cloud.google.com/terms/google-entity) this Agreement is automatically assigned to the new Google contracting entity.
 
-14.4 _Change of Control._ If a party experiences a change of Control other than as part of an internal restructuring or reorganization (for example, through a stock purchase or sale, merger, or other form of corporate transaction), that party will give written notice to the other party within 30 days after the change of Control.
+14.4 _Change of Control._ If a party experiences a change of Control other than as part of an internal restructuring or reorganization (for example, through a stock purchase or sale, merger, or other form of corporate transaction), that party will give written notice to the other party within 30 days after the change of Control.
 
 14.5 _Force Majeure._ Neither party will be liable for failure or delay in performance to the extent caused by circumstances beyond its reasonable control, including acts of God, natural disasters, terrorism, riots, or war.
 
@@ -288,9 +284,9 @@ Section 14.12 (U.S. Governing Law) is replaced as follows:
 
 **Asia Pacific - India**
 
-Google Cloud India has been appointed by Google Asia Pacific Pte. Ltd. (‘GAP’) as a non-exclusive reseller of the Services (as defined below) in India. For avoidance of any doubts, whilst in the Agreement, both the entities have been referred  to as ‘Google,’ it is hereby clarified that wherever the provisions refer to Google for sales or rights and obligations in relation thereto (including any terms relating to invoicing for sale of services, credit limit, termination of this Agreement, etc.),  ‘Google’ shall mean Google Cloud India, and wherever in the agreement, the provisions refer to  ‘Google’ as a provider of the Services or rights and obligations in relation thereto shall mean  ‘Google Asia Pacific Pte Ltd’ or ‘GAP’.
+Google Cloud India Private Limited has been appointed by Google Asia Pacific Pte. Ltd. (‘GAP’) as a non-exclusive reseller of the Services (as defined below) in India. For avoidance of any doubts, whilst in the Agreement, both the entities have been referred  to as ‘Google.’ It is hereby clarified that wherever the provisions refer to Google for sales or rights and obligations in relation thereto (including any terms relating to invoicing for sale of services, credit limit, termination of this Agreement, etc.),  ‘Google’ shall mean Google Cloud India Private Limited, and wherever in the Agreement, the provisions refer to  ‘Google’ as a provider of the Services or rights and obligations in relation thereto shall mean  ‘GAP’.
 
-Google Cloud India may execute Order Form(s) referencing the Agreement, but the Order Form will form a separate contract between Google Cloud India and the Customer, and incorporate all of the terms of this Agreement and the applicable Service Schedule by reference. Under the agreement, whereas, as a reseller of services, Google Cloud India purchases the services from GAP for resale to the customer, the entire obligation to provide such services under the Service Schedule will be met by GAP and as such, Google Cloud India will not have any obligation under the Service Schedule.
+Google Cloud India Private Limited may execute Order Form(s) referencing the Agreement, but the Order Form will form a separate contract between Google Cloud India Private Limited and the Customer, and incorporate all of the terms of this Agreement. Under the agreement, whereas, as a reseller of Services, Google Cloud India Private Limited purchases the Services from GAP for resale to the Customer, the entire obligation to provide such Services under the Agreement will be met by GAP and as such, Google Cloud India Private Limited will not have any obligation related to performance of Services.
 
 Section 2 (Payment Terms) is replaced as follows:
 
@@ -298,11 +294,11 @@ Section 2 (Payment Terms) is replaced as follows:
 
 2.1 _Payment_. 
 
-(a) Google will invoice Customer for the Fees. Customer will pay Google all invoiced amounts by the payment due date. All payments are due in the currency described in the invoice. Wire transfer payments must include the bank information described in the invoice.
+(a) Google will invoice Customer for the Fees. **Payments for invoices are due 60 days after the invoice date (unless otherwise specified on the Order Form) and are considered overdue after such date.** All payments are due in the currency described in the invoice. Wire transfer payments must include the bank information described in the invoice.
 
 2.2 _Taxes_. 
 
-(a) In consideration of the sale of Services, Customer agrees to pay to Google, the Fees plus any applicable taxes. If Google is obligated to collect or pay Taxes, the Taxes will be invoiced to Customer along with the Fees for sale of services, unless Customer provides Google Cloud India with a timely and valid tax exemption certificate authorized by the appropriate taxing authority.
+(a) In consideration of the sale of Services, Customer agrees to pay to Google, the Fees plus any applicable taxes. If Google is obligated to collect or pay Taxes, the Taxes will be invoiced to Customer along with the Fees for sale of services, unless Customer provides Google with a timely and valid tax exemption certificate authorized by the appropriate taxing authority.
 
 (b) If required under the applicable law, Customer will provide Google with applicable tax identification information (Goods and Services Tax Identification Number (“GSTIN”), location where the Services would be received by the customer, tax status etc.) that Google may require to ensure its compliance with applicable tax regulations in India. The Customer acknowledges that all the details provided such as the GSTIN, location where the Services would be received by the Customer, tax status etc. are correct. The address and GSTIN provided are of the location where the Services would be received by the Customer. Customer will be liable to pay (or reimburse Google for) any taxes, interest or fines arising out of any mis-declaration by the Customer.
 
@@ -316,7 +312,7 @@ Section 14.12 (U.S. Governing Law) is replaced as follows:
 
 14.12 _Governing Law_. 
 
-All claims arising out of or relating to the Agreement will be governed by laws of India, excluding that state’s conflict of laws rules, and will be litigated exclusively in the courts of New Delhi; the parties consent to exclusive jurisdiction in those courts.
+All claims arising out of or relating to the Agreement will be governed by laws of India, excluding that state’s conflict of laws rules, and will be litigated exclusively in the courts of New Delhi; the parties consent to exclusive jurisdiction in those courts. Notwithstanding the above, the Customer can and will bring all claims with respect to Google under the Agreement against Google Cloud India Private Limited.
 
 The definition of "Taxes" under Section 14.19 (Definitions) is replaced as follows:
 
@@ -360,6 +356,34 @@ Section 14.12 (U.S. Governing Law) is replaced as follows:
 
 (h) Each party will bear its own lawyers’ and experts’ fees and expenses, regardless of the arbitrator’s final decision regarding the Dispute.
 
+**Latin** **America** **- Brazil**
+
+Section 14.12 (U.S. Governing Law) is replaced as follows:
+
+14.12 _Governing Law; Arbitration._
+
+(a) This agreement will be governed by Brazilian law.
+
+(b) All claims arising out of or relating to this agreement or any related Google products or services (including any dispute regarding the interpretation or performance of the agreement) (“Dispute”) will be definitively resolved by arbitration in accordance with the arbitration rules of the center of arbitration and mediation of the Brazil-Canada Chamber of Commerce (“Rules”).
+
+(c) The arbitral tribunal will be composed of three arbitrators to be appointed in accordance with the Rules. The arbitration will be conducted in Portuguese in São Paulo, Brazil, the place where the arbitral award will be rendered.
+
+(d) The arbitral tribunal may not decide by equity.
+
+(e) Subject to the confidentiality requirements in subsection (g), either party may petition the courts of the city of São Paulo or any competent court to issue any order necessary to protect that party's rights or property; this petition will not be considered a violation or waiver of this governing law and arbitration section and will not affect the arbitrator’s powers, including the power to review the judicial decision.
+
+(f) The arbitral award will be final and binding on the parties and its execution may be presented in any competent court, including any court with jurisdiction over either party or any of its property.
+
+(g) Any arbitration proceeding conducted in accordance with this section will be considered confidential information, including (i) the existence of, (ii) any information disclosed during, and (iii) any oral communications or documents related to the arbitration proceedings. The parties may disclose the information described in this subsection (g) to a competent court as may be necessary to execute any award rendered by the arbitral tribunal or file any order under subsection (e). But the parties must request that those judicial proceedings be conducted in camera (in private).
+
+(h) The arbitral award will determine the non-prevailing party’s obligation to reimburse the arbitrators’ fees, the arbitral tribunal’s appointed experts’ fees and expenses, and the arbitration center’s administrative expenses paid in advance by the other party.
+
+(i) Each party will bear its own lawyers’ and experts’ fees and expenses, regardless of the arbitral tribunal’s final decision regarding the dispute.
+
+Section 14.18 (Conflicting Languages) is replaced as follows:
+
+14.18 _Conflicting Languages._ This Agreement is made in Portuguese and the English language. In the event of any inconsistency or different interpretation between the Portuguese version and the English version, the parties agree to amend the Portuguese version to make the relevant part of the Portuguese version consistent with the relevant part of the English version.
+
 **North America - United States**
 
 Section 14.19 (Definitions) is changed to Section 14.20 (Definitions).
@@ -368,6 +392,6 @@ A new Section 14.19 is added:
 
 14.19 _U.S. Federal Agency Users._ The Services were developed solely at private expense and are commercial computer software and related documentation within the meaning of the applicable Federal Acquisition Regulations and their agency supplements.
 
-Previous versions _(Last modified September 20, 2022)_
+Previous versions _(Last modified November 7, 2022)_
 
-[March 29, 2022](https://cloud.google.com/terms/index-20220329) [September 20, 2021](https://cloud.google.com/terms/index-20210920) [April 1, 2021](https://cloud.google.com/terms/index-20210401) [November 2, 2020](https://cloud.google.com/terms/index-20201102) [October 6, 2020](https://cloud.google.com/terms/index-20201006) [August 31, 2020](https://cloud.google.com/terms/index-20200831) [August 13, 2020](https://cloud.google.com/terms/index-20200813) [March 26, 2020](https://cloud.google.com/terms/index-20200326) [November 21, 2019](https://cloud.google.com/terms/index-20191121) [July 22, 2019](https://cloud.google.com/terms/index-20190722) [November 2, 2018](https://cloud.google.com/terms/index-20181102) [November 1, 2018](https://cloud.google.com/terms/index-20181101) [October 1, 2018](https://cloud.google.com/terms/index-20181001) [June 27, 2018](https://cloud.google.com/terms/index-20180627) [June 15, 2018](https://cloud.google.com/terms/index-20180615) [June 5, 2018](https://cloud.google.com/terms/index-20180605) [May 23, 2018](https://cloud.google.com/terms/index-20180523) [May 18, 2018](https://cloud.google.com/terms/index-20180518) [April 30, 2018](https://cloud.google.com/terms/index-20180430) [April 4, 2018](https://cloud.google.com/terms/index-20180404) [February 8, 2018](https://cloud.google.com/terms/index-20180208) [January 9, 2018](https://cloud.google.com/terms/index-20180109) [October 19, 2017](https://cloud.google.com/terms/index-20171019)
+[September 20, 2022](https://cloud.google.com/terms/index-20220920) [March 29, 2022](https://cloud.google.com/terms/index-20220329) [September 20, 2021](https://cloud.google.com/terms/index-20210920) [April 1, 2021](https://cloud.google.com/terms/index-20210401) [November 2, 2020](https://cloud.google.com/terms/index-20201102) [October 6, 2020](https://cloud.google.com/terms/index-20201006) [August 31, 2020](https://cloud.google.com/terms/index-20200831) [August 13, 2020](https://cloud.google.com/terms/index-20200813) [March 26, 2020](https://cloud.google.com/terms/index-20200326) [November 21, 2019](https://cloud.google.com/terms/index-20191121) [July 22, 2019](https://cloud.google.com/terms/index-20190722) [November 2, 2018](https://cloud.google.com/terms/index-20181102) [November 1, 2018](https://cloud.google.com/terms/index-20181101) [October 1, 2018](https://cloud.google.com/terms/index-20181001) [June 27, 2018](https://cloud.google.com/terms/index-20180627) [June 15, 2018](https://cloud.google.com/terms/index-20180615) [June 5, 2018](https://cloud.google.com/terms/index-20180605) [May 23, 2018](https://cloud.google.com/terms/index-20180523) [May 18, 2018](https://cloud.google.com/terms/index-20180518) [April 30, 2018](https://cloud.google.com/terms/index-20180430) [April 4, 2018](https://cloud.google.com/terms/index-20180404) [February 8, 2018](https://cloud.google.com/terms/index-20180208) [January 9, 2018](https://cloud.google.com/terms/index-20180109) [October 19, 2017](https://cloud.google.com/terms/index-20171019)
