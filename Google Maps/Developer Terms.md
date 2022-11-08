@@ -373,6 +373,34 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Île-de-France Mobilités - [https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf](https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf)
             
+        * Contient des informations des producteurs de données suivants, sujettes à la Licence Ouverte ([source](https://www.etalab.gouv.fr/wp-content/uploads/2014/05/Open_Licence.pdf)) et mises à jour régulièrement à partir d'octobre 2022 :
+            
+            * [Région Réunion](https://transport.data.gouv.fr/datasets/horaires-theoriques-au-format-gtfs-et-horaires-temps-reel-au-format-gtfs-rt-du-reseau-car-jaune-a-la-reunion/)
+                
+            * [Métropole Toulon Provence Méditerranée](https://transport.data.gouv.fr/datasets/reseau-de-transport-urbain-de-la-metropole-toulon-provence-mediterranee/)
+                
+            * [Eurométropole de Metz](https://transport.data.gouv.fr/datasets/transport-donnees-gtfs/)
+                
+            * [Zenbus](https://transport.data.gouv.fr/datasets/horaires-theoriques-et-temps-reel-du-reseau-la-reunion-carsud-gtfs-gtfs-rt/)
+                
+            * [Communauté d'agglomération du Pays de Grasse](https://transport.data.gouv.fr/datasets/lignes-regulieres-de-transports-en-pays-de-grasse/)
+                
+            * [Communauté de la Riviera Française](https://transport.data.gouv.fr/datasets/horaires-du-reseau-de-transport-public-zest)
+                
+            * [Communauté d'Agglomération du Grand Dole](https://transport.data.gouv.fr/datasets/reseau-de-transport-du-grand-dole/)
+                
+            * [Agglomération Montargoise Et Rives Du Loing](https://transport.data.gouv.fr/datasets/offre-de-transports-urbain-du-reseau-amelys-gtfs/)
+                
+            * [Rodez Agglomération](https://transport.data.gouv.fr/datasets/offre-2022-de-transport-du-reseau-urbain-agglobus-et-de-transports-scolaires-gtfs/)
+                
+            * [Communauté d'Agglomération Privas Centre Ardèche](https://transport.data.gouv.fr/datasets/reseau-urbain-interurbain-et-scolaire-de-la-communaute-dagglomeration-privas-centre-ardeche)
+                
+            * [Alternéo](https://transport.data.gouv.fr/datasets/donnees-du-reseau-alterneo/)
+                
+            * [Communauté de Communes de l'Ouest Vosgien](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-neobus-communaute-de-communes-de-louest-vosgien-gtfs)
+                
+            * [Transdev Mont Blanc Bus](https://transport.data.gouv.fr/datasets/chamonix-bus-1)
+                
         * Contient des informations des producteurs de données suivants, sujettes à la Licence Ouverte v2 ([source](https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf)) et mises à jour régulièrement à partir d'octobre 2022 :
             
             * Région Bourgogne-Franche-Comté - Mobigo. ([https://transport.data.gouv.fr/datasets/reseau-de-transport-interurbain-mobigo-en-bourgogne-franche-comte/](https://transport.data.gouv.fr/datasets/reseau-de-transport-interurbain-mobigo-en-bourgogne-franche-comte/))
