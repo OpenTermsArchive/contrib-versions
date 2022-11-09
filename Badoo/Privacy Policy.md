@@ -115,7 +115,7 @@ Our main goal is to ensure your experience on Badoo is an enjoyable one and in o
 
 ### Moderation Practices
 
-We use a combination of automated systems and a team of moderators to monitor and review accounts (including photos and any other information uploaded onto user profiles) and messages for content that indicates breaches of our [Terms and Conditions of Use](https://badoo.com/privacy/). If an account or message meets certain criteria that demonstrate that the [Terms and Conditions of Use](https://badoo.com/terms/) are likely to have been breached, the relevant account will be subject to a warning and the user’s access restricted and/or blocked. Affected Users can contact Badoo to contest the decision.
+We use a combination of automated systems and a team of moderators to monitor and review accounts (including photos and any other information uploaded onto user profiles) and messages for content that indicates breaches of our Terms and Conditions of Use. If an account or message meets certain criteria that demonstrate that the [Terms and Conditions of Use](https://badoo.com/terms/) are likely to have been breached, the relevant account will be subject to a warning and the user’s access restricted and/or blocked. Affected Users can contact Badoo to contest the decision.
 
 **If you post anything that is inconsistent with our Terms and Conditions of Use, we reserve the right to terminate or restrict access to your Account.**
 
