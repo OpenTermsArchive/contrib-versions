@@ -1,7 +1,7 @@
 Prohibited Content and Practices: Inappropriate Content
 =======================================================
 
-Content on all websites advertising via AdRoll must be appropriate, respectful to others, non-offensive, and safe for our customers and those that are served our ads. Ads and landing pages that promote violent, shocking, or discriminatory content are not eligible to run. 
+Content on all websites advertising via AdRoll must be appropriate, respectful to others, non-offensive, and safe for our customers and the audiences that see our customers’ ads. Ads and landing pages that promote violent, shocking, or discriminatory content are not eligible to run. 
 
 Examples of inappropriate content that may be prohibited are outlined below.
 
@@ -78,7 +78,7 @@ Content that intimidates another individual or group of individuals  
 
 Content that threatens harm or exploitation to others 
 
-Content that supports harming oneself or exploitation of others
+Content that supports the exploitation of others
 
 Content promoting any type of self-harm, such as suicide or anorexia
 
