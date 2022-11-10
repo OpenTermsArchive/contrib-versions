@@ -1,4 +1,4 @@
-Last modified on 01/01/2021
+Last modified on 11/09/2022
 
 **Terms of Service**
 --------------------
@@ -94,6 +94,8 @@ Twitch reserves all rights not expressly granted in these Terms of Service. This
 #### 8\. User Content
 
 Twitch allows you to distribute streaming live and pre-recorded audio-visual works; to use services, such as chat, bulletin boards, forum postings, wiki contributions, and voice interactive services; and to participate in other activities in which you may create, post, transmit, perform, or store content, messages, text, sound, images, applications, code, or other data or materials on the Twitch Services (“User Content”).
+
+For residents of the Republic of Korea, distribution of pre-recorded audio-visual works and video on demand related features and functions (including but not limited to clips, highlights, and other uploaded content) may not be available.
 
 ##### **a. License to Twitch**
 
