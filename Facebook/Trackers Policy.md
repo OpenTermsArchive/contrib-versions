@@ -15,10 +15,6 @@ We use cookies if you have a Facebook account, use the [Meta Products](https://w
   
 This policy explains how we use cookies and the choices you have. Except as otherwise stated in this policy, the [Data Policy](https://www.facebook.com/about/privacy/update) will apply to our processing of the data that we collect via cookies.
 
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yF/r/d21bGTxIbU1.png)
-
-![](https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/tn16ZMLMOXJ.png)
-
 ### Why do we use cookies?
 
 Cookies help us provide, protect and improve the Meta Products, such as by personalising content, tailoring and measuring ads, and providing a safer experience. The cookies that we use include session cookies, which are deleted when you close your browser, and persistent cookies, which stay in your browser until they expire or you delete them. While the cookies that we use may change from time to time as we improve and update the Meta Products, we use them for the following purposes:
