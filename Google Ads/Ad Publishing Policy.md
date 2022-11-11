@@ -409,13 +409,13 @@ If you implement any Google advertising service on a site or section of a site t
 Requirements and other standards
 --------------------------------
 
-### Webmaster Guidelines
+### Spam policies for Google web search
 
 You must not:
 
-* place Google-served ads on screens that don't follow the [Webmaster Quality Guidelines](https://developers.google.com/search/docs/advanced/guidelines/webmaster-guidelines).
+* place Google-served ads on pages that violate the [Spam policies for Google web search](https://developers.google.com/search/docs/essentials/spam-policies).
 
-               ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about Webmaster Guidelines](https://support.google.com/publisherpolicies/answer/11035931)_
+               ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about the Spam policies for Google web search](https://support.google.com/publisherpolicies/answer/11035931)_
 
 ### Abusive experiences 
 
