@@ -53,7 +53,7 @@ As you use our websites and mobile applications or visit one of our stores, we c
 
 Some examples of when we collect this information include when you browse or make a purchase on one of our websites or mobile application; create a Starbucks account; use our website or mobile application to purchase, reload or redeem a Starbucks Card; use the order and pay functionality in our mobile applications; buy or send a gift card or e-gift; or participate in a survey or promotion.
 
-### (a) Information You Voluntarily Provide Us
+#### (a) Information You Voluntarily Provide Us
 
 Some information we collect is provided when you use our services, such as when you create an account, add a Stored Value Starbucks Card, or join Starbucks Rewards loyalty program; pay for products; book a Starbucks Roastery tour; or submit online forms through our websites or mobile applications.
 
@@ -63,7 +63,7 @@ You may also choose to permit us to access information directly from your device
 
 You may also in some instances provide us information about other people, such as name, phone number and email address, including when you direct us to send someone a gift card or e-gift.
 
-### (b) Information We Collect Automatically
+#### (b) Information We Collect Automatically
 
 **Purchasing Information** – We may collect information about your transactions in our stores, on our websites or via our Starbucks mobile applications including what products you purchase, how frequently you purchase them, any Rewards or promotions associated with a purchase, and the products you have placed on your “Wishlist" or “My Bag" for future purchase.
 
@@ -79,7 +79,7 @@ We may also use information about the location of the device you are using to he
 
 To learn more about our geolocation services and your choices, please see the [Starbucks Mobile Applications](#starbucks_mobile_applications) section below.
 
-### (c) Information We Collect from Other Sources
+#### (c) Information We Collect from Other Sources
 
 Some information we collect is from unaffiliated sources, including in some cases information that is publicly available, provided by or purchased from marketing business partners, or present on social media platforms.
 
@@ -91,7 +91,7 @@ We use your information for business and commercial purposes, including to provi
 
 We may use the information we collect about you in a variety of ways, including to:
 
-### (a) To Provide Our Services.
+#### (a) To Provide Our Services.
 
 We process certain personal information when you access or use our services, including to:
 
@@ -102,7 +102,7 @@ We process certain personal information when you access or use our services, inc
 * facilitate the functionality of our websites and mobile applications, including payment-related functionality; and
 * customize experiences and personalization when you are in and around our stores, if you have given permission for location sharing.
 
-### (b) To Communicate With You.
+#### (b) To Communicate With You.
 
 We process certain information in order to communicate with you in relation to your accounts, our services, our marketing, and your requests, including to:
 
@@ -114,25 +114,25 @@ We process certain information in order to communicate with you in relation to y
 * implement your communications preferences, such as sharing information with Starbucks business partners so that they may email you about their promotions, products and initiatives; and
 * provide important product safety information and notice of product recalls.
 
-### (c) For Research, Development, and Improvement of Our Services.
+#### (c) For Research, Development, and Improvement of Our Services.
 
 We want to ensure that our website, mobile applications, and services are continually improving and expanding so that we meet and exceed your needs and expectations. To do so, we may process certain personal information, including to:
 
 * maintain, improve, and analyze our websites, mobile applications, ads, and the products and services we offer; and
 * detect, prevent, or investigate suspicious activity or fraud.
 
-### (d) To Enforce our Terms, Agreements, or Policies.
+#### (d) To Enforce our Terms, Agreements, or Policies.
 
 To maintain a safe, secure, and trusted environment for you when you use our websites, mobile applications, and other services, we use your personal information to ensure our terms, policies, and agreements with you and any third parties are enforced.
 
-### (e) To Comply with Applicable Laws.
+#### (e) To Comply with Applicable Laws.
 
 We may be required to process certain personal information under certain laws and regulations, such as tax laws, as well as to:
 
 * maintain appropriate records for internal administrative purposes; and
 * comply with applicable legal and regulatory obligations, and respond to lawful governmental requests, as needed.
 
-### (f) With Your Consent.
+#### (f) With Your Consent.
 
 We may process certain personal information in order to fulfill any other business or commercial purposes at your direction or with your consent.
 
@@ -379,14 +379,14 @@ Starbucks, P.O. Box 20430, Augusta, GA 30916
 
 Includes requests from the United States and Canada:
 
-Right to Know
+##### Right to Know
 
 * Requests Received – 321
 * Requests Complete – 169
 * Requests unable to be completed\* – 152
 * Average completion time – 12 days
 
-Right to Delete
+##### Right to Delete
 
 * Requests Received – 2,316
 * Requests Complete – 1,038
