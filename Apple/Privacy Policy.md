@@ -1,5 +1,3 @@
-English [Choose your preferred language](https://www.apple.com/legal/privacy/policy/)
-
 Apple Privacy Policy
 ====================
 
@@ -175,8 +173,3 @@ Please take a moment to familiarize yourself with our privacy practices, accessi
     If you are not satisfied with Apple’s response, you may refer your complaint to the applicable regulator. If you ask us, we will endeavor to provide you with information about relevant complaint avenues which may be applicable to your circumstances.
     
     When there is a material change to this Privacy Policy, we’ll post a notice on this website at least a week in advance of doing so and contact you directly about the change if we have your data on file.
-    
-
-[View our APEC CBPR certification >](http://cbprs.org/compliance-directory/cbpr-system/)
-
-[View our APEC PRP certification >](http://cbprs.org/compliance-directory/prp/)
