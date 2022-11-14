@@ -37,6 +37,10 @@ Your Choices
 
 You may be able to adjust your cookie settings on your browser or device in addition to the settings we make available to you on our sites. See below for more information on each of the options that may be available to you.
 
+### _Browser Settings_
+
+Your browser may provide you with the option to refuse some or all non-essential browser cookies. You may also be able to remove cookies from your browser. For more information about how to manage browser cookies, please follow the instructions provided by your browser.
+
 ### _Device Identifier Settings_
 
 Your device operating system may let you opt-out from having certain device identifiers used for interest-based advertising. You should refer to the instructions provided by your mobile device’s manufacturer; this information is typically available under the “settings” function of your mobile device.
