@@ -405,8 +405,6 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
             * Région Bourgogne-Franche-Comté - Mobigo. ([https://transport.data.gouv.fr/datasets/reseau-de-transport-interurbain-mobigo-en-bourgogne-franche-comte/](https://transport.data.gouv.fr/datasets/reseau-de-transport-interurbain-mobigo-en-bourgogne-franche-comte/))
                 
-            * Département de Loire-Atlantique - Bacs. ([https://transport.data.gouv.fr/datasets/horaires-des-bacs-de-loire-en-loire-atlantique-gtfs/](https://transport.data.gouv.fr/datasets/horaires-des-bacs-de-loire-en-loire-atlantique-gtfs/))
-                
             * Région Provence-Alpes-Côte-d'Azur - réseau ZOU. ([https://transport.data.gouv.fr/datasets/lignes-des-reseaux-de-transport-zou-en-provence-alpes-cote-dazur/](https://transport.data.gouv.fr/datasets/lignes-des-reseaux-de-transport-zou-en-provence-alpes-cote-dazur/))
                 
             * Collectivité de Corse - Chemins de fer. ([https://transport.data.gouv.fr/datasets/gtfs-transport-horaires-chemins-de-fer-corse/](https://transport.data.gouv.fr/datasets/gtfs-transport-horaires-chemins-de-fer-corse/))
@@ -886,6 +884,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * © NORFUND
             
         * © Norwegian Polar Institute
+            
+        * Contains data under the Norwegian licence for Open Government data (NLOD) distributed by Entur AS
             
     32. **Poland**
         * © MGGP Aero
