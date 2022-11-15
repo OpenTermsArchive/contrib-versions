@@ -19,31 +19,37 @@ See also:
 [Starbucks® Rewards Terms](https://www.starbucks.com/rewards/terms)  
 [Starbucks Card Terms](https://www.starbucks.com/terms/manage-gift-cards)
 
-**Eligibility**
+Eligibility
+-----------
 
 The Sites are not targeted towards, nor intended for use by, anyone under the age of 13. A USER MUST BE AT LEAST AGE 13 TO ACCESS AND USE THE SITES. If the User is between the ages of 13 and 18, he or she may only use the Sites under the supervision of a parent or legal guardian who agrees to be bound by these Terms. User represents and warrants that (a) he/she is not located in a country that is subject to a U.S. government embargo, or that has been designated by the U.S. government as a “terrorist supporting” country; and (b) he/she is not listed on any U.S. government list of prohibited or restricted parties.
 
 In order to participate in certain areas of our Sites, you will need to register for an account. You agree to (a) create only one account; (b) provide accurate, truthful , current and complete information when creating your account; (c) maintain and promptly update your account information; (d) maintain the security of your account by not sharing your password with others and restricting access to your account and your computer; (e) promptly notify Starbucks if you discover or otherwise suspect any security breaches relating to the Sites; and (f) take responsibility for all activities that occur under your account and accept all risks of unauthorized access.
 
-**Privacy**
+Privacy
+-------
 
 Please read the Privacy Policy carefully to understand how Starbucks collects, uses and discloses personally identifiable information from its users. By accessing or using the Sites, you consent to all actions that we take with respect to your data consistent with our Privacy Policy.
 
-**Starbucks Cards; Starbucks® Rewards Program**
+Starbucks Cards; Starbucks® Rewards Program
+-------------------------------------------
 
 Starbucks may allow you to purchase Starbucks stored value cards (“Starbucks Cards”) or register for its Starbucks® Rewards (“Rewards Program”) program through the Sites. Please refer to the [Starbucks Card Terms & Conditions](https://www.starbucks.com/terms/manage-gift-cards) for more information about the terms, conditions and policies that apply to your purchase and use of Starbucks Cards; and to the [Starbucks Rewards Terms of Use](https://www.starbucks.com/card/rewards/rewards-program-ts-and-cs) for more information about the terms, conditions and policies that apply to your registration and use of the Rewards Program.
 
-**Email Communications**
+Email Communications
+--------------------
 
 If a User signs up for a Starbucks account on the Sites, the User is, by default, opted in to receive promotional email communications from Starbucks (“Email Communications”). The User may, at the time of sign up, opt out of receiving Email Communications from Starbucks. Thereafter, the User may opt out of receiving Email Communications by adjusting the User’s profile settings in the User’s Starbucks account via [www.starbucks.com](https://www.starbucks.com/).
 
-**Copyright, Trademarks, and User License**
+Copyright, Trademarks, and User License
+---------------------------------------
 
 Unless otherwise indicated, the Sites and all content and other materials therein, including, without limitation, the Starbucks logo and all designs, text, graphics, pictures, information, data, software, sound files, other files and the selection and arrangement thereof (collectively, “Site Materials”) are the property of Starbucks or its licensors or users and are protected by U.S. and international copyright laws. Starbucks Coffee Company, Starbucks, the Starbucks logo, and other Starbucks trademarks, service marks, graphics, and logos used in connection with the Sites are trade names, trademarks or registered trademarks of Starbucks Corporation (collectively “Starbucks Marks”). Other trademarks, service marks, graphics and logos used in connection with the Sites are the trademarks or registered trademarks of their respective owners (collectively “Third Party Marks”). The Starbucks Marks and Third-Party Marks may not be copied, imitated, or used, in whole or in part, without the prior written permission of Starbucks or the applicable trademark holder. The Sites and the Content are protected by copyright, trademark, patent, trade secret, international treaties, state and federal laws, and other proprietary rights and also may have security components that protect digital information only as authorized by Starbucks or the owner of the Content. All rights not expressly granted are reserved.
 
 Subject to these Terms, Starbucks grants the User a personal, non-exclusive, non-transferable, limited, and revocable license to use the Sites for personal use only in accordance with these Terms (“User License”). Any use of the Sites in any other manner, including, without limitation, resale, transfer, modification or distribution of the Sites or text, pictures, music, barcodes, video, data, hyperlinks, displays, and other content associated with the Sites (“Content”) is prohibited. Unless explicitly stated herein, nothing in these Terms shall be construed as conferring in any manner, whether by implication, estoppel or otherwise, any title or ownership of, or exclusive use-rights to, any intellectual property or other right and any goodwill associated therewith These Terms and User License also govern any updates to, or supplements or replacements for, the Sites, unless separate terms accompany such updates, supplements, or replacements, in which case the separate terms will apply.
 
-**_Digital Millennium Copyright Act ("DMCA") Notice_**
+Digital Millennium Copyright Act ("DMCA") Notice
+------------------------------------------------
 
 If you believe any material available via the Sites infringes a copyright you own or control, you may file a notification of such infringement with our Designated Agent as set forth below.
 
@@ -59,11 +65,13 @@ If a notice of copyright infringement has been filed against material posted by 
 
 In accordance with the DMCA and other applicable law, Starbucks has also adopted a policy of terminating, in appropriate circumstances and in our sole discretion, users who are deemed to be repeat infringers. Starbucks may also, in its sole discretion, limit access to the Sites and/or terminate the accounts of any users who infringe any intellectual property rights of others, whether or not there is any repeat infringement.
 
-**Acceptable Use**
+Acceptable Use
+--------------
 
 User’s use of the Sites, any Content, and any information provided by the User including user names and passwords, addresses, e-mail addresses, phone number, financial information (such as credit card numbers), information related to a Starbucks Card or employer name (“User Information”) transmitted in connection with the Sites is limited to the contemplated functionality of the Sites. In no event may the Sites be used in a manner that (a) harasses, abuses, stalks, threatens, defames, or otherwise infringes or violates the rights of any other party (including but not limited to rights of publicity or other proprietary rights); (b) is unlawful, fraudulent, or deceptive; (c) provides sensitive personal information unless specifically requested by Starbucks, (d) includes spam or any unsolicited advertising; (e) uses technology or other means to access Starbucks or Content that is not authorized by Starbucks; (f) uses or launches any automated system, including without limitation, “robots,” “spiders,” or “offline readers,” to access Starbucks or Content; (g) attempts to introduce viruses or any other computer code, files, or programs that interrupt, destroy, or limit the functionality of any computer software, hardware, or telecommunications equipment; (h) attempts to gain unauthorized access to Starbucks’ computer network or user accounts; (i) encourages conduct that would constitute a criminal offense or that gives rise to civil liability; (j) violates these Terms; (k) attempts to damage, disable, overburden, or impair Starbucks’ servers or networks; (l) impersonates any person or entity or otherwise misrepresents your identity or affiliation with another person or entity; or (m) fails to comply with applicable third party terms (collectively “Acceptable Use”). Starbucks reserves the right, in its sole discretion, to terminate any User License, terminate any User’s participation in the Sites, remove Content, or assert legal action with respect to Content or use of the Sites, that Starbucks reasonably believes is or might be in violation of these Terms, or Starbucks policies including the Starbucks Card Terms and Conditions. Starbucks’ failure or delay in taking such actions does not constitute a waiver of its rights to enforce these Terms.
 
-**User Content**
+User Content
+------------
 
 Starbucks does not control, take responsibility for or assume liability for any User Content posted, stored or uploaded by you or any third party, or for any loss or damage thereto, nor is Starbucks liable for any user conduct or any mistakes, defamation, slander, libel, omissions, falsehoods, obscenity, pornography or profanity you may encounter. The interactive areas are generally designed as open and public community areas for connecting and sharing with other people. When you participate in these areas, you understand that certain information and content you choose to post may be displayed publicly. You are solely responsible for your use of the Sites and agree to use the interactive areas at your own risk.
 
@@ -73,7 +81,8 @@ If you are viewing the Sites on a public computer or are otherwise using a compu
 
 You represent and warrant that your User Content is not subject to any confidentiality obligations and that you own and control all of the rights to the User Content, have the lawful right to distribute and produce such User Content, or otherwise have the right to grant the rights to Starbucks that you grant herein. Starbucks claims no ownership or control over any User Content, except as otherwise provided herein, on the Sites or in a separate agreement. However, by submitting or posting User Content on the Sites, you grant Starbucks and its designees a worldwide, perpetual, irrevocable, non-exclusive, fully-paid up and royalty free license to use, sell, reproduce, prepare derivative works, combine with other works, alter, translate, distribute copies, display, perform, publish, license or sub-license the User Content and your name and likeness provided in connection with such use of your User Content. By posting User Content, you hereby release Starbucks and its agents and employees from any claims that such use, as authorized above, violates any of your rights and you understand that you will not be entitled to any compensation for any use of your User Content.
 
-**Submission of Ideas**
+Submission of Ideas
+-------------------
 
 Separate and apart from the User Content you provide, you may submit questions, comments, feedback, suggestions, ideas, improvements, plans, notes, drawings, original or creative materials or other information about Starbucks, our Sites and our products (collectively, "Ideas") either through the mystarbucksidea.com portal or otherwise. The Ideas you submit are voluntary, non-confidential, gratuitous and non-committal. Please do not send us Ideas if you expect to be paid or want to continue to own or claim rights in them; your Ideas might be great, but we may have already had the same or similar idea and we do not want disputes. You must also inform us if you have a pending or registered patent relative to the Idea.
 
@@ -83,33 +92,40 @@ By submitting your Idea, you grant Starbucks and its designees a worldwide, perp
 
 Starbucks shall own exclusive rights, including all intellectual property rights, to any work it creates or has created from the Idea or a similar idea of its own.
 
-**Links to Sites**
+Links to Sites
+--------------
 
 You are granted a limited, non-exclusive right to create text hyperlinks to the Sites for noncommercial purposes, provided such links do not portray Starbucks in a false, misleading, derogatory or otherwise defamatory manner and provided further that the linking site does not contain any obscene, pornographic, sexually explicit or illegal material or any material that is offensive, harassing or otherwise objectionable. This limited right may be revoked at any time. In addition, you may not use Starbucks' logo or other proprietary graphics to link to our Sites without our express written permission. Further, you may not use, frame or utilize framing techniques to enclose any Starbucks trademark, logo or other proprietary information, including the images found at the Sites, the content of any text or the layout/design of any page or form contained on a page on the Sites without our express written consent. Except as noted above, you are not conveyed any right or license by implication, estoppel or otherwise in or under any patent, trademark, copyright or proprietary right of Starbucks or any third party. Starbucks makes no claim or representation regarding, and accepts no responsibility for, the quality, content, nature or reliability of websites linking to the Sites. Such sites are not under the control of Starbucks and Starbucks is not responsible for the content of any linked site or any link contained in a linked site, or any review, changes or updates to such sites.
 
-**Indemnification**
+Indemnification
+---------------
 
 The User agrees to defend, indemnify, and hold harmless Starbucks, its parent, subsidiary and other affiliated companies, independent contractors, service providers and consultants, and their respective employees, contractors, agents, officers, and directors (“Starbucks Indemnitees”) from any and all claims, suits, damages, costs, lawsuits, fines, penalties, liabilities, and expenses (including attorneys’ fees) (“Claims”) that arise from or relate to the User’s use or misuse of the Sites, violation of these Terms, violation of any rights of a third party, any User Content or Ideas you provide, or your conduct in connection with the Sites. Notwithstanding the foregoing, this indemnification provision shall not apply to any Claims caused by a Starbucks Indemnitee’s sole negligence. Starbucks reserves the right to assume the exclusive defense and control of any matter otherwise subject to indemnification by the User, in which event the User will cooperate in asserting any available defenses.
 
-**Warranties; Disclaimers**
+Warranties; Disclaimers
+-----------------------
 
 STARBUCKS IS PROVIDING THE SITES TO THE USER “AS IS” AND THE USER IS USING THE SITES AT HIS OR HER OWN RISK. TO THE FULLEST EXTENT ALLOWABLE UNDER APPLICABLE LAW, STARBUCKS DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING ANY WARRANTIES THAT THE SITES ARE MERCHANTABLE, RELIABLE, AVAILABLE, ACCURATE, FIT FOR A PARTICULAR PURPOSE OR NEED, NON-INFRINGING, FREE OF DEFECTS OR VIRUSES, ABLE TO OPERATE ON AN UNINTERRUPTED BASIS, THAT THE USE OF THE SITES BY THE USER IS IN COMPLIANCE WITH LAWS APPLICABLE TO THE USER, OR THAT USER INFORMATION TRANSMITTED IN CONNECTION WITH THE SITES WILL BE SUCCESSFULLY, ACCURATELY, OR SECURELY TRANSMITTED OR RECEIVED. THE MATERIALS AND INFORMATION ON THE SITES MAY INCLUDE TECHNICAL INACCURACIES OR TYPOGRAPHICAL ERRORS. NOTWITHSTANDING THE FOREGOING, NONE OF THE DISCLAIMERS IN THIS PARAGRAPH SHALL APPLY TO WARRANTIES RELATED TO PERSONAL INJURY.
 
-**No Liability**
+No Liability
+------------
 
 SUBJECT TO APPLICABLE LAW, INCLUDING WITH RESPECT TO LIABILITY FOR PERSONAL INJURY OR NON-WAIVABLE STATUTORY RIGHTS UNDER NEW JERSEY LAW, IN NO EVENT SHALL STARBUCKS OR ITS OFFICERS, DIRECTORS, EMPLOYEES, SHAREHOLDERS OR AGENTS (A) BE LIABLE TO THE USER WITH RESPECT TO USE OF THE SITES, THE CONTENT OR THE MATERIALS CONTAINED IN OR ACCESSED THROUGH THE SITES (INCLUDING WITHOUT LIMITATION ANY DAMAGES CAUSED BY OR RESULTING FROM RELIANCE BY A USER ON ANY INFORMATION OBTAINED FROM STARBUCKS), OR ANY DAMAGES THAT RESULT FROM MISTAKES, OMISSIONS, INTERRUPTIONS, DELETION OF FILES OR EMAIL, ERRORS, DEFECTS, VIRUSES, DELAYS IN OPERATION OR TRANSMISSION OR ANY FAILURE OF PERFORMANCE, WHETHER OR NOT RESULTING FROM ACTS OF GOD, COMMUNICATIONS FAILURE, THEFT, DESTRUCTION OR UNAUTHORIZED ACCESS TO STARBUCKS' RECORDS, PROGRAMS OR SERVICES; AND (B) BE LIABLE TO THE USER FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR EXEMPLARY DAMAGES, INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF GOODWILL, LOST PROFITS, LOSS, THEFT OR CORRUPTION OF USER INFORMATION, OR THE INABILITY TO USE THE SITES OR ANY OF THEIR FEATURES. THE USER’S SOLE REMEDY IS TO CEASE USE OF THE SITES.
 
 IF YOU RESIDE IN A JURISDICTION OTHER THAN NEW JERSEY, YOUR JURISDICTION MAY NOT ALLOW THE LIMITATION OF LIABILITY IN CONTRACTS WITH CONSUMERS, SO SOME OR ALL OF THESE LIMITATIONS OF LIABILITY MAY NOT APPLY TO YOU.
 
-**Third Party Content, Sites, Products and Services (including Advertising and Promotions)**
+Third Party Content, Sites, Products and Services (including Advertising and Promotions)
+----------------------------------------------------------------------------------------
 
 Starbucks may provide third party content on the Sites (including embedded content) or links to third-party web pages, content, applications, products and services, including advertisements and promotions (collectively, “Third Party Content”) as a service to those interested in this information. We do not control, endorse or adopt any Third-Party Content, including that the inclusion of any link does not imply affiliation, endorsement or adoption by Starbucks of any site or any information contained therein, and can make no guarantee as to its accuracy or completeness. You acknowledge and agree that Starbucks is not responsible or liable in any manner for any Third-Party Content and undertakes no responsibility to update or review such Third-Party Content. You agree to use such Third-Party Content contained therein at your own risk. When you visit other sites via Third Party Content, or participate in promotions or business dealings with third parties, you should understand that our terms and policies no longer govern, and that the terms and policies of those third-party sites will now apply. You should review the applicable terms and policies, including privacy and data gathering practices, of any site to which you navigate from our Sites. You must comply with any applicable third-party terms when using the Sites.
 
-**Modifications to the Sites**
+Modifications to the Sites
+--------------------------
 
 Starbucks reserves the right to modify or discontinue, temporarily or permanently, the Sites or any features or portions thereof without prior notice. You agree that Starbucks will not be liable for any modification, suspension or discontinuance of the Sites or any part thereof.
 
-**Financial Material Disclosures**
+Financial Material Disclosures
+------------------------------
 
 Forward-Looking Statements: The Sites, and any documents issued by Starbucks and available through the Sites, may contain statements which constitute forward-looking statements within the meaning of the U.S. Private Securities Litigation Reform Act of 1995. Forward-looking statements can be identified by the fact that they do not relate strictly to historical or current facts. They often include words such as “believes,” “expects,” “anticipates,” “estimates,” “intends,” “plans,” “seeks” or words of similar meaning, or future or conditional verbs, such as “will,” “should,” “could” or “may.” Forward-looking statements include statements made as to future operations, costs, capital expenditures, cash flow, product developments, operating efficiencies, sales and earnings estimates or trends and expansion plans, initiatives and projections. These forward-looking statements are based on our expectations as of the date such forward-looking statements are made and are neither predictions nor guarantees of future events or circumstances. Actual future results and trends may differ materially depending on a variety of factors including the risks detailed in the company’s filings with the Securities and Exchange Commission, including the “Risk Factors” section of Starbucks Annual Report on Form 10-K for the most recent fiscal year ended. The company assumes no obligation to update any of these forward-looking statements.
 
@@ -117,7 +133,8 @@ Press Releases: The information contained within press releases issued by Starbu
 
 Third-Party Financial Information: As a service, Starbucks may provide links to third-party websites or services that contain financial or investment information about Starbucks. Starbucks neither regularly monitors nor has control over the content of third parties' statements or websites. Accordingly, Starbucks does not endorse or adopt, nor make any representations or warranties whatsoever regarding the accuracy or completeness, of those websites or any information contained therein, including, without limitation, analysts' reports and stock quotes. Users visit these websites and use the information contained therein at their own risk.
 
-**Arbitration**
+Arbitration
+-----------
 
 **Please read this section carefully. It affects rights that you may otherwise have. It provides for resolution of most disputes through arbitration instead of court trials and class actions. Arbitration is more informal than a lawsuit in court, uses a neutral arbitrator instead of a judge or jury, and discovery is more limited. Arbitration is final and binding and subject to only very limited review by a court. This arbitration clause shall survive termination of these Terms.**
 
@@ -131,27 +148,33 @@ The arbitration of any dispute or claim shall be conducted in accordance with th
 
 **_Class Action Waiver and Jury Waiver_. You and we each agree that any proceeding, whether in arbitration or in court, will be conducted only on an individual basis and not in a class, consolidated or representative action. If a court or arbitrator determines in an action between you and us that this class action waiver is unenforceable, the arbitration agreement will be void as to you. If for any reason a claim proceeds in court rather than through arbitration, you and we each waive any right to a jury trial.**
 
-**Governing Law and Jurisdiction**
+Governing Law and Jurisdiction
+------------------------------
 
 These Terms and use of the Sites are governed by the laws of the state of Washington, United States of America, without regard to Washington’s conflict of laws rules. The United Nations Convention on Contracts for the International Sale of Goods shall have no applicability. If the arbitration agreement is ever deemed unenforceable or void or a dispute between the parties is not subject to arbitration, the User irrevocably consents to the exclusive jurisdiction of the federal and state courts in King County, Washington, United States of America, for purposes of any legal action arising out of or related to the use of the Sites or these Terms.
 
-**Termination**
+Termination
+-----------
 
 Notwithstanding any of these Terms, Starbucks reserves the right, without notice and in its sole discretion, to terminate your license to use the Sites and to block or prevent your future access to and use of the Sites. Starbucks’ failure or delay in taking such actions does not constitute a waiver of its rights to enforce these Terms.
 
-**Changes**
+Changes
+-------
 
 Starbucks reserves the right to change or modify these Terms or any other Starbucks policies related to use of the Sites at any time and at its sole discretion by posting revisions on the Sites. Continued use of the Sites following such changes or modifications to the Terms or other Starbucks policies will constitute acceptance of such changes or modifications.
 
-**Severability**
+Severability
+------------
 
 If any provision of these Terms shall be deemed unlawful, void or for any reason unenforceable, then that provision shall be deemed severable from these Terms and shall not affect the validity and enforceability of any remaining provisions.
 
-**Notice to California Residents**
+Notice to California Residents
+------------------------------
 
 Under California Civil Code Section 1789.3, California residents are entitled to the following specific consumer rights information: the provider of the Sites is Starbucks Corporation, 2401 Utah Avenue South, Seattle WA 98134. To file a complaint regarding the Sites or to receive further information regarding use of the Sites, send a letter to the above address or contact Starbucks via e-mail (with “California Resident Request” as the Subject Line). You may also contact the Complaint Assistance Unit of the Division of Consumer Services of the Department of Consumer Affairs in writing at 1625 North Market Blvd., Suite N 112, Sacramento CA 95834 or by telephone at 800.952.5210.
 
-**Contact**
+Contact
+-------
 
 Any questions, complaints, or claims regarding the Sites should be directed to:
 
