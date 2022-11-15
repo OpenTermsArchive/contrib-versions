@@ -630,7 +630,18 @@ EAB €1,512, based on average annual usage. 12 month contract, discounted unit 
   
 **View the ​September NL Competition terms and conditions _[here](https://www.energia.ie/getattachment/Privacy-2018/Terms-Conditions/Heineken-Champions-Cup-Final-Competition-2019-(7)/September-2022-Two-tickets-to-Ireland-vs-South-Africa-Autumn-International-2022-Competition-(1).pdf.aspx;)._**   
   
-**View the October Rugby Mascot Competition terms and conditions [here](https://www.energia.ie/getattachment/Privacy-2018/Terms-Conditions/Heineken-Champions-Cup-Final-Competition-2019-(7)/October-2022-Rugby-mascot-for-Ireland-vs-Fiji-November-Series.pdf.aspx;?lang=en-IE)**
+**View the October Rugby Mascot Competition terms and conditions** [**here**](https://www.energia.ie/getattachment/Privacy-2018/Terms-Conditions/Heineken-Champions-Cup-Final-Competition-2019-(7)/October-2022-Rugby-mascot-for-Ireland-vs-Fiji-November-Series.pdf.aspx;?lang=en-IE)  
+  
+**View the November Leinster v Ulster and Leinster v Gloucester tickets competition terms and conditions [here](https://www.energia.ie/getattachment/Privacy-2018/Terms-Conditions/Heineken-Champions-Cup-Final-Competition-2019-(7)/Comp-1-Nov-2022-Two-tickets-to-Leinster-v-Ulster-two-tickets-to-Leinster-v-Gloucester.pdf.aspx;?lang=en-IE)  
+  
+View the November Leinster v Connacht tickets competition terms and conditions [here](https://www.energia.ie/getattachment/Privacy-2018/Terms-Conditions/Heineken-Champions-Cup-Final-Competition-2019-(7)/Comp-2-Nov-2022-Two-tickets-to-Leinster-v-Connacht-01-Jan-23.pdf.aspx;?lang=en-IE)**  
+  
+**View the November Energia AIL Women's Final tickets competition terms and conditions [here](https://www.energia.ie/getattachment/Privacy-2018/Terms-Conditions/Heineken-Champions-Cup-Final-Competition-2019-(7)/Comp-3-Nov-2022-Two-tickets-to-the-Energia-AIL-Women-s-Final-and-a-Voucher-for-Dinner-at-Layla-s-Rooftop-Restaurant.pdf.aspx;?lang=en-IE)**  
+  
+  
+  
+  
+ 
 
 35\. Download all Terms & Conditions.
 
