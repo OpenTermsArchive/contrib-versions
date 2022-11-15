@@ -40,7 +40,7 @@ You have to be the Minimum Age to use Tumblr. We're serious: it's a hard rule. �
 
 The Services change frequently, and their form and functionality may change without prior notice to you. Tumblr retains the right to create limits on and related to use of the Services in its sole discretion at any time with or without notice. Tumblr may also impose limits on certain Services or aspects of those Services or restrict your access to parts or all of the Services without notice or liability. Tumblr may change, suspend, or discontinue any or all of the Services at any time, including the availability of any product, feature, database, or Content (as defined below). Tumblr may also terminate or suspend Accounts (as defined below) at any time, in its sole discretion.
 
-Tumblr is an ever-evolving platform. With new products, services, and features launching all the time, we need flexibility to make changes, impose limits, and occasionally suspend or terminate certain offerings (like features that flop). We can also terminate or suspend any account at any time. That sounds harsh, but we only use that power when we have a reason, as outlined in these Terms of Service, our [Privacy Policy](https://www.tumblr.com/privacy/automattic) , and our [Community Guidelines](https://www.tumblr.com/policy/community).
+Tumblr is an ever-evolving platform. With new products, services, and features launching all the time, we need flexibility to make changes, impose limits, and occasionally suspend or terminate certain offerings (like features that flop). We can also terminate or suspend any account at any time. That sounds harsh, but we only use that power when we have a reason, as outlined in these Terms of Service, our [Privacy Policy](https://www.tumblr.com/privacy/automattic), and our [Community Guidelines](https://www.tumblr.com/policy/community).
 
 **Limitations on Automated Use:**
 
@@ -133,7 +133,7 @@ To develop and distribute Custom Themes that are Premium Themes, please [contact
 10\. Paid Services
 ------------------
 
-Some of the Services require payment of fees (the "**Paid Services**," including without limitation Premium Themes, Subscriptions, and Post+). All fees are stated in United States dollars. You shall pay all applicable fees, as described in the applicable Services, in connection with such Services, and any related taxes or additional charges.
+Some of the Services require payment of fees (the "**Paid Services**," including without limitation Premium Themes, Blaze, Subscriptions, and Post+). All fees are stated in United States dollars. You shall pay all applicable fees, as described in the applicable Services, in connection with such Services, and any related taxes or additional charges.
 
 Paid Services are limited licenses for you to use particular for-pay aspects of the Services. Usage of terms like sell, sale, buy, purchase, or similar terms all refer to your acquisition of a license to use Paid Services, and do not represent any transfer of any right, title, or ownership interest of any kind. You may not relicense, resell, transfer, or exchange Paid Services within or outside of the Services, except as expressly allowed by the rules of those Paid Services.
 
@@ -161,7 +161,7 @@ Our Services may enable certain Users (“**Creators**”) to make certain User 
 
 Users that are Creators or that use Post+, enable +Post Content, or enable the Tipping Feature must not use the Services to deceive others into sending money via scam tactics, phishing, or other such methods.
 
-**Terms for Subscribers:**
+**Additional Terms for Post+ Subscribers:**
 
 Users that enroll in a Subscription to view +Post Content (“**Subscribers**”) are paying for the right to receive access to a Creator's +Post Content via the Services during their Subscription Periods. Post+ is available on a per-blog basis, so if you’d like to access multiple Creators’ +Post Content, you’ll need to enroll in separate Subscriptions.
 
@@ -171,7 +171,7 @@ You assume all risks with Subscriptions, including that the +Post Content may no
 
 Finally, while you can share a teaser of +Post Content through the reblog function on the Services, you cannot otherwise share +Post Content, such as by screenshotting or otherwise creating or distributing any copies, and you cannot resell, rent, or otherwise charge any other person for access to the +Post Content.
 
-**Terms for Tippers:**
+**Additional Terms for Tippers:**
 
 Users who pay tips via the Tipping Feature (“**Tippers**”) are paying the tip recipient (“**Tippee**”) as a way to show support for the User Content made available by the Tippee. As a Tipper, you acknowledge that tips are entirely voluntary and optional, that you may not receive anything in return, and that the tips you give could be sent to someone or used for a purpose that you may not expect. We will not resolve disputes that arise between users regarding the Tipping Feature. It is important to understand that giving tips does not grant you any additional rights, nor does it entitle you to any privileges with respect to any User Content or any Tippee. You must not give tips in exchange for — or to promote or encourage — content that is against our [Community Guidelines](https://www.tumblr.com/policy/en/community), or that is otherwise illegal, abusive toward others, hateful, or that could result in self-harm.
 
@@ -179,7 +179,7 @@ You assume all risks with the Tipping Feature, including that the User Content w
 
 Note that payment processing and platform fees will be assessed on tips in accordance with the fee breakdown available [here](https://tumblr.zendesk.com/hc/articles/4418113451671).
 
-**Creating and Maintaining a Creator or Tippee Account:**
+**Creating and Maintaining a Post+ Creator or Tippee Account:**
 
 In order to be eligible to be a Creator or Tippee, you must at a minimum:
 
@@ -192,14 +192,14 @@ You may deactivate your entire Tumblr account or discontinue your participation 
 
 Tumblr will not be liable for any tips that you may or may not receive, including if Tumblr suspends your account or prevents you from soliciting or accepting tips.
 
-**Creator and Tippee Conduct Requirements:**
+**Post+ Creator and Tippee Conduct Requirements:**
 
 * Don’t violate laws or the rights of others: As a reminder, you and your +Post Content must meet all requirements under this Agreement and our Community Guidelines. For instance, your +Post Content may not violate any laws, including laws that protect the intellectual property rights of others. In addition, if you are receiving funds on behalf of someone else, you are responsible for complying with all applicable laws. We reserve the right to suspend, delete, or terminate your Account, your participation in Post+ or the Tipping Feature, and/or your +Post Content at any time, including in cases where we believe you have violated this Agreement, our Community Guidelines, or abused Post+ or the Tipping Feature. You are responsible for all activity on your Account, even if someone else uses your Account.
 * Be honest: You must act in a fair and truthful manner in your dealings with Tumblr and Subscribers and Tippers, including providing an accurate description of your +Post Content, and delivering content as described. You may not use our Services to deceive others into sending you tips via scam tactics, phishing, or other such methods.
 * Address issues with Subscribers and Tippers: You are solely responsible for resolving any disputes with Users who purchase Subscriptions to your +Post Content or Tippers, including regarding your performance or the quality of your +Post Content. You are responsible for all refunds owed to Subscribers and Tippers, including as a result of chargebacks initiated by Subscribers/Tippers or as initiated by Tumblr. You authorize any such refunded amounts to be paid out of any outstanding balance in or owed to your Merchant Account or to be offset against proceeds from your +Post Content or from your tips. Tumblr reserves the right to holdback payment amounts and/or initiate refunds to Subscribers/Tippers if it believes that refunds are appropriate.
 * Don’t forget taxes: You are responsible for all income reporting and tax withholding requirements related to your Connected Accounts. Tumblr may, but is not obligated to, deduct applicable tax from any payments made for your +Post Content or tips to the extent it is required by applicable laws.
 
-**Creator and Tippee Payouts:**
+**Post+ Creator and Tippee Payouts:**
 
 Payouts for +Post Content and the Tipping Feature are calculated by totaling the amounts paid by Subscribers for your +Post Content and/or the amounts paid by your Tippers and subtracting Tumblr platform fees, payment processor fees, refunds/chargebacks, and related fees/withholdings. Payment processor fee rates and timing will depend on the payment option used by each Subscriber or Tipper, as applicable (i.e., Stripe, Apple, Google, etc.). More information on payout fees can be found [here](https://tumblr.zendesk.com/hc/articles/4418113451671).
 
