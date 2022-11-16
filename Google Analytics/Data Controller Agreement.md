@@ -1,7 +1,7 @@
 Google Measurement Controller-Controller Data Protection Terms
 ==============================================================
 
-We are making changes to the Google Measurement Controller-Controller Data Protection Terms. These updates will apply from September 21, 2022. You can find the terms which apply prior to September 21, 2022 [here](https://support.google.com/analytics/answer/12374520).
+The Google Measurement Controller-Controller Data Protection Terms will be updated on January 1, 2023 to include the ‘U.S. State Privacy Laws Controller Addendum’ in ‘Appendix 1: Additional Terms for Non-European Data Protection Legislation’ below. For more information on this update see [business.safety.google/usaprivacy/](https://business.safety.google/usaprivacy/). You can find the terms which apply prior to January 1, 2023 [here](https://support.google.com/analytics/answer/13000050).
 
 The Measurement Services customer agreeing to these terms (“**Customer**”) has entered into an agreement with either Google or a third party reseller (as applicable) for the provision of the Measurement Services (as amended from time to time, the “**Agreement**”) through which services user interface Customer has enabled the Data Sharing Setting.
 
@@ -318,14 +318,18 @@ The following Additional Terms for Non-European Data Protection Legislation supp
 
 For the purposes of these Controller Terms:
 
-> (a) references in the LGPD Controller Addendum to the [Google Ads Controller-Controller Data Protection Terms](https://privacy.google.com/businesses/controllerterms/) shall be deemed to be references to these Google Measurement Controller-Controller Data Protection Terms; and where Customer has entered into an agreement with a third party reseller for the provision of the Measurement Services then, notwithstanding any contrary provision in the LGPD Controller Addendum, the LGPD Controller Addendum will supplement these Controller Terms that form a separate agreement between Google and Customer and will not affect any agreement between: (i) Google and the third party reseller, or (ii) the third party reseller and Customer.
+> (a) references in the LGPD Controller Addendum to the [Google Ads Controller-Controller Data Protection Terms](https://privacy.google.com/businesses/controllerterms/) shall be deemed to be references to these Google Measurement Controller-Controller Data Protection Terms; and (b) where Customer has entered into an agreement with a third party reseller for the provision of the Measurement Services then, notwithstanding any contrary provision in the LGPD Controller Addendum, the LGPD Controller Addendum will supplement these Controller Terms that form a separate agreement between Google and Customer and will not affect any agreement between: (i) Google and the third party reseller, or (ii) the third party reseller and Customer.
 
-_Google Measurement Controller-Controller Data Protection Terms, Version 2.0_
+_Google Measurement Controller-Controller Data Protection Terms, Version 3.0_
 
-21 September, 2022
+[U.S. State Privacy Laws Controller Addendum](https://support.google.com/analytics/answer/13006108) (effective 1 January 2023)
+
+01 January, 2023
 
 Previous versions
 -----------------
+
+[21 September, 2022](https://support.google.com/analytics/answer/13000050)
 
 [27 September, 2021](https://support.google.com/analytics/answer/12374520)
 
