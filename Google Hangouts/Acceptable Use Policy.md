@@ -52,4 +52,4 @@ Do not use Chat or Hangouts to promote, organise or engage in illegal activities
 Policy enforcement
 ------------------
 
-Google may disable accounts that are found to be in violation of these policies. If your account is disabled and you believe it was a mistake, please follow these instructions on [this page](https://support.google.com/accounts/contact/disabled2).
+Google may disable accounts that are found to be in violation of these policies. If your account is disabled and you believe it was a mistake, please follow these instructions on [this page](https://support.google.com/accounts/answer/40695).
