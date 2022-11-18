@@ -515,6 +515,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
                 
             * Fluo Grand Est - réseau TGL. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-tgl-syndicat-intercommunal-des-transports-collectifs-du-bassin-de-longwy](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-tgl-syndicat-intercommunal-des-transports-collectifs-du-bassin-de-longwy))
                 
+        * Muséum national d'Histoire Naturelle: [https://inpn.mnhn.fr/accueil/mentions-legales](https://inpn.mnhn.fr/accueil/mentions-legales)
+            
     10. **Germany**
         * Bundesamt für Kartographie und Geodäsie - © Vermessungsverwaltungen der Bundesländer und Bundesamt für Kartographie und Geodäsie: [/www.govdata.de/dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0)
             
@@ -586,6 +588,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Stadtverwaltung Gera - [https://www.govdata.de/dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0)
             
+        * Open Data Rhein-Kreis Neuss - [https://www.govdata.de/dl-de/zero-2-0](https://www.govdata.de/dl-de/zero-2-0)
+            
+        * © GeoBasis-DE / BKG (2022) : [https://www.govdata.de/dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0)
+            
     11. **Great Britain**
         * This Service contains Ordnance Survey data © Crown copyright and database right 2011, Royal Mail data © Royal Mail copyright and database right 2011, and National Statistics data © Crown copyright and database right 2011 ([https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf](https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf)). All rights reserved. © South West Coast Path Team. Contains information of Network Rail Infrastructure Limited licensed under the following [licence](https://www.networkrail.co.uk/terms-and-conditions/). Contains public sector information licensed under the [Open Government Licence v2.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/). Contains public sector information licensed under the Open Government Licence v3.0.
             
@@ -629,6 +635,11 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             License: [https://www.ons.gov.uk/methodology/geography/licences](https://www.ons.gov.uk/methodology/geography/licences)
             
         * Office for National Statistics licensed - [https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
+            
+        * Ordnance Survey data. Contains information of a range of greenspaces in urban and rural areas including playing fields, sports’ facilities, play areas and allotments, from OS Open Greenspace.  
+            Contains public sector information licensed under the Open Government Licence v3.0 [https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
+            
+        * Natural England Open Data Publication: [http://www.nationalarchives.gov.uk/doc/open-government-licence/version](http://www.nationalarchives.gov.uk/doc/open-government-licence/version)
             
     12. **Greece**
         * EuroGeographics; Copyright Geomatics Ltd.
@@ -809,6 +820,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Mirai Archive Data (GO!GNSS GO!JAPAN: [https://go.gnss.go.jp/mirai/miraiarchive/](https://go.gnss.go.jp/mirai/miraiarchive/)) accessed on 2022-05-11 Licenses: [https://go.gnss.go.jp/terms/](https://go.gnss.go.jp/terms/)
             
         * 地理院タイル: [https://maps.gsi.go.jp/development/ichiran.html](https://maps.gsi.go.jp/development/ichiran.html)
+            
+        * 国立公園区域等（環境省生物多様性センター [http://gis.biodic.go.jp/webgis/sc-026.html?kind=nps](http://gis.biodic.go.jp/webgis/sc-026.html?kind=nps) : [https://creativecommons.org/licenses/by/4.0/legalcode.ja](https://creativecommons.org/licenses/by/4.0/legalcode.ja)
             
     25. **Luxembourg**
         
