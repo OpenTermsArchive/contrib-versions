@@ -417,7 +417,7 @@ Attention: Customer Service Team,
    
 **Telephone**:          +353(0)18692000,  
 **Facsimile**:           +353 (1)8692050.  
-**Email**:                  [\[email protected\]](https://www.energia.ie/cdn-cgi/l/email-protection#removed)  
+**Email**:                  [\[email protected\]](https://www.energia.ie/cdn-cgi/l/email-protection)  
    
   
 20.2 Energia may change its address at any time by notice in writing. Notices will be deemed served or delivered to the addressee or its office:
