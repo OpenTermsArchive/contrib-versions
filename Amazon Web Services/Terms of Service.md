@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-#### Last Updated: November 4, 2022
+#### Last Updated: November 18, 2022
 
 #### 1\. Universal Service Terms (Applicable to All Services)
 
@@ -546,9 +546,11 @@ Use of Microsoft Software on AWS Directory Service is subject to Section 5.1 abo
 
 Amazon OpenSearch Service creates daily automated snapshots of your Amazon OpenSearch Service domains. We will maintain these automated snapshots for a period of at least 14 days after they are created. We may delete automated snapshots at any time after 14 days.  
 
-#### 37\. AWS Database Migration Service and AWS Schema Conversion Tool
+#### 37\. AWS Database Migration Service
 
-The AWS Database Migration Service (which includes the AWS Schema Conversion Tool) is AWS Content, and you may install and/or use it solely for the purpose of migrating data, provided (i) at least one of the source data store and target data store resides in AWS; and (ii) the source and target data stores are both listed in the technical documentation as AWS Database Migration Service [sources](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Source.html) and [targets](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Target.html). You and all End Users may only use the AWS Database Migration Service to migrate data, directly or indirectly, from a source that is a DMS Supported Service to a destination that is also a DMS Supported Service.  
+**37.1.** The AWS Database Migration Service (DMS), including DMS Fleet Advisor and the AWS Schema Conversion Tool, is AWS Content under the [Intellectual Property License](https://aws.amazon.com/legal/aws-ip-license-terms/), and you and all End Users may install and/or use it solely for the purpose of migrating or moving data, provided that: (i) at least one of the source data store and target data store resides in AWS; and (ii) the source and target data stores are both listed in the DMS Documentation of supported [sources](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Source.html) and [targets](https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Target.html).
+
+**37.2.** The AWS Database Migration Service (DMS), including DMS Fleet Advisor and the AWS Schema Conversion Tool, collects performance metrics and usage patterns, including: the types of database engines and related configurations used; number of rows processed; and information related to schema, queries, compatibility, performance, and task duration and status; which when combined with database license and feature information are used to provide, maintain, and improve the quality of the Services and recommendations on potential database engine and instance migrations. DMS Fleet Advisor collects information about resources on your network that you designate for discovery.  
 
 #### 38\. AWS Amplify
 
