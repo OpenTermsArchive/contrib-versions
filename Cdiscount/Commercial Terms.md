@@ -243,7 +243,7 @@ Toutefois, CDISCOUNT se réserve le droit de ne pas accepter une commande ou de
 \-          plusieurs éléments graves et concordants feraient peser un soupçon de fraude sur votre commande ;  
 \-          un même instrument de paiement serait utilisé massivement et simultanément par plusieurs utilisateurs et susceptible d’entrainer un dysfonctionnement du site.
 
-CDISCOUNT se réserve également le droit, en raison d’un approvisionnement limité sur un produit, notamment lié à une pénurie de composants/pièces détachées, et pour lutter contre toute manœuvre frauduleuse de spéculation sur ce produit, d’en limiter l’achat à une (1) commande par foyer (ex : consoles de jeux).
+CDISCOUNT se réserve également le droit, en raison d’un approvisionnement limité sur un produit, notamment lié à une pénurie de composants/pièces détachées, et pour lutter contre toute manœuvre frauduleuse de spéculation sur ce produit, d’en limiter l’achat à une (1) commande par foyer sur les six (6) derniers mois (ex : consoles de jeux).
 
 **3.4 Suspension/Clôture d'un compte client par CDISCOUNT**  
   
