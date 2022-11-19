@@ -97,7 +97,7 @@ If you are in the European Economic Area (EEA), Switzerland, or the UK, or a res
     applicable tools; and/or
 * Delete such personal data or direct you to applicable tools.
 
-In order to exercise any of your rights as to personal data controlled by Zoom, please click here. Where legally permitted, we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, or jeopardize the privacy of others. As an account owner or a user under a licensed account, you may also take steps to affect your personal data by visiting your account and modifying your personal data directly.
+In order to exercise any of your rights as to personal data controlled by Zoom, please click [here](https://privacyportal.onetrust.com/webform/65962359-ef0d-4399-9db4-572d06de08aa/f277f9f7-bfee-4233-815e-80e290139bc2). Where legally permitted, we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, or jeopardize the privacy of others. As an account owner or a user under a licensed account, you may also take steps to affect your personal data by visiting your account and modifying your personal data directly.
 
 Children
 --------
