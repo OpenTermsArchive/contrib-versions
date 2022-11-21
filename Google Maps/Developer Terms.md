@@ -441,8 +441,6 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
                 
             * Fluo Grand Est - réseau Ticéa. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-ticea-communaute-dagglomeration-de-st-dizier-der-et-blaise/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-ticea-communaute-dagglomeration-de-st-dizier-der-et-blaise/))
                 
-            * Fluo Grand Est - réseau Mouvéo. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-mouveo-communaute-dagglomeration-epernay-coteaux-et-plaine-de-champagne/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-mouveo-communaute-dagglomeration-epernay-coteaux-et-plaine-de-champagne/))
-                
             * Fluo Grand Est - réseau Aube. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-fluo-grand-est-10-region-grand-est-dga-mobilites/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-fluo-grand-est-10-region-grand-est-dga-mobilites/))
                 
             * Fluo Grand Est - réseau Ardennes. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-fluo-grand-est-08-region-grand-est-dga-mobilites/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-fluo-grand-est-08-region-grand-est-dga-mobilites/))
@@ -475,8 +473,6 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
                 
             * Fluo Grand Est - réseau Vosges. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-fluo-grand-est-88-region-grand-est-dga-mobilites/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-fluo-grand-est-88-region-grand-est-dga-mobilites/))
                 
-            * Fluo Grand Est - réseau Colibiri. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-colibri-communaute-de-communes-terres-touloises/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-colibri-communaute-de-communes-terres-touloises/))
-                
             * Fluo Grand Est - réseau Citeline. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-citeline-syndicat-mixte-des-transports-urbains-thionville-fensch/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-citeline-syndicat-mixte-des-transports-urbains-thionville-fensch/))
                 
             * Oise Mobilité - Syndicat mixte des transports collectifs de l'Oise. ([https://transport.data.gouv.fr/datasets/arrets-horaires-et-parcours-theoriques-gtfs-des-differents-reseaux-de-transport-membres-du-synd3-1/](https://transport.data.gouv.fr/datasets/arrets-horaires-et-parcours-theoriques-gtfs-des-differents-reseaux-de-transport-membres-du-synd3-1/))
@@ -494,8 +490,6 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             * Fluo Grand Est - réseau TUM. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-tum-commune-de-sainte-menehould/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-tum-commune-de-sainte-menehould/))
                 
             * Fluo Grand Est - réseau Ritmo. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-ritmo-communaute-dagglomeration-de-haguenau/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-ritmo-communaute-dagglomeration-de-haguenau/))
-                
-            * Fluo Grand Est - réseau TAC. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-tac-communaute-dagglomeration-ardenne-metropole/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-tac-communaute-dagglomeration-ardenne-metropole/))
                 
             * Fluo Grand Est - réseau Imagine. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-imagine-communaute-dagglomeration-depinal/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-imagine-communaute-dagglomeration-depinal/))
                 
