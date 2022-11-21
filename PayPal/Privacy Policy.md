@@ -38,10 +38,10 @@ You may contact us if you have general questions or concerns about this Privacy 
 
 We want to make sure your questions go to the right place:
 
-* Click [**here**](https://www.paypal.com/cz/selfhelp/contact/email/privacy?locale.x=en_CZ) to contact us about your PayPal account or transaction, or a card payment made to a merchant.
+* Click [**here**](https://www.paypal.com/cz/smarthelp/contact-us/privacy?locale.x=en_CZ) to contact us about your PayPal account or transaction, or a card payment made to a merchant.
 * Click [**here**](https://www.xoom.com/contact-xoom-customer-service) to contact us about your Xoom account
 
-Our Data Protection Officer can be contacted [**Online**](https://www.paypal.com/cz/smarthelp/contact-us?email=privacy&locale.x=en_CZ) or at **PayPal (Europe) S.à.r.l. et Cie, S.C.A., 22-24 Boulevard Royal L-2449, Luxembourg.**Further, you have the right to lodge a complaint with the Supervisory Authority for data protection in your country.
+Our Data Protection Officer can be contacted [**Online**](https://www.paypal.com/cz/smarthelp/contact-us/privacy?locale.x=en_CZ) or at **PayPal (Europe) S.à.r.l. et Cie, S.C.A., 22-24 Boulevard Royal L-2449, Luxembourg.**Further, you have the right to lodge a complaint with the Supervisory Authority for data protection in your country.
 
 ### 3\. What Personal Data Do We Collect?
 
