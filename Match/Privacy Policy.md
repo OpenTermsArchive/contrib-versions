@@ -170,7 +170,7 @@ The main reason we use your information is to deliver and improve our services. 
 * Comply with legal requirements
 * Assist law enforcement
 
-For information on how we process personal information through profiling and automated decision-making, please see our [FAQ](https://uk.match.com/faq/does-match-use-automated-individual-decision-making-and-profiling/).
+For information on how we process personal information through profiling and automated decision-making, please see our [FAQ](https://uk.match.com/faq/?answer=0262_ProfilagePriseDecisionAutomatisee).
 
 To process your information as described in this Privacy Policy, we rely on the following legal bases:
 
