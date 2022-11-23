@@ -3,35 +3,6 @@ Privacy Policy
 
 Hi there. Welcome to Proctorio's Privacy Policy. Privacy policies can be messy and complicated. But, at Proctorio, your privacy is important to us, which is why we have tried to unscramble the legal jargon to provide one comprehensive spot to provide information to you about our privacy practices.
 
-Before you dive in
-------------------
-
-Proctorio would like to start by defining two terms you'll see used throughout Proctorio’s Privacy Policy: data processor and data controller.
-
-**Proctorio is a data processor** when Proctorio proctors an exam, verify identities, protect content, or verify originality of an assignment. In these instances, your Institution controls your information, not Proctorio. Please see your Institution's privacy policy and contact them for inquiries regarding your Personal Information.
-
-**Proctorio is a data controller** when you have directly input Personal Information into a form on Proctorio’s website, or directly provide Personal Information through Proctorio's customer and/or product services.
-
-Users can utilize Proctorio's Sites or Services without providing Personal Information.
-
-![A person sitting in front of their laptop, an image of a padlock securing a folder overhead](/assets/images/51c68d59-1161.png)
-
-Proctorio encrypts exam audio, video, and screen recordings and images with Zero-Knowledge Encryption. This means that once these images and recordings are encrypted, they can only be decrypted by Institution-approved representatives.
-
-Proctorio may have access to some of this data (if the Institution chooses to collect it) when providing live technical support to an exam taker during the exam.
-
-With the Live Proctoring Services, Proctorio proctors are able to review exam sessions (including this data, if the Institution chooses to collect it) in real time.
-
-With Professional Review Services, the Institution gives authorized Proctorio staff members temporary access to review exam sessions (including this data, if the Institution chooses to collect it), typically within 48 hours after the exam session.
-
-Learn more about this and other useful information by clicking the links below:
-
-* [Data Processor vs. Data Controller](#data-processor-info)
-* [What does this Privacy Policy apply to?](#what-applies)
-* [Do you have any questions or concerns?](#contact-information)
-
-Last modified October 29, 2021.
-
 Read our Privacy Policy
 -----------------------
 
@@ -719,7 +690,7 @@ When you contact Proctorio regarding any of your rights under the CCPA, Proctori
 
 **We do not discriminate against California residents who exercise their CCPA privacy rights.**
 
-[AB 1584](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202120220AB1584) [](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202120220AB1584)is a California law that defines student and educational agencies rights regarding student records. Proctorio complies with AB 1584 as described in this Privacy Policy and as applicable in Proctorio's agreements with California Institution(s).
+[AB 1584](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202120220AB1584) is a California law that defines student and educational agencies rights regarding student records. Proctorio complies with AB 1584 as described in this Privacy Policy and as applicable in Proctorio's agreements with California Institution(s).
 
 Legal basis for processing your Information
 -------------------------------------------
@@ -739,7 +710,7 @@ Proctorio makes every effort to cooperate with Institutions in the compliance wi
 
 FIPPA provides Canadian citizens with the right to access information under the control of institutions.
 
-The SaaS Agreement and the Terms of Service fully detail both Proctorio’s and the Institution’s obligations in relation to the confidentiality of data. FIPPA compliance is predicated on the Parties’ compliance to these provisions. These Confidentiality Obligations can be found in the [Terms of Service](https://proctorio.com/policies/#all&all&tos).
+The SaaS Agreement and the Terms of Service fully detail both Proctorio’s and the Institution’s obligations in relation to the confidentiality of data. FIPPA compliance is predicated on the Parties’ compliance to these provisions. These Confidentiality Obligations can be found in the [Terms of Service](https://proctorio.com/policies#all&all&tos).
 
 EU-US and Swiss-US Privacy Shield frameworks 
 ---------------------------------------------
@@ -763,7 +734,7 @@ European Economic Area (EEA) or Switzerland User Rights 
 
 ### When Proctorio is a data controller
 
-If you are based in the EEA or Switzerland, you acknowledge that Proctorio may transfer your Information (including Personal Data) to Proctorio and Proctorio’s facilities in the United States or elsewhere, including those of third parties as described in the “Business transfers” and “Third-party service providers” sections of this Privacy Policy. Please review Proctorio's Site [Terms of Service](https://proctorio.com/policies/#all&all&tos) for more information regarding any other applicable data protections.
+If you are based in the EEA or Switzerland, you acknowledge that Proctorio may transfer your Information (including Personal Data) to Proctorio and Proctorio’s facilities in the United States or elsewhere, including those of third parties as described in the “Business transfers” and “Third-party service providers” sections of this Privacy Policy. Please review Proctorio's Site [Terms of Service](https://proctorio.com/policies#all&all&tos) for more information regarding any other applicable data protections.
 
 When Proctorio is a controller with respect to your Personal Data, such as for customer support, service, and other inquiries, and you are based in the EEA or Switzerland, you may have other rights as provided below:
 
