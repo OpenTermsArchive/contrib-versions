@@ -2,12 +2,10 @@
 
   
 
-_We're updating our livestream policies. Starting on 23 November, 2022, you'll need to be at least 18 years old to host a livestream. You can find our new policies [here](https://www.tiktok.com/community-guidelines-2022-update)._
-
 Introduction
 ------------
 
-_Last updated, February 2022_
+_Last updated, October 2022_
 
 TikTok's mission is to inspire creativity and bring joy. We are building a global community where people can create and share, discover the world around them, and connect with others across the world. We are committed to maintaining a supportive environment for our growing community. Our Community Guidelines establish a set of norms and common code of conduct that provide for a safe and welcoming space for everyone.
 
@@ -30,7 +28,7 @@ Minor safety
 
 We are deeply committed to protecting the safety of minors on our platform. TikTok defines a minor as any person under the age of 18. We prohibit activities that perpetuate the abuse, harm, endangerment, or exploitation of minors on TikTok. Any content, including animation or digitally created or manipulated media, that depicts abuse, exploitation, or endangerment of minors is a violation on our platform and will be removed when detected. We report child sexual abuse material (CSAM) and supporting evidence  to the National Center for Missing & Exploited Children (NCMEC) and to any additional relevant legal authorities.
 
-Our users must meet the minimum age requirements to use TikTok, as stipulated in our [Terms of Service](https://www.tiktok.com/legal/terms-of-use). When an underage account is identified, we remove it. Given our platform is designed with the safety of minors in mind, some of our features are age restricted. Account holders who are under the age of 16 cannot use direct messaging or host a livestream and their content is not eligible to appear in the For You feed (the age thresholds may be higher in some regions). Account holders who are under the age of 18 cannot send or receive gifts via our virtual gifting features.
+Our users must meet the minimum age requirements to use TikTok, as stipulated in our [Terms of Service](https://www.tiktok.com/legal/terms-of-use). When an underage account is identified, we remove it. Given our platform is designed with the safety of minors in mind, some of our features are age restricted. Account holders who are under the age of 16 cannot use direct messaging and their content is not eligible to appear in the For You feed. Account holders must be at least 18 years old to host a livestream or use our virtual gifting features.
 
 ### Sexual exploitation of minors
 
@@ -499,6 +497,6 @@ We value authenticity and accuracy. We make ineligible for the FYF any content t
 
 Original and entertaining content form the core of the TikTok community. To maintain the positive experience our users expect from the TikTok platform, unoriginal and low-quality content is ineligible for recommendation. We consider content not original if it is imported or uploaded from TikTok, other platforms, or other sources including television, movies, or webcasts, and the user has not added new, creative edits. One indicator that the content is not original is a visible watermark or superimposed logo. Low quality content includes extremely short clips, static images, and exclusively-GIF based videos. Content that includes QR codes is usually ineligible for the FYF because it can lead users to harmful websites or apps, though we make exceptions in certain circumstances where that risk is low (e.g., e-commerce).
 
-\-------------------------------------------------------------------------------------------------------------------------
+\----------------------------------------------------------------------------------------------------------------------------
 
 Thank you for being a part of our vibrant global community and working with us to maintain a welcoming space for all users. If you come across content or accounts that you believe may violate our Community Guidelines, please [let us know](https://support.tiktok.com/en/safety-hc/report-a-problem)  so we can review and take appropriate action.
