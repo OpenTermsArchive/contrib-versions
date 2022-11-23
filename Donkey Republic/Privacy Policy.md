@@ -1,5 +1,5 @@
 Privacy Policy
---------------
+==============
 
 **Data protection declaration**
 
