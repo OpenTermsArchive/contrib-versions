@@ -9,8 +9,6 @@ Please read each of these documents carefully. Together, these documents are kno
 
 If these Google Business Profile Additional Terms conflict with [the Google Terms of Service](https://policies.google.com/terms), these Business Profile Additional Terms will govern for Business Profile Services.
 
-**Important:** As a COVID-19 precaution, we're operating with a limited team. It may take longer than usual to connect with us. We recommend our [Help Community](https://support.google.com/business/community) and [YouTube Channel](https://www.youtube.com/c/GoogleBusinessProfile).
-
 What we expect from you
 -----------------------
 
