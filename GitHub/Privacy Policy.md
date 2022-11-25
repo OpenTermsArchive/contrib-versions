@@ -309,7 +309,7 @@ GitHub will provide notice regarding private repository access where not prohibi
 
 ### [](#cross-border-data-transfers)Cross-border data transfers
 
-GitHub processes personal data both inside and outside of the United States and relies on legal mechanisms such as Standard Contractual Clauses to lawfully transfer data from the European Economic Area, the United Kingdom, and Switzerland to the United States. You may request a copy of the Standard Contractual Clauses using the contact details provided in the section entitled “Contacting GitHub” below.
+GitHub processes personal data both inside and outside of the United States. To lawfully transfer data from the European Economic Area, the United Kingdom, and Switzerland to the United States, it relies on adequate protection as decided by the European Commission in accordance with Art. 45 GDPR or appropriate safeguards in accordance with Art. 46 GDPR, such as Standard Contractual Clauses as well as supplementary measures such as encryption at rest and in transit.
 
 ### [](#resolving-complaints)Resolving complaints
 
