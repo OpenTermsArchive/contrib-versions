@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-#### Last Updated: November 18, 2022
+#### Last Updated: November 25, 2022
 
 #### 1\. Universal Service Terms (Applicable to All Services)
 
@@ -558,7 +558,7 @@ You must have all necessary rights to use any domain name that you use in conjun
 
 #### 39\. AWS IoT Services
 
-**39.1. “AWS IoT Services”** means AWS IoT Core, AWS IoT Device Management, AWS IoT Device Defender, AWS IoT 1-Click, AWS IoT Events, AWS IoT Analytics, AWS IoT SiteWise, AWS IoT FleetWise , AWS IoT TwinMaker, FreeRTOS, AWS IoT ExpressLink, AWS IoT Greengrass, and AWS IoT RoboRunner (Preview).
+**39.1. “AWS IoT Services”** means AWS IoT Core, AWS IoT Device Management, AWS IoT Device Defender, AWS IoT 1-Click, AWS IoT Events, AWS IoT Analytics, AWS IoT SiteWise, AWS IoT FleetWise , AWS IoT TwinMaker, FreeRTOS, AWS IoT ExpressLink, AWS IoT Greengrass, and AWS IoT RoboRunner.
 
 **39.2**. AWS IoT Services are not intended for use in, or in association with, the operation of any hazardous environments or critical systems that may lead to serious bodily injury or death or cause environmental or property damage, and you are solely responsible for all liability that may arise in connection with any such use. 
 
@@ -577,6 +577,8 @@ You must have all necessary rights to use any domain name that you use in conjun
 **39.9.** AWS IoT ExpressLink is AWS cloud connectivity software and specifications that select AWS Partner Network (APN) Partners may incorporate into hardware modules they develop, manufacture, and offer to AWS customers. If you purchase a hardware module (including any evaluation kit) from an APN Partner that includes AWS IoT ExpressLink, you agree that AWS is not a party to any agreement between you and the APN Partner governing your purchase and use of the module, AWS is not responsible or liable to you for the module, and AWS does not make any representations or warranties with respect to the module.   
 
 **39.10.** The FreeRTOS Extended Maintenance Plan (“FreeRTOS EMP”) provides subscribing customers with security patches and critical bug fixes on a chosen FreeRTOS Long Term Support (LTS) version beyond the expiry of that version’s initial LTS period. FreeRTOS EMP is a “Service” for purposes of the Agreement. Any code, fixes or patches (collectively, “EMP Patches”) that you receive, obtain or access in connection with FreeRTOS EMP that have not been incorporated into the publicly available FreeRTOS libraries are AWS Content provided to you under the [Intellectual Property License](https://aws.amazon.com/legal/aws-ip-license-terms/), except that AWS also grants you a limited, non-exclusive, non-sublicensable, non-transferrable, perpetual license to (a) modify and create derivative works of the EMP Patches and (b) to distribute the EMP Patches in object code form only.  
+
+**39.11.**  AWS IoT RoboRunner provides a central data repository for storing and using data from different robot management systems that customers can use to build applications that help their robots work together. You are solely responsible for the operation of any robotic systems you use with AWS IoT RoboRunner, including ensuring that they are properly configured and operate safely.  
 
 #### 40\. Amazon QuickSight
 
