@@ -1,7 +1,7 @@
 Couchsurfing.com Privacy Policy
 ===============================
 
-Effective Date: November **1, 2021**
+Effective Date: November **26, 2022**
 
 Please read this Global Privacy Policy (“**Privacy Policy**”) carefully to get a clear understanding of how Couchsurfing International, Inc. (“**Couchsurfing**,” “**we**,” “**us**” or “**our**”) collects, uses, discloses, protects and otherwise handles information about you. Our privacy practices may vary among the countries in which we operate to reflect local practices and legal requirements. In this Privacy Policy, we also provide a supplementary privacy notice for [California residents](#NoticetoCAResidents) and a supplementary privacy notice for data subjects in the [EEA, Switzerland and the UK (collectively, “Europe”)](#NoticeToEuropeanDataSubjects).
 
@@ -86,9 +86,9 @@ Couchsurfing has users located across the globe. We may store and process person
 
 Couchsurfing International Inc. complies with the EU-U.S. Privacy Shield Framework and the Swiss - U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union, United Kingdom and Switzerland to the United States, respectively. Couchsurfing International Inc. has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov/](https://www.privacyshield.gov/).
 
-To the extent required by the Privacy Shield principles or applicable law, you have the opportunity to choose (opt out) whether your personal information is (i) to be disclosed to a third party or (ii) to be used for a purpose that is materially different from the purpose(s) for which it was originally collected or subsequently authorized by you. For more information about the choices you have in relation to your personal information, visit the [“Your Information Choices”](#YourInformationChoices), and to exercise your rights please email [privacy@couchsurfing.com](mailto:privacy@couchsurfing.com).
+To the extent required by the Privacy Shield principles or applicable law, you have the opportunity to choose (opt out) whether your personal information is (i) to be disclosed to a third party or (ii) to be used for a purpose that is materially different from the purpose(s) for which it was originally collected or subsequently authorized by you. For more information about the choices you have in relation to your personal information, visit the [“Your Information Choices”](#YourInformationChoices), and to exercise your rights please email _privacy@couchsurfing.com_.
 
-In compliance with the Privacy Shield Principles, we commit to resolve complaints about our collection or use of your personal information. Individuals with inquiries or complaints regarding our Privacy Shield policy should first contact us at [privacy@couchsurfing.com](mailto:privacy@couchsurfing.com). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) [here](https://feedback-form.truste.com/watchdog/request). Note, you may have the possibility, under certain conditions, to invoke binding arbitration for complaints regarding Privacy Shield compliance not resolved by any of the other Privacy Shield mechanisms. For more information about invoking binding arbitration, please review additional information [here](https://www.privacyshield.gov/article?id=ANNEX-I-introduction). Couchsurfing is responsible and liable if third-party agents that it uses to process the personal data on its behalf do so in a manner inconsistent with the Privacy Shield Principles, unless Couchsurfing proves that it is not responsible for the event that allowed the damage to occur.
+In compliance with the Privacy Shield Principles, we commit to resolve complaints about our collection or use of your personal information. Individuals with inquiries or complaints regarding our Privacy Shield policy should first contact us at _privacy@couchsurfing.com_. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at [https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request). Note, you may have the possibility, under certain conditions, to invoke binding arbitration for complaints regarding Privacy Shield compliance not resolved by any of the other Privacy Shield mechanisms. For more information about invoking binding arbitration, please review additional information here. Couchsurfing is responsible and liable if third-party agents that it uses to process the personal data on its behalf do so in a manner inconsistent with the Privacy Shield Principles, unless Couchsurfing proves that it is not responsible for the event that allowed the damage to occur.
 
 We are subject to investigatory and enforcement powers of the U.S. Federal Trade Commission with respect to personal information received or transferred pursuant to the Privacy Shield Framework
 
@@ -144,7 +144,7 @@ The Services are not intended for use by children under 18 years of age. If we l
 
 **Account Information**
 
-You may deactivate your account at any time by contacting support@couchsurfing.com. Even after you deactivate your account, we may retain certain information as required by law, for legitimate business purposes or to protect member safety. If your account is deactivated, Couchsurfing will provide access to the data associated with the deactivated account upon receipt of the required legal documentation.
+You may deactivate your account at any time by contacting _support@couchsurfing.com_. Even after you deactivate your account, we may retain certain information as required by law, for legitimate business purposes or to protect member safety. If your account is deactivated, Couchsurfing will provide access to the data associated with the deactivated account upon receipt of the required legal documentation.
 
 **Location Information via Mobile Device**
 
@@ -156,7 +156,7 @@ Most web browsers are set to accept cookies by default. However, you can choose 
 
 ### Contact Us
 
-If you have any questions about this Privacy Policy, please contact us [here](https://support.couchsurfing.com/), or via mail at Couchsurfing International, Inc. Attention: Legal Department, PO Box 7775 ECM 86600, San Francisco, CA 94120, United States, or email at [privacy@couchsurfing.com](mailto:privacy@couchsurfing.com).
+If you have any questions about this Privacy Policy, please contact us [here](https://support.couchsurfing.com/), or via mail at Couchsurfing International, Inc. Attention: Legal Department, PO Box 7775 ECM 86600, San Francisco, CA 94120, United States, or email at _privacy@couchsurfing.com_.
 
 ### Notice To California Residents
 
@@ -180,7 +180,7 @@ You are entitled to exercise the rights described above free from discrimination
 
 Here is how you can submit requests:
 
-* **To request access to or deletion of personal information collected**, please email us at [privacy@couchsurfing.com](mailto:privacy@couchsurfing.com) or by mail at Couchsurfing International, Inc. Attention: Legal Department, PO Box 7775 ECM 86600, San Francisco, CA 94120.
+* **To request access to or deletion of personal information collected**, please email us at _privacy@couchsurfing.com_ or by mail at Couchsurfing International, Inc. Attention: Legal Department, PO Box 7775 ECM 86600, San Francisco, CA 94120.
 * **Authorized agents**. California residents can empower an “authorized agent” to submit requests on their behalf. We will require authorized agents to confirm their identity and authority, in accordance with the CCPA.
 
 ### Notice to European Data Subjects
@@ -197,7 +197,7 @@ DataRep has locations in each of the 27 EU countries, the UK, and Norway & Icela
 
 If you want to raise a question to Couchsurfing, or otherwise exercise your rights in respect of your personal data, you may do so by:
 
-* sending an email to DataRep at [couchsurfing@datarep.com](mailto:couchsurfing@datarep.com)
+* sending an email to DataRep at **couchsurfing@datarep.com**
 * contacting us on our online webform at [www.datarep.com/data-request](https://www.datarep.com/data-request), or
 * mailing your inquiry to DataRep at the most convenient of the addresses found in [here](https://about.couchsurfing.com/files/DataRep_ContactLocations.docx).
 
@@ -241,4 +241,4 @@ Provision of some of this data is necessary to establish an account on Couchsurf
 * **Restrict Processing.** You may ask us to suspend our processing of your personal data, for example, if you want us to establish its accuracy or the reason for processing it.
 * **Data Portability.** If required to do so, we will give you your personal data in a structured, commonly used, and machine-readable format.
 
-To exercise these rights, please email [privacy@couchsurfing.com](mailto:privacy@couchsurfing.com). You may also contact our representative using the contact information referenced in the [Controller and Representative](#ControllerandRepresentative) section above. You also have the right to complain to a data protection authority in your country about our processing of your personal data.
+To exercise these rights, please email _privacy@couchsurfing.com_. You may also contact our representative using the contact information referenced in the [Controller and Representative](#ControllerandRepresentative) section above. You also have the right to complain to a data protection authority in your country about our processing of your personal data.
