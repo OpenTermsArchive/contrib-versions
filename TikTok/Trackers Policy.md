@@ -146,7 +146,7 @@ We also deploy tracking technologies from the following third parties for the fo
 * Purpose: To improve our marketing campaigns, including to track ad conversions from ads for TikTok shown on Reddit, build targeted audiences, optimise TikTok ads on third party websites and apps for current and future visitors and remarket to people who have already taken action on our Websites or on TikTok ads.
 * Duration: 24 months
 
-* Criteo Pixel ([https://www.reddit.com/policies/privacy-policy](https://www.reddit.com/policies/privacy-policy))
+* Criteo Pixel ([https://www.criteo.com/privacy/](https://www.criteo.com/privacy/))
 
 * Purpose: To improve our marketing campaigns, including to track ad conversions from ads for TikTok shown on Criteo, build targeted audiences, optimise TikTok ads on third party websites and apps for current and future visitors and remarket to people who have already taken action on our Websites or on TikTok ads.
 * Duration: 24 months
