@@ -66,7 +66,7 @@ Booking.com is part of the Booking Holdings Inc. corporate group. Read on to fin
 
 ### How is your personal data shared and further processed for ground transport services?
 
-Booking.com and Rentalcars.com – also part of the Booking Holdings Inc. group of companies – jointly use your data to offer you ground transport services via the Booking.com websites and apps (such as [cars.booking.com](https://cars.booking.com/) or [taxi.booking.com](https://taxi.booking.com/)). Read more to understand the scope and limited nature of our joint responsibility.
+Booking.com and Rentalcars.com – also part of the Booking Holdings Inc. group of companies – jointly use your data to offer you ground transport services via the Booking.com websites and apps (such as cars.booking.com or taxi.booking.com). Read more to understand the scope and limited nature of our joint responsibility.
 
 [Read more about data and our ground transport services](https://www.booking.com/content/privacy.en-gb.html#personal-data-transport-services-shared-how)
 
@@ -108,7 +108,7 @@ Unless indicated otherwise, Booking.com is a service you are only allowed to use
 
 ### How can you control the personal data you’ve given to Booking.com?
 
-You have the right to review the personal data we keep about you at any time. You can request access to or deletion of your personal data [by submitting this form](https://secure.booking.com/content/dsar?label=nm-german-de-tWVQffv*Kuhi9HBou1nb5QSM145603813876%3Apl%3Ata%3Ap1%3Ap22.563.000%3Aac%3Aap%3Aneg%3Afi%3Atikwd-16105915630%3Alp1004054%3Ali%3Adem%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YcsZ-Id2vkzIfTmYhvC5HOg&aid=309654). If you want to find out more about your rights to control your personal data, read on.
+You have the right to review the personal data we keep about you at any time. You can request access to or deletion of your personal data [by submitting this form](https://www.booking.com/content/dsar.en-gb.html?). If you want to find out more about your rights to control your personal data, read on.
 
 [Read more about how you can control your personal data](https://www.booking.com/content/privacy.en-gb.html#personal-data-controlled-how)
 
@@ -236,7 +236,7 @@ We use the information collected about you for a variety of purposes. Your perso
     
     If you have a Booking.com account, you can choose to display a screen name next to your review, instead of your real name. If you’d like to set a screen name, you can do that in your account settings. Adding an avatar is also possible.
     
-    By completing a review, you’re agreeing that it can be displayed (as described in detail in our [Terms and Conditions](https://www.booking.com/content/terms?aid=304142)) on, for example, the relevant Trip Provider information page on our websites, on our mobile apps, on our social media accounts and social media apps, or on the online platform of the relevant Trip Provider or business partner’s website. This is to inform other travellers about the quality of the Trip Service you used, the destination you have chosen or any other experiences you choose to share.
+    By completing a review, you’re agreeing that it can be displayed (as described in detail in our [Terms and Conditions](https://www.booking.com/content/terms.en-gb.html?)) on, for example, the relevant Trip Provider information page on our websites, on our mobile apps, on our social media accounts and social media apps, or on the online platform of the relevant Trip Provider or business partner’s website. This is to inform other travellers about the quality of the Trip Service you used, the destination you have chosen or any other experiences you choose to share.
     
 11. Call monitoring: When you make calls to our customer service team, Booking.com uses an automated telephone number detection system to match your telephone number to your existing reservations. This can help save time for both you and our customer service staff. However, our customer service staff may still ask for authentication, which helps to keep your reservation details confidential.
     
@@ -265,7 +265,7 @@ When using personal data to serve Booking.com’s or a third party's legitimate 
 
 Finally, where needed under applicable law, Booking.com will obtain your consent prior to processing your personal data, including for email marketing purposes or as otherwise required by law.
 
-If you wish to object to the processing set out under C to L and no opt-out mechanism is available to you directly (for example, in your account settings), please contact us at [dataprotectionoffice@booking.com](mailto:dataprotectionoffice@booking.com).
+If you wish to object to the processing set out under C to L and no opt-out mechanism is available to you directly (for example, in your account settings), please contact us at [dataprotectionoffice@booking.com](javascript:location='mailto:/u0064/u0061/u0074/u0061/u0070/u0072/u006f/u0074/u0065/u0063/u0074/u0069/u006f/u006e/u006f/u0066/u0066/u0069/u0063/u0065/u0040/u0062/u006f/u006f/u006b/u0069/u006e/u0067/u002e/u0063/u006f/u006d';void 0).
 
 * * *
 
@@ -287,7 +287,7 @@ In certain circumstances, we’ll share your personal data with third parties. T
     
 2. Connectivity Providers: Please note that certain Trip Providers may need us to share your personal data with a contracted Connectivity Provider in order to be able to finalise and administer your reservation. Connectivity providers act on behalf of Trip Providers and help them to manage their reservations.
     
-3. Your local Booking.com office: To support the use of Booking.com services, your details may be shared with subsidiaries of the Booking.com corporate group, including for customer service. To find out more about the Booking.com corporate group, visit [About Booking.com](https://www.booking.com/content/about?aid=304142).
+3. Your local Booking.com office: To support the use of Booking.com services, your details may be shared with subsidiaries of the Booking.com corporate group, including for customer service. To find out more about the Booking.com corporate group, visit [About Booking.com](https://www.booking.com/content/about.en-gb.html?).
     
 4. Third-party service providers: We use service providers from outside of the Booking.com corporate group to support us in providing our services. These include:
     
@@ -342,7 +342,7 @@ In particular, when your data is transferred to third-party service providers, w
 
 In certain specific cases, we transfer your data outside the EEA because it is in your interest or is necessary to conclude or perform the contract we have with you. For instance, when you make a reservation on Booking.com or through a business partner, we might need to transfer your data to a Trip Provider or business partner who is located outside the EEA.
 
-You can ask us to see a copy of our implemented safeguards (where possible) by contacting us at [dataprotectionoffice@booking.com](mailto:dataprotectionoffice@booking.com).
+You can ask us to see a copy of our implemented safeguards (where possible) by contacting us at [dataprotectionoffice@booking.com](javascript:location='mailto:/u0064/u0061/u0074/u0061/u0070/u0072/u006f/u0074/u0065/u0063/u0074/u0069/u006f/u006e/u006f/u0066/u0066/u0069/u0063/u0065/u0040/u0062/u006f/u006f/u006b/u0069/u006e/u0067/u002e/u0063/u006f/u006d';void 0).
 
 * * *
 
@@ -484,7 +484,7 @@ We’ll use this information to help provide you with the service you requested 
 
 Your social media provider will be able to tell you more about how they use and process your data when you connect to Booking.com through them. This can include combining the personal data they collect when you use Booking.com through them with information they collect when you use other online platforms you have also linked to your social media account.
 
-If you decide to connect using your Facebook or Google account, please review the following links for information about how these parties use data they receive: [Facebook](https://www.facebook.com/policy.php) and [Google](https://www.google.com/policies/privacy/partners/).
+If you decide to connect using your Facebook or Google account, please review the following links for information about how these parties use data they receive: Facebook and Google.
 
 * * *
 
@@ -533,9 +533,9 @@ If you have a Booking.com user account, you can access a lot of your personal da
 
 If any of the personal data we have about you isn’t accessible through our website or apps, you can send us a request.
 
-If you want to exercise your right of access or erasure, all you need to do is complete and submit the [Data Subject Request for Booking.com Customers](https://secure.booking.com/content/dsar?label=nm-german-de-tWVQffv*Kuhi9HBou1nb5QSM145603813876%3Apl%3Ata%3Ap1%3Ap22.563.000%3Aac%3Aap%3Aneg%3Afi%3Atikwd-16105915630%3Alp1004054%3Ali%3Adem%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YcsZ-Id2vkzIfTmYhvC5HOg&aid=309654) form. For any requests relating to this Privacy Statement, to exercise any of your other rights, or if you have a complaint, please contact our Data Protection Officer at [dataprotectionoffice@booking.com](https://secure.booking.com/content/dsar?label=nm-german-de-tWVQffv*Kuhi9HBou1nb5QSM145603813876%3Apl%3Ata%3Ap1%3Ap22.563.000%3Aac%3Aap%3Aneg%3Afi%3Atikwd-16105915630%3Alp1004054%3Ali%3Adem%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YcsZ-Id2vkzIfTmYhvC5HOg&aid=309654). You can also contact your local data protection authority.
+If you want to exercise your right of access or erasure, all you need to do is complete and submit the [Data Subject Request for Booking.com Customers](https://www.booking.com/content/dsar.en-gb.html?) form. For any requests relating to this Privacy Statement, to exercise any of your other rights, or if you have a complaint, please contact our Data Protection Officer at [dataprotectionoffice@booking.com](javascript:location='mailto:/u0064/u0061/u0074/u0061/u0070/u0072/u006f/u0074/u0065/u0063/u0074/u0069/u006f/u006e/u006f/u0066/u0066/u0069/u0063/u0065/u0040/u0062/u006f/u006f/u006b/u0069/u006e/u0067/u002e/u0063/u006f/u006d';void 0). You can also contact your local data protection authority.
 
-If you’d like to object to your personal data being processed on the basis of legitimate interest and there’s no way to opt out directly, please contact us at [dataprotectionoffice@booking.com](mailto:dataprotectionoffice@booking.com).
+If you’d like to object to your personal data being processed on the basis of legitimate interest and there’s no way to opt out directly, please contact us at [dataprotectionoffice@booking.com](javascript:location='mailto:/u0064/u0061/u0074/u0061/u0070/u0072/u006f/u0074/u0065/u0063/u0074/u0069/u006f/u006e/u006f/u0066/u0066/u0069/u0063/u0065/u0040/u0062/u006f/u006f/u006b/u0069/u006e/u0067/u002e/u0063/u006f/u006d';void 0).
 
 If you’d like to contact us by post, please address it to the Data Protection Officer and use the following postal address: Herengracht 597, 1017 CE, Amsterdam, the Netherlands.
 
@@ -547,7 +547,7 @@ Booking.com B.V. controls the processing of personal data, as described in this 
 
 If you have any questions about this Privacy Statement, or about our processing of your personal data, please contact our Data Protection Officer at dataprotectionoffice@booking.com and we’ll get back to you as soon as possible.
 
-For questions about a reservation, please contact our customer service team through the [customer service contact page](https://www.booking.com/help?aid=304142#/?source=privacy_policy).
+For questions about a reservation, please contact our customer service team through the [customer service contact page](https://secure.booking.com/help.en-gb.html?&source=privacy_policy#/?source=privacy_policy).
 
 Requests from law enforcement should be submitted using the [Law Enforcement](https://authorityportal.booking.com/) process.
 
@@ -759,6 +759,6 @@ Some websites have ‘Do Not Track’ features that allow you to tell a website 
 
 #### How to contact us
 
-If you have any questions about this cookie statement, please send an email to [dataprotectionoffice@booking.com](mailto:dataprotectionoffice@booking.com).
+If you have any questions about this cookie statement, please send an email to [dataprotectionoffice@booking.com](javascript:location='mailto:/u0064/u0061/u0074/u0061/u0070/u0072/u006f/u0074/u0065/u0063/u0074/u0069/u006f/u006e/u006f/u0066/u0066/u0069/u0063/u0065/u0040/u0062/u006f/u006f/u006b/u0069/u006e/u0067/u002e/u0063/u006f/u006d';void 0).
 
 Our cookie statement may also be updated from time to time. If these updates are substantial, particularly relevant to you or impact your data protection rights, we’ll get in touch with you about them. However, we recommend that you visit this page regularly to stay up to date with any other (less substantial or relevant) updates.
