@@ -1,7 +1,7 @@
 Websites, Communications & Cookies Privacy Notice
 =================================================
 
-May 10, 2022
+November 29, 2022
 
 We care about your privacy. When Mozilla (that's us) collects information about you, our [Mozilla Privacy Policy](https://www.mozilla.org/privacy/) describes how we handle that information.
 
@@ -36,6 +36,7 @@ We may use cookies, clear GIFs, third party web analytics, device information, a
     * We use certain device information such as country, language, operator and OEM, to customize your experience.
 * **Metrics**: We may also use cookies, device information, and IP addresses, along with clear GIFs, cookies and third party services to help us understand in the aggregate how users engage with our products, services, communications, websites, online campaigns, snippets, devices, and other platforms. We use:
     
+    * Mozilla Glean, our first-party telemetry and analytics platform. You can learn more about the specific types of data we collect in the [Glean Dictionary](https://dictionary.telemetry.mozilla.org/apps/bedrock).
     * Google Analytics, which places a cookie on your device, to obtain metrics on how users engage with our websites. This helps us to improve site content.
     * Convert.com and ShareProgress, which place a cookie on your device, to help us test variations of web content. This helps us offer better web experiences to users.
     * DoubleClick and Flashtalking, each of which uses a clear GIF on our download Firefox page. This helps us measure the effectiveness of our advertising campaigns.
@@ -72,5 +73,3 @@ Some Mozilla websites allow you to make purchases (such as apps or gear), contri
 * **Payment Processing**: Except for payments made by check, money order, and direct debit, and wire transfers, Mozilla does not receive any financial information, which is transmitted from you to the named third party vendor for processing (e.g., Braintree, PayPal, Bitpay, Stripe).
     
 * **Personal Data**: We may also receive your name, mailing address, and/or email address. This data is used for fraud detection and record-keeping. We use [Acoustic](https://acoustic.com/privacy-notice/) to email receipts and store records, which are retained for four years from the date of last payment.
-    
-* **Third Party Data**: We use [WealthEngine](https://www.wealthengine.com/wealthengine-inc-privacy-policy/) to improve our fundraising efforts to keep the internet healthy, open, and accessible for all. Donors can [opt-out](https://app.onetrust.com/app/#/webform/4ba08202-2ede-4934-a89e-f0b0870f95f0) of Mozilla’s use.
