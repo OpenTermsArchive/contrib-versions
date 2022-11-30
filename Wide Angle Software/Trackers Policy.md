@@ -77,7 +77,7 @@ You can prevent your browsing from being tracked by browsing in â€˜private modeâ
 
 Find out how to manage cookies on popular browsers:
 
-* [Apple Safari](https://support.apple.com/en-gb/guide/safari/sfri11471/mac)
+* [Apple Safari](https://support.apple.com/en-us/guide/safari/sfri11471/mac)
 * [Google Chrome](https://support.google.com/chrome/answer/95647?hl=en&co=GENIE.Platform%3DDesktop&oco=1)
 * [Microsoft Internet Explorer](https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies) & [Microsoft Edge](https://support.microsoft.com/en-us/help/4468242/microsoft-edge-browsing-data-and-privacy-microsoft-privacy)
 * [Mozilla Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)
