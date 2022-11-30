@@ -1,23 +1,23 @@
 Wix.com Terms of Use
 ====================
 
-Last Revised: April 8, 2021
+Last Revised: November 24, 2022
 
-Welcome to Wix.com’s Terms of Use! We are truly excited to have you aboard. Thank you for choosing to use our services.
+Welcome to Wix.com’s Terms of Use! We are truly excited to have you aboard. Thank you for choosing to use our services.
 
   
-Below we have listed important legal terms that apply to anyone who visits our website or uses our services. These terms are necessary in order to protect both you and us, and to make our services possible and more enjoyable for everyone. Wix offers a wide range of services and features and part of the terms below may not be relevant to the specific services you use.
+Below we have listed important legal terms that apply to anyone who visits our website or uses our services. These terms are necessary in order to protect both you and us and to make our services possible and more enjoyable for everyone. Wix offers a wide range of services and features and part of the terms below may not be relevant to the specific services you use.
 
 ​
 
-We understand that legal terms can be exhausting to read, and we’ve tried to make the experience more pleasant. If you have any suggestions on how we can improve them, you are more than welcome to contact us at [support@wix.com](mailto:support@wix.com).
+We understand that legal terms can be exhausting to read, and we’ve tried to make the experience more pleasant. If you have suggestions on how we can improve them, you are welcome to [contact us](https://www.wix.com/contact/).
 
 1\. Introduction
 ----------------
 
 ### 1.1. Our Purpose
 
-Our services offer our users the ability to easily create beautiful and highly functional online presence, to manage and promote businesses, content and ideas, and have an overall great experience doing so – without being tech-savvy or a design guru. As detailed below, we offer our users numerous tools and features for creating, publishing and use of stunning websites, online e-commerce platforms, newsletters, galleries, media players, mobile apps and other online and mobile online and mobile applications, tools and services. The online and mobile websites and platforms created by Users are collectively referred to herein as (“User Platform(s)”). 
+Our services offer our Users the ability to easily create a beautiful and highly functional online presence, manage and promote businesses, content, and ideas, and have an overall great experience doing so – even without being tech-savvy or a design guru. As detailed below, we offer our users numerous tools and features for creating, publishing, and use of stunning websites, online e-commerce platforms, newsletters, galleries, media players, mobile apps, and other online and mobile applications, tools, and services. The online, and mobile websites, functionalities, and platforms created by Users are collectively referred to herein as “User Platform(s)”. 
 
 #### #ItsThatEasy
 
@@ -25,53 +25,121 @@ Wix.com offers online and mobile services and tools, that let create, manage an
 
 ### 1.2. Legal Agreement
 
-These Wix.com Terms of Use (“Terms of Use”), together with such additional terms which specifically apply to some of our services and features as presented on the Wix.com website(s) (“Wix Website”, and collectively – the “Wix Terms”), all set forth the entire terms and conditions applicable to each visitor or user (“User” our “you”) of the Wix Website, the Wix mobile application (the “Wix App”) and/or any other services, applications and features offered by us with respect thereto, except where we explicitly state otherwise (all services offered through the Wix Website or the Wix App, collectively – the “Wix Services” or “Services”).
+These Wix.com Terms of Use (“Terms of Use”), together with such additional terms which specifically apply to some of our services and features as presented on the Wix.com website(s) (“Wix Website”, and collectively – the “Wix Terms”), set forth the entire terms and conditions applicable to each visitor or user (“User” or “you”) of the Wix Website, the Wix mobile application (the “Wix App”) and/or any other services, applications and features offered by us with respect thereto, except where we explicitly state otherwise (all services offered through the Wix Website or the Wix App, collectively – the “Wix Services” or “Services”). For the avoidance of doubt, Wix Services (as defined in these Terms of Use) do not include services, applications, features, or components that were built, developed, connected or offered by a Wix User, even if presented on the Wix Website or the Wix App.
 
 The Wix Terms constitute a binding and enforceable legal contract between Wix.com Ltd. and its affiliated companies and subsidiaries worldwide (“Wix”, “us” or “we”) and you in relation to the use of any Wix Services - so please read them carefully.
 
-You may visit and/or use the Wix Services and/or the Wix App only if you fully agree to the Wix Terms - and by using and/or registering to any of the Wix Services, you signify and affirm your informed consent to these Terms of Use and any other Wix Terms applicable to your use of any Wix Services. If you do not read, fully understand and agree to the Wix Terms, you must immediately leave the Wix Website and avoid or discontinue all use of the Wix Services.
+You may visit and/or use the Wix Services and/or the Wix App only if you fully agree to the Wix Terms - and by using and/or registering to any of the Wix Services, you signify and affirm your informed consent to these Terms of Use and any other Wix Terms applicable to your use of any Wix Services. If you do not read, or fully understand or if you do not agree to the Wix Terms, you must immediately leave the Wix Website and avoid or discontinue all use of the Wix Services or Wix App.
 
 ​
 
-By using our Services, you acknowledge that you have read our Privacy Policy available at [http://www.wix.com/about/privacy](http://www.wix.com/about/privacy) (“Privacy Policy”).
+By using our Services, you also acknowledge that you have read our Privacy Policy available at our [Privacy Policy](http://www.wix.com/about/privacy).
 
 #### #ItsThatEasy
 
-By visiting our website or using our application and/or services, you are entering into a legal agreement with us, consisting of these Terms of Use, and our additional services’ legal terms. 
-
-By using our services, you signify your consent to these terms and you acknowledge that you have read our Privacy Policy. You may not use our services if you do not consent to all our terms.
+By visiting our website or using our application and/or services, you are entering into a legal agreement with us, consisting of these Terms of Use, and our additional services’ legal terms. By using our services, you signify your consent to these terms and you acknowledge that you have read our Privacy Policy. You may not use our services if you do not consent to all our terms.
 
 ### 1.3. User Account
 
-In order to access and use certain sections and features of the Wix Services, you must first register and create an account with Wix (“User Account”).
+In order to access and use the Wix Services, you must first register and create an account with Wix (“User Account”).
 
-If anyone other than yourself accesses your User Account and/or any of your User Platforms’ settings, they may perform any actions available to you (unless as specifically stated otherwise on the Wix Services), make changes to your User Platform(s) and User Account, and accept any legal terms available therein, make various representations and warranties and more – and all such activities will be deemed to have occurred on your behalf and in your name.
+Creation of a User Account or purchase of Paid Services (as defined in Section 5 below), can be done either directly on the Wix Website or through an unrelated third-party authorized to sell Wix subscriptions to User Accounts and other Paid Services (a “Reseller”) under a separate agreement with Wix (a “Reseller Agreement”).
 
-Therefore, we strongly encourage you to keep the log-in credentials of your User Account confidential, and allow such access only to people you trust - as you will be solely and fully responsible for all activities that occur under your User Account and/or User Platforms (including for any representations, warranties and undertakings made therein), whether or not specifically authorized by you, and for any damages, expenses or losses that may result from such activities.
-
-You must provide accurate and complete information when registering your User Account and using the Wix Services, to which you are the sole and exclusive rights holder. We strongly encourage you to provide your own (or your company’s) contact and billing details, including your valid e-mail address, as we may use it to identify and determine the actual and true owner of the User Account and/or User Content (as defined below) submitted to us. 
-
-In case of a dispute on User Account ownership, we reserve the right to determine ownership to a User Account based on our reasonable judgment, whether or not an independent investigation has been conducted by us. However, if we cannot make such determination (as we may deem in our sole discretion), we reserve the right to avoid doing so and/or suspend a User Account until the parties disputing such ownership, reach a resolution, without liability to you or to any other party. We may request documentation (e.g. government-issued ID, a business license) that may assist us in determining ownership. Among others, we may consider the principles set forth below.
+If you register to Wix Services or purchase Paid Services via a Reseller (referred to herein as a “Reseller User”) please note the following:
 
 ​
 
-1. Wix will consider the owner of a User Account, User Platform and/or User Content created and/or uploaded to the relevant Wix Service, as the person or entity who has access to the e-mail address then listed in Wix’s records for such User Account under which such User Platform or User Content was created.
+* These Terms of Use are applicable in addition to any arrangement by and between you and the Reseller, and they govern your use of the Wix Services.
     
-2. If any Paid Services (as defined in Section 5 below) were purchased via a User Account, Wix will consider the owner of such User Account and/or the relevant User Platform and/or User Content created thereunder, may be considered to be the person or entity whose billing details were used to purchase such Paid Services (“Billing Information”). Notwithstanding the foregoing, when applicable if a User Platform was connected to an external domain name (either imported or purchased as part of certain Paid Services, as defined below), and such domain’s registration information is publicly available via the WHOIS database provided on the [www.whois.net](http://www.whois.net/) website or on Wix’s database, Wix will consider the owner of such User Platform as the person or entity registered as the registrant of such domain thereunder. In the event that an individual and an organization are both registered as the registrant or the registrant organization of such domain, Wix will consider the organization as the actual owner of the domain, and therefore as the owner of the User Platform connected to such domain. In event the Billing Information indicates one person as the owner of the User Platform and the domain registration indicates a different owner, Wix shall consider the person registered as the owner of the domain connected to the Wix Account as the owner of the User Platform.
+* As between you and Wix,  per your relationship with Wix and unless otherwise specifically indicated in these Terms of Use, these Terms of Use supersede any arrangement between you and the Reseller with regard to your use of the Wix Services and/or activities in your User Account (or the User Account to which you are added).
     
-3. Notwithstanding the forgoing, Wix shall have the right to determine the ownership of User Content and/or a User Website as it chooses, including by ignoring the indications set forth above, in event Wix deems, at its sole discretion, that the situation justifies such determination, all based upon the factual situation as determined by Wix.  
+* Certain services, applications, and features of the Wix Services may not be available to you or may only be available to you through the Reseller platform.  
     
+
+### 1.4 Access to Accounts; Roles and Permissions
+
+You may invite others to your User Account and your User Platforms and assign them certain roles and permissions to perform certain activities within your User Account and User Platforms. 
+
+​
+
+A person granted permission to perform activities on a User Account that such person does not own is referred to herein as a “Contributor”.
+
+​
+
+If anyone other than yourself (including Contributors) accesses your User Account and/or any of your User Platforms’ settings, they may also (and if done by a Contributors, depending on the roles and permissions you assign them), perform actions available to you (unless as specifically stated otherwise on the Wix Services), make changes to your User Platform(s) and User Account, and accept any legal terms available therein, make various representations and warranties and more – and all such activities will be deemed to have occurred on your behalf and in your name as the owner of the User Account, whether or not specifically authorized by you.
+
+​
+
+Therefore, we strongly encourage you to (i) keep the log-in credentials of your User Account confidential, and (ii) allow access to your User Account, only to people you trust - as you will be solely and fully responsible for all activities that occur under your User Account and/or User Platforms (including for any representations, warranties, and undertakings made therein and including by any Contributor), and for any damages, expenses or losses that may result from such activities.
+
+​
+
+You must provide accurate and complete information when registering your User Account and using Wix Services. We strongly encourage you to provide your own (or your company’s, as applicable) contact and billing details, including your valid e-mail address, as we may use it to identify and determine the actual and true owner of the User Account and/or User Content (as defined below) submitted to us.
+
+​
+
+If you are a Contributor,  you are required to register and create a User Account of your own in order to access the User Account under which you are a Contributor. Therefore these Terms of Use apply to Contributors as well.
+
+​
+
+If you are a Reseller User, then depending on the agreement between you and the Reseller, such Reseller may be the owner of the User Platform and you may be invited by the Reseller as a Contributor to such User Platform.
+
+​
+
+If you are invited as a Contributor to a User Platform or if you are a Reseller User, you acknowledge that the owner of such User Platform and /or the Reseller (ii) shall have full access to any information (including personal information) that is stored by you or on your behalf on such User Platform; and (ii) shall have all the rights and functionalities awarded to a User Account owner, in connection with such User Platform.
+
+#### #ItsThatEasy
+
+You can create an account and purchase services also via a third-party authorized to sell Wix (Reseller). If you register to Wix or purchase services via a Reseller you agree and accept these Wix terms of use (in addition to any arrangement between you and the Reseller), so that in you relationship with Wix these terms will overcome any other terms, and that some Wix services and features may not be available to you or be available to you only through the Reseller platform.
+
+#### #ItsThatEasy
+
+If you are invited to be a Contributor on other User’s Platform , you need to create a User Account of your own before you access the other User Platform.   
+  
+If you are a Reseller User, the Reseller may be the owner of the User Platform and have access to information on such User Platform. The Reseller will also have all rights and functionalities awarded to a User Account owner. You may be invited by the Reseller as a Contributor to such User Platform.
+
+###### 1\. 5 Account Ownership
+
+For each User Platform, Wix will consider the owner of such User Platform to be the person or entity whose email address is listed in Wix’s records as the owner of the User Account under which the User Platform was created. 
+
+​
+
+In case of a dispute on User Account ownership, we reserve the right to determine ownership to a User Account based on our reasonable judgment, whether or not an independent investigation has been conducted by us. However, if we cannot make such a determination (as we may deem in our sole discretion), we reserve the right to avoid doing so and/or suspend a User Account until the parties disputing such ownership, reach a resolution, without Wix having any liability to you or to any other party. We may request documentation (e.g., government-issued ID, a business license) that may assist us in determining ownership.
+
+​
+
+If you created your User Account directly on the Wix Website (and not via a Reseller),  we may consider the principles set forth below to determine ownership.
+
+​
+
+If you are invited as a Contributor to a User Platform or if you are a Reseller User, you acknowledge that the owner of such User Platform and /or the Reseller (ii) shall have full access to any information (including personal information) that is stored by you or on your behalf on such User Platform; and (ii) shall have all the rights and functionalities awarded to a User Account owner, in connection with such User Platform.
+
+​
+
+1. Wix will consider the person or entity who has access to the e-mail address (listed in Wix’s records for a User Account under which such User Platform or User Content was created) as the owner of a User Account, User Platform, and/or User Content created and/or uploaded to the relevant Wix Service.
+    
+2. If any Paid Services were purchased via a User Account, Wix may consider the owner of such User Account and/or the relevant User Platform and/or User Content created thereunder, as the person or entity whose billing details were used to purchase such Paid Services (“Billing Information”). Notwithstanding the foregoing, when applicable, if a User Platform was connected to an external domain name (either imported or purchased as part of certain Paid Services, as defined below), and such domain’s registration information is publicly available via the WHOIS database provided on the [www.whois.net](https://www.whois.net/) website or on Wix’s database, Wix may consider the owner of such User Platform as the person or entity registered as the registrant of such domain thereunder. In the event that an individual and an organization are both registered as the registrant or the registrant organization of such a domain, Wix will consider the organization as the actual owner of the domain. In the event the Billing Information indicates one person as the owner of the User Platform and the domain registration indicates a different owner, Wix shall consider the person registered as the owner of the domain connected to the Wix Account as the owner of the User Platform.
+    
+
+​
+
+Notwithstanding the foregoing, Wix shall have the right to determine the ownership of User Content and/or a User Website as it chooses, including by ignoring the indications set forth above, in the event Wix deems, at its sole discretion, that the situation justifies such determination, all based upon the factual situation as determined by the sole discretion of Wix.
+
+​
+
+If you are a Reseller User the ownership of the respective User Account may be determined by Wix pursuant to the terms of the Reseller Agreement.
 
 #### #ItsThatEasy
 
 To use certain of our services, you need to create a user account.  
   
 You should keep your username and password protected and safe, and only allow people you trust to access your account or website settings.  
-  
+ 
+
 All activities that occur under your user account or website are your responsibility.
 
-The account information you provide us must be your own (or your company’s), and be accurate and complete.
-
+The account information you provide us must be your own (or your company’s), and be accurate and complete.  
+  
 When a user account is disputed, we may determine the ownership of such user account. 
 
 2\. Your Obligations
@@ -81,7 +149,7 @@ When a user account is disputed, we may determine the ownership of such user acc
 
 1. you are at least thirteen (13) years of age, or sixteen (16) years of age if you are an individual within the European Union (EU), or of the legal age of majority in your jurisdiction, and possess the legal authority, right and freedom to enter into the Wix Terms and to form a binding agreement, for yourself or on behalf of the person or entity committed by you to the Wix Terms;
     
-2. you are not a resident of (or will use the Wix Services in) a country that the U.S. government has embargoed for use of the Wix Services, nor are you named on the U.S. Treasury Department’s list of Specially Designated Nationals or any other applicable trade sanctioning regulations;
+2. you are not ordinarily resident of, and will not use or distribute the Wix Services or Wix App in, any country or region subject to U.S. comprehensive country or regional embargos. You further confirm that you are not included on any sanctions list, including without limitation, the U.S. Specially Designated Nationals and Blocked Persons List, maintained by the U.S. (“SDN List”), or any other applicable sanctions list maintained by the EU, the UK or other, and that you are not owned 50 percent or more, directly or indirectly in the aggregate, by a Sanctioned Party and are not otherwise controlled by such a party (“Sanctioned Party”).  You further confirm that you will not use or distribute the Wix Services or the Wix App directly or indirectly to or for the benefit of a Sanctioned Party.  You agree to indemnify Wix against any and all losses, including without limitation, monetary penalties and legal fees, that Wix may suffer should you violate any of the forgoing confirmations regarding your non-sanctioned status.
     
 3. your country of residence and/or your company’s country of incorporation is the same as the country specified in the contact and/or billing address you provide us;
     
@@ -90,13 +158,13 @@ When a user account is disputed, we may determine the ownership of such user acc
     And specifically regarding your User Content:  
      
     
-5. you confirm you own all rights in and to any content uploaded or provided by you, or imported, copied or uploaded by Wix Services for you, to your User Platform (“User Content”), including any designs, images, animations, videos, audio files, fonts, logos, code, illustrations, compositions, artworks, interfaces, usernames, information you provide for the purpose of creating a subdomain name, text, literary works and any other materials (“Content”), or otherwise have (and will continue to have) the full power, title, licenses, consents and authority, in and to the User Content, as necessary to legally access to, import, copy, use, publish, transfer or license such User Content, by you and us or any of our affiliates;
+5. you confirm you own all rights in and to any content uploaded, developed or provided by you, or imported, connected, copied or uploaded by Wix Services for you, to your User Platform (“User Content”), including any designs, images, animations, videos, audio files, fonts, logos, code, algorithms, SPIs, APIs, databases, illustrations, compositions, artworks, interfaces, usernames, information you provide for the purpose of creating a subdomain name, text, literary works and any other materials (“Content”), or otherwise have (and will continue to have) the full power, title, licenses, consents and authority, in and to the User Content, as necessary to legally access to, import, copy, use, connect, develop, publish, transfer or license such User Content, by you and us or any of our affiliates;
     
-6. you have (and will maintain) the full power, title, licenses, consents and authority to allow Wix Services to access any websites, web pages and/or other online services, for the purpose of importing, copying, displaying, uploading, transmitting and/or otherwise using, your User Content.
+6. you have (and will maintain) the full power, title, licenses, consents and authority to allow Wix Services or Wix App to access any websites, web pages and/or other online services, for the purpose of importing, exporting, copying, displaying, uploading, publishing, transmitting and/or otherwise using your User Content.
     
-7. the User Content is (and will continue to be) true, current, accurate, non-infringing upon any third party rights, and in no way unlawful for you to upload, import, copy, possess, post, transmit, display or otherwise use, in the country in which you or your User Platform’s visitors and users (“End Users”) reside, or for Wix and/or your End Users to access, import, copy, upload, use or possess in connection with the Wix Services;
+7. the User Content is (and will continue to be) true, current, accurate, non-harmful, non-infringing upon any third party rights, and in no way unlawful for you to upload, import, export, copy, possess, post, publish, transmit, display or otherwise use, in the country in which you or your User Platform’s visitors and users (“End Users”) reside, or for Wix and/or your End Users to access, import, export, copy, upload, publish, post, store, use or possess in connection with the Wix Services;
     
-8. you have obtained all consents and permissions required under all applicable laws, regarding the posting, transmission and publication of any personal information and/or image or likeness of any person, entity or property which is part of the User Content, and you will adhere to all laws applicable thereto.
+8. you have obtained all consents and permissions required under all applicable laws, regarding the processing, storing, collection, posting, transmission and publication of any personal information and/or image or likeness of any person, entity or property which is part of the User Content, and you will adhere to all laws applicable thereto.
     
 
 #### #ItsThatEasy
@@ -113,17 +181,17 @@ In addition, you must own all rights in any content you upload or publish or tha
 
 1. fully comply with all applicable laws and any other contractual terms which govern your use of the Wix Services (and any related interaction or transaction), including those specific laws applicable to you or your End Users in any of your geographical locations;
     
-2. be solely responsible and liable with respect to any of the uses of the Wix Services which occur under your User Account and/or User Platform(s), and for any of your User Content (including for any consequences of accessing, importing, uploading, copying, using or publishing such User Content on or with respect to the Wix Services);
+2. be solely responsible and liable with respect to any of the uses of the Wix Services which occur under your User Account and/or User Platform(s), and for any of your User Content (including for any consequences of accessing, storing, collecting, importing, exporting, uploading, copying, using or publishing such User Content on or with respect to the Wix Services);
     
-3. regularly and independently save and backup any of your User Content and the information that is being processed by you regarding your User Platform, including with respect to End Users, User Products, and any applications and/or Third Party Services used by you;
+3. regularly and independently save and backup any of your User Content and the information that is being processed by you regarding your User Platform, including with respect to End Users, User Products, and any applications features, services, and/or Third Party Services used, connected, presented or developed by you;
     
-4. receive from time to time promotional messages and materials from Wix or its partners, by mail, e-mail or any other contact form you may provide us with (including your phone number for calls or text messages). If you wish not to receive such promotional materials or notices – please just notify us at any time;
+4. receive from time to time promotional messages and materials from Wix or its partners, by mail, e-mail or any other contact form you may provide us with (including your phone number for calls or text messages). If you wish not to receive such promotional materials or notices – please notify us at any time;
     
 5. allow Wix to use in perpetuity, worldwide and free of charge, any version of your User Platform (or any part thereof) for any of Wix’s marketing and promotional activities, online and/or offline, and modify it as reasonably required for such purposes, and you waive any claims against Wix or anyone on its behalf relating to any past, present or future moral rights, artists’ rights, or any other similar rights worldwide that you may have in or to your User Platform with respect to such limited permitted uses;
     
 6. Wix’s sole discretion as to the means, manner, and method for performing the Wix Services, including those regarding the hosting, transmission, publication and/or display of any User Platforms and/or Content (including the inclusion and presentation of any advertisements or other commercial content with respect thereto).
     
-7. ​Wix shall have the right to offer the Wix Services in alternative price plans and impose different restrictions as for the upload, storage, download and use of the Wix Services in each price plan, including, without limitation, restrictions on network traffic and bandwidth, size and/or length of Content, quality and/or format of Content, sources of Content, volume of download time, number of subscribers to your Content, etc.
+7. ​Wix shall have the right to offer the Wix Services in alternative price plans and impose different restrictions for the upload, storage, download and use of the Wix Services in each price plan, including, without limitation, restrictions on network traffic and bandwidth, size and/or length of Content, quality and/or format of Content, sources of Content, the volume of download time, number of subscribers to your Content, the volume of storage, etc.
     
 
 #### #ItsThatEasy - List of Musts
@@ -131,7 +199,7 @@ In addition, you must own all rights in any content you upload or publish or tha
 You must comply with all applicable laws.  
  
 
-You will be responsible for your actions and for the actions of anyone who accesses your user account or user platform settings.
+You will be responsible for your actions and for the actions of anyone who accesses your user account or user platform settings.
 
 ​
 
@@ -184,7 +252,7 @@ You agree that Wix has the right to impose and change price plans for its Servic
     
 17. use any of the Wix Services and/or User Platform in connection with any form of spam, unsolicited mail, fraud, scam, phishing, “chain letters”, “pyramid schemes” or similar conduct, or otherwise engage in unethical marketing or advertising;
     
-18. use the Wix Services for the creation and operation of websites whose main purpose (directly or indirectly) is video streaming;
+18. utilize any of the Wix Services or Wix Systems for storage and/or video streaming purposes (whether for main streaming purposes or not). For example, creating and operating websites whose purpose is video streaming or main purpose is file storage. Including indirect utilization, through integration or connection with third-party platforms or services;
     
 19. access to Wix Services, User Accounts, Licensed Content and/or User Content, through any means or technology (e.g. scraping and crawling), other than our publicly supported interfaces.
     
@@ -213,7 +281,7 @@ Failure to abide by any of these rules may bring us to cancel your account and s
 
 ### 3.1. Your Intellectual Property
 
-As between Wix and you, you shall own all intellectual property pertaining to your User Content and to any other materials created by you, including to any designs, images, animations, videos, audio files, fonts, logos, illustrations, compositions, artworks, code, interfaces, text and literary works. Wix does not claim ownership rights on your content. For the sole purpose of granting you the service, You know and agree that we will need to access, upload and/or copy your User Content to our platform, including cloud services and CDN’s, to make display adjustments, to duplicate for backup and perform any other technical actions and/or uses required to perform our services, as we deem fit.
+As between Wix and you, you shall own all intellectual property pertaining to your User Content and to any other materials created, developed, or connected to Wix Services by you, including any designs, images, animations, videos, audio files, fonts, logos, illustrations, compositions, artworks, code, algorithms, SPIs, APIs, databases, interfaces, text and literary works. Wix does not claim ownership rights on your User Content or the content you connected to the Wix Services. You know and agree that in order to provide the Services to you and to maintain and improve the Services (the “Purpose”) we will need to access, upload and/or copy your User Content to our platform, including cloud services and CDN’s, to make display adjustments, to train our software tools, to duplicate for backup and perform any other technical actions and/or uses required to perform our services, as we deem fit. You hereby grant us a non-exclusive, transferable, sub-licensable, royalty-free, and worldwide license to use your User Content for the Purpose.
 
 #### #ItsThatEasy
 
@@ -255,136 +323,161 @@ Certain parts of the Wix Services (including certain Third Party Services availa
 
 ### #ItsThatEasy
 
-We care about your privacy, and you should too. Please read our Privacy Policy to learn more about our practices concerning personal information
+We care about your privacy, and you should too. Please read our Privacy Policy to learn more about our practices concerning personal information.
 
 5\. Service Fees
 ----------------
 
 ### 5.1. Paid Services
 
-The use of certain Wix Services may be subject to payment of particular fees, as determined by Wix in its sole discretion (“Paid Services” and “Fee(s)”, respectively). Wix will provide notice of such Fees then in effect in relation to such Paid Services. If you wish to receive or use such Paid Services, you are required to pay all applicable Fees in advance.
+The use of certain Wix Services may be subject to payment of particular fees, as determined by Wix in its sole discretion (“Paid Services” and “Fee(s)”, respectively). Important: if you are a  Reseller User and your payment is made to the Reseller, then the provisions of subsections 5.1 (1), 5.1(4), 5.2, 5.3 (2), 5.4 (1) and 5.5  of this Section 5 with respect to such specific Paid Service may not apply to you and the payment and management of such Paid Service, shall be made directly with the Reseller according to the terms agreed upon between you and the Reseller.
 
-Wix reserves the right to change its Fees at any time, upon notice to you if such change may affect your existing subscriptions. If you received a discount or other promotional offer, Wix shall have the right to automatically and without notice renew your subscription to such Wix Service(s) at the full applicable Fee.
+​
 
-All Fees shall be deemed to be in U.S. Dollars, except as specifically stated otherwise in writing by Wix. To the extent permitted by law (and unless specified otherwise by Wix in writing), all Fees are exclusive of all taxes (including value added tax, sales tax, goods and services tax, etc.), levies or duties imposed by taxing authorities (“Taxes”), and you shall be responsible for payment of all applicable Taxes relating to your use of the Wix Services, or to any payments or purchases made by you. If Wix is obligated to collect or pay Taxes for the Fees payable by you, and whether or not such Taxes were added and collected from you for previous transactions, such Taxes may be added to the payment of any outstanding Fees and will be reflected in the Invoice for such transaction. We recommend that you verify the existence of any additional fees you may be charged by third parties in connection with the purchase of Paid Services or in connection with the renewal thereof (such as international transaction fees, currency exchange fees or fees due to banks or credit card companies). Wix is not responsible for any such additional fees or costs.
-
-As part of registering or submitting information to receive Paid Services, you also authorize Wix (either directly or through its affiliates, subsidiaries or other third parties) to request and collect payment  and service fees (or otherwise charge, refund or take any other billing actions) from our payment provider or your designated banking account, and to make any inquiries Wix or its affiliates may consider necessary to validate your designated payment account or financial information, in order to ensure prompt payment, including for the purpose of receiving updated payment details from your payment, credit card or banking account provider (e.g., updated expiry date or card number as may be provided to us by your credit card company).
-
-You must keep a credit card stored with Wix to pay for your Paid Services (“Stored Card”). You will be able to identify your Stored Card by its last four digits as in your Account Settings Page.
+1. Wix will notify you of the Fees then in effect, you need to pay directly to Wix in relation to the Paid Services you decide to purchase from Wix. If you wish to receive or use the Paid Services, you are required to pay all applicable Fees in advance
+    
+2. Wix reserves the right to change its Fees at any time in its sole discretion. Wix will send a notice regarding the change to you or your Reseller if such a change will affect your existing subscriptions
+    
+3. f you received a discount or other promotional offer, either from Wix or from a Reseller, Wix or the Reseller, respectively, shall have the right at the end of the applicable discounted period, to, automatically and without notice, renew your subscription to such Wix Service(s) at the full then-current applicable Fee.
+    
+4. All Fees paid directly to Wix shall be deemed to be in U.S. Dollars, except as specifically stated otherwise in writing by Wix. To the extent permitted by law (and unless specified otherwise by Wix in writing), all Fees are exclusive of all taxes (including value-added tax, sales tax, goods and services tax, etc.), levies or duties imposed by taxing authorities (“Taxes”), and you shall be responsible for payment of all applicable Taxes relating to your use of the Wix Services, or to any payments or purchases made by you. If Wix is obligated to collect or pay Taxes for the Fees payable by you, and whether or not such Taxes were added and collected from you for previous transactions, such Taxes may be added to the payment of any outstanding Fees and will be reflected in the Invoice for such transaction. We recommend that you verify the existence of any additional fees you may be charged by third parties in connection with the purchase of Paid Services or in connection with the renewal thereof (such as international transaction fees, currency exchange fees, or fees due to banks or credit card companies). Wix is not responsible for any such additional fees or costs.
+    
+5. If you purchase Paid Services directly from Wix, then as part of registering or submitting information to receive Paid Services, you also authorize Wix (either directly or through its affiliates, subsidiaries other third parties) to request and collect payment and service fees (or otherwise charge, refund or take any other billing actions) from our payment provider or your designated banking account, and to make any inquiries Wix or its affiliates may consider necessary to validate your designated payment account or financial information, in order to ensure prompt payment, including for the purpose of receiving updated payment details from your payment, credit card or banking account provider (e.g., updated expiry date or card number as may be provided to us by your credit card company).
+    
+6. You must keep a credit card stored with Wix to pay for your Paid Services (“Stored Card”) that are purchased directly from Wix. You will be able to identify your Stored Card by its last four digits on your Account Settings Page.
+    
 
 #### #ItsThatEasy
 
-Some of our services cost money. We will let you know how much beforehand
-
-Our prices are stated in U.S. Dollars and before taxes, unless otherwise said. 
+Some of our services cost money. We will let you know how much beforehand Our prices are stated in U.S. Dollars and before taxes, unless otherwise said.
 
 If needed, we or our affiliates may request and collect payments and related information from the relevant payment providers and banks.
 
+If you are a Reseller User then payment and management of Paid Service might be conducted directly with the Reseller.
+
 ### 5.2. Invoices
 
-Wix and/or its affiliated companies will issue an invoice or credit memo for any payment of Fees or refund made to or by Wix (“Invoice”). Each Invoice will be issued in electronic form and based on the country stated in your billing address, and will be made available to you via your User Account and/or by e-mail. For the purpose of issuing the Invoice, you may be required to furnish certain Personal Information (as such term is defined in the Privacy Policy) in order to comply with local laws. Please note that the Invoice presented in your User Account may be inadequate with your local law requirements, and in such case may be used for pro forma purposes only. 
+If you are a Reseller User and you pay the Reseller and not directly to Wix, the following Section 5.2 does not apply to you.
+
+​
+
+Wix and/or its affiliated companies will issue an invoice or credit memo for any payment of Fees or refund made to or by Wix (“Invoice”). Each Invoice will be issued in electronic form and based on the country stated in your billing address and will be made available to you via your User Account and/or by e-mail. For the purpose of issuing the Invoice, you may be required to furnish certain Personal Information (as such term is defined in the Privacy Policy) in order to comply with local laws. Please note that the Invoice presented in your User Account may be inadequate with your local law requirements, and in such case may be used for pro forma purposes only. 
 
 #### #ItsThatEasy
 
-Invoices for our paid services will be available in your user account. 
+Invoices for our paid services will be available in your user account unless you’re a Reseller User. 
 
 ### 5.3. Subscription Auto-Renewals
 
-In order to ensure that you do not experience any interruption or loss of services, certain Paid Services include an automatic renewal option by default, according to which, unless you [turn-off](https://support.wix.com/en/article/turning-off-the-auto-renewal-for-a-wix-premium-plan)  the auto-renewal option, such Paid Services will automatically renew upon the end of the applicable subscription period, for a renewal period equal in time to the original subscription period (excluding extended periods) and, unless otherwise notified to you, at the same price (subject to applicable Taxes changes and excluding any discount or other promotional offer provided for the first period) (“Renewing Paid Services”). For example, if the original subscription period for a Service is one month, each of its renewal periods (where applicable) will be for one month. Accordingly, where applicable, Wix will attempt to automatically charge you the applicable Fees using the Stored Card, within up-to two (2) weeks before such renewal period commences. In the event of failure to collect the Fees owed by you, we may in our sole discretion (but shall not be obligated to) retry to collect on a later time, and/or suspend or cancel your User Account, without further notice. If your Renewing Paid Service is subject to a yearly or multiple-year subscription period, Wix will endeavor to provide you a notice prior to the renewal of such Paid Service at least thirty (30) days in advance of the renewal date.
-
-​
-
-By entering into this Agreement and by purchasing a Renewing Paid Service, you acknowledge and agree that the Renewing Paid Service shall automatically renew in accordance with the above terms.  
-
-​
-
-You may turn-off the auto-renewal option for Renewing Paid Services at any time via your User Account or by visiting [Wix Help Center](https://www.wix.com/support/html5/article/canceling-a-wix-premium-plan).
-
-Certain domains are subject to a different renewal policy as detailed in the [Domains Registration Agreement](http://www.wix.com/about/registration-agreement). Notwithstanding anything to the contrary in the foregoing, you are and shall be solely responsible to verify and ensure the successful renewal of the Wix Services you use (whether or not such Wix Services are subject to automatic subscription renewals). Accordingly, you shall be solely responsible with respect to any discontinuation of any Wix Services previously purchased by you, including due to a cancellation, failure to charge the applicable recurring Fees, or due to any Wix Services not being subject to automatic subscription renewals. You acknowledge and agree that you shall not have any claims against Wix in relation to the discontinuation of any Wix Services or Third Party Services, for whatever reason.
+1. In order to ensure that you do not experience any interruption or loss of services, certain Paid Services include an automatic renewal option by default, according to which, unless you [turn off](https://support.wix.com/en/article/turning-off-the-auto-renewal-for-a-wix-premium-plan/) the auto-renewal option is turned off by you or your Reseller, such Paid Services will automatically renew upon the end of the applicable subscription period, for a renewal period equal in time to the original subscription period (excluding extended periods) and, unless otherwise notified to you, (by Wix or your Reseller), at the same price (subject to applicable Taxes changes and excluding any discount or other promotional offer provided for the first period) (“Renewing Paid Services”). For example, if the original subscription period for a Service is one month, each of its renewal periods (where applicable) will be for one month. 
+    
+2. Accordingly, where applicable and as for Fees paid directly to Wix, Wix will attempt to automatically charge you the applicable Fees using the Stored Card, within up to two (2) weeks before such renewal period commences. In the event of failure to collect the Fees owed by you, we may in our sole discretion (but shall not be obligated to) retry to collect at a later time, and/or suspend or cancel your User Account, without further notice. If your Renewing Paid Service is subject to a yearly or multiple-year subscription period, Wix will endeavor to provide you a notice prior to the renewal of such Paid Service at least thirty (30) days in advance of the renewal date.
+    
+3. By entering into these Terms of Use and by purchasing a Renewing Paid Service, you acknowledge and agree that the Renewing Paid Service shall automatically renew in accordance with the above terms.
+    
+4. You (or the Reseller from which you purchase the Paid Services) may turn off the auto-renewal option for Renewing Paid Services at any time via your User Account or by visiting [Wix Help Center](https://www.wix.com/support/html5/article/canceling-a-wix-premium-plan/).
+    
+5. Certain domains are subject to a different renewal policy as detailed at [Web.com Reseller Domain Name Registration Agreement](https://www.wix.com/wix-platform/website-368/web/) and [Tucows Reseller Domain Name Registration Agreement](https://www.wix.com/wix-platform/website-368/tucows/), as applicable.
+    
+6. Notwithstanding anything to the contrary in the foregoing, you are, and shall be, solely responsible to verify and ensure the successful renewal of the Wix Services you use (whether or not such Wix Services are subject to automatic subscription renewals). Accordingly, you shall be solely responsible with respect to any discontinuation of any Wix Services previously purchased by you, including due to a cancellation, failure to charge the applicable recurring Fees, or due to any Wix Services not being subject to automatic subscription renewals. You acknowledge and agree that you shall not have any claims against Wix in relation to the discontinuation of any Wix Services or Third Party Services, for whatever reason.
+    
 
 #### #ItsThatEasy
 
-To make sure you don’t lose your domain or experience
-
-interruptions with your website at the end of your subscription period, we’ll automatically renew our service and bill you accordingly, in regular intervals as your initial subscription, unless you turn-off auto-renewal.
+To make sure you don’t lose your domain or experience interruptions with your website at the end of your subscription period, we’ll automatically renew our service and bill you accordingly, in regular intervals as your initial subscription, unless you (or the Reseller you purchased the Paid Services from) turn-off auto-renewal.
 
 Some services whether on purpose or mistake may not automatically renew. You should make sure that your subscriptions are renewed in time.
 
 ### 5.4. Money-Back Guarantee
 
-If you are not satisfied with Wix Services that are subject to a Fee for a period of service or subscription commitment and which is your initial purchase of such service, you may provide notice of cancellation for any reason within fourteen (14) days of having first ordered or activated such Wix Services (the “Refund” and “Refund Period”). The Refund is applicable only to the initial purchase of Wix services which is an upgrading of a free website by purchasing a Premium Plan (as offered on the Wix Website). The Refund is not applicable to any additional purchases, upgrades, modification or renewals of Wix Services. If you reside in a jurisdiction which requires a longer Refund Period, we will of course be happy to accommodate such requirements in accordance with all applicable laws. If Wix receives such notice within such Refund Period, Wix will refund to you the amount Wix charged you for such Wix Services, in currency you were originally charged in, and cancel them accordingly. Please note that the Refund amount may be different than the amount you were charged due to currency changes and third party fees. Wix will not be responsible for any differences caused by change of currency exchange rates or fees you were charged by third parties. After the Refund Period, the Fees paid by you are non-refundable and non-cancellable. In addition, if we find that a notice of cancellation has been given in bad faith or in an illegitimate attempt to avoid payment for services actually received and enjoyed, we reserve our right to still charge the User who provided such notice for any Wix Services actually received, as permitted by law.
+If you are a Reseller User, and you pay the Reseller and not directly to Wix,  Section 5.4 does not apply to you.
 
-Please note: Certain services purchased on or through the Wix Services may be non-refundable. These include Third Party Services such as domains, business tools and applications. The terms of each purchased service or application are indicated on the Wix Website and/or as part of or during the process of purchasing such services or applications. It is your obligation to verify your ability to cancel a service prior to purchasing it. Wix will not refund any amounts paid for non-refundable Paid Services, applications or Third Party Services. 
+​
+
+1. If you are not happy with your initial purchase of a Premium Plan, you may provide notice of cancellation for any reason within fourteen (14) days of having first ordered or activated such Premium Plan (the “Refund” and “Refund Period”). The Refund is applicable only to the initial purchase of a Premium Plan which is an upgrade of a free website. The Refund is not applicable to any additional purchases, upgrades, modifications or renewals of Wix Services. If you reside in a jurisdiction that requires a longer Refund Period, we will accommodate such requirements in accordance with all applicable laws. If Wix receives such notice within the Refund Period, Wix will refund to you the amount Wix charged you for such Wix Services, in the currency you were originally charged in, and cancel the services accordingly. Please note that the Refund amount may be different than the amount you were charged due to currency changes and third-party fees. Wix will not be responsible for any differences caused by a change of currency exchange rates or fees you were charged by third parties. After the Refund Period, the Fees paid by you will be non-refundable and non-cancellable. In addition, if we find that a notice of cancellation has been given by a User in bad faith or in an illegitimate attempt to avoid payment for services actually received, we reserve our right to still charge the User for any Wix Services actually received, as permitted by the applicable law.
+    
+2. Please note: Certain services purchased on or through the Wix Services may be non-refundable altogether. These include Third Party Services such as domains, business tools and applications. The terms of each purchased service or application are indicated on the Wix Website and/or as part of or during the process of purchasing such services or applications. It is your responsibility to verify the ability to cancel a service prior to its purchase. Wix will not refund any amounts paid for non-refundable Paid Services, applications or Third Party Services.
+    
 
 #### #ItsThatEasy
 
-We are happy to offer a 14-day money-back guarantee for our monthly or annual paid services when first purchased. This may be extended according to the law.   
+We are happy to offer a 14-day money-back guarantee for our monthly or annual paid services when first purchased. This may be extended according to the law. If you are a Reseller User and pay the Reseller, this Section does not apply to you.  
   
 Please carefully check the terms of each service before buying, since some services are non-refundable.
 
 ### 5.5. Chargebacks
 
-If, at any time, we record a decline, chargeback or other rejection of a charge of any payable Fees on your Wix account (“Chargeback”), this will be considered as a breach of your payment obligations hereunder, and your use of the Wix Services may be automatically disabled or terminated. 
+If at any time, we record a decline, chargeback or other rejection of a charge of any payable Fees due directly to Wix, on your Wix account (“Chargeback”), this will be considered as a breach of your payment obligations hereunder, and your use of the Wix Services may be automatically disabled or terminated. 
 
-In the event a Chargeback is performed, your User Account may be blocked without the option to re-purchase or re-use it, and any data contained in such User Account, including any domains, applications and Third Party Services may be subject to cancellation and Capacity Loss (as defined in Section 6.3 below). 
+​
 
-Your use of the Wix Services will not resume until you re-subscribe for any such Wix Services, and pay any applicable Fees in full, including any fees and expenses incurred by Wix and/or any Third Party Services for each Chargeback received (including Fees for Wix Services provided prior to the Chargeback, handling and processing charges and fees incurred by the payment processor).
+In the event a Chargeback is performed, your User Account may be blocked without the option to re-purchase or re-use it, and any data contained in such User Account, including any domains, applications and Third Party Services may be subject to cancellation and Capacity Loss (as defined in Section 6.3 below). 
 
-If you have any questions or concerns regarding a payment made to Wix, we encourage you to first contact our Customer Support team before filing a Chargeback or reversal of payment, in order to prevent the Wix Services from being cancelled and your User Account being blocked, and to avoid the filing of an unwarranted or erroneous Chargeback, which may result in your being liable for its applicable Fees, in addition to re-payment of all the Fees applicable to the Wix Services purchased (and charged-back) by you.
+Your use of the Wix Services will not resume until you re-subscribe for any such Wix Services, and pay any applicable Fees in full, including any fees and expenses incurred by Wix and/or any Third Party Services for each Chargeback received (including Fees for Wix Services provided prior to the Chargeback, handling and processing charges and fees incurred by the payment processor).
 
-We reserve our right to dispute any Chargeback received, including by providing the relevant credit card company or financial institution with any information and documentation proving that the User responsible for such Chargeback did in fact authorize the transaction and make use of the services rendered thereafter.
+If you have any questions or concerns regarding a payment made by you to Wix, we encourage you to first contact our Customer Support team before filing a Chargeback or reversal of payment, in order to prevent the Wix Services from being canceled and your User Account being blocked, and to avoid the filing of an unwarranted or erroneous Chargeback, which may result in your being liable for its applicable Fees, in addition to re-payment of all the Fees applicable to the Wix Services purchased (and charged-back) by you.
+
+We reserve our right to dispute any Chargeback received, including by providing the relevant credit card company or financial institution with any information and documentation proving that the User responsible for such Chargeback did in fact authorize the transaction and received or made use of the services rendered thereafter.
 
 #### #ItsThatEasy
 
-Chargebacks may bring us to cancel your account, so we urge you to avoid causing them.
-
-Please contact our Customer Support team before filing a chargeback. You will be responsible for any incorrect fees, losses and expenses that follow.
+Chargebacks may bring us to cancel your account, so we urge you to avoid causing them. Please contact our Customer Support team before filing a chargeback. You will be responsible for any incorrect fees, losses and expenses that follow.
 
 6\. Cancellation
 ----------------
 
 ### 6.1. Cancellation by User
 
-You may discontinue to use and request to cancel your User Account and/or any Wix Services at any time, in accordance with the instructions available on the Wix Services. The effective date and time for such cancellation shall be the date and time on which you have completed the cancellation process on the Wix Services, and the effective date for cancellation of Paid Services shall be at the end of such Paid Services’ subscription period.
+You may discontinue to use and request to cancel your User Account and/or any Wix Services at any time, in accordance with the instructions available on the Wix Services. The effective date and time for such cancellation shall be the date and time on which you have completed the cancellation process on the Wix Services, and the effective date for cancellation of Paid Services shall be at the end of such Paid Services’ subscription period. Notwithstanding the aforesaid, any Paid Service (including Renewing Paid Services) purchased from a Reseller are subject to such cancellation terms as agreed between you and your Reseller.
 
-Notwithstanding anything to the contrary in the foregoing, with respect to subscriptions to Renewing Paid Services, such subscription will be discontinued only upon the expiration of the respective period for which you have already made payment. Please note that as the cancellation process may take a few days, in order to avoid the next automatic renewal and respective charge the cancellation request should be made at least fourteen (14) days prior to the expiration of the then-current service period.
+Notwithstanding anything to the contrary in the foregoing, with respect to subscriptions to Renewing Paid Services, such subscriptions will be discontinued only upon the expiration of the respective period for which you have already made payment. Please note that as the cancellation process may take a few days, in order to avoid the next automatic renewal and respective charge, the cancellation request should be made - if purchased directly from Wix,  at least fourteen (14) days prior to the expiration of the then-current service period, and if purchased and paid for to, a Reseller  - pursuant to the provisions of your agreement with the Reseller.
 
 ​
 
-For more information about cancelling your Paid Services, please visit [Wix Help Center](https://www.wix.com/support/html5/article/canceling-a-wix-premium-plan).
+​For more information about canceling the Paid Services you purchased from Wix, please visit [Wix Help Center](https://www.wix.com/support/html5/article/canceling-a-wix-premium-plan/).
+
+For information about canceling Paid Services you purchased from a Reseller, please contact your Reseller.
 
 #### #ItsThatEasy
 
-You may cancel your account or any services at any time. Once we process your cancellation request, we will not charge you for any additional subscription renewals.
+You may cancel your account or any services at any time. Once we process your cancellation request, we will not charge you for any additional subscription renewals. Cancellation of Paid Service purchased from a Reseller are subject to terms agreed between you and your Reseller.
 
 ### 6.2. Cancellation by Wix
 
-Failure to comply with any of the Wix Terms and/or to pay any due Fee shall entitle Wix to suspend (until full payment is made) or cancel your User Account and User Platform (or certain features thereof), as well as the provision of any related Wix Services (e.g., Paid Services) or Third Party Services to you. 
+Failure to comply with any of the Wix Terms and/or to pay any due Fee shall entitle Wix, among other things, to suspend (until full payment is made) or cancel your User Account and User Platform (or certain features thereof), as well as the provision of any related Wix Services (e.g., Paid Services) or Third Party Services to you. 
+
+​
+
+If you open a User Account via a Reseller or purchase Paid Services from a Reseller, then Wix is entitled to suspend, terminate or block access to your User Account and User Platform (or certain features thereof) as well as to the provisioning of any related Wix Services or Third Party Services to you, also if: (a) Wix is requested to do so by your Reseller; or if (b) Reseller fails to pay Wix any amounts due to Wix pursuant to the Reseller Agreement. You consent to these suspension and termination rights and acknowledge and agree that Wix shall have no liability to you of any kind with respect to any such suspension or termination. Your sole recourse with respect to any such suspension or termination shall be against the Reseller.
 
 #### #ItsThatEasy
 
-If you violate any of these terms or fail to make timely payments, we may suspend or cancel your account.
+If you violate any of these terms or fail to make timely payments, or if you are a Reseller User and we’re requested so by the Reseller or if the Reseller fails to pay us,  we may suspend or cancel your account.
 
 ### 6.3. Loss of Data, Content and Capacity
 
-If your User Account or any Wix Services or Third Party Services related to your User Account are cancelled (whether at your request or at Wix’s discretion), it may cause or result in the loss of certain content, features, or capacity of your User Account, including any User Content, End User data or other usage data retained therein, and including any domain name reservation or registration that was included in such Services (“Capacity Loss”). Wix shall not be liable in any way for such Capacity Loss, or for saving a backup of your User Account, User Content or End User data. Please also note that additional Fees may apply to re-activation of a User Account and/or any Wix Services following their cancellation, as determined by Wix in its sole discretion.
+If your User Account or any Wix Services or Third Party Services related to your User Account are canceled (whether at your request or at Wix’s discretion), it may cause or result in the loss of certain content, features, or capacity of your User Account, including any User Content, End User data or other usage data retained therein, and including any domain name reservation or registration that was included in such Services (“Capacity Loss”). Wix shall not be liable in any way for such Capacity Loss, or for saving a backup of your User Account, User Content or End User data. Please also note that additional Fees may apply to re-activation of a User Account and/or any Wix Services following their cancellation, as determined by Wix in its sole discretion.
+
+​
+
+​Following the termination of your User Account or User Platform, Wix reserves the right to delete all data in the normal course of operation. Data cannot be recovered once your User Account or User Platform is terminated.
 
 #### #ItsThatEasy
 
-If your account or any of your services are cancelled, it may result in loss of content and data. You are responsible to back up your data and materials.
+Your account or any of your services are cancelled, it may result in loss of content and data which cannot be recovered. You are responsible to back up your data and materials. 
 
 7\. E-Commerce 
 ---------------
 
 ### 7.1. General
 
-The Wix Services also include certain features which enable you to sell goods, content, media, event tickets and services through your User Platform (“User Products”, and collectively – “E-Commerce”).
+The Wix Services also include certain features which enable you to sell goods, content, media, event tickets and services through your User Platform (“User Products”, and collectively with Wix Services – “E-Commerce”).
 
 You are solely responsible for your User Products and E-Commerce related activities, and any promotions and related Content contained or referred to in your User Platform, and compliance with any laws applicable thereto. We are merely providing the platform for you to manage your online E-Commerce activities. We are not involved in your relationship and/or any transaction with any actual or potential buyer of your User Products.
 
 ​
 
-When someone purchases your User Products, the payments for such transactions will be processed through Wix Payments or through a third-party payment service provider (“Payment Provider(s)”).
+When someone purchases your User Products, the payments for such transactions will be processed through Wix Payments or through a third-party payment service provider (“Payment Provider(s)”).
 
 #### #ItsThatEasy
 
@@ -395,7 +488,13 @@ You are responsible for all your sales activities, including your relationships 
 
 ### 7.2. Payment Providers
 
-Depending on your location, upon purchasing certain Premium Plans (as offered on the Wix Website), Wix may automatically  connect a Wix Payments account on your name to allow you to accept payments from your customers. Any payout from such account is subject to your completion of the Wix Payments registration process. Such Wix Payments account shall be governed by the Wix Payments Terms of Use, which are hereby incorporated by reference. Please read these terms of use prior to publishing your site and accepting payments. Any account connected to other Payment Providers shall be governed by such Payment Provider’s terms of service. We are neither a party to nor are responsible in any way for your relationship with any such Payment Providers, or for the actions of any of these Payment Providers. You acknowledge and agree that Wix Payments (if available in your country) will be your default payment provider. If you do not wish to keep either Wix Payments or any other Payment Provider active, it is your responsibility to deactivate them.
+You acknowledge and agree that Wix Payments (if available in your country) will be your default payment provider.
+
+The Wix Payments account shall be governed by the [Wix Payments Terms of Service](https://support.wix.com/en/article/wix-payments-terms-of-service), which are hereby incorporated by reference. Please read these terms of use service prior to publishing your site and accepting payments.
+
+In addition, subject to territorial restrictions, you may accept payments with Apple Pay. By using Apple Pay, you accept and agree to the Apple Pay Platform Web Merchant Terms and Conditions.
+
+The processing of payments by other Payment Providers shall be governed by such Payment Provider’s terms of service. We are neither a party to nor are responsible in any way for your relationship with any such Payment Providers, or for the actions of any of these Payment Providers.
 
 #### #ItsThatEasy
 
@@ -409,40 +508,29 @@ Depending on your plan, Wix may charge you service fees for event tickets sold t
 
 By using any of our E-Commerce features, you acknowledge, warrant and agree that:
 
-1. You shall be solely and fully responsible for all Taxes and fees of any nature associated with your E-Commerce activities, including any Taxes related to the purchase or sale of the User Products, and to collect, report and remit the correct amounts to the appropriate authorities and/or inform your End Users of such and provide them with a duly issued invoice as required by law; 
+1. you are solely and fully responsible for all Taxes and fees of any nature associated with your E-Commerce activities, including any Taxes related to the purchase or sale of the User Products, and to collect, report and remit the correct amounts to the appropriate authorities and/or inform your End Users of such and provide them with a duly issued invoice as required by law; 
     
-2. Any Taxes indicated by the E-Commerce features provided to you by Wix are solely provided for illustration purposes only, and may not be relied on in any way;
+2. any Taxes indicated by the E-Commerce features provided to you by Wix are solely provided for illustration purposes only, and may not be relied on in any way;
     
-3. You shall be responsible for and bear all costs of procuring and delivering your User Products, and for providing them in a safe and professional manner, consistent with industry standards;
+3. you are responsible for and bear all costs of procuring and delivering your User Products, and for providing them in a safe and professional manner, consistent with industry standards;
     
-4. You are solely responsible for any and all statements and promises you make and for all assistance, warranty and support regarding the User Products, and shall provide true contact information on your User Platform for any questions, complaints or claims; and
+4. you are solely responsible for any and all statements and promises you make and for all assistance, warranty and support regarding the User Products, and shall provide true contact information on your User Platform for any questions, complaints or claims; and
     
-5. You may not offer or sell any User Products, or provide any information, Content or material regarding User Products, which may be deemed hazardous, counterfeit, stolen, fraudulent, offensive or abusive; which are prohibited for sale, distribution or use; or which otherwise fail to comply with any applicable laws, including with respect to consumer rights, intellectual property or privacy rights, product safety, trade regulations and sanctions, support, maintenance and export; and –
+5. you may not offer or sell any User Products, or provide any information, Content or material regarding User Products, which may be deemed hazardous, counterfeit, stolen, fraudulent, offensive or abusive; which are prohibited for sale, distribution or use; or which otherwise fail to comply with any applicable laws, including with respect to consumer rights, intellectual property or privacy rights, product safety, trade regulations and sanctions, support, maintenance and export; and –
     
 6. Wix may, at any time and at its sole discretion, suspend, disable access to or remove your User Platform and/or any User Products - whether or not incorporated, published with or made a part of your User Platform at such time, without any liability to you or to any End Users, including for any Capacity Loss resulted therefrom.
     
-
-### 7.5. Apple Pay
-
-Subject to territorial restrictions, you may accept payments with Apple Pay.  
-By using Apple Pay, you accept and agree to the [Apple Pay Platform Web Merchant  
-Terms and Conditions](https://www.wix.com/about/apple-terms-of-use), as they may be amended by Apple from time to time. We may  
-activate your Apple Pay account on your behalf, otherwise you will be required to  
-activate your Apple Pay account through your User Account dashboard. If you do not  
-wish to keep your Apple Pay account active, it is your responsibility to deactivate it. For  
-the avoidance of doubt, Apple Pay is a Third Party Service, as defined in Section 9  
-below.
 
 8\. Video Services
 ------------------
 
 As part of the Wix Services, Wix may provide video services (such as Wix Video or Wix Pro Gallery) for managing videos on User Platforms (the "Video Services").  
 
-The use of the video services for your User Platform, may require that you receive a license to use certain patents from [MPEG–LA](http://www.mpegla.com/main/default.aspx) (the "License"). It is your own exclusive responsibility to decide whether your activity requires a License and to obtain it. Information about the License can be obtained from MPEG LA L.L.C. [here](http://www.mpegla.com/main/default.aspx).
+The use of the video services for your User Platform, may require that you receive a license to use certain patents from [MPEG–LA](http://www.mpegla.com/) (the "License"). It is your own exclusive responsibility to decide whether your activity requires a License and to obtain it. Information about the License can be obtained from [MPEG LA L.L.C](http://www.mpegla.com/).
 
 ​
 
-In addition to the aforesaid in Section 13 of these Terms of Use and without any limitation of liability, you shall fully indemnify, defend and hold Wix its officers, directors, shareholders, employees, affiliates and agents, harmless from any and all damages and costs, obligations, losses, liabilities debt and expenses (including attorneys’ fees), as accrued, that arise out of or are related to infringement and/or misuse of the patent pool under the MPEG-LA consortium.
+In addition to the aforesaid and in Section 13 of these Terms of Use and without any limitation of liability, you shall fully indemnify, defend and hold Wix its officers, directors, shareholders, employees, affiliates and agents, harmless from any and all damages and costs, obligations, losses, liabilities debt and expenses (including attorneys’ fees), as accrued, that arise out of or are related to infringement and/or misuse of the patent pool under the MPEG-LA consortium.
 
 ​
 
@@ -457,19 +545,19 @@ You may need to obtain a license for certain online video activities. It is your
 9\. Third Party Services
 ------------------------
 
-The Wix Services enable you to engage and procure certain third party services, products and tools for enhancing your User Platform and your overall user experience, including, without limitation, domain registrars from which you may purchase a domain name for your User Website, third party applications and widgets offered via the Wix Website (including the Wix App Market), third party Licensed Content, media distribution services, E-Commerce Payment Providers, sellers of tangible products, third party designers who may assist you with your User Platform, etc. (collectively, “Third Party Services”).
+The Wix Services enable you to engage, connect, further develop and procure certain third-party services, products and tools for enhancing your User Platform and your overall user experience, including, without limitation, domain registrars from which you may purchase a domain name for your User Website, third party applications and widgets offered via the Wix Website (including the Wix App Market), third party Licensed Content, media distribution services, E-Commerce Payment Providers, sellers of tangible products, third party designers who may assist you with your User Platform, external databases, code packages, etc. (collectively, “Third-party Services”).
 
-You acknowledge and agree that regardless of the manner in which such Third Party Services may be offered to you (bundled or integrated within certain Wix Services, offered separately by Wix or persons certified or authorized by Wix, or otherwise offered anywhere on the Wix Services), Wix merely acts as an intermediary platform between you and such Third Party Services, and does not in any way endorse any such Third Party Services, or shall be in any way responsible or liable with respect thereto. Wix will not be a party to, or in any way be responsible for monitoring, any interaction or transaction between you and any Third party Services.
+You acknowledge and agree that regardless of the manner in which such Third Party Services may be offered to you (bundled or integrated within certain Wix Services, offered separately by Wix or persons certified or authorized by Wix, connected independently by you or otherwise offered anywhere on the Wix Services), Wix merely acts as an intermediary platform between you and such Third Party Services, and does not in any way endorse any such Third Party Services, or shall be in any way responsible or liable with respect thereto. Wix will not be a party to, or in any way be responsible for monitoring, any interaction or transaction between you and any Third-party Services.
 
 ​
 
 You acknowledge that such services may require the payment of additional amounts to Wix and/or to the providers of such Third-Party Services.
 
-Any and all use of such Third Party Services shall be done solely at your own risk and responsibility, and may be subject to such legal and financial terms which govern such Third Party Services, which you are encouraged to review before engaging with them.
+Any and all use of such Third-party Services shall be done solely at your own risk and responsibility and may be subject to such legal and financial terms which govern such Third Party Services, which you are encouraged to review before engaging with them.
 
 ​
 
-If you use third parties' services, software or goods while using our Services, you declare that you act in compliance with their terms of use. For example, if you use YouTube while using the Services, you must comply with the applicable [YouTube](https://www.youtube.com/t/terms) terms and its  [privacy policy](https://www.google.com/intl/en/policies/privacy/) as in the effective version as of the date of use of such services.
+If you use third-party services, tools, code, algorithms, databases, products, software or goods while using our Services, you declare that you act in compliance with their terms of use. For example, if you use YouTube while using the Services, you must comply with the applicable [YouTube](https://www.youtube.com/t/terms/) terms and its [privacy policy](https://www.google.com/intl/en/policies/privacy/) as in the effective version as of the date of use of such services.
 
 ​
 
@@ -486,7 +574,7 @@ We can remove services at any time, which may affect your website, user account 
 10\. Wix Logo Maker
 -------------------
 
-As part of the Wix Services, we enable you to enhance your brand by creating your own customized business logo (the “Wix Logo”) using our Wix Logo Maker. The additional terms available at [](https://www.wix.com/about/logo-terms-of-use)[https://www.wix.com/about/logo-terms-of-use](https://www.wix.com/about/logo-terms-of-use) apply to your use of Wix Logo Maker, and are in addition to, and not in replacement of, the Wix Terms, unless explicitly stated otherwise.
+As part of the Wix Services, we enable you to enhance your brand by creating your own customized business logo (the “Wix Logo”) using our Wix Logo Maker. The additional terms available at: [https://www.wix.com/about/logo-terms-of-use](https://www.wix.com/about/logo-terms-of-use/) apply to your use of Wix Logo Maker, and are in addition to, and not in replacement of, the Wix Terms unless explicitly stated otherwise.
 
 ### #ItsThatEasy
 
@@ -497,9 +585,9 @@ Make sure to read the additional terms regarding the Wix Logo Maker which are in
 
 ### 11.1. Misconduct and Abuse
 
-When using the Wix Services, you may be exposed to User Platforms, User Content or Third Party Services from a variety of sources, which may be inaccurate, offensive, objectionable or illegal. You hereby waive any legal or equitable rights or remedies you have or may have against Wix with respect thereto.
+When using Wix Services, you may be exposed to User Platforms, User Content or Third Party Services from a variety of sources, which may be inaccurate, offensive, objectionable or illegal. You hereby waive any legal or equitable rights or remedies you have or may have against Wix with respect thereto.
 
-If you believe a User or any Third Party Services acted inappropriately or otherwise misused any of the Wix Services, please immediately report such User and/or Third Party Service to us via [this form](http://www.wix.com/upgrade/abuse)[.](http://www.wix.com/upgrade/abuse) You agree that your report shall not impose any responsibility or liability upon Wix, and that Wix may consider such report and act upon it, refrain from taking any such action or require additional information or documents before doing so, at its sole discretion.
+If you believe a User or any Third Party Services acted inappropriately or otherwise misused any of the Wix Services, please immediately report such User and/or Third Party Service to us via [this form.](https://www.wix.com/about/abuse/) You agree that your report shall not impose any responsibility or liability upon Wix, and that Wix may consider such report and act upon it, refrain from taking any such action or require additional information or documents before doing so, at its sole discretion.
 
 #### #ItsThatEasy
 
@@ -519,7 +607,7 @@ Attn: Copyright Agent
 
 Telephone Number: 1-415-358-0857 | Fax: 1-415-358-0884
 
-Click [here](https://www.wix.com/support-chatbot?nodeId=om98g6kPvnc8SE5FUBqC&referral=termsOfUseCopyright) to contact us
+E-mail: [abuse@wix.com](mailto:abuse@wix.com)
 
 In the event that Wix receives notice regarding a copyright infringement related to your User Platform or User Website, it may cancel your User Account, take your User Platform down or remove any Content in its sole discretion, with or without prior notice to you. In such case, you may file a proper counter-notice in accordance with Section 512 of the DMCA, in which you must include: (1) your full name, address, phone number and physical or electronic signature; (2) identification of the material and its location before removal; (3) a statement under penalty of perjury that the material was removed by mistake or misidentification; (4) your consent to an appropriate judicial body; and (5) any other information required under the relevant provisions of the DMCA. Any notices filed pursuant to this Section 9 may be deemed accepted, applicable and compliant with the DMCA, or not, at Wix’s sole reasonable discretion. Wix reserves the right to notify the person or entity providing the infringement notice of such counter-notice and provide any details included therein.
 
@@ -544,7 +632,7 @@ You acknowledge that there are risks in using the Wix Services and/or connecting
 
 Wix does not recommend the use of the Wix Services for hosting of personal content and shall not bear any security or integrity obligations or risks regarding breach or damage to any such content.
 
-Please note that certain Wix Services are currently offered in their BETA version, and undergoing BETA testing. You understand and agree that certain Wix Services may still contain software bugs, suffer disruptions and not operate as intended or designated. Your use of the Wix Services at this BETA stage signifies your agreement to participate in such Wix Services’ BETA testing.
+Please note that certain Wix Services are currently offered in their BETA version, and undergoing BETA testing. In addition to the aforesaid, you understand and agree that certain Wix Services may still contain software bugs, suffer disruptions and not operate as intended or designated. Your use of the Wix Services at this BETA stage signifies your agreement to the above and to participate in such Wix Services’ BETA testing.
 
 ### #ItsThatEasy
 
@@ -588,15 +676,23 @@ If we get sued or are otherwise placed in harm’s way because of something you 
 
 Wix reserves the right to change, suspend or terminate any of the Wix Services (or any features thereof, or prices applicable thereto), and/or cancel your access to any of the Wix Services (including removal of any materials created by you in connection with the Wix Services) for any reason and/or change any of the Wix Terms with or without prior notice - at any time and in any manner.
 
-You agree that Wix will not be liable to you or to any third party for any modification, suspension or discontinuance of those Wix Services.
+​
 
-If any such changes involve the payment of additional Fees, we will provide you with a notice of such Fees prior to enabling such specific changes. If you fail or refuse to pay such Fees, we may (at our sole discretion) cancel your User Account (as further explained in Section 6 above), continue to support your then-current Wix Services without enabling such changes, or provide you with alternative Services.
+You agree that Wix will not be liable to you or to any third party for any modification, suspension or discontinuance of those Wix Services (or materials, content or services created, developed or connected by you in connection with the Wix Services).
+
+​
+
+If any such changes involve the payment of additional or higher Fees, we will provide you with a notice regarding such additional or higher Fees prior to enabling such specific changes. If you fail or refuse to pay such additional or higher Fees, we may (at our sole discretion) cancel your User Account (as further explained in Section 6 above), continue to support your then-current Wix Services without enabling such changes, or provide you with alternative Services.
 
 #### #ItsThatEasy
 
 We may make changes to our services or to these terms at any time.
 
 ### 15.2. Governing Law & Jurisdiction; Class Action Waiver
+
+You expressly acknowledge and agree that Wix shall have the right to enforce these Terms of Use against you.
+
+​
 
 The Wix Terms, the rights and remedies provided hereunder, and any and all claims and disputes related hereto and/or to the Wix Services, their interpretation, or the breach, termination or validity thereof, the relationships which result from or pursuant to the Wix Terms, or any related transaction or purchase, shall be governed by, construed under and enforced in all respects solely and exclusively in accordance with the internal substantive laws of the State of Israel, without respect to its conflict of laws principles.
 
@@ -608,7 +704,7 @@ Subject to any applicable law, all disputes between you and Wix shall only be re
 
 ​
 
-Notwithstanding anything to the contrary in this Section 15.2, if you are located in the United States of America, (i) the legal jurisdiction governing all aspects of the payment transaction contemplated by Section 5 between you and Wix will be the State of New York, without respect to its conflict of laws principles, and (ii) any and all claims and disputes related to such payment transaction contemplated by Section 5 shall be brought in, and you hereby consent to them being decided exclusively by, a court of competent jurisdiction located in New York, New York.
+Notwithstanding anything to the contrary in this Section 15.2, if you are located in the United States of America, (i) the legal jurisdiction governing all aspects of the payment transaction contemplated by Section 5 between you and Wix will be the State of New York, without respect to its conflict of laws principles, and (ii) any and all claims and disputes related to such payment transaction contemplated by Section 5 shall be brought in, and you hereby consent to them being decided exclusively by, a court of competent jurisdiction located in New York, New York.
 
 #### #ItsThatEasy
 
@@ -616,7 +712,7 @@ These terms and our relationship shall be governed by the laws of the State of I
 
 ### 15.3. Notices
 
-We may provide you with notices in any of the following methods: (1) via the Wix Services, including by a banner or pop-up within the Wix Website, User Account or elsewhere; (2) by e-mail, sent to the e-mail address you provided us; and/or (3) through any other means, including any phone number or physical address you provided us. Wix’s notice to you will be deemed received and effective within twenty four (24) hours after it was published or sent through any of the foregoing methods, unless otherwise indicated in the notice.
+We may provide you with notices in any of the following methods: (1) via the Wix Services, including by a banner or pop-up within the Wix Website, User Account, or elsewhere; (2) by an e-mail, sent to the e-mail address you provided us; (3) if you are a Reseller User then via your Reseller; and/or (4) through any other means, including any phone number or physical address you provided us. Wix’s notice to you or to your Reseller will be deemed received and effective within twenty-four (24) hours after it was published or sent through any of the foregoing methods unless otherwise indicated in the notice.
 
 ### 15.4. Relationship
 
@@ -624,11 +720,11 @@ The Wix Terms, and your use of the Wix Services, do not, and shall not be constr
 
 #### #ItsThatEasy
 
-We may provide you with notices via our services, by e-mail or through any other contact means you provided us.
+We may provide you (or your Reseller, if you are a Reseller User) with notices via our services, by e-mail or through any other contact means you provided us.
 
 #### #ItsThatEasy
 
-Accepting these terms and services does not form a partnership or any special relationship between us
+Accepting these terms and services does not form a partnership or any special relationship between us.
 
 ### 15.5. Entire Agreement
 
@@ -636,15 +732,20 @@ These Terms of Use, together with the Wix Terms and any other legal or fee notic
 
 #### #ItsThatEasy
 
-These terms (together with additional terms) shall constitute the sole and entire agreement between us
+These terms (together with additional terms) shall constitute the sole and entire agreement between us.
 
 ### 15.6. Assignment
 
-Wix may assign its rights and/or obligations hereunder and/or transfer ownership rights and title in the Wix Services and/or Licensed Content to a third party without your consent or prior notice to you. You may not assign or transfer any of your rights and obligations hereunder without the prior written consent of Wix. Any attempted or actual assignment thereof without Wix’s prior explicit and written consent will be null and void. In any event, an assignment or transfer pursuant to this Section ‎15.6 shall not in itself grant either Wix or you the right to cancel any Wix Services or Third Party Services then in effect.
+1. Wix may assign its rights and/or obligations hereunder and/or transfer ownership rights and title in the Wix Services and/or Licensed Content to a third party without your consent or prior notice to you. You may not assign or transfer any of your rights and obligations hereunder without the prior written consent of Wix. Any attempted or actual assignment thereof without Wix’s prior explicit and written consent will be null and void. In any event, an assignment or transfer pursuant to this Section ‎15.6 shall not in itself grant either Wix or you the right to cancel any Wix Services or Third Party Services then in effect
+    
+2. If you are a Reseller User, then your subscription with the Reseller with respect to your User Account or User Platform (or any part thereof) may be assigned to Wix. You agree that if your subscription (or any part thereof) to a Wix User Account or User Platform with the Reseller is assigned to Wix, your continued rights to access and use your User Account and User Platform will be subject to these Terms of Use, in their entirety (as may be amended from time to time) and you consent to the full application of these Terms of Use, including without limitation, the billing and payment provisions contained herein. You agree that following any such assignment, you shall, upon request by Wix, provide such information as is required to secure payment for any Paid Services commencing after such assignment.
+    
 
 #### #ItsThatEasy
 
-We may assign our rights and obligations to other parties. You may only do so with our prior written consent
+We may assign our rights and obligations to other parties. You may only do so with our prior written consent.  
+  
+If you are a Reseller User your User Account may be assigned to Wix. In such a case, if you’d like to continue to use your User Account - you agree to be bound by Wix Terms of Use and to provide Wix with any required information to secure payment for any Paid Services you purchase. 
 
 ### 15.7. Severability & Waivers
 
@@ -670,7 +771,7 @@ Translated (non-English) versions of these terms are provided for convenience on
 
 To get in touch with our Customer Service - please use any of the options listed below:
 
-1. Go to Wix Help Center which is available at: [https://support.wix.com/en/article/contacting-wix-support](https://support.wix.com/en/article/contacting-wix-support)
+1. Go to Wix Help Center which is available at: [https://support.wix.com/en/article/contacting-wix-support](https://support.wix.com/en/article/contacting-wix-support/)
     
 2. Send an email message to: [support@wix.com](mailto:support@wix.com)
     
