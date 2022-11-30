@@ -121,7 +121,6 @@ Consumer
 * [### Google Cardboard](https://support.google.com/cardboard/?hl=en-GB)
 * [### Google Duo](https://support.google.com/duo/?hl=en-GB)
 * [### Datally](https://support.google.com/datally/?hl=en-GB)
-* [### YouTube Go](https://support.google.com/youtubego/?hl=en-GB)
 * [### Google Nest](https://support.google.com/googlenest/?hl=en-GB)
 * [### YouTube TV](https://support.google.com/youtubetv/?hl=en-GB)
 * [### Google Clips](https://support.google.com/googleclips/?hl=en-GB)
