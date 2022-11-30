@@ -1,22 +1,22 @@
-Revcontent Privacy Policy
+RevContent Privacy Policy
 =========================
 
-Revcontent Privacy Policy A detailed overview of Revcontent's policies on user data collection Support
+RevContent Privacy Policy A detailed overview of RevContent's policies on user data collection Support
 
-### If you do not want Revcontent to use the information it collects for purposes of showing ads that are targeted to your interests, you may opt out by clicking the below “Opt-Out” button If you use multiple devices and/or multiple browsers, you must opt out on each device/browser (even if you login to Revcontent using social media credentials). You also must opt out again if you clear your cookies, opt out again.
+### If you do not want RevContent to use the information it collects for purposes of showing ads that are targeted to your interests, you may opt out by clicking the below “Opt-Out” button If you use multiple devices and/or multiple browsers, you must opt out on each device/browser (even if you login to RevContent using social media credentials). You also must opt out again if you clear your cookies, opt out again.
 
 [![Opt Out](https://no-cache.hubspot.com/cta/default/7701806/5306afdf-6769-4bd9-87ab-280b36dd7363.png)](https://cta-redirect.hubspot.com/cta/redirect/7701806/5306afdf-6769-4bd9-87ab-280b36dd7363)
 
 If you have opted out, a new page will open and you should see a message indicating that your opt out was successful.
 
-### **Please note that even after you have opted out, you will still see Revcontent recommendations and promoted content, but these recommendations and promoted content will not be personalized based on the sites you visit.**
+### **Please note that even after you have opted out, you will still see RevContent recommendations and promoted content, but these recommendations and promoted content will not be personalized based on the sites you visit.**
 
   
 **REVCONTENT PRIVACY POLICY**
 
 Last Updated & Effective Date: January 10, 2022  
   
-This Privacy Policy explains how information about you is collected, used and disclosed by Revcontent, LLC (“Revcontent”). Revcontent operates a network platform through which web properties can display certain third party content such as articles, videos, blog posts, and advertisements on their sites (the “Services”).  This Privacy Policy describes how Revcontent collects, uses, and discloses information when you visit this website (“the Site”) and websites and mobile applications that integrate the Services.
+This Privacy Policy explains how information about you is collected, used and disclosed by RevContent, LLC (“RevContent”). RevContent operates a network platform through which web properties can display certain third party content such as articles, videos, blog posts, and advertisements on their sites (the “Services”).  This Privacy Policy describes how RevContent collects, uses, and discloses information when you visit this website (“the Site”) and websites and mobile applications that integrate the Services.
 
 We may change this Privacy Policy from time to time.  If we make changes, we will notify you by revising the date at the top of the policy.  We encourage you to check back regularly to stay informed about our information practices and the choices available to you.
 
@@ -43,7 +43,7 @@ _Information You Provide_
 In certain instances, you may be able to customize your experience by creating a user account or by logging in through one or more social media services. If you log in or otherwise link an existing social media account, we will have access to certain information from that service, such as your name, profile information, likes, shares, posts, etc., in accordance with the authorization procedures determined by the social media service you use to login.  
   
 
-You also may be able to customize your Revcontent experience by registering as a user directly with the Revcontent and selecting topics of interest to customize your experience. If you do this, we will have access to the information you provide in doing so, including your name, contact information, and any preferences or interests you select.
+You also may be able to customize your RevContent experience by registering as a user directly with the RevContent and selecting topics of interest to customize your experience. If you do this, we will have access to the information you provide in doing so, including your name, contact information, and any preferences or interests you select.
 
   
 _Information We Collect from Other Sources_  
@@ -64,9 +64,9 @@ We may share the information we collect as follows or as otherwise described in 
 
 * With vendors, consultants and other service providers who need access to such information to carry out work or perform services on our behalf;
 * In response to a request for information if we believe disclosure is in accordance with, or required by, any applicable law, rule, regulation or legal process;
-* If we believe your actions are inconsistent with our user agreements or policies, or to protect the rights, property or safety of Revcontent or others;
+* If we believe your actions are inconsistent with our user agreements or policies, or to protect the rights, property or safety of RevContent or others;
 * In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business by another company;
-* Between and among Revcontent and any current or future parent, subsidiary and/or affiliated company; and
+* Between and among RevContent and any current or future parent, subsidiary and/or affiliated company; and
 * With your consent or at your direction.
 
 We may also share aggregated or de-identified information, which cannot reasonably be used to identify you.  For example, we may share de-identified information with advertisers that partner with us to help them understand how well their advertisements performed.
@@ -77,9 +77,9 @@ YOUR CHOICES
   
 _Opting out of Personalized Content_  
   
-You may opt out of receiving personalized content and advertisements from Revcontent by clicking the “Opt Out” button at the top of this page.  When you opt out, we will set a cookie on your browser that tells us not to personalize recommendations or promoted content on that browser or to record information about the sites you are visiting.  If you use multiple devices and/or multiple browsers, you need to opt out on each device and browser you use, even if you login to Revcontent using a social media account.  
+You may opt out of receiving personalized content and advertisements from RevContent by clicking the “Opt Out” button at the top of this page.  When you opt out, we will set a cookie on your browser that tells us not to personalize recommendations or promoted content on that browser or to record information about the sites you are visiting.  If you use multiple devices and/or multiple browsers, you need to opt out on each device and browser you use, even if you login to RevContent using a social media account.  
   
-Please note that even after you have opted out, you will still see Revcontent recommendations and promoted content, but these recommendations and promoted content will not be personalized based on the sites you visit.  
+Please note that even after you have opted out, you will still see RevContent recommendations and promoted content, but these recommendations and promoted content will not be personalized based on the sites you visit.  
   
 Note that if you clear your cookies, you will need to opt out again.  
   
@@ -91,9 +91,9 @@ Most web browsers are set to accept cookies by default.  If you prefer, you can
   
 INFORMATION COLLECTED ON OUR WEBSITE  
   
-Advertisers and publishers may provide contact information through our Site to find out more about Revcontent, be contacted by a Revcontent representative, or to start working with Revcontent. Revcontent (and its agents and service providers) may use this information to respond to your request, to send you marketing communications, and for business purposes such as marketing and research. We will also use the information we collect from advertisers and publishers for invoicing and billing purposes. We will not rent or sell this information to other companies. You may opt out of receiving promotional emails from Revcontent by following the instructions in those emails or by emailing us at [privacy@revcontent.com](mailto:privacy@revcontent.com). If you opt out, we may still send you non-promotional communications, such as those about your account or our ongoing business relations.   
+Advertisers and publishers may provide contact information through our Site to find out more about RevContent, be contacted by a RevContent representative, or to start working with RevContent. RevContent (and its agents and service providers) may use this information to respond to your request, to send you marketing communications, and for business purposes such as marketing and research. We will also use the information we collect from advertisers and publishers for invoicing and billing purposes. We will not rent or sell this information to other companies. You may opt out of receiving promotional emails from RevContent by following the instructions in those emails or by emailing us at [privacy@revcontent.com](mailto:privacy@revcontent.com). If you opt out, we may still send you non-promotional communications, such as those about your account or our ongoing business relations.   
   
-Revcontent may also work with third parties that collect data on our Site and on other websites to serve you targeted ads.  You can opt out of interest-based ads by companies that participate in the Digital Advertising Alliance opt out program by visiting about [http://optout.aboutads.info/](http://optout.aboutads.info/). If you are in the EU, you may opt out at the European Digital Advertising Alliance, [http://www.youronlinechoices.eu/](http://www.youronlinechoices.eu/).  
+RevContent may also work with third parties that collect data on our Site and on other websites to serve you targeted ads.  You can opt out of interest-based ads by companies that participate in the Digital Advertising Alliance opt out program by visiting about [http://optout.aboutads.info/](http://optout.aboutads.info/). If you are in the EU, you may opt out at the European Digital Advertising Alliance, [http://www.youronlinechoices.eu/](http://www.youronlinechoices.eu/).  
   
 DATA RETENTION
 
@@ -102,11 +102,11 @@ We store the information we collect for as long as is necessary for the purpose(
   
 DATA TRANSFERS AND PRIVACY SHIELD
 
-Revcontent is based in the U.S. As such, we and our service providers may transfer your information to, or store or access it in, jurisdictions that may not provide equivalent levels of data protection as your home jurisdiction. We will take steps to ensure that your personal data receives an adequate level of protection in the jurisdictions in which we process it.
+RevContent is based in the U.S. As such, we and our service providers may transfer your information to, or store or access it in, jurisdictions that may not provide equivalent levels of data protection as your home jurisdiction. We will take steps to ensure that your personal data receives an adequate level of protection in the jurisdictions in which we process it.
 
-When we transfer personal data from the European Union or Switzerland to the United States, we comply with the EU-U.S. Privacy Shield Framework and the Swiss - U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data transferred from the European Union and Switzerland to the United States, respectively. Revcontent has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. To learn more about the Privacy Shield program, and to view our certification, please visit https://www.privacyshield.gov/.
+When we transfer personal data from the European Union or Switzerland to the United States, we comply with the EU-U.S. Privacy Shield Framework and the Swiss - U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data transferred from the European Union and Switzerland to the United States, respectively. RevContent has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. To learn more about the Privacy Shield program, and to view our certification, please visit https://www.privacyshield.gov/.
 
-In compliance with the Privacy Shield Principles, we are committed to resolving complaints about our processing of your personal data. EU and Swiss individuals with inquiries or complaints regarding our compliance with the Privacy Shield program should first contact us at [privacy@revcontent.com](mailto:privacy@revcontent.com) We have further committed to refer unresolved Privacy Shield complaints to JAMS, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit [https://www.jamsadr.com/eu-us-privacy-shield](https://www.jamsadr.com/eu-us-privacy-shield) claim for more information or to file a complaint. The services of JAMS are provided at no cost to you. Under certain conditions, you may be able to invoke binding arbitration to resolve your complaint. Revcontent is subject to the investigatory and enforcement powers of the Federal Trade Commission.
+In compliance with the Privacy Shield Principles, we are committed to resolving complaints about our processing of your personal data. EU and Swiss individuals with inquiries or complaints regarding our compliance with the Privacy Shield program should first contact us at [privacy@revcontent.com](mailto:privacy@revcontent.com) We have further committed to refer unresolved Privacy Shield complaints to JAMS, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit [https://www.jamsadr.com/eu-us-privacy-shield](https://www.jamsadr.com/eu-us-privacy-shield) claim for more information or to file a complaint. The services of JAMS are provided at no cost to you. Under certain conditions, you may be able to invoke binding arbitration to resolve your complaint. RevContent is subject to the investigatory and enforcement powers of the Federal Trade Commission.
 
 If we share personal data transferred to the U.S. under the Privacy Shield with a third-party service provider that processes such data on our behalf, then we will be liable for that third party’s processing in violation of the Privacy Shield Principles, unless we can prove that we are not responsible for the event giving rise to the damage.
 
@@ -314,7 +314,7 @@ CONTACT US
   
 If you have any questions or need to contact us, please do so at [privacy@revcontent.com](mailto:privacy@revcontent.com) or at:
 
-Revcontent, LLC
+RevContent, LLC
 
 1515 Fruitville Road
 
