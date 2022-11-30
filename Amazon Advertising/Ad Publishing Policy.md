@@ -42,7 +42,7 @@ For an overview of policies addressing questions that commonly arise, please see
   
 To view recent updates to these policies, please see our [Ad Policy Change Log](https://advertising.amazon.com/resources/ad-policy/creative-acceptance/ad-policy-change-log?ref_=a20m_us_spcs_cap_spcs_chnglg).
 
-Advertising policies
+Advertising Policies
 --------------------
 
 * [Advertising and the EU general data protection regulation](https://advertising.amazon.com/resources/ad-policy/eu-data-protection-and-privacy?ref_=a20m_us_spcs_gdpr)
