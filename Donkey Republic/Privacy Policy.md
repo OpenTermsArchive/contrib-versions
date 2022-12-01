@@ -19,7 +19,7 @@ Denmark
 Directors: Mr. Niels Henrik Rasmussen and Mr. Christian Dufft  
 Central business register (Denmark), CVR-number: 38049488  
 VAT-ID: DK 38049488  
-E-Mail: [\[email protected\]](https://www.donkey.bike/cdn-cgi/l/email-protection)  
+E-Mail: supp[\[email protected\]](https://www.donkey.bike/cdn-cgi/l/email-protection)  
 Telephone: (+45) 89 88 7227
 
 You can contact our data protection officer at [\[email protected\]](https://www.donkey.bike/cdn-cgi/l/email-protection) or through our postal address, stating clearly: “Data protection officer”.
