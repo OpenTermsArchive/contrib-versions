@@ -35,7 +35,7 @@ Book Returns; Subscription Cancellations and Termination. You may return a book 
 
 Risk of Loss. Risk of loss for Kindle Content transfers when you download or access the Kindle Content.
 
-2\. Use of Kindle Software. 
+**2\. Use of Kindle Software** 
 
 Permitted Devices. You may use Kindle Software only on Supported Devices. 
 
@@ -43,7 +43,7 @@ Importing, Sharing, and Distributing Content. The Services may allow you to impo
 
 Additional Software Terms. For additional terms that apply to Kindle Software, see the Additional Amazon Software Terms in the Amazon.com Conditions of Use ([https://www.amazon.com/conditionsofuse](https://www.amazon.com/conditionsofuse)), and any terms provided with Kindle Software (for example, in the Legal Notices or similar section).
 
-3\. Kindle Vella Tokens
+**3\. Kindle Vella Tokens**
 
 Use of Tokens; Expiration. Kindle Vella is an offering of the Service that allows customers to receive and purchase tokens ("Tokens") and to redeem those Tokens for eligible Kindle Vella Content we offer through the Kindle Store. Eligible products may change over time. Not all devices support the use of Tokens. Kindle Vella Content may only be unlocked with Tokens, and the entire Token amount for the applicable product, plus any applicable taxes, must be redeemed with Tokens. Tokens do not expire. We are not responsible if any Tokens are used without your permission.
 
@@ -53,7 +53,7 @@ Restrictions. Tokens are a digital good and have no monetary value (i.e., are no
 
 Limited to U.S. Kindle Vella is currently only available to customers located in the United States. You may not purchase, receive, or redeem Tokens if you are outside the United States. "United States" refers to the 48 contiguous states, the District of Columbia, Alaska, Hawaii, Puerto Rico, American Samoa, Guam, the Northern Mariana Islands, and the U.S. Virgin Islands.
 
-4\. General
+**4\. General**
 
 Information Provided to Amazon. Kindle Software will provide Amazon with information about your use of the Kindle Software, including information about its interaction with Kindle Content, other content, and the Service (such as your last page read; content that you use, Distribute, or archive; your viewing data and search queries; and available memory, up-time, log files, and signal strength). Information provided to Amazon may be stored on servers outside the country in which you live. We will handle any information we receive in accordance with the Amazon.com Privacy Notice ([https://www.amazon.com/privacy](https://www.amazon.com/privacy)).
 
