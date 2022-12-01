@@ -2,13 +2,13 @@ Conditions Générales de Vente Veepee
 
 
 
-Version du 15 nov. 2022
+Version du 1 déc. 2022
 
 
 
 Article 1 – Société
 
-Article 2 – Terminologie
+Article 2 – Définitions
 
 Article 3 – Champs d’application et acceptation des CGV
 
@@ -336,7 +336,7 @@ compléter celle-ci par d’autres produits ou services de la même vente, et ce
 
 compte » / « Mes commandes » (en sélectionnant la Commande concernée) ;
 
-● Soit depuis « Aide \& Contact » / « Mon espace » / « Questions relatives à mes
+● Soit depuis « Aide \& contact » / « Mon Espace » / « Questions relatives à mes
 
 commandes » (en sélectionnant la Commande concernée) / « Je souhaite compléter
 
@@ -652,9 +652,9 @@ de se rétracter à Vente-Privee.com, en utilisant un des moyens de contact suiv
 
 
 
-● Formulaire de contact sur son compte Veepee, rubrique « Aide \& Contact » / « Mon
+● Formulaire de contact sur son compte Veepee, rubrique « Aide et contact » / « Mon
 
-espace » / « Questions relatives à mes commandes » (en sélectionnant la
+Espace » / « Questions relatives à mes commandes » (en sélectionnant la
 
 Commande concernée) / « Je souhaite retourner un produit ».
 
@@ -700,19 +700,19 @@ Pour retourner son produit, le Membre aura le choix entre :
 
 signature), elle sera mise à disposition du Membre par courrier électronique et sur
 
-son compte Veepee dans la rubrique « Aide \& Contact » / « Mon espace » /
+son compte Veepee dans la rubrique « Aide et contact » / « Mon Espace » /
 
 Questions relatives à mes commandes » (en sélectionnant la Commande
 
-concernée). Son montant de 6,90€ sera déduit du remboursement du produit. Le
+concernée). Son montant sera déduit du remboursement du produit. Le Membre est
 
-Membre est informé que l'étiquette prépayée mise à disposition du Membre, suite à
+informé que l'étiquette prépayée mise à sa disposition, suite à une demande de
 
-une demande de retour, doit être utilisée uniquement pour le retour du/des produit(s)
+retour, doit être utilisée uniquement pour le retour du/des produit(s) associé(s) à cette
 
-associé(s) à cette demande. A défaut, Vente-Privee.com différera le remboursement
+demande. A défaut, Vente-Privee.com différera le remboursement jusqu'à
 
-jusqu'à récupération du/des produit(s), ce qui expose le Membre à des délais de
+récupération du/des produit(s), ce qui expose le Membre à des délais de
 
 remboursement allongés.
 
@@ -938,7 +938,7 @@ des solutions de renvoi alternatives sans frais.
 
 Pour pouvoir bénéficier de ce droit de reprise, le Membre peut, dans les sept jours après la
 
-validation de sa Commande, en faire la demande depuis la rubrique « Aide \& Contact » / «
+validation de sa Commande, en faire la demande depuis la rubrique « Aide et contact » / «
 
 Nos engagements », de son compte Veepee. Au-delà de ce délai, Vente-Privee.com se
 
@@ -1274,13 +1274,43 @@ Ce délai sera rappelé au Membre lors du récapitulatif de Commande ainsi que d
 
 rubrique « Suivi de livraison » du Site Veepee.
 
-13.4 Retard d’expédition ou de livraison
+13.4 Modalités de livraison
+
+
+
+Les modalités de livraison peuvent différer en fonction du poids du colis :
+
+
+
+● Pour les colis dont le poids est inférieur à 40 kg, la livraison sera effectuée
+
+uniquement au pied du camion.
+
+● Pour les colis dont le poids est supérieur à 40 kg, la livraison du produit est
+
+effectuée dans la pièce du choix du Membre (installation et montage non inclus),
+
+sous réserve que les dimensions des colis permettent l’accès à l’immeuble et à la
+
+pièce d’utilisation. Si la livraison nécessite l’utilisation d’un monte-charge, d’une
+
+nacelle ou d’un autre équipement spécifique, les frais supplémentaires resteront à la
+
+charge du membre.
+
+
+
+Le Membre est informé que les emballages ne seront pas repris par le livreur quelle que soit
+
+la prestation.
+
+13.5 Retard d’expédition ou de livraison
 
 
 
 En cas de retard de livraison, le Membre peut contacter le Service Relations Membres de
 
-Vente-Privee.com, depuis la rubrique « Aide \& Contact » / « Mon espace » / « Questions
+Vente-Privee.com, depuis la rubrique « Aide et contact » / « Mon Espace » / « Questions
 
 relatives à mes commandes » (en sélectionnant la Commande concernée) / « Je n’ai pas
 
@@ -1295,6 +1325,8 @@ Vente-Privee.com ouvrira une enquête auprès du transporteur dont les délais d
 sont généralement de vingt-et-un jours minimum. Le Membre reçoit alors un courrier
 
 électronique l’informant de l’ouverture d’une enquête ainsi que le résultat de cette enquête.
+
+
 
 ● Si le colis est localisé, la livraison du colis reprendra son cours ;
 
@@ -1324,7 +1356,7 @@ Tribunaux français.
 
 Le Membre qui souhaite annuler sa Commande devra le notifier à Vente-Privee.com depuis
 
-la rubrique « Aide \& Contact » / « Mon espace » / « Questions relatives à mes commandes »
+la rubrique « Aide et contact » / « Mon Espace » / « Questions relatives à mes commandes »
 
 (en sélectionnant la Commande concernée) / « Je souhaite annuler ma commande », de son
 
@@ -1338,7 +1370,7 @@ délai de quatorze jours suivant la demande d’annulation de la Commande ou le 
 
 d’enquête des services de la poste ou du transporteur.
 
-13.5 Réception de la Commande
+13.6 Réception et Réserves de la Commande
 
 
 
@@ -1374,7 +1406,7 @@ de vingt-et-un jours minimum. Le Membre recevra alors un courrier électronique 
 
 de l’ouverture d’une enquête ainsi que le résultat de cette enquête.
 
-13.6 Procédure de livraison spécifique pour les produits frais
+13.7 Procédure de livraison spécifique pour les produits frais
 
 
 
@@ -1408,6 +1440,8 @@ stocké en chambre froide. Le Membre devra alors contacter le transporteur dans 
 
 maximum de sept jours pour convenir d’une nouvelle livraison.
 
+
+
 L’attention du Membre est tout particulièrement attirée sur les modalités suivantes :
 
 compte tenu du caractère périssable des produits frais, si le Membre ne réceptionne
@@ -1422,13 +1456,13 @@ Dans l’hypothèse où dans les cinq jours ouvrés après l’expédition du co
 
 pas de nouvelles de sa Commande, il doit se rapprocher de Vente-Privee.com, notamment à
 
-partir de la rubrique « Aide \& Contact » / « Mon espace » / « Questions relatives à mes
+partir de la rubrique « Aide et contact » / « Mon Espace » / « Questions relatives à mes
 
 commandes » (en sélectionnant la Commande concernée) / « Je n’ai pas encore reçu ma
 
 colis » de son compte Veepee.
 
-13.9 Mise à disposition des billets de spectacle et d'événements
+13.8 Mise à disposition des billets de spectacle et d'événements
 
 
 
@@ -1511,6 +1545,8 @@ sont également soumis à la garantie des vices cachés prévue par les articles
 suivants du Code Civil. Ces garanties légales s’appliquent indépendamment de l’éventuelle
 
 garantie commerciale que pourrait consentir le fabricant.
+
+
 
 14.1.1 Garantie légale de conformité des produits et biens comportant des éléments
 
@@ -1620,11 +1656,13 @@ de conformité, Vente-Privee.com encourt une amende civile d'un montant maximal 
 
 241-5 du code de la consommation).
 
+
+
 Pour les produits frais, afin de connaître les démarches de retour d’un produit frais qui ne
 
 serait pas conforme à la Commande, le Membre est invité à contacter Vente-Privee.com
 
-depuis la rubrique « Aide \& Contact » / « Mon espace » / « Questions relatives à mes
+depuis la rubrique « Aide et contact » / « Mon espace » / « Questions relatives à mes
 
 commandes » (en sélectionnant la Commande concernée) / « Un de mes produits est
 
@@ -1688,8 +1726,6 @@ inconvénient majeur pour le Membre ;
 
 la tentative de mise en conformité de Vente-Privee.com restée infructueuse.
 
-
-
 Le Membre a également droit à une réduction du prix ou à la résolution du contrat lorsque
 
 le défaut de conformité est si grave qu'il justifie que la réduction du prix ou la résolution du
@@ -1725,6 +1761,8 @@ de conformité, Vente-privee.com encourt une amende civile d'un montant maximal 
 000 euros, qui peut être porté jusqu'à 10 % du chiffre d'affaires moyen annuel (article L.
 
 242-18-1 du code de la consommation).
+
+
 
 14.1.3 Garantie légale de conformité des contenus et services numériques fournis de
 
@@ -1914,9 +1952,9 @@ en utilisant un des moyens de contact suivants :
 
 
 
-● Formulaire de contact en se rendant sur son compte Veepee, rubrique « Aide \&
+● Formulaire de contact en se rendant sur son compte Veepee, rubrique « Aide et
 
-Contact » / « Questions relatives à mes commandes » (en sélectionnant la
+contact » / « Questions relatives à mes commandes » (en sélectionnant la
 
 Commande concernée) / « Un de mes produits est défaillant, que dois-je faire ? »
 
@@ -2002,8 +2040,6 @@ Article 16 – Données personnelles
 
 Vente-Privee.com est le responsable de traitement de vos données personnelles.
 
-
-
 Pour toute information concernant le traitement de vos données et connaître vos droits,
 
 consultez la Politique de Confidentialité et Protection de la Vie Privée de Vente-Privee.com.
@@ -2049,6 +2085,8 @@ inopposable par une décision de justice, les autres dispositions resteront en v
 18.1 En cas de différend entre le Membre et Vente-Privee.com, les parties s’efforceront de
 
 trouver une solution amiable.
+
+
 
 Ainsi, le Membre est invité à contacter Vente-Privee.com :
 
