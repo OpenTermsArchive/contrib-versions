@@ -1,3 +1,5 @@
+**Last updated:** November 2022
+
 This privacy notice explains how Logitech collects and uses personal data from visitors to its web and mobile sites that link directly to this notice (collectively “Sites”). Your personal data is controlled by Logitech Europe S.A. (collectively “Logitech”, ''We” and “Us”).
 
 Actively Submitted Data
@@ -96,7 +98,7 @@ If you are not satisfied with our response, you can refer your privacy complaint
 Special information for EU, UK and Swiss users
 ----------------------------------------------
 
-From May 25, 2018, the processing of personal data of individuals in the European Union is subject to the [EU General Data Protection Regulation (“GDPR”)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.119.01.0001.01.ENG&toc=OJ:L:2016:119:TOC). This section provides information relating to EU users' rights and Logitech’s obligations under the GDPR. Personal data processed through the use of our Sites is controlled by Logitech Inc, 7700 Gateway Blvd., Newark, CA 94560 USA. The European Representative is Logitech Ireland Services Ltd, 3400, Airport Business Park, Kinsale Road, Cork, Ireland.
+From May 25, 2018, the processing of personal data of individuals in the European Union is subject to the [EU General Data Protection Regulation (“GDPR”)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.119.01.0001.01.ENG&toc=OJ:L:2016:119:TOC). This section provides information relating to EU users' rights and Logitech’s obligations under the GDPR. Personal data processed through the use of our Sites is controlled by Logitech Inc, 7700 Gateway Blvd., Newark, CA 94560 USA. The European Representative is Logitech Ireland Services Limited, City Gate Plaza Two, Mahon, Cork, Ireland.
 
 Read more
 
@@ -155,7 +157,7 @@ To invoke any of these rights, please fill out the form [here](https://support.l
 
 **Phone:** + 1-510 713 5556  
 **Email:** [privacy@logitech.com](mailto:privacy@logitech.com)  
-**Postal Mail:** Logitech Privacy Office EMEA, Logitech Ireland Services Limited Building 3400 Cork Airport Business Park, Kinsale Road, Cork, Ireland
+**Postal Mail:** Logitech Privacy Office EMEA, Logitech Ireland Services Limited, City Gate Plaza Two, Mahon, Cork, Ireland
 
 **German users only:** If you are a German user, you may contact Logitech’s Data Protection officer with any questions or concerns by emailing: [email@iitr.de](mailto:email@iitr.de).
 
@@ -163,7 +165,13 @@ To invoke any of these rights, please fill out the form [here](https://support.l
 
 We will only transfer your personal data from the European Economic Area (EEA) to countries outside the EEA, on the basis of appropriate safeguards. When Logitech transfers data internationally we rely on i) Adequacy Decisions as adopted by the European Commission on the basis of Article 45 of Regulation (EU) 2016/679 (GDPR), or ii) Standard Contractual Clauses as issued by the European Commission. These agreements are available upon request to [privacy@logitech.com](mailto:privacy@logitech.com).
 
-Effective date
---------------
+Change to this Statement
+------------------------
 
-This Privacy Statement is effective September 27, 2021.
+We will occasionally update this Statement. If there are material changes to this Statement or in how we will use your personal information, we will prominently post the changes before making them.
+
+We will not make any changes that are less protective of your personal information collected in the past without your consent.
+
+We encourage you to periodically review this Statement to be informed of how we are protecting your information.
+
+Thank you for your interest in Logitech and our products and services.
