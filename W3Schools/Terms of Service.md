@@ -126,6 +126,19 @@ We do not warrant that the quality of any products, services, information, or ot
 
 * * *
 
+Refund Policy
+-------------
+
+Exams & Courses:
+
+You may withdraw from the course or exam for any reason within 14 days after the date you first receive access to the service, which is the date of the email sent to you containing access to the online course or exam. If any exam attempts are used, purchases are considered final and are not eligible for a refund. For any questions or issues with your product please contact our support at hello@w3schools.com Otherwise, all purchases are considered final after 14 days.
+
+Plans & Subscriptions:
+
+We issue no refunds for plans and subscriptions. You may cancel your subscription with W3Schools anytime, but you won't be issued a refund for the billed period. The only exception is in legal matters such as fraud and misuse.
+
+* * *
+
 Domains
 -------
 
