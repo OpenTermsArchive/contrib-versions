@@ -1,149 +1,77 @@
-Community Guidelines
+Guidelines Enforcement Process
 
-11/02/2021
 
 
+November 2, 2021
 
-Our Guidelines govern your relationship with and use of Parler, as well as
 
-your access to our services and products. By accessing Parler, you agree to
 
-these terms. These Guidelines are designed to foster productive, civil
+Due to the particular risk posed by content that threatens or incites violence,
 
-discourse among people with differing interests, experiences and viewpoints.
+and to the sensitive nature of NSFW content, Parler uses a privacy-preserving
 
-Our goal is to provide all users with a welcoming, nonpartisan Public
+process involving both algorithmic filters and human review to address this
 
-Square. While the First Amendment has not until very recently been thought
+content. Should any threatening or inciting content be detected, it will be removed,
 
-to apply to private companies such as Parler (and then only when the private
+with an opportunity for appeal via our Parler Jury. (Note: this type of content has
 
-company engages in “state action”), our mission has always been to offer a
+always been a violation of our Guidelines.) Due to the fallible nature of AI,
 
-social platform in the spirit of the First Amendment to the United States
+violation points will be assigned only after appeals have been exhausted. If you
 
-Constitution, one which empowers the individual to think and share freely.
+believe something you posted on Parler has been flagged in error, we encourage
 
-We prefer that removing users or user-provided content be kept to the
+you to submit an appeal, so that we may continue to improve this process. NSFW
 
-absolute minimum. We prefer to leave decisions about what is seen and who
+content, if detected, will be placed behind the NSFW filter, and points assigned for
 
-is heard to each individual. In no case will Parler decide what will content be
+a user’s failure to designate this content in advance. Again, this automated
 
-removed or filtered, or whose account will be removed, on the basis of the
+determination may be appealed, and we urge you to do so if you believe it was
 
-opinion expressed within the content at issue. Parler’s policies are, to use a
+made in error. (Note: the toggle to turn off the NSFW filter is accessible only on
 
-well-known concept in First Amendment law, viewpoint-neutral.
+Web (or Android), per Apple Guidelines.)
 
-We do not curate your feed; we do not pretend to be qualified to do so. We
 
-believe only you are qualified to curate your feed, and so we give you the
 
-tools you need to do it yourself. To that end, Parler offers a number of
+Finally, we have implemented a “trolling” filter, designed to detect personal
 
-features—including the ability to mute or block other users, or to mute or
+attacks based on immutable or otherwise irrelevant characteristics such as race,
 
-block all comments containing terms of your choice—and we encourage you
+sex, sexual orientation, or religion. This content often doesn’t contribute to a
 
-to use these tools whenever the content you would rather not encounter here,
+productive conversation, and so we wanted to provide our users with a way to
 
-is not otherwise addressed by what follows.
+minimize it in their feeds, should they choose to do so. Per Apple’s Guidelines for
 
-At Parler, we’re committed to continuous improvement toward fulfilling our
+iOS Apps, trolling content will not be viewable on Parler’s iOS App. However,
 
-mission. Accordingly, these Guidelines are subject to modification,
+those wishing to view this content may do so on our Web or Android Apps, either
 
-unilaterally by Parler, at any time.
+by clicking the individual “trolling” splash screen, or by turning off the splash
 
+screens altogether. Those Web or Android users who wish to remove this content
 
+from their feeds entirely may turn on the global filter. In the spirit of the First
 
-Principle #1:
+Amendment, no violation points are assigned for this last type of content and,
 
+again, any determination with respect to it may be appealed.
 
 
-Parler will not knowingly allow itself to be used as a tool for crime, civil
 
-torts, or other unlawful acts. We will remove reported user content that a
+Appeals are reviewed by Parler employees, who provide feedback to those
 
-reasonable and objective observer would believe constitutes or evidences
+involved in the initial determination process. The process for reviewing user-
 
-such activity. We may also remove the accounts of users who use our
+generated reports—which may refer to violations of any of our Guidelines—is
 
-platform in this way.
+similar, but these cases are first reviewed by our Parler Community Jury.
 
-Sometimes the law properly requires us to exclude content from our
 
-platform once it is reported to us or to our Community Jury—content we
 
-would make it a priority to exclude anyway. Obvious examples include:
+To join our Parler Community Jury, or to ask any questions, please write to
 
-child sexual abuse material, content posted by or on behalf of terrorist
-
-organizations, intellectual property theft.
-
-However, even when the law may not require us to flag or remove reported
-
-content, or to ban a user, we will nonetheless do so when we deem it
-
-necessary to prevent our services from being used by someone in the
-
-commission of a crime or civil tort—particularly when these are likely to
-
-interfere with our mission of providing a welcoming, nonpartisan Public
-
-Square. Examples include criminal solicitation, fraud, and nuisance.
-
-Finally, while Parler allows the posting of “Not Safe For Work” and
-
-“trolling” content, we provide a double-filter system to help ensure this
-
-content is not viewed by those who choose not to see it.
-
-
-
-Principle #2:
-
-
-
-Posting spam and using bots are nuisances and are not conducive to
-
-productive and polite discourse. In addition, it is unjust to our Influencers
-
-and creators, who have put time and effort into building their following and
-
-goodwill, and who deserve unfettered enjoyment of the effects of their hard
-
-work. The use of our mute and block features, by individual users, is often
-
-adequate to address problems with spam. But whenever it is not, and
-
-particularly when the behavior negatively affects the ability of those
-
-participating in our Influencer Network to monetize themselves, Parler will
-
-remove accounts of those who engage in this behavior.
-
-A detailed discussion of the types of actions encompassed by these two
-
-principles is available here: https://legal.parler.com/documents/Elaboration-
-
-on-Guidelines.pdf
-
-
-
-Reporting Violations
-
-
-
-In addition to other precautionary measures, Parler relies upon its
-
-community members to report violations of these Guidelines. Read more
-
-about how it works here:
-
-https://legal.parler.com/documents/Guidelines-Enforcement-Process.pdf
-
-
-
-Last Updated: November 02, 2021
+jury@parler.com.
