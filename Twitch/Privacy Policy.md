@@ -158,7 +158,7 @@ Visit the [California Privacy Disclosures](https://www.twitch.tv/p/legal/califor
 
 ### Japan Privacy Disclosures
 
-Visit the [Japan Privacy Disclosures](https://www.twitch.tv/p/en/twitch.tv/legal/japan-privacy-notice) page to read additional disclosures required under the Act on Protection of Personal Information.
+Visit the [Japan Privacy Disclosures](https://www.twitch.tv/legal/japan-privacy-notice/) page to read additional disclosures required under the Act on Protection of Personal Information.
 
 ### Republic of Korea Privacy Disclosures
 
