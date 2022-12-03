@@ -570,13 +570,13 @@ _Article 8 : RETRACTION_
 
 **8.1 Principe**
 
-Conformément aux articles L. 221-18 et suivants du Code de la Consommation, vous disposez d'un délai de quatorze (14) jours ouvrés courant à compter du lendemain de la réception du dernier produit de votre commande pour exercer votre droit de rétractation sans avoir à justifier de motifs ni à payer de pénalités.
+Conformément aux articles L. 221-18 et suivants du Code de la Consommation, vous disposez d'un délai de quatorze (14) jours courant à compter du lendemain de la réception du dernier produit de votre commande pour exercer votre droit de rétractation sans avoir à justifier de motifs ni à payer de pénalités.
 
-Si le délai de quatorze (14) jours ouvrés expire un samedi, un dimanche ou un jour férié ou chômé, il est prorogé jusqu'au premier jour ouvrable suivant.
+Si le délai de quatorze (14) jours expire un samedi, un dimanche ou un jour férié ou chômé, il est prorogé jusqu'au premier jour ouvrable suivant.
 
 Le retour des produits se fait sous votre responsabilité et à vos frais.
 
-Tout dommage subi par les produits à cette occasion est de nature à faire échec à l’exercice de votre droit de rétractation.  
+ Tout dommage subi par les produits à cette occasion est de nature à faire échec à l’exercice de votre droit de rétractation.  
   
 Concernant la commande de Coupons, vous ne pourrez bénéficier du droit de rétractation qu'à condition que votre Coupon n'ait pas été utilisé.  
   
@@ -585,7 +585,7 @@ Produits vendus en "Pack" : l’exercice du droit de rétractation est uniquemen
 
   
   
-**Cas particuliers**
+**Cas particuliers**     
 
 Pour les produits ne pouvant être retournés par la Poste en raison de leur nature et/ou de leur taille, vous trouverez ci-dessous, conformément à la réglementation en vigueur, **une estimation** des frais de retour depuis la France, auprès d’un transporteur, dont vous devrez vous acquitter afin de nous retourner votre produit.
 
@@ -974,14 +974,17 @@ CDISCOUNT adhère au Code Déontologique de la Fevad (Fédération du e-commerce
 
 Pour en savoir plus, rendez-vous sur le site de la FEVAD en [cliquant ici.](https://www.fevad.com/)
 
-_Article 14 : LITIGE, MEDIATION et DROIT APPLICABLE_
+_Article 14 : LITIGE, MEDIATION ET DROIT APPLICABLE_
 ----------------------------------------------------
 
-14.1 Pour toute réclamation, notre Service Client est à votre disposition.
+14.1 Pour toute réclamation, notre Service Client est à votre disposition.  
 
-14.2 Cdiscount adhère à la Fédération du e-commerce et de la vente à distance (FEVAD) et au service de médiation du e-commerce (60 rue la Boétie – 75008 PARIS). Le Médiateur peut être saisi de tout litige commercial lié à la vente d’un produit ou un service acheté à distance, sous réserve du respect des conditions de recevabilité de votre dossier. Pour connaitre ces conditions,[cliquez-ici](https://www.mediateurfevad.fr/index.php/espace-consommateur/#toggle-id-2[cliquez-ici). Pour les services, le Médiateur du E-commerce interviendra uniquement en l’absence de partenariats avec les Médiateurs sectoriels, déjà existant, compétents, à qui il pourra transmettre votre dossier tout en en assurant un suivi.  
+ 14.2 Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, Cdiscount adhère au Service du Médiateur de la consommation la FEVAD (Fédération du e-commerce et de la vente à distance) dont les coordonnées sont les suivantes :  Médiateur de la consommation FEVAD
+
+BP 20015 - 75362 PARIS CEDEX 8 - [https://www.mediateurfevad.fr](https://urldefense.com/v3/__https:/62021a2e94424da7995e2da9606a295b.svc.dynamics.com/t/t/7dYvfcxBDUAE9fNdxqL9eQadDF0pBN6nPEK9S9vBRQwx/uKgxLWVBK5mT1IHQWFMm3AawqxziTIrV9ZlxULrf0Okx__;!!HseEOGaABhuC!RyJyLDoHTwAjBuH4Vd7NU60H7UMLQFP52W6nEcaP8q_9d9V79N1_RW7r5vqlhSkp3Z4utKAuSvsgPkEpGEUVeA$ "https://www.mediateurfevad.fr/"). Après démarches préalables écrites des consommateurs vis-à-vis de Cdiscount, le Service du Médiateur peut être saisi pour tout litige de consommation dont le règlement n’aurait pas abouti. Pour connaître les modalités de saisine du Médiateur, [cliquer ici](https://urldefense.com/v3/__https:/62021a2e94424da7995e2da9606a295b.svc.dynamics.com/t/t/E6GqxjI5iv00wdanY60VFRHgGJUx78rpZ2MsGz46C1Ux/uKgxLWVBK5mT1IHQWFMm3AawqxziTIrV9ZlxULrf0Okx__;!!HseEOGaABhuC!RyJyLDoHTwAjBuH4Vd7NU60H7UMLQFP52W6nEcaP8q_9d9V79N1_RW7r5vqlhSkp3Z4utKAuSvsgPkGur6A3WQ$ "http://www.mediateurfevad.fr/index.php/espace-consommateur/").  
   
-14.3 La Commission européenne a mis en place une plateforme de résolution des litiges destinée à recueillir les éventuelles réclamations de consommateurs faisant suite à un achat en ligne afin de les transmettre ensuite aux médiateurs nationaux compétents. Cette plateforme est accessible [en cliquant ici](http://ec.europa.eu/consumers/odr/).
+  
+14.3 La Commission européenne a mis en place une plateforme de résolution des litiges destinée à recueillir les éventuelles réclamations de consommateurs faisant suite à un achat en ligne afin de les transmettre ensuite aux médiateurs nationaux compétents. Cette plateforme est accessible [en cliquant ici](http://ec.europa.eu/consumers/odr/).  
 
 14.4 Sauf dispositions impératives contraires telles que découlant du Règlement CE n°593/2008 du 17 juin 2008 sur la loi applicable aux obligations contractuelles (Rome I), les présentes CGV sont soumises à la législation française.
 
