@@ -17,7 +17,7 @@ We understand that legal terms can be exhausting to read, and we’ve tried to m
 
 ### 1.1. Our Purpose
 
-Our services offer our Users the ability to easily create a beautiful and highly functional online presence, manage and promote businesses, content, and ideas, and have an overall great experience doing so – even without being tech-savvy or a design guru. As detailed below, we offer our users numerous tools and features for creating, publishing, and use of stunning websites, online e-commerce platforms, newsletters, galleries, media players, mobile apps, and other online and mobile applications, tools, and services. The online, and mobile websites, functionalities, and platforms created by Users are collectively referred to herein as “User Platform(s)”. 
+Our services offer our Users (as defined below) the ability to easily create a beautiful and highly functional online presence, manage and promote businesses, content, and ideas, and have an overall great experience doing so – even without being tech-savvy or a design guru. As detailed below, we offer our users numerous tools and features for creating, publishing, and use of stunning websites, online e-commerce platforms, newsletters, galleries, media players, mobile apps, and other online and mobile applications, tools, and services. The online, and mobile websites, functionalities, and platforms created by Users are collectively referred to herein as “User Platform(s)”. 
 
 #### #ItsThatEasy
 
@@ -93,6 +93,10 @@ If you are invited as a Contributor to a User Platform or if you are a Reseller 
 You can create an account and purchase services also via a third-party authorized to sell Wix (Reseller). If you register to Wix or purchase services via a Reseller you agree and accept these Wix terms of use (in addition to any arrangement between you and the Reseller), so that in you relationship with Wix these terms will overcome any other terms, and that some Wix services and features may not be available to you or be available to you only through the Reseller platform.
 
 #### #ItsThatEasy
+
+You can invite others (Contributors) to perform activities on your User Account by assigning them certain roles and permissions
+
+​
 
 If you are invited to be a Contributor on other User’s Platform , you need to create a User Account of your own before you access the other User Platform.   
   
