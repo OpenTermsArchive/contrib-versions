@@ -108,7 +108,7 @@ Unless indicated otherwise, Booking.com is a service you are only allowed to use
 
 ### How can you control the personal data you’ve given to Booking.com?
 
-You have the right to review the personal data we keep about you at any time. You can request access to or deletion of your personal data [by submitting this form](https://secure.booking.com/content/dsar?label=nm-german-de-tWVQffv*Kuhi9HBou1nb5QSM145603813876%3Apl%3Ata%3Ap1%3Ap22.563.000%3Aac%3Aap%3Aneg%3Afi%3Atikwd-16105915630%3Alp1004054%3Ali%3Adem%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YcsZ-Id2vkzIfTmYhvC5HOg&aid=309654). If you want to find out more about your rights to control your personal data, read on.
+You have the right to review the personal data we keep about you at any time. You can request access to or deletion of your personal data [by submitting this form](https://www.booking.com/content/dsar?&aid=950173). If you want to find out more about your rights to control your personal data, read on.
 
 [Read more about how you can control your personal data](https://www.booking.com/content/privacy.en-gb.html#personal-data-controlled-how)
 
@@ -533,7 +533,7 @@ If you have a Booking.com user account, you can access a lot of your personal da
 
 If any of the personal data we have about you isn’t accessible through our website or apps, you can send us a request.
 
-If you want to exercise your right of access or erasure, all you need to do is complete and submit the [Data Subject Request for Booking.com Customers](https://secure.booking.com/content/dsar?label=nm-german-de-tWVQffv*Kuhi9HBou1nb5QSM145603813876%3Apl%3Ata%3Ap1%3Ap22.563.000%3Aac%3Aap%3Aneg%3Afi%3Atikwd-16105915630%3Alp1004054%3Ali%3Adem%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YcsZ-Id2vkzIfTmYhvC5HOg&aid=309654) form. For any requests relating to this Privacy Statement, to exercise any of your other rights, or if you have a complaint, please contact our Data Protection Officer at [dataprotectionoffice@booking.com](https://secure.booking.com/content/dsar?label=nm-german-de-tWVQffv*Kuhi9HBou1nb5QSM145603813876%3Apl%3Ata%3Ap1%3Ap22.563.000%3Aac%3Aap%3Aneg%3Afi%3Atikwd-16105915630%3Alp1004054%3Ali%3Adem%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YcsZ-Id2vkzIfTmYhvC5HOg&aid=309654). You can also contact your local data protection authority.
+If you want to exercise your right of access or erasure, all you need to do is complete and submit the [Data Subject Request for Booking.com Customers](https://www.booking.com/content/dsar?&aid=950173) form. For any requests relating to this Privacy Statement, to exercise any of your other rights, or if you have a complaint, please contact our Data Protection Officer at [dataprotectionoffice@booking.com](https://www.booking.com/content/dsar?&aid=950173). You can also contact your local data protection authority.
 
 If you’d like to object to your personal data being processed on the basis of legitimate interest and there’s no way to opt out directly, please contact us at [dataprotectionoffice@booking.com](mailto:dataprotectionoffice@booking.com).
 
