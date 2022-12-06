@@ -1,7 +1,7 @@
 Privacy policy
 ==============
 
-This version (Version 4.11) is effective as of September 28th, 2022.
+This version (Version 4.12) is effective as of December 6th, 2022.
 
 * [Overview](#overview)
 * [About Us](#about)
@@ -320,7 +320,7 @@ You may exercise your rights above by contacting us using the methods outlined i
 
 **In the case of preventing processing for marketing activities**, you can opt out of marketing by signing in to your O'Reilly account and updating your account settings. You may also opt out of receiving newsletters or other communications by following the opt-out instructions included in each newsletter or communication or by contacting us using the methods outlined in the ["Contact Us" section](#questions) above.
 
-**You can opt out of our Google Analytics** data collection by using the tools available [here](https://tools.google.com/dlpage/gaoptout/). **You can opt out of Adobe Analytics** by using the tools available [here](https://smetrics.oreilly.com/optout.html?optout=1&confirm_change=1).
+**You can opt out of our Google Analytics** data collection by using the tools available [here](https://tools.google.com/dlpage/gaoptout/).
 
 Please note that your objection to processing (or withdrawal of any previously given consent) could mean that we are unable to provide you with our services. Even after you have chosen to withdraw your consent, we may continue to process your personal information when required or permitted by law, in particular in connection with exercising and defending our legal rights or meeting our legal and regulatory obligations.
 
@@ -406,6 +406,8 @@ Please note that this Policy may change from time to time. We will not reduce yo
 --------------------------------------------
 
 ### 11.1 O'Reilly and Safari privacy policies
+
+[Click here for version 4.11](https://www.oreilly.com/privacy-092822.html)
 
 [Click here for version 4.10](https://www.oreilly.com/privacy-022422.html)
 
