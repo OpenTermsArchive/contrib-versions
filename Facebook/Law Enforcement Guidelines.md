@@ -111,12 +111,6 @@ Law enforcement officials may use the [Law Enforcement Online Request System](ht
 
 Please note:
 
-For US Law Enforcement:  
-Please address your legal requests for Facebook or Instagram user data to:  
-Meta Platforms, Inc.,  
-1601 Willow Road,  
-Menlo Park, CA 94025.
-
 For Law Enforcement outside of the US:  
 Please note that for users of the Facebook and Instagram services in the European region, the service provider and data controller is Meta Platforms Ireland Ltd. If your request is for Meta Platforms Ireland Ltd., it must be addressed to:  
 Meta Platforms Ireland Ltd.,  
