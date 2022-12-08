@@ -1,7 +1,7 @@
 EEA+ Privacy Policy
 ===================
 
-_This Privacy Policy is effective June 15, 2021. To review the previous Privacy Policy, please click_ [_here_](https://legal.nextdoor.com/gb-privacy-policy-2020/)_._ _A new Privacy Policy becomes effective January 1, 2023. To review the new Privacy Policy, please click [here](https://help.nextdoor.com/s/article/Privacy-Policy)._
+_This Privacy Policy is effective June 15, 2021. To review the previous Privacy Policy, please click_ [_here_](https://legal.nextdoor.com/gb-privacy-policy-2020/)_._ _A new Privacy Policy becomes effective on January 1, 2023. To review the new Privacy Policy, please click [here](https://help.nextdoor.com/s/article/Privacy-Policy)._
 
 **1.** **Our Service**
 
