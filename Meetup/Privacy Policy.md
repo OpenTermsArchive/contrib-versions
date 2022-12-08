@@ -11,14 +11,15 @@ Our Privacy Policy explains how Meetup collects, uses, and discloses information
 
 To make this Privacy Policy easier to understand, we have provided summaries below. These summaries are not part of the official policy. Even though we have provided summaries, it is important for you to read the entire policy carefully. If you wish to access any particular section of this Privacy Policy, use the list below to jump to that section.
 
-1. [Collection Of Information](https://help.meetup.com/hc/en-us/articles/360044422391#h_d3f7c6dd-370b-44c9-ad84-16cd965fd091)
-2. [Use Of Information](https://help.meetup.com/hc/en-us/articles/360044422391#h_490757dc-fe47-456f-83c3-dab26e74f4d3)
-3. [Sharing Of Information](https://help.meetup.com/hc/en-us/articles/360044422391#h_f2a6dbe1-5d47-450e-8436-ab99939d1507)
-4. [Additional Details](https://help.meetup.com/hc/en-us/articles/360044422391#h_d0a0c42f-808d-403c-877c-2cf95ae82062)
-5. [Your Choices](https://help.meetup.com/hc/en-us/articles/360044422391#h_5b10b6ab-d15d-4898-8101-9b5fafdd656e)
-6. [Data Rights](https://help.meetup.com/hc/en-us/articles/360044422391#h_c9263130-4290-4d41-a349-6c9ea2db47fa)
-7. [California Privacy Rights](https://help.meetup.com/hc/en-us/articles/360044422391#h_d134450a-afaa-4dc5-9fb3-095c8b1bb0cd)
-8. [Contact Us](https://help.meetup.com/hc/en-us/articles/360044422391#h_38235e48-9aee-4961-8a06-0aae6e08a0c1)
+1. [Collection Of Information](#h_01GKS68HQS1VQKT1V8N74Q2NE7)
+2. [Use Of Information](#h_01GKS68QMG9VKB46DSX0N4DFZ0)
+3. [Sharing Of Information](#h_01GKS68ZT86336F6H9WTKWRCQ5)
+4. [Additional Details](#h_01GKS694F8AM4TSYP8QVP7EABH)
+5. [Your Choices](#h_01GKS6992HZ7ZHDVA4YCAKHB8R)
+6. [Data Rights](#h_01GKS69DQF3CEJ0K5ATAFNGK0N)
+7. [California Privacy Rights](#h_01GKS69KWBZ6YYA53WD5FZFYTJ)
+8. [Information for Korean Residents](#h_01GKS69WVWE2M0SJQFZMPWT4QY)
+9. [Contact Us](#h_01GKS6A24SX5SYEYSVYHGVA926)
 
 1\. Collection Of Information
 -----------------------------
@@ -291,6 +292,11 @@ During the preceding 12 months, Meetup has collected, used, and shared the categ
 If you are a California resident and would like to use an agent registered with the California Secretary of State to exercise your rights, we may request evidence that you have provided such agent with power of attorney or that the agent otherwise has valid written authority to submit requests to exercise rights on your behalf.  
 
 _Do-Not-Track Signals_. Some mobile and web browsers transmit "do-not-track" signals. Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them. We currently do not take action in response to these signals.
+
+7\. Information for Korean Residents
+------------------------------------
+
+If you are a resident in the Republic of Korea, you can find specific information on how we use your personal information [here](https://help.meetup.com/hc/en-us/articles/11108093175693-Korean-Annex).
 
 8\. Contact Us
 --------------
