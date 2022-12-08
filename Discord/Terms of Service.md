@@ -124,7 +124,9 @@ We encourage you to [report content](https://support.discord.com/hc/en-us/reques
 Termination
 -----------
 
-Your right to terminate. You’re free to stop using Discord’s services at any time and for any reason. You can delete your Discord account through the User Settings page in the Discord app. You can also disable your account, which restricts the processing of your personal information as described in our [Privacy Policy](https://discord.com/privacy). Disabling your account does not terminate this agreement.Our right to terminate. Subject to applicable law, we reserve the right to suspend or terminate your account and/or your access to some or all of our services with or without notice, at our discretion, including if:
+**_Your right to terminate._** You’re free to stop using Discord’s services at any time and for any reason. You can delete your Discord account through the User Settings page in the Discord app. You can also disable your account, which restricts the processing of your personal information as described in our [Privacy Policy](https://discord.com/privacy). Disabling your account does not terminate this agreement.
+
+**_Our right to terminate._** Subject to applicable law, we reserve the right to suspend or terminate your account and/or your access to some or all of our services with or without notice, at our discretion, including if:
 
 * You breach these terms, [our policies](https://support.discord.com/hc/articles/4420312247575), or additional terms that apply to specific products.
 * We’re required to do so to comply with a legal requirement or court order.
