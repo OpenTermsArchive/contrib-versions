@@ -109,7 +109,7 @@ If you are purchasing as a consumer, you have the right by law to withdraw from 
 
 _**Contacting us about the withdrawal**_
 
-To exercise your right of withdrawal for a Device or Subscription Service (as described above), you must inform us of your decision to withdraw from the contract by an unequivocal statement. You may use the model withdrawal form shown below, but it is not obligatory. Alternatively, you may contact Google Commerce Limited, c/o Customer Support, Gordon House, Barrow Street, Dublin 4, Ireland through, [googlestore-customersupport@google.com](mailto:googlestore-customersupport@google.com) or inform us through the [Contact](https://support.google.com/store/gethelp) page.
+To exercise your right of withdrawal for a Device or Subscription Service (as described above), you must inform us of your decision to withdraw from the contract by an unequivocal statement. You may use the model withdrawal form shown below, but it is not obligatory. Alternatively, you may contact Google Commerce Limited, c/o Customer Support, Gordon House, Barrow Street, Dublin 4, Ireland through, [store-eu-support@google.com](mailto:store-eu-support@google.com) or inform us through the [Contact](https://support.google.com/store/gethelp) page.
 
 To meet the withdrawal deadline, it is sufficient for you to send your communication concerning your exercise of the right of withdrawal before the 14 day withdrawal period has expired.
 
