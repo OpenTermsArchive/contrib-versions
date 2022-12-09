@@ -558,4 +558,4 @@ We update this privacy policy sometimes, so you should review this site regularl
 
 If we make any major changes, we will let you know by email (if we have your email address) or by showing a prominent notice on this website or in app prior to the change becoming effective. If required by law, we will obtain your parent’s consent if any of these changes impact the data we’ve collected from you in a less protective way.
 
-Last Update: October 21, 2022
+Last Update: December 07, 2022
