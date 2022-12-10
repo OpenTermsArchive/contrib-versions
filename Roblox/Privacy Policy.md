@@ -52,7 +52,7 @@ Tel: +49 (0) 40 99999 - 3430
 DP-Dock GmbH  
 Attn: Roblox Corporation  
 Ballindamm 39 / Ecke Jungfernstieg  
-0095 Hamburg, Germany
+20095 Hamburg, Germany
 
 UK:  
 DP Data Protection Services UK Ltd.  
@@ -94,7 +94,7 @@ Everyone on Roblox has to create an account in order to participate in our exper
 
 When you create a Roblox account, we will ask you to choose a unique username and password. We require this information so that you can log into your account and participate in Service features. We do not use usernames to identify individual users outside of their activities on our Service.
 
-We will also ask you for your date of birth, your gender, the country you live in and which language you speak so we can customize your experience on Roblox..
+We will also ask you for your date of birth, your gender, the country you live in and which language you speak so we can customize your experience on Roblox.
 
 You must not create a username that includes your real name or other Personal Information. It is also important to create a password that is not easy to guess. You may share your password with your parent(s) or legal guardian, but never share it with anyone else, not even your friends.
 
@@ -356,7 +356,7 @@ If you are a parent and need to make changes to your child’s account, you can 
 
 11\. Accessing, Updating, and Deleting Your Personal Information
 
-If Personal Information about you changes, or if you no longer desire to use our Service, you may correct, update, amend, or deactivate your account under your account settings or by contacting Roblox using the Personal Information set out above in Sec. 1. We will respond to your request within a reasonable timeframe. For children under the age of 13, please see the [“Children’s Privacy and Parental Controls”](https://en.help.roblox.com/hc/en-us/articles/parental-controls) section above. See Sections 13, 14 and 15 for additional rights available to California, UK, Swiss and European Economic Area, and Brazil residents.
+If Personal Information about you changes, or if you no longer desire to use our Service, you may correct, update, amend, or deactivate your account under your account settings or by contacting Roblox using the Personal Information set out above in Sec. 1. We will respond to your request within a reasonable timeframe. For children under the age of 13, please see the [“Children’s Privacy and Parental Controls”](#parental-controls) section above. See Sections 13, 14 and 15 for additional rights available to California, UK, Swiss and European Economic Area, and Brazil residents.
 
 If you want to fix any of your personal information, or if you want us to delete your personal information, you can contact us by completing this [Customer Support Form](https://www.roblox.com/support). Select the desired option under the Data Privacy Requests. To protect your privacy, we will take steps to verify your identity before fulfilling your request.
 
@@ -494,7 +494,7 @@ If you have reason to, you can complain about how we are using your information 
 
 2\. Please note that we do not use your Personal Information for automated decision making which produces legal effects concerning you or similarly significantly affects you.
 
-#### 3\. Personal data of children and Parental Consent.
+#### 3\. Personal data of children and Parental Consent
 
 Please note that when users under the age of 13 register for the Service, their account is automatically set to “Privacy Mode.” This means that these users will not have access to certain features, such as social media plug-ins, some forms of third party advertising, and certain types of notification alerts.
 
