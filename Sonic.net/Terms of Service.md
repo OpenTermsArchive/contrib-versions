@@ -124,42 +124,49 @@ You are entitled to free assistance with setting up your connection, an Internet
 
 If you can email, we encourage you to write to [support@sonic.net](mailto:support@sonic.net) for assistance. If you are able to get online and have other questions, the answers may be in our support pages located at [http://www.sonic.net/support/](http://www.sonic.net/support) - we encourage you to check there first. Also, the help files in the program you are using may have the answers to your questions so please do investigate these resources before calling tech support.
 
-9\. Bandwidth and Disk use quotas
-=================================
+9\. Text Messaging (SMS)
+========================
+
+Sonic may send you text messages about your service to your mobile number on file. Any telephone number you have with or provide to Sonic will be eligible to receive text messages.
+
+You may opt out of receiving SMS by replying STOP to a message you receive. Note that if you opt out you may miss important communications regarding your account or service, such as communications regarding outages or payment issues.
+
+10\. Bandwidth and Disk use quotas
+==================================
 
 [Sonic.net](https://www.sonic.com/), LLC uses a quota system for controlling customer bandwidth and disk usage. Information and specific details about these quotas can be found [here](https://help.sonic.com/hc/en-us/articles/115000381368-Bandwidth-and-Disk-Quotas "Quotas").
 
-10\. Digital Millennium Copyright Act
+11\. Digital Millennium Copyright Act
 =====================================
 
 [Digital Millennium Copyright Act](https://help.sonic.com/hc/en-us/articles/236029887-Digital-Millennium-Copyright-Act-DMCA-policy)
 
-11\. Billing Policy
+12\. Billing Policy
 ===================
 
 [Billing Policy](https://help.sonic.com/hc/en-us/articles/236010428-Billing-Policy)
 
-12\. Equipment Policy
+13\. Equipment Policy
 =====================
 
 [Equipment Policy](https://help.sonic.com/hc/en-us/articles/236030007-Equipment-Policy)
 
-13\. Sonic Wire Plan
+14\. Sonic Wire Plan
 ====================
 
 [Sonic Wire Plan](https://help.sonic.com/hc/en-us/articles/235967608-Sonic-Wire-Plan)
 
-14\. Legal Process Policy
+15\. Legal Process Policy
 =========================
 
 [Legal Process Policy](https://help.sonic.com/hc/en-us/articles/236030167-Legal-Process-Policy)
 
-15\. Regulatory
+16\. Regulatory
 ===============
 
 **[CA Tariff - Local Exchange Services](https://help.sonic.com/hc/en-us/articles/115000380368-Local-Exchange-Services "SonicTariff.pdf")**
 
-16\. Terms and Conditions of Global Calling
+17\. Terms and Conditions of Global Calling
 ===========================================
 
 Sonic’s Global Calling feature is for normal residential use only and can’t be used for commercial or other special purposes. Global Calling is subject to reasonable use parameters as determined by Sonic. Customers are liable for all charges incurred from fraudulent use.
