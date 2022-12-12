@@ -197,7 +197,7 @@ When you visit or access the Service, we may – by means of cookies, beacons, t
 * Mobile analytic tools to allow us to better understand the functionality of our mobile software on your device and gain insights about how mobile software is used;
 * Gather important functionality, testing, and performance data about our Service, including performance data related to our mobile application, the Roblox Player, and Roblox Studio, such as networking activity, CPU load, and resource usage, among other relevant data;
 * Moderate user behavior on the Service, such as protecting against payment fraud and other inappropriate activities;
-* Gather demographic information about our user base; and;
+* Gather demographic information about our user base; and
 * Perform other similar functions.
 
 We will not use cookies or similar technologies other than for the purposes stated in this Privacy Policy.
