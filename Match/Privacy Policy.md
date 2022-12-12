@@ -23,7 +23,7 @@ Welcome to MATCH’s Privacy Policy. Thank you for taking the time to read it.
 
 We appreciate that you trust us with your information and we intend to always keep that trust. This starts with making sure you understand the information we collect, why we collect it, how it is used and your choices regarding your information. This Policy describes our privacy practices in plain language, keeping legal and technical jargon to a minimum.
 
-This Privacy Policy applies from 29/04/2022.
+This Privacy Policy applies from 13/12/2022.
 
 The previous version of this Privacy Policy, available [here](https://uk.match.com/pages/misc/privacy_042022?styled=1), applies until then.
 
@@ -118,7 +118,7 @@ We collect information from and about the device(s) you use to access our servic
 
 * **Other Information with your Consent**
 
-If you give us permission, we can collect your precise geolocation (latitude and longitude). The collection of your geolocation may occur in the background even when you aren’t using the services if the permission you gave us expressly permits such collection. If you decline permission for us to collect your precise geolocation, we will not collect it. Similarly, if you consent, we may collect photos and videos (for instance, if you want to publish a photo or video or participate in streaming features on our services).
+If you give us permission, we can collect your precise geolocation (latitude and longitude). The collection of your geolocation may occur in the background even when you aren’t using the services if the permission you gave us expressly permits such collection. If you decline permission for us to collect your precise geolocation, we will not collect it. Similarly, if you consent, we may collect photos and videos (for instance, if you want to publish a photo or video or participate in streaming features on our services). Additionally, if you choose to participate in our Selfie Verification feature, we collect your face geometry data, which may be considered biometric data in some jurisdictions, to verify that you’re the real you. You can learn more about Selfie Verification and how we process your face geometry data [here](https://uk.match.com/faq/?answer=0309_ProfileVerifiedPhoto).
 
 4\. COOKIES AND OTHER SIMILAR DATA COLLECTION TECHNOLOGIES
 ----------------------------------------------------------
