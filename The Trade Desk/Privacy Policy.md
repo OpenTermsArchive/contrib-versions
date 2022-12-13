@@ -124,7 +124,7 @@ DNT is a privacy preference that you may set in certain browsers or may be prese
 
 **YOUR RIGHTS**
 
-You have the right to request access to or deletion of the information we have collected about you through our Websites. If you’d like to access, update, correct, or request deletion of your information that you have provided to us on our Websites or elsewhere, please send your request to us at [\[email protected\]](https://www.thetradedesk.com/cdn-cgi/l/email-protection#removed). We may take reasonable steps to confirm your identity. You will not be discriminated against for the exercise of such rights (for example, we will not provide you with a different level or quality of goods or services).
+You have the right to request access to or deletion of the information we have collected about you through our Websites. If you’d like to access, update, correct, or request deletion of your information that you have provided to us on our Websites or elsewhere, please send your request to us at [\[email protected\]](https://www.thetradedesk.com/cdn-cgi/l/email-protection). We may take reasonable steps to confirm your identity. You will not be discriminated against for the exercise of such rights (for example, we will not provide you with a different level or quality of goods or services).
 
 **INTERNATIONAL TRANSFERS**
 
