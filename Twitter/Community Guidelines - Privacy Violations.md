@@ -3,7 +3,7 @@ Private information and media policy
 
 ### Overview 
 
-**December 2022**
+**April 2022**
 
 **You may not publish or post other people's private information without their express authorization and permission. We also prohibit threatening to expose private information or incentivizing others to do so.**
 
@@ -18,11 +18,11 @@ When reviewing reports under this policy, we consider a number of things, includ
 
 **What type of information is being shared?  
 **  
-We take this into consideration because certain types of private or live information carry higher risks than others, if they’re shared without permission. Our primary aim is to protect individuals from potential physical harm as a result of their information being shared, so we consider information such as physical location and phone numbers to be a higher risk than other types of information. We define “live” as real-time and/or same-day information where there is potential that the individual could still be at the named location.  
+We take this into consideration because certain types of private information carry higher risks than others, if they’re shared without permission. Our primary aim is to protect individuals from potential physical harm as a result of their information being shared, so we consider information such as physical location and phone numbers to be a higher risk than other types of information.   
 
 **Who is sharing the information?**  
   
-We also consider who is sharing the reported information and whether or not they have the consent of the person it belongs to. We do this because we know that there are times when people may want some forms of their personal information to be shared publicly. For example, sharing a personal phone number or email for professional networking or to coordinate social events or publicly sharing someone’s home addresses or live locations to seek help after a natural disaster.   
+We also consider who is sharing the reported information and whether or not they have the consent of the person it belongs to. We do this because we know that there are times when people may want some forms of their personal information to be shared publicly. For example, sharing a personal phone number or email for professional networking or to coordinate social events or publicly sharing someone’s home addresses to seek help after a natural disaster.   
  
 
 **Is the information available elsewhere online?  
@@ -32,7 +32,7 @@ If the reported information was shared somewhere else before it was shared on Tw
 
 **Why is the information being shared?  
 **  
-We also factor in the intent of the person sharing the information. For example, if we believe that someone is sharing information with an abusive intent, or to harass or encourage others to harass another person, we will take action. On the other hand, if someone is sharing information in an effort to help someone involved in a crisis situation like in the aftermath of a violent event, we may not take action. Note: regardless of intent, if the information is not shared during a crisis situation to assist with humanitarian efforts or in relation to public engagement events, we will remove any tweets or accounts that share someone’s live location.
+We also factor in the intent of the person sharing the information. For example, if we believe that someone is sharing information with an abusive intent, or to harass or encourage others to harass another person, we will take action. On the other hand, if someone is sharing information in an effort to help someone involved in a crisis situation like in the aftermath of a violent event, we may not take action. 
 
 **  
 Sharing private media:**
@@ -44,7 +44,6 @@ Posting images is an important part of our users' experience on Twitter. Where i
 Under this policy, you can’t share the following types of private information, without the permission of the person who it belongs to:
 
 * home address or physical location information, including street addresses, GPS coordinates or other identifying information related to locations that are considered private;
-* live location information, including information shared on Twitter directly or links to 3rd-party URL(s) of travel routes, actual physical location, or other identifying information that would reveal a person’s location, regardless if this information is publicly available;
 * identity documents, including government-issued IDs and social security or other national identity numbers – note: we may make limited exceptions in regions where this information is not considered to be private;
 * contact information, including non-public personal phone numbers or email addresses; 
 * financial account information, including bank account and credit card details;
@@ -65,8 +64,7 @@ The following behaviors are also not permitted: 
 The following are not in violation of this policy:
 
 * people sharing their own private information;
-* sharing publicly available location information after a reasonable time has elapsed, so that the individual is no longer at risk for physical harm
-* sharing information that is publicly available elsewhere, in a non-abusive manner (with the exception of live location information); and
+* sharing information that is publicly available elsewhere, in a non-abusive manner; and
 * sharing information that we don’t consider to be private, including:
     * name;
     * birthdate or age;
@@ -136,10 +134,9 @@ You can also report this content for review via [our private information report 
   
 When determining the penalty for violating this policy, we consider a number of factors including, but not limited to, the severity of the violation and an individual’s previous record of rule violations. 
 
-**Sharing private or live location information:**
+**Sharing private information:**
 
 * The first time you violate this policy by sharing private information (such as home address, identity documents etc.), we will require you to remove this content. We will also temporarily lock you out of your account before you can Tweet again. If you violate this policy by posting private information again after your first warning, your account will be permanently suspended. 
-* If your account is dedicated to sharing someone’s live location, your account will be automatically suspended.
 
 **Sharing private media:** 
 
