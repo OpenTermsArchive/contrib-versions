@@ -6,7 +6,7 @@ User Agreement
 
 
 
-08/23/2022
+03/25/2022
 
 
 
@@ -54,13 +54,11 @@ and use, if applicable.
 
 
 
-4. Any content that you post to the Services—including content posted in Direct
+4. Any content that you post to the Services must satisfy all of the following
 
-Messages—must satisfy all of the following criteria, and you affirm that any
+criteria, and you affirm that any content posted, submitted, or otherwise provided by
 
-content posted, submitted, or otherwise provided by you to the Services satisfies these
-
-criteria:
+you to the Services satisfies these criteria:
 
 
 
@@ -78,8 +76,6 @@ regulations that may apply.
 
 and trademark rights) of any other person or entity.
 
-2
-
 
 
 4.4 The content does not include non-public personal private information belonging to
@@ -87,6 +83,8 @@ and trademark rights) of any other person or entity.
 someone else, such as another person’s birthdate, home address, or telephone
 
 number.
+
+2
 
 
 
@@ -103,16 +101,6 @@ Services, nor does Parler endorse any opinions expressed through the Services. A
 content is the sole responsibility of the person who originated the content, and
 
 Parler does not take responsibility for such content.
-
-While Parler’s Direct Messaging feature is encrypted, the content of any message
-
-may be reported by its recipient, using a “franking” feature provided. Accordingly,
-
-Parler’s prohibitions against illegal content, including fraud, threats or incitement,
-
-child sexual abuse materials, intellectual property theft, doxing, etc., are applicable
-
-and enforceable to Direct Messages as with content posted throughout the Services.
 
 4.6 With respect to any content you contribute that uses YouTube services via Parler,
 
@@ -168,10 +156,6 @@ earn a limited right to exchange Virtual Items for a limited license to use cert
 
 features of the Services. Any virtual token balance shown in your account does not
 
-3
-
-
-
 constitute a real-world balance or reflect any stored value, but instead constitutes a
 
 measurement of the extent of your ability to procure such limited license to use certain
@@ -189,6 +173,10 @@ world of anything that appears or originates in the Services, unless otherwise
 expressly authorized by Parler in writing. Accordingly, you may not sublicense, trade,
 
 sell, or attempt to sell Virtual Items for real money, or exchange Virtual Items for value
+
+3
+
+
 
 of any kind outside of the Services, without Parler’s written permission. Any such
 
@@ -260,10 +248,6 @@ Services; by accessing the Services for any purpose that competes with the inter
 
 of Parler; by spamming Parler community members; by failing to respond to
 
-4
-
-
-
 operational communications or requests from Parler; or through any other type of
 
 interference with the Services or Parler’s relationships with others.
@@ -281,6 +265,10 @@ exposure for Parler, or (c) you are otherwise engaging in unlawful conduct—alt
 Parler endeavors to allow all free speech that is lawful and does not infringe the legal
 
 rights of others. Any invitation made by Parler to you to use the Services or submit
+
+4
+
+
 
 content to the Services, or the fact that Parler may receive a benefit from your use of
 
@@ -352,8 +340,6 @@ support@parler.com.
 
 Supported carriers are:
 
-5
-
 
 
 AT\&T, Sprint, T-Mobile®, Verizon Wireless, Boost, Cricket, MetroPCS, U.S. Cellular,
@@ -373,6 +359,10 @@ EpicTouch, GCI Communications, Golden State, Hawkeye (Chat Mobility), Hawkeye
 (NW Missouri Cellular), i Wireless (IOWA Wireless), Illinois Valley Cellular, Immix
 
 (Keystone Wireless / PC Management), Inland Cellular, Mobi PCS (Coral Wireless
+
+5
+
+
 
 LLC), Mosaic, MTA Communications, MTPCS / Cellular One (Cellone Nation), Nex-
 
@@ -438,10 +428,6 @@ LIABLE TO YOU FOR ANY DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL,
 
 SPECIAL, OR PUNITIVE DAMAGES, OR FOR ANY LOST PROFITS, WHETHER
 
-6
-
-
-
 INCURRED DIRECTLY OR INDIRECTLY, OR FOR INTANGIBLE LOSSES, ARISING
 
 FROM (a) YOUR ACCESS TO OR USE OF (OR INABILITY TO ACCESS OR USE) THE
@@ -457,6 +443,10 @@ OFFENSIVE, OR ILLEGAL CONDUCT OF OTHER PERSONS OR THIRD PARTIES;
 ACCESS, USE, OR ALTERATION OF YOUR CONTENT OR COMMUNICATIONS
 
 THROUGH THE SERVICES. IN NO EVENT SHALL THE AGGREGATE LIABILITY OF
+
+6
+
+
 
 PARLER ARISING OUT OF OR RELATING TO THESE TERMS OR THE SERVICES
 
@@ -522,10 +512,6 @@ Commercial Arbitration Rules of the American Arbitration Association (“AAA”)
 
 existing, unless all parties to any such claim, controversy or dispute, or other
 
-7
-
-
-
 matter in question, unanimously agree to the contrary. The provisions contained in
 
 this Paragraph shall be specifically enforceable under the prevailing arbitration law.
@@ -543,6 +529,10 @@ Washington, DC’s applicable code of civil procedure. The remedial authority of
 arbitrator or arbitrators will be the same as, but no greater than, would be the
 
 remedial power of a court having jurisdiction over the Parties and their dispute. The
+
+7
+
+
 
 arbitrator or arbitrators will render a written opinion based on Washington, DC law,
 
@@ -602,4 +592,4 @@ will remain in effect.
 
 
 
-Last Updated: August 23, 2022.
+Last Updated: March 25, 2022.
