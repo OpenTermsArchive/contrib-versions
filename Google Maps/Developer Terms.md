@@ -501,8 +501,6 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
                 
             * Fluo Grand Est - Pays du Sel et du Vermois. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-cc-des-pays-du-sel-et-du-vermois/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-cc-des-pays-du-sel-et-du-vermois/))
                 
-            * Communauté d'Agglomération Ventoux Comtat Venaissin - Trans'CoVe. ([https://transport.data.gouv.fr/datasets/reseau-de-transport-en-commun-de-la-communaute-agglomeration-ventoux-comtat-venaissin](https://transport.data.gouv.fr/datasets/reseau-de-transport-en-commun-de-la-communaute-agglomeration-ventoux-comtat-venaissin))
-                
             * Fluo Grand Est - réseau TUB. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-tub-communaute-dagglomeration-bar-le-duc-sud-meuse/](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-tub-communaute-dagglomeration-bar-le-duc-sud-meuse/))
                 
             * Occitanie Pyrénées en Intelligence Géomatique - Grand Narbonne. ([https://transport.data.gouv.fr/datasets/arrets-de-bus-communaute-dagglomeration-le-grand-narbonne-2](https://transport.data.gouv.fr/datasets/arrets-de-bus-communaute-dagglomeration-le-grand-narbonne-2))
