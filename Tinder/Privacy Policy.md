@@ -20,9 +20,9 @@ Welcome to Tinder’s Privacy Policy. Thank you for taking the time to read it.
 
 We appreciate that you trust us with your information and we intend to always keep that trust. This starts with making sure you understand the information we collect, why we collect it, how it is used and your choices regarding your information. This Policy describes our privacy practices in plain language, keeping legal and technical jargon to a minimum.
 
-This Privacy Policy applies from December 19, 2022. The [previous version of this Privacy Policy](https://policies.tinder.com/privacy-2022-12-13) applies until then.
+This Privacy Policy applies from December 19, 2022. The [previous version of this Privacy Policy](https://policies.tinder.com/privacy/intl/2022-12-13) applies until then.
 
-EFFECTIVE DATE: December 19, 2022
+EFFECTIVE DATE: January 17, 2022
 
 1. [Who We Are](#who-we-are)
 2. [Where This Privacy Policy Applies](#where-this-applies)
