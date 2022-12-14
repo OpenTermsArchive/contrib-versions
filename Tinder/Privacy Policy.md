@@ -1,3 +1,5 @@
+This Privacy Policy applies from December 19, 2022. The [previous version of this Privacy Policy](https://policies.tinder.com/privacy/us/2022-12-13) applies until then.
+
 Our Commitment To You
 ---------------------
 
@@ -121,7 +123,7 @@ When you use our services, this generates technical data about which features yo
 
 * **Usage Information** Using the services generates data about your activity on our services, for instance how you use them (e.g., when you logged in, features you’ve been using, actions taken, information shown to you, referring webpages address and ads that you interacted with) and your interactions with other members (e.g., members you connect and interact with, when you exchanged with them, number of messages you send and receive).
 * **Device information** We collect information from and about the device(s) you use to access our services, including hardware and software information such as IP address, device ID and type, apps settings and characteristics, app crashes, advertising IDs (which are randomly generated numbers that you can reset by going into your device’ settings), identifiers associated with cookies or other technologies that may uniquely identify a device or browser.
-* **Other information with your consent** If you give us permission, we can collect your precise geolocation (latitude and longitude). The collection of your geolocation may occur in the background even when you aren’t using the services if the permission you gave us expressly permits such collection. If you decline permission for us to collect your precise geolocation, we will not collect it. Similarly, if you consent, we may collect photos and videos (for instance, if you want to publish a photo or video or participate in streaming features on our services).
+* **Other information with your consent** If you give us permission, we can collect your precise geolocation (latitude and longitude). The collection of your geolocation may occur in the background even when you aren’t using the services if the permission you gave us expressly permits such collection. If you decline permission for us to collect your precise geolocation, we will not collect it. Similarly, if you consent, we may collect photos and videos (for instance, if you want to publish a photo or video or participate in streaming features on our services). Additionally, if you choose to participate in our Photo Verification feature, we collect your face geometry data, which may be considered biometric data in some jurisdictions, to verify that you’re the real you. [Learn more](https://www.help.tinder.com/hc/en-us/articles/4422771431309-How-Does-Photo-Verification-Work-) about Photo Verification and how we process your face geometry.
 
 ### 4\. Cookies and Other Similar Data Collection Technologies
 
