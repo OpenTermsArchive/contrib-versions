@@ -70,6 +70,6 @@ You can control individual cookie preferences, indicate your cookie preferences 
 
 Some Mozilla websites allow you to make purchases (such as apps or gear), contribute funds to specific Mozilla projects, or make donations in support of Mozilla public and charitable programs. These transactions are often handled by Mozilla’s third party vendors.
 
-* **Payment Processing**: Except for payments made by check, money order, and direct debit, and wire transfers, Mozilla does not receive any financial information, which is transmitted from you to the named third party vendor for processing (e.g., Braintree, PayPal, Bitpay, Stripe).
+* **Payment Processing**: Except for payments made by check, money order, and direct debit, and wire transfers, Mozilla does not receive any financial information, which is transmitted from you to the named third party vendor for processing (e.g., Braintree, PayPal, Bitpay, Stripe). In addition, foundation.mozilla.org utilizes a third-party called Fundraise Up to manage the donation checkout.
     
 * **Personal Data**: We may also receive your name, mailing address, and/or email address. This data is used for fraud detection and record-keeping. We use [Acoustic](https://acoustic.com/privacy-notice/) to email receipts and store records, which are retained for four years from the date of last payment.
