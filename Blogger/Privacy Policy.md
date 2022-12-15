@@ -125,13 +125,13 @@ We use the information we collect in existing services to help us develop new on
 
 We use the information we collect to customise our services for you, including providing recommendations, personalised content and [customised search results](https://policies.google.com/privacy?hl=en-GB#footnote-customized-search). For example, [Security Check-Up](https://myaccount.google.com/security-checkup?hl=en_GB) provides security tips adapted to how you use Google products. And Google Play uses information such as apps that you’ve already installed and videos that you’ve watched on YouTube to suggest new apps you might like.
 
-Depending on your settings, we may also show you [personalised ads](https://policies.google.com/privacy?hl=en-GB#footnote-personalized-ads) based on your interests. For example, if you search for 'mountain bikes', you may see an ad for sports equipment when you’re browsing a site that shows ads served by Google. You can control what information we use to show you ads by visiting your ad settings.
+Depending on your settings, we may also show you [personalised ads](https://policies.google.com/privacy?hl=en-GB#footnote-personalized-ads) based on your interests. For example, if you search for 'mountain bikes', you may see an ad for sports equipment when you’re browsing a site that shows ads served by Google. You can control what information we use to show you ads by visiting your Ad Settings in [My Ad Centre](https://myadcenter.google.com/?hl=en_GB).
 
 * We don’t show you personalised ads based on [sensitive categories](https://policies.google.com/privacy?hl=en-GB#footnote-sensitive-categories), such as race, religion, sexual orientation or health.
 * We don’t show you personalised ads based on your content from Drive, Gmail or Photos.
 * We don’t share information that personally identifies you with advertisers, such as your name or email, unless you ask us to. For example, if you see an ad for a nearby flower shop and select the 'tap to call' button, we’ll connect your call and may share your phone number with the flower shop.
 
-[Go to Ad Settings](https://adssettings.google.com/?ref=privacy-policy&hl=en_GB)
+[Go to My Ad Centre](https://myadcenter.google.com/?hl=en_GB)
 
 ### Measure performance
 
@@ -183,7 +183,7 @@ Decide what types of activity you’d like saved in your account. For example, i
 
 Manage your preferences about the ads shown to you on Google and on sites and apps that [partner with Google](https://policies.google.com/privacy?hl=en-GB#footnote-partner) to show ads. You can modify your interests, choose whether your personal information is used to make ads more relevant to you, and turn on or off certain advertising services.
 
-[Go to Ad Settings](https://adssettings.google.com/?ref=privacy-policy&hl=en_GB)
+[Go to My Ad Centre](https://myadcenter.google.com/?hl=en_GB)
 
 ### About you
 
@@ -227,7 +227,7 @@ When you’re signed out, you can manage information associated with your browse
 
 * Signed-out search personalisation: [Choose](https://www.google.com/history/optout?hl=en_GB) whether your search activity is used to offer you more relevant results and recommendations.
 * YouTube settings: Pause and delete your [YouTube Search History](https://www.youtube.com/feed/history/search_history?hl=en_GB) and your [YouTube Watch History](https://www.youtube.com/feed/history?hl=en_GB).
-* Ad Settings: [Manage](https://adssettings.google.com/?ref=privacy-policy&hl=en_GB) your preferences about the ads shown to you on Google and on sites and apps that partner with Google to show ads.
+* Ad Settings: [Manage](https://myadcenter.google.com/?hl=en_GB) your preferences about the ads shown to you on Google and on sites and apps that partner with Google to show ads.
 
 Exporting, removing & deleting your information
 -----------------------------------------------
@@ -465,7 +465,6 @@ The following links highlight useful resources for you to learn more about our p
 * [Technologies](https://policies.google.com/technologies?hl=en-GB) includes more information about:
     * [How Google uses cookies](https://policies.google.com/technologies/cookies?hl=en-GB)
     * Technologies used for [Advertising](https://policies.google.com/technologies/ads?hl=en-GB)
-    * [How Google uses pattern recognition](https://policies.google.com/technologies/pattern-recognition?hl=en-GB) to recognise things such as faces in photos
     * [How Google uses information from sites or apps that use our services](https://policies.google.com/technologies/partner-sites?hl=en-GB)
 
 Key terms
