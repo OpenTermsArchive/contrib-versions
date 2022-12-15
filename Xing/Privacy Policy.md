@@ -27,7 +27,7 @@ We, New Work SE, assume the role of controller as per the [EU General Data Prote
 
 #### Data Protection Officer
 
-Our Data Protection Officer is Felix Lasse, Am Strandkai 1, 20457 Hamburg, Germany, contact link: [https://www.xing.com/support/contact/security/data\_protection](https://www.xing.com/support/contact/security/data_protection).
+Our Data Protection Officer is Felix Lasse, Am Strandkai 1, 20457 Hamburg, Germany, e-mail: [Datenschutzbeauftragter@xing.com](mailto:datenschutzbeauftragter@xing.com).
 
 #### Processing for another purpose
 
@@ -400,7 +400,7 @@ One reason for tracking is to ensure and preserve the legitimate interest of the
 
 We mainly use tracking and the associated user behaviour analysis to meet our contractual obligations and to perform pre-contractual measures. The legal basis for this processing of personal data is Article 6 (1) b) of the EU General Data Protection Regulation (GDPR). If tracking is not used to meet our contractual obligations or to perform pre-contractual measures, but to provide the service you visit or use, the legal basis for this processing is Article 6 (1) f) of the EU General Data Protection Regulation (GDPR). To this end, we pursue the legitimate interest of providing you with a smooth and user-friendly service.
 
-Tracking and analysing user behaviour helps us to review and optimise the effectiveness of our service, and to identify and correct any errors and faults. To this end, we also use several services from third-party providers, such as Google. If we use third-party providers, data may be processed outside of the EU in so-called third countries where the level of data protection applied may not match EU standards. This means there is a risk that authorities in third countries may be able to access third-party provider data, possibly without any means of redress, for monitoring or surveillance purposes. We endeavour at all times to adapt our products and services to the needs of our users. Personalisation is an important aspect here. Analysing data obtained from tracking is necessary to make personalised services available to you in accordance with the contractual purpose of [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) and to ensure that you gain the greatest possible benefit from [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing). The implicit feedback that you provide to us through our tracking of your usage of [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) forms an important part of understanding what content you are more or less interested in, and being able to suggest you to other users as a valuable business contact or potential employee. This implicit feedback is enormously important as the information you provide to us is reflective of the past and the present for the most part, and says little about what interests you have with regard to the future. Interest profiles produced, for example, with the help of click data or searches you have conducted often form a better basis for estimating whether you, for example, are interested in finding a new job and what type of job openings you might be particularly interested in. When you delete your user account we delete or anonymise the [personal data](https://privacy.xing.com/en/privacy-policy/glossary/personal-data) we have obtained through tracking in order to provide our service.
+Tracking and analysing user behaviour helps us to review and optimise the effectiveness of our service, and to identify and correct any errors and faults. To this end, we also use several services from third-party providers, such as Google. If we use third-party providers, data may be processed outside of the EU in so-called third countries where the level of data protection applied may not match EU standards. This means there is a risk that authorities in third countries may be able to access third-party provider data, possibly without any means of redress, for monitoring or surveillance purposes. We endeavour at all times to adapt our products and services to the needs of our users. Personalisation is an important aspect here. Analysing data obtained from tracking is necessary to make personalised services available to you in accordance with the contractual purpose of [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) and to ensure that you gain the great possible benefit from [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) The implicit feedback that you provide to us through our tracking of your usage of [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) forms an important part of understanding what content you are more or less interested in, and being able to suggest you to other users as a valuable business contact or potential employee. This implicit feedback is enormously important as the information you provide to us is reflective of the past and the present for the most part, and says little about what interests you have with regard to the future. Interest profiles produced, for example, with the help of click data or searches you have conducted often form a better basis for estimating whether you, for example, are interested in finding a new job and what type of job openings you might be particularly interested in. When you delete your user account we delete or anonymise the [personal data](https://privacy.xing.com/en/privacy-policy/glossary/personal-data) we have obtained through tracking in order to provide our service.
 
 #### Examples
 
@@ -472,14 +472,6 @@ Tracking and processing of your data as described here are based on your consent
 
 In the following you will find further information about the tracking technologies used and information from providers about data processing.
 
-#### Adform
-
-More information is available [here](https://site.adform.com/privacy-center/overview)
-
-#### Adobe DMP
-
-More information is available [here](https://www.adobe.com/privacy/policy.html)
-
 #### ADITION
 
 More information is available [here](https://www.adition.com/datenschutz)
@@ -499,14 +491,6 @@ More information is available [here](https://www.criteo.com/privacy/)
 #### Google
 
 More information is available [here](https://policies.google.com/technologies/partner-sites)
-
-#### Instapage
-
-More information is available [here](https://instapage.com/privacy-policy)
-
-#### IQ Digital
-
-More information is available [here](https://www.iqdigital.de/Ueber-uns/Datenschutz)
 
 #### LinkedIn
 
@@ -547,14 +531,6 @@ More information in German is available [here](https://www.rtbhouse.com/rtbhouse
 #### Snap Pixel
 
 More information is available [here](https://www.snap.com/de-DE/privacy/privacy-center)
-
-#### Teads
-
-More information is available [here](https://www.teads.com/privacy-policy/)
-
-#### The Trade Desk
-
-More information is available [here](https://www.thetradedesk.com/us/privacy)
 
 #### Taboola
 
