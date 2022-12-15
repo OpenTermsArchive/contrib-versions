@@ -1,274 +1,233 @@
-**Coins Policy**
-----------------
+**Politique relative aux Pièces de monnaie**
+--------------------------------------------
 
-_Last updated:_ June 2022
+_Dernière mise à jour: juin 2022_
 
-**This Coins Policy applies to users resident in the European Economic Area, Switzerland and the UK.**
+**La présente Politique relative aux Pièces de monnaie s’applique aux utilisateurs résidant dans l’Espace économique européen, en Suisse et au Royaume-Uni.**
 
-**You must be at least 18 years old to buy and use Coins on the Platform.**
+**Vous devez être âgé(e) d’au moins 18 ans pour acheter et utiliser des Pièces de monnaie sur la Plateforme.**
 
-This Coins Policy (“**Coins Policy**”) sets out the terms and conditions that govern the purchase and use of Coins on the Platform. The purchase and use of Coins on the Platform is entirely voluntary.
+La présente Politique relative aux Pièces de monnaie (« **Politique relative aux Pièces de monnaie** ») énonce les conditions qui régissent l’achat et l’utilisation de Pièces de monnaie sur la Plateforme. L’achat et l’utilisation de Pièces de monnaie sur la Plateforme sont entièrement optionnels.
 
-TikTok Information Technologies UK Limited (a company registered in England) and TikTok Technology Limited (a company registered in Ireland) jointly make Coins available via the Platform. However, the TikTok entity that is solely responsible for any payment, financial or tax obligations in relation to Coins is TikTok Information Technologies UK Limited.
+TikTok Information Technologies UK Limited (une société anglaise) et TikTok Technology Limited (une société irlandaise) mettent conjointement à disposition des Pièces de monnaie via la Plateforme. Cependant, TikTok Information Technologies UK Limited est la seule entité responsable de toutes les obligations de paiement, financières ou fiscales relatives aux Pièces de monnaie.
 
-Capitalised terms not defined in this Coins Policy have the meanings given to them in our [Terms of Service](https://www.tiktok.com/legal/terms-of-service-eea?lang=en) and our [Rewards Policy](https://www.tiktok.com/legal/rewards-policy-eea?lang=en). Our [Terms of Service](https://www.tiktok.com/legal/terms-of-service-eea?lang=en) apply to your purchase and use of Coins on the Platform and our [Privacy Policy](https://www.tiktok.com/legal/privacy-policy-us?lang=en) describes how we process your personal data.
-
-  
-
-### **1.** **What are Coins and how can you use them?**
-
-Coins are virtual items that can be purchased by users of the Platform (“**Coins**”). Coins can only be used on the Platform as a way to activate or access other virtual items or services that may be made available on the Platform from time to time (“**Virtual Items**”).
-
-The number of Coins that are needed to activate or access Virtual Items will be displayed to you in advance, so, before you buy Coins, you should check how many you need. When you purchase Coins, the cost per Coin differs depending on how many you buy at one time and where you buy them. We will make the total price of the Coin package clear to you when you are buying Coins. You can track your spending on Coins, and how you use them to access Virtual Items, using the following tools:
-
-* The total number of Coins in your account will be updated each time you purchase Coins or use them in exchange for Virtual Items. Your account balance is shown in your Settings (_Settings and privacy > Balance_) and any time you are about to use Coins to activate or access Virtual Items.
-
-* In your Balance, you can view your Transaction History which shows you how much you have spent in local currency on Coins.
-
-* In the Recharge section of your Balance, you can also view your Coin History which shows you how you have used Coins on the Platform.
-
-### **_Using Coins to activate Gifts_**
-
-Gifts are Virtual Items that can be activated using Coins.
-
-You can send Gifts to interact with and show your appreciation for the content on the Platform in accordance with our [Terms of Service](https://www.tiktok.com/legal/terms-of-service-eea?lang=en). When you send a Gift, other users of the Platform can see your username and the details of the Gift that you sent. By sending Gifts, you are not transferring money to other users of the Platform. Instead, the type and number of Gifts sent is a factor used by TikTok in calculating the popularity of user content when awarding Diamonds to the creators of such content, along with other factors which may apply depending on the Program, such as the duration or frequency of that content. Diamonds can be used to obtain money from TikTok in accordance with our [Rewards Policy](https://www.tiktok.com/legal/rewards-policy-eea?lang=en).
-
-As Gifts are automatically activated with immediate effect, they are not returnable or refundable for either Coins or money.
-
-### **2.** **How do you buy Coins?**
-
-Coins can be purchased either through a third party app store (like Apple’s App Store or the Google Play Store) or, in some countries, directly from TikTok through TikTok websites (“**WebApp**”). TikTok may allow for additional ways to obtain Coins at its discretion.
-
-Wherever you buy your Coins, you must:
-
-1. be a registered user of the Platform; and
-
-2. be at least 18 years old. We may refuse your request to buy Coins where we reasonably believe that you are underage.
-
-If you buy Coins directly from TikTok, e.g. through the WebApp, the following terms apply:
-
-* The total price payable by you for the Coins will be displayed to you at the point of purchase. We will display the total price on the page where the Coins are advertised for sale.
-
-* The Coins will be downloaded into your account as soon as we receive your payment.
-
-* We always do our best to ensure that we credit your account with the correct number of Coins. If, for any reason, a mistake is made when crediting your account, we will contact you and correct the mistake as soon as we can.
-
-* If your payment method is declined, your order will be cancelled automatically. We are not responsible for any issues between you and your card issuer, bank or other payment service provider.
-
-If you buy Coins through a third party app store, like Apple’s App Store or the Google Play Store, then the applicable store’s terms of in-app purchases apply. If you have any questions about buying Coins through a third party app store (including if you wish to cancel any purchase of Coins that you have made), you need to contact the relevant store.
-
-### **_Withdrawal Rights, Refunds and Guarantees_**
-
-If you have purchased Coins directly from TikTok, e.g. through the WebApp, then, except as otherwise required by the applicable law of your country, we will not provide you with a refund unless the Coins are defective.
-
-If you live in the EEA or the UK, you have certain rights to withdraw from online purchases under consumer laws. If you have purchased Coins directly from TikTok:
-
-* You have 14 days to withdraw from your purchase of Coins and request a refund, starting from the day after you purchase Coins (the “**Withdrawal Period**”). You don’t have to give us any reason to request a refund.
-
-* You will not be able to request a refund (i) after the Withdrawal Period or (ii) for any Coins you have used during the Withdrawal Period.
-
-* To withdraw from your purchase of Coins, please contact our customer support team [here](https://www.tiktok.com/legal/report/transaction) and provide us with the transaction ID of the purchase that you wish to withdraw from. Alternatively, you can complete and send us the model withdrawal form [here](https://www.tiktok.com/legal/model-withdrawal-form-eea?lang=en).
-
-* If you withdraw from your purchase, we will provide you with a refund of the payment received from you for the Coins. Refunds will be issued to the original payment method and may take up to 7 business days to appear in your account, depending on the payment method used to make the purchase. TikTok will not charge you any fees in connection with the refund.
-
-If you have purchased Coins through a third party app store, like Apple’s App Store or the Google Play Store, then you need to contact the relevant app store about refunds.
-
-If you live in the EEA, then EEA consumer laws provide you with a legal guarantee covering the Coins. Under this guarantee, we are liable for any lack of conformity you discover within two years of the supply of the Coins. Your national laws may provide an even longer guarantee. If you have any questions about your legal guarantee, please contact us [here](https://www.tiktok.com/legal/report/feedback?lang=en).
-
-### **3.** **Your Rights**
-
-We give you permission (called a licence) to use Coins and Virtual Items for your personal use on the Platform. This means that you have no right or title in Coins or Virtual Items except as expressly stated in this Coins Policy. You may not buy, sell or exchange Coins or Virtual Items outside of the Platform, or attempt to sell, give or trade Coins or Virtual Items otherwise than as expressly permitted in this Coins Policy.
-
-Coins do not have an expiry date. For legal, regulatory or business reasons, we may decide to stop offering Coins or Virtual Items to certain categories of users, or in certain countries or regions, or we may decide to stop offering Coins or Virtual Items entirely. If we do so, and our decision affects you, we will give you reasonable advance notice. In this notice, we will let you know how long you will have to use the Coins in your account_._
-
-We may terminate or suspend your right to buy or use Coins, or to access Virtual Items, immediately and without notice if we have a legitimate reason to do so, including any serious or repeated breach by you of our [Terms of Service](https://www.tiktok.com/legal/terms-of-service-eea?lang=en) or [Community Guidelines](https://www.tiktok.com/community-guidelines?lang=en). If you believe that we have made an error in this regard, you can either follow the instructions to appeal on the Community Guidelines violation notice (if applicable) or you can get in touch using our feedback form [here](https://www.tiktok.com/legal/report/feedback?lang=en).
-
-You may terminate your account at any time by closing your account and stopping your use of the Platform. Instructions for how to do this are in our [Help Centre](https://support.tiktok.com/en/).
-
-If your account on the Platform is terminated during the Withdrawal Period for Coins that you have purchased, you may request a refund for any unused Coins as set out in Withdrawal Rights, Refunds and Guarantees in section 2 above. Otherwise, you will not be entitled to a refund for unused Coins, so, we encourage you, where possible, to use your Coins before you cease to have access to your account on the Platform.
-
-### **4.** **Contact us**
-
-If you have any problems when buying Coins from the WebApp, or using Coins or Virtual Items, or have a question concerning any aspect of this Coins Policy, please contact us [here](https://www.tiktok.com/legal/report/feedback?lang=en).
-
-**Additional languages (please also see the language settings for other available languages)**
-----------------------------------------------------------------------------------------------
-
-* Bulgarian: [български](https://www.tiktok.com/legal/bul-coin-policy-eea?lang=en)  
-    
-
-* Croatian: [Cruatu](https://www.tiktok.com/legal/hr-coin-policy-eea?lang=en)  
-    
-
-* Danish: [Dansk](https://www.tiktok.com/legal/da-coin-policy-eea?lang=en)  
-    
-
-* Estonian: [Eesti keel](https://www.tiktok.com/legal/et-coin-policy-eea?lang=en)  
-    
-
-* Latvian: [Latviski](https://www.tiktok.com/legal/lv-coin-policy-eea?lang=en)  
-    
-
-* Lithuanian: [Lietuvių](https://www.tiktok.com/legal/lt-coin-policy-eea?lang=en)  
-    
-
-* Norwegian: [Norsk](https://www.tiktok.com/legal/nb-coin-policy-eea?lang=en)  
-    
-
-* Slovak: [Slovenský](https://www.tiktok.com/legal/sk-coin-policy-eea?lang=en)  
-    
+Les termes commençant par une majuscule qui ne sont pas définis dans la présente Politique relative aux Pièces de monnaie ont la signification qui leur est donnée dans nos [Conditions Générales d’Utilisation](https://www.tiktok.com/legal/terms-of-service-eea?lang=fr) et notre [Politique relative aux Récompenses](https://www.tiktok.com/legal/rewards-policy-eea?lang=fr). Nos [Conditions Générales d'Utilisation](https://www.tiktok.com/legal/terms-of-service-eea?lang=fr) s’appliquent à votre achat et à votre utilisation de Pièces de monnaie sur la Plateforme et notre [Politique de confidentialité](https://www.tiktok.com/legal/privacy-policy-eea?lang=fr) décrit la manière dont nous traitons vos données à caractère personnel.
 
   
 
-**Rewards Policy**
-------------------
+### **1\. Que sont les Pièces de monnaie et comment pouvez-vous les utiliser ?**
 
-_Last update: June 2022_
+Les Pièces de monnaie sont des Articles Virtuels qui peuvent être achetés par les utilisateurs de la Plateforme (« **Pièces de monnaie** »). Les Pièces de monnaie peuvent être utilisées sur la Plateforme uniquement pour activer ou accéder à d’autres Articles Virtuels ou services mis à disposition sur la Plateforme à tout moment (« **Articles Virtuels**»).
 
-**This Rewards Policy applies to users resident in the European Economic Area, Switzerland and the UK.**
+Le nombre de Pièces de monnaie nécessaires pour activer ou accéder à des Articles Virtuels sera affiché au préalable, ainsi vous pourrez vérifier le nombre de Pièces de monnaie dont vous avez besoin avant d’en acheter. Lorsque vous achetez des Pièces de monnaie, le prix d’une Pièce de monnaie varie en fonction du nombre acheté en une seule fois, et de l’endroit où vous les achetez. Lorsque vous achetez des Pièces de monnaie, nous vous indiquons clairement le prix total des Pièces de monnaie. Vous pouvez suivre vos dépenses en Pièces de monnaie et la façon dont vous les utilisez pour accéder à des Articles Virtuels, à l’aide des outils suivants :
 
-**You must be at least 18 years old to collect Rewards on the Platform.**
+* Le nombre total de Pièces de monnaie sur votre compte sera mis à jour chaque fois que vous achetez des Pièces de monnaie ou que vous les échangez contre des Articles Virtuels. Le solde de votre compte s’affiche dans vos « Paramètres » (_Paramètres et confidentialité > Solde_) et chaque fois que vous êtes sur le point d’utiliser des Pièces de monnaie pour activer ou accéder à des Articles Virtuels.
 
-This Rewards Policy (“**Rewards Policy**”) applies to users of the Platform that participate in incentive programs offered by TikTok to incentivise users to interact with the Platform and to create high-quality, engaging content on the Platform (“**Programs**”).
+* Dans votre « Solde », vous pouvez afficher votre « Historique des transactions » qui vous montre combien vous avez dépensé en Pièces de monnaie dans la devise locale.
 
-Users that participate in Programs can receive rewards from TikTok (“**Rewards**”). The Rewards that TikTok offers (such as Diamonds, discount vouchers or merchandise) depend on the Program. When Rewards are in Diamonds, these Diamonds can be used to obtain money (see Section 5 below - “What can you do with Diamonds?”). Other Rewards (such as merchandise) cannot be used to obtain money from TikTok, unless the Program Terms state otherwise.
+* Dans la section « Recharger » de votre « Solde », vous pouvez également consulter votre « Historique de Pièces de monnaie » qui vous montre comment vous avez utilisé les Pièces de monnaie sur la Plateforme.
 
-The entities that jointly offer Programs to you are TikTok Information Technologies UK Limited (a company registered in England) and TikTok Technology Limited (a company registered in Ireland). However, TikTok Information Technologies UK Limited is solely responsible for any payment, financial or tax obligations in relation to Programs.
+### **_Utiliser des Pièces de monnaie pour activer des Cadeaux_**
 
-Your participation in Programs is governed by this Rewards Policy and any Program-specific provisions provided to you (together with this Rewards Policy, “**Program Terms**”). Our [Terms of Service](https://www.tiktok.com/legal/terms-of-service-eea?lang=en) also apply to your participation in Programs in the same way as they apply to any other activities on the Platform, and our [Privacy Policy](https://www.tiktok.com/legal/privacy-policy-eea?lang=en) describes how we process your personal data.
+Les Cadeaux sont des Articles Virtuels qui peuvent être activés à l’aide de Pièces de monnaie.
 
-Capitalised terms not defined in this Rewards Policy have the meanings given to them in our [Terms of Service](https://www.tiktok.com/legal/terms-of-service-eea?lang=en).
+Vous pouvez envoyer des Cadeaux pour interagir avec du contenu sur la Plateforme et montrer que vous l’appréciez, conformément à nos [Conditions Générales d'Utilisation](https://www.tiktok.com/legal/terms-of-service-eea?lang=fr). Lorsque vous envoyez un Cadeau, les autres utilisateurs de la Plateforme peuvent voir votre nom d’utilisateur et les détails du Cadeau que vous avez envoyé. En envoyant des Cadeaux, vous ne transférez pas d’argent à d’autres utilisateurs de la Plateforme. Le type et le nombre de Cadeaux envoyés sont un facteur utilisé par TikTok pour estimer la popularité d’un contenu utilisateur lors de l’attribution de Diamants aux créateurs de ce contenu, aux côtés d’autres facteurs qui peuvent s’appliquer en fonction du Programme, tels que la durée ou la fréquence de ce contenu. Les Diamants peuvent être utilisés pour recevoir de l’argent auprès de TikTok conformément à notre [Politique relative aux Récompenses](https://www.tiktok.com/legal/rewards-policy-eea?lang=fr).
 
-  
+Étant donné que les Cadeaux sont automatiquement activés avec effet immédiat, ils ne sont ni remboursables ni échangeables contre des Pièces de monnaie ou de l’argent.
 
-### **1\. Who is eligible to participate in a Program?**
+### **2\. Comment acheter des Pièces de monnaie?**
 
-To participate in a Program and collect Rewards you must:
+Les Pièces de monnaie peuvent être achetées soit dans une boutique d’applications tierce (comme l’App Store d’Apple ou le Google Play Store) ou, dans certains pays, directement auprès de TikTok sur les sites Web TikTok (« **Application Web** »). TikTok peut décider librement d’autoriser d’autres moyens d’obtenir des Pièces de monnaie.
 
-* Be located in the country or region set out in the applicable Program-specific provisions.
-* Meet any additional eligibility criteria for the Program, as set out in the relevant Program-specific provisions.
-* Be at least 18 years old.
-* Have an account on the Platform.
-* Have complied with all relevant obligations and not be in breach or suspected breach of the Program Terms, our Terms of Service, our Community Guidelines or any other applicable policies.
+Quel que soit l’endroit où vous achetez vos Pièces de monnaie, vous devez :
 
-### **2\. How can you participate in a Program?**
+1. être un utilisateur enregistré de la Plateforme ; et
 
-The relevant Program-specific provisions include information and instructions on how to participate.
+2. avoir au moins 18 ans. Nous pouvons refuser votre demande d’achat de Pièces de monnaie si nous avons des raisons de penser que vous êtes mineur(e).
 
-### **3\. Termination and suspension**
+Si vous achetez des Pièces de monnaie directement auprès de TikTok, par exemple via l’Application Web, les conditions suivantes s’appliquent :
 
-### **_Termination or suspension of your access to a Program_**
+* Le prix total que vous devrez payer pour les Pièces de monnaie sera affiché au moment de l’achat. Nous afficherons le prix total sur la page où les Pièces de monnaie sont mises en vente.
 
-We may investigate any suspected breach of the Program Terms, our Terms of Service or our Community Guidelines. While we do so, we may suspend your access to some or all the features of the Program and to Rewards, depending on the seriousness of the suspected breach.
+* Les Pièces de monnaie seront chargées sur votre compte dès que nous aurons reçu votre paiement.
 
-We may temporarily or permanently suspend or terminate your access to a Program or access to Rewards that you have collected if:
+* Nous faisons toujours de notre mieux pour nous assurer que votre compte est crédité du bon nombre de Pièces de monnaie. Cependant, si pour une raison quelconque, votre compte n’a pas été crédité du bon nombre de Pièces de monnaie, nous vous contacterons et corrigerons l’erreur dès que possible.
 
-* we determine, acting reasonably, that you are in material or repeated breach of the Program Terms, our Terms of Service or our Community Guidelines;
-* we have objective grounds to reasonably believe that you are about to seriously breach these Program Terms, our Terms of Service or our Community Guidelines;
-* we have objective grounds to reasonably believe that you have tampered with, or have attempted to tamper with, the process or the operation of a Program; or
-* we are required to do so in response to a valid legal process or request.
+* Si votre moyen de paiement est refusé, votre commande sera automatiquement annulée. Nous ne saurions être tenus responsables des problèmes entre vous et l’émetteur de votre carte, votre banque ou tout autre prestataire de services de paiement.
 
-If your participation in a Program is terminated for these reasons, we may, acting reasonably, deduct wholly or partially your Rewards balance or otherwise not award any Rewards. Where appropriate and legally permissible, we will tell you if we suspend or terminate your access to a Program. If you think we have made a mistake in suspending or terminating your access to a Program, then you can appeal by either following the instructions to appeal on the Community Guidelines violation notice (if applicable) or by clicking [here](https://www.tiktok.com/legal/report/feedback?lang=en).
+Si vous achetez des Pièces de monnaie par l’intermédiaire d’une boutique d’applications tierce, comme l’App Store d’Apple ou le Google Play Store, les conditions applicables aux achats intégrés de la boutique concernée s’appliqueront. Si vous avez des questions concernant l’achat de Pièces de monnaie par le biais d’une boutique d’applications tierce (y compris si vous souhaitez annuler tout achat de Pièces de monnaie que vous avez effectué), vous devez contacter la boutique concernée.
 
-### **_Termination or suspension of a Program_**
+### **_Droits de rétractation, remboursements et garanties_**
 
-We may partly or fully terminate or suspend a Program by giving you reasonable notice, including for the following:
+Si vous avez acheté des Pièces de monnaie directement auprès de TikTok, par exemple via l’Application Web, nous ne vous les rembourserons pas, sauf si la législation en vigueur dans votre pays nous l’impose, et sauf si les Pièces de monnaie sont défectueuses.
 
-* there are changes in circumstances beyond our reasonable control;
-* there are technical problems with a Program that cannot be resolved within a reasonable time; or
-* where changes in relevant law, a court decision or a decision by a regulatory authority prohibits a Program in part or in full.
+Si vous résidez dans l’EEE ou au Royaume-Uni, vous avez certains droits de rétractation à l’égard des achats en ligne, en vertu des lois relatives à la protection des consommateurs. Si vous avez acheté des Pièces de monnaie directement auprès de TikTok :
 
-If we partly or fully terminate or suspend a Program for any of the above reasons, you may use the accrued Diamonds or other Rewards that you are entitled to under the Program Terms, unless prohibited from doing so by a court or regulatory authority.
+* Vous disposez d’un délai de rétractation de 14 jours pour annuler votre achat de Pièces de monnaie et demander un remboursement, à compter du lendemain de votre achat de Pièces de monnaie (« **Délai de rétractation** »). Vous n’avez aucune raison à donner pour demander un remboursement.
 
-### **_Your withdrawal from a Program_**
+* Vous ne pourrez pas demander de remboursement (i) après le Délai de rétractation ou (ii) pour des Pièces de monnaie que vous avez utilisées pendant le Délai de rétractation.
 
-You may end your participation in a Program at any time. If you do so, then, subject to the provisions of the Program Terms, you will be given an opportunity to use the accrued Diamonds or other Rewards that you are entitled to under the Program Terms.
+* Pour annuler votre achat de Pièces de monnaie, veuillez contacter notre service client [ici](https://www.tiktok.com/legal/report/transaction?lang=fr) et nous fournir l’identifiant de transaction de l’achat que vous souhaitez annuler. Vous pouvez également remplir et nous envoyer le modèle de lettre de rétractation disponible [ici](https://www.tiktok.com/legal/model-withdrawal-form-eea?lang=fr).
 
-### **4\. How do you collect Rewards?**
+* Si vous annulez votre achat, nous vous rembourserons le paiement que nous avons reçu de votre part pour les Pièces de monnaie. Les remboursements sont effectués avec le mode de paiement initial et vous devez compter jusqu’à 7 jours ouvrables avant qu’ils n’apparaissent sur votre compte, selon le mode de paiement utilisé pour effectuer l’achat. TikTok ne vous facturera aucun frais pour le remboursement.
 
-Rewards are intended to:
+Si vous avez acheté des Pièces de monnaie via une boutique d’applications tierce, comme l’App Store d’Apple ou le Google Play Store, vous devez contacter la boutique d’applications concernée pour obtenir un remboursement.
 
-* recognise the popularity and quality of content on the Platform;
-* show appreciation to users for their contribution to the Platform; and
-* thank users for their active participation on the Platform.
+Si vous résidez dans l’EEE, les lois de l’EEE relatives à la protection des consommateurs vous offrent une garantie légale couvrant les Pièces de monnaie. En vertu de cette garantie, nous sommes responsables de toute non-conformité que vous pourriez découvrir dans un délai de deux ans suivant la fourniture des Pièces de monnaie. La législation nationale de votre pays est susceptible de prévoir une période de garantie plus longue. Si vous avez des questions concernant votre garantie légale, veuillez nous contacter [ici](https://www.tiktok.com/legal/report/feedback?lang=fr).
 
-Different Rewards apply to different Programs. Further information on collecting Rewards is set out in the Program-specific provisions. Rewards are not exchangeable or replaceable without our permission and you are fully responsible for all uses made of any Rewards.
+### **3\. Vos droits**
 
-We may not award Rewards, or we may deduct them from your account, if we reasonably believe that:
+Nous vous donnons l’autorisation (appelée « licence ») d’utiliser des Pièces de monnaie et des Articles Virtuels pour votre usage personnel sur la Plateforme. Cela signifie que vous n’avez aucun droit ni titre sur les Pièces de monnaie ou les Articles Virtuels, à l’exception de ce qui est prévu expressément par la présente Politique relative aux Pièces de monnaie. Il vous est interdit d’acheter, de vendre ou d’échanger des Pièces de monnaie ou des Articles Virtuels en dehors de la Plateforme, ou de tenter de vendre, donner ou échanger des Pièces de monnaie ou des Articles Virtuels, sauf cas expressément autorisé par la présente Politique relative aux Pièces de monnaie.
 
-* you have breached the Program Terms, our Terms of Service or our Community Guidelines; or
-* your Rewards have been obtained dishonestly.
+Les Pièces de monnaie n’ont pas de date d’expiration. Pour des raisons juridiques, réglementaires ou commerciales, nous pourrions décider de cesser de proposer des Pièces de monnaie ou des Articles Virtuels à certaines catégories d’utilisateurs, ou dans certains pays ou régions, ou nous pourrions décider de cesser complètement de proposer des Pièces de monnaie ou des Articles Virtuels. Le cas échéant, et si vous êtes concerné(e), nous vous le notifierons suffisamment à l’avance. Dans cette notification , nous vous indiquerons le délai dont vous disposerez pour utiliser les Pièces de monnaie restantes sur votre compte_._
 
-We always do our best to ensure that we award you with the correct number and / or type of Rewards. If, for any reason, a mistake is made when awarding a Reward, we will contact you and correct the mistake as soon as we can.
+Nous pouvons résilier ou suspendre votre droit d’acheter ou d’utiliser des Pièces de monnaie, ou d’accéder aux Articles Virtuels, immédiatement et sans préavis, si nous avons une raison légitime de le faire, y compris en cas de violation grave ou répétée de votre part de nos Conditions Générales d'Utilisation ou des Règles communautaires. Si vous pensez que nous avons commis une erreur à cet égard, vous pouvez, le cas échéant, soit suivre les instructions pour faire une réclamation qui figurent dans la notification de violation des Règles communautaires, ou nous contacter en utilisant notre formulaire de contact disponible [ici](https://www.tiktok.com/legal/report/feedback?lang=fr).
 
-_Collecting Diamonds_
+Vous pouvez résilier votre compte à tout moment en fermant votre compte et en arrêtant d’utiliser la Plateforme. Vous trouverez les instructions pour résilier votre compte dans notre [Centre d’aide](https://support.tiktok.com/fr/).
 
-Diamonds can be collected as Rewards and used in accordance with the Program Terms. You can collect Diamonds using certain core features of the Platform, such as LIVE Gifts and Video Gifts, or by participating in temporary campaigns (e.g. to promote new Platform functionalities or to celebrate an event). If Diamonds are available under a Program, this will be set out in the Program-specific provisions.
+Si votre compte sur la Plateforme est résilié pendant le Délai de rétractation d’un achat de Pièces de monnaie, vous pourrez demander un remboursement pour toutes les Pièces de monnaie non utilisées, comme indiqué dans le paragraphe _Droits de rétractation, remboursements et garanties_ à l’article 2 ci-dessus. Dans le cas contraire, vous n’aurez droit à aucun remboursement pour les Pièces de monnaie inutilisées. Nous vous encourageons donc, dans la mesure du possible, à utiliser vos Pièces de monnaie avant de ne plus avoir accès à votre compte sur la Plateforme.
 
-We award Diamonds as Rewards to users based on the popularity of their content. Therefore, we take into account the Gifts sent by users to show appreciation for other users’ content when we award Diamonds, as Gifts are the key factor to assess the popularity of content on the Platform. We may also award Diamonds to users based on their contribution to the Platform, which may include, for example, the duration or frequency of their content (this will be made clear to you in the relevant Program-specific provisions). This does not always mean that a user will be able to obtain money for the Diamonds that they have collected, as minimum Reward Payments apply (see Sections 5 and 6 below). This means that users will have to collect a minimum number of Diamonds before they can trigger the Reward Payment in accordance with Section 6 below. See [here](https://www.tiktok.com/creators/creator-portal/en-us/getting-paid-to-create/live-gifting/) for an example of how TikTok awards Diamonds to users.
+### **4\. Nous contacter**
 
-We may deduct Diamonds from your account if we reasonably believe that Gifts have been sent in breach of the Coins Policy, Terms of Service or Community Guidelines. We will, where appropriate, give you reasonable notice if we deduct Diamonds from your account for this reason.
+Si vous rencontrez des problèmes lors de l’achat de Pièces de monnaie à partir de l’Application Web, ou lors de l’utilisation de Pièces de monnaie ou d’Articles Virtuels, ou si vous avez une question concernant tout aspect de la présente Politique relative aux Pièces de monnaie, veuillez nous contacter [](https://www.tiktok.com/feedback?lang=en.) [ici](https://www.tiktok.com/legal/report/transaction?lang=fr).
 
-### **5\. What can you do with Diamonds?**
+**Politique relative aux Récompenses**
+--------------------------------------
 
-* If you participate in the Program that allows you to collect Diamonds, you can trigger payment of the monetary value given by TikTok to those Diamonds by following the Diamond Payment Process as described below, which will initiate the payment of money to your external account (each a “**Reward Payment**”). For a Reward Payment to take place, you must have registered for an account with a payment service provider and connected that account to your account on the Platform.  
+_Version définitive: juin 2022_
 
-* Diamonds cannot be exchanged for Coins, Gifts, or other virtual items without our permission.
-*  Diamonds do not constitute property. We give you permission (called a licence) to collect Diamonds. This means that you have no right or title in Diamonds except as expressly stated in this Rewards Policy.
+**La présente Politique relative aux Récompenses s’applique aux utilisateurs résidant dans l’Espace Economique Européen, en Suisse et au Royaume-Uni.**
 
-* You must not sell, assign or otherwise transfer Diamonds without our permission. Breaching this restriction may result in termination of your access to a Program and/or deduction of Rewards.
+**Vous devez être âgé(e) d’au moins 18 ans pour recevoir des Récompenses sur la Plateforme.**
 
-* The monetary value that TikTok has given to Diamonds will be displayed to you before you initiate a Diamond Payment Process. The current Diamond to money conversion rates are on the Program-specific pages (which can be accessed in the _Creator Tools_ menu). We may change these rates upon reasonable advance notice.
+La présente Politique relative aux Récompenses (« **Politique relative aux Récompenses** ») s’applique aux utilisateurs de la Plateforme qui participent aux programmes incitatifs proposés par TikTok pour inciter les utilisateurs à interagir avec la Plateforme et à créer du contenu attrayant et de haute qualité sur la Plateforme (« **Programmes** »).
 
-* We may terminate, upon reasonable advance notice, the ability to use Diamonds to obtain a Reward Payment with a valid reason (such as changes beyond our reasonable control, the implementation of a different business model or business strategy, or changes in the relevant law, a court decision or a decision by a regulatory authority).
-* Transaction fees may be applied when we make a Reward Payment to you. Details of transaction fees are [here](https://www.tiktok.com/legal/payment-limit-and-fees?lang=en) and all transaction fees will be displayed to you before you initiate the Diamond Payment Process.
+Les utilisateurs qui participent aux Programmes peuvent recevoir des Récompenses de TikTok (« **Récompenses** »). Les Récompenses offertes par TikTok (telles que des Diamants, des bons de réduction ou des produits) dépendent de chaque Programme. Lorsque les Récompenses sont des Diamants, ces Diamants peuvent être échangés contre de l’argent (voir la section 5 ci-dessous - « Que pouvez-vous faire avec des Diamants ? »). Les autres Récompenses (telles que les produits) ne peuvent être échangées contre de l’argent sur TikTok, sauf mention contraire dans les Conditions du Programme.
 
-### **6\. How does the Diamond Payment Process work?**
+Les entités qui vous proposent conjointement des Programmes sont TikTok Information Technologies UK Limited (une société anglaise) et TikTok Technology Limited (une société irlandaise). Cependant, TikTok Information Technologies UK Limited est seule responsable de toute obligation de paiement, financière ou fiscale en relation avec les Programmes.
 
-* To trigger a Reward Payment for Diamonds, you must use one of the payment methods that we support in your region (e.g. PayPal). The Reward Payment will be sent to the external account you select in accordance with the rules of the payment method provider. We reserve the right to require this account to be registered in your own name.
+Votre participation aux Programmes est régie par la présente Politique relative aux Récompenses ainsi que par toutes les conditions spécifiques au Programme qui vous ont été communiquées (avec la présente Politique relative aux Récompenses, les « **Conditions du Programme** »). Nos [Conditions Générales d’Utilisation](https://www.tiktok.com/legal/terms-of-service-eea?lang=fr) s’appliquent également à votre participation aux Programmes de la même manière qu’elles s’appliquent à toutes les autres activités sur la Plateforme, et notre [Politique de confidentialité](https://www.tiktok.com/legal/privacy-policy-us?lang=fr) décrit la manière dont nous traitons vos données à caractère personnel.
 
-* You must make sure that the information you provide is accurate, complete and up-to-date. You will be solely responsible for any consequences (e.g. lost, stolen or misdirected funds, or other harm) resulting from providing inaccurate or incomplete information.
-* We may verify your payment information and eligibility to collect Diamonds or receive Reward Payments, such as identity, age and location. If additional information is required, you agree to provide us with such information upon request.
+Les termes commençant par une majuscule qui ne sont pas définis dans la présente Politique relative aux Récompenses ont la signification qui leur est donnée dans nos [Conditions Générales d’Utilisation](https://www.tiktok.com/legal/terms-of-service-eea?lang=fr).
 
-* Daily minimum and maximum Reward Payments may apply. Information on these minimum and maximum Reward Payments is [here](https://www.tiktok.com/legal/payment-limit-and-fees?lang=en) and they will be displayed to you when you initiate a Reward Payment.
+### **1\. Qui peut participer à un Programme ?**
 
-* We may, for security reasons and/or to maintain the integrity of your account, suspend your ability to use Diamonds to obtain a Reward Payment. We will contact you if we have to do this. Where we need to make urgent changes for security, safety, legal or regulatory requirements, we may not be able to provide you with advance notice, but we will let you know as soon as we are able to. If you believe that we have made an error by suspending your ability to use Diamonds to obtain a Reward Payment, then please contact us [here](https://www.tiktok.com/legal/report/transaction).
+Pour participer à un Programme et recevoir des Récompenses, vous devez :
 
-* We are not responsible for any loss or damage caused by payment method providers, provided it is not as a result of our actions.
-* All Reward Payments will be inclusive of tax (if applicable). If you are subject to any taxes on Rewards, you will be responsible for the payment of such taxes.
+* être situé(e) dans le pays ou la région spécifié(e) dans les conditions spécifiques au Programme en question ;
 
-* There is no charge for participation in a Program, but we may deduct from any money obtained through a Reward Payment the cost incurred by us in processing the Reward Payment.
+* remplir tous les critères supplémentaires d’admissibilité au Programme, énoncés dans les conditions spécifiques au Programme en question ;
 
-### **7\. Changes to a Program**
+* être âgé(e) d’au moins 18 ans ;
 
-We may alter or change a Program at any time for legal, regulatory or business reasons. These changes may include who can participate in a Program, how Rewards are collected or used (for example, we may terminate the ability to use Diamonds to obtain a Reward Payment). If we do so, we will provide you with reasonable advance notice before any such changes come into effect. Within this notice period, you will be able to continue to use the Program under the then current terms. If you do not agree with the proposed changes, you can withdraw from the Program before the changes come into effect.
+* avoir un compte sur la Plateforme ;
 
-### **8\. Contact Us**
+* avoir respecté toutes les obligations applicables et ne pas avoir commis de violation ou violation présumée des Conditions du Programme, de nos Conditions Générales d'Utilisation, de nos Règles Communautaires ou de toute autre politique applicable.
 
-If you have any questions, please contact us [here](https://www.tiktok.com/legal/report/feedback?lang=en).
+### **2\. Comment participer à un Programme ?**
 
-**Additional languages (please also see the language settings for other available languages)**
-----------------------------------------------------------------------------------------------
+Les conditions spécifiques au Programme en question comportent des informations et des instructions concernant la participation au Programme.
 
-* Bulgarian: [български](https://www.tiktok.com/legal/bul-rewards-policy-eea?lang=en)  
-    
+### **3\. Résiliation et suspension**
 
-* Croatian: [Cruatu](https://www.tiktok.com/legal/hr-rewards-policy-eea?lang=en)   
-    
+### **_Résiliation ou suspension de votre accès à un Programme_**
 
-* Danish: [Dansk](https://www.tiktok.com/legal/da-rewards-policy-eea?lang=en)  
-    
+Nous pouvons conduire des recherches sur toute violation présumée des Conditions du Programme, de nos Conditions Générales d'Utilisation ou de nos Règles communautaires. Pendant la durée de ces vérifications, nous pouvons suspendre votre accès à certaines ou à toutes les fonctionnalités du Programme et aux Récompenses, en fonction de la gravité de la violation présumée.
 
-* Estonian: [Eesti keel](https://www.tiktok.com/legal/et-rewards-policy-eea?lang=en)  
-    
+Nous pouvons suspendre ou résilier temporairement ou définitivement votre accès à un Programme ou à des Récompenses que vous avez gagnées si :
 
-* Latvian: [Latviski](https://www.tiktok.com/legal/lv-rewards-policy-eea?lang=en)   
-    
+* nous déterminons raisonnablement que vous avez commis une violation grave ou répétée des Conditions du Programme, de nos Conditions Générales d'Utilisation ou de nos Règles communautaires ;
 
-* Lithuanian: [Lietuvių](https://www.tiktok.com/legal/lt-rewards-policy-eea?lang=en)   
-    
+* nous avons des raisons objectives de raisonnablement penser que vous êtes sur le point de commettre une violation grave des présentes Conditions du Programme, de nos Conditions Générales d'Utilisation ou de nos Règles communautaires ;
 
-* Norwegian: [Norsk](https://www.tiktok.com/legal/nb-rewards-policy-eea?lang=en)  
-    
+* nous avons des raisons objectives de raisonnablement penser que vous avez manipulé frauduleusement ou tenté de manipuler frauduleusement le processus ou le fonctionnement d’un Programme ; ou
 
-* Slovak: [Slovenský](https://www.tiktok.com/legal/sk-rewards-policy-eea?lang=en)
+* nous sommes tenus de le faire en réponse à une requête ou à une procédure judiciaire ou administrative valide.
+
+Si votre participation à un Programme est résiliée pour ces raisons, nous pouvons décider raisonnablement de réduire ou d’annuler votre solde de Récompenses, ou de ne pas vous attribuer de Récompenses. Le cas échéant et si la loi l’autorise, nous vous informerons de la suspension ou de la résiliation de votre accès à un Programme. Si vous pensez que nous avons suspendu ou résilié votre accès à un Programme par erreur, vous pouvez, le cas échéant, faire une réclamation en suivant les instructions qui figurent dans la notification de violation des Règles communautaires ou en cliquant [ici](https://www.tiktok.com/legal/report/feedback?lang=fr).
+
+### **_Résiliation ou suspension d’un Programme_**
+
+Nous pouvons résilier ou suspendre partiellement ou entièrement un Programme, moyennant un préavis raisonnable, notamment pour les raisons suivantes :
+
+* en cas de changement de circonstances raisonnablement indépendant de notre volonté ;
+
+* en cas de problème technique affectant un Programme qui ne peut pas être résolu dans un délai raisonnable ; ou
+
+* en cas de changement dans la législation applicable, ou de décision de justice ou de décision d’une autorité réglementaire interdisant un Programme en partie ou en totalité.
+
+Si nous résilions ou suspendons partiellement ou entièrement un Programme pour l’une des raisons susmentionnées, vous pourrez utiliser les Diamants accumulés ou d’autres Récompenses auxquelles vous avez droit en vertu des Conditions du Programme, sauf si un tribunal ou une autorité réglementaire l’interdit.
+
+### **_Votre retrait d’un Programme_**
+
+Vous pouvez mettre fin à votre participation à un Programme à tout moment. Si vous le faites, alors, sous réserve des Conditions du Programme, vous aurez la possibilité d’utiliser les Diamants accumulés ou autres Récompenses auxquelles vous avez droit en vertu des Conditions du Programme.
+
+### **4\. Comment recevoir des Récompenses ?**
+
+Les Récompenses sont destinées à :
+
+* reconnaître la popularité et la qualité du contenu sur la Plateforme ;
+
+* témoigner de la reconnaissance aux utilisateurs pour leur contribution à la Plateforme ; et
+
+* remercier les utilisateurs pour leur participation active sur la Plateforme.
+
+Différentes Récompenses s’appliquent à différents Programmes. Des informations complémentaires sur l’obtention de Récompenses sont fournies dans les conditions spécifiques au Programme en question. Les Récompenses ne peuvent être ni échangées ni remplacées sans notre autorisation, et vous êtes entièrement responsable de toutes les utilisations faites de vos Récompenses.
+
+Nous pouvons ne pas attribuer de Récompenses ou les déduire de votre compte, si nous estimons raisonnablement que :
+
+* vous n’avez pas respecté les Conditions du Programme, nos Conditions Générales d'Utilisation ou nos Règles communautaires ; ou
+
+* vos Récompenses ont été obtenues de manière irrégulière.
+
+Nous faisons toujours de notre mieux pour nous assurer que vous recevez le bon nombre et/ou type de Récompenses. Cependant, si pour une raison quelconque, une Récompense vous a été attribuée par erreur, nous vous contacterons et corrigerons l’erreur dès que possible.
+
+_Obtenir des Diamants_
+
+Les Diamants peuvent être obtenus comme Récompenses et utilisés conformément aux Conditions du Programme. Vous pouvez obtenir des Diamants en utilisant certaines fonctionnalités de base de la Plateforme, telles que LIVE Gifts et Video Gifts, ou en participant à des campagnes temporaires (par ex. pour promouvoir de nouvelles fonctionnalités de la Plateforme ou pour fêter un événement). Si des Diamants sont disponibles dans le cadre d’un Programme, cela sera indiqué dans les conditions spécifiques à ce Programme.
+
+Nous attribuons des Diamants comme Récompenses aux utilisateurs en fonction de la popularité de leur contenu. Par conséquent, lorsque nous attribuons des Diamants, nous tenons compte des Cadeaux envoyés par les utilisateurs pour montrer qu’ils apprécient le contenu d’autres utilisateurs, car les Cadeaux sont le facteur clé pour évaluer la popularité d’un contenu sur la Plateforme. Nous pouvons également attribuer des Diamants aux utilisateurs en fonction de leur contribution sur la Plateforme, ce qui peut inclure, par exemple, la durée ou la fréquence de leur contenu (cela vous sera indiqué clairement dans les conditions spécifiques au Programme en question). Cela ne signifie pas toujours qu’un utilisateur pourra obtenir de l’argent en échange des Diamants qu’il a accumulés, car un montant minimum de Paiement de Récompense s’applique (voir les sections 5 et 6 ci-dessous). Cela signifie que les utilisateurs devront obtenir un nombre minimum de Diamants avant de pouvoir déclencher le Paiement de Récompense conformément à l’article 6 ci-dessous. Vous trouverez [ici](https://www.tiktok.com/creators/creator-portal/en-us/getting-paid-to-create/live-gifting/) un exemple illustrant comment TikTok attribue des Diamants aux utilisateurs.
+
+Nous pouvons déduire des Diamants de votre compte si nous estimons raisonnablement que des Cadeaux ont été envoyés en violation de la Politique relative aux Pièces de monnaie, des Conditions Générales d'Utilisation ou des Règles communautaires. Le cas échéant, si nous déduisons des Diamants de votre compte pour cette raison, nous vous en avertirons suffisamment à l’avance.
+
+### **5\. Que pouvez-vous faire avec des Diamants ?**
+
+* Si vous participez à un Programme qui vous permet de gagner des Diamants, vous pouvez déclencher le paiement de la valeur monétaire attribuée par TikTok à ces Diamants en suivant le processus de paiement des Diamants décrit ci-dessous, ce qui initiera le paiement sur votre compte externe (chaque processus étant désigné « **Paiement de Récompense** »). Pour qu’un Paiement de Récompense soit effectué, vous devez avoir créé un compte auprès d’un prestataire de services de paiement et avoir associé ce compte à votre compte sur la Plateforme.
+
+* Les Diamants ne peuvent pas être échangés contre des Pièces de monnaie, des Cadeaux ou d’autres Articles virtuels sans notre autorisation.
+
+* Les Diamants ne constituent pas un bien. Nous vous donnons l’autorisation (appelée « licence ») d’accumuler des Diamants. Cela signifie que vous n’avez aucun droit ni titre sur les Diamants, à l’exception de ce qui est prévu expressément par la présente Politique relative aux Récompenses.
+
+* Il vous est interdit de vendre, céder ou transférer autrement des Diamants sans notre autorisation. Le non-respect de cette interdiction peut entraîner la résiliation de votre accès à un Programme et/ou la déduction de Récompenses.
+
+* La valeur monétaire attribuée par TikTok aux Diamants sera affichée avant que vous n’initiiez un processus de paiement de Diamants. Les taux de conversion actuels des Diamants sont publiés sur les pages du Programme (accessibles dans le menu _Outils du créateur_). Nous pouvons modifier ces tarifs moyennant un préavis raisonnable.
+
+* Moyennant un préavis raisonnable, nous pouvons supprimer la possibilité d’utiliser des Diamants pour obtenir un Paiement de Récompense, pour une raison valable (comme des changements raisonnablement indépendants de notre volonté, la mise en œuvre d’un modèle commercial ou d’une stratégie commerciale différents, ou des changements dans la législation applicable, une décision de justice ou une décision d’une autorité réglementaire).
+
+* Des frais de transaction peuvent s’appliquer aux Paiements de Récompense. Les frais de transaction sont disponibles [ici](https://www.tiktok.com/legal/payment-limit-and-fees?lang=fr) et tous les frais de transaction seront affichés avant que vous n’initiiez le processus de paiement de Diamants.
+
+### **6\. Comment se déroule le processus de paiement de Diamants ?**
+
+* Pour déclencher un Paiement de Récompense pour des Diamants, vous devez utiliser l’un des modes de paiement que nous acceptons dans votre région (par ex. PayPal). Le Paiement de Récompense sera effectué sur le compte externe que vous sélectionnez conformément aux règles du fournisseur du mode de paiement. Nous nous réservons le droit d’exiger que ce compte soit à votre nom.
+
+* Vous devez vous assurer que les informations que vous fournissez sont exactes, complètes et à jour. Vous serez seul(e) responsable de toutes les conséquences (par ex., fonds perdus, volés ou envoyés à un mauvais destinataire, ou autre préjudice) résultant de la fourniture d’informations inexactes ou incomplètes.
+
+* Nous pouvons vérifier vos informations de paiement et votre éligibilité à recevoir des Diamants ou des Paiements de Récompense, comme votre identité, votre âge et votre pays. Si des informations supplémentaires sont nécessaires, vous vous engagez à nous fournir ces informations sur demande.
+
+* Des montants minimum et maximum journaliers de Paiements de Récompense peuvent s’appliquer. Des informations sur ces montants minimum et maximum de Paiements de Récompense sont fournies [ici](https://www.tiktok.com/legal/payment-limit-and-fees?lang=fr) et elles s’afficheront lorsque vous initierez un Paiement de Récompense.
+
+* Pour des raisons de sécurité et/ou pour préserver l’intégrité de votre compte, nous pouvons suspendre votre capacité à utiliser des Diamants pour obtenir un Paiement de Récompense. Si nous sommes contraints de le faire, nous vous contacterons. Si nous devons procéder à des changements dans l’urgence pour des raisons de sécurité ou de sûreté ou pour des raisons légales ou réglementaires, nous ne serons peut-être pas en mesure de vous en informer à l’avance, mais nous vous en informerons dès que possible. Si vous pensez que nous avons suspendu par erreur votre capacité à utiliser des Diamants pour obtenir un Paiement de Récompense, veuillez nous contacter [ici](https://www.tiktok.com/legal/report/transaction?lang=fr).
+
+* Nous ne saurions être tenus responsables de tout préjudice causé par des fournisseurs de modes de paiement, s’il n’est pas imputable à nos actions.
+
+* Tous les Paiements de Récompense incluent les taxes applicables. Si vous êtes imposé(e) sur les Récompenses, il vous appartient de vous acquitter de ces taxes.
+
+* La participation à un Programme est gratuite, mais nous pouvons déduire de tout montant obtenu par le biais d’un Paiement de Récompense les frais que nous avons engagés pour le traitement du Paiement de Récompense.
+
+### **7\. Modifications apportées à un Programme**
+
+Nous pouvons modifier un Programme à tout moment pour des raisons juridiques, réglementaires ou commerciales. Ces modifications peuvent notamment porter sur les critères d’admissibilité au Programme et le mode d’obtention et d’utilisation des Récompenses (par exemple, nous pourrions supprimer la possibilité d’utiliser des Diamants pour obtenir un Paiement de Récompense). Le cas échéant, nous vous avertirons suffisamment à l’avance de ces modifications. Tant que les modifications n’auront pas pris effet, vous pourrez continuer à utiliser le Programme selon les conditions alors en vigueur. Si vous refusez les modifications annoncées, vous pouvez vous retirer du Programme avant que les modifications ne prennent effet.
+
+### **8\. Nous contacter**
+
+Si vous avez des questions, veuillez nous [contacter ici.](https://www.tiktok.com/legal/report/feedback?lang=fr)
