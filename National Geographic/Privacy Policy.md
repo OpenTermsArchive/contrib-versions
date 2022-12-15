@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-Last Modified: 12/29/2022
+Last Modified: 09/22/2022
 
 **SCOPE OF THIS POLICY**
 
@@ -71,7 +71,7 @@ We will not share your [personal information](#)<p>Personal information means in
 
 We provide you the ability to exercise certain controls and choices regarding our collection, use and sharing of your information. In accordance with applicable law, your controls and choices may include:
 
-* Correcting, updating, and deleting [your registration account](https://my.disneyaccount.com/);
+* Correcting, updating, and deleting [your registration account](#) ([Logout](#));
 * Choosing or changing your choices for subscriptions, newsletters, and alerts;
 * Choosing whether to receive from us offers and promotions for our products and services, or products and services that we think may be of interest to you;
 * Choosing whether we share your [personal information](#)<p>Personal information means information that identifies (whether directly or indirectly) a particular individual, such as the individual’s name, postal address, email address, and telephone number. When anonymous information is directly or indirectly associated with personal information, the resulting information also is treated as personal information.</p><a href='https://privacy.thewaltdisneycompany.com/en/definitions/#Personal-information'>Learn More</a> with other companies so they can send you offers and promotions about their products and services;
@@ -114,9 +114,9 @@ From time to time, we may change this privacy policy to accommodate new technolo
 
 If you have a comment or question about this privacy policy, please contact [Guest Services](https://privacy.thewaltdisneycompany.com/en/support/).
 
-#### [Accordion Toggle US RESIDENTS’ RIGHTS](#collapse12)
+#### [Accordion Toggle CALIFORNIA RESIDENTS’ RIGHTS](#collapse12)
 
-Notice to US Residents: If you are a US resident, you may have certain additional privacy rights. Visit our Your [US State Privacy Rights](https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/your-us-state-privacy-rights/) page for more information.
+Notice to California Residents: If you are a California resident, you may have certain additional privacy rights. Visit our [Your California Privacy Rights](https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/your-california-privacy-rights/) page for more information, including how Authorized Agents may make certain requests on behalf of California Residents.
 
 #### [Accordion Toggle UK, EU, & EMEA RESIDENTS' RIGHTS](#collapse13)
 
