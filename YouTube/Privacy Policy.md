@@ -13,7 +13,7 @@ Looking to change your privacy settings?
 
 [Take the Privacy Checkup](https://myaccount.google.com/privacycheckup?utm_source=pp&utm_medium=Promo-in-product&utm_campaign=pp_intro)
 
-Effective December 15, 2022 | [Archived versions](https://policies.google.com/privacy/archive) | [Download PDF](https://www.gstatic.com/policies/privacy/pdf/20221215/qi5mvafl/google_privacy_policy_en_eu.pdf)
+Effective October 4, 2022 | [Archived versions](https://policies.google.com/privacy/archive) | [Download PDF](https://www.gstatic.com/policies/privacy/pdf/20221004/a2n853ky/google_privacy_policy_en_eu.pdf)
 
 Contents
 --------
@@ -142,13 +142,13 @@ We use the information we collect in existing services to help us develop new on
 
 We use the information we collect to customize our services for you, including providing recommendations, personalized content, and [customized search results](https://policies.google.com/privacy#footnote-customized-search). For example, [Security Checkup](https://myaccount.google.com/security-checkup?utm_source=pp) provides security tips adapted to how you use Google products. And Google Play uses information like apps you’ve already installed and videos you’ve watched on YouTube to suggest new apps you might like.
 
-Depending on your settings, we may also show you [personalized ads](https://policies.google.com/privacy#footnote-personalized-ads) based on your interests. For example, if you search for “mountain bikes,” you may see an ad for sports equipment when you’re browsing a site that shows ads served by Google. You can control what information we use to show you ads by visiting your ad settings in [My Ad Center](https://myadcenter.google.com/).
+Depending on your settings, we may also show you [personalized ads](https://policies.google.com/privacy#footnote-personalized-ads) based on your interests. For example, if you search for “mountain bikes,” you may see an ad for sports equipment when you’re browsing a site that shows ads served by Google. You can control what information we use to show you ads by visiting your ad settings.
 
 * We don’t show you personalized ads based on [sensitive categories](https://policies.google.com/privacy#footnote-sensitive-categories), such as race, religion, sexual orientation, or health.
 * We don’t show you personalized ads based on your content from Drive, Gmail, or Photos.
 * We don’t share information that personally identifies you with advertisers, such as your name or email, unless you ask us to. For example, if you see an ad for a nearby flower shop and select the “tap to call” button, we’ll connect your call and may share your phone number with the flower shop.
 
-[Go to My Ad Center](https://myadcenter.google.com/)
+[Go to Ad Settings](https://adssettings.google.com/?ref=privacy-policy)
 
 ### Measure performance
 
@@ -200,7 +200,7 @@ Decide what types of activity you’d like saved in your account. For example, i
 
 Manage your preferences about the ads shown to you on Google and on sites and apps that [partner with Google](https://policies.google.com/privacy#footnote-partner) to show ads. You can modify your interests, choose whether your personal information is used to make ads more relevant to you, and turn on or off certain advertising services.
 
-[Go to My Ad Center](https://myadcenter.google.com/)
+[Go to Ad Settings](https://adssettings.google.com/?ref=privacy-policy)
 
 ### About you
 
@@ -244,7 +244,7 @@ When you’re signed out, you can manage information associated with your browse
 
 * Signed-out search personalization: [Choose](https://www.google.com/history/optout?utm_source=pp) whether your search activity is used to offer you more relevant results and recommendations.
 * YouTube settings: Pause and delete your [YouTube Search History](https://www.youtube.com/feed/history/search_history?utm_source=pp) and your [YouTube Watch History](https://www.youtube.com/feed/history?utm_source=pp).
-* Ad Settings: [Manage](https://myadcenter.google.com/) your preferences about the ads shown to you on Google and on sites and apps that partner with Google to show ads.
+* Ad Settings: [Manage](https://adssettings.google.com/?ref=privacy-policy) your preferences about the ads shown to you on Google and on sites and apps that partner with Google to show ads.
 
 Exporting, removing & deleting your information
 -----------------------------------------------
@@ -482,6 +482,7 @@ The following links highlight useful resources for you to learn more about our p
 * [Technologies](https://policies.google.com/technologies) includes more information about:
     * [How Google uses cookies](https://policies.google.com/technologies/cookies)
     * Technologies used for [Advertising](https://policies.google.com/technologies/ads)
+    * [How Google uses pattern recognition](https://policies.google.com/technologies/pattern-recognition) to recognize things like faces in photos
     * [How Google uses information from sites or apps that use our services](https://policies.google.com/technologies/partner-sites)
 
 Key terms
