@@ -73,9 +73,9 @@ We take measures to help protect information from loss, theft, misuse and unauth
 
 Accordingly, we cannot guarantee the security of your personal information transmitted electronically and we cannot promise that your use of our Website will be completely safe. Any transmission of personal information is at your own risk. Where we have given you (or where you have chosen) a password for access to certain parts of our Website, you are responsible for keeping this password confidential and not sharing it with anyone. Please note that information collected by third parties may not have the same security protections as information you submit to us, and we are not responsible for protecting the security of such information.
 
-### Your California Privacy Rights
+### Privacy Notice for United States Residents
 
-If you are a California resident, you can learn more about your consumer privacy rights by reviewing the [California Privacy Notice](https://www.crowdtangle.com/california).  
+You can learn more about the consumer privacy rights that may be available to you by reviewing the [United States Regional Privacy Notice](https://www.facebook.com/privacy/policies/uso).  
   
 We do not share personal information with third parties for their own direct marketing purposes.
 
