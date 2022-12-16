@@ -6,9 +6,11 @@
 
 Privacy Policy
 
+The policy below goes into effect on January 1, 2023. [Read our current policy.](https://help.instagram.com/policy/version/privacy_policy_2022/)
+
 What is the Privacy Policy and what does it cover?
 
-Effective July 26, 2022 | [View printable version](https://help.instagram.com/https%3A%2F%2Fl.instagram.com%2F%3Fu=https%3A%2F%2Fmbasic.facebook.com%2Fprivacy%2Fpolicy%2Fprintable%2F&e=removed) | [See previous versions](https://help.instagram.com/policy/?show_versions=1)
+Effective January 1, 2023 | [View printable version](https://help.instagram.com/https%3A%2F%2Fl.instagram.com%2F%3Fu=https%3A%2F%2Fmbasic.facebook.com%2Fprivacy%2Fpolicy%2Fprintable%2F&e=removed) | [See previous versions](https://help.instagram.com/policy/?show_versions=1)
 
 We at Meta want you to understand what information we collect, and how we use and share it. That’s why we encourage you to read our Privacy Policy. This helps you use Meta Products in the way that’s right for you.
 
@@ -68,7 +70,7 @@ Here are the ways we use your information:
 
 To provide, personalize and improve our Products
 
-We use information we have, including any [information with special protections](https://help.instagram.com/policy/?subpage=1.subpage.1-YourActivityAndInformation) you choose to share, to provide and improve our Products. This includes personalizing features, content and [recommendations](https://help.instagram.com/https%3A%2F%2Fl.instagram.com%2F%3Fu=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F1257205004624246&e=removed), such as your [Facebook Feed](https://help.instagram.com/policy/?annotations[0]=2.ex.4-HowWePersonalizeYour), [Instagram feed](https://help.instagram.com/https%3A%2F%2Fl.instagram.com%2F%3Fu=https%3A%2F%2Fai.facebook.com%2Ftools%2Fsystem-cards%2Finstagram-feed-ranking&e=removed), Stories and ads. We don’t use profile fields about religious views, political views or who you’re “interested in” to show you ads.
+We use information we have to provide and improve our Products. This includes personalizing features, content and [recommendations](https://help.instagram.com/https%3A%2F%2Fl.instagram.com%2F%3Fu=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F1257205004624246&e=removed), such as your [Facebook Feed](https://help.instagram.com/policy/?annotations[0]=2.ex.4-HowWePersonalizeYour), [Instagram feed](https://help.instagram.com/https%3A%2F%2Fl.instagram.com%2F%3Fu=https%3A%2F%2Fai.facebook.com%2Ftools%2Fsystem-cards%2Finstagram-feed-ranking&e=removed), Stories and ads. We use [information with special protections](https://help.instagram.com/policy/?subpage=1.subpage.1-YourActivityAndInformation) you choose to provide for these purposes, but not to show you ads.
 
 Read more about how we use information to provide, personalize and improve our Products:
 
