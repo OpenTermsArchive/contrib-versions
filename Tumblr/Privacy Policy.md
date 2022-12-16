@@ -1,4 +1,4 @@
-Privacy PolicyLast Modified: 2022-10-27
+Privacy PolicyLast Modified: 2022-12-16
 =======================================
 
 The original version of this Privacy Policy is written in English. To the extent any translated version of this Privacy Policy conflicts with the English version, the English version controls.
@@ -10,7 +10,7 @@ What This Privacy Policy Covers
 
 This Privacy Policy covers our treatment of information gathered when you are using or accessing the Services. This Privacy Policy also covers our treatment of any information about you that our partners share with us or that we share with our partners.
 
-This Privacy Policy does not apply to the practices of third parties that we do not own, control, or manage, including but not limited to any third party websites, services, applications, or businesses (“**Third Party Services**”). This includes third parties you provide with information about yourself as part of enabling or using a Tumblr feature, for example, information you provide to Stripe when interacting with the Post+ or Tipping Feature within Tumblr. While we try to work only with those Third Party Services that share our respect for your privacy, we don't take responsibility for the content or privacy policies of those Third Party Services. We encourage you to carefully review the privacy policies of all Third Party Services you access.
+This Privacy Policy does not apply to the practices of third parties that we do not own, control, or manage, including but not limited to any third party websites, services, applications, or businesses (“**Third Party Services**”). This includes third parties you provide with information about yourself as part of enabling or using a Tumblr feature, for example, information you provide to Stripe when interacting with the Post+ or Tipping Feature within Tumblr, or information you provide to [The Meet Group](https://www.themeetgroup.com/) as part of Tumblr Live. While we try to work only with those Third Party Services that share our respect for your privacy, we don't take responsibility for the content or privacy policies of those Third Party Services. We encourage you to carefully review the privacy policies of all Third Party Services you access.
 
 Also: This Privacy Policy doesn’t govern what our users do on their Tumblr blogs and we aren't responsible for the information collection and use practices of our individual blogs and bloggers. One of the great features of Tumblr's products is customizability, and bloggers have a lot of flexibility in how their blogs behave. When you visit a blog in our network, that blog may collect more information than we do, and may provide information to third parties that we have no relationship with, including to advertisers.
 
