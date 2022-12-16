@@ -9,7 +9,7 @@ Our Privacy Statement describes how we collect, use, and share your personal inf
 
 Please take a moment to review our Privacy Statement and contact us at [1-866-MYPRIVACY (1-866-697-7482)](tel:8666977482) if you have any questions.
 
-* [View and print](https://www.gm.com/content/restricted/no_search/gmcom/home/california-privacy-statement-old.html) our entire California Consumer Privacy Statement
+* [View and print](https://www.gm.com/california-privacy-statement.html) our entire California Consumer Privacy Statement
 * [View and print](https://www.gm.com/content/dam/company/docs/us/en/gmcom/US_Consumer_Privacy_Statement_January_2023.pdf) our entire U.S. Consumer Privacy Statement (PDF)
   
 
