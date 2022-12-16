@@ -22,7 +22,7 @@ We appreciate that you trust us with your information and we intend to always ke
 
 This Privacy Policy applies from December 19, 2022. The [previous version of this Privacy Policy](https://policies.tinder.com/privacy/intl/2022-12-13) applies until then.
 
-EFFECTIVE DATE: January 17, 2022
+EFFECTIVE DATE: December 19, 2022
 
 1. [Who We Are](#who-we-are)
 2. [Where This Privacy Policy Applies](#where-this-applies)
