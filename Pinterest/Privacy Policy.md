@@ -19,6 +19,7 @@ Privacy policy
     * [Our policy on children’s information](#section-our-policy-on-childrens-information)
     * [Your options](#section-your-options)
     * [Residents of the EEA](#section-residents-of-the-eea)
+    * [대한민국 거주자](#section)
     * [How we make changes to this policy](#section-how-we-make-changes-to-this-policy)
     * [Contact us](#section-contact-us)
 
