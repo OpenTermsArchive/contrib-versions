@@ -10,7 +10,7 @@ Below we have listed important legal terms that apply to anyone who visits our w
 
 ​
 
-We understand that legal terms can be exhausting to read, and we’ve tried to make the experience more pleasant. If you have suggestions on how we can improve them, you are welcome to [contact us](https://www.wix.com/contact/).
+We understand that legal terms can be exhausting to read, and we’ve tried to make the experience more pleasant. If you have suggestions on how we can improve them, you are welcome to [contact us](http://wix.com/contact?referral=termsofusecontact).
 
 1\. Introduction
 ----------------
@@ -775,10 +775,7 @@ Translated (non-English) versions of these terms are provided for convenience on
 
 To get in touch with our Customer Service - please use any of the options listed below:
 
-1. Go to Wix Help Center which is available at: [https://support.wix.com/en/article/contacting-wix-support](https://support.wix.com/en/article/contacting-wix-support/)
-    
-2. Send an email message to: [support@wix.com](mailto:support@wix.com)
-    
+Go to Wix Help Center which is available at: [https://support.wix.com/en/article/contacting-wix-support](https://support.wix.com/en/article/contacting-wix-support/)
 
 #### #ItsThatEasy
 
