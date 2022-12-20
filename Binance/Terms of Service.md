@@ -1,6 +1,6 @@
 Binance Terms of Use
 
-Last revised: 16 December 2022
+Last revised: 20 December 2022
 
 These Binance Terms of Use is entered into between you (hereinafter referred to as “you” or “your”) and Binance operators (as defined below). By accessing, downloading, using or clicking on “I agree” to accept any Binance Services (as defined below) provided by Binance (as defined below), you agree that you have read, understood and accepted all of the terms and conditions stipulated in these Terms of Use (hereinafter referred to as “these Terms”) as well as our Privacy Policy at [www.binance.com/en/privacy](https://www.binance.com/en/privacy). In addition, when using some features of the Services, you may be subject to specific additional terms and conditions applicable to those features.
 
@@ -109,7 +109,7 @@ By creating a Binance Account, you hereby agree that:
 
 ### III. Binance Services
 
-Upon completion of the registration and identity verification for your Binance Account, you may use various Binance Services, including but not limited to, Crypto-to-crypto Trading, Fiat Trading, contract trading, leveraged trading, Binance Savings services, staking, acquiring market-related data, research and other information released by Binance, participating in User activities held by Binance, etc., in accordance with the provisions of these Terms (including Binance Platform Rules and other individual agreements). Binance has the right to:
+Upon completion of the registration and identity verification for your Binance Account, you may use various Binance Services, including but not limited to, Crypto-to-crypto Trading, Fiat Services, contract trading, leveraged trading, Binance Savings services, staking, acquiring market-related data, research and other information released by Binance, participating in User activities held by Binance, etc., in accordance with the provisions of these Terms (including Binance Platform Rules and other individual agreements). Binance has the right to:
 
 * Provide, modify or terminate, in its discretion, any Binance Services; and
     
@@ -186,17 +186,22 @@ In addition to the Crypto-to-crypto Trading that allows users to directly place 
 
 ### 3\. Fiat Trading
 
-Prior to conducting Fiat Trading, you shall separately read, agree to, and comply with:
+3.1 By accepting these Terms, you acknowledge and agree that:
 
-a. the [Terms of Use of Bifinity UAB](https://www.binancecnt.com/en/about/terms-of-usage/world);
+1. you have read, accepted and will comply with these Terms, the Legal Statement, the [Privacy Policy](https://www.binance.com/en/privacy), and any other Binance Platform Rules related to Fiat Services;
+    
+2. Binance may partner with any Fiat Partners and that, if applicable, you will open an account with such Fiat Partners by completing the relevant registration and identity verification for such account, and by accepting any user agreements, terms and conditions, policies and procedures or similar documents of any Fiat Partners;
+    
+3. any payments expressed in any fiat currencies and which have been made in connection with any Fiat Services may not be canceled, recalled or refunded, and that any chargeback requests in connection with any Fiat Services that involve a Fiat Partner, are subject to that Fiat Partner's policies and procedures.
+    
 
-b. the User Agreements with various third party service providers with which Binance has partnered to offer Fiat Trading services, and, if applicable, open an account with such partners, following the completion of the registration and identity verification for your Binance Account;
+3.2 If:
 
-c. the Legal Statement, the [Privacy Policy](https://www.binancecnt.com/en/about/policy/privacy-policy), and any other Binance Platform Rules related to Fiat Trading
+(a) you are resident or located in an EEA jurisdiction or in the United Kingdom, then all Fiat Services will be provided to you by Bifinity UAB; or
 
-If you choose to utilise Fiat Trading, you agree that Bifinity UAB (registration number: 305595206) having its registered office at Lvivo g. 25-104, Vilnius, Lithuania shall work in collaboration with regulated third party service providers to offer such services. Bifinity UAB is governed by the laws of the Republic of Lithuania. A full list of Bifinity UAB partners can be found [HERE](https://www.binance.com/en/terms-fiat-partner-list).
+(b) you use any Fiat Services, which involve a debit card or credit card, then (regardless of your residence or location) suchthe Fiat Services will be provided to you by Bifinity UAB,
 
-Bifinity UAB is registered in accordance with the applicable laws of the Republic of Lithuania as virtual currency depository wallet operator and virtual currency exchange operator. For the avoidance of doubt please note that Bifinity UAB is not a licensed financial services provider. Cryptocurrency exchange and depository services provided by Bifinity UAB are not regulated by the Bank of Lithuania.
+and in each case you will be required to read, accept and comply with the [Terms of Use](https://www.binancecnt.com/en/about/terms-of-usage/world) and [Privacy Policy](https://www.binancecnt.com/en/about/policy/privacy-policy) of Bifinity UAB. Bifinity UAB is a Lithuanian private limited company with registration number 305595206, which has its registered office at Lvivo g. 25-104, Vilnius, Lithuania, and which is registered with the Financial Crime Investigation Service (FCIS) in Lithuania as a virtual currency depository wallet operator and virtual currency exchange operator in accordance with the applicable laws of the Republic of Lithuania. Bifinity UAB is not a licensed financial services provider and cryptocurrency exchange and depository services provided by Bifinity UAB are not regulated by the Bank of Lithuania. Bifinity UAB may work in collaboration with regulated third party service providers to offer Fiat Services. A full list of Bifinity UAB’s partners can be found [HERE](https://www.binance.com/en/terms-fiat-partner-list).
 
 ### 4\. Futures Trading
 
