@@ -444,13 +444,13 @@ We disclose your personal information for a business purpose to the categories o
 
 #### Sales of Personal Information
 
-In the preceding (12) twelve months, pursuant to our [RollWorks B2B Contact Data](https://www.rollworks.com/contact-data) Service, we have sold personal information in the form of business emails from Category A (Identifiers). To opt-out of the sale of your business email information, visit our [Do Not Sell My Personal Information page](https://app.adroll.com/optout/email).
+In the preceding (12) twelve months, pursuant to our [RollWorks B2B Contact Data](https://www.rollworks.com/contact-data) Service, we have sold personal information in the form of business emails from Category A (Identifiers). To opt-out of the sale of your business email information, visit our [Do Not Sell or Share My Information page](https://app.adroll.com/optout/email).
 
 To the extent that using cookies and other tracking technologies to serve retargeted or interest-based advertising constitutes a ‘sale of personal information’ under the CCPA, in the preceding (12) months we have sold personal information in the form of cookie string data and pseudonymous data (e.g. hashed emails) from Category A (identifiers).
 
 NextRoll continues to provide consumers with the ability to opt out of the collection and use of their personal information by preventing cookies and other tracking technologies from functioning by opting out of interest-based advertising.
 
-You may opt-out of interest-based advertising by visiting our [opt-out page](https://app.adroll.com/optout) or [Do Not Sell My Personal Information page](https://app.adroll.com/optout/email), or through the instructions provided in [Your Choices and Opting-Out of Interest-Based Advertising and Analytics Ads](#service-8).
+You may opt-out of interest-based advertising by visiting our [opt-out page](https://app.adroll.com/optout) or [Do Not Sell or Share My Information page](https://app.adroll.com/optout/email), or through the instructions provided in [Your Choices and Opting-Out of Interest-Based Advertising and Analytics Ads](#service-8).
 
 #### Your Rights and Choices
 
@@ -524,7 +524,7 @@ To view metrics regarding consumer requests to know, delete, and opt out, for th
 
 #### Personal Information Sales Opt-Out Rights
 
-To exercise the right to opt-out of interest-based advertising or sale of your business email address, cookie data string or pseudonymous data (e.g., hashed emails), you (or your authorized representative) may visit the [Do Not Sell My Personal Information](https://app.adroll.com/optout/email) webpage.
+To exercise the right to opt-out of interest-based advertising or sale of your business email address, cookie data string or pseudonymous data (e.g., hashed emails), you (or your authorized representative) may visit the [Do Not Sell or Share My Information](https://app.adroll.com/optout/email) webpage.
 
 #### Non-Discrimination
 
@@ -1056,7 +1056,7 @@ We do not charge a fee to process or respond to your verifiable consumer request
 
 #### Personal Information Sales Opt-Out Rights
 
-To exercise the right to opt-out of interest-based advertising, you (or your authorized representative) may submit a request to us by visiting the [Do Not Sell My Personal Information](https://app.adroll.com/optout/email) webpage.
+To exercise the right to opt-out of interest-based advertising, you (or your authorized representative) may submit a request to us by visiting the [Do Not Sell or Share My Information](https://app.adroll.com/optout/email) webpage.
 
 #### Non-Discrimination
 
