@@ -139,6 +139,7 @@ Please also note:
         * Users in the United States may visit the DAA consumer choice page at [www.aboutads.info/choices](http://www.aboutads.info/choices)
         * Users in Canada may visit the DAAC consumer choice page at [www.youradchoices.ca/choices](http://www.youradchoices.ca/choices)
         * Users in Europe (including the United Kingdom) may visit the EDAA consumer choice page at [www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
+    * You can also opt out of the use of your email address for targeted ads through [Audience Matched Advertising](https://thenai.org/glossary/audience-matched-advertising-ama/) or AMA by Taboola and other advertising companies through the [NAI Audience Matched Advertising Opt Out (Beta)](https://optout.networkadvertising.org/optout/email).
     
     Please note that an opt out from one or more companies listed on the DAA, DAAC, or EDAA consumer choice pages will not prevent you from seeing those companies’ advertisements. Rather, the opt out will prevent these companies from using your Information to display targeted content or ads to you. You may continue to receive advertisements that are selected based on the particular website that you are viewing (i.e., contextually based ads).
     
