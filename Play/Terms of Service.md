@@ -1,12 +1,12 @@
 Google Play Terms of Service
 ============================
 
-December 21, 2022 ([View archived version](https://play.google.com/intl/en_us/about/archive/))
+December 21, 2022 ([View archived version](https://play.google.com/intl/en_us/about/play-terms/archive/))
 
 **1\. Introduction**
 --------------------
 
-**Applicable Terms.** Thanks for using Google Play. Google Play is a service provided by Google LLC (**“Google”**, **“we”** or **“us”**), located at 1600 Amphitheatre Parkway, Mountain View, California 94043, USA. Your use of Google Play and the apps (including Android Instant Apps), system services, games, movies, books, magazines, or other digital content or services (referred to as **"Content"**) available through it is subject to these Google Play Terms of Service (“**Play ToS**”) and the [Google Terms of Service](https://www.google.com/intl/en/policies/terms/) (**"Google ToS"**) ( together referred to as the **“Terms”**). Google Play is a “service” as described in the Google ToS. If there is any conflict between the **Play ToS** and the Google ToS, the **Play ToS** shall prevail.
+**Applicable Terms.** Thanks for using Google Play. Google Play is a service provided by Google LLC (**“Google”**, **“we”** or **“us”**), located at 1600 Amphitheatre Parkway, Mountain View, California 94043, USA. Your use of Google Play and the apps (including Android Instant Apps), system services, games, movies, books, magazines, or other digital content or services (referred to as **"Content"**) available through it is subject to these Google Play Terms of Service (“**Play ToS**”) and the [Google Terms of Service](https://www.google.com/intl/en/policies/terms/) (**"Google ToS"**) (together referred to as the **“Terms”**). Google Play is a “service” as described in the Google ToS. If there is any conflict between the **Play ToS** and the Google ToS, the **Play ToS** shall prevail.
 
 **2\. Your Use of Google Play**
 -------------------------------
@@ -70,7 +70,7 @@ Your contract for the purchase and use of Content is completed once you receive 
 
 **(a)**       **Trials Periods.** When you subscribe to Content for a price, you may receive access to the subscription benefits at no charge for a specified trial period, after which you will be charged until you cancel your subscription. **To avoid being charged, you must cancel before the end of the trial period.** Once you cancel your trial, you will immediately lose access to the Content and any subscription privileges unless otherwise specified. Access to such trial periods may be limited to a certain number of trials for each user during a given period, or other restrictions.
 
-**(b)**       **Cancellations.** You may cancel a subscription at any time before the end of the applicable billing period as described in the H[elp Center](https://support.google.com/googleplay/?hl=en), and the cancellation will apply to the next period. For example, if you purchase a monthly subscription, you may cancel that subscription at any time during any month of the subscription, and the subscription will be cancelled at the end of your then-current billing period. You will not receive a refund for the current billing period, except as otherwise provided in [Google Play’s Refund Policy](https://support.google.com/googleplay/answer/2479637?hl=en) (for example where Content is defective).
+**(b)**       **Cancellations.** You may cancel a subscription at any time before the end of the applicable billing period as described in the [Help Center](https://support.google.com/googleplay/?hl=en), and the cancellation will apply to the next period. For example, if you purchase a monthly subscription, you may cancel that subscription at any time during any month of the subscription, and the subscription will be cancelled at the end of your then-current billing period. You will not receive a refund for the current billing period, except as otherwise provided in [Google Play’s Refund Policy](https://support.google.com/googleplay/answer/2479637?hl=en) (for example where Content is defective).
 
 **(c)**       **Reductions for Print Subscribers.** Some Providers of periodicals may allow you to purchase a subscription of periodical Content on Google Play at a reduced rate if you are already a print subscriber. If you cancel your print subscription of that periodical or your print subscription expires and you do not renew it, your reduced subscription rate of that Content on Google Play will be cancelled automatically.
 
@@ -83,7 +83,8 @@ Your contract for the purchase and use of Content is completed once you receive 
 
 **Violation of License Terms.** If you violate any of the Terms, your rights under this license will immediately terminate, and Google may terminate your access to Google Play, the Content or your Google Account without refund to you.
 
-**Restrictions**: You may not:
+**Restrictions**: You may not:  
+  
 
 * display (in part or in whole) the Content as part of any public performance or display even if no fee is charged except (a) where such use would not constitute a copyright infringement or violate any other applicable right or (b) as specifically permitted and only in the exact manner provided.  
       
