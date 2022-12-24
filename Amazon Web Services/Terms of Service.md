@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-#### Last Updated: December 19, 2022
+#### Last Updated: December 23, 2022
 
 #### 1\. Universal Service Terms (Applicable to All Services)
 
@@ -37,7 +37,7 @@ If, as of the time of a change of the AWS Contracting Party responsible for your
 
 **1.14. Data Protection.**
 
-**1.14.1** These Service Terms incorporate the [AWS GDPR Data Processing Addendum](https://d1.awsstatic.com/legal/aws-gdpr/AWS_GDPR_DPA.pdf) (“DPA”), when the GDPR applies to your use of the AWS Services to process Customer Data (as defined in the DPA). The DPA is effective as of 25 May 2018 and replaces and supersedes any previously agreed data processing addendum between you and AWS relating to the Directive 95/46/EC.
+**1.14.1** These Service Terms incorporate the [AWS Data Processing Addendum](https://d1.awsstatic.com/legal/aws-gdpr/aws-gdpr-dpa-online.pdf) (“DPA”), when you use AWS Services to process Customer Data (as defined in the DPA).  
 
 **1.14.2** These Service Terms incorporate the [AWS Supplementary Addendum](https://d1.awsstatic.com/Supplementary_Addendum_to_the_AWS_GDPR_DPA.pdf) to the DPA, when the GDPR applies to your use of the AWS Services to process Customer Data.
 
@@ -45,7 +45,7 @@ If, as of the time of a change of the AWS Contracting Party responsible for your
 
 **1.14.4** These Service Terms incorporate the Standard Contractual Clauses between controllers and processors (“[Controller-to-Processor Clauses](https://d1.awsstatic.com/Controller_to_Processor_SCCs.pdf)”) and the Standard Contractual Clauses between processors (“[Processor-to-Processor Clauses](https://d1.awsstatic.com/Processor_to_Processor_SCCs.pdf)”) approved by the European Commission Implementing Decision (EU) 2021/914 of 4 June 2021 (the “SCCs”). The SCCs will only apply when: (i) the GDPR applies to your use of the AWS Services to process Customer Data; and (ii) Customer Data is transferred either directly or via onward transfer, to a country outside of the European Economic Area not recognised by the European Commission as providing an adequate level of protection for personal data subject to GDPR (together a “Data Transfer”). When you are a controller (as defined in the GDPR), the Controller-to-Processor Clauses will apply to a Data Transfer. When you are a processor (as defined in the GDPR), the Processor-to-Processor Clauses will apply to a Data Transfer.
 
-**1.14.5** These Service Terms incorporate the [AWS CCPA Terms](https://d1.awsstatic.com/legal/aws-ccpa/AWS_CCPA_Terms.pdf) (“CCPA Terms”), when the CCPA applies to your use of the AWS Services to process Personal Information (as defined in the CCPA Terms).
+**1.14.5** These Service Terms incorporate the [AWS CCPA Terms](https://d1.awsstatic.com/legal/aws-ccpa/aws-ccpa-terms.pdf) (“CCPA Terms”), when the CCPA applies to your use of the AWS Services to process Personal Information (as defined in the CCPA Terms).
 
 **1.15.** Following closure of your AWS account, we will delete Your Content in accordance with the technical documentation applicable to the Services.
 
@@ -759,7 +759,7 @@ Notwithstanding any other provision of the Agreement, you may incorporate into y
 
 **53.2.2.** Portions of the Chime PSTN Service, specifically Business Calling, Voice Connector, and SMS Text, are sold and provided by AMCS LLC (“AMCS”), an affiliate of AWS, and not AWS, but are otherwise subject to the terms of the Agreement. Your invoice will state which Services that you have used are sold to you by AMCS and which are sold by AWS. Invoicing for the Chime PSTN Service is performed by AWS on behalf of AMCS for administrative convenience. You do not have to purchase any services sold by AMCS or the Chime PSTN Service to use Amazon Chime, and you may purchase the Chime PSTN Service calling features (such as inbound or outbound calling) separately, together, or not at all from AMCS. AWS is not a telecommunications provider and does not provide any telecommunications-related services.
 
-**53.2.3.** In using the Chime PSTN Service, you will not: (a) call or text PSTN telephone numbers (whether singly, sequentially or automatically) to generate income for you or others as a result of placing the call or texting, other than for your or your End Users’ individual business communications; (b) engage in unusual calling patterns inconsistent with normal, individual use, or (c) resell the Chime PSTN Service to any third party without our prior written consent.
+**53.2.3.** In using the Chime PSTN Service, you will not: (a) call or text PSTN telephone numbers (whether singly, sequentially, or automatically) to generate income from access or termination charges for you or others as a result of placing the call or texting, (b) engage in unusual calling patterns inconsistent with normal, individual use, or (c) resell the Chime PSTN Service to any third party without our prior written consent.
 
 **53.2.4.** Your use of the Chime PSTN Service in certain countries are subject to additional [Country Specific Communications Service Terms](https://aws.amazon.com/service-terms/country-specific-communications-service-terms/).
 
@@ -795,7 +795,7 @@ Notwithstanding any other provision of the Agreement, you may incorporate into y
 
 **54.1.2.** The Connect PSTN Service is sold and provided by AMCS LLC (“AMCS”), an affiliate of AWS, and not AWS, but is otherwise subject to the terms of the Agreement. The Connect PSTN Service for Singapore is sold and provided by AMCS SG PRIVATE LIMITED (“AMCS SG”), an affiliate of AWS, and not AWS, but is otherwise subject to the terms of the Agreement. Invoicing for the Connect PSTN Service is performed by AWS on behalf of AMCS and AMCS SG for administrative convenience. You do not have to purchase any service sold by AMCS, AMCS SG, or the Connect PSTN Service to use Amazon Connect, and you may purchase the Connect PSTN Service calling features (such as inbound or outbound calling) separately, together, or not at all from AMCS or AMCS SG. AWS is not a telecommunications provider and does not provide any telecommunications-related services.
 
-**54.1.3.** In using the Connect PSTN Service, you will not: (a) call PSTN telephone numbers (whether singly, sequentially or automatically) to generate income for you or others as a result of placing the call, other than for your or your End Users’ individual business communications; or (b) engage in unusual calling patterns inconsistent with normal, individual use.
+**54.1.3.** In using the Connect PSTN Service, you will not: (a) call PSTN telephone numbers (whether singly, sequentially, or automatically) to generate income from access or termination charges for you or others as a result of placing the call, or (b) engage in unusual calling patterns inconsistent with normal, individual use.
 
 **54.1.4.** If as a part of the Amazon Connect service, AMCS or AMCS SG provides you with an inbound calling number (whether toll or toll-free), you understand and agree that you do not own the number and you do not have the right to keep that number indefinitely subject to any number portability rights under applicable law. AMCS and AMCS SG reserve the right to change, cancel, or move telephone numbers.  
 
@@ -1103,7 +1103,7 @@ For the Service Level Agreements applicable to any Services or Service workloads
 
 #### 82\. Amazon Location Service
 
-**82.1.** When you use a feature of Amazon Location Service that is identified to you as being provided by a third-party geolocation service provider listed here (each such feature, including Maps, Places, and Routing, a “**Geolocation Provider Feature**,” and each such provider, a "**Geolocation Provider**”), you authorize AWS to transmit your request parameters (e.g., location searches) to the Geolocation Provider for processing which may be outside of the AWS region in which your request was made. However, any Open Data requests will be processed by AWS in the AWS region in which your request was made.  
+**82.1.** When you use a feature of Amazon Location Service that is identified to you as being provided by a third-party geolocation service provider listed [here](https://aws.amazon.com/location/data-providers/) (each such feature, including Maps, Places, and Routing, a “**Geolocation Provider Feature**,” and each such provider, a "**Geolocation Provider**”), you authorize AWS to transmit your request parameters (e.g., location searches) to the Geolocation Provider for processing which may be outside of the AWS region in which your request was made. However, any Open Data requests will be processed by AWS in the AWS region in which your request was made.  
 
 **82.2.** AWS may change, deprecate, or discontinue any Geolocation Provider or Geolocation Provider Feature at any time upon notice to you.  
 
@@ -1137,7 +1137,7 @@ b. Layer routes from HERE on top of a map from another third-party provider, or 
 
 **82.8.** Open Data uses OpenStreetMap data. OpenStreetMap is licensed under the Open Data Commons Open Database License (ODbL) by the OpenStreetMap Foundation. You agree to comply with the ODbL and acknowledge the attribution and share-alike provisions therein.
 
-**82.9.** Attribution for Location Data can be found here. You must pass through attribution for Location Data that you make available to others via your application or its product documentation. If any Location Data has attribution details attached or incorporated, you may not remove, modify, or obscure (or permit any End Users to remove, modify, or obscure) any copyright, trademark notice, restrictive legend, or other proprietary right notices supplied to you.
+**82.9.** Attribution for Location Data can be found [here](https://docs.aws.amazon.com/location/latest/developerguide/data-attribution.html). You must pass through attribution for Location Data that you make available to others via your application or its product documentation. If any Location Data has attribution details attached or incorporated, you may not remove, modify, or obscure (or permit any End Users to remove, modify, or obscure) any copyright, trademark notice, restrictive legend, or other proprietary right notices supplied to you.
 
 #### 83\. AWS Managed Services
 
