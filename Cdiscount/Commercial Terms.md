@@ -1499,7 +1499,7 @@ Pour le Partenariat, quatre Associations Partenaires portant des projets spécif
 
 Les présentes Conditions Générales d’Utilisation ont pour objet de définir les modalités et conditions dans lesquelles les clients de Cdiscount (ci-après les « **Clients** ») peuvent utiliser le service de micro-don proposé par Un Rien C’est Tout et Cdiscount sur le Site au moment de la validation de leur commande pour faire un don en faveur de l’un des quatre Projets portés par une Association Partenaire et sélectionnés pour le Partenariat (ci-après le « **Service** »).
 
-L’utilisation du Service par le Client est subordonnée à léacceptation par ce dernier des présentes Conditions Générales d’Utilisations. En validant sa commande et son don, le Client reconnaît qu’il est pleinement informé du contenu des Conditions Générales d’Utilisation et qu’il est tenu par ces dernières.
+L’utilisation du Service par le Client est subordonnée à l’acceptation par ce dernier des présentes Conditions Générales d’Utilisations. En validant sa commande et son don, le Client reconnaît qu’il est pleinement informé du contenu des Conditions Générales d’Utilisation et qu’il est tenu par ces dernières.
 
 **2.**          **MODALITES D’UTILISATION DU SERVICE**
 
