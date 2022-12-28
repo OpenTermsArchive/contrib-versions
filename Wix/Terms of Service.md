@@ -146,6 +146,8 @@ The account information you provide us must be your own (or your company’s), a
   
 When a user account is disputed, we may determine the ownership of such user account. 
 
+2. Your Obligations
+
 2\. Your Obligations
 --------------------
 
@@ -280,6 +282,8 @@ In general, we just want you to be nice, and avoid doing anything that might har
 Among others, you may not copy our materials, use any content in an illegal or harmful manner, use our services or content on any platform or website not provided by us, make any misrepresentations or abuse our Services, or otherwise violate anyone’s rights or any applicable laws.
 
 Failure to abide by any of these rules may bring us to cancel your account and stop providing you with any services.
+
+3\. Content and Ownership
 
 ### 3\. Content and Ownership
 
@@ -596,6 +600,8 @@ If you believe a User or any Third Party Services acted inappropriately or other
 #### #ItsThatEasy
 
 If you witness or experience any misconduct or abusive behavior by anyone using our services, please let us know.
+
+11.2. Copyrights
 
 ### 11.2. Copyrights
 
