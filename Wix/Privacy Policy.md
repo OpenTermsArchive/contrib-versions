@@ -42,11 +42,11 @@ The Personal Information comes from you when you visit or use our services, Pers
 
 ### 2.2. Users of users ‘Personal Information’
 
-We may also collect Personal Information pertaining to visitors and users of our User’s websites or services (“Users-of-Users”), solely for and on our Users’ behalf (as further described in [Section ‎6](https://www.wix.com/about/privacy/home) below).
+We may also collect Personal Information pertaining to visitors and users of our User’s websites or services (“Users-of-Users”), solely for and on our Users’ behalf (as further described in [Section ‎6](https://www.wix.com/about/privacy) below).
 
 ### 2.3. Wix jobs applicant information
 
-We also collect information that is provided to us by Wix jobs candidates (“Applicants”), when they apply to any of the open positions published at [](https://www.wix.com/jobs)[https://www.wix.com/jobs](https://www.wix.com/jobs), by e-mail or otherwise (as further described in [Section ‎15](https://www.wix.com/about/privacy/home) below).
+We also collect information that is provided to us by Wix jobs candidates (“Applicants”), when they apply to any of the open positions published at [](https://www.wix.com/jobs)[https://www.wix.com/jobs](https://www.wix.com/jobs), by e-mail or otherwise (as further described in [Section ‎15](https://www.wix.com/about/privacy) below).
 
 3\. Why do we collect such ‘Personal Information’
 -------------------------------------------------
@@ -59,7 +59,7 @@ We use your Personal Information for the following purposes:
     
 3. To provide our Users with ongoing customer assistance and technical support;
     
-4. To be able to contact our Users with general or personalized service-related notices and promotional messages (as further detailed in [Section 8](https://www.wix.com/about/privacy/home) below);
+4. To be able to contact our Users with general or personalized service-related notices and promotional messages (as further detailed in [Section 8](https://www.wix.com/about/privacy) below);
     
 5. To help us to update, expand and analyze our records to identify new customers;
     
@@ -94,6 +94,8 @@ We use the Personal Information we collect about you to provide our services and
 ​
 
 We also collect and use Personal Information in order to contact Users and to comply with the laws applicable to us.
+
+4.How we share your Personal Information
 
 4\. How we share your ‘Personal Information’
 --------------------------------------------
@@ -153,6 +155,8 @@ Wix does not control and is not responsible for the actions or policies of any T
 
 4.6.
 
+5\. Where do we store your information?
+
 5\. Where do we store your ‘Personal Information’?
 --------------------------------------------------
 
@@ -192,6 +196,8 @@ Wix.com has further committed to refer unresolved Privacy Shield complaints to a
 
 5.3.
 
+6\. Users-of-Users
+
 6\. Users-of-users’ ‘Personal Information’
 ------------------------------------------
 
@@ -219,9 +225,9 @@ Wix cannot provide legal advice to Users or their Users-of-Users, however we do 
 
 ​
 
-For more information on how Users-of-Users Personal Information may be handled by Wix (which may be relevant for any specific notice you provide to and/or consent you obtain from your Users-of-Users), please see Sections [4](https://www.wix.com/about/privacy/home), [12](https://www.wix.com/about/privacy/home) and [13](https://www.wix.com/about/privacy/home).
+For more information on how Users-of-Users Personal Information may be handled by Wix (which may be relevant for any specific notice you provide to and/or consent you obtain from your Users-of-Users), please see Sections [4](https://www.wix.com/about/privacy), [12](https://www.wix.com/about/privacy) and [13](https://www.wix.com/about/privacy).
 
-If you are a visitor, user or customer of any of our Users, please read the following: Wix has no direct relationship with Users-of-Users whose Personal Information it processes. If you are a visitor, user or customer of any of our Users, and would like to make any requests or queries regarding your Personal Information, please contact such User(s) directly. For example, if you wish to request to access, correct, amend, or delete inaccurate Personal Information processed by Wix on behalf of its Users, please direct your query to the relevant User (who is the “Controller” of such data). If Wix is requested by our Users to remove any Users-of-Users’ Personal Information, we will respond to such requests in a timely manner upon verification and in accordance with applicable law (for example, thirty (30) days under the GDPR). Unless otherwise instructed by our User, we will retain their Users-of-Users’ Personal Information for the period set forth in [Section 12](https://www.wix.com/about/privacy/home) below.
+If you are a visitor, user or customer of any of our Users, please read the following: Wix has no direct relationship with Users-of-Users whose Personal Information it processes. If you are a visitor, user or customer of any of our Users, and would like to make any requests or queries regarding your Personal Information, please contact such User(s) directly. For example, if you wish to request to access, correct, amend, or delete inaccurate Personal Information processed by Wix on behalf of its Users, please direct your query to the relevant User (who is the “Controller” of such data). If Wix is requested by our Users to remove any Users-of-Users’ Personal Information, we will respond to such requests in a timely manner upon verification and in accordance with applicable law (for example, thirty (30) days under the GDPR). Unless otherwise instructed by our User, we will retain their Users-of-Users’ Personal Information for the period set forth in [Section 12](https://www.wix.com/about/privacy) below.
 
 ### #ItsThatEasy
 
@@ -232,6 +238,8 @@ We do this solely on our users’ behalf, and at their direction.
 Our users are solely responsible for their users-of-users information, including for its legality, security and integrity.
 
 Wix has no direct relationship with any of its users’ users. If you are a user-of-user, please contact the Wix site owner directly.
+
+7\. Wix Lobs Applications
 
 7. Use of cookies and other third-party technologies
 ----------------------------------------------------
@@ -251,6 +259,8 @@ Please note that we do not change our practices in response to a “Do Not Track
 We and certain third party services may use cookies and similar tracking technologies throughout our services.
 
 These technologies are used mostly for stability, security, functionality, performance and advertising purposes.
+
+8\. Communications from Wix
 
 8\. Communications from Wix
 ---------------------------
@@ -277,6 +287,8 @@ Wix may also contact you with important information regarding our Services, or 
 It is important that you are always able to receive such messages. For this reason, you are not be able to opt-out of receiving such Service and Billing Messages unless you are no longer a Wix User (which can be done by deactivating your account).
 
 We may also contact you with service and billing-related messages and content. You will not be able to opt-out of receiving such messages.
+
+9\. Use of cookies
 
 9\. Your rights in relation to your ‘Personal Information’
 ----------------------------------------------------------
@@ -311,6 +323,8 @@ Just reach out to us by e-mail, mail or through our customer care team, or, when
 You may also correct and/or update your Personal Information through your user account, if you have one.  
   
 You can also delete your Personal Information by deleting  your entire account. We will respond to your requests within a reasonable timeframe.
+
+10\. Communication
 
 10\.  Additional Information for California residents
 -----------------------------------------------------
@@ -352,6 +366,8 @@ California residents have a few options to submit requests to exercise their rig
 
 Wix does NOT sell (as such term is defined in the CCPA) your Personal Information or your customers’ Personal Information (Users-of-Users) to third parties.
 
+11\. Accessing
+
 11\. Questions and complaints
 -----------------------------
 
@@ -369,6 +385,8 @@ You can file a complaint with your local supervisory authority for data protecti
 
 You can file a complaint with your local supervisory authority for data protection at any time.  Please contact us first so we can try to resolve your concerns.
 
+12\. Questions and Complaints
+
 12\. Data retention
 -------------------
 
@@ -385,6 +403,8 @@ We maintain a data retention policy which we apply to Personal Information in ou
 ### #ItsThatEasy
 
 We may keep your Personal Information for as long as your account is active, and longer as needed (for example, if we are legally obligated to keep it longer, or need it to protect our interests).
+
+13\. Data Retention
 
 13\. Security
 -------------
@@ -407,6 +427,8 @@ Wix values the security of our customers' Personal Information and we do everyth
 
 However, as we can’t guarantee absolute protection – we encourage you to be careful, set a strong password for your account, and avoid submitting any sensitive information which, if exposed, could cause you major harm.
 
+14\. Security
+
 14\. Third-party websites
 -------------------------
 
@@ -415,6 +437,8 @@ Our Services may contain links to other websites or services. We are not respons
 ### #ItsThatEasy
 
 Our Services may contain links to other websites or services.
+
+15\. Public forums and user content
 
 15\. Wix jobs applications
 --------------------------
@@ -432,6 +456,8 @@ If you previously submitted your Applicants Personal Information to Wix, and now
 We welcome all qualified job seekers to apply to any of our open positions, by sending us their contact details and CV.
 
 We will use such Personal Information solely for our internal recruitment, employment and business purposes.
+
+16\. Updates and interpretation
 
 16\. Public forums and user content
 -----------------------------------
@@ -451,6 +477,8 @@ We have put adequate security measures in place to protect your Personal Informa
 ### #ItsThatEasy
 
 Avoid posting any Personal Information to any of the public areas on our Services, or to your own website, if you don’t want it to become publicly available.
+
+17. Contacting us
 
 17. Updates and interpretation
 ------------------------------
