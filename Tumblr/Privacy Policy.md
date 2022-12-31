@@ -1,4 +1,4 @@
-Privacy PolicyLast Modified: 2022-12-16
+Privacy PolicyLast Modified: 2022-12-30
 =======================================
 
 The original version of this Privacy Policy is written in English. To the extent any translated version of this Privacy Policy conflicts with the English version, the English version controls.
@@ -72,18 +72,11 @@ In order to provide you with all of this Tumblr content for free, Tumblr selecti
 
 To learn more about how we select the ads you see, you can check out [Tumblr’s Advertising](https://tumblr.zendesk.com/hc/en-us/articles/360035272334-Tumblr-ads-you) and affiliate policies.
 
-**Managing your choices for personalized advertising experiences**: If you do not prefer personalized advertising experiences, you may opt-out. Note that if you opt-out you will continue to see advertisements on Tumblr, though they will be less relevant and useful to you.
+**Managing your choices for personalized advertising experiences**: In some geographic locations, Tumblr users have the legal right to opt-out of having ads personalized to them. Note that if you opt-out you will continue to see advertisements on Tumblr, though they will be less relevant and useful to you.
 
-When using web-based versions of Tumblr, you may opt-out of interest-based or personalized advertising by using the following industry opt-out pages:
+If you are a Tumblr user in the EU, UK, or in some US states you can customize your advertising preferences from within your [privacy settings](https://www.tumblr.com/settings/privacy).
 
-* (EU) European Interactive Digital Advertising Alliance (EDAA) - [www.youronlinechoices.com](https://www.tumblr.com/privacy/www.youronlinechoices.com)
-* (US) Network Advertising Initiative (NAI) - [www.networkadvertising.org](https://www.tumblr.com/privacy/www.networkadvertising.org)
-* (US) Digital Advertising Alliance (DAA) - [www.aboutads.info](https://www.tumblr.com/privacy/www.aboutads.info)
-* (Japan) Data Driven Advertising Initiative (DDAI) - [www.ddai.info](https://www.tumblr.com/privacy/www.ddai.info)
-
-These industry advertising organizations offer web browser-based tools for limiting the use of your web viewing data for interest-based or personalized advertising. Any choices made via these industry tools will only apply to the web browser in use for the choices made. These advertising choices are not propagated among all of your devices.
-
-When using the mobile app version of Tumblr on Apple iOS devices you can opt out of personalized advertising by selecting "Limit Ad Tracking" in the iOS settings. For more information about these iOS options:
+When using the mobile app version of Tumblr on Apple iOS devices you can also opt out of personalized advertising by selecting "Limit Ad Tracking" in the iOS settings. For more information about these iOS options:
 
 1. Open Settings;
 2. Select Privacy; and
@@ -95,6 +88,8 @@ When using the mobile app version of Tumblr on Android devices you can opt-out o
 2. Select Google;
 3. Select Privacy; and
 4. Select Ads and follow the on-screen instructions.
+
+More information about options for hiding, reporting, and controlling the ads you see on Tumblr can be found in our [Tumblr Ads & You](https://help.tumblr.com/hc/en-us/articles/360035272334-Tumblr-Ads-You) support doc.
 
 With Whom Your Information Is Shared
 ------------------------------------
@@ -154,10 +149,10 @@ You’ll do great things on Tumblr, surely, but if it ever comes time to say goo
 
 What won’t get scrubbed are Reblogs of your posts. Those will remain on whatever blog reblogged them. Like we said before, it can be really, really hard to delete something once it goes out onto the internet, so be sure you’re only publishing stuff that you’re certain you want to publish.
 
-California Users
-----------------
+Privacy Rights
+--------------
 
-If you’re a California resident, you have a number of rights and choices. To learn more, see the [Supplemental Privacy Notice for California Residents](https://www.tumblr.com/privacy/en#supplemental-ccpa) below.
+If you’re a resident of certain US states including California, Colorado, Connecticut, Utah, and Virginia, you have a number of rights and choices about your personal information. To learn more, see the [Supplemental Privacy Notice](https://www.tumblr.com/privacy/en#supplemental) below.
 
 Changes to This Privacy Policy
 ------------------------------
@@ -176,39 +171,62 @@ You will find a link to prior versions of our Privacy Policy below. We have stor
 
 [https://github.com/tumblr/policy/commits/master/privacy-policy.txt](https://github.com/tumblr/policy/commits/master/privacy-policy.txt)
 
-Supplemental Privacy Notice for California Residents
-----------------------------------------------------
+Supplemental Privacy Notice
+---------------------------
 
-The Notice supplements the information in our privacy policy above for California residents.
+Laws in some US states, including California, Colorado, Connecticut, Utah, and Virginia, require us to provide residents with additional information about the categories of personal information we collect and share, where we get that personal information, and how and why we use it. This Notice covers that required additional information as a supplement to the information in our privacy policy above.
 
 ### Summary of Information We Collect
 
-If you’re a California resident, California law requires us to provide you with some additional information about how we collect, use, and disclose your “personal information,” as defined in the California Consumer Privacy Act ("CCPA").
+In the last 12 months, we collected the following categories of personal information (as those terms are defined by applicable law)
 
-Throughout our privacy policy, we describe the specific pieces of personal information we collect, the sources of that information, and how we share it. Under the CCPA, we also have to provide you with the "categories" of personal information we collect and disclose for “business purposes” (as those terms are defined by applicable law). Those categories are identifiers (such as username and email address); commercial information (such as transaction data); financial data (such as credit card and other financial account information); internet or other network or device activity (such as unique identifiers, browsing history or other usage data); geolocation information (general location); inference data about you; legally protected classifications (such as gender); physical characteristics or description (such as when you voluntarily submit a photo); or other information that identifies or can be reasonably associated with you.
+* Identifiers (such as username and email address);
+* Commercial information (such as transaction data);
+* Financial data (such as credit card and other financial account information);
+* Internet or other network or device activity (such as unique identifiers, browsing history or other usage data);
+* Geolocation information (general location);
+* Inference data about you;
+* Legally protected classifications (such as gender);
+* Physical characteristics or description (such as when you voluntarily submit a photo);
+* Or other information that identifies or can be reasonably associated with you.
 
-We use these categories of personal information consistent with the various business and commercial purposes we describe in this privacy policy. Check out [“What We Collect and How We Use It”](https://www.tumblr.com/privacy/en#what-we-collect) to learn more. We share this information with the categories of third parties described above in [“With Whom Your Information Is Shared."](https://www.tumblr.com/privacy/en#with-whom-your-information-is-shared)
+You can find more information about what we collect, the business and commercial purposes we use it for, and the sources of that information in the [“What We Collect and How We Use It”](https://www.tumblr.com/privacy/en#what-we-collect) section above.
+
+We share this information with the categories of third parties described above in [“With Whom Your Information Is Shared."](https://www.tumblr.com/privacy/en#with-whom-your-information-is-shared)We retain this information for the length of time described in our [Security and Retention of Your Information](https://www.tumblr.com/privacy/en#security-and-retention-of-your-information) section.
 
 We may also use the categories of personal information for compliance with applicable laws and regulations. We may aggregate the information we collect or de-identify it in order to limit or prevent the identification of any particular user or device.
 
-### California Privacy Rights
+In some US states, you have additional rights subject to any exemptions provided by your state’s respective law. You can find detailed metrics about Tumblr's compliance with these rights in our Privacy Report [here](https://transparency.automattic.com/tumblr/).
 
-If you’re a California resident, the CCPA provides you with rights regarding your personal information.
-
-You can find detailed metrics about Tumblr's compliance with these rights in our Privacy Report at [here](https://www.tumblr.com/transparency).
-
-**Access:** The CCPA gives you the right to request a copy of certain information we hold about you, as well as a summary of: the categories of personal information we have collected or disclosed about you in the last twelve months, the categories of sources of such information, the business or commercial purpose for collecting or sharing that information, and the categories of third parties with whom we shared that information. As described in the section ‘What Information You Can Access,’ you can access much of your information by logging in to your Tumblr account. You can also request a personal data report by submitting a request in the Privacy section of your Settings. You need to be signed in to your Tumblr account to submit this request, and you will have to log in to your account to access the summary or the report. If you want to request the summary described above, require additional assistance, or if you do not have a Tumblr account, submit a support ticket [here](https://www.tumblr.com/support) or email us at ccpa@tumblr.com.
-
-**Delete:** The CCPA also gives you the right to delete certain information we have about you. You can delete much of your information by logging in to your account. If you cannot do this, or you do not have a Tumblr account, please submit a support ticket [here](https://www.tumblr.com/support), or email us at ccpa@tumblr.com. For more information on deleting your account or leaving Tumblr, please refer to the section ‘How to Delete Your Account.’
-
-**Financial Incentives:** You may have the right to receive information about the financial incentives that we offer to you (if any).
-
-**Consequences of Exercising Rights:** You also have the right not to be discriminated against (as provided for in applicable law) for exercising your rights.
+* **Access:** Some US states give you the right to request a copy of certain information we hold about you, as well as a summary of: the categories of personal information we have collected or disclosed about you in the last twelve months, the categories of sources of such information, the business or commercial purpose for collecting or sharing that information, and the categories of third parties with whom we shared that information. As described in the section ‘What Information You Can Access,’ you can access much of your information by logging in to your Tumblr account. You can also request a personal data report by submitting a request in the Privacy section of your Settings. You need to be signed in to your Tumblr account to submit this request, and you will have to log in to your account to access the summary or the report. If you want to request the summary described above, require additional assistance, or if you do not have a Tumblr account, submit a support ticket [here](https://www.tumblr.com/support) or email us at ccpa@tumblr.com.
+* **Delete:** In some US states you also have the right to delete certain information we have about you. You can delete much of your information by logging in to your account. If you cannot do this, or you do not have a Tumblr account, please submit a support ticket [here](https://www.tumblr.com/support), or email us at ccpa@tumblr.com. For more information on deleting your account or leaving Tumblr, please refer to the section ‘How to Delete Your Account.’
+* **Non-Discrimination:** You also have the right not to be discriminated against (as provided for in applicable law) for exercising your rights.
+* **Correct:** In general you can correct any information Tumblr has about you by editing your account. For example, you can update your email address from [your account settings](https://www.tumblr.com/settings/account). If there’s any information we have about you that you would like corrected, that you can’t change yourself, you can [contact our support team](https://www.tumblr.com/support) to request this.
+* **Opt-Out:** You may have the right to opt-out of having your data sold or shared (as those terms are defined in your state’s law). More on how to do that below.
+* **Portability:** At Tumblr it’s totally possible to [export your blog](https://help.tumblr.com/hc/en-us/articles/360005118894-Export-Your-Blog). It’s your stuff, not ours. We make it easy for you to grab a copy of it
 
 Certain information may be exempt from these rights under applicable law. For example, we need certain types of information so that we can provide you with the Services. If you ask us to delete them, you may no longer be able to access or use the Services.
 
 Before we can satisfy your request, you’ll need to give us enough information so that we can be certain of your identity. To do that, you’ll need to log in to your account or give us certain information about you and/or your use of the Services. You can also designate an authorized agent to make a request on your behalf. To do so, you have to give us written authorization for the agent to act on your behalf. You’ll still need to verify your identity directly with us.
 
-**Personalized Advertising Opt-Out:** Tumblr selectively runs advertisements so we can provide you with Tumblr content for free. To help select which ads to show you, we may share some of your information with advertising partners, or allow our advertising partners to “collect” certain information. The personal information we share includes online identifiers and internet or other network or device activity (such as cookie information, other device identifiers, and IP address), and geolocation data (approximate location information from your IP address). Under the CCPA, this may be considered a “sale.” To learn more about how we select the ads you see, check out [Tumblr’s advertising and affiliate policies](https://tumblr.zendesk.com/hc/articles/360035272334-Tumblr-ads-you). We do not sell (or share) information that identifies you personally, like your name or contact information, in our ads program. Also, we do not knowingly "sell" your personal information if you are under 16.
+**Right to Opt-Out:** Tumblr selectively runs advertisements so we can provide you with Tumblr content for free. To help select which ads to show you, we may share some of your information with advertising partners, or allow our advertising partners to “collect” certain information. The personal information we share includes online identifiers and internet or other network or device activity (such as cookie information, other device identifiers, and IP address), and geolocation data (approximate location information from your IP address). In some US states, this data sharing may be considered a “sale.” To learn more about how we select the ads you see, check out [Tumblr’s Ads & You](https://tumblr.zendesk.com/hc/articles/360035272334-Tumblr-ads-you). We do not sell (or share) information that identifies you personally, like your name or contact information, in our ads program. Also, we do not knowingly "sell" your personal information if you are under 16.
 
-Learn how you can opt out by going to [California: Do Not Sell My Personal Information](https://tumblr.zendesk.com/hc/en-us/articles/360041012973). If you are a California user who has told us you are under 16, you’ll see in [your settings](https://www.tumblr.com/settings/privacy) that we’ve already opted you out.
+Learn how you can opt out by going to [Your Advertising Choices](https://tumblr.zendesk.com/hc/en-us/articles/360041012973). If you are a user who has told us you are under 16, you’ll see in [your settings](https://www.tumblr.com/settings/privacy) that we’ve already opted you out.
+
+In addition to the data sharing related to our ads program, sometimes Tumblr shares your information with our third-party service providers to provide our services to you. To the extent that we share your information with certain advertising, marketing, or analytics vendors, this can be considered a "sale" or “share” in certain U.S. States, which you may have the right to opt out of. This opt-out is controlled through the same opt-out as the personalized ads program opt-out, found in [your settings](https://www.tumblr.com/settings/privacy). We also respect the GPC browser signal and will treat it as a valid means of communicating your desire to opt out.
+
+We do not collect or process your sensitive (and potentially sensitive) personal information except where it is strictly necessary to provide you with our service, where the processing is not for the purpose of inferring characteristics about you, or for other purposes that do not require an option to limit under California law.
+
+Appeals Process for Denied Requests
+-----------------------------------
+
+In some circumstances we may deny your request to exercise one of these rights. For example, if we cannot verify that you are the account owner we may deny your request to access the personal information associated with your account. As another example, if we are legally required to maintain a copy of your personal information we may deny your request to delete your personal information.
+
+In the event that we deny your request, we will communicate this fact to you in writing. You may appeal our decision by responding in writing to our denial email and stating that you would like to appeal.
+
+If your appeal is denied, in some US states (Colorado, Connecticut, and Virginia) you may refer the denied appeal to the state attorney general if you believe the denial is in conflict with your legal rights. The process for how to do this will be communicated to you in writing at the same time we send you our decision about your appeal.
+
+Contacting Us About These Rights
+--------------------------------
+
+You can usually access, correct, or delete your personal data using your account settings and tools that we offer, but if you aren’t able to or you’d like to contact us about one of the other rights, scroll up to [“Where to Direct Questions or Concerns”](#where-to-direct-questions-or-concerns) to, well, find out where to direct your questions or concerns.
