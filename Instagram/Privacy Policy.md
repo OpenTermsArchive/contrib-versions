@@ -6,8 +6,6 @@
 
 Privacy Policy
 
-The policy below goes into effect on January 1, 2023. [Read our current policy.](https://help.instagram.com/policy/version/privacy_policy_2022/)
-
 What is the Privacy Policy and what does it cover?
 
 Effective January 1, 2023 | [View printable version](https://help.instagram.com/https%3A%2F%2Fl.instagram.com%2F%3Fu=https%3A%2F%2Fmbasic.facebook.com%2Fprivacy%2Fpolicy%2Fprintable%2F&e=removed) | [See previous versions](https://help.instagram.com/policy/?show_versions=1)
