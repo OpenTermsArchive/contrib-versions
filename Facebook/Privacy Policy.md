@@ -2,8 +2,6 @@
 
 Politique de confidentialité
 
-La politique ci-dessous entrera en vigueur le 1 janvier 2023. [Lisez notre politique actuelle.](https://fr-fr.facebook.com/privacy/policy/version/privacy_policy_2022/)
-
 Qu’est-ce que la Politique de confidentialité et que couvre-t-elle ?
 
 Date effective : 1 janvier 2023 | [Voir la version imprimable](https://mbasic.facebook.com/privacy/policy/printable/) | [Afficher les versions précédentes](https://fr-fr.facebook.com/privacy/policy/?show_versions=1)
