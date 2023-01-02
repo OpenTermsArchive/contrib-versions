@@ -1,8 +1,6 @@
 Terms of Service
 ----------------
 
-**NOTICE**: Changes to the terms of service are scheduled for January 1st, 2023. [Read more here](https://sourcehut.org/blog/2022-10-31-tos-update-cryptocurrency/).
-
 These are the terms of service for sr.ht; please read them before using sr.ht.
 
 If you have any questions, please reach out to Drew DeVault [sir@cmpwn.com](mailto:sir@cmpwn.com) via email.
@@ -40,12 +38,13 @@ We require an email address to register an account. This email address must be k
 
 ##### Permissible use
 
-You must obey all local and US laws in the course of using the service. You will not utilize the service to transmit or store content which is unlawful. The following additional types of content are explicitly prohibited:
+You must obey all local, US, and Dutch laws in the course of using the service. You will not utilize the service to transmit or store content which is unlawful. The following additional types of content are explicitly prohibited:
 
 * explicit sexual content
 * malware in executable form; or in source form without obvious disclaimers describing the legal and practical risks of use
 * any content which utilizes our platform for malware delivery or activation
 * content which infringes on any copyright, patent, or trademark you do not own
+* content related to cryptocurrency or blockchain technologies
 
 You must not deliberately use the services for the purpose of:
 
@@ -53,15 +52,20 @@ You must not deliberately use the services for the purpose of:
 * obtaining or disclosing private information of other users
 * impersonating any person other than yourself or organizations you are authorized to represent
 * spamming, unsolicited advertising, or solicitation
+* threatening or harassing others
 * cryptocurrency mining
 
 You may use automated tools to obtain public information from the services for the purposes of archival or open-access research. You may not use this data for recruiting, solicitation, or profit.
 
 ##### Content rights
 
-You are solely responsible for any content you provide to the service. Upon upload, you grant sr.ht a non-exclusive and indefinite license to use and display your content in ways required for the appropriate operation of our services. If you make your content public through privacy tools on our services, you grant other users of the network the right to view and use your content through the tools provided by our services.
+When uploading content to SourceHut, you must have the right to do so. You grant SourceHut sufficient rights for the operation of the services in relation to your content, such as the right to display the content on the website. These rights are revoked upon the removal of your content from our services. We may retain your content in system (e.g. for backups) for up to six weeks, but it will not displayed on our website during this period.
 
-You may grant additional rights on your content, for example by providing a LICENSE or COPYING file in git repositories hosted on git.sr.ht.
+If you own the copyright for the content you upload, these rights are granted automatically when you upload the content. If you do not own the copyright, in part or in full, you must have received a license which provides for these rights. You may not upload content for which you do not own the copyright and have not received a suitable license.
+
+\*"Free software" and "open source" licenses (defined respectively by the Free Software Foundation and the Open Source Initiative) provide for these rights, as well as all Creative Commons licenses. Other licenses may or may not provide these rights, and it is your responsibility to check.
+
+You are encouraged to add a free software license to your project. [Read our recommendations here](https://man.sr.ht/license.md).\*
 
 You may request an archive of all of your content on the service by writing an email to Drew DeVault [sir@cmpwn.com](mailto:sir@cmpwn.com) and allowing up to 2 weeks for an archive to be prepared.
 
