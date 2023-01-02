@@ -42,7 +42,7 @@ For an overview of policies addressing questions that commonly arise, please see
   
 To view recent updates to these policies, please see our [Ad Policy Change Log](https://advertising.amazon.com/resources/ad-policy/creative-acceptance/ad-policy-change-log?ref_=a20m_us_spcs_cap_spcs_chnglg).
 
-Advertising Policies
+Advertising policies
 --------------------
 
 * [Advertising and the EU general data protection regulation](https://advertising.amazon.com/resources/ad-policy/eu-data-protection-and-privacy?ref_=a20m_us_spcs_gdpr)
@@ -67,7 +67,6 @@ Advertising Policies
 * [Remarketing and conversion pixel requirements](https://advertising.amazon.com/resources/ad-policy/remarketing-conversion-pixel-requirements?ref_=a20m_us_spcs_rmktg)
 * [Sponsored ads guidelines and acceptance policies](https://advertising.amazon.com/resources/ad-policy/sponsored-ads-policies?ref_=a20m_us_spcs_spadcap)
 * [Sponsored ads additional policies](https://advertising.amazon.com/resources/ad-policy/sponsored-ads-additional-policies?ref_=a20m_us_spcs_spadcp)
-* [Sponsored Display guidelines and acceptance policies](https://advertising.amazon.com/resources/ad-policy/sponsored-display-policies?ref_=a20m_us_spcs_sdcap)
 * [Posts content guidelines and acceptance policies](https://advertising.amazon.com/resources/ad-policy/posts?ref_=a20m_us_spcs_ptscap)
 * [Stores guidelines and acceptance policies](https://advertising.amazon.com/resources/ad-policy/stores?ref_=a20m_us_spcs_stcap)
 * [Streaming TV ad policies](https://advertising.amazon.com/resources/ad-policy/streaming-tv-ads?ref_=a20m_us_spcs_sttvad)
