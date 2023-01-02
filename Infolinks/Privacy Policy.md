@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-Updated: June 17th, 2022.
+Updated: January 1st, 2023.
 
 Infolinks Media, LLC (AKA, Infolinks) is an advertising technology company that provides a variety of online advertising-related services. We respect all concerns about privacy issues and want you to be familiar with how we collect, use, and share information and how you can exercise the privacy rights available to you.  This Privacy Policy (“Policy”) covers the information that we may process:
 
