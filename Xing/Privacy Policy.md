@@ -27,7 +27,7 @@ We, New Work SE, assume the role of controller as per the [EU General Data Prote
 
 #### Data Protection Officer
 
-Our Data Protection Officer is Felix Lasse, Am Strandkai 1, 20457 Hamburg, Germany, e-mail: [Datenschutzbeauftragter@xing.com](mailto:datenschutzbeauftragter@xing.com).
+Our Data Protection Officer is Felix Lasse, Am Strandkai 1, 20457 Hamburg, Germany, contact link: [https://www.xing.com/support/contact/security/data\_protection](https://www.xing.com/support/contact/security/data_protection).
 
 #### Processing for another purpose
 
