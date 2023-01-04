@@ -2,7 +2,7 @@
 
 * * *
 
-[](https://help.instagram.com/dialog/privacy_center/navigation/)
+[](https://help.instagram.com/dialog/navigation/)
 
 Privacy Policy
 
