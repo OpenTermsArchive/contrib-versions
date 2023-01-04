@@ -1,4 +1,4 @@
-[](https://fr-fr.facebook.com/privacy/dialog/privacy_center/navigation/)
+[](https://fr-fr.facebook.com/privacy/dialog/navigation/)
 
 Politique de confidentialité
 
