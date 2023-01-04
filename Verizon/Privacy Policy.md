@@ -874,7 +874,7 @@ Open all Close all
     
     Updated December, 2022
     
-    © 2022 Verizon. All rights reserved.
+    © 2023 Verizon. All rights reserved.
     
 
 Related topics
