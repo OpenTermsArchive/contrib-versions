@@ -319,7 +319,7 @@ Table of Contents
     
     ### 3.3 Others’ Services
     
-    You may link your account with others’ services so that they can look up your contacts’ profiles, post your shares on such platforms, or enable you to start conversations with your connections on such platforms. Excerpts from
+    You may link your account with others’ services so that they can look up your contacts’ profiles, post your shares on such platforms, or enable you to start conversations with your connections on such platforms. Excerpts from your profile will also appear on the services of others.
     
     Subject to your [settings](https://www.linkedin.com/psettings/privacy), other services may look up your profile. When you opt to link your account with other services, personal data will become available to them. The sharing and use of that personal data will be described in, or linked to, a consent screen when you opt to link the accounts. For example, you may link your Twitter or WeChat account to share content from our Services into these other services, or your email provider may give you the option to upload your LinkedIn contacts into its own service. Third-party services have their own privacy policies, and you may be giving them permission to use your data in ways we would not. You may [revoke](https://www.linkedin.com/psettings/account) the link with such accounts.
     
