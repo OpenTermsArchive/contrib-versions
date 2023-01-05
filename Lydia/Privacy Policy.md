@@ -1,4 +1,4 @@
-La version française du document est [accessible ici](https://support.lydia-app.com/l/fr/article/6ogzqxbjos-politique-de-protection-des-donn-es-caract-re-personnel-lydia).
+**The french version of this document is** [**available here**](https://support.lydia-app.com/l/fr/article/6ogzqxbjos-politique-de-protection-des-donn-es-caract-re-personnel-lydia) **and prevails over the others.**
 
 Lydia Solutions ("Lydia") is a simplified joint-stock company registered in Paris under RCS number 534 479 589 with capital of € 1,546,417, established at 14, avenue d’Opéra, 75001 Paris.
 
@@ -208,7 +208,7 @@ Lydia’s communications may occasionally contain links to the partners’ or th
 
 Lydia may occasionally change this Personal Data Protection Policy. When necessary, Lydia informs its Clients by the most appropriate means.
 
-#### **11\. CONTACT**
+#### 11\. CONTACT
 
 For any questions relative to this Privacy Policy, the Clients can contact Lydia Data Protection Officer :
 
