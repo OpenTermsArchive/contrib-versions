@@ -10,7 +10,7 @@ For customers already existing on July 30, 2019, the personal data protection po
 
 This Personal Data Protection Policy presents how Lydia Solutions, hereafter known as Lydia, as a Data Processor, collects, uses, and/or shares personal data that the Client (natural person) provides or that Lydia collects indirectly during his/her usage of Lydia Services.
 
-This Personal Data Protection Policy applies to Lydia Users and to Lydia Services as defined in our [Terms of Service](https://lydia-app.com/en/about/terms-of-service.html).
+This Personal Data Protection Policy applies to Lydia Users and to Lydia Services as defined in our [Terms of Service](https://www.lydia-app.com/en/info/legal/).
 
 As a payment services provider based in France, Lydia is regulated by the French law.
 
@@ -30,9 +30,9 @@ Lydia works with certified financial partners. Lydia and its Partners are jointl
 
 Lydia and its Partners jointly determine the treatment's purpose and means. The natural persons personal data are transferred to Lydia’s Partners in the only aim to properly perform the contract between the natural person and Lydia.
 
-* OKALI is an electronic money establishment in charge of the management of payment accounts, the execution of payment operations as well as the issuance of L-card (Visa). OKALI privacy policy is accessible here (in French).
-* Budget Insight allows Lydia to supply bank accounts aggregation and information services Budget insight Privacy Policy is accessible here. 
-* Treezor issues Lydia IBAN and L-card (Mastercard). Treezor Privacy Policy is accessible here.
+* OKALI is an electronic money establishment in charge of the management of payment accounts, the execution of payment operations as well as the issuance of L-card (Visa). OKALI privacy policy is accessible [here](https://www.okali.eu/ppd#:~:text=Cette%20Politique%20de%20Protection%20des,(le%20%C2%AB%20Site%20%C2%BB).) (in French).
+* Budget Insight allows Lydia to supply bank accounts aggregation and information services Budget insight Privacy Policy is accessible [here](https://www.powens.com/privacy-policy/). 
+* Treezor issues Lydia IBAN and L-card (Mastercard). Treezor Privacy Policy is accessible [here](https://www.treezor.com/privacy-policy/).
 
 Lydia and its Partners have a duty of mutual information, in particular regarding under the following situations :
 
