@@ -293,12 +293,12 @@ If you are a California resident and would like to use an agent registered with 
 
 _Do-Not-Track Signals_. Some mobile and web browsers transmit "do-not-track" signals. Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them. We currently do not take action in response to these signals.
 
-7\. Information for Korean Residents
+8\. Information for Korean Residents
 ------------------------------------
 
 If you are a resident in the Republic of Korea, you can find specific information on how we use your personal information [here](https://help.meetup.com/hc/en-us/articles/11108093175693-Korean-Annex).
 
-8\. Contact Us
+9\. Contact Us
 --------------
 
 **_Summary:_** _If you have any questions, you can contact us at privacy@meetup.com._
@@ -315,7 +315,6 @@ North Point Business Park
 New Mallow Road  
 Cork T23AT2P  
 Ireland  
-+420 228 881 031  
 Contact form: [https://verasafe.com/public-resources/contact-data-protection-representative](https://verasafe.com/public-resources/contact-data-protection-representative)
 
 If you are located in the United Kingdom, you can also contact Meetup’s UK GDPR representative:
@@ -324,5 +323,4 @@ VeraSafe United Kingdom Ltd.
 37 Albert Embankment  
 London SE1 7TL  
 United Kingdom  
-+44 (20) 4532 2003  
 Contact form: [https://verasafe.com/public-resources/contact-data-protection-representative](https://verasafe.com/public-resources/contact-data-protection-representative)
