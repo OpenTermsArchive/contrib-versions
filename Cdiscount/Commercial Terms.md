@@ -233,7 +233,7 @@ Une fois votre commande passée conformément à l’article 3.2, CDISCOUNT en a
 * son numéro,
 * les présentes CGV.
 
-**Cet email sera envoyé à l’adresse email que vous utilisez pour vous identifier dans votre Espace Client.** Si vous ne recevez pas l'email mentionné ci-dessus, nous vous recommandons de prendre contact avec notre Service Client.
+**Cet email sera envoyé à l’adresse email que vous utilisez pour vous identifier dans votre Espace Client.** Si vous ne recevez pas l’email mentionné ci-dessus, nous vous recommandons de prendre contact avec notre Service Client.
 
 Toutefois, CDISCOUNT se réserve le droit de ne pas accepter une commande ou de ne pas valider votre commande et/ou de suspendre l'exécution de votre commande, et ce, même après l'envoi de l'email de confirmation (tel que visé ci-dessus) pour tout motif légitime, notamment dans l’hypothèse où :  
 \-          votre commande ne serait pas conforme aux CGV ;  
@@ -1499,7 +1499,7 @@ Pour le Partenariat, quatre Associations Partenaires portant des projets spécif
 
 Les présentes Conditions Générales d’Utilisation ont pour objet de définir les modalités et conditions dans lesquelles les clients de Cdiscount (ci-après les « **Clients** ») peuvent utiliser le service de micro-don proposé par Un Rien C’est Tout et Cdiscount sur le Site au moment de la validation de leur commande pour faire un don en faveur de l’un des quatre Projets portés par une Association Partenaire et sélectionnés pour le Partenariat (ci-après le « **Service** »).
 
-L’utilisation du Service par le Client est subordonnée à l’acceptation par ce dernier des présentes Conditions Générales d’Utilisations. En validant sa commande et son don, le Client reconnaît qu’il est pleinement informé du contenu des Conditions Générales d’Utilisation et qu’il est tenu par ces dernières.
+L’utilisation du Service par le Client est subordonnée à léacceptation par ce dernier des présentes Conditions Générales d’Utilisations. En validant sa commande et son don, le Client reconnaît qu’il est pleinement informé du contenu des Conditions Générales d’Utilisation et qu’il est tenu par ces dernières.
 
 **2.**          **MODALITES D’UTILISATION DU SERVICE**
 
