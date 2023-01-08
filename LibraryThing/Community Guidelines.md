@@ -40,24 +40,18 @@ In event of dispute, account ownership is determined as follows: If a paid accou
 * Avoid responding to abuse with abuse. It will not be excused.
 * LibraryThing staff are empowered to admonish, warn, suspend, and ban users for violations of these terms. We are happy to talk things through, but our decisions are final.
 
-#### Other rules
+#### Advertising and spam
 
 * LibraryThing is not an advertising medium. Egregious commercial solicitation is forbidden.
 * No matter how great your novel, this _does_ apply to authors. (See [Tips and Guidelines for Authors](http://www.librarything.com/about_authors.php).)
 * Authors caught manipulating the system have had all their books permanently marked with a spam and manipulation warning. You don't want that, believe me.
 * Do not spam member comments or group invitations. Inviting people in your town to a new group is okay; inviting hundreds of members is not.
-* Do not repost flagged content in Talk. If you believed you were flagged unfairly, go ahead and discuss the issue (without getting personal). You can discuss it, with short selections. But you may NOT repost it. If people want to read it, they can; Talk allows you to click something to see the flagged content.
-* Do not create "pointless," "meaningless" or "random" groups or topics. We give all groups the benefit of the doubt, but the creation of multiple, duplicative and contentless groups is against these terms.
-* No personal groups (groups with fewer than two members).
-* Do not intentionally disclose sensitive private information about another member.
+
+#### Your own words
+
 * You may not post any content that violates copyright or other intellectual property law.
-* LibraryThing may not be used for any illegal activity.
-* LibraryThing may not be used to injure, threaten, stalk, impersonate, or harass someone.
 * Do not plagiarize another member's content.
-* Do not upload X-rated or otherwise highly objectionable pictures.
-* Do not upload suggestive images of minors or seeming minors.
-* Your username may not be an insult, either general or specific. Sheesh!
-* We reserve the right to remove accounts with no books after three months. (But we have never done so.)
+* LibraryThing prohibits all machine-learning- and AI-created content (for example, produced by GTP-3), unless clearly and prominently labelled as such. All such content is prohibited in book reviews and book summaries, and in other bibliographic content, even if labelled.
 
 #### System integrity
 
@@ -66,6 +60,20 @@ In event of dispute, account ownership is determined as follows: If a paid accou
 * Common Knowledge, covers and other core, shared bibliographic data must be edited in good faith.
 * LibraryThing is for _your_ books—books you own, have read or want. It would not be appropriate to fill your LibraryThing catalog with all the books in your local library or Project Gutenberg.
 * Except by permission or through an authorized API, you may not add to or query your library automatically. See our [APIs](http://www.librarything.com/services/).
+
+#### Other rules
+
+* Do not repost flagged content in Talk. If you believed you were flagged unfairly, go ahead and discuss the issue (without getting personal). You can discuss it, with short selections. But you may NOT repost it. If people want to read it, they can; Talk allows you to click something to see the flagged content.
+* Do not intentionally disclose sensitive private information about another member.
+* Do not create "pointless," "meaningless" or "random" groups or topics. We give all groups the benefit of the doubt, but the creation of multiple, duplicative and contentless groups is against these terms.
+* No purely "personal" groups (groups with fewer than two members).
+* LibraryThing may not be used for any illegal activity.
+* LibraryThing may not be used to injure, threaten, stalk, impersonate, or harass someone.
+* Do not upload X-rated or otherwise highly objectionable pictures.
+* Do not upload suggestive images of minors or seeming minors.
+* You may not impersonate another person, or other entity, on LibraryThing.
+* Your username may not be an insult, either general or specific. Sheesh!
+* We may remove accounts with no books after three months. (But we have never done so.)
 
 ### Early Reviewers
 
