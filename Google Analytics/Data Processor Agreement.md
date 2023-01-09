@@ -516,19 +516,18 @@ Appendix 3: Additional Terms for Non-European Data Protection Legislation
 
 The following Additional Terms for Non-European Data Protection Legislation supplement these Data Processing Terms:
 
-* CCPA Service Provider Addendum at [business.safety.google/adsprocessorterms/ccpa/](https://privacy.google.com/businesses/adsprocessorterms/ccpa/) (dated 1 January 2020)
+* U.S. State Privacy Laws Service Provider and Processor Addendum at [business.safety.google/adsprocessorterms/usaprivacy/](https://privacy.google.com/adsprocessorterms/usaprivacy) (dated 1 January 2023)
     
 * LGPD Processor Addendum at [business.safety.google/adsprocessorterms/lgpd/](https://privacy.google.com/businesses/adsprocessorterms/lgpd/) (dated 16 August 2020)
     
-* U.S. State Privacy Laws Service Provider and Processor Addendum at [business.safety.google/adsprocessorterms/usaprivacy/](https://privacy.google.com/businesses/adsprocessorterms/usaprivacy) (effective 1 January 2023 replacing the CCPA Service Provider Addendum)
-    
 
-_Google Ads Data Processing Terms, Version 4.0_
+_Google Ads Data Processing Terms, Version 5.0_
 
-_21 September 2022_
+_1 January 2023_
 
 **Previous Versions**
 
+* [21 September 2022](https://kstatic.googleusercontent.com/files/baf7b2323f74430725d717b9d5e9e3b8ffc0d7cc44cb30133b28d3e39ef7e83268e5edf34e757eabe35287be5897268746e55fda9d4da6d6fc4ecec6b5615cf5)
 * [27 September 2021](https://privacy.google.com/static/assets/pdf/adsprocessorterms-20210927.pdf)
 * [16 August 2020](https://privacy.google.com/adsprocessorterms-20200816/)
 * [12 August 2020](https://privacy.google.com/static/assets/pdf/adsprocessorterms-20200812.pdf)
