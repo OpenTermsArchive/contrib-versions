@@ -1,6 +1,6 @@
 Binance Terms of Use
 
-Last revised: 4 January 2023
+Last revised: 11 January 2023
 
 These Binance Terms of Use is entered into between you (hereinafter referred to as “you” or “your”) and Binance operators (as defined below). By accessing, downloading, using or clicking on “I agree” to accept any Binance Services (as defined below) provided by Binance (as defined below), you agree that you have read, understood and accepted all of the terms and conditions stipulated in these Terms of Use (hereinafter referred to as “these Terms”) as well as our Privacy Policy at [www.binance.com/en/privacy](https://www.binance.com/en/privacy). In addition, when using some features of the Services, you may be subject to specific additional terms and conditions applicable to those features.
 
@@ -243,7 +243,7 @@ e. Binance has the right to temporarily or permanently prohibit you from using L
 
 ### 8\. Binance Savings Service
 
-Binance offers Binance Savings, a service to provide Users with value-added services for their idle Digital Assets. To use Binance Savings service, you must conclude with Binance a separate Binance Savings Service User Agreement ( [en/support/faq/360032559032](https://www.binance.com/en/support/faq/360032559032)) and open a special Binance Savings service account, following the completion of registration and identity verification for your Binance Account. When using Binance Savings service, you should note that:
+Binance offers Binance Savings, a service to provide Users with value-added services for their idle Digital Assets. To use Binance Savings service, you must conclude with Binance a separate Binance Savings Service User Agreement ( [en/support/faq/bc5978ba2ac2456cbb91d13860d36134](https://www.binance.com/en/support/faq/bc5978ba2ac2456cbb91d13860d36134)) and open a special Binance Savings service account, following the completion of registration and identity verification for your Binance Account. When using Binance Savings service, you should note that:
 
 a. Binance Savings assets will be used in cryptocurrency leveraged borrowing and other businesses.
 
