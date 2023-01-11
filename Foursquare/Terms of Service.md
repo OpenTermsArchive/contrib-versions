@@ -9,8 +9,8 @@ These Terms of Use are a legally binding contract between you and Foursquare Lab
 
 These Terms of Use cover your use of the Foursquare consumer services, which we’ll refer to as the “Services”. The Services consist of:
 
-* These websites: [foursquare.com/city-guide](https://foursquare.com/city-guide), [swarmapp.com](https://www.swarmapp.com/), [marsbotapp.com](https://marsbotapp.com/), [getpanelapp.com](https://getpanelapp.com/), and any other consumer websites offered by Foursquare (collectively, the “Sites”);
-* These mobile apps: Foursquare CityGuide, Swarm, Marsbot, Marsbot for AirPods®, Placed Panel App, Give 2 Charity, Pathkeeper and Frequent Flier App, and any other consumer mobile apps offered by Foursquare (collectively, the “Apps”); and
+* These websites: [foursquare.com/city-guide](https://foursquare.com/city-guide), [swarmapp.com](https://www.swarmapp.com/), [rewardsapp.com](https://rewardsapp.com/), and any other consumer websites offered by Foursquare (collectively, the “Sites”);
+* These mobile apps: Foursquare City Guide, Swarm, Rewards by Foursquare, and any other consumer mobile apps offered by Foursquare (collectively, the “Apps”); and
 * The services, features, content and widgets offered by Foursquare in connection with the above.
 
 These Terms of Use do not cover our enterprise (business) websites or services. Those services are described in our [Enterprise Site Terms](https://foursquare.com/legal/enterprise/siteterms).
