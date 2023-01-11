@@ -6,7 +6,7 @@ View [archived Privacy Notice](https://www.nextroll.com/privacy/archived)
 
 NextRoll, Inc. (formerly AdRoll, Inc.) and its subsidiaries and affiliates (“**we** ” “**our**” or “**us**”) is an independent marketing technology company that offers intelligent, data-driven advertising and marketing services and solutions to help big and small companies accelerate their growth (“**Services**”).
 
-We have prepared this Service Privacy Notice to describe the types of data we collect from you, and explain how, why and when we collect this data in order to provide our Services to our Customers. References to **“Customer”** in this Policy Notice refers to any business, brand, marketer and/or advertiser who uses NextRoll’s Services. This Service Privacy Notice also identifies what rights you have concerning the collection of this data, such as the right to opt-out of interest-based advertising (also commonly referred to as targeted or personalized advertising). If you have additional questions, you can visit our [Trust Center](https://www.nextroll.com/trust-center) or [Contact Us.](#service-15)
+We have prepared this Service Privacy Notice to describe the types of data we collect from you, and explain how, why and when we collect this data in order to provide our Services to our Customers. References to **“Customer”** in this Policy Notice refers to any business, brand, marketer and/or advertiser who uses NextRoll’s Services. This Service Privacy Notice also identifies what rights you have concerning the collection of this data, such as the right to opt-out of interest-based advertising (also commonly referred to as targeted or personalized advertising). If you have additional questions, you can visit our [Trust Center](https://www.nextroll.com/trust-center) or [Contact Us.](#service-17)
 
 Please note that this Privacy Notice does not apply to data we collect when you visit a NextRoll website, including [https://www.nextroll.com/](https://www.nextroll.com/), [www.adroll.com](https://www.adroll.com/) and [https://www.rollworks.com/](https://www.rollworks.com/). To learn what data we collect when you visit our websites, please visit the [NextRoll Website Privacy Notice](#website).
 
@@ -50,7 +50,7 @@ NextRoll has two different business divisions:
 
 NextRoll’s Technology helps our D2C and B2B Customers provide ads and send emails to people that are most likely to find them interesting by showing them ads that are relevant to their specific interests. This is called “interest-based advertising”. We show many of these interest-based ads on websites and mobile apps which rely on advertising revenue to support the content they provide - and what we all consume - for free each day.
 
-When you visit a website or a mobile application (each a “**Digital Property**”) operated by one of our Customers, open an email from a Customer, or get served an ad by us on behalf of our Customer on a third party site, we may collect certain data from your device as described in this Service Privacy Notice. Our platform then uses that data, as well as other data described in [What Data We Collect](https://www.nextroll.com/privacy#service-2), to help our Customers provide ads and send emails to you that aim to be more relevant to you. To see an example of how this works in practice, see [Example of Interest-Based Advertising.](https://www.nextroll.com/privacy#redbox)
+When you visit a website or a mobile application (each a “**Digital Property**”) operated by one of our Customers, open an email from a Customer, or get served an ad by us on behalf of our Customer on a third party site, we may collect certain data from your device as described in this Service Privacy Notice. Our platform then uses that data, as well as other data described in [What Data We Collect](#service-2), to help our Customers provide ads and send emails to you that aim to be more relevant to you. To see an example of how this works in practice, see [Example of Interest-Based Advertising.](#redbox)
 
 Interest-based advertising enables publishers of Digital Properties to more accurately determine which ads to serve to specific users based on near real-time data. In turn, this allows our Customers to provide more effective advertising that reaches a more precise pool of prospective buyers.
 
@@ -70,7 +70,7 @@ For instance, by collecting a unique identifier (such as a cookie ID) from the d
 
 RollWorks’ B2B Services provide similar types of analytics derived from the same sort of data as AdRoll’s D2C Services described above, but with a focus on firmographic information to provide insights on the type of B2B customers that appear to be interested in specific products or offerings on that Customer’s Digital Property. For example, determining which IP address ranges are associated with a unique identifier (such as a cookie ID) so we can identify companies who may be interested in our Customer’s product or service, or, if a unique identifier is linked to an email address that has already been provided to the B2B customer, RollWorks may alert the Customer of increased browsing activity that indicates interest from a particular known account.
 
-Overall, we use the information learned from unique identifier behavior across the Internet to provide reporting to both our D2C and B2B Customers. A more detailed list of all the data we collect is described in [What Data We Collect.](https://www.nextroll.com/privacy#service-2)
+Overall, we use the information learned from unique identifier behavior across the Internet to provide reporting to both our D2C and B2B Customers. A more detailed list of all the data we collect is described in [What Data We Collect.](#service-2)
 
 ### 2\. What Data we Collect
 
@@ -84,9 +84,9 @@ We collect the following categories of data in the provision of our Services for
     
 * **_Shopping Data_**_:_ Some Customers provide us with data about their buyers’ shopping habits, including non-financial transactional data, product codes and check-out activity in addition to the browsing data that we collect. This data may come from their Digital Properties or other non-financial transactional data they maintain. We use this data to help us better target, personalize and measure the effectiveness of advertising campaigns. This data is also Customer CRM Data and belongs to our Customers and is handled by NextRoll as a processor.
     
-* **_Hashed email addresses_:** When a Customer permits us, we collect hashed versions of the email addresses that you have entered on that Customer’s Digital Property. Hashing is a technology process that pseudonymizes email addresses. For instance, when joe_the_cat@nextroll.com is run through a typical hashing function, it becomes a string of digits, such as: 0F0B7B1A1A7E8BDBBC6AA545F8CCD6F83671B32479271BFCB6CC8498912058D5. We take this step to protect email addresses, while being able to use the unique identifier created for the purpose of recognizing you online across Digital Properties and sending you interest-based ads across different devices (computers, tablets and mobile devices) and browsers (also called “cross-device matching”). We describe cross-device matching in further detail in [How We Use the Data We Collect.](https://www.nextroll.com/privacy#service-3)
+* **_Hashed email addresses_:** When a Customer permits us, we collect hashed versions of the email addresses that you have entered on that Customer’s Digital Property. Hashing is a technology process that pseudonymizes email addresses. For instance, when joe_the_cat@nextroll.com is run through a typical hashing function, it becomes a string of digits, such as: 0F0B7B1A1A7E8BDBBC6AA545F8CCD6F83671B32479271BFCB6CC8498912058D5. We take this step to protect email addresses, while being able to use the unique identifier created for the purpose of recognizing you online across Digital Properties and sending you interest-based ads across different devices (computers, tablets and mobile devices) and browsers (also called “cross-device matching”). We describe cross-device matching in further detail in [How We Use the Data We Collect.](#service-3)
     
-* **_Data We Receive in Our Corporate Capacity_**_:_ We also collect data from our own Customers and visitors to our website(s). To learn more about how we collect and use that data, please see our [Website Privacy Notice.](https://www.nextroll.com/privacy#website)
+* **_Data We Receive in Our Corporate Capacity_**_:_ We also collect data from our own Customers and visitors to our website(s). To learn more about how we collect and use that data, please see our [Website Privacy Notice.](#website)
     
 
 #### Data We Automatically Collect From Your Device
@@ -95,7 +95,7 @@ Unless you have opted-out or have otherwise refused to provide consent, the foll
 
 * **_Cookies:_** A unique identifier that NextRoll assigns to you when visiting a Customer’s Digital Property so NextRoll can understand your online journey and have the opportunity to serve ads to you when you visit Publisher’s Digital Properties.
     
-* **_Device Information:_** This is technical information about the device you use to access our Customers’ Digital Property, such as your operating system. Additionally, in the case of mobile devices, your device type, and mobile device's unique advertising identifier (such as the Apple IDFA or Android Advertising ID), and any other unique identifier that may be assigned to the mobile device, such as an Android ID or UDID in older Apple phone models, or a non-cookie unique identifier used by [Non-Cookie Technologies](https://www.nextroll.com/privacy#service-7).
+* **_Device Information:_** This is technical information about the device you use to access our Customers’ Digital Property, such as your operating system. Additionally, in the case of mobile devices, your device type, and mobile device's unique advertising identifier (such as the Apple IDFA or Android Advertising ID), and any other unique identifier that may be assigned to the mobile device, such as an Android ID or UDID in older Apple phone models, or a non-cookie unique identifier used by [Non-Cookie Technologies](#service-7).
     
 * **_IP Address:_** The IP address associated with the device you are using when accessing a Customer’s Digital Property.
     
@@ -152,7 +152,7 @@ Specifically, we use this data for the following purposes:
     
 * **_Mapping data to Our Cross-Device Asset:_** NextRoll’s cross-device asset is used to connect multiple devices to one person, household, and/or online identifiers such as an email address (hashed for security) that a Customer may have collected directly from its customers. The cross-device asset allows companies to better understand their known-customer activity, as well as improves the ability to target and measure ad campaigns (including limiting the number of times the same person or household sees an ad).
     
-    * **_Cross-device matching_**_:_ Identifying different devices and browsers that are likely to be associated with you so that ads can be targeted, capped and sequenced across those devices, and so that campaign effectiveness can be measured and analyzed. For example, cross-device matching helps us not show you ads for the shoes you were looking at on your phone but already purchased on your tablet. Instead we’ll try to show you ads for an upcoming triathlon where you can put those shoes to work. It also helps us match devices so we can honor your opt-out choices across all devices we know are connected to the opted-out cookie. You may opt-out of cross-device interest-based targeting by employing the respective opt-out techniques we describe in [Your Choices and Opting-Out of Targeted Ads](https://www.nextroll.com/privacy#service-8). To learn more about how we use cross-device matching, [visit our blog](https://www.adroll.com/blog/marketing-analytics/the-only-reasons-youll-need-to-start-running-cross-device-campaigns).
+    * **_Cross-device matching_**_:_ Identifying different devices and browsers that are likely to be associated with you so that ads can be targeted, capped and sequenced across those devices, and so that campaign effectiveness can be measured and analyzed. For example, cross-device matching helps us not show you ads for the shoes you were looking at on your phone but already purchased on your tablet. Instead we’ll try to show you ads for an upcoming triathlon where you can put those shoes to work. It also helps us match devices so we can honor your opt-out choices across all devices we know are connected to the opted-out cookie. You may opt-out of cross-device interest-based targeting by employing the respective opt-out techniques we describe in [Your Choices and Opting-Out of Targeted Ads](#service-8). To learn more about how we use cross-device matching, [visit our blog](https://www.adroll.com/blog/marketing-analytics/the-only-reasons-youll-need-to-start-running-cross-device-campaigns).
         
     * **_Syncing Online Identifiers with Customer CRM Data_**_:_ Customers may use NextRoll Services to match online browsing activity indicated by online identifiers with existing email addresses the Customer has already obtained ( i.e. Customer CRM Data).  Customers may also use this information to understand which consumers or business accounts are showing increased interest to better understand their website audience and respond with appropriate marketing activity.
         
@@ -162,7 +162,7 @@ Specifically, we use this data for the following purposes:
     
 * **_Licensing Data:_**  When we receive an email address for a U.S. resident or obtain attribute data from third party data providers or derive an email address we may license that data to our Customers. For example, our [RollWorks Contact Data Product](https://www.rollworks.com/contact-data) provides our Customers with business email addresses. 
     
-* **_Conducting Our Corporate Operations:_**  Data we collect in our corporate capacity (i.e. our own B2B lists of Customers) is used to conduct our business operations and communications. Please see our [Website Privacy Notice](https://www.nextroll.com/privacy#website) to learn more about how we use that data.
+* **_Conducting Our Corporate Operations:_**  Data we collect in our corporate capacity (i.e. our own B2B lists of Customers) is used to conduct our business operations and communications. Please see our [Website Privacy Notice](#website) to learn more about how we use that data.
     
 * **_Complying with Legal Process:_**  To satisfy in good faith any applicable law, legal process or proper governmental request, such as to respond to a subpoena (whether civil or criminal) or similar process.
     
@@ -175,7 +175,7 @@ Specifically, we use this data for the following purposes:
 
 We may disclose data about you with the following third parties:
 
-* **_With a Customer:_**  We may share data about how you have interacted with a Customer’s Digital Properties, email campaigns or ads.  We may share [business contact data](https://www.nextroll.com/privacy#service-13) collected from third party sources or inferred (for example, based on email naming conventions) with a RollWorks B2B Customer if we think that your business or employer would be interested in that Customer’s products. In regards to RollWorks’ Services, we do not collect contact data about residents of European Territories from third parties.
+* **_With a Customer:_**  We may share data about how you have interacted with a Customer’s Digital Properties, email campaigns or ads.  We may share [business contact data](#service-13) collected from third party sources or inferred (for example, based on email naming conventions) with a RollWorks B2B Customer if we think that your business or employer would be interested in that Customer’s products. In regards to RollWorks’ Services, we do not collect contact data about residents of European Territories from third parties.
     
 * **_With Our Audience Partners:_**  We share hashed email addresses or other pseudonymous online identifiers with our Audience Partners in connection with audience creation and modeling and creating segments for the Customer based on the Customer’s CRM Data. 
     
@@ -247,7 +247,7 @@ Generally speaking, an opt-out allows you to direct NextRoll not to engage in a 
     * **_iOS 7 or Higher:_** Go to your Settings > Select Privacy > Select Advertising > Enable the “Limit Ad Tracking” setting; and
     * **_For Android devices with OS 2.2 or higher and Google Play Services version 4.0 or higher:_** Open your Google Settings app > Select Ads > Enable “Opt-out of interest-based advertising.”
 * **_Industry Opt-Out Tools and Self-Regulation:_**
-    * NextRoll is a member of the Network Advertising Initiative (**NAI**) and adheres to the NAI Code of Conduct. You may use the [NAI opt-out tool](http://www.networkadvertising.org/choices/) which will allow you to opt-out of seeing interest-based ads from us and from other NAI approved member companies. In addition, the NAI opt-out tool allows you to separately opt-out of “audience matched” advertising through the NAI’s “[Audience Matched Advertising Opt-Out](http://www.networkadvertising.org/choices/).” You can also use the [email opt-out tool](https://optout.liveramp.com/opt_out) provided by our Advertising Partner, LiveRamp, to opt-out your email address from their database. Audience matching is a particular type of interest-based advertising where de-identified data (e.g. hashed emails) is tied to “offline” activity or information (this information generally is or can be associated with a consumer’s email address - whether that information is part of our Customer’s own customer lists or in lists we license to the Customer). To do “audience matching,” we or another platform then “match” that information (in de-identified form) to cookie IDs, mobile ad IDs, or other online identifiers. We describe this hashing activity in additional detail in [What Data We Collect](https://www.nextroll.com/privacy#service-2). Because this “audience matched” information is derived from an email address or information that can be tied to an email address, it is possible to opt-out with an email address. However, when you opt-out this way, you will need to submit all of the email addresses that you use for the opt-out to work.
+    * NextRoll is a member of the Network Advertising Initiative (**NAI**) and adheres to the NAI Code of Conduct. You may use the [NAI opt-out tool](http://www.networkadvertising.org/choices/) which will allow you to opt-out of seeing interest-based ads from us and from other NAI approved member companies. In addition, the NAI opt-out tool allows you to separately opt-out of “audience matched” advertising through the NAI’s “[Audience Matched Advertising Opt-Out](http://www.networkadvertising.org/choices/).” You can also use the [email opt-out tool](https://optout.liveramp.com/opt_out) provided by our Advertising Partner, LiveRamp, to opt-out your email address from their database. Audience matching is a particular type of interest-based advertising where de-identified data (e.g. hashed emails) is tied to “offline” activity or information (this information generally is or can be associated with a consumer’s email address - whether that information is part of our Customer’s own customer lists or in lists we license to the Customer). To do “audience matching,” we or another platform then “match” that information (in de-identified form) to cookie IDs, mobile ad IDs, or other online identifiers. We describe this hashing activity in additional detail in [What Data We Collect](#service-2). Because this “audience matched” information is derived from an email address or information that can be tied to an email address, it is possible to opt-out with an email address. However, when you opt-out this way, you will need to submit all of the email addresses that you use for the opt-out to work.
         
     * We also comply with the Self-Regulatory Principles for Online Behavioral Advertising as managed by the Digital Advertising Alliance (**DAA**). You may opt-out of receiving personalized ads from other companies that perform ad targeting services, including some that we may work with as Advertising Partners, via the [DAA website](http://www.aboutads.info/choices/).
         
@@ -326,7 +326,7 @@ In some cases, we act as a processor for our Customers (for example, when we han
 
 This section supplements the information contained in this Service Privacy Notice and applies solely to visitors, users and others who are residents of the State of California, as defined in Section 17014 of Title 18 of the California Code of Regulations. This section is provided to comply with the [California Consumer Privacy Act of 2018](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180SB1121), as amended by the California Privacy Rights Act of 2020 (**CPRA**), and regulations promulgated thereunder as each may be amended from time to time (collectively, the “**CCPA**”). Any terms defined in the CCPA have the same meaning when used in this section.
 
-**Information We Collect and the Purposes for Which this Information is Used**
+#### Information We Collect and the Purposes for Which this Information is Used
 
 We collect information that identifies, relates to, describes, references, is capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular consumer or device (“**personal information**”). This collection of information is listed in [What Data We Collect.](#service-2)
 
@@ -464,7 +464,7 @@ Personal information that relates to the analysis of an individual's physical or
 * purchase or browsing history for over-the-counter medications or devices that inform targeted ad selection; and
 * browsing history and inquiry for services such as elective surgeries, allergy treatments, and health-education or support groups that inform targeted ad selection.
 
-NextRoll does not create consumer profiles based on perceived interest or association with the categories of information related to health information (for example, NextRoll does not have consumer profiles for “allergies” or “ankle surgery,” etc.). NextRoll does not purchase consumer profiles that reflect consumer preferences and interests related to health.The consumer-profile interests NextRoll permits for targeted
+NextRoll does not create consumer profiles based on perceived interest or association with the categories of information related to health information (for example, NextRoll does not have consumer profiles for “allergies” or “ankle surgery,” etc.). NextRoll does not purchase consumer profiles that reflect consumer preferences and interests related to health.The consumer-profile interests NextRoll permits for targeted advertising can be found [here](https://help.adroll.com/hc/en-us/articles/360044069352).
 
 Directly from Customers and consumers.
 
@@ -487,7 +487,7 @@ For more information on how we use this data, please refer to [How We Use the Da
 
 #### Disclosure of Personal Information for a Business Purpose
 
-NextRoll discloses personal data for business purposes as set out in [Purposes for which Personal Information is Collected](https://www.nextroll.com/privacy#purposesforwhichpersonalinformationiscollected) above. We disclose, or otherwise share as indicated below, the categories of personal information to the categories of third parties as set out in [Data Sharing](#service-4).
+NextRoll discloses personal data for business purposes as set out in [Purposes for which Personal Information is Collected](#purposesforwhichpersonalinformationiscollected) above. We disclose, or otherwise share as indicated below, the categories of personal information to the categories of third parties as set out in [Data Sharing](#service-4).
 
 #### Sharing Personal Information
 
@@ -515,7 +515,7 @@ The CCPA provides California residents with specific rights regarding their pers
 
 #### _Right to Know and Data Portability Rights_
 
-You have the right to request that we disclose certain information to you about our collection and use of personal information over the past 12 months. Once we receive and confirm your verifiable consumer request, (see [Exercising Right to Know, Data Portability, Right to Deletion, and Right to Correct](https://www.nextroll.com/privacy#excersingrighttoknow)) we will disclose to you:
+You have the right to request that we disclose certain information to you about our collection and use of personal information over the past 12 months. Once we receive and confirm your verifiable consumer request, (see [Exercising Right to Know, Data Portability, Right to Deletion, and Right to Correct](#excersingrighttoknow)) we will disclose to you:
 
 * The categories of personal information we collected about you;
     
@@ -536,7 +536,7 @@ You have the right to request that we disclose certain information to you about 
 
 #### _Right to Delete_
 
-You have the right to request that we delete any of your personal information that we collect from you and retain, subject to certain exceptions. Once we receive and confirm your verifiable consumer request (see [Exercising Right to Know, Data Portability, Right to Deletion, and Right to Correct](https://www.nextroll.com/privacy#excersingrighttoknow)), we will delete (and direct our service providers to delete) your personal information from our records, unless an exception applies.
+You have the right to request that we delete any of your personal information that we collect from you and retain, subject to certain exceptions. Once we receive and confirm your verifiable consumer request (see [Exercising Right to Know, Data Portability, Right to Deletion, and Right to Correct](#excersingrighttoknow)), we will delete (and direct our service providers to delete) your personal information from our records, unless an exception applies.
 
 We may deny your deletion request if retaining the information is necessary for us or our service provider(s) to:
 
@@ -561,7 +561,7 @@ We may deny your deletion request if retaining the information is necessary for 
 
 You have the right to request that a business correct inaccurate personal Information that is maintains about you, taking into account the nature of the personal information and the purposes of the processing of the personal Information. 
 
-Once we receive and confirm your verifiable consumer request (see [Exercising Right to Know, Data Portability, Right to Deletion, and Right to Correct](https://www.nextroll.com/privacy#excersingrighttoknow)), we will use commercially reasonable efforts to correct (and direct our service providers to do the same) your personal information, unless an exception applies.
+Once we receive and confirm your verifiable consumer request (see [Exercising Right to Know, Data Portability, Right to Deletion, and Right to Correct](#excersingrighttoknow)), we will use commercially reasonable efforts to correct (and direct our service providers to do the same) your personal information, unless an exception applies.
 
 #### Exercising Right to Know, Data Portability, Right to Deletion, and Right to Correct
 
@@ -603,7 +603,7 @@ To view metrics regarding consumer requests to know, delete, and opt out, for th
 
 #### _Right to Limit Collection of Sensitive Personal Information_
 
-You have the right to limit the use or disclosure of sensitive personal information by the business by visiting our [opt-out](https://app.adroll.com/optout) page or [Do Not Sell or Share My Personal Information page](https://app.adroll.com/optout/email), or through the instructions provided in [Your Choices and Opting-Out of Interest-Based Advertising and Analytics Ads](https://www.nextroll.com/privacy#service-8).
+You have the right to limit the use or disclosure of sensitive personal information by the business by visiting our [opt-out](https://app.adroll.com/optout) page or [Do Not Sell or Share My Personal Information page](https://app.adroll.com/optout/email), or through the instructions provided in [Your Choices and Opting-Out of Interest-Based Advertising and Analytics Ads](#service-8).
 
 #### _Right to Opt out of the Sale or Sharing of Your Personal Information_ 
 
@@ -642,7 +642,7 @@ Consumers in these states can exercise their rights via the methods described in
 
 #### The Sale of Personal Information and Processing for Targeted Advertising
 
-For information on the sale of your personal information and how to opt out, see Sales of Personal Information.  NextRoll processes personal information for targeted advertising. See [How We Use the Data We Collect](https://www.nextroll.com/privacy#service-3) above. To opt out of targeted advertising, see [Your Choices and Opting-Out of Interest-Based Advertising and Analytics](https://www.nextroll.com/privacy#service-8).
+For information on the sale of your personal information and how to opt out, see Sales of Personal Information.  NextRoll processes personal information for targeted advertising. See [How We Use the Data We Collect](#service-3) above. To opt out of targeted advertising, see [Your Choices and Opting-Out of Interest-Based Advertising and Analytics](#service-8).
 
 ### 15\. Information for Individuals Located in Brazil
 
