@@ -1,9 +1,9 @@
 Privacy Notice
 ==============
 
-#### Last Updated: December 30, 2022
+#### Last Updated: January 10, 2023
 
-To see prior version, click [here](https://aws.amazon.com/privacy/aws-privacy-prior-20220603).
+To see prior version, click [here](https://aws.amazon.com/privacy/aws-privacy-prior-20220901/).
 
 This Privacy Notice describes how we collect and use your personal information in relation to AWS websites, applications, products, services, events, and experiences that reference this Privacy Notice (together, “AWS Offerings”).
 
@@ -383,7 +383,7 @@ We provide additional information about our controllers and data protection offi
     | Salesforce | Customer relationship management |
     | General Agent | Domestic agent |
     
-    The details of delegation for event management can be found from the relevant event page.
+    The details of delegation for event management can be found on the relevant event page.
     
     AWS may share your personal information with the following third party service provider(s) outside of Korea as described below: 
     
@@ -408,7 +408,7 @@ We provide additional information about our controllers and data protection offi
     
     Name and representative: General Agent Co., Ltd. (Representative: Eun Mi Kim)
     
-    Address: 28, Saemunan-ro 5ga-gil Jongno-gu, Seoul  
+    Address: Rm. 1216, 28, Saemunan-ro 5ga-gil Jongno-gu, Seoul  
     
     Telephone number: (02) 735 6888
     
@@ -501,9 +501,9 @@ Customers can access the information above through AWS Offerings, such as the [A
 Privacy Notice
 ==============
 
-#### Last Updated: December 30, 2022
+#### Last Updated: January 10, 2023
 
-To see prior version, click [here](https://aws.amazon.com/privacy/aws-privacy-prior-20220603).
+To see prior version, click [here](https://aws.amazon.com/privacy/aws-privacy-prior-20220901/).
 
 This Privacy Notice describes how we collect and use your personal information in relation to AWS websites, applications, products, services, events, and experiences that reference this Privacy Notice (together, “AWS Offerings”).
 
@@ -883,7 +883,7 @@ We provide additional information about our controllers and data protection offi
     | Salesforce | Customer relationship management |
     | General Agent | Domestic agent |
     
-    The details of delegation for event management can be found from the relevant event page.
+    The details of delegation for event management can be found on the relevant event page.
     
     AWS may share your personal information with the following third party service provider(s) outside of Korea as described below: 
     
@@ -908,7 +908,7 @@ We provide additional information about our controllers and data protection offi
     
     Name and representative: General Agent Co., Ltd. (Representative: Eun Mi Kim)
     
-    Address: 28, Saemunan-ro 5ga-gil Jongno-gu, Seoul  
+    Address: Rm. 1216, 28, Saemunan-ro 5ga-gil Jongno-gu, Seoul  
     
     Telephone number: (02) 735 6888
     
