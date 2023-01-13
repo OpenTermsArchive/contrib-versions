@@ -677,7 +677,7 @@ Open all Close all
     * sharing information from our Fios TV website and apps for audience measurement and market research purposes;
     * sharing customer information with third-party advertising and social media companies to help them better target our advertising on their sites and apps or display our ads to other potential customers using interest segments they create from your activities across non-affiliated sites and apps.
     
-    You can review additional details and opt out of sale and sharing by accessing [Your Privacy Choices ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png)](http://www.verizon.com/privacy/your-privacy-choices) .
+    You can review additional details and opt out of sale and sharing by accessing [Your Privacy Choices](http://www.verizon.com/privacy/your-privacy-choices) .
     
     **You have the right to limit the use of sensitive personal Information.** This right lets you ask us to limit the use and disclosure of sensitive personal information if we use that information for purposes beyond what is needed to provide the products and services you request or for other [reasons specified in the law](#). We do not use or disclose sensitive personal information for other purposes without your consent so we do not offer you an option to limit the use of sensitive information.
     
@@ -700,7 +700,7 @@ Open all Close all
     * visiting our [Privacy Dashboard](https://www.verizon.com/privacy/your-data) or
     * calling  1-800-333-3972.
     
-    You or your authorized agent can exercise your right to opt-out of selling and sharing by visiting [Your Privacy Choices ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png)](http://www.verizon.com/privacy/your-privacy-choises) .
+    You or your authorized agent can exercise your right to opt-out of selling and sharing by visiting [Your Privacy Choices](http://www.verizon.com/privacy/your-privacy-choises) .
     
     **Reporting.** You can access our [2021 Record-Keeping report](https://www.verizon.com/about/privacy/ccpa-reporting) to find out more about the CCPA requests we received during the year.
     
@@ -836,7 +836,7 @@ Open all Close all
     * sharing information with third-party advertising and social media companies to help them target our advertising on their sites or apps, or display our ads to other potential customers using the interest segments they create from your activities across non-affiliated sites and apps; and
     * using consumer information we obtain from third-parties to better customize our advertising, when that information is derived from your activities across non-affiliated sites and apps.
     
-     You can review additional details and opt out of sale and sharing by accessing [Your Privacy Choices.![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png)](http://www.verizon.com/privacy/your-privacy-choices).
+     You can review additional details and opt out of sale and sharing by accessing [Your Privacy Choices.](http://www.verizon.com/privacy/your-privacy-choices).
     
     **You have the right to appeal.** You can appeal a denial of your request to exercise any of the privacy rights provided by the Virginia law. If we deny your request, we will notify you and give you instructions on how you can appeal that decision.  If we deny your appeal, we will notify you about how you may contact the Virginia Attorney General to submit a complaint. 
     
@@ -853,7 +853,7 @@ Open all Close all
     * Visiting our [Privacy Dashboard](https://www.verizon.com/privacy/your-data) or
     * Calling 1.800.333.3972.
     
-    You can exercise your right to opt-out of targeted advertising by visiting our [Your Privacy Choices ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png)](http://www.verizon.com/privacy/your-privacy-choices)  page.
+    You can exercise your right to opt-out of targeted advertising by visiting our [Your Privacy Choices ;](http://www.verizon.com/privacy/your-privacy-choices)page.
     
     We may require you to [verify your identity](#) using the processes described in the dashboard and the privacy choices page before we fulfill your request.
     
