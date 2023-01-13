@@ -7,7 +7,7 @@ Criteo Advertising Guidelines
 
 * * *
 
-Criteo, including IPONWEB and its affiliated platforms, operate through the highest quality network. For this reason, Criteo’s advertiser partners must adhere to and comply at all times to these guidelines.
+Criteo, including IPONWEB and its affiliated platforms, operate through the highest quality network. For this reason, Criteo’s advertiser partners must at all times adhere to and comply with these guidelines.
 
 Each of Criteo’s advertising partners is responsible for ensuring that their content, products, or services comply with applicable laws and regulations, including applicable data protection and privacy laws and regulations.
 
@@ -32,7 +32,7 @@ Sexual, highly suggestive, or pornographic advertisements or images including bu
 
 **1.3. Deceptive, False, or Misleading Products/Services**
 
-Deceptive, misleading, purposely ambiguous, or fraudulent claims, images, offers, or business practices including but not limited to ads or content that is fraudulently or misleadingly inducing a user to click on an Ad.
+Deceptive, misleading, purposely ambiguous, or fraudulent claims, images, offers, or business practices including but not limited to ads or content that is fraudulently or misleadingly inducing a user to click on an ad.
 
 **1.4. Illegal, or Legally Questionable, Activity and Dishonest, or Predatory Content or Activities**
 
@@ -48,15 +48,15 @@ Advertising that contains gratuitous violence, sexually explicit, pornographic, 
 
 **1.7. Firearms and Weapons**
 
-Including but not limited to advertising for ammunition, firearms, or related paraphernalia (including accessories), paintball guns, guns, air guns, stun guns, explosives, bombs, knives or weapons of any kind, and fireworks.
+Advertising for firearms and ammunition is prohibited. This includes, but is not limited to, advertising for ammunition, firearms, or related paraphernalia (including accessories), paintball guns, guns, air guns, stun guns, explosives, bombs, knives or weapons of any kind, and fireworks.
 
 **1.8. Drugs**
 
-Advertising for illegal drugs or related paraphernalia are prohibited. Drugs both illicit and recreational, defined as substances that alter mental state or induce “highs,” as well as ads for products or services marketed as facilitating drug use, are prohibited. Examples include cocaine, heroin, other illegal opioids, and substances that could be used to create “legal highs” such as medical marijuana.
+Advertising for illegal drugs or related paraphernalia is prohibited. Ads for Drugs, both illicit and recreational, defined as substances that alter mental state or induce “highs,” as well as ads for products or services marketed as facilitating drug use, are prohibited. Examples include cocaine, heroin, other illegal opioids, and substances that could be used to create “legal highs” such as medical marijuana.
 
 **1.9. Children’s Sites**
 
-Advertising in any website (or portion of websites) or mobile app that specifically target individuals under the age of 16 is prohibited.
+Advertising in any website (or portion of websites) or mobile app that specifically targets children under the age required for consent to the collection of personal information, as defined by applicable law.
 
 **Nota Bene: BidSwitch Demand Partners can enter COPPA=1 traffic trading.**
 
@@ -66,11 +66,11 @@ Advertising for any dating site that promotes affairs or infidelity, escort or p
 
 **1.11. Unsecure Content**
 
-Advertising for products, including but not limited to adware, spyware, P2P application, malware, spyware, viruses, worms, Trojan horses are prohibited. Any advertising containing harmful computer code that interferes with or disrupts the integrity or performance of the Criteo Service is prohibited, this includes but is not limited to code that:
+Advertising for products, including but not limited to adware, spyware, P2P application, malware, viruses, worms, Trojan horses are prohibited. Any advertising containing harmful computer code that interferes with or disrupts the integrity or performance of the Criteo Service is prohibited, this includes but is not limited to code that:
 
 * Changes user preferences or browser settings.
 * Initiates downloads without the user’s explicit consent.
-* Distributes adware, spyware, malware, spyware, viruses, worms, Trojan horses or redirects users to unwanted websites, including malware.
+* Distributes adware, spyware, malware, viruses, worms, Trojan horses or redirects users to unwanted websites, including malware.
 * Initiates pop-ups or pop-unders that interfere with site navigation.
 * Inflates arbitrage ad impressions, including advertising stacking or calling other advertising units at run time.
 
@@ -108,7 +108,7 @@ Advertising of tobacco or tobacco-related products, vaping products, or related 
 * Advertising clearly intended for smoking cessation is permitted in allowed countries and under specific restrictions.
 * Electronic cigarettes and chewing tobacco cannot be advertised even when marketed as smoking cessation.
 
-**2.6. Psychics, Astrology, Fortune tellers, etc.**
+**2.6. Psychics, Astrology, Fortune Tellers, etc.**
 
 * Advertising of psychic products or services, including fortune-tellers, mediums, astrologists, tarot card readings, witchcraft, hypnosis, cult /occult activities and similar products or services.
 * However advertising which promotes the accuracy of, or guarantees results based on, astrology, psychics, or paranormal services or products are strictly prohibited.
@@ -134,17 +134,16 @@ Customer may also be required to agree to certain additional conditions relating
 3\. Ad Formats and Technical Guidelines
 ---------------------------------------
 
-**3.1. Advertising shall not contain any of the following:**
+**3.1. Advertising Shall Not Contain Any of the Following:**
 
 * hacking/cracking content.
-* content relating to the sale of prescription drugs.
 * auto-play audio elements.
 * pop-up or pop-under content.
 * shaking or blurry images.
 * advertising that is not within the specified ad unit size parameters. multiple advertising units per advertising slot.
 * auto-refresh advertising units.
 
-**3.2. Advertiser shall:**
+**3.2. Advertiser Shall:**
 
 * not resell ad units, except with explicit publisher approval.
 * serve an ad unit to the publisher with the correct technical guidelines and requirements for said publisher ad unit, except with explicit publisher and advertiser approval.
@@ -154,7 +153,7 @@ For more information on technical requirements and format guidelines, you can al
 
 * * *
 
-4\. Privacy and users’ protected characteristics
+4\. Privacy and Users’ Protected Characteristics
 ------------------------------------------------
 
 Promotion of content, product or services that targets one or several of the following non-exhaustive list of users’ protected characteristics is prohibited unless expressly approved by Criteo in permitted countries:
@@ -163,7 +162,8 @@ Promotion of content, product or services that targets one or several of the fol
 * Ethnicity
 * Religious Affiliation or Belief Sensitive Health Condition
 * Sexual Orientation
-* Sexual Interests and Practices Personally Identifiable Information Political affiliation/opinion
+* Sexual Interests and Practices Personally Identifiable Information
+* Political affiliation/opinion
 * Trade Union Membership
 * Biometric information or genetic data Criminal History or Status
 * Religion or personal belief
