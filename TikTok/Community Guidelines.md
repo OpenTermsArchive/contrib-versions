@@ -1,5 +1,34 @@
 ### Community Guidelines
 
+* Introduction
+    
+* Minor safety
+    
+* Dangerous acts and challenges
+    
+* Suicide, self-harm, and disordered eating
+    
+* Adult nudity and sexual activities
+    
+* Bullying and harassment
+    
+* Hateful behavior
+    
+* Violent extremism
+    
+* Integrity and authenticity
+    
+* Illegal activities and regulated goods
+    
+* Violent and graphic content
+    
+* Copyright and trademark infringement
+    
+* Platform security
+    
+* Ineligible for the For You feed
+    
+
   
 
 Introduction
