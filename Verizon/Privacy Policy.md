@@ -700,7 +700,7 @@ Open all Close all
     * visiting our [Privacy Dashboard](https://www.verizon.com/privacy/your-data) or
     * calling  1-800-333-3972.
     
-    You or your authorized agent can exercise your right to opt-out of selling and sharing by visiting [Your Privacy Choices](http://www.verizon.com/privacy/your-privacy-choises) .
+    You or your authorized agent can exercise your right to opt-out of selling and sharing by visiting [Your Privacy Choices](http://www.verizon.com/privacy/your-privacy-choices) .
     
     **Reporting.** You can access our [2021 Record-Keeping report](https://www.verizon.com/about/privacy/ccpa-reporting) to find out more about the CCPA requests we received during the year.
     
