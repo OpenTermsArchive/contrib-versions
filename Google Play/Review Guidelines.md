@@ -218,7 +218,7 @@ Developer
 
 * ### Your account
     
-    * [Can't access your account?](https://www.google.co.uk/accounts/recovery)
+    * [Can't access your account?](https://www.google.com/accounts/recovery)
     * [Recent transactions with Google](https://payments.google.com/manage/)
     * [Useful stuff you can do with Google](https://www.google.com/get/googletips)
     
