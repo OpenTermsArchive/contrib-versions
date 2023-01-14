@@ -1,3 +1,5 @@
+Updated January 4, 2023
+
 Privacy Policy
 ==============
 
@@ -25,7 +27,7 @@ This Statement addresses:
 A. Personal Information Collected
 ---------------------------------
 
-Windstream limits the information collected about you to what is needed for conducting business, including the offering of products and services that might be of interest to you. You may choose to provide “personally identifiable information” (PII) to Windstream in a number of ways either in person, telephonically or via our websites or mobile apps. Examples of how you may share PII with us include: ordering a service or equipment from us, sending us e-mail, responding to Windstream surveys, entering Windstream-sponsored contests or sweepstakes, registering to receive news or public information or applying for a job. We may also obtain PII from third parties (for example, credit agencies) with your permission.
+Windstream limits the information collected about you to what is needed for conducting business, including the offering of products and services that might be of interest to you. You may choose to provide “personally identifiable information” (PII) to Windstream in a number of ways either in person, telephonically or via our websites or mobile apps. Examples of how you may share PII with us include: ordering a service or equipment from us, downloading and using a Windstream mobile app, sending us e-mail, responding to Windstream surveys, entering Windstream-sponsored contests or sweepstakes, registering to receive news or public information or applying for a job. We may also obtain PII from third parties (for example, credit agencies) with your permission.
 
 Examples of PII are:
 
@@ -40,20 +42,22 @@ Examples of PII are:
 * Driver’s license number or government issued identification number
 * Company contact information for business customers
 * Information obtained by Windstream through customer referral programs
+* Mobile app user photos
+* Contact lists shared via mobile app
 
 The following information is not PII:
 
 * Mailing address, unless unlisted or restricted at your request
 * Telephone number, unless unlisted or restricted at your request
 * IP Address allowing you to use our internet service
-* PII included in aggregate data complied by Windstream
+* PII included in aggregate data compiled by Windstream
 
 Windstream may compile or aggregate PII from numerous customers or Web visitors or mobile app users to collect data about groups of customers or potential customers or categories of service. Windstream does not consider this “aggregate” information as PII because the aggregate information does not contain the PII of any individual customer, Web visitor, or mobile app user.
 
 B. Use of Personally Identifiable Information
 ---------------------------------------------
 
-Windstream uses PII to provide products and services to meet customers' needs, including new products or services. Windstream may share PII with any Windstream-affiliated company, and these companies are subject to the terms of this Statement.
+Windstream uses PII to provide products and services to meet customers' needs, including new products or services. Windstream may share PII with any Windstream-affiliated company, and these companies are subject to the terms of this Statement.  PII is used in our mobile apps explicitly to enable easier communication through the use of the app to make and receive communications from contacts and enable users to display their photo.
 
 Windstream retains PII only as long as is necessary for Windstream to comply with business, tax and legal requirements. This retention period could be the entire time you are our customer depending on the type of PII.
 
@@ -102,7 +106,7 @@ Windstream does not sell PII of its customers. In limited circumstances, Windstr
 G. Data Collection Technologies
 -------------------------------
 
-In addition to PII identified in Section A of this Statement, we, or our third-party partners, may collect non-personal information automatically when you visit Windstream websites, other third-party sites, open Windstream emails or use Windstream mobile apps, such as domain name, browser, your computer operating system, information about the Web page from which you linked to the website, and time spent on different parts of our websites or mobile apps. We or our partners may use this information to evaluate and improve the websites and mobile apps, and may share the information with third parties on an aggregated basis to enhance our products and services offered. This on-line information is typically collected via **cookies**, **web beacons** (see **Section N** for definitions), and/or other data collection technologies. Like virtually all other websites that you visit, we use cookies to deliver Web content specific to your interests and to control access to your personal shopping cart after your initial entry. The cookie permits the server to recall information from your previous shopping trip, should you decide to think about your purchase. A cookie is not used to access or otherwise compromise the data on your hard drive. With most browsers, you can choose to change your browser settings to disable cookies. Please be aware that cookies may be required to complete certain functions on Windstream websites and other websites you may link to from Windstream websites, including making purchases or payments on your Windstream account.
+In addition to PII identified in Section A of this Statement, we, or our third-party partners, may collect non-personal information automatically when you visit Windstream websites, other third-party sites, open Windstream emails or use Windstream mobile apps, such as domain name, browser, your computer operating system, information about the Web page from which you linked to the website, and time spent on different parts of our websites or mobile apps. We or our partners may use this information to evaluate and improve the websites and mobile apps, and may share the information with third parties on an aggregated basis to enhance our products and services offered. This on-line information is typically collected via **cookies**, **web beacons** (see **Section N** for definitions), and/or other data collection technologies. Like virtually all other websites that you visit, we use cookies to deliver Web content specific to your interests and to control access to your personal shopping cart after your initial entry. The cookie permits the server to recall information from your previous shopping trip, should you decide to think about your purchase. A cookie is not used to access or otherwise compromise the data on your hard drive. With most browsers, you can choose to change your browser settings to disable cookies. Please be aware that cookies may be required to complete certain functions on Windstream websites and other websites you may link to from Windstream websites, including making purchases or payments on your Windstream account.  Windstream does not collect personal information (i.e. user photos and contact lists) shared via or connected with Windstream mobile apps. 
 
 H. Security Measures
 --------------------
