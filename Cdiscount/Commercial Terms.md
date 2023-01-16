@@ -233,7 +233,7 @@ Une fois votre commande passée conformément à l’article 3.2, CDISCOUNT en a
 * son numéro,
 * les présentes CGV.
 
-**Cet email sera envoyé à l’adresse email que vous utilisez pour vous identifier dans votre Espace Client.** Si vous ne recevez pas l'email mentionné ci-dessus, nous vous recommandons de prendre contact avec notre Service Client.
+**Cet email sera envoyé à l’adresse email que vous utilisez pour vous identifier dans votre Espace Client.** Si vous ne recevez pas l’email mentionné ci-dessus, nous vous recommandons de prendre contact avec notre Service Client.
 
 Toutefois, CDISCOUNT se réserve le droit de ne pas accepter une commande ou de ne pas valider votre commande et/ou de suspendre l'exécution de votre commande, et ce, même après l'envoi de l'email de confirmation (tel que visé ci-dessus) pour tout motif légitime, notamment dans l’hypothèse où :  
 \-          votre commande ne serait pas conforme aux CGV ;  
