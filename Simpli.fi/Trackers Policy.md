@@ -16,7 +16,7 @@ SIMPLI.FI Cookie Policy
 1.0 Background
 --------------
 
-This Cookie policy is drawn up by Simpli.fi Holdings, Inc. having its principal place of business at 1407 Texas St # 202 Fort Worth, TX 76102, USA. It is made available to you for information purposes only.
+This Cookie policy is drawn up by Simpli.fi Holdings, LLC having its principal place of business at 1407 Texas St # 202 Fort Worth, TX 76102, USA. It is made available to you for information purposes only.
 
 2.0 What are cookies?
 ---------------------
@@ -111,7 +111,7 @@ We adhere to the Self-Regulatory Principles for Online Behavioral Advertising an
 
 If you have any questions or comments regarding our Cookie Policy, please contact us as described below.
 
-**Simpli.fi Holdings, Inc.**  
+**Simpli.fi Holdings, LLC**  
 128 East Exchange Avenue, Suite 700  
 Fort Worth, TX 76164 USA
 
