@@ -13,7 +13,7 @@ SIMPLI.FI WEBSITE PRIVACY POLICY
 December 23, 2022
 
    
-This Privacy Policy is published by Simplifi Holdings, Inc. (“Simplifi,” “we” or “us”) and describes how we collect, receive, use, retain, process, disclose, transfer, and secure Personal Information on our website located at [http://simpli.fi](http://simpli.fi/), our online client portal located at [App.simpli.fi](http://app.simpli.fi/), and other websites or apps for our clients that link to this Privacy Policy (collectively, the “Site”). It also describes your choices regarding use, access, deletion, and correction of your Personal Information. The Site is intended for our business clients. Our prospective or current clients, including advertisers or publishers, are referred to in this Policy as “Advertising Customers.” All references to “you,” “your” or “user” apply to Advertising Customers and any other person viewing, using or accessing the Site and its features and services. For information about our data practices when we carry out our advertising services, please review our [Privacy Policy for our Services](https://simpli.fi/simpli-fi-services-privacy-policy/).
+This Privacy Policy is published by Simplifi Holdings, LLC (“Simplifi,” “we” or “us”) and describes how we collect, receive, use, retain, process, disclose, transfer, and secure Personal Information on our website located at [http://simpli.fi](http://simpli.fi/), our online client portal located at [App.simpli.fi](http://app.simpli.fi/), and other websites or apps for our clients that link to this Privacy Policy (collectively, the “Site”). It also describes your choices regarding use, access, deletion, and correction of your Personal Information. The Site is intended for our business clients. Our prospective or current clients, including advertisers or publishers, are referred to in this Policy as “Advertising Customers.” All references to “you,” “your” or “user” apply to Advertising Customers and any other person viewing, using or accessing the Site and its features and services. For information about our data practices when we carry out our advertising services, please review our [Privacy Policy for our Services](https://simpli.fi/simpli-fi-services-privacy-policy/).
 
 “Personal Information” in this Privacy Policy is information about you that is personally identifying or could reasonably be used to identify you, such as your name, email address, or telephone number. The definition of Personal Information depends on the laws that apply in your location, and may include other types of information as well, such as location data, your Internet Protocol (IP) address, or other unique identifier. This Privacy Policy covers information we collect online only, unless local law requires otherwise.
 
@@ -204,11 +204,11 @@ or:
 
 **Chief Privacy Officer**  
 c/o Frost Prioleau, CEO  
-Simplifi Holdings Inc.  
+Simplifi Holdings LLC  
 128 East Exchange Avenue, Suite 700  
 Fort Worth, TX 76164
 
 **The controller of Personal Information collected through the Site is:**  
-**Simpli.fi Holdings, Inc.**  
+**Simpli.fi Holdings, LLC**  
 128 East Exchange Avenue, Suite 700  
 Fort Worth, TX 76164 USA
