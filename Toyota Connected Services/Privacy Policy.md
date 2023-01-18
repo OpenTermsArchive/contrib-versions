@@ -145,6 +145,7 @@ We use the information we collect about and from you for a variety of business p
 * Quality control purposes;
 * Comply with laws or other legal obligations, including for dispute resolution purposes;
 * Comply with license obligations;
+* Carry out B2B functions;
 * For purposes disclosed at the time you provide your Personal Information or otherwise with your consent.
 * You may share your location with us and we may use it for the purpose of providing you with offers and other information relevant to your location.
 
@@ -190,7 +191,7 @@ The Platforms are not directed to children under 13. We do not knowingly collect
 
 **8\. SECURITY OF YOUR INFORMATION AND PHISHING SCAMS.**
 
-We take information security seriously and use certain reasonable security measures to help protect your Personal Information. However, no electronic data transmission or storage of information can be guaranteed to be 100% secure. Please note that we cannot ensure or warrant the security of any information you transmit to us, and you use the Platforms and provide us with your information at your own risk. When we collect sensitive information on our sites or within our mobile application (such as credit card number or geo-location information), we encrypt the transmission of that information using Secure Socket Layer technology.
+We take information security seriously and use certain reasonable security measures to help protect your Personal Information. However, no electronic data transmission or storage of information can be guaranteed to be 100% secure. Please note that we cannot ensure or warrant the security of any information you transmit to us, and you use the Platforms and provide us with your information at your own risk. When we collect sensitive information on our sites or within our mobile application (such as credit card number or geo-location information), we encrypt the transmission of that information using Secure Sockets Layer technology.
 
 _Beware of Phishing Scams:_ There have been noticeable increases in the number of suspicious e-mails claiming that the e-mail recipient has won a Toyota lottery or other promotion. Sometimes the e-mail claims that the recipient has won a new Toyota Prius. In order to claim the prize, the e-mail asks that Personal Information be sent to a Gmail or Yahoo e-mail address.
 
