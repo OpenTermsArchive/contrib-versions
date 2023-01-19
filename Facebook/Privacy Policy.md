@@ -1,10 +1,10 @@
-[](https://fr-fr.facebook.com/privacy/dialog/privacy_center/navigation/)
+[](https://fr-fr.facebook.com/privacy/dialog/navigation/)
 
 Politique de confidentialité
 
 Qu’est-ce que la Politique de confidentialité et que couvre-t-elle ?
 
-Date effective : 26 juillet 2022 | [Voir la version imprimable](https://mbasic.facebook.com/privacy/policy/printable/) | [Afficher les versions précédentes](https://fr-fr.facebook.com/privacy/policy/?show_versions=1)
+Date effective : 1 janvier 2023 | [Voir la version imprimable](https://mbasic.facebook.com/privacy/policy/printable/) | [Afficher les versions précédentes](https://fr-fr.facebook.com/privacy/policy/?show_versions=1)
 
 Chez Meta, nous souhaitons que vous compreniez quelles informations nous recueillons et comment nous les utilisons et les partageons. C’est pourquoi nous vous encourageons à lire notre Politique de confidentialité. Cela vous permet d’utiliser les Produits Meta de la manière qui vous convient le mieux.
 
@@ -64,7 +64,7 @@ Voici les manières dont nous utilisons vos informations :
 
 Pour offrir, personnaliser et améliorer nos Produits
 
-Nous utilisons les informations à notre disposition, notamment les [informations avec des protections spéciales](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.1-YourActivityAndInformation) que vous choisissez de partager, pour fournir et améliorer nos Produits. Cela inclut la personnalisation des fonctionnalités, du contenu et des [recommandations](https://www.facebook.com/help/1257205004624246), comme votre [Fil Facebook](https://fr-fr.facebook.com/privacy/policy/?annotations[0]=2.ex.4-HowWePersonalizeYour), [votre fil Instagram](https://ai.facebook.com/tools/system-cards/instagram-feed-ranking), vos stories et vos publicités. Nous n’utilisons pas les champs du profil à propos des croyances religieuses, des opinions politiques ou de qui vous « intéresse » pour vous montrer des publicités.
+Nous utilisons les informations à notre disposition pour fournir et améliorer nos Produits. Cela inclut des fonctionnalités de personnalisation, du contenu et des [recommandations](https://www.facebook.com/help/1257205004624246), comme votre [Fil Facebook](https://fr-fr.facebook.com/privacy/policy/?annotations[0]=2.ex.4-HowWePersonalizeYour), [votre fil Instagram](https://ai.facebook.com/tools/system-cards/instagram-feed-ranking), vos stories et vos publicités. Nous utilisons les [informations avec des protections spéciales](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.1-YourActivityAndInformation) que vous choisissez de fournir à ces fins, mais pas pour vous montrer des publicités.
 
 En savoir plus sur la manière dont nous utilisons des informations pour fournir, personnaliser et améliorer nos Produits :
 
@@ -110,7 +110,7 @@ Nous utilisons les informations à notre disposition, les informations fournies 
 
 Plus d’informations dans la Politique de confidentialité
 
-[Finalités et moyens du traitement de vos informations](https://fr-fr.facebook.com/privacy/policy/?section_id=19-WhyAndHowWe)
+[Finalités et moyens de traitement de vos informations](https://fr-fr.facebook.com/privacy/policy/?section_id=19-WhyAndHowWe)
 
 Comment vos informations sont-elles partagées sur les Produits Meta ou avec nos Partenaires intégrés ?
 
