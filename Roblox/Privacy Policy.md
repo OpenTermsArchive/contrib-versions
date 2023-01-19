@@ -13,11 +13,12 @@
 * [13\. Your Privacy Rights in California](#your-privacy-rights-ca)
 * [14\. Your Privacy Rights if you live in the EEA, UK or Switzerland](#your-privacy-rights-eea-uk-ch)
 * [15\. Additional Information for users in Brazil](#addition-information-brazil)
-* [16\. Privacy Policy Changes and Updates](#privacy-policy-changes)
+* [16\. State Privacy Rights](#state-privacy-rights)
+* [17\. Privacy Policy Changes and Updates](#privacy-policy-changes)
 
 [](https://www.kidsafeseal.com/certifiedproducts/roblox.html)
 
-Please find the shortened version of our Privacy Policy below. Please click the title of each section to expand for the full details of our Privacy Policy. You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/article_attachments/11403211597588).
+Please find the shortened version of our Privacy Policy below. Please click the title of each section to expand for the full details of our Privacy Policy. You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/article_attachments/12018251095956).
 
 [Expand All +](#/)
 
@@ -78,7 +79,7 @@ For the purposes of our services, the definitions are as follows:
 
 “Service” means any service or application offered by Roblox, such as allowing users to develop Platform experiences, connect with others, and use content created by you and other users. It includes websites on the roblox.com domain, our Roblox mobile, virtual reality and Xbox apps, the Roblox Player, the Roblox Studio, and our other websites, products, software, applications, content, data feeds and other services on which an authorized link to this Policy is posted.
 
-Any other capitalized term that is not defined in this Policy is defined and has the meaning set out in our Terms of Use.
+Any other capitalized term that is not defined in this Policy is defined and has the meaning set out in our [Terms of Use](https://www.roblox.com/info/terms?locale=en_us).
 
 3\. Information Collected on our Corporate Websites
 
@@ -110,7 +111,7 @@ In addition to account setup on Roblox, we may collect and process Personal Info
 * When you post, share, or otherwise transmit comments, messages, or content on Roblox via community features, such as public chat or private chat, forums, group walls, personal posts, portfolios, etc. We may collect these comments, messages, posts, and they may be monitored, filtered and moderated for purposes such as removal of profanity, Personal Information, and other inappropriate content. Where permitted by law, we may use pre-filtered chat, comments and messages for purposes such as training and improving our filter technology to increase the safety on our platform.
 * When you use or interact with Roblox for additional features that require the use of your camera or upload of files. If you decide to use these features and upload content, we will collect, process, and store that content only for as long as needed to accomplish the purpose of the feature.
 * When you participate in our Roblox Developer Exchange Program. We require you to provide us with an IRS W-9 form (for U.S. taxpayers) or W-8 form (for non-U.S. taxpayers). We may also ask you to verify your identity by providing a government issued photo ID through a third-party vendor. For more information on the Developer Exchange program, please visit our [Developer Exchange Terms of Use](https://en.help.roblox.com/hc/en-us/articles/115005718246).
-* When you provide us with your phone number. If you choose to provide a phone number during registration, you may receive a verification SMS after sign-up to confirm your ownership of the number, which will allow you to log in via mobile. Your phone number may also be used to recover a lost or forgotten password. Additionally, with your explicit and informed consent, we may use your phone number to recommend you as a friend to others using Roblox. You will be recommended with your contact name as stored on your friends’ devices, which may include also your real name. If you do not want us to use your phone number to be found by your friends on Roblox, please do not activate this feature or deactivate it at any time. Please note that the Discoverability feature may not be available in certain locations.
+* When you provide us with your phone number. If you choose to provide a phone number for verification, you may receive a verification SMS after sign-up to confirm your ownership of the number, which will allow you to log in via mobile. Your phone number may also be used to recover a lost or forgotten password. Additionally, with your explicit and informed consent, we may use your phone number to recommend you as a friend to others using Roblox. You will be recommended with your contact name as stored on your friends’ devices, which may include also your real name. If you do not want us to use your phone number to be found by your friends on Roblox, please do not activate this feature or deactivate it at any time. Please note that the Discoverability feature may not be available in certain locations.
 * When you provide us with your contact book. If you opt-in to the Contact Importer feature, you consent to sharing with Roblox the first and last names and phone numbers of your contacts in your address book on your mobile phone, either at the time you register for our Service or otherwise. We do so to help you connect with your friends on our Service. As part of the Contact Importer feature, we will automatically access and collect information in your address book from time to time in order to sync your contacts. Such information will only be retained in case of matches with existing Roblox users. However, our Contact Importer feature may not be available in certain locations.
 * When you join our experiences on a VR platform. If you join our experiences on a VR platform, we will collect your physical movement information in order to replicate your movement in the experience. This information is only used to provide the Service and is not stored.
 * When you contact or send communications to us. For example, when you contact customer support, report a problem, or submit questions, concerns, or comments regarding our Service or its content, we may collect contact information such as your email address and other important information about your inquiry or concern. This information is used to respond to your communications, fulfill your requests, or provide other customer support.
@@ -197,7 +198,7 @@ When you visit or access the Service, we may – by means of cookies, beacons, t
 * Mobile analytic tools to allow us to better understand the functionality of our mobile software on your device and gain insights about how mobile software is used;
 * Gather important functionality, testing, and performance data about our Service, including performance data related to our mobile application, the Roblox Player, and Roblox Studio, such as networking activity, CPU load, and resource usage, among other relevant data;
 * Moderate user behavior on the Service, such as protecting against payment fraud and other inappropriate activities;
-* Gather demographic information about our user base; and
+* Gather demographic information about our user base; and;
 * Perform other similar functions.
 
 We will not use cookies or similar technologies other than for the purposes stated in this Privacy Policy.
@@ -212,7 +213,7 @@ NOTE: To disable advertising-related tracking at your request, companies may nee
 
 #### Your choices
 
-For Roblox.com, please click on the link in the footer at the bottom of the page to access your cookie options. .
+For Roblox.com, please click on the link in the footer at the bottom of the page to access your cookie options.
 
 For all other sites, please clear your cookies and refresh your browser to display the cookie banner to access its settings.
 
@@ -330,7 +331,7 @@ Sometimes you may find a link to another company’s website on our website or a
 
 10\. Children’s Privacy and Parental Controls
 
-Children are entitled to added protections with regard to their Personal Information and privacy online. For this reason, when children register for the Service, their account is automatically set to a more restrictive mode This means that child users will not have access to certain features, such as social media plug-ins, some forms of third-party advertising, and certain types of notification alerts.
+Children are entitled to added protections with regard to their Personal Information and privacy online. For this reason, when children register for the Service, their account is automatically set to a more restrictive mode. This means that child users will not have access to certain features, such as social media plug-ins, some forms of third-party advertising, and certain types of notification alerts.
 
 When a child creates an account on Roblox, we may collect a username, password, birthdate, and parent’s email address. This information is used to give the child access to the Service (with certain default settings) and, if a parent’s email is provided, to communicate with the parent about the child’s account. For example, we may use the parent’s email to send an email notification about the child’s account creation and an invitation for the parent to review, update settings, and approve of their child’s account. We will use the birthdate the child provides when signing up for the Service to determine which features on Roblox the child should have access to, and to determine when the child will be given broader access to features on our Service. In general, we will not use or share account information (including Personal Information) from your child’s account, except as permitted under the applicable laws.
 
@@ -338,7 +339,7 @@ We may share aggregated or otherwise de-identified information of a child (which
 
 To make any requests for changes to your child’s account or requests for the removal of Personal Information collected about you or your child from our Service (as applicable), or to request that we stop the further collection or use of your or your child’s Personal Information in connection with the Service (as applicable), please complete the [Customer Support Form](https://www.roblox.com/support).
 
-We offer all accounts, including children’s accounts, the ability to modify chat/communication settings (for example, limiting interaction to just friends or no one), as well as a special “Restricted Account Mode” which turns off all forms of chat and public commenting and which allows the user to access only a selection of filtered experiences on Roblox. We recommend that parents familiarize themselves with all of the safety features and parental controls available in the Settings area of the Service (a description of which can be found [here](https://en.help.roblox.com/hc/en-us/articles/203313120)) and to accompany their children when they are playing online.
+We offer all accounts, including children’s accounts, the ability to modify chat/communication settings (for example, limiting interaction to just friends or no one), as well as a special “Restricted Account Mode” which turns off all forms of chat and public commenting and which allows the user to access only a selection of filtered experiences on Roblox. We recommend that parents familiarize themselves with all of the safety features and parental controls available in the Settings area of the Service (a description of which can be found [here](https://en.help.roblox.com/hc/articles/203313120)) and to accompany their children when they are playing online.
 
 We proactively filter all public and comment areas of the Service (such as chat, forums, group walls, personal posts, etc.) to remove references to addresses, emails, phone numbers, or other Personal Information regardless of security and privacy settings. All text is also filtered for profanity, phishing, and adult or suggestive content. Our system uses a combination of human and automated processes. However, like all filtering technology, our systems are not 100% effective.
 
@@ -366,7 +367,7 @@ We will get back to you within a reasonable timeframe.
 
 Roblox is based in the U.S. The Personal Information we collect from you is sent to and stored on secure servers located in the United States of America. Such storage is necessary in order to process the information.
 
-Roblox operates globally and we may transfer the personal data information that we collect from you to our other offices and/or to the third parties mentioned in the circumstances described above (see [“Information Sharing”](#information-sharing)), which may be situated outside of your regional location or regional area, and may be processed by staff operating outside your regional location or regional area. In particular, information provided to us or collected by us will likely be transferred to and processed in the United States by us or our agents and contractors. The data protection laws of the United States or other countries may not be as comprehensive or equivalent to those in your regional location of residence. Wherever we transfer your Personal Information, we will take reasonable steps to ensure that your privacy rights continue to be protected.
+Roblox operates globally and we may transfer the Personal Information that we collect from you to our other offices and/or to the third parties mentioned in the circumstances described above (see [“Information Sharing”](#information-sharing)), which may be situated outside of your regional location or regional area, and may be processed by staff operating outside your regional location or regional area. In particular, information provided to us or collected by us will likely be transferred to and processed in the United States by us or our agents and contractors. The data protection laws of the United States or other countries may not be as comprehensive or equivalent to those in your regional location of residence. Wherever we transfer your Personal Information, we will take reasonable steps to ensure that your privacy rights continue to be protected.
 
 Roblox stores your information in the United States.
 
@@ -374,25 +375,29 @@ The privacy laws of the United States may not be as strict as those in your coun
 
 13\. Your Privacy Rights in California
 
-In accordance with applicable law, you have the following rights:
+In accordance with applicable law, you may have the following rights:
 
-* Access to/Portability of Personal Information. You can receive a copy of categories of Personal Information and specific pieces of Personal Information we have collected about you in the past 12 months, consistent with legal requirements. Residents also have the right to request the categories of Personal Information disclosed for a business purpose. In addition, you may have the right in some cases to receive or have your electronic Personal Information in a portable format or transferred to another party.
+* Access to/Portability of Personal Information. You can receive a copy of categories of Personal Information and specific pieces of Personal Information we have collected, used, disclosed, sold, or shared about you in the past 12 months, consistent with legal requirements. Residents also have the right to request the categories of Personal Information disclosed for a business purpose, the categories of sources from which their personal information was collected, our business or commercial purposes for collecting their personal information, and the categories of third parties to whom we disclosed their personal information. In addition, you may have the right in some cases to receive or have your electronic Personal Information in a portable format or transferred to another party.
 * Correction. You can request correction of your Personal Information where it is inaccurate or incomplete. In some cases, we may provide self-service tools that enable you to update your Personal Information or we may refer you to the controller of your Personal Information who is able to make the correction.
-* Deletion. You can request we delete Personal Information we collect or maintain about you, subject to certain exceptions prescribed by law.
-* Restriction of or Objection to processing. You can request restriction or object to the processing of your Personal Information, and you have the right to opt in or opt out of the sale of your Personal Data to third parties, if applicable, where such requests are permitted by law.
+* Deletion. You can request we delete Personal Information we collect from you, subject to certain exceptions prescribed by law.
+* Restriction of or Objection to processing. You can request restriction or object to the processing of your Personal Information, and you have the right to opt in or opt out of the sale or sharing of your Personal Information to third parties, if applicable, where such requests are permitted by law. Please note that, in the case of California residents, we do not currently sell or share personal information, as those terms are defined under the California Consumer Privacy Act and the California Privacy Rights Act. For that reason, we do not currently offer a mechanism for California residents to opt out of the sale or sharing of Personal Information. We have no actual knowledge of selling or sharing the personal information of minors under 16 years of age.
+* Non-discrimination. You have the right to not receive discriminatory treatment by exercising your privacy rights. We do not discriminate against California residents who exercise their privacy rights.
 
-Some of these rights can be exercised by updating your account within the Services, or you can contact us as set forth in Section 1 above for other requests. We will process such requests in accordance with applicable laws. To protect your privacy, we will take steps to verify your identity before fulfilling your request so that we can ensure you are the owner of the account making the request.
+Please note that some of these rights can be exercised by updating your account within the Services, or you can contact us as set forth in Section 1 above for other requests. We will process such requests in accordance with applicable laws. To protect your privacy, we will take steps to verify your identity before fulfilling your request so that we can ensure you are the owner of the account making the request.
 
 Our California resident consumer request metrics for the previous year can be found [here](https://en.help.roblox.com/hc/en-us/articles/4402871541140).
+
+For additional information related to your rights under California law, including information related to California retention periods, how you can exercise your rights, and more, please visit our full [Roblox CPRA Privacy Policy](https://en.help.roblox.com/hc/articles/4402871541140).
 
 If you live in California, you may have additional rights when it comes to your information. You can ask us to:
 
 * Give you a copy of the personal information we have collected about you in the last year;
 * Fix your personal information if it is incorrect;
-* Delete some of your personal information; and
+* Delete some of your personal information;
+* Refrain from selling or sharing your personal information for cross-context behavioral advertising purposes; and
 * Request us to stop using your information in some situations.
 
-If you want to understand more, please review our full privacy policy.
+If you want to understand more, please review our full privacy policy and our CPRA Privacy Policy.
 
 14\. Your Privacy Rights if you live in the EEA, UK or Switzerland
 
@@ -550,7 +555,29 @@ If you want to understand more it might be useful to ask your parent or guardian
 
 If you have reason to, you can complain about how we are using your information by emailing us at privacy@roblox.com. You can also complain to the National Data Protection Authority of Brazil at anpd@anpd.gov.br.
 
-16\. Privacy Policy Changes and Updates
+16\. State Privacy Rights
+
+State consumer privacy laws may provide their residents with additional rights regarding our use of their personal information. To learn more about California residents' privacy rights, visit [CPRA Privacy Policy](https://en.help.roblox.com/hc/articles/4402871541140). 
+
+Virginia provides its residents with rights to:
+
+* Confirm whether we process their personal information.
+* Access and delete certain personal information.
+* Data portability.
+* Opt out of personal data processing for targeted advertising and sales.
+
+Virginia also provides its state residents with rights to:
+
+* Correct inaccuracies in their personal information, taking into account the information's nature and processing purpose.
+* Opt out of profiling in furtherance of decisions that produce legal or similarly significant effects.
+
+To exercise any of these rights please complete the [Customer Support Form](https://www.roblox.com/support). To appeal a decision regarding consumer rights, please contact us at privacy@roblox.com.
+
+Please note that we maintain and use de-identified data, as defined under applicable law, without attempting to re-identify the data.
+
+If you are a resident in certain states, you may have additional rights.
+
+17\. Privacy Policy Changes and Updates
 
 We may update this Privacy Policy to reflect changes to our information practices at any time, so please review it frequently. If we update this Policy, changes will be reflected on this page and we will update the “Last Updated” date posted below. If we make any material changes to this Privacy Policy, we will attempt to notify you by email (if you have provided us with your email address, by sending an email to the email address specified in your account) or by means of a prominent notice on this website or in app prior to the change becoming effective. We will obtain prior parental consent if any changes we make to this Policy affect users under the age of 13 in a way that requires such consent under COPPA or the age of 16 (or as per the age derogation by Member States in their domestic law) or 13 in the UK, under the European and UK General Data Protection Regulation.
 
@@ -558,4 +585,4 @@ We update this privacy policy sometimes, so you should review this site regularl
 
 If we make any major changes, we will let you know by email (if we have your email address) or by showing a prominent notice on this website or in app prior to the change becoming effective. If required by law, we will obtain your parent’s consent if any of these changes impact the data we’ve collected from you in a less protective way.
 
-Last Update: December 07, 2022
+Last Update: December 31, 2022
