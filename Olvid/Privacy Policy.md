@@ -34,7 +34,7 @@ In addition, specific mentions appear on each collection form in order to ensure
 1\. Data controller
 -------------------
 
-Olvid, SAS with share capital of 30,000 euros, APE code 6201Z, whose registered office is located at 26, rue Vignon, Paris 75009, registered with the Paris Trade and Companies Registry under number B 850 667 171 and whose VAT number is FR07850667171.
+Olvid, SAS with share capital of 38,994.44 euros, APE code 6201Z, whose registered office is located at 26, rue Vignon, Paris 75009, registered with the Paris Trade and Companies Registry under number B 850 667 171 and whose VAT number is FR07850667171.
 
 2\. Purpose of the processing
 -----------------------------
@@ -86,10 +86,6 @@ Thus, We are likely to use Your data, as the case may be, for:
 ### 2.3 What data do we collect?
 
 By **Personal Data**, we mean any information allowing us to identify you, directly or indirectly by reference, as the case may be: (i) to an identification number; (ii) to one or more elements specific to you; (iii) or by cross-referencing information. We distinguish between personal data of users and purely technical data on access to the service (IP addresses) and billing.
-
-**For the free version and the sale on the stores:**
-
-* **The IP address** for the use of the application. We remind you that, like any application, Olvid uses for its operation the IP addresses of users, without consulting, collecting or storing them.
 
 **For the direct sale of license packages:**
 
