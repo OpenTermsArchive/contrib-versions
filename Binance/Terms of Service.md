@@ -1,6 +1,6 @@
 Binance Terms of Use
 
-Last revised: 11 January 2023
+Last revised: 18 January 2023
 
 These Binance Terms of Use is entered into between you (hereinafter referred to as “you” or “your”) and Binance operators (as defined below). By accessing, downloading, using or clicking on “I agree” to accept any Binance Services (as defined below) provided by Binance (as defined below), you agree that you have read, understood and accepted all of the terms and conditions stipulated in these Terms of Use (hereinafter referred to as “these Terms”) as well as our Privacy Policy at [www.binance.com/en/privacy](https://www.binance.com/en/privacy). In addition, when using some features of the Services, you may be subject to specific additional terms and conditions applicable to those features.
 
@@ -28,19 +28,17 @@ If you would like to know more about the risks associated with investing in or t
 
 **8\. Collateral Accounts** refer to special accounts opened by Users on Binance to deposit and withdraw collateral (such as margins) in accordance with these Terms (including the Binance Contract Services Agreement and Binance Platform Rules), as required for contract transactions, leveraged trading and/or currency borrowing services.
 
-**9\. Conversion Inception Date** means the date, specified by Binance, on which the Designated Stablecoin Conversion will commence.
+**9\. Designated Stablecoin** means each of USD Coin (USDC), Pax Dollar (USDP), TrueUSD (TUSD) and any other Digital Asset Binance may designate as such from time to time, provided that Binance may remove any Digital Asset from the scope of this definition at any time without prior notice.
 
-**10\. Designated Stablecoin** means each of USD Coin (USDC), Pax Dollar (USDP), TrueUSD (TUSD) and any other Digital Asset Binance may designate as such from time to time, provided that Binance may remove any Digital Asset from the scope of this definition at any time without prior notice.
+**10\. Designated Stablecoin Conversion** means, in respect of each Designated Stablecoin, the automatic conversion of that Designated Stablecoin into BUSD upon deposit or transfer into your Binance Account or the conversion of BUSD into that Designated Stablecoin in connection with a withdrawal request.
 
-**11\. Designated Stablecoin Conversion** means, in respect of each Designated Stablecoin, the automatic conversion of that Designated Stablecoin into BUSD upon deposit or transfer into your Binance Account or the conversion of BUSD into that Designated Stablecoin in connection with a withdrawal request.
+**11\. Digital Currencies** refer to encrypted or digital tokens or cryptocurrencies with a certain value that are based on blockchain and cryptography technologies and are issued and managed in a decentralized form.
 
-**12\. Digital Currencies** refer to encrypted or digital tokens or cryptocurrencies with a certain value that are based on blockchain and cryptography technologies and are issued and managed in a decentralized form.
+**12\. Digital Assets** refer to Digital Currencies, their derivatives or other types of digitalized assets with a certain value.
 
-**13\. Digital Assets** refer to Digital Currencies, their derivatives or other types of digitalized assets with a certain value.
+**13\. Fiat Partner** means any third party service provider, with which Binance may partner in connection with any Fiat Services.
 
-**14\. Fiat Partner** means any third party service provider, with which Binance may partner in connection with any Fiat Services.
-
-**15\. Fiat Services** means:
+**14\. Fiat Services** means:
 
 (a) crediting your Binance Fiat Account with one or more fiat currencies either via a bank transfer, or with your debit card or credit card;
 
@@ -50,13 +48,13 @@ If you would like to know more about the risks associated with investing in or t
 
 (d) withdrawing one or more fiat currencies from your Binance Fiat Account either into your bank account, or to your debit card or credit card.
 
-**16\. KYC** refers to the “know-your-customer” process that Binance has put in place before entering into a business relationship or conducting transactions with its Users. As part of this process, Binance may do anything that it deems necessary in order to identify Users, verify their identity, scrutinize and investigate User transactions, or comply with any applicable law or regulation.
+**15\. KYC** refers to the “know-your-customer” process that Binance has put in place before entering into a business relationship or conducting transactions with its Users. As part of this process, Binance may do anything that it deems necessary in order to identify Users, verify their identity, scrutinize and investigate User transactions, or comply with any applicable law or regulation.
 
-**17\. Loan/Lending** refers to Binance’s lending of Digital Currencies to Users at an interest collected in certain ways (in the form of Digital Currencies), including but not limited to the leveraged trading and currency lending services currently offered, and other forms of loan/lending services to be launched by Binance.
+**16\. Loan/Lending** refers to Binance’s lending of Digital Currencies to Users at an interest collected in certain ways (in the form of Digital Currencies), including but not limited to the leveraged trading and currency lending services currently offered, and other forms of loan/lending services to be launched by Binance.
 
-**18\. Spot Trading** means buying or selling supported Digital Assets and/or any supported fiat currency on the exchange for immediate settlement.
+**17\. Spot Trading** means buying or selling supported Digital Assets and/or any supported fiat currency on the exchange for immediate settlement.
 
-**19\. Users** refer to all individuals, institutions or organizations that access, download or use Binance or Binance Services and who meet the criteria and conditions stipulated by Binance. If there exist other agreements for such entities as developers, distributors, market makers, and Digital Currencies exchanges, such agreements shall be followed.
+**18\. Users** refer to all individuals, institutions or organizations that access, download or use Binance or Binance Services and who meet the criteria and conditions stipulated by Binance. If there exist other agreements for such entities as developers, distributors, market makers, and Digital Currencies exchanges, such agreements shall be followed.
 
 ### II. General Provisions
 
@@ -328,17 +326,11 @@ Before transacting in Binance Leveraged Tokens, you acknowledge and agree that y
 
 A. Deposits
 
-From such time on the Conversion Inception Date as Binance may determine, when you deposit or receive a Designated Stablecoin into your Binance Account, the amount received will automatically be converted into an equivalent amount of BUSD at a rate of 1 to 1.
+Unless you opt out of the Designated Stablecoin Conversion, when you deposit or receive a Designated Stablecoin into your Binance Account, the amount received will automatically be converted into an equivalent amount of BUSD at a rate of 1 to 1.
 
-B. Existing balances
+B. Withdrawals Unless you have opted out of the Designated Stablecoin Conversion, if you have a balance in your Binance Account denominated in BUSD, you may give Instructions to withdraw such balance from your Binance Account either in BUSD or in any of the Designated Stablecoins. Where you choose to withdraw a Designated Stablecoin, you will receive an amount equal to your balance in BUSD, converted into the relevant Designated Stablecoin at a rate of 1 to 1, minus any applicable withdrawal and transaction fees.
 
-At such time on the Conversion Inception Date as Binance may determine, any balance in your Binance Account denominated in a Designated Stablecoin will automatically be converted into an equivalent amount of BUSD at a rate of 1 to 1.
-
-C. Withdrawals
-
-On or after the Conversion Inception Date, if you have a balance in your Binance Account denominated in BUSD, you may give Instructions to withdraw such balance from your Binance Account either in BUSD or in any of the Designated Stablecoins. Where you choose to withdraw a Designated Stablecoin, you will receive an amount equal to your balance in BUSD, converted into the relevant Designated Stablecoin at a rate of 1 to 1, minus any applicable withdrawal and transaction fees.
-
-D. Exceptions
+C. Exceptions
 
 Binance reserves the right to suspend or terminate the Designated Stablecoin Conversion for any or all Designated Stablecoins at any time without prior notice. Where necessary due to market conditions affecting one or more Designated Stablecoins, Binance may adjust the conversion rate used for the Designated Stablecoin Conversion.
 
