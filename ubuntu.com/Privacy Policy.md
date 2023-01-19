@@ -1,5 +1,7 @@
 Your submission was sent successfully! [_Close_](#)
 
+You have successfully unsubscribed! [_Close_](#)
+
 Data privacy
 ============
 
@@ -455,7 +457,7 @@ The open source software platform that runs everywhere from the smartphone, the 
 * [Resources](https://ubuntu.com/engage)
 * [Press centre](https://ubuntu.com/blog/press-centre)
 
-© 2022 Canonical Ltd. Ubuntu and Canonical are registered trademarks of Canonical Ltd.
+© 2023 Canonical Ltd. Ubuntu and Canonical are registered trademarks of Canonical Ltd.
 
 * [Legal information](https://ubuntu.com/legal)
 * [Data privacy](https://ubuntu.com/legal/data-privacy)
