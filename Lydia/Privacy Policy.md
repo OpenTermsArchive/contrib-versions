@@ -1,16 +1,16 @@
-La version française du document est [accessible ici](https://support.lydia-app.com/l/fr/article/6ogzqxbjos-politique-de-protection-des-donn-es-caract-re-personnel-lydia).
+**The french version of this document is available** [**here**](https://support.lydia-app.com/l/fr/article/6ogzqxbjos-politique-de-protection-des-donn-es-caract-re-personnel-lydia) **and prevails over the others.**
 
 Lydia Solutions ("Lydia") is a simplified joint-stock company registered in Paris under RCS number 534 479 589 with capital of € 1,546,417, established at 14, avenue d’Opéra, 75001 Paris.
 
 Lydia is registered with the Autorité de contrôle prudentiel et de résolution - ACPR, established at 4 Place de Budapest - 75436 Paris Cedex 09, under number 534 479 589.
 
-For customers already existing on July 30, 2019, the personal data protection policy which applies until September 29, 2020 is the one available [at this link](https://lydia-app.com/en/info/privacy-policy-23102018.html). As of September 30, 2020, the policy applied for all will be the one presented below.
+For customers already existing on July 30, 2019, the personal data protection policy which applies until September 29, 2020 is the one available [at this link](https://www.lydia-app.com/en/info/legal-notice-and-privacy-policy/). As of September 30, 2020, the policy applied for all will be the one presented below.
 
 #### 1\. PURPOSE OF THIS PERSONAL DATA PROTECTION POLICY 
 
 This Personal Data Protection Policy presents how Lydia Solutions, hereafter known as Lydia, as a Data Processor, collects, uses, and/or shares personal data that the Client (natural person) provides or that Lydia collects indirectly during his/her usage of Lydia Services.
 
-This Personal Data Protection Policy applies to Lydia Users and to Lydia Services as defined in our [Terms of Service](https://lydia-app.com/en/about/terms-of-service.html).
+This Personal Data Protection Policy applies to Lydia Users and to Lydia Services as defined in our [Terms of Service](https://www.lydia-app.com/en/info/legal/).
 
 As a payment services provider based in France, Lydia is regulated by the French law.
 
@@ -30,9 +30,9 @@ Lydia works with certified financial partners. Lydia and its Partners are jointl
 
 Lydia and its Partners jointly determine the treatment's purpose and means. The natural persons personal data are transferred to Lydia’s Partners in the only aim to properly perform the contract between the natural person and Lydia.
 
-* OKALI is an electronic money establishment in charge of the management of payment accounts, the execution of payment operations as well as the issuance of L-card (Visa). OKALI privacy policy is accessible here (in French).
-* Budget Insight allows Lydia to supply bank accounts aggregation and information services Budget insight Privacy Policy is accessible here. 
-* Treezor issues Lydia IBAN and L-card (Mastercard). Treezor Privacy Policy is accessible here.
+* OKALI is an electronic money establishment in charge of the management of payment accounts, the execution of payment operations as well as the issuance of L-card (Visa). OKALI privacy policy is accessible [here](https://www.okali.eu/ppd#:~:text=Cette%20Politique%20de%20Protection%20des,(le%20%C2%AB%20Site%20%C2%BB).) (in French).
+* Budget Insight allows Lydia to supply bank accounts aggregation and information services Budget insight Privacy Policy is accessible [here](https://www.powens.com/privacy-policy/). 
+* Treezor issues Lydia IBAN and L-card (Mastercard). Treezor Privacy Policy is accessible [here](https://www.treezor.com/privacy-policy/).
 
 Lydia and its Partners have a duty of mutual information, in particular regarding under the following situations :
 
@@ -208,7 +208,7 @@ Lydia’s communications may occasionally contain links to the partners’ or th
 
 Lydia may occasionally change this Personal Data Protection Policy. When necessary, Lydia informs its Clients by the most appropriate means.
 
-#### **11\. CONTACT**
+#### 11\. CONTACT
 
 For any questions relative to this Privacy Policy, the Clients can contact Lydia Data Protection Officer :
 
