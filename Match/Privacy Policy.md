@@ -288,7 +288,7 @@ Because we’re always looking for new and innovative ways to help you build mea
 
 If you have questions about this Privacy Policy, you have different options below:
 
-Online: [here](https://uk.match.com/faq/#privacyRequest)
+Online: [here](mailto:privacy@match.co.uk?subject=Privacy%20Request)
 
 By post:
 
