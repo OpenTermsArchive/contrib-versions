@@ -96,7 +96,7 @@ Some of the key topics you may be interested in include:
         
 4. Your Data Subject Rights
     
-    You control the personal data you share with us. You can object to our processing of your data, request that our processing be restricted, review or request changes to your personal data, or request that your account be deleted and we erase your data by contacting us at [dpo@myspace-inc.com](mailto:dpo@myspace-inc.com). You may also download a copy of your profile by logging onto your account and clicking the "Download Data" button on your profile. As noted above, you may opt out of receiving direct marketing emails from our partners by clicking [here](https://myspace.com/settings/privacy).
+    You control the personal data you share with us. You can object to our processing of your data, request that our processing be restricted, review or request changes to your personal data, or request that your account be deleted and we erase your data by contacting us at [dpo@myspace.com](mailto:DPO@myspace.com). You may also download a copy of your profile by logging onto your account and clicking the "Download Data" button on your profile. As noted above, you may opt out of receiving direct marketing emails from our partners by clicking [here](https://myspace.com/settings/privacy).
     
     You may also complain to a data protection authority about our collection and use of your information. For more information, please contact your local data protection authority. Contact details for data protection authorities in the European Union are available at [ec.europa.eu](http://ec.europa.eu/).
     
@@ -104,7 +104,7 @@ Some of the key topics you may be interested in include:
     
     Your privacy is important to us, so we will ask that you provide sufficient information to verify your identity before we respond to your requests. In some situations, we may refuse to act or impose limitations on your right if, for instance, it is likely to adversely affect the rights and freedoms of others, prejudice the execution or enforcement of the law, or interfere with pending or future litigation.
     
-    For more information on your rights, please contact [dpo@myspace-inc.com](mailto:dpo@myspace-inc.com).
+    For more information on your rights, please contact [dpo@myspace.com](mailto:DPO@myspace.com).
     
 5. Children’s Information
     
@@ -129,4 +129,4 @@ Some of the key topics you may be interested in include:
 
 **Data Controller**: Myspace LLC, a Delaware limited liability company with a business address at 6100 Center Drive, Suite 800, Los Angeles 90045
 
-**EU Representative for purposes of this Notice**: [dpo@myspace-inc.com](mailto:dpo@myspace-inc.com)
+**EU Representative for purposes of this Notice**: [dpo@myspace.com](mailto:DPO@myspace.com)
