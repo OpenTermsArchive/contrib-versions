@@ -10,7 +10,7 @@ Below we have listed important legal terms that apply to anyone who visits our w
 
 ​
 
-We understand that legal terms can be exhausting to read, and we’ve tried to make the experience more pleasant. If you have suggestions on how we can improve them, you are welcome to [contact us](https://www.wix.com/contact/).
+We understand that legal terms can be exhausting to read, and we’ve tried to make the experience more pleasant. If you have suggestions on how we can improve them, you are welcome to [contact us](http://wix.com/contact?referral=termsofusecontact).
 
 1\. Introduction
 ----------------
@@ -146,6 +146,8 @@ The account information you provide us must be your own (or your company’s), a
   
 When a user account is disputed, we may determine the ownership of such user account. 
 
+2. Your Obligations
+
 2\. Your Obligations
 --------------------
 
@@ -280,6 +282,8 @@ In general, we just want you to be nice, and avoid doing anything that might har
 Among others, you may not copy our materials, use any content in an illegal or harmful manner, use our services or content on any platform or website not provided by us, make any misrepresentations or abuse our Services, or otherwise violate anyone’s rights or any applicable laws.
 
 Failure to abide by any of these rules may bring us to cancel your account and stop providing you with any services.
+
+3\. Content and Ownership
 
 ### 3\. Content and Ownership
 
@@ -597,6 +601,8 @@ If you believe a User or any Third Party Services acted inappropriately or other
 
 If you witness or experience any misconduct or abusive behavior by anyone using our services, please let us know.
 
+11.2. Copyrights
+
 ### 11.2. Copyrights
 
 Wix acts in accordance with its interpretation of the Digital Millennium Copyright Act (“DMCA”). If you believe that your work has been copied or was otherwise used in a way that constitutes copyright infringement, you may notify us of such infringement via [this form](http://www.wix.com/upgrade/abuse), or otherwise provide the following information in writing to our designated Copyright Agent: (1) the contact details of the person authorized to act on behalf of the owner of the copyright; (2) a description of the copyrighted work that you claim has been infringed; (3) a description of the material that you claim to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information sufficient to permit Wix to locate the material (including URL address); (4) a statement that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and (5) a statement that the information in the notification is accurate and, under penalty of perjury, that you are the copyright owner or are authorized to act on behalf of the owner of a copyright that is allegedly infringed.
@@ -775,10 +781,7 @@ Translated (non-English) versions of these terms are provided for convenience on
 
 To get in touch with our Customer Service - please use any of the options listed below:
 
-1. Go to Wix Help Center which is available at: [https://support.wix.com/en/article/contacting-wix-support](https://support.wix.com/en/article/contacting-wix-support/)
-    
-2. Send an email message to: [support@wix.com](mailto:support@wix.com)
-    
+Go to Wix Help Center which is available at: [https://support.wix.com/en/article/contacting-wix-support](https://support.wix.com/en/article/contacting-wix-support/)
 
 #### #ItsThatEasy
 
