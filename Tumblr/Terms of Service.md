@@ -1,4 +1,4 @@
-Terms of ServiceLast Modified: 2022-02-09
+Terms of ServiceLast Modified: 2022-12-16
 =========================================
 
 Tumblr is a U.S. company and subject to U.S. laws and jurisdiction. The original version of these Terms of Service (and any other terms, policies, or guidelines that we provide to you) are written in English. To the extent any translated version of these Terms of Service (or any other terms, policies, or guidelines that we provide to you) conflicts with the English version, the English version controls.
@@ -32,7 +32,7 @@ As Tumblr grows and improves, we might have to make changes to these Terms of Se
 
 **Eligibility:**
 
-You may not use the Services, provide any personal information to Tumblr, or otherwise submit personal information through the Services (including, for example, a name, address, telephone number, or email address) if you are under the Minimum Age. The Minimum Age is (i) thirteen (13),(ii) for users in the European Union or the United Kingdom, sixteen (16), or (iii) for users to give or receive tips **(“Tipping Feature”)**, eighteen (18). You may only use the Services if you can form a binding contract with Tumblr and are not legally prohibited from using the Services.
+You may not use the Services, provide any personal information to Tumblr, or otherwise submit personal information through the Services (including, for example, a name, address, telephone number, or email address) if you are under the Minimum Age. The Minimum Age is (i) thirteen (13), (ii) sixteen (16) for users in the European Union or the United Kingdom, or (iii) eighteen (18) for certain features such as Tumblr Live or to give or receive tips **(“Tipping Feature”)**. You may only use the Services if you can form a binding contract with Tumblr and are not legally prohibited from using the Services.
 
 You have to be the Minimum Age to use Tumblr. We're serious: it's a hard rule. “But I’m, like, almost old enough!” you plead. Nope, sorry. If you're not old enough, don't use Tumblr. Ask your parents for a Playstation 4, or try books.
 
@@ -154,12 +154,18 @@ Some Paid Services on Tumblr automatically renew as recurring subscriptions (“
 
 **If you enrolled through the Tumblr Site, you can modify your payment method or cancel your Subscriptions at: [www.tumblr.com/settings/subscriptions](https://www.tumblr.com/settings/subscriptions). If you enrolled using an in-app payment platform, such as through an Apple or Android device, you must modify your payment method or cancel your Subscriptions directly with that platform.**
 
-12\. Special Provisions for Post+ and Tipping
----------------------------------------------
+12\. Special Provisions for Post+, Tipping, and Tumblr Live
+-----------------------------------------------------------
 
-Our Services may enable certain Users (“**Creators**”) to make certain User Content available only to others who have enrolled in a Subscription to view it, like the Post+ feature **("Post+") through which Users can access designated User Content (“+Post Content”)**. For more information, please see our [Post+ FAQs](https://tumblr.zendesk.com/hc/articles/4402757539607). Our Services may also enable Users to pay tips to other Users **(“Tipping Feature”)** with respect to User Content. For more information about the Tipping Feature, please see our [Tipping FAQs](https://tumblr.zendesk.com/hc/articles/4417356885527).
+Our Services allow users to monetize their content through features such as:  
+  
+**Post+:** Certain Users (“**Creators**”) can designate User Content as only available to those who have enrolled in a Subscription to view it ("**+Post Content**"). For more information, please see our [Post+ FAQs](https://help.tumblr.com/hc/articles/4402757539607).  
+  
+**Tipping Feature:** Users can also pay tips to other users to support blogs and related content. For more information, please see our [Tipping FAQs](https://help.tumblr.com/hc/articles/4417356885527).  
+  
+**Tumblr Live:** Users can live stream, watch other streamers, and give and receive gifts. For more information, please see our [Tumblr Live FAQs](https://help.tumblr.com/hc/articles/10073453888535).
 
-Users that are Creators or that use Post+, enable +Post Content, or enable the Tipping Feature must not use the Services to deceive others into sending money via scam tactics, phishing, or other such methods.
+Users must not deceive others into sending money via scam tactics, phishing, or other such methods.
 
 **Additional Terms for Post+ Subscribers:**
 
@@ -206,6 +212,26 @@ Payouts for +Post Content and the Tipping Feature are calculated by totaling the
 You are responsible for providing accurate information, including as may be needed to facilitate payment to you. Payouts are calculated solely based on records maintained by or on behalf of Tumblr (or the relevant payment processor). Tumblr reserves the right to modify the payout method at any time in its sole discretion. In addition, Tumblr reserves the right to withhold, offset, or charge back your Merchant Account due to refunds, fraud, abuse, a violation of this Agreement, or to mitigate the risk of such. You agree that we will not be liable for any amounts not earned due to the Services not being available, including Site maintenance or our suspension, deletion, or termination of your Account, participation in Post+, the Tipping Feature, or related +Post Content.
 
 Payouts will be determined by Tumblr, in its sole discretion, and such determination is final and binding. If you dispute any payout made, you must notify Tumblr within thirty (30) days of any such payout by providing us a detailed description of your dispute to www.tumblr.com/support. You agree that failure to do so shall result in your waiver of any claim relating to such disputed payment. Tumblr in no way waives its absolute right to make a final determination of the payout you are owed.
+
+**Additional Terms for Tumblr Live**
+
+Tumblr Live is a live streaming feature that is powered by The Meet Group (“TMG”). Your use of Tumblr Live is governed by our policies (this [Agreement](https://www.tumblr.com/policy/terms-of-service), our [Community Guidelines](https://www.tumblr.com/policy/community), and our [Privacy Policy](https://www.tumblr.com/privacy)) and TMG’s policies ([TMG’s Terms of Service](https://terms.video.tumblr-live.com/terms-of-service), [TMG’s Content and Conduct Policy](https://terms.video.tumblr-live.com/content-and-conduct), and [TMG’s Privacy Policy](https://terms.video.tumblr-live.com/terms-of-service#privacy-policy)). If there is a conflict between terms, the more restrictive provision(s) will apply.
+
+Because Tumblr Live is powered by TMG, this means:
+
+* Tumblr may have to share certain data with TMG, including but not limited to your username, profile photo, about me, and imprecise geolocation data. TMG may also separately collect additional information directly from you. You understand that TMG is the operator of the Tumblr Live feature and will act as the controller of all the data and content you generate while using Tumblr Live and agree that Tumblr will not be liable to you in any way, under any theory of liability, or for any amounts, and any such liability will be governed by [TMG’s Terms of Service](https://terms.video.tumblr-live.com/terms-of-service);
+* Your Tumblr settings may not carry over to Tumblr Live. For example, if you [password protect a blog](https://help.tumblr.com/hc/en-us/articles/226318867-Password-protected-blogs), that password protection won’t apply to your Tumblr Live profile or streams;
+* Tumblr Live may enable you to share your content and view other content beyond Tumblr users;
+* Streams on Tumblr Live are moderated by TMG, and we or they may suspend your access to Tumblr Live at any time if either of us believe any applicable policies or terms have been violated.
+* You may not (a) copy, modify, create a derivative work of, reverse engineer (except as required under applicable law), decompile, translate, disassemble, or otherwise attempt to extract any of the source code of the Tumblr Live Services; (b) sell, resell, sublicense, transfer, or distribute the Tumblr Live Services; (c) access the Tumblr Live Services in order to directly or indirectly build or provide any commercially available service; or (d) copy any features, functions, interfaces or graphics of the Tumblr Live Services.
+
+You can give gifts on Tumblr Live by purchasing Tumblr Live Credits, which can only be used on Tumblr Live and cannot be used on any other Paid Services. Tumblr Live Credits purchases are final, non-transferrable, and non-refundable. Tumblr Live Credits have no monetary value and do not constitute currency or property. By purchasing Tumblr Live Credits, you receive a limited license to access digital goods (Tumblr Live Gifts) on Tumblr Live when, as, and if allowed by us or TMG. Use of the Tumblr Live Credits is expressly subject to the credits and digital gifts sections of the [TMG Terms of Service](https://terms.video.tumblr-live.com/terms-of-service). You understand and agree that Tumblr will not be liable to you in any way except for the purchase of the Tumblr Live Credits.
+
+Your Tumblr Live Credits can be used to buy virtual gifts on Tumblr Live, and to the extent that you receive any virtual gifts while using Tumblr Live, the receipt of such gifts and ability to cash out are governed by the [TMG Terms of Service](https://terms.video.tumblr-live.com/terms-of-service). You agree to look solely to TMG to resolve any and all issues surrounding your receipt or cash out of any gifts received.
+
+If your access to Tumblr Live ends for any reason (e.g., you delete your Tumblr account or we suspend your access to Tumblr Live), you will lose access to any Tumblr Live Credits or Tumblr Live Gifts you’ve accumulated without refund or compensation.
+
+At this point in time, Tumblr Live cannot be disabled, so if you do not wish to use the feature, simply ignore it.
 
 13\. Warranty Disclaimer; Services Available on an "AS IS" Basis
 ----------------------------------------------------------------
