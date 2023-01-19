@@ -1,14 +1,14 @@
 Google Terms of Service
 =======================
 
-Effective 5 January 2022 | [Archived versions](https://policies.google.com/terms/archive?hl=en-GB) | [Download PDF](https://www.gstatic.com/policies/terms/pdf/20220105/it7r24p9/google_terms_of_service_en-GB_fr.pdf)
+Effective 5 January 2022 | [Archived versions](https://policies.google.com/terms/archive?hl=en-GB) | [Download PDF](https://www.gstatic.com/policies/terms/pdf/20220105/it7r24p9/google_terms_of_service_en-GB_gb.pdf)
 
 What’s covered in these terms
 -----------------------------
 
 ### We know it’s tempting to skip these Terms of Service, but it’s important to establish what you can expect from us as you use Google [services](https://policies.google.com/terms?hl=en-GB#footnote-services), and what we expect from you.
 
-These Terms of Service reflect [the way that Google’s business works](https://about.google/intl/en-GB_FR/how-our-business-works), the laws that apply to our company, and [certain things that we’ve always believed to be true](https://www.google.com/about/philosophy.html?hl=en_GB). As a result, these Terms of Service help define Google’s relationship with you as you interact with our services. For example, these terms include the following topic headings:
+These Terms of Service reflect [the way that Google’s business works](https://about.google/intl/en-GB_GB/how-our-business-works), the laws that apply to our company, and [certain things that we’ve always believed to be true](https://www.google.com/about/philosophy.html?hl=en_GB). As a result, these Terms of Service help define Google’s relationship with you as you interact with our services. For example, these terms include the following topic headings:
 
 * [What you can expect from us](https://policies.google.com/terms?hl=en-GB#toc-what-you-expect), which describes how we provide and develop our services
 * [What we expect from you](https://policies.google.com/terms?hl=en-GB#toc-what-we-expect), which establishes certain rules for using our services
@@ -25,15 +25,14 @@ Terms
 Service provider
 ----------------
 
-In the European Economic Area (EEA) and Switzerland, Google [services](https://policies.google.com/terms?hl=en-GB#footnote-services) are provided by, and you’re contracting with:
+Google [services](https://policies.google.com/terms?hl=en-GB#footnote-services) are provided by, and you’re contracting with:
 
-Google Ireland Limited  
-incorporated and operating under the laws of Ireland  
-(Registration number: 368047/VAT number: IE6388047V)  
+Google LLC  
+organised under the laws of the State of Delaware, USA, and operating under the laws of the USA  
   
-Gordon House, Barrow Street  
-Dublin 4  
-Ireland
+1600 Amphitheatre Parkway  
+Mountain View, California 94043  
+USA
 
 Age requirements
 ----------------
@@ -61,12 +60,10 @@ Contents
 
 [About these terms](https://policies.google.com/terms?hl=en-GB#toc-about)
 
-[EEA instructions on withdrawal](https://policies.google.com/terms?hl=en-GB#toc-withdrawal-form)
-
 Your relationship with Google
 =============================
 
-These terms help define the relationship between you and Google. Broadly speaking, we give you permission to use our [services](https://policies.google.com/terms?hl=en-GB#footnote-services) if you agree to follow these terms, which reflect [how Google’s business works and how we earn money](https://about.google/intl/en-GB_FR/how-our-business-works). When we speak of 'Google', 'we', 'us' and 'our', we mean Google Ireland Limited and its [affiliates](https://policies.google.com/terms?hl=en-GB#footnote-affiliates).
+These terms help define the relationship between you and Google. Broadly speaking, we give you permission to use our [services](https://policies.google.com/terms?hl=en-GB#footnote-services) if you agree to follow these terms, which reflect [how Google’s business works and how we earn money](https://about.google/intl/en-GB_GB/how-our-business-works). When we speak of 'Google', 'we', 'us' and 'our', we mean Google LLC and its [affiliates](https://policies.google.com/terms?hl=en-GB#footnote-affiliates).
 
 What you can expect from us
 ---------------------------
@@ -86,23 +83,11 @@ Our services are designed to work together, making it easier for you to move fro
 
 ### Develop, improve and update Google services
 
-While we use a broad definition of 'services' throughout these terms as described above, applicable law draws distinctions between 'digital content', 'services' and 'goods' in certain situations. That’s why we use the more specific terms in this section and the [Legal guarantee](https://policies.google.com/terms?hl=en-GB#toc-legal-guarantee) section.
+We’re constantly developing new technologies and features to improve our services. For example, we use artificial intelligence and machine learning to provide you with simultaneous translations and to better detect and block spam and malware. As part of this continual improvement, we sometimes add or remove features and functionalities, increase or decrease limits to our services and start offering new services or stop offering old ones. When a service requires or includes downloadable software, that software sometimes updates automatically on your device once a new version or feature is available. Some services let you adjust your automatic update settings.
 
-We’re constantly developing new technologies and features to improve our services. For example, we use artificial intelligence and machine learning to provide you with simultaneous translations and to better detect and block spam and malware.
+We maintain a rigorous product research programme, so before we change or stop offering a service, we carefully consider your interests as a user, your reasonable expectations, and the potential impact on you and others. We only change or stop offering services for valid reasons, such as to improve performance or security, to comply with law, to prevent illegal activities or abuse, to reflect technical developments or because a feature or an entire service is no longer popular enough or economical to offer.
 
-As part of the continual evolution of our digital content, services and goods, we make modifications such as adding or removing features and functionalities, increasing or decreasing usage limits and offering new digital content or services or discontinuing old ones. We may also change our digital content or services for these other reasons:
-
-* to adapt to new technologies
-* to reflect increases or decreases in the number of people who use a particular service
-* to respond to key changes in the licences and partnerships that we have with others
-* to prevent abuse or harm
-* to address legal, regulatory, safety or security issues
-
-In particular, we sometimes make legally-required updates, which are modifications that keep digital content, services or goods in conformity with the law. We make these updates to our digital content, services and goods for safety or security reasons and to make sure that they meet the quality standards that you expect, such as those described in the [Legal guarantee](https://policies.google.com/terms?hl=en-GB#toc-legal-guarantee) section. We may automatically install updates that address significant safety or security risks. For other updates, you can choose whether you want them installed.
-
-We maintain a rigorous product research programme, so before we change or stop offering a service, we carefully consider your interests as a user, your reasonable expectations, and the potential impact on you and others. We only change or stop offering services for valid reasons.
-
-If a modification negatively affects your ability to access or use our digital content or services, or if we stop offering a service all together, we’ll provide you with reasonable advance notice by email – including a description of the changes, when they’ll take place and your right to end your contract with us if our modifications create more than a minor negative impact – except in urgent situations such as preventing abuse or harm, responding to legal requirements or addressing security and operability issues. We’ll also provide you with an opportunity to export [your content](https://policies.google.com/terms?hl=en-GB#footnote-your-content) from your Google Account using [Google Takeout](https://takeout.google.com/settings/takeout?hl=en_GB), subject to applicable law and policies.
+If we make material changes that negatively impact your use of our services or if we stop offering a service, we’ll provide you with reasonable advance notice, except in urgent situations such as preventing abuse, responding to legal requirements or addressing security and operability issues. We’ll also provide you with an opportunity to export [your content](https://policies.google.com/terms?hl=en-GB#footnote-your-content) from your Google Account using [Google Takeout,](https://takeout.google.com/settings/takeout?hl=en_GB) subject to applicable law and policies.
 
 What we expect from you
 -----------------------
@@ -113,8 +98,6 @@ The permission that we give you to use our [services](https://policies.google.co
 
 * **these terms**
 * **[service-specific additional terms](https://policies.google.com/terms/service-specific?hl=en-GB)**, which could, for example, include things like additional age requirements
-
-You can view, copy and store these terms in [PDF format](https://www.gstatic.com/policies/terms/pdf/20220105/it7r24p9/google_terms_of_service_en-GB_fr.pdf). You can accept these terms and any [service-specific additional terms](https://policies.google.com/terms/service-specific?hl=en-GB) when you’re signed in to your Google Account.
 
 We also make various policies, Help Centres and other resources available to you to answer common questions and to set expectations about using our services. These resources include our [Privacy Policy](https://policies.google.com/privacy?hl=en-GB), [Copyright Help Centre](https://support.google.com/legal/topic/4558877?hl=en_GB), [Safety Centre](https://safety.google/?hl=en_GB) and other pages accessible from our [policies site](https://policies.google.com/?hl=en-GB).
 
@@ -138,17 +121,17 @@ Some of our services are designed to let you upload, submit, store, send, receiv
 Licence
 -------
 
-[Your content](https://policies.google.com/terms?hl=en-GB#footnote-your-content) may be protected by [intellectual property rights](https://policies.google.com/terms?hl=en-GB#footnote-intellectual-property-rights) and ['droits immatériel'](https://policies.google.com/terms?hl=en-GB#footnote-immaterial-rights). For example, you have intellectual property rights in the creative content that you make, such as reviews that you write. Or you may have the right to share someone else’s creative content if they’ve given you their permission. In addition, you have 'droits immatériel' that give you control over things like your image, even if the photo that contains your image doesn’t belong to you.
+[Your content](https://policies.google.com/terms?hl=en-GB#footnote-your-content) remains yours, which means that you retain any [intellectual property rights](https://policies.google.com/terms?hl=en-GB#footnote-intellectual-property-rights) that you have in your content. For example, you have intellectual property rights in the creative content that you make, such as reviews that you write. Or you may have the right to share someone else’s creative content if they’ve given you their permission.
 
-Through this licence, you provide Google with permission to use your intellectual property rights in your content (such as [copyright](https://policies.google.com/terms?hl=en-GB#footnote-copyright) and [trademark](https://policies.google.com/terms?hl=en-GB#footnote-trademark)) and any 'droits immatériel' in your content (such as image rights).
+We need your permission if your intellectual property rights restrict our use of your content. You provide Google with that permission through this licence.
 
 ### What's covered
 
-This licence covers [your content](https://policies.google.com/terms?hl=en-GB#footnote-your-content) if that content is protected by intellectual property rights or 'droits immatériel'.
+This licence covers [your content](https://policies.google.com/terms?hl=en-GB#footnote-your-content) if that content is protected by intellectual property rights.
 
 ### What’s not covered
 
-* This licence doesn’t affect your data protection rights – it’s only about your intellectual property and 'droits immatériel'
+* This licence doesn’t affect your data protection rights – it’s only about your intellectual property rights
 * This licence doesn’t cover these types of content:
     * publicly available, factual information that you provide, such as corrections to the address of a local business. That information doesn’t require a licence because it’s considered common knowledge that everyone’s free to use.
     * feedback that you offer, such as suggestions to improve our services. Feedback is covered in the _[Service-related communications](https://policies.google.com/terms?hl=en-GB#toc-service-related-comm)_ section below.
@@ -179,12 +162,13 @@ This licence is for the limited purpose of:
 * **operating and improving the services**, which means allowing the services to work as designed and creating new features and functionalities. This includes using automated systems and algorithms to analyse your content:
     * for spam, malware and illegal content
     * to recognise patterns in data, such as determining when to suggest a new album in Google Photos to keep related photos together
-    * to customise our services for you, such as providing recommendations and personalised search results, content and ads (which you can change or turn off in [Ad Settings](https://adssettings.google.com/?ref=ps-terms&hl=en_GB))This analysis occurs as your content (as well as other content in our systems) is sent, received and when it is stored.
+    * to customise our services for you, such as providing recommendations and personalised search results, content and ads (which you can change or turn off in [Ad Settings](https://adssettings.google.com/?ref=ps-terms&hl=en_GB))This analysis occurs as the content is sent, received and when it is stored.
 * **using content that you’ve shared publicly to promote the services**. For example, to promote a Google app, we might quote a review that you wrote. Or to promote Google Play, we might show a screenshot of the app that you offer in the Play Store.
+* **developing new technologies and services** for Google consistent with these terms
 
 ### Duration
 
-This licence lasts for as long as your content is protected by intellectual property rights or 'droits immatériel'.
+This licence lasts for as long as your content is protected by intellectual property rights.
 
 If you remove from our services any content that’s covered by this licence, our systems will stop making that content publicly available in a reasonable amount of time. There are two exceptions:
 
@@ -209,7 +193,7 @@ Many [organisations](https://policies.google.com/terms?hl=en-GB#footnote-organiz
 * an authorised representative of that organisation must agree to these terms
 * your organisation’s administrator may assign a Google Account to you. That administrator might require you to follow additional rules and may be able to access or disable your Google Account.
 
-If you’re based in the European Union, these terms don’t affect the rights that you may have as a [business user](https://policies.google.com/terms?hl=en-GB#footnote-business-user) of online intermediation services – including online platforms such as Google Play – under the [EU Platform-to-Business Regulation](https://policies.google.com/terms?hl=en-GB#footnote-eu-platform-to-business).
+If you’re based in the United Kingdom, these terms don’t affect the rights that you may have as a [business user](https://policies.google.com/terms?hl=en-GB#footnote-business-user) of online intermediation services – including online platforms such as Google Play – under the [UK Platform-to-Business Regulation](https://policies.google.com/terms?hl=en-GB#footnote-uk-platform-to-business).
 
 Service-related communications
 ------------------------------
@@ -261,24 +245,26 @@ You may not copy, modify, distribute, sell or lease any part of our services or 
 In case of problems or disagreements
 ====================================
 
-Both the law and these terms give you the right to (1) a certain quality of service and (2) ways to fix problems if things go wrong. If you’re a [consumer](https://policies.google.com/terms?hl=en-GB#footnote-consumer), then you enjoy all legal rights granted to consumers under applicable law, as well as any additional rights provided under these terms or [service-specific additional terms](https://policies.google.com/terms/service-specific?hl=en-GB).
+Both the law and these terms give you the right to (1) a certain quality of service and (2) ways to fix problems if things go wrong.
 
-Legal guarantee
----------------
+Warranty
+--------
 
-If you’re an EEA-based [consumer](https://policies.google.com/terms?hl=en-GB#footnote-consumer) and you’ve agreed to our Terms of Service, then EEA consumer laws provide you with a [legal guarantee](https://policies.google.com/terms?hl=en-GB#footnote-legal-guarantee) covering the digital content, services or goods that we provide you. Under this guarantee, we’re [liable](https://policies.google.com/terms?hl=en-GB#footnote-liability) for any [lack of conformity](https://policies.google.com/terms?hl=en-GB#footnote-lack-conformity) that you discover:
+We provide our [services](https://policies.google.com/terms?hl=en-GB#footnote-services) using reasonable skill and care. If we don’t meet the quality level described in this [warranty](https://policies.google.com/terms?hl=en-GB#footnote-warranty), you agree to tell us and we’ll work with you to try to resolve the issue.
 
-* within two years of the delivery of goods (such as a phone) or the one-time supply of digital content or services (such as purchasing a movie)
-* at any time during the 'continuous' supply of digital content or services (such as Maps or Gmail)
+Disclaimers
+-----------
 
-Your national laws may provide an even longer guarantee. Your rights under these legal guarantees aren’t limited by any other [commercial guarantees](https://policies.google.com/terms?hl=en-GB#footnote-commercial-guarantee) that we provide. If you want to make a guarantee claim, please [contact us](https://about.google/contact-google/?hl=en_GB).
+The only commitments that we make about our [services](https://policies.google.com/terms?hl=en-GB#footnote-services) (including the content in the services, the specific functions of our services or their reliability, availability or ability to meet your needs) are provided in (1) the _[Warranty](https://policies.google.com/terms?hl=en-GB#toc-warranty)_ section; (2) the [service-specific additional terms](https://policies.google.com/terms/service-specific?hl=en-GB) and (3) laws that can’t be limited by these terms.
 
 Liabilities
 -----------
 
 ### For all users
 
-These terms only limit our responsibilities as allowed by applicable law. These terms don’t limit [liability](https://policies.google.com/terms?hl=en-GB#footnote-liability) for fraud, fraudulent misrepresentation or death or personal injury caused by negligence or willful misconduct.
+Both the law and these terms try to strike a balance as to what you or Google can claim from the other in case of problems. That’s why the law allows us to limit certain [liabilities](https://policies.google.com/terms?hl=en-GB#footnote-liability) – but not others – under these terms.
+
+These terms only limit our responsibilities as allowed by applicable law. These terms don’t limit liability for fraud, fraudulent misrepresentation or death or personal injury caused by negligence or willful misconduct.
 
 Other than the liabilities described above, Google is liable only for its breaches of these terms or applicable [service-specific additional terms](https://policies.google.com/terms/service-specific?hl=en-GB), subject to applicable law.
 
@@ -289,14 +275,15 @@ If you’re a [business user](https://policies.google.com/terms?hl=en-GB#footnot
 * To the extent allowed by applicable law, you’ll [indemnify](https://policies.google.com/terms?hl=en-GB#footnote-indemnify) Google and its directors, officers, employees and contractors for any third-party legal proceedings (including actions by government authorities) arising out of or relating to your unlawful use of the [services](https://policies.google.com/terms?hl=en-GB#footnote-services) or breach of these terms or [service-specific additional terms](https://policies.google.com/terms/service-specific?hl=en-GB). This indemnity covers any liability or expense arising from claims, losses, damages, judgments, fines, litigation costs and legal fees.
 * If you’re legally exempt from certain responsibilities, including [indemnification](https://policies.google.com/terms?hl=en-GB#footnote-indemnify), then those responsibilities don’t apply to you under these terms. For example, the United Nations enjoys certain immunities from legal obligations and these terms don’t override those immunities.
 * Google won’t be responsible for the following [liabilities](https://policies.google.com/terms?hl=en-GB#footnote-liability):
-    * unforeseeable loss of profits, revenues, business opportunities, goodwill or anticipated savings
+    * loss of profits, revenues, business opportunities, goodwill or anticipated savings
     * indirect or consequential loss
-* Google’s total liability arising out of or relating to these terms is limited to the greater of (1) €500 or (2) 125% of the fees that you paid to use the relevant services in the 12 months before the breach
+    * punitive damages
+* Google’s total liability arising out of or relating to these terms is limited to the greater of (1) £500 or (2) 125% of the fees that you paid to use the relevant services in the 12 months before the breach
 
 Taking action in case of problems
 ---------------------------------
 
-Before taking action as described below, we’ll provide you with advanced notice when reasonably possible, describe the reason for our action, and give you an opportunity to fix the problem, unless there are objective and concrete reasons to believe that doing so would:
+Before taking action as described below, we’ll provide you with advance notice when reasonably possible, describe the reason for our action and give you an opportunity to fix the problem, unless we reasonably believe that doing so would:
 
 * cause harm or [liability](https://policies.google.com/terms?hl=en-GB#footnote-liability) to a user, third party or Google
 * violate the law or a legal enforcement authority’s order
@@ -305,7 +292,7 @@ Before taking action as described below, we’ll provide you with advanced notic
 
 ### Removing your content
 
-If there are objective and concrete reasons to believe that any of [your content](https://policies.google.com/terms?hl=en-GB#footnote-your-content) (1) breaches these terms, [service-specific additional terms or policies](https://policies.google.com/terms/service-specific?hl=en-GB), (2) violates applicable law, or (3) could harm our users, third parties or Google, then we reserve the right to take down some or all of that content in accordance with applicable law. Examples include notably child pornography, content that facilitates human trafficking or harassment, terrorist content and content that infringes someone else’s [intellectual property rights](https://policies.google.com/terms?hl=en-GB#footnote-intellectual-property-rights).
+If we reasonably believe that any of [your content](https://policies.google.com/terms?hl=en-GB#footnote-your-content) (1) breaches these terms, [service-specific additional terms or policies](https://policies.google.com/terms/service-specific?hl=en-GB), (2) violates applicable law, or (3) could harm our users, third parties or Google, then we reserve the right to take down some or all of that content in accordance with applicable law. Examples include child pornography, content that facilitates human trafficking or harassment, terrorist content and content that infringes someone else’s [intellectual property rights](https://policies.google.com/terms?hl=en-GB#footnote-intellectual-property-rights).
 
 ### Suspending or terminating your access to Google services
 
@@ -313,130 +300,38 @@ Google reserves the right to suspend or terminate your access to the services or
 
 * you materially or repeatedly breach these terms, [service-specific additional terms or policies](https://policies.google.com/terms/service-specific?hl=en-GB)
 * we’re required to do so to comply with a legal requirement or a court order
-* there are objective and concrete reasons to believe that your conduct causes harm or [liability](https://policies.google.com/terms?hl=en-GB#footnote-liability) to a user, third party or Google – for example, by hacking, phishing, harassing, spamming, misleading others or scraping content that doesn’t belong to you
+* we reasonably believe that your conduct causes harm or [liability](https://policies.google.com/terms?hl=en-GB#footnote-liability) to a user, third party or Google – for example, by hacking, phishing, harassing, spamming, misleading others or scraping content that doesn’t belong to you
 
 For more information about why we disable accounts and what happens when we do, see this [Help Centre page](https://support.google.com/accounts/answer/40695?hl=en_GB). If you believe that your Google Account has been suspended or terminated in error, [you can appeal](https://support.google.com/accounts/answer/40695?hl=en_GB).
 
-Of course, you’re always free to stop using our services at any time. If you’re an EEA-based [consumer](https://policies.google.com/terms?hl=en-GB#footnote-consumer), you can also [withdraw from these terms](https://policies.google.com/terms?hl=en-GB#toc-withdrawal-form) within 14 days of accepting them. If you do stop using a service, we’d [appreciate knowing why](https://www.google.com/tools/feedback/intl/en/?hl=en_GB) so that we can continue improving our services.
-
-Handling requests for your data
--------------------------------
-
-Respect for the privacy and security of your data underpins our approach to responding to data disclosure requests. When we receive data disclosure requests, our team reviews them to make sure that they satisfy legal requirements and Google's [data disclosure policies](https://policies.google.com/terms/information-requests?hl=en-GB). Google Ireland Limited accesses and discloses data, including communications, in accordance with the laws of Ireland and EU law applicable in Ireland. For more information about the data disclosure requests that Google receives worldwide, and how we respond to such requests, see our [Transparency Report](https://transparencyreport.google.com/?hl=en_GB) and [Privacy Policy](https://policies.google.com/privacy?hl=en-GB).
+Of course, you’re always free to stop using our services at any time. If you do stop using a service, we’d [appreciate knowing why](https://www.google.com/tools/feedback?hl=en_GB) so that we can continue improving our services.
 
 Settling disputes, governing law and courts
 -------------------------------------------
 
 For information about how to contact Google, please visit our [contact page](https://www.google.com/contact?hl=en_GB).
 
-If you’re a resident of, or an [organisation](https://policies.google.com/terms?hl=en-GB#footnote-organization) based in the European Economic Area (EEA) or Switzerland, these terms and your relationship with Google under these terms and [service-specific additional terms](https://policies.google.com/terms/service-specific?hl=en-GB), are governed by the laws of your country of residence, and you can file legal disputes in your local courts. If you’re an EEA-based [consumer](https://policies.google.com/terms?hl=en-GB#footnote-consumer), please [contact us](https://google.com/contact?hl=en_GB) to resolve issues directly. The European Commission also offers an [Online Dispute Resolution platform](https://ec.europa.eu/consumers/odr), which we accept if required by law.
+If you’re a resident of, or an [organisation](https://policies.google.com/terms?hl=en-GB#footnote-organization) based in the United Kingdom, these terms and your relationship with Google under these terms and [service-specific additional terms](https://policies.google.com/terms/service-specific?hl=en-GB), are governed by English law, and you can file legal disputes in the English courts.
 
 About these terms
 =================
 
 By law, you have certain rights that can’t be limited by a contract like these Terms of Service. These terms are in no way intended to restrict those rights.
 
+These terms describe the relationship between you and Google. They don’t create any legal rights for other people or [organisations](https://policies.google.com/terms?hl=en-GB#footnote-organization), even if others benefit from that relationship under these terms.
+
 We want to make these terms easy to understand, so we’ve used examples from our [services](https://policies.google.com/terms?hl=en-GB#footnote-services). But not all the services mentioned may be available in your country.
+
+If it turns out that a particular term is not valid or enforceable, this will not affect any other terms.
+
+If you don’t follow these terms or the [service-specific additional terms](https://policies.google.com/terms/service-specific?hl=en-GB), and we don’t take action right away, that doesn’t mean we’re giving up any rights that we may have, such as taking action in the future.
 
 We may update these terms and [service-specific additional terms](https://policies.google.com/terms/service-specific?hl=en-GB) (1) to reflect changes in our services or how we do business – for example, when we add new services, features, technologies, pricing or benefits (or remove old ones), (2) for legal, regulatory or security reasons or (3) to prevent abuse or harm.
 
-If we update these terms or [service-specific additional terms](https://policies.google.com/terms/service-specific?hl=en-GB), we’ll provide you with at least 30 days’ advance notice (by email or other appropriate means) and the opportunity to review and accept the changes, except if we are required by law to apply the changes immediately without waiting for the end of the notice period. If you don’t agree to the new terms, you should remove [your content](https://policies.google.com/terms?hl=en-GB#footnote-your-content) and stop using the services. You can also end your relationship with us at any time, without penalty, by closing your Google Account.
-
-EEA instructions on withdrawal
-==============================
-
-If you’re an EEA-based [consumer](https://policies.google.com/terms?hl=en-GB#footnote-consumer), then starting on 28 May 2022, EEA consumer law gives you the right to withdraw from this contract as described in the EU’s model instructions on withdrawal, provided below.
-
-### Right of withdrawal
-
-You have the right to withdraw from this contract within 14 days without giving any reason.
-
-The withdrawal period will expire after 14 days from the day of the conclusion of the contract.
-
-To exercise the right of withdrawal, you must inform us of your decision to withdraw from this contract by an unequivocal statement (e.g. a letter sent by post or email). You can contact us by email at [account-withdrawal@google.com](mailto:account-withdrawal@google.com); by phone [+353 1 533 9837](tel:+35315339837) (see below for [country-specific telephone numbers](https://policies.google.com/terms?hl=en-GB#country-phone-numbers)); or by writing to us at Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland. You may use the attached model withdrawal form, but it is not obligatory. You can also electronically fill in and submit the model withdrawal form or any other unequivocal statement on our website ([g.co/EEAWithdrawalForm](https://g.co/EEAWithdrawalForm)). If you use this option, we will send you an acknowledgement of receipt of such a withdrawal on a durable medium (e.g. by email) without delay.
-
-To meet the withdrawal deadline, it is sufficient for you to send your communication concerning your exercise of the right of withdrawal before the withdrawal period has expired.
-
-### Effects of withdrawal
-
-If you withdraw from this contract, we shall reimburse to you all payments received from you, including the costs of delivery (with the exception of the supplementary costs resulting from your choice of a type of delivery other than the least expensive type of standard delivery offered by us), without undue delay and in any event not later than 14 days from the day on which we are informed about your decision to withdraw from this contract. We will carry out such reimbursement using the same means of payment as you used for the initial transaction, unless you have expressly agreed otherwise; in any event, you will not incur any fees as a result of such reimbursement.
-
-### Model withdrawal form
-
-(complete and return this form only if you wish to withdraw from the contract)
-
-− To Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland, account-withdrawal@google.com:
-
-− I hereby give notice that I withdraw from my contract of sale for the provision of the following service, \_\_\_\_\_\_\_\_\_\_\_\_\_
-
-— Ordered on, \_\_\_\_\_\_\_\_\_\_\_\_\_
-
-— Name of consumer, \_\_\_\_\_\_\_\_\_\_\_\_\_
-
-— Address of consumer, \_\_\_\_\_\_\_\_\_\_\_\_\_
-
-— Signature of consumer (only if this form is notified on paper), \_\_\_\_\_\_\_\_\_\_\_\_\_
-
-− Date \_\_\_\_\_\_\_\_\_\_\_\_\_
-
-### Contact Google to withdraw from these terms
-
-| Country | Phone number |
-| --- | --- |
-| Austria | 0800 001180 |
-| Åland Islands | 0800 526683 |
-| Belgium | 0800 58 142 |
-| Bulgaria | 0800 14 744 |
-| Canary Islands | +34 912 15 86 27 |
-| Ceuta & Melilla | +34 912 15 86 27 |
-| Croatia | 0800 787 086 |
-| Cyprus | 80 092492 |
-| Czechia | 800 720 070 |
-| Denmark | 80 40 01 11 |
-| Estonia | 8002 643 |
-| Finland | 0800 520030 |
-| France | 0 805 98 03 38 |
-| French Guiana | 0805 98 03 38 |
-| French Polynesia | +33 1 85 14 96 65 |
-| French Southern Territories | +33 1 85 14 96 65 |
-| Germany | 0800 6270502 |
-| Greece | 21 1180 9433 |
-| Guadeloupe | 0805 98 03 38 |
-| Hungary | 06 80 200 148 |
-| Iceland | 800 4177 |
-| Ireland | 1800 832 663 |
-| Italy | 800 598 905 |
-| Latvia | 80 205 391 |
-| Liechtenstein | 0800 566 814 |
-| Lithuania | 8 800 00 163 |
-| Luxembourg | 800 40 005 |
-| Malta | 8006 2257 |
-| Martinique | 0805 98 03 38 |
-| Mayotte | +33 1 85 14 96 65 |
-| Netherlands | 0800 3600010 |
-| New Caledonia | +33 1 85 14 96 65 |
-| Norway | 800 62 068 |
-| Poland | 800 410 575 |
-| Portugal | 808 203 430 |
-| Réunion | 0805 98 03 38 |
-| Romania | 0800 672 350 |
-| Slovakia | 0800 500 932 |
-| Slovenia | 080 688882 |
-| Spain | 900 906 451 |
-| St Barthélemy | +33 1 85 14 96 65 |
-| St Martin | +33 1 85 14 96 65 |
-| St Pierre & Miquelon | +33 1 85 14 96 65 |
-| Svalbard & Jan Mayen | 800 62 425 |
-| Sweden | 020-012 52 41 |
-| Vatican City | 800 599 102 |
-| Wallis & Futuna | +33 1 85 14 96 65 |
+If we materially change these terms or [service-specific additional terms](https://policies.google.com/terms/service-specific?hl=en-GB), we'll provide you with reasonable advance notice and the opportunity to review the changes, except (1) when we launch a new service or feature, or (2) in urgent situations, such as preventing ongoing abuse or responding to legal requirements. If you don't agree to the new terms, you should remove [your content](https://policies.google.com/terms?hl=en-GB#footnote-your-content) and stop using the services. You can also end your relationship with us at any time by closing your Google Account.
 
 Definitions
 ===========
-
-### “droits immatériel”
-
-As protected by French law, rights other than intellectual property rights and data protection rights related to your content, such as your right to authorise the use of your own image in photos or videos, even if the photo or video doesn’t belong to you.
 
 ### affiliate
 
@@ -446,25 +341,17 @@ An entity that belongs to the Google group of companies, which means Google LLC 
 
 An individual or entity who is not a consumer (see consumer).
 
-### commercial guarantee
-
-A commercial guarantee is a voluntary commitment that certain quality standards will be met and that if those standards aren’t met, the company offering the guarantee is responsible for repairing, replacing or refunding the consumer for defective items.
-
 ### consumer
 
-An individual who uses Google services for personal, non-commercial purposes outside of their trade, business, craft or profession. This includes 'consumers' as defined in [Article 2.1 of the EU consumer rights directive](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32011L0083). (See business user)
+An individual who uses Google services for personal, non-commercial purposes outside of their trade, business, craft or profession. This includes 'consumers' as defined in [Regulation 4 of the consumer contracts (Information, cancelation and additional charges) regulations 2013](https://www.legislation.gov.uk/uksi/2013/3134/regulation/4/made). (See business user)
 
 ### copyright
 
-A legal right that allows the creator of an original work (such as a blog post, photo or video) to decide if and how that original work may be used by others, subject to certain limitations and exceptions.
+A legal right that allows the creator of an original work (such as a blog post, photo or video) to decide if and how that original work may be used by others, subject to certain limitations and exceptions (such as 'fair use' and 'fair dealing').
 
 ### disclaimer
 
 A statement that limits someone’s legal responsibilities.
-
-### EU Platform-to-Business Regulation
-
-The Regulation (EU) 2019/1150 on promoting fairness and transparency for business users of online intermediation services.
 
 ### indemnify or indemnity
 
@@ -473,14 +360,6 @@ An individual or organisation’s contractual obligation to compensate the losse
 ### intellectual property rights (IP rights)
 
 Rights over the creations of a person’s mind, such as inventions (patent rights); literary and artistic works (copyright); designs (design rights), and symbols, names and images used in commerce (trademarks). IP rights may belong to you, another individual or an organisation.
-
-### lack of conformity
-
-A legal concept that defines the difference between how something should work and how it actually works. Under the law, how something should work is based on how the seller or trader describes it, whether its quality and performance are satisfactory and its fitness for the usual purpose of such items.
-
-### legal guarantee
-
-A legal guarantee is a requirement under the law that a seller or trader is liable if their digital content, services or goods are defective (that is, that they [lack conformity](https://policies.google.com/terms/definitions?hl=en-GB#toc-terms-lack-conformity)).
 
 ### liability
 
@@ -505,14 +384,22 @@ Many of these services also include content that you can stream or interact with
 
 Symbols, names and images used in commerce that are capable of distinguishing the goods or services of one individual or organisation from those of another.
 
+### UK Platform-to-Business Regulation
+
+The Regulation (EU) 2019/1150 on promoting fairness and transparency for business users of online intermediation services, as incorporated into the laws of the United Kingdom.
+
+### warranty
+
+An assurance that a product or service will perform to a certain standard.
+
 ### your content
 
-Things that you create, upload, submit, store, send or share using our services, such as:
+Things that you create, upload, submit, store, send, receive or share using our services, such as:
 
 * Docs, Sheets and Slides that you create
 * blog posts that you upload through Blogger
 * reviews that you submit via Maps
 * videos that you store in Drive
-* emails that you send via Gmail
+* emails that you send and receive through Gmail
 * pictures that you share with friends via Photos
 * travel itineraries that you share with Google
