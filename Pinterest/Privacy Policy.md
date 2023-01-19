@@ -1,9 +1,6 @@
 Privacy policy
 ==============
 
-* ### **California Residents: Please see our California Privacy Statement and Notice at Collection [here](https://policy.pinterest.com/notice-at-collection).** 
-    
-
 * ### Table of contents
     
     You can use this table of contents to move through our privacy policy and find what you need. Click on a link for a specific section and you'll jump right to it.
@@ -19,14 +16,16 @@ Privacy policy
     * [Our policy on children’s information](#section-our-policy-on-childrens-information)
     * [Your options](#section-your-options)
     * [Residents of the EEA](#section-residents-of-the-eea)
-    * [대한민국 거주자](#section)
+    * [California residents](#section-california-residents)
     * [How we make changes to this policy](#section-how-we-make-changes-to-this-policy)
     * [Contact us](#section-contact-us)
 
 Summary of changes
 ------------------
 
-* We've updated how we explain some of our activities based on changes in the law, including by adding our California Privacy Statement and [Notice at Collection](https://policy.pinterest.com/en/notice-at-collection) and explaining some of the choices we offer to you in light of updates to Virginia law.
+* We added more details about data we collect and how it's used, along with a new way to control whether it is used to report on ads performance.
+    
+    We added new information for our California residents.
     
 
 Thank you for using Pinterest!
@@ -62,8 +61,6 @@ We collect information in a few different ways
     * Some websites or apps use Pinterest features such as our “Save” button, or you may install our “Save” button for your browser. If so, we collect log data from those sites or apps. [You can learn more about these features at our Help Center.](https://help.pinterest.com/article/save-pins-with-the-pinterest-browser-button)
     * Online advertisers or third parties share information with us to measure, report on or improve the performance of ads on Pinterest, or to figure out what kinds of ads to show you on or off of Pinterest. This includes information about your visits to an advertiser's site or purchases you made from them, or information about your interests from a third-party service, which we might use to help show you ads. [Learn more about the types of information advertisers or other third parties share with us](https://help.pinterest.com/article/personalized-ads-on-pinterest).
     
-    You can control how we use this information to personalize your experience and the ads you see on Pinterest in your Privacy and Data Settings. 
-    
 
 What we do with the info we collect
 -----------------------------------
@@ -84,13 +81,13 @@ What we do with the info we collect
     * Review your messages on Pinterest to detect activity that poses a risk to the safety of you, our community and/or members of the public.
     * Conduct analytics and research on who is using Pinterest and what they are doing. For example, by logging how often people use two different versions of a feature on Pinterest, we can understand which version is better.
     * Improve Pinterest and offer new features.
-    * Advertise Pinterest products and services to you on other sites. You can choose for us not to share your information with other sites to personalize those ads by following the instructions [here](https://www.pinterest.com/settings/privacy). You can also learn more in the "[Your options](https://policy.pinterest.com/privacy-policy#section-your-options)" section below.
+    * Advertise Pinterest products and services to you on other sites. You can choose for us not to share your information with other sites to personalize those ads as described in the “[Choices you have about your information](https://policy.pinterest.com/privacy-policy#section-choices-you-have-about-your-info)” section below.
     * Send you updates (such as when certain activity, like saves or comments, happens on Pinterest) and news by email or push notification, depending on your settings. For example, we send weekly updates that include Pins you may like. You can decide to [stop getting these notifications](https://help.pinterest.com/article/edit-notification-settings) by updating your [settings](https://www.pinterest.com/settings/).
     
     We have a legitimate interest in delivering ads that are relevant, interesting and personal to you in order to generate revenue. To further these interests we use the information we collect to:
     
     * Decide which ads to show you. For example, if you show an interest in camping tents on Pinterest, we may show you ads for other outdoor products. We customize the ad content we show you by identifying your interests based on your onsite and offsite activities, as well as by using information we receive from ad partners or other third parties. Where we use cookies to identify your offsite interests, we’ll get your consent where we need to. Where ad partners or other third parties share information with us about you, we rely on the consent they already obtained.
-    * Tell our ad partners how their Pinterest ads are doing, and how to make them better. Some of this information is aggregated. For example, we would report to an advertiser that a certain percentage of people who viewed a Promoted Pin went on to visit that advertiser's site. Depending upon where you live and your settings, we may also disclose this information at an individual level; this information isn’t aggregated. For example, we would let an advertiser know that a particular Promoted Pin has been saved by certain people. To find out more about reporting on ads please [visit the Help Center](https://help.pinterest.com/articles/ads-performance-reporting-pinterest).
+    * Tell our ad partners how their Pinterest ads are doing, and how to make them better. Some of this information is aggregated. For example, we would report to an advertiser that a certain percentage of people who viewed a Promoted Pin went on to visit that advertiser's site. In other instances, this information isn’t aggregated. For example, we would let an advertiser know that a particular Promoted Pin has been saved by certain people. To find out more about reporting on ads please [visit the Help Center](https://help.pinterest.com/articles/ads-performance-reporting-pinterest).
     
     We have a legitimate interest in using information we collect to customize your Pinterest experience based on your offsite behavior. For example, if you visit websites that sell electric guitars, we may suggest guitar Pins to you. When we identify your interests based on your offsite behavior with cookies, we (or our partners) will obtain any consent that we may need. To find out more about how we use cookies, please see our [Cookie Policy](https://policy.pinterest.com/cookies).
     
@@ -98,10 +95,10 @@ What we do with the info we collect
     
     * Allow searching with photos. For example, if you take a photo of a pair of shoes or a piece of furniture you like, you can ask us to show you similar items. You can opt in to this in your device operating system settings.
     * Send you marketing materials by email, text, push notification or phone call depending on your account or operating system settings. Each time we send you marketing materials, we give you the option to unsubscribe.
-    * Identify your precise location and customize the recommendations and ads we show you. For example, if we know that you’re near a retailer we may show you that retailer’s Pins that may be of interest to you. You can opt in to this in your device operating system settings.
-    * Depending on where you live and your settings, tell our ad partners how their ads are doing using the Pinterest Tag. The Pinterest Tag (a piece of code an advertiser puts on their site) delivers insights to us and our ad partners about actions that a person takes on their website after viewing an ad on Pinterest. [To learn more about the Pinterest Tag, please visit the Help Center](https://help.pinterest.com/article/personalization-and-data).
+    * Identify your precise location and customize the content we show you. For example, if we know that you’re near a retailer we may show you that retailer’s Pins that may be of interest to you. You can opt in to this in your device operating system settings.
+    * Tell our ad partners how their ads are doing using the Pinterest Tag. The Pinterest Tag (a piece of code an advertiser puts on their site) delivers insights to us and our ad partners about actions that a person takes on their website after viewing an ad on Pinterest. [To learn more about the Pinterest Tag, please visit the Help Center](https://help.pinterest.com/article/personalization-and-data).
     
-    Where required, we’ll also rely on your consent where we use cookies to show you ads you might be interested in. We use cookies to identify your interests based on your offsite activity. We do this for people currently using Pinterest and for new folks, and it helps us customize how you get started on Pinterest.
+    We’ll also rely on your consent where we use cookies to show you ads you might be interested in. We use cookies to identify your interests based on your offsite activity. We do this for people currently using Pinterest and for new folks, and it helps us customize how you get started on Pinterest.
     
     To find out more about how we use cookies, and your choices about how we use them, please see our [Cookie Policy](https://policy.pinterest.com/cookie-policy-preview).
     
@@ -122,9 +119,12 @@ Choices you have about your info
     * [Edit information in your profile](https://help.pinterest.com/article/edit-your-profile) at any time, decide whether your profile is available to search engines, or choose whether others can find your Pinterest account using your email address.
     * [Link or unlink your Pinterest account](https://help.pinterest.com/article/link-your-social-media) from other services (like Facebook, Google or Twitter). For some services (like Facebook), you can also decide whether or not to publish your Pinterest activity to that service.
     * [Edit secret board settings](https://help.pinterest.com/article/secret-boards). Secret boards are visible to you and other collaborators in the board, and any collaborator may choose to make the board available to anyone else. For example, another collaborator can invite someone else to the board, make the board available to an app they use to view Pinterest, or even just take an image from the board and email it to their friends.
+    * [Choose whether Pinterest will be customized for you using information from other websites or apps](https://help.pinterest.com/article/edit-personalization-settings). If you have a Pinterest account and want to control how your offsite data is used to tailor your experience, you can visit [your settings](https://help.pinterest.com/article/edit-personalization-settings) and update your “Personalization” preferences.
     * Choose whether Pinterest ads delivered to you on other platforms, sites or apps are customized using information about your account activities. You can control this by visiting [your settings](https://www.pinterest.com/settings/) and updating your “Personalization” preferences.
-    * Choose whether Pinterest shares information about your activity on Pinterest for ads performance reporting. You can control this by visiting [your settings](https://www.pinterest.com/settings/privacy) and updating your “Data Personalization” preferences.
+    * Choose whether Pinterest shares information about your activity on Pinterest for ads performance reporting. You can control this by visiting [your settings](https://www.pinterest.com/settings/privacy) and updating your “Personalization” preferences.
     * [Close your account at any time](https://help.pinterest.com/article/deactivate-or-close-your-account). When you close your account, we’ll deactivate it, remove your Pins and boards from Pinterest and delete your account data. Please note that there may be legal reasons for us to keep your data, such as if we receive a law enforcement request asking us to preserve data. We may also retain certain information in our backup systems for a limited period of time, or as required by law.
+    
+    We also support settings such as Limit Ad Tracking in iOS, Ads Personalization in Android devices as well as [Do Not Track](https://help.pinterest.com/article/do-not-track) in browsers. [Learn more about how Do Not Track affects our collection and use of data collected off of Pinterest](https://help.pinterest.com/article/do-not-track).
     
     You also have choices available to you through the device or software you use to access Pinterest. For example:
     
@@ -150,7 +150,7 @@ How and when we share information
 How long we keep your information
 ---------------------------------
 
-* We keep your information only so long as we need it to provide Pinterest to you and fulfill the purposes described in this policy. When we no longer need to use your information and there is no need for us to keep it to comply with our legal or regulatory obligations, we’ll either remove it from our systems or depersonalize it so that we can't identify you.
+* We keep your information only so long as we need it to provide Pinterest to you and fulfill the purposes described in this policy. This is also the case for anyone that we share your information with and who carries out services on our behalf. When we no longer need to use your information and there is no need for us to keep it to comply with our legal or regulatory obligations, we’ll either remove it from our systems or depersonalize it so that we can't identify you.
     
 
 Our policy on children’s information
@@ -166,12 +166,11 @@ Your options
     
     * Request access to the information we collect and hold about you. We'll usually share this with you within 30 days of you [asking us for it through our Help Center](https://help.pinterest.com/contact?current_page=about_you_page&personal_data=personal_data_view).
     * Have your information corrected or deleted. You can update your information in your profile or delete your data by [closing your account](https://help.pinterest.com/article/deactivate-or-close-your-account).
-    * Opt out of targeted advertising. Some of the activities described in this policy may be considered “targeted advertising” under some laws. You can control how we use and disclose information to show you ads on and off Pinterest by following the instructions in your [Privacy and Data Settings](https://www.pinterest.com/settings/privacy). We also support settings such as Limit Ad Tracking in iOS, Ads Personalization in Android devices as well as [Do Not Track](https://help.pinterest.com/article/do-not-track) in browsers. [Learn more about how Do Not Track affects our collection and use of data collected off of Pinterest](https://help.pinterest.com/article/do-not-track).
     * Object to us processing your information. You can ask us to stop using your information, including when we use your information to send you marketing emails or push notifications. If you opt out of receiving marketing messages from us, we may still send you updates about your account, such as when someone comments on one of your Pins.
     * Have the information you provided to us sent to another organization, where we hold this information with your consent or for the performance of a contract with you, and, where it's technically feasible for us to do so.
     * Request more details about the information we collect and how and why we use and share it.
     
-    We will not discriminate against you if you choose to exercise your options related to your personal information. If we deny your request, you may have the right to appeal our decision by contacting us. We work to be clear with you about your options and the consequences of exercising certain options. If you have questions, please [contact us](https://help.pinterest.com/contact).  
+    We will not discriminate against you if you choose to exercise your options related to your personal information. We work to be clear with you about your options and the consequences of exercising certain options. If you have questions, please [contact us](https://help.pinterest.com/contact).  
      
     
 
@@ -185,6 +184,44 @@ Residents of the EEA
     Because Pinterest is a worldwide service, we may transfer the personal data of EEA residents to a country outside the EEA. Where we transfer information from the EEA to a country that doesn't provide an adequate level of protection, we’ll only do so under appropriate safeguards to protect your information, like standard contractual clauses.
     
 
+California residents
+--------------------
+
+* The California Consumer Privacy Act (CCPA) requires us to disclose categories of Personal Information we collect and how we use it, the categories of sources from whom we collect Personal Information, and the third parties with whom we share it, which we have explained above.
+    
+    In the preceding twelve months, we have collected Personal Information from you, your devices, our partners, third parties, and from categories of sources otherwise described in the [“We collect information in a few different ways”](https://policy.pinterest.com/privacy-policy#section-we-collect-information-in-a-few-different-ways) section of this Privacy Policy.
+    
+    We are also required to communicate information about rights California residents have under California law. You may exercise the following rights:
+    
+    * Right to Know and Access. You may submit a verifiable request for information regarding the: (1) categories of Personal Information we collect, use, or share; (2) purposes for which categories of Personal Information are collected or used by us; (3) categories of sources from which we collect Personal Information; and (4) specific pieces of Personal Information we have collected about you.
+    * Right to Equal Service. We will not discriminate against you if you exercise your privacy rights.
+    * Right to Delete. You may submit a verifiable request to close your account and we will delete Personal Information about you that we have collected.
+    
+    In order to verify your identity when you make a request, you will be required to log in to your password-protected account or respond to an email verification request.
+    
+    We do not sell the Personal Information of our users.
+    
+    For more information about these rights, please see “Choices you have about your info” above, and to exercise them, please [visit our Help Center](https://help.pinterest.com/contact?current_page=about_you_page&personal_data=personal_data_view) or contact us at privacy-support \[at\] pinterest.com. 
+    
+    In addition to exercising these rights yourself, you may also designate an authorized agent to make these requests on your behalf. In order to do this, we will ask you to verify the request directly via email or through your password-protected account.
+    
+    We collect the following categories of Personal Information and in the past 12 months, we have disclosed these categories of Personal Information for a business purpose to affiliates, service providers and third parties, as described in the [How and when we share information](https://policy.pinterest.com/privacy-policy#section-how-and-when-we-share-information) section of this Privacy Policy:
+    
+    * Identifiers, such as your name, username, email address, phone number, unique device identifiers, and your IP address
+    * Personal characteristics protected by law, such as your gender and age
+    * Commercial information, such as purchases made, and payment information
+    * Internet or electronic network activity information, such as information about your device and your use of our Services
+    * Geo-location data, when shared through your device settings or photos
+    * Electronic, visual, or similar information, such as your profile picture or photos
+    * Professional or employment information, when you link your account to other accounts
+    * Inferences we draw or derive about users, such as your interests or preferences
+    * Other information you provide, such as your bio, Pins, and comments
+    
+    We use and disclose this information for the business purposes described in the [What we do with the info we collect](https://policy.pinterest.com/privacy-policy#section-what-we-do-with-the-info-we-collect) section in this Privacy Policy, including to: provide our Service, communicate with you to provide updates or respond to your comments and questions, audit our Service, detect security incidents and prevent fraud, debug and repair errors, maintain your account, provide customer service, process or fulfill orders, conduct research and development and other activities to improve our Service, show advertising, market our Services, and understand how users interact with our Services.
+    
+    The CCPA requires us to disclose certain metrics about the various requests we get, such as how many specific requests we received from California residents in the last calendar year. See our [CCPA Metrics Disclosure](https://policy.pinterest.com/ccpa-metrics-disclosure).
+    
+
 How we make changes to this policy
 ----------------------------------
 
@@ -196,4 +233,5 @@ Contact us
 
 * The best way to get in touch with us or to exercise your options described above is through the [Help Center](https://help.pinterest.com/contact). If you live in the United States, Pinterest, Inc. is responsible for your information. You can contact Pinterest Inc. at 651 Brannan Street, San Francisco, CA 94107, USA.
     
-    Effective Date December 16, 2022
+    Effective Date September 2, 2020  
+    Last updated July 1, 2021
