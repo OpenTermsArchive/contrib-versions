@@ -1,4 +1,4 @@
-SIMPLI.FI WEBSITE PRIVACY POLICY
+SIMPLI.FI Website Privacy Policy
 ================================
 
 [![TRUSTe Privacy Certification](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
@@ -10,40 +10,38 @@ SIMPLI.FI WEBSITE PRIVACY POLICY
 ![TRUSTe](//privacy-policy.truste.com/privacy-seal/seal?rid=8ca39875-b9cf-402d-a502-283cc0432a0b)](https://privacy.truste.com/privacy-seal/validation?rid=8ca39875-b9cf-402d-a502-283cc0432a0b)
 
 **Effective Date**  
-December 23, 2022
+October 6, 2021
 
    
-This Privacy Policy is published by Simplifi Holdings, LLC (“Simplifi,” “we” or “us”) and describes how we collect, receive, use, retain, process, disclose, transfer, and secure Personal Information on our website located at [http://simpli.fi](http://simpli.fi/), our online client portal located at [App.simpli.fi](http://app.simpli.fi/), and other websites or apps for our clients that link to this Privacy Policy (collectively, the “Site”). It also describes your choices regarding use, access, deletion, and correction of your Personal Information. The Site is intended for our business clients. Our prospective or current clients, including advertisers or publishers, are referred to in this Policy as “Advertising Customers.” All references to “you,” “your” or “user” apply to Advertising Customers and any other person viewing, using or accessing the Site and its features and services. For information about our data practices when we carry out our advertising services, please review our [Privacy Policy for our Services](https://simpli.fi/simpli-fi-services-privacy-policy/).
+This Privacy Policy is published by Simplifi Holdings, Inc. (“Simplifi,” “we” or “us”) and describes how we collect, receive, use, retain, process, disclose, transfer, and secure Personal Information on our website located at [http://simpli.fi](http://simpli.fi/), our online client portal located at [App.simpli.fi](http://app.simpli.fi/), and other websites or apps for our clients that link to this Privacy Policy (collectively, the “Site”). It also describes your choices regarding use, access, deletion, and correction of your Personal Information. The Site is intended for our business clients. Our clients, including advertisers or publishers, are referred to in this Policy as “Advertising Customers.” All references to “you,” “your” or “user” apply to Advertising Customers and any other person viewing, using or accessing the Site and its features and services. For information about our data practices when we carry out our advertising services, please review our [Privacy Policy for our Services](https://simpli.fi/simpli-fi-services-privacy-policy/).
 
-“Personal Information” in this Privacy Policy is information about you that is personally identifying or could reasonably be used to identify you, such as your name, email address, or telephone number. The definition of Personal Information depends on the laws that apply in your location, and may include other types of information as well, such as location data, your Internet Protocol (IP) address, or other unique identifier. This Privacy Policy covers information we collect online only, unless local law requires otherwise.
+“Personal Information” in this Policy is information about you that is personally identifying, such as your name, email address, or telephone number, and that is not otherwise publicly available. The definition of Personal Information depends on the laws that apply in your location, and may include other types of information as well, such as location data, your Internet Protocol (IP) address, or other unique identifier. This Privacy Policy covers information we collect online only, unless local law requires otherwise.
 
-1\. CHANGES TO THIS POLICY
---------------------------
+Changes to This Policy
+----------------------
 
 This Privacy Policy may change from time to time, so please check back periodically for any changes. If we make any material changes we will notify you by means of a notice on this Site prior to the change becoming effective. If you do not agree to such changes, you must immediately stop using the Site.
 
-2\. INFORMATION WE COLLECT
---------------------------
+Information We Collect
+----------------------
 
-Users can browse the Site without logging in or actively providing any Personal Information. Providing Personal Information, such as by registering for an account, is necessary to become an Advertising Customer and to access certain features and services available on the Site. For example, we will request the name, contact information, company information, and payment information of Advertising Customers. When users register and log in as Advertising Customers, we collect an email address and password. When users request a demo or otherwise contact us with inquiries, we collect the Personal Information needed to respond like a name, email address, and phone number. When users connect to the Site from a social media platform, we collect the Personal Information you have provided to that particular social media platform in accordance with the social media platform’s privacy practices and your settings on that platform.
+Users can browse the Site without logging in or providing any Personal Information. Providing Personal Information is necessary to become an Advertising Customer and to access certain features and services available on the Site. For example, we will request your name, contact information, company information, and payment information. When users register and log in as Advertising Customers, we collect an email address and password. When users request a demo or otherwise contact us with inquiries, we collect the Personal Information needed to respond like a name, email address, and phone number. When users connect to the Site from a social media platform, we collect the Personal Information you have provided to that particular social media platform in accordance with the social media platform’s privacy practices and your settings on that platform.  
+Users can also register as an Advertising Customer and pay for our services by phone. When users call to register, we collect your name, contact information, company information, and payment information to enable us to process the transaction and set up and manage the user’s account.  
+When users apply for a job with Simplifi, we collect Personal Information such as contact information and other Personal Information provided by the user on his or her resume or C.V.  
+It is always your choice whether or not to provide us with the Personal Information described above. If you do not provide the necessary Personal Information you will not be able to become an Advertising Customer and you will not be able to access our advertising services or other services available on the Site. We also will have no way to respond to your questions or inquiries or to provide a demo or other requested services.  
+When users access our Site, we collect certain information automatically including IP addresses and cookie identifiers. We collect information about your device and your visit(s), such as browser type and version, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data.  
+We and our third-party vendors use cookies or similar technologies (such as web beacons and pixels) to analyze trends, administer and improve the Site, deliver more relevant advertising, and gather demographic information about our user base as a whole. A persistent cookie remains on your hard drive for an extended period of time. You may be able to remove persistent cookies using tools in your browser. We do not store Personal Information in cookies. Cookies will remain active for 30 days before deletion or until you remove them. If you reject cookies, you may still navigate our Site, but your ability to use some areas of the Site may be limited. For more information, please see our [Cookie Policy](https://simpli.fi/simpli-fi-cookie-policy/). For more information on Google’s data collection practices visit [Google’s Policies and Terms](https://policies.google.com/technologies/partner-sites).
 
-Users can also register as an Advertising Customer and pay for our services by phone. When users call to register, we collect your name, contact information, company information, and payment information to enable us to process the transaction and set up and manage the user’s account.
+How We Use Your Information
+---------------------------
 
-It is your choice whether or not to provide us with the Personal Information described above. If you do not provide the necessary Personal Information you will not be able to become an Advertising Customer and you will not be able to access our advertising services or other services available on the Site. We also will have no way to respond to your questions or inquiries or to provide a demo or other requested services.
+We use your information to operate and improve our business and provide the services you have requested, such as to receive information about our products and services, to become and to interact with us as an Advertising Customer, to process your billings, for our legal compliance, to be contacted in regard to an employment opportunity or to provide you with customer service. We also send you marketing materials, including by using your email address to send you email updates and promotional materials from or about Simplifi if you are a U.S. resident or if you are an E.U. resident and have opted in to receive promotional emails. You may unsubscribe from promotional emails at any time by clicking “unsubscribe” on the emails you receive from us.
 
-When users access or browse our Site, we collect certain information automatically including IP addresses and cookie identifiers, regardless of whether the user is logged in or an Advertising Customer. We collect information about your device and your visit(s), such as browser type and version, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data.
+Information Sharing and Disclosure
+----------------------------------
 
-We and our third-party vendors use cookies or similar technologies (such as web beacons and pixels) to analyze trends, administer and improve the Site, deliver more relevant advertising, and gather demographic information about our user base as a whole. A persistent cookie remains on your hard drive for an extended period of time. You may be able to remove persistent cookies using tools in your browser. Cookies will remain active for 30 days before deletion or until you remove them. If you reject cookies, you may still navigate our Site, but your ability to use some areas of the Site may be limited. For more information, please see our [Cookie Policy](https://simpli.fi/simpli-fi-cookie-policy/). For more information on Google’s data collection practices visit [Google’s Policies and Terms](https://policies.google.com/technologies/partner-sites).
+We will not sell, trade or share your Personal Information with other companies for their direct marketing purposes, unless we have your consent.
 
-3\. HOW WE USE COLLECTED INFORMATION
-------------------------------------
-
-We use the information we collect to operate and improve our business and provide the services you have requested, such as to receive information about our products and services, to become and to interact with us as an Advertising Customer, to process your billings, for our legal compliance, to be contacted in regard to an employment opportunity or to provide you with customer service. We also use information to learn about how users browse, navigate, and interact with our site, to analyze trends, to identify and address errors or issues that may impair or restrict the Site’s functionality, and to deliver more relevant advertising. We may send you marketing materials, including by using your email address to send you email updates and promotional materials from or about Simplifi if you are a U.S. resident or if you are an E.U. resident and have opted in to receive promotional emails. You may unsubscribe from promotional emails at any time and/or opt out of targeted advertising as described in the “Your Choices” section below.
-
-4\. INFORMATION SHARING AND DISCLOSURE
---------------------------------------
-
-We will not sell, trade or share your Personal Information with other companies for their direct marketing purposes, unless we have your consent.  
 We may share the information we collect with other parties for other reasons, including the following:
 
 * With our affiliates and third party vendors who provide services on our behalf, such as an email marketing company who distributes our newsletters to our users, and our third party payment processors who process your transactions. These companies are authorized to use your Personal Information only as necessary to provide these services to us.
@@ -51,25 +49,25 @@ We may share the information we collect with other parties for other reasons, in
 * Simplifi is required to disclose Personal Information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 * We may disclose Personal Information with your consent.
 
-5\. SALE OF ASSETS
-------------------
+Sale of Assets
+--------------
 
 In the event that Simplifi is involved in a merger, acquisition, or sale of all or a portion of its assets, including in bankruptcy, we reserve the right to include, disclose and transfer any or all stored Personal Information and other data among the assets transferred to the acquiring company. If this occurs, you will be notified via email and/or a prominent notice on our Site of any change in ownership or material changes in uses of your Personal Information, as well as any choices you may have regarding your Personal Information.
 
-6\. YOUR CHOICES
-----------------
+YOUR CHOICES
+------------
 
 **Email Marketing**  
 You may unsubscribe from Simplifi’s promotional emails at any time by clicking “unsubscribe” on the emails you receive from us.
 
 **Opting Out of Simplifi Targeted Advertising on Your Browser**  
-Simplifi collects data on the Site and across non-affiliated websites and apps to deliver more relevant advertising to you. This process is called interest-based advertising. Simplifi also collects information about potential relationships among different devices for interest-based advertising. If you would like to stop receiving interest-based advertising on your browser from Simplifi, [click here](https://optout.simpli.fi/opt-out). By doing so, Simplifi will replace your unique cookie with an “opt-out” cookie. An opt-out choice means that we no longer use or transfer data from the opted out browser for targeted advertisements, and we no longer use data collected on other devices to inform advertisements on that device. We will still collect and store information through such cookies for other purposes such as metrics and analytics and we may still serve you advertising but it will not be tailored for you. Because cookies are browser specific, if you use more than one browser or device, you will need to make your opt-out choice on each browser or device that you use. To do so, point each browser that you use to this page, and click on the disable link above. Please note that you will need to set the Simplifi opt-out cookie again in some cases, for example, under the following circumstances: You buy a new device, delete cookies from your browser, or upgrade or change the browser of your existing computer or device.
+Simplifi collects data on the Site and across non-affiliated websites and apps to deliver more relevant advertising to you. This process is called interest-based advertising. Simplifi also collects information about potential relationships among different devices for interest-based advertising. If you would like to stop receiving interest-based advertising on your browser from Simplifi, [click here](https://optout.simpli.fi/opt-out). By doing so, Simplifi will replace your unique cookie with an “opt-out” cookie. An opt-out choice means that we no longer use or transfer data from the opted out browser for targeted advertisements, and we no longer use data collected on other devices to inform advertisements on that device. We will still collect and store information through such cookies for other purposes such as metrics and analytics and we may still serve you advertising but it will not be tailored for you. Because cookies are browser specific, if you use more than one browser or device, you will need to make your opt-out choice on each browser or device that you use. To do so, point each browser that you use to this page, and click on the disable link above. Please note that you will need to set the Simplifi opt-out cookie again in some cases, for example, under the following circumstances: You buy a new computer, delete cookies from your browser, or upgrade the browser of your existing computer.
 
 Simplifi is a member of the Network Advertising Initiative (NAI) and adheres to the NAI Code of Conduct. Additional information on the NAI and its code can be viewed at [http://www.networkadvertising.org/code-enforcement/code](http://www.networkadvertising.org/code-enforcement/code).
 
-Simplifi also licenses the AdChoices icon from the Digital Advertising Alliance (“DAA”) at [http://digitaladvertisingalliance.org/](http://digitaladvertisingalliance.org/) and the DAAC at [http://youradchoices.ca](http://youradchoices.ca/) for the purpose of providing enhanced notice and to inform users when they are being behaviorally targeted and to provide an opportunity to opt out.
+Simplifi also licenses the AdChoices icon from the Digital Advertising Alliance (“DAA”) at [http://digitaladvertisingalliance.org](http://digitaladvertisingalliance.org/)/ and the DAAC at [http://youradchoices.ca](http://youradchoices.ca/) for the purpose of providing enhanced notice and to inform users when they are being behaviorally targeted and to provide an opportunity to opt out.  
+Simplifi makes every effort to ensure adherence to the self-regulatory principles of the DAA and the DAAC.
 
-Simplifi makes every effort to ensure adherence to the self-regulatory principles of the DAA and the DAAC.  
 For information about opting out of Simplifi’s other interest-based advertising activities outside the Site, please see our Services Privacy Policy.
 
 **JavaScript**  
@@ -81,18 +79,18 @@ We currently honor Do Not Track signals transmitted by browsers by treating this
 **Third-Party Targeted Advertising**  
 We partner with one or more third parties to display advertising on our Site and/or to manage our advertising on other sites. Such third parties may use technologies such as cookies to gather information about your activities on this Site and other unrelated sites over time in order to provide you with more relevant advertising based upon your browsing activities and interests. This is called interest-based advertising. Simpli.fi complies with the Digital Advertising Alliance Self-Regulatory Principles and the NAI Code of Conduct in connection with this activity on our Site. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out with respect to companies participating in industry self-regulation by clicking [http://optout.networkadvertising.org/?c=1](http://optout.networkadvertising.org/?c=1) or [http://preferences-mgr.truste.com/](http://preferences-mgr.truste.com/), or if located in the European Union click [http://www.youronlinechoices.eu/](http://www.youronlinechoices.eu/). Please note this does not opt you out of being served ads. You will continue to receive ads, but they will not be targeted based on your browsing activity.
 
-7\. ACCESSING YOUR INFORMATION
-------------------------------
+Accessing Your Information
+--------------------------
 
-You may request to access your Personal Information that we hold, as well as to correct, amend or delete information when it is inaccurate, or has been processed in violation of the Privacy Shield Principles or when otherwise required by law. To make such requests, please contact us at [privacy@simpli.fi](mailto:privacy@simpli.fi). We will respond to these requests in accordance with the laws that apply to you and within a reasonable timeframe. You can help us maintain the accuracy of your information by notifying us of any changes to your information. We may deny a request in some cases when permitted by law, such as when the burden or expense of providing access would be disproportionate to the risks to the individual’s privacy in the case in question, or where the rights of persons other than the individual would be violated.
+You may request to access your Personal Information that we hold, as well as to correct, amend or delete information when it has been processed in violation of the Privacy Shield Principles or when otherwise required by law. To make such requests, please contact us at [privacy@simpli.fi](mailto:privacy@simpli.fi). We will respond to these requests in accordance with the laws that apply to you and within a reasonable timeframe. You can help us maintain the accuracy of your information by notifying us of any changes to your information. We may deny a request in some cases when permitted by law, such as when the burden or expense of providing access would be disproportionate to the risks to the individual’s privacy in the case in question, or where the rights of persons other than the individual would be violated.
 
-8\. INTERNATIONAL OR CROSS-BORDER TRANSFER OF YOUR PERSONAL INFORMATION
------------------------------------------------------------------------
+INTERNATIONAL OR CROSS-BORDER TRANSFER OF YOUR PERSONAL INFORMATION AND YOUR EXPRESS AGREEMENT
+----------------------------------------------------------------------------------------------
 
-By providing Personal Information and/or by communicating with us by email, you acknowledge and expressly consent to our processing and disclosure of your Personal Information outside your country. The Personal Information of users who are located outside the U.S. may be transferred to the U.S., where our servers are located and where it will be processed and stored on servers in the U.S. **By accessing the Site, using Advertising Services, providing Personal Information or sending us email, you expressly and unambiguously agree to such transfer, processing, storage and disclosure in countries outside your own.** Individuals from the European Union, United Kingdom, and Switzerland, please see the section below on “Cross-Border Transfers from Europe” for more information.
+By providing Personal Information and/or by communicating with us by email, you acknowledge and expressly consent to our processing and disclosure of your Personal Information outside your country. The Personal Information of users who are located outside the U.S. may be transferred outside of each eligible country to the U.S., where our servers are located and where it will be processed and stored on servers in the U.S. **By accessing the Site, using Advertising Services, providing Personal Information or sending us email, you expressly and unambiguously agree to such transfer, processing, storage and disclosure in countries outside your own.**
 
-9\. EU DATA SUBJECTS: PROCESSING OF PERSONAL INFORMATION
---------------------------------------------------------
+EU DATA SUBJECTS: PROCESSING OF PERSONAL INFORMATION
+----------------------------------------------------
 
 We process Personal Information with your consent. On other occasions, we may process Personal Information when we need to do so to fulfill a contract (for example, for billing purposes) or where required to do this by law. If necessary, we may also process Personal Information when it is in our legitimate interests to do this (e.g., for auditing purposes or for fraud detection) and when these interests are not overridden by your data protection rights.
 
@@ -100,14 +98,14 @@ EU data subjects may have rights to access, portability, to revoke consent, to c
 
 Additionally, you have the right to lodge a complaint against us. To do so, contact the supervisory authority in your country of residence.
 
-10\. CROSS-BORDER TRANSFERS FROM EUROPE
----------------------------------------
+EU-U.S. PRIVACY SHIELD AND SWISS-U.S. PRIVACY SHIELD
+----------------------------------------------------
 
-Simplifi relies on safeguards such as the SCCs to receive Personal Information from the European Union, United Kingdom and Switzerland. Simplifi also continues to participate in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. Simplifi is committed to subjecting all Personal Information received from European Union (EU) member countries, the United Kingdom and Switzerland, respectively, in reliance on each Privacy Shield Framework, to that Framework’s applicable Principles. To learn more about the Privacy Shield Frameworks, and to view our certification, visit the U.S. Department of Commerce’s Privacy Shield List, here: [https://www.privacyshield.gov](https://www.privacyshield.gov/).
+Simplifi participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. Simplifi is committed to subjecting all Personal Information received from European Union (EU) member countries, the United Kingdom and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Frameworks, and to view our certification, visit the U.S. Department of Commerce’s Privacy Shield List, here: [https://www.privacyshield.gov](https://www.privacyshield.gov/).
 
 To learn more about the Privacy Shield principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity & Purpose Limitation, Access & Recourse, Enforcement & Liability, please visit [https://www.privacyshield.gov/welcome](https://www.privacyshield.gov/welcome).
 
-Simplifi is responsible for the processing of Personal Information it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Simplifi complies with the Privacy Shield Principles for all onward transfers of Personal Information from the EU, United Kingdom, and Switzerland under a Privacy Shield Framework, including the onward transfer liability provisions.
+Simplifi is responsible for the processing of Personal Information it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Simplifi complies with the Privacy Shield Principles for all onward transfers of Personal Information from the EU and Switzerland, including the onward transfer liability provisions.
 
 With respect to Personal Information received or transferred pursuant to the Privacy Shield Frameworks, Simplifi is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Simplifi may be required to disclose Personal Information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
@@ -115,64 +113,16 @@ If you have an unresolved privacy or data use concern that we have not addressed
 
 Under certain conditions, you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted, as described more fully on the Privacy Shield website here: https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint
 
-11\. RIGHTS FOR CALIFORNIA RESIDENTS
-------------------------------------
+RIGHTS FOR CALIFORNIA RESIDENTS
+-------------------------------
 
-California Advertising Customers have certain rights under state law with respect to Personal Information processed by Simplifi. This section contains disclosures required by the California Privacy Rights Act (“CPRA”), applies solely to Personal Information subject to the CPRA including offline data, and explains rights that may be available to you.
+Our clients who are California residents have certain rights under the California Consumer Privacy Act (“CCPA”) with respect to the personal information that we collect about you:
 
-Personal Information We Collect and Disclose for a Business Purpose  
-In the past 12 months, we have collected, and disclosed to third parties, the following categories of Personal Information about Advertising Customers, for our business or commercial purposes:
+* With respect to the right to opt out of sales of personal information, we do not and will not sell your personal information in any manner that requires an opt-out opportunity under the CCPA.
+* If we engaged in sales, you would have the right not to receive discriminatory treatment for the exercise of your opt-out right conferred by the CCPA.
 
-* Personal and online identifiers (such as first and last name, email address, postal address, or unique online identifiers)
-* Commercial information, including records of products or services purchased, obtained, or considered
-* Internet or other electronic network activity information (such as browsing history, search history, interactions with a website, email, application, or advertisement)
-* Geolocation information (such as general location derived from an IP address)
-* Professional or employment-related information
-
-**Categories of Sources**  
-We collect this Personal Information from the following categories of sources:
-
-* Our Advertising Customers;
-* Our service providers;
-* Affiliates not under the Simplifi brand; and
-* Third party data providers.
-
-**Categories of Recipients**  
-We may disclose all of the categories of Personal Information listed above to our service providers, to affiliates not under the Simplifi brand, and to other entities for purposes like legal compliance, as described in the “Information Sharing and Disclosure” section of this Privacy Policy above.
-
-We do not sell Personal Information about our Advertising Customers for money or other consideration. We “share” (as defined by the CPRA) online identifiers and Internet/network activity information by allowing third-party advertising partners to collect such information on our Site for interest-based advertising (also called cross-context behavioral advertising).
-
-**Why We Collect, Use, and Disclose Personal Information**  
-We use and disclose the categories Personal Information listed above for our commercial and business purposes, as further described above in the “How We Use Collected Information” and “Information Sharing and Disclosure” sections of this Privacy Policy.
-
-**Your Rights Regarding Personal Information**  
-If you are an Advertising Customer who is a California resident, you may exercise the following rights regarding Personal Information, subject to certain exceptions and limitations:
-
-* The **right to confirm** whether Simplifi is processing Personal Information about you.
-* The **right to correct inaccuracies** in the Personal Information we have collected about you.
-* The **right to know** the categories and specific pieces of Personal Information we collect, use, disclose, and sell about you, the categories of sources from which we collected Personal Information, our purposes for collecting or selling Personal Information, the categories of Personal Information that we have either sold or disclosed for a business purpose, and the categories of third parties with which we have shared Personal Information.
-* The **right to request that we delete** the Personal Information we have collected about you.
-* The **right to opt out** of the sharing of Personal Information for targeted advertising. Please note that if you opt out of certain practices, we may be unable to provide you with some services.
-* The **right not to receive discriminatory treatment** for the exercise of the above privacy rights.
-
-To exercise any of the above rights, please contact us using the following information and submit the required verifying information, as further described below:
-
-* By email at privacy@simpli.fi
-* By phone at 800.840.0768
-
-With respect to Advertising Customers, Simplifi does not process Personal Information that is considered sensitive under the CPRA.
-
-**Verification Process and Required Information**  
-We may need to request additional information from you to verify your identity or understand the scope of your request, although you will not be required to create an account with us to submit a request or have it fulfilled. Typically, we request your name, business email address, and business phone number to process your request.
-
-**Authorized Agent**  
-If you are a California resident, you may designate an authorized agent to make a request on your behalf by verifying your identity and providing the agent with written permission to make a request on your behalf. An authorized agent may submit a request through the methods provided above.
-
-**Minors’ Right to Opt In**  
-Only adults are permitted to be Advertising Customers. We do not knowingly sell, or share for interest-based advertising, Personal Information about minors under 16 years of age.
-
-12\. THIRD-PARTY LINKS AND TOOLS
---------------------------------
+THIRD-PARTY LINKS AND TOOLS
+---------------------------
 
 _Social Media Features_  
 Our Site includes social media plug-ins which are interactive mini-programs that run on our Site. These features may allow the third parties that offer the features to collect information such as your IP address, which page you are visiting on our Site, and other data. Social media features are either hosted by a third party or hosted directly on our Site. Your interactions with these features are governed by the privacy statement of the company providing it. Our Site is not sponsored or endorsed by LinkedIn, Facebook, Twitter, Google+ or YouTube or other third party websites, which are trademarked and owned by third parties and not by us.
@@ -184,31 +134,37 @@ _Analytics_
 The Site uses third-party analytics services including Google Analytics. For more information about Google analytic cookies, please see Google’s help pages and privacy policy: Google Privacy Policy: [http://www.google.com/intl/en/policies/privacy/;](http://www.google.com/intl/en/policies/privacy/;)  
 Google Analytics Help: [https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage). Google has developed the Google Analytics opt-out browser add-on for the Google Analytics JavaScript (ga.js, analytics.js, dc.js). If you want to opt out of Google Analytics, you can download and install the add-on for your web browser at [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout).
 
-13\. DATA RETENTION
--------------------
+DATA RETENTION
+--------------
 
 We will retain the information you provide to the Site for as long as your account is active, as needed to provide you services, and as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-14\. SECURITY
--------------
+SECURITY
+--------
 
 Simplifi uses commercially reasonable physical, managerial, and technical safeguards designed to preserve the integrity and security of your personal information and to protect it against loss or unauthorized use or disclosure.
 
-15\. CONTACT US
----------------
+CHILDREN’S PRIVACY
+------------------
 
-If you have inquiries or complaints regarding this Privacy Policy please contact Simplifi at:  
+Our Site is not directed to children and we do not knowingly collect Personal Information from users who are under age 16. If you believe that a child under 16 has provided Personal Information to the Site, please contact us at [privacy@simpli.fi](mailto:privacy@simpli.fi).
+
+Contact Us
+----------
+
+Simplifi commits to resolving requests or complaints about your privacy and our collection, use or transfer of your Personal Information. Users with inquiries or complaints regarding this Privacy Policy should first contact Simplifi at:  
 [privacy@simpli.fi](mailto:privacy@simpli.fi)
 
-or:
+**or:**
 
 **Chief Privacy Officer**  
 c/o Frost Prioleau, CEO  
-Simplifi Holdings LLC  
+Simplifi Holdings Inc.  
 128 East Exchange Avenue, Suite 700  
 Fort Worth, TX 76164
 
-**The controller of Personal Information collected through the Site is:**  
-**Simpli.fi Holdings, LLC**  
+**The controller of Personal Information collected through the Site is:**
+
+**Simpli.fi Holdings, Inc.**  
 128 East Exchange Avenue, Suite 700  
 Fort Worth, TX 76164 USA
