@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-Updated: June 17th, 2022.
+Updated: January 1st, 2023.
 
 Infolinks Media, LLC (AKA, Infolinks) is an advertising technology company that provides a variety of online advertising-related services. We respect all concerns about privacy issues and want you to be familiar with how we collect, use, and share information and how you can exercise the privacy rights available to you.  This Privacy Policy (“Policy”) covers the information that we may process:
 
@@ -85,7 +85,7 @@ We may use information collected from the Infolinks Properties for the following
 * To send marketing and promotional communications. For example, we and/or our third-party marketing partners may use the information for our marketing purposes, in accordance with an individual’s marketing preferences. You may opt out of our marketing at any time.
 * To send administrative information. For example, to send information regarding our services and changes to our terms, reports, conditions, and policies.
 * To engage in and process transactions. For example, we may use personal information to process your transactions and for billing purposes.
-* To post testimonials. We post testimonials on the Infolinks Properties that may contain personal information. By becoming a customer you are providing your automatic consent to use your name and testimonial. If you wish to update or delete your testimonial, please contact us at [info@infolinks.com](mailto:privacy@pubmatic.com) and be sure to include your name, testimonial location, and contact information.
+* To post testimonials. We post testimonials on the Infolinks Properties that may contain personal information. By becoming a customer you are providing your automatic consent to use your name and testimonial. If you wish to update or delete your testimonial, please contact us at [privacy@infolinks.com](mailto:privacy@infolinks.com) and be sure to include your name, testimonial location, and contact information.
 * Contextual-based advertising and analytics. We may partner with certain third parties to collect information on the Infolinks Properties to engage in analysis, auditing, research, and reporting, as well as to deliver advertising that we believe may interest you based on your activity on the Infolinks Properties and other websites over time. These third parties may set and access cookies on your computer or other device and may also use pixel tags, web logs, web beacons, or other similar technologies.
 * To manage accounts and provide customer support or other services. For example, we may use the information to create or administer Infolinks accounts and to provide customer support or other requested services or information about the Ad Services.
 * To select content and improve quality. We may use the information to help improve the Infolinks Properties and Infolinks Ad Services and to ensure that content on the Infolinks Properties is presented in the most effective manner for your device.
@@ -171,7 +171,7 @@ We will review and update this Policy periodically and will note the date of its
 
 **4.10     CONTACTING US**
 
-If you have any questions about this Policy or Infolinks’ privacy practices, please contact us by email at [info@infolinks.com](mailto:privacy@pubmatic.com), or by mail using the details provided below.
+If you have any questions about this Policy or Infolinks’ privacy practices, please contact us by email at [privacy@infolinks.com](mailto:privacy@infolinks.com), or by mail using the details provided below.
 
 Please note that email communications are not always secure, so please do not include sensitive information in your emails to us.
 
@@ -181,7 +181,7 @@ Infolinks Media, LLC c/o Privacy
 3 N Maple Avenue, Suite #1  
 Ridgewood, New Jersey 07450, USA
 
-To comply with our obligations under EU data protection legislation, we have appointed a Data Protection Officer (DPO).  Our DPO is contactable at [info@Infolinks.com](mailto:info@infolinks.com) using the subject “Data Protection Officer:”, or by mail using the details provided above.
+To comply with our obligations under EU data protection legislation, we have appointed a Data Protection Officer (DPO).  Our DPO is contactable at [privacy@infolinks.com](mailto:privacy@infolinks.com) using the subject “Data Protection Officer:”, or by mail using the details provided above.
 
 Who is the controller of my data? For the purposes of EU data protection legislation, Infolinks Media, LLC is the controller of your personal information.
 
@@ -243,7 +243,7 @@ In order to make sure that we are responding only to the person who is authorize
 
 Step 3: Contact Us
 
-Once you have located your Digital Identifiers and can provide us with verification of those Digital Identifiers as instructed above, please contact us with details of the data subject rights you wish to exercise. The easiest way to do so is to email us at info@infolinks.com.  Your completed Authorization Verification Form located below in SECTION -A- and required documentation must be attached to the email as PDF files.  Please make sure to include the following information in your email:
+Once you have located your Digital Identifiers and can provide us with verification of those Digital Identifiers as instructed above, please contact us with details of the data subject rights you wish to exercise. The easiest way to do so is to email us at [privacy@infolinks.com](mailto:privacy@infolinks.com).  Your completed Authorization Verification Form located below in SECTION -A- and required documentation must be attached to the email as PDF files.  Please make sure to include the following information in your email:
 
 * Your full name
 * The country in which you are located at the time you are making your request
@@ -265,7 +265,7 @@ This Cookie Policy describes the different types of cookies that may be applied 
 
 We may update this Cookie Policy from time to time in order to reflect, for example, changes to the cookies we use or for other operational, legal or regulatory reasons. Please, therefore, re-visit this Cookie Policy regularly to stay informed about our use of cookies and similar technologies. The date at the top of this Cookie Policy indicates when it was last updated.
 
-If you have any further queries, please contact us by email at [info@infolinks.com](mailto:privacy@pubmatic.com).
+If you have any further queries, please contact us by email at [privacy@infolinks.com](mailto:privacy@infolinks.com).
 
 **WHAT IS A COOKIE?**
 
