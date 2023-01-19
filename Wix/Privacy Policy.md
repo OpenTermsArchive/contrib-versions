@@ -525,15 +525,3 @@ For the purposes of GDPR (Article 27), you may contact our EU representative at 
 ​
 
 For the purposes of UK GDPR (Article 27), you may contact our UK representative at Wix.Com (UK) Limited, Tower Bridge House, St Katharine's Way, London E1W 1DD, United Kingdom.
-
-### #ItsThatEasy
-
-We may change this policy at any time. We will notify you of changes as required by applicable law.
-
-​
-
-Only the left column is legally binding (this column is just for clarity).
-
-​
-
-Translated (non-English) versions of these terms are provided for convenience only.
