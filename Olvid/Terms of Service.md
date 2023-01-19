@@ -6,13 +6,15 @@ General terms and conditions of sale and use
 1\. INFORMATION ABOUT THE COMPANY
 ---------------------------------
 
-The Olvid application (hereinafter “the Application”) is published by the company Olvid, a simplified joint stock company with a share capital of € 38,994.44, registered in the Paris Trade and Companies Register under number 850 667 171, headquartered at 26, rue Vignon, Paris 75009, and whose intra-community VAT number is FR07850667171.
+The Olvid application (hereinafter “the Application”) is published by the company Olvid, a simplified joint stock company with a share capital of € 30,000, registered in the Paris Trade and Companies Register under number 850 667 171, headquartered at 26, rue Vignon, Paris 75009, and whose intra-community VAT number is FR07850667171.
 
 The director and responsible for the publication is Thomas Baignères.
 
 Email: [thomas.baigneres@olvid.io](mailto:thomas.baigneres@olvid.io)
 
 The server is hosted by AWS, having its head office at 67 Boulevard du Général Leclerc, 92110 Clichy, France, and reachable by phone: 01 46 17 10 00.
+
+On request, Olvid can be hosted by a provider that is SecNumCloud qualified by ANSSI (OVH,…). For any further information : [contact@olvid.io](mailto:contact@olvid.io)
 
 2\. PURPOSE
 -----------
@@ -98,9 +100,9 @@ In the event of taking out several subscriptions, the subscriber undertakes to e
 
 The price is indicated in euros. It includes the Value Added Tax (VAT) in force in the territories concerned on the day of the order. Any change in the applicable rate may be reflected in the price.
 
-The price is the one shown on the download medium (app store or Olvid website: [https://www.olvid.io/pricing/en/](https://olvid.io/pricing/en/)) at the time of subscription.
+The price is the one shown on the download medium (app store or Olvid website: [https://www.olvid.io/enterprise](https://olvid.io/enterprise/)) at the time of subscription.
 
-Olvid offers tacitly renewable subscriptions, either as a single purchase via the stores (Premium offer), or as a group purchase of license packages (Business & Enterprise offers).
+Olvid offers tacitly renewable subscriptions, either as a single purchase via the stores (Premium offer), or as a group purchase of license packages (Corporate offer).
 
 Payment is made when you purchase the subscription, for the coming period. At each renewal, by tacit agreement, the User must pay the subscription for the period to come.
 
@@ -135,7 +137,7 @@ With regard to monthly subscriptions, he will be informed by message via the app
 To end the subscription:
 
 * in the case of an in-app purchase, the User may cancel their subscription directly on the stores;
-* in the case of a purchase directly from Olvid, The cancellation will be made by sending an email to Olvid, one month before the planned end of the subscription.
+* in the case of a purchase directly from Olvid, termination will be effected by an email to Olvid.
 
 ### 7.7. Suspension of subscription
 
