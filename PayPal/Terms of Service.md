@@ -4,7 +4,7 @@ PAYPAL USER AGREEMENT
 About Your Account
 ------------------
 
-This user agreement will be effective for all users as of October 31, 2022.
+This user agreement will be effective for all users as of January 1, 2023.
 
 ### Welcome to PayPal!
 
@@ -1442,7 +1442,6 @@ If you withdraw your balance in a currency other than the currency in which the 
 | Bulgarian Lev | 0.50 BGN | 20.00 BGN |
 | Canadian Dollar | 0.25 CAD | 10.00 CAD |
 | CFA franc | 135.00 XOF | 5,400.00 XOF |
-| Croatian Kuna | 2.00 HRK | 70.00 HRK |
 | Swiss Franc | 0.25 CHF | 10.00 CHF |
 | Czech Koruna | 5.70 CZK | 230.00 CZK |
 | Danish Krone | 1.80 DKK | 70.00 DKK |
@@ -1554,7 +1553,6 @@ The following fee applies per withdrawal, depending on the currency in which the
 | GYD | 522 |
 | HKD | 20  |
 | HNL | 62  |
-| HRK | 15  |
 | HTG | 250.00 |
 | HUF | 500 |
 | IDR | 23000.00 |
