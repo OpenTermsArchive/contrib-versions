@@ -1,6 +1,6 @@
 #### ironSource Website Privacy Policy
 
-Last Revised: July 13, 2022
+Last Updated: December 20th, 2022
 
 The following policy governs how ironSource Ltd. (“ironSource“, “Company” “we” or “us“), and its subsidiaries, handle information collected from users of its websites, at the addresses [is.com/](https://www.is.com/), lunalabs.io/, bidalgo.com/ and their subdomains (the “Sites“), including ironSource Mobile Dashboard, Luna Create Hub and the Luna Control Hub (the “Dashboards”).
 
@@ -19,9 +19,7 @@ Tapjoy’s privacy policy – [https://dev.tapjoy.com/en/legal/Privacy-Policy](h
 The Sites are accessible for individuals around the world. Accordingly, throughout the document, we try to harmonize our approach and the language of the privacy policy as much as possible. However, sometimes we refer to specific laws that require further disclosures. These disclosures cover laws and regulations applicable to the following regions:
 
 1. Individuals who we deem to be located in the European Economic Area, United Kingdom, or Switzerland – With respect to the collection and processing of their personal data, as defined by the General Data Protection Regulation (“GDPR”), and the UK Data Protection Act.
-2. Individuals who we deem to be located in California – With respect to the collection and processing of their personal information, as defined by the California Consumer Privacy Act (“CCPA”).
-
-For purposes of the CCPA, this Privacy Policy serves as both the Privacy Policy and Notice at Collection of Personal Information.
+2. If you are a resident of California or Virginia – please see “State Privacy Rights” section of this privacy policy for information related to privacy laws in these states.
 
 Your Consent (PLEASE READ CAREFULLY!) BY ACCESSING THE SITES AND/OR USING THE SITES, YOU AGREE TO THE TERMS AND CONDITIONS SET FORTH IN THIS PRIVACY POLICY (THE “PRIVACY POLICY“), INCLUDING TO THE COLLECTION AND PROCESSING OF YOUR PERSONAL INFORMATION (AS DEFINED BELOW). IF YOU DISAGREE TO ANY TERM PROVIDED HEREIN, YOU MAY NOT USE THE SITES.
 
@@ -41,12 +39,15 @@ We collect the following types of information from Users:
 * Newsletter Information – If you subscribe to our newsletter, you will be requested to provide your email address.
 * Event Information – If you choose to register to an event we host, you will be requested to provide us with your full name, email address, phone number, job title, current company, and such other information necessary for attending the event.
 * Communication Information – If you choose to communicate with us via an online form on the Sites, email, or automated chat service (‘chat bot’), you may provide us with information such as your name, and your email address, and any other information you choose to share with us.
+* Luna Create Hub Service Information – If you use Luna Create Hub, you may permit us to upload your video creatives to your YouTube channel on your behalf, using YouTube API Services, by logging in to your YouTube account and providing us with your account’s session token. By using Luna Create Hub in that manner, you agree to be bound by the YouTube terms of service, available [here](https://www.youtube.com/t/terms). You may revoke our access to that information at any time via the Google security settings page [here](https://security.google.com/settings/security/permissions). You can find more information about Google’s privacy practices in the Google Privacy Policy, available [here](http://www.google.com/policies/privacy).
+
+  
 
 What are the Purposes of the Collection of Information?
 
 1. We use the information we collect for the following purposes:
 
-![](/wp-content/uploads/2021/03/privacy-policy-1.png) ![](/wp-content/uploads/2021/03/privacy-policy-2.png)
+![](/wp-content/uploads/2022/12/privacy-policy-1-1.png) ![](/wp-content/uploads/2022/12/privacy-policy-2-1.png)
 
 Sharing Information with Third Parties
 
@@ -81,37 +82,41 @@ A data subject that chooses to withdraw consent can do that by the cookie settin
 
 A data subject also has the right to file a complaint with the relevant supervisory authority (e.g. of the consumer’s country or domicile) where we have not addressed the data subject’s concerns.
 
-Information to California Residents
+State Privacy Rights
 
-1. The below table summarizes the categories of personal information of California consumers we have collected, disclosed for a business purpose and sold, as well as the purposes for such disclosures or sales and the categories of sources from which we have obtained such personal information in the past 12 months:
-![](/wp-content/uploads/2021/03/privacy-policy-3.png )3. Recipients of California Personal Information – Although we do not sell personal information for monetary consideration, we do sell personal information, under the definition of “Sale” in the CCPA, subject to the choices with respect to “Sale” of personal information you make on the Site, to the categories of third parties listed below:
+1. California and Virginia residents have certain rights under state privacy laws with respect to personal data we collect. If you are a resident of such states, this section of the privacy policy contains disclosures required by law and explains rights that may be available to you.
+2. In the past 12 months, we have collected, sold (including sharing for targeted advertising), and disclosed for business purposes the following categories of personal data. We do not knowingly sell, nor do we share or process for targeted advertising purposes, personal data about consumers under the age of 16.
+![](/wp-content/uploads/2022/12/privacy-policy-3-1.png ) ![](/wp-content/uploads/2022/12/privacy-policy-3-2.png )5. Our Purposes for Processing Personal Data – We use and disclose the personal data we collect for our commercial and business purposes, as further described above in the “Information We Collect, and Purposes of Processing” and the “Sharing Information With Third Parties” Sections.
+6. Recipients of Personal Data Although we do not sell personal data for monetary consideration, we do sell personal data, including sharing for targeted advertising purposes, subject to the choices you make on the Site, to the categories of third parties listed below:
 
 – Advertising Companies; and
 
 – Analytics Providers.
 
-6. Consumer Rights – A consumer who is a California resident may exercise the following rights regarding his/her personal information, subject to certain exceptions and limitations:
+9. Your Rights Regarding Personal Data – Residents of certain states have rights with respect to the personal data collected by businesses like ironSource. You may be able to exercise the following rights regarding your personal data, subject to certain exceptions and limitations:
 
-* The right to know the categories and specific pieces of personal information we collect, use, disclose, and sell about the consumer, the categories of sources from which we collected the consumer’s personal information, our purposes for collecting or selling the consumer’s personal information, the categories of personal information that we have either sold or disclosed for a business purpose, and the categories of third parties with which we have shared personal information.
-* The right to request that we delete the personal information we have collected or maintain about the consumer.
-* The right to opt out of our sale(s) of the consumer’s personal information. If a consumer opts out of certain types of sales, we will be unable to provide that consumer with the services that rely on such sales.
-* The right not to receive discriminatory treatment for the exercise of the above privacy rights conferred by the CCPA.
+* The right to confirm whether we are processing personal data about you.
+* The right to correct inaccuracies in the personal data we have collected about you.
+* The right to know the categories and specific pieces of personal data we collect, use, disclose, and sell about you, the categories of sources from which we collected your personal data, our purposes for collecting or selling your personal data, the categories of your personal data that we have either sold (including shared for targeted advertising purposes) or disclosed for a business purpose, and the categories of third parties with which we have disclosed personal data.
+* The right to request that we delete the personal data we have collected or maintain about the you.
+* The right to opt out of our sale of your personal data and our processing (including sharing) for targeted advertising purposes. Please note that if you opt out of certain practices, we may be unable to provide you with some services.
+* The right not to receive discriminatory treatment for the exercise of the above privacy rights.
 
-How to Exercise Consumer Rights
+While some states provide residents with rights related to “sensitive” personal data, ironSource does not collect this type of personal data.
 
-A consumer can submit a request to know or to delete personal information by sending us an email to website-privacy-request@ironsrc.com.
+Exercise Your Rights
 
-In order to exercise the right to opt out of our sale of his/her personal information, a consumer can use the cookie settings provided in the Site.
+You can submit a request by sending us an email to website-privacy-request@ironsrc.com.
 
-A consumer may also designate an authorized agent to make a CCPA request on the consumer’s behalf by verifying the consumer’s identity and providing the agent with a written permission to make the request on the consumer’s behalf.
+In order to exercise the right to opt out of our sale or sharing of your personal data, including for targeted advertising purposes, use the cookie settings provided in the Site.
 
-A parent or a guardian of a child under the age of 13 may submit a request on the child’s behalf as described above.
+Depending on your state, if you have submitted a request that we have not fulfilled, you may contact us to appeal our decision by sending an email with the subject line “Appeal” to website-privacy-request@ironsrc.com.
+
+You may also designate an authorized agent to make a request on your behalf by verifying your identity and providing the agent with a written permission to make the request on your behalf.
 
 Verification Process and Required Information
 
-We may need to request additional information from a customer to verify the customer’s identity or process the customer’s request. A customer will not be required to create an account with us to submit a request or have it fulfilled. We will require customers to provide, at a minimum, their email address. We will also ask customers to provide us a few of their device identifiers, so that we can verify their identity. Once we verify a consumer’s identity, we will request additional information necessary to authenticate the request.
-
-For purposes of the CCPA, this section of the Privacy Policy also serves as a notice of the right to opt out of sale of personal information.
+Note that we may need to request additional information from you to verify your identity or process your request. You will not be required to create an account with us to submit a request or have it fulfilled. We will require you to provide, at a minimum, your email address and state of residence. We may also ask you to provide us a few of your device identifiers, so that we can verify your identity. Once we verify your identity, we will request additional information necessary to authenticate the request.
 
 Information about California resident requests in 2021
 
@@ -119,7 +124,7 @@ Information about California resident requests in 2021
 
 Changes to the Privacy Policy
 
-The terms of this Privacy Policy will govern the use of the Sites and any information collected therein. We reserve the right to change this policy at any time, so please re-visit this page frequently. We will provide notice of substantial changes of this policy on the homepage of the Site and/or we will send you an e-mail regarding such changes to the e-mail address that you may have provided us with. Such substantial changes will take effect seven (7) days after such notice was provided on our Site or sent by email. Otherwise, all other changes to this Privacy Policy are effective as of the stated “Last Revised” date and your continued use of the Site after the Last Revised date will constitute acceptance of, and agreement to be bound by, those changes.
+We may revise this privacy policy from time to time. The most current version of the policy will govern our processing of information and is posted at https://www.is.com/privacy-policy/. If we make a change to this policy, we will post the revised privacy policy to this page.
 
 Have any Questions?
 
