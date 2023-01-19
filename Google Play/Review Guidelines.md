@@ -26,7 +26,7 @@ Choose a Google product
     ### Google AdSense](https://support.google.com/adsense/?hl=en-GB)
 * [![](//fonts.gstatic.com/s/i/productlogos/google_now/v5/web-64dp/logo_google_now_color_1x_web_64dp.png)
     
-    ### Pixel Phone](https://support.google.com/pixelphone/?hl=en-GB)
+    ### Pixel phone](https://support.google.com/pixelphone/?hl=en-GB)
 * [![](//fonts.gstatic.com/s/i/productlogos/maps/v6/web-64dp/logo_maps_color_1x_web_64dp.png)
     
     ### Google Maps](https://support.google.com/maps/?hl=en-GB)
@@ -124,7 +124,7 @@ Consumer
 * [### Google Nest](https://support.google.com/googlenest/?hl=en-GB)
 * [### YouTube TV](https://support.google.com/youtubetv/?hl=en-GB)
 * [### Google Clips](https://support.google.com/googleclips/?hl=en-GB)
-* [### Pixel Phone](https://support.google.com/pixelphone/?hl=en-GB)
+* [### Pixel phone](https://support.google.com/pixelphone/?hl=en-GB)
 * [### Opinion Rewards](https://support.google.com/opinionrewards/?hl=en-GB)
 * [### Daydream](https://support.google.com/daydream/?hl=en-GB)
 * [### Google Assistant](https://support.google.com/assistant/?hl=en-GB)
@@ -218,7 +218,7 @@ Developer
 
 * ### Your account
     
-    * [Can't access your account?](https://www.google.co.uk/accounts/recovery)
+    * [Can't access your account?](https://www.google.com/accounts/recovery)
     * [Recent transactions with Google](https://payments.google.com/manage/)
     * [Useful stuff you can do with Google](https://www.google.com/get/googletips)
     
