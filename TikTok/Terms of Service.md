@@ -188,11 +188,9 @@ If you post content on the Platform about a brand or a product in return for any
 
 We respect copyright and other intellectual property rights. Please read our [Intellectual Property Policy](https://www.tiktok.com/legal/copyright-policy?lang=en). You can report suspected infringements of intellectual property rights on the Platform here:
 
-* Copyright: [https://www.tiktok.com/legal/report/Copyright](https://www.tiktok.com/legal/report/Copyright)  
-    
+* Copyright: [https://www.tiktok.com/legal/report/Copyright](https://www.tiktok.com/legal/report/Copyright)
 
-* Trademark: [https://www.tiktok.com/legal/report/Trademark](https://www.tiktok.com/legal/report/Trademark)  
-    
+* Trademark: [https://www.tiktok.com/legal/report/Trademark](https://www.tiktok.com/legal/report/Trademark)
 
 You can report suspected illegal content or content which otherwise breaches these Terms or our Community Guidelines through the reporting functionalities provided on the Platform or [here](https://www.tiktok.com/legal/report/feedback?lang=en).
 
@@ -404,6 +402,6 @@ _In short: Just because you or we do not rely on one of these Terms, this does n
 **10\. Contacting TikTok**
 --------------------------
 
-You can contact us here: [Share your feedback](https://www.tiktok.com/legal/report/feedback?lang=en)  
+You can contact us here: [Share your feedback](https://www.tiktok.com/legal/report/feedback?lang=en)
 
 In some countries, the law requires us to provide additional regulatory information and/or contact points within the country, even though we may not be physically present there. You can find this information [here](https://www.tiktok.com/transparency/en/reports/).
