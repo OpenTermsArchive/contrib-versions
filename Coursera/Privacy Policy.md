@@ -128,9 +128,6 @@ International Privacy Practices
 
 Our Sites are primarily operated and managed on servers located and operated within the United States. In order to provide our products and Services to you, you may be sending your Personal Data outside of the country where you reside or are located, including to the United States. Accordingly, if you reside or are located outside of the United States, your Personal Data may be transferred outside of the country where you reside or are located, including to countries that may not or do not provide the same level of protection for your Personal Data. We are committed to protecting the privacy and confidentiality of Personal Data when it is transferred. If you reside or are located within the EEA, United Kingdom, Switzerland, or other region that offers similar protections, and such transfers occur, we take appropriate steps to provide the same level of protection for the processing carried out in any such countries as you would have within the EEA or other regions to the extent feasible under applicable law. We participate in and commit to adhering to the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks when transferring data from the EEA or Switzerland to the United States. Please see our Privacy Shield Notice below for further information.
 
-Additional Information:
------------------------
-
 Changing Our Privacy Notice
 ---------------------------
 
