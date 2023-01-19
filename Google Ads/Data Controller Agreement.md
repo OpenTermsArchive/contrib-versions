@@ -228,18 +228,19 @@ Appendix 1: Additional Terms for Non-European Data Protection Legislation
 
 The following Additional Terms for Non-European Data Protection Legislation supplement these Controller Terms:
 
-* U.S. State Privacy Laws Controller Addendum at [business.safety.google/adscontrollerterms/usaprivacy/](https://privacy.google.com/adscontrollerterms/usaprivacy/) (dated 1 January 2023)
+* CCPA Service Provider Addendum at [business.safety.google/adscontrollerterms/ccpa/](https://privacy.google.com/businesses/adscontrollerterms/ccpa/) (dated 1 January 2020)
     
 * LGPD Controller Addendum at [business.safety.google/adscontrollerterms/lgpd/](https://privacy.google.com/businesses/adscontrollerterms/lgpd/) (dated 16 August 2020)
     
+* U.S. State Privacy Laws Controller Addendum at [business.safety.google/adscontrollerterms/usaprivacy/](https://privacy.google.com/businesses/adscontrollerterms/usaprivacy/) (effective 1 January 2023 replacing the CCPA Service Provider Addendum)
+    
 
-_Google Ads Controller-Controller Data Protection Terms, Version 5.0_
+_Google Ads Controller-Controller Data Protection Terms, Version 4.0_
 
-_1 January 2023_
+_21 September 2022_
 
 **Previous Versions**
 
-* [21 September 2022](https://kstatic.googleusercontent.com/files/7b486bcbf6080b9137067c3fba1d9dc957f72814bcf3cdddf66c6809252644df423d3110652b649d81af5e869128596fe339f51fd0a245f4fd4e046e1261730d)
 * [27 September 2021](https://privacy.google.com/static/assets/pdf/adscontrollerterms-20210927.pdf)
 * [16 August 2020](https://privacy.google.com/adscontrollerterms-20200816/)
 * [12 August 2020](https://privacy.google.com/static/assets/pdf/adscontrollerterms-20200812.pdf)
