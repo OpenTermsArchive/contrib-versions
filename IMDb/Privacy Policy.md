@@ -1,8 +1,9 @@
 **IMDb Privacy Notice**
+=======================
 
-**Last Updated, January 1, 2023**. To see prior version, click [here](https://www.imdb.com/privacy/change/?ref_=pvc_1).
+**Last Updated, July 27, 2022**. To see prior version, click [here](https://www.imdb.com/privacy/change/?ref_=pvc_1).
 
-We know that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This Privacy Notice describes how IMDb, IMDbPro, and Box Office Mojo (collectively "IMDb") collect and process your personal information through IMDb websites, services, and applications that reference this Privacy Notice (together the "IMDb Services"). **By using the IMDb Services, you are consenting to the practices described in this Privacy Notice.**
+We know that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This Privacy Notice describes how IMDb, IMDbPro, Box Office Mojo, and DPReview.com (collectively "IMDb") collect and process your personal information through IMDb websites, services, and applications that reference this Privacy Notice (together the "IMDb Services"). **By using the IMDb Services, you are consenting to the practices described in this Privacy Notice.**
 
 **What Personal Information About Users Does IMDb Collect?**
 
@@ -83,15 +84,15 @@ If you have any questions as to how we collect and use your personal information
 * Most devices provide users with the ability to change device permissions (e.g., disable/access location services). For most devices, these controls are located in the device's setting menu. If you have questions about how to change your device permissions on devices manufactured by third parties, we recommend you contact your mobile service carrier or your device manufacturer.
 * If you want to browse our websites without linking the browsing history to your account, you may do so by logging out of your account and blocking cookies on your browser.  
        
-     In addition, to the extent required by applicable law, you may have the right to request access to or delete your personal information. If you wish to do any of these things, please contact [the](https://www.amazon.com/gp/help/contact-us) IMDb Help Center. Depending on your data choices, certain services may be limited or unavailable.
+     In addition, to the extent required by applicable law, you may have the right to request access to or delete your personal information. If you wish to do any of these things, please contact the IMDb Help Center. Depending on your data choices, certain services may be limited or unavailable.
 
 **Are Children Allowed to Use IMDb Services?**
 
 IMDb Services are not intended for use by children under the age of 13. If you are under 13, you may not sign up for IMDb Services or submit information about yourself to IMDb.
 
-**Additional State-Specific Privacy Disclosures**
+**California Consumer Privacy Act**
 
-Click [here](https://help.imdb.com/article/issues/G73WRBWXE25UUTHP) to read additional state-specific privacy disclosures as required under applicable laws.
+Click [here](https://help.imdb.com/article/issues/G73WRBWXE25UUTHP) to read additional disclosures required under the California Consumer Privacy Act.
 
 **Conditions of Use, Notices, and Revisions**
 
@@ -183,5 +184,4 @@ Examples of information you can access through IMDb Services include:
 * content that you recently viewed;
 * your content contributions (e.g., plot summaries and movie reviews);
 * profile information associated with your IMDb accounts (including your reviews, ratings, and Watchlists);
-* information associated with your IMDbPro name page (including acting experience, physical attributes, educational background, and professional training); and
-* images uploaded to IMDb Services.
+* information associated with your IMDbPro name page (including acting experience, physical attributes, educational background, and professional training); and images uploaded to IMDb Services.
