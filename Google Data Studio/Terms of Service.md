@@ -1,9 +1,9 @@
-Looker Studio Terms of Service
-==============================
+Data Studio Terms of Service
+============================
 
-_Version: December 22, 2022_
+_Version: June 28, 2022_
 
-These Looker Studio Terms of Service (“Agreement”) are entered into by Google and the entity or person agreeing to these terms (“Customer”). This Agreement is effective as of the date you click to accept these terms (the "Effective Date").
+These Data Studio Terms of Service (“Agreement”) are entered into by Google and the entity or person agreeing to these terms (“Customer”). This Agreement is effective as of the date you click to accept these terms (the "Effective Date").
 
 If you are accepting on behalf of Customer, you represent and warrant that (i) you have full legal authority to bind Customer to this Agreement; (ii) you have read and understand this Agreement; and (iii) you agree, on behalf of Customer, to this Agreement.
 
@@ -89,7 +89,7 @@ Certain Customers may choose to have their use of the Service be governed by the
 
 12\. Definitions.
 
-12.1 "Acceptable Use Policy" means the acceptable use policy for the Service available at [support.google.com/looker-studio/answer/7020012](https://support.google.com/looker-studio/answer/7020012) (as modified from time to time) or such other URL as Google may provide.
+12.1 "Acceptable Use Policy" means the acceptable use policy for the Service available at [support.google.com/datastudio/answer/7020012](https://support.google.com/datastudio/answer/7020012) (as modified from time to time) or such other URL as Google may provide.
 
 12.2 “Administrator” means the Customer-designated personnel provided with Google administrative account(s) for the purpose of administering the Service on Customer’s behalf.
 
@@ -117,7 +117,7 @@ Certain Customers may choose to have their use of the Service be governed by the
 
 12.14 “Intellectual Property Rights” means current and future worldwide rights under patent law, copyright law, trade secret law, trademark law, moral rights law, and other similar rights.
 
-12.15 "Service” means Looker Studio, but does not include Looker Studio Pro.
+12.15 "Service” means (a) Google Data Studio if you are located in a country other than Japan in which the Service is available; or (b) Google Data Portal if you are located in Japan.
 
 12.16 “Software” means any tools, service, software development kits or such other proprietary computer software provided by Google in connection with the Service, which may be used by Customer, and any updates Google may make to such Software from time to time.
 
@@ -126,8 +126,6 @@ Certain Customers may choose to have their use of the Service be governed by the
 Previous versions
 -----------------
 
-[June 28, 2022](https://support.google.com/looker-studio/answer/13139310)
+[November 16, 2020](https://support.google.com/datastudio/answer/12309293)
 
-[November 16, 2020](https://support.google.com/looker-studio/answer/12309293)
-
-[September 3, 2019](https://support.google.com/looker-studio/answer/10167566)
+[September 3, 2019](https://support.google.com/datastudio/answer/10167566)
