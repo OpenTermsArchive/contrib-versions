@@ -4,7 +4,7 @@ As part of our effort to protect your privacy and to comply with applicable priv
 
 **Starbucks Privacy Notice**
 
-Last Revised: December 9, 2022.
+Last Revised: December, 9 2022.
 
 **Overview**
 
@@ -311,31 +311,31 @@ Additional contact information may be found below for various Starbucks entities
         * Customer Service
             * 800-Starbuc (782-7282)
             * : 800-Starbuc (782-7282)
-* **Country – France**
-    * Entity Name – Starbucks Coffee France SAS
-    * Entity Address – 38 rue des Jeûneurs, 75002 Paris
-    * Additional Contact (If Any) –
-        * Customer Support
-            * [clientele@starbucks.fr](mailto:service.clientele@starbucks.fr)
-            * : +33 01 44 76 72 00
-* **Country – Germany**
-    * Entity Name – AmRest Coffee Deutschland Sp. Z oo & Co. KG
-    * Entity Address – Dachauser Strasse 6, 80335, Munich
-    * Additional Contact (If Any) –
-        * Customer Relations
-            * [Gaesteservice@amrest.eu](mailto:Starbucks.Gaesteservice@amrest.eu)
-            * : +49 (0) 89.551.555.990
-* **Country – U.K.**
-    * Entity Name – Starbucks Coffee Company (UK) Limited
-    * Entity Address – Building 4 Chiswick Park, 566 Chiswick High Road, London, W4 5YE
-    * Additional Contact (If Any) –
-        * Customer Support
-            * [UKInfo@support.starbucks.com](mailto:UKInfo@support.starbucks.com)
-            * : +443330050449 or +442088345050 (app)
-* **Country – U.S.**
-    * Entity Name – Starbucks Reserve; Princi
-    * Entity Address – Starbucks, P.O. Box 20430, Augusta, GA 30916
-    * Additional Contact (If Any) –
-    * Customer Service
-        * [http://customerservice.starbucks.com](http://customerservice.starbucks.com/)
-        * : 800-Starbuc (782-7282)
+        * **Country – France**
+            * Entity Name – Starbucks Coffee France SAS
+            * Entity Address – 38 rue des Jeûneurs, 75002 Paris
+            * Additional Contact (If Any) –
+                * Customer Support
+                    * [clientele@starbucks.fr](mailto:service.clientele@starbucks.fr)
+                    * : +33 01 44 76 72 00
+                * **Country – Germany**
+                    * Entity Name – AmRest Coffee Deutschland Sp. Z oo & Co. KG
+                    * Entity Address – Dachauser Strasse 6, 80335, Munich
+                    * Additional Contact (If Any) –
+                        * Customer Relations
+                            * [Gaesteservice@amrest.eu](mailto:Starbucks.Gaesteservice@amrest.eu)
+                            * : +49 (0) 89.551.555.990
+                        * **Country – U.K.**
+                            * Entity Name – Starbucks Coffee Company (UK) Limited
+                            * Entity Address – Building 4 Chiswick Park, 566 Chiswick High Road, London, W4 5YE
+                            * Additional Contact (If Any) –
+                                * Customer Support
+                                    * [UKInfo@support.starbucks.com](mailto:UKInfo@support.starbucks.com)
+                                    * : +443330050449 or +442088345050 (app)
+                                * **Country – U.S.**
+                                    * Entity Name – Starbucks Reserve; Princi
+                                    * Entity Address – Starbucks, P.O. Box 20430, Augusta, GA 30916
+                                    * Additional Contact (If Any) –
+                                    * Customer Service
+                                        * [http://customerservice.starbucks.com](http://customerservice.starbucks.com/)
+                                        * : 800-Starbuc (782-7282)
