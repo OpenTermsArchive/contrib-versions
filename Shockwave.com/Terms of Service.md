@@ -27,7 +27,7 @@ If you provide information that we believe to be inaccurate, not current, or inc
 
 **2\. GAME DOWNLOAD PAYMENTS AND SUBSCRIPTION SERVICES PAYMENT OBLIGATIONS AND CONSENT TO CREDIT CARD AUTHORIZATION**
 
-When purchasing game downloads on the Site, you agree to pay us the applicable download charges for your purchase of the game, using a valid charge card or other payment method we may accept in accordance with the billing terms and prices in effect at the time the fee or charge becomes payable. All refund requests for purchased game downloads must be received within 48 hours from the time of purchase. Refund requests past 48 hours from time of purchase will not be honored.
+When purchasing game downloads on the Site, you agree to pay us the applicable download charges for your purchase of the game, using a valid charge card or other payment method we may accept in accordance with the billing terms and prices in effect at the time the fee or charge becomes payable. All refund requests for purchased game downloads must be received within 48 hours from the time of purchase. Refund requests past 48 hours from time of purchase will not be honored. All game purchases that include back-up CDs are non-refundable.
 
 By creating a Site subscription you authorize the Site to automatically bill the charge card you provide each month or on each applicable membership period renewal date, or withdraw funds via electronic transfer from your checking account (depending on what type of charge card you are using), until you cancel the subscription. Payments are billed in advance at the beginning of the applicable month or at the beginning of the applicable subscription period, if not monthly. All payments are completely non-refundable.
 
