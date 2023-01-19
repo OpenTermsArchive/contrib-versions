@@ -126,9 +126,9 @@ remove accounts of those who engage in this behavior.
 
 A detailed discussion of the types of actions encompassed by these two
 
-principles is available here: https://legal.parler.com/documents/Elaboration-
+principles is available here: https://parler.com/documents/Elaboration-on-
 
-on-Guidelines.pdf
+Guidelines.pdf
 
 
 
@@ -142,7 +142,7 @@ community members to report violations of these Guidelines. Read more
 
 about how it works here:
 
-https://legal.parler.com/documents/Guidelines-Enforcement-Process.pdf
+https://parler.com/documents/Guidelines-Enforcement-Process.pdf
 
 
 
