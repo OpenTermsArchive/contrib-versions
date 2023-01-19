@@ -238,7 +238,7 @@ From time to time, we may change and/or update this Policy. If this Policy chang
 
 ### 10\. California Privacy Rights & Notice of Collection
 
-California law requires us to provide California residents with additional information regarding how we collect, use, and share your “personal information” (as defined in the California Consumer Privacy Act (“CCPA”)).
+California law requires us to provide California residents with additional information regarding how we collect, use, and share your personal information.
 
 **Categories of personal information we collect**. In [Section 1 above](#12), and otherwise throughout this Policy, we discuss in detail the specific pieces of information we collect from and about users.  Below are the categories of personal information we collect: 
 
@@ -249,7 +249,7 @@ California law requires us to provide California residents with additional infor
 
 **Use of categories of personal information**. We may disclose the categories of personal information identified above for our operational purposes where the use is reasonably necessary and proportionate to achieve the operational purpose for which it was collected or processed, or for another compatible operational purpose.
 
-**Sale of Personal Information**. The CCPA sets forth certain obligations for businesses that “sell” personal information.  Based on the definition of “sell” under the CCPA and under current regulatory guidance, we do not believe we engage in such activity and have not engaged in such activity in the past twelve months (including that we do not “sell” the personal information of minors under 16 years of age).  We do share certain information as set forth in Sections 1 and 2 of this Policy, and allow third parties to collect certain information about your activity, for example through cookies, as explained in our [Cookie Policy](https://www.gartner.com/en/about/policies/privacy/cookie-policy).  
+**Sale of Personal Information**. Based on the definition of “sell” under California law and under current regulatory guidance, we do not believe we engage in such activity and have not engaged in such activity in the past twelve months (including that we do not “sell” the personal information of minors under 16 years of age).  We do share certain information as set forth in Sections 1 and 2 of this Policy, and allow third parties to collect certain information about your activity, for example through cookies, as explained in our [Cookie Policy](https://www.gartner.com/en/about/policies/privacy/cookie-policy).  
 
 **Individual Rights**. California law may provide you with certain rights and permit you to request the following:
 
