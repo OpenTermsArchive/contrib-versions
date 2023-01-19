@@ -3,291 +3,345 @@ Privacy Policy
 
 The information we collect, why we use it, who we share it with, and how we protect it, along with the tools you can use to manage your privacy.
 
-**Effective Date:** March 7, 2022
+**Effective Date:** January 2023
 
-When you use Zillow Group services to find, buy, rent, or sell your home, get a mortgage, or connect to a real estate pro, we know you’re trusting us with your data. We also know we have a responsibility to respect your privacy, and we work hard to do just that.  This policy explains what information we collect, why we use it, who we share it with, and how we protect it, along with the tools you can use to manage your privacy.
+When you use Zillow Group services to find, buy, rent, or sell your home, get a mortgage, or connect to a real estate pro, we know you’re trusting us with your data. We also know we have a responsibility to respect your privacy, and we work hard to do just that. This Privacy Notice explains what personal data we collect, why we use it, who we share it with, and how we protect it, along with the tools you can use to manage your privacy. We periodically revise this Notice to reflect new and evolving laws that govern privacy. This Privacy Notice is not a contract and does not create any legal rights or obligations. 
 
-* [Introduction](#Introduction)
-* [Information collected by Zillow](#Information-collected-by-Zillow)
-* [Why Zillow uses your information](#Why-Zillow-uses-your-information)
-* [Sharing your information](#Sharing-your-information)
-* [Privacy tools and](#Privacy-tools-and-choices) [choices](https://zillowgroup.com/zg-privacy-policy/#Privacy-tools-and-choices)
-* [Protecting your information](#Protecting-your-information)
-* [Applicability of this policy](#Applicability-of-this-policy)
-* [Legal disclosures](#Legal-disclosures)
-* [Contacting Zillow](#Contacting-Zillow)
-* [Changes to this policy](#Changes-to-this-policy)
+**Who We Are**: Zillow Group offers a wide range of offerings that focus on all stages of your home journey: searching, renting, buying, selling, financing, and home improvement.
 
-Introduction
-------------
+We know that everyone’s home journey is different, and that deciding on the right place to call home is an intimate, personal experience. Along with a wealth of information about homes, neighborhoods, market conditions, local real estate professionals, and financing options, we also use the information you give us to provide our services and help you find your next home.
 
-We offer a wide range of services that focus on all stages of the home lifecycle: renting, buying, selling, financing, and home improvement.
+We carefully evaluate how we use data to make sure that we’re using your information to provide value **for you**. On this page, we aim to explain everything you need to know about your privacy at Zillow. If you have any questions that we haven’t answered here, you can always contact us at [privacy@zillow.com](mailto:privacy@zillow.com).
 
-We know that everyone’s home journey is different, and that deciding on the right place to call home is an intimate, personal experience.  Along with a wealth of information about homes, neighborhoods, market conditions, local real estate professionals, and financing options, we also use the information you give us to provide our services and help you find your next home.
+When we use the terms “Zillow Group”, “we”, “us”, or “our” in this Privacy Notice, we are referring to Zillow, Inc. and its affiliated brands.
 
-We carefully evaluate how we use data to make sure that we’re using your information to provide value **for you**.  On this page, we aim to explain everything you need to know about your privacy at Zillow.   If you have any questions that we haven’t answered here, you can always contact us at [privacy@zil](mailto:privacy@zillow.com)[low.com](mailto:privacy@zillow.com).
+**Our Offerings**: When we use the terms “offerings” or “services,” we are referring to our Internet websites, mobile applications, and other services that link to this Privacy Notice and that we offer and manage on our own behalf, including:
 
-**Information collected by Zillow**
------------------------------------
+* Our corporate websites that link to this Privacy Notice;
+* Rental tools; 
+* Connections (such as connecting you to a lender or agent); and
+* Other offerings we may make available through our sites and apps.
 
-When you use our services, we collect a variety of information from and about you and your devices.  Some of this information identifies you directly (like an email address) while some of it is associated with you through your account, profile, or device (like the homes you choose to save or your location data).
+This Privacy Notice does not cover or address:
 
-The kind of data we collect about you depends on how you use Zillow.  If you only use our services to browse for homes, we’ll have less information about you than if we help you [sell your home](https://www.zillow.com/offers/), [get a mortgage](https://www.zillow.com/home-loans/), [sign your lease](https://www.zillow.com/rent/guide/), or if you use any of our other transaction services.  Even if you don’t have an account with us, we may still collect some data about you, like your email address and phone number if you choose to contact a real estate agent through our platform, or your IP address and other device information when you browse our sites or use our apps.
+* Our business-facing brands, such as dotloop, ShowingTime, ShowingTime+, Mortech, and Bridge Interactive, all of which have their own Privacy Notices;
+* Zillow Home Loans and Zillow Closing Services, each of which has its own Privacy Notice;
+* Disclosures or rights we may provide to you in relation to the United States Fair Credit Reporting Act (FCRA) or 
+* the United States Gramm-Leach-Bliley Act (GLBA);
+* Disclosures or rights we may provide to you in relation to U.S. state-specific financial privacy laws;
+* Offerings that we provide solely on behalf of our business partners; and
+* Personal data and privacy practices relating to job applicants, employees and other Zillow Group personnel.
 
-**Information you give us or create using our services**
---------------------------------------------------------
+We separately provide notices required under the GLBA, containing GLBA- and state-specific financial privacy law disclosures in connection with GLBA-covered services. If you would like to obtain another copy of a GLBA notice we previously provided to you, please contact us at [privacy@zillow.com](mailto:privacy@zillow.com).
 
-When you use our services, we often ask you for information about yourself.  This usually includes basic things like your name, email address, and phone number.  If you use our transaction services, we might ask you for more sensitive data like your income, housing history, and credit score.  If you contribute information, such as agent reviews, we’ll store that as well.
+For offerings provided on behalf of our customers who are real estate professionals (such as real estate agents, builders, third-party lenders, and landlords), please refer to the privacy notice of the real estate professional with whom you have a relationship for information on how they engage us to process your personal data.For individuals based outside the United States and Canada, this Privacy Notice applies solely to their browsing and actions on our website(s) accessible at: [www.zillow.com](http://www.zillow.com/); [www.trulia.com](http://www.trulia.com/); [www.hotpads.com](http://www.hotpads.com/); [www.zillowgroup.com](http://www.zillowgroup.com/); [www.streeteasy.com](http://www.streeteasy.com/), and [www.outeast.com](http://www.outeast.com/).
 
-You may also provide information about other people through our services. For example, if you share a home listing with someone, we will collect that person’s email address as part of your account information.
+* * *
 
-Below are some examples of what information we collect for our main products and services and how we collect it.
+Quick links
+-----------
 
-### Zillow Offers
+**[What is Personal Data?](#personal-data)**
 
-Zillow Offers extends cash offers on residential real estate in select U.S. cities.  If you ask for an offer on your home, we will ask you for information about you and your home. This includes contact information (such as an email address or phone number), identifying information about you, and details about your home.  We may also take some photos of your home so we know what types of repairs may be necessary.  If we agree to buy your home, we’ll need to collect more information from you that is typical of any real estate transaction, including financial information.
+**[Our Collection and Use of Personal Data](#data-use)**
 
-We collect similar contact and transaction-related information from you if you are interested in purchasing a Zillow-owned home.  If you choose to tour a Zillow-owned home, we collect information to verify your identity.  Zillow may collect information about you from third parties if needed to verify your identity.
+**[Our Disclosure of Personal Data](#data-disclosure)**
 
-### **Home Search**
+**[Choices About Your Data](#data-choices)**
 
-When you use Zillow’s home search brands (including Zillow, Trulia, HotPads, StreetEasy, NakedApartments, and OutEast) to find a home to buy or rent, we give you lots of tools to find your next home.  If you tell us what you’re looking for, such as the type of home or number of bedrooms, we save that information so that we can tailor your search results to what you’re looking for.
+**[Third-Party Tracking and Interest-Based Advertising](#third-party)**
 
-We also help you connect with local real estate agents, homebuilders, property managers, mortgage loan officers, and other real estate professionals.  If you choose to contact one of these pros through our platform, we ask for your name, email address, and phone number so that we can reach you and connect you with the right person.
+**[Children’s Personal Data](#childrens-data)**
 
-You can also claim your home on Zillow and edit home facts such as the square footage, number of bathrooms, and most recent renovation year.  We link the information you provide to your account.
+**[Region-Specific Disclosures](#region-specific)**
 
-### **Rental Tools**
+**[Third-Party Websites](#third-party)**
 
-You can use Zillow to apply for rental housing, sign your lease, and even pay your rent.  When you choose to use these features, we collect information from you to process your transaction.
+**[Updates to this Privacy Notice](#updates)**
 
-During the rental application process, we collect your information like your email address and phone number, employment history, rental history, income, and credit score.  You can use our tools to pull your credit report and criminal background check to include in your application, but Zillow doesn’t store your Social Security number and we don’t collect or see the credit or background check reports. We partner with [Experian](https://www.zillow.com/renter-hub/applications/terms/Experian-Terms-of-Use) and [CIC](https://www.zillow.com/renter-hub/applications/terms/CIC-Terms-of-Use) to generate those reports and make them available only to you and the landlords you choose to send them to. Your landlord may retain copies of your application and any related documents you submit. Any copies retained by your landlord are subject to the privacy policies of your landlord.
+[**Contact us**](#updates)
 
-When you pay your rent through Zillow, we collect your transaction information, but we don’t store your payment account details.  Instead, we use trusted partners to collect and store that data.  If you use your bank account to pay your rent, our service provider Plaid collects personal and financial information from your bank or other financial institution. By using Zillow to make your rent payments, you are granting Zillow and Plaid the right, power, and authority to act on your behalf to access and transmit your personal and financial information from the relevant financial institution. Your information will be transferred, stored, and processed by Plaid in accordance with the [Plaid Privacy Policy](https://plaid.com/legal).
+**[Additional U.S. State Privacy Disclosures](#additional-disclosure)**
 
-If you sign your lease documents through Zillow, we will collect and store your contact information, signature, and any other information contained in the lease documents, which can vary by state and city. In certain cases, your landlord may direct Zillow to share certain information you provide in your application, details of your payment transactions, or a copy of your lease with third parties for business purposes, such as for the purpose of purchasing insurance.
+* * *
 
-### **Zillow Home Loans and Zillow Closing Services**
+**What is Personal Data?**
 
-This privacy policy does not apply to Zillow Home Loans or Zillow Closing Services.  To understand what kind of information Zillow Home Loans collects, please read the [Zillow Home Loans Privacy Policy](https://www.zillowhomeloans.com/privacy).  To understand what kind of information Zillow Closing Services collects, please read the [Zillow Closing Services Privacy Policy](https://www.zillowclosings.com/privacy-policy/).
+When we use the term “personal data” in this Privacy Notice, we mean information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, to an individual or household. It does not include aggregated or de-identified information that is maintained in a form that is not capable of being associated with or reasonably linked to an individual.
 
-### **Services and Products for Professionals**
+**Our Collection and Use of Personal Data**
 
-If you are a real estate professional, you may be able to connect your third-party email account (such as Gmail) to your Zillow account.  If you enable that connection, Zillow will access your messages, contacts, and settings only to provide the requested services to you.  We do not access or collect any of the contents of your email messages in providing interest-based advertising.  We use information received from Gmail APIs only in compliance with [Google’s Limited Use Requirements](https://developers.google.com/terms/api-services-user-data-policy#additional-requirements-for-specific-api-scopes).
+The personal data we collect, the way we collect it, and how we use it will depend on how you are interacting with us and the type of services you use.
 
-We also collect your contact and payment details, along with professional information such as brokerage affiliation, associated listings and sales, and licensing history.
+**Information We Collect As You Use Our Services**
 
-### **Information from Public Sources and Third Parties**
+_Collection of Personal Data_
 
-Zillow collects information from public sources, such as county and state tax and property records, government agencies, and multiple listing services (or MLS).  Most of this information is about properties, not people.  But some information we collect, like the identity of a property’s owner or real estate license information, may relate to individuals.
+As is true of most digital platforms, we and our third-party providers collect certain personal data automatically when you visit or interact with our websites, mobile apps, and other online services. This includes things like your home search history, homes you view, purchase activity, what you’ve clicked on and other uses of our websites, and the amount of time you spend looking at different parts of our websites.
 
-We also collect information about you from various third parties in order to provide better service to you, or as part of the employment application process.  This may include demographic information and other attributes about you.
+Specifically, we and our third party partners may use tracking technologies to automatically collect commercial information, preferences, and internet, network and device information, including: 
 
-**Information we collect as you use our services**
---------------------------------------------------
+* **Information about how you access our services**, such as the website from which you came and the website to which you are going when you leave our websites, how frequently you access the services, when and whether you open emails or click the links contained in emails, whether you access the services from multiple devices and other actions you take on the services.
+* **Information about how you use the services**, such as the pages you visit, the links you click, the ads you view and click on, purchase information and your checkout process, your location when you access or interact with our services, and other similar actions. 
+* **Information about the computer, tablet, smartphone or other device you use**, such as your IP address, browser type, Internet service provider, platform type, device type/model/manufacturer, operating system, date and time stamp, a unique ID that allows us to uniquely identify your browser, mobile device, or your account (including, e.g., a persistent device identifier or an Ad ID), and other such information (referred to herein as “Log Data”).
+* **Analytics Data**, such as information about your activity when you visit our sites or use our apps; this can include clicks, mouse movements, forms you fill out, and similar information. We use this to better understand what features and parts of the website are most useful, and which ones may need to be improved.
 
-Along with the information you give us directly, we collect a variety of information automatically as you use Zillow services.
+* **Cookies, pixels, and other tracking**: We and our partners use various tools to collect data when you visit our sites and apps, including cookies, pixel tags, and other similar technologies. Cookies are bits of electronic data that can be transferred to your computer or other device to identify your browser. When you use Zillow, we and our partners may use cookies and other tools to gather information about how you view and use our services and content, and to connect your activity with other data we store about you. The use of cookies helps us serve you better by understanding what you’re interested in, tracking trends, measuring the effectiveness of ads, saving your preferences, and storing information you may want to retrieve on a regular basis, such as your favorite homes. We also allow approved partners to collect data from your browser or device for advertising and measurement purposes using their own cookies or similar tools; these are categorized as “Advertising Cookies,” and you can choose whether to disable them via either our [Privacy Center](https://privacy.zillowgroup.com/cookie) or the “Cookie Preference” link at the bottom of our websites.
 
-### Activity information
+This information allows us to improve your customer experience. For example, we may use this information to enhance and personalize your user experience, to monitor and improve our websites and services, and for other internal purposes.  We may also use this information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the Sites; (b) provide custom, personalized content, and information; (c) identify and contact you across multiple devices; (d) provide and monitor the effectiveness of our services; (e) perform analytics and detect usage patterns on our services; (f) diagnose or fix technology problems; (g) detect or prevent fraud or other harmful activities; and (h) otherwise to plan for and enhance our services.
 
-We collect information about how you use Zillow.  This includes things like your home search history, homes you view, purchase activity, what you’ve clicked on and other uses of our features, and the amount of time you spend looking at different parts of our websites.  When you call or text Zillow or a real estate professional using our platform, we collect data about your call or text, including the date and time of the call or text, your phone number, and the content of the call or text.
+We and our third party partners may collect information through tracking technologies for personalized advertising purposes. To learn more about our advertising practices and your choices relating to advertising, please see “[Third-Party Tracking and Interest-Based Advertising](#third-party).”
 
-### Device information
+**Information You Give Us or Create Using Our Services** 
 
-Like other websites and apps, we collect data about the browsers and devices you use to access Zillow.  The data we collect includes browser or device model and settings, operating system, unique identifiers, and the version of the app you’re using. We also collect data about how your browsers and devices interact with our services, including IP address, crash reports, system activity, and the date, time, and the URL of the site you visited before Zillow.
+_Collection of Personal Data_
 
-You can control our collection of certain data, such as your mobile device model or the language your mobile device uses, by adjusting the privacy and security settings on your mobile device.
+When you use our services, websites, or apps, we collect personal data from you. We might also collect personal data about you from our business partners, payment processors, service providers, and other third parties who collect personal data on our behalf. This information might include:
 
-### Location Information
+* **Account Registration and Profile Information**: If you register for an account through our services or complete a Zillow profile, we collect account identifiers (including a username and password, as well as internal identifiers we assign to individual accounts to allow our systems to connect account information stored in different databases) and account history and records (including services you’ve used or interacted with, the date and type of account creation, account status, log in activity, transactions, the services we provide, messages received in connection with the services, and your activity on our websites and mobile applications). We use this information to create and administer your account, provide you with the relevant services and information, communicate with you regarding your account and your use of the services, for customer support purposes, and to send you communications by email, push notification, or by text message, in accordance with your preferences.
+* **Customer Service and Communication History**: Including name, address, email, customer service requests, Account Identifiers, Account History and the contents of requests and correspondence with us (including recordings of phone calls, where permitted by law).
+* **Feedback Information**: If you submit a review, feedback or other comments, we collect your contact information (such as first and last name, email address, and phone number) and any feedback and ratings relating to our services and products, including reviews you create of real estate pros.
+* **Inquiries and Communication**:  If you communicate with us or otherwise submit an inquiry or question (e.g., via webform), we collect your contact information (such as first and last name, email address, and phone number), account identifiers and history (described above), and any other personal data you choose to provide in the content of your message or communication.  We use this information to investigate and respond to your inquiries, to facilitate communication with us, to provide you with requested information, to enhance the services we offer, and to manage and grow our business.  If you represent a company or agency interested in partnering with us, we will also collect your professional and employment information in order to respond to your inquiries, communicate with you, to manage and grow our organization and to facilitate a business relationship.  Our websites and online services provide you the ability to connect with us through an online web form that collects contact information (such as first and last name, email address, phone number, company name, and title with company), area(s) of interest or concern, and a custom message.
+* **Location Data**: Including general geographic location reflected in the Log Data we collect or more precise location when you choose to share it with us through your device or browser settings.
+* **Newsletters and Email Communication**: Many of our websites and online services provide you an opportunity to sign up for our newsletters and email communications by providing your email address. We use your email address to communicate with you about our services and exciting developments at Zillow Group, which may include marketing communications. Please see the “[Choices About Your Data](#data-choices)” section below for additional information about opting out of our marketing communications.
+* **Payment Information**: We and our third-party service providers collect information relating to your transactions with us, including details regarding payments you’ve made through our sites or apps. We use third-party payment tools to process and store payment information like credit card numbers or bank account information. We don’t store this information ourselves.
 
-If you enable location services on your mobile device, Zillow collects the location of your device.  We use that information to provide you with location-based information and ads, like homes and real estate professionals in your area, and to offer location-based services, like allowing you to unlock and tour Zillow Offers homes on your own schedule and claiming your home on Zillow.  If you don’t want to use these features, you can turn off location services on your device.
+Although we often collect the personal data described above directly from you, we may also collect certain information through our business partners, service providers, and other third parties that collect it on our behalf, such as communications providers, data brokers, payment processors, payment system providers, and information technology providers.
 
-We also collect location information for similar purposes from your browser if you enable it.  You can disable access through your browser settings.
+Please note that we link the personal data we collect in connection with our services with the other personal data that we collect and may use it for the purposes we describe in more detail in the other sections of this Privacy Notice.
 
-### **Cookies, pixel tags, and other tracking technologies**
+**Other Collection of Personal Data**
 
-We and our partners use various tools to collect data when you visit our sites and apps, including cookies, pixel tags, and other similar technologies. Cookies are bits of electronic data that can be transferred to your computer or other device to identify your browser.
+In addition to the personal data collected above, we may also collect personal data as follows:
 
-When you use Zillow, we and our partners may use cookies and other tools to gather information about how you view and use our services and content, and to connect your activity with other data we store about you. The use of cookies helps us serve you better by understanding what you’re interested in, tracking trends, measuring the effectiveness of ads, saving your preferences, and storing information you may want to retrieve on a regular basis, such as your favorite homes. We also allow specific, approved partners to collect data from your browser or device for advertising and measurement purposes using their own cookies or similar tools.
+* **Affiliates**:  We may receive information about you collected by other Zillow Group companies, businesses, brands, and affiliated entities in our family of companies, so that information you provide to one brand may be used by us to better provide you services and communicate with you.
+* **Business Partners**: Our business partners, such as agent partners, lending partners, builders, property managers, and other real estate professionals collect personal data in connection with their services and often share some or all of this information with us. For example, we receive information about transactions you complete with partners with whom we’ve connected you through our services.
+* **Business Representatives**: We collect professional personal data about representatives of third-party businesses, including representatives of our customers and business partners, in connection with our services and the operation of our business, which may include: 
+    * _Contact Information_: Including full name, email address, mailing address, and telephone number.
+    * _Professional Information_: Including job title, job function, company name and characteristics, professional background, and nature of the relationship with us. 
+    * _Tax and Payment Information_: Including a personal tax identification number, bank account information, and payment information where you are a representative of a sole proprietor or similar legal structure that uses personal tax and account information in lieu of separate business information.
+    * _Inquiry Information_: Including the contents of emails, texts, and other communications and, where permitted by law, recordings of calls with us. 
+    * _Feedback Information_, including information provided in response to surveys we may conduct with customers or business partners, or unsolicited feedback received regarding our services and business. 
+* **Office and Event Visitors**: We collect personal data about visitors to our physical offices and events, which may include: 
+    * _Contact Information_: Including full name, email address, mailing address, and telephone number.
+    * _Professional Information_: Including job title, job function, company name, professional background, and nature of the relationship with us. 
+    * _Visit Information_: Including the purpose of the visit and any restrictions or preferences while on premise (such as dietary restrictions). 
+    * _Security Information_: Including a copy of a government ID (such as a driver’s license) and a record of the visitor’s access to our office or event, any use by the visitor of our computer systems, and images or video recordings of the visitor while on premises (where permitted by law). 
+* **Service Providers**: Our service providers, such as payment processors and marketing providers, collect personal data and often share some or all of this information with us. For example, we receive personal data from payment processors to confirm that an individual’s payment for the services was accepted. We use this information to comply with our legal obligations, to monitor activity to identify and provide you with promotions and offers, and to prevent fraud, protect our rights and the rights of others, to inform our marketing and advertising activities, and to help provide our services.
+* **Information Providers**: We may from time to time obtain information from third-party information providers to correct or supplement personal data we collect. For example, we may obtain updated contact information from third-party information providers to reconnect with you.
+* **Publicly Available Information**: We may collect personal data from publicly available sources, such as information you publicly post or tag us in on social media sites or elsewhere online, and information contained in public records databases, such as government records or public review websites, to supplement the personal data identified above. We will use this information to conduct market research, verify your identity, prevent fraud, and improve our services.
 
-At any time, you can use our cookie preference tools to manage what kinds of cookies and other tracking technologies you’re comfortable with.  Check out our for information about how to access these tools.  You can also disable cookies altogether by adjusting the settings on your browser. However, if you choose to disable some or all cookies, many parts of our services may no longer work.  
+**Other Uses of Personal Data**
 
-In addition, if you give your email address to us, we may use a scrambled, unreadable form (called a “hashed” version) of your email address to deliver tailored ads to you on Zillow or on other websites, including via Facebook’s Custom Audience Feature or other similar tools. Click [here](https://www.facebook.com/about/ads/#types) to learn about how you can control the ads you see on Facebook.
+In addition to the uses identified above, we use the personal data we collect to:
 
-For information about how you can manage your cookie preferences, check out the section of this policy called “Your privacy tools and choices.”
+* Facilitate our day-to-day business operations, such as helping you find your next home, or connect with a real estate agent, lender, landlord, or other real estate professional;
+* Create and maintain the services, develop new products and services, and improve existing products and services;
+* Aggregate information we receive from you and third parties to help understand individual needs, customize our services and offerings, and provide everyone better service;
+* Conduct research and analytics designed to understand our customer base and improve and grow our business, products, services, and customer experience;
+* Communicate with you to provide technical or administrative support;
+* Prevent, investigate, and defend against fraud or unlawful or criminal activity, access to, or use of personal data and our data system services;
+* Enforce, investigate, and resolve disputes and security issues and to enforce our Terms of Service and any other contracts;
+* Comply with legal obligations and other governmental demands;
+* Understand your preferences and interests to better serve you on your home-finding journey;
+* Personalize your individual experience, including providing educational resources and pointing you to homes you might be interested in or offerings of ours that might help you find your next home; and
+* For any other lawful, legitimate business purpose.
 
-### Social networks
+**Our Disclosure of Personal Data**
 
-If you use social media logins (like Google and Facebook) to log in to Zillow, we may access your public social media profile information.  You can always limit this sharing using your social media service settings.
+We may disclose your personal data in the instances described below.  For further information on your choices regarding your information, see the “[Choices About Your Data](#data-choices)” section below.
 
-### Inferences
+We disclose your personal data in the following ways:
 
-To improve our services and make them more useful to you, we use data about your activity to understand and infer your preferences.  For example, if you usually search for homes for rent rather than homes to buy, we may assume that you are not looking to buy a home and show you more information helpful for renters.
+* **Within Zillow Group**: We are able to offer the products and services we make available because of the hard work of the entire Zillow Group team. Zillow Group entities disclose your personal data to other Zillow Group entities for purposes and uses that are consistent with this Privacy Notice and applicable law. For example, one part of Zillow might share your personal data with another in order to ensure that all the people helping in your home journey are working together for you.
+* **Business Partners**: At your direction, we may share your personal data with our business partners in order to provide you with our products and services. For example, if you ask us to, we’ll share your contact information with a real estate agent or mortgage lender.
+* **Marketing Partners**: We coordinate and share your personal data with our marketing partners, including advertising networks, social networks, and marketing communication providers, in order to communicate with you about our products and services and market our products and services to you. We may also share aggregated demographic information with third parties interested in advertising on our online services to assist them in understanding the audience they would be reaching, but this information is not designed to identify any specific individual.
+* **Service Providers**: We share information with third party vendors and service providers that perform services for or on our behalf, which may include identifying and serving targeted advertisements, providing mailing or email services, tax and accounting services, customer service, product fulfillment, payments processing, photo sharing, data processing and enhancement services, fraud prevention, web hosting, analytic services, or other online functionality, subject to appropriate contractual terms protecting the confidentiality and use of such data. We never allow service providers to use your personal data for their own purposes.
+* **Business Transaction or Reorganization**: We may take part in or be involved with a corporate business transaction, such as a merger, acquisition, joint venture, or financing or sale of company assets. We may disclose your personal data to a third party during negotiation of, in connection with, or as an asset in such a corporate business transaction. Your personal data may also be disclosed in the event of insolvency, bankruptcy, or receivership.
+* **Legal Obligations and Rights**: We may disclose your personal data to third parties, such as legal advisors and law enforcement:
+    
+    * In connection with the establishment, exercise, or defense of legal claims;
+    
+    * To comply with laws and regulations or to respond to lawful requests and legal process;
+    
+    * To protect our rights and property and the rights and property of our agents, customers, and others, including to enforce our agreements, policies, and terms of use;
+    
+    * To detect, suppress, or prevent fraud;
+    
+    * To reduce credit risk and collect debts owed to us;
+    
+    * To protect the health and safety of us, our customers, or any person; or
+    
+    * As otherwise required by applicable law.
+* **Otherwise with Consent or At Your Direction**: We may disclose your personal data to certain other third parties or publicly with your consent or direction. If you post a comment or review our website or a comment on our social media sites, the information you provide may be displayed publicly online for others to view.
 
-### **Commercial Information**
+**Choices About Your Data**
 
-We collect information about the products and services you purchase or consider purchasing from us.  This includes products for professionals, such as our advertising products, as well as consumer services like Zillow Offers.
+**Profile Access and Data Sharing**. You may access and update your profile information, such as your user name, address, or billing information, and may change some of your data sharing preferences on your account page. 
 
-### **Audiovisual information**
+**Location and Device Permissions**. You may control location tracking by adjusting your location services options on the “Settings” app on your mobile device.  We may continue to approximate your location based on your IP address when you access the services through a computer or device. If you would like to update your device content access permissions, such as permissions to access your camera, you can do so in the “Settings” app on your mobile device.
 
-If you visit a home owned by Zillow, we may capture your likeness and voice using cameras and audio recording equipment for safety reasons.
+**Promotional Messages**. You can stop receiving promotional email communications from us by following the “unsubscribe” instructions provided in such communications.  We make every effort to promptly process all unsubscribe requests. You may still receive service-related communications, including account verification, transactional communications, changes/updates to features of the services, and technical and security notices.
 
-**Why Zillow uses your information**
-------------------------------------
+**Third Party Tracking and Interest-Based Advertising**. We participate in interest-based advertising and use third party advertising companies to serve you targeted advertisements based on your browsing history. To learn more about our advertising practices and your choices relating to advertising, please see “[Third-Party Tracking and Interest-Based Advertising](#third-party).”
 
-### Completing your transactions
+**Third-Party Tracking and Interest-Based Advertising** 
 
-When you use Zillow to complete real estate transactions, like buying or selling your home, applying to rental housing, or signing a lease, we use your personal information to verify your identity and process and complete your transaction.
+We may participate in interest-based advertising and use third party advertising companies to serve you targeted advertisements based on your browsing history. We may permit third party online advertising networks, social media companies, and other third-party services to collect information about your use of our websites, including our mobile apps, over time so that they may play or display ads on our services, on other websites, apps, or services you may use, and on other devices you may use. Typically, though not always, the information used for interest-based advertising is collected through tracking technologies, such as cookies, Flash objects, web beacons, embedded scripts, mobile SDKs, location-identifying technologies, and similar technology (collectively, “tracking technologies”), which recognize the device you are using and collect information, including clickstream information, browser type, time and date you visited the site, device ID or AdID, geolocation, and other information. We may share a common account identifier (such as an e-mail address or user ID) or hashed data with our third-party advertising partners to help identify you across devices. We and our third-party partners may use this information to make the advertisements you see online more relevant to your interests, as well as to provide advertising-related services such as reporting, attribution, analytics, and market research.
 
-### Providing and improving our services
+We, or our third-party partners, may link your various devices so that content you see on one device can result in relevant advertising on another device. We may share a common account identifier (such as a hashed email address or user ID) or work with third-party partners who use tracking technologies or statistical modeling tools to determine if two or more devices are linked to a single user or household. We, and our partners, can use this cross-device linkage to serve interest-based advertising and other personalized content to you across your devices (including to improve your user experience), to perform analytics, and to measure the performance of our advertising campaigns.
 
-We use your information to provide our services to you. This includes things like returning home search results and processing your rental application.  We also use your information to improve our existing services and develop new ones.  For example, we track how you use our websites and apps and use that information to troubleshoot issues and adjust things to improve your experience.
+**Your Choices**
 
-### Communicating with you and connecting you with others
+As noted above, depending on your browser or mobile device, you may be able to set your browser to delete or notify you of cookies and other tracking technology by actively managing the settings on your browser or mobile device. You may be able to limit interest-based advertising through the settings on your mobile device by selecting “limit ad tracking” (iOS) or “opt-out of interest based ads” (Android).  Please note that opt-outs are browser specific, so opting out on one browser will not affect a second browser, or device. Moreover, if you buy a new device, use a different browser, or clear all your cookies, you will have to opt out all over again. To learn more about interest-based advertising and how you may be able to opt-out of some of this advertising, you may wish to visit the Network Advertising Initiative’s online resources, at http://www.networkadvertising.org/choices, and/or the DAA’s resources at www.aboutads.info/choices. You may also be able to opt-out of some – but not all – interest-based ads served by mobile ad networks by visiting http://youradchoices.com/appchoices and downloading the mobile AppChoices app. Note that some of these opt-outs may not be effective unless your browser is set to accept cookies. If you delete cookies, change your browser settings, switch browsers or computers, or use another operating system, you may need to opt-out again.
 
-We use the contact information you provide us, like your phone number and email address, to communicate with you about our services.  This includes things like responding to comments, questions, and requests you send us. It also includes notifying you of transaction or service updates and changes.  We may also inform you about our services, offers, promotions, news, and other updates we think may be of interest to you.
+**Children’s Personal Data**
 
-If you ask us to, we also use your information to connect you to real estate professionals, like when you want to contact an agent to discuss a home you find for sale on our platform.
+Our websites and online services are not directed to, and we do not intend to or knowingly collect or solicit personal data from children under the age of 13. If you are under the age of 13, please do not use our websites or online services or otherwise provide us with any personal data either directly or by other means. If a child under the age of 13 has provided personal data to us, we encourage the child’s parent or guardian to contact us as described below to request that we remove the personal data from our systems. If we learn that any personal data we collect has been provided by a child under the age of 13, we will promptly delete that personal data.
 
-### Personalizing your experience
+**Region-Specific Disclosures**
 
-We use the information we collect about you and your activity on our services to personalize the services we offer.  We also use it to show advertising, content, or features that we think you might like.  This includes things like customized search results that match your preferences and prior search criteria and, if you ask us to, connecting you to a real estate professional best suited to help you.
+We may choose or be required by law to provide different or additional disclosures relating to the processing of personal data about residents of certain countries, regions, or states. Please see below for disclosures that may be applicable to you:
 
-If we know you’re working with a particular real estate agent, we may share information about your saved homes and searches with that agent to let them serve you more effectively.  You control what we share with real estate pros you find on our platform.
+* If you are a resident of the State of California, Colorado, Connecticut, Utah, or Virginia in the United States, please see below for additional U.S. state-specific privacy disclosures.
+* If you are a resident of the State of Nevada in the United States, Chapter 603A of the Nevada Revised Statutes permits a Nevada resident to opt out of potential future sales of certain covered information that a website operator has collected or will collect about the resident. To submit such a request, please contact us at [privacy@zillow.com](mailto:privacy@zillow.com).
 
-### Other uses of your information
+**Third-Party Websites**
 
-We also use your data to detect, investigate, and prevent fraudulent transactions and other illegal activities and to protect the rights and property of Zillow, its customers, and others.
+Our websites and online services may include links to or redirect you to third-party websites, plug-ins and applications, including social media services where you may connect with us. Third-party websites may also reference or link to our websites and online services. Except where we post, link to, or expressly adopt or refer to this Privacy Notice, this Privacy Notice does not apply to, and we are not responsible for, any personal data practices of third-party websites and online services or the practices of other third parties. To learn about the personal data practices of these third parties, please visit their respective privacy notices or policies.
 
-Occasionally, there may be a reason we’d like to use your information in a way that isn’t described here.  If that happens, we’ll let you know so you can decide if you’re comfortable with it.
+**Updates to this Privacy Notice**
 
-**Sharing your information**
-----------------------------
+We will update this Privacy Notice from time to time. When we make changes to this Privacy Notice, we will change the “Last Updated” date at the beginning of this Privacy Notice. If we make material changes to this Privacy Notice, we will notify you. All changes shall be effective from the date of publication unless otherwise provided in the notification.
 
-We understand that sharing information with third parties is a big responsibility.  We’re committed to sharing information only when needed for a legitimate business or legal purpose, and then only with recipients who will protect it.
+**Contact Us**
 
-### Information you ask us to share
+If you have any questions or requests in connection with this Privacy Notice or other privacy-related matters, please send an email to [privacy@zillow.com](mailto:privacy@zillow.com).
 
-We share information when you ask us to share it. For example, if you choose to contact a real estate agent, mortgage lender, investor, builder, property manager, or other real estate pro through our platform, we will send them your name and contact information. Similarly, if you apply for rental housing through Zillow, your application information will be sent to the landlords you select.
-
-### Service providers and business partners
-
-When Zillow hires a service provider to help operate our business, we may need to give them access to information to provide their service.  We allow them to use the information only to perform the service we’ve asked them to perform.  We vet all service providers carefully, and Zillow always remains responsible for the privacy of your information that is shared with our service providers.
-
-When Zillow partners with other businesses to offer products and services to you, we may share information with those partners only as needed to provide those products and services and only subject to the terms of this privacy policy.
-
-### Legal and compliance transfers
-
-When Zillow needs to share data to satisfy a legal or regulatory requirement, including responding to a subpoena or other lawful government request for data, we will share information only as necessary to comply with that requirement.  We’ll tell you before sharing your information in these situations unless we’re prohibited from doing so.  For more information about how we respond to requests for data, see [Government and Civil Information Requests](https://zillowgroup.com/terms-of-use-privacy-policy/government-civil-information-requests/).  We may also share information if needed to enforce our legal rights, detect or prevent fraud or security concerns, and protect public safety.
-
-If Zillow is involved in a merger, acquisition, or any form of transfer or sale of some or all of its business, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, we may share your information in connection with that transaction.
-
-### Public and deidentified data
-
-We may share information that is collected from public sources or that you choose to share publicly (such as public reviews and home facts) with third parties.  We may also share aggregated and/or deidentified information that cannot reasonably be used to identify you.
-
-### Sales of personal information
-
-Zillow allows certain companies to place tracking technologies like cookies and pixels on our sites, which allow those companies to receive information about your activity on Zillow that is associated with your browser or device.  The companies may use that data to serve you more relevant ads on our sites or others.  Under some state laws, sharing data for online advertising like this may be considered a “sale” of information.  Except for this kind of sharing, Zillow doesn’t sell any of your information.
-
-You always have full control over whether these technologies work on your devices.  You can disable them entirely using our cookie consent preference tools (see the Zillow Privacy Center for instructions), or by clicking the “Do Not Sell My Information” link on our websites.
-
-**Privacy tools and choices**
------------------------------
-
-### Accessing and deleting your information
-
-We’ve made a variety of privacy tools available on our sites.  Using the Zillow Privacy Center, you can see what kind of data we’ve collected about you and the types of third parties we share it with.  You can also download a copy of your Zillow, Trulia, and HotPads data and take it with you to a service outside of Zillow. If you’d like to delete your Zillow, Trulia, or HotPads data or close your account, you can do that using the Zillow Privacy Center as well.
-
-We provide these tools for your benefit and we will never discriminate against you for using them. But if you choose to delete your data or close your account, we won’t be able to offer you services that require us to use your data.
-
-### Managing cookie preferences
-
-The Zillow [Privacy Center](https://privacy.zillowgroup.com/) has information about how to use tools on our websites and apps to manage what kinds of cookies are allowed to load when you use Zillow.
-
-Zillow’s third-party ad servers, ad network providers, and third-party advertisers provide ad content that appears on Zillow. To measure how effective those ads are and to make them more relevant, ad providers may use their own tracking technologies to collect your information. These are used to record users’ activity, such as the pages visited, and to learn what types of information are of most interest to the users. For more information regarding the choices you have about these technologies (such as opting out), visit the [Network Advertising Initiative](http://www.networkadvertising.org/), [Digital Advertising Alliance](http://www.aboutads.info/choices/), [Omniture](https://www.d1.sc.omtrdc.net/optout.html), and [PrivacyChoice](http://privacychoice.org/trackerblock).
-
-### **Managing communications preferences**
-
-#### Email subscriptions
-
-Zillow may send you email for a variety of reasons.  For example, if you save a search, we’ll send you emails with new homes on the market that match your search.  If you save a home, we’ll keep you posted on status updates like when that home has an open house scheduled and when it has an offer pending.  When you use our transaction services, we’ll send you status updates and other information about your transaction.  If you have an account with Zillow, you can select your preferences through your account settings. Also, you can manage the types of email you receive by following the instructions included in each email we send you. Even if you unsubscribe from some email subscriptions, we may still need to email you with important transactional or other non-advertising information.
-
-#### Calls and texts
-
-Some of our services allow you to provide your phone number to us.  If you give us your number, we may call or text you, for example, to give you information about getting an offer on your home through Zillow Offers. We will contact you through these methods only in accordance with applicable legal requirements, and you always have the ability to opt out of further calls or texts.
-
-**Protecting your information**
--------------------------------
-
-We understand that no matter how we collect your information, we have a responsibility to protect it.  We take that responsibility seriously.  We build security into our products and features from the ground up to help protect data from unauthorized access, disclosure, alteration, and destruction.
-
-We’re always looking for threats and take reasonable steps to respond to those threats, protecting the information users share with us.  Of course, no method of Internet transmission or data storage can provide guaranteed protection to your information.  If anything should ever happen to your information, we’ll let you know as soon as we can and try our best to make it right.
-
-Zillow is based in the United States and the information we collect is governed primarily by U.S. law.  Where we are subject to the privacy laws of other countries, we comply with those requirements.  If you access or use our services or provide information to us, your information will be processed and stored in the United States, where you may not have the same rights and protections as you do under your local law.
-
-**Applicability of this policy**
---------------------------------
-
-This policy applies to every service of ours that links to it, including Zillow, Inc.  It does not apply to Zillow Home Loans, which has a separate privacy policy available [here](https://www.zillowhomeloans.com/privacy), or Zillow Closing Services, which has a separate privacy policy available [here](https://www.zillowclosings.com/privacy-policy/).
-
-Our apps and services may link to other companies’ websites. Some features may also involve the sharing of your information with third-party websites. These third-party websites may collect information about users on those websites.  Zillow doesn’t control those sites, and this privacy policy does not apply to these external websites and third parties.
-
-**Legal Disclosures**
----------------------
-
-In this section, we’ve provided some legally required disclosures under state privacy laws.  There shouldn’t be anything surprising in this section, and we’ve tried to explain our privacy practices in plain English throughout the rest of the policy.
-
-Under the California Consumer Privacy Act or CCPA, California residents have certain rights regarding their data, including:
-
-* The right to know the categories of personal information we’ve collected and the categories of sources from which we got the information (see Information collected by Zillow and the chart just below)
-* The right to know the business purposes for sharing personal information (see Why Zillow uses your information)
-* The right to know the categories of third parties with whom we’ve shared personal information (see Sharing your information)
-* The right to access the specific pieces of personal information we’ve collected and the right to delete your information (see Privacy tools and choices)
-
-California residents also have the right to not be discriminated against if they choose to exercise their privacy rights.
-
-Categories of Personal Information under the California Consumer Privacy Act
-----------------------------------------------------------------------------
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| **Category and sources of Information** | **How we use it** | **Types of individuals affected** | **How we share it** |
-| **Identifiers** We collect this information from our users, customers, and business partners.  We also generate identifiers internally. | To enable use of our sites, services, and products, to communicate with you, to understand how our users interact with our sites, and to improve our offerings | People who use our sites or mobile applications; create a user account; receive a Zillow Offer; send us an inquiry about buying a home, product, or service from us; ask to be connected to a real estate pro; purchase advertising from us;obtain a service from us; and real estate pros who we connect with users | We share this data with our service providers and with business partners, including those to whom you instruct us to send this information |
-| **Personal information under** [**California Civil Code section 1798.80**](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1798.80.&lawCode=CIV) We collect this information from our users, customers, and business partners | To enable use of our sites, services, and products, to communicate with you, to understand how our users interact with our sites, and to improve our offerings | People who create a user account; receive a Zillow Offer; send us an inquiry about buying a home, product, or service from us; ask to be connected to a real estate pro; purchase advertising from us; obtain a service from us; and real estate pros who we connect with users | We share this data with our service providers and with business partners, including those to whom you instruct us to send this information |
-| **Protected classifications** We collect this information from our users and business partners | To understand how our users interact with our sites, and to conduct research into housing and real estate trends and markets | People who buy or sell a home from/to us; use our rental application submission service; enter into a business partnership with us; | We don’t share |
-| **Commercial information** We collect this information from our customers, and generate it internally during transactions with our customers | To transact with you if you use our services or products, and to enable transactions you’ve requested | People who sell us a home; buy a home, product or service from us; purchase advertising from us | We share this data with our service providers and with business partners, including those to whom you instruct us to send this information |
-| **Biometric information** | We don’t collect this data | None | None |
-| **Electronic network activity information** We collect this information from our users and customers | To enable use of our sites, services, and products, to communicate with you, to understand how our users interact with our sites, and to improve our offerings | People who use our sites or mobile applications | We share this data with our service providers and with business partners, including those to whom you instruct us to send this information |
-| **Geolocation data** We collect this information from our users and customers | To enable use of our sites, services, and products, to understand how our users interact with our sites, and to improve our offerings | People who use our sites or mobile applications and allow us to collect their location data | We share this data with our service providers |
-| **Audio, electronic, visual, thermal, olfactory, or similar information** We collect this information from our users and customers | To identify you, to enable use of our sites, services, and products, and for safety purposes | People who call us; visit or tour a Zillow-owned home | We share this data with our service providers |
-| **Professional or employment-related information** We collect this information from our customers and business partners | To provide services or products you’ve requested | People who use our rental application services; contact us in a business-to-business context; obtain a mortgage loan from us; buy a home from us | We share this data with our service providers and with business partners, including those to whom you instruct us to send this information |
-| **Education information** We collect this information from our customers | To provide services or products you’ve requested | People who use our rental application services; obtain a mortgage loan from us; buy a home from us | We share this data with our service providers and with business partners, including those to whom you instruct us to send this information |
-| **Inferences** We generate these internally | To understand how our users interact with our sites, to develop and offer more relevant and useful services and products, and to improve the products and services we offer | People who use our sites or mobile applications, including users who: receive a Zillow Offer; ask to be connected with real estate pros; or apply for a mortgage through us | We don’t share |
-
-_While California law applies only to California residents, we believe everyone should have the same privacy rights regardless of where you live.  So our privacy tools are available to all of our users.  You can access these tools through the Zillow Privacy Center._
-
-Contacting Zillow
------------------
-
-If you have any questions about this privacy policy, or the privacy practices of Zillow, please check out the Privacy Support Center for FAQs and other information.
-
-You can also email us at privacy@zillow.com, or you can write to us at:
+Alternatively, inquiries may be addressed to:
 
 Zillow, Inc.  
 Attn: Consumer Care  
-1301 Second Avenue  
+1301 Second Avenue
+
+Floor 31  
 Seattle, WA 98101
 
-Changes to this policy
-----------------------
+**Additional U.S. State Privacy Disclosures**
 
-We are always reviewing our privacy practices to make sure they comply with this policy.  Sometimes, we’ll need to update the policy to reflect changes in our products, technology, and uses of data. We won’t change the policy in a way that reduces your rights or significantly changes the way we use or share data without telling you ahead of time and giving you a chance to stop using our services if you want.
+These Additional U.S. State Privacy Disclosures supplement the above information by providing additional information about our personal data processing practices relating to individual residents of the States of California, Colorado, Connecticut, Utah, and Virginia. Unless otherwise expressly stated, all terms defined in our Privacy Notice retain the same meaning in these Disclosures.
+
+**Additional Personal Data Disclosures**
+
+_Sensitive Information_
+
+The following personal data elements we collect may be classified as “sensitive” under certain privacy laws (“sensitive information”): 
+
+* Social Security number, driver’s license number, and passport number;
+* Credit/debit card number plus expiration date and security code (CVV), and financial account number and routing number; 
+* Username and password; and 
+* Precise geolocation data. 
+
+We use this sensitive information for the purposes set forth in the “[Our Collection and Use of Personal Data](#data-use)” section of our Privacy Notice, to enter into and perform a contract with you, to comply with legal and regulatory requirements, to protect the life or physical safety of you or others, or as otherwise permissible for our internal business purposes consistent with applicable laws. 
+
+We do not sell your sensitive information, and we do not process or otherwise share sensitive information for the purpose of targeted advertising.
+
+**De-identified Information**
+
+We may at times receive or process personal data to create de-identified data that can no longer reasonably be used to infer information about, or otherwise be linked to, a particular individual or household. Where we maintain deidentified data, we will maintain and use the data in de-identified form and not attempt to re-identify the data except as required or permitted by law.
+
+**Your Privacy Choices**
+
+Depending on your state of residency and subject to certain legal limitations and exceptions, you may be able to exercise some or all of the following rights:
+
+|     |     |
+| --- | --- |
+| **_The Right to Know_** | The right to confirm whether we are processing your personal data and, under some state laws, to obtain certain personalized details about the personal data we have collected about you, including:  <br>The categories of personal data collected;  <br>The categories of sources of the personal data;  <br>The purposes for which the personal data were collected;   <br>The categories of personal data disclosed to third parties (if any), and the categories of recipients to whom the personal data were disclosed;  <br>The categories of personal data shared for cross-context behavioral advertising purposes (if any), and the categories of recipients to whom the personal data were disclosed for those purposes; and  <br>The categories of personal data sold (if any), and the categories of third parties to whom the personal data were sold.data and, under some state laws, to obtain certain personalized details about the personal data we have collected about you, including:The categories of personal data collected;The categories of sources of the personal data;The purposes for which the personal data were collected; The categories of personal data disclosed to third parties (if any), and the categories of recipients to whom the personal data were disclosed;The categories of personal data shared for cross-context behavioral advertising purposes (if any), and the categories of recipients to whom the personal data were disclosed for those purposes; andThe categories of personal data sold (if any), and the categories of third parties to whom the personal data were sold. |
+| **_The Right to Access & Portability_** | The right to obtain access to the personal data we have collected about you and, where required by law, the right to obtain a copy of the personal data in a portable and, to the extent technically feasible, readily usable format that allows you to transmit the data to another entity without hindrance. |
+| **_The Right to Correction_** | The right to correct inaccuracies in your personal data, taking into account the nature of the personal data and the purposes of the processing of the personal data. |
+| **_The Right to Deletion_** | The right to have us delete the personal data we maintain about you. |
+| **_The Right to Opt-Out of Sales or Sharing of Personal Data_** | The right to direct us not to “sell” your personal data to third parties for monetary or other valuable consideration, or “share” your personal data to third parties for cross-context behavioral advertising purposes and targeted advertising purposes. |
+| **_“Shine the Light”_** | California residents that have an established business relationship with us have rights to know how their personal data is disclosed to third parties for their direct marketing purposes under California’s “Shine the Light” law, or the right to opt out of such practices (Civ. Code §1798.83). |
+
+Depending on your state of residence, you may also have the right to not receive retaliatory or discriminatory treatment in connection with a request to exercise the above rights. However, the exercise of the rights described above may result in a different price, rate, or quality level of product or service where that difference is reasonably related to the impact the right has on our relationship or is otherwise permitted by law.
+
+**Submitting Privacy Rights Requests**
+
+To submit a request to exercise one of the privacy rights identified above, please:
+
+* Navigate to our [**Privacy Center**](https://www.privacy.zillowgroup.com/); or 
+* Email us at [privacy@zillow.com](mailto:privacy@zillow.com).
+
+We may need to verify your identity before processing your request. In order to submit a request, you’ll need to log in to your account with us so we can verify your identity. If you can’t log in or don’t have an account, we may not be able to link you to any personal data of yours on our systems, but we’ll do our best. In certain circumstances, we may decline a request to exercise the rights described above, particularly where we are unable to verify your identity or locate your information in our systems. We will use personal data provided in connection with a Rights Request only to review and comply with the request.
+
+_To Exercise Your Right to Opt-Out of Personal Data Sales or Sharing for Targeted Advertising_ 
+
+Unless you have exercised your Right to Opt-Out, we may disclose your personal data to third parties who may use such information for their own purposes in accordance with their own privacy policies.  Under some state laws, disclosing personal data for online advertising like this may be considered a “sale of personal data” or “sharing for targeted advertising.”
+
+Zillow allows certain companies to place tracking technologies like cookies and pixels on our sites, which allow those companies to receive information about your activity on Zillow that is associated with your browser or device. The companies may use that data to serve you more relevant ads on our sites or others. Except for this kind of selling or sharing, Zillow doesn’t otherwise sell any of your personal data.  You always have control over whether these technologies work on your devices. At any time, you can use our cookie preference tools to manage what kinds of cookies and other tracking technologies you’re comfortable with. Check out our Privacy Center for information about how to access these tools. You can also disable cookies altogether by adjusting the settings on your browser. However, if you choose to disable some or all cookies, many parts of our services may no longer work. For more information, see the “[Third-Party Tracking and Interest-Based Advertising](#third-party)” section in the Privacy Notice. 
+
+You do not need to create an account with us to exercise your Right to Opt-Out. However, we may ask you to provide additional personal data so that we can properly identify you to track compliance with your opt-out request. We will only use personal data provided in an opt-out request to review and comply with the request. If you choose not to provide this data, we may be able to process your request only to the extent we are able to identify you in our data systems.
+
+To exercise the Right to Opt Out of Personal Information Sales or Sharing: Navigate to our [**Privacy Center**](https://privacy.zillowgroup.com/) or email [privacy@zillow.com](mailto:privacy@zillow.com) with sufficient information to identify you and your request. 
+
+**Submitting Authorized Agent Requests**
+
+In certain circumstances, you are permitted by law to use an authorized agent to submit requests on your behalf through the designated methods set forth above where we can verify the authorized agent’s authority to act on your behalf. In order to verify the authorized agent’s authority, we generally require evidence of either: (i) a valid power of attorney; or (ii) a signed letter containing your name and contact information, the name and contact information of the authorized agent, and a statement of authorization for the request. Depending on the evidence provided and your state of residence, we may still need to separately reach out to you to confirm the authorized agent has permission to act on your behalf and to verify your identity in connection with the request. 
+
+**Appealing Privacy Rights Decisions**
+
+Depending on your state of residence, you may be able to appeal a decision we have made in connection with your privacy rights request. All appeal requests should be submitted via email to [zgprivacy@zillowgroup.com](mailto:zgprivacy@zillowgroup.com). 
+
+**Minors**
+
+We do not sell the personal data of consumers we know to be less than 16 years of age, unless we receive affirmative authorization (the “Right to Opt In”) from either the minor who is between 13 and 16 years of age, or the parent or guardian of a minor less than 13 years of age.
+
+If you are under the age of 18 and you want to remove your name or comments from our website or publicly displayed content, please contact us directly at [privacy@zillow.com](mailto:privacy@zillow.com). We may not be able to modify or delete your information in all circumstances.
+
+If you wish to submit a privacy request on behalf of your minor child in accordance with applicable jurisdictional laws, you must provide sufficient information to allow us to reasonably verify your child is the person about whom we collected personal information and you are authorized to submit the request on your child’s behalf (i.e., you are the child’s legal guardian or authorized representative).
+
+**California-Specific Disclosures**
+
+The following disclosures only apply to residents of the State of California.
+
+_California Categories of Personal Data_
+
+California law requires we provide disclosures to you about what personal data we collect by reference to the enumerated categories of personal data set forth within California law. To address this obligation, we have identified the relevant enumerated California personal data category for the personal data, sources and purposes described in the “[Our Collection and Use of Personal Data](#data-use)” section of our Privacy Notice below: 
+
+* **Identifiers**, including Account Registration and Profile Information, information related to your feedback, inquiries, and communications, credit and identity information relating to data used to identify you, full name, IP address, and government identification number (including Social Security number, passport number, and driver’s license number).
+* **Customer Records**, including Account Registration and Profile Information, Security/Authentication Information, and Payment Information.
+* **Protected Classification Characteristics**, including age, date of birth, gender, and sex. 
+* **Commercial Information**, including Account Registration and Profile Information relating to your purchases, Profile Information relating to your transactions, preferences, and interests, and Feedback Information.
+* **Internet/Network Information**, including information about how you access and use the services, Log Data, and Analytics Data.
+* **Geolocation Data,** including general geographic location or more precise location with your consent or when permitted by law.
+* **Sensory Information**, including, where permitted by law, recordings of phone calls between us and individuals, and image and video recordings of visitors to our offices or events.
+* **Profession/Employment Information**, including the business or organization you represent, your title with that business or organization, and information relating to your role with the business or organization.
+* **Sensitive Information**, including Social Security number, driver’s license number, passport number, credit/debit card number plus expiration date and security code (CVV), financial account number and routing number, username and password, and precise geolocation.
+* **Other Personal Data**, including any information you provide us in connection with signing up for newsletters, email communications, and surveys, personal data you permit us to see when interacting with us through social media, and personal data you provide us in relation to a question, request, inquiry, survey, contest, or promotion.
+* **Inferences**, including our predictions about interests and preferences and related Service Profile Information.
+
+We collect this data from the following sources: directly from you, from our business partners and affiliates, from your browser or device when you visit our mobile app(s) or use our Services, or from third parties that you permit to share information with us. Please see “[Our Collection and Use of Personal Data](#data-use)” section of our Privacy Notice for more information about the sources of personal data we collect. We disclose all of these categories of personal data for a business purpose to service providers or other third parties at the consumer’s direction, as outlined in the “[Our Disclosure of Personal Data](#data-disclosure)” section of our Privacy Notice.
+
+_Retention of Personal Data_ 
+
+We strive to retain your personal data only for as long as is reasonably necessary to fulfill the purpose for which it was collected. However, if necessary, we may retain your personal data for longer periods of time, until set retention periods and deadlines expire, for instance where we are required to do so in accordance with legal, tax and/or accounting requirements set by a legislature, regulator, or other government authority.
+
+To determine the appropriate duration of the retention of personal data, we consider the amount, nature and sensitivity of the personal data, the potential risk of harm from unauthorized use or disclosure of personal data and if we can attain our objectives by other means, as well as our legal, regulatory, tax, accounting, and other applicable obligations.
+
+Therefore, we retain personal data for as long as you use our services for the purposes explained in our Privacy Notice, including maintaining a user account. When you discontinue the use of our services, we will retain your personal data for as long as necessary to comply with our legal obligations, to resolve disputes and defend claims, as well as for any additional purpose based on the choices you have made, such as to receive marketing communications.
+
+Once retention of your personal data is no longer necessary for the purposes outlined above, we will either delete or de-identify the personal data or, if this is not possible (for example, because personal data has been stored in backup archives), then we will securely store your personal data and isolate it from further processing until deletion or deidentification is possible.
+
+_“Shine the Light” Disclosures_
+
+The California “Shine the Light” law gives residents of California the right under certain circumstances to request information from us regarding the manner in which we share certain categories of personal information (as defined in the Shine the Light law) with third parties for their direct marketing purposes. To opt out of this type of sharing, please visit our [Privacy Center](https://privacy.zillowgroup.com/) or email us at [privacy@zillow.com](mailto:privacy@zillow.com).
+
+_Consumer Rights Metrics 2021_You can find data that reflects the California consumer rights requests that we have processed in the 2021 calendar year (January 2021 – December 2021) by clicking [here](https://www.privacy.zillowgroup.com/metrics#2021).
 
 See our previous Privacy Policies:
+
+[Effective March 7, 2022](https://www.zillowgroup.com/zg-privacy-policy/)
 
 [Effective January 1, 2020](https://zillowgroup.com/previous-privacy-policy)
 
 [Effective June 25, 2019](http://zillowgroup.com/previous-privacy-policy-june-25-2019)
-
-* * *
