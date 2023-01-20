@@ -263,15 +263,7 @@ Without limiting anything in this Agreement, you must comply with all applicable
 
 ### 15\. Your Privacy and Communications Consent
 
-We and our representatives will collect personal information about you including your name, contact information, personal preferences and other information. You will find more information, including the purposes for which we and our representatives may use your personal information, in our Privacy Policy, which is currently available at www.artstation.com/privacy
-
-We may use aggregate, non-identifiable information about the Site members for promotional and advertising purposes. We will not sell your personal information to third parties. If we suspect you of fraudulent or other prohibited activities, we may disclose your personal information to the police or other authorities. We will not otherwise disclose your personal information except as permitted or required by law or our Privacy Policy.
-
-When you register for the Site, a profile page is automatically created for you, and some of your personal information may be made available to the general public. For your protection, please do not share sensitive information on the Site or through the Services.
-
-> Basically...
-> 
-> When you submit your info on ArtStation, we save it somewhere and we use it internally to help make a good service for you. Because we depend on external services to run ArtStation (e.g. hosting), your info might be stored on their service and you're giving us permission to do this.
+For information about how we collect, use, share and otherwise process information about you, please see our [Privacy Policy](https://www.artstation.com/privacy).
 
 * * *
 
@@ -383,7 +375,15 @@ You must not:
 6. obtain an email address, user name or other information about a third party without their consent;
 7. use any misleading, false or deceptive TCP/IP header information in any email or posting;
 8. conduct or instigate any denial of service attack against the ArtStation website or network, any other Epic website or network, or any third party’s website or network; or
-9. collect, aggregate, mine, scrape, or otherwise use any content uploaded to the Site for the purposes of testing, inputting, or integrating such content with AI or other algorithmic methods where any content has been tagged, labeled, or otherwise marked “NoAI” by the content provider.
+9. except where explicitly allowed by this Agreement, collect, aggregate, mine, scrape, or otherwise use any content uploaded to the Site for the purposes of publishing, selling, distributing or otherwise making the content available to others to use, download or copy;
+10. collect, aggregate, mine, scrape or otherwise use NoAI Content
+    
+    (a) in datasets utilized by Generative AI Programs;
+    
+    (b) in the development of Generative AI Programs; or
+    
+    (c) as inputs to Generative AI Programs.
+    
 
 (e) improperly make complaints or false reports on the Site;
 
@@ -609,10 +609,18 @@ No delay or failure to act by Epic regarding any default will impair any of our 
 
 ### 46\. Artificial Intelligence
 
-We care about protecting artists and providing the tools to protect their art. You are able to tag your projects containing Your Content with “NoAI” if you would like Your Content to be prohibited from use with AI. This tag will not be applied to your projects or Your Content by default; you must actively designate your projects containing Your Content for the “NoAI” tag to apply.
+We care about protecting artists and providing the tools to protect their art. You are able to tag your projects containing Your Content with “NoAI” if you would like Your Content to be prohibited from use with AI. This tag will not be applied to your projects or Your Content by default; you must actively designate your projects containing Your Content for the “NoAI” tag to apply. Any content uploaded to the Site that has been tagged, labeled, or otherwise marked “NoAI” via the tagging functionality provided by the platform will be known as “NoAI Content.”
 
-You understand and agree that you will not collect, aggregate, mine, scrape, or otherwise use content uploaded to the Site for the purposes of testing, inputting, or integrating such content with artificial intelligence, machine learning, deep learning, neural networks, or similar technologies (collectively, “AI”) where such content has been tagged, labeled, or otherwise marked “NoAI” by the content provider.
+For purposes of this Agreement, “Generative AI Programs” means artificial intelligence, machine learning, deep learning, neural networks, or similar technologies designed to automate the generation of or aid in the creation of new content, including but not limited to audio, visual, or text-based content. You shall not collect, aggregate, mine, scrape, or otherwise use NoAI Content
+
+(a) in datasets utilized by Generative AI Programs;
+
+(b) in the development of Generative AI Programs; or
+
+(c) as inputs to Generative AI Programs.
+
+Epic agrees, whether or not Your Content is NoAI Content, not to use any of Your Content or to license any of Your Content to third parties for use in connection with Generative AI Programs.
 
 > Basically...
 > 
-> you can designate Your Content to be prohibited from use in AI systems.
+> Epic won’t use or license your content for AI generation or training
