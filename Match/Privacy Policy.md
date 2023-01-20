@@ -244,8 +244,8 @@ We want you to be in control of your information, so we want to remind you of th
 
 We also want you to be aware of your privacy rights. Here are a few key points to remember:
 
-* Reviewing your information. Applicable privacy laws may give you the right to review the personal information we keep about you (depending on the jurisdiction, this may be called right of access, right of portability, right to know or variations of those terms). You can exercise this right by putting in such a request [here](#_section13).
-* Updating your information. If you believe that the information we hold about you is inaccurate or that we are no longer entitled to use it and want to request its rectification, deletion, object to or restrict its processing, please contact us [here](#_section13).
+* Reviewing your information. Applicable privacy laws may give you the right to review the personal information we keep about you (depending on the jurisdiction, this may be called right of access, right of portability, right to know or variations of those terms). You can exercise this right by putting in such a request [here](https://uk.match.com/faq/#privacyRequest).
+* Updating your information. If you believe that the information we hold about you is inaccurate or that we are no longer entitled to use it and want to request its rectification, deletion, object to or restrict its processing, please contact us [here](https://uk.match.com/faq/#privacyRequest).
 
 For your protection and the protection of all of our users, we may ask you to provide proof of identity before we can answer the above requests.
 
